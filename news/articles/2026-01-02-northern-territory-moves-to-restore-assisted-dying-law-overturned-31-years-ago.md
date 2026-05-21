@@ -15,10 +15,10 @@ primary_themes:
 - Indigenous rights and health equity
 - Australian law reform
 topic_tags:
-  - "health"
-  - "health treatment and procedure"
-  - "politics"
+  - government
   - "government policy"
+  - health
+  - politics
 storyline_nexus: []
 geographic_location: Darwin, Northern Territory, Australia
 floor_values_engaged:

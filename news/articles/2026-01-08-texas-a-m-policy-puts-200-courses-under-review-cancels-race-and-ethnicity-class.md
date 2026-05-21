@@ -17,10 +17,10 @@ primary_themes:
 - curriculum restrictions
 - race and gender in education
 topic_tags:
+  - discrimination
   - education
-  - "higher education"
-  - politics
   - "education policy"
+  - society
 storyline_nexus: []
 geographic_location: College Station, Texas
 floor_values_engaged:

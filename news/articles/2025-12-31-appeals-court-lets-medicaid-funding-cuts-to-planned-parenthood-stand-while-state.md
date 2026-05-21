@@ -18,7 +18,10 @@ primary_themes:
 - federal courts
 - state attorneys general
 - Trump administration policy
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - judiciary
+  - health
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

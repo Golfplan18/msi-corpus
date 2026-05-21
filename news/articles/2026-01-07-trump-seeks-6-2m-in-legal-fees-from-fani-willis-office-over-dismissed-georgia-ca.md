@@ -17,9 +17,12 @@ primary_themes:
 - Georgia_politics
 - prosecutorial_conduct
 topic_tags:
-  - "crime, law and justice"
-  - prosecution
+  - "human interest"
+  - election
+  - politics
   - trial
+  - "crime, law and justice"
+  - "human migration"
 storyline_nexus: []
 geographic_location: Atlanta, Georgia, United States
 floor_values_engaged:

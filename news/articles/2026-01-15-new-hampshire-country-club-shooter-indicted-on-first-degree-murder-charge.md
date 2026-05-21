@@ -13,7 +13,10 @@ primary_themes:
 - gun violence
 - criminal indictment
 - murder
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "disaster, accident and emergency incident"
+  - fire
 storyline_nexus: []
 geographic_location: Nashua, New Hampshire
 floor_values_engaged:

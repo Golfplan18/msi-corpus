@@ -19,7 +19,10 @@ primary_themes:
 - midterm elections
 - congressional apportionment
 - state legislatures
-topic_tags: []
+topic_tags:
+  - "politics"
+  - "political process"
+  - "election"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

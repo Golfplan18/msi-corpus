@@ -13,7 +13,9 @@ primary_themes:
 - International diplomacy
 - Healthcare policy
 - Arctic geopolitics
-topic_tags: []
+topic_tags:
+  - politics
+  - "government policy"
 storyline_nexus: []
 geographic_location: Greenland, Denmark, United States
 floor_values_engaged:

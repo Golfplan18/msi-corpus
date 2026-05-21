@@ -18,6 +18,8 @@ primary_themes:
 - oil policy
 - democracy and elections
 topic_tags:
+  - politics
+  - election
 storyline_nexus: []
 geographic_location: Venezuela
 floor_values_engaged:

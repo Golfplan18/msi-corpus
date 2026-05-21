@@ -18,7 +18,10 @@ primary_themes:
 - cultural heritage
 - auction
 - Titanic legacy
-topic_tags: []
+topic_tags:
+  - "human migration"
+  - "human interest"
+  - "economy, business and finance"
 storyline_nexus: []
 geographic_location: Devizes, England; Pigeon Forge, Tennessee; Branson, Missouri; Newfoundland
 floor_values_engaged:

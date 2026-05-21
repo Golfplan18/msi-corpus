@@ -20,7 +20,9 @@ primary_themes:
 - presidential conduct
 - Medal of Honor
 - dignified transfer
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Dover, Delaware; United States
 floor_values_engaged:

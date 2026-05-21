@@ -13,7 +13,11 @@ primary_themes:
 - conservative politics
 - church-state relations
 - Turning Point USA
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - religion
+  - "religious institution"
 storyline_nexus: []
 geographic_location: Athens, Georgia, United States
 floor_values_engaged:

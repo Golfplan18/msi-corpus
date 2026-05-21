@@ -14,7 +14,9 @@ primary_themes:
 - Sports
 - International events
 - Cultural heritage
-topic_tags: []
+topic_tags:
+  - sport
+  - "sport event"
 storyline_nexus: []
 geographic_location: Venice, Italy
 floor_values_engaged:

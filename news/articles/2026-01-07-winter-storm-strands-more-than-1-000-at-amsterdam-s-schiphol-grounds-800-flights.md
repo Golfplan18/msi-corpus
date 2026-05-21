@@ -17,9 +17,9 @@ primary_themes:
 - transportation
 - Europe
 topic_tags:
-  - politics
-  - government
-  - "international relations"
+  - "disaster, accident and emergency incident"
+  - "transportation accident and incident"
+  - weather
 storyline_nexus: []
 geographic_location: Europe
 floor_values_engaged:

@@ -17,7 +17,11 @@ primary_themes:
 - Ukraine
 - Venezuela
 - Gaza
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "crime, law and justice"
+  - religion
 storyline_nexus: []
 geographic_location: Vatican City
 floor_values_engaged:

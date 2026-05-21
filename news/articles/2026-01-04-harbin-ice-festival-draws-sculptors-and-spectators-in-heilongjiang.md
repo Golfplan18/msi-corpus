@@ -14,7 +14,12 @@ primary_themes:
 - China
 - ice sculpture
 - Asia Pacific
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "law enforcement"
+  - "lifestyle and leisure"
+  - travel
+  - weather
 storyline_nexus: []
 geographic_location: Harbin, Heilongjiang province, China
 floor_values_engaged:

@@ -19,7 +19,10 @@ primary_themes:
 - 250th anniversary
 - community problem-solving
 - nonprofits
-topic_tags: []
+topic_tags:
+  - politics
+  - election
+  - "economy, business and finance"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

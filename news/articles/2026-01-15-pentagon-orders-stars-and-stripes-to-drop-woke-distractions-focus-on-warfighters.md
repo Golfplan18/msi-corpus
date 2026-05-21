@@ -17,7 +17,11 @@ primary_themes:
 - military media
 - editorial independence
 - executive power
-topic_tags: []
+topic_tags:
+  - "human migration"
+  - society
+  - politics
+  - "human interest"
 storyline_nexus: []
 geographic_location: Washington, D.C., United States
 floor_values_engaged:

@@ -15,7 +15,13 @@ primary_themes:
 - police accountability
 - school safety
 - active shooter response
-topic_tags: []
+topic_tags:
+  - crime
+  - "crime, law and justice"
+  - education
+  - judiciary
+  - "law enforcement"
+  - school
 storyline_nexus: []
 geographic_location: Uvalde, Texas
 floor_values_engaged:

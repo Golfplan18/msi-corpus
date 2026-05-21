@@ -12,7 +12,8 @@ primary_themes:
 - Iran protests and crackdown
 - US-Iran tensions
 - Disputed casualty figures
-topic_tags: []
+topic_tags:
+  - politics
 storyline_nexus: []
 geographic_location: Iran, Middle East, United States
 floor_values_engaged:

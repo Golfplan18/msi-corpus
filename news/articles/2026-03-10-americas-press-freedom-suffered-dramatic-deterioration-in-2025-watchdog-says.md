@@ -15,7 +15,9 @@ primary_themes:
 - journalist safety
 - censorship
 - democracy
-topic_tags: []
+topic_tags:
+  - "arts, culture, entertainment and media"
+  - "mass media"
 storyline_nexus: []
 geographic_location: Americas
 floor_values_engaged:

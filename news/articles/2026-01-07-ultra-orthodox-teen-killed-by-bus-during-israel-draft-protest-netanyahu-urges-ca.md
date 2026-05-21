@@ -11,9 +11,8 @@ primary_themes:
 - Israel internal politics
 - protest violence
 topic_tags:
-  - "civil unrest"
+  - "crime, law and justice"
   - "conflict, war and peace"
-  - religion
 storyline_nexus: []
 geographic_location: Jerusalem, Israel
 floor_values_engaged:

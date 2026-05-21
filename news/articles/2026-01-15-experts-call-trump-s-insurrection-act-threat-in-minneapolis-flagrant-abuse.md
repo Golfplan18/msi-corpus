@@ -17,9 +17,11 @@ primary_themes:
 - immigration enforcement
 - Minneapolis protests
 topic_tags:
-  - "civil unrest"
-  - "conflict, war and peace"
+  - banking
   - "crime, law and justice"
+  - "economy, business and finance"
+  - government
+  - politics
 storyline_nexus: []
 geographic_location: Minneapolis, Minnesota, United States
 floor_values_engaged:

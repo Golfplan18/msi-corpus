@@ -20,7 +20,10 @@ primary_themes:
 - law enforcement trauma
 - Capitol security
 - political violence
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "law enforcement"
+  - politics
 storyline_nexus: []
 geographic_location: Washington, D.C., United States
 floor_values_engaged:

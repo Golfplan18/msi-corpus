@@ -14,7 +14,10 @@ primary_themes:
 - aurora borealis
 - natural phenomena
 - solar activity
-topic_tags: []
+topic_tags:
+  - "science and technology"
+  - "space programme"
+  - weather
 storyline_nexus: []
 geographic_location: United States; Northern Hemisphere
 floor_values_engaged:

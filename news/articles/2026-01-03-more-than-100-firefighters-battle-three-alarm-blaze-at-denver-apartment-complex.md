@@ -17,7 +17,7 @@ primary_themes:
 - construction
 topic_tags:
   - "disaster, accident and emergency incident"
-  - "fire"
+  - fire
 storyline_nexus: []
 geographic_location: Denver, Colorado, United States
 floor_values_engaged:

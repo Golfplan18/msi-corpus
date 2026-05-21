@@ -13,9 +13,8 @@ primary_themes:
 - property damage
 - public safety
 topic_tags:
-  - "construction and property"
   - "crime, law and justice"
-  - "economy, business and finance"
+  - prosecution
 storyline_nexus: []
 geographic_location: Columbus, Ohio; Cincinnati, Ohio, United States
 floor_values_engaged:

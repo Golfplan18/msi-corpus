@@ -20,7 +20,10 @@ primary_themes:
 - Immigration enforcement
 - Funding threats
 - Constitutional rights
-topic_tags: []
+topic_tags:
+  - government
+  - "government policy"
+  - politics
 storyline_nexus: []
 geographic_location: United States (Texas)
 floor_values_engaged:

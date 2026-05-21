@@ -18,11 +18,11 @@ primary_themes:
 - election eligibility
 - embezzlement
 topic_tags:
+  - election
+  - employment
+  - labour
+  - politics
   - "science and technology"
-  - "crime, law and justice"
-  - "corruption"
-  - "politics"
-  - "election"
 storyline_nexus: []
 geographic_location: Paris, France
 floor_values_engaged:

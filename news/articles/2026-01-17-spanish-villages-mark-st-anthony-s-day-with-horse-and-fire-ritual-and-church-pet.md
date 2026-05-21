@@ -14,7 +14,12 @@ primary_themes:
 - cultural traditions
 - animals
 - Spain
-topic_tags: []
+topic_tags:
+  - "disaster, accident and emergency incident"
+  - fire
+  - religion
+  - "religious institution"
+  - weather
 storyline_nexus: []
 geographic_location: San Bartolomé de Pinares and Madrid, Spain
 floor_values_engaged:

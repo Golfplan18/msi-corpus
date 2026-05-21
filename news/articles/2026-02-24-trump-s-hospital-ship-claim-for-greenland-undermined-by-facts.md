@@ -12,7 +12,8 @@ primary_themes:
 - healthcare_access
 - fact_check
 - presidential_claims
-topic_tags: []
+topic_tags:
+  - health
 storyline_nexus: []
 geographic_location: Greenland; United States
 floor_values_engaged:

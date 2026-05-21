@@ -16,7 +16,11 @@ primary_themes:
 - public safety
 - litigation
 - disaster response
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "law enforcement"
+  - "science and technology"
+  - "artificial intelligence"
 storyline_nexus: []
 geographic_location: Texas, USA
 floor_values_engaged:

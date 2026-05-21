@@ -15,7 +15,12 @@ primary_themes:
 - civil liberties
 - national security
 - executive power
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "artificial intelligence"
+  - "conflict, war and peace"
+  - "science and technology"
+  - "technology and engineering"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

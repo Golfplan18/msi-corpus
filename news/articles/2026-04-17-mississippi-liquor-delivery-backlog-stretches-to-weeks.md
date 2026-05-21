@@ -14,7 +14,9 @@ primary_themes:
 - state_monopoly
 - regulatory_capacity
 - small_business_impact
-topic_tags: []
+topic_tags:
+  - "market and exchange"
+  - "economy, business and finance"
 storyline_nexus: []
 geographic_location: Mississippi, United States
 floor_values_engaged:

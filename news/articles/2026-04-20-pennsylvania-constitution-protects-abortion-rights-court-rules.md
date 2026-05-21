@@ -17,7 +17,9 @@ primary_themes:
 - Medicaid coverage
 - reproductive rights
 - equal protection
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - judiciary
 storyline_nexus: []
 geographic_location: Pennsylvania, United States
 floor_values_engaged:

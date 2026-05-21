@@ -25,7 +25,13 @@ primary_themes:
 - regional spillover
 - military casualties
 - mass displacement
-topic_tags: []
+topic_tags:
+  - politics
+  - government
+  - "conflict, war and peace"
+  - "arts, culture, entertainment and media"
+  - "social media"
+  - "arts and entertainment"
 storyline_nexus: []
 geographic_location: Middle East / Persian Gulf
 floor_values_engaged:

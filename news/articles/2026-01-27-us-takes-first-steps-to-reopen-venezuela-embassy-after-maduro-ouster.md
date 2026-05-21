@@ -13,7 +13,13 @@ primary_themes:
 - Diplomacy
 - US-Venezuela Relations
 - Government
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "artificial intelligence"
+  - "conflict, war and peace"
+  - government
+  - "government policy"
+  - "international relations"
 storyline_nexus: []
 geographic_location: Caracas, Venezuela; Washington, D.C., United States
 floor_values_engaged:

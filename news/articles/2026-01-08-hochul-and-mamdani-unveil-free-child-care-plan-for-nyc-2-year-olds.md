@@ -15,9 +15,9 @@ primary_themes:
 - state-city relations
 - affordability
 topic_tags:
+  - education
+  - "human interest"
   - politics
-  - government
-  - "international relations"
 storyline_nexus: []
 geographic_location: New York City, New York
 floor_values_engaged:

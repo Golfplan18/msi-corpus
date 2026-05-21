@@ -15,7 +15,13 @@ primary_themes:
 - media consolidation
 - consumer protection
 - regulatory oversight
-topic_tags: []
+topic_tags:
+  - "arts, culture, entertainment and media"
+  - "business information"
+  - "crime, law and justice"
+  - "economy, business and finance"
+  - judiciary
+  - "social media"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

@@ -17,7 +17,9 @@ primary_themes:
 - constituent legacy assessment
 - Georgia 14th Congressional District
 - political realignment
-topic_tags: []
+topic_tags:
+  - government
+  - politics
 storyline_nexus: []
 geographic_location: Dalton, Georgia, United States
 floor_values_engaged:

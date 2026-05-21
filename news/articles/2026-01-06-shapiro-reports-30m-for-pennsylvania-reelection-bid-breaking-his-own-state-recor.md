@@ -10,7 +10,11 @@ primary_themes:
 - campaign finance
 - 2026 elections
 - Pennsylvania politics
-topic_tags: []
+topic_tags:
+  - politics
+  - election
+  - "economy, business and finance"
+  - banking
 storyline_nexus: []
 geographic_location: Harrisburg, Pennsylvania, United States
 floor_values_engaged:

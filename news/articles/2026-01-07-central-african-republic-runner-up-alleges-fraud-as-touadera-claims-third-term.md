@@ -16,7 +16,12 @@ primary_themes:
 - Russia-Africa relations
 - Wagner Group
 - African Corps
-topic_tags: []
+topic_tags:
+  - politics
+  - election
+  - "human interest"
+  - "human migration"
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: Bangui, Central African Republic
 floor_values_engaged:

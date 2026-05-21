@@ -13,7 +13,13 @@ primary_themes:
 - historic_preservation
 - judicial_review
 - federal_governance
-topic_tags: []
+topic_tags:
+  - politics
+  - trial
+  - "government policy"
+  - "economy, business and finance"
+  - "construction and property"
+  - "crime, law and justice"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

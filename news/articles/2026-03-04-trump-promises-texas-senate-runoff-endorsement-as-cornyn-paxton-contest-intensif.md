@@ -16,7 +16,11 @@ primary_themes:
 - Republican primary
 - presidential endorsement
 - intraparty conflict
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - election
+  - politics
 storyline_nexus: []
 geographic_location: Texas, United States
 floor_values_engaged:

@@ -15,7 +15,11 @@ primary_themes:
 - childhood vaccination policy
 - subclade K variant
 - respiratory illness
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - health
+  - sport
+  - "sport event"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

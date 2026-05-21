@@ -13,7 +13,11 @@ primary_themes:
 - institutional trust
 - healthcare system
 topic_tags:
+  - government
+  - "government policy"
   - health
+  - labour
+  - politics
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

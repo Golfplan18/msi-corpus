@@ -13,7 +13,13 @@ primary_themes:
 - elections
 - Democratic victories
 - gubernatorial inaugurations
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "economy, business and finance"
+  - election
+  - "international trade"
+  - politics
 storyline_nexus: []
 geographic_location: New Jersey, United States
 floor_values_engaged:

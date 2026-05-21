@@ -21,7 +21,13 @@ primary_themes:
 - drug trafficking
 - Trump foreign policy
 - Venezuela relations
-topic_tags: []
+topic_tags:
+  - politics
+  - "government policy"
+  - "international relations"
+  - labour
+  - "conflict, war and peace"
+  - "labour dispute"
 storyline_nexus: []
 geographic_location: United States, Venezuela, Mexico, Central America
 floor_values_engaged:

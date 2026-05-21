@@ -14,7 +14,9 @@ primary_themes:
 - border enforcement
 - local-federal coordination
 - immigration policy
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: Helena, Montana
 floor_values_engaged:

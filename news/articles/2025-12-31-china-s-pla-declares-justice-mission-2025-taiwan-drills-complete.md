@@ -18,7 +18,13 @@ primary_themes:
 - Taiwan Strait security
 - Indo-Pacific geopolitics
 - PLA military exercises
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "arts, culture, entertainment and media"
+  - "conflict, war and peace"
+  - "human interest"
+  - "international relations"
+  - politics
 storyline_nexus: []
 geographic_location: Taiwan Strait, East Asia
 floor_values_engaged:

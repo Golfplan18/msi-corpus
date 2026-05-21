@@ -26,7 +26,9 @@ primary_themes:
 - economic-coercion
 - transatlantic-relations
 - Anti-Coercion-Instrument
-topic_tags: []
+topic_tags:
+  - "economy, business and finance"
+  - "international trade"
 storyline_nexus: []
 geographic_location: Brussels, Belgium; Davos, Switzerland; West Palm Beach, Florida
 floor_values_engaged:

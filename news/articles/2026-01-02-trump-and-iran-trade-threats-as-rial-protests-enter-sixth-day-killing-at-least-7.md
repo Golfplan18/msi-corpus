@@ -18,10 +18,12 @@ primary_themes:
 - Nuclear program
 - Middle East tensions
 topic_tags:
-  - "conflict, war and peace"
-  - "civil unrest"
-  - "politics"
+  - "economy, business and finance"
+  - "human interest"
   - "international relations"
+  - "international trade"
+  - politics
+  - society
 storyline_nexus: []
 geographic_location: Iran; Middle East
 floor_values_engaged:

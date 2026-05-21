@@ -16,8 +16,10 @@ primary_themes:
 - executive-legislative tension
 - naming and memorialization law
 topic_tags:
+  - "arts and entertainment"
+  - "arts, culture, entertainment and media"
+  - election
   - politics
-  - government
 storyline_nexus: []
 geographic_location: Washington, D.C.
 floor_values_engaged:

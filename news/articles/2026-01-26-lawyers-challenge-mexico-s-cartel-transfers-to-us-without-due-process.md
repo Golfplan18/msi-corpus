@@ -19,7 +19,13 @@ primary_themes:
 - due process
 - cartel crackdown
 - US-Mexico relations
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "civil unrest"
+  - "conflict, war and peace"
+  - government
+  - "government policy"
+  - "international relations"
 storyline_nexus: []
 geographic_location: United States; Mexico
 floor_values_engaged:

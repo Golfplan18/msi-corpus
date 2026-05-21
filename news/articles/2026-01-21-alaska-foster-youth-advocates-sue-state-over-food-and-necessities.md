@@ -12,7 +12,11 @@ primary_themes:
 - child welfare
 - government accountability
 - state services
-topic_tags: []
+topic_tags:
+  - education
+  - "higher education"
+  - "arts, culture, entertainment and media"
+  - "arts and entertainment"
 storyline_nexus: []
 geographic_location: Alaska, United States
 floor_values_engaged:

@@ -15,7 +15,9 @@ primary_themes:
 - public technology spending
 - community colleges
 - student services
-topic_tags: []
+topic_tags:
+  - "education"
+  - "higher education"
 storyline_nexus: []
 geographic_location: California, United States
 floor_values_engaged:

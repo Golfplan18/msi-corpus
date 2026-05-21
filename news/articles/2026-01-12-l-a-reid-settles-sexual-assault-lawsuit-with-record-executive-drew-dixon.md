@@ -14,7 +14,8 @@ primary_themes:
 - music_industry
 - adult_survivors_act
 - legal_settlement
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
 storyline_nexus: []
 geographic_location: New York, New York, United States
 floor_values_engaged:

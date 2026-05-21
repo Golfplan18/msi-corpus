@@ -14,7 +14,13 @@ primary_themes:
 - global governance
 - United Nations
 - Russia-Ukraine war
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "artificial intelligence"
+  - "conflict, war and peace"
+  - government
+  - "government policy"
+  - "international relations"
 storyline_nexus: []
 geographic_location: New York, United States
 floor_values_engaged:

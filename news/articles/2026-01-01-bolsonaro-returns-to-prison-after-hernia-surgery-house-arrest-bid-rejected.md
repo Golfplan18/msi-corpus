@@ -16,7 +16,13 @@ primary_themes:
 - democratic institutions
 - criminal justice
 - Latin America politics
-topic_tags: []
+topic_tags:
+  - crime
+  - "crime, law and justice"
+  - "human migration"
+  - "international relations"
+  - "law enforcement"
+  - "political process"
 storyline_nexus: []
 geographic_location: Brasilia, Brazil
 floor_values_engaged:

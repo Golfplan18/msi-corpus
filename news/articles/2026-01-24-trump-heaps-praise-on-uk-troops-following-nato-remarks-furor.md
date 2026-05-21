@@ -13,7 +13,8 @@ primary_themes:
 - international relations
 - military affairs
 - diplomatic tension
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: International (UK, US, NATO)
 floor_values_engaged:

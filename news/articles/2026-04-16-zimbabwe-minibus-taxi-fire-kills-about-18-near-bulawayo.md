@@ -13,7 +13,12 @@ primary_themes:
 - public transportation
 - Zimbabwe
 - Africa
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - crime
+  - "law enforcement"
+  - "disaster, accident and emergency incident"
+  - fire
 storyline_nexus: []
 geographic_location: Bulawayo, Zimbabwe
 floor_values_engaged:

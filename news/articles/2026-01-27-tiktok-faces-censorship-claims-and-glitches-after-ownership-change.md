@@ -14,7 +14,9 @@ primary_themes:
 - content_moderation
 - regulatory_review
 - user_perception
-topic_tags: []
+topic_tags:
+  - "arts, culture, entertainment and media"
+  - "social media"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

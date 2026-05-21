@@ -17,6 +17,8 @@ primary_themes:
 - government statistics
 - cartel violence
 topic_tags:
+  - politics
+  - government
   - "crime, law and justice"
   - crime
 storyline_nexus: []

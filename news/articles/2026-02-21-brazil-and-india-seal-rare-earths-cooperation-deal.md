@@ -16,7 +16,11 @@ primary_themes:
 - geopolitics
 - BRICS
 - supply_chain_autonomy
-topic_tags: []
+topic_tags:
+  - "economy, business and finance"
+  - "international trade"
+  - "science and technology"
+  - "artificial intelligence"
 storyline_nexus: []
 geographic_location: Brazil, India
 floor_values_engaged:

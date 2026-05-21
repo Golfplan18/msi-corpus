@@ -21,7 +21,12 @@ primary_themes:
 - Prison Rape Elimination Act
 - incarcerated women
 - investigative journalism
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "crime"
+  - "law"
+  - "politics"
+  - "government policy"
 storyline_nexus: []
 geographic_location: Idaho, United States
 floor_values_engaged:

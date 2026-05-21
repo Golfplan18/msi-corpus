@@ -15,7 +15,13 @@ primary_themes:
 - nature and mental health
 - office design
 - work-life balance
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "crime, law and justice"
+  - government
+  - "government policy"
+  - health
+  - labour
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

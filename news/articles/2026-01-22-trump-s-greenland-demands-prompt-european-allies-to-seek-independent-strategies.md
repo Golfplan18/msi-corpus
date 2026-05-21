@@ -20,7 +20,11 @@ primary_themes:
 - transatlantic relations
 - Arctic security
 - geopolitics
-topic_tags: []
+topic_tags:
+  - government
+  - "government policy"
+  - "international relations"
+  - politics
 storyline_nexus: []
 geographic_location: Europe, Greenland, North America, Arctic
 floor_values_engaged:

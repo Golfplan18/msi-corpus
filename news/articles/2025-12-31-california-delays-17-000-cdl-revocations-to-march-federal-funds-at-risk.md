@@ -18,7 +18,10 @@ primary_themes:
 - civil rights
 - transportation safety
 - federal funding
-topic_tags: []
+topic_tags:
+  - politics
+  - government
+  - "economy, business and finance"
 storyline_nexus: []
 geographic_location: California, United States
 floor_values_engaged:

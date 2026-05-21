@@ -23,7 +23,13 @@ primary_themes:
 - just war doctrine
 - interfaith dialogue
 - U.S.-Vatican relations
-topic_tags: []
+topic_tags:
+  - politics
+  - election
+  - "human interest"
+  - "religious leader"
+  - society
+  - "international relations"
 storyline_nexus: []
 geographic_location: International — Algeria; aboard papal plane en route to Cameroon
 floor_values_engaged:

@@ -18,7 +18,12 @@ primary_themes:
 - public_health_policy
 - vaccine_policy
 - executive_nominations
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - government
+  - health
+  - politics
 storyline_nexus: []
 geographic_location: Washington, D.C. / Atlanta, Georgia
 floor_values_engaged:

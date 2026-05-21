@@ -14,7 +14,12 @@ primary_themes:
 - bribery investigation
 - transparency
 - statute of limitations
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "crime, law and justice"
+  - government
+  - politics
 storyline_nexus: []
 geographic_location: Hawaii, United States
 floor_values_engaged:

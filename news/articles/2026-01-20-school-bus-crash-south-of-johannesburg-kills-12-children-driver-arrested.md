@@ -11,7 +11,9 @@ primary_themes:
 - transportation_safety
 - criminal_justice
 - child_safety
-topic_tags: []
+topic_tags:
+  - education
+  - school
 storyline_nexus: []
 geographic_location: South Africa
 floor_values_engaged:

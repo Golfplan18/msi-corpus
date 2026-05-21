@@ -16,9 +16,12 @@ primary_themes:
 - Ukraine war diplomacy
 - international maritime law
 topic_tags:
-  - "economy, business and finance"
+  - "armed conflict"
+  - "artificial intelligence"
   - "conflict, war and peace"
-  - "international relations"
+  - "economy, business and finance"
+  - "energy and resource"
+  - government
 storyline_nexus: []
 geographic_location: North Atlantic; Moscow; Washington
 floor_values_engaged:

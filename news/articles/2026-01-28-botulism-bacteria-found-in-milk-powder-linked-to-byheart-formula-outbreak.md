@@ -15,7 +15,10 @@ primary_themes:
 - Infant health
 - Food safety
 - Product recall
-topic_tags: []
+topic_tags:
+  - "economy, business and finance"
+  - "epidemic and pandemic"
+  - health
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

@@ -13,7 +13,9 @@ primary_themes:
 - US-EU relations
 - tariffs
 - trade policy
-topic_tags: []
+topic_tags:
+  - "economy, business and finance"
+  - "international trade"
 storyline_nexus: []
 geographic_location: United States and European Union
 floor_values_engaged:

@@ -16,7 +16,11 @@ primary_themes:
 - IEEPA
 - federal courts
 - import enforcement
-topic_tags: []
+topic_tags:
+  - "economy, business and finance"
+  - "government policy"
+  - "international trade"
+  - "politics"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

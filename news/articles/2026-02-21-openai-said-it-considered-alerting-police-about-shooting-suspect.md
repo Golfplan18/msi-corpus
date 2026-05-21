@@ -12,7 +12,13 @@ primary_themes:
 - technology-accountability
 - content-moderation
 - gun-violence
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - crime
+  - "crime, law and justice"
+  - "law enforcement"
+  - "science and technology"
+  - "artificial intelligence"
 storyline_nexus: []
 geographic_location: British Columbia Canada
 floor_values_engaged:

@@ -20,7 +20,13 @@ primary_themes:
 - DEI policy enforcement
 - First Amendment
 - Trump administration accountability
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "crime, law and justice"
+  - education
+  - government
+  - "government policy"
 storyline_nexus: []
 geographic_location: Washington, D.C.
 floor_values_engaged:

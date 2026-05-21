@@ -23,10 +23,10 @@ primary_themes:
 - community
 - year in review
 topic_tags:
-  - "human interest"
-  - "people"
+  - religion
+  - "religious leader"
   - "arts, culture, entertainment and media"
-  - "mass media"
+  - "arts and entertainment"
 storyline_nexus: []
 geographic_location: United States; Philippines
 floor_values_engaged:

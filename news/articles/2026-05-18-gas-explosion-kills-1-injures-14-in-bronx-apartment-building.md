@@ -21,7 +21,9 @@ primary_themes:
 - housing
 - infrastructure
 - emergency_response
-topic_tags: []
+topic_tags:
+  - "disaster, accident and emergency incident"
+  - "accident and emergency incident"
 storyline_nexus: []
 geographic_location: Bronx, New York, United States
 floor_values_engaged:

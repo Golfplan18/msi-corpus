@@ -13,7 +13,13 @@ primary_themes:
 - Child Safety
 - Technology Regulation
 - Corporate Accountability
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "arts, culture, entertainment and media"
+  - "crime, law and justice"
+  - "science and technology"
+  - "social media"
+  - "technology and engineering"
 storyline_nexus: []
 geographic_location: 'United States (trial location: Los Angeles, California)'
 floor_values_engaged:

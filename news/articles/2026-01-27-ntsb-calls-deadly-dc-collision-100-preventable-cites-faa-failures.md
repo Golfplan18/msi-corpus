@@ -14,7 +14,13 @@ primary_themes:
 - institutional accountability
 - government oversight
 - transportation safety
-topic_tags: []
+topic_tags:
+  - "accident and emergency incident"
+  - "armed conflict"
+  - "artificial intelligence"
+  - "conflict, war and peace"
+  - crime
+  - "crime, law and justice"
 storyline_nexus: []
 geographic_location: Washington, D.C.; Reagan National Airport
 floor_values_engaged:

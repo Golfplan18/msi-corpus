@@ -14,7 +14,11 @@ primary_themes:
 - Supreme Court
 - U.S.-China relations
 - corporate accountability
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "crime, law and justice"
+  - "science and technology"
+  - trial
 storyline_nexus: []
 geographic_location: Washington, D.C.; China
 floor_values_engaged:

@@ -17,7 +17,13 @@ primary_themes:
 - judicial review
 - national security
 - climate and environment
-topic_tags: []
+topic_tags:
+  - crime
+  - "crime, law and justice"
+  - "international relations"
+  - "law enforcement"
+  - "political dissent"
+  - trial
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

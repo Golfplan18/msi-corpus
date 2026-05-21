@@ -15,7 +15,13 @@ primary_themes:
 - immigration enforcement
 - Minneapolis
 - community response
-topic_tags: []
+topic_tags:
+  - "civil unrest"
+  - "conflict, war and peace"
+  - crime
+  - "crime, law and justice"
+  - government
+  - "government policy"
 storyline_nexus: []
 geographic_location: Minneapolis, Minnesota, United States
 floor_values_engaged:

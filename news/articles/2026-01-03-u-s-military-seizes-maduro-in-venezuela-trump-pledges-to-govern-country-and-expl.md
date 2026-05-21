@@ -20,7 +20,12 @@ primary_themes:
 - narco-terrorism prosecution
 - congressional authorization
 - Venezuelan oil policy
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - government
+  - "government policy"
+  - politics
+  - trial
 storyline_nexus: []
 geographic_location: Caracas, Venezuela; New York, United States
 floor_values_engaged:

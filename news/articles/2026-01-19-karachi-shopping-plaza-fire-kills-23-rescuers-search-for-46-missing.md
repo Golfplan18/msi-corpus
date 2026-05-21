@@ -18,7 +18,13 @@ primary_themes:
 - Pakistan
 - Karachi
 - building safety
-topic_tags: []
+topic_tags:
+  - crime
+  - "crime, law and justice"
+  - "disaster, accident and emergency incident"
+  - fire
+  - health
+  - "human interest"
 storyline_nexus: []
 geographic_location: Karachi, Pakistan
 floor_values_engaged:

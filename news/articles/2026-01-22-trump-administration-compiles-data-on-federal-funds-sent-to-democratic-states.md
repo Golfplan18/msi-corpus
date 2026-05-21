@@ -15,7 +15,13 @@ primary_themes:
 - immigration policy
 - sanctuary jurisdictions
 - Democratic-controlled states
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - corruption
+  - "crime, law and justice"
+  - "economy, business and finance"
+  - government
+  - "government policy"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

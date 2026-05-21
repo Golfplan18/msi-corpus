@@ -15,7 +15,9 @@ primary_themes:
 - government policy
 - identity documents
 - state legislation
-topic_tags: []
+topic_tags:
+  - government
+  - politics
 storyline_nexus: []
 geographic_location: Kansas, United States
 floor_values_engaged:

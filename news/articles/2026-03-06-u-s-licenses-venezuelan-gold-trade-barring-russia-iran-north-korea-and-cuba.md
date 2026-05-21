@@ -15,7 +15,11 @@ primary_themes:
 - critical minerals competition
 - U.S. foreign policy
 - sanctions
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "economy, business and finance"
+  - "international trade"
 storyline_nexus: []
 geographic_location: Washington, D.C. / Caracas, Venezuela
 floor_values_engaged:

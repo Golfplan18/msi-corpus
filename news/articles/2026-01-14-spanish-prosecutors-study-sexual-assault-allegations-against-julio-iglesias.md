@@ -18,7 +18,12 @@ primary_themes:
 - labor abuse
 - celebrity accountability
 topic_tags:
+  - "crime, law and justice"
+  - crime
+  - judiciary
   - labour
+  - "arts, culture, entertainment and media"
+  - music
 storyline_nexus: []
 geographic_location: Spain; Dominican Republic; Bahamas
 floor_values_engaged:

@@ -15,7 +15,13 @@ primary_themes:
 - medical_research_ethics
 - public_health
 - trump_administration_policy
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - government
+  - "government policy"
+  - health
+  - politics
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Guinea-Bissau, West Africa
 floor_values_engaged:

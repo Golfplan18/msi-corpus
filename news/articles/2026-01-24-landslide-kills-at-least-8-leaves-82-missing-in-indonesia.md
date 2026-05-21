@@ -12,7 +12,13 @@ primary_themes:
 - landslide
 - rescue_operations
 - seasonal_hazard
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - crime
+  - "crime, law and justice"
+  - "disaster, accident and emergency incident"
+  - "human interest"
+  - "natural disaster"
 storyline_nexus: []
 geographic_location: Java Occidental province, Indonesia
 floor_values_engaged:

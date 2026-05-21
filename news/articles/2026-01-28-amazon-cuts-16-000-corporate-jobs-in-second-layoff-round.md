@@ -14,7 +14,13 @@ primary_themes:
 - artificial intelligence impacts
 - labor market weakness
 - corporate cost-cutting
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "economy, business and finance"
+  - employment
+  - health
+  - labour
+  - "science and technology"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

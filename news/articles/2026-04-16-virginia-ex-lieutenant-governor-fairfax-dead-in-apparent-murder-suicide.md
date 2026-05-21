@@ -18,7 +18,8 @@ primary_themes:
 - sexual assault allegations
 - suicide
 - murder-suicide
-topic_tags: []
+topic_tags:
+  - politics
 storyline_nexus: []
 geographic_location: Virginia, United States
 floor_values_engaged:

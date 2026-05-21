@@ -14,7 +14,10 @@ primary_themes:
 - grave robbery
 - family impact
 - law enforcement
-topic_tags: []
+topic_tags:
+  - "human migration"
+  - "crime, law and justice"
+  - "human interest"
 storyline_nexus: []
 geographic_location: Pennsylvania, United States
 floor_values_engaged:

@@ -16,7 +16,9 @@ primary_themes:
 - Islamic State coalition
 - non-state armed groups
 - Iraq-U.S. relations
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: Anbar Province, Iraq
 floor_values_engaged:

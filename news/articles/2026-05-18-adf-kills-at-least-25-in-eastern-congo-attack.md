@@ -12,7 +12,11 @@ primary_themes:
 - armed_conflict
 - mass_casualty
 - human_rights
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - "crime, law and justice"
+  - "armed conflict"
+  - "war crime"
 storyline_nexus: []
 geographic_location: Ituri Province, Democratic Republic of the Congo
 floor_values_engaged:

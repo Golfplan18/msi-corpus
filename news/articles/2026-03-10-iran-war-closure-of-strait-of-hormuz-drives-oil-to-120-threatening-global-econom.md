@@ -24,7 +24,13 @@ primary_themes:
 - food security
 - central bank policy
 - household consumer costs
-topic_tags: []
+topic_tags:
+  - politics
+  - "human interest"
+  - "government policy"
+  - "economy, business and finance"
+  - "human migration"
+  - labour
 storyline_nexus: []
 geographic_location: Global / Strait of Hormuz
 floor_values_engaged:

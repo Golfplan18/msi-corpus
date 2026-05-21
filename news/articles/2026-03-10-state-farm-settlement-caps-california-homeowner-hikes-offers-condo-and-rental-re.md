@@ -19,7 +19,8 @@ primary_themes:
 - consumer protection
 - California housing
 - rate regulation
-topic_tags: []
+topic_tags:
+  - "economy, business and finance"
 storyline_nexus: []
 geographic_location: California, United States
 floor_values_engaged:

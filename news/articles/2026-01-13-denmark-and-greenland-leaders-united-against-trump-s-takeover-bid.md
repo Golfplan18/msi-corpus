@@ -20,11 +20,8 @@ primary_themes:
 - Greenland sovereignty
 - Denmark-U.S. relations
 topic_tags:
-  - "science and technology"
-  - "politics"
   - "government policy"
-  - "international relations"
-  - "artificial intelligence"
+  - politics
 storyline_nexus: []
 geographic_location: Copenhagen, Denmark; Nuuk, Greenland; Washington, D.C., United States
 floor_values_engaged:

@@ -13,7 +13,12 @@ primary_themes:
 - industrial_accident
 - corporate_response
 - regulatory_action
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - crime
+  - "disaster, accident and emergency incident"
+  - "accident and emergency incident"
+  - "economy, business and finance"
 storyline_nexus: []
 geographic_location: Louisville, Kentucky, United States
 floor_values_engaged:

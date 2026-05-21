@@ -19,9 +19,12 @@ primary_themes:
 - campus activism
 - Trump administration
 topic_tags:
-  - "human interest"
+  - "crime, law and justice"
   - "human migration"
-  - politics
+  - "international relations"
+  - "law enforcement"
+  - "political dissent"
+  - trial
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

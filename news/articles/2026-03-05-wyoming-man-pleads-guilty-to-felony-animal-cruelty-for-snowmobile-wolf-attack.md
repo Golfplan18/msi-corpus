@@ -14,7 +14,11 @@ primary_themes:
 - wildlife law
 - criminal courts
 - Wyoming
-topic_tags: []
+topic_tags:
+  - "conservation"
+  - "crime"
+  - "crime, law and justice"
+  - "environment"
 storyline_nexus: []
 geographic_location: Pinedale, Wyoming, United States
 floor_values_engaged:

@@ -18,11 +18,7 @@ primary_themes:
 - child development
 - nonprofit organizations
 - community service
-topic_tags:
-  - "society"
-  - "communities"
-  - "human interest"
-  - "people"
+topic_tags: []
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

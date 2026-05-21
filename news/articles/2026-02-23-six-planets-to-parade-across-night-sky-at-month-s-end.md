@@ -17,7 +17,9 @@ primary_themes:
 - astronomy
 - planetary_alignment
 - public_engagement_with_science
-topic_tags: []
+topic_tags:
+  - "science and technology"
+  - "space programme"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

@@ -16,6 +16,8 @@ primary_themes:
 - criminal investigation
 - international repatriation
 topic_tags:
+  - "crime, law and justice"
+  - "law enforcement"
   - "disaster, accident and emergency incident"
   - fire
 storyline_nexus: []

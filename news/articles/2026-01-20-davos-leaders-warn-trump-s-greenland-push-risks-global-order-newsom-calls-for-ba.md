@@ -19,7 +19,9 @@ primary_themes:
 - NATO alliance cohesion
 - World Economic Forum 2026
 - transatlantic relations
-topic_tags: []
+topic_tags:
+  - "international relations"
+  - politics
 storyline_nexus: []
 geographic_location: Davos, Switzerland
 floor_values_engaged:

@@ -15,7 +15,9 @@ primary_themes:
 - cold case resolution
 - missing persons
 - Columbia River
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - health
 storyline_nexus: []
 geographic_location: Cascade Locks, Oregon / Columbia River
 floor_values_engaged:

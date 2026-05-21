@@ -16,9 +16,12 @@ primary_themes:
 - public safety
 - volcanology
 topic_tags:
-  - politics
+  - "civil unrest"
+  - "conflict, war and peace"
   - government
-  - "international relations"
+  - "monetary policy"
+  - "political dissent"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Mount Etna, Sicily, Italy
 floor_values_engaged:

@@ -16,7 +16,11 @@ primary_themes:
 - NLRB enforcement
 topic_tags:
   - "arts, culture, entertainment and media"
-  - "mass media"
+  - employment
+  - environment
+  - health
+  - labour
+  - "labour dispute"
 storyline_nexus: []
 geographic_location: Pittsburgh, Pennsylvania
 floor_values_engaged:

@@ -21,8 +21,9 @@ primary_themes:
 - Minnesota politics
 - Somali community
 topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
   - "crime, law and justice"
-  - "human interest"
   - "law enforcement"
 storyline_nexus: []
 geographic_location: Minneapolis, Minnesota, United States

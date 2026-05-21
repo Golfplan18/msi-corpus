@@ -22,7 +22,13 @@ primary_themes:
 - corporate earnings
 - oil prices
 - ceasefire diplomacy
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - banking
+  - "conflict, war and peace"
+  - "crime, law and justice"
+  - "disaster, accident and emergency incident"
+  - "economy, business and finance"
 storyline_nexus: []
 geographic_location: United States; global
 floor_values_engaged:

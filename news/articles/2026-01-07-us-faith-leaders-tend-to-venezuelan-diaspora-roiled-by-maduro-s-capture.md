@@ -18,8 +18,8 @@ primary_themes:
 - immigration policy
 - Venezuela political transition
 topic_tags:
-  - "belief systems"
-  - "human interest"
+  - politics
+  - "government policy"
   - religion
 storyline_nexus: []
 geographic_location: United States — South Florida; Philadelphia, Pennsylvania

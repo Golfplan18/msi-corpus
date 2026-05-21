@@ -13,7 +13,9 @@ primary_themes:
 - international_diplomacy
 - historical_accountability
 - colonial_legacy
-topic_tags: []
+topic_tags:
+  - "international relations"
+  - politics
 storyline_nexus: []
 geographic_location: International (Spain, Mexico)
 floor_values_engaged:

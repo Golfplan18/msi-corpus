@@ -15,7 +15,12 @@ primary_themes:
 - drone incidents
 - Korean Peninsula security
 - diplomacy
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "economy, business and finance"
+  - "international relations"
+  - politics
 storyline_nexus: []
 geographic_location: Korean Peninsula
 floor_values_engaged:

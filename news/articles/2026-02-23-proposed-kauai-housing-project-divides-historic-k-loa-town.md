@@ -13,7 +13,9 @@ primary_themes:
 - local_housing_affordability
 - community_development_conflict
 - infrastructure_planning
-topic_tags: []
+topic_tags:
+  - "science and technology"
+  - "artificial intelligence"
 storyline_nexus: []
 geographic_location: Kōloa, Kauai, Hawaii, United States
 floor_values_engaged:

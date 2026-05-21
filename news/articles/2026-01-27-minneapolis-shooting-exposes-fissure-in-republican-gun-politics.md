@@ -16,7 +16,8 @@ primary_themes:
 - federal law enforcement
 - political conflict
 - Republican coalition
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: Minneapolis, Minnesota; United States
 floor_values_engaged:

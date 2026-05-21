@@ -14,7 +14,13 @@ primary_themes:
 - business
 - media_and_entertainment
 - corporate_finance
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "arts and entertainment"
+  - "arts, culture, entertainment and media"
+  - biotechnology
+  - "economy, business and finance"
+  - "mass media"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

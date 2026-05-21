@@ -16,7 +16,10 @@ primary_themes:
 - security
 - counterterrorism
 - religious targeting
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "law enforcement"
+  - religion
 storyline_nexus: []
 geographic_location: London, United Kingdom
 floor_values_engaged:

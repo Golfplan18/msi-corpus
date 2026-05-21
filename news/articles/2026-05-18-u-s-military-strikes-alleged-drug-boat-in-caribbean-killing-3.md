@@ -12,7 +12,10 @@ primary_themes:
 - military operations
 - drug trafficking
 - Trump administration policy
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "law enforcement"
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: Caribbean Sea
 floor_values_engaged:

@@ -15,7 +15,11 @@ primary_themes:
 - mail delivery
 - service quality
 - regulatory policy
-topic_tags: []
+topic_tags:
+  - "human migration"
+  - politics
+  - "government policy"
+  - "human interest"
 storyline_nexus: []
 geographic_location: Vermont, United States
 floor_values_engaged:

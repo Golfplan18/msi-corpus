@@ -19,7 +19,10 @@ primary_themes:
 - Hawaii
 - community engagement
 - environmental threat
-topic_tags: []
+topic_tags:
+  - "disaster, accident and emergency incident"
+  - fire
+  - society
 storyline_nexus: []
 geographic_location: Maui, Hawaii, United States
 floor_values_engaged:

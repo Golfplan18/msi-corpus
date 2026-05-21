@@ -16,7 +16,13 @@ primary_themes:
 - conservative politics
 - religion and politics
 - Trump-Pope conflict
-topic_tags: []
+topic_tags:
+  - politics
+  - "human interest"
+  - "religious leader"
+  - education
+  - "armed conflict"
+  - society
 storyline_nexus: []
 geographic_location: Athens, Georgia, United States
 floor_values_engaged:

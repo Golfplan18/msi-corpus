@@ -14,7 +14,10 @@ primary_themes:
 - public health
 - health disparities
 - socioeconomic inequality
-topic_tags: []
+topic_tags:
+  - education
+  - "human interest"
+  - health
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

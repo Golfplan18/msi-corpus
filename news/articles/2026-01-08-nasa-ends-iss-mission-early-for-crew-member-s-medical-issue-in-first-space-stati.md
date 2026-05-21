@@ -22,8 +22,10 @@ primary_themes:
 - International Space Station
 - NASA operations
 topic_tags:
-  - "economy, business and finance"
-  - tax
+  - "artificial intelligence"
+  - health
+  - "science and technology"
+  - "space programme"
 storyline_nexus: []
 geographic_location: International Space Station (low Earth orbit)
 floor_values_engaged:

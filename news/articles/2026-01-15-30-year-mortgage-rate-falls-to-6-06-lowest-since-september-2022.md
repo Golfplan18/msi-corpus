@@ -19,9 +19,10 @@ primary_themes:
 - mortgage refinancing
 - homebuyer demand
 topic_tags:
-  - "construction and property"
-  - "economy, business and finance"
+  - politics
+  - "government policy"
   - "market and exchange"
+  - "economy, business and finance"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

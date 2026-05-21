@@ -21,7 +21,11 @@ primary_themes:
 - public anxiety
 - clinical psychology
 - air travel
-topic_tags: []
+topic_tags:
+  - health
+  - "mental health"
+  - "disaster, accident and emergency incident"
+  - "transportation accident and incident"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

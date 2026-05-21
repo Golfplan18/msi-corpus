@@ -16,7 +16,11 @@ primary_themes:
 - document investigation
 - verification discipline
 - public records
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "law enforcement"
+  - "crime, law and justice"
+  - prosecution
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

@@ -21,10 +21,11 @@ primary_themes:
 - consumer fees
 - environmental policy
 topic_tags:
-  - "environment"
-  - "sustainability"
-  - "politics"
-  - "government policy"
+  - "competition discipline"
+  - "disaster, accident and emergency incident"
+  - environment
+  - fire
+  - sport
 storyline_nexus: []
 geographic_location: California, United States
 floor_values_engaged:

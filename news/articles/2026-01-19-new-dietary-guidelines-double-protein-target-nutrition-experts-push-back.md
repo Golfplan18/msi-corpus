@@ -16,7 +16,13 @@ primary_themes:
 - nutrition policy
 - protein intake
 - public health
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "artificial intelligence"
+  - "conflict, war and peace"
+  - "disease and condition"
+  - government
+  - "government policy"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

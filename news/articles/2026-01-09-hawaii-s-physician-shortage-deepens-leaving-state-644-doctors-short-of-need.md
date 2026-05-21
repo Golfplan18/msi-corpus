@@ -22,7 +22,10 @@ primary_themes:
 - housing costs
 - Medicaid
 - neighbor islands
-topic_tags: []
+topic_tags:
+  - politics
+  - government
+  - health
 storyline_nexus: []
 geographic_location: Hawaii, United States
 floor_values_engaged:

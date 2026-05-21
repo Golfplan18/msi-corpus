@@ -15,7 +15,9 @@ primary_themes:
 - fourth amendment search and seizure
 - federal death penalty case
 - evidence suppression
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: New York, NY / Altoona, PA
 floor_values_engaged:

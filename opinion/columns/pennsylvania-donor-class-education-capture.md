@@ -19,7 +19,13 @@ primary_themes:
 - donor-class-influence
 - public-school-funding
 - school-privatization
-topic_tags: []
+topic_tags:
+  - politics
+  - government
+  - "crime, law and justice"
+  - education
+  - "arts, culture, entertainment and media"
+  - "arts and entertainment"
 storyline_nexus: []
 geographic_location: Pennsylvania
 floor_values_engaged:

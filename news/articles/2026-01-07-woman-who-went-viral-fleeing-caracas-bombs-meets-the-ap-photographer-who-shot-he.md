@@ -13,9 +13,9 @@ primary_themes:
 - U.S. military operations
 - social media virality
 topic_tags:
-  - "government policy"
-  - "public health"
-  - health
+  - "armed conflict"
+  - "conflict, war and peace"
+  - society
 storyline_nexus: []
 geographic_location: Caracas, Venezuela
 floor_values_engaged:

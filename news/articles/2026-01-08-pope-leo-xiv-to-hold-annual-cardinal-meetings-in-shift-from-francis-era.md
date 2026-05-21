@@ -20,8 +20,11 @@ primary_themes:
 - papal collegialism
 - College of Cardinals
 topic_tags:
-  - "religious leader"
+  - education
+  - "higher education"
   - religion
+  - "religious institution"
+  - "religious leader"
 storyline_nexus: []
 geographic_location: Vatican City
 floor_values_engaged:

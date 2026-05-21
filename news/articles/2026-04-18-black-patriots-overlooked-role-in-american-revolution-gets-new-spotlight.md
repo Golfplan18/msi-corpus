@@ -17,7 +17,10 @@ primary_themes:
 - historical commemoration
 - racial equity
 - overlooked history
-topic_tags: []
+topic_tags:
+  - "human migration"
+  - "human interest"
+  - "arts, culture, entertainment and media"
 storyline_nexus: []
 geographic_location: United States (Lexington, Massachusetts)
 floor_values_engaged:

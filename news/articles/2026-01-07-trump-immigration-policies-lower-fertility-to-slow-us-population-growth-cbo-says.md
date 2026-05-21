@@ -23,8 +23,8 @@ primary_themes:
 - deportation
 topic_tags:
   - politics
-  - "government policy"
-  - "human migration"
+  - government
+  - weather
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

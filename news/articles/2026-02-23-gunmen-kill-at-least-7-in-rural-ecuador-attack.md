@@ -13,7 +13,13 @@ primary_themes:
 - homicide crisis
 - organized crime
 - government response
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - crime
+  - "conflict, war and peace"
+  - terrorism
+  - politics
+  - "government policy"
 storyline_nexus: []
 geographic_location: Manabi province, Ecuador
 floor_values_engaged:

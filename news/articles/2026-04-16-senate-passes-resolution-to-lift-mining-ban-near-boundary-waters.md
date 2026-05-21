@@ -17,7 +17,11 @@ primary_themes:
 - environmental protection
 - natural resources management
 - congressional action
-topic_tags: []
+topic_tags:
+  - politics
+  - "government policy"
+  - environment
+  - "economy, business and finance"
 storyline_nexus: []
 geographic_location: Minnesota, United States
 floor_values_engaged:

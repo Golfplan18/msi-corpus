@@ -25,7 +25,11 @@ primary_themes:
 - technology accountability
 - AI safety
 - political bias in AI
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - government
+  - politics
+  - "science and technology"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

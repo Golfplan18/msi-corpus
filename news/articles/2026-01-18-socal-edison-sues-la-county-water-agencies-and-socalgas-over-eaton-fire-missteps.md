@@ -15,7 +15,10 @@ primary_themes:
 - utility accountability
 - emergency response
 - California wildfires
-topic_tags: []
+topic_tags:
+  - "disaster, accident and emergency incident"
+  - fire
+  - "natural disaster"
 storyline_nexus: []
 geographic_location: Altadena, California, United States
 floor_values_engaged:

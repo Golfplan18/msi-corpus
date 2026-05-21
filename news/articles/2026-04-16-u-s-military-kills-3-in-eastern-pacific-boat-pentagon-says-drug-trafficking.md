@@ -12,7 +12,13 @@ primary_themes:
 - military operations
 - drug trafficking
 - international military strikes
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "artificial intelligence"
+  - "conflict, war and peace"
+  - crime
+  - "crime, law and justice"
+  - "international relations"
 storyline_nexus: []
 geographic_location: Eastern Pacific Ocean
 floor_values_engaged:

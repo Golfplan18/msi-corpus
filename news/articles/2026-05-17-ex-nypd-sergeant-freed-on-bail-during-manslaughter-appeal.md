@@ -14,7 +14,11 @@ primary_themes:
 - criminal_justice
 - police_accountability
 - court_decision
-topic_tags: []
+topic_tags:
+  - crime
+  - "crime, law and justice"
+  - judiciary
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: New York City, New York, United States
 floor_values_engaged:

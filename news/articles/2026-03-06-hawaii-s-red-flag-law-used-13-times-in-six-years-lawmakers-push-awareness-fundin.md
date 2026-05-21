@@ -16,7 +16,9 @@ primary_themes:
 - suicide prevention
 - law enforcement training
 - Hawaii legislation
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: Honolulu, Hawaii, United States
 floor_values_engaged:

@@ -14,7 +14,11 @@ primary_themes:
 - government accountability
 - fiscal oversight
 - AI in government
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "crime, law and justice"
+  - "science and technology"
+  - trial
 storyline_nexus: []
 geographic_location: Nevada, United States
 floor_values_engaged:

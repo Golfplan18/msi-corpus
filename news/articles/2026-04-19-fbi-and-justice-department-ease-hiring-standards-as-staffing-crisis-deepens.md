@@ -14,7 +14,13 @@ primary_themes:
 - federal personnel
 - hiring practices
 - staffing changes
-topic_tags: []
+topic_tags:
+  - politics
+  - "human interest"
+  - education
+  - "government policy"
+  - "human migration"
+  - school
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

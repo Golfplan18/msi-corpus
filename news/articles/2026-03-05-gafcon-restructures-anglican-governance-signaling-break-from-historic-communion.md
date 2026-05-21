@@ -15,7 +15,11 @@ primary_themes:
 - church-governance
 - global-christianity
 - LGBTQ-rights
-topic_tags: []
+topic_tags:
+  - "religion"
+  - "religious institution"
+  - "society"
+  - "values"
 storyline_nexus: []
 geographic_location: Abuja, Nigeria
 floor_values_engaged:

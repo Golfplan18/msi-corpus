@@ -7,7 +7,9 @@ primary_entities:
 - Q_sample_entity
 primary_themes:
 - sample
-topic_tags: []
+topic_tags:
+  - politics
+  - government
 storyline_nexus: []
 geographic_location: Q_sample_location
 floor_values_engaged:

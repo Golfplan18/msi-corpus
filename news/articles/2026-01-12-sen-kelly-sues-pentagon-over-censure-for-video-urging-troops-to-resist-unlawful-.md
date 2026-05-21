@@ -17,7 +17,11 @@ primary_themes:
 - civil-military relations
 - congressional oversight
 - executive power
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "judiciary"
+  - "politics"
+  - "government policy"
 storyline_nexus: []
 geographic_location: Washington, D.C.
 floor_values_engaged:

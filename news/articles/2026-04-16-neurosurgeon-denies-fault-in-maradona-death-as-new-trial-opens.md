@@ -11,7 +11,13 @@ primary_themes:
 - medical negligence trial
 - legal accountability
 - death investigation
-topic_tags: []
+topic_tags:
+  - "arts, culture, entertainment and media"
+  - crime
+  - "crime, law and justice"
+  - health
+  - "mass media"
+  - sport
 storyline_nexus: []
 geographic_location: San Isidro, Buenos Aires, Argentina
 floor_values_engaged:

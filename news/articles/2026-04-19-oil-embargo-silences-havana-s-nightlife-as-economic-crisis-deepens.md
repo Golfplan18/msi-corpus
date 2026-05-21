@@ -16,7 +16,8 @@ primary_themes:
 - energy embargo
 - tourism collapse
 - geopolitical sanctions
-topic_tags: []
+topic_tags:
+  - politics
 storyline_nexus: []
 geographic_location: Cuba; Havana
 floor_values_engaged:

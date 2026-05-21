@@ -27,7 +27,13 @@ primary_themes:
 - artificial intelligence
 - Arctic security
 - Israel-Hamas conflict
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "artificial intelligence"
+  - "conflict, war and peace"
+  - "economy, business and finance"
+  - "international trade"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: International (Davos, Switzerland; Ukraine, Greenland, Denmark, Europe)
 floor_values_engaged:

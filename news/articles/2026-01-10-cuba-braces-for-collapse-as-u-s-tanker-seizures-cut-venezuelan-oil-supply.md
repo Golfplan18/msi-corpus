@@ -18,7 +18,13 @@ primary_themes:
 - migration
 - U.S. foreign policy
 - Latin America
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "economy, business and finance"
+  - education
+  - "higher education"
+  - "human interest"
 storyline_nexus: []
 geographic_location: Cuba
 floor_values_engaged:

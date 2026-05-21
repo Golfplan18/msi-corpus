@@ -22,7 +22,12 @@ primary_themes:
 - Middle East stability
 - Iranian protests
 - international sanctions
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "crime, law and justice"
+  - labour
+  - "labour dispute"
 storyline_nexus: []
 geographic_location: Washington, D.C. / Middle East
 floor_values_engaged:

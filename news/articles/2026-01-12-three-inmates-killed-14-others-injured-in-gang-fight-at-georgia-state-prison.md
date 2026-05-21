@@ -20,7 +20,10 @@ primary_themes:
 - prison staffing
 - gang activity
 - correctional oversight
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "crime"
+  - "disaster, accident and emergency incident"
 storyline_nexus: []
 geographic_location: Washington County, Georgia
 floor_values_engaged:

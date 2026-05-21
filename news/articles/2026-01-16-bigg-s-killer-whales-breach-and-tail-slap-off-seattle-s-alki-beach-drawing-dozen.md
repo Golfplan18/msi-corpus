@@ -14,7 +14,8 @@ primary_themes:
 - marine mammals
 - Pacific Northwest
 - community nature observation
-topic_tags: []
+topic_tags:
+  - "human interest"
 storyline_nexus: []
 geographic_location: Seattle, Washington, United States
 floor_values_engaged:

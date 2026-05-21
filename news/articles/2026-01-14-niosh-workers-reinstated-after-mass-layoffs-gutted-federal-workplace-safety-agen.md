@@ -19,8 +19,12 @@ primary_themes:
 - labor policy
 - public health infrastructure
 topic_tags:
+  - employment
+  - "government policy"
   - health
   - labour
+  - politics
+  - "science and technology"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

@@ -12,7 +12,13 @@ primary_themes:
 - women's suffrage
 - historic firsts
 - government and politics
-topic_tags: []
+topic_tags:
+  - "education policy"
+  - government
+  - "government policy"
+  - "human migration"
+  - "international relations"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Richmond, Virginia, United States
 floor_values_engaged:

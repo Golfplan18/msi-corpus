@@ -23,8 +23,11 @@ primary_themes:
 - global economy
 - regulatory uncertainty
 topic_tags:
+  - "artificial intelligence"
+  - "conflict, war and peace"
+  - "crime, law and justice"
   - "economy, business and finance"
-  - "international trade"
+  - government
   - "government policy"
 storyline_nexus: []
 geographic_location: International

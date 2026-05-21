@@ -19,7 +19,13 @@ primary_themes:
 - civil rights
 - protest
 - Freedom of Access to Clinic Entrances Act
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - discrimination
+  - religion
+  - "religious institution"
+  - society
 storyline_nexus: []
 geographic_location: St. Paul, Minnesota, United States
 floor_values_engaged:

@@ -12,7 +12,11 @@ primary_themes:
 - criminal_justice
 - celebrity_legal
 - child_protection
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - judiciary
+  - "arts, culture, entertainment and media"
+  - "arts and entertainment"
 storyline_nexus: []
 geographic_location: Albuquerque, New Mexico
 floor_values_engaged:

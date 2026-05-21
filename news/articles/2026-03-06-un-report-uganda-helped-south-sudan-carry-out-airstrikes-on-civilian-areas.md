@@ -17,7 +17,9 @@ primary_themes:
 - UN accountability
 - arms embargo violations
 - South Sudan conflict
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: South Sudan
 floor_values_engaged:

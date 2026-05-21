@@ -13,7 +13,9 @@ primary_themes:
 - sexual assault
 - trials
 - Native American issues
-topic_tags: []
+topic_tags:
+  - "arts, culture, entertainment and media"
+  - "crime, law and justice"
 storyline_nexus: []
 geographic_location: Las Vegas, Nevada
 floor_values_engaged:

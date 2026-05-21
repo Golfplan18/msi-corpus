@@ -19,7 +19,11 @@ primary_themes:
 - Continuous tradition
 - Contemporary construction
 - Global trade
-topic_tags: []
+topic_tags:
+  - "arts, culture, entertainment and media"
+  - "arts and entertainment"
+  - "human interest"
+  - achievement
 storyline_nexus: []
 geographic_location: Tivoli, Italy; Rome, Vatican; International (Los Angeles, Beijing, Algiers, Riyadh, Shenzhen, Manhattan)
 floor_values_engaged:

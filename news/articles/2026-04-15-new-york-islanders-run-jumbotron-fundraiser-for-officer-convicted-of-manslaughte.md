@@ -17,7 +17,13 @@ primary_themes:
 - criminal justice
 - sports and public relations
 - police unions
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "law enforcement"
+  - "conflict, war and peace"
+  - labour
+  - "labour dispute"
+  - sport
 storyline_nexus: []
 geographic_location: New York, United States
 floor_values_engaged:

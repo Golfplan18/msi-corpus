@@ -15,8 +15,12 @@ primary_themes:
 - vaccine policy
 - federal health administration
 topic_tags:
+  - politics
   - health
-  - "epidemic and pandemic"
+  - "government policy"
+  - "weather warning"
+  - "public health"
+  - "disaster, accident and emergency incident"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

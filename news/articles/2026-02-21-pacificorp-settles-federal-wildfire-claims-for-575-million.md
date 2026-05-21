@@ -16,7 +16,13 @@ primary_themes:
 - Natural disaster
 - Settlement
 - Utility regulation
-topic_tags: []
+topic_tags:
+  - "disaster, accident and emergency incident"
+  - fire
+  - "crime, law and justice"
+  - "law enforcement"
+  - "science and technology"
+  - "artificial intelligence"
 storyline_nexus: []
 geographic_location: Oregon, California, Washington, United States
 floor_values_engaged:

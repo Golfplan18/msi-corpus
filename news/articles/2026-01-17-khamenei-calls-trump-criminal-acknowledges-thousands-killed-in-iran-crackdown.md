@@ -19,7 +19,11 @@ primary_themes:
 - protest crackdown
 - internet shutdown
 - casualty acknowledgment
-topic_tags: []
+topic_tags:
+  - education
+  - "crime, law and justice"
+  - crime
+  - "human interest"
 storyline_nexus: []
 geographic_location: Iran; United States
 floor_values_engaged:

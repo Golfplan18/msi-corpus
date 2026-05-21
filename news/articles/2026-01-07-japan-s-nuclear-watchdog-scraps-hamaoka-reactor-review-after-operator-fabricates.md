@@ -16,7 +16,8 @@ primary_themes:
 - regulatory oversight
 - Japan energy policy
 - seismic risk
-topic_tags: []
+topic_tags:
+  - "economy, business and finance"
 storyline_nexus: []
 geographic_location: Hamaoka, Shizuoka Prefecture, Japan
 floor_values_engaged:

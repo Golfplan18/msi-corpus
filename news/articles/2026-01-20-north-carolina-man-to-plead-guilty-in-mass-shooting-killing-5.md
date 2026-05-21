@@ -16,7 +16,13 @@ primary_themes:
 - mass_shooting
 - plea_agreement
 - sentencing
-topic_tags: []
+topic_tags:
+  - crime
+  - "crime, law and justice"
+  - "human migration"
+  - "international relations"
+  - "law enforcement"
+  - trial
 storyline_nexus: []
 geographic_location: Raleigh, North Carolina
 floor_values_engaged:

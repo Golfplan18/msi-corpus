@@ -19,7 +19,10 @@ primary_themes:
 - civil rights history
 - religious liberty
 - interfaith solidarity
-topic_tags: []
+topic_tags:
+  - "civil rights"
+  - "crime, law and justice"
+  - religion
 storyline_nexus: []
 geographic_location: Jackson, Mississippi, United States
 floor_values_engaged:

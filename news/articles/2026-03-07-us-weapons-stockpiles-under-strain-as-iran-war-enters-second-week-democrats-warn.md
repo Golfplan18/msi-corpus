@@ -21,7 +21,10 @@ primary_themes:
 - missile defense
 - defense production
 - US military readiness
-topic_tags: []
+topic_tags:
+  - politics
+  - election
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

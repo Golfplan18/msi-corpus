@@ -19,7 +19,13 @@ primary_themes:
 - substance use disorders
 - pharmacotherapy
 - veterans health
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - crime
+  - "crime, law and justice"
+  - "disease and condition"
+  - "law enforcement"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

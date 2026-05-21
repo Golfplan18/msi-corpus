@@ -16,7 +16,9 @@ primary_themes:
 - european politics
 - democracy
 - portugal
-topic_tags: []
+topic_tags:
+  - election
+  - politics
 storyline_nexus: []
 geographic_location: Lisbon, Portugal
 floor_values_engaged:

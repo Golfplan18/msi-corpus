@@ -18,7 +18,8 @@ primary_themes:
 - political prisoners
 - human rights
 - capital punishment
-topic_tags: []
+topic_tags:
+  - politics
 storyline_nexus: []
 geographic_location: Iran; Washington, D.C.
 floor_values_engaged:

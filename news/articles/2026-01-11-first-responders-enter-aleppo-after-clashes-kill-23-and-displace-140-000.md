@@ -15,7 +15,10 @@ primary_themes:
 - civilian displacement
 - humanitarian crisis
 - army integration negotiations
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - government
+  - politics
 storyline_nexus: []
 geographic_location: Aleppo, Syria
 floor_values_engaged:

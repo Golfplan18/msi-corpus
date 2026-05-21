@@ -19,10 +19,12 @@ primary_themes:
 - tourism technology
 - ancient Rome
 topic_tags:
-  - "science and technology"
-  - "technology and engineering"
-  - "human interest"
   - "artificial intelligence"
+  - conservation
+  - environment
+  - labour
+  - "labour dispute"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Rome, Italy
 floor_values_engaged:

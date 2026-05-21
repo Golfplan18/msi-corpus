@@ -24,8 +24,8 @@ primary_themes:
 - regulatory enforcement
 - digital services regulation
 topic_tags:
-  - "science and technology"
   - "artificial intelligence"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Global
 floor_values_engaged:

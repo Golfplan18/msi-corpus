@@ -18,7 +18,11 @@ primary_themes:
 - visa policy
 - religious freedom
 topic_tags:
-  - "belief systems"
+  - government
+  - "government policy"
+  - "international relations"
+  - labour
+  - politics
   - religion
 storyline_nexus: []
 geographic_location: United States

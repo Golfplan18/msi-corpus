@@ -18,8 +18,11 @@ primary_themes:
 - multinational force
 topic_tags:
   - "conflict, war and peace"
-  - "peace process"
-  - "armed conflict"
+  - "disaster, accident and emergency incident"
+  - employment
+  - fire
+  - labour
+  - "labour dispute"
 storyline_nexus: []
 geographic_location: Paris, France
 floor_values_engaged:

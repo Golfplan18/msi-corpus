@@ -13,7 +13,9 @@ primary_themes:
 - military conflict
 - drone warfare
 - Colombia security
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - "armed conflict"
 storyline_nexus: []
 geographic_location: Colombia
 floor_values_engaged:

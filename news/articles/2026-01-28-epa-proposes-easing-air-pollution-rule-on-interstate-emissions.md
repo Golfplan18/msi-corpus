@@ -20,7 +20,13 @@ primary_themes:
 - federalism
 - air pollution
 - regulatory rollback
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - government
+  - "law enforcement"
+  - "political dissent"
+  - "science and technology"
+  - trial
 storyline_nexus: []
 geographic_location: 'United States (eight states: Alabama, Arizona, Kentucky, Minnesota, Mississippi, Nevada, New Mexico, Tennessee)'
 floor_values_engaged:

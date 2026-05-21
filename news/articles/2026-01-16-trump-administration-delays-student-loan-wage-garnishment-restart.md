@@ -15,7 +15,12 @@ primary_themes:
 - wage garnishment
 - education policy
 - Trump administration
-topic_tags: []
+topic_tags:
+  - education
+  - "education policy"
+  - labour
+  - politics
+  - "wage and pension"
 storyline_nexus: []
 geographic_location: Washington, D.C.
 floor_values_engaged:

@@ -20,7 +20,11 @@ primary_themes:
 - sexual assault
 - Washington state
 topic_tags:
-  - "crime, law and justice"
+  - "arts, culture, entertainment and media"
+  - employment
+  - labour
+  - "mass media"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Washington state, United States
 floor_values_engaged:

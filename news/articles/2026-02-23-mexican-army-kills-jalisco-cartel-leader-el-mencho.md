@@ -14,7 +14,9 @@ primary_themes:
 - international cooperation
 - cartel violence
 - power succession
-topic_tags: []
+topic_tags:
+  - politics
+  - "government policy"
 storyline_nexus: []
 geographic_location: Mexico
 floor_values_engaged:

@@ -15,7 +15,10 @@ primary_themes:
 - disaster response
 - civic commemoration
 - mass casualty events
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - disaster
+  - "disaster, accident and emergency incident"
 storyline_nexus: []
 geographic_location: Hong Kong
 floor_values_engaged:

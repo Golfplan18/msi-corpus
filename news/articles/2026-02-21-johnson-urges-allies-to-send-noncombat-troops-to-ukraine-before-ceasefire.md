@@ -15,7 +15,13 @@ primary_themes:
 - Ukraine-Russia conflict
 - ceasefire negotiations
 - NATO alliance
-topic_tags: []
+topic_tags:
+  - "disaster, accident and emergency incident"
+  - fire
+  - "conflict, war and peace"
+  - "armed conflict"
+  - "science and technology"
+  - "artificial intelligence"
 storyline_nexus: []
 geographic_location: Ukraine; international
 floor_values_engaged:

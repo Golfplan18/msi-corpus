@@ -16,7 +16,9 @@ primary_themes:
 - defense cooperation
 - West Asia geopolitics
 - bilateral diplomacy
-topic_tags: []
+topic_tags:
+  - "economy, business and finance"
+  - "international trade"
 storyline_nexus: []
 geographic_location: New Delhi, India
 floor_values_engaged:

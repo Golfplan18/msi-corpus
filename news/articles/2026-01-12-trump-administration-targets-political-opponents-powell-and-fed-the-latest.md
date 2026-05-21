@@ -21,7 +21,11 @@ primary_themes:
 - Justice Department
 - checks and balances
 - executive power
-topic_tags: []
+topic_tags:
+  - "politics"
+  - "government"
+  - "crime, law and justice"
+  - "prosecution"
 storyline_nexus: []
 geographic_location: Washington, D.C.
 floor_values_engaged:

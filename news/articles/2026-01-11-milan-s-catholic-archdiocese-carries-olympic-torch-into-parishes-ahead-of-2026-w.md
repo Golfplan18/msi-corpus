@@ -18,9 +18,8 @@ primary_themes:
 - inclusion
 - Italy
 topic_tags:
-  - "religion"
-  - "religious institution"
-  - "sport"
+  - religion
+  - sport
   - "sport event"
 storyline_nexus: []
 geographic_location: Milan, Italy

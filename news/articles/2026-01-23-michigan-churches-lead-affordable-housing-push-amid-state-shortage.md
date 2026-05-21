@@ -16,7 +16,13 @@ primary_themes:
 - community development
 - faith-based initiatives
 - regulatory barriers
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "belief systems"
+  - macroeconomics
+  - "monetary policy"
+  - religion
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Michigan (Battle Creek, Grand Rapids area)
 floor_values_engaged:

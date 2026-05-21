@@ -15,10 +15,10 @@ primary_themes:
 - nutrition
 - fibermaxxing
 topic_tags:
-  - "health"
-  - "public health"
+  - "artificial intelligence"
   - "economy, business and finance"
-  - "consumer goods"
+  - "financial and business service"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

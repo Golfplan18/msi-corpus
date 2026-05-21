@@ -13,7 +13,9 @@ primary_themes:
 - House majority
 - Trump endorsement
 - Georgia congressional politics
-topic_tags: []
+topic_tags:
+  - politics
+  - election
 storyline_nexus: []
 geographic_location: Rome, Georgia, United States
 floor_values_engaged:

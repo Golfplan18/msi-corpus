@@ -11,7 +11,9 @@ primary_themes:
 - internet shutdown
 - postelection violence
 - diplomatic relations
-topic_tags: []
+topic_tags:
+  - election
+  - politics
 storyline_nexus: []
 geographic_location: Dodoma, Tanzania
 floor_values_engaged:

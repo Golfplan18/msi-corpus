@@ -20,7 +20,9 @@ primary_themes:
 - digital wellness
 - Big Tech
 - technology and society
-topic_tags: []
+topic_tags:
+  - "science and technology"
+  - society
 storyline_nexus: []
 geographic_location: United States; Netherlands; international
 floor_values_engaged:

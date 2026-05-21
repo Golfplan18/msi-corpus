@@ -13,7 +13,10 @@ primary_themes:
 - rebuilding
 - human-animal bond
 - Los Angeles wildfires
-topic_tags: []
+topic_tags:
+  - "disaster, accident and emergency incident"
+  - fire
+  - "natural disaster"
 storyline_nexus: []
 geographic_location: Altadena, California
 floor_values_engaged:

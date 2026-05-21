@@ -20,11 +20,8 @@ primary_themes:
 - executive action codification
 - environmental policy
 topic_tags:
-  - "science and technology"
-  - "politics"
-  - "government"
-  - "government policy"
-  - "election"
+  - environment
+  - politics
 storyline_nexus: []
 geographic_location: Washington, D.C., United States
 floor_values_engaged:

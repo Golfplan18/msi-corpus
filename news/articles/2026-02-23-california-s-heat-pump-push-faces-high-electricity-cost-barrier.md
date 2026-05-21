@@ -15,7 +15,9 @@ primary_themes:
 - energy_costs
 - residential_heating
 - electrification_barriers
-topic_tags: []
+topic_tags:
+  - "human interest"
+  - people
 storyline_nexus: []
 geographic_location: California, United States
 floor_values_engaged:

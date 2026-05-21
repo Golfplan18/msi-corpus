@@ -15,7 +15,13 @@ primary_themes:
 - semiconductor manufacturing
 - technology investment
 - corporate competition
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "competition discipline"
+  - "economy, business and finance"
+  - "manufacturing and engineering"
+  - "science and technology"
+  - sport
 storyline_nexus: []
 geographic_location: International
 floor_values_engaged:

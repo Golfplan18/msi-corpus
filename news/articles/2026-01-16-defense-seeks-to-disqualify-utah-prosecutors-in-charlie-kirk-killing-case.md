@@ -17,7 +17,9 @@ primary_themes:
 - death penalty
 - prosecutorial conflict of interest
 - gun violence
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: Provo, Utah
 floor_values_engaged:

@@ -12,8 +12,7 @@ primary_themes:
 - public_safety
 - state_of_emergency
 topic_tags:
-  - "crime, law and justice"
-  - "crime"
+  - "disaster, accident and emergency incident"
 storyline_nexus: []
 geographic_location: Puerto López, Manabí province, Ecuador
 floor_values_engaged:

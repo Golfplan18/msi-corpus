@@ -13,7 +13,11 @@ primary_themes:
 - regional cooperation
 - aviation
 - border management
-topic_tags: []
+topic_tags:
+  - "economy, business and finance"
+  - "human interest"
+  - "human migration"
+  - "international trade"
 storyline_nexus: []
 geographic_location: Dominican Republic and Haiti, Hispaniola, Caribbean
 floor_values_engaged:

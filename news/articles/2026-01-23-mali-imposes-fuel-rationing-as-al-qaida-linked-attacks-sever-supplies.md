@@ -19,7 +19,10 @@ primary_themes:
 - Energy crisis
 - Supply chain disruption
 - International relations
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - "armed conflict"
+  - "economy, business and finance"
 storyline_nexus: []
 geographic_location: Mali
 floor_values_engaged:

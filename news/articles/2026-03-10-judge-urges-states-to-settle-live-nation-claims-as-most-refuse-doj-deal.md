@@ -19,7 +19,9 @@ primary_themes:
 - federal court
 - state attorneys general
 - consumer pricing
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - trial
 storyline_nexus: []
 geographic_location: New York, NY
 floor_values_engaged:

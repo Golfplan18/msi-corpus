@@ -16,7 +16,9 @@ primary_themes:
 - criminal tampering
 - food safety
 - infant health
-topic_tags: []
+topic_tags:
+  - "economy, business and finance"
+  - health
 storyline_nexus: []
 geographic_location: Austria, Slovakia, Czech Republic
 floor_values_engaged:

@@ -13,7 +13,11 @@ primary_themes:
 - presidential conduct
 - classified information
 - special counsel
-topic_tags: []
+topic_tags:
+  - politics
+  - "government policy"
+  - "science and technology"
+  - "artificial intelligence"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

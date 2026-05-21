@@ -7,7 +7,9 @@ primary_entities:
 - Q_sample_agency
 primary_themes:
 - accountability_of_power
-topic_tags: []
+topic_tags:
+  - politics
+  - government
 storyline_nexus: []
 geographic_location: Q_sample_location
 floor_values_engaged:

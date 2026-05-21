@@ -14,7 +14,10 @@ primary_themes:
 - state accountability
 - indigenous rights
 - Latin America
-topic_tags: []
+topic_tags:
+  - "civil rights"
+  - "crime, law and justice"
+  - "trial"
 storyline_nexus: []
 geographic_location: Lima, Peru
 floor_values_engaged:

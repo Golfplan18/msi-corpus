@@ -15,10 +15,10 @@ primary_themes:
 - state health policy
 - low-income coverage
 topic_tags:
-  - "health"
-  - "public health"
-  - "politics"
-  - "government policy"
+  - "civil unrest"
+  - "conflict, war and peace"
+  - election
+  - health
   - "human interest"
   - "human migration"
 storyline_nexus: []

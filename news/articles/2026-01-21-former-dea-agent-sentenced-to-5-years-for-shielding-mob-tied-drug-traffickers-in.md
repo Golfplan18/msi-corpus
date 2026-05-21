@@ -17,7 +17,11 @@ primary_themes:
 - drug trafficking
 - federal sentencing
 - DEA misconduct
-topic_tags: []
+topic_tags:
+  - crime
+  - "crime, law and justice"
+  - judiciary
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: Buffalo, New York, United States
 floor_values_engaged:

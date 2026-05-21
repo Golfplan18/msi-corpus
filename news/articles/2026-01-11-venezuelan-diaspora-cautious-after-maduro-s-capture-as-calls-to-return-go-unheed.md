@@ -20,7 +20,13 @@ primary_themes:
 - Latin American immigration policy
 - post-Maduro Venezuela
 - diaspora
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - "government policy"
+  - "human migration"
+  - "international relations"
+  - "political dissent"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Latin America
 floor_values_engaged:

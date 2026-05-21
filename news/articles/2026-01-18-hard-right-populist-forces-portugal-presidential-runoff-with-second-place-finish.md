@@ -13,7 +13,12 @@ primary_themes:
 - nationalist politics
 - Europe
 - immigration
-topic_tags: []
+topic_tags:
+  - election
+  - "human interest"
+  - "human migration"
+  - politics
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Lisbon, Portugal
 floor_values_engaged:

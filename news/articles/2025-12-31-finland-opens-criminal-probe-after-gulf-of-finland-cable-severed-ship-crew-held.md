@@ -18,7 +18,13 @@ primary_themes:
 - Russia-Ukraine war spillover
 - critical infrastructure protection
 - maritime law enforcement
-topic_tags: []
+topic_tags:
+  - "human interest"
+  - politics
+  - "international relations"
+  - "economy, business and finance"
+  - "construction and property"
+  - "human migration"
 storyline_nexus: []
 geographic_location: Gulf of Finland; Baltic Sea; Finland; Estonia
 floor_values_engaged:

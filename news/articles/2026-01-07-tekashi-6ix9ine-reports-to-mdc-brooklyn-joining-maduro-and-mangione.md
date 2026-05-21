@@ -13,9 +13,11 @@ primary_themes:
 - federal detention
 - music
 topic_tags:
+  - politics
+  - government
   - "crime, law and justice"
-  - trial
-  - "law enforcement"
+  - "arts, culture, entertainment and media"
+  - "social media"
 storyline_nexus: []
 geographic_location: Brooklyn, New York
 floor_values_engaged:

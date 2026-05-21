@@ -17,7 +17,12 @@ primary_themes:
 - ICE custody deaths
 - detention center practices
 - institutional accountability
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - crime
+  - "conflict, war and peace"
+  - "armed conflict"
+  - health
 storyline_nexus: []
 geographic_location: El Paso, Texas; Fort Bliss Army base
 floor_values_engaged:

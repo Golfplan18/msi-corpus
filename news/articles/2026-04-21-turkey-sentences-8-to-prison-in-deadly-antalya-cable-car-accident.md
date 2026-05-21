@@ -11,7 +11,8 @@ primary_themes:
 - criminal justice
 - public safety
 - accountability_of_power
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
 storyline_nexus: []
 geographic_location: Antalya, Turkey
 floor_values_engaged:

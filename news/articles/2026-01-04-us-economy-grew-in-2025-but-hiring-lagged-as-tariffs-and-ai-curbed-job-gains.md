@@ -16,7 +16,13 @@ primary_themes:
 - artificial intelligence
 - tariff policy
 - K-shaped economy
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "financial and business service"
+  - "government policy"
+  - macroeconomics
+  - "monetary policy"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

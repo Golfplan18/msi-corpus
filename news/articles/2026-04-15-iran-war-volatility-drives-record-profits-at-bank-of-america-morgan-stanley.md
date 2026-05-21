@@ -18,7 +18,13 @@ primary_themes:
 - energy prices
 - investment banking
 - consumer spending
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "artificial intelligence"
+  - "conflict, war and peace"
+  - "crime, law and justice"
+  - "economy, business and finance"
+  - government
 storyline_nexus: []
 geographic_location: New York, United States
 floor_values_engaged:

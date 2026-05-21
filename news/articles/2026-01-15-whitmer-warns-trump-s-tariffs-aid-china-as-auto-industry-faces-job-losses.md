@@ -15,7 +15,13 @@ primary_themes:
 - U.S.-Canada trade
 - China competition
 - manufacturing employment
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "artificial intelligence"
+  - "conflict, war and peace"
+  - "economy, business and finance"
+  - government
+  - "government policy"
 storyline_nexus: []
 geographic_location: Detroit, Michigan, United States
 floor_values_engaged:

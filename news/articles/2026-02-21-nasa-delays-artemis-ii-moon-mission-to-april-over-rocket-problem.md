@@ -13,7 +13,9 @@ primary_themes:
 - Space exploration
 - Technology
 - Mission delay
-topic_tags: []
+topic_tags:
+  - "science and technology"
+  - "space programme"
 storyline_nexus: []
 geographic_location: International
 floor_values_engaged:

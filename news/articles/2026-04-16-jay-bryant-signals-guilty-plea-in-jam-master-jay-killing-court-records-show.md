@@ -13,7 +13,13 @@ primary_themes:
 - courts
 - homicide
 - music_culture
-topic_tags: []
+topic_tags:
+  - crime
+  - "crime, law and justice"
+  - government
+  - "government policy"
+  - politics
+  - weather
 storyline_nexus: []
 geographic_location: Queens, New York, United States
 floor_values_engaged:

@@ -16,7 +16,9 @@ primary_themes:
 - US-China relations
 - port seizure
 - infrastructure investment
-topic_tags: []
+topic_tags:
+  - "government policy"
+  - "politics"
 storyline_nexus: []
 geographic_location: Panama
 floor_values_engaged:

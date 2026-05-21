@@ -15,7 +15,9 @@ primary_themes:
 - civilian_resilience
 - infrastructure_damage
 - social_inequality
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - "economy, business and finance"
 storyline_nexus: []
 geographic_location: Kyiv, Ukraine
 floor_values_engaged:

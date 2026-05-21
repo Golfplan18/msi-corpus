@@ -18,7 +18,8 @@ primary_themes:
 - Weather Preparedness
 - Utility Coordination
 - Climate and Resilience
-topic_tags: []
+topic_tags:
+  - weather
 storyline_nexus: []
 geographic_location: Eastern United States, particularly Southern region
 floor_values_engaged:

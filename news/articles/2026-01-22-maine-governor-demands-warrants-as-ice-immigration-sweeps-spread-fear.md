@@ -16,7 +16,13 @@ primary_themes:
 - Government accountability
 - Community impact
 - Due process concerns
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - government
+  - "government policy"
+  - "human interest"
+  - "human migration"
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: Maine, United States
 floor_values_engaged:

@@ -14,7 +14,10 @@ primary_themes:
 - political_corruption
 - investigation
 - government_accountability
-topic_tags: []
+topic_tags:
+  - election
+  - politics
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Peru
 floor_values_engaged:

@@ -13,7 +13,10 @@ primary_themes:
 - Clergy activism
 - ICE operations
 - Protest movements
-topic_tags: []
+topic_tags:
+  - labour
+  - religion
+  - "religious leader"
 storyline_nexus: []
 geographic_location: Minneapolis-St. Paul, Minnesota; United States
 floor_values_engaged:

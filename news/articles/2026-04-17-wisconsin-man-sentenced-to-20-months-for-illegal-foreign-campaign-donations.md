@@ -13,7 +13,13 @@ primary_themes:
 - foreign_interference
 - fraud
 - sentencing
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - banking
+  - corruption
+  - "crime, law and justice"
+  - "economy, business and finance"
+  - election
 storyline_nexus: []
 geographic_location: United States (Wisconsin)
 floor_values_engaged:

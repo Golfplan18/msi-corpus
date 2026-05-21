@@ -15,7 +15,10 @@ primary_themes:
 - Slavery
 - Institutional accountability
 - African heritage
-topic_tags: []
+topic_tags:
+  - religion
+  - "religious institution"
+  - "religious leader"
 storyline_nexus: []
 geographic_location: Angola (Muxima)
 floor_values_engaged:

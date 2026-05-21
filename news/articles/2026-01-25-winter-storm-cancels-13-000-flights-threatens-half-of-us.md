@@ -13,7 +13,11 @@ primary_themes:
 - natural disaster
 - transportation disruption
 - emergency response
-topic_tags: []
+topic_tags:
+  - "weather warning"
+  - "disaster, accident and emergency incident"
+  - "human interest"
+  - "human migration"
 storyline_nexus: []
 geographic_location: 'United States (multi-region: South, Midwest, Northeast)'
 floor_values_engaged:

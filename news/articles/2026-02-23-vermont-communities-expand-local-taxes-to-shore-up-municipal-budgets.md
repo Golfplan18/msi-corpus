@@ -19,7 +19,13 @@ primary_themes:
 - public services
 - civic participation
 - fiscal stability
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "law enforcement"
+  - "science and technology"
+  - "artificial intelligence"
+  - education
+  - "education policy"
 storyline_nexus: []
 geographic_location: Vermont
 floor_values_engaged:

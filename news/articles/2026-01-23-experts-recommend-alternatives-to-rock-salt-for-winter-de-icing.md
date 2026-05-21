@@ -15,7 +15,13 @@ primary_themes:
 - environmental impact
 - consumer guidance
 - pet safety
-topic_tags: []
+topic_tags:
+  - environment
+  - "economy, business and finance"
+  - "international trade"
+  - "arts, culture, entertainment and media"
+  - music
+  - weather
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

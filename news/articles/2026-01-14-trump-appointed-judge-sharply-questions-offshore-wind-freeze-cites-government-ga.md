@@ -19,6 +19,9 @@ primary_themes:
 - energy policy
 - climate
 topic_tags:
+  - "artificial intelligence"
+  - "climate change"
+  - "crime, law and justice"
   - "economy, business and finance"
   - "energy and resource"
   - environment

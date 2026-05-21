@@ -18,7 +18,13 @@ primary_themes:
 - artificial intelligence
 - Federal Reserve
 - economic growth
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "economy, business and finance"
+  - employment
+  - health
+  - "international trade"
+  - labour
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

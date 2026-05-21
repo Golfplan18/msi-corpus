@@ -23,7 +23,12 @@ primary_themes:
 - health technology
 - industrial manufacturing
 - autonomous systems
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - prosecution
+  - health
+  - "science and technology"
+  - "artificial intelligence"
 storyline_nexus: []
 geographic_location: Las Vegas, Nevada, United States
 floor_values_engaged:

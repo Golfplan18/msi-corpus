@@ -19,7 +19,9 @@ primary_themes:
 - geopolitics
 topic_tags:
   - "economy, business and finance"
-  - "energy and resource"
+  - employment
+  - labour
+  - "labour dispute"
 storyline_nexus: []
 geographic_location: Havana, Cuba; Venezuela; Latin America
 floor_values_engaged:

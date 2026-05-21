@@ -17,7 +17,9 @@ primary_themes:
 - U.S.-Venezuela relations
 - organized crime
 - accountability_of_power
-topic_tags: []
+topic_tags:
+  - "arts, culture, entertainment and media"
+  - "mass media"
 storyline_nexus: []
 geographic_location: Venezuela / United States
 floor_values_engaged:

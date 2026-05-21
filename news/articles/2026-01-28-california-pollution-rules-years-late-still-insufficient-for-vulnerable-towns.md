@@ -14,7 +14,9 @@ primary_themes:
 - hazardous_waste_management
 - cumulative_pollution
 - vulnerable_communities
-topic_tags: []
+topic_tags:
+  - environment
+  - pollution
 storyline_nexus: []
 geographic_location: California, United States
 floor_values_engaged:

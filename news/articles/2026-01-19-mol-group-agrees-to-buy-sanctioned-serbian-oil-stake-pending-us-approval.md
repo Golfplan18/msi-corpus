@@ -20,7 +20,12 @@ primary_themes:
 - Russia-Ukraine war economic fallout
 - Balkans geopolitics
 - mergers and acquisitions
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "economy, business and finance"
+  - "international relations"
+  - politics
 storyline_nexus: []
 geographic_location: Belgrade, Serbia
 floor_values_engaged:

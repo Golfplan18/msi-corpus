@@ -14,7 +14,12 @@ primary_themes:
 - Middle East
 - emergency funding
 - U.S. foreign policy
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "disaster, accident and emergency incident"
+  - "international relations"
+  - politics
 storyline_nexus: []
 geographic_location: Middle East; Washington, D.C.
 floor_values_engaged:

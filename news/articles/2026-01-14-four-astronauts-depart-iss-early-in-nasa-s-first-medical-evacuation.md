@@ -19,8 +19,9 @@ primary_themes:
 - NASA human spaceflight
 - International Space Station
 topic_tags:
-  - "artificial intelligence"
   - health
+  - "international relations"
+  - politics
   - "science and technology"
   - "space programme"
 storyline_nexus: []

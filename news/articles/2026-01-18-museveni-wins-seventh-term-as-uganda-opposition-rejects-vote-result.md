@@ -15,7 +15,9 @@ primary_themes:
 - East Africa
 - opposition politics
 - internet freedom
-topic_tags: []
+topic_tags:
+  - election
+  - politics
 storyline_nexus: []
 geographic_location: Kampala, Uganda
 floor_values_engaged:

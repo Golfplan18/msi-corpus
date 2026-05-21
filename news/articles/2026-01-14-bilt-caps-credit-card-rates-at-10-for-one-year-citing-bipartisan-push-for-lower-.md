@@ -19,9 +19,9 @@ primary_themes:
 - political pressure on financial industry
 - affordability
 topic_tags:
-  - "computing and information technology"
   - "economy, business and finance"
   - politics
+  - "science and technology"
 storyline_nexus: []
 geographic_location: New York, United States
 floor_values_engaged:

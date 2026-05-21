@@ -19,7 +19,13 @@ primary_themes:
 - congressional oversight
 - immigration detention
 - judicial review
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "government policy"
+  - "human migration"
+  - "international relations"
+  - "law enforcement"
+  - trial
 storyline_nexus: []
 geographic_location: Minneapolis, MN; Washington, D.C.
 floor_values_engaged:

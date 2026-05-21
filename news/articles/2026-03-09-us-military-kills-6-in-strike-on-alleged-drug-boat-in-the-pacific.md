@@ -13,7 +13,13 @@ primary_themes:
 - military strikes
 - Latin America policy
 - narcoterrorism claims
-topic_tags: []
+topic_tags:
+  - politics
+  - election
+  - "conflict, war and peace"
+  - "armed conflict"
+  - labour
+  - "labour dispute"
 storyline_nexus: []
 geographic_location: Eastern Pacific Ocean
 floor_values_engaged:

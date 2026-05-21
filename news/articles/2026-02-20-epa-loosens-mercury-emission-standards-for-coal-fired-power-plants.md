@@ -12,7 +12,10 @@ primary_themes:
 - fossil fuels
 - public health
 - EPA deregulation
-topic_tags: []
+topic_tags:
+  - environment
+  - health
+  - "public health"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

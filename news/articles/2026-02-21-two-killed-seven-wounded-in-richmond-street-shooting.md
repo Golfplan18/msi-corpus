@@ -12,7 +12,11 @@ primary_themes:
 - gun violence
 - crime and public safety
 - urban violence
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - crime
+  - "crime, law and justice"
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: Richmond, Virginia, United States
 floor_values_engaged:

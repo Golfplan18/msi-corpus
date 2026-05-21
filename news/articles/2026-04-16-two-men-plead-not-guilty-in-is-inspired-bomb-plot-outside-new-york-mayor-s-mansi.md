@@ -15,7 +15,13 @@ primary_themes:
 - federal courts
 - Islamic State
 - bomb plot
-topic_tags: []
+topic_tags:
+  - "civil unrest"
+  - "conflict, war and peace"
+  - "crime, law and justice"
+  - "law enforcement"
+  - "political dissent"
+  - trial
 storyline_nexus: []
 geographic_location: New York City, New York, United States
 floor_values_engaged:

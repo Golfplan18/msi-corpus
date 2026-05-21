@@ -19,7 +19,9 @@ primary_themes:
 - drone warfare
 - force protection
 - Kuwait
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: Port Shuaiba, Kuwait
 floor_values_engaged:

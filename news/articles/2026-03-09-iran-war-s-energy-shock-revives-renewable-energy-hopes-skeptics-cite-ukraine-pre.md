@@ -19,7 +19,11 @@ primary_themes:
 - Iran war
 - fossil fuels
 - energy nationalism
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "climate change"
+  - "conflict, war and peace"
+  - environment
 storyline_nexus: []
 geographic_location: International
 floor_values_engaged:

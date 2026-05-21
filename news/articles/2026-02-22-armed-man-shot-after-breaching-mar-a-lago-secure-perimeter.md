@@ -16,7 +16,13 @@ primary_themes:
 - Law enforcement response
 - Assassination attempts
 - Politically motivated violence
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - crime
+  - "crime, law and justice"
+  - "law enforcement"
+  - "conflict, war and peace"
+  - "armed conflict"
 storyline_nexus: []
 geographic_location: Palm Beach, Florida, United States
 floor_values_engaged:

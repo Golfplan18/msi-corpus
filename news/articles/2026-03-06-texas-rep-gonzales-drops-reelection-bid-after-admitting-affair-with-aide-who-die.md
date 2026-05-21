@@ -15,7 +15,9 @@ primary_themes:
 - Elected official misconduct
 - 2026 elections
 - House majority politics
-topic_tags: []
+topic_tags:
+  - "election"
+  - "politics"
 storyline_nexus: []
 geographic_location: Washington, D.C. / Texas
 floor_values_engaged:

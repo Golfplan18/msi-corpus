@@ -14,7 +14,11 @@ primary_themes:
 - temporary protected status
 - federal judiciary
 - deportation policy
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "government policy"
+  - "politics"
+  - "trial"
 storyline_nexus: []
 geographic_location: Washington, D.C. / United States
 floor_values_engaged:

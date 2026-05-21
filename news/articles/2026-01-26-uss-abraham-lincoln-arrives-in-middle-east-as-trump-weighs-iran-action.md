@@ -17,7 +17,13 @@ primary_themes:
 - U.S.-Iran tensions
 - Protest crackdowns
 - Regional security
-topic_tags: []
+topic_tags:
+  - "civil unrest"
+  - "conflict, war and peace"
+  - government
+  - "international relations"
+  - "political dissent"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Middle East
 floor_values_engaged:

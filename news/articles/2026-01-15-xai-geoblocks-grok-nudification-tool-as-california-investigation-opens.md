@@ -17,7 +17,13 @@ primary_themes:
 - digital safety
 - tech accountability
 - child protection
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "business information"
+  - "economy, business and finance"
+  - government
+  - "government policy"
+  - "human interest"
 storyline_nexus: []
 geographic_location: Global
 floor_values_engaged:

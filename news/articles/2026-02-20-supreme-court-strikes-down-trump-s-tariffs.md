@@ -17,7 +17,13 @@ primary_themes:
 - Constitutional law
 - Executive power
 - Trade policy
-topic_tags: []
+topic_tags:
+  - politics
+  - "human interest"
+  - trial
+  - "government policy"
+  - "international relations"
+  - "economy, business and finance"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

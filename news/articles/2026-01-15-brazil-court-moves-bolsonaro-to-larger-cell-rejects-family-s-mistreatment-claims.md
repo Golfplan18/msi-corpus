@@ -18,6 +18,10 @@ primary_themes:
 - imprisonment
 - democratic accountability
 topic_tags:
+  - "crime, law and justice"
+  - health
+  - judiciary
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: Brasília, Brazil
 floor_values_engaged:

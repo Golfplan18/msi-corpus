@@ -18,7 +18,13 @@ primary_themes:
 - employee well-being
 - management practices
 - workplace flexibility
-topic_tags: []
+topic_tags:
+  - "government policy"
+  - "human migration"
+  - "international relations"
+  - macroeconomics
+  - "monetary policy"
+  - politics
 storyline_nexus: []
 geographic_location: United States and international
 floor_values_engaged:

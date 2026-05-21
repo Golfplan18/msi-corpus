@@ -15,7 +15,13 @@ primary_themes:
 - U.S. foreign policy
 - Cuba policy
 - Military posturing
-topic_tags: []
+topic_tags:
+  - politics
+  - government
+  - "international relations"
+  - "conflict, war and peace"
+  - health
+  - "disease and condition"
 storyline_nexus: []
 geographic_location: Havana, Cuba; Washington, DC, USA
 floor_values_engaged:

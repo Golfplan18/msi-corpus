@@ -19,9 +19,11 @@ primary_themes:
 - streaming industry
 - entertainment industry
 topic_tags:
-  - politics
-  - government
-  - "international relations"
+  - "artificial intelligence"
+  - "arts and entertainment"
+  - "arts, culture, entertainment and media"
+  - "mass media"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

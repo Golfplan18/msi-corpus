@@ -11,7 +11,11 @@ primary_themes:
 - food_culture
 - regional_tradition
 - climate_change_threat
-topic_tags: []
+topic_tags:
+  - "lifestyle and leisure"
+  - lifestyle
+  - "human interest"
+  - achievement
 storyline_nexus: []
 geographic_location: Pirot, southeastern Serbia
 floor_values_engaged:

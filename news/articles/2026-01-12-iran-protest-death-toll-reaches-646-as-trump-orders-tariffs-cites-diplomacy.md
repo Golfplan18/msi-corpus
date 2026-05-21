@@ -20,7 +20,9 @@ primary_themes:
 - economic sanctions
 - tariffs
 - nuclear program
-topic_tags: []
+topic_tags:
+  - "economy, business and finance"
+  - "international trade"
 storyline_nexus: []
 geographic_location: Iran; Washington, D.C., United States
 floor_values_engaged:

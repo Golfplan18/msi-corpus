@@ -18,7 +18,11 @@ primary_themes:
 - taxation
 - rural-policy
 - government-accountability
-topic_tags: []
+topic_tags:
+  - "arts, culture, entertainment and media"
+  - "conflict, war and peace"
+  - "mass media"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Connecticut, United States
 floor_values_engaged:

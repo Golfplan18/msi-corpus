@@ -15,7 +15,9 @@ primary_themes:
 - emergency evacuation planning
 - summer camp safety
 - legal proceedings
-topic_tags: []
+topic_tags:
+  - "disaster, accident and emergency incident"
+  - "natural disaster"
 storyline_nexus: []
 geographic_location: Texas Hill Country, Texas, United States
 floor_values_engaged:

@@ -13,7 +13,11 @@ primary_themes:
 - federal education policy
 - government reorganization
 - education funding
-topic_tags: []
+topic_tags:
+  - politics
+  - "government policy"
+  - education
+  - "education policy"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

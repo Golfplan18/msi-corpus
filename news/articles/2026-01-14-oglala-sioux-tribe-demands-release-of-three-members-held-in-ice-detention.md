@@ -18,8 +18,7 @@ primary_themes:
 - federal jurisdiction
 - homelessness
 topic_tags:
-  - "human interest"
-  - "human migration"
+  - "crime, law and justice"
 storyline_nexus: []
 geographic_location: Minneapolis, Minnesota; Fort Snelling, Minnesota
 floor_values_engaged:

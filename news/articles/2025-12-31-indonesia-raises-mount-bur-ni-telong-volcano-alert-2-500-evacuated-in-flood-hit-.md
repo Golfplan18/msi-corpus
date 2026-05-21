@@ -16,7 +16,13 @@ primary_themes:
 - emergency evacuation
 - compounding crises
 - Ring of Fire
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - crime
+  - "crime, law and justice"
+  - "disaster, accident and emergency incident"
+  - fire
+  - "human interest"
 storyline_nexus: []
 geographic_location: Bener Meriah, Aceh, Indonesia
 floor_values_engaged:

@@ -19,7 +19,9 @@ primary_themes:
 - rural_economic_decline
 - school_consolidation
 - community_anchor_institutions
-topic_tags: []
+topic_tags:
+  - education
+  - school
 storyline_nexus: []
 geographic_location: Orick, Humboldt County, California, United States
 floor_values_engaged:

@@ -17,7 +17,13 @@ primary_themes:
 - retail
 - corporate-strategy
 - technology-commercialization
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "business information"
+  - "financial and business service"
+  - macroeconomics
+  - "monetary policy"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

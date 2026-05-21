@@ -18,10 +18,12 @@ primary_themes:
 - inflation
 - geopolitical tensions
 topic_tags:
+  - "crime, law and justice"
   - "economy, business and finance"
-  - "market and exchange"
   - "international trade"
-  - "monetary policy"
+  - macroeconomics
+  - "market and exchange"
+  - sport
 storyline_nexus: []
 geographic_location: United States; Europe
 floor_values_engaged:

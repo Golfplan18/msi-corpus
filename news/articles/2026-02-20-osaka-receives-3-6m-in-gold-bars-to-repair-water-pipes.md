@@ -11,7 +11,9 @@ primary_themes:
 - Infrastructure
 - Water systems
 - Public works funding
-topic_tags: []
+topic_tags:
+  - "construction and property"
+  - "economy, business and finance"
 storyline_nexus: []
 geographic_location: Osaka, Japan
 floor_values_engaged:

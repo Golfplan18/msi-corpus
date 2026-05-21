@@ -15,7 +15,11 @@ primary_themes:
 - Elections
 - Judiciary
 - Judicial races
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - election
+  - politics
+  - trial
 storyline_nexus: []
 geographic_location: Nevada, United States
 floor_values_engaged:

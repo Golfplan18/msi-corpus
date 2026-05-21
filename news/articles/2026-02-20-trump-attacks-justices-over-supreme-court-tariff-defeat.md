@@ -15,7 +15,8 @@ primary_themes:
 - presidential_authority
 - separation_of_powers
 - executive_power
-topic_tags: []
+topic_tags:
+  - politics
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

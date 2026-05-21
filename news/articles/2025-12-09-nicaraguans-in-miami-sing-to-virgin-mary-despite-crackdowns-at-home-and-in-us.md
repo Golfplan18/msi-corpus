@@ -17,10 +17,12 @@ primary_themes:
 - Catholic tradition
 - gritería
 topic_tags:
-  - "religion"
-  - "belief systems"
+  - "arts, culture, entertainment and media"
+  - "government policy"
   - "human interest"
   - "human migration"
+  - "mass media"
+  - politics
 storyline_nexus: []
 geographic_location: Miami, Florida, United States
 floor_values_engaged:

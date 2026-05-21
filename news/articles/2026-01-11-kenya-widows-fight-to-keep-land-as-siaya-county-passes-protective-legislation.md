@@ -17,11 +17,7 @@ primary_themes:
 - Kenya customary law
 - legislative reform
 - gender equality
-topic_tags:
-  - "politics"
-  - "government policy"
-  - "society"
-  - "discrimination"
+topic_tags: []
 storyline_nexus: []
 geographic_location: Siaya County, Kenya; Kisii County, Kenya; western Kenya
 floor_values_engaged:

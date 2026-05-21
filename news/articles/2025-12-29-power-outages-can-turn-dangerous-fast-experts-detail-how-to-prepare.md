@@ -15,7 +15,13 @@ primary_themes:
 - power outages
 - public safety
 - climate resilience
-topic_tags: []
+topic_tags:
+  - "accident and emergency incident"
+  - "climate change"
+  - "disaster, accident and emergency incident"
+  - environment
+  - fire
+  - weather
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

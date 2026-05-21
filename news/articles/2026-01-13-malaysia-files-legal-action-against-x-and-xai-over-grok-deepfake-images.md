@@ -16,8 +16,12 @@ primary_themes:
 - child safety online
 - platform accountability
 topic_tags:
+  - "government policy"
+  - "human migration"
+  - "international relations"
+  - "mass media"
+  - "monetary policy"
   - "science and technology"
-  - "artificial intelligence"
 storyline_nexus: []
 geographic_location: Kuala Lumpur, Malaysia
 floor_values_engaged:

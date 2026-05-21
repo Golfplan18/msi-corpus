@@ -17,6 +17,10 @@ primary_themes:
 - war-crimes investigation
 - Maduro extradition
 topic_tags:
+  - "human migration"
+  - "crime, law and justice"
+  - crime
+  - "human interest"
 storyline_nexus: []
 geographic_location: Caracas, Venezuela
 floor_values_engaged:

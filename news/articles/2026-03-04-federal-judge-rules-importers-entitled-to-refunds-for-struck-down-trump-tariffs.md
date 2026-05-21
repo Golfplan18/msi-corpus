@@ -24,7 +24,13 @@ primary_themes:
 - tariff refunds
 - executive power
 - separation of powers
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "arts and entertainment"
+  - "arts, culture, entertainment and media"
+  - "crime, law and justice"
+  - "disaster, accident and emergency incident"
+  - "economy, business and finance"
 storyline_nexus: []
 geographic_location: Washington, D.C.
 floor_values_engaged:

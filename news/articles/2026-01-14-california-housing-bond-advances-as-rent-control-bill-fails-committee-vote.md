@@ -20,8 +20,8 @@ primary_themes:
 - state legislation
 - housing bonds
 topic_tags:
-  - "construction and property"
-  - "economy, business and finance"
+  - "politics"
+  - "government policy"
 storyline_nexus: []
 geographic_location: California, United States
 floor_values_engaged:

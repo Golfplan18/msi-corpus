@@ -18,7 +18,13 @@ primary_themes:
 - aerial bombardment
 - air defense
 - civilian casualties
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "crime, law and justice"
+  - "disaster, accident and emergency incident"
+  - fire
+  - labour
 storyline_nexus: []
 geographic_location: Ukraine
 floor_values_engaged:

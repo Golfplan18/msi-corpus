@@ -18,7 +18,13 @@ primary_themes:
 - Law enforcement accountability
 - Immigration enforcement
 - Federal authority
-topic_tags: []
+topic_tags:
+  - politics
+  - "human interest"
+  - "government policy"
+  - crime
+  - "crime, law and justice"
+  - "human migration"
 storyline_nexus: []
 geographic_location: Minneapolis, Minnesota, United States
 floor_values_engaged:

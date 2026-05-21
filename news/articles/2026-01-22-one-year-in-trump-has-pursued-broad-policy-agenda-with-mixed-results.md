@@ -17,7 +17,13 @@ primary_themes:
 - Economic policy
 - Federal Reserve
 - Midterm elections
-topic_tags: []
+topic_tags:
+  - "arts, culture, entertainment and media"
+  - election
+  - "human interest"
+  - "human migration"
+  - "mass media"
+  - politics
 storyline_nexus: []
 geographic_location: United States; Venezuela; Russia; Ukraine; Gaza; Israel; Greenland; Denmark; Minnesota
 floor_values_engaged:

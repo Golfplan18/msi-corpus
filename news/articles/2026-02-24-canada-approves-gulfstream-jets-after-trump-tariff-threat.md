@@ -16,7 +16,13 @@ primary_themes:
 - Trade policy
 - U.S.-Canada relations
 - Business aviation
-topic_tags: []
+topic_tags:
+  - "economy, business and finance"
+  - "international trade"
+  - politics
+  - "government policy"
+  - "science and technology"
+  - "space programme"
 storyline_nexus: []
 geographic_location: Canada / United States
 floor_values_engaged:

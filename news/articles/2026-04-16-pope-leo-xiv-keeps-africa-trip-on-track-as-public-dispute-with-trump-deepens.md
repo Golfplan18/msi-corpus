@@ -20,7 +20,9 @@ primary_themes:
 - religion and politics
 - Africa diplomacy
 - press access
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - religion
 storyline_nexus: []
 geographic_location: International (Africa — Algeria, Cameroon)
 floor_values_engaged:

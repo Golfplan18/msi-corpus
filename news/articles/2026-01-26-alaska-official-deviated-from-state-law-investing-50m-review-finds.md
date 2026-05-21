@@ -14,7 +14,8 @@ primary_themes:
 - Investment oversight
 - Fiduciary duty
 - Financial governance
-topic_tags: []
+topic_tags:
+  - politics
 storyline_nexus: []
 geographic_location: Alaska, United States
 floor_values_engaged:

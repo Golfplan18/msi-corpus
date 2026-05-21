@@ -15,7 +15,13 @@ primary_themes:
 - congressional oversight
 - government shutdown
 - DHS funding
-topic_tags: []
+topic_tags:
+  - "arts, culture, entertainment and media"
+  - "disaster, accident and emergency incident"
+  - fire
+  - government
+  - "human interest"
+  - "human migration"
 storyline_nexus: []
 geographic_location: Washington, D.C.
 floor_values_engaged:

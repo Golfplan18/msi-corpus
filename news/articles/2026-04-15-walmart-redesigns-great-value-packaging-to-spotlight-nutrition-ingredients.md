@@ -18,7 +18,9 @@ primary_themes:
 - food labeling
 - nutrition
 - consumer behavior
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

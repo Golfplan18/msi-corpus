@@ -16,7 +16,11 @@ primary_themes:
 - anti_corruption_protests
 - elections
 - eu_nato_member_states
-topic_tags: []
+topic_tags:
+  - corruption
+  - "crime, law and justice"
+  - election
+  - politics
 storyline_nexus: []
 geographic_location: Sofia, Bulgaria
 floor_values_engaged:

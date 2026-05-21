@@ -18,9 +18,8 @@ primary_themes:
 - consumer protection
 - small business impersonation
 topic_tags:
-  - "artificial intelligence"
   - "economy, business and finance"
-  - "science and technology"
+  - "market and exchange"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

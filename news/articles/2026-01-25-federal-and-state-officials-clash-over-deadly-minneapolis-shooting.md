@@ -20,7 +20,13 @@ primary_themes:
 - law enforcement shooting
 - federal-state conflict
 - use of force
-topic_tags: []
+topic_tags:
+  - crime
+  - "crime, law and justice"
+  - government
+  - "government policy"
+  - health
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: Minneapolis, Minnesota, United States
 floor_values_engaged:

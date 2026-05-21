@@ -12,7 +12,13 @@ primary_themes:
 - Venezuela military strikes
 - US military operations
 - viral media
-topic_tags: []
+topic_tags:
+  - "arts, culture, entertainment and media"
+  - "conflict, war and peace"
+  - "disaster, accident and emergency incident"
+  - employment
+  - labour
+  - "labour dispute"
 storyline_nexus: []
 geographic_location: Caracas, Venezuela
 floor_values_engaged:

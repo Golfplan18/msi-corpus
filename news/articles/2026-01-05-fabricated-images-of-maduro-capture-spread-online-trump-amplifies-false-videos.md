@@ -17,8 +17,7 @@ primary_themes:
 - fact-check
 - AI-generated content
 topic_tags:
-  - "arts, culture, entertainment and media"
-  - "social media"
+  - society
 storyline_nexus: []
 geographic_location: United States; Venezuela
 floor_values_engaged:

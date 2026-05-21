@@ -18,7 +18,13 @@ primary_themes:
 - international diplomacy
 - Russia-Ukraine conflict
 - peace negotiations
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "conflict, war and peace"
+  - government
+  - "government policy"
+  - "international relations"
+  - "peace process"
 storyline_nexus: []
 geographic_location: Abu Dhabi; Davos; Ukraine; Russia
 floor_values_engaged:

@@ -18,7 +18,13 @@ primary_themes:
 - hydroelectric_infrastructure
 - US_foreign_policy
 - Africa
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "conflict, war and peace"
+  - government
+  - "government policy"
+  - "international relations"
+  - "peace process"
 storyline_nexus: []
 geographic_location: Northeast Africa
 floor_values_engaged:

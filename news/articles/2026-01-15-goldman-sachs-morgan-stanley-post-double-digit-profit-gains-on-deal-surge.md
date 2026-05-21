@@ -19,7 +19,13 @@ primary_themes:
 - artificial intelligence
 - mergers and acquisitions
 - consumer banking
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - crime
+  - "crime, law and justice"
+  - "law enforcement"
+  - "monetary policy"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: New York, United States
 floor_values_engaged:

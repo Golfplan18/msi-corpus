@@ -18,7 +18,13 @@ primary_themes:
 - Venezuela military operation
 - media-government relations
 - Pentagon press restrictions
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "arts, culture, entertainment and media"
+  - "conflict, war and peace"
+  - "international relations"
+  - labour
+  - "labour dispute"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

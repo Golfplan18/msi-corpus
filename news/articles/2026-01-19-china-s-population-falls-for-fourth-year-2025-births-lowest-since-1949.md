@@ -13,7 +13,9 @@ primary_themes:
 - economic policy
 - China
 - birth rate
-topic_tags: []
+topic_tags:
+  - demographics
+  - society
 storyline_nexus: []
 geographic_location: China
 floor_values_engaged:

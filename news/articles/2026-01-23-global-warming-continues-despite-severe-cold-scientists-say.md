@@ -11,7 +11,12 @@ primary_themes:
 - climate science
 - weather
 - fact-checking
-topic_tags: []
+topic_tags:
+  - environment
+  - "climate change"
+  - politics
+  - government
+  - weather
 storyline_nexus: []
 geographic_location: United States, Global
 floor_values_engaged:

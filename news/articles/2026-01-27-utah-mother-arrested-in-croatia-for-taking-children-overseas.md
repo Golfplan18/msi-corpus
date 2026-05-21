@@ -13,7 +13,11 @@ primary_themes:
 - custody_violation
 - international_child_removal
 - law_enforcement
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "international relations"
+  - "law enforcement"
+  - politics
 storyline_nexus: []
 geographic_location: Utah, USA; Croatia
 floor_values_engaged:

@@ -15,7 +15,11 @@ primary_themes:
 - executive power
 - judicial oversight
 - federal grants
-topic_tags: []
+topic_tags:
+  - politics
+  - election
+  - "crime, law and justice"
+  - judiciary
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

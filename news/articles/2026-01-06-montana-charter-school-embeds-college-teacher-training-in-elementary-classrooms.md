@@ -16,8 +16,12 @@ primary_themes:
 - teacher pipeline
 - higher education access
 topic_tags:
+  - "artificial intelligence"
   - education
-  - school
+  - "education policy"
+  - government
+  - politics
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Great Falls, Cascade County, Montana, United States
 floor_values_engaged:

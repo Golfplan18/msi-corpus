@@ -17,7 +17,11 @@ primary_themes:
 - leak_investigations
 - first_amendment
 - law_enforcement
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - law
+  - "arts, culture, entertainment and media"
+  - "mass media"
 storyline_nexus: []
 geographic_location: United States (Virginia, Maryland, Washington D.C.)
 floor_values_engaged:

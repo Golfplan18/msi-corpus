@@ -14,7 +14,9 @@ primary_themes:
 - military deployment
 - Insurrection Act
 - executive power
-topic_tags: []
+topic_tags:
+  - politics
+  - "government policy"
 storyline_nexus: []
 geographic_location: Minnesota, United States
 floor_values_engaged:

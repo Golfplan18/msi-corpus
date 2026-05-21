@@ -18,7 +18,11 @@ primary_themes:
 - opioid crisis
 - public health
 - community health programs
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - health
+  - "public health"
 storyline_nexus: []
 geographic_location: Indianapolis, Marion County, Indiana
 floor_values_engaged:

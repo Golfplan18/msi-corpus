@@ -17,7 +17,13 @@ primary_themes:
 - community revitalization
 - nuclear decommissioning
 - food safety
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "disaster, accident and emergency incident"
+  - environment
+  - macroeconomics
+  - "monetary policy"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Odaka, Fukushima Prefecture, Japan
 floor_values_engaged:

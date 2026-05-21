@@ -17,11 +17,11 @@ primary_themes:
 - data_centers
 - state_authority
 topic_tags:
-  - "science and technology"
   - "artificial intelligence"
-  - "technology and engineering"
-  - "environment"
-  - "pollution"
+  - crime
+  - "crime, law and justice"
+  - "law enforcement"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

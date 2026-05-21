@@ -19,7 +19,13 @@ primary_themes:
 - religion and civil life
 - civil rights
 - federal law enforcement
-topic_tags: []
+topic_tags:
+  - "arts, culture, entertainment and media"
+  - "civil unrest"
+  - "conflict, war and peace"
+  - "human interest"
+  - "human migration"
+  - religion
 storyline_nexus: []
 geographic_location: St. Paul, Minnesota
 floor_values_engaged:

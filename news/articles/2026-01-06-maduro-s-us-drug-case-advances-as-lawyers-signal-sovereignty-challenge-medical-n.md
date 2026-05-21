@@ -18,8 +18,12 @@ primary_themes:
 - latin_america
 - drug_trafficking
 topic_tags:
+  - "armed conflict"
+  - "artificial intelligence"
+  - "conflict, war and peace"
   - "crime, law and justice"
-  - trial
+  - government
+  - "government policy"
 storyline_nexus: []
 geographic_location: New York City, United States
 floor_values_engaged:

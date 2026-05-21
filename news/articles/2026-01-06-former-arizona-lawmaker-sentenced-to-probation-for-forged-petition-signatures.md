@@ -17,8 +17,10 @@ primary_themes:
 - Arizona politics
 - election integrity
 topic_tags:
-  - "crime, law and justice"
-  - crime
+  - "human migration"
+  - politics
+  - election
+  - "human interest"
 storyline_nexus: []
 geographic_location: Phoenix, Maricopa County, Arizona, United States
 floor_values_engaged:

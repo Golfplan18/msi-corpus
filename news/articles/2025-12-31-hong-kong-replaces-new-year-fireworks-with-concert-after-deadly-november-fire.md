@@ -14,7 +14,11 @@ primary_themes:
 - public mourning
 - cultural events
 - New Year celebrations
-topic_tags: []
+topic_tags:
+  - "disaster, accident and emergency incident"
+  - fire
+  - "arts, culture, entertainment and media"
+  - music
 storyline_nexus: []
 geographic_location: Hong Kong
 floor_values_engaged:

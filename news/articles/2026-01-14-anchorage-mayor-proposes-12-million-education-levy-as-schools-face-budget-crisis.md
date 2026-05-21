@@ -17,7 +17,6 @@ primary_themes:
 - Alaska fiscal policy
 topic_tags:
   - education
-  - school
 storyline_nexus: []
 geographic_location: Anchorage, Alaska
 floor_values_engaged:

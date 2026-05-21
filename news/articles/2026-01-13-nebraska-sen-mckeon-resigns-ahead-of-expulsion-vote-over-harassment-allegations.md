@@ -19,10 +19,11 @@ primary_themes:
 - sexual misconduct
 topic_tags:
   - "crime, law and justice"
-  - "crime"
-  - "science and technology"
-  - "economy, business and finance"
-  - "market and exchange"
+  - "government policy"
+  - "human migration"
+  - "international relations"
+  - "law enforcement"
+  - "political process"
 storyline_nexus: []
 geographic_location: Lincoln, Nebraska, United States
 floor_values_engaged:

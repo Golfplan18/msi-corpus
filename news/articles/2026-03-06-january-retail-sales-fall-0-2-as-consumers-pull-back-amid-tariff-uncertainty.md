@@ -20,7 +20,9 @@ primary_themes:
 - tariffs
 - gasoline prices
 - economic outlook
-topic_tags: []
+topic_tags:
+  - "economy, business and finance"
+  - "international trade"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

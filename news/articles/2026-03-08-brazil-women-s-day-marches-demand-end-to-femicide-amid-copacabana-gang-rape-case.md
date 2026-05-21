@@ -18,7 +18,11 @@ primary_themes:
 - sexual assault
 - women's rights
 - International Women's Day
-topic_tags: []
+topic_tags:
+  - society
+  - "crime, law and justice"
+  - "international relations"
+  - politics
 storyline_nexus: []
 geographic_location: Brazil
 floor_values_engaged:

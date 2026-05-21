@@ -18,7 +18,12 @@ primary_themes:
 - Accountability of power in federal construction
 - Institutional design review mechanisms
 - Presidential authority and limits
-topic_tags: []
+topic_tags:
+  - "arts, culture, entertainment and media"
+  - "construction and property"
+  - "economy, business and finance"
+  - government
+  - politics
 storyline_nexus: []
 geographic_location: Washington, D.C.
 floor_values_engaged:

@@ -11,7 +11,12 @@ primary_themes:
 - criminal_justice
 - law_enforcement
 - traffic_safety
-topic_tags: []
+topic_tags:
+  - "accident and emergency incident"
+  - crime
+  - "crime, law and justice"
+  - "disaster, accident and emergency incident"
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: Whittier, California, United States
 floor_values_engaged:

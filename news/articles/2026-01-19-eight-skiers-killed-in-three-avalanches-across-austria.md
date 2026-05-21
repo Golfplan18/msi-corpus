@@ -15,7 +15,8 @@ primary_themes:
 - winter sports
 - mountain rescue
 - Austria
-topic_tags: []
+topic_tags:
+  - "disaster, accident and emergency incident"
 storyline_nexus: []
 geographic_location: Austria
 floor_values_engaged:

@@ -15,7 +15,9 @@ primary_themes:
 - U.S.-Venezuela conflict
 - armed civilians
 - visual journalism
-topic_tags: []
+topic_tags:
+  - labour
+  - "labour dispute"
 storyline_nexus: []
 geographic_location: La Guaira, Venezuela
 floor_values_engaged:

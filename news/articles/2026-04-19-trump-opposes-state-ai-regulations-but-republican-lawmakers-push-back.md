@@ -13,7 +13,11 @@ primary_themes:
 - state-federal relations
 - artificial intelligence regulation
 - Trump administration policy
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "political process"
+  - politics
+  - "science and technology"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

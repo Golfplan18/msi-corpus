@@ -18,7 +18,13 @@ primary_themes:
 - accountability_of_power
 - justice_department_independence
 - political_prosecutions
-topic_tags: []
+topic_tags:
+  - crime
+  - "crime, law and justice"
+  - "human migration"
+  - "international relations"
+  - "law enforcement"
+  - "political dissent"
 storyline_nexus: []
 geographic_location: United States (Washington DC, Southern District of Florida)
 floor_values_engaged:

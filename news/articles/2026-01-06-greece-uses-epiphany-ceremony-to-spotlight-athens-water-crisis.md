@@ -20,8 +20,9 @@ primary_themes:
 - Epiphany
 - infrastructure investment
 topic_tags:
+  - "climate change"
   - environment
-  - "natural resources"
+  - religion
 storyline_nexus: []
 geographic_location: Marathon, Greece; Athens, Greece
 floor_values_engaged:

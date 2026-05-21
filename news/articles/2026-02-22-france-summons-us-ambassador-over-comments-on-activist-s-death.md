@@ -17,7 +17,9 @@ primary_themes:
 - political_violence
 - protest
 - us_foreign_policy
-topic_tags: []
+topic_tags:
+  - politics
+  - "international relations"
 storyline_nexus: []
 geographic_location: Lyon, France; United States
 floor_values_engaged:

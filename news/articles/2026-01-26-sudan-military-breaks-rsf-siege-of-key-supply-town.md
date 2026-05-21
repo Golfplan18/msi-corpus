@@ -13,7 +13,11 @@ primary_themes:
 - military conflict
 - humanitarian crisis
 - displacement
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - "science and technology"
+  - sport
+  - "sport event"
 storyline_nexus: []
 geographic_location: Sudan (Kordofan region, South Kordofan province)
 floor_values_engaged:

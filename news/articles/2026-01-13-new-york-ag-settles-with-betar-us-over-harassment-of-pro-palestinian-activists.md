@@ -16,10 +16,9 @@ primary_themes:
 - harassment
 - free expression
 topic_tags:
-  - "science and technology"
-  - "religion"
-  - "politics"
-  - "artificial intelligence"
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "crime, law and justice"
 storyline_nexus: []
 geographic_location: New York City, New York, United States
 floor_values_engaged:

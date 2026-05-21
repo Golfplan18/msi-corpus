@@ -15,7 +15,9 @@ primary_themes:
 - government_advertising
 - congressional_oversight
 - procurement
-topic_tags: []
+topic_tags:
+  - "government policy"
+  - "politics"
 storyline_nexus: []
 geographic_location: Washington, D.C.
 floor_values_engaged:

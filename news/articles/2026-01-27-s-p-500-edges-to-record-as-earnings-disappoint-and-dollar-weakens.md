@@ -19,7 +19,13 @@ primary_themes:
 - currency markets
 - federal policy
 - consumer confidence
-topic_tags: []
+topic_tags:
+  - politics
+  - trial
+  - "government policy"
+  - "market and exchange"
+  - "economy, business and finance"
+  - "crime, law and justice"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

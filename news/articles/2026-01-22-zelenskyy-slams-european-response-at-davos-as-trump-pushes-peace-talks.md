@@ -19,7 +19,10 @@ primary_themes:
 - international relations
 - military conflict
 - peace negotiations
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - politics
+  - "international relations"
 storyline_nexus: []
 geographic_location: Davos, Switzerland; Moscow, Russia; United Arab Emirates
 floor_values_engaged:

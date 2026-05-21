@@ -16,7 +16,9 @@ primary_themes:
 - congressional oversight
 - Epstein investigation
 - contempt of Congress
-topic_tags: []
+topic_tags:
+  - election
+  - politics
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

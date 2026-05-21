@@ -14,7 +14,13 @@ primary_themes:
 - restraint death
 - criminal charges
 - mental health crisis
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "crime, law and justice"
+  - government
+  - "government policy"
+  - health
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: Haverhill, Massachusetts, United States
 floor_values_engaged:

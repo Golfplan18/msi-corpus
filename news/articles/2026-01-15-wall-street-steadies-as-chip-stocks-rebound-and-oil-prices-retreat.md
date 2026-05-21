@@ -20,7 +20,13 @@ primary_themes:
 - energy prices
 - corporate earnings
 - U.S. economic data
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "crime, law and justice"
+  - economy
+  - "economy, business and finance"
+  - government
+  - "government policy"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

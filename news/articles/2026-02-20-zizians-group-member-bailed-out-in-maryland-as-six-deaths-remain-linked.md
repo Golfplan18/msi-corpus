@@ -12,7 +12,12 @@ primary_themes:
 - criminal justice
 - homicide investigations
 - arrests and bail
-topic_tags: []
+topic_tags:
+  - politics
+  - government
+  - "crime, law and justice"
+  - "law enforcement"
+  - judiciary
 storyline_nexus: []
 geographic_location: 'United States: California, Pennsylvania, Vermont, Maryland'
 floor_values_engaged:

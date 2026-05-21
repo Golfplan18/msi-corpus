@@ -25,7 +25,13 @@ primary_themes:
 - energy crisis
 - international relations
 - naval blockade
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - "disaster, accident and emergency incident"
+  - fire
+  - "international relations"
+  - "peace process"
+  - politics
 storyline_nexus: []
 geographic_location: International (Strait of Hormuz, Iran, Gulf of Oman, Pakistan, Middle East)
 floor_values_engaged:

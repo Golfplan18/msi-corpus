@@ -15,7 +15,13 @@ primary_themes:
 - gun violence
 - gang stalking
 - targeted violence
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "arts, culture, entertainment and media"
+  - "conflict, war and peace"
+  - crime
+  - "crime, law and justice"
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: New Castle, Delaware, United States
 floor_values_engaged:

@@ -17,7 +17,13 @@ primary_themes:
 - money laundering
 - 2020 presidential election
 - defamation litigation
-topic_tags: []
+topic_tags:
+  - "arts, culture, entertainment and media"
+  - election
+  - "mass media"
+  - politics
+  - "science and technology"
+  - "technology and engineering"
 storyline_nexus: []
 geographic_location: Miami, Florida, United States
 floor_values_engaged:

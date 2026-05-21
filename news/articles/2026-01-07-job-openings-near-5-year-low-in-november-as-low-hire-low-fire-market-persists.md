@@ -17,7 +17,13 @@ primary_themes:
 - economic_growth
 - tariffs
 - automation
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "disaster, accident and emergency incident"
+  - "economy, business and finance"
+  - fire
+  - government
+  - "government policy"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

@@ -22,9 +22,10 @@ primary_themes:
 - transportation safety
 - trucking industry
 topic_tags:
+  - "human migration"
   - politics
-  - government
-  - "international relations"
+  - "government policy"
+  - "human interest"
 storyline_nexus: []
 geographic_location: North Carolina, United States
 floor_values_engaged:

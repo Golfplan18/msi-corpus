@@ -14,7 +14,9 @@ primary_themes:
 - Human interest
 - Aviation operations
 - Emergency response
-topic_tags: []
+topic_tags:
+  - "disaster, accident and emergency incident"
+  - "human interest"
 storyline_nexus: []
 geographic_location: Temecula, California, United States
 floor_values_engaged:

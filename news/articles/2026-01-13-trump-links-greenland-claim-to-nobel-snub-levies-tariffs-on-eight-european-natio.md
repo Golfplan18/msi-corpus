@@ -19,12 +19,11 @@ primary_themes:
 - trade-tariffs
 - nato-alliance
 topic_tags:
-  - "science and technology"
   - "conflict, war and peace"
-  - "armed conflict"
   - "economy, business and finance"
-  - "politics"
   - "government policy"
+  - "international trade"
+  - politics
 storyline_nexus: []
 geographic_location: Greenland; Norway; Denmark; United States
 floor_values_engaged:

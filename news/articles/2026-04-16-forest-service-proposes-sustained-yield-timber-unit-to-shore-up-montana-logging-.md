@@ -18,7 +18,9 @@ primary_themes:
 - environmental law
 - rural economic policy
 - public lands
-topic_tags: []
+topic_tags:
+  - conservation
+  - environment
 storyline_nexus: []
 geographic_location: Montana, United States
 floor_values_engaged:

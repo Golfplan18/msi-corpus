@@ -15,7 +15,8 @@ primary_themes:
 - arts and culture
 - women's incarceration
 - human_life_and_dignity
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
 storyline_nexus: []
 geographic_location: Rio de Janeiro, Brazil
 floor_values_engaged:

@@ -18,7 +18,7 @@ primary_themes:
 - budget caps
 topic_tags:
   - politics
-  - "government policy"
+  - government
   - health
 storyline_nexus: []
 geographic_location: Connecticut, United States

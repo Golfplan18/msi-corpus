@@ -20,8 +20,10 @@ primary_themes:
 - MEDICAL_EMERGENCY
 - HUMAN_SPACEFLIGHT
 topic_tags:
-  - "economy, business and finance"
-  - tax
+  - "artificial intelligence"
+  - health
+  - "science and technology"
+  - "space programme"
 storyline_nexus: []
 geographic_location: International Space Station / United States
 floor_values_engaged:

@@ -13,7 +13,13 @@ primary_themes:
 - federal sentencing
 - drug trafficking
 - DEA accountability
-topic_tags: []
+topic_tags:
+  - crime
+  - "crime, law and justice"
+  - "human migration"
+  - "international relations"
+  - "law enforcement"
+  - trial
 storyline_nexus: []
 geographic_location: Buffalo, New York, United States
 floor_values_engaged:

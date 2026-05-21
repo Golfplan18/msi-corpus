@@ -17,7 +17,13 @@ primary_themes:
 - education disruption
 - family stress
 - economic pressure
-topic_tags: []
+topic_tags:
+  - "arts, culture, entertainment and media"
+  - "conflict, war and peace"
+  - "disaster, accident and emergency incident"
+  - education
+  - employment
+  - fire
 storyline_nexus: []
 geographic_location: Iran (Tehran, rural areas)
 floor_values_engaged:

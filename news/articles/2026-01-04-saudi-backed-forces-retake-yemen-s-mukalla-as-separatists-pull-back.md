@@ -17,7 +17,10 @@ primary_themes:
 - Saudi-UAE coalition tensions
 - southern separatism
 - Middle East conflict
-topic_tags: []
+topic_tags:
+  - politics
+  - government
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: Mukalla, Hadramout province, Yemen
 floor_values_engaged:

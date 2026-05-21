@@ -13,7 +13,11 @@ primary_themes:
 - political merchandise retail
 - post-election commerce
 - Pennsylvania politics
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - election
+  - politics
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Bensalem, Pennsylvania
 floor_values_engaged:

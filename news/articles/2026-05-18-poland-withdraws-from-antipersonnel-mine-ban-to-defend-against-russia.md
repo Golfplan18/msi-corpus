@@ -13,7 +13,11 @@ primary_themes:
 - international_treaties
 - NATO_security
 - Russia_Ukraine_conflict
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - "armed conflict"
+  - politics
+  - "international relations"
 storyline_nexus: []
 geographic_location: Poland; eastern NATO border with Russia and Belarus
 floor_values_engaged:

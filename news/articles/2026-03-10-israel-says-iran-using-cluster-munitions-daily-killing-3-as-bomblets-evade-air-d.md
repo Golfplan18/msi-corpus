@@ -15,7 +15,12 @@ primary_themes:
 - international humanitarian law
 - air defense
 - civilian harm
-topic_tags: []
+topic_tags:
+  - politics
+  - government
+  - "crime, law and justice"
+  - crime
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: Israel; Iran
 floor_values_engaged:

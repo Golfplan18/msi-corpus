@@ -15,7 +15,11 @@ primary_themes:
 - international fugitive
 - Philippines politics
 - infrastructure fraud
-topic_tags: []
+topic_tags:
+  - corruption
+  - "crime, law and justice"
+  - "disaster, accident and emergency incident"
+  - "natural disaster"
 storyline_nexus: []
 geographic_location: Manila, Philippines / Prague, Czech Republic
 floor_values_engaged:

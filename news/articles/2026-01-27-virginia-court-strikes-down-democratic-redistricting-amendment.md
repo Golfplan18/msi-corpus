@@ -15,7 +15,9 @@ primary_themes:
 - partisan politics
 - judicial review
 - House elections
-topic_tags: []
+topic_tags:
+  - politics
+  - election
 storyline_nexus: []
 geographic_location: United States (Virginia, Maryland, Texas, Missouri, North Carolina, Ohio, California, Utah, Florida)
 floor_values_engaged:

@@ -17,7 +17,13 @@ primary_themes:
 - nuclear program
 - US-Iran relations
 - internet shutdown
-topic_tags: []
+topic_tags:
+  - "arts, culture, entertainment and media"
+  - "civil unrest"
+  - "conflict, war and peace"
+  - "crime, law and justice"
+  - "economy, business and finance"
+  - macroeconomics
 storyline_nexus: []
 geographic_location: Iran
 floor_values_engaged:

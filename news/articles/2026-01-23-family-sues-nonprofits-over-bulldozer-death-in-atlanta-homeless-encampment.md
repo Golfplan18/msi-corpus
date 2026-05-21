@@ -18,7 +18,8 @@ primary_themes:
 - nonprofit operations
 - housing policy
 - encampment policy
-topic_tags: []
+topic_tags:
+  - religion
 storyline_nexus: []
 geographic_location: Atlanta, Georgia, United States
 floor_values_engaged:

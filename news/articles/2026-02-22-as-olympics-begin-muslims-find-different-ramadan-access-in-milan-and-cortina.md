@@ -18,7 +18,11 @@ primary_themes:
 - integration
 - international_events
 - cultural_diversity
-topic_tags: []
+topic_tags:
+  - sport
+  - "sport event"
+  - religion
+  - "belief systems"
 storyline_nexus: []
 geographic_location: Italy (Milan and Cortina d'Ampezzo)
 floor_values_engaged:

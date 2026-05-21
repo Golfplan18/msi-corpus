@@ -16,7 +16,8 @@ primary_themes:
 - power grid attacks
 - humanitarian crisis
 - peace negotiations
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: Ukraine, Russia
 floor_values_engaged:

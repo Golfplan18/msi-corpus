@@ -13,7 +13,10 @@ primary_themes:
 - NATO alliance
 - U.S.-Europe relations
 - military security
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - labour
 storyline_nexus: []
 geographic_location: Brussels, Belgium; NATO members
 floor_values_engaged:

@@ -20,7 +20,13 @@ primary_themes:
 - Gaza governance transition
 - US-Israel relations
 - Israel-Hamas war
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - "disaster, accident and emergency incident"
+  - fire
+  - "government policy"
+  - "peace process"
+  - politics
 storyline_nexus: []
 geographic_location: Gaza; Washington, D.C.; Cairo
 floor_values_engaged:

@@ -20,7 +20,10 @@ primary_themes:
 - hostage negotiations
 - border access
 - civilian casualties
-topic_tags: []
+topic_tags:
+  - politics
+  - government
+  - "international relations"
 storyline_nexus: []
 geographic_location: Gaza Strip, Israel, Egypt, Middle East
 floor_values_engaged:

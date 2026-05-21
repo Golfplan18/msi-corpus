@@ -16,7 +16,11 @@ primary_themes:
 - prisoner transfers
 - geopolitical transition
 - Middle East security
-topic_tags: []
+topic_tags:
+  - "disaster, accident and emergency incident"
+  - fire
+  - government
+  - politics
 storyline_nexus: []
 geographic_location: Syria, Iraq
 floor_values_engaged:

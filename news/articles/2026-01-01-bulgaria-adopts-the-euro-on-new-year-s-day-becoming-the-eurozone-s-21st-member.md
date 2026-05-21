@@ -19,8 +19,8 @@ primary_themes:
 - public opinion
 topic_tags:
   - "economy, business and finance"
+  - macroeconomics
   - "monetary policy"
-  - "international relations"
 storyline_nexus: []
 geographic_location: Bulgaria
 floor_values_engaged:

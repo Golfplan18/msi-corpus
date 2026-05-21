@@ -17,8 +17,11 @@ primary_themes:
 - civilian impact of armed conflict
 - Ukraine peace negotiations
 topic_tags:
+  - "economy, business and finance"
+  - "construction and property"
+  - labour
   - "conflict, war and peace"
-  - "armed conflict"
+  - "labour dispute"
 storyline_nexus: []
 geographic_location: Ukraine
 floor_values_engaged:

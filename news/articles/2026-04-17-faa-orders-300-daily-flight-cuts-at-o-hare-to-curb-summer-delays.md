@@ -15,7 +15,13 @@ primary_themes:
 - aviation regulation
 - air travel disruption
 - federal transportation policy
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "economy, business and finance"
+  - government
+  - "government policy"
+  - "international relations"
+  - "lifestyle and leisure"
 storyline_nexus: []
 geographic_location: Chicago, Illinois, United States
 floor_values_engaged:

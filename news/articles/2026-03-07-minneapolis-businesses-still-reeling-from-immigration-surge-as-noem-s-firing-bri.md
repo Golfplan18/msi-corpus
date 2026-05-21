@@ -17,7 +17,11 @@ primary_themes:
 - community organizing
 - federal-local government conflict
 - public education
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "human interest"
+  - "human migration"
 storyline_nexus: []
 geographic_location: Minneapolis, Minnesota
 floor_values_engaged:

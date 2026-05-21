@@ -17,7 +17,9 @@ primary_themes:
 - Robotics Development
 - International Competition
 - Artificial Intelligence
-topic_tags: []
+topic_tags:
+  - "science and technology"
+  - "artificial intelligence"
 storyline_nexus: []
 geographic_location: Beijing, China; International
 floor_values_engaged:

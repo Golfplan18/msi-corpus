@@ -15,7 +15,13 @@ primary_themes:
 - separation of powers
 - immigration enforcement
 - crime policy
-topic_tags: []
+topic_tags:
+  - "arts, culture, entertainment and media"
+  - "human interest"
+  - "human migration"
+  - "mass media"
+  - music
+  - "social media"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

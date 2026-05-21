@@ -17,7 +17,10 @@ primary_themes:
 - vaccination rates
 - disease elimination status
 - quarantine
-topic_tags: []
+topic_tags:
+  - "disease and condition"
+  - health
+  - "public health"
 storyline_nexus: []
 geographic_location: Spartanburg County, South Carolina, United States
 floor_values_engaged:

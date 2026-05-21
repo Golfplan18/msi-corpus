@@ -18,7 +18,10 @@ primary_themes:
 - Republican Party
 - Hyde Amendment
 - 2026 midterm elections
-topic_tags: []
+topic_tags:
+  - election
+  - health
+  - politics
 storyline_nexus: []
 geographic_location: Washington, D.C., United States
 floor_values_engaged:

@@ -19,8 +19,10 @@ primary_themes:
 - nutrition
 - food industry marketing
 topic_tags:
-  - "economy, business and finance"
+  - "crime, law and justice"
   - "market and exchange"
+  - "economy, business and finance"
+  - trial
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

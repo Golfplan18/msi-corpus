@@ -20,7 +20,10 @@ primary_themes:
 - Indianapolis history
 - kidnapping
 - insanity defense
-topic_tags: []
+topic_tags:
+  - "economy, business and finance"
+  - "arts, culture, entertainment and media"
+  - "arts and entertainment"
 storyline_nexus: []
 geographic_location: Indianapolis, Indiana, United States
 floor_values_engaged:

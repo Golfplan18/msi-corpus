@@ -17,7 +17,13 @@ primary_themes:
 - EU-Mercosur free trade agreement
 - European agricultural policy
 - geopolitics
-topic_tags: []
+topic_tags:
+  - politics
+  - "arts, culture, entertainment and media"
+  - "government policy"
+  - "international relations"
+  - "economy, business and finance"
+  - labour
 storyline_nexus: []
 geographic_location: Brussels, Belgium; international
 floor_values_engaged:

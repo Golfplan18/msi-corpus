@@ -16,7 +16,13 @@ primary_themes:
 - immigration enforcement
 - congressional oversight
 - tax season
-topic_tags: []
+topic_tags:
+  - "disaster, accident and emergency incident"
+  - fire
+  - "government policy"
+  - "human migration"
+  - "international relations"
+  - "natural disaster"
 storyline_nexus: []
 geographic_location: Washington, D.C.
 floor_values_engaged:

@@ -20,7 +20,12 @@ primary_themes:
 - mercosur_agreement
 - trade_negotiations
 - parliamentary_oversight
-topic_tags: []
+topic_tags:
+  - election
+  - employment
+  - labour
+  - "labour dispute"
+  - politics
 storyline_nexus: []
 geographic_location: International
 floor_values_engaged:

@@ -17,9 +17,10 @@ primary_themes:
 - public opinion polling
 - ACA tax credits
 topic_tags:
+  - "economy, business and finance"
+  - "crime, law and justice"
+  - health
   - politics
-  - government
-  - "international relations"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

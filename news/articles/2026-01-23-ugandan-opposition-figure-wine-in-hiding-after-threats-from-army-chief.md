@@ -13,7 +13,11 @@ primary_themes:
 - Political violence and threats
 - Election integrity and contested results
 - Military pressure on opposition
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - election
+  - politics
 storyline_nexus: []
 geographic_location: Uganda
 floor_values_engaged:

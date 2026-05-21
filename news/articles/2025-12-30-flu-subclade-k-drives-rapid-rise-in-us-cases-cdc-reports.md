@@ -16,7 +16,12 @@ primary_themes:
 - influenza surveillance
 - vaccine effectiveness
 - informed_citizenship
-topic_tags: []
+topic_tags:
+  - "disease and condition"
+  - education
+  - "epidemic and pandemic"
+  - health
+  - school
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

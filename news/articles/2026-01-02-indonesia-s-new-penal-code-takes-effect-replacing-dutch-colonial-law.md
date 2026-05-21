@@ -18,10 +18,9 @@ primary_themes:
 - freedom of expression
 - Indonesia
 topic_tags:
+  - crime
   - "crime, law and justice"
-  - "law"
-  - "politics"
-  - "fundamental rights"
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: Jakarta, Indonesia
 floor_values_engaged:

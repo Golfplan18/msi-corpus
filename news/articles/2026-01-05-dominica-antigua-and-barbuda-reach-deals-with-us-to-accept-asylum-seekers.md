@@ -18,9 +18,10 @@ primary_themes:
 - third-country migration deals
 topic_tags:
   - politics
-  - "government policy"
-  - "human interest"
-  - "human migration"
+  - election
+  - government
+  - "international relations"
+  - "crime, law and justice"
 storyline_nexus: []
 geographic_location: Dominica; Antigua and Barbuda; Caribbean
 floor_values_engaged:

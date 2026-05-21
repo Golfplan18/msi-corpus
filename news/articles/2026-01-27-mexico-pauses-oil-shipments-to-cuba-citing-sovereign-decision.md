@@ -17,7 +17,9 @@ primary_themes:
 - energy policy
 - diplomacy
 - sanctions and isolation
-topic_tags: []
+topic_tags:
+  - "international relations"
+  - politics
 storyline_nexus: []
 geographic_location: Mexico, Cuba
 floor_values_engaged:

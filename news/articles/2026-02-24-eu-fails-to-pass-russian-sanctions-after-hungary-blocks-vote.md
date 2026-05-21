@@ -17,7 +17,13 @@ primary_themes:
 - Ukraine conflict
 - EU politics
 - energy security
-topic_tags: []
+topic_tags:
+  - election
+  - employment
+  - labour
+  - "labour dispute"
+  - politics
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Brussels, EU; Hungary; Ukraine
 floor_values_engaged:

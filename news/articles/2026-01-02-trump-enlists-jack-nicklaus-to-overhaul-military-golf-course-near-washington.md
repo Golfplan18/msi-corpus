@@ -16,9 +16,11 @@ primary_themes:
 - federal construction projects
 - Trump administration domestic agenda
 topic_tags:
-  - "politics"
-  - "government"
-  - "sport"
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "construction and property"
+  - "economy, business and finance"
+  - politics
 storyline_nexus: []
 geographic_location: Joint Base Andrews, Maryland
 floor_values_engaged:

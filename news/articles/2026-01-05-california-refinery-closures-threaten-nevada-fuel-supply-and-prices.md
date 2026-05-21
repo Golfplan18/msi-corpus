@@ -20,7 +20,11 @@ primary_themes:
 - climate policy
 - Western states
 - refinery closures
-topic_tags: []
+topic_tags:
+  - "climate change"
+  - "economy, business and finance"
+  - "energy and resource"
+  - environment
 storyline_nexus: []
 geographic_location: Nevada, California, United States
 floor_values_engaged:

@@ -14,7 +14,11 @@ primary_themes:
 - tariffs
 - agricultural commodities
 - trade policy uncertainty
-topic_tags: []
+topic_tags:
+  - agriculture
+  - "economy, business and finance"
+  - "international trade"
+  - politics
 storyline_nexus: []
 geographic_location: United States, China
 floor_values_engaged:

@@ -12,7 +12,11 @@ primary_themes:
 - artificial intelligence investment
 - trade policy
 - economic growth forecasts
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "international relations"
+  - politics
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Global
 floor_values_engaged:

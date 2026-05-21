@@ -20,7 +20,11 @@ primary_themes:
 - Persian Gulf military operations
 - Russia-Ukraine war
 - Shahed drone warfare
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "international relations"
+  - "politics"
 storyline_nexus: []
 geographic_location: Washington, D.C. / Persian Gulf / Moscow / Kyiv
 floor_values_engaged:

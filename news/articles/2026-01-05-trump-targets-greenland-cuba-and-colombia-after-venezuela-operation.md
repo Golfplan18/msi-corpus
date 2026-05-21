@@ -22,8 +22,10 @@ primary_themes:
 - Colombia drug trade
 - Cuba-Venezuela relations
 topic_tags:
-  - politics
+  - "conflict, war and peace"
   - "international relations"
+  - politics
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Washington, D.C.
 floor_values_engaged:

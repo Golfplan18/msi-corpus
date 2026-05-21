@@ -16,9 +16,12 @@ primary_themes:
 - transit safety
 - antisemitism
 topic_tags:
-  - "politics"
-  - "election"
-  - "weather"
+  - "arts, culture, entertainment and media"
+  - "crime, law and justice"
+  - election
+  - "law enforcement"
+  - politics
+  - "social media"
 storyline_nexus: []
 geographic_location: Albany, New York
 floor_values_engaged:

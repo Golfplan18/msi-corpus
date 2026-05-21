@@ -21,7 +21,11 @@ primary_themes:
 - Michigan
 - fundraising
 - rare habitat
-topic_tags: []
+topic_tags:
+  - "environment"
+  - "conservation"
+  - "society"
+  - "welfare"
 storyline_nexus: []
 geographic_location: Brownstown Township, Wayne County, Michigan, United States
 floor_values_engaged:

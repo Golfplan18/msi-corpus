@@ -21,7 +21,13 @@ primary_themes:
 - immigration enforcement
 - national security
 - congressional stalemate
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "crime, law and justice"
+  - election
+  - government
+  - "government policy"
 storyline_nexus: []
 geographic_location: Washington, D.C.
 floor_values_engaged:

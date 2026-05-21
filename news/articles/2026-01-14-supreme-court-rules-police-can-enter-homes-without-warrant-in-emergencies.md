@@ -16,9 +16,11 @@ primary_themes:
 - use of force
 - Supreme Court
 topic_tags:
-  - "conflict, war and peace"
+  - "crime, law and justice"
   - "disaster, accident and emergency incident"
-  - "science and technology"
+  - fire
+  - judiciary
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: Washington, D.C. / Montana
 floor_values_engaged:

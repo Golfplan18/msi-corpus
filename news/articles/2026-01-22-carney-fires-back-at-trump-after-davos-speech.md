@@ -15,7 +15,9 @@ primary_themes:
 - International diplomacy
 - Trade relations
 - Political rhetoric
-topic_tags: []
+topic_tags:
+  - "politics"
+  - "government"
 storyline_nexus: []
 geographic_location: Canada, United States, Switzerland
 floor_values_engaged:

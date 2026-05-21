@@ -16,7 +16,9 @@ primary_themes:
 - emergency management
 - evacuation
 - Indonesia
-topic_tags: []
+topic_tags:
+  - "disaster, accident and emergency incident"
+  - "natural disaster"
 storyline_nexus: []
 geographic_location: Bener Meriah regency, Aceh province, Indonesia
 floor_values_engaged:

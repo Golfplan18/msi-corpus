@@ -38,7 +38,9 @@ primary_themes:
 - police training facility
 - RICO law
 - domestic terrorism charges
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - judiciary
 storyline_nexus: []
 geographic_location: Atlanta, Georgia, United States
 floor_values_engaged:

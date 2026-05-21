@@ -16,10 +16,12 @@ primary_themes:
 - law enforcement
 - FBI undercover operations
 topic_tags:
-  - "crime, law and justice"
-  - "law enforcement"
+  - "armed conflict"
   - "conflict, war and peace"
-  - "terrorism"
+  - "crime, law and justice"
+  - "international relations"
+  - judiciary
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: Mint Hill, North Carolina
 floor_values_engaged:

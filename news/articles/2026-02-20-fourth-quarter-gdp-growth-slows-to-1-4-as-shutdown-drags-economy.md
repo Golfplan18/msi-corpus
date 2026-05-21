@@ -17,7 +17,12 @@ primary_themes:
 - consumer spending
 - labor market
 - immigration
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "economy, business and finance"
+  - "international trade"
+  - judiciary
+  - labour
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

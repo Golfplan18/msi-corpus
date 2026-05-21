@@ -15,7 +15,10 @@ primary_themes:
 - alleged abuse
 - entertainment industry
 - court proceedings
-topic_tags: []
+topic_tags:
+  - "arts, culture, entertainment and media"
+  - "crime, law and justice"
+  - trial
 storyline_nexus: []
 geographic_location: Albuquerque, New Mexico, United States
 floor_values_engaged:

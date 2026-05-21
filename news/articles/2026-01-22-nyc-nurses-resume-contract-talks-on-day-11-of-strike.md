@@ -18,7 +18,12 @@ primary_themes:
 - collective bargaining
 - hospital labor dispute
 - worker bargaining power
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - health
+  - labour
+  - "labour dispute"
 storyline_nexus: []
 geographic_location: New York City, New York, United States
 floor_values_engaged:

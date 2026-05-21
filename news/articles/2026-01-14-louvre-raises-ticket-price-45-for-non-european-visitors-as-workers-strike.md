@@ -15,8 +15,12 @@ primary_themes:
 - tourism
 - France
 topic_tags:
+  - "arts and entertainment"
+  - "arts, culture, entertainment and media"
+  - employment
   - labour
   - "labour dispute"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Paris, France
 floor_values_engaged:

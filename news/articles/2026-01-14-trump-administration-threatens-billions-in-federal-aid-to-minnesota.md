@@ -25,8 +25,11 @@ primary_themes:
 - fraud allegations
 topic_tags:
   - "artificial intelligence"
-  - "conflict, war and peace"
-  - "science and technology"
+  - corruption
+  - "crime, law and justice"
+  - government
+  - "government policy"
+  - health
 storyline_nexus: []
 geographic_location: Minnesota, United States
 floor_values_engaged:

@@ -18,7 +18,11 @@ primary_themes:
 - financial markets
 - tariffs
 - geopolitical tension
-topic_tags: []
+topic_tags:
+  - banking
+  - "economy, business and finance"
+  - "international trade"
+  - politics
 storyline_nexus: []
 geographic_location: United States; Japan
 floor_values_engaged:

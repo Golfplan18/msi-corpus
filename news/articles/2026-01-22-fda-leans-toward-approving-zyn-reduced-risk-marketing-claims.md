@@ -22,7 +22,13 @@ primary_themes:
 - tobacco
 - public_health
 - underage_use_concerns
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "artificial intelligence"
+  - "conflict, war and peace"
+  - "disease and condition"
+  - economy
+  - "economy, business and finance"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

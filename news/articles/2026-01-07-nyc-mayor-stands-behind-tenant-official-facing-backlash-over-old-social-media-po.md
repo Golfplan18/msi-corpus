@@ -17,7 +17,8 @@ primary_themes:
 - social_media_controversy
 - municipal_housing_policy
 - political_appointments
-topic_tags: []
+topic_tags:
+  - politics
 storyline_nexus: []
 geographic_location: New York City, New York, United States
 floor_values_engaged:

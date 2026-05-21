@@ -17,7 +17,10 @@ primary_themes:
 - capital punishment
 - exoneration
 - systemic bias
-topic_tags: []
+topic_tags:
+  - crime
+  - "crime, law and justice"
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: Dallas, Texas
 floor_values_engaged:

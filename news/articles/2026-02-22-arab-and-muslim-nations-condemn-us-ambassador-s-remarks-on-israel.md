@@ -15,7 +15,13 @@ primary_themes:
 - US-Israel relations
 - Middle East diplomacy
 - International tensions
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - "armed conflict"
+  - politics
+  - "government policy"
+  - politics
+  - "international relations"
 storyline_nexus: []
 geographic_location: Middle East, International
 floor_values_engaged:

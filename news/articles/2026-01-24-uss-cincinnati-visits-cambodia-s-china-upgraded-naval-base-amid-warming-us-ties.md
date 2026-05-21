@@ -16,7 +16,9 @@ primary_themes:
 - US-Cambodia military relations
 - Regional geopolitics
 - China's regional influence
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: Cambodia, Gulf of Thailand
 floor_values_engaged:

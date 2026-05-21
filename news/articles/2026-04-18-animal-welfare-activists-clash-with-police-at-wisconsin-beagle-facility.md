@@ -15,7 +15,9 @@ primary_themes:
 - protest and civil disobedience
 - law enforcement response
 - property rights
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: Blue Mounds, Wisconsin, United States
 floor_values_engaged:

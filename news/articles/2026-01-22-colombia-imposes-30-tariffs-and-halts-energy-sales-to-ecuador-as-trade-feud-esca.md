@@ -17,7 +17,13 @@ primary_themes:
 - South American relations
 - energy policy
 - border security
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "economy, business and finance"
+  - government
+  - "government policy"
+  - "international trade"
 storyline_nexus: []
 geographic_location: Colombia; Ecuador; South America
 floor_values_engaged:

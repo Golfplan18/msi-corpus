@@ -19,7 +19,12 @@ primary_themes:
 - peace negotiations
 - ceasefire
 - multilateral leadership
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "disaster, accident and emergency incident"
+  - fire
+  - "peace process"
 storyline_nexus: []
 geographic_location: International (Davos, Switzerland; Gaza; Ukraine; Iran)
 floor_values_engaged:

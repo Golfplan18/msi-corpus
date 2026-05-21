@@ -23,7 +23,13 @@ primary_themes:
 - banking industry
 - interest rate caps
 - economic policy
-topic_tags: []
+topic_tags:
+  - politics
+  - "human interest"
+  - society
+  - "government policy"
+  - "economy, business and finance"
+  - "human migration"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

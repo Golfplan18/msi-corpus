@@ -17,7 +17,9 @@ primary_themes:
 - Maternal health and medical access
 - Displacement and refugee crisis
 - Economic hardship and poverty
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - health
 storyline_nexus: []
 geographic_location: Beirut, Lebanon
 floor_values_engaged:

@@ -12,7 +12,9 @@ primary_themes:
 - law enforcement
 - federal prosecution
 - criminal justice
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: Cincinnati, Ohio
 floor_values_engaged:

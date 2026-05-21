@@ -15,7 +15,13 @@ primary_themes:
 - Court Decisions
 - Economic Policy
 - Political Conflict
-topic_tags: []
+topic_tags:
+  - politics
+  - trial
+  - "government policy"
+  - "economy, business and finance"
+  - "crime, law and justice"
+  - "international trade"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

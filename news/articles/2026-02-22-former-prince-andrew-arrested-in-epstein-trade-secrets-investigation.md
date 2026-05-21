@@ -11,7 +11,11 @@ primary_themes:
 - Royal accountability
 - Legal investigation
 - Institutional governance
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - prosecution
+  - "economy, business and finance"
+  - "international trade"
 storyline_nexus: []
 geographic_location: United Kingdom
 floor_values_engaged:

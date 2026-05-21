@@ -26,7 +26,9 @@ primary_themes:
 - letters and correspondence
 - human emotion
 - royal history
-topic_tags: []
+topic_tags:
+  - "human interest"
+  - "arts, culture, entertainment and media"
 storyline_nexus: []
 geographic_location: London, United Kingdom
 floor_values_engaged:

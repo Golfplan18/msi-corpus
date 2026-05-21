@@ -17,7 +17,13 @@ primary_themes:
 - US-Iran relations
 - death toll
 - internet censorship
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "civil unrest"
+  - "conflict, war and peace"
+  - government
+  - "government policy"
+  - "political dissent"
 storyline_nexus: []
 geographic_location: Iran
 floor_values_engaged:

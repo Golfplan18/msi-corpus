@@ -14,7 +14,11 @@ primary_themes:
 - Arizona
 topic_tags:
   - "disaster, accident and emergency incident"
-  - "transportation accident and incident"
+  - employment
+  - labour
+  - "labour dispute"
+  - sport
+  - "sport event"
 storyline_nexus: []
 geographic_location: Telegraph Canyon, Pinal County, Arizona
 floor_values_engaged:

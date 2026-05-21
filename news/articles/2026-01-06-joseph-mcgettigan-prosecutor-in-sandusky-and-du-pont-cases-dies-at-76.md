@@ -14,8 +14,7 @@ primary_themes:
 - criminal justice
 - Pennsylvania law
 topic_tags:
-  - "human interest"
-  - people
+  - "crime, law and justice"
 storyline_nexus: []
 geographic_location: Pennsylvania, United States
 floor_values_engaged:

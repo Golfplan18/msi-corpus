@@ -18,7 +18,10 @@ primary_themes:
 - Congressional oversight
 - Venezuela
 - NSA leadership and surveillance oversight
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - politics
 storyline_nexus: []
 geographic_location: Washington, D.C.
 floor_values_engaged:

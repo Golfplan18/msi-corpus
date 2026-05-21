@@ -13,7 +13,11 @@ primary_themes:
 - international sanctions
 - law enforcement
 - supply chain disruption
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "international relations"
+  - "law enforcement"
+  - politics
 storyline_nexus: []
 geographic_location: Costa Rica, United States
 floor_values_engaged:

@@ -15,9 +15,7 @@ primary_themes:
 - social media and crisis
 - gun violence
 topic_tags:
-  - "crime, law and justice"
-  - crime
-  - education
+  - society
 storyline_nexus: []
 geographic_location: Providence, Rhode Island
 floor_values_engaged:

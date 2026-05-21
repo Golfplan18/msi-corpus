@@ -15,7 +15,6 @@ primary_themes:
 - political prisoner releases
 - U.S.-Venezuela relations
 topic_tags:
-  - "conflict, war and peace"
   - politics
 storyline_nexus: []
 geographic_location: Caracas, Venezuela

@@ -19,7 +19,6 @@ primary_themes:
 - climate
 topic_tags:
   - "economy, business and finance"
-  - "energy and resource"
   - environment
 storyline_nexus: []
 geographic_location: Detroit, Michigan

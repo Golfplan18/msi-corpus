@@ -15,7 +15,13 @@ primary_themes:
 - climate change
 - 2026 midterm elections
 - energy affordability
-topic_tags: []
+topic_tags:
+  - "climate change"
+  - "economy, business and finance"
+  - election
+  - "energy and resource"
+  - environment
+  - politics
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

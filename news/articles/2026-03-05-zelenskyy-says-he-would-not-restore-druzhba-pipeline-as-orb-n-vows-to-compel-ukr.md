@@ -17,7 +17,9 @@ primary_themes:
 - EU politics
 - pipeline infrastructure
 - Hungary elections
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: Budapest, Hungary; Kyiv, Ukraine
 floor_values_engaged:

@@ -10,7 +10,13 @@ primary_themes:
 - property crime
 - federal facilities security
 - law enforcement
-topic_tags: []
+topic_tags:
+  - "accident and emergency incident"
+  - crime
+  - "crime, law and justice"
+  - "disaster, accident and emergency incident"
+  - "economy, business and finance"
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: West Palm Beach, Florida, United States
 floor_values_engaged:

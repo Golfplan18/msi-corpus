@@ -17,7 +17,13 @@ primary_themes:
 - housing affordability
 - mortgage market policy
 - Fannie Mae and Freddie Mac
-topic_tags: []
+topic_tags:
+  - government
+  - "government policy"
+  - "human migration"
+  - "international relations"
+  - "political dissent"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

@@ -13,7 +13,13 @@ primary_themes:
 - Climate change litigation
 - Energy industry accountability
 - State vs. federal jurisdiction
-topic_tags: []
+topic_tags:
+  - politics
+  - "government policy"
+  - "science and technology"
+  - "artificial intelligence"
+  - environment
+  - "climate change"
 storyline_nexus: []
 geographic_location: 'United States (Supreme Court, Washington D.C.; case center: Boulder, Colorado)'
 floor_values_engaged:

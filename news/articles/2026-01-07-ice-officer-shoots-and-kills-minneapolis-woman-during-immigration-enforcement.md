@@ -19,7 +19,13 @@ primary_themes:
 - use of force
 - federal-local conflict
 - civil unrest
-topic_tags: []
+topic_tags:
+  - "arts, culture, entertainment and media"
+  - "civil unrest"
+  - "conflict, war and peace"
+  - "human interest"
+  - "human migration"
+  - "mass media"
 storyline_nexus: []
 geographic_location: Minneapolis, Minnesota, United States
 floor_values_engaged:

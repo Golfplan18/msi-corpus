@@ -35,9 +35,10 @@ primary_themes:
 - federal law enforcement
 - legal action
 topic_tags:
+  - crime
   - "crime, law and justice"
-  - "human interest"
-  - "human migration"
+  - "law enforcement"
+  - society
 storyline_nexus: []
 geographic_location: Minneapolis, Minnesota
 floor_values_engaged:

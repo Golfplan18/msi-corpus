@@ -14,7 +14,13 @@ primary_themes:
 - Colombia elections 2026
 - executive-legislative relations
 - government budget
-topic_tags: []
+topic_tags:
+  - election
+  - employment
+  - labour
+  - politics
+  - "science and technology"
+  - "wage and pension"
 storyline_nexus: []
 geographic_location: Bogotá, Colombia
 floor_values_engaged:

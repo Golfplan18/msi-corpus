@@ -16,7 +16,13 @@ primary_themes:
 - FDA oversight
 - wellness industry
 - MAHA movement
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "business information"
+  - "economy, business and finance"
+  - government
+  - "government policy"
+  - health
 storyline_nexus: []
 geographic_location: Washington, D.C.
 floor_values_engaged:

@@ -12,7 +12,13 @@ primary_themes:
 - drug trafficking
 - Caribbean and Eastern Pacific operations
 - contentious policy
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - "armed conflict"
+  - politics
+  - "government policy"
+  - labour
+  - "labour dispute"
 storyline_nexus: []
 geographic_location: Eastern Pacific Ocean; Caribbean Sea
 floor_values_engaged:

@@ -18,7 +18,10 @@ primary_themes:
 - Schism
 - Traditionalism
 - Liturgical divisions
-topic_tags: []
+topic_tags:
+  - religion
+  - "belief systems"
+  - "religious institution"
 storyline_nexus: []
 geographic_location: Vatican City, Rome; SSPX operating globally
 floor_values_engaged:

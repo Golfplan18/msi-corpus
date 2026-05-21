@@ -17,8 +17,9 @@ primary_themes:
 - U.S. foreign policy
 - territorial disputes
 topic_tags:
-  - politics
+  - "conflict, war and peace"
   - "international relations"
+  - politics
 storyline_nexus: []
 geographic_location: Copenhagen, Denmark; Nuuk, Greenland
 floor_values_engaged:

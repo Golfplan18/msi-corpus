@@ -19,10 +19,11 @@ primary_themes:
 - cost-benefit analysis
 - regulatory policy
 topic_tags:
-  - "science and technology"
-  - "politics"
-  - "government"
-  - "health"
+  - "artificial intelligence"
+  - "crime, law and justice"
+  - election
+  - environment
+  - government
   - "government policy"
 storyline_nexus: []
 geographic_location: United States

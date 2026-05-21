@@ -17,7 +17,9 @@ primary_themes:
 - humanitarian crisis
 - peace negotiations
 - regional spillover
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: Uvira, South Kivu, Democratic Republic of Congo
 floor_values_engaged:

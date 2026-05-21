@@ -13,7 +13,9 @@ primary_themes:
 - transitional_governance
 - gang_violence
 - elections
-topic_tags: []
+topic_tags:
+  - election
+  - politics
 storyline_nexus: []
 geographic_location: Haiti
 floor_values_engaged:

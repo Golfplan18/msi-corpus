@@ -20,7 +20,12 @@ primary_themes:
 - US nuclear diplomacy
 - Middle East geopolitics
 - arms control
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - government
+  - politics
+  - "science and technology"
+  - "technology and engineering"
 storyline_nexus: []
 geographic_location: Saudi Arabia, United States, Iran, Pakistan, United Arab Emirates, Vienna
 floor_values_engaged:

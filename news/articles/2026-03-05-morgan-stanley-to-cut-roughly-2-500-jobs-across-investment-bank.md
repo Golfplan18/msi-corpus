@@ -15,7 +15,11 @@ primary_themes:
 - workforce reduction
 - artificial intelligence
 - pandemic-era hiring reversal
-topic_tags: []
+topic_tags:
+  - "economy, business and finance"
+  - "labour"
+  - "employment"
+  - "labour market"
 storyline_nexus: []
 geographic_location: New York, New York
 floor_values_engaged:

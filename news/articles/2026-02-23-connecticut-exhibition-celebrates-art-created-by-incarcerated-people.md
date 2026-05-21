@@ -15,7 +15,9 @@ primary_themes:
 - arts education
 - incarcerated populations
 - creative expression
-topic_tags: []
+topic_tags:
+  - education
+  - "education policy"
 storyline_nexus: []
 geographic_location: Connecticut, United States
 floor_values_engaged:

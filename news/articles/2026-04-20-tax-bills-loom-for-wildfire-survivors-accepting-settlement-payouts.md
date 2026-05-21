@@ -14,7 +14,12 @@ primary_themes:
 - taxation
 - rebuilding obstacles
 - utility accountability
-topic_tags: []
+topic_tags:
+  - "disaster, accident and emergency incident"
+  - fire
+  - lifestyle
+  - "lifestyle and leisure"
+  - politics
 storyline_nexus: []
 geographic_location: United States (Altadena, California; Colorado; Hawaii; Oregon)
 floor_values_engaged:

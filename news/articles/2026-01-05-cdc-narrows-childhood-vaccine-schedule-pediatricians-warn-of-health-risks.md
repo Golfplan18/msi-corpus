@@ -15,7 +15,13 @@ primary_themes:
 - public health policy
 - Trump administration health policy
 - vaccine schedule
-topic_tags: []
+topic_tags:
+  - "arts, culture, entertainment and media"
+  - "conflict, war and peace"
+  - "government policy"
+  - health
+  - "mass media"
+  - politics
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

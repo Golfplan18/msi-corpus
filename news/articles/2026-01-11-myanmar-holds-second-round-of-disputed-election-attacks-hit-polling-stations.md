@@ -17,10 +17,12 @@ primary_themes:
 - human rights
 - Southeast Asia
 topic_tags:
-  - "politics"
-  - "election"
   - "conflict, war and peace"
-  - "civil unrest"
+  - "government policy"
+  - "human migration"
+  - "international relations"
+  - "mass media"
+  - "political process"
 storyline_nexus: []
 geographic_location: Myanmar
 floor_values_engaged:

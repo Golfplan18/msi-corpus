@@ -15,7 +15,11 @@ primary_themes:
 - civil rights
 - admissions policy
 - anonymity
-topic_tags: []
+topic_tags:
+  - "science and technology"
+  - "artificial intelligence"
+  - education
+  - "education policy"
 storyline_nexus: []
 geographic_location: Hawaii
 floor_values_engaged:

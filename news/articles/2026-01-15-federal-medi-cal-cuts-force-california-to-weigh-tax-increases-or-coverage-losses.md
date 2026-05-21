@@ -17,9 +17,7 @@ primary_themes:
 - health care access
 - federal-state fiscal relations
 topic_tags:
-  - "artificial intelligence"
   - health
-  - "science and technology"
 storyline_nexus: []
 geographic_location: Sacramento, California, United States
 floor_values_engaged:

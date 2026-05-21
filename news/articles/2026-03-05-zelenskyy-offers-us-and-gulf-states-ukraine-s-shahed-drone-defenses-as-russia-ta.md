@@ -25,7 +25,9 @@ primary_themes:
 - Middle East security
 - diplomacy
 - prisoner exchange
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: International
 floor_values_engaged:

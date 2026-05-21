@@ -18,8 +18,10 @@ primary_themes:
 - public university enrollment
 - California budget
 topic_tags:
-  - "higher education"
   - education
+  - "higher education"
+  - "human interest"
+  - "human migration"
 storyline_nexus: []
 geographic_location: Berkeley, California, United States
 floor_values_engaged:

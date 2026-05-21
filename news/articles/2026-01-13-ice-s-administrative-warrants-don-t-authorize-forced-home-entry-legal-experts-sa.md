@@ -17,12 +17,7 @@ primary_themes:
 - civil liberties
 - administrative vs judicial warrants
 topic_tags:
-  - "crime, law and justice"
-  - "law"
-  - "science and technology"
-  - "artificial intelligence"
-  - "politics"
-  - "government"
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

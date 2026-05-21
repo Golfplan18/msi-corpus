@@ -14,7 +14,13 @@ primary_themes:
 - nonprofit fraud
 - public accountability
 - homelessness funding oversight
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "economy, business and finance"
+  - "financial and business service"
+  - macroeconomics
+  - "monetary policy"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Los Angeles, California, United States
 floor_values_engaged:

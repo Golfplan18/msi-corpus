@@ -13,7 +13,11 @@ primary_themes:
 - peru
 - presidential_race
 - vote_counting
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - election
+  - judiciary
+  - politics
 storyline_nexus: []
 geographic_location: Peru
 floor_values_engaged:

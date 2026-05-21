@@ -14,7 +14,11 @@ primary_themes:
 - contracts
 - wages
 - NYC
-topic_tags: []
+topic_tags:
+  - government
+  - "government policy"
+  - labour
+  - politics
 storyline_nexus: []
 geographic_location: New York City, New York, United States
 floor_values_engaged:

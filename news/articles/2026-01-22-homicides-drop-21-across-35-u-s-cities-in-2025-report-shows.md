@@ -13,7 +13,9 @@ primary_themes:
 - public safety
 - homicide
 - criminal justice policy
-topic_tags: []
+topic_tags:
+  - crime
+  - "crime, law and justice"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

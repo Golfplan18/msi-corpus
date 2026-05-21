@@ -19,7 +19,9 @@ primary_themes:
 - post-conflict governance
 - regime change
 - US military intervention
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: Venezuela / Washington, D.C.
 floor_values_engaged:

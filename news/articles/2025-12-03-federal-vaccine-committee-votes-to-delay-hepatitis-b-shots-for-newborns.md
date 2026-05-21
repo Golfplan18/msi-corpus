@@ -14,10 +14,12 @@ primary_themes:
 - federal_policy
 - childhood_health
 topic_tags:
-  - "health"
+  - "arts, culture, entertainment and media"
+  - election
+  - health
+  - "mass media"
+  - politics
   - "public health"
-  - "politics"
-  - "government policy"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

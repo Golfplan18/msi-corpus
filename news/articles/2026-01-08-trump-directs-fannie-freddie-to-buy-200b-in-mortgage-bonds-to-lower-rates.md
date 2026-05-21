@@ -17,9 +17,11 @@ primary_themes:
 - federal-housing-policy
 - economic-policy
 topic_tags:
-  - "monetary policy"
-  - "construction and property"
-  - "economy, business and finance"
+  - "arts, culture, entertainment and media"
+  - "government policy"
+  - "mass media"
+  - politics
+  - "social media"
 storyline_nexus: []
 geographic_location: Washington, D.C.
 floor_values_engaged:

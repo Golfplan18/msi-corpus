@@ -14,7 +14,9 @@ primary_themes:
 - police memorial and recognition
 - congressional accountability
 - law enforcement
-topic_tags: []
+topic_tags:
+  - "politics"
+  - "government"
 storyline_nexus: []
 geographic_location: Washington, D.C.
 floor_values_engaged:

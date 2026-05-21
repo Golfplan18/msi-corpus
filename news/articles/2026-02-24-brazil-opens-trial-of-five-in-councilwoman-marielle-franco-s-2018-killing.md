@@ -16,7 +16,11 @@ primary_themes:
 - organized crime
 - human rights
 - accountability_of_power
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "law enforcement"
+  - "crime, law and justice"
+  - trial
 storyline_nexus: []
 geographic_location: Rio de Janeiro, Brazil
 floor_values_engaged:

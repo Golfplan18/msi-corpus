@@ -14,7 +14,9 @@ primary_themes:
 - autonomous vehicles
 - industry regulation
 - electric vehicles
-topic_tags: []
+topic_tags:
+  - politics
+  - "government policy"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

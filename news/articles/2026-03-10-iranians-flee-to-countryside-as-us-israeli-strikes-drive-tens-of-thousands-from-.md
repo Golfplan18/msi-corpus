@@ -20,7 +20,13 @@ primary_themes:
 - civilian impact
 - internal migration
 - Revolutionary Guard
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - government
+  - labour
+  - "labour dispute"
+  - politics
 storyline_nexus: []
 geographic_location: Iran
 floor_values_engaged:

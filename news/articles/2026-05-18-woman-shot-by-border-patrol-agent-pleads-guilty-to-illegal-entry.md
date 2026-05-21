@@ -15,7 +15,11 @@ primary_themes:
 - federal accountability
 - law enforcement use of force
 - criminal justice
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "law enforcement"
+  - prosecution
+  - trial
 storyline_nexus: []
 geographic_location: Portland, Oregon
 floor_values_engaged:

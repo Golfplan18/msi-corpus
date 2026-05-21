@@ -14,7 +14,11 @@ primary_themes:
 - naval capabilities
 - North Korea military
 - Korean Peninsula security
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - "politics"
+  - "international relations"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Nampo, North Korea
 floor_values_engaged:

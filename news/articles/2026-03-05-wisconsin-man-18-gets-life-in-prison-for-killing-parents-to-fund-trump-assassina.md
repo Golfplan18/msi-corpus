@@ -16,7 +16,11 @@ primary_themes:
 - assassination plot
 - homicide
 - online radicalization
-topic_tags: []
+topic_tags:
+  - "crime"
+  - "crime, law and justice"
+  - "government policy"
+  - "politics"
 storyline_nexus: []
 geographic_location: Waukesha, Wisconsin, United States
 floor_values_engaged:

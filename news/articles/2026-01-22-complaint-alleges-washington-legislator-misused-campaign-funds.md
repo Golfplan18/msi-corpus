@@ -13,7 +13,13 @@ primary_themes:
 - ethics
 - campaign finance
 - government accountability
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "economy, business and finance"
+  - election
+  - government
+  - politics
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Washington state, with connections to Nevada
 floor_values_engaged:

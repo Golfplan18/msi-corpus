@@ -17,7 +17,13 @@ primary_themes:
 - humanitarian crisis
 - climate vulnerability
 - Afghanistan
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - conservation
+  - "economy, business and finance"
+  - environment
+  - "financial and business service"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Afghanistan
 floor_values_engaged:

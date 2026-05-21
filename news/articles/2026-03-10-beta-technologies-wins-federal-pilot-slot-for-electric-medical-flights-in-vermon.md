@@ -17,7 +17,11 @@ primary_themes:
 - medical air logistics
 - transportation technology
 - FAA certification
-topic_tags: []
+topic_tags:
+  - health
+  - politics
+  - "government policy"
+  - "economy, business and finance"
 storyline_nexus: []
 geographic_location: South Burlington, Vermont, United States
 floor_values_engaged:

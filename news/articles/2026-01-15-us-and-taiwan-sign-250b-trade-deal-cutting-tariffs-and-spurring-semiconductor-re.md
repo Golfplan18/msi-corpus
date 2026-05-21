@@ -16,7 +16,11 @@ primary_themes:
 - AI chip demand
 - tariff policy
 - TSMC earnings
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "economy, business and finance"
+  - "international trade"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: United States; Taiwan; Arizona
 floor_values_engaged:

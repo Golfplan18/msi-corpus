@@ -17,7 +17,11 @@ primary_themes:
 - minority contracting
 - affirmative action
 - equal protection
-topic_tags: []
+topic_tags:
+  - discrimination
+  - society
+  - politics
+  - "international relations"
 storyline_nexus: []
 geographic_location: Florida, United States
 floor_values_engaged:

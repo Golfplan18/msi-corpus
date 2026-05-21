@@ -16,7 +16,9 @@ primary_themes:
 - Trump foreign policy
 - drug trafficking
 - migration
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: Mexico City, Mexico
 floor_values_engaged:

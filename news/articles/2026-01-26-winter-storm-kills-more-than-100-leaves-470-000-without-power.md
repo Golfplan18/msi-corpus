@@ -23,7 +23,11 @@ primary_themes:
 - public_safety
 - infrastructure
 - power_outages
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - "disaster, accident and emergency incident"
+  - weather
+  - "weather warning"
 storyline_nexus: []
 geographic_location: United States - South and Northeast
 floor_values_engaged:

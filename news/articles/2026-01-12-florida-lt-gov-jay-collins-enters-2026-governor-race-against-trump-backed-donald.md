@@ -13,7 +13,12 @@ primary_themes:
 - Florida gubernatorial race
 - Republican primary
 - military veterans in politics
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - election
+  - environment
+  - politics
 storyline_nexus: []
 geographic_location: Fort Lauderdale, Florida, United States
 floor_values_engaged:

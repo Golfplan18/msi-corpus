@@ -13,7 +13,11 @@ primary_themes:
 - election_denial
 - federal_appointments
 - 2026_midterms
-topic_tags: []
+topic_tags:
+  - politics
+  - election
+  - politics
+  - "government policy"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

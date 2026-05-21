@@ -16,7 +16,11 @@ primary_themes:
 - law enforcement
 - public safety
 - Central America
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - government
+  - "law enforcement"
+  - politics
 storyline_nexus: []
 geographic_location: Guatemala City, Guatemala
 floor_values_engaged:

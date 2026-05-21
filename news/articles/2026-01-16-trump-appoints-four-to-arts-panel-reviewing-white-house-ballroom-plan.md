@@ -15,7 +15,13 @@ primary_themes:
 - federal historic preservation review
 - presidential appointments
 - East Wing demolition
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - government
+  - "government policy"
+  - judiciary
+  - "lifestyle and leisure"
+  - politics
 storyline_nexus: []
 geographic_location: Washington, D.C.
 floor_values_engaged:

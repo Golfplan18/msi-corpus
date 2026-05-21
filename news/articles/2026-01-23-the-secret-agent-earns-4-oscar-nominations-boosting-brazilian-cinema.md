@@ -15,7 +15,12 @@ primary_themes:
 - Oscar nominations
 - Film industry recognition
 - Historical memory and dictatorship
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "law enforcement"
+  - education
+  - "arts, culture, entertainment and media"
+  - "arts and entertainment"
 storyline_nexus: []
 geographic_location: Brazil
 floor_values_engaged:

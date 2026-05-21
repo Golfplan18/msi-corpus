@@ -17,7 +17,9 @@ primary_themes:
 - protest and demonstration
 - law enforcement
 - regulatory settlement
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: Blue Mounds and Madison, Wisconsin
 floor_values_engaged:

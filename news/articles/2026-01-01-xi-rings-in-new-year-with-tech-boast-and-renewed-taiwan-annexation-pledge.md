@@ -17,10 +17,11 @@ primary_themes:
 - military drills
 - New Year address
 topic_tags:
-  - "science and technology"
+  - "armed conflict"
   - "artificial intelligence"
+  - "arts, culture, entertainment and media"
   - "conflict, war and peace"
-  - "politics"
+  - "human interest"
   - "international relations"
 storyline_nexus: []
 geographic_location: Beijing, China; Taiwan Strait

@@ -17,7 +17,11 @@ primary_themes:
 - Alaska
 - Bering Sea
 - U.S. Coast Guard
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "disaster, accident and emergency incident"
+  - "science and technology"
+  - "transportation accident and incident"
 storyline_nexus: []
 geographic_location: Saint George Island, Alaska, United States
 floor_values_engaged:

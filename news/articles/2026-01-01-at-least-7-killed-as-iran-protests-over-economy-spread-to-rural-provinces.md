@@ -18,7 +18,13 @@ primary_themes:
 - currency crisis
 - state violence
 - nuclear diplomacy
-topic_tags: []
+topic_tags:
+  - "civil unrest"
+  - "conflict, war and peace"
+  - "crime, law and justice"
+  - "disaster, accident and emergency incident"
+  - "international relations"
+  - "political dissent"
 storyline_nexus: []
 geographic_location: Iran
 floor_values_engaged:

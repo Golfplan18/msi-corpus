@@ -24,7 +24,13 @@ primary_themes:
 - law enforcement accountability
 - use of force
 - civil rights
-topic_tags: []
+topic_tags:
+  - discrimination
+  - politics
+  - "human interest"
+  - society
+  - "government policy"
+  - crime
 storyline_nexus: []
 geographic_location: Minneapolis–Saint Paul, Minnesota
 floor_values_engaged:

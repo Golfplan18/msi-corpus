@@ -13,7 +13,12 @@ primary_themes:
 - Minnesota politics
 - child care fraud
 - immigration enforcement
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - election
+  - "law enforcement"
+  - politics
+  - society
 storyline_nexus: []
 geographic_location: St. Paul, Minnesota, United States
 floor_values_engaged:

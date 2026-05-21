@@ -18,7 +18,12 @@ primary_themes:
 - international security guarantees
 - European defense
 - ceasefire diplomacy
-topic_tags: []
+topic_tags:
+  - politics
+  - "international relations"
+  - "conflict, war and peace"
+  - labour
+  - "labour dispute"
 storyline_nexus: []
 geographic_location: Paris, France
 floor_values_engaged:

@@ -16,7 +16,11 @@ primary_themes:
 - political succession
 - opposition access
 - insurgency
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - election
+  - politics
+  - trial
 storyline_nexus: []
 geographic_location: Cotonou, Benin
 floor_values_engaged:

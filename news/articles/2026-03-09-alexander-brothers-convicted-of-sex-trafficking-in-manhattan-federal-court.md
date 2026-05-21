@@ -19,7 +19,10 @@ primary_themes:
 - luxury real estate
 - sexual assault
 - federal criminal justice
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "science and technology"
+  - trial
 storyline_nexus: []
 geographic_location: New York, New York, United States
 floor_values_engaged:

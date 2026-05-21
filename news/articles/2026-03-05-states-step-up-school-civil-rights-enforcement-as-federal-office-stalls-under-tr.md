@@ -24,7 +24,10 @@ primary_themes:
 - racial discrimination in schools
 - Trump administration
 - disability rights
-topic_tags: []
+topic_tags:
+  - "civil rights"
+  - "crime, law and justice"
+  - education
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

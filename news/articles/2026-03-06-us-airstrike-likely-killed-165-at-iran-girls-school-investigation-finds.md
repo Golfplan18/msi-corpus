@@ -17,7 +17,13 @@ primary_themes:
 - airstrike accountability
 - international humanitarian law
 - targeting and intelligence
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "crime"
+  - "crime, law and justice"
+  - "education"
+  - "school"
 storyline_nexus: []
 geographic_location: Minab, Hormozgan Province, Iran
 floor_values_engaged:

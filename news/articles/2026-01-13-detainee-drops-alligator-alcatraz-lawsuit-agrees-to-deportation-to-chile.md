@@ -16,11 +16,11 @@ primary_themes:
 - federal court proceedings
 topic_tags:
   - "crime, law and justice"
-  - "law"
-  - "science and technology"
-  - "politics"
-  - "government"
-  - "human interest"
+  - "government policy"
+  - "human migration"
+  - "international relations"
+  - "law enforcement"
+  - trial
 storyline_nexus: []
 geographic_location: Florida Everglades, Florida, United States
 floor_values_engaged:

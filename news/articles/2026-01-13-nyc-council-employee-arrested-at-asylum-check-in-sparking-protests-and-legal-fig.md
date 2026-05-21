@@ -23,12 +23,12 @@ primary_themes:
 - Venezuela
 - habeas corpus
 topic_tags:
-  - "politics"
-  - "government"
+  - "crime, law and justice"
   - "human interest"
-  - "government policy"
-  - "conflict, war and peace"
-  - "civil unrest"
+  - "human migration"
+  - "international relations"
+  - "law enforcement"
+  - politics
 storyline_nexus: []
 geographic_location: New York City, New York, United States
 floor_values_engaged:

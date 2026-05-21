@@ -12,7 +12,10 @@ primary_themes:
 - business_dispute
 - technology_adoption
 - in-flight_connectivity
-topic_tags: []
+topic_tags:
+  - "economy, business and finance"
+  - "business information"
+  - transport
 storyline_nexus: []
 geographic_location: Ireland (Ryanair), Global (Starlink adoption)
 floor_values_engaged:

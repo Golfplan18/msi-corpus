@@ -21,7 +21,10 @@ primary_themes:
 - republican_party_tensions
 - gun_rights
 - federal_overreach
-topic_tags: []
+topic_tags:
+  - "human interest"
+  - "human migration"
+  - politics
 storyline_nexus: []
 geographic_location: Minneapolis, Minnesota, United States
 floor_values_engaged:

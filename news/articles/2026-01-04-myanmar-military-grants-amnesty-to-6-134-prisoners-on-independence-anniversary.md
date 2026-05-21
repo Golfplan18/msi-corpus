@@ -18,7 +18,11 @@ primary_themes:
 - political detention
 - independence anniversary
 - election legitimacy
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - election
+  - politics
 storyline_nexus: []
 geographic_location: Myanmar
 floor_values_engaged:

@@ -14,7 +14,13 @@ primary_themes:
 - Georgia state legislature
 - federal criminal charges
 - government accountability
-topic_tags: []
+topic_tags:
+  - crime
+  - "crime, law and justice"
+  - "disease and condition"
+  - "law enforcement"
+  - "science and technology"
+  - trial
 storyline_nexus: []
 geographic_location: Georgia, United States
 floor_values_engaged:

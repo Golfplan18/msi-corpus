@@ -16,7 +16,9 @@ primary_themes:
 - geopolitical strategy
 - NATO
 - U.S. alliances
-topic_tags: []
+topic_tags:
+  - "international relations"
+  - politics
 storyline_nexus: []
 geographic_location: United States, Canada, United Kingdom, Denmark, Switzerland, China
 floor_values_engaged:

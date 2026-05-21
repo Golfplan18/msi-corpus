@@ -14,8 +14,10 @@ primary_themes:
 - hotel franchise policy
 - federal law enforcement
 topic_tags:
+  - "crime, law and justice"
   - "human interest"
-  - people
+  - "human migration"
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: Lakeville, Minnesota
 floor_values_engaged:

@@ -22,7 +22,10 @@ primary_themes:
 - disaster recovery
 topic_tags:
   - "disaster, accident and emergency incident"
-  - "natural disaster"
+  - fire
+  - health
+  - lifestyle
+  - "lifestyle and leisure"
 storyline_nexus: []
 geographic_location: Altadena, California
 floor_values_engaged:

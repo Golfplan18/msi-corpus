@@ -18,7 +18,11 @@ primary_themes:
 - satellite launches
 - geopolitical alignment
 - UN Security Council
-topic_tags: []
+topic_tags:
+  - "international relations"
+  - politics
+  - "science and technology"
+  - "space programme"
 storyline_nexus: []
 geographic_location: Vostochny launchpad, Russia; Tehran, Iran
 floor_values_engaged:

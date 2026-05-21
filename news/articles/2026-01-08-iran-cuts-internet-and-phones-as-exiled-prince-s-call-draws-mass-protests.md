@@ -20,9 +20,12 @@ primary_themes:
 - currency collapse
 - U.S.-Iran relations
 topic_tags:
-  - politics
   - "civil unrest"
+  - "conflict, war and peace"
+  - government
+  - "mass media"
   - "political dissent"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Iran
 floor_values_engaged:

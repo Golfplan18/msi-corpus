@@ -16,7 +16,11 @@ primary_themes:
 - Climate change
 - Economic development
 - Political conflict
-topic_tags: []
+topic_tags:
+  - "science and technology"
+  - "artificial intelligence"
+  - environment
+  - "climate change"
 storyline_nexus: []
 geographic_location: Santarem, Para state, Brazil; Amazon rainforest region
 floor_values_engaged:

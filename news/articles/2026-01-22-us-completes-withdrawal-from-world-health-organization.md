@@ -17,7 +17,11 @@ primary_themes:
 - US foreign relations
 - Global governance
 - Public health security
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - health
+  - "public health"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: International
 floor_values_engaged:

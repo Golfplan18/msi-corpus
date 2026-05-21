@@ -12,7 +12,9 @@ primary_themes:
 - human perseverance
 - disability recovery
 - classical music
-topic_tags: []
+topic_tags:
+  - "arts, culture, entertainment and media"
+  - music
 storyline_nexus: []
 geographic_location: South Korea
 floor_values_engaged:

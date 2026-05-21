@@ -14,7 +14,13 @@ primary_themes:
 - healthcare policy
 - federal funding
 - judicial review
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "government policy"
+  - "human migration"
+  - "international relations"
+  - "law enforcement"
+  - trial
 storyline_nexus: []
 geographic_location: United States, primarily Los Angeles and Washington D.C.
 floor_values_engaged:

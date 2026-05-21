@@ -14,7 +14,9 @@ primary_themes:
 - DEI policy
 - immigration enforcement
 - nonviolence
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - society
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

@@ -17,12 +17,10 @@ primary_themes:
 - armed conflict
 - eastern Congo
 topic_tags:
-  - "science and technology"
-  - "conflict, war and peace"
   - "armed conflict"
+  - "conflict, war and peace"
+  - "crime, law and justice"
   - "disaster, accident and emergency incident"
-  - "natural disaster"
-  - "human interest"
 storyline_nexus: []
 geographic_location: Burutsi, North Kivu, Democratic Republic of the Congo
 floor_values_engaged:

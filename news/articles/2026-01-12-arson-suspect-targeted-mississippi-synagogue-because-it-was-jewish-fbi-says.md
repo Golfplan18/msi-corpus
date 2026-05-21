@@ -16,7 +16,13 @@ primary_themes:
 - religious-freedom
 - federal-prosecution
 - Jewish-community
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "crime, law and justice"
+  - "disaster, accident and emergency incident"
+  - fire
+  - government
+  - "government policy"
 storyline_nexus: []
 geographic_location: Jackson, Mississippi
 floor_values_engaged:

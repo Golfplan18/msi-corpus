@@ -13,8 +13,8 @@ primary_themes:
 - special election
 - 2026 midterms
 topic_tags:
-  - "politics"
-  - "election"
+  - election
+  - politics
 storyline_nexus: []
 geographic_location: Georgia's 14th Congressional District, United States
 floor_values_engaged:

@@ -11,7 +11,13 @@ primary_themes:
 - Fashion
 - Business transitions
 - Luxury goods
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - economy
+  - "economy, business and finance"
+  - government
+  - "government policy"
+  - politics
 storyline_nexus: []
 geographic_location: Paris, France
 floor_values_engaged:

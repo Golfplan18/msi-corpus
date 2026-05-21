@@ -12,7 +12,8 @@ primary_themes:
 - police accountability
 - criminal justice verdicts
 - police-involved shootings
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
 storyline_nexus: []
 geographic_location: Hemingway, Williamsburg County, South Carolina, USA
 floor_values_engaged:

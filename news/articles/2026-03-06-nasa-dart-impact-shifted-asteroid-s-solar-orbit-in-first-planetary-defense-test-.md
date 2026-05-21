@@ -19,7 +19,8 @@ primary_themes:
 - asteroid deflection
 - space science
 - NASA
-topic_tags: []
+topic_tags:
+  - "science and technology"
 storyline_nexus: []
 geographic_location: International / Space
 floor_values_engaged:

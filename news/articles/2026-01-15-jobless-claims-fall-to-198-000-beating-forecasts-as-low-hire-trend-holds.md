@@ -15,7 +15,12 @@ primary_themes:
 - economic indicators
 - monetary policy
 - tariffs
-topic_tags: []
+topic_tags:
+  - "economy, business and finance"
+  - "market and exchange"
+  - labour
+  - employment
+  - weather
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

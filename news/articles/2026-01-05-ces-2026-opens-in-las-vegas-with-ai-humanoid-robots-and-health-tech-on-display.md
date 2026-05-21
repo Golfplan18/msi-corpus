@@ -19,7 +19,12 @@ primary_themes:
 - robotics
 - healthcare technology
 - CES 2026
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - health
+  - robotics
+  - "science and technology"
+  - "technology and engineering"
 storyline_nexus: []
 geographic_location: Las Vegas, Nevada, United States
 floor_values_engaged:

@@ -15,9 +15,7 @@ primary_themes:
 - privacy
 - China hacking
 - telecommunications
-topic_tags:
-  - "science and technology"
-  - "technology and engineering"
+topic_tags: []
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

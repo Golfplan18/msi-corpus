@@ -16,7 +16,13 @@ primary_themes:
 - public safety
 - pandemic crime spike reversal
 - national crime trend
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - education
+  - "epidemic and pandemic"
+  - health
+  - "higher education"
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: Detroit, Michigan, United States
 floor_values_engaged:

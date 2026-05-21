@@ -17,7 +17,13 @@ primary_themes:
 - Economic inequality and working-class concerns
 - Voter alienation and perceived disconnection
 - Federal spending and project delays
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - election
+  - government
+  - "government policy"
+  - politics
+  - "science and technology"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

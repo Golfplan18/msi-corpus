@@ -18,7 +18,13 @@ primary_themes:
 - women's sports
 - Iranian theocracy
 - Australia immigration policy
-topic_tags: []
+topic_tags:
+  - "civil unrest"
+  - "conflict, war and peace"
+  - "disaster, accident and emergency incident"
+  - "human migration"
+  - "international relations"
+  - "political dissent"
 storyline_nexus: []
 geographic_location: Sydney, Australia; Kuala Lumpur, Malaysia
 floor_values_engaged:

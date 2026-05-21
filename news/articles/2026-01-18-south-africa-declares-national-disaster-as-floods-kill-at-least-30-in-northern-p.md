@@ -18,7 +18,12 @@ primary_themes:
 - disaster response
 - southern Africa
 - climate and environment
-topic_tags: []
+topic_tags:
+  - "climate change"
+  - disaster
+  - "disaster, accident and emergency incident"
+  - environment
+  - "natural disaster"
 storyline_nexus: []
 geographic_location: 'South Africa (Limpopo and Mpumalanga provinces); regional: Mozambique, Zimbabwe'
 floor_values_engaged:

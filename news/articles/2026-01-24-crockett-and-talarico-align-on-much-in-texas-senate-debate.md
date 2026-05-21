@@ -23,7 +23,9 @@ primary_themes:
 - Tax policy
 - Healthcare policy
 - Immigration enforcement
-topic_tags: []
+topic_tags:
+  - politics
+  - government
 storyline_nexus: []
 geographic_location: Texas
 floor_values_engaged:

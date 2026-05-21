@@ -18,7 +18,11 @@ primary_themes:
 - federal-state conflict
 - transportation safety
 - civil rights litigation
-topic_tags: []
+topic_tags:
+  - "civil rights"
+  - "conflict, war and peace"
+  - "crime, law and justice"
+  - sport
 storyline_nexus: []
 geographic_location: California, United States
 floor_values_engaged:

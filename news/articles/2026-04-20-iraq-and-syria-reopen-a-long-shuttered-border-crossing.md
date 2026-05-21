@@ -14,7 +14,13 @@ primary_themes:
 - energy security
 - regional cooperation
 - oil supply
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "artificial intelligence"
+  - "conflict, war and peace"
+  - "economy, business and finance"
+  - "international relations"
+  - "international trade"
 storyline_nexus: []
 geographic_location: Iraq-Syria border
 floor_values_engaged:

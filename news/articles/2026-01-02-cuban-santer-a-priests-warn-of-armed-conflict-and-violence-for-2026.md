@@ -16,9 +16,7 @@ primary_themes:
 - annual forecast
 - Caribbean geopolitics
 topic_tags:
-  - "religion"
-  - "belief systems"
-  - "conflict, war and peace"
+  - religion
 storyline_nexus: []
 geographic_location: Havana, Cuba
 floor_values_engaged:

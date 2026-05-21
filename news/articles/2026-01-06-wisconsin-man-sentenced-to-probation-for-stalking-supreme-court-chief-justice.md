@@ -15,7 +15,11 @@ primary_themes:
 - stalking
 - criminal sentencing
 - judicial independence
-topic_tags: []
+topic_tags:
+  - "human migration"
+  - "crime, law and justice"
+  - "human interest"
+  - trial
 storyline_nexus: []
 geographic_location: Madison, Wisconsin, United States
 floor_values_engaged:

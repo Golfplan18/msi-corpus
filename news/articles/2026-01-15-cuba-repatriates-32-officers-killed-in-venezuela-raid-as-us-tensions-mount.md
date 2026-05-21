@@ -20,9 +20,12 @@ primary_themes:
 - Caribbean geopolitics
 - humanitarian aid
 topic_tags:
-  - "artificial intelligence"
   - "conflict, war and peace"
-  - "science and technology"
+  - crime
+  - "crime, law and justice"
+  - "human migration"
+  - "international relations"
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: Havana, Cuba
 floor_values_engaged:

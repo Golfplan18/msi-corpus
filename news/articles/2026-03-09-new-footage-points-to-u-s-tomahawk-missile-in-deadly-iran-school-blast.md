@@ -19,7 +19,13 @@ primary_themes:
 - military accountability
 - munitions identification
 - open-source intelligence
-topic_tags: []
+topic_tags:
+  - "arts, culture, entertainment and media"
+  - "conflict, war and peace"
+  - education
+  - employment
+  - labour
+  - "labour dispute"
 storyline_nexus: []
 geographic_location: Minab, Hormozgan Province, Iran
 floor_values_engaged:

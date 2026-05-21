@@ -14,7 +14,9 @@ primary_themes:
 - hiring slowdown
 - Federal Reserve policy
 - tariffs
-topic_tags: []
+topic_tags:
+  - labour
+  - employment
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

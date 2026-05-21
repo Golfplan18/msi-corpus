@@ -17,7 +17,9 @@ primary_themes:
 - Land Back movement
 - Cultural preservation
 - Cherokee history
-topic_tags: []
+topic_tags:
+  - "arts, culture, entertainment and media"
+  - music
 storyline_nexus: []
 geographic_location: Franklin, North Carolina, United States
 floor_values_engaged:

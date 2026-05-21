@@ -21,10 +21,7 @@ primary_themes:
 - executive privilege
 - sex trafficking
 topic_tags:
-  - "science and technology"
-  - "politics"
-  - "government policy"
-  - "artificial intelligence"
+  - politics
 storyline_nexus: []
 geographic_location: Washington, D.C.
 floor_values_engaged:

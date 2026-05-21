@@ -14,7 +14,11 @@ primary_themes:
 - tariffs
 - diplomacy
 - North_America
-topic_tags: []
+topic_tags:
+  - "economy, business and finance"
+  - "international trade"
+  - "politics"
+  - "international relations"
 storyline_nexus: []
 geographic_location: United States / Mexico
 floor_values_engaged:

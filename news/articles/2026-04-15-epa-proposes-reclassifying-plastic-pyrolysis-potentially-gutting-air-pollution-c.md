@@ -22,7 +22,10 @@ primary_themes:
 - pyrolysis
 - air pollution
 - deregulation
-topic_tags: []
+topic_tags:
+  - politics
+  - "government policy"
+  - environment
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

@@ -19,11 +19,12 @@ primary_themes:
 - EU policy
 - populist politics
 topic_tags:
-  - "artificial intelligence"
+  - "armed conflict"
   - "conflict, war and peace"
+  - election
   - "government policy"
-  - politics
-  - "science and technology"
+  - labour
+  - "labour dispute"
 storyline_nexus: []
 geographic_location: Prague, Czech Republic
 floor_values_engaged:

@@ -18,7 +18,13 @@ primary_themes:
 - Venezuela policy
 - narco-trafficking
 - accountability_of_power
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - election
+  - employment
+  - labour
+  - "labour dispute"
+  - politics
 storyline_nexus: []
 geographic_location: Caribbean Sea / eastern Pacific Ocean / Venezuela
 floor_values_engaged:

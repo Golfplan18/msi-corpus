@@ -22,9 +22,9 @@ primary_themes:
 - artificial intelligence in higher education
 topic_tags:
   - "artificial intelligence"
-  - "construction and property"
-  - "economy, business and finance"
+  - "conflict, war and peace"
   - education
+  - "higher education"
   - "science and technology"
 storyline_nexus: []
 geographic_location: Ann Arbor, Michigan, United States

@@ -17,8 +17,8 @@ primary_themes:
 - Southern Yemeni separatism
 topic_tags:
   - "conflict, war and peace"
-  - "international military intervention"
-  - "armed conflict"
+  - politics
+  - "international relations"
 storyline_nexus: []
 geographic_location: Yemen; Saudi Arabia; United Arab Emirates; Somalia
 floor_values_engaged:

@@ -16,7 +16,11 @@ primary_themes:
 - Pro-Palestinian activism
 - Constitutional law
 - Free speech
-topic_tags: []
+topic_tags:
+  - "government policy"
+  - "human interest"
+  - "human migration"
+  - politics
 storyline_nexus: []
 geographic_location: United States (Boston, Massachusetts)
 floor_values_engaged:

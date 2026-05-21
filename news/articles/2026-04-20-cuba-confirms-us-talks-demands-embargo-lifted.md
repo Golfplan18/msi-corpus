@@ -14,7 +14,9 @@ primary_themes:
 - US-Cuba relations
 - energy blockade
 - sanctions
-topic_tags: []
+topic_tags:
+  - "economy, business and finance"
+  - "international trade"
 storyline_nexus: []
 geographic_location: Cuba
 floor_values_engaged:

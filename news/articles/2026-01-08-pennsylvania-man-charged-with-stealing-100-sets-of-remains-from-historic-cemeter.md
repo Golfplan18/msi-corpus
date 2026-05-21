@@ -14,8 +14,10 @@ primary_themes:
 - historic preservation
 - law enforcement
 topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
   - "crime, law and justice"
-  - crime
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: Yeadon, Pennsylvania
 floor_values_engaged:

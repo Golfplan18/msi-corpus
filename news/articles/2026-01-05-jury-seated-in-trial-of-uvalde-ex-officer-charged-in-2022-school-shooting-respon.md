@@ -17,8 +17,12 @@ primary_themes:
 - criminal trial
 - child endangerment
 topic_tags:
+  - "arts, culture, entertainment and media"
   - "crime, law and justice"
-  - trial
+  - education
+  - music
+  - school
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Corpus Christi, Texas
 floor_values_engaged:

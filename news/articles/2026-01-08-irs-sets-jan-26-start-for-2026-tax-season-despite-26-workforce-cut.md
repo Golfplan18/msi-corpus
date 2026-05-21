@@ -16,8 +16,9 @@ primary_themes:
 - federal tax policy
 - Department of Government Efficiency
 topic_tags:
+  - politics
+  - "government policy"
   - "economy, business and finance"
-  - tax
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

@@ -19,8 +19,12 @@ primary_themes:
 - Latin American politics
 - U.S. foreign policy
 topic_tags:
-  - politics
-  - government
+  - "conflict, war and peace"
+  - "crime, law and justice"
+  - "human migration"
+  - "international relations"
+  - "political dissent"
+  - trial
 storyline_nexus: []
 geographic_location: Venezuela
 floor_values_engaged:

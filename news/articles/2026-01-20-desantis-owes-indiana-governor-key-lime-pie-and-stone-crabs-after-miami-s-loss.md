@@ -11,7 +11,13 @@ primary_themes:
 - college football
 - national championship
 - food wager
-topic_tags: []
+topic_tags:
+  - "competition discipline"
+  - education
+  - "higher education"
+  - labour
+  - politics
+  - sport
 storyline_nexus: []
 geographic_location: Pinellas Park, Florida
 floor_values_engaged:

@@ -14,7 +14,13 @@ primary_themes:
 - civil rights settlement
 - disability and medical care
 - wrongful death
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - discrimination
+  - government
+  - health
+  - politics
+  - society
 storyline_nexus: []
 geographic_location: Southfield, Michigan, United States
 floor_values_engaged:

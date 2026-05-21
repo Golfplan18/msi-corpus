@@ -17,6 +17,8 @@ primary_themes:
 - unconventional entrepreneurship
 topic_tags:
   - "arts, culture, entertainment and media"
+  - "economy, business and finance"
+  - "mass media"
   - "social media"
 storyline_nexus: []
 geographic_location: Kiambu, Kenya

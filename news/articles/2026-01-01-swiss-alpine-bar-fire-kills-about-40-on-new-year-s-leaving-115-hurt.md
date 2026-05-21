@@ -21,8 +21,12 @@ primary_themes:
 - Switzerland
 - nightclub fire
 topic_tags:
+  - "crime, law and justice"
+  - crime
+  - "law enforcement"
   - "disaster, accident and emergency incident"
-  - "fire"
+  - fire
+  - "arts, culture, entertainment and media"
 storyline_nexus: []
 geographic_location: Crans-Montana, Valais canton, Switzerland
 floor_values_engaged:

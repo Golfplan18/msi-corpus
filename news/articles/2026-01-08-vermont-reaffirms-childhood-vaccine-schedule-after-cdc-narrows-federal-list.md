@@ -16,7 +16,11 @@ primary_themes:
 - federal health policy
 - state public health authority
 - vaccine access
-topic_tags: []
+topic_tags:
+  - health
+  - "epidemic and pandemic"
+  - education
+  - school
 storyline_nexus: []
 geographic_location: Vermont, United States
 floor_values_engaged:

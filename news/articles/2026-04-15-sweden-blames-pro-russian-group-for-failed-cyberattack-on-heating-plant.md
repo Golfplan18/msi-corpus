@@ -13,7 +13,9 @@ primary_themes:
 - critical infrastructure attacks
 - Russian sabotage campaign
 - European security
-topic_tags: []
+topic_tags:
+  - election
+  - politics
 storyline_nexus: []
 geographic_location: Europe
 floor_values_engaged:

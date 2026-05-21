@@ -16,7 +16,13 @@ primary_themes:
 - healthcare data
 - institutional transparency
 - state law compliance
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "crime, law and justice"
+  - education
+  - health
+  - "higher education"
 storyline_nexus: []
 geographic_location: Honolulu, Hawaii, United States
 floor_values_engaged:

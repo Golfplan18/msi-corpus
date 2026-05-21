@@ -18,7 +18,13 @@ primary_themes:
 - Episcopal Church
 - ICE enforcement
 - civil rights
-topic_tags: []
+topic_tags:
+  - "civil rights"
+  - "human interest"
+  - "human migration"
+  - religion
+  - "religious institution"
+  - society
 storyline_nexus: []
 geographic_location: Concord, New Hampshire
 floor_values_engaged:

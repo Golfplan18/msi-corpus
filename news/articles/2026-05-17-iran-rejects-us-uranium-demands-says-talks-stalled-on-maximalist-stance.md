@@ -12,7 +12,13 @@ primary_themes:
 - International Diplomacy
 - Nuclear Negotiations
 - US-Iran Relations
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - government
+  - "government policy"
+  - "international relations"
+  - politics
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Iran, Turkey, United States, Middle East
 floor_values_engaged:

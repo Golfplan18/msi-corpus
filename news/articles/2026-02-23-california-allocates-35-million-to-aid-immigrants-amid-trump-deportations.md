@@ -15,7 +15,13 @@ primary_themes:
 - federal deportation enforcement
 - state budget constraints
 - immigration policy
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "law enforcement"
+  - politics
+  - "government policy"
+  - "science and technology"
+  - "artificial intelligence"
 storyline_nexus: []
 geographic_location: California, United States
 floor_values_engaged:

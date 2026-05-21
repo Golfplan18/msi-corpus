@@ -12,7 +12,13 @@ primary_themes:
 - judicial accountability
 - criminal justice
 - substance-related crime
-topic_tags: []
+topic_tags:
+  - crime
+  - "crime, law and justice"
+  - "government policy"
+  - "human migration"
+  - "international relations"
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: Petoskey, Michigan; Bay City, Michigan
 floor_values_engaged:

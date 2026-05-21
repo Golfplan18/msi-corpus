@@ -13,7 +13,13 @@ primary_themes:
 - military_threat
 - nuclear_negotiations
 - US-Iran_relations
-topic_tags: []
+topic_tags:
+  - "civil unrest"
+  - "conflict, war and peace"
+  - "disaster, accident and emergency incident"
+  - environment
+  - "international relations"
+  - "political dissent"
 storyline_nexus: []
 geographic_location: Washington D.C.; Strait of Gibraltar; Mediterranean Sea; Middle East; Geneva
 floor_values_engaged:

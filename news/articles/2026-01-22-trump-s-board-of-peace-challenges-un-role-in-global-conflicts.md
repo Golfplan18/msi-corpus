@@ -13,7 +13,12 @@ primary_themes:
 - US foreign policy
 - Multilateralism
 - Global conflict resolution
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "disaster, accident and emergency incident"
+  - fire
+  - politics
 storyline_nexus: []
 geographic_location: International
 floor_values_engaged:

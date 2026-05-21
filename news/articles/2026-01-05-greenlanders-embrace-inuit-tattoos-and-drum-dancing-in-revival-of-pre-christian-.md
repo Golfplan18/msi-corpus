@@ -21,7 +21,7 @@ primary_themes:
 - Greenland autonomy
 topic_tags:
   - religion
-  - "belief systems"
+  - "religious institution"
 storyline_nexus: []
 geographic_location: Nuuk, Greenland
 floor_values_engaged:

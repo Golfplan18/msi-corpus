@@ -17,7 +17,11 @@ primary_themes:
 - children in conflict zones
 - benefit compilations
 - humanitarian aid
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "arts, culture, entertainment and media"
+  - "conflict, war and peace"
+  - "music"
 storyline_nexus: []
 geographic_location: United Kingdom
 floor_values_engaged:

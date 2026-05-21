@@ -13,7 +13,13 @@ primary_themes:
 - influenza season
 - respiratory illness
 - vaccination
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "crime, law and justice"
+  - "disease and condition"
+  - government
+  - "government policy"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

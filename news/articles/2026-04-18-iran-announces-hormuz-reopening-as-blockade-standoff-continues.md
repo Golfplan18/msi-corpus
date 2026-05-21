@@ -20,7 +20,9 @@ primary_themes:
 - nuclear negotiations
 - energy security
 - military blockade
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: Middle East; Iran; Lebanon; Israel; Strait of Hormuz; Persian Gulf
 floor_values_engaged:

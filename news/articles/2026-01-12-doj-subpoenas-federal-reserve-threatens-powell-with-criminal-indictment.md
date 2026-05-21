@@ -16,7 +16,13 @@ primary_themes:
 - DOJ subpoena
 - monetary policy
 - executive pressure on independent agencies
-topic_tags: []
+topic_tags:
+  - politics
+  - election
+  - government
+  - "crime, law and justice"
+  - "economy, business and finance"
+  - banking
 storyline_nexus: []
 geographic_location: Washington, D.C., United States
 floor_values_engaged:

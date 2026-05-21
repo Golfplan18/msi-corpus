@@ -18,9 +18,12 @@ primary_themes:
 - oil industry
 - financial markets
 topic_tags:
+  - "artificial intelligence"
+  - "crime, law and justice"
+  - economy
   - "economy, business and finance"
-  - "energy and resource"
-  - "market and exchange"
+  - government
+  - "government policy"
 storyline_nexus: []
 geographic_location: Venezuela; United States
 floor_values_engaged:

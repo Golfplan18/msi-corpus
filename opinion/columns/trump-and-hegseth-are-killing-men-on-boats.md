@@ -18,7 +18,9 @@ primary_themes:
 - extrajudicial-killing
 - permanent-war-apparatus
 - military-industrial-complex
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - crime
 storyline_nexus: []
 geographic_location: Caribbean Sea / Eastern Pacific
 floor_values_engaged:

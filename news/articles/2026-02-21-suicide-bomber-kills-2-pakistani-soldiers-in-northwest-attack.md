@@ -21,7 +21,13 @@ primary_themes:
 - security_operations
 - geopolitical_tensions
 - regional_conflict
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "law enforcement"
+  - "conflict, war and peace"
+  - terrorism
+  - "conflict, war and peace"
+  - "armed conflict"
 storyline_nexus: []
 geographic_location: Pakistan-Afghanistan border region, Khyber Pakhtunkhwa province
 floor_values_engaged:

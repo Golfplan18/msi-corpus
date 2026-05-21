@@ -19,7 +19,12 @@ primary_themes:
 - religious affiliation
 - Latin America
 - demographic change
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "law enforcement"
+  - religion
+  - "science and technology"
+  - weather
 storyline_nexus: []
 geographic_location: Argentina, Brazil, Chile, Colombia, Mexico, Peru
 floor_values_engaged:

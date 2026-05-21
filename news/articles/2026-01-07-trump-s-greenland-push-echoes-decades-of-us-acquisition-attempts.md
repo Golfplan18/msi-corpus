@@ -18,9 +18,8 @@ primary_themes:
 - US-Denmark relations
 - Cold War history
 topic_tags:
-  - politics
-  - "government policy"
-  - "international relations"
+  - "armed conflict"
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: Greenland; Denmark; United States
 floor_values_engaged:

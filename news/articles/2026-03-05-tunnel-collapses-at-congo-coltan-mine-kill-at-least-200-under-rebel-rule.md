@@ -18,7 +18,9 @@ primary_themes:
 - critical minerals
 - eastern Congo
 - M23 rebel group
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - "armed conflict"
 storyline_nexus: []
 geographic_location: Rubaya, North Kivu, Democratic Republic of Congo
 floor_values_engaged:

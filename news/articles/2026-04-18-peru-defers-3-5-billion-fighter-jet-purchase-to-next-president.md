@@ -12,7 +12,9 @@ primary_themes:
 - Government/Politics
 - Military/Defense
 - Elections
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: Peru
 floor_values_engaged:

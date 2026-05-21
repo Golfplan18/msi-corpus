@@ -17,7 +17,13 @@ primary_themes:
 - occupied West Bank
 - UNRWA
 - Middle East diplomacy
-topic_tags: []
+topic_tags:
+  - "accident and emergency incident"
+  - "artificial intelligence"
+  - banking
+  - "disaster, accident and emergency incident"
+  - "economy, business and finance"
+  - government
 storyline_nexus: []
 geographic_location: West Bank, occupied Palestinian territory
 floor_values_engaged:

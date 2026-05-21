@@ -15,7 +15,13 @@ primary_themes:
 - illegal gold mining
 - environmental crime
 - transnational cooperation
-topic_tags: []
+topic_tags:
+  - crime
+  - "crime, law and justice"
+  - "disaster, accident and emergency incident"
+  - "human migration"
+  - "international relations"
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: Amazon region
 floor_values_engaged:

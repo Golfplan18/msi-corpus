@@ -15,7 +15,13 @@ primary_themes:
 - education workforce
 - special education
 - Michigan education policy
-topic_tags: []
+topic_tags:
+  - education
+  - "education policy"
+  - government
+  - "monetary policy"
+  - politics
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Michigan, United States
 floor_values_engaged:

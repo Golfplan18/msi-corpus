@@ -14,7 +14,11 @@ primary_themes:
 - workplace safety
 - China
 - manufacturing
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "disaster, accident and emergency incident"
+  - health
+  - trial
 storyline_nexus: []
 geographic_location: Baotou, Inner Mongolia, China
 floor_values_engaged:

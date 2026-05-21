@@ -17,8 +17,12 @@ primary_themes:
 - Pakistan security
 - explosives seizure
 topic_tags:
+  - "armed conflict"
+  - "artificial intelligence"
   - "conflict, war and peace"
-  - terrorism
+  - "crime, law and justice"
+  - "law enforcement"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Karachi, Pakistan
 floor_values_engaged:

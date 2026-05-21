@@ -15,7 +15,12 @@ primary_themes:
 - cultural heritage
 - Ethiopia
 - humanitarian crisis
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "artificial intelligence"
+  - "conflict, war and peace"
+  - religion
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Ethiopia
 floor_values_engaged:

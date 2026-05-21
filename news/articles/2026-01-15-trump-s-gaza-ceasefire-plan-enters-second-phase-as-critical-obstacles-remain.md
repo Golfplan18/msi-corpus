@@ -19,7 +19,9 @@ primary_themes:
 - Middle East peace process
 - Hamas disarmament
 - Gaza reconstruction
-topic_tags: []
+topic_tags:
+  - "international relations"
+  - politics
 storyline_nexus: []
 geographic_location: Gaza Strip, Middle East
 floor_values_engaged:

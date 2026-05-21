@@ -13,7 +13,13 @@ primary_themes:
 - international_cooperation
 - drug_trafficking
 - fugitive_apprehension
-topic_tags: []
+topic_tags:
+  - crime
+  - "crime, law and justice"
+  - "government policy"
+  - "human migration"
+  - "international relations"
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: Mexico (Quintana Roo); Hungary; International
 floor_values_engaged:

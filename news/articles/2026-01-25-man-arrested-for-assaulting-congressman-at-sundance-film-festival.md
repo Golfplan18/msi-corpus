@@ -16,7 +16,13 @@ primary_themes:
 - criminal_justice
 - immigration_enforcement
 - elections
-topic_tags: []
+topic_tags:
+  - "arts and entertainment"
+  - "arts, culture, entertainment and media"
+  - "crime, law and justice"
+  - election
+  - "human interest"
+  - "human migration"
 storyline_nexus: []
 geographic_location: Park City, Utah, United States
 floor_values_engaged:

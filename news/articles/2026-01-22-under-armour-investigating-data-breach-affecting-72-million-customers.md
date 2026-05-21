@@ -10,7 +10,8 @@ primary_themes:
 - data-breach
 - cybersecurity
 - customer-data-protection
-topic_tags: []
+topic_tags:
+  - "economy, business and finance"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

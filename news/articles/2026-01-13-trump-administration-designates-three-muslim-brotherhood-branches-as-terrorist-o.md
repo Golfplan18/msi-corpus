@@ -20,10 +20,7 @@ primary_themes:
 - Middle East
 - Muslim Brotherhood
 topic_tags:
-  - "science and technology"
-  - "artificial intelligence"
-  - "politics"
-  - "government"
+  - politics
   - "government policy"
   - "international relations"
 storyline_nexus: []

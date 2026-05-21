@@ -18,7 +18,13 @@ primary_themes:
 - public safety
 - fireworks regulation
 - legislation
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "disaster, accident and emergency incident"
+  - fire
+  - "law enforcement"
+  - politics
+  - trial
 storyline_nexus: []
 geographic_location: Honolulu, Hawaii, United States
 floor_values_engaged:

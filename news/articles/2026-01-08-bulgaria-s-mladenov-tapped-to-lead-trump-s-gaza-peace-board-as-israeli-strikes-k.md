@@ -17,8 +17,11 @@ primary_themes:
 - humanitarian access
 topic_tags:
   - "conflict, war and peace"
-  - "peace process"
-  - "armed conflict"
+  - "disaster, accident and emergency incident"
+  - employment
+  - fire
+  - health
+  - "international relations"
 storyline_nexus: []
 geographic_location: Gaza Strip; Jerusalem; Cairo; Ankara
 floor_values_engaged:

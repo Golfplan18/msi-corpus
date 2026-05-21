@@ -17,7 +17,13 @@ primary_themes:
 - Pandemic fraud
 - Family connections to elected office
 - Presidential pardon
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "human migration"
+  - "international relations"
+  - "law enforcement"
+  - "political dissent"
+  - trial
 storyline_nexus: []
 geographic_location: Webb County, Texas
 floor_values_engaged:

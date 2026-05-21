@@ -20,9 +20,12 @@ primary_themes:
 - technology investment
 - US-China technology competition
 topic_tags:
-  - "science and technology"
-  - "robotics"
   - "artificial intelligence"
+  - "arts and entertainment"
+  - "arts, culture, entertainment and media"
+  - robotics
+  - "science and technology"
+  - "technology and engineering"
 storyline_nexus: []
 geographic_location: Mountain View, California, United States
 floor_values_engaged:

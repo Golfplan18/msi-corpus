@@ -20,7 +20,10 @@ primary_themes:
 - immigration enforcement
 - government accountability
 - warrantless detention
-topic_tags: []
+topic_tags:
+  - crime
+  - "crime, law and justice"
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: St. Paul, Minnesota
 floor_values_engaged:

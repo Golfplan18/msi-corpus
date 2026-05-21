@@ -17,7 +17,6 @@ primary_themes:
 - humanitarian emergency
 topic_tags:
   - "disaster, accident and emergency incident"
-  - "natural disaster"
 storyline_nexus: []
 geographic_location: Siau island, Siau Tagulandang Biaro District, North Sulawesi, Indonesia
 floor_values_engaged:

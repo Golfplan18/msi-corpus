@@ -16,7 +16,11 @@ primary_themes:
 - wildlife
 - japan-china-relations
 - conservation
-topic_tags: []
+topic_tags:
+  - politics
+  - "international relations"
+  - "human interest"
+  - achievement
 storyline_nexus: []
 geographic_location: Tokyo, Japan / Beijing, China
 floor_values_engaged:

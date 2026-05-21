@@ -14,7 +14,9 @@ primary_themes:
 - journalism
 - investigation
 - biography
-topic_tags: []
+topic_tags:
+  - "arts, culture, entertainment and media"
+  - "mass media"
 storyline_nexus: []
 geographic_location: Colorado, United States; Aspen-area, Woody Creek
 floor_values_engaged:

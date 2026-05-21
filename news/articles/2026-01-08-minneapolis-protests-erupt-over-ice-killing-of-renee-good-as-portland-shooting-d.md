@@ -26,9 +26,12 @@ primary_themes:
 - federal-state jurisdiction
 - accountability_of_power
 topic_tags:
+  - "civil unrest"
+  - "conflict, war and peace"
   - "crime, law and justice"
-  - "human interest"
-  - "law enforcement"
+  - "human migration"
+  - "international relations"
+  - "political dissent"
 storyline_nexus: []
 geographic_location: Minneapolis, Minnesota; Portland, Oregon
 floor_values_engaged:

@@ -39,7 +39,13 @@ primary_themes:
 - Iran nuclear program
 - US-Israel military cooperation
 - regime change
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "crime, law and justice"
+  - environment
+  - government
+  - labour
 storyline_nexus: []
 geographic_location: United States, Iran, Israel
 floor_values_engaged:

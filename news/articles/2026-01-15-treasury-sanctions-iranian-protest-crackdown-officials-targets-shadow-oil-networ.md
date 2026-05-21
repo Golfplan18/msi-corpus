@@ -19,7 +19,12 @@ primary_themes:
 - shadow banking
 - U.S. foreign policy
 - human rights
-topic_tags: []
+topic_tags:
+  - banking
+  - "economy, business and finance"
+  - government
+  - "government policy"
+  - politics
 storyline_nexus: []
 geographic_location: Washington, D.C. / Iran
 floor_values_engaged:

@@ -17,7 +17,8 @@ primary_themes:
 - Israel-Arab relations
 - Negev desert
 - police use of force
-topic_tags: []
+topic_tags:
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Tarabin, Negev desert, southern Israel
 floor_values_engaged:

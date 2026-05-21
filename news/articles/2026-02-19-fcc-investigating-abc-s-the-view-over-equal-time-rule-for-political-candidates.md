@@ -16,7 +16,9 @@ primary_themes:
 - equal time rule
 - political candidates
 - television
-topic_tags: []
+topic_tags:
+  - politics
+  - "government policy"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

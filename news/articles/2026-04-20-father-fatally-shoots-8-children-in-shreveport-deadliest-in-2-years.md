@@ -12,7 +12,8 @@ primary_themes:
 - mass shooting
 - domestic violence
 - criminal history
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
 storyline_nexus: []
 geographic_location: Shreveport, Louisiana, United States
 floor_values_engaged:

@@ -16,7 +16,12 @@ primary_themes:
 - Colombia-Ecuador relations
 - drug trafficking policy
 - oil trade
-topic_tags: []
+topic_tags:
+  - politics
+  - government
+  - "conflict, war and peace"
+  - "economy, business and finance"
+  - "international trade"
 storyline_nexus: []
 geographic_location: Colombia-Ecuador border region, Andean South America
 floor_values_engaged:

@@ -15,7 +15,13 @@ primary_themes:
 - accountability_of_power
 - rule of law
 - January 6 Capitol attack
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - crime
+  - "crime, law and justice"
+  - election
+  - government
+  - "government policy"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

@@ -14,7 +14,10 @@ primary_themes:
 - contraception access
 - post-Dobbs effects
 - healthcare service expansion
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - judiciary
+  - health
 storyline_nexus: []
 geographic_location: Michigan, United States
 floor_values_engaged:

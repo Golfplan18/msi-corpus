@@ -14,7 +14,11 @@ primary_themes:
 - extreme_weather
 - climate_change
 - economic_impact
-topic_tags: []
+topic_tags:
+  - "weather warning"
+  - "disaster, accident and emergency incident"
+  - "climate change"
+  - environment
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

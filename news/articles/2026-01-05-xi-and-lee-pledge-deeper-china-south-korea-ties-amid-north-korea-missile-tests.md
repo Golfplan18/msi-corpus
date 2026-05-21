@@ -23,8 +23,8 @@ primary_themes:
 - U.S. Venezuela operation
 - bilateral trade
 topic_tags:
-  - politics
-  - "international relations"
+  - "economy, business and finance"
+  - "international trade"
 storyline_nexus: []
 geographic_location: Beijing, China; Korean Peninsula; Asia-Pacific
 floor_values_engaged:

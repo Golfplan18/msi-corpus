@@ -14,7 +14,13 @@ primary_themes:
 - child_welfare
 - government_accountability
 - impact_on_schools
-topic_tags: []
+topic_tags:
+  - education
+  - government
+  - "human interest"
+  - "human migration"
+  - politics
+  - school
 storyline_nexus: []
 geographic_location: Columbia Heights, Minnesota; Dilley, Texas
 floor_values_engaged:

@@ -17,7 +17,9 @@ primary_themes:
 - immigration enforcement
 - media independence
 - Trump administration
-topic_tags: []
+topic_tags:
+  - "arts, culture, entertainment and media"
+  - "arts and entertainment"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

@@ -18,7 +18,8 @@ primary_themes:
 - airspace closures
 - Gulf states
 - civilian impact of conflict
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: Dubai, UAE; Doha, Qatar; Middle East
 floor_values_engaged:

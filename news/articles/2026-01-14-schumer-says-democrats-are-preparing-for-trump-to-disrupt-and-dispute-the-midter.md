@@ -15,8 +15,12 @@ primary_themes:
 - cost of living
 - Senate majority
 topic_tags:
+  - "civil rights"
+  - "crime, law and justice"
+  - "economy, business and finance"
   - election
   - politics
+  - society
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

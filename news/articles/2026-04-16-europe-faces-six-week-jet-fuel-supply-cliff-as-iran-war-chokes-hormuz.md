@@ -18,7 +18,13 @@ primary_themes:
 - jet fuel supply shortage
 - airline industry disruption
 - energy markets
-topic_tags: []
+topic_tags:
+  - politics
+  - government
+  - "conflict, war and peace"
+  - "economy, business and finance"
+  - "arts, culture, entertainment and media"
+  - "arts and entertainment"
 storyline_nexus: []
 geographic_location: Europe, Asia-Pacific, International
 floor_values_engaged:

@@ -20,7 +20,11 @@ primary_themes:
 - interest rate policy
 - federal building renovation
 - DOJ investigation
-topic_tags: []
+topic_tags:
+  - "politics"
+  - "government"
+  - "economy, business and finance"
+  - "monetary policy"
 storyline_nexus: []
 geographic_location: Washington, D.C.
 floor_values_engaged:

@@ -15,7 +15,9 @@ primary_themes:
 - e-commerce disruption
 - bankruptcy
 - consumer behavior shift
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "economy, business and finance"
 storyline_nexus: []
 geographic_location: United States (Southern District of Texas)
 floor_values_engaged:

@@ -13,7 +13,12 @@ primary_themes:
 - evacuation flights
 - government emergency spending
 - consular services
-topic_tags: []
+topic_tags:
+  - politics
+  - "human interest"
+  - "government policy"
+  - "human migration"
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: Washington, D.C. / Middle East
 floor_values_engaged:

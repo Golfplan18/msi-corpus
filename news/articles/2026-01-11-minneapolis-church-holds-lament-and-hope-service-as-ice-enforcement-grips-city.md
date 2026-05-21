@@ -16,10 +16,10 @@ primary_themes:
 - immigrant rights
 - community response
 topic_tags:
-  - "politics"
-  - "government policy"
-  - "human interest"
-  - "people"
+  - "crime, law and justice"
+  - "law enforcement"
+  - religion
+  - "religious leader"
 storyline_nexus: []
 geographic_location: Minneapolis, Minnesota, United States
 floor_values_engaged:

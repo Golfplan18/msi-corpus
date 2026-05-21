@@ -15,7 +15,11 @@ primary_themes:
 - financial markets and stock movement
 - international diplomacy
 - digital culture
-topic_tags: []
+topic_tags:
+  - politics
+  - government
+  - "economy, business and finance"
+  - "market and exchange"
 storyline_nexus: []
 geographic_location: International (Davos, Switzerland; Milan stock exchange)
 floor_values_engaged:

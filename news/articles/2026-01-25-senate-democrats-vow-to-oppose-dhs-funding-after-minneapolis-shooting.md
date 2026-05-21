@@ -19,7 +19,11 @@ primary_themes:
 - immigration enforcement
 - ICE accountability
 - spending legislation
-topic_tags: []
+topic_tags:
+  - government
+  - "human interest"
+  - "human migration"
+  - politics
 storyline_nexus: []
 geographic_location: United States (Minneapolis, Minnesota; Washington, D.C.)
 floor_values_engaged:

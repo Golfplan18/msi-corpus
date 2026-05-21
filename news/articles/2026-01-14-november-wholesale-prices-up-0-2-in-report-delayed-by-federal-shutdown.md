@@ -15,8 +15,11 @@ primary_themes:
 - monetary policy
 topic_tags:
   - "economy, business and finance"
-  - "government policy"
-  - politics
+  - "international trade"
+  - macroeconomics
+  - "science and technology"
+  - sport
+  - "sport event"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

@@ -18,7 +18,13 @@ primary_themes:
 - Iran conflict economic effects
 - airline route suspensions
 - global energy crisis
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "artificial intelligence"
+  - "conflict, war and peace"
+  - "disaster, accident and emergency incident"
+  - "economy, business and finance"
+  - "energy and resource"
 storyline_nexus: []
 geographic_location: New York; international
 floor_values_engaged:

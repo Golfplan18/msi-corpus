@@ -17,7 +17,9 @@ primary_themes:
 - retail trading
 - market behavior
 - wealth management
-topic_tags: []
+topic_tags:
+  - "market and exchange"
+  - "economy, business and finance"
 storyline_nexus: []
 floor_values_engaged:
 - value: truthfulness

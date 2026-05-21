@@ -17,7 +17,13 @@ primary_themes:
 - bone health
 - fitness
 - fall prevention
-topic_tags: []
+topic_tags:
+  - crime
+  - "crime, law and justice"
+  - "disease and condition"
+  - "law enforcement"
+  - "public health"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

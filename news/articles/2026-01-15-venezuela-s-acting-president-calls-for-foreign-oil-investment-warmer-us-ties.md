@@ -14,7 +14,13 @@ primary_themes:
 - US-Venezuela relations
 - Venezuelan oil industry
 - Latin American diplomacy
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - employment
+  - "international relations"
+  - labour
+  - "labour dispute"
+  - politics
 storyline_nexus: []
 geographic_location: Caracas, Venezuela
 floor_values_engaged:

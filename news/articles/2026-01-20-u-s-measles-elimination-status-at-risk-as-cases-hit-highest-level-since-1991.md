@@ -18,7 +18,12 @@ primary_themes:
 - vaccine hesitancy
 - disease elimination
 - epidemiology
-topic_tags: []
+topic_tags:
+  - election
+  - "epidemic and pandemic"
+  - health
+  - politics
+  - "public health"
 storyline_nexus: []
 geographic_location: United States; Mexico
 floor_values_engaged:

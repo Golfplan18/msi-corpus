@@ -20,7 +20,12 @@ primary_themes:
 - drone warfare
 - Ukrainian military experience
 - defense spending
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "international relations"
+  - labour
+  - politics
 storyline_nexus: []
 geographic_location: Europe
 floor_values_engaged:

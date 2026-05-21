@@ -16,7 +16,8 @@ primary_themes:
 - bilateral security cooperation
 - cartel policy
 - Trump administration foreign policy
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: Mexico City, Mexico
 floor_values_engaged:

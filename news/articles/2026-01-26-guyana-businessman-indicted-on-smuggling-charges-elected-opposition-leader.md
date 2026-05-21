@@ -14,7 +14,13 @@ primary_themes:
 - international law enforcement
 - political leadership
 - financial crime
-topic_tags: []
+topic_tags:
+  - corruption
+  - "crime, law and justice"
+  - economy
+  - "economy, business and finance"
+  - election
+  - government
 storyline_nexus: []
 geographic_location: Guyana
 floor_values_engaged:

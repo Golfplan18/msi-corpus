@@ -13,7 +13,11 @@ primary_themes:
 - disaster response
 - waste management
 - Philippines
-topic_tags: []
+topic_tags:
+  - crime
+  - "crime, law and justice"
+  - "disaster, accident and emergency incident"
+  - labour
 storyline_nexus: []
 geographic_location: Cebu City, Philippines
 floor_values_engaged:

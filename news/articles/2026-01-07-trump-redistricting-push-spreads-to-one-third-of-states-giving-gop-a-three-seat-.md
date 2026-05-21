@@ -19,9 +19,10 @@ primary_themes:
 - Republican Party
 - Democratic Party
 topic_tags:
+  - "crime, law and justice"
+  - election
   - politics
-  - government
-  - "political process"
+  - trial
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

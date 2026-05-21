@@ -16,7 +16,10 @@ primary_themes:
 - climate change
 - wildfires
 - extreme weather
-topic_tags: []
+topic_tags:
+  - "disaster, accident and emergency incident"
+  - "climate change"
+  - environment
 storyline_nexus: []
 geographic_location: North America
 floor_values_engaged:

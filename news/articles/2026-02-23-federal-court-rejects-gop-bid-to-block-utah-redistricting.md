@@ -20,7 +20,11 @@ primary_themes:
 - elections
 - court_ruling
 - political_strategy
-topic_tags: []
+topic_tags:
+  - politics
+  - election
+  - politics
+  - "government policy"
 storyline_nexus: []
 geographic_location: Utah, United States
 floor_values_engaged:

@@ -12,7 +12,9 @@ primary_themes:
 - royal succession
 - Commonwealth relations
 - accountability_of_power
-topic_tags: []
+topic_tags:
+  - "politics"
+  - "government"
 storyline_nexus: []
 geographic_location: Tokyo, Japan
 floor_values_engaged:

@@ -7,7 +7,12 @@ primary_entities:
 primary_themes:
 - news_digest
 - editorial_product
-topic_tags: []
+topic_tags:
+  - health
+  - religion
+  - "science and technology"
+  - "arts, culture, entertainment and media"
+  - "arts and entertainment"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

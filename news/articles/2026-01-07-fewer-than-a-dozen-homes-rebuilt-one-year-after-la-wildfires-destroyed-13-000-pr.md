@@ -27,7 +27,13 @@ primary_themes:
 - racial inequality in disaster recovery
 - housing
 - California wildfires
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - crime
+  - "crime, law and justice"
+  - "disaster, accident and emergency incident"
+  - fire
+  - "human interest"
 storyline_nexus: []
 geographic_location: Los Angeles County, California
 floor_values_engaged:

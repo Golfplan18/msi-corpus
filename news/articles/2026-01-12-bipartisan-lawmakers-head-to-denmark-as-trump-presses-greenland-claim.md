@@ -17,7 +17,9 @@ primary_themes:
 - US-Denmark relations
 - Greenland sovereignty
 - China Arctic policy
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: Copenhagen, Denmark; Washington, D.C.; Greenland
 floor_values_engaged:

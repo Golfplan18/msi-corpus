@@ -20,7 +20,13 @@ primary_themes:
 - hurricane preparedness
 - renewable energy
 - poverty
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "disaster, accident and emergency incident"
+  - "economy, business and finance"
+  - "energy and resource"
+  - government
 storyline_nexus: []
 geographic_location: Puerto Rico, United States
 floor_values_engaged:

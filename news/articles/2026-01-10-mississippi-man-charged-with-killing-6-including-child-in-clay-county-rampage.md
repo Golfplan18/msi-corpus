@@ -18,7 +18,13 @@ primary_themes:
 - mass killing
 - criminal justice
 - capital punishment
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - crime
+  - "crime, law and justice"
+  - "disaster, accident and emergency incident"
+  - government
+  - "government policy"
 storyline_nexus: []
 geographic_location: Clay County, Mississippi
 floor_values_engaged:

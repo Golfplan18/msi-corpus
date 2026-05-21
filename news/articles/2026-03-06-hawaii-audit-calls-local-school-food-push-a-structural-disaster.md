@@ -22,7 +22,11 @@ primary_themes:
 - state audit
 - local food procurement
 - Hawaii education
-topic_tags: []
+topic_tags:
+  - "accident and emergency incident"
+  - "disaster, accident and emergency incident"
+  - "education"
+  - "school"
 storyline_nexus: []
 geographic_location: Hawaii, United States
 floor_values_engaged:

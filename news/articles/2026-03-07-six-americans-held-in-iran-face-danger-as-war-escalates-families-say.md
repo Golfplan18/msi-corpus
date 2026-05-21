@@ -17,7 +17,9 @@ primary_themes:
 - hostage diplomacy
 - wrongful detention
 - Evin Prison
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: Tehran, Iran / United States
 floor_values_engaged:

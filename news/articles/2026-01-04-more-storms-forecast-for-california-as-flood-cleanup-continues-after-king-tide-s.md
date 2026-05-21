@@ -14,7 +14,13 @@ primary_themes:
 - California storms
 - emergency response
 - King Tides
-topic_tags: []
+topic_tags:
+  - "disaster, accident and emergency incident"
+  - "government policy"
+  - "human migration"
+  - "international relations"
+  - politics
+  - "science and technology"
 storyline_nexus: []
 geographic_location: California, United States
 floor_values_engaged:

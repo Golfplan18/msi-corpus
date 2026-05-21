@@ -17,10 +17,11 @@ primary_themes:
 - holiday traditions
 - public health
 topic_tags:
-  - "health"
-  - "public health"
-  - "environment"
-  - "pollution"
+  - health
+  - education
+  - "higher education"
+  - "arts, culture, entertainment and media"
+  - "arts and entertainment"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

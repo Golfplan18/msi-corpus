@@ -14,7 +14,11 @@ primary_themes:
 - public safety
 - weather
 - emergency preparedness
-topic_tags: []
+topic_tags:
+  - "weather warning"
+  - "disaster, accident and emergency incident"
+  - "human interest"
+  - "human migration"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

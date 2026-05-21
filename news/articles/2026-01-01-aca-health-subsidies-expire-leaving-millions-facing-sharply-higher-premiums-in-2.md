@@ -18,7 +18,10 @@ primary_themes:
 - health insurance
 - federal legislation
 - midterm elections
-topic_tags: []
+topic_tags:
+  - "economy, business and finance"
+  - health
+  - "science and technology"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

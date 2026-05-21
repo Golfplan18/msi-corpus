@@ -16,7 +16,13 @@ primary_themes:
 - U.S.-Latin America relations
 - Venezuela
 - Trump administration
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - government
+  - "international relations"
+  - "monetary policy"
+  - "political dissent"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Venezuela / Western Hemisphere
 floor_values_engaged:

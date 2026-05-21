@@ -19,7 +19,12 @@ primary_themes:
 - Greenland
 - foreign aid
 - USAID
-topic_tags: []
+topic_tags:
+  - politics
+  - "religious leader"
+  - "government policy"
+  - "international relations"
+  - religion
 storyline_nexus: []
 geographic_location: Vatican City; United States
 floor_values_engaged:

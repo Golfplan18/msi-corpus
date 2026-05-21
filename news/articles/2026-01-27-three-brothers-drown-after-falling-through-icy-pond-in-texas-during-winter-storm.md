@@ -12,7 +12,8 @@ primary_themes:
 - Winter weather dangers
 - Children and family safety
 - Community impact
-topic_tags: []
+topic_tags:
+  - society
 storyline_nexus: []
 geographic_location: Bonham, Texas; Fannin County; Texas
 floor_values_engaged:

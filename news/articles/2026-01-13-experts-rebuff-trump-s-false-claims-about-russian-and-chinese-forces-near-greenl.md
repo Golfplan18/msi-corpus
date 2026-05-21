@@ -17,12 +17,7 @@ primary_themes:
 - U.S. foreign policy
 - NATO
 topic_tags:
-  - "science and technology"
-  - "conflict, war and peace"
-  - "armed conflict"
-  - "politics"
-  - "government policy"
-  - "international relations"
+  - politics
 storyline_nexus: []
 geographic_location: Greenland
 floor_values_engaged:

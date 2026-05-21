@@ -15,7 +15,13 @@ primary_themes:
 - artificial intelligence
 - workforce development
 - technology education policy
-topic_tags: []
+topic_tags:
+  - "economy, business and finance"
+  - education
+  - "higher education"
+  - labour
+  - employment
+  - "science and technology"
 storyline_nexus: []
 geographic_location: East Lansing, Michigan
 floor_values_engaged:

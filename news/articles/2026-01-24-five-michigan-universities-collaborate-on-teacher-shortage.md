@@ -18,7 +18,11 @@ primary_themes:
 - Workforce shortage
 - Teacher preparation
 - Institutional collaboration
-topic_tags: []
+topic_tags:
+  - "economy, business and finance"
+  - education
+  - "higher education"
+  - labour
 storyline_nexus: []
 geographic_location: Michigan, United States
 floor_values_engaged:

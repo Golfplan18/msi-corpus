@@ -14,7 +14,13 @@ primary_themes:
 - bystander harm
 - Minneapolis
 - Twin Cities crackdown
-topic_tags: []
+topic_tags:
+  - politics
+  - health
+  - "human interest"
+  - "government policy"
+  - "human migration"
+  - "disaster, accident and emergency incident"
 storyline_nexus: []
 geographic_location: Minneapolis, Minnesota, United States
 floor_values_engaged:

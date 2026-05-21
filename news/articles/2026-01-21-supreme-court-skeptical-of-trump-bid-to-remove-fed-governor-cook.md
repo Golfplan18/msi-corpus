@@ -14,7 +14,8 @@ primary_themes:
 - federal_reserve_independence
 - executive_power
 - monetary_policy
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

@@ -12,7 +12,11 @@ primary_themes:
 - Media consolidation
 - Corporate mergers and acquisitions
 - Antitrust policy
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "arts, culture, entertainment and media"
+  - "conflict, war and peace"
+  - politics
 storyline_nexus: []
 geographic_location: International; US-headquartered companies
 floor_values_engaged:

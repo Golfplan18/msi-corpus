@@ -22,7 +22,13 @@ primary_themes:
 - ukraine_war
 - migrant_worker_abuse
 - human_rights
-topic_tags: []
+topic_tags:
+  - "human interest"
+  - health
+  - society
+  - "human migration"
+  - labour
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: Bangladesh, Russia, Ukraine
 floor_values_engaged:

@@ -19,10 +19,12 @@ primary_themes:
 - gender discrimination
 - civil rights
 topic_tags:
+  - "civil rights"
   - "crime, law and justice"
-  - "judiciary"
-  - "society"
-  - "discrimination"
+  - discrimination
+  - education
+  - government
+  - "government policy"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

@@ -15,6 +15,9 @@ primary_themes:
 - State Department
 - travel restrictions
 topic_tags:
+  - "human interest"
+  - "human migration"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Washington, D.C.
 floor_values_engaged:

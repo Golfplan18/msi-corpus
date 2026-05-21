@@ -15,7 +15,13 @@ primary_themes:
 - Senate campaign
 - campaign finance
 - nuclear energy subsidies
-topic_tags: []
+topic_tags:
+  - crime
+  - "crime, law and justice"
+  - "disaster, accident and emergency incident"
+  - environment
+  - "political dissent"
+  - "political process"
 storyline_nexus: []
 geographic_location: Ohio, United States
 floor_values_engaged:

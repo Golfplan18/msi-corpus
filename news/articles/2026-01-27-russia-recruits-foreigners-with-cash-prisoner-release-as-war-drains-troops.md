@@ -20,7 +20,10 @@ primary_themes:
 - Forced labor and trafficking
 - Foreign fighters
 - War economics
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - labour
 storyline_nexus: []
 geographic_location: International
 floor_values_engaged:

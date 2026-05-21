@@ -19,12 +19,12 @@ primary_themes:
 - rial currency collapse
 - Middle East security
 topic_tags:
-  - "conflict, war and peace"
   - "civil unrest"
-  - "politics"
+  - "conflict, war and peace"
+  - "disaster, accident and emergency incident"
+  - environment
   - "international relations"
-  - "economy, business and finance"
-  - "monetary policy"
+  - "political dissent"
 storyline_nexus: []
 geographic_location: Iran; United Arab Emirates; United States; United Nations
 floor_values_engaged:

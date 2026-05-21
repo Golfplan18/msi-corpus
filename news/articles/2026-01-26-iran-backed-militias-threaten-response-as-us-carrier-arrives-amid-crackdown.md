@@ -16,7 +16,9 @@ primary_themes:
 - Middle East security
 - Protest crackdown
 - Military escalation
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: Middle East
 floor_values_engaged:

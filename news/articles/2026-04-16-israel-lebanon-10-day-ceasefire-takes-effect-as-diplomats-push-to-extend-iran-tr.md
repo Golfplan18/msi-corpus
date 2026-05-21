@@ -25,7 +25,13 @@ primary_themes:
 - Strait of Hormuz
 - Pakistan mediation
 - Hezbollah
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "artificial intelligence"
+  - "arts, culture, entertainment and media"
+  - "conflict, war and peace"
+  - "disaster, accident and emergency incident"
+  - fire
 storyline_nexus: []
 geographic_location: Beirut, Lebanon; Washington, D.C.; Islamabad, Pakistan
 floor_values_engaged:

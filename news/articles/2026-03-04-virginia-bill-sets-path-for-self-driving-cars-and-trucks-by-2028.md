@@ -13,7 +13,11 @@ primary_themes:
 - transportation technology
 - Virginia state legislation
 - labor and technology
-topic_tags: []
+topic_tags:
+  - "science and technology"
+  - "technology and engineering"
+  - "economy, business and finance"
+  - "transport"
 storyline_nexus: []
 geographic_location: Virginia, United States
 floor_values_engaged:

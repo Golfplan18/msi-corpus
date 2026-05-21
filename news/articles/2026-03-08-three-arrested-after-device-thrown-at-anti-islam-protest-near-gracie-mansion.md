@@ -15,7 +15,8 @@ primary_themes:
 - law-enforcement
 - jan-6-aftermath
 - religion-and-politics
-topic_tags: []
+topic_tags:
+  - religion
 storyline_nexus: []
 geographic_location: New York City, New York, United States
 floor_values_engaged:

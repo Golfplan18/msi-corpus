@@ -15,7 +15,13 @@ primary_themes:
 - criminal justice
 - school shootings
 - law enforcement inaction
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "crime, law and justice"
+  - "disaster, accident and emergency incident"
+  - education
+  - election
 storyline_nexus: []
 geographic_location: Corpus Christi, Texas; Uvalde, Texas
 floor_values_engaged:

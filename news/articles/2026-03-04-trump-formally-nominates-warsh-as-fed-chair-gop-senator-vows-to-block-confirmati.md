@@ -17,7 +17,9 @@ primary_themes:
 - Senate confirmation
 - Monetary policy
 - DOJ investigation
-topic_tags: []
+topic_tags:
+  - politics
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: Washington, D.C.
 floor_values_engaged:

@@ -17,7 +17,13 @@ primary_themes:
 - counterterrorism
 - Islamic State
 - Kurdish-led forces
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "conflict, war and peace"
+  - government
+  - "international relations"
+  - "science and technology"
+  - terrorism
 storyline_nexus: []
 geographic_location: Hasakah province, Syria
 floor_values_engaged:

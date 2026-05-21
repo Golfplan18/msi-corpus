@@ -20,7 +20,11 @@ primary_themes:
 - NATO
 - U.S. foreign policy
 topic_tags:
-  - "conflict, war and peace"
+  - politics
+  - "human interest"
+  - "government policy"
+  - "international relations"
+  - "human migration"
 storyline_nexus: []
 geographic_location: Washington, D.C.; Nuuk, Greenland; Copenhagen, Denmark
 floor_values_engaged:

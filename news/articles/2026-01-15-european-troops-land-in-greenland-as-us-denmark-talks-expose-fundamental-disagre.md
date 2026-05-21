@@ -20,9 +20,10 @@ primary_themes:
 - European military deployment
 - Greenland self-determination
 topic_tags:
+  - "armed conflict"
   - "conflict, war and peace"
-  - "construction and property"
-  - "economy, business and finance"
+  - "international relations"
+  - politics
 storyline_nexus: []
 geographic_location: Greenland; Washington, D.C.; Copenhagen, Denmark
 floor_values_engaged:

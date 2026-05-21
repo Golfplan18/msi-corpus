@@ -16,12 +16,12 @@ primary_themes:
 - Supreme Court
 - gender policy
 topic_tags:
-  - "education"
-  - "politics"
-  - "government"
+  - discrimination
+  - politics
+  - education
+  - society
+  - trial
   - "government policy"
-  - "crime, law and justice"
-  - "civil rights"
 storyline_nexus: []
 geographic_location: Washington, D.C.
 floor_values_engaged:

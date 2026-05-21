@@ -15,7 +15,10 @@ primary_themes:
 - emergency management
 - climate and environment
 - Latin America
-topic_tags: []
+topic_tags:
+  - "disaster, accident and emergency incident"
+  - "natural disaster"
+  - environment
 storyline_nexus: []
 geographic_location: Chile — Biobío and Ñuble regions, central and southern Chile
 floor_values_engaged:

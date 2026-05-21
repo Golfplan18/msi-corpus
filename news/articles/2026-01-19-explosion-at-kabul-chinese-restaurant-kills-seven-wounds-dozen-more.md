@@ -15,7 +15,13 @@ primary_themes:
 - bombing
 - Afghanistan-Pakistan relations
 - civilian casualties
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - "crime, law and justice"
+  - "disaster, accident and emergency incident"
+  - health
+  - "law enforcement"
+  - terrorism
 storyline_nexus: []
 geographic_location: Kabul, Afghanistan
 floor_values_engaged:

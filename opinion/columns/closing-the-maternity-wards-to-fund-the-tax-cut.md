@@ -19,7 +19,12 @@ primary_themes:
 - rural-maternal-health
 - donor-class-tax-policy
 - consolidated-operator-extraction
-topic_tags: []
+topic_tags:
+  - politics
+  - election
+  - government
+  - "economy, business and finance"
+  - "international trade"
 storyline_nexus: []
 geographic_location: Adams County, Wisconsin
 floor_values_engaged:

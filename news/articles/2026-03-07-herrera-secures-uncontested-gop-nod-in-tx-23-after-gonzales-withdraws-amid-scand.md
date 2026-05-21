@@ -15,7 +15,9 @@ primary_themes:
 - Texas politics
 - Republican primary
 - 2026 midterms
-topic_tags: []
+topic_tags:
+  - "government policy"
+  - "politics"
 storyline_nexus: []
 geographic_location: Texas, United States
 floor_values_engaged:

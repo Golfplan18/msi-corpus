@@ -21,7 +21,12 @@ primary_themes:
 - parenting guidance
 - Middle East conflict
 - conflict zone children
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - health
+  - "mental health"
+  - "arts, culture, entertainment and media"
+  - "arts and entertainment"
 storyline_nexus: []
 geographic_location: United States; Lebanon; Ukraine
 floor_values_engaged:

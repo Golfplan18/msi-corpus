@@ -22,12 +22,12 @@ primary_themes:
 - NATO
 - Central European politics
 topic_tags:
-  - "science and technology"
-  - "disaster, accident and emergency incident"
-  - "accident and emergency incident"
-  - "politics"
-  - "government"
-  - "labour"
+  - "armed conflict"
+  - "conflict, war and peace"
+  - election
+  - "government policy"
+  - labour
+  - "labour dispute"
 storyline_nexus: []
 geographic_location: Prague, Czech Republic
 floor_values_engaged:

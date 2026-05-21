@@ -16,8 +16,9 @@ primary_themes:
 - North Korea nuclear program
 topic_tags:
   - politics
-  - "conflict, war and peace"
+  - government
   - "international relations"
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: Seoul; Beijing; Shanghai
 floor_values_engaged:

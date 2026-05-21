@@ -17,7 +17,10 @@ primary_themes:
 - US-Mexico diplomatic relations
 - criminal enforcement
 - government pressure
-topic_tags: []
+topic_tags:
+  - government
+  - "international relations"
+  - politics
 storyline_nexus: []
 geographic_location: Mexico and United States
 floor_values_engaged:

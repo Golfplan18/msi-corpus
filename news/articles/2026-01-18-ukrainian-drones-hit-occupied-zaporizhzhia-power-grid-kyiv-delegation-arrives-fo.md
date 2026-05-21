@@ -16,7 +16,13 @@ primary_themes:
 - energy infrastructure attacks
 - war diplomacy
 - nuclear safety
-topic_tags: []
+topic_tags:
+  - politics
+  - government
+  - "international relations"
+  - "crime, law and justice"
+  - crime
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: Ukraine; Russia
 floor_values_engaged:

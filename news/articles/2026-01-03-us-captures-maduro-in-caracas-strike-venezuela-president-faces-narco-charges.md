@@ -19,7 +19,13 @@ primary_themes:
 - narco-terrorism
 - executive authority
 - congressional oversight
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - crime
+  - "crime, law and justice"
+  - employment
+  - government
+  - labour
 storyline_nexus: []
 geographic_location: Venezuela; Caribbean; Washington, D.C.
 floor_values_engaged:

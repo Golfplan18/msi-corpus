@@ -18,7 +18,11 @@ primary_themes:
 - diversity and inclusion
 - sustainability
 - menswear
-topic_tags: []
+topic_tags:
+  - "arts and entertainment"
+  - "arts, culture, entertainment and media"
+  - environment
+  - society
 storyline_nexus: []
 geographic_location: Milan, Italy
 floor_values_engaged:

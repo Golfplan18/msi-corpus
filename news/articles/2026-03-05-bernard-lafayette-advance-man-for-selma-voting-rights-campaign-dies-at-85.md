@@ -14,7 +14,11 @@ primary_themes:
 - voting rights
 - nonviolence movement
 - obituary
-topic_tags: []
+topic_tags:
+  - "politics"
+  - "fundamental rights"
+  - "human interest"
+  - "people"
 storyline_nexus: []
 geographic_location: Selma, Alabama; Nashville, Tennessee
 floor_values_engaged:

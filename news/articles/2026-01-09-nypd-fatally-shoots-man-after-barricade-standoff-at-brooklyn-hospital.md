@@ -12,7 +12,11 @@ primary_themes:
 - police use of force
 - hospital security
 - New York City
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "law enforcement"
+  - health
+  - labour
 storyline_nexus: []
 geographic_location: Park Slope, Brooklyn, New York City, New York, United States
 floor_values_engaged:

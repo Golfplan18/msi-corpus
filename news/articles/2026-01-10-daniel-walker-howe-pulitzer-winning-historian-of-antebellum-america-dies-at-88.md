@@ -16,7 +16,11 @@ primary_themes:
 - academia
 - antebellum America
 - intellectual history
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - education
+  - "higher education"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

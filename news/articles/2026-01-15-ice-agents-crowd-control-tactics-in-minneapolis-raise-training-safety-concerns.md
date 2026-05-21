@@ -20,7 +20,11 @@ primary_themes:
 - federal policing
 - protest response
 - law enforcement training
-topic_tags: []
+topic_tags:
+  - "human migration"
+  - politics
+  - "government policy"
+  - "human interest"
 storyline_nexus: []
 geographic_location: Minneapolis, Minnesota, United States
 floor_values_engaged:

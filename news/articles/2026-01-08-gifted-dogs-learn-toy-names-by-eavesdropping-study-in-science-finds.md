@@ -16,6 +16,9 @@ primary_themes:
 - language acquisition
 - scientific research
 topic_tags:
+  - "human interest"
+  - "international relations"
+  - politics
 storyline_nexus: []
 geographic_location: International
 floor_values_engaged:

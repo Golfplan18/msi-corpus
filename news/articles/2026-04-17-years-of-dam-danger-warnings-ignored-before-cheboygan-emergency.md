@@ -17,7 +17,13 @@ primary_themes:
 - regulatory_failure
 - water_management
 - emergency_response
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "disaster, accident and emergency incident"
+  - fire
+  - "monetary policy"
+  - "natural disaster"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Cheboygan, Michigan, USA
 floor_values_engaged:

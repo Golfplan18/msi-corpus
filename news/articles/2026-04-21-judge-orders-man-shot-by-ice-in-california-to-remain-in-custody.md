@@ -14,7 +14,13 @@ primary_themes:
 - lethal_force_by_federal_agents
 - court_proceedings
 - Trump_administration_immigration_policy
-topic_tags: []
+topic_tags:
+  - crime
+  - "crime, law and justice"
+  - judiciary
+  - "law enforcement"
+  - "lifestyle and leisure"
+  - travel
 storyline_nexus: []
 geographic_location: Patterson, California, United States
 floor_values_engaged:

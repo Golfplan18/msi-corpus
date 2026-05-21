@@ -15,6 +15,7 @@ primary_themes:
 - criminal justice
 - Virginia courts
 topic_tags:
+  - "conflict, war and peace"
   - crime
   - "crime, law and justice"
   - trial

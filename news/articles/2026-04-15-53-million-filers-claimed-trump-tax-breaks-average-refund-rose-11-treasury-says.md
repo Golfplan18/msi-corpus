@@ -16,7 +16,11 @@ primary_themes:
 - IRS administration
 - federal budget
 - tax refunds
-topic_tags: []
+topic_tags:
+  - politics
+  - government
+  - health
+  - "disease and condition"
 storyline_nexus: []
 geographic_location: Washington, D.C., United States
 floor_values_engaged:

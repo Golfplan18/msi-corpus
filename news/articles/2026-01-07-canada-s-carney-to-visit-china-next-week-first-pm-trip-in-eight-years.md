@@ -14,7 +14,10 @@ primary_themes:
 - diplomacy
 - canada_us_relations
 - canada_china_relations
-topic_tags: []
+topic_tags:
+  - politics
+  - government
+  - "economy, business and finance"
 storyline_nexus: []
 geographic_location: Canada; China; International
 floor_values_engaged:

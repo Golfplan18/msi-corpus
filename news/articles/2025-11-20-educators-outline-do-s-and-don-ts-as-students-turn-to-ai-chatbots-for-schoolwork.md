@@ -21,10 +21,12 @@ primary_themes:
 - generative AI
 - technology in schools
 topic_tags:
-  - "education"
-  - "school"
+  - politics
+  - education
+  - "government policy"
   - "science and technology"
   - "artificial intelligence"
+  - school
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

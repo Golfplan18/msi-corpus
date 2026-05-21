@@ -21,7 +21,13 @@ primary_themes:
 - business_deal
 - regulation
 - u_s_china_relations
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "artificial intelligence"
+  - "conflict, war and peace"
+  - "economy, business and finance"
+  - government
+  - politics
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

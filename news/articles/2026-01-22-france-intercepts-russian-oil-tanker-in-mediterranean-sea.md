@@ -17,7 +17,13 @@ primary_themes:
 - energy_security
 - geopolitics
 - Russia_Ukraine_conflict
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - government
+  - "government policy"
+  - "international relations"
+  - politics
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Mediterranean Sea; France; Russia; Spain
 floor_values_engaged:

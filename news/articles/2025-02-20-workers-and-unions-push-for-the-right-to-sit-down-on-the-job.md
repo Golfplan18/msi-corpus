@@ -18,10 +18,8 @@ primary_themes:
 - workers_organizing
 - occupational_health
 topic_tags:
-  - "labour"
-  - "labour dispute"
-  - "health"
-  - "public health"
+  - health
+  - labour
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

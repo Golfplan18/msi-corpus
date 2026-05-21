@@ -14,7 +14,13 @@ primary_themes:
 - Mediterranean migration crisis
 - classical music
 - Italy
-topic_tags: []
+topic_tags:
+  - "arts, culture, entertainment and media"
+  - "crime, law and justice"
+  - "human interest"
+  - "human migration"
+  - "law enforcement"
+  - music
 storyline_nexus: []
 geographic_location: Milan, Italy
 floor_values_engaged:

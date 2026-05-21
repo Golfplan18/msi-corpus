@@ -16,7 +16,13 @@ primary_themes:
 - transportation_disruption
 - infrastructure_failure
 - cross_channel_travel
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "artificial intelligence"
+  - "conflict, war and peace"
+  - "crime, law and justice"
+  - government
+  - "government policy"
 storyline_nexus: []
 geographic_location: Channel Tunnel, France–United Kingdom
 floor_values_engaged:

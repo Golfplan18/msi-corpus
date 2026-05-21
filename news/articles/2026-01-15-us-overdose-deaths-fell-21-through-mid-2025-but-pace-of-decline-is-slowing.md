@@ -17,7 +17,8 @@ primary_themes:
 - public health
 - drug policy
 - federal health data
-topic_tags: []
+topic_tags:
+  - health
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

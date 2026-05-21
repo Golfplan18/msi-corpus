@@ -15,7 +15,9 @@ primary_themes:
 - business history
 - consumer preferences
 - cultural identity
-topic_tags: []
+topic_tags:
+  - "lifestyle and leisure"
+  - lifestyle
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

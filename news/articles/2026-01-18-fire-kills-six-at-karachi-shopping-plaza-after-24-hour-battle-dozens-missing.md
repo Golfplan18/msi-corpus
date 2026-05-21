@@ -15,7 +15,13 @@ primary_themes:
 - building safety
 - Pakistan
 - disaster
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - disaster
+  - "disaster, accident and emergency incident"
+  - fire
+  - "natural disaster"
+  - "peace process"
 storyline_nexus: []
 geographic_location: Karachi, Sindh, Pakistan
 floor_values_engaged:

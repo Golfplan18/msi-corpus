@@ -18,7 +18,11 @@ primary_themes:
 - criminal_justice
 - extremist_groups
 - pretrial_proceedings
-topic_tags: []
+topic_tags:
+  - "human migration"
+  - "crime, law and justice"
+  - "human interest"
+  - trial
 storyline_nexus: []
 geographic_location: Cumberland, Maryland
 floor_values_engaged:

@@ -21,7 +21,13 @@ primary_themes:
 - Greenland
 - immigration
 - domestic policy
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "crime, law and justice"
+  - government
+  - "government policy"
+  - "human interest"
+  - "human migration"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

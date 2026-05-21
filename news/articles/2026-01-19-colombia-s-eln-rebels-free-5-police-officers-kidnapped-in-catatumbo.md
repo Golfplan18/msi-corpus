@@ -14,7 +14,13 @@ primary_themes:
 - peace negotiations
 - Colombia
 - Latin America security
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "artificial intelligence"
+  - "conflict, war and peace"
+  - "crime, law and justice"
+  - health
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: Catatumbo region, Colombia
 floor_values_engaged:

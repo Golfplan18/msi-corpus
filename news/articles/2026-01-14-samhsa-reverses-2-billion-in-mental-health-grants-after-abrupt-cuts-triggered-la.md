@@ -21,8 +21,12 @@ primary_themes:
 - HHS grant policy
 - opioid treatment
 topic_tags:
+  - "arts, culture, entertainment and media"
+  - employment
+  - "government policy"
   - health
-  - "mental health"
+  - labour
+  - "mass media"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

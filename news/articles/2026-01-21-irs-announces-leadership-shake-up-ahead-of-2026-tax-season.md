@@ -17,7 +17,13 @@ primary_themes:
 - tax_administration
 - workforce_changes
 - public_service
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "economy, business and finance"
+  - government
+  - "government policy"
+  - "law enforcement"
+  - politics
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

@@ -19,12 +19,12 @@ primary_themes:
 - ceasefire
 - child casualties
 topic_tags:
-  - "science and technology"
-  - "conflict, war and peace"
   - "armed conflict"
-  - "weather"
-  - "weather warning"
-  - "health"
+  - "conflict, war and peace"
+  - "disaster, accident and emergency incident"
+  - fire
+  - "human interest"
+  - "human migration"
 storyline_nexus: []
 geographic_location: Gaza Strip
 floor_values_engaged:

@@ -17,7 +17,11 @@ primary_themes:
 - Scientific research and methodology
 - Public safety and aerospace
 - Seismic monitoring applications
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "science and technology"
+  - "scientific research"
+  - "space programme"
 storyline_nexus: []
 geographic_location: United States (Southern California); International (orbital space)
 floor_values_engaged:

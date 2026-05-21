@@ -21,8 +21,10 @@ primary_themes:
 - UN Security Council
 - narco-terrorism
 topic_tags:
-  - politics
+  - "conflict, war and peace"
   - "international relations"
+  - politics
+  - terrorism
 storyline_nexus: []
 geographic_location: United Nations, New York
 floor_values_engaged:

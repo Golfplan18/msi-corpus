@@ -18,7 +18,13 @@ primary_themes:
 - parody
 - court_proceedings
 - litigation
-topic_tags: []
+topic_tags:
+  - "human interest"
+  - education
+  - trial
+  - "economy, business and finance"
+  - crime
+  - "crime, law and justice"
 storyline_nexus: []
 geographic_location: Austin, Texas; Newtown, Connecticut; United States
 floor_values_engaged:

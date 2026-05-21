@@ -17,11 +17,12 @@ primary_themes:
 - Somalia
 - deportation
 topic_tags:
-  - "science and technology"
-  - "politics"
-  - "government"
-  - "human interest"
+  - government
+  - "government policy"
   - "human migration"
+  - "international relations"
+  - "political dissent"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: United States / Minneapolis, Minnesota
 floor_values_engaged:

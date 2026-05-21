@@ -18,7 +18,11 @@ primary_themes:
 - small business
 - Russia-Ukraine war
 - economic pressure
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - "armed conflict"
+  - "science and technology"
+  - "artificial intelligence"
 storyline_nexus: []
 geographic_location: Russia
 floor_values_engaged:

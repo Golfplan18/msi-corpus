@@ -18,7 +18,13 @@ primary_themes:
 - civilian infrastructure attacks
 - energy security
 - peace negotiations
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "artificial intelligence"
+  - "conflict, war and peace"
+  - "economy, business and finance"
+  - "energy and resource"
+  - "peace process"
 storyline_nexus: []
 geographic_location: Voronezh, Russia; Kyiv, Ukraine; Caspian Sea
 floor_values_engaged:

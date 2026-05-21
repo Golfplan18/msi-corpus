@@ -20,7 +20,13 @@ primary_themes:
 - DOJ investigation
 - monetary policy
 - intraparty conflict
-topic_tags: []
+topic_tags:
+  - "arts, culture, entertainment and media"
+  - election
+  - "mass media"
+  - politics
+  - sport
+  - "sport event"
 storyline_nexus: []
 geographic_location: Washington, D.C.
 floor_values_engaged:

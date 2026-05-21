@@ -20,7 +20,13 @@ primary_themes:
 - federal-state relations
 - commercial driver licensing
 - public safety
-topic_tags: []
+topic_tags:
+  - "government policy"
+  - "human migration"
+  - "international relations"
+  - "monetary policy"
+  - politics
+  - "science and technology"
 storyline_nexus: []
 geographic_location: California, United States
 floor_values_engaged:

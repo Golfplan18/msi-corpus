@@ -15,7 +15,9 @@ primary_themes:
 - disaster response
 - waste management
 - Philippines
-topic_tags: []
+topic_tags:
+  - "disaster, accident and emergency incident"
+  - "human interest"
 storyline_nexus: []
 geographic_location: Cebu city, Philippines
 floor_values_engaged:

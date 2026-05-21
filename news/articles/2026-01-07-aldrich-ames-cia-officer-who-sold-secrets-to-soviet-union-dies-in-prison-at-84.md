@@ -14,7 +14,10 @@ primary_themes:
 - Cold War intelligence
 - notable deaths
 - national security
-topic_tags: []
+topic_tags:
+  - "human migration"
+  - "human interest"
+  - labour
 storyline_nexus: []
 geographic_location: Washington, D.C. / Maryland, United States
 floor_values_engaged:

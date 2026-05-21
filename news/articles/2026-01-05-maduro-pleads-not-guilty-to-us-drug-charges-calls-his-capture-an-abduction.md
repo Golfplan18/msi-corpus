@@ -20,7 +20,11 @@ primary_themes:
 - US foreign policy
 topic_tags:
   - "crime, law and justice"
-  - trial
+  - government
+  - "government policy"
+  - "international relations"
+  - politics
+  - prosecution
 storyline_nexus: []
 geographic_location: Manhattan, New York; Caracas, Venezuela
 floor_values_engaged:

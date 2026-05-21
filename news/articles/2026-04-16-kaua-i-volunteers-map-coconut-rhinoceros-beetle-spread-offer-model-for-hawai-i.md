@@ -13,7 +13,13 @@ primary_themes:
 - community science
 - environmental conservation
 - Hawai'i natural resources
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - conservation
+  - environment
+  - government
+  - "government policy"
+  - health
 storyline_nexus: []
 geographic_location: Kaua'i, Hawai'i, United States
 floor_values_engaged:

@@ -19,7 +19,13 @@ primary_themes:
 - marine ecology
 - fisheries management
 - climate change impacts
-topic_tags: []
+topic_tags:
+  - agriculture
+  - "artificial intelligence"
+  - "climate change"
+  - "crime, law and justice"
+  - "economy, business and finance"
+  - environment
 storyline_nexus: []
 geographic_location: Hawaiʻi, United States
 floor_values_engaged:

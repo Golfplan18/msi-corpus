@@ -18,7 +18,13 @@ primary_themes:
 - Grief and resilience amid military operations
 - Israeli-Palestinian tensions
 - Civilian impact of warfare
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - banking
+  - "conflict, war and peace"
+  - "economy, business and finance"
+  - "human interest"
+  - "international relations"
 storyline_nexus: []
 geographic_location: Jerusalem, West Bank, Gaza Strip, Israel
 floor_values_engaged:

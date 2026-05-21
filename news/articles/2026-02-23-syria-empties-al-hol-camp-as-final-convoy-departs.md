@@ -14,7 +14,11 @@ primary_themes:
 - repatriation
 - detention
 - conflict
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "law enforcement"
+  - religion
+  - "belief systems"
 storyline_nexus: []
 geographic_location: northeastern Syria
 floor_values_engaged:

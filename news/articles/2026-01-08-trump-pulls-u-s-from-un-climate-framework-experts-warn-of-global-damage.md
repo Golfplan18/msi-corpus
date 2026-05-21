@@ -15,9 +15,12 @@ primary_themes:
 - environmental governance
 - U.S. foreign policy
 topic_tags:
+  - environment
+  - "climate change"
   - politics
   - government
   - "international relations"
+  - weather
 storyline_nexus: []
 geographic_location: Washington, D.C. / International
 floor_values_engaged:

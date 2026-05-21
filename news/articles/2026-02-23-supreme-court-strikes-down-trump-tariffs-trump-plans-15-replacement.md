@@ -20,7 +20,13 @@ primary_themes:
 - legal_decision
 - international_trade
 - financial_markets
-topic_tags: []
+topic_tags:
+  - "economy, business and finance"
+  - "international trade"
+  - politics
+  - "government policy"
+  - labour
+  - "labour dispute"
 storyline_nexus: []
 geographic_location: United States; China; South Korea; Asia-Pacific; Europe
 floor_values_engaged:

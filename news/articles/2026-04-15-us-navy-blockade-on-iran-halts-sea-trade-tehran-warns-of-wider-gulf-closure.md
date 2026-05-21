@@ -20,7 +20,13 @@ primary_themes:
 - Strait of Hormuz
 - oil supply disruption
 - economic warfare
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "economy, business and finance"
+  - "international relations"
+  - "international trade"
+  - politics
 storyline_nexus: []
 geographic_location: Persian Gulf / Strait of Hormuz / Gulf of Oman
 floor_values_engaged:

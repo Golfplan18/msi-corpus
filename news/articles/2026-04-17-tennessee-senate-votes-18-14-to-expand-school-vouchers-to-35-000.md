@@ -15,7 +15,13 @@ primary_themes:
 - school choice
 - education funding
 - voucher programs
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - education
+  - government
+  - "government policy"
+  - "law enforcement"
+  - politics
 storyline_nexus: []
 geographic_location: Tennessee
 floor_values_engaged:

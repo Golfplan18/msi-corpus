@@ -14,7 +14,10 @@ primary_themes:
 - antitrust enforcement
 - platform access
 - EU digital policy
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - politics
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Brussels, Belgium / European Union
 floor_values_engaged:

@@ -17,7 +17,13 @@ primary_themes:
 - counterterrorism
 - militant groups
 - Syria spillover
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "artificial intelligence"
+  - "conflict, war and peace"
+  - "economy, business and finance"
+  - "energy and resource"
+  - government
 storyline_nexus: []
 geographic_location: South Asia
 floor_values_engaged:

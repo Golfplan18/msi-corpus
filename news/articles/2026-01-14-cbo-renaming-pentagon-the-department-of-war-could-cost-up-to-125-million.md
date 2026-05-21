@@ -20,6 +20,9 @@ primary_themes:
 - federal spending
 - congressional oversight
 topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - government
   - "government policy"
   - politics
 storyline_nexus: []

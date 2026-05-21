@@ -16,8 +16,8 @@ primary_themes:
 - federal regulatory rollback
 topic_tags:
   - environment
-  - "energy and resource"
   - "government policy"
+  - politics
 storyline_nexus: []
 geographic_location: Washington, D.C., United States
 floor_values_engaged:

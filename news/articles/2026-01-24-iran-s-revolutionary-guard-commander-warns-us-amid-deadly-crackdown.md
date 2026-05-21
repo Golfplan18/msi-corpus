@@ -16,7 +16,12 @@ primary_themes:
 - Military escalation
 - Human rights concerns
 - Death penalty
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "human interest"
+  - "international relations"
+  - politics
 storyline_nexus: []
 geographic_location: Iran, Middle East
 floor_values_engaged:

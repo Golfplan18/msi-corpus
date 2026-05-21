@@ -16,10 +16,9 @@ primary_themes:
 - Iran nuclear program
 - security crackdown
 topic_tags:
-  - "conflict, war and peace"
-  - "civil unrest"
-  - "politics"
-  - "political dissent"
+  - society
+  - "crime, law and justice"
+  - "human interest"
 storyline_nexus: []
 geographic_location: Iran
 floor_values_engaged:

@@ -18,9 +18,6 @@ primary_themes:
 - New Year
 topic_tags:
   - "human interest"
-  - "people"
-  - "politics"
-  - "international relations"
 storyline_nexus: []
 geographic_location: Tokyo, Japan
 floor_values_engaged:

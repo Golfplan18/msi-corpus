@@ -14,9 +14,6 @@ primary_themes:
 - energy
 topic_tags:
   - "economy, business and finance"
-  - "computing and information technology"
-  - "politics"
-  - "government policy"
 storyline_nexus: []
 geographic_location: Ashgabat, Turkmenistan
 floor_values_engaged:

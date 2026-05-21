@@ -15,7 +15,12 @@ primary_themes:
 - peace negotiations
 - governance
 - multilateral institutions
-topic_tags: []
+topic_tags:
+  - "disaster, accident and emergency incident"
+  - "economy, business and finance"
+  - election
+  - fire
+  - politics
 storyline_nexus: []
 geographic_location: International
 floor_values_engaged:

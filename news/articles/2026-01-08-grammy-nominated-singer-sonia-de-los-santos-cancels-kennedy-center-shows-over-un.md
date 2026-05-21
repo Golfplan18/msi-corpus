@@ -16,9 +16,12 @@ primary_themes:
 - immigration
 - political-influence-on-cultural-institutions
 topic_tags:
-  - politics
-  - government
-  - "international relations"
+  - "arts and entertainment"
+  - "arts, culture, entertainment and media"
+  - "climate change"
+  - environment
+  - "human interest"
+  - "human migration"
 storyline_nexus: []
 geographic_location: Washington, D.C.
 floor_values_engaged:

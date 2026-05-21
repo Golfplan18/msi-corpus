@@ -17,12 +17,10 @@ primary_themes:
 - civil unrest
 - vehicle incident
 topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
   - "crime, law and justice"
-  - "law"
-  - "crime"
-  - "science and technology"
-  - "artificial intelligence"
-  - "human interest"
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: Los Angeles, California, United States
 floor_values_engaged:

@@ -19,12 +19,9 @@ primary_themes:
 - law enforcement accountability
 - gun violence
 topic_tags:
-  - "science and technology"
-  - "education"
-  - "artificial intelligence"
   - "crime, law and justice"
-  - "trial"
-  - "politics"
+  - prosecution
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: Uvalde, Texas, United States
 floor_values_engaged:

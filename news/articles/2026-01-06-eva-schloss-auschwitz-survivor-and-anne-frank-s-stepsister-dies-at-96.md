@@ -14,8 +14,7 @@ primary_themes:
 - Holocaust education
 - Notable deaths
 topic_tags:
-  - "human interest"
-  - people
+  - education
 storyline_nexus: []
 geographic_location: London, United Kingdom
 floor_values_engaged:

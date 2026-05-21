@@ -16,7 +16,13 @@ primary_themes:
 - trade tariffs
 - Ukraine war
 - historical context
-topic_tags: []
+topic_tags:
+  - politics
+  - "government policy"
+  - "international relations"
+  - "economy, business and finance"
+  - "conflict, war and peace"
+  - "international trade"
 storyline_nexus: []
 geographic_location: United States, Europe
 floor_values_engaged:

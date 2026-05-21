@@ -19,7 +19,13 @@ primary_themes:
 - entertainment industry
 - copyright
 - content creation
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "economy, business and finance"
+  - "science and technology"
+  - "artificial intelligence"
+  - "arts, culture, entertainment and media"
+  - "arts and entertainment"
 storyline_nexus: []
 geographic_location: Las Vegas, Nevada, United States
 floor_values_engaged:

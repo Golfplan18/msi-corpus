@@ -24,7 +24,11 @@ primary_themes:
 - inflation expectations
 - corporate earnings
 - central banking
-topic_tags: []
+topic_tags:
+  - banking
+  - "economy, business and finance"
+  - "market and exchange"
+  - politics
 storyline_nexus: []
 geographic_location: United States, Japan
 floor_values_engaged:

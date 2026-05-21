@@ -18,11 +18,12 @@ primary_themes:
 - West Africa
 - militant insurgency
 topic_tags:
-  - "science and technology"
-  - "disaster, accident and emergency incident"
-  - "transportation accident and incident"
-  - "human interest"
+  - "accident and emergency incident"
+  - agriculture
   - "artificial intelligence"
+  - crime
+  - "crime, law and justice"
+  - "disaster, accident and emergency incident"
 storyline_nexus: []
 geographic_location: Diré, Timbuktu Region, Mali
 floor_values_engaged:

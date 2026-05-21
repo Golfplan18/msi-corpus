@@ -22,7 +22,11 @@ primary_themes:
 - ratepayer protection
 - tech industry self-regulation
 - utility affordability
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "economy, business and finance"
+  - "energy and resource"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Washington, D.C.
 floor_values_engaged:

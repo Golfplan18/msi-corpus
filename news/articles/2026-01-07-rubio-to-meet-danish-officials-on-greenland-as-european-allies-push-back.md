@@ -24,7 +24,13 @@ primary_themes:
 - U.S. foreign policy
 - Denmark-U.S. relations
 - European security
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - government
+  - "international relations"
+  - "political dissent"
+  - politics
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Greenland; Washington, D.C.; Copenhagen, Denmark
 floor_values_engaged:

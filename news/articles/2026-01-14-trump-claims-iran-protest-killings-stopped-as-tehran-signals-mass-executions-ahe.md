@@ -19,6 +19,10 @@ primary_themes:
 topic_tags:
   - "civil unrest"
   - "conflict, war and peace"
+  - "crime, law and justice"
+  - "law enforcement"
+  - "political dissent"
+  - trial
 storyline_nexus: []
 geographic_location: Washington, D.C. / Tehran, Iran
 floor_values_engaged:

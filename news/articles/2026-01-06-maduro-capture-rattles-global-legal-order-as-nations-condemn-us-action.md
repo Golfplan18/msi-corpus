@@ -22,8 +22,12 @@ primary_themes:
 - sovereignty
 - military intervention
 topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
   - "crime, law and justice"
-  - "international law"
+  - government
+  - "government policy"
+  - "international relations"
 storyline_nexus: []
 geographic_location: The Hague / New York / Caracas
 floor_values_engaged:

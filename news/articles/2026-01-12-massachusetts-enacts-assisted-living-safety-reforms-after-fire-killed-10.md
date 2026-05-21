@@ -18,7 +18,9 @@ primary_themes:
 - elder care accountability
 - public records and transparency
 - long-term care affordability
-topic_tags: []
+topic_tags:
+  - "disaster, accident and emergency incident"
+  - fire
 storyline_nexus: []
 geographic_location: Fall River, Massachusetts, United States
 floor_values_engaged:

@@ -24,8 +24,12 @@ primary_themes:
 - consumer information
 - New Year's Day
 topic_tags:
-  - "economy, business and finance"
-  - "business information"
+  - "crime, law and justice"
+  - "government policy"
+  - "human migration"
+  - "international relations"
+  - "law enforcement"
+  - trial
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

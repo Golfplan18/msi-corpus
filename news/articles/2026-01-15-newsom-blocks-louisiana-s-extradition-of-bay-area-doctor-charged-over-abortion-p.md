@@ -14,7 +14,8 @@ primary_themes:
 - extradition
 - state jurisdiction
 - reproductive health
-topic_tags: []
+topic_tags:
+  - health
 storyline_nexus: []
 geographic_location: Sacramento, California; Louisiana; United States
 floor_values_engaged:

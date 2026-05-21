@@ -28,7 +28,13 @@ primary_themes:
 - Greenland territorial dispute
 - Trump foreign policy
 - Ukraine war
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "economy, business and finance"
+  - government
+  - "government policy"
+  - "international trade"
 storyline_nexus: []
 geographic_location: Brussels/Europe/International
 floor_values_engaged:

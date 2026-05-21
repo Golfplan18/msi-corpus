@@ -14,7 +14,11 @@ primary_themes:
 - cycling
 - peer support
 - military service
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "competition discipline"
+  - "conflict, war and peace"
+  - sport
 storyline_nexus: []
 geographic_location: Florida Keys, Florida, United States
 floor_values_engaged:

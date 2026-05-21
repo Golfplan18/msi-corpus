@@ -16,7 +16,13 @@ primary_themes:
 - South Asia diplomacy
 - Bangladesh politics
 - post-uprising transition
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "arts, culture, entertainment and media"
+  - "conflict, war and peace"
+  - "international relations"
+  - politics
+  - "social media"
 storyline_nexus: []
 geographic_location: Dhaka, Bangladesh
 floor_values_engaged:

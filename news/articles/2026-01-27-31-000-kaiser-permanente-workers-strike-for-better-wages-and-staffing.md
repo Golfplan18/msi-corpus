@@ -14,7 +14,11 @@ primary_themes:
 - health_care_industry
 - wage_negotiations
 - worker_organizing
-topic_tags: []
+topic_tags:
+  - labour
+  - health
+  - "economy, business and finance"
+  - "labour dispute"
 storyline_nexus: []
 geographic_location: California, Hawaii
 floor_values_engaged:

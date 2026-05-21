@@ -14,7 +14,11 @@ primary_themes:
 - data security
 - law enforcement
 - tax policy
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - government
+  - "law enforcement"
+  - politics
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

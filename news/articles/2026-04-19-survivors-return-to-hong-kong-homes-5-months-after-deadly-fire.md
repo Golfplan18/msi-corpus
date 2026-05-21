@@ -17,7 +17,10 @@ primary_themes:
 - loss_and_grief
 - housing_crisis
 - governmental_policy
-topic_tags: []
+topic_tags:
+  - government
+  - politics
+  - society
 storyline_nexus: []
 geographic_location: Tai Po district, Hong Kong
 floor_values_engaged:

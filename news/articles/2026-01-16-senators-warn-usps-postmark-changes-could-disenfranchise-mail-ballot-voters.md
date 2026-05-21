@@ -14,7 +14,10 @@ primary_themes:
 - USPS operations
 - voter access
 - 2026 midterm elections
-topic_tags: []
+topic_tags:
+  - politics
+  - election
+  - government
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

@@ -14,7 +14,9 @@ primary_themes:
 - Executive power
 - Trade policy
 - Constitutional law
-topic_tags: []
+topic_tags:
+  - "economy, business and finance"
+  - "international trade"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

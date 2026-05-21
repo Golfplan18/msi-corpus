@@ -19,7 +19,9 @@ primary_themes:
 - US-Iran military tensions
 - Middle East security
 - Ukraine war technology transfer
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: Middle East; Ukraine; United States
 floor_values_engaged:

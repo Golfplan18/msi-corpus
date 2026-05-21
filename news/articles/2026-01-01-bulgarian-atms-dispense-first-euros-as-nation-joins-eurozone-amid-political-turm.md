@@ -16,10 +16,12 @@ primary_themes:
 - political instability
 - anti-corruption protests
 topic_tags:
-  - "economy, business and finance"
-  - "monetary policy"
-  - "politics"
+  - "civil unrest"
+  - "conflict, war and peace"
+  - government
   - "political dissent"
+  - politics
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Sofia, Bulgaria
 floor_values_engaged:

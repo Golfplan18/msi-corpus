@@ -18,7 +18,9 @@ primary_themes:
 - institutional investor homebuying
 - housing supply shortage
 - federal and state housing policy
-topic_tags: []
+topic_tags:
+  - "economy, business and finance"
+  - "government policy"
 storyline_nexus: []
 geographic_location: United States; Texas
 floor_values_engaged:

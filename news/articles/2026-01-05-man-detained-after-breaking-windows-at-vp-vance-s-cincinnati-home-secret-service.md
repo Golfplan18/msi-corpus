@@ -13,7 +13,6 @@ primary_themes:
 - property crime
 topic_tags:
   - "crime, law and justice"
-  - crime
 storyline_nexus: []
 geographic_location: Cincinnati, Ohio
 floor_values_engaged:

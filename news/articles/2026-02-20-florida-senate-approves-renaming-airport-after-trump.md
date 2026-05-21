@@ -16,7 +16,13 @@ primary_themes:
 - presidential_honors
 - state_politics
 - trademark
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "economy, business and finance"
+  - government
+  - "government policy"
+  - "international relations"
+  - "international trade"
 storyline_nexus: []
 geographic_location: West Palm Beach, Florida, United States
 floor_values_engaged:

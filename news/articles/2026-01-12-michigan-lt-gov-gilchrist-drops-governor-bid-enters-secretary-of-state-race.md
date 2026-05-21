@@ -11,7 +11,9 @@ primary_themes:
 - 2026 elections
 - Michigan politics
 - election administration
-topic_tags: []
+topic_tags:
+  - election
+  - politics
 storyline_nexus: []
 geographic_location: Lansing, Michigan, United States
 floor_values_engaged:

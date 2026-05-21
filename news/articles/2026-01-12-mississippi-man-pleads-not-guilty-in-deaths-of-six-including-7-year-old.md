@@ -15,7 +15,11 @@ primary_themes:
 - gun violence
 - capital punishment
 - homicide
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - religion
+  - "religious institution"
+  - trial
 storyline_nexus: []
 geographic_location: West Point, Clay County, Mississippi
 floor_values_engaged:

@@ -17,7 +17,8 @@ primary_themes:
 - U.S.-Venezuela relations
 - foreign direct investment
 - energy markets
-topic_tags: []
+topic_tags:
+  - "economy, business and finance"
 storyline_nexus: []
 geographic_location: Venezuela
 floor_values_engaged:

@@ -15,7 +15,10 @@ primary_themes:
 - Native American tribal sovereignty
 - racial profiling
 - federal-tribal relations
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "human interest"
+  - "human migration"
 storyline_nexus: []
 geographic_location: United States — Pine Ridge Reservation (South Dakota), Minneapolis (Minnesota)
 floor_values_engaged:

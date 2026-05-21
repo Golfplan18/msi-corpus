@@ -17,7 +17,11 @@ primary_themes:
 - natural disaster
 - emergency response
 - tornado season
-topic_tags: []
+topic_tags:
+  - "crime"
+  - "crime, law and justice"
+  - "disaster, accident and emergency incident"
+  - "natural disaster"
 storyline_nexus: []
 geographic_location: Michigan and Oklahoma, United States
 floor_values_engaged:

@@ -18,7 +18,11 @@ primary_themes:
 - opioid crisis
 - legislative debate
 - public health
-topic_tags: []
+topic_tags:
+  - government
+  - health
+  - politics
+  - "public health"
 storyline_nexus: []
 geographic_location: Indiana, United States
 floor_values_engaged:

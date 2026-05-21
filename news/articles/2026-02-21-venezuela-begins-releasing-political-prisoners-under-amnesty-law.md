@@ -13,7 +13,9 @@ primary_themes:
 - political prisoners
 - Venezuela
 - human rights
-topic_tags: []
+topic_tags:
+  - "human interest"
+  - people
 storyline_nexus: []
 geographic_location: Venezuela
 floor_values_engaged:

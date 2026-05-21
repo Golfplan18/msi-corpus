@@ -16,7 +16,8 @@ primary_themes:
 - US-Venezuela relations
 - Maduro capture
 - diplomatic relations
-topic_tags: []
+topic_tags:
+  - politics
 storyline_nexus: []
 geographic_location: Venezuela
 floor_values_engaged:

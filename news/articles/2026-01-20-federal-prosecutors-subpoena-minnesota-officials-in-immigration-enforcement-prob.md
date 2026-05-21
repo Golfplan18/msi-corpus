@@ -24,7 +24,12 @@ primary_themes:
 - federal-state conflict
 - constitutional questions
 - accountability_of_power
-topic_tags: []
+topic_tags:
+  - "human interest"
+  - "human migration"
+  - "science and technology"
+  - sport
+  - "sport event"
 storyline_nexus: []
 geographic_location: Minneapolis-St. Paul, Minnesota
 floor_values_engaged:

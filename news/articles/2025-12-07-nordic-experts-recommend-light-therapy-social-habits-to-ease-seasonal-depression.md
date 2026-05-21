@@ -20,10 +20,8 @@ primary_themes:
 - circadian rhythm
 - Nordic wellness
 topic_tags:
-  - "health"
+  - health
   - "mental health"
-  - "lifestyle and leisure"
-  - "lifestyle"
 storyline_nexus: []
 geographic_location: Norway, Sweden, Finland
 floor_values_engaged:

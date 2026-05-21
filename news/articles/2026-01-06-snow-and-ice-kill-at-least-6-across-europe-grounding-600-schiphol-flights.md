@@ -15,7 +15,12 @@ primary_themes:
 - winter storm
 - travel disruption
 - Europe
-topic_tags: []
+topic_tags:
+  - "arts, culture, entertainment and media"
+  - "disaster, accident and emergency incident"
+  - "mass media"
+  - weather
+  - "weather warning"
 storyline_nexus: []
 geographic_location: Europe (France, Netherlands, Britain, Italy, Bosnia, Serbia, Montenegro, Croatia)
 floor_values_engaged:

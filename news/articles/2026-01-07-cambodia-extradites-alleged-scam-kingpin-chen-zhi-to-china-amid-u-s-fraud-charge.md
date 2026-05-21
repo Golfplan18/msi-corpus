@@ -16,7 +16,12 @@ primary_themes:
 - Southeast Asia scam networks
 - international law enforcement
 - sanctions
-topic_tags: []
+topic_tags:
+  - crime
+  - "crime, law and justice"
+  - "international relations"
+  - "law enforcement"
+  - politics
 storyline_nexus: []
 geographic_location: Bangkok, Thailand / Phnom Penh, Cambodia
 floor_values_engaged:

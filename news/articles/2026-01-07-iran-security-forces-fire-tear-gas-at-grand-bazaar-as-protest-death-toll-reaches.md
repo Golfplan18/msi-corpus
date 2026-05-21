@@ -17,7 +17,13 @@ primary_themes:
 - state security response
 - Iran domestic politics
 - U.S.-Iran tensions
-topic_tags: []
+topic_tags:
+  - "disaster, accident and emergency incident"
+  - fire
+  - "economy, business and finance"
+  - "market and exchange"
+  - "arts, culture, entertainment and media"
+  - "arts and entertainment"
 storyline_nexus: []
 geographic_location: Tehran, Iran; Ilam province, Iran
 floor_values_engaged:

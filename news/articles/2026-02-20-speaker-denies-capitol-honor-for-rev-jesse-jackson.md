@@ -11,7 +11,12 @@ primary_themes:
 - Capitol honors
 - civil rights legacy
 - memorial procedures
-topic_tags: []
+topic_tags:
+  - discrimination
+  - politics
+  - "human interest"
+  - society
+  - "human migration"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

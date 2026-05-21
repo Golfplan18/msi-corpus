@@ -21,12 +21,8 @@ primary_themes:
 - renewable energy
 - national security claims
 topic_tags:
-  - "artificial intelligence"
-  - "economy, business and finance"
-  - "energy and resource"
-  - environment
-  - "science and technology"
-  - "space programme"
+  - "government policy"
+  - politics
 storyline_nexus: []
 geographic_location: New York, United States
 floor_values_engaged:

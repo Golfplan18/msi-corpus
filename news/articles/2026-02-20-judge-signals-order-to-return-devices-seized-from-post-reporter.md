@@ -18,7 +18,13 @@ primary_themes:
 - Leak investigation
 - Judicial review
 - Reporter protections
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - "government policy"
+  - "human migration"
+  - "international relations"
+  - "monetary policy"
+  - politics
 storyline_nexus: []
 geographic_location: Alexandria, Virginia, United States
 floor_values_engaged:

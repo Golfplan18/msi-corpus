@@ -20,7 +20,13 @@ primary_themes:
 - US-Europe relations
 - trade policy
 - Arctic security
-topic_tags: []
+topic_tags:
+  - politics
+  - society
+  - "government policy"
+  - "international relations"
+  - "economy, business and finance"
+  - labour
 storyline_nexus: []
 geographic_location: Greenland; Denmark; European Union; United States
 floor_values_engaged:

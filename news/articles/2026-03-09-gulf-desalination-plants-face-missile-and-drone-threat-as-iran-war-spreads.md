@@ -21,7 +21,13 @@ primary_themes:
 - desalination infrastructure
 - civilian infrastructure vulnerability
 - Persian Gulf conflict
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - employment
+  - labour
+  - "labour dispute"
+  - sport
+  - "sport event"
 storyline_nexus: []
 geographic_location: Persian Gulf region
 floor_values_engaged:

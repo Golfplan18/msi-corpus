@@ -18,7 +18,11 @@ primary_themes:
 - drone warfare
 - peace diplomacy
 - civilian casualties
-topic_tags: []
+topic_tags:
+  - politics
+  - government
+  - "international relations"
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: Belgorod, Russia; Kursk, Russia; Kharkiv, Ukraine; Paris, France
 floor_values_engaged:

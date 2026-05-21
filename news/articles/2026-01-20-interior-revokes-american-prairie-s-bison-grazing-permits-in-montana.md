@@ -16,7 +16,13 @@ primary_themes:
 - conservation versus livestock interests
 - federal environmental decision
 - wildlife management
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - conservation
+  - economy
+  - "economy, business and finance"
+  - environment
+  - government
 storyline_nexus: []
 geographic_location: Phillips County, Montana, United States
 floor_values_engaged:

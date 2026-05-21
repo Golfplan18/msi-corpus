@@ -13,7 +13,13 @@ primary_themes:
 - Monetary policy
 - Consumer spending
 - Labor market
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - economy
+  - "economy, business and finance"
+  - government
+  - "government policy"
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

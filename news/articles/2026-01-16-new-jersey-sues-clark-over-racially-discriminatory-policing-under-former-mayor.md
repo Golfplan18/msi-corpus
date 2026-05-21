@@ -17,7 +17,9 @@ primary_themes:
 - racial bias in law enforcement
 - municipal accountability
 - corruption
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: Clark, New Jersey, United States
 floor_values_engaged:

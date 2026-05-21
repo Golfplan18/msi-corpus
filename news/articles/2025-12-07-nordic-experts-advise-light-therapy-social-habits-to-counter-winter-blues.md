@@ -16,10 +16,11 @@ primary_themes:
 - mental health
 - Nordic winter culture
 topic_tags:
-  - "health"
-  - "mental health"
-  - "lifestyle and leisure"
-  - "lifestyle"
+  - "arts, culture, entertainment and media"
+  - health
+  - "human interest"
+  - "social media"
+  - society
 storyline_nexus: []
 geographic_location: Norway, Sweden, Finland
 floor_values_engaged:

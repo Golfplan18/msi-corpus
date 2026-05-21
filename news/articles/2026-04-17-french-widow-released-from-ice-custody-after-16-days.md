@@ -14,7 +14,13 @@ primary_themes:
 - family dispute
 - government accountability
 - international relations
-topic_tags: []
+topic_tags:
+  - "government policy"
+  - "human migration"
+  - "international relations"
+  - "monetary policy"
+  - politics
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Alabama, Louisiana, United States; France
 floor_values_engaged:

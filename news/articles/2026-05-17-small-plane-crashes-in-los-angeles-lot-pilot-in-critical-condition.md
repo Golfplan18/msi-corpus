@@ -10,7 +10,9 @@ primary_themes:
 - transportation safety
 - accidents
 - infrastructure
-topic_tags: []
+topic_tags:
+  - "disaster, accident and emergency incident"
+  - "transportation accident and incident"
 storyline_nexus: []
 geographic_location: Pacoima, Los Angeles, California, United States
 floor_values_engaged:

@@ -13,7 +13,11 @@ primary_themes:
 - Immigration enforcement
 - Federal prosecution
 - Trial verdict
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "human interest"
+  - "human migration"
+  - trial
 storyline_nexus: []
 geographic_location: Chicago, Illinois, United States
 floor_values_engaged:

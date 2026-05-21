@@ -16,7 +16,13 @@ primary_themes:
 - Cultural heritage destruction
 - International accountability
 - War crimes documentation
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "artificial intelligence"
+  - "conflict, war and peace"
+  - "international relations"
+  - politics
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Ukraine, Russia, Poland, Italy
 floor_values_engaged:

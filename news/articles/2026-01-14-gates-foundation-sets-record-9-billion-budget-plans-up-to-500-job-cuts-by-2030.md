@@ -16,8 +16,6 @@ primary_themes:
 - artificial intelligence
 topic_tags:
   - "artificial intelligence"
-  - "construction and property"
-  - "economy, business and finance"
   - health
   - "science and technology"
 storyline_nexus: []

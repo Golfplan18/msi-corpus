@@ -19,7 +19,7 @@ primary_themes:
 - New Year
 topic_tags:
   - "disaster, accident and emergency incident"
-  - "fire"
+  - fire
 storyline_nexus: []
 geographic_location: Crans-Montana, Valais, Switzerland
 floor_values_engaged:

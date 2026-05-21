@@ -19,7 +19,12 @@ primary_themes:
 - winter sports
 - environmental impact
 - Milan-Cortina Olympics
-topic_tags: []
+topic_tags:
+  - environment
+  - "climate change"
+  - sport
+  - "sport event"
+  - weather
 storyline_nexus: []
 geographic_location: Italy; Alps; Dolomites; Cortina d'Ampezzo
 floor_values_engaged:

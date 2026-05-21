@@ -13,7 +13,11 @@ primary_themes:
 - Vermont politics
 - federal prosecutors
 - state courts
-topic_tags: []
+topic_tags:
+  - politics
+  - government
+  - "crime, law and justice"
+  - judiciary
 storyline_nexus: []
 geographic_location: Vermont, United States
 floor_values_engaged:

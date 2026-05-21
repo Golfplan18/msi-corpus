@@ -16,7 +16,12 @@ primary_themes:
 - environmental conservation
 - ocean degradation
 - policy enforcement
-topic_tags: []
+topic_tags:
+  - conservation
+  - "crime, law and justice"
+  - environment
+  - "science and technology"
+  - trial
 storyline_nexus: []
 geographic_location: Scotland, United Kingdom; West Coast Scotland; Isle of Skye; Clyde
 floor_values_engaged:

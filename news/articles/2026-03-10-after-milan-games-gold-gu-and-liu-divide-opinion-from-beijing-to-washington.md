@@ -18,7 +18,8 @@ primary_themes:
 - U.S.-China relations
 - national loyalty and citizenship
 - congressional legislation
-topic_tags: []
+topic_tags:
+  - politics
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

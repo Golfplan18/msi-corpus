@@ -18,7 +18,8 @@ primary_themes:
 - pipe bomb investigation
 - political pardons
 - historical record
-topic_tags: []
+topic_tags:
+  - politics
 storyline_nexus: []
 geographic_location: Washington, D.C.
 floor_values_engaged:

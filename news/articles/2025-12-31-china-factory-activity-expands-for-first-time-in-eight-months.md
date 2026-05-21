@@ -17,7 +17,12 @@ primary_themes:
 - trade tensions
 - property sector downturn
 - industrial overcapacity
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "economy, business and finance"
+  - "international trade"
+  - "market and exchange"
+  - trial
 storyline_nexus: []
 geographic_location: China
 floor_values_engaged:

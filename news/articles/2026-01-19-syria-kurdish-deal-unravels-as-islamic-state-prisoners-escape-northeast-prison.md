@@ -17,7 +17,13 @@ primary_themes:
 - Kurdish-Arab relations
 - regional security
 - prison security
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "conflict, war and peace"
+  - "disaster, accident and emergency incident"
+  - fire
+  - government
+  - "government policy"
 storyline_nexus: []
 geographic_location: Northeast Syria
 floor_values_engaged:

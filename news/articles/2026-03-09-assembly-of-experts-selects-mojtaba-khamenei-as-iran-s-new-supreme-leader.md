@@ -15,7 +15,13 @@ primary_themes:
 - Iran-Israel-US conflict
 - nuclear proliferation risk
 - theocratic governance
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - "economy, business and finance"
+  - "market and exchange"
+  - "science and technology"
+  - sport
+  - "sport event"
 storyline_nexus: []
 geographic_location: Iran
 floor_values_engaged:

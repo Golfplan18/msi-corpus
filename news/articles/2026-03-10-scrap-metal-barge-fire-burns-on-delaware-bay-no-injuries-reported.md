@@ -13,7 +13,9 @@ primary_themes:
 - fire response
 - environmental monitoring
 - multi-agency emergency response
-topic_tags: []
+topic_tags:
+  - "disaster, accident and emergency incident"
+  - fire
 storyline_nexus: []
 geographic_location: Delaware Bay, Delaware/New Jersey, United States
 floor_values_engaged:

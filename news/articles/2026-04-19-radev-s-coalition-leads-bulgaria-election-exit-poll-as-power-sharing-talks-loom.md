@@ -14,7 +14,9 @@ primary_themes:
 - political instability
 - corruption
 - Eastern Europe
-topic_tags: []
+topic_tags:
+  - election
+  - politics
 storyline_nexus: []
 geographic_location: Bulgaria
 floor_values_engaged:

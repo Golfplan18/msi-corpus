@@ -16,7 +16,10 @@ primary_themes:
 - U.S.-Iran relations
 - execution threats
 - internet blackout
-topic_tags: []
+topic_tags:
+  - politics
+  - government
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: Iran; Washington, D.C.; Dubai, UAE
 floor_values_engaged:

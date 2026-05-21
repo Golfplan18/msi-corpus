@@ -18,7 +18,12 @@ primary_themes:
 - executive orders
 - tariffs
 topic_tags:
-  - "conflict, war and peace"
+  - "accident and emergency incident"
+  - "artificial intelligence"
+  - "crime, law and justice"
+  - "disaster, accident and emergency incident"
+  - "economy, business and finance"
+  - education
 storyline_nexus: []
 geographic_location: Washington, D.C.
 floor_values_engaged:

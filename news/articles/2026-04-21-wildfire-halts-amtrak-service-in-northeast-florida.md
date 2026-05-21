@@ -13,7 +13,13 @@ primary_themes:
 - transportation
 - weather
 - service disruption
-topic_tags: []
+topic_tags:
+  - "disaster, accident and emergency incident"
+  - fire
+  - "government policy"
+  - "human migration"
+  - "international relations"
+  - "natural disaster"
 storyline_nexus: []
 geographic_location: Northeast Florida (Putnam and Clay counties)
 floor_values_engaged:

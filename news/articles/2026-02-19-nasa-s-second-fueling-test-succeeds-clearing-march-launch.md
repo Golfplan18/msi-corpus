@@ -15,7 +15,10 @@ primary_themes:
 - human spaceflight
 - mission readiness
 - technical challenge resolution
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "science and technology"
+  - "space programme"
 storyline_nexus: []
 geographic_location: Kennedy Space Center, Cape Canaveral, Florida, United States
 floor_values_engaged:

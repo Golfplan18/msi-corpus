@@ -21,11 +21,6 @@ primary_themes:
 - reentry barriers
 topic_tags:
   - "crime, law and justice"
-  - "crime"
-  - "science and technology"
-  - "technology and engineering"
-  - "health"
-  - "human interest"
 storyline_nexus: []
 geographic_location: Hawai'i, United States
 floor_values_engaged:

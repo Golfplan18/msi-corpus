@@ -15,8 +15,7 @@ primary_themes:
 - traffic accident
 - Indiana politics
 topic_tags:
-  - "human interest"
-  - people
+  - health
 storyline_nexus: []
 geographic_location: Indiana, United States
 floor_values_engaged:

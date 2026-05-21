@@ -19,7 +19,13 @@ primary_themes:
 - USMCA
 - Canada-China-relations
 - Trump-trade-policy
-topic_tags: []
+topic_tags:
+  - "accident and emergency incident"
+  - "artificial intelligence"
+  - "disaster, accident and emergency incident"
+  - "economy, business and finance"
+  - government
+  - "government policy"
 storyline_nexus: []
 geographic_location: Canada; China; International
 floor_values_engaged:

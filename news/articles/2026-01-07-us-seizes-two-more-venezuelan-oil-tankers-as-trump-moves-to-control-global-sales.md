@@ -22,9 +22,8 @@ primary_themes:
 - US foreign policy
 - shadow fleet
 topic_tags:
-  - politics
-  - "energy and resource"
   - "economy, business and finance"
+  - politics
 storyline_nexus: []
 geographic_location: Venezuela, North Atlantic, Caribbean Sea
 floor_values_engaged:

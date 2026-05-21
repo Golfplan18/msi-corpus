@@ -16,10 +16,12 @@ primary_themes:
 - gen_z_activism
 - nepal_politics
 topic_tags:
-  - "politics"
-  - "political process"
-  - "conflict, war and peace"
   - "civil unrest"
+  - "conflict, war and peace"
+  - election
+  - government
+  - "political dissent"
+  - "political process"
 storyline_nexus: []
 geographic_location: Kathmandu, Nepal
 floor_values_engaged:

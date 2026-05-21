@@ -14,7 +14,9 @@ primary_themes:
 - tourism
 - Mexico
 - emergency
-topic_tags: []
+topic_tags:
+  - "disaster, accident and emergency incident"
+  - "fire"
 storyline_nexus: []
 geographic_location: Punta Zicatela, Oaxaca, Mexico
 floor_values_engaged:

@@ -16,7 +16,8 @@ primary_themes:
 - washington_dc_monuments
 - federal_regulatory_review
 - presidential_legacy_projects
-topic_tags: []
+topic_tags:
+  - politics
 storyline_nexus: []
 geographic_location: Washington, D.C.
 floor_values_engaged:

@@ -21,7 +21,9 @@ primary_themes:
 - law enforcement video evidence
 - immigration enforcement
 - disinformation
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: Minneapolis, Minnesota
 floor_values_engaged:

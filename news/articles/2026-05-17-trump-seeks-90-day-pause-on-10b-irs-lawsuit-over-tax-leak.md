@@ -13,7 +13,11 @@ primary_themes:
 - Litigation
 - Tax Policy
 - Government Accountability
-topic_tags: []
+topic_tags:
+  - politics
+  - "crime, law and justice"
+  - government
+  - law
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

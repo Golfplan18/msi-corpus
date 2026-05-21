@@ -17,7 +17,12 @@ primary_themes:
 - IVF
 - federal policy
 - midterm elections
-topic_tags: []
+topic_tags:
+  - politics
+  - election
+  - "human interest"
+  - "government policy"
+  - "human migration"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

@@ -13,7 +13,11 @@ primary_themes:
 - wildlife welfare in captivity
 - human-animal bonds
 - behavioral science and cognitive engagement
-topic_tags: []
+topic_tags:
+  - "human interest"
+  - people
+  - society
+  - communities
 storyline_nexus: []
 geographic_location: Boston, Massachusetts, United States
 floor_values_engaged:

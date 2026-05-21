@@ -18,8 +18,12 @@ primary_themes:
 - civilian casualties
 - military strikes
 topic_tags:
-  - "conflict, war and peace"
   - "armed conflict"
+  - "conflict, war and peace"
+  - "disaster, accident and emergency incident"
+  - fire
+  - labour
+  - "labour dispute"
 storyline_nexus: []
 geographic_location: Muwasi area, northwest Khan Younis, southern Gaza Strip
 floor_values_engaged:

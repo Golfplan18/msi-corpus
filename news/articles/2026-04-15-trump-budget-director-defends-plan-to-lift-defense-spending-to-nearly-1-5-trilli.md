@@ -17,7 +17,9 @@ primary_themes:
 - Iran war
 - domestic program cuts
 - congressional oversight
-topic_tags: []
+topic_tags:
+  - politics
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: Washington, D.C.
 floor_values_engaged:

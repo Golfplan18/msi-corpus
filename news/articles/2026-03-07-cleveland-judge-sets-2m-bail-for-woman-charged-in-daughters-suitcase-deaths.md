@@ -13,7 +13,9 @@ primary_themes:
 - criminal_justice
 - child_welfare
 - homicide
-topic_tags: []
+topic_tags:
+  - "crime"
+  - "crime, law and justice"
 storyline_nexus: []
 geographic_location: Cleveland, Ohio
 floor_values_engaged:

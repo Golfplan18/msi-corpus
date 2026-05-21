@@ -19,7 +19,10 @@ primary_themes:
 - Criminal trial
 - Impunity
 - Latin America
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - prosecution
+  - environment
 storyline_nexus: []
 geographic_location: San Martín, Peru
 floor_values_engaged:

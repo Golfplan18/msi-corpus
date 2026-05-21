@@ -13,7 +13,10 @@ primary_themes:
 - criminal investigation
 - child protection
 - international law enforcement
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - crime
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: Morocco, Algeria, France
 floor_values_engaged:

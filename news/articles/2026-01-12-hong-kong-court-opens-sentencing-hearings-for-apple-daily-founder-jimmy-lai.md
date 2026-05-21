@@ -16,7 +16,13 @@ primary_themes:
 - Hong Kong judiciary
 - political imprisonment
 - international diplomacy
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "crime, law and justice"
+  - government
+  - politics
+  - "science and technology"
+  - trial
 storyline_nexus: []
 geographic_location: Hong Kong
 floor_values_engaged:

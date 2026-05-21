@@ -14,7 +14,12 @@ primary_themes:
 - federal funding
 - crisis services
 - LGBTQ+ services
-topic_tags: []
+topic_tags:
+  - politics
+  - health
+  - "human interest"
+  - "government policy"
+  - "human migration"
 storyline_nexus: []
 geographic_location: Texas, United States
 floor_values_engaged:

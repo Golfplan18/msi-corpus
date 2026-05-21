@@ -20,7 +20,13 @@ primary_themes:
 - nonconsensual imagery
 - digital rights
 - platform accountability
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "business information"
+  - "crime, law and justice"
+  - "economy, business and finance"
+  - government
+  - "government policy"
 storyline_nexus: []
 geographic_location: Malaysia; Indonesia; United Kingdom
 floor_values_engaged:

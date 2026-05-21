@@ -14,7 +14,9 @@ primary_themes:
 - hawaii_politics
 - women_in_politics
 - us_congress
-topic_tags: []
+topic_tags:
+  - "government policy"
+  - "politics"
 storyline_nexus: []
 geographic_location: Honolulu, Hawaii, United States
 floor_values_engaged:

@@ -16,7 +16,12 @@ primary_themes:
 - renewable energy
 - agriculture
 - economic impact
-topic_tags: []
+topic_tags:
+  - agriculture
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "economy, business and finance"
+  - politics
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

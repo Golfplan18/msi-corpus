@@ -16,7 +16,12 @@ primary_themes:
 - immigration enforcement
 - Minnesota politics
 - economic impact
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "economy, business and finance"
+  - "international trade"
+  - "law enforcement"
+  - politics
 storyline_nexus: []
 geographic_location: Minnesota, United States
 floor_values_engaged:

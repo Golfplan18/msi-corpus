@@ -16,7 +16,13 @@ primary_themes:
 - federal investigation
 - education technology
 - public procurement
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "corruption"
+  - "education"
+  - "education policy"
+  - "politics"
+  - "government"
 storyline_nexus: []
 geographic_location: Hawaiʻi, United States
 floor_values_engaged:

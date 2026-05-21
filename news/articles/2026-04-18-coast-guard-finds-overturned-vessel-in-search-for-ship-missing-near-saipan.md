@@ -14,7 +14,13 @@ primary_themes:
 - natural_disaster
 - missing_persons
 - marine_safety
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "arts, culture, entertainment and media"
+  - "disaster, accident and emergency incident"
+  - "mass media"
+  - "science and technology"
+  - "transportation accident and incident"
 storyline_nexus: []
 geographic_location: Saipan, U.S. territory; western Pacific Ocean
 floor_values_engaged:

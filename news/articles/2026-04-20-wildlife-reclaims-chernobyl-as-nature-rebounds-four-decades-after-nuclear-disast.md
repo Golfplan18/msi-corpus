@@ -13,7 +13,12 @@ primary_themes:
 - nuclear disaster aftermath
 - nature resilience
 - war impacts on environment
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - conservation
+  - "disaster, accident and emergency incident"
+  - environment
 storyline_nexus: []
 geographic_location: Ukraine/Belarus border (Chernobyl exclusion zone)
 floor_values_engaged:

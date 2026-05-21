@@ -16,7 +16,6 @@ primary_themes:
 - constitutional-law
 - accountability_of_power
 topic_tags:
-  - "crime, law and justice"
   - election
   - politics
 storyline_nexus: []

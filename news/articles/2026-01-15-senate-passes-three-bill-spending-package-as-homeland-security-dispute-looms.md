@@ -20,7 +20,10 @@ primary_themes:
 - immigration_enforcement
 - congressional_budget_process
 - homeland_security_funding
-topic_tags: []
+topic_tags:
+  - "human migration"
+  - politics
+  - "human interest"
 storyline_nexus: []
 geographic_location: Washington, D.C.
 floor_values_engaged:

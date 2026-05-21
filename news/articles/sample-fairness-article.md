@@ -7,7 +7,11 @@ primary_entities:
 primary_themes:
 - accountability_of_power
 - courts
-topic_tags: []
+topic_tags:
+  - politics
+  - government
+  - "crime, law and justice"
+  - law
 storyline_nexus: []
 geographic_location: Q_sample_location
 floor_values_engaged:

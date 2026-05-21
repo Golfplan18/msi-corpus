@@ -13,7 +13,9 @@ primary_themes:
 - government accountability
 - image manipulation
 - protest and enforcement
-topic_tags: []
+topic_tags:
+  - government
+  - politics
 storyline_nexus: []
 geographic_location: Minnesota, United States
 floor_values_engaged:

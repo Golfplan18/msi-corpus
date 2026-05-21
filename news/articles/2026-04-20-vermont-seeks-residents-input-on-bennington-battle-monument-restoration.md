@@ -17,7 +17,13 @@ primary_themes:
 - historic preservation
 - public engagement
 - state decision-making
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "economy, business and finance"
+  - government
+  - "government policy"
+  - politics
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Vermont, United States
 floor_values_engaged:

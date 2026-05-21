@@ -17,10 +17,7 @@ primary_themes:
 - smartphone habits
 - mental health
 topic_tags:
-  - "science and technology"
-  - "technology and engineering"
-  - "lifestyle and leisure"
-  - "lifestyle"
+  - health
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

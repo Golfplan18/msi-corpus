@@ -21,10 +21,8 @@ primary_themes:
 - agentic commerce
 - retail technology
 topic_tags:
-  - "science and technology"
   - "artificial intelligence"
-  - "economy, business and finance"
-  - "business information"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: New York, United States
 floor_values_engaged:

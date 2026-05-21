@@ -20,7 +20,12 @@ primary_themes:
 - healthcare access
 - federal litigation
 - state funding responses
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - election
+  - health
+  - politics
+  - trial
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

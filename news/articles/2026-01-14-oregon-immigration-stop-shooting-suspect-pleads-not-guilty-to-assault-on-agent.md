@@ -15,10 +15,10 @@ primary_themes:
 - criminal courts
 - federal charging
 topic_tags:
-  - "construction and property"
   - crime
   - "crime, law and justice"
-  - "economy, business and finance"
+  - judiciary
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: Portland, Oregon
 floor_values_engaged:

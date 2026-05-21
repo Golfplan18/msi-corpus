@@ -13,10 +13,12 @@ primary_themes:
 - LGBTQ+ community
 - conservative governance
 topic_tags:
-  - "politics"
-  - "government"
-  - "education"
-  - "higher education"
+  - education
+  - government
+  - "government policy"
+  - "lifestyle and leisure"
+  - politics
+  - school
 storyline_nexus: []
 geographic_location: Sarasota, Florida, United States
 floor_values_engaged:

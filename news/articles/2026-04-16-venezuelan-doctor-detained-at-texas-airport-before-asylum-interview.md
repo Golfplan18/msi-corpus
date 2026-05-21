@@ -15,7 +15,9 @@ primary_themes:
 - temporary protected status
 - immigration detention
 - ICE operations
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "disaster, accident and emergency incident"
 storyline_nexus: []
 geographic_location: United States, Texas (Rio Grande Valley), McAllen
 floor_values_engaged:

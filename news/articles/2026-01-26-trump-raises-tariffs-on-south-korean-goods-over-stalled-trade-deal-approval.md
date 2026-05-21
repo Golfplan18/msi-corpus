@@ -17,7 +17,10 @@ primary_themes:
 - tariffs
 - Trump administration
 - trade policy
-topic_tags: []
+topic_tags:
+  - "economy, business and finance"
+  - "international trade"
+  - politics
 storyline_nexus: []
 geographic_location: United States / South Korea
 floor_values_engaged:

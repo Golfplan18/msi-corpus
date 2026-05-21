@@ -15,7 +15,9 @@ primary_themes:
 - military diplomacy
 - nuclear negotiation
 - Trump administration
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: Middle East, Washington D.C.
 floor_values_engaged:

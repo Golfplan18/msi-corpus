@@ -13,10 +13,12 @@ primary_themes:
 - social media influence
 - water conservation
 topic_tags:
-  - "health"
-  - "health treatment and procedure"
-  - "lifestyle and leisure"
-  - "lifestyle"
+  - "arts, culture, entertainment and media"
+  - conservation
+  - environment
+  - health
+  - "mass media"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

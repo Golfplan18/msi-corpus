@@ -16,7 +16,12 @@ primary_themes:
 - human origins
 - artistic expression
 - paleoanthropology
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "economy, business and finance"
+  - macroeconomics
+  - "monetary policy"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Sulawesi, Indonesia
 floor_values_engaged:

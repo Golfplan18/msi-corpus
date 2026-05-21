@@ -17,7 +17,12 @@ primary_themes:
 - political disagreement
 - immigration rights
 - federal-state relations
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "human interest"
+  - judiciary
+  - "law enforcement"
+  - politics
 storyline_nexus: []
 geographic_location: Maine, United States
 floor_values_engaged:

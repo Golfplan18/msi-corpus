@@ -16,7 +16,11 @@ primary_themes:
 - California politics
 - special election
 - rural representation
-topic_tags: []
+topic_tags:
+  - "disaster, accident and emergency incident"
+  - election
+  - health
+  - politics
 storyline_nexus: []
 geographic_location: Sacramento, California, United States
 floor_values_engaged:

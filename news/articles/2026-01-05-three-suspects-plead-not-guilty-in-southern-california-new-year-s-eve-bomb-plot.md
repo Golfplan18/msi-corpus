@@ -16,7 +16,11 @@ primary_themes:
 - anti-capitalist extremism
 - bomb plot
 topic_tags:
+  - "conflict, war and peace"
+  - crime
   - "crime, law and justice"
+  - "law enforcement"
+  - "science and technology"
   - trial
 storyline_nexus: []
 geographic_location: Southern California, United States

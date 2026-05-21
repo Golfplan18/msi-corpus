@@ -12,7 +12,10 @@ primary_themes:
 - weather
 - travel_disruption
 - economic_impact
-topic_tags: []
+topic_tags:
+  - "disaster, accident and emergency incident"
+  - "human interest"
+  - weather
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

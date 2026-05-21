@@ -19,7 +19,13 @@ primary_themes:
 - Maritime interdiction
 - Military operations
 - Ceasefire diplomacy
-topic_tags: []
+topic_tags:
+  - "arts, culture, entertainment and media"
+  - "conflict, war and peace"
+  - "disaster, accident and emergency incident"
+  - fire
+  - "international relations"
+  - "peace process"
 storyline_nexus: []
 geographic_location: Persian Gulf; Pacific Ocean; Pentagon, Washington D.C.
 floor_values_engaged:

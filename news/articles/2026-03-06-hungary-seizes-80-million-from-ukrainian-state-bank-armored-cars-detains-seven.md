@@ -19,7 +19,9 @@ primary_themes:
 - Hungarian parliamentary elections
 - financial asset seizure
 - Druzhba pipeline
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: Budapest, Hungary
 floor_values_engaged:

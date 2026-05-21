@@ -16,7 +16,10 @@ primary_themes:
 - antisemitism
 - Iran proxy warfare
 - UK security
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - terrorism
 storyline_nexus: []
 geographic_location: London, United Kingdom
 floor_values_engaged:

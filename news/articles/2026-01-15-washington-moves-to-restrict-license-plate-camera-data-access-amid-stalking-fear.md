@@ -20,7 +20,13 @@ primary_themes:
 - law enforcement technology
 - immigration enforcement
 - domestic violence
-topic_tags: []
+topic_tags:
+  - politics
+  - government
+  - "crime, law and justice"
+  - "law enforcement"
+  - judiciary
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Washington state, United States
 floor_values_engaged:

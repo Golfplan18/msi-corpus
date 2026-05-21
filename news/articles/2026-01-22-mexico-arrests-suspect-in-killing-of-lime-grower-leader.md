@@ -15,7 +15,8 @@ primary_themes:
 - cartel violence
 - extortion
 - Mexico
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
 storyline_nexus: []
 geographic_location: Michoacan, Mexico
 floor_values_engaged:

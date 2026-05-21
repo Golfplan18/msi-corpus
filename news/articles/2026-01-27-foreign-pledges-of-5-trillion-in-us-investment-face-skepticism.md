@@ -21,7 +21,12 @@ primary_themes:
 - Economic policy
 - Investment policy
 - Tariff policy
-topic_tags: []
+topic_tags:
+  - "economy, business and finance"
+  - "international relations"
+  - "international trade"
+  - labour
+  - politics
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

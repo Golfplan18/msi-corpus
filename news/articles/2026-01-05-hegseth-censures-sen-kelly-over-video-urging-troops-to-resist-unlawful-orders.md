@@ -17,8 +17,9 @@ primary_themes:
 - congressional speech and debate clause
 - retirement grade determination
 topic_tags:
-  - politics
   - government
+  - politics
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Washington, D.C.
 floor_values_engaged:

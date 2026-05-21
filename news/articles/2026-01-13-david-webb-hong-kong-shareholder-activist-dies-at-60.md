@@ -17,9 +17,8 @@ primary_themes:
 - Hong_Kong
 - shareholder_activism
 topic_tags:
+  - society
   - "economy, business and finance"
-  - "market and exchange"
-  - "politics"
 storyline_nexus: []
 geographic_location: Hong Kong
 floor_values_engaged:

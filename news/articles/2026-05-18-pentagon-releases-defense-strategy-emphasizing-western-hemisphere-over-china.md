@@ -24,7 +24,10 @@ primary_themes:
 - geopolitics
 - alliance strategy
 - foreign policy shift
-topic_tags: []
+topic_tags:
+  - politics
+  - government
+  - "international relations"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

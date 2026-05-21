@@ -16,7 +16,11 @@ primary_themes:
 - gang violence
 - fuel prices
 - Iran war economic spillover
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - demographics
+  - "science and technology"
+  - society
 storyline_nexus: []
 geographic_location: Haiti
 floor_values_engaged:

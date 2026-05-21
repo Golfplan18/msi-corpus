@@ -13,7 +13,11 @@ primary_themes:
 - immigration
 - education
 - federal law enforcement
-topic_tags: []
+topic_tags:
+  - politics
+  - "international relations"
+  - "crime, law and justice"
+  - judiciary
 storyline_nexus: []
 geographic_location: Des Moines, Iowa; Guyana
 floor_values_engaged:

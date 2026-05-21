@@ -22,7 +22,12 @@ primary_themes:
 - downtown revitalization
 - neighborhood equity
 - infrastructure
-topic_tags: []
+topic_tags:
+  - "arts, culture, entertainment and media"
+  - "economy, business and finance"
+  - sport
+  - "sport event"
+  - transport
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

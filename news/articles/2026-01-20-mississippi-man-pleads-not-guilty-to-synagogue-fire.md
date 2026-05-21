@@ -12,7 +12,11 @@ primary_themes:
 - hate_crime
 - religious_violence
 - civil_rights_history
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - judiciary
+  - "disaster, accident and emergency incident"
+  - fire
 storyline_nexus: []
 geographic_location: Jackson, Mississippi, United States
 floor_values_engaged:

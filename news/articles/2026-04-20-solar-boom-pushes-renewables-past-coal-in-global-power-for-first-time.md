@@ -16,7 +16,13 @@ primary_themes:
 - renewable energy growth
 - climate action
 - global power systems
-topic_tags: []
+topic_tags:
+  - conservation
+  - education
+  - "education policy"
+  - environment
+  - government
+  - politics
 storyline_nexus: []
 geographic_location: Global
 floor_values_engaged:

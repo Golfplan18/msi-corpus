@@ -20,7 +20,13 @@ primary_themes:
 - tailoring
 - sustainability
 - fashion trends
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "arts, culture, entertainment and media"
+  - environment
+  - publishing
+  - "science and technology"
+  - sustainability
 storyline_nexus: []
 geographic_location: Paris, France
 floor_values_engaged:

@@ -22,7 +22,9 @@ primary_themes:
 - federal health agencies
 - Trump administration health policy
 - gene therapy
-topic_tags: []
+topic_tags:
+  - "disease and condition"
+  - "health"
 storyline_nexus: []
 geographic_location: Washington, D.C.
 floor_values_engaged:

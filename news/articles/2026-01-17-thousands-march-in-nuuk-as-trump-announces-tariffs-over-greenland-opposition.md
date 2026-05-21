@@ -18,7 +18,10 @@ primary_themes:
 - protest
 - NATO
 - tariffs
-topic_tags: []
+topic_tags:
+  - "economy, business and finance"
+  - "international trade"
+  - politics
 storyline_nexus: []
 geographic_location: Nuuk, Greenland
 floor_values_engaged:

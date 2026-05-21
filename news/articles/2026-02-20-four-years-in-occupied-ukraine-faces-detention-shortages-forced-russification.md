@@ -17,7 +17,13 @@ primary_themes:
 - occupation
 - detention
 - forced migration
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "artificial intelligence"
+  - "conflict, war and peace"
+  - "crime, law and justice"
+  - economy
+  - "economy, business and finance"
 storyline_nexus: []
 geographic_location: Ukraine (Donetsk, Luhansk, Kherson, Zaporizhzhia, and other occupied regions)
 floor_values_engaged:

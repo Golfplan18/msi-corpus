@@ -14,7 +14,8 @@ primary_themes:
 - international_relations
 - prisoner_transfer
 - middle_east
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: Iraq, Syria, Middle East
 floor_values_engaged:

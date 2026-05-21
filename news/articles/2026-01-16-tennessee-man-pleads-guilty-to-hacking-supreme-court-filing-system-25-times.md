@@ -15,7 +15,9 @@ primary_themes:
 - federal courts
 - computer fraud
 - criminal justice
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - trial
 storyline_nexus: []
 geographic_location: Washington, D.C.; Springfield, Tennessee
 floor_values_engaged:

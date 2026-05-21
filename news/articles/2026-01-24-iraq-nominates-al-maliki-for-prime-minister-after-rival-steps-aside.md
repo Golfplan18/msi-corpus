@@ -15,7 +15,12 @@ primary_themes:
 - government formation
 - regional tensions
 - international relations
-topic_tags: []
+topic_tags:
+  - election
+  - government
+  - "political dissent"
+  - "political process"
+  - politics
 storyline_nexus: []
 geographic_location: Iraq
 floor_values_engaged:

@@ -15,7 +15,13 @@ primary_themes:
 - constitutional law
 - California firearms policy
 - federal courts
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "disaster, accident and emergency incident"
+  - fire
+  - government
+  - "government policy"
+  - judiciary
 storyline_nexus: []
 geographic_location: Sacramento, California, United States
 floor_values_engaged:

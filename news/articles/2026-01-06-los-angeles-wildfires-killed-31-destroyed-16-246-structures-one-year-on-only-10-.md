@@ -19,8 +19,12 @@ primary_themes:
 - climate
 - criminal accountability
 topic_tags:
+  - "artificial intelligence"
+  - "climate change"
+  - disaster
   - "disaster, accident and emergency incident"
-  - "natural disaster"
+  - environment
+  - fire
 storyline_nexus: []
 geographic_location: Los Angeles County, California, United States
 floor_values_engaged:

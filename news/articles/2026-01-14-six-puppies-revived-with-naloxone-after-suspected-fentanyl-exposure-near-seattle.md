@@ -15,7 +15,7 @@ primary_themes:
 - animal cruelty investigation
 - emergency response
 topic_tags:
-  - "disaster, accident and emergency incident"
+  - health
 storyline_nexus: []
 geographic_location: Snohomish County, Washington
 floor_values_engaged:

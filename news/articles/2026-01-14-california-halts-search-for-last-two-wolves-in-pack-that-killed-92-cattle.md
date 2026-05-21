@@ -17,10 +17,12 @@ primary_themes:
 - endangered species
 - California agriculture
 topic_tags:
-  - "arts, culture, entertainment and media"
-  - "conflict, war and peace"
-  - "economy, business and finance"
-  - "market and exchange"
+  - "artificial intelligence"
+  - "government policy"
+  - "human migration"
+  - "international relations"
+  - politics
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Sierra Valley, Northern California, United States
 floor_values_engaged:

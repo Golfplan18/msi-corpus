@@ -17,7 +17,10 @@ primary_themes:
 - EU politics
 - information warfare
 - election interference
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - election
+  - politics
 storyline_nexus: []
 geographic_location: Nicosia, Cyprus
 floor_values_engaged:

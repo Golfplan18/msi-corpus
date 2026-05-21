@@ -17,7 +17,9 @@ primary_themes:
 - Taiwan Strait tensions
 - Korean Peninsula security
 - China-Japan relations
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: Beijing, China; East Asia
 floor_values_engaged:

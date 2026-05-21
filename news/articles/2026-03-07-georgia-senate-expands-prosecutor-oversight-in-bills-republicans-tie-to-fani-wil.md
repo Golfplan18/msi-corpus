@@ -19,7 +19,9 @@ primary_themes:
 - Prosecuting Attorneys Qualifications Commission
 - accountability_of_power
 - state politics
-topic_tags: []
+topic_tags:
+  - "government policy"
+  - "politics"
 storyline_nexus: []
 geographic_location: Atlanta, Fulton County, Georgia, United States
 floor_values_engaged:

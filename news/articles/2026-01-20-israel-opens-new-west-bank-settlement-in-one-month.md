@@ -15,7 +15,13 @@ primary_themes:
 - Palestinian land rights
 - West Bank expansion
 - Political power and accountability
-topic_tags: []
+topic_tags:
+  - politics
+  - "arts, culture, entertainment and media"
+  - society
+  - "government policy"
+  - "economy, business and finance"
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: West Bank (occupied), near Beit Sahour
 floor_values_engaged:

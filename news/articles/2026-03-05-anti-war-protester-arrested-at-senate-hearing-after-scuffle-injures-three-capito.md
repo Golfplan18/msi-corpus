@@ -12,7 +12,11 @@ primary_themes:
 - Capitol Hill security
 - Iran war opposition
 - congressional hearings
-topic_tags: []
+topic_tags:
+  - "politics"
+  - "political dissent"
+  - "conflict, war and peace"
+  - "civil unrest"
 storyline_nexus: []
 geographic_location: Washington, D.C.
 floor_values_engaged:

@@ -18,7 +18,13 @@ primary_themes:
 - criminal trial
 - prison reform
 - New York state prisons
-topic_tags: []
+topic_tags:
+  - crime
+  - "crime, law and justice"
+  - "human migration"
+  - "international relations"
+  - "law enforcement"
+  - trial
 storyline_nexus: []
 geographic_location: Utica, New York, United States
 floor_values_engaged:

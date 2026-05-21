@@ -12,7 +12,10 @@ primary_themes:
 - business_succession
 - artificial_intelligence
 - technology_leadership
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "economy, business and finance"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Cupertino, California (Apple headquarters)
 floor_values_engaged:

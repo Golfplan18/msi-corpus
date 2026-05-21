@@ -17,7 +17,12 @@ primary_themes:
 - Kurdish autonomy
 - SDF-Damascus conflict
 - U.S. military diplomacy
-topic_tags: []
+topic_tags:
+  - "arts, culture, entertainment and media"
+  - "conflict, war and peace"
+  - government
+  - "international relations"
+  - "mass media"
 storyline_nexus: []
 geographic_location: Deir Hafer and Maskana, northern Syria
 floor_values_engaged:

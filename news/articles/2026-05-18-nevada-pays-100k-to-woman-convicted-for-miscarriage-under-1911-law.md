@@ -15,7 +15,12 @@ primary_themes:
 - reproductive law
 - state statute
 - wrongful conviction
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - law
+  - trial
+  - society
+  - welfare
 storyline_nexus: []
 geographic_location: Nevada, United States
 floor_values_engaged:

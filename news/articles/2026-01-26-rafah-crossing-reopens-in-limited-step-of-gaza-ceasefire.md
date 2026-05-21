@@ -15,7 +15,13 @@ primary_themes:
 - Gaza ceasefire
 - Humanitarian crisis
 - Border operations
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "artificial intelligence"
+  - "conflict, war and peace"
+  - "disaster, accident and emergency incident"
+  - fire
+  - health
 storyline_nexus: []
 geographic_location: Gaza Strip, Israel, Egypt, Cairo
 floor_values_engaged:

@@ -20,7 +20,13 @@ primary_themes:
 - security guarantees
 - economic reconstruction
 - Ukraine government reshuffle
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "artificial intelligence"
+  - "conflict, war and peace"
+  - "construction and property"
+  - "economy, business and finance"
+  - government
 storyline_nexus: []
 geographic_location: Kyiv, Ukraine
 floor_values_engaged:

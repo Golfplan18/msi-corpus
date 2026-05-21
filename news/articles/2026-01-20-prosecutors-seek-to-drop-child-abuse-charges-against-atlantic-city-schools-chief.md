@@ -14,7 +14,13 @@ primary_themes:
 - child_welfare
 - local_government
 - education
-topic_tags: []
+topic_tags:
+  - education
+  - "education policy"
+  - government
+  - politics
+  - society
+  - welfare
 storyline_nexus: []
 geographic_location: Atlantic City, New Jersey
 floor_values_engaged:

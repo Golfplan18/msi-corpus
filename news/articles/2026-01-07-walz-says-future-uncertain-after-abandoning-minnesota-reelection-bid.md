@@ -14,9 +14,12 @@ primary_themes:
 - democratic-party
 - gubernatorial-politics
 topic_tags:
-  - politics
+  - "artificial intelligence"
+  - "crime, law and justice"
+  - election
   - government
-  - "international relations"
+  - "government policy"
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: Minneapolis, Minnesota
 floor_values_engaged:

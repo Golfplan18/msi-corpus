@@ -13,7 +13,10 @@ primary_themes:
 - criminal_trial
 - murder_charge
 - financial_motive
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - prosecution
+  - crime
 storyline_nexus: []
 geographic_location: Park City, Utah, United States
 floor_values_engaged:

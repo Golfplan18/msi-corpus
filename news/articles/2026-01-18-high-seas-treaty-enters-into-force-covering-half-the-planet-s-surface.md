@@ -18,7 +18,12 @@ primary_themes:
 - marine protected areas
 - climate change
 - environmental governance
-topic_tags: []
+topic_tags:
+  - "climate change"
+  - conservation
+  - environment
+  - "international relations"
+  - politics
 storyline_nexus: []
 geographic_location: International
 floor_values_engaged:

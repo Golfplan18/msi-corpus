@@ -20,7 +20,10 @@ primary_themes:
 - pension reform
 - deferred retirement option plans
 - California labor policy
-topic_tags: []
+topic_tags:
+  - "labour"
+  - "employment"
+  - "economy, business and finance"
 storyline_nexus: []
 geographic_location: California, United States
 floor_values_engaged:

@@ -13,7 +13,11 @@ primary_themes:
 - detention conditions
 - family separation
 - immigrant rights
-topic_tags: []
+topic_tags:
+  - politics
+  - "government policy"
+  - society
+  - "human migration"
 storyline_nexus: []
 geographic_location: Dilley, Texas; Minnesota
 floor_values_engaged:

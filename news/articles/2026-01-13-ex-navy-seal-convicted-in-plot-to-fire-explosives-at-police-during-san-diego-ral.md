@@ -15,11 +15,12 @@ primary_themes:
 - political violence
 - antisemitism
 topic_tags:
-  - "science and technology"
-  - "artificial intelligence"
-  - "politics"
-  - "government"
+  - politics
   - "crime, law and justice"
+  - prosecution
+  - "law enforcement"
+  - "disaster, accident and emergency incident"
+  - fire
 storyline_nexus: []
 geographic_location: Albuquerque, New Mexico; San Diego, California; Lordsburg, New Mexico; Tucson, Arizona
 floor_values_engaged:

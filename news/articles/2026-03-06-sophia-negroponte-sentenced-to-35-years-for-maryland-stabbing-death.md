@@ -15,7 +15,9 @@ primary_themes:
 - murder trial
 - appellate reversal and retrial
 - prominent family
-topic_tags: []
+topic_tags:
+  - "crime"
+  - "crime, law and justice"
 storyline_nexus: []
 geographic_location: Rockville, Maryland
 floor_values_engaged:

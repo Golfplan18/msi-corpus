@@ -15,7 +15,13 @@ primary_themes:
 - political_campaign
 - international_relations
 - domestic_policy
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "crime, law and justice"
+  - "economy, business and finance"
+  - election
+  - "international trade"
 storyline_nexus: []
 geographic_location: Washington, D.C. (event location); international context (Europe, NATO, Greenland)
 floor_values_engaged:

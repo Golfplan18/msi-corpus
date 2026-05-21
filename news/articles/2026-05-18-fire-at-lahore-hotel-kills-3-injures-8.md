@@ -11,7 +11,9 @@ primary_themes:
 - fire
 - disaster
 - Pakistan
-topic_tags: []
+topic_tags:
+  - "disaster, accident and emergency incident"
+  - fire
 storyline_nexus: []
 geographic_location: Lahore, Pakistan
 floor_values_engaged:

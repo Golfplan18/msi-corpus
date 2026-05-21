@@ -16,7 +16,10 @@ primary_themes:
 - homicide
 - courts
 - domestic_violence
-topic_tags: []
+topic_tags:
+  - crime
+  - "crime, law and justice"
+  - judiciary
 storyline_nexus: []
 geographic_location: Holbrook, Arizona; Pinetop, Arizona; El Centro, California
 floor_values_engaged:

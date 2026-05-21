@@ -18,11 +18,9 @@ primary_themes:
 - winter storm
 - central Europe
 topic_tags:
-  - "lifestyle and leisure"
-  - "travel"
-  - "science and technology"
-  - "weather"
-  - "weather warning"
+  - "disaster, accident and emergency incident"
+  - "transportation accident and incident"
+  - weather
 storyline_nexus: []
 geographic_location: Central and Eastern Europe
 floor_values_engaged:

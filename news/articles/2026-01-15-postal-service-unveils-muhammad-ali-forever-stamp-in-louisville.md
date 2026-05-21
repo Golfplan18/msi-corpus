@@ -14,7 +14,13 @@ primary_themes:
 - sports history
 - humanitarian legacy
 - cultural recognition
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - government
+  - "government policy"
+  - "law enforcement"
+  - politics
+  - society
 storyline_nexus: []
 geographic_location: Louisville, Kentucky, United States
 floor_values_engaged:

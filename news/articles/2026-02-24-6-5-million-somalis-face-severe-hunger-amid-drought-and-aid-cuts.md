@@ -17,7 +17,13 @@ primary_themes:
 - food insecurity
 - malnutrition
 - aid funding
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - terrorism
+  - "science and technology"
+  - "artificial intelligence"
+  - "arts, culture, entertainment and media"
+  - "arts and entertainment"
 storyline_nexus: []
 geographic_location: Somalia
 floor_values_engaged:

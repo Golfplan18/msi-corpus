@@ -16,9 +16,12 @@ primary_themes:
 - housing contrast
 - democratic socialism
 topic_tags:
-  - "politics"
-  - "government"
-  - "human interest"
+  - "disaster, accident and emergency incident"
+  - government
+  - "government policy"
+  - "natural disaster"
+  - politics
+  - society
 storyline_nexus: []
 geographic_location: New York City, New York, United States
 floor_values_engaged:

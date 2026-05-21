@@ -17,7 +17,13 @@ primary_themes:
 - Iran nuclear program
 - Trump administration
 - escalation risks
-topic_tags: []
+topic_tags:
+  - politics
+  - government
+  - "international relations"
+  - "conflict, war and peace"
+  - "armed conflict"
+  - labour
 storyline_nexus: []
 geographic_location: Middle East (Arabian Sea, Persian Gulf region, Jordan)
 floor_values_engaged:

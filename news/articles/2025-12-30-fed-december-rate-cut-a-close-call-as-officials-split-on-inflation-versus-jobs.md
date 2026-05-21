@@ -19,7 +19,10 @@ primary_themes:
 - inflation
 - labor market
 - government shutdown
-topic_tags: []
+topic_tags:
+  - government
+  - labour
+  - politics
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

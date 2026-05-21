@@ -24,7 +24,11 @@ primary_themes:
 - robotics
 - autonomous vehicles
 - CES 2026
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - robotics
+  - "science and technology"
+  - "economy, business and finance"
 storyline_nexus: []
 geographic_location: Las Vegas, Nevada, United States
 floor_values_engaged:

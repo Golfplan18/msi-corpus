@@ -12,7 +12,11 @@ primary_themes:
 - substance abuse
 - chess
 - legal dispute
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - health
+  - crime
+  - "human interest"
 storyline_nexus: []
 geographic_location: United States (Raleigh, North Carolina)
 floor_values_engaged:

@@ -11,7 +11,8 @@ primary_themes:
 - immigration enforcement
 - gun violence
 - civil liberties
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
 storyline_nexus: []
 geographic_location: Minneapolis, Minnesota
 floor_values_engaged:

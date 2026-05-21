@@ -14,7 +14,13 @@ primary_themes:
 - criminal justice
 - First Amendment
 - pro-Palestinian activism
-topic_tags: []
+topic_tags:
+  - "civil unrest"
+  - "conflict, war and peace"
+  - "crime, law and justice"
+  - education
+  - "higher education"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Stanford, California
 floor_values_engaged:

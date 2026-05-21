@@ -15,7 +15,11 @@ primary_themes:
 - Israeli-Palestinian conflict
 - settler violence
 - accountability_of_power
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "crime"
+  - "crime, law and justice"
 storyline_nexus: []
 geographic_location: West Bank, Israeli-occupied Palestinian territory
 floor_values_engaged:

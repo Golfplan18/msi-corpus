@@ -11,7 +11,10 @@ primary_themes:
 - aviation safety
 - near-miss incident
 - air traffic control
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "disaster, accident and emergency incident"
+  - "transportation accident and incident"
 storyline_nexus: []
 geographic_location: Nashville, Tennessee, United States
 floor_values_engaged:

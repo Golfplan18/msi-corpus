@@ -17,7 +17,13 @@ primary_themes:
 - Hungary
 - party renewal
 - democratic transition
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "disaster, accident and emergency incident"
+  - election
+  - government
+  - "government policy"
+  - "natural disaster"
 storyline_nexus: []
 geographic_location: Budapest, Hungary
 floor_values_engaged:

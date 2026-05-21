@@ -19,7 +19,11 @@ primary_themes:
 - embezzlement
 - criminal-charges
 - public-confidence
-topic_tags: []
+topic_tags:
+  - "human migration"
+  - "crime, law and justice"
+  - "human interest"
+  - trial
 storyline_nexus: []
 geographic_location: New Haven, Connecticut, United States
 floor_values_engaged:

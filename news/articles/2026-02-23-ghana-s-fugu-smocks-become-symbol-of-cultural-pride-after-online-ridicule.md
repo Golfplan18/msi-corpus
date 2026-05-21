@@ -13,7 +13,9 @@ primary_themes:
 - tourism
 - tradition
 - cultural_pride
-topic_tags: []
+topic_tags:
+  - "human interest"
+  - people
 storyline_nexus: []
 geographic_location: Ghana
 floor_values_engaged:

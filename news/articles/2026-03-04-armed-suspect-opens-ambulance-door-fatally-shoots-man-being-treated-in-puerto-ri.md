@@ -11,7 +11,8 @@ primary_themes:
 - gun violence
 - public safety
 - emergency services
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
 storyline_nexus: []
 geographic_location: Santurce, San Juan, Puerto Rico
 floor_values_engaged:

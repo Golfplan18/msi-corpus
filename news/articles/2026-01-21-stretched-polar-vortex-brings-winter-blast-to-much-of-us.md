@@ -16,7 +16,13 @@ primary_themes:
 - climate change
 - meteorology
 - infrastructure impact
-topic_tags: []
+topic_tags:
+  - "human interest"
+  - environment
+  - "economy, business and finance"
+  - "construction and property"
+  - "human migration"
+  - "climate change"
 storyline_nexus: []
 geographic_location: United States; Arctic
 floor_values_engaged:

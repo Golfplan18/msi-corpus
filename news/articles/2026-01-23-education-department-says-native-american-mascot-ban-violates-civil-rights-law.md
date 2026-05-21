@@ -17,7 +17,10 @@ primary_themes:
 - education policy
 - Native American representation
 - mascot naming
-topic_tags: []
+topic_tags:
+  - "civil rights"
+  - "crime, law and justice"
+  - education
 storyline_nexus: []
 geographic_location: Long Island, New York; New York State; United States
 floor_values_engaged:

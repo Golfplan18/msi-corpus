@@ -13,7 +13,10 @@ primary_themes:
 - legal_proceedings
 - government_accountability
 - transparency
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - trial
+  - law
 storyline_nexus: []
 geographic_location: United States (federal court, New York)
 floor_values_engaged:

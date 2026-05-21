@@ -17,9 +17,12 @@ primary_themes:
 - housing relocation
 - federal workforce reductions
 topic_tags:
-  - "economy, business and finance"
+  - politics
+  - health
   - "government policy"
-  - "computing and information technology"
+  - "economy, business and finance"
+  - "construction and property"
+  - "disease and condition"
 storyline_nexus: []
 geographic_location: Nevada, United States
 floor_values_engaged:

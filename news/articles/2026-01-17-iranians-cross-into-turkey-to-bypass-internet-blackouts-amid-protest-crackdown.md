@@ -16,7 +16,13 @@ primary_themes:
 - communications blackout
 - cross-border travel
 - political unrest
-topic_tags: []
+topic_tags:
+  - "economy, business and finance"
+  - education
+  - "human interest"
+  - "human migration"
+  - "international relations"
+  - "lifestyle and leisure"
 storyline_nexus: []
 geographic_location: Kapiköy Border Crossing, Van Province, Turkey / northeastern Iran
 floor_values_engaged:

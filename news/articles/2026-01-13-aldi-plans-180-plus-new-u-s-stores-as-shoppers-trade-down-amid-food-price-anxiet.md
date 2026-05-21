@@ -16,11 +16,11 @@ primary_themes:
 - consumer spending
 - discount retail expansion
 topic_tags:
-  - "science and technology"
+  - "armed conflict"
+  - "conflict, war and peace"
   - "economy, business and finance"
-  - "market and exchange"
-  - "politics"
-  - "international trade"
+  - "epidemic and pandemic"
+  - health
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

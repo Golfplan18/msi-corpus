@@ -15,7 +15,11 @@ primary_themes:
 - military_operations
 - global_trade
 - european_independence
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - politics
+  - "international relations"
+  - "economy, business and finance"
 storyline_nexus: []
 geographic_location: International
 floor_values_engaged:

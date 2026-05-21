@@ -16,7 +16,11 @@ primary_themes:
 - winter storm
 - power outages
 - travel disruption
-topic_tags: []
+topic_tags:
+  - "weather warning"
+  - "disaster, accident and emergency incident"
+  - "human interest"
+  - "human migration"
 storyline_nexus: []
 geographic_location: United States (multi-state, 2,000-mile span)
 floor_values_engaged:

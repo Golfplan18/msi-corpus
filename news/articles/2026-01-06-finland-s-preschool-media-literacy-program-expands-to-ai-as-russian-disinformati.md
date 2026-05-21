@@ -24,9 +24,12 @@ primary_themes:
 - Russia-Finland relations
 - NATO
 topic_tags:
+  - "artificial intelligence"
+  - "arts, culture, entertainment and media"
   - education
+  - "international relations"
+  - politics
   - school
-  - "science and technology"
 storyline_nexus: []
 geographic_location: Helsinki, Finland
 floor_values_engaged:

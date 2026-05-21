@@ -19,7 +19,13 @@ primary_themes:
 - US_foreign_policy_and_law
 - Venezuela
 - Latin_America
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "crime, law and justice"
+  - government
+  - "government policy"
+  - politics
+  - prosecution
 storyline_nexus: []
 geographic_location: New York, United States
 floor_values_engaged:

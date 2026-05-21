@@ -16,7 +16,13 @@ primary_themes:
 - deportation
 - LGBTQ+ rights
 - due process
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "law enforcement"
+  - politics
+  - "government policy"
+  - society
+  - "human migration"
 storyline_nexus: []
 geographic_location: United States; Cameroon; Morocco
 floor_values_engaged:

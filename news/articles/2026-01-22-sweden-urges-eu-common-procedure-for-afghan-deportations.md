@@ -14,7 +14,12 @@ primary_themes:
 - asylum
 - deportation
 - EU policy
-topic_tags: []
+topic_tags:
+  - government
+  - "government policy"
+  - labour
+  - "labour dispute"
+  - politics
 storyline_nexus: []
 geographic_location: European Union; Cyprus; Afghanistan
 floor_values_engaged:

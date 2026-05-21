@@ -12,7 +12,10 @@ primary_themes:
 - immigration enforcement
 - contested tactics
 - fatalities
-topic_tags: []
+topic_tags:
+  - crime
+  - "crime, law and justice"
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: Minneapolis, Minnesota, United States
 floor_values_engaged:

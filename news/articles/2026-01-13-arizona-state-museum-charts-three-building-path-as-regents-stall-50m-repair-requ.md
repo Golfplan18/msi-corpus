@@ -17,12 +17,10 @@ primary_themes:
 - historic preservation
 - infrastructure
 topic_tags:
-  - "science and technology"
-  - "education"
-  - "arts, culture, entertainment and media"
   - "arts and entertainment"
-  - "artificial intelligence"
-  - "environment"
+  - "arts, culture, entertainment and media"
+  - education
+  - "higher education"
 storyline_nexus: []
 geographic_location: Tucson, Arizona
 floor_values_engaged:

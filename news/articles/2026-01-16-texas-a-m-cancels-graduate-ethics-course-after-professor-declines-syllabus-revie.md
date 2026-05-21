@@ -14,7 +14,11 @@ primary_themes:
 - higher education policy
 - race and gender ideology
 - course cancellation
-topic_tags: []
+topic_tags:
+  - discrimination
+  - education
+  - "education policy"
+  - society
 storyline_nexus: []
 geographic_location: College Station, Texas
 floor_values_engaged:

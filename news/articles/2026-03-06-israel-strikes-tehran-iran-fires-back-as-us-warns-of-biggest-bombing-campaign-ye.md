@@ -22,7 +22,9 @@ primary_themes:
 - oil prices
 - Russia intelligence sharing
 - Lebanon conflict
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: Tehran, Iran; Middle East
 floor_values_engaged:

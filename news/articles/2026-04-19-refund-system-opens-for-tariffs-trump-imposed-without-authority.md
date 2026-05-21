@@ -17,7 +17,13 @@ primary_themes:
 - trade policy
 - government regulation
 - Supreme Court
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "economy, business and finance"
+  - government
+  - "government policy"
+  - "international trade"
+  - judiciary
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

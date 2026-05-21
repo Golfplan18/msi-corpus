@@ -16,7 +16,13 @@ primary_themes:
 - criminal justice reform
 - second chances
 - municipal governance
-topic_tags: []
+topic_tags:
+  - crime
+  - "crime, law and justice"
+  - "government policy"
+  - "human migration"
+  - "international relations"
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: Omaha and Lincoln, Nebraska, United States
 floor_values_engaged:

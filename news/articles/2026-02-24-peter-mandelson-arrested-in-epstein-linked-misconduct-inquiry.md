@@ -15,7 +15,10 @@ primary_themes:
 - public official misconduct
 - international politics
 - leadership crisis
-topic_tags: []
+topic_tags:
+  - government
+  - "international relations"
+  - politics
 storyline_nexus: []
 geographic_location: United Kingdom
 floor_values_engaged:

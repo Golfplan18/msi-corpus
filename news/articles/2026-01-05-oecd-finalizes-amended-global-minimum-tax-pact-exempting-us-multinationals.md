@@ -19,8 +19,10 @@ primary_themes:
 - OECD
 - US trade and fiscal policy
 topic_tags:
+  - politics
+  - government
+  - "international relations"
   - "economy, business and finance"
-  - tax
 storyline_nexus: []
 geographic_location: Washington, D.C. / International
 floor_values_engaged:

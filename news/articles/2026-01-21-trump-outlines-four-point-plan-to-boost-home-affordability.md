@@ -14,7 +14,11 @@ primary_themes:
 - interest rates
 - institutional investors
 - economic policy
-topic_tags: []
+topic_tags:
+  - politics
+  - government
+  - "economy, business and finance"
+  - banking
 storyline_nexus: []
 geographic_location: United States; Davos, Switzerland (event location)
 floor_values_engaged:

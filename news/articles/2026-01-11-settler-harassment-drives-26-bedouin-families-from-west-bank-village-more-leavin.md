@@ -17,10 +17,10 @@ primary_themes:
 - Palestinian Bedouin
 - Israeli settlements
 topic_tags:
+  - "armed conflict"
+  - banking
   - "conflict, war and peace"
-  - "civil unrest"
-  - "human interest"
-  - "human migration"
+  - "economy, business and finance"
 storyline_nexus: []
 geographic_location: West Bank, Palestinian Territories
 floor_values_engaged:

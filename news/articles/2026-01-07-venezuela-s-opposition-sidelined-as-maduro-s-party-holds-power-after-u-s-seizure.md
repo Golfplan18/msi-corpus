@@ -19,6 +19,8 @@ primary_themes:
 - Venezuela elections
 - Opposition leadership
 topic_tags:
+  - election
+  - politics
 storyline_nexus: []
 geographic_location: Venezuela
 floor_values_engaged:

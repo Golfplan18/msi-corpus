@@ -18,12 +18,12 @@ primary_themes:
 - credit card regulation
 - equity markets
 topic_tags:
-  - "science and technology"
   - "crime, law and justice"
-  - "trial"
-  - "politics"
-  - "government"
   - "economy, business and finance"
+  - "government policy"
+  - macroeconomics
+  - "market and exchange"
+  - politics
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

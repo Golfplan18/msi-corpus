@@ -14,7 +14,9 @@ primary_themes:
 - renewable energy
 - economic inequality
 - infrastructure resilience
-topic_tags: []
+topic_tags:
+  - "government policy"
+  - politics
 storyline_nexus: []
 geographic_location: Puerto Rico, United States
 floor_values_engaged:

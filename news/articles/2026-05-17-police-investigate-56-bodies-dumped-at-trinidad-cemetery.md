@@ -13,7 +13,10 @@ primary_themes:
 - Law enforcement
 - Public health
 - Institutional accountability
-topic_tags: []
+topic_tags:
+  - "human migration"
+  - "human interest"
+  - health
 storyline_nexus: []
 geographic_location: Trinidad and Tobago
 floor_values_engaged:

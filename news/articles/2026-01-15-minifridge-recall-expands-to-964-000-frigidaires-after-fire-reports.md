@@ -13,7 +13,13 @@ primary_themes:
 - product_recall
 - product_safety
 - consumer_protection
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "arts and entertainment"
+  - "arts, culture, entertainment and media"
+  - "disaster, accident and emergency incident"
+  - fire
+  - "science and technology"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

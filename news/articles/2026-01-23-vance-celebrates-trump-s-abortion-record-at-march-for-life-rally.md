@@ -14,7 +14,12 @@ primary_themes:
 - Trump administration
 - religious activism
 - foreign aid policy
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "international relations"
+  - judiciary
+  - politics
+  - religion
 storyline_nexus: []
 geographic_location: Washington, D.C.
 floor_values_engaged:

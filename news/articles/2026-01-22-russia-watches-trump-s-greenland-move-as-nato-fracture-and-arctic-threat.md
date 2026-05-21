@@ -13,7 +13,11 @@ primary_themes:
 - NATO
 - Russian foreign policy
 - Arctic strategy
-topic_tags: []
+topic_tags:
+  - "arts, culture, entertainment and media"
+  - "international relations"
+  - "mass media"
+  - politics
 storyline_nexus: []
 geographic_location: Greenland / Arctic
 floor_values_engaged:

@@ -20,7 +20,11 @@ primary_themes:
 - terrorism investigation
 - gun violence
 - law enforcement response
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "crime"
+  - "terrorism"
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: Austin, Texas, United States
 floor_values_engaged:

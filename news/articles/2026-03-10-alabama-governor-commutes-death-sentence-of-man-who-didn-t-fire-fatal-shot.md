@@ -15,7 +15,10 @@ primary_themes:
 - clemency
 - criminal justice
 - proportionality in sentencing
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "disaster, accident and emergency incident"
+  - fire
 storyline_nexus: []
 geographic_location: Montgomery and Talladega, Alabama, United States
 floor_values_engaged:

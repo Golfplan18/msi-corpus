@@ -13,7 +13,9 @@ primary_themes:
 - US-Colombia diplomatic relations
 - Diplomatic de-escalation
 - Drug trafficking policy
-topic_tags: []
+topic_tags:
+  - "international relations"
+  - politics
 storyline_nexus: []
 geographic_location: Colombia, United States
 floor_values_engaged:

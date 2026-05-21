@@ -16,7 +16,11 @@ primary_themes:
 - Trump administration ties
 - Silicon Valley politics
 - artificial intelligence
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - politics
+  - "science and technology"
+  - "technology and engineering"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

@@ -18,7 +18,12 @@ primary_themes:
 - Mideast regional escalation
 - Oil market disruption
 - Civilian displacement
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "economy, business and finance"
+  - "energy and resource"
+  - "market and exchange"
 storyline_nexus: []
 geographic_location: Iran; Middle East
 floor_values_engaged:

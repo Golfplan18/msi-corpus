@@ -18,7 +18,10 @@ primary_themes:
 - central bank
 - Iran sanctions
 - inflation
-topic_tags: []
+topic_tags:
+  - "human migration"
+  - "human interest"
+  - "economy, business and finance"
 storyline_nexus: []
 geographic_location: Tehran, Iran
 floor_values_engaged:

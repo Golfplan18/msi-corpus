@@ -17,10 +17,12 @@ primary_themes:
 - 2025 year in review
 - press freedom
 topic_tags:
+  - "arts and entertainment"
+  - "arts, culture, entertainment and media"
   - "conflict, war and peace"
-  - "armed conflict"
-  - "human interest"
-  - "human migration"
+  - "disaster, accident and emergency incident"
+  - "mass media"
+  - "natural disaster"
 storyline_nexus: []
 geographic_location: International
 floor_values_engaged:

@@ -16,7 +16,13 @@ primary_themes:
 - congressional race
 - Ohio politics
 - Republican primary
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - election
+  - government
+  - "government policy"
+  - "law enforcement"
+  - politics
 storyline_nexus: []
 geographic_location: Toledo, Ohio, United States
 floor_values_engaged:

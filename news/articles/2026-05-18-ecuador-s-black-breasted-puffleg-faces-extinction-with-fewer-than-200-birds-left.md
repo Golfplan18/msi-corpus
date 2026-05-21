@@ -11,7 +11,10 @@ primary_themes:
 - conservation
 - endangered species
 - biodiversity
-topic_tags: []
+topic_tags:
+  - environment
+  - conservation
+  - "natural resources"
 storyline_nexus: []
 geographic_location: Ecuador
 floor_values_engaged:

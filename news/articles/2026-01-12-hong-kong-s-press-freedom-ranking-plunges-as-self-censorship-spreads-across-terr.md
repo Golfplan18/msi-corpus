@@ -18,7 +18,11 @@ primary_themes:
 - self-censorship
 - Hong Kong media
 - Jimmy Lai sentencing
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "arts, culture, entertainment and media"
+  - "mass media"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Hong Kong
 floor_values_engaged:

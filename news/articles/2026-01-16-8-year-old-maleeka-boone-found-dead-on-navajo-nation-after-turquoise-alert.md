@@ -16,7 +16,13 @@ primary_themes:
 - native-american-communities
 - criminal-investigation
 - arizona
-topic_tags: []
+topic_tags:
+  - crime
+  - "crime, law and justice"
+  - "human migration"
+  - "international relations"
+  - "law enforcement"
+  - trial
 storyline_nexus: []
 geographic_location: Coalmine Canyon, Navajo Nation, Arizona, United States
 floor_values_engaged:

@@ -21,12 +21,7 @@ primary_themes:
 - Big Tech accountability
 - utility ratepayers
 topic_tags:
-  - "science and technology"
-  - "politics"
-  - "government"
-  - "technology and engineering"
-  - "economy, business and finance"
-  - "government policy"
+  - society
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

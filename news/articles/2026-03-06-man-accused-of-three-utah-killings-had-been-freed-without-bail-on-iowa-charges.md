@@ -12,7 +12,9 @@ primary_themes:
 - homicide
 - criminal_justice
 - pretrial_release
-topic_tags: []
+topic_tags:
+  - "crime"
+  - "crime, law and justice"
 storyline_nexus: []
 geographic_location: Wayne County, Utah; Pagosa Springs, Colorado; Iowa, United States
 floor_values_engaged:

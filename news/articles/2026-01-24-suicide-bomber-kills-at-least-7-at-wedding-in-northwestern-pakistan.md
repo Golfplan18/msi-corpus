@@ -12,7 +12,13 @@ primary_entities:
 primary_themes:
 - terrorism
 - mass violence
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - crime
+  - "crime, law and justice"
+  - "human interest"
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: Dera Ismail Khan, Khyber Pakhtunkhwa, Pakistan
 floor_values_engaged:

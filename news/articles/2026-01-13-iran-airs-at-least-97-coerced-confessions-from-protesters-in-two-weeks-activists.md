@@ -16,9 +16,8 @@ primary_themes:
 - capital punishment
 - state media
 topic_tags:
-  - "science and technology"
-  - "politics"
-  - "artificial intelligence"
+  - "arts, culture, entertainment and media"
+  - "arts and entertainment"
 storyline_nexus: []
 geographic_location: Iran
 floor_values_engaged:

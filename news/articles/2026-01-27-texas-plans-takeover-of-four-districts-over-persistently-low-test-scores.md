@@ -15,7 +15,10 @@ primary_themes:
 - school accountability
 - educational equity
 - state intervention
-topic_tags: []
+topic_tags:
+  - education
+  - "education policy"
+  - school
 storyline_nexus: []
 geographic_location: Texas, United States
 floor_values_engaged:

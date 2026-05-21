@@ -16,7 +16,8 @@ primary_themes:
 - indigenous_sovereignty
 - environmental_protection
 - accountability_of_power
-topic_tags: []
+topic_tags:
+  - politics
 storyline_nexus: []
 geographic_location: Alaska, Arctic Refuge
 floor_values_engaged:

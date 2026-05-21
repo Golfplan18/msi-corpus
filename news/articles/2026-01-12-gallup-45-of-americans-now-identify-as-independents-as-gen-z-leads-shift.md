@@ -19,7 +19,10 @@ primary_themes:
 - generational politics
 - political polarization
 - midterm elections 2026
-topic_tags: []
+topic_tags:
+  - election
+  - "political process"
+  - politics
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

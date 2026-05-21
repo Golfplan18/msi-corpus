@@ -17,7 +17,11 @@ primary_themes:
 - Florida local government
 - Trump pardons
 - Jan. 6 defendants seeking office
-topic_tags: []
+topic_tags:
+  - "civil unrest"
+  - "conflict, war and peace"
+  - election
+  - politics
 storyline_nexus: []
 geographic_location: Manatee County, Florida, United States
 floor_values_engaged:

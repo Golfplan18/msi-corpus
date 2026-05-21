@@ -18,7 +18,11 @@ primary_themes:
 - cabinet nominations
 - gubernatorial appointment
 - 2026 midterm elections
-topic_tags: []
+topic_tags:
+  - "politics"
+  - "election"
+  - "political process"
+  - "government"
 storyline_nexus: []
 geographic_location: Oklahoma, United States
 floor_values_engaged:

@@ -13,7 +13,13 @@ primary_themes:
 - federal operations
 - Trump administration policy
 - controversial tactics
-topic_tags: []
+topic_tags:
+  - "civil unrest"
+  - "conflict, war and peace"
+  - government
+  - "government policy"
+  - "human interest"
+  - "human migration"
 storyline_nexus: []
 geographic_location: United States (Minneapolis, Los Angeles, Chicago, New Orleans, El Centro)
 floor_values_engaged:

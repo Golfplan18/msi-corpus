@@ -19,7 +19,9 @@ primary_themes:
 - monetary policy
 - DOJ investigation
 - central bank governance
-topic_tags: []
+topic_tags:
+  - banking
+  - "economy, business and finance"
 storyline_nexus: []
 geographic_location: Washington, D.C., United States
 floor_values_engaged:

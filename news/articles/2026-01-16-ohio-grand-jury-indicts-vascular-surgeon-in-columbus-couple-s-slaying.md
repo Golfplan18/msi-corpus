@@ -14,7 +14,13 @@ primary_themes:
 - criminal_justice
 - homicide
 - grand_jury_indictment
-topic_tags: []
+topic_tags:
+  - crime
+  - "crime, law and justice"
+  - "human migration"
+  - "international relations"
+  - "law enforcement"
+  - trial
 storyline_nexus: []
 geographic_location: Columbus, Ohio
 floor_values_engaged:

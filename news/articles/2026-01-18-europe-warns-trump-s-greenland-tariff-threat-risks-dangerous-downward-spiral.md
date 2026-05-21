@@ -19,7 +19,11 @@ primary_themes:
 - territorial sovereignty
 - NATO alliance
 - European solidarity
-topic_tags: []
+topic_tags:
+  - politics
+  - "international relations"
+  - "international trade"
+  - "economy, business and finance"
 storyline_nexus: []
 geographic_location: Europe / Greenland / United States
 floor_values_engaged:

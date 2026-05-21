@@ -21,10 +21,12 @@ primary_themes:
 - internet freedom
 - SpaceX
 topic_tags:
-  - "civil unrest"
-  - "conflict, war and peace"
+  - politics
+  - government
+  - "economy, business and finance"
   - "science and technology"
   - "space programme"
+  - "arts, culture, entertainment and media"
 storyline_nexus: []
 geographic_location: Iran
 floor_values_engaged:

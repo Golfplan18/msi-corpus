@@ -18,7 +18,13 @@ primary_themes:
 - authoritarian governance
 - gold industry corruption
 - US foreign policy
-topic_tags: []
+topic_tags:
+  - politics
+  - "human interest"
+  - "government policy"
+  - "international relations"
+  - "economy, business and finance"
+  - "human migration"
 storyline_nexus: []
 geographic_location: Nicaragua
 floor_values_engaged:

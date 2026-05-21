@@ -13,7 +13,13 @@ primary_themes:
 - Balochistan separatism
 - Pakistan-India tensions
 - counterterrorism
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - "government policy"
+  - "human migration"
+  - "international relations"
+  - "science and technology"
+  - terrorism
 storyline_nexus: []
 geographic_location: Kharan district, Balochistan, Pakistan
 floor_values_engaged:

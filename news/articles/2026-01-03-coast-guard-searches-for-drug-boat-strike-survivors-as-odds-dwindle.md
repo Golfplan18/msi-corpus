@@ -15,10 +15,11 @@ primary_themes:
 - search and rescue
 - narco-trafficking policy
 topic_tags:
-  - "crime, law and justice"
-  - "crime"
   - "conflict, war and peace"
-  - "disaster, accident and emergency incident"
+  - "armed conflict"
+  - labour
+  - "labour dispute"
+  - weather
 storyline_nexus: []
 geographic_location: eastern Pacific Ocean
 floor_values_engaged:

@@ -16,7 +16,13 @@ primary_themes:
 - cybersecurity
 - government AI oversight
 - technology governance
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "arts and entertainment"
+  - "arts, culture, entertainment and media"
+  - "economy, business and finance"
+  - government
+  - "government policy"
 storyline_nexus: []
 geographic_location: United States (Washington, D.C.)
 floor_values_engaged:

@@ -14,7 +14,10 @@ primary_themes:
 - political dissent
 - historical memory
 - civil society
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - politics
+  - trial
 storyline_nexus: []
 geographic_location: Hong Kong
 floor_values_engaged:

@@ -14,7 +14,11 @@ primary_themes:
 - immigration-enforcement
 - healthcare-access
 - public-health
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - health
+  - "law enforcement"
+  - politics
 storyline_nexus: []
 geographic_location: Minneapolis, Minnesota, USA
 floor_values_engaged:

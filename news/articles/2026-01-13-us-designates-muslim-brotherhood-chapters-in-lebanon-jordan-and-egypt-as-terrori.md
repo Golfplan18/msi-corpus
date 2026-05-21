@@ -15,11 +15,8 @@ primary_themes:
 - terrorist designations
 - Middle East regional politics
 topic_tags:
-  - "politics"
-  - "government"
-  - "government policy"
-  - "international relations"
-  - "conflict, war and peace"
+  - "arts, culture, entertainment and media"
+  - politics
 storyline_nexus: []
 geographic_location: Middle East — Lebanon, Jordan, Egypt
 floor_values_engaged:

@@ -20,8 +20,11 @@ primary_themes:
 - territorial sovereignty
 - Red Sea security
 topic_tags:
-  - politics
+  - "conflict, war and peace"
+  - government
   - "international relations"
+  - "peace process"
+  - politics
 storyline_nexus: []
 geographic_location: Hargeisa, Somaliland
 floor_values_engaged:

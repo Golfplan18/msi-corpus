@@ -21,9 +21,12 @@ primary_themes:
 - state budget response to federal cuts
 - congressional gridlock
 topic_tags:
-  - "government policy"
+  - crime
+  - "crime, law and justice"
+  - "disease and condition"
+  - "law enforcement"
   - "public health"
-  - health
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Connecticut, United States
 floor_values_engaged:

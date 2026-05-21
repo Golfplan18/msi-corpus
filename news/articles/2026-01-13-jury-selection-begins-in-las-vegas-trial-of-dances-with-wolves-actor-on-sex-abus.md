@@ -15,11 +15,12 @@ primary_themes:
 - criminal justice
 - cult abuse
 topic_tags:
+  - crime
   - "crime, law and justice"
-  - "trial"
-  - "arts, culture, entertainment and media"
-  - "politics"
-  - "election"
+  - "human migration"
+  - "international relations"
+  - "political process"
+  - trial
 storyline_nexus: []
 geographic_location: Las Vegas, Nevada
 floor_values_engaged:

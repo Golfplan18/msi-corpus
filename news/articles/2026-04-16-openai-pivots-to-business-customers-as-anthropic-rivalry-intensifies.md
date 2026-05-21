@@ -17,7 +17,13 @@ primary_themes:
 - enterprise_technology
 - AI_industry_competition
 - technology_business_strategy
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "competition discipline"
+  - "economy, business and finance"
+  - "science and technology"
+  - sport
+  - "technology and engineering"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

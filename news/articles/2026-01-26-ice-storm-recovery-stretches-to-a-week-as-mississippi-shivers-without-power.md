@@ -15,7 +15,13 @@ primary_themes:
 - power outages
 - emergency response
 - government action
-topic_tags: []
+topic_tags:
+  - "arts, culture, entertainment and media"
+  - "crime, law and justice"
+  - "disaster, accident and emergency incident"
+  - education
+  - "higher education"
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: Mississippi, United States
 floor_values_engaged:

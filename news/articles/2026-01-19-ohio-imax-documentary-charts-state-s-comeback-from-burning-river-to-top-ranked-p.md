@@ -18,7 +18,12 @@ primary_themes:
 - outdoor recreation
 - wildlife restoration
 - Ohio natural resources
-topic_tags: []
+topic_tags:
+  - "human interest"
+  - "arts, culture, entertainment and media"
+  - trial
+  - environment
+  - "crime, law and justice"
 storyline_nexus: []
 geographic_location: Ohio, United States
 floor_values_engaged:

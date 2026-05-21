@@ -23,7 +23,13 @@ primary_themes:
 - transportation disruption
 - emergency preparedness
 - government response
-topic_tags: []
+topic_tags:
+  - weather
+  - "weather warning"
+  - "crime, law and justice"
+  - "law enforcement"
+  - politics
+  - "government policy"
 storyline_nexus: []
 geographic_location: Northeastern United States
 floor_values_engaged:

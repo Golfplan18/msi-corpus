@@ -16,7 +16,10 @@ primary_themes:
 - US-Argentina relations
 - currency swap
 - austerity
-topic_tags: []
+topic_tags:
+  - politics
+  - "international relations"
+  - "economy, business and finance"
 storyline_nexus: []
 geographic_location: Argentina / United States
 floor_values_engaged:

@@ -11,7 +11,9 @@ primary_entities:
 primary_themes:
 - politics
 - U.S. news
-topic_tags: []
+topic_tags:
+  - education
+  - school
 storyline_nexus: []
 geographic_location: United States; New York City
 floor_values_engaged:

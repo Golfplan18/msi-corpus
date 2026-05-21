@@ -21,8 +21,12 @@ primary_themes:
 - Trump annexation rhetoric
 - Canada-U.S. trade relations
 topic_tags:
-  - politics
+  - "economy, business and finance"
   - "international relations"
+  - "international trade"
+  - "lifestyle and leisure"
+  - politics
+  - travel
 storyline_nexus: []
 geographic_location: Greenland; Paris, France
 floor_values_engaged:

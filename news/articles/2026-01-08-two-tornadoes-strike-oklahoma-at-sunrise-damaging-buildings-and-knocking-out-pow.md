@@ -16,9 +16,8 @@ primary_themes:
 - emergency management
 - power outages
 topic_tags:
-  - politics
-  - government
-  - "international relations"
+  - "disaster, accident and emergency incident"
+  - weather
 storyline_nexus: []
 geographic_location: Purcell and Shawnee, Oklahoma, United States
 floor_values_engaged:

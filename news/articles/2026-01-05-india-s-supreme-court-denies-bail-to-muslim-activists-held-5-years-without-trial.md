@@ -18,9 +18,12 @@ primary_themes:
 - judicial accountability
 - right to protest
 topic_tags:
+  - crime
   - "crime, law and justice"
+  - education
+  - "human interest"
   - judiciary
-  - trial
+  - school
 storyline_nexus: []
 geographic_location: New Delhi, India
 floor_values_engaged:

@@ -16,9 +16,7 @@ primary_themes:
 - diplomacy
 - internet freedom
 topic_tags:
-  - "civil unrest"
-  - "conflict, war and peace"
-  - "government policy"
+  - government
   - politics
 storyline_nexus: []
 geographic_location: Iran; Qatar; United Arab Emirates

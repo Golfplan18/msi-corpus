@@ -14,8 +14,6 @@ primary_themes:
 - California privacy law
 - technology policy
 topic_tags:
-  - "artificial intelligence"
-  - "crime, law and justice"
   - "science and technology"
 storyline_nexus: []
 geographic_location: California, United States

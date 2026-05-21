@@ -13,7 +13,9 @@ primary_themes:
 - abortion
 - federal funding
 - biomedical research
-topic_tags: []
+topic_tags:
+  - health
+  - politics
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

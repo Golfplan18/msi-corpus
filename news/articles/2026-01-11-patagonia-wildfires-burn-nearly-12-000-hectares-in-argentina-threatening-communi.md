@@ -18,8 +18,7 @@ primary_themes:
 topic_tags:
   - "disaster, accident and emergency incident"
   - "natural disaster"
-  - "environment"
-  - "climate change"
+  - environment
 storyline_nexus: []
 geographic_location: Chubut province, Patagonia, Argentina
 floor_values_engaged:

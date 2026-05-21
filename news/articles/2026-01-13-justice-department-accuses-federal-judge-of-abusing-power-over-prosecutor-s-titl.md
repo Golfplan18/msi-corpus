@@ -20,11 +20,7 @@ primary_themes:
 - separation of powers
 - Trump administration
 topic_tags:
-  - "science and technology"
-  - "politics"
-  - "government"
   - "conflict, war and peace"
-  - "artificial intelligence"
 storyline_nexus: []
 geographic_location: Richmond, Virginia; Washington, D.C.
 floor_values_engaged:

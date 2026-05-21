@@ -17,7 +17,13 @@ primary_themes:
 - collective_bargaining
 - artificial_intelligence_policy
 - public_health
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - employment
+  - health
+  - labour
+  - "labour dispute"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: New York City, New York, United States
 floor_values_engaged:

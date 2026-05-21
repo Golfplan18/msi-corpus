@@ -18,8 +18,11 @@ primary_themes:
 - evidence withholding
 - Florida immigration policy
 topic_tags:
+  - politics
+  - trial
+  - "government policy"
+  - environment
   - "crime, law and justice"
-  - corruption
 storyline_nexus: []
 geographic_location: Florida Everglades, United States
 floor_values_engaged:

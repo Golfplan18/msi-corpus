@@ -22,7 +22,11 @@ primary_themes:
 - crew travel benefits fraud
 - extradition
 - federal criminal proceedings
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "government policy"
+  - politics
+  - trial
 storyline_nexus: []
 geographic_location: Honolulu, Hawaii, United States
 floor_values_engaged:

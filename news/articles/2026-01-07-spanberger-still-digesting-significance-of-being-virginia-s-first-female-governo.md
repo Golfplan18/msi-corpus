@@ -15,7 +15,6 @@ primary_themes:
 - women in elected office
 topic_tags:
   - politics
-  - election
 storyline_nexus: []
 geographic_location: Richmond, Virginia, United States
 floor_values_engaged:

@@ -13,7 +13,12 @@ primary_themes:
 - personal finance
 - financial education
 - money management
-topic_tags: []
+topic_tags:
+  - "economy, business and finance"
+  - banking
+  - "arts, culture, entertainment and media"
+  - "social media"
+  - "arts and entertainment"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

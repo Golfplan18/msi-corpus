@@ -12,7 +12,13 @@ primary_themes:
 - transportation accident
 - criminal justice
 - public safety
-topic_tags: []
+topic_tags:
+  - crime
+  - "crime, law and justice"
+  - "disaster, accident and emergency incident"
+  - education
+  - school
+  - sport
 storyline_nexus: []
 geographic_location: Gauteng province, South Africa
 floor_values_engaged:

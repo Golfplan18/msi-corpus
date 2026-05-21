@@ -18,7 +18,9 @@ primary_themes:
 - northern Nigeria security crisis
 - mass killing
 - abduction
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: Kasuwan-Daji village, Borgu local government area, Niger State, Nigeria
 floor_values_engaged:

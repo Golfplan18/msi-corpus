@@ -16,7 +16,10 @@ primary_themes:
 - Olympics
 - cultural events
 - Italy
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "lifestyle and leisure"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Milan, Italy
 floor_values_engaged:

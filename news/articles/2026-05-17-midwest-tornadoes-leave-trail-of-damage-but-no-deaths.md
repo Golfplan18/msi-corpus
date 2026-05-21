@@ -19,7 +19,8 @@ primary_themes:
 - natural disaster
 - community recovery
 - midwest storms
-topic_tags: []
+topic_tags:
+  - weather
 storyline_nexus: []
 geographic_location: Illinois; Wisconsin; Minnesota; United States
 floor_values_engaged:

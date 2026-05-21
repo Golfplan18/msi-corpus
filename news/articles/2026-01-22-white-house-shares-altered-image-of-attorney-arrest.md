@@ -14,7 +14,13 @@ primary_themes:
 - government credibility
 - image manipulation
 - misinformation
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - discrimination
+  - government
+  - "law enforcement"
+  - politics
+  - religion
 storyline_nexus: []
 geographic_location: Minnesota, United States
 floor_values_engaged:

@@ -14,7 +14,11 @@ primary_themes:
 - institutional accountability
 - sexual abuse allegations
 - facility relocation
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - labour
+  - "law enforcement"
+  - society
 storyline_nexus: []
 geographic_location: Kearney and Omaha, Nebraska, USA
 floor_values_engaged:

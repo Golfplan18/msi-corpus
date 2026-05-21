@@ -12,7 +12,13 @@ primary_themes:
 - Political campaigns
 - Affordability and economics
 - Immigration enforcement
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "economy, business and finance"
+  - election
+  - government
+  - "government policy"
+  - "human interest"
 storyline_nexus: []
 geographic_location: Clive, Iowa; Des Moines, Iowa; Minneapolis, Minnesota
 floor_values_engaged:

@@ -12,8 +12,12 @@ primary_themes:
 - venue safety
 - disaster history
 topic_tags:
+  - "arts, culture, entertainment and media"
   - "disaster, accident and emergency incident"
-  - "fire"
+  - fire
+  - "mass media"
+  - music
+  - "science and technology"
 storyline_nexus: []
 geographic_location: International
 floor_values_engaged:

@@ -22,7 +22,9 @@ primary_themes:
 - Press freedom
 topic_tags:
   - "conflict, war and peace"
-  - "armed conflict"
+  - "international relations"
+  - "peace process"
+  - politics
 storyline_nexus: []
 geographic_location: West Bank / Jerusalem / Middle East
 floor_values_engaged:

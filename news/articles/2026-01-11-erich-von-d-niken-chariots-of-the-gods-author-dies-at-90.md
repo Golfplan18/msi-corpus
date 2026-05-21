@@ -16,7 +16,12 @@ primary_themes:
 - paranormal literature
 - ancient astronaut theory
 - Swiss culture
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "crime, law and justice"
+  - health
+  - prosecution
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Switzerland
 floor_values_engaged:

@@ -14,7 +14,13 @@ primary_themes:
 - international law
 - occupation
 - aid operations
-topic_tags: []
+topic_tags:
+  - banking
+  - "crime, law and justice"
+  - "disaster, accident and emergency incident"
+  - "economy, business and finance"
+  - fire
+  - politics
 storyline_nexus: []
 geographic_location: East Jerusalem, Gaza, occupied West Bank
 floor_values_engaged:

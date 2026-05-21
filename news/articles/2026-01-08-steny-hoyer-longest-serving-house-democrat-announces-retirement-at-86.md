@@ -15,9 +15,8 @@ primary_themes:
 - democratic_leadership_transition
 - midterm_elections_2026
 topic_tags:
+  - election
   - politics
-  - government
-  - "international relations"
 storyline_nexus: []
 geographic_location: Washington, D.C. / Maryland
 floor_values_engaged:

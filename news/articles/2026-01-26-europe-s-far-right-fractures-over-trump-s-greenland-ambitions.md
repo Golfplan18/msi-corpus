@@ -15,7 +15,10 @@ primary_themes:
 - far-right nationalism
 - foreign policy
 - sovereignty
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - "international relations"
+  - politics
 storyline_nexus: []
 geographic_location: Europe; Brussels; Hungary; France; Italy; Poland; Czech Republic; Slovakia
 floor_values_engaged:

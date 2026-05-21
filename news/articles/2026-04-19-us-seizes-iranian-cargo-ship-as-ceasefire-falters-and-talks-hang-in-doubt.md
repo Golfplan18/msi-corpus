@@ -14,7 +14,13 @@ primary_themes:
 - Strait of Hormuz blockade
 - Diplomatic negotiations
 - Energy market disruption
-topic_tags: []
+topic_tags:
+  - "civil unrest"
+  - "conflict, war and peace"
+  - "disaster, accident and emergency incident"
+  - "international relations"
+  - "natural disaster"
+  - "political dissent"
 storyline_nexus: []
 geographic_location: Strait of Hormuz; Iran; Pakistan; Gulf region
 floor_values_engaged:

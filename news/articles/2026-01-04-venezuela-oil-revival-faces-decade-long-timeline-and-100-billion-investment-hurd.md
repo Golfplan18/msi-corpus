@@ -20,7 +20,12 @@ primary_themes:
 - global energy markets
 - international law
 - OPEC
-topic_tags: []
+topic_tags:
+  - politics
+  - "government policy"
+  - "market and exchange"
+  - "economy, business and finance"
+  - "international relations"
 storyline_nexus: []
 geographic_location: Venezuela
 floor_values_engaged:

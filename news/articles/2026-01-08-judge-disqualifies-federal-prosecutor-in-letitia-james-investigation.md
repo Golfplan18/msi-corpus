@@ -17,7 +17,6 @@ primary_themes:
 - Senate confirmation bypass
 topic_tags:
   - "crime, law and justice"
-  - prosecution
   - judiciary
 storyline_nexus: []
 geographic_location: Northern District of New York, United States

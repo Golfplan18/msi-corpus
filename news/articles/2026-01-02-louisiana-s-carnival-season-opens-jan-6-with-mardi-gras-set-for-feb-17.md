@@ -17,8 +17,7 @@ primary_themes:
 - Louisiana
 - tourism
 topic_tags:
-  - "arts, culture, entertainment and media"
-  - "lifestyle and leisure"
+  - religion
 storyline_nexus: []
 geographic_location: New Orleans, Louisiana, United States
 floor_values_engaged:

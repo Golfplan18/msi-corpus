@@ -19,7 +19,13 @@ primary_themes:
 - southern Yemeni separatism
 - Saudi-UAE rivalry
 - protest and civil unrest
-topic_tags: []
+topic_tags:
+  - "arts, culture, entertainment and media"
+  - "conflict, war and peace"
+  - election
+  - "mass media"
+  - music
+  - politics
 storyline_nexus: []
 geographic_location: Aden, Yemen
 floor_values_engaged:

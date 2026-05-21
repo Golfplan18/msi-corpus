@@ -12,7 +12,13 @@ primary_themes:
 - school safety
 - gun violence
 - emergency response
-topic_tags: []
+topic_tags:
+  - "human interest"
+  - education
+  - trial
+  - "crime, law and justice"
+  - "human migration"
+  - school
 storyline_nexus: []
 geographic_location: Pauls Valley, Oklahoma, United States
 floor_values_engaged:

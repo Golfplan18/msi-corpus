@@ -14,7 +14,13 @@ primary_themes:
 - presidential_power
 - legal_challenge
 - monetary_policy
-topic_tags: []
+topic_tags:
+  - banking
+  - "crime, law and justice"
+  - "disaster, accident and emergency incident"
+  - "economy, business and finance"
+  - fire
+  - politics
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

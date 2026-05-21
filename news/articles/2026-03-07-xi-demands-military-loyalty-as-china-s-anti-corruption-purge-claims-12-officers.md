@@ -14,7 +14,13 @@ primary_themes:
 - political loyalty
 - China defense budget
 - two sessions
-topic_tags: []
+topic_tags:
+  - politics
+  - government
+  - "crime, law and justice"
+  - "law enforcement"
+  - corruption
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: Beijing, China
 floor_values_engaged:

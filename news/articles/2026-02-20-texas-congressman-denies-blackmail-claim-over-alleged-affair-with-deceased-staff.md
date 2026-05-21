@@ -13,7 +13,13 @@ primary_themes:
 - congressional_accountability
 - alleged_sexual_misconduct
 - election_politics
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "disaster, accident and emergency incident"
+  - election
+  - fire
+  - government
+  - "government policy"
 storyline_nexus: []
 geographic_location: Texas, United States
 floor_values_engaged:

@@ -19,8 +19,10 @@ primary_themes:
 - energy transition
 - California governance
 topic_tags:
-  - environment
+  - politics
+  - "government policy"
   - "climate change"
+  - environment
 storyline_nexus: []
 geographic_location: San Jose, California, United States
 floor_values_engaged:

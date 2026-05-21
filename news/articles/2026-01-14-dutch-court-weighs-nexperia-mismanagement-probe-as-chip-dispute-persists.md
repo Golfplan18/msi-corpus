@@ -18,10 +18,8 @@ primary_themes:
 - automotive industry chip supply
 - corporate governance
 topic_tags:
-  - "construction and property"
-  - "economy, business and finance"
   - politics
-  - "science and technology"
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: Amsterdam, Netherlands
 floor_values_engaged:

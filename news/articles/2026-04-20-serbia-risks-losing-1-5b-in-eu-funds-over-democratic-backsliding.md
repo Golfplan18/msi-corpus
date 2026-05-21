@@ -14,7 +14,8 @@ primary_themes:
 - Democratic backsliding
 - EU integration
 - Geopolitical influence
-topic_tags: []
+topic_tags:
+  - politics
 storyline_nexus: []
 geographic_location: Serbia; European Union
 floor_values_engaged:

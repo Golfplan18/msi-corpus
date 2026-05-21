@@ -14,7 +14,8 @@ primary_themes:
 - 2026 Winter Olympics
 - celebrity
 - K-pop
-topic_tags: []
+topic_tags:
+  - "arts, culture, entertainment and media"
 storyline_nexus: []
 geographic_location: Milan, Italy
 floor_values_engaged:

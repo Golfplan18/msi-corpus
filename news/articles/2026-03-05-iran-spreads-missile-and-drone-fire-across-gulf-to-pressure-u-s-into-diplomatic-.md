@@ -20,7 +20,11 @@ primary_themes:
 - missile and drone warfare
 - regional conflict escalation
 - energy infrastructure targeting
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - "armed conflict"
+  - "politics"
+  - "international relations"
 storyline_nexus: []
 geographic_location: Persian Gulf / Middle East
 floor_values_engaged:

@@ -16,7 +16,8 @@ primary_themes:
 - government surveillance
 - national security
 - civil liberties
-topic_tags: []
+topic_tags:
+  - politics
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

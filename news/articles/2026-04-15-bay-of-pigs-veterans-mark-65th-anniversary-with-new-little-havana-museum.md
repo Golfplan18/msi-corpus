@@ -18,7 +18,9 @@ primary_themes:
 - Cold War legacy
 - Cuban exile community
 - U.S.-Cuba relations
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - "arts, culture, entertainment and media"
 storyline_nexus: []
 geographic_location: Miami, Florida, United States
 floor_values_engaged:

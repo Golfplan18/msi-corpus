@@ -16,7 +16,11 @@ primary_themes:
 - peace
 - Mexico
 - Catholic-devotion
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - religion
+  - "arts, culture, entertainment and media"
+  - music
 storyline_nexus: []
 geographic_location: Tepito, Mexico City, Mexico
 floor_values_engaged:

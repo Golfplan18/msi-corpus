@@ -20,7 +20,9 @@ primary_themes:
 - economic justice
 - anti-apartheid
 - international solidarity
-topic_tags: []
+topic_tags:
+  - "arts, culture, entertainment and media"
+  - "music"
 storyline_nexus: []
 geographic_location: Chicago, Illinois
 floor_values_engaged:

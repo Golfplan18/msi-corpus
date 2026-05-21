@@ -13,7 +13,13 @@ primary_themes:
 - oil_and_gas_industry
 - regional_economy
 - market_dynamics
-topic_tags: []
+topic_tags:
+  - politics
+  - government
+  - "economy, business and finance"
+  - "market and exchange"
+  - labour
+  - employment
 storyline_nexus: []
 geographic_location: Texas, USA
 floor_values_engaged:

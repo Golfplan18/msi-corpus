@@ -12,7 +12,9 @@ primary_themes:
 - winter_storms
 - atmospheric_science
 - public_safety
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

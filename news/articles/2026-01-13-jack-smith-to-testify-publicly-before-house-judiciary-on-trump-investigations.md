@@ -17,11 +17,12 @@ primary_themes:
 - 2020 election
 - Classified documents
 topic_tags:
-  - "science and technology"
-  - "politics"
-  - "election"
   - "artificial intelligence"
-  - "environment"
+  - "crime, law and justice"
+  - election
+  - "law enforcement"
+  - politics
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Washington, D.C.
 floor_values_engaged:

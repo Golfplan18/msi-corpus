@@ -11,9 +11,7 @@ primary_themes:
 - housing conditions
 - government enforcement
 - Puerto Rico
-topic_tags:
-  - "politics"
-  - "government"
+topic_tags: []
 storyline_nexus: []
 geographic_location: San Juan, Puerto Rico
 floor_values_engaged:

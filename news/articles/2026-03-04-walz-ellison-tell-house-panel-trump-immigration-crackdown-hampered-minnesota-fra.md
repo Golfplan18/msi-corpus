@@ -17,7 +17,12 @@ primary_themes:
 - federal-state conflict
 - Medicaid funding
 - congressional oversight
-topic_tags: []
+topic_tags:
+  - "politics"
+  - "government"
+  - "government policy"
+  - "crime, law and justice"
+  - "corruption"
 storyline_nexus: []
 geographic_location: Minnesota, United States
 floor_values_engaged:

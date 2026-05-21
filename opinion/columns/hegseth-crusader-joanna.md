@@ -20,7 +20,12 @@ primary_themes:
 - department_of_defense
 - theonomy
 - captured_brand
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - education
+  - school
+  - religion
+  - "religious leader"
 storyline_nexus: []
 geographic_location: Q_united_states
 floor_values_engaged:

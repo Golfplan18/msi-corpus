@@ -31,12 +31,12 @@ primary_themes:
 - energy infrastructure
 - local government
 topic_tags:
-  - "politics"
-  - "government policy"
+  - "artificial intelligence"
+  - government
+  - "international relations"
+  - "monetary policy"
+  - politics
   - "science and technology"
-  - "computing and information technology"
-  - "society"
-  - "communities"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

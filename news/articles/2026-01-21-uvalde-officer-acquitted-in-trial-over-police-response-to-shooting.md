@@ -15,7 +15,13 @@ primary_themes:
 - Law enforcement accountability
 - Criminal justice
 - School safety
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - crime
+  - "crime, law and justice"
+  - education
+  - government
+  - "government policy"
 storyline_nexus: []
 geographic_location: Corpus Christi, Texas; Uvalde, Texas
 floor_values_engaged:

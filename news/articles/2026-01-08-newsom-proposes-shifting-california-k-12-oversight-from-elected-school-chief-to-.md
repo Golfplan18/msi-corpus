@@ -18,9 +18,11 @@ primary_themes:
 - K-12 education
 - federal education policy
 topic_tags:
-  - "government policy"
-  - school
+  - politics
   - education
+  - "government policy"
+  - "economy, business and finance"
+  - school
 storyline_nexus: []
 geographic_location: California, United States
 floor_values_engaged:

@@ -11,7 +11,9 @@ primary_themes:
 - Drug trafficking
 - Federal law enforcement
 - Criminal justice
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: Santa Ana, California; Mexico; Canada
 floor_values_engaged:

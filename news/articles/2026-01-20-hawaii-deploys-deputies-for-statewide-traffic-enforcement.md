@@ -15,7 +15,10 @@ primary_themes:
 - traffic enforcement
 - law enforcement deployment
 - traffic fatalities
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "law enforcement"
+  - sport
 storyline_nexus: []
 geographic_location: Hawaii, United States
 floor_values_engaged:

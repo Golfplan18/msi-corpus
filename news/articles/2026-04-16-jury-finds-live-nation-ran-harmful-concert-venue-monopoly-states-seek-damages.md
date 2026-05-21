@@ -15,7 +15,13 @@ primary_themes:
 - entertainment industry
 - consumer protection
 - corporate accountability
-topic_tags: []
+topic_tags:
+  - "arts, culture, entertainment and media"
+  - "business information"
+  - "crime, law and justice"
+  - "economy, business and finance"
+  - judiciary
+  - music
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

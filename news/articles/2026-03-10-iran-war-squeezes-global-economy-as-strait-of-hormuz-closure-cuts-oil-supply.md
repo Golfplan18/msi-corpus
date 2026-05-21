@@ -19,7 +19,13 @@ primary_themes:
 - food security
 - central bank policy
 - Strait of Hormuz
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "artificial intelligence"
+  - "conflict, war and peace"
+  - crime
+  - "crime, law and justice"
+  - economy
 storyline_nexus: []
 geographic_location: Global / Middle East / United States
 floor_values_engaged:

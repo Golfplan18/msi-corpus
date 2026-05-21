@@ -18,7 +18,11 @@ primary_themes:
 - rescue_operations
 - building_safety
 - regulatory_failure
-topic_tags: []
+topic_tags:
+  - "disaster, accident and emergency incident"
+  - "crime, law and justice"
+  - fire
+  - corruption
 storyline_nexus: []
 geographic_location: Karachi, Pakistan
 floor_values_engaged:

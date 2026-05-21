@@ -16,7 +16,9 @@ primary_themes:
 - presidential_travel
 - military_operations
 - aircraft_maintenance
-topic_tags: []
+topic_tags:
+  - politics
+  - "economy, business and finance"
 storyline_nexus: []
 geographic_location: United States (Washington, D.C.)
 floor_values_engaged:

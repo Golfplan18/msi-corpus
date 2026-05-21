@@ -17,7 +17,10 @@ primary_themes:
 - interest rate policy
 - financial market stability
 - central bank autonomy
-topic_tags: []
+topic_tags:
+  - banking
+  - "economy, business and finance"
+  - "market and exchange"
 storyline_nexus: []
 geographic_location: Washington, D.C.
 floor_values_engaged:

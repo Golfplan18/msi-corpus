@@ -15,7 +15,13 @@ primary_themes:
 - domestic violence
 - community response
 - gun regulation
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - crime
+  - "crime, law and justice"
+  - government
+  - "government policy"
+  - politics
 storyline_nexus: []
 geographic_location: Shreveport, Louisiana, United States
 floor_values_engaged:

@@ -19,7 +19,11 @@ primary_themes:
 - Visa restrictions
 - Cultural sovereignty
 - Data sovereignty
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "climate change"
+  - environment
+  - "science and technology"
 storyline_nexus: []
 geographic_location: United States (New York); Kenya; Chad; Oregon
 floor_values_engaged:

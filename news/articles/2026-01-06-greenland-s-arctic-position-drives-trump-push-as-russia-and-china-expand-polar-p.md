@@ -19,8 +19,12 @@ primary_themes:
 - rare earth minerals
 - GIUK Gap
 topic_tags:
+  - environment
+  - "climate change"
   - politics
-  - "international relations"
+  - government
+  - "conflict, war and peace"
+  - sport
 storyline_nexus: []
 geographic_location: Greenland / Arctic
 floor_values_engaged:

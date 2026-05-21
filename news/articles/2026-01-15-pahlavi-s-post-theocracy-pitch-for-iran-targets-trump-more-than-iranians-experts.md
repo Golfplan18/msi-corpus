@@ -14,7 +14,13 @@ primary_themes:
 - Iranian opposition in exile
 - U.S.-Iran relations
 - Trump foreign policy
-topic_tags: []
+topic_tags:
+  - politics
+  - "human interest"
+  - society
+  - "government policy"
+  - "international relations"
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: Iran; United States; Israel
 floor_values_engaged:

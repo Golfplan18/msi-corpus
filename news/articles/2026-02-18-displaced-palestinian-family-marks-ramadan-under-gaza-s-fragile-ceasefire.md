@@ -13,7 +13,10 @@ primary_themes:
 - humanitarian_crisis
 - religious_observance
 - displacement
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - religion
 storyline_nexus: []
 geographic_location: Gaza Strip
 floor_values_engaged:

@@ -10,7 +10,13 @@ primary_themes:
 - sexual_assault
 - sports_accountability
 - french_judiciary
-topic_tags: []
+topic_tags:
+  - crime
+  - "crime, law and justice"
+  - "human migration"
+  - "international relations"
+  - "law enforcement"
+  - trial
 storyline_nexus: []
 geographic_location: France
 floor_values_engaged:

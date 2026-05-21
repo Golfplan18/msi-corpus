@@ -18,7 +18,9 @@ primary_themes:
 - search and rescue
 - Indonesia
 - transportation safety
-topic_tags: []
+topic_tags:
+  - "disaster, accident and emergency incident"
+  - "transportation accident and incident"
 storyline_nexus: []
 geographic_location: Sulawesi, Indonesia
 floor_values_engaged:

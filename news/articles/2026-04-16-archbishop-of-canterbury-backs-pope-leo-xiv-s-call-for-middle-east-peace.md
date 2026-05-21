@@ -14,7 +14,13 @@ primary_themes:
 - Middle East conflict
 - faith and politics
 - international diplomacy
-topic_tags: []
+topic_tags:
+  - "belief systems"
+  - government
+  - "political dissent"
+  - politics
+  - religion
+  - "science and technology"
 storyline_nexus: []
 geographic_location: London, United Kingdom
 floor_values_engaged:

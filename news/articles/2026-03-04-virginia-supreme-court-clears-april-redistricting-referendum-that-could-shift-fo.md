@@ -18,7 +18,11 @@ primary_themes:
 - state courts
 - mid-decade redistricting
 - voting
-topic_tags: []
+topic_tags:
+  - "politics"
+  - "election"
+  - "political process"
+  - "government"
 storyline_nexus: []
 geographic_location: Richmond, Virginia, United States
 floor_values_engaged:

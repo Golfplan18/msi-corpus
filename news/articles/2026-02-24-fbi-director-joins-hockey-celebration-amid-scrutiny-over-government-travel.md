@@ -14,7 +14,13 @@ primary_themes:
 - government_accountability
 - government_travel
 - political_criticism
-topic_tags: []
+topic_tags:
+  - "accident and emergency incident"
+  - crime
+  - "crime, law and justice"
+  - "disaster, accident and emergency incident"
+  - government
+  - "government policy"
 storyline_nexus: []
 geographic_location: Milan, Italy; United States
 floor_values_engaged:

@@ -17,7 +17,13 @@ primary_themes:
 - economic crisis
 - US-Iran relations
 - communications blackout
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "crime, law and justice"
+  - "economy, business and finance"
+  - "human interest"
+  - "international relations"
 storyline_nexus: []
 geographic_location: Iran
 floor_values_engaged:

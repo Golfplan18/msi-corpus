@@ -17,7 +17,11 @@ primary_themes:
 - STATE_VIOLENCE
 - HUMAN_RIGHTS
 - CRISISLEX_T03_DEAD
-topic_tags: []
+topic_tags:
+  - education
+  - society
+  - "crime, law and justice"
+  - crime
 storyline_nexus: []
 geographic_location: Tehran and Kermanshah, Iran
 floor_values_engaged:

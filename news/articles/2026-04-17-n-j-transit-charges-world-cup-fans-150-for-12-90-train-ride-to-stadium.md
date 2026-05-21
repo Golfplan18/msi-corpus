@@ -15,7 +15,8 @@ primary_themes:
 - major_sporting_events
 - cost_allocation
 - public_policy
-topic_tags: []
+topic_tags:
+  - sport
 storyline_nexus: []
 geographic_location: New Jersey, New York
 floor_values_engaged:

@@ -14,7 +14,13 @@ primary_themes:
 - immigration enforcement
 - officer-involved shooting
 - governmental accountability
-topic_tags: []
+topic_tags:
+  - politics
+  - "human interest"
+  - "government policy"
+  - crime
+  - "crime, law and justice"
+  - "human migration"
 storyline_nexus: []
 geographic_location: South Padre Island, Texas, United States
 floor_values_engaged:

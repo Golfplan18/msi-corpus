@@ -18,7 +18,12 @@ primary_themes:
 - trade policy
 - government refunds
 - economic policy
-topic_tags: []
+topic_tags:
+  - politics
+  - government
+  - "crime, law and justice"
+  - judiciary
+  - "disaster, accident and emergency incident"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

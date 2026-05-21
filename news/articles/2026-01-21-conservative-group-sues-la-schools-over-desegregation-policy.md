@@ -12,7 +12,10 @@ primary_themes:
 - civil_rights
 - desegregation
 - discrimination_litigation
-topic_tags: []
+topic_tags:
+  - discrimination
+  - education
+  - society
 storyline_nexus: []
 geographic_location: Los Angeles, California, United States
 floor_values_engaged:

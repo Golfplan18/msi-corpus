@@ -17,7 +17,13 @@ primary_themes:
 - heat waves
 - emergency response
 - evacuation
-topic_tags: []
+topic_tags:
+  - "climate change"
+  - crime
+  - "crime, law and justice"
+  - "disaster, accident and emergency incident"
+  - environment
+  - fire
 storyline_nexus: []
 geographic_location: Biobio and Ñuble regions, Chile
 floor_values_engaged:

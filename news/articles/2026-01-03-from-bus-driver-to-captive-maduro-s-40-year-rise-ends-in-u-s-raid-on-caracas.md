@@ -18,12 +18,10 @@ primary_themes:
 - Latin American politics
 - economic collapse
 topic_tags:
+  - "armed conflict"
   - "conflict, war and peace"
-  - "international military intervention"
-  - "politics"
-  - "government"
-  - "crime, law and justice"
-  - "prosecution"
+  - "economy, business and finance"
+  - politics
 storyline_nexus: []
 geographic_location: Caracas, Venezuela
 floor_values_engaged:

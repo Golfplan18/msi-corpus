@@ -19,7 +19,13 @@ primary_themes:
 - medical technology
 - crew safety
 - institutional response
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "disaster, accident and emergency incident"
+  - "disease and condition"
+  - "public health"
+  - "science and technology"
+  - "space programme"
 storyline_nexus: []
 geographic_location: International Space Station / United States
 floor_values_engaged:

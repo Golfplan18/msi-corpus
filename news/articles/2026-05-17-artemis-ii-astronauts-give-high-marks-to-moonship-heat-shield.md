@@ -17,7 +17,9 @@ primary_themes:
 - Space exploration
 - Scientific achievement
 - NASA human spaceflight
-topic_tags: []
+topic_tags:
+  - "science and technology"
+  - "space programme"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

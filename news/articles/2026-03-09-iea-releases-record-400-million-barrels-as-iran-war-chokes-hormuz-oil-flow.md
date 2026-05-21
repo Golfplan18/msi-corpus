@@ -19,7 +19,8 @@ primary_themes:
 - oil prices
 - strategic petroleum reserves
 - global supply disruption
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: International
 floor_values_engaged:

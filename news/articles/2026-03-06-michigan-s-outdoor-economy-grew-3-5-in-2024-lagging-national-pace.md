@@ -19,7 +19,9 @@ primary_themes:
 - state economic development
 - climate and seasonality
 - post-pandemic economic normalization
-topic_tags: []
+topic_tags:
+  - "economy, business and finance"
+  - "business information"
 storyline_nexus: []
 geographic_location: Michigan, United States
 floor_values_engaged:

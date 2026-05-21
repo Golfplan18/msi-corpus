@@ -14,7 +14,9 @@ primary_themes:
 - missing persons
 - deep-sea search
 - ocean exploration
-topic_tags: []
+topic_tags:
+  - "disaster, accident and emergency incident"
+  - "transportation accident and incident"
 storyline_nexus: []
 geographic_location: Southern Indian Ocean; Kuala Lumpur, Malaysia
 floor_values_engaged:

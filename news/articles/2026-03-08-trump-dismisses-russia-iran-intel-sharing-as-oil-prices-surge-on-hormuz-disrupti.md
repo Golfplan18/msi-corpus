@@ -19,7 +19,13 @@ primary_themes:
 - oil market disruption
 - India-Russia oil sanctions
 - Strategic Petroleum Reserve
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "artificial intelligence"
+  - "conflict, war and peace"
+  - crime
+  - "crime, law and justice"
+  - economy
 storyline_nexus: []
 geographic_location: Middle East / International
 floor_values_engaged:

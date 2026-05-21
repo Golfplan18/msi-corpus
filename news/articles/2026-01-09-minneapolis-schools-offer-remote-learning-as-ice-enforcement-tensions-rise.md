@@ -17,7 +17,13 @@ primary_themes:
 - education
 - remote learning
 - school safety
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "crime, law and justice"
+  - education
+  - government
+  - "government policy"
+  - "human interest"
 storyline_nexus: []
 geographic_location: Minneapolis, Minnesota, United States
 floor_values_engaged:

@@ -16,7 +16,8 @@ primary_themes:
 - Arctic security
 - NATO
 - territorial acquisition
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: Greenland
 floor_values_engaged:

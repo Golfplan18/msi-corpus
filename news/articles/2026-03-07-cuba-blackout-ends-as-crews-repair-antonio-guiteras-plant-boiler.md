@@ -16,7 +16,9 @@ primary_themes:
 - Cuba energy crisis
 - Venezuelan oil supply
 - U.S. foreign policy
-topic_tags: []
+topic_tags:
+  - "disaster, accident and emergency incident"
+  - "accident and emergency incident"
 storyline_nexus: []
 geographic_location: Havana, Cuba
 floor_values_engaged:

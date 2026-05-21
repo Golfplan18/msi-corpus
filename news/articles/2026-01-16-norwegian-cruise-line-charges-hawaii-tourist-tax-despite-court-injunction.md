@@ -19,7 +19,10 @@ primary_themes:
 - consumer rights
 - court injunctions
 - climate finance
-topic_tags: []
+topic_tags:
+  - "climate change"
+  - "economy, business and finance"
+  - environment
 storyline_nexus: []
 geographic_location: Hawaii, United States
 floor_values_engaged:

@@ -16,7 +16,13 @@ primary_themes:
 - criminal justice
 - immigration and citizenship
 - law enforcement
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - crime
+  - "crime, law and justice"
+  - government
+  - "government policy"
+  - "human interest"
 storyline_nexus: []
 geographic_location: Atlanta metropolitan area, Georgia, United States
 floor_values_engaged:

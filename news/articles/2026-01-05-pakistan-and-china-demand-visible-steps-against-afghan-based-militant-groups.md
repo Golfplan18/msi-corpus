@@ -19,8 +19,9 @@ primary_themes:
 - China-Pakistan relations
 - CPEC
 topic_tags:
-  - "conflict, war and peace"
-  - terrorism
+  - "economy, business and finance"
+  - "international relations"
+  - politics
 storyline_nexus: []
 geographic_location: South Asia; Beijing
 floor_values_engaged:

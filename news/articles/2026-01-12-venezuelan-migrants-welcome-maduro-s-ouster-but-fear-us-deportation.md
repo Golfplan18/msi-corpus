@@ -17,12 +17,7 @@ primary_themes:
 - Temporary Protected Status
 - Maduro ouster
 - US deportation policy
-topic_tags:
-  - "science and technology"
-  - "politics"
-  - "government"
-  - "human interest"
-  - "government policy"
+topic_tags: []
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

@@ -14,7 +14,11 @@ primary_themes:
 - Medicaid oversight
 - federal-state funding disputes
 - fraud investigation
-topic_tags: []
+topic_tags:
+  - "government policy"
+  - health
+  - politics
+  - "science and technology"
 storyline_nexus: []
 geographic_location: New York, United States
 floor_values_engaged:

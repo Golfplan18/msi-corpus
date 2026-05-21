@@ -19,7 +19,11 @@ primary_themes:
 - government accountability
 - background vetting procedures
 - mass deportation campaign
-topic_tags: []
+topic_tags:
+  - "human migration"
+  - politics
+  - "economy, business and finance"
+  - "human interest"
 storyline_nexus: []
 geographic_location: United States (Minnesota, Georgia, Kansas, Colorado, Virginia)
 floor_values_engaged:

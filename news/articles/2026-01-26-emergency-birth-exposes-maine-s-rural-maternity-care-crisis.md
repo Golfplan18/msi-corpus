@@ -13,7 +13,8 @@ primary_themes:
 - maternal health
 - hospital closures
 - emergency delivery
-topic_tags: []
+topic_tags:
+  - health
 storyline_nexus: []
 geographic_location: Maine, United States
 floor_values_engaged:

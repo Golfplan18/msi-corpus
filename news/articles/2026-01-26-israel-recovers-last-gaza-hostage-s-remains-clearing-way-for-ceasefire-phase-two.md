@@ -14,7 +14,9 @@ primary_themes:
 - hostages
 - conflict
 - negotiations
-topic_tags: []
+topic_tags:
+  - "disaster, accident and emergency incident"
+  - fire
 storyline_nexus: []
 geographic_location: Gaza, Israel, Egypt
 floor_values_engaged:

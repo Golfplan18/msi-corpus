@@ -14,7 +14,6 @@ primary_themes:
 - doctor-patient relationship
 topic_tags:
   - health
-  - "health treatment and procedure"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

@@ -12,7 +12,12 @@ primary_themes:
 - immigration enforcement
 - constitutional rights
 - Trump administration policy
-topic_tags: []
+topic_tags:
+  - politics
+  - "human interest"
+  - society
+  - "government policy"
+  - "human migration"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

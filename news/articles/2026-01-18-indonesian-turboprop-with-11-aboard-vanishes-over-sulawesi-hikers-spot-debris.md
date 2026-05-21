@@ -17,7 +17,11 @@ primary_themes:
 - aviation accident
 - search and rescue
 - Indonesia transportation safety
-topic_tags: []
+topic_tags:
+  - "disaster, accident and emergency incident"
+  - fire
+  - sport
+  - "sport event"
 storyline_nexus: []
 geographic_location: Maros district, South Sulawesi province, Indonesia
 floor_values_engaged:

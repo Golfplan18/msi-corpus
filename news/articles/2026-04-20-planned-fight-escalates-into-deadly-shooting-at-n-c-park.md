@@ -11,7 +11,11 @@ primary_themes:
 - gun_violence
 - youth_violence
 - public_safety
-topic_tags: []
+topic_tags:
+  - "human migration"
+  - "crime, law and justice"
+  - crime
+  - "human interest"
 storyline_nexus: []
 geographic_location: Winston-Salem, North Carolina, United States
 floor_values_engaged:

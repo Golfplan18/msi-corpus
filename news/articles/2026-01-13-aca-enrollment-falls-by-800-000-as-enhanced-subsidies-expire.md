@@ -16,11 +16,10 @@ primary_themes:
 - health care costs
 - federal subsidies
 topic_tags:
+  - government
+  - health
+  - politics
   - "science and technology"
-  - "politics"
-  - "government"
-  - "health"
-  - "artificial intelligence"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

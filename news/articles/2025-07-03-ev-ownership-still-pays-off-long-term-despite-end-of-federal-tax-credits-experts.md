@@ -16,10 +16,12 @@ primary_themes:
 - climate and environment
 - transportation
 topic_tags:
+  - "accident and emergency incident"
+  - "artificial intelligence"
+  - "climate change"
+  - "crime, law and justice"
+  - "disaster, accident and emergency incident"
   - "economy, business and finance"
-  - "consumer goods"
-  - "environment"
-  - "sustainability"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

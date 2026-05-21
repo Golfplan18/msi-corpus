@@ -20,7 +20,12 @@ primary_themes:
 - protectionism
 - South America
 - European Parliament ratification
-topic_tags: []
+topic_tags:
+  - "economy, business and finance"
+  - "international relations"
+  - "international trade"
+  - labour
+  - politics
 storyline_nexus: []
 geographic_location: Asunción, Paraguay
 floor_values_engaged:

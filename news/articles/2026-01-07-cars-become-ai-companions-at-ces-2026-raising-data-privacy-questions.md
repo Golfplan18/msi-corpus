@@ -19,7 +19,10 @@ primary_themes:
 - data privacy
 - Consumer Electronics Show
 - surveillance
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "science and technology"
+  - "technology and engineering"
 storyline_nexus: []
 geographic_location: Las Vegas, Nevada, United States
 floor_values_engaged:

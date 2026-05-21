@@ -13,7 +13,13 @@ primary_themes:
 - apology
 - family of public figure
 - past speech
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - government
+  - "government policy"
+  - "lifestyle and leisure"
+  - politics
+  - "science and technology"
 storyline_nexus: []
 geographic_location: New York City, United States
 floor_values_engaged:

@@ -24,8 +24,12 @@ primary_themes:
 - asset bubble risk
 - state tax revenue
 topic_tags:
+  - "armed conflict"
+  - "artificial intelligence"
+  - "conflict, war and peace"
+  - "crime, law and justice"
   - "economy, business and finance"
-  - economy
+  - government
 storyline_nexus: []
 geographic_location: California, United States
 floor_values_engaged:

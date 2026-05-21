@@ -21,7 +21,11 @@ primary_themes:
 - Russia-US-relations
 - Ukraine-war
 - territorial-claims
-topic_tags: []
+topic_tags:
+  - politics
+  - "international relations"
+  - government
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: International (Russia, NATO, Greenland)
 floor_values_engaged:

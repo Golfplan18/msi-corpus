@@ -13,8 +13,9 @@ primary_themes:
 - criminal justice
 - domestic violence
 topic_tags:
-  - "crime, law and justice"
   - crime
+  - "crime, law and justice"
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: Columbus, Ohio
 floor_values_engaged:

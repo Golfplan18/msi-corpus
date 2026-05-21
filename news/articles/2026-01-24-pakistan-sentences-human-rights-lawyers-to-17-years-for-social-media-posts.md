@@ -16,7 +16,13 @@ primary_themes:
 - press freedom
 - dissent
 - government crackdown
-topic_tags: []
+topic_tags:
+  - "arts, culture, entertainment and media"
+  - "crime, law and justice"
+  - judiciary
+  - "law enforcement"
+  - "social media"
+  - society
 storyline_nexus: []
 geographic_location: Pakistan
 floor_values_engaged:

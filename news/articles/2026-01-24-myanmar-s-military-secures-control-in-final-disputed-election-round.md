@@ -14,7 +14,10 @@ primary_themes:
 - Civil war
 - Democratic transition
 - accountability_of_power
-topic_tags: []
+topic_tags:
+  - politics
+  - election
+  - labour
 storyline_nexus: []
 geographic_location: Myanmar
 floor_values_engaged:

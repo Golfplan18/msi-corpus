@@ -19,7 +19,11 @@ primary_themes:
 - international law
 - trade infrastructure
 - U.S.-China competition
-topic_tags: []
+topic_tags:
+  - "economy, business and finance"
+  - "international trade"
+  - politics
+  - "government policy"
 storyline_nexus: []
 geographic_location: Panama Canal, Panama
 floor_values_engaged:

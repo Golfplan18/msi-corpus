@@ -18,7 +18,9 @@ primary_themes:
 - Gaza humanitarian crisis
 - Palestinian governance transition
 - Gaza reconstruction
-topic_tags: []
+topic_tags:
+  - "disaster, accident and emergency incident"
+  - fire
 storyline_nexus: []
 geographic_location: Gaza Strip
 floor_values_engaged:

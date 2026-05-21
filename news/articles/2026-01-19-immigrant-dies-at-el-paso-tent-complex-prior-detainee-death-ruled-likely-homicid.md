@@ -15,7 +15,10 @@ primary_themes:
 - ICE detention
 - in-custody deaths
 - use of force
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - crime
+  - society
 storyline_nexus: []
 geographic_location: El Paso, Texas
 floor_values_engaged:

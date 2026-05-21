@@ -17,7 +17,12 @@ primary_themes:
 - U.S. foreign policy
 - Venezuelan opposition
 - oil sanctions
-topic_tags: []
+topic_tags:
+  - politics
+  - election
+  - society
+  - "government policy"
+  - "international relations"
 storyline_nexus: []
 geographic_location: Washington, D.C. / Venezuela
 floor_values_engaged:

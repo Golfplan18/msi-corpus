@@ -12,7 +12,11 @@ primary_themes:
 - conflict-zone reporting
 - funeral ritual
 - grief
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - "armed conflict"
+  - labour
+  - "labour dispute"
 storyline_nexus: []
 geographic_location: Lebanon
 floor_values_engaged:

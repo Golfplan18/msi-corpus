@@ -19,7 +19,13 @@ primary_themes:
 - social services
 - judicial review
 - Trump administration policy
-topic_tags: []
+topic_tags:
+  - government
+  - "government policy"
+  - "human migration"
+  - "international relations"
+  - "mass media"
+  - "political dissent"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

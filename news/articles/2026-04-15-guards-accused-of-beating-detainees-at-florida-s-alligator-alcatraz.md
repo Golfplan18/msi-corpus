@@ -19,7 +19,13 @@ primary_themes:
 - use of force
 - court orders
 - First Amendment
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "government policy"
+  - "human migration"
+  - "international relations"
+  - "law enforcement"
+  - trial
 storyline_nexus: []
 geographic_location: Everglades, Florida, United States
 floor_values_engaged:

@@ -16,7 +16,8 @@ primary_themes:
 - art history
 - monastic life
 - Italy
-topic_tags: []
+topic_tags:
+  - religion
 storyline_nexus: []
 geographic_location: Milan, Italy
 floor_values_engaged:

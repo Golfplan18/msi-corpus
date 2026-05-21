@@ -17,7 +17,11 @@ primary_themes:
 - American religiosity
 - polling
 - generational differences
-topic_tags: []
+topic_tags:
+  - demographics
+  - discrimination
+  - religion
+  - society
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

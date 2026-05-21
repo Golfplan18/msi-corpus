@@ -18,7 +18,10 @@ primary_themes:
 - Diplomatic negotiations
 - Peace efforts
 - U.S. foreign policy
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - politics
 storyline_nexus: []
 geographic_location: International (Russia, Ukraine, United States, United Arab Emirates, France, Switzerland)
 floor_values_engaged:

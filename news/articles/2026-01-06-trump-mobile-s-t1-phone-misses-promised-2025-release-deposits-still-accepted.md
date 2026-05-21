@@ -14,7 +14,8 @@ primary_themes:
 - presidential family business
 - domestic manufacturing claims
 - product delays
-topic_tags: []
+topic_tags:
+  - "economy, business and finance"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

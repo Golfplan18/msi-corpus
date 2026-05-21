@@ -17,8 +17,12 @@ primary_themes:
 - disarmament
 - civilian areas
 topic_tags:
-  - "conflict, war and peace"
   - "armed conflict"
+  - "conflict, war and peace"
+  - "disaster, accident and emergency incident"
+  - fire
+  - labour
+  - "labour dispute"
 storyline_nexus: []
 geographic_location: Lebanon
 floor_values_engaged:

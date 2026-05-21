@@ -15,7 +15,11 @@ primary_themes:
 - education_law
 - gender_identity
 - supreme_court
-topic_tags: []
+topic_tags:
+  - politics
+  - society
+  - "fundamental rights"
+  - discrimination
 storyline_nexus: []
 geographic_location: West Virginia, United States
 floor_values_engaged:

@@ -16,7 +16,13 @@ primary_themes:
 - public health
 - vaccine hesitancy
 - shared clinical decision-making
-topic_tags: []
+topic_tags:
+  - crime
+  - "crime, law and justice"
+  - "disease and condition"
+  - "law enforcement"
+  - "mass media"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

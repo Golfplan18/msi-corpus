@@ -15,7 +15,11 @@ primary_themes:
 - worker compensation
 - nursing
 - contract negotiation
-topic_tags: []
+topic_tags:
+  - "science and technology"
+  - "artificial intelligence"
+  - labour
+  - "labour dispute"
 storyline_nexus: []
 geographic_location: New York City, New York
 floor_values_engaged:

@@ -17,7 +17,13 @@ primary_themes:
 - education policy
 - teachers unions
 - political violence aftermath
-topic_tags: []
+topic_tags:
+  - "arts, culture, entertainment and media"
+  - education
+  - election
+  - employment
+  - labour
+  - "labour dispute"
 storyline_nexus: []
 geographic_location: Austin, Texas, United States
 floor_values_engaged:

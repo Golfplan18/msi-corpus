@@ -18,9 +18,10 @@ primary_themes:
 - firearm storage
 - Georgia politics
 topic_tags:
-  - "politics"
-  - "government"
-  - "government policy"
+  - "disaster, accident and emergency incident"
+  - fire
+  - government
+  - politics
 storyline_nexus: []
 geographic_location: Savannah, Georgia, United States
 floor_values_engaged:

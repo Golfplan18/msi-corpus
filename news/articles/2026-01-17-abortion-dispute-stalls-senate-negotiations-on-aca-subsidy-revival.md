@@ -18,7 +18,10 @@ primary_themes:
 - health care legislation
 - bipartisan negotiations
 - premium costs
-topic_tags: []
+topic_tags:
+  - government
+  - health
+  - politics
 storyline_nexus: []
 geographic_location: Washington, D.C., United States
 floor_values_engaged:

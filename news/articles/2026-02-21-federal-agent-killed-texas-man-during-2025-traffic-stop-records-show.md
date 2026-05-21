@@ -13,7 +13,13 @@ primary_themes:
 - immigration enforcement
 - government accountability
 - transparency
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - crime
+  - "crime, law and justice"
+  - "law enforcement"
+  - politics
+  - "government policy"
 storyline_nexus: []
 geographic_location: South Padre Island, Texas, United States
 floor_values_engaged:

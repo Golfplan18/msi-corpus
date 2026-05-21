@@ -18,8 +18,6 @@ primary_themes:
 topic_tags:
   - health
   - "public health"
-  - society
-  - welfare
 storyline_nexus: []
 geographic_location: Detroit, Michigan, United States
 floor_values_engaged:

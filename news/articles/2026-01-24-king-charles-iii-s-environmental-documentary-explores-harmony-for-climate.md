@@ -14,7 +14,12 @@ primary_themes:
 - documentary
 - sustainability
 - monarchy
-topic_tags: []
+topic_tags:
+  - "climate change"
+  - education
+  - environment
+  - "higher education"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: International (London, UK; Cambridge, UK; Scotland)
 floor_values_engaged:

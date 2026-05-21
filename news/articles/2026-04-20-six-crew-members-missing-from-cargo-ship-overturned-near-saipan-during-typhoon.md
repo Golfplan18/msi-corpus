@@ -14,7 +14,9 @@ primary_themes:
 - maritime rescue
 - natural disaster response
 - international cooperation
-topic_tags: []
+topic_tags:
+  - disaster
+  - "disaster, accident and emergency incident"
 storyline_nexus: []
 geographic_location: Northern Mariana Islands (Saipan), Pacific Ocean
 floor_values_engaged:

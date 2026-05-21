@@ -17,10 +17,7 @@ primary_themes:
 - dietary fiber
 - wellness
 topic_tags:
-  - "health"
-  - "public health"
-  - "lifestyle and leisure"
-  - "lifestyle"
+  - health
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

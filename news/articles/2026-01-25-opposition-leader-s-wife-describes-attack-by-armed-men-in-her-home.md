@@ -15,7 +15,9 @@ primary_themes:
 - political_violence
 - election_integrity
 - opposition_suppression
-topic_tags: []
+topic_tags:
+  - election
+  - politics
 storyline_nexus: []
 geographic_location: Uganda
 floor_values_engaged:

@@ -18,7 +18,6 @@ primary_themes:
 - Central America
 - press freedom
 topic_tags:
-  - "crime, law and justice"
   - politics
 storyline_nexus: []
 geographic_location: San José, Costa Rica

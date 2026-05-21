@@ -11,7 +11,13 @@ primary_themes:
 - weather
 - travel disruption
 - passenger rights
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "crime, law and justice"
+  - "disaster, accident and emergency incident"
+  - government
+  - "government policy"
+  - "human interest"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

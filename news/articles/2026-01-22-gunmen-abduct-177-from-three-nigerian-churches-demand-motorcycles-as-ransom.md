@@ -13,7 +13,11 @@ primary_themes:
 - religious sites
 - Nigeria security crisis
 - ransom abduction
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - religion
+  - "religious institution"
 storyline_nexus: []
 geographic_location: Kajuru council area, Kaduna state, Nigeria
 floor_values_engaged:

@@ -16,7 +16,9 @@ primary_themes:
 - United Nations
 - humanitarian assistance
 - Trump administration foreign policy
-topic_tags: []
+topic_tags:
+  - "international relations"
+  - politics
 storyline_nexus: []
 geographic_location: Washington, D.C.
 floor_values_engaged:

@@ -17,7 +17,10 @@ primary_themes:
 - geopolitical_shift
 - international_security
 - military_operations
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - politics
+  - "international relations"
 storyline_nexus: []
 geographic_location: Syria, Iraq
 floor_values_engaged:

@@ -15,9 +15,8 @@ primary_themes:
 - wrongful death
 topic_tags:
   - "crime, law and justice"
-  - "law"
-  - "science and technology"
   - "disaster, accident and emergency incident"
+  - sport
   - "transportation accident and incident"
 storyline_nexus: []
 geographic_location: Valhalla, New York

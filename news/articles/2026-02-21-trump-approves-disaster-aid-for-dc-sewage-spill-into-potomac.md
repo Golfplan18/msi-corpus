@@ -18,7 +18,11 @@ primary_themes:
 - environmental_impact
 - government_accountability
 - federal_disaster_aid
-topic_tags: []
+topic_tags:
+  - politics
+  - "government policy"
+  - "science and technology"
+  - "artificial intelligence"
 storyline_nexus: []
 geographic_location: Washington, D.C., Maryland, Virginia, United States
 floor_values_engaged:

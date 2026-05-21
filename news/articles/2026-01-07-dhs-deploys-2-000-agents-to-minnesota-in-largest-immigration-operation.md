@@ -13,7 +13,10 @@ primary_themes:
 - immigration enforcement
 - federal-state relations
 - fraud investigations
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "human interest"
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: Minneapolis–St. Paul, Minnesota
 floor_values_engaged:

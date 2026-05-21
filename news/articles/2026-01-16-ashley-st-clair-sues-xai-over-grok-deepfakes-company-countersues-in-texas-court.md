@@ -17,7 +17,13 @@ primary_themes:
 - technology company liability
 - cross-jurisdiction litigation
 - platform retaliation
-topic_tags: []
+topic_tags:
+  - politics
+  - trial
+  - "science and technology"
+  - "economy, business and finance"
+  - "crime, law and justice"
+  - "artificial intelligence"
 storyline_nexus: []
 geographic_location: New York City, United States
 floor_values_engaged:

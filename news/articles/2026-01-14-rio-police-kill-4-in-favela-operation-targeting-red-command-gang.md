@@ -15,7 +15,12 @@ primary_themes:
 - Brazil
 - police operations
 topic_tags:
+  - "artificial intelligence"
+  - crime
   - "crime, law and justice"
+  - "disaster, accident and emergency incident"
+  - fire
+  - government
 storyline_nexus: []
 geographic_location: Salgueiro favela complex, Rio de Janeiro state, Brazil
 floor_values_engaged:

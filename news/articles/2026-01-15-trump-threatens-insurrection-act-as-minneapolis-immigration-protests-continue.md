@@ -18,7 +18,8 @@ primary_themes:
 - civil liberties
 - federal-state conflict
 - officer-involved shootings
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: Minneapolis, Minnesota, United States
 floor_values_engaged:

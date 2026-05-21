@@ -14,7 +14,8 @@ primary_themes:
 - immigration enforcement
 - workplace rights
 - legal uncertainty
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
 storyline_nexus: []
 geographic_location: United States; primary focus Minneapolis, Minnesota
 floor_values_engaged:

@@ -13,7 +13,9 @@ primary_themes:
 - immigration enforcement
 - criminal justice
 - law enforcement accountability
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: Chicago, Illinois, United States
 floor_values_engaged:

@@ -19,10 +19,8 @@ primary_themes:
 - Netanyahu corruption investigation
 - Board of Peace formation
 topic_tags:
-  - "conflict, war and peace"
-  - "peace process"
-  - "politics"
-  - "government"
+  - "international relations"
+  - politics
 storyline_nexus: []
 geographic_location: Gaza Strip; Jerusalem; Israel
 floor_values_engaged:

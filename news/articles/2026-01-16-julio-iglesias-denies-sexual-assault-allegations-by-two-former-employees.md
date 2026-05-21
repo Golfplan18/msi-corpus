@@ -12,7 +12,12 @@ primary_themes:
 - sexual_assault_allegations
 - entertainment
 - international_legal_proceedings
-topic_tags: []
+topic_tags:
+  - "arts and entertainment"
+  - "arts, culture, entertainment and media"
+  - music
+  - "science and technology"
+  - "social media"
 storyline_nexus: []
 geographic_location: Spain / Dominican Republic / Bahamas
 floor_values_engaged:

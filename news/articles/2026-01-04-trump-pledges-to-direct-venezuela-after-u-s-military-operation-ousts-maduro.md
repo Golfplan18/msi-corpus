@@ -19,7 +19,13 @@ primary_themes:
 - military intervention
 - international relations
 - Latin America
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "civil unrest"
+  - "conflict, war and peace"
+  - "economy, business and finance"
+  - government
+  - "government policy"
 storyline_nexus: []
 geographic_location: Caracas, Venezuela; Palm Beach, Florida; Washington, D.C.
 floor_values_engaged:

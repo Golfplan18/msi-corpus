@@ -17,9 +17,10 @@ primary_themes:
 - criminal sentencing
 - state government
 topic_tags:
+  - corruption
   - "crime, law and justice"
-  - judiciary
-  - trial
+  - government
+  - politics
 storyline_nexus: []
 geographic_location: Nashville, Tennessee
 floor_values_engaged:

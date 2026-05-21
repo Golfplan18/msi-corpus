@@ -16,7 +16,11 @@ primary_themes:
 - water quality
 - state legislation
 - landfill regulation
-topic_tags: []
+topic_tags:
+  - "environment"
+  - "government policy"
+  - "politics"
+  - "pollution"
 storyline_nexus: []
 geographic_location: Coventry, Vermont / Lake Memphremagog
 floor_values_engaged:

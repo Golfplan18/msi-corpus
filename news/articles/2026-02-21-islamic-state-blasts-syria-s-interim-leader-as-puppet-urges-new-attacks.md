@@ -17,7 +17,13 @@ primary_themes:
 - regional_conflict
 - political_transition
 - middle_east
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - terrorism
+  - "science and technology"
+  - "artificial intelligence"
+  - religion
+  - "belief systems"
 storyline_nexus: []
 geographic_location: Syria, Iraq, Middle East
 floor_values_engaged:

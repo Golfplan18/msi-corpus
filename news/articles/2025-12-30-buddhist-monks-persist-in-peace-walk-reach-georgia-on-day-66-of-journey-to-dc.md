@@ -17,7 +17,11 @@ primary_themes:
 - social media
 - road safety
 - civic gathering
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "arts, culture, entertainment and media"
+  - books
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Georgia, United States
 floor_values_engaged:

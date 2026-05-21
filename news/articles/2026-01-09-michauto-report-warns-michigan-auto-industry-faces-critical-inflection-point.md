@@ -19,7 +19,11 @@ primary_themes:
 - workforce development
 - trade and tariffs
 - state competitiveness
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "economy, business and finance"
+  - "international trade"
 storyline_nexus: []
 geographic_location: Michigan, United States
 floor_values_engaged:

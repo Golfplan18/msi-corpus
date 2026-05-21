@@ -17,7 +17,9 @@ primary_themes:
 - menswear
 - design
 - anniversary celebration
-topic_tags: []
+topic_tags:
+  - "arts, culture, entertainment and media"
+  - publishing
 storyline_nexus: []
 geographic_location: Paris, France
 floor_values_engaged:

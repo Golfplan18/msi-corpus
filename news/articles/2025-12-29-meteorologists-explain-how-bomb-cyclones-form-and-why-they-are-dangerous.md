@@ -18,7 +18,11 @@ primary_themes:
 - bomb cyclone
 - winter storms
 - weather safety
-topic_tags: []
+topic_tags:
+  - "disaster, accident and emergency incident"
+  - education
+  - "higher education"
+  - weather
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

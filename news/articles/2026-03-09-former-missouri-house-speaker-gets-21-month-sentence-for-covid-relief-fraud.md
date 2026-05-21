@@ -14,7 +14,13 @@ primary_themes:
 - COVID relief fraud
 - criminal sentencing
 - accountability of elected officials
-topic_tags: []
+topic_tags:
+  - politics
+  - government
+  - "crime, law and justice"
+  - judiciary
+  - corruption
+  - health
 storyline_nexus: []
 geographic_location: Jefferson City, Missouri, United States
 floor_values_engaged:

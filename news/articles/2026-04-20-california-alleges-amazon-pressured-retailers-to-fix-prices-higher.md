@@ -13,7 +13,9 @@ primary_themes:
 - price-fixing
 - corporate_accountability
 - market_power
-topic_tags: []
+topic_tags:
+  - "economy, business and finance"
+  - "market and exchange"
 storyline_nexus: []
 geographic_location: California, United States
 floor_values_engaged:

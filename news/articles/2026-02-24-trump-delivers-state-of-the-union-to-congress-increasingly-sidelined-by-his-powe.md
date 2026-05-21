@@ -14,7 +14,13 @@ primary_themes:
 - Congressional oversight
 - Constitutional governance
 - Separation of powers
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - government
+  - "government policy"
+  - labour
+  - politics
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

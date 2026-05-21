@@ -13,7 +13,11 @@ primary_themes:
 - Ukrainian government personnel
 - peace negotiations
 - military intelligence
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "international relations"
+  - politics
 storyline_nexus: []
 geographic_location: Kyiv, Ukraine
 floor_values_engaged:

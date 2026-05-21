@@ -18,11 +18,10 @@ primary_themes:
 - democratic governance
 - incumbency
 topic_tags:
-  - "science and technology"
-  - "conflict, war and peace"
-  - "armed conflict"
-  - "economy, business and finance"
-  - "market and exchange"
+  - "arts, culture, entertainment and media"
+  - election
+  - music
+  - politics
 storyline_nexus: []
 geographic_location: Kampala, Uganda
 floor_values_engaged:

@@ -15,7 +15,9 @@ primary_themes:
 - defense_partnership
 - naval_modernization
 - asia_pacific_security
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: Australia, Japan, Melbourne
 floor_values_engaged:

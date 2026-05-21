@@ -16,9 +16,12 @@ primary_themes:
 - constitutional amendments
 - LGBTQ+ rights
 topic_tags:
+  - "competition discipline"
+  - discrimination
+  - election
   - politics
-  - government
-  - "international relations"
+  - society
+  - sport
 storyline_nexus: []
 geographic_location: Nevada, United States
 floor_values_engaged:

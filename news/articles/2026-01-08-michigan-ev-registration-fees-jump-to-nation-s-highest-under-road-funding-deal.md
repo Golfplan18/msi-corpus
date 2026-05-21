@@ -17,9 +17,7 @@ primary_themes:
 - state taxation
 - transportation policy
 topic_tags:
-  - politics
-  - government
-  - "international relations"
+  - sport
 storyline_nexus: []
 geographic_location: Michigan, United States
 floor_values_engaged:

@@ -15,9 +15,12 @@ primary_themes:
 - International sports event logistics
 - Peace and harmony symbolism
 topic_tags:
-  - sport
-  - "sport event"
+  - "human interest"
   - "arts, culture, entertainment and media"
+  - politics
+  - "international relations"
+  - "human migration"
+  - "weather warning"
 storyline_nexus: []
 geographic_location: Milan and Cortina, Italy
 floor_values_engaged:

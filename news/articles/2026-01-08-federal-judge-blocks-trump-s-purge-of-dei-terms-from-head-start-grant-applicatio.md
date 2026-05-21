@@ -17,6 +17,7 @@ primary_themes:
 - education funding
 - immigration
 topic_tags:
+  - education
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

@@ -21,7 +21,10 @@ primary_themes:
 - Trump tariff policy
 - Arctic security
 - Nobel Peace Prize
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "economy, business and finance"
 storyline_nexus: []
 geographic_location: Nuuk, Greenland; Oslo, Norway; Copenhagen, Denmark; Washington, D.C.
 floor_values_engaged:

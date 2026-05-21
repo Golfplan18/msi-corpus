@@ -15,7 +15,9 @@ primary_themes:
 - Middle East conflict
 - negotiations
 - military action
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: Middle East, Washington DC, Pakistan
 floor_values_engaged:

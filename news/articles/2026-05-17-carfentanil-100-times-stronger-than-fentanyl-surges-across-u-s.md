@@ -18,7 +18,8 @@ primary_themes:
 - public_health
 - opioid_crisis
 - law_enforcement
-topic_tags: []
+topic_tags:
+  - health
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

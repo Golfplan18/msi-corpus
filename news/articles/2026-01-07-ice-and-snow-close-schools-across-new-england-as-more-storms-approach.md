@@ -14,7 +14,13 @@ primary_themes:
 - school closures
 - public safety
 - transportation
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - education
+  - "law enforcement"
+  - "lifestyle and leisure"
+  - school
+  - travel
 storyline_nexus: []
 geographic_location: New England, United States
 floor_values_engaged:

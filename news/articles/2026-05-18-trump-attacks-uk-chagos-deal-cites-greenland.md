@@ -15,7 +15,10 @@ primary_themes:
 - international_relations
 - u.s_foreign_policy
 - military_strategy
-topic_tags: []
+topic_tags:
+  - politics
+  - "international relations"
+  - government
 storyline_nexus: []
 geographic_location: International (UK, Indian Ocean, Greenland)
 floor_values_engaged:

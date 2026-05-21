@@ -12,7 +12,9 @@ primary_themes:
 - measles outbreak
 - infectious disease
 - vaccination
-topic_tags: []
+topic_tags:
+  - health
+  - "disease and condition"
 storyline_nexus: []
 geographic_location: Spartanburg County, South Carolina, United States
 floor_values_engaged:

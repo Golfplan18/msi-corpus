@@ -18,8 +18,10 @@ primary_themes:
 - child care policy
 - Minnesota fraud investigations
 topic_tags:
-  - "human interest"
-  - people
+  - "arts and entertainment"
+  - "arts, culture, entertainment and media"
+  - "mass media"
+  - "social media"
 storyline_nexus: []
 geographic_location: Minneapolis, Minnesota, United States
 floor_values_engaged:

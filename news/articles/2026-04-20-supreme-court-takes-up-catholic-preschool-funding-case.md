@@ -16,7 +16,12 @@ primary_themes:
 - LGBTQ+ rights
 - nondiscrimination
 - Supreme Court
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - discrimination
+  - education
+  - religion
+  - society
 storyline_nexus: []
 geographic_location: United States; Washington, DC; Colorado
 floor_values_engaged:

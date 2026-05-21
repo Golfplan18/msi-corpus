@@ -25,8 +25,7 @@ primary_themes:
 - Greenland
 topic_tags:
   - politics
-  - "government policy"
-  - "international relations"
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: Washington, D.C.
 floor_values_engaged:

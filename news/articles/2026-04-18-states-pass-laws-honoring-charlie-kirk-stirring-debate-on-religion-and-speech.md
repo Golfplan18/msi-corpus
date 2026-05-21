@@ -14,7 +14,12 @@ primary_themes:
 - campus free speech
 - partisan tributes
 - religion in schools
-topic_tags: []
+topic_tags:
+  - education
+  - "higher education"
+  - politics
+  - religion
+  - school
 storyline_nexus: []
 geographic_location: United States (Kansas, Tennessee, Louisiana, 20+ states)
 floor_values_engaged:

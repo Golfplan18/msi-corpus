@@ -14,7 +14,13 @@ primary_themes:
 - Venezuela
 - criminal justice
 - prison conditions
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - crime
+  - "crime, law and justice"
+  - government
+  - "government policy"
+  - politics
 storyline_nexus: []
 geographic_location: Brooklyn, New York, United States
 floor_values_engaged:

@@ -21,7 +21,9 @@ primary_themes:
 - federal courts
 - civil rights
 - chemical munitions
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "trial"
 storyline_nexus: []
 geographic_location: Portland, Oregon
 floor_values_engaged:

@@ -16,7 +16,13 @@ primary_themes:
 - U.S.-Venezuela relations
 - Nobel Peace Prize
 - Latin American politics
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "conflict, war and peace"
+  - election
+  - government
+  - "government policy"
+  - "peace process"
 storyline_nexus: []
 geographic_location: Washington, D.C. / Venezuela
 floor_values_engaged:

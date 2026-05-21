@@ -21,10 +21,7 @@ primary_themes:
 - impeachment
 - presidential_history
 topic_tags:
-  - "politics"
-  - "political process"
-  - "arts, culture, entertainment and media"
-  - "mass media"
+  - politics
 storyline_nexus: []
 geographic_location: Washington, D.C.
 floor_values_engaged:

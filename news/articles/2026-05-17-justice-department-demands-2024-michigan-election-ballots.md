@@ -17,7 +17,11 @@ primary_themes:
 - Federal authority
 - Election administration
 - Political accountability
-topic_tags: []
+topic_tags:
+  - discrimination
+  - election
+  - politics
+  - society
 storyline_nexus: []
 geographic_location: Michigan, United States
 floor_values_engaged:

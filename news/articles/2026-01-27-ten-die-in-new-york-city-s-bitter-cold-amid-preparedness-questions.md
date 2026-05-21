@@ -18,7 +18,11 @@ primary_themes:
 - emergency response
 - public health
 - social welfare
-topic_tags: []
+topic_tags:
+  - politics
+  - "disaster, accident and emergency incident"
+  - health
+  - weather
 storyline_nexus: []
 geographic_location: New York City, New York, United States
 floor_values_engaged:

@@ -14,7 +14,10 @@ primary_themes:
 - Japan
 - record transactions
 - marine conservation
-topic_tags: []
+topic_tags:
+  - conservation
+  - "economy, business and finance"
+  - environment
 storyline_nexus: []
 geographic_location: Tokyo, Japan
 floor_values_engaged:

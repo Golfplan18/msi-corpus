@@ -19,10 +19,11 @@ primary_themes:
 - Taiwan tensions
 - Asia-Pacific relations
 topic_tags:
-  - "politics"
-  - "international relations"
+  - "artificial intelligence"
   - "economy, business and finance"
+  - "government policy"
   - "international trade"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Beijing, China; Shanghai, China; Dublin, Ireland; Seoul, South Korea
 floor_values_engaged:

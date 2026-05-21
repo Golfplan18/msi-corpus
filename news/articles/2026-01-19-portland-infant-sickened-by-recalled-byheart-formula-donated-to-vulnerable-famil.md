@@ -19,7 +19,9 @@ primary_themes:
 - food safety
 - vulnerable families
 - infant botulism
-topic_tags: []
+topic_tags:
+  - banking
+  - "economy, business and finance"
 storyline_nexus: []
 geographic_location: Portland, Oregon, United States
 floor_values_engaged:

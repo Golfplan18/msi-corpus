@@ -19,10 +19,12 @@ primary_themes:
 - hospital-security
 - artificial-intelligence-in-healthcare
 topic_tags:
-  - "labour"
-  - "labour dispute"
-  - "health"
-  - "health treatment and procedure"
+  - "artificial intelligence"
+  - education
+  - government
+  - "government policy"
+  - health
+  - "higher education"
 storyline_nexus: []
 geographic_location: New York City, New York, United States
 floor_values_engaged:

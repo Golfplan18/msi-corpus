@@ -18,7 +18,8 @@ primary_themes:
 - Greenland acquisition dispute
 - US-Denmark relations
 - Russia-China Arctic competition
-topic_tags: []
+topic_tags:
+  - weather
 storyline_nexus: []
 geographic_location: Arctic / Greenland / United Kingdom / Denmark
 floor_values_engaged:

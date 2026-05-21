@@ -20,11 +20,11 @@ primary_themes:
 - executive power
 - federalism
 topic_tags:
-  - "science and technology"
-  - "politics"
-  - "government"
-  - "health"
-  - "artificial intelligence"
+  - banking
+  - "crime, law and justice"
+  - "economy, business and finance"
+  - health
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

@@ -14,7 +14,12 @@ primary_themes:
 - substance use disorders
 - employee wellness
 - corporate culture
-topic_tags: []
+topic_tags:
+  - "arts, culture, entertainment and media"
+  - lifestyle
+  - "lifestyle and leisure"
+  - "social media"
+  - society
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

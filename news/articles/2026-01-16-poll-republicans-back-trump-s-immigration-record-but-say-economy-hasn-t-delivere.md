@@ -19,7 +19,13 @@ primary_themes:
 - economic policy
 - immigration enforcement
 - cost of living
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "economy, business and finance"
+  - election
+  - "law enforcement"
+  - "political process"
+  - politics
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

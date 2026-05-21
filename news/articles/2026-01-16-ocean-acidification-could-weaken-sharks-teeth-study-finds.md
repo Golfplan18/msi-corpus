@@ -21,7 +21,9 @@ primary_themes:
 - marine biology
 - shark conservation
 - biodiversity
-topic_tags: []
+topic_tags:
+  - environment
+  - "climate change"
 storyline_nexus: []
 geographic_location: Pacific and Indian Oceans / global
 floor_values_engaged:

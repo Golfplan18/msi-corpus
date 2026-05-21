@@ -19,10 +19,10 @@ primary_themes:
 - HHS budget
 - measles
 topic_tags:
-  - health
-  - "public health"
-  - politics
   - government
+  - "government policy"
+  - health
+  - politics
 storyline_nexus: []
 geographic_location: Washington, D.C.
 floor_values_engaged:

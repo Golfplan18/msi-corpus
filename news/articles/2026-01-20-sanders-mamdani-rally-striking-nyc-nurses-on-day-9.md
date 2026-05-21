@@ -16,7 +16,13 @@ primary_themes:
 - strikes
 - wages
 - unions
-topic_tags: []
+topic_tags:
+  - election
+  - employment
+  - health
+  - labour
+  - "labour dispute"
+  - politics
 storyline_nexus: []
 geographic_location: New York City, New York, United States
 floor_values_engaged:

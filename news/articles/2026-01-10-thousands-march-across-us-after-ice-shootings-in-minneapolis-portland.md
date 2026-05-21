@@ -16,7 +16,10 @@ primary_themes:
 - ICE shootings
 - civil liberties
 - congressional oversight
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "law enforcement"
+  - politics
 storyline_nexus: []
 geographic_location: Minneapolis, Minnesota; Portland, Oregon; United States
 floor_values_engaged:

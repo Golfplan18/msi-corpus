@@ -19,7 +19,12 @@ primary_themes:
 - agriculture
 - water_supply
 - wildfire
-topic_tags: []
+topic_tags:
+  - "climate change"
+  - "disaster, accident and emergency incident"
+  - environment
+  - fire
+  - weather
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

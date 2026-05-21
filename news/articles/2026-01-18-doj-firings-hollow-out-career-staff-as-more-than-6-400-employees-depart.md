@@ -20,7 +20,10 @@ primary_themes:
 - Justice Department workforce
 - civil service
 - counterterrorism
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - "crime, law and justice"
+  - terrorism
 storyline_nexus: []
 geographic_location: Washington, D.C., United States
 floor_values_engaged:

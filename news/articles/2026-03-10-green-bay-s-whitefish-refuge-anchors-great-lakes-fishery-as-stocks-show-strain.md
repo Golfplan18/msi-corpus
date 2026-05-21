@@ -16,7 +16,12 @@ primary_themes:
 - water quality and remediation
 - climate change and cold-water species
 - fisheries management
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "arts, culture, entertainment and media"
+  - "climate change"
+  - "conflict, war and peace"
+  - environment
 storyline_nexus: []
 geographic_location: Green Bay, Wisconsin; Lake Michigan
 floor_values_engaged:

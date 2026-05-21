@@ -24,8 +24,12 @@ primary_themes:
 - economic precarity
 - federal cost shifts to states
 topic_tags:
+  - politics
+  - health
+  - "human interest"
+  - education
   - society
-  - welfare
+  - "government policy"
 storyline_nexus: []
 geographic_location: Mississippi, United States
 floor_values_engaged:

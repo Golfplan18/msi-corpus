@@ -21,7 +21,13 @@ primary_themes:
 - naval blockade
 - Lebanon conflict
 - Pakistan mediation
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "arts, culture, entertainment and media"
+  - "conflict, war and peace"
+  - "disaster, accident and emergency incident"
+  - environment
+  - fire
 storyline_nexus: []
 geographic_location: Tehran, Iran; Islamabad, Pakistan; Washington, D.C.; southern Lebanon
 floor_values_engaged:

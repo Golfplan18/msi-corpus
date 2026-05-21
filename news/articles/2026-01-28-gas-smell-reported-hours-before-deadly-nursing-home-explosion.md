@@ -17,7 +17,13 @@ primary_themes:
 - Infrastructure
 - Utility regulation
 - Emergency response
-topic_tags: []
+topic_tags:
+  - crime
+  - "crime, law and justice"
+  - "disaster, accident and emergency incident"
+  - "economy, business and finance"
+  - "energy and resource"
+  - fire
 storyline_nexus: []
 geographic_location: Bristol, Pennsylvania, United States
 floor_values_engaged:

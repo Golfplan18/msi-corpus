@@ -15,7 +15,11 @@ primary_themes:
 - aggravated_murder_charge
 - rural_crime
 - multi-state_manhunt
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "crime"
+  - "prosecution"
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: Wayne County, Utah
 floor_values_engaged:

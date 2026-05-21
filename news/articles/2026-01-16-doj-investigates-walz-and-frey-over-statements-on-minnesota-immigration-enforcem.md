@@ -17,7 +17,10 @@ primary_themes:
 - DOJ investigation of elected officials
 - civil rights and protests
 - use of force
-topic_tags: []
+topic_tags:
+  - "civil rights"
+  - "conflict, war and peace"
+  - "crime, law and justice"
 storyline_nexus: []
 geographic_location: Minneapolis, Minnesota, United States
 floor_values_engaged:

@@ -14,8 +14,7 @@ primary_themes:
 - civil order
 - South Asia
 topic_tags:
-  - politics
-  - "political dissent"
+  - religion
 storyline_nexus: []
 geographic_location: Birgunj, Parsa District, Nepal
 floor_values_engaged:

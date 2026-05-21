@@ -14,7 +14,13 @@ primary_themes:
 - infrastructure failure
 - passenger travel
 - international rail
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "government policy"
+  - "human migration"
+  - "international relations"
+  - politics
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Channel Tunnel, England/France
 floor_values_engaged:

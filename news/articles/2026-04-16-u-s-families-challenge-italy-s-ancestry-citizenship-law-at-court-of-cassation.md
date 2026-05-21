@@ -17,7 +17,10 @@ primary_themes:
 - Italian diaspora
 - judicial review
 - immigration
-topic_tags: []
+topic_tags:
+  - "human interest"
+  - "human migration"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Rome, Italy
 floor_values_engaged:

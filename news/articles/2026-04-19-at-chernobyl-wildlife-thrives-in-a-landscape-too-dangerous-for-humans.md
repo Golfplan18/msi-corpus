@@ -18,7 +18,13 @@ primary_themes:
 - radiation effects
 - species recovery and reintroduction
 - military invasion impact on environment
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - conservation
+  - "disaster, accident and emergency incident"
+  - economy
+  - "economy, business and finance"
+  - environment
 storyline_nexus: []
 geographic_location: Chernobyl, Ukraine; Cevennes National Park, France; Mongolia
 floor_values_engaged:

@@ -23,7 +23,13 @@ primary_themes:
 - Chinese diaspora
 - cultural identity
 - TikTok
-topic_tags: []
+topic_tags:
+  - "arts, culture, entertainment and media"
+  - "disaster, accident and emergency incident"
+  - "international relations"
+  - "mass media"
+  - "natural disaster"
+  - politics
 storyline_nexus: []
 geographic_location: International
 floor_values_engaged:

@@ -15,7 +15,9 @@ primary_themes:
 - aircraft accidents
 - winter weather hazards
 - accident investigation
-topic_tags: []
+topic_tags:
+  - "disaster, accident and emergency incident"
+  - "transportation accident and incident"
 storyline_nexus: []
 geographic_location: Bangor, Maine
 floor_values_engaged:

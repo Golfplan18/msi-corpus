@@ -15,11 +15,11 @@ primary_themes:
 - entertainment industry
 - pretrial detention
 topic_tags:
-  - "artificial intelligence"
   - "arts, culture, entertainment and media"
   - "crime, law and justice"
-  - "science and technology"
-  - trial
+  - "economy, business and finance"
+  - judiciary
+  - "social media"
 storyline_nexus: []
 geographic_location: Albuquerque, New Mexico, United States
 floor_values_engaged:

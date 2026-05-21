@@ -21,7 +21,9 @@ primary_themes:
 - UN Security Council
 - international sanctions
 - human rights
-topic_tags: []
+topic_tags:
+  - "international relations"
+  - politics
 storyline_nexus: []
 geographic_location: New York, United States; Tehran, Iran
 floor_values_engaged:

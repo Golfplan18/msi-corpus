@@ -14,7 +14,10 @@ primary_themes:
 - property ownership
 - housing law
 - criminal justice
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - crime
+  - prosecution
 storyline_nexus: []
 geographic_location: New York City, New York, United States
 floor_values_engaged:

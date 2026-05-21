@@ -15,7 +15,13 @@ primary_themes:
 - housing
 - workers-rights
 - new-york-city
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - election
+  - labour
+  - "labour dispute"
+  - politics
 storyline_nexus: []
 geographic_location: New York City, New York, United States
 floor_values_engaged:

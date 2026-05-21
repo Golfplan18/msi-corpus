@@ -15,7 +15,10 @@ primary_themes:
 - product-contamination
 - product-recall
 - health-alert
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - health
 storyline_nexus: []
 geographic_location: Central Europe (Austria, Czech Republic, Slovakia, Slovenia)
 floor_values_engaged:

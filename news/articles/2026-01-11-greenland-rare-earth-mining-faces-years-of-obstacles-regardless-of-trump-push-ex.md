@@ -21,10 +21,11 @@ primary_themes:
 - critical minerals supply chain
 - U.S.-China trade
 topic_tags:
+  - banking
   - "economy, business and finance"
-  - "energy and resource"
-  - "politics"
   - "international relations"
+  - "international trade"
+  - politics
 storyline_nexus: []
 geographic_location: Greenland; United States; Denmark
 floor_values_engaged:

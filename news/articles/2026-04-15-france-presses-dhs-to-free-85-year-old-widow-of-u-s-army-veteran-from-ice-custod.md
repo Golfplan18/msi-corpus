@@ -16,7 +16,11 @@ primary_themes:
 - military family deportation
 - diplomatic intervention
 - ICE detention
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "crime, law and justice"
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: Alabama and Louisiana, United States
 floor_values_engaged:

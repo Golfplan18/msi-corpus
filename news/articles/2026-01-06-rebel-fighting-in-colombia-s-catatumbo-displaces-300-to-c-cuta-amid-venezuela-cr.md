@@ -22,7 +22,10 @@ primary_themes:
 - drug trafficking
 - Colombia-Venezuela border
 - Venezuela political crisis
-topic_tags: []
+topic_tags:
+  - society
+  - "conflict, war and peace"
+  - politics
 storyline_nexus: []
 geographic_location: Cúcuta, Norte de Santander, Colombia
 floor_values_engaged:

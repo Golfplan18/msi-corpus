@@ -18,8 +18,12 @@ primary_themes:
 - U.S. foreign policy
 - OAS emergency session
 topic_tags:
+  - "armed conflict"
+  - "arts, culture, entertainment and media"
   - "conflict, war and peace"
-  - "international military intervention"
+  - "disaster, accident and emergency incident"
+  - environment
+  - government
 storyline_nexus: []
 geographic_location: Havana, Cuba; Washington, D.C.; Caracas, Venezuela
 floor_values_engaged:

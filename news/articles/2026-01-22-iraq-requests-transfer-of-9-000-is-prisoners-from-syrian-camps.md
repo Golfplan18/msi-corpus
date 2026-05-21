@@ -15,7 +15,11 @@ primary_themes:
 - Prisoner transfers
 - Regional conflict
 - Humanitarian crisis
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - government
+  - politics
 storyline_nexus: []
 geographic_location: Syria, Iraq
 floor_values_engaged:

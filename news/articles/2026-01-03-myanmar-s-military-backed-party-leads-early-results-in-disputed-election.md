@@ -18,10 +18,12 @@ primary_themes:
 - civil war
 - Southeast Asia
 topic_tags:
-  - "politics"
-  - "election"
-  - "conflict, war and peace"
   - "armed conflict"
+  - "conflict, war and peace"
+  - election
+  - labour
+  - "labour dispute"
+  - politics
 storyline_nexus: []
 geographic_location: Myanmar
 floor_values_engaged:

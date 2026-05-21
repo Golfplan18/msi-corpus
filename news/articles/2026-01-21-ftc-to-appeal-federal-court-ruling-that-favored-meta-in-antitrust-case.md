@@ -12,7 +12,13 @@ primary_themes:
 - antitrust
 - technology regulation
 - monopoly
-topic_tags: []
+topic_tags:
+  - "arts, culture, entertainment and media"
+  - "business information"
+  - "crime, law and justice"
+  - "economy, business and finance"
+  - "international trade"
+  - judiciary
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

@@ -13,7 +13,13 @@ primary_themes:
 - learning_disabilities
 - literacy
 - educational_access
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - education
+  - "education policy"
+  - government
+  - politics
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Kenya
 floor_values_engaged:

@@ -16,6 +16,10 @@ primary_themes:
 - fraud allegations
 - New York City politics
 topic_tags:
+  - "economy, business and finance"
+  - "financial and business service"
+  - government
+  - "political dissent"
   - politics
 storyline_nexus: []
 geographic_location: New York City, New York, United States

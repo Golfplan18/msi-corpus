@@ -14,7 +14,11 @@ primary_themes:
 - officer fatalities
 - gun violence
 - traffic safety
-topic_tags: []
+topic_tags:
+  - politics
+  - government
+  - "crime, law and justice"
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

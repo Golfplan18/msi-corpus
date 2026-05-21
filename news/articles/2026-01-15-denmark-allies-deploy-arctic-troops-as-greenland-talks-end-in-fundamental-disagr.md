@@ -21,6 +21,12 @@ primary_themes:
 - NATO diplomacy
 - Greenland sovereignty
 topic_tags:
+  - "conflict, war and peace"
+  - government
+  - "international relations"
+  - "political dissent"
+  - politics
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Greenland; Washington, D.C.; Brussels
 floor_values_engaged:

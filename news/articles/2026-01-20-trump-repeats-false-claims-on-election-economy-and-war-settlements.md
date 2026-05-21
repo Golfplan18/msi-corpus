@@ -17,7 +17,13 @@ primary_themes:
 - election integrity
 - economic conditions
 - international relations
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "artificial intelligence"
+  - "conflict, war and peace"
+  - "crime, law and justice"
+  - election
+  - government
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

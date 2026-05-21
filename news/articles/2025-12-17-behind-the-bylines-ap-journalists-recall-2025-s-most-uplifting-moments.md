@@ -21,10 +21,8 @@ primary_themes:
 - resilience
 - papal election
 topic_tags:
-  - "human interest"
-  - "people"
-  - "arts, culture, entertainment and media"
-  - "mass media"
+  - election
+  - politics
 storyline_nexus: []
 geographic_location: United States; Philippines
 floor_values_engaged:

@@ -14,7 +14,12 @@ primary_themes:
 - wearable devices
 - sleep science
 - consumer health
-topic_tags: []
+topic_tags:
+  - health
+  - "human interest"
+  - lifestyle
+  - "lifestyle and leisure"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: International (US-focused reporting)
 floor_values_engaged:

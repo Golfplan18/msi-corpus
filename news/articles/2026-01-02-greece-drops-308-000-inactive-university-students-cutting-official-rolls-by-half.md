@@ -16,10 +16,10 @@ primary_themes:
 - education policy
 - austerity aftermath
 topic_tags:
-  - "education"
+  - politics
+  - government
+  - education
   - "higher education"
-  - "politics"
-  - "government policy"
 storyline_nexus: []
 geographic_location: Athens, Greece
 floor_values_engaged:

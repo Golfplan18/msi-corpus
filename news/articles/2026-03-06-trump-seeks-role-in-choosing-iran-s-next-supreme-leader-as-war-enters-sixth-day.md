@@ -20,7 +20,11 @@ primary_themes:
 - U.S. military operations
 - Iran leadership succession
 - Regional spillover
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "government policy"
+  - "politics"
 storyline_nexus: []
 geographic_location: Iran, Middle East
 floor_values_engaged:

@@ -13,7 +13,10 @@ primary_themes:
 - Alaska Senate race
 - Senate majority
 - Alaska Native representation
-topic_tags: []
+topic_tags:
+  - "economy, business and finance"
+  - election
+  - politics
 storyline_nexus: []
 geographic_location: Alaska, United States
 floor_values_engaged:

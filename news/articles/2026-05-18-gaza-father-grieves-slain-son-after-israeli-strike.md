@@ -17,7 +17,11 @@ primary_themes:
 - civilian casualties
 - winter conditions
 - ceasefire
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - "armed conflict"
+  - "human interest"
+  - people
 storyline_nexus: []
 geographic_location: Gaza Strip
 floor_values_engaged:

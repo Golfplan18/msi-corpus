@@ -22,7 +22,9 @@ primary_themes:
 - state legislation
 - federal legislation
 - election law
-topic_tags: []
+topic_tags:
+  - "government policy"
+  - "politics"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

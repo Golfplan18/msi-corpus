@@ -21,7 +21,7 @@ primary_themes:
 - supplier relations
 topic_tags:
   - "artificial intelligence"
-  - banking
+  - "business information"
   - "economy, business and finance"
   - "science and technology"
 storyline_nexus: []

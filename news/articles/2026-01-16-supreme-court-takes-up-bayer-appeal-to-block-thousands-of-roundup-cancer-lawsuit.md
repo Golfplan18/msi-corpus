@@ -17,7 +17,9 @@ primary_themes:
 - pesticide regulation
 - public health
 - cancer litigation
-topic_tags: []
+topic_tags:
+  - health
+  - "public health"
 storyline_nexus: []
 geographic_location: Washington, D.C. / United States
 floor_values_engaged:

@@ -19,11 +19,12 @@ primary_themes:
 - prisoner releases
 - Latin America
 topic_tags:
-  - "science and technology"
-  - "politics"
-  - "government"
-  - "artificial intelligence"
+  - "armed conflict"
   - "conflict, war and peace"
+  - "crime, law and justice"
+  - "disaster, accident and emergency incident"
+  - "international relations"
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: Venezuela
 floor_values_engaged:

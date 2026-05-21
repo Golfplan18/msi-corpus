@@ -19,11 +19,8 @@ primary_themes:
 - government shutdown
 - tariffs
 topic_tags:
-  - "artificial intelligence"
-  - "economy, business and finance"
-  - "government policy"
+  - government
   - politics
-  - "science and technology"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

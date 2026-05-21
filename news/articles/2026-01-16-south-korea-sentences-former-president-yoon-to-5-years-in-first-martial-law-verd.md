@@ -14,7 +14,13 @@ primary_themes:
 - martial_law
 - South_Korea_politics
 - accountability_of_power
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - crime
+  - "crime, law and justice"
+  - "law enforcement"
+  - "science and technology"
+  - trial
 storyline_nexus: []
 geographic_location: Seoul, South Korea
 floor_values_engaged:

@@ -15,7 +15,12 @@ primary_themes:
 - federal-state authority conflict
 - law enforcement accountability
 - use of force
-topic_tags: []
+topic_tags:
+  - politics
+  - "human interest"
+  - "government policy"
+  - "human migration"
+  - "crime, law and justice"
 storyline_nexus: []
 geographic_location: Minneapolis, Minnesota, United States
 floor_values_engaged:

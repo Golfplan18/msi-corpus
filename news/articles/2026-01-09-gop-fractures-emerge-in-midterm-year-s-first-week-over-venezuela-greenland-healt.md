@@ -28,7 +28,11 @@ primary_themes:
 - Affordable Care Act subsidies
 - Congressional war powers
 - January 6 Capitol attack
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - election
+  - politics
 storyline_nexus: []
 geographic_location: Washington, D.C.
 floor_values_engaged:

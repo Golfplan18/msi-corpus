@@ -22,8 +22,11 @@ primary_themes:
 - visa policy
 topic_tags:
   - politics
-  - government
+  - education
+  - "government policy"
   - "international relations"
+  - labour
+  - school
 storyline_nexus: []
 geographic_location: Berkeley, California, United States
 floor_values_engaged:

@@ -13,7 +13,9 @@ primary_themes:
 - affordability crisis
 - political strategy
 - wealth distribution
-topic_tags: []
+topic_tags:
+  - "economy, business and finance"
+  - politics
 storyline_nexus: []
 geographic_location: Davos, Switzerland; United States
 floor_values_engaged:

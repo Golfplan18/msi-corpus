@@ -15,7 +15,13 @@ primary_themes:
 - search engines
 - data privacy
 - corporate strategy
-topic_tags: []
+topic_tags:
+  - "government policy"
+  - "human migration"
+  - "international relations"
+  - "monetary policy"
+  - politics
+  - "science and technology"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

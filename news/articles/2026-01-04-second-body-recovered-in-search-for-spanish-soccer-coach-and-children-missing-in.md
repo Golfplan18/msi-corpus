@@ -16,7 +16,9 @@ primary_themes:
 - missing persons
 - Indonesia
 - Spanish nationals abroad
-topic_tags: []
+topic_tags:
+  - "disaster, accident and emergency incident"
+  - health
 storyline_nexus: []
 geographic_location: Komodo National Park, East Nusa Tenggara, Indonesia
 floor_values_engaged:

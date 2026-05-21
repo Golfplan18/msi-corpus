@@ -12,7 +12,8 @@ primary_themes:
 - fraud_prevention
 - state_response
 - federal_oversight
-topic_tags: []
+topic_tags:
+  - politics
 storyline_nexus: []
 geographic_location: California, United States
 floor_values_engaged:

@@ -20,11 +20,10 @@ primary_themes:
 - international economic governance
 - executive branch pressure on monetary institutions
 topic_tags:
-  - "science and technology"
-  - "politics"
-  - "government"
-  - "government policy"
-  - "international relations"
+  - "arts, culture, entertainment and media"
+  - "civil unrest"
+  - "conflict, war and peace"
+  - "mass media"
 storyline_nexus: []
 geographic_location: International
 floor_values_engaged:

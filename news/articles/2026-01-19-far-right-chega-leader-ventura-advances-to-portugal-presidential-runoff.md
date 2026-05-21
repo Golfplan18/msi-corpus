@@ -15,7 +15,11 @@ primary_themes:
 - European politics
 - immigration policy
 - political instability
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - election
+  - politics
 storyline_nexus: []
 geographic_location: Lisbon, Portugal
 floor_values_engaged:

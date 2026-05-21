@@ -15,9 +15,10 @@ primary_themes:
 - natural disaster
 - California
 topic_tags:
+  - "crime, law and justice"
   - "disaster, accident and emergency incident"
-  - "natural disaster"
-  - "weather"
+  - weather
+  - "weather forecast"
 storyline_nexus: []
 geographic_location: Marin County, California; Santa Barbara County, California
 floor_values_engaged:

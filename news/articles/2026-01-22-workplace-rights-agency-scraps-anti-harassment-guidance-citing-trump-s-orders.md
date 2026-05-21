@@ -17,7 +17,12 @@ primary_themes:
 - civil rights enforcement
 - LGBTQ+ protections
 - harassment policies
-topic_tags: []
+topic_tags:
+  - discrimination
+  - politics
+  - society
+  - "government policy"
+  - labour
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

@@ -14,7 +14,13 @@ primary_themes:
 - correctional officer use of force
 - criminal justice
 - prison reform
-topic_tags: []
+topic_tags:
+  - agriculture
+  - "artificial intelligence"
+  - "crime, law and justice"
+  - "economy, business and finance"
+  - government
+  - "government policy"
 storyline_nexus: []
 geographic_location: Utica, New York, United States
 floor_values_engaged:

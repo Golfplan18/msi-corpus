@@ -13,7 +13,11 @@ primary_themes:
 - captive marine animals
 - regulatory decision
 - international relocation
-topic_tags: []
+topic_tags:
+  - environment
+  - society
+  - conservation
+  - welfare
 storyline_nexus: []
 geographic_location: Canada (Ontario) / United States
 floor_values_engaged:

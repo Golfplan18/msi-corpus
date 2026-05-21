@@ -15,7 +15,9 @@ primary_themes:
 - conservation
 - Africa
 - Asia
-topic_tags: []
+topic_tags:
+  - environment
+  - conservation
 storyline_nexus: []
 geographic_location: International—Africa, Asia, with focus on Nigeria
 floor_values_engaged:

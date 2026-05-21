@@ -18,12 +18,12 @@ primary_themes:
 - trade
 - Federal Reserve independence
 topic_tags:
-  - "science and technology"
-  - "politics"
-  - "government"
+  - politics
+  - election
+  - government
   - "economy, business and finance"
-  - "government policy"
-  - "election"
+  - "international trade"
+  - labour
 storyline_nexus: []
 geographic_location: Dearborn, Michigan, United States
 floor_values_engaged:

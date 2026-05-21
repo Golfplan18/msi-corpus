@@ -15,7 +15,13 @@ primary_themes:
 - law enforcement response
 - public safety
 - aviation disruption
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "disaster, accident and emergency incident"
+  - government
+  - "international relations"
+  - politics
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Kansas City, Missouri, United States
 floor_values_engaged:

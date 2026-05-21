@@ -13,7 +13,11 @@ primary_themes:
 - aging
 - caregiving
 - work-life balance
-topic_tags: []
+topic_tags:
+  - employment
+  - labour
+  - unemployment
+  - "wage and pension"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

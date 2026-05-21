@@ -13,7 +13,8 @@ primary_themes:
 - Jan. 6 Capitol riot legal proceedings
 - federal criminal charges
 - domestic political violence
-topic_tags: []
+topic_tags:
+  - politics
 storyline_nexus: []
 geographic_location: Washington, D.C.
 floor_values_engaged:

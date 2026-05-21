@@ -10,7 +10,9 @@ primary_themes:
 - violence
 - law enforcement
 - Russia
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: Moscow, Russia
 floor_values_engaged:

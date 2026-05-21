@@ -19,8 +19,11 @@ primary_themes:
 - California politics
 - House control
 topic_tags:
-  - election
   - politics
+  - election
+  - "human interest"
+  - "government policy"
+  - "human migration"
 storyline_nexus: []
 geographic_location: Sacramento, California, United States
 floor_values_engaged:

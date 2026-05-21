@@ -13,7 +13,12 @@ primary_themes:
 - cartel violence
 - public safety
 - Mexico
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "conflict, war and peace"
+  - "armed conflict"
+  - sport
+  - "sport event"
 storyline_nexus: []
 geographic_location: Salamanca, Guanajuato, Mexico
 floor_values_engaged:

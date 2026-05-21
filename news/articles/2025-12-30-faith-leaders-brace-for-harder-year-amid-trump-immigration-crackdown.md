@@ -20,7 +20,13 @@ primary_themes:
 - Haitian immigrants
 - Afghan refugees
 - Somali Americans
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "human interest"
+  - "human migration"
+  - "law enforcement"
+  - politics
+  - religion
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

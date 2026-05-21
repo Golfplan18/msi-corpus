@@ -13,7 +13,9 @@ primary_themes:
 - public safety
 - wildlife
 - emergency response
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "disaster, accident and emergency incident"
 storyline_nexus: []
 geographic_location: Sydney, New South Wales, Australia
 floor_values_engaged:

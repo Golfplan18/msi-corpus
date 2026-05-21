@@ -16,7 +16,9 @@ primary_themes:
 - China-US resource competition
 - mining investment
 - energy policy
-topic_tags: []
+topic_tags:
+  - "international relations"
+  - "politics"
 storyline_nexus: []
 geographic_location: Venezuela
 floor_values_engaged:

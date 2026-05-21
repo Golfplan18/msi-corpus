@@ -16,7 +16,13 @@ primary_themes:
 - state funeral
 - Bangladesh politics
 - South Asia diplomacy
-topic_tags: []
+topic_tags:
+  - achievement
+  - "belief systems"
+  - "conflict, war and peace"
+  - government
+  - "human interest"
+  - "international relations"
 storyline_nexus: []
 geographic_location: Dhaka, Bangladesh
 floor_values_engaged:

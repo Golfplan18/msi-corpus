@@ -14,7 +14,13 @@ primary_themes:
 - DEI_policy
 - federal_state_conflict
 - infrastructure
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "artificial intelligence"
+  - "conflict, war and peace"
+  - "crime, law and justice"
+  - government
+  - "government policy"
 storyline_nexus: []
 geographic_location: New York City, New York, United States
 floor_values_engaged:

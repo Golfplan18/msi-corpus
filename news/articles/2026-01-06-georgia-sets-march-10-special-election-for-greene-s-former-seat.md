@@ -15,8 +15,8 @@ primary_themes:
 - Georgia politics
 - Republican Party
 topic_tags:
-  - politics
   - election
+  - politics
 storyline_nexus: []
 geographic_location: Georgia, United States
 floor_values_engaged:

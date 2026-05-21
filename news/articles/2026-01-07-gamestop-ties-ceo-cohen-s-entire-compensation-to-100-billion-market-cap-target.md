@@ -15,7 +15,11 @@ primary_themes:
 - corporate governance
 - meme stocks
 - shareholder rights
-topic_tags: []
+topic_tags:
+  - "economy, business and finance"
+  - "market and exchange"
+  - sport
+  - "sport event"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

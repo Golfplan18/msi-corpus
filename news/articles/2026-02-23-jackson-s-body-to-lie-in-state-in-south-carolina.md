@@ -12,7 +12,9 @@ primary_themes:
 - civil rights
 - activism
 - memorial
-topic_tags: []
+topic_tags:
+  - "human interest"
+  - people
 storyline_nexus: []
 geographic_location: South Carolina; Chicago, Illinois; Washington, D.C.; Alabama
 floor_values_engaged:

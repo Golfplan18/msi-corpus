@@ -14,7 +14,12 @@ primary_themes:
 - climate change
 - state governance
 - legislative process
-topic_tags: []
+topic_tags:
+  - "climate change"
+  - environment
+  - government
+  - "government policy"
+  - politics
 storyline_nexus: []
 geographic_location: California, United States
 floor_values_engaged:

@@ -16,8 +16,9 @@ primary_themes:
 - transportation
 - pedestrian access
 topic_tags:
-  - "economy, business and finance"
-  - transport
+  - "international relations"
+  - politics
+  - sport
 storyline_nexus: []
 geographic_location: Detroit, Michigan, United States / Windsor, Ontario, Canada
 floor_values_engaged:

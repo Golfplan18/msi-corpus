@@ -19,12 +19,12 @@ primary_themes:
 - NATO
 - peace negotiations
 topic_tags:
-  - "science and technology"
-  - "labour"
-  - "labour dispute"
-  - "politics"
-  - "disaster, accident and emergency incident"
+  - "armed conflict"
   - "artificial intelligence"
+  - "conflict, war and peace"
+  - "disaster, accident and emergency incident"
+  - "economy, business and finance"
+  - "energy and resource"
 storyline_nexus: []
 geographic_location: United Nations, New York; Ukraine; Russia
 floor_values_engaged:

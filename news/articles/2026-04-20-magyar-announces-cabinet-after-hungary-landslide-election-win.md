@@ -14,7 +14,10 @@ primary_themes:
 - government_formation
 - democratic_renewal
 - political_transition
-topic_tags: []
+topic_tags:
+  - election
+  - government
+  - politics
 storyline_nexus: []
 geographic_location: Hungary
 floor_values_engaged:

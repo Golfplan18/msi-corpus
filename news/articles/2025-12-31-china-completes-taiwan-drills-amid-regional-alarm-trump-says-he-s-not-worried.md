@@ -19,7 +19,12 @@ primary_themes:
 - Indo-Pacific security
 - US-China relations
 - regional diplomatic response
-topic_tags: []
+topic_tags:
+  - "human interest"
+  - politics
+  - "international relations"
+  - "economy, business and finance"
+  - "human migration"
 storyline_nexus: []
 geographic_location: Taiwan Strait, East Asia
 floor_values_engaged:

@@ -14,7 +14,12 @@ primary_themes:
 - extremist_violence
 - sahel_security
 - military_governance
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - crime
+  - "conflict, war and peace"
+  - "armed conflict"
+  - education
 storyline_nexus: []
 geographic_location: Gorouol, Tillabéri region, Niger
 floor_values_engaged:

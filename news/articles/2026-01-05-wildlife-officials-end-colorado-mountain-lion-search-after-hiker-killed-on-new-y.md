@@ -15,8 +15,8 @@ primary_themes:
 - Colorado public lands
 - outdoor recreation risk
 topic_tags:
-  - "disaster, accident and emergency incident"
-  - "accident and emergency incident"
+  - "human migration"
+  - "human interest"
 storyline_nexus: []
 geographic_location: Glen Haven, Larimer County, Colorado, United States
 floor_values_engaged:

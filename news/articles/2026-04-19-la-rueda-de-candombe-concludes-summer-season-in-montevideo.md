@@ -16,7 +16,9 @@ primary_themes:
 - street music
 - musical traditions
 - international recognition
-topic_tags: []
+topic_tags:
+  - "international relations"
+  - politics
 storyline_nexus: []
 geographic_location: Montevideo, Uruguay
 floor_values_engaged:

@@ -17,7 +17,11 @@ primary_themes:
 - federal_officer_conduct
 - court_oversight
 - diplomatic_relations
-topic_tags: []
+topic_tags:
+  - "human interest"
+  - "human migration"
+  - "international relations"
+  - politics
 storyline_nexus: []
 geographic_location: Minneapolis, Minnesota, United States
 floor_values_engaged:

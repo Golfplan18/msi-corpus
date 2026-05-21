@@ -21,7 +21,11 @@ primary_themes:
 - Executive-legislative balance
 - Foreign policy
 - Political fractures
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "international relations"
+  - politics
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

@@ -17,7 +17,13 @@ primary_themes:
 - excessive force
 - civil litigation
 - less-lethal munitions
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "artificial intelligence"
+  - "conflict, war and peace"
+  - "crime, law and justice"
+  - education
+  - government
 storyline_nexus: []
 geographic_location: Los Angeles, California, United States
 floor_values_engaged:

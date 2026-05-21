@@ -13,7 +13,13 @@ primary_themes:
 - climate_vulnerability
 - humanitarian_crisis
 - extreme_weather
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "climate change"
+  - crime
+  - "crime, law and justice"
+  - "disaster, accident and emergency incident"
+  - environment
 storyline_nexus: []
 geographic_location: Afghanistan
 floor_values_engaged:

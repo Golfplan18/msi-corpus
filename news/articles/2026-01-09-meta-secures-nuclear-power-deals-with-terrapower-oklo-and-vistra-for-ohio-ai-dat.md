@@ -17,7 +17,9 @@ primary_themes:
 - data centers
 - electricity grid
 - mid-Atlantic ratepayers
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: New Albany, Ohio; Pike County, Ohio; Pennsylvania; mid-Atlantic United States
 floor_values_engaged:

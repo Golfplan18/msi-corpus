@@ -17,7 +17,9 @@ primary_themes:
 - Greenland sovereignty
 - U.S. military posture
 - European foreign policy
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - "armed conflict"
 storyline_nexus: []
 geographic_location: Rome, Italy; Greenland; Arctic
 floor_values_engaged:

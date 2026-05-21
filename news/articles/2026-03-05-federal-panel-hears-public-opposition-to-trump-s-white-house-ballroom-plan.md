@@ -19,7 +19,10 @@ primary_themes:
 - government accountability
 - public participation
 - campaign finance and corruption
-topic_tags: []
+topic_tags:
+  - "politics"
+  - "government"
+  - "arts, culture, entertainment and media"
 storyline_nexus: []
 geographic_location: Washington, D.C.
 floor_values_engaged:

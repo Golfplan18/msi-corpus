@@ -14,7 +14,13 @@ primary_themes:
 - Middle East conflict
 - civilian return
 - destruction
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "conflict, war and peace"
+  - "disaster, accident and emergency incident"
+  - fire
+  - government
+  - "government policy"
 storyline_nexus: []
 geographic_location: Lebanon
 floor_values_engaged:

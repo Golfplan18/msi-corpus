@@ -23,7 +23,10 @@ primary_themes:
 - Iran economy
 - Iran nuclear program
 - Iran regional influence
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - economy
+  - "economy, business and finance"
 storyline_nexus: []
 geographic_location: Iran
 floor_values_engaged:

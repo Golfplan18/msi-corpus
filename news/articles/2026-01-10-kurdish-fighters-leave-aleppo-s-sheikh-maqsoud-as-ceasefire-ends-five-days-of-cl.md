@@ -20,7 +20,13 @@ primary_themes:
 - Kurdish autonomy
 - post-Assad Syria
 - U.S. diplomacy
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "artificial intelligence"
+  - "conflict, war and peace"
+  - crime
+  - "crime, law and justice"
+  - "disaster, accident and emergency incident"
 storyline_nexus: []
 geographic_location: Aleppo, Syria
 floor_values_engaged:

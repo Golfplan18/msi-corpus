@@ -14,7 +14,10 @@ primary_themes:
 - diplomacy
 - international relations
 - political conflict
-topic_tags: []
+topic_tags:
+  - politics
+  - "international relations"
+  - government
 storyline_nexus: []
 geographic_location: France / United States
 floor_values_engaged:

@@ -15,7 +15,11 @@ primary_themes:
 - capital punishment
 - federal courts
 - health insurance industry
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - crime
+  - judiciary
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: New York, New York
 floor_values_engaged:

@@ -18,7 +18,13 @@ primary_themes:
 - Cuba energy crisis
 - Latin American geopolitics
 - oil trade
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "economy, business and finance"
+  - "international relations"
+  - "international trade"
+  - politics
 storyline_nexus: []
 geographic_location: Mexico City, Mexico; Havana, Cuba
 floor_values_engaged:

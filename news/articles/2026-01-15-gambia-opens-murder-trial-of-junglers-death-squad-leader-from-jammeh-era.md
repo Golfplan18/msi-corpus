@@ -15,7 +15,12 @@ primary_themes:
 - war crimes accountability
 - West Africa
 - post-authoritarian accountability
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - crime
+  - "crime, law and justice"
+  - weather
 storyline_nexus: []
 geographic_location: Banjul, Gambia
 floor_values_engaged:

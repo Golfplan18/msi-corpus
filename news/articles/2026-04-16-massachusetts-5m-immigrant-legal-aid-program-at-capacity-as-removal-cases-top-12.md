@@ -19,7 +19,11 @@ primary_themes:
 - immigrant rights
 - state immigration policy
 - deportation
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "human interest"
+  - "human migration"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Massachusetts, United States
 floor_values_engaged:

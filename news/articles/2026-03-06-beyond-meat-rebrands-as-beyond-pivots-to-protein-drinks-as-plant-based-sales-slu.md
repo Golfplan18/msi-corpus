@@ -15,7 +15,9 @@ primary_themes:
 - corporate rebranding
 - consumer protein demand
 - food retail trends
-topic_tags: []
+topic_tags:
+  - "economy, business and finance"
+  - "business information"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

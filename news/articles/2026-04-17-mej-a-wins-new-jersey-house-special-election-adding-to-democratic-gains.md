@@ -15,7 +15,9 @@ primary_themes:
 - New Jersey politics
 - 2026 midterm elections
 - Special elections
-topic_tags: []
+topic_tags:
+  - politics
+  - election
 storyline_nexus: []
 geographic_location: New Jersey, United States
 floor_values_engaged:

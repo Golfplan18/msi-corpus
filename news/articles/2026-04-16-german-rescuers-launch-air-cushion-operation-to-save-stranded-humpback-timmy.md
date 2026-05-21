@@ -13,7 +13,12 @@ primary_themes:
 - marine wildlife
 - environmental conservation
 - Germany
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - conservation
+  - environment
+  - sport
 storyline_nexus: []
 geographic_location: Wismar, Mecklenburg-Pomerania, Germany
 floor_values_engaged:

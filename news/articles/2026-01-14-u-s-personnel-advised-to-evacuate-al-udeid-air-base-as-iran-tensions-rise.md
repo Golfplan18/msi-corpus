@@ -18,8 +18,12 @@ primary_themes:
 - Iran protests
 - U.S. military evacuation
 topic_tags:
-  - "civil unrest"
+  - "armed conflict"
   - "conflict, war and peace"
+  - "international relations"
+  - labour
+  - "labour dispute"
+  - politics
 storyline_nexus: []
 geographic_location: Al Udeid Air Base, Qatar
 floor_values_engaged:

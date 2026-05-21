@@ -22,10 +22,11 @@ primary_themes:
 - nonprofit sector
 - community service
 topic_tags:
-  - "society"
-  - "communities"
-  - "human interest"
-  - "people"
+  - "artificial intelligence"
+  - "arts and entertainment"
+  - "arts, culture, entertainment and media"
+  - "science and technology"
+  - society
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

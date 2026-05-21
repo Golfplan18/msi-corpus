@@ -17,7 +17,12 @@ primary_themes:
 - anti_asian_american_violence
 - hate_crimes
 - judicial_proceedings
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - crime
+  - judiciary
+  - "conflict, war and peace"
+  - "armed conflict"
 storyline_nexus: []
 geographic_location: San Francisco, California, United States
 floor_values_engaged:

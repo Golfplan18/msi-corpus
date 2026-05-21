@@ -15,8 +15,8 @@ primary_themes:
 - executions
 - U.S. foreign policy
 topic_tags:
-  - "civil unrest"
-  - "conflict, war and peace"
+  - politics
+  - government
 storyline_nexus: []
 geographic_location: Washington, D.C. / Tehran, Iran
 floor_values_engaged:

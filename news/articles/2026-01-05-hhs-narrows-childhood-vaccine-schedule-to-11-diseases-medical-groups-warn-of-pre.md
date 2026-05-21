@@ -19,8 +19,11 @@ primary_themes:
 - Trump administration
 - vaccine advisory committee
 topic_tags:
+  - politics
   - health
-  - "disease and condition"
+  - "human interest"
+  - "government policy"
+  - "human migration"
   - "public health"
 storyline_nexus: []
 geographic_location: United States

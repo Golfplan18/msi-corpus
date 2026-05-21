@@ -15,7 +15,11 @@ primary_themes:
 - urban policing
 - crime statistics
 - New Orleans
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "crime, law and justice"
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: New Orleans, Louisiana, United States
 floor_values_engaged:

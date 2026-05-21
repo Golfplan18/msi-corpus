@@ -16,7 +16,13 @@ primary_themes:
 - military operations
 - Syria
 - Islamic State
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - government
+  - "government policy"
+  - labour
+  - politics
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Homs province, Syria
 floor_values_engaged:

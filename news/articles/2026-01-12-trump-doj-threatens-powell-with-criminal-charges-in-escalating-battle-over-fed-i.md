@@ -22,7 +22,11 @@ primary_themes:
 - monetary policy
 - interest rates
 - inflation
-topic_tags: []
+topic_tags:
+  - "politics"
+  - "government"
+  - "crime, law and justice"
+  - "prosecution"
 storyline_nexus: []
 geographic_location: Washington, D.C., United States
 floor_values_engaged:

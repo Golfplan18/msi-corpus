@@ -15,7 +15,12 @@ primary_themes:
 - Federal use of force
 - Law enforcement accountability
 - Trump administration policy
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "human interest"
+  - "human migration"
+  - "law enforcement"
+  - politics
 storyline_nexus: []
 geographic_location: Minneapolis, Minnesota, United States
 floor_values_engaged:

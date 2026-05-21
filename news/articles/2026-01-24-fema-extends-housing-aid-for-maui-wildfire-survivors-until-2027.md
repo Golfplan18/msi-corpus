@@ -17,7 +17,10 @@ primary_themes:
 - housing assistance
 - wildfire recovery
 - federal aid
-topic_tags: []
+topic_tags:
+  - politics
+  - government
+  - "disaster, accident and emergency incident"
 storyline_nexus: []
 geographic_location: Maui, Hawaii, United States
 floor_values_engaged:

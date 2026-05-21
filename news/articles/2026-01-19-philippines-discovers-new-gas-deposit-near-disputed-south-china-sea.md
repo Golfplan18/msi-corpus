@@ -17,7 +17,10 @@ primary_themes:
 - natural gas discovery
 - South China Sea territorial disputes
 - Philippine energy policy
-topic_tags: []
+topic_tags:
+  - government
+  - "international relations"
+  - politics
 storyline_nexus: []
 geographic_location: Palawan province, Philippines / South China Sea
 floor_values_engaged:

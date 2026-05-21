@@ -21,10 +21,7 @@ primary_themes:
 - Europe
 - winter storm
 topic_tags:
-  - "weather"
-  - "weather warning"
-  - "disaster, accident and emergency incident"
-  - "natural disaster"
+  - weather
 storyline_nexus: []
 geographic_location: Finnish Lapland, Finland; northern and central Europe
 floor_values_engaged:

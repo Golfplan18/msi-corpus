@@ -13,7 +13,11 @@ primary_themes:
 - iran_sanctions
 - sudanese_civil_war
 - federal_law_enforcement
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "crime, law and justice"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Los Angeles, California, USA; Oman; Iran; Sudan
 floor_values_engaged:

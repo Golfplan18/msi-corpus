@@ -15,7 +15,13 @@ primary_themes:
 - asian_american_representation
 - notable_deaths
 - hawaii_history
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "conflict, war and peace"
+  - government
+  - "government policy"
+  - "peace process"
+  - "political dissent"
 storyline_nexus: []
 geographic_location: Hawaii, United States
 floor_values_engaged:

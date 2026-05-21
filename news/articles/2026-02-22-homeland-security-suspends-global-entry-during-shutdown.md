@@ -14,7 +14,13 @@ primary_themes:
 - airport_security
 - travel_disruption
 - immigration_policy
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "law enforcement"
+  - politics
+  - "government policy"
+  - "science and technology"
+  - "artificial intelligence"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

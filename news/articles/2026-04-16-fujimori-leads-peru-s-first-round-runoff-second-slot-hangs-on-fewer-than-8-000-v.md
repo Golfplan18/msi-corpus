@@ -14,7 +14,13 @@ primary_themes:
 - Latin America politics
 - democratic process
 - political polarization
-topic_tags: []
+topic_tags:
+  - election
+  - government
+  - "political dissent"
+  - "political process"
+  - politics
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Lima, Peru
 floor_values_engaged:

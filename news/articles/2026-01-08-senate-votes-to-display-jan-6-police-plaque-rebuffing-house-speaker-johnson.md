@@ -22,8 +22,12 @@ primary_themes:
 - institutional memory
 - historical narrative
 topic_tags:
-  - politics
-  - "political process"
+  - "artificial intelligence"
+  - "crime, law and justice"
+  - election
+  - government
+  - "government policy"
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: Washington, D.C.
 floor_values_engaged:

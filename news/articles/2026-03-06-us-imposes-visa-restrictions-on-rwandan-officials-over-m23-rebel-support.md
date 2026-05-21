@@ -19,7 +19,9 @@ primary_themes:
 - Washington Accords
 - Rwanda-Congo relations
 - Critical minerals
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: Eastern Congo; Rwanda; United States
 floor_values_engaged:

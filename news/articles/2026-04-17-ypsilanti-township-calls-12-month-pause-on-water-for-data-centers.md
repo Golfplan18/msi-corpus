@@ -13,7 +13,11 @@ primary_themes:
 - Water resource management
 - Infrastructure capacity
 - Local opposition to development
-topic_tags: []
+topic_tags:
+  - "construction and property"
+  - education
+  - "economy, business and finance"
+  - school
 storyline_nexus: []
 geographic_location: Ypsilanti Township, Michigan, USA
 floor_values_engaged:

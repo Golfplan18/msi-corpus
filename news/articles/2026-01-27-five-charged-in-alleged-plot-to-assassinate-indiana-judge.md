@@ -14,7 +14,10 @@ primary_themes:
 - courts
 - crime
 - criminal_charges
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "human interest"
+  - trial
 storyline_nexus: []
 geographic_location: Lafayette, Indiana, United States
 floor_values_engaged:

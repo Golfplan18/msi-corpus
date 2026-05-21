@@ -19,10 +19,8 @@ primary_themes:
 - archival integrity
 - press freedom
 topic_tags:
-  - "politics"
-  - "government"
-  - "science and technology"
-  - "artificial intelligence"
+  - government
+  - politics
 storyline_nexus: []
 geographic_location: Jerusalem, Israel
 floor_values_engaged:

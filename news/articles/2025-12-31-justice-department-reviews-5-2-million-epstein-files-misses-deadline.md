@@ -16,7 +16,10 @@ primary_themes:
 - congressional oversight
 - Epstein document release
 - sexual abuse investigation
-topic_tags: []
+topic_tags:
+  - "human migration"
+  - politics
+  - "human interest"
 storyline_nexus: []
 geographic_location: Washington, D.C.
 floor_values_engaged:

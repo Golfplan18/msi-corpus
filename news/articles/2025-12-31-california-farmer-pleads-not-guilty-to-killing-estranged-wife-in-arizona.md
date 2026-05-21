@@ -17,7 +17,9 @@ primary_themes:
 - courts
 - domestic violence
 - extradition
-topic_tags: []
+topic_tags:
+  - crime
+  - "crime, law and justice"
 storyline_nexus: []
 geographic_location: Holbrook, Navajo County, Arizona, USA; Pinetop, Arizona, USA
 floor_values_engaged:

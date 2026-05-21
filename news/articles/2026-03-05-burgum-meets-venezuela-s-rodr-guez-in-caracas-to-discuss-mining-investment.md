@@ -17,7 +17,11 @@ primary_themes:
 - China-US strategic competition
 - natural resources diplomacy
 - mining investment
-topic_tags: []
+topic_tags:
+  - "politics"
+  - "international relations"
+  - "economy, business and finance"
+  - "energy and resource"
 storyline_nexus: []
 geographic_location: Caracas, Venezuela
 floor_values_engaged:

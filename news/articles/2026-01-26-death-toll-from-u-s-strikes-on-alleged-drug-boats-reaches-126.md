@@ -14,7 +14,9 @@ primary_themes:
 - drug trafficking
 - accountability_of_power
 - legal authority of state action
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: Caribbean Sea, Eastern Pacific Ocean, Venezuela
 floor_values_engaged:

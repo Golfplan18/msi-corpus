@@ -17,7 +17,10 @@ primary_themes:
 - US military operations
 - Syria conflict
 - Operation Hawkeye Strike
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - terrorism
 storyline_nexus: []
 geographic_location: Syria
 floor_values_engaged:

@@ -19,7 +19,10 @@ primary_themes:
 - federal court injunction
 - environmental review
 - state-federal legal conflict
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - health
+  - "mental health"
 storyline_nexus: []
 geographic_location: Hagerstown, Washington County, Maryland, United States
 floor_values_engaged:

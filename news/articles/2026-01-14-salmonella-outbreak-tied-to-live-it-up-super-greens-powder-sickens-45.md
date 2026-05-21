@@ -15,6 +15,7 @@ primary_themes:
 - salmonella
 - dietary supplements
 topic_tags:
+  - health
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

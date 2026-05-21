@@ -13,7 +13,13 @@ primary_themes:
 - asylum
 - human rights
 - deportation
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "human interest"
+  - "human migration"
+  - "international relations"
+  - judiciary
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: United States; Xinjiang, China
 floor_values_engaged:

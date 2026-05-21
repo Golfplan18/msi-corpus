@@ -13,11 +13,12 @@ primary_themes:
 - public records
 - language regulation
 topic_tags:
-  - "science and technology"
-  - "politics"
-  - "government"
   - "government policy"
-  - "artificial intelligence"
+  - "human migration"
+  - "international relations"
+  - "monetary policy"
+  - politics
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Michigan, United States
 floor_values_engaged:

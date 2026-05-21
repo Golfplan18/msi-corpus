@@ -17,9 +17,7 @@ primary_themes:
 - international organizations
 - UN engagement
 topic_tags:
-  - politics
-  - government
-  - "international relations"
+  - environment
 storyline_nexus: []
 geographic_location: Washington, D.C.
 floor_values_engaged:

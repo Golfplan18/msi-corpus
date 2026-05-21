@@ -16,7 +16,8 @@ primary_themes:
 - Higher education affordability
 - Tuition increases
 - State budgets
-topic_tags: []
+topic_tags:
+  - education
 storyline_nexus: []
 geographic_location: Nevada, United States
 floor_values_engaged:

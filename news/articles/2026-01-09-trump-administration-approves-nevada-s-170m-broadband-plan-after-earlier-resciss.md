@@ -14,7 +14,9 @@ primary_themes:
 - federal-state relations
 - telecommunications policy
 - rural connectivity
-topic_tags: []
+topic_tags:
+  - "science and technology"
+  - "space programme"
 storyline_nexus: []
 geographic_location: Nevada, United States
 floor_values_engaged:

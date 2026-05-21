@@ -12,7 +12,10 @@ primary_themes:
 - elections
 - political transition
 - West African instability
-topic_tags: []
+topic_tags:
+  - politics
+  - election
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: Guinea-Bissau, West Africa
 floor_values_engaged:

@@ -22,9 +22,11 @@ primary_themes:
 - Workers' Party of Korea congress
 topic_tags:
   - "conflict, war and peace"
-  - "armed conflict"
-  - "politics"
+  - "disaster, accident and emergency incident"
+  - environment
+  - fire
   - "international relations"
+  - "natural disaster"
 storyline_nexus: []
 geographic_location: Korean Peninsula
 floor_values_engaged:

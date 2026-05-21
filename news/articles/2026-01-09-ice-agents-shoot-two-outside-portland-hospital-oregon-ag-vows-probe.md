@@ -19,7 +19,13 @@ primary_themes:
 - federal use of force
 - federal-local government conflict
 - civil liberties
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "crime, law and justice"
+  - "disaster, accident and emergency incident"
+  - fire
+  - government
 storyline_nexus: []
 geographic_location: Portland, Oregon, United States
 floor_values_engaged:

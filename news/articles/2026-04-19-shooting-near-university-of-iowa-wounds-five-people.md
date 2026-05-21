@@ -12,7 +12,9 @@ primary_themes:
 - public_safety
 - gun_violence
 - university_campus_safety
-topic_tags: []
+topic_tags:
+  - education
+  - "higher education"
 storyline_nexus: []
 geographic_location: Iowa City, Iowa, United States
 floor_values_engaged:

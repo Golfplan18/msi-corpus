@@ -15,7 +15,11 @@ primary_themes:
 - Immigration enforcement
 - Use of force
 - Border security
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "law enforcement"
+  - politics
+  - "government policy"
 storyline_nexus: []
 geographic_location: Arivaca, Arizona, United States
 floor_values_engaged:

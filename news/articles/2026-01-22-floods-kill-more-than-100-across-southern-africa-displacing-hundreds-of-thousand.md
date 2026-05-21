@@ -13,7 +13,8 @@ primary_themes:
 - natural disaster
 - flooding
 - humanitarian crisis
-topic_tags: []
+topic_tags:
+  - "disaster, accident and emergency incident"
 storyline_nexus: []
 geographic_location: Southern Africa (Mozambique, South Africa, Zimbabwe)
 floor_values_engaged:

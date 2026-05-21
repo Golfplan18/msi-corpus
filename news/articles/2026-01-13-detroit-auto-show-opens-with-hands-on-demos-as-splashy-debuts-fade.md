@@ -18,11 +18,11 @@ primary_themes:
 - tariff policy
 - experiential marketing
 topic_tags:
-  - "science and technology"
+  - "arts, culture, entertainment and media"
   - "economy, business and finance"
-  - "market and exchange"
-  - "politics"
-  - "government policy"
+  - "international trade"
+  - "mass media"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Detroit, Michigan, United States
 floor_values_engaged:

@@ -14,9 +14,8 @@ primary_themes:
 - NASCAR
 - Criminal investigation
 topic_tags:
-  - "crime, law and justice"
+  - "accident and emergency incident"
   - "disaster, accident and emergency incident"
-  - "transportation accident and incident"
 storyline_nexus: []
 geographic_location: Mooresville, North Carolina
 floor_values_engaged:

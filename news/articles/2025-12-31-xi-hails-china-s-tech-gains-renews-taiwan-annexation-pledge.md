@@ -17,7 +17,13 @@ primary_themes:
 - US-China technology competition
 - Chinese military activity
 - New Year address
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "artificial intelligence"
+  - "conflict, war and peace"
+  - government
+  - "government policy"
+  - politics
 storyline_nexus: []
 geographic_location: Beijing, China / Taiwan Strait
 floor_values_engaged:

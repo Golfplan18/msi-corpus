@@ -15,8 +15,6 @@ primary_themes:
 - food regulation
 - Make America Healthy Again
 topic_tags:
-  - "government policy"
-  - "public health"
   - health
 storyline_nexus: []
 geographic_location: United States

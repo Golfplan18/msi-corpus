@@ -16,7 +16,9 @@ primary_themes:
 - political_violence
 - us_mexico_cooperation
 - cartel_retaliation
-topic_tags: []
+topic_tags:
+  - "human interest"
+  - people
 storyline_nexus: []
 geographic_location: Mexico (primarily Jalisco, Michoacán, Puerto Vallarta)
 floor_values_engaged:

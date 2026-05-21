@@ -17,7 +17,9 @@ primary_themes:
 - federal sentencing
 - solar energy
 - criminal justice
-topic_tags: []
+topic_tags:
+  - corruption
+  - "crime, law and justice"
 storyline_nexus: []
 geographic_location: Benicia, California, United States
 floor_values_engaged:

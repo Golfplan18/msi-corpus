@@ -16,7 +16,10 @@ primary_themes:
 - Venezuela
 - U.S.-Venezuela relations
 - human rights
-topic_tags: []
+topic_tags:
+  - society
+  - politics
+  - "human interest"
 storyline_nexus: []
 geographic_location: Caracas, Venezuela
 floor_values_engaged:

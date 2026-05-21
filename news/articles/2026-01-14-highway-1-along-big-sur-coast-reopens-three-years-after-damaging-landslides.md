@@ -17,9 +17,7 @@ primary_themes:
 - tourism
 - California_economy
 topic_tags:
-  - "disaster, accident and emergency incident"
   - "economy, business and finance"
-  - "natural disaster"
 storyline_nexus: []
 geographic_location: Big Sur, California, United States
 floor_values_engaged:

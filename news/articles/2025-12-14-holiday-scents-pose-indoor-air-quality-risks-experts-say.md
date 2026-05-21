@@ -18,10 +18,11 @@ primary_themes:
 - public health
 - home safety
 topic_tags:
-  - "health"
-  - "public health"
-  - "environment"
-  - "pollution"
+  - education
+  - health
+  - "higher education"
+  - "human interest"
+  - school
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

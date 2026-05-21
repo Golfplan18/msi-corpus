@@ -15,8 +15,8 @@ primary_themes:
 - SDF-army merger negotiations
 - civilian casualties
 topic_tags:
-  - "conflict, war and peace"
   - "armed conflict"
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: Aleppo, Syria
 floor_values_engaged:

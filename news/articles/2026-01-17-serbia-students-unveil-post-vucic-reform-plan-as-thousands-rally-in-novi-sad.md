@@ -14,7 +14,13 @@ primary_themes:
 - democratic reform
 - elections
 - Serbia
-topic_tags: []
+topic_tags:
+  - politics
+  - election
+  - government
+  - "crime, law and justice"
+  - judiciary
+  - corruption
 storyline_nexus: []
 geographic_location: Novi Sad, Serbia
 floor_values_engaged:

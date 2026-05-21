@@ -13,7 +13,13 @@ primary_themes:
 - protest_crackdown
 - human_rights
 - us_iran_conflict
-topic_tags: []
+topic_tags:
+  - politics
+  - "armed conflict"
+  - society
+  - "government policy"
+  - "international relations"
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: Iran / Persian Gulf / International
 floor_values_engaged:

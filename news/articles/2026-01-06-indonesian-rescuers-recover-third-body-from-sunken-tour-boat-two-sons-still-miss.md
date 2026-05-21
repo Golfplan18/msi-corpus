@@ -18,8 +18,10 @@ primary_themes:
 - international travel
 - Indonesia
 topic_tags:
+  - "accident and emergency incident"
   - "disaster, accident and emergency incident"
-  - "transportation accident and incident"
+  - "lifestyle and leisure"
+  - travel
 storyline_nexus: []
 geographic_location: Komodo National Park, East Nusa Tenggara, Indonesia
 floor_values_engaged:

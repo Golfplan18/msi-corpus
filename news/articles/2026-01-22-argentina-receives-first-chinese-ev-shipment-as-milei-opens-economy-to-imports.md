@@ -17,7 +17,13 @@ primary_themes:
 - China-Argentina trade
 - Milei economic policy
 - Latin America economy
-topic_tags: []
+topic_tags:
+  - "economy, business and finance"
+  - government
+  - "government policy"
+  - "international relations"
+  - "international trade"
+  - politics
 storyline_nexus: []
 geographic_location: Zárate, Buenos Aires Province, Argentina
 floor_values_engaged:

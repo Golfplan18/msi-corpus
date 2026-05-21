@@ -15,9 +15,7 @@ primary_themes:
 - buffer zone
 - US mediation
 - post-Assad Syria
-topic_tags:
-  - "conflict, war and peace"
-  - "peace process"
+topic_tags: []
 storyline_nexus: []
 geographic_location: Paris, France; Syria; Israel
 floor_values_engaged:

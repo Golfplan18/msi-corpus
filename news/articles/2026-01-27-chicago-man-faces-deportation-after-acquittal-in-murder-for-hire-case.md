@@ -11,7 +11,13 @@ primary_themes:
 - Immigration enforcement
 - Criminal justice
 - Trump administration policy
-topic_tags: []
+topic_tags:
+  - crime
+  - "crime, law and justice"
+  - "human migration"
+  - "international relations"
+  - "law enforcement"
+  - "political dissent"
 storyline_nexus: []
 geographic_location: Chicago, Illinois
 floor_values_engaged:

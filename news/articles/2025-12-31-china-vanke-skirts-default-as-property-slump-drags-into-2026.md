@@ -17,7 +17,9 @@ primary_themes:
 - corporate debt
 - state-backed developers
 - economic recovery
-topic_tags: []
+topic_tags:
+  - "market and exchange"
+  - "economy, business and finance"
 storyline_nexus: []
 geographic_location: Shenzhen, China
 floor_values_engaged:

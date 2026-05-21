@@ -16,12 +16,12 @@ primary_themes:
 - Trump foreign policy
 - human rights
 topic_tags:
-  - "conflict, war and peace"
   - "armed conflict"
-  - "politics"
-  - "government"
-  - "economy, business and finance"
-  - "market and exchange"
+  - "conflict, war and peace"
+  - government
+  - "government policy"
+  - "human interest"
+  - "international relations"
 storyline_nexus: []
 geographic_location: Iran; United States
 floor_values_engaged:

@@ -17,10 +17,8 @@ primary_themes:
 - federal grant administration
 - civil rights litigation
 topic_tags:
-  - politics
-  - "government policy"
   - education
-  - school
+  - society
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

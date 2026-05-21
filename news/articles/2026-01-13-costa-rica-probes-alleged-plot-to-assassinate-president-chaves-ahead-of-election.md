@@ -14,10 +14,10 @@ primary_themes:
 - elections
 - organized crime
 topic_tags:
-  - "science and technology"
-  - "politics"
-  - "election"
-  - "artificial intelligence"
+  - "arts, culture, entertainment and media"
+  - election
+  - "mass media"
+  - politics
 storyline_nexus: []
 geographic_location: San José, Costa Rica
 floor_values_engaged:

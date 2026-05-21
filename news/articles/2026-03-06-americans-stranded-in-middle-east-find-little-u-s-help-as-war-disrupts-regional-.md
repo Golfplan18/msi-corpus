@@ -22,7 +22,11 @@ primary_themes:
 - Middle East conflict
 - airspace closures
 - consular services
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "human interest"
+  - "human migration"
 storyline_nexus: []
 geographic_location: Middle East; United States
 floor_values_engaged:

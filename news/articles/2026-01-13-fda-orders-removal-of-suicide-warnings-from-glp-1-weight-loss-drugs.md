@@ -13,10 +13,8 @@ primary_themes:
 - obesity treatment
 - suicide risk assessment
 topic_tags:
-  - "health"
-  - "health treatment and procedure"
   - "economy, business and finance"
-  - "conflict, war and peace"
+  - health
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

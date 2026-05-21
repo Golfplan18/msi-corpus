@@ -19,7 +19,12 @@ primary_themes:
 - press freedom
 - China-Taiwan relations
 - military infiltration
-topic_tags: []
+topic_tags:
+  - "human interest"
+  - politics
+  - trial
+  - "human migration"
+  - "crime, law and justice"
 storyline_nexus: []
 geographic_location: Taiwan
 floor_values_engaged:

@@ -12,7 +12,11 @@ primary_themes:
 - meteorology
 - natural hazards
 - public safety
-topic_tags: []
+topic_tags:
+  - "weather warning"
+  - "disaster, accident and emergency incident"
+  - politics
+  - "government policy"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

@@ -21,7 +21,13 @@ primary_themes:
 - Ukraine-Russia war
 - air defense
 - defense technology
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "artificial intelligence"
+  - "conflict, war and peace"
+  - "crime, law and justice"
+  - "economy, business and finance"
+  - "international trade"
 storyline_nexus: []
 geographic_location: Ukraine; Middle East
 floor_values_engaged:

@@ -18,7 +18,10 @@ primary_themes:
 - semiconductor supply chain
 - rare earth minerals
 - China-South Korea relations
-topic_tags: []
+topic_tags:
+  - "human migration"
+  - "human interest"
+  - "economy, business and finance"
 storyline_nexus: []
 geographic_location: East Asia
 floor_values_engaged:

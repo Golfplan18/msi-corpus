@@ -16,7 +16,13 @@ primary_themes:
 - missile defense systems
 - Arctic security
 - international relations
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - "disaster, accident and emergency incident"
+  - environment
+  - "international relations"
+  - "political dissent"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Greenland / Arctic
 floor_values_engaged:

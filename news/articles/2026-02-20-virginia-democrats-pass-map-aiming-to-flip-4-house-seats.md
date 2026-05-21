@@ -20,7 +20,11 @@ primary_themes:
 - U.S. House elections
 - midterm politics
 - electoral strategy
-topic_tags: []
+topic_tags:
+  - politics
+  - election
+  - "crime, law and justice"
+  - judiciary
 storyline_nexus: []
 geographic_location: Virginia, United States
 floor_values_engaged:

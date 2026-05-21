@@ -14,8 +14,12 @@ primary_themes:
 - federal_budget
 - gdp_growth
 topic_tags:
+  - government
+  - "government policy"
+  - "human migration"
+  - "international relations"
   - "monetary policy"
-  - "economy, business and finance"
+  - "political dissent"
 storyline_nexus: []
 geographic_location: Washington, D.C.
 floor_values_engaged:

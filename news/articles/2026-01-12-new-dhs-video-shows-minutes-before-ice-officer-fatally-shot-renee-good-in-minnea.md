@@ -10,7 +10,13 @@ primary_themes:
 - immigration enforcement
 - use of force
 - police accountability
-topic_tags: []
+topic_tags:
+  - government
+  - "government policy"
+  - "human migration"
+  - "international relations"
+  - "monetary policy"
+  - politics
 storyline_nexus: []
 geographic_location: Minneapolis, Minnesota, United States
 floor_values_engaged:

@@ -16,7 +16,12 @@ primary_themes:
 - spiritual_practice
 - Afro-Cuban_culture
 - US-Cuba_relations
-topic_tags: []
+topic_tags:
+  - politics
+  - "human interest"
+  - "religious leader"
+  - "human migration"
+  - religion
 storyline_nexus: []
 geographic_location: Cuba
 floor_values_engaged:

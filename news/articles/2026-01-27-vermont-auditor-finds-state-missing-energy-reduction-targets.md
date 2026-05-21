@@ -13,7 +13,9 @@ primary_themes:
 - energy efficiency
 - public administration
 - audit findings
-topic_tags: []
+topic_tags:
+  - politics
+  - government
 storyline_nexus: []
 geographic_location: Vermont, United States
 floor_values_engaged:

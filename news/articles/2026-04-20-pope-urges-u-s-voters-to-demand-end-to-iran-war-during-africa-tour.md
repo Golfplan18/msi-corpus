@@ -13,7 +13,13 @@ primary_themes:
 - geopolitics
 - U.S. foreign policy
 - papal authority
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "artificial intelligence"
+  - "conflict, war and peace"
+  - government
+  - "government policy"
+  - "international relations"
 storyline_nexus: []
 geographic_location: International (Vatican, United States, Africa)
 floor_values_engaged:

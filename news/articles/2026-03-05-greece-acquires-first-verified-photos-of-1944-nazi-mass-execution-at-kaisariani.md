@@ -16,7 +16,11 @@ primary_themes:
 - historical photography
 - wartime resistance
 - cultural heritage recovery
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - "war crime"
+  - "human interest"
+  - "achievement"
 storyline_nexus: []
 geographic_location: Athens, Greece
 floor_values_engaged:

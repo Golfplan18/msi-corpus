@@ -12,7 +12,13 @@ primary_themes:
 - military
 - international_airspace
 - defense
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - "armed conflict"
+  - "science and technology"
+  - "space programme"
+  - "science and technology"
+  - "artificial intelligence"
 storyline_nexus: []
 geographic_location: Bering Strait region, Alaska
 floor_values_engaged:

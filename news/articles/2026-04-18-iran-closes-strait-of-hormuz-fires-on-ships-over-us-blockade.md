@@ -18,7 +18,11 @@ primary_themes:
 - energy_security
 - diplomatic_negotiations
 - military_escalation
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "international relations"
+  - politics
 storyline_nexus: []
 geographic_location: Middle East; Strait of Hormuz; Iran; Lebanon
 floor_values_engaged:

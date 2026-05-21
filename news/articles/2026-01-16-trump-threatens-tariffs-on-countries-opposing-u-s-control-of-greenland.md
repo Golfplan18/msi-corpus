@@ -16,7 +16,13 @@ primary_themes:
 - tariffs
 - NATO alliances
 - Indigenous rights
-topic_tags: []
+topic_tags:
+  - "arts, culture, entertainment and media"
+  - "economy, business and finance"
+  - government
+  - health
+  - "international trade"
+  - "mass media"
 storyline_nexus: []
 geographic_location: Copenhagen, Denmark / Washington, D.C. / Nuuk, Greenland
 floor_values_engaged:

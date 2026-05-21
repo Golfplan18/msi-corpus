@@ -17,12 +17,12 @@ primary_themes:
 - patient care
 - hospital workers
 topic_tags:
-  - "science and technology"
-  - "labour"
-  - "labour dispute"
+  - politics
+  - "international relations"
+  - "conflict, war and peace"
+  - "armed conflict"
   - "disaster, accident and emergency incident"
-  - "environment"
-  - "pollution"
+  - health
 storyline_nexus: []
 geographic_location: New York City, New York
 floor_values_engaged:

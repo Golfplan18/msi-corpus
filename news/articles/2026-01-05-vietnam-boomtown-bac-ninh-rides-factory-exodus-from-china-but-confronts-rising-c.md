@@ -20,7 +20,10 @@ primary_themes:
 - China plus one strategy
 topic_tags:
   - "economy, business and finance"
-  - "manufacturing and engineering"
+  - "international relations"
+  - "international trade"
+  - labour
+  - politics
 storyline_nexus: []
 geographic_location: Bac Ninh, Vietnam
 floor_values_engaged:

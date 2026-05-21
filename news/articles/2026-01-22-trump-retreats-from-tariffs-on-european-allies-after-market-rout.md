@@ -17,7 +17,11 @@ primary_themes:
 - stock_markets
 - geopolitics
 - military_alliances
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "international relations"
+  - politics
 storyline_nexus: []
 geographic_location: Davos, Switzerland / International
 floor_values_engaged:

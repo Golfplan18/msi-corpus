@@ -13,7 +13,13 @@ primary_themes:
 - prison staffing crisis
 - government accountability
 - correctional officer labor
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "crime, law and justice"
+  - government
+  - "government policy"
+  - labour
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: Nevada, United States
 floor_values_engaged:

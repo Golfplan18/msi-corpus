@@ -20,7 +20,9 @@ primary_themes:
 - midterm elections
 - House of Representatives
 - partisan politics
-topic_tags: []
+topic_tags:
+  - election
+  - politics
 storyline_nexus: []
 geographic_location: United States (multiple states)
 floor_values_engaged:

@@ -17,7 +17,13 @@ primary_themes:
 - israel-gaza-conflict
 - housing-policy
 - lgbtq-rights
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - "armed conflict"
+  - politics
+  - election
+  - "science and technology"
+  - "artificial intelligence"
 storyline_nexus: []
 geographic_location: San Francisco, California
 floor_values_engaged:

@@ -15,7 +15,13 @@ primary_themes:
 - diplomatic dispute
 - occupied territory
 - settler violence
-topic_tags: []
+topic_tags:
+  - "human interest"
+  - politics
+  - "international relations"
+  - "economy, business and finance"
+  - "human migration"
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: West Bank, Ramallah, Jerusalem, Rome
 floor_values_engaged:

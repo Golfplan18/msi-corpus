@@ -19,7 +19,13 @@ primary_themes:
 - ocean safety
 - government accountability
 - Hawaii
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "artificial intelligence"
+  - "conflict, war and peace"
+  - government
+  - "government policy"
+  - "human interest"
 storyline_nexus: []
 geographic_location: Hawaii, United States
 floor_values_engaged:

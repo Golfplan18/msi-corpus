@@ -11,7 +11,9 @@ primary_themes:
 - Ethics in government
 - Public accountability
 - State politics
-topic_tags: []
+topic_tags:
+  - election
+  - politics
 storyline_nexus: []
 geographic_location: Nevada, United States
 floor_values_engaged:

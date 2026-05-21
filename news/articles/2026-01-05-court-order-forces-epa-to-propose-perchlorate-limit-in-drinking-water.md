@@ -15,8 +15,10 @@ primary_themes:
 - public health
 - court-ordered rulemaking
 topic_tags:
+  - "crime, law and justice"
+  - "disaster, accident and emergency incident"
   - environment
-  - pollution
+  - fire
   - health
   - "public health"
 storyline_nexus: []

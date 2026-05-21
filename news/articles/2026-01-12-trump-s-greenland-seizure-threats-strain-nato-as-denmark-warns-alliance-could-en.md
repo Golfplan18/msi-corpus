@@ -18,7 +18,11 @@ primary_themes:
 - U.S. foreign policy
 - collective defense
 - Arctic security
-topic_tags: []
+topic_tags:
+  - "politics"
+  - "international relations"
+  - "conflict, war and peace"
+  - "armed conflict"
 storyline_nexus: []
 geographic_location: Brussels, Belgium / International
 floor_values_engaged:

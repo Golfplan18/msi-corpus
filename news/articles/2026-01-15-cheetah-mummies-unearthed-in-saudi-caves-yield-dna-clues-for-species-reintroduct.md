@@ -15,6 +15,7 @@ primary_themes:
 - species reintroduction
 - natural mummification
 topic_tags:
+  - environment
 storyline_nexus: []
 geographic_location: Arar, northern Saudi Arabia
 floor_values_engaged:

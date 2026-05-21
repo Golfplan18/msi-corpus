@@ -13,7 +13,11 @@ primary_themes:
 - gun violence
 - mass shooting
 - international incident
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "international relations"
+  - politics
+  - crime
 storyline_nexus: []
 geographic_location: Teotihuacán, Mexico City, Mexico
 floor_values_engaged:

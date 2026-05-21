@@ -19,7 +19,13 @@ primary_themes:
 - consumer protection
 - corporate accountability
 - state attorneys general
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "arts and entertainment"
+  - "arts, culture, entertainment and media"
+  - "economy, business and finance"
+  - "science and technology"
+  - society
 storyline_nexus: []
 geographic_location: New York, United States
 floor_values_engaged:

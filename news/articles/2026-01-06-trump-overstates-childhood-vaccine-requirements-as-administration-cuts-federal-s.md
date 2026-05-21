@@ -14,7 +14,8 @@ primary_themes:
 - public health
 - misinformation
 - federal health policy
-topic_tags: []
+topic_tags:
+  - health
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

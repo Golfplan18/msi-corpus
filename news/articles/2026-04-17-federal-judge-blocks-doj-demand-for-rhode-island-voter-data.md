@@ -13,7 +13,9 @@ primary_themes:
 - federal_power_limits
 - privacy_rights
 - election_administration
-topic_tags: []
+topic_tags:
+  - election
+  - politics
 storyline_nexus: []
 geographic_location: United States (Rhode Island primary)
 floor_values_engaged:

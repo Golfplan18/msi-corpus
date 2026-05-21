@@ -18,7 +18,10 @@ primary_themes:
 - Strait of Hormuz
 - aviation
 - global economic impact
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - "arts, culture, entertainment and media"
+  - "arts and entertainment"
 storyline_nexus: []
 geographic_location: Europe; Persian Gulf; International
 floor_values_engaged:

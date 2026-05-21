@@ -28,12 +28,11 @@ primary_themes:
 - Treasury yields
 - inflation
 topic_tags:
-  - "artificial intelligence"
   - banking
-  - "computing and information technology"
   - "economy, business and finance"
-  - "market and exchange"
-  - "science and technology"
+  - government
+  - "government policy"
+  - politics
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

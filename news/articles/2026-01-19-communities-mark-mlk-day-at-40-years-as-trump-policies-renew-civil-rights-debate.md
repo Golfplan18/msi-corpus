@@ -22,7 +22,13 @@ primary_themes:
 - immigration enforcement
 - racial justice
 - federal holiday
-topic_tags: []
+topic_tags:
+  - environment
+  - "government policy"
+  - "human migration"
+  - "international relations"
+  - "political dissent"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

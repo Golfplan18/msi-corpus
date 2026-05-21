@@ -16,12 +16,10 @@ primary_themes:
 - civil liberties
 - tech regulation
 topic_tags:
-  - "science and technology"
-  - "conflict, war and peace"
   - "armed conflict"
-  - "technology and engineering"
-  - "human interest"
   - "artificial intelligence"
+  - "conflict, war and peace"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

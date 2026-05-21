@@ -16,7 +16,13 @@ primary_themes:
 - crime data integrity
 - government oversight
 - federal law enforcement
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "crime, law and justice"
+  - government
+  - "government policy"
+  - "law enforcement"
+  - politics
 storyline_nexus: []
 geographic_location: Washington, D.C.
 floor_values_engaged:

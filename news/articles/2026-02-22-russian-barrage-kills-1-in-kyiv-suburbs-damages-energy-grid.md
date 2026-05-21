@@ -18,7 +18,11 @@ primary_themes:
 - Aerial warfare
 - Energy infrastructure
 - Civilian casualties
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - "armed conflict"
+  - "science and technology"
+  - "artificial intelligence"
 storyline_nexus: []
 geographic_location: Ukraine (primary); Russia (secondary)
 floor_values_engaged:

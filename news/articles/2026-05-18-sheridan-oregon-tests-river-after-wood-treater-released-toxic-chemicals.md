@@ -14,7 +14,11 @@ primary_themes:
 - Environmental regulation
 - Public health
 - Industrial pollution
-topic_tags: []
+topic_tags:
+  - environment
+  - pollution
+  - health
+  - "public health"
 storyline_nexus: []
 geographic_location: Sheridan, Oregon, United States
 floor_values_engaged:

@@ -16,9 +16,9 @@ primary_themes:
 - Cambodia-China law enforcement cooperation
 - pig butchering scams
 topic_tags:
-  - "crime, law and justice"
   - crime
-  - "international law"
+  - "crime, law and justice"
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: Bangkok / Phnom Penh, Cambodia / China
 floor_values_engaged:

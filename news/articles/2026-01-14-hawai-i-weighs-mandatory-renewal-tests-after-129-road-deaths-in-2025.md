@@ -17,6 +17,8 @@ primary_themes:
 - state legislation
 - traffic fatalities
 topic_tags:
+  - "human migration"
+  - "human interest"
 storyline_nexus: []
 geographic_location: Hawaiʻi, United States
 floor_values_engaged:

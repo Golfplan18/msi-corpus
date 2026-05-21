@@ -14,7 +14,13 @@ primary_themes:
 - Environmental regulation
 - Federal-state conflicts
 - Offshore drilling
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - "government policy"
+  - "human migration"
+  - "international relations"
+  - "political dissent"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Santa Barbara, California
 floor_values_engaged:

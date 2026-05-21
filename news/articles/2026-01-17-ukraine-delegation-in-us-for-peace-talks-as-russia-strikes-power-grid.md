@@ -16,7 +16,12 @@ primary_themes:
 - Peace negotiations
 - Energy infrastructure attacks
 - U.S. diplomacy
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - labour
+  - "labour dispute"
+  - weather
 storyline_nexus: []
 geographic_location: Ukraine; United States; Davos, Switzerland
 floor_values_engaged:

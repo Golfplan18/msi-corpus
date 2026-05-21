@@ -16,12 +16,10 @@ primary_themes:
 - Lebanon financial crisis
 - international criminal investigations
 topic_tags:
-  - "science and technology"
   - "crime, law and justice"
-  - "trial"
-  - "corruption"
-  - "politics"
-  - "artificial intelligence"
+  - prosecution
+  - "economy, business and finance"
+  - banking
 storyline_nexus: []
 geographic_location: Beirut, Lebanon
 floor_values_engaged:

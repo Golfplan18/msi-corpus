@@ -16,12 +16,8 @@ primary_themes:
 - Guantanamo Bay
 - UK-US intelligence cooperation
 topic_tags:
-  - "crime, law and justice"
-  - "law"
+  - "artificial intelligence"
   - "science and technology"
-  - "politics"
-  - "government"
-  - "government policy"
 storyline_nexus: []
 geographic_location: London, United Kingdom
 floor_values_engaged:

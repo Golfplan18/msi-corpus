@@ -14,7 +14,8 @@ primary_themes:
 - mineral wealth inequality
 - accountability_of_power
 - migration deportations
-topic_tags: []
+topic_tags:
+  - religion
 storyline_nexus: []
 geographic_location: Malabo, Equatorial Guinea
 floor_values_engaged:

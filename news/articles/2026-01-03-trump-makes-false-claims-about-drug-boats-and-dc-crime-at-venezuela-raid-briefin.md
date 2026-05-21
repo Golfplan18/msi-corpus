@@ -16,7 +16,13 @@ primary_themes:
 - National Guard deployments
 - domestic crime statistics
 - Venezuela
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - crime
+  - "crime, law and justice"
+  - government
+  - "government policy"
+  - labour
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

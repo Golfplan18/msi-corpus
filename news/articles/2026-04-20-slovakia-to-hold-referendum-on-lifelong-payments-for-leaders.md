@@ -12,7 +12,13 @@ primary_themes:
 - accountability_of_power
 - political governance
 - corruption
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - corruption
+  - "crime, law and justice"
+  - election
+  - "political dissent"
+  - politics
 storyline_nexus: []
 geographic_location: Slovakia, Central Europe
 floor_values_engaged:

@@ -16,7 +16,9 @@ primary_themes:
 - health
 - medical-procedure
 - consumer-information
-topic_tags: []
+topic_tags:
+  - health
+  - "health treatment and procedure"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

@@ -18,7 +18,10 @@ primary_themes:
 - wellness_beverages
 - beverage_industry
 - corporate_strategy
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - sport
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

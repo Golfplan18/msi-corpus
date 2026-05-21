@@ -17,7 +17,12 @@ primary_themes:
 - health care costs
 - immigration enforcement
 - federal spending cuts
-topic_tags: []
+topic_tags:
+  - politics
+  - election
+  - government
+  - "economy, business and finance"
+  - religion
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

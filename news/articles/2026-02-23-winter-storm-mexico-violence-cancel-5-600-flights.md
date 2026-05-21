@@ -13,7 +13,13 @@ primary_themes:
 - Air travel cancellations
 - Mexico cartel violence
 - Government shutdown impact
-topic_tags: []
+topic_tags:
+  - weather
+  - "weather warning"
+  - politics
+  - "government policy"
+  - "science and technology"
+  - "artificial intelligence"
 storyline_nexus: []
 geographic_location: United States (Northeast); Mexico (Jalisco state)
 floor_values_engaged:

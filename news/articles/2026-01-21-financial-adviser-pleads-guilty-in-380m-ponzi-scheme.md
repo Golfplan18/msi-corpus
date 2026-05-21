@@ -12,7 +12,10 @@ primary_themes:
 - Ponzi scheme
 - Criminal justice
 - White-collar crime
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - judiciary
+  - corruption
 storyline_nexus: []
 geographic_location: Atlanta, Georgia; St. Petersburg, Florida; Mexico
 floor_values_engaged:

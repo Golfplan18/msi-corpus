@@ -15,7 +15,13 @@ primary_themes:
 - family separation
 - child detention
 - government accountability
-topic_tags: []
+topic_tags:
+  - education
+  - "human interest"
+  - "human migration"
+  - school
+  - sport
+  - "sport event"
 storyline_nexus: []
 geographic_location: United States (Minnesota / Texas)
 floor_values_engaged:

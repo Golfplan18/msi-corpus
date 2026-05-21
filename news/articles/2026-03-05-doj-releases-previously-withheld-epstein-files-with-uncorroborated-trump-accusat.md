@@ -14,7 +14,11 @@ primary_themes:
 - document release
 - uncorroborated allegations
 - congressional oversight
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "corruption"
+  - "politics"
+  - "government"
 storyline_nexus: []
 geographic_location: Washington, D.C.
 floor_values_engaged:

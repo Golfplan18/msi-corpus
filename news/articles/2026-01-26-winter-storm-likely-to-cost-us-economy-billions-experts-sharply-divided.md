@@ -15,7 +15,13 @@ primary_themes:
 - weather disasters
 - cost estimation
 - climate change
-topic_tags: []
+topic_tags:
+  - "human interest"
+  - environment
+  - "economy, business and finance"
+  - "climate change"
+  - "weather warning"
+  - "disaster, accident and emergency incident"
 storyline_nexus: []
 geographic_location: United States — American East
 floor_values_engaged:

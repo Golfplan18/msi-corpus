@@ -19,7 +19,12 @@ primary_themes:
 - holy-year
 - pilgrimage
 - papal-succession
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "belief systems"
+  - religion
+  - "religious institution"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Vatican City; Rome, Italy
 floor_values_engaged:

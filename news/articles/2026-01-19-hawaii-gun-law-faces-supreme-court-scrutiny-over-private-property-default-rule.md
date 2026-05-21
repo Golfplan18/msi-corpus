@@ -17,7 +17,9 @@ primary_themes:
 - Supreme Court
 - private property
 - Hawaii
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Hawaii, United States
 floor_values_engaged:

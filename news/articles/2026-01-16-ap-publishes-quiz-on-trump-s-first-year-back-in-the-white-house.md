@@ -13,7 +13,8 @@ primary_themes:
 - Trump second term
 - political journalism
 - anniversary milestone
-topic_tags: []
+topic_tags:
+  - politics
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

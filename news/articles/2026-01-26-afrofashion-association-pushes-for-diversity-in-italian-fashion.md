@@ -20,7 +20,10 @@ primary_themes:
 - fashion
 - representation
 - Italian fashion
-topic_tags: []
+topic_tags:
+  - "arts and entertainment"
+  - "arts, culture, entertainment and media"
+  - "human interest"
 storyline_nexus: []
 geographic_location: Milan, Italy
 floor_values_engaged:

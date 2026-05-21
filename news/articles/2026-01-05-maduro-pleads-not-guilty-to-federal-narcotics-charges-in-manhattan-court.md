@@ -20,8 +20,11 @@ primary_themes:
 - geopolitics
 - Latin America
 topic_tags:
-  - "crime, law and justice"
+  - politics
   - trial
+  - "government policy"
+  - "international relations"
+  - "crime, law and justice"
 storyline_nexus: []
 geographic_location: New York, United States; Caracas, Venezuela
 floor_values_engaged:

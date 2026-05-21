@@ -15,7 +15,8 @@ primary_themes:
 - Syria conflict
 - Kurdish forces
 - prisoner transfer
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: Kobani, northeast Syria
 floor_values_engaged:

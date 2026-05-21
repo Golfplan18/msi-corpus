@@ -13,7 +13,13 @@ primary_themes:
 - international trade
 - tariff negotiations
 - geopolitical strategy
-topic_tags: []
+topic_tags:
+  - politics
+  - "international relations"
+  - "economy, business and finance"
+  - "international trade"
+  - labour
+  - "labour dispute"
 storyline_nexus: []
 geographic_location: International
 floor_values_engaged:

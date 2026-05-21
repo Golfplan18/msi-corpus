@@ -16,10 +16,12 @@ primary_themes:
 - alternative medicine
 - wellness
 topic_tags:
-  - "religion"
-  - "religious institution"
-  - "health"
-  - "mental health"
+  - "artificial intelligence"
+  - government
+  - "government policy"
+  - health
+  - "human interest"
+  - "human migration"
 storyline_nexus: []
 geographic_location: Minneapolis, Minnesota
 floor_values_engaged:

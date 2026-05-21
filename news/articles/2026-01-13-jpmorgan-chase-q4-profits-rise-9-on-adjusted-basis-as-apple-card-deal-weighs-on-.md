@@ -18,9 +18,8 @@ primary_themes:
 - fed_independence
 - economic_conditions
 topic_tags:
-  - "politics"
-  - "government"
-  - "government policy"
+  - banking
+  - "economy, business and finance"
 storyline_nexus: []
 geographic_location: New York, NY
 floor_values_engaged:

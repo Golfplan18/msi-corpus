@@ -17,10 +17,12 @@ primary_themes:
 - climate and environment
 - consumer affordability
 topic_tags:
-  - "economy, business and finance"
-  - "tax"
-  - "environment"
-  - "sustainability"
+  - "climate change"
+  - environment
+  - government
+  - politics
+  - sport
+  - "sport event"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

@@ -13,11 +13,12 @@ primary_themes:
 - vaccination rates
 - disease elimination status
 topic_tags:
+  - "artificial intelligence"
+  - "disease and condition"
+  - macroeconomics
+  - "monetary policy"
+  - "public health"
   - "science and technology"
-  - "disaster, accident and emergency incident"
-  - "accident and emergency incident"
-  - "health"
-  - "epidemic and pandemic"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

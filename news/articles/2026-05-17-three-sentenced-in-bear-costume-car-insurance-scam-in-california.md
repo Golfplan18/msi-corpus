@@ -15,7 +15,10 @@ primary_themes:
 - insurance fraud
 - criminal sentencing
 - California
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - crime
+  - prosecution
 storyline_nexus: []
 geographic_location: California, United States
 floor_values_engaged:

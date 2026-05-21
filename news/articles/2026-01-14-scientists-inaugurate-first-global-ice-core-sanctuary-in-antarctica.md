@@ -17,10 +17,12 @@ primary_themes:
 - global warming
 - atmospheric history
 topic_tags:
+  - "armed conflict"
   - "artificial intelligence"
+  - "climate change"
   - "conflict, war and peace"
+  - "crime, law and justice"
   - environment
-  - "science and technology"
 storyline_nexus: []
 geographic_location: Concordia station, Antarctic Plateau; Mont Blanc, France; Grand Combin, Switzerland
 floor_values_engaged:

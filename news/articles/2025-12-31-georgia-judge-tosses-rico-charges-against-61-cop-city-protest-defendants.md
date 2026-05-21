@@ -16,7 +16,9 @@ primary_themes:
 - law_enforcement
 - Georgia_politics
 - RICO_law
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - judiciary
 storyline_nexus: []
 geographic_location: Atlanta, Georgia
 floor_values_engaged:

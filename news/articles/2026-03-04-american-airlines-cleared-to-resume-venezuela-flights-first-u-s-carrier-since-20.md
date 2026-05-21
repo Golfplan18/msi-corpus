@@ -14,7 +14,11 @@ primary_themes:
 - aviation
 - U.S.-Venezuela relations
 - diplomatic normalization
-topic_tags: []
+topic_tags:
+  - "international relations"
+  - politics
+  - sport
+  - "sport event"
 storyline_nexus: []
 geographic_location: Venezuela; United States
 floor_values_engaged:

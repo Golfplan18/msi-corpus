@@ -20,7 +20,13 @@ primary_themes:
 - nuclear negotiations
 - Strait of Hormuz blockade
 - economic warfare
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - "disaster, accident and emergency incident"
+  - election
+  - fire
+  - "peace process"
+  - politics
 storyline_nexus: []
 geographic_location: Washington, D.C. / International
 floor_values_engaged:

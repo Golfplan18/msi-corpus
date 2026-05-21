@@ -21,8 +21,12 @@ primary_themes:
 - accountability_of_power
 - historical memory
 topic_tags:
-  - politics
+  - "artificial intelligence"
+  - "crime, law and justice"
   - government
+  - "government policy"
+  - "law enforcement"
+  - politics
 storyline_nexus: []
 geographic_location: Washington, D.C.
 floor_values_engaged:

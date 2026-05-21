@@ -16,7 +16,10 @@ primary_themes:
 - domestic extremism
 - law enforcement response
 - Jan. 6 clemency
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "law enforcement"
+  - politics
 storyline_nexus: []
 geographic_location: Manhattan, New York City, New York, United States
 floor_values_engaged:

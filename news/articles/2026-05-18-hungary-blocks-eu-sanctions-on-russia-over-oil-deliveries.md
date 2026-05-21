@@ -20,7 +20,12 @@ primary_themes:
 - Energy policy
 - Russia-Ukraine war
 - International sanctions
-topic_tags: []
+topic_tags:
+  - politics
+  - "international relations"
+  - government
+  - "economy, business and finance"
+  - "energy and resource"
 storyline_nexus: []
 geographic_location: Hungary, Slovakia, European Union
 floor_values_engaged:

@@ -15,6 +15,9 @@ primary_themes:
 - space station operations
 topic_tags:
   - "artificial intelligence"
+  - "disaster, accident and emergency incident"
+  - "disease and condition"
+  - "public health"
   - "science and technology"
   - "space programme"
 storyline_nexus: []

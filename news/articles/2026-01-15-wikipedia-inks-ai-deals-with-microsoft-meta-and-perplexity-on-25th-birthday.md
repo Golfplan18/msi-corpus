@@ -18,7 +18,12 @@ primary_themes:
 - artificial intelligence
 - technology business
 - content licensing
-topic_tags: []
+topic_tags:
+  - "human interest"
+  - "science and technology"
+  - "economy, business and finance"
+  - "human migration"
+  - "artificial intelligence"
 storyline_nexus: []
 geographic_location: United States; London
 floor_values_engaged:

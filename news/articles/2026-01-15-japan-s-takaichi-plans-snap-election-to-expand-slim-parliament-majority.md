@@ -15,7 +15,9 @@ primary_themes:
 - parliamentary dissolution
 - LDP coalition
 - Japan-South Korea relations
-topic_tags: []
+topic_tags:
+  - politics
+  - election
 storyline_nexus: []
 geographic_location: Tokyo, Japan
 floor_values_engaged:

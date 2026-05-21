@@ -21,9 +21,7 @@ primary_themes:
 - rural economic development
 - food supply chain
 - agritourism
-topic_tags:
-  - "economy, business and finance"
-  - agriculture
+topic_tags: []
 storyline_nexus: []
 geographic_location: South Dakota, United States
 floor_values_engaged:

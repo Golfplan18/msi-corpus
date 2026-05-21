@@ -16,7 +16,13 @@ primary_themes:
 - Immigration policy
 - Federal law enforcement
 - Political strategy
-topic_tags: []
+topic_tags:
+  - "civil unrest"
+  - "conflict, war and peace"
+  - "human migration"
+  - "international relations"
+  - "political dissent"
+  - "political process"
 storyline_nexus: []
 geographic_location: United States, Minnesota
 floor_values_engaged:

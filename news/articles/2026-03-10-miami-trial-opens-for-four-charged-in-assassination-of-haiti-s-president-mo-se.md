@@ -19,7 +19,13 @@ primary_themes:
 - Haiti
 - transnational conspiracy
 - South Florida
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - crime
+  - "crime, law and justice"
+  - government
+  - "government policy"
+  - politics
 storyline_nexus: []
 geographic_location: Miami, Florida, United States; Haiti
 floor_values_engaged:

@@ -13,7 +13,11 @@ primary_themes:
 - drug cartel policy
 - sovereignty
 - Latin American diplomacy
-topic_tags: []
+topic_tags:
+  - "politics"
+  - "international relations"
+  - "conflict, war and peace"
+  - "armed conflict"
 storyline_nexus: []
 geographic_location: Mexico City, Mexico
 floor_values_engaged:

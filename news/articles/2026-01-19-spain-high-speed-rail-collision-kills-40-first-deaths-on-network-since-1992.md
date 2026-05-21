@@ -18,7 +18,8 @@ primary_themes:
 - Spain
 - transportation
 - Andalusia
-topic_tags: []
+topic_tags:
+  - sport
 storyline_nexus: []
 geographic_location: Adamuz, Andalusia, Spain
 floor_values_engaged:

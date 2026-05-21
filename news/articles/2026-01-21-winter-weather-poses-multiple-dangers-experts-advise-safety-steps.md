@@ -13,7 +13,12 @@ primary_themes:
 - public_safety
 - seasonal_weather_hazards
 - expert_guidance
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "disaster, accident and emergency incident"
+  - "natural disaster"
+  - weather
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

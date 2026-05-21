@@ -14,7 +14,8 @@ primary_themes:
 - workplace safety
 - theme park operations
 - amusement park incidents
-topic_tags: []
+topic_tags:
+  - labour
 storyline_nexus: []
 geographic_location: Orlando, Florida, United States
 floor_values_engaged:

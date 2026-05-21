@@ -17,7 +17,10 @@ primary_themes:
 - climate change
 - pest management
 - environmental challenges
-topic_tags: []
+topic_tags:
+  - "climate change"
+  - environment
+  - health
 storyline_nexus: []
 geographic_location: Maine, United States
 floor_values_engaged:

@@ -14,7 +14,9 @@ primary_themes:
 - rare earth supply chains
 - China trade
 - national security
-topic_tags: []
+topic_tags:
+  - "international relations"
+  - politics
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

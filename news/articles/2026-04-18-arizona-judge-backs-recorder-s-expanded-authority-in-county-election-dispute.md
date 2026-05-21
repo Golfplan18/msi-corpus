@@ -14,7 +14,13 @@ primary_themes:
 - voting_procedures
 - election_administration
 - political_conflict
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "crime, law and justice"
+  - election
+  - politics
+  - trial
 storyline_nexus: []
 geographic_location: Maricopa County, Arizona, United States
 floor_values_engaged:

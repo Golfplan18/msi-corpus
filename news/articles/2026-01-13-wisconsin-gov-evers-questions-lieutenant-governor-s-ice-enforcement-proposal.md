@@ -15,12 +15,12 @@ primary_themes:
 - Democratic Party strategy
 - ICE accountability
 topic_tags:
+  - "armed conflict"
+  - "artificial intelligence"
+  - "conflict, war and peace"
   - "crime, law and justice"
-  - "law"
-  - "science and technology"
-  - "education"
-  - "politics"
-  - "government"
+  - education
+  - government
 storyline_nexus: []
 geographic_location: Madison, Wisconsin
 floor_values_engaged:

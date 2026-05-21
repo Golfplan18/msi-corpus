@@ -20,9 +20,12 @@ primary_themes:
 - criminal justice
 - Texas judiciary
 topic_tags:
-  - "science and technology"
+  - crime
   - "crime, law and justice"
-  - "artificial intelligence"
+  - "human migration"
+  - "international relations"
+  - "law enforcement"
+  - trial
 storyline_nexus: []
 geographic_location: Texas, United States
 floor_values_engaged:

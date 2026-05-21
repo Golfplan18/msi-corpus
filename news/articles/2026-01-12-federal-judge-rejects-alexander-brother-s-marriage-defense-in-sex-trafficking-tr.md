@@ -14,7 +14,8 @@ primary_themes:
 - sex_trafficking
 - federal_courts
 - pretrial_motions
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
 storyline_nexus: []
 geographic_location: Manhattan, New York
 floor_values_engaged:

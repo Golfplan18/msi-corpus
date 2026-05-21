@@ -16,7 +16,9 @@ primary_themes:
 - House majority
 - California redistricting
 - congressional vacancy
-topic_tags: []
+topic_tags:
+  - politics
+  - election
 storyline_nexus: []
 geographic_location: California, United States
 floor_values_engaged:

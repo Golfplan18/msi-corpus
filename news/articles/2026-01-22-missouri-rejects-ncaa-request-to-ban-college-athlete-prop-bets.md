@@ -14,7 +14,13 @@ primary_themes:
 - college sports
 - regulatory policy
 - gambling market
-topic_tags: []
+topic_tags:
+  - "economy, business and finance"
+  - education
+  - "higher education"
+  - "market and exchange"
+  - sport
+  - "sport event"
 storyline_nexus: []
 geographic_location: United States (Missouri)
 floor_values_engaged:

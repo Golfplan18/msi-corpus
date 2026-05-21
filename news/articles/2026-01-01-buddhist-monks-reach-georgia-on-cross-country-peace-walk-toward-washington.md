@@ -14,7 +14,12 @@ primary_themes:
 - peace activism
 - religion
 - cross-country walk
-topic_tags: []
+topic_tags:
+  - "arts, culture, entertainment and media"
+  - "conflict, war and peace"
+  - "mass media"
+  - religion
+  - "social media"
 storyline_nexus: []
 geographic_location: Georgia, United States
 floor_values_engaged:

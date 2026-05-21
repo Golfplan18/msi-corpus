@@ -15,9 +15,12 @@ primary_themes:
 - education technology
 - Indonesia politics
 topic_tags:
+  - "armed conflict"
+  - "artificial intelligence"
+  - "business information"
+  - "conflict, war and peace"
   - "crime, law and justice"
-  - corruption
-  - trial
+  - "economy, business and finance"
 storyline_nexus: []
 geographic_location: Jakarta, Indonesia
 floor_values_engaged:

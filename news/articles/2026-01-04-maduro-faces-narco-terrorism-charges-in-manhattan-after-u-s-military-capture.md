@@ -18,7 +18,12 @@ primary_themes:
 - U.S.-Venezuela relations
 - federal prosecution
 - accountability_of_power
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "disaster, accident and emergency incident"
+  - "law enforcement"
+  - "natural disaster"
+  - trial
 storyline_nexus: []
 geographic_location: New York, United States / Venezuela
 floor_values_engaged:

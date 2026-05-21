@@ -17,12 +17,12 @@ primary_themes:
 - China_US_relations
 - federal_sentencing
 topic_tags:
-  - "crime, law and justice"
-  - "crime"
-  - "science and technology"
   - "conflict, war and peace"
-  - "armed conflict"
-  - "artificial intelligence"
+  - crime
+  - "crime, law and justice"
+  - "human migration"
+  - "international relations"
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: San Diego, California, United States
 floor_values_engaged:

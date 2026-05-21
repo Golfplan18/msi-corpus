@@ -16,7 +16,9 @@ primary_themes:
 - South Africa
 - rare earth elements
 - renewable energy
-topic_tags: []
+topic_tags:
+  - politics
+  - "government policy"
 storyline_nexus: []
 geographic_location: South Africa, United States
 floor_values_engaged:

@@ -19,7 +19,9 @@ primary_themes:
 - nuclear_proliferation
 - diplomacy
 - regional_security
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: Northeast Asia
 floor_values_engaged:

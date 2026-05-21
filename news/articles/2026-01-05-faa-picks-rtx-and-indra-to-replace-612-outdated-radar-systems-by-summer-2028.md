@@ -16,9 +16,7 @@ primary_themes:
 - infrastructure modernization
 - air traffic control
 - federal contracting
-topic_tags:
-  - "economy, business and finance"
-  - transport
+topic_tags: []
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

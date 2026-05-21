@@ -15,7 +15,9 @@ primary_themes:
 - Human interest
 - International sports
 - Generational continuity
-topic_tags: []
+topic_tags:
+  - sport
+  - "sport event"
 storyline_nexus: []
 geographic_location: Verona, Italy; Cortina, Italy; Naples, Italy
 floor_values_engaged:

@@ -17,7 +17,10 @@ primary_themes:
 - Federal Training
 - Officer Conduct
 - Immigration Enforcement
-topic_tags: []
+topic_tags:
+  - government
+  - "government policy"
+  - politics
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

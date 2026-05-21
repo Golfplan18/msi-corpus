@@ -18,7 +18,8 @@ primary_themes:
 - energy policy
 - executive power
 - clean energy
-topic_tags: []
+topic_tags:
+  - "economy, business and finance"
 storyline_nexus: []
 geographic_location: Virginia; District of Columbia; United States
 floor_values_engaged:

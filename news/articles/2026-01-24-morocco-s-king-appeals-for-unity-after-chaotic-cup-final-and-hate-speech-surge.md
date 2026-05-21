@@ -13,7 +13,12 @@ primary_themes:
 - political diplomacy
 - hate speech
 - racial tensions
-topic_tags: []
+topic_tags:
+  - "arts, culture, entertainment and media"
+  - "international relations"
+  - politics
+  - "social media"
+  - society
 storyline_nexus: []
 geographic_location: Morocco / Senegal
 floor_values_engaged:

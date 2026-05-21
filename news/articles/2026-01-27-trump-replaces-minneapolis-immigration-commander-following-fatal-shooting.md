@@ -17,7 +17,13 @@ primary_themes:
 - executive authority and limits
 - sanctuary policies
 - state-federal conflict
-topic_tags: []
+topic_tags:
+  - government
+  - "government policy"
+  - "human migration"
+  - "international relations"
+  - "political dissent"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Minneapolis, Minnesota
 floor_values_engaged:

@@ -16,12 +16,10 @@ primary_themes:
 - Trump administration energy policy
 - Energy industry investment
 topic_tags:
-  - "science and technology"
-  - "politics"
-  - "government"
   - "economy, business and finance"
-  - "government policy"
+  - "energy and resource"
   - "international relations"
+  - politics
 storyline_nexus: []
 geographic_location: Venezuela; United States
 floor_values_engaged:

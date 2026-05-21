@@ -18,7 +18,11 @@ primary_themes:
 - animal rescue
 - disaster recovery
 - veterinary medicine
-topic_tags: []
+topic_tags:
+  - "disaster, accident and emergency incident"
+  - environment
+  - "natural disaster"
+  - conservation
 storyline_nexus: []
 geographic_location: Chile, south-central (Lirquén, Bío Bío region)
 floor_values_engaged:

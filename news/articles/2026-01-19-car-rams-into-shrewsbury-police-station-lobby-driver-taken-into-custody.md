@@ -10,7 +10,12 @@ primary_themes:
 - law enforcement
 - automotive accidents
 - public safety
-topic_tags: []
+topic_tags:
+  - "accident and emergency incident"
+  - "crime, law and justice"
+  - "disaster, accident and emergency incident"
+  - "economy, business and finance"
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: Shrewsbury, Massachusetts, United States
 floor_values_engaged:

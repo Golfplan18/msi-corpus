@@ -20,6 +20,8 @@ primary_themes:
 - bipartisan legislation
 - federal spending
 topic_tags:
+  - government
+  - politics
 storyline_nexus: []
 geographic_location: Washington, D.C., United States
 floor_values_engaged:

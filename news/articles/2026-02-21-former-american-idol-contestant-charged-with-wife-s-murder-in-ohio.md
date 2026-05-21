@@ -12,7 +12,13 @@ primary_entities:
 primary_themes:
 - criminal-justice
 - homicide
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - crime
+  - "crime, law and justice"
+  - "law enforcement"
+  - "crime, law and justice"
+  - trial
 storyline_nexus: []
 geographic_location: Tipp City, Ohio, United States
 floor_values_engaged:

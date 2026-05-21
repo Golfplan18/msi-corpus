@@ -14,7 +14,9 @@ primary_themes:
 - executive branch and independent agencies
 - monetary policy
 - congressional oversight
-topic_tags: []
+topic_tags:
+  - election
+  - politics
 storyline_nexus: []
 geographic_location: Washington, D.C., United States
 floor_values_engaged:

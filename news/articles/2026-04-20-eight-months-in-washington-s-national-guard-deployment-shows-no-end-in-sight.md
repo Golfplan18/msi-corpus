@@ -20,7 +20,12 @@ primary_themes:
 - local autonomy
 - crime policy
 - election integrity
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "crime, law and justice"
+  - election
+  - politics
 storyline_nexus: []
 geographic_location: Washington D.C., United States
 floor_values_engaged:

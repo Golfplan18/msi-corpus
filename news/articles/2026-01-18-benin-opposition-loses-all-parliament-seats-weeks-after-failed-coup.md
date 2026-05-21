@@ -17,7 +17,9 @@ primary_themes:
 - West Africa politics
 - coup attempts
 - electoral law
-topic_tags: []
+topic_tags:
+  - election
+  - politics
 storyline_nexus: []
 geographic_location: Cotonou, Benin
 floor_values_engaged:

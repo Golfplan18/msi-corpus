@@ -14,7 +14,13 @@ primary_themes:
 - federal law enforcement operations
 - civil liberties
 - community impact
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "crime, law and justice"
+  - government
+  - "government policy"
+  - "human interest"
+  - "human migration"
 storyline_nexus: []
 geographic_location: New Orleans, Louisiana; Kenner, Louisiana; Minneapolis, Minnesota
 floor_values_engaged:

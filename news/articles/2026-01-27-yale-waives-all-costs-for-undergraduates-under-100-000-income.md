@@ -17,7 +17,11 @@ primary_themes:
 - socioeconomic diversity
 - college tuition policy
 - affirmative action
-topic_tags: []
+topic_tags:
+  - education
+  - "higher education"
+  - school
+  - "science and technology"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

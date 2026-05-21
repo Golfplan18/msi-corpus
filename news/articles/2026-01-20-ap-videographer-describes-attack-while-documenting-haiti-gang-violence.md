@@ -14,7 +14,12 @@ primary_themes:
 - Haiti humanitarian crisis
 - Journalism under threat
 - Violence documentation
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - "crime, law and justice"
+  - "disaster, accident and emergency incident"
+  - fire
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: Port-au-Prince, Haiti
 floor_values_engaged:

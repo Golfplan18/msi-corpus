@@ -21,8 +21,8 @@ primary_themes:
 - border dispute
 topic_tags:
   - "conflict, war and peace"
-  - "armed conflict"
-  - "terrorism"
+  - sport
+  - "sport event"
 storyline_nexus: []
 geographic_location: Pakistan; Afghanistan
 floor_values_engaged:

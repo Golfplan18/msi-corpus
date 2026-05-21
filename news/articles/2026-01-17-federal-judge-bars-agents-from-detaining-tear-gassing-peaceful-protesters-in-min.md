@@ -17,7 +17,12 @@ primary_themes:
 - federal court ruling
 - First Amendment
 - Minneapolis-St. Paul
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "law enforcement"
+  - judiciary
+  - labour
+  - "labour dispute"
 storyline_nexus: []
 geographic_location: Minneapolis-St. Paul, Minnesota
 floor_values_engaged:

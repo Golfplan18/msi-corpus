@@ -18,11 +18,10 @@ primary_themes:
 - US foreign policy
 - multilateral forums
 topic_tags:
-  - "science and technology"
-  - "politics"
-  - "government"
+  - "economy, business and finance"
+  - government
   - "government policy"
-  - "international relations"
+  - politics
 storyline_nexus: []
 geographic_location: Davos, Switzerland
 floor_values_engaged:

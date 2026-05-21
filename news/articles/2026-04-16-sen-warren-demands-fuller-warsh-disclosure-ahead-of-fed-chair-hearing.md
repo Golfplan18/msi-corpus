@@ -18,7 +18,10 @@ primary_themes:
 - Senate confirmation
 - monetary policy
 - Fed independence
-topic_tags: []
+topic_tags:
+  - banking
+  - "economy, business and finance"
+  - politics
 storyline_nexus: []
 geographic_location: Washington, D.C.
 floor_values_engaged:

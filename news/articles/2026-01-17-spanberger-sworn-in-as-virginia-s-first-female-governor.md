@@ -16,7 +16,12 @@ primary_themes:
 - women in government
 - state politics
 - immigration enforcement
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - government
+  - "government policy"
+  - "law enforcement"
+  - politics
 storyline_nexus: []
 geographic_location: Richmond, Virginia, United States
 floor_values_engaged:

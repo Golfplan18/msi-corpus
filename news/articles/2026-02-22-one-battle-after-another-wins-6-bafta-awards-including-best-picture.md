@@ -16,7 +16,9 @@ primary_themes:
 - British Academy
 - Cinema
 - Entertainment
-topic_tags: []
+topic_tags:
+  - "science and technology"
+  - "artificial intelligence"
 storyline_nexus: []
 geographic_location: London, United Kingdom
 floor_values_engaged:

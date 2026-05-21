@@ -17,7 +17,11 @@ primary_themes:
 - separation of powers
 - mail-in voting
 - citizenship requirements
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - election
+  - politics
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Seattle, Washington, United States
 floor_values_engaged:

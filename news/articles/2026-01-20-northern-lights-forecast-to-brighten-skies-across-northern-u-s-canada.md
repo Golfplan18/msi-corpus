@@ -12,7 +12,9 @@ primary_themes:
 - Geomagnetic storms
 - Astronomy
 - Science
-topic_tags: []
+topic_tags:
+  - "disaster, accident and emergency incident"
+  - weather
 storyline_nexus: []
 geographic_location: United States, Canada
 floor_values_engaged:

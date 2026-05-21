@@ -17,7 +17,13 @@ primary_themes:
 - wildlife adaptation
 - Antarctic warming
 - phenological mismatch
-topic_tags: []
+topic_tags:
+  - "climate change"
+  - "conflict, war and peace"
+  - conservation
+  - environment
+  - government
+  - "international relations"
 storyline_nexus: []
 geographic_location: Antarctic
 floor_values_engaged:

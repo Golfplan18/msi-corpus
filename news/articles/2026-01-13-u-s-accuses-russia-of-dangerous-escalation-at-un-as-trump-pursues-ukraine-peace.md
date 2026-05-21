@@ -20,11 +20,11 @@ primary_themes:
 - Trump administration foreign policy
 - NATO
 topic_tags:
+  - "armed conflict"
+  - "artificial intelligence"
+  - "conflict, war and peace"
+  - politics
   - "science and technology"
-  - "politics"
-  - "government"
-  - "government policy"
-  - "international relations"
 storyline_nexus: []
 geographic_location: United Nations, New York; Ukraine; Poland
 floor_values_engaged:

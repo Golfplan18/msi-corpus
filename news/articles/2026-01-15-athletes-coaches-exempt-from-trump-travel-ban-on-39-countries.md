@@ -15,7 +15,10 @@ primary_themes:
 - visa restrictions
 - government policy
 topic_tags:
+  - government
   - "government policy"
+  - "human interest"
+  - "human migration"
   - politics
   - sport
 storyline_nexus: []

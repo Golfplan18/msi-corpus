@@ -17,7 +17,13 @@ primary_themes:
 - Immigration enforcement
 - Constitutional rights
 - Government accountability
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "artificial intelligence"
+  - "conflict, war and peace"
+  - "crime, law and justice"
+  - government
+  - "government policy"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

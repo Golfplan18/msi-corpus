@@ -17,7 +17,10 @@ primary_themes:
 - just_war_theory
 - veterans_experience
 - us_foreign_policy_pattern
-topic_tags: []
+topic_tags:
+  - politics
+  - government
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: Q_iran_region
 floor_values_engaged:

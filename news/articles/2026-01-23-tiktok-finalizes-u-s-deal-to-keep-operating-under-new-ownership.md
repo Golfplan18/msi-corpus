@@ -17,7 +17,11 @@ primary_themes:
 - business
 - regulation
 - geopolitics
-topic_tags: []
+topic_tags:
+  - biotechnology
+  - "economy, business and finance"
+  - "science and technology"
+  - "technology and engineering"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

@@ -16,7 +16,8 @@ primary_themes:
 - due process
 - court orders
 - student rights
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
 storyline_nexus: []
 geographic_location: Boston, Massachusetts; Honduras
 floor_values_engaged:

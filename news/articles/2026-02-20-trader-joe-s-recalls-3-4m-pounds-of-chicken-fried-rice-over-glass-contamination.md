@@ -11,7 +11,9 @@ primary_themes:
 - product recall
 - food safety
 - consumer safety
-topic_tags: []
+topic_tags:
+  - agriculture
+  - "economy, business and finance"
 storyline_nexus: []
 geographic_location: United States, Canada
 floor_values_engaged:

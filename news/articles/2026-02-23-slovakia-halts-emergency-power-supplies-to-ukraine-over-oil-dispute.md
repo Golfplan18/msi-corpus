@@ -14,7 +14,11 @@ primary_themes:
 - Energy security
 - EU politics
 - Geopolitics
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - "armed conflict"
+  - "science and technology"
+  - "artificial intelligence"
 storyline_nexus: []
 geographic_location: Central Europe
 floor_values_engaged:

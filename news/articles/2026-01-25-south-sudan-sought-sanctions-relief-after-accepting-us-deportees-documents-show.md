@@ -15,7 +15,9 @@ primary_themes:
 - sanctions
 - political prosecution
 - international relations
-topic_tags: []
+topic_tags:
+  - "international relations"
+  - politics
 storyline_nexus: []
 geographic_location: South Sudan, United States
 floor_values_engaged:

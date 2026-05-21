@@ -18,7 +18,13 @@ primary_themes:
 - hydroelectric infrastructure
 - U.S. foreign policy
 - Northeast Africa
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - government
+  - "international relations"
+  - "mass media"
+  - "political dissent"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Northeast Africa
 floor_values_engaged:

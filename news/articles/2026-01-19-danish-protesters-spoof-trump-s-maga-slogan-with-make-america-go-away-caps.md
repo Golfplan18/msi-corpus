@@ -18,7 +18,13 @@ primary_themes:
 - Danish protest
 - Political satire
 - Arctic security
-topic_tags: []
+topic_tags:
+  - "civil unrest"
+  - "conflict, war and peace"
+  - government
+  - "international relations"
+  - "political dissent"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Copenhagen, Denmark
 floor_values_engaged:

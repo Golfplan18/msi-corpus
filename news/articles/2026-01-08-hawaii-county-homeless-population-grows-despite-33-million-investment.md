@@ -17,9 +17,9 @@ primary_themes:
 - social services
 - Hawaii
 topic_tags:
-  - politics
   - government
-  - "international relations"
+  - politics
+  - society
 storyline_nexus: []
 geographic_location: Hilo, Hawaii County, Hawaiʻi, United States
 floor_values_engaged:

@@ -18,7 +18,8 @@ primary_themes:
 - Italy domestic politics
 - Trump foreign policy
 - NATO alliance
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: Italy; United States; International
 floor_values_engaged:

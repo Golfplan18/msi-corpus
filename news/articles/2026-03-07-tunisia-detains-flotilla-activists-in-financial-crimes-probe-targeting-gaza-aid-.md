@@ -17,7 +17,13 @@ primary_themes:
 - activist detention
 - Israel-Hamas war
 - civil liberties
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - corruption
+  - "crime, law and justice"
+  - election
+  - politics
+  - sport
 storyline_nexus: []
 geographic_location: Tunis, Tunisia
 floor_values_engaged:

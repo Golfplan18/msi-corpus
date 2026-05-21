@@ -12,7 +12,9 @@ primary_themes:
 - regulatory change
 - technology adoption
 - hunter licensing
-topic_tags: []
+topic_tags:
+  - "science and technology"
+  - "technology and engineering"
 storyline_nexus: []
 geographic_location: Michigan, United States
 floor_values_engaged:

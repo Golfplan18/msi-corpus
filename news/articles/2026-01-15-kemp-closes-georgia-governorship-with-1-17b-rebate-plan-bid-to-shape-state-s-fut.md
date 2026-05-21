@@ -14,7 +14,9 @@ primary_themes:
 - fiscal_policy
 - 2026_elections
 - republican_party_politics
-topic_tags: []
+topic_tags:
+  - election
+  - politics
 storyline_nexus: []
 geographic_location: Atlanta, Georgia, United States
 floor_values_engaged:

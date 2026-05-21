@@ -18,7 +18,9 @@ primary_themes:
 - visa policy
 - Africa
 - travel restrictions
-topic_tags: []
+topic_tags:
+  - politics
+  - sport
 storyline_nexus: []
 geographic_location: Washington, D.C., United States
 floor_values_engaged:

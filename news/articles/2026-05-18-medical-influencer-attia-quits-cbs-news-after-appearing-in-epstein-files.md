@@ -12,7 +12,11 @@ primary_themes:
 - public figure resignations
 - document disclosure
 - accountability_of_power
-topic_tags: []
+topic_tags:
+  - "arts, culture, entertainment and media"
+  - "mass media"
+  - "crime, law and justice"
+  - crime
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

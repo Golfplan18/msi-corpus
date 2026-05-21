@@ -15,7 +15,12 @@ primary_themes:
 - military honors
 - broadcast error
 - dignified transfer
-topic_tags: []
+topic_tags:
+  - politics
+  - government
+  - "conflict, war and peace"
+  - "arts, culture, entertainment and media"
+  - "arts and entertainment"
 storyline_nexus: []
 geographic_location: Dover, Delaware, United States
 floor_values_engaged:

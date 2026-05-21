@@ -14,7 +14,10 @@ primary_themes:
 - criminal_justice
 - government_accountability
 - California
-topic_tags: []
+topic_tags:
+  - "disaster, accident and emergency incident"
+  - fire
+  - "human interest"
 storyline_nexus: []
 geographic_location: Los Angeles, California, United States
 floor_values_engaged:

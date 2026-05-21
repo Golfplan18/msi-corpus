@@ -15,7 +15,9 @@ primary_themes:
 - venezuelan_oil
 - us_foreign_policy
 - energy_industry
-topic_tags: []
+topic_tags:
+  - "international relations"
+  - politics
 storyline_nexus: []
 geographic_location: West Palm Beach, Florida / Venezuela
 floor_values_engaged:

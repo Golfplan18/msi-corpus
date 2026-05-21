@@ -18,7 +18,9 @@ primary_themes:
 - supplier_risk
 - luxury_goods
 - e_commerce_partnership
-topic_tags: []
+topic_tags:
+  - banking
+  - "economy, business and finance"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

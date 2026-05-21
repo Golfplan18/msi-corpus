@@ -12,7 +12,13 @@ primary_themes:
 - International sanctions
 - Russia-Ukraine war
 - Maritime enforcement
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "conflict, war and peace"
+  - "disaster, accident and emergency incident"
+  - "economy, business and finance"
+  - "science and technology"
+  - "transportation accident and incident"
 storyline_nexus: []
 geographic_location: Mediterranean Sea
 floor_values_engaged:

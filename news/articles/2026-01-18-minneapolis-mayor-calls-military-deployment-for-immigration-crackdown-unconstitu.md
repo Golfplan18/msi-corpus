@@ -21,7 +21,13 @@ primary_themes:
 - protests
 - military deployment
 - Insurrection Act
-topic_tags: []
+topic_tags:
+  - "civil unrest"
+  - "conflict, war and peace"
+  - "government policy"
+  - "human migration"
+  - "international relations"
+  - "political dissent"
 storyline_nexus: []
 geographic_location: Minneapolis, Minnesota, United States
 floor_values_engaged:

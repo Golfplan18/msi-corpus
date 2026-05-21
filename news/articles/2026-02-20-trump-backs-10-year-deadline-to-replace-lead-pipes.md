@@ -12,7 +12,13 @@ primary_themes:
 - drinking water safety
 - public health
 - regulatory policy
-topic_tags: []
+topic_tags:
+  - environment
+  - politics
+  - government
+  - "crime, law and justice"
+  - judiciary
+  - "economy, business and finance"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

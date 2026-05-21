@@ -15,9 +15,8 @@ primary_themes:
 - state health policy
 - Connecticut politics
 topic_tags:
-  - "government policy"
-  - "public health"
   - health
+  - "health treatment and procedure"
 storyline_nexus: []
 geographic_location: Connecticut, United States
 floor_values_engaged:

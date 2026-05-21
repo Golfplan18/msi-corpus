@@ -19,7 +19,13 @@ primary_themes:
 - political violence
 - election fraud allegations
 - presidential primaries
-topic_tags: []
+topic_tags:
+  - "disaster, accident and emergency incident"
+  - election
+  - government
+  - "government policy"
+  - "human interest"
+  - "international relations"
 storyline_nexus: []
 geographic_location: Colombia
 floor_values_engaged:

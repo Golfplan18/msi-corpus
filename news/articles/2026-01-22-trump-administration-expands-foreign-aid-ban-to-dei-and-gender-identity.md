@@ -11,7 +11,9 @@ primary_themes:
 - foreign policy
 - healthcare
 - diversity and inclusion
-topic_tags: []
+topic_tags:
+  - health
+  - politics
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

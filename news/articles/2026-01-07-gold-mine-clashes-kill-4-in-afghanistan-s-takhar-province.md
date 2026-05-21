@@ -12,7 +12,8 @@ primary_themes:
 - civil unrest
 - Taliban governance
 - resource extraction
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
 storyline_nexus: []
 geographic_location: Chah Ab district, Takhar province, Afghanistan
 floor_values_engaged:

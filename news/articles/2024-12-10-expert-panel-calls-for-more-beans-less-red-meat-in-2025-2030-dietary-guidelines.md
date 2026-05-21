@@ -22,10 +22,8 @@ primary_themes:
 - health equity
 - alcohol guidelines
 topic_tags:
-  - "health"
+  - health
   - "public health"
-  - "politics"
-  - "government policy"
 storyline_nexus: []
 geographic_location: Washington, D.C.
 floor_values_engaged:

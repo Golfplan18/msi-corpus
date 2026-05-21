@@ -18,7 +18,13 @@ primary_themes:
 - coastal flooding
 - scientific methodology
 - Pacific Islands
-topic_tags: []
+topic_tags:
+  - environment
+  - "climate change"
+  - politics
+  - government
+  - "disaster, accident and emergency incident"
+  - "natural disaster"
 storyline_nexus: []
 geographic_location: Global; Southeast Asia; Pacific; Vanuatu
 floor_values_engaged:

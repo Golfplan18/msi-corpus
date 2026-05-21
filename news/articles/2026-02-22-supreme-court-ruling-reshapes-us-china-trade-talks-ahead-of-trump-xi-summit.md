@@ -17,7 +17,11 @@ primary_themes:
 - Tariffs
 - US-China relations
 - Trade policy
-topic_tags: []
+topic_tags:
+  - "economy, business and finance"
+  - "international trade"
+  - politics
+  - "government policy"
 storyline_nexus: []
 geographic_location: International (US-China)
 floor_values_engaged:

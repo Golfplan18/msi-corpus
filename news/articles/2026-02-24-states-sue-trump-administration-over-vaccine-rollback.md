@@ -14,7 +14,13 @@ primary_themes:
 - Federal-state conflict
 - Vaccine recommendations
 - Trump administration health policy
-topic_tags: []
+topic_tags:
+  - "government policy"
+  - health
+  - politics
+  - "public health"
+  - sport
+  - "sport event"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

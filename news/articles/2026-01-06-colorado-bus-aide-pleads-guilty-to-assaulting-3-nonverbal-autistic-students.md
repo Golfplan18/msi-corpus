@@ -15,8 +15,10 @@ primary_themes:
 - vulnerable populations
 - school safety
 topic_tags:
-  - "crime, law and justice"
   - crime
+  - "crime, law and justice"
+  - education
+  - school
 storyline_nexus: []
 geographic_location: suburban Denver, Colorado
 floor_values_engaged:

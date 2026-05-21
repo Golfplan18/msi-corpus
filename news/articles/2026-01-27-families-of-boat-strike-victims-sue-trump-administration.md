@@ -17,7 +17,13 @@ primary_themes:
 - military operations
 - legal liability
 - human rights
-topic_tags: []
+topic_tags:
+  - politics
+  - election
+  - government
+  - "crime, law and justice"
+  - "conflict, war and peace"
+  - "armed conflict"
 storyline_nexus: []
 geographic_location: Caribbean Sea, eastern Pacific Ocean, Massachusetts
 floor_values_engaged:

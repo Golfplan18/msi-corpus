@@ -19,7 +19,10 @@ primary_themes:
 - Catholic pilgrimage
 - Venezuela political crisis
 - civil society
-topic_tags: []
+topic_tags:
+  - politics
+  - government
+  - religion
 storyline_nexus: []
 geographic_location: Barquisimeto, Lara, Venezuela
 floor_values_engaged:

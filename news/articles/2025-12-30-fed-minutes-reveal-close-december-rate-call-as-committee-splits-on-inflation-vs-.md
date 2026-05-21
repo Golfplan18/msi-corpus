@@ -18,7 +18,8 @@ primary_themes:
 - inflation
 - labor market
 - Federal Reserve
-topic_tags: []
+topic_tags:
+  - labour
 storyline_nexus: []
 geographic_location: Washington, D.C.
 floor_values_engaged:

@@ -13,7 +13,9 @@ primary_themes:
 - Museums and collections
 - Inaugural traditions
 - American political history
-topic_tags: []
+topic_tags:
+  - "arts and entertainment"
+  - "arts, culture, entertainment and media"
 storyline_nexus: []
 geographic_location: Washington, District of Columbia
 floor_values_engaged:

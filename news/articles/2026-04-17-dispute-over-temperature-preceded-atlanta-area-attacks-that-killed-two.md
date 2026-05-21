@@ -22,7 +22,8 @@ primary_themes:
 - criminal justice
 - public safety
 - communal housing
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
 storyline_nexus: []
 geographic_location: Atlanta, Georgia, United States
 floor_values_engaged:

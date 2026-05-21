@@ -19,7 +19,11 @@ primary_themes:
 - oil and gas regulation
 - state legislation
 - environmental protection
-topic_tags: []
+topic_tags:
+  - "environment"
+  - "government policy"
+  - "politics"
+  - "pollution"
 storyline_nexus: []
 geographic_location: West Virginia, United States
 floor_values_engaged:

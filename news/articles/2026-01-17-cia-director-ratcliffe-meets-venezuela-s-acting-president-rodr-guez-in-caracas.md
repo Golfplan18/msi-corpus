@@ -19,7 +19,9 @@ primary_themes:
 - Trump administration foreign policy
 - Latin America
 - Venezuelan democratic transition
-topic_tags: []
+topic_tags:
+  - "government policy"
+  - politics
 storyline_nexus: []
 geographic_location: Caracas, Venezuela
 floor_values_engaged:

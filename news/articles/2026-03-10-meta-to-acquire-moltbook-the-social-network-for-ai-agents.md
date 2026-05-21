@@ -20,7 +20,13 @@ primary_themes:
 - technology acquisitions
 - AI agents
 - social media
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "arts, culture, entertainment and media"
+  - "mass media"
+  - "science and technology"
+  - "social media"
+  - society
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

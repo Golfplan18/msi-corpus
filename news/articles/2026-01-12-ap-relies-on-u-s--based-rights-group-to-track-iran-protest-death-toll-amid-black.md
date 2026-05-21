@@ -15,7 +15,13 @@ primary_themes:
 - press freedom
 - internet blackout
 - death toll verification
-topic_tags: []
+topic_tags:
+  - "arts, culture, entertainment and media"
+  - government
+  - "government policy"
+  - "international relations"
+  - "political process"
+  - politics
 storyline_nexus: []
 geographic_location: Iran
 floor_values_engaged:

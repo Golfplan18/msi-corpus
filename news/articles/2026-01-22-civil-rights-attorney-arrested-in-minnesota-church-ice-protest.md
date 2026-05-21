@@ -17,7 +17,13 @@ primary_themes:
 - Immigration enforcement
 - Civil rights
 - Protests and demonstrations
-topic_tags: []
+topic_tags:
+  - "civil unrest"
+  - "conflict, war and peace"
+  - "government policy"
+  - "human migration"
+  - "international relations"
+  - "political dissent"
 storyline_nexus: []
 geographic_location: St. Paul and Minneapolis, Minnesota, United States
 floor_values_engaged:

@@ -20,7 +20,11 @@ primary_themes:
 - immigration enforcement
 - Monroe Doctrine
 - executive power
-topic_tags: []
+topic_tags:
+  - politics
+  - government
+  - "international relations"
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: United States; Venezuela; Greenland
 floor_values_engaged:

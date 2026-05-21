@@ -13,7 +13,11 @@ primary_themes:
 - online advertising safety
 - cybersecurity
 - fraud prevention
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "arts, culture, entertainment and media"
+  - "science and technology"
+  - "social media"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

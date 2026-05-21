@@ -19,7 +19,12 @@ primary_themes:
 - Iran
 - central bank leadership
 - Western sanctions
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - banking
+  - "conflict, war and peace"
+  - "economy, business and finance"
+  - environment
 storyline_nexus: []
 geographic_location: Iran
 floor_values_engaged:

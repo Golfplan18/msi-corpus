@@ -18,7 +18,9 @@ primary_themes:
 - Fashion
 - Haute Couture
 - Paris Couture Week
-topic_tags: []
+topic_tags:
+  - "arts and entertainment"
+  - "arts, culture, entertainment and media"
 storyline_nexus: []
 geographic_location: Paris, France
 floor_values_engaged:

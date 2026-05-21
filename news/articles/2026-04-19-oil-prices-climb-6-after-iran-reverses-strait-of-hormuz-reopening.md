@@ -14,7 +14,11 @@ primary_themes:
 - geopolitical conflict
 - commodity markets
 - consumer impact
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "economy, business and finance"
+  - politics
 storyline_nexus: []
 geographic_location: Strait of Hormuz; global impact
 floor_values_engaged:

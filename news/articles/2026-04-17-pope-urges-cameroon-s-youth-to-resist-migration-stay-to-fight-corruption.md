@@ -19,7 +19,10 @@ primary_themes:
 - migration
 - corruption
 - youth employment
-topic_tags: []
+topic_tags:
+  - employment
+  - labour
+  - religion
 storyline_nexus: []
 geographic_location: Cameroon
 floor_values_engaged:

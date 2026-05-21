@@ -14,7 +14,12 @@ primary_themes:
 - West Africa coups
 - political activism
 - law enforcement
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "crime, law and justice"
+  - "law enforcement"
+  - politics
 storyline_nexus: []
 geographic_location: Pretoria, South Africa
 floor_values_engaged:

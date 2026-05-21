@@ -13,7 +13,13 @@ primary_themes:
 - presidential_authority
 - construction
 - historic_preservation
-topic_tags: []
+topic_tags:
+  - government
+  - "international relations"
+  - macroeconomics
+  - "monetary policy"
+  - "political dissent"
+  - politics
 storyline_nexus: []
 geographic_location: Washington, D.C.
 floor_values_engaged:

@@ -19,7 +19,10 @@ primary_themes:
 - us_caribbean_policy
 - florida_cuban_exile_lobby
 - sanctions_civilian_harm_pattern
-topic_tags: []
+topic_tags:
+  - politics
+  - government
+  - health
 storyline_nexus: []
 geographic_location: Q_cuba
 floor_values_engaged:

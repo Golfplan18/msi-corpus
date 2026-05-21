@@ -13,7 +13,13 @@ primary_themes:
 - criminal_justice
 - health
 - brazil_politics
-topic_tags: []
+topic_tags:
+  - politics
+  - health
+  - "human interest"
+  - trial
+  - "government policy"
+  - "international relations"
 storyline_nexus: []
 geographic_location: Brasilia, Brazil
 floor_values_engaged:

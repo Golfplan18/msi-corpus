@@ -22,7 +22,9 @@ primary_themes:
 - food-waste
 - personal-finance
 - sustainable-living
-topic_tags: []
+topic_tags:
+  - "economy, business and finance"
+  - environment
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

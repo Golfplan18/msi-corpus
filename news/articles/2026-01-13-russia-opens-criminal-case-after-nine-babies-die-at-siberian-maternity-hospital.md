@@ -16,8 +16,8 @@ primary_themes:
 - infant mortality
 - Russia healthcare
 topic_tags:
-  - "health"
-  - "conflict, war and peace"
+  - health
+  - "public health"
 storyline_nexus: []
 geographic_location: Novokuznetsk, Kemerovo Oblast, Siberia, Russia
 floor_values_engaged:

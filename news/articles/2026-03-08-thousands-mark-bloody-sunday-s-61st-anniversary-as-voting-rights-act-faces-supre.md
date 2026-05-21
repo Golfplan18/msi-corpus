@@ -19,7 +19,13 @@ primary_themes:
 - redistricting
 - Supreme Court
 - Bloody Sunday anniversary
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - education
+  - "education policy"
+  - government
+  - "law enforcement"
+  - trial
 storyline_nexus: []
 geographic_location: Selma, Alabama
 floor_values_engaged:

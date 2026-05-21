@@ -19,7 +19,8 @@ primary_themes:
 - venezuela_transition
 - us_venezuela_relations
 - human_rights
-topic_tags: []
+topic_tags:
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Venezuela
 floor_values_engaged:

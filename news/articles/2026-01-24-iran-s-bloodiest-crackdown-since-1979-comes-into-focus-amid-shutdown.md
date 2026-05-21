@@ -16,7 +16,13 @@ primary_themes:
 - mass protests
 - human rights
 - international military tension
-topic_tags: []
+topic_tags:
+  - "civil unrest"
+  - "conflict, war and peace"
+  - crime
+  - "crime, law and justice"
+  - government
+  - "government policy"
 storyline_nexus: []
 geographic_location: Iran
 floor_values_engaged:

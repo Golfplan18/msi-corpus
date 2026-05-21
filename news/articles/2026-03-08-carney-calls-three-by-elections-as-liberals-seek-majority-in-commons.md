@@ -16,7 +16,9 @@ primary_themes:
 - parliamentary by-elections
 - legislative majority
 - party defections
-topic_tags: []
+topic_tags:
+  - politics
+  - election
 storyline_nexus: []
 geographic_location: Canada
 floor_values_engaged:

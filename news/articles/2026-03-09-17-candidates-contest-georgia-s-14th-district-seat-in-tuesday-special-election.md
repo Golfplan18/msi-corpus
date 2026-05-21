@@ -18,7 +18,9 @@ primary_themes:
 - Georgia politics
 - House majority
 - Republican primary
-topic_tags: []
+topic_tags:
+  - election
+  - politics
 storyline_nexus: []
 geographic_location: Rome, Georgia, United States
 floor_values_engaged:

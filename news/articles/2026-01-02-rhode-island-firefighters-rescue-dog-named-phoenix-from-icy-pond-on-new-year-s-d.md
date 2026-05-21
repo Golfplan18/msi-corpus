@@ -15,8 +15,8 @@ primary_themes:
 - winter safety
 - volunteer firefighters
 topic_tags:
-  - "human interest"
   - "disaster, accident and emergency incident"
+  - fire
 storyline_nexus: []
 geographic_location: Westerly, Rhode Island, United States
 floor_values_engaged:

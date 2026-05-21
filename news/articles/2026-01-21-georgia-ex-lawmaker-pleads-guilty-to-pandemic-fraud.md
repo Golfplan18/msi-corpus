@@ -14,7 +14,13 @@ primary_themes:
 - fraud
 - public officials
 - pandemic assistance
-topic_tags: []
+topic_tags:
+  - politics
+  - government
+  - "crime, law and justice"
+  - judiciary
+  - corruption
+  - health
 storyline_nexus: []
 geographic_location: Georgia, United States
 floor_values_engaged:

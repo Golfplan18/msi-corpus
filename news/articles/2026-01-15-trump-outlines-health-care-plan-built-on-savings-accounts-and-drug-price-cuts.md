@@ -20,7 +20,11 @@ primary_themes:
 - drug pricing
 - ACA subsidies
 - congressional legislation
-topic_tags: []
+topic_tags:
+  - government
+  - "government policy"
+  - health
+  - politics
 storyline_nexus: []
 geographic_location: Washington, D.C., United States
 floor_values_engaged:

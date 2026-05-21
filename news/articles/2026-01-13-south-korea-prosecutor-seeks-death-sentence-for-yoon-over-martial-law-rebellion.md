@@ -21,12 +21,7 @@ primary_themes:
 - rebellion charges
 - capital punishment
 topic_tags:
-  - "science and technology"
   - "crime, law and justice"
-  - "trial"
-  - "conflict, war and peace"
-  - "artificial intelligence"
-  - "environment"
 storyline_nexus: []
 geographic_location: Seoul, South Korea
 floor_values_engaged:

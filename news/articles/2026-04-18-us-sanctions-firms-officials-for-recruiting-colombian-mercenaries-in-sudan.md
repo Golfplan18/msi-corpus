@@ -15,7 +15,9 @@ primary_themes:
 - war crimes
 - Sudan conflict
 - humanitarian crisis
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: Sudan, Colombia
 floor_values_engaged:

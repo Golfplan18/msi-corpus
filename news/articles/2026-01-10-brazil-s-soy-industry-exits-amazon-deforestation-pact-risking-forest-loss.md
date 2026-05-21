@@ -20,7 +20,13 @@ primary_themes:
 - environmental governance
 - climate
 - agricultural policy
-topic_tags: []
+topic_tags:
+  - "climate change"
+  - "economy, business and finance"
+  - environment
+  - "international trade"
+  - politics
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Brazil / Amazon
 floor_values_engaged:

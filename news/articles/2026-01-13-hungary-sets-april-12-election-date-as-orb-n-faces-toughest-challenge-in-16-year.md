@@ -18,10 +18,12 @@ primary_themes:
 - anti-corruption
 - populism
 topic_tags:
-  - politics
+  - "artificial intelligence"
+  - corruption
+  - "crime, law and justice"
   - election
   - government
-  - "international relations"
+  - "government policy"
 storyline_nexus: []
 geographic_location: Budapest, Hungary
 floor_values_engaged:

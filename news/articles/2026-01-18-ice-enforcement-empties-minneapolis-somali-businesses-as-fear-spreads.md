@@ -17,7 +17,11 @@ primary_themes:
 - Somali community
 - Minneapolis
 - Operation Metro Surge
-topic_tags: []
+topic_tags:
+  - "government policy"
+  - "human interest"
+  - "human migration"
+  - politics
 storyline_nexus: []
 geographic_location: Minneapolis, Minnesota, United States
 floor_values_engaged:

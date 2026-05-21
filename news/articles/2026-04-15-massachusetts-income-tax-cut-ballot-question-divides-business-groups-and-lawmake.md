@@ -20,7 +20,13 @@ primary_themes:
 - public services funding
 - affordability
 - outmigration
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "economy, business and finance"
+  - election
+  - labour
+  - "labour dispute"
 storyline_nexus: []
 geographic_location: Massachusetts, United States
 floor_values_engaged:

@@ -15,7 +15,13 @@ primary_themes:
 - 2020 presidential election
 - January 6
 - rule of law
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "crime, law and justice"
+  - election
+  - government
+  - "government policy"
+  - politics
 storyline_nexus: []
 geographic_location: San Francisco, California, United States
 floor_values_engaged:

@@ -17,7 +17,9 @@ primary_themes:
 - judicial accountability
 - Nebraska courts
 - elder law reform
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - trial
 storyline_nexus: []
 geographic_location: Nebraska, United States
 floor_values_engaged:

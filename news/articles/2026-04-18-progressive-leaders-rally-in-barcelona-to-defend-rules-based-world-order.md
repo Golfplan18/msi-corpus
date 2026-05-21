@@ -21,7 +21,13 @@ primary_themes:
 - progressive_politics
 - democracy_defense
 - international_institutions
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - government
+  - "mass media"
+  - "political dissent"
+  - politics
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Barcelona, Spain
 floor_values_engaged:

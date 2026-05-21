@@ -21,7 +21,11 @@ primary_themes:
 - abortion access
 - Supremacy Clause
 - California legislation
-topic_tags: []
+topic_tags:
+  - election
+  - health
+  - "political process"
+  - politics
 storyline_nexus: []
 geographic_location: California, United States
 floor_values_engaged:

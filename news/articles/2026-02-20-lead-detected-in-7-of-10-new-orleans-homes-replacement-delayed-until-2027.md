@@ -12,7 +12,8 @@ primary_themes:
 - public health
 - lead contamination
 - infrastructure
-topic_tags: []
+topic_tags:
+  - health
 storyline_nexus: []
 geographic_location: New Orleans, Louisiana, USA
 floor_values_engaged:

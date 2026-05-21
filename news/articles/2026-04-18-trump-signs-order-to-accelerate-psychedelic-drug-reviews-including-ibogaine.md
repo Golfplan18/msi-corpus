@@ -16,7 +16,10 @@ primary_themes:
 - psychedelic research
 - veteran health
 - mental health treatment
-topic_tags: []
+topic_tags:
+  - health
+  - "mental health"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

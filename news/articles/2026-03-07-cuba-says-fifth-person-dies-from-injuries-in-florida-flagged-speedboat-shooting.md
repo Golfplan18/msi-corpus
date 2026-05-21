@@ -14,10 +14,7 @@ primary_themes:
 - Caribbean security incident
 - terrorism charges
 - U.S.-Venezuela fallout
-topic_tags:
-  - "conflict, war and peace"
-  - "armed conflict"
-  - "international relations"
+topic_tags: []
 storyline_nexus: []
 geographic_location: Cayo Falcones, Cuba
 floor_values_engaged:

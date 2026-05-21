@@ -14,7 +14,9 @@ primary_themes:
 - foreign policy
 - geopolitical strategy
 - alliance dynamics
-topic_tags: []
+topic_tags:
+  - "international relations"
+  - politics
 storyline_nexus: []
 geographic_location: United States, Greenland, Denmark, Europe
 floor_values_engaged:

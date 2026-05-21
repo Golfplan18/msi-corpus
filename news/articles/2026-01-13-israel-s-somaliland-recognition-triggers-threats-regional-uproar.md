@@ -23,12 +23,12 @@ primary_themes:
 - maritime_security
 - al_Shabab
 topic_tags:
-  - "science and technology"
-  - "conflict, war and peace"
-  - "armed conflict"
-  - "disaster, accident and emergency incident"
-  - "accident and emergency incident"
-  - "politics"
+  - "arts, culture, entertainment and media"
+  - employment
+  - "international relations"
+  - labour
+  - "labour dispute"
+  - "mass media"
 storyline_nexus: []
 geographic_location: Horn of Africa; Middle East
 floor_values_engaged:

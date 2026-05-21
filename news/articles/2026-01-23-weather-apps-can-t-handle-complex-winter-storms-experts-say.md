@@ -16,7 +16,11 @@ primary_themes:
 - technology_limitations
 - expert_guidance
 - public_safety
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "disaster, accident and emergency incident"
+  - "law enforcement"
+  - weather
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

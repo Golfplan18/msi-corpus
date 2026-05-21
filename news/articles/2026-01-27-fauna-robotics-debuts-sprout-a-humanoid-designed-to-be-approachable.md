@@ -15,7 +15,11 @@ primary_themes:
 - technology
 - product_launch
 - design_philosophy
-topic_tags: []
+topic_tags:
+  - "economy, business and finance"
+  - "market and exchange"
+  - "science and technology"
+  - robotics
 storyline_nexus: []
 geographic_location: Manhattan, New York
 floor_values_engaged:

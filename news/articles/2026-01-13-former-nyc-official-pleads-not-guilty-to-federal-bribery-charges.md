@@ -14,11 +14,8 @@ primary_themes:
 - NYC politics
 - bribery
 topic_tags:
-  - "science and technology"
-  - "politics"
-  - "government"
+  - corruption
   - "crime, law and justice"
-  - "corruption"
 storyline_nexus: []
 geographic_location: New York, NY
 floor_values_engaged:

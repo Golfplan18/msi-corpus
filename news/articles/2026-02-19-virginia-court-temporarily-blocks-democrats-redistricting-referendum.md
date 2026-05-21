@@ -17,7 +17,9 @@ primary_themes:
 - courts
 - elections
 - judicial review
-topic_tags: []
+topic_tags:
+  - election
+  - politics
 storyline_nexus: []
 geographic_location: Virginia, USA
 floor_values_engaged:

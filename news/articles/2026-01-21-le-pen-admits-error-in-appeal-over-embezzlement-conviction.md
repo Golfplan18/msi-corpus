@@ -14,7 +14,13 @@ primary_themes:
 - legal appeals
 - French politics
 - presidential elections
-topic_tags: []
+topic_tags:
+  - politics
+  - government
+  - "crime, law and justice"
+  - judiciary
+  - labour
+  - "labour dispute"
 storyline_nexus: []
 geographic_location: Paris, France
 floor_values_engaged:

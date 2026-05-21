@@ -13,7 +13,8 @@ primary_themes:
 - political_transition
 - gang_violence
 - government_crisis
-topic_tags: []
+topic_tags:
+  - politics
 storyline_nexus: []
 geographic_location: Haiti
 floor_values_engaged:

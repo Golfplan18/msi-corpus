@@ -21,7 +21,10 @@ primary_themes:
 - space industry regulation
 - environmental advocacy
 - indigenous rights
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "science and technology"
+  - "trial"
 storyline_nexus: []
 geographic_location: Cameron County, Texas
 floor_values_engaged:

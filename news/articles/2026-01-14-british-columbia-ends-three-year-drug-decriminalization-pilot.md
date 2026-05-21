@@ -16,8 +16,9 @@ primary_themes:
 - harm reduction
 - addictions care
 topic_tags:
-  - "crime, law and justice"
   - health
+  - politics
+  - "public health"
 storyline_nexus: []
 geographic_location: Victoria, British Columbia, Canada
 floor_values_engaged:

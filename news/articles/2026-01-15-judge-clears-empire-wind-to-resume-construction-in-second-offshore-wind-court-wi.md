@@ -19,7 +19,8 @@ primary_themes:
 - Trump administration
 - renewable energy
 - national security
-topic_tags: []
+topic_tags:
+  - "economy, business and finance"
 storyline_nexus: []
 geographic_location: New York, United States
 floor_values_engaged:

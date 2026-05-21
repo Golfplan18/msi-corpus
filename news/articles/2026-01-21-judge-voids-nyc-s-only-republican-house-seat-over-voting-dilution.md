@@ -15,7 +15,13 @@ primary_themes:
 - voting rights
 - gerrymandering
 - congressional representation
-topic_tags: []
+topic_tags:
+  - "civil rights"
+  - "crime, law and justice"
+  - election
+  - judiciary
+  - "political process"
+  - politics
 storyline_nexus: []
 geographic_location: New York
 floor_values_engaged:

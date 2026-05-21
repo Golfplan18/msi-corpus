@@ -14,7 +14,10 @@ primary_themes:
 - iran-us-tensions
 - protest-crackdown
 - nuclear-threat
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - labour
+  - "labour dispute"
 storyline_nexus: []
 geographic_location: Tehran, Iran; Middle East region
 floor_values_engaged:

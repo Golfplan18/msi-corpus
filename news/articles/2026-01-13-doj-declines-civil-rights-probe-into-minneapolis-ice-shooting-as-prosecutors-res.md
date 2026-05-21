@@ -20,11 +20,10 @@ primary_themes:
 - law enforcement accountability
 - federal-state jurisdiction
 topic_tags:
-  - "science and technology"
-  - "politics"
-  - "government"
-  - "government policy"
-  - "disaster, accident and emergency incident"
+  - "crime, law and justice"
+  - discrimination
+  - "law enforcement"
+  - society
 storyline_nexus: []
 geographic_location: Minneapolis, Minnesota; Washington, D.C.
 floor_values_engaged:

@@ -15,7 +15,8 @@ primary_themes:
 - US foreign policy
 - authoritarianism
 - Central America
-topic_tags: []
+topic_tags:
+  - politics
 storyline_nexus: []
 geographic_location: Nicaragua
 floor_values_engaged:

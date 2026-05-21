@@ -20,9 +20,11 @@ primary_themes:
 - coalition fragmentation
 - oil revenue disputes
 topic_tags:
-  - "conflict, war and peace"
-  - "international military intervention"
   - "armed conflict"
+  - "conflict, war and peace"
+  - "economy, business and finance"
+  - "international relations"
+  - politics
 storyline_nexus: []
 geographic_location: Yemen
 floor_values_engaged:

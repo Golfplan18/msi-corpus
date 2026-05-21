@@ -16,7 +16,11 @@ primary_themes:
 - federal drug reclassification
 - healthcare access
 - physician participation
-topic_tags: []
+topic_tags:
+  - "health"
+  - "health treatment and procedure"
+  - "politics"
+  - "government policy"
 storyline_nexus: []
 geographic_location: Texas, United States
 floor_values_engaged:

@@ -25,8 +25,12 @@ primary_themes:
 - narco-terrorism
 - sovereignty
 topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
   - "crime, law and justice"
-  - "international law"
+  - "disaster, accident and emergency incident"
+  - "international relations"
+  - judiciary
 storyline_nexus: []
 geographic_location: International
 floor_values_engaged:

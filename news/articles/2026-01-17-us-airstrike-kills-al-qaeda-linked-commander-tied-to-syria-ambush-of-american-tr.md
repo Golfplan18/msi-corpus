@@ -17,7 +17,13 @@ primary_themes:
 - Islamic State counterterrorism
 - American casualties abroad
 - accountability_of_power
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - "crime, law and justice"
+  - government
+  - labour
+  - "labour dispute"
+  - politics
 storyline_nexus: []
 geographic_location: Northwest Syria
 floor_values_engaged:

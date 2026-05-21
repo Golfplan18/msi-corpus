@@ -13,7 +13,10 @@ primary_themes:
 - military training
 - wildlife encounter
 - Alaska
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - "armed conflict"
+  - health
 storyline_nexus: []
 geographic_location: Anchorage, Alaska, United States
 floor_values_engaged:

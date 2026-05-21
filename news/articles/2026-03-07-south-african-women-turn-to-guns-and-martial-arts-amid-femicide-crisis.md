@@ -16,7 +16,9 @@ primary_themes:
 - women's self-defense
 - firearms training
 - national disaster declaration
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "civil rights"
 storyline_nexus: []
 geographic_location: South Africa
 floor_values_engaged:

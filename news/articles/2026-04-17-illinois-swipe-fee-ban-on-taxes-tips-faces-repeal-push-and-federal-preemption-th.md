@@ -23,7 +23,11 @@ primary_themes:
 - state regulation
 - retail and banking industry conflict
 - financial industry lobbying
-topic_tags: []
+topic_tags:
+  - banking
+  - "crime, law and justice"
+  - "economy, business and finance"
+  - judiciary
 storyline_nexus: []
 geographic_location: Illinois, United States
 floor_values_engaged:

@@ -13,7 +13,13 @@ primary_themes:
 - drone warfare
 - peace negotiations
 - humanitarian crisis
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - employment
+  - labour
+  - "labour dispute"
+  - sport
 storyline_nexus: []
 geographic_location: Democratic Republic of the Congo, North Kivu province
 floor_values_engaged:

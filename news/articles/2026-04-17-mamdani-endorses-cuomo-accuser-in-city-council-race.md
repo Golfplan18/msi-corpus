@@ -13,7 +13,9 @@ primary_themes:
 - political-endorsements
 - sexual-harassment
 - accountability_of_power
-topic_tags: []
+topic_tags:
+  - politics
+  - election
 storyline_nexus: []
 geographic_location: New York City, New York, United States
 floor_values_engaged:

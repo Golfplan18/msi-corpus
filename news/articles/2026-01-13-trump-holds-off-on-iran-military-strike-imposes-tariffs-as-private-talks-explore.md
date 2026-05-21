@@ -20,12 +20,8 @@ primary_themes:
 - tariffs as foreign policy instrument
 - Iran diplomacy
 topic_tags:
-  - "science and technology"
-  - "conflict, war and peace"
   - "armed conflict"
-  - "politics"
-  - "government"
-  - "economy, business and finance"
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: Washington, D.C.; Tehran, Iran
 floor_values_engaged:

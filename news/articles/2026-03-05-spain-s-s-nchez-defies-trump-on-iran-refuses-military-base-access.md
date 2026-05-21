@@ -18,7 +18,12 @@ primary_themes:
 - NATO
 - diplomacy
 - trade
-topic_tags: []
+topic_tags:
+  - politics
+  - government
+  - "conflict, war and peace"
+  - "economy, business and finance"
+  - "international trade"
 storyline_nexus: []
 geographic_location: Spain; United States
 floor_values_engaged:

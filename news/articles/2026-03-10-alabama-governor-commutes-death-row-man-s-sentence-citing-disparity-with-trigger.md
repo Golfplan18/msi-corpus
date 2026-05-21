@@ -14,7 +14,13 @@ primary_themes:
 - clemency and commutation
 - accomplice liability
 - criminal justice
-topic_tags: []
+topic_tags:
+  - politics
+  - government
+  - "crime, law and justice"
+  - crime
+  - "conflict, war and peace"
+  - "disaster, accident and emergency incident"
 storyline_nexus: []
 geographic_location: Talladega, Alabama, United States
 floor_values_engaged:

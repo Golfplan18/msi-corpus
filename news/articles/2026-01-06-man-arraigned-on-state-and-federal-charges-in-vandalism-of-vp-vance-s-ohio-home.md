@@ -14,8 +14,12 @@ primary_themes:
 - executive branch security
 - mental health and the justice system
 topic_tags:
+  - politics
+  - health
+  - "human interest"
+  - trial
+  - "government policy"
   - "crime, law and justice"
-  - crime
 storyline_nexus: []
 geographic_location: Cincinnati, Ohio
 floor_values_engaged:

@@ -15,7 +15,13 @@ primary_themes:
 - editorial_strategy
 - broadcast_journalism
 - news_leadership
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "economy, business and finance"
+  - macroeconomics
+  - "mass media"
+  - "monetary policy"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

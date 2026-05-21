@@ -16,7 +16,13 @@ primary_themes:
 - consumer rights
 - winter weather
 - airline operations
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "disaster, accident and emergency incident"
+  - "law enforcement"
+  - "lifestyle and leisure"
+  - travel
+  - weather
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

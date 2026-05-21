@@ -19,7 +19,11 @@ primary_themes:
 - prison riots
 - organized crime
 - Central America security
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "disaster, accident and emergency incident"
+  - "law enforcement"
+  - "natural disaster"
 storyline_nexus: []
 geographic_location: Guatemala City and Escuintla, Guatemala
 floor_values_engaged:

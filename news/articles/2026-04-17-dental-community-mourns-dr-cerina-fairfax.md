@@ -11,7 +11,13 @@ primary_themes:
 - domestic violence
 - death
 - professional community
-topic_tags: []
+topic_tags:
+  - crime
+  - "crime, law and justice"
+  - "government policy"
+  - "human migration"
+  - "international relations"
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: Annandale, Virginia, USA
 floor_values_engaged:

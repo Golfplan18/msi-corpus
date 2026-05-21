@@ -23,7 +23,11 @@ primary_themes:
 - nuclear_negotiations
 - economic_impact
 - military_deployments
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "international relations"
+  - politics
 storyline_nexus: []
 geographic_location: Iran, United States, Middle East, Russia
 floor_values_engaged:

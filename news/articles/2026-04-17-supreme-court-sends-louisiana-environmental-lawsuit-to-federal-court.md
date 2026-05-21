@@ -12,7 +12,13 @@ primary_themes:
 - Environmental law
 - Corporate accountability
 - Litigation
-topic_tags: []
+topic_tags:
+  - environment
+  - politics
+  - government
+  - "crime, law and justice"
+  - judiciary
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: Louisiana, United States
 floor_values_engaged:

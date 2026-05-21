@@ -12,7 +12,9 @@ primary_themes:
 - public safety
 - law enforcement
 - mayoral security
-topic_tags: []
+topic_tags:
+  - "crime"
+  - "crime, law and justice"
 storyline_nexus: []
 geographic_location: San Francisco, California
 floor_values_engaged:

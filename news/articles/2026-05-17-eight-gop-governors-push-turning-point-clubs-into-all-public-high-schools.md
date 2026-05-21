@@ -14,7 +14,13 @@ primary_themes:
 - Education policy
 - Conservative activism
 - Church-state separation
-topic_tags: []
+topic_tags:
+  - education
+  - "education policy"
+  - government
+  - "government policy"
+  - "human migration"
+  - "international relations"
 storyline_nexus: []
 geographic_location: 'United States (eight states: Nebraska, Arkansas, Texas, Oklahoma, Montana, Florida, Tennessee, Indiana)'
 floor_values_engaged:

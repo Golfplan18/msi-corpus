@@ -17,9 +17,12 @@ primary_themes:
 - regulatory oversight
 - legislative inaction
 topic_tags:
-  - society
-  - welfare
-  - "social condition"
+  - economy
+  - "economy, business and finance"
+  - government
+  - "government policy"
+  - health
+  - politics
 storyline_nexus: []
 geographic_location: Michigan, United States
 floor_values_engaged:

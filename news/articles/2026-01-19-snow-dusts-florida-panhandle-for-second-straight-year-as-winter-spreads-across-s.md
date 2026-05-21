@@ -15,7 +15,8 @@ primary_themes:
 - southern United States snowfall
 - National Weather Service
 - blizzard warning
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: Florida Panhandle; southeastern United States; New England; upper Midwest
 floor_values_engaged:

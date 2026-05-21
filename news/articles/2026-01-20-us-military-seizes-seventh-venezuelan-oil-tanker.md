@@ -16,7 +16,13 @@ primary_themes:
 - Venezuela
 - oil markets
 - military operations
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - "disaster, accident and emergency incident"
+  - government
+  - "international relations"
+  - "political dissent"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Caribbean, Venezuela, North Atlantic
 floor_values_engaged:

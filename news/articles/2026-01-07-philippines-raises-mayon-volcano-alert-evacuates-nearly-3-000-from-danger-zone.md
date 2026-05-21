@@ -14,7 +14,9 @@ primary_themes:
 - emergency evacuation
 - natural disaster
 - disaster risk in the Philippines
-topic_tags: []
+topic_tags:
+  - "disaster, accident and emergency incident"
+  - "natural disaster"
 storyline_nexus: []
 geographic_location: Albay province, Philippines
 floor_values_engaged:

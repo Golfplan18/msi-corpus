@@ -21,8 +21,11 @@ primary_themes:
 - California water policy
 topic_tags:
   - "artificial intelligence"
+  - "climate change"
+  - "economy, business and finance"
+  - "energy and resource"
   - environment
-  - "science and technology"
+  - government
 storyline_nexus: []
 geographic_location: Southern California, United States
 floor_values_engaged:

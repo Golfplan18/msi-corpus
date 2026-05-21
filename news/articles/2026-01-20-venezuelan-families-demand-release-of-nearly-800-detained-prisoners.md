@@ -17,7 +17,9 @@ primary_themes:
 - political prisoners
 - government accountability
 - human rights
-topic_tags: []
+topic_tags:
+  - government
+  - politics
 storyline_nexus: []
 geographic_location: Venezuela (Caracas)
 floor_values_engaged:

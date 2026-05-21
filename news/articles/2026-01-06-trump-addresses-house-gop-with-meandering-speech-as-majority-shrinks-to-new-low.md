@@ -17,7 +17,10 @@ primary_themes:
 - Hyde Amendment
 - Kennedy Center
 - Jan. 6 anniversary
-topic_tags: []
+topic_tags:
+  - election
+  - health
+  - politics
 storyline_nexus: []
 geographic_location: Washington, D.C.
 floor_values_engaged:

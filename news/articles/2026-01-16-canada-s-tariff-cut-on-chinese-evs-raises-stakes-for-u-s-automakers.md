@@ -23,7 +23,12 @@ primary_themes:
 - U.S. auto industry competitiveness
 - international trade and tariffs
 - EV market growth
-topic_tags: []
+topic_tags:
+  - agriculture
+  - "economy, business and finance"
+  - "international trade"
+  - weather
+  - "weather forecast"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

@@ -14,7 +14,13 @@ primary_themes:
 - immigration enforcement
 - federal prosecution
 - trials
-topic_tags: []
+topic_tags:
+  - "civil unrest"
+  - "conflict, war and peace"
+  - "crime, law and justice"
+  - "human migration"
+  - "international relations"
+  - "political dissent"
 storyline_nexus: []
 geographic_location: Chicago, Illinois, United States
 floor_values_engaged:

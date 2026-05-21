@@ -23,7 +23,10 @@ primary_themes:
 - protest
 - military deployment
 topic_tags:
+  - "civil unrest"
   - "conflict, war and peace"
+  - "disaster, accident and emergency incident"
+  - fire
   - "human interest"
   - "human migration"
 storyline_nexus: []

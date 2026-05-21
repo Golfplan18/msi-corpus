@@ -22,7 +22,9 @@ primary_themes:
 - political protest
 - femicide
 - Indigenous rights
-topic_tags: []
+topic_tags:
+  - politics
+  - "crime, law and justice"
 storyline_nexus: []
 geographic_location: International
 floor_values_engaged:

@@ -18,7 +18,9 @@ primary_themes:
 - food waste
 - textile waste
 - New Year resolutions
-topic_tags: []
+topic_tags:
+  - environment
+  - "climate change"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

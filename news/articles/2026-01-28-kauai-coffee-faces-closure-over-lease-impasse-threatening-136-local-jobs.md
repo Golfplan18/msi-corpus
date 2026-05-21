@@ -17,7 +17,9 @@ primary_themes:
 - land-use conflict
 - private equity
 - economic precarity
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - labour
 storyline_nexus: []
 geographic_location: Kauai, Hawaii, United States
 floor_values_engaged:

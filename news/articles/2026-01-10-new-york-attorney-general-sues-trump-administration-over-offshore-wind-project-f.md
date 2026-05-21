@@ -17,7 +17,9 @@ primary_themes:
 - energy transition
 - state versus federal authority
 - clean energy policy
-topic_tags: []
+topic_tags:
+  - "government policy"
+  - politics
 storyline_nexus: []
 geographic_location: New York; Long Island; United States
 floor_values_engaged:

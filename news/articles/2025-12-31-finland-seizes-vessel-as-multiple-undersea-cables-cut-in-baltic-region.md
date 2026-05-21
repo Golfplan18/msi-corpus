@@ -19,7 +19,13 @@ primary_themes:
 - undersea cable damage
 - Baltic Sea security
 - maritime crime investigation
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - crime
+  - "crime, law and justice"
+  - "disaster, accident and emergency incident"
+  - "international relations"
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: Gulf of Finland; Baltic Sea
 floor_values_engaged:

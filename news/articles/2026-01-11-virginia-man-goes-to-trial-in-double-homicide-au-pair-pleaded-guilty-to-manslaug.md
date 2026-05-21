@@ -15,7 +15,12 @@ primary_themes:
 - plea agreement
 - digital forensics
 - self-defense claim
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - crime
+  - "crime, law and justice"
+  - labour
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Fairfax, Virginia
 floor_values_engaged:

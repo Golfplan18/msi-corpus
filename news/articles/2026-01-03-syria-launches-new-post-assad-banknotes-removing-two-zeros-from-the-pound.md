@@ -14,7 +14,13 @@ primary_themes:
 - currency redenomination
 - post-conflict economic recovery
 - Syria political transition
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - banking
+  - "conflict, war and peace"
+  - "economy, business and finance"
+  - government
+  - "government policy"
 storyline_nexus: []
 geographic_location: Damascus, Syria
 floor_values_engaged:

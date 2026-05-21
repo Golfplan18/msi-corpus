@@ -16,10 +16,12 @@ primary_themes:
 - international aviation
 - regulatory enforcement
 topic_tags:
+  - "armed conflict"
+  - "artificial intelligence"
+  - "conflict, war and peace"
   - "crime, law and justice"
-  - "crime"
-  - "economy, business and finance"
-  - "transport"
+  - government
+  - "government policy"
 storyline_nexus: []
 geographic_location: Vancouver, British Columbia, Canada
 floor_values_engaged:

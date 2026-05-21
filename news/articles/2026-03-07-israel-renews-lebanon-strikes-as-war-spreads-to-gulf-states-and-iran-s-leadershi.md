@@ -17,7 +17,9 @@ primary_themes:
 - Iranian leadership division
 - Lebanon strikes
 - Baghdad Green Zone attack
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: Middle East
 floor_values_engaged:

@@ -17,9 +17,11 @@ primary_themes:
 - consumer technology
 - data privacy
 topic_tags:
-  - "computing and information technology"
-  - "artificial intelligence"
+  - "human interest"
   - "science and technology"
+  - "economy, business and finance"
+  - "human migration"
+  - "artificial intelligence"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

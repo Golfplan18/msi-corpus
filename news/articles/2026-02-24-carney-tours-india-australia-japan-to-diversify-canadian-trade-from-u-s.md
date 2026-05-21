@@ -14,7 +14,13 @@ primary_themes:
 - geopolitical diversification
 - tariff policy
 - Canada-US relations
-topic_tags: []
+topic_tags:
+  - government
+  - "government policy"
+  - "human migration"
+  - "international relations"
+  - "political dissent"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Canada, India, Australia, Japan
 floor_values_engaged:

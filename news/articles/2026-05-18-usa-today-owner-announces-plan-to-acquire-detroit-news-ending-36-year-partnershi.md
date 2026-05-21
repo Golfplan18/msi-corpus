@@ -12,7 +12,10 @@ primary_themes:
 - media consolidation
 - newspaper industry
 - business acquisition
-topic_tags: []
+topic_tags:
+  - "arts, culture, entertainment and media"
+  - "mass media"
+  - publishing
 storyline_nexus: []
 geographic_location: Detroit, Michigan; United States
 floor_values_engaged:

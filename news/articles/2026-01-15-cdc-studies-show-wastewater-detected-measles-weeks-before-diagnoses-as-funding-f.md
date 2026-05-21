@@ -18,9 +18,12 @@ primary_themes:
 - infectious disease preparedness
 - Trump administration budget
 topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
   - "disease and condition"
-  - "epidemic and pandemic"
-  - health
+  - "economy, business and finance"
+  - government
+  - "government policy"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

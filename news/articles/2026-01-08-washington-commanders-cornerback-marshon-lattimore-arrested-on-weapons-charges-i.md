@@ -15,7 +15,11 @@ primary_themes:
 - NFL
 - weapons charges
 - player legal issues
-topic_tags: []
+topic_tags:
+  - "human migration"
+  - "crime, law and justice"
+  - "arts, culture, entertainment and media"
+  - "human interest"
 storyline_nexus: []
 geographic_location: Lakewood, Ohio, United States
 floor_values_engaged:

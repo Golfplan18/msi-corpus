@@ -15,7 +15,13 @@ primary_themes:
 - school transport
 - child welfare
 - South Africa
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - crime
+  - "disaster, accident and emergency incident"
+  - "accident and emergency incident"
+  - health
+  - education
 storyline_nexus: []
 geographic_location: Gauteng province, South Africa
 floor_values_engaged:

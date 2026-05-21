@@ -17,7 +17,11 @@ primary_themes:
 - cross-border crisis
 - public health
 - toxic exposure
-topic_tags: []
+topic_tags:
+  - environment
+  - health
+  - pollution
+  - "public health"
 storyline_nexus: []
 geographic_location: Tijuana River valley, San Diego County, California; Tijuana, Mexico
 floor_values_engaged:

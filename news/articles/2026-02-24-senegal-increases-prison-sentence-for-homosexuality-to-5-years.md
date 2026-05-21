@@ -12,7 +12,8 @@ primary_themes:
 - criminal justice
 - LGBTQ+ rights
 - Africa
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
 storyline_nexus: []
 geographic_location: Senegal
 floor_values_engaged:

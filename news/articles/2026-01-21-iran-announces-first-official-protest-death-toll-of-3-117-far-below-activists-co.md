@@ -14,7 +14,13 @@ primary_themes:
 - casualty figures
 - international tension
 - military movements
-topic_tags: []
+topic_tags:
+  - "civil unrest"
+  - "conflict, war and peace"
+  - "crime, law and justice"
+  - "international relations"
+  - "law enforcement"
+  - "political dissent"
 storyline_nexus: []
 geographic_location: Iran
 floor_values_engaged:

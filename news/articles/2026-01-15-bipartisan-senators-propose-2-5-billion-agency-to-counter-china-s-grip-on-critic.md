@@ -22,9 +22,9 @@ primary_themes:
 - supply chain
 - congressional legislation
 topic_tags:
-  - "artificial intelligence"
+  - politics
   - "economy, business and finance"
-  - "science and technology"
+  - "international trade"
 storyline_nexus: []
 geographic_location: Washington, D.C., United States
 floor_values_engaged:

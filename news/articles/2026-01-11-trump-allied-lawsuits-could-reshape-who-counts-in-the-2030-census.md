@@ -17,10 +17,9 @@ primary_themes:
 - congressional redistricting
 - federal litigation
 topic_tags:
-  - "politics"
-  - "political process"
-  - "crime, law and justice"
-  - "judiciary"
+  - "human interest"
+  - "human migration"
+  - politics
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

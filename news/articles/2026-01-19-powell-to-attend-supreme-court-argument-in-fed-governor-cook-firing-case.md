@@ -14,7 +14,13 @@ primary_themes:
 - executive power
 - central bank governance
 - interest rate policy
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "education policy"
+  - "law enforcement"
+  - "political dissent"
+  - "science and technology"
+  - trial
 storyline_nexus: []
 geographic_location: Washington, D.C., United States
 floor_values_engaged:

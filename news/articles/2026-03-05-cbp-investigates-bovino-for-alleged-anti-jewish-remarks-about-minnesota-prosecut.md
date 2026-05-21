@@ -14,7 +14,11 @@ primary_themes:
 - federal misconduct
 - antisemitism
 - Minneapolis
-topic_tags: []
+topic_tags:
+  - "politics"
+  - "government"
+  - "crime, law and justice"
+  - "corruption"
 storyline_nexus: []
 geographic_location: Minneapolis, Minnesota, United States
 floor_values_engaged:

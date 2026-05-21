@@ -13,7 +13,10 @@ primary_themes:
 - law enforcement
 - terrorism
 - Ukraine
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "law enforcement"
+  - crime
 storyline_nexus: []
 geographic_location: Kyiv, Ukraine
 floor_values_engaged:

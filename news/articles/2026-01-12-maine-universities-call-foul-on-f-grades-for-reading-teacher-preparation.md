@@ -19,7 +19,10 @@ primary_themes:
 - reading instruction
 - science of reading
 - higher education accountability
-topic_tags: []
+topic_tags:
+  - education
+  - "higher education"
+  - school
 storyline_nexus: []
 geographic_location: Maine, United States
 floor_values_engaged:

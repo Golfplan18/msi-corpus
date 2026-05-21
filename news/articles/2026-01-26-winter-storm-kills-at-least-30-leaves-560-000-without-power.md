@@ -23,7 +23,12 @@ primary_themes:
 - public safety
 - infrastructure disruption
 - weather emergency
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "disaster, accident and emergency incident"
+  - "human interest"
+  - "law enforcement"
+  - weather
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

@@ -19,8 +19,8 @@ primary_themes:
 - military buildup
 - Asia-Pacific security
 topic_tags:
-  - politics
-  - "international relations"
+  - "armed conflict"
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: Beijing, China; Tokyo, Japan
 floor_values_engaged:

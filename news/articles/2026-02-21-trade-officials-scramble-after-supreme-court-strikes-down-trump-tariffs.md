@@ -17,7 +17,13 @@ primary_themes:
 - Supreme Court
 - business uncertainty
 - government policy
-topic_tags: []
+topic_tags:
+  - "economy, business and finance"
+  - "international trade"
+  - politics
+  - "government policy"
+  - "science and technology"
+  - "artificial intelligence"
 storyline_nexus: []
 geographic_location: International; South Korea, France, Mexico, Germany, Switzerland
 floor_values_engaged:

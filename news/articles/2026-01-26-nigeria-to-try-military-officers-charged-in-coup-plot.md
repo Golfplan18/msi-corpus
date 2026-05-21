@@ -14,7 +14,9 @@ primary_themes:
 - military accountability
 - coup attempts
 - regional instability
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: Nigeria, West Africa
 floor_values_engaged:

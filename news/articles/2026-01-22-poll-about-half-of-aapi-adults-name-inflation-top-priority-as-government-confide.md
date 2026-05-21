@@ -17,7 +17,13 @@ primary_themes:
 - housing affordability
 - public opinion polling
 - Asian Americans and Pacific Islanders
-topic_tags: []
+topic_tags:
+  - "arts, culture, entertainment and media"
+  - "economy, business and finance"
+  - health
+  - macroeconomics
+  - "mass media"
+  - sport
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

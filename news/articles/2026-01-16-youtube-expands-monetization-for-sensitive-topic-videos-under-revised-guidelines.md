@@ -12,7 +12,10 @@ primary_themes:
 - creator economy
 - content moderation
 - digital advertising
-topic_tags: []
+topic_tags:
+  - "arts, culture, entertainment and media"
+  - "economy, business and finance"
+  - "social media"
 storyline_nexus: []
 geographic_location: International
 floor_values_engaged:

@@ -18,7 +18,13 @@ primary_themes:
 - Arab American community
 - war displaced persons
 - electoral politics
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - election
+  - politics
+  - religion
+  - sport
+  - "sport event"
 storyline_nexus: []
 geographic_location: Dearborn, Michigan; Wayne County, Michigan; Lebanon
 floor_values_engaged:

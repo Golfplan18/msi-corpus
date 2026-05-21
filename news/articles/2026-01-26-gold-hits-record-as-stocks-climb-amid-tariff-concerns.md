@@ -28,7 +28,13 @@ primary_themes:
 - Currency Markets
 - Government Policy
 - Corporate Earnings
-topic_tags: []
+topic_tags:
+  - banking
+  - "economy, business and finance"
+  - government
+  - "government policy"
+  - "international trade"
+  - politics
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

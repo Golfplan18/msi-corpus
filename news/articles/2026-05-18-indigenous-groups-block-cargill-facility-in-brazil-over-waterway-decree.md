@@ -13,7 +13,12 @@ primary_themes:
 - Environmental protection
 - Government consultation
 - Agribusiness and land use
-topic_tags: []
+topic_tags:
+  - politics
+  - "government policy"
+  - environment
+  - "natural resources"
+  - "economy, business and finance"
 storyline_nexus: []
 geographic_location: Santarem, Para state, Brazil
 floor_values_engaged:

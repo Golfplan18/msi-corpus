@@ -20,7 +20,8 @@ primary_themes:
 - China-U.S. competition in Latin America
 - Iran war
 - Monroe Doctrine
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: Doral, Florida; Latin America; Middle East
 floor_values_engaged:

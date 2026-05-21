@@ -17,7 +17,13 @@ primary_themes:
 - Ceasefire negotiations
 - International aid
 - UN operations
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "international relations"
+  - lifestyle
+  - "lifestyle and leisure"
+  - politics
 storyline_nexus: []
 geographic_location: Gaza Strip, East Jerusalem
 floor_values_engaged:

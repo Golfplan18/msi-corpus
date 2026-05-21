@@ -17,8 +17,8 @@ primary_themes:
 - Florida politics
 - 2024 presidential election
 topic_tags:
-  - "politics"
-  - "election"
+  - election
+  - politics
 storyline_nexus: []
 geographic_location: The Villages, Florida, United States
 floor_values_engaged:

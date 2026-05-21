@@ -18,7 +18,9 @@ primary_themes:
 - naval warfare
 - law of armed conflict
 - search and rescue obligations
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: Indian Ocean, near Sri Lanka
 floor_values_engaged:

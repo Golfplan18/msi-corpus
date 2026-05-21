@@ -13,7 +13,11 @@ primary_themes:
 - public safety infrastructure
 - Pakistan
 - commercial building fires
-topic_tags: []
+topic_tags:
+  - "arts, culture, entertainment and media"
+  - "disaster, accident and emergency incident"
+  - fire
+  - "mass media"
 storyline_nexus: []
 geographic_location: Karachi, Sindh, Pakistan
 floor_values_engaged:

@@ -17,7 +17,12 @@ primary_themes:
 - fossil fuels
 - Paris Agreement
 - climate attribution science
-topic_tags: []
+topic_tags:
+  - environment
+  - "climate change"
+  - politics
+  - "international relations"
+  - weather
 storyline_nexus: []
 geographic_location: International
 floor_values_engaged:

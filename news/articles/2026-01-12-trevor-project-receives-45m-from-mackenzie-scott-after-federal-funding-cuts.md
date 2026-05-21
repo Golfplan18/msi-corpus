@@ -13,7 +13,11 @@ primary_themes:
 - LGBTQ_youth_mental_health
 - federal_funding_cuts
 - philanthropy
-topic_tags: []
+topic_tags:
+  - "society"
+  - "welfare"
+  - "politics"
+  - "government policy"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

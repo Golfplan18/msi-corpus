@@ -19,9 +19,8 @@ primary_themes:
 - Cross-strait relations
 topic_tags:
   - "conflict, war and peace"
-  - "armed conflict"
-  - "politics"
-  - "international relations"
+  - "disaster, accident and emergency incident"
+  - fire
 storyline_nexus: []
 geographic_location: Taiwan; Beijing, China
 floor_values_engaged:

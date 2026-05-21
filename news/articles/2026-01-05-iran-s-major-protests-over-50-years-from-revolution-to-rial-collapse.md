@@ -17,10 +17,7 @@ primary_themes:
 - Iran
 - currency crisis
 topic_tags:
-  - politics
-  - "political dissent"
-  - society
-  - "social condition"
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: Iran
 floor_values_engaged:

@@ -13,7 +13,9 @@ primary_themes:
 - maritime safety
 - disaster response
 - transportation accidents
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - crime
 storyline_nexus: []
 geographic_location: Basilan province, Philippines
 floor_values_engaged:

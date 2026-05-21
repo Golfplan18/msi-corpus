@@ -14,7 +14,12 @@ primary_themes:
 - student rights
 - LGBTQ issues
 - judicial appointments
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "economy, business and finance"
+  - macroeconomics
+  - "monetary policy"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Amarillo, Texas; West Texas
 floor_values_engaged:

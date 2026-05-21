@@ -27,9 +27,11 @@ primary_themes:
 - Federal Reserve policy
 - cryptocurrency
 topic_tags:
+  - "crime, law and justice"
   - "economy, business and finance"
-  - "energy and resource"
   - "market and exchange"
+  - politics
+  - trial
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

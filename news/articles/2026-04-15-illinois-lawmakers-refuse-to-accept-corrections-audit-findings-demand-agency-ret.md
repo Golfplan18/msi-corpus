@@ -19,7 +19,9 @@ primary_themes:
 - corrections oversight
 - public safety
 - state spending
-topic_tags: []
+topic_tags:
+  - government
+  - politics
 storyline_nexus: []
 geographic_location: Illinois, United States
 floor_values_engaged:

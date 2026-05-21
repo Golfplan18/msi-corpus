@@ -24,12 +24,12 @@ primary_themes:
 - protest and civil unrest
 - law enforcement accountability
 topic_tags:
+  - "armed conflict"
+  - "civil rights"
+  - "conflict, war and peace"
   - "crime, law and justice"
-  - "law"
-  - "science and technology"
-  - "education"
-  - "artificial intelligence"
-  - "trial"
+  - "human interest"
+  - "human migration"
 storyline_nexus: []
 geographic_location: Minneapolis, Minnesota
 floor_values_engaged:

@@ -16,7 +16,8 @@ primary_themes:
 - books_and_literature
 - great_lakes_history
 - american_cultural_history
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
 storyline_nexus: []
 geographic_location: Kenosha, Wisconsin
 floor_values_engaged:

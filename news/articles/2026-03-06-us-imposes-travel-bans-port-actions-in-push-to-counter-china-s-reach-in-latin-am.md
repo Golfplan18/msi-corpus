@@ -17,7 +17,9 @@ primary_themes:
 - Latin American trade and investment
 - infrastructure and ports
 - Taiwan diplomatic recognition
-topic_tags: []
+topic_tags:
+  - "international relations"
+  - "politics"
 storyline_nexus: []
 geographic_location: Latin America
 floor_values_engaged:

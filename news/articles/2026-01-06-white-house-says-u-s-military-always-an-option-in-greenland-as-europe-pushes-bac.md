@@ -20,7 +20,10 @@ primary_themes:
 - NATO alliance
 - Greenland
 - geopolitics
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - politics
 storyline_nexus: []
 geographic_location: Greenland; Washington, D.C.; Copenhagen, Denmark; Paris, France
 floor_values_engaged:

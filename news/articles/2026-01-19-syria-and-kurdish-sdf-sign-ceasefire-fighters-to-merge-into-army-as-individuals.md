@@ -15,7 +15,10 @@ primary_themes:
 - SDF-Damascus ceasefire
 - IS detention facilities
 - military merger
-topic_tags: []
+topic_tags:
+  - "human migration"
+  - "conflict, war and peace"
+  - "human interest"
 storyline_nexus: []
 geographic_location: Syria; northeast Syria
 floor_values_engaged:

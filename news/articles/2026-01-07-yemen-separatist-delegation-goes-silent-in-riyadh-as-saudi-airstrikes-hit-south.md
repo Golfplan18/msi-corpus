@@ -20,9 +20,9 @@ primary_themes:
 - Saudi-UAE rivalry in Yemen
 - southern Yemen separatism
 topic_tags:
-  - "conflict, war and peace"
-  - "international military intervention"
-  - "armed conflict"
+  - politics
+  - labour
+  - "labour dispute"
 storyline_nexus: []
 geographic_location: Aden, Yemen; al-Dhale governorate, Yemen; Riyadh, Saudi Arabia
 floor_values_engaged:

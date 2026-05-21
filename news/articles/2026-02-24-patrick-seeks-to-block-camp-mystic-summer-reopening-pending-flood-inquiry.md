@@ -17,7 +17,8 @@ primary_themes:
 - disaster_accountability
 - regulation_enforcement
 - youth_safety
-topic_tags: []
+topic_tags:
+  - "disaster, accident and emergency incident"
 storyline_nexus: []
 geographic_location: Texas Hill Country, United States
 floor_values_engaged:

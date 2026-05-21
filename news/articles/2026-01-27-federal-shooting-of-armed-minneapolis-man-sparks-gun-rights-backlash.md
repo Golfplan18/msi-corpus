@@ -16,7 +16,10 @@ primary_themes:
 - immigration operations
 - Republican coalition politics
 - video evidence vs. official statements
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "law enforcement"
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: Minneapolis, Minnesota, United States
 floor_values_engaged:

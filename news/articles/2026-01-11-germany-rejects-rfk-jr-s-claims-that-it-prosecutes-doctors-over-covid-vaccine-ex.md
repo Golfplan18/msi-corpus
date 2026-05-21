@@ -14,10 +14,9 @@ primary_themes:
 - patient autonomy
 - disinformation
 topic_tags:
-  - "health"
+  - "conflict, war and peace"
+  - health
   - "public health"
-  - "politics"
-  - "international relations"
 storyline_nexus: []
 geographic_location: Germany; United States
 floor_values_engaged:

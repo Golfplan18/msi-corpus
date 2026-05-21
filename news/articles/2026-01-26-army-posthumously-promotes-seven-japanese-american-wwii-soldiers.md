@@ -20,7 +20,12 @@ primary_themes:
 - post-war recognition
 - historical exclusion
 - government policy
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - government
+  - "government policy"
+  - politics
 storyline_nexus: []
 geographic_location: Hawaii, United States
 floor_values_engaged:

@@ -16,7 +16,13 @@ primary_themes:
 - US foreign policy in Latin America
 - Nobel Peace Prize
 - democratic opposition
-topic_tags: []
+topic_tags:
+  - achievement
+  - "conflict, war and peace"
+  - "human interest"
+  - "political dissent"
+  - "political process"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Washington, D.C.; Caracas, Venezuela
 floor_values_engaged:

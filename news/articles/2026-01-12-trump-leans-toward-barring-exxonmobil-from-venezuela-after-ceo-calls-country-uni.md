@@ -15,7 +15,11 @@ primary_themes:
 - US foreign policy
 - energy investment
 - executive order
-topic_tags: []
+topic_tags:
+  - "politics"
+  - "international relations"
+  - "economy, business and finance"
+  - "energy and resource"
 storyline_nexus: []
 geographic_location: Venezuela; West Palm Beach, Florida
 floor_values_engaged:

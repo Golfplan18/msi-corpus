@@ -17,7 +17,13 @@ primary_themes:
 - Trade Policy
 - Judicial Review
 - Executive Authority
-topic_tags: []
+topic_tags:
+  - "economy, business and finance"
+  - "international trade"
+  - politics
+  - "government policy"
+  - "science and technology"
+  - "artificial intelligence"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

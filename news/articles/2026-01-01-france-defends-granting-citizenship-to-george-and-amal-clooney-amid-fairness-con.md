@@ -14,8 +14,9 @@ primary_themes:
 - immigration policy
 - cultural diplomacy
 topic_tags:
-  - "politics"
+  - government
   - "government policy"
+  - politics
 storyline_nexus: []
 geographic_location: France
 floor_values_engaged:

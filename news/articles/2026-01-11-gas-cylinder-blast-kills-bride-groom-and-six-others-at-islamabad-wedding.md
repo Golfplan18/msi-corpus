@@ -13,8 +13,8 @@ primary_themes:
 - Pakistan
 - infrastructure
 topic_tags:
+  - disaster
   - "disaster, accident and emergency incident"
-  - "accident and emergency incident"
 storyline_nexus: []
 geographic_location: Islamabad, Pakistan
 floor_values_engaged:

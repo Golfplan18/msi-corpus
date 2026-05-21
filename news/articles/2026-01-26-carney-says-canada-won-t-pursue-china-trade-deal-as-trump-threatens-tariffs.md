@@ -15,7 +15,9 @@ primary_themes:
 - tariffs
 - Canada-US relations
 - geopolitics
-topic_tags: []
+topic_tags:
+  - "economy, business and finance"
+  - "international trade"
 storyline_nexus: []
 geographic_location: Canada, United States
 floor_values_engaged:

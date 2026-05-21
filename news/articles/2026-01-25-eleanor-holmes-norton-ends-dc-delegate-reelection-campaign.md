@@ -16,7 +16,12 @@ primary_themes:
 - DC governance
 - Civil Rights history
 - Federal intervention
-topic_tags: []
+topic_tags:
+  - discrimination
+  - politics
+  - election
+  - society
+  - "government policy"
 storyline_nexus: []
 geographic_location: Washington, D.C.
 floor_values_engaged:

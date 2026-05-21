@@ -13,7 +13,8 @@ primary_themes:
 - consumer_travel
 - airline_economics
 - fuel_costs
-topic_tags: []
+topic_tags:
+  - "economy, business and finance"
 storyline_nexus: []
 geographic_location: International (New Zealand, United States)
 floor_values_engaged:

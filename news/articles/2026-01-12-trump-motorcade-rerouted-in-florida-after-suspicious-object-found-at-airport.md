@@ -15,7 +15,11 @@ primary_themes:
 - presidential security
 - Secret Service protocols
 - executive branch
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "crime"
+  - "politics"
+  - "government"
 storyline_nexus: []
 geographic_location: Palm Beach, Florida, United States
 floor_values_engaged:

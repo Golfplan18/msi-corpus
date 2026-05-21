@@ -21,7 +21,13 @@ primary_themes:
 - Immigration enforcement
 - Executive administration
 - Personnel transition
-topic_tags: []
+topic_tags:
+  - "civil unrest"
+  - "conflict, war and peace"
+  - "crime, law and justice"
+  - government
+  - "government policy"
+  - "human interest"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

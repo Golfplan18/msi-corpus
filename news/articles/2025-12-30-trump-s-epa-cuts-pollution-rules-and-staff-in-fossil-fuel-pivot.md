@@ -15,7 +15,11 @@ primary_themes:
 - fossil fuels
 - climate change
 - public health
-topic_tags: []
+topic_tags:
+  - environment
+  - pollution
+  - politics
+  - government
 storyline_nexus: []
 geographic_location: Washington, D.C., United States
 floor_values_engaged:

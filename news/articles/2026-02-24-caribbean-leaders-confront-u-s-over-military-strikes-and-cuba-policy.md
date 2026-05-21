@@ -16,7 +16,13 @@ primary_themes:
 - Military operations
 - Humanitarian crisis
 - U.S. foreign policy
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - terrorism
+  - "conflict, war and peace"
+  - "armed conflict"
+  - "economy, business and finance"
+  - "international trade"
 storyline_nexus: []
 geographic_location: Caribbean region, St. Kitts and Nevis
 floor_values_engaged:

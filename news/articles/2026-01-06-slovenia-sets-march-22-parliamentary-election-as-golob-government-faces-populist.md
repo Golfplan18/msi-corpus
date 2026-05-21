@@ -14,7 +14,10 @@ primary_themes:
 - European politics
 - liberal-populist competition
 - disinformation
-topic_tags: []
+topic_tags:
+  - election
+  - "political process"
+  - politics
 storyline_nexus: []
 geographic_location: Ljubljana, Slovenia
 floor_values_engaged:

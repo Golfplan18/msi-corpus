@@ -22,9 +22,12 @@ primary_themes:
 - congressional procedure
 - discharge petition
 topic_tags:
+  - "artificial intelligence"
+  - government
   - "government policy"
-  - "public health"
   - health
+  - politics
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Washington, D.C., United States
 floor_values_engaged:

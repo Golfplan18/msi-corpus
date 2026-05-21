@@ -21,7 +21,9 @@ primary_themes:
 - state-federal conflict
 - ICE oversight legislation
 - civil rights litigation
-topic_tags: []
+topic_tags:
+  - politics
+  - society
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

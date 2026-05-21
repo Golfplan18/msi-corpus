@@ -16,7 +16,13 @@ primary_themes:
 - executive_succession
 - divestiture
 - investment_shift
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "economy, business and finance"
+  - "financial and business service"
+  - macroeconomics
+  - "monetary policy"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

@@ -14,7 +14,13 @@ primary_themes:
 - vaccination
 - disease control
 - government accountability
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "disease and condition"
+  - government
+  - "government policy"
+  - health
+  - politics
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

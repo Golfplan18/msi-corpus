@@ -17,7 +17,10 @@ primary_themes:
 - military integration
 - Turkey-Syria relations
 - Islamic State detention
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - politics
 storyline_nexus: []
 geographic_location: Damascus, Syria
 floor_values_engaged:

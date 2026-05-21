@@ -20,7 +20,9 @@ primary_themes:
 - medical neglect
 - federal contracting
 - suicide
-topic_tags: []
+topic_tags:
+  - "crime"
+  - "crime, law and justice"
 storyline_nexus: []
 geographic_location: El Paso, Texas
 floor_values_engaged:

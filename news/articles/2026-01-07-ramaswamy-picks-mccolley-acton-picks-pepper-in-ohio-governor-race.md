@@ -14,7 +14,9 @@ primary_themes:
 - 2026 Elections
 - Ohio Governor Race
 - Running Mate Selections
-topic_tags: []
+topic_tags:
+  - election
+  - politics
 storyline_nexus: []
 geographic_location: Ohio, United States
 floor_values_engaged:

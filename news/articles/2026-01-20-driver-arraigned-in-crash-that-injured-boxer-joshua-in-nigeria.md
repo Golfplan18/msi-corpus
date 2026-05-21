@@ -14,7 +14,9 @@ primary_themes:
 - criminal justice
 - traffic safety
 - international news
-topic_tags: []
+topic_tags:
+  - "international relations"
+  - politics
 storyline_nexus: []
 geographic_location: Ogun State, Nigeria
 floor_values_engaged:

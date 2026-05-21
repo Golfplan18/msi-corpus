@@ -15,9 +15,8 @@ primary_themes:
 - midterm elections
 - new construction shortage
 topic_tags:
-  - "government policy"
-  - "construction and property"
-  - "economy, business and finance"
+  - politics
+  - election
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

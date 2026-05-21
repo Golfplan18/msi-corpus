@@ -13,7 +13,8 @@ primary_themes:
 - homicide conviction
 - scam victims
 - gun violence
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
 storyline_nexus: []
 geographic_location: South Charleston, Clark County, Ohio
 floor_values_engaged:

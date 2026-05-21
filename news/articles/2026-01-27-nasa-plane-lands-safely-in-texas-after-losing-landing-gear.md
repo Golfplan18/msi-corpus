@@ -10,7 +10,13 @@ primary_entities:
 primary_themes:
 - aviation incident
 - mechanical failure
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "disaster, accident and emergency incident"
+  - fire
+  - "science and technology"
+  - "scientific research"
+  - "space programme"
 storyline_nexus: []
 geographic_location: Houston, Texas, United States
 floor_values_engaged:

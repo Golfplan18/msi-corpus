@@ -15,7 +15,11 @@ primary_themes:
 - Health equity
 - Prenatal care access
 - Healthcare infrastructure
-topic_tags: []
+topic_tags:
+  - "construction and property"
+  - "disease and condition"
+  - health
+  - "economy, business and finance"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

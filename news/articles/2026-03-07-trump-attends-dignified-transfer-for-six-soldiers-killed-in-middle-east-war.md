@@ -22,7 +22,13 @@ primary_themes:
 - Middle East conflict
 - commander in chief
 - Army Reserve
-topic_tags: []
+topic_tags:
+  - politics
+  - "human interest"
+  - "human migration"
+  - labour
+  - "conflict, war and peace"
+  - "labour dispute"
 storyline_nexus: []
 geographic_location: Dover Air Force Base, Delaware, United States
 floor_values_engaged:

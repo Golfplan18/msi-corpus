@@ -13,7 +13,13 @@ primary_themes:
 - aviation_safety
 - airport_operations
 - incident_response
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "disaster, accident and emergency incident"
+  - "economy, business and finance"
+  - macroeconomics
+  - "monetary policy"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Louisville, Kentucky, United States
 floor_values_engaged:

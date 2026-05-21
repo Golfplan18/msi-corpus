@@ -17,7 +17,13 @@ primary_themes:
 - congressional elections
 - gerrymandering
 - Florida politics
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "crime, law and justice"
+  - election
+  - government
+  - "government policy"
+  - judiciary
 storyline_nexus: []
 geographic_location: Florida, United States
 floor_values_engaged:

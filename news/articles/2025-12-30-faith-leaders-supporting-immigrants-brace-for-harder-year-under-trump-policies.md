@@ -22,7 +22,13 @@ primary_themes:
 - Afghan refugees
 - Somali Americans
 - refugee resettlement funding
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "belief systems"
+  - "human interest"
+  - "human migration"
+  - religion
+  - "science and technology"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

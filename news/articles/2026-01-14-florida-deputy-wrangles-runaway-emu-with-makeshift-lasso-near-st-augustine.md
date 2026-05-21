@@ -11,8 +11,7 @@ primary_themes:
 - law enforcement
 - exotic animals
 - Florida
-topic_tags:
-  - "crime, law and justice"
+topic_tags: []
 storyline_nexus: []
 geographic_location: St. Johns County, Florida, United States
 floor_values_engaged:

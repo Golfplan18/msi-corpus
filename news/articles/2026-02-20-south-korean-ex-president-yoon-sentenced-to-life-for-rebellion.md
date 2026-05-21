@@ -12,7 +12,8 @@ primary_themes:
 - accountability_of_power
 - rule_of_law
 - political_crisis
-topic_tags: []
+topic_tags:
+  - politics
 storyline_nexus: []
 geographic_location: South Korea
 floor_values_engaged:

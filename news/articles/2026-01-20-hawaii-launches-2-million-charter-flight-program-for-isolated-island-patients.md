@@ -17,7 +17,13 @@ primary_themes:
 - medical transportation
 - physician shortage
 - healthcare equity
-topic_tags: []
+topic_tags:
+  - "economy, business and finance"
+  - health
+  - "health treatment and procedure"
+  - sport
+  - "sport event"
+  - transport
 storyline_nexus: []
 geographic_location: Moloka'i and Lana'i, Hawaii, USA
 floor_values_engaged:

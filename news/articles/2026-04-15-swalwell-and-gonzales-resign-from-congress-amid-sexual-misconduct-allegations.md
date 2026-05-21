@@ -19,7 +19,10 @@ primary_themes:
 - MeToo
 - workplace protections
 - congressional reform
-topic_tags: []
+topic_tags:
+  - election
+  - "political process"
+  - politics
 storyline_nexus: []
 geographic_location: Washington, D.C., United States
 floor_values_engaged:

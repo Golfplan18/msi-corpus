@@ -15,7 +15,13 @@ primary_themes:
 - corporate technology partnerships
 - government regulation of AI
 - competitive markets
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "conflict, war and peace"
+  - economy
+  - "economy, business and finance"
+  - government
+  - "government policy"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

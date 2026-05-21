@@ -20,8 +20,12 @@ primary_themes:
 - regional divisions
 - democratic governance
 topic_tags:
-  - "conflict, war and peace"
-  - "international military intervention"
+  - crime
+  - "crime, law and justice"
+  - "human migration"
+  - "international relations"
+  - "law enforcement"
+  - "political dissent"
 storyline_nexus: []
 geographic_location: Latin America
 floor_values_engaged:

@@ -18,7 +18,11 @@ primary_themes:
 - exiled monarchy
 - U.S. military deployment
 - nuclear diplomacy
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - "armed conflict"
+  - education
+  - "education policy"
 storyline_nexus: []
 geographic_location: Iran, Middle East
 floor_values_engaged:

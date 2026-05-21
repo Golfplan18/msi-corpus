@@ -20,8 +20,7 @@ primary_themes:
 - bipartisan lawmaking
 - child safety
 topic_tags:
-  - "disaster, accident and emergency incident"
-  - "conflict, war and peace"
+  - "crime, law and justice"
 storyline_nexus: []
 geographic_location: Newark, Ohio; Licking County, Ohio
 floor_values_engaged:

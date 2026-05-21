@@ -14,7 +14,13 @@ primary_themes:
 - technology outages
 - airline disruption
 - FAA ground stop
-topic_tags: []
+topic_tags:
+  - "disaster, accident and emergency incident"
+  - "government policy"
+  - "human migration"
+  - "international relations"
+  - "monetary policy"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

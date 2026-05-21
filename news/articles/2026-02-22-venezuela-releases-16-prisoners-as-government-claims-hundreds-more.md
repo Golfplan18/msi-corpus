@@ -14,7 +14,11 @@ primary_themes:
 - political prisoners
 - amnesty
 - Latin America
-topic_tags: []
+topic_tags:
+  - politics
+  - "government policy"
+  - "science and technology"
+  - "artificial intelligence"
 storyline_nexus: []
 geographic_location: Venezuela
 floor_values_engaged:

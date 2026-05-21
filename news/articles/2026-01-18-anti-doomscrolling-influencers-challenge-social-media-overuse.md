@@ -17,7 +17,10 @@ primary_themes:
 - digital wellness
 - behavioral psychology
 - content creation
-topic_tags: []
+topic_tags:
+  - "arts, culture, entertainment and media"
+  - "social media"
+  - "arts and entertainment"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

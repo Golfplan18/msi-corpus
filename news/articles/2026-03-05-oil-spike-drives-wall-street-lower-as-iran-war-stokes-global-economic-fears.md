@@ -20,7 +20,13 @@ primary_themes:
 - interest rates
 - global economy
 - airline industry
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "artificial intelligence"
+  - "conflict, war and peace"
+  - "crime, law and justice"
+  - economy
+  - "economy, business and finance"
 storyline_nexus: []
 geographic_location: United States; international
 floor_values_engaged:

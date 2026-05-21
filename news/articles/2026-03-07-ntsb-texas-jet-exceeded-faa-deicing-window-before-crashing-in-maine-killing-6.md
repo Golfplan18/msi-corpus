@@ -18,7 +18,11 @@ primary_themes:
 - plane crash
 - NTSB investigation
 - cold weather operations
-topic_tags: []
+topic_tags:
+  - "accident and emergency incident"
+  - "crime"
+  - "crime, law and justice"
+  - "disaster, accident and emergency incident"
 storyline_nexus: []
 geographic_location: Bangor, Maine
 floor_values_engaged:

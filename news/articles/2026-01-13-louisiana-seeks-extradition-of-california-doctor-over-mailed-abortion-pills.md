@@ -23,11 +23,7 @@ primary_themes:
 - state legal conflicts
 topic_tags:
   - "crime, law and justice"
-  - "crime"
-  - "science and technology"
-  - "health"
-  - "politics"
-  - "conflict, war and peace"
+  - health
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

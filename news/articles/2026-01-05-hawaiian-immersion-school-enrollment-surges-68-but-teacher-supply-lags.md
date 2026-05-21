@@ -17,8 +17,12 @@ primary_themes:
 - Hawaiian language
 - immersion education
 topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "crime, law and justice"
   - education
-  - school
+  - "higher education"
+  - politics
 storyline_nexus: []
 geographic_location: Hawaii, United States
 floor_values_engaged:

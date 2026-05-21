@@ -17,9 +17,8 @@ primary_themes:
 - super tuskers
 - ivory poaching
 topic_tags:
-  - "environment"
-  - "conservation"
-  - "human interest"
+  - conservation
+  - environment
 storyline_nexus: []
 geographic_location: Amboseli National Park, southern Kenya
 floor_values_engaged:

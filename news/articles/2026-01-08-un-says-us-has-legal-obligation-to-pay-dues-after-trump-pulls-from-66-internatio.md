@@ -17,9 +17,10 @@ primary_themes:
 - Climate diplomacy
 - Multilateralism
 topic_tags:
-  - politics
-  - government
+  - "climate change"
+  - environment
   - "international relations"
+  - politics
 storyline_nexus: []
 geographic_location: United States / United Nations, New York
 floor_values_engaged:

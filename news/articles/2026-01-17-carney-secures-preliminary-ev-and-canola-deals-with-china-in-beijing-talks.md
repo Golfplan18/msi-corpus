@@ -16,7 +16,13 @@ primary_themes:
 - TARIFFS
 - CANADA_CHINA_RELATIONS
 - STRATEGIC_AUTONOMY
-topic_tags: []
+topic_tags:
+  - crime
+  - "crime, law and justice"
+  - "government policy"
+  - "law enforcement"
+  - "monetary policy"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Beijing, China
 floor_values_engaged:

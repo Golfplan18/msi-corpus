@@ -11,7 +11,11 @@ primary_themes:
 - Banking and finance
 - Litigation
 - Deregulation
-topic_tags: []
+topic_tags:
+  - "economy, business and finance"
+  - banking
+  - politics
+  - "government policy"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

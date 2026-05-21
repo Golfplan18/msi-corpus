@@ -21,12 +21,8 @@ primary_themes:
 - U.S.-Iran diplomacy
 - foreign policy
 topic_tags:
-  - "science and technology"
-  - "conflict, war and peace"
   - "armed conflict"
-  - "politics"
-  - "government"
-  - "economy, business and finance"
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: Washington, D.C. / Iran
 floor_values_engaged:

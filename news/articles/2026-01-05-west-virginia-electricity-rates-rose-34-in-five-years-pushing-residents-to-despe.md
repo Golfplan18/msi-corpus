@@ -18,9 +18,7 @@ primary_themes:
 - coal policy
 - household energy burden
 - data centers
-topic_tags:
-  - "economy, business and finance"
-  - "energy and resource"
+topic_tags: []
 storyline_nexus: []
 geographic_location: West Virginia, United States
 floor_values_engaged:

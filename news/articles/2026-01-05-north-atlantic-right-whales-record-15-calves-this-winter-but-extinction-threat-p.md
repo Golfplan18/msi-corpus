@@ -14,8 +14,9 @@ primary_themes:
 - federal wildlife regulation
 - environmental policy
 topic_tags:
-  - environment
+  - "conflict, war and peace"
   - conservation
+  - environment
 storyline_nexus: []
 geographic_location: United States, southeastern Atlantic coast
 floor_values_engaged:

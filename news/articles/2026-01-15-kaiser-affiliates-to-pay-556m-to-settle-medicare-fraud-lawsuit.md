@@ -13,7 +13,12 @@ primary_themes:
 - federal settlement
 - healthcare accountability
 - whistleblower
-topic_tags: []
+topic_tags:
+  - politics
+  - government
+  - "crime, law and justice"
+  - corruption
+  - health
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

@@ -20,7 +20,9 @@ primary_themes:
 - Cuba-Ecuador relations
 - U.S. foreign policy
 - persona non grata
-topic_tags: []
+topic_tags:
+  - "international relations"
+  - "politics"
 storyline_nexus: []
 geographic_location: Quito, Ecuador
 floor_values_engaged:

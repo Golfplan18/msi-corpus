@@ -14,7 +14,12 @@ primary_themes:
 - historical commemoration
 - disaster accountability
 - organizational safety
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "crime, law and justice"
+  - "disaster, accident and emergency incident"
+  - "science and technology"
+  - "space programme"
 storyline_nexus: []
 geographic_location: Kennedy Space Center, Florida; Arlington National Cemetery, Virginia; Johnson Space Center, Texas
 floor_values_engaged:

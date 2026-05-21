@@ -19,7 +19,11 @@ primary_themes:
 - civil liberties
 - Minneapolis
 - Trump administration
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "crime, law and justice"
+  - trial
 storyline_nexus: []
 geographic_location: Minneapolis, Minnesota, United States
 floor_values_engaged:

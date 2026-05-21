@@ -16,8 +16,12 @@ primary_themes:
 - American Sign Language
 - nonprofit funding
 topic_tags:
-  - society
-  - communities
+  - crime
+  - "crime, law and justice"
+  - "law enforcement"
+  - "monetary policy"
+  - "science and technology"
+  - "space programme"
 storyline_nexus: []
 geographic_location: Portland, Oregon
 floor_values_engaged:

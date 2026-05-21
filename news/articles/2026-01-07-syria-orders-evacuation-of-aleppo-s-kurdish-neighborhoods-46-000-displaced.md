@@ -19,10 +19,12 @@ primary_themes:
 - Kurdish_Syrian_relations
 - post-Assad_transition
 topic_tags:
+  - "arts, culture, entertainment and media"
+  - "civil unrest"
   - "conflict, war and peace"
-  - "human interest"
-  - "human migration"
-  - "armed conflict"
+  - "disaster, accident and emergency incident"
+  - "mass media"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Aleppo, Syria
 floor_values_engaged:

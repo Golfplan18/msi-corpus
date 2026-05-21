@@ -17,7 +17,11 @@ primary_themes:
 - Immigration enforcement
 - Police and law enforcement conduct
 - Congressional oversight
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - government
+  - "law enforcement"
+  - politics
 storyline_nexus: []
 geographic_location: Minneapolis, Minnesota; Washington, D.C.; United States
 floor_values_engaged:

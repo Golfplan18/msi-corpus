@@ -13,7 +13,11 @@ primary_themes:
 - plane crashes
 - winter weather hazards
 - aircraft design and icing
-topic_tags: []
+topic_tags:
+  - "economy, business and finance"
+  - "human interest"
+  - "lifestyle and leisure"
+  - travel
 storyline_nexus: []
 geographic_location: Bangor, Maine, United States
 floor_values_engaged:

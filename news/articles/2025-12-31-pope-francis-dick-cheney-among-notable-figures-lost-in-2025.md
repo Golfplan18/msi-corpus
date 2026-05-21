@@ -22,7 +22,11 @@ primary_themes:
 - religion
 - popular culture
 - sports
-topic_tags: []
+topic_tags:
+  - politics
+  - "crime, law and justice"
+  - religion
+  - "arts, culture, entertainment and media"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

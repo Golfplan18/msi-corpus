@@ -13,7 +13,9 @@ primary_themes:
 - public health
 - infant health
 - product recalls
-topic_tags: []
+topic_tags:
+  - health
+  - "public health"
 storyline_nexus: []
 geographic_location: United States (19 states)
 floor_values_engaged:

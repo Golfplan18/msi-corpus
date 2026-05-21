@@ -12,7 +12,10 @@ primary_themes:
 - Transportation safety
 - Emergency response
 - Public mourning
-topic_tags: []
+topic_tags:
+  - "accident and emergency incident"
+  - "disaster, accident and emergency incident"
+  - "human interest"
 storyline_nexus: []
 geographic_location: Spain (Barcelona, Catalonia, Andalusia)
 floor_values_engaged:

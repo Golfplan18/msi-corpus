@@ -19,7 +19,10 @@ primary_themes:
 - protest and counterprotest
 - federal-state relations
 - court orders
-topic_tags: []
+topic_tags:
+  - "arts, culture, entertainment and media"
+  - "social media"
+  - "arts and entertainment"
 storyline_nexus: []
 geographic_location: Minneapolis, Minnesota, United States
 floor_values_engaged:

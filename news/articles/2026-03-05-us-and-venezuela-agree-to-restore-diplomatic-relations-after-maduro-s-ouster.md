@@ -17,7 +17,9 @@ primary_themes:
 - post-Maduro transition
 - Latin America geopolitics
 - oil and energy diplomacy
-topic_tags: []
+topic_tags:
+  - "international relations"
+  - "politics"
 storyline_nexus: []
 geographic_location: Venezuela; United States
 floor_values_engaged:

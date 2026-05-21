@@ -13,7 +13,10 @@ primary_themes:
 - trade
 - conflict_resolution
 - African_integration
-topic_tags: []
+topic_tags:
+  - "economy, business and finance"
+  - "government policy"
+  - "international trade"
 storyline_nexus: []
 geographic_location: Morocco and Senegal (North and West Africa)
 floor_values_engaged:

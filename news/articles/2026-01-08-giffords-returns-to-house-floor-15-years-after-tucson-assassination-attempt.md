@@ -16,6 +16,9 @@ primary_themes:
 - gun control legislation
 - congressional commemoration
 topic_tags:
+  - "civil rights"
+  - "crime, law and justice"
+  - society
 storyline_nexus: []
 geographic_location: Washington, D.C.
 floor_values_engaged:

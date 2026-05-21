@@ -20,7 +20,13 @@ primary_themes:
 - Lebanon-Israel conflict
 - missing persons
 - Mideast war
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - crime
+  - "crime, law and justice"
+  - health
+  - "human interest"
 storyline_nexus: []
 geographic_location: Zahle, Lebanon; Nabi Chit, Lebanon
 floor_values_engaged:

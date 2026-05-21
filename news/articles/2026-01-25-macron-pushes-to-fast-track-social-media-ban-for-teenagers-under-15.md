@@ -10,7 +10,13 @@ primary_themes:
 - child health
 - technology regulation
 - social media policy
-topic_tags: []
+topic_tags:
+  - politics
+  - health
+  - "human interest"
+  - education
+  - society
+  - "government policy"
 storyline_nexus: []
 geographic_location: France
 floor_values_engaged:

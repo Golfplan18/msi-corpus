@@ -18,7 +18,10 @@ primary_themes:
 - economic development
 - environmental justice
 - tax incentives
-topic_tags: []
+topic_tags:
+  - "science and technology"
+  - "artificial intelligence"
+  - environment
 storyline_nexus: []
 geographic_location: Southaven, DeSoto County, Mississippi
 floor_values_engaged:

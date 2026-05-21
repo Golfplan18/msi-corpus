@@ -17,7 +17,10 @@ primary_themes:
 - war_and_conflict
 - international_relations
 - peace_negotiations
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "peace process"
 storyline_nexus: []
 geographic_location: Ukraine, Russia, United States, United Arab Emirates
 floor_values_engaged:

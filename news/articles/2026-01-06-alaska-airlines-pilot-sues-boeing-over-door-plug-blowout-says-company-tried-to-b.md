@@ -18,8 +18,12 @@ primary_themes:
 - manufacturing liability
 - wrongful blame litigation
 topic_tags:
+  - "crime, law and justice"
   - "disaster, accident and emergency incident"
-  - "transportation accident and incident"
+  - "law enforcement"
+  - "monetary policy"
+  - "science and technology"
+  - trial
 storyline_nexus: []
 geographic_location: Portland, Oregon, United States
 floor_values_engaged:

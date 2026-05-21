@@ -19,8 +19,9 @@ primary_themes:
 - US_Africa_relations
 - Trump_administration
 topic_tags:
+  - "human interest"
+  - "human migration"
   - politics
-  - "government policy"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

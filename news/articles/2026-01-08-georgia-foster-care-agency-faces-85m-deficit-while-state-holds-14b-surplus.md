@@ -17,6 +17,12 @@ primary_themes:
 - social services
 - federal funding
 topic_tags:
+  - "arts, culture, entertainment and media"
+  - government
+  - health
+  - "mass media"
+  - "mental health"
+  - politics
 storyline_nexus: []
 geographic_location: Georgia, United States
 floor_values_engaged:

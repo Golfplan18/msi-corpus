@@ -15,7 +15,13 @@ primary_themes:
 - consumer-affordability
 - automotive
 - personal-finance
-topic_tags: []
+topic_tags:
+  - "economy, business and finance"
+  - "financial and business service"
+  - "government policy"
+  - "human migration"
+  - "international relations"
+  - politics
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

@@ -16,10 +16,8 @@ primary_themes:
 - mental health advocacy
 - state government
 topic_tags:
-  - "politics"
-  - "government"
-  - "human interest"
-  - "people"
+  - "arts, culture, entertainment and media"
+  - health
 storyline_nexus: []
 geographic_location: New Jersey, United States
 floor_values_engaged:

@@ -15,7 +15,9 @@ primary_themes:
 - sexual exploitation
 - platform accountability
 - digital content moderation
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: European Union, United States, Malaysia, Indonesia
 floor_values_engaged:

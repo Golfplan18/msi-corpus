@@ -15,8 +15,7 @@ primary_themes:
 - homelessness
 - state budget
 topic_tags:
-  - politics
-  - government
+  - health
 storyline_nexus: []
 geographic_location: California, United States
 floor_values_engaged:

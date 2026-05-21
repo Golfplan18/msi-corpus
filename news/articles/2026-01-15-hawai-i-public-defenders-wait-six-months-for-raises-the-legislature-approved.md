@@ -16,7 +16,9 @@ primary_themes:
 - government staffing shortages
 - criminal justice access
 - state budget administration
-topic_tags: []
+topic_tags:
+  - government
+  - politics
 storyline_nexus: []
 geographic_location: Hawaiʻi, United States
 floor_values_engaged:

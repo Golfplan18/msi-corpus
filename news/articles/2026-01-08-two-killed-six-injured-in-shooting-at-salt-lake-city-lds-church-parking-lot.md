@@ -15,8 +15,9 @@ primary_themes:
 - Tongan_community
 topic_tags:
   - "crime, law and justice"
-  - crime
+  - "law enforcement"
   - religion
+  - "religious leader"
 storyline_nexus: []
 geographic_location: Salt Lake City, Utah
 floor_values_engaged:

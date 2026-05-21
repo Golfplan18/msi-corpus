@@ -19,7 +19,13 @@ primary_themes:
 - climate change
 - public health
 - federal enforcement
-topic_tags: []
+topic_tags:
+  - "disease and condition"
+  - environment
+  - government
+  - "monetary policy"
+  - "political dissent"
+  - "public health"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

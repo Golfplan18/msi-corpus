@@ -14,7 +14,8 @@ primary_themes:
 - criminal courts
 - extradition
 - domestic violence
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
 storyline_nexus: []
 geographic_location: Columbus, Ohio; Winnebago County, Illinois
 floor_values_engaged:

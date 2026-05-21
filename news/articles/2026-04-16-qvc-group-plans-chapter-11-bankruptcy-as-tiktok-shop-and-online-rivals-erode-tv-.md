@@ -15,7 +15,9 @@ primary_themes:
 - digital commerce competition
 - cord-cutting
 - influencer economy
-topic_tags: []
+topic_tags:
+  - "economy, business and finance"
+  - economy
 storyline_nexus: []
 geographic_location: West Chester, Pennsylvania
 floor_values_engaged:

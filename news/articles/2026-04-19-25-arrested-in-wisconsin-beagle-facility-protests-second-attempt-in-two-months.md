@@ -12,7 +12,12 @@ primary_themes:
 - animal welfare
 - protest
 - law enforcement
-topic_tags: []
+topic_tags:
+  - "civil unrest"
+  - "conflict, war and peace"
+  - "crime, law and justice"
+  - "disaster, accident and emergency incident"
+  - fire
 storyline_nexus: []
 geographic_location: Blue Mounds, Wisconsin, United States
 floor_values_engaged:

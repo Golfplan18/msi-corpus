@@ -12,7 +12,13 @@ primary_themes:
 - education policy
 - tax policy
 - state government
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - education
+  - government
+  - "government policy"
+  - politics
 storyline_nexus: []
 geographic_location: Mississippi
 floor_values_engaged:

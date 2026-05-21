@@ -18,9 +18,12 @@ primary_themes:
 - fact-checking
 - AI-generated content
 topic_tags:
-  - "crime, law and justice"
+  - "artificial intelligence"
+  - "arts, culture, entertainment and media"
   - "human interest"
-  - "law enforcement"
+  - "human migration"
+  - "mass media"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Minneapolis, Minnesota
 floor_values_engaged:

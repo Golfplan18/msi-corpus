@@ -16,7 +16,13 @@ primary_themes:
 - immigration enforcement
 - Jan. 6 pardons
 - fact-check
-topic_tags: []
+topic_tags:
+  - politics
+  - "human interest"
+  - society
+  - "government policy"
+  - crime
+  - "crime, law and justice"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

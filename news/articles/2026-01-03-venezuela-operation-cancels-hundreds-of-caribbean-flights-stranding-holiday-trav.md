@@ -17,7 +17,10 @@ primary_themes:
 - Caribbean travel
 - holiday travel
 - Venezuela
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "disaster, accident and emergency incident"
 storyline_nexus: []
 geographic_location: Caribbean region
 floor_values_engaged:

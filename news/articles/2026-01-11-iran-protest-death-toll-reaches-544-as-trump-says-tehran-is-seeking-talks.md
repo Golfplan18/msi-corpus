@@ -19,10 +19,12 @@ primary_themes:
 - diplomatic negotiations
 - military threats
 topic_tags:
+  - "armed conflict"
   - "conflict, war and peace"
-  - "civil unrest"
-  - "politics"
+  - "crime, law and justice"
+  - "human interest"
   - "international relations"
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: Iran; United Arab Emirates; United States
 floor_values_engaged:

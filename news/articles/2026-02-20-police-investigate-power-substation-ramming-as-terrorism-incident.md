@@ -11,7 +11,9 @@ primary_themes:
 - terrorism investigation
 - critical infrastructure
 - public safety
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - terrorism
 storyline_nexus: []
 geographic_location: Boulder City, Nevada, United States
 floor_values_engaged:

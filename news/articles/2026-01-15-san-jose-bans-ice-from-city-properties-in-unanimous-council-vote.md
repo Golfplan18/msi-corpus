@@ -18,7 +18,13 @@ primary_themes:
 - local government policy
 - ICE property restrictions
 - sanctuary city
-topic_tags: []
+topic_tags:
+  - election
+  - "government policy"
+  - "human migration"
+  - "international relations"
+  - "monetary policy"
+  - "political process"
 storyline_nexus: []
 geographic_location: San Jose, California
 floor_values_engaged:

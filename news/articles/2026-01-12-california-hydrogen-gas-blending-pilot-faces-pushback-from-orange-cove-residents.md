@@ -18,7 +18,8 @@ primary_themes:
 - clean energy transition
 - public health
 - utility regulation
-topic_tags: []
+topic_tags:
+  - health
 storyline_nexus: []
 geographic_location: Orange Cove, Fresno County, California
 floor_values_engaged:

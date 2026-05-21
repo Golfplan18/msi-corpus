@@ -21,7 +21,7 @@ primary_themes:
 - Valais_Canton
 topic_tags:
   - "disaster, accident and emergency incident"
-  - "fire"
+  - fire
 storyline_nexus: []
 geographic_location: Crans-Montana, Valais Canton, Switzerland
 floor_values_engaged:

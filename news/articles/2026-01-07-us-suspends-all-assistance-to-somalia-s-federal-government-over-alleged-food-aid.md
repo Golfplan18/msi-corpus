@@ -15,9 +15,9 @@ primary_themes:
 - U.S.-Somalia relations
 - Trump administration policy
 topic_tags:
+  - "artificial intelligence"
   - politics
-  - "government policy"
-  - "international relations"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Somalia
 floor_values_engaged:

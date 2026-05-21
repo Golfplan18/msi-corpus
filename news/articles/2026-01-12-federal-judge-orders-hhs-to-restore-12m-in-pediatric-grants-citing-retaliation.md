@@ -17,7 +17,10 @@ primary_themes:
 - first-amendment-retaliation
 - vaccines
 - gender-affirming-care
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - health
+  - judiciary
 storyline_nexus: []
 geographic_location: Washington, D.C.
 floor_values_engaged:

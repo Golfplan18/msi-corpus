@@ -29,7 +29,8 @@ primary_themes:
 - symmetric-application
 - s-column
 - TC-3
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: Israel and Gaza
 floor_values_engaged:

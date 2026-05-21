@@ -17,7 +17,11 @@ primary_themes:
 - state-local funding
 - accountability requirements
 - housing
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "arts, culture, entertainment and media"
+  - "mass media"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: California, United States
 floor_values_engaged:

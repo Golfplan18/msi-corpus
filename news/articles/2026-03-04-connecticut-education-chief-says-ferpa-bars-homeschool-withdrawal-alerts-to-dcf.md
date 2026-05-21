@@ -20,7 +20,12 @@ primary_themes:
 - federal education privacy law
 - child abuse
 - Connecticut legislation
-topic_tags: []
+topic_tags:
+  - education
+  - government
+  - politics
+  - school
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Connecticut, United States
 floor_values_engaged:

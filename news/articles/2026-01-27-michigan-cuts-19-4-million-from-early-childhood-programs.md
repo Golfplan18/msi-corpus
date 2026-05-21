@@ -14,7 +14,13 @@ primary_themes:
 - early_childhood_programs
 - state_budget
 - political_disagreement
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "economy, business and finance"
+  - education
+  - government
+  - "government policy"
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: Michigan, United States
 floor_values_engaged:

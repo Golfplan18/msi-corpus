@@ -17,7 +17,11 @@ primary_themes:
 - government-media relations
 - Iran war
 - military casualties
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "arts, culture, entertainment and media"
+  - "conflict, war and peace"
+  - "mass media"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

@@ -14,9 +14,12 @@ primary_themes:
 - gun violence
 - police shooting
 topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - crime
   - "crime, law and justice"
-  - "crime"
-  - "law enforcement"
+  - "economy, business and finance"
+  - health
 storyline_nexus: []
 geographic_location: Greenville, South Carolina
 floor_values_engaged:

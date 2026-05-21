@@ -17,7 +17,12 @@ primary_themes:
 - deepfakes and synthetic media
 - platform regulation
 - EU digital safety law
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "arts, culture, entertainment and media"
+  - "crime, law and justice"
+  - "science and technology"
+  - "scientific research"
 storyline_nexus: []
 geographic_location: Global (London, Brussels, Washington)
 floor_values_engaged:

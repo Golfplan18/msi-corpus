@@ -15,7 +15,9 @@ primary_themes:
 - government accountability
 - citizen-led search efforts
 - Mexico
-topic_tags: []
+topic_tags:
+  - government
+  - politics
 storyline_nexus: []
 geographic_location: Jalisco state, Mexico; Guadalajara
 floor_values_engaged:

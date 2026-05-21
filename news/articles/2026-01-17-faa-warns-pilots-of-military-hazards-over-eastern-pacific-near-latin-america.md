@@ -15,7 +15,11 @@ primary_themes:
 - drug interdiction
 - Latin America and Caribbean
 - Venezuela
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "disaster, accident and emergency incident"
+  - "transportation accident and incident"
 storyline_nexus: []
 geographic_location: Eastern Pacific Ocean; Caribbean Sea; Mexico; Central America; South America
 floor_values_engaged:

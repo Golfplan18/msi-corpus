@@ -14,7 +14,8 @@ primary_themes:
 - Immigration enforcement
 - accountability_of_power
 - Political accountability
-topic_tags: []
+topic_tags:
+  - politics
 storyline_nexus: []
 geographic_location: Minneapolis, Minnesota, United States
 floor_values_engaged:

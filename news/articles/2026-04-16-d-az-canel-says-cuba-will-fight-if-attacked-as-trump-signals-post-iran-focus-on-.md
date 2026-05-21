@@ -18,7 +18,13 @@ primary_themes:
 - energy blockade
 - Latin America policy
 - Cuban Revolution anniversary
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "artificial intelligence"
+  - "conflict, war and peace"
+  - "economy, business and finance"
+  - "energy and resource"
+  - government
 storyline_nexus: []
 geographic_location: Havana, Cuba
 floor_values_engaged:

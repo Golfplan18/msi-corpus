@@ -10,9 +10,7 @@ primary_themes:
 - immigration policy
 - visa processing
 - public charge rule
-topic_tags:
-  - "human interest"
-  - "human migration"
+topic_tags: []
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

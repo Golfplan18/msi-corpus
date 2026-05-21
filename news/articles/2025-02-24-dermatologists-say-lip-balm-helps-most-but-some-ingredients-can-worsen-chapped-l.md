@@ -14,8 +14,12 @@ primary_themes:
 - consumer health
 - winter wellness
 topic_tags:
-  - "health"
-  - "health treatment and procedure"
+  - "artificial intelligence"
+  - "disease and condition"
+  - economy
+  - "economy, business and finance"
+  - government
+  - "government policy"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

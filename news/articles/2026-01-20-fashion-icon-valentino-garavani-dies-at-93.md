@@ -16,7 +16,8 @@ primary_themes:
 - fashion and design
 - cultural legacy
 - couture tradition
-topic_tags: []
+topic_tags:
+  - "arts, culture, entertainment and media"
 storyline_nexus: []
 geographic_location: Rome, Italy; Paris, France
 floor_values_engaged:

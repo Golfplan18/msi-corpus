@@ -14,7 +14,11 @@ primary_themes:
 - fourth_amendment_rights
 - community_response
 - federal_state_jurisdiction
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "crime, law and justice"
+  - trial
 storyline_nexus: []
 geographic_location: Minneapolis, Minnesota
 floor_values_engaged:

@@ -13,7 +13,8 @@ primary_themes:
 - psychiatric care expansion
 - regional health equity
 - surgical capacity
-topic_tags: []
+topic_tags:
+  - health
 storyline_nexus: []
 geographic_location: Lansing, Michigan
 floor_values_engaged:

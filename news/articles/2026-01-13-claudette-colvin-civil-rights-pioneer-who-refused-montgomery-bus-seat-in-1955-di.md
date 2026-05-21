@@ -16,9 +16,12 @@ primary_themes:
 - racial justice
 - American history
 topic_tags:
-  - "politics"
-  - "crime, law and justice"
   - "civil rights"
+  - "crime, law and justice"
+  - government
+  - "government policy"
+  - politics
+  - weather
 storyline_nexus: []
 geographic_location: Montgomery, Alabama, United States
 floor_values_engaged:

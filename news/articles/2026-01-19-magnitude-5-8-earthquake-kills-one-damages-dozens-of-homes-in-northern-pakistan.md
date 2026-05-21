@@ -15,7 +15,9 @@ primary_themes:
 - Pakistan
 - South Asia
 - landslides
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: northern Pakistan
 floor_values_engaged:

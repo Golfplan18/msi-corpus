@@ -11,7 +11,13 @@ primary_themes:
 - police use of force
 - animal control
 - use of force review
-topic_tags: []
+topic_tags:
+  - "disaster, accident and emergency incident"
+  - fire
+  - "human migration"
+  - "international relations"
+  - "mass media"
+  - "natural disaster"
 storyline_nexus: []
 geographic_location: Rockaway Beach, New York City, New York, United States
 floor_values_engaged:

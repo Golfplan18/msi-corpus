@@ -16,7 +16,13 @@ primary_themes:
 - Iran-US relations
 - Regional conflict
 - Sanctions and international relations
-topic_tags: []
+topic_tags:
+  - "civil unrest"
+  - "conflict, war and peace"
+  - "crime, law and justice"
+  - "disaster, accident and emergency incident"
+  - "international relations"
+  - "political dissent"
 storyline_nexus: []
 geographic_location: Iran, Middle East, Geneva
 floor_values_engaged:

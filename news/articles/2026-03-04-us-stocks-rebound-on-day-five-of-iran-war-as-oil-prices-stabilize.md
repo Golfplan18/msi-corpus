@@ -24,7 +24,12 @@ primary_themes:
 - economic indicators
 - Federal Reserve
 - global markets
-topic_tags: []
+topic_tags:
+  - "economy, business and finance"
+  - "market and exchange"
+  - "monetary policy"
+  - "conflict, war and peace"
+  - "armed conflict"
 storyline_nexus: []
 geographic_location: New York, NY / International
 floor_values_engaged:

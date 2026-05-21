@@ -17,7 +17,12 @@ primary_themes:
 - Israeli-Palestinian conflict
 - Iran war spillover effects
 - emergency access restrictions
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - banking
+  - "conflict, war and peace"
+  - "disaster, accident and emergency incident"
+  - "economy, business and finance"
 storyline_nexus: []
 geographic_location: Khirbet Abu Falah, West Bank
 floor_values_engaged:

@@ -20,7 +20,9 @@ primary_themes:
 - stagflation
 - labor market
 - Federal Reserve policy
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: United States; Middle East
 floor_values_engaged:

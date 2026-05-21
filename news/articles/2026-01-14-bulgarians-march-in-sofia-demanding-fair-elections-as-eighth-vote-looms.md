@@ -18,8 +18,12 @@ primary_themes:
 - democratic_integrity
 - eurozone
 topic_tags:
+  - "armed conflict"
+  - "artificial intelligence"
+  - "conflict, war and peace"
+  - "economy, business and finance"
   - election
-  - politics
+  - government
 storyline_nexus: []
 geographic_location: Sofia, Bulgaria
 floor_values_engaged:

@@ -12,7 +12,12 @@ primary_themes:
 - prosecutorial misconduct
 - criminal justice
 - law enforcement accountability
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - discrimination
+  - "law enforcement"
+  - society
+  - trial
 storyline_nexus: []
 geographic_location: Atlanta, Georgia, United States
 floor_values_engaged:

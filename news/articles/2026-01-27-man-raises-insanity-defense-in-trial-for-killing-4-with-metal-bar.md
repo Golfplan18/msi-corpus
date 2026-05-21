@@ -18,7 +18,12 @@ primary_themes:
 - mental health
 - violence
 - legal precedent
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - crime
+  - "crime, law and justice"
+  - health
+  - "science and technology"
 storyline_nexus: []
 geographic_location: New York City
 floor_values_engaged:

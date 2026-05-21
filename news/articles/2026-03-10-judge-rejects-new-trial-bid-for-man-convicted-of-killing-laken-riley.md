@@ -15,7 +15,11 @@ primary_themes:
 - post-conviction proceedings
 - immigration
 - DNA evidence
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - education
+  - "higher education"
+  - trial
 storyline_nexus: []
 geographic_location: Athens, Georgia, United States
 floor_values_engaged:

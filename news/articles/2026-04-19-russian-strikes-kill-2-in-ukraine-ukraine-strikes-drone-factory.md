@@ -21,7 +21,13 @@ primary_themes:
 - military_conflict
 - drone_warfare
 - international_relations
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "artificial intelligence"
+  - "conflict, war and peace"
+  - crime
+  - "crime, law and justice"
+  - "disaster, accident and emergency incident"
 storyline_nexus: []
 geographic_location: Ukraine, Russia (border regions and southwestern Russia)
 floor_values_engaged:

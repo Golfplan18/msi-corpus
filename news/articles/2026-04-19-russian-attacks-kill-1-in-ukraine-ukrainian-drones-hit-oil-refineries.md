@@ -24,7 +24,13 @@ primary_themes:
 - oil infrastructure
 - air defense
 - sanctions policy
-topic_tags: []
+topic_tags:
+  - politics
+  - "armed conflict"
+  - society
+  - "government policy"
+  - "economy, business and finance"
+  - "construction and property"
 storyline_nexus: []
 geographic_location: Russia, Ukraine
 floor_values_engaged:

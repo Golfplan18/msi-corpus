@@ -21,7 +21,13 @@ primary_themes:
 - Supreme Court decision
 - emergency powers
 - international commerce
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - government
+  - "government policy"
+  - "law enforcement"
+  - "political dissent"
+  - trial
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

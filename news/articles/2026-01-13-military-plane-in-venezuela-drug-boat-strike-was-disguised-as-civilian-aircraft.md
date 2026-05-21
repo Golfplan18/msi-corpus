@@ -22,12 +22,12 @@ primary_themes:
 - war powers
 - drug enforcement
 topic_tags:
-  - "science and technology"
-  - "conflict, war and peace"
-  - "armed conflict"
-  - "health"
-  - "labour"
-  - "labour dispute"
+  - crime
+  - "crime, law and justice"
+  - "disaster, accident and emergency incident"
+  - "human migration"
+  - "international relations"
+  - "political process"
 storyline_nexus: []
 geographic_location: Washington, D.C. / Venezuela
 floor_values_engaged:

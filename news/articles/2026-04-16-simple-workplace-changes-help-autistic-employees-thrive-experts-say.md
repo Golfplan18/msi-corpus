@@ -19,7 +19,11 @@ primary_themes:
 - autism spectrum disorder
 - workplace accommodations
 - employee wellness
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "disaster, accident and emergency incident"
+  - fire
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

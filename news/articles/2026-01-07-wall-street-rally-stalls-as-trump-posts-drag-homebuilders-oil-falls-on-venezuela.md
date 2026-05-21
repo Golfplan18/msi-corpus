@@ -21,9 +21,8 @@ primary_themes:
 - housing policy
 - Federal Reserve
 topic_tags:
-  - politics
-  - "energy and resource"
   - "economy, business and finance"
+  - "energy and resource"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

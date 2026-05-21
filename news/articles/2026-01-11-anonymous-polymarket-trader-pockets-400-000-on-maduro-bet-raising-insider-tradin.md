@@ -20,7 +20,13 @@ primary_themes:
 - insider trading
 - CFTC oversight
 - Venezuela
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - government
+  - "government policy"
+  - "international relations"
+  - "political dissent"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

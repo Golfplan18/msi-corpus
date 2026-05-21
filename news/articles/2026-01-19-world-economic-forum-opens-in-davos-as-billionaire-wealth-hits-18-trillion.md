@@ -22,7 +22,13 @@ primary_themes:
 - institutional trust
 - geopolitical tensions
 - billionaire wealth concentration
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "economy, business and finance"
+  - government
+  - politics
+  - "science and technology"
+  - society
 storyline_nexus: []
 geographic_location: Davos, Switzerland
 floor_values_engaged:

@@ -16,7 +16,6 @@ primary_themes:
 - human rights
 - US-Venezuela relations
 topic_tags:
-  - "conflict, war and peace"
   - politics
 storyline_nexus: []
 geographic_location: Caracas, Venezuela

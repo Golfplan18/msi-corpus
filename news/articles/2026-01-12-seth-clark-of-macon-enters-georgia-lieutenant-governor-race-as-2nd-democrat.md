@@ -14,7 +14,10 @@ primary_themes:
 - Georgia politics
 - lieutenant governor race
 - Democratic Party
-topic_tags: []
+topic_tags:
+  - "politics"
+  - "election"
+  - "political process"
 storyline_nexus: []
 geographic_location: Georgia, United States
 floor_values_engaged:

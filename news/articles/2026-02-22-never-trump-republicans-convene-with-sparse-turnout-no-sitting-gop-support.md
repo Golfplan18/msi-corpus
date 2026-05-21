@@ -17,7 +17,13 @@ primary_themes:
 - Trump opposition
 - 2026 midterm elections
 - Political movement
-topic_tags: []
+topic_tags:
+  - politics
+  - election
+  - politics
+  - "government policy"
+  - "science and technology"
+  - "artificial intelligence"
 storyline_nexus: []
 geographic_location: National Harbor, Maryland, United States
 floor_values_engaged:

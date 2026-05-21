@@ -16,7 +16,9 @@ primary_themes:
 - Redistricting
 - Primary elections
 - Presidential influence
-topic_tags: []
+topic_tags:
+  - election
+  - politics
 storyline_nexus: []
 geographic_location: Indiana, United States
 floor_values_engaged:

@@ -18,7 +18,9 @@ primary_themes:
 - drug trafficking cooperation
 - rule of law
 - democratic institutions
-topic_tags: []
+topic_tags:
+  - politics
+  - "international relations"
 storyline_nexus: []
 geographic_location: Guatemala City, Guatemala
 floor_values_engaged:

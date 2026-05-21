@@ -19,7 +19,8 @@ primary_themes:
 - industry_innovation
 - gender_equity
 - labor_participation
-topic_tags: []
+topic_tags:
+  - labour
 storyline_nexus: []
 geographic_location: United States (Vermont, Kentucky)
 floor_values_engaged:

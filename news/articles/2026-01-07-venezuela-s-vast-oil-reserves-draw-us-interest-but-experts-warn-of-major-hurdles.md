@@ -20,8 +20,7 @@ primary_themes:
 - global oil supply
 - energy investment
 topic_tags:
-  - politics
-  - "energy and resource"
+  - "conflict, war and peace"
   - "economy, business and finance"
 storyline_nexus: []
 geographic_location: Venezuela / United States

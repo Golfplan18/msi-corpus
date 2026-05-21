@@ -15,7 +15,11 @@ primary_themes:
 - search and rescue
 - coast guard operations
 - human_life_and_dignity
-topic_tags: []
+topic_tags:
+  - "accident and emergency incident"
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "disaster, accident and emergency incident"
 storyline_nexus: []
 geographic_location: Astoria, Oregon / Washington coast
 floor_values_engaged:

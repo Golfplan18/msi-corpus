@@ -14,7 +14,11 @@ primary_themes:
 - missile strike
 - drone warfare
 - energy infrastructure attacks
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "crime"
+  - "crime, law and justice"
 storyline_nexus: []
 geographic_location: Kharkiv, Ukraine
 floor_values_engaged:

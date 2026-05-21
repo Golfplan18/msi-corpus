@@ -12,7 +12,13 @@ primary_themes:
 - natural_disaster
 - emergency_response
 - international_cooperation
-topic_tags: []
+topic_tags:
+  - crime
+  - "crime, law and justice"
+  - "disaster, accident and emergency incident"
+  - fire
+  - "international relations"
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: Biobío Region, Chile
 floor_values_engaged:

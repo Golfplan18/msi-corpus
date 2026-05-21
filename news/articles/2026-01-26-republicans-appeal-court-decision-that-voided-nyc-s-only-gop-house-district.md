@@ -16,7 +16,9 @@ primary_themes:
 - Redistricting
 - Elections
 - Voting Rights
-topic_tags: []
+topic_tags:
+  - politics
+  - election
 storyline_nexus: []
 geographic_location: New York, United States
 floor_values_engaged:

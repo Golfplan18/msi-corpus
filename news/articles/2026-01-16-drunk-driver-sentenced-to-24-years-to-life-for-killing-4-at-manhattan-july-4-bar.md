@@ -19,7 +19,13 @@ primary_themes:
 - criminal sentencing
 - vehicular homicide
 - victim impact
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - crime
+  - "crime, law and justice"
+  - government
+  - "government policy"
+  - "human interest"
 storyline_nexus: []
 geographic_location: Manhattan, New York City, New York, United States
 floor_values_engaged:

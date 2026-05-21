@@ -14,7 +14,11 @@ primary_themes:
 - corruption investigation
 - China governance
 - power consolidation
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - corruption
+  - "crime, law and justice"
 storyline_nexus: []
 geographic_location: China
 floor_values_engaged:

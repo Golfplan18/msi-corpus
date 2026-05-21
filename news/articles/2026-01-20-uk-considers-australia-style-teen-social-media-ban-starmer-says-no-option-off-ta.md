@@ -13,7 +13,13 @@ primary_themes:
 - child online safety
 - technology policy
 - children's digital rights
-topic_tags: []
+topic_tags:
+  - politics
+  - government
+  - "science and technology"
+  - "arts, culture, entertainment and media"
+  - "social media"
+  - "arts and entertainment"
 storyline_nexus: []
 geographic_location: United Kingdom
 floor_values_engaged:

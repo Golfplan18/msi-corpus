@@ -14,7 +14,13 @@ primary_themes:
 - US military intervention
 - political transition
 - civilian casualties
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "crime, law and justice"
+  - "human interest"
+  - "international relations"
+  - judiciary
 storyline_nexus: []
 geographic_location: Caracas, Venezuela
 floor_values_engaged:

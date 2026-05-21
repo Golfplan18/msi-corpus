@@ -13,7 +13,13 @@ primary_themes:
 - immigration enforcement
 - federal-state conflict
 - use of force
-topic_tags: []
+topic_tags:
+  - politics
+  - "human interest"
+  - "government policy"
+  - "economy, business and finance"
+  - "human migration"
+  - labour
 storyline_nexus: []
 geographic_location: Minneapolis, Minnesota, United States
 floor_values_engaged:

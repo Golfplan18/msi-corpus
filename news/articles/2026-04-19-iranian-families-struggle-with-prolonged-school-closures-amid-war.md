@@ -19,7 +19,13 @@ primary_themes:
 - childcare
 - displacement
 - family_disruption
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "arts, culture, entertainment and media"
+  - fire
+  - "international relations"
+  - "natural disaster"
+  - "peace process"
 storyline_nexus: []
 geographic_location: Iran (Tehran)
 floor_values_engaged:

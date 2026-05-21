@@ -15,7 +15,9 @@ primary_themes:
 - income tax elimination
 - fiscal policy
 - Republican legislative agenda
-topic_tags: []
+topic_tags:
+  - government
+  - politics
 storyline_nexus: []
 geographic_location: Georgia, United States
 floor_values_engaged:

@@ -14,7 +14,8 @@ primary_themes:
 - ballot initiatives
 - corporate money in politics
 - dark money
-topic_tags: []
+topic_tags:
+  - politics
 storyline_nexus: []
 geographic_location: Montana, United States
 floor_values_engaged:

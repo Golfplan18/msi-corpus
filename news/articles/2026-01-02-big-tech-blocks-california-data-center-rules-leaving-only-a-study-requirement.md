@@ -28,10 +28,10 @@ primary_themes:
 - accountability_of_power
 - electricity grid costs
 topic_tags:
-  - "politics"
-  - "government policy"
+  - "artificial intelligence"
   - "economy, business and finance"
-  - "computing and information technology"
+  - "energy and resource"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: California, United States
 floor_values_engaged:

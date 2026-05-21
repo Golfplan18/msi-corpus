@@ -17,7 +17,9 @@ primary_themes:
 - Targeting of health infrastructure
 - Civilian casualties in war
 - International humanitarian law
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - "armed conflict"
 storyline_nexus: []
 geographic_location: Southern Lebanon (Nabatiyeh, Mayfadoun)
 floor_values_engaged:

@@ -19,11 +19,12 @@ primary_themes:
 - China-Canada relations
 - strategic autonomy
 topic_tags:
-  - "science and technology"
-  - "politics"
-  - "government"
+  - "arts, culture, entertainment and media"
+  - "conflict, war and peace"
   - "economy, business and finance"
-  - "market and exchange"
+  - "international relations"
+  - "international trade"
+  - "mass media"
 storyline_nexus: []
 geographic_location: Beijing, China
 floor_values_engaged:

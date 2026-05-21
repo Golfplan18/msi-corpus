@@ -17,7 +17,13 @@ primary_themes:
 - peacekeeping
 - middle_east_war
 - ceasefire
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - "disaster, accident and emergency incident"
+  - fire
+  - "peace process"
+  - sport
+  - "sport event"
 storyline_nexus: []
 geographic_location: Lebanon (Ghandouriyeh)
 floor_values_engaged:

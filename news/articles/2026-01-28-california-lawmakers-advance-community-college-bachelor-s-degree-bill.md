@@ -12,7 +12,8 @@ primary_themes:
 - higher education access
 - state budget and fiscal policy
 - education regulation
-topic_tags: []
+topic_tags:
+  - education
 storyline_nexus: []
 geographic_location: California, United States
 floor_values_engaged:

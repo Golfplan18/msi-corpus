@@ -13,7 +13,11 @@ primary_themes:
 - Ukraine war
 - diplomatic solutions
 - refugee displacement
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - "human interest"
+  - "peace process"
+  - "human migration"
 storyline_nexus: []
 geographic_location: Ukraine, Kyiv
 floor_values_engaged:

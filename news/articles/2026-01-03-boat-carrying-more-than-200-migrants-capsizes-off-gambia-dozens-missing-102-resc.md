@@ -13,10 +13,12 @@ primary_themes:
 - West Africa
 - irregular migration
 topic_tags:
+  - banking
   - "disaster, accident and emergency incident"
-  - "transportation accident and incident"
+  - "economy, business and finance"
   - "human interest"
   - "human migration"
+  - politics
 storyline_nexus: []
 geographic_location: Jinack, North Bank region, Gambia
 floor_values_engaged:

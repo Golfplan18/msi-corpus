@@ -17,7 +17,11 @@ primary_themes:
 - extreme cold
 - National Weather Service warnings
 - Southern winter precipitation
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - "disaster, accident and emergency incident"
+  - weather
+  - "weather warning"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

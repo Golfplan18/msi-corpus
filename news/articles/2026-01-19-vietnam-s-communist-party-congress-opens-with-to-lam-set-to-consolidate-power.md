@@ -17,7 +17,9 @@ primary_themes:
 - Southeast Asia
 - single-party governance
 - Vietnam 2045 development goal
-topic_tags: []
+topic_tags:
+  - politics
+  - "government policy"
 storyline_nexus: []
 geographic_location: Hanoi, Vietnam
 floor_values_engaged:

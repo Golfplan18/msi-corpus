@@ -25,7 +25,13 @@ primary_themes:
 - Ramadan
 - First Amendment litigation
 - pastoral care
-topic_tags: []
+topic_tags:
+  - "arts, culture, entertainment and media"
+  - "belief systems"
+  - "crime"
+  - "crime, law and justice"
+  - "mass media"
+  - "religion"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

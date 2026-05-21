@@ -11,7 +11,11 @@ primary_themes:
 - aviation safety
 - fatal accident
 - emergency response
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "disaster, accident and emergency incident"
+  - sport
+  - "transportation accident and incident"
 storyline_nexus: []
 geographic_location: Provincetown, Massachusetts, United States
 floor_values_engaged:

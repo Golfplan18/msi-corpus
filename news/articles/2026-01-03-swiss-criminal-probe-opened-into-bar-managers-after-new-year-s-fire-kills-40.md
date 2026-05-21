@@ -18,7 +18,11 @@ primary_themes:
 - criminal investigation
 - public safety
 - mass casualty event
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - disaster
+  - "disaster, accident and emergency incident"
+  - fire
 storyline_nexus: []
 geographic_location: Crans-Montana, Valais, Switzerland
 floor_values_engaged:

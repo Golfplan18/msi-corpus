@@ -15,7 +15,11 @@ primary_themes:
 - evidence integrity
 - media and fair trial
 - sentencing law
-topic_tags: []
+topic_tags:
+  - "human migration"
+  - "crime, law and justice"
+  - "human interest"
+  - trial
 storyline_nexus: []
 geographic_location: Derry, New Hampshire; Bedford Hills, New York
 floor_values_engaged:

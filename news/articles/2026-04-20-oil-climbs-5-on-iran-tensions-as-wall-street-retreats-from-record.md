@@ -15,7 +15,8 @@ primary_themes:
 - financial markets
 - energy markets
 - geopolitics
-topic_tags: []
+topic_tags:
+  - "economy, business and finance"
 storyline_nexus: []
 geographic_location: International - Global financial markets
 floor_values_engaged:

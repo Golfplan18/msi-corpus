@@ -15,7 +15,12 @@ primary_themes:
 - Trade policy
 - National security
 - NATO alliance
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "economy, business and finance"
+  - "international trade"
+  - politics
 storyline_nexus: []
 geographic_location: International (Davos, Switzerland; Greenland; Denmark; NATO member states)
 floor_values_engaged:

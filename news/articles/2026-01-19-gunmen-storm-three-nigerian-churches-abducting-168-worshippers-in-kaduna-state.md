@@ -16,7 +16,13 @@ primary_themes:
 - Nigeria security
 - violence against religious communities
 - northwest Nigeria insecurity
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "crime, law and justice"
+  - "disaster, accident and emergency incident"
+  - government
+  - "government policy"
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: Kurmin Wali, Kajuru, Kaduna state, Nigeria
 floor_values_engaged:

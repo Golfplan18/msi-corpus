@@ -17,7 +17,12 @@ primary_themes:
 - presidential appointments
 - central bank independence
 - Senate confirmation
-topic_tags: []
+topic_tags:
+  - "arts, culture, entertainment and media"
+  - "conflict, war and peace"
+  - government
+  - "mass media"
+  - politics
 storyline_nexus: []
 geographic_location: Washington, D.C.
 floor_values_engaged:

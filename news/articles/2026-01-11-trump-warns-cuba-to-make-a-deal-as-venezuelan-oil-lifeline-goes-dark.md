@@ -17,7 +17,13 @@ primary_themes:
 - Venezuelan oil
 - economic sanctions
 - Latin America
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - crime
+  - "crime, law and justice"
+  - "international relations"
+  - "law enforcement"
+  - "political dissent"
 storyline_nexus: []
 geographic_location: Cuba; Venezuela; West Palm Beach, Florida, United States
 floor_values_engaged:

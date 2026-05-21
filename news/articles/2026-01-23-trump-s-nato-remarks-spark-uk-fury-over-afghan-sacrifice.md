@@ -17,7 +17,11 @@ primary_themes:
 - military sacrifice and commemoration
 - U.S. foreign policy
 - political leadership
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "international relations"
+  - politics
 storyline_nexus: []
 geographic_location: International (United Kingdom, Denmark, Switzerland, Afghanistan)
 floor_values_engaged:

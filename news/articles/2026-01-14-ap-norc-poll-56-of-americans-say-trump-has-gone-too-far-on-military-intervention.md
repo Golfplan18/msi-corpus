@@ -17,8 +17,12 @@ primary_themes:
 - Venezuela
 - partisan divide
 topic_tags:
+  - "armed conflict"
   - "conflict, war and peace"
-  - "international military intervention"
+  - "international relations"
+  - "political process"
+  - politics
+  - "science and technology"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

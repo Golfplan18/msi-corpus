@@ -15,7 +15,10 @@ primary_themes:
 - law enforcement
 - international drug trafficking
 - criminal justice
-topic_tags: []
+topic_tags:
+  - crime
+  - "crime, law and justice"
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: Mexico, United States
 floor_values_engaged:

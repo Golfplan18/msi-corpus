@@ -16,7 +16,11 @@ primary_themes:
 - alliance burden-sharing
 - great power competition
 - defense policy
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - politics
+  - "government policy"
+  - "international relations"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

@@ -13,7 +13,10 @@ primary_themes:
 - state_policy
 - corporate_relocation
 - charitable_funding
-topic_tags: []
+topic_tags:
+  - politics
+  - government
+  - "economy, business and finance"
 storyline_nexus: []
 geographic_location: Rhode Island, United States
 floor_values_engaged:

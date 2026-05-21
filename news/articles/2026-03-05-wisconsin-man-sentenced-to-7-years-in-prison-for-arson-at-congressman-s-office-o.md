@@ -15,7 +15,11 @@ primary_themes:
 - TikTok legislation
 - criminal sentencing
 - mental health
-topic_tags: []
+topic_tags:
+  - "crime"
+  - "crime, law and justice"
+  - "government policy"
+  - "politics"
 storyline_nexus: []
 geographic_location: Fond du Lac, Wisconsin
 floor_values_engaged:

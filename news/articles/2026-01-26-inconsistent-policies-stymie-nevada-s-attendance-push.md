@@ -14,7 +14,10 @@ primary_themes:
 - education
 - school policy
 - student attendance
-topic_tags: []
+topic_tags:
+  - education
+  - "education policy"
+  - school
 storyline_nexus: []
 geographic_location: Nevada, United States (Clark County primary)
 floor_values_engaged:

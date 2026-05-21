@@ -19,10 +19,8 @@ primary_themes:
 - winter preparedness
 - climate and environment
 topic_tags:
-  - "economy, business and finance"
-  - "energy and resource"
+  - "climate change"
   - environment
-  - weather
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

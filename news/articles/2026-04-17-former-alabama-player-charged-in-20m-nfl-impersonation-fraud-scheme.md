@@ -13,7 +13,11 @@ primary_themes:
 - fraud
 - identity theft
 - criminal justice
-topic_tags: []
+topic_tags:
+  - education
+  - "higher education"
+  - sport
+  - "sport event"
 storyline_nexus: []
 geographic_location: Atlanta, Georgia, United States
 floor_values_engaged:

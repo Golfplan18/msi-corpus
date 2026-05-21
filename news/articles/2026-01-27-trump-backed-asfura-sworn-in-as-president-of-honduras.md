@@ -14,7 +14,13 @@ primary_themes:
 - international news
 - Latin America
 - political transitions
-topic_tags: []
+topic_tags:
+  - "business information"
+  - "crime, law and justice"
+  - "economy, business and finance"
+  - election
+  - "international relations"
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: Honduras
 floor_values_engaged:

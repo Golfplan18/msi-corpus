@@ -21,7 +21,11 @@ primary_themes:
 - Constitutional Law
 - Government Policy
 - Fourth Amendment
-topic_tags: []
+topic_tags:
+  - politics
+  - "government policy"
+  - "crime, law and justice"
+  - law
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

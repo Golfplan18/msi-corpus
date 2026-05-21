@@ -14,7 +14,10 @@ primary_themes:
 - youth engagement
 - modern spirituality
 - catholicism
-topic_tags: []
+topic_tags:
+  - "arts, culture, entertainment and media"
+  - music
+  - religion
 storyline_nexus: []
 geographic_location: Buenos Aires, Argentina
 floor_values_engaged:

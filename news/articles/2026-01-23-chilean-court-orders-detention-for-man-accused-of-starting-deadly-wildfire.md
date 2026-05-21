@@ -14,7 +14,11 @@ primary_themes:
 - criminal_justice
 - disaster_response
 - natural_disaster
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - judiciary
+  - "disaster, accident and emergency incident"
+  - fire
 storyline_nexus: []
 geographic_location: Bio Bio region, Chile (approximately 500 km south of Santiago)
 floor_values_engaged:

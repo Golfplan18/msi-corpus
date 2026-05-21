@@ -17,7 +17,13 @@ primary_themes:
 - personal finance
 - 401(k) contributions
 - SALT deduction
-topic_tags: []
+topic_tags:
+  - politics
+  - government
+  - "economy, business and finance"
+  - banking
+  - "arts, culture, entertainment and media"
+  - "arts and entertainment"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

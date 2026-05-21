@@ -13,7 +13,10 @@ primary_themes:
 - corporate_transparency
 - regulatory_oversight
 - free_speech
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - law
+  - prosecution
 storyline_nexus: []
 geographic_location: Georgia, United States
 floor_values_engaged:

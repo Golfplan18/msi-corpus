@@ -21,7 +21,11 @@ primary_themes:
 - social media opposition research
 - Democratic primary results
 - Republican electoral strategy
-topic_tags: []
+topic_tags:
+  - "arts, culture, entertainment and media"
+  - "government policy"
+  - "mass media"
+  - "politics"
 storyline_nexus: []
 geographic_location: Texas, United States
 floor_values_engaged:

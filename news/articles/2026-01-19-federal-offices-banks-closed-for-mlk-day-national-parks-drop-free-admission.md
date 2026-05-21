@@ -12,7 +12,13 @@ primary_themes:
 - federal holiday observance
 - national park admission policy
 - state-federal policy conflict
-topic_tags: []
+topic_tags:
+  - "economy, business and finance"
+  - education
+  - "market and exchange"
+  - school
+  - "science and technology"
+  - sport
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

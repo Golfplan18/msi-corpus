@@ -19,7 +19,11 @@ primary_themes:
 - natural_gas_dependence
 - renewable_energy_policy
 - aging_infrastructure
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - terrorism
+  - "science and technology"
+  - "artificial intelligence"
 storyline_nexus: []
 geographic_location: Maine, United States
 floor_values_engaged:

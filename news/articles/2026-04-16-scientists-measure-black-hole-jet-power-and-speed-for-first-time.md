@@ -15,7 +15,12 @@ primary_themes:
 - cosmic jets
 - scientific measurement
 - astrophysics
-topic_tags: []
+topic_tags:
+  - education
+  - "higher education"
+  - "lifestyle and leisure"
+  - "science and technology"
+  - travel
 storyline_nexus: []
 geographic_location: International
 floor_values_engaged:

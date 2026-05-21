@@ -18,8 +18,11 @@ primary_themes:
 - negligence litigation
 - utility accountability
 topic_tags:
-  - "disaster, accident and emergency incident"
-  - "accident and emergency incident"
+  - "artificial intelligence"
+  - "crime, law and justice"
+  - "law enforcement"
+  - "science and technology"
+  - trial
 storyline_nexus: []
 geographic_location: Bristol, Pennsylvania
 floor_values_engaged:

@@ -13,7 +13,13 @@ primary_themes:
 - economic_protest
 - inflation
 - international_sanctions
-topic_tags: []
+topic_tags:
+  - banking
+  - "crime, law and justice"
+  - "economy, business and finance"
+  - "international relations"
+  - "law enforcement"
+  - politics
 storyline_nexus: []
 geographic_location: Tehran, Iran
 floor_values_engaged:

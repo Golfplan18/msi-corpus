@@ -22,7 +22,8 @@ primary_themes:
 - tourism
 - media-rights
 - economic-impact
-topic_tags: []
+topic_tags:
+  - sport
 storyline_nexus: []
 geographic_location: Las Vegas, Clark County, Nevada, United States
 floor_values_engaged:

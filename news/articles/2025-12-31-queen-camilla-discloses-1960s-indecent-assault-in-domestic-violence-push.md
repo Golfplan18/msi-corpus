@@ -15,7 +15,10 @@ primary_themes:
 - violence against women
 - British royal family
 - sexual assault disclosure
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "epidemic and pandemic"
+  - health
 storyline_nexus: []
 geographic_location: United Kingdom
 floor_values_engaged:

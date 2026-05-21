@@ -13,7 +13,10 @@ primary_themes:
 - immigration_policy
 - travel_restrictions
 - student_visas
-topic_tags: []
+topic_tags:
+  - education
+  - "human interest"
+  - "human migration"
 storyline_nexus: []
 geographic_location: 'United States (Michigan); secondary: Singapore, Myanmar, Canada, Australia'
 floor_values_engaged:

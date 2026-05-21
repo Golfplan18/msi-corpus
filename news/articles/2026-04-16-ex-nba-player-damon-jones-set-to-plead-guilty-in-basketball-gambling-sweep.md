@@ -17,7 +17,12 @@ primary_themes:
 - NBA corruption
 - sports betting
 - wire fraud
-topic_tags: []
+topic_tags:
+  - corruption
+  - crime
+  - "crime, law and justice"
+  - sport
+  - "sport event"
 storyline_nexus: []
 geographic_location: Brooklyn, New York
 floor_values_engaged:

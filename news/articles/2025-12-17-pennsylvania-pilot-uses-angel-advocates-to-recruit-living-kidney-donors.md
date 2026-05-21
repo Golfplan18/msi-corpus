@@ -20,10 +20,12 @@ primary_themes:
 - healthcare innovation
 - volunteerism
 topic_tags:
-  - "health"
-  - "health treatment and procedure"
-  - "human interest"
-  - "achievement"
+  - education
+  - government
+  - "government policy"
+  - health
+  - "higher education"
+  - politics
 storyline_nexus: []
 geographic_location: Harrisburg, Pennsylvania, United States
 floor_values_engaged:

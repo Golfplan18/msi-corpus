@@ -13,7 +13,12 @@ primary_themes:
 - press freedom
 - national security
 - government accountability
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "arts, culture, entertainment and media"
+  - "law enforcement"
+  - prosecution
+  - "mass media"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

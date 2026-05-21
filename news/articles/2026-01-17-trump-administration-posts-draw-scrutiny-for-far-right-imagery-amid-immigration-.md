@@ -19,7 +19,9 @@ primary_themes:
 - government communications
 - far-right symbolism
 - Trump administration
-topic_tags: []
+topic_tags:
+  - government
+  - politics
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

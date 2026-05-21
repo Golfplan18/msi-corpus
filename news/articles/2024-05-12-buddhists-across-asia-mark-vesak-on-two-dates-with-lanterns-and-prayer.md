@@ -21,9 +21,12 @@ primary_themes:
 - cultural observances
 - Asia
 topic_tags:
-  - religion
   - "belief systems"
-  - "human interest"
+  - crime
+  - "crime, law and justice"
+  - "law enforcement"
+  - religion
+  - "religious institution"
 storyline_nexus: []
 geographic_location: International
 floor_values_engaged:

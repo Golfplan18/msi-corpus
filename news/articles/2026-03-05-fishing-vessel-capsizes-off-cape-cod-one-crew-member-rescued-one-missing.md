@@ -15,7 +15,12 @@ primary_themes:
 - maritime safety
 - commercial fishing
 - search and rescue
-topic_tags: []
+topic_tags:
+  - "disaster, accident and emergency incident"
+  - "accident and emergency incident"
+  - "transportation accident and incident"
+  - "labour"
+  - "employment"
 storyline_nexus: []
 geographic_location: Provincetown, Massachusetts, United States
 floor_values_engaged:

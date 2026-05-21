@@ -14,6 +14,8 @@ primary_themes:
 - line-of-duty death
 - public safety
 topic_tags:
+  - politics
+  - government
   - "crime, law and justice"
   - "law enforcement"
 storyline_nexus: []

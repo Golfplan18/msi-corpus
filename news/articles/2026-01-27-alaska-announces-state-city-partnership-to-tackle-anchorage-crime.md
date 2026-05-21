@@ -14,7 +14,10 @@ primary_themes:
 - public safety
 - jurisdictional coordination
 - crime prosecution
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - prosecution
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: Anchorage, Alaska
 floor_values_engaged:

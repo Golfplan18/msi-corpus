@@ -17,7 +17,11 @@ primary_themes:
 - economic sanctions
 - tariffs
 - political unrest
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "economy, business and finance"
+  - "international trade"
+  - politics
 storyline_nexus: []
 geographic_location: Iran; Washington, D.C.
 floor_values_engaged:

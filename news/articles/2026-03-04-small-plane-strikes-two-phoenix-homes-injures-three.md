@@ -13,7 +13,10 @@ primary_themes:
 - general aviation safety
 - Phoenix
 - Arizona
-topic_tags: []
+topic_tags:
+  - "disaster, accident and emergency incident"
+  - fire
+  - education
 storyline_nexus: []
 geographic_location: Phoenix, Arizona, United States
 floor_values_engaged:

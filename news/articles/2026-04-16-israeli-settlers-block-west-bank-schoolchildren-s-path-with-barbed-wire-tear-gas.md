@@ -18,7 +18,13 @@ primary_themes:
 - Palestinian children and education
 - Iran war spillover
 - forced displacement
-topic_tags: []
+topic_tags:
+  - "civil unrest"
+  - "conflict, war and peace"
+  - "education policy"
+  - "international relations"
+  - "political dissent"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Umm al-Khair, West Bank, occupied Palestinian territories
 floor_values_engaged:

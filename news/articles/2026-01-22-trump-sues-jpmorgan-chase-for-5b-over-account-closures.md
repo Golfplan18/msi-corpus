@@ -13,7 +13,13 @@ primary_themes:
 - financial services
 - political tension
 - banking regulation
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "crime, law and justice"
+  - economy
+  - "economy, business and finance"
+  - government
+  - "government policy"
 storyline_nexus: []
 geographic_location: United States (Florida primary)
 floor_values_engaged:

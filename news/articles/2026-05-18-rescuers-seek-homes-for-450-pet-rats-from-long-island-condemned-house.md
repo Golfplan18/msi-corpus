@@ -13,7 +13,11 @@ primary_themes:
 - Animal welfare
 - Community rescue
 - Hoarding
-topic_tags: []
+topic_tags:
+  - "human interest"
+  - people
+  - society
+  - communities
 storyline_nexus: []
 geographic_location: Rocky Point, Long Island, New York, United States
 floor_values_engaged:

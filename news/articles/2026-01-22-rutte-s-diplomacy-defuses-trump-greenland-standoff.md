@@ -14,7 +14,11 @@ primary_themes:
 - NATO politics
 - U.S.-European relations
 - Arctic security
-topic_tags: []
+topic_tags:
+  - politics
+  - government
+  - "international relations"
+  - "economy, business and finance"
 storyline_nexus: []
 geographic_location: International (NATO, Switzerland, Netherlands, Denmark/Greenland, Hungary, Turkey)
 floor_values_engaged:

@@ -17,7 +17,13 @@ primary_themes:
 - criminal justice
 - school safety
 - Uvalde school shooting
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - crime
+  - "crime, law and justice"
+  - education
+  - school
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Uvalde, Texas / Corpus Christi, Texas
 floor_values_engaged:

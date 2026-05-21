@@ -17,7 +17,10 @@ primary_themes:
 - Infectious disease
 - Global health
 - Notable deaths
-topic_tags: []
+topic_tags:
+  - politics
+  - election
+  - health
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

@@ -14,7 +14,13 @@ primary_themes:
 - oil_markets
 - equity_markets
 - us_iran_tensions
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - economy
+  - "economy, business and finance"
+  - government
+  - "government policy"
+  - "international relations"
 storyline_nexus: []
 geographic_location: Global markets; US focus
 floor_values_engaged:

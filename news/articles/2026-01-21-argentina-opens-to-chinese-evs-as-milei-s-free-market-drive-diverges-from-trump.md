@@ -18,7 +18,13 @@ primary_themes:
 - Argentina_economy
 - US_China_trade_relations
 - Latin_America_politics
-topic_tags: []
+topic_tags:
+  - politics
+  - election
+  - government
+  - "economy, business and finance"
+  - "international trade"
+  - "market and exchange"
 storyline_nexus: []
 geographic_location: Zárate, Buenos Aires province, Argentina
 floor_values_engaged:

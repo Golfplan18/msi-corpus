@@ -18,7 +18,13 @@ primary_themes:
 - Gaza governance transition
 - Palestinian prisoner deaths
 - Middle East diplomacy
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "crime, law and justice"
+  - "disaster, accident and emergency incident"
+  - fire
+  - labour
 storyline_nexus: []
 geographic_location: Gaza Strip, Middle East
 floor_values_engaged:

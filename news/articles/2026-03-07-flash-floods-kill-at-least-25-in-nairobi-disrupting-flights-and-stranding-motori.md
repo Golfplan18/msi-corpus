@@ -19,7 +19,11 @@ primary_themes:
 - disaster response
 - infrastructure
 - Africa
-topic_tags: []
+topic_tags:
+  - "crime"
+  - "crime, law and justice"
+  - "disaster, accident and emergency incident"
+  - "natural disaster"
 storyline_nexus: []
 geographic_location: Nairobi, Kenya
 floor_values_engaged:

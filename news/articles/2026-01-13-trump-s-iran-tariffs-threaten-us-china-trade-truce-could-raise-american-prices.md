@@ -19,12 +19,12 @@ primary_themes:
 - diplomatic pressure
 - international trade
 topic_tags:
-  - "science and technology"
-  - "economy, business and finance"
-  - "human interest"
-  - "politics"
-  - "international relations"
+  - "arts, culture, entertainment and media"
   - "conflict, war and peace"
+  - "economy, business and finance"
+  - "international relations"
+  - "international trade"
+  - "mass media"
 storyline_nexus: []
 geographic_location: International — Washington D.C.; Tehran; Beijing; New Delhi
 floor_values_engaged:

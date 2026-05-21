@@ -20,7 +20,9 @@ primary_themes:
 - technology
 - courts
 - constitutional law
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: United States, Brazil
 floor_values_engaged:

@@ -12,7 +12,13 @@ primary_themes:
 - Capital punishment
 - Criminal justice
 - Government accountability
-topic_tags: []
+topic_tags:
+  - crime
+  - "crime, law and justice"
+  - "human migration"
+  - "international relations"
+  - "law enforcement"
+  - trial
 storyline_nexus: []
 geographic_location: Florida, United States
 floor_values_engaged:

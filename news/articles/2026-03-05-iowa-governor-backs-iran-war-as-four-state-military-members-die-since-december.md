@@ -19,7 +19,11 @@ primary_themes:
 - military casualties
 - Iowa
 - Kuwait drone strike
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - "armed conflict"
+  - "politics"
+  - "government"
 storyline_nexus: []
 geographic_location: Iowa, United States; Kuwait; Syria
 floor_values_engaged:

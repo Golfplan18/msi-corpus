@@ -19,7 +19,9 @@ primary_themes:
 - human spaceflight
 - NASA Artemis program
 - lunar mission
-topic_tags: []
+topic_tags:
+  - "science and technology"
+  - "space programme"
 storyline_nexus: []
 geographic_location: Cape Canaveral, Florida, United States
 floor_values_engaged:

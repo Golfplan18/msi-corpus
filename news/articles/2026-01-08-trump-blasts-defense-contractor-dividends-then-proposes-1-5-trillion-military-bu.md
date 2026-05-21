@@ -20,9 +20,12 @@ primary_themes:
 - stock markets
 - executive compensation
 topic_tags:
+  - "conflict, war and peace"
+  - government
+  - "international relations"
+  - "monetary policy"
+  - "political dissent"
   - politics
-  - "government policy"
-  - "economy, business and finance"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

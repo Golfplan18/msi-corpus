@@ -12,7 +12,11 @@ primary_themes:
 - healthcare
 - worker compensation
 - strikes
-topic_tags: []
+topic_tags:
+  - "science and technology"
+  - "artificial intelligence"
+  - labour
+  - "labour dispute"
 storyline_nexus: []
 geographic_location: California, Hawaii, United States
 floor_values_engaged:

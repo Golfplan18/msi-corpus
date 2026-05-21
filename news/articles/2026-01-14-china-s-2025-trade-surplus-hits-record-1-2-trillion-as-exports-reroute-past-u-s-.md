@@ -24,6 +24,7 @@ primary_themes:
 topic_tags:
   - "conflict, war and peace"
   - "economy, business and finance"
+  - "international trade"
 storyline_nexus: []
 geographic_location: China / International
 floor_values_engaged:

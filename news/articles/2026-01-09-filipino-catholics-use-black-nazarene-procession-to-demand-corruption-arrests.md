@@ -17,7 +17,13 @@ primary_themes:
 - protest
 - Philippines politics
 - Catholic Church
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - corruption
+  - "crime, law and justice"
+  - "political dissent"
+  - politics
+  - religion
 storyline_nexus: []
 geographic_location: Manila, Philippines
 floor_values_engaged:

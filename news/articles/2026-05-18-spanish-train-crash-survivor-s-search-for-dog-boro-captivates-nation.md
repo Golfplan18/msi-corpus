@@ -20,7 +20,11 @@ primary_themes:
 - animal_welfare
 - transportation_disaster
 - public_response
-topic_tags: []
+topic_tags:
+  - "disaster, accident and emergency incident"
+  - "transportation accident and incident"
+  - "human interest"
+  - people
 storyline_nexus: []
 geographic_location: Spain (Málaga to Madrid rail route)
 floor_values_engaged:

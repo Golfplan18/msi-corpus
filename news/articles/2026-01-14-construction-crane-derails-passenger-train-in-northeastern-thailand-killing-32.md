@@ -18,9 +18,9 @@ primary_themes:
 - Belt and Road Initiative
 - contractor accountability
 topic_tags:
-  - "disaster, accident and emergency incident"
-  - sport
-  - "transportation accident and incident"
+  - "crime, law and justice"
+  - crime
+  - health
 storyline_nexus: []
 geographic_location: Nakhon Ratchasima, Thailand
 floor_values_engaged:

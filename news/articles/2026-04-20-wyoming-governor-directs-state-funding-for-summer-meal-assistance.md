@@ -20,7 +20,13 @@ primary_themes:
 - food insecurity
 - executive action
 - legislative conflict
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "crime, law and justice"
+  - education
+  - government
+  - "government policy"
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: Wyoming, United States
 floor_values_engaged:

@@ -17,9 +17,9 @@ primary_themes:
 - diagnosis
 - Epstein-Barr virus
 topic_tags:
-  - "health"
   - "disease and condition"
-  - "medical research"
+  - health
+  - "health treatment and procedure"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

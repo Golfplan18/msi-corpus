@@ -16,7 +16,9 @@ primary_themes:
 - consumerism
 - immigration
 - jubilee
-topic_tags: []
+topic_tags:
+  - religion
+  - "religious leader"
 storyline_nexus: []
 geographic_location: Vatican City
 floor_values_engaged:

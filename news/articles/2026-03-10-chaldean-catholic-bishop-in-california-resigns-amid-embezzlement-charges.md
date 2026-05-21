@@ -16,7 +16,13 @@ primary_themes:
 - criminal charges
 - Catholic Church leadership
 - Chaldean Catholic Church
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "lifestyle and leisure"
+  - religion
+  - "religious institution"
+  - "religious leader"
+  - society
 storyline_nexus: []
 geographic_location: El Cajon, California, United States
 floor_values_engaged:

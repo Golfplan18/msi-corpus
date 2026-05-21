@@ -15,7 +15,8 @@ primary_themes:
 - tribal sovereignty
 - homeland security
 - Senate personnel
-topic_tags: []
+topic_tags:
+  - society
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

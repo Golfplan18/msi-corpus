@@ -20,7 +20,13 @@ primary_themes:
 - states' rights
 - education funding
 - Education Department dismantling
-topic_tags: []
+topic_tags:
+  - "economy, business and finance"
+  - education
+  - government
+  - "government policy"
+  - politics
+  - school
 storyline_nexus: []
 geographic_location: Iowa, United States
 floor_values_engaged:

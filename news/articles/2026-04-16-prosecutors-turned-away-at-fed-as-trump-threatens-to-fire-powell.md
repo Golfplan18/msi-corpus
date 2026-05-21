@@ -20,7 +20,12 @@ primary_themes:
 - central bank governance
 - Senate confirmation
 - criminal investigation
-topic_tags: []
+topic_tags:
+  - politics
+  - government
+  - "crime, law and justice"
+  - "disaster, accident and emergency incident"
+  - fire
 storyline_nexus: []
 geographic_location: Washington, D.C.
 floor_values_engaged:

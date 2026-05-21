@@ -13,7 +13,10 @@ primary_themes:
 - terrorism
 - criminal-justice
 - afghanistan-withdrawal
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - "crime, law and justice"
+  - trial
 storyline_nexus: []
 geographic_location: United States (trial location); Afghanistan (2021 event); Russia (related 2024 attack)
 floor_values_engaged:

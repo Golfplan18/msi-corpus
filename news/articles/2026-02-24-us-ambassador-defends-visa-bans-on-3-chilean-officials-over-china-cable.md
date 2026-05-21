@@ -16,7 +16,9 @@ primary_themes:
 - Diplomatic sanctions
 - Infrastructure security
 - Political transition
-topic_tags: []
+topic_tags:
+  - "international relations"
+  - politics
 storyline_nexus: []
 geographic_location: Chile, United States
 floor_values_engaged:

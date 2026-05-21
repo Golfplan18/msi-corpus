@@ -10,7 +10,9 @@ primary_themes:
 - infrastructure
 - public_safety
 - power_grid_reliability
-topic_tags: []
+topic_tags:
+  - "human interest"
+  - people
 storyline_nexus: []
 geographic_location: Dominican Republic
 floor_values_engaged:

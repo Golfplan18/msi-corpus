@@ -15,7 +15,13 @@ primary_themes:
 - Nile River water rights
 - African infrastructure
 - international mediation
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - government
+  - "mass media"
+  - "political dissent"
+  - politics
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Washington, D.C.; Egypt; Ethiopia
 floor_values_engaged:

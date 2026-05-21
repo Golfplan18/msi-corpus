@@ -13,7 +13,8 @@ primary_themes:
 - deportation
 - migration_policy
 - international_relations
-topic_tags: []
+topic_tags:
+  - politics
 storyline_nexus: []
 geographic_location: Central America
 floor_values_engaged:

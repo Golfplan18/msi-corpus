@@ -13,7 +13,9 @@ primary_themes:
 - popular culture
 - Pennsylvania
 - annual competitions
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Harrisburg, Pennsylvania
 floor_values_engaged:

@@ -15,7 +15,12 @@ primary_themes:
 - regional competitiveness
 - labor market
 - state policy
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "economy, business and finance"
+  - election
+  - labour
+  - politics
 storyline_nexus: []
 geographic_location: Nebraska, United States
 floor_values_engaged:

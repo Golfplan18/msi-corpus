@@ -12,7 +12,11 @@ primary_themes:
 - international trade
 - tariffs
 - trade agreements
-topic_tags: []
+topic_tags:
+  - "economy, business and finance"
+  - "international trade"
+  - politics
+  - "government policy"
 storyline_nexus: []
 geographic_location: United States, European Union
 floor_values_engaged:

@@ -19,7 +19,9 @@ primary_themes:
 - Kurdish affairs
 - diplomacy
 - civilian displacement
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: Aleppo, Syria
 floor_values_engaged:

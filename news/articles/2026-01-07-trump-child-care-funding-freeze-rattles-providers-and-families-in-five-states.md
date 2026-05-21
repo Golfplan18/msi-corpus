@@ -20,9 +20,12 @@ primary_themes:
 - child care industry
 - TANF
 topic_tags:
-  - politics
+  - "business information"
+  - corruption
+  - "crime, law and justice"
+  - "economy, business and finance"
+  - government
   - "government policy"
-  - "human interest"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

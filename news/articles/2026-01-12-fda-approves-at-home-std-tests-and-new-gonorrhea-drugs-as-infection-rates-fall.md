@@ -17,7 +17,11 @@ primary_themes:
 - STI testing
 - gonorrhea treatment
 - public health access
-topic_tags: []
+topic_tags:
+  - health
+  - "disease and condition"
+  - politics
+  - "government policy"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

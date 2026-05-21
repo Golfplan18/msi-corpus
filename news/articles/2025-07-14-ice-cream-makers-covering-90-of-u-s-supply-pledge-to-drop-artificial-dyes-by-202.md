@@ -17,10 +17,12 @@ primary_themes:
 - voluntary industry commitments
 - Trump administration health policy
 topic_tags:
+  - "artificial intelligence"
+  - "business information"
+  - "crime, law and justice"
   - "economy, business and finance"
-  - "consumer goods"
-  - "health"
-  - "public health"
+  - government
+  - "government policy"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

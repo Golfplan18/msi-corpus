@@ -16,7 +16,9 @@ primary_themes:
 - mass casualty event
 - high-speed rail
 - Spain
-topic_tags: []
+topic_tags:
+  - "human interest"
+  - health
 storyline_nexus: []
 geographic_location: Adamuz, Córdoba, Andalusia, Spain
 floor_values_engaged:

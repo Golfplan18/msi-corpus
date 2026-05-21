@@ -14,7 +14,13 @@ primary_themes:
 - economic growth
 - tariffs
 - recession signals
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "economy, business and finance"
+  - "financial and business service"
+  - "government policy"
+  - "international trade"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

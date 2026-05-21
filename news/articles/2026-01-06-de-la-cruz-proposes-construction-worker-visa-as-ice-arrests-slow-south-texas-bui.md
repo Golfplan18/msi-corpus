@@ -17,6 +17,10 @@ primary_themes:
 - congressional immigration legislation
 topic_tags:
   - "economy, business and finance"
+  - employment
+  - government
+  - "human interest"
+  - "human migration"
   - labour
 storyline_nexus: []
 geographic_location: South Texas / Rio Grande Valley, Texas

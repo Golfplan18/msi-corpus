@@ -12,7 +12,11 @@ primary_themes:
 - pseudoscience
 - popular culture
 - Switzerland
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "arts, culture, entertainment and media"
+  - books
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Switzerland
 floor_values_engaged:

@@ -18,7 +18,11 @@ primary_themes:
 - ice storm
 - infrastructure impact
 - regional threat
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - "disaster, accident and emergency incident"
+  - weather
+  - "weather warning"
 storyline_nexus: []
 geographic_location: United States - Southern region (Texas to Carolinas)
 floor_values_engaged:

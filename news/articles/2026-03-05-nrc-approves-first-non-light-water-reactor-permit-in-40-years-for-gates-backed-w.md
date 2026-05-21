@@ -21,7 +21,10 @@ primary_themes:
 - nuclear regulation
 - nuclear waste
 - advanced reactor technology
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - environment
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Kemmerer, Wyoming, United States
 floor_values_engaged:

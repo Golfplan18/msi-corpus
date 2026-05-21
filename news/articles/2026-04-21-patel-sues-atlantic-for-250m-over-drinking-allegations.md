@@ -13,7 +13,11 @@ primary_themes:
 - litigation
 - government accountability
 - press freedom
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - government
+  - politics
+  - trial
 storyline_nexus: []
 geographic_location: Washington, D.C.
 floor_values_engaged:

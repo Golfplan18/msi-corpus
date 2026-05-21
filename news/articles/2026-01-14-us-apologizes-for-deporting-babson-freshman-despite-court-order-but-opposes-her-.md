@@ -18,7 +18,12 @@ primary_themes:
 - court orders
 - higher education
 topic_tags:
+  - "crime, law and justice"
+  - "disaster, accident and emergency incident"
   - education
+  - "higher education"
+  - judiciary
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: Boston, Massachusetts, United States
 floor_values_engaged:

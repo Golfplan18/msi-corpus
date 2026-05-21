@@ -15,6 +15,8 @@ primary_themes:
 - workplace_violence
 - nurse_compensation
 topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
   - health
   - labour
   - "labour dispute"

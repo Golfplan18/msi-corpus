@@ -21,7 +21,13 @@ primary_themes:
 - federal-local conflict
 - community disruption
 - civil liberties
-topic_tags: []
+topic_tags:
+  - crime
+  - "crime, law and justice"
+  - education
+  - government
+  - "government policy"
+  - "human interest"
 storyline_nexus: []
 geographic_location: Minneapolis–St. Paul, Minnesota
 floor_values_engaged:

@@ -16,7 +16,9 @@ primary_themes:
 - redistricting
 - Democratic Party strategy
 - state legislature
-topic_tags: []
+topic_tags:
+  - election
+  - politics
 storyline_nexus: []
 geographic_location: Madison, Wisconsin, United States
 floor_values_engaged:

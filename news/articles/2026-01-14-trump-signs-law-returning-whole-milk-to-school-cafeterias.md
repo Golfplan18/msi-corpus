@@ -19,7 +19,8 @@ primary_themes:
 - childhood obesity
 - dietary guidelines
 topic_tags:
-  - "science and technology"
+  - education
+  - school
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

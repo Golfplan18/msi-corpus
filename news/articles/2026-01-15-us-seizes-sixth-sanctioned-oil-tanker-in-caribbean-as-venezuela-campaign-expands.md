@@ -17,7 +17,11 @@ primary_themes:
 - U.S.-Venezuela conflict
 - sanctions enforcement
 - Caribbean naval operations
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "international relations"
+  - politics
 storyline_nexus: []
 geographic_location: Caribbean Sea
 floor_values_engaged:

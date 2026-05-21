@@ -15,8 +15,9 @@ primary_themes:
 - partisan gerrymandering
 - 2026 elections
 topic_tags:
-  - election
   - politics
+  - election
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: Annapolis, Maryland
 floor_values_engaged:

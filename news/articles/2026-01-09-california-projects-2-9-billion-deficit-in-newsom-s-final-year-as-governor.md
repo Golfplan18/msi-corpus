@@ -25,7 +25,13 @@ primary_themes:
 - federal funding cuts
 - education spending
 - homelessness
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "economy, business and finance"
+  - government
+  - "market and exchange"
+  - politics
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Sacramento, California
 floor_values_engaged:

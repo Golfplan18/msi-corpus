@@ -19,7 +19,12 @@ primary_themes:
 - geopolitical conflict
 - supply chain disruption
 - Iran war
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "economy, business and finance"
+  - "international relations"
+  - politics
 storyline_nexus: []
 geographic_location: Persian Gulf, Middle East, United States
 floor_values_engaged:

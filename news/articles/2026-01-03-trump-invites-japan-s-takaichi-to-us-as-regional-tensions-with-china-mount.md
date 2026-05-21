@@ -13,7 +13,13 @@ primary_themes:
 - Indo-Pacific security
 - China-Taiwan tensions
 - U.S. foreign policy
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "artificial intelligence"
+  - "conflict, war and peace"
+  - government
+  - "government policy"
+  - politics
 storyline_nexus: []
 geographic_location: Washington, DC; Tokyo, Japan; Taiwan Strait
 floor_values_engaged:

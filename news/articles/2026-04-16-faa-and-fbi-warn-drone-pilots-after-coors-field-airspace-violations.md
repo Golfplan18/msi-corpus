@@ -17,7 +17,13 @@ primary_themes:
 - law enforcement
 - public safety
 - sports security
-topic_tags: []
+topic_tags:
+  - "disaster, accident and emergency incident"
+  - government
+  - "international relations"
+  - "monetary policy"
+  - "science and technology"
+  - "space programme"
 storyline_nexus: []
 geographic_location: Denver, Colorado, United States
 floor_values_engaged:

@@ -18,7 +18,10 @@ primary_themes:
 - fuel prices
 - Iran war
 - consumer strategy
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - "economy, business and finance"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Global (North America, Europe, Asia)
 floor_values_engaged:

@@ -13,7 +13,9 @@ primary_themes:
 - greenland_dispute
 - international_relations
 - public_private_divide
-topic_tags: []
+topic_tags:
+  - "international relations"
+  - politics
 storyline_nexus: []
 geographic_location: International
 floor_values_engaged:

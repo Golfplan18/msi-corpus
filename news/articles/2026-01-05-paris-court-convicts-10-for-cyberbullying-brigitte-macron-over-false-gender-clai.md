@@ -17,8 +17,12 @@ primary_themes:
 - disinformation
 - public figures
 topic_tags:
+  - "armed conflict"
+  - "artificial intelligence"
+  - "conflict, war and peace"
   - "crime, law and justice"
-  - trial
+  - government
+  - "government policy"
 storyline_nexus: []
 geographic_location: Paris, France
 floor_values_engaged:

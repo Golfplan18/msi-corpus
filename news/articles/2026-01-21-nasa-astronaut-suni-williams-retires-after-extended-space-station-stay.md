@@ -18,7 +18,9 @@ primary_themes:
 - astronauts
 - human spaceflight
 - aerospace
-topic_tags: []
+topic_tags:
+  - "science and technology"
+  - "space programme"
 storyline_nexus: []
 geographic_location: Cape Canaveral, Florida
 floor_values_engaged:

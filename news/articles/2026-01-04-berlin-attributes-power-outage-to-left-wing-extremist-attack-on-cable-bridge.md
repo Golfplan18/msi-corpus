@@ -16,7 +16,13 @@ primary_themes:
 - political extremism
 - power outage
 - arson investigation
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "disaster, accident and emergency incident"
+  - fire
+  - politics
+  - "science and technology"
+  - weather
 storyline_nexus: []
 geographic_location: Berlin, Germany
 floor_values_engaged:

@@ -18,7 +18,9 @@ primary_themes:
 - child sexual abuse allegations
 - entertainment industry
 - law enforcement
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: Albuquerque, New Mexico, United States
 floor_values_engaged:

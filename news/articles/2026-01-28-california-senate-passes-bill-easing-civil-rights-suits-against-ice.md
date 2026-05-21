@@ -20,7 +20,10 @@ primary_themes:
 - state-federal conflict
 - civil rights legislation
 - legislative response
-topic_tags: []
+topic_tags:
+  - "civil rights"
+  - "conflict, war and peace"
+  - "crime, law and justice"
 storyline_nexus: []
 geographic_location: California, United States
 floor_values_engaged:

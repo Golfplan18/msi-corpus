@@ -17,7 +17,13 @@ primary_themes:
 - Media access to courts
 - Court transparency
 - Murder trial procedure
-topic_tags: []
+topic_tags:
+  - "arts, culture, entertainment and media"
+  - crime
+  - "crime, law and justice"
+  - "mass media"
+  - "science and technology"
+  - trial
 storyline_nexus: []
 geographic_location: Provo and Orem, Utah
 floor_values_engaged:

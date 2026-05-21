@@ -14,7 +14,9 @@ primary_themes:
 - Science
 - Astronomy
 - Space Technology
-topic_tags: []
+topic_tags:
+  - "science and technology"
+  - "space programme"
 storyline_nexus: []
 geographic_location: International
 floor_values_engaged:

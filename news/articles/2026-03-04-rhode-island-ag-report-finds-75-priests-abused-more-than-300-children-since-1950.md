@@ -16,7 +16,9 @@ primary_themes:
 - institutional accountability
 - Catholic Church
 - Rhode Island
-topic_tags: []
+topic_tags:
+  - religion
+  - "religious institution"
 storyline_nexus: []
 geographic_location: Providence, Rhode Island, United States
 floor_values_engaged:

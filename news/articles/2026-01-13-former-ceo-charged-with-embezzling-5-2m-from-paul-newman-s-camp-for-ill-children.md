@@ -15,13 +15,7 @@ primary_themes:
 - criminal charges
 - children's charity
 - financial fraud
-topic_tags:
-  - "crime, law and justice"
-  - "crime"
-  - "science and technology"
-  - "arts, culture, entertainment and media"
-  - "corruption"
-  - "politics"
+topic_tags: []
 storyline_nexus: []
 geographic_location: Lake Hughes, California; Los Angeles County, California
 floor_values_engaged:

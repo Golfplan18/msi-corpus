@@ -17,11 +17,12 @@ primary_themes:
 - domestic violence
 - criminal justice
 topic_tags:
-  - "science and technology"
+  - crime
   - "crime, law and justice"
-  - "trial"
-  - "disaster, accident and emergency incident"
-  - "artificial intelligence"
+  - "human migration"
+  - "international relations"
+  - "law enforcement"
+  - trial
 storyline_nexus: []
 geographic_location: Fairfax County, Virginia, United States
 floor_values_engaged:

@@ -15,7 +15,13 @@ primary_themes:
 - security deployment
 - immigration enforcement
 - diplomatic relations
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - government
+  - "government policy"
+  - "human migration"
+  - "international relations"
+  - "political dissent"
 storyline_nexus: []
 geographic_location: Milan, Italy
 floor_values_engaged:

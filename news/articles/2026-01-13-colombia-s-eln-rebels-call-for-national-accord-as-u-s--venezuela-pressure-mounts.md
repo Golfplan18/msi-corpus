@@ -19,12 +19,9 @@ primary_themes:
 - peace negotiations
 - regional security
 topic_tags:
-  - "science and technology"
-  - "conflict, war and peace"
   - "armed conflict"
-  - "politics"
-  - "government"
-  - "health"
+  - "conflict, war and peace"
+  - "peace process"
 storyline_nexus: []
 geographic_location: Colombia; Venezuela
 floor_values_engaged:

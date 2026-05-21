@@ -16,7 +16,13 @@ primary_themes:
 - use of force
 - detention conditions
 - U.S. citizens detained
-topic_tags: []
+topic_tags:
+  - discrimination
+  - politics
+  - health
+  - "human interest"
+  - society
+  - "government policy"
 storyline_nexus: []
 geographic_location: Minneapolis, Minnesota, US
 floor_values_engaged:

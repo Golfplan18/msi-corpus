@@ -16,7 +16,13 @@ primary_themes:
 - education technology
 - California legislation
 - data protection
-topic_tags: []
+topic_tags:
+  - "economy, business and finance"
+  - "international trade"
+  - education
+  - "education policy"
+  - labour
+  - "labour dispute"
 storyline_nexus: []
 geographic_location: California, United States
 floor_values_engaged:

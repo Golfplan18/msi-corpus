@@ -15,7 +15,9 @@ primary_themes:
 - entertainment
 - film awards
 - cinema
-topic_tags: []
+topic_tags:
+  - "science and technology"
+  - "artificial intelligence"
 storyline_nexus: []
 geographic_location: London, United Kingdom
 floor_values_engaged:

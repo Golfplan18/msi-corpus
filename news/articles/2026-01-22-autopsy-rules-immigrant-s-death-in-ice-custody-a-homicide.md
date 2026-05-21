@@ -16,7 +16,11 @@ primary_themes:
 - death in custody
 - government accountability
 - facility oversight
-topic_tags: []
+topic_tags:
+  - politics
+  - "crime, law and justice"
+  - crime
+  - society
 storyline_nexus: []
 geographic_location: El Paso, Texas
 floor_values_engaged:

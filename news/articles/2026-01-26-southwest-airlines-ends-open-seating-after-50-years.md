@@ -12,7 +12,8 @@ primary_themes:
 - business transformation
 - customer service
 - pricing policy
-topic_tags: []
+topic_tags:
+  - "economy, business and finance"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

@@ -17,7 +17,13 @@ primary_themes:
 - Google Gemini
 - market capitalization
 - AI competition
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - economy
+  - "economy, business and finance"
+  - government
+  - "government policy"
+  - politics
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

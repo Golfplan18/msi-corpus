@@ -10,7 +10,9 @@ primary_entities:
 primary_themes:
 - natural_disasters
 - aviation_incidents
-topic_tags: []
+topic_tags:
+  - "disaster, accident and emergency incident"
+  - "natural disaster"
 storyline_nexus: []
 geographic_location: Kumamoto prefecture, Japan
 floor_values_engaged:

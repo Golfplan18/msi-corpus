@@ -15,7 +15,11 @@ primary_themes:
 - artificial intelligence
 - technology deployment in developing regions
 - health worker shortage
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - health
+  - "science and technology"
+  - "technology and engineering"
 storyline_nexus: []
 geographic_location: Rwanda
 floor_values_engaged:

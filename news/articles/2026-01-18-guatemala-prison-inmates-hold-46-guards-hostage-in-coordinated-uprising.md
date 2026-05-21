@@ -16,7 +16,11 @@ primary_themes:
 - hostage situation
 - Guatemala
 - Central America
-topic_tags: []
+topic_tags:
+  - politics
+  - government
+  - "crime, law and justice"
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: Guatemala
 floor_values_engaged:

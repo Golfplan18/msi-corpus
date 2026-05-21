@@ -19,11 +19,9 @@ primary_themes:
 - foreign terrorist organizations
 - human trafficking
 topic_tags:
-  - "science and technology"
-  - "artificial intelligence"
-  - "politics"
-  - "government"
-  - "health"
+  - politics
+  - government
+  - "crime, law and justice"
 storyline_nexus: []
 geographic_location: Mexico City, Guadalajara, Zapopan, Tepic — Mexico
 floor_values_engaged:

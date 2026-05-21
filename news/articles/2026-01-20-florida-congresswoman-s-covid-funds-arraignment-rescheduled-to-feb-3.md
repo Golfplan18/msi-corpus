@@ -14,7 +14,13 @@ primary_themes:
 - public_corruption
 - covid_relief_fraud
 - congressional_accountability
-topic_tags: []
+topic_tags:
+  - crime
+  - "crime, law and justice"
+  - "government policy"
+  - "human migration"
+  - "international relations"
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: Miami, Florida
 floor_values_engaged:

@@ -15,7 +15,13 @@ primary_themes:
 - trade
 - global governance
 - Iran conflict
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "economy, business and finance"
+  - government
+  - "government policy"
+  - "international relations"
+  - "international trade"
 storyline_nexus: []
 geographic_location: Beijing, China
 floor_values_engaged:

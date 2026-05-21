@@ -22,7 +22,10 @@ primary_themes:
 - displacement
 - southern Africa
 - infrastructure damage
-topic_tags: []
+topic_tags:
+  - politics
+  - government
+  - "economy, business and finance"
 storyline_nexus: []
 geographic_location: Gaza province, Mozambique; southern Africa
 floor_values_engaged:

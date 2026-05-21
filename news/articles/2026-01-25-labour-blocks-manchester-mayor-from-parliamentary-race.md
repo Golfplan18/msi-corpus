@@ -13,7 +13,10 @@ primary_themes:
 - elections
 - party_leadership
 - parliamentary_candidates
-topic_tags: []
+topic_tags:
+  - politics
+  - election
+  - labour
 storyline_nexus: []
 geographic_location: United Kingdom
 floor_values_engaged:

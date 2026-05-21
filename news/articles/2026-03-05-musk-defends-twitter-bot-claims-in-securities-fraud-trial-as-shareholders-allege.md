@@ -12,7 +12,12 @@ primary_themes:
 - class-action litigation
 - social media
 - corporate accountability
-topic_tags: []
+topic_tags:
+  - "arts, culture, entertainment and media"
+  - "economy, business and finance"
+  - "mass media"
+  - "social media"
+  - society
 storyline_nexus: []
 geographic_location: San Francisco, California, United States
 floor_values_engaged:

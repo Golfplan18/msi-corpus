@@ -15,7 +15,13 @@ primary_themes:
 - inflation
 - iran_war_economic_impact
 - monetary_policy
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - "economy, business and finance"
+  - employment
+  - labour
+  - macroeconomics
+  - sport
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

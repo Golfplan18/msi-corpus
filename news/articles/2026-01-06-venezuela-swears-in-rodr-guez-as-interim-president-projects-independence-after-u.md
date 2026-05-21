@@ -17,7 +17,10 @@ primary_themes:
 - US-Venezuela relations
 - narco-terrorism prosecution
 - constitutional succession
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - politics
+  - terrorism
 storyline_nexus: []
 geographic_location: Caracas, Venezuela
 floor_values_engaged:

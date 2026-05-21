@@ -22,7 +22,13 @@ primary_themes:
 - Colombia drug trade
 - Cuba-U.S. relations
 - Monroe Doctrine
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - "crime, law and justice"
+  - "economy, business and finance"
+  - "international relations"
+  - "international trade"
+  - politics
 storyline_nexus: []
 geographic_location: International — Washington, Greenland, Cuba, Colombia, Venezuela, Denmark
 floor_values_engaged:

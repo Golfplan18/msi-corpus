@@ -16,7 +16,9 @@ primary_themes:
 - Justice Department leadership
 - Judicial review of executive appointments
 - Presidential personnel management
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - judiciary
 storyline_nexus: []
 geographic_location: United States - Virginia, Washington D.C.
 floor_values_engaged:

@@ -15,7 +15,10 @@ primary_themes:
 - aviation_safety
 - winter_weather
 - transportation
-topic_tags: []
+topic_tags:
+  - "disaster, accident and emergency incident"
+  - "transportation accident and incident"
+  - weather
 storyline_nexus: []
 geographic_location: Bangor, Maine, United States
 floor_values_engaged:

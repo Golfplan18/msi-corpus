@@ -14,7 +14,10 @@ primary_themes:
 - federal institutions
 - executive power
 - congressional proposals
-topic_tags: []
+topic_tags:
+  - politics
+  - "government policy"
+  - "arts, culture, entertainment and media"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

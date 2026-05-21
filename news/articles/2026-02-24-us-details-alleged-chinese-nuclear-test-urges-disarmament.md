@@ -16,7 +16,9 @@ primary_themes:
 - arms control
 - international diplomacy
 - military buildup
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: Geneva, Switzerland; Lop Nur, China
 floor_values_engaged:

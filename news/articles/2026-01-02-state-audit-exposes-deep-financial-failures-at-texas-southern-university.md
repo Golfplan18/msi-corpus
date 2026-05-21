@@ -16,10 +16,9 @@ primary_themes:
 - HBCU oversight
 - state audit
 topic_tags:
-  - "education"
-  - "higher education"
-  - "crime, law and justice"
-  - "corruption"
+  - education
+  - "economy, business and finance"
+  - school
 storyline_nexus: []
 geographic_location: Houston, Texas
 floor_values_engaged:

@@ -15,7 +15,11 @@ primary_themes:
 - panda diplomacy
 - Indonesia-China relations
 - endangered species
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - conservation
+  - environment
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Cisarua, West Java, Indonesia
 floor_values_engaged:

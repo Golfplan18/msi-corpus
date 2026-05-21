@@ -16,7 +16,13 @@ primary_themes:
 - five-year plan
 - semiconductors
 - artificial intelligence
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - economy
+  - "economy, business and finance"
+  - government
+  - "government policy"
+  - "human interest"
 storyline_nexus: []
 geographic_location: Beijing, China
 floor_values_engaged:

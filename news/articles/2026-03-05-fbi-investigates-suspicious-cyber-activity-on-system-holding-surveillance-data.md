@@ -11,7 +11,11 @@ primary_themes:
 - government surveillance
 - law enforcement
 - information security
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "crime"
+  - "science and technology"
+  - "computing and information technology"
 storyline_nexus: []
 geographic_location: Washington, D.C., United States
 floor_values_engaged:

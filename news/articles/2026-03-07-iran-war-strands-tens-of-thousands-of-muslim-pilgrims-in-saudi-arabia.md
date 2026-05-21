@@ -20,7 +20,9 @@ primary_themes:
 - Ramadan
 - humanitarian displacement
 - aviation disruption
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: Saudi Arabia
 floor_values_engaged:

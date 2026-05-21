@@ -14,7 +14,11 @@ primary_themes:
 - congressional oversight
 - immigration enforcement
 - detention policy
-topic_tags: []
+topic_tags:
+  - politics
+  - "government policy"
+  - "crime, law and justice"
+  - law
 storyline_nexus: []
 geographic_location: United States (Washington D.C., Minneapolis, Minnesota)
 floor_values_engaged:

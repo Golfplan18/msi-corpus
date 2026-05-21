@@ -11,7 +11,11 @@ primary_themes:
 - space exploration
 - technology development
 - mission delays
-topic_tags: []
+topic_tags:
+  - "science and technology"
+  - "space programme"
+  - "science and technology"
+  - "artificial intelligence"
 storyline_nexus: []
 geographic_location: Kennedy Space Center, Florida, United States
 floor_values_engaged:

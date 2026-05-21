@@ -20,7 +20,13 @@ primary_themes:
 - US foreign policy
 - Arctic security
 - NATO alliance
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - government
+  - "international relations"
+  - "political dissent"
+  - politics
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Nuuk, Greenland
 floor_values_engaged:

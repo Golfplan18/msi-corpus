@@ -12,7 +12,13 @@ primary_themes:
 - electoral campaigns
 - Democratic primary
 - state politics
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - crime
+  - "crime, law and justice"
+  - election
+  - government
+  - "government policy"
 storyline_nexus: []
 geographic_location: California, United States
 floor_values_engaged:

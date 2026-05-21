@@ -26,8 +26,11 @@ primary_themes:
 - hacking
 - China
 topic_tags:
-  - "science and technology"
-  - "technology and engineering"
+  - politics
+  - "human interest"
+  - "government policy"
+  - "economy, business and finance"
+  - "construction and property"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

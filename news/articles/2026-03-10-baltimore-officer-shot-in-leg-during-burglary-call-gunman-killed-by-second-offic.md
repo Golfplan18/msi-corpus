@@ -13,7 +13,10 @@ primary_themes:
 - law enforcement
 - gun violence
 - officer safety
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "law enforcement"
+  - crime
 storyline_nexus: []
 geographic_location: Baltimore, Maryland
 floor_values_engaged:

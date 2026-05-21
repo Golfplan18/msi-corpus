@@ -17,7 +17,13 @@ primary_themes:
 - Hacking and information disruption
 - U.S. military posture
 - International diplomatic pressure
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "civil unrest"
+  - "conflict, war and peace"
+  - government
+  - "government policy"
+  - "human interest"
 storyline_nexus: []
 geographic_location: Iran; Strait of Malacca; Davos, Switzerland
 floor_values_engaged:

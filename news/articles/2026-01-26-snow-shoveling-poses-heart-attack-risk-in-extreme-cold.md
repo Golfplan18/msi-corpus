@@ -11,7 +11,12 @@ primary_themes:
 - Health and safety
 - Winter weather
 - Cardiovascular health
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - "disaster, accident and emergency incident"
+  - health
+  - weather
+  - "weather warning"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

@@ -13,7 +13,9 @@ primary_themes:
 - flooding
 - rescue operations
 - extreme weather
-topic_tags: []
+topic_tags:
+  - "disaster, accident and emergency incident"
+  - "natural disaster"
 storyline_nexus: []
 geographic_location: Minas Gerais, Brazil
 floor_values_engaged:

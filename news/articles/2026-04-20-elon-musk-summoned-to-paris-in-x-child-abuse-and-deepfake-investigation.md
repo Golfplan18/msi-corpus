@@ -14,7 +14,9 @@ primary_themes:
 - alleged misconduct
 - international law enforcement
 - AI content moderation
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: Paris, France; United States
 floor_values_engaged:

@@ -18,7 +18,12 @@ primary_themes:
 - political pressure on state government
 - 2026 midterm elections
 - sentencing disparities
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "crime"
+  - "judiciary"
+  - "politics"
+  - "government policy"
 storyline_nexus: []
 geographic_location: Colorado, United States
 floor_values_engaged:

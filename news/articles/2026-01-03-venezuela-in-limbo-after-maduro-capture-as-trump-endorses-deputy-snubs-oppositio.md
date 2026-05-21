@@ -18,7 +18,12 @@ primary_themes:
 - US military intervention
 - succession and legitimacy
 - Latin America geopolitics
-topic_tags: []
+topic_tags:
+  - "human interest"
+  - politics
+  - trial
+  - "human migration"
+  - "crime, law and justice"
 storyline_nexus: []
 geographic_location: Caracas, Venezuela
 floor_values_engaged:

@@ -13,7 +13,11 @@ primary_themes:
 - gun rights
 - Second Amendment
 - state regulation
-topic_tags: []
+topic_tags:
+  - politics
+  - government
+  - "crime, law and justice"
+  - law
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

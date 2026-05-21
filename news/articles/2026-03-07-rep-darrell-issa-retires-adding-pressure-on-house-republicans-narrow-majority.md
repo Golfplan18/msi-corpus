@@ -13,7 +13,11 @@ primary_themes:
 - congressional redistricting
 - House Republican majority
 - California politics
-topic_tags: []
+topic_tags:
+  - "arts, culture, entertainment and media"
+  - "government policy"
+  - "mass media"
+  - "politics"
 storyline_nexus: []
 geographic_location: San Diego County, California, United States
 floor_values_engaged:

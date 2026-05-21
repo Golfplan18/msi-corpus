@@ -21,13 +21,7 @@ primary_themes:
 - executive pressure
 - America 250th anniversary
 - museum policy
-topic_tags:
-  - "science and technology"
-  - "politics"
-  - "government"
-  - "arts, culture, entertainment and media"
-  - "government policy"
-  - "arts and entertainment"
+topic_tags: []
 storyline_nexus: []
 geographic_location: Washington, D.C., United States
 floor_values_engaged:

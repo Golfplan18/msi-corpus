@@ -15,7 +15,12 @@ primary_themes:
 - Navajo Nation
 - federal prosecution
 - victims' rights
-topic_tags: []
+topic_tags:
+  - crime
+  - "crime, law and justice"
+  - "human interest"
+  - judiciary
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: Sweetwater, Arizona; Navajo Nation; Phoenix, Arizona
 floor_values_engaged:

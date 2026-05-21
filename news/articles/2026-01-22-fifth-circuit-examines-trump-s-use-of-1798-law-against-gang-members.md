@@ -17,7 +17,12 @@ primary_themes:
 - Constitutional law
 - Judicial review
 - Emergency authorities
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "crime, law and justice"
+  - politics
+  - trial
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

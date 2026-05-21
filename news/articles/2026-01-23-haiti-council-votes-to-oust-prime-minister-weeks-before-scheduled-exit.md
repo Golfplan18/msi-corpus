@@ -13,7 +13,9 @@ primary_themes:
 - governance_transition
 - gang_violence
 - international_relations
-topic_tags: []
+topic_tags:
+  - politics
+  - "international relations"
 storyline_nexus: []
 geographic_location: Haiti, Caribbean
 floor_values_engaged:

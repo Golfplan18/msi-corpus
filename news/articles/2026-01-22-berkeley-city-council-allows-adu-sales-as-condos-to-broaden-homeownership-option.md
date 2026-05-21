@@ -16,7 +16,13 @@ primary_themes:
 - homeownership
 - tenant_protections
 - California_housing_policy
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - government
+  - "government policy"
+  - "law enforcement"
+  - politics
+  - society
 storyline_nexus: []
 geographic_location: Berkeley, California, United States
 floor_values_engaged:

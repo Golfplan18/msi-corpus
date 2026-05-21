@@ -23,10 +23,12 @@ primary_themes:
 - digital media
 - American Christianity
 topic_tags:
-  - "religion"
-  - "religious leader"
-  - "arts, culture, entertainment and media"
-  - "social media"
+  - "human interest"
+  - health
+  - society
+  - "human migration"
+  - "disease and condition"
+  - religion
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

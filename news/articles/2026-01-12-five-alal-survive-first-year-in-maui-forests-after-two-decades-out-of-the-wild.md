@@ -14,7 +14,11 @@ primary_themes:
 - wildlife conservation
 - Hawaii ecology
 - captive breeding and reintroduction
-topic_tags: []
+topic_tags:
+  - conservation
+  - environment
+  - lifestyle
+  - "lifestyle and leisure"
 storyline_nexus: []
 geographic_location: Kīpahulu Forest Reserve, East Maui, Hawaii, United States
 floor_values_engaged:

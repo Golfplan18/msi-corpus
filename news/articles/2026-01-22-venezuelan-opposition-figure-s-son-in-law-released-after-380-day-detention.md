@@ -13,7 +13,9 @@ primary_themes:
 - prisoner release
 - Venezuela
 - opposition
-topic_tags: []
+topic_tags:
+  - "international relations"
+  - politics
 storyline_nexus: []
 geographic_location: Venezuela
 floor_values_engaged:

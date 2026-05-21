@@ -15,7 +15,12 @@ primary_themes:
 - international health diplomacy
 - Cuban medical missions
 - economic pressure
-topic_tags: []
+topic_tags:
+  - "arts, culture, entertainment and media"
+  - health
+  - "international relations"
+  - "mass media"
+  - politics
 storyline_nexus: []
 geographic_location: Guyana; Caribbean; Latin America
 floor_values_engaged:

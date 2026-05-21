@@ -17,7 +17,10 @@ primary_themes:
 - sexual assault disclosure
 - British royal family
 - violence against women
-topic_tags: []
+topic_tags:
+  - politics
+  - "crime, law and justice"
+  - crime
 storyline_nexus: []
 geographic_location: United Kingdom
 floor_values_engaged:

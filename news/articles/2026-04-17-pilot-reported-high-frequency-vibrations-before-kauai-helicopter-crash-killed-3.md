@@ -19,7 +19,13 @@ primary_themes:
 - aviation_safety
 - transportation_accident
 - investigation
-topic_tags: []
+topic_tags:
+  - "accident and emergency incident"
+  - "artificial intelligence"
+  - crime
+  - "crime, law and justice"
+  - "disaster, accident and emergency incident"
+  - government
 storyline_nexus: []
 geographic_location: Kauai, Hawaii, United States
 floor_values_engaged:

@@ -18,7 +18,11 @@ primary_themes:
 - digital assets
 - market infrastructure
 - cryptocurrency
-topic_tags: []
+topic_tags:
+  - "economy, business and finance"
+  - "market and exchange"
+  - "science and technology"
+  - "technology and engineering"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

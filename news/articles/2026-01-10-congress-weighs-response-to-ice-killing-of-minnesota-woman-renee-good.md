@@ -17,7 +17,13 @@ primary_themes:
 - use of force
 - deportation policy
 - homeland security funding
-topic_tags: []
+topic_tags:
+  - politics
+  - "human interest"
+  - education
+  - "government policy"
+  - "international relations"
+  - crime
 storyline_nexus: []
 geographic_location: Washington, D.C.; Minnesota; United States
 floor_values_engaged:

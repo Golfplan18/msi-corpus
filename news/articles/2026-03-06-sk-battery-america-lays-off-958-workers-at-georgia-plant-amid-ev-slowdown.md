@@ -16,7 +16,9 @@ primary_themes:
 - manufacturing layoffs
 - federal energy policy
 - Georgia economic development
-topic_tags: []
+topic_tags:
+  - "economy, business and finance"
+  - "employment"
 storyline_nexus: []
 geographic_location: Commerce, Georgia, United States
 floor_values_engaged:

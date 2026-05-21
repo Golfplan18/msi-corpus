@@ -20,7 +20,8 @@ primary_themes:
 - virtual reality technology
 - reentry preparation
 - criminal justice reform
-topic_tags: []
+topic_tags:
+  - "science and technology"
 storyline_nexus: []
 geographic_location: California, United States
 floor_values_engaged:

@@ -17,9 +17,7 @@ primary_themes:
 - social media
 - settlement
 topic_tags:
-  - "higher education"
-  - education
-  - "civil rights"
+  - politics
 storyline_nexus: []
 geographic_location: Clarksville, Tennessee
 floor_values_engaged:

@@ -16,8 +16,8 @@ primary_themes:
 - executive clemency
 topic_tags:
   - "crime, law and justice"
+  - judiciary
   - politics
-  - trial
 storyline_nexus: []
 geographic_location: Brasília, Brazil
 floor_values_engaged:

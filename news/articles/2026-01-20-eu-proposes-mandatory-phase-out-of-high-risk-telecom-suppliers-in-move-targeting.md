@@ -17,7 +17,13 @@ primary_themes:
 - critical infrastructure
 - supply chain security
 - 5G networks
-topic_tags: []
+topic_tags:
+  - employment
+  - government
+  - health
+  - labour
+  - "labour dispute"
+  - politics
 storyline_nexus: []
 geographic_location: Brussels, Belgium / European Union
 floor_values_engaged:

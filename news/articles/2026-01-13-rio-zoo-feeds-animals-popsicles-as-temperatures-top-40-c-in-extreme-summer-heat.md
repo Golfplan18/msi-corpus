@@ -13,9 +13,8 @@ primary_themes:
 - Brazil
 - zoo management
 topic_tags:
-  - "health"
-  - "conflict, war and peace"
-  - "weather"
+  - health
+  - society
 storyline_nexus: []
 geographic_location: Rio de Janeiro, Brazil
 floor_values_engaged:

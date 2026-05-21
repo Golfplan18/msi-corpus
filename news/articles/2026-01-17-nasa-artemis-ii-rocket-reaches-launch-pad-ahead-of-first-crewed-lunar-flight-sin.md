@@ -19,7 +19,9 @@ primary_themes:
 - NASA Artemis program
 - lunar mission
 - human spaceflight
-topic_tags: []
+topic_tags:
+  - "science and technology"
+  - "space programme"
 storyline_nexus: []
 geographic_location: Kennedy Space Center, Cape Canaveral, Florida
 floor_values_engaged:

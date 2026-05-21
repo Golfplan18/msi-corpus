@@ -16,9 +16,12 @@ primary_themes:
 - sexual misconduct
 - MeToo
 topic_tags:
-  - politics
-  - government
+  - "crime, law and justice"
+  - election
+  - "law enforcement"
   - "political process"
+  - politics
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Lincoln, Nebraska
 floor_values_engaged:

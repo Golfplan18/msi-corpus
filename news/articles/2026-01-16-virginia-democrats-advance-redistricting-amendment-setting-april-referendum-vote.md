@@ -15,7 +15,9 @@ primary_themes:
 - Virginia politics
 - 2026 elections
 - voter referendum
-topic_tags: []
+topic_tags:
+  - election
+  - politics
 storyline_nexus: []
 geographic_location: Richmond, Virginia, United States
 floor_values_engaged:

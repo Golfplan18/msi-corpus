@@ -13,7 +13,9 @@ primary_themes:
 - federal policy
 - housing and rebuilding
 - California politics
-topic_tags: []
+topic_tags:
+  - disaster
+  - "disaster, accident and emergency incident"
 storyline_nexus: []
 geographic_location: California, United States
 floor_values_engaged:

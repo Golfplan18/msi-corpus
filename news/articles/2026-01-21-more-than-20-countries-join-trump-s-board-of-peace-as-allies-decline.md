@@ -12,7 +12,10 @@ primary_themes:
 - international diplomacy
 - US foreign policy
 - conflict resolution
-topic_tags: []
+topic_tags:
+  - politics
+  - government
+  - "international relations"
 storyline_nexus: []
 geographic_location: International
 floor_values_engaged:

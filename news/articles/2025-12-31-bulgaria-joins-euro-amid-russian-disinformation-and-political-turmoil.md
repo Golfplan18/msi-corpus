@@ -17,7 +17,12 @@ primary_themes:
 - Russian disinformation
 - political instability
 - inflation
-topic_tags: []
+topic_tags:
+  - politics
+  - "human interest"
+  - "economy, business and finance"
+  - labour
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: Sofia, Bulgaria
 floor_values_engaged:

@@ -17,7 +17,13 @@ primary_themes:
 - Nigeria insurgency
 - aviation security
 - West Africa
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "artificial intelligence"
+  - "conflict, war and peace"
+  - "crime, law and justice"
+  - government
+  - "government policy"
 storyline_nexus: []
 geographic_location: Abuja, Nigeria; Niger state, Nigeria
 floor_values_engaged:

@@ -22,9 +22,8 @@ primary_themes:
 - state education policy
 - dispute resolution
 topic_tags:
-  - "construction and property"
-  - "economy, business and finance"
   - education
+  - politics
   - school
 storyline_nexus: []
 geographic_location: Connecticut, United States

@@ -15,7 +15,9 @@ primary_themes:
 - airline industry
 - leisure travel
 - corporate consolidation
-topic_tags: []
+topic_tags:
+  - "economy, business and finance"
+  - "market and exchange"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

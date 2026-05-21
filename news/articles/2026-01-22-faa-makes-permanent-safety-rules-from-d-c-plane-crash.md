@@ -15,7 +15,10 @@ primary_themes:
 - regulatory response
 - accident investigation
 - accident prevention
-topic_tags: []
+topic_tags:
+  - politics
+  - "government policy"
+  - "human interest"
 storyline_nexus: []
 geographic_location: Washington, D.C., United States
 floor_values_engaged:

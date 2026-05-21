@@ -20,12 +20,12 @@ primary_themes:
 - criminal trial
 - gun violence
 topic_tags:
+  - "arts, culture, entertainment and media"
   - "crime, law and justice"
-  - "crime"
-  - "science and technology"
-  - "education"
-  - "artificial intelligence"
-  - "trial"
+  - education
+  - music
+  - school
+  - trial
 storyline_nexus: []
 geographic_location: Corpus Christi and Uvalde, Texas, United States
 floor_values_engaged:

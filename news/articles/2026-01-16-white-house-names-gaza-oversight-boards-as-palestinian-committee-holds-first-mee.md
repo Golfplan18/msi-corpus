@@ -18,7 +18,13 @@ primary_themes:
 - post-war reconstruction
 - West Bank violence
 - U.S. Middle East policy
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - "disaster, accident and emergency incident"
+  - fire
+  - "international relations"
+  - "natural disaster"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Gaza Strip; West Bank; Cairo, Egypt
 floor_values_engaged:

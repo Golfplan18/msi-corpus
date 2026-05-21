@@ -19,12 +19,8 @@ primary_themes:
 - litigation
 - family planning
 topic_tags:
-  - "crime, law and justice"
-  - "law"
-  - "science and technology"
-  - "politics"
-  - "government"
-  - "health"
+  - family
+  - society
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

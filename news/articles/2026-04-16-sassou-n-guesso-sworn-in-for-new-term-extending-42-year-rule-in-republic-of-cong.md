@@ -14,7 +14,13 @@ primary_themes:
 - African politics
 - long-serving leadership
 - economic conditions
-topic_tags: []
+topic_tags:
+  - banking
+  - "economy, business and finance"
+  - election
+  - labour
+  - politics
+  - unemployment
 storyline_nexus: []
 geographic_location: Republic of Congo, Central Africa
 floor_values_engaged:

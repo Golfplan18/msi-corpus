@@ -19,7 +19,9 @@ topic_tags:
   - "armed conflict"
   - "artificial intelligence"
   - "conflict, war and peace"
+  - "economy, business and finance"
   - "energy and resource"
+  - government
 storyline_nexus: []
 geographic_location: Kyiv region, Ukraine
 floor_values_engaged:

@@ -17,7 +17,13 @@ primary_themes:
 - healthcare
 - nursing-strike
 - new-york-city
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "disease and condition"
+  - health
+  - "mass media"
+  - "public health"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: New York City, New York, United States
 floor_values_engaged:

@@ -8,7 +8,13 @@ primary_themes:
 - criminal_justice
 - sexual_assault
 - courts
-topic_tags: []
+topic_tags:
+  - "human interest"
+  - election
+  - politics
+  - trial
+  - "crime, law and justice"
+  - "human migration"
 storyline_nexus: []
 geographic_location: New York, New York, USA
 floor_values_engaged:

@@ -15,10 +15,12 @@ primary_themes:
 - Democratic Party strategy
 - political organizing
 topic_tags:
+  - election
+  - government
+  - "monetary policy"
+  - "political dissent"
+  - "political process"
   - "science and technology"
-  - "politics"
-  - "election"
-  - "artificial intelligence"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

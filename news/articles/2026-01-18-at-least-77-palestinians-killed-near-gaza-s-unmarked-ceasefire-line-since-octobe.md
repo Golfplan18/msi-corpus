@@ -18,7 +18,10 @@ primary_themes:
 - territorial demarcation
 - buffer zone
 - ceasefire compliance
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "disaster, accident and emergency incident"
+  - fire
 storyline_nexus: []
 geographic_location: Gaza Strip, Palestinian territories
 floor_values_engaged:

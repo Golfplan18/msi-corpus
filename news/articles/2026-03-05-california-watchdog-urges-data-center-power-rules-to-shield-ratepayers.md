@@ -17,7 +17,11 @@ primary_themes:
 - electricity ratepayer protection
 - California energy policy
 - climate and environment
-topic_tags: []
+topic_tags:
+  - "economy, business and finance"
+  - "energy and resource"
+  - "environment"
+  - "climate change"
 storyline_nexus: []
 geographic_location: California, United States
 floor_values_engaged:

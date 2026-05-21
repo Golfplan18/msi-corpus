@@ -14,7 +14,10 @@ primary_themes:
 - Italian culture
 - couture
 - celebrity
-topic_tags: []
+topic_tags:
+  - "arts and entertainment"
+  - "arts, culture, entertainment and media"
+  - society
 storyline_nexus: []
 geographic_location: Rome, Italy
 floor_values_engaged:

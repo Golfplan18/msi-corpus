@@ -16,7 +16,13 @@ primary_themes:
 - Greenland_territorial_dispute
 - monetary_policy
 - earnings_season
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "economy, business and finance"
+  - government
+  - "government policy"
+  - "international relations"
+  - "international trade"
 storyline_nexus: []
 geographic_location: United States, Europe, Asia
 floor_values_engaged:

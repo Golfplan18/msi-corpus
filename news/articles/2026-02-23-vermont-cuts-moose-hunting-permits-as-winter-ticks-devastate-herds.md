@@ -18,7 +18,11 @@ primary_themes:
 - environmental conservation
 - hunting policy
 - ecological balance
-topic_tags: []
+topic_tags:
+  - environment
+  - "climate change"
+  - environment
+  - conservation
 storyline_nexus: []
 geographic_location: Vermont, Northeast Kingdom
 floor_values_engaged:

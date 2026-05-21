@@ -17,10 +17,12 @@ primary_themes:
 - nuclear weapons
 - U.S. foreign policy
 topic_tags:
-  - "conflict, war and peace"
   - "armed conflict"
-  - "politics"
+  - "conflict, war and peace"
   - "international relations"
+  - labour
+  - "labour dispute"
+  - politics
 storyline_nexus: []
 geographic_location: Israel; Iran; Middle East
 floor_values_engaged:

@@ -15,7 +15,12 @@ primary_themes:
 - Ceasefire and diplomacy
 - Military operations
 - Prisoner transfers
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "disaster, accident and emergency incident"
+  - fire
+  - "peace process"
 storyline_nexus: []
 geographic_location: Northeastern Syria (Hassakeh, Raqqa region)
 floor_values_engaged:

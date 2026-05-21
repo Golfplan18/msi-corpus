@@ -16,7 +16,10 @@ primary_themes:
 - child safety
 - tech accountability
 - mental health litigation
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - prosecution
+  - health
 storyline_nexus: []
 geographic_location: United States (Los Angeles, New Mexico, Oakland California)
 floor_values_engaged:

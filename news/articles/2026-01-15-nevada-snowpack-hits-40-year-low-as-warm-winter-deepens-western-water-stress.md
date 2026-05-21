@@ -18,7 +18,13 @@ primary_themes:
 - Western water supply
 - Colorado River management
 - climate and warming temperatures
-topic_tags: []
+topic_tags:
+  - "climate change"
+  - "conflict, war and peace"
+  - conservation
+  - environment
+  - "science and technology"
+  - weather
 storyline_nexus: []
 geographic_location: Nevada; Western United States; Colorado River Basin
 floor_values_engaged:

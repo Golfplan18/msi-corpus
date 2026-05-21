@@ -17,8 +17,7 @@ primary_themes:
 - christmas-season
 - feast-of-the-baptism-of-the-lord
 topic_tags:
-  - "religion"
-  - "religious institution"
+  - religion
 storyline_nexus: []
 geographic_location: Vatican City
 floor_values_engaged:

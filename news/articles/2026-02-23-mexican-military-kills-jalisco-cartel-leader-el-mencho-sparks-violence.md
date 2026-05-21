@@ -15,7 +15,13 @@ primary_themes:
 - law enforcement
 - fentanyl
 - violence
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "law enforcement"
+  - "conflict, war and peace"
+  - "armed conflict"
+  - politics
+  - "government policy"
 storyline_nexus: []
 geographic_location: Mexico
 floor_values_engaged:

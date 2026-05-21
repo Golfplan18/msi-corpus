@@ -14,7 +14,13 @@ primary_themes:
 - U.S. foreign policy
 - Venezuela intervention
 - America First
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - election
+  - government
+  - "government policy"
+  - health
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

@@ -13,7 +13,13 @@ primary_themes:
 - gun violence
 - public safety
 - Europe
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - crime
+  - "law enforcement"
+  - "conflict, war and peace"
+  - "armed conflict"
+  - "disaster, accident and emergency incident"
 storyline_nexus: []
 geographic_location: Chribska, Czech Republic
 floor_values_engaged:

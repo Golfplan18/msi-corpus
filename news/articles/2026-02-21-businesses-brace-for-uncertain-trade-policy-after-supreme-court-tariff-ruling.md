@@ -12,7 +12,13 @@ primary_themes:
 - tariffs
 - business impact
 - regulatory uncertainty
-topic_tags: []
+topic_tags:
+  - "economy, business and finance"
+  - "international trade"
+  - politics
+  - "government policy"
+  - "science and technology"
+  - "artificial intelligence"
 storyline_nexus: []
 geographic_location: United States (international implications)
 floor_values_engaged:

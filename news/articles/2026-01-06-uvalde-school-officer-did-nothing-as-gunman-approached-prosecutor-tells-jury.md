@@ -15,7 +15,13 @@ primary_themes:
 - school shooting accountability
 - law enforcement inaction
 - Uvalde massacre
-topic_tags: []
+topic_tags:
+  - crime
+  - "crime, law and justice"
+  - education
+  - judiciary
+  - "law enforcement"
+  - school
 storyline_nexus: []
 geographic_location: Corpus Christi, Texas
 floor_values_engaged:

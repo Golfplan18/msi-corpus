@@ -18,7 +18,13 @@ primary_themes:
 - satellite_internet_jamming
 - censorship
 - gps_disruption
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "crime, law and justice"
+  - "economy, business and finance"
+  - election
+  - labour
 storyline_nexus: []
 geographic_location: Iran
 floor_values_engaged:

@@ -19,9 +19,10 @@ primary_themes:
 - environmental waste
 - cybersecurity
 topic_tags:
-  - politics
-  - government
-  - "international relations"
+  - "conflict, war and peace"
+  - "science and technology"
+  - "artificial intelligence"
+  - environment
 storyline_nexus: []
 geographic_location: Las Vegas, Nevada, United States
 floor_values_engaged:

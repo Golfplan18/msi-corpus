@@ -14,7 +14,9 @@ primary_themes:
 - 2026_elections
 - governor_race
 - political_spending
-topic_tags: []
+topic_tags:
+  - election
+  - politics
 storyline_nexus: []
 geographic_location: California, United States
 floor_values_engaged:

@@ -17,7 +17,10 @@ primary_themes:
 - Syria
 - Diplomatic Relations
 - Embassy Operations
-topic_tags: []
+topic_tags:
+  - politics
+  - government
+  - "international relations"
 storyline_nexus: []
 geographic_location: Syria, United States, Damascus, Washington DC
 floor_values_engaged:

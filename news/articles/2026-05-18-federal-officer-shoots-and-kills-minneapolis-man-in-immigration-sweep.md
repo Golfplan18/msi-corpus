@@ -14,7 +14,11 @@ primary_themes:
 - Police use of force
 - Protest response
 - Federal-state conflict
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "law enforcement"
+  - politics
+  - "government policy"
 storyline_nexus: []
 geographic_location: Minneapolis, Minnesota, United States
 floor_values_engaged:

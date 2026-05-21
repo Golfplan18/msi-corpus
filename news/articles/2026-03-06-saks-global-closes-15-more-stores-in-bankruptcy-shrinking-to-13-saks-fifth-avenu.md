@@ -16,7 +16,9 @@ primary_themes:
 - luxury retail contraction
 - department store closures
 - corporate restructuring
-topic_tags: []
+topic_tags:
+  - "business information"
+  - "economy, business and finance"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

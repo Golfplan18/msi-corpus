@@ -18,7 +18,10 @@ primary_themes:
 - collective-bargaining
 - workplace-safety
 - staffing
-topic_tags: []
+topic_tags:
+  - health
+  - labour
+  - "labour dispute"
 storyline_nexus: []
 geographic_location: New York City, New York, United States
 floor_values_engaged:

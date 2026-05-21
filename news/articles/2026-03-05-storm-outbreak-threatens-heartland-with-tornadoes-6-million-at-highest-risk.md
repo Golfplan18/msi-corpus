@@ -17,7 +17,9 @@ primary_themes:
 - tornadoes
 - spring storm season
 - emergency preparedness
-topic_tags: []
+topic_tags:
+  - "disaster, accident and emergency incident"
+  - weather
 storyline_nexus: []
 geographic_location: United States — Oklahoma, Kansas, Missouri, Texas
 floor_values_engaged:

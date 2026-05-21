@@ -20,10 +20,8 @@ primary_themes:
 - geopolitics
 - ballistic missile policy
 topic_tags:
-  - "science and technology"
-  - "space programme"
-  - "politics"
-  - "international relations"
+  - "arts, culture, entertainment and media"
+  - "arts and entertainment"
 storyline_nexus: []
 geographic_location: Russia; Iran; international
 floor_values_engaged:

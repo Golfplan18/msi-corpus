@@ -16,7 +16,13 @@ primary_themes:
 - cross_border_strikes
 - counter_terrorism
 - regional_tensions
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "law enforcement"
+  - "conflict, war and peace"
+  - terrorism
+  - "conflict, war and peace"
+  - "armed conflict"
 storyline_nexus: []
 geographic_location: Pakistan-Afghanistan border region, Nangarhar, Paktika provinces
 floor_values_engaged:

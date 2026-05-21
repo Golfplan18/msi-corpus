@@ -17,7 +17,11 @@ primary_themes:
 - U.S. foreign policy
 - Latin America
 - diplomatic fallout
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "international relations"
+  - politics
 storyline_nexus: []
 geographic_location: Caracas, Venezuela; Washington, D.C.; Bogota, Colombia
 floor_values_engaged:

@@ -16,7 +16,13 @@ primary_themes:
 - law enforcement decision-making
 - public safety
 - technology policy
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - crime
+  - "crime, law and justice"
+  - "law enforcement"
+  - "science and technology"
+  - "artificial intelligence"
 storyline_nexus: []
 geographic_location: Tumbler Ridge, British Columbia, Canada
 floor_values_engaged:

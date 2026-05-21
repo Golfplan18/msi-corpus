@@ -13,7 +13,11 @@ primary_themes:
 - Legal profession
 - Technology adoption
 - Professional ethics
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - education
+  - "science and technology"
+  - "technology and engineering"
 storyline_nexus: []
 geographic_location: Mississippi, United States
 floor_values_engaged:

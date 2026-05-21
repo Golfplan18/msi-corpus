@@ -14,7 +14,12 @@ primary_themes:
 - criminal justice
 - Florida
 - homicide
-topic_tags: []
+topic_tags:
+  - politics
+  - government
+  - "crime, law and justice"
+  - crime
+  - judiciary
 storyline_nexus: []
 geographic_location: Tallahassee, Florida
 floor_values_engaged:

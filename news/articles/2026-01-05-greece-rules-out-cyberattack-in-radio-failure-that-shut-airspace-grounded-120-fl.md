@@ -16,8 +16,8 @@ primary_themes:
 - government investigation
 - air traffic communications
 topic_tags:
-  - "economy, business and finance"
-  - transport
+  - government
+  - politics
 storyline_nexus: []
 geographic_location: Greece
 floor_values_engaged:

@@ -20,9 +20,12 @@ primary_themes:
 - civil liberties
 - Minneapolis
 topic_tags:
-  - "crime, law and justice"
-  - "human interest"
-  - "law enforcement"
+  - "arts, culture, entertainment and media"
+  - "disaster, accident and emergency incident"
+  - fire
+  - "international relations"
+  - "natural disaster"
+  - "political process"
 storyline_nexus: []
 geographic_location: Minneapolis, Minnesota
 floor_values_engaged:

@@ -19,7 +19,13 @@ primary_themes:
 - energy infrastructure strikes
 - hypersonic weapons
 - civilian impact
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "crime, law and justice"
+  - "disaster, accident and emergency incident"
+  - "economy, business and finance"
+  - environment
 storyline_nexus: []
 geographic_location: Volgograd, Russia; Kyiv, Ukraine
 floor_values_engaged:

@@ -19,7 +19,13 @@ primary_themes:
 - geopolitics
 - sovereign debt
 - international trade
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - government
+  - "government policy"
+  - "monetary policy"
+  - "political dissent"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Venezuela; Washington, D.C.; Beijing, China
 floor_values_engaged:

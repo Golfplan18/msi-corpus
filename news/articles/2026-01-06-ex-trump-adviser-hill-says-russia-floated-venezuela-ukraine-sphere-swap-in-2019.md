@@ -18,8 +18,11 @@ primary_themes:
 - spheres of influence
 - Monroe Doctrine
 topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - government
+  - "government policy"
   - politics
-  - "international relations"
 storyline_nexus: []
 geographic_location: International
 floor_values_engaged:

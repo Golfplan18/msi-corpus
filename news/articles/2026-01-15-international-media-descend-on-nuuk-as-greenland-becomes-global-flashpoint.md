@@ -17,7 +17,11 @@ primary_themes:
 - press and media
 - territorial sovereignty
 - NATO
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "arts, culture, entertainment and media"
+  - "conflict, war and peace"
+  - politics
 storyline_nexus: []
 geographic_location: Nuuk, Greenland
 floor_values_engaged:

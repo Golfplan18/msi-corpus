@@ -15,7 +15,8 @@ primary_themes:
 - state constitutional law
 - reproductive health care
 - judicial review
-topic_tags: []
+topic_tags:
+  - health
 storyline_nexus: []
 geographic_location: Wyoming, United States
 floor_values_engaged:

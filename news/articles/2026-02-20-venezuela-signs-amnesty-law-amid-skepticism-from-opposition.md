@@ -20,7 +20,13 @@ primary_themes:
 - Venezuela governance
 - prisoner release
 - policy shift
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "crime, law and justice"
+  - government
+  - "government policy"
+  - "international relations"
 storyline_nexus: []
 geographic_location: Venezuela
 floor_values_engaged:

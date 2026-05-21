@@ -17,7 +17,11 @@ primary_themes:
 - SDF-Damascus tensions
 - Middle East
 topic_tags:
+  - politics
+  - government
   - "conflict, war and peace"
+  - "armed conflict"
+  - "disaster, accident and emergency incident"
 storyline_nexus: []
 geographic_location: Aleppo, Syria
 floor_values_engaged:

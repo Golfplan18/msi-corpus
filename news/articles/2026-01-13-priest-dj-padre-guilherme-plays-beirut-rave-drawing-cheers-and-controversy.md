@@ -16,12 +16,12 @@ primary_themes:
 - interfaith-coexistence
 - Lebanon
 topic_tags:
-  - "lifestyle and leisure"
-  - "science and technology"
-  - "education"
-  - "religion"
-  - "belief systems"
-  - "artificial intelligence"
+  - education
+  - "higher education"
+  - religion
+  - "religious leader"
+  - "arts, culture, entertainment and media"
+  - "social media"
 storyline_nexus: []
 geographic_location: Beirut, Lebanon
 floor_values_engaged:

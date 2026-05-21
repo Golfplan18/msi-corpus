@@ -20,7 +20,13 @@ primary_themes:
 - notable deaths
 - political violence
 - Catholic Church leadership
-topic_tags: []
+topic_tags:
+  - crime
+  - "crime, law and justice"
+  - government
+  - "law enforcement"
+  - "political dissent"
+  - "political process"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

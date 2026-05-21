@@ -15,7 +15,13 @@ primary_themes:
 - government accountability
 - political scandal
 - legal proceedings
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - prosecution
+  - politics
+  - "government policy"
+  - politics
+  - "international relations"
 storyline_nexus: []
 geographic_location: United Kingdom
 floor_values_engaged:

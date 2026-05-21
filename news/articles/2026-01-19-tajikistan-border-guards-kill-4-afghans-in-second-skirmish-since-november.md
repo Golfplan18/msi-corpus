@@ -15,7 +15,8 @@ primary_themes:
 - Afghanistan-Tajikistan relations
 - smuggling
 - Taliban governance
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
 storyline_nexus: []
 geographic_location: Afghanistan-Tajikistan border, Badakhshan province
 floor_values_engaged:

@@ -18,7 +18,11 @@ primary_themes:
 - congressional oversight
 - document disclosure
 - sex trafficking
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - election
+  - politics
 storyline_nexus: []
 geographic_location: Washington, D.C.
 floor_values_engaged:

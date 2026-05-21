@@ -13,7 +13,9 @@ primary_themes:
 - criminal justice
 - Brazil
 - child protection
-topic_tags: []
+topic_tags:
+  - religion
+  - "religious leader"
 storyline_nexus: []
 geographic_location: Minas Gerais, Brazil
 floor_values_engaged:

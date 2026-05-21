@@ -23,7 +23,13 @@ primary_themes:
 - grid reliability
 - data centers
 - community opposition
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - communities
+  - "economy, business and finance"
+  - "energy and resource"
+  - "science and technology"
+  - society
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

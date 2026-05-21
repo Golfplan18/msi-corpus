@@ -19,7 +19,12 @@ primary_themes:
 - Republican primary runoff
 - Political endorsements
 - Campaign finance
-topic_tags: []
+topic_tags:
+  - "politics"
+  - "election"
+  - "political process"
+  - "crime, law and justice"
+  - "corruption"
 storyline_nexus: []
 geographic_location: Texas, United States
 floor_values_engaged:

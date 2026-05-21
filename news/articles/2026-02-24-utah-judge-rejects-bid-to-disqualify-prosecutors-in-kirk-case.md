@@ -17,7 +17,13 @@ primary_themes:
 - Legal proceedings
 - Gun violence
 - Judicial fairness
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - crime
+  - "crime, law and justice"
+  - education
+  - government
+  - "government policy"
 storyline_nexus: []
 geographic_location: Utah, United States
 floor_values_engaged:

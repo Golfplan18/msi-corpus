@@ -16,7 +16,8 @@ primary_themes:
 - media independence
 - press freedom
 - media consolidation
-topic_tags: []
+topic_tags:
+  - education
 storyline_nexus: []
 geographic_location: New York, New York, United States
 floor_values_engaged:

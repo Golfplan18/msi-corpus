@@ -15,7 +15,13 @@ primary_themes:
 - criminalization of humanitarian aid
 - EU migration policy
 - refugee law
-topic_tags: []
+topic_tags:
+  - politics
+  - "human interest"
+  - society
+  - "government policy"
+  - "international relations"
+  - "human migration"
 storyline_nexus: []
 geographic_location: Lesbos, Greece
 floor_values_engaged:

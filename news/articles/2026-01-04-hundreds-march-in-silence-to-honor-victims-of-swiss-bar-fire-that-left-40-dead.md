@@ -17,7 +17,13 @@ primary_themes:
 - criminal investigation
 - fire safety regulations
 - international emergency response
-topic_tags: []
+topic_tags:
+  - "civil unrest"
+  - "conflict, war and peace"
+  - "crime, law and justice"
+  - "disaster, accident and emergency incident"
+  - "law enforcement"
+  - "political dissent"
 storyline_nexus: []
 geographic_location: Crans-Montana, Valais, Switzerland
 floor_values_engaged:

@@ -14,7 +14,8 @@ primary_themes:
 - federal courts
 - Supreme Court
 - explosives
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
 storyline_nexus: []
 geographic_location: Washington, D.C.
 floor_values_engaged:

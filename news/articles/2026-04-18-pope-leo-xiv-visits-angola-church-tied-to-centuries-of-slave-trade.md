@@ -14,7 +14,10 @@ primary_themes:
 - slavery
 - papal visit
 - colonialism
-topic_tags: []
+topic_tags:
+  - religion
+  - "religious institution"
+  - "religious leader"
 storyline_nexus: []
 geographic_location: Muxima, Angola
 floor_values_engaged:

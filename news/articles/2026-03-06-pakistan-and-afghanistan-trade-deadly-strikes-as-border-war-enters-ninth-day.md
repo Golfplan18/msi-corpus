@@ -20,7 +20,11 @@ primary_themes:
 - humanitarian displacement
 - ceasefire diplomacy
 - militant groups
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "economy, business and finance"
+  - "international trade"
 storyline_nexus: []
 geographic_location: Pakistan-Afghanistan border region
 floor_values_engaged:

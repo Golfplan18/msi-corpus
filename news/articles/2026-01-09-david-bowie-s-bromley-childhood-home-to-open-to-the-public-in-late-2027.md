@@ -15,7 +15,9 @@ primary_themes:
 - music history
 - London
 - historic preservation
-topic_tags: []
+topic_tags:
+  - "arts, culture, entertainment and media"
+  - music
 storyline_nexus: []
 geographic_location: Bromley, London, United Kingdom
 floor_values_engaged:

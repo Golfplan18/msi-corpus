@@ -12,7 +12,10 @@ primary_themes:
 - political_accountability
 - governmental_integrity
 - leadership_crisis
-topic_tags: []
+topic_tags:
+  - government
+  - politics
+  - "science and technology"
 storyline_nexus: []
 geographic_location: United Kingdom
 floor_values_engaged:

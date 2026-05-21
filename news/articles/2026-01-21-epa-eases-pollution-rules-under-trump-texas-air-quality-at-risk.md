@@ -18,7 +18,13 @@ primary_themes:
 - Environmental regulation
 - Energy policy
 - Public health
-topic_tags: []
+topic_tags:
+  - "climate change"
+  - conservation
+  - "crime, law and justice"
+  - environment
+  - health
+  - politics
 storyline_nexus: []
 geographic_location: Texas, United States
 floor_values_engaged:

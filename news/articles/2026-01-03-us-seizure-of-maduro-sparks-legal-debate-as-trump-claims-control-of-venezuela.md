@@ -17,7 +17,12 @@ primary_themes:
 - Venezuela
 - congressional oversight
 - narco-terrorism
-topic_tags: []
+topic_tags:
+  - politics
+  - "government policy"
+  - "international relations"
+  - "economy, business and finance"
+  - "crime, law and justice"
 storyline_nexus: []
 geographic_location: Venezuela / Washington, D.C.
 floor_values_engaged:

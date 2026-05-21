@@ -18,7 +18,9 @@ primary_themes:
 - public-safety
 - power-outages
 - emergency-response
-topic_tags: []
+topic_tags:
+  - "disaster, accident and emergency incident"
+  - weather
 storyline_nexus: []
 geographic_location: Eastern United States
 floor_values_engaged:

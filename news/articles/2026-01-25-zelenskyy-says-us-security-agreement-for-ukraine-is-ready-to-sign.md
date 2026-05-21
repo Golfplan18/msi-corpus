@@ -13,7 +13,10 @@ primary_themes:
 - Russia-Ukraine war
 - peace negotiations
 - security guarantees
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - government
+  - politics
 storyline_nexus: []
 geographic_location: Ukraine, Russia, United States, United Arab Emirates
 floor_values_engaged:

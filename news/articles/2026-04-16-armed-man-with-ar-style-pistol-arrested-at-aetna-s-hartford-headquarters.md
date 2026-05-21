@@ -15,7 +15,11 @@ primary_themes:
 - weapons charges
 - corporate security
 - health insurance industry
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "disaster, accident and emergency incident"
+  - fire
+  - health
 storyline_nexus: []
 geographic_location: Hartford, Connecticut
 floor_values_engaged:

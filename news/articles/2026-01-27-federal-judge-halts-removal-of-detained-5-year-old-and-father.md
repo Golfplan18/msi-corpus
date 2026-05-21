@@ -17,7 +17,13 @@ primary_themes:
 - immigrant detention
 - federal immigration policy
 - Trump administration immigration
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "human migration"
+  - "international relations"
+  - "law enforcement"
+  - "political dissent"
+  - trial
 storyline_nexus: []
 geographic_location: Minnesota (initial detention); Texas (current detention)
 floor_values_engaged:

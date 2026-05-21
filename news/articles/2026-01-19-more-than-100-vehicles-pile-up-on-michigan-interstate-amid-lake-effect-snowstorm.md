@@ -16,7 +16,9 @@ primary_themes:
 - winter_weather
 - traffic_safety
 - emergency_response
-topic_tags: []
+topic_tags:
+  - "disaster, accident and emergency incident"
+  - weather
 storyline_nexus: []
 geographic_location: Hudsonville, Michigan, United States
 floor_values_engaged:

@@ -14,7 +14,13 @@ primary_themes:
 - tariffs
 - Canada-US relations
 - USMCA review
-topic_tags: []
+topic_tags:
+  - government
+  - "government policy"
+  - "mass media"
+  - "monetary policy"
+  - "political dissent"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Canada, United States
 floor_values_engaged:

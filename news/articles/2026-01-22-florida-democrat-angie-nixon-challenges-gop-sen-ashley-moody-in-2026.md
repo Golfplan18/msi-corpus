@@ -12,7 +12,9 @@ primary_themes:
 - 2026 midterm elections
 - Senate campaigns
 - Economic affordability
-topic_tags: []
+topic_tags:
+  - politics
+  - election
 storyline_nexus: []
 geographic_location: Florida, United States
 floor_values_engaged:

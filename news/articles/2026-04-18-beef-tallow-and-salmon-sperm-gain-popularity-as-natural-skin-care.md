@@ -26,7 +26,13 @@ primary_themes:
 - product_claims
 - skeptical_analysis
 - beauty_industry
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "business information"
+  - "disease and condition"
+  - "mass media"
+  - "public health"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

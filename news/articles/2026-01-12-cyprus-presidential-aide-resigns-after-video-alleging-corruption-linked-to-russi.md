@@ -14,7 +14,9 @@ primary_themes:
 - EU presidency
 - Russian hybrid warfare
 - influence peddling
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - politics
 storyline_nexus: []
 geographic_location: Nicosia, Cyprus
 floor_values_engaged:

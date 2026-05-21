@@ -17,7 +17,13 @@ primary_themes:
 - deaths in federal custody
 - federal accountability
 - law enforcement shootings
-topic_tags: []
+topic_tags:
+  - "disaster, accident and emergency incident"
+  - election
+  - fire
+  - "human interest"
+  - "human migration"
+  - politics
 storyline_nexus: []
 geographic_location: 'United States: Minneapolis MN, Chicago IL, Camarillo CA, Norfolk VA'
 floor_values_engaged:

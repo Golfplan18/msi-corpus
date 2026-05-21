@@ -18,9 +18,12 @@ primary_themes:
 - federal-state jurisdiction
 - protests
 topic_tags:
-  - "crime, law and justice"
+  - politics
   - "human interest"
-  - "law enforcement"
+  - education
+  - "government policy"
+  - crime
+  - "crime, law and justice"
 storyline_nexus: []
 geographic_location: Minneapolis, Minnesota
 floor_values_engaged:

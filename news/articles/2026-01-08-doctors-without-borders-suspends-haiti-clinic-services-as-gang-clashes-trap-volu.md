@@ -17,9 +17,12 @@ primary_themes:
 - displacement
 - international peacekeeping
 topic_tags:
-  - politics
-  - government
+  - crime
+  - "crime, law and justice"
+  - "government policy"
+  - "human migration"
   - "international relations"
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: Port-au-Prince, Haiti
 floor_values_engaged:

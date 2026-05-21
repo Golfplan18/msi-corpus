@@ -18,7 +18,13 @@ primary_themes:
 - sphere of influence
 - Monroe Doctrine
 - geopolitics
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - government
+  - "international relations"
+  - "political dissent"
+  - politics
+  - "science and technology"
 storyline_nexus: []
 geographic_location: International
 floor_values_engaged:

@@ -15,11 +15,10 @@ primary_themes:
 - government_security
 - vice_presidential_security
 topic_tags:
-  - "construction and property"
+  - "arts, culture, entertainment and media"
   - "crime, law and justice"
-  - "economy, business and finance"
-  - "government policy"
-  - politics
+  - "mass media"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Cincinnati, Ohio
 floor_values_engaged:

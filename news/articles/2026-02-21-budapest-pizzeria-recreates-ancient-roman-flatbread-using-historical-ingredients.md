@@ -14,7 +14,9 @@ primary_themes:
 - history
 - archaeology
 - culinary innovation
-topic_tags: []
+topic_tags:
+  - "arts, culture, entertainment and media"
+  - "arts and entertainment"
 storyline_nexus: []
 geographic_location: Budapest, Hungary
 floor_values_engaged:

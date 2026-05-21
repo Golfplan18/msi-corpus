@@ -20,7 +20,12 @@ primary_themes:
 - Middle East
 - theocracy
 - Islamic Republic
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "artificial intelligence"
+  - "conflict, war and peace"
+  - environment
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Iran
 floor_values_engaged:

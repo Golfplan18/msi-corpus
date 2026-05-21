@@ -11,7 +11,9 @@ primary_themes:
 - product recalls
 - automotive safety
 - consumer protection
-topic_tags: []
+topic_tags:
+  - "arts, culture, entertainment and media"
+  - "mass media"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

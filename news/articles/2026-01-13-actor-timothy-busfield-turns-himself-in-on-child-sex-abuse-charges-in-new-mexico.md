@@ -22,12 +22,7 @@ primary_themes:
 - celebrity
 - law_enforcement
 topic_tags:
-  - "lifestyle and leisure"
-  - "travel"
-  - "science and technology"
-  - "arts, culture, entertainment and media"
-  - "artificial intelligence"
-  - "environment"
+  - "crime, law and justice"
 storyline_nexus: []
 geographic_location: Albuquerque, New Mexico, United States
 floor_values_engaged:

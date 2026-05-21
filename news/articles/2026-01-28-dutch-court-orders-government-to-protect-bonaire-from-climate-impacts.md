@@ -12,7 +12,13 @@ primary_themes:
 - climate_change
 - legal_accountability
 - environmental_justice
-topic_tags: []
+topic_tags:
+  - "human interest"
+  - trial
+  - environment
+  - "crime, law and justice"
+  - "human migration"
+  - "climate change"
 storyline_nexus: []
 geographic_location: Bonaire (Caribbean island, Dutch municipality); The Hague (Netherlands)
 floor_values_engaged:

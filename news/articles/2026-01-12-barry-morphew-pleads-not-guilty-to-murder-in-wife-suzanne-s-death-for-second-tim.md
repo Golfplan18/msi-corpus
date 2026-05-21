@@ -15,7 +15,9 @@ primary_themes:
 - homicide prosecution
 - missing persons
 - forensic evidence
-topic_tags: []
+topic_tags:
+  - crime
+  - "crime, law and justice"
 storyline_nexus: []
 geographic_location: Alamosa and Salida, Colorado, United States
 floor_values_engaged:

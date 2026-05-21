@@ -14,7 +14,12 @@ primary_themes:
 - U.S. foreign policy
 - organized crime
 - sanctions
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - crime
+  - "crime, law and justice"
+  - "international relations"
+  - politics
 storyline_nexus: []
 geographic_location: Venezuela / United States
 floor_values_engaged:

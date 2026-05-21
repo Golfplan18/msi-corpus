@@ -18,7 +18,11 @@ primary_themes:
 - weather records
 - extreme weather
 - public health
-topic_tags: []
+topic_tags:
+  - "human migration"
+  - "disaster, accident and emergency incident"
+  - "human interest"
+  - health
 storyline_nexus: []
 geographic_location: Eastern United States
 floor_values_engaged:

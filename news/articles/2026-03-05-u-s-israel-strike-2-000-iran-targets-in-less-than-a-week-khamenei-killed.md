@@ -20,7 +20,11 @@ primary_themes:
 - leadership decapitation
 - missile warfare
 - civilian casualties
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "crime"
+  - "crime, law and justice"
 storyline_nexus: []
 geographic_location: Iran (Tehran, Isfahan, Kermanshah, southeastern Iran)
 floor_values_engaged:

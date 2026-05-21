@@ -14,7 +14,11 @@ primary_themes:
 - redistricting
 - voter economic sentiment
 - affordability
-topic_tags: []
+topic_tags:
+  - "human migration"
+  - politics
+  - election
+  - "human interest"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

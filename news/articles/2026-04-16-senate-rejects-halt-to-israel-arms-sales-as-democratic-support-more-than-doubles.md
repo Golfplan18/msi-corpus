@@ -21,7 +21,11 @@ primary_themes:
 - Democratic Party foreign policy
 - Iran war
 - Gaza conflict
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - politics
+  - "government policy"
+  - "international relations"
 storyline_nexus: []
 geographic_location: Washington, D.C.
 floor_values_engaged:

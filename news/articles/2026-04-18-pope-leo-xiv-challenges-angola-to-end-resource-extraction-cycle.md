@@ -16,7 +16,12 @@ primary_themes:
 - corruption
 - economic_development
 - colonialism
-topic_tags: []
+topic_tags:
+  - politics
+  - government
+  - "conflict, war and peace"
+  - religion
+  - "religious leader"
 storyline_nexus: []
 geographic_location: Angola
 floor_values_engaged:

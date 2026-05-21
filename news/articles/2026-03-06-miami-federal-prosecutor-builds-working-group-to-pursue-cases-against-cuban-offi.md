@@ -19,7 +19,9 @@ primary_themes:
 - Trump foreign policy
 - Latin America
 - State sponsors of terrorism
-topic_tags: []
+topic_tags:
+  - "international relations"
+  - "politics"
 storyline_nexus: []
 geographic_location: Miami, Florida, United States
 floor_values_engaged:

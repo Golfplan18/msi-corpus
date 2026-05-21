@@ -20,8 +20,10 @@ primary_themes:
 - security guarantees
 - economic reconstruction
 topic_tags:
-  - politics
-  - government
+  - "arts, culture, entertainment and media"
+  - "conflict, war and peace"
+  - "mass media"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Kyiv, Ukraine; Paris, France
 floor_values_engaged:

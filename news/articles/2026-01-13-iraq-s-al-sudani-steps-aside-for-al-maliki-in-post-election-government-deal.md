@@ -16,11 +16,9 @@ primary_themes:
 - militia-disarmament
 - iran-backed-groups
 topic_tags:
-  - "science and technology"
-  - "politics"
-  - "government"
-  - "election"
-  - "artificial intelligence"
+  - election
+  - government
+  - politics
 storyline_nexus: []
 geographic_location: Baghdad, Iraq
 floor_values_engaged:

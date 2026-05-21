@@ -12,7 +12,8 @@ primary_themes:
 - corporate leadership transition
 - streaming media industry
 - technology industry
-topic_tags: []
+topic_tags:
+  - "economy, business and finance"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

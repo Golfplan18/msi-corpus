@@ -19,7 +19,11 @@ primary_themes:
 - detention camps
 - conflict aftermath
 - humanitarian conditions
-topic_tags: []
+topic_tags:
+  - "human interest"
+  - "human migration"
+  - "international relations"
+  - politics
 storyline_nexus: []
 geographic_location: Syria
 floor_values_engaged:

@@ -18,7 +18,9 @@ primary_themes:
 - voting rights
 - 2026 elections
 - partisan gerrymandering
-topic_tags: []
+topic_tags:
+  - election
+  - politics
 storyline_nexus: []
 geographic_location: New York City, Staten Island, Brooklyn, Manhattan
 floor_values_engaged:

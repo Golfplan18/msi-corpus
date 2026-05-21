@@ -14,7 +14,13 @@ primary_themes:
 - immigration policy
 - labor markets
 - government action
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "economy, business and finance"
+  - government
+  - "government policy"
+  - "human interest"
+  - "human migration"
 storyline_nexus: []
 geographic_location: Texas, United States
 floor_values_engaged:

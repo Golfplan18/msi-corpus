@@ -18,7 +18,7 @@ primary_themes:
 - post-conflict recovery
 - financial crisis
 topic_tags:
-  - "conflict, war and peace"
+  - politics
   - "economy, business and finance"
 storyline_nexus: []
 geographic_location: Beirut, Lebanon

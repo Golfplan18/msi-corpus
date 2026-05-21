@@ -15,7 +15,13 @@ primary_themes:
 - fraud
 - pandemic relief programs
 - wire fraud
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "business information"
+  - corruption
+  - "crime, law and justice"
+  - "economy, business and finance"
+  - "epidemic and pandemic"
 storyline_nexus: []
 geographic_location: Central Islip, New York, United States
 floor_values_engaged:

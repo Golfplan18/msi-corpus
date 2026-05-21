@@ -20,7 +20,9 @@ primary_themes:
 - Trump endorsements
 - Georgia politics
 - campaign finance
-topic_tags: []
+topic_tags:
+  - "government policy"
+  - "politics"
 storyline_nexus: []
 geographic_location: Georgia, United States
 floor_values_engaged:

@@ -14,7 +14,9 @@ primary_themes:
 - indigenous_communities
 - courtroom_disruption
 topic_tags:
+  - crime
   - "crime, law and justice"
+  - "law enforcement"
   - trial
 storyline_nexus: []
 geographic_location: Las Vegas, Nevada

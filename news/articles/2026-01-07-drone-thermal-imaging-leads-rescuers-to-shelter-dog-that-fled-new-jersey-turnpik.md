@@ -14,7 +14,12 @@ primary_themes:
 - drone technology
 - pet recovery
 - public safety
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "crime, law and justice"
+  - "law enforcement"
+  - "science and technology"
+  - weather
 storyline_nexus: []
 geographic_location: East Brunswick and Woodbridge Township, New Jersey
 floor_values_engaged:

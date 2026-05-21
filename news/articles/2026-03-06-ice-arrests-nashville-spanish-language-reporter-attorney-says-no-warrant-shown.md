@@ -15,7 +15,11 @@ primary_themes:
 - press freedom
 - due process
 - warrant dispute
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "crime"
+  - "crime, law and justice"
 storyline_nexus: []
 geographic_location: Nashville, Tennessee
 floor_values_engaged:

@@ -13,7 +13,13 @@ primary_themes:
 - plea_agreements
 - international_law
 - Zimbabwe_diaspora
-topic_tags: []
+topic_tags:
+  - crime
+  - "crime, law and justice"
+  - "human migration"
+  - "international relations"
+  - "law enforcement"
+  - trial
 storyline_nexus: []
 geographic_location: South Africa
 floor_values_engaged:

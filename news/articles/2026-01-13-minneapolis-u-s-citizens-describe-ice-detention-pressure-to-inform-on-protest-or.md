@@ -19,11 +19,8 @@ primary_themes:
 - First Amendment rights
 - U.S. citizens and immigration detention
 topic_tags:
-  - "science and technology"
-  - "politics"
-  - "government"
-  - "economy, business and finance"
-  - "market and exchange"
+  - "human interest"
+  - "human migration"
 storyline_nexus: []
 geographic_location: Minneapolis, Minnesota, United States
 floor_values_engaged:

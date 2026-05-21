@@ -15,7 +15,9 @@ primary_themes:
 - retaliation
 - documentary
 - inmate_rights
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: Alabama, United States
 floor_values_engaged:

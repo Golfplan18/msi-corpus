@@ -15,7 +15,13 @@ primary_themes:
 - prisoner exchange
 - U.S.-Russia relations
 - consular access
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "crime, law and justice"
+  - "disaster, accident and emergency incident"
+  - fire
+  - sport
 storyline_nexus: []
 geographic_location: Sochi, Russia
 floor_values_engaged:

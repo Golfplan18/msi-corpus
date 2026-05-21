@@ -19,8 +19,8 @@ primary_themes:
 - environmental accountability
 - corporate accountability
 topic_tags:
-  - environment
-  - pollution
+  - "disaster, accident and emergency incident"
+  - "economy, business and finance"
 storyline_nexus: []
 geographic_location: Gulf of Mexico, Louisiana coast
 floor_values_engaged:

@@ -17,7 +17,11 @@ primary_themes:
 - manufacturing automation
 - CES 2026
 - labor and employment
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - employment
+  - labour
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Las Vegas, Nevada
 floor_values_engaged:

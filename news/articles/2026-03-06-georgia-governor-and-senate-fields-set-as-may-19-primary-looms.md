@@ -23,7 +23,9 @@ primary_themes:
 - U.S. Senate race
 - gubernatorial race
 - primary elections
-topic_tags: []
+topic_tags:
+  - "government policy"
+  - "politics"
 storyline_nexus: []
 geographic_location: Atlanta, Georgia, United States
 floor_values_engaged:

@@ -16,7 +16,13 @@ primary_themes:
 - winter_weather
 - avalanches
 - snowstorms
-topic_tags: []
+topic_tags:
+  - crime
+  - "crime, law and justice"
+  - "disaster, accident and emergency incident"
+  - "human interest"
+  - "natural disaster"
+  - society
 storyline_nexus: []
 geographic_location: Pakistan and Afghanistan
 floor_values_engaged:

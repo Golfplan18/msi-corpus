@@ -20,7 +20,13 @@ primary_themes:
 - Gaza_conflict
 - NGO_operations
 - Israel_Hamas_war
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "artificial intelligence"
+  - "conflict, war and peace"
+  - "crime, law and justice"
+  - government
+  - "government policy"
 storyline_nexus: []
 geographic_location: Gaza Strip, Palestinian Territories
 floor_values_engaged:

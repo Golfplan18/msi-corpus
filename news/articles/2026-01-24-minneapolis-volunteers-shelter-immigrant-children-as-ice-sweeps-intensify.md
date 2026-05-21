@@ -15,7 +15,12 @@ primary_themes:
 - Family separation
 - Community organizing
 - Immigration policy
-topic_tags: []
+topic_tags:
+  - politics
+  - "human interest"
+  - "government policy"
+  - "human migration"
+  - religion
 storyline_nexus: []
 geographic_location: Minneapolis-St. Paul, Minnesota, United States
 floor_values_engaged:

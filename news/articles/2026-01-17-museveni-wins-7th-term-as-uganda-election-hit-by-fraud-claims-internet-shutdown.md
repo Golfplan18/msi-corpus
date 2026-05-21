@@ -24,7 +24,13 @@ primary_themes:
 - internet shutdown
 - Uganda politics
 - authoritarian incumbency
-topic_tags: []
+topic_tags:
+  - politics
+  - election
+  - government
+  - "crime, law and justice"
+  - corruption
+  - "arts, culture, entertainment and media"
 storyline_nexus: []
 geographic_location: Kampala, Uganda
 floor_values_engaged:

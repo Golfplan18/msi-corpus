@@ -17,7 +17,9 @@ primary_themes:
 - political prisoners
 - Venezuela government
 - reconciliation
-topic_tags: []
+topic_tags:
+  - society
+  - politics
 storyline_nexus: []
 geographic_location: Venezuela
 floor_values_engaged:

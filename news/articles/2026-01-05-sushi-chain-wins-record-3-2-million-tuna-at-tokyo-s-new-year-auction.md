@@ -16,9 +16,12 @@ primary_themes:
 - annual traditions
 - food economy
 topic_tags:
+  - "artificial intelligence"
   - "economy, business and finance"
-  - agriculture
-  - "lifestyle and leisure"
+  - "financial and business service"
+  - macroeconomics
+  - "monetary policy"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Tokyo, Japan
 floor_values_engaged:

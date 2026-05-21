@@ -20,9 +20,12 @@ primary_themes:
 - Uvalde
 - gun violence
 topic_tags:
+  - "artificial intelligence"
+  - crime
   - "crime, law and justice"
-  - trial
-  - "law enforcement"
+  - education
+  - government
+  - "government policy"
 storyline_nexus: []
 geographic_location: Corpus Christi, Texas, United States
 floor_values_engaged:

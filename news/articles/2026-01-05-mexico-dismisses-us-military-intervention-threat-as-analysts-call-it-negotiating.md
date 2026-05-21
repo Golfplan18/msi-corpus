@@ -19,8 +19,11 @@ primary_themes:
 - USMCA trade negotiations
 - Trump administration foreign policy
 topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "economy, business and finance"
+  - "international trade"
   - politics
-  - "international relations"
 storyline_nexus: []
 geographic_location: Mexico City, Mexico
 floor_values_engaged:

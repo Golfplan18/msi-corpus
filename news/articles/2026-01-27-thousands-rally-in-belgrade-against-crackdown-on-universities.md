@@ -16,7 +16,11 @@ primary_themes:
 - academic freedom
 - democratic freedoms
 - accountability_of_power
-topic_tags: []
+topic_tags:
+  - politics
+  - government
+  - education
+  - "higher education"
 storyline_nexus: []
 geographic_location: Belgrade, Serbia
 floor_values_engaged:

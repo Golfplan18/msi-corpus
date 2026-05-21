@@ -18,7 +18,11 @@ primary_themes:
 - institutional trust
 - artificial intelligence
 - housing affordability
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "economy, business and finance"
+  - "science and technology"
+  - society
 storyline_nexus: []
 geographic_location: Davos, Switzerland
 floor_values_engaged:

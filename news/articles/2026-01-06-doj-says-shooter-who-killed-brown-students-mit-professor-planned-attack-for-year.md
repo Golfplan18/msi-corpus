@@ -20,7 +20,7 @@ primary_themes:
 - misinformation
 topic_tags:
   - "crime, law and justice"
-  - crime
+  - education
 storyline_nexus: []
 geographic_location: Providence, Rhode Island; Cambridge, Massachusetts; Brookline, Massachusetts
 floor_values_engaged:

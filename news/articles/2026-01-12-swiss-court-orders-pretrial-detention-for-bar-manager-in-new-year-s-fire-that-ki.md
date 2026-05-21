@@ -15,7 +15,11 @@ primary_themes:
 - criminal accountability
 - pretrial detention
 - nightlife disaster
-topic_tags: []
+topic_tags:
+  - "disaster, accident and emergency incident"
+  - "fire"
+  - "crime, law and justice"
+  - "judiciary"
 storyline_nexus: []
 geographic_location: Crans-Montana, Valais, Switzerland
 floor_values_engaged:

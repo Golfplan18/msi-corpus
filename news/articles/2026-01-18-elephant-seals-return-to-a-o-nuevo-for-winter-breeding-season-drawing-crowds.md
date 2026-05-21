@@ -14,7 +14,9 @@ primary_themes:
 - conservation
 - California nature
 - endangered species recovery
-topic_tags: []
+topic_tags:
+  - conservation
+  - environment
 storyline_nexus: []
 geographic_location: Pescadero, California, United States
 floor_values_engaged:

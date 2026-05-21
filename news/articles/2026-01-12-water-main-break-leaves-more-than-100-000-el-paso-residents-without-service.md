@@ -14,11 +14,12 @@ primary_themes:
 - emergency response
 - school closures
 topic_tags:
+  - "conflict, war and peace"
+  - "education policy"
+  - "government policy"
+  - "human migration"
+  - "international relations"
   - "science and technology"
-  - "education"
-  - "disaster, accident and emergency incident"
-  - "accident and emergency incident"
-  - "human interest"
 storyline_nexus: []
 geographic_location: El Paso, Texas, United States
 floor_values_engaged:

@@ -15,7 +15,9 @@ primary_themes:
 - vaccination
 - H3N2
 - subclade K
-topic_tags: []
+topic_tags:
+  - health
+  - "epidemic and pandemic"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

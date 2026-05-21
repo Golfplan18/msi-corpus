@@ -16,7 +16,13 @@ primary_themes:
 - Syria post-Assad transition
 - Kurdish-Arab relations
 - SDF-government negotiations
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - crime
+  - "crime, law and justice"
+  - government
+  - "government policy"
 storyline_nexus: []
 geographic_location: Aleppo, Syria
 floor_values_engaged:

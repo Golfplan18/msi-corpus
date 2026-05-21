@@ -18,7 +18,10 @@ primary_themes:
 - federal use of force
 - federal-local conflict
 - administration response
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "crime, law and justice"
 storyline_nexus: []
 geographic_location: Minneapolis, Minnesota; Washington, D.C.
 floor_values_engaged:

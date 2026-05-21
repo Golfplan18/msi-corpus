@@ -23,7 +23,12 @@ primary_themes:
 - humanoid robots
 - autonomous vehicles
 - semiconductor competition
-topic_tags: []
+topic_tags:
+  - robotics
+  - "science and technology"
+  - environment
+  - "economy, business and finance"
+  - "artificial intelligence"
 storyline_nexus: []
 geographic_location: Las Vegas, Nevada, United States
 floor_values_engaged:

@@ -17,7 +17,13 @@ primary_themes:
 - repression
 - Vatican-China relations
 - persecution
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - government
+  - "government policy"
+  - "international relations"
+  - "law enforcement"
+  - "lifestyle and leisure"
 storyline_nexus: []
 geographic_location: China
 floor_values_engaged:

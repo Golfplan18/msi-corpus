@@ -18,7 +18,9 @@ primary_themes:
 - consumer safety
 - public records
 - legislative accountability
-topic_tags: []
+topic_tags:
+  - "disaster, accident and emergency incident"
+  - "accident and emergency incident"
 storyline_nexus: []
 geographic_location: California, United States
 floor_values_engaged:

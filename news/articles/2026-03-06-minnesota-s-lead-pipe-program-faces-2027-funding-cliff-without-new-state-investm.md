@@ -15,7 +15,9 @@ primary_themes:
 - lead pipe replacement
 - state budget
 - public health
-topic_tags: []
+topic_tags:
+  - "environment"
+  - "pollution"
 storyline_nexus: []
 geographic_location: Minnesota, United States
 floor_values_engaged:

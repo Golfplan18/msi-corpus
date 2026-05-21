@@ -16,7 +16,9 @@ primary_themes:
 - government contracting
 - taxpayer restitution
 - correctional facility staffing
-topic_tags: []
+topic_tags:
+  - government
+  - politics
 storyline_nexus: []
 geographic_location: Mississippi, United States
 floor_values_engaged:

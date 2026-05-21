@@ -13,7 +13,11 @@ primary_themes:
 - Chinese American community
 - Olympic achievement
 - multicultural identity
-topic_tags: []
+topic_tags:
+  - "disaster, accident and emergency incident"
+  - fire
+  - sport
+  - "sport event"
 storyline_nexus: []
 geographic_location: San Francisco, California, United States
 floor_values_engaged:

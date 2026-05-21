@@ -14,8 +14,11 @@ primary_themes:
 - retail
 - food_and_beverage
 topic_tags:
-  - "economy, business and finance"
+  - "artificial intelligence"
   - "business information"
+  - "disaster, accident and emergency incident"
+  - "economy, business and finance"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

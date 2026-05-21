@@ -19,7 +19,13 @@ primary_themes:
 - US foreign policy
 - Gaza reconstruction
 - international governance
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - "disaster, accident and emergency incident"
+  - fire
+  - "international relations"
+  - "natural disaster"
+  - "political dissent"
 storyline_nexus: []
 geographic_location: Gaza Strip; Middle East
 floor_values_engaged:

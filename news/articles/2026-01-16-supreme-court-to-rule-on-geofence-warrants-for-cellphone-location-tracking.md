@@ -17,7 +17,13 @@ primary_themes:
 - geofence warrants
 - law enforcement surveillance
 - Supreme Court
-topic_tags: []
+topic_tags:
+  - politics
+  - government
+  - "crime, law and justice"
+  - "law enforcement"
+  - judiciary
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Washington, D.C.; Midlothian, Virginia
 floor_values_engaged:

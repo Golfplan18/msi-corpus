@@ -15,7 +15,13 @@ primary_themes:
 - aviation_safety
 - memorial_commemoration
 - regulatory_reform
-topic_tags: []
+topic_tags:
+  - "accident and emergency incident"
+  - "artificial intelligence"
+  - crime
+  - "crime, law and justice"
+  - "disaster, accident and emergency incident"
+  - "economy, business and finance"
 storyline_nexus: []
 geographic_location: Washington, D.C.
 floor_values_engaged:

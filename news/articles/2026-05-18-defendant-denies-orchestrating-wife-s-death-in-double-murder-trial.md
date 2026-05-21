@@ -14,7 +14,10 @@ primary_themes:
 - double homicide
 - testimony
 - Virginia trial
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - trial
+  - law
 storyline_nexus: []
 geographic_location: Fairfax County, Virginia, United States
 floor_values_engaged:

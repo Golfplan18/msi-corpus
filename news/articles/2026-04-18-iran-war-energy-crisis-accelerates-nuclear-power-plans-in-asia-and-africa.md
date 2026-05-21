@@ -27,7 +27,13 @@ primary_themes:
 - infrastructure
 - climate change
 - geopolitics
-topic_tags: []
+topic_tags:
+  - politics
+  - "international relations"
+  - environment
+  - "economy, business and finance"
+  - "construction and property"
+  - "climate change"
 storyline_nexus: []
 geographic_location: International (Asia and Africa primary focus)
 floor_values_engaged:

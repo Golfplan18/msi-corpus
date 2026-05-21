@@ -14,7 +14,10 @@ primary_themes:
 - Jesse Jackson legacy
 - Rainbow Coalition
 - 2028 presidential race
-topic_tags: []
+topic_tags:
+  - "politics"
+  - "election"
+  - "political process"
 storyline_nexus: []
 geographic_location: Chicago, Illinois
 floor_values_engaged:

@@ -20,7 +20,10 @@ primary_themes:
 - immigration enforcement
 - truth and accountability
 - official transparency
-topic_tags: []
+topic_tags:
+  - politics
+  - "crime, law and justice"
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: Minneapolis, Minnesota, United States
 floor_values_engaged:

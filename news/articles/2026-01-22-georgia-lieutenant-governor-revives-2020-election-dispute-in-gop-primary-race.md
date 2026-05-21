@@ -13,7 +13,9 @@ primary_themes:
 - Republican primary
 - election administration
 - election disputes
-topic_tags: []
+topic_tags:
+  - election
+  - politics
 storyline_nexus: []
 geographic_location: Georgia, United States
 floor_values_engaged:

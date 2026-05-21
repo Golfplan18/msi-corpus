@@ -15,9 +15,10 @@ primary_themes:
 - state sovereignty
 - 2020 election
 topic_tags:
+  - politics
+  - election
   - "crime, law and justice"
   - prosecution
-  - politics
 storyline_nexus: []
 geographic_location: Colorado, United States
 floor_values_engaged:

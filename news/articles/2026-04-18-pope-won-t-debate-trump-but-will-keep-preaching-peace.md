@@ -15,7 +15,13 @@ primary_themes:
 - Peace advocacy
 - Geopolitical conflict
 - Church authority
-topic_tags: []
+topic_tags:
+  - politics
+  - "religious leader"
+  - "government policy"
+  - "international relations"
+  - "economy, business and finance"
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: Africa (Cameroon, Angola)
 floor_values_engaged:

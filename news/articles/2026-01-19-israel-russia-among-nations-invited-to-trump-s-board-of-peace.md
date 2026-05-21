@@ -19,7 +19,13 @@ primary_themes:
 - Middle East diplomacy
 - international peace governance
 - humanitarian crisis
-topic_tags: []
+topic_tags:
+  - politics
+  - "government policy"
+  - "international relations"
+  - "economy, business and finance"
+  - labour
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: Gaza Strip; International
 floor_values_engaged:

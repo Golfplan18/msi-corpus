@@ -19,7 +19,13 @@ primary_themes:
 - 2026 Winter Olympics
 - US executive branch
 - international representation
-topic_tags: []
+topic_tags:
+  - "business information"
+  - "crime, law and justice"
+  - "economy, business and finance"
+  - government
+  - "government policy"
+  - "international relations"
 storyline_nexus: []
 geographic_location: Milan, Italy
 floor_values_engaged:

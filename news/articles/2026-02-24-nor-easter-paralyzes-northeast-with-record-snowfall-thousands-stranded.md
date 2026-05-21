@@ -12,7 +12,8 @@ primary_themes:
 - winter storm
 - transportation disruption
 - public services
-topic_tags: []
+topic_tags:
+  - sport
 storyline_nexus: []
 geographic_location: United States, Northeastern region (Maryland to Maine)
 floor_values_engaged:

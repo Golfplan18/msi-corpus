@@ -17,7 +17,8 @@ primary_themes:
 - criminal_justice
 - mass_shooting
 - guilty_plea
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
 storyline_nexus: []
 geographic_location: Raleigh, North Carolina, United States
 floor_values_engaged:

@@ -15,7 +15,10 @@ primary_themes:
 - Arts and culture
 - Institutional change
 - Government administration
-topic_tags: []
+topic_tags:
+  - politics
+  - "government policy"
+  - "arts, culture, entertainment and media"
 storyline_nexus: []
 geographic_location: Washington, D.C., United States
 floor_values_engaged:

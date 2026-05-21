@@ -16,7 +16,9 @@ primary_themes:
 - insider_trading
 - prediction_markets
 - geopolitical_betting
-topic_tags: []
+topic_tags:
+  - politics
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

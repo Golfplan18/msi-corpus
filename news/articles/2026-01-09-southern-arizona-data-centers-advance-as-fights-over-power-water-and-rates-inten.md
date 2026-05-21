@@ -19,7 +19,13 @@ primary_themes:
 - water and energy impacts
 - local government land use
 - AI infrastructure
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "artificial intelligence"
+  - "conflict, war and peace"
+  - election
+  - politics
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Marana and Pima County, Arizona, United States
 floor_values_engaged:

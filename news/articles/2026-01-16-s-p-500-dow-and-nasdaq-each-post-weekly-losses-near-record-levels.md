@@ -23,7 +23,13 @@ primary_themes:
 - tariffs
 - Federal Reserve policy
 - international trade
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - banking
+  - "crime, law and justice"
+  - "economy, business and finance"
+  - "international trade"
+  - "market and exchange"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

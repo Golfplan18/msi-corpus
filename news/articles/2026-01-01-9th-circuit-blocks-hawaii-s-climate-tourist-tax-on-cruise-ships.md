@@ -17,7 +17,11 @@ primary_themes:
 - tourism tax
 - constitutional law
 - Hawaii
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "climate change"
+  - environment
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Honolulu, Hawaii, United States
 floor_values_engaged:

@@ -16,9 +16,12 @@ primary_themes:
 - climate change
 - executive orders
 topic_tags:
+  - environment
+  - "climate change"
   - politics
   - government
   - "international relations"
+  - weather
 storyline_nexus: []
 geographic_location: Washington, D.C.
 floor_values_engaged:

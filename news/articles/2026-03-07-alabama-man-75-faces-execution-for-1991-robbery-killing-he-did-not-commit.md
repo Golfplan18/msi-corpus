@@ -19,7 +19,9 @@ primary_themes:
 - felony murder doctrine
 - clemency
 - criminal justice
-topic_tags: []
+topic_tags:
+  - "crime"
+  - "crime, law and justice"
 storyline_nexus: []
 geographic_location: Talladega, Alabama, United States
 floor_values_engaged:

@@ -11,7 +11,11 @@ primary_themes:
 - economic indicators
 - consumer sentiment
 - labor market
-topic_tags: []
+topic_tags:
+  - "economy, business and finance"
+  - "epidemic and pandemic"
+  - health
+  - labour
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

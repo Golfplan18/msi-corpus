@@ -11,7 +11,10 @@ primary_themes:
 - automotive recalls
 - vehicle safety
 - consumer protection
-topic_tags: []
+topic_tags:
+  - "economy, business and finance"
+  - society
+  - welfare
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

@@ -14,7 +14,13 @@ primary_themes:
 - markets
 - tariffs
 - economic_policy
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "economy, business and finance"
+  - "international trade"
+  - "market and exchange"
+  - politics
+  - trial
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

@@ -18,7 +18,11 @@ primary_themes:
 - Sixth Amendment
 - California Racial Justice Act
 - juror pay
-topic_tags: []
+topic_tags:
+  - politics
+  - election
+  - "crime, law and justice"
+  - prosecution
 storyline_nexus: []
 geographic_location: Oakland, California
 floor_values_engaged:

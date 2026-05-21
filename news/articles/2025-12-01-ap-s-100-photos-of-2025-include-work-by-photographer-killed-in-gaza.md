@@ -17,10 +17,11 @@ primary_themes:
 - year-in-review
 - press freedom
 topic_tags:
-  - "conflict, war and peace"
-  - "armed conflict"
-  - "human interest"
-  - "human migration"
+  - "arts, culture, entertainment and media"
+  - health
+  - "mass media"
+  - sport
+  - "sport event"
 storyline_nexus: []
 geographic_location: International
 floor_values_engaged:

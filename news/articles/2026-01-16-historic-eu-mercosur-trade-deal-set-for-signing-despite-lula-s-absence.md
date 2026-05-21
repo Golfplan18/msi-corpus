@@ -15,7 +15,9 @@ primary_themes:
 - south_america
 - multilateralism
 - eu_relations
-topic_tags: []
+topic_tags:
+  - "international relations"
+  - politics
 storyline_nexus: []
 geographic_location: Paraguay; Brazil; EU
 floor_values_engaged:

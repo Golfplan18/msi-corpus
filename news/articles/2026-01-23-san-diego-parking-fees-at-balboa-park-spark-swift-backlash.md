@@ -11,7 +11,13 @@ primary_themes:
 - urban policy
 - public funding
 - cost of living
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - "economy, business and finance"
+  - government
+  - "government policy"
+  - "peace process"
+  - politics
 storyline_nexus: []
 geographic_location: San Diego, California
 floor_values_engaged:

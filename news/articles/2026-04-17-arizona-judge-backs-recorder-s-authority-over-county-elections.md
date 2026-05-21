@@ -17,7 +17,13 @@ primary_themes:
 - Election Administration
 - Battleground States
 - Election Integrity
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - election
+  - government
+  - "government policy"
+  - judiciary
+  - politics
 storyline_nexus: []
 geographic_location: Maricopa County, Arizona, United States
 floor_values_engaged:

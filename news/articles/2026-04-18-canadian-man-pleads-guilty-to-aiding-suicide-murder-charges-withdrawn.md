@@ -11,7 +11,12 @@ primary_themes:
 - Criminal justice
 - Law
 - International
-topic_tags: []
+topic_tags:
+  - politics
+  - "human interest"
+  - "international relations"
+  - "human migration"
+  - "crime, law and justice"
 storyline_nexus: []
 geographic_location: Canada, International
 floor_values_engaged:

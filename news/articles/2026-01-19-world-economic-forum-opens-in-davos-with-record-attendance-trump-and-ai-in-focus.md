@@ -15,7 +15,11 @@ primary_themes:
 - geopolitics
 - trade policy
 - international diplomacy
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "international relations"
+  - politics
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Davos, Graubünden, Switzerland
 floor_values_engaged:

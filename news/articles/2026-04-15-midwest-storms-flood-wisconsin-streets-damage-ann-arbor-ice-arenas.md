@@ -16,7 +16,13 @@ primary_themes:
 - tornadoes
 - Midwest storms
 - emergency management
-topic_tags: []
+topic_tags:
+  - "human interest"
+  - education
+  - "economy, business and finance"
+  - "human migration"
+  - "disaster, accident and emergency incident"
+  - school
 storyline_nexus: []
 geographic_location: Midwest United States
 floor_values_engaged:

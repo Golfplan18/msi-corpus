@@ -16,7 +16,10 @@ primary_themes:
 - israel-hamas-ceasefire
 - middle-east-conflict
 - military-operations
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - "disaster, accident and emergency incident"
+  - fire
 storyline_nexus: []
 geographic_location: Gaza Strip, Israel
 floor_values_engaged:

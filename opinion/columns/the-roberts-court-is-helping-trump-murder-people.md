@@ -27,7 +27,13 @@ primary_themes:
 - hamdi-due-process-floor
 - third-country-indefinite-detention
 - statutory-interpretation-1798
-topic_tags: []
+topic_tags:
+  - politics
+  - government
+  - "crime, law and justice"
+  - crime
+  - judiciary
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: United States / El Salvador (CECOT)
 floor_values_engaged:

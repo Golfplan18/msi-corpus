@@ -13,7 +13,9 @@ primary_themes:
 - elder_welfare
 - international_relations
 - family_dispute
-topic_tags: []
+topic_tags:
+  - "human interest"
+  - "human migration"
 storyline_nexus: []
 geographic_location: Orvault, France; Alabama and Louisiana, United States
 floor_values_engaged:

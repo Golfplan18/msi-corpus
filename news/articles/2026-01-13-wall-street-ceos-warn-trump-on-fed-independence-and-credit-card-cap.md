@@ -23,11 +23,12 @@ primary_themes:
 - banking regulation
 - Trump economic policy
 topic_tags:
-  - "science and technology"
-  - "politics"
-  - "government"
+  - "armed conflict"
+  - "artificial intelligence"
+  - "conflict, war and peace"
+  - economy
   - "economy, business and finance"
-  - "market and exchange"
+  - government
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

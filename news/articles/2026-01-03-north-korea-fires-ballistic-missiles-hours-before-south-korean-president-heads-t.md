@@ -20,10 +20,12 @@ primary_themes:
 - South Korea-China diplomacy
 - Workers' Party congress
 topic_tags:
-  - "conflict, war and peace"
   - "armed conflict"
-  - "politics"
-  - "international relations"
+  - "artificial intelligence"
+  - "conflict, war and peace"
+  - "disaster, accident and emergency incident"
+  - fire
+  - government
 storyline_nexus: []
 geographic_location: Korean Peninsula / Northeast Asia
 floor_values_engaged:

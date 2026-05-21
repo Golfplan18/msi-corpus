@@ -18,7 +18,9 @@ primary_themes:
 - government_accountability
 - personnel_controversy
 - security_clearance
-topic_tags: []
+topic_tags:
+  - government
+  - politics
 storyline_nexus: []
 geographic_location: United Kingdom, United States
 floor_values_engaged:

@@ -13,7 +13,11 @@ primary_themes:
 - military operations
 - U.S. foreign policy
 - Venezuela
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "international relations"
+  - politics
 storyline_nexus: []
 geographic_location: Eastern Pacific Ocean, Caribbean Sea, Venezuela, United States
 floor_values_engaged:

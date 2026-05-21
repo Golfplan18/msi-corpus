@@ -18,7 +18,13 @@ primary_themes:
 - Family Planning
 - Birth Rates
 - Trump Administration
-topic_tags: []
+topic_tags:
+  - "government policy"
+  - "human migration"
+  - "international relations"
+  - "mass media"
+  - "political dissent"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

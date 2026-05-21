@@ -13,7 +13,10 @@ primary_themes:
 - Iran policy
 - smuggling
 - law enforcement
-topic_tags: []
+topic_tags:
+  - "arts, culture, entertainment and media"
+  - "crime, law and justice"
+  - "mass media"
 storyline_nexus: []
 geographic_location: Seattle, WA; Panama; Xi'an, China; Iran
 floor_values_engaged:

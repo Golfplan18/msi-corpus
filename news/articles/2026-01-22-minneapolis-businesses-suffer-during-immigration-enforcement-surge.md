@@ -19,7 +19,8 @@ primary_themes:
 - protest
 - business disruption
 - federal operation
-topic_tags: []
+topic_tags:
+  - "economy, business and finance"
 storyline_nexus: []
 geographic_location: Minneapolis, Minnesota, USA
 floor_values_engaged:

@@ -17,7 +17,9 @@ primary_themes:
 - nuclear_negotiations
 - protest_and_demonstrations
 - human_rights
-topic_tags: []
+topic_tags:
+  - "science and technology"
+  - "artificial intelligence"
 storyline_nexus: []
 geographic_location: Iran; Geneva, Switzerland; Middle East
 floor_values_engaged:

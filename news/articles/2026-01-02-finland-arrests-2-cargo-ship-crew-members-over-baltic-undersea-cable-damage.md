@@ -18,10 +18,12 @@ primary_themes:
 - EU sanctions enforcement
 - hybrid warfare
 topic_tags:
-  - "crime, law and justice"
-  - "crime"
-  - "conflict, war and peace"
-  - "international military intervention"
+  - government
+  - "government policy"
+  - "human migration"
+  - "international relations"
+  - politics
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Gulf of Finland, Baltic Sea
 floor_values_engaged:

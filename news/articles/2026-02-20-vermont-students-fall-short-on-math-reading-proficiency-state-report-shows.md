@@ -15,7 +15,11 @@ primary_themes:
 - state_assessment
 - education_reform
 - policy_dispute
-topic_tags: []
+topic_tags:
+  - education
+  - "education policy"
+  - government
+  - politics
 storyline_nexus: []
 geographic_location: Vermont
 floor_values_engaged:

@@ -25,7 +25,13 @@ primary_themes:
 - tariffs and trade
 - NATO alliance
 - Greenland
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "economy, business and finance"
+  - "international trade"
+  - labour
+  - "labour dispute"
 storyline_nexus: []
 geographic_location: International — Copenhagen, Denmark; Norway; Sweden; France; Germany; United Kingdom; Netherlands; Finland
 floor_values_engaged:

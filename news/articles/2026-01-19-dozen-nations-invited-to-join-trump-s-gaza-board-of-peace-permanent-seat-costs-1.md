@@ -17,7 +17,13 @@ primary_themes:
 - Middle East diplomacy
 - Trump foreign policy
 - International institutions
-topic_tags: []
+topic_tags:
+  - "arts, culture, entertainment and media"
+  - "conflict, war and peace"
+  - "disaster, accident and emergency incident"
+  - fire
+  - "international relations"
+  - "mass media"
 storyline_nexus: []
 geographic_location: International / Gaza Strip
 floor_values_engaged:

@@ -13,7 +13,10 @@ primary_themes:
 - space exploration
 - moon mission
 - scientific progress
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "science and technology"
+  - "space programme"
 storyline_nexus: []
 geographic_location: Kennedy Space Center, Florida, USA
 floor_values_engaged:

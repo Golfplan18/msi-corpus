@@ -16,7 +16,11 @@ primary_themes:
 - Greek Orthodox tradition
 - Epiphany
 - community and cultural heritage
-topic_tags: []
+topic_tags:
+  - politics
+  - "international relations"
+  - religion
+  - "economy, business and finance"
 storyline_nexus: []
 geographic_location: Tarpon Springs, Pinellas County, Florida, United States
 floor_values_engaged:

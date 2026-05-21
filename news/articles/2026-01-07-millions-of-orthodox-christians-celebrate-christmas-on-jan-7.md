@@ -17,7 +17,11 @@ primary_themes:
 - Eastern_Orthodox_Christianity
 - Christmas
 - global_observance
-topic_tags: []
+topic_tags:
+  - labour
+  - "labour dispute"
+  - religion
+  - "religious institution"
 storyline_nexus: []
 geographic_location: Global
 floor_values_engaged:

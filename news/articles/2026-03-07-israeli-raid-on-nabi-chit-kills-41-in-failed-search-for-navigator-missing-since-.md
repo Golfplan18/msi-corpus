@@ -20,7 +20,11 @@ primary_themes:
 - Lebanon-Israel conflict
 - Iran war
 - covert operations
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "crime"
+  - "crime, law and justice"
 storyline_nexus: []
 geographic_location: Nabi Chit, eastern Lebanon
 floor_values_engaged:

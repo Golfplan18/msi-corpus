@@ -11,7 +11,13 @@ primary_themes:
 - Immigration policy
 - Population demographics
 - Trump administration
-topic_tags: []
+topic_tags:
+  - "civil unrest"
+  - "conflict, war and peace"
+  - government
+  - "government policy"
+  - "human interest"
+  - "human migration"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

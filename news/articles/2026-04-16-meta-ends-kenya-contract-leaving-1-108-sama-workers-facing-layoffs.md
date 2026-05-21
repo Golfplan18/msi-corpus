@@ -13,7 +13,12 @@ primary_themes:
 - tech industry outsourcing
 - AI labor
 - worker exploitation
-topic_tags: []
+topic_tags:
+  - "human interest"
+  - society
+  - "economy, business and finance"
+  - "human migration"
+  - labour
 storyline_nexus: []
 geographic_location: Nairobi, Kenya
 floor_values_engaged:

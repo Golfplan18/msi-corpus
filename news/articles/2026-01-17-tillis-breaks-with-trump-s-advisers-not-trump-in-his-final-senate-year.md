@@ -18,7 +18,8 @@ primary_themes:
 - Trump administration advisers
 - January 6 anniversary
 - Federal Reserve independence
-topic_tags: []
+topic_tags:
+  - politics
 storyline_nexus: []
 geographic_location: Washington, D.C.
 floor_values_engaged:

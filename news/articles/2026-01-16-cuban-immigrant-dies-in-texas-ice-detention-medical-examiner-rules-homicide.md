@@ -20,7 +20,9 @@ primary_themes:
 - detention deaths
 - private detention contractors
 - prone-restraint deaths
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: El Paso, Texas
 floor_values_engaged:

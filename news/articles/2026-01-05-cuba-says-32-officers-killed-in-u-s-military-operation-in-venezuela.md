@@ -19,8 +19,12 @@ primary_themes:
 - international security
 - Latin America
 topic_tags:
-  - "conflict, war and peace"
-  - "international military intervention"
+  - "artificial intelligence"
+  - crime
+  - "crime, law and justice"
+  - government
+  - "government policy"
+  - "international relations"
 storyline_nexus: []
 geographic_location: Venezuela; Cuba
 floor_values_engaged:

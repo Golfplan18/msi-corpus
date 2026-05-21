@@ -13,7 +13,13 @@ primary_themes:
 - water quality
 - environmental protection
 - public health
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - "disease and condition"
+  - macroeconomics
+  - "monetary policy"
+  - "public health"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Montgomery County, Maryland; Washington, D.C.
 floor_values_engaged:

@@ -16,7 +16,9 @@ primary_themes:
 - Venezuela
 - Latin America
 - international law
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - "armed conflict"
 storyline_nexus: []
 geographic_location: Venezuela; Palm Beach, Florida; Washington, D.C.
 floor_values_engaged:

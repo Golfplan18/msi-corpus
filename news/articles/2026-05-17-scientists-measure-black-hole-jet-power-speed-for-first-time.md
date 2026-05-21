@@ -16,7 +16,10 @@ primary_themes:
 - Black holes
 - Scientific research
 - Space exploration
-topic_tags: []
+topic_tags:
+  - "science and technology"
+  - "space programme"
+  - "scientific research"
 storyline_nexus: []
 geographic_location: International
 floor_values_engaged:

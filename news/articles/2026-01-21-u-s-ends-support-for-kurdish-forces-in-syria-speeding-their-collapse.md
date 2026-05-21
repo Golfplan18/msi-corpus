@@ -20,7 +20,10 @@ primary_themes:
 - Middle East politics
 - U.S. foreign policy
 - Syrian governance
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - politics
 storyline_nexus: []
 geographic_location: Syria
 floor_values_engaged:

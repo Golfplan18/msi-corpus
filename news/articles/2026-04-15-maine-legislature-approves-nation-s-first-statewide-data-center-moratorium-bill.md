@@ -15,7 +15,11 @@ primary_themes:
 - energy policy
 - state legislation
 - community opposition
-topic_tags: []
+topic_tags:
+  - politics
+  - government
+  - "science and technology"
+  - "artificial intelligence"
 storyline_nexus: []
 geographic_location: Maine, United States
 floor_values_engaged:

@@ -20,7 +20,11 @@ primary_themes:
 - community response
 - government resistance
 - refugee populations
-topic_tags: []
+topic_tags:
+  - "human migration"
+  - politics
+  - "government policy"
+  - "human interest"
 storyline_nexus: []
 geographic_location: Maine, United States
 floor_values_engaged:

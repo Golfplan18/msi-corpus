@@ -15,7 +15,13 @@ primary_themes:
 - energy supply
 - economic sanctions
 - Venezuela military operation
-topic_tags: []
+topic_tags:
+  - politics
+  - government
+  - "international relations"
+  - "crime, law and justice"
+  - "law enforcement"
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: Havana, Cuba
 floor_values_engaged:

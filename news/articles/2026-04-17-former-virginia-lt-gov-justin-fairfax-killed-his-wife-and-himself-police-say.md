@@ -16,7 +16,12 @@ primary_themes:
 - murder-suicide
 - mental health decline
 - political career
-topic_tags: []
+topic_tags:
+  - politics
+  - government
+  - "crime, law and justice"
+  - crime
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: Annandale, Virginia; Washington, D.C. region
 floor_values_engaged:

@@ -15,7 +15,13 @@ primary_themes:
 - trade tariffs
 - geopolitical tensions
 - international development
-topic_tags: []
+topic_tags:
+  - "economy, business and finance"
+  - employment
+  - health
+  - "international trade"
+  - labour
+  - "labour dispute"
 storyline_nexus: []
 geographic_location: International
 floor_values_engaged:

@@ -18,7 +18,11 @@ primary_themes:
 - Greenland sovereignty
 - Trump tariff policy
 - Arctic geopolitics
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - "economy, business and finance"
+  - "international trade"
+  - politics
 storyline_nexus: []
 geographic_location: International (Washington D.C.; Davos, Switzerland; Nuuk, Greenland; Brussels, Belgium)
 floor_values_engaged:

@@ -19,7 +19,13 @@ primary_themes:
 - inflation
 - stock markets
 - geopolitical risk
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - "crime, law and justice"
+  - "disaster, accident and emergency incident"
+  - "economy, business and finance"
+  - fire
+  - macroeconomics
 storyline_nexus: []
 geographic_location: Global (United States, Iran, Europe, Asia)
 floor_values_engaged:

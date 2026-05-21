@@ -15,7 +15,9 @@ primary_themes:
 - capital punishment
 - Iran-Israel conflict
 - covert operations
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - prosecution
 storyline_nexus: []
 geographic_location: Tehran, Iran
 floor_values_engaged:

@@ -18,7 +18,9 @@ primary_themes:
 - recycling
 - waste management
 - household safety
-topic_tags: []
+topic_tags:
+  - health
+  - "mental health"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

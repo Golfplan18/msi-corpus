@@ -11,7 +11,11 @@ primary_themes:
 - disability rights
 - political discourse
 - stigma
-topic_tags: []
+topic_tags:
+  - demographics
+  - society
+  - sport
+  - "sport event"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

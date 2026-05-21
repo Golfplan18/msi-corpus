@@ -19,7 +19,13 @@ primary_themes:
 - economic unrest
 - international response
 - US-Iran tensions
-topic_tags: []
+topic_tags:
+  - "civil unrest"
+  - "conflict, war and peace"
+  - government
+  - "mass media"
+  - "political dissent"
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Iran
 floor_values_engaged:

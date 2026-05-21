@@ -11,7 +11,10 @@ primary_themes:
 - natural disaster
 - landslide
 - weather emergency
-topic_tags: []
+topic_tags:
+  - "disaster, accident and emergency incident"
+  - "human interest"
+  - weather
 storyline_nexus: []
 geographic_location: West Java, Indonesia
 floor_values_engaged:

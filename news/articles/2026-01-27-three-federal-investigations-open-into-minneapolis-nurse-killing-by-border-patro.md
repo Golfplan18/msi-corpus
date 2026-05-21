@@ -19,7 +19,13 @@ primary_themes:
 - Government accountability
 - Federal-state conflict
 - Investigation procedures
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - "crime, law and justice"
+  - discrimination
+  - government
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: Minneapolis, Minnesota, United States
 floor_values_engaged:

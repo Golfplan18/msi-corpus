@@ -20,8 +20,10 @@ primary_themes:
 - geopolitics
 topic_tags:
   - politics
-  - "government policy"
+  - government
+  - "conflict, war and peace"
   - "economy, business and finance"
+  - "market and exchange"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

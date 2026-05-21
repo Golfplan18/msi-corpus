@@ -22,7 +22,13 @@ primary_themes:
 - establishment_clause
 - separation_of_church_and_state
 - religious_freedom
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - education
+  - religion
+  - "religious institution"
+  - school
+  - trial
 storyline_nexus: []
 geographic_location: United States (Louisiana, Texas, Arkansas, Kentucky)
 floor_values_engaged:

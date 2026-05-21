@@ -16,7 +16,13 @@ primary_themes:
 - document_disclosure
 - separation_of_powers
 - accountability_of_power
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "law enforcement"
+  - "crime, law and justice"
+  - prosecution
+  - "science and technology"
+  - "artificial intelligence"
 storyline_nexus: []
 geographic_location: Manhattan, New York, United States
 floor_values_engaged:

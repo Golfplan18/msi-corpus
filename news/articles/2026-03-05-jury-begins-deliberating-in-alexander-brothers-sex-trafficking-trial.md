@@ -17,7 +17,11 @@ primary_themes:
 - criminal trial
 - federal prosecution
 - sexual assault
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "crime"
+  - "trial"
+  - "prosecution"
 storyline_nexus: []
 geographic_location: New York, New York
 floor_values_engaged:

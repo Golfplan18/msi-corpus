@@ -20,8 +20,12 @@ primary_themes:
 - recycling
 - manufacturing emissions
 topic_tags:
+  - "artificial intelligence"
+  - "competition discipline"
+  - "economy, business and finance"
   - environment
-  - sustainability
+  - "manufacturing and engineering"
+  - pollution
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

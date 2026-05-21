@@ -17,6 +17,10 @@ primary_themes:
 topic_tags:
   - crime
   - "crime, law and justice"
+  - "disaster, accident and emergency incident"
+  - fire
+  - "human migration"
+  - "international relations"
 storyline_nexus: []
 geographic_location: Columbus, Ohio
 floor_values_engaged:

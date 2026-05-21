@@ -15,7 +15,13 @@ primary_themes:
 - latin_america_politics
 - brazil_coup_case
 - political_asylum
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - government
+  - "government policy"
+  - "human interest"
+  - "human migration"
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: Florida, United States
 floor_values_engaged:

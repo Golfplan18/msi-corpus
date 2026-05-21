@@ -17,7 +17,9 @@ primary_themes:
 - Pakistan Shiites
 - U.S.-Israeli military operations
 - diplomatic security
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: Islamabad, Pakistan; Karachi, Pakistan
 floor_values_engaged:

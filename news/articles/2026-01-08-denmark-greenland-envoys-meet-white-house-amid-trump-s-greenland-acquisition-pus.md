@@ -22,9 +22,8 @@ primary_themes:
 - Greenland acquisition
 - diplomatic negotiations
 topic_tags:
-  - politics
-  - "government policy"
   - "international relations"
+  - politics
 storyline_nexus: []
 geographic_location: Washington, D.C.; Greenland; Copenhagen; Paris
 floor_values_engaged:

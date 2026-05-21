@@ -20,7 +20,13 @@ primary_themes:
 - Republican divisions
 - Midterm elections
 - Economic policy
-topic_tags: []
+topic_tags:
+  - "economy, business and finance"
+  - "international trade"
+  - politics
+  - election
+  - politics
+  - "government policy"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

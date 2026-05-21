@@ -8,7 +8,9 @@ primary_themes:
 - accident
 - public_safety
 - transportation
-topic_tags: []
+topic_tags:
+  - "disaster, accident and emergency incident"
+  - sport
 storyline_nexus: []
 geographic_location: Detroit, Michigan, United States
 floor_values_engaged:

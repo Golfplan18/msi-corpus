@@ -19,7 +19,13 @@ primary_themes:
 - artificial intelligence investment
 - Federal Reserve monetary policy
 - oil markets
-topic_tags: []
+topic_tags:
+  - politics
+  - health
+  - trial
+  - "government policy"
+  - "market and exchange"
+  - "economy, business and finance"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

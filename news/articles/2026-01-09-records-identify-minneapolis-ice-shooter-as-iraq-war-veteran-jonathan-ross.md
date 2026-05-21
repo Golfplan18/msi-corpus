@@ -12,7 +12,12 @@ primary_themes:
 - immigration enforcement
 - use of force
 - law enforcement background
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - crime
+  - "crime, law and justice"
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: Minneapolis, Minnesota
 floor_values_engaged:

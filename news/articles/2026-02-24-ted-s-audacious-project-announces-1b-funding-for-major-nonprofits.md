@@ -22,7 +22,13 @@ primary_themes:
 - homelessness prevention
 - global health
 - disease research
-topic_tags: []
+topic_tags:
+  - "disease and condition"
+  - government
+  - "government policy"
+  - health
+  - politics
+  - "science and technology"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

@@ -24,7 +24,13 @@ primary_themes:
 - executive power
 - environmental litigation
 - national security
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - government
+  - "international relations"
+  - "law enforcement"
+  - "political dissent"
+  - trial
 storyline_nexus: []
 geographic_location: United States — East Coast
 floor_values_engaged:

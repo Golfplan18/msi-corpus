@@ -20,7 +20,11 @@ primary_themes:
 - ICE operations
 - partisan conflict
 - budget appropriations
-topic_tags: []
+topic_tags:
+  - politics
+  - election
+  - government
+  - "conflict, war and peace"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

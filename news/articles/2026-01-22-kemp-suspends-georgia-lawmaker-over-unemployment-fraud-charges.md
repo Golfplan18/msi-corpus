@@ -11,7 +11,10 @@ primary_themes:
 - unemployment fraud
 - government accountability
 - pandemic relief fraud
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - corruption
+  - labour
 storyline_nexus: []
 geographic_location: Georgia
 floor_values_engaged:

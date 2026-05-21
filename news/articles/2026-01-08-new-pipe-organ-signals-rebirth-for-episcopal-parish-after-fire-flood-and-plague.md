@@ -15,9 +15,12 @@ primary_themes:
 - urban churches
 - pipe organs
 topic_tags:
-  - "arts and entertainment"
-  - "religious institution"
-  - religion
+  - "arts, culture, entertainment and media"
+  - "disaster, accident and emergency incident"
+  - "epidemic and pandemic"
+  - fire
+  - health
+  - music
 storyline_nexus: []
 geographic_location: New York City, New York
 floor_values_engaged:

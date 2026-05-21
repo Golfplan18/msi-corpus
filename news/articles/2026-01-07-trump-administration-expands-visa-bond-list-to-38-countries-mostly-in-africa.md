@@ -13,10 +13,12 @@ primary_themes:
 - foreign policy
 - Africa
 topic_tags:
-  - politics
+  - banking
+  - "economy, business and finance"
   - government
   - "government policy"
-  - "human migration"
+  - "international relations"
+  - "lifestyle and leisure"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

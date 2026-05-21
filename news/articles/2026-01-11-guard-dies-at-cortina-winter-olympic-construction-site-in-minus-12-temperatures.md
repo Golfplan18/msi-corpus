@@ -15,10 +15,12 @@ primary_themes:
 - occupational death
 - government investigation
 topic_tags:
+  - "arts, culture, entertainment and media"
+  - "economy, business and finance"
+  - "construction and property"
+  - labour
+  - "weather warning"
   - "disaster, accident and emergency incident"
-  - "accident and emergency incident"
-  - "labour"
-  - "employment"
 storyline_nexus: []
 geographic_location: Cortina d'Ampezzo, Veneto, Italy
 floor_values_engaged:

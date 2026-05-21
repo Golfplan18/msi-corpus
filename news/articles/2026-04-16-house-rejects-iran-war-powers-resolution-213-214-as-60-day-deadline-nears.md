@@ -19,7 +19,12 @@ primary_themes:
 - congressional oversight
 - military authorization
 - War Powers Act of 1973
-topic_tags: []
+topic_tags:
+  - "armed conflict"
+  - "conflict, war and peace"
+  - election
+  - "international relations"
+  - politics
 storyline_nexus: []
 geographic_location: Washington, D.C., United States
 floor_values_engaged:

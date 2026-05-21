@@ -18,10 +18,11 @@ primary_themes:
 - climate adaptation
 - home improvement
 topic_tags:
-  - "environment"
-  - "sustainability"
-  - "lifestyle and leisure"
-  - "lifestyle"
+  - "climate change"
+  - education
+  - environment
+  - "higher education"
+  - weather
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

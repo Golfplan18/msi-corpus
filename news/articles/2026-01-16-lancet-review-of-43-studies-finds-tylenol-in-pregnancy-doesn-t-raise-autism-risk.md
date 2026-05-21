@@ -15,7 +15,10 @@ primary_themes:
 - acetaminophen
 - scientific research
 - Trump administration health policy
-topic_tags: []
+topic_tags:
+  - "government policy"
+  - health
+  - politics
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

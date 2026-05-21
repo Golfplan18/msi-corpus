@@ -15,7 +15,10 @@ primary_themes:
 - use of force
 - wrongful death litigation
 - civil rights
-topic_tags: []
+topic_tags:
+  - "civil rights"
+  - "crime, law and justice"
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: Wyandotte County, Kansas, United States
 floor_values_engaged:

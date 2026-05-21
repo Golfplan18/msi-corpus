@@ -15,11 +15,9 @@ primary_themes:
 - government property security
 - vice presidential security
 topic_tags:
-  - "science and technology"
+  - politics
   - "crime, law and justice"
-  - "trial"
-  - "politics"
-  - "government"
+  - prosecution
 storyline_nexus: []
 geographic_location: Cincinnati, Ohio
 floor_values_engaged:

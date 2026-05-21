@@ -21,7 +21,13 @@ primary_themes:
 - avalanche
 - search_and_rescue
 - mountain_safety
-topic_tags: []
+topic_tags:
+  - "disaster, accident and emergency incident"
+  - "natural disaster"
+  - "crime, law and justice"
+  - crime
+  - "science and technology"
+  - "artificial intelligence"
 storyline_nexus: []
 geographic_location: Castle Peak, Sierra Nevada, California, United States
 floor_values_engaged:

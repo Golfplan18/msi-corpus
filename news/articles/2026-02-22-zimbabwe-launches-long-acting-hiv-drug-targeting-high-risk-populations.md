@@ -22,7 +22,9 @@ primary_themes:
 - global health
 - donor-supported health initiatives
 - health equity
-topic_tags: []
+topic_tags:
+  - "science and technology"
+  - "artificial intelligence"
 storyline_nexus: []
 geographic_location: Zimbabwe, sub-Saharan Africa
 floor_values_engaged:

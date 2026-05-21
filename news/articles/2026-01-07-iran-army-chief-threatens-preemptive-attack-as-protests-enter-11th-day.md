@@ -14,7 +14,11 @@ primary_themes:
 - US-Iran tensions
 - Iran economy
 - Regional security
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - "economy, business and finance"
+  - education
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Iran
 floor_values_engaged:

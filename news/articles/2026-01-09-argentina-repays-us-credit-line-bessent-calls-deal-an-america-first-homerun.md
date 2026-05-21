@@ -14,7 +14,9 @@ primary_themes:
 - Latin America economic policy
 - U.S. foreign economic policy
 - Argentina debt
-topic_tags: []
+topic_tags:
+  - "international relations"
+  - politics
 storyline_nexus: []
 geographic_location: Buenos Aires, Argentina
 floor_values_engaged:

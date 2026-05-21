@@ -19,10 +19,8 @@ primary_themes:
 - social_media
 - conservative_movement
 topic_tags:
-  - "religion"
-  - "religious institution"
-  - "science and technology"
-  - "artificial intelligence"
+  - religion
+  - society
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

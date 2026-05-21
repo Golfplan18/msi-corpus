@@ -14,12 +14,8 @@ primary_themes:
 - gubernatorial housing
 - public asset disposition
 topic_tags:
-  - "artificial intelligence"
-  - "construction and property"
-  - "economy, business and finance"
-  - "government policy"
+  - government
   - politics
-  - "science and technology"
 storyline_nexus: []
 geographic_location: Helena, Montana, United States
 floor_values_engaged:

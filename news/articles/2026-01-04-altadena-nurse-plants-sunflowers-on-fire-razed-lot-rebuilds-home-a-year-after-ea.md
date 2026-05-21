@@ -12,7 +12,9 @@ primary_themes:
 - grief and resilience
 - rebuilding
 - Los Angeles area wildfires
-topic_tags: []
+topic_tags:
+  - "disaster, accident and emergency incident"
+  - fire
 storyline_nexus: []
 geographic_location: Altadena, California, United States
 floor_values_engaged:

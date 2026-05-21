@@ -18,9 +18,12 @@ primary_themes:
 - peaceful transfer of power
 - political pressure on teachers
 topic_tags:
+  - "arts, culture, entertainment and media"
   - education
-  - school
+  - election
+  - "mass media"
   - politics
+  - school
 storyline_nexus: []
 geographic_location: Michigan, United States
 floor_values_engaged:

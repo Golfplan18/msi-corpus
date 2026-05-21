@@ -18,7 +18,13 @@ primary_themes:
 - mental health services
 - Trump administration
 - federal grant terminations
-topic_tags: []
+topic_tags:
+  - politics
+  - health
+  - "human interest"
+  - "government policy"
+  - "human migration"
+  - labour
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

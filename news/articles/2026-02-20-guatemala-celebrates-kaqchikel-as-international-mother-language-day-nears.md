@@ -14,7 +14,9 @@ primary_themes:
 - cultural heritage
 - education
 - mayan languages
-topic_tags: []
+topic_tags:
+  - education
+  - school
 storyline_nexus: []
 geographic_location: San Jose Poaquil, Guatemala
 floor_values_engaged:

@@ -17,7 +17,11 @@ primary_themes:
 - use of lethal force
 - accountability of federal law enforcement
 - immigrant deaths in custody and flight
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "human interest"
+  - "human migration"
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:

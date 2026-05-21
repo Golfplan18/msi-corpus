@@ -16,7 +16,9 @@ primary_themes:
 - use of force
 - federal law enforcement accountability
 - evidentiary gaps
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "law enforcement"
 storyline_nexus: []
 geographic_location: Portland, Oregon, United States
 floor_values_engaged:

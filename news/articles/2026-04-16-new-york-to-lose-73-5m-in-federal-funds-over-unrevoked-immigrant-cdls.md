@@ -16,7 +16,11 @@ primary_themes:
 - federal funding
 - commercial driver's licenses
 - trucking industry
-topic_tags: []
+topic_tags:
+  - "human interest"
+  - "human migration"
+  - sport
+  - "sport event"
 storyline_nexus: []
 geographic_location: New York, United States
 floor_values_engaged:

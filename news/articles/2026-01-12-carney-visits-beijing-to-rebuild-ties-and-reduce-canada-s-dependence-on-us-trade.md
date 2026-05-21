@@ -15,7 +15,9 @@ primary_themes:
 - US tariffs
 - trade diversification
 - diplomacy
-topic_tags: []
+topic_tags:
+  - "economy, business and finance"
+  - "international trade"
 storyline_nexus: []
 geographic_location: Beijing, China
 floor_values_engaged:

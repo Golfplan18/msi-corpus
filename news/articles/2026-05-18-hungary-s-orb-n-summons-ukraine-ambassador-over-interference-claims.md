@@ -16,7 +16,10 @@ primary_themes:
 - election interference claims
 - Hungary-Ukraine relations
 - EU politics
-topic_tags: []
+topic_tags:
+  - politics
+  - election
+  - "international relations"
 storyline_nexus: []
 geographic_location: Hungary, Central Europe
 floor_values_engaged:

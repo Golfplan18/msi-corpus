@@ -22,7 +22,9 @@ primary_themes:
 - judicial oversight
 - immigration law
 - accountability_of_power
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - trial
 storyline_nexus: []
 geographic_location: Maine, United States
 floor_values_engaged:

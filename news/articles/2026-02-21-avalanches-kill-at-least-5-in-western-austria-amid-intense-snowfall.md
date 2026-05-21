@@ -12,7 +12,11 @@ primary_themes:
 - natural_disaster
 - winter_weather
 - avalanche_hazard
-topic_tags: []
+topic_tags:
+  - "disaster, accident and emergency incident"
+  - "natural disaster"
+  - weather
+  - "weather warning"
 storyline_nexus: []
 geographic_location: Tyrol, Austria
 floor_values_engaged:

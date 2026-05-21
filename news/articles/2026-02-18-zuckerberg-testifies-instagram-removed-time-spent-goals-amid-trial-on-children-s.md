@@ -14,7 +14,10 @@ primary_themes:
 - technology
 - legal proceedings
 - youth safety
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - prosecution
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Los Angeles, California, United States
 floor_values_engaged:

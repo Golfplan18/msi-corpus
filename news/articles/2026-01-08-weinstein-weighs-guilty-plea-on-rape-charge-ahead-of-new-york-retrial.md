@@ -13,7 +13,13 @@ primary_themes:
 - sexual assault
 - MeToo
 - plea proceedings
-topic_tags: []
+topic_tags:
+  - crime
+  - "crime, law and justice"
+  - "human migration"
+  - "international relations"
+  - "law enforcement"
+  - trial
 storyline_nexus: []
 geographic_location: New York City, New York, United States
 floor_values_engaged:

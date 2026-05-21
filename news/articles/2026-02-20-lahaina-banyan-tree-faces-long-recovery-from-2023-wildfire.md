@@ -15,7 +15,13 @@ primary_themes:
 - wildfire aftermath
 - community resilience
 - ecological restoration
-topic_tags: []
+topic_tags:
+  - "crime, law and justice"
+  - "disaster, accident and emergency incident"
+  - fire
+  - judiciary
+  - lifestyle
+  - "lifestyle and leisure"
 storyline_nexus: []
 geographic_location: Lahaina, Maui, Hawaii, United States
 floor_values_engaged:

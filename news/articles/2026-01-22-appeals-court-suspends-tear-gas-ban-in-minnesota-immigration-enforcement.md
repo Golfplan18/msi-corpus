@@ -14,7 +14,13 @@ primary_themes:
 - civil liberties
 - federal appeals
 - local government resistance
-topic_tags: []
+topic_tags:
+  - "civil unrest"
+  - "crime, law and justice"
+  - "human migration"
+  - "international relations"
+  - "political dissent"
+  - "political process"
 storyline_nexus: []
 geographic_location: Minnesota, Maine, United States
 floor_values_engaged:

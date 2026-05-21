@@ -19,8 +19,8 @@ primary_themes:
 - Brazil
 - natural resources
 topic_tags:
-  - "economy, business and finance"
-  - "international trade"
+  - politics
+  - government
 storyline_nexus: []
 geographic_location: Georgetown, Guyana
 floor_values_engaged:

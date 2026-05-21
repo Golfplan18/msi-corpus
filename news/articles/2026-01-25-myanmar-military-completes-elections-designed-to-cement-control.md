@@ -14,7 +14,13 @@ primary_themes:
 - military control
 - democracy
 - civil conflict
-topic_tags: []
+topic_tags:
+  - "artificial intelligence"
+  - election
+  - government
+  - "government policy"
+  - politics
+  - "science and technology"
 storyline_nexus: []
 geographic_location: Myanmar
 floor_values_engaged:

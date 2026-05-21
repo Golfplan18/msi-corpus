@@ -13,7 +13,9 @@ primary_themes:
 - wartime hazards to civilian workers
 - crew safety and labor conditions
 - regional conflict spillover
-topic_tags: []
+topic_tags:
+  - "conflict, war and peace"
+  - labour
 storyline_nexus: []
 geographic_location: Persian Gulf / Gulf of Oman / Strait of Hormuz region
 floor_values_engaged:

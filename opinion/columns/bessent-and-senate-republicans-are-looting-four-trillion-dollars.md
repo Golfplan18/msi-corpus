@@ -23,7 +23,9 @@ primary_themes:
 - corporate-tax-incidence
 - wonk-laundering
 - symmetric-application
-topic_tags: []
+topic_tags:
+  - politics
+  - government
 storyline_nexus: []
 geographic_location: Old Town Alexandria
 floor_values_engaged:
