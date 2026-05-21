@@ -26,7 +26,8 @@ topic_tags:
   - labour
   - "labour dispute"
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - trump-greenland-acquisition
 geographic_location: International
 floor_values_engaged:
 - value: informed_citizenship

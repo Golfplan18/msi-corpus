@@ -18,7 +18,8 @@ primary_themes:
 - geopolitical sanctions
 topic_tags:
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - greenland-annexation
 geographic_location: Cuba; Havana
 floor_values_engaged:
 - value: human_life_and_dignity

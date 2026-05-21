@@ -22,7 +22,10 @@ topic_tags:
   - "religious leader"
   - "human migration"
   - religion
-storyline_nexus: []
+storyline_nexus:
+  - immigration-enforcement
+  - trump-administration-2026
+  - venezuela-crisis
 geographic_location: Cuba
 floor_values_engaged:
 - value: human_life_and_dignity

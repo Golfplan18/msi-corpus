@@ -16,7 +16,10 @@ primary_themes:
 - children's charity
 - financial fraud
 topic_tags: []
-storyline_nexus: []
+storyline_nexus:
+  - us-administration-2026
+  - ai-regulation
+  - us-china-relations
 geographic_location: Lake Hughes, California; Los Angeles County, California
 floor_values_engaged:
 - value: accountability_of_power

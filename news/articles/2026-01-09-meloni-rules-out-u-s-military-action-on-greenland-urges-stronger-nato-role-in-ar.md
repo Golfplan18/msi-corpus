@@ -20,7 +20,10 @@ primary_themes:
 topic_tags:
   - "conflict, war and peace"
   - "armed conflict"
-storyline_nexus: []
+storyline_nexus:
+  - trump-tariff-policy
+  - gaza-conflict
+  - iran-war
 geographic_location: Rome, Italy; Greenland; Arctic
 floor_values_engaged:
 - value: informed_citizenship

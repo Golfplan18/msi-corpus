@@ -19,7 +19,8 @@ primary_themes:
 topic_tags:
   - "armed conflict"
   - "conflict, war and peace"
-storyline_nexus: []
+storyline_nexus:
+  - trump-fed-independence
 geographic_location: Anbar Province, Iraq
 floor_values_engaged:
 - value: informed_citizenship

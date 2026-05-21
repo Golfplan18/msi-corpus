@@ -25,7 +25,8 @@ topic_tags:
   - "international relations"
   - labour
   - "labour dispute"
-storyline_nexus: []
+storyline_nexus:
+  - venezuela-crisis
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship

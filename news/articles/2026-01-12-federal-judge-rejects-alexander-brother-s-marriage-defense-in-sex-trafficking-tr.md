@@ -16,7 +16,9 @@ primary_themes:
 - pretrial_motions
 topic_tags:
   - "crime, law and justice"
-storyline_nexus: []
+storyline_nexus:
+  - us-administration-2026
+  - us-china-relations
 geographic_location: Manhattan, New York
 floor_values_engaged:
 - value: human_life_and_dignity

@@ -26,7 +26,9 @@ topic_tags:
   - "international relations"
   - politics
   - "science and technology"
-storyline_nexus: []
+storyline_nexus:
+  - venezuela-crisis
+  - greenland-annexation
 geographic_location: Washington, D.C.
 floor_values_engaged:
 - value: informed_citizenship

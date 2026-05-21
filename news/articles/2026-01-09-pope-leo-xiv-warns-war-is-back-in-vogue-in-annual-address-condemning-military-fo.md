@@ -22,7 +22,10 @@ topic_tags:
   - "conflict, war and peace"
   - "crime, law and justice"
   - religion
-storyline_nexus: []
+storyline_nexus:
+  - gaza-conflict
+  - russia-ukraine-war
+  - venezuela-crisis
 geographic_location: Vatican City
 floor_values_engaged:
 - value: informed_citizenship

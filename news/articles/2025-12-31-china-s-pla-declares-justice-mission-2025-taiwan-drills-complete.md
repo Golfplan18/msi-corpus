@@ -25,7 +25,8 @@ topic_tags:
   - "human interest"
   - "international relations"
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - us-china-relations
 geographic_location: Taiwan Strait, East Asia
 floor_values_engaged:
 - value: informed_citizenship

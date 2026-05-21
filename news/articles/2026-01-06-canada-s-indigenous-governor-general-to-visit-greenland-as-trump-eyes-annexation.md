@@ -27,7 +27,8 @@ topic_tags:
   - "lifestyle and leisure"
   - politics
   - travel
-storyline_nexus: []
+storyline_nexus:
+  - greenland-annexation
 geographic_location: Greenland; Paris, France
 floor_values_engaged:
 - value: informed_citizenship

@@ -23,7 +23,10 @@ topic_tags:
   - fire
   - government
   - "government policy"
-storyline_nexus: []
+storyline_nexus:
+  - us-administration-2026
+  - us-china-relations
+  - monetary-policy-2026
 geographic_location: Jackson, Mississippi
 floor_values_engaged:
 - value: human_life_and_dignity

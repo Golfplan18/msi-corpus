@@ -26,7 +26,9 @@ topic_tags:
   - "international relations"
   - "natural disaster"
   - "political dissent"
-storyline_nexus: []
+storyline_nexus:
+  - gaza-conflict
+  - greenland-annexation
 geographic_location: Gaza Strip; Middle East
 floor_values_engaged:
 - value: informed_citizenship

@@ -24,7 +24,10 @@ topic_tags:
   - crime
   - "crime, law and justice"
   - "disaster, accident and emergency incident"
-storyline_nexus: []
+storyline_nexus:
+  - us-administration-2026
+  - ai-regulation
+  - us-china-relations
 geographic_location: Diré, Timbuktu Region, Mali
 floor_values_engaged:
 - value: human_life_and_dignity

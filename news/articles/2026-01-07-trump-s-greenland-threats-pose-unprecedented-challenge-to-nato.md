@@ -22,7 +22,8 @@ topic_tags:
   - politics
   - "government policy"
   - "international relations"
-storyline_nexus: []
+storyline_nexus:
+  - greenland-annexation
 geographic_location: Brussels / International
 floor_values_engaged:
 - value: informed_citizenship

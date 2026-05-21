@@ -19,7 +19,8 @@ topic_tags:
   - "government policy"
   - "crime, law and justice"
   - law
-storyline_nexus: []
+storyline_nexus:
+  - minneapolis-immigration
 geographic_location: United States (Washington D.C., Minneapolis, Minnesota)
 floor_values_engaged:
 - value: human_life_and_dignity

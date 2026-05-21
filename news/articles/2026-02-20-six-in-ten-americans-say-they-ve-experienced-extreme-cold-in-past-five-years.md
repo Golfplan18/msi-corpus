@@ -19,7 +19,8 @@ topic_tags:
   - "disaster, accident and emergency incident"
   - "climate change"
   - environment
-storyline_nexus: []
+storyline_nexus:
+  - winter-storm-2026
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

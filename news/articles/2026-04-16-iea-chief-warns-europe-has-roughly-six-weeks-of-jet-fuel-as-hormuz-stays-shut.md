@@ -22,7 +22,8 @@ topic_tags:
   - "conflict, war and peace"
   - "arts, culture, entertainment and media"
   - "arts and entertainment"
-storyline_nexus: []
+storyline_nexus:
+  - iran-war
 geographic_location: Europe; Persian Gulf; International
 floor_values_engaged:
 - value: informed_citizenship

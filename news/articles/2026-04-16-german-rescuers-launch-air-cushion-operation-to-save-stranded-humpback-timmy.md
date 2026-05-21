@@ -19,7 +19,8 @@ topic_tags:
   - conservation
   - environment
   - sport
-storyline_nexus: []
+storyline_nexus:
+  - ai-regulation
 geographic_location: Wismar, Mecklenburg-Pomerania, Germany
 floor_values_engaged:
 - value: informed_citizenship

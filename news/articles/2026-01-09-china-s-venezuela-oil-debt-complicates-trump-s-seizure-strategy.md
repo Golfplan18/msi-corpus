@@ -26,7 +26,10 @@ topic_tags:
   - "monetary policy"
   - "political dissent"
   - "science and technology"
-storyline_nexus: []
+storyline_nexus:
+  - trump-tariff-policy
+  - us-china-relations
+  - monetary-policy-2026
 geographic_location: Venezuela; Washington, D.C.; Beijing, China
 floor_values_engaged:
 - value: informed_citizenship

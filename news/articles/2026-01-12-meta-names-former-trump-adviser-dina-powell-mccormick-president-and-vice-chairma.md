@@ -21,7 +21,10 @@ topic_tags:
   - politics
   - "science and technology"
   - "technology and engineering"
-storyline_nexus: []
+storyline_nexus:
+  - us-administration-2026
+  - trump-tariff-policy
+  - humanoid-robotics-industry
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship

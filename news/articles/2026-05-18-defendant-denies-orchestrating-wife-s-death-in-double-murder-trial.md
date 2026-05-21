@@ -18,7 +18,8 @@ topic_tags:
   - "crime, law and justice"
   - trial
   - law
-storyline_nexus: []
+storyline_nexus:
+  - ice-enforcement-surge-2026
 geographic_location: Fairfax County, Virginia, United States
 floor_values_engaged:
 - value: truthfulness

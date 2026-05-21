@@ -24,7 +24,8 @@ topic_tags:
   - "disaster, accident and emergency incident"
   - environment
   - "natural disaster"
-storyline_nexus: []
+storyline_nexus:
+  - minneapolis-immigration
 geographic_location: 'South Africa (Limpopo and Mpumalanga provinces); regional: Mozambique, Zimbabwe'
 floor_values_engaged:
 - value: human_life_and_dignity

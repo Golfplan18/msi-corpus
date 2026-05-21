@@ -35,7 +35,9 @@ topic_tags:
   - "government policy"
   - "international trade"
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - trump-administration-2026
+  - trump-tariff-policy
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship

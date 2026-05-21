@@ -21,7 +21,8 @@ topic_tags:
   - "political dissent"
   - "science and technology"
   - trial
-storyline_nexus: []
+storyline_nexus:
+  - trump-fed-independence
 geographic_location: Washington, D.C., United States
 floor_values_engaged:
 - value: accountability_of_power

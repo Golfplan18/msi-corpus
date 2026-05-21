@@ -16,7 +16,8 @@ primary_themes:
 - US mediation
 - post-Assad Syria
 topic_tags: []
-storyline_nexus: []
+storyline_nexus:
+  - syria-israel-talks
 geographic_location: Paris, France; Syria; Israel
 floor_values_engaged:
 - value: informed_citizenship

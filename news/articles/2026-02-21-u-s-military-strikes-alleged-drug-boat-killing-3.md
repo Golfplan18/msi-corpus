@@ -19,7 +19,8 @@ topic_tags:
   - "government policy"
   - labour
   - "labour dispute"
-storyline_nexus: []
+storyline_nexus:
+  - trump-administration-2026
 geographic_location: Eastern Pacific Ocean; Caribbean Sea
 floor_values_engaged:
 - value: human_life_and_dignity

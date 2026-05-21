@@ -19,7 +19,8 @@ topic_tags:
   - politics
   - sport
   - "sport event"
-storyline_nexus: []
+storyline_nexus:
+  - venezuela-crisis
 geographic_location: Venezuela; United States
 floor_values_engaged:
 - value: informed_citizenship

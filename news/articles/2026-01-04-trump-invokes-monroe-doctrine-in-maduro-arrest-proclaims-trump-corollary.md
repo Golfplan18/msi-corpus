@@ -23,7 +23,8 @@ topic_tags:
   - "monetary policy"
   - "political dissent"
   - "science and technology"
-storyline_nexus: []
+storyline_nexus:
+  - venezuela-crisis
 geographic_location: Venezuela / Western Hemisphere
 floor_values_engaged:
 - value: informed_citizenship

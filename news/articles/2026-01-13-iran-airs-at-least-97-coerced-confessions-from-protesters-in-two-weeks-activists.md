@@ -18,7 +18,9 @@ primary_themes:
 topic_tags:
   - "arts, culture, entertainment and media"
   - "arts and entertainment"
-storyline_nexus: []
+storyline_nexus:
+  - iran-war
+  - ai-regulation
 geographic_location: Iran
 floor_values_engaged:
 - value: human_life_and_dignity

@@ -22,7 +22,10 @@ topic_tags:
   - "human migration"
   - "international relations"
   - "political dissent"
-storyline_nexus: []
+storyline_nexus:
+  - immigration-enforcement
+  - ice-enforcement-surge-2026
+  - trump-administration-2026
 geographic_location: Milan, Italy
 floor_values_engaged:
 - value: accountability_of_power

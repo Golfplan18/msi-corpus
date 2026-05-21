@@ -22,7 +22,10 @@ topic_tags:
   - "international relations"
   - "political process"
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - iran-war
+  - monetary-policy-2026
+  - ai-regulation
 geographic_location: Iran
 floor_values_engaged:
 - value: informed_citizenship

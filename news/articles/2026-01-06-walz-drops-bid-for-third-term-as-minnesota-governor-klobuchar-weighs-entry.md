@@ -19,7 +19,8 @@ topic_tags:
   - "law enforcement"
   - politics
   - society
-storyline_nexus: []
+storyline_nexus:
+  - trump-immigration-crackdown
 geographic_location: St. Paul, Minnesota, United States
 floor_values_engaged:
 - value: informed_citizenship

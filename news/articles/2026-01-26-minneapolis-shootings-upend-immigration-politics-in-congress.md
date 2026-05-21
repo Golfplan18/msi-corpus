@@ -20,7 +20,10 @@ topic_tags:
   - "crime, law and justice"
   - government
   - "government policy"
-storyline_nexus: []
+storyline_nexus:
+  - immigration-enforcement
+  - ice-enforcement-surge-2026
+  - trump-administration-2026
 geographic_location: Minneapolis, Minnesota, United States
 floor_values_engaged:
 - value: accountability_of_power

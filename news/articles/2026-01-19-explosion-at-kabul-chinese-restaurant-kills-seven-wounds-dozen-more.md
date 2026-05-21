@@ -22,7 +22,8 @@ topic_tags:
   - health
   - "law enforcement"
   - terrorism
-storyline_nexus: []
+storyline_nexus:
+  - trump-fed-independence
 geographic_location: Kabul, Afghanistan
 floor_values_engaged:
 - value: human_life_and_dignity

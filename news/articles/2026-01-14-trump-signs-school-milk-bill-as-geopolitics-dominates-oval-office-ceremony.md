@@ -24,7 +24,9 @@ topic_tags:
   - "disaster, accident and emergency incident"
   - "economy, business and finance"
   - education
-storyline_nexus: []
+storyline_nexus:
+  - iran-crisis-2026
+  - immigration-enforcement
 geographic_location: Washington, D.C.
 floor_values_engaged:
 - value: informed_citizenship

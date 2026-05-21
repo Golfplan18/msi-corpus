@@ -24,7 +24,10 @@ topic_tags:
   - "crime, law and justice"
   - "crime"
   - "disaster, accident and emergency incident"
-storyline_nexus: []
+storyline_nexus:
+  - ces-2026
+  - us-administration-2026
+  - ai-regulation
 geographic_location: Washington County, Georgia
 floor_values_engaged:
 - value: human_life_and_dignity

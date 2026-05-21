@@ -16,7 +16,10 @@ primary_themes:
 - US-UK political relations
 topic_tags:
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - trump-tariff-policy
+  - us-china-relations
+  - us-administration-2026
 geographic_location: London, United Kingdom
 floor_values_engaged:
 - value: truthfulness

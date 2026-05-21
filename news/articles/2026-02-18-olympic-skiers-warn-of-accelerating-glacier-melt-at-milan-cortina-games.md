@@ -25,7 +25,8 @@ topic_tags:
   - sport
   - "sport event"
   - weather
-storyline_nexus: []
+storyline_nexus:
+  - immigration-enforcement
 geographic_location: Italy; Alps; Dolomites; Cortina d'Ampezzo
 floor_values_engaged:
 - value: informed_citizenship

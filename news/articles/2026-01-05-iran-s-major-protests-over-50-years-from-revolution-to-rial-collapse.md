@@ -18,7 +18,8 @@ primary_themes:
 - currency crisis
 topic_tags:
   - "conflict, war and peace"
-storyline_nexus: []
+storyline_nexus:
+  - iran-war
 geographic_location: Iran
 floor_values_engaged:
 - value: human_life_and_dignity

@@ -21,7 +21,10 @@ topic_tags:
   - "law enforcement"
   - "disaster, accident and emergency incident"
   - fire
-storyline_nexus: []
+storyline_nexus:
+  - us-administration-2026
+  - trump-tariff-policy
+  - us-china-relations
 geographic_location: Albuquerque, New Mexico; San Diego, California; Lordsburg, New Mexico; Tucson, Arizona
 floor_values_engaged:
 - value: human_life_and_dignity

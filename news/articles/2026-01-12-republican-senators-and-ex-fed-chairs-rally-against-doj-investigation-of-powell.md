@@ -17,7 +17,10 @@ primary_themes:
 topic_tags:
   - election
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - us-administration-2026
+  - trump-tariff-policy
+  - monetary-policy-2026
 geographic_location: Washington, D.C., United States
 floor_values_engaged:
 - value: accountability_of_power

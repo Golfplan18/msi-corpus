@@ -19,7 +19,8 @@ topic_tags:
   - government
   - "international relations"
   - "economy, business and finance"
-storyline_nexus: []
+storyline_nexus:
+  - trump-greenland-acquisition
 geographic_location: International (NATO, Switzerland, Netherlands, Denmark/Greenland, Hungary, Turkey)
 floor_values_engaged:
 - value: informed_citizenship

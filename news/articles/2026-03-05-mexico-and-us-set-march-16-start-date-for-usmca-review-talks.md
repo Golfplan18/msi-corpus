@@ -19,7 +19,9 @@ topic_tags:
   - "international trade"
   - "politics"
   - "international relations"
-storyline_nexus: []
+storyline_nexus:
+  - mexico-cartel-violence
+  - us-china-relations
 geographic_location: United States / Mexico
 floor_values_engaged:
 - value: informed_citizenship

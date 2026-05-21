@@ -21,7 +21,10 @@ topic_tags:
   - demographics
   - "science and technology"
   - society
-storyline_nexus: []
+storyline_nexus:
+  - iran-war
+  - immigration-enforcement
+  - iran-crisis-2026
 geographic_location: Haiti
 floor_values_engaged:
 - value: human_life_and_dignity

@@ -20,7 +20,8 @@ topic_tags:
   - lifestyle
   - "lifestyle and leisure"
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - wildfire-season-2026
 geographic_location: United States (Altadena, California; Colorado; Hawaii; Oregon)
 floor_values_engaged:
 - value: human_life_and_dignity

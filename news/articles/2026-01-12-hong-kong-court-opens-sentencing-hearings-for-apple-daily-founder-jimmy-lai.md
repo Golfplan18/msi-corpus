@@ -23,7 +23,10 @@ topic_tags:
   - politics
   - "science and technology"
   - trial
-storyline_nexus: []
+storyline_nexus:
+  - ai-regulation
+  - trump-tariff-policy
+  - us-administration-2026
 geographic_location: Hong Kong
 floor_values_engaged:
 - value: informed_citizenship

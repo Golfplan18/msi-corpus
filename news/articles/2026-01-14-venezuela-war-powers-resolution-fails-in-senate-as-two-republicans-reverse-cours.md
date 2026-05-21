@@ -24,7 +24,8 @@ primary_themes:
 - foreign policy
 topic_tags:
   - "conflict, war and peace"
-storyline_nexus: []
+storyline_nexus:
+  - venezuela-crisis
 geographic_location: Washington, D.C., United States
 floor_values_engaged:
 - value: accountability_of_power

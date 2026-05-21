@@ -20,7 +20,8 @@ primary_themes:
 topic_tags:
   - "science and technology"
   - "artificial intelligence"
-storyline_nexus: []
+storyline_nexus:
+  - iran-war
 geographic_location: Iran; Geneva, Switzerland; Middle East
 floor_values_engaged:
 - value: informed_citizenship

@@ -22,7 +22,8 @@ topic_tags:
   - "economy, business and finance"
   - government
   - "government policy"
-storyline_nexus: []
+storyline_nexus:
+  - trump-tariff-policy
 geographic_location: Detroit, Michigan, United States
 floor_values_engaged:
 - value: informed_citizenship

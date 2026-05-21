@@ -22,7 +22,10 @@ topic_tags:
   - "disease and condition"
   - politics
   - "government policy"
-storyline_nexus: []
+storyline_nexus:
+  - us-administration-2026
+  - monetary-policy-2026
+  - trump-tariff-policy
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship

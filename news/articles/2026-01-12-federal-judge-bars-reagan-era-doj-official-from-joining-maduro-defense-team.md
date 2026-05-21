@@ -18,7 +18,10 @@ primary_themes:
 - legal representation
 topic_tags:
   - "conflict, war and peace"
-storyline_nexus: []
+storyline_nexus:
+  - venezuela-crisis
+  - gaza-conflict
+  - iran-war
 geographic_location: New York, New York, United States
 floor_values_engaged:
 - value: informed_citizenship

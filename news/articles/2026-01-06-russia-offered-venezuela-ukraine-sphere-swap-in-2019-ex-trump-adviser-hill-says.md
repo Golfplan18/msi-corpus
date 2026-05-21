@@ -25,7 +25,10 @@ topic_tags:
   - "political dissent"
   - politics
   - "science and technology"
-storyline_nexus: []
+storyline_nexus:
+  - venezuela-crisis
+  - russia-ukraine-war
+  - trump-immigration-crackdown
 geographic_location: International
 floor_values_engaged:
 - value: accountability_of_power

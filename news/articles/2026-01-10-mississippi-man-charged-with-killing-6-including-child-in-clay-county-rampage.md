@@ -25,7 +25,10 @@ topic_tags:
   - "disaster, accident and emergency incident"
   - government
   - "government policy"
-storyline_nexus: []
+storyline_nexus:
+  - monetary-policy-2026
+  - us-administration-2026
+  - ai-regulation
 geographic_location: Clay County, Mississippi
 floor_values_engaged:
 - value: human_life_and_dignity

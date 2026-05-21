@@ -28,7 +28,8 @@ topic_tags:
   - crime
   - "crime, law and justice"
   - "disaster, accident and emergency incident"
-storyline_nexus: []
+storyline_nexus:
+  - russia-ukraine-war
 geographic_location: Ukraine, Russia (border regions and southwestern Russia)
 floor_values_engaged:
 - value: human_life_and_dignity

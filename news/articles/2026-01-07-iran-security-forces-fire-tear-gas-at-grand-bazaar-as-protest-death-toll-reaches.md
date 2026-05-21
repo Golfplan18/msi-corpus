@@ -24,7 +24,8 @@ topic_tags:
   - "market and exchange"
   - "arts, culture, entertainment and media"
   - "arts and entertainment"
-storyline_nexus: []
+storyline_nexus:
+  - venezuela-crisis
 geographic_location: Tehran, Iran; Ilam province, Iran
 floor_values_engaged:
 - value: human_life_and_dignity

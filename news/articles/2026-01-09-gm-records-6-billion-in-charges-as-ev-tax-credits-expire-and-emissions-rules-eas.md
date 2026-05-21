@@ -15,7 +15,10 @@ primary_themes:
 - federal tax policy
 - emissions standards
 topic_tags: []
-storyline_nexus: []
+storyline_nexus:
+  - humanoid-robotics-industry
+  - monetary-policy-2026
+  - us-administration-2026
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship

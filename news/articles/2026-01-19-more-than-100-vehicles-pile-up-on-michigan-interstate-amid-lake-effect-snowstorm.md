@@ -19,7 +19,8 @@ primary_themes:
 topic_tags:
   - "disaster, accident and emergency incident"
   - weather
-storyline_nexus: []
+storyline_nexus:
+  - minneapolis-immigration
 geographic_location: Hudsonville, Michigan, United States
 floor_values_engaged:
 - value: informed_citizenship

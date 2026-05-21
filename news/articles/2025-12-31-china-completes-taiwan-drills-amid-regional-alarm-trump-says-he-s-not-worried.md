@@ -25,7 +25,8 @@ topic_tags:
   - "international relations"
   - "economy, business and finance"
   - "human migration"
-storyline_nexus: []
+storyline_nexus:
+  - us-china-relations
 geographic_location: Taiwan Strait, East Asia
 floor_values_engaged:
 - value: informed_citizenship

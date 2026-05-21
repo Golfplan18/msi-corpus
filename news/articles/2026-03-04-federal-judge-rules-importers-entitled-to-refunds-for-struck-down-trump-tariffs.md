@@ -31,7 +31,10 @@ topic_tags:
   - "crime, law and justice"
   - "disaster, accident and emergency incident"
   - "economy, business and finance"
-storyline_nexus: []
+storyline_nexus:
+  - trump-administration-2026
+  - trump-tariff-policy
+  - us-china-relations
 geographic_location: Washington, D.C.
 floor_values_engaged:
 - value: accountability_of_power

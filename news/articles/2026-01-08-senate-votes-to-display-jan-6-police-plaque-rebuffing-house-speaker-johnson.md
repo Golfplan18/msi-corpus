@@ -28,7 +28,8 @@ topic_tags:
   - government
   - "government policy"
   - "law enforcement"
-storyline_nexus: []
+storyline_nexus:
+  - trump-immigration-crackdown
 geographic_location: Washington, D.C.
 floor_values_engaged:
 - value: informed_citizenship

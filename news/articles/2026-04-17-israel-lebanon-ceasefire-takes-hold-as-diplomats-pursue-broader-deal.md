@@ -19,7 +19,8 @@ primary_themes:
 - Iran-US relations
 topic_tags:
   - "conflict, war and peace"
-storyline_nexus: []
+storyline_nexus:
+  - iran-crisis-2026
 geographic_location: Lebanon, Israel, Iran
 floor_values_engaged:
 - value: informed_citizenship

@@ -25,7 +25,10 @@ topic_tags:
   - "international relations"
   - "international trade"
   - "mass media"
-storyline_nexus: []
+storyline_nexus:
+  - iran-crisis-2026
+  - trump-tariff-policy
+  - immigration-enforcement
 geographic_location: International — Washington D.C.; Tehran; Beijing; New Delhi
 floor_values_engaged:
 - value: informed_citizenship

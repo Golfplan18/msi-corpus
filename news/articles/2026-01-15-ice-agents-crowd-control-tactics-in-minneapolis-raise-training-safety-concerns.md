@@ -25,7 +25,8 @@ topic_tags:
   - politics
   - "government policy"
   - "human interest"
-storyline_nexus: []
+storyline_nexus:
+  - immigration-enforcement
 geographic_location: Minneapolis, Minnesota, United States
 floor_values_engaged:
 - value: accountability_of_power

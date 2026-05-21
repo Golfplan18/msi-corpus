@@ -21,7 +21,9 @@ topic_tags:
   - "international relations"
   - "law enforcement"
   - trial
-storyline_nexus: []
+storyline_nexus:
+  - immigration-enforcement
+  - trump-administration-2026
 geographic_location: United States, primarily Los Angeles and Washington D.C.
 floor_values_engaged:
 - value: human_life_and_dignity

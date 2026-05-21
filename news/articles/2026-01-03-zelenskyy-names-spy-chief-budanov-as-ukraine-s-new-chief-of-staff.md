@@ -18,7 +18,8 @@ topic_tags:
   - "conflict, war and peace"
   - "international relations"
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - russia-ukraine-war
 geographic_location: Kyiv, Ukraine
 floor_values_engaged:
 - value: informed_citizenship

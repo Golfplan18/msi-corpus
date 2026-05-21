@@ -23,7 +23,8 @@ primary_themes:
 topic_tags:
   - "economy, business and finance"
   - "energy and resource"
-storyline_nexus: []
+storyline_nexus:
+  - venezuela-crisis
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship

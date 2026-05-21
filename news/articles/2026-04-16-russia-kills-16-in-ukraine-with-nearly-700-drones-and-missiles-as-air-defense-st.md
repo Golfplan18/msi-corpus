@@ -25,7 +25,9 @@ topic_tags:
   - "disaster, accident and emergency incident"
   - fire
   - labour
-storyline_nexus: []
+storyline_nexus:
+  - russia-ukraine-war
+  - ai-regulation
 geographic_location: Ukraine
 floor_values_engaged:
 - value: human_life_and_dignity

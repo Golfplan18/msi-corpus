@@ -18,7 +18,10 @@ topic_tags:
   - "politics"
   - "election"
   - "political process"
-storyline_nexus: []
+storyline_nexus:
+  - monetary-policy-2026
+  - ces-2026
+  - us-administration-2026
 geographic_location: Georgia, United States
 floor_values_engaged:
 - value: informed_citizenship

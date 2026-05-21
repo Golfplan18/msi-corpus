@@ -20,7 +20,8 @@ primary_themes:
 - Climate and Resilience
 topic_tags:
   - weather
-storyline_nexus: []
+storyline_nexus:
+  - us-winter-storm-january-2026
 geographic_location: Eastern United States, particularly Southern region
 floor_values_engaged:
 - value: human_life_and_dignity

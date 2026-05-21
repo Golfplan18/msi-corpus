@@ -22,7 +22,8 @@ primary_themes:
 - U.S. foreign policy
 - Greenland autonomy
 topic_tags: []
-storyline_nexus: []
+storyline_nexus:
+  - trump-greenland-acquisition
 geographic_location: Copenhagen, Denmark; Nuuk, Greenland; Davos, Switzerland
 floor_values_engaged:
 - value: informed_citizenship

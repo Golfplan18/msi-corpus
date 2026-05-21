@@ -21,7 +21,8 @@ topic_tags:
   - "disaster, accident and emergency incident"
   - "transportation accident and incident"
   - weather
-storyline_nexus: []
+storyline_nexus:
+  - ai-regulation
 geographic_location: Central and Eastern Europe
 floor_values_engaged:
 - value: informed_citizenship

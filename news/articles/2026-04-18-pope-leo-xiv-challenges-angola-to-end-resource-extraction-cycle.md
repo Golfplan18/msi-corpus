@@ -22,7 +22,8 @@ topic_tags:
   - "conflict, war and peace"
   - religion
   - "religious leader"
-storyline_nexus: []
+storyline_nexus:
+  - pope-leo-xiv-africa-tour
 geographic_location: Angola
 floor_values_engaged:
 - value: human_life_and_dignity

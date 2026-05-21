@@ -17,7 +17,10 @@ topic_tags:
   - "economy, business and finance"
   - "crime, law and justice"
   - "international trade"
-storyline_nexus: []
+storyline_nexus:
+  - trump-administration-2026
+  - trump-tariff-policy
+  - us-china-relations
 geographic_location: United States
 floor_values_engaged:
 - value: truthfulness

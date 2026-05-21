@@ -23,7 +23,8 @@ topic_tags:
   - "artificial intelligence"
   - "science and technology"
   - "technology and engineering"
-storyline_nexus: []
+storyline_nexus:
+  - ces-2026
 geographic_location: Las Vegas, Nevada, United States
 floor_values_engaged:
 - value: informed_citizenship

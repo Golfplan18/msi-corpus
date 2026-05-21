@@ -17,7 +17,9 @@ topic_tags:
   - education
   - "human interest"
   - "human migration"
-storyline_nexus: []
+storyline_nexus:
+  - immigration-enforcement
+  - trump-administration-2026
 geographic_location: 'United States (Michigan); secondary: Singapore, Myanmar, Canada, Australia'
 floor_values_engaged:
 - value: informed_citizenship

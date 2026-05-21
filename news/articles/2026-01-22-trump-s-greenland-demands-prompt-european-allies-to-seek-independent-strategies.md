@@ -25,7 +25,8 @@ topic_tags:
   - "government policy"
   - "international relations"
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - trump-greenland-acquisition
 geographic_location: Europe, Greenland, North America, Arctic
 floor_values_engaged:
 - value: accountability_of_power

@@ -31,7 +31,8 @@ topic_tags:
   - "political dissent"
   - politics
   - "science and technology"
-storyline_nexus: []
+storyline_nexus:
+  - greenland-annexation
 geographic_location: Greenland; Washington, D.C.; Copenhagen, Denmark
 floor_values_engaged:
 - value: informed_citizenship

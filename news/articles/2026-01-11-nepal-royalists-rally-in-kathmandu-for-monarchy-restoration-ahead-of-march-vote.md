@@ -22,7 +22,10 @@ topic_tags:
   - government
   - "political dissent"
   - "political process"
-storyline_nexus: []
+storyline_nexus:
+  - us-administration-2026
+  - us-china-relations
+  - gaza-conflict
 geographic_location: Kathmandu, Nepal
 floor_values_engaged:
 - value: informed_citizenship

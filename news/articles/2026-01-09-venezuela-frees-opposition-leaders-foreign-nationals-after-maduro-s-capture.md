@@ -21,7 +21,10 @@ primary_themes:
 - human_rights
 topic_tags:
   - "science and technology"
-storyline_nexus: []
+storyline_nexus:
+  - venezuela-crisis
+  - us-administration-2026
+  - trump-tariff-policy
 geographic_location: Venezuela
 floor_values_engaged:
 - value: human_life_and_dignity

@@ -17,7 +17,8 @@ topic_tags:
   - "crime, law and justice"
   - "human interest"
   - "law enforcement"
-storyline_nexus: []
+storyline_nexus:
+  - trump-immigration-crackdown
 geographic_location: Minneapolis–St. Paul, Minnesota
 floor_values_engaged:
 - value: informed_citizenship

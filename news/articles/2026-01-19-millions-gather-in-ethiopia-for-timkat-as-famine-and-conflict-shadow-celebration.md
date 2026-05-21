@@ -21,7 +21,8 @@ topic_tags:
   - "conflict, war and peace"
   - religion
   - "science and technology"
-storyline_nexus: []
+storyline_nexus:
+  - trump-fed-independence
 geographic_location: Ethiopia
 floor_values_engaged:
 - value: informed_citizenship

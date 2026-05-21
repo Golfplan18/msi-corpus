@@ -26,7 +26,8 @@ topic_tags:
   - "economy, business and finance"
   - government
   - "government policy"
-storyline_nexus: []
+storyline_nexus:
+  - venezuela-crisis
 geographic_location: Caracas, Venezuela; Palm Beach, Florida; Washington, D.C.
 floor_values_engaged:
 - value: informed_citizenship

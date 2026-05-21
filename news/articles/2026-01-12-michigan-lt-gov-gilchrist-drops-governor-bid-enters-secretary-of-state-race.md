@@ -14,7 +14,10 @@ primary_themes:
 topic_tags:
   - election
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - us-administration-2026
+  - monetary-policy-2026
+  - ces-2026
 geographic_location: Lansing, Michigan, United States
 floor_values_engaged:
 - value: informed_citizenship

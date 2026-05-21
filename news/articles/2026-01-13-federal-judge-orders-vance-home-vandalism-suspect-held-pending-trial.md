@@ -18,7 +18,10 @@ topic_tags:
   - politics
   - "crime, law and justice"
   - prosecution
-storyline_nexus: []
+storyline_nexus:
+  - us-administration-2026
+  - ai-regulation
+  - us-china-relations
 geographic_location: Cincinnati, Ohio
 floor_values_engaged:
 - value: informed_citizenship

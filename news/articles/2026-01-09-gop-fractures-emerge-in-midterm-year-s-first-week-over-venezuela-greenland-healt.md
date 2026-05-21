@@ -33,7 +33,10 @@ topic_tags:
   - "conflict, war and peace"
   - election
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - us-administration-2026
+  - ces-2026
+  - trump-tariff-policy
 geographic_location: Washington, D.C.
 floor_values_engaged:
 - value: informed_citizenship

@@ -26,7 +26,10 @@ topic_tags:
   - crime
   - "crime, law and justice"
   - economy
-storyline_nexus: []
+storyline_nexus:
+  - iran-war
+  - iran-crisis-2026
+  - ai-regulation
 geographic_location: Global / Middle East / United States
 floor_values_engaged:
 - value: informed_citizenship

@@ -20,7 +20,8 @@ primary_themes:
 topic_tags:
   - election
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - trump-administration-2026
 geographic_location: Virginia, USA
 floor_values_engaged:
 - value: informed_citizenship

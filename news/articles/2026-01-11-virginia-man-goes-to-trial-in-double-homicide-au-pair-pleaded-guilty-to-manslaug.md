@@ -21,7 +21,10 @@ topic_tags:
   - "crime, law and justice"
   - labour
   - "science and technology"
-storyline_nexus: []
+storyline_nexus:
+  - ai-regulation
+  - us-administration-2026
+  - us-china-relations
 geographic_location: Fairfax, Virginia
 floor_values_engaged:
 - value: informed_citizenship

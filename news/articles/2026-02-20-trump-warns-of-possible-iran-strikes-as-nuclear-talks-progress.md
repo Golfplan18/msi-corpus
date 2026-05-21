@@ -20,7 +20,9 @@ topic_tags:
   - environment
   - "international relations"
   - "political dissent"
-storyline_nexus: []
+storyline_nexus:
+  - iran-crisis-2026
+  - trump-administration-2026
 geographic_location: Washington D.C.; Strait of Gibraltar; Mediterranean Sea; Middle East; Geneva
 floor_values_engaged:
 - value: human_life_and_dignity

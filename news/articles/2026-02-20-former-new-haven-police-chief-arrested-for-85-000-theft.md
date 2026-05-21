@@ -24,7 +24,8 @@ topic_tags:
   - "crime, law and justice"
   - "human interest"
   - trial
-storyline_nexus: []
+storyline_nexus:
+  - immigration-enforcement
 geographic_location: New Haven, Connecticut, United States
 floor_values_engaged:
 - value: accountability_of_power

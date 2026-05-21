@@ -24,7 +24,8 @@ topic_tags:
   - "human migration"
   - "mass media"
   - "science and technology"
-storyline_nexus: []
+storyline_nexus:
+  - trump-immigration-crackdown
 geographic_location: Minneapolis, Minnesota
 floor_values_engaged:
 - value: informed_citizenship

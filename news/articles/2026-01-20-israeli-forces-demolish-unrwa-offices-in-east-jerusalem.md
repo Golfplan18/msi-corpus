@@ -21,7 +21,8 @@ topic_tags:
   - "economy, business and finance"
   - fire
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - gaza-conflict
 geographic_location: East Jerusalem, Gaza, occupied West Bank
 floor_values_engaged:
 - value: human_life_and_dignity

@@ -21,7 +21,10 @@ topic_tags:
   - "armed conflict"
   - "conflict, war and peace"
   - terrorism
-storyline_nexus: []
+storyline_nexus:
+  - iran-war
+  - russia-ukraine-war
+  - gaza-conflict
 geographic_location: Syria
 floor_values_engaged:
 - value: informed_citizenship

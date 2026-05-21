@@ -23,7 +23,8 @@ topic_tags:
   - "election"
   - "political process"
   - "government"
-storyline_nexus: []
+storyline_nexus:
+  - trump-administration-2026
 geographic_location: Oklahoma, United States
 floor_values_engaged:
 - value: informed_citizenship

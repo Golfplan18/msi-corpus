@@ -22,7 +22,9 @@ primary_themes:
 topic_tags:
   - "international relations"
   - "politics"
-storyline_nexus: []
+storyline_nexus:
+  - venezuela-crisis
+  - trump-administration-2026
 geographic_location: Miami, Florida, United States
 floor_values_engaged:
 - value: informed_citizenship

@@ -16,7 +16,8 @@ topic_tags:
   - "accident and emergency incident"
   - "disaster, accident and emergency incident"
   - "human interest"
-storyline_nexus: []
+storyline_nexus:
+  - spain-rail-disaster
 geographic_location: Spain (Barcelona, Catalonia, Andalusia)
 floor_values_engaged:
 - value: human_life_and_dignity

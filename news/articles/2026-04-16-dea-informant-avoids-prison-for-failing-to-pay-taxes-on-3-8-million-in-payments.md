@@ -18,7 +18,8 @@ primary_themes:
 - federal_corruption
 topic_tags:
   - "crime, law and justice"
-storyline_nexus: []
+storyline_nexus:
+  - ai-regulation
 geographic_location: Austin, Texas, United States
 floor_values_engaged:
 - value: accountability_of_power

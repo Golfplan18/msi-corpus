@@ -19,7 +19,8 @@ primary_themes:
 topic_tags:
   - politics
   - election
-storyline_nexus: []
+storyline_nexus:
+  - trump-immigration-crackdown
 geographic_location: California, United States
 floor_values_engaged:
 - value: informed_citizenship

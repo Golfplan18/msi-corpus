@@ -22,7 +22,8 @@ topic_tags:
   - "mass media"
   - sport
   - "sport event"
-storyline_nexus: []
+storyline_nexus:
+  - gaza-conflict
 geographic_location: International
 floor_values_engaged:
 - value: human_life_and_dignity

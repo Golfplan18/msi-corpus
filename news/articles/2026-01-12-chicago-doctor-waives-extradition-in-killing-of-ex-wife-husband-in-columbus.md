@@ -16,7 +16,10 @@ primary_themes:
 - domestic violence
 topic_tags:
   - "crime, law and justice"
-storyline_nexus: []
+storyline_nexus:
+  - us-administration-2026
+  - ai-regulation
+  - us-china-relations
 geographic_location: Columbus, Ohio; Winnebago County, Illinois
 floor_values_engaged:
 - value: informed_citizenship

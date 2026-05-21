@@ -20,7 +20,8 @@ primary_themes:
 topic_tags:
   - government
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - ai-regulation
 geographic_location: United Kingdom
 floor_values_engaged:
 - value: accountability_of_power

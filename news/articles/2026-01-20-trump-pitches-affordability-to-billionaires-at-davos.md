@@ -16,7 +16,8 @@ primary_themes:
 topic_tags:
   - "economy, business and finance"
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - davos-2026
 geographic_location: Davos, Switzerland; United States
 floor_values_engaged:
 - value: human_life_and_dignity

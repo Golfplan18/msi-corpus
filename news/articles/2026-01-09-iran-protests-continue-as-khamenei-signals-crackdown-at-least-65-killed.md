@@ -26,7 +26,10 @@ topic_tags:
   - "mass media"
   - "political dissent"
   - "science and technology"
-storyline_nexus: []
+storyline_nexus:
+  - iran-war
+  - trump-tariff-policy
+  - gaza-conflict
 geographic_location: Iran
 floor_values_engaged:
 - value: human_life_and_dignity

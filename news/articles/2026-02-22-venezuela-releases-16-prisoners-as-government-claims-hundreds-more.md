@@ -19,7 +19,8 @@ topic_tags:
   - "government policy"
   - "science and technology"
   - "artificial intelligence"
-storyline_nexus: []
+storyline_nexus:
+  - venezuela-crisis
 geographic_location: Venezuela
 floor_values_engaged:
 - value: human_life_and_dignity

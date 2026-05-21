@@ -23,7 +23,8 @@ primary_themes:
 topic_tags:
   - "science and technology"
   - society
-storyline_nexus: []
+storyline_nexus:
+  - ai-regulation
 geographic_location: United States; Netherlands; international
 floor_values_engaged:
 - value: informed_citizenship

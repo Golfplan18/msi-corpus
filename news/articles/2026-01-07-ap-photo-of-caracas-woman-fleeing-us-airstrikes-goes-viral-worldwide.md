@@ -19,7 +19,8 @@ topic_tags:
   - employment
   - labour
   - "labour dispute"
-storyline_nexus: []
+storyline_nexus:
+  - venezuela-crisis
 geographic_location: Caracas, Venezuela
 floor_values_engaged:
 - value: informed_citizenship

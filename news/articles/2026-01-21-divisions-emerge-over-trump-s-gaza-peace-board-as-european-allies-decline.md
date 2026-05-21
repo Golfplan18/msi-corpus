@@ -19,7 +19,8 @@ primary_themes:
 topic_tags:
   - "armed conflict"
   - "conflict, war and peace"
-storyline_nexus: []
+storyline_nexus:
+  - gaza-conflict
 geographic_location: International
 floor_values_engaged:
 - value: human_life_and_dignity

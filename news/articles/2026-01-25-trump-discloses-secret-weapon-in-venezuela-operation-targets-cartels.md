@@ -28,7 +28,10 @@ topic_tags:
   - labour
   - "conflict, war and peace"
   - "labour dispute"
-storyline_nexus: []
+storyline_nexus:
+  - russia-ukraine-war
+  - trump-administration-2026
+  - venezuela-crisis
 geographic_location: United States, Venezuela, Mexico, Central America
 floor_values_engaged:
 - value: accountability_of_power

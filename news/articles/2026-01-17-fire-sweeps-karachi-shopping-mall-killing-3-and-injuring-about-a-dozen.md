@@ -18,7 +18,8 @@ topic_tags:
   - "disaster, accident and emergency incident"
   - fire
   - "mass media"
-storyline_nexus: []
+storyline_nexus:
+  - trump-fed-independence
 geographic_location: Karachi, Sindh, Pakistan
 floor_values_engaged:
 - value: human_life_and_dignity

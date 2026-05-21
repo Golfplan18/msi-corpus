@@ -22,7 +22,8 @@ topic_tags:
   - "government policy"
   - "economy, business and finance"
   - "conflict, war and peace"
-storyline_nexus: []
+storyline_nexus:
+  - gaza-conflict
 geographic_location: West Bank (occupied), near Beit Sahour
 floor_values_engaged:
 - value: human_life_and_dignity

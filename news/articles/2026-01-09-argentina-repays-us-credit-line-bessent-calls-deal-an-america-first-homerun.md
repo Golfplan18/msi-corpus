@@ -17,7 +17,10 @@ primary_themes:
 topic_tags:
   - "international relations"
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - us-administration-2026
+  - trump-tariff-policy
+  - us-china-relations
 geographic_location: Buenos Aires, Argentina
 floor_values_engaged:
 - value: informed_citizenship

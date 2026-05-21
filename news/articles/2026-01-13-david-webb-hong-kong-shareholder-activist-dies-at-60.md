@@ -19,7 +19,9 @@ primary_themes:
 topic_tags:
   - society
   - "economy, business and finance"
-storyline_nexus: []
+storyline_nexus:
+  - us-administration-2026
+  - us-china-relations
 geographic_location: Hong Kong
 floor_values_engaged:
 - value: human_life_and_dignity

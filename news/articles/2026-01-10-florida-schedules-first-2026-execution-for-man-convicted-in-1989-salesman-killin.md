@@ -20,7 +20,10 @@ topic_tags:
   - "crime, law and justice"
   - crime
   - judiciary
-storyline_nexus: []
+storyline_nexus:
+  - us-administration-2026
+  - iran-war
+  - monetary-policy-2026
 geographic_location: Tallahassee, Florida
 floor_values_engaged:
 - value: informed_citizenship

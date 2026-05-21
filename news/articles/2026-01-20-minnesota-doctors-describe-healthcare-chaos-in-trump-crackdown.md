@@ -19,7 +19,9 @@ topic_tags:
   - health
   - "law enforcement"
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - iran-crackdown
+  - trump-fed-independence
 geographic_location: Minneapolis, Minnesota, USA
 floor_values_engaged:
 - value: human_life_and_dignity

@@ -17,7 +17,8 @@ topic_tags:
   - "arts, culture, entertainment and media"
   - books
   - "science and technology"
-storyline_nexus: []
+storyline_nexus:
+  - ai-regulation
 geographic_location: Switzerland
 floor_values_engaged:
 - value: informed_citizenship

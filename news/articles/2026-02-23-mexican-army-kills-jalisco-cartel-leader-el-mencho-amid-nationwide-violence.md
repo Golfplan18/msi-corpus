@@ -19,7 +19,8 @@ primary_themes:
 topic_tags:
   - "human interest"
   - people
-storyline_nexus: []
+storyline_nexus:
+  - mexico-cartel-violence
 geographic_location: Mexico (primarily Jalisco, Michoacán, Puerto Vallarta)
 floor_values_engaged:
 - value: human_life_and_dignity

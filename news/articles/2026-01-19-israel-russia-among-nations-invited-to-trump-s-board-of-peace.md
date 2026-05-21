@@ -26,7 +26,9 @@ topic_tags:
   - "economy, business and finance"
   - labour
   - "conflict, war and peace"
-storyline_nexus: []
+storyline_nexus:
+  - gaza-conflict
+  - greenland-annexation
 geographic_location: Gaza Strip; International
 floor_values_engaged:
 - value: informed_citizenship

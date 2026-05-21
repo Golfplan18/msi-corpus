@@ -21,7 +21,8 @@ topic_tags:
   - election
   - "international relations"
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - iran-war
 geographic_location: Washington, D.C., United States
 floor_values_engaged:
 - value: informed_citizenship

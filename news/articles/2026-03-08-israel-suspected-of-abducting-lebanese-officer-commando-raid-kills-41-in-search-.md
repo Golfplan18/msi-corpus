@@ -27,7 +27,9 @@ topic_tags:
   - "crime, law and justice"
   - health
   - "human interest"
-storyline_nexus: []
+storyline_nexus:
+  - immigration-enforcement
+  - ai-regulation
 geographic_location: Zahle, Lebanon; Nabi Chit, Lebanon
 floor_values_engaged:
 - value: human_life_and_dignity

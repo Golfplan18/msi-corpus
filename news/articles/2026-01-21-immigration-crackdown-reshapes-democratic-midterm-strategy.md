@@ -23,7 +23,8 @@ topic_tags:
   - "international relations"
   - "political dissent"
   - "political process"
-storyline_nexus: []
+storyline_nexus:
+  - ice-enforcement-surge-2026
 geographic_location: United States, Minnesota
 floor_values_engaged:
 - value: informed_citizenship

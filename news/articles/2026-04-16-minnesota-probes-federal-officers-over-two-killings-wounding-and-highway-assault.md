@@ -31,7 +31,8 @@ topic_tags:
   - society
   - "government policy"
   - crime
-storyline_nexus: []
+storyline_nexus:
+  - immigration-enforcement
 geographic_location: Minneapolis–Saint Paul, Minnesota
 floor_values_engaged:
 - value: accountability_of_power

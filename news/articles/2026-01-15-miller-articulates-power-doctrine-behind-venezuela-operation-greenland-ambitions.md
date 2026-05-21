@@ -25,7 +25,9 @@ topic_tags:
   - government
   - "international relations"
   - "conflict, war and peace"
-storyline_nexus: []
+storyline_nexus:
+  - venezuela-crisis
+  - greenland-annexation
 geographic_location: United States; Venezuela; Greenland
 floor_values_engaged:
 - value: informed_citizenship

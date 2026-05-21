@@ -24,7 +24,8 @@ topic_tags:
   - "conflict, war and peace"
   - labour
   - "labour dispute"
-storyline_nexus: []
+storyline_nexus:
+  - russia-ukraine-war
 geographic_location: Paris, France
 floor_values_engaged:
 - value: informed_citizenship

@@ -23,7 +23,8 @@ topic_tags:
   - government
   - "government policy"
   - "human interest"
-storyline_nexus: []
+storyline_nexus:
+  - ai-regulation
 geographic_location: Beijing, China
 floor_values_engaged:
 - value: informed_citizenship

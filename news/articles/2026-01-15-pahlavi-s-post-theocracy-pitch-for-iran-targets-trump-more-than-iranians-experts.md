@@ -21,7 +21,8 @@ topic_tags:
   - "government policy"
   - "international relations"
   - "conflict, war and peace"
-storyline_nexus: []
+storyline_nexus:
+  - iran-crisis-2026
 geographic_location: Iran; United States; Israel
 floor_values_engaged:
 - value: informed_citizenship

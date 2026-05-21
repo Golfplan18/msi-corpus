@@ -23,7 +23,9 @@ topic_tags:
   - judiciary
   - labour
   - "labour dispute"
-storyline_nexus: []
+storyline_nexus:
+  - minneapolis-immigration
+  - iran-crackdown
 geographic_location: Minneapolis-St. Paul, Minnesota
 floor_values_engaged:
 - value: accountability_of_power

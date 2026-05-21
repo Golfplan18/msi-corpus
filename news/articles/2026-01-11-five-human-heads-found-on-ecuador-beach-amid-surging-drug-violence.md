@@ -13,7 +13,10 @@ primary_themes:
 - state_of_emergency
 topic_tags:
   - "disaster, accident and emergency incident"
-storyline_nexus: []
+storyline_nexus:
+  - gaza-conflict
+  - iran-war
+  - russia-ukraine-war
 geographic_location: Puerto López, Manabí province, Ecuador
 floor_values_engaged:
 - value: human_life_and_dignity

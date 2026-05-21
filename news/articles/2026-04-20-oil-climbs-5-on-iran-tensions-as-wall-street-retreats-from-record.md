@@ -17,7 +17,8 @@ primary_themes:
 - geopolitics
 topic_tags:
   - "economy, business and finance"
-storyline_nexus: []
+storyline_nexus:
+  - iran-war
 geographic_location: International - Global financial markets
 floor_values_engaged:
 - value: informed_citizenship

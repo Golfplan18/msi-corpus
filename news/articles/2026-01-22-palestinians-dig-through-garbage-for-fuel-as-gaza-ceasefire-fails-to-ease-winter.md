@@ -16,7 +16,8 @@ primary_themes:
 - ceasefire dynamics
 - winter hardship
 topic_tags: []
-storyline_nexus: []
+storyline_nexus:
+  - gaza-conflict
 geographic_location: Gaza Strip
 floor_values_engaged:
 - value: human_life_and_dignity

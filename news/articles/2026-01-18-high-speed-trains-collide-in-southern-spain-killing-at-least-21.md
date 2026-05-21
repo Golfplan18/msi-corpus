@@ -19,7 +19,8 @@ primary_themes:
 topic_tags:
   - "human interest"
   - health
-storyline_nexus: []
+storyline_nexus:
+  - spain-rail-disaster
 geographic_location: Adamuz, Córdoba, Andalusia, Spain
 floor_values_engaged:
 - value: human_life_and_dignity

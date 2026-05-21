@@ -31,7 +31,8 @@ topic_tags:
   - "government policy"
   - "economy, business and finance"
   - "construction and property"
-storyline_nexus: []
+storyline_nexus:
+  - russia-ukraine-war
 geographic_location: Russia, Ukraine
 floor_values_engaged:
 - value: human_life_and_dignity

@@ -20,7 +20,8 @@ topic_tags:
   - "law enforcement"
   - politics
   - "government policy"
-storyline_nexus: []
+storyline_nexus:
+  - minneapolis-immigration
 geographic_location: Arivaca, Arizona, United States
 floor_values_engaged:
 - value: human_life_and_dignity

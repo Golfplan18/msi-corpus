@@ -25,7 +25,8 @@ topic_tags:
   - election
   - politics
   - "government policy"
-storyline_nexus: []
+storyline_nexus:
+  - 2026-midterms
 geographic_location: Utah, United States
 floor_values_engaged:
 - value: accountability_of_power

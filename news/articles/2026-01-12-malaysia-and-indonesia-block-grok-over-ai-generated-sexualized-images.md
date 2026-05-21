@@ -27,7 +27,10 @@ topic_tags:
   - "economy, business and finance"
   - government
   - "government policy"
-storyline_nexus: []
+storyline_nexus:
+  - ai-regulation
+  - us-administration-2026
+  - us-china-relations
 geographic_location: Malaysia; Indonesia; United Kingdom
 floor_values_engaged:
 - value: human_life_and_dignity

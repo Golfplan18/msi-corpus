@@ -22,7 +22,8 @@ topic_tags:
   - "arts, culture, entertainment and media"
   - "conflict, war and peace"
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - greenland-annexation
 geographic_location: Nuuk, Greenland
 floor_values_engaged:
 - value: informed_citizenship

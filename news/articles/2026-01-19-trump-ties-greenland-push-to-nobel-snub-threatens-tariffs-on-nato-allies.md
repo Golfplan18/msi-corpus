@@ -25,7 +25,8 @@ topic_tags:
   - "armed conflict"
   - "conflict, war and peace"
   - "economy, business and finance"
-storyline_nexus: []
+storyline_nexus:
+  - trump-greenland
 geographic_location: Nuuk, Greenland; Oslo, Norway; Copenhagen, Denmark; Washington, D.C.
 floor_values_engaged:
 - value: informed_citizenship

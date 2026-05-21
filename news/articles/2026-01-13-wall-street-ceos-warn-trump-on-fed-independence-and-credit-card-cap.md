@@ -29,7 +29,8 @@ topic_tags:
   - economy
   - "economy, business and finance"
   - government
-storyline_nexus: []
+storyline_nexus:
+  - fed-independence
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

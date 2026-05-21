@@ -27,7 +27,10 @@ topic_tags:
   - "international trade"
   - politics
   - "science and technology"
-storyline_nexus: []
+storyline_nexus:
+  - humanoid-robotics-industry
+  - monetary-policy-2026
+  - us-administration-2026
 geographic_location: Brazil / Amazon
 floor_values_engaged:
 - value: human_life_and_dignity

@@ -29,7 +29,8 @@ topic_tags:
   - health
   - "science and technology"
   - "artificial intelligence"
-storyline_nexus: []
+storyline_nexus:
+  - ces-2026
 geographic_location: Las Vegas, Nevada, United States
 floor_values_engaged:
 - value: informed_citizenship

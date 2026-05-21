@@ -17,7 +17,10 @@ primary_themes:
 topic_tags:
   - labour
   - employment
-storyline_nexus: []
+storyline_nexus:
+  - trump-tariff-policy
+  - monetary-policy-2026
+  - ai-regulation
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship

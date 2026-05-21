@@ -21,7 +21,8 @@ topic_tags:
   - "international trade"
   - "science and technology"
   - "artificial intelligence"
-storyline_nexus: []
+storyline_nexus:
+  - us-china-relations
 geographic_location: Brazil, India
 floor_values_engaged:
 - value: accountability_of_power

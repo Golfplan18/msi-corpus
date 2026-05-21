@@ -18,7 +18,9 @@ primary_themes:
 topic_tags:
   - "crime, law and justice"
   - "disaster, accident and emergency incident"
-storyline_nexus: []
+storyline_nexus:
+  - immigration-enforcement
+  - ai-regulation
 geographic_location: United States, Texas (Rio Grande Valley), McAllen
 floor_values_engaged:
 - value: human_life_and_dignity

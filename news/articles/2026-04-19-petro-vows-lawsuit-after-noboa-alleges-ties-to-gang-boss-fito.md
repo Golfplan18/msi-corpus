@@ -20,7 +20,8 @@ primary_themes:
 topic_tags:
   - "economy, business and finance"
   - "international trade"
-storyline_nexus: []
+storyline_nexus:
+  - venezuela-crisis
 geographic_location: Colombia-Ecuador border region
 floor_values_engaged:
 - value: truthfulness

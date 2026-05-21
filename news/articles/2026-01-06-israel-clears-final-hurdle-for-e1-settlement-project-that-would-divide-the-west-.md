@@ -25,7 +25,8 @@ topic_tags:
   - "international relations"
   - "peace process"
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - israel-palestine-conflict
 geographic_location: West Bank / Jerusalem / Middle East
 floor_values_engaged:
 - value: informed_citizenship

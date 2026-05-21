@@ -20,7 +20,8 @@ primary_themes:
 topic_tags:
   - "market and exchange"
   - "economy, business and finance"
-storyline_nexus: []
+storyline_nexus:
+  - us-china-relations
 floor_values_engaged:
 - value: truthfulness
   intensity: 0.95

@@ -19,7 +19,9 @@ topic_tags:
   - "economy, business and finance"
   - "international trade"
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - us-china-relations
+  - davos-2026
 geographic_location: United States, China
 floor_values_engaged:
 - value: accountability_of_power

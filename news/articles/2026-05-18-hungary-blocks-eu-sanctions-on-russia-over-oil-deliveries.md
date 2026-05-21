@@ -26,7 +26,8 @@ topic_tags:
   - government
   - "economy, business and finance"
   - "energy and resource"
-storyline_nexus: []
+storyline_nexus:
+  - russia-ukraine-war
 geographic_location: Hungary, Slovakia, European Union
 floor_values_engaged:
 - value: accountability_of_power

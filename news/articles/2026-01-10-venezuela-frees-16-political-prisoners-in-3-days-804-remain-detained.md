@@ -18,7 +18,10 @@ primary_themes:
 - diplomatic relations
 topic_tags:
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - venezuela-crisis
+  - trump-tariff-policy
+  - us-china-relations
 geographic_location: Venezuela
 floor_values_engaged:
 - value: human_life_and_dignity

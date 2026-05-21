@@ -25,7 +25,8 @@ topic_tags:
   - "conflict, war and peace"
   - "crime"
   - "crime, law and justice"
-storyline_nexus: []
+storyline_nexus:
+  - iran-war
 geographic_location: Iran (Tehran, Isfahan, Kermanshah, southeastern Iran)
 floor_values_engaged:
 - value: human_life_and_dignity

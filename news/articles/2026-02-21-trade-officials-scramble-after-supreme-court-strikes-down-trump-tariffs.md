@@ -24,7 +24,11 @@ topic_tags:
   - "government policy"
   - "science and technology"
   - "artificial intelligence"
-storyline_nexus: []
+storyline_nexus:
+  - immigration-enforcement
+  - trump-administration-2026
+  - trump-tariff-policy
+  - us-china-relations
 geographic_location: International; South Korea, France, Mexico, Germany, Switzerland
 floor_values_engaged:
 - value: accountability_of_power

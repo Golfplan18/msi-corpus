@@ -19,7 +19,8 @@ primary_themes:
 topic_tags:
   - "election"
   - "politics"
-storyline_nexus: []
+storyline_nexus:
+  - 2026-midterms
 geographic_location: Kathmandu, Nepal
 floor_values_engaged:
 - value: informed_citizenship

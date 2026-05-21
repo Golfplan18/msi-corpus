@@ -15,7 +15,8 @@ primary_themes:
 topic_tags:
   - "artificial intelligence"
   - "science and technology"
-storyline_nexus: []
+storyline_nexus:
+  - us-winter-storm-january-2026
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship

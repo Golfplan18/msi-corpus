@@ -24,7 +24,8 @@ topic_tags:
   - "labour dispute"
   - politics
   - "science and technology"
-storyline_nexus: []
+storyline_nexus:
+  - russia-ukraine-war
 geographic_location: Brussels, EU; Hungary; Ukraine
 floor_values_engaged:
 - value: accountability_of_power

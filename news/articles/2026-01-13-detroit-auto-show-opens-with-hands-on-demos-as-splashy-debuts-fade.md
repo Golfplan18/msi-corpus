@@ -23,7 +23,10 @@ topic_tags:
   - "international trade"
   - "mass media"
   - "science and technology"
-storyline_nexus: []
+storyline_nexus:
+  - trump-tariff-policy
+  - humanoid-robotics-industry
+  - monetary-policy-2026
 geographic_location: Detroit, Michigan, United States
 floor_values_engaged:
 - value: informed_citizenship

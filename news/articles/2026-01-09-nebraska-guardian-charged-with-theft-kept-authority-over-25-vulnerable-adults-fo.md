@@ -20,7 +20,10 @@ primary_themes:
 topic_tags:
   - "crime, law and justice"
   - trial
-storyline_nexus: []
+storyline_nexus:
+  - ces-2026
+  - us-administration-2026
+  - ai-regulation
 geographic_location: Nebraska, United States
 floor_values_engaged:
 - value: human_life_and_dignity

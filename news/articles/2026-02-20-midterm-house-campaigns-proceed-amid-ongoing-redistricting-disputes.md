@@ -23,7 +23,9 @@ primary_themes:
 topic_tags:
   - election
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - 2026-midterms
+  - trump-administration-2026
 geographic_location: United States (multiple states)
 floor_values_engaged:
 - value: informed_citizenship

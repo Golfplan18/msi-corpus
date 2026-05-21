@@ -25,7 +25,10 @@ topic_tags:
   - "economy, business and finance"
   - election
   - labour
-storyline_nexus: []
+storyline_nexus:
+  - iran-war
+  - gaza-conflict
+  - russia-ukraine-war
 geographic_location: Iran
 floor_values_engaged:
 - value: informed_citizenship

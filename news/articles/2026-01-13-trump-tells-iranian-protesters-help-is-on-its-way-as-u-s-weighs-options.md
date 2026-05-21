@@ -22,7 +22,8 @@ topic_tags:
   - "government policy"
   - "human interest"
   - "international relations"
-storyline_nexus: []
+storyline_nexus:
+  - iran-crisis-2026
 geographic_location: Iran; United States
 floor_values_engaged:
 - value: human_life_and_dignity

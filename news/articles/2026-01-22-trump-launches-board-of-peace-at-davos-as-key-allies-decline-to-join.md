@@ -25,7 +25,9 @@ topic_tags:
   - "disaster, accident and emergency incident"
   - fire
   - "peace process"
-storyline_nexus: []
+storyline_nexus:
+  - trump-board-of-peace
+  - davos-2026-summit
 geographic_location: International (Davos, Switzerland; Gaza; Ukraine; Iran)
 floor_values_engaged:
 - value: informed_citizenship

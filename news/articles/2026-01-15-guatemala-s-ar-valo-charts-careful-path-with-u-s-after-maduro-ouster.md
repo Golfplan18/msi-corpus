@@ -21,7 +21,8 @@ primary_themes:
 topic_tags:
   - politics
   - "international relations"
-storyline_nexus: []
+storyline_nexus:
+  - venezuela-crisis
 geographic_location: Guatemala City, Guatemala
 floor_values_engaged:
 - value: informed_citizenship

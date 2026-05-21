@@ -19,7 +19,10 @@ primary_themes:
 - state budget appropriations
 - affordable housing
 topic_tags: []
-storyline_nexus: []
+storyline_nexus:
+  - us-administration-2026
+  - us-china-relations
+  - monetary-policy-2026
 geographic_location: Michigan, United States
 floor_values_engaged:
 - value: informed_citizenship

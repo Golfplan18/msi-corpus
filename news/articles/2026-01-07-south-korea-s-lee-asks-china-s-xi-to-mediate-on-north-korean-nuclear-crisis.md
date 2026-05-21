@@ -19,7 +19,8 @@ topic_tags:
   - government
   - "international relations"
   - "conflict, war and peace"
-storyline_nexus: []
+storyline_nexus:
+  - china-taiwan-tensions
 geographic_location: Seoul; Beijing; Shanghai
 floor_values_engaged:
 - value: informed_citizenship

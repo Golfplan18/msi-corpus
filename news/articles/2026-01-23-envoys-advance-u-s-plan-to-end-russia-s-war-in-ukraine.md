@@ -22,7 +22,8 @@ topic_tags:
   - "armed conflict"
   - "conflict, war and peace"
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - russia-ukraine-war
 geographic_location: International (Russia, Ukraine, United States, United Arab Emirates, France, Switzerland)
 floor_values_engaged:
 - value: informed_citizenship

@@ -25,7 +25,8 @@ topic_tags:
   - "international relations"
   - "political dissent"
   - "science and technology"
-storyline_nexus: []
+storyline_nexus:
+  - west-bank-settler-violence
 geographic_location: Umm al-Khair, West Bank, occupied Palestinian territories
 floor_values_engaged:
 - value: human_life_and_dignity

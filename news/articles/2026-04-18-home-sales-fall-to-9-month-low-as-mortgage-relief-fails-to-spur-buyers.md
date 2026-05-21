@@ -22,7 +22,8 @@ topic_tags:
   - labour
   - macroeconomics
   - sport
-storyline_nexus: []
+storyline_nexus:
+  - us-housing-crisis
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship

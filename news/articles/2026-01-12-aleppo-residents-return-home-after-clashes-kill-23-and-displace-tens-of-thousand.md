@@ -23,7 +23,10 @@ topic_tags:
   - "crime, law and justice"
   - government
   - "government policy"
-storyline_nexus: []
+storyline_nexus:
+  - us-china-relations
+  - gaza-conflict
+  - iran-war
 geographic_location: Aleppo, Syria
 floor_values_engaged:
 - value: human_life_and_dignity

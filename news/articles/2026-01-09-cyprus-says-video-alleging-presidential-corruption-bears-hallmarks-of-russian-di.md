@@ -21,7 +21,10 @@ topic_tags:
   - "conflict, war and peace"
   - election
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - russia-ukraine-war
+  - us-administration-2026
+  - us-china-relations
 geographic_location: Nicosia, Cyprus
 floor_values_engaged:
 - value: truthfulness

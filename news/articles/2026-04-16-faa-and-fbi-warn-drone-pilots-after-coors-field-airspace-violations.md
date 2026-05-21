@@ -24,7 +24,8 @@ topic_tags:
   - "monetary policy"
   - "science and technology"
   - "space programme"
-storyline_nexus: []
+storyline_nexus:
+  - ai-regulation
 geographic_location: Denver, Colorado, United States
 floor_values_engaged:
 - value: informed_citizenship

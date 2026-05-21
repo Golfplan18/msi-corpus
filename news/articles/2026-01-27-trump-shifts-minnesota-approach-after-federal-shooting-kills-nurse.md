@@ -26,7 +26,9 @@ topic_tags:
   - "crime, law and justice"
   - health
   - "law enforcement"
-storyline_nexus: []
+storyline_nexus:
+  - immigration-enforcement
+  - trump-administration-2026
 geographic_location: Minnesota, United States
 floor_values_engaged:
 - value: accountability_of_power

@@ -17,7 +17,8 @@ primary_themes:
 topic_tags:
   - election
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - trump-immigration-crackdown
 geographic_location: Washington, D.C. / Maryland
 floor_values_engaged:
 - value: informed_citizenship

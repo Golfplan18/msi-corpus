@@ -17,7 +17,8 @@ topic_tags:
   - "conflict, war and peace"
   - "armed conflict"
   - health
-storyline_nexus: []
+storyline_nexus:
+  - ai-regulation
 geographic_location: Anchorage, Alaska, United States
 floor_values_engaged:
 - value: human_life_and_dignity

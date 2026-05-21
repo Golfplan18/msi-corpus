@@ -26,7 +26,8 @@ topic_tags:
   - "government policy"
   - "human interest"
   - "international relations"
-storyline_nexus: []
+storyline_nexus:
+  - ai-regulation
 geographic_location: Colombia
 floor_values_engaged:
 - value: informed_citizenship

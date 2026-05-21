@@ -26,7 +26,9 @@ topic_tags:
   - "government policy"
   - "mass media"
   - "politics"
-storyline_nexus: []
+storyline_nexus:
+  - trump-immigration-crackdown
+  - 2026-midterms
 geographic_location: Texas, United States
 floor_values_engaged:
 - value: informed_citizenship

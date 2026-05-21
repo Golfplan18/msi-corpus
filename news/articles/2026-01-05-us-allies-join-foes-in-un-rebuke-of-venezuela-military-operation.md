@@ -25,7 +25,8 @@ topic_tags:
   - "international relations"
   - politics
   - terrorism
-storyline_nexus: []
+storyline_nexus:
+  - venezuela-crisis
 geographic_location: United Nations, New York
 floor_values_engaged:
 - value: accountability_of_power

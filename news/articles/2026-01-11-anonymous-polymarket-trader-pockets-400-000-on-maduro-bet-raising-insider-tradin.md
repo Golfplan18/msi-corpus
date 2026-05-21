@@ -27,7 +27,10 @@ topic_tags:
   - "international relations"
   - "political dissent"
   - "science and technology"
-storyline_nexus: []
+storyline_nexus:
+  - trump-tariff-policy
+  - venezuela-crisis
+  - ai-regulation
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

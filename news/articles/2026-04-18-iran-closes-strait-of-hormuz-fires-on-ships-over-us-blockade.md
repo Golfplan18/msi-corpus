@@ -23,7 +23,8 @@ topic_tags:
   - "conflict, war and peace"
   - "international relations"
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - iran-war
 geographic_location: Middle East; Strait of Hormuz; Iran; Lebanon
 floor_values_engaged:
 - value: accountability_of_power

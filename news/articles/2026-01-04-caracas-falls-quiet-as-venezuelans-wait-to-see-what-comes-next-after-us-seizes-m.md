@@ -21,7 +21,8 @@ topic_tags:
   - "human interest"
   - "international relations"
   - judiciary
-storyline_nexus: []
+storyline_nexus:
+  - venezuela-crisis
 geographic_location: Caracas, Venezuela
 floor_values_engaged:
 - value: human_life_and_dignity

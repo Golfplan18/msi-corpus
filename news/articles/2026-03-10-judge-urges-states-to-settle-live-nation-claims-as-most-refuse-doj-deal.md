@@ -22,7 +22,9 @@ primary_themes:
 topic_tags:
   - "crime, law and justice"
   - trial
-storyline_nexus: []
+storyline_nexus:
+  - ai-regulation
+  - live-nation-monopoly
 geographic_location: New York, NY
 floor_values_engaged:
 - value: accountability_of_power

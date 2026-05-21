@@ -16,7 +16,10 @@ primary_themes:
 topic_tags:
   - corruption
   - "crime, law and justice"
-storyline_nexus: []
+storyline_nexus:
+  - us-administration-2026
+  - ai-regulation
+  - us-china-relations
 geographic_location: New York, NY
 floor_values_engaged:
 - value: accountability_of_power

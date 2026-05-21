@@ -25,7 +25,8 @@ topic_tags:
   - "international relations"
   - "natural disaster"
   - "science and technology"
-storyline_nexus: []
+storyline_nexus:
+  - gaza-conflict
 geographic_location: Gaza Strip; West Bank; Cairo, Egypt
 floor_values_engaged:
 - value: human_life_and_dignity

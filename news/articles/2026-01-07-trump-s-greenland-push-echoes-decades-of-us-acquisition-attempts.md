@@ -20,7 +20,8 @@ primary_themes:
 topic_tags:
   - "armed conflict"
   - "conflict, war and peace"
-storyline_nexus: []
+storyline_nexus:
+  - greenland-annexation
 geographic_location: Greenland; Denmark; United States
 floor_values_engaged:
 - value: informed_citizenship

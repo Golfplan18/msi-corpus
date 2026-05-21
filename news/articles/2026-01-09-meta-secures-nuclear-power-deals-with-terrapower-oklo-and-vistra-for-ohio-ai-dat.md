@@ -20,7 +20,10 @@ primary_themes:
 topic_tags:
   - "artificial intelligence"
   - "science and technology"
-storyline_nexus: []
+storyline_nexus:
+  - us-administration-2026
+  - ai-regulation
+  - us-china-relations
 geographic_location: New Albany, Ohio; Pike County, Ohio; Pennsylvania; mid-Atlantic United States
 floor_values_engaged:
 - value: informed_citizenship

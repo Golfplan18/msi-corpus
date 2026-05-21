@@ -18,7 +18,8 @@ primary_themes:
 topic_tags:
   - "arts, culture, entertainment and media"
   - health
-storyline_nexus: []
+storyline_nexus:
+  - ai-regulation
 geographic_location: New Jersey, United States
 floor_values_engaged:
 - value: informed_citizenship

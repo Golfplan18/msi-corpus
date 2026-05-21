@@ -20,7 +20,9 @@ topic_tags:
   - "conflict, war and peace"
   - "disaster, accident and emergency incident"
   - fire
-storyline_nexus: []
+storyline_nexus:
+  - gaza-conflict
+  - immigration-enforcement
 geographic_location: Gaza Strip, Israel
 floor_values_engaged:
 - value: human_life_and_dignity

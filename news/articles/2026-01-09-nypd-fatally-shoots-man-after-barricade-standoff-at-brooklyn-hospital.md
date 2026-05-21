@@ -17,7 +17,10 @@ topic_tags:
   - "law enforcement"
   - health
   - labour
-storyline_nexus: []
+storyline_nexus:
+  - immigration-enforcement
+  - us-administration-2026
+  - ai-regulation
 geographic_location: Park Slope, Brooklyn, New York City, New York, United States
 floor_values_engaged:
 - value: human_life_and_dignity

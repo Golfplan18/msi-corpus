@@ -23,7 +23,10 @@ topic_tags:
   - education
   - health
   - "higher education"
-storyline_nexus: []
+storyline_nexus:
+  - ai-regulation
+  - gaza-conflict
+  - iran-war
 geographic_location: Honolulu, Hawaii, United States
 floor_values_engaged:
 - value: accountability_of_power

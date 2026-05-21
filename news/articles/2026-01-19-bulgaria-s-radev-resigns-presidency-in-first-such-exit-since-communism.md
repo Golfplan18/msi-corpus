@@ -21,7 +21,8 @@ topic_tags:
   - "crime, law and justice"
   - election
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - trump-fed-independence
 geographic_location: Sofia, Bulgaria
 floor_values_engaged:
 - value: informed_citizenship

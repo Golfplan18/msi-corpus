@@ -21,7 +21,10 @@ topic_tags:
   - environment
   - "international relations"
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - trump-tariff-policy
+  - us-china-relations
+  - monetary-policy-2026
 geographic_location: United States / United Nations, New York
 floor_values_engaged:
 - value: informed_citizenship

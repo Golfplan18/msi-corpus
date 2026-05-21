@@ -29,7 +29,9 @@ topic_tags:
   - labour
   - "labour dispute"
   - "mass media"
-storyline_nexus: []
+storyline_nexus:
+  - ai-regulation
+  - us-china-relations
 geographic_location: Horn of Africa; Middle East
 floor_values_engaged:
 - value: informed_citizenship

@@ -21,7 +21,8 @@ topic_tags:
   - election
   - labour
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - ai-regulation
 geographic_location: Nebraska, United States
 floor_values_engaged:
 - value: informed_citizenship

@@ -24,7 +24,10 @@ topic_tags:
   - discrimination
   - "law enforcement"
   - society
-storyline_nexus: []
+storyline_nexus:
+  - immigration-enforcement
+  - us-administration-2026
+  - us-china-relations
 geographic_location: Minneapolis, Minnesota; Washington, D.C.
 floor_values_engaged:
 - value: accountability_of_power

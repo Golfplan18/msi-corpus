@@ -24,7 +24,10 @@ topic_tags:
   - "international relations"
   - "political dissent"
   - "science and technology"
-storyline_nexus: []
+storyline_nexus:
+  - immigration-enforcement
+  - ice-enforcement-surge-2026
+  - trump-administration-2026
 geographic_location: Minneapolis, Minnesota
 floor_values_engaged:
 - value: informed_citizenship

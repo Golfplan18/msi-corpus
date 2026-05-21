@@ -28,7 +28,10 @@ topic_tags:
   - "human migration"
   - "international relations"
   - "political dissent"
-storyline_nexus: []
+storyline_nexus:
+  - iran-crackdown
+  - minneapolis-immigration
+  - trump-fed-independence
 geographic_location: Minneapolis, Minnesota, United States
 floor_values_engaged:
 - value: informed_citizenship

@@ -29,7 +29,10 @@ topic_tags:
   - robotics
   - "science and technology"
   - "economy, business and finance"
-storyline_nexus: []
+storyline_nexus:
+  - us-administration-2026
+  - monetary-policy-2026
+  - ces-2026
 geographic_location: Las Vegas, Nevada, United States
 floor_values_engaged:
 - value: informed_citizenship

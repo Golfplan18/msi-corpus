@@ -20,7 +20,8 @@ topic_tags:
   - "conflict, war and peace"
   - "crime"
   - "crime, law and justice"
-storyline_nexus: []
+storyline_nexus:
+  - gaza-conflict
 geographic_location: West Bank, Israeli-occupied Palestinian territory
 floor_values_engaged:
 - value: human_life_and_dignity

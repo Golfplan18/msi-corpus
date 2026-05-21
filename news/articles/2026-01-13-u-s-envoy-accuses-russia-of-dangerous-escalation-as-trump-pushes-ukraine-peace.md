@@ -25,7 +25,8 @@ topic_tags:
   - "disaster, accident and emergency incident"
   - "economy, business and finance"
   - "energy and resource"
-storyline_nexus: []
+storyline_nexus:
+  - ukraine-russia-war
 geographic_location: United Nations, New York; Ukraine; Russia
 floor_values_engaged:
 - value: human_life_and_dignity

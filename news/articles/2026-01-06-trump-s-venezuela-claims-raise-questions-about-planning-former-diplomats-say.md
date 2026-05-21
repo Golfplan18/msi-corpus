@@ -22,7 +22,8 @@ primary_themes:
 topic_tags:
   - "armed conflict"
   - "conflict, war and peace"
-storyline_nexus: []
+storyline_nexus:
+  - venezuela-crisis
 geographic_location: Venezuela / Washington, D.C.
 floor_values_engaged:
 - value: accountability_of_power

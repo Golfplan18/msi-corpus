@@ -24,7 +24,8 @@ topic_tags:
   - "international relations"
   - "science and technology"
   - terrorism
-storyline_nexus: []
+storyline_nexus:
+  - ai-regulation
 geographic_location: Hasakah province, Syria
 floor_values_engaged:
 - value: informed_citizenship

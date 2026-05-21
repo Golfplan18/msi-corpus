@@ -28,7 +28,8 @@ topic_tags:
   - terrorism
   - "conflict, war and peace"
   - "armed conflict"
-storyline_nexus: []
+storyline_nexus:
+  - immigration-enforcement
 geographic_location: Pakistan-Afghanistan border region, Khyber Pakhtunkhwa province
 floor_values_engaged:
 - value: human_life_and_dignity

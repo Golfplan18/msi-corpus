@@ -21,7 +21,8 @@ topic_tags:
   - "crime, law and justice"
   - education
   - government
-storyline_nexus: []
+storyline_nexus:
+  - immigration-enforcement
 geographic_location: Madison, Wisconsin
 floor_values_engaged:
 - value: informed_citizenship

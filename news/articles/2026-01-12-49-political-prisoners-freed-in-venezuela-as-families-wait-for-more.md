@@ -20,7 +20,10 @@ topic_tags:
   - society
   - politics
   - "human interest"
-storyline_nexus: []
+storyline_nexus:
+  - venezuela-crisis
+  - trump-tariff-policy
+  - ai-regulation
 geographic_location: Caracas, Venezuela
 floor_values_engaged:
 - value: human_life_and_dignity

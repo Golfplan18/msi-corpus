@@ -24,7 +24,10 @@ topic_tags:
   - "political dissent"
   - politics
   - religion
-storyline_nexus: []
+storyline_nexus:
+  - us-administration-2026
+  - us-china-relations
+  - ai-regulation
 geographic_location: Manila, Philippines
 floor_values_engaged:
 - value: accountability_of_power

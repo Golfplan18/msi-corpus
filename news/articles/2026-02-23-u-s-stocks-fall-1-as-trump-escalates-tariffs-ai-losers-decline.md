@@ -20,7 +20,10 @@ topic_tags:
   - "government policy"
   - "science and technology"
   - "artificial intelligence"
-storyline_nexus: []
+storyline_nexus:
+  - trump-administration-2026
+  - trump-tariff-policy
+  - us-china-relations
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship

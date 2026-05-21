@@ -26,7 +26,8 @@ topic_tags:
   - "international relations"
   - government
   - "conflict, war and peace"
-storyline_nexus: []
+storyline_nexus:
+  - russia-ukraine-war
 geographic_location: International (Russia, NATO, Greenland)
 floor_values_engaged:
 - value: truthfulness

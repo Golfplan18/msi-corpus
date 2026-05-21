@@ -20,7 +20,10 @@ primary_themes:
 topic_tags:
   - "government policy"
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - us-administration-2026
+  - trump-tariff-policy
+  - monetary-policy-2026
 geographic_location: New York; Long Island; United States
 floor_values_engaged:
 - value: informed_citizenship

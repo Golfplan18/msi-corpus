@@ -24,7 +24,8 @@ topic_tags:
   - "armed conflict"
   - "conflict, war and peace"
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - greenland-annexation
 geographic_location: Greenland; Washington, D.C.; Copenhagen, Denmark; Paris, France
 floor_values_engaged:
 - value: informed_citizenship

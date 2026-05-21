@@ -22,7 +22,9 @@ topic_tags:
   - "crime, law and justice"
   - crime
   - "law enforcement"
-storyline_nexus: []
+storyline_nexus:
+  - immigration-enforcement
+  - ai-regulation
 geographic_location: Annandale, Virginia; Washington, D.C. region
 floor_values_engaged:
 - value: human_life_and_dignity

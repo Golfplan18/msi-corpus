@@ -16,7 +16,10 @@ primary_themes:
 - legal uncertainty
 topic_tags:
   - "crime, law and justice"
-storyline_nexus: []
+storyline_nexus:
+  - immigration-enforcement
+  - ice-enforcement-surge-2026
+  - trump-administration-2026
 geographic_location: United States; primary focus Minneapolis, Minnesota
 floor_values_engaged:
 - value: human_life_and_dignity

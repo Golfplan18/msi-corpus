@@ -20,7 +20,10 @@ topic_tags:
   - "conflict, war and peace"
   - "economy, business and finance"
   - "international trade"
-storyline_nexus: []
+storyline_nexus:
+  - iran-war
+  - venezuela-crisis
+  - us-china-relations
 geographic_location: Washington, D.C. / Caracas, Venezuela
 floor_values_engaged:
 - value: informed_citizenship

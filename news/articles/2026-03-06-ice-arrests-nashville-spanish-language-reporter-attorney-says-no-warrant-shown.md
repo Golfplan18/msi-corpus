@@ -20,7 +20,8 @@ topic_tags:
   - "conflict, war and peace"
   - "crime"
   - "crime, law and justice"
-storyline_nexus: []
+storyline_nexus:
+  - trump-immigration-crackdown
 geographic_location: Nashville, Tennessee
 floor_values_engaged:
 - value: informed_citizenship

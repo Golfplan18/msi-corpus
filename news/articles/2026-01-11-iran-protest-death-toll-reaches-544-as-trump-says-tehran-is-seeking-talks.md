@@ -25,7 +25,10 @@ topic_tags:
   - "human interest"
   - "international relations"
   - "law enforcement"
-storyline_nexus: []
+storyline_nexus:
+  - iran-war
+  - trump-tariff-policy
+  - us-china-relations
 geographic_location: Iran; United Arab Emirates; United States
 floor_values_engaged:
 - value: human_life_and_dignity

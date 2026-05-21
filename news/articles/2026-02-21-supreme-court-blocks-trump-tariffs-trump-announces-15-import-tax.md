@@ -27,7 +27,11 @@ topic_tags:
   - election
   - politics
   - "government policy"
-storyline_nexus: []
+storyline_nexus:
+  - 2026-midterms
+  - trump-administration-2026
+  - trump-tariff-policy
+  - us-china-relations
 geographic_location: United States
 floor_values_engaged:
 - value: truthfulness

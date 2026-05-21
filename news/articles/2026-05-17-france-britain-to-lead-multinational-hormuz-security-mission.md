@@ -20,7 +20,8 @@ topic_tags:
   - politics
   - "international relations"
   - "economy, business and finance"
-storyline_nexus: []
+storyline_nexus:
+  - iran-war
 geographic_location: International
 floor_values_engaged:
 - value: accountability_of_power

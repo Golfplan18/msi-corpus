@@ -22,7 +22,8 @@ topic_tags:
   - fire
   - health
   - "international relations"
-storyline_nexus: []
+storyline_nexus:
+  - israel-palestine-conflict
 geographic_location: Gaza Strip; Jerusalem; Cairo; Ankara
 floor_values_engaged:
 - value: human_life_and_dignity

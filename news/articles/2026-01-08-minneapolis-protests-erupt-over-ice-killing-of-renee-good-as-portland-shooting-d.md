@@ -32,7 +32,8 @@ topic_tags:
   - "human migration"
   - "international relations"
   - "political dissent"
-storyline_nexus: []
+storyline_nexus:
+  - trump-immigration-crackdown
 geographic_location: Minneapolis, Minnesota; Portland, Oregon
 floor_values_engaged:
 - value: human_life_and_dignity

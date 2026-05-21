@@ -25,7 +25,8 @@ topic_tags:
   - "government policy"
   - "international relations"
   - "human migration"
-storyline_nexus: []
+storyline_nexus:
+  - greenland-annexation
 geographic_location: Washington, D.C.; Nuuk, Greenland; Copenhagen, Denmark
 floor_values_engaged:
 - value: informed_citizenship

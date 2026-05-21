@@ -16,7 +16,9 @@ primary_themes:
 topic_tags:
   - "crime, law and justice"
   - "law enforcement"
-storyline_nexus: []
+storyline_nexus:
+  - iran-crackdown
+  - trump-fed-independence
 geographic_location: Chicago, Illinois, United States
 floor_values_engaged:
 - value: accountability_of_power

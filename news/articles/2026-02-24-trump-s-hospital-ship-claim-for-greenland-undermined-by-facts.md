@@ -14,7 +14,8 @@ primary_themes:
 - presidential_claims
 topic_tags:
   - health
-storyline_nexus: []
+storyline_nexus:
+  - trump-administration-2026
 geographic_location: Greenland; United States
 floor_values_engaged:
 - value: truthfulness

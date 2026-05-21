@@ -23,7 +23,8 @@ topic_tags:
   - "armed conflict"
   - "economy, business and finance"
   - "international trade"
-storyline_nexus: []
+storyline_nexus:
+  - us-china-relations
 geographic_location: Caribbean region, St. Kitts and Nevis
 floor_values_engaged:
 - value: human_life_and_dignity

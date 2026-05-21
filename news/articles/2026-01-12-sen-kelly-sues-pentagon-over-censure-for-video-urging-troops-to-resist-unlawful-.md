@@ -22,7 +22,10 @@ topic_tags:
   - "judiciary"
   - "politics"
   - "government policy"
-storyline_nexus: []
+storyline_nexus:
+  - ces-2026
+  - us-administration-2026
+  - trump-tariff-policy
 geographic_location: Washington, D.C.
 floor_values_engaged:
 - value: accountability_of_power

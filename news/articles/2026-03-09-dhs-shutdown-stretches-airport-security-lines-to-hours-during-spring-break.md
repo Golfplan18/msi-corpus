@@ -18,7 +18,8 @@ primary_themes:
 - spring_break_travel
 - TSA_labor
 topic_tags: []
-storyline_nexus: []
+storyline_nexus:
+  - ai-regulation
 geographic_location: Houston, Texas; New Orleans, Louisiana; United States
 floor_values_engaged:
 - value: informed_citizenship

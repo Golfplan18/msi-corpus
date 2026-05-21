@@ -22,7 +22,8 @@ topic_tags:
   - employment
   - labour
   - "science and technology"
-storyline_nexus: []
+storyline_nexus:
+  - humanoid-robotics-industry
 geographic_location: Las Vegas, Nevada
 floor_values_engaged:
 - value: informed_citizenship

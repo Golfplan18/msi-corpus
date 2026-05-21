@@ -21,7 +21,8 @@ primary_themes:
 - Spain
 - infrastructure
 topic_tags: []
-storyline_nexus: []
+storyline_nexus:
+  - spain-rail-disaster
 geographic_location: Adamuz, Cordoba province, Spain
 floor_values_engaged:
 - value: human_life_and_dignity

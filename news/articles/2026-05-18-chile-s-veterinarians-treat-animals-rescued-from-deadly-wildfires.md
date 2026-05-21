@@ -23,7 +23,8 @@ topic_tags:
   - environment
   - "natural disaster"
   - conservation
-storyline_nexus: []
+storyline_nexus:
+  - wildfire-season-2026
 geographic_location: Chile, south-central (Lirquén, Bío Bío region)
 floor_values_engaged:
 - value: human_life_and_dignity

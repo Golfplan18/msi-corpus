@@ -21,7 +21,8 @@ topic_tags:
   - government
   - "government policy"
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - trump-immigration-crackdown
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

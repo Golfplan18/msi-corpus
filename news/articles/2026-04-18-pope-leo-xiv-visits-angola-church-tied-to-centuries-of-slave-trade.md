@@ -18,7 +18,8 @@ topic_tags:
   - religion
   - "religious institution"
   - "religious leader"
-storyline_nexus: []
+storyline_nexus:
+  - pope-leo-xiv-africa-tour
 geographic_location: Muxima, Angola
 floor_values_engaged:
 - value: human_life_and_dignity

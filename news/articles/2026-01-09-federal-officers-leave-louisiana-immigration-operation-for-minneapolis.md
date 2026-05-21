@@ -21,7 +21,10 @@ topic_tags:
   - "government policy"
   - "human interest"
   - "human migration"
-storyline_nexus: []
+storyline_nexus:
+  - immigration-enforcement
+  - monetary-policy-2026
+  - us-administration-2026
 geographic_location: New Orleans, Louisiana; Kenner, Louisiana; Minneapolis, Minnesota
 floor_values_engaged:
 - value: human_life_and_dignity

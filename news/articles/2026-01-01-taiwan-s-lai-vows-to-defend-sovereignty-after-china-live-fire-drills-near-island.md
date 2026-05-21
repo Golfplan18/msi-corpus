@@ -21,7 +21,8 @@ topic_tags:
   - "conflict, war and peace"
   - "disaster, accident and emergency incident"
   - fire
-storyline_nexus: []
+storyline_nexus:
+  - us-china-relations
 geographic_location: Taiwan; Beijing, China
 floor_values_engaged:
 - value: informed_citizenship

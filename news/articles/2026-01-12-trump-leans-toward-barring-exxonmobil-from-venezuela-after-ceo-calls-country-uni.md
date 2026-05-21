@@ -20,7 +20,10 @@ topic_tags:
   - "international relations"
   - "economy, business and finance"
   - "energy and resource"
-storyline_nexus: []
+storyline_nexus:
+  - trump-tariff-policy
+  - venezuela-crisis
+  - us-administration-2026
 geographic_location: Venezuela; West Palm Beach, Florida
 floor_values_engaged:
 - value: informed_citizenship

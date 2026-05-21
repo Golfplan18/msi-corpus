@@ -16,7 +16,10 @@ primary_themes:
 topic_tags:
   - "crime, law and justice"
   - "law enforcement"
-storyline_nexus: []
+storyline_nexus:
+  - ai-regulation
+  - us-administration-2026
+  - immigration-enforcement
 geographic_location: Washington, D.C.
 floor_values_engaged:
 - value: accountability_of_power

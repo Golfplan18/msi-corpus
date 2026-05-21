@@ -21,7 +21,8 @@ topic_tags:
   - "conflict, war and peace"
   - "arts, culture, entertainment and media"
   - "arts and entertainment"
-storyline_nexus: []
+storyline_nexus:
+  - ai-regulation
 geographic_location: Dover, Delaware, United States
 floor_values_engaged:
 - value: accountability_of_power

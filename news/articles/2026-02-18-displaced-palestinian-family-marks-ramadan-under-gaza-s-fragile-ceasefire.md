@@ -17,7 +17,8 @@ topic_tags:
   - "armed conflict"
   - "conflict, war and peace"
   - religion
-storyline_nexus: []
+storyline_nexus:
+  - gaza-conflict
 geographic_location: Gaza Strip
 floor_values_engaged:
 - value: human_life_and_dignity

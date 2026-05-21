@@ -18,7 +18,8 @@ primary_themes:
 topic_tags:
   - "disaster, accident and emergency incident"
   - weather
-storyline_nexus: []
+storyline_nexus:
+  - ai-regulation
 geographic_location: Purcell and Shawnee, Oklahoma, United States
 floor_values_engaged:
 - value: human_life_and_dignity

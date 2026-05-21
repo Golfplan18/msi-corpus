@@ -24,7 +24,10 @@ topic_tags:
   - "international relations"
   - "law enforcement"
   - "political dissent"
-storyline_nexus: []
+storyline_nexus:
+  - trump-tariff-policy
+  - venezuela-crisis
+  - us-china-relations
 geographic_location: Cuba; Venezuela; West Palm Beach, Florida, United States
 floor_values_engaged:
 - value: informed_citizenship

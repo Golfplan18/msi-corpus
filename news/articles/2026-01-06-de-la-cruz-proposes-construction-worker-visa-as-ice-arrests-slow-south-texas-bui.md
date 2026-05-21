@@ -22,7 +22,8 @@ topic_tags:
   - "human interest"
   - "human migration"
   - labour
-storyline_nexus: []
+storyline_nexus:
+  - trump-immigration-crackdown
 geographic_location: South Texas / Rio Grande Valley, Texas
 floor_values_engaged:
 - value: informed_citizenship

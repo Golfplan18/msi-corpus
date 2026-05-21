@@ -24,7 +24,8 @@ primary_themes:
 topic_tags:
   - "international relations"
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - greenland-annexation
 geographic_location: Washington, D.C.; Greenland; Copenhagen; Paris
 floor_values_engaged:
 - value: informed_citizenship

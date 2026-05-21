@@ -26,7 +26,10 @@ topic_tags:
   - "mass media"
   - music
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - ai-regulation
+  - iran-war
+  - russia-ukraine-war
 geographic_location: Aden, Yemen
 floor_values_engaged:
 - value: informed_citizenship

@@ -19,7 +19,8 @@ primary_themes:
 - SDF dissolution
 - northeastern Syria
 topic_tags: []
-storyline_nexus: []
+storyline_nexus:
+  - gaza-conflict
 geographic_location: Syria
 floor_values_engaged:
 - value: human_life_and_dignity

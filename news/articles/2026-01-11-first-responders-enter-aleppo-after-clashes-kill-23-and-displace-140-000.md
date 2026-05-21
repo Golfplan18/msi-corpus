@@ -19,7 +19,10 @@ topic_tags:
   - "conflict, war and peace"
   - government
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - gaza-conflict
+  - iran-war
+  - russia-ukraine-war
 geographic_location: Aleppo, Syria
 floor_values_engaged:
 - value: human_life_and_dignity

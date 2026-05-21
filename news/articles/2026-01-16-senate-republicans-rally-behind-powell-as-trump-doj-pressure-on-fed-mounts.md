@@ -27,7 +27,8 @@ topic_tags:
   - politics
   - sport
   - "sport event"
-storyline_nexus: []
+storyline_nexus:
+  - trump-fed-independence
 geographic_location: Washington, D.C.
 floor_values_engaged:
 - value: accountability_of_power

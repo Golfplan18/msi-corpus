@@ -20,7 +20,10 @@ topic_tags:
   - "fire"
   - "crime, law and justice"
   - "judiciary"
-storyline_nexus: []
+storyline_nexus:
+  - us-administration-2026
+  - ai-regulation
+  - us-china-relations
 geographic_location: Crans-Montana, Valais, Switzerland
 floor_values_engaged:
 - value: human_life_and_dignity

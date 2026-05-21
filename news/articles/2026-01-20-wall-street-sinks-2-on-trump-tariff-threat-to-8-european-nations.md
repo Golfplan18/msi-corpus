@@ -24,7 +24,9 @@ topic_tags:
   - macroeconomics
   - "market and exchange"
   - sport
-storyline_nexus: []
+storyline_nexus:
+  - us-china-relations
+  - trump-fed-independence
 geographic_location: United States; Europe
 floor_values_engaged:
 - value: informed_citizenship

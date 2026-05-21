@@ -24,7 +24,8 @@ topic_tags:
   - "civil unrest"
   - "conflict, war and peace"
   - "mass media"
-storyline_nexus: []
+storyline_nexus:
+  - fed-independence
 geographic_location: International
 floor_values_engaged:
 - value: accountability_of_power

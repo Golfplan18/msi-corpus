@@ -20,7 +20,10 @@ primary_themes:
 - Russia-China Arctic competition
 topic_tags:
   - weather
-storyline_nexus: []
+storyline_nexus:
+  - us-china-relations
+  - trump-tariff-policy
+  - russia-ukraine-war
 geographic_location: Arctic / Greenland / United Kingdom / Denmark
 floor_values_engaged:
 - value: informed_citizenship

@@ -23,7 +23,8 @@ topic_tags:
   - "human migration"
   - "disaster, accident and emergency incident"
   - school
-storyline_nexus: []
+storyline_nexus:
+  - immigration-enforcement
 geographic_location: Midwest United States
 floor_values_engaged:
 - value: human_life_and_dignity

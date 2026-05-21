@@ -23,7 +23,10 @@ topic_tags:
   - "international relations"
   - "conflict, war and peace"
   - "armed conflict"
-storyline_nexus: []
+storyline_nexus:
+  - trump-tariff-policy
+  - us-china-relations
+  - us-administration-2026
 geographic_location: Brussels, Belgium / International
 floor_values_engaged:
 - value: accountability_of_power

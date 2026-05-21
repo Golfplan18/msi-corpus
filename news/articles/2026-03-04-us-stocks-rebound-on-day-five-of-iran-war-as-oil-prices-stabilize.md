@@ -30,7 +30,8 @@ topic_tags:
   - "monetary policy"
   - "conflict, war and peace"
   - "armed conflict"
-storyline_nexus: []
+storyline_nexus:
+  - iran-war
 geographic_location: New York, NY / International
 floor_values_engaged:
 - value: informed_citizenship

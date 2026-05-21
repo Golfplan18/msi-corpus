@@ -21,7 +21,10 @@ topic_tags:
   - education
   - "higher education"
   - "science and technology"
-storyline_nexus: []
+storyline_nexus:
+  - gaza-conflict
+  - iran-war
+  - russia-ukraine-war
 geographic_location: Stanford, California
 floor_values_engaged:
 - value: informed_citizenship

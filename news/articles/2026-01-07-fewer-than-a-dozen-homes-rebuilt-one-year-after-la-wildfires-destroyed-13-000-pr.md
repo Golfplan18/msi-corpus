@@ -34,7 +34,8 @@ topic_tags:
   - "disaster, accident and emergency incident"
   - fire
   - "human interest"
-storyline_nexus: []
+storyline_nexus:
+  - los-angeles-wildfires
 geographic_location: Los Angeles County, California
 floor_values_engaged:
 - value: human_life_and_dignity

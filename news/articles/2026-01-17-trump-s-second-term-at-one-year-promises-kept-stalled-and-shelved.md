@@ -28,7 +28,8 @@ topic_tags:
   - "government policy"
   - "human interest"
   - "human migration"
-storyline_nexus: []
+storyline_nexus:
+  - trump-greenland
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship

@@ -22,7 +22,8 @@ topic_tags:
   - "human migration"
   - "human interest"
   - "economy, business and finance"
-storyline_nexus: []
+storyline_nexus:
+  - china-taiwan-tensions
 geographic_location: East Asia
 floor_values_engaged:
 - value: informed_citizenship

@@ -17,7 +17,10 @@ primary_themes:
 topic_tags:
   - "human interest"
   - "human migration"
-storyline_nexus: []
+storyline_nexus:
+  - immigration-enforcement
+  - ice-enforcement-surge-2026
+  - trump-administration-2026
 geographic_location: Minnesota, United States
 floor_values_engaged:
 - value: accountability_of_power

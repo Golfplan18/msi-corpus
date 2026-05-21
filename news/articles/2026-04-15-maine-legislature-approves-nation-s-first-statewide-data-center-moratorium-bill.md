@@ -20,7 +20,8 @@ topic_tags:
   - government
   - "science and technology"
   - "artificial intelligence"
-storyline_nexus: []
+storyline_nexus:
+  - ai-regulation
 geographic_location: Maine, United States
 floor_values_engaged:
 - value: accountability_of_power

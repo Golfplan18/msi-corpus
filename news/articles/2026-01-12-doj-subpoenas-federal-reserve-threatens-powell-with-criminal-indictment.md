@@ -23,7 +23,10 @@ topic_tags:
   - "crime, law and justice"
   - "economy, business and finance"
   - banking
-storyline_nexus: []
+storyline_nexus:
+  - trump-tariff-policy
+  - monetary-policy-2026
+  - us-administration-2026
 geographic_location: Washington, D.C., United States
 floor_values_engaged:
 - value: accountability_of_power

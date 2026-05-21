@@ -31,7 +31,10 @@ topic_tags:
   - "economy, business and finance"
   - "human migration"
   - labour
-storyline_nexus: []
+storyline_nexus:
+  - iran-war
+  - iran-crisis-2026
+  - ai-regulation
 geographic_location: Global / Strait of Hormuz
 floor_values_engaged:
 - value: informed_citizenship

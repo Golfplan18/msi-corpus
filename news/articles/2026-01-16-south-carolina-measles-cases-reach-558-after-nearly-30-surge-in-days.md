@@ -15,7 +15,8 @@ primary_themes:
 topic_tags:
   - health
   - "disease and condition"
-storyline_nexus: []
+storyline_nexus:
+  - measles-outbreak
 geographic_location: Spartanburg County, South Carolina, United States
 floor_values_engaged:
 - value: human_life_and_dignity

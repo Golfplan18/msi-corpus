@@ -24,7 +24,10 @@ topic_tags:
   - politics
   - "crime, law and justice"
   - "law enforcement"
-storyline_nexus: []
+storyline_nexus:
+  - immigration-enforcement
+  - ice-enforcement-surge-2026
+  - trump-administration-2026
 geographic_location: Minneapolis, Minnesota, United States
 floor_values_engaged:
 - value: human_life_and_dignity

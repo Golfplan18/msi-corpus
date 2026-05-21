@@ -17,7 +17,9 @@ primary_themes:
 - military-operations
 topic_tags:
   - "conflict, war and peace"
-storyline_nexus: []
+storyline_nexus:
+  - venezuela-crisis
+  - immigration-enforcement
 geographic_location: United States / Venezuela
 floor_values_engaged:
 - value: accountability_of_power

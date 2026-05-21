@@ -20,7 +20,10 @@ topic_tags:
   - "international relations"
   - "law enforcement"
   - trial
-storyline_nexus: []
+storyline_nexus:
+  - ai-regulation
+  - us-china-relations
+  - immigration-enforcement
 geographic_location: New York City, New York, United States
 floor_values_engaged:
 - value: accountability_of_power

@@ -22,7 +22,10 @@ topic_tags:
   - "armed conflict"
   - "conflict, war and peace"
   - "crime, law and justice"
-storyline_nexus: []
+storyline_nexus:
+  - immigration-enforcement
+  - us-administration-2026
+  - trump-tariff-policy
 geographic_location: Minneapolis, Minnesota; Washington, D.C.
 floor_values_engaged:
 - value: informed_citizenship

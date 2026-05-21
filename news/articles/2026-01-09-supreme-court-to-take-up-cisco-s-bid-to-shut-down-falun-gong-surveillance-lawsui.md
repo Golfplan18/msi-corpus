@@ -19,7 +19,10 @@ topic_tags:
   - "crime, law and justice"
   - "science and technology"
   - trial
-storyline_nexus: []
+storyline_nexus:
+  - us-china-relations
+  - us-administration-2026
+  - ai-regulation
 geographic_location: Washington, D.C.; China
 floor_values_engaged:
 - value: human_life_and_dignity

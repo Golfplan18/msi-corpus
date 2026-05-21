@@ -23,7 +23,8 @@ topic_tags:
   - government
   - labour
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - monetary-policy-2026
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship

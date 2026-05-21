@@ -26,7 +26,10 @@ topic_tags:
   - "international relations"
   - "international trade"
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - us-china-relations
+  - trump-tariff-policy
+  - humanoid-robotics-industry
 geographic_location: Greenland; United States; Denmark
 floor_values_engaged:
 - value: informed_citizenship

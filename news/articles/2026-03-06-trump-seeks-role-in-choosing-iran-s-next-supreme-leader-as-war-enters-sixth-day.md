@@ -25,7 +25,9 @@ topic_tags:
   - "conflict, war and peace"
   - "government policy"
   - "politics"
-storyline_nexus: []
+storyline_nexus:
+  - iran-war
+  - trump-administration-2026
 geographic_location: Iran, Middle East
 floor_values_engaged:
 - value: human_life_and_dignity

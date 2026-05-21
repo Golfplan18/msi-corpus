@@ -31,7 +31,8 @@ topic_tags:
   - "crime, law and justice"
   - corruption
   - "arts, culture, entertainment and media"
-storyline_nexus: []
+storyline_nexus:
+  - trump-fed-independence
 geographic_location: Kampala, Uganda
 floor_values_engaged:
 - value: accountability_of_power

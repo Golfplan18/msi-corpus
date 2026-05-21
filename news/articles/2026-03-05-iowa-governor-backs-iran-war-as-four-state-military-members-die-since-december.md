@@ -24,7 +24,8 @@ topic_tags:
   - "armed conflict"
   - "politics"
   - "government"
-storyline_nexus: []
+storyline_nexus:
+  - iran-war
 geographic_location: Iowa, United States; Kuwait; Syria
 floor_values_engaged:
 - value: human_life_and_dignity

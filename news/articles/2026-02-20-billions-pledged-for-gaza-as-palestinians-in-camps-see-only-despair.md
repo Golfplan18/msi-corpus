@@ -16,7 +16,9 @@ primary_themes:
 - Humanitarian crisis
 - Displacement
 topic_tags: []
-storyline_nexus: []
+storyline_nexus:
+  - gaza-conflict
+  - trump-administration-2026
 geographic_location: Gaza Strip / Washington DC
 floor_values_engaged:
 - value: human_life_and_dignity

@@ -26,7 +26,8 @@ topic_tags:
   - "conflict, war and peace"
   - "international relations"
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - venezuela-crisis
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

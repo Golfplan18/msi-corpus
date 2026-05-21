@@ -17,7 +17,8 @@ topic_tags:
   - "disaster, accident and emergency incident"
   - fire
   - "natural disaster"
-storyline_nexus: []
+storyline_nexus:
+  - los-angeles-wildfires
 geographic_location: Altadena, California
 floor_values_engaged:
 - value: human_life_and_dignity

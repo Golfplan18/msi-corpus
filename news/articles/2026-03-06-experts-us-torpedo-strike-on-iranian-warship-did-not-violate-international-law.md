@@ -21,7 +21,8 @@ primary_themes:
 topic_tags:
   - "armed conflict"
   - "conflict, war and peace"
-storyline_nexus: []
+storyline_nexus:
+  - iran-war
 geographic_location: Indian Ocean, near Sri Lanka
 floor_values_engaged:
 - value: informed_citizenship

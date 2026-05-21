@@ -22,7 +22,9 @@ topic_tags:
   - "economy, business and finance"
   - "international trade"
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - trump-greenland
+  - trump-fed-independence
 geographic_location: Nuuk, Greenland
 floor_values_engaged:
 - value: human_life_and_dignity

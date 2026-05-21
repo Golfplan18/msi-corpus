@@ -26,7 +26,8 @@ topic_tags:
   - "international relations"
   - labour
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - russia-ukraine-war
 geographic_location: Europe
 floor_values_engaged:
 - value: accountability_of_power

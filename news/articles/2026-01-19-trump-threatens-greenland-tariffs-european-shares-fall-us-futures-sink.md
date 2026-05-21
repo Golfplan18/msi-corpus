@@ -23,7 +23,9 @@ topic_tags:
   - "government policy"
   - "international relations"
   - "international trade"
-storyline_nexus: []
+storyline_nexus:
+  - trump-greenland
+  - trump-fed-independence
 geographic_location: United States, Europe, Asia
 floor_values_engaged:
 - value: informed_citizenship

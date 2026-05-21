@@ -17,7 +17,8 @@ topic_tags:
   - "armed conflict"
   - "conflict, war and peace"
   - labour
-storyline_nexus: []
+storyline_nexus:
+  - trump-administration-2026
 geographic_location: Brussels, Belgium; NATO members
 floor_values_engaged:
 - value: accountability_of_power

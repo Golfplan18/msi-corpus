@@ -22,7 +22,8 @@ topic_tags:
   - "human interest"
   - "human migration"
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - minneapolis-immigration
 geographic_location: Minneapolis, Minnesota, United States
 floor_values_engaged:
 - value: human_life_and_dignity

@@ -20,7 +20,8 @@ topic_tags:
   - "disaster, accident and emergency incident"
   - "climate change"
   - environment
-storyline_nexus: []
+storyline_nexus:
+  - wildfire-season-2026
 geographic_location: North America
 floor_values_engaged:
 - value: human_life_and_dignity

@@ -23,7 +23,8 @@ topic_tags:
   - "crime"
   - "crime, law and justice"
   - "disaster, accident and emergency incident"
-storyline_nexus: []
+storyline_nexus:
+  - ai-regulation
 geographic_location: Bangor, Maine
 floor_values_engaged:
 - value: informed_citizenship

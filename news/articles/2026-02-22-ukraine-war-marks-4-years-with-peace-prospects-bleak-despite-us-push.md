@@ -22,7 +22,9 @@ topic_tags:
   - "government policy"
   - "science and technology"
   - "artificial intelligence"
-storyline_nexus: []
+storyline_nexus:
+  - russia-ukraine-war
+  - trump-administration-2026
 geographic_location: Russia, Ukraine, Eastern Europe
 floor_values_engaged:
 - value: human_life_and_dignity

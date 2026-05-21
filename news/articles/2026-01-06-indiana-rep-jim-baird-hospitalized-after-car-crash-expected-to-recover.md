@@ -16,7 +16,8 @@ primary_themes:
 - Indiana politics
 topic_tags:
   - health
-storyline_nexus: []
+storyline_nexus:
+  - trump-immigration-crackdown
 geographic_location: Indiana, United States
 floor_values_engaged:
 - value: informed_citizenship

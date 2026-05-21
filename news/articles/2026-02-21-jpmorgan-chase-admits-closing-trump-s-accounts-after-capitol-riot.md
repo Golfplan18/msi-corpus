@@ -16,7 +16,8 @@ topic_tags:
   - banking
   - politics
   - "government policy"
-storyline_nexus: []
+storyline_nexus:
+  - trump-administration-2026
 geographic_location: United States
 floor_values_engaged:
 - value: truthfulness

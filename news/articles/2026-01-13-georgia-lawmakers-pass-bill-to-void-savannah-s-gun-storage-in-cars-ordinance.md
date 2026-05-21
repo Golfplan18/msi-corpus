@@ -22,7 +22,9 @@ topic_tags:
   - fire
   - government
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - us-administration-2026
+  - us-china-relations
 geographic_location: Savannah, Georgia, United States
 floor_values_engaged:
 - value: informed_citizenship

@@ -20,7 +20,10 @@ primary_themes:
 - Supremacy Clause
 - ICE
 topic_tags: []
-storyline_nexus: []
+storyline_nexus:
+  - immigration-enforcement
+  - iran-war
+  - russia-ukraine-war
 geographic_location: Minneapolis, Minnesota
 floor_values_engaged:
 - value: accountability_of_power

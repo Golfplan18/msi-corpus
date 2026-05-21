@@ -18,7 +18,10 @@ primary_themes:
 - founding era
 topic_tags:
   - "conflict, war and peace"
-storyline_nexus: []
+storyline_nexus:
+  - ai-regulation
+  - gaza-conflict
+  - iran-war
 geographic_location: Washington, D.C.
 floor_values_engaged:
 - value: informed_citizenship

@@ -24,7 +24,8 @@ topic_tags:
   - "conflict, war and peace"
   - "mass media"
   - "science and technology"
-storyline_nexus: []
+storyline_nexus:
+  - russia-ukraine-war
 geographic_location: Kyiv, Ukraine; Paris, France
 floor_values_engaged:
 - value: informed_citizenship

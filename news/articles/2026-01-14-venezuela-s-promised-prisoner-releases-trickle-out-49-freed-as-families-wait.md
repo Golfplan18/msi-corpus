@@ -17,7 +17,8 @@ primary_themes:
 - US-Venezuela relations
 topic_tags:
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - venezuela-crisis
 geographic_location: Caracas, Venezuela
 floor_values_engaged:
 - value: human_life_and_dignity

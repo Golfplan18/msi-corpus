@@ -26,7 +26,9 @@ topic_tags:
   - "human interest"
   - "human migration"
   - religion
-storyline_nexus: []
+storyline_nexus:
+  - minneapolis-immigration
+  - iran-crackdown
 geographic_location: St. Paul, Minnesota
 floor_values_engaged:
 - value: accountability_of_power

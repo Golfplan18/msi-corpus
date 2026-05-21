@@ -18,7 +18,8 @@ primary_themes:
 topic_tags:
   - "artificial intelligence"
   - "science and technology"
-storyline_nexus: []
+storyline_nexus:
+  - minneapolis-immigration
 geographic_location: northern Pakistan
 floor_values_engaged:
 - value: human_life_and_dignity

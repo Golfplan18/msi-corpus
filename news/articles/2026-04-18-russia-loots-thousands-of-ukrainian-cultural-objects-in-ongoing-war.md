@@ -23,7 +23,8 @@ topic_tags:
   - "international relations"
   - politics
   - "science and technology"
-storyline_nexus: []
+storyline_nexus:
+  - russia-ukraine-war
 geographic_location: Ukraine, Russia, Poland, Italy
 floor_values_engaged:
 - value: human_life_and_dignity

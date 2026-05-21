@@ -21,7 +21,10 @@ topic_tags:
   - "economy, business and finance"
   - "international trade"
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - trump-administration-2026
+  - trump-tariff-policy
+  - us-china-relations
 geographic_location: United States / South Korea
 floor_values_engaged:
 - value: accountability_of_power

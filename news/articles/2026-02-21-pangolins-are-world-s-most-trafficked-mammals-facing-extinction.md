@@ -18,7 +18,8 @@ primary_themes:
 topic_tags:
   - environment
   - conservation
-storyline_nexus: []
+storyline_nexus:
+  - us-china-relations
 geographic_location: International—Africa, Asia, with focus on Nigeria
 floor_values_engaged:
 - value: human_life_and_dignity

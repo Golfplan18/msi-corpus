@@ -18,7 +18,8 @@ topic_tags:
   - "crime, law and justice"
   - judiciary
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - trump-immigration-crackdown
 geographic_location: Brasília, Brazil
 floor_values_engaged:
 - value: accountability_of_power

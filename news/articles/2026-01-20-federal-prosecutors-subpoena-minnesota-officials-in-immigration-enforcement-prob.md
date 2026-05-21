@@ -30,7 +30,10 @@ topic_tags:
   - "science and technology"
   - sport
   - "sport event"
-storyline_nexus: []
+storyline_nexus:
+  - iran-crackdown
+  - minneapolis-immigration
+  - trump-fed-independence
 geographic_location: Minneapolis-St. Paul, Minnesota
 floor_values_engaged:
 - value: accountability_of_power

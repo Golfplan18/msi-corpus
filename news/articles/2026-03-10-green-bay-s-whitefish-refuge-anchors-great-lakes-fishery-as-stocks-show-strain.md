@@ -22,7 +22,8 @@ topic_tags:
   - "climate change"
   - "conflict, war and peace"
   - environment
-storyline_nexus: []
+storyline_nexus:
+  - ai-regulation
 geographic_location: Green Bay, Wisconsin; Lake Michigan
 floor_values_engaged:
 - value: informed_citizenship

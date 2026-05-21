@@ -24,7 +24,10 @@ topic_tags:
   - "conflict, war and peace"
   - "economy, business and finance"
   - "international trade"
-storyline_nexus: []
+storyline_nexus:
+  - iran-war
+  - trump-administration-2026
+  - us-china-relations
 geographic_location: Spain; United States
 floor_values_engaged:
 - value: informed_citizenship

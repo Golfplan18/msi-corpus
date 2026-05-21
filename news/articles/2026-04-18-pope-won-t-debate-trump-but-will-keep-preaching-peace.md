@@ -22,7 +22,8 @@ topic_tags:
   - "international relations"
   - "economy, business and finance"
   - "conflict, war and peace"
-storyline_nexus: []
+storyline_nexus:
+  - pope-leo-xiv-africa-tour
 geographic_location: Africa (Cameroon, Angola)
 floor_values_engaged:
 - value: human_life_and_dignity

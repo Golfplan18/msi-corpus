@@ -23,7 +23,9 @@ topic_tags:
   - "economy, business and finance"
   - "international trade"
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - trump-greenland
+  - davos-2026
 geographic_location: International (Washington D.C.; Davos, Switzerland; Nuuk, Greenland; Brussels, Belgium)
 floor_values_engaged:
 - value: informed_citizenship

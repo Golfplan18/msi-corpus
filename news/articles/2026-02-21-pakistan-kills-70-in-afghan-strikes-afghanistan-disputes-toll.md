@@ -23,7 +23,9 @@ topic_tags:
   - terrorism
   - "conflict, war and peace"
   - "armed conflict"
-storyline_nexus: []
+storyline_nexus:
+  - gaza-conflict
+  - immigration-enforcement
 geographic_location: Pakistan-Afghanistan border region, Nangarhar, Paktika provinces
 floor_values_engaged:
 - value: human_life_and_dignity

@@ -23,7 +23,8 @@ topic_tags:
   - "government policy"
   - "law enforcement"
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - immigration-enforcement
 geographic_location: Toledo, Ohio, United States
 floor_values_engaged:
 - value: informed_citizenship

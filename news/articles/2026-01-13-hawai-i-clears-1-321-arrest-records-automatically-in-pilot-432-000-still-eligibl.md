@@ -21,7 +21,10 @@ primary_themes:
 - reentry barriers
 topic_tags:
   - "crime, law and justice"
-storyline_nexus: []
+storyline_nexus:
+  - ai-regulation
+  - iran-war
+  - russia-ukraine-war
 geographic_location: Hawai'i, United States
 floor_values_engaged:
 - value: human_life_and_dignity

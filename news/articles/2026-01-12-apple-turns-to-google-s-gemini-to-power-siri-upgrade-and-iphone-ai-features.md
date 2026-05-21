@@ -24,7 +24,10 @@ topic_tags:
   - government
   - "government policy"
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - ai-regulation
+  - monetary-policy-2026
+  - us-administration-2026
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship

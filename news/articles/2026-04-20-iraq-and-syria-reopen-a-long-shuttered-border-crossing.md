@@ -21,7 +21,8 @@ topic_tags:
   - "economy, business and finance"
   - "international relations"
   - "international trade"
-storyline_nexus: []
+storyline_nexus:
+  - iran-war
 geographic_location: Iraq-Syria border
 floor_values_engaged:
 - value: informed_citizenship

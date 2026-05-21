@@ -21,7 +21,8 @@ topic_tags:
   - election
   - health
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - trump-immigration-crackdown
 geographic_location: Sacramento, California, United States
 floor_values_engaged:
 - value: informed_citizenship

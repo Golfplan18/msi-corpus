@@ -22,7 +22,8 @@ topic_tags:
   - judiciary
   - "law enforcement"
   - school
-storyline_nexus: []
+storyline_nexus:
+  - trump-immigration-crackdown
 geographic_location: Corpus Christi, Texas
 floor_values_engaged:
 - value: accountability_of_power

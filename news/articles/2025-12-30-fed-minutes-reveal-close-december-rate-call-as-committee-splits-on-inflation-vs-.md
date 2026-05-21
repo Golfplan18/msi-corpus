@@ -20,7 +20,8 @@ primary_themes:
 - Federal Reserve
 topic_tags:
   - labour
-storyline_nexus: []
+storyline_nexus:
+  - monetary-policy-2026
 geographic_location: Washington, D.C.
 floor_values_engaged:
 - value: informed_citizenship

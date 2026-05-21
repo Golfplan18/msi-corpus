@@ -16,7 +16,8 @@ primary_themes:
 - Financial governance
 topic_tags:
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - gaza-conflict
 geographic_location: Alaska, United States
 floor_values_engaged:
 - value: accountability_of_power

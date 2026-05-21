@@ -23,7 +23,9 @@ primary_themes:
 topic_tags:
   - "government policy"
   - "politics"
-storyline_nexus: []
+storyline_nexus:
+  - trump-administration-2026
+  - 2026-midterms
 geographic_location: Georgia, United States
 floor_values_engaged:
 - value: informed_citizenship

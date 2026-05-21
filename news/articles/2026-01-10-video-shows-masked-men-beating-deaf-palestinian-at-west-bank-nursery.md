@@ -19,7 +19,10 @@ topic_tags:
   - "conflict, war and peace"
   - health
   - "mass media"
-storyline_nexus: []
+storyline_nexus:
+  - gaza-conflict
+  - iran-war
+  - russia-ukraine-war
 geographic_location: Deir Sharaf, West Bank
 floor_values_engaged:
 - value: human_life_and_dignity

@@ -24,7 +24,10 @@ topic_tags:
   - election
   - government
   - "government policy"
-storyline_nexus: []
+storyline_nexus:
+  - monetary-policy-2026
+  - us-administration-2026
+  - ai-regulation
 geographic_location: Budapest, Hungary
 floor_values_engaged:
 - value: informed_citizenship

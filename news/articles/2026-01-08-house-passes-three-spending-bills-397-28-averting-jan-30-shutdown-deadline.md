@@ -22,7 +22,8 @@ primary_themes:
 topic_tags:
   - government
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - trump-immigration-crackdown
 geographic_location: Washington, D.C., United States
 floor_values_engaged:
 - value: informed_citizenship

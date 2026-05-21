@@ -24,7 +24,8 @@ topic_tags:
   - "crime, law and justice"
   - election
   - government
-storyline_nexus: []
+storyline_nexus:
+  - davos-2026
 geographic_location: United States
 floor_values_engaged:
 - value: truthfulness

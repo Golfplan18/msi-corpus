@@ -21,7 +21,10 @@ topic_tags:
   - banking
   - "economy, business and finance"
   - "market and exchange"
-storyline_nexus: []
+storyline_nexus:
+  - us-administration-2026
+  - trump-tariff-policy
+  - us-china-relations
 geographic_location: Washington, D.C.
 floor_values_engaged:
 - value: accountability_of_power

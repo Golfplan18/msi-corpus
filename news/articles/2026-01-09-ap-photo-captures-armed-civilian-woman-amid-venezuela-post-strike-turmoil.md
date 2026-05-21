@@ -18,7 +18,10 @@ primary_themes:
 topic_tags:
   - labour
   - "labour dispute"
-storyline_nexus: []
+storyline_nexus:
+  - venezuela-crisis
+  - ai-regulation
+  - gaza-conflict
 geographic_location: La Guaira, Venezuela
 floor_values_engaged:
 - value: informed_citizenship

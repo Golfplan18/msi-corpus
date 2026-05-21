@@ -20,7 +20,9 @@ primary_themes:
 - International conflict
 topic_tags:
   - "conflict, war and peace"
-storyline_nexus: []
+storyline_nexus:
+  - iran-crackdown
+  - trump-fed-independence
 geographic_location: Iran; International
 floor_values_engaged:
 - value: human_life_and_dignity

@@ -20,7 +20,8 @@ topic_tags:
   - "government policy"
   - labour
   - "law enforcement"
-storyline_nexus: []
+storyline_nexus:
+  - immigration-enforcement
 geographic_location: Nevada, United States
 floor_values_engaged:
 - value: accountability_of_power

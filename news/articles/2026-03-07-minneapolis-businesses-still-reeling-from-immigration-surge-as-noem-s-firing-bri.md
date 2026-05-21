@@ -22,7 +22,8 @@ topic_tags:
   - "conflict, war and peace"
   - "human interest"
   - "human migration"
-storyline_nexus: []
+storyline_nexus:
+  - immigration-enforcement
 geographic_location: Minneapolis, Minnesota
 floor_values_engaged:
 - value: human_life_and_dignity

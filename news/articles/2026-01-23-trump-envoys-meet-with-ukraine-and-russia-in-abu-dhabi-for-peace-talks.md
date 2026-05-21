@@ -25,7 +25,8 @@ topic_tags:
   - "government policy"
   - "international relations"
   - "peace process"
-storyline_nexus: []
+storyline_nexus:
+  - russia-ukraine-war
 geographic_location: Abu Dhabi; Davos; Ukraine; Russia
 floor_values_engaged:
 - value: human_life_and_dignity

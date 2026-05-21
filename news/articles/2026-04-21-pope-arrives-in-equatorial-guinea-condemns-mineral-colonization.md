@@ -16,7 +16,8 @@ primary_themes:
 - migration deportations
 topic_tags:
   - religion
-storyline_nexus: []
+storyline_nexus:
+  - pope-leo-xiv-africa-tour
 geographic_location: Malabo, Equatorial Guinea
 floor_values_engaged:
 - value: human_life_and_dignity

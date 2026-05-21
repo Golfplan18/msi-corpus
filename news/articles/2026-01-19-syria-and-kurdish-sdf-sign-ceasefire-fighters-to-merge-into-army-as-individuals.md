@@ -19,7 +19,8 @@ topic_tags:
   - "human migration"
   - "conflict, war and peace"
   - "human interest"
-storyline_nexus: []
+storyline_nexus:
+  - gaza-conflict
 geographic_location: Syria; northeast Syria
 floor_values_engaged:
 - value: informed_citizenship

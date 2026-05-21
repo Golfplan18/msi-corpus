@@ -18,7 +18,9 @@ topic_tags:
   - "international relations"
   - "mass media"
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - trump-greenland-acquisition
+  - greenland-annexation
 geographic_location: Greenland / Arctic
 floor_values_engaged:
 - value: truthfulness

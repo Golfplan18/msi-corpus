@@ -18,7 +18,8 @@ primary_themes:
 topic_tags:
   - government
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - iran-crisis-2026
 geographic_location: Iran; Qatar; United Arab Emirates
 floor_values_engaged:
 - value: human_life_and_dignity

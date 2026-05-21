@@ -17,7 +17,8 @@ topic_tags:
   - "economy, business and finance"
   - "government policy"
   - "international trade"
-storyline_nexus: []
+storyline_nexus:
+  - us-china-relations
 geographic_location: Morocco and Senegal (North and West Africa)
 floor_values_engaged:
 - value: informed_citizenship

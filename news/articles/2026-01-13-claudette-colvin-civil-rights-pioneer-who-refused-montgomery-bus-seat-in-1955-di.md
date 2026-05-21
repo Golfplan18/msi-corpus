@@ -22,7 +22,10 @@ topic_tags:
   - "government policy"
   - politics
   - weather
-storyline_nexus: []
+storyline_nexus:
+  - monetary-policy-2026
+  - us-administration-2026
+  - trump-tariff-policy
 geographic_location: Montgomery, Alabama, United States
 floor_values_engaged:
 - value: human_life_and_dignity

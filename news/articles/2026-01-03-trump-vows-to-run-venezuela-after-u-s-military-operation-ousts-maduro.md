@@ -19,7 +19,8 @@ primary_themes:
 topic_tags:
   - "conflict, war and peace"
   - "armed conflict"
-storyline_nexus: []
+storyline_nexus:
+  - venezuela-crisis
 geographic_location: Venezuela; Palm Beach, Florida; Washington, D.C.
 floor_values_engaged:
 - value: informed_citizenship

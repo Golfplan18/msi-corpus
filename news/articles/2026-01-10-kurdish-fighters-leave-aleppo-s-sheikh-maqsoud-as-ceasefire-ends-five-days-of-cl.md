@@ -27,7 +27,10 @@ topic_tags:
   - crime
   - "crime, law and justice"
   - "disaster, accident and emergency incident"
-storyline_nexus: []
+storyline_nexus:
+  - us-administration-2026
+  - us-china-relations
+  - gaza-conflict
 geographic_location: Aleppo, Syria
 floor_values_engaged:
 - value: human_life_and_dignity

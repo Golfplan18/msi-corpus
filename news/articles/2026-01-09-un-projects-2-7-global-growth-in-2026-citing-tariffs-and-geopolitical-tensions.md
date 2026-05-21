@@ -22,7 +22,10 @@ topic_tags:
   - "international trade"
   - labour
   - "labour dispute"
-storyline_nexus: []
+storyline_nexus:
+  - us-china-relations
+  - us-administration-2026
+  - monetary-policy-2026
 geographic_location: International
 floor_values_engaged:
 - value: informed_citizenship

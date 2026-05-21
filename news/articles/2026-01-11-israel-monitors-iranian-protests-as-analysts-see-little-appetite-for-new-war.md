@@ -23,7 +23,10 @@ topic_tags:
   - labour
   - "labour dispute"
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - trump-tariff-policy
+  - iran-war
+  - us-china-relations
 geographic_location: Israel; Iran; Middle East
 floor_values_engaged:
 - value: informed_citizenship

@@ -20,7 +20,10 @@ topic_tags:
   - "crime"
   - "politics"
   - "government"
-storyline_nexus: []
+storyline_nexus:
+  - ai-regulation
+  - trump-tariff-policy
+  - us-administration-2026
 geographic_location: Palm Beach, Florida, United States
 floor_values_engaged:
 - value: informed_citizenship

@@ -26,7 +26,8 @@ topic_tags:
   - "mass media"
   - "political dissent"
   - "science and technology"
-storyline_nexus: []
+storyline_nexus:
+  - venezuela-crisis
 geographic_location: Iran
 floor_values_engaged:
 - value: informed_citizenship

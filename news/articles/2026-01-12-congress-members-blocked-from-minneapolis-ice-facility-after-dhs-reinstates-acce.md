@@ -26,7 +26,10 @@ topic_tags:
   - "international relations"
   - "law enforcement"
   - trial
-storyline_nexus: []
+storyline_nexus:
+  - immigration-enforcement
+  - us-china-relations
+  - ces-2026
 geographic_location: Minneapolis, MN; Washington, D.C.
 floor_values_engaged:
 - value: accountability_of_power

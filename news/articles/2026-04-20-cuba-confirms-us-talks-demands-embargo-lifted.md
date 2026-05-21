@@ -17,7 +17,8 @@ primary_themes:
 topic_tags:
   - "economy, business and finance"
   - "international trade"
-storyline_nexus: []
+storyline_nexus:
+  - greenland-annexation
 geographic_location: Cuba
 floor_values_engaged:
 - value: human_life_and_dignity

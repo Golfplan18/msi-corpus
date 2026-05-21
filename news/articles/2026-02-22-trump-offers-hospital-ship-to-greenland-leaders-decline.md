@@ -16,7 +16,8 @@ primary_themes:
 topic_tags:
   - politics
   - "government policy"
-storyline_nexus: []
+storyline_nexus:
+  - trump-administration-2026
 geographic_location: Greenland, Denmark, United States
 floor_values_engaged:
 - value: accountability_of_power

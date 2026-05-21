@@ -26,7 +26,10 @@ topic_tags:
   - election
   - politics
   - "science and technology"
-storyline_nexus: []
+storyline_nexus:
+  - ai-regulation
+  - gaza-conflict
+  - iran-war
 geographic_location: Marana and Pima County, Arizona, United States
 floor_values_engaged:
 - value: informed_citizenship

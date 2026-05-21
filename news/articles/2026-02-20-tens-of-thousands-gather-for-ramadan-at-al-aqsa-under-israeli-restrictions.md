@@ -25,7 +25,8 @@ topic_tags:
   - "economy, business and finance"
   - "human interest"
   - "international relations"
-storyline_nexus: []
+storyline_nexus:
+  - gaza-conflict
 geographic_location: Jerusalem, West Bank, Gaza Strip, Israel
 floor_values_engaged:
 - value: human_life_and_dignity

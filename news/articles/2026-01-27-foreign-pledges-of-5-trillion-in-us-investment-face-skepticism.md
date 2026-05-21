@@ -27,7 +27,10 @@ topic_tags:
   - "international trade"
   - labour
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - trump-administration-2026
+  - trump-tariff-policy
+  - us-china-relations
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

@@ -20,7 +20,9 @@ primary_themes:
 - Federal Reserve independence
 topic_tags:
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - trump-greenland
+  - trump-fed-independence
 geographic_location: Washington, D.C.
 floor_values_engaged:
 - value: accountability_of_power

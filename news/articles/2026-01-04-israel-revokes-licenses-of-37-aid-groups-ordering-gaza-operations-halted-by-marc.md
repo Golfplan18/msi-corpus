@@ -27,7 +27,8 @@ topic_tags:
   - "crime, law and justice"
   - government
   - "government policy"
-storyline_nexus: []
+storyline_nexus:
+  - gaza-conflict
 geographic_location: Gaza Strip, Palestinian Territories
 floor_values_engaged:
 - value: human_life_and_dignity

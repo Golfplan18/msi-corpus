@@ -24,7 +24,8 @@ topic_tags:
   - "disaster, accident and emergency incident"
   - environment
   - government
-storyline_nexus: []
+storyline_nexus:
+  - venezuela-crisis
 geographic_location: Havana, Cuba; Washington, D.C.; Caracas, Venezuela
 floor_values_engaged:
 - value: human_life_and_dignity

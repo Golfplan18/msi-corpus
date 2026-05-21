@@ -15,7 +15,9 @@ primary_themes:
 - immigration
 - Maduro capture
 topic_tags: []
-storyline_nexus: []
+storyline_nexus:
+  - venezuela-crisis
+  - immigration-enforcement
 geographic_location: Caracas, Venezuela
 floor_values_engaged:
 - value: informed_citizenship

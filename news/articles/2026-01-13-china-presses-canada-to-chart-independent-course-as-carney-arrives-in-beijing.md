@@ -25,7 +25,10 @@ topic_tags:
   - "international relations"
   - "international trade"
   - "mass media"
-storyline_nexus: []
+storyline_nexus:
+  - trump-tariff-policy
+  - us-china-relations
+  - gaza-conflict
 geographic_location: Beijing, China
 floor_values_engaged:
 - value: informed_citizenship

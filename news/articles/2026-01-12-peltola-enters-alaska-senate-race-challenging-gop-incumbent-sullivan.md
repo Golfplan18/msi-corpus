@@ -17,7 +17,10 @@ topic_tags:
   - "economy, business and finance"
   - election
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - us-administration-2026
+  - monetary-policy-2026
+  - ces-2026
 geographic_location: Alaska, United States
 floor_values_engaged:
 - value: informed_citizenship

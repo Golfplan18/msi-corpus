@@ -19,7 +19,8 @@ primary_themes:
 - homelessness
 topic_tags:
   - "crime, law and justice"
-storyline_nexus: []
+storyline_nexus:
+  - immigration-enforcement
 geographic_location: Minneapolis, Minnesota; Fort Snelling, Minnesota
 floor_values_engaged:
 - value: human_life_and_dignity

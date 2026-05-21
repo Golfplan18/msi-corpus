@@ -20,7 +20,10 @@ topic_tags:
   - "crime, law and justice"
   - "arts, culture, entertainment and media"
   - "human interest"
-storyline_nexus: []
+storyline_nexus:
+  - ai-regulation
+  - immigration-enforcement
+  - us-administration-2026
 geographic_location: Lakewood, Ohio, United States
 floor_values_engaged:
 - value: informed_citizenship

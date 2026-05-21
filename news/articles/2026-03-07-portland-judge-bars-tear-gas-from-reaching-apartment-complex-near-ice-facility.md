@@ -24,7 +24,8 @@ primary_themes:
 topic_tags:
   - "crime, law and justice"
   - "trial"
-storyline_nexus: []
+storyline_nexus:
+  - immigration-enforcement
 geographic_location: Portland, Oregon
 floor_values_engaged:
 - value: human_life_and_dignity

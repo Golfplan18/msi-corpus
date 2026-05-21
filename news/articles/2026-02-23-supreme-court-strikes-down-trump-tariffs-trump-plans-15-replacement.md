@@ -27,7 +27,10 @@ topic_tags:
   - "government policy"
   - labour
   - "labour dispute"
-storyline_nexus: []
+storyline_nexus:
+  - trump-administration-2026
+  - trump-tariff-policy
+  - us-china-relations
 geographic_location: United States; China; South Korea; Asia-Pacific; Europe
 floor_values_engaged:
 - value: truthfulness

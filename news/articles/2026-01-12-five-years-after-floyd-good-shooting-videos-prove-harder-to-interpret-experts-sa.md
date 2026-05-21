@@ -24,7 +24,10 @@ primary_themes:
 topic_tags:
   - "crime, law and justice"
   - "law enforcement"
-storyline_nexus: []
+storyline_nexus:
+  - immigration-enforcement
+  - us-administration-2026
+  - ai-regulation
 geographic_location: Minneapolis, Minnesota
 floor_values_engaged:
 - value: human_life_and_dignity

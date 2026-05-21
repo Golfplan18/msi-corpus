@@ -22,7 +22,8 @@ topic_tags:
   - "armed conflict"
   - "human interest"
   - people
-storyline_nexus: []
+storyline_nexus:
+  - gaza-conflict
 geographic_location: Gaza Strip
 floor_values_engaged:
 - value: human_life_and_dignity

@@ -25,7 +25,9 @@ topic_tags:
   - "economy, business and finance"
   - "international trade"
   - "market and exchange"
-storyline_nexus: []
+storyline_nexus:
+  - us-china-relations
+  - trump-fed-independence
 geographic_location: Zárate, Buenos Aires province, Argentina
 floor_values_engaged:
 - value: informed_citizenship

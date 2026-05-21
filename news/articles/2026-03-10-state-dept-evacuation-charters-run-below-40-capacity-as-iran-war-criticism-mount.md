@@ -20,7 +20,8 @@ topic_tags:
   - "disaster, accident and emergency incident"
   - "international relations"
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - iran-war
 geographic_location: Middle East; Washington, D.C.
 floor_values_engaged:
 - value: informed_citizenship

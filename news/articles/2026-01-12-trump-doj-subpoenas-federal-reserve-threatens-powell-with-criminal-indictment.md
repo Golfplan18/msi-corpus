@@ -25,7 +25,10 @@ topic_tags:
   - "government"
   - "economy, business and finance"
   - "monetary policy"
-storyline_nexus: []
+storyline_nexus:
+  - us-administration-2026
+  - trump-tariff-policy
+  - monetary-policy-2026
 geographic_location: Washington, D.C.
 floor_values_engaged:
 - value: accountability_of_power

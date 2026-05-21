@@ -22,7 +22,10 @@ topic_tags:
   - "international trade"
   - politics
   - "government policy"
-storyline_nexus: []
+storyline_nexus:
+  - trump-administration-2026
+  - trump-tariff-policy
+  - us-china-relations
 geographic_location: International (US-China)
 floor_values_engaged:
 - value: informed_citizenship

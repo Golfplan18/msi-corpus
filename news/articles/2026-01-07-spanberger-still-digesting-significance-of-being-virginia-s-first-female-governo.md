@@ -15,7 +15,8 @@ primary_themes:
 - women in elected office
 topic_tags:
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - trump-immigration-crackdown
 geographic_location: Richmond, Virginia, United States
 floor_values_engaged:
 - value: informed_citizenship

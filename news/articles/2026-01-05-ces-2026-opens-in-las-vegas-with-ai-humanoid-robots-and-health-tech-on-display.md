@@ -25,7 +25,8 @@ topic_tags:
   - robotics
   - "science and technology"
   - "technology and engineering"
-storyline_nexus: []
+storyline_nexus:
+  - humanoid-robotics-industry
 geographic_location: Las Vegas, Nevada, United States
 floor_values_engaged:
 - value: informed_citizenship

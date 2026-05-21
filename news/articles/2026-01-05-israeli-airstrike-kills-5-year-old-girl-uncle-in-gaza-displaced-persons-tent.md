@@ -24,7 +24,8 @@ topic_tags:
   - fire
   - labour
   - "labour dispute"
-storyline_nexus: []
+storyline_nexus:
+  - gaza-conflict
 geographic_location: Muwasi area, northwest Khan Younis, southern Gaza Strip
 floor_values_engaged:
 - value: human_life_and_dignity

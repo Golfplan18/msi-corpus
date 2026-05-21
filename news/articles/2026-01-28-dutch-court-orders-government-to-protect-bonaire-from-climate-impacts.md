@@ -19,7 +19,8 @@ topic_tags:
   - "crime, law and justice"
   - "human migration"
   - "climate change"
-storyline_nexus: []
+storyline_nexus:
+  - immigration-enforcement
 geographic_location: Bonaire (Caribbean island, Dutch municipality); The Hague (Netherlands)
 floor_values_engaged:
 - value: human_life_and_dignity

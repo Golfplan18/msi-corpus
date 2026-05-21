@@ -23,7 +23,10 @@ topic_tags:
   - "law enforcement"
   - "mass media"
   - "science and technology"
-storyline_nexus: []
+storyline_nexus:
+  - iran-war
+  - monetary-policy-2026
+  - russia-ukraine-war
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

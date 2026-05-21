@@ -21,7 +21,10 @@ topic_tags:
   - "crime, law and justice"
   - health
   - judiciary
-storyline_nexus: []
+storyline_nexus:
+  - iran-war
+  - russia-ukraine-war
+  - us-administration-2026
 geographic_location: Washington, D.C.
 floor_values_engaged:
 - value: accountability_of_power

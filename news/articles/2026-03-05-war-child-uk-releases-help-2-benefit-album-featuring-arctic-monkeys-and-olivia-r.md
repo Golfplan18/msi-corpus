@@ -22,7 +22,8 @@ topic_tags:
   - "arts, culture, entertainment and media"
   - "conflict, war and peace"
   - "music"
-storyline_nexus: []
+storyline_nexus:
+  - russia-ukraine-war
 geographic_location: United Kingdom
 floor_values_engaged:
 - value: human_life_and_dignity

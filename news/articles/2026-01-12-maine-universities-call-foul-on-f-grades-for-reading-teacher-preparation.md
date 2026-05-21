@@ -23,7 +23,10 @@ topic_tags:
   - education
   - "higher education"
   - school
-storyline_nexus: []
+storyline_nexus:
+  - ai-regulation
+  - iran-war
+  - russia-ukraine-war
 geographic_location: Maine, United States
 floor_values_engaged:
 - value: informed_citizenship

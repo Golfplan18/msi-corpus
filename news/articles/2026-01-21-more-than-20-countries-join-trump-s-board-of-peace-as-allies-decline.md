@@ -16,7 +16,8 @@ topic_tags:
   - politics
   - government
   - "international relations"
-storyline_nexus: []
+storyline_nexus:
+  - trump-board-of-peace
 geographic_location: International
 floor_values_engaged:
 - value: informed_citizenship

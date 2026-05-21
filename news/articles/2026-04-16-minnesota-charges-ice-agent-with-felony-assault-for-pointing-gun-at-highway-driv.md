@@ -21,7 +21,8 @@ topic_tags:
   - "government policy"
   - "human migration"
   - "crime, law and justice"
-storyline_nexus: []
+storyline_nexus:
+  - immigration-enforcement
 geographic_location: Minneapolis, Minnesota, United States
 floor_values_engaged:
 - value: accountability_of_power

@@ -20,7 +20,10 @@ topic_tags:
   - health
   - sport
   - "sport event"
-storyline_nexus: []
+storyline_nexus:
+  - gaza-conflict
+  - iran-war
+  - monetary-policy-2026
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

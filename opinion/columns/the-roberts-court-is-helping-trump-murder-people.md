@@ -34,7 +34,8 @@ topic_tags:
   - crime
   - judiciary
   - "conflict, war and peace"
-storyline_nexus: []
+storyline_nexus:
+  - ice-enforcement-surge-2026
 geographic_location: United States / El Salvador (CECOT)
 floor_values_engaged:
 - value: truthfulness

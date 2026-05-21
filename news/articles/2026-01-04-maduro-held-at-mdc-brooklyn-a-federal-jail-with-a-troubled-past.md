@@ -21,7 +21,8 @@ topic_tags:
   - government
   - "government policy"
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - venezuela-crisis
 geographic_location: Brooklyn, New York, United States
 floor_values_engaged:
 - value: accountability_of_power

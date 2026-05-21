@@ -21,7 +21,10 @@ primary_themes:
 topic_tags:
   - government
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - iran-war
+  - russia-ukraine-war
+  - us-administration-2026
 geographic_location: Jerusalem, Israel
 floor_values_engaged:
 - value: truthfulness

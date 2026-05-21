@@ -18,7 +18,10 @@ primary_themes:
 topic_tags:
   - "arts, culture, entertainment and media"
   - music
-storyline_nexus: []
+storyline_nexus:
+  - us-administration-2026
+  - us-china-relations
+  - ai-regulation
 geographic_location: Bromley, London, United Kingdom
 floor_values_engaged:
 - value: informed_citizenship

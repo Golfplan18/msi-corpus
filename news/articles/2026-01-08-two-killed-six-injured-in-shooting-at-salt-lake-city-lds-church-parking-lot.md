@@ -18,7 +18,10 @@ topic_tags:
   - "law enforcement"
   - religion
   - "religious leader"
-storyline_nexus: []
+storyline_nexus:
+  - us-administration-2026
+  - ai-regulation
+  - us-china-relations
 geographic_location: Salt Lake City, Utah
 floor_values_engaged:
 - value: human_life_and_dignity

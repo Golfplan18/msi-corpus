@@ -14,7 +14,8 @@ primary_themes:
 - police-involved shootings
 topic_tags:
   - "crime, law and justice"
-storyline_nexus: []
+storyline_nexus:
+  - immigration-enforcement
 geographic_location: Hemingway, Williamsburg County, South Carolina, USA
 floor_values_engaged:
 - value: human_life_and_dignity

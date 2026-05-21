@@ -26,7 +26,8 @@ primary_themes:
 topic_tags:
   - "government policy"
   - "politics"
-storyline_nexus: []
+storyline_nexus:
+  - 2026-midterms
 geographic_location: Atlanta, Georgia, United States
 floor_values_engaged:
 - value: informed_citizenship

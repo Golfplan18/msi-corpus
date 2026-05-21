@@ -20,7 +20,10 @@ topic_tags:
   - politics
   - "international relations"
   - "economy, business and finance"
-storyline_nexus: []
+storyline_nexus:
+  - monetary-policy-2026
+  - us-china-relations
+  - us-administration-2026
 geographic_location: Argentina / United States
 floor_values_engaged:
 - value: informed_citizenship

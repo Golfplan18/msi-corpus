@@ -22,7 +22,9 @@ topic_tags:
   - "conflict, war and peace"
   - "international relations"
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - trump-tariff-policy
+  - trump-greenland-acquisition
 geographic_location: Davos, Switzerland / International
 floor_values_engaged:
 - value: human_life_and_dignity

@@ -22,7 +22,8 @@ primary_themes:
 topic_tags:
   - "armed conflict"
   - "conflict, war and peace"
-storyline_nexus: []
+storyline_nexus:
+  - russia-ukraine-war
 geographic_location: Budapest, Hungary
 floor_values_engaged:
 - value: accountability_of_power

@@ -18,7 +18,10 @@ topic_tags:
   - "welfare"
   - "politics"
   - "government policy"
-storyline_nexus: []
+storyline_nexus:
+  - monetary-policy-2026
+  - venezuela-crisis
+  - trump-tariff-policy
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

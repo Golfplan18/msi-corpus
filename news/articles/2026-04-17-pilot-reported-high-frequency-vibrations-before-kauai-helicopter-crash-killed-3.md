@@ -26,7 +26,8 @@ topic_tags:
   - "crime, law and justice"
   - "disaster, accident and emergency incident"
   - government
-storyline_nexus: []
+storyline_nexus:
+  - ai-regulation
 geographic_location: Kauai, Hawaii, United States
 floor_values_engaged:
 - value: human_life_and_dignity

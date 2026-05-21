@@ -24,7 +24,8 @@ topic_tags:
   - lifestyle
   - "lifestyle and leisure"
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - gaza-conflict
 geographic_location: Gaza Strip, East Jerusalem
 floor_values_engaged:
 - value: human_life_and_dignity

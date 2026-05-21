@@ -25,7 +25,8 @@ topic_tags:
   - "international relations"
   - "monetary policy"
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - immigration-enforcement
 geographic_location: Alexandria, Virginia, United States
 floor_values_engaged:
 - value: truthfulness

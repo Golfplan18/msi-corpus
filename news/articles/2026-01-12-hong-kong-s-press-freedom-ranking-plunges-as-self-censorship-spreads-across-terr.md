@@ -23,7 +23,10 @@ topic_tags:
   - "arts, culture, entertainment and media"
   - "mass media"
   - "science and technology"
-storyline_nexus: []
+storyline_nexus:
+  - ai-regulation
+  - us-administration-2026
+  - us-china-relations
 geographic_location: Hong Kong
 floor_values_engaged:
 - value: accountability_of_power

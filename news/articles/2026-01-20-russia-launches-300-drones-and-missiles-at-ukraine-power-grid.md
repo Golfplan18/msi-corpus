@@ -18,7 +18,8 @@ primary_themes:
 - peace negotiations
 topic_tags:
   - "conflict, war and peace"
-storyline_nexus: []
+storyline_nexus:
+  - russia-ukraine-war
 geographic_location: Ukraine, Russia
 floor_values_engaged:
 - value: human_life_and_dignity

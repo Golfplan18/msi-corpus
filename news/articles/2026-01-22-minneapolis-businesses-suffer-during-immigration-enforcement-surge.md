@@ -21,7 +21,8 @@ primary_themes:
 - federal operation
 topic_tags:
   - "economy, business and finance"
-storyline_nexus: []
+storyline_nexus:
+  - ice-enforcement-surge-2026
 geographic_location: Minneapolis, Minnesota, USA
 floor_values_engaged:
 - value: human_life_and_dignity

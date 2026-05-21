@@ -16,7 +16,10 @@ primary_themes:
 topic_tags:
   - "artificial intelligence"
   - "science and technology"
-storyline_nexus: []
+storyline_nexus:
+  - us-administration-2026
+  - ai-regulation
+  - us-china-relations
 geographic_location: Harrisburg, Pennsylvania
 floor_values_engaged:
 - value: informed_citizenship

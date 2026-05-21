@@ -26,7 +26,10 @@ topic_tags:
   - "disaster, accident and emergency incident"
   - fire
   - government
-storyline_nexus: []
+storyline_nexus:
+  - immigration-enforcement
+  - us-administration-2026
+  - us-china-relations
 geographic_location: Portland, Oregon, United States
 floor_values_engaged:
 - value: human_life_and_dignity

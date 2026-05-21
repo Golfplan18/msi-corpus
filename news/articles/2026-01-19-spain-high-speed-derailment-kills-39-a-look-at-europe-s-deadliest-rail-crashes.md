@@ -14,7 +14,8 @@ primary_themes:
 topic_tags:
   - "human interest"
   - labour
-storyline_nexus: []
+storyline_nexus:
+  - spain-rail-disaster
 geographic_location: Europe
 floor_values_engaged:
 - value: human_life_and_dignity

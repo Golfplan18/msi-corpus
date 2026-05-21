@@ -24,7 +24,10 @@ topic_tags:
   - macroeconomics
   - "market and exchange"
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - trump-tariff-policy
+  - us-administration-2026
+  - ai-regulation
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

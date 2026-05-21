@@ -26,7 +26,8 @@ topic_tags:
   - "artificial intelligence"
   - "arts, culture, entertainment and media"
   - "arts and entertainment"
-storyline_nexus: []
+storyline_nexus:
+  - ces-2026
 geographic_location: Las Vegas, Nevada, United States
 floor_values_engaged:
 - value: informed_citizenship

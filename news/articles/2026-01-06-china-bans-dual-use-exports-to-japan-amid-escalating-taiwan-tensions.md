@@ -21,7 +21,8 @@ primary_themes:
 topic_tags:
   - "armed conflict"
   - "conflict, war and peace"
-storyline_nexus: []
+storyline_nexus:
+  - china-taiwan-tensions
 geographic_location: Beijing, China; Tokyo, Japan
 floor_values_engaged:
 - value: informed_citizenship

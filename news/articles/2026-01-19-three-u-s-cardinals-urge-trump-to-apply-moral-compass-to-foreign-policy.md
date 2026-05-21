@@ -25,7 +25,9 @@ topic_tags:
   - "government policy"
   - "international relations"
   - religion
-storyline_nexus: []
+storyline_nexus:
+  - venezuela-crisis
+  - trump-greenland
 geographic_location: Vatican City; United States
 floor_values_engaged:
 - value: human_life_and_dignity

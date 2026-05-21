@@ -20,7 +20,10 @@ topic_tags:
   - "energy and resource"
   - "international relations"
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - trump-tariff-policy
+  - venezuela-crisis
+  - us-administration-2026
 geographic_location: Venezuela; United States
 floor_values_engaged:
 - value: informed_citizenship

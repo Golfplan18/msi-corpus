@@ -17,7 +17,8 @@ topic_tags:
   - politics
   - government
   - "international relations"
-storyline_nexus: []
+storyline_nexus:
+  - epstein-investigation
 geographic_location: United Kingdom
 floor_values_engaged:
 - value: accountability_of_power

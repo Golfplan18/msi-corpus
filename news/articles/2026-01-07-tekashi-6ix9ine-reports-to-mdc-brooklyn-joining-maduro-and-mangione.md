@@ -18,7 +18,8 @@ topic_tags:
   - "crime, law and justice"
   - "arts, culture, entertainment and media"
   - "social media"
-storyline_nexus: []
+storyline_nexus:
+  - venezuela-crisis
 geographic_location: Brooklyn, New York
 floor_values_engaged:
 - value: informed_citizenship

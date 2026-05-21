@@ -22,7 +22,8 @@ topic_tags:
   - "conflict, war and peace"
   - "economy, business and finance"
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - trump-renewable-energy-halt
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

@@ -21,7 +21,9 @@ primary_themes:
 topic_tags:
   - "disaster, accident and emergency incident"
   - weather
-storyline_nexus: []
+storyline_nexus:
+  - immigration-enforcement
+  - winter-storm-2026
 geographic_location: Eastern United States
 floor_values_engaged:
 - value: human_life_and_dignity

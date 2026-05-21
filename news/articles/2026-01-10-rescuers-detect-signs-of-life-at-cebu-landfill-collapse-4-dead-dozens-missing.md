@@ -18,7 +18,9 @@ topic_tags:
   - "crime, law and justice"
   - "disaster, accident and emergency incident"
   - labour
-storyline_nexus: []
+storyline_nexus:
+  - us-administration-2026
+  - us-china-relations
 geographic_location: Cebu City, Philippines
 floor_values_engaged:
 - value: human_life_and_dignity

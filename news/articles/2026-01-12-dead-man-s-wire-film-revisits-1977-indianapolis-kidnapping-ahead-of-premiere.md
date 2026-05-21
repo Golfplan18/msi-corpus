@@ -24,7 +24,10 @@ topic_tags:
   - "economy, business and finance"
   - "arts, culture, entertainment and media"
   - "arts and entertainment"
-storyline_nexus: []
+storyline_nexus:
+  - us-administration-2026
+  - us-china-relations
+  - ai-regulation
 geographic_location: Indianapolis, Indiana, United States
 floor_values_engaged:
 - value: informed_citizenship

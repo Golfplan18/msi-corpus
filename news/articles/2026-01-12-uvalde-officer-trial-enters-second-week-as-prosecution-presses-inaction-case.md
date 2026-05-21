@@ -22,7 +22,10 @@ topic_tags:
   - "crime, law and justice"
   - prosecution
   - "law enforcement"
-storyline_nexus: []
+storyline_nexus:
+  - immigration-enforcement
+  - us-administration-2026
+  - ai-regulation
 geographic_location: Uvalde, Texas, United States
 floor_values_engaged:
 - value: accountability_of_power

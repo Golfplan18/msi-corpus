@@ -26,7 +26,8 @@ topic_tags:
   - "international relations"
   - "natural disaster"
   - "peace process"
-storyline_nexus: []
+storyline_nexus:
+  - iran-war
 geographic_location: Iran (Tehran)
 floor_values_engaged:
 - value: human_life_and_dignity

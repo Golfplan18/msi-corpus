@@ -24,7 +24,8 @@ topic_tags:
   - fire
   - government
   - "government policy"
-storyline_nexus: []
+storyline_nexus:
+  - gaza-conflict
 geographic_location: Northeast Syria
 floor_values_engaged:
 - value: human_life_and_dignity

@@ -27,7 +27,10 @@ topic_tags:
   - "political dissent"
   - politics
   - "science and technology"
-storyline_nexus: []
+storyline_nexus:
+  - trump-tariff-policy
+  - us-china-relations
+  - gaza-conflict
 geographic_location: Nuuk, Greenland
 floor_values_engaged:
 - value: informed_citizenship

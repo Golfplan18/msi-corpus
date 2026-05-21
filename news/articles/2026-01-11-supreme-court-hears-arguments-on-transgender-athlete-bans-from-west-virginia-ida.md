@@ -25,7 +25,10 @@ topic_tags:
   - education
   - government
   - "government policy"
-storyline_nexus: []
+storyline_nexus:
+  - trump-tariff-policy
+  - us-administration-2026
+  - us-china-relations
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship

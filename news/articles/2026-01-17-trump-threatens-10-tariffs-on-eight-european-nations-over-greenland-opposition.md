@@ -27,7 +27,9 @@ topic_tags:
   - "international relations"
   - "economy, business and finance"
   - labour
-storyline_nexus: []
+storyline_nexus:
+  - trump-greenland
+  - trump-fed-independence
 geographic_location: Greenland; Denmark; European Union; United States
 floor_values_engaged:
 - value: informed_citizenship

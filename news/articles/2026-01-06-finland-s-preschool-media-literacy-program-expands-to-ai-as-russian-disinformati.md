@@ -30,7 +30,8 @@ topic_tags:
   - "international relations"
   - politics
   - school
-storyline_nexus: []
+storyline_nexus:
+  - russia-ukraine-war
 geographic_location: Helsinki, Finland
 floor_values_engaged:
 - value: informed_citizenship

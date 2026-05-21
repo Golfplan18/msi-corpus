@@ -27,7 +27,8 @@ topic_tags:
   - "law enforcement"
   - "public health"
   - "science and technology"
-storyline_nexus: []
+storyline_nexus:
+  - trump-immigration-crackdown
 geographic_location: Connecticut, United States
 floor_values_engaged:
 - value: informed_citizenship

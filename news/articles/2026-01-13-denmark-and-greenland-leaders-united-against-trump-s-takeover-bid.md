@@ -22,7 +22,10 @@ primary_themes:
 topic_tags:
   - "government policy"
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - trump-tariff-policy
+  - us-china-relations
+  - us-administration-2026
 geographic_location: Copenhagen, Denmark; Nuuk, Greenland; Washington, D.C., United States
 floor_values_engaged:
 - value: informed_citizenship

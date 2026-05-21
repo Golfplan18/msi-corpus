@@ -31,7 +31,8 @@ topic_tags:
   - "disaster, accident and emergency incident"
   - "international relations"
   - judiciary
-storyline_nexus: []
+storyline_nexus:
+  - venezuela-crisis
 geographic_location: International
 floor_values_engaged:
 - value: informed_citizenship

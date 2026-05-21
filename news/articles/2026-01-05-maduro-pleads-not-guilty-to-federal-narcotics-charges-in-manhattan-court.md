@@ -25,7 +25,8 @@ topic_tags:
   - "government policy"
   - "international relations"
   - "crime, law and justice"
-storyline_nexus: []
+storyline_nexus:
+  - venezuela-crisis
 geographic_location: New York, United States; Caracas, Venezuela
 floor_values_engaged:
 - value: accountability_of_power

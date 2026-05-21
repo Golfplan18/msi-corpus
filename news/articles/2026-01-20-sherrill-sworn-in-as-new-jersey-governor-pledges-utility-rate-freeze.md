@@ -20,7 +20,8 @@ topic_tags:
   - election
   - "international trade"
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - us-china-relations
 geographic_location: New Jersey, United States
 floor_values_engaged:
 - value: informed_citizenship

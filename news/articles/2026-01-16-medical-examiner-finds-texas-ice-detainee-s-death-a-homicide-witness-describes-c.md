@@ -31,7 +31,8 @@ topic_tags:
   - "human migration"
   - "international relations"
   - "law enforcement"
-storyline_nexus: []
+storyline_nexus:
+  - immigration-enforcement
 geographic_location: El Paso, Texas
 floor_values_engaged:
 - value: human_life_and_dignity

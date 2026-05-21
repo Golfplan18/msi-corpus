@@ -18,7 +18,8 @@ primary_themes:
 - AI-generated content
 topic_tags:
   - society
-storyline_nexus: []
+storyline_nexus:
+  - venezuela-crisis
 geographic_location: United States; Venezuela
 floor_values_engaged:
 - value: truthfulness

@@ -25,7 +25,8 @@ topic_tags:
   - "conflict, war and peace"
   - politics
   - "science and technology"
-storyline_nexus: []
+storyline_nexus:
+  - ukraine-russia-war
 geographic_location: United Nations, New York; Ukraine; Poland
 floor_values_engaged:
 - value: human_life_and_dignity

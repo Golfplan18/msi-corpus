@@ -19,7 +19,10 @@ topic_tags:
   - "competition discipline"
   - "conflict, war and peace"
   - sport
-storyline_nexus: []
+storyline_nexus:
+  - iran-war
+  - russia-ukraine-war
+  - gaza-conflict
 geographic_location: Florida Keys, Florida, United States
 floor_values_engaged:
 - value: human_life_and_dignity

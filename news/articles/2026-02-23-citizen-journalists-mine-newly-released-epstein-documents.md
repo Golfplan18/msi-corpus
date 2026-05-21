@@ -21,7 +21,8 @@ topic_tags:
   - "law enforcement"
   - "crime, law and justice"
   - prosecution
-storyline_nexus: []
+storyline_nexus:
+  - epstein-investigation
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship

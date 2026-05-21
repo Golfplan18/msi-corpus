@@ -22,7 +22,8 @@ topic_tags:
   - "conflict, war and peace"
   - "international relations"
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - venezuela-crisis
 geographic_location: Caracas, Venezuela; Washington, D.C.; Bogota, Colombia
 floor_values_engaged:
 - value: informed_citizenship

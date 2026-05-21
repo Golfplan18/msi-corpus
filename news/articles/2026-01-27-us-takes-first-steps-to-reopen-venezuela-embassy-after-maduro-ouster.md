@@ -20,7 +20,9 @@ topic_tags:
   - government
   - "government policy"
   - "international relations"
-storyline_nexus: []
+storyline_nexus:
+  - trump-administration-2026
+  - venezuela-crisis
 geographic_location: Caracas, Venezuela; Washington, D.C., United States
 floor_values_engaged:
 - value: accountability_of_power

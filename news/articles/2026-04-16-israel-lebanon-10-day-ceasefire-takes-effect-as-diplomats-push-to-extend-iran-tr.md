@@ -32,7 +32,8 @@ topic_tags:
   - "conflict, war and peace"
   - "disaster, accident and emergency incident"
   - fire
-storyline_nexus: []
+storyline_nexus:
+  - iran-crisis-2026
 geographic_location: Beirut, Lebanon; Washington, D.C.; Islamabad, Pakistan
 floor_values_engaged:
 - value: human_life_and_dignity

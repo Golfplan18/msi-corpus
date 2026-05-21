@@ -18,7 +18,8 @@ topic_tags:
   - election
   - "mass media"
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - ai-regulation
 geographic_location: San José, Costa Rica
 floor_values_engaged:
 - value: human_life_and_dignity

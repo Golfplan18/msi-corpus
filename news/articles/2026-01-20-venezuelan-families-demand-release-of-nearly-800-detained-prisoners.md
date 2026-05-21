@@ -20,7 +20,8 @@ primary_themes:
 topic_tags:
   - government
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - venezuela-crisis
 geographic_location: Venezuela (Caracas)
 floor_values_engaged:
 - value: human_life_and_dignity

@@ -21,7 +21,8 @@ topic_tags:
   - government
   - "government policy"
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - iran-crackdown
 geographic_location: Riyadh, Saudi Arabia
 floor_values_engaged:
 - value: informed_citizenship

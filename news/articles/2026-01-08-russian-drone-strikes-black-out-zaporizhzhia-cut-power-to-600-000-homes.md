@@ -22,7 +22,8 @@ topic_tags:
   - labour
   - "conflict, war and peace"
   - "labour dispute"
-storyline_nexus: []
+storyline_nexus:
+  - russia-ukraine-war
 geographic_location: Ukraine
 floor_values_engaged:
 - value: human_life_and_dignity

@@ -22,7 +22,8 @@ topic_tags:
   - labour
   - "labour dispute"
   - weather
-storyline_nexus: []
+storyline_nexus:
+  - russia-ukraine-war
 geographic_location: Ukraine; United States; Davos, Switzerland
 floor_values_engaged:
 - value: human_life_and_dignity

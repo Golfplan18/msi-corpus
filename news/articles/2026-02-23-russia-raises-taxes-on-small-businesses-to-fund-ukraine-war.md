@@ -23,7 +23,8 @@ topic_tags:
   - "armed conflict"
   - "science and technology"
   - "artificial intelligence"
-storyline_nexus: []
+storyline_nexus:
+  - russia-ukraine-war
 geographic_location: Russia
 floor_values_engaged:
 - value: human_life_and_dignity

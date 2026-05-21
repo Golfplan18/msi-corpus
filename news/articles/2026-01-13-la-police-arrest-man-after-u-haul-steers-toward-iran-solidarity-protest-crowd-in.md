@@ -21,7 +21,9 @@ topic_tags:
   - "conflict, war and peace"
   - "crime, law and justice"
   - "law enforcement"
-storyline_nexus: []
+storyline_nexus:
+  - iran-crisis-2026
+  - immigration-enforcement
 geographic_location: Los Angeles, California, United States
 floor_values_engaged:
 - value: human_life_and_dignity

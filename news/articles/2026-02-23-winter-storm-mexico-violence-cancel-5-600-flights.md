@@ -20,7 +20,8 @@ topic_tags:
   - "government policy"
   - "science and technology"
   - "artificial intelligence"
-storyline_nexus: []
+storyline_nexus:
+  - mexico-cartel-violence
 geographic_location: United States (Northeast); Mexico (Jalisco state)
 floor_values_engaged:
 - value: human_life_and_dignity

@@ -23,7 +23,8 @@ topic_tags:
   - "international relations"
   - "political dissent"
   - "science and technology"
-storyline_nexus: []
+storyline_nexus:
+  - venezuela-crisis
 geographic_location: Caribbean, Venezuela, North Atlantic
 floor_values_engaged:
 - value: accountability_of_power

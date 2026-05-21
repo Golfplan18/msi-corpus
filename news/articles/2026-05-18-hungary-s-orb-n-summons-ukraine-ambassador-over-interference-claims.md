@@ -20,7 +20,8 @@ topic_tags:
   - politics
   - election
   - "international relations"
-storyline_nexus: []
+storyline_nexus:
+  - russia-ukraine-war
 geographic_location: Hungary, Central Europe
 floor_values_engaged:
 - value: truthfulness

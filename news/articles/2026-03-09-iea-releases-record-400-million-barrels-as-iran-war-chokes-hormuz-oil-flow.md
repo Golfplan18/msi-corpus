@@ -21,7 +21,9 @@ primary_themes:
 - global supply disruption
 topic_tags:
   - "conflict, war and peace"
-storyline_nexus: []
+storyline_nexus:
+  - iran-war
+  - iran-crisis-2026
 geographic_location: International
 floor_values_engaged:
 - value: informed_citizenship

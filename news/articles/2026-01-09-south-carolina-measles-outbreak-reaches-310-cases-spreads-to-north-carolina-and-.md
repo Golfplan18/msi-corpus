@@ -21,7 +21,9 @@ topic_tags:
   - "disease and condition"
   - health
   - "public health"
-storyline_nexus: []
+storyline_nexus:
+  - us-administration-2026
+  - us-china-relations
 geographic_location: Spartanburg County, South Carolina, United States
 floor_values_engaged:
 - value: human_life_and_dignity

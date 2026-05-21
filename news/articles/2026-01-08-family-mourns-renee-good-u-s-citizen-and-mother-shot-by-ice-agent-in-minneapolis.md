@@ -26,7 +26,8 @@ topic_tags:
   - "international relations"
   - "natural disaster"
   - "political process"
-storyline_nexus: []
+storyline_nexus:
+  - trump-immigration-crackdown
 geographic_location: Minneapolis, Minnesota
 floor_values_engaged:
 - value: human_life_and_dignity

@@ -24,7 +24,9 @@ topic_tags:
   - "international relations"
   - "political dissent"
   - "science and technology"
-storyline_nexus: []
+storyline_nexus:
+  - iran-crisis-2026
+  - trump-administration-2026
 geographic_location: Middle East
 floor_values_engaged:
 - value: accountability_of_power

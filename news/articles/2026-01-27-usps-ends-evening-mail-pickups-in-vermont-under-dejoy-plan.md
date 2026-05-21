@@ -20,7 +20,8 @@ topic_tags:
   - politics
   - "government policy"
   - "human interest"
-storyline_nexus: []
+storyline_nexus:
+  - immigration-enforcement
 geographic_location: Vermont, United States
 floor_values_engaged:
 - value: truthfulness

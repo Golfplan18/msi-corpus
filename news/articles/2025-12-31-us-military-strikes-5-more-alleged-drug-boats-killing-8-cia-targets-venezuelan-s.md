@@ -25,7 +25,8 @@ topic_tags:
   - labour
   - "labour dispute"
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - venezuela-crisis
 geographic_location: Caribbean Sea / eastern Pacific Ocean / Venezuela
 floor_values_engaged:
 - value: accountability_of_power

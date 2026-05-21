@@ -24,7 +24,8 @@ topic_tags:
   - politics
   - government
   - "international relations"
-storyline_nexus: []
+storyline_nexus:
+  - gaza-conflict
 geographic_location: Gaza Strip, Israel, Egypt, Middle East
 floor_values_engaged:
 - value: informed_citizenship

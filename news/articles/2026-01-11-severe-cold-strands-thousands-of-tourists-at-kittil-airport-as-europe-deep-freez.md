@@ -22,7 +22,10 @@ primary_themes:
 - winter storm
 topic_tags:
   - weather
-storyline_nexus: []
+storyline_nexus:
+  - ai-regulation
+  - us-administration-2026
+  - us-china-relations
 geographic_location: Finnish Lapland, Finland; northern and central Europe
 floor_values_engaged:
 - value: informed_citizenship

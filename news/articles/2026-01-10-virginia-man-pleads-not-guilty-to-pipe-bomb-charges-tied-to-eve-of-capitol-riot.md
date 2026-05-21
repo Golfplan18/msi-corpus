@@ -15,7 +15,9 @@ primary_themes:
 - domestic political violence
 topic_tags:
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - us-administration-2026
+  - us-china-relations
 geographic_location: Washington, D.C.
 floor_values_engaged:
 - value: informed_citizenship

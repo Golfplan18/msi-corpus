@@ -23,7 +23,9 @@ topic_tags:
   - "economy, business and finance"
   - "international trade"
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - trump-greenland-acquisition
+  - trump-tariff-policy
 geographic_location: United States; Japan
 floor_values_engaged:
 - value: informed_citizenship

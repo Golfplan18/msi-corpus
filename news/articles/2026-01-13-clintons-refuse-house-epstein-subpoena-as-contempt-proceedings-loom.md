@@ -22,7 +22,10 @@ primary_themes:
 - sex trafficking
 topic_tags:
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - ces-2026
+  - ai-regulation
+  - us-administration-2026
 geographic_location: Washington, D.C.
 floor_values_engaged:
 - value: accountability_of_power

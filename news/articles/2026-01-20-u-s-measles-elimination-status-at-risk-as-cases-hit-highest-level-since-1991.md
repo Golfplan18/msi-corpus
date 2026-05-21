@@ -24,7 +24,8 @@ topic_tags:
   - health
   - politics
   - "public health"
-storyline_nexus: []
+storyline_nexus:
+  - measles-outbreak
 geographic_location: United States; Mexico
 floor_values_engaged:
 - value: human_life_and_dignity

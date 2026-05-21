@@ -25,7 +25,8 @@ topic_tags:
   - environment
   - "international relations"
   - "political dissent"
-storyline_nexus: []
+storyline_nexus:
+  - iran-war
 geographic_location: Iran; United Arab Emirates; United States; United Nations
 floor_values_engaged:
 - value: informed_citizenship

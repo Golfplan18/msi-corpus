@@ -21,7 +21,10 @@ topic_tags:
   - "epidemic and pandemic"
   - education
   - school
-storyline_nexus: []
+storyline_nexus:
+  - monetary-policy-2026
+  - us-administration-2026
+  - ai-regulation
 geographic_location: Vermont, United States
 floor_values_engaged:
 - value: informed_citizenship

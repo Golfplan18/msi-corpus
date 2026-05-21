@@ -18,7 +18,9 @@ topic_tags:
   - "armed conflict"
   - labour
   - "labour dispute"
-storyline_nexus: []
+storyline_nexus:
+  - gaza-conflict
+  - iran-crisis-2026
 geographic_location: Lebanon
 floor_values_engaged:
 - value: human_life_and_dignity

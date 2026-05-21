@@ -32,7 +32,10 @@ topic_tags:
   - "market and exchange"
   - politics
   - "science and technology"
-storyline_nexus: []
+storyline_nexus:
+  - us-administration-2026
+  - us-china-relations
+  - monetary-policy-2026
 geographic_location: Sacramento, California
 floor_values_engaged:
 - value: informed_citizenship

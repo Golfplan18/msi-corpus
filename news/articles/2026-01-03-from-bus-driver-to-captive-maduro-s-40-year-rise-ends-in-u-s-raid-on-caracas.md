@@ -22,7 +22,8 @@ topic_tags:
   - "conflict, war and peace"
   - "economy, business and finance"
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - venezuela-crisis
 geographic_location: Caracas, Venezuela
 floor_values_engaged:
 - value: informed_citizenship

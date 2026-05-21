@@ -23,7 +23,10 @@ primary_themes:
 topic_tags:
   - "artificial intelligence"
   - "science and technology"
-storyline_nexus: []
+storyline_nexus:
+  - ai-regulation
+  - humanoid-robotics-industry
+  - us-administration-2026
 geographic_location: New York, United States
 floor_values_engaged:
 - value: informed_citizenship

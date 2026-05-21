@@ -21,7 +21,10 @@ topic_tags:
   - "arts, culture, entertainment and media"
   - education
   - "higher education"
-storyline_nexus: []
+storyline_nexus:
+  - us-administration-2026
+  - us-china-relations
+  - ai-regulation
 geographic_location: Tucson, Arizona
 floor_values_engaged:
 - value: informed_citizenship

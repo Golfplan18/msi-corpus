@@ -30,7 +30,10 @@ topic_tags:
   - "government policy"
   - "economy, business and finance"
   - "human migration"
-storyline_nexus: []
+storyline_nexus:
+  - trump-tariff-policy
+  - ai-regulation
+  - humanoid-robotics-industry
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship

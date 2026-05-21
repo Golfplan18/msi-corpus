@@ -23,7 +23,10 @@ topic_tags:
   - "human migration"
   - "international relations"
   - "law enforcement"
-storyline_nexus: []
+storyline_nexus:
+  - us-china-relations
+  - us-administration-2026
+  - humanoid-robotics-industry
 geographic_location: San Diego, California, United States
 floor_values_engaged:
 - value: informed_citizenship

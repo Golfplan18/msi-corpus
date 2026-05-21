@@ -24,7 +24,8 @@ topic_tags:
   - "science and technology"
   - sport
   - "technology and engineering"
-storyline_nexus: []
+storyline_nexus:
+  - ai-regulation
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship

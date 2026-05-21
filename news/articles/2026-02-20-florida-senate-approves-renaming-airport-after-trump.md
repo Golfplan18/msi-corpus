@@ -23,7 +23,9 @@ topic_tags:
   - "government policy"
   - "international relations"
   - "international trade"
-storyline_nexus: []
+storyline_nexus:
+  - trump-administration-2026
+  - us-china-relations
 geographic_location: West Palm Beach, Florida, United States
 floor_values_engaged:
 - value: informed_citizenship

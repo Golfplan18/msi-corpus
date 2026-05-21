@@ -21,7 +21,8 @@ topic_tags:
   - "armed conflict"
   - "conflict, war and peace"
   - "peace process"
-storyline_nexus: []
+storyline_nexus:
+  - russia-ukraine-war
 geographic_location: Ukraine, Russia, United States, United Arab Emirates
 floor_values_engaged:
 - value: human_life_and_dignity

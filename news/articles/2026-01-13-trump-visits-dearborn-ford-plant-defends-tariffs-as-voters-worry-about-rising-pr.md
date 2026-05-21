@@ -24,7 +24,9 @@ topic_tags:
   - "economy, business and finance"
   - "international trade"
   - labour
-storyline_nexus: []
+storyline_nexus:
+  - trump-tariff-policy
+  - immigration-enforcement
 geographic_location: Dearborn, Michigan, United States
 floor_values_engaged:
 - value: informed_citizenship

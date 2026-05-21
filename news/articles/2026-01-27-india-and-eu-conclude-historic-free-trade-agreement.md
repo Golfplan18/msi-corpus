@@ -20,7 +20,10 @@ topic_tags:
   - "international trade"
   - labour
   - "labour dispute"
-storyline_nexus: []
+storyline_nexus:
+  - trump-administration-2026
+  - trump-tariff-policy
+  - us-china-relations
 geographic_location: International
 floor_values_engaged:
 - value: truthfulness

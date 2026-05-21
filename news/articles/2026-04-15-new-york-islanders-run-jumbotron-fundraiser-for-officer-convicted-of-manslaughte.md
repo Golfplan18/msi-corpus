@@ -24,7 +24,9 @@ topic_tags:
   - labour
   - "labour dispute"
   - sport
-storyline_nexus: []
+storyline_nexus:
+  - immigration-enforcement
+  - ai-regulation
 geographic_location: New York, United States
 floor_values_engaged:
 - value: accountability_of_power

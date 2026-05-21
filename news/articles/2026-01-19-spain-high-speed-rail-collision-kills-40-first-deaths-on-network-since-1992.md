@@ -20,7 +20,8 @@ primary_themes:
 - Andalusia
 topic_tags:
   - sport
-storyline_nexus: []
+storyline_nexus:
+  - spain-rail-disaster
 geographic_location: Adamuz, Andalusia, Spain
 floor_values_engaged:
 - value: human_life_and_dignity

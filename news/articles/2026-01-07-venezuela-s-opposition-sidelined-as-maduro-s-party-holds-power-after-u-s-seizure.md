@@ -21,7 +21,8 @@ primary_themes:
 topic_tags:
   - election
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - venezuela-crisis
 geographic_location: Venezuela
 floor_values_engaged:
 - value: accountability_of_power

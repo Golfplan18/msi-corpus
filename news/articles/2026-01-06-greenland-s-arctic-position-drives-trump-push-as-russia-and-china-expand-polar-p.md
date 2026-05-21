@@ -25,7 +25,8 @@ topic_tags:
   - government
   - "conflict, war and peace"
   - sport
-storyline_nexus: []
+storyline_nexus:
+  - greenland-annexation
 geographic_location: Greenland / Arctic
 floor_values_engaged:
 - value: informed_citizenship

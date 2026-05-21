@@ -25,7 +25,9 @@ topic_tags:
   - election
   - "crime, law and justice"
   - judiciary
-storyline_nexus: []
+storyline_nexus:
+  - 2026-midterms
+  - trump-administration-2026
 geographic_location: Virginia, United States
 floor_values_engaged:
 - value: accountability_of_power

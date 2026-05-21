@@ -23,7 +23,8 @@ topic_tags:
   - "international relations"
   - "economy, business and finance"
   - "crime, law and justice"
-storyline_nexus: []
+storyline_nexus:
+  - venezuela-crisis
 geographic_location: Venezuela / Washington, D.C.
 floor_values_engaged:
 - value: accountability_of_power

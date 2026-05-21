@@ -17,7 +17,8 @@ topic_tags:
   - judiciary
   - "disaster, accident and emergency incident"
   - fire
-storyline_nexus: []
+storyline_nexus:
+  - gaza-conflict
 geographic_location: Jackson, Mississippi, United States
 floor_values_engaged:
 - value: human_life_and_dignity

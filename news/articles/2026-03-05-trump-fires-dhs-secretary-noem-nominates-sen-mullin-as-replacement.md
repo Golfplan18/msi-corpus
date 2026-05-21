@@ -22,7 +22,9 @@ topic_tags:
   - government
   - "human interest"
   - "human migration"
-storyline_nexus: []
+storyline_nexus:
+  - trump-administration-2026
+  - trump-immigration-crackdown
 geographic_location: Washington, D.C.
 floor_values_engaged:
 - value: accountability_of_power

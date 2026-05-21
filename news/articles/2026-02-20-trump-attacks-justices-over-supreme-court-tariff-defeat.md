@@ -17,7 +17,10 @@ primary_themes:
 - executive_power
 topic_tags:
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - immigration-enforcement
+  - trump-administration-2026
+  - trump-tariff-policy
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

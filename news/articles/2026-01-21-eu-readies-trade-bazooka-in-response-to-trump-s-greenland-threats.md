@@ -16,7 +16,8 @@ primary_themes:
 topic_tags:
   - "economy, business and finance"
   - "international trade"
-storyline_nexus: []
+storyline_nexus:
+  - trump-greenland-acquisition
 geographic_location: United States and European Union
 floor_values_engaged:
 - value: truthfulness

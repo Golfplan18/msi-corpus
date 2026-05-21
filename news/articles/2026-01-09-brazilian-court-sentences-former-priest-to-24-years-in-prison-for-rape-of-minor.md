@@ -16,7 +16,10 @@ primary_themes:
 topic_tags:
   - religion
   - "religious leader"
-storyline_nexus: []
+storyline_nexus:
+  - us-administration-2026
+  - ai-regulation
+  - us-china-relations
 geographic_location: Minas Gerais, Brazil
 floor_values_engaged:
 - value: human_life_and_dignity

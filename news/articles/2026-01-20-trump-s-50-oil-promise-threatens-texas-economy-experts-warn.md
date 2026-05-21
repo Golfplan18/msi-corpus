@@ -20,7 +20,10 @@ topic_tags:
   - "market and exchange"
   - labour
   - employment
-storyline_nexus: []
+storyline_nexus:
+  - venezuela-crisis
+  - trump-fed-independence
+  - minneapolis-immigration
 geographic_location: Texas, USA
 floor_values_engaged:
 - value: informed_citizenship

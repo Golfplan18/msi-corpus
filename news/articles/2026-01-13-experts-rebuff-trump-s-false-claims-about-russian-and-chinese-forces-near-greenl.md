@@ -18,7 +18,10 @@ primary_themes:
 - NATO
 topic_tags:
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - trump-tariff-policy
+  - monetary-policy-2026
+  - russia-ukraine-war
 geographic_location: Greenland
 floor_values_engaged:
 - value: informed_citizenship

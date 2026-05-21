@@ -27,7 +27,8 @@ topic_tags:
   - fire
   - "international relations"
   - "natural disaster"
-storyline_nexus: []
+storyline_nexus:
+  - us-china-relations
 geographic_location: Korean Peninsula
 floor_values_engaged:
 - value: informed_citizenship

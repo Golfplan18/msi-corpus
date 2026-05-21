@@ -19,7 +19,8 @@ topic_tags:
   - "human migration"
   - "international relations"
   - "law enforcement"
-storyline_nexus: []
+storyline_nexus:
+  - immigration-enforcement
 geographic_location: Petoskey, Michigan; Bay City, Michigan
 floor_values_engaged:
 - value: accountability_of_power

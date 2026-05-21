@@ -18,7 +18,10 @@ primary_themes:
 - territorial acquisition
 topic_tags:
   - "conflict, war and peace"
-storyline_nexus: []
+storyline_nexus:
+  - trump-tariff-policy
+  - gaza-conflict
+  - iran-war
 geographic_location: Greenland
 floor_values_engaged:
 - value: informed_citizenship

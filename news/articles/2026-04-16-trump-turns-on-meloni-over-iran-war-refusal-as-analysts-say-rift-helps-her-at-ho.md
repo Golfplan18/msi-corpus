@@ -20,7 +20,8 @@ primary_themes:
 - NATO alliance
 topic_tags:
   - "conflict, war and peace"
-storyline_nexus: []
+storyline_nexus:
+  - iran-war
 geographic_location: Italy; United States; International
 floor_values_engaged:
 - value: informed_citizenship

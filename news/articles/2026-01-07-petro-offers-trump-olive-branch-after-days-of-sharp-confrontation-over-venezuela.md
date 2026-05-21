@@ -24,7 +24,8 @@ primary_themes:
 - diplomatic détente
 - Venezuela crisis
 topic_tags: []
-storyline_nexus: []
+storyline_nexus:
+  - venezuela-crisis
 geographic_location: Bogotá, Colombia
 floor_values_engaged:
 - value: informed_citizenship

@@ -30,7 +30,8 @@ topic_tags:
   - "energy and resource"
   - "science and technology"
   - society
-storyline_nexus: []
+storyline_nexus:
+  - ai-regulation
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship

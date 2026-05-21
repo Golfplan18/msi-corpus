@@ -22,7 +22,8 @@ primary_themes:
 topic_tags:
   - "international relations"
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - israel-gaza-conflict
 geographic_location: Gaza Strip, Middle East
 floor_values_engaged:
 - value: human_life_and_dignity

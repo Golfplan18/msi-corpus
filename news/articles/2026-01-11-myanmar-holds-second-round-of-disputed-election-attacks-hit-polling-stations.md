@@ -23,7 +23,10 @@ topic_tags:
   - "international relations"
   - "mass media"
   - "political process"
-storyline_nexus: []
+storyline_nexus:
+  - gaza-conflict
+  - iran-war
+  - monetary-policy-2026
 geographic_location: Myanmar
 floor_values_engaged:
 - value: human_life_and_dignity

@@ -21,7 +21,8 @@ topic_tags:
   - "disaster, accident and emergency incident"
   - fire
   - government
-storyline_nexus: []
+storyline_nexus:
+  - immigration-enforcement
 geographic_location: Salgueiro favela complex, Rio de Janeiro state, Brazil
 floor_values_engaged:
 - value: human_life_and_dignity

@@ -22,7 +22,9 @@ topic_tags:
   - election
   - government
   - "conflict, war and peace"
-storyline_nexus: []
+storyline_nexus:
+  - greenland-annexation
+  - gaza-conflict
 geographic_location: International
 floor_values_engaged:
 - value: informed_citizenship

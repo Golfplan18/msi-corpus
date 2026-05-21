@@ -24,7 +24,10 @@ topic_tags:
   - "crime, law and justice"
   - "law enforcement"
   - "political dissent"
-storyline_nexus: []
+storyline_nexus:
+  - iran-war
+  - trump-tariff-policy
+  - us-china-relations
 geographic_location: Iran
 floor_values_engaged:
 - value: human_life_and_dignity

@@ -23,7 +23,8 @@ topic_tags:
   - "economy, business and finance"
   - "science and technology"
   - society
-storyline_nexus: []
+storyline_nexus:
+  - davos-2026
 geographic_location: Davos, Switzerland
 floor_values_engaged:
 - value: informed_citizenship

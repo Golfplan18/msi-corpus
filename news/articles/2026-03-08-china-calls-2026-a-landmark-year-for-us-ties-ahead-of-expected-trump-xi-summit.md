@@ -22,7 +22,8 @@ topic_tags:
   - "government policy"
   - "international relations"
   - "international trade"
-storyline_nexus: []
+storyline_nexus:
+  - us-china-relations
 geographic_location: Beijing, China
 floor_values_engaged:
 - value: informed_citizenship

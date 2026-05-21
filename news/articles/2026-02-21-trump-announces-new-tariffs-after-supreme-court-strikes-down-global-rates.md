@@ -29,7 +29,11 @@ topic_tags:
   - "economy, business and finance"
   - government
   - "government policy"
-storyline_nexus: []
+storyline_nexus:
+  - immigration-enforcement
+  - trump-administration-2026
+  - trump-tariff-policy
+  - us-china-relations
 geographic_location: International
 floor_values_engaged:
 - value: accountability_of_power

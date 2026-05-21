@@ -17,7 +17,10 @@ topic_tags:
   - "conflict, war and peace"
   - health
   - "public health"
-storyline_nexus: []
+storyline_nexus:
+  - iran-war
+  - russia-ukraine-war
+  - us-china-relations
 geographic_location: Germany; United States
 floor_values_engaged:
 - value: truthfulness

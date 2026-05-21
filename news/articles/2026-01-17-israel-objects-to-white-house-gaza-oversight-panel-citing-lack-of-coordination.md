@@ -27,7 +27,8 @@ topic_tags:
   - "government policy"
   - "peace process"
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - gaza-conflict
 geographic_location: Gaza; Washington, D.C.; Cairo
 floor_values_engaged:
 - value: informed_citizenship

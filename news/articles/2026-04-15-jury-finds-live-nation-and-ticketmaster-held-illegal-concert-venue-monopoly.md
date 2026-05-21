@@ -26,7 +26,8 @@ topic_tags:
   - "economy, business and finance"
   - "science and technology"
   - society
-storyline_nexus: []
+storyline_nexus:
+  - live-nation-monopoly
 geographic_location: New York, United States
 floor_values_engaged:
 - value: accountability_of_power

@@ -26,7 +26,9 @@ topic_tags:
   - "human migration"
   - "international relations"
   - "law enforcement"
-storyline_nexus: []
+storyline_nexus:
+  - venezuela-crisis
+  - immigration-enforcement
 geographic_location: Havana, Cuba
 floor_values_engaged:
 - value: human_life_and_dignity

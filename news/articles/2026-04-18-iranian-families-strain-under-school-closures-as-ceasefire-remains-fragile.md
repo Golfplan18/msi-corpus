@@ -24,7 +24,8 @@ topic_tags:
   - education
   - employment
   - fire
-storyline_nexus: []
+storyline_nexus:
+  - iran-war
 geographic_location: Iran (Tehran, rural areas)
 floor_values_engaged:
 - value: human_life_and_dignity

@@ -25,7 +25,10 @@ topic_tags:
   - "disaster, accident and emergency incident"
   - fire
   - labour
-storyline_nexus: []
+storyline_nexus:
+  - gaza-conflict
+  - us-administration-2026
+  - trump-tariff-policy
 geographic_location: Gaza Strip, Middle East
 floor_values_engaged:
 - value: informed_citizenship

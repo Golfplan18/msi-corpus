@@ -22,7 +22,10 @@ topic_tags:
   - health
   - prosecution
   - "science and technology"
-storyline_nexus: []
+storyline_nexus:
+  - us-administration-2026
+  - ai-regulation
+  - us-china-relations
 geographic_location: Switzerland
 floor_values_engaged:
 - value: informed_citizenship

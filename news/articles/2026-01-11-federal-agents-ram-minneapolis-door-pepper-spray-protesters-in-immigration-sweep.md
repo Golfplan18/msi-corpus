@@ -19,7 +19,10 @@ topic_tags:
   - "conflict, war and peace"
   - "crime, law and justice"
   - trial
-storyline_nexus: []
+storyline_nexus:
+  - immigration-enforcement
+  - gaza-conflict
+  - iran-war
 geographic_location: Minneapolis, Minnesota
 floor_values_engaged:
 - value: human_life_and_dignity

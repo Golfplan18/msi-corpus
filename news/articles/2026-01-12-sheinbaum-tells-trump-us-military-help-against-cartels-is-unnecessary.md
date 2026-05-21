@@ -18,7 +18,10 @@ topic_tags:
   - "international relations"
   - "conflict, war and peace"
   - "armed conflict"
-storyline_nexus: []
+storyline_nexus:
+  - trump-tariff-policy
+  - us-china-relations
+  - gaza-conflict
 geographic_location: Mexico City, Mexico
 floor_values_engaged:
 - value: informed_citizenship

@@ -23,7 +23,10 @@ topic_tags:
   - government
   - "economy, business and finance"
   - religion
-storyline_nexus: []
+storyline_nexus:
+  - immigration-enforcement
+  - us-administration-2026
+  - 2026-midterms
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship

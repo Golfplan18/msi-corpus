@@ -23,7 +23,10 @@ topic_tags:
   - "crime, law and justice"
   - "science and technology"
   - "scientific research"
-storyline_nexus: []
+storyline_nexus:
+  - ai-regulation
+  - us-administration-2026
+  - us-china-relations
 geographic_location: Global (London, Brussels, Washington)
 floor_values_engaged:
 - value: accountability_of_power

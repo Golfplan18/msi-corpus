@@ -22,7 +22,9 @@ topic_tags:
   - "armed conflict"
   - "science and technology"
   - "artificial intelligence"
-storyline_nexus: []
+storyline_nexus:
+  - gaza-conflict
+  - russia-ukraine-war
 geographic_location: Ukraine; international
 floor_values_engaged:
 - value: informed_citizenship

@@ -18,7 +18,8 @@ primary_themes:
 - couture tradition
 topic_tags:
   - "arts, culture, entertainment and media"
-storyline_nexus: []
+storyline_nexus:
+  - trump-fed-independence
 geographic_location: Rome, Italy; Paris, France
 floor_values_engaged:
 - value: human_life_and_dignity

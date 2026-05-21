@@ -18,7 +18,10 @@ primary_themes:
 - drug_trafficking
 - international_law
 topic_tags: []
-storyline_nexus: []
+storyline_nexus:
+  - venezuela-crisis
+  - us-administration-2026
+  - ai-regulation
 geographic_location: New York, New York, United States
 floor_values_engaged:
 - value: informed_citizenship

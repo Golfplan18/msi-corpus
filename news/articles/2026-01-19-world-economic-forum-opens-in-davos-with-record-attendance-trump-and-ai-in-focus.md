@@ -20,7 +20,8 @@ topic_tags:
   - "international relations"
   - politics
   - "science and technology"
-storyline_nexus: []
+storyline_nexus:
+  - davos-2026
 geographic_location: Davos, Graubünden, Switzerland
 floor_values_engaged:
 - value: informed_citizenship

@@ -24,7 +24,9 @@ topic_tags:
   - government
   - "government policy"
   - "human interest"
-storyline_nexus: []
+storyline_nexus:
+  - iran-crackdown
+  - trump-fed-independence
 geographic_location: Iran; Strait of Malacca; Davos, Switzerland
 floor_values_engaged:
 - value: human_life_and_dignity

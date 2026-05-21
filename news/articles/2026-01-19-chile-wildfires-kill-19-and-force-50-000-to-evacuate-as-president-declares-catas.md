@@ -19,7 +19,8 @@ topic_tags:
   - "disaster, accident and emergency incident"
   - "natural disaster"
   - environment
-storyline_nexus: []
+storyline_nexus:
+  - minneapolis-immigration
 geographic_location: Chile — Biobío and Ñuble regions, central and southern Chile
 floor_values_engaged:
 - value: human_life_and_dignity

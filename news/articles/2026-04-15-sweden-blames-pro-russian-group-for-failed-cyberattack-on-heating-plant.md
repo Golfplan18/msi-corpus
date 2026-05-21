@@ -16,7 +16,8 @@ primary_themes:
 topic_tags:
   - election
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - ai-regulation
 geographic_location: Europe
 floor_values_engaged:
 - value: informed_citizenship

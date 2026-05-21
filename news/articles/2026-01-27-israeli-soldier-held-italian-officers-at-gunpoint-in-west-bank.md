@@ -22,7 +22,9 @@ topic_tags:
   - "economy, business and finance"
   - "human migration"
   - "conflict, war and peace"
-storyline_nexus: []
+storyline_nexus:
+  - gaza-conflict
+  - immigration-enforcement
 geographic_location: West Bank, Ramallah, Jerusalem, Rome
 floor_values_engaged:
 - value: human_life_and_dignity

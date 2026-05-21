@@ -19,7 +19,8 @@ topic_tags:
   - "disaster, accident and emergency incident"
   - "accident and emergency incident"
   - "economy, business and finance"
-storyline_nexus: []
+storyline_nexus:
+  - immigration-enforcement
 geographic_location: Louisville, Kentucky, United States
 floor_values_engaged:
 - value: human_life_and_dignity

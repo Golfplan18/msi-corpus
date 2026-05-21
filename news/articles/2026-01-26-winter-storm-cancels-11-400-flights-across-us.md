@@ -16,7 +16,8 @@ topic_tags:
   - "disaster, accident and emergency incident"
   - "human interest"
   - weather
-storyline_nexus: []
+storyline_nexus:
+  - winter-storm-2026
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship

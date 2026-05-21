@@ -18,7 +18,10 @@ primary_themes:
 - administrative vs judicial warrants
 topic_tags:
   - "conflict, war and peace"
-storyline_nexus: []
+storyline_nexus:
+  - immigration-enforcement
+  - us-administration-2026
+  - us-china-relations
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship

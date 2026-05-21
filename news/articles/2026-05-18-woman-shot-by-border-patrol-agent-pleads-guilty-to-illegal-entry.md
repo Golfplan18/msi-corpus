@@ -20,7 +20,9 @@ topic_tags:
   - "law enforcement"
   - prosecution
   - trial
-storyline_nexus: []
+storyline_nexus:
+  - minneapolis-immigration
+  - ice-enforcement-surge-2026
 geographic_location: Portland, Oregon
 floor_values_engaged:
 - value: accountability_of_power

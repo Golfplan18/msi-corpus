@@ -20,7 +20,10 @@ topic_tags:
   - "human migration"
   - "international relations"
   - "science and technology"
-storyline_nexus: []
+storyline_nexus:
+  - us-china-relations
+  - gaza-conflict
+  - iran-war
 geographic_location: El Paso, Texas, United States
 floor_values_engaged:
 - value: informed_citizenship

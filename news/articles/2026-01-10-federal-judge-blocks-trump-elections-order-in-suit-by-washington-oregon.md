@@ -22,7 +22,10 @@ topic_tags:
   - election
   - politics
   - "science and technology"
-storyline_nexus: []
+storyline_nexus:
+  - trump-tariff-policy
+  - us-administration-2026
+  - ai-regulation
 geographic_location: Seattle, Washington, United States
 floor_values_engaged:
 - value: informed_citizenship

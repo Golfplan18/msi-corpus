@@ -22,7 +22,8 @@ topic_tags:
   - "climate change"
   - "weather warning"
   - "disaster, accident and emergency incident"
-storyline_nexus: []
+storyline_nexus:
+  - winter-storm-2026
 geographic_location: United States — American East
 floor_values_engaged:
 - value: truthfulness

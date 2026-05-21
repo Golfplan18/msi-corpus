@@ -20,7 +20,10 @@ topic_tags:
   - crime
   - judiciary
   - "conflict, war and peace"
-storyline_nexus: []
+storyline_nexus:
+  - gaza-conflict
+  - iran-war
+  - humanoid-robotics-industry
 geographic_location: New York, New York
 floor_values_engaged:
 - value: informed_citizenship

@@ -21,7 +21,8 @@ topic_tags:
   - labour
   - "labour dispute"
   - "science and technology"
-storyline_nexus: []
+storyline_nexus:
+  - immigration-enforcement
 geographic_location: Paris, France
 floor_values_engaged:
 - value: informed_citizenship

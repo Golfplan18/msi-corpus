@@ -17,7 +17,8 @@ primary_themes:
 - inflation
 - Iran sanctions
 topic_tags: []
-storyline_nexus: []
+storyline_nexus:
+  - iran-war
 geographic_location: Iran
 floor_values_engaged:
 - value: informed_citizenship

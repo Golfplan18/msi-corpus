@@ -20,7 +20,10 @@ topic_tags:
   - "crime, law and justice"
   - "law enforcement"
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - immigration-enforcement
+  - ces-2026
+  - us-administration-2026
 geographic_location: Minneapolis, Minnesota; Portland, Oregon; United States
 floor_values_engaged:
 - value: informed_citizenship

@@ -23,7 +23,8 @@ topic_tags:
   - "disaster, accident and emergency incident"
   - "international relations"
   - "political dissent"
-storyline_nexus: []
+storyline_nexus:
+  - iran-war
 geographic_location: Iran, Middle East, Geneva
 floor_values_engaged:
 - value: human_life_and_dignity

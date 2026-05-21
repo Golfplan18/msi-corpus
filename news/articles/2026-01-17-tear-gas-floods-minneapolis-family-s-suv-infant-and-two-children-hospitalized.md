@@ -21,7 +21,9 @@ topic_tags:
   - "government policy"
   - "human migration"
   - "disaster, accident and emergency incident"
-storyline_nexus: []
+storyline_nexus:
+  - minneapolis-immigration
+  - iran-crackdown
 geographic_location: Minneapolis, Minnesota, United States
 floor_values_engaged:
 - value: human_life_and_dignity

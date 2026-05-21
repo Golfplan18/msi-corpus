@@ -18,7 +18,8 @@ topic_tags:
   - "human interest"
   - "peace process"
   - "human migration"
-storyline_nexus: []
+storyline_nexus:
+  - russia-ukraine-war
 geographic_location: Ukraine, Kyiv
 floor_values_engaged:
 - value: human_life_and_dignity

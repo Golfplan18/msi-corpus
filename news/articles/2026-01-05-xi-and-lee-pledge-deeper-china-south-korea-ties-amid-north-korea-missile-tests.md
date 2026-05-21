@@ -25,7 +25,9 @@ primary_themes:
 topic_tags:
   - "economy, business and finance"
   - "international trade"
-storyline_nexus: []
+storyline_nexus:
+  - venezuela-crisis
+  - china-taiwan-tensions
 geographic_location: Beijing, China; Korean Peninsula; Asia-Pacific
 floor_values_engaged:
 - value: informed_citizenship

@@ -21,7 +21,10 @@ topic_tags:
   - "international relations"
   - "political dissent"
   - "science and technology"
-storyline_nexus: []
+storyline_nexus:
+  - trump-administration-2026
+  - trump-tariff-policy
+  - us-china-relations
 geographic_location: Canada, India, Australia, Japan
 floor_values_engaged:
 - value: accountability_of_power

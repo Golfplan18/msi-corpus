@@ -22,7 +22,10 @@ topic_tags:
   - "government policy"
   - politics
   - "international relations"
-storyline_nexus: []
+storyline_nexus:
+  - gaza-conflict
+  - iran-crisis-2026
+  - trump-administration-2026
 geographic_location: Middle East, International
 floor_values_engaged:
 - value: accountability_of_power

@@ -24,7 +24,9 @@ topic_tags:
   - "international relations"
   - "international trade"
   - "economy, business and finance"
-storyline_nexus: []
+storyline_nexus:
+  - trump-greenland
+  - trump-fed-independence
 geographic_location: Europe / Greenland / United States
 floor_values_engaged:
 - value: informed_citizenship

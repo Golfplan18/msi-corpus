@@ -28,7 +28,8 @@ topic_tags:
   - "crime, law and justice"
   - "economy, business and finance"
   - "international trade"
-storyline_nexus: []
+storyline_nexus:
+  - ai-regulation
 geographic_location: Ukraine; Middle East
 floor_values_engaged:
 - value: informed_citizenship

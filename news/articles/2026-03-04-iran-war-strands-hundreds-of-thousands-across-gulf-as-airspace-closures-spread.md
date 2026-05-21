@@ -20,7 +20,8 @@ primary_themes:
 - civilian impact of conflict
 topic_tags:
   - "conflict, war and peace"
-storyline_nexus: []
+storyline_nexus:
+  - iran-war
 geographic_location: Dubai, UAE; Doha, Qatar; Middle East
 floor_values_engaged:
 - value: human_life_and_dignity

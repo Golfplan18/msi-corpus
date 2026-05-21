@@ -18,7 +18,10 @@ primary_themes:
 topic_tags:
   - crime
   - "crime, law and justice"
-storyline_nexus: []
+storyline_nexus:
+  - us-administration-2026
+  - ai-regulation
+  - us-china-relations
 geographic_location: Alamosa and Salida, Colorado, United States
 floor_values_engaged:
 - value: informed_citizenship

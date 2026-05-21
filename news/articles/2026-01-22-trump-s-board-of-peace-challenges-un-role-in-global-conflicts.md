@@ -19,7 +19,8 @@ topic_tags:
   - "disaster, accident and emergency incident"
   - fire
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - trump-board-of-peace
 geographic_location: International
 floor_values_engaged:
 - value: informed_citizenship

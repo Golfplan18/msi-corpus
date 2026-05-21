@@ -21,7 +21,8 @@ topic_tags:
   - "disaster, accident and emergency incident"
   - "law enforcement"
   - weather
-storyline_nexus: []
+storyline_nexus:
+  - us-winter-storm-january-2026
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship

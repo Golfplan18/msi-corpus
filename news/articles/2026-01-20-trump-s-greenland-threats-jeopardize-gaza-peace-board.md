@@ -17,7 +17,10 @@ primary_themes:
 topic_tags:
   - "international relations"
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - trump-greenland
+  - greenland-annexation
+  - davos-2026
 geographic_location: United States, Greenland, Denmark, Europe
 floor_values_engaged:
 - value: accountability_of_power

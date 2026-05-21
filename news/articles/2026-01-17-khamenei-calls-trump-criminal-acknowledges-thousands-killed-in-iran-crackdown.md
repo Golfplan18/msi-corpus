@@ -24,7 +24,9 @@ topic_tags:
   - "crime, law and justice"
   - crime
   - "human interest"
-storyline_nexus: []
+storyline_nexus:
+  - iran-crackdown
+  - trump-fed-independence
 geographic_location: Iran; United States
 floor_values_engaged:
 - value: human_life_and_dignity

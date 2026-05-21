@@ -19,7 +19,8 @@ primary_themes:
 topic_tags:
   - "armed conflict"
   - "conflict, war and peace"
-storyline_nexus: []
+storyline_nexus:
+  - venezuela-crisis
 geographic_location: Mexico City, Mexico
 floor_values_engaged:
 - value: informed_citizenship

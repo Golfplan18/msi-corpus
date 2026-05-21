@@ -25,7 +25,9 @@ topic_tags:
   - "economy, business and finance"
   - "arts, culture, entertainment and media"
   - "arts and entertainment"
-storyline_nexus: []
+storyline_nexus:
+  - iran-war
+  - iran-crisis-2026
 geographic_location: Europe, Asia-Pacific, International
 floor_values_engaged:
 - value: informed_citizenship

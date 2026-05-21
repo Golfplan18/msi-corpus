@@ -17,7 +17,8 @@ primary_themes:
 topic_tags:
   - "disaster, accident and emergency incident"
   - "fire"
-storyline_nexus: []
+storyline_nexus:
+  - mexico-cartel-violence
 geographic_location: Punta Zicatela, Oaxaca, Mexico
 floor_values_engaged:
 - value: informed_citizenship

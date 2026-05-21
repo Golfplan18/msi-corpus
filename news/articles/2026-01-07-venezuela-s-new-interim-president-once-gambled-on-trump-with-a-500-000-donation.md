@@ -20,7 +20,8 @@ primary_themes:
 topic_tags:
   - politics
   - election
-storyline_nexus: []
+storyline_nexus:
+  - venezuela-crisis
 geographic_location: Venezuela
 floor_values_engaged:
 - value: informed_citizenship

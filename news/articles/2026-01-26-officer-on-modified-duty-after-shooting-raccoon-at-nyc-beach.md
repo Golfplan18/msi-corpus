@@ -18,7 +18,8 @@ topic_tags:
   - "international relations"
   - "mass media"
   - "natural disaster"
-storyline_nexus: []
+storyline_nexus:
+  - immigration-enforcement
 geographic_location: Rockaway Beach, New York City, New York, United States
 floor_values_engaged:
 - value: accountability_of_power

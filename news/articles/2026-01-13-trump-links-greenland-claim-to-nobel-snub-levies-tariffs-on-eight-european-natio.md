@@ -24,7 +24,9 @@ topic_tags:
   - "government policy"
   - "international trade"
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - trump-tariff-policy
+  - greenland-annexation
 geographic_location: Greenland; Norway; Denmark; United States
 floor_values_engaged:
 - value: informed_citizenship

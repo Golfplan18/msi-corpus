@@ -27,7 +27,10 @@ topic_tags:
   - "international relations"
   - "political dissent"
   - "science and technology"
-storyline_nexus: []
+storyline_nexus:
+  - trump-tariff-policy
+  - venezuela-crisis
+  - us-china-relations
 geographic_location: Latin America
 floor_values_engaged:
 - value: human_life_and_dignity

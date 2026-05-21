@@ -20,7 +20,8 @@ topic_tags:
   - government
   - "government policy"
   - "international relations"
-storyline_nexus: []
+storyline_nexus:
+  - pope-leo-xiv-africa-tour
 geographic_location: International (Vatican, United States, Africa)
 floor_values_engaged:
 - value: informed_citizenship

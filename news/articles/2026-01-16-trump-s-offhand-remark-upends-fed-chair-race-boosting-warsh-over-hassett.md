@@ -23,7 +23,8 @@ topic_tags:
   - government
   - "mass media"
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - trump-fed-independence
 geographic_location: Washington, D.C.
 floor_values_engaged:
 - value: informed_citizenship

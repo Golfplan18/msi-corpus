@@ -17,7 +17,8 @@ primary_themes:
 - prisoner transfer
 topic_tags:
   - "conflict, war and peace"
-storyline_nexus: []
+storyline_nexus:
+  - gaza-conflict
 geographic_location: Kobani, northeast Syria
 floor_values_engaged:
 - value: human_life_and_dignity

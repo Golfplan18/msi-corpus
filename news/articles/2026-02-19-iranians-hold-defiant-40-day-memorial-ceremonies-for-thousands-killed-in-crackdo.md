@@ -14,7 +14,8 @@ primary_themes:
 - Geopolitics
 - Human rights
 topic_tags: []
-storyline_nexus: []
+storyline_nexus:
+  - iran-crisis-2026
 geographic_location: Iran
 floor_values_engaged:
 - value: human_life_and_dignity

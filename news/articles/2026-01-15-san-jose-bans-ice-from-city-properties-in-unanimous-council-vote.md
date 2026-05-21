@@ -25,7 +25,8 @@ topic_tags:
   - "international relations"
   - "monetary policy"
   - "political process"
-storyline_nexus: []
+storyline_nexus:
+  - immigration-enforcement
 geographic_location: San Jose, California
 floor_values_engaged:
 - value: informed_citizenship

@@ -26,7 +26,8 @@ topic_tags:
   - government
   - "government policy"
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - ai-regulation
 geographic_location: Miami, Florida, United States; Haiti
 floor_values_engaged:
 - value: accountability_of_power

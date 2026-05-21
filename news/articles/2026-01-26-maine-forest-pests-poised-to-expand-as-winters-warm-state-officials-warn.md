@@ -21,7 +21,9 @@ topic_tags:
   - "climate change"
   - environment
   - health
-storyline_nexus: []
+storyline_nexus:
+  - immigration-enforcement
+  - us-china-relations
 geographic_location: Maine, United States
 floor_values_engaged:
 - value: human_life_and_dignity

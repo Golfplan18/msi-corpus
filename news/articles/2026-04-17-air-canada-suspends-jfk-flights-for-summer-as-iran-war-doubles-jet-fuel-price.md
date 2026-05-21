@@ -25,7 +25,10 @@ topic_tags:
   - "disaster, accident and emergency incident"
   - "economy, business and finance"
   - "energy and resource"
-storyline_nexus: []
+storyline_nexus:
+  - iran-war
+  - immigration-enforcement
+  - iran-crisis-2026
 geographic_location: New York; international
 floor_values_engaged:
 - value: informed_citizenship

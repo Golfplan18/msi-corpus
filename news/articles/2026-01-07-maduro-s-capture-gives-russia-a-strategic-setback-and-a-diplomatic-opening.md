@@ -20,7 +20,9 @@ topic_tags:
   - "competition discipline"
   - "conflict, war and peace"
   - sport
-storyline_nexus: []
+storyline_nexus:
+  - venezuela-crisis
+  - russia-ukraine-war
 geographic_location: International
 floor_values_engaged:
 - value: informed_citizenship

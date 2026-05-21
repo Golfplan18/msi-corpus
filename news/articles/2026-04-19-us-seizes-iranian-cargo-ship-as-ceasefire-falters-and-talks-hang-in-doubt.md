@@ -21,7 +21,8 @@ topic_tags:
   - "international relations"
   - "natural disaster"
   - "political dissent"
-storyline_nexus: []
+storyline_nexus:
+  - iran-war
 geographic_location: Strait of Hormuz; Iran; Pakistan; Gulf region
 floor_values_engaged:
 - value: human_life_and_dignity

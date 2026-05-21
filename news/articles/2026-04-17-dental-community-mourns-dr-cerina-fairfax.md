@@ -18,7 +18,8 @@ topic_tags:
   - "human migration"
   - "international relations"
   - "law enforcement"
-storyline_nexus: []
+storyline_nexus:
+  - ai-regulation
 geographic_location: Annandale, Virginia, USA
 floor_values_engaged:
 - value: human_life_and_dignity

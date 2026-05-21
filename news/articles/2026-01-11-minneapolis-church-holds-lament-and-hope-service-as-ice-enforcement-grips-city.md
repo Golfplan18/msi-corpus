@@ -20,7 +20,10 @@ topic_tags:
   - "law enforcement"
   - religion
   - "religious leader"
-storyline_nexus: []
+storyline_nexus:
+  - immigration-enforcement
+  - us-administration-2026
+  - ai-regulation
 geographic_location: Minneapolis, Minnesota, United States
 floor_values_engaged:
 - value: human_life_and_dignity

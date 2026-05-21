@@ -16,7 +16,10 @@ primary_themes:
 - legal_settlement
 topic_tags:
   - "crime, law and justice"
-storyline_nexus: []
+storyline_nexus:
+  - iran-war
+  - humanoid-robotics-industry
+  - russia-ukraine-war
 geographic_location: New York, New York, United States
 floor_values_engaged:
 - value: accountability_of_power

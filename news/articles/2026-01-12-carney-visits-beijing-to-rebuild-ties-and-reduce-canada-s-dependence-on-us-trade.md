@@ -18,7 +18,10 @@ primary_themes:
 topic_tags:
   - "economy, business and finance"
   - "international trade"
-storyline_nexus: []
+storyline_nexus:
+  - us-china-relations
+  - trump-tariff-policy
+  - us-administration-2026
 geographic_location: Beijing, China
 floor_values_engaged:
 - value: informed_citizenship

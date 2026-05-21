@@ -19,7 +19,9 @@ topic_tags:
   - "corruption"
   - "politics"
   - "government"
-storyline_nexus: []
+storyline_nexus:
+  - trump-administration-2026
+  - epstein-investigation
 geographic_location: Washington, D.C.
 floor_values_engaged:
 - value: accountability_of_power

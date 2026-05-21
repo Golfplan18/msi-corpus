@@ -21,7 +21,8 @@ topic_tags:
   - "government policy"
   - "international relations"
   - "international trade"
-storyline_nexus: []
+storyline_nexus:
+  - trump-tariff-policy
 geographic_location: North America; International
 floor_values_engaged:
 - value: accountability_of_power

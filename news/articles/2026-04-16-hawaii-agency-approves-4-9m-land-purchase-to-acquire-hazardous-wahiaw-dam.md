@@ -28,7 +28,8 @@ topic_tags:
   - election
   - environment
   - "mass media"
-storyline_nexus: []
+storyline_nexus:
+  - ai-regulation
 geographic_location: Wahiawā, Oʻahu, Hawaii, United States
 floor_values_engaged:
 - value: human_life_and_dignity

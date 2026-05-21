@@ -19,7 +19,8 @@ primary_themes:
 topic_tags:
   - "disaster, accident and emergency incident"
   - fire
-storyline_nexus: []
+storyline_nexus:
+  - israel-gaza-conflict
 geographic_location: Gaza Strip; Washington, D.C.
 floor_values_engaged:
 - value: human_life_and_dignity

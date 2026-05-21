@@ -23,7 +23,10 @@ primary_themes:
 topic_tags:
   - "economy, business and finance"
   - "international trade"
-storyline_nexus: []
+storyline_nexus:
+  - trump-tariff-policy
+  - iran-war
+  - ai-regulation
 geographic_location: Iran; Washington, D.C., United States
 floor_values_engaged:
 - value: human_life_and_dignity

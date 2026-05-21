@@ -26,7 +26,10 @@ topic_tags:
   - politics
   - government
   - health
-storyline_nexus: []
+storyline_nexus:
+  - ai-regulation
+  - us-administration-2026
+  - us-china-relations
 geographic_location: Hawaii, United States
 floor_values_engaged:
 - value: human_life_and_dignity

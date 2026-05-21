@@ -17,7 +17,10 @@ primary_themes:
 - Central America
 topic_tags:
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - monetary-policy-2026
+  - us-administration-2026
+  - ai-regulation
 geographic_location: Nicaragua
 floor_values_engaged:
 - value: human_life_and_dignity

@@ -23,7 +23,9 @@ topic_tags:
   - "conflict, war and peace"
   - "crime, law and justice"
   - environment
-storyline_nexus: []
+storyline_nexus:
+  - immigration-enforcement
+  - greenland-annexation
 geographic_location: Concordia station, Antarctic Plateau; Mont Blanc, France; Grand Combin, Switzerland
 floor_values_engaged:
 - value: informed_citizenship

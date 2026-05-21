@@ -16,7 +16,8 @@ primary_themes:
 topic_tags:
   - "conflict, war and peace"
   - labour
-storyline_nexus: []
+storyline_nexus:
+  - iran-war
 geographic_location: Persian Gulf / Gulf of Oman / Strait of Hormuz region
 floor_values_engaged:
 - value: human_life_and_dignity

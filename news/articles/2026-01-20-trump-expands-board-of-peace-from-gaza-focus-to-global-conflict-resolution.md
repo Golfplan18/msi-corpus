@@ -21,7 +21,10 @@ topic_tags:
   - election
   - fire
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - gaza-conflict
+  - greenland-annexation
+  - davos-2026
 geographic_location: International
 floor_values_engaged:
 - value: accountability_of_power

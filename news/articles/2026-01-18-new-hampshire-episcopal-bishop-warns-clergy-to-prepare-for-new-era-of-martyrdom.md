@@ -25,7 +25,8 @@ topic_tags:
   - religion
   - "religious institution"
   - society
-storyline_nexus: []
+storyline_nexus:
+  - minneapolis-immigration
 geographic_location: Concord, New Hampshire
 floor_values_engaged:
 - value: human_life_and_dignity

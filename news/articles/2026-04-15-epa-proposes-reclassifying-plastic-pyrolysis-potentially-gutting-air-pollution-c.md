@@ -26,7 +26,8 @@ topic_tags:
   - politics
   - "government policy"
   - environment
-storyline_nexus: []
+storyline_nexus:
+  - ai-regulation
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

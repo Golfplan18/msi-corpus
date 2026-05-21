@@ -20,7 +20,8 @@ topic_tags:
   - "international relations"
   - "monetary policy"
   - "political dissent"
-storyline_nexus: []
+storyline_nexus:
+  - trump-immigration-crackdown
 geographic_location: Washington, D.C.
 floor_values_engaged:
 - value: informed_citizenship

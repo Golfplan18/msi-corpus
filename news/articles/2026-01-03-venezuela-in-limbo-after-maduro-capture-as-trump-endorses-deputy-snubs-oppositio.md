@@ -24,7 +24,8 @@ topic_tags:
   - trial
   - "human migration"
   - "crime, law and justice"
-storyline_nexus: []
+storyline_nexus:
+  - venezuela-crisis
 geographic_location: Caracas, Venezuela
 floor_values_engaged:
 - value: informed_citizenship

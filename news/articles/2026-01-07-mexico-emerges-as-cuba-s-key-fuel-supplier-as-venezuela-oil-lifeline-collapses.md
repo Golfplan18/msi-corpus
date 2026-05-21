@@ -25,7 +25,8 @@ topic_tags:
   - "international relations"
   - "international trade"
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - venezuela-crisis
 geographic_location: Mexico City, Mexico; Havana, Cuba
 floor_values_engaged:
 - value: informed_citizenship

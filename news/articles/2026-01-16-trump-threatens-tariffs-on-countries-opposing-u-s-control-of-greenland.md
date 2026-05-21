@@ -23,7 +23,8 @@ topic_tags:
   - health
   - "international trade"
   - "mass media"
-storyline_nexus: []
+storyline_nexus:
+  - trump-greenland
 geographic_location: Copenhagen, Denmark / Washington, D.C. / Nuuk, Greenland
 floor_values_engaged:
 - value: informed_citizenship

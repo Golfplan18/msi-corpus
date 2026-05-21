@@ -18,7 +18,9 @@ primary_themes:
 topic_tags:
   - "armed conflict"
   - "conflict, war and peace"
-storyline_nexus: []
+storyline_nexus:
+  - iran-crisis-2026
+  - trump-administration-2026
 geographic_location: Middle East, Washington D.C.
 floor_values_engaged:
 - value: human_life_and_dignity

@@ -22,7 +22,8 @@ topic_tags:
   - "government policy"
   - politics
   - "international relations"
-storyline_nexus: []
+storyline_nexus:
+  - epstein-investigation
 geographic_location: United Kingdom
 floor_values_engaged:
 - value: truthfulness

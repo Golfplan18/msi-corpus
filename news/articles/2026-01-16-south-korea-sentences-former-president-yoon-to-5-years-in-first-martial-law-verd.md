@@ -21,7 +21,8 @@ topic_tags:
   - "law enforcement"
   - "science and technology"
   - trial
-storyline_nexus: []
+storyline_nexus:
+  - korea-martial-law
 geographic_location: Seoul, South Korea
 floor_values_engaged:
 - value: accountability_of_power

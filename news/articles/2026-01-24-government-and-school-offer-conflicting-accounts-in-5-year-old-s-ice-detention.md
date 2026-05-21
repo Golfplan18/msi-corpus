@@ -22,7 +22,8 @@ topic_tags:
   - school
   - sport
   - "sport event"
-storyline_nexus: []
+storyline_nexus:
+  - ice-enforcement-surge-2026
 geographic_location: United States (Minnesota / Texas)
 floor_values_engaged:
 - value: human_life_and_dignity

@@ -22,7 +22,8 @@ topic_tags:
   - employment
   - labour
   - "labour dispute"
-storyline_nexus: []
+storyline_nexus:
+  - venezuela-crisis
 geographic_location: Havana, Cuba; Venezuela; Latin America
 floor_values_engaged:
 - value: informed_citizenship

@@ -28,7 +28,8 @@ topic_tags:
   - "labour dispute"
   - sport
   - "sport event"
-storyline_nexus: []
+storyline_nexus:
+  - iran-war
 geographic_location: Persian Gulf region
 floor_values_engaged:
 - value: human_life_and_dignity

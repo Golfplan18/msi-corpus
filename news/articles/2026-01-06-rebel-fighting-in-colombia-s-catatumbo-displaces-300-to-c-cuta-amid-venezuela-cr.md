@@ -26,7 +26,8 @@ topic_tags:
   - society
   - "conflict, war and peace"
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - venezuela-crisis
 geographic_location: Cúcuta, Norte de Santander, Colombia
 floor_values_engaged:
 - value: human_life_and_dignity

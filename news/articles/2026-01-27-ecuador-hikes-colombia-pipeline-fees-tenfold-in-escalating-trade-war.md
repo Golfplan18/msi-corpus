@@ -22,7 +22,9 @@ topic_tags:
   - "conflict, war and peace"
   - "economy, business and finance"
   - "international trade"
-storyline_nexus: []
+storyline_nexus:
+  - trump-tariff-policy
+  - us-china-relations
 geographic_location: Colombia-Ecuador border region, Andean South America
 floor_values_engaged:
 - value: accountability_of_power

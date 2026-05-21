@@ -22,7 +22,10 @@ topic_tags:
   - "armed conflict"
   - "conflict, war and peace"
   - "peace process"
-storyline_nexus: []
+storyline_nexus:
+  - us-administration-2026
+  - trump-tariff-policy
+  - us-china-relations
 geographic_location: Colombia; Venezuela
 floor_values_engaged:
 - value: informed_citizenship

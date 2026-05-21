@@ -22,7 +22,10 @@ topic_tags:
   - "higher education"
   - "human interest"
   - "human migration"
-storyline_nexus: []
+storyline_nexus:
+  - immigration-enforcement
+  - us-administration-2026
+  - us-china-relations
 geographic_location: Berkeley, California, United States
 floor_values_engaged:
 - value: informed_citizenship

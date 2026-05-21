@@ -18,7 +18,10 @@ primary_themes:
 topic_tags:
   - "international relations"
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - trump-tariff-policy
+  - venezuela-crisis
+  - us-administration-2026
 geographic_location: West Palm Beach, Florida / Venezuela
 floor_values_engaged:
 - value: informed_citizenship

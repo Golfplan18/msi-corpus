@@ -27,7 +27,8 @@ topic_tags:
   - "political dissent"
   - "science and technology"
   - trial
-storyline_nexus: []
+storyline_nexus:
+  - trump-administration-2026
 geographic_location: 'United States (eight states: Alabama, Arizona, Kentucky, Minnesota, Mississippi, Nevada, New Mexico, Tennessee)'
 floor_values_engaged:
 - value: accountability_of_power

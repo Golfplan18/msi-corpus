@@ -21,7 +21,8 @@ topic_tags:
   - "economy, business and finance"
   - fire
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - trump-fed-independence
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

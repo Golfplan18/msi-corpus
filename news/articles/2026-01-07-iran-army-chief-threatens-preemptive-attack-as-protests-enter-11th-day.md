@@ -19,7 +19,8 @@ topic_tags:
   - "economy, business and finance"
   - education
   - "science and technology"
-storyline_nexus: []
+storyline_nexus:
+  - venezuela-crisis
 geographic_location: Iran
 floor_values_engaged:
 - value: human_life_and_dignity

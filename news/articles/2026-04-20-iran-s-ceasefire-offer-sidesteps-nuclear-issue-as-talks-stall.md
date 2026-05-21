@@ -28,7 +28,8 @@ topic_tags:
   - "conflict, war and peace"
   - "international relations"
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - iran-war
 geographic_location: Iran, United States, Middle East, Russia
 floor_values_engaged:
 - value: truthfulness

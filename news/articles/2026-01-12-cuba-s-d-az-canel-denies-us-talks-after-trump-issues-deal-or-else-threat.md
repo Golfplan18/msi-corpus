@@ -22,7 +22,10 @@ topic_tags:
   - "crime, law and justice"
   - "law enforcement"
   - "conflict, war and peace"
-storyline_nexus: []
+storyline_nexus:
+  - trump-tariff-policy
+  - us-china-relations
+  - gaza-conflict
 geographic_location: Havana, Cuba
 floor_values_engaged:
 - value: informed_citizenship

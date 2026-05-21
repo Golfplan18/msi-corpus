@@ -30,7 +30,10 @@ topic_tags:
   - "crime, law and justice"
   - "human interest"
   - "human migration"
-storyline_nexus: []
+storyline_nexus:
+  - us-administration-2026
+  - immigration-enforcement
+  - us-china-relations
 geographic_location: Minneapolis, Minnesota
 floor_values_engaged:
 - value: accountability_of_power

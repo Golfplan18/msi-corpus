@@ -22,7 +22,8 @@ topic_tags:
   - "crime, law and justice"
   - "disaster, accident and emergency incident"
   - fire
-storyline_nexus: []
+storyline_nexus:
+  - gaza-conflict
 geographic_location: Gaza Strip, Palestinian territories
 floor_values_engaged:
 - value: human_life_and_dignity

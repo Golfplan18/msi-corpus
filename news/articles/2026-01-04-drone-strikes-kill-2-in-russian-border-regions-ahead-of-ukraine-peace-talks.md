@@ -23,7 +23,8 @@ topic_tags:
   - government
   - "international relations"
   - "conflict, war and peace"
-storyline_nexus: []
+storyline_nexus:
+  - russia-ukraine-war
 geographic_location: Belgorod, Russia; Kursk, Russia; Kharkiv, Ukraine; Paris, France
 floor_values_engaged:
 - value: human_life_and_dignity

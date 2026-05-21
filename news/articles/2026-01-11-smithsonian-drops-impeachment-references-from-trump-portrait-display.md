@@ -22,7 +22,10 @@ primary_themes:
 - presidential_history
 topic_tags:
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - us-administration-2026
+  - ai-regulation
+  - trump-tariff-policy
 geographic_location: Washington, D.C.
 floor_values_engaged:
 - value: informed_citizenship

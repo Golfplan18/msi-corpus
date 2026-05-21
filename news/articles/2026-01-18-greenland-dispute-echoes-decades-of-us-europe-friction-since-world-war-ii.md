@@ -23,7 +23,9 @@ topic_tags:
   - "economy, business and finance"
   - "conflict, war and peace"
   - "international trade"
-storyline_nexus: []
+storyline_nexus:
+  - russia-ukraine-war
+  - trump-greenland
 geographic_location: United States, Europe
 floor_values_engaged:
 - value: informed_citizenship

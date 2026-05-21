@@ -15,7 +15,10 @@ primary_themes:
 topic_tags:
   - disaster
   - "disaster, accident and emergency incident"
-storyline_nexus: []
+storyline_nexus:
+  - us-administration-2026
+  - us-china-relations
+  - ai-regulation
 geographic_location: Islamabad, Pakistan
 floor_values_engaged:
 - value: human_life_and_dignity

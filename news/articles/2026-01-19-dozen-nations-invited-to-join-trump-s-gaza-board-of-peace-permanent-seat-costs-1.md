@@ -24,7 +24,9 @@ topic_tags:
   - fire
   - "international relations"
   - "mass media"
-storyline_nexus: []
+storyline_nexus:
+  - gaza-conflict
+  - greenland-annexation
 geographic_location: International / Gaza Strip
 floor_values_engaged:
 - value: informed_citizenship

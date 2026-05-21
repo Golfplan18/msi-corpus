@@ -19,7 +19,9 @@ topic_tags:
   - election
   - government
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - ai-regulation
+  - iran-war
 geographic_location: Baghdad, Iraq
 floor_values_engaged:
 - value: accountability_of_power

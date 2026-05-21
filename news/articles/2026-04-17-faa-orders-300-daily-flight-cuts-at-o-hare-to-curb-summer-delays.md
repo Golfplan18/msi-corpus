@@ -22,7 +22,8 @@ topic_tags:
   - "government policy"
   - "international relations"
   - "lifestyle and leisure"
-storyline_nexus: []
+storyline_nexus:
+  - ai-regulation
 geographic_location: Chicago, Illinois, United States
 floor_values_engaged:
 - value: informed_citizenship

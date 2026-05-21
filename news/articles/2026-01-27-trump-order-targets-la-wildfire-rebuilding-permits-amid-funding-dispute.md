@@ -16,7 +16,8 @@ primary_themes:
 topic_tags:
   - disaster
   - "disaster, accident and emergency incident"
-storyline_nexus: []
+storyline_nexus:
+  - trump-administration-2026
 geographic_location: California, United States
 floor_values_engaged:
 - value: accountability_of_power

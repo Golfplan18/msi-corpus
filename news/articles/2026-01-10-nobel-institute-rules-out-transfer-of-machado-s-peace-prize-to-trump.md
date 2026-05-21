@@ -16,7 +16,10 @@ primary_themes:
 - U.S. foreign policy
 - Maduro capture
 topic_tags: []
-storyline_nexus: []
+storyline_nexus:
+  - trump-tariff-policy
+  - venezuela-crisis
+  - iran-war
 geographic_location: Oslo, Norway / Washington, D.C. / Venezuela
 floor_values_engaged:
 - value: informed_citizenship

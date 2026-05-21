@@ -21,7 +21,8 @@ topic_tags:
   - "human migration"
   - "law enforcement"
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - ice-enforcement-surge-2026
 geographic_location: Minneapolis, Minnesota, United States
 floor_values_engaged:
 - value: human_life_and_dignity

@@ -21,7 +21,8 @@ topic_tags:
   - "government policy"
   - "international trade"
   - "science and technology"
-storyline_nexus: []
+storyline_nexus:
+  - trump-tariff-policy
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship

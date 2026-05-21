@@ -22,7 +22,8 @@ topic_tags:
   - "economy, business and finance"
   - "energy and resource"
   - government
-storyline_nexus: []
+storyline_nexus:
+  - russia-ukraine-war
 geographic_location: North Atlantic; Moscow; Washington
 floor_values_engaged:
 - value: informed_citizenship

@@ -25,7 +25,8 @@ topic_tags:
   - "international relations"
   - politics
   - prosecution
-storyline_nexus: []
+storyline_nexus:
+  - venezuela-crisis
 geographic_location: Manhattan, New York; Caracas, Venezuela
 floor_values_engaged:
 - value: accountability_of_power

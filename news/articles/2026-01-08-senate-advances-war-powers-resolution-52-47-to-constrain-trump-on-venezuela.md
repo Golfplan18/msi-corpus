@@ -26,7 +26,10 @@ primary_themes:
 topic_tags:
   - politics
   - "conflict, war and peace"
-storyline_nexus: []
+storyline_nexus:
+  - venezuela-crisis
+  - greenland-annexation
+  - trump-immigration-crackdown
 geographic_location: Washington, D.C.
 floor_values_engaged:
 - value: accountability_of_power

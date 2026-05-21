@@ -23,7 +23,10 @@ topic_tags:
   - "government policy"
   - "law enforcement"
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - monetary-policy-2026
+  - immigration-enforcement
+  - ces-2026
 geographic_location: Washington, D.C.
 floor_values_engaged:
 - value: accountability_of_power

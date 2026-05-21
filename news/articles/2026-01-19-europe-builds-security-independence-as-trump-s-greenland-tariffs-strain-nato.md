@@ -35,7 +35,8 @@ topic_tags:
   - government
   - "government policy"
   - "international trade"
-storyline_nexus: []
+storyline_nexus:
+  - trump-greenland
 geographic_location: Brussels/Europe/International
 floor_values_engaged:
 - value: informed_citizenship

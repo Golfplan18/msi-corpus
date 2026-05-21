@@ -20,7 +20,10 @@ topic_tags:
   - "artificial intelligence"
   - "lifestyle and leisure"
   - "science and technology"
-storyline_nexus: []
+storyline_nexus:
+  - us-administration-2026
+  - monetary-policy-2026
+  - ces-2026
 geographic_location: Milan, Italy
 floor_values_engaged:
 - value: informed_citizenship

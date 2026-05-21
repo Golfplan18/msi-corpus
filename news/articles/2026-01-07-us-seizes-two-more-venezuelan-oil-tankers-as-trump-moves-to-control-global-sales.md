@@ -24,7 +24,8 @@ primary_themes:
 topic_tags:
   - "economy, business and finance"
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - venezuela-crisis
 geographic_location: Venezuela, North Atlantic, Caribbean Sea
 floor_values_engaged:
 - value: informed_citizenship

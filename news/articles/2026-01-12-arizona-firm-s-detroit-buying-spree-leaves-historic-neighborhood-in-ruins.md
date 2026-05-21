@@ -17,7 +17,8 @@ primary_themes:
 - tenant_harm
 - municipal_blight
 topic_tags: []
-storyline_nexus: []
+storyline_nexus:
+  - ai-regulation
 geographic_location: Palmer Park, Detroit, Michigan
 floor_values_engaged:
 - value: human_life_and_dignity

@@ -23,7 +23,8 @@ topic_tags:
   - government
   - "government policy"
   - "peace process"
-storyline_nexus: []
+storyline_nexus:
+  - venezuela-crisis
 geographic_location: Washington, D.C. / Venezuela
 floor_values_engaged:
 - value: informed_citizenship

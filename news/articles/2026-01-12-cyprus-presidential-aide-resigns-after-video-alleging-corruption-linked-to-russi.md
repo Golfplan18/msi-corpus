@@ -17,7 +17,10 @@ primary_themes:
 topic_tags:
   - "conflict, war and peace"
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - us-administration-2026
+  - us-china-relations
+  - russia-ukraine-war
 geographic_location: Nicosia, Cyprus
 floor_values_engaged:
 - value: accountability_of_power

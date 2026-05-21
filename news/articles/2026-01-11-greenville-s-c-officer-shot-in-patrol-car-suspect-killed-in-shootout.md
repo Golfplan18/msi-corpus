@@ -20,7 +20,10 @@ topic_tags:
   - "crime, law and justice"
   - "economy, business and finance"
   - health
-storyline_nexus: []
+storyline_nexus:
+  - immigration-enforcement
+  - gaza-conflict
+  - iran-war
 geographic_location: Greenville, South Carolina
 floor_values_engaged:
 - value: informed_citizenship

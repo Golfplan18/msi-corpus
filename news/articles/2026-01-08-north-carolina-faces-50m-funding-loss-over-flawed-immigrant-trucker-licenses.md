@@ -26,7 +26,8 @@ topic_tags:
   - politics
   - "government policy"
   - "human interest"
-storyline_nexus: []
+storyline_nexus:
+  - trump-immigration-crackdown
 geographic_location: North Carolina, United States
 floor_values_engaged:
 - value: informed_citizenship

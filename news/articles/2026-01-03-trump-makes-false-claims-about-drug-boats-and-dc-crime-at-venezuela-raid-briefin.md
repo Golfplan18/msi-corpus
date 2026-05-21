@@ -23,7 +23,8 @@ topic_tags:
   - government
   - "government policy"
   - labour
-storyline_nexus: []
+storyline_nexus:
+  - venezuela-crisis
 geographic_location: United States
 floor_values_engaged:
 - value: truthfulness

@@ -28,7 +28,10 @@ topic_tags:
   - "government policy"
   - labour
   - "labour dispute"
-storyline_nexus: []
+storyline_nexus:
+  - russia-ukraine-war
+  - us-administration-2026
+  - ai-regulation
 geographic_location: Prague, Czech Republic
 floor_values_engaged:
 - value: informed_citizenship

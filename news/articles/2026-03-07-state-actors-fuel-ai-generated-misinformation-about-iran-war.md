@@ -22,7 +22,9 @@ primary_themes:
 topic_tags:
   - "armed conflict"
   - "conflict, war and peace"
-storyline_nexus: []
+storyline_nexus:
+  - iran-war
+  - ai-regulation
 geographic_location: International
 floor_values_engaged:
 - value: informed_citizenship

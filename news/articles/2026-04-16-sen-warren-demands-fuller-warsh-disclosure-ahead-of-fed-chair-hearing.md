@@ -22,7 +22,8 @@ topic_tags:
   - banking
   - "economy, business and finance"
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - ai-regulation
 geographic_location: Washington, D.C.
 floor_values_engaged:
 - value: accountability_of_power

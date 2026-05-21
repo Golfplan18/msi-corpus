@@ -19,7 +19,8 @@ primary_themes:
 topic_tags:
   - "international relations"
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - ai-regulation
 geographic_location: Washington, D.C.
 floor_values_engaged:
 - value: informed_citizenship

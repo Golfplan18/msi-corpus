@@ -20,7 +20,9 @@ primary_themes:
 topic_tags:
   - society
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - trump-administration-2026
+  - venezuela-crisis
 geographic_location: Venezuela
 floor_values_engaged:
 - value: human_life_and_dignity

@@ -18,7 +18,10 @@ topic_tags:
   - crime
   - "crime, law and justice"
   - "law enforcement"
-storyline_nexus: []
+storyline_nexus:
+  - immigration-enforcement
+  - us-administration-2026
+  - us-china-relations
 geographic_location: Minneapolis, Minnesota
 floor_values_engaged:
 - value: informed_citizenship

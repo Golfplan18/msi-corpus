@@ -22,7 +22,8 @@ topic_tags:
   - "international trade"
   - "law enforcement"
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - immigration-enforcement
 geographic_location: Minnesota, United States
 floor_values_engaged:
 - value: accountability_of_power

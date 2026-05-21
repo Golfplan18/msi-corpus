@@ -18,7 +18,8 @@ primary_themes:
 - domestic military deployment
 topic_tags:
   - "conflict, war and peace"
-storyline_nexus: []
+storyline_nexus:
+  - minneapolis-immigration
 geographic_location: Minneapolis, Minnesota, United States
 floor_values_engaged:
 - value: accountability_of_power

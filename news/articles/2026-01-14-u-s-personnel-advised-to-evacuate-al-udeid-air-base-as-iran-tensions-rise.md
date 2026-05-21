@@ -24,7 +24,8 @@ topic_tags:
   - labour
   - "labour dispute"
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - iran-crisis-2026
 geographic_location: Al Udeid Air Base, Qatar
 floor_values_engaged:
 - value: informed_citizenship

@@ -24,7 +24,9 @@ topic_tags:
   - "climate change"
   - "conflict, war and peace"
   - environment
-storyline_nexus: []
+storyline_nexus:
+  - iran-war
+  - ai-regulation
 geographic_location: International
 floor_values_engaged:
 - value: informed_citizenship

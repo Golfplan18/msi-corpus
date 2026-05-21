@@ -32,7 +32,9 @@ topic_tags:
   - "international trade"
   - labour
   - "labour dispute"
-storyline_nexus: []
+storyline_nexus:
+  - trump-greenland
+  - trump-fed-independence
 geographic_location: International — Copenhagen, Denmark; Norway; Sweden; France; Germany; United Kingdom; Netherlands; Finland
 floor_values_engaged:
 - value: informed_citizenship

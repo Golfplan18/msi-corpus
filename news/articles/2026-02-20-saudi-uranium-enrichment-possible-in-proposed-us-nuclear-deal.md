@@ -26,7 +26,9 @@ topic_tags:
   - politics
   - "science and technology"
   - "technology and engineering"
-storyline_nexus: []
+storyline_nexus:
+  - iran-crisis-2026
+  - trump-administration-2026
 geographic_location: Saudi Arabia, United States, Iran, Pakistan, United Arab Emirates, Vienna
 floor_values_engaged:
 - value: accountability_of_power

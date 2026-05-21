@@ -20,7 +20,10 @@ primary_themes:
 topic_tags:
   - "armed conflict"
   - "conflict, war and peace"
-storyline_nexus: []
+storyline_nexus:
+  - trump-tariff-policy
+  - us-china-relations
+  - us-administration-2026
 geographic_location: Copenhagen, Denmark; Washington, D.C.; Greenland
 floor_values_engaged:
 - value: informed_citizenship

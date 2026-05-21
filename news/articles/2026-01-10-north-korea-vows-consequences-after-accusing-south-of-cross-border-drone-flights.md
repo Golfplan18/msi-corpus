@@ -21,7 +21,10 @@ topic_tags:
   - "economy, business and finance"
   - "international relations"
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - us-china-relations
+  - gaza-conflict
+  - iran-war
 geographic_location: Korean Peninsula
 floor_values_engaged:
 - value: informed_citizenship

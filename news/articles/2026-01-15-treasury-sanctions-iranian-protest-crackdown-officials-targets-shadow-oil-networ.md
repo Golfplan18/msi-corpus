@@ -25,7 +25,8 @@ topic_tags:
   - government
   - "government policy"
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - iran-crisis-2026
 geographic_location: Washington, D.C. / Iran
 floor_values_engaged:
 - value: informed_citizenship

@@ -17,7 +17,8 @@ primary_themes:
 - Austria
 topic_tags:
   - "disaster, accident and emergency incident"
-storyline_nexus: []
+storyline_nexus:
+  - minneapolis-immigration
 geographic_location: Austria
 floor_values_engaged:
 - value: human_life_and_dignity

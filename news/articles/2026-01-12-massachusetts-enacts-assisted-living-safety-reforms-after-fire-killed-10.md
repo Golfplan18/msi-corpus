@@ -21,7 +21,10 @@ primary_themes:
 topic_tags:
   - "disaster, accident and emergency incident"
   - fire
-storyline_nexus: []
+storyline_nexus:
+  - us-administration-2026
+  - us-china-relations
+  - ai-regulation
 geographic_location: Fall River, Massachusetts, United States
 floor_values_engaged:
 - value: human_life_and_dignity

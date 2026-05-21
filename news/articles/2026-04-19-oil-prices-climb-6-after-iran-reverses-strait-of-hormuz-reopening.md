@@ -19,7 +19,8 @@ topic_tags:
   - "conflict, war and peace"
   - "economy, business and finance"
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - iran-war
 geographic_location: Strait of Hormuz; global impact
 floor_values_engaged:
 - value: truthfulness

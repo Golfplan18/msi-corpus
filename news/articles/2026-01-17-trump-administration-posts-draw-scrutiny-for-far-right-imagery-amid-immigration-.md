@@ -22,7 +22,8 @@ primary_themes:
 topic_tags:
   - government
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - minneapolis-immigration
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

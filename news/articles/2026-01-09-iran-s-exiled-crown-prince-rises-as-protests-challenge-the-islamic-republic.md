@@ -26,7 +26,10 @@ topic_tags:
   - "conflict, war and peace"
   - environment
   - "science and technology"
-storyline_nexus: []
+storyline_nexus:
+  - iran-war
+  - gaza-conflict
+  - russia-ukraine-war
 geographic_location: Iran
 floor_values_engaged:
 - value: informed_citizenship

@@ -19,7 +19,8 @@ topic_tags:
   - "crime, law and justice"
   - judiciary
   - "law enforcement"
-storyline_nexus: []
+storyline_nexus:
+  - ice-enforcement-surge-2026
 geographic_location: New York City, New York, United States
 floor_values_engaged:
 - value: human_life_and_dignity

@@ -21,7 +21,10 @@ topic_tags:
   - "human migration"
   - "law enforcement"
   - music
-storyline_nexus: []
+storyline_nexus:
+  - us-administration-2026
+  - us-china-relations
+  - immigration-enforcement
 geographic_location: Milan, Italy
 floor_values_engaged:
 - value: human_life_and_dignity

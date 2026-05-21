@@ -23,7 +23,10 @@ topic_tags:
   - "civil rights"
   - "crime, law and justice"
   - religion
-storyline_nexus: []
+storyline_nexus:
+  - us-administration-2026
+  - ai-regulation
+  - us-china-relations
 geographic_location: Jackson, Mississippi, United States
 floor_values_engaged:
 - value: human_life_and_dignity

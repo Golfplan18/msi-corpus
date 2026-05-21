@@ -22,7 +22,8 @@ primary_themes:
 topic_tags:
   - "conflict, war and peace"
   - "economy, business and finance"
-storyline_nexus: []
+storyline_nexus:
+  - venezuela-crisis
 geographic_location: Venezuela / United States
 floor_values_engaged:
 - value: informed_citizenship

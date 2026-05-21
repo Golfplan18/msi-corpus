@@ -24,7 +24,8 @@ topic_tags:
   - politics
   - government
   - "international relations"
-storyline_nexus: []
+storyline_nexus:
+  - trump-greenland
 geographic_location: Washington, D.C. / Copenhagen, Denmark / Greenland
 floor_values_engaged:
 - value: informed_citizenship

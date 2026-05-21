@@ -26,7 +26,10 @@ topic_tags:
   - "disaster, accident and emergency incident"
   - "economy, business and finance"
   - environment
-storyline_nexus: []
+storyline_nexus:
+  - russia-ukraine-war
+  - us-administration-2026
+  - ai-regulation
 geographic_location: Volgograd, Russia; Kyiv, Ukraine
 floor_values_engaged:
 - value: human_life_and_dignity

@@ -17,7 +17,8 @@ topic_tags:
   - "conflict, war and peace"
   - government
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - russia-ukraine-war
 geographic_location: Ukraine, Russia, United States, United Arab Emirates
 floor_values_engaged:
 - value: accountability_of_power

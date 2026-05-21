@@ -32,7 +32,9 @@ topic_tags:
   - "crime, law and justice"
   - "mass media"
   - "religion"
-storyline_nexus: []
+storyline_nexus:
+  - trump-administration-2026
+  - trump-immigration-crackdown
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

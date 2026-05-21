@@ -19,7 +19,10 @@ topic_tags:
   - election
   - environment
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - trump-tariff-policy
+  - gaza-conflict
+  - iran-war
 geographic_location: Fort Lauderdale, Florida, United States
 floor_values_engaged:
 - value: informed_citizenship

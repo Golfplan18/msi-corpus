@@ -22,7 +22,10 @@ topic_tags:
   - "conflict, war and peace"
   - election
   - politics
-storyline_nexus: []
+storyline_nexus:
+  - us-administration-2026
+  - gaza-conflict
+  - iran-war
 geographic_location: Manatee County, Florida, United States
 floor_values_engaged:
 - value: informed_citizenship

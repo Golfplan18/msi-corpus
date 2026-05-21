@@ -19,7 +19,8 @@ primary_themes:
 topic_tags:
   - politics
   - election
-storyline_nexus: []
+storyline_nexus:
+  - trump-administration-2026
 geographic_location: New York, United States
 floor_values_engaged:
 - value: informed_citizenship

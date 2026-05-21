@@ -21,7 +21,10 @@ topic_tags:
   - "conflict, war and peace"
   - education
   - "higher education"
-storyline_nexus: []
+storyline_nexus:
+  - gaza-conflict
+  - iran-war
+  - russia-ukraine-war
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship

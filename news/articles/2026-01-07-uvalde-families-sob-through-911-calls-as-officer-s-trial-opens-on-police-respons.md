@@ -26,7 +26,8 @@ topic_tags:
   - education
   - government
   - "government policy"
-storyline_nexus: []
+storyline_nexus:
+  - trump-immigration-crackdown
 geographic_location: Corpus Christi, Texas, United States
 floor_values_engaged:
 - value: human_life_and_dignity

@@ -24,7 +24,9 @@ topic_tags:
   - government
   - "government policy"
   - "international trade"
-storyline_nexus: []
+storyline_nexus:
+  - trump-tariff-policy
+  - trump-greenland-acquisition
 geographic_location: Colombia; Ecuador; South America
 floor_values_engaged:
 - value: informed_citizenship

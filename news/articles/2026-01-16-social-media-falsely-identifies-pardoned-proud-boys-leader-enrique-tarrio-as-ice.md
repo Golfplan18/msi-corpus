@@ -23,7 +23,8 @@ topic_tags:
   - "government policy"
   - crime
   - "crime, law and justice"
-storyline_nexus: []
+storyline_nexus:
+  - minneapolis-immigration
 geographic_location: United States
 floor_values_engaged:
 - value: truthfulness

@@ -24,7 +24,10 @@ topic_tags:
   - "conflict, war and peace"
   - "economy, business and finance"
   - "international trade"
-storyline_nexus: []
+storyline_nexus:
+  - us-administration-2026
+  - gaza-conflict
+  - iran-war
 geographic_location: Michigan, United States
 floor_values_engaged:
 - value: informed_citizenship

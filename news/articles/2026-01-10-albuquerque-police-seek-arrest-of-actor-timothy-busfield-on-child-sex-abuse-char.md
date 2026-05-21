@@ -21,7 +21,10 @@ primary_themes:
 topic_tags:
   - "crime, law and justice"
   - "law enforcement"
-storyline_nexus: []
+storyline_nexus:
+  - iran-war
+  - russia-ukraine-war
+  - us-administration-2026
 geographic_location: Albuquerque, New Mexico, United States
 floor_values_engaged:
 - value: human_life_and_dignity

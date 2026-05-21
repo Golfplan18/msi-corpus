@@ -22,7 +22,8 @@ primary_themes:
 - Monroe Doctrine
 topic_tags:
   - "conflict, war and peace"
-storyline_nexus: []
+storyline_nexus:
+  - ai-regulation
 geographic_location: Doral, Florida; Latin America; Middle East
 floor_values_engaged:
 - value: informed_citizenship

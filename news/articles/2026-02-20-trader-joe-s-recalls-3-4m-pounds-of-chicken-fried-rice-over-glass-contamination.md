@@ -14,7 +14,9 @@ primary_themes:
 topic_tags:
   - agriculture
   - "economy, business and finance"
-storyline_nexus: []
+storyline_nexus:
+  - immigration-enforcement
+  - us-china-relations
 geographic_location: United States, Canada
 floor_values_engaged:
 - value: human_life_and_dignity

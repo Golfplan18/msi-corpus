@@ -25,7 +25,10 @@ topic_tags:
   - "economy, business and finance"
   - "energy and resource"
   - "peace process"
-storyline_nexus: []
+storyline_nexus:
+  - russia-ukraine-war
+  - us-administration-2026
+  - us-china-relations
 geographic_location: Voronezh, Russia; Kyiv, Ukraine; Caspian Sea
 floor_values_engaged:
 - value: human_life_and_dignity

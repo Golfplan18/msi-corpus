@@ -21,7 +21,10 @@ topic_tags:
   - banking
   - "conflict, war and peace"
   - "economy, business and finance"
-storyline_nexus: []
+storyline_nexus:
+  - gaza-conflict
+  - iran-war
+  - russia-ukraine-war
 geographic_location: West Bank, Palestinian Territories
 floor_values_engaged:
 - value: human_life_and_dignity

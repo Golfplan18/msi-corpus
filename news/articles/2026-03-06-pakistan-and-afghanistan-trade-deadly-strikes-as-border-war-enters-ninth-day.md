@@ -25,7 +25,8 @@ topic_tags:
   - "conflict, war and peace"
   - "economy, business and finance"
   - "international trade"
-storyline_nexus: []
+storyline_nexus:
+  - us-china-relations
 geographic_location: Pakistan-Afghanistan border region
 floor_values_engaged:
 - value: human_life_and_dignity

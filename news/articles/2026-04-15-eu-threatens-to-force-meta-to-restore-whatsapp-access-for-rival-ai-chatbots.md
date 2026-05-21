@@ -18,7 +18,8 @@ topic_tags:
   - "artificial intelligence"
   - politics
   - "science and technology"
-storyline_nexus: []
+storyline_nexus:
+  - ai-regulation
 geographic_location: Brussels, Belgium / European Union
 floor_values_engaged:
 - value: accountability_of_power

@@ -20,7 +20,8 @@ topic_tags:
   - "human migration"
   - "international relations"
   - "natural disaster"
-storyline_nexus: []
+storyline_nexus:
+  - wildfire-season-2026
 geographic_location: Northeast Florida (Putnam and Clay counties)
 floor_values_engaged:
 - value: informed_citizenship
