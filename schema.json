@@ -1,0 +1,288 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/Golfplan18/msi-corpus/schema.json",
+  "title": "Main Street Independent Corpus Schema",
+  "description": "JSON Schema (draft 2020-12) for every record type in the msi-corpus JSONL indexes.",
+  "$defs": {
+    "ClaimsAggregate": {
+      "type": "object",
+      "description": "Aggregate counts of atomic claims for one document.",
+      "properties": {
+        "count": { "type": "integer", "minimum": 0 },
+        "hedges": {
+          "type": "object",
+          "properties": {
+            "confirmed":  { "type": "integer", "minimum": 0 },
+            "attributed": { "type": "integer", "minimum": 0 },
+            "alleged":    { "type": "integer", "minimum": 0 },
+            "reported":   { "type": "integer", "minimum": 0 },
+            "appears":    { "type": "integer", "minimum": 0 },
+            "contested":  { "type": "integer", "minimum": 0 }
+          },
+          "additionalProperties": false
+        },
+        "corroboration": {
+          "type": "object",
+          "properties": {
+            "single_source":                      { "type": "integer", "minimum": 0 },
+            "two_independent":                    { "type": "integer", "minimum": 0 },
+            "primary_document":                   { "type": "integer", "minimum": 0 },
+            "primary_plus_secondary":             { "type": "integer", "minimum": 0 },
+            "one_originating_plus_primary_document": { "type": "integer", "minimum": 0 }
+          },
+          "additionalProperties": false
+        }
+      },
+      "required": ["count"]
+    },
+    "SourcesAggregate": {
+      "type": "object",
+      "description": "Aggregate source-quality fields for one document.",
+      "properties": {
+        "count":                    { "type": "integer", "minimum": 0 },
+        "outlets":                  { "type": "array", "items": { "type": "string" } },
+        "outlet_classes":           { "type": "array", "items": { "type": "string" } },
+        "highest_reliability_tier": { "type": ["integer", "null"], "minimum": 1, "maximum": 5 },
+        "has_originating":          { "type": "boolean" },
+        "has_primary_document":     { "type": "boolean" }
+      },
+      "required": ["count"]
+    },
+    "FiguresAggregate": {
+      "type": "object",
+      "properties": {
+        "count":      { "type": "integer", "minimum": 0 },
+        "series_ids": { "type": "array", "items": { "type": "string" } },
+        "sources":    { "type": "array", "items": { "type": "string" } }
+      },
+      "required": ["count"]
+    },
+    "FloorValue": {
+      "type": "object",
+      "properties": {
+        "value": {
+          "type": "string",
+          "enum": [
+            "human_life_and_dignity",
+            "truthfulness",
+            "accountability_of_power",
+            "equality_fairness",
+            "informed_citizenship"
+          ]
+        },
+        "intensity": { "type": "number", "minimum": 0, "maximum": 1 }
+      },
+      "required": ["value"]
+    },
+    "CrossArticleLink": {
+      "type": "object",
+      "properties": {
+        "slug":       { "type": "string" },
+        "relation": {
+          "type": "string",
+          "enum": ["continues", "related", "supersedes", "contradicts", "extends", "qualifies"]
+        },
+        "strength":   { "type": "number", "minimum": 0, "maximum": 1 },
+        "confidence": { "type": "string", "enum": ["high", "medium", "low"] },
+        "claim_id":   { "type": "string" }
+      },
+      "required": ["slug", "relation"]
+    },
+    "Article": {
+      "type": "object",
+      "description": "One row in news/index.jsonl. Filter fields only; no body text.",
+      "properties": {
+        "slug":               { "type": "string" },
+        "headline":           { "type": "string" },
+        "publish_date":       { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$" },
+        "publish_year":       { "type": ["integer", "null"] },
+        "publish_month":      { "type": ["string", "null"] },
+        "primary_entities":   { "type": "array", "items": { "type": "string" } },
+        "primary_themes":     { "type": "array", "items": { "type": "string" } },
+        "topic_tags":         { "type": "array", "items": { "type": "string" } },
+        "storyline_nexus":    { "type": "array", "items": { "type": "string" } },
+        "geographic_location": { "type": ["string", "null"] },
+        "floor_values_engaged": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/FloorValue" }
+        },
+        "claims":   { "$ref": "#/$defs/ClaimsAggregate" },
+        "sources":  { "$ref": "#/$defs/SourcesAggregate" },
+        "figures":  { "$ref": "#/$defs/FiguresAggregate" },
+        "framework_version": { "type": "string" },
+        "ai_generated":      { "type": "boolean" },
+        "image_source": {
+          "type": ["string", "null"],
+          "enum": [
+            "ai_generated", "stock_unsplash", "stock_pexels",
+            "wikimedia_commons", "public_domain", "cc_licensed",
+            "press_release_licensed", "commissioned", "placeholder", null, ""
+          ]
+        },
+        "license":  { "type": "string" },
+        "url":      { "type": "string", "format": "uri" },
+        "cross_article_links": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/CrossArticleLink" }
+        }
+      },
+      "required": ["slug", "headline", "publish_date", "ai_generated", "license", "url"]
+    },
+    "Column": {
+      "type": "object",
+      "description": "One row in opinion/index.jsonl.",
+      "allOf": [{ "$ref": "#/$defs/Article" }],
+      "properties": {
+        "pen_name": {
+          "type": "string",
+          "enum": [
+            "mary-magdalena", "malcolm-little-king", "joanna-rivera-blackwell",
+            "diklis-chump", "mark-paulson", "ashley-wagner",
+            "james-big-jim-zebedee", "thomas-reynolds", "hayzeus-l-salvador",
+            "stewart-letterkenski", "prudence-wonk", "phukher-tarlson",
+            "hector-rentier", "editorial-board"
+          ]
+        },
+        "parody":         { "type": "boolean" },
+        "parody_subject": { "type": ["string", "null"] }
+      },
+      "required": ["pen_name"]
+    },
+    "Claim": {
+      "type": "object",
+      "description": "One atomic claim row in claims.jsonl. Parent-anchored and RAG-ready.",
+      "properties": {
+        "claim_id":         { "type": "string", "description": "{parent_slug}/c_NNN" },
+        "parent_slug":      { "type": "string" },
+        "parent_publish_date": { "type": "string" },
+        "parent_url":       { "type": "string" },
+        "text":             { "type": "string" },
+        "subject_entities": { "type": "array", "items": { "type": "string" } },
+        "predicate":        { "type": "string" },
+        "object": {
+          "type": "object",
+          "properties": {
+            "value": { "type": "string" },
+            "type":  { "type": "string" }
+          },
+          "required": ["value"]
+        },
+        "temporal":         { "type": ["string", "null"] },
+        "source_ids":       { "type": "array", "items": { "type": "string" } },
+        "hedge": {
+          "type": "string",
+          "enum": ["confirmed", "attributed", "alleged", "reported", "appears", "contested"]
+        },
+        "corroboration_level": {
+          "type": "string",
+          "enum": [
+            "single_source", "two_independent", "primary_document",
+            "primary_plus_secondary", "one_originating_plus_primary_document"
+          ]
+        },
+        "source_outlets":              { "type": "array", "items": { "type": "string" } },
+        "source_outlet_classes":        { "type": "array", "items": { "type": "string" } },
+        "highest_source_reliability_tier": { "type": ["integer", "null"], "minimum": 1, "maximum": 5 },
+        "parent_topic_tags":           { "type": "array", "items": { "type": "string" } },
+        "parent_storyline_nexus":      { "type": "array", "items": { "type": "string" } }
+      },
+      "required": ["claim_id", "parent_slug", "text", "hedge", "corroboration_level"]
+    },
+    "Source": {
+      "type": "object",
+      "description": "One source citation row in sources.jsonl.",
+      "properties": {
+        "source_id":    { "type": "string", "description": "{parent_slug}/src_NNN" },
+        "parent_slug":  { "type": "string" },
+        "parent_publish_date": { "type": ["string", "null"] },
+        "outlet":       { "type": "string" },
+        "outlet_class": {
+          "type": "string",
+          "enum": [
+            "wire", "national_daily", "regional", "trade", "primary_document",
+            "government_release", "court_filing", "peer_reviewed",
+            "press_release", "social_media", "other"
+          ]
+        },
+        "reliability_tier": { "type": "integer", "minimum": 1, "maximum": 5 },
+        "originating_or_republishing": {
+          "type": "string",
+          "enum": ["originating", "republishing"]
+        },
+        "author":           { "type": ["string", "null"] },
+        "publication_date": { "type": ["string", "null"] },
+        "access_date":      { "type": ["string", "null"] },
+        "title":            { "type": ["string", "null"] },
+        "url":              { "type": ["string", "null"] }
+      },
+      "required": ["source_id", "parent_slug", "outlet", "outlet_class", "reliability_tier"]
+    },
+    "EntityAggregate": {
+      "type": "object",
+      "description": "One row in entities.jsonl. One row per unique primary_entity across the corpus.",
+      "properties": {
+        "entity":        { "type": "string" },
+        "article_count": { "type": "integer", "minimum": 1 },
+        "first_seen":    { "type": ["string", "null"] },
+        "last_seen":     { "type": ["string", "null"] },
+        "articles":      { "type": "array", "items": { "type": "string" } }
+      },
+      "required": ["entity", "article_count"]
+    },
+    "TopicAggregate": {
+      "type": "object",
+      "description": "One row in topics.jsonl. One row per unique topic_tag (IPTC vocabulary).",
+      "properties": {
+        "topic_tag":     { "type": "string" },
+        "article_count": { "type": "integer", "minimum": 1 },
+        "first_seen":    { "type": ["string", "null"] },
+        "last_seen":     { "type": ["string", "null"] },
+        "articles":      { "type": "array", "items": { "type": "string" } }
+      },
+      "required": ["topic_tag", "article_count"]
+    },
+    "StorylineAggregate": {
+      "type": "object",
+      "description": "One row in storylines.jsonl. One row per active storyline_nexus slug.",
+      "properties": {
+        "slug":          { "type": "string" },
+        "article_count": { "type": "integer", "minimum": 1 },
+        "first_seen":    { "type": ["string", "null"] },
+        "last_seen":     { "type": ["string", "null"] },
+        "articles":      { "type": "array", "items": { "type": "string" } }
+      },
+      "required": ["slug", "article_count"]
+    },
+    "Figure": {
+      "type": "object",
+      "description": "One row in figures.jsonl. One row per chart series_id across the corpus.",
+      "properties": {
+        "series_id":     { "type": "string" },
+        "article_count": { "type": "integer", "minimum": 1 },
+        "sources":       { "type": "array", "items": { "type": "string" } },
+        "articles":      { "type": "array", "items": { "type": "string" } }
+      },
+      "required": ["series_id", "article_count"]
+    },
+    "PenName": {
+      "type": "object",
+      "description": "One row in opinion/pen_names.jsonl. One row per heteronym.",
+      "properties": {
+        "pen_name": {
+          "type": "string",
+          "enum": [
+            "mary-magdalena", "malcolm-little-king", "joanna-rivera-blackwell",
+            "diklis-chump", "mark-paulson", "ashley-wagner",
+            "james-big-jim-zebedee", "thomas-reynolds", "hayzeus-l-salvador",
+            "stewart-letterkenski", "prudence-wonk", "phukher-tarlson",
+            "hector-rentier", "editorial-board"
+          ]
+        },
+        "column_count":   { "type": "integer", "minimum": 0 },
+        "topic_coverage": { "type": "array", "items": { "type": "string" } },
+        "columns":        { "type": "array", "items": { "type": "string" } }
+      },
+      "required": ["pen_name", "column_count"]
+    }
+  }
+}

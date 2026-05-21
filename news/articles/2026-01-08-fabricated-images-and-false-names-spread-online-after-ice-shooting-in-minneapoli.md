@@ -1,0 +1,225 @@
+---
+headline: Fabricated images and false names spread online after ICE shooting in Minneapolis
+slug: 2026-01-08-fabricated-images-and-false-names-spread-online-after-ice-shooting-in-minneapolis
+publish_date: '2026-01-08'
+lede: Fabricated and misrepresented images spread widely on social media in the hours after Renee Good, a 37-year-old Minneapolis mother of three, was fatally shot by an Immigration and Customs Enforcement officer Wednesday, the Associated Press reported Thursday. The wave of false content included AI-generated images purporting to show the masked officer's face, photographs of unrelated women falsely identified as Good, a tattoo image from a video posted two days before the shooting, and a misrepresented clip of Florida's governor.
+nut_graf: A digital forensics expert said AI tools cannot reliably reconstruct a face when half of it is obscured, discrediting the fabricated images. The officer's identity — Jonathan Ross, according to AP reporting based on documents from a separate Minnesota case — was further obscured by a disinformation campaign falsely naming an unrelated person, prompting the Minnesota Star Tribune to publicly deny any connection to its staff.
+primary_entities:
+- Renee Good
+- Jonathan Ross
+- Hany Farid
+- U.S. Immigration and Customs Enforcement
+- Minnesota Star Tribune
+- Renee Paquette
+primary_themes:
+- misinformation
+- social media
+- immigration enforcement
+- fact-checking
+- AI-generated content
+topic_tags:
+  - "crime, law and justice"
+  - "human interest"
+  - "law enforcement"
+storyline_nexus: []
+geographic_location: Minneapolis, Minnesota
+floor_values_engaged:
+- value: informed_citizenship
+  intensity: 0.9
+- value: truthfulness
+  intensity: 0.9
+- value: human_life_and_dignity
+  intensity: 0.6
+framework_version: 1.1.0
+generation_timestamp: '2026-05-16T19:48:21Z'
+source_cluster_id: cluster_ap_2026-01-07_fact-check-minneapolis-minnesota-ice-sho
+gdelt_event_ids: []
+consensus_floor_version: current
+publication_mindspec_version: current
+license: https://creativecommons.org/publicdomain/zero/1.0/
+ai_generated: true
+claims:
+  count: 11
+  hedges:
+    appears: 0
+    alleged: 0
+    attributed: 7
+    reported: 0
+    contested: 0
+    confirmed: 4
+  corroboration:
+    primary_plus_secondary: 0
+    one_originating_plus_primary_document: 0
+    primary_document: 4
+    single_source: 7
+    two_independent: 0
+sources:
+  count: 1
+  outlets:
+  - Associated Press
+  outlet_classes:
+  - wire
+  highest_reliability_tier: 1
+  has_originating: true
+  has_primary_document: false
+figures_aggregate:
+  count: 0
+  series_ids: []
+  sources: []
+image:
+  url: /articles/2026-01-08-fabricated-images-and-false-names-spread-online-after-ice-shooting-in-minneapoli.png
+  alt: 'Illustration accompanying article: Fabricated images and false names spread online after ICE shooting in Minneapolis'
+  source: ai_generated
+cross_article_links: []
+draft: false
+---
+
+Fabricated and misrepresented images spread widely on social media in the hours after Renee Good, a 37-year-old Minneapolis mother of three, was fatally shot by an Immigration and Customs Enforcement officer Wednesday, the Associated Press reported Thursday. The wave of false content included AI-generated images purporting to show the masked officer's face, photographs of unrelated women falsely identified as Good, a tattoo image from a video posted two days before the shooting, and a misrepresented clip of Florida's governor.
+
+A digital forensics expert said AI tools cannot reliably reconstruct a face when half of it is obscured, discrediting the fabricated images. The officer's identity — Jonathan Ross, according to AP reporting based on documents from a separate Minnesota case — was further obscured by a disinformation campaign falsely naming an unrelated person and prompting the Minnesota Star Tribune to publicly deny any connection to its staff.
+
+## Officer falsely identified by name and image
+
+Federal officials have not named the officer who shot Good. AP identified him as Jonathan Ross, an Iraq War veteran who has served for nearly two decades in the U.S. Border Patrol and ICE. Homeland Security Secretary Kristi Noem said the agent had been dragged by a vehicle in Bloomington, Minnesota, last June; a department spokesperson confirmed she was referring to documents from that case identifying the injured officer as Ross.
+
+Despite that reporting, many social media posts falsely identified the officer as Steve Grove. Some linked the name to specific individuals, including the CEO and publisher of the Minnesota Star Tribune. The newspaper said in a statement it was "monitoring a coordinated online disinformation campaign incorrectly identifying the ICE agent involved in yesterday's shooting" and that the officer had "no known affiliation with the Star Tribune."
+
+Fabricated images also circulated claiming to show the officer unmasked. Hany Farid, a digital forensics and misinformation expert at the University of California, Berkeley, said the images appeared to have been generated by AI and were unlikely to reflect the officer's actual appearance.
+
+"We have previously studied the application of AI to 'enhance' facial images," Farid said. "Under considerably more favorable conditions than in this example of the masked ICE agent, AI enhancement/reconstruction is not consistently reliable."
+
+He added: "In this situation where half of the face is obscured, AI (or any other technique) is not, in my opinion, able to accurately reconstruct the facial identity."
+
+## Photos of unrelated women falsely identified as victim
+
+Two photographs of Renee Paquette, a former WWE wrestler, spread online with false claims that they showed Good. Paquette posted both images to Instagram — one in March 2023 on International Women's Day, another in 2024 on her daughter's third birthday. Paquette responded directly to the misidentification: "Wrong Renée. My condolences to her family."
+
+A separate photograph of Gabriela Szczepankiewicz also circulated falsely identified as Good. Both women appeared in a 2020 Facebook post from Old Dominion University announcing winners of an Academy of American Poets Prize. Good — who is identified in that post as Renee Macklin — won the undergraduate category. Szczepankiewicz received an honorable mention.
+
+## Tattoo image predated the shooting by two days
+
+An image of a man with what appeared to be SS-bolt tattoos on his neck spread online with false claims that he was the ICE officer involved in the shooting. AP reported the image came from an Instagram video posted January 5 — two days before the shooting. Footage from the shooting shows the officer does not have a tattoo behind his right earlobe and has a differently shaped earlobe than the man in the video.
+
+In the Instagram video, a man confronts the tattooed man outside a restaurant on Lyndale Avenue South in Minneapolis. When asked about the tattoo, the man said he "had this done years ago" and that he "ain't had no time to change it."
+
+## Old DeSantis video misrepresented
+
+A video of Florida Gov. Ron DeSantis spread online with false claims that he was commenting on the Good shooting. The clip is from a June interview DeSantis gave to "The Rubin Report," a political talk show, during protests over President Donald Trump's deployment of National Guard troops and Marines to Los Angeles. In the interview, DeSantis was answering a question about Florida's policies on protesters blocking roads.
+
+"And we also have a policy that if you're driving on one of those streets and a mob comes and surrounds your vehicle and threatens you, you have a right to flee for your safety," DeSantis said in the clip. "And so if you drive off and you hit one of these people, that's their fault for impinging on you. You don't have to sit there and just be a sitting duck and let the mob grab you out of your car and drag you through the streets. You have a right to defend yourself in Florida."
+
+Those remarks referred to Florida's protest-blocking law, AP reported, not to Good or the Minneapolis shooting.
+
+## Atomic claims
+
+### c_001 — attributed, single source
+**Subject entities:** Renee Good; U.S. Immigration and Customs Enforcement
+**Predicate:** shot_and_killed
+**Object:** fatal shooting during immigration enforcement (event)
+**Temporal:** 2026-01-07
+**Source IDs:** src_001
+
+> Renee Good, a 37-year-old mother of three, was fatally shot by an ICE officer in Minneapolis on January 7, 2026.
+
+### c_002 — attributed, single source
+**Subject entities:** Jonathan Ross; U.S. Immigration and Customs Enforcement
+**Predicate:** identified_as
+**Object:** ICE officer who shot Good (identification)
+**Temporal:** 2026-01-08
+**Source IDs:** src_001
+
+> The ICE officer's name is Jonathan Ross, an Iraq War veteran with nearly two decades of service in U.S. Border Patrol and ICE, according to AP reporting.
+
+### c_003 — attributed, single source
+**Subject entities:** U.S. Immigration and Customs Enforcement
+**Predicate:** declined_to_name
+**Object:** ICE officer identity (official_action)
+**Temporal:** 2026-01-08
+**Source IDs:** src_001
+
+> Federal officials have not named the officer who shot Good.
+
+### c_004 — attributed, single source
+**Subject entities:** Kristi Noem; Jonathan Ross
+**Predicate:** stated
+**Object:** officer dragged by vehicle in June Bloomington case (official_statement)
+**Temporal:** 2026-01-08
+**Source IDs:** src_001
+
+> Homeland Security Secretary Kristi Noem said the agent who shot Good had been dragged by a vehicle in Bloomington, Minnesota, last June; a department spokesperson confirmed she was referring to documents identifying the officer as Ross.
+
+### c_005 — attributed, single source
+**Subject entities:** Hany Farid
+**Predicate:** assessed_as_unreliable
+**Object:** AI-generated images of masked ICE officer (expert_assessment)
+**Temporal:** 2026-01-08
+**Source IDs:** src_001
+
+> AI-generated images purporting to show the ICE officer without his mask are unlikely to reflect his actual appearance, according to digital forensics expert Hany Farid of UC Berkeley.
+
+### c_006 — attributed, single source
+**Subject entities:** Minnesota Star Tribune
+**Predicate:** falsely_identified_as
+**Object:** ICE officer who shot Good (false_identification)
+**Temporal:** 2026-01-08
+**Source IDs:** src_001
+
+> Social media posts falsely identified the ICE officer as Steve Grove, including linking the name to the CEO and publisher of the Minnesota Star Tribune.
+
+### c_007 — attributed, single source
+**Subject entities:** Minnesota Star Tribune
+**Predicate:** stated
+**Object:** disinformation campaign disclaimer (organizational_statement)
+**Temporal:** 2026-01-08
+**Source IDs:** src_001
+
+> The Minnesota Star Tribune said it was monitoring a coordinated online disinformation campaign incorrectly identifying the ICE agent and that the officer had no known affiliation with the newspaper.
+
+### c_008 — confirmed, primary document
+**Subject entities:** Renee Paquette; Renee Good
+**Predicate:** misidentified_as
+**Object:** Renee Good (false_identification)
+**Temporal:** 2026-01-08
+**Source IDs:** src_001
+
+> Photographs falsely identified as Renee Good showed Renee Paquette, a former WWE wrestler, and her daughter; Paquette posted the images to Instagram in 2023 and 2024.
+
+### c_009 — confirmed, primary document
+**Subject entities:** Gabriela Szczepankiewicz; Renee Good
+**Predicate:** misidentified_as
+**Object:** Renee Good (false_identification)
+**Temporal:** 2026-01-08
+**Source IDs:** src_001
+
+> A photograph of Gabriela Szczepankiewicz was falsely identified as Good; both appeared in a 2020 Old Dominion University Facebook post announcing Academy of American Poets Prize winners, in which Good is identified as Renee Macklin.
+
+### c_010 — confirmed, primary document
+**Subject entities:** U.S. Immigration and Customs Enforcement
+**Predicate:** falsely_identified
+**Object:** tattooed man as ICE officer (false_identification)
+**Temporal:** 2026-01-08
+**Source IDs:** src_001
+
+> An image of a man with SS-bolt tattoos was falsely identified as the ICE officer; the image came from an Instagram video posted January 5, two days before the shooting, and footage of the shooting shows the officer has no matching tattoo.
+
+### c_011 — confirmed, primary document
+**Subject entities:** Ron DeSantis
+**Predicate:** misrepresented_as
+**Object:** DeSantis commenting on Good shooting (false_claim)
+**Temporal:** 2026-01-08
+**Source IDs:** src_001
+
+> A video of Ron DeSantis from a June interview on The Rubin Report — discussing Florida's policies on protesters blocking roads — was falsely shared as him commenting on the Good shooting.
+
+## Sources
+
+### src_001 — Associated Press, wire, Tier 1, originating
+**Author:** Melissa Goldin
+**Publication date:** 2026-01-08
+**Access date:** 2026-01-08
+**Title:** Minneapolis shooting prompts spread of misrepresented and fabricated images online
+**URL:** https://apnews.com/article/fact-check-minneapolis-minnesota-ice-shooting-1cd447e8963456af2be9a24d660ed1d6
+
+---
+
+*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

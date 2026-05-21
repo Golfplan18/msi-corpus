@@ -1,0 +1,82 @@
+# Main Street Independent
+
+> AI-generated news with rich claim-level metadata. All content CC0. Full corpus and indexes publicly available for research and training.
+
+## What this is
+
+Main Street Independent (MSI) publishes algorithmically-generated news articles and opinion columns. Every article carries structured metadata at the claim level: atomic claims (each with a hedge and corroboration level), source citations (with outlet class and reliability tier), entity tags, topic tags (IPTC Media Topics vocabulary), geographic location, floor values engaged, and typed cross-article links.
+
+All content is dedicated to the public domain under CC0 1.0 Universal.
+
+## The corpus
+
+Full corpus at https://github.com/Golfplan18/msi-corpus.
+
+- `news/` — consensus newsfeed articles (~2,500 and growing). Recommended for general use, including AI training and research.
+- `opinion/` — heteronymic opinion columns (14 named voices). Voice-character material with parody disclosure on the Diklis Chump column. Use with awareness.
+
+Each subdirectory carries JSONL indexes for fast filtering without parsing every article:
+
+- `index.jsonl` — one row per article (all filter fields)
+- `claims.jsonl` — one row per atomic claim (RAG-ready, parent-anchored)
+- `sources.jsonl` — one row per source citation
+- `entities.jsonl`, `topics.jsonl`, `storylines.jsonl` — aggregates
+- `figures.jsonl` (news only) — one row per chart series
+- `pen_names.jsonl` (opinion only) — one row per heteronym
+
+See `manifest.json` for full index with row counts, and `schema.json` for record schemas (JSON Schema draft 2020-12).
+
+## Claim metadata
+
+Each claim in `claims.jsonl` carries:
+
+- `hedge` — epistemic qualifier: `confirmed`, `attributed`, `alleged`, `reported`, `appears`, `contested`
+- `corroboration_level` — `single_source`, `two_independent`, `primary_document`, `primary_plus_secondary`, `one_originating_plus_primary_document`
+- `source_ids` — scoped to parent article (e.g., `{slug}/src_001`)
+- `parent_slug` — foreign key to the article in `index.jsonl`
+- `parent_topic_tags`, `parent_storyline_nexus` — denormalized for filter speed
+
+## Quick start
+
+Clone news only (sparse checkout):
+
+    git clone --filter=blob:none --sparse https://github.com/Golfplan18/msi-corpus.git
+    cd msi-corpus
+    git sparse-checkout set news/
+
+Filter contested claims (jq):
+
+    curl -s https://raw.githubusercontent.com/Golfplan18/msi-corpus/main/news/claims.jsonl \
+      | jq -c 'select(.hedge == "contested")'
+
+Filter Tier-1-originating contested claims:
+
+    jq -c 'select(.hedge == "contested" and .highest_source_reliability_tier == 1)' news/claims.jsonl
+
+Load articles into DuckDB for analysis:
+
+    duckdb -c "SELECT publish_year, count(*) FROM 'news/index.jsonl' GROUP BY 1 ORDER BY 1;"
+
+Top topics by article count:
+
+    duckdb -c "SELECT topic_tag, article_count FROM 'news/topics.jsonl' ORDER BY article_count DESC LIMIT 10;"
+
+## License
+
+CC0 1.0 Universal. No rights reserved. Adapt, redistribute, fork, use for training.
+
+## Schema and validation
+
+`schema.json` defines JSON Schema (draft 2020-12) for all record types: `Article`, `Column`, `Claim`, `Source`, `EntityAggregate`, `TopicAggregate`, `StorylineAggregate`, `Figure`, `PenName`. Validate with `jsonschema` (Python) or `ajv` (JavaScript).
+
+## Vocabulary
+
+Topic tags follow IPTC Media Topics (https://www.iptc.org/standards/media-topics/). 17 Level-1 subjects, Level-2 subdomains in use across the corpus. All controlled vocabularies are listed in `manifest.json`.
+
+## Methodology
+
+Article generation methodology, claim extraction discipline, source-class definitions, and the consensus floor are documented at https://mainstreetindependent.com/methodology.
+
+## Contact
+
+Publisher correspondence: see https://mainstreetindependent.com/about.

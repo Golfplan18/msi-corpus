@@ -1,0 +1,210 @@
+---
+headline: US takes first steps to reopen Venezuela embassy after Maduro ouster
+publish_date: '2026-01-27'
+lede: The Trump administration has notified Congress of plans to reopen the U.S. Embassy in Venezuela, marking the first formal step toward restoring diplomatic relations following the military operation that ousted President Nicolás Maduro in early January. The State Department said it will deploy temporary staffers to conduct "select" diplomatic functions while the existing embassy compound is brought up to standard.
+nut_graf: The potential reopening would mark the first restoration of U.S. diplomatic presence since the embassy was shuttered in March 2019. The move comes as the Trump administration explores normalizing ties with Venezuela's acting President Delcy Rodríguez.
+primary_entities:
+- Donald Trump
+- Nicolás Maduro
+- Delcy Rodríguez
+- Marco Rubio
+- United States Department of State
+primary_themes:
+- Diplomacy
+- US-Venezuela Relations
+- Government
+topic_tags: []
+storyline_nexus: []
+geographic_location: Caracas, Venezuela; Washington, D.C., United States
+floor_values_engaged:
+- value: accountability_of_power
+  intensity: 0.5
+- value: informed_citizenship
+  intensity: 0.7
+framework_version: 1.1.0
+generation_timestamp: '2026-05-18T00:00:00Z'
+source_cluster_id: cluster_ap_2026-01-28_venezuela-us-embassy-maduro-ade84a3a33ed
+gdelt_event_ids: []
+consensus_floor_version: '1.0'
+publication_mindspec_version: 1.2.0
+license: https://creativecommons.org/publicdomain/zero/1.0/
+ai_generated: true
+claims:
+  count: 11
+  hedges:
+    appears: 0
+    alleged: 0
+    attributed: 1
+    reported: 8
+    contested: 0
+    confirmed: 2
+  corroboration:
+    primary_plus_secondary: 0
+    one_originating_plus_primary_document: 0
+    primary_document: 2
+    single_source: 9
+    two_independent: 0
+sources:
+  count: 1
+  outlets:
+  - Associated Press
+  outlet_classes:
+  - wire
+  highest_reliability_tier: 1
+  has_originating: true
+  has_primary_document: false
+figures_aggregate:
+  count: 0
+  series_ids: []
+  sources: []
+cross_article_links:
+- slug: 2026-01-06-venezuela-swears-in-rodr-guez-as-interim-president-projects-independence-after-u
+  relation: continues
+  strength: 0.7573
+  confidence: high
+- slug: 2026-01-04-caracas-falls-quiet-as-venezuelans-wait-to-see-what-comes-next-after-us-seizes-m
+  relation: continues
+  strength: 0.7597
+  confidence: high
+- slug: 2026-01-03-trump-vows-to-run-venezuela-after-u-s-military-operation-ousts-maduro
+  relation: continues
+  strength: 0.7458
+  confidence: high
+draft: false
+---
+
+The Trump administration has notified Congress of plans to reopen the U.S. Embassy in Venezuela, marking the first formal step toward restoring diplomatic relations following the military operation that ousted President Nicolás Maduro in early January. The State Department said it will deploy temporary staffers to conduct "select" diplomatic functions while the existing embassy compound is brought up to standard.
+
+The potential reopening would mark the first restoration of U.S. diplomatic presence since the embassy was shuttered in March 2019. The move comes as the Trump administration explores normalizing ties with Venezuela's acting President Delcy Rodríguez.
+
+In a notice to Congress dated Monday, the State Department outlined a phased approach to potentially resume embassy operations in Caracas. The notification, sent to 10 House and Senate committees, said the initial phase would involve deploying temporary staff to handle security and management duties.
+
+The State Department indicated the work would gradually expand "to include consular, political, economic, management, security, and public diplomacy." To accommodate expanded operations, the department said it may open a temporary facility in Caracas while the existing embassy compound is brought to standard condition.
+
+## Staffing Operations
+
+Ahead of these expanded operations, a survey team from the Venezuela Affairs Unit at the U.S. Embassy in Bogota, Colombia, traveled to Caracas shortly after the military operation that ousted Maduro to assess the embassy's condition. Last week, the State Department named a Bogota-based career diplomat to serve as charge d'affaires for Venezuela. The Venezuela Affairs Unit, currently based in Bogota, would eventually relocate to Caracas as operations expand.
+
+## Diplomatic Engagement
+
+Acting President Delcy Rodríguez said on Tuesday that her government and the Trump administration "have established respectful and courteous channels of communication" since January 3, when Maduro was captured. During remarks from a public hospital tour, she said she is working with President Donald Trump and Secretary of State Marco Rubio to set "a working agenda."
+
+## Path Forward
+
+The reopening of diplomatic operations would mark the first restoration of a U.S. presence in Venezuela since the embassy was shuttered in March 2019. Secretary of State Rubio is scheduled to testify on Venezuela before the Senate Foreign Relations Committee later this week. Resuming full diplomatic relations would require the Trump administration to revoke its recognition of the Venezuelan parliament elected in 2015 as the legitimate government.
+
+This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under sources. Specification: /methodology. Human review: not_triggered.
+
+## Atomic claims
+
+### c_001 — reported, single source
+**Subject entities:** United States Department of State; United States Congress
+**Predicate:** notified
+**Object:** intent to reopen embassy in Caracas (diplomatic_action)
+**Temporal:** 2026-01-27
+**Source IDs:** src_001
+
+> The State Department notified Congress of intent to reopen the U.S. Embassy in Venezuela in a notice dated Monday.
+
+### c_002 — confirmed, primary document
+**Subject entities:** United States Embassy in Venezuela
+**Predicate:** shuttered
+**Object:** March 2019 (date)
+**Temporal:** 2019-03
+**Source IDs:** src_001
+
+> The U.S. Embassy in Venezuela was shuttered in March 2019.
+
+### c_003 — reported, single source
+**Subject entities:** United States Department of State
+**Predicate:** will_deploy
+**Object:** temporary staffers for select diplomatic functions (operational_plan)
+**Temporal:** 2026-01-27
+**Source IDs:** src_001
+
+> The State Department will deploy temporary staffers to conduct select diplomatic functions from a temporary facility.
+
+### c_004 — attributed, single source
+**Subject entities:** Delcy Rodríguez; Trump administration
+**Predicate:** said
+**Object:** have established respectful and courteous channels of communication (diplomatic_status)
+**Temporal:** 2026-01-27
+**Source IDs:** src_001
+
+> Acting President Delcy Rodríguez said her government and the Trump administration have established respectful and courteous channels of communication since January 3.
+
+### c_005 — confirmed, primary document
+**Subject entities:** Nicolás Maduro
+**Predicate:** captured
+**Object:** January 3, 2026 (date_event)
+**Temporal:** 2026-01-03
+**Source IDs:** src_001
+
+> President Nicolás Maduro was captured on January 3, 2026.
+
+### c_006 — reported, single source
+**Subject entities:** United States Department of State
+**Predicate:** named
+**Object:** career diplomat to serve as charge d'affaires (appointment)
+**Temporal:** 2026-01-27
+**Source IDs:** src_001
+
+> The State Department named a Bogota-based career diplomat to serve as charge d'affaires for Venezuela.
+
+### c_007 — reported, single source
+**Subject entities:** State Department
+**Predicate:** plans
+**Object:** first phase deployment for security and management (operational_plan)
+**Temporal:** 2026-01-27
+**Source IDs:** src_001
+
+> The first phase involves deployment of temporary staff for security and management duties.
+
+### c_008 — reported, single source
+**Subject entities:** State Department; Embassy Caracas
+**Predicate:** would_expand
+**Object:** consular, political, economic, management, security, and public diplomacy functions (operational_expansion)
+**Temporal:** 2026-01-27
+**Source IDs:** src_001
+
+> Work would gradually expand to include consular, political, economic, management, security, and public diplomacy functions.
+
+### c_009 — reported, single source
+**Subject entities:** Venezuela Affairs Unit
+**Predicate:** would_relocate
+**Object:** from Bogota to Caracas (location_change)
+**Temporal:** 2026-01-27
+**Source IDs:** src_001
+
+> The Venezuela Affairs Unit, currently based in Bogota, would eventually relocate to Caracas.
+
+### c_010 — reported, single source
+**Subject entities:** Marco Rubio; Senate Foreign Relations Committee
+**Predicate:** scheduled_to_testify
+**Object:** on Venezuela before Senate Foreign Relations Committee (congressional_action)
+**Temporal:** 2026-01-27
+**Source IDs:** src_001
+
+> Secretary of State Marco Rubio is scheduled to testify on Venezuela before the Senate Foreign Relations Committee.
+
+### c_011 — reported, single source
+**Subject entities:** Trump administration; Venezuelan parliament
+**Predicate:** would_require
+**Object:** revoke recognition of Venezuelan parliament elected in 2015 (policy_action)
+**Temporal:** 2026-01-27
+**Source IDs:** src_001
+
+> Resuming full diplomatic relations would require the Trump administration to revoke its recognition of the Venezuelan parliament elected in 2015 as the legitimate government.
+
+## Sources
+
+### src_001 — Associated Press, wire, Tier 1, originating
+**Author:** Matthew Lee
+**Publication date:** 2026-01-27
+**Access date:** 2026-05-18
+**Title:** US takes first steps to possibly reopen embassy in Venezuela
+**URL:** https://apnews.com/article/venezuela-us-embassy-maduro-ade84a3a33eda565a850f2c6a8bde157
+
+---
+
+*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

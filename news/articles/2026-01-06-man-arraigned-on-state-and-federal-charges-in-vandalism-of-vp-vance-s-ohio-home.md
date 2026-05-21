@@ -1,0 +1,266 @@
+---
+headline: Man arraigned on state and federal charges in vandalism of VP Vance's Ohio home
+publish_date: '2026-01-06'
+lede: William D. DeFoor, 26, appeared in separate state and federal courtrooms in Cincinnati on Tuesday, facing charges that he broke the windows of Vice President JD Vance's Ohio home with a hammer during a late-night breach that Secret Service agents captured and interrupted before he could flee. Vance and his family were not home at the time.
+nut_graf: 'The case spans two jurisdictions: state charges in Hamilton County for vandalism and trespassing, and federal charges that carry potential sentences of up to 20 years in prison. DeFoor''s defense attorney said his client had no political motivation, and the family described a prolonged struggle with mental illness.'
+primary_entities:
+- William D. DeFoor
+- JD Vance
+- Paul Laufman
+- Catherine DeFoor
+- U.S. Secret Service
+primary_themes:
+- criminal proceedings
+- executive branch security
+- mental health and the justice system
+topic_tags:
+  - "crime, law and justice"
+  - crime
+storyline_nexus: []
+geographic_location: Cincinnati, Ohio
+floor_values_engaged:
+- value: informed_citizenship
+  intensity: 0.7
+- value: accountability_of_power
+  intensity: 0.6
+framework_version: 1.1.0
+generation_timestamp: '2026-05-16T18:08:20Z'
+source_cluster_id: cluster_ap_2026-01-05_suspect-arraigned-vance-home-vandalism-6
+gdelt_event_ids: []
+consensus_floor_version: current
+publication_mindspec_version: current
+license: https://creativecommons.org/publicdomain/zero/1.0/
+ai_generated: true
+claims:
+  count: 17
+  hedges:
+    appears: 0
+    alleged: 0
+    attributed: 10
+    reported: 0
+    contested: 0
+    confirmed: 7
+  corroboration:
+    primary_plus_secondary: 0
+    one_originating_plus_primary_document: 0
+    primary_document: 12
+    single_source: 5
+    two_independent: 0
+sources:
+  count: 1
+  outlets:
+  - Associated Press
+  outlet_classes:
+  - wire
+  highest_reliability_tier: 1
+  has_originating: true
+  has_primary_document: false
+figures_aggregate:
+  count: 0
+  series_ids: []
+  sources: []
+image:
+  url: /articles/2026-01-06-man-arraigned-on-state-and-federal-charges-in-vandalism-of-vp-vance-s-ohio-home.png
+  alt: 'Illustration accompanying article: Man arraigned on state and federal charges in vandalism of VP Vance''s Ohio'
+  source: ai_generated
+cross_article_links: []
+draft: false
+---
+
+William D. DeFoor, 26, appeared in separate state and federal courtrooms in Cincinnati on Tuesday, facing charges that he broke the windows of Vice President JD Vance's Ohio home with a hammer during a late-night breach that Secret Service agents captured and interrupted before he could flee. Vance and his family were not home at the time.
+
+The case spans two jurisdictions: state charges in Hamilton County for vandalism and trespassing, and federal charges that carry potential sentences of up to 20 years in prison. DeFoor's defense attorney said his client had no political motivation, and the family described a prolonged struggle with mental illness.
+
+## The incident
+
+Secret Service agents detained DeFoor early Monday after surveillance showed him running along the front fence of Vance's residence in Cincinnati's East Walnut Hills neighborhood around midnight, according to an affidavit filed in federal court. DeFoor allegedly tried to break the window of an unmarked Secret Service vehicle on the driveway before moving to the front of the home and breaking its glass windows.
+
+Fourteen historic window panes were broken in the attack. Damage to security enhancements around the windows was valued at $28,000, according to the affidavit.
+
+Vance said in a Tuesday interview on "The Scott Jennings Show" that his family had departed a few hours before the attack. He said the person "hammered the windows but eventually realized they weren't getting anywhere, ran off, and were captured by the Secret Service as they tried to escape."
+
+## State charges
+
+A Hamilton County judge set bonds totaling $11,000 on state charges of vandalism, criminal trespass, criminal damaging, and obstruction of official business. Court records indicate DeFoor was previously found incompetent to face trial on a 2023 criminal trespassing charge and was referred for treatment following a 2024 vandalism charge. A grand jury hearing in the state case was scheduled for January 15.
+
+## Federal charges
+
+The U.S. Attorney's office for Ohio's Southern District brought three federal charges: damaging government property, engaging in physical violence against property in a restricted area, and assaulting, resisting, or impeding federal officers. The first two charges each carry potential sentences of up to 10 years in prison; the third carries up to 20 years.
+
+A federal bond hearing was set for Friday in U.S. District Court in Cincinnati.
+
+## Defense and family statements
+
+Defense attorney Paul Laufman told the Hamilton County court that his client was not motivated by politics, calling the alleged conduct "purely a mental health issue."
+
+Outside the federal courthouse, standing alongside her husband, Catherine DeFoor read a statement saying "mental illness is a terrible thing" and that the family's lives "are full of stress and sadness and grief." She offered prayers for the Vances and their children and described her child as a straight-A student who had been awarded a full scholarship to study music.
+
+Vance said he would let the investigation proceed before commenting on the suspect's possible motive, but called the person "clearly a very sick individual." "There are crazy people out there and we're thankful for the Secret Service and the grace of God that we're still here to do the job that we can," he said.
+
+## Atomic claims
+
+### c_001 — confirmed, primary document
+**Subject entities:** William D. DeFoor
+**Predicate:** appeared_in_court
+**Object:** state and federal courtrooms (legal_proceeding)
+**Temporal:** 2026-01-06
+**Source IDs:** src_001
+
+> William D. DeFoor, 26, appeared in separate state and federal courtrooms on Tuesday, January 6, 2026.
+
+### c_002 — attributed, primary document
+**Subject entities:** U.S. Secret Service; William D. DeFoor
+**Predicate:** detained
+**Object:** midnight breach of property perimeter (law_enforcement_action)
+**Temporal:** 2026-01-05
+**Source IDs:** src_001
+
+> Secret Service agents detained DeFoor early Monday after surveillance showed him running along the front fence of Vance's Cincinnati residence in East Walnut Hills around midnight.
+
+### c_003 — attributed, primary document
+**Subject entities:** William D. DeFoor
+**Predicate:** attempted_property_damage
+**Object:** Secret Service vehicle window and home windows (property_damage)
+**Temporal:** 2026-01-05
+**Source IDs:** src_001
+
+> DeFoor was armed with a hammer and tried to break the window of an unmarked Secret Service vehicle on the driveway before moving toward the front of the home and breaking its glass windows, according to a federal affidavit.
+
+### c_004 — attributed, primary document
+**Subject entities:** William D. DeFoor; JD Vance
+**Predicate:** property_damaged
+**Object:** 14 (window_panes_broken)
+**Temporal:** 2026-01-05
+**Source IDs:** src_001
+
+> Fourteen historic window panes were broken at Vance's home, according to the federal affidavit.
+
+### c_005 — attributed, primary document
+**Subject entities:** William D. DeFoor
+**Predicate:** caused_damage_valued_at
+**Object:** 28000 (dollar_amount)
+**Temporal:** 2026-01-05
+**Source IDs:** src_001
+
+> Damage to security enhancements around the windows was valued at $28,000, according to the federal affidavit.
+
+### c_006 — confirmed, primary document
+**Subject entities:** William D. DeFoor
+**Predicate:** bond_set
+**Object:** 11000 (bond_dollar_amount)
+**Temporal:** 2026-01-06
+**Source IDs:** src_001
+
+> A Hamilton County judge set bonds totaling $11,000 on state charges.
+
+### c_007 — confirmed, primary document
+**Subject entities:** William D. DeFoor
+**Predicate:** charged_with
+**Object:** ['vandalism', 'criminal trespass', 'criminal damaging', 'obstruction of official business'] (state_charges)
+**Temporal:** 2026-01-06
+**Source IDs:** src_001
+
+> State charges brought in Hamilton County include vandalism, criminal trespass, criminal damaging, and obstruction of official business.
+
+### c_008 — attributed, primary document
+**Subject entities:** William D. DeFoor
+**Predicate:** prior_legal_history
+**Object:** incompetency finding 2023, treatment referral 2024 (court_record)
+**Temporal:** 2023-01-01
+**Source IDs:** src_001
+
+> DeFoor was previously deemed incompetent to face trial on a 2023 criminal trespassing charge and referred for treatment after a 2024 vandalism charge, according to court records.
+
+### c_009 — confirmed, primary document
+**Subject entities:** William D. DeFoor
+**Predicate:** hearing_scheduled
+**Object:** 2026-01-15 (court_date)
+**Temporal:** 2026-01-15
+**Source IDs:** src_001
+
+> A grand jury hearing in the state case was scheduled for January 15.
+
+### c_010 — confirmed, primary document
+**Subject entities:** William D. DeFoor; U.S. Attorney's Office Southern District of Ohio
+**Predicate:** charged_with
+**Object:** ['damaging government property', 'physical violence in restricted area', 'assaulting/impeding federal officers'] (federal_charges)
+**Temporal:** 2026-01-06
+**Source IDs:** src_001
+
+> The U.S. Attorney's office for Ohio's Southern District brought federal charges of damaging government property, engaging in physical violence against property in a restricted area, and assaulting, resisting, or impeding federal officers.
+
+### c_011 — confirmed, primary document
+**Subject entities:** William D. DeFoor
+**Predicate:** potential_sentence
+**Object:** up to 20 years on the most serious federal charge (sentencing_range)
+**Temporal:** 2026-01-06
+**Source IDs:** src_001
+
+> The first two federal charges each carry potential sentences of up to 10 years in prison; assaulting, resisting, or impeding federal officers carries up to 20 years.
+
+### c_012 — confirmed, primary document
+**Subject entities:** William D. DeFoor
+**Predicate:** hearing_scheduled
+**Object:** 2026-01-09 (court_date)
+**Temporal:** 2026-01-09
+**Source IDs:** src_001
+
+> A federal bond hearing was set for Friday in U.S. District Court in Cincinnati.
+
+### c_013 — attributed, single source
+**Subject entities:** Paul Laufman; William D. DeFoor
+**Predicate:** defense_statement
+**Object:** no political motivation; mental health issue (attorney_statement)
+**Temporal:** 2026-01-06
+**Source IDs:** src_001
+
+> Defense attorney Paul Laufman said in county court that his client was not motivated by politics, calling the alleged conduct 'purely a mental health issue.'
+
+### c_014 — attributed, single source
+**Subject entities:** Catherine DeFoor
+**Predicate:** family_statement
+**Object:** mental illness, family grief, prayers for Vances (public_statement)
+**Temporal:** 2026-01-06
+**Source IDs:** src_001
+
+> DeFoor's mother, Catherine DeFoor, said outside the federal courthouse that 'mental illness is a terrible thing' and that the family's lives 'are full of stress and sadness and grief,' and offered prayers for the Vances.
+
+### c_015 — attributed, single source
+**Subject entities:** Catherine DeFoor; William D. DeFoor
+**Predicate:** family_characterization
+**Object:** straight-A student, full music scholarship (personal_background)
+**Temporal:** 2026-01-06
+**Source IDs:** src_001
+
+> Catherine DeFoor described her child as a straight-A student who was awarded a full scholarship to study music.
+
+### c_016 — attributed, single source
+**Subject entities:** JD Vance
+**Predicate:** public_statement
+**Object:** family departed hours before incident (vice_president_statement)
+**Temporal:** 2026-01-06
+**Source IDs:** src_001
+
+> Vance said in a Tuesday interview on 'The Scott Jennings Show' that his family had left town a few hours before the attack.
+
+### c_017 — attributed, single source
+**Subject entities:** JD Vance
+**Predicate:** public_statement
+**Object:** characterized suspect as mentally ill; expressed gratitude to Secret Service (vice_president_statement)
+**Temporal:** 2026-01-06
+**Source IDs:** src_001
+
+> Vance said the suspect was 'clearly a very sick individual' and added: 'There are crazy people out there and we're thankful for the Secret Service and the grace of God that we're still here to do the job that we can.'
+
+## Sources
+
+### src_001 — Associated Press, wire, Tier 1, originating
+**Author:** Julie Carr Smyth
+**Publication date:** 2026-01-06
+**Access date:** 2026-01-06
+**Title:** Suspect in vandalism of Vance's Ohio home is behind bars
+**URL:** https://apnews.com/article/suspect-arraigned-vance-home-vandalism-6c6322f00ee049089273c87db9f1f3e6
+
+---
+
+*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*
