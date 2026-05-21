@@ -29,7 +29,7 @@ topic_tags:
   - environment
   - fire
 storyline_nexus:
-  - iran-crisis-2026
+  - iran-war
 geographic_location: Tehran, Iran; Islamabad, Pakistan; Washington, D.C.; southern Lebanon
 floor_values_engaged:
 - value: informed_citizenship

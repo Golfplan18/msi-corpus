@@ -24,8 +24,8 @@ topic_tags:
   - labour
   - "labour dispute"
 storyline_nexus:
-  - minneapolis-immigration
-  - iran-crackdown
+  - immigration-enforcement
+  - iran-war
 geographic_location: Minneapolis-St. Paul, Minnesota
 floor_values_engaged:
 - value: accountability_of_power

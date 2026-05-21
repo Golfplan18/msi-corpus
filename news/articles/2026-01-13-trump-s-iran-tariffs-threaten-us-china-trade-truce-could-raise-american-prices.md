@@ -26,7 +26,7 @@ topic_tags:
   - "international trade"
   - "mass media"
 storyline_nexus:
-  - iran-crisis-2026
+  - iran-war
   - trump-tariff-policy
   - immigration-enforcement
 geographic_location: International — Washington D.C.; Tehran; Beijing; New Delhi

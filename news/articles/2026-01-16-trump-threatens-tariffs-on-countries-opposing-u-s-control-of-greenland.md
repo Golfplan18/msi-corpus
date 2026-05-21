@@ -24,7 +24,7 @@ topic_tags:
   - "international trade"
   - "mass media"
 storyline_nexus:
-  - trump-greenland
+  - trump-greenland-acquisition
 geographic_location: Copenhagen, Denmark / Washington, D.C. / Nuuk, Greenland
 floor_values_engaged:
 - value: informed_citizenship

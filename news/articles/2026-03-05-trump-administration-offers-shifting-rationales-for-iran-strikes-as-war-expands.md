@@ -48,7 +48,7 @@ topic_tags:
   - labour
 storyline_nexus:
   - iran-war
-  - trump-administration-2026
+  - us-administration-2026
 geographic_location: United States, Iran, Israel
 floor_values_engaged:
 - value: informed_citizenship

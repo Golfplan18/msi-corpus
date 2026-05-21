@@ -23,7 +23,7 @@ topic_tags:
   - government
   - "conflict, war and peace"
 storyline_nexus:
-  - greenland-annexation
+  - trump-greenland-acquisition
   - gaza-conflict
 geographic_location: International
 floor_values_engaged:

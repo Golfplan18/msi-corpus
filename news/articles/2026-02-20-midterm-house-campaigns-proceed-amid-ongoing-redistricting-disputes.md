@@ -25,7 +25,7 @@ topic_tags:
   - politics
 storyline_nexus:
   - 2026-midterms
-  - trump-administration-2026
+  - us-administration-2026
 geographic_location: United States (multiple states)
 floor_values_engaged:
 - value: informed_citizenship

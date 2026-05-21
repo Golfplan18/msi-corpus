@@ -28,7 +28,7 @@ topic_tags:
   - "economy, business and finance"
   - labour
 storyline_nexus:
-  - trump-greenland
+  - trump-greenland-acquisition
   - trump-fed-independence
 geographic_location: Greenland; Denmark; European Union; United States
 floor_values_engaged:

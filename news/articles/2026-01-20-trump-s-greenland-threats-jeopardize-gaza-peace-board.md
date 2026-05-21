@@ -18,8 +18,7 @@ topic_tags:
   - "international relations"
   - politics
 storyline_nexus:
-  - trump-greenland
-  - greenland-annexation
+  - trump-greenland-acquisition
   - davos-2026
 geographic_location: United States, Greenland, Denmark, Europe
 floor_values_engaged:

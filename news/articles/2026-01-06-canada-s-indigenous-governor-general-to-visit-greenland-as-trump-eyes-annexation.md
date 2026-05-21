@@ -28,7 +28,7 @@ topic_tags:
   - politics
   - travel
 storyline_nexus:
-  - greenland-annexation
+  - trump-greenland-acquisition
 geographic_location: Greenland; Paris, France
 floor_values_engaged:
 - value: informed_citizenship

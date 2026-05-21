@@ -28,7 +28,7 @@ topic_tags:
   - "economy, business and finance"
 storyline_nexus:
   - davos-2026
-  - minneapolis-immigration
+  - immigration-enforcement
 geographic_location: Gaza province, Mozambique; southern Africa
 floor_values_engaged:
 - value: human_life_and_dignity

@@ -26,7 +26,7 @@ topic_tags:
   - "international relations"
   - "human migration"
 storyline_nexus:
-  - greenland-annexation
+  - trump-greenland-acquisition
 geographic_location: Washington, D.C.; Nuuk, Greenland; Copenhagen, Denmark
 floor_values_engaged:
 - value: informed_citizenship

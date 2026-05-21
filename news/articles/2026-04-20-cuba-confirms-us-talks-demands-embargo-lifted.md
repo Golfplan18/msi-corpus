@@ -18,7 +18,7 @@ topic_tags:
   - "economy, business and finance"
   - "international trade"
 storyline_nexus:
-  - greenland-annexation
+  - trump-greenland-acquisition
 geographic_location: Cuba
 floor_values_engaged:
 - value: human_life_and_dignity

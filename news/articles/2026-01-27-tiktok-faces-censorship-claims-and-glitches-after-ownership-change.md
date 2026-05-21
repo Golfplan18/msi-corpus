@@ -18,7 +18,7 @@ topic_tags:
   - "arts, culture, entertainment and media"
   - "social media"
 storyline_nexus:
-  - trump-administration-2026
+  - us-administration-2026
 geographic_location: United States
 floor_values_engaged:
 - value: truthfulness

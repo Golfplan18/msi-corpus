@@ -23,7 +23,7 @@ topic_tags:
   - "energy and resource"
   - government
 storyline_nexus:
-  - ukraine-russia-war
+  - russia-ukraine-war
 geographic_location: Kyiv region, Ukraine
 floor_values_engaged:
 - value: human_life_and_dignity

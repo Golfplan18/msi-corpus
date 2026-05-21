@@ -20,7 +20,7 @@ topic_tags:
   - "disaster, accident and emergency incident"
   - weather
 storyline_nexus:
-  - minneapolis-immigration
+  - immigration-enforcement
 geographic_location: Hudsonville, Michigan, United States
 floor_values_engaged:
 - value: informed_citizenship

@@ -24,7 +24,7 @@ topic_tags:
   - "international trade"
   - politics
 storyline_nexus:
-  - trump-greenland
+  - trump-greenland-acquisition
   - davos-2026
 geographic_location: International (Washington D.C.; Davos, Switzerland; Nuuk, Greenland; Brussels, Belgium)
 floor_values_engaged:

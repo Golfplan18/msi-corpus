@@ -26,7 +26,7 @@ topic_tags:
   - trial
 storyline_nexus:
   - immigration-enforcement
-  - trump-administration-2026
+  - us-administration-2026
 geographic_location: Minnesota (initial detention); Texas (current detention)
 floor_values_engaged:
 - value: human_life_and_dignity

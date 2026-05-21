@@ -24,7 +24,7 @@ topic_tags:
   - "political dissent"
   - "political process"
 storyline_nexus:
-  - ice-enforcement-surge-2026
+  - immigration-enforcement
 geographic_location: United States, Minnesota
 floor_values_engaged:
 - value: informed_citizenship

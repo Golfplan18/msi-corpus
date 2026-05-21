@@ -26,7 +26,7 @@ topic_tags:
   - "mass media"
 storyline_nexus:
   - gaza-conflict
-  - greenland-annexation
+  - trump-greenland-acquisition
 geographic_location: International / Gaza Strip
 floor_values_engaged:
 - value: informed_citizenship

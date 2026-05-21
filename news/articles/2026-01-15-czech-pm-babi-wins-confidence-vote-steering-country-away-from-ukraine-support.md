@@ -26,7 +26,7 @@ topic_tags:
   - labour
   - "labour dispute"
 storyline_nexus:
-  - ukraine-russia-war
+  - russia-ukraine-war
 geographic_location: Prague, Czech Republic
 floor_values_engaged:
 - value: informed_citizenship

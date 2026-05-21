@@ -20,8 +20,8 @@ topic_tags:
   - "politics"
   - "trial"
 storyline_nexus:
-  - trump-administration-2026
-  - trump-immigration-crackdown
+  - us-administration-2026
+  - immigration-enforcement
 geographic_location: Washington, D.C. / United States
 floor_values_engaged:
 - value: informed_citizenship

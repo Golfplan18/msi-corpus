@@ -25,7 +25,7 @@ topic_tags:
   - "mass media"
   - "science and technology"
 storyline_nexus:
-  - trump-immigration-crackdown
+  - immigration-enforcement
 geographic_location: Minneapolis, Minnesota
 floor_values_engaged:
 - value: informed_citizenship

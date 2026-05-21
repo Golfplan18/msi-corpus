@@ -19,7 +19,7 @@ topic_tags:
   - "politics"
   - "government"
 storyline_nexus:
-  - davos-2026-summit
+  - davos-2026
 geographic_location: Canada, United States, Switzerland
 floor_values_engaged:
 - value: informed_citizenship

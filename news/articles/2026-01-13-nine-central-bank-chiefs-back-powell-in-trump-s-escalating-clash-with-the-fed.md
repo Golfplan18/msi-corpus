@@ -25,7 +25,7 @@ topic_tags:
   - "conflict, war and peace"
   - "mass media"
 storyline_nexus:
-  - fed-independence
+  - trump-fed-independence
 geographic_location: International
 floor_values_engaged:
 - value: accountability_of_power

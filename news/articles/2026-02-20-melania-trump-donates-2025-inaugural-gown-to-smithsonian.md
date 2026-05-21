@@ -17,7 +17,7 @@ topic_tags:
   - "arts and entertainment"
   - "arts, culture, entertainment and media"
 storyline_nexus:
-  - trump-administration-2026
+  - us-administration-2026
 geographic_location: Washington, District of Columbia
 floor_values_engaged:
 - value: informed_citizenship

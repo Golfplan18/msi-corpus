@@ -29,8 +29,8 @@ topic_tags:
   - "international relations"
   - "political dissent"
 storyline_nexus:
-  - iran-crackdown
-  - minneapolis-immigration
+  - iran-war
+  - immigration-enforcement
   - trump-fed-independence
 geographic_location: Minneapolis, Minnesota, United States
 floor_values_engaged:

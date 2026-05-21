@@ -24,7 +24,7 @@ topic_tags:
   - "international relations"
   - "lifestyle and leisure"
 storyline_nexus:
-  - iran-crackdown
+  - iran-war
   - trump-fed-independence
 geographic_location: Kapiköy Border Crossing, Van Province, Turkey / northeastern Iran
 floor_values_engaged:

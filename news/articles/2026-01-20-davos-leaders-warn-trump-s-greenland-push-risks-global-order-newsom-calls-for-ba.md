@@ -23,7 +23,7 @@ topic_tags:
   - "international relations"
   - politics
 storyline_nexus:
-  - trump-greenland
+  - trump-greenland-acquisition
   - davos-2026
 geographic_location: Davos, Switzerland
 floor_values_engaged:

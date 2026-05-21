@@ -27,7 +27,7 @@ topic_tags:
   - religion
 storyline_nexus:
   - venezuela-crisis
-  - trump-greenland
+  - trump-greenland-acquisition
 geographic_location: Vatican City; United States
 floor_values_engaged:
 - value: human_life_and_dignity

@@ -24,7 +24,7 @@ topic_tags:
   - "science and technology"
   - "artificial intelligence"
 storyline_nexus:
-  - trump-administration-2026
+  - us-administration-2026
 geographic_location: Washington, D.C., Maryland, Virginia, United States
 floor_values_engaged:
 - value: human_life_and_dignity

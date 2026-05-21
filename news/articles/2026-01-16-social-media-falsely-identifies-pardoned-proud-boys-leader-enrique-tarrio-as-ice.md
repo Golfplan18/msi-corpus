@@ -24,7 +24,7 @@ topic_tags:
   - crime
   - "crime, law and justice"
 storyline_nexus:
-  - minneapolis-immigration
+  - immigration-enforcement
 geographic_location: United States
 floor_values_engaged:
 - value: truthfulness

@@ -25,7 +25,7 @@ topic_tags:
   - "international relations"
   - politics
 storyline_nexus:
-  - iran-crisis-2026
+  - iran-war
 geographic_location: New York, United States; Tehran, Iran
 floor_values_engaged:
 - value: human_life_and_dignity

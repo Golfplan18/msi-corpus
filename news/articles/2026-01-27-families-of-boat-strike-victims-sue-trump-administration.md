@@ -25,7 +25,7 @@ topic_tags:
   - "conflict, war and peace"
   - "armed conflict"
 storyline_nexus:
-  - trump-administration-2026
+  - us-administration-2026
 geographic_location: Caribbean Sea, eastern Pacific Ocean, Massachusetts
 floor_values_engaged:
 - value: human_life_and_dignity

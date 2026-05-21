@@ -19,7 +19,7 @@ primary_themes:
 topic_tags:
   - politics
 storyline_nexus:
-  - greenland-annexation
+  - trump-greenland-acquisition
 geographic_location: Cuba; Havana
 floor_values_engaged:
 - value: human_life_and_dignity

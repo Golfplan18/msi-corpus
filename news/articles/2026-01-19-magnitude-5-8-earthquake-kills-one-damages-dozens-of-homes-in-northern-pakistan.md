@@ -19,7 +19,7 @@ topic_tags:
   - "artificial intelligence"
   - "science and technology"
 storyline_nexus:
-  - minneapolis-immigration
+  - immigration-enforcement
 geographic_location: northern Pakistan
 floor_values_engaged:
 - value: human_life_and_dignity

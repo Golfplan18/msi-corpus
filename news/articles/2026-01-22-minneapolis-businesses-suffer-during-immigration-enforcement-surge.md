@@ -22,7 +22,7 @@ primary_themes:
 topic_tags:
   - "economy, business and finance"
 storyline_nexus:
-  - ice-enforcement-surge-2026
+  - immigration-enforcement
 geographic_location: Minneapolis, Minnesota, USA
 floor_values_engaged:
 - value: human_life_and_dignity

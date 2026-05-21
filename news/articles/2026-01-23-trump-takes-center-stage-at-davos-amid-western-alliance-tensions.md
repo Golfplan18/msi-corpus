@@ -35,7 +35,7 @@ topic_tags:
   - "international trade"
   - "science and technology"
 storyline_nexus:
-  - davos-2026-summit
+  - davos-2026
 geographic_location: International (Davos, Switzerland; Ukraine, Greenland, Denmark, Europe)
 floor_values_engaged:
 - value: accountability_of_power

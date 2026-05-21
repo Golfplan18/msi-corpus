@@ -21,7 +21,7 @@ topic_tags:
   - "international relations"
   - "conflict, war and peace"
 storyline_nexus:
-  - iran-crackdown
+  - iran-war
 geographic_location: Iran / Persian Gulf / International
 floor_values_engaged:
 - value: human_life_and_dignity

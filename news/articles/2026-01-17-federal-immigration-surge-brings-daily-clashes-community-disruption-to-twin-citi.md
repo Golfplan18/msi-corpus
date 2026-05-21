@@ -29,8 +29,8 @@ topic_tags:
   - "government policy"
   - "human interest"
 storyline_nexus:
-  - minneapolis-immigration
-  - iran-crackdown
+  - immigration-enforcement
+  - iran-war
 geographic_location: Minneapolis–St. Paul, Minnesota
 floor_values_engaged:
 - value: human_life_and_dignity

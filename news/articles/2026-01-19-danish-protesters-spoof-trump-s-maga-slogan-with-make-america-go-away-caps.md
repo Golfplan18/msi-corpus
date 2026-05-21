@@ -26,8 +26,8 @@ topic_tags:
   - "political dissent"
   - "science and technology"
 storyline_nexus:
-  - trump-greenland
-  - iran-crackdown
+  - trump-greenland-acquisition
+  - iran-war
 geographic_location: Copenhagen, Denmark
 floor_values_engaged:
 - value: informed_citizenship

@@ -23,7 +23,7 @@ topic_tags:
   - "human interest"
   - "international relations"
 storyline_nexus:
-  - iran-crisis-2026
+  - iran-war
 geographic_location: Iran; United States
 floor_values_engaged:
 - value: human_life_and_dignity

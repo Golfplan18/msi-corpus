@@ -24,7 +24,7 @@ topic_tags:
   - "science and technology"
   - "artificial intelligence"
 storyline_nexus:
-  - trump-administration-2026
+  - us-administration-2026
   - 2026-midterms
 geographic_location: United States
 floor_values_engaged:

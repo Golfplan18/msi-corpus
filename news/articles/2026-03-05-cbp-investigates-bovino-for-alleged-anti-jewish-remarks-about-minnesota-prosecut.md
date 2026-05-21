@@ -20,8 +20,8 @@ topic_tags:
   - "crime, law and justice"
   - "corruption"
 storyline_nexus:
-  - trump-administration-2026
-  - trump-immigration-crackdown
+  - us-administration-2026
+  - immigration-enforcement
 geographic_location: Minneapolis, Minnesota, United States
 floor_values_engaged:
 - value: accountability_of_power

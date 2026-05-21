@@ -25,7 +25,7 @@ topic_tags:
   - "international trade"
 storyline_nexus:
   - russia-ukraine-war
-  - trump-greenland
+  - trump-greenland-acquisition
 geographic_location: United States, Europe
 floor_values_engaged:
 - value: informed_citizenship

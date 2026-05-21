@@ -18,7 +18,7 @@ topic_tags:
   - "armed conflict"
   - "conflict, war and peace"
 storyline_nexus:
-  - trump-administration-2026
+  - us-administration-2026
   - venezuela-crisis
 geographic_location: Caribbean Sea, Eastern Pacific Ocean, Venezuela
 floor_values_engaged:

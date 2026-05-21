@@ -30,7 +30,7 @@ topic_tags:
   - "labour dispute"
 storyline_nexus:
   - russia-ukraine-war
-  - trump-administration-2026
+  - us-administration-2026
   - venezuela-crisis
 geographic_location: United States, Venezuela, Mexico, Central America
 floor_values_engaged:

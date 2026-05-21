@@ -28,7 +28,7 @@ topic_tags:
   - politics
   - "science and technology"
 storyline_nexus:
-  - greenland-annexation
+  - trump-greenland-acquisition
 geographic_location: Greenland; Washington, D.C.; Brussels
 floor_values_engaged:
 - value: informed_citizenship

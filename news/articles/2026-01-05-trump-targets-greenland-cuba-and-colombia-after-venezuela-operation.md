@@ -28,7 +28,7 @@ topic_tags:
   - "science and technology"
 storyline_nexus:
   - venezuela-crisis
-  - greenland-annexation
+  - trump-greenland-acquisition
 geographic_location: Washington, D.C.
 floor_values_engaged:
 - value: informed_citizenship

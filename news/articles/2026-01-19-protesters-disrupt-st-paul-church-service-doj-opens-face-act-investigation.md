@@ -27,8 +27,8 @@ topic_tags:
   - "religious institution"
   - society
 storyline_nexus:
-  - minneapolis-immigration
-  - iran-crackdown
+  - immigration-enforcement
+  - iran-war
 geographic_location: St. Paul, Minnesota, United States
 floor_values_engaged:
 - value: informed_citizenship

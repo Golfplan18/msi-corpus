@@ -25,7 +25,6 @@ topic_tags:
   - "science and technology"
 storyline_nexus:
   - trump-greenland-acquisition
-  - greenland-annexation
 geographic_location: Greenland / Arctic
 floor_values_engaged:
 - value: informed_citizenship

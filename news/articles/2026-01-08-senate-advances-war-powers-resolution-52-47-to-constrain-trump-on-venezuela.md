@@ -28,8 +28,8 @@ topic_tags:
   - "conflict, war and peace"
 storyline_nexus:
   - venezuela-crisis
-  - greenland-annexation
-  - trump-immigration-crackdown
+  - trump-greenland-acquisition
+  - immigration-enforcement
 geographic_location: Washington, D.C.
 floor_values_engaged:
 - value: accountability_of_power

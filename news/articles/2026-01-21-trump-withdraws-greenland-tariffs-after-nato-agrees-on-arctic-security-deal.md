@@ -24,7 +24,6 @@ topic_tags:
 storyline_nexus:
   - trump-greenland-acquisition
   - trump-tariff-policy
-  - greenland-annexation
 geographic_location: International (Davos, Switzerland; Greenland; Denmark; NATO member states)
 floor_values_engaged:
 - value: informed_citizenship

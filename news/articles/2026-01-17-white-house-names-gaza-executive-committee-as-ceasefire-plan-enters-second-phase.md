@@ -28,7 +28,7 @@ topic_tags:
   - "political dissent"
 storyline_nexus:
   - gaza-conflict
-  - greenland-annexation
+  - trump-greenland-acquisition
 geographic_location: Gaza Strip; Middle East
 floor_values_engaged:
 - value: informed_citizenship

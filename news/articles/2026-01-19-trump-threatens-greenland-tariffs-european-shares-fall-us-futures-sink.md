@@ -24,7 +24,7 @@ topic_tags:
   - "international relations"
   - "international trade"
 storyline_nexus:
-  - trump-greenland
+  - trump-greenland-acquisition
   - trump-fed-independence
 geographic_location: United States, Europe, Asia
 floor_values_engaged:

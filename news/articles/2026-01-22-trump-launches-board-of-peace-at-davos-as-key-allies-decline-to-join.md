@@ -27,7 +27,7 @@ topic_tags:
   - "peace process"
 storyline_nexus:
   - trump-board-of-peace
-  - davos-2026-summit
+  - davos-2026
 geographic_location: International (Davos, Switzerland; Gaza; Ukraine; Iran)
 floor_values_engaged:
 - value: informed_citizenship

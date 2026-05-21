@@ -26,7 +26,7 @@ topic_tags:
   - "economy, business and finance"
   - "energy and resource"
 storyline_nexus:
-  - ukraine-russia-war
+  - russia-ukraine-war
 geographic_location: United Nations, New York; Ukraine; Russia
 floor_values_engaged:
 - value: human_life_and_dignity

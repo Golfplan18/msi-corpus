@@ -23,7 +23,7 @@ topic_tags:
 storyline_nexus:
   - venezuela-crisis
   - trump-fed-independence
-  - minneapolis-immigration
+  - immigration-enforcement
 geographic_location: Texas, USA
 floor_values_engaged:
 - value: informed_citizenship

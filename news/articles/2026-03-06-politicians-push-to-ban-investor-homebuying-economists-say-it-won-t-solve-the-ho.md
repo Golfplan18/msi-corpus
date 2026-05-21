@@ -22,7 +22,7 @@ topic_tags:
   - "economy, business and finance"
   - "government policy"
 storyline_nexus:
-  - trump-administration-2026
+  - us-administration-2026
 geographic_location: United States; Texas
 floor_values_engaged:
 - value: informed_citizenship

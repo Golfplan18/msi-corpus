@@ -23,7 +23,7 @@ topic_tags:
   - "international trade"
   - politics
 storyline_nexus:
-  - trump-greenland
+  - trump-greenland-acquisition
   - trump-fed-independence
 geographic_location: Nuuk, Greenland
 floor_values_engaged:

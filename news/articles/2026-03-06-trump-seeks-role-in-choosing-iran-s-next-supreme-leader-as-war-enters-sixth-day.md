@@ -27,7 +27,7 @@ topic_tags:
   - "politics"
 storyline_nexus:
   - iran-war
-  - trump-administration-2026
+  - us-administration-2026
 geographic_location: Iran, Middle East
 floor_values_engaged:
 - value: human_life_and_dignity

@@ -23,7 +23,7 @@ topic_tags:
   - health
   - "international relations"
 storyline_nexus:
-  - israel-palestine-conflict
+  - gaza-conflict
 geographic_location: Gaza Strip; Jerusalem; Cairo; Ankara
 floor_values_engaged:
 - value: human_life_and_dignity

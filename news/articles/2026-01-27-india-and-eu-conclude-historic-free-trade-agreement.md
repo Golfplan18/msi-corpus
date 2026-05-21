@@ -21,7 +21,7 @@ topic_tags:
   - labour
   - "labour dispute"
 storyline_nexus:
-  - trump-administration-2026
+  - us-administration-2026
   - trump-tariff-policy
   - us-china-relations
 geographic_location: International

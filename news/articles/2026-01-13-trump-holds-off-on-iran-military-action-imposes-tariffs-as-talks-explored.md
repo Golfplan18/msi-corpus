@@ -24,7 +24,7 @@ topic_tags:
   - "armed conflict"
   - "conflict, war and peace"
 storyline_nexus:
-  - iran-crisis-2026
+  - iran-war
   - trump-tariff-policy
 geographic_location: Washington, D.C. / Iran
 floor_values_engaged:

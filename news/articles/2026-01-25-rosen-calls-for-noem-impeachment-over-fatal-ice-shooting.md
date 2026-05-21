@@ -24,7 +24,6 @@ topic_tags:
   - politics
 storyline_nexus:
   - immigration-enforcement
-  - ice-enforcement-surge-2026
 geographic_location: Minneapolis, Minnesota; Washington, D.C.; United States
 floor_values_engaged:
 - value: human_life_and_dignity

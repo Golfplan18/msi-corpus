@@ -26,7 +26,7 @@ topic_tags:
   - "international trade"
 storyline_nexus:
   - iran-war
-  - trump-administration-2026
+  - us-administration-2026
   - us-china-relations
 geographic_location: Spain; United States
 floor_values_engaged:

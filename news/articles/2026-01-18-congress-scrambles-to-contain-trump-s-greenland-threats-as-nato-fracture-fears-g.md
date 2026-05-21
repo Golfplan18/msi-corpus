@@ -25,7 +25,7 @@ topic_tags:
   - government
   - "international relations"
 storyline_nexus:
-  - trump-greenland
+  - trump-greenland-acquisition
 geographic_location: Washington, D.C. / Copenhagen, Denmark / Greenland
 floor_values_engaged:
 - value: informed_citizenship

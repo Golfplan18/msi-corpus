@@ -32,7 +32,7 @@ topic_tags:
   - "disaster, accident and emergency incident"
   - "economy, business and finance"
 storyline_nexus:
-  - trump-administration-2026
+  - us-administration-2026
   - trump-tariff-policy
   - us-china-relations
 geographic_location: Washington, D.C.

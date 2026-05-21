@@ -18,7 +18,7 @@ topic_tags:
   - politics
   - government
 storyline_nexus:
-  - iran-crisis-2026
+  - iran-war
 geographic_location: Washington, D.C. / Tehran, Iran
 floor_values_engaged:
 - value: human_life_and_dignity

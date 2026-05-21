@@ -25,7 +25,7 @@ topic_tags:
   - "international trade"
   - "economy, business and finance"
 storyline_nexus:
-  - trump-greenland
+  - trump-greenland-acquisition
   - trump-fed-independence
 geographic_location: Europe / Greenland / United States
 floor_values_engaged:

@@ -26,7 +26,7 @@ topic_tags:
   - "peace process"
   - politics
 storyline_nexus:
-  - israel-palestine-conflict
+  - gaza-conflict
 geographic_location: West Bank / Jerusalem / Middle East
 floor_values_engaged:
 - value: informed_citizenship

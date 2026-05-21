@@ -24,8 +24,8 @@ topic_tags:
   - "social media"
   - "arts and entertainment"
 storyline_nexus:
-  - minneapolis-immigration
-  - iran-crackdown
+  - immigration-enforcement
+  - iran-war
 geographic_location: Minneapolis, Minnesota, United States
 floor_values_engaged:
 - value: human_life_and_dignity

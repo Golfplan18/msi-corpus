@@ -20,7 +20,7 @@ topic_tags:
   - politics
   - society
 storyline_nexus:
-  - trump-immigration-crackdown
+  - immigration-enforcement
 geographic_location: St. Paul, Minnesota, United States
 floor_values_engaged:
 - value: informed_citizenship

@@ -33,7 +33,7 @@ topic_tags:
   - labour
   - "labour dispute"
 storyline_nexus:
-  - trump-greenland
+  - trump-greenland-acquisition
   - trump-fed-independence
 geographic_location: International — Copenhagen, Denmark; Norway; Sweden; France; Germany; United Kingdom; Netherlands; Finland
 floor_values_engaged:

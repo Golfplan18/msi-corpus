@@ -24,8 +24,7 @@ topic_tags:
   - "political dissent"
 storyline_nexus:
   - immigration-enforcement
-  - ice-enforcement-surge-2026
-  - trump-administration-2026
+  - us-administration-2026
 geographic_location: Milan, Italy
 floor_values_engaged:
 - value: accountability_of_power

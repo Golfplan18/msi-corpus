@@ -30,7 +30,7 @@ topic_tags:
   - "economy, business and finance"
   - "international trade"
 storyline_nexus:
-  - trump-greenland
+  - trump-greenland-acquisition
   - davos-2026
 geographic_location: Brussels, Belgium; Davos, Switzerland; West Palm Beach, Florida
 floor_values_engaged:

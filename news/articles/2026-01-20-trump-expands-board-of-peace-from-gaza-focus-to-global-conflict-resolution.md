@@ -23,7 +23,7 @@ topic_tags:
   - politics
 storyline_nexus:
   - gaza-conflict
-  - greenland-annexation
+  - trump-greenland-acquisition
   - davos-2026
 geographic_location: International
 floor_values_engaged:

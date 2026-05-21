@@ -18,7 +18,7 @@ topic_tags:
   - "conflict, war and peace"
   - politics
 storyline_nexus:
-  - trump-administration-2026
+  - us-administration-2026
 geographic_location: International (Rome/Vatican)
 floor_values_engaged:
 - value: human_life_and_dignity

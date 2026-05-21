@@ -31,8 +31,8 @@ topic_tags:
   - sport
   - "sport event"
 storyline_nexus:
-  - iran-crackdown
-  - minneapolis-immigration
+  - iran-war
+  - immigration-enforcement
   - trump-fed-independence
 geographic_location: Minneapolis-St. Paul, Minnesota
 floor_values_engaged:

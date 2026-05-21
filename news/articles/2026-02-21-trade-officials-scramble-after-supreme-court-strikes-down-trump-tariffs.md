@@ -26,7 +26,7 @@ topic_tags:
   - "artificial intelligence"
 storyline_nexus:
   - immigration-enforcement
-  - trump-administration-2026
+  - us-administration-2026
   - trump-tariff-policy
   - us-china-relations
 geographic_location: International; South Korea, France, Mexico, Germany, Switzerland

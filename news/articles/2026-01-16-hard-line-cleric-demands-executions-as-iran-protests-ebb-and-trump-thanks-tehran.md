@@ -21,7 +21,7 @@ topic_tags:
   - government
   - "conflict, war and peace"
 storyline_nexus:
-  - iran-crisis-2026
+  - iran-war
 geographic_location: Iran; Washington, D.C.; Dubai, UAE
 floor_values_engaged:
 - value: human_life_and_dignity

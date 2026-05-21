@@ -21,7 +21,7 @@ primary_themes:
 topic_tags:
   - politics
 storyline_nexus:
-  - trump-greenland
+  - trump-greenland-acquisition
   - trump-fed-independence
 geographic_location: Washington, D.C.
 floor_values_engaged:

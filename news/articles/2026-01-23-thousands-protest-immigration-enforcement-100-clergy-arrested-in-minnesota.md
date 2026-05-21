@@ -18,7 +18,7 @@ topic_tags:
   - religion
   - "religious leader"
 storyline_nexus:
-  - ice-enforcement-surge-2026
+  - immigration-enforcement
 geographic_location: Minneapolis-St. Paul, Minnesota; United States
 floor_values_engaged:
 - value: human_life_and_dignity

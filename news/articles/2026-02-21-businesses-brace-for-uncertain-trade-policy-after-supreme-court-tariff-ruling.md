@@ -20,7 +20,7 @@ topic_tags:
   - "science and technology"
   - "artificial intelligence"
 storyline_nexus:
-  - trump-administration-2026
+  - us-administration-2026
   - trump-tariff-policy
   - us-china-relations
 geographic_location: United States (international implications)

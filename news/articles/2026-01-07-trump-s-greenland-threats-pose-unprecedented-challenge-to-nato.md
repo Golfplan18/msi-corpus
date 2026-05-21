@@ -23,7 +23,7 @@ topic_tags:
   - "government policy"
   - "international relations"
 storyline_nexus:
-  - greenland-annexation
+  - trump-greenland-acquisition
 geographic_location: Brussels / International
 floor_values_engaged:
 - value: informed_citizenship

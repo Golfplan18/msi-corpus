@@ -22,7 +22,7 @@ topic_tags:
   - "government policy"
 storyline_nexus:
   - mexico-cartel-violence
-  - trump-administration-2026
+  - us-administration-2026
 geographic_location: Mexico
 floor_values_engaged:
 - value: human_life_and_dignity

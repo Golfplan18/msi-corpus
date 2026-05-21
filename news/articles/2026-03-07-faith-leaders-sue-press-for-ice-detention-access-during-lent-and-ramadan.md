@@ -33,8 +33,8 @@ topic_tags:
   - "mass media"
   - "religion"
 storyline_nexus:
-  - trump-administration-2026
-  - trump-immigration-crackdown
+  - us-administration-2026
+  - immigration-enforcement
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

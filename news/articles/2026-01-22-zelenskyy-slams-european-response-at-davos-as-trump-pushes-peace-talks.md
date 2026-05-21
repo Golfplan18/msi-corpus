@@ -24,7 +24,7 @@ topic_tags:
   - politics
   - "international relations"
 storyline_nexus:
-  - davos-2026-summit
+  - davos-2026
 geographic_location: Davos, Switzerland; Moscow, Russia; United Arab Emirates
 floor_values_engaged:
 - value: accountability_of_power

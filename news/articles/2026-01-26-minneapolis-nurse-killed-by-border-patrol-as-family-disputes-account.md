@@ -24,8 +24,7 @@ topic_tags:
   - "government policy"
 storyline_nexus:
   - immigration-enforcement
-  - ice-enforcement-surge-2026
-  - trump-administration-2026
+  - us-administration-2026
 geographic_location: Minneapolis, Minnesota, United States
 floor_values_engaged:
 - value: human_life_and_dignity

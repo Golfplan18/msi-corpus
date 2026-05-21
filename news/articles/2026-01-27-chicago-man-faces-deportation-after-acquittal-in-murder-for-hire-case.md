@@ -20,7 +20,7 @@ topic_tags:
   - "political dissent"
 storyline_nexus:
   - immigration-enforcement
-  - trump-administration-2026
+  - us-administration-2026
 geographic_location: Chicago, Illinois
 floor_values_engaged:
 - value: human_life_and_dignity

@@ -23,7 +23,7 @@ topic_tags:
   - "monetary policy"
   - "science and technology"
 storyline_nexus:
-  - trump-administration-2026
+  - us-administration-2026
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship

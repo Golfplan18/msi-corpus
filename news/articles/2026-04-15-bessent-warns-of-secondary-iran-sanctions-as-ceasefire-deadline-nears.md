@@ -28,7 +28,7 @@ topic_tags:
   - "peace process"
   - politics
 storyline_nexus:
-  - iran-crisis-2026
+  - iran-war
 geographic_location: Washington, D.C. / International
 floor_values_engaged:
 - value: informed_citizenship

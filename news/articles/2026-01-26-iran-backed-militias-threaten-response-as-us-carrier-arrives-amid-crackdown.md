@@ -20,7 +20,7 @@ topic_tags:
   - "armed conflict"
   - "conflict, war and peace"
 storyline_nexus:
-  - trump-administration-2026
+  - us-administration-2026
 geographic_location: Middle East
 floor_values_engaged:
 - value: human_life_and_dignity

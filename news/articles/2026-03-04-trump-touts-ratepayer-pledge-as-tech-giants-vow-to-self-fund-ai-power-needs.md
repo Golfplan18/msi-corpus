@@ -28,7 +28,7 @@ topic_tags:
   - "energy and resource"
   - "science and technology"
 storyline_nexus:
-  - trump-administration-2026
+  - us-administration-2026
 geographic_location: Washington, D.C.
 floor_values_engaged:
 - value: informed_citizenship

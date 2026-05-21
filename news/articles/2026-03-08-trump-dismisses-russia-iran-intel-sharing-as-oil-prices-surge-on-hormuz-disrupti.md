@@ -29,7 +29,6 @@ topic_tags:
 storyline_nexus:
   - iran-war
   - immigration-enforcement
-  - iran-crisis-2026
 geographic_location: Middle East / International
 floor_values_engaged:
 - value: informed_citizenship

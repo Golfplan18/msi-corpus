@@ -17,7 +17,7 @@ topic_tags:
   - "armed conflict"
   - "conflict, war and peace"
 storyline_nexus:
-  - iran-crackdown
+  - iran-war
 geographic_location: United States, Iran, Middle East
 floor_values_engaged:
 - value: accountability_of_power

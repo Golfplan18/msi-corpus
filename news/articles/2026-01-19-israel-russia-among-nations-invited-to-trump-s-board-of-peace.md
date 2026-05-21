@@ -28,7 +28,7 @@ topic_tags:
   - "conflict, war and peace"
 storyline_nexus:
   - gaza-conflict
-  - greenland-annexation
+  - trump-greenland-acquisition
 geographic_location: Gaza Strip; International
 floor_values_engaged:
 - value: informed_citizenship

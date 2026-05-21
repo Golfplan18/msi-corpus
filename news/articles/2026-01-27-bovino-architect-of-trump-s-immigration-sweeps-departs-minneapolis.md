@@ -22,8 +22,7 @@ topic_tags:
   - "human migration"
 storyline_nexus:
   - immigration-enforcement
-  - ice-enforcement-surge-2026
-  - trump-administration-2026
+  - us-administration-2026
 geographic_location: United States (Minneapolis, Los Angeles, Chicago, New Orleans, El Centro)
 floor_values_engaged:
 - value: accountability_of_power

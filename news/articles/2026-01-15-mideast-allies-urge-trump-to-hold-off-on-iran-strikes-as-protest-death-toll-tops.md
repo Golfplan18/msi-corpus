@@ -29,7 +29,7 @@ topic_tags:
   - labour
   - "labour dispute"
 storyline_nexus:
-  - iran-crisis-2026
+  - iran-war
 geographic_location: Washington, D.C. / Middle East
 floor_values_engaged:
 - value: informed_citizenship

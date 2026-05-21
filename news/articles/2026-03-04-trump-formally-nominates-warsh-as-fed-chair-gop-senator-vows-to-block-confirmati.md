@@ -21,7 +21,7 @@ topic_tags:
   - politics
   - "conflict, war and peace"
 storyline_nexus:
-  - trump-administration-2026
+  - us-administration-2026
 geographic_location: Washington, D.C.
 floor_values_engaged:
 - value: informed_citizenship

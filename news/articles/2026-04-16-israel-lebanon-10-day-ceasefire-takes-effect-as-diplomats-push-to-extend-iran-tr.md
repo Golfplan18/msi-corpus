@@ -33,7 +33,7 @@ topic_tags:
   - "disaster, accident and emergency incident"
   - fire
 storyline_nexus:
-  - iran-crisis-2026
+  - iran-war
 geographic_location: Beirut, Lebanon; Washington, D.C.; Islamabad, Pakistan
 floor_values_engaged:
 - value: human_life_and_dignity

@@ -26,7 +26,7 @@ topic_tags:
   - "conflict, war and peace"
   - sport
 storyline_nexus:
-  - greenland-annexation
+  - trump-greenland-acquisition
 geographic_location: Greenland / Arctic
 floor_values_engaged:
 - value: informed_citizenship

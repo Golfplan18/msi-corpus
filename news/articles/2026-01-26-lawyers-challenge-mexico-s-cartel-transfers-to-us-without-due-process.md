@@ -27,7 +27,7 @@ topic_tags:
   - "government policy"
   - "international relations"
 storyline_nexus:
-  - trump-administration-2026
+  - us-administration-2026
 geographic_location: United States; Mexico
 floor_values_engaged:
 - value: accountability_of_power

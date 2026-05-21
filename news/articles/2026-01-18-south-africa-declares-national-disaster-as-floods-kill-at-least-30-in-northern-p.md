@@ -25,7 +25,7 @@ topic_tags:
   - environment
   - "natural disaster"
 storyline_nexus:
-  - minneapolis-immigration
+  - immigration-enforcement
 geographic_location: 'South Africa (Limpopo and Mpumalanga provinces); regional: Mozambique, Zimbabwe'
 floor_values_engaged:
 - value: human_life_and_dignity

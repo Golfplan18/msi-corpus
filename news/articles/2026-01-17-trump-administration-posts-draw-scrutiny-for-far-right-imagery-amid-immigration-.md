@@ -23,7 +23,7 @@ topic_tags:
   - government
   - politics
 storyline_nexus:
-  - minneapolis-immigration
+  - immigration-enforcement
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

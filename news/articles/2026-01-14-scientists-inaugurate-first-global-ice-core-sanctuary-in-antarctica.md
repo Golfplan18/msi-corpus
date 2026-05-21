@@ -25,7 +25,7 @@ topic_tags:
   - environment
 storyline_nexus:
   - immigration-enforcement
-  - greenland-annexation
+  - trump-greenland-acquisition
 geographic_location: Concordia station, Antarctic Plateau; Mont Blanc, France; Grand Combin, Switzerland
 floor_values_engaged:
 - value: informed_citizenship

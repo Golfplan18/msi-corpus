@@ -25,7 +25,7 @@ topic_tags:
   - "armed conflict"
 storyline_nexus:
   - immigration-enforcement
-  - trump-administration-2026
+  - us-administration-2026
 geographic_location: Palm Beach, Florida, United States
 floor_values_engaged:
 - value: human_life_and_dignity

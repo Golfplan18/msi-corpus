@@ -22,7 +22,7 @@ topic_tags:
   - election
   - politics
 storyline_nexus:
-  - trump-administration-2026
+  - us-administration-2026
 geographic_location: Texas, United States
 floor_values_engaged:
 - value: informed_citizenship

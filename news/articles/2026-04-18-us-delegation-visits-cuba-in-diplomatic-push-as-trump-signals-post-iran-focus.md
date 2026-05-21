@@ -23,7 +23,7 @@ topic_tags:
   - health
   - "disease and condition"
 storyline_nexus:
-  - greenland-annexation
+  - trump-greenland-acquisition
 geographic_location: Havana, Cuba; Washington, DC, USA
 floor_values_engaged:
 - value: accountability_of_power

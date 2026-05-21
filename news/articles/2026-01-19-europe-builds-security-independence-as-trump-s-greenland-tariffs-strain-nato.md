@@ -36,7 +36,7 @@ topic_tags:
   - "government policy"
   - "international trade"
 storyline_nexus:
-  - trump-greenland
+  - trump-greenland-acquisition
 geographic_location: Brussels/Europe/International
 floor_values_engaged:
 - value: informed_citizenship

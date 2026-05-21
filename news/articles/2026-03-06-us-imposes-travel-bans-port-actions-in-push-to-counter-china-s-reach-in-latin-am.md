@@ -21,7 +21,7 @@ topic_tags:
   - "international relations"
   - "politics"
 storyline_nexus:
-  - trump-administration-2026
+  - us-administration-2026
 geographic_location: Latin America
 floor_values_engaged:
 - value: informed_citizenship

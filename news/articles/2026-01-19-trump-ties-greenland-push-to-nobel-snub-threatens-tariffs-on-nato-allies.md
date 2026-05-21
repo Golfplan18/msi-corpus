@@ -26,7 +26,7 @@ topic_tags:
   - "conflict, war and peace"
   - "economy, business and finance"
 storyline_nexus:
-  - trump-greenland
+  - trump-greenland-acquisition
 geographic_location: Nuuk, Greenland; Oslo, Norway; Copenhagen, Denmark; Washington, D.C.
 floor_values_engaged:
 - value: informed_citizenship
