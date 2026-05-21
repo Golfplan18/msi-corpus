@@ -22,8 +22,7 @@ topic_tags:
   - society
   - trial
   - "government policy"
-storyline_nexus:
-  - transgender-rights
+storyline_nexus: []
 geographic_location: Washington, D.C.
 floor_values_engaged:
 - value: informed_citizenship

@@ -19,8 +19,7 @@ primary_themes:
 topic_tags:
   - "government policy"
   - "politics"
-storyline_nexus:
-  - panama-canal-dispute
+storyline_nexus: []
 geographic_location: Panama
 floor_values_engaged:
 - value: informed_citizenship

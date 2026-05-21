@@ -23,8 +23,7 @@ topic_tags:
   - "law enforcement"
   - politics
   - "science and technology"
-storyline_nexus:
-  - trump-investigations
+storyline_nexus: []
 geographic_location: Washington, D.C.
 floor_values_engaged:
 - value: accountability_of_power
