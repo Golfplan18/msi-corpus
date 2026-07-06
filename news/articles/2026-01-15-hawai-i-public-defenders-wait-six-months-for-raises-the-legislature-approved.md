@@ -1,6 +1,5 @@
 ---
 headline: Hawaiʻi public defenders wait six months for raises the Legislature approved
-slug: 2026-01-15-hawaii-public-defenders-wait-six-months-for-approved-raises
 publish_date: '2026-01-15'
 lede: More than six months after Hawaiʻi's Legislature approved a 20% pay raise for state public defenders, 101 attorneys have gone through 12 consecutive pay periods without seeing the increase in their paychecks, according to records obtained by Honolulu Civil Beat. Staffing shortages at the state Department of Budget and Finance — the agency responsible for processing salary adjustments for the Office of the Public Defender and six other state agencies — have stalled implementation of the raises that took effect July 1.
 nut_graf: The delay has left attorneys who represent some of the state's most vulnerable defendants short-changed thousands of dollars and has sharpened concerns about Hawaiʻi's ability to attract and retain public defenders, who even after the raise remain among the lowest-paid government attorneys in the state.
@@ -17,44 +16,48 @@ primary_themes:
 - criminal justice access
 - state budget administration
 topic_tags:
-  - government
-  - politics
-storyline_nexus: []
-geographic_location: Hawaiʻi, United States
+- wage and pension
+- government
+- employment
+- labour relations
+- crime, law and justice
+storyline_nexus:
+- trump-judicial-challenges
+geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
-  intensity: 0.8
+  intensity: 0.9
+- value: equality_fairness
+  intensity: 0.9
 - value: informed_citizenship
-  intensity: 0.7
-- value: human_life_and_dignity
   intensity: 0.6
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:00:37Z'
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:11:58Z'
 source_cluster_id: cluster_ap_2026-01-16_compensation-and-benefits-general-news-8
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 15
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 4
-    reported: 6
     contested: 0
+    attributed: 4
+    alleged: 0
+    appears: 0
     confirmed: 5
+    reported: 6
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 5
     single_source: 10
     two_independent: 0
+    primary_plus_secondary: 0
+    primary_document: 5
+    one_originating_plus_primary_document: 0
 sources:
   count: 1
   outlets:
-  - Associated Press / Honolulu Civil Beat
+  - Associated Press
   outlet_classes:
   - wire
   highest_reliability_tier: 1
@@ -64,13 +67,18 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-13-hawai-i-clears-1-321-arrest-records-automatically-in-pilot-432-000-still-eligibl
-  relation: related
-  strength: 0.6797
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- More than six months after Hawaiʻi's Legislature approved a 20% pay raise for state public defenders, 101 attorneys have gone through 12 consecutive pay periods without seeing the increase in their paychecks, according to records obtained by Honolulu Civil Beat.
+- The delay has left attorneys who represent some of the state's most vulnerable defendants short-changed thousands of dollars and has sharpened concerns about Hawaiʻi's ability to attract and retain public defenders, who even after the raise remain among the lowest-paid government attorneys in the state.
+- The Legislature set aside $1.
+- Jon Ikenaga, who has led the Office of the Public Defender since 2024, said the gap drove attorneys away.
 
 More than six months after Hawaiʻi's Legislature approved a 20% pay raise for state public defenders, 101 attorneys have gone through 12 consecutive pay periods without seeing the increase in their paychecks, according to records obtained by Honolulu Civil Beat. Staffing shortages at the state Department of Budget and Finance — the agency responsible for processing salary adjustments for the Office of the Public Defender and six other state agencies — have stalled implementation of raises that took effect July 1.
 
@@ -122,154 +130,177 @@ Ikenaga said his staff have continued working on behalf of their clients through
 
 *This story was originally reported by Caitlin Thompson of Honolulu Civil Beat and distributed through a partnership with The Associated Press.*
 
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Human review: not triggered. Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*
-
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Office of the Public Defender, Hawaii
-**Predicate:** has_not_received
-**Object:** 20% pay raise (compensation_event)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Office of the Public Defender, Hawaii
+- **Predicate:** has_not_received
+- **Object:** 20% pay raise (compensation_event)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > More than six months after a 20% pay raise took effect on July 1, Hawaiʻi public defenders' paychecks are still short.
 
-### c_002 — confirmed, primary document
-**Subject entities:** Hawaii State Legislature
-**Predicate:** appropriated
-**Object:** $1.6 million (appropriation)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Hawaii State Legislature
+- **Predicate:** appropriated
+- **Object:** $1.6 million (appropriation)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > The Legislature set aside $1.6 million to increase public defender salaries.
 
-### c_003 — reported, primary document
-**Subject entities:** Office of the Public Defender, Hawaii
-**Predicate:** underpaid_for
-**Object:** 12 pay periods (duration)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Office of the Public Defender, Hawaii
+- **Predicate:** underpaid_for
+- **Object:** 12 pay periods (duration)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Public defenders' paychecks have fallen short for about 12 straight pay periods.
 
-### c_004 — attributed, primary document
-**Subject entities:** Hawaii Department of Budget and Finance
-**Predicate:** caused_delay_in
-**Object:** pay raise implementation (administrative_action)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Hawaii Department of Budget and Finance
+- **Predicate:** caused_delay_in
+- **Object:** pay raise implementation (administrative_action)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Staffing shortages at the state Department of Budget and Finance caused delays in implementing the pay raise, according to records obtained by Civil Beat.
 
-### c_005 — confirmed, single source
-**Subject entities:** Office of the Public Defender, Hawaii
-**Predicate:** salary_was
-**Object:** $75,948 (salary)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Office of the Public Defender, Hawaii
+- **Predicate:** salary_was
+- **Object:** $75,948 (salary)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > The entry-level salary for deputy public defenders before the raise was $75,948.
 
-### c_006 — confirmed, single source
-**Subject entities:** Office of the Public Defender, Hawaii
-**Predicate:** salary_is
-**Object:** $91,140 (salary)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Office of the Public Defender, Hawaii
+- **Predicate:** salary_is
+- **Object:** $91,140 (salary)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Entry-level public defenders now make $91,140 after the raise.
 
-### c_007 — reported, single source
-**Subject entities:** Office of the Public Defender, Hawaii
-**Predicate:** earns_less_than
-**Object:** $2,300 gap vs. county prosecutors (salary_disparity)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Office of the Public Defender, Hawaii
+- **Predicate:** earns_less_than
+- **Object:** $2,300 gap vs. county prosecutors (salary_disparity)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Entry-level public defenders after the raise still earn about $2,300 less than the lowest-paid county prosecutors.
 
-### c_008 — reported, single source
-**Subject entities:** Office of the Public Defender, Hawaii
-**Predicate:** earned_less_than
-**Object:** 18% below AG; 25% below Hawaii County prosecutors (salary_disparity)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Office of the Public Defender, Hawaii
+- **Predicate:** earned_less_than
+- **Object:** 18% below AG; 25% below Hawaii County prosecutors (salary_disparity)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Before the raise, entry-level public defenders earned about 18% less than attorneys starting at the Attorney General's Office and about 25% less than entry-level prosecutors in Hawaiʻi County.
 
-### c_009 — reported, primary document
-**Subject entities:** Hawaii Department of Budget and Finance
-**Predicate:** had_staffing_of
-**Object:** one HR clerk for seven agencies (staffing_level)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Hawaii Department of Budget and Finance
+- **Predicate:** had_staffing_of
+- **Object:** one HR clerk for seven agencies (staffing_level)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > The Department of Budget and Finance was at one point down to just one clerk in its human resources department, responsible for hiring, onboarding, pay adjustments, and separations across seven state agencies.
 
-### c_010 — reported, single source
-**Subject entities:** Hawaii Office of the Public Defender; Hawaii Governor
-**Predicate:** received_less_than
-**Object:** $200,000 shortfall from $1.6M appropriation (funding_gap)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Hawaii Office of the Public Defender; Hawaii Governor
+- **Predicate:** received_less_than
+- **Object:** $200,000 shortfall from $1.6M appropriation (funding_gap)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Due to the governor's restrictions on certain appropriations, the amount available to cover the raises equaled $1.4 million — about $200,000 less than what the Legislature had set aside.
 
-### c_011 — attributed, single source
-**Subject entities:** David Tarnas; Hawaii House of Representatives
-**Predicate:** criticized
-**Object:** administration's failure to implement raises (statement)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** David Tarnas; Hawaii House of Representatives
+- **Predicate:** criticized
+- **Object:** administration's failure to implement raises (statement)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Rep. David Tarnas, chair of the House judiciary committee, said the administration had not followed through on implementing the raises and called it troubling.
 
-### c_012 — reported, single source
-**Subject entities:** Kailua-Kona Public Defender's Office
-**Predicate:** stopped_representing
-**Object:** DUI and felony clients (service_withdrawal)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Kailua-Kona Public Defender's Office
+- **Predicate:** stopped_representing
+- **Object:** DUI and felony clients (service_withdrawal)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > The Kailua-Kona Public Defender's Office on the Big Island was at one point so short-staffed that attorneys stopped representing clients charged with DUIs and some felonies.
 
-### c_013 — attributed, single source
-**Subject entities:** Jon Ikenaga
-**Predicate:** stated
-**Object:** February pay raise expected, not guaranteed (projection)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jon Ikenaga
+- **Predicate:** stated
+- **Object:** February pay raise expected, not guaranteed (projection)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Jon Ikenaga told staff that increased paychecks are expected to start in February but acknowledged it is not a firm timeline.
 
-### c_014 — attributed, single source
-**Subject entities:** Seth Colby; Hawaii Department of Budget and Finance
-**Predicate:** stated
-**Object:** filling vacancies prioritized; outside staff assisting (administrative_response)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Seth Colby; Hawaii Department of Budget and Finance
+- **Predicate:** stated
+- **Object:** filling vacancies prioritized; outside staff assisting (administrative_response)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Seth Colby, the acting finance director, said the department has prioritized filling vacancies in its HR and fiscal offices, and that staff from another state department have been helping process salary adjustments.
 
-### c_015 — confirmed, single source
-**Subject entities:** Hawaii Supreme Court
-**Predicate:** launched
-**Object:** out-of-state attorney pilot program (policy_action)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_015
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Hawaii Supreme Court
+- **Predicate:** launched
+- **Object:** out-of-state attorney pilot program (policy_action)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > The state Supreme Court last year launched a pilot program allowing lawyers from other states to work in Hawaiʻi without first taking the local bar.
 
 ## Sources
 
-### src_001 — Associated Press / Honolulu Civil Beat, wire, Tier 1, originating
-**Author:** Caitlin Thompson
+### src_001 — Associated Press, wire, Tier 1, originating
+**Author:** Caitlin Thompson / Honolulu Civil Beat
 **Publication date:** 2026-01-15
-**Access date:** 2026-01-15
-**Title:** Public Defenders Got 20% Raises, But Hawaiʻi Isn't Paying Them
+**Title:** Public Defenders Got 20% Raises, But Hawaiʻi Isn’t Paying Them
 **URL:** https://apnews.com/article/compensation-and-benefits-general-news-82d639f23c43e16174876712c3dc2782
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

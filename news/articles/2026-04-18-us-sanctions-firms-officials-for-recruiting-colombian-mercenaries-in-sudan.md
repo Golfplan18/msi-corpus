@@ -93,8 +93,6 @@ Sudan's conflict between the military and RSF began on April 15, 2023, in the ca
 
 The war has created the world's largest humanitarian crisis. Approximately 34 million Sudanese—nearly two-thirds of the country's population—require assistance, according to the United Nations.
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
 ### c_001 — attributed, single source
@@ -177,7 +175,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-04-18
 **Title:** US imposes sanctions over alleged recruitment of Colombian mercenaries in Sudan war
 **URL:** https://apnews.com/article/sudan-war-military-rsf-sanctions-507510473b0a98d2a9ee973fc3894ab2
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

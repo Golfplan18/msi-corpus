@@ -19,42 +19,40 @@ primary_themes:
 - power-outages
 - emergency-response
 topic_tags:
-  - "disaster, accident and emergency incident"
-  - weather
+- natural disaster
+- weather
+- weather warning
 storyline_nexus:
-  - immigration-enforcement
-  - winter-storm-2026
-geographic_location: Eastern United States
+- extreme-weather-disasters
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
-  intensity: 0.95
-- value: truthfulness
-  intensity: 0.85
+  intensity: 0.9
 - value: informed_citizenship
-  intensity: 0.8
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T14:32:00Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:24:03Z'
 source_cluster_id: cluster_ap_2026-01-28_frigid-temperatures-arctic-air-us-south-
 gdelt_event_ids: []
-consensus_floor_version: '1.0'
-publication_mindspec_version: '2.1'
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 15
   hedges:
-    appears: 0
-    alleged: 0
+    confirmed: 0
     attributed: 5
+    alleged: 0
+    appears: 0
     reported: 10
     contested: 0
-    confirmed: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 4
-    single_source: 11
     two_independent: 0
+    primary_plus_secondary: 0
+    single_source: 11
+    primary_document: 4
+    one_originating_plus_primary_document: 0
 sources:
   count: 1
   outlets:
@@ -68,17 +66,16 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-07-ice-and-snow-close-schools-across-new-england-as-more-storms-approach
-  relation: related
-  strength: 0.8529
-  confidence: medium
-- slug: 2025-12-29-power-outages-can-turn-dangerous-fast-experts-detail-how-to-prepare
-  relation: related
-  strength: 0.7923
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- At least 50 people have died as bitter cold and a massive winter storm gripped the eastern United States, with forecasters warning that conditions could worsen significantly this weekend.
+- The prolonged deep freeze poses immediate risks to life and health, with officials warning that exposure of as little as 10 minutes could result in frostbite or hypothermia, while power outages leave residents without heat in subfreezing conditions.
+- "They were just screaming, telling me to help them," Hangaman said. "And I watched all of them struggle, struggle to stay above the water. I watched all of them fight.".
 
 At least 50 people have died as bitter cold and a massive winter storm gripped the eastern United States, with forecasters warning that conditions could worsen significantly this weekend. The storm dumped deep snow across more than 1,300 miles from Arkansas to New England and left parts of the South coated in treacherous ice, leaving more than 410,000 homes and businesses without power Tuesday evening. Freezing temperatures that reached as far south as Tennessee and North Carolina were expected to plunge again overnight, with parts of northern Florida forecast to sink to 25 degrees Fahrenheit.
 
@@ -126,144 +123,170 @@ The Centers for Disease Control and Prevention warned that gas-powered stoves ca
 
 In North Carolina, Wake County's largest public school system closed schools again Wednesday "due to the continued threat of black ice," signaling that conditions were expected to remain treacherous for days to come.
 
----
-
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
-### c_001 — reported, single source
-**Subject entities:** United States
-**Predicate:** experienced_deaths_from_winter_weather
-**Object:** 50 (count)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** United States
+- **Predicate:** experienced_deaths_from_winter_weather
+- **Object:** 50 (count)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > At least 50 people died in states gripped by the winter storm as of January 27.
 
-### c_002 — reported, single source
-**Subject entities:** winter storm
-**Predicate:** covered_geographic_area
-**Object:** 1,300 miles (distance)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** winter storm
+- **Predicate:** covered_geographic_area
+- **Object:** 1,300 miles (distance)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > A winter storm dumped deep snow across more than 1,300 miles from Arkansas to New England.
 
-### c_003 — reported, single source
-**Subject entities:** United States
-**Predicate:** experienced_power_outages
-**Object:** 410,000 (count)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** United States
+- **Predicate:** experienced_power_outages
+- **Object:** 410,000 (count)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > More than 410,000 homes and businesses were without power as of Tuesday evening, January 27.
 
-### c_004 — attributed, single source
-**Subject entities:** children in Bonham, Texas
-**Predicate:** died_from_ice_accident
-**Object:** ice pond drowning (incident)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** children in Bonham, Texas
+- **Predicate:** died_from_ice_accident
+- **Object:** ice pond drowning (incident)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > Three Texas brothers, ages 6, 8, and 9, died Monday after falling through ice on a private pond near Bonham, Texas.
 
-### c_005 — attributed, single source
-**Subject entities:** Cheyenne Hangaman
-**Predicate:** attempted_rescue
-**Object:** rescue attempt (action)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Cheyenne Hangaman
+- **Predicate:** attempted_rescue
+- **Object:** rescue attempt (action)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > Cheyenne Hangaman, the boys' mother, ran into the freezing water and tried to pull them out.
 
-### c_006 — reported, single source
-**Subject entities:** Nashville, Tennessee
-**Predicate:** experienced_power_outages
-**Object:** 110,000 (count)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Nashville, Tennessee
+- **Predicate:** experienced_power_outages
+- **Object:** 110,000 (count)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > More than 110,000 outages remained in Nashville, Tennessee and neighboring communities as of Tuesday.
 
-### c_007 — reported, single source
-**Subject entities:** Nashville residents
-**Predicate:** utilized_emergency_shelter
-**Object:** 440 (count)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Nashville residents
+- **Predicate:** utilized_emergency_shelter
+- **Object:** 440 (count)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > Nearly 440 people spent Monday night at Nashville community centers being used as temporary shelters.
 
-### c_008 — reported, single source
-**Subject entities:** U.S. aviation system
-**Predicate:** canceled_flights
-**Object:** 17,000 (count)
-**Temporal:** 2026-01-25/26
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** U.S. aviation system
+- **Predicate:** canceled_flights
+- **Object:** 17,000 (count)
+- **Temporal:** 2026-01-25/26
+- **Sources:** src_001
 
 > More than 17,000 commercial flights were canceled over the weekend preceding January 27.
 
-### c_009 — attributed, primary document
-**Subject entities:** National Weather Service
-**Predicate:** warned_of_record_cold
-**Object:** coldest in years, longest duration in decades (forecast)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** National Weather Service
+- **Predicate:** warned_of_record_cold
+- **Object:** coldest in years, longest duration in decades (forecast)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > The National Weather Service warned this could be the coldest temperature in several years for some places and the longest duration of cold in several decades.
 
-### c_010 — reported, single source
-**Subject entities:** East Coast; Florida
-**Predicate:** forecast_winter_weather
-**Object:** winter storm and record lows (forecast)
-**Temporal:** 2026-01-31/02-01
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** East Coast; Florida
+- **Predicate:** forecast_winter_weather
+- **Object:** winter storm and record lows (forecast)
+- **Temporal:** 2026-01-31/02-01
+- **Sources:** src_001
 
 > Another winter storm could hit parts of the East Coast this weekend, with more record lows forecast as far south as Florida.
 
-### c_011 — reported, single source
-**Subject entities:** Louisiana
-**Predicate:** reported_death
-**Object:** carbon monoxide poisoning (cause_of_death)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Louisiana
+- **Predicate:** reported_death
+- **Object:** carbon monoxide poisoning (cause_of_death)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > At least one carbon monoxide death was reported in Louisiana.
 
-### c_012 — reported, single source
-**Subject entities:** New York City
-**Predicate:** reported_cold_weather_deaths
-**Object:** 10 (count)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** New York City
+- **Predicate:** reported_cold_weather_deaths
+- **Object:** 10 (count)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Ten people were found dead outdoors in New York City in the cold.
 
-### c_013 — attributed, primary document
-**Subject entities:** Andy Beshear; Kentucky
-**Predicate:** warned_of_cold_health_danger
-**Object:** 10 minutes exposure risks frostbite and hypothermia (health_warning)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Andy Beshear; Kentucky
+- **Predicate:** warned_of_cold_health_danger
+- **Object:** 10 minutes exposure risks frostbite and hypothermia (health_warning)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Kentucky Gov. Andy Beshear warned that temperatures could become so frigid that as little as 10 minutes outside could result in frostbite or hypothermia.
 
-### c_014 — attributed, primary document
-**Subject entities:** CDC; health officials
-**Predicate:** warned_against_unsafe_heating
-**Object:** gas stove heating creates carbon monoxide risk (safety_warning)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** CDC; health officials
+- **Predicate:** warned_against_unsafe_heating
+- **Object:** gas stove heating creates carbon monoxide risk (safety_warning)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Health officials warned against using gas-powered stoves to heat homes because they can release carbon monoxide.
 
-### c_015 — reported, primary document
-**Subject entities:** Mississippi
-**Predicate:** experienced_emergency_supply_needs
-**Object:** bottled water, blankets, tarps, fuel, generators (supply_shortage)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_015
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Mississippi
+- **Predicate:** experienced_emergency_supply_needs
+- **Object:** bottled water, blankets, tarps, fuel, generators (supply_shortage)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Dozens of Mississippi counties were in need of bottled water, blankets, tarps, fuel and generators during the freeze.
 
@@ -272,10 +295,5 @@ This article was generated algorithmically by Main Street Independent's News Art
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Sophie Bates
 **Publication date:** 2026-01-27
-**Access date:** 2026-01-27
-**Title:** Bitter cold grips the eastern US as winter storm deaths rise and power outages linger
+**Title:** Winter storm deaths rise and power outages drag on
 **URL:** https://apnews.com/article/frigid-temperatures-arctic-air-us-south-tennessee-9d4beb4d548e29d5ce737fd001d67a64
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

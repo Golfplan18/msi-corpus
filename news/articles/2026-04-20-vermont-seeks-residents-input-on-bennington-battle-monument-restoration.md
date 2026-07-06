@@ -18,42 +18,41 @@ primary_themes:
 - public engagement
 - state decision-making
 topic_tags:
-  - "artificial intelligence"
-  - "economy, business and finance"
-  - government
-  - "government policy"
-  - politics
-  - "science and technology"
-storyline_nexus: []
-geographic_location: Vermont, United States
+- conservation
+- government
+- construction and property
+- communities
+storyline_nexus:
+- trump-climate-energy-rollbacks
+geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship
-  intensity: 0.8
+  intensity: 0.9
 - value: accountability_of_power
   intensity: 0.6
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17'
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T01:12:16Z'
 source_cluster_id: cluster_ap_2026-04-21_bennington-battle-monument-vermont-futur
 gdelt_event_ids: []
-consensus_floor_version: v1.0
-publication_mindspec_version: v1.0
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 13
   hedges:
-    appears: 0
-    alleged: 0
     attributed: 6
+    confirmed: 7
     reported: 0
     contested: 0
-    confirmed: 7
+    appears: 0
+    alleged: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 13
-    single_source: 0
+    one_originating_plus_primary_document: 0
+    primary_plus_secondary: 0
     two_independent: 0
+    single_source: 0
 sources:
   count: 1
   outlets:
@@ -67,25 +66,19 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-04-17-trump-s-250-foot-triumphal-arch-clears-first-review-by-fine-arts-commission
-  relation: related
-  strength: 0.7752
-  confidence: medium
-- slug: 2026-04-16-hawaii-agency-approves-4-9m-land-purchase-to-acquire-hazardous-wahiaw-dam
-  relation: related
-  strength: 0.7372
-  confidence: medium
-- slug: 2026-01-13-arizona-state-museum-charts-three-building-path-as-regents-stall-50m-repair-requ
-  relation: related
-  strength: 0.7938
-  confidence: medium
-- slug: 2026-01-06-west-virginia-s-abandoned-building-demolition-fund-is-spent-with-no-replacement-
-  relation: related
-  strength: 0.7268
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Vermont seeks feedback from residents on future of the Bennington Battle Monument
+- The Bennington Battle Monument is a 306-foot obelisk.
+- The monument commemorates the 1777 Battle of Bennington.
+- The monument was saturated with 66,000 gallons of water.
+- The estimated cost to restore the monument is $40 million.
 
 Vermont is hosting public meetings to gather resident feedback on the future of the 306-foot Bennington Battle Monument, which was saturated with 66,000 gallons of water and faces an estimated $40 million restoration bill. State officials announced meetings on April 29 and May 12 to discuss options for the iconic obelisk that commemorates the 1777 Battle of Bennington.
 
@@ -117,120 +110,146 @@ The state plans to host a follow-up meeting on October 6 to lay out next steps b
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Bennington Battle Monument
-**Predicate:** is_structure_with_height
-**Object:** 306 feet tall (dimension)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Bennington Battle Monument
+- **Predicate:** is_structure_with_height
+- **Object:** 306 feet tall (dimension)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > The Bennington Battle Monument is a 306-foot obelisk.
 
-### c_002 — confirmed, primary document
-**Subject entities:** Bennington Battle Monument; Battle of Bennington
-**Predicate:** commemorates
-**Object:** 1777 battle (historical_event)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Bennington Battle Monument; Battle of Bennington
+- **Predicate:** commemorates
+- **Object:** 1777 battle (historical_event)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > The monument commemorates the 1777 Battle of Bennington.
 
-### c_003 — confirmed, primary document
-**Subject entities:** Bennington Battle Monument
-**Predicate:** contains_water
-**Object:** 66,000 gallons (volume)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Bennington Battle Monument
+- **Predicate:** contains_water
+- **Object:** 66,000 gallons (volume)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > The monument was saturated with 66,000 gallons of water.
 
-### c_004 — attributed, primary document
-**Subject entities:** Bennington Battle Monument
-**Predicate:** estimated_restoration_cost
-**Object:** $40 million (currency)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Bennington Battle Monument
+- **Predicate:** estimated_restoration_cost
+- **Object:** $40 million (currency)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > The estimated cost to restore the monument is $40 million.
 
-### c_005 — confirmed, primary document
-**Subject entities:** Vermont state government
-**Predicate:** hosting_public_meetings
-**Object:** April 29 and May 12 (date)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Vermont state government
+- **Predicate:** hosting_public_meetings
+- **Object:** April 29 and May 12 (date)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Vermont is hosting public meetings on April 29 and May 12 to gather resident feedback.
 
-### c_006 — confirmed, primary document
-**Subject entities:** Bennington Battle Monument; Washington Monument
-**Predicate:** ranked_masonry_structure
-**Object:** second-tallest unreinforced masonry (structural_ranking)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Bennington Battle Monument; Washington Monument
+- **Predicate:** ranked_masonry_structure
+- **Object:** second-tallest unreinforced masonry (structural_ranking)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > The monument is the second-tallest unreinforced masonry structure in the United States after the Washington Monument.
 
-### c_007 — confirmed, primary document
-**Subject entities:** Bennington Battle Monument
-**Predicate:** elevator_status
-**Object:** not functional (operational_status)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Bennington Battle Monument
+- **Predicate:** elevator_status
+- **Object:** not functional (operational_status)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > The monument's elevator is not functional.
 
-### c_008 — attributed, primary document
-**Subject entities:** Laura Trieschmann
-**Predicate:** stated_restoration_goal
-**Object:** complete restoration (restoration_objective)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Laura Trieschmann
+- **Predicate:** stated_restoration_goal
+- **Object:** complete restoration (restoration_objective)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > State Historic Preservation Officer Laura Trieschmann said the goal is complete restoration if funding becomes available.
 
-### c_009 — attributed, primary document
-**Subject entities:** Bennington Battle Monument
-**Predicate:** drying_cost_estimate
-**Object:** $15 million (currency)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Bennington Battle Monument
+- **Predicate:** drying_cost_estimate
+- **Object:** $15 million (currency)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > The initial work to dry out the monument will cost $15 million.
 
-### c_010 — attributed, primary document
-**Subject entities:** Lyman Orton
-**Predicate:** proposed_alternative
-**Object:** hologram projection (restoration_alternative)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Lyman Orton
+- **Predicate:** proposed_alternative
+- **Object:** hologram projection (restoration_alternative)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Lyman Orton proposed disassembling the monument and projecting a hologram instead.
 
-### c_011 — attributed, primary document
-**Subject entities:** Shawn Sweeney
-**Predicate:** proposed_protective_coating
-**Object:** copper coating (restoration_alternative)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Shawn Sweeney
+- **Predicate:** proposed_protective_coating
+- **Object:** copper coating (restoration_alternative)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Rep. Shawn Sweeney, D-Shelburne, proposed coating the structure in copper to protect it from further water damage.
 
-### c_012 — confirmed, primary document
-**Subject entities:** Bennington Selectboard
-**Predicate:** adopted_resolution
-**Object:** full restoration support (governance_action)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_012
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Bennington Selectboard
+- **Predicate:** adopted_resolution
+- **Object:** full restoration support (governance_action)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > The Bennington Selectboard adopted a resolution last summer supporting full restoration of the monument.
 
-### c_013 — attributed, primary document
-**Subject entities:** Vermont state government
-**Predicate:** planning_future_meeting
-**Object:** October 6 (date)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Vermont state government
+- **Predicate:** planning_future_meeting
+- **Object:** October 6 (date)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > The state plans to host a follow-up meeting on Oct. 6 to lay out next steps.
 
@@ -239,10 +258,5 @@ The state plans to host a follow-up meeting on October 6 to lay out next steps b
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Greta Solsaa / Vtdigger
 **Publication date:** 2026-04-20
-**Access date:** 2026-04-20
 **Title:** Vermont seeks feedback from residents on future of the Bennington Battle Monument
 **URL:** https://apnews.com/article/bennington-battle-monument-vermont-future-af04d882464fa883d5405fb4d6e61542
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

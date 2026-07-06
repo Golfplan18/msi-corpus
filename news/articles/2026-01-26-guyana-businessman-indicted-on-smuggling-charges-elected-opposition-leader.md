@@ -15,44 +15,41 @@ primary_themes:
 - political leadership
 - financial crime
 topic_tags:
-  - corruption
-  - "crime, law and justice"
-  - economy
-  - "economy, business and finance"
-  - election
-  - government
-storyline_nexus: []
-geographic_location: Guyana
+- election
+- corruption
+- crime, law and justice
+- prosecution
+storyline_nexus:
+- venezuela-political-military-crisis
+geographic_location: United States
 floor_values_engaged:
-- value: truthfulness
-  intensity: 0.85
 - value: accountability_of_power
-  intensity: 0.8
+  intensity: 0.9
 - value: informed_citizenship
-  intensity: 0.75
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:31:19Z'
 source_cluster_id: cluster_ap_2026-01-27_guyana-azruddin-mohamed-opposition-leade
 gdelt_event_ids: []
-consensus_floor_version: '1.0'
-publication_mindspec_version: '1.0'
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 8
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 3
-    reported: 1
     contested: 0
+    alleged: 0
+    reported: 1
     confirmed: 4
+    appears: 0
+    attributed: 3
   corroboration:
+    single_source: 0
+    two_independent: 0
     primary_plus_secondary: 2
     one_originating_plus_primary_document: 0
     primary_document: 6
-    single_source: 0
-    two_independent: 0
 sources:
   count: 1
   outlets:
@@ -66,13 +63,16 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-05-maduro-pleads-not-guilty-to-us-drug-charges-calls-his-capture-an-abduction
-  relation: related
-  strength: 0.7874
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- Azruddin Mohamed, a Guyanese businessman indicted in Florida on gold smuggling and money laundering charges, was elected opposition leader of Guyana on Monday. The election came as a magistrate's c...
+- Mohamed's ascension to the leadership post of the second-largest party in parliament underscores allegations of persistent government corruption in...
+- Mohamed secured his position as opposition leader on Monday through the votes of 16 lawmakers from his We Invest in Nationhood Party and one additi...
 
 Azruddin Mohamed, a Guyanese businessman indicted in Florida on gold smuggling and money laundering charges, was elected opposition leader of Guyana on Monday. The election came as a magistrate's court continues hearing arguments for his extradition to the United States.
 
@@ -104,75 +104,91 @@ Mohamed's election as opposition leader underscores the political tensions in Gu
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Azruddin Mohamed; Guyana
-**Predicate:** elected_to_leadership_role
-**Object:** opposition leader (political_position)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Azruddin Mohamed; Guyana
+- **Predicate:** elected_to_leadership_role
+- **Object:** opposition leader (political_position)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > Azruddin Mohamed, 38, was elected opposition leader of Guyana on Monday, January 26, 2026.
 
-### c_002 — confirmed, primary document
-**Subject entities:** Azruddin Mohamed; Nazar Mohamed
-**Predicate:** indicted_on_charges
-**Object:** gold smuggling and money laundering (criminal_charge)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Azruddin Mohamed; Nazar Mohamed
+- **Predicate:** indicted_on_charges
+- **Object:** gold smuggling and money laundering (criminal_charge)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Mohamed and his father Nazar Mohamed were indicted in Florida on federal charges of gold smuggling and money laundering.
 
-### c_003 — reported, primary plus secondary
-**Subject entities:** Azruddin Mohamed; Nazar Mohamed; U.S. Treasury Department
-**Predicate:** sanctioned_for_smuggling
-**Object:** 10,000+ kilograms of gold (commodity_quantity)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** Azruddin Mohamed; Nazar Mohamed; U.S. Treasury Department
+- **Predicate:** sanctioned_for_smuggling
+- **Object:** 10,000+ kilograms of gold (commodity_quantity)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > The U.S. Treasury Department sanctioned Azruddin and Nazar Mohamed for allegedly smuggling more than 10,000 kilograms of gold to the United States from Guyana.
 
-### c_004 — attributed, primary plus secondary
-**Subject entities:** Azruddin Mohamed; Nazar Mohamed
-**Predicate:** evaded_taxes
-**Object:** 50,000,000 (currency_amount)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** Azruddin Mohamed; Nazar Mohamed
+- **Predicate:** evaded_taxes
+- **Object:** 50,000,000 (currency_amount)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > The Treasury Department alleged that Azruddin and Nazar Mohamed evaded more than $50 million in taxes.
 
-### c_005 — confirmed, primary document
-**Subject entities:** We Invest in Nationhood Party; Guyana
-**Predicate:** constitutes_second_largest_party
-**Object:** 17 seats (parliamentary_composition)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** We Invest in Nationhood Party; Guyana
+- **Predicate:** constitutes_second_largest_party
+- **Object:** 17 seats (parliamentary_composition)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > The We Invest in Nationhood Party received 16 parliamentary seats, plus one additional vote from a single-seat party, making it the second-largest party in Guyana's parliament.
 
-### c_006 — confirmed, primary document
-**Subject entities:** Guyana parliament
-**Predicate:** met_infrequently
-**Object:** once since July dissolution (parliamentary_activity)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Guyana parliament
+- **Predicate:** met_infrequently
+- **Object:** once since July dissolution (parliamentary_activity)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > Parliament had met only once since its dissolution in July ahead of the September general elections.
 
-### c_007 — attributed, primary document
-**Subject entities:** Manzoor Nadir; Azruddin Mohamed
-**Predicate:** expressed_concern
-**Object:** difficult position overseeing appointment (official_statement)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Manzoor Nadir; Azruddin Mohamed
+- **Predicate:** expressed_concern
+- **Object:** difficult position overseeing appointment (official_statement)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > House Speaker Manzoor Nadir publicly expressed unease with Mohamed's election, describing himself as being in a 'difficult position' for having to oversee the appointment of someone facing potential extradition.
 
-### c_008 — attributed, primary document
-**Subject entities:** Azruddin Mohamed
-**Predicate:** defended_candidacy_publicly
-**Object:** innocent until proven guilty / political opposition (speech_act)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Azruddin Mohamed
+- **Predicate:** defended_candidacy_publicly
+- **Object:** innocent until proven guilty / political opposition (speech_act)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > Mohamed said that 'a person is innocent until proven guilty' and argued that efforts to remove him from office are tied to his party's political opposition to the ruling People's Progressive Party.
 
@@ -181,10 +197,5 @@ Mohamed's election as opposition leader underscores the political tensions in Gu
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Bert Wilkinson
 **Publication date:** 2026-01-26
-**Access date:** 2026-01-26
-**Title:** Guyanese businessman sanctioned and indicted in US is elected as nation's opposition leader
+**Title:** Guyanese businessman sanctioned and indicted in US is elected as nation’s opposition leader
 **URL:** https://apnews.com/article/guyana-azruddin-mohamed-opposition-leader-1489f4feab9dd4a04b7dc9bfda80abf0
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

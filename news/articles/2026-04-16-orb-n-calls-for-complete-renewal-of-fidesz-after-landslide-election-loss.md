@@ -223,7 +223,3 @@ Despite the defeat, Orbán noted that nearly 2.4 million people in the country o
 **Access date:** 2026-05-17
 **Title:** Hungary's Orbán's calls for Fidesz party renewal after election loss
 **URL:** https://apnews.com/article/hungary-orban-party-renewal-0d81f9786243ebfb94a92c6542777c29
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

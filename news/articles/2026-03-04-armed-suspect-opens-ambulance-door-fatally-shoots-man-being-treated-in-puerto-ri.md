@@ -159,7 +159,3 @@ No arrests were announced in connection with the ambulance shooting, and police 
 **Access date:** 2026-05-17
 **Title:** Puerto Rico police say armed suspect opens ambulance and kills injured man
 **URL:** https://apnews.com/article/puerto-rico-ambulance-shooting-killed-santurce-07429ac092f1419db03b1eb4a2645b18
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

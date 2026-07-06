@@ -20,7 +20,7 @@ topic_tags:
   - politics
   - election
 storyline_nexus:
-  - immigration-enforcement
+- 2026-midterm-elections
 geographic_location: California, United States
 floor_values_engaged:
 - value: informed_citizenship
@@ -113,93 +113,113 @@ Democrat Audrey Denney, who had previously lost to LaMalfa, and state Sen. Mike 
 
 ## Atomic claims
 
-### c_001 — confirmed, single source
-**Subject entities:** Doug LaMalfa
-**Predicate:** died
-**Object:** 2026-01-06 (date)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Doug LaMalfa
+- **Predicate:** died
+- **Object:** 2026-01-06 (date)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > Republican Rep. Doug LaMalfa of California died on Monday, January 6, 2026.
 
-### c_002 — attributed, single source
-**Subject entities:** U.S. Republican Party; United States House of Representatives
-**Predicate:** majority_seat_count
-**Object:** 218-213 (seat_tally)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Republican Party; United States House of Representatives
+- **Predicate:** majority_seat_count
+- **Object:** 218-213 (seat_tally)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > LaMalfa's death shrinks the Republican House majority to 218 seats against Democrats' 213.
 
-### c_003 — reported, single source
-**Subject entities:** U.S. Democratic Party
-**Predicate:** expected_to_win
-**Object:** Texas special election (electoral_event)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Democratic Party
+- **Predicate:** expected_to_win
+- **Object:** Texas special election (electoral_event)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Democrats are expected to win a House seat in a Texas special election later in January 2026.
 
-### c_004 — confirmed, single source
-**Subject entities:** Gavin Newsom
-**Predicate:** has_legal_deadline
-**Object:** 14 days to set special election date (legal_requirement)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Gavin Newsom
+- **Predicate:** has_legal_deadline
+- **Object:** 14 days to set special election date (legal_requirement)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > Under California law, Gov. Gavin Newsom has 14 days to set a date for a special election to fill the remainder of LaMalfa's term.
 
-### c_005 — reported, single source
-**Subject entities:** Gavin Newsom
-**Predicate:** may_schedule_between
-**Object:** May or June 2026 (date_range)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Gavin Newsom
+- **Predicate:** may_schedule_between
+- **Object:** May or June 2026 (date_range)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Newsom could set the special election as early as May or align it with California's June primary for the 2026 midterm.
 
-### c_006 — attributed, single source
-**Subject entities:** Paul Mitchell
-**Predicate:** confirmed
-**Object:** special election uses existing boundaries (electoral_rule)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Paul Mitchell
+- **Predicate:** confirmed
+- **Object:** special election uses existing boundaries (electoral_rule)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > The special election would be held under existing House district boundaries, not the new lines approved by California voters in November.
 
-### c_007 — confirmed, single source
-**Subject entities:** California
-**Predicate:** approved_new_district_maps
-**Object:** November 2025 ballot measure (electoral_action)
-**Temporal:** 2025-11
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** California
+- **Predicate:** approved_new_district_maps
+- **Object:** November 2025 ballot measure (electoral_action)
+- **Temporal:** 2025-11
+- **Sources:** src_001
 
 > California voters approved new U.S. House district maps in November outside the typical once-a-decade redistricting cycle.
 
-### c_008 — confirmed, single source
-**Subject entities:** California; Marin County
-**Predicate:** district_configuration
-**Object:** rural north grouped with coastal progressive areas (geographic_description)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** California; Marin County
+- **Predicate:** district_configuration
+- **Object:** rural north grouped with coastal progressive areas (geographic_description)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > LaMalfa's current district covers rural northern California from the Oregon border to just north of Sacramento. The new lines group that area with progressive coastal communities including Marin County.
 
-### c_009 — confirmed, single source
-**Subject entities:** Audrey Denney; Mike McGuire
-**Predicate:** announced_midterm_candidacy
-**Object:** LaMalfa's district (electoral_declaration)
-**Temporal:** prior to 2026-01-06
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Audrey Denney; Mike McGuire
+- **Predicate:** announced_midterm_candidacy
+- **Object:** LaMalfa's district (electoral_declaration)
+- **Temporal:** prior to 2026-01-06
+- **Sources:** src_001
 
 > Democrat Audrey Denney, who previously lost to LaMalfa, and state Sen. Mike McGuire had each announced plans to challenge LaMalfa in the 2026 midterm.
 
-### c_010 — reported, single source
-**Subject entities:** U.S. Republican Party
-**Predicate:** no_candidacy_announced
-**Object:** LaMalfa's vacant seat (electoral_vacancy)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Republican Party
+- **Predicate:** no_candidacy_announced
+- **Object:** LaMalfa's vacant seat (electoral_vacancy)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > No major Republicans had announced plans to seek LaMalfa's seat as of January 6, 2026.
 
@@ -211,7 +231,3 @@ Democrat Audrey Denney, who had previously lost to LaMalfa, and state Sen. Mike 
 **Access date:** 2026-01-07
 **Title:** Rep. LaMalfa's death leaves open House seat. Here's what happens next
 **URL:** https://apnews.com/article/special-election-house-vacant-seat-lamalfa-california-29c6eb417e4c39402ad3c26cba6fd1df
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

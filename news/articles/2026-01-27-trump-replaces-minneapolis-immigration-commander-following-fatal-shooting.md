@@ -25,8 +25,7 @@ topic_tags:
   - "political dissent"
   - "science and technology"
 storyline_nexus:
-  - immigration-enforcement
-  - us-administration-2026
+- us-immigration-enforcement
 geographic_location: Minneapolis, Minnesota
 floor_values_engaged:
 - value: informed_citizenship
@@ -151,129 +150,157 @@ The federal government's attorneys argued the temporary restraining order should
 
 ## Atomic claims
 
-### c_001 — reported, single source
-**Subject entities:** Gregory Bovino
-**Predicate:** expected_to_leave
-**Object:** Minneapolis (location)
-**Temporal:** 2026-01-28
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Gregory Bovino
+- **Predicate:** expected_to_leave
+- **Object:** Minneapolis (location)
+- **Temporal:** 2026-01-28
+- **Sources:** src_001
 
 > Gregory Bovino is expected to leave Minneapolis on Tuesday.
 
-### c_002 — attributed, primary document
-**Subject entities:** Tom Homan
-**Predicate:** placed_in_charge
-**Object:** immigration enforcement operations in Minnesota (operational_assignment)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Tom Homan
+- **Predicate:** placed_in_charge
+- **Object:** immigration enforcement operations in Minnesota (operational_assignment)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Tom Homan is being placed in charge of immigration enforcement operations in Minnesota.
 
-### c_003 — attributed, primary document
-**Subject entities:** Tom Homan
-**Predicate:** reports_to
-**Object:** White House (organization)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Tom Homan
+- **Predicate:** reports_to
+- **Object:** White House (organization)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Homan will report directly to the White House.
 
-### c_004 — confirmed, primary document
-**Subject entities:** Alex Pretti
-**Predicate:** killed_by
-**Object:** Border Patrol agents (agent)
-**Temporal:** 2026-01-25
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Alex Pretti
+- **Predicate:** killed_by
+- **Object:** Border Patrol agents (agent)
+- **Temporal:** 2026-01-25
+- **Sources:** src_001
 
 > Alex Pretti, an ICU nurse, was killed Saturday by Border Patrol agents.
 
-### c_005 — attributed, single source
-**Subject entities:** Gregory Bovino
-**Predicate:** claimed
-**Object:** Pretti planned to massacre law enforcement (alleged_claim)
-**Temporal:** 2026-01-25
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Gregory Bovino
+- **Predicate:** claimed
+- **Object:** Pretti planned to massacre law enforcement (alleged_claim)
+- **Temporal:** 2026-01-25
+- **Sources:** src_001
 
 > Bovino claimed Pretti had been planning to massacre law enforcement officers.
 
-### c_006 — reported, single source
-**Subject entities:** authorities
-**Predicate:** had_not_substantiated
-**Object:** massacre claim characterization (verification_status)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** authorities
+- **Predicate:** had_not_substantiated
+- **Object:** massacre claim characterization (verification_status)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > Authorities had not substantiated Bovino's characterization about a planned massacre.
 
-### c_007 — attributed, single source
-**Subject entities:** Gregory Bovino
-**Predicate:** drew_criticism_from
-**Object:** local officials, civil rights advocates, congressional Democrats (critics)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Gregory Bovino
+- **Predicate:** drew_criticism_from
+- **Object:** local officials, civil rights advocates, congressional Democrats (critics)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Bovino's leadership drew fierce criticism from local officials, civil rights advocates, and congressional Democrats.
 
-### c_008 — attributed, primary document
-**Subject entities:** Donald Trump; Tim Walz
-**Predicate:** spoke_and_aligned
-**Object:** on similar wavelength regarding immigration enforcement (diplomatic_exchange)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Donald Trump; Tim Walz
+- **Predicate:** spoke_and_aligned
+- **Object:** on similar wavelength regarding immigration enforcement (diplomatic_exchange)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Trump and Gov. Tim Walz spoke by phone and seemed to be on a similar wavelength.
 
-### c_009 — attributed, single source
-**Subject entities:** Jacob Frey
-**Predicate:** asked_to_end
-**Object:** immigration enforcement surge (policy_action)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jacob Frey
+- **Predicate:** asked_to_end
+- **Object:** immigration enforcement surge (policy_action)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Minneapolis Mayor Jacob Frey asked Trump to end the immigration enforcement surge.
 
-### c_010 — reported, single source
-**Subject entities:** Donald Trump
-**Predicate:** agreed
-**Object:** present situation cannot continue (policy_position)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** agreed
+- **Object:** present situation cannot continue (policy_position)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Trump agreed the present immigration enforcement situation cannot continue.
 
-### c_011 — attributed, primary document
-**Subject entities:** ICE; Border Patrol
-**Predicate:** deployed
-**Object:** 2,000 ICE officers and 1,000+ Border Patrol officers (force_deployment)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** ICE; Border Patrol
+- **Predicate:** deployed
+- **Object:** 2,000 ICE officers and 1,000+ Border Patrol officers (force_deployment)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > About 2,000 Immigration and Customs Enforcement officers and at least 1,000 Border Patrol officers are on the ground in Minnesota.
 
-### c_012 — reported, primary document
-**Subject entities:** Katherine Menendez
-**Predicate:** considering
-**Object:** temporary halt of immigration operation (judicial_action)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Katherine Menendez
+- **Predicate:** considering
+- **Object:** temporary halt of immigration operation (judicial_action)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > U.S. District Judge Katherine Menendez is considering whether to temporarily halt the immigration operation.
 
-### c_013 — attributed, primary document
-**Subject entities:** Katherine Menendez
-**Predicate:** questioned
-**Object:** limits on executive immigration enforcement authority (judicial_inquiry)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Katherine Menendez
+- **Predicate:** questioned
+- **Object:** limits on executive immigration enforcement authority (judicial_inquiry)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Judge Menendez questioned whether there is any limit to what the executive can do under the guise of enforcing immigration law.
 
-### c_014 — attributed, primary document
-**Subject entities:** Pam Bondi
-**Predicate:** asked_for_access
-**Object:** voter rolls, Medicaid records, food assistance data, and repeal of sanctuary policies (government_request)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Pam Bondi
+- **Predicate:** asked_for_access
+- **Object:** voter rolls, Medicaid records, food assistance data, and repeal of sanctuary policies (government_request)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Attorney General Pam Bondi asked the state to give federal access to voter rolls and to repeal sanctuary policies.
 
@@ -285,7 +312,3 @@ The federal government's attorneys argued the temporary restraining order should
 **Access date:** 2026-05-18
 **Title:** Bovino to leave Minneapolis as Trump reshuffles immigration crackdown leadership
 **URL:** https://apnews.com/article/shooting-minneapolis-protests-ice-immigration-lawsuit-5bd12d70d3c76bfe5eacd802ce7480a7
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

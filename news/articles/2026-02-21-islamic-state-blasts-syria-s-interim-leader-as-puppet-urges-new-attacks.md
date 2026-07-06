@@ -24,7 +24,8 @@ topic_tags:
   - "artificial intelligence"
   - religion
   - "belief systems"
-storyline_nexus: []
+storyline_nexus:
+- syria-post-conflict-integration
 geographic_location: Syria, Iraq, Middle East
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -261,7 +262,3 @@ The audio, which al-Ansari said marked the beginning of the Muslim holy month of
 **Access date:** 2026-05-18
 **Title:** Islamic State lashes out at Syria's interim president and urges new attacks
 **URL:** https://apnews.com/article/syria-iraq-islamic-state-group-alsharaa-f8fdf0591f859cc0d6b7a18525f731ad
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -15,43 +15,45 @@ primary_themes:
 - federal-municipal relations
 - historical narrative
 - federal policy
-topic_tags: []
+topic_tags:
+- government policy
+- judiciary
+- civil rights
+- arts, culture, entertainment and media
+- politics
 storyline_nexus:
-  - immigration-enforcement
-  - us-administration-2026
-geographic_location: Philadelphia, Pennsylvania, United States
+- trump-judicial-challenges
+geographic_location: United States
 floor_values_engaged:
-- value: human_life_and_dignity
-  intensity: 0.7
 - value: truthfulness
-  intensity: 0.8
-- value: accountability_of_power
-  intensity: 0.8
+  intensity: 0.9
 - value: informed_citizenship
+  intensity: 0.9
+- value: accountability_of_power
   intensity: 0.6
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:36:54Z'
 source_cluster_id: cluster_ap_2026-02-21_slavery-history-exhibit-philadelphia-a3c
 gdelt_event_ids: []
-consensus_floor_version: MSI-Consensus-Values-Floor-v1.0
-publication_mindspec_version: msi-editorial-supervisor-v1.0
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 13
   hedges:
     appears: 0
-    alleged: 0
-    attributed: 7
-    reported: 1
     contested: 0
     confirmed: 5
+    reported: 1
+    alleged: 0
+    attributed: 7
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 13
-    single_source: 0
     two_independent: 0
+    primary_document: 13
+    one_originating_plus_primary_document: 0
+    single_source: 0
+    primary_plus_secondary: 0
 sources:
   count: 1
   outlets:
@@ -65,17 +67,20 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-13-smithsonian-hands-exhibit-details-to-white-house-amid-pressure-for-upbeat-us-his
-  relation: related
-  strength: 0.7805
-  confidence: medium
-- slug: 2026-01-11-smithsonian-drops-impeachment-references-from-trump-portrait-display
-  relation: related
-  strength: 0.734
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Appeals court says Trump administration can halt work on slavery exhibit in Philadelphia amid appeal
+- Appeals court says Trump administration can halt work on slavery exhibit in Philadelphia amid appeal
+- PHILADELPHIA (AP) — A U.S. appeals court late Friday said the Trump administration can halt work on a National Park Service slavery exhibit in Philadelphia while it appeals an order to reinstall it.
+- The Park Service describes the exhibit as one “that examines the paradox between slavery and freedom in the founding of the nation.”
+- The exhibit had been on display since 2010, the result of years of research and collaboration between the city, the Park Service, historians and other private parties.
+- Rufe said the federal government was unlikely to succeed at trial. And she said the public –- and the city’s reputation -- was being harmed with each passing day.
 
 A U.S. appeals court on Friday allowed the Trump administration to halt work on a slavery exhibit at Philadelphia's President's House on Independence Mall, blocking implementation of a lower court order to restore it. The decision pauses a disputed effort to display information about slavery during the founding era as the city prepares for the nation's 250th anniversary.
 
@@ -111,124 +116,148 @@ Gegner highlighted the constitutional significance of the dispute. "This whole c
 
 The remaining panels are now preserved in their current state pending the appeals court's decision. Philadelphia prepares for the 250th anniversary of American independence this year, when the city expects millions of visitors to the nation's birthplace.
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** U.S. appeals court; Trump administration
-**Predicate:** allowed to halt
-**Object:** slavery exhibit work (action)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. appeals court; Trump administration
+- **Predicate:** allowed to halt
+- **Object:** slavery exhibit work (action)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > A U.S. appeals court allowed the Trump administration to halt work on a slavery exhibit at the President's House in Philadelphia on Friday.
 
-### c_002 — confirmed, primary document
-**Subject entities:** slavery exhibit; President's House
-**Predicate:** documents
-**Object:** nine enslaved people under Washington, 1790s (historical_group)
-**Temporal:** 1790s
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** slavery exhibit; President's House
+- **Predicate:** documents
+- **Object:** nine enslaved people under Washington, 1790s (historical_group)
+- **Temporal:** 1790s
+- **Sources:** src_001
 
 > The exhibit examines the lives of nine enslaved people at the President's House site under George Washington in the 1790s.
 
-### c_003 — confirmed, primary document
-**Subject entities:** Trump administration
-**Predicate:** removed
-**Object:** slavery exhibit (action)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Trump administration
+- **Predicate:** removed
+- **Object:** slavery exhibit (action)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > The Trump administration removed the exhibit in January.
 
-### c_004 — attributed, primary document
-**Subject entities:** Trump administration
-**Predicate:** removed as part of effort
-**Object:** disparaging content from federal properties (stated_policy)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Trump administration
+- **Predicate:** removed as part of effort
+- **Object:** disparaging content from federal properties (stated_policy)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > The removal was part of an effort to remove information the administration deems disparaging to Americans from federal properties.
 
-### c_005 — confirmed, primary document
-**Subject entities:** U.S. District Judge Cynthia M. Rufe
-**Predicate:** ordered restoration
-**Object:** Friday 5 p.m. deadline (court_order)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. District Judge Cynthia M. Rufe
+- **Predicate:** ordered restoration
+- **Object:** Friday 5 p.m. deadline (court_order)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > U.S. District Judge Cynthia M. Rufe had ordered the exhibit restored by Friday at 5 p.m.
 
-### c_006 — reported, primary document
-**Subject entities:** slavery exhibit panels
-**Predicate:** restored
-**Object:** about half of large panels (extent)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** slavery exhibit panels
+- **Predicate:** restored
+- **Object:** about half of large panels (extent)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > About half of the large panels at the outdoor exhibit were restored Friday morning.
 
-### c_007 — attributed, primary document
-**Subject entities:** Judge Cynthia M. Rufe
-**Predicate:** assessed likelihood
-**Object:** government unlikely to succeed at trial (judicial_assessment)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Judge Cynthia M. Rufe
+- **Predicate:** assessed likelihood
+- **Object:** government unlikely to succeed at trial (judicial_assessment)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > Judge Cynthia M. Rufe said the federal government was unlikely to succeed at trial.
 
-### c_008 — attributed, primary document
-**Subject entities:** Judge Cynthia M. Rufe
-**Predicate:** ruled on government authority
-**Object:** government restricted from messaging at President's House without city consultation (legal_ruling)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Judge Cynthia M. Rufe
+- **Predicate:** ruled on government authority
+- **Object:** government restricted from messaging at President's House without city consultation (legal_ruling)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > Judge Rufe wrote that the government can convey a different message elsewhere but cannot do so at the President's House without consulting the city.
 
-### c_009 — attributed, primary document
-**Subject entities:** Justice Department
-**Predicate:** characterized
-**Object:** ruling as extraordinary and improper intrusion (official_response)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Justice Department
+- **Predicate:** characterized
+- **Object:** ruling as extraordinary and improper intrusion (official_response)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > The Justice Department called Judge Rufe's ruling extraordinary and an improper intrusion on the workings of a co-equal branch of government.
 
-### c_010 — confirmed, primary document
-**Subject entities:** slavery exhibit
-**Predicate:** displayed since
-**Object:** 2010, product of collaborative research (factual_history)
-**Temporal:** 2010-present
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** slavery exhibit
+- **Predicate:** displayed since
+- **Object:** 2010, product of collaborative research (factual_history)
+- **Temporal:** 2010-present
+- **Sources:** src_001
 
 > The exhibit has been on display since 2010 as a result of years of research and collaboration between the city, the Park Service, historians and private parties.
 
-### c_011 — attributed, primary document
-**Subject entities:** U.S. Circuit Judge Thomas Hardiman
-**Predicate:** stated timeline for
-**Object:** expedited appeal, one month or more duration (judicial_statement)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Circuit Judge Thomas Hardiman
+- **Predicate:** stated timeline for
+- **Object:** expedited appeal, one month or more duration (judicial_statement)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > Judge Thomas Hardiman said the court would expedite the appeal but legal proceedings would continue for another month or more.
 
-### c_012 — attributed, primary document
-**Subject entities:** Kimberly Gegner
-**Predicate:** expressed pain at removal
-**Object:** removal of slavery exhibit history (personal_response)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Kimberly Gegner
+- **Predicate:** expressed pain at removal
+- **Object:** removal of slavery exhibit history (personal_response)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > Philadelphia teacher Kimberly Gegner visited the site Friday with 6th- to 9th-grade students and said as a Black American it pained her to see the history removed.
 
-### c_013 — attributed, primary document
-**Subject entities:** Kimberly Gegner
-**Predicate:** expressed gratitude and constitutional significance
-**Object:** restoration demonstrating constitutional application (personal_assessment)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Kimberly Gegner
+- **Predicate:** expressed gratitude and constitutional significance
+- **Object:** restoration demonstrating constitutional application (personal_assessment)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > Gegner said she was grateful to see the history going back up and cited the case as an example of how the Constitution was applied to restore Philadelphia's history.
 
@@ -237,10 +266,5 @@ This article was generated algorithmically by Main Street Independent's News Art
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Tassanee Vejpongsa
 **Publication date:** 2026-02-20
-**Access date:** 2026-02-20
 **Title:** Appeals court says Trump administration can halt work on slavery exhibit during appeal
 **URL:** https://apnews.com/article/slavery-history-exhibit-philadelphia-a3cf68e206257da106c0b680cc3187d9
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

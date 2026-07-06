@@ -20,7 +20,7 @@ topic_tags:
   - politics
   - "government policy"
 storyline_nexus:
-  - immigration-enforcement
+- us-immigration-enforcement
 geographic_location: Minneapolis, Minnesota, United States
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -141,84 +141,102 @@ Three federal investigations are examining the circumstances of Pretti's death.
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Alex Pretti
-**Predicate:** was_killed_by
-**Object:** federal immigration officers in Minneapolis (event)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Alex Pretti
+- **Predicate:** was_killed_by
+- **Object:** federal immigration officers in Minneapolis (event)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > Alex Pretti was a 37-year-old intensive care nurse killed by federal immigration officers in Minneapolis in January.
 
-### c_002 — attributed, single source
-**Subject entities:** Greg Bovino
-**Predicate:** said
-**Object:** officers fired defensive shots after Pretti approached with gun (statement)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Greg Bovino
+- **Predicate:** said
+- **Object:** officers fired defensive shots after Pretti approached with gun (statement)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > Border Patrol commander Greg Bovino said officers fired defensive shots after Pretti approached with a 9mm semiautomatic handgun.
 
-### c_003 — attributed, single source
-**Subject entities:** Kristi Noem
-**Predicate:** said
-**Object:** Pretti came with weapon, ammunition and attacked officers (statement)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Kristi Noem
+- **Predicate:** said
+- **Object:** Pretti came with weapon, ammunition and attacked officers (statement)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > Homeland Security Secretary Kristi Noem said Pretti came with a weapon and dozens of rounds of ammunition and attacked officers.
 
-### c_004 — attributed, single source
-**Subject entities:** Greg Bovino
-**Predicate:** said
-**Object:** Pretti wanted to massacre law enforcement (statement)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Greg Bovino
+- **Predicate:** said
+- **Object:** Pretti wanted to massacre law enforcement (statement)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > Bovino said Pretti was there to do maximum damage and massacre law enforcement.
 
-### c_005 — confirmed, primary document
-**Subject entities:** Pretti
-**Predicate:** appears_in
-**Object:** video showing Pretti with phone, no visible weapon (video_evidence)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Pretti
+- **Predicate:** appears_in
+- **Object:** video showing Pretti with phone, no visible weapon (video_evidence)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > Bystander video obtained by The Associated Press shows Pretti holding only a phone before the confrontation, with no visible weapon.
 
-### c_006 — attributed, single source
-**Subject entities:** use-of-force experts
-**Predicate:** said
-**Object:** video undermined claim that Pretti approached with firearm (expert_assessment)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** use-of-force experts
+- **Predicate:** said
+- **Object:** video undermined claim that Pretti approached with firearm (expert_assessment)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > Use-of-force experts told The Associated Press that bystander video undermined federal authorities' claim that Pretti approached with a firearm.
 
-### c_007 — confirmed, primary document
-**Subject entities:** officer; Pretti
-**Predicate:** fired_at
-**Object:** officer fired multiple shots into Pretti's back (action)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** officer; Pretti
+- **Predicate:** fired_at
+- **Object:** officer fired multiple shots into Pretti's back (action)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > Video shows an officer pulling a handgun from Pretti's waist area and firing multiple shots into his back.
 
-### c_008 — confirmed, single source
-**Subject entities:** Pretti
-**Predicate:** was_licensed_to_carry
-**Object:** concealed weapon (legal_status)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Pretti
+- **Predicate:** was_licensed_to_carry
+- **Object:** concealed weapon (legal_status)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > Pretti was licensed to carry a concealed weapon.
 
-### c_009 — attributed, single source
-**Subject entities:** Donald Trump
-**Predicate:** said
-**Object:** Democrats encouraged obstruction, caused chaos (accusation)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** said
+- **Object:** Democrats encouraged obstruction, caused chaos (accusation)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > Trump said on social media that Democrats had encouraged people to obstruct law enforcement and blamed the incident on Democrat ensued chaos.
 
@@ -230,7 +248,3 @@ Three federal investigations are examining the circumstances of Pretti's death.
 **Access date:** 2026-05-18
 **Title:** How Trump officials portray Alex Pretti and what video shows
 **URL:** https://apnews.com/article/trump-administration-alex-pretti-their-own-words-27b7233380c68306a64317b3bf2aa4a3
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

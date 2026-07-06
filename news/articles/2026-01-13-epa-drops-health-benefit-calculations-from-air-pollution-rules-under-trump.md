@@ -1,6 +1,5 @@
 ---
 headline: EPA drops health-benefit calculations from air pollution rules under Trump
-slug: 2026-01-13-epa-drops-health-benefit-calculations-from-air-pollution-rules
 publish_date: '2026-01-13'
 lede: The Environmental Protection Agency said Monday it will stop calculating the monetary value of lives saved and health care costs avoided when setting standards for fine particulate matter and ozone, ending a decades-long practice used by administrations of both parties to justify clean-air rules.
 nut_graf: The change shifts the regulatory calculus for future air pollution rules to focus exclusively on compliance costs to industry, and comes as the Trump administration simultaneously moves to weaken a Biden-era soot standard and issues a less-restrictive nitrogen oxide rule for gas-burning power plants.
@@ -19,47 +18,43 @@ primary_themes:
 - cost-benefit analysis
 - regulatory policy
 topic_tags:
-  - "artificial intelligence"
-  - "crime, law and justice"
-  - election
-  - environment
-  - government
-  - "government policy"
+- environment
+- pollution
+- government policy
+- public health
 storyline_nexus:
-  - us-administration-2026
-  - trump-tariff-policy
-  - monetary-policy-2026
+- trump-climate-energy-rollbacks
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
   intensity: 0.9
+- value: truthfulness
+  intensity: 0.6
 - value: accountability_of_power
-  intensity: 0.85
-- value: informed_citizenship
-  intensity: 0.8
-framework_version: 1.1.0
-generation_timestamp: '2026-01-13T00:00:00Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:12:13Z'
 source_cluster_id: cluster_ap_2026-01-12_epa-air-pollution-health-benefits-trump-
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 12
   hedges:
-    appears: 0
     alleged: 0
+    confirmed: 4
+    appears: 0
+    contested: 0
     attributed: 6
     reported: 2
-    contested: 0
-    confirmed: 4
   corroboration:
+    primary_document: 3
     primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
-    primary_document: 3
-    single_source: 9
     two_independent: 0
+    single_source: 9
 sources:
   count: 1
   outlets:
@@ -77,17 +72,17 @@ image:
   url: /articles/2026-01-13-epa-drops-health-benefit-calculations-from-air-pollution-rules-under-trump.png
   alt: 'Illustration accompanying article: EPA drops health-benefit calculations from air pollution rules under Trump'
   source: ai_generated
-cross_article_links:
-- slug: 2025-12-30-trump-s-epa-cuts-pollution-rules-and-staff-in-fossil-fuel-pivot
-  relation: related
-  strength: 0.8099
-  confidence: medium
-- slug: 2025-12-30-zeldin-s-epa-cuts-enforcement-and-staff-as-fossil-fuel-friendly-pivot-takes-hold
-  relation: related
-  strength: 0.7821
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- The change shifts the regulatory calculus for future air pollution rules to focus exclusively on compliance costs to industry, and comes as the Trump administration simultaneously moves to weaken a...
+- The Environmental Protection Agency said Monday it will stop calculating the monetary value of lives saved and health care costs avoided when setti...
+- EPA spokeswoman Brigit Hirsch said the agency "will not be monetizing the impacts at this time." The agency said it "absolutely remains committed t...
+- Environmental and public health advocates said the move would remove a critical tool for gauging whether air pollution rules are worth their cost —...
 
 The change shifts the regulatory calculus for future air pollution rules to focus exclusively on compliance costs to industry, and comes as the Trump administration simultaneously moves to weaken a Biden-era soot standard and issues a less-restrictive nitrogen oxide rule for gas-burning power plants.
 
@@ -133,111 +128,135 @@ EPA said the United States has made substantial progress in reducing PM2.5 and o
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** U.S. Environmental Protection Agency
-**Predicate:** announced_policy_change
-**Object:** will not monetize health benefits from PM2.5 and ozone rules (policy_decision)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Environmental Protection Agency
+- **Predicate:** announced_policy_change
+- **Object:** will not monetize health benefits from PM2.5 and ozone rules (policy_decision)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > The EPA announced it will stop calculating the monetary value of health benefits from rules for fine particulate matter and ozone.
 
-### c_002 — attributed, single source
-**Subject entities:** Brigit Hirsch; U.S. Environmental Protection Agency
-**Predicate:** stated
-**Object:** will not be monetizing the impacts at this time (official_statement)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Brigit Hirsch; U.S. Environmental Protection Agency
+- **Predicate:** stated
+- **Object:** will not be monetizing the impacts at this time (official_statement)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > EPA spokeswoman Brigit Hirsch said the agency 'will not be monetizing the impacts at this time.'
 
-### c_003 — reported, single source
-**Subject entities:** U.S. Environmental Protection Agency; Joe Biden
-**Predicate:** estimated
-**Object:** up to 4,500 premature deaths and 290,000 lost workdays prevented by 2032 (regulatory_estimate)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Environmental Protection Agency; Joe Biden
+- **Predicate:** estimated
+- **Object:** up to 4,500 premature deaths and 290,000 lost workdays prevented by 2032 (regulatory_estimate)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Under Biden, EPA estimated its proposed PM2.5 rule would prevent up to 4,500 premature deaths and 290,000 lost workdays by 2032.
 
-### c_004 — reported, single source
-**Subject entities:** U.S. Environmental Protection Agency
-**Predicate:** estimated
-**Object:** up to $77 in health benefits per $1 spent on PM2.5 reduction (cost_benefit_ratio)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Environmental Protection Agency
+- **Predicate:** estimated
+- **Object:** up to $77 in health benefits per $1 spent on PM2.5 reduction (cost_benefit_ratio)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > EPA said under Biden that for every $1 spent on reducing PM2.5, there could be as much as $77 in health benefits.
 
-### c_005 — attributed, single source
-**Subject entities:** John Walke; Natural Resources Defense Council
-**Predicate:** stated
-**Object:** reckless, dangerous, and illegal (attributed_characterization)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** John Walke; Natural Resources Defense Council
+- **Predicate:** stated
+- **Object:** reckless, dangerous, and illegal (attributed_characterization)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > John Walke, a senior attorney for the Natural Resources Defense Council, called the change 'reckless, dangerous, and illegal.'
 
-### c_006 — confirmed, primary document
-**Subject entities:** U.S. Environmental Protection Agency
-**Predicate:** issued
-**Object:** final NOx rule, less restrictive than Biden proposal (regulatory_action)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Environmental Protection Agency
+- **Predicate:** issued
+- **Object:** final NOx rule, less restrictive than Biden proposal (regulatory_action)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > EPA issued a final NOx rule Monday that is substantially less restrictive than the Biden proposal and weakens protections in place for two decades at some gas plants.
 
-### c_007 — attributed, single source
-**Subject entities:** W. Kip Viscusi; Vanderbilt Law School
-**Predicate:** stated
-**Object:** will undermine the rationale for all health, safety and environmental regulations (expert_opinion)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** W. Kip Viscusi; Vanderbilt Law School
+- **Predicate:** stated
+- **Object:** will undermine the rationale for all health, safety and environmental regulations (expert_opinion)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > W. Kip Viscusi, a Vanderbilt Law School professor who helped develop the government's method of monetizing health risks, said the change 'will undermine the rationale for all health, safety and environmental regulations.'
 
-### c_008 — attributed, single source
-**Subject entities:** W. Kip Viscusi
-**Predicate:** characterized
-**Object:** unprecedented (attributed_characterization)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** W. Kip Viscusi
+- **Predicate:** characterized
+- **Object:** unprecedented (attributed_characterization)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Viscusi called the Trump administration's use of a zero value for expected lives saved 'unprecedented.'
 
-### c_009 — confirmed, primary document
-**Subject entities:** U.S. Environmental Protection Agency
-**Predicate:** argued_in_court
-**Object:** Biden PM2.5 rule was unlawful (legal_filing)
-**Temporal:** 2025-11
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Environmental Protection Agency
+- **Predicate:** argued_in_court
+- **Object:** Biden PM2.5 rule was unlawful (legal_filing)
+- **Temporal:** 2025-11
+- **Sources:** src_001
 
 > In a November court filing, EPA argued the Biden PM2.5 rule was done 'without the rigorous, stepwise process that Congress required' and was therefore unlawful.
 
-### c_010 — attributed, single source
-**Subject entities:** W. Kip Viscusi
-**Predicate:** stated
-**Object:** account for a dominant share of the mortality benefits of recent EPA regulations (expert_opinion)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** W. Kip Viscusi
+- **Predicate:** stated
+- **Object:** account for a dominant share of the mortality benefits of recent EPA regulations (expert_opinion)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Viscusi said the air pollution rules being changed 'account for a dominant share of the mortality benefits of recent EPA regulations.'
 
-### c_011 — attributed, single source
-**Subject entities:** U.S. Environmental Protection Agency
-**Predicate:** stated
-**Object:** absolutely remains committed to our core mission of protecting human health and the environment (official_statement)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Environmental Protection Agency
+- **Predicate:** stated
+- **Object:** absolutely remains committed to our core mission of protecting human health and the environment (official_statement)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > EPA said it 'absolutely remains committed to our core mission of protecting human health and the environment.'
 
-### c_012 — confirmed, single source
-**Subject entities:** U.S. Environmental Protection Agency
-**Predicate:** institutional_history
-**Object:** bipartisan use of monetized cost-benefit analysis since EPA founding (historical_context)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_012
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Environmental Protection Agency
+- **Predicate:** institutional_history
+- **Object:** bipartisan use of monetized cost-benefit analysis since EPA founding (historical_context)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > EPA has existed for more than 50 years, and Republican and Democratic administrations have both used monetary estimates to assign value to human life in cost-benefit analyses.
 
@@ -246,10 +265,5 @@ EPA said the United States has made substantial progress in reducing PM2.5 and o
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Matthew Daly
 **Publication date:** 2026-01-13
-**Access date:** 2026-01-13
 **Title:** EPA will stop calculating the money saved to health in air pollution rules
 **URL:** https://apnews.com/article/epa-air-pollution-health-benefits-trump-771218fb0059f4c1b07981755d3453a1
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

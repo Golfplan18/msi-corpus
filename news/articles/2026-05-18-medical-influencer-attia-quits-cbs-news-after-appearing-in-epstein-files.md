@@ -17,7 +17,8 @@ topic_tags:
   - "mass media"
   - "crime, law and justice"
   - crime
-storyline_nexus: []
+storyline_nexus:
+- epstein-investigation-fallout
 geographic_location: United States
 floor_values_engaged:
 - value: truthfulness
@@ -98,93 +99,113 @@ His resignation follows a broader pattern of departures among public figures in 
 
 ## Atomic claims
 
-### c_001 — confirmed, single source
-**Subject entities:** Peter Attia; CBS News
-**Predicate:** resigned
-**Object:** CBS News contributor position (employment)
-**Temporal:** 2026-02
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Peter Attia; CBS News
+- **Predicate:** resigned
+- **Object:** CBS News contributor position (employment)
+- **Temporal:** 2026-02
+- **Sources:** src_001
 
 > Dr. Peter Attia resigned from his position at CBS News in late February.
 
-### c_002 — reported, primary document
-**Subject entities:** Peter Attia; Jeffrey Epstein; U.S. Justice Department
-**Predicate:** named_in_documents
-**Object:** Justice Department documents (primary_document)
-**Temporal:** 2026-02
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Peter Attia; Jeffrey Epstein; U.S. Justice Department
+- **Predicate:** named_in_documents
+- **Object:** Justice Department documents (primary_document)
+- **Temporal:** 2026-02
+- **Sources:** src_001
 
 > Attia's name appeared in documents released by the Justice Department relating to Jeffrey Epstein.
 
-### c_003 — confirmed, single source
-**Subject entities:** Peter Attia
-**Predicate:** podcast_host_and_author
-**Object:** podcast host and author (occupation)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Peter Attia
+- **Predicate:** podcast_host_and_author
+- **Object:** podcast host and author (occupation)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > Attia hosts a popular podcast and authored "Outlive: The Science & Art of Longevity."
 
-### c_004 — attributed, single source
-**Subject entities:** Bari Weiss; Peter Attia; CBS News
-**Predicate:** appointed
-**Object:** network contributor (position)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Bari Weiss; Peter Attia; CBS News
+- **Predicate:** appointed
+- **Object:** network contributor (position)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Bari Weiss, CBS News editor-in-chief, appointed Attia as a network contributor the previous month.
 
-### c_005 — confirmed, single source
-**Subject entities:** CBS News; Peter Attia
-**Predicate:** featured_in_profile
-**Object:** 60 Minutes profile (media_coverage)
-**Temporal:** 2025-10
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** CBS News; Peter Attia
+- **Predicate:** featured_in_profile
+- **Object:** 60 Minutes profile (media_coverage)
+- **Temporal:** 2025-10
+- **Sources:** src_001
 
 > CBS News featured Attia in a "60 Minutes" profile last October.
 
-### c_006 — attributed, single source
-**Subject entities:** Peter Attia
-**Predicate:** acknowledged_email_character
-**Object:** embarrassing, tasteless and indefensible (characterization)
-**Temporal:** 2026-02
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Peter Attia
+- **Predicate:** acknowledged_email_character
+- **Object:** embarrassing, tasteless and indefensible (characterization)
+- **Temporal:** 2026-02
+- **Sources:** src_001
 
 > Attia acknowledged that some of his emails were "embarrassing, tasteless and indefensible."
 
-### c_007 — attributed, single source
-**Subject entities:** Peter Attia; Jeffrey Epstein
-**Predicate:** denies_participation_and_culpability
-**Object:** no attendance; no wrongdoing (denial)
-**Temporal:** 2026-02
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Peter Attia; Jeffrey Epstein
+- **Predicate:** denies_participation_and_culpability
+- **Object:** no attendance; no wrongdoing (denial)
+- **Temporal:** 2026-02
+- **Sources:** src_001
 
 > Attia stated he attended no parties hosted by Epstein and was guilty of no wrongdoing.
 
-### c_008 — reported, single source
-**Subject entities:** CBS News; Peter Attia
-**Predicate:** did_not_sever_ties
-**Object:** no immediate severance (institutional_action)
-**Temporal:** 2026-02
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** CBS News; Peter Attia
+- **Predicate:** did_not_sever_ties
+- **Object:** no immediate severance (institutional_action)
+- **Temporal:** 2026-02
+- **Sources:** src_001
 
 > CBS News did not initially move to sever ties with Attia after the documents surfaced.
 
-### c_009 — confirmed, single source
-**Subject entities:** Peter Attia
-**Predicate:** resigned_voluntarily
-**Object:** CBS News contributor position (employment)
-**Temporal:** 2026-02
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Peter Attia
+- **Predicate:** resigned_voluntarily
+- **Object:** CBS News contributor position (employment)
+- **Temporal:** 2026-02
+- **Sources:** src_001
 
 > Attia resigned from his CBS News position of his own accord.
 
-### c_010 — reported, single source
-**Subject entities:** public figures; Jeffrey Epstein
-**Predicate:** resigned_following_disclosure
-**Object:** resignations (pattern)
-**Temporal:** 2026-02
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** public figures; Jeffrey Epstein
+- **Predicate:** resigned_following_disclosure
+- **Object:** resignations (pattern)
+- **Temporal:** 2026-02
+- **Sources:** src_001
 
 > Several public figures in corporate and government sectors have resigned in recent weeks following disclosure of their relationships with Epstein.
 
@@ -195,7 +216,3 @@ His resignation follows a broader pattern of departures among public figures in 
 **Access date:** 2026-05-18
 **Title:** Medical influencer Attia quits CBS News after name in Epstein files
 **URL:** https://apnews.com/article/cbs-news-epstein-files-attia-medical-428aacc5f6ba7dc3f441047e37d351c6
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -22,7 +22,8 @@ topic_tags:
   - "political dissent"
   - politics
   - "science and technology"
-storyline_nexus: []
+storyline_nexus:
+- trump-foreign-policy-reshaping
 geographic_location: Washington, D.C.; Egypt; Ethiopia
 floor_values_engaged:
 - value: informed_citizenship
@@ -87,93 +88,113 @@ In remarks to Fox News host Sean Hannity last week, Trump acknowledged a continu
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Donald Trump
-**Predicate:** announced_readiness_to_restart_mediation
-**Object:** US mediation on Nile water sharing (diplomatic_offer)
-**Temporal:** 2026-01-17
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Donald Trump
+- **Predicate:** announced_readiness_to_restart_mediation
+- **Object:** US mediation on Nile water sharing (diplomatic_offer)
+- **Temporal:** 2026-01-17
+- **Sources:** src_001
 
 > President Trump announced Friday he is ready to restart U.S. mediation between Egypt and Ethiopia over Nile River water sharing.
 
-### c_002 — attributed, single source
-**Subject entities:** United States; Ethiopia; Egypt
-**Predicate:** collapsed
-**Object:** Washington-led mediations (diplomatic_process)
-**Temporal:** 2020
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** United States; Ethiopia; Egypt
+- **Predicate:** collapsed
+- **Object:** Washington-led mediations (diplomatic_process)
+- **Temporal:** 2020
+- **Sources:** src_001
 
 > Washington-led mediations between Egypt and Ethiopia began during Trump's first term but effectively collapsed in 2020 when Ethiopia withdrew.
 
-### c_003 — reported, single source
-**Subject entities:** African Union; Egypt; Ethiopia
-**Predicate:** continued_discussions
-**Object:** African Union-hosted talks (diplomatic_process)
-**Temporal:** post-2020
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** African Union; Egypt; Ethiopia
+- **Predicate:** continued_discussions
+- **Object:** African Union-hosted talks (diplomatic_process)
+- **Temporal:** post-2020
+- **Sources:** src_001
 
 > Some discussions between Egypt and Ethiopia continued under the African Union after the collapse of Washington-led talks.
 
-### c_004 — confirmed, single source
-**Subject entities:** Ethiopia; Grand Ethiopian Renaissance Dam
-**Predicate:** inaugurated
-**Object:** Grand Ethiopian Renaissance Dam (infrastructure)
-**Temporal:** fall-2025
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Ethiopia; Grand Ethiopian Renaissance Dam
+- **Predicate:** inaugurated
+- **Object:** Grand Ethiopian Renaissance Dam (infrastructure)
+- **Temporal:** fall-2025
+- **Sources:** src_001
 
 > Ethiopia formally inaugurated the Grand Ethiopian Renaissance Dam in fall 2025.
 
-### c_005 — attributed, single source
-**Subject entities:** Grand Ethiopian Renaissance Dam; Ethiopia; Sudan
-**Predicate:** is_described_as
-**Object:** Africa's largest dam; 5,000+ megawatts capacity (infrastructure_description)
-**Temporal:** 2026-01-17
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Grand Ethiopian Renaissance Dam; Ethiopia; Sudan
+- **Predicate:** is_described_as
+- **Object:** Africa's largest dam; 5,000+ megawatts capacity (infrastructure_description)
+- **Temporal:** 2026-01-17
+- **Sources:** src_001
 
 > The Grand Ethiopian Renaissance Dam is Africa's largest dam, located on the Blue Nile near Ethiopia's border with Sudan, designed to produce more than 5,000 megawatts and double Ethiopia's electricity generation capacity.
 
-### c_006 — attributed, single source
-**Subject entities:** Egypt; Grand Ethiopian Renaissance Dam
-**Predicate:** opposes
-**Object:** water-share reduction (policy_dispute)
-**Temporal:** 2026-01-17
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Egypt; Grand Ethiopian Renaissance Dam
+- **Predicate:** opposes
+- **Object:** water-share reduction (policy_dispute)
+- **Temporal:** 2026-01-17
+- **Sources:** src_001
 
 > Egypt opposed the dam's construction, arguing it would reduce Egypt's share of Nile River waters that more than 100 million Egyptians rely on almost entirely for agriculture.
 
-### c_007 — attributed, single source
-**Subject entities:** Tamim Khallaf; Egypt; Ethiopia; Grand Ethiopian Renaissance Dam
-**Predicate:** stated
-**Object:** grave violation of international law and existential threat (diplomatic_statement)
-**Temporal:** 2025-09-04
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Tamim Khallaf; Egypt; Ethiopia; Grand Ethiopian Renaissance Dam
+- **Predicate:** stated
+- **Object:** grave violation of international law and existential threat (diplomatic_statement)
+- **Temporal:** 2025-09-04
+- **Sources:** src_001
 
 > Egyptian foreign ministry spokesperson Tamim Khallaf said on Sept. 4 that Ethiopia built the dam without prior notification or consensus with downstream countries, calling it a grave violation of international law and an existential threat.
 
-### c_008 — attributed, single source
-**Subject entities:** Donald Trump
-**Predicate:** claims
-**Object:** ended eight wars (presidential_claim)
-**Temporal:** 2026-01-17
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** claims
+- **Object:** ended eight wars (presidential_claim)
+- **Temporal:** 2026-01-17
+- **Sources:** src_001
 
 > Trump frequently claims to have ended eight wars around the world, a characterization the Associated Press described as exaggerated.
 
-### c_009 — attributed, single source
-**Subject entities:** Donald Trump; Egypt; Ethiopia
-**Predicate:** listed_as_resolved
-**Object:** Egypt-Ethiopia conflict (presidential_claim)
-**Temporal:** 2026-01-17
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Egypt; Ethiopia
+- **Predicate:** listed_as_resolved
+- **Object:** Egypt-Ethiopia conflict (presidential_claim)
+- **Temporal:** 2026-01-17
+- **Sources:** src_001
 
 > Egypt and Ethiopia appear on Trump's list of conflicts he has claimed to have resolved.
 
-### c_010 — attributed, single source
-**Subject entities:** Donald Trump; Sean Hannity
-**Predicate:** said
-**Object:** eight and a quarter wars, Thailand and Cambodia (presidential_statement)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Sean Hannity
+- **Predicate:** said
+- **Object:** eight and a quarter wars, Thailand and Cambodia (presidential_statement)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > Trump told Fox News host Sean Hannity last week: "I did put out eight wars, eight and a quarter, because, you know, Thailand and Cambodia started going at it again."
 
@@ -185,7 +206,3 @@ In remarks to Fox News host Sean Hannity last week, Trump acknowledged a continu
 **Access date:** 2026-01-17
 **Title:** Trump says he's ready restart Egypt-Ethiopia mediations
 **URL:** https://apnews.com/article/trump-nile-egypt-ethiopia-us-mediation-ba5c3b0a96889e2ee0249e4522cd4577
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

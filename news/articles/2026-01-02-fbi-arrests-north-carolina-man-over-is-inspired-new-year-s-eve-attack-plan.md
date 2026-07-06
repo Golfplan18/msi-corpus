@@ -16,49 +16,67 @@ primary_themes:
 - law enforcement
 - FBI undercover operations
 topic_tags:
-  - "armed conflict"
-  - "conflict, war and peace"
-  - "crime, law and justice"
-  - "international relations"
-  - judiciary
-  - "law enforcement"
-storyline_nexus: []
-geographic_location: Mint Hill, North Carolina
+- terrorism
+- crime
+- law enforcement
+- prosecution
+storyline_nexus:
+- us-immigration-enforcement
+geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.85
 - value: human_life_and_dignity
-  intensity: 0.8
-- value: accountability_of_power
+  intensity: 0.9
+- value: informed_citizenship
   intensity: 0.6
-framework_version: 1.1.0
-generation_timestamp: '2026-05-16T16:46:10Z'
+framework_version: 1.3.0
+generation_timestamp: '2026-05-22T23:29:07Z'
 source_cluster_id: cluster_ap_2026-01-01_fbi-islamic-state-group-attack-charlotte
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 20
   hedges:
-    appears: 1
     alleged: 1
-    attributed: 14
+    appears: 1
     reported: 0
-    contested: 0
     confirmed: 4
+    contested: 0
+    attributed: 14
   corroboration:
+    two_independent: 0
+    single_source: 1
     primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
     primary_document: 19
-    single_source: 1
-    two_independent: 0
 sources:
-  count: 1
+  count: 21
   outlets:
+  - 10tv.com
+  - 11alive.com
+  - 12news.com
+  - 12newsnow.com
+  - 13newsnow.com
+  - 13wham.com
+  - 13wmaz.com
+  - 5newsonline.com
+  - 9news.com
   - Associated Press
+  - abc10.com
+  - abc6onyourside.com
+  - abc7amarillo.com
+  - abcnews4.com
+  - aljazeera.com
+  - americanpress.com
+  - aol.co.uk
+  - arkansasonline.com
+  - bakersfieldnow.com
+  - news18.com
+  - torontosun.com
   outlet_classes:
+  - national_daily
   - wire
   highest_reliability_tier: 1
   has_originating: true
@@ -74,6 +92,13 @@ image:
 cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- CHARLOTTE, N.
+- Christian Sturdivant allegedly pledged loyalty to the Islamic State group and described his attack plans in detail to an undercover FBI employee posing as a supportive confidant, according to prosecutors and court records.
+- Article details provided in full text.
 
 CHARLOTTE, N.C. — The FBI arrested an 18-year-old North Carolina man Wednesday on charges of attempting to provide material support to a foreign terrorist organization, federal officials announced Friday, saying agents had disrupted a New Year's Eve plot to attack shoppers with knives and hammers at a Mint Hill grocery store and fast-food restaurant.
 
@@ -123,183 +148,223 @@ Other IS-inspired attacks over the past decade include a 2015 shooting rampage b
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** FBI; Christian Sturdivant
-**Predicate:** disrupted
-**Object:** New Year's Eve attack plot (event)
-**Temporal:** 2026-01-01
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** FBI; Christian Sturdivant
+- **Predicate:** disrupted
+- **Object:** New Year's Eve attack plot (event)
+- **Temporal:** 2026-01-01
+- **Sources:** src_001
 
 > The FBI disrupted a New Year's Eve attack plot targeting a grocery store and fast-food restaurant in Mint Hill, North Carolina.
 
-### c_002 — confirmed, primary document
-**Subject entities:** Christian Sturdivant
-**Predicate:** arrested
-**Object:** Wednesday, December 31 2025 (date)
-**Temporal:** 2025-12-31
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Christian Sturdivant
+- **Predicate:** arrested
+- **Object:** Wednesday, December 31 2025 (date)
+- **Temporal:** 2025-12-31
+- **Sources:** src_001
 
 > Christian Sturdivant, 18, was arrested Wednesday.
 
-### c_003 — confirmed, primary document
-**Subject entities:** Christian Sturdivant
-**Predicate:** charged_with
-**Object:** attempting to provide material support to a foreign terrorist organization (legal_charge)
-**Temporal:** 2025-12-31
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Christian Sturdivant
+- **Predicate:** charged_with
+- **Object:** attempting to provide material support to a foreign terrorist organization (legal_charge)
+- **Temporal:** 2025-12-31
+- **Sources:** src_001
 
 > Sturdivant was charged with attempting to provide material support to a foreign terrorist organization.
 
-### c_004 — alleged, primary document
-**Subject entities:** Christian Sturdivant; Islamic State group
-**Predicate:** pledged_loyalty_to
-**Object:** Islamic State group (organization)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_004
+- **Hedge:** alleged
+- **Corroboration:** primary_document
+- **Subject entities:** Christian Sturdivant; Islamic State group
+- **Predicate:** pledged_loyalty_to
+- **Object:** Islamic State group (organization)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > Sturdivant allegedly pledged loyalty to the Islamic State group.
 
-### c_005 — attributed, primary document
-**Subject entities:** Christian Sturdivant; FBI
-**Predicate:** disclosed_plans_to
-**Object:** undercover FBI employee (person)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Christian Sturdivant; FBI
+- **Predicate:** disclosed_plans_to
+- **Object:** undercover FBI employee (person)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > Sturdivant told an undercover FBI employee posing as a supportive confidant about his plans to attack people.
 
-### c_006 — attributed, primary document
-**Subject entities:** Christian Sturdivant
-**Predicate:** planned_attack_with
-**Object:** knives and hammers (weapons)
-**Temporal:** 2025-12-31
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Christian Sturdivant
+- **Predicate:** planned_attack_with
+- **Object:** knives and hammers (weapons)
+- **Temporal:** 2025-12-31
+- **Sources:** src_001
 
 > Online messages and a home search indicated the attack would be carried out with knives and hammers.
 
-### c_007 — attributed, primary document
-**Subject entities:** FBI; Christian Sturdivant
-**Predicate:** placed_under_surveillance
-**Object:** constant surveillance for days including Christmas (law_enforcement_action)
-**Temporal:** 2025-12-25
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** FBI; Christian Sturdivant
+- **Predicate:** placed_under_surveillance
+- **Object:** constant surveillance for days including Christmas (law_enforcement_action)
+- **Temporal:** 2025-12-25
+- **Sources:** src_001
 
 > The FBI placed Sturdivant under constant surveillance for days, including on Christmas.
 
-### c_008 — attributed, primary document
-**Subject entities:** Russ Ferguson
-**Predicate:** said
-**Object:** At no point was the public in harm's way. (quotation)
-**Temporal:** 2026-01-02
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Russ Ferguson
+- **Predicate:** said
+- **Object:** At no point was the public in harm's way. (quotation)
+- **Temporal:** 2026-01-02
+- **Sources:** src_001
 
 > U.S. Attorney Russ Ferguson said at a Charlotte news conference that 'At no point was the public in harm's way.'
 
-### c_009 — attributed, primary document
-**Subject entities:** Christian Sturdivant; FBI
-**Predicate:** found
-**Object:** manifesto detailing attack plans (document)
-**Temporal:** 2025-12-31
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Christian Sturdivant; FBI
+- **Predicate:** found
+- **Object:** manifesto detailing attack plans (document)
+- **Temporal:** 2025-12-31
+- **Sources:** src_001
 
 > Searches of Sturdivant's home and phone uncovered what investigators described as a manifesto detailing plans for the attack.
 
-### c_010 — attributed, primary document
-**Subject entities:** Christian Sturdivant
-**Predicate:** listed_targets
-**Object:** Burger King and unnamed grocery store in Mint Hill (location)
-**Temporal:** 2025-12-31
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Christian Sturdivant
+- **Predicate:** listed_targets
+- **Object:** Burger King and unnamed grocery store in Mint Hill (location)
+- **Temporal:** 2025-12-31
+- **Sources:** src_001
 
 > A handwritten note found in a trash can at Sturdivant's home listed details of planned attacks and the number of intended victims at a Burger King restaurant and an unnamed grocery store.
 
-### c_011 — attributed, primary document
-**Subject entities:** Christian Sturdivant
-**Predicate:** wrote
-**Object:** hoped to die by the hands of police (quotation)
-**Temporal:** 2025-12-31
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Christian Sturdivant
+- **Predicate:** wrote
+- **Object:** hoped to die by the hands of police (quotation)
+- **Temporal:** 2025-12-31
+- **Sources:** src_001
 
 > The note said Sturdivant would attack arriving officers and 'hoped to die by the hands of police.'
 
-### c_012 — appears, single source
-**Subject entities:** Christian Sturdivant
-**Predicate:** employed_at
-**Object:** Burger King, Mint Hill (location)
-**Temporal:** 2025-12-31
-**Source IDs:** src_001
+### c_012
+- **Hedge:** appears
+- **Corroboration:** single_source
+- **Subject entities:** Christian Sturdivant
+- **Predicate:** employed_at
+- **Object:** Burger King, Mint Hill (location)
+- **Temporal:** 2025-12-31
+- **Sources:** src_001
 
 > A database check indicated Sturdivant worked at a Burger King in Mint Hill.
 
-### c_013 — attributed, primary document
-**Subject entities:** FBI; Christian Sturdivant
-**Predicate:** linked_to
-**Object:** IS-supportive social media account (digital_evidence)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** FBI; Christian Sturdivant
+- **Predicate:** linked_to
+- **Object:** IS-supportive social media account (digital_evidence)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > The investigation began last month after authorities linked Sturdivant to a social media account posting IS-supportive content, including imagery appearing to promote violence.
 
-### c_014 — attributed, primary document
-**Subject entities:** Christian Sturdivant; Abu Bakr al-Baghdadi
-**Predicate:** referenced
-**Object:** Abu Bakr al-Baghdadi (person)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Christian Sturdivant; Abu Bakr al-Baghdadi
+- **Predicate:** referenced
+- **Object:** Abu Bakr al-Baghdadi (person)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > The social media account's display name referenced Abu Bakr al-Baghdadi, the former leader of the Islamic State group.
 
-### c_015 — attributed, primary document
-**Subject entities:** Christian Sturdivant
-**Predicate:** contacted
-**Object:** suspected IS member in Europe (person)
-**Temporal:** 2022-01
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Christian Sturdivant
+- **Predicate:** contacted
+- **Object:** suspected IS member in Europe (person)
+- **Temporal:** 2022-01
+- **Sources:** src_001
 
 > In January 2022, when Sturdivant was a minor, officials learned he had been in contact with a suspected IS member in Europe and received instructions to commit attacks with a hammer.
 
-### c_016 — attributed, primary document
-**Subject entities:** Christian Sturdivant
-**Predicate:** attempted_attack
-**Object:** neighbor's home, restrained by grandfather (incident)
-**Temporal:** 2022-01
-**Source IDs:** src_001
+### c_016
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Christian Sturdivant
+- **Predicate:** attempted_attack
+- **Object:** neighbor's home, restrained by grandfather (incident)
+- **Temporal:** 2022-01
+- **Sources:** src_001
 
 > In 2022, Sturdivant set out for a neighbor's house armed with a hammer and a knife but was restrained by his grandfather.
 
-### c_017 — attributed, primary document
-**Subject entities:** Christian Sturdivant; FBI
-**Predicate:** received_treatment
-**Object:** psychological treatment; FBI notified of no social media access (outcome)
-**Temporal:** 2022
-**Source IDs:** src_001
+### c_017
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Christian Sturdivant; FBI
+- **Predicate:** received_treatment
+- **Object:** psychological treatment; FBI notified of no social media access (outcome)
+- **Temporal:** 2022
+- **Sources:** src_001
 
 > No charges were filed following the 2022 incident; Sturdivant underwent psychological treatment and the FBI was told he no longer had access to social media.
 
-### c_018 — attributed, primary document
-**Subject entities:** FBI; Christian Sturdivant
-**Predicate:** discovered
-**Object:** Sturdivant had returned to social media (finding)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_018
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** FBI; Christian Sturdivant
+- **Predicate:** discovered
+- **Object:** Sturdivant had returned to social media (finding)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > The FBI discovered weeks ago that Sturdivant had returned to social media.
 
-### c_019 — attributed, primary document
-**Subject entities:** Christian Sturdivant
-**Predicate:** faces_sentence
-**Object:** up to 20 years in prison (legal_consequence)
-**Temporal:** 2026-01-02
-**Source IDs:** src_001
+### c_019
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Christian Sturdivant
+- **Predicate:** faces_sentence
+- **Object:** up to 20 years in prison (legal_consequence)
+- **Temporal:** 2026-01-02
+- **Sources:** src_001
 
 > If convicted, Sturdivant faces up to 20 years in prison.
 
-### c_020 — confirmed, primary document
-**Subject entities:** Christian Sturdivant
-**Predicate:** hearing_scheduled
-**Object:** January 7 (date)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_020
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Christian Sturdivant
+- **Predicate:** hearing_scheduled
+- **Object:** January 7 (date)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Another federal court hearing was scheduled for January 7.
 
@@ -308,10 +373,85 @@ Other IS-inspired attacks over the past decade include a 2015 shooting rampage b
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Gary D. Robertson
 **Publication date:** 2026-01-02
-**Access date:** 2026-01-02
 **Title:** FBI arrests man over New Year's Eve terror attack plan
 **URL:** https://apnews.com/article/fbi-islamic-state-group-attack-charlotte-44f31a4463af3d68c3f9c5f2eaac8057
 
----
+### src_002 — news18.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-03
+**URL:** https://www.news18.com/world/us-authorities-foil-alleged-isis-inspired-new-years-eve-attack-in-north-carolina-ws-l-9806703.html
 
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*
+### src_003 — torontosun.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-02
+**URL:** https://torontosun.com/news/world/fbi-foiled-planned-nye-terror-attack
+
+### src_004 — 10tv.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-02
+**URL:** https://www.10tv.com/article/news/nation-world/fbi-terrorism-plot-new-years-eve/507-430f4529-7b1f-4f8c-981b-989d6f4a488f
+
+### src_005 — 11alive.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-02
+**URL:** https://www.11alive.com/article/news/nation-world/fbi-terrorism-plot-new-years-eve/507-430f4529-7b1f-4f8c-981b-989d6f4a488f
+
+### src_006 — 12news.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-02
+**URL:** https://www.12news.com/article/news/nation-world/fbi-terrorism-plot-new-years-eve/507-430f4529-7b1f-4f8c-981b-989d6f4a488f
+
+### src_007 — 12newsnow.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-02
+**URL:** https://www.12newsnow.com/article/news/nation-world/fbi-terrorism-plot-new-years-eve/507-430f4529-7b1f-4f8c-981b-989d6f4a488f
+
+### src_008 — 13newsnow.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-02
+**URL:** https://www.13newsnow.com/article/news/nation-world/fbi-terrorism-plot-new-years-eve/507-430f4529-7b1f-4f8c-981b-989d6f4a488f
+
+### src_009 — 13wham.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-02
+**URL:** https://13wham.com/news/nation-world/fbi-thwarts-potential-terrorist-attack-on-new-years-eve-in-nc-inspired-by-isis-islamic-state-christian-sturdivant-charlotte-undercover-agents-knives-hammers-jiad-martyr-grocery-store-restaurant
+
+### src_010 — 13wmaz.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-02
+**URL:** https://www.13wmaz.com/article/news/nation-world/fbi-terrorism-plot-new-years-eve/507-430f4529-7b1f-4f8c-981b-989d6f4a488f
+
+### src_011 — 5newsonline.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-02
+**URL:** https://www.5newsonline.com/article/news/nation-world/fbi-terrorism-plot-new-years-eve/507-430f4529-7b1f-4f8c-981b-989d6f4a488f
+
+### src_012 — 9news.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-02
+**URL:** https://www.9news.com/article/news/nation-world/fbi-terrorism-plot-new-years-eve/507-430f4529-7b1f-4f8c-981b-989d6f4a488f
+
+### src_013 — abc10.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-02
+**URL:** https://www.abc10.com/article/news/nation-world/fbi-terrorism-plot-new-years-eve/507-430f4529-7b1f-4f8c-981b-989d6f4a488f
+
+### src_014 — abc6onyourside.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-02
+**URL:** https://abc6onyourside.com/news/nation-world/fbi-thwarts-potential-terrorist-attack-on-new-years-eve-in-nc-inspired-by-isis-islamic-state-christian-sturdivant-charlotte-undercover-agents-knives-hammers-jiad-martyr-grocery-store-restaurant
+
+### src_015 — abc7amarillo.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-02
+**URL:** https://abc7amarillo.com/news/nation-world/fbi-thwarts-potential-terrorist-attack-on-new-years-eve-in-nc-inspired-by-isis-islamic-state-christian-sturdivant-charlotte-undercover-agents-knives-hammers-jiad-martyr-grocery-store-restaurant
+
+### src_016 — abcnews4.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-02
+**URL:** https://abcnews4.com/news/nation-world/fbi-thwarts-potential-terrorist-attack-on-new-years-eve-in-nc-inspired-by-isis-islamic-state-christian-sturdivant-charlotte-undercover-agents-knives-hammers-jiad-martyr-grocery-store-restaurant
+
+### src_017 — aljazeera.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-02
+**URL:** https://www.aljazeera.com/news/2026/1/2/us-authorities-arrest-18-year-old-accused-of-plotting-isil-inspired-attack
+
+### src_018 — americanpress.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-03
+**URL:** https://americanpress.com/2026/01/03/fbi-says-it-disrupted-a-new-years-eve-attack-plan-inspired-by-islamic-state-group/
+
+### src_019 — aol.co.uk, national_daily, Tier 4, originating
+**Publication date:** 2026-01-02
+**URL:** https://www.aol.co.uk/articles/fbi-says-thwarted-isis-inspired-164801488.html
+
+### src_020 — arkansasonline.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-03
+**URL:** https://www.arkansasonline.com/news/2026/jan/03/fbi-foiled-attack-plot-in-nc/
+
+### src_021 — bakersfieldnow.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-02
+**URL:** https://bakersfieldnow.com/news/nation-world/fbi-thwarts-potential-terrorist-attack-on-new-years-eve-in-nc-inspired-by-isis-islamic-state-christian-sturdivant-charlotte-undercover-agents-knives-hammers-jiad-martyr-grocery-store-restaurant

@@ -1,6 +1,5 @@
 ---
 headline: Architect calls White House ballroom project oversized, warns of permanent historic harm
-slug: 2026-03-05-architect-calls-white-house-ballroom-project-oversized-warns-historic-harm
 publish_date: '2026-03-05'
 lede: An architect on the board of the National Trust for Historic Preservation said Wednesday that President Donald Trump's proposed White House ballroom is significantly oversized and should be scaled back, warning the project could permanently alter the nation's most recognizable historic landmark. David Scott Parker, a Fellow of the American Institute of Architects with more than 35 years of experience, shared his assessment with the Associated Press as the National Capital Planning Commission prepared to meet Thursday to vote on whether to approve the 90,000-square-foot project.
 nut_graf: The commission vote marks a second federal review of an addition that, at nearly twice the size of the main White House itself, has drawn opposition from preservationists, architects, and thousands of members of the public. A federal judge last week rejected a bid to temporarily halt construction; the National Trust said it plans to file an amended lawsuit.
@@ -19,40 +18,40 @@ primary_themes:
 - architectural criticism
 - executive branch
 topic_tags:
-  - "politics"
-  - "government"
-  - "arts, culture, entertainment and media"
+- construction and property
+- conservation
+- government
 storyline_nexus:
-  - us-administration-2026
-geographic_location: Washington, D.C.
+- housing-affordability-crisis
+geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.8
 - value: accountability_of_power
-  intensity: 0.7
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:46:32Z'
+  intensity: 0.9
+- value: informed_citizenship
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:27:47Z'
 source_cluster_id: cluster_ap_2026-03-05_trump-ballroom-white-house-east-wing-667
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 14
   hedges:
     appears: 0
-    alleged: 0
-    attributed: 10
-    reported: 0
     contested: 0
+    alleged: 0
+    reported: 0
     confirmed: 4
+    attributed: 10
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 0
     single_source: 14
+    primary_plus_secondary: 0
     two_independent: 0
+    one_originating_plus_primary_document: 0
 sources:
   count: 1
   outlets:
@@ -66,13 +65,18 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-05-house-spending-bill-still-calls-it-the-kennedy-center-bypassing-trump-rebrand
-  relation: related
-  strength: 0.691
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- The commission vote marks a second federal review of an addition that, at nearly twice the size of the main White House itself, has drawn opposition from preservationists, architects, and thousands of members of the public.
+- An architect on the board of the National Trust for Historic Preservation said Wednesday that President Donald Trump's proposed White House ballroom is significantly oversized and should be scaled back, warning the project could permanently alter the nation's most recognizable historic landmark.
+- David Scott Parker, a Fellow of the American Institute of Architects with more than 35 years of experience, shared his assessment with the Associated Press as the National Capital Planning Commission prepared to meet Thursday to vote on whether to approve the 90,000-square-foot (8,361-square-meter) project.
+- "Everything here feels inflated," Parker said.
 
 The commission vote marks a second federal review of an addition that, at nearly twice the size of the main White House itself, has drawn opposition from preservationists, architects, and thousands of members of the public. A federal judge last week rejected a bid to temporarily halt construction; the National Trust said it plans to file an amended lawsuit.
 
@@ -106,129 +110,157 @@ Parker is among more than 100 people registered to speak at Thursday's commissio
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** David Scott Parker
-**Predicate:** stated
-**Object:** White House ballroom project is too big and should be scaled back (assertion)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** David Scott Parker
+- **Predicate:** stated
+- **Object:** White House ballroom project is too big and should be scaled back (assertion)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > David Scott Parker, an architect and board member of the National Trust for Historic Preservation, said Wednesday the White House ballroom project is too big and should be scaled back.
 
-### c_002 — confirmed, single source
-**Subject entities:** National Capital Planning Commission
-**Predicate:** scheduled_vote
-**Object:** 90,000-square-foot White House ballroom project approval (regulatory_action)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** National Capital Planning Commission
+- **Predicate:** scheduled_vote
+- **Object:** 90,000-square-foot White House ballroom project approval (regulatory_action)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > The National Capital Planning Commission was scheduled to meet Thursday, March 6, 2026, to vote on whether to approve the 90,000-square-foot White House ballroom project.
 
-### c_003 — confirmed, single source
-**Subject entities:** U.S. Commission of Fine Arts
-**Predicate:** approved
-**Object:** White House ballroom project (regulatory_action)
-**Temporal:** 2026-02
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Commission of Fine Arts
+- **Predicate:** approved
+- **Object:** White House ballroom project (regulatory_action)
+- **Temporal:** 2026-02
+- **Sources:** src_001
 
 > The U.S. Commission of Fine Arts approved the project at its February 2026 meeting.
 
-### c_004 — attributed, single source
-**Subject entities:** White House ballroom
-**Predicate:** spans
-**Object:** 22,000 square feet (2,043 square meters) (measurement)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** White House ballroom
+- **Predicate:** spans
+- **Object:** 22,000 square feet (2,043 square meters) (measurement)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > The ballroom itself takes up approximately 22,000 square feet (2,043 square meters) of the total 90,000-square-foot project.
 
-### c_005 — attributed, single source
-**Subject entities:** David Scott Parker
-**Predicate:** stated
-**Object:** 15 sq ft per person; 15,000 sq ft max for 1,000 guests; proposed ballroom 47% oversized (technical_assessment)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** David Scott Parker
+- **Predicate:** stated
+- **Object:** 15 sq ft per person; 15,000 sq ft max for 1,000 guests; proposed ballroom 47% oversized (technical_assessment)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > Parker said the industry standard for a ballroom allots 15 square feet (1.4 square meters) per person, meaning a 1,000-guest ballroom should be no larger than 15,000 square feet — approximately 47 percent smaller than the proposed 22,000-square-foot footprint.
 
-### c_006 — attributed, single source
-**Subject entities:** David Scott Parker
-**Predicate:** stated
-**Object:** 4,000-square-foot porch unnecessary, non-ADA-compliant, no direct interior access (assertion)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** David Scott Parker
+- **Predicate:** stated
+- **Object:** 4,000-square-foot porch unnecessary, non-ADA-compliant, no direct interior access (assertion)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > Parker said a 4,000-square-foot (372-square-meter) south-facing porch and staircase included in the proposal is unnecessary, provides no direct guest access to the building's interior, and does not comply with the Americans with Disabilities Act.
 
-### c_007 — attributed, single source
-**Subject entities:** White House
-**Predicate:** stated
-**Object:** ballroom will comply with ADA (assertion)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** White House
+- **Predicate:** stated
+- **Object:** ballroom will comply with ADA (assertion)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > The White House said Wednesday the ballroom will comply with the Americans with Disabilities Act but did not address Parker's other criticisms.
 
-### c_008 — attributed, single source
-**Subject entities:** White House ballroom addition; White House
-**Predicate:** size_comparison
-**Object:** 90,000 sq ft addition vs 55,000 sq ft main White House (measurement)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** White House ballroom addition; White House
+- **Predicate:** size_comparison
+- **Object:** 90,000 sq ft addition vs 55,000 sq ft main White House (measurement)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > At 90,000 square feet (8,361 square meters), the proposed addition is nearly twice the size of the main White House, which spans 55,000 square feet (5,110 square meters).
 
-### c_009 — attributed, single source
-**Subject entities:** David Scott Parker; Pennsylvania Avenue
-**Predicate:** stated
-**Object:** addition impedes L'Enfant sight line between White House and Capitol (assertion)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** David Scott Parker; Pennsylvania Avenue
+- **Predicate:** stated
+- **Object:** addition impedes L'Enfant sight line between White House and Capitol (assertion)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > Parker said the addition would stick out just enough to impede the line of sight along Pennsylvania Avenue between the White House and the Capitol, as deliberately designed by Pierre L'Enfant.
 
-### c_010 — attributed, single source
-**Subject entities:** Donald Trump
-**Predicate:** announced_and_demolished
-**Object:** White House East Wing demolished October 2025; ballroom announced summer 2025 (action)
-**Temporal:** 2025-10
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** announced_and_demolished
+- **Object:** White House East Wing demolished October 2025; ballroom announced summer 2025 (action)
+- **Temporal:** 2025-10
+- **Sources:** src_001
 
 > Trump announced the ballroom project last summer, citing the need for space beyond a tent on the lawn to entertain important guests, and demolished the East Wing in October 2025 with little warning.
 
-### c_011 — attributed, single source
-**Subject entities:** White House
-**Predicate:** stated
-**Object:** above-ground construction not before April 2026 (timeline)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** White House
+- **Predicate:** stated
+- **Object:** above-ground construction not before April 2026 (timeline)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > White House officials said above-ground construction would not begin before April 2026 at the earliest.
 
-### c_012 — confirmed, single source
-**Subject entities:** Richard Leon; National Trust for Historic Preservation
-**Predicate:** rejected
-**Object:** request for temporary construction halt (legal_ruling)
-**Temporal:** 2026-02
-**Source IDs:** src_001
+### c_012
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Richard Leon; National Trust for Historic Preservation
+- **Predicate:** rejected
+- **Object:** request for temporary construction halt (legal_ruling)
+- **Temporal:** 2026-02
+- **Sources:** src_001
 
 > U.S. District Judge Richard Leon rejected the National Trust for Historic Preservation's request to temporarily halt White House ballroom construction last week.
 
-### c_013 — attributed, single source
-**Subject entities:** National Trust for Historic Preservation
-**Predicate:** stated
-**Object:** plans to file amended lawsuit (legal_action)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** National Trust for Historic Preservation
+- **Predicate:** stated
+- **Object:** plans to file amended lawsuit (legal_action)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > The National Trust for Historic Preservation said it plans to file an amended lawsuit.
 
-### c_014 — confirmed, single source
-**Subject entities:** National Capital Planning Commission
-**Predicate:** received_public_comment
-**Object:** 100+ speakers registered; thousands of written comments, many opposed (public_participation)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_014
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** National Capital Planning Commission
+- **Predicate:** received_public_comment
+- **Object:** 100+ speakers registered; thousands of written comments, many opposed (public_participation)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > More than 100 people registered to speak at Thursday's National Capital Planning Commission meeting, conducted online, and thousands of people submitted written comments in advance, many opposed to the project.
 
@@ -237,10 +269,5 @@ Parker is among more than 100 people registered to speak at Thursday's commissio
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Darlene Superville
 **Publication date:** 2026-03-05
-**Access date:** 2026-03-05
 **Title:** Architect says Trump's White House ballroom is too big
 **URL:** https://apnews.com/article/trump-ballroom-white-house-east-wing-66753cd005193ac190e3702bd7353c0b
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

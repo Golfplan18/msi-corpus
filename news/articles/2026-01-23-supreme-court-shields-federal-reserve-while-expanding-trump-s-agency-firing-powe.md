@@ -17,37 +17,42 @@ primary_themes:
 - independent_agencies
 - monetary_policy
 - executive_authority
-topic_tags: []
-storyline_nexus: []
+topic_tags:
+- judiciary
+- monetary policy
+- banking
+- government policy
+storyline_nexus:
+- trump-vs-federal-reserve
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
   intensity: 0.9
 - value: informed_citizenship
-  intensity: 0.8
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:52:18Z'
 source_cluster_id: cluster_ap_2026-01-26_federal-reserve-supreme-court-lisa-cook-
 gdelt_event_ids: []
-consensus_floor_version: '1.0'
-publication_mindspec_version: '1.0'
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 19
   hedges:
-    appears: 1
     alleged: 0
     attributed: 13
-    reported: 4
-    contested: 0
     confirmed: 1
+    reported: 4
+    appears: 1
+    contested: 0
   corroboration:
-    primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
-    primary_document: 15
-    single_source: 4
     two_independent: 0
+    primary_plus_secondary: 0
+    single_source: 4
+    primary_document: 15
 sources:
   count: 1
   outlets:
@@ -61,37 +66,12 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-04-16-prosecutors-turned-away-at-fed-as-trump-threatens-to-fire-powell
-  relation: related
-  strength: 0.7568
-  confidence: medium
-- slug: 2026-01-12-republican-senators-and-ex-fed-chairs-rally-against-doj-investigation-of-powell
-  relation: related
-  strength: 0.7715
-  confidence: medium
-- slug: 2026-01-12-trump-doj-threatens-powell-with-criminal-charges-in-escalating-battle-over-fed-i
-  relation: related
-  strength: 0.7658
-  confidence: medium
-- slug: 2026-01-12-trump-administration-targets-political-opponents-powell-and-fed-the-latest
-  relation: related
-  strength: 0.7627
-  confidence: medium
-- slug: 2026-01-12-doj-threatens-powell-with-criminal-indictment-as-trump-escalates-pressure-on-the
-  relation: related
-  strength: 0.7385
-  confidence: medium
-- slug: 2026-01-12-trump-doj-subpoenas-federal-reserve-threatens-powell-with-criminal-indictment
-  relation: related
-  strength: 0.7325
-  confidence: medium
-- slug: 2026-01-12-doj-subpoenas-federal-reserve-threatens-powell-with-criminal-indictment
-  relation: related
-  strength: 0.7202
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
 
 The Supreme Court appeared Wednesday to carve out a distinct exception for the Federal Reserve from President Trump's expanded authority to fire heads of independent agencies. Justice Brett Kavanaugh said allowing Trump to remove Federal Reserve Governor Lisa Cook would "weaken, if not shatter, the independence of the Federal Reserve." The justices' signals suggest they see the Fed differently than other government agencies where they have already permitted Trump to dismiss officials for any reason.
 
@@ -135,182 +115,216 @@ The Supreme Court will initially rule on whether Cook can remain in her position
 
 For now, the Fed's size and its influence on financial markets appear to offer it a measure of protection. Clement told the justices that there was a reason "monetary policy has been treated differently, for lo these many years. And there's a reason that the markets watch the Fed a little more closely than they watch really any other agency of government."
 
----
-
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Read the framework specification](/methodology).
-
 This work is released under [Creative Commons Zero](https://creativecommons.org/publicdomain/zero/1.0/) — a public-domain dedication.
 
 ## Atomic claims
 
-### c_001 — appears, primary document
-**Subject entities:** U.S. Supreme Court; Lisa Cook; Federal Reserve System
-**Predicate:** appeared_inclined_to_retain
-**Object:** Fed governor position (personnel_decision)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_001
+- **Hedge:** appears
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Supreme Court; Lisa Cook; Federal Reserve System
+- **Predicate:** appeared_inclined_to_retain
+- **Object:** Fed governor position (personnel_decision)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > During Supreme Court oral arguments Wednesday, the justices appeared inclined to keep Federal Reserve Governor Lisa Cook in her job.
 
-### c_002 — attributed, primary document
-**Subject entities:** Brett Kavanaugh; Lisa Cook; Federal Reserve System
-**Predicate:** stated_would_weaken
-**Object:** Federal Reserve independence (institutional_capacity)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Brett Kavanaugh; Lisa Cook; Federal Reserve System
+- **Predicate:** stated_would_weaken
+- **Object:** Federal Reserve independence (institutional_capacity)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > Justice Brett Kavanaugh said allowing Lisa Cook's firing to go forward would weaken, if not shatter, the independence of the Federal Reserve.
 
-### c_003 — attributed, primary document
-**Subject entities:** U.S. Supreme Court; Donald Trump; Federal Reserve System; independent agencies
-**Predicate:** has_distinguished
-**Object:** Federal Reserve from other agencies (judicial_treatment)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Supreme Court; Donald Trump; Federal Reserve System; independent agencies
+- **Predicate:** has_distinguished
+- **Object:** Federal Reserve from other agencies (judicial_treatment)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > The Supreme Court has allowed President Trump to fire heads of other independent agencies but appears to draw a line with the Federal Reserve.
 
-### c_004 — attributed, primary document
-**Subject entities:** U.S. Supreme Court; Federal Reserve governors
-**Predicate:** has_stated_removal_standard
-**Object:** for cause only (legal_standard)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Supreme Court; Federal Reserve governors
+- **Predicate:** has_stated_removal_standard
+- **Object:** for cause only (legal_standard)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > The Supreme Court has said the president can remove Federal Reserve governors only for cause, which is often interpreted to mean neglect of duty or malfeasance.
 
-### c_005 — confirmed, primary document
-**Subject entities:** U.S. Supreme Court; Donald Trump; Gwynne Wilcox; Cathy Harris; National Labor Relations Board; Merit Systems Protection Board
-**Predicate:** allowed_firing
-**Object:** agency members (personnel_action)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Supreme Court; Donald Trump; Gwynne Wilcox; Cathy Harris; National Labor Relations Board; Merit Systems Protection Board
+- **Predicate:** allowed_firing
+- **Object:** agency members (personnel_action)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > The Supreme Court has allowed Trump to fire Gwynne Wilcox from the National Labor Relations Board and Cathy Harris from the Merit Systems Protection Board.
 
-### c_006 — attributed, primary document
-**Subject entities:** U.S. Supreme Court; Federal Reserve System; First Bank of the United States; Second Bank of the United States
-**Predicate:** has_characterized
-**Object:** quasi-private entity with historical precedent (institutional_characterization)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Supreme Court; Federal Reserve System; First Bank of the United States; Second Bank of the United States
+- **Predicate:** has_characterized
+- **Object:** quasi-private entity with historical precedent (institutional_characterization)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > The Supreme Court has described the Federal Reserve as a uniquely structured, quasi-private entity that follows in the distinct historical tradition of the First and Second Banks of the United States.
 
-### c_007 — reported, primary document
-**Subject entities:** U.S. Supreme Court
-**Predicate:** avoided_articulating
-**Object:** legal principle for Fed exception (judicial_reasoning)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Supreme Court
+- **Predicate:** avoided_articulating
+- **Object:** legal principle for Fed exception (judicial_reasoning)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > The Supreme Court largely skirted explaining what legal principle protects the Federal Reserve but not other agencies.
 
-### c_008 — attributed, single source
-**Subject entities:** Jane Manners; Federal Reserve System; independent agencies
-**Predicate:** stated_no_historical_grounds
-**Object:** for distinguishing Fed (legal_opinion)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jane Manners; Federal Reserve System; independent agencies
+- **Predicate:** stated_no_historical_grounds
+- **Object:** for distinguishing Fed (legal_opinion)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > Jane Manners, a law professor at Fordham University, said there is no historical grounds for distinguishing the Federal Reserve from other independent agencies Congress has designed.
 
-### c_009 — attributed, single source
-**Subject entities:** Peter Conti-Brown; Federal Reserve System; independent agencies
-**Predicate:** characterized_as
-**Object:** hocus pocus (evaluation)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Peter Conti-Brown; Federal Reserve System; independent agencies
+- **Predicate:** characterized_as
+- **Object:** hocus pocus (evaluation)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > Peter Conti-Brown, a professor of financial regulation at the University of Pennsylvania, said the differentiation between the Federal Reserve and other agencies is hocus pocus.
 
-### c_010 — attributed, primary document
-**Subject entities:** U.S. Supreme Court conservative justices; unitary executive theory
-**Predicate:** support
-**Object:** full presidential control of agency staffing (legal_doctrine)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Supreme Court conservative justices; unitary executive theory
+- **Predicate:** support
+- **Object:** full presidential control of agency staffing (legal_doctrine)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > The Supreme Court's conservative justices support the unitary executive theory, which holds that the president should have full sway over staffing of agencies in the executive branch.
 
-### c_011 — reported, primary document
-**Subject entities:** U.S. Supreme Court; Donald Trump; Rebecca Slaughter; Federal Trade Commission
-**Predicate:** signaled_would_allow
-**Object:** removal of FTC commissioner (judicial_signal)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Supreme Court; Donald Trump; Rebecca Slaughter; Federal Trade Commission
+- **Predicate:** signaled_would_allow
+- **Object:** removal of FTC commissioner (judicial_signal)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > The Supreme Court appeared inclined last month to allow Trump to fire Federal Trade Commission Commissioner Rebecca Slaughter.
 
-### c_012 — reported, primary document
-**Subject entities:** U.S. Supreme Court; presidential removal power
-**Predicate:** suggested_would_overturn
-**Object:** 90-year precedent on removal limits (legal_precedent)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Supreme Court; presidential removal power
+- **Predicate:** suggested_would_overturn
+- **Object:** 90-year precedent on removal limits (legal_precedent)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > The Supreme Court has suggested it would overturn a 90-year-old precedent that limited the president's ability to fire top officials at independent agencies.
 
-### c_013 — attributed, primary document
-**Subject entities:** Brett Kavanaugh; agency directors
-**Predicate:** stated_exercise_power
-**Object:** without democratic accountability (institutional_concern)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Brett Kavanaugh; agency directors
+- **Predicate:** stated_exercise_power
+- **Object:** without democratic accountability (institutional_concern)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > Justice Kavanaugh said at a December oral argument that agency directors exercise massive power over individual liberty and billion-dollar industries without being accountable to anyone.
 
-### c_014 — attributed, primary document
-**Subject entities:** U.S. Supreme Court conservative justices; Federal Reserve System; monetary policy; executive branch
-**Predicate:** suggested_historically_independent
-**Object:** Fed monetary policy from executive control (institutional_relationship)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Supreme Court conservative justices; Federal Reserve System; monetary policy; executive branch
+- **Predicate:** suggested_historically_independent
+- **Object:** Fed monetary policy from executive control (institutional_relationship)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > The Supreme Court's conservative justices have suggested that the Federal Reserve's monetary policy historically has not been overseen by the executive branch.
 
-### c_015 — attributed, single source
-**Subject entities:** Aaron Nielson; Federal Reserve System; monetary policy
-**Predicate:** wrote_distinguishes_function
-**Object:** monetary policy as non-executive (legal_analysis)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Aaron Nielson; Federal Reserve System; monetary policy
+- **Predicate:** wrote_distinguishes_function
+- **Object:** monetary policy as non-executive (legal_analysis)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > Aaron Nielson, a law professor at the University of Texas and former top lawyer in Texas government, wrote that the Federal Reserve's core function is monetary policy, which need not and often does not require executive power.
 
-### c_016 — attributed, single source
-**Subject entities:** Lev Menand; Federal Reserve System; banking regulation
-**Predicate:** argued_exercises_executive
-**Object:** executive power through banking regulation (legal_interpretation)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_016
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Lev Menand; Federal Reserve System; banking regulation
+- **Predicate:** argued_exercises_executive
+- **Object:** executive power through banking regulation (legal_interpretation)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > Lev Menand, a law professor at Columbia University, argued that the Federal Reserve exercises executive power when it regulates the banking system.
 
-### c_017 — attributed, primary document
-**Subject entities:** Paul Clement; Lisa Cook; Federal Reserve System; Federal Trade Commission
-**Predicate:** told_position_problematic
-**Object:** government's admission Fed different (strategic_observation)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_017
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Paul Clement; Lisa Cook; Federal Reserve System; Federal Trade Commission
+- **Predicate:** told_position_problematic
+- **Object:** government's admission Fed different (strategic_observation)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > Paul Clement, one of Lisa Cook's lawyers, told the justices the government's position that the Federal Reserve is different than the Federal Trade Commission makes the case problematic for the government.
 
-### c_018 — attributed, primary document
-**Subject entities:** D. John Sauer; Donald Trump; Lisa Cook
-**Predicate:** acknowledged_for_cause_standard
-**Object:** for cause removal requirement (legal_concession)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_018
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** D. John Sauer; Donald Trump; Lisa Cook
+- **Predicate:** acknowledged_for_cause_standard
+- **Object:** for cause removal requirement (legal_concession)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > The government's top Supreme Court lawyer, D. John Sauer, acknowledged that Trump could only fire Lisa Cook for cause.
 
-### c_019 — reported, primary document
-**Subject entities:** U.S. Supreme Court; Lisa Cook
-**Predicate:** will_rule_on_interim
-**Object:** continued tenure during litigation (judicial_action)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_019
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Supreme Court; Lisa Cook
+- **Predicate:** will_rule_on_interim
+- **Object:** continued tenure during litigation (judicial_action)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > The Supreme Court will initially rule on whether Lisa Cook can remain in her position while the larger dispute over her firing is fought in lower courts.
 
@@ -319,10 +333,5 @@ This work is released under [Creative Commons Zero](https://creativecommons.org/
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Christopher Rugaber
 **Publication date:** 2026-01-23
-**Access date:** 2026-01-23
-**Title:** The Supreme Court's view of expanded executive power leaves one open question: the Fed
+**Title:** The Supreme Court’s view of expanded executive power leaves one open question: the Fed
 **URL:** https://apnews.com/article/federal-reserve-supreme-court-lisa-cook-e5ceaf7041b7c835c825afe1a5cacf07
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

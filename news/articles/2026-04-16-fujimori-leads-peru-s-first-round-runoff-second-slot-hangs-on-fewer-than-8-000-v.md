@@ -245,7 +245,3 @@ Peru's next president will be the country's ninth in a decade.
 **Access date:** 2026-04-16
 **Title:** Nationalist congressman and ultraconservative politician vie for a spot in the Peru runoff
 **URL:** https://apnews.com/article/peru-election-keiko-fujimori-sanchez-lopez-aliaga-ff83661d1c5c6895dc4f9a0acc56d56d
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

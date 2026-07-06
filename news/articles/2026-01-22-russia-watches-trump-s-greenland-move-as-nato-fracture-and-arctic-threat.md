@@ -14,12 +14,12 @@ primary_themes:
 - Russian foreign policy
 - Arctic strategy
 topic_tags:
-  - "arts, culture, entertainment and media"
-  - "international relations"
-  - "mass media"
-  - politics
+- arts, culture, entertainment and media
+- international relations
+- mass media
+- politics
 storyline_nexus:
-  - trump-greenland-acquisition
+- trump-greenland-ambitions
 geographic_location: Greenland / Arctic
 floor_values_engaged:
 - value: truthfulness
@@ -65,37 +65,9 @@ figures_aggregate:
   series_ids: []
   sources: []
 cross_article_links:
-- slug: 2026-01-11-britain-in-nato-talks-on-arctic-security-as-trump-presses-greenland-claim
-  relation: related
-  strength: 0.8505
-  confidence: medium
-- slug: 2026-01-13-denmark-and-greenland-leaders-united-against-trump-s-takeover-bid
-  relation: related
-  strength: 0.8342
-  confidence: medium
-- slug: 2026-01-07-rubio-to-meet-danish-officials-on-greenland-as-european-allies-push-back
-  relation: related
-  strength: 0.8371
-  confidence: medium
 - slug: 2026-01-10-us-weighs-greenland-acquisition-options-as-experts-warn-of-nato-risks-and-steep-
   relation: related
   strength: 0.8155
-  confidence: medium
-- slug: 2026-01-06-white-house-says-u-s-military-always-an-option-in-greenland-as-europe-pushes-bac
-  relation: related
-  strength: 0.8291
-  confidence: medium
-- slug: 2026-01-07-trump-s-greenland-threats-pose-unprecedented-challenge-to-nato
-  relation: related
-  strength: 0.8203
-  confidence: medium
-- slug: 2026-01-05-danish-pm-warns-u-s-takeover-of-greenland-would-end-nato
-  relation: related
-  strength: 0.8267
-  confidence: medium
-- slug: 2026-01-09-meloni-rules-out-u-s-military-action-on-greenland-urges-stronger-nato-role-in-ar
-  relation: related
-  strength: 0.7962
   confidence: medium
 draft: false
 ---
@@ -132,79 +104,93 @@ The Kremlin's response—neither enthusiastically supporting nor explicitly oppo
 
 Human review: not triggered.
 
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework. Specification: /methodology. License: CC0.*
-
 ## Atomic claims
 
-### c_001 — attributed, primary document
-**Subject entities:** Vladimir Putin
-**Predicate:** said_situation_does_not_concern_russia
-**Object:** Greenland situation does not concern Russia; West will resolve among themselves (speech_act)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Vladimir Putin
+- **Predicate:** said_situation_does_not_concern_russia
+- **Object:** Greenland situation does not concern Russia; West will resolve among themselves (speech_act)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > Putin said the Greenland situation does not concern Russia and that the West would figure it out among themselves.
 
-### c_002 — attributed, primary document
-**Subject entities:** Dmitry Peskov
-**Predicate:** attributed_historical_significance
-**Object:** Trump's Greenland acquisition would be historically significant per international experts (speech_act)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Dmitry Peskov
+- **Predicate:** attributed_historical_significance
+- **Object:** Trump's Greenland acquisition would be historically significant per international experts (speech_act)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > Kremlin spokesman Peskov said that if Trump takes control of Greenland, international experts believe he will go down in history.
 
-### c_003 — attributed, primary document
-**Subject entities:** Sergey Lavrov
-**Predicate:** characterized_colonial_vestige
-**Object:** Denmark's Greenland control is a colonial vestige (characterization)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Sergey Lavrov
+- **Predicate:** characterized_colonial_vestige
+- **Object:** Denmark's Greenland control is a colonial vestige (characterization)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > Lavrov said Denmark's control over Greenland was a vestige of the colonial past.
 
-### c_004 — attributed, primary document
-**Subject entities:** Sergey Lavrov
-**Predicate:** drew_parallel_greenland_crimea
-**Object:** Greenland importance to US equals Crimea importance to Russia (analogy)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Sergey Lavrov
+- **Predicate:** drew_parallel_greenland_crimea
+- **Object:** Greenland importance to US equals Crimea importance to Russia (analogy)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > Lavrov drew a parallel between Trump's Greenland bid and Russia's 2014 seizure of Crimea, saying Crimea is as important to Russia as Greenland is to the United States.
 
-### c_005 — attributed, primary document
-**Subject entities:** Sergey Lavrov
-**Predicate:** warned_nato_crisis
-**Object:** Trump's Greenland bid creates deep crisis for NATO; threatens alliance unity (warning)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Sergey Lavrov
+- **Predicate:** warned_nato_crisis
+- **Object:** Trump's Greenland bid creates deep crisis for NATO; threatens alliance unity (warning)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > Lavrov said Trump's bid for Greenland heralds a deep crisis for NATO and raises questions about the alliance's preservation as a single military-political bloc.
 
-### c_006 — reported, single source
-**Subject entities:** Rossiyskaya Gazeta
-**Predicate:** compared_historical_significance
-**Object:** Greenland acquisition comparable to Lincoln's abolition of slavery (comparison)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Rossiyskaya Gazeta
+- **Predicate:** compared_historical_significance
+- **Object:** Greenland acquisition comparable to Lincoln's abolition of slavery (comparison)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > Russian state newspaper Rossiyskaya Gazeta compared Trump's Greenland push to epochal events like Abraham Lincoln's abolition of slavery.
 
-### c_007 — reported, single source
-**Subject entities:** Russian state media
-**Predicate:** argued_distraction_from_ukraine
-**Object:** Greenland situation diverts international attention from Ukraine negotiations (analysis)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Russian state media
+- **Predicate:** argued_distraction_from_ukraine
+- **Object:** Greenland situation diverts international attention from Ukraine negotiations (analysis)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > Russian state media argued that Trump's Greenland push diverts attention from Ukraine peace negotiations.
 
-### c_008 — reported, single source
-**Subject entities:** Russian commentators
-**Predicate:** expressed_arctic_security_concern
-**Object:** US Greenland control threatens Russia's Northern Fleet and Arctic interests (concern)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Russian commentators
+- **Predicate:** expressed_arctic_security_concern
+- **Object:** US Greenland control threatens Russia's Northern Fleet and Arctic interests (concern)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > Russian commentators expressed concern that U.S. control of Greenland would threaten Russia's Northern Fleet and Arctic economic and security interests.
 
@@ -216,7 +202,3 @@ Human review: not triggered.
 **Access date:** 2026-01-22
 **Title:** Russia watches US-European tensions over Greenland with glee, gloating and wariness
 **URL:** https://apnews.com/article/russia-us-greenland-ukraine-war-aa9ec1941fd219ab840863946018346b
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

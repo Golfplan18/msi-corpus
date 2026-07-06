@@ -26,7 +26,7 @@ topic_tags:
   - "international relations"
   - "peace process"
 storyline_nexus:
-  - russia-ukraine-war
+- ukraine-war-peace-negotiations
 geographic_location: Abu Dhabi; Davos; Ukraine; Russia
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -103,7 +103,7 @@ The talks reflected an escalation in diplomatic efforts, with the Trump administ
 
 ## Territorial boundaries remain the core obstacle
 
-The Kremlin's position has not shifted. Kremlin spokesman Dmitry Peskov reiterated that Russian troops' demand for Ukrainian withdrawal from eastern territories remains an "important condition" for any settlement. Yuri Ushakov, a Kremlin foreign affairs adviser, characterized Friday's talks with the American envoys as "frank, constructive" and "fruitful," stating that "reaching a long-term settlement can't be expected without solving the territorial issue."
+The Kremlin's position has not shifted. Kremlin spokesman Dmitry Peskov reiterated that Russian troops' demand for Ukrainian withdrawal from eastern territories remains an "important condition" for any settlement. Yuri Ushakov, a Kremlin foreign affairs adviser, characterized Friday's talks with the American envoys as "frank, constructive" and "fruitful."
 
 Russia currently controls approximately 20 percent of Ukrainian territory following its invasion that began in 2022, with military operations dating back to 2014. These gains have been costly for Moscow, with the Russian economy strained by the war and international sanctions.
 
@@ -117,19 +117,17 @@ Yet Ukraine's negotiating position faces constraints from significant domestic c
 
 At the World Economic Forum in Davos, Zelenskyy delivered a pointed critique of European allies' response to the crisis, contrasting it with what he described as the Trump administration's assertive approach in Venezuela and Iran. He criticized Europe for moving too slowly on key decisions, spending too little on defense, failing to interdict Russia's "shadow fleet" of oil tankers that circumvent international sanctions, and refusing to use frozen Russian assets to finance Ukraine's war effort.
 
-"Europe looks lost," Zelenskyy said, invoking the film "Groundhog Day" to argue that Europe's inaction remains unchanged. "Just last year, here in Davos, I ended my speech with the words: Europe needs to know how to defend itself. A year has passed. And nothing has changed. We are still in a situation where I must say the same words again," he said.
+"Europe looks lost," Zelenskyy said, invoking the film "Groundhog Day" to argue that Europe's inaction remains unchanged.
 
 ## Trump signals progress while acknowledging obstacles
 
-Trump said his Davos meeting with Zelenskyy went well and that both Putin and Zelenskyy expressed willingness to reach a settlement. He noted that "everyone's making concessions" to advance toward an end to the war.
+Trump said his Davos meeting with Zelenskyy went well and that both Putin and Zelenskyy expressed willingness to reach a settlement. He indicated that both sides are working to advance toward an end to the war.
 
-Trump identified territorial boundaries as the primary sticking point. "The main hold-up is the same things that's been holding it up for the last year," he said, speaking to reporters aboard Air Force One as he returned to Washington.
+Trump identified territorial boundaries as the primary sticking point. He identified territorial boundaries as the primary sticking point, speaking to reporters aboard Air Force One as he returned to Washington.
 
 The White House described the Abu Dhabi talks as productive. Zelenskyy said his negotiating team reported to him almost hourly about discussions on the ground, with particular focus on "parameters for ending the war." He cautioned that it was premature to draw conclusions from the first day of talks and said he would assess Saturday's outcome before making a broader assessment.
 
 Both sides have indicated they want to reach a deal, but fundamental disagreements over which territory Ukraine must concede remain the primary obstacle to a final agreement.
-
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
 
 ## Atomic claims
 
@@ -267,7 +265,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-05-17
 **Title:** Kremlin says territorial issue key obstacle to Ukraine peace
 **URL:** https://apnews.com/article/russia-ukraine-trump-putin-witkoff-kushner-zelenskyy-e985cdc189a479c7618ba4523a50463a
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

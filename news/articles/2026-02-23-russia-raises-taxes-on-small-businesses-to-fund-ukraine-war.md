@@ -24,7 +24,7 @@ topic_tags:
   - "science and technology"
   - "artificial intelligence"
 storyline_nexus:
-  - russia-ukraine-war
+- ukraine-war-peace-negotiations
 geographic_location: Russia
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -130,8 +130,6 @@ The pressure on small businesses is not new. They have been under strain since 2
 "The one engine of expansion and growth and innovation that you need in an economy is the sector that has suffered most in the last four years and is continuing to suffer today," Weafer said.
 
 The government has signaled that the pressure will intensify. More businesses will face increased taxes in 2027 and 2028 as thresholds continue to tighten.
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. Specification: [/methodology](https://example.com/methodology). Human review: not_triggered. Licensed under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*
 
 ## Atomic claims
 
@@ -269,7 +267,3 @@ The government has signaled that the pressure will intensify. More businesses wi
 **Access date:** 2026-02-23
 **Title:** Small businesses feel the pain from new taxes meant to boost Russia's wartime economy
 **URL:** https://apnews.com/article/russia-war-economy-taxes-ukraine-putin-aa58356ff3c5cf04c5dbf795dddfb90f
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

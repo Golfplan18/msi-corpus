@@ -28,8 +28,7 @@ topic_tags:
   - health
   - "human interest"
 storyline_nexus:
-  - immigration-enforcement
-  - ai-regulation
+- israel-hezbollah-lebanon-war
 geographic_location: Zahle, Lebanon; Nabi Chit, Lebanon
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -418,7 +417,3 @@ Israel has in some cases claimed responsibility for such operations, including t
 **Access date:** 2026-03-08
 **Title:** Retired Lebanese security officer vanishes, and family suspects Israel abducted him
 **URL:** https://apnews.com/article/lebanon-israel-ahmed-shukr-ron-arad-kidnapping-09c7e1026bba9874f3d62d8085982609
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

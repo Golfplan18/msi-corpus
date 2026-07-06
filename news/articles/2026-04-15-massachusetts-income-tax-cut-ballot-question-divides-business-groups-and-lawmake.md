@@ -21,27 +21,24 @@ primary_themes:
 - affordability
 - outmigration
 topic_tags:
-  - "armed conflict"
-  - "conflict, war and peace"
-  - "economy, business and finance"
-  - election
-  - labour
-  - "labour dispute"
-storyline_nexus: []
-geographic_location: Massachusetts, United States
+- tax
+- economy
+- election
+- government policy
+storyline_nexus:
+- 2026-midterm-elections
+geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship
   intensity: 0.9
-- value: accountability_of_power
+- value: equality_fairness
   intensity: 0.6
-- value: human_life_and_dignity
-  intensity: 0.5
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T08:13:44Z'
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T01:00:37Z'
 source_cluster_id: cluster_ap_2026-04-16_massachusetts-state-income-tax-cut-ballo
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
@@ -50,19 +47,19 @@ claims:
     appears: 0
     alleged: 0
     attributed: 10
-    reported: 2
     contested: 0
     confirmed: 0
+    reported: 2
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 0
+    one_originating_plus_primary_document: 0
     single_source: 12
+    primary_plus_secondary: 0
     two_independent: 0
 sources:
   count: 1
   outlets:
-  - Associated Press / The New Bedford Light
+  - Associated Press
   outlet_classes:
   - wire
   highest_reliability_tier: 1
@@ -72,13 +69,12 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-07-georgia-senate-republicans-push-to-eliminate-state-income-tax-by-2032
-  relation: related
-  strength: 0.8716
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
 
 A ballot proposal that would reduce Massachusetts' state income tax rate from 5% to 4% has pitted business coalitions against union leaders and Democratic lawmakers, with both sides projecting sharply different consequences for the state's roughly $61 billion budget. The measure remains before the Joint Committee on Initiative Petitions and has not been certified for the November ballot.
 
@@ -134,123 +130,142 @@ Horowitz said that however the debate unfolds, the question is an appropriate on
 
 ## Atomic claims
 
-### c_001 — reported, single source
-**Subject entities:** Massachusetts
-**Predicate:** ballot_measure_proposed
-**Object:** income tax cut from 5% to 4% (policy_proposal)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Massachusetts
+- **Predicate:** ballot_measure_proposed
+- **Object:** income tax cut from 5% to 4% (policy_proposal)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Massachusetts voters may be asked this November to approve a state income tax cut from 5% to 4%.
 
-### c_002 — attributed, single source
-**Subject entities:** Massachusetts Taxpayers Foundation; Doug Howgate
-**Predicate:** estimated_revenue_loss
-**Object:** $5.4 billion annually (fiscal_estimate)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Massachusetts Taxpayers Foundation; Doug Howgate
+- **Predicate:** estimated_revenue_loss
+- **Object:** $5.4 billion annually (fiscal_estimate)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > The Massachusetts Taxpayers Foundation estimates the tax cut would result in a $5.4 billion annual revenue loss (static analysis).
 
-### c_003 — attributed, single source
-**Subject entities:** Tufts University Center for State Policy Analysis; Evan Horowitz
-**Predicate:** estimated_revenue_loss
-**Object:** $5.1 billion annually beginning FY2030 (fiscal_estimate)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Tufts University Center for State Policy Analysis; Evan Horowitz
+- **Predicate:** estimated_revenue_loss
+- **Object:** $5.1 billion annually beginning FY2030 (fiscal_estimate)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Tufts University's Center for State Policy Analysis projects the cut would cost the state $5.1 billion per year beginning in fiscal 2030 (dynamic analysis).
 
-### c_004 — attributed, single source
-**Subject entities:** Massachusetts
-**Predicate:** tax_revenue_collected
-**Object:** $26.7 billion (fiscal_figure)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Massachusetts
+- **Predicate:** tax_revenue_collected
+- **Object:** $26.7 billion (fiscal_figure)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Massachusetts' state income tax raised $26.7 billion in fiscal year 2025.
 
-### c_005 — attributed, single source
-**Subject entities:** Massachusetts
-**Predicate:** millionaires_tax_revenue
-**Object:** $3 billion (fiscal_figure)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Massachusetts
+- **Predicate:** millionaires_tax_revenue
+- **Object:** $3 billion (fiscal_figure)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > The millionaires tax raised $3 billion in fiscal year 2025.
 
-### c_006 — attributed, single source
-**Subject entities:** University of New Hampshire Survey Center
-**Predicate:** poll_result
-**Object:** 58% support, 21% opposed, 21% neutral/unsure (polling_figure)
-**Temporal:** 2026-02-01
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** University of New Hampshire Survey Center
+- **Predicate:** poll_result
+- **Object:** 58% support, 21% opposed, 21% neutral/unsure (polling_figure)
+- **Temporal:** 2026-02-01
+- **Sources:** src_001
 
 > A February poll of 670 Massachusetts voters by the University of New Hampshire Survey Center found 58% in support of the tax cut, 21% opposed, and 21% neutral or unsure.
 
-### c_007 — attributed, single source
-**Subject entities:** Raise Up Massachusetts; Andrew Farnitano
-**Predicate:** estimated_taxpayer_savings
-**Object:** $534 per year average for bottom 80% (fiscal_estimate)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Raise Up Massachusetts; Andrew Farnitano
+- **Predicate:** estimated_taxpayer_savings
+- **Object:** $534 per year average for bottom 80% (fiscal_estimate)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Raise Up Massachusetts says the bottom 80% of taxpayers would see an average tax cut of $534 per year.
 
-### c_008 — attributed, single source
-**Subject entities:** Mass Opportunity Alliance; Rebekah Paxton
-**Predicate:** estimated_taxpayer_savings
-**Object:** $1,300 average / $1,100 median household (fiscal_estimate)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Mass Opportunity Alliance; Rebekah Paxton
+- **Predicate:** estimated_taxpayer_savings
+- **Object:** $1,300 average / $1,100 median household (fiscal_estimate)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Mass Opportunity Alliance says the average resident would save $1,300 and the median household would save $1,100 under the tax cut.
 
-### c_009 — attributed, single source
-**Subject entities:** Evan Horowitz; Tufts University Center for State Policy Analysis
-**Predicate:** estimated_savings_gap
-**Object:** $37,352 gap between richest and poorest (distributional_estimate)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Evan Horowitz; Tufts University Center for State Policy Analysis
+- **Predicate:** estimated_savings_gap
+- **Object:** $37,352 gap between richest and poorest (distributional_estimate)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Evan Horowitz of Tufts found a $37,352 gap between the savings of the richest and poorest residents.
 
-### c_010 — attributed, single source
-**Subject entities:** North Carolina; Massachusetts; Pioneer Institute
-**Predicate:** private_sector_job_change
-**Object:** NC +448,900 / MA -18,000 (employment_figure)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** North Carolina; Massachusetts; Pioneer Institute
+- **Predicate:** private_sector_job_change
+- **Object:** NC +448,900 / MA -18,000 (employment_figure)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > North Carolina added 448,900 private-sector jobs between 2020 and 2025 while Massachusetts lost 18,000, according to a Pioneer Institute report.
 
-### c_011 — attributed, single source
-**Subject entities:** Mass Opportunity Alliance
-**Predicate:** estimated_revenue_impact
-**Object:** -$2.2B over 3 years, then +$500M by FY2030 (fiscal_estimate)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Mass Opportunity Alliance
+- **Predicate:** estimated_revenue_impact
+- **Object:** -$2.2B over 3 years, then +$500M by FY2030 (fiscal_estimate)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Mass Opportunity Alliance estimates the state would lose about $2.2 billion over three years but projects a $500 million revenue increase by fiscal 2030.
 
-### c_012 — reported, single source
-**Subject entities:** Ron Mariano
-**Predicate:** indicated_openness_to_compromise
-**Object:** compromise negotiation (legislative_posture)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Ron Mariano
+- **Predicate:** indicated_openness_to_compromise
+- **Object:** compromise negotiation (legislative_posture)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > House Speaker Ron Mariano has indicated openness to negotiating a compromise with the ballot committee.
 
 ## Sources
 
-### src_001 — Associated Press / The New Bedford Light, wire, Tier 1, originating
-**Author:** Jamie Perkins
+### src_001 — Associated Press, wire, Tier 1, originating
+**Author:** Jamie Perkins / The New Bedford Light
 **Publication date:** 2026-04-15
-**Access date:** 2026-05-17
 **Title:** Ballot proposal for income tax cut sparks debate in Massachusetts
 **URL:** https://apnews.com/article/massachusetts-state-income-tax-cut-ballot-c83e87a988cc0d24f6ecc54b6b518cf1
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

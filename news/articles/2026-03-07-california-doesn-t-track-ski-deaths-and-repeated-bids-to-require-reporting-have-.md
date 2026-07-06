@@ -19,9 +19,10 @@ primary_themes:
 - public records
 - legislative accountability
 topic_tags:
-  - "disaster, accident and emergency incident"
-  - "accident and emergency incident"
-storyline_nexus: []
+- disaster, accident and emergency incident
+- accident and emergency incident
+storyline_nexus:
+- extreme-weather-disasters
 geographic_location: California, United States
 floor_values_engaged:
 - value: informed_citizenship
@@ -70,10 +71,6 @@ cross_article_links:
 - slug: 2026-01-07-hawaii-to-revive-beach-safety-task-force-after-13-year-gap-as-ocean-drownings-mo
   relation: related
   strength: 0.704
-  confidence: medium
-- slug: 2026-01-12-ap-relies-on-u-s--based-rights-group-to-track-iran-protest-death-toll-amid-black
-  relation: related
-  strength: 0.6831
   confidence: medium
 draft: false
 ---
@@ -144,164 +141,200 @@ Gregorie said he has given up on legislation. The SnowSport Safety Foundation is
 
 ## Atomic claims
 
-### c_001 — confirmed, single source
-**Subject entities:** California
-**Predicate:** does_not_monitor
-**Object:** ski injuries or deaths at resorts (regulatory_gap)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** California
+- **Predicate:** does_not_monitor
+- **Object:** ski injuries or deaths at resorts (regulatory_gap)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > California does not monitor ski injuries or deaths at resorts and has no threshold for injuries that triggers investigations or intervention.
 
-### c_002 — reported, single source
-**Subject entities:** Northstar California Resort
-**Predicate:** fatality_occurred
-**Object:** 21-year-old skier on black diamond run (death)
-**Temporal:** 2026-02
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Northstar California Resort
+- **Predicate:** fatality_occurred
+- **Object:** 21-year-old skier on black diamond run (death)
+- **Temporal:** 2026-02
+- **Sources:** src_001
 
 > In February 2026, a 21-year-old skier was found dead on a black diamond run at Northstar California Resort.
 
-### c_003 — reported, single source
-**Subject entities:** Lake Tahoe
-**Predicate:** killed
-**Object:** nine backcountry skiers (death_count)
-**Temporal:** 2026-02
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Lake Tahoe
+- **Predicate:** killed
+- **Object:** nine backcountry skiers (death_count)
+- **Temporal:** 2026-02
+- **Sources:** src_001
 
 > An avalanche killed nine backcountry skiers near Lake Tahoe in February 2026.
 
-### c_004 — attributed, single source
-**Subject entities:** John Rice; Ski California
-**Predicate:** said
-**Object:** no indication of more injuries than previous years, only more media coverage (statement)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** John Rice; Ski California
+- **Predicate:** said
+- **Object:** no indication of more injuries than previous years, only more media coverage (statement)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > John Rice, president of Ski California, said there has been no indication of more injuries this year than previous years, only more media coverage around serious ones.
 
-### c_005 — confirmed, single source
-**Subject entities:** Cal/OSHA
-**Predicate:** oversees
-**Object:** ski lifts but not slopes (regulatory_scope)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Cal/OSHA
+- **Predicate:** oversees
+- **Object:** ski lifts but not slopes (regulatory_scope)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > Cal/OSHA oversees ski lifts through its Amusement Ride and Tramway Unit and requires incident reports for injuries needing more than first aid, but does not regulate slopes.
 
-### c_006 — confirmed, single source
-**Subject entities:** U.S. Forest Service
-**Predicate:** requires_notification
-**Object:** fatal incidents on national forest land (regulatory_requirement)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Forest Service
+- **Predicate:** requires_notification
+- **Object:** fatal incidents on national forest land (regulatory_requirement)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > The U.S. Forest Service requires resorts on national forest land to notify it 'as soon as practicable' after fatal incidents, but not all California resorts operate on national forest land.
 
-### c_007 — confirmed, single source
-**Subject entities:** Northstar California Resort
-**Predicate:** located_on
-**Object:** private land (land_ownership)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Northstar California Resort
+- **Predicate:** located_on
+- **Object:** private land (land_ownership)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > Northstar California Resort is largely on private land.
 
-### c_008 — reported, single source
-**Subject entities:** Jessica Gregorie; Alpine Meadows
-**Predicate:** died
-**Object:** fell off cliff on icy traverse with no guardrails (death)
-**Temporal:** ~2006
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Jessica Gregorie; Alpine Meadows
+- **Predicate:** died
+- **Object:** fell off cliff on icy traverse with no guardrails (death)
+- **Temporal:** ~2006
+- **Sources:** src_001
 
 > Jessica Gregorie, 24, died approximately 20 years ago after slipping on an icy traverse at Alpine Meadows ski resort near Lake Tahoe and plummeting off a cliff with no fences or guardrails.
 
-### c_009 — attributed, single source
-**Subject entities:** Dan Gregorie; SnowSport Safety Foundation
-**Predicate:** founded
-**Object:** SnowSport Safety Foundation in 2008 (organization_founding)
-**Temporal:** 2008
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Dan Gregorie; SnowSport Safety Foundation
+- **Predicate:** founded
+- **Object:** SnowSport Safety Foundation in 2008 (organization_founding)
+- **Temporal:** 2008
+- **Sources:** src_001
 
 > Dan Gregorie, a retired physician, founded the SnowSport Safety Foundation in 2008 to push for legislation requiring ski resorts to make safety plans and accident statistics public.
 
-### c_010 — confirmed, single source
-**Subject entities:** Dave Jones; California Legislature
-**Predicate:** passed
-**Object:** ski safety reporting bill in 2010 (legislation)
-**Temporal:** 2010
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Dave Jones; California Legislature
+- **Predicate:** passed
+- **Object:** ski safety reporting bill in 2010 (legislation)
+- **Temporal:** 2010
+- **Sources:** src_001
 
 > California lawmakers in 2010 passed a bill authored by then-Assemblymember Dave Jones requiring ski resorts to prepare publicly available safety plans and monthly reports of fatalities including cause, location, age, and where medical care was provided.
 
-### c_011 — confirmed, single source
-**Subject entities:** Arnold Schwarzenegger
-**Predicate:** vetoed
-**Object:** 2010 ski safety reporting bill (veto)
-**Temporal:** 2010
-**Source IDs:** src_001
+### c_011
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Arnold Schwarzenegger
+- **Predicate:** vetoed
+- **Object:** 2010 ski safety reporting bill (veto)
+- **Temporal:** 2010
+- **Sources:** src_001
 
 > Gov. Arnold Schwarzenegger vetoed the 2010 bill, saying the requirements duplicated those of the U.S. Forest Service and 'may place an unnecessary burden on resorts.'
 
-### c_012 — confirmed, single source
-**Subject entities:** Jerry Brown
-**Predicate:** vetoed
-**Object:** ski safety reporting bill (veto)
-**Temporal:** 2011
-**Source IDs:** src_001
+### c_012
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Jerry Brown
+- **Predicate:** vetoed
+- **Object:** ski safety reporting bill (veto)
+- **Temporal:** 2011
+- **Sources:** src_001
 
 > Gov. Jerry Brown vetoed an almost identical measure the following year, calling it 'yet another exercise of the State's regulatory power for objectives that, in the ordinary course, are handled by private business or the people themselves.'
 
-### c_013 — confirmed, single source
-**Subject entities:** California Legislature; California Department of Public Health
-**Predicate:** failed
-**Object:** ski accident reporting mandate (legislation_failure)
-**Source IDs:** src_001
+### c_013
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** California Legislature; California Department of Public Health
+- **Predicate:** failed
+- **Object:** ski accident reporting mandate (legislation_failure)
+- **Sources:** src_001
 
 > A two-year effort to require ski resorts to send monthly accident reports for serious injuries and deaths to the California Department of Public Health died in the Legislature without reaching the governor's desk.
 
-### c_014 — attributed, single source
-**Subject entities:** Ski California
-**Predicate:** opposed
-**Object:** ski reporting legislation (advocacy_position)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ski California
+- **Predicate:** opposed
+- **Object:** ski reporting legislation (advocacy_position)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > Ski California says it has opposed legislation to increase reporting.
 
-### c_015 — attributed, single source
-**Subject entities:** Ski California
-**Predicate:** contributed
-**Object:** $1.8 billion to state GDP, $100 million to state and local tax revenue (economic_figure)
-**Temporal:** 2024-2025
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ski California
+- **Predicate:** contributed
+- **Object:** $1.8 billion to state GDP, $100 million to state and local tax revenue (economic_figure)
+- **Temporal:** 2024-2025
+- **Sources:** src_001
 
 > The ski and snowboard industry in California and Nevada added $1.8 billion to state GDP and $100 million to state and local tax revenue last winter, according to Ski California.
 
-### c_016 — attributed, single source
-**Subject entities:** National Ski Areas Association
-**Predicate:** reported
-**Object:** 63 catastrophic injuries, 50 deaths at ski resorts nationally (safety_statistics)
-**Temporal:** 2024-2025
-**Source IDs:** src_001
+### c_016
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** National Ski Areas Association
+- **Predicate:** reported
+- **Object:** 63 catastrophic injuries, 50 deaths at ski resorts nationally (safety_statistics)
+- **Temporal:** 2024-2025
+- **Sources:** src_001
 
 > Last winter, 63 people suffered catastrophic injuries such as broken necks or backs at ski resorts, and 50 people died, according to the National Ski Areas Association.
 
-### c_017 — attributed, single source
-**Subject entities:** Benjamin Hatchett; Colorado State University
-**Predicate:** said
-**Object:** data is the biggest linchpin for studying ski safety risk (statement)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_017
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Benjamin Hatchett; Colorado State University
+- **Predicate:** said
+- **Object:** data is the biggest linchpin for studying ski safety risk (statement)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > Benjamin Hatchett, an earth systems scientist at Colorado State University, said the data is probably the biggest linchpin in being able to say anything about ski safety risk.
 
-### c_018 — attributed, single source
-**Subject entities:** Dan Gregorie; SnowSport Safety Foundation
-**Predicate:** disbanded
-**Object:** SnowSport Safety Foundation no longer active; Gregorie has abandoned legislative effort (organization_status)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_018
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Dan Gregorie; SnowSport Safety Foundation
+- **Predicate:** disbanded
+- **Object:** SnowSport Safety Foundation no longer active; Gregorie has abandoned legislative effort (organization_status)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > Dan Gregorie said he has given up on legislation, and the SnowSport Safety Foundation is no longer active.
 
@@ -313,7 +346,3 @@ Gregorie said he has given up on legislation. The SnowSport Safety Foundation is
 **Access date:** 2026-03-07
 **Title:** Is California's ski season deadlier than usual? Here's why we don't know
 **URL:** https://apnews.com/article/california-jerry-brown-jessica-gregorie-arnold-schwarzenegger-general-news-aeeb4c1c6d0e7dadb9b271bbf7c168b4
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

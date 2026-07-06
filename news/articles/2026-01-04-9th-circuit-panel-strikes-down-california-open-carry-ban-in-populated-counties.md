@@ -16,42 +16,42 @@ primary_themes:
 - California firearms policy
 - federal courts
 topic_tags:
-  - "crime, law and justice"
-  - "disaster, accident and emergency incident"
-  - fire
-  - government
-  - "government policy"
-  - judiciary
-storyline_nexus: []
-geographic_location: Sacramento, California, United States
+- crime, law and justice
+- judiciary
+- civil rights
+- law
+- government policy
+storyline_nexus:
+- supreme-court-constitutional-cases
+geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.8
 - value: accountability_of_power
-  intensity: 0.45
-framework_version: 1.1.0
-generation_timestamp: '2026-05-16T16:45:22Z'
+  intensity: 0.9
+- value: human_life_and_dignity
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-22T23:56:19Z'
 source_cluster_id: cluster_ap_2026-01-03_california-firearms-open-carry-ruling-9c
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 8
   hedges:
     appears: 0
-    alleged: 0
-    attributed: 7
     reported: 0
+    attributed: 7
+    alleged: 0
     contested: 0
     confirmed: 1
   corroboration:
-    primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
+    two_independent: 0
     primary_document: 2
     single_source: 6
-    two_independent: 0
+    primary_plus_secondary: 0
 sources:
   count: 1
   outlets:
@@ -69,13 +69,20 @@ image:
   url: /articles/2026-01-04-9th-circuit-panel-strikes-down-california-open-carry-ban-in-populated-counties.png
   alt: 'Illustration accompanying article: 9th Circuit panel strikes down California open carry ban in populated counties'
   source: ai_generated
-cross_article_links:
-- slug: 2025-12-31-appeals-court-lets-medicaid-funding-cuts-to-planned-parenthood-stand-while-state
-  relation: related
-  strength: 0.7142
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Appeals panel says California’s ban on open carry in more populated counties is unconstitutional
+- SACRAMENTO, Calif. (AP) — A federal appeals panel has ruled that a California law prohibiting open carry of firearms in heavily populated counties is unconstitutional.
+- “California’s legal regime is a complete ban on open carry in urban areas — the areas of the state where 95% of the people live,” they said in the decision.
+- The dissenting judge disagreed and said California could limit open carry in more populated areas because it allows for concealed carry throughout the state.
+- The ruling comes in a long-running debate over gun laws in the United States and in California, which has passed a series of restrictions.
+- It came after Mark Baird, a Siskiyou County resident, filed a lawsuit asking the courts to restore the historical practice of open carry being allowed.
 
 The ruling, which came in a long-running lawsuit filed by a Northern California resident, sets up a likely en banc review by the full 9th Circuit. The outcome could shape how one of the nation's most restrictive gun-law regimes comports with the Supreme Court's 2022 decision in *New York State Rifle & Pistol Association v. Bruen*.
 
@@ -109,74 +116,90 @@ The governor's office also said the state's law was carefully crafted to comply 
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** 9th U.S. Circuit Court of Appeals
-**Predicate:** ruled_unconstitutional
-**Object:** California law restricting open carry to low-population counties (legal_holding)
-**Temporal:** 2026-01-03
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** 9th U.S. Circuit Court of Appeals
+- **Predicate:** ruled_unconstitutional
+- **Object:** California law restricting open carry to low-population counties (legal_holding)
+- **Temporal:** 2026-01-03
+- **Sources:** src_001
 
 > A two-judge panel of the 9th U.S. Circuit Court of Appeals ruled that California's policy limiting open carry to counties with populations under 200,000 is inconsistent with the Second Amendment.
 
-### c_002 — attributed, primary document
-**Subject entities:** 9th U.S. Circuit Court of Appeals panel majority
-**Predicate:** stated_in_opinion
-**Object:** California's legal regime is a complete ban on open carry in urban areas — the areas of the state where 95% of the people live (judicial_opinion_verbatim_quote)
-**Temporal:** 2026-01-03
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** 9th U.S. Circuit Court of Appeals panel majority
+- **Predicate:** stated_in_opinion
+- **Object:** California's legal regime is a complete ban on open carry in urban areas — the areas of the state where 95% of the people live (judicial_opinion_verbatim_quote)
+- **Temporal:** 2026-01-03
+- **Sources:** src_001
 
 > The two-judge majority said California's legal regime is a complete ban on open carry in urban areas where 95 percent of the state's population lives.
 
-### c_003 — attributed, single source
-**Subject entities:** dissenting judge, 9th U.S. Circuit Court of Appeals
-**Predicate:** argued_in_dissent
-**Object:** statewide concealed carry availability justifies open carry restrictions in populated counties (judicial_dissent)
-**Temporal:** 2026-01-03
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** dissenting judge, 9th U.S. Circuit Court of Appeals
+- **Predicate:** argued_in_dissent
+- **Object:** statewide concealed carry availability justifies open carry restrictions in populated counties (judicial_dissent)
+- **Temporal:** 2026-01-03
+- **Sources:** src_001
 
 > The dissenting judge said California could limit open carry in more populated areas because it allows concealed carry throughout the state.
 
-### c_004 — attributed, single source
-**Subject entities:** Mark Baird
-**Predicate:** filed_lawsuit
-**Object:** restoration of open carry practice (legal_action)
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Mark Baird
+- **Predicate:** filed_lawsuit
+- **Object:** restoration of open carry practice (legal_action)
+- **Sources:** src_001
 
 > Mark Baird, a Siskiyou County resident, filed the lawsuit asking courts to restore the historical practice of open carry.
 
-### c_005 — attributed, single source
-**Subject entities:** Chuck Michel; California Rifle & Pistol Association
-**Predicate:** said
-**Object:** state officials will seek en banc review by the full 9th Circuit (prediction_statement)
-**Temporal:** 2026-01-04
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Chuck Michel; California Rifle & Pistol Association
+- **Predicate:** said
+- **Object:** state officials will seek en banc review by the full 9th Circuit (prediction_statement)
+- **Temporal:** 2026-01-04
+- **Sources:** src_001
 
 > Chuck Michel, president of the California Rifle & Pistol Association, said he expected state officials to seek a review of the ruling by the full appeals court.
 
-### c_006 — attributed, single source
-**Subject entities:** Chuck Michel
-**Predicate:** said
-**Object:** ruling is very significant; central question is application of the 2022 Supreme Court decision (statement)
-**Temporal:** 2026-01-04
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Chuck Michel
+- **Predicate:** said
+- **Object:** ruling is very significant; central question is application of the 2022 Supreme Court decision (statement)
+- **Temporal:** 2026-01-04
+- **Sources:** src_001
 
 > Michel called the ruling 'a very significant opinion' and said a key question is how the 2022 Supreme Court decision expanding gun rights should be applied.
 
-### c_007 — attributed, single source
-**Subject entities:** Gavin Newsom; California Governor's press office
-**Predicate:** stated
-**Object:** state law carefully crafted to comply with the Second Amendment (government_statement)
-**Temporal:** 2026-01-04
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Gavin Newsom; California Governor's press office
+- **Predicate:** stated
+- **Object:** state law carefully crafted to comply with the Second Amendment (government_statement)
+- **Temporal:** 2026-01-04
+- **Sources:** src_001
 
 > The press office for Gov. Gavin Newsom said in a statement on social media that the state's law was carefully crafted to comply with the Second Amendment.
 
-### c_008 — attributed, single source
-**Subject entities:** Gavin Newsom; California Governor's press office
-**Predicate:** stated_on_social_media
-**Object:** California just got military troops with weapons of war off of the streets of our cities, but now Republican activists on the Ninth Circuit want to replace them with gunslingers and return to the days of the Wild West (government_statement_verbatim_quote)
-**Temporal:** 2026-01-04
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Gavin Newsom; California Governor's press office
+- **Predicate:** stated_on_social_media
+- **Object:** California just got military troops with weapons of war off of the streets of our cities, but now Republican activists on the Ninth Circuit want to replace them with gunslingers and return to the days of the Wild West (government_statement_verbatim_quote)
+- **Temporal:** 2026-01-04
+- **Sources:** src_001
 
 > The press office statement said Republican activists on the Ninth Circuit want to replace military troops with gunslingers and return to the days of the Wild West.
 
@@ -184,10 +207,5 @@ The governor's office also said the state's law was carefully crafted to comply 
 
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Publication date:** 2026-01-04
-**Access date:** 2026-01-04
 **Title:** Federal appeals panel rules California open carry law unconstitutional
 **URL:** https://apnews.com/article/california-firearms-open-carry-ruling-9c19c25a9841a8a5652f3600f86109a2
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

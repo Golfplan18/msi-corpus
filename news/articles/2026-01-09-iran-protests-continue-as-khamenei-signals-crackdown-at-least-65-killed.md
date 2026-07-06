@@ -20,46 +20,42 @@ primary_themes:
 - international response
 - US-Iran tensions
 topic_tags:
-  - "civil unrest"
-  - "conflict, war and peace"
-  - government
-  - "mass media"
-  - "political dissent"
-  - "science and technology"
+- civil unrest
+- political dissent
+- conflict, war and peace
+- terrorism
 storyline_nexus:
-  - iran-war
-  - trump-tariff-policy
-  - gaza-conflict
-geographic_location: Iran
+- the-iran-war
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
-  intensity: 0.95
+  intensity: 0.9
 - value: accountability_of_power
   intensity: 0.9
 - value: informed_citizenship
-  intensity: 0.85
-framework_version: 1.1.0
-generation_timestamp: '2026-01-09T12:00:00Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:03:49Z'
 source_cluster_id: cluster_ap_2026-01-08_iran-protests-us-israel-war-economy-54e4
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 14
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 7
-    reported: 6
     contested: 0
+    appears: 0
+    reported: 6
+    alleged: 0
     confirmed: 1
+    attributed: 7
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 1
+    primary_plus_secondary: 0
     single_source: 13
+    one_originating_plus_primary_document: 0
     two_independent: 0
 sources:
   count: 1
@@ -78,41 +74,18 @@ image:
   url: /articles/2026-01-09-iran-protests-continue-as-khamenei-signals-crackdown-at-least-65-killed.png
   alt: 'Illustration accompanying article: Iran protests continue as Khamenei signals crackdown; at least 65 killed'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-08-iran-cuts-internet-and-phones-as-exiled-prince-s-call-draws-mass-protests
-  relation: continues
-  strength: 0.8875
-  confidence: high
-- slug: 2026-01-03-khamenei-says-rioters-must-be-put-in-their-place-as-iran-protest-deaths-reach-15
-  relation: continues
-  strength: 0.8901
-  confidence: high
-- slug: 2026-01-04-iran-protests-reach-all-31-provinces-as-rial-collapse-deepens-internet-cut
-  relation: continues
-  strength: 0.8794
-  confidence: high
-- slug: 2026-01-07-iran-security-forces-fire-tear-gas-at-grand-bazaar-as-protest-death-toll-reaches
-  relation: continues
-  strength: 0.8537
-  confidence: high
-- slug: 2026-01-01-at-least-7-killed-as-iran-protests-over-economy-spread-to-rural-provinces
-  relation: continues
-  strength: 0.8613
-  confidence: high
-- slug: 2026-01-05-iran-s-major-protests-over-50-years-from-revolution-to-rial-collapse
-  relation: related
-  strength: 0.8318
-  confidence: medium
-- slug: 2026-01-07-iran-army-chief-threatens-preemptive-attack-as-protests-enter-11th-day
-  relation: continues
-  strength: 0.8158
-  confidence: high
-- slug: 2026-01-02-trump-and-iran-trade-threats-as-rial-protests-enter-sixth-day-killing-at-least-7
-  relation: continues
-  strength: 0.8455
-  confidence: high
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- DUBAI — Iran's supreme leader signaled an imminent crackdown on demonstrators Friday as protests across the Islamic Republic persisted into a third week, despite the government cutting internet access and severing international telephone lines.
+- The government's escalating response — labeling protesters "terrorists," vowing maximum punishment, and silencing communications — came as U.S.
+- Speaking to a crowd at his compound in Tehran, Supreme Leader Ayatollah Ali Khamenei, 86, dismissed Trump and accused demonstrators of acting on his behalf.
+- "Protesters are ruining their own streets ...
 
 DUBAI — Iran's supreme leader signaled an imminent crackdown on demonstrators Friday as protests across the Islamic Republic persisted into a third week, despite the government cutting internet access and severing international telephone lines. At least 65 people have been killed and more than 2,300 detained since demonstrations began in late December over the country's ailing economy, according to the U.S.-based Human Rights Activists News Agency.
 
@@ -170,129 +143,157 @@ Demonstrations in Tehran and other cities have included chants in support of the
 
 ## Atomic claims
 
-### c_001 — reported, single source
-**Subject entities:** Iran protesters
-**Predicate:** killed_in_protests
-**Object:** 65 (death_toll_minimum)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Iran protesters
+- **Predicate:** killed_in_protests
+- **Object:** 65 (death_toll_minimum)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > At least 65 people have been killed in Iran protests since late December 2025.
 
-### c_002 — reported, single source
-**Subject entities:** Iran government; protesters
-**Predicate:** detained
-**Object:** 2300+ (detention_count)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Iran government; protesters
+- **Predicate:** detained
+- **Object:** 2300+ (detention_count)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > More than 2,300 people have been detained in connection with the Iran protests.
 
-### c_003 — attributed, single source
-**Subject entities:** Ali Khamenei; Donald Trump
-**Predicate:** accused
-**Object:** acting to please Trump (political_accusation)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ali Khamenei; Donald Trump
+- **Predicate:** accused
+- **Object:** acting to please Trump (political_accusation)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > Supreme Leader Ayatollah Ali Khamenei accused protesters of acting to please U.S. President Donald Trump.
 
-### c_004 — attributed, single source
-**Subject entities:** Gholamhossein Mohseni-Ejei
-**Predicate:** vowed
-**Object:** maximum punishment (official_threat)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Gholamhossein Mohseni-Ejei
+- **Predicate:** vowed
+- **Object:** maximum punishment (official_threat)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > Iran's judiciary chief Gholamhossein Mohseni-Ejei vowed punishment for protesters would be 'decisive, maximum and without any legal leniency.'
 
-### c_005 — reported, single source
-**Subject entities:** Iran government
-**Predicate:** cut_off
-**Object:** internet and international telephone lines (communications_action)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Iran government
+- **Predicate:** cut_off
+- **Object:** internet and international telephone lines (communications_action)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > Iran cut off internet access and international telephone lines during the protests.
 
-### c_006 — confirmed, primary document
-**Subject entities:** Friedrich Merz; Keir Starmer; Emmanuel Macron
-**Predicate:** issued
-**Object:** joint condemnation statement (diplomatic_statement)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Friedrich Merz; Keir Starmer; Emmanuel Macron
+- **Predicate:** issued
+- **Object:** joint condemnation statement (diplomatic_statement)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > German Chancellor Friedrich Merz, British Prime Minister Keir Starmer, and French President Emmanuel Macron issued a joint statement condemning reported deadly violence against protesters and urged Iran to allow citizens to express themselves without fear of reprisal.
 
-### c_007 — attributed, single source
-**Subject entities:** Shirin Ebadi
-**Predicate:** called_for
-**Object:** Western condemnation of Iran (political_appeal)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Shirin Ebadi
+- **Predicate:** called_for
+- **Object:** Western condemnation of Iran (political_appeal)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > Iranian Nobel Peace Prize laureate Shirin Ebadi called on more Western governments to denounce Iran's government, saying it has made cruelty a governing method.
 
-### c_008 — attributed, single source
-**Subject entities:** Donald Trump; Iran
-**Predicate:** threatened
-**Object:** military strike (presidential_threat)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Iran
+- **Predicate:** threatened
+- **Object:** military strike (presidential_threat)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > Trump stated that any possible American strike on Iran would not mean boots on the ground but would mean hitting them very, very hard where it hurts.
 
-### c_009 — attributed, single source
-**Subject entities:** Reza Pahlavi
-**Predicate:** called_for
-**Object:** protests at 8 p.m. (political_action)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Reza Pahlavi
+- **Predicate:** called_for
+- **Object:** protests at 8 p.m. (political_action)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > Crown Prince Reza Pahlavi called for protests in Iran at 8 p.m. on Thursday and Friday evenings.
 
-### c_010 — reported, single source
-**Subject entities:** Iranian state media
-**Predicate:** labeled
-**Object:** terrorists (official_designation)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Iranian state media
+- **Predicate:** labeled
+- **Object:** terrorists (official_designation)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > Iranian state media labeled demonstrators 'terrorists.'
 
-### c_011 — reported, single source
-**Subject entities:** Iranian state TV
-**Predicate:** reported_casualties
-**Object:** 8 killed in Hamedan and Qom (casualty_report)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Iranian state TV
+- **Predicate:** reported_casualties
+- **Object:** 8 killed in Hamedan and Qom (casualty_report)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > Iran state TV reported violence overnight killed six people in Hamedan and two security force members in Qom.
 
-### c_012 — reported, single source
-**Subject entities:** Iran protesters
-**Predicate:** began_over
-**Object:** ailing economy (protest_cause)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Iran protesters
+- **Predicate:** began_over
+- **Object:** ailing economy (protest_cause)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > The protests began in late December 2025 over Iran's ailing economy.
 
-### c_013 — attributed, single source
-**Subject entities:** Holly Dagres; Reza Pahlavi
-**Predicate:** assessed
-**Object:** Pahlavi calls turned tide of protests (expert_assessment)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Holly Dagres; Reza Pahlavi
+- **Predicate:** assessed
+- **Object:** Pahlavi calls turned tide of protests (expert_assessment)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > Holly Dagres, a senior fellow at the Washington Institute for Near East Policy, said Reza Pahlavi's calls to protest turned the tide of the demonstrations.
 
-### c_014 — attributed, single source
-**Subject entities:** Reza Pahlavi; Donald Trump; Ali Khamenei
-**Predicate:** appealed_for_intervention
-**Object:** US intervention on behalf of protesters (political_appeal)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Reza Pahlavi; Donald Trump; Ali Khamenei
+- **Predicate:** appealed_for_intervention
+- **Object:** US intervention on behalf of protesters (political_appeal)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > Pahlavi called on Trump to intervene, saying Khamenei wants to use the communications blackout to murder young protesters.
 
@@ -301,10 +302,5 @@ Demonstrations in Tehran and other cities have included chants in support of the
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Jon Gambrell
 **Publication date:** 2026-01-09
-**Access date:** 2026-01-09
 **Title:** Iran protests go on despite signal a crackdown is coming
 **URL:** https://apnews.com/article/iran-protests-us-israel-war-economy-54e4024a0b9e6a9f3ab49153c8e28f05
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

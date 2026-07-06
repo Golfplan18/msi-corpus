@@ -19,44 +19,39 @@ primary_themes:
 - management practices
 - workplace flexibility
 topic_tags:
-  - "government policy"
-  - "human migration"
-  - "international relations"
-  - macroeconomics
-  - "monetary policy"
-  - politics
-storyline_nexus: []
-geographic_location: United States and international
+- employment
+- human interest
+- mental health
+- values
+storyline_nexus:
+- ai-industry-regulation
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
-  intensity: 0.7
-- value: truthfulness
-  intensity: 0.8
-- value: informed_citizenship
-  intensity: 0.6
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18'
+  intensity: 0.9
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T04:26:22Z'
 source_cluster_id: cluster_ap_2026-01-21_kindness-at-work-culture-meetings-125aa1
 gdelt_event_ids: []
-consensus_floor_version: 3.0
-publication_mindspec_version: 1.0
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 18
   hedges:
-    appears: 0
     alleged: 0
     attributed: 8
+    appears: 0
+    confirmed: 5
     reported: 5
     contested: 0
-    confirmed: 5
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 18
-    single_source: 0
+    primary_plus_secondary: 0
     two_independent: 0
+    one_originating_plus_primary_document: 0
+    single_source: 0
 sources:
   count: 1
   outlets:
@@ -70,25 +65,15 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-04-16-simple-workplace-changes-help-autistic-employees-thrive-experts-say
-  relation: related
-  strength: 0.7017
-  confidence: medium
-- slug: 2026-01-08-workers-find-calm-and-focus-by-weaving-nature-into-the-workday
-  relation: related
-  strength: 0.7338
-  confidence: medium
-- slug: 2026-05-17-experts-share-strategies-to-rebuild-attention-spans-shrinking-to-47-seconds
-  relation: related
-  strength: 0.6248
-  confidence: medium
-- slug: 2025-12-26-families-create-their-own-volunteer-projects-when-nonprofits-turn-young-children
-  relation: related
-  strength: 0.6666
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Unknown...
 
 Kindness at work can mean limiting meetings, giving honest feedback, and bending rules when circumstances warrant, according to workplace experts. As the pace of work accelerates, small acts of kindness—from supporting employees through family crises to protecting time for reflection—improve engagement and productivity.
 
@@ -152,165 +137,201 @@ The couple feared one would have to quit if they wed. They appealed to their edi
 
 ## Atomic claims
 
-### c_001 — reported, primary document
-**Subject entities:** workplace practice
-**Predicate:** can_include
-**Object:** honest feedback, limited meetings, flexible rules (workplace_practice)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** workplace practice
+- **Predicate:** can_include
+- **Object:** honest feedback, limited meetings, flexible rules (workplace_practice)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Kindness at work can include giving honest feedback, limiting meetings, and bending rules.
 
-### c_002 — confirmed, primary document
-**Subject entities:** Beth Brown
-**Predicate:** holds_position
-**Object:** director of health and well-being at ComPsych (job_title)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Beth Brown
+- **Predicate:** holds_position
+- **Object:** director of health and well-being at ComPsych (job_title)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Beth Brown is director of health and well-being at ComPsych, an employee mental health and absence management services company.
 
-### c_003 — attributed, primary document
-**Subject entities:** Beth Brown; colleague
-**Predicate:** offered_support_during_crisis
-**Object:** told employee work is not important compared to family needs and project can wait (speech_act)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Beth Brown; colleague
+- **Predicate:** offered_support_during_crisis
+- **Object:** told employee work is not important compared to family needs and project can wait (speech_act)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > When Beth Brown's daughter fell ill with COVID-19 and her mother died, her senior project director colleague told her not to worry about work obligations.
 
-### c_004 — confirmed, primary document
-**Subject entities:** Anna Malaika Tubbs
-**Predicate:** is_author
-**Object:** The Three Mothers, Erased (published_works)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Anna Malaika Tubbs
+- **Predicate:** is_author
+- **Object:** The Three Mothers, Erased (published_works)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Anna Malaika Tubbs is a sociologist and author of "The Three Mothers" and "Erased."
 
-### c_005 — attributed, primary document
-**Subject entities:** Anna Malaika Tubbs
-**Predicate:** said
-**Object:** workplace kindness helps people feel welcomed when experiencing national division (speech_act)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Anna Malaika Tubbs
+- **Predicate:** said
+- **Object:** workplace kindness helps people feel welcomed when experiencing national division (speech_act)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Tubbs said workplace kindness is especially important during heightened political division to help employees feel welcomed and seen.
 
-### c_006 — confirmed, primary document
-**Subject entities:** Maya Nussbaum
-**Predicate:** founded
-**Object:** Girls Write Now (organization)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Maya Nussbaum
+- **Predicate:** founded
+- **Object:** Girls Write Now (organization)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Maya Nussbaum is founder of Girls Write Now, a nonprofit mentorship and writing program.
 
-### c_007 — reported, primary document
-**Subject entities:** Maya Nussbaum
-**Predicate:** implements_practice
-**Object:** starts meetings with heart warmers where staff share on casual topics (workplace_practice)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Maya Nussbaum
+- **Predicate:** implements_practice
+- **Object:** starts meetings with heart warmers where staff share on casual topics (workplace_practice)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Nussbaum starts staff meetings with "heart warmers," brief moments where employees share thoughts on simple topics like favorite candles.
 
-### c_008 — attributed, primary document
-**Subject entities:** Maya Nussbaum
-**Predicate:** said
-**Object:** employees work harder and care more when they feel valued and listened to (speech_act)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Maya Nussbaum
+- **Predicate:** said
+- **Object:** employees work harder and care more when they feel valued and listened to (speech_act)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Nussbaum said productivity improves when employees feel valued, listened to, and know they matter.
 
-### c_009 — confirmed, primary document
-**Subject entities:** Molly MacDermot
-**Predicate:** holds_position
-**Object:** director of special initiatives at Girls Write Now (job_title)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Molly MacDermot
+- **Predicate:** holds_position
+- **Object:** director of special initiatives at Girls Write Now (job_title)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Molly MacDermot is director of special initiatives at Girls Write Now.
 
-### c_010 — attributed, primary document
-**Subject entities:** Molly MacDermot
-**Predicate:** said
-**Object:** it is important to feel human and be allowed to deal with bumps in life (speech_act)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Molly MacDermot
+- **Predicate:** said
+- **Object:** it is important to feel human and be allowed to deal with bumps in life (speech_act)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > MacDermot's father died eight years ago and her mother died six months ago. She said it is important to feel human and be allowed to deal with life's difficulties at work.
 
-### c_011 — confirmed, primary document
-**Subject entities:** Chantel Cohen
-**Predicate:** holds_position
-**Object:** founder and CEO of CWC Coaching and Therapy, Atlanta (job_title)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_011
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Chantel Cohen
+- **Predicate:** holds_position
+- **Object:** founder and CEO of CWC Coaching and Therapy, Atlanta (job_title)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Chantel Cohen is founder and CEO of CWC Coaching and Therapy, an Atlanta-based counseling and life coaching practice.
 
-### c_012 — attributed, primary document
-**Subject entities:** Chantel Cohen
-**Predicate:** said
-**Object:** kindness means telling hard truths so people can shine; kindness is a workplace where repair and improvement are possible (speech_act)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Chantel Cohen
+- **Predicate:** said
+- **Object:** kindness means telling hard truths so people can shine; kindness is a workplace where repair and improvement are possible (speech_act)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Cohen said providing honest feedback requires getting out of one's comfort zone to help someone succeed, and that kindness is a workplace where improvement and repair are possible.
 
-### c_013 — reported, primary document
-**Subject entities:** Karla Cen; manager
-**Predicate:** welcomed_employee
-**Object:** manager brought potted plant and drove 4 hours to greet new employee on first day (workplace_action)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_013
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Karla Cen; manager
+- **Predicate:** welcomed_employee
+- **Object:** manager brought potted plant and drove 4 hours to greet new employee on first day (workplace_action)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Karla Cen works at a retirement community in Florida and received a potted plant from a manager who drove four hours to meet her on her first day.
 
-### c_014 — attributed, primary document
-**Subject entities:** Karla Cen
-**Predicate:** said
-**Object:** manager's encouraging feedback daily uplifts department mood and readiness (speech_act)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Karla Cen
+- **Predicate:** said
+- **Object:** manager's encouraging feedback daily uplifts department mood and readiness (speech_act)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Cen said her current manager's daily encouraging feedback uplifts the department's mood and readiness for challenges.
 
-### c_015 — attributed, primary document
-**Subject entities:** Chantel Cohen
-**Predicate:** suggested
-**Object:** skip some meetings and have staff submit ideas in writing to give time back (workplace_suggestion)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Chantel Cohen
+- **Predicate:** suggested
+- **Object:** skip some meetings and have staff submit ideas in writing to give time back (workplace_suggestion)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Cohen suggested managers could skip meetings and ask staff to submit ideas in writing to give employees back time for themselves.
 
-### c_016 — reported, primary document
-**Subject entities:** Meher Murshed; Anupa Kurian-Murshed; Gulf News
-**Predicate:** had_employment_rule
-**Object:** newspaper prohibited spouses from working in the same department (workplace_policy)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_016
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Meher Murshed; Anupa Kurian-Murshed; Gulf News
+- **Predicate:** had_employment_rule
+- **Object:** newspaper prohibited spouses from working in the same department (workplace_policy)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Meher Murshed and Anupa Kurian-Murshed worked at Gulf News in Dubai more than two decades ago. The newspaper prohibited spouses from working in the same department.
 
-### c_017 — reported, primary document
-**Subject entities:** Gulf News leadership; Meher Murshed; Anupa Kurian-Murshed
-**Predicate:** approved_exception
-**Object:** exception to spousal employment rule; couple could marry and work in same newspaper if reporting lines separated (policy_decision)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_017
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Gulf News leadership; Meher Murshed; Anupa Kurian-Murshed
+- **Predicate:** approved_exception
+- **Object:** exception to spousal employment rule; couple could marry and work in same newspaper if reporting lines separated (policy_decision)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > When the couple appealed to their editor-in-chief, the managing director approved an exception allowing them to marry and keep their jobs as long as one did not report to the other.
 
-### c_018 — attributed, primary document
-**Subject entities:** Meher Murshed
-**Predicate:** said
-**Object:** the policy exception changed their lives; life could have been very different (speech_act)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_018
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Meher Murshed
+- **Predicate:** said
+- **Object:** the policy exception changed their lives; life could have been very different (speech_act)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Meher Murshed said the exception changed their lives and that life could have been very different without it.
 
@@ -319,10 +340,5 @@ The couple feared one would have to quit if they wed. They appealed to their edi
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Cathy Bussewitz
 **Publication date:** 2026-01-22
-**Access date:** 2026-01-22
 **Title:** Acts of kindness at work go beyond birthday cakes and gift cards
 **URL:** https://apnews.com/article/kindness-at-work-culture-meetings-125aa172341748aba47bd7c32fb80ec9
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

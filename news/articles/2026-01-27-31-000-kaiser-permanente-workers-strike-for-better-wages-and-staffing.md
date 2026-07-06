@@ -15,43 +15,43 @@ primary_themes:
 - wage_negotiations
 - worker_organizing
 topic_tags:
-  - labour
-  - health
-  - "economy, business and finance"
-  - "labour dispute"
-storyline_nexus: []
-geographic_location: California, Hawaii
+- labour dispute
+- wage and pension
+- employment
+- health
+- labour relations
+storyline_nexus:
+- aca-medicaid-healthcare-crisis
+geographic_location: United States
 floor_values_engaged:
-- value: human_life_and_dignity
-  intensity: 0.8
-- value: equality_fairness
-  intensity: 0.75
 - value: accountability_of_power
-  intensity: 0.7
-- value: informed_citizenship
-  intensity: 0.65
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+  intensity: 0.9
+- value: equality_fairness
+  intensity: 0.9
+- value: human_life_and_dignity
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:01:19Z'
 source_cluster_id: cluster_ap_2026-01-28_kaiser-permanente-strike-nurses-0a22bbcb
 gdelt_event_ids: []
-consensus_floor_version: '1.0'
-publication_mindspec_version: '1.0'
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 16
   hedges:
-    appears: 0
-    alleged: 0
     attributed: 2
-    reported: 13
-    contested: 0
     confirmed: 1
+    appears: 0
+    contested: 0
+    alleged: 0
+    reported: 13
   corroboration:
-    primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
     primary_document: 0
     single_source: 16
+    primary_plus_secondary: 0
     two_independent: 0
 sources:
   count: 1
@@ -66,25 +66,18 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-12-about-15-000-nyc-nurses-strike-at-three-hospital-systems-over-staffing-and-ai
-  relation: related
-  strength: 0.8818
-  confidence: medium
-- slug: 2026-01-11-nearly-15-000-nyc-nurses-set-to-strike-monday-over-staffing-and-ai-rules
-  relation: related
-  strength: 0.8749
-  confidence: medium
-- slug: 2026-01-13-nyc-nursing-strike-enters-second-day-with-no-new-talks-as-mount-sinai-fires-thre
-  relation: related
-  strength: 0.8512
-  confidence: medium
-- slug: 2026-01-09-hawaii-s-physician-shortage-deepens-leaving-state-644-doctors-short-of-need
-  relation: related
-  strength: 0.6746
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- An estimated 31,000 registered nurses and other front-line Kaiser Permanente health care workers launched an open-ended strike on Monday in California and Hawaii, demanding higher wages and better staffing from the health care giant.
+- Workers are seeking a 25% wage increase over four years, saying their compensation has not kept pace with inflation and staffing levels are inadequate to meet patient demand.
+- The walkout marked the second major strike in recent months by employees represented by the United Nurses Associations of California/Union of Health Care Professionals.
+- The Kaiser strike reflects mounting pressure on health care employers to match rising wages in a competitive labor market.
 
 An estimated 31,000 registered nurses and other front-line Kaiser Permanente health care workers launched an open-ended strike on Monday in California and Hawaii, demanding higher wages and better staffing from the health care giant.
 
@@ -116,151 +109,181 @@ Kaiser Permanente operates 600 medical offices and 40 hospitals across largely w
 
 The Kaiser strike is the latest in a series of labor actions by healthcare workers seeking better wages and staffing. In New York City, approximately 15,000 nurses who walked off the job at three hospital systems earlier in January have already returned to the bargaining table.
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under sources. Specification: /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
-### c_001 — reported, single source
-**Subject entities:** Kaiser Permanente; United Nurses Associations of California/Union of Health Care Professionals
-**Predicate:** launched_strike
-**Object:** open-ended strike (labor_action)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Kaiser Permanente; United Nurses Associations of California/Union of Health Care Professionals
+- **Predicate:** launched_strike
+- **Object:** open-ended strike (labor_action)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > An estimated 31,000 registered nurses and other front-line Kaiser Permanente health care workers launched an open-ended strike Monday in California and Hawaii.
 
-### c_002 — reported, single source
-**Subject entities:** United Nurses Associations of California/Union of Health Care Professionals
-**Predicate:** conducted_second_major_strike
-**Object:** second major strike in recent months (labor_event)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** United Nurses Associations of California/Union of Health Care Professionals
+- **Predicate:** conducted_second_major_strike
+- **Object:** second major strike in recent months (labor_event)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > The walkout marked the second major strike in recent months by the same union.
 
-### c_003 — reported, single source
-**Subject entities:** Kaiser Permanente workers
-**Predicate:** seeking
-**Object:** 25% wage increase over four years (wage_demand)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Kaiser Permanente workers
+- **Predicate:** seeking
+- **Object:** 25% wage increase over four years (wage_demand)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Workers are seeking a 25% wage increase over four years.
 
-### c_004 — reported, single source
-**Subject entities:** Kaiser Permanente workers
-**Predicate:** claim
-**Object:** wages lag inflation and staffing inadequate for patient demand (labor_grievance)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Kaiser Permanente workers
+- **Predicate:** claim
+- **Object:** wages lag inflation and staffing inadequate for patient demand (labor_grievance)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Workers say their wages have not kept pace with inflation and staffing is inadequate to meet patient demand.
 
-### c_005 — reported, single source
-**Subject entities:** Kaiser Permanente
-**Predicate:** offered
-**Object:** 21.5% wage increase over four years (wage_offer)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Kaiser Permanente
+- **Predicate:** offered
+- **Object:** 21.5% wage increase over four years (wage_offer)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Kaiser Permanente countered with a 21.5% wage increase offer over four years.
 
-### c_006 — reported, single source
-**Subject entities:** Kaiser Permanente
-**Predicate:** claims
-**Object:** employees earn 16% more than peers on average (wage_comparison)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Kaiser Permanente
+- **Predicate:** claims
+- **Object:** employees earn 16% more than peers on average (wage_comparison)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Kaiser says that represented employees earn, on average, 16% more than their peers at other institutions.
 
-### c_007 — reported, single source
-**Subject entities:** Kaiser Permanente workers
-**Predicate:** claim
-**Object:** wages 7% behind peers (wage_comparison)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Kaiser Permanente workers
+- **Predicate:** claim
+- **Object:** wages 7% behind peers (wage_comparison)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Workers say their wages are at least 7% behind their peers.
 
-### c_008 — reported, single source
-**Subject entities:** United Nurses Associations of California/Union of Health Care Professionals
-**Predicate:** conducted_prior_strike
-**Object:** five-day October strike followed by December negotiation breakdown (labor_event_sequence)
-**Temporal:** 2025-10
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** United Nurses Associations of California/Union of Health Care Professionals
+- **Predicate:** conducted_prior_strike
+- **Object:** five-day October strike followed by December negotiation breakdown (labor_event_sequence)
+- **Temporal:** 2025-10
+- **Sources:** src_001
 
 > A five-day strike in October by the same union ended with negotiations resuming, but talks broke down in December.
 
-### c_009 — reported, single source
-**Subject entities:** United Nurses Associations of California/Union of Health Care Professionals
-**Predicate:** accuses
-**Object:** Kaiser refusing to return to national bargaining (allegation)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** United Nurses Associations of California/Union of Health Care Professionals
+- **Predicate:** accuses
+- **Object:** Kaiser refusing to return to national bargaining (allegation)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > The union says Kaiser has been refusing to return to national bargaining discussions.
 
-### c_010 — reported, single source
-**Subject entities:** Kaiser Permanente
-**Predicate:** paused_bargaining
-**Object:** paused national bargaining due to threatening incident (negotiation_status)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Kaiser Permanente
+- **Predicate:** paused_bargaining
+- **Object:** paused national bargaining due to threatening incident (negotiation_status)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > Kaiser said it paused national bargaining in December after what it described as a threatening incident involving a union official.
 
-### c_011 — attributed, single source
-**Subject entities:** Greg Holmes; Kaiser Permanente
-**Predicate:** stated
-**Object:** illegal threats compromise bargaining; union official's actions undermined good faith (statement)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Greg Holmes; Kaiser Permanente
+- **Predicate:** stated
+- **Object:** illegal threats compromise bargaining; union official's actions undermined good faith (statement)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Greg Holmes, Kaiser's chief human resources officer, said that illegal threats cannot be crossed and the union official's actions compromised the bargaining process.
 
-### c_012 — reported, single source
-**Subject entities:** Kaiser Permanente medical staff
-**Predicate:** departing
-**Object:** moving to higher-paying jobs at other local hospitals (labor_migration)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Kaiser Permanente medical staff
+- **Predicate:** departing
+- **Object:** moving to higher-paying jobs at other local hospitals (labor_migration)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Medical staff have been leaving Kaiser for higher-paying jobs at other local hospitals.
 
-### c_013 — attributed, single source
-**Subject entities:** Kaiser Permanente
-**Predicate:** unable_to_retain_recruit
-**Object:** unable to retain and recruit providers, impacting patient care (operational_claim)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Kaiser Permanente
+- **Predicate:** unable_to_retain_recruit
+- **Object:** unable to retain and recruit providers, impacting patient care (operational_claim)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Arezou Mansourian, a physician assistant on the union's bargaining team, told the San Francisco Chronicle that Kaiser has been unable to retain and recruit providers, impacting patient care.
 
-### c_014 — confirmed, single source
-**Subject entities:** Kaiser Permanente
-**Predicate:** operates
-**Object:** 12.6 million members, 600 medical offices, 40 hospitals (organizational_scale)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_014
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Kaiser Permanente
+- **Predicate:** operates
+- **Object:** 12.6 million members, 600 medical offices, 40 hospitals (organizational_scale)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Kaiser Permanente is one of the nation's largest not-for-profit health plans, serving 12.6 million members at 600 medical offices and 40 hospitals in largely western U.S. states.
 
-### c_015 — reported, single source
-**Subject entities:** Kaiser Permanente
-**Predicate:** maintaining_operations
-**Object:** clinics and hospitals open with virtual appointments and rescheduled procedures (operational_status)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_015
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Kaiser Permanente
+- **Predicate:** maintaining_operations
+- **Object:** clinics and hospitals open with virtual appointments and rescheduled procedures (operational_status)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Kaiser said health clinics and hospitals will remain open during the strike, with some in-person appointments shifted to virtual appointments and some elective surgeries and procedures being rescheduled.
 
-### c_016 — reported, single source
-**Subject entities:** New York City nurses
-**Predicate:** returned_to_bargaining
-**Object:** returned to contract negotiations (labor_event)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_016
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** New York City nurses
+- **Predicate:** returned_to_bargaining
+- **Object:** returned to contract negotiations (labor_event)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > In New York City, about 15,000 nurses who walked off the job earlier this month have already returned to the bargaining table with three private hospital systems.
 
@@ -268,10 +291,5 @@ This article was generated algorithmically by Main Street Independent's News Art
 
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Publication date:** 2026-01-27
-**Access date:** 2026-05-18
 **Title:** Kaiser Permanente workers strike again
 **URL:** https://apnews.com/article/kaiser-permanente-strike-nurses-0a22bbcb7b3bc2ecfa47937401b33aef
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

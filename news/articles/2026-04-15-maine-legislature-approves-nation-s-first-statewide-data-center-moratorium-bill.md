@@ -1,6 +1,5 @@
 ---
 headline: Maine legislature approves nation's first statewide data center moratorium bill
-slug: 2026-04-15-maine-legislature-approves-nations-first-statewide-data-center-moratorium
 publish_date: '2026-04-15'
 lede: Maine's Democratic-controlled legislature approved a bill Tuesday that would impose a yearlong moratorium on large data centers, sending what would be the nation's first statewide pause on the energy-hungry facilities to Gov. Janet Mills for her signature. The measure follows intense community backlash against proposed projects in Maine and escalating concerns about electricity costs, potential blackouts, and water consumption tied to the AI-driven surge in data center construction.
 nut_graf: Moratorium proposals have been introduced in at least a dozen states, but none other than Maine's has passed even a single legislative chamber. The bill would also create a special council to help communities vet proposed projects before development proceeds.
@@ -16,41 +15,42 @@ primary_themes:
 - state legislation
 - community opposition
 topic_tags:
-  - politics
-  - government
-  - "science and technology"
-  - "artificial intelligence"
+- energy and resource
+- government policy
+- computing and information technology
+- artificial intelligence
+- environment
 storyline_nexus:
-  - ai-regulation
-geographic_location: Maine, United States
+- trump-climate-energy-rollbacks
+geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
-  intensity: 0.7
-- value: informed_citizenship
-  intensity: 0.85
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T08:13:17Z'
+  intensity: 0.9
+- value: human_life_and_dignity
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:31:18Z'
 source_cluster_id: cluster_ap_2026-04-16_data-centers-moratoriums-maine-artificia
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 12
   hedges:
-    appears: 0
-    alleged: 0
     attributed: 2
-    reported: 5
+    appears: 0
     contested: 0
+    alleged: 0
+    reported: 5
     confirmed: 5
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 0
     single_source: 12
+    one_originating_plus_primary_document: 0
     two_independent: 0
+    primary_document: 0
+    primary_plus_secondary: 0
 sources:
   count: 1
   outlets:
@@ -64,37 +64,18 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-02-big-tech-blocks-california-data-center-rules-leaving-only-a-study-requirement
-  relation: related
-  strength: 0.8711
-  confidence: medium
-- slug: 2026-01-13-microsoft-s-brad-smith-tells-congress-big-tech-must-pay-ai-data-center-costs
-  relation: related
-  strength: 0.8419
-  confidence: medium
-- slug: 2026-01-03-community-opposition-stalls-data-center-expansion-as-backlash-spreads
-  relation: related
-  strength: 0.8401
-  confidence: medium
-- slug: 2026-01-09-southern-arizona-data-centers-advance-as-fights-over-power-water-and-rates-inten
-  relation: related
-  strength: 0.8291
-  confidence: medium
-- slug: 2026-01-08-xai-to-build-20-billion-data-center-in-mississippi-amid-environmental-pushback
-  relation: related
-  strength: 0.7912
-  confidence: medium
-- slug: 2026-01-13-epa-proposes-limits-on-state-clean-water-act-authority-for-pipelines-and-data-ce
-  relation: related
-  strength: 0.7506
-  confidence: medium
-- slug: 2026-01-09-meta-secures-nuclear-power-deals-with-terrapower-oklo-and-vistra-for-ohio-ai-dat
-  relation: related
-  strength: 0.7273
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Maine's Democratic-controlled legislature approved a bill Tuesday that would impose a yearlong moratorium on large data centers, sending what would be the nation's first statewide pause on the energy-hungry facilities to Gov.
+- Mills' office did not respond to a request for comment on whether she plans to sign the bill, the Associated Press reported.
+- Moratorium proposals have been introduced in at least a dozen states, but none other than Maine's has passed even a single legislative chamber.
+- The legislation targets data centers above a certain size, commonly called hyperscalers, which power artificial intelligence applications.
 
 Maine's Democratic-controlled legislature approved a bill Tuesday that would impose a yearlong moratorium on large data centers, sending what would be the nation's first statewide pause on the energy-hungry facilities to Gov. Janet Mills for her signature. The measure follows intense community backlash against proposed projects in Maine and escalating concerns about electricity costs, potential blackouts, and water consumption tied to the AI-driven surge in data center construction.
 
@@ -126,111 +107,135 @@ Other states, including Virginia, Michigan and Wisconsin, have seen moratorium p
 
 ## Atomic claims
 
-### c_001 — confirmed, single source
-**Subject entities:** Maine Legislature; Janet Mills
-**Predicate:** approved_and_sent
-**Object:** data center moratorium bill (legislation)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Maine Legislature; Janet Mills
+- **Predicate:** approved_and_sent
+- **Object:** data center moratorium bill (legislation)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Maine's Democratic-controlled legislature approved a bill on April 15, 2026 to send to Gov. Janet Mills that would impose a yearlong moratorium on data centers above a certain size.
 
-### c_002 — attributed, single source
-**Subject entities:** Maine data center moratorium bill
-**Predicate:** would_be_first
-**Object:** nation's first statewide data center moratorium (policy_distinction)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Maine data center moratorium bill
+- **Predicate:** would_be_first
+- **Object:** nation's first statewide data center moratorium (policy_distinction)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > If signed, Maine's bill would be the nation's first statewide moratorium on energy-hungry data centers, according to the Associated Press.
 
-### c_003 — reported, single source
-**Subject entities:** US state legislatures
-**Predicate:** introduced
-**Object:** data center moratorium proposals in at least a dozen states (legislative_count)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** US state legislatures
+- **Predicate:** introduced
+- **Object:** data center moratorium proposals in at least a dozen states (legislative_count)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Moratorium proposals have been introduced in at least a dozen states, but none other than Maine's has passed even a legislative chamber.
 
-### c_004 — confirmed, single source
-**Subject entities:** Melanie Sachs
-**Predicate:** sponsored
-**Object:** Maine data center moratorium bill (legislation)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Melanie Sachs
+- **Predicate:** sponsored
+- **Object:** Maine data center moratorium bill (legislation)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Democratic Rep. Melanie Sachs of Maine sponsored the moratorium measure.
 
-### c_005 — confirmed, single source
-**Subject entities:** Janet Mills
-**Predicate:** did_not_respond
-**Object:** request for comment on bill signing (media_response)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Janet Mills
+- **Predicate:** did_not_respond
+- **Object:** request for comment on bill signing (media_response)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Gov. Janet Mills' office did not respond to a request for comment on whether she plans to sign the bill.
 
-### c_006 — confirmed, single source
-**Subject entities:** Janet Mills
-**Predicate:** is_running_for
-**Object:** U.S. Senate (electoral_office)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Janet Mills
+- **Predicate:** is_running_for
+- **Object:** U.S. Senate (electoral_office)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Mills is a Democrat running for U.S. Senate.
 
-### c_007 — reported, single source
-**Subject entities:** Maine data center moratorium bill
-**Predicate:** would_create
-**Object:** special council for vetting data center projects (regulatory_body)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Maine data center moratorium bill
+- **Predicate:** would_create
+- **Object:** special council for vetting data center projects (regulatory_body)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > The bill would create a special council to help towns vet potential data center projects.
 
-### c_008 — attributed, single source
-**Subject entities:** energy analysts
-**Predicate:** warned_of
-**Object:** possible blackouts in mid-Atlantic grid (risk_assessment)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** energy analysts
+- **Predicate:** warned_of
+- **Object:** possible blackouts in mid-Atlantic grid (risk_assessment)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Analysts have warned of the possibility of blackouts in the mid-Atlantic grid in the coming years.
 
-### c_009 — reported, single source
-**Subject entities:** Ohio residents
-**Predicate:** seeking
-**Object:** ballot measure to permanently ban hyperscale data centers in Ohio (ballot_initiative)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Ohio residents
+- **Predicate:** seeking
+- **Object:** ballot measure to permanently ban hyperscale data centers in Ohio (ballot_initiative)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > In Ohio, residents are attempting to gather more than 400,000 voter signatures by July 1 to place a measure on the November ballot that would permanently ban hyperscale data centers.
 
-### c_010 — confirmed, single source
-**Subject entities:** South Dakota Senate committee
-**Predicate:** rejected
-**Object:** one-year data center moratorium bill (legislation)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** South Dakota Senate committee
+- **Predicate:** rejected
+- **Object:** one-year data center moratorium bill (legislation)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > South Dakota's one-year moratorium bill failed in a state Senate committee amid opposition from power plant owners and data center developers.
 
-### c_011 — reported, single source
-**Subject entities:** Festus Missouri voters; Festus Missouri city council
-**Predicate:** replaced
-**Object:** half of eight-member city council (electoral_outcome)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Festus Missouri voters; Festus Missouri city council
+- **Predicate:** replaced
+- **Object:** half of eight-member city council (electoral_outcome)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Voters in Festus, Missouri replaced half of the city's eight-member city council this month amid a backlash over a data center project.
 
-### c_012 — reported, single source
-**Subject entities:** data center developers; municipalities
-**Predicate:** defeated
-**Object:** data center proposals in planning and zoning boards (regulatory_outcome)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** data center developers; municipalities
+- **Predicate:** defeated
+- **Object:** data center proposals in planning and zoning boards (regulatory_outcome)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Community opposition to data center projects has become a serious concern for developers since last summer, with numerous municipalities defeating proposals in planning and zoning board votes.
 
@@ -239,10 +244,5 @@ Other states, including Virginia, Michigan and Wisconsin, have seen moratorium p
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Patrick Whittle
 **Publication date:** 2026-04-15
-**Access date:** 2026-05-17
 **Title:** Backlash to data centers drives Maine toward a statewide pause
 **URL:** https://apnews.com/article/data-centers-moratoriums-maine-artificial-intelligence-ai-aa63ba087d5ad53ab0735893646e7357
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

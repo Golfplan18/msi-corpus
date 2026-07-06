@@ -20,42 +20,42 @@ primary_themes:
 - environmental review
 - state-federal legal conflict
 topic_tags:
-  - "crime, law and justice"
-  - health
-  - "mental health"
+- crime, law and justice
+- judiciary
+- government policy
+- construction and property
+- human migration
 storyline_nexus:
-  - immigration-enforcement
-geographic_location: Hagerstown, Washington County, Maryland, United States
+- us-immigration-enforcement
+geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
-  intensity: 0.85
+  intensity: 0.9
 - value: informed_citizenship
-  intensity: 0.75
-- value: human_life_and_dignity
   intensity: 0.6
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T08:13:26Z'
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:43:08Z'
 source_cluster_id: cluster_ap_2026-04-16_ice-warehouse-maryland-dfc7def1b2412668c
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 11
   hedges:
     appears: 0
-    alleged: 1
-    attributed: 6
-    reported: 2
     contested: 0
+    reported: 2
     confirmed: 2
+    attributed: 6
+    alleged: 1
   corroboration:
     primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
     primary_document: 3
-    single_source: 8
     two_independent: 0
+    single_source: 8
 sources:
   count: 1
   outlets:
@@ -72,6 +72,14 @@ figures_aggregate:
 cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- A federal judge on Wednesday extended a halt on work to convert an 825,000-square-foot Maryland warehouse into an immigrant detention facility, issuing a preliminary injunction that will remain in ...
+- The decision marks the latest legal setback for a DHS program to convert industrial warehouses into detention facilities nationwide, with three fed...
+- A federal judge on Wednesday blocked major construction work on a massive Maryland warehouse that the Trump administration purchased to hold immigr...
+- The ruling extends a short-term order the judge had issued earlier and limits contractors to only minor work — fence installation and heating and c...
 
 A federal judge on Wednesday extended a halt on work to convert an 825,000-square-foot Maryland warehouse into an immigrant detention facility, issuing a preliminary injunction that will remain in place until the state's lawsuit is resolved. The Department of Homeland Security purchased the building near Hagerstown for $102.4 million in January and had planned to house between 500 and 1,500 detainees there. The ruling limits contractors to only minor work — fence installation and heating and cooling upgrades — while the case proceeds.
 
@@ -115,102 +123,124 @@ The Maryland lawsuit is one of three pending in federal courts challenging wareh
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** federal_judge
-**Predicate:** issued_preliminary_injunction
-**Object:** pause on warehouse conversion (court_order)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** federal_judge
+- **Predicate:** issued_preliminary_injunction
+- **Object:** pause on warehouse conversion (court_order)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > A federal judge on Wednesday issued a preliminary injunction extending the pause on work to convert a Maryland warehouse into an immigrant detention facility.
 
-### c_002 — confirmed, primary document
-**Subject entities:** U.S. Department of Homeland Security
-**Predicate:** purchased
-**Object:** $102.4 million warehouse, 825,000 sq ft (real_property)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Department of Homeland Security
+- **Predicate:** purchased
+- **Object:** $102.4 million warehouse, 825,000 sq ft (real_property)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > The Department of Homeland Security purchased the 825,000-square-foot warehouse near Hagerstown, Washington County, Maryland in January for $102.4 million.
 
-### c_003 — attributed, single source
-**Subject entities:** U.S. Department of Homeland Security
-**Predicate:** planned_capacity
-**Object:** 500–1,500 detainees (capacity_figure)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Department of Homeland Security
+- **Predicate:** planned_capacity
+- **Object:** 500–1,500 detainees (capacity_figure)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > The Maryland facility was planned to house 500 to 1,500 detainees and was expected to be among the first of 11 warehouses purchased nationwide to open.
 
-### c_004 — alleged, single source
-**Subject entities:** Maryland; U.S. Department of Homeland Security
-**Predicate:** alleged_violations
-**Object:** lack of environmental review, flood plain siting, delayed public comment (legal_allegations)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_004
+- **Hedge:** alleged
+- **Corroboration:** single_source
+- **Subject entities:** Maryland; U.S. Department of Homeland Security
+- **Predicate:** alleged_violations
+- **Object:** lack of environmental review, flood plain siting, delayed public comment (legal_allegations)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Maryland sued the federal government alleging it did not conduct required environmental reviews, that the building is in a flood plain, and that it did not seek public comment until more than a month after purchasing the building.
 
-### c_005 — attributed, single source
-**Subject entities:** Immigration and Customs Enforcement
-**Predicate:** issued_contract
-**Object:** $113 million renovation contract (government_contract)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Immigration and Customs Enforcement
+- **Predicate:** issued_contract
+- **Object:** $113 million renovation contract (government_contract)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > ICE issued a $113 million renovation contract on March 6, 2026 — the day after the public comment period closed on March 5 — with work expected to wrap up by May 4.
 
-### c_006 — reported, single source
-**Subject entities:** Markwayne Mullin; U.S. Department of Homeland Security
-**Predicate:** reviewing
-**Object:** warehouse conversion plan (policy_review)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Markwayne Mullin; U.S. Department of Homeland Security
+- **Predicate:** reviewing
+- **Object:** warehouse conversion plan (policy_review)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > DHS Secretary Markwayne Mullin is reviewing the warehouse conversion plan amid fierce opposition nationwide.
 
-### c_007 — attributed, primary document
-**Subject entities:** U.S. Department of Homeland Security; Immigration and Customs Enforcement
-**Predicate:** stated_disagreement_and_reconsideration
-**Object:** ICE reconsidering plans and scope (agency_statement)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Department of Homeland Security; Immigration and Customs Enforcement
+- **Predicate:** stated_disagreement_and_reconsideration
+- **Object:** ICE reconsidering plans and scope (agency_statement)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > DHS strongly disagreed with the ruling, stating in a court filing that ICE is reconsidering the plans and scope of the warehouse.
 
-### c_008 — attributed, single source
-**Subject entities:** Wes Moore
-**Predicate:** stated
-**Object:** major and welcome step forward (quotation)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Wes Moore
+- **Predicate:** stated
+- **Object:** major and welcome step forward (quotation)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Maryland Gov. Wes Moore called the preliminary injunction a 'major and welcome step forward.'
 
-### c_009 — attributed, single source
-**Subject entities:** Anthony Brown
-**Predicate:** stated
-**Object:** no one, not even the federal government, is above the law (quotation)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Anthony Brown
+- **Predicate:** stated
+- **Object:** no one, not even the federal government, is above the law (quotation)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Maryland Attorney General Anthony Brown said the ruling proves 'no one, not even the federal government, is above the law.'
 
-### c_010 — attributed, single source
-**Subject entities:** Washington County
-**Predicate:** approved_proclamation
-**Object:** unwavering support for DHS and ICE (official_statement)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Washington County
+- **Predicate:** approved_proclamation
+- **Object:** unwavering support for DHS and ICE (official_statement)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Washington County officials approved a proclamation declaring 'unwavering support' for DHS and ICE.
 
-### c_011 — reported, single source
-**Subject entities:** Maryland
-**Predicate:** is_one_of_three_federal_lawsuits
-**Object:** three pending federal lawsuits (litigation_count)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Maryland
+- **Predicate:** is_one_of_three_federal_lawsuits
+- **Object:** three pending federal lawsuits (litigation_count)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > The Maryland lawsuit is one of three pending in federal court challenging warehouse conversions.
 
@@ -219,10 +249,5 @@ The Maryland lawsuit is one of three pending in federal courts challenging wareh
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Heather Hollingsworth
 **Publication date:** 2026-04-15
-**Access date:** 2026-04-15
 **Title:** Federal judge pauses Maryland warehouse conversion for immigrants
 **URL:** https://apnews.com/article/ice-warehouse-maryland-dfc7def1b2412668c761441bf0e5c6a6
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

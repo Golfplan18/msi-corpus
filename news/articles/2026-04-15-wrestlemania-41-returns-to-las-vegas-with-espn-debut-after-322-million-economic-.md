@@ -237,7 +237,3 @@ The first WrestleMania took place in 1985 at Madison Square Garden in New York.
 **Access date:** 2026-04-15
 **Title:** WrestleMania is back in Las Vegas after a big showing last year
 **URL:** https://apnews.com/article/wrestlemania-wwe-tko-las-vegas-espn-344c93f46e1d442a66d74d08a73bc048
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

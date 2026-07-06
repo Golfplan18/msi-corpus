@@ -22,8 +22,7 @@ topic_tags:
   - "science and technology"
   - society
 storyline_nexus:
-  - iran-war
-  - immigration-enforcement
+- the-iran-war
 geographic_location: Haiti
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -259,7 +258,3 @@ Marcelin Aubourg, Haiti's agriculture minister, said the government plans to str
 **Access date:** 2026-04-16
 **Title:** Report finds soaring oil prices threaten to deepen hunger in Haiti
 **URL:** https://apnews.com/article/haiti-hunger-ipc-levels-emergency-gangs-a1e76180c195f39f8f1265ec17f1fb64
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -265,7 +265,3 @@ For those working in conservation and ecology, the transformation carries unexpe
 **Access date:** 2026-05-17
 **Title:** Fauna y vegetación en el paisaje radiactivo de Chernóbil muestran la resiliencia de la naturaleza
 **URL:** https://apnews.com/article/ucrania-chernobil-naturaleza-radiacion-guerra-caballos-54eea1c73d638c19a45565fe607d3f28
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -14,7 +14,8 @@ primary_themes:
 topic_tags:
   - education
   - school
-storyline_nexus: []
+storyline_nexus:
+- democratic-party-realignment
 geographic_location: United States; New York City
 floor_values_engaged:
 - value: informed_citizenship
@@ -89,144 +90,170 @@ Obama's offer to serve as a sounding board suggests he views Mamdani's success i
 
 The two read children's books and participated in familiar nursery routines—the substance of a Saturday at a child care center, not political negotiation. That was likely the intention.
 
----
-
-*Main Street Independent uses CC0 licensing for all articles. This article was generated algorithmically by our News Article Generator framework and was not subject to human review. Framework specification available at the publication's methodology page. For corrections, contact [feedback](mailto:newleadfeed@gmail.com).*
-
 ## Atomic claims
 
-### c_001 — confirmed, single source
-**Subject entities:** Barack Obama; Zohran Mamdani
-**Predicate:** met
-**Object:** child care center in Manhattan (location)
-**Temporal:** 2026-04-18
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Barack Obama; Zohran Mamdani
+- **Predicate:** met
+- **Object:** child care center in Manhattan (location)
+- **Temporal:** 2026-04-18
+- **Sources:** src_001
 
 > Barack Obama met with New York City Mayor Zohran Mamdani on April 18 at a child care center in Manhattan.
 
-### c_002 — confirmed, single source
-**Subject entities:** Barack Obama; Zohran Mamdani
-**Predicate:** read_to
-**Object:** Alone and Together to preschoolers (activity)
-**Temporal:** 2026-04-18
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Barack Obama; Zohran Mamdani
+- **Predicate:** read_to
+- **Object:** Alone and Together to preschoolers (activity)
+- **Temporal:** 2026-04-18
+- **Sources:** src_001
 
 > Obama and Mamdani read "Alone and Together" to preschoolers.
 
-### c_003 — confirmed, single source
-**Subject entities:** Barack Obama; Zohran Mamdani
-**Predicate:** led_singalong
-**Object:** The Wheels on the Bus (song)
-**Temporal:** 2026-04-18
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Barack Obama; Zohran Mamdani
+- **Predicate:** led_singalong
+- **Object:** The Wheels on the Bus (song)
+- **Temporal:** 2026-04-18
+- **Sources:** src_001
 
 > Obama and Mamdani led a singalong of "The Wheels on the Bus."
 
-### c_004 — confirmed, single source
-**Subject entities:** Barack Obama; Zohran Mamdani
-**Predicate:** first_meeting
-**Object:** true (boolean)
-**Temporal:** 2026-04-18
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Barack Obama; Zohran Mamdani
+- **Predicate:** first_meeting
+- **Object:** true (boolean)
+- **Temporal:** 2026-04-18
+- **Sources:** src_001
 
 > The meeting was the first in-person meeting between Obama and Mamdani.
 
-### c_005 — confirmed, single source
-**Subject entities:** Zohran Mamdani
-**Predicate:** age
-**Object:** 34 (years)
-**Temporal:** 2026-04-18
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Zohran Mamdani
+- **Predicate:** age
+- **Object:** 34 (years)
+- **Temporal:** 2026-04-18
+- **Sources:** src_001
 
 > Zohran Mamdani is 34 years old.
 
-### c_006 — attributed, single source
-**Subject entities:** Zohran Mamdani
-**Predicate:** political_identification
-**Object:** democratic socialist (ideology)
-**Temporal:** 2026-04-18
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Zohran Mamdani
+- **Predicate:** political_identification
+- **Object:** democratic socialist (ideology)
+- **Temporal:** 2026-04-18
+- **Sources:** src_001
 
 > Zohran Mamdani is a democratic socialist.
 
-### c_007 — confirmed, single source
-**Subject entities:** Zohran Mamdani
-**Predicate:** took_office
-**Object:** January 2026 (temporal)
-**Temporal:** 2026-01-01
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Zohran Mamdani
+- **Predicate:** took_office
+- **Object:** January 2026 (temporal)
+- **Temporal:** 2026-01-01
+- **Sources:** src_001
 
 > Mamdani took office in January 2026.
 
-### c_008 — confirmed, single source
-**Subject entities:** Zohran Mamdani
-**Predicate:** campaign_focus
-**Object:** affordable housing and living costs in New York City (policy_agenda)
-**Temporal:** 2026-01-01
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Zohran Mamdani
+- **Predicate:** campaign_focus
+- **Object:** affordable housing and living costs in New York City (policy_agenda)
+- **Temporal:** 2026-01-01
+- **Sources:** src_001
 
 > Mamdani's campaign was centered on making New York City a more affordable place to live.
 
-### c_009 — reported, single source
-**Subject entities:** Zohran Mamdani
-**Predicate:** milestone
-**Object:** 100 days in office (milestone)
-**Temporal:** 2026-04-10
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Zohran Mamdani
+- **Predicate:** milestone
+- **Object:** 100 days in office (milestone)
+- **Temporal:** 2026-04-10
+- **Sources:** src_001
 
 > Mamdani marked his 100th day in office in early April 2026, just over a week before the meeting with Obama.
 
-### c_010 — attributed, single source
-**Subject entities:** Barack Obama; Zohran Mamdani
-**Predicate:** offered_advisorship
-**Object:** serve as sounding board (advisory_support)
-**Temporal:** 2026-04-18
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Barack Obama; Zohran Mamdani
+- **Predicate:** offered_advisorship
+- **Object:** serve as sounding board (advisory_support)
+- **Temporal:** 2026-04-18
+- **Sources:** src_001
 
 > Obama has offered to be a sounding board for Mamdani.
 
-### c_011 — confirmed, single source
-**Subject entities:** Zohran Mamdani; Donald Trump
-**Predicate:** met
-**Object:** White House (location)
-**Temporal:** 2025-11-01
-**Source IDs:** src_001
+### c_011
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Zohran Mamdani; Donald Trump
+- **Predicate:** met
+- **Object:** White House (location)
+- **Temporal:** 2025-11-01
+- **Sources:** src_001
 
 > Mamdani has met with Trump twice at the White House—once in November 2025 and once in February 2026.
 
-### c_012 — attributed, single source
-**Subject entities:** Zohran Mamdani; Donald Trump
-**Predicate:** discussed
-**Object:** issues affecting New York (policy_discussion)
-**Temporal:** 2025-11-01
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Zohran Mamdani; Donald Trump
+- **Predicate:** discussed
+- **Object:** issues affecting New York (policy_discussion)
+- **Temporal:** 2025-11-01
+- **Sources:** src_001
 
 > The meetings between Mamdani and Trump were to discuss issues affecting New York.
 
-### c_013 — attributed, single source
-**Subject entities:** Donald Trump; Zohran Mamdani
-**Predicate:** criticized
-**Object:** DESTROYING New York with taxing policies (public_statement)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Zohran Mamdani
+- **Predicate:** criticized
+- **Object:** DESTROYING New York with taxing policies (public_statement)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > Trump posted on social media that Mamdani was "DESTROYING New York" with his taxing policies.
 
-### c_014 — attributed, single source
-**Subject entities:** Donald Trump
-**Predicate:** threatened
-**Object:** withdraw federal funding from New York City (threat)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** threatened
+- **Object:** withdraw federal funding from New York City (threat)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > Trump threatened to pull federal funding for New York City.
 
-### c_015 — confirmed, single source
-**Subject entities:** Barack Obama; Zohran Mamdani
-**Predicate:** declined_questions
-**Object:** no public questions (media_conduct)
-**Temporal:** 2026-04-18
-**Source IDs:** src_001
+### c_015
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Barack Obama; Zohran Mamdani
+- **Predicate:** declined_questions
+- **Object:** no public questions (media_conduct)
+- **Temporal:** 2026-04-18
+- **Sources:** src_001
 
 > Obama and Mamdani did not take questions after reading to the children.
 
@@ -238,7 +265,3 @@ The two read children's books and participated in familiar nursery routines—th
 **Access date:** 2026-05-17
 **Title:** Obama and Mamdani meet for first time before reading to preschoolers in New York City
 **URL:** https://apnews.com/article/barack-obama-zohran-mamdani-new-york-311ab8e17148ea86af75da0b5c74f6db
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -18,45 +18,44 @@ primary_themes:
 - exoneration
 - systemic bias
 topic_tags:
-  - crime
-  - "crime, law and justice"
-  - "law enforcement"
-storyline_nexus: []
-geographic_location: Dallas, Texas
+- crime, law and justice
+- discrimination
+- civil rights
+- prosecution
+- trial
+storyline_nexus:
+- us-immigration-enforcement
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
-  intensity: 0.95
+  intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.85
+  intensity: 0.9
 - value: equality_fairness
   intensity: 0.9
-- value: truthfulness
-  intensity: 0.8
-- value: informed_citizenship
-  intensity: 0.75
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:50:33Z'
 source_cluster_id: cluster_ap_2026-01-24_texas-execution-exoneration-racial-bias-
 gdelt_event_ids: []
-consensus_floor_version: '1.0'
-publication_mindspec_version: '1.0'
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 15
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 6
     reported: 2
-    contested: 1
+    alleged: 0
+    appears: 0
     confirmed: 6
+    attributed: 6
+    contested: 1
   corroboration:
     primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
+    two_independent: 0
     primary_document: 14
     single_source: 1
-    two_independent: 0
+    one_originating_plus_primary_document: 0
 sources:
   count: 1
   outlets:
@@ -70,17 +69,10 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-13-texas-death-row-faces-major-appeals-in-2026-as-executions-stay-historically-low
-  relation: related
-  strength: 0.7883
-  confidence: medium
-- slug: 2026-01-06-pamela-smart-files-habeas-petition-over-husband-s-1990-murder-conviction
-  relation: related
-  strength: 0.8033
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
 
 Nearly 70 years after his execution, Tommy Lee Walker was declared innocent on Wednesday by Dallas County officials in a case that prosecutors now say was riddled with racial bias, false evidence, and coercive interrogation by a police officer who was a member of the Ku Klux Klan. Walker, a Black man, was executed in May 1956 for the rape and murder of Venice Parker, a 31-year-old store clerk killed on Sept. 30, 1953. Dallas County commissioners unanimously passed a resolution declaring his conviction and execution a "profound miscarriage of justice."
 
@@ -128,138 +120,168 @@ Dallas County commissioners unanimously passed a symbolic resolution declaring t
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Tommy Lee Walker
-**Predicate:** executed
-**Object:** electric chair, May 1956 (method_and_date)
-**Temporal:** 1956-05
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Tommy Lee Walker
+- **Predicate:** executed
+- **Object:** electric chair, May 1956 (method_and_date)
+- **Temporal:** 1956-05
+- **Sources:** src_001
 
 > Tommy Lee Walker was executed in the electric chair in May 1956.
 
-### c_002 — confirmed, primary document
-**Subject entities:** Tommy Lee Walker; Venice Parker
-**Predicate:** convicted_of
-**Object:** rape and murder of store clerk (crime_charge)
-**Temporal:** 1954
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Tommy Lee Walker; Venice Parker
+- **Predicate:** convicted_of
+- **Object:** rape and murder of store clerk (crime_charge)
+- **Temporal:** 1954
+- **Sources:** src_001
 
 > Walker was convicted of rape and murder in the death of Venice Parker, a 31-year-old store clerk, on Sept. 30, 1953.
 
-### c_003 — confirmed, primary document
-**Subject entities:** Dallas County officials; Tommy Lee Walker
-**Predicate:** declared_innocent
-**Object:** exoneration declaration (legal_action)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Dallas County officials; Tommy Lee Walker
+- **Predicate:** declared_innocent
+- **Object:** exoneration declaration (legal_action)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > On Jan. 23, 2026, Dallas County officials declared Walker innocent.
 
-### c_004 — contested, primary document
-**Subject entities:** Dallas police; Venice Parker
-**Predicate:** made_disputed_identification
-**Object:** disputed identification evidence (evidence_problem)
-**Temporal:** 1953
-**Source IDs:** src_001
+### c_004
+- **Hedge:** contested
+- **Corroboration:** primary_document
+- **Subject entities:** Dallas police; Venice Parker
+- **Predicate:** made_disputed_identification
+- **Object:** disputed identification evidence (evidence_problem)
+- **Temporal:** 1953
+- **Sources:** src_001
 
 > Police claimed Parker identified her attacker as a Black man, but witnesses said Parker could not communicate after being attacked.
 
-### c_005 — reported, single source
-**Subject entities:** Dallas authorities
-**Predicate:** rounded_up
-**Object:** hundreds of Black men arrested (police_action)
-**Temporal:** 1953-1954
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Dallas authorities
+- **Predicate:** rounded_up
+- **Object:** hundreds of Black men arrested (police_action)
+- **Temporal:** 1953-1954
+- **Sources:** src_001
 
 > Hundreds of Black men were rounded up by authorities in the months after Parker's killing.
 
-### c_006 — attributed, primary document
-**Subject entities:** Tommy Lee Walker; Will Fritz
-**Predicate:** subjected_to_coercive_interrogation
-**Object:** threats by KKK-member police captain (police_misconduct)
-**Temporal:** 1953
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Tommy Lee Walker; Will Fritz
+- **Predicate:** subjected_to_coercive_interrogation
+- **Object:** threats by KKK-member police captain (police_misconduct)
+- **Temporal:** 1953
+- **Sources:** src_001
 
 > Walker was subjected to threatening and coercive interrogation by Will Fritz, a Dallas police captain who had been a member of the Ku Klux Klan.
 
-### c_007 — attributed, primary document
-**Subject entities:** Tommy Lee Walker
-**Predicate:** confessed_under_duress
-**Object:** fear for personal safety (motivation)
-**Temporal:** 1953
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Tommy Lee Walker
+- **Predicate:** confessed_under_duress
+- **Object:** fear for personal safety (motivation)
+- **Temporal:** 1953
+- **Sources:** src_001
 
 > Walker confessed because he was afraid for his life.
 
-### c_008 — confirmed, primary document
-**Subject entities:** Tommy Lee Walker; Edward Lee Smith
-**Predicate:** had_alibi
-**Object:** at hospital during childbirth (alibi)
-**Temporal:** 1953-09-30
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Tommy Lee Walker; Edward Lee Smith
+- **Predicate:** had_alibi
+- **Object:** at hospital during childbirth (alibi)
+- **Temporal:** 1953-09-30
+- **Sources:** src_001
 
 > Ten witnesses testified that Walker and his girlfriend were at a hospital where she was giving birth to their son at the time of the murder.
 
-### c_009 — confirmed, primary document
-**Subject entities:** jury; Tommy Lee Walker
-**Predicate:** convicted_by
-**Object:** all-white jury (jury_composition)
-**Temporal:** 1954
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** jury; Tommy Lee Walker
+- **Predicate:** convicted_by
+- **Object:** all-white jury (jury_composition)
+- **Temporal:** 1954
+- **Sources:** src_001
 
 > Walker was convicted by an all-white jury in 1954.
 
-### c_010 — attributed, primary document
-**Subject entities:** John Creuzot
-**Predicate:** said
-**Object:** prosecution presented improper evidence (statement)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** John Creuzot
+- **Predicate:** said
+- **Object:** prosecution presented improper evidence (statement)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > Dallas County District Attorney John Creuzot said the prosecution presented misleading and inadmissible evidence.
 
-### c_011 — attributed, primary document
-**Subject entities:** Dallas criminal justice system
-**Predicate:** characterized_by
-**Object:** systemic racial injustice in 1950s (systemic_condition)
-**Temporal:** 1950s
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Dallas criminal justice system
+- **Predicate:** characterized_by
+- **Object:** systemic racial injustice in 1950s (systemic_condition)
+- **Temporal:** 1950s
+- **Sources:** src_001
 
 > The case was riddled with racial injustice during a time when prejudice and bigotry were woven throughout every aspect of society, including the criminal justice system.
 
-### c_012 — attributed, primary document
-**Subject entities:** Mary Mapes; Tommy Lee Walker
-**Predicate:** investigated
-**Object:** 13 years of investigation (investigative_work)
-**Temporal:** 2013-2026
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Mary Mapes; Tommy Lee Walker
+- **Predicate:** investigated
+- **Object:** 13 years of investigation (investigative_work)
+- **Temporal:** 2013-2026
+- **Sources:** src_001
 
 > Journalist Mary Mapes began investigating Walker's case 13 years before the exoneration.
 
-### c_013 — reported, primary document
-**Subject entities:** Edward Lee Smith; Joseph Parker
-**Predicate:** hugged
-**Object:** reconciliation gesture at hearing (action)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_013
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Edward Lee Smith; Joseph Parker
+- **Predicate:** hugged
+- **Object:** reconciliation gesture at hearing (action)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > Edward Lee Smith, Walker's 72-year-old son, hugged Joseph Parker, the victim's son, during Wednesday's hearing.
 
-### c_014 — attributed, primary document
-**Subject entities:** Edward Lee Smith
-**Predicate:** told
-**Object:** impact of wrongful execution on family (testimony)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Edward Lee Smith
+- **Predicate:** told
+- **Object:** impact of wrongful execution on family (testimony)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > Smith told commissioners his father's wrongful execution deeply affected him and his mother.
 
-### c_015 — confirmed, primary document
-**Subject entities:** Dallas County commissioners
-**Predicate:** passed_resolution
-**Object:** exoneration resolution (official_action)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_015
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Dallas County commissioners
+- **Predicate:** passed_resolution
+- **Object:** exoneration resolution (official_action)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > Dallas County commissioners unanimously passed a resolution declaring Walker's conviction and execution represented a profound miscarriage of justice.
 
@@ -268,10 +290,5 @@ Dallas County commissioners unanimously passed a symbolic resolution declaring t
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Juan A. Lozano
 **Publication date:** 2026-01-23
-**Access date:** 2026-01-23
 **Title:** Texas Black man executed in 1956 declared innocent in Dallas case
 **URL:** https://apnews.com/article/texas-execution-exoneration-racial-bias-154d937dbfbe75a0f21aecb928523c87
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

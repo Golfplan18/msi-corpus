@@ -16,44 +16,44 @@ primary_themes:
 - admissions policy
 - anonymity
 topic_tags:
-  - "science and technology"
-  - "artificial intelligence"
-  - education
-  - "education policy"
-storyline_nexus: []
-geographic_location: Hawaii
+- civil rights
+- discrimination
+- education policy
+- crime, law and justice
+- school
+storyline_nexus:
+- supreme-court-constitutional-cases
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
-  intensity: 0.95
-- value: truthfulness
   intensity: 0.9
+- value: accountability_of_power
+  intensity: 0.6
 - value: equality_fairness
-  intensity: 0.85
-- value: informed_citizenship
-  intensity: 0.8
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:30:29Z'
 source_cluster_id: cluster_ap_2026-02-24_lawsuits-general-news-jesse-franklin-mur
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 15
   hedges:
-    appears: 0
     alleged: 0
+    appears: 0
+    confirmed: 5
     attributed: 6
     reported: 4
     contested: 0
-    confirmed: 5
   corroboration:
-    primary_plus_secondary: 1
     one_originating_plus_primary_document: 0
-    primary_document: 13
-    single_source: 1
+    primary_plus_secondary: 1
     two_independent: 0
+    single_source: 1
+    primary_document: 13
 sources:
   count: 1
   outlets:
@@ -67,13 +67,16 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-08-federal-judge-blocks-trump-s-purge-of-dei-terms-from-head-start-grant-applicatio
-  relation: related
-  strength: 0.7259
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- A white family suing Kamehameha Schools over its Native Hawaiian admissions policy is seeking to keep their identities hidden throughout the lawsuit, citing online death threats and fears that public identification could damage their careers and educational prospects.
+- The plaintiffs' bid to remain anonymous presents an early legal hurdle in a case that tests how far courts will allow litigants to hide their identities in civil litigation while challenging education policies.
+- The decision could affect the willingness of future plaintiffs to challenge policies they view as discriminatory.
 
 The plaintiffs' bid to remain anonymous presents an early legal hurdle in a case that tests how far courts will allow litigants to hide their identities in civil litigation while challenging education policies. The decision could affect the willingness of future plaintiffs to challenge policies they view as discriminatory.
 
@@ -123,144 +126,170 @@ The federal court has not yet set a hearing on whether to allow the current plai
 
 *This article is based on court filings and reporting by the Associated Press. An earlier version of the source story noted that the plaintiffs filed the case anonymously and remained so without an initial court ruling. The story was updated to clarify that the current anonymity ruling presents an early legal hurdle for this case.*
 
----
-
-**This article was generated algorithmically by Main Street Independent's News Article Generator framework. Read our methodology and editorial foundation at mainstreetindependent.org/about. This work is released under CC0 — no rights reserved.**
-
 ## Atomic claims
 
-### c_001 — attributed, primary document
-**Subject entities:** white family; Kamehameha Schools
-**Predicate:** sued
-**Object:** Native Hawaiian admissions policy (education_policy)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** white family; Kamehameha Schools
+- **Predicate:** sued
+- **Object:** Native Hawaiian admissions policy (education_policy)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > A white family sued Kamehameha Schools over its Native Hawaiian admissions policy.
 
-### c_002 — attributed, primary document
-**Subject entities:** family; court
-**Predicate:** seeks_anonymity
-**Object:** protection from threats and professional harm (legal_request)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** family; court
+- **Predicate:** seeks_anonymity
+- **Object:** protection from threats and professional harm (legal_request)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > The family is seeking to remain anonymous for the duration of the case due to online death threats and fears of professional and educational harm.
 
-### c_003 — reported, primary plus secondary
-**Subject entities:** Jesse Franklin-Murdock; unknown_senders
-**Predicate:** received_threats
-**Object:** home address publication, suspicious package (threat_incident)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** Jesse Franklin-Murdock; unknown_senders
+- **Predicate:** received_threats
+- **Object:** home address publication, suspicious package (threat_incident)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > The lead attorney in the case had his home address posted on social media and received a package that appeared to contain feces.
 
-### c_004 — reported, single source
-**Subject entities:** social media users; Ed Blum
-**Predicate:** made_threats
-**Object:** assassination threats (threat_type)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** social media users; Ed Blum
+- **Predicate:** made_threats
+- **Object:** assassination threats (threat_type)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > People on social media suggested the founder of the nonprofit leading the lawsuit should be assassinated.
 
-### c_005 — attributed, primary document
-**Subject entities:** Jesse Franklin-Murdock; court
-**Predicate:** declared
-**Object:** abuse is extreme and intolerable (legal_declaration)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Jesse Franklin-Murdock; court
+- **Predicate:** declared
+- **Object:** abuse is extreme and intolerable (legal_declaration)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > Jesse Franklin-Murdock wrote in a court declaration that the abuse in this case is extreme and intolerable for the minor plaintiff.
 
-### c_006 — reported, primary document
-**Subject entities:** minor plaintiff; nursing schools
-**Predicate:** fears_impact_on_education
-**Object:** inability to pursue nursing school (harm_feared)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** minor plaintiff; nursing schools
+- **Predicate:** fears_impact_on_education
+- **Object:** inability to pursue nursing school (harm_feared)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > The minor plaintiff is a high school student planning to apply to nursing school who does not want the case to harm her future prospects.
 
-### c_007 — reported, primary document
-**Subject entities:** adult plaintiff; small business
-**Predicate:** employed_by
-**Object:** small business dependent on Native Hawaiian community goodwill (employment)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** adult plaintiff; small business
+- **Predicate:** employed_by
+- **Object:** small business dependent on Native Hawaiian community goodwill (employment)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > The adult plaintiff works at a small business that depends on goodwill from the Native Hawaiian community.
 
-### c_008 — confirmed, primary document
-**Subject entities:** Students for Fair Admissions; lawsuit
-**Predicate:** filed
-**Object:** lawsuit against Kamehameha Schools (legal_action)
-**Temporal:** 2025-10
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Students for Fair Admissions; lawsuit
+- **Predicate:** filed
+- **Object:** lawsuit against Kamehameha Schools (legal_action)
+- **Temporal:** 2025-10
+- **Sources:** src_001
 
 > The case was filed in October by Students for Fair Admissions, an anti-affirmative action group.
 
-### c_009 — confirmed, primary document
-**Subject entities:** Students for Fair Admissions; U.S. Supreme Court
-**Predicate:** won_ruling
-**Object:** race cannot be considered in college admissions (supreme_court_decision)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Students for Fair Admissions; U.S. Supreme Court
+- **Predicate:** won_ruling
+- **Object:** race cannot be considered in college admissions (supreme_court_decision)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Students for Fair Admissions won a U.S. Supreme Court ruling that ended the consideration of race in college admissions.
 
-### c_010 — attributed, primary document
-**Subject entities:** Ed Blum
-**Predicate:** stated
-**Object:** backlash from Kamehameha case exceeds all prior backlash (personal_experience)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Ed Blum
+- **Predicate:** stated
+- **Object:** backlash from Kamehameha case exceeds all prior backlash (personal_experience)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > Ed Blum, founder of Students for Fair Admissions, wrote that the backlash from the Kamehameha case exceeds anything he has previously experienced.
 
-### c_011 — attributed, primary document
-**Subject entities:** Kamehameha Schools; plaintiffs
-**Predicate:** argued
-**Object:** plaintiffs must reveal identities to proceed (legal_position)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Kamehameha Schools; plaintiffs
+- **Predicate:** argued
+- **Object:** plaintiffs must reveal identities to proceed (legal_position)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > Kamehameha Schools condemned the violent rhetoric but argued that the family should reveal their identities if they want to proceed with the case.
 
-### c_012 — attributed, primary document
-**Subject entities:** Kamehameha Schools lawyers
-**Predicate:** argued
-**Object:** plaintiffs cannot shield themselves from criticism (legal_argument)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Kamehameha Schools lawyers
+- **Predicate:** argued
+- **Object:** plaintiffs cannot shield themselves from criticism (legal_argument)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > Kamehameha lawyers wrote that the plaintiffs have no right to be shielded from criticism for what they are doing.
 
-### c_013 — confirmed, primary document
-**Subject entities:** John Doe; Kamehameha Schools
-**Predicate:** settled
-**Object:** $7 million settlement (settlement_amount)
-**Temporal:** prior_case
-**Source IDs:** src_001
+### c_013
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** John Doe; Kamehameha Schools
+- **Predicate:** settled
+- **Object:** $7 million settlement (settlement_amount)
+- **Temporal:** prior_case
+- **Sources:** src_001
 
 > In a prior case against Kamehameha, a plaintiff known only as John Doe remained anonymous and the school settled for $7 million.
 
-### c_014 — confirmed, primary document
-**Subject entities:** federal courts; plaintiffs
-**Predicate:** ruled
-**Object:** plaintiffs cannot remain anonymous (court_ruling)
-**Temporal:** 2010
-**Source IDs:** src_001
+### c_014
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** federal courts; plaintiffs
+- **Predicate:** ruled
+- **Object:** plaintiffs cannot remain anonymous (court_ruling)
+- **Temporal:** 2010
+- **Sources:** src_001
 
 > In a 2010 case against Kamehameha, federal courts ruled that four non-Native Hawaiian plaintiffs could not remain anonymous.
 
-### c_015 — confirmed, primary document
-**Subject entities:** Brayden Mohica-Cummings; Kamehameha Schools
-**Predicate:** sued_and_dropped
-**Object:** student allowed to remain through senior year (settlement)
-**Temporal:** 2003
-**Source IDs:** src_001
+### c_015
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Brayden Mohica-Cummings; Kamehameha Schools
+- **Predicate:** sued_and_dropped
+- **Object:** student allowed to remain through senior year (settlement)
+- **Temporal:** 2003
+- **Sources:** src_001
 
 > In a 2003 case, Brayden Mohica-Cummings sued Kamehameha but dropped the case after the school agreed to let him remain through his senior year.
 
@@ -269,10 +298,5 @@ The federal court has not yet set a hearing on whether to allow the current plai
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Blaze Lovell / Honolulu Civil Beat
 **Publication date:** 2026-02-23
-**Access date:** 2026-02-23
 **Title:** Family suing Kamehameha Schools over admissions policy are getting threats, seek anonymity
 **URL:** https://apnews.com/article/lawsuits-general-news-jesse-franklin-murdock-courts-legal-proceedings-0b20d91f3bc54e22e9fecdf765a8208d
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

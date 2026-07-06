@@ -214,7 +214,3 @@ News reports detailing the lavish lifestyles and fleets of expensive European ca
 **Access date:** 2026-04-16
 **Title:** Philippine president says corruption suspect Zaldy Co has been arrested in Prague
 **URL:** https://apnews.com/article/philippines-flood-control-corruption-scandal-d9d498175e883974312cacf62585ea8b
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

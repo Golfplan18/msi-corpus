@@ -20,14 +20,14 @@ primary_themes:
 - executive authority
 - congressional oversight
 topic_tags:
-  - "conflict, war and peace"
-  - crime
-  - "crime, law and justice"
-  - employment
-  - government
-  - labour
+- conflict, war and peace
+- crime
+- crime, law and justice
+- employment
+- government
+- labour
 storyline_nexus:
-  - venezuela-crisis
+- venezuela-political-military-crisis
 geographic_location: Venezuela; Caribbean; Washington, D.C.
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -89,17 +89,9 @@ cross_article_links:
   relation: continues
   strength: 0.8613
   confidence: high
-- slug: 2025-12-31-us-military-strikes-5-more-alleged-drug-boats-killing-8-cia-targets-venezuelan-s
-  relation: related
-  strength: 0.8609
-  confidence: medium
 - slug: 2026-01-03-coast-guard-searches-for-drug-boat-strike-survivors-as-odds-dwindle
   relation: related
   strength: 0.8382
-  confidence: medium
-- slug: 2025-12-31-us-military-strikes-five-more-alleged-drug-boats-killing-8
-  relation: related
-  strength: 0.8563
   confidence: medium
 - slug: 2026-01-03-trump-vows-to-run-venezuela-after-u-s-military-operation-ousts-maduro
   relation: continues
@@ -174,129 +166,157 @@ U.S. intelligence agencies disputed Trump's central claim that Maduro's administ
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** United States military; Caracas
-**Predicate:** conducted_strike
-**Object:** large-scale strike (military_action)
-**Temporal:** 2026-01-03
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** United States military; Caracas
+- **Predicate:** conducted_strike
+- **Object:** large-scale strike (military_action)
+- **Temporal:** 2026-01-03
+- **Sources:** src_001
 
 > The U.S. conducted a large-scale strike across Caracas on Jan. 3, 2026.
 
-### c_002 — attributed, single source
-**Subject entities:** United States military; Nicolás Maduro; Cilia Flores
-**Predicate:** captured_and_transferred
-**Object:** U.S. warship bound for New York (location)
-**Temporal:** 2026-01-03
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** United States military; Nicolás Maduro; Cilia Flores
+- **Predicate:** captured_and_transferred
+- **Object:** U.S. warship bound for New York (location)
+- **Temporal:** 2026-01-03
+- **Sources:** src_001
 
 > U.S. forces captured Nicolás Maduro and Cilia Flores and transferred them to a U.S. warship bound for New York.
 
-### c_003 — attributed, single source
-**Subject entities:** Nicolás Maduro; Cilia Flores; Southern District of New York
-**Predicate:** indicted_on
-**Object:** narco-terrorism conspiracy (legal_charge)
-**Temporal:** 2026-01-03
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Nicolás Maduro; Cilia Flores; Southern District of New York
+- **Predicate:** indicted_on
+- **Object:** narco-terrorism conspiracy (legal_charge)
+- **Temporal:** 2026-01-03
+- **Sources:** src_001
 
 > Maduro and Flores were indicted in the Southern District of New York on narco-terrorism conspiracy charges.
 
-### c_004 — reported, single source
-**Subject entities:** United States military
-**Predicate:** conducted_strikes_killing
-**Object:** at least 115 people (death_toll)
-**Temporal:** 2025-09-02/2026-01-03
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** United States military
+- **Predicate:** conducted_strikes_killing
+- **Object:** at least 115 people (death_toll)
+- **Temporal:** 2025-09-02/2026-01-03
+- **Sources:** src_001
 
 > More than 35 strikes against alleged drug-smuggling vessels killed at least 115 people since early September 2025, according to administration announcements.
 
-### c_005 — attributed, single source
-**Subject entities:** White House; United States government
-**Predicate:** declared_armed_conflict
-**Object:** drug cartels (adversary_designation)
-**Temporal:** 2025-10-02
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** White House; United States government
+- **Predicate:** declared_armed_conflict
+- **Object:** drug cartels (adversary_designation)
+- **Temporal:** 2025-10-02
+- **Sources:** src_001
 
 > The White House declared the U.S. was in armed conflict with drug cartels to halt the flow of narcotics into the United States.
 
-### c_006 — confirmed, primary document
-**Subject entities:** Donald Trump; drug cartels
-**Predicate:** declared_unlawful_combatants
-**Object:** drug cartels (legal_designation)
-**Temporal:** 2025-10-02
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Donald Trump; drug cartels
+- **Predicate:** declared_unlawful_combatants
+- **Object:** drug cartels (legal_designation)
+- **Temporal:** 2025-10-02
+- **Sources:** src_001
 
 > An Oct. 2 administration memo obtained by the Associated Press said Trump declared drug cartels unlawful combatants.
 
-### c_007 — confirmed, single source
-**Subject entities:** U.S. Senate Republicans
-**Predicate:** voted_down
-**Object:** war powers resolutions (legislation)
-**Temporal:** 2025-10-08/2025-11-06
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Senate Republicans
+- **Predicate:** voted_down
+- **Object:** war powers resolutions (legislation)
+- **Temporal:** 2025-10-08/2025-11-06
+- **Sources:** src_001
 
 > Senate Republicans voted down legislation that would have required the president to seek congressional authorization for further strikes, in October and again in November.
 
-### c_008 — reported, single source
-**Subject entities:** CIA; Venezuela
-**Predicate:** conducted_strike_on
-**Object:** docking area believed used by Venezuelan drug cartels (target)
-**Temporal:** 2025-12-30
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** CIA; Venezuela
+- **Predicate:** conducted_strike_on
+- **Object:** docking area believed used by Venezuelan drug cartels (target)
+- **Temporal:** 2025-12-30
+- **Sources:** src_001
 
 > On Dec. 30, the CIA conducted a drone strike on a docking area believed to have been used by Venezuelan drug cartels, according to two people familiar with the classified operation who requested anonymity.
 
-### c_009 — reported, single source
-**Subject entities:** U.S. intelligence agencies; Donald Trump; Nicolás Maduro; Tren de Aragua
-**Predicate:** disputed
-**Object:** Maduro-Tren de Aragua nexus claim (intelligence_assessment)
-**Temporal:** 2025-01-20
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** U.S. intelligence agencies; Donald Trump; Nicolás Maduro; Tren de Aragua
+- **Predicate:** disputed
+- **Object:** Maduro-Tren de Aragua nexus claim (intelligence_assessment)
+- **Temporal:** 2025-01-20
+- **Sources:** src_001
 
 > U.S. intelligence agencies disputed Trump's central claim that Maduro's administration worked with Tren de Aragua and orchestrated drug trafficking and illegal immigration into the United States.
 
-### c_010 — attributed, single source
-**Subject entities:** Volker Türk; United Nations
-**Predicate:** called_for
-**Object:** investigation and halt to strikes (demand)
-**Temporal:** 2025-10-31
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Volker Türk; United Nations
+- **Predicate:** called_for
+- **Object:** investigation and halt to strikes (demand)
+- **Temporal:** 2025-10-31
+- **Sources:** src_001
 
 > UN human rights chief Volker Türk called for an investigation and urged the U.S. to halt attacks to prevent the extrajudicial killing of people on boats, on Oct. 31.
 
-### c_011 — attributed, single source
-**Subject entities:** USS Gerald R. Ford; U.S. military
-**Predicate:** arrived_bringing_total_forces
-**Object:** approximately 12,000 troops on nearly a dozen ships (force_strength)
-**Temporal:** 2025-11-16
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** USS Gerald R. Ford; U.S. military
+- **Predicate:** arrived_bringing_total_forces
+- **Object:** approximately 12,000 troops on nearly a dozen ships (force_strength)
+- **Temporal:** 2025-11-16
+- **Sources:** src_001
 
 > The USS Gerald R. Ford arrived in the Caribbean on Nov. 16, bringing total U.S. forces in the region to about 12,000 on nearly a dozen Navy ships under Operation Southern Spear.
 
-### c_012 — reported, single source
-**Subject entities:** U.S. Congress; Adm. Frank Bradley
-**Predicate:** investigated
-**Object:** reported follow-on attack on Sept. 2 strike survivors (incident)
-**Temporal:** 2025-12-04
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Congress; Adm. Frank Bradley
+- **Predicate:** investigated
+- **Object:** reported follow-on attack on Sept. 2 strike survivors (incident)
+- **Temporal:** 2025-12-04
+- **Sources:** src_001
 
 > Classified briefings at the Capitol on Dec. 4 began after reports that a commander ordered a follow-on attack killing survivors of the Sept. 2 strike.
 
-### c_013 — attributed, single source
-**Subject entities:** Mark Warner; Trump administration
-**Predicate:** said_briefed_selectively
-**Object:** Republicans only, not Democrats (congressional_briefing_pattern)
-**Temporal:** 2025-10-29
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Mark Warner; Trump administration
+- **Predicate:** said_briefed_selectively
+- **Object:** Republicans only, not Democrats (congressional_briefing_pattern)
+- **Temporal:** 2025-10-29
+- **Sources:** src_001
 
 > Senate Intelligence Committee ranking member Mark Warner said the administration briefed Republicans, but not Democrats, on the boat strikes.
 
-### c_014 — attributed, single source
-**Subject entities:** United States; Venezuela; oil tanker
-**Predicate:** seized
-**Object:** oil tanker with approximately 2 million barrels of heavy crude (asset_seizure)
-**Temporal:** 2025-12-10
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** United States; Venezuela; oil tanker
+- **Predicate:** seized
+- **Object:** oil tanker with approximately 2 million barrels of heavy crude (asset_seizure)
+- **Temporal:** 2025-12-10
+- **Sources:** src_001
 
 > On Dec. 10, the U.S. seized an oil tanker off Venezuela carrying about 2 million barrels of heavy crude.
 
@@ -308,7 +328,3 @@ U.S. intelligence agencies disputed Trump's central claim that Maduro's administ
 **Access date:** 2026-01-03
 **Title:** A timeline of the US military's buildup and strikes against Venezuela
 **URL:** https://apnews.com/article/trump-maduro-venezuela-drug-cartels-military-timeline-91e242e5c56eec39b6b7d72bf55dbd2d
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

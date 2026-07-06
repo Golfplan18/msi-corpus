@@ -18,38 +18,39 @@ primary_themes:
 - consumer protection
 - small business impersonation
 topic_tags:
-  - "economy, business and finance"
-  - "market and exchange"
-storyline_nexus: []
+- artificial intelligence
+- consumer goods
+- crime
+- social media
+storyline_nexus:
+- ai-industry-regulation
 geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.85
 - value: truthfulness
-  intensity: 0.72
-- value: accountability_of_power
-  intensity: 0.35
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:02:39Z'
+  intensity: 0.9
+- value: informed_citizenship
+  intensity: 0.9
+framework_version: 1.3.0
+generation_timestamp: '2026-05-22T23:59:01Z'
 source_cluster_id: cluster_ap_2026-01-18_online-shopping-scam-small-business-ai-2
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 11
   hedges:
-    appears: 0
+    confirmed: 2
     alleged: 0
     attributed: 8
     reported: 1
     contested: 0
-    confirmed: 2
+    appears: 0
   corroboration:
+    primary_document: 2
     primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
-    primary_document: 2
     single_source: 9
     two_independent: 0
 sources:
@@ -65,41 +66,18 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-11-retouched-official-photos-of-sara-netanyahu-spark-trust-and-ethics-debate
-  relation: related
-  strength: 0.6755
-  confidence: medium
-- slug: 2026-01-08-fabricated-images-and-false-names-spread-online-after-ice-shooting-in-minneapoli
-  relation: related
-  strength: 0.6639
-  confidence: medium
-- slug: 2026-01-13-malaysia-files-legal-action-against-x-and-xai-over-grok-deepfake-images
-  relation: related
-  strength: 0.63
-  confidence: medium
-- slug: 2026-01-13-aldi-plans-180-plus-new-u-s-stores-as-shoppers-trade-down-amid-food-price-anxiet
-  relation: related
-  strength: 0.6263
-  confidence: medium
-- slug: 2026-01-05-fabricated-images-of-maduro-capture-spread-online-trump-amplifies-false-videos
-  relation: related
-  strength: 0.676
-  confidence: medium
-- slug: 2026-01-06-finland-s-preschool-media-literacy-program-expands-to-ai-as-russian-disinformati
-  relation: related
-  strength: 0.6529
-  confidence: medium
-- slug: 2026-01-08-chen-zhi-suspected-cambodia-scam-empire-operator-taken-into-chinese-custody
-  relation: related
-  strength: 0.638
-  confidence: medium
-- slug: 2026-01-09-grok-restricts-image-generation-for-free-users-after-deepfake-backlash-but-regul
-  relation: related
-  strength: 0.6263
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Fake online storefronts are using AI-generated images and fabricated family histories to impersonate small businesses on social media and the web, deceiving shoppers into purchasing goods that consumer reviewers say arrive shoddy or not at all, an Associated Press investigation found.
+- Two sweater retail sites — Melia & Co and Olivia Westwood Boutique — display many of the same Icelandic, Nordic and festive sweaters using identical stock images while presenting themselves as distinct family-run operations, operating under domains registered in China in November, ahead of the holiday shopping season.
+- Faster and more sophisticated digital tools are making such deception harder to detect, experts said, as AI-generated images allow fraudsters to project artisan authenticity at scale.
+- Consumer-protection researchers recommend verifying addresses, checking domain registration records and consulting third-party review sites before buying from unfamiliar online merchants.
 
 Fake online storefronts are using AI-generated images and fabricated family histories to impersonate small businesses on social media and the web, deceiving shoppers into purchasing goods that consumer reviewers say arrive shoddy or not at all, an Associated Press investigation found. Two sweater retail sites — Melia & Co and Olivia Westwood Boutique — display many of the same Icelandic, Nordic and festive sweaters using identical stock images while presenting themselves as distinct family-run operations, operating under domains registered in China in November, ahead of the holiday shopping season.
 
@@ -147,102 +125,124 @@ Ketron said the detection challenge will only grow as AI tools improve. "As (AI)
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Melia & Co; Olivia Westwood Boutique
-**Predicate:** display_identical_products
-**Object:** same sweaters with identical stock images (product_listing)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Melia & Co; Olivia Westwood Boutique
+- **Predicate:** display_identical_products
+- **Object:** same sweaters with identical stock images (product_listing)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Melia & Co and Olivia Westwood Boutique display many of the same Icelandic, Nordic and festive sweaters with identical stock images.
 
-### c_002 — confirmed, primary document
-**Subject entities:** Melia & Co; Olivia Westwood Boutique
-**Predicate:** domain_registered_in
-**Object:** China, November 2025 (domain_registration)
-**Temporal:** 2025-11
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Melia & Co; Olivia Westwood Boutique
+- **Predicate:** domain_registered_in
+- **Object:** China, November 2025 (domain_registration)
+- **Temporal:** 2025-11
+- **Sources:** src_001
 
 > The website domains for Melia & Co and Olivia Westwood Boutique were registered in China in November, ahead of the holiday shopping season.
 
-### c_003 — reported, single source
-**Subject entities:** Melia & Co; Olivia Westwood Boutique; Trustpilot
-**Predicate:** has_negative_reviews
-**Object:** shoddy goods, difficult returns (consumer_complaint)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Melia & Co; Olivia Westwood Boutique; Trustpilot
+- **Predicate:** has_negative_reviews
+- **Object:** shoddy goods, difficult returns (consumer_complaint)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Negative reviews of both Melia & Co and Olivia Westwood Boutique proliferate on Trustpilot, where users report receiving shoddy goods that were difficult to return.
 
-### c_004 — attributed, single source
-**Subject entities:** Pew Research Center
-**Predicate:** survey_found
-**Object:** 36% of Americans failed to receive refunds for non-delivered or counterfeit online purchases (survey_statistic)
-**Temporal:** 2025-04
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Pew Research Center
+- **Predicate:** survey_found
+- **Object:** 36% of Americans failed to receive refunds for non-delivered or counterfeit online purchases (survey_statistic)
+- **Temporal:** 2025-04
+- **Sources:** src_001
 
 > About 36% of Americans failed to receive refunds after purchasing an item online that never arrived or turned out to be counterfeit, according to a Pew Research Center survey conducted in April 2025 and published in July.
 
-### c_005 — attributed, single source
-**Subject entities:** Seth Ketron; University of St. Thomas
-**Predicate:** stated
-**Object:** fraudsters use AI-generated images to fake artisan authenticity online (expert_statement)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Seth Ketron; University of St. Thomas
+- **Predicate:** stated
+- **Object:** fraudsters use AI-generated images to fake artisan authenticity online (expert_statement)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Seth Ketron, a marketing professor at the University of St. Thomas in St. Paul, Minnesota, said some vendors and fraudsters have taken advantage of AI-generated images to create websites with an aura of artisan authenticity or that point to a long history as a trusted small retailer.
 
-### c_006 — attributed, single source
-**Subject entities:** Deanna Newman; C'est La Vie
-**Predicate:** owns
-**Object:** online jewelry retailer in Ontario, Canada (business_ownership)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Deanna Newman; C'est La Vie
+- **Predicate:** owns
+- **Object:** online jewelry retailer in Ontario, Canada (business_ownership)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Deanna Newman owns C'est La Vie, an online jewelry retailer in Ontario, Canada.
 
-### c_007 — attributed, single source
-**Subject entities:** Deanna Newman; C'est La Vie
-**Predicate:** name_appropriated_by_scammers
-**Object:** copycat sites falsely claiming locations in New York, Birmingham, Dublin (identity_fraud)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Deanna Newman; C'est La Vie
+- **Predicate:** name_appropriated_by_scammers
+- **Object:** copycat sites falsely claiming locations in New York, Birmingham, Dublin (identity_fraud)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Newman said scammers used the name of her store for shopping sites that falsely claimed brick-and-mortar locations in New York, Birmingham, Dublin and other cities that did not actually exist.
 
-### c_008 — attributed, single source
-**Subject entities:** Deanna Newman; C'est La Vie
-**Predicate:** sales_harmed_by
-**Object:** poor reviews and complaints attributable to scammer copycat sites (business_harm)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Deanna Newman; C'est La Vie
+- **Predicate:** sales_harmed_by
+- **Object:** poor reviews and complaints attributable to scammer copycat sites (business_harm)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Newman said an influx of poor reviews and complaints from the scam sites hurt her sales.
 
-### c_009 — attributed, single source
-**Subject entities:** Murat Kantarcioglu; Virginia Tech
-**Predicate:** recommends
-**Object:** check third-party reviews before purchasing from smaller businesses (expert_recommendation)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Murat Kantarcioglu; Virginia Tech
+- **Predicate:** recommends
+- **Object:** check third-party reviews before purchasing from smaller businesses (expert_recommendation)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Murat Kantarcioglu, a computer science professor at Virginia Tech, recommends checking third-party reviews before making any online purchases from smaller businesses.
 
-### c_010 — attributed, single source
-**Subject entities:** Murat Kantarcioglu; Internet Corporation for Assigned Names and Numbers
-**Predicate:** recommends
-**Object:** ICANN domain name search to verify registration country and date (expert_recommendation)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Murat Kantarcioglu; Internet Corporation for Assigned Names and Numbers
+- **Predicate:** recommends
+- **Object:** ICANN domain name search to verify registration country and date (expert_recommendation)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Kantarcioglu recommends doing a domain name search through the nonprofit Internet Corporation for Assigned Names and Numbers to verify where a website was registered.
 
-### c_011 — attributed, single source
-**Subject entities:** Deanna Newman; C'est La Vie
-**Predicate:** took_down_copycat_sites
-**Object:** some copycat sites removed after public response campaign (remediation_action)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Deanna Newman; C'est La Vie
+- **Predicate:** took_down_copycat_sites
+- **Object:** some copycat sites removed after public response campaign (remediation_action)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Newman concluded some of the copycat C'est La Vie sites were taken down after she posted warnings on Facebook and Instagram and TikTok videos demonstrating she was a real person with a real business.
 
@@ -251,10 +251,5 @@ Ketron said the detection challenge will only grow as AI tools improve. "As (AI)
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Mae Anderson
 **Publication date:** 2026-01-15
-**Access date:** 2026-01-15
 **Title:** There's more to the story of these sweaters than family-run businesses
 **URL:** https://apnews.com/article/online-shopping-scam-small-business-ai-2b83cb87d450f22ac0211bfa52ee7b7f
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

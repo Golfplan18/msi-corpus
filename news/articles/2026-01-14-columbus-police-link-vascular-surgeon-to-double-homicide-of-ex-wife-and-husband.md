@@ -15,45 +15,42 @@ primary_themes:
 - law enforcement
 - criminal justice
 topic_tags:
-  - crime
-  - "crime, law and justice"
-  - "disaster, accident and emergency incident"
-  - fire
-  - "human migration"
-  - "international relations"
+- crime
+- crime, law and justice
+- law enforcement
 storyline_nexus:
-  - immigration-enforcement
-geographic_location: Columbus, Ohio
+- us-immigration-enforcement
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
-  intensity: 0.85
-- value: accountability_of_power
-  intensity: 0.45
+  intensity: 0.9
+- value: truthfulness
+  intensity: 0.6
 - value: informed_citizenship
-  intensity: 0.65
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T06:58:29Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:00:41Z'
 source_cluster_id: cluster_ap_2026-01-13_michael-mckee-spencer-monique-tepe-denti
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 10
   hedges:
-    appears: 0
+    confirmed: 3
     alleged: 0
+    contested: 0
+    appears: 0
     attributed: 7
     reported: 0
-    contested: 0
-    confirmed: 3
   corroboration:
-    primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
+    two_independent: 0
     primary_document: 3
     single_source: 7
-    two_independent: 0
+    primary_plus_secondary: 0
 sources:
   count: 1
   outlets:
@@ -71,17 +68,18 @@ image:
   url: /articles/2026-01-14-columbus-police-link-vascular-surgeon-to-double-homicide-of-ex-wife-and-husband.png
   alt: 'Illustration accompanying article: Columbus police link vascular surgeon to double homicide of ex-wife and'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-10-ex-husband-charged-with-murder-in-shooting-deaths-of-ohio-couple
-  relation: continues
-  strength: 0.874
-  confidence: high
-- slug: 2026-01-12-chicago-doctor-waives-extradition-in-killing-of-ex-wife-husband-in-columbus
-  relation: continues
-  strength: 0.8584
-  confidence: high
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Columbus police said Wednesday they have gathered enough evidence to link Michael David McKee, a 39-year-old vascular surgeon who had been living in Chicago, to the shooting deaths of his ex-wife Monique Tepe and her husband Spencer Tepe at their Columbus, Ohio, home last month.
+- Police Chief Elaine Bryant said authorities believe McKee was captured on video near the scene, his vehicle was tracked near the couple's home the night of the killings, and a firearm recovered from his Illinois residence produced a preliminary ballistic match to evidence from the crime scene.
+- McKee's arrest ends nearly two weeks of nationally watched speculation surrounding the killings, which drew scrutiny in part because no signs of forced entry were found at the Tepes' home, no weapon was recovered there, murder-suicide was not suspected, nothing was stolen, and the couple's two young children and their dog were left unharmed.
+- We also have evidence of him coming and going in that particular vehicle," Bryant said.
 
 Columbus police said Wednesday they have gathered enough evidence to link Michael David McKee, a 39-year-old vascular surgeon who had been living in Chicago, to the shooting deaths of his ex-wife Monique Tepe and her husband Spencer Tepe at their Columbus, Ohio, home last month. Police Chief Elaine Bryant said authorities believe McKee was captured on video near the scene, his vehicle was tracked near the couple's home the night of the killings, and a firearm recovered from his Illinois residence produced a preliminary ballistic match to evidence from the crime scene.
 
@@ -121,93 +119,113 @@ Ginther called on central Ohioans to continue supporting the Tepe family, which 
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Michael David McKee; Elaine Bryant
-**Predicate:** linked_to_killings
-**Object:** double homicide of Monique and Spencer Tepe (criminal_allegation)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Michael David McKee; Elaine Bryant
+- **Predicate:** linked_to_killings
+- **Object:** double homicide of Monique and Spencer Tepe (criminal_allegation)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Columbus Police Chief Elaine Bryant said authorities have gathered enough evidence to link Michael David McKee to the killings of Monique Tepe and Spencer Tepe.
 
-### c_002 — attributed, single source
-**Subject entities:** Michael David McKee
-**Predicate:** resides_in
-**Object:** Chicago, Illinois (location)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Michael David McKee
+- **Predicate:** resides_in
+- **Object:** Chicago, Illinois (location)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > McKee, 39, is a vascular surgeon who was living in Chicago at the time of his arrest.
 
-### c_003 — attributed, single source
-**Subject entities:** Michael David McKee
-**Predicate:** identified_near_scene
-**Object:** video footage and vehicle near Tepes' Columbus home (forensic_evidence)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Michael David McKee
+- **Predicate:** identified_near_scene
+- **Object:** video footage and vehicle near Tepes' Columbus home (forensic_evidence)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Authorities believe McKee was the person seen walking in a dark alley near the Tepes' home in video footage from the night of the murders, and his vehicle was identified traveling near the house.
 
-### c_004 — attributed, single source
-**Subject entities:** Michael David McKee
-**Predicate:** firearm_matched_to_scene
-**Object:** NIBIN ballistic hit to homicide evidence (forensic_evidence)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Michael David McKee
+- **Predicate:** firearm_matched_to_scene
+- **Object:** NIBIN ballistic hit to homicide evidence (forensic_evidence)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > A firearm recovered from McKee's Illinois residence matched ballistic evidence from the homicide via a preliminary NIBIN hit.
 
-### c_005 — confirmed, primary document
-**Subject entities:** Michael David McKee; OSF Saint Anthony Medical Center
-**Predicate:** arrested_in
-**Object:** Rockford, Illinois (location)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Michael David McKee; OSF Saint Anthony Medical Center
+- **Predicate:** arrested_in
+- **Object:** Rockford, Illinois (location)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > McKee was apprehended Saturday in Rockford, Illinois, where he worked at OSF Saint Anthony Medical Center.
 
-### c_006 — confirmed, primary document
-**Subject entities:** Michael David McKee
-**Predicate:** charged_with
-**Object:** premeditated aggravated murder (criminal_charge)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Michael David McKee
+- **Predicate:** charged_with
+- **Object:** premeditated aggravated murder (criminal_charge)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > McKee has been charged with premeditated aggravated murder in the shooting deaths.
 
-### c_007 — attributed, single source
-**Subject entities:** Monique Tepe; Spencer Tepe; Michael David McKee
-**Predicate:** victim_details
-**Object:** Monique Tepe age 39 divorced McKee 2017; Spencer Tepe age 37 dentist (biographical_detail)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Monique Tepe; Spencer Tepe; Michael David McKee
+- **Predicate:** victim_details
+- **Object:** Monique Tepe age 39 divorced McKee 2017; Spencer Tepe age 37 dentist (biographical_detail)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Monique Tepe, 39, divorced McKee in 2017; Spencer Tepe, 37, was a dentist whose absence from work that morning prompted the first call to police.
 
-### c_008 — confirmed, primary document
-**Subject entities:** Michael David McKee
-**Predicate:** waived_extradition
-**Object:** 17th Judicial Circuit Court, Winnebago County, Illinois (court_proceeding)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Michael David McKee
+- **Predicate:** waived_extradition
+- **Object:** 17th Judicial Circuit Court, Winnebago County, Illinois (court_proceeding)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > McKee waived his right to an extradition hearing Monday in the 17th Judicial Circuit Court in Winnebago County, Illinois, where his next hearing is scheduled for January 23.
 
-### c_009 — attributed, single source
-**Subject entities:** Monique Tepe; Spencer Tepe
-**Predicate:** crime_scene_characteristics
-**Object:** no forced entry, no weapon at scene, children and dog unharmed (investigation_finding)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Monique Tepe; Spencer Tepe
+- **Predicate:** crime_scene_characteristics
+- **Object:** no forced entry, no weapon at scene, children and dog unharmed (investigation_finding)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > No signs of forced entry were found at the Tepes' home, no weapon was recovered there, murder-suicide was not suspected, nothing was stolen, and the couple's two young children and their dog were left unharmed.
 
-### c_010 — attributed, single source
-**Subject entities:** Andrew Ginther; Columbus
-**Predicate:** stated_crime_statistics
-**Object:** closure rate exceeds national average; lowest homicides since 2007 in 2025 (statistic)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Andrew Ginther; Columbus
+- **Predicate:** stated_crime_statistics
+- **Object:** closure rate exceeds national average; lowest homicides since 2007 in 2025 (statistic)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Columbus Mayor Andrew Ginther said the city's closure rate on criminal cases exceeds the national average and that Columbus recorded its lowest level of homicides and violent crime since 2007 in 2025.
 
@@ -216,10 +234,5 @@ Ginther called on central Ohioans to continue supporting the Tepe family, which 
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Julie Carr Smyth
 **Publication date:** 2026-01-14
-**Access date:** 2026-01-14
 **Title:** Police in Ohio's capital city say they have linked Michael David McKee to double homicide
 **URL:** https://apnews.com/article/michael-mckee-spencer-monique-tepe-dentist-killed-9ec689320e27da89617165a151b95d54
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

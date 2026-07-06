@@ -22,42 +22,41 @@ primary_themes:
 - search_and_rescue
 - mountain_safety
 topic_tags:
-  - "disaster, accident and emergency incident"
-  - "natural disaster"
-  - "crime, law and justice"
-  - crime
-  - "science and technology"
-  - "artificial intelligence"
-storyline_nexus: []
-geographic_location: Castle Peak, Sierra Nevada, California, United States
+- disaster, accident and emergency incident
+- natural disaster
+- weather
+- human interest
+storyline_nexus:
+- extreme-weather-disasters
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
-  intensity: 0.95
-- value: informed_citizenship
-  intensity: 0.85
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+  intensity: 0.9
+- value: truthfulness
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:59:30Z'
 source_cluster_id: cluster_ap_2026-02-23_california-tahoe-search-rescue-avalanche
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 10
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 1
     reported: 9
-    contested: 0
     confirmed: 0
+    alleged: 0
+    contested: 0
+    appears: 0
+    attributed: 1
   corroboration:
+    primary_document: 10
+    two_independent: 0
+    single_source: 0
     primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
-    primary_document: 10
-    single_source: 0
-    two_independent: 0
 sources:
   count: 1
   outlets:
@@ -78,6 +77,16 @@ image:
 cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Bodies of 9 backcountry skiers recovered after California avalanche
+- Nine backcountry skiers were killed by an avalanche on Castle Peak near Lake Tahoe on Tuesday.
+- The avalanche struck at approximately 11:30 a.m. Tuesday on Castle Peak near Truckee, California.
+- The group was on the final day of a three-day ski tour when the avalanche occurred.
+- Andrew Alissandratos, 34, Nicole Choo, 42, and Michael Henry, 30, were guides from Blackbird Mountain Company who were killed.
 
 Authorities have completed recovery of all nine backcountry skiers killed by an avalanche near Lake Tahoe, concluding a four-day search and rescue operation hampered by heavy snow and whiteout conditions. The avalanche struck at approximately 11:30 a.m. Tuesday on Castle Peak near Truckee, California, on the final day of a three-day ski tour that the group had decided to cut short to avoid an impending snowstorm.
 
@@ -115,97 +124,115 @@ Initial reports indicated that at least two of the surviving skiers were not swe
 
 Hack declined to offer information about what might have triggered the avalanche. Officials have described the path the group took as a "normally traveled route" but declined to specify what that designation means.
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
-### c_001 — reported, primary document
-**Subject entities:** backcountry skiers; Castle Peak
-**Predicate:** were_killed_by
-**Object:** avalanche (natural_disaster)
-**Temporal:** 2026-02-18
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** backcountry skiers; Castle Peak
+- **Predicate:** were_killed_by
+- **Object:** avalanche (natural_disaster)
+- **Temporal:** 2026-02-18
+- **Sources:** src_001
 
 > Nine backcountry skiers were killed by an avalanche on Castle Peak near Lake Tahoe on Tuesday.
 
-### c_002 — reported, primary document
-**Subject entities:** avalanche; Castle Peak
-**Predicate:** occurred_at
-**Object:** 11:30 a.m. Tuesday (temporal_location)
-**Temporal:** 2026-02-18
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** avalanche; Castle Peak
+- **Predicate:** occurred_at
+- **Object:** 11:30 a.m. Tuesday (temporal_location)
+- **Temporal:** 2026-02-18
+- **Sources:** src_001
 
 > The avalanche struck at approximately 11:30 a.m. Tuesday on Castle Peak near Truckee, California.
 
-### c_003 — reported, primary document
-**Subject entities:** ski group
-**Predicate:** was_on_tour
-**Object:** final day of three-day tour (activity_context)
-**Temporal:** 2026-02-18
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** ski group
+- **Predicate:** was_on_tour
+- **Object:** final day of three-day tour (activity_context)
+- **Temporal:** 2026-02-18
+- **Sources:** src_001
 
 > The group was on the final day of a three-day ski tour when the avalanche occurred.
 
-### c_004 — reported, primary document
-**Subject entities:** Andrew Alissandratos; Nicole Choo; Michael Henry; Blackbird Mountain Company
-**Predicate:** died_in
-**Object:** avalanche (incident)
-**Temporal:** 2026-02-18
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Andrew Alissandratos; Nicole Choo; Michael Henry; Blackbird Mountain Company
+- **Predicate:** died_in
+- **Object:** avalanche (incident)
+- **Temporal:** 2026-02-18
+- **Sources:** src_001
 
 > Andrew Alissandratos, 34, Nicole Choo, 42, and Michael Henry, 30, were guides from Blackbird Mountain Company who were killed.
 
-### c_005 — reported, primary document
-**Subject entities:** Carrie Atkin; Liz Clabaugh; Danielle Keatley; Kate Morse; Caroline Sekar; Kate Vitt
-**Predicate:** died_in
-**Object:** avalanche (incident)
-**Temporal:** 2026-02-18
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Carrie Atkin; Liz Clabaugh; Danielle Keatley; Kate Morse; Caroline Sekar; Kate Vitt
+- **Predicate:** died_in
+- **Object:** avalanche (incident)
+- **Temporal:** 2026-02-18
+- **Sources:** src_001
 
 > Six women, all in their 40s, were killed: Carrie Atkin, Liz Clabaugh, Danielle Keatley, Kate Morse, Caroline Sekar, and Kate Vitt.
 
-### c_006 — reported, primary document
-**Subject entities:** survivors
-**Predicate:** called_for_help_and_described
-**Object:** slide approximately length of football field (description)
-**Temporal:** 2026-02-18
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** survivors
+- **Predicate:** called_for_help_and_described
+- **Object:** slide approximately length of football field (description)
+- **Temporal:** 2026-02-18
+- **Sources:** src_001
 
 > Six survivors called for help at approximately 11:30 a.m. Tuesday, describing an avalanche approximately the length of a football field.
 
-### c_007 — reported, primary document
-**Subject entities:** rescuers; survivors
-**Predicate:** reached
-**Object:** approximately six hours after call (time_interval)
-**Temporal:** 2026-02-18
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** rescuers; survivors
+- **Predicate:** reached
+- **Object:** approximately six hours after call (time_interval)
+- **Temporal:** 2026-02-18
+- **Sources:** src_001
 
 > Rescuers were not able to reach the survivors until approximately six hours after the initial call for help.
 
-### c_008 — reported, primary document
-**Subject entities:** California Highway Patrol; Pacific Gas & Electric Company
-**Predicate:** used_to
-**Object:** break up snow and release unstable snowpack (mitigation_action)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** California Highway Patrol; Pacific Gas & Electric Company
+- **Predicate:** used_to
+- **Object:** break up snow and release unstable snowpack (mitigation_action)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > Two California Highway Patrol helicopters, with help from Pacific Gas & Electric Company, were used Friday to break up snow and intentionally release unstable snowpack.
 
-### c_009 — reported, primary document
-**Subject entities:** Castle Peak terrain
-**Predicate:** will_be_closed_until
-**Object:** mid-March (closure_period)
-**Temporal:** 2026-02-21
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Castle Peak terrain
+- **Predicate:** will_be_closed_until
+- **Object:** mid-March (closure_period)
+- **Temporal:** 2026-02-21
+- **Sources:** src_001
 
 > The terrain will be off-limits to visitors until mid-March.
 
-### c_010 — attributed, primary document
-**Subject entities:** Sheriff Shannon Moon
-**Predicate:** praised
-**Object:** collective efforts of agencies and 42 volunteers (statement)
-**Temporal:** 2026-02-21
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Sheriff Shannon Moon
+- **Predicate:** praised
+- **Object:** collective efforts of agencies and 42 volunteers (statement)
+- **Temporal:** 2026-02-21
+- **Sources:** src_001
 
 > Sheriff Shannon Moon praised the collective efforts of numerous agencies and 42 volunteers involved in the recovery.
 
@@ -214,10 +241,5 @@ This article was generated algorithmically by Main Street Independent's News Art
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Godofredo Vasquez
 **Publication date:** 2026-02-21
-**Access date:** 2026-05-18
 **Title:** Bodies of 9 backcountry skiers recovered after California avalanche
 **URL:** https://apnews.com/article/california-tahoe-search-rescue-avalanche-bodies-recovery-7a07cfede81c6bcdf3282ee6e16cb319
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

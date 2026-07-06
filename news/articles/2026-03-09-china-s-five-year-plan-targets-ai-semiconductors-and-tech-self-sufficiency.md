@@ -24,7 +24,7 @@ topic_tags:
   - "government policy"
   - "human interest"
 storyline_nexus:
-  - ai-regulation
+- us-china-competition
 geographic_location: Beijing, China
 floor_values_engaged:
 - value: informed_citizenship
@@ -257,7 +257,3 @@ The plans were presented at the opening of the NPC session and are set to be for
 **Access date:** 2026-03-09
 **Title:** China's latest economic plans highlight its tech ambitions
 **URL:** https://apnews.com/article/china-five-year-plan-technology-economy-7face4580fcfba44410ff2134a09d6bb
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

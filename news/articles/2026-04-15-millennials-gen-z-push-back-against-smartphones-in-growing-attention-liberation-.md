@@ -21,39 +21,42 @@ primary_themes:
 - Big Tech
 - technology and society
 topic_tags:
-  - "science and technology"
-  - society
+- social media
+- lifestyle and leisure
+- human interest
+- computing and information technology
+- society
 storyline_nexus:
-  - ai-regulation
-geographic_location: United States; Netherlands; international
+- ai-industry-regulation
+geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.7
+- value: accountability_of_power
+  intensity: 0.9
 - value: human_life_and_dignity
-  intensity: 0.45
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T08:13:29Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:41:30Z'
 source_cluster_id: cluster_ap_2026-04-16_internet-screens-phone-addiction-attenti
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 15
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 15
     reported: 0
     contested: 0
+    alleged: 0
+    appears: 0
     confirmed: 0
+    attributed: 15
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 0
     single_source: 15
+    primary_plus_secondary: 0
+    primary_document: 0
     two_independent: 0
+    one_originating_plus_primary_document: 0
 sources:
   count: 1
   outlets:
@@ -67,13 +70,20 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2025-12-18-screen-free-holidays-phone-features-and-low-tech-options-to-help-you-unplug
-  relation: related
-  strength: 0.7392
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- A small but growing movement wants you to put down your phone. But first read this
+- A new kind of club has emerged in Amsterdam - one where participants choose to go offline, away from their phones and other devices. (AP video by Aleksandar Furtula)
+- The exercise was meant to drive home the importance of paying attention to real life, not the gleaming little screens that have taken over our world.
+- Two decades after Steve Jobs premiered the iPhone, a small but passionate movement — with offshoots in several countries — is rebelling against the omnipresent screen.
+- “The products have become more insidious and more extractive, exploitative,” said Dan Fox, 38, who hosted the house gathering. Members of the nascent movement “want to start a revolution,” he said.
+- Apple and other Big Tech firms say they’ve taken steps to help users reduce time spent on their devices, including features that track usage and a less enticing gray mode.
 
 Dozens of millennials and members of Generation Z gathered in Brooklyn apartments and converted office spaces this spring to set their phones aside for evenings of reading, drawing, and face-to-face conversation — part of a small but growing rebellion against what participants call the corporate harvesting of human attention. The gatherings are the American face of an international "attention liberation" movement whose advocates say Big Tech has made its products too addictive for the industry's own corrective tools to fix.
 
@@ -83,7 +93,7 @@ Two decades after Steve Jobs introduced the iPhone, participants in the movement
 
 Fox traces his conversion to a 2015 Tame Impala concert at Radio City Music Hall, where he said most of the audience spent the show filming rather than watching. "I realized the phones are literally getting in the way of the things I love," he said.
 
-Light Phone, the company Fox represents, markets its devices as a deliberate alternative to mainstream smartphones, boasting of the absence of social media, clickbait news, email, internet browsers, and what it describes as "anxiety-inducing infinite feeds."
+Light Phone, the company Fox represents, markets its devices as a deliberate alternative to mainstream smartphones, boasting of the absence of social media, clickbait news, email, internet browsers, and what it describes as anxiety-inducing infinite feeds.
 
 ## A growing body of literature
 
@@ -117,136 +127,166 @@ Wilhelm Tupy, a retired judo champion and business consultant from Vienna, visit
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Predicate:** gathered_offline
-**Object:** Brooklyn brownstone apartment (location)
-**Temporal:** 2026-04
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Predicate:** gathered_offline
+- **Object:** Brooklyn brownstone apartment (location)
+- **Temporal:** 2026-04
+- **Sources:** src_001
 
 > More than a dozen millennials gathered in a Brooklyn brownstone apartment, placed their phones in a metal colander, and spent two hours reading, drawing, and conversing.
 
-### c_002 — attributed, single source
-**Subject entities:** Dan Fox; Light Phone
-**Predicate:** hosted
-**Object:** Brooklyn house gathering (event)
-**Temporal:** 2026-04
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Dan Fox; Light Phone
+- **Predicate:** hosted
+- **Object:** Brooklyn house gathering (event)
+- **Temporal:** 2026-04
+- **Sources:** src_001
 
 > Dan Fox, 38, a stand-up comedian who works in marketing for Brooklyn-based Light Phone, hosted the house gathering.
 
-### c_003 — attributed, single source
-**Subject entities:** Dan Fox
-**Predicate:** said
-**Object:** products insidious; movement wants revolution (statement)
-**Temporal:** 2026-04
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Dan Fox
+- **Predicate:** said
+- **Object:** products insidious; movement wants revolution (statement)
+- **Temporal:** 2026-04
+- **Sources:** src_001
 
 > Dan Fox said the products have become 'more insidious and more extractive, exploitative' and that members of the movement 'want to start a revolution.'
 
-### c_004 — attributed, single source
-**Subject entities:** Light Phone
-**Predicate:** manufactures
-**Object:** limited-feature dumb phones (product)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Light Phone
+- **Predicate:** manufactures
+- **Object:** limited-feature dumb phones (product)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Light Phone is a Brooklyn-based company that makes phones with only basic functionality, marketing the absence of social media, clickbait news, email, internet browser, and infinite feeds.
 
-### c_005 — attributed, single source
-**Subject entities:** D. Graham Burnett; Princeton University
-**Predicate:** is_affiliated_and_co-authored
-**Object:** Attensity! A Manifesto of the Attention Liberation Movement (publication)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** D. Graham Burnett; Princeton University
+- **Predicate:** is_affiliated_and_co-authored
+- **Object:** Attensity! A Manifesto of the Attention Liberation Movement (publication)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > D. Graham Burnett is a historian of science at Princeton University and co-author of 'Attensity! A Manifesto of the Attention Liberation Movement.'
 
-### c_006 — attributed, single source
-**Subject entities:** Chris Hayes
-**Predicate:** authored
-**Object:** The Sirens' Call: How Attention Became the World's Most Endangered Resource (publication)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Chris Hayes
+- **Predicate:** authored
+- **Object:** The Sirens' Call: How Attention Became the World's Most Endangered Resource (publication)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Chris Hayes authored a book called 'The Sirens' Call: How Attention Became the World's Most Endangered Resource,' described as a bestseller.
 
-### c_007 — attributed, single source
-**Subject entities:** D. Graham Burnett
-**Predicate:** said
-**Object:** need to rewild attention (statement)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** D. Graham Burnett
+- **Predicate:** said
+- **Object:** need to rewild attention (statement)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Burnett said people 'need to rewild their attention' because 'their attention is the fullness of their relationship to the world.'
 
-### c_008 — attributed, single source
-**Predicate:** exist_in
-**Object:** US, Canada, Spain, Italy, Croatia, France, England (locations)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Predicate:** exist_in
+- **Object:** US, Canada, Spain, Italy, Croatia, France, England (locations)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > There are several dozen attention-activism groups across the United States and Canada, with chapters also in Spain, Italy, Croatia, France, and England.
 
-### c_009 — attributed, single source
-**Subject entities:** Ilya Kneppelhout
-**Predicate:** co-founded
-**Object:** Offline Club (organization)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ilya Kneppelhout
+- **Predicate:** co-founded
+- **Object:** Offline Club (organization)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Ilya Kneppelhout is co-founder of the Offline Club in the Netherlands, which held a meeting in a neo-Gothic cathedral.
 
-### c_010 — attributed, single source
-**Subject entities:** Riley Soloner
-**Predicate:** attended_and_said
-**Object:** feels like an addict (statement)
-**Temporal:** 2026-04
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Riley Soloner
+- **Predicate:** attended_and_said
+- **Object:** feels like an addict (statement)
+- **Temporal:** 2026-04
+- **Sources:** src_001
 
 > Riley Soloner, who teaches theatrical clowning and works as an usher at Carnegie Hall, attended a Brooklyn gathering and said he does not feel good about his relationship with his phone and feels like an addict.
 
-### c_011 — attributed, single source
-**Subject entities:** Oberlin College
-**Predicate:** banned_technology_in
-**Object:** shared spaces of Harkness Housing and Dining Co-op (location)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Oberlin College
+- **Predicate:** banned_technology_in
+- **Object:** shared spaces of Harkness Housing and Dining Co-op (location)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Members of Oberlin College's Harkness Housing and Dining Co-op banned technology from shared spaces beginning in January.
 
-### c_012 — attributed, single source
-**Subject entities:** Ozzie Frazier; Oberlin College
-**Predicate:** said
-**Object:** relief and connection resulted from tech ban (statement)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ozzie Frazier; Oberlin College
+- **Predicate:** said
+- **Object:** relief and connection resulted from tech ban (statement)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Ozzie Frazier, 21, a junior at Oberlin College, said the monthlong tech ban produced feelings of relief and connection and led residents to check out library CDs, pursue arts and crafts, attend live music, and play board games.
 
-### c_013 — attributed, single source
-**Subject entities:** Wilhelm Tupy
-**Predicate:** visited_and_said
-**Object:** discipline insufficient to maintain focus (statement)
-**Temporal:** 2026-04
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Wilhelm Tupy
+- **Predicate:** visited_and_said
+- **Object:** discipline insufficient to maintain focus (statement)
+- **Temporal:** 2026-04
+- **Sources:** src_001
 
 > Wilhelm Tupy, a retired judo champion and business consultant from Vienna, visited Brooklyn's School of Radical Attention and said discipline alone is no longer sufficient to maintain focus.
 
-### c_014 — attributed, single source
-**Subject entities:** Apple, Inc.
-**Predicate:** implemented
-**Object:** screen-time reduction features (policy)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Apple, Inc.
+- **Predicate:** implemented
+- **Object:** screen-time reduction features (policy)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Apple and other Big Tech firms say they have taken steps to help users reduce device time, including usage-tracking features and a less enticing gray mode.
 
-### c_015 — attributed, single source
-**Subject entities:** Dan Fox
-**Predicate:** said
-**Object:** inspired by 2015 Tame Impala concert (statement)
-**Temporal:** 2015
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Dan Fox
+- **Predicate:** said
+- **Object:** inspired by 2015 Tame Impala concert (statement)
+- **Temporal:** 2015
+- **Sources:** src_001
 
 > Dan Fox said he was inspired to join the movement after attending a 2015 Tame Impala concert at Radio City Music Hall where most of the audience was filming rather than watching.
 
@@ -255,10 +295,5 @@ Wilhelm Tupy, a retired judo champion and business consultant from Vienna, visit
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Michael Weissenstein
 **Publication date:** 2026-04-15
-**Access date:** 2026-05-17
 **Title:** A growing movement wants to free us from our smartphones
 **URL:** https://apnews.com/article/internet-screens-phone-addiction-attention-bde9f575a54921ca320d30519783c250
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

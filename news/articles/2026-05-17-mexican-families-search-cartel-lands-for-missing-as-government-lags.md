@@ -18,7 +18,8 @@ primary_themes:
 topic_tags:
   - government
   - politics
-storyline_nexus: []
+storyline_nexus:
+- mexico-cartel-violence
 geographic_location: Jalisco state, Mexico; Guadalajara
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -110,10 +111,6 @@ The previous administration recognized the magnitude of the problem and launched
 ## Searching Through the Tournament
 
 The search collectives want to take advantage of the world's focus on Mexico during the World Cup to draw attention to their reality. Servín says the tournament will not stop his work. "I love soccer," he said, "but that's not going to stop me from going out to search."
-
----
-
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public source listed under `sources`. Framework specification: /methodology. Human review: not_triggered.
 
 ## Atomic claims
 
@@ -251,7 +248,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-05-17
 **Title:** Citizen groups scour Mexican cartel lands for the missing
 **URL:** https://apnews.com/article/search-mexico-missing-people-drug-cartels-5e4acba628fbb827e76ca1d46f3ac4b9
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

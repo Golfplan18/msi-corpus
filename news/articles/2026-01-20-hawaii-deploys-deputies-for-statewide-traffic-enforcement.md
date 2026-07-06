@@ -16,40 +16,39 @@ primary_themes:
 - law enforcement deployment
 - traffic fatalities
 topic_tags:
-  - "crime, law and justice"
-  - "law enforcement"
-  - sport
-storyline_nexus: []
-geographic_location: Hawaii, United States
+- law enforcement
+- transport
+- government policy
+storyline_nexus:
+- haiti-gang-crisis
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
-  intensity: 0.95
-- value: accountability_of_power
-  intensity: 0.6
+  intensity: 0.9
 - value: informed_citizenship
-  intensity: 0.8
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T12:00:00Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:26:02Z'
 source_cluster_id: cluster_ap_2026-01-21_general-news-ed-sniffen-mike-lambert-tra
 gdelt_event_ids: []
-consensus_floor_version: '1.0'
-publication_mindspec_version: 1.1.0
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 11
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 6
-    reported: 5
     contested: 0
     confirmed: 0
+    reported: 5
+    appears: 0
+    attributed: 6
+    alleged: 0
   corroboration:
-    primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
     primary_document: 0
     single_source: 11
+    primary_plus_secondary: 0
     two_independent: 0
 sources:
   count: 1
@@ -64,17 +63,20 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-06-new-orleans-violent-crime-falls-for-third-straight-year-as-national-guard-begins
-  relation: related
-  strength: 0.7514
-  confidence: medium
-- slug: 2026-01-09-south-dakota-s-72-million-us-385-rebuild-aims-to-halve-crash-rate-in-black-hills
-  relation: related
-  strength: 0.7247
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Deputy Sheriffs Are Beefing Up Hawaiʻi Traffic Enforcement
+- Sniffen said 90% of the fatalities last year were caused by what he called “user error,” including speeding, driving while intoxicated and distracted driving.
+- Traffic deaths increased by 10% in 2024, totaling 102 deaths that year.
+- Mike Lambert, director of the state Department of Law Enforcement, told lawmakers earlier this month the sheriff’s deputies will be deployed according to a “data-driven plan.”
+- The department is starting off with two teams that consist of five officers each on Oʻahu, Sniffen said.
+- This story was originally published by Honolulu Civil Beat and distributed through a partnership with The Associated Press.
 
 State Transportation Director Ed Sniffen said Hawaii will deploy deputy sheriffs statewide for traffic enforcement, using $2 million in federal highway safety funding for overtime. The effort comes after traffic deaths on Hawaiian roads surged to 129 last year, a 20% increase from 2024 and the highest number of fatalities since 2007.
 
@@ -106,102 +108,124 @@ When asked how long the state would maintain the traffic enforcement effort, Sni
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Ed Sniffen; Hawaii Department of Transportation
-**Predicate:** announced_deployment
-**Object:** deputy sheriffs for traffic enforcement statewide (law_enforcement_activity)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ed Sniffen; Hawaii Department of Transportation
+- **Predicate:** announced_deployment
+- **Object:** deputy sheriffs for traffic enforcement statewide (law_enforcement_activity)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > State Transportation Director Ed Sniffen said Hawaii will deploy deputy sheriffs statewide for traffic enforcement.
 
-### c_002 — attributed, single source
-**Subject entities:** State of Hawaii; Ed Sniffen
-**Predicate:** committed_funding
-**Object:** $2 million in federal highway safety funding (monetary)
-**Temporal:** 2025-2026
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** State of Hawaii; Ed Sniffen
+- **Predicate:** committed_funding
+- **Object:** $2 million in federal highway safety funding (monetary)
+- **Temporal:** 2025-2026
+- **Sources:** src_001
 
 > The state is committing $2 million in federal highway safety funding to pay overtime for the traffic enforcement effort.
 
-### c_003 — reported, single source
-**Subject entities:** Hawaiian roadways
-**Predicate:** recorded_fatalities
-**Object:** 129 deaths, 20% increase from 2024 (statistic)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Hawaiian roadways
+- **Predicate:** recorded_fatalities
+- **Object:** 129 deaths, 20% increase from 2024 (statistic)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Traffic deaths on Hawaiian roadways surged to 129 in 2025, a 20% increase from the previous year.
 
-### c_004 — reported, single source
-**Subject entities:** Hawaiian roadways
-**Predicate:** categorized_fatalities
-**Object:** 40 vehicle occupants, 39 motorcycle riders, 38 pedestrians (breakdown)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Hawaiian roadways
+- **Predicate:** categorized_fatalities
+- **Object:** 40 vehicle occupants, 39 motorcycle riders, 38 pedestrians (breakdown)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > The 129 traffic deaths in 2025 comprised 40 motor vehicle occupants, 39 motorcycle or motor scooter riders, and 38 pedestrians.
 
-### c_005 — attributed, single source
-**Subject entities:** Ed Sniffen
-**Predicate:** attributed_causation
-**Object:** speeding, DUI, distracted driving (cause)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ed Sniffen
+- **Predicate:** attributed_causation
+- **Object:** speeding, DUI, distracted driving (cause)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Ed Sniffen said 90% of last year's traffic fatalities were caused by what he called "user error," including speeding, driving while intoxicated, and distracted driving.
 
-### c_006 — reported, single source
-**Subject entities:** Hawaii Sheriff Division
-**Predicate:** began_enforcement
-**Object:** traffic enforcement operations (law_enforcement_activity)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Hawaii Sheriff Division
+- **Predicate:** began_enforcement
+- **Object:** traffic enforcement operations (law_enforcement_activity)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > Deputy sheriff teams began focused traffic enforcement work in late December 2025.
 
-### c_007 — reported, single source
-**Subject entities:** Ed Sniffen; Hawaii Sheriff Division
-**Predicate:** deployed_personnel
-**Object:** two teams of five officers on Oʻahu (personnel_deployment)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Ed Sniffen; Hawaii Sheriff Division
+- **Predicate:** deployed_personnel
+- **Object:** two teams of five officers on Oʻahu (personnel_deployment)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > The initial deployment consists of two teams of five officers each on Oʻahu.
 
-### c_008 — attributed, single source
-**Subject entities:** Mike Lambert; Hawaii Department of Law Enforcement
-**Predicate:** outlined_strategy
-**Object:** data-driven targeting by location and time (enforcement_strategy)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Mike Lambert; Hawaii Department of Law Enforcement
+- **Predicate:** outlined_strategy
+- **Object:** data-driven targeting by location and time (enforcement_strategy)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Mike Lambert said the sheriff's deputies will focus on speeding and distracted driving around schools during daytime hours and on speeding and driving under the influence during evenings and weekends.
 
-### c_009 — attributed, single source
-**Subject entities:** Mike Lambert; Hawaii Sheriff Division
-**Predicate:** reported_vacancy_rate
-**Object:** 136 vacant of 490 positions (statistic)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Mike Lambert; Hawaii Sheriff Division
+- **Predicate:** reported_vacancy_rate
+- **Object:** 136 vacant of 490 positions (statistic)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Mike Lambert told the House Finance Committee that 136 of 490 Sheriff Division positions are vacant.
 
-### c_010 — reported, single source
-**Subject entities:** Hawaii Department of Law Enforcement
-**Predicate:** structured_staffing
-**Object:** overtime compensation without reassignment (personnel_arrangement)
-**Temporal:** 2025-2026
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Hawaii Department of Law Enforcement
+- **Predicate:** structured_staffing
+- **Object:** overtime compensation without reassignment (personnel_arrangement)
+- **Temporal:** 2025-2026
+- **Sources:** src_001
 
 > Deputy sheriffs will be paid overtime for their traffic enforcement duties, and the traffic enforcement program will operate with existing personnel without removing them from existing roles.
 
-### c_011 — attributed, single source
-**Subject entities:** Ed Sniffen
-**Predicate:** set_continuation_criteria
-**Object:** continued funding contingent on demonstrable fatality reduction (policy_condition)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ed Sniffen
+- **Predicate:** set_continuation_criteria
+- **Object:** continued funding contingent on demonstrable fatality reduction (policy_condition)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Ed Sniffen said the traffic enforcement program will continue if it is successful in reducing deaths. "If we see the numbers plummet immediately, if we see the longer use of sheriffs in our system is working, we'll fund it," he said.
 
@@ -210,10 +234,5 @@ When asked how long the state would maintain the traffic enforcement effort, Sni
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Kevin Dayton / Honolulu Civil Beat
 **Publication date:** 2026-01-20
-**Access date:** 2026-05-18
 **Title:** Deputy Sheriffs Are Beefing Up Hawaiʻi Traffic Enforcement
 **URL:** https://apnews.com/article/general-news-ed-sniffen-mike-lambert-traffic-301846d8d80f880c63d164a948c5c962
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -16,41 +16,44 @@ primary_themes:
 - Food safety
 - Product recall
 topic_tags:
-  - "economy, business and finance"
-  - "epidemic and pandemic"
-  - health
-storyline_nexus: []
+- public health
+- disease and condition
+- epidemic and pandemic
+- crime, law and justice
+- manufacturing and engineering
+storyline_nexus:
+- trump-health-policy-rfk
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
-  intensity: 0.95
-- value: truthfulness
-  intensity: 0.85
-- value: informed_citizenship
   intensity: 0.9
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+- value: accountability_of_power
+  intensity: 0.6
+- value: truthfulness
+  intensity: 0.3
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:56:19Z'
 source_cluster_id: cluster_ap_2026-01-29_byheart-west-milk-dairy-farmers-of-ameri
 gdelt_event_ids: []
-consensus_floor_version: '1.0'
-publication_mindspec_version: '1.0'
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 12
   hedges:
+    attributed: 8
     appears: 0
     alleged: 0
-    attributed: 8
-    reported: 1
     contested: 0
     confirmed: 3
+    reported: 1
   corroboration:
-    primary_plus_secondary: 1
     one_originating_plus_primary_document: 0
+    primary_plus_secondary: 1
+    two_independent: 0
     primary_document: 7
     single_source: 4
-    two_independent: 0
 sources:
   count: 1
   outlets:
@@ -64,41 +67,19 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-04-21-rat-poison-found-in-hipp-baby-food-central-europe-issues-recall
-  relation: related
-  strength: 0.841
-  confidence: medium
-- slug: 2026-04-19-hipp-recalls-baby-food-jars-in-austria-after-rat-poison-found
-  relation: related
-  strength: 0.8121
-  confidence: medium
-- slug: 2026-04-17-rfk-jr-claims-u-s-leads-on-measles-ap-fact-check-finds-otherwise
-  relation: related
-  strength: 0.6915
-  confidence: medium
-- slug: 2026-04-18-beef-tallow-and-salmon-sperm-gain-popularity-as-natural-skin-care
-  relation: related
-  strength: 0.6874
-  confidence: medium
-- slug: 2026-05-17-toxic-tijuana-river-sewage-sickens-thousands-in-california
-  relation: related
-  strength: 0.6753
-  confidence: medium
-- slug: 2026-05-17-carfentanil-100-times-stronger-than-fentanyl-surges-across-u-s
-  relation: related
-  strength: 0.6671
-  confidence: medium
-- slug: 2026-01-13-russia-opens-criminal-case-after-nine-babies-die-at-siberian-maternity-hospital
-  relation: related
-  strength: 0.687
-  confidence: medium
-- slug: 2026-01-14-trump-signs-law-returning-whole-milk-to-school-cafeterias
-  relation: related
-  strength: 0.6812
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Organic West Milk, Dairy Farmers of America linked to ByHeart formula recall
+- Organic whole milk powder linked to ByHeart baby formula tested positive for the bacteria that causes botulism.
+- The outbreak has sickened 51 babies in 19 states.
+- Organic West Milk Inc. supplied raw milk to the Dairy Farmers of America processing plant in Fallon, Nevada.
+- Bill Van Ryn, owner of Organic West Milk, said 'Nothing has been proven about our milk yet.'
 
 Organic whole milk powder linked to the ByHeart baby formula outbreak—which has sickened 51 infants in 19 states—tested positive for the bacteria that causes botulism, according to the Associated Press. The contaminated powder was supplied by Organic West Milk Inc., a California company, and processed at a Dairy Farmers of America facility in Fallon, Nevada, though officials said the source of the contamination remains unknown.
 
@@ -136,111 +117,135 @@ ByHeart infant formula has recalled all of its products. The outbreak has sicken
 
 ## Atomic claims
 
-### c_001 — attributed, primary document
-**Subject entities:** Organic West Milk Inc.; milk powder
-**Predicate:** tested_positive_for
-**Object:** botulism bacteria (pathogen)
-**Temporal:** 2026-01-28
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Organic West Milk Inc.; milk powder
+- **Predicate:** tested_positive_for
+- **Object:** botulism bacteria (pathogen)
+- **Temporal:** 2026-01-28
+- **Sources:** src_001
 
 > Organic whole milk powder linked to ByHeart baby formula tested positive for the bacteria that causes botulism.
 
-### c_002 — confirmed, primary document
-**Subject entities:** ByHeart baby formula; infants
-**Predicate:** sickened
-**Object:** 51 babies in 19 states (health_impact)
-**Temporal:** 2026-01-28
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** ByHeart baby formula; infants
+- **Predicate:** sickened
+- **Object:** 51 babies in 19 states (health_impact)
+- **Temporal:** 2026-01-28
+- **Sources:** src_001
 
 > The outbreak has sickened 51 babies in 19 states.
 
-### c_003 — attributed, primary plus secondary
-**Subject entities:** Organic West Milk Inc.; Dairy Farmers of America
-**Predicate:** supplied_milk_to
-**Object:** raw milk for powder processing (business_transaction)
-**Temporal:** 2026-01-28
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** Organic West Milk Inc.; Dairy Farmers of America
+- **Predicate:** supplied_milk_to
+- **Object:** raw milk for powder processing (business_transaction)
+- **Temporal:** 2026-01-28
+- **Sources:** src_001
 
 > Organic West Milk Inc. supplied raw milk to the Dairy Farmers of America processing plant in Fallon, Nevada.
 
-### c_004 — attributed, single source
-**Subject entities:** Bill Van Ryn
-**Predicate:** stated
-**Object:** nothing proven about contamination source (direct_quote)
-**Temporal:** 2026-01-28
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Bill Van Ryn
+- **Predicate:** stated
+- **Object:** nothing proven about contamination source (direct_quote)
+- **Temporal:** 2026-01-28
+- **Sources:** src_001
 
 > Bill Van Ryn, owner of Organic West Milk, said 'Nothing has been proven about our milk yet.'
 
-### c_005 — reported, single source
-**Subject entities:** Bill Van Ryn
-**Predicate:** speculated_about_contamination_source
-**Object:** contamination during processing or manufacturing (statement)
-**Temporal:** 2026-01-28
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Bill Van Ryn
+- **Predicate:** speculated_about_contamination_source
+- **Object:** contamination during processing or manufacturing (statement)
+- **Temporal:** 2026-01-28
+- **Sources:** src_001
 
 > Van Ryn said contamination may have occurred during milk powder processing or formula manufacturing.
 
-### c_006 — confirmed, primary document
-**Subject entities:** FDA; Organic West Milk Inc.; Dairy Farmers of America
-**Predicate:** acknowledged_unknown
-**Object:** source of botulism contamination (unknown_fact)
-**Temporal:** 2026-01-28
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** FDA; Organic West Milk Inc.; Dairy Farmers of America
+- **Predicate:** acknowledged_unknown
+- **Object:** source of botulism contamination (unknown_fact)
+- **Temporal:** 2026-01-28
+- **Sources:** src_001
 
 > The source of the contamination has not been determined.
 
-### c_007 — attributed, single source
-**Subject entities:** Dairy Farmers of America
-**Predicate:** met_required_tests
-**Object:** all required safety and quality tests (compliance_statement)
-**Temporal:** 2026-01-28
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Dairy Farmers of America
+- **Predicate:** met_required_tests
+- **Object:** all required safety and quality tests (compliance_statement)
+- **Temporal:** 2026-01-28
+- **Sources:** src_001
 
 > The Dairy Farmers of America stated that milk powder processed from Organic West milk met all required tests.
 
-### c_008 — attributed, primary document
-**Subject entities:** botulism; infant formula
-**Predicate:** is_first_large_outbreak
-**Object:** first large botulism outbreak in infant formula (historical_fact)
-**Temporal:** 2026-01-28
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** botulism; infant formula
+- **Predicate:** is_first_large_outbreak
+- **Object:** first large botulism outbreak in infant formula (historical_fact)
+- **Temporal:** 2026-01-28
+- **Sources:** src_001
 
 > This is the first large outbreak of botulism linked to infant formula.
 
-### c_009 — attributed, primary document
-**Subject entities:** pasteurization; botulism spores
-**Predicate:** does_not_kill
-**Object:** botulism spores remain viable after pasteurization (scientific_fact)
-**Temporal:** 2026-01-28
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** pasteurization; botulism spores
+- **Predicate:** does_not_kill
+- **Object:** botulism spores remain viable after pasteurization (scientific_fact)
+- **Temporal:** 2026-01-28
+- **Sources:** src_001
 
 > Pasteurization does not kill botulism spores.
 
-### c_010 — attributed, primary document
-**Subject entities:** infants; botulism spores
-**Predicate:** vulnerable_to
-**Object:** botulism infection from spore germination (medical_vulnerability)
-**Temporal:** 2026-01-28
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** infants; botulism spores
+- **Predicate:** vulnerable_to
+- **Object:** botulism infection from spore germination (medical_vulnerability)
+- **Temporal:** 2026-01-28
+- **Sources:** src_001
 
 > Infants are vulnerable to botulism because their digestive systems are immature and may not prevent spores from germinating.
 
-### c_011 — confirmed, primary document
-**Subject entities:** FDA
-**Predicate:** does_not_require
-**Object:** testing for botulism bacteria in infant formula (regulatory_requirement)
-**Temporal:** 2026-01-28
-**Source IDs:** src_001
+### c_011
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** FDA
+- **Predicate:** does_not_require
+- **Object:** testing for botulism bacteria in infant formula (regulatory_requirement)
+- **Temporal:** 2026-01-28
+- **Sources:** src_001
 
 > The FDA does not require testing for botulism in infant formula, though some manufacturers voluntarily screen for contamination.
 
-### c_012 — attributed, single source
-**Subject entities:** Organic West Milk Inc.; ByHeart
-**Predicate:** supplied_exclusively_to
-**Object:** organic whole milk powder for infant formula (business_exclusive)
-**Temporal:** 2026-01-28
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Organic West Milk Inc.; ByHeart
+- **Predicate:** supplied_exclusively_to
+- **Object:** organic whole milk powder for infant formula (business_exclusive)
+- **Temporal:** 2026-01-28
+- **Sources:** src_001
 
 > Organic West did not sell organic whole milk powder to any infant formula maker other than ByHeart.
 
@@ -249,10 +254,5 @@ ByHeart infant formula has recalled all of its products. The outbreak has sicken
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** JoNel Aleccia
 **Publication date:** 2026-01-28
-**Access date:** 2026-01-28
 **Title:** Organic West Milk, Dairy Farmers of America linked to ByHeart formula recall
 **URL:** https://apnews.com/article/byheart-west-milk-dairy-farmers-of-america-cdbc131b7e1c144a2635f369739d62f2
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

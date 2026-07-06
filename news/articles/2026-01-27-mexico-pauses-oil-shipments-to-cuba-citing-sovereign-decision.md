@@ -21,8 +21,7 @@ topic_tags:
   - "international relations"
   - politics
 storyline_nexus:
-  - us-administration-2026
-  - venezuela-crisis
+- us-cuba-relations-escalation
 geographic_location: Mexico, Cuba
 floor_values_engaged:
 - value: accountability_of_power
@@ -260,7 +259,3 @@ The Cuban government and Pemex did not immediately respond to requests for comme
 **Access date:** 2026-01-27
 **Title:** Sheinbaum says Mexico has paused oil shipments to Cuba
 **URL:** https://apnews.com/article/mexico-cuba-oil-shipments-trump-venezuela-fb5f082572ee12144908f45802448f67
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

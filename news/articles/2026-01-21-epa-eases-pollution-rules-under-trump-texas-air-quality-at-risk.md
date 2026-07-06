@@ -19,45 +19,41 @@ primary_themes:
 - Energy policy
 - Public health
 topic_tags:
-  - "climate change"
-  - conservation
-  - "crime, law and justice"
-  - environment
-  - health
-  - politics
-storyline_nexus: []
-geographic_location: Texas, United States
+- environment
+- pollution
+- government policy
+- climate change
+- energy and resource
+storyline_nexus:
+- trump-climate-energy-rollbacks
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
   intensity: 0.9
-- value: truthfulness
-  intensity: 0.85
 - value: accountability_of_power
-  intensity: 0.85
-- value: informed_citizenship
-  intensity: 0.75
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+  intensity: 0.9
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:28:33Z'
 source_cluster_id: cluster_ap_2026-01-22_lee-zeldin-industry-regulation-pollution
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 13
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 3
     reported: 3
-    contested: 0
     confirmed: 7
+    appears: 0
+    contested: 0
+    attributed: 3
+    alleged: 0
   corroboration:
-    primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
-    primary_document: 8
     single_source: 5
+    primary_plus_secondary: 0
+    primary_document: 8
     two_independent: 0
 sources:
   count: 1
@@ -72,41 +68,20 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-04-15-epa-proposes-reclassifying-plastic-pyrolysis-potentially-gutting-air-pollution-c
-  relation: related
-  strength: 0.8225
-  confidence: medium
-- slug: 2026-01-13-epa-drops-health-benefit-calculations-from-air-pollution-rules-under-trump
-  relation: related
-  strength: 0.837
-  confidence: medium
-- slug: 2025-12-30-trump-s-epa-cuts-pollution-rules-and-staff-in-fossil-fuel-pivot
-  relation: related
-  strength: 0.8705
-  confidence: medium
-- slug: 2026-01-13-epa-proposes-limits-on-state-clean-water-act-authority-for-pipelines-and-data-ce
-  relation: related
-  strength: 0.791
-  confidence: medium
-- slug: 2026-01-07-trump-white-house-rescinds-nepa-regulations-to-speed-energy-project-approvals
-  relation: related
-  strength: 0.8186
-  confidence: medium
-- slug: 2025-12-30-zeldin-s-epa-cuts-enforcement-and-staff-as-fossil-fuel-friendly-pivot-takes-hold
-  relation: related
-  strength: 0.8598
-  confidence: medium
-- slug: 2026-01-08-trump-pulls-u-s-from-un-climate-framework-experts-warn-of-global-damage
-  relation: related
-  strength: 0.7507
-  confidence: medium
-- slug: 2026-01-07-trump-signs-order-pulling-us-from-66-international-bodies-including-un-climate-t
-  relation: related
-  strength: 0.7402
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- The EPA is easing pollution rules under Trump. Here’s how it’s affecting Texas
+- “If we were a state that was open to doing our own regulations there’d be less impact from these rollbacks,” Reed said. “But we’re not.”
+- “Now we have an EPA that isn’t interested in enforcing its own rules,” he added.
+- Texas doesn’t have a rule to capture escaping methane emissions from energy infrastructure. Richter, the TCEQ spokesperson, said the agency continues to work toward developing the state plan.
+- Adrian Shelley, Texas director of the watchdog group Public Citizen, said the rule represented a rare moment of alignment between environmentalists and major oil and gas producers.
+- Fine particulate matter or PM 2.5, one of six pollutants regulated under the Clean Air Act, has been called by researchers the deadliest form of air pollution.
 
 Environmental Protection Agency Administrator Lee Zeldin announced 31 deregulatory actions within President Trump's first 100 days in office, targeting federal pollution standards from methane emissions to the legal framework obligating the EPA to regulate climate-changing pollution. Zeldin called the actions the agency's "greatest day of deregulation."
 
@@ -160,126 +135,148 @@ Cyrus Reed, conservation director of the Lone Star Chapter of the Sierra Club, s
 
 Reed added that with the federal retreat, "now we have an EPA that isn't interested in enforcing its own rules."
 
----
-
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Lee Zeldin; EPA
-**Predicate:** announced
-**Object:** 31 deregulatory actions (policy_action)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Lee Zeldin; EPA
+- **Predicate:** announced
+- **Object:** 31 deregulatory actions (policy_action)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Lee Zeldin announced 31 deregulatory actions within Trump's first 100 days as EPA administrator.
 
-### c_002 — attributed, single source
-**Subject entities:** EPA
-**Predicate:** targeted
-**Object:** methane standards, PM2.5 standards, Endangerment Finding (regulatory_targets)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** EPA
+- **Predicate:** targeted
+- **Object:** methane standards, PM2.5 standards, Endangerment Finding (regulatory_targets)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > The 31 actions targeted methane emissions rules, soot standards, and the Endangerment Finding.
 
-### c_003 — reported, single source
-**Subject entities:** EPA
-**Predicate:** froze_and_reduced
-**Object:** research grants and workforce (agency_action)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** EPA
+- **Predicate:** froze_and_reduced
+- **Object:** research grants and workforce (agency_action)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > The EPA froze research grants and shrank its workforce.
 
-### c_004 — confirmed, primary document
-**Subject entities:** EPA
-**Predicate:** extended
-**Object:** January 2027 (deadline)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** EPA
+- **Predicate:** extended
+- **Object:** January 2027 (deadline)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > The EPA extended the deadline for states to implement methane rules from 2025 to January 2027.
 
-### c_005 — confirmed, primary document
-**Subject entities:** Texas
-**Predicate:** has_not_developed
-**Object:** methane implementation plan (policy_action)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Texas
+- **Predicate:** has_not_developed
+- **Object:** methane implementation plan (policy_action)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Texas has not developed a plan to implement methane emissions rules.
 
-### c_006 — reported, single source
-**Subject entities:** New Mexico
-**Predicate:** achieved
-**Object:** half methane emissions vs Texas despite doubled production (environmental_outcome)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** New Mexico
+- **Predicate:** achieved
+- **Object:** half methane emissions vs Texas despite doubled production (environmental_outcome)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > New Mexico methane regulations achieved half the methane emissions of the Texas portion of the Permian Basin despite doubling production since 2020.
 
-### c_007 — confirmed, primary document
-**Subject entities:** EPA
-**Predicate:** lowered
-**Object:** 9 micrograms per cubic meter (from 12) (regulatory_standard)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** EPA
+- **Predicate:** lowered
+- **Object:** 9 micrograms per cubic meter (from 12) (regulatory_standard)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > In 2024, the EPA lowered the PM2.5 annual standard from 12 to 9 micrograms per cubic meter.
 
-### c_008 — reported, primary document
-**Subject entities:** Dallas County; Harris County; Tarrant County; Bowie County
-**Predicate:** were_being_designated_as
-**Object:** nonattainment areas (regulatory_designation)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Dallas County; Harris County; Tarrant County; Bowie County
+- **Predicate:** were_being_designated_as
+- **Object:** nonattainment areas (regulatory_designation)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Under the stricter PM2.5 standard, Dallas, Houston, Fort Worth, and Texarkana counties were in the process of being designated as nonattainment areas.
 
-### c_009 — confirmed, primary document
-**Subject entities:** EPA
-**Predicate:** asked_to_vacate
-**Object:** PM2.5 standard (regulatory_action)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** EPA
+- **Predicate:** asked_to_vacate
+- **Object:** PM2.5 standard (regulatory_action)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > The Trump EPA asked a federal appeals court to vacate the stricter PM2.5 standard.
 
-### c_010 — confirmed, primary document
-**Subject entities:** EPA
-**Predicate:** proposed
-**Object:** elimination of Greenhouse Gas Reporting Program (policy_proposal)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** EPA
+- **Predicate:** proposed
+- **Object:** elimination of Greenhouse Gas Reporting Program (policy_proposal)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > The EPA proposed eliminating the Greenhouse Gas Reporting Program.
 
-### c_011 — attributed, single source
-**Subject entities:** Environmental groups; Industry
-**Predicate:** oppose
-**Object:** elimination of Greenhouse Gas Reporting Program (position)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Environmental groups; Industry
+- **Predicate:** oppose
+- **Object:** elimination of Greenhouse Gas Reporting Program (position)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > The proposal to eliminate emissions reporting has drawn opposition from both environmental groups and industry.
 
-### c_012 — confirmed, primary document
-**Subject entities:** EPA
-**Predicate:** proposed_to_rescind
-**Object:** Endangerment Finding (policy_proposal)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_012
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** EPA
+- **Predicate:** proposed_to_rescind
+- **Object:** Endangerment Finding (policy_proposal)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > The EPA proposed rescinding the Endangerment Finding, the 2009 legal basis for EPA climate regulation.
 
-### c_013 — confirmed, primary document
-**Subject entities:** EPA
-**Predicate:** announced_will_stop
-**Object:** calculating health care cost savings from pollution regulations (agency_action)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_013
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** EPA
+- **Predicate:** announced_will_stop
+- **Object:** calculating health care cost savings from pollution regulations (agency_action)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > The EPA announced it will stop calculating health care cost savings from air pollution regulations.
 
@@ -288,10 +285,5 @@ This article was generated algorithmically by Main Street Independent's News Art
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Alejandra Martinez / The Texas Tribune
 **Publication date:** 2026-01-21
-**Access date:** 2026-01-21
-**Title:** The EPA is easing pollution rules under Trump. Here's how it's affecting Texas
+**Title:** The EPA is easing pollution rules under Trump. Here’s how it’s affecting Texas
 **URL:** https://apnews.com/article/lee-zeldin-industry-regulation-pollution-texas-u-s-environmental-protection-agency-1432dbbcd7edb4b62dabbbd298eba2af
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

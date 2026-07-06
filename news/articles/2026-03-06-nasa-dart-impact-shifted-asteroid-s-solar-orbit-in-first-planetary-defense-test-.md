@@ -240,7 +240,3 @@ The DART mission, launched in 2021 as the world's first planetary defense exerci
 **Access date:** 2026-05-17
 **Title:** Spacecraft's impact changed asteroid's orbit around the sun in a save-the-Earth test, study finds
 **URL:** https://apnews.com/article/asteroid-nasa-draft-dimorphos-9abccd32d4cb532a66249dd6145685cb
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

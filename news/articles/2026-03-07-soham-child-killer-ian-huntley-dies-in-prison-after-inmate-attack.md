@@ -273,7 +273,3 @@ British media reported that Anthony Russell, 43, was responsible for the Feb. 26
 **Access date:** 2026-05-17
 **Title:** Soham murderer Ian Huntley dies in UK prison
 **URL:** https://apnews.com/article/ian-huntley-soham-britain-child-killer-prison-955d00a84149b3330abc6dbc48aedc11
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

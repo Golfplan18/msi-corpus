@@ -1,6 +1,5 @@
 ---
 headline: Trump blasts defense contractor dividends, then proposes $1.5 trillion military budget
-slug: 2026-01-08-trump-blasts-defense-contractors-then-proposes-1-5-trillion-budget
 publish_date: '2026-01-08'
 lede: 'Defense contractor shares swung sharply this week after President Donald Trump criticized major military suppliers on Truth Social for paying billions in dividends and stock buybacks while underinvesting in production capacity, then reversed investor anxiety by proposing a $1.5 trillion defense budget for fiscal year 2027.
 
@@ -20,42 +19,41 @@ primary_themes:
 - stock markets
 - executive compensation
 topic_tags:
-  - "conflict, war and peace"
-  - government
-  - "international relations"
-  - "monetary policy"
-  - "political dissent"
-  - politics
-storyline_nexus: []
+- government policy
+- economy, business and finance
+- conflict, war and peace
+- macroeconomics
+storyline_nexus:
+- trump-tariff-wars
 geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.85
 - value: accountability_of_power
-  intensity: 0.7
-framework_version: 1.1.0
-generation_timestamp: '2026-01-08T00:00:00Z'
+  intensity: 0.9
+- value: human_life_and_dignity
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-22T23:59:23Z'
 source_cluster_id: cluster_ap_2026-01-07_trump-defense-contractors-dividends-buyb
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 10
   hedges:
     appears: 0
-    alleged: 0
-    attributed: 2
-    reported: 0
-    contested: 0
     confirmed: 8
+    contested: 0
+    reported: 0
+    attributed: 2
+    alleged: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 2
     single_source: 8
+    one_originating_plus_primary_document: 0
     two_independent: 0
+    primary_plus_secondary: 0
+    primary_document: 2
 sources:
   count: 1
   outlets:
@@ -73,13 +71,18 @@ image:
   url: /articles/2026-01-08-trump-blasts-defense-contractor-dividends-then-proposes-1-5-trillion-military-bu.png
   alt: 'Illustration accompanying article: Trump blasts defense contractor dividends, then proposes $1.5 trillion military'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-05-faa-picks-rtx-and-indra-to-replace-612-outdated-radar-systems-by-summer-2028
-  relation: related
-  strength: 0.721
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Summary point 1.
+- Summary point 2.
+- Summary point 3.
+- Summary point 4.
 
 Defense contractor shares swung sharply this week after President Donald Trump criticized major military suppliers on Truth Social for paying billions in dividends and stock buybacks while underinvesting in production capacity, then reversed investor anxiety by proposing a $1.5 trillion defense budget for fiscal year 2027.
 
@@ -109,93 +112,113 @@ The budget proposal lifted contractor shares. Lockheed Martin rose 4.3%, Northro
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Donald Trump; U.S. defense contractors
-**Predicate:** criticized_via_social_media
-**Object:** dividends and buybacks instead of production investment (policy_criticism)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Donald Trump; U.S. defense contractors
+- **Predicate:** criticized_via_social_media
+- **Object:** dividends and buybacks instead of production investment (policy_criticism)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Trump posted on Truth Social criticizing defense contractors for paying massive dividends and stock buybacks while underinvesting in plants and equipment.
 
-### c_002 — attributed, single source
-**Subject entities:** Donald Trump
-**Predicate:** threatened_policy
-**Object:** ban on dividends and buybacks for defense companies (policy_threat)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** threatened_policy
+- **Object:** ban on dividends and buybacks for defense companies (policy_threat)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Trump said he will not permit dividends or stock buybacks for defense companies until production and maintenance problems are rectified.
 
-### c_003 — confirmed, primary document
-**Subject entities:** Donald Trump
-**Predicate:** proposed
-**Object:** $1.5 trillion (budget_figure)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Donald Trump
+- **Predicate:** proposed
+- **Object:** $1.5 trillion (budget_figure)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Trump proposed a $1.5 trillion defense budget for fiscal year 2027.
 
-### c_004 — confirmed, single source
-**Subject entities:** U.S. defense budget
-**Predicate:** allocated
-**Object:** $901 billion (budget_figure)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. defense budget
+- **Predicate:** allocated
+- **Object:** $901 billion (budget_figure)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > The defense budget allocated for 2026 was $901 billion.
 
-### c_005 — attributed, single source
-**Subject entities:** Donald Trump; defense industry executives
-**Predicate:** proposed_cap
-**Object:** $5 million executive pay cap (policy_proposal)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; defense industry executives
+- **Predicate:** proposed_cap
+- **Object:** $5 million executive pay cap (policy_proposal)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Trump said executive pay packages in the defense industry are exorbitant and unjustifiable, and proposed that no executive be allowed to earn more than $5 million until new production facilities are built.
 
-### c_006 — confirmed, single source
-**Subject entities:** Lockheed Martin
-**Predicate:** share_price_movement
-**Object:** fell 4.8%, then rose 4.3% (stock_movement)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Lockheed Martin
+- **Predicate:** share_price_movement
+- **Object:** fell 4.8%, then rose 4.3% (stock_movement)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Lockheed Martin shares fell 4.8% after Trump's criticism, then rose 4.3%.
 
-### c_007 — confirmed, single source
-**Subject entities:** Northrop Grumman
-**Predicate:** share_price_movement
-**Object:** fell 5.5%, then rose 2.4% (stock_movement)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Northrop Grumman
+- **Predicate:** share_price_movement
+- **Object:** fell 5.5%, then rose 2.4% (stock_movement)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Northrop Grumman shares fell 5.5% after Trump's criticism, then rose 2.4%.
 
-### c_008 — confirmed, single source
-**Subject entities:** General Dynamics
-**Predicate:** share_price_movement
-**Object:** fell 4.2%, then added 1.7% (stock_movement)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** General Dynamics
+- **Predicate:** share_price_movement
+- **Object:** fell 4.2%, then added 1.7% (stock_movement)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > General Dynamics shares fell 4.2% after Trump's criticism, then added 1.7%.
 
-### c_009 — confirmed, single source
-**Subject entities:** RTX; Raytheon
-**Predicate:** share_price_movement
-**Object:** fell 2.5%, then rose 0.8% (stock_movement)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** RTX; Raytheon
+- **Predicate:** share_price_movement
+- **Object:** fell 2.5%, then rose 0.8% (stock_movement)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > RTX, the parent of Raytheon, fell 2.5% after Trump's criticism, then rose 0.8%.
 
-### c_010 — confirmed, single source
-**Subject entities:** Donald Trump; RTX; Raytheon
-**Predicate:** named_specifically
-**Object:** singled out in social media posts (specific_mention)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; RTX; Raytheon
+- **Predicate:** named_specifically
+- **Object:** singled out in social media posts (specific_mention)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Trump singled out RTX and its subsidiary Raytheon in his Truth Social posts.
 
@@ -204,10 +227,5 @@ The budget proposal lifted contractor shares. Lockheed Martin rose 4.3%, Northro
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Associated Press
 **Publication date:** 2026-01-08
-**Access date:** 2026-01-08
 **Title:** Trump's proposed $1.5 trillion defense budget sends shares higher
 **URL:** https://apnews.com/article/trump-defense-contractors-dividends-buybacks-876b67b72369551340124c5e137bc89d
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

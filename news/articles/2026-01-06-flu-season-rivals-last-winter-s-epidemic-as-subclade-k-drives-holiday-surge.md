@@ -15,13 +15,14 @@ primary_themes:
 - vaccine policy
 - federal health administration
 topic_tags:
-  - politics
-  - health
-  - "government policy"
-  - "weather warning"
-  - "public health"
-  - "disaster, accident and emergency incident"
-storyline_nexus: []
+- politics
+- health
+- government policy
+- weather warning
+- public health
+- disaster, accident and emergency incident
+storyline_nexus:
+- trump-health-policy-rfk
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -70,15 +71,7 @@ image:
   url: /articles/2026-01-06-flu-season-rivals-last-winter-s-epidemic-as-subclade-k-drives-holiday-surge.png
   alt: 'Illustration accompanying article: Flu season rivals last winter''s epidemic as subclade K drives holiday surge'
   source: ai_generated
-cross_article_links:
-- slug: 2025-12-30-flu-subclade-k-drives-rapid-rise-in-us-cases-cdc-reports
-  relation: related
-  strength: 0.9033
-  confidence: medium
-- slug: 2025-12-30-subclade-k-flu-variant-drives-us-surge-vaccine-still-offers-partial-protection
-  relation: related
-  strength: 0.8998
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
 
@@ -126,128 +119,156 @@ COVID-19 infections have also been rising, according to other federal data, thou
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** United States
-**Predicate:** reported_flu_activity_level
-**Object:** high or very high (cdc_surveillance_classification)
-**Temporal:** 2025-12-21/2025-12-27
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** United States
+- **Predicate:** reported_flu_activity_level
+- **Object:** high or very high (cdc_surveillance_classification)
+- **Temporal:** 2025-12-21/2025-12-27
+- **Sources:** src_001
 
 > Forty-five states reported high or very high flu activity during the week of Christmas.
 
-### c_002 — confirmed, primary document
-**Subject entities:** United States
-**Predicate:** reported_flu_activity_level
-**Object:** high or very high (cdc_surveillance_classification)
-**Temporal:** 2025-12-14/2025-12-20
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** United States
+- **Predicate:** reported_flu_activity_level
+- **Object:** high or very high (cdc_surveillance_classification)
+- **Temporal:** 2025-12-14/2025-12-20
+- **Sources:** src_001
 
 > Thirty states reported high or very high flu activity the week before Christmas.
 
-### c_003 — attributed, primary document
-**Subject entities:** Centers for Disease Control and Prevention
-**Predicate:** estimated_seasonal_burden
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Centers for Disease Control and Prevention
+- **Predicate:** estimated_seasonal_burden
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > The CDC estimated at least 11 million illnesses, 120,000 hospitalizations, and 5,000 deaths from flu had occurred so far this season.
 
-### c_004 — reported, primary document
-**Subject entities:** influenza A H3N2; subclade K variant
-**Predicate:** constitutes_fraction_of_analyzed_infections
-**Object:** >90% (genomic_surveillance_proportion)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** influenza A H3N2; subclade K variant
+- **Predicate:** constitutes_fraction_of_analyzed_infections
+- **Object:** >90% (genomic_surveillance_proportion)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > More than 90 percent of H3N2 infections analyzed so far were the subclade K variant, which differs from the strain in this year's flu shots.
 
-### c_005 — confirmed, primary document
-**Subject entities:** United States; children
-**Predicate:** pediatric_flu_deaths_reported
-**Object:** 9 (death_count)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** United States; children
+- **Predicate:** pediatric_flu_deaths_reported
+- **Object:** 9 (death_count)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > Nine pediatric flu deaths had been reported so far this season.
 
-### c_006 — confirmed, primary document
-**Subject entities:** United States; children
-**Predicate:** ed_visit_rate_exceeds_prior_season_peak
-**Object:** surveillance_comparison
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** United States; children
+- **Predicate:** ed_visit_rate_exceeds_prior_season_peak
+- **Object:** surveillance_comparison
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > The percentage of emergency department visits due to flu among children had already surpassed the highest mark seen during the 2024-2025 season.
 
-### c_007 — reported, single source
-**Subject entities:** United States
-**Predicate:** flu_hospitalization_rate_historical_comparison
-**Object:** highest since H1N1 pandemic
-**Temporal:** 2024-2025
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** United States
+- **Predicate:** flu_hospitalization_rate_historical_comparison
+- **Object:** highest since H1N1 pandemic
+- **Temporal:** 2024-2025
+- **Sources:** src_001
 
 > Last flu season's overall hospitalization rate was the highest since the H1N1 flu pandemic 15 years ago.
 
-### c_008 — reported, single source
-**Subject entities:** United States; children
-**Predicate:** pediatric_flu_deaths
-**Object:** 288 (death_count)
-**Temporal:** 2024-2025
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** United States; children
+- **Predicate:** pediatric_flu_deaths
+- **Object:** 288 (death_count)
+- **Temporal:** 2024-2025
+- **Sources:** src_001
 
 > Child flu deaths reached 288 last season, the worst recorded for a regular U.S. flu season.
 
-### c_009 — confirmed, primary document
-**Subject entities:** U.S. Department of Health and Human Services
-**Predicate:** announced_policy_change
-**Object:** vaccine_recommendation_removal
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Department of Health and Human Services
+- **Predicate:** announced_policy_change
+- **Object:** vaccine_recommendation_removal
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > Federal health officials announced they will no longer recommend flu vaccinations for U.S. children, saying it is a decision parents and patients should make in consultation with their doctors.
 
-### c_010 — attributed, single source
-**Subject entities:** U.S. Department of Health and Human Services
-**Predicate:** coverage_status_unchanged
-**Object:** insurance_coverage_continuation
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Department of Health and Human Services
+- **Predicate:** coverage_status_unchanged
+- **Object:** insurance_coverage_continuation
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > Flu vaccine will continue to be fully covered by private insurers and federal programs including Medicaid, the Children's Health Insurance Program, and the Vaccines for Children program.
 
-### c_011 — confirmed, primary document
-**Subject entities:** U.S. Department of Health and Human Services; Medicaid
-**Predicate:** reporting_requirement_eliminated
-**Object:** regulatory_change
-**Temporal:** 2025-12-29/2026-01-05
-**Source IDs:** src_001
+### c_011
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Department of Health and Human Services; Medicaid
+- **Predicate:** reporting_requirement_eliminated
+- **Object:** regulatory_change
+- **Temporal:** 2025-12-29/2026-01-05
+- **Sources:** src_001
 
 > A federal notice posted the prior week stated that government Medicaid programs will no longer be required to report on immunization rates.
 
-### c_012 — attributed, single source
-**Subject entities:** Robert Hopkins; National Foundation for Infectious Diseases
-**Predicate:** said
-**Object:** expert_assessment
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Robert Hopkins; National Foundation for Infectious Diseases
+- **Predicate:** said
+- **Object:** expert_assessment
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > Dr. Robert Hopkins, medical director of the National Foundation for Infectious Diseases, said steady increases over several weeks without a decline or flattening suggest the peak is still ahead.
 
-### c_013 — attributed, single source
-**Subject entities:** Robert Hopkins
-**Predicate:** said
-**Object:** expert_criticism
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Robert Hopkins
+- **Predicate:** said
+- **Object:** expert_criticism
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > Hopkins said the Medicaid reporting change will eliminate a major source of data for assessing community efforts to protect children from vaccine-preventable diseases.
 
-### c_014 — confirmed, primary document
-**Subject entities:** Robert F. Kennedy Jr.; U.S. Department of Health and Human Services
-**Predicate:** wrote_on_social_media
-**Object:** public_statement
-**Temporal:** 2025-12-29/2026-01-05
-**Source IDs:** src_001
+### c_014
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Robert F. Kennedy Jr.; U.S. Department of Health and Human Services
+- **Predicate:** wrote_on_social_media
+- **Object:** public_statement
+- **Temporal:** 2025-12-29/2026-01-05
+- **Sources:** src_001
 
 > Health Secretary Robert F. Kennedy Jr. wrote on social media that government bureaucracies should never coerce doctors or families into accepting vaccines or penalize physicians for respecting patient choice.
 
@@ -259,7 +280,3 @@ COVID-19 infections have also been rising, according to other federal data, thou
 **Access date:** 2026-01-06
 **Title:** US flu virus cases rise, CDC officials warn of severe season
 **URL:** https://apnews.com/article/us-flu-cases-cdc-subclade-k-29cc5a68eb100585c8e0dbd2ec47b3eb
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

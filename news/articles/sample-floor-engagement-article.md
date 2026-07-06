@@ -101,7 +101,3 @@ This is not a real article. The publication pipeline has not yet been deployed. 
 **Access date:** 2026-05-04
 **Title:** Sample primary document corroborating the wire report
 **URL:** https://example.gov/sample-primary-document
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

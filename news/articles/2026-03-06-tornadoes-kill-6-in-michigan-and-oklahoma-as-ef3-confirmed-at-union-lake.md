@@ -18,40 +18,40 @@ primary_themes:
 - emergency response
 - tornado season
 topic_tags:
-  - "crime"
-  - "crime, law and justice"
-  - "disaster, accident and emergency incident"
-  - "natural disaster"
-storyline_nexus: []
-geographic_location: Michigan and Oklahoma, United States
+- natural disaster
+- disaster, accident and emergency incident
+- weather
+storyline_nexus:
+- extreme-weather-disasters
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
   intensity: 0.9
-- value: informed_citizenship
-  intensity: 0.7
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:46:08Z'
+- value: truthfulness
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:37:58Z'
 source_cluster_id: cluster_ap_2026-03-05_severe-weather-storm-tornado-midwest-okl
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 12
   hedges:
-    appears: 0
     alleged: 0
+    appears: 0
+    contested: 0
     attributed: 8
     reported: 1
-    contested: 0
     confirmed: 3
   corroboration:
     primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 1
-    single_source: 11
+    one_originating_plus_primary_document: 0
     two_independent: 0
+    single_source: 11
 sources:
   count: 1
   outlets:
@@ -65,13 +65,17 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-08-two-tornadoes-strike-oklahoma-at-sunrise-damaging-buildings-and-knocking-out-pow
-  relation: related
-  strength: 0.8426
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- The deaths come near the start of what many call tornado season, with the storm system producing at least seven preliminary tornado tracks in eastern Oklahoma alone and a continuing threat of sever...
+- UNION CITY, Mich. — Authorities searched through rubble and debris in southern Michigan on Saturday after suspected tornadoes killed four people, i...
+- The National Weather Service confirmed an EF3 tornado with winds of at least 150 mph (241 kph) struck the Union Lake area near Union City and dispa...
+- Meteorologist Lonnie Fisher of the National Weather Service said severe thunderstorms that originated in northern Indiana appeared to spawn multipl...
 
 The deaths come near the start of what many call tornado season, with the storm system producing at least seven preliminary tornado tracks in eastern Oklahoma alone and a continuing threat of severe weather stretching into the northeastern United States on Saturday.
 
@@ -115,111 +119,135 @@ Experts recommend keeping a weather radio and having a plan for shelter in place
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Union Lake; National Weather Service
-**Predicate:** confirmed_strike
-**Object:** EF3 tornado, winds ≥150 mph (241 kph) (weather_event)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Union Lake; National Weather Service
+- **Predicate:** confirmed_strike
+- **Object:** EF3 tornado, winds ≥150 mph (241 kph) (weather_event)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > An EF3 tornado with winds of at least 150 mph struck the Union Lake area near Union City, Michigan, on Friday.
 
-### c_002 — attributed, single source
-**Subject entities:** Union Lake area; Branch County Sheriff's Office
-**Predicate:** killed_and_injured
-**Object:** 3 killed, 12 injured (casualty_count)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Union Lake area; Branch County Sheriff's Office
+- **Predicate:** killed_and_injured
+- **Object:** 3 killed, 12 injured (casualty_count)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > Three people were killed and 12 were injured in the Union Lake area, according to the Branch County Sheriff's Office.
 
-### c_003 — attributed, single source
-**Subject entities:** Silas Anderson; Cass County; Clint Roach
-**Predicate:** died
-**Object:** possible tornado, Cass County (cause_of_death)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Silas Anderson; Cass County; Clint Roach
+- **Predicate:** died
+- **Object:** possible tornado, Cass County (cause_of_death)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > Silas Anderson, a 12-year-old boy, died after a possible tornado in Cass County; his parents found him injured and provided first aid before he was transported to a hospital where he later died.
 
-### c_004 — attributed, single source
-**Subject entities:** Lonnie Fisher; National Weather Service
-**Predicate:** assessed
-**Object:** most likely three distinct tornadoes in southern Michigan (weather_assessment)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Lonnie Fisher; National Weather Service
+- **Predicate:** assessed
+- **Object:** most likely three distinct tornadoes in southern Michigan (weather_assessment)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > Meteorologist Lonnie Fisher of the National Weather Service said severe thunderstorms that began in northern Indiana appeared to spawn multiple tornadoes in southern Michigan.
 
-### c_005 — attributed, single source
-**Subject entities:** Beggs; Okmulgee County; Okmulgee County Sheriff's Office
-**Predicate:** killed
-**Object:** 2 killed, 2 hospitalized (casualty_count)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Beggs; Okmulgee County; Okmulgee County Sheriff's Office
+- **Predicate:** killed
+- **Object:** 2 killed, 2 hospitalized (casualty_count)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > In Beggs, about 30 miles south of Tulsa, a tornado killed two people inside a house on Friday, according to the Okmulgee County Sheriff's Office.
 
-### c_006 — attributed, single source
-**Subject entities:** Okmulgee County; Jeff Moore
-**Predicate:** caused_damage
-**Object:** 4-mile (6.4 km) damage path, Okmulgee County (damage_extent)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Okmulgee County; Jeff Moore
+- **Predicate:** caused_damage
+- **Object:** 4-mile (6.4 km) damage path, Okmulgee County (damage_extent)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > The tornado cut a roughly 4-mile path of damage in Okmulgee County, felling large trees and causing power outages.
 
-### c_007 — attributed, single source
-**Subject entities:** National Weather Service; Oklahoma Emergency Operations Center
-**Predicate:** reported
-**Object:** 7 preliminary tornado tracks, eastern Oklahoma (weather_assessment)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** National Weather Service; Oklahoma Emergency Operations Center
+- **Predicate:** reported
+- **Object:** 7 preliminary tornado tracks, eastern Oklahoma (weather_assessment)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > The National Weather Service reported seven preliminary tornado tracks in eastern Oklahoma on Friday.
 
-### c_008 — attributed, single source
-**Subject entities:** Gretchen Whitmer; Michigan
-**Predicate:** declared_emergency
-**Object:** Branch, Cass, St. Joseph counties (geographic_scope)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Gretchen Whitmer; Michigan
+- **Predicate:** declared_emergency
+- **Object:** Branch, Cass, St. Joseph counties (geographic_scope)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > Michigan Gov. Gretchen Whitmer said she would declare a state of emergency in Branch, Cass, and St. Joseph counties.
 
-### c_009 — confirmed, single source
-**Subject entities:** Kevin Stitt; Oklahoma
-**Predicate:** declared_emergency
-**Object:** several Oklahoma counties (geographic_scope)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Kevin Stitt; Oklahoma
+- **Predicate:** declared_emergency
+- **Object:** several Oklahoma counties (geographic_scope)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > Oklahoma Gov. Kevin Stitt declared a state of emergency in several counties.
 
-### c_010 — confirmed, single source
-**Subject entities:** National Weather Service
-**Predicate:** issued_watches
-**Object:** eastern Ohio, northern West Virginia, western Pennsylvania and New York (geographic_scope)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** National Weather Service
+- **Predicate:** issued_watches
+- **Object:** eastern Ohio, northern West Virginia, western Pennsylvania and New York (geographic_scope)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > Tornado watches were posted Saturday for eastern Ohio, northern West Virginia, and western Pennsylvania and New York.
 
-### c_011 — attributed, single source
-**Subject entities:** Fairview; Oklahoma
-**Predicate:** killed
-**Object:** 2 killed in vehicle, Fairview, Oklahoma (casualty_count)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Fairview; Oklahoma
+- **Predicate:** killed
+- **Object:** 2 killed in vehicle, Fairview, Oklahoma (casualty_count)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > Storms killed a 47-year-old woman and her 13-year-old daughter in their vehicle in Fairview, western Oklahoma, the previous day.
 
-### c_012 — reported, single source
-**Subject entities:** Tulsa Tech Peoria campus; Tulsa
-**Predicate:** damaged
-**Object:** campus building, northern Tulsa (property_damage)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Tulsa Tech Peoria campus; Tulsa
+- **Predicate:** damaged
+- **Object:** campus building, northern Tulsa (property_damage)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > A building at the Tulsa Tech Peoria campus was damaged by a suspected tornado in northern Tulsa.
 
@@ -228,10 +256,5 @@ Experts recommend keeping a weather radio and having a plan for shelter in place
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Dave Collins
 **Publication date:** 2026-03-06
-**Access date:** 2026-05-17
 **Title:** Searches continue after suspected tornadoes kill 6 in Michigan and Oklahoma
 **URL:** https://apnews.com/article/severe-weather-storm-tornado-midwest-oklahoma-f4666951e5ef045520e839923b788cba
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

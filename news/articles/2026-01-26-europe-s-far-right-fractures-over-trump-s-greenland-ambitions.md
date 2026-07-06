@@ -20,7 +20,7 @@ topic_tags:
   - "international relations"
   - politics
 storyline_nexus:
-  - us-administration-2026
+- trump-greenland-ambitions
 geographic_location: Europe; Brussels; Hungary; France; Italy; Poland; Czech Republic; Slovakia
 floor_values_engaged:
 - value: truthfulness
@@ -260,7 +260,3 @@ But uncertainty remains about the durability of the alliance. "If Trump continue
 **Access date:** 2026-01-26
 **Title:** Trump's Greenland ambitions strain MAGA ties with Europe's far-right
 **URL:** https://apnews.com/article/trump-greenland-europe-far-right-maga-c6b44e151d81e990129c2d58ab0ee192
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

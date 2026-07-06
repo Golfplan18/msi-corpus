@@ -15,42 +15,43 @@ primary_themes:
 - media_and_entertainment
 - corporate_finance
 topic_tags:
-  - "artificial intelligence"
-  - "arts and entertainment"
-  - "arts, culture, entertainment and media"
-  - biotechnology
-  - "economy, business and finance"
-  - "mass media"
-storyline_nexus: []
+- business information
+- economy, business and finance
+- market and exchange
+- mass media
+storyline_nexus:
+- us-economic-volatility
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship
-  intensity: 0.8
+  intensity: 0.6
 - value: truthfulness
-  intensity: 0.7
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+  intensity: 0.3
+- value: accountability_of_power
+  intensity: 0.3
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:49:28Z'
 source_cluster_id: cluster_ap_2026-01-21_netflix-earnings-warner-bros-discovery-v
 gdelt_event_ids: []
-consensus_floor_version: v1.0
-publication_mindspec_version: v1.0
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 18
   hedges:
-    appears: 0
-    alleged: 0
     attributed: 10
-    reported: 1
     contested: 0
     confirmed: 7
+    alleged: 0
+    reported: 1
+    appears: 0
   corroboration:
-    primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
-    primary_document: 18
     single_source: 0
+    primary_document: 18
     two_independent: 0
+    primary_plus_secondary: 0
 sources:
   count: 1
   outlets:
@@ -64,17 +65,19 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-04-16-netflix-cofounder-reed-hastings-to-step-down-from-board-in-june
-  relation: related
-  strength: 0.7452
-  confidence: medium
-- slug: 2026-01-07-warner-bros-discovery-rejects-paramount-bid-again-backs-netflix-deal
-  relation: related
-  strength: 0.7477
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Netflix delivers solid 4th quarter, but stock sinks amid worries about slowing subscriber growth
+- Netflix earned $2.4 billion in Q4 2025, or 56 cents per share.
+- Netflix's Q4 2025 profit was up 29% year-over-year.
+- Netflix's Q4 2025 revenue rose to more than $12 billion.
+- Netflix's Q4 2025 revenue rose 18% year-over-year.
 
 Netflix reported fourth-quarter 2025 earnings Tuesday that beat analyst expectations on profit and revenue, but the company's subscriber growth dramatically slowed, adding about 23 million customers last year—far fewer than the 41 million it added in 2024 and a sign that growth in the world's largest streaming service may be plateauing.
 
@@ -100,165 +103,201 @@ Netflix will need to persuade U.S. regulators that acquiring HBO will not stifle
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Netflix, Inc.
-**Predicate:** earned
-**Object:** $2.4 billion (financial_result)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Netflix, Inc.
+- **Predicate:** earned
+- **Object:** $2.4 billion (financial_result)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > Netflix earned $2.4 billion in Q4 2025, or 56 cents per share.
 
-### c_002 — confirmed, primary document
-**Subject entities:** Netflix, Inc.
-**Predicate:** increased
-**Object:** 29% (percentage_change)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Netflix, Inc.
+- **Predicate:** increased
+- **Object:** 29% (percentage_change)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > Netflix's Q4 2025 profit was up 29% year-over-year.
 
-### c_003 — confirmed, primary document
-**Subject entities:** Netflix, Inc.
-**Predicate:** earned_revenue
-**Object:** >$12 billion (financial_result)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Netflix, Inc.
+- **Predicate:** earned_revenue
+- **Object:** >$12 billion (financial_result)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > Netflix's Q4 2025 revenue rose to more than $12 billion.
 
-### c_004 — confirmed, primary document
-**Subject entities:** Netflix, Inc.
-**Predicate:** increased
-**Object:** 18% (percentage_change)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Netflix, Inc.
+- **Predicate:** increased
+- **Object:** 18% (percentage_change)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > Netflix's Q4 2025 revenue rose 18% year-over-year.
 
-### c_005 — confirmed, primary document
-**Subject entities:** Netflix, Inc.
-**Predicate:** had_subscribers
-**Object:** >325 million (count)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Netflix, Inc.
+- **Predicate:** had_subscribers
+- **Object:** >325 million (count)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > Netflix ended 2025 with more than 325 million worldwide subscribers.
 
-### c_006 — confirmed, primary document
-**Subject entities:** Netflix, Inc.
-**Predicate:** added_subscribers
-**Object:** ~23 million (count)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Netflix, Inc.
+- **Predicate:** added_subscribers
+- **Object:** ~23 million (count)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > Netflix added approximately 23 million subscribers in 2025.
 
-### c_007 — confirmed, primary document
-**Subject entities:** Netflix, Inc.
-**Predicate:** added_subscribers
-**Object:** 41 million (count)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Netflix, Inc.
+- **Predicate:** added_subscribers
+- **Object:** 41 million (count)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > Netflix added 41 million subscribers in 2024.
 
-### c_008 — attributed, primary document
-**Subject entities:** Netflix, Inc.
-**Predicate:** experienced_slowdown
-**Object:** 23M vs 41M (comparative_metric)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Netflix, Inc.
+- **Predicate:** experienced_slowdown
+- **Object:** 23M vs 41M (comparative_metric)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > Netflix's 2025 subscriber growth marked a dramatic slowdown compared to 2024.
 
-### c_009 — attributed, primary document
-**Subject entities:** Netflix, Inc.
-**Predicate:** declined
-**Object:** ~5% (percentage_change)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Netflix, Inc.
+- **Predicate:** declined
+- **Object:** ~5% (percentage_change)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > Netflix's stock sank nearly 5% in extended trading Tuesday despite beating profit and revenue expectations.
 
-### c_010 — attributed, primary document
-**Subject entities:** Netflix, Inc.
-**Predicate:** declined
-**Object:** 20% (percentage_change)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Netflix, Inc.
+- **Predicate:** declined
+- **Object:** 20% (percentage_change)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > Netflix's stock has fallen 20% since its Warner Bros. Discovery acquisition agreement was announced.
 
-### c_011 — attributed, primary document
-**Subject entities:** Netflix, Inc.; Warner Bros. Discovery
-**Predicate:** converted_offer
-**Object:** stock-component to all-cash (transaction_change)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Netflix, Inc.; Warner Bros. Discovery
+- **Predicate:** converted_offer
+- **Object:** stock-component to all-cash (transaction_change)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > Netflix converted its Warner Bros. Discovery bid from a stock component to an all-cash offer.
 
-### c_012 — attributed, primary document
-**Subject entities:** Paramount Global; Warner Bros. Discovery
-**Predicate:** competing_to_acquire
-**Object:** Warner Bros. Discovery (target_entity)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Paramount Global; Warner Bros. Discovery
+- **Predicate:** competing_to_acquire
+- **Object:** Warner Bros. Discovery (target_entity)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > Paramount is competing to acquire Warner Bros. Discovery.
 
-### c_013 — attributed, primary document
-**Subject entities:** Netflix, Inc.
-**Predicate:** projected
-**Object:** 16% to 12-14% (growth_rate)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Netflix, Inc.
+- **Predicate:** projected
+- **Object:** 16% to 12-14% (growth_rate)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > Netflix projects revenue growth will slow from 16% in 2025 to 12-14% in 2026.
 
-### c_014 — attributed, primary document
-**Subject entities:** Netflix, Inc.
-**Predicate:** expected
-**Object:** double (growth_expectation)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Netflix, Inc.
+- **Predicate:** expected
+- **Object:** double (growth_expectation)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > Netflix expects its ad sales to double.
 
-### c_015 — attributed, primary document
-**Subject entities:** Netflix, Inc.
-**Predicate:** announced
-**Object:** stop stock buybacks (business_decision)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Netflix, Inc.
+- **Predicate:** announced
+- **Object:** stop stock buybacks (business_decision)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > Netflix will cease stock buybacks while pursuing the Warner Bros. deal.
 
-### c_016 — attributed, primary document
-**Subject entities:** Thomas Monteiro
-**Predicate:** said
-**Object:** challenging start to the year (commentary)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_016
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Thomas Monteiro
+- **Predicate:** said
+- **Object:** challenging start to the year (commentary)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > Investing.com analyst Thomas Monteiro said Netflix's results point to a challenging start to the year.
 
-### c_017 — reported, primary document
-**Subject entities:** Netflix, Inc.
-**Predicate:** will_face
-**Object:** regulatory scrutiny (regulatory_concern)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_017
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Netflix, Inc.
+- **Predicate:** will_face
+- **Object:** regulatory scrutiny (regulatory_concern)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > Netflix expects regulatory scrutiny on its Warner Bros. acquisition regarding competition and pricing.
 
-### c_018 — attributed, primary document
-**Subject entities:** Warner Bros. Discovery
-**Predicate:** will_spinoff
-**Object:** 6-9 months (timeline)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_018
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Warner Bros. Discovery
+- **Predicate:** will_spinoff
+- **Object:** 6-9 months (timeline)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > Warner Bros. Discovery is expected to complete a cable television business spinoff within six to nine months.
 
@@ -267,10 +306,5 @@ Netflix will need to persuade U.S. regulators that acquiring HBO will not stifle
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Michael Liedtke
 **Publication date:** 2026-01-20
-**Access date:** 2026-05-18
 **Title:** Netflix delivers solid 4th quarter, but stock sinks amid worries about slowing subscriber growth
 **URL:** https://apnews.com/article/netflix-earnings-warner-bros-discovery-video-streaming-5de6e00858841ab4d8d0e405ee07b75b
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -1,6 +1,5 @@
 ---
 headline: Records identify Minneapolis ICE shooter as Iraq War veteran Jonathan Ross
-slug: 2026-01-09-records-identify-minneapolis-ice-shooter-as-iraq-war-veteran-jonathan-ross
 publish_date: '2026-01-09'
 lede: The federal agent who shot and killed Renee Good, a 37-year-old mother, during an immigration enforcement operation in Minneapolis on Jan. 7 is Jonathan Ross, a 43-year-old Iraq War veteran with nearly two decades in the Border Patrol and U.S. Immigration and Customs Enforcement, according to records obtained by The Associated Press. Federal officials declined to publicly name Ross, citing safety concerns for him and his family, but a Department of Homeland Security spokesperson confirmed that DHS Secretary Kristi Noem was referring to Ross when she said the agent had been dragged by a vehicle the previous June.
 nut_graf: The FBI is investigating the shooting, which was captured on video that has raised questions about whether Good's vehicle posed an imminent threat to agents when Ross fired. Ross, who survived a serious injury last June when a fleeing suspect dragged him down a street with his vehicle, has been publicly defended by senior Trump administration officials as an experienced officer who acted according to his training.
@@ -13,46 +12,42 @@ primary_themes:
 - use of force
 - law enforcement background
 topic_tags:
-  - "armed conflict"
-  - "conflict, war and peace"
-  - crime
-  - "crime, law and justice"
-  - "law enforcement"
+- crime
+- law enforcement
+- human migration
 storyline_nexus:
-  - immigration-enforcement
-  - us-administration-2026
-  - us-china-relations
-geographic_location: Minneapolis, Minnesota
+- us-immigration-enforcement
+geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
+- value: human_life_and_dignity
   intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.8
-- value: human_life_and_dignity
-  intensity: 0.85
-framework_version: 1.1.0
-generation_timestamp: '2026-05-16T00:00:00Z'
+  intensity: 0.9
+- value: informed_citizenship
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:03:39Z'
 source_cluster_id: cluster_ap_2026-01-08_immigration-minnesota-jonathan-ross-b9ce
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 14
   hedges:
-    appears: 0
-    alleged: 0
     attributed: 13
+    confirmed: 0
+    alleged: 0
+    appears: 0
     reported: 1
     contested: 0
-    confirmed: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 5
     primary_document: 0
-    single_source: 9
     two_independent: 0
+    single_source: 9
+    one_originating_plus_primary_document: 5
+    primary_plus_secondary: 0
 sources:
   count: 1
   outlets:
@@ -70,41 +65,18 @@ image:
   url: /articles/2026-01-09-records-identify-minneapolis-ice-shooter-as-iraq-war-veteran-jonathan-ross.png
   alt: 'Illustration accompanying article: Records identify Minneapolis ICE shooter as Iraq War veteran Jonathan Ross'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-08-family-mourns-renee-good-u-s-citizen-and-mother-shot-by-ice-agent-in-minneapolis
-  relation: related
-  strength: 0.8445
-  confidence: medium
-- slug: 2026-01-07-ice-officer-shoots-and-kills-minneapolis-woman-during-immigration-enforcement
-  relation: continues
-  strength: 0.8461
-  confidence: high
-- slug: 2026-01-08-minneapolis-ice-shooting-renews-debate-over-lethal-force-rules-for-moving-vehicl
-  relation: related
-  strength: 0.8331
-  confidence: medium
-- slug: 2026-01-08-protests-erupt-in-minneapolis-as-officials-dispute-jurisdiction-in-fatal-ice-sho
-  relation: related
-  strength: 0.8292
-  confidence: medium
-- slug: 2026-01-08-vance-calls-minneapolis-woman-s-ice-shooting-death-a-tragedy-of-her-own-making
-  relation: related
-  strength: 0.8106
-  confidence: medium
-- slug: 2026-01-08-fabricated-images-and-false-names-spread-online-after-ice-shooting-in-minneapoli
-  relation: related
-  strength: 0.7981
-  confidence: medium
-- slug: 2026-01-08-ice-killing-of-minneapolis-woman-deepens-minnesota-s-conflict-with-trump
-  relation: related
-  strength: 0.796
-  confidence: medium
-- slug: 2026-01-08-minneapolis-protests-erupt-over-ice-killing-of-renee-good-as-portland-shooting-d
-  relation: related
-  strength: 0.7889
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- MINNEAPOLIS — The federal agent who shot and killed Renee Good, a 37-year-old mother, during an immigration enforcement operation in Minneapolis on Jan.
+- Federal officials declined to publicly name Ross, citing safety concerns for him and his family, but a Department of Homeland Security spokesperson confirmed that DHS Secretary Kristi Noem was referring to Ross when she said the agent had been dragged by a vehicle the previous June.
+- The FBI is investigating the shooting, which was captured on video that has raised questions about whether Good's vehicle posed an imminent threat to agents when Ross fired.
+- Ross deployed to Iraq from 2004 to 2005 with the Indiana National Guard, where he served as a machine-gunner on a gun truck as part of a combat patrol team, he said in courtroom testimony last month.
 
 MINNEAPOLIS — The federal agent who shot and killed Renee Good, a 37-year-old mother, during an immigration enforcement operation in Minneapolis on Jan. 7 is Jonathan Ross, a 43-year-old Iraq War veteran with nearly two decades in the Border Patrol and U.S. Immigration and Customs Enforcement, according to records obtained by The Associated Press.
 
@@ -152,129 +124,157 @@ Noem and other Trump administration officials said Ross opened fire after he bel
 
 ## Atomic claims
 
-### c_001 — attributed, one originating plus primary document
-**Subject entities:** Jonathan Ross; Renee Good
-**Predicate:** shot_and_killed
-**Object:** shooting death (event)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** one_originating_plus_primary_document
+- **Subject entities:** Jonathan Ross; Renee Good
+- **Predicate:** shot_and_killed
+- **Object:** shooting death (event)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Jonathan Ross shot and killed Renee Good in Minneapolis on Jan. 7, 2026.
 
-### c_002 — attributed, single source
-**Subject entities:** Jonathan Ross
-**Predicate:** served_in
-**Object:** Iraq War, Indiana National Guard (military_service)
-**Temporal:** 2004-2005
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jonathan Ross
+- **Predicate:** served_in
+- **Object:** Iraq War, Indiana National Guard (military_service)
+- **Temporal:** 2004-2005
+- **Sources:** src_001
 
 > Ross is 43 years old and is an Iraq War veteran who deployed with the Indiana National Guard from 2004 to 2005, serving as a machine-gunner on a gun truck.
 
-### c_003 — attributed, single source
-**Subject entities:** Jonathan Ross
-**Predicate:** served_as
-**Object:** Border Patrol field intelligence agent (role)
-**Temporal:** 2007-2015
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jonathan Ross
+- **Predicate:** served_as
+- **Object:** Border Patrol field intelligence agent (role)
+- **Temporal:** 2007-2015
+- **Sources:** src_001
 
 > Ross joined the Border Patrol in 2007 near El Paso, Texas, and served as a field intelligence agent gathering information on cartels and smuggling until 2015.
 
-### c_004 — attributed, one originating plus primary document
-**Subject entities:** Jonathan Ross; U.S. Immigration and Customs Enforcement
-**Predicate:** serves_as
-**Object:** deportation officer, fugitive operations (role)
-**Temporal:** 2015-present
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** one_originating_plus_primary_document
+- **Subject entities:** Jonathan Ross; U.S. Immigration and Customs Enforcement
+- **Predicate:** serves_as
+- **Object:** deportation officer, fugitive operations (role)
+- **Temporal:** 2015-present
+- **Sources:** src_001
 
 > Ross has served as a deportation officer with ICE since 2015, assigned to fugitive operations in the Minneapolis region and as a team leader with the FBI's Joint Terrorism Task Force.
 
-### c_005 — attributed, one originating plus primary document
-**Subject entities:** Jonathan Ross; Roberto Munoz-Guatemala
-**Predicate:** injured_during
-**Object:** vehicle dragging incident (event)
-**Temporal:** 2025-06-17
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** one_originating_plus_primary_document
+- **Subject entities:** Jonathan Ross; Roberto Munoz-Guatemala
+- **Predicate:** injured_during
+- **Object:** vehicle dragging incident (event)
+- **Temporal:** 2025-06-17
+- **Sources:** src_001
 
 > On June 17, 2025, Ross was dragged the length of a football field in 12 seconds when Roberto Munoz-Guatemala drove off with Ross's arm caught in the vehicle in Bloomington, Minnesota.
 
-### c_006 — attributed, one originating plus primary document
-**Subject entities:** Jonathan Ross
-**Predicate:** sustained_injuries
-**Object:** dozens of stitches, multiple large cuts and abrasions (injuries)
-**Temporal:** 2025-06-17
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** one_originating_plus_primary_document
+- **Subject entities:** Jonathan Ross
+- **Predicate:** sustained_injuries
+- **Object:** dozens of stitches, multiple large cuts and abrasions (injuries)
+- **Temporal:** 2025-06-17
+- **Sources:** src_001
 
 > Ross received dozens of stitches and suffered multiple large cuts and abrasions in the June 2025 incident, according to prosecutors.
 
-### c_007 — attributed, one originating plus primary document
-**Subject entities:** Roberto Munoz-Guatemala
-**Predicate:** convicted_of
-**Object:** assault on a federal officer with a dangerous or deadly weapon (legal_verdict)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** one_originating_plus_primary_document
+- **Subject entities:** Roberto Munoz-Guatemala
+- **Predicate:** convicted_of
+- **Object:** assault on a federal officer with a dangerous or deadly weapon (legal_verdict)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > A jury found Roberto Munoz-Guatemala guilty of assault on a federal officer with a dangerous or deadly weapon at a trial last month.
 
-### c_008 — attributed, single source
-**Subject entities:** Kristi Noem; Jonathan Ross
-**Predicate:** confirmed_identity
-**Object:** agent dragged by vehicle in June (official_statement)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Kristi Noem; Jonathan Ross
+- **Predicate:** confirmed_identity
+- **Object:** agent dragged by vehicle in June (official_statement)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > DHS Secretary Kristi Noem said the agent who shot Good had been dragged by a vehicle last June, and a DHS spokesperson confirmed Noem was referring to the Bloomington case involving Ross.
 
-### c_009 — attributed, single source
-**Subject entities:** JD Vance
-**Predicate:** stated
-**Object:** officer deserves debt of gratitude (official_statement)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** JD Vance
+- **Predicate:** stated
+- **Object:** officer deserves debt of gratitude (official_statement)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > Vice President JD Vance said the ICE officer 'deserves a debt of gratitude' and described him as 'a guy who's actually done a very, very important job for the United States of America.'
 
-### c_010 — attributed, single source
-**Subject entities:** Tricia McLaughlin
-**Predicate:** declined_to_confirm
-**Object:** agent identity (official_action)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Tricia McLaughlin
+- **Predicate:** declined_to_confirm
+- **Object:** agent identity (official_action)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > DHS assistant Tricia McLaughlin declined to confirm Ross's identity Thursday, saying doing so would be dangerous for him and his family.
 
-### c_011 — attributed, single source
-**Subject entities:** Tricia McLaughlin; Jonathan Ross
-**Predicate:** stated
-**Object:** officer acted according to training (official_statement)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Tricia McLaughlin; Jonathan Ross
+- **Predicate:** stated
+- **Object:** officer acted according to training (official_statement)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > McLaughlin said Ross 'acted according to his training' and noted he had been selected for ICE's special response team, which includes a 30-hour tryout.
 
-### c_012 — attributed, single source
-**Subject entities:** Federal Bureau of Investigation
-**Predicate:** investigating
-**Object:** deadly use of force (investigation)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Federal Bureau of Investigation
+- **Predicate:** investigating
+- **Object:** deadly use of force (investigation)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > The FBI is investigating the deadly use of force in the shooting of Renee Good.
 
-### c_013 — reported, single source
-**Subject entities:** Jonathan Ross; Renee Good
-**Predicate:** questions_raised
-**Object:** whether shooting was in self-defense (controversy)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_013
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Jonathan Ross; Renee Good
+- **Predicate:** questions_raised
+- **Object:** whether shooting was in self-defense (controversy)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > Video of the shooting has raised questions about whether the shooting was in self-defense.
 
-### c_014 — attributed, single source
-**Subject entities:** Kristi Noem; Jonathan Ross; Renee Good
-**Predicate:** stated
-**Object:** agent believed vehicle posed threat (official_statement)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Kristi Noem; Jonathan Ross; Renee Good
+- **Predicate:** stated
+- **Object:** agent believed vehicle posed threat (official_statement)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > Noem and other Trump administration officials said Ross shot Good after he believed she was trying to run him or other agents over with her vehicle.
 
@@ -283,10 +283,5 @@ Noem and other Trump administration officials said Ross opened fire after he bel
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Ryan J. Foley
 **Publication date:** 2026-01-09
-**Access date:** 2026-01-09
 **Title:** ICE officer who shot Renee Good is a military and law enforcement veteran
 **URL:** https://apnews.com/article/immigration-minnesota-jonathan-ross-b9ce88da676d74ec6a1ab36aa55fbda1
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

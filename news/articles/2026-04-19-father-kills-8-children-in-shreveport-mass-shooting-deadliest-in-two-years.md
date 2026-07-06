@@ -11,43 +11,41 @@ primary_themes:
 - domestic violence
 - gun violence
 topic_tags:
-  - crime
-  - "crime, law and justice"
-  - "law enforcement"
-storyline_nexus: []
-geographic_location: Shreveport, Louisiana, United States
+- crime
+- crime, law and justice
+- family
+- law enforcement
+storyline_nexus:
+- extreme-weather-disasters
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
-  intensity: 0.95
-- value: truthfulness
   intensity: 0.9
 - value: informed_citizenship
-  intensity: 0.85
-- value: accountability_of_power
-  intensity: 0.65
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:46:04Z'
 source_cluster_id: cluster_ap_2026-04-20_shreveport-mass-shooting-louisiana-15098
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 13
   hedges:
-    appears: 1
-    alleged: 0
-    attributed: 3
-    reported: 0
-    contested: 0
     confirmed: 9
+    reported: 0
+    alleged: 0
+    contested: 0
+    attributed: 3
+    appears: 1
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 13
     single_source: 0
+    one_originating_plus_primary_document: 0
+    primary_plus_secondary: 0
     two_independent: 0
+    primary_document: 13
 sources:
   count: 1
   outlets:
@@ -61,29 +59,20 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-04-17-dispute-over-temperature-preceded-atlanta-area-attacks-that-killed-two
-  relation: related
-  strength: 0.8252
-  confidence: medium
-- slug: 2026-04-15-two-killed-one-critical-in-atlanta-area-attacks-uk-born-man-charged-dhs-worker-a
-  relation: related
-  strength: 0.8082
-  confidence: medium
-- slug: 2026-01-10-mississippi-man-charged-with-killing-6-including-child-in-clay-county-rampage
-  relation: related
-  strength: 0.8363
-  confidence: medium
-- slug: 2026-01-12-mississippi-man-pleads-not-guilty-in-deaths-of-six-including-7-year-old
-  relation: related
-  strength: 0.8035
-  confidence: medium
-- slug: 2026-01-08-two-killed-six-injured-in-shooting-at-salt-lake-city-lds-church-parking-lot
-  relation: related
-  strength: 0.8045
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Man kills 7 of his children plus another child in shooting in Louisiana neighborhood
+- Man kills 7 of his children plus another child in shooting in Louisiana neighborhood
+- The attack was the deadliest mass shooting in the U.S. in more than two years.
+- “I just don’t know what to say, my heart is just taken aback,” Shreveport Police Chief Wayne Smith said. “I cannot begin to imagine how such an event could occur.”
+- Bordelon said police were familiar with Elkins, who had been arrested in a 2019 firearms case, but he said officials were not aware of any other domestic violence issues.
+- Family member says suspect was separating from his wife
 
 A 31-year-old Louisiana man fatally shot eight children, seven of his own, in a Shreveport neighborhood Sunday morning, the deadliest mass shooting in the U.S. in more than two years. Two women, including the gunman's wife, were critically wounded. The suspect, Shamar Elkins, died during a police pursuit that ended with officers firing on him.
 
@@ -131,120 +120,146 @@ Shreveport Police Chief Wayne Smith said he could not begin to fathom the traged
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Shamar Elkins
-**Predicate:** fatally_shot
-**Object:** eight children (victims)
-**Temporal:** 2026-04-19
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Shamar Elkins
+- **Predicate:** fatally_shot
+- **Object:** eight children (victims)
+- **Temporal:** 2026-04-19
+- **Sources:** src_001
 
 > A 31-year-old man named Shamar Elkins fatally shot eight children in Shreveport on April 19, 2026.
 
-### c_002 — confirmed, primary document
-**Subject entities:** Shamar Elkins
-**Predicate:** father_of
-**Object:** seven of the eight murder victims (familial_relationship)
-**Temporal:** 2026-04-19
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Shamar Elkins
+- **Predicate:** father_of
+- **Object:** seven of the eight murder victims (familial_relationship)
+- **Temporal:** 2026-04-19
+- **Sources:** src_001
 
 > Seven of the eight children killed were Shamar Elkins's biological children.
 
-### c_003 — confirmed, primary document
-**Subject entities:** victims
-**Predicate:** aged
-**Object:** 3 to 11 years old (age_range)
-**Temporal:** 2026-04-19
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** victims
+- **Predicate:** aged
+- **Object:** 3 to 11 years old (age_range)
+- **Temporal:** 2026-04-19
+- **Sources:** src_001
 
 > The children killed ranged in age from 3 to 11 years old.
 
-### c_004 — confirmed, primary document
-**Subject entities:** two women
-**Predicate:** critically_wounded
-**Object:** gunshot wounds (injury)
-**Temporal:** 2026-04-19
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** two women
+- **Predicate:** critically_wounded
+- **Object:** gunshot wounds (injury)
+- **Temporal:** 2026-04-19
+- **Sources:** src_001
 
 > Two women, including Shamar Elkins's wife, were critically wounded in the shooting.
 
-### c_005 — confirmed, primary document
-**Subject entities:** Shamar Elkins
-**Predicate:** died
-**Object:** during police pursuit with officer gunfire (cause_of_death)
-**Temporal:** 2026-04-19
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Shamar Elkins
+- **Predicate:** died
+- **Object:** during police pursuit with officer gunfire (cause_of_death)
+- **Temporal:** 2026-04-19
+- **Sources:** src_001
 
 > Shamar Elkins died during a police pursuit after officers fired on him.
 
-### c_006 — attributed, primary document
-**Subject entities:** Shreveport Police Department
-**Predicate:** characterized_as
-**Object:** entirely a domestic incident (crime_classification)
-**Temporal:** 2026-04-19
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Shreveport Police Department
+- **Predicate:** characterized_as
+- **Object:** entirely a domestic incident (crime_classification)
+- **Temporal:** 2026-04-19
+- **Sources:** src_001
 
 > Police said the shooting was "entirely a domestic incident."
 
-### c_007 — confirmed, primary document
-**Subject entities:** 2026-04-19 Shreveport shooting
-**Predicate:** was
-**Object:** deadliest mass shooting in U.S. in more than two years (comparative_ranking)
-**Temporal:** 2026-04-19
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** 2026-04-19 Shreveport shooting
+- **Predicate:** was
+- **Object:** deadliest mass shooting in U.S. in more than two years (comparative_ranking)
+- **Temporal:** 2026-04-19
+- **Sources:** src_001
 
 > The attack was the deadliest mass shooting in the U.S. in more than two years.
 
-### c_008 — confirmed, primary document
-**Subject entities:** Chicago suburb shooting
-**Predicate:** killed
-**Object:** eight people (victim_count)
-**Temporal:** 2024-01
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Chicago suburb shooting
+- **Predicate:** killed
+- **Object:** eight people (victim_count)
+- **Temporal:** 2024-01
+- **Sources:** src_001
 
 > The previous deadliest mass shooting in the U.S. occurred in a Chicago suburb in January 2024, killing eight people.
 
-### c_009 — confirmed, primary document
-**Subject entities:** Shamar Elkins
-**Predicate:** arrested_for
-**Object:** firearms case (criminal_charge)
-**Temporal:** 2019
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Shamar Elkins
+- **Predicate:** arrested_for
+- **Object:** firearms case (criminal_charge)
+- **Temporal:** 2019
+- **Sources:** src_001
 
 > Shamar Elkins had been arrested in a 2019 firearms case.
 
-### c_010 — attributed, primary document
-**Subject entities:** Shamar Elkins
-**Predicate:** separating_from
-**Object:** wife, scheduled court appearance Monday (marital_status)
-**Temporal:** 2026-04-19
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Shamar Elkins
+- **Predicate:** separating_from
+- **Object:** wife, scheduled court appearance Monday (marital_status)
+- **Temporal:** 2026-04-19
+- **Sources:** src_001
 
 > According to family members, Shamar Elkins and his wife were separating and due in court Monday.
 
-### c_011 — attributed, primary document
-**Subject entities:** Shamar Elkins; his wife
-**Predicate:** arguing_about
-**Object:** the separation (conflict_trigger)
-**Temporal:** 2026-04-19
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Shamar Elkins; his wife
+- **Predicate:** arguing_about
+- **Object:** the separation (conflict_trigger)
+- **Temporal:** 2026-04-19
+- **Sources:** src_001
 
 > Family member Crystal Brown said the couple had been arguing about the separation before the shooting.
 
-### c_012 — appears, primary document
-**Subject entities:** child victim
-**Predicate:** found_dead
-**Object:** on roof after apparent escape attempt (death_location)
-**Temporal:** 2026-04-19
-**Source IDs:** src_001
+### c_012
+- **Hedge:** appears
+- **Corroboration:** primary_document
+- **Subject entities:** child victim
+- **Predicate:** found_dead
+- **Object:** on roof after apparent escape attempt (death_location)
+- **Temporal:** 2026-04-19
+- **Sources:** src_001
 
 > One child was found dead on the roof after apparently trying to escape.
 
-### c_013 — confirmed, primary document
-**Subject entities:** child survivor
-**Predicate:** survived
-**Object:** roof jump, hospitalized (survivor_status)
-**Temporal:** 2026-04-19
-**Source IDs:** src_001
+### c_013
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** child survivor
+- **Predicate:** survived
+- **Object:** roof jump, hospitalized (survivor_status)
+- **Temporal:** 2026-04-19
+- **Sources:** src_001
 
 > Another child jumped off the roof and was expected to survive.
 
@@ -253,10 +268,5 @@ Shreveport Police Chief Wayne Smith said he could not begin to fathom the traged
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Sophie Bates
 **Publication date:** 2026-04-19
-**Access date:** 2026-04-19
 **Title:** Father kills 8 children in Louisiana homes, police say
 **URL:** https://apnews.com/article/shreveport-mass-shooting-louisiana-15098626d4c868b2bbc8a957a6a6ead8
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

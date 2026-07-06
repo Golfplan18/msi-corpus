@@ -15,40 +15,44 @@ primary_themes:
 - immigration enforcement
 - nonviolence
 topic_tags:
-  - "crime, law and justice"
-  - society
-storyline_nexus: []
+- civil rights
+- political process
+- government policy
+- discrimination
+- fundamental rights
+storyline_nexus:
+- us-immigration-enforcement
 geographic_location: United States
 floor_values_engaged:
-- value: human_life_and_dignity
-  intensity: 0.9
-- value: informed_citizenship
-  intensity: 0.85
 - value: accountability_of_power
-  intensity: 0.7
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:00:00Z'
+  intensity: 0.9
+- value: equality_fairness
+  intensity: 0.9
+- value: human_life_and_dignity
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:45:13Z'
 source_cluster_id: cluster_ap_2026-01-19_mlk-holiday-bernice-king-a35864c47b88ab4
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 9
   hedges:
-    appears: 0
     alleged: 0
     attributed: 9
-    reported: 0
     contested: 0
+    appears: 0
     confirmed: 0
+    reported: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 0
     single_source: 9
     two_independent: 0
+    one_originating_plus_primary_document: 0
+    primary_plus_secondary: 0
+    primary_document: 0
 sources:
   count: 1
   outlets:
@@ -66,41 +70,12 @@ image:
   url: /articles/2026-01-18-bernice-king-calls-mlk-day-a-saving-grace-amid-political-turbulence.png
   alt: 'Illustration accompanying article: Bernice King calls MLK Day a ''saving grace'' amid political turbulence'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-14-minneapolis-sees-second-federal-shooting-as-courts-governor-push-back-on-immigra
-  relation: related
-  strength: 0.7317
-  confidence: medium
-- slug: 2026-01-10-congress-weighs-response-to-ice-killing-of-minnesota-woman-renee-good
-  relation: related
-  strength: 0.7574
-  confidence: medium
-- slug: 2026-01-12-venezuelan-migrants-welcome-maduro-s-ouster-but-fear-us-deportation
-  relation: related
-  strength: 0.7205
-  confidence: medium
-- slug: 2026-01-08-ice-killing-of-minneapolis-woman-deepens-minnesota-s-conflict-with-trump
-  relation: related
-  strength: 0.7428
-  confidence: medium
-- slug: 2026-01-11-minneapolis-church-holds-lament-and-hope-service-as-ice-enforcement-grips-city
-  relation: related
-  strength: 0.7231
-  confidence: medium
-- slug: 2026-01-10-thousands-march-across-us-after-ice-shootings-in-minneapolis-portland
-  relation: related
-  strength: 0.7293
-  confidence: medium
-- slug: 2025-12-30-faith-leaders-supporting-immigrants-brace-for-harder-year-under-trump-policies
-  relation: related
-  strength: 0.7849
-  confidence: medium
-- slug: 2025-12-30-faith-leaders-brace-for-harder-year-amid-trump-immigration-crackdown
-  relation: related
-  strength: 0.777
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
 
 The Rev. Bernice King, CEO of the King Center in Atlanta and daughter of the Rev. Martin Luther King Jr., said the federal holiday honoring her father arrives this year as "somewhat of a saving grace" — a moral counterweight, she said, to rollbacks of diversity programs, changes to government historical content, and immigration enforcement she described as turning violent.
 
@@ -144,84 +119,102 @@ She endorsed participation in service projects, saying they foster connection an
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Bernice King
-**Predicate:** described
-**Object:** MLK Day as 'somewhat of a saving grace' (quote)
-**Temporal:** 2026-01-18
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Bernice King
+- **Predicate:** described
+- **Object:** MLK Day as 'somewhat of a saving grace' (quote)
+- **Temporal:** 2026-01-18
+- **Sources:** src_001
 
 > The Rev. Bernice King said MLK Day comes as 'somewhat of a saving grace' this year.
 
-### c_002 — attributed, single source
-**Subject entities:** Bernice King; King Center
-**Predicate:** holds_role
-**Object:** CEO, King Center, Atlanta (organization_role)
-**Temporal:** 2026-01-18
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Bernice King; King Center
+- **Predicate:** holds_role
+- **Object:** CEO, King Center, Atlanta (organization_role)
+- **Temporal:** 2026-01-18
+- **Sources:** src_001
 
 > Bernice King is CEO of the King Center in Atlanta.
 
-### c_003 — attributed, single source
-**Subject entities:** Bernice King; Martin Luther King Jr.; Donald Trump
-**Predicate:** stated
-**Object:** three evils manifesting under Trump (attributed_opinion)
-**Temporal:** 2026-01-18
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Bernice King; Martin Luther King Jr.; Donald Trump
+- **Predicate:** stated
+- **Object:** three evils manifesting under Trump (attributed_opinion)
+- **Temporal:** 2026-01-18
+- **Sources:** src_001
 
 > Bernice King said the 'three evils' — poverty, racism and militarism — that her father identified in a 1967 speech are 'very present and manifesting through a lot of what's happening' under Trump's leadership.
 
-### c_004 — attributed, single source
-**Subject entities:** Bernice King
-**Predicate:** cited
-**Object:** DEI rollbacks, history content removals, immigration enforcement violence (policy_actions)
-**Temporal:** 2026-01-18
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Bernice King
+- **Predicate:** cited
+- **Object:** DEI rollbacks, history content removals, immigration enforcement violence (policy_actions)
+- **Temporal:** 2026-01-18
+- **Sources:** src_001
 
 > Bernice King cited DEI rollbacks, directives to remove content from government websites and Smithsonian museums, and immigration enforcement that she said has turned violent and resulted in family separation.
 
-### c_005 — attributed, single source
-**Subject entities:** Davis Ingle; Donald Trump
-**Predicate:** said
-**Object:** Trump acts in the best interest of the American people (quote)
-**Temporal:** 2026-01-18
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Davis Ingle; Donald Trump
+- **Predicate:** said
+- **Object:** Trump acts in the best interest of the American people (quote)
+- **Temporal:** 2026-01-18
+- **Sources:** src_001
 
 > White House spokesperson Davis Ingle said in an email: 'Everything President Trump does is in the best interest of the American people.'
 
-### c_006 — attributed, single source
-**Subject entities:** Maya Wiley; Leadership Conference on Civil and Human Rights
-**Predicate:** holds_role
-**Object:** president and CEO, Leadership Conference on Civil and Human Rights (organization_role)
-**Temporal:** 2026-01-18
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Maya Wiley; Leadership Conference on Civil and Human Rights
+- **Predicate:** holds_role
+- **Object:** president and CEO, Leadership Conference on Civil and Human Rights (organization_role)
+- **Temporal:** 2026-01-18
+- **Sources:** src_001
 
 > Maya Wiley is president and CEO of the Leadership Conference on Civil and Human Rights, described as one of the nation's oldest and largest civil rights coalitions.
 
-### c_007 — attributed, single source
-**Subject entities:** Maya Wiley
-**Predicate:** said
-**Object:** King's words ring more true today; administration working to erase Civil Rights movement (quote)
-**Temporal:** 2026-01-18
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Maya Wiley
+- **Predicate:** said
+- **Object:** King's words ring more true today; administration working to erase Civil Rights movement (quote)
+- **Temporal:** 2026-01-18
+- **Sources:** src_001
 
 > Maya Wiley said King's words 'ring more true today' and described the current administration as 'actively working to erase the Civil Rights movement.'
 
-### c_008 — attributed, single source
-**Subject entities:** Bernice King; King Center
-**Predicate:** announced
-**Object:** redevelopment of nonviolence curriculum for law enforcement (organization_action)
-**Temporal:** 2026-01-18
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Bernice King; King Center
+- **Predicate:** announced
+- **Object:** redevelopment of nonviolence curriculum for law enforcement (organization_action)
+- **Temporal:** 2026-01-18
+- **Sources:** src_001
 
 > Bernice King said the King Center plans to redevelop a nonviolence curriculum to help law enforcement officers carry out duties while respecting people's humanity.
 
-### c_009 — attributed, single source
-**Subject entities:** Bernice King
-**Predicate:** urged
-**Object:** inward reflection and service participation (call_to_action)
-**Temporal:** 2026-01-18
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Bernice King
+- **Predicate:** urged
+- **Object:** inward reflection and service participation (call_to_action)
+- **Temporal:** 2026-01-18
+- **Sources:** src_001
 
 > Bernice King urged people to look inward to honor her father's legacy and endorsed participation in service projects.
 
@@ -230,10 +223,5 @@ She endorsed participation in service projects, saying they foster connection an
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Kate Brumback
 **Publication date:** 2026-01-18
-**Access date:** 2026-01-18
 **Title:** Rev. Martin Luther King Jr.'s daughter calls holiday a saving grace
 **URL:** https://apnews.com/article/mlk-holiday-bernice-king-a35864c47b88ab40254f45232a7568f6
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

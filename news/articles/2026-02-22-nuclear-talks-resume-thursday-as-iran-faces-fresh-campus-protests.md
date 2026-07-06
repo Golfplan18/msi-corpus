@@ -21,7 +21,7 @@ topic_tags:
   - "science and technology"
   - "artificial intelligence"
 storyline_nexus:
-  - iran-war
+- iran-nuclear-negotiations
 geographic_location: Iran; Geneva, Switzerland; Middle East
 floor_values_engaged:
 - value: informed_citizenship
@@ -116,7 +116,7 @@ The resumption of nuclear talks offers the Trump administration its first substa
 
 Oman's foreign minister, Badr al-Busaidi, confirmed the Thursday talks. Oman previously hosted indirect rounds of negotiations on Iran's nuclear program and facilitated the most recent discussions in Geneva last week.
 
-Iran's top diplomat told CBS News he expected substantive discussions. "I expect to meet Steve Witkoff in Geneva on Thursday," Abbas Araghchi said, adding that the two sides had narrowed their disagreements. "There is a good chance for a solution, I believe."
+Iran's top diplomat told CBS News he expected substantive discussions. "I expect to meet Steve Witkoff in Geneva on Thursday," Abbas Araghchi said, adding that a good chance remained for a diplomatic solution.
 
 Washington awaits a proposed deal that Araghchi has said would be ready to present within days. In his CBS interview, Araghchi said Iran was still drafting the proposal.
 
@@ -153,8 +153,6 @@ Iran's government offered its only official death toll from the January disturba
 The Associated Press reported it has been unable to independently assess the death toll, as Iranian authorities have disrupted internet access and blocked international telephone calls within the country, limiting outside verification.
 
 Iran's government has not commented publicly on the latest university protests.
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered. The work is released under CC0 — a public-domain dedication.*
 
 ## Atomic claims
 
@@ -301,7 +299,3 @@ Iran's government has not commented publicly on the latest university protests.
 **Access date:** 2026-02-22
 **Title:** Oman says the next US-Iran nuclear talks will be Thursday in Geneva
 **URL:** https://apnews.com/article/iran-protests-khamenei-universities-tehran-trump-military-dd81a3d1e464975c56f02b729e742014
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

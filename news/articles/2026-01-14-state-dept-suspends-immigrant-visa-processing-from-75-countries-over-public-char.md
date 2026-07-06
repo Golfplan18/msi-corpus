@@ -1,6 +1,5 @@
 ---
 headline: State Dept. suspends immigrant visa processing from 75 countries over public charge concerns
-slug: 2026-01-14-state-dept-suspends-immigrant-visa-processing-from-75-countries
 publish_date: '2026-01-14'
 lede: The State Department said Wednesday it will suspend immigrant visa processing for nationals of 75 countries beginning Jan. 21, citing concerns that applicants from those nations are likely to require public assistance after entering the United States. The list includes Afghanistan, Iran, Russia and Somalia, along with dozens of other countries across Africa, Asia, Latin America and Eastern Europe.
 nut_graf: The suspension extends the Trump administration's escalating immigration restrictions beyond its earlier travel bans affecting nearly 40 countries, applying a November directive that tightened rules around visa applicants deemed potential 'public charges' in the United States.
@@ -15,39 +14,43 @@ primary_themes:
 - State Department
 - travel restrictions
 topic_tags:
-  - "human interest"
-  - "human migration"
-  - "science and technology"
-storyline_nexus: []
-geographic_location: Washington, D.C.
+- government policy
+- human migration
+- welfare
+- international relations
+storyline_nexus:
+- us-immigration-enforcement
+geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship
   intensity: 0.9
+- value: equality_fairness
+  intensity: 0.6
 - value: accountability_of_power
-  intensity: 0.7
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T06:59:08Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:10:03Z'
 source_cluster_id: cluster_ap_2026-01-13_trump-immigration-visas-79909bd01e9e1e3d
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 11
   hedges:
-    appears: 0
-    alleged: 0
     attributed: 4
+    confirmed: 7
+    appears: 0
     reported: 0
     contested: 0
-    confirmed: 7
+    alleged: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 7
     single_source: 4
+    one_originating_plus_primary_document: 0
     two_independent: 0
+    primary_plus_secondary: 0
 sources:
   count: 1
   outlets:
@@ -65,41 +68,18 @@ image:
   url: /articles/2026-01-14-state-dept-suspends-immigrant-visa-processing-from-75-countries-over-public-char.png
   alt: 'Illustration accompanying article: State Dept. suspends immigrant visa processing from 75 countries over public'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-13-trump-administration-ends-temporary-protected-status-for-somali-immigrants
-  relation: related
-  strength: 0.8207
-  confidence: medium
-- slug: 2026-01-06-state-dept-adds-7-nations-to-visa-bond-list-11-of-13-targeted-countries-are-in-a
-  relation: related
-  strength: 0.8185
-  confidence: medium
-- slug: 2026-01-07-trump-administration-expands-visa-bond-list-to-38-countries-mostly-in-africa
-  relation: related
-  strength: 0.8115
-  confidence: medium
-- slug: 2026-01-05-trump-administration-expands-visa-bond-list-to-13-countries-most-in-africa
-  relation: related
-  strength: 0.8077
-  confidence: medium
-- slug: 2026-01-06-us-nearly-triples-visa-bond-list-to-38-countries-bonds-reach-up-to-15-000
-  relation: related
-  strength: 0.7932
-  confidence: medium
-- slug: 2026-01-07-uc-grad-workers-seek-750-000-legal-fund-for-international-employees-amid-visa-un
-  relation: related
-  strength: 0.7534
-  confidence: medium
-- slug: 2026-01-06-de-la-cruz-proposes-construction-worker-visa-as-ice-arrests-slow-south-texas-bui
-  relation: related
-  strength: 0.7509
-  confidence: medium
-- slug: 2026-01-07-trump-immigration-policies-lower-fertility-to-slow-us-population-growth-cbo-says
-  relation: related
-  strength: 0.7367
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- The suspension extends the Trump administration's escalating immigration restrictions beyond its earlier travel bans affecting nearly 40 countries, applying a November directive that tightened rules around visa applicants deemed potential 'public charges' in the United States.
+- The State Department said Wednesday it will suspend immigrant visa processing for nationals of 75 countries beginning Jan.
+- The suspension, directed by Secretary of State Marco Rubio, builds on earlier immigration and travel bans the Trump administration has imposed on nearly 40 countries and applies a November directive that tightened rules around visa applicants deemed potential "public charges" in the United States.
+- "Immigrant visa processing from these 75 countries will be paused while the State Department reassess immigration processing procedures to prevent the entry of foreign nationals who would take welfare and public benefits," the department said in a statement.
 
 The suspension extends the Trump administration's escalating immigration restrictions beyond its earlier travel bans affecting nearly 40 countries, applying a November directive that tightened rules around visa applicants deemed potential 'public charges' in the United States.
 
@@ -139,102 +119,124 @@ The 75 countries whose nationals will be subject to the immigrant visa suspensio
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** U.S. Department of State
-**Predicate:** will_suspend
-**Object:** immigrant visa processing for 75 countries (policy_action)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Department of State
+- **Predicate:** will_suspend
+- **Object:** immigrant visa processing for 75 countries (policy_action)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > The State Department will suspend immigrant visa processing for nationals of 75 countries beginning Jan. 21.
 
-### c_002 — confirmed, primary document
-**Subject entities:** Marco Rubio; U.S. Department of State
-**Predicate:** directed_under
-**Object:** November public charge directive (executive_directive)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Marco Rubio; U.S. Department of State
+- **Predicate:** directed_under
+- **Object:** November public charge directive (executive_directive)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > The suspension is directed by Secretary of State Marco Rubio and is based on a November directive tightening public charge rules.
 
-### c_003 — confirmed, primary document
-**Subject entities:** U.S. Department of State
-**Predicate:** listed
-**Object:** 75 countries (country_list)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Department of State
+- **Predicate:** listed
+- **Object:** 75 countries (country_list)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > The 75 countries affected include Afghanistan, Iran, Russia and Somalia, spanning Africa, Asia, Latin America and Eastern Europe.
 
-### c_004 — confirmed, primary document
-**Subject entities:** U.S. Department of State
-**Predicate:** exempts
-**Object:** non-immigrant visas (visa_category)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Department of State
+- **Predicate:** exempts
+- **Object:** non-immigrant visas (visa_category)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > The suspension does not apply to non-immigrant visas, including tourist and business visas, which make up the vast majority of visa seekers.
 
-### c_005 — confirmed, primary document
-**Subject entities:** U.S. Department of State
-**Predicate:** issued
-**Object:** cable directing screening of non-immigrant visa applicants for public benefit reliance (directive)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Department of State
+- **Predicate:** issued
+- **Object:** cable directing screening of non-immigrant visa applicants for public benefit reliance (directive)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > A separate cable sent to all U.S. embassies and consulates on Monday directs consular officers to screen non-immigrant visa applicants for the likelihood of seeking public benefits.
 
-### c_006 — attributed, single source
-**Subject entities:** Associated Press
-**Predicate:** obtained
-**Object:** copy of the State Department cable (document)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Associated Press
+- **Predicate:** obtained
+- **Object:** copy of the State Department cable (document)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > The Associated Press obtained a copy of the cable.
 
-### c_007 — confirmed, primary document
-**Subject entities:** U.S. Department of State
-**Predicate:** places_burden_on
-**Object:** applicants to demonstrate non-reliance on public benefits (evidentiary_standard)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Department of State
+- **Predicate:** places_burden_on
+- **Object:** applicants to demonstrate non-reliance on public benefits (evidentiary_standard)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > The cable places the burden on applicants to prove they would not seek public assistance and directs officers who suspect applicants might apply to require additional financial documentation.
 
-### c_008 — attributed, single source
-**Subject entities:** Donald Trump; U.S. Department of State
-**Predicate:** builds_on
-**Object:** prior bans on nearly 40 countries (prior_policy)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; U.S. Department of State
+- **Predicate:** builds_on
+- **Object:** prior bans on nearly 40 countries (prior_policy)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > The suspension builds on earlier immigration and travel bans affecting nearly 40 countries.
 
-### c_009 — attributed, single source
-**Subject entities:** United States
-**Predicate:** will_host
-**Object:** 2026 World Cup and 2028 Olympics (sporting_event)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** United States
+- **Predicate:** will_host
+- **Object:** 2026 World Cup and 2028 Olympics (sporting_event)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Non-immigrant visa demand is expected to rise due to the 2026 World Cup and 2028 Olympics, both of which the United States will host or co-host.
 
-### c_010 — confirmed, primary document
-**Subject entities:** U.S. Department of State
-**Predicate:** requires_assessment_of
-**Object:** expanded personal-detail vetting criteria (vetting_criteria)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Department of State
+- **Predicate:** requires_assessment_of
+- **Object:** expanded personal-detail vetting criteria (vetting_criteria)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > The new directive requires consular officials to assess an applicant's age, health, family status, finances, education, skills, prior public assistance use and English proficiency when vetting visa applications.
 
-### c_011 — attributed, single source
-**Subject entities:** Donald Trump; United States
-**Predicate:** expanded
-**Object:** public charge disqualifying benefit programs in first term (prior_policy)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; United States
+- **Predicate:** expanded
+- **Object:** public charge disqualifying benefit programs in first term (prior_policy)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Federal law has long required those seeking permanent residency to prove they would not become a public charge; Trump in his first term widened the range of benefit programs that could disqualify applicants.
 
@@ -243,10 +245,5 @@ The 75 countries whose nationals will be subject to the immigrant visa suspensio
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Matthew Lee
 **Publication date:** 2026-01-14
-**Access date:** 2026-01-14
 **Title:** US suspends immigrant visa processing from 75 countries over public assistance
 **URL:** https://apnews.com/article/trump-immigration-visas-79909bd01e9e1e3dedde144f865a1b9d
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

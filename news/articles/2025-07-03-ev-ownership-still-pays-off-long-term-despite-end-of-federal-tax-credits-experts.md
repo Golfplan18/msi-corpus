@@ -16,44 +16,42 @@ primary_themes:
 - climate and environment
 - transportation
 topic_tags:
-  - "accident and emergency incident"
-  - "artificial intelligence"
-  - "climate change"
-  - "crime, law and justice"
-  - "disaster, accident and emergency incident"
-  - "economy, business and finance"
-storyline_nexus: []
+- tax
+- energy and resource
+- transport
+- economy
+- government policy
+storyline_nexus:
+- trump-climate-energy-rollbacks
 geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
+- value: equality_fairness
   intensity: 0.9
-- value: accountability_of_power
-  intensity: 0.5
-- value: human_life_and_dignity
-  intensity: 0.55
-framework_version: 1.1.0
-generation_timestamp: '2026-05-16T00:00:00Z'
+- value: informed_citizenship
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-22T23:51:08Z'
 source_cluster_id: cluster_ap_2026-01-01_electric-vehicle-tax-credit-congress-tru
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 15
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 11
     reported: 0
-    contested: 0
+    appears: 0
+    attributed: 11
     confirmed: 4
+    contested: 0
+    alleged: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 4
-    single_source: 11
     two_independent: 0
+    primary_document: 4
+    one_originating_plus_primary_document: 0
+    single_source: 11
+    primary_plus_secondary: 0
 sources:
   count: 1
   outlets:
@@ -71,17 +69,19 @@ image:
   url: /articles/2025-07-03-ev-ownership-still-pays-off-long-term-despite-end-of-federal-tax-credits-experts.png
   alt: 'Illustration accompanying article: EV ownership still pays off long-term despite end of federal tax credits,'
   source: ai_generated
-cross_article_links:
-- slug: 2025-07-03-congress-ends-ev-tax-credits-buyers-have-until-sept-30-to-claim-them
-  relation: continues
-  strength: 1.0
-  confidence: high
-- slug: 2025-12-30-trump-s-epa-cuts-pollution-rules-and-staff-in-fossil-fuel-pivot
-  relation: related
-  strength: 0.6865
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Article summary bullet 1.
+- Article summary bullet 2.
+- Article summary bullet 3.
+- Article summary bullet 4.
+- Article summary bullet 5.
 
 Congress has eliminated federal tax incentives for electric vehicles, ending a $7,500 credit on new EVs and up to $4,000 on used ones before a Sept. 30 deadline for qualifying purchases. Even without the credits, transportation researchers and consumer advocates say electric vehicles remain financially and environmentally superior over the life of the car for buyers who can afford the higher sticker price.
 
@@ -117,138 +117,168 @@ The efficiency gap drives the difference. The Tesla Model Y and Tesla Model 3, t
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Q11696
-**Predicate:** passed
-**Object:** tax and spending bill terminating EV tax credits (legislation)
-**Temporal:** 2025-07-03
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Q11696
+- **Predicate:** passed
+- **Object:** tax and spending bill terminating EV tax credits (legislation)
+- **Temporal:** 2025-07-03
+- **Sources:** src_001
 
 > Congress passed a tax and spending cut bill ending federal electric vehicle tax incentives.
 
-### c_002 — confirmed, primary document
-**Subject entities:** Q_US_EV_buyers
-**Predicate:** must_qualify_by
-**Object:** 2025-09-30 (deadline)
-**Temporal:** 2025-07-03
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Q_US_EV_buyers
+- **Predicate:** must_qualify_by
+- **Object:** 2025-09-30 (deadline)
+- **Temporal:** 2025-07-03
+- **Sources:** src_001
 
 > Buyers have until Sept. 30 to qualify for the federal EV tax credits before they are terminated.
 
-### c_003 — confirmed, primary document
-**Subject entities:** Q_new_EV_tax_credit
-**Predicate:** was_valued_at
-**Object:** 7500 (currency_USD)
-**Temporal:** 2025-07-03
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Q_new_EV_tax_credit
+- **Predicate:** was_valued_at
+- **Object:** 7500 (currency_USD)
+- **Temporal:** 2025-07-03
+- **Sources:** src_001
 
 > Before the bill passed, new electric vehicles came with a $7,500 federal tax credit.
 
-### c_004 — confirmed, primary document
-**Subject entities:** Q_used_EV_tax_credit
-**Predicate:** was_up_to
-**Object:** 4000 (currency_USD)
-**Temporal:** 2025-07-03
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Q_used_EV_tax_credit
+- **Predicate:** was_up_to
+- **Object:** 4000 (currency_USD)
+- **Temporal:** 2025-07-03
+- **Sources:** src_001
 
 > Used EVs included a federal tax credit of up to $4,000 before the bill passed.
 
-### c_005 — attributed, single source
-**Subject entities:** Q_Kelley_Blue_Book
-**Predicate:** reported
-**Object:** 9000 (price_differential_USD)
-**Temporal:** 2025-07-03
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Q_Kelley_Blue_Book
+- **Predicate:** reported
+- **Object:** 9000 (price_differential_USD)
+- **Temporal:** 2025-07-03
+- **Sources:** src_001
 
 > According to Kelley Blue Book data, the average new EV costs roughly $9,000 more than the average new gas-powered car in the United States.
 
-### c_006 — attributed, single source
-**Subject entities:** Q_used_EV_price
-**Predicate:** exceeds_by
-**Object:** 2000 (price_differential_USD)
-**Temporal:** 2025-07-03
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Q_used_EV_price
+- **Predicate:** exceeds_by
+- **Object:** 2000 (price_differential_USD)
+- **Temporal:** 2025-07-03
+- **Sources:** src_001
 
 > Used EVs on average cost $2,000 more than comparable gas cars.
 
-### c_007 — attributed, single source
-**Subject entities:** Ingrid_Malmgren; Q_Plug_In_America
-**Predicate:** stated
-**Object:** EVs will become unaffordable to lower- and middle-income Americans without credits (statement)
-**Temporal:** 2025-07-03
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ingrid_Malmgren; Q_Plug_In_America
+- **Predicate:** stated
+- **Object:** EVs will become unaffordable to lower- and middle-income Americans without credits (statement)
+- **Temporal:** 2025-07-03
+- **Sources:** src_001
 
 > Ingrid Malmgren, Senior Policy Director of Plug In America, said EVs will become unaffordable to many lower- and middle-income Americans without the federal credits.
 
-### c_008 — attributed, single source
-**Subject entities:** Q_Joule_2020_EV_study
-**Predicate:** found
-**Object:** 7700 (fuel_savings_USD_15yr)
-**Temporal:** 2020
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Q_Joule_2020_EV_study
+- **Predicate:** found
+- **Object:** 7700 (fuel_savings_USD_15yr)
+- **Temporal:** 2020
+- **Sources:** src_001
 
 > A 2020 study in the academic journal Joule found that the average EV in the U.S. saves the driver $7,700 in fuel costs over a 15-year life span compared to a gas car.
 
-### c_009 — attributed, single source
-**Subject entities:** Q_Joule_2020_EV_study
-**Predicate:** found
-**Object:** 14000 (fuel_savings_USD_15yr_best_case)
-**Temporal:** 2020
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Q_Joule_2020_EV_study
+- **Predicate:** found
+- **Object:** 14000 (fuel_savings_USD_15yr_best_case)
+- **Temporal:** 2020
+- **Sources:** src_001
 
 > The 2020 Joule study found that an EV driver charging at home during off-peak hours in Washington state could save more than $14,000 in fuel over 15 years.
 
-### c_010 — attributed, single source
-**Subject entities:** Q_EV_manufacturing_emissions
-**Predicate:** produces_more_pollution_than
-**Object:** gas vehicle manufacturing (comparison)
-**Temporal:** 2025-07-03
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Q_EV_manufacturing_emissions
+- **Predicate:** produces_more_pollution_than
+- **Object:** gas vehicle manufacturing (comparison)
+- **Temporal:** 2025-07-03
+- **Sources:** src_001
 
 > Manufacturing an electric vehicle typically creates more pollution than making a gas-powered vehicle.
 
-### c_011 — attributed, single source
-**Subject entities:** Peter_Slowik; Q_ICCT
-**Predicate:** stated
-**Object:** lifecycle emissions even out at approximately 15,000 miles (statement)
-**Temporal:** 2025-07-03
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Peter_Slowik; Q_ICCT
+- **Predicate:** stated
+- **Object:** lifecycle emissions even out at approximately 15,000 miles (statement)
+- **Temporal:** 2025-07-03
+- **Sources:** src_001
 
 > After about 15,000 miles driven, the total lifecycle pollution of an EV and a gas car evens out, according to Peter Slowik of the International Council on Clean Transportation.
 
-### c_012 — attributed, single source
-**Subject entities:** Q_US_DOE
-**Predicate:** found
-**Object:** EV lifetime emissions approximately 50% of gas car (emissions_comparison)
-**Temporal:** 2025-07-03
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Q_US_DOE
+- **Predicate:** found
+- **Object:** EV lifetime emissions approximately 50% of gas car (emissions_comparison)
+- **Temporal:** 2025-07-03
+- **Sources:** src_001
 
 > By the end of a car's life, average EV emissions are roughly half those of the average gas car, according to the U.S. Department of Energy.
 
-### c_013 — attributed, single source
-**Subject entities:** Q_Yale_Climate_Connections_2023
-**Predicate:** found
-**Object:** 31% less pollution than gas car in West Virginia (emissions_comparison)
-**Temporal:** 2023
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Q_Yale_Climate_Connections_2023
+- **Predicate:** found
+- **Object:** 31% less pollution than gas car in West Virginia (emissions_comparison)
+- **Temporal:** 2023
+- **Sources:** src_001
 
 > A 2023 analysis by Yale Climate Connections found that an EV in West Virginia pollutes 31% less than an equivalent gas-powered car.
 
-### c_014 — attributed, single source
-**Subject entities:** Q_Tesla_Model_Y; Q_Tesla_Model_3
-**Predicate:** achieves
-**Object:** 100+ miles per gallon-equivalent (fuel_efficiency)
-**Temporal:** 2025-07-03
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Q_Tesla_Model_Y; Q_Tesla_Model_3
+- **Predicate:** achieves
+- **Object:** 100+ miles per gallon-equivalent (fuel_efficiency)
+- **Temporal:** 2025-07-03
+- **Sources:** src_001
 
 > The Tesla Model Y and Tesla Model 3 can drive more than 100 miles on energy equivalent to one gallon of gasoline.
 
-### c_015 — attributed, single source
-**Subject entities:** Peter_Slowik; Q_ICCT
-**Predicate:** stated
-**Object:** 4-5 times more efficient than 25-mpg gas vehicle (efficiency_comparison)
-**Temporal:** 2025-07-03
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Peter_Slowik; Q_ICCT
+- **Predicate:** stated
+- **Object:** 4-5 times more efficient than 25-mpg gas vehicle (efficiency_comparison)
+- **Temporal:** 2025-07-03
+- **Sources:** src_001
 
 > Peter Slowik of the International Council on Clean Transportation said popular EVs are four to five times more efficient than a 25-mpg gasoline vehicle.
 
@@ -257,10 +287,5 @@ The efficiency gap drives the difference. The Tesla Model Y and Tesla Model 3, t
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Caleigh Wells
 **Publication date:** 2025-07-03
-**Access date:** 2026-05-16
 **Title:** What to know about electric vehicles after federal tax credits end
 **URL:** https://apnews.com/article/electric-vehicle-tax-credit-congress-trump-cars-077b3852263f7b473dc3619030611649
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

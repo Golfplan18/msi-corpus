@@ -21,43 +21,44 @@ primary_themes:
 - civil rights legislation
 - legislative response
 topic_tags:
-  - "civil rights"
-  - "conflict, war and peace"
-  - "crime, law and justice"
+- civil rights
+- law
+- government policy
+- fundamental rights
+- politics
 storyline_nexus:
-  - immigration-enforcement
-  - us-administration-2026
-geographic_location: California, United States
+- us-immigration-enforcement
+geographic_location: United States
 floor_values_engaged:
-- value: human_life_and_dignity
-  intensity: 0.8
 - value: accountability_of_power
   intensity: 0.9
-- value: informed_citizenship
-  intensity: 0.8
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+- value: human_life_and_dignity
+  intensity: 0.6
+- value: equality_fairness
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:52:49Z'
 source_cluster_id: cluster_ap_2026-01-29_donald-trump-donald-trump-es-immigration
 gdelt_event_ids: []
-consensus_floor_version: v1
-publication_mindspec_version: v1
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 15
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 4
-    reported: 3
-    contested: 0
     confirmed: 8
+    alleged: 0
+    contested: 0
+    reported: 3
+    appears: 0
+    attributed: 4
   corroboration:
     primary_plus_secondary: 1
-    one_originating_plus_primary_document: 0
     primary_document: 7
-    single_source: 6
     two_independent: 1
+    single_source: 6
+    one_originating_plus_primary_document: 0
 sources:
   count: 1
   outlets:
@@ -71,41 +72,10 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-04-18-states-pass-laws-honoring-charlie-kirk-stirring-debate-on-religion-and-speech
-  relation: related
-  strength: 0.782
-  confidence: medium
-- slug: 2026-04-16-california-bill-delays-compliance-with-federal-health-subpoenas-for-trans-aborti
-  relation: related
-  strength: 0.7807
-  confidence: medium
-- slug: 2026-04-16-massachusetts-5m-immigrant-legal-aid-program-at-capacity-as-removal-cases-top-12
-  relation: related
-  strength: 0.7742
-  confidence: medium
-- slug: 2026-04-16-new-york-to-lose-73-5m-in-federal-funds-over-unrevoked-immigrant-cdls
-  relation: related
-  strength: 0.7575
-  confidence: medium
-- slug: 2026-04-17-abbott-threatens-200-million-in-funding-cuts-to-texas-cities-over-ice-policies
-  relation: related
-  strength: 0.7459
-  confidence: medium
-- slug: 2026-04-16-u-s-families-challenge-italy-s-ancestry-citizenship-law-at-court-of-cassation
-  relation: related
-  strength: 0.7432
-  confidence: medium
-- slug: 2026-01-12-minnesota-twin-cities-sue-trump-administration-over-fatal-ice-shooting
-  relation: related
-  strength: 0.8065
-  confidence: medium
-- slug: 2026-01-14-minneapolis-sees-second-federal-shooting-as-courts-governor-push-back-on-immigra
-  relation: related
-  strength: 0.7927
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
 
 California's Democratic-controlled Senate advanced a civil rights measure Tuesday that would make it easier for people to sue federal agents over rights violations. The bill, called the "No Kings Act," passed 30 to 10 along party lines after more than 90 minutes of floor debate. The legislation was shaped by Democratic concerns about the Trump administration's immigration enforcement escalation, underscored by the shooting death of Alex Pretti, a U.S. citizen and ICU nurse, by federal agents in Minnesota last weekend.
 
@@ -135,7 +105,7 @@ Shiu-Ming Cheer, deputy director of the California Immigrant Policy Center, said
 
 Republican Senator Tony Strickland of Huntington Beach criticized the bills, saying legislators should focus on California-specific problems rather than prepare for "hypothetical scenarios." He also argued that cities and states should reverse sanctuary policies that he said hamper coordination between local law enforcement and federal immigration authorities.
 
-"No one likes to see what's happening in Minnesota. No one wants to see that coming to California," Strickland said, referring to the shooting death of federal agents shooting Alex Pretti. "But the answer is not these bills."
+"No one likes to see what's happening in Minnesota. No one wants to see that coming to California," Strickland said, referring to the shooting death of Alex Pretti. Instead, he argued, cities and states should jettison their so-called "sanctuary" policies that hamper coordination between local law enforcement and federal immigration authorities.
 
 ## State-Federal Dynamics
 
@@ -145,144 +115,170 @@ Kevin Johnson, an immigration law professor and former dean of the UC Davis Scho
 
 The tension reflects broader questions about the balance of enforcement authority between state and federal governments, particularly as the Trump administration has threatened to withdraw federal funding from jurisdictions that limit cooperation with immigration enforcement.
 
----
-
-This article was generated algorithmically by Main Street Independent's News Article Generator framework. For details on the framework's methodology and standards, see /methodology. Licensed under CC0 — public domain.
-
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** California State Senate; No Kings Act
-**Predicate:** passed
-**Object:** legislation (legislative_action)
-**Temporal:** 2026-01-28
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** California State Senate; No Kings Act
+- **Predicate:** passed
+- **Object:** legislation (legislative_action)
+- **Temporal:** 2026-01-28
+- **Sources:** src_001
 
 > California's Senate passed the 'No Kings Act' on January 28, 2026.
 
-### c_002 — confirmed, primary document
-**Subject entities:** No Kings Act; California State Senate
-**Predicate:** passed_with_vote_tally
-**Object:** 30-10 (vote_tally)
-**Temporal:** 2026-01-28
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** No Kings Act; California State Senate
+- **Predicate:** passed_with_vote_tally
+- **Object:** 30-10 (vote_tally)
+- **Temporal:** 2026-01-28
+- **Sources:** src_001
 
 > The bill passed 30 to 10 along party lines.
 
-### c_003 — confirmed, primary plus secondary
-**Subject entities:** No Kings Act
-**Predicate:** enables
-**Object:** civil rights lawsuits against federal agents (legal_provision)
-**Temporal:** 2026-01-28
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** No Kings Act
+- **Predicate:** enables
+- **Object:** civil rights lawsuits against federal agents (legal_provision)
+- **Temporal:** 2026-01-28
+- **Sources:** src_001
 
 > The bill makes it easier for people to sue federal agents for civil rights violations.
 
-### c_004 — reported, two independent
-**Subject entities:** Alex Pretti; federal agents
-**Predicate:** shot_and_killed
-**Object:** fatality (death)
-**Temporal:** 2026-01-25
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** two_independent
+- **Subject entities:** Alex Pretti; federal agents
+- **Predicate:** shot_and_killed
+- **Object:** fatality (death)
+- **Temporal:** 2026-01-25
+- **Sources:** src_001
 
 > Federal agents shot and killed Alex Pretti, a U.S. citizen and ICU nurse, in Minnesota.
 
-### c_005 — attributed, single source
-**Subject entities:** No Kings Act; California Democrats
-**Predicate:** motivated_by
-**Object:** concerns about federal enforcement escalation (motivation)
-**Temporal:** 2026-01-28
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** No Kings Act; California Democrats
+- **Predicate:** motivated_by
+- **Object:** concerns about federal enforcement escalation (motivation)
+- **Temporal:** 2026-01-28
+- **Sources:** src_001
 
 > The bill was shaped by Democratic fears of the Trump administration's immigration enforcement escalation.
 
-### c_006 — confirmed, primary document
-**Subject entities:** Isaac Bryan
-**Predicate:** authored
-**Object:** prohibition on federal moonlighting for ICE (legislative_proposal)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Isaac Bryan
+- **Predicate:** authored
+- **Object:** prohibition on federal moonlighting for ICE (legislative_proposal)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Assemblymember Isaac Bryan authored a bill prohibiting law enforcement from taking a side job as a federal immigration agent.
 
-### c_007 — confirmed, primary document
-**Subject entities:** Eloise Gómez Reyes
-**Predicate:** introduced
-**Object:** courthouse arrest restrictions (legislative_proposal)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Eloise Gómez Reyes
+- **Predicate:** introduced
+- **Object:** courthouse arrest restrictions (legislative_proposal)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Sen. Eloise Gómez Reyes introduced legislation to prevent ICE agents from making unannounced arrests in courthouses.
 
-### c_008 — confirmed, primary document
-**Subject entities:** Matt Haney
-**Predicate:** introduced
-**Object:** 50% tax on detention center profits (legislative_proposal)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Matt Haney
+- **Predicate:** introduced
+- **Object:** 50% tax on detention center profits (legislative_proposal)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Assemblymember Matt Haney introduced a bill placing a 50 percent tax on profits from immigration detention centers.
 
-### c_009 — reported, single source
-**Subject entities:** California detention centers
-**Predicate:** detaining
-**Object:** 5,700 people (detention_population)
-**Temporal:** 2026-01-28
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** California detention centers
+- **Predicate:** detaining
+- **Object:** 5,700 people (detention_population)
+- **Temporal:** 2026-01-28
+- **Sources:** src_001
 
 > Over 5,700 people are detained in seven immigration detention centers across California, three in Kern County.
 
-### c_010 — confirmed, primary document
-**Subject entities:** Gavin Newsom; California
-**Predicate:** signed
-**Object:** deportation resistance laws (legislative_action)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Gavin Newsom; California
+- **Predicate:** signed
+- **Object:** deportation resistance laws (legislative_action)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Gov. Gavin Newsom signed immigration enforcement resistance legislation in 2025.
 
-### c_011 — confirmed, primary document
-**Subject entities:** California 2025 legislation
-**Predicate:** includes
-**Object:** mask prohibition, school and hospital access limits (legislative_provisions)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_011
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** California 2025 legislation
+- **Predicate:** includes
+- **Object:** mask prohibition, school and hospital access limits (legislative_provisions)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > The 2025 laws include a measure prohibiting officers from wearing masks during enforcement operations and limiting ICE access to schools and hospitals.
 
-### c_012 — reported, single source
-**Subject entities:** California 2025 immigration laws
-**Predicate:** facing
-**Object:** legal challenges (legal_status)
-**Temporal:** 2026-01-28
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** California 2025 immigration laws
+- **Predicate:** facing
+- **Object:** legal challenges (legal_status)
+- **Temporal:** 2026-01-28
+- **Sources:** src_001
 
 > Some of the 2025 laws are facing legal challenges.
 
-### c_013 — attributed, single source
-**Subject entities:** Tony Strickland
-**Predicate:** opposed
-**Object:** new California bills (political_position)
-**Temporal:** 2026-01-28
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Tony Strickland
+- **Predicate:** opposed
+- **Object:** new California bills (political_position)
+- **Temporal:** 2026-01-28
+- **Sources:** src_001
 
 > Republican Senator Tony Strickland opposed the bills as overstepping on federal priorities.
 
-### c_014 — attributed, single source
-**Subject entities:** Tony Strickland
-**Predicate:** argued
-**Object:** opposition to sanctuary policies (policy_position)
-**Temporal:** 2026-01-28
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Tony Strickland
+- **Predicate:** argued
+- **Object:** opposition to sanctuary policies (policy_position)
+- **Temporal:** 2026-01-28
+- **Sources:** src_001
 
 > Strickland argued that states should abandon sanctuary policies limiting coordination between local law enforcement and federal immigration authorities.
 
-### c_015 — attributed, single source
-**Subject entities:** Kevin Johnson
-**Predicate:** said
-**Object:** states weigh enforcement resistance against funding threats (expert_analysis)
-**Temporal:** 2026-01-28
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Kevin Johnson
+- **Predicate:** said
+- **Object:** states weigh enforcement resistance against funding threats (expert_analysis)
+- **Temporal:** 2026-01-28
+- **Sources:** src_001
 
 > Kevin Johnson, an immigration law professor, said state and local governments are navigating enforcement resistance while facing federal funding threats.
 
@@ -291,10 +287,5 @@ This article was generated algorithmically by Main Street Independent's News Art
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Cayla Mihalovich
 **Publication date:** 2026-01-28
-**Access date:** 2026-01-28
 **Title:** California Democrats have new plans for confronting ICE: Taxes, lawsuits and location bans
 **URL:** https://apnews.com/article/donald-trump-donald-trump-es-immigration-california-alex-pretti-66afec39907e79564c4e7ab95d0a2a46
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

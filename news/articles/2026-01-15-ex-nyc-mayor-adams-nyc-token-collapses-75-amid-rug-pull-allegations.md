@@ -16,41 +16,41 @@ primary_themes:
 - fraud allegations
 - New York City politics
 topic_tags:
-  - "economy, business and finance"
-  - "financial and business service"
-  - government
-  - "political dissent"
-  - politics
-storyline_nexus: []
-geographic_location: New York City, New York, United States
+- economy, business and finance
+- crime
+- corruption
+- market and exchange
+storyline_nexus:
+- ai-industry-regulation
+geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
-  intensity: 0.85
-- value: informed_citizenship
-  intensity: 0.75
+  intensity: 0.9
 - value: truthfulness
-  intensity: 0.7
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:00:50Z'
+  intensity: 0.6
+- value: informed_citizenship
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:12:15Z'
 source_cluster_id: cluster_ap_2026-01-16_eric-adams-crypto-meme-coin-942bad447d25
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 16
   hedges:
     appears: 0
-    alleged: 0
-    attributed: 9
     reported: 3
-    contested: 0
     confirmed: 4
+    contested: 0
+    attributed: 9
+    alleged: 0
   corroboration:
-    primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
     primary_document: 0
+    primary_plus_secondary: 0
     single_source: 16
     two_independent: 0
 sources:
@@ -69,6 +69,14 @@ figures_aggregate:
 cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- The episode has returned Adams to the damage-control mode that characterized much of his single term as mayor, as crypto experts debated whether the launch amounted to a deliberate insider "rug pull" or a sloppy debut that savvier traders exploited, and questions mounted about the transparency and competence of his partners in the project.
+- Eric Adams, the former mayor of New York City, stood in Times Square on Monday to announce his first post-mayoral initiative: a new cryptocurrency meme coin called NYC Token, which he promised would fight antisemitism and "anti-Americanism" while transforming digital finance.
+- "We're about to change the game," Adams said.
 
 The episode has returned Adams to the damage-control mode that characterized much of his single term as mayor, as crypto experts debated whether the launch amounted to a deliberate insider "rug pull" or a sloppy debut that savvier traders exploited, and questions mounted about the transparency and competence of his partners in the project.
 
@@ -122,147 +130,179 @@ Benjamin Cowen, founder of crypto research firm Into the Cryptoverse, said the p
 
 ## Atomic claims
 
-### c_001 — confirmed, single source
-**Subject entities:** Eric Adams
-**Predicate:** announced
-**Object:** NYC Token cryptocurrency launch (event)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Eric Adams
+- **Predicate:** announced
+- **Object:** NYC Token cryptocurrency launch (event)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Eric Adams announced the NYC Token cryptocurrency from Times Square on Monday, January 13.
 
-### c_002 — reported, single source
-**Subject entities:** NYC Token
-**Predicate:** surged_to_valuation
-**Object:** nearly $600 million (market_cap)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** NYC Token
+- **Predicate:** surged_to_valuation
+- **Object:** nearly $600 million (market_cap)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > NYC Token surged to a valuation of nearly $600 million within minutes of its launch.
 
-### c_003 — reported, single source
-**Subject entities:** NYC Token
-**Predicate:** declined_in_value
-**Object:** nearly 75% (percentage_decline)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** NYC Token
+- **Predicate:** declined_in_value
+- **Object:** nearly 75% (percentage_decline)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > NYC Token lost nearly 75% of its value by the evening of its launch day.
 
-### c_004 — attributed, single source
-**Subject entities:** NYC Token
-**Predicate:** withdrew_funds
-**Object:** $2.5 million (withdrawal_amount)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** NYC Token
+- **Predicate:** withdrew_funds
+- **Object:** $2.5 million (withdrawal_amount)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > An account linked to the token's creation withdrew $2.5 million worth of coins shortly after launch, according to Bubblemaps.
 
-### c_005 — attributed, single source
-**Subject entities:** NYC Token
-**Predicate:** returned_funds
-**Object:** around $1.5 million (return_amount)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** NYC Token
+- **Predicate:** returned_funds
+- **Object:** around $1.5 million (return_amount)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Around $1.5 million of the withdrawn funds was later returned, according to Bubblemaps.
 
-### c_006 — attributed, single source
-**Subject entities:** Eric Adams
-**Predicate:** denied
-**Object:** profiting from token or moving investor funds (denial)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Eric Adams
+- **Predicate:** denied
+- **Object:** profiting from token or moving investor funds (denial)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Adams denied having profited from the token or having moved investor funds.
 
-### c_007 — attributed, single source
-**Subject entities:** Todd Shapiro; Eric Adams
-**Predicate:** denied_misconduct
-**Object:** false and unsupported by evidence (statement)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Todd Shapiro; Eric Adams
+- **Predicate:** denied_misconduct
+- **Object:** false and unsupported by evidence (statement)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Spokesperson Todd Shapiro called reports of misconduct 'false and unsupported by evidence.'
 
-### c_008 — reported, single source
-**Subject entities:** Frank Carone
-**Predicate:** involved_in
-**Object:** NYC Token launch (event)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Frank Carone
+- **Predicate:** involved_in
+- **Object:** NYC Token launch (event)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Frank Carone, Adams' former chief adviser, was closely involved in the token launch, according to two people who spoke to AP on condition of anonymity.
 
-### c_009 — confirmed, single source
-**Subject entities:** Yosef Sefi Zvieli
-**Predicate:** involved_in
-**Object:** NYC Token creation (event)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Yosef Sefi Zvieli
+- **Predicate:** involved_in
+- **Object:** NYC Token creation (event)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Yosef Sefi Zvieli, a real estate investor linked to several Israeli hotels, was part of the token's creation, confirmed by spokesperson Shapiro.
 
-### c_010 — attributed, single source
-**Subject entities:** Brock Pierce
-**Predicate:** stated
-**Object:** was not consulted before launch (statement)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Brock Pierce
+- **Predicate:** stated
+- **Object:** was not consulted before launch (statement)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Brock Pierce described himself as Adams' 'crypto adviser' but said he was only made aware of the project after its launch.
 
-### c_011 — attributed, single source
-**Subject entities:** NYC Token
-**Predicate:** trading_pattern
-**Object:** 80% of accounts bought in 20-minute pre-announcement window (statistic)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** NYC Token
+- **Predicate:** trading_pattern
+- **Object:** 80% of accounts bought in 20-minute pre-announcement window (statistic)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Roughly 80% of accounts that invested in NYC Token bought in during a 20-minute window after the coin became available but before Adams publicly announced it, according to Bubblemaps.
 
-### c_012 — attributed, single source
-**Subject entities:** NYC Token
-**Predicate:** investor_count
-**Object:** just over 4,000 (count)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** NYC Token
+- **Predicate:** investor_count
+- **Object:** just over 4,000 (count)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Just over 4,000 accounts had invested in NYC Token as of Thursday, according to Bubblemaps.
 
-### c_013 — attributed, single source
-**Subject entities:** NYC Token
-**Predicate:** investor_losses_gains
-**Object:** 15 traders down $100K+, 10 netted $100K+ (statistic)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** NYC Token
+- **Predicate:** investor_losses_gains
+- **Object:** 15 traders down $100K+, 10 netted $100K+ (statistic)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > As of Wednesday, 15 traders were down at least $100,000 and 10 had netted $100,000, per Bubblemaps analysis.
 
-### c_014 — attributed, single source
-**Subject entities:** Eric Adams
-**Predicate:** attributed_withdrawals_to
-**Object:** designated market maker activity (explanation)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Eric Adams
+- **Predicate:** attributed_withdrawals_to
+- **Object:** designated market maker activity (explanation)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Adams attributed the appearance of withdrawals to activity by the token's designated market maker.
 
-### c_015 — confirmed, single source
-**Subject entities:** FalconX
-**Predicate:** named_as
-**Object:** market maker for NYC Token (role)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_015
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** FalconX
+- **Predicate:** named_as
+- **Object:** market maker for NYC Token (role)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > FalconX, a digital asset broker, was identified as among the market makers; the company declined to respond to AP inquiries on the record.
 
-### c_016 — confirmed, single source
-**Subject entities:** NYC Token
-**Predicate:** stated_charitable_purpose
-**Object:** portion of proceeds to three causes, unspecified amounts and recipients (statement)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_016
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** NYC Token
+- **Predicate:** stated_charitable_purpose
+- **Object:** portion of proceeds to three causes, unspecified amounts and recipients (statement)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > The NYC Token website stated a 'portion of the proceeds' would be divided evenly among antisemitism and anti-Americanism awareness campaigns, crypto education for city youth, and a scholarship initiative, without specifying amounts or recipient organizations.
 
@@ -271,10 +311,5 @@ Benjamin Cowen, founder of crypto research firm Into the Cryptoverse, said the p
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Jake Offenhartz
 **Publication date:** 2026-01-15
-**Access date:** 2026-01-15
 **Title:** Ex-NYC Mayor Eric Adams faces scrutiny over new crypto coin
 **URL:** https://apnews.com/article/eric-adams-crypto-meme-coin-942bad447d2598b9cb7dbd6c98060a25
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

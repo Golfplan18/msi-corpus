@@ -18,7 +18,7 @@ topic_tags:
   - environment
   - pollution
 storyline_nexus:
-  - immigration-enforcement
+- trump-climate-energy-rollbacks
 geographic_location: California, United States
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -125,124 +125,148 @@ More than half of California's hazardous waste facilities are located in vulnera
 
 "Scientific research backs up community concerns that pollutants add up in the body and worsen health impacts," said Lara Cushing, an associate professor of environmental health sciences at UCLA. "We can't consider each pollution source in isolation, because we know communities are disproportionately exposed to multiple different types of contaminants at the same time, and they can accumulate. Chemicals can interact with each other in the body, and none of that's considered in the current rulemaking."
 
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under sources. Framework specification available at /methodology. Human review not triggered. Published under CC0 public domain.*
-
 ## Atomic claims
 
-### c_001 — reported, single source
-**Subject entities:** California legislature
-**Predicate:** enacted
-**Object:** law mandating cumulative impact consideration in hazardous waste permitting (legislation)
-**Temporal:** 2015
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** California legislature
+- **Predicate:** enacted
+- **Object:** law mandating cumulative impact consideration in hazardous waste permitting (legislation)
+- **Temporal:** 2015
+- **Sources:** src_001
 
 > California enacted a law requiring regulators to consider cumulative pollution impacts when weighing hazardous waste permits.
 
-### c_002 — reported, single source
-**Subject entities:** California DTSC
-**Predicate:** released
-**Object:** draft hazardous waste permitting regulations (regulatory_action)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** California DTSC
+- **Predicate:** released
+- **Object:** draft hazardous waste permitting regulations (regulatory_action)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > The Department of Toxic Substances Control released draft regulations seven years after the legal deadline.
 
-### c_003 — attributed, single source
-**Subject entities:** environmental advocates
-**Predicate:** contend
-**Object:** regulations lack clear denial thresholds for cumulative pollution (policy_criticism)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** environmental advocates
+- **Predicate:** contend
+- **Object:** regulations lack clear denial thresholds for cumulative pollution (policy_criticism)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Environmental advocates say the draft regulations do not provide clear thresholds for denying hazardous waste permits based on cumulative pollution.
 
-### c_004 — reported, single source
-**Subject entities:** DTSC draft regulation
-**Predicate:** requires
-**Object:** one-mile radius environmental assessment (regulatory_requirement)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** DTSC draft regulation
+- **Predicate:** requires
+- **Object:** one-mile radius environmental assessment (regulatory_requirement)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > The draft regulation requires facilities to assess pollution impacts within a one-mile radius.
 
-### c_005 — reported, single source
-**Subject entities:** Kettleman Hills landfill; Kettleman City
-**Predicate:** located
-**Object:** three miles away (geographic_distance)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Kettleman Hills landfill; Kettleman City
+- **Predicate:** located
+- **Object:** three miles away (geographic_distance)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Kettleman Hills hazardous waste landfill is located three miles from Kettleman City, outside the one-mile assessment radius.
 
-### c_006 — reported, single source
-**Subject entities:** Kettleman City
-**Predicate:** experienced
-**Object:** eleven birth defects in 1,500-resident population (public_health_event)
-**Temporal:** 2007-2010
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Kettleman City
+- **Predicate:** experienced
+- **Object:** eleven birth defects in 1,500-resident population (public_health_event)
+- **Temporal:** 2007-2010
+- **Sources:** src_001
 
 > Between 2007 and 2010, eleven babies were born with birth defects in Kettleman City, a town of approximately 1,500 residents.
 
-### c_007 — reported, single source
-**Subject entities:** Kettleman City birth defect cluster
-**Predicate:** remains
-**Object:** unexplained cause (knowledge_gap)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Kettleman City birth defect cluster
+- **Predicate:** remains
+- **Object:** unexplained cause (knowledge_gap)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > The cause of the birth defect cluster in Kettleman City remains unexplained.
 
-### c_008 — reported, single source
-**Subject entities:** Kettleman City
-**Predicate:** ranks
-**Object:** top 10 percent (environmental_vulnerability_ranking)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Kettleman City
+- **Predicate:** ranks
+- **Object:** top 10 percent (environmental_vulnerability_ranking)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Kettleman City ranks in the top 10 percent of California's CalEnviroScreen for environmental harm.
 
-### c_009 — reported, single source
-**Subject entities:** California hazardous waste facilities
-**Predicate:** located
-**Object:** more than 50 percent in vulnerable communities (facility_distribution_statistic)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** California hazardous waste facilities
+- **Predicate:** located
+- **Object:** more than 50 percent in vulnerable communities (facility_distribution_statistic)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > More than half of California's hazardous waste facilities are located in vulnerable communities.
 
-### c_010 — attributed, single source
-**Subject entities:** waste industry groups
-**Predicate:** contend
-**Object:** regulations could strain state waste management system (industry_concern)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** waste industry groups
+- **Predicate:** contend
+- **Object:** regulations could strain state waste management system (industry_concern)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Industry groups say the new regulations could strain California's hazardous waste management system.
 
-### c_011 — reported, single source
-**Subject entities:** Exide Technologies
-**Predicate:** operated
-**Object:** more than 100 violations over 30 years near residential areas (regulatory_violation_history)
-**Temporal:** 1980s-2010s
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Exide Technologies
+- **Predicate:** operated
+- **Object:** more than 100 violations over 30 years near residential areas (regulatory_violation_history)
+- **Temporal:** 1980s-2010s
+- **Sources:** src_001
 
 > Exide Technologies, a lead battery recycling plant, operated with more than 100 documented violations for more than 30 years near thousands of homes before federal action forced closure.
 
-### c_012 — reported, single source
-**Subject entities:** DTSC
-**Predicate:** extended
-**Object:** public comment deadline to February 3 (regulatory_action)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** DTSC
+- **Predicate:** extended
+- **Object:** public comment deadline to February 3 (regulatory_action)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > DTSC extended the public comment deadline for the draft regulations to February 3.
 
-### c_013 — attributed, single source
-**Subject entities:** DTSC
-**Predicate:** stated
-**Object:** law requires consideration of criteria but not a specific denial threshold (regulatory_interpretation)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** DTSC
+- **Predicate:** stated
+- **Object:** law requires consideration of criteria but not a specific denial threshold (regulatory_interpretation)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > DTSC says the law directs the department to consider additional permit criteria, not to create a single threshold for permit denial.
 
@@ -254,7 +278,3 @@ More than half of California's hazardous waste facilities are located in vulnera
 **Access date:** 2026-01-28
 **Title:** Residents of a polluted California town pinned hopes on new state rules. They're still waiting
 **URL:** https://apnews.com/article/pollution-waste-management-california-general-news-56aad09f374a09f419a3c927196de90f
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

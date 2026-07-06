@@ -89,8 +89,6 @@ The Titanic has remained a subject of worldwide fascination in part because of t
 
 The previous record for Titanic memorabilia was 1.56 million pounds (approximately $2 million at the time) paid in 2024 for a gold pocket watch given to the captain of RMS Carpathia, the ship that rescued 700 Titanic survivors.
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
 ### c_001 — attributed, single source
@@ -244,7 +242,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-05-17
 **Title:** Life jacket worn by Titanic survivor auctions off for over $900,000
 **URL:** https://apnews.com/article/titanic-sinking-life-jacket-auction-8b435e9092435b0d7fe719f04017b1d2
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

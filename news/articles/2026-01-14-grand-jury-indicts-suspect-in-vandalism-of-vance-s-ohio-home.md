@@ -15,7 +15,8 @@ primary_themes:
 topic_tags:
   - "crime, law and justice"
   - prosecution
-storyline_nexus: []
+storyline_nexus:
+- trump-judicial-challenges
 geographic_location: Columbus, Ohio; Cincinnati, Ohio, United States
 floor_values_engaged:
 - value: truthfulness
@@ -98,106 +99,126 @@ After the state dropped vandalism, criminal trespass, criminal damaging and obst
 
 In social media posts and interviews, Vance thanked the Secret Service and Cincinnati Police for their response to the incident. He declined to speculate on DeFoor's motive but described the suspect as "clearly a very sick individual."
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** William D. DeFoor
-**Predicate:** indicted_on_charges
-**Object:** three federal charges (legal_charge)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** William D. DeFoor
+- **Predicate:** indicted_on_charges
+- **Object:** three federal charges (legal_charge)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > A federal grand jury indicted William D. DeFoor, 26, of Cincinnati on three federal charges Wednesday.
 
-### c_002 — confirmed, primary document
-**Subject entities:** William D. DeFoor
-**Predicate:** charged_with
-**Object:** three federal criminal charges (legal_charge)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** William D. DeFoor
+- **Predicate:** charged_with
+- **Object:** three federal criminal charges (legal_charge)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > The charges include damaging government property, engaging in physical violence against property in a restricted building or grounds, and assaulting, resisting or impeding federal officers.
 
-### c_003 — confirmed, primary document
-**Subject entities:** William D. DeFoor
-**Predicate:** faces_potential_sentence
-**Object:** 10 years per first two counts, 20 years on third count (sentence_range)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** William D. DeFoor
+- **Predicate:** faces_potential_sentence
+- **Object:** 10 years per first two counts, 20 years on third count (sentence_range)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > DeFoor faces up to 10 years in prison on each of the first two charges and up to 20 years on the third.
 
-### c_004 — reported, primary document
-**Subject entities:** William D. DeFoor; Vice President Vance's residence
-**Predicate:** breached_property
-**Object:** VP Vance's Ohio home (restricted_property)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** William D. DeFoor; Vice President Vance's residence
+- **Predicate:** breached_property
+- **Object:** VP Vance's Ohio home (restricted_property)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > On Jan. 5 after midnight, DeFoor breached the property of Vice President Vance's Ohio home armed with a hammer.
 
-### c_005 — reported, primary document
-**Subject entities:** William D. DeFoor
-**Predicate:** damaged_property
-**Object:** 14 historic window panes and Secret Service vehicle window (property_damage)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** William D. DeFoor
+- **Predicate:** damaged_property
+- **Object:** 14 historic window panes and Secret Service vehicle window (property_damage)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > DeFoor broke 14 historic window panes and attempted to break out the window of an unmarked Secret Service vehicle.
 
-### c_006 — reported, primary document
-**Subject entities:** VP Vance's residence
-**Predicate:** sustained_damage
-**Object:** $28,000 (monetary_damage)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** VP Vance's residence
+- **Predicate:** sustained_damage
+- **Object:** $28,000 (monetary_damage)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > Damage to security enhancements around the windows was valued at $28,000.
 
-### c_007 — attributed, single source
-**Subject entities:** Paul Laufman; William D. DeFoor
-**Predicate:** characterized_as
-**Object:** mental health issue, not political motivation (legal_characterization)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Paul Laufman; William D. DeFoor
+- **Predicate:** characterized_as
+- **Object:** mental health issue, not political motivation (legal_characterization)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Defense attorney Paul Laufman said the situation represents purely a mental health issue and that his client was not motivated by politics.
 
-### c_008 — reported, primary document
-**Subject entities:** William D. DeFoor
-**Predicate:** had_charges_dropped
-**Object:** state charges including vandalism and criminal trespass (legal_action)
-**Temporal:** 2026-01-10
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** William D. DeFoor
+- **Predicate:** had_charges_dropped
+- **Object:** state charges including vandalism and criminal trespass (legal_action)
+- **Temporal:** 2026-01-10
+- **Sources:** src_001
 
 > Separate vandalism, criminal trespass, criminal damaging and obstruction charges initially brought against DeFoor in state court were dropped Friday.
 
-### c_009 — reported, primary document
-**Subject entities:** federal judge; William D. DeFoor
-**Predicate:** ruled_detention
-**Object:** remain incarcerated pending trial (legal_ruling)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** federal judge; William D. DeFoor
+- **Predicate:** ruled_detention
+- **Object:** remain incarcerated pending trial (legal_ruling)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > A federal judge ruled Tuesday that DeFoor must remain incarcerated pending trial.
 
-### c_010 — reported, single source
-**Subject entities:** JD Vance
-**Predicate:** thanked
-**Object:** U.S. Secret Service and Cincinnati Police (acknowledgment)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** JD Vance
+- **Predicate:** thanked
+- **Object:** U.S. Secret Service and Cincinnati Police (acknowledgment)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Vice President Vance thanked the Secret Service and Cincinnati Police for their work on the case.
 
-### c_011 — attributed, single source
-**Subject entities:** JD Vance; William D. DeFoor
-**Predicate:** characterized
-**Object:** clearly a very sick individual (characterization)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** JD Vance; William D. DeFoor
+- **Predicate:** characterized
+- **Object:** clearly a very sick individual (characterization)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Vice President Vance declined to speculate on DeFoor's motive but called the suspect clearly a very sick individual.
 
@@ -209,7 +230,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-05-17
 **Title:** Suspect indicted in vandalism of JD Vance's home in Ohio
 **URL:** https://apnews.com/article/vance-home-damaged-suspect-indicted-8ace19b1b3eda47ca3d87946d9516b20
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

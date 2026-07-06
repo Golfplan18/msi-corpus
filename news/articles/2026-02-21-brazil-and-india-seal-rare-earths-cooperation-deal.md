@@ -21,8 +21,7 @@ topic_tags:
   - "international trade"
   - "science and technology"
   - "artificial intelligence"
-storyline_nexus:
-  - us-china-relations
+storyline_nexus: []
 geographic_location: Brazil, India
 floor_values_engaged:
 - value: accountability_of_power
@@ -308,7 +307,3 @@ Lula is expected to visit Washington in the coming months.
 **Access date:** 2026-05-18
 **Title:** Brazil and India forge new deal on critical minerals and rare earths
 **URL:** https://apnews.com/article/brazil-india-rare-earths-mining-renewable-energy-f9298c4050f8402e12c81401a6e88f20
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

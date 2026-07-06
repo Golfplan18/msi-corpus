@@ -16,46 +16,43 @@ primary_themes:
 - immigration enforcement
 - diplomatic relations
 topic_tags:
-  - "conflict, war and peace"
-  - government
-  - "government policy"
-  - "human migration"
-  - "international relations"
-  - "political dissent"
+- law enforcement
+- international relations
+- civil rights
+- government policy
 storyline_nexus:
-  - immigration-enforcement
-  - us-administration-2026
-geographic_location: Milan, Italy
+- us-immigration-enforcement
+geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
-  intensity: 0.8
+  intensity: 0.9
+- value: human_life_and_dignity
+  intensity: 0.6
 - value: informed_citizenship
-  intensity: 0.75
-- value: truthfulness
-  intensity: 0.75
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:24:51Z'
 source_cluster_id: cluster_ap_2026-01-28_ice-milan-cortina-olympics-immigration-e
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 14
   hedges:
+    confirmed: 0
     appears: 0
     alleged: 0
     attributed: 12
     reported: 2
     contested: 0
-    confirmed: 0
   corroboration:
-    primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
-    primary_document: 9
-    single_source: 5
     two_independent: 0
+    single_source: 5
+    primary_document: 9
+    primary_plus_secondary: 0
 sources:
   count: 1
   outlets:
@@ -69,41 +66,17 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-04-16-minnesota-probes-federal-officers-over-two-killings-wounding-and-highway-assault
-  relation: related
-  strength: 0.7736
-  confidence: medium
-- slug: 2026-04-16-minnesota-charges-ice-agent-with-felony-assault-for-pointing-gun-at-highway-driv
-  relation: related
-  strength: 0.768
-  confidence: medium
-- slug: 2026-04-17-ice-acting-director-todd-lyons-to-resign-at-end-of-may
-  relation: related
-  strength: 0.7623
-  confidence: medium
-- slug: 2026-01-07-dhs-deploys-2-000-agents-to-minnesota-in-largest-immigration-operation
-  relation: related
-  strength: 0.8567
-  confidence: medium
-- slug: 2026-01-09-federal-officers-leave-louisiana-immigration-operation-for-minneapolis
-  relation: related
-  strength: 0.8351
-  confidence: medium
-- slug: 2026-01-14-minneapolis-sees-second-federal-shooting-as-courts-governor-push-back-on-immigra
-  relation: related
-  strength: 0.7921
-  confidence: medium
-- slug: 2026-01-13-federal-agents-deploy-tear-gas-in-minneapolis-as-five-prosecutors-resign-over-re
-  relation: related
-  strength: 0.7896
-  confidence: medium
-- slug: 2026-01-11-federal-agents-ram-minneapolis-door-pepper-spray-protesters-in-immigration-sweep
-  relation: related
-  strength: 0.8002
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- The distinction between HSI, which investigates cross-border crimes, and the deportation-focused arm of ICE known as Enforcement and Removal Operations was not immediately clear to Italian media and the public, despite official assurances that only investigators would be deployed.
+- Italy's Interior Ministry confirmed that U.S.
+- HSI, which focuses on cross-border crimes including human smuggling and fentanyl trafficking, has been deployed to major international events for years.
 
 The U.S. Department of Homeland Security announced that Homeland Security Investigations, a unit within Immigration and Customs Enforcement, will assist with security at the Milan-Cortina Winter Games starting Feb. 6. The deployment has set off concern and confusion in Italy, where officials and residents expressed outrage at the inclusion of any ICE unit, given the agency's role in the Trump administration's immigration enforcement operations, which have intensified in Minneapolis in recent weeks.
 
@@ -135,137 +108,161 @@ Italy's Interior Ministry said that HSI investigators would not include personne
 
 The games, starting Feb. 6, will be the most geographically dispersed Winter Olympics on record, spreading across seven towns and cities in northern Italy. U.S. Vice President JD Vance is scheduled to attend the opening ceremony in Milan. Italy has mobilized more than 6,000 police and agents to secure the event, coordinated by the Interior Ministry and regional authorities.
 
----
-
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the Associated Press reporting listed above. Framework specification available at /methodology. No human review was triggered.
-
 This work is offered under Creative Commons CC0 public domain dedication. The framework, sources, and methodology are available for adoption or modification by other publications.
 
 ## Atomic claims
 
-### c_001 — attributed, primary document
-**Subject entities:** Homeland Security Investigations; Milan-Cortina Winter Games
-**Predicate:** will_assist_with_security
-**Object:** Winter Games security operations (operational_support)
-**Temporal:** 2026-02-06
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Homeland Security Investigations; Milan-Cortina Winter Games
+- **Predicate:** will_assist_with_security
+- **Object:** Winter Games security operations (operational_support)
+- **Temporal:** 2026-02-06
+- **Sources:** src_001
 
 > Homeland Security Investigations, a unit within Immigration and Customs Enforcement, will assist with security at the Milan-Cortina Winter Games.
 
-### c_002 — reported, single source
-**Subject entities:** Italian officials; Italian residents
-**Predicate:** expressed_outrage
-**Object:** ICE unit deployment to Milan Olympics (political_reaction)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Italian officials; Italian residents
+- **Predicate:** expressed_outrage
+- **Object:** ICE unit deployment to Milan Olympics (political_reaction)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Italian officials and residents expressed outrage at the deployment of an ICE unit.
 
-### c_003 — attributed, single source
-**Subject entities:** Giuseppe Sala; Milan
-**Predicate:** stated_not_welcome
-**Object:** ICE presence at the Olympics (policy_position)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Giuseppe Sala; Milan
+- **Predicate:** stated_not_welcome
+- **Object:** ICE presence at the Olympics (policy_position)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Milan Mayor Giuseppe Sala said that ICE would not be welcome in Milan.
 
-### c_004 — attributed, single source
-**Subject entities:** Giuseppe Sala
-**Predicate:** told_radio_station
-**Object:** characterization of ICE as militia (direct_quotation)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Giuseppe Sala
+- **Predicate:** told_radio_station
+- **Object:** characterization of ICE as militia (direct_quotation)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > "This is a militia that kills, a militia that enters into the homes of people, signing their own permission slips. It is clear they are not welcome in Milan, without a doubt," Sala told RTL Radio 102.
 
-### c_005 — attributed, primary document
-**Subject entities:** Italy Interior Ministry; Homeland Security Investigations
-**Predicate:** said_stationed
-**Object:** U.S. Consulate Milan, support role position (official_statement)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Italy Interior Ministry; Homeland Security Investigations
+- **Predicate:** said_stationed
+- **Object:** U.S. Consulate Milan, support role position (official_statement)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Italy's Interior Ministry said that HSI investigators would be stationed at a control room at the U.S. Consulate in Milan in a support role with other U.S. law enforcement agencies.
 
-### c_006 — attributed, primary document
-**Subject entities:** Italy Interior Ministry
-**Predicate:** clarified_composition
-**Object:** HSI deployment excludes immigration enforcement officers (official_clarification)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Italy Interior Ministry
+- **Predicate:** clarified_composition
+- **Object:** HSI deployment excludes immigration enforcement officers (official_clarification)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Italy's Interior Ministry said that HSI agents would not include personnel involved in immigration controls in the United States.
 
-### c_007 — attributed, primary document
-**Subject entities:** Homeland Security Investigations
-**Predicate:** present_in_multiple_countries
-**Object:** 50+ countries globally, including Italy for many years (factual_statement)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Homeland Security Investigations
+- **Predicate:** present_in_multiple_countries
+- **Object:** 50+ countries globally, including Italy for many years (factual_statement)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > HSI agents are present in more than 50 countries, including for many years Italy, according to Italy's Interior Ministry.
 
-### c_008 — attributed, primary document
-**Subject entities:** Italy Interior Ministry
-**Predicate:** asserted_responsibility
-**Object:** Italian authority over all security operations (direct_quotation)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Italy Interior Ministry
+- **Predicate:** asserted_responsibility
+- **Object:** Italian authority over all security operations (direct_quotation)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > "All of the security operations in the territory remain as always the exclusive responsibility and direction of Italian authorities," Italy's Interior Ministry said.
 
-### c_009 — attributed, primary document
-**Subject entities:** Enforcement and Removal Operations
-**Predicate:** tasked_with
-**Object:** monitoring, arresting, removing undocumented foreigners (agency_function)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Enforcement and Removal Operations
+- **Predicate:** tasked_with
+- **Object:** monitoring, arresting, removing undocumented foreigners (agency_function)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Enforcement and Removal Operations is the part of ICE tasked with monitoring, arresting and removing foreigners who no longer have the right to be in the U.S.
 
-### c_010 — attributed, primary document
-**Subject entities:** Homeland Security Investigations
-**Predicate:** conduct_investigations
-**Object:** transnational crimes and cross-border criminal activity (agency_function)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Homeland Security Investigations
+- **Predicate:** conduct_investigations
+- **Object:** transnational crimes and cross-border criminal activity (agency_function)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Homeland Security Investigations agents conduct investigations into matters with cross-border connections, from human smuggling to fentanyl trafficking to smuggling of cultural artifacts.
 
-### c_011 — attributed, primary document
-**Subject entities:** U.S. Department of Homeland Security
-**Predicate:** asserted
-**Object:** ICE foreign operations limitation (direct_quotation)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Department of Homeland Security
+- **Predicate:** asserted
+- **Object:** ICE foreign operations limitation (direct_quotation)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > "Obviously, ICE does not conduct immigration enforcement operations in foreign countries," the Department of Homeland Security said.
 
-### c_012 — attributed, primary document
-**Subject entities:** Homeland Security Investigations; U.S. Department of Homeland Security
-**Predicate:** supporting
-**Object:** vetting and risk mitigation from transnational criminal organizations (operational_role)
-**Temporal:** 2026-02-06
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Homeland Security Investigations; U.S. Department of Homeland Security
+- **Predicate:** supporting
+- **Object:** vetting and risk mitigation from transnational criminal organizations (operational_role)
+- **Temporal:** 2026-02-06
+- **Sources:** src_001
 
 > "At the Olympics, ICE's Homeland Security Investigations is supporting the U.S. Department of State's Diplomatic Security Service and host nation to vet and mitigate risks from transnational criminal organizations," according to DHS.
 
-### c_013 — attributed, single source
-**Subject entities:** JD Vance; Milan-Cortina Winter Games
-**Predicate:** will_attend
-**Object:** opening ceremony (event_attendance)
-**Temporal:** 2026-02-06
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** JD Vance; Milan-Cortina Winter Games
+- **Predicate:** will_attend
+- **Object:** opening ceremony (event_attendance)
+- **Temporal:** 2026-02-06
+- **Sources:** src_001
 
 > U.S. Vice President JD Vance will attend the Feb. 6 opening ceremony.
 
-### c_014 — reported, single source
-**Subject entities:** federal immigration officers; Minneapolis residents
-**Predicate:** led_to_fatal_incidents
-**Object:** two fatal shootings of U.S. citizens (incident)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_014
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** federal immigration officers; Minneapolis residents
+- **Predicate:** led_to_fatal_incidents
+- **Object:** two fatal shootings of U.S. citizens (incident)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Trump's immigration enforcement operations have in recent weeks intensified in Minneapolis, leading to the fatal shootings of two U.S. citizens at the hands of federal immigration officers.
 
@@ -274,10 +271,5 @@ This work is offered under Creative Commons CC0 public domain dedication. The fr
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Colleen Barry
 **Publication date:** 2026-01-27
-**Access date:** 2026-01-27
 **Title:** ICE unit to play security role at Milan Cortina Winter Games
 **URL:** https://apnews.com/article/ice-milan-cortina-olympics-immigration-enforcement-us-110fa4b2066e1fb920dba2a71c3a89e0
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

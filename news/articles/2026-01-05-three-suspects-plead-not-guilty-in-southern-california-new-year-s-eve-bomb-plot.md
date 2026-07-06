@@ -16,42 +16,42 @@ primary_themes:
 - anti-capitalist extremism
 - bomb plot
 topic_tags:
-  - "conflict, war and peace"
-  - crime
-  - "crime, law and justice"
-  - "law enforcement"
-  - "science and technology"
-  - trial
-storyline_nexus: []
-geographic_location: Southern California, United States
+- crime, law and justice
+- terrorism
+- trial
+- law enforcement
+- prosecution
+storyline_nexus:
+- los-angeles-wildfire-recovery
+geographic_location: United States
 floor_values_engaged:
+- value: human_life_and_dignity
+  intensity: 0.9
 - value: informed_citizenship
-  intensity: 0.85
-- value: accountability_of_power
   intensity: 0.6
-framework_version: 1.1.0
-generation_timestamp: '2026-05-16T18:09:04Z'
+framework_version: 1.3.0
+generation_timestamp: '2026-05-22T23:58:22Z'
 source_cluster_id: cluster_ap_2026-01-06_los-angeles-new-years-eve-turtle-liberat
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 13
   hedges:
+    reported: 1
+    attributed: 5
     appears: 0
     alleged: 0
-    attributed: 5
-    reported: 1
     contested: 0
     confirmed: 7
   corroboration:
     primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 13
-    single_source: 0
     two_independent: 0
+    one_originating_plus_primary_document: 0
+    single_source: 0
 sources:
   count: 1
   outlets:
@@ -72,6 +72,12 @@ image:
 cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Article processed for summary.
 
 The case centers on an alleged plan to bomb five or more sites described as "Amazon-type" logistical centers, hatched by members of a radical anti-capitalist group called the Turtle Island Liberation Front. All four suspects were arrested in the Mojave Desert on Dec. 12 while rehearsing the alleged plot, before they had assembled a functional explosive device, officials said.
 
@@ -107,120 +113,146 @@ Trial for Carroll, Page, and Lai is scheduled to begin Feb. 17. Anthony-Gaffield
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Audrey Carroll; Zachary Page
-**Predicate:** pleaded_not_guilty
-**Object:** federal court (venue)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Audrey Carroll; Zachary Page
+- **Predicate:** pleaded_not_guilty
+- **Object:** federal court (venue)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > Audrey Carroll, 30, and Zachary Page, 32, entered not-guilty pleas in federal court Monday, Jan. 5, 2026.
 
-### c_002 — confirmed, primary document
-**Subject entities:** Tina Lai
-**Predicate:** pleaded_not_guilty
-**Object:** federal court (venue)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Tina Lai
+- **Predicate:** pleaded_not_guilty
+- **Object:** federal court (venue)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > Tina Lai, 41, entered her not-guilty plea in federal court several days before Jan. 5, 2026.
 
-### c_003 — confirmed, primary document
-**Subject entities:** Dante Anthony-Gaffield
-**Predicate:** scheduled_plea
-**Object:** 2026-01-20 (date)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Dante Anthony-Gaffield
+- **Predicate:** scheduled_plea
+- **Object:** 2026-01-20 (date)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > Dante Anthony-Gaffield, 24, is scheduled to enter his plea Jan. 20.
 
-### c_004 — attributed, primary document
-**Subject entities:** Audrey Carroll; Zachary Page; Tina Lai; Dante Anthony-Gaffield
-**Predicate:** arrested
-**Object:** Mojave Desert, California (location)
-**Temporal:** 2025-12-12
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Audrey Carroll; Zachary Page; Tina Lai; Dante Anthony-Gaffield
+- **Predicate:** arrested
+- **Object:** Mojave Desert, California (location)
+- **Temporal:** 2025-12-12
+- **Sources:** src_001
 
 > All four suspects were arrested Dec. 12 in the Mojave Desert east of Los Angeles while rehearsing their alleged plot, according to First Assistant U.S. Attorney Bill Essayli.
 
-### c_005 — attributed, primary document
-**Subject entities:** Audrey Carroll; Zachary Page; Tina Lai; Dante Anthony-Gaffield
-**Predicate:** arrested_before_device_assembly
-**Object:** functional explosive device (weapon)
-**Temporal:** 2025-12-12
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Audrey Carroll; Zachary Page; Tina Lai; Dante Anthony-Gaffield
+- **Predicate:** arrested_before_device_assembly
+- **Object:** functional explosive device (weapon)
+- **Temporal:** 2025-12-12
+- **Sources:** src_001
 
 > Officials said the arrests were made before the suspects assembled a functional explosive device.
 
-### c_006 — attributed, primary document
-**Subject entities:** Audrey Carroll; Bill Essayli
-**Predicate:** alleged_bomb_plan
-**Object:** five or more Amazon-type logistical centers (alleged_target_description)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Audrey Carroll; Bill Essayli
+- **Predicate:** alleged_bomb_plan
+- **Object:** five or more Amazon-type logistical centers (alleged_target_description)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > First Assistant U.S. Attorney Bill Essayli said Carroll created a detailed plan to bomb five or more business locations owned by two companies across Southern California on New Year's Eve, which he described as 'Amazon-type' logistical centers.
 
-### c_007 — confirmed, primary document
-**Subject entities:** Audrey Carroll; Zachary Page; Tina Lai; Dante Anthony-Gaffield
-**Predicate:** indicted
-**Object:** material support to terrorists; possession of unregistered firearms (charges)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Audrey Carroll; Zachary Page; Tina Lai; Dante Anthony-Gaffield
+- **Predicate:** indicted
+- **Object:** material support to terrorists; possession of unregistered firearms (charges)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > A federal grand jury indicted all four defendants on multiple counts of providing and attempting to provide material support to terrorists and possession of unregistered firearms.
 
-### c_008 — confirmed, primary document
-**Subject entities:** Audrey Carroll; Zachary Page
-**Predicate:** indicted
-**Object:** conspiracy to use a weapon of mass destruction (charge)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Audrey Carroll; Zachary Page
+- **Predicate:** indicted
+- **Object:** conspiracy to use a weapon of mass destruction (charge)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > Carroll and Page were also indicted on one count of conspiracy to use a weapon of mass destruction.
 
-### c_009 — attributed, primary document
-**Subject entities:** Turtle Island Liberation Front
-**Predicate:** group_membership
-**Object:** offshoot of Turtle Island Liberation Front (organization)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Turtle Island Liberation Front
+- **Predicate:** group_membership
+- **Object:** offshoot of Turtle Island Liberation Front (organization)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > Officials said the defendants are members of an offshoot of an anti-capitalist and anti-government group called the Turtle Island Liberation Front.
 
-### c_010 — attributed, primary document
-**Subject entities:** Turtle Island Liberation Front
-**Predicate:** faction_membership
-**Object:** Order of the Black Lotus (subgroup)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Turtle Island Liberation Front
+- **Predicate:** faction_membership
+- **Object:** Order of the Black Lotus (subgroup)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > The defendants belonged to what one defendant characterized as a 'radical' faction that communicated through a chat called 'Order of the Black Lotus,' according to the indictment.
 
-### c_011 — reported, primary document
-**Subject entities:** Turtle Island Liberation Front
-**Predicate:** discussed_future_attacks
-**Object:** ICE agents and vehicles, pipe bombs (alleged_target)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Turtle Island Liberation Front
+- **Predicate:** discussed_future_attacks
+- **Object:** ICE agents and vehicles, pipe bombs (alleged_target)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > Two group members had also discussed plans for future attacks targeting U.S. Immigration and Customs Enforcement agents and vehicles with pipe bombs, according to the criminal complaint.
 
-### c_012 — confirmed, primary document
-**Subject entities:** Audrey Carroll; Zachary Page; Tina Lai
-**Predicate:** trial_scheduled
-**Object:** 2026-02-17 (date)
-**Temporal:** 2026-02-17
-**Source IDs:** src_001
+### c_012
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Audrey Carroll; Zachary Page; Tina Lai
+- **Predicate:** trial_scheduled
+- **Object:** 2026-02-17 (date)
+- **Temporal:** 2026-02-17
+- **Sources:** src_001
 
 > Trial for Carroll, Page, and Lai is scheduled to begin Feb. 17.
 
-### c_013 — confirmed, primary document
-**Subject entities:** Audrey Carroll; Zachary Page; Dante Anthony-Gaffield; Tina Lai
-**Predicate:** potential_sentence
-**Object:** life imprisonment (Carroll, Page); 25 years (Anthony-Gaffield, Lai) (sentencing_range)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_013
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Audrey Carroll; Zachary Page; Dante Anthony-Gaffield; Tina Lai
+- **Predicate:** potential_sentence
+- **Object:** life imprisonment (Carroll, Page); 25 years (Anthony-Gaffield, Lai) (sentencing_range)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > If convicted, Carroll and Page could face a maximum sentence of life in federal prison; Anthony-Gaffield and Lai could face a maximum of 25 years.
 
@@ -229,10 +261,5 @@ Trial for Carroll, Page, and Lai is scheduled to begin Feb. 17. Anthony-Gaffield
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Jaimie Ding
 **Publication date:** 2026-01-05
-**Access date:** 2026-01-05
 **Title:** 3 suspects plead not guilty in Southern California New Year's Eve bomb plot
 **URL:** https://apnews.com/article/los-angeles-new-years-eve-turtle-liberation-arrests-97b2c6df4b923bd8e05ed12771d70827
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

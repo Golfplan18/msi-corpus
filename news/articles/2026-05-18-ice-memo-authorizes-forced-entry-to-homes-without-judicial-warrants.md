@@ -22,12 +22,12 @@ primary_themes:
 - Government Policy
 - Fourth Amendment
 topic_tags:
-  - politics
-  - "government policy"
-  - "crime, law and justice"
-  - law
+- politics
+- government policy
+- crime, law and justice
+- law
 storyline_nexus:
-  - immigration-enforcement
+- immigration-enforcement
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -101,10 +101,6 @@ cross_article_links:
   relation: related
   strength: 0.7663
   confidence: medium
-- slug: 2026-01-07-dhs-deploys-2-000-agents-to-minnesota-in-largest-immigration-operation
-  relation: related
-  strength: 0.7704
-  confidence: medium
 draft: false
 ---
 
@@ -148,97 +144,115 @@ David Kligerman, senior vice president and special counsel of Whistleblower Aid,
 
 The shift in policy comes as ICE has rapidly hired thousands of new deportation agents to implement the Trump administration's deportation agenda. During a visit to the Federal Law Enforcement Training Center in Georgia in August, ICE officials emphasized that new agents are trained to comply with the Fourth Amendment—though according to whistleblower accounts, that written training contradicts what new agents are actually being told to do.
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** U.S. Immigration and Customs Enforcement
-**Predicate:** authorized
-**Object:** forced entry authorization with administrative warrants (policy)
-**Temporal:** 2025-05-12
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Immigration and Customs Enforcement
+- **Predicate:** authorized
+- **Object:** forced entry authorization with administrative warrants (policy)
+- **Temporal:** 2025-05-12
+- **Sources:** src_001
 
 > ICE issued a memo dated May 12, 2025, authorizing agents to force entry into homes using administrative warrants.
 
-### c_002 — confirmed, primary document
-**Subject entities:** Todd Lyons
-**Predicate:** signed
-**Object:** ICE enforcement memorandum (action)
-**Temporal:** 2025-05-12
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Todd Lyons
+- **Predicate:** signed
+- **Object:** ICE enforcement memorandum (action)
+- **Temporal:** 2025-05-12
+- **Sources:** src_001
 
 > The memo was signed by Todd Lyons, interim director of ICE.
 
-### c_003 — confirmed, primary document
-**Subject entities:** U.S. Immigration and Customs Enforcement
-**Predicate:** authorizes
-**Object:** forced entry with administrative warrants for deportation subjects (policy_directive)
-**Temporal:** 2025-05-12
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Immigration and Customs Enforcement
+- **Predicate:** authorizes
+- **Object:** forced entry with administrative warrants for deportation subjects (policy_directive)
+- **Temporal:** 2025-05-12
+- **Sources:** src_001
 
 > The memo authorizes ICE agents to use force to enter residences if the subject has a final deportation order, using only an administrative warrant (I-205 form).
 
-### c_004 — attributed, single source
-**Subject entities:** U.S. Immigration and Customs Enforcement
-**Predicate:** contradicts
-**Object:** constitutional protections against warrantless entry (legal_conflict)
-**Temporal:** 2025-05-12
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Immigration and Customs Enforcement
+- **Predicate:** contradicts
+- **Object:** constitutional protections against warrantless entry (legal_conflict)
+- **Temporal:** 2025-05-12
+- **Sources:** src_001
 
 > The memo contradicts Fourth Amendment protections against unreasonable search and seizure.
 
-### c_005 — attributed, single source
-**Subject entities:** Lindsay Nash
-**Predicate:** states
-**Object:** memo contradicts constitutional protections (expert_analysis)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Lindsay Nash
+- **Predicate:** states
+- **Object:** memo contradicts constitutional protections (expert_analysis)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Law professors say the memo contradicts Fourth Amendment protections and ICE's own historical statements about its powers.
 
-### c_006 — confirmed, primary plus secondary
-**Subject entities:** ICE agents; Garrison Gibson
-**Predicate:** executed
-**Object:** forced entry and arrest (enforcement_action)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** ICE agents; Garrison Gibson
+- **Predicate:** executed
+- **Object:** forced entry and arrest (enforcement_action)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > On January 11 in Minneapolis, ICE agents breached the home of Garrison Gibson, a Liberian national with a 2023 deportation order, using only an administrative warrant.
 
-### c_007 — reported, single source
-**Subject entities:** ICE; new agents
-**Predicate:** trained
-**Object:** to follow administrative warrant directive (training_practice)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** ICE; new agents
+- **Predicate:** trained
+- **Object:** to follow administrative warrant directive (training_practice)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Newly hired ICE agents are being trained to rely on the memo's directives rather than written training materials that contradict the memo.
 
-### c_008 — attributed, single source
-**Subject entities:** Tricia McLaughlin; Department of Homeland Security
-**Predicate:** stated
-**Object:** administrative order recipients have received due process (government_defense)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Tricia McLaughlin; Department of Homeland Security
+- **Predicate:** stated
+- **Object:** administrative order recipients have received due process (government_defense)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > DHS spokeswoman Tricia McLaughlin stated that people notified with an administrative order have already received complete due process and a final deportation order.
 
-### c_009 — attributed, single source
-**Subject entities:** Whistleblower Aid
-**Predicate:** filed
-**Object:** complaint about unconstitutional policy (legal_action)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Whistleblower Aid
+- **Predicate:** filed
+- **Object:** complaint about unconstitutional policy (legal_action)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Whistleblower Aid, a nonprofit law firm, filed a complaint describing the memo as an unconstitutional institutional policy directive.
 
-### c_010 — reported, primary plus secondary
-**Subject entities:** immigration advocates
-**Predicate:** advised
-**Object:** right to refuse entry without judicial warrant (legal_guidance)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** immigration advocates
+- **Predicate:** advised
+- **Object:** right to refuse entry without judicial warrant (legal_guidance)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > For years, immigration advocates have advised immigrants that they can legally refuse entry to agents presenting only administrative warrants, based on Supreme Court rulings.
 
@@ -250,7 +264,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-05-18
 **Title:** Agentes migratorios de EEUU afirman tener potestad para cateos sin orden judicial, dice memorando
 **URL:** https://apnews.com/article/eeuu-redadas-migratorias-trump-c185db0ec1f06d6ec5b56edb6c23c31a
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

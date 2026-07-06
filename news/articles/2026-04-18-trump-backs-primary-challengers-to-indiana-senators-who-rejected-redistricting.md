@@ -17,42 +17,39 @@ primary_themes:
 - Primary elections
 - Presidential influence
 topic_tags:
-  - election
-  - politics
-storyline_nexus: []
-geographic_location: Indiana, United States
+- election
+- politics
+- government
+- political process
+storyline_nexus:
+- redistricting-voting-rights
+geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
-  intensity: 0.95
-- value: informed_citizenship
-  intensity: 0.85
-- value: truthfulness
-  intensity: 0.8
-- value: equality_fairness
-  intensity: 0.75
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17'
+  intensity: 0.9
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:34:53Z'
 source_cluster_id: cluster_ap_2026-04-19_trump-revenge-indiana-primary-redistrict
 gdelt_event_ids: []
-consensus_floor_version: '1.0'
-publication_mindspec_version: '1.0'
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 16
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 12
     reported: 2
     contested: 0
+    alleged: 0
+    appears: 0
     confirmed: 2
+    attributed: 12
   corroboration:
     primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 2
     single_source: 14
     two_independent: 0
+    one_originating_plus_primary_document: 0
 sources:
   count: 1
   outlets:
@@ -70,21 +67,17 @@ image:
   url: /articles/2026-04-18-trump-backs-primary-challengers-to-indiana-senators-who-rejected-redistricting.png
   alt: 'Illustration accompanying article: Trump backs primary challengers to Indiana senators who rejected redistricting'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-12-trump-s-redistricting-push-reaches-a-crossroads-as-new-legislative-sessions-begi
-  relation: related
-  strength: 0.8543
-  confidence: medium
-- slug: 2026-01-07-trump-redistricting-push-spreads-to-one-third-of-states-giving-gop-a-three-seat-
-  relation: related
-  strength: 0.8405
-  confidence: medium
-- slug: 2026-01-07-desantis-calls-april-special-session-to-redraw-florida-s-congressional-districts
-  relation: related
-  strength: 0.8243
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- President Donald Trump is endorsing seven primary challengers against Indiana Republican state senators who defied his demand to redraw the state's congressional map, a campaign backed by more than $4.2 million in advertising spending.
+- The campaign reflects Trump's continued push to reshape redistricting across the country to bolster Republican electoral prospects, even after Indiana's Republican-controlled Senate voted against a new map in December.
+- Spencer Deery was knocking on doors in West Lafayette on a Saturday afternoon when a pair of motorcyclists stopped to thank him.
 
 President Donald Trump is endorsing seven primary challengers against Indiana Republican state senators who defied his demand to redraw the state's congressional map, a campaign backed by more than $4.2 million in advertising spending. The effort, which has no recent precedent, will test Trump's influence over Republican Party politics in the May 5 primary.
 
@@ -142,147 +135,179 @@ The May 5 primary will show whether Trump's endorsements and the weight of natio
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Donald Trump; Indiana state senators
-**Predicate:** endorsed
-**Object:** seven primary challengers (political_action)
-**Temporal:** 2026-04
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Indiana state senators
+- **Predicate:** endorsed
+- **Object:** seven primary challengers (political_action)
+- **Temporal:** 2026-04
+- **Sources:** src_001
 
 > Trump endorsed seven primary challengers against Indiana state senators who opposed redistricting.
 
-### c_002 — attributed, single source
-**Subject entities:** Trump-backed campaign; Turning Point Action
-**Predicate:** received_spending
-**Object:** $4.2 million (monetary_amount)
-**Temporal:** 2026-04
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Trump-backed campaign; Turning Point Action
+- **Predicate:** received_spending
+- **Object:** $4.2 million (monetary_amount)
+- **Temporal:** 2026-04
+- **Sources:** src_001
 
 > The campaign backing Trump-endorsed challengers received more than $4.2 million in advertising spending from national organizations including Turning Point Action.
 
-### c_003 — attributed, single source
-**Subject entities:** Spencer Deery
-**Predicate:** facing_spending
-**Object:** $1 million (monetary_amount)
-**Temporal:** 2026-04
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Spencer Deery
+- **Predicate:** facing_spending
+- **Object:** $1 million (monetary_amount)
+- **Temporal:** 2026-04
+- **Sources:** src_001
 
 > Spencer Deery, an incumbent Indiana state senator, is facing approximately $1 million in campaign spending against him.
 
-### c_004 — confirmed, primary document
-**Subject entities:** Spencer Deery
-**Predicate:** spent_amount_won_seat
-**Object:** $142,000 (monetary_amount)
-**Temporal:** 2022
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Spencer Deery
+- **Predicate:** spent_amount_won_seat
+- **Object:** $142,000 (monetary_amount)
+- **Temporal:** 2022
+- **Sources:** src_001
 
 > Deery's 2022 campaign spent $142,000 to win his seat in a race where fewer than 11,000 people voted.
 
-### c_005 — attributed, single source
-**Subject entities:** Donald Trump; Paula Copenhaver; Spencer Deery
-**Predicate:** endorsed
-**Object:** Copenhaver as challenger to Deery (political_action)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Paula Copenhaver; Spencer Deery
+- **Predicate:** endorsed
+- **Object:** Copenhaver as challenger to Deery (political_action)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Trump endorsed Paula Copenhaver to challenge Deery in the primary.
 
-### c_006 — attributed, single source
-**Subject entities:** Donald Trump; Paula Copenhaver; Spencer Deery
-**Predicate:** described_characterized
-**Object:** quoted characterizations via social media (speech_act)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Paula Copenhaver; Spencer Deery
+- **Predicate:** described_characterized
+- **Object:** quoted characterizations via social media (speech_act)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Trump called Copenhaver a "MAGA Warrior" and described Deery as an "incompetent and ineffective RINO incumbent" who "betrayed his voters by voting against Redistricting in Indiana."
 
-### c_007 — confirmed, primary document
-**Subject entities:** Indiana state Senate
-**Predicate:** voted
-**Object:** against redistricting proposal (legislative_action)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Indiana state Senate
+- **Predicate:** voted
+- **Object:** against redistricting proposal (legislative_action)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > Indiana's Republican-controlled state Senate voted against redistricting in December.
 
-### c_008 — attributed, single source
-**Subject entities:** JD Vance; Indiana politicians
-**Predicate:** met_with_pressed
-**Object:** pressure for redistricting approval (political_action)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** JD Vance; Indiana politicians
+- **Predicate:** met_with_pressed
+- **Object:** pressure for redistricting approval (political_action)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Vice President JD Vance met with Indiana politicians in Washington and Indianapolis to press for redistricting.
 
-### c_009 — attributed, single source
-**Subject entities:** Donald Trump; Indiana lawmakers
-**Predicate:** participated_by_conference_call
-**Object:** pressure for redistricting approval (political_action)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Indiana lawmakers
+- **Predicate:** participated_by_conference_call
+- **Object:** pressure for redistricting approval (political_action)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Trump weighed in on the redistricting matter by conference call with Indiana lawmakers.
 
-### c_010 — reported, single source
-**Subject entities:** Spencer Deery
-**Predicate:** was_target_of
-**Object:** false police report / swatting attempt (threatening_conduct)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Spencer Deery
+- **Predicate:** was_target_of
+- **Object:** false police report / swatting attempt (threatening_conduct)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Spencer Deery was targeted by a false police report intended to provoke a SWAT response at his home.
 
-### c_011 — attributed, single source
-**Subject entities:** Mike Braun; Jim Banks
-**Predicate:** working_against
-**Object:** incumbent state senators targeted by Trump (political_action)
-**Temporal:** 2026-04
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Mike Braun; Jim Banks
+- **Predicate:** working_against
+- **Object:** incumbent state senators targeted by Trump (political_action)
+- **Temporal:** 2026-04
+- **Sources:** src_001
 
 > Governor Mike Braun and U.S. Sen. Jim Banks are working against the targeted state senators.
 
-### c_012 — attributed, single source
-**Subject entities:** Mike Braun
-**Predicate:** contributing
-**Object:** $500,000 from PAC (monetary_amount)
-**Temporal:** 2026-04
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Mike Braun
+- **Predicate:** contributing
+- **Object:** $500,000 from PAC (monetary_amount)
+- **Temporal:** 2026-04
+- **Sources:** src_001
 
 > Governor Mike Braun is contributing $500,000 from his political action committee to state Senate races.
 
-### c_013 — attributed, single source
-**Subject entities:** Mike Braun; Rodrick Bray
-**Predicate:** stated_reasoning
-**Object:** need allies to advance agenda, property tax disagreements (political_motivation)
-**Temporal:** 2026-04
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Mike Braun; Rodrick Bray
+- **Predicate:** stated_reasoning
+- **Object:** need allies to advance agenda, property tax disagreements (political_motivation)
+- **Temporal:** 2026-04
+- **Sources:** src_001
 
 > Braun said he is backing the primary challengers because he needs help to advance his agenda, citing prior disagreements with Senate President Pro Tem Rodrick Bray over property taxes.
 
-### c_014 — reported, single source
-**Subject entities:** Mitch Daniels; Spencer Deery
-**Predicate:** working_to_protect_raised_funds
-**Object:** support for targeted incumbent state senators (political_action)
-**Temporal:** 2026-04
-**Source IDs:** src_001
+### c_014
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Mitch Daniels; Spencer Deery
+- **Predicate:** working_to_protect_raised_funds
+- **Object:** support for targeted incumbent state senators (political_action)
+- **Temporal:** 2026-04
+- **Sources:** src_001
 
 > Former Gov. Mitch Daniels has been quietly working to protect incumbents targeted by Trump, recording a video and raising money for Deery.
 
-### c_015 — attributed, single source
-**Subject entities:** Spencer Deery
-**Predicate:** stated_reasoning
-**Object:** duty to constituents, not political figures (speech_act)
-**Temporal:** 2026-04
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Spencer Deery
+- **Predicate:** stated_reasoning
+- **Object:** duty to constituents, not political figures (speech_act)
+- **Temporal:** 2026-04
+- **Sources:** src_001
 
 > Deery said his vote against redistricting was not about defying Trump but about representing his constituents.
 
-### c_016 — attributed, single source
-**Subject entities:** Spencer Deery
-**Predicate:** spent_amount_without_support
-**Object:** $167,000 (monetary_amount)
-**Temporal:** 2026-04
-**Source IDs:** src_001
+### c_016
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Spencer Deery
+- **Predicate:** spent_amount_without_support
+- **Object:** $167,000 (monetary_amount)
+- **Temporal:** 2026-04
+- **Sources:** src_001
 
 > Deery has spent $167,000 on his campaign with no help from outside groups.
 
@@ -291,10 +316,5 @@ The May 5 primary will show whether Trump's endorsements and the weight of natio
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Thomas Beaumont
 **Publication date:** 2026-04-18
-**Access date:** 2026-05-17
 **Title:** Indiana primary will test Trump's control over Republican Party
 **URL:** https://apnews.com/article/trump-revenge-indiana-primary-redistricting-republicans-senators-a93a4b89c859fd52eebe4e03c7b8b57b
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

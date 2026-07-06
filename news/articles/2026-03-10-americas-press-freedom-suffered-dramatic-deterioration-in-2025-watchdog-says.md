@@ -299,7 +299,3 @@ The IAPA, which has published the Chapultepec Index annually since 2020, has mor
 **Access date:** 2026-03-10
 **Title:** Press freedom in the Americas saw 'dramatic deterioration' in 2025, watchdog says
 **URL:** https://apnews.com/article/americas-press-freedom-annual-report-dd926d786f0b8a807f4d5f0997c5042e
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -22,8 +22,7 @@ topic_tags:
   - "international trade"
   - politics
 storyline_nexus:
-  - trump-greenland-acquisition
-  - trump-tariff-policy
+- trump-greenland-ambitions
 geographic_location: International (Davos, Switzerland; Greenland; Denmark; NATO member states)
 floor_values_engaged:
 - value: informed_citizenship
@@ -132,8 +131,6 @@ Trump has retreated from tariff threats before. In April, after threatening mass
 
 Markets reacted positively to Wednesday's announcement, with stocks rising as uncertainty over potential tariffs eased. Officials within the Trump administration had privately expressed concern that the hard-line stance toward Greenland and other NATO allies could damage broader foreign policy objectives.
 
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from publicly-available sources. Framework specification: /methodology. Learn more about our editorial standards at /about.*
-
 This article is released under CC0 — a public-domain dedication. You are free to copy, republish, and adapt it.
 
 ## Atomic claims
@@ -227,7 +224,3 @@ This article is released under CC0 — a public-domain dedication. You are free 
 **Access date:** 2026-01-21
 **Title:** Trump backs down on Greenland and cancels tariff threat
 **URL:** https://apnews.com/article/trump-davos-housing-greenland-gaza-a2f3f4c18ba321c8025a3e208fc0ddf6
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

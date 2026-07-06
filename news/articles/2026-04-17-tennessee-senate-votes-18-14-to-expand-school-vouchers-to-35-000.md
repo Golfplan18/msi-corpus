@@ -16,48 +16,43 @@ primary_themes:
 - education funding
 - voucher programs
 topic_tags:
-  - "crime, law and justice"
-  - education
-  - government
-  - "government policy"
-  - "law enforcement"
-  - politics
-storyline_nexus: []
-geographic_location: Tennessee
+- education
+- education policy
+- government policy
+- school
+storyline_nexus:
+- lgbtq-rights-restrictions
+geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.95
 - value: accountability_of_power
-  intensity: 0.85
+  intensity: 0.9
 - value: equality_fairness
-  intensity: 0.8
-- value: human_life_and_dignity
-  intensity: 0.75
-- value: truthfulness
-  intensity: 0.7
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T00:00:00Z'
+  intensity: 0.6
+- value: informed_citizenship
+  intensity: 0.3
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T01:09:59Z'
 source_cluster_id: cluster_ap_2026-04-18_tennessee-school-vouchers-bill-5740dc062
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 14
   hedges:
-    appears: 0
     alleged: 0
+    appears: 0
     attributed: 11
+    confirmed: 2
     reported: 0
     contested: 1
-    confirmed: 2
   corroboration:
+    single_source: 11
+    primary_document: 3
+    two_independent: 0
     primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
-    primary_document: 3
-    single_source: 11
-    two_independent: 0
 sources:
   count: 1
   outlets:
@@ -74,6 +69,16 @@ figures_aggregate:
 cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Tennessee to Expand Voucher Program to 35,000 Students Next Year
+- Tennessee Senate voted 18-14 on April 17, 2026 to expand the state's school voucher program to 35,000 vouchers for the 2026-27 academic year.
+- The expansion will direct approximately $260 million in public funds to private schools.
+- Governor Bill Lee requested 40,000 vouchers; the passed bill provides 35,000.
+- Tennessee House passed its companion bill 52-43 earlier this week.
 
 The Tennessee Senate voted 18-14 on Thursday to expand the state's school voucher program to 35,000 vouchers for the 2026-27 academic year, nearly doubling the current enrollment. The expansion will direct approximately $260 million in public funds to private schools. The bill now heads to Gov. Bill Lee for his signature after passing the House 52-43 earlier this week.
 
@@ -117,147 +122,166 @@ Republican leadership countered by pointing to demand. More than 56,000 families
 
 The bill now goes to Gov. Lee for his signature.
 
----
-
-**Disclosure:** This article was generated algorithmically by Main Street Independent's News Article Generator framework. Specification: [/methodology](/methodology). Human review: not_triggered. This article is released under [Creative Commons CC0](https://creativecommons.org/publicdomain/zero/1.0/) (public domain).
-
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Tennessee Senate; school voucher program
-**Predicate:** voted_to_expand
-**Object:** 35,000 vouchers (quantity)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Tennessee Senate; school voucher program
+- **Predicate:** voted_to_expand
+- **Object:** 35,000 vouchers (quantity)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > Tennessee Senate voted 18-14 on April 17, 2026 to expand the state's school voucher program to 35,000 vouchers for the 2026-27 academic year.
 
-### c_002 — attributed, single source
-**Subject entities:** Tennessee school voucher program; private schools
-**Predicate:** will_direct
-**Object:** $260 million (monetary_amount)
-**Temporal:** 2026-07-01
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Tennessee school voucher program; private schools
+- **Predicate:** will_direct
+- **Object:** $260 million (monetary_amount)
+- **Temporal:** 2026-07-01
+- **Sources:** src_001
 
 > The expansion will direct approximately $260 million in public funds to private schools.
 
-### c_003 — attributed, single source
-**Subject entities:** Bill Lee; Tennessee legislature
-**Predicate:** requested_vs_received
-**Object:** 40,000 vs 35,000 vouchers (quantity_comparison)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Bill Lee; Tennessee legislature
+- **Predicate:** requested_vs_received
+- **Object:** 40,000 vs 35,000 vouchers (quantity_comparison)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > Governor Bill Lee requested 40,000 vouchers; the passed bill provides 35,000.
 
-### c_004 — confirmed, primary document
-**Subject entities:** Tennessee House; school voucher bill
-**Predicate:** passed
-**Object:** 52-43 vote (vote_tally)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Tennessee House; school voucher bill
+- **Predicate:** passed
+- **Object:** 52-43 vote (vote_tally)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > Tennessee House passed its companion bill 52-43 earlier this week.
 
-### c_005 — attributed, single source
-**Subject entities:** school voucher bill amendment; hold-harmless provision
-**Predicate:** alters
-**Object:** reimbursement scope limitation (policy_change)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** school voucher bill amendment; hold-harmless provision
+- **Predicate:** alters
+- **Object:** reimbursement scope limitation (policy_change)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > An amendment alters the hold-harmless provision, limiting reimbursement to school districts for students who actually leave public school for vouchers.
 
-### c_006 — contested, single source
-**Subject entities:** amendment; school districts
-**Predicate:** requires_documentation_via
-**Object:** Social Security numbers (personal_identifier)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_006
+- **Hedge:** contested
+- **Corroboration:** single_source
+- **Subject entities:** amendment; school districts
+- **Predicate:** requires_documentation_via
+- **Object:** Social Security numbers (personal_identifier)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > The amendment links disenrollment reimbursement to documentation of student departures via Social Security numbers.
 
-### c_007 — attributed, single source
-**Subject entities:** Jack Johnson
-**Predicate:** said
-**Object:** schools can request but parents not required to provide SSN (speech_act)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jack Johnson
+- **Predicate:** said
+- **Object:** schools can request but parents not required to provide SSN (speech_act)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > Senate Majority Leader Jack Johnson said schools can request Social Security numbers but parents are not required to provide them.
 
-### c_008 — attributed, single source
-**Subject entities:** Jeff Yarbro
-**Predicate:** said
-**Object:** amendment will phase out hold-harmless provision (speech_act)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jeff Yarbro
+- **Predicate:** said
+- **Object:** amendment will phase out hold-harmless provision (speech_act)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > Sen. Jeff Yarbro (D-Nashville) said the amendment will ultimately phase out the hold-harmless provision.
 
-### c_009 — attributed, single source
-**Subject entities:** Democratic senators; undocumented students
-**Predicate:** argue
-**Object:** privacy and safety concerns (concern_set)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Democratic senators; undocumented students
+- **Predicate:** argue
+- **Object:** privacy and safety concerns (concern_set)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > Democrats argue the Social Security number requirement raises privacy and safety concerns, particularly for undocumented students.
 
-### c_010 — attributed, primary document
-**Subject entities:** Tennessee comptroller's office; former voucher program students
-**Predicate:** underperformed
-**Object:** public school peers (comparison_group)
-**Temporal:** pre-2026
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Tennessee comptroller's office; former voucher program students
+- **Predicate:** underperformed
+- **Object:** public school peers (comparison_group)
+- **Temporal:** pre-2026
+- **Sources:** src_001
 
 > Tennessee comptroller's report found students in the state's former voucher program underperformed their public school peers.
 
-### c_011 — attributed, single source
-**Subject entities:** Richard Briggs
-**Predicate:** cited
-**Object:** comptroller report on voucher performance (evidence)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Richard Briggs
+- **Predicate:** cited
+- **Object:** comptroller report on voucher performance (evidence)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > Sen. Richard Briggs (R-Knoxville) cited the comptroller report, stating students taking the same tests have not come close to performing at the level of public school students.
 
-### c_012 — attributed, single source
-**Subject entities:** Tennessee families; school voucher program
-**Predicate:** applied_for
-**Object:** 56,000+ (quantity)
-**Temporal:** 2026 application cycle
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Tennessee families; school voucher program
+- **Predicate:** applied_for
+- **Object:** 56,000+ (quantity)
+- **Temporal:** 2026 application cycle
+- **Sources:** src_001
 
 > More than 56,000 families applied for Tennessee's school voucher program this year.
 
-### c_013 — attributed, single source
-**Subject entities:** Jack Johnson
-**Predicate:** said
-**Object:** parent choice more important measure than test scores (values_statement)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jack Johnson
+- **Predicate:** said
+- **Object:** parent choice more important measure than test scores (values_statement)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > Senate Majority Leader Jack Johnson said parent choice should be the primary measure of the program's success, more important than test scores.
 
-### c_014 — attributed, single source
-**Subject entities:** Joey Hensley; rural schools
-**Predicate:** expressed_concern
-**Object:** funding floor change impact on rural schools (concern)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Joey Hensley; rural schools
+- **Predicate:** expressed_concern
+- **Object:** funding floor change impact on rural schools (concern)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > Sen. Joey Hensley (R-Hohenwald) expressed concern about changing the funding floor and its effects on rural schools.
 
 ## Sources
 
 ### src_001 — Associated Press, wire, Tier 1, originating
-**Author:** Lillian Avedian
+**Author:** Lillian Avedian / Nashville Banner
 **Publication date:** 2026-04-17
-**Access date:** 2026-04-17
 **Title:** Tennessee to Expand Voucher Program to 35,000 Students Next Year
 **URL:** https://apnews.com/article/tennessee-school-vouchers-bill-5740dc062b6ef324a0e209ac62828daf
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

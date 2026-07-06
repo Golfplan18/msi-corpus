@@ -21,44 +21,45 @@ primary_themes:
 - student engagement
 - reading decline
 topic_tags:
-  - "artificial intelligence"
-  - education
-  - "science and technology"
+- artificial intelligence
+- education
+- higher education
+- education policy
 storyline_nexus:
-  - ai-regulation
-geographic_location: Pittsburgh, Pennsylvania, United States
+- ai-industry-regulation
+geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship
-  intensity: 0.8
+  intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.45
-framework_version: 1.1.0
-generation_timestamp: '2026-03-10T00:00:00Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:41:44Z'
 source_cluster_id: cluster_ap_2026-03-09_colleges-and-universities-artificial-int
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 13
   hedges:
-    appears: 0
-    alleged: 0
     attributed: 12
-    reported: 0
-    contested: 0
+    appears: 0
     confirmed: 1
+    reported: 0
+    alleged: 0
+    contested: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 0
     single_source: 13
     two_independent: 0
+    one_originating_plus_primary_document: 0
+    primary_document: 0
+    primary_plus_secondary: 0
 sources:
   count: 1
   outlets:
-  - Pittsburgh's Public Source / Associated Press
+  - Associated Press
   outlet_classes:
   - wire
   highest_reliability_tier: 1
@@ -68,13 +69,17 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2025-11-20-educators-outline-do-s-and-don-ts-as-students-turn-to-ai-chatbots-for-schoolwork
-  relation: related
-  strength: 0.7401
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- The convergence of a generation shaped by No Child Left Behind's test-score emphasis and the sudden availability of AI writing tools is forcing a rethinking of core liberal arts pedagogy — with pro...
+- Liberal arts professors at four Pittsburgh-area universities say classroom participation has dropped noticeably, with students falling increasingly...
+- The convergence is forcing professors at the University of Pittsburgh, Duquesne University, Chatham University, and Carnegie Mellon University to i...
+- "I feel indebted to my teacher to make the class engaging," said Luke Johnson, a University of Pittsburgh sophomore studying English literature. Jo...
 
 The convergence of a generation shaped by No Child Left Behind's test-score emphasis and the sudden availability of AI writing tools is forcing a rethinking of core liberal arts pedagogy — with professors improvising responses that range from lowering the reading bar to installing student confessionals about AI use.
 
@@ -116,132 +121,153 @@ Bernstein said she worries that students who rely on AI for literary comprehensi
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Luke Johnson; University of Pittsburgh
-**Predicate:** enrolled_at
-**Object:** English literature, sophomore year (enrollment_status)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Luke Johnson; University of Pittsburgh
+- **Predicate:** enrolled_at
+- **Object:** English literature, sophomore year (enrollment_status)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > Luke Johnson is a sophomore studying English literature at the University of Pittsburgh.
 
-### c_002 — attributed, single source
-**Subject entities:** Luke Johnson
-**Predicate:** observed
-**Object:** declining student participation in liberal arts classes (observation)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Luke Johnson
+- **Predicate:** observed
+- **Object:** declining student participation in liberal arts classes (observation)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > Johnson said students in his liberal arts classes have gone quiet and he fills the silence through increased participation.
 
-### c_003 — attributed, single source
-**Subject entities:** Ryan D'Souza; Chatham University
-**Predicate:** employed_as
-**Object:** communications professor (role)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ryan D'Souza; Chatham University
+- **Predicate:** employed_as
+- **Object:** communications professor (role)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > Ryan D'Souza is a communications professor at Chatham University.
 
-### c_004 — attributed, single source
-**Subject entities:** Ryan D'Souza; No Child Left Behind Act
-**Predicate:** attributed_cause
-**Object:** declining reading comprehension orientation (causal_claim)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ryan D'Souza; No Child Left Behind Act
+- **Predicate:** attributed_cause
+- **Object:** declining reading comprehension orientation (causal_claim)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > D'Souza said the federal No Child Left Behind Act of 2001 negatively impacted students' views on reading by emphasizing correct test answers over comprehension.
 
-### c_005 — confirmed, single source
-**Subject entities:** No Child Left Behind Act; Every Student Succeeds Act
-**Predicate:** replaced_by
-**Object:** Every Student Succeeds Act (legislation)
-**Temporal:** 2015
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** No Child Left Behind Act; Every Student Succeeds Act
+- **Predicate:** replaced_by
+- **Object:** Every Student Succeeds Act (legislation)
+- **Temporal:** 2015
+- **Sources:** src_001
 
 > The No Child Left Behind Act of 2001 was replaced by the Every Student Succeeds Act in 2015.
 
-### c_006 — attributed, single source
-**Subject entities:** Hillary Lazar; University of Pittsburgh
-**Predicate:** employed_as
-**Object:** sociology instructor (role)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Hillary Lazar; University of Pittsburgh
+- **Predicate:** employed_as
+- **Object:** sociology instructor (role)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > Hillary Lazar is a sociology instructor at the University of Pittsburgh.
 
-### c_007 — attributed, single source
-**Subject entities:** Hillary Lazar
-**Predicate:** conducts
-**Object:** AI confessionals (teaching_practice)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Hillary Lazar
+- **Predicate:** conducts
+- **Object:** AI confessionals (teaching_practice)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > Lazar hosts sessions she calls 'AI confessionals,' at which students write about how they use AI in their coursework.
 
-### c_008 — attributed, single source
-**Subject entities:** Brock Bahler; University of Pittsburgh; Duquesne University; Seton Hill University
-**Predicate:** employed_as
-**Object:** religious studies professor (role)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Brock Bahler; University of Pittsburgh; Duquesne University; Seton Hill University
+- **Predicate:** employed_as
+- **Object:** religious studies professor (role)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > Brock Bahler is a religious studies professor at the University of Pittsburgh who previously taught at Duquesne University and Seton Hill University between 2010 and 2014.
 
-### c_009 — attributed, single source
-**Subject entities:** Brock Bahler
-**Predicate:** changed_syllabus
-**Object:** from classical to contemporary texts (pedagogical_change)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Brock Bahler
+- **Predicate:** changed_syllabus
+- **Object:** from classical to contemporary texts (pedagogical_change)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > Bahler has shifted his syllabus from classic texts like Aristotle's 'Nicomachean Ethics' toward more contemporary materials such as Hannah Arendt's 'The Origins of Totalitarianism.'
 
-### c_010 — attributed, single source
-**Subject entities:** Brock Bahler
-**Predicate:** cited
-**Object:** 2024 study on AI language flattening (research_citation)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Brock Bahler
+- **Predicate:** cited
+- **Object:** 2024 study on AI language flattening (research_citation)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > Bahler cited a 2024 study on generative AI's tendency to flatten language at the expense of dialects like African American Vernacular English.
 
-### c_011 — attributed, single source
-**Subject entities:** James Swindal; Duquesne University
-**Predicate:** employs_method
-**Object:** precis questions teaching strategy (pedagogical_practice)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** James Swindal; Duquesne University
+- **Predicate:** employs_method
+- **Object:** precis questions teaching strategy (pedagogical_practice)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > James Swindal is a philosophy professor at Duquesne University who uses 'precis questions' to ensure students engage with assigned readings.
 
-### c_012 — attributed, single source
-**Subject entities:** Jane Bernstein; Carnegie Mellon University
-**Predicate:** plans_retirement
-**Object:** end of spring 2026 semester (date)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jane Bernstein; Carnegie Mellon University
+- **Predicate:** plans_retirement
+- **Object:** end of spring 2026 semester (date)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > Jane Bernstein is a professor of English at Carnegie Mellon University who has taught since 1991 and plans to retire at the end of the spring 2026 semester.
 
-### c_013 — attributed, single source
-**Subject entities:** Jane Bernstein
-**Predicate:** expressed_concern
-**Object:** AI use reducing students' capacity to appreciate literary humanity (concern)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jane Bernstein
+- **Predicate:** expressed_concern
+- **Object:** AI use reducing students' capacity to appreciate literary humanity (concern)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > Bernstein said she worries that students relying on AI will have difficulty not just producing complex work but also appreciating the humanity inherent in literature.
 
 ## Sources
 
-### src_001 — Pittsburgh's Public Source / Associated Press, wire, Tier 1, originating
-**Author:** Jamese Platt
+### src_001 — Associated Press, wire, Tier 1, originating
+**Author:** Jamese Platt / Pittsburgh's Public Source
 **Publication date:** 2026-03-10
-**Access date:** 2026-03-10
 **Title:** Did anybody do the reading? Colleges grapple with a generational shift in learning — plus AI
 **URL:** https://apnews.com/article/colleges-and-universities-artificial-intelligence-pittsburgh-schools-general-news-904ebd03d726a112a66274f26bf5b0ba
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -24,7 +24,8 @@ topic_tags:
   - "armed conflict"
   - "conflict, war and peace"
   - politics
-storyline_nexus: []
+storyline_nexus:
+- syria-post-conflict-integration
 geographic_location: Syria
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -401,7 +402,3 @@ The SDF would retain a presence only in Hassakeh province, the country's Kurdish
 **Access date:** 2026-01-21
 **Title:** A US shift marked Kurdish-led forces' fall from power in Syria
 **URL:** https://apnews.com/article/syria-sdf-kurdish-washington-military-islamic-state-dcf6869b06e95931a7a40fa4494006c2
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

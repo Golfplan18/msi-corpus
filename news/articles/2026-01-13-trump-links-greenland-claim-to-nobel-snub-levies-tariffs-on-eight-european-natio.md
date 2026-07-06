@@ -25,8 +25,7 @@ topic_tags:
   - "international trade"
   - politics
 storyline_nexus:
-  - trump-tariff-policy
-  - trump-greenland-acquisition
+- trump-greenland-ambitions
 geographic_location: Greenland; Norway; Denmark; United States
 floor_values_engaged:
 - value: informed_citizenship
@@ -370,7 +369,3 @@ Trump told reporters Monday evening that he did not "care about the Nobel prize.
 **Access date:** 2026-01-13
 **Title:** Denmark says it cannot rule out U.S. military action over Greenland
 **URL:** https://apnews.com/article/greenland-denmark-nato-trump-military-force
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

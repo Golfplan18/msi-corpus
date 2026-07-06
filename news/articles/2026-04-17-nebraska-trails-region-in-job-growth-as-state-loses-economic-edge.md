@@ -16,41 +16,42 @@ primary_themes:
 - labor market
 - state policy
 topic_tags:
-  - "crime, law and justice"
-  - "economy, business and finance"
-  - election
-  - labour
-  - politics
+- economy
+- employment
+- labour market
+- demographics
 storyline_nexus:
-  - ai-regulation
-geographic_location: Nebraska, United States
+- housing-affordability-crisis
+geographic_location: United States
 floor_values_engaged:
+- value: truthfulness
+  intensity: 0.9
 - value: informed_citizenship
-  intensity: 0.85
+  intensity: 0.6
 - value: accountability_of_power
-  intensity: 0.7
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T12:00:00Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T01:03:19Z'
 source_cluster_id: cluster_ap_2026-04-18_nebraska-jobs-economic-growth-015193b4a8
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 10
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 2
     reported: 7
+    appears: 0
+    attributed: 2
+    alleged: 0
     contested: 0
     confirmed: 1
   corroboration:
     primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
-    primary_document: 1
     single_source: 9
+    primary_document: 1
     two_independent: 0
 sources:
   count: 1
@@ -65,13 +66,12 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-15-michigan-churns-through-teachers-at-unsustainable-rate-report-finds
-  relation: related
-  strength: 0.7378
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
 
 An analysis by the Flatwater Free Press shows Nebraska has lost an estimated 70,000 jobs relative to its regional competitors since 2010, marking a sharp reversal for a state once recognized nationally for creating jobs. The decline became visible last month when Site Selection magazine, an economic development industry publication, failed to list Nebraska in its top 10 development states—the second consecutive year the state missed the ranking.
 
@@ -129,105 +129,120 @@ Business leaders acknowledge the work will require sustained effort across years
 
 ## Atomic claims
 
-### c_001 — reported, single source
-**Subject entities:** Nebraska
-**Predicate:** lost_jobs_relative_to_region
-**Object:** 70,000 jobs (quantitative_comparison)
-**Temporal:** 2010-2026
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Nebraska
+- **Predicate:** lost_jobs_relative_to_region
+- **Object:** 70,000 jobs (quantitative_comparison)
+- **Temporal:** 2010-2026
+- **Sources:** src_001
 
 > Nebraska has lost an estimated 70,000 jobs relative to its regional competitors since 2010, according to Flatwater Free Press analysis.
 
-### c_002 — confirmed, primary document
-**Subject entities:** Nebraska; Site Selection magazine
-**Predicate:** fell_out_of_ranking
-**Object:** top 10 development states (ranking_status)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Nebraska; Site Selection magazine
+- **Predicate:** fell_out_of_ranking
+- **Object:** top 10 development states (ranking_status)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Nebraska fell out of Site Selection magazine's top 10 states for economic development in 2025, the second consecutive year it missed the ranking.
 
-### c_003 — reported, single source
-**Subject entities:** Nebraska
-**Predicate:** reversed_job_growth_trajectory
-**Object:** 14/19 years above average pre-2010, 5/16 years above average post-2010 (statistical_trend)
-**Temporal:** 1991-2026
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Nebraska
+- **Predicate:** reversed_job_growth_trajectory
+- **Object:** 14/19 years above average pre-2010, 5/16 years above average post-2010 (statistical_trend)
+- **Temporal:** 1991-2026
+- **Sources:** src_001
 
 > Nebraska exceeded the regional job growth average in 14 of 19 years prior to 2010, but trailed the region in 11 of 16 years since 2010.
 
-### c_004 — reported, single source
-**Subject entities:** Nebraska; Josie Schafer
-**Predicate:** accelerated_brain_drain
-**Object:** 1,000 to 4,000 college-educated people annually (migration_rate_increase)
-**Temporal:** 2010-2020
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Nebraska; Josie Schafer
+- **Predicate:** accelerated_brain_drain
+- **Object:** 1,000 to 4,000 college-educated people annually (migration_rate_increase)
+- **Temporal:** 2010-2020
+- **Sources:** src_001
 
 > Nebraska's brain drain of college-educated people increased from about 1,000 annually in 2010 to 4,000 per year by 2020, according to Josie Schafer of the University of Nebraska at Omaha's Center for Public Affairs Research.
 
-### c_005 — reported, single source
-**Subject entities:** Jim Pillen; Nebraska Department of Economic Development
-**Predicate:** reduced_staff
-**Object:** 27% reduction (percentage_decrease)
-**Temporal:** 2025-2026
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Jim Pillen; Nebraska Department of Economic Development
+- **Predicate:** reduced_staff
+- **Object:** 27% reduction (percentage_decrease)
+- **Temporal:** 2025-2026
+- **Sources:** src_001
 
 > Governor Jim Pillen's administration reduced staffing at the Nebraska Department of Economic Development by 27% in the past nine months.
 
-### c_006 — reported, single source
-**Subject entities:** Blueprint Nebraska
-**Predicate:** was_shelved
-**Object:** largely not implemented (implementation_status)
-**Temporal:** 2019-2026
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Blueprint Nebraska
+- **Predicate:** was_shelved
+- **Object:** largely not implemented (implementation_status)
+- **Temporal:** 2019-2026
+- **Sources:** src_001
 
 > Blueprint Nebraska, a statewide economic development strategy produced in 2019, was largely shelved and not implemented at full scale.
 
-### c_007 — reported, single source
-**Subject entities:** Jim Pillen; Nebraska legislature
-**Predicate:** passed_incentive_legislation
-**Object:** enhanced tax incentive programs (legislation)
-**Temporal:** 2026-04
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Jim Pillen; Nebraska legislature
+- **Predicate:** passed_incentive_legislation
+- **Object:** enhanced tax incentive programs (legislation)
+- **Temporal:** 2026-04
+- **Sources:** src_001
 
 > Governor Pillen introduced a tax incentive bill in April 2026 aimed at enhancing the state's incentive programs and supporting Union Pacific's merger with Norfolk Southern.
 
-### c_008 — reported, single source
-**Subject entities:** Nebraska Chamber of Commerce and Industry
-**Predicate:** launched_growth_initiative
-**Object:** Go Big Future initiative (economic_development_program)
-**Temporal:** 2026-02
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Nebraska Chamber of Commerce and Industry
+- **Predicate:** launched_growth_initiative
+- **Object:** Go Big Future initiative (economic_development_program)
+- **Temporal:** 2026-02
+- **Sources:** src_001
 
 > The Nebraska Chamber of Commerce and Industry launched "Go Big Future," an initiative focused on workforce, technology, and energy to revive Blueprint Nebraska's growth-centered goals.
 
-### c_009 — attributed, single source
-**Subject entities:** Eric Thompson
-**Predicate:** assessed_state_priorities
-**Object:** lack of commitment to growth (expert_assessment)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Eric Thompson
+- **Predicate:** assessed_state_priorities
+- **Object:** lack of commitment to growth (expert_assessment)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > Eric Thompson, a University of Nebraska-Lincoln economist, said the state has not maintained a commitment to growth, focusing instead on other priorities.
 
-### c_010 — attributed, single source
-**Subject entities:** Bryan Slone
-**Predicate:** attributed_competitiveness_gap
-**Object:** lagging in technology sector growth compared to other states (analysis)
-**Temporal:** 2010-2026
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Bryan Slone
+- **Predicate:** attributed_competitiveness_gap
+- **Object:** lagging in technology sector growth compared to other states (analysis)
+- **Temporal:** 2010-2026
+- **Sources:** src_001
 
 > Bryan Slone, former CEO of the state chamber, attributed Nebraska's vulnerability in job growth partly to the technology boom beginning around 2010, which the state has not kept pace with.
 
 ## Sources
 
 ### src_001 — Associated Press, wire, Tier 1, originating
-**Author:** Henry J. Cordes
+**Author:** Henry J. Cordes / Flatwater Free Press
 **Publication date:** 2026-04-17
-**Access date:** 2026-04-17
 **Title:** Nebraska used to be a leader in creating jobs and spurring growth. Not anymore.
 **URL:** https://apnews.com/article/nebraska-jobs-economic-growth-015193b4a8dfe8c91683a6aea637d139
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

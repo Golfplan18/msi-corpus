@@ -23,7 +23,7 @@ topic_tags:
   - "armed conflict"
   - "conflict, war and peace"
 storyline_nexus:
-  - russia-ukraine-war
+- ukraine-war-peace-negotiations
 geographic_location: Budapest, Hungary
 floor_values_engaged:
 - value: accountability_of_power
@@ -305,7 +305,3 @@ In response to the interruption, Orbán has previously ceased diesel shipments t
 **Access date:** 2026-03-06
 **Title:** Ukrainian bank employees temporarily detained and $80 million in cash seized in Hungary
 **URL:** https://apnews.com/article/ukraine-cash-shipment-detained-hungary-745c17643b9a0965024d7a8410c5fc17
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

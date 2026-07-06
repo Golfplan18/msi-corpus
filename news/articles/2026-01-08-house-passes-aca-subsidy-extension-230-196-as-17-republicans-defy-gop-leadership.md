@@ -22,45 +22,42 @@ primary_themes:
 - congressional procedure
 - discharge petition
 topic_tags:
-  - "artificial intelligence"
-  - government
-  - "government policy"
-  - health
-  - politics
-  - "science and technology"
+- government policy
+- health
+- politics
 storyline_nexus:
-  - immigration-enforcement
-geographic_location: Washington, D.C., United States
+- aca-medicaid-healthcare-crisis
+geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
+- value: human_life_and_dignity
   intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.75
-- value: human_life_and_dignity
-  intensity: 0.8
-framework_version: 1.1.0
-generation_timestamp: '2026-01-08T00:00:00Z'
+  intensity: 0.9
+- value: equality_fairness
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:00:36Z'
 source_cluster_id: cluster_ap_2026-01-07_house-democrats-republicans-vote-health-
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 15
   hedges:
     appears: 0
-    alleged: 0
-    attributed: 9
     reported: 2
-    contested: 0
+    attributed: 9
     confirmed: 4
+    alleged: 0
+    contested: 0
   corroboration:
+    two_independent: 0
     primary_plus_secondary: 0
+    single_source: 12
     one_originating_plus_primary_document: 0
     primary_document: 3
-    single_source: 12
-    two_independent: 0
 sources:
   count: 1
   outlets:
@@ -78,21 +75,18 @@ image:
   url: /articles/2026-01-08-house-passes-aca-subsidy-extension-230-196-as-17-republicans-defy-gop-leadership.png
   alt: 'Illustration accompanying article: House passes ACA subsidy extension 230-196 as 17 Republicans defy GOP leadership'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-01-aca-health-subsidies-expire-leaving-millions-facing-sharply-higher-premiums-in-2
-  relation: continues
-  strength: 0.8709
-  confidence: high
-- slug: 2025-12-31-appeals-court-lets-medicaid-funding-cuts-to-planned-parenthood-stand-while-state
-  relation: related
-  strength: 0.7049
-  confidence: medium
-- slug: 2025-12-31-appeals-court-lets-medicaid-cuts-to-planned-parenthood-stand-during-suit
-  relation: related
-  strength: 0.703
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- The vote came days after enhanced ACA subsidies expired on Jan.
+- WASHINGTON — The House passed legislation Thursday to extend expired Affordable Care Act health insurance subsidies by a 230-196 vote, with 17 Republican lawmakers joining every Democrat in a cross-party coalition that defied Speaker Mike Johnson and forced a floor vote through a procedural maneuver Johnson had spent months trying to prevent.
+- The three-year subsidy extension moves to the Senate, where the House bill faces an uncertain path.
+- The nonpartisan Congressional Budget Office estimated the bill would add $80.
 
 The vote came days after enhanced ACA subsidies expired on Jan. 1, triggering premium increases that health care analysts estimated would average 114% for previously subsidized enrollees, according to a KFF analysis. The Congressional Budget Office projected the bill would add $80.6 billion to the federal deficit over a decade while extending coverage to an additional 4 million Americans at its peak.
 
@@ -136,138 +130,168 @@ Jeffries said after Thursday's vote that Thune should bring the House Democratic
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** United States House of Representatives
-**Predicate:** voted_on
-**Object:** 230-196 (vote_tally)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** United States House of Representatives
+- **Predicate:** voted_on
+- **Object:** 230-196 (vote_tally)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > The House passed legislation to extend ACA health insurance subsidies by a 230-196 vote on Jan. 8, 2026.
 
-### c_002 — confirmed, primary document
-**Subject entities:** U.S. Republican Party; U.S. Democratic Party
-**Predicate:** voted_for
-**Object:** ACA subsidy extension bill (legislation)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Republican Party; U.S. Democratic Party
+- **Predicate:** voted_for
+- **Object:** ACA subsidy extension bill (legislation)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > 17 Republican lawmakers joined every Democrat in supporting the ACA subsidy bill.
 
-### c_003 — confirmed, primary document
-**Subject entities:** Brian Fitzpatrick; Robert Bresnahan; Ryan Mackenzie; Mike Lawler
-**Predicate:** signed
-**Object:** discharge petition (legislative_procedure)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Brian Fitzpatrick; Robert Bresnahan; Ryan Mackenzie; Mike Lawler
+- **Predicate:** signed
+- **Object:** discharge petition (legislative_procedure)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > Four Republicans — Brian Fitzpatrick, Robert Bresnahan, and Ryan Mackenzie of Pennsylvania, and Mike Lawler of New York — signed a discharge petition that pushed the signature count to 218, forcing a House floor vote.
 
-### c_004 — confirmed, single source
-**Subject entities:** United States House of Representatives
-**Predicate:** proposes
-**Object:** three-year extension (legislative_provision)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** United States House of Representatives
+- **Predicate:** proposes
+- **Object:** three-year extension (legislative_provision)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > The bill would extend ACA subsidies for three years.
 
-### c_005 — attributed, single source
-**Subject entities:** Congressional Budget Office
-**Predicate:** estimated
-**Object:** $80.6 billion over ten years (fiscal_estimate)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Congressional Budget Office
+- **Predicate:** estimated
+- **Object:** $80.6 billion over ten years (fiscal_estimate)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > The nonpartisan Congressional Budget Office estimated the bill would increase the federal deficit by about $80.6 billion over a decade.
 
-### c_006 — attributed, single source
-**Subject entities:** Congressional Budget Office
-**Predicate:** estimated
-**Object:** coverage gains by year 2026-2029 (coverage_estimate)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Congressional Budget Office
+- **Predicate:** estimated
+- **Object:** coverage gains by year 2026-2029 (coverage_estimate)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > The CBO estimated the bill would increase the number of insured Americans by 100,000 in 2026, 3 million in 2027, 4 million in 2028, and 1.1 million in 2029.
 
-### c_007 — attributed, single source
-**Subject entities:** Centers for Medicare and Medicaid Services
-**Predicate:** reported
-**Object:** 24 million enrollees (enrollment_figure)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Centers for Medicare and Medicaid Services
+- **Predicate:** reported
+- **Object:** 24 million enrollees (enrollment_figure)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Approximately 24 million Americans enrolled in ACA health insurance marketplace plans in 2025.
 
-### c_008 — attributed, single source
-**Subject entities:** Centers for Medicare and Medicaid Services
-**Predicate:** reported
-**Object:** 92% subsidy take-up rate (enrollment_figure)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Centers for Medicare and Medicaid Services
+- **Predicate:** reported
+- **Object:** 92% subsidy take-up rate (enrollment_figure)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > 92% of ACA total enrollees benefited from enhanced subsidies before they expired on Jan. 1, according to Centers for Medicare and Medicaid Services data.
 
-### c_009 — attributed, single source
-**Subject entities:** KFF
-**Predicate:** analyzed
-**Object:** 114% average annual premium increase (cost_estimate)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** KFF
+- **Predicate:** analyzed
+- **Object:** 114% average annual premium increase (cost_estimate)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > Previously subsidized ACA enrollees face an average 114% increase in annual health insurance fees, according to a KFF analysis.
 
-### c_010 — attributed, single source
-**Subject entities:** John Thune
-**Predicate:** said
-**Object:** three Senate conditions for subsidy deal (policy_position)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** John Thune
+- **Predicate:** said
+- **Object:** three Senate conditions for subsidy deal (policy_position)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > Senate Majority Leader John Thune said any Senate plan would need income limits, a nominal cost-sharing requirement for beneficiaries, and expanded health savings accounts.
 
-### c_011 — attributed, single source
-**Subject entities:** Mike Johnson
-**Predicate:** said
-**Object:** subsidies rife with fraud; urged no vote (policy_position)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Mike Johnson
+- **Predicate:** said
+- **Object:** subsidies rife with fraud; urged no vote (policy_position)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > Speaker Mike Johnson's office said Thursday that ACA subsidies from the COVID-19 era are rife with fraud and urged members to vote no.
 
-### c_012 — attributed, single source
-**Subject entities:** Bernie Moreno
-**Predicate:** said
-**Object:** bipartisan framework expected the following week (legislative_plan)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Bernie Moreno
+- **Predicate:** said
+- **Object:** bipartisan framework expected the following week (legislative_plan)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > Sen. Bernie Moreno, R-Ohio, said a bipartisan Senate group of about a dozen senators hoped to deliver a framework the following week.
 
-### c_013 — reported, single source
-**Subject entities:** U.S. government shutdown
-**Predicate:** lasted
-**Object:** 43 days (duration)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_013
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** U.S. government shutdown
+- **Predicate:** lasted
+- **Object:** 43 days (duration)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > The government shutdown last fall lasted 43 days as Democrats tried to force a vote to save the subsidies.
 
-### c_014 — attributed, single source
-**Subject entities:** Jason Smith
-**Predicate:** said
-**Object:** 7% of population on ACA marketplace plans (policy_claim)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jason Smith
+- **Predicate:** said
+- **Object:** 7% of population on ACA marketplace plans (policy_claim)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > Rep. Jason Smith, R-Mo., chairman of the House Ways and Means Committee, said on the floor that only 7% of the population relies on Obamacare marketplace plans.
 
-### c_015 — reported, single source
-**Subject entities:** Brian Fitzpatrick; Robert Bresnahan; Ryan Mackenzie; Mike Lawler
-**Predicate:** represent
-**Object:** key swing districts (electoral_context)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_015
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Brian Fitzpatrick; Robert Bresnahan; Ryan Mackenzie; Mike Lawler
+- **Predicate:** represent
+- **Object:** key swing districts (electoral_context)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > The four Republicans who signed the discharge petition all represent swing districts whose outcomes will help determine which party controls the House next year.
 
@@ -276,10 +300,5 @@ Jeffries said after Thursday's vote that Thune should bring the House Democratic
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Lisa Mascaro
 **Publication date:** 2026-01-08
-**Access date:** 2026-01-08
 **Title:** House passes bill extending health care subsidies, defying GOP leaders
 **URL:** https://apnews.com/article/house-democrats-republicans-vote-health-care-subsidies-7d69148c6619a190f8d4abb85a7344b8
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

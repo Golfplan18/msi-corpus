@@ -24,7 +24,7 @@ msi-corpus/
   schema.json            JSON Schema (draft 2020-12) for all record types
 
   news/
-    articles/            mirror of all news articles (~2,500 Markdown files)
+    articles/            mirror of all news articles (~15,000 Markdown files)
     index.jsonl          one row per article — filter fields only, no body text
     claims.jsonl         one row per atomic claim — RAG-ready, parent-anchored
     sources.jsonl        one row per source citation

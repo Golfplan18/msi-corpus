@@ -11,7 +11,9 @@ primary_themes:
 - institutional accountability
 - cultural heritage security
 - workforce concerns
-topic_tags: []
+topic_tags:
+- crime
+- arts, culture, entertainment and media
 storyline_nexus: []
 geographic_location: Paris, France
 floor_values_engaged:
@@ -182,10 +184,6 @@ Unveiled by Macron in January 2025, the renovation, which could take up to a dec
 The project is expected to cost roughly €700 million to €800 million, with funding from ticket revenue, state support, donations and Louvre Abu Dhabi-related income.
 
 The scale and cost of that plan now loom over the search for des Cars' successor.
-
----
-
-**This article was generated algorithmically by Main Street Independent's News Article Generator framework. Specification: /methodology. License: CC0 Public Domain.**
 
 ## Atomic claims
 
@@ -404,7 +402,3 @@ The scale and cost of that plan now loom over the search for des Cars' successor
 **Access date:** 2026-05-17
 **Title:** Louvre Museum chief resigns in wake of jewels heist
 **URL:** https://apnews.com/article/france-louvre-director-resigns-heist-4ea93a127e59b0a6cc5c2ef67431a729
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

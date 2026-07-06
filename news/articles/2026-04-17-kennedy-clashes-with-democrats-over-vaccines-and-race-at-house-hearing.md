@@ -19,11 +19,12 @@ primary_themes:
 - HHS budget
 - measles
 topic_tags:
-  - government
-  - "government policy"
-  - health
-  - politics
-storyline_nexus: []
+- government
+- government policy
+- health
+- politics
+storyline_nexus:
+- trump-health-policy-rfk
 geographic_location: Washington, D.C.
 floor_values_engaged:
 - value: informed_citizenship
@@ -73,17 +74,9 @@ cross_article_links:
   relation: related
   strength: 0.764
   confidence: medium
-- slug: 2026-01-11-germany-rejects-rfk-jr-s-claims-that-it-prosecutes-doctors-over-covid-vaccine-ex
-  relation: related
-  strength: 0.7591
-  confidence: medium
 - slug: 2026-01-08-vermont-reaffirms-childhood-vaccine-schedule-after-cdc-narrows-federal-list
   relation: related
   strength: 0.7565
-  confidence: medium
-- slug: 2026-01-06-trump-overstates-childhood-vaccine-requirements-as-administration-cuts-federal-s
-  relation: related
-  strength: 0.7515
   confidence: medium
 - slug: 2026-01-12-federal-judge-orders-hhs-to-restore-12m-in-pediatric-grants-citing-retaliation
   relation: related
@@ -148,111 +141,135 @@ Rep. Gwen Moore of Wisconsin offered a moment of levity. "I promise to give you 
 
 ## Atomic claims
 
-### c_001 — confirmed, single source
-**Subject entities:** Robert F. Kennedy Jr.; House Ways and Means Committee
-**Predicate:** testified_before
-**Object:** House Ways and Means Committee budget hearing (congressional_event)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Robert F. Kennedy Jr.; House Ways and Means Committee
+- **Predicate:** testified_before
+- **Object:** House Ways and Means Committee budget hearing (congressional_event)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > Health Secretary Robert F. Kennedy Jr. testified before the House Ways and Means Committee on Thursday, April 16, 2026, for the first time since September.
 
-### c_002 — confirmed, single source
-**Subject entities:** Robert F. Kennedy Jr.; U.S. Department of Health and Human Services
-**Predicate:** defended
-**Object:** more than 12% budget cut proposal (budget_action)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Robert F. Kennedy Jr.; U.S. Department of Health and Human Services
+- **Predicate:** defended
+- **Object:** more than 12% budget cut proposal (budget_action)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > Kennedy sought to defend a proposed cut of more than 12% to the HHS budget.
 
-### c_003 — attributed, single source
-**Subject entities:** Robert F. Kennedy Jr.
-**Predicate:** scheduled_to_attend
-**Object:** seven budget hearings over following week (scheduled_events)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Robert F. Kennedy Jr.
+- **Predicate:** scheduled_to_attend
+- **Object:** seven budget hearings over following week (scheduled_events)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > The Ways and Means hearing was the first of seven budget hearings Kennedy is scheduled to attend across congressional committees and subcommittees over the following week.
 
-### c_004 — confirmed, single source
-**Subject entities:** Linda Sanchez; Robert F. Kennedy Jr.; Donald Trump; Centers for Disease Control and Prevention
-**Predicate:** questioned
-**Object:** CDC vaccine messaging rollback authorization (congressional_question)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Linda Sanchez; Robert F. Kennedy Jr.; Donald Trump; Centers for Disease Control and Prevention
+- **Predicate:** questioned
+- **Object:** CDC vaccine messaging rollback authorization (congressional_question)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > Rep. Linda Sanchez, a Democrat from California, asked Kennedy whether President Trump had approved his decision to end the CDC's pro-vaccine public messaging campaign.
 
-### c_005 — confirmed, single source
-**Subject entities:** Robert F. Kennedy Jr.
-**Predicate:** declined_to_answer
-**Object:** question about CDC vaccine messaging decision (refusal)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Robert F. Kennedy Jr.
+- **Predicate:** declined_to_answer
+- **Object:** question about CDC vaccine messaging decision (refusal)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > Kennedy repeatedly declined to answer Sanchez's question directly, saying he first wanted to respond to what he characterized as misstatements.
 
-### c_006 — confirmed, single source
-**Subject entities:** Linda Sanchez; Robert F. Kennedy Jr.
-**Predicate:** acknowledged
-**Object:** vaccination could possibly have saved child who died of measles in West Texas (admission)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Linda Sanchez; Robert F. Kennedy Jr.
+- **Predicate:** acknowledged
+- **Object:** vaccination could possibly have saved child who died of measles in West Texas (admission)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > Sanchez asked Kennedy whether the measles vaccine could have saved a 6-year-old who died of measles in West Texas in 2025. Kennedy said, 'It's possible, certainly.'
 
-### c_007 — confirmed, primary document
-**Subject entities:** Robert F. Kennedy Jr.
-**Predicate:** stated
-**Object:** remarks about Black children and psychiatric drugs (public_statement)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Robert F. Kennedy Jr.
+- **Predicate:** stated
+- **Object:** remarks about Black children and psychiatric drugs (public_statement)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > On the 'High Level Conversations' podcast in 2024, Kennedy said, 'Psychiatric drugs — which every Black kid is now just standard put on Adderall, SSRIs, benzos, which are known to induce violence, and those kids are going to have a chance to go somewhere and get re-parented to live in a community where there'll be no cellphones, no screens, you'll actually have to talk to people.'
 
-### c_008 — confirmed, single source
-**Subject entities:** Robert F. Kennedy Jr.
-**Predicate:** denied
-**Object:** 2024 podcast remarks about Black children (denial)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Robert F. Kennedy Jr.
+- **Predicate:** denied
+- **Object:** 2024 podcast remarks about Black children (denial)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > During the hearing, Kennedy denied making the remarks, saying 'I don't even know what that phrase means. I'm not going to answer something I didn't say,' and later 'You're making stuff up.'
 
-### c_009 — confirmed, primary document
-**Subject entities:** Robert F. Kennedy Jr.
-**Predicate:** confirmed_to_have_stated
-**Object:** 2024 podcast remarks about Black children (recorded_statement)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Robert F. Kennedy Jr.
+- **Predicate:** confirmed_to_have_stated
+- **Object:** 2024 podcast remarks about Black children (recorded_statement)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > A recording of the podcast confirms Kennedy made the remarks in 2024.
 
-### c_010 — attributed, single source
-**Subject entities:** Emily Hilliard; U.S. Department of Health and Human Services
-**Predicate:** stated
-**Object:** explanation of re-parenting as psychotherapy term (official_statement)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Emily Hilliard; U.S. Department of Health and Human Services
+- **Predicate:** stated
+- **Object:** explanation of re-parenting as psychotherapy term (official_statement)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > HHS spokesperson Emily Hilliard said Kennedy had been referring to spaces where young people facing alienation and mental health challenges could get re-parented, which she described as a psychotherapy term for 'developing the emotional regulation, discipline, boundaries, and self-worth that may not have been established in childhood.'
 
-### c_011 — confirmed, single source
-**Subject entities:** Gwen Moore; Robert F. Kennedy Jr.
-**Predicate:** stated
-**Object:** humorous appeal during hearing (congressional_exchange)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_011
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Gwen Moore; Robert F. Kennedy Jr.
+- **Predicate:** stated
+- **Object:** humorous appeal during hearing (congressional_exchange)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > Rep. Gwen Moore of Wisconsin used humor to defuse tension, telling Kennedy: 'I promise to give you easy, comfortable questions if you don't yell at me and hurt my feelings.'
 
-### c_012 — confirmed, single source
-**Subject entities:** Robert F. Kennedy Jr.
-**Predicate:** stated
-**Object:** complaint about Democratic lawmakers not allowing responses (public_statement)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_012
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Robert F. Kennedy Jr.
+- **Predicate:** stated
+- **Object:** complaint about Democratic lawmakers not allowing responses (public_statement)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > Kennedy said, 'They've all shut me up. They give a little speech that they can go and market, you know, for fundraising, and they don't allow me to answer the question.'
 
@@ -264,7 +281,3 @@ Rep. Gwen Moore of Wisconsin offered a moment of levity. "I promise to give you 
 **Access date:** 2026-05-17
 **Title:** 3 key moments from RFK Jr.'s first House hearing in months
 **URL:** https://apnews.com/article/rfk-jr-kennedy-congress-hearing-testimony-budget-c86ac9f33907f68bb1494523aa9a0ccc
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

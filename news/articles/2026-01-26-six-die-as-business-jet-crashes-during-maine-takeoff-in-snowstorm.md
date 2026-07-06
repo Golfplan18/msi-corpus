@@ -14,44 +14,40 @@ primary_themes:
 - winter weather hazards
 - aircraft design and icing
 topic_tags:
-  - "economy, business and finance"
-  - "human interest"
-  - "lifestyle and leisure"
-  - travel
-storyline_nexus: []
-geographic_location: Bangor, Maine, United States
+- disaster, accident and emergency incident
+- transportation accident and incident
+- weather
+storyline_nexus:
+- extreme-weather-disasters
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
-  intensity: 0.95
+  intensity: 0.9
 - value: truthfulness
-  intensity: 0.85
-- value: accountability_of_power
   intensity: 0.6
-- value: informed_citizenship
-  intensity: 0.75
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18'
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:31:18Z'
 source_cluster_id: cluster_ap_2026-01-27_bangor-maine-plane-crash-0e56e09867a9520
 gdelt_event_ids: []
-consensus_floor_version: v1.0
-publication_mindspec_version: v1.0
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 18
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 8
     reported: 2
     contested: 0
+    appears: 0
     confirmed: 8
+    alleged: 0
+    attributed: 8
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 17
     single_source: 1
+    one_originating_plus_primary_document: 0
     two_independent: 0
+    primary_plus_secondary: 0
 sources:
   count: 1
   outlets:
@@ -65,37 +61,20 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-05-17-small-plane-crashes-in-los-angeles-lot-pilot-in-critical-condition
-  relation: related
-  strength: 0.8125
-  confidence: medium
-- slug: 2026-04-17-pilot-reported-high-frequency-vibrations-before-kauai-helicopter-crash-killed-3
-  relation: related
-  strength: 0.7919
-  confidence: medium
-- slug: 2026-01-06-snow-and-ice-kill-at-least-6-across-europe-grounding-600-schiphol-flights
-  relation: related
-  strength: 0.8358
-  confidence: medium
-- slug: 2026-01-13-freezing-rain-halts-flights-at-vienna-budapest-prague-and-bratislava-airports
-  relation: related
-  strength: 0.7804
-  confidence: medium
-- slug: 2026-01-04-pilot-killed-as-small-plane-crashes-catches-fire-at-provincetown-airport
-  relation: related
-  strength: 0.8117
-  confidence: medium
-- slug: 2026-01-07-winter-storm-strands-more-than-1-000-at-amsterdam-s-schiphol-grounds-800-flights
-  relation: related
-  strength: 0.7784
-  confidence: medium
-- slug: 2026-01-03-4-killed-as-helicopter-strikes-slackline-crashes-into-arizona-canyon
-  relation: related
-  strength: 0.7523
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Six people died when a business jet trying to take off in Maine crashed in a snowstorm
+- Six people died when a business jet trying to take off in Maine crashed in a snowstorm
+- PORTLAND, Maine (AP) — Six people died when a business jet crashed during takeoff as a snowstorm moved in and visibility diminished in Maine Sunday night.
+- The Bombardier Challenger 600 flipped over and burned on takeoff at Bangor International Airport around 7:45 p.m. Sunday night as the nation’s massive winter storm was beginning to reach the area.
+- “You can count on the fact that NTSB is going to look very closely at this,” said John Cox, who is CEO of Safety Operating Systems.
+- Cox said those conditions wouldn’t keep planes from flying.
 
 Six people died when a Bombardier Challenger 600 business jet crashed during takeoff at Bangor International Airport in Maine on Sunday evening as a snowstorm moved into the area. The aircraft flipped over and burned about 7:45 p.m. as visibility diminished, according to airport director Jose Saavedra and National Transportation Safety Board officials. All six people aboard the jet were killed, the airport said Monday.
 
@@ -135,161 +114,197 @@ The identities of those aboard have not been officially released. The jet was re
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Bombardier Challenger 600; Bangor International Airport
-**Predicate:** crash_resulted_in_deaths
-**Object:** 6 (fatality_count)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Bombardier Challenger 600; Bangor International Airport
+- **Predicate:** crash_resulted_in_deaths
+- **Object:** 6 (fatality_count)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > Six people died in the crash at Bangor International Airport.
 
-### c_002 — confirmed, primary document
-**Subject entities:** Bombardier Challenger 600
-**Predicate:** crashed_during_takeoff
-**Object:** 7:45 p.m. Sunday, 2026-01-26 (temporal_occurrence)
-**Temporal:** 2026-01-26T19:45:00
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Bombardier Challenger 600
+- **Predicate:** crashed_during_takeoff
+- **Object:** 7:45 p.m. Sunday, 2026-01-26 (temporal_occurrence)
+- **Temporal:** 2026-01-26T19:45:00
+- **Sources:** src_001
 
 > The aircraft crashed during takeoff around 7:45 p.m. Sunday as a snowstorm moved into the area.
 
-### c_003 — confirmed, primary document
-**Subject entities:** Bombardier Challenger 600
-**Predicate:** flipped_and_burned
-**Object:** flipped over and caught fire (crash_description)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Bombardier Challenger 600
+- **Predicate:** flipped_and_burned
+- **Object:** flipped over and caught fire (crash_description)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > The aircraft flipped over and burned on takeoff.
 
-### c_004 — attributed, primary document
-**Subject entities:** air traffic control recording
-**Predicate:** documented_crash_event
-**Object:** 45 seconds after clearance (timing)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** air traffic control recording
+- **Predicate:** documented_crash_event
+- **Object:** 45 seconds after clearance (timing)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > An audio recording of air traffic controllers documented someone saying "Aircraft upside down" about 45 seconds after a plane was cleared for takeoff.
 
-### c_005 — reported, single source
-**Subject entities:** Bombardier Challenger 600
-**Predicate:** underwent_deicing
-**Object:** approximately 20 minutes (duration)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Bombardier Challenger 600
+- **Predicate:** underwent_deicing
+- **Object:** approximately 20 minutes (duration)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > The Bombardier had been deiced and remained at the deicing pad for about 20 minutes before taxiing to the runway.
 
-### c_006 — attributed, primary document
-**Subject entities:** Bombardier Challenger 600
-**Predicate:** sat_on_tarmac
-**Object:** more than 1 hour (duration_on_ground)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Bombardier Challenger 600
+- **Predicate:** sat_on_tarmac
+- **Object:** more than 1 hour (duration_on_ground)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > The plane had landed at Bangor from Houston at 6:09 p.m. and would have been sitting outside in the snow for more than an hour before attempting takeoff.
 
-### c_007 — attributed, primary document
-**Subject entities:** Bombardier Challenger 600
-**Predicate:** has_icing_history
-**Object:** prior fatal crashes due to wing icing (safety_history)
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Bombardier Challenger 600
+- **Predicate:** has_icing_history
+- **Object:** prior fatal crashes due to wing icing (safety_history)
+- **Sources:** src_001
 
 > The Bombardier Challenger 600 model has a history of problems with icing on takeoff that caused previous deadly crashes.
 
-### c_008 — attributed, primary document
-**Subject entities:** Bombardier Challenger 600
-**Predicate:** crashed_in_prior_incidents
-**Object:** Birmingham (2002), Montrose Colorado (2006) (locations_and_dates)
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Bombardier Challenger 600
+- **Predicate:** crashed_in_prior_incidents
+- **Object:** Birmingham (2002), Montrose Colorado (2006) (locations_and_dates)
+- **Sources:** src_001
 
 > Previous deadly crashes involving the Bombardier Challenger 600 occurred in Birmingham, England and Montrose, Colorado.
 
-### c_009 — confirmed, primary document
-**Subject entities:** NBC executive; Montrose crash
-**Predicate:** resulted_in_death
-**Object:** Richard Ebersol's son (victim_identity)
-**Temporal:** 2006
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** NBC executive; Montrose crash
+- **Predicate:** resulted_in_death
+- **Object:** Richard Ebersol's son (victim_identity)
+- **Temporal:** 2006
+- **Sources:** src_001
 
 > The 2006 crash in Montrose, Colorado killed the son of NBC television executive Richard Ebersol.
 
-### c_010 — confirmed, primary document
-**Subject entities:** Federal Aviation Administration
-**Predicate:** issued_safety_rules
-**Object:** frost detection and deicing standards (regulatory_action)
-**Temporal:** 2006
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Federal Aviation Administration
+- **Predicate:** issued_safety_rules
+- **Object:** frost detection and deicing standards (regulatory_action)
+- **Temporal:** 2006
+- **Sources:** src_001
 
 > The FAA published new rules after the 2006 crash to clarify that even a small amount of frost on the wings can be a problem.
 
-### c_011 — confirmed, primary document
-**Subject entities:** Bombardier; Challenger 600
-**Predicate:** required_to_add_warning
-**Object:** cold weather operations warning to flight manual (safety_requirement)
-**Source IDs:** src_001
+### c_011
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Bombardier; Challenger 600
+- **Predicate:** required_to_add_warning
+- **Object:** cold weather operations warning to flight manual (safety_requirement)
+- **Sources:** src_001
 
 > Bombardier was required to add a cold weather operations warning to the plane's flight manual after incidents in Canada where these planes rolled unexpectedly during takeoff in cold and icing conditions.
 
-### c_012 — attributed, primary document
-**Subject entities:** Allegiant pilot; Allegiant flight
-**Predicate:** aborted_takeoff
-**Object:** visibility three-quarters mile, deice fluid failed (abort_reason)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Allegiant pilot; Allegiant flight
+- **Predicate:** aborted_takeoff
+- **Object:** visibility three-quarters mile, deice fluid failed (abort_reason)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > About 30 minutes before the crash, the pilot of an Allegiant plane radioed the tower to abort takeoff due to deice fluid failure and insufficient visibility.
 
-### c_013 — attributed, primary document
-**Subject entities:** ice accumulation; aircraft wing lift
-**Predicate:** prevents_flight
-**Object:** loss of lift (physical_consequence)
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** ice accumulation; aircraft wing lift
+- **Predicate:** prevents_flight
+- **Object:** loss of lift (physical_consequence)
+- **Sources:** src_001
 
 > Ice accumulating on aircraft wings can prevent the plane from becoming airborne.
 
-### c_014 — attributed, primary document
-**Subject entities:** National Weather Service; Bangor airport
-**Predicate:** received_snowfall
-**Object:** approximately 10 inches total; minimal accumulation at crash time (weather_measurement)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** National Weather Service; Bangor airport
+- **Predicate:** received_snowfall
+- **Object:** approximately 10 inches total; minimal accumulation at crash time (weather_measurement)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > The National Weather Service in Caribou, Maine said the airport eventually received nearly 10 inches of snow, but snowfall had just started at the time of the crash.
 
-### c_015 — confirmed, primary document
-**Subject entities:** Bangor airport temperature
-**Predicate:** measured_temperature
-**Object:** below 3°F (-16°C) (temperature)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_015
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Bangor airport temperature
+- **Predicate:** measured_temperature
+- **Object:** below 3°F (-16°C) (temperature)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > Temperatures at Bangor dropped below 3 degrees Fahrenheit while the jet was there.
 
-### c_016 — reported, primary document
-**Subject entities:** aircraft registration; Arnold and Itkin Trial Lawyers
-**Predicate:** shares_address
-**Object:** Houston address (organizational_connection)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_016
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** aircraft registration; Arnold and Itkin Trial Lawyers
+- **Predicate:** shares_address
+- **Object:** Houston address (organizational_connection)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > The jet was registered to a corporation that shares the same address in Houston as the personal injury law firm Arnold and Itkin Trial Lawyers.
 
-### c_017 — confirmed, primary document
-**Subject entities:** Bombardier Challenger 600
-**Predicate:** intended_destination
-**Object:** France (flight_destination)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_017
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Bombardier Challenger 600
+- **Predicate:** intended_destination
+- **Object:** France (flight_destination)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > The Bombardier was headed for France when it crashed.
 
-### c_018 — attributed, primary document
-**Subject entities:** Bangor International Airport
-**Predicate:** closure_period
-**Object:** at least until Wednesday, 2026-01-29 (operational_status)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_018
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Bangor International Airport
+- **Predicate:** closure_period
+- **Object:** at least until Wednesday, 2026-01-29 (operational_status)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > Bangor International Airport will remain closed at least until Wednesday for investigation.
 
@@ -298,10 +313,5 @@ The identities of those aboard have not been officially released. The jet was re
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Patrick Whittle
 **Publication date:** 2026-01-26
-**Access date:** 2026-01-26
 **Title:** FAA, NTSB investigate fatal plane crash in snowstorm in Maine
 **URL:** https://apnews.com/article/bangor-maine-plane-crash-0e56e09867a95201354449aa863daf65
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

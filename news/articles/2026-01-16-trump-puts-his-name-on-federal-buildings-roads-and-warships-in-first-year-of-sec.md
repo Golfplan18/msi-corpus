@@ -15,39 +15,42 @@ primary_themes:
 - executive power
 - congressional proposals
 topic_tags:
-  - politics
-  - "government policy"
-  - "arts, culture, entertainment and media"
-storyline_nexus: []
+- government
+- politics
+- political process
+- government policy
+- achievement
+storyline_nexus:
+- trump-foreign-policy-reshaping
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
-  intensity: 0.7
+  intensity: 0.9
 - value: informed_citizenship
   intensity: 0.6
-framework_version: 1.1.0
-generation_timestamp: '2026-01-16T12:00:00Z'
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:48:08Z'
 source_cluster_id: cluster_ap_2026-01-17_trump-naming-kennedy-institute-of-peace-
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 17
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 17
-    reported: 0
     contested: 0
+    alleged: 0
     confirmed: 0
+    reported: 0
+    attributed: 17
+    appears: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 0
+    one_originating_plus_primary_document: 0
     single_source: 17
     two_independent: 0
+    primary_plus_secondary: 0
 sources:
   count: 1
   outlets:
@@ -61,13 +64,19 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-05-house-spending-bill-still-calls-it-the-kennedy-center-bypassing-trump-rebrand
-  relation: related
-  strength: 0.7174
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Trump isn't waiting to get things named after himself
+- Trump attended a ceremony on January 16, 2026, to mark the renaming of a 4-mile road from the Palm Beach airport to Mar-a-Lago as 'President Donald J. Trump Boulevard.'
+- Trump's administration and allies put his name on the U.S. Institute of Peace.
+- Trump's name was added to the Kennedy Center performing arts venue in December 2025.
+- A new class of Navy battleships yet to be built has been named after Trump.
 
 A presidential historian said the scale of in-office naming tributes has no modern historical parallel, while independent Sen. Bernie Sanders of Vermont this week introduced legislation to prohibit naming or renaming any federal building or land after a sitting president.
 
@@ -107,156 +116,190 @@ The Palm Beach road dedicated on Friday is not the first Florida roadway to rece
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Donald Trump; Palm Beach, Florida
-**Predicate:** attended_naming_ceremony
-**Object:** President Donald J. Trump Boulevard (road_renaming)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Palm Beach, Florida
+- **Predicate:** attended_naming_ceremony
+- **Object:** President Donald J. Trump Boulevard (road_renaming)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > Trump attended a ceremony on January 16, 2026, to mark the renaming of a 4-mile road from the Palm Beach airport to Mar-a-Lago as 'President Donald J. Trump Boulevard.'
 
-### c_002 — attributed, single source
-**Subject entities:** Donald Trump; U.S. Institute of Peace
-**Predicate:** renamed
-**Object:** U.S. Institute of Peace (federal_institution)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; U.S. Institute of Peace
+- **Predicate:** renamed
+- **Object:** U.S. Institute of Peace (federal_institution)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Trump's administration and allies put his name on the U.S. Institute of Peace.
 
-### c_003 — attributed, single source
-**Subject entities:** Donald Trump; Kennedy Center
-**Predicate:** renamed
-**Object:** Kennedy Center (federal_institution)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Kennedy Center
+- **Predicate:** renamed
+- **Object:** Kennedy Center (federal_institution)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > Trump's name was added to the Kennedy Center performing arts venue in December 2025.
 
-### c_004 — attributed, single source
-**Subject entities:** Donald Trump
-**Predicate:** named_after
-**Object:** new class of Navy battleships (military_asset)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** named_after
+- **Object:** new class of Navy battleships (military_asset)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > A new class of Navy battleships yet to be built has been named after Trump.
 
-### c_005 — attributed, single source
-**Subject entities:** Donald Trump; Armenia; Azerbaijan
-**Predicate:** named_in_deal
-**Object:** Trump Route for International Peace and Prosperity (diplomatic_naming)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Armenia; Azerbaijan
+- **Predicate:** named_in_deal
+- **Object:** Trump Route for International Peace and Prosperity (diplomatic_naming)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > The Trump Route for International Peace and Prosperity is a transit corridor included in a deal the administration brokered between Armenia and Azerbaijan.
 
-### c_006 — attributed, single source
-**Subject entities:** Jeffrey Engel; Southern Methodist University
-**Predicate:** stated
-**Object:** no historical precedent for consistent in-office naming (historical_assessment)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jeffrey Engel; Southern Methodist University
+- **Predicate:** stated
+- **Object:** no historical precedent for consistent in-office naming (historical_assessment)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > Jeffrey Engel, the David Gergen Director of the Center for Presidential History at SMU, said 'At no previous time in history have we consistently named things after a president who was still in office.'
 
-### c_007 — attributed, single source
-**Subject entities:** Jeffrey Engel
-**Predicate:** stated
-**Object:** naming sends signal about gaining presidential access and favor (historical_assessment)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jeffrey Engel
+- **Predicate:** stated
+- **Object:** naming sends signal about gaining presidential access and favor (historical_assessment)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > Engel said the practice can send a signal that the easiest way to get access and favor from the president is to play to his ego and give him something or name something after him.
 
-### c_008 — attributed, single source
-**Subject entities:** Liz Huston; White House
-**Predicate:** stated
-**Object:** White House defense of Trump naming pattern (public_statement)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Liz Huston; White House
+- **Predicate:** stated
+- **Object:** White House defense of Trump naming pattern (public_statement)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > White House spokeswoman Liz Huston said 'The Administration's focus isn't on smart branding, but delivering on President Trump's goal of Making America Great Again.'
 
-### c_009 — attributed, single source
-**Subject entities:** White House; George Washington; Herbert Hoover
-**Predicate:** cited_as_precedent
-**Object:** in-office naming historical precedents (historical_claim)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** White House; George Washington; Herbert Hoover
+- **Predicate:** cited_as_precedent
+- **Object:** in-office naming historical precedents (historical_claim)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > The White House noted that Washington D.C. was named after George Washington and the Hoover Dam was named after Herbert Hoover while each was serving as president.
 
-### c_010 — attributed, single source
-**Subject entities:** Bernie Sanders
-**Predicate:** introduced_legislation
-**Object:** ban on naming federal property after sitting president (legislation)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Bernie Sanders
+- **Predicate:** introduced_legislation
+- **Object:** ban on naming federal property after sitting president (legislation)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Sen. Bernie Sanders introduced legislation to ban the naming or renaming of any federal building or land after a sitting president, retroactively covering the Kennedy Center and Institute of Peace.
 
-### c_011 — attributed, single source
-**Subject entities:** Bernie Sanders; Donald Trump
-**Predicate:** stated
-**Object:** Sanders criticism of Trump federal naming (public_statement)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Bernie Sanders; Donald Trump
+- **Predicate:** stated
+- **Object:** Sanders criticism of Trump federal naming (public_statement)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Sanders said 'I think he is a narcissist who likes to see his name up there. If he owns a hotel, that's his business. But he doesn't own federal buildings.'
 
-### c_012 — attributed, single source
-**Subject entities:** Bernie Sanders
-**Predicate:** stated
-**Object:** Sanders comparison to authoritarian practice (public_statement)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Bernie Sanders
+- **Predicate:** stated
+- **Object:** Sanders comparison to authoritarian practice (public_statement)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Sanders said the practice 'very much sounds like the Great Leader mentality of North Korea.'
 
-### c_013 — attributed, single source
-**Subject entities:** Addison McDowell; Washington Dulles International Airport
-**Predicate:** introduced_legislation
-**Object:** rename Dulles as Donald J. Trump International Airport (legislation)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Addison McDowell; Washington Dulles International Airport
+- **Predicate:** introduced_legislation
+- **Object:** rename Dulles as Donald J. Trump International Airport (legislation)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Rep. Addison McDowell of North Carolina introduced legislation to rename Washington Dulles International Airport as Donald J. Trump International Airport.
 
-### c_014 — attributed, single source
-**Subject entities:** Greg Steube; Washington Metro
-**Predicate:** introduced_legislation
-**Object:** rename DC Metro as Trump Train (legislation)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Greg Steube; Washington Metro
+- **Predicate:** introduced_legislation
+- **Object:** rename DC Metro as Trump Train (legislation)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Rep. Greg Steube of Florida introduced legislation to rename the Washington-area Metro system the 'Trump Train.'
 
-### c_015 — attributed, single source
-**Subject entities:** Claudia Tenney
-**Predicate:** introduced_legislation
-**Object:** designate June 14 as Trump's Birthday and Flag Day (legislation)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Claudia Tenney
+- **Predicate:** introduced_legislation
+- **Object:** designate June 14 as Trump's Birthday and Flag Day (legislation)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Rep. Claudia Tenney of New York introduced legislation to designate June 14 as 'Trump's Birthday and Flag Day.'
 
-### c_016 — attributed, single source
-**Subject entities:** Meg Weinberger; Palm Beach International Airport
-**Predicate:** working_on_legislation
-**Object:** rename Palm Beach International Airport as Donald J. Trump International Airport (legislation)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_016
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Meg Weinberger; Palm Beach International Airport
+- **Predicate:** working_on_legislation
+- **Object:** rename Palm Beach International Airport as Donald J. Trump International Airport (legislation)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Florida state Rep. Meg Weinberger said she is working on legislation to rename Palm Beach International Airport as Donald J. Trump International Airport.
 
-### c_017 — attributed, single source
-**Subject entities:** Hialeah, Florida; Donald Trump
-**Predicate:** renamed
-**Object:** President Donald J. Trump Avenue (road_renaming)
-**Temporal:** 2024-12
-**Source IDs:** src_001
+### c_017
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Hialeah, Florida; Donald Trump
+- **Predicate:** renamed
+- **Object:** President Donald J. Trump Avenue (road_renaming)
+- **Temporal:** 2024-12
+- **Sources:** src_001
 
 > Officials in Hialeah, Florida, renamed a street 'President Donald J. Trump Avenue' in December 2024.
 
@@ -265,10 +308,5 @@ The Palm Beach road dedicated on Friday is not the first Florida roadway to rece
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Michelle L. Price
 **Publication date:** 2026-01-16
-**Access date:** 2026-01-16
 **Title:** Trump isn't waiting to get things named after himself
 **URL:** https://apnews.com/article/trump-naming-kennedy-institute-of-peace-branding-1fc765c74f65f0b767e7f4282d23059f
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

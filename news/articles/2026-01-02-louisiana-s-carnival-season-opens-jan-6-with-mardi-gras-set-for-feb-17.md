@@ -17,35 +17,39 @@ primary_themes:
 - Louisiana
 - tourism
 topic_tags:
-  - religion
-storyline_nexus: []
-geographic_location: New Orleans, Louisiana, United States
+- arts, culture, entertainment and media
+- lifestyle and leisure
+- communities
+- travel
+storyline_nexus:
+- extreme-weather-disasters
+geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship
   intensity: 0.6
-framework_version: 1.1.0
-generation_timestamp: '2026-05-16T16:45:36Z'
+framework_version: 1.3.0
+generation_timestamp: '2026-05-22T23:28:33Z'
 source_cluster_id: cluster_ap_2026-01-01_carnival-mardi-gras-new-orleans-louisian
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 10
   hedges:
-    appears: 0
-    alleged: 0
     attributed: 10
+    confirmed: 0
+    appears: 0
     reported: 0
     contested: 0
-    confirmed: 0
+    alleged: 0
   corroboration:
-    primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
-    primary_document: 0
+    primary_plus_secondary: 0
     single_source: 10
     two_independent: 0
+    primary_document: 0
 sources:
   count: 1
   outlets:
@@ -66,6 +70,13 @@ image:
 cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- Carnival encompasses more than 80 parades in and around New Orleans, a storied king cake tradition, krewe balls and distinct cultural observances rooted in centuries of Catholic, African American and Cajun tradition — a celebration that stretches far…
+- As residents across much of the country settle back into post-holiday routines, Louisiana is gearing up for its biggest annual celebration: Carnival season, a weeks-long pre-Lenten bash of elaborate parades, feasting and costumed revelry that draws m…
+- Article details provided in full text.
 
 Carnival encompasses more than 80 parades in and around New Orleans, a storied king cake tradition, krewe balls and distinct cultural observances rooted in centuries of Catholic, African American and Cajun tradition — a celebration that stretches far beyond the French Quarter.
 
@@ -107,83 +118,103 @@ In New Orleans, some African Americans mask in elaborate beaded and feathered Ma
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Predicate:** begins_on
-**Object:** January 6 (date)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Predicate:** begins_on
+- **Object:** January 6 (date)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > Carnival season always begins Jan. 6, known in the Catholic calendar as Epiphany or Twelfth Night.
 
-### c_002 — attributed, single source
-**Predicate:** falls_on
-**Object:** February 17, 2026 (date)
-**Temporal:** 2026-02-17
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Predicate:** falls_on
+- **Object:** February 17, 2026 (date)
+- **Temporal:** 2026-02-17
+- **Sources:** src_001
 
 > Mardi Gras falls on Feb. 17 in 2026.
 
-### c_003 — attributed, single source
-**Predicate:** duration
-**Object:** 43 (days)
-**Temporal:** 2026-01-02
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Predicate:** duration
+- **Object:** 43 (days)
+- **Temporal:** 2026-01-02
+- **Sources:** src_001
 
 > This year's Carnival season is 43 days long.
 
-### c_004 — attributed, single source
-**Predicate:** travel_to
-**Object:** New Orleans (place)
-**Temporal:** 2026-01-02
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Predicate:** travel_to
+- **Object:** New Orleans (place)
+- **Temporal:** 2026-01-02
+- **Sources:** src_001
 
 > More than a million visitors travel to New Orleans each year to partake in Carnival.
 
-### c_005 — attributed, single source
-**Predicate:** scheduled_count
-**Object:** 80 (parade_count)
-**Temporal:** 2026-01-02
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Predicate:** scheduled_count
+- **Object:** 80 (parade_count)
+- **Temporal:** 2026-01-02
+- **Sources:** src_001
 
 > More than 80 parades are scheduled in and surrounding New Orleans this Carnival season.
 
-### c_006 — attributed, single source
-**Predicate:** tosses
-**Object:** 15000000 (throw_count)
-**Temporal:** 2026-01-02
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Predicate:** tosses
+- **Object:** 15000000 (throw_count)
+- **Temporal:** 2026-01-02
+- **Sources:** src_001
 
 > The Endymion krewe estimates it tosses more than 15 million throws along its parade route.
 
-### c_007 — attributed, single source
-**Predicate:** has
-**Object:** 3,200 riders, 80+ floats (parade_scale)
-**Temporal:** 2026-01-02
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Predicate:** has
+- **Object:** 3,200 riders, 80+ floats (parade_scale)
+- **Temporal:** 2026-01-02
+- **Sources:** src_001
 
 > The Endymion parade hosts 3,200 riders and more than 80 floats.
 
-### c_008 — attributed, single source
-**Predicate:** oldest_celebration
-**Object:** Mobile, Alabama (place)
-**Temporal:** 2026-01-02
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Predicate:** oldest_celebration
+- **Object:** Mobile, Alabama (place)
+- **Temporal:** 2026-01-02
+- **Sources:** src_001
 
 > Mobile, Alabama lays claim to the nation's oldest Mardi Gras celebration.
 
-### c_009 — attributed, single source
-**Predicate:** dates_to
-**Object:** late 1800s (historical_period)
-**Temporal:** 2026-01-02
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Predicate:** dates_to
+- **Object:** late 1800s (historical_period)
+- **Temporal:** 2026-01-02
+- **Sources:** src_001
 
 > The Mardi Gras Indian tradition in New Orleans dates to at least the late 1800s.
 
-### c_010 — attributed, single source
-**Predicate:** date_range
-**Object:** February 3 – March 9 (date_range)
-**Temporal:** 2026-01-02
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Predicate:** date_range
+- **Object:** February 3 – March 9 (date_range)
+- **Temporal:** 2026-01-02
+- **Sources:** src_001
 
 > Mardi Gras can fall anywhere between Feb. 3 and March 9, depending on the date of Easter.
 
@@ -192,10 +223,5 @@ In New Orleans, some African Americans mask in elaborate beaded and feathered Ma
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Sara Cline
 **Publication date:** 2026-01-02
-**Access date:** 2026-01-02
 **Title:** What to know about Carnival celebrations in Louisiana
 **URL:** https://apnews.com/article/carnival-mardi-gras-new-orleans-louisiana-eda92575bdbd1185dedb09ff71f527c1
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

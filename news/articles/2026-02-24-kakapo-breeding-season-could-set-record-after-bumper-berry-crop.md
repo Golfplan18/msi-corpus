@@ -286,7 +286,3 @@ The painstaking effort to preserve the species might seem unusual to outsiders, 
 **Access date:** 2026-02-24
 **Title:** The endangered kakapo parrot could have a record breeding season
 **URL:** https://apnews.com/article/kakapo-flightless-parrot-breeding-new-zealand-birds-9b3e6532cd17331831b0fd3aa41ee41f
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

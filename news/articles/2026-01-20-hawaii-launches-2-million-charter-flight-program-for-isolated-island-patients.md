@@ -18,44 +18,42 @@ primary_themes:
 - physician shortage
 - healthcare equity
 topic_tags:
-  - "economy, business and finance"
-  - health
-  - "health treatment and procedure"
-  - sport
-  - "sport event"
-  - transport
-storyline_nexus: []
-geographic_location: Moloka'i and Lana'i, Hawaii, USA
+- health
+- public health
+- transport
+- government policy
+- communities
+storyline_nexus:
+- aca-medicaid-healthcare-crisis
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
-  intensity: 0.95
-- value: informed_citizenship
-  intensity: 0.8
+  intensity: 0.9
 - value: equality_fairness
-  intensity: 0.85
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:23:30Z'
 source_cluster_id: cluster_ap_2026-01-21_honolulu-health-care-costs-aerospace-and
 gdelt_event_ids: []
-consensus_floor_version: 1.0.0
-publication_mindspec_version: 1.0.0
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 20
   hedges:
+    confirmed: 9
+    attributed: 9
     appears: 0
     alleged: 0
-    attributed: 9
     reported: 2
     contested: 0
-    confirmed: 9
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 0
-    single_source: 20
+    primary_plus_secondary: 0
     two_independent: 0
+    single_source: 20
+    one_originating_plus_primary_document: 0
 sources:
   count: 1
   outlets:
@@ -69,13 +67,16 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-09-hawaii-s-physician-shortage-deepens-leaving-state-644-doctors-short-of-need
-  relation: related
-  strength: 0.7249
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- Hawaii launched a $2 million charter-flight pilot program for Moloka'i and Lana'i patients who face barriers reaching off-island medical specialists amid commercial airline disruptions. The program...
+- The Essential Rural Medical Air Transport program, or ERMAT, aims to serve 1,500 Moloka'i residents through 12 monthly flights and 1,000 Lana'i res...
+- Pulama Ka Heke, a Moloka'i health care nonprofit, and Lānaʻi Kinaole, a home health care agency, are running the program with funding approved by s...
 
 Hawaii launched a $2 million charter-flight pilot program for Moloka'i and Lana'i patients who face barriers reaching off-island medical specialists amid commercial airline disruptions. The program will provide free chartered flights for patients with physician referrals, with service beginning this month.
 
@@ -123,199 +124,232 @@ Gov. Josh Green said in a statement that the money will help close the distance 
 
 The funds cover the first year of a five-year strategic plan to modernize the state's rural health care system, with additional annual grant opportunities expected through 2030. The investment will support expansions to medical clinics, stabilization of rural hospitals, recruitment and training of healthcare providers, and expansion of virtual and mobile care options on neighbor islands and in rural parts of O'ahu.
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from public sources. The methodology is available at [/methodology](/methodology). This work is released under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
-
 ## Atomic claims
 
-### c_001 — confirmed, single source
-**Subject entities:** Hawaii; Moloka'i; Lana'i
-**Predicate:** launched
-**Object:** $2 million charter-flight pilot program (policy_initiative)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Hawaii; Moloka'i; Lana'i
+- **Predicate:** launched
+- **Object:** $2 million charter-flight pilot program (policy_initiative)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > Hawaii launched a $2 million charter-flight pilot program for Moloka'i and Lana'i patients.
 
-### c_002 — confirmed, single source
-**Subject entities:** ERMAT; Moloka'i
-**Predicate:** aims_to_serve
-**Object:** 1,500 residents on 12 monthly flights (service_target)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** ERMAT; Moloka'i
+- **Predicate:** aims_to_serve
+- **Object:** 1,500 residents on 12 monthly flights (service_target)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > ERMAT aims to serve 1,500 Moloka'i residents through 12 monthly charter flights in 2026.
 
-### c_003 — confirmed, single source
-**Subject entities:** ERMAT; Lana'i
-**Predicate:** aims_to_serve
-**Object:** 1,000 residents on weekly flights (service_target)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** ERMAT; Lana'i
+- **Predicate:** aims_to_serve
+- **Object:** 1,000 residents on weekly flights (service_target)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > ERMAT aims to serve 1,000 Lana'i residents through weekly charter flights in 2026.
 
-### c_004 — attributed, single source
-**Subject entities:** ERMAT; Hawaii legislature
-**Predicate:** requires
-**Object:** additional funding for 2027 continuation (resource_requirement)
-**Temporal:** 2026-2027
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** ERMAT; Hawaii legislature
+- **Predicate:** requires
+- **Object:** additional funding for 2027 continuation (resource_requirement)
+- **Temporal:** 2026-2027
+- **Sources:** src_001
 
 > The program will require additional legislative support to continue beyond 2026.
 
-### c_005 — reported, single source
-**Subject entities:** Pacific Air Charters; Ho'olehua Airport
-**Predicate:** scheduled
-**Object:** nine-seat charter flight to Honolulu (scheduled_service)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Pacific Air Charters; Ho'olehua Airport
+- **Predicate:** scheduled
+- **Object:** nine-seat charter flight to Honolulu (scheduled_service)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > The first charter flight is expected to depart Moloka'i for Honolulu later in January.
 
-### c_006 — reported, single source
-**Subject entities:** ERMAT; Lana'i
-**Predicate:** scheduled
-**Object:** charter flight service begins (scheduled_service)
-**Temporal:** 2026-02
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** ERMAT; Lana'i
+- **Predicate:** scheduled
+- **Object:** charter flight service begins (scheduled_service)
+- **Temporal:** 2026-02
+- **Sources:** src_001
 
 > Lana'i charter flights are expected to begin in February.
 
-### c_007 — confirmed, single source
-**Subject entities:** Pulama Ka Heke; Lānaʻi Kinaole
-**Predicate:** operate
-**Object:** ERMAT program (program_operation)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Pulama Ka Heke; Lānaʻi Kinaole
+- **Predicate:** operate
+- **Object:** ERMAT program (program_operation)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Pulama Ka Heke and Lānaʻi Kinaole are running ERMAT with 2024 state legislative funding.
 
-### c_008 — confirmed, single source
-**Subject entities:** Moloka'i residents; Daniel K. Inouye International Airport
-**Predicate:** face_booking_scarcity
-**Object:** seats unavailable days or weeks ahead (flight_availability_pattern)
-**Temporal:** ongoing
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Moloka'i residents; Daniel K. Inouye International Airport
+- **Predicate:** face_booking_scarcity
+- **Object:** seats unavailable days or weeks ahead (flight_availability_pattern)
+- **Temporal:** ongoing
+- **Sources:** src_001
 
 > Morning flights to Honolulu frequently sell out days or weeks in advance.
 
-### c_009 — attributed, single source
-**Subject entities:** Moloka'i resident; kidney transplant
-**Predicate:** experienced_access_barrier
-**Object:** fully booked flights during medical emergency (medical_access_failure)
-**Temporal:** late 2025
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Moloka'i resident; kidney transplant
+- **Predicate:** experienced_access_barrier
+- **Object:** fully booked flights during medical emergency (medical_access_failure)
+- **Temporal:** late 2025
+- **Sources:** src_001
 
 > A Moloka'i resident on a kidney transplant waitlist received an organ-availability call in late 2025 but commercial flights were booked out for days.
 
-### c_010 — attributed, single source
-**Subject entities:** ERMAT coordinators; transplant patient
-**Predicate:** enabled
-**Object:** timely transport to life-saving organ transplant (successful_medical_intervention)
-**Temporal:** late 2025
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** ERMAT coordinators; transplant patient
+- **Predicate:** enabled
+- **Object:** timely transport to life-saving organ transplant (successful_medical_intervention)
+- **Temporal:** late 2025
+- **Sources:** src_001
 
 > ERMAT coordinators chartered a flight that allowed the transplant patient to reach Honolulu in time for surgery.
 
-### c_011 — confirmed, single source
-**Subject entities:** Moloka'i
-**Predicate:** has_population
-**Object:** 7,400 (demographic_fact)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_011
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Moloka'i
+- **Predicate:** has_population
+- **Object:** 7,400 (demographic_fact)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Moloka'i has a population of 7,400.
 
-### c_012 — attributed, single source
-**Subject entities:** Hawaii; physician workforce
-**Predicate:** has_shortage
-**Object:** 23% increase needed (workforce_gap)
-**Temporal:** 2025 report
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Hawaii; physician workforce
+- **Predicate:** has_shortage
+- **Object:** 23% increase needed (workforce_gap)
+- **Temporal:** 2025 report
+- **Sources:** src_001
 
 > Hawaii needs to grow its doctor supply by 23% to meet patient demand according to a 2025 annual report.
 
-### c_013 — attributed, single source
-**Subject entities:** Moloka'i; physician workforce
-**Predicate:** has_shortage
-**Object:** 83% increase needed (workforce_gap)
-**Temporal:** 2025 report
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Moloka'i; physician workforce
+- **Predicate:** has_shortage
+- **Object:** 83% increase needed (workforce_gap)
+- **Temporal:** 2025 report
+- **Sources:** src_001
 
 > Moloka'i needs to grow its physician workforce by 83% according to a 2025 annual report.
 
-### c_014 — confirmed, single source
-**Subject entities:** Moloka'i residents; Medicaid/Medicare
-**Predicate:** rely_on
-**Object:** government insurance (insurance_status)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_014
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Moloka'i residents; Medicaid/Medicare
+- **Predicate:** rely_on
+- **Object:** government insurance (insurance_status)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Roughly two-thirds of Moloka'i residents rely on government health insurance.
 
-### c_015 — attributed, single source
-**Subject entities:** Hawaii physicians; Medicaid; Medicare
-**Predicate:** receive
-**Object:** lowest reimbursement rates nationally (payment_structure)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Hawaii physicians; Medicaid; Medicare
+- **Predicate:** receive
+- **Object:** lowest reimbursement rates nationally (payment_structure)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Doctors serving Medicaid and Medicare patients in Hawaii receive some of the nation's lowest reimbursement rates, sometimes lower than the cost of providing care.
 
-### c_016 — attributed, single source
-**Subject entities:** Native Hawaiians
-**Predicate:** experience
-**Object:** high food insecurity and chronic disease (health_disparities)
-**Temporal:** ongoing
-**Source IDs:** src_001
+### c_016
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Native Hawaiians
+- **Predicate:** experience
+- **Object:** high food insecurity and chronic disease (health_disparities)
+- **Temporal:** ongoing
+- **Sources:** src_001
 
 > Native Hawaiians face high rates of food insecurity and chronic disease.
 
-### c_017 — confirmed, single source
-**Subject entities:** Hawaii; federal rural health grant
-**Predicate:** receive
-**Object:** $189 million (federal_funding_award)
-**Temporal:** fiscal year 2026
-**Source IDs:** src_001
+### c_017
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Hawaii; federal rural health grant
+- **Predicate:** receive
+- **Object:** $189 million (federal_funding_award)
+- **Temporal:** fiscal year 2026
+- **Sources:** src_001
 
 > Hawaii will receive nearly $189 million of a $50 billion national rural health grant.
 
-### c_018 — attributed, single source
-**Subject entities:** Hawaii; federal grant award
-**Predicate:** ranks
-**Object:** one of largest awards per capita (comparative_funding_metric)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_018
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Hawaii; federal grant award
+- **Predicate:** ranks
+- **Object:** one of largest awards per capita (comparative_funding_metric)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Hawaii's $189 million award is one of the largest per capita nationally.
 
-### c_019 — attributed, single source
-**Subject entities:** Hawaii; rural residents
-**Predicate:** constitute
-**Object:** 14% of state population (demographic_fact)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_019
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Hawaii; rural residents
+- **Predicate:** constitute
+- **Object:** 14% of state population (demographic_fact)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Rural residents represent roughly 14% of Hawaii's population.
 
-### c_020 — confirmed, single source
-**Subject entities:** federal grant; rural health strategic plan
-**Predicate:** fund
-**Object:** five-year modernization plan through 2030 (multi_year_initiative)
-**Temporal:** 2026-2030
-**Source IDs:** src_001
+### c_020
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** federal grant; rural health strategic plan
+- **Predicate:** fund
+- **Object:** five-year modernization plan through 2030 (multi_year_initiative)
+- **Temporal:** 2026-2030
+- **Sources:** src_001
 
 > The federal grant funds the first year of a five-year strategic plan with additional opportunities through 2030.
 
 ## Sources
 
 ### src_001 — Associated Press, wire, Tier 1, originating
-**Author:** Brittany Lyte
+**Author:** Brittany Lyte / Honolulu Civil Beat
 **Publication date:** 2026-01-20
-**Access date:** 2026-01-20
 **Title:** Game Changer? Free Medical Flights Start For Some Neighbor Island Residents
 **URL:** https://apnews.com/article/honolulu-health-care-costs-aerospace-and-defense-industry-health-care-industry-general-news-31518680f948ce73f16f8a7cd3383c50
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

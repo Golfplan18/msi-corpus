@@ -25,7 +25,7 @@ topic_tags:
   - employment
   - fire
 storyline_nexus:
-  - iran-war
+- the-iran-war
 geographic_location: Iran (Tehran, rural areas)
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -119,10 +119,6 @@ For families who remained or returned to the capital, managing children's school
 Teymourian's office does not permit remote work and requires employees without paid leave to request unpaid leave. Ramezani altered his schedule to supervise their daughter's classes during the day, while Teymourian takes approximately 1.5 hours of hourly leave each day to cover gaps in childcare. Ramezani often returns home late at night, long after their daughter is asleep, making family dinners infrequent.
 
 "This has put economic and emotional pressure on both of us," Teymourian said. "Life passes at full speed. You don't even realize how the day turns to night. We're just letting time pass until things go back to how they were."
-
----
-
-**AI Disclosure:** This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. The framework specification is available at /methodology. This article was not selected for human review. The work is released under a CC0 public-domain dedication.
 
 ## Atomic claims
 
@@ -368,7 +364,3 @@ Teymourian's office does not permit remote work and requires employees without p
 **Access date:** 2026-05-17
 **Title:** Las familias en Irán sufren el cierre de escuelas, aunque los ataques aéreos han cesado
 **URL:** https://apnews.com/article/iran-eeuu-guerra-familias-ninos-displazados-calle-65963e4b7220cd26bc5eb7a521558aa9
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

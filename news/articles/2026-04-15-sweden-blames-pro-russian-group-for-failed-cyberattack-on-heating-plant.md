@@ -16,8 +16,7 @@ primary_themes:
 topic_tags:
   - election
   - politics
-storyline_nexus:
-  - ai-regulation
+storyline_nexus: []
 geographic_location: Europe
 floor_values_engaged:
 - value: informed_citizenship
@@ -199,7 +198,3 @@ The Kremlin has previously denied carrying out any kind of sabotage campaign acr
 **Access date:** 2026-04-15
 **Title:** Swedish government links pro-Russian group to cyberattack on heating plant
 **URL:** https://apnews.com/article/sweden-russia-cyberattack-energy-infrastructure-power-de1fb8d8beb5e22122dc7300cd62f987
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

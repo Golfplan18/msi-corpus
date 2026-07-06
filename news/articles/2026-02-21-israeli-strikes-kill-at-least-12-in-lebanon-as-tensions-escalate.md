@@ -19,8 +19,7 @@ topic_tags:
   - labour
   - "labour dispute"
 storyline_nexus:
-  - gaza-conflict
-  - iran-war
+- israel-hezbollah-lebanon-war
 geographic_location: Lebanon
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -104,8 +103,6 @@ The Israel-Hezbollah conflict escalated when Hamas attacked Israel in October 20
 ## Regional Tensions
 
 Friday's death toll was unusually high amid intensified regional tensions. The United States has threatened military strikes against Iran, which backs both Hezbollah and Hamas, if negotiations over Iran's nuclear program fail to reach agreement. During a previous Israel-Iran conflict last year, Hezbollah remained on the sidelines, but observers in Lebanon worry that pattern could change if another broader regional war breaks out.
-
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. Specification: /methodology. Human review: not_triggered.
 
 ## Atomic claims
 
@@ -224,7 +221,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-02-20
 **Title:** Israeli strikes in Lebanon kill at least 12 people
 **URL:** https://apnews.com/article/lebanon-israel-strikes-795e0b47f98ebb6e7c5b3be09a6cfc7a
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

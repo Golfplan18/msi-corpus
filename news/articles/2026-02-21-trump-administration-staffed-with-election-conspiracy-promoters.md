@@ -19,9 +19,7 @@ topic_tags:
   - politics
   - "government policy"
 storyline_nexus:
-  - 2026-midterms
-  - immigration-enforcement
-  - us-administration-2026
+- trump-judicial-challenges
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
@@ -126,88 +124,104 @@ Joanna Lydgate, chief executive officer of States United Democracy Center, which
 
 Election officials across the country are preparing for the implications. Those in states controlled politically by Democrats are particularly concerned about federal pressure. The 2026 midterm elections, when control of Congress is on the line, represent the first major electoral test of how the administration will apply its election denial framework from the seat of federal power.
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
-### c_001 — reported, single source
-**Subject entities:** Donald Trump
-**Predicate:** appointed_to_positions
-**Object:** people who promoted false 2020 election claims (personnel_class)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** appointed_to_positions
+- **Object:** people who promoted false 2020 election claims (personnel_class)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Trump has stocked his administration with people who have promoted his false 2020 election claims.
 
-### c_002 — reported, single source
-**Subject entities:** Kurt Olsen
-**Predicate:** leads_investigation
-**Object:** sweeping probe of 2020 election vote (governmental_action)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Kurt Olsen
+- **Predicate:** leads_investigation
+- **Object:** sweeping probe of 2020 election vote (governmental_action)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Kurt Olsen, a lawyer who unsuccessfully pushed the Justice Department in 2020 to back Trump's false election claims, now leads a sweeping probe of the 2020 election vote.
 
-### c_003 — reported, single source
-**Subject entities:** Pam Bondi
-**Predicate:** helped_attempt_overturn
-**Object:** Trump's 2020 election loss (political_action)
-**Temporal:** 2020
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Pam Bondi
+- **Predicate:** helped_attempt_overturn
+- **Object:** Trump's 2020 election loss (political_action)
+- **Temporal:** 2020
+- **Sources:** src_001
 
 > Attorney General Pam Bondi helped Trump attempt to overturn his 2020 loss.
 
-### c_004 — reported, single source
-**Subject entities:** Fulton County; Georgia
-**Predicate:** subject_of_seizure
-**Object:** ballots and 2020 election records (evidence_seizure)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Fulton County; Georgia
+- **Predicate:** subject_of_seizure
+- **Object:** ballots and 2020 election records (evidence_seizure)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > In late January 2026, federal agents seized ballots and election records from Fulton County in Georgia, a Democratic stronghold that has been a target of election conspiracy theorists.
 
-### c_005 — reported, single source
-**Subject entities:** Fulton County seizure
-**Predicate:** based_on
-**Object:** previously investigated 2020 election claims (evidentiary_basis)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Fulton County seizure
+- **Predicate:** based_on
+- **Object:** previously investigated 2020 election claims (evidentiary_basis)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > The seizure was based on 2020 election claims that in many cases had been thoroughly investigated previously.
 
-### c_006 — attributed, single source
-**Subject entities:** Pam Bondi
-**Predicate:** declared
-**Object:** DOJ personnel must execute presidential demands (policy_statement)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Pam Bondi
+- **Predicate:** declared
+- **Object:** DOJ personnel must execute presidential demands (policy_statement)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Bondi declared that everyone working at the Justice Department needs to carry out the president's demands.
 
-### c_007 — attributed, single source
-**Subject entities:** election denial movement; Joanna Lydgate
-**Predicate:** embedded_in
-**Object:** federal government (institutional_location)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** election denial movement; Joanna Lydgate
+- **Predicate:** embedded_in
+- **Object:** federal government (institutional_location)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > The election denial movement is now embedded across our federal government, which makes it more powerful than ever," according to Joanna Lydgate, chief executive officer of States United Democracy Center, which tracks those who promote election conspiracy theories.
 
-### c_008 — attributed, single source
-**Subject entities:** Donald Trump; Trump allies
-**Predicate:** attempting
-**Object:** use federal power to undermine 2026 midterm elections (political_action)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Trump allies
+- **Predicate:** attempting
+- **Object:** use federal power to undermine 2026 midterm elections (political_action)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Trump and his allies are trying to use all of the powers of the federal government to undermine elections, with an eye to the upcoming midterms," Lydgate said.
 
-### c_009 — reported, single source
-**Subject entities:** election officials
-**Predicate:** bracing_for
-**Object:** electoral turmoil in 2026 (preparatory_response)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** election officials
+- **Predicate:** bracing_for
+- **Object:** electoral turmoil in 2026 (preparatory_response)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Election officials across the country, especially those in states controlled politically by Democrats, are bracing for more turmoil during the 2026 elections.
 
@@ -219,7 +233,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-02-21
 **Title:** Those who pushed election conspiracies are now in Trump's White House
 **URL:** https://apnews.com/article/trump-administration-2020-election-conspiracies-doj-d91027ec4152419cd761a6087d8139c6
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

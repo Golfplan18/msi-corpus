@@ -15,39 +15,44 @@ primary_themes:
 - energy policy
 - federal regulatory rollback
 topic_tags:
-  - environment
-  - "government policy"
-  - politics
-storyline_nexus: []
-geographic_location: Washington, D.C., United States
+- government policy
+- energy and resource
+- environment
+- government
+- politics
+storyline_nexus:
+- trump-climate-energy-rollbacks
+geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.8
-framework_version: 1.1.0
-generation_timestamp: '2026-05-16T18:09:00Z'
+  intensity: 0.9
+- value: human_life_and_dignity
+  intensity: 0.6
+- value: informed_citizenship
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-22T23:58:26Z'
 source_cluster_id: cluster_ap_2026-01-06_nepa-environmental-review-energy-project
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 11
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 4
     reported: 0
     contested: 0
+    attributed: 4
+    alleged: 0
     confirmed: 7
+    appears: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 0
-    single_source: 0
     two_independent: 11
+    one_originating_plus_primary_document: 0
+    primary_plus_secondary: 0
+    single_source: 0
 sources:
   count: 1
   outlets:
@@ -65,17 +70,18 @@ image:
   url: /articles/2026-01-07-trump-white-house-rescinds-nepa-regulations-to-speed-energy-project-approvals.png
   alt: 'Illustration accompanying article: Trump White House rescinds NEPA regulations to speed energy project approvals'
   source: ai_generated
-cross_article_links:
-- slug: 2025-12-30-trump-s-epa-cuts-pollution-rules-and-staff-in-fossil-fuel-pivot
-  relation: related
-  strength: 0.8181
-  confidence: medium
-- slug: 2025-12-30-zeldin-s-epa-cuts-enforcement-and-staff-as-fossil-fuel-friendly-pivot-takes-hold
-  relation: related
-  strength: 0.8167
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- The Trump administration on Wednesday finalized a plan to rescind federal regulations implementing the National Environmental Policy Act, the 56-year-old law requiring federal agencies to assess a project's environmental impacts before granting approval.
+- Scarlett said in a statement that the directive will "slash needless layering of bureaucratic burden and restore common sense to the environmental review and permitting process." Under Trump, she added, "NEPA's regulatory reign of terror has ended."
+- The move strips away a regulatory framework that has governed federal environmental reviews for decades, and arrives as Congress separately debates legislation to cap permitting timelines and restrict judicial oversight under the same law — a debate complicated by the administration's recent suspension of offshore wind projects on national security grounds.
+- Republicans and many Democrats say the 56-year-old law has become mired in red tape that routinely produces yearslong delays for major energy and infrastructure projects.
 
 The Trump administration on Wednesday finalized a plan to rescind federal regulations implementing the National Environmental Policy Act, the 56-year-old law requiring federal agencies to assess a project's environmental impacts before granting approval. The White House Council on Environmental Quality, led by Katherine Scarlett, said the action eliminates bureaucratic delays that have slowed energy and infrastructure projects for years.
 
@@ -99,102 +105,124 @@ Democratic Sens. Sheldon Whitehouse of Rhode Island and Martin Heinrich of New M
 
 ## Atomic claims
 
-### c_001 — confirmed, two independent
-**Subject entities:** White House Council on Environmental Quality; National Environmental Policy Act
-**Predicate:** rescinded_regulations
-**Object:** NEPA implementing regulations (regulatory_action)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** two_independent
+- **Subject entities:** White House Council on Environmental Quality; National Environmental Policy Act
+- **Predicate:** rescinded_regulations
+- **Object:** NEPA implementing regulations (regulatory_action)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > The Trump administration's White House Council on Environmental Quality finalized a plan to rescind regulations implementing the National Environmental Policy Act on January 7, 2026.
 
-### c_002 — confirmed, two independent
-**Subject entities:** Katherine Scarlett
-**Predicate:** leads
-**Object:** White House Council on Environmental Quality (organization)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** two_independent
+- **Subject entities:** Katherine Scarlett
+- **Predicate:** leads
+- **Object:** White House Council on Environmental Quality (organization)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Katherine Scarlett leads the White House Council on Environmental Quality.
 
-### c_003 — attributed, two independent
-**Subject entities:** Katherine Scarlett
-**Predicate:** said
-**Object:** slash needless layering of bureaucratic burden and restore common sense to the environmental review and permitting process (quotation)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** two_independent
+- **Subject entities:** Katherine Scarlett
+- **Predicate:** said
+- **Object:** slash needless layering of bureaucratic burden and restore common sense to the environmental review and permitting process (quotation)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Scarlett said in a statement that the directive will 'slash needless layering of bureaucratic burden and restore common sense to the environmental review and permitting process.'
 
-### c_004 — attributed, two independent
-**Subject entities:** Katherine Scarlett
-**Predicate:** said
-**Object:** NEPA's regulatory reign of terror has ended (quotation)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** two_independent
+- **Subject entities:** Katherine Scarlett
+- **Predicate:** said
+- **Object:** NEPA's regulatory reign of terror has ended (quotation)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Scarlett said that under Trump, 'NEPA's regulatory reign of terror has ended.'
 
-### c_005 — confirmed, two independent
-**Subject entities:** National Environmental Policy Act
-**Predicate:** requires
-**Object:** federal agencies to assess environmental impacts before project approval (statutory_requirement)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** two_independent
+- **Subject entities:** National Environmental Policy Act
+- **Predicate:** requires
+- **Object:** federal agencies to assess environmental impacts before project approval (statutory_requirement)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > The National Environmental Policy Act requires federal agencies to consider a project's possible environmental impacts before it is approved.
 
-### c_006 — confirmed, two independent
-**Subject entities:** National Environmental Policy Act
-**Predicate:** age
-**Object:** 56 years (duration)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** two_independent
+- **Subject entities:** National Environmental Policy Act
+- **Predicate:** age
+- **Object:** 56 years (duration)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > The National Environmental Policy Act is 56 years old.
 
-### c_007 — confirmed, two independent
-**Subject entities:** U.S. Congress
-**Predicate:** considering_legislation
-**Object:** permitting reform legislation (legislation)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** two_independent
+- **Subject entities:** U.S. Congress
+- **Predicate:** considering_legislation
+- **Object:** permitting reform legislation (legislation)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Congress is considering legislation intended to speed up permitting reviews for energy and infrastructure projects and limit judicial review under NEPA.
 
-### c_008 — confirmed, two independent
-**Subject entities:** U.S. House of Representatives
-**Predicate:** approved
-**Object:** permitting reform bill with statutory limits, broader exemptions, deadlines, restricted legal challenges (legislation)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** two_independent
+- **Subject entities:** U.S. House of Representatives
+- **Predicate:** approved
+- **Object:** permitting reform bill with statutory limits, broader exemptions, deadlines, restricted legal challenges (legislation)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > A bill approved by the Republican-controlled House would place statutory limits on environmental reviews, broaden the scope of actions not requiring review, set clear deadlines, limit who can bring legal challenges, and limit legal remedies courts can impose.
 
-### c_009 — attributed, two independent
-**Subject entities:** U.S. Democratic Party
-**Predicate:** said
-**Object:** House bill undercuts public input and overly restricts judicial review (position)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** two_independent
+- **Subject entities:** U.S. Democratic Party
+- **Predicate:** said
+- **Object:** House bill undercuts public input and overly restricts judicial review (position)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Democrats agree the permitting process has become unwieldy, but say the House bill undercuts public input and participation while overly restricting judicial review.
 
-### c_010 — confirmed, two independent
-**Subject entities:** Trump administration
-**Predicate:** suspended
-**Object:** five major offshore wind projects on the East Coast (projects)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** two_independent
+- **Subject entities:** Trump administration
+- **Predicate:** suspended
+- **Object:** five major offshore wind projects on the East Coast (projects)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > The administration suspended five major offshore wind projects on the East Coast last month, citing unspecified national security concerns.
 
-### c_011 — attributed, two independent
-**Subject entities:** Sheldon Whitehouse; Martin Heinrich
-**Predicate:** said
-**Object:** reckless and vindictive assault on wind energy destroyed trust for bipartisan overhaul (statement)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** two_independent
+- **Subject entities:** Sheldon Whitehouse; Martin Heinrich
+- **Predicate:** said
+- **Object:** reckless and vindictive assault on wind energy destroyed trust for bipartisan overhaul (statement)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Democratic Sens. Sheldon Whitehouse of Rhode Island and Martin Heinrich of New Mexico said the administration's 'reckless and vindictive assault on wind energy' destroyed the trust needed to enact a bipartisan overhaul of the law.
 
@@ -203,10 +231,5 @@ Democratic Sens. Sheldon Whitehouse of Rhode Island and Martin Heinrich of New M
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Matthew Daly
 **Publication date:** 2026-01-07
-**Access date:** 2026-05-16
 **Title:** White House completes plan to curb bedrock environmental law
 **URL:** https://apnews.com/article/nepa-environmental-review-energy-projects-permitting-trump-de21ad972dc678d4d51e8048b08cbcb0
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

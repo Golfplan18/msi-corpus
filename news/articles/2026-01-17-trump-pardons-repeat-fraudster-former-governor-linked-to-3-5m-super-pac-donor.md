@@ -20,40 +20,42 @@ primary_themes:
 - donor relationships
 - public integrity
 topic_tags:
-  - politics
+- crime
+- corruption
+- government
+- politics
+- prosecution
 storyline_nexus:
-  - venezuela-crisis
+- venezuela-political-military-crisis
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
   intensity: 0.9
 - value: informed_citizenship
-  intensity: 0.8
-- value: truthfulness
-  intensity: 0.7
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:02:07Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:52:21Z'
 source_cluster_id: cluster_ap_2026-01-16_trump-pardons-donor-twice-convicted-frau
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 13
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 5
-    reported: 1
-    contested: 0
     confirmed: 7
+    reported: 1
+    alleged: 0
+    contested: 0
+    appears: 0
+    attributed: 5
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
+    two_independent: 0
     primary_document: 0
     single_source: 13
-    two_independent: 0
+    primary_plus_secondary: 0
+    one_originating_plus_primary_document: 0
 sources:
   count: 1
   outlets:
@@ -67,17 +69,19 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-05-judge-spares-tennessee-lawmaker-prison-after-trump-pardoned-co-conspirators
-  relation: related
-  strength: 0.863
-  confidence: medium
-- slug: 2026-01-08-colorado-ag-accuses-trump-of-revenge-campaign-over-refusal-to-free-convicted-cle
-  relation: related
-  strength: 0.78
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- WASHINGTON — President Donald Trump issued 13 pardons and eight commutations Thursday, including one for a woman convicted of fraud in two separate federal schemes — the first under a sentence Trump h…
+- Adriana Camberos had been convicted in the first scheme of diverting 5-Hour Energy drink bottles acquired for resale in Mexico and instead keeping them in the United States. Prosecutors said she and c…
+- She was back in federal court by 2024, when she and her brother Andres were convicted in a separate case. Prosecutors said the siblings lied to manufacturers to obtain wholesale groceries at steep dis…
+- The case's co-defendants included Julio Herrera Velutini, described as a Venezuelan banker, and former FBI agent Mark Rossini — both also pardoned Thursday. Herrera Velutini's daughter, Isabela Herrer…
+- The additional pardon announced Friday went to Terren Peizer, a resident of Puerto Rico and California who headed Miami-based health care company Ontrak. Peizer had been convicted and sentenced to 42 …
 
 WASHINGTON — President Donald Trump issued 13 pardons and eight commutations Thursday, including one for a woman convicted of fraud in two separate federal schemes — the first under a sentence Trump himself had commuted during his first term — and another for a former Puerto Rico governor whose federal case involves a Venezuelan banker whose daughter donated $3.5 million to Trump's MAGA Inc. super PAC. A 14th pardon was announced Friday.
 
@@ -113,120 +117,146 @@ Trump also pardoned Texas Democratic Rep. Henry Cuellar in a bribery and conspir
 
 ## Atomic claims
 
-### c_001 — confirmed, single source
-**Subject entities:** Donald Trump
-**Predicate:** issued_clemency
-**Object:** 13 pardons, 8 commutations (clemency_count)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** issued_clemency
+- **Object:** 13 pardons, 8 commutations (clemency_count)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > Trump issued 13 pardons and eight commutations on Thursday, January 16, 2026.
 
-### c_002 — confirmed, single source
-**Subject entities:** Adriana Camberos; Donald Trump
-**Predicate:** commuted_sentence
-**Object:** 2021 commutation (clemency_action)
-**Temporal:** 2021-01
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Adriana Camberos; Donald Trump
+- **Predicate:** commuted_sentence
+- **Object:** 2021 commutation (clemency_action)
+- **Temporal:** 2021-01
+- **Sources:** src_001
 
 > Trump commuted Adriana Camberos's sentence just before his first term ended in January 2021, following her conviction for diverting 5-Hour Energy bottles acquired for resale in Mexico and instead keeping them in the U.S., with counterfeit labels and phony liquid.
 
-### c_003 — confirmed, single source
-**Subject entities:** Adriana Camberos; Andres Camberos
-**Predicate:** convicted
-**Object:** wholesale grocery fraud scheme (criminal_conviction)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Adriana Camberos; Andres Camberos
+- **Predicate:** convicted
+- **Object:** wholesale grocery fraud scheme (criminal_conviction)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > In 2024, Adriana Camberos and her brother Andres Camberos were convicted in a separate case involving lying to manufacturers to obtain wholesale groceries at steep discounts after pledging the goods were destined for sale in Mexico or to prisoners or rehabilitation facilities, then selling the products at higher prices to U.S. distributors.
 
-### c_004 — confirmed, single source
-**Subject entities:** Adriana Camberos; Andres Camberos; Donald Trump
-**Predicate:** pardoned
-**Object:** presidential pardon (clemency_action)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Adriana Camberos; Andres Camberos; Donald Trump
+- **Predicate:** pardoned
+- **Object:** presidential pardon (clemency_action)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > Both Adriana and Andres Camberos were pardoned in the January 16 clemency announcement.
 
-### c_005 — attributed, single source
-**Subject entities:** Terren Peizer; Ontrak, Inc.; U.S. Department of Justice
-**Predicate:** convicted_and_sentenced
-**Object:** 42 months prison, $5.25M fine, insider trading (criminal_sentence)
-**Temporal:** 2026-01-17
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Terren Peizer; Ontrak, Inc.; U.S. Department of Justice
+- **Predicate:** convicted_and_sentenced
+- **Object:** 42 months prison, $5.25M fine, insider trading (criminal_sentence)
+- **Temporal:** 2026-01-17
+- **Sources:** src_001
 
 > Terren Peizer, a resident of Puerto Rico and California who headed Miami-based health care company Ontrak, was convicted and sentenced to 42 months in prison and fined $5.25 million for an insider trading scheme to avoid losses exceeding $12.5 million, according to the Justice Department.
 
-### c_006 — confirmed, single source
-**Subject entities:** Wanda Vázquez
-**Predicate:** pleaded_guilty
-**Object:** campaign finance violation (criminal_plea)
-**Temporal:** 2025-08
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Wanda Vázquez
+- **Predicate:** pleaded_guilty
+- **Object:** campaign finance violation (criminal_plea)
+- **Temporal:** 2025-08
+- **Sources:** src_001
 
 > Former Puerto Rico Gov. Wanda Vázquez had pleaded guilty last August to a campaign finance violation in a federal case; her sentencing had been set for later in January.
 
-### c_007 — attributed, single source
-**Subject entities:** Wanda Vázquez
-**Predicate:** prosecutorial_sentencing_request
-**Object:** one year prison (sentencing_request)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Wanda Vázquez
+- **Predicate:** prosecutorial_sentencing_request
+- **Object:** one year prison (sentencing_request)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Federal prosecutors had been seeking one year in prison for Vázquez.
 
-### c_008 — attributed, single source
-**Subject entities:** Wanda Vázquez
-**Predicate:** defense_allegation
-**Object:** prosecutorial violation of plea agreement (legal_allegation)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Wanda Vázquez
+- **Predicate:** defense_allegation
+- **Object:** prosecutorial violation of plea agreement (legal_allegation)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Vázquez's attorneys accused prosecutors of violating a guilty plea deal reached the previous year that saw previous charges including bribery and fraud dropped; they noted that Vázquez had agreed to plead guilty to accepting a promise of a campaign contribution that was never received.
 
-### c_009 — attributed, single source
-**Subject entities:** Julio Herrera Velutini; Isabela Herrera; MAGA Inc.
-**Predicate:** donated_to_super_pac
-**Object:** $3.5 million total to MAGA Inc. (political_donation)
-**Temporal:** 2024-2025
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Julio Herrera Velutini; Isabela Herrera; MAGA Inc.
+- **Predicate:** donated_to_super_pac
+- **Object:** $3.5 million total to MAGA Inc. (political_donation)
+- **Temporal:** 2024-2025
+- **Sources:** src_001
 
 > Julio Herrera Velutini, a Venezuelan banker, was a defendant in the same federal case as Vázquez; his daughter Isabela Herrera donated $2.5 million to Trump's MAGA Inc. super PAC in 2024 and gave the group an additional $1 million last summer.
 
-### c_010 — confirmed, single source
-**Subject entities:** Mark Rossini; Donald Trump
-**Predicate:** pardoned
-**Object:** presidential pardon (clemency_action)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Mark Rossini; Donald Trump
+- **Predicate:** pardoned
+- **Object:** presidential pardon (clemency_action)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > Former FBI agent Mark Rossini, the case's third defendant, was also pardoned by Trump.
 
-### c_011 — reported, single source
-**Subject entities:** Donald Trump; U.S. Department of Justice
-**Predicate:** fired
-**Object:** Justice Department pardon attorney (personnel_action)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; U.S. Department of Justice
+- **Predicate:** fired
+- **Object:** Justice Department pardon attorney (personnel_action)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > The Trump administration fired the Justice Department's pardon attorney amid a continuing effort to erode public integrity guardrails, according to the Associated Press.
 
-### c_012 — confirmed, single source
-**Subject entities:** Rod Blagojevich; John Rowland; Michael Grimm; Todd Chrisley; Julie Chrisley
-**Predicate:** pardoned
-**Object:** presidential pardon (clemency_action)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_012
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Rod Blagojevich; John Rowland; Michael Grimm; Todd Chrisley; Julie Chrisley
+- **Predicate:** pardoned
+- **Object:** presidential pardon (clemency_action)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Others pardoned in the recent wave include former Democratic Illinois Gov. Rod Blagojevich, former Republican Connecticut Gov. John Rowland, former U.S. Rep. Michael Grimm of New York, and reality TV personalities Todd and Julie Chrisley, who had been convicted of cheating banks and evading taxes.
 
-### c_013 — attributed, single source
-**Subject entities:** Donald Trump; Henry Cuellar
-**Predicate:** pardoned_then_regretted
-**Object:** pardon with subsequent expressed regret (clemency_action)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Henry Cuellar
+- **Predicate:** pardoned_then_regretted
+- **Object:** pardon with subsequent expressed regret (clemency_action)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Trump also pardoned Texas Democratic Rep. Henry Cuellar in a bribery and conspiracy case, but later expressed regret after Cuellar announced he was seeking reelection without switching parties.
 
@@ -235,10 +265,5 @@ Trump also pardoned Texas Democratic Rep. Henry Cuellar in a bribery and conspir
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Will Weissert
 **Publication date:** 2026-01-17
-**Access date:** 2026-01-17
 **Title:** New series of Trump pardons includes a repeat offender
 **URL:** https://apnews.com/article/trump-pardons-donor-twice-convicted-fraud-99263a04b8a60ce8c081b9c5feaffd2e
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -1,6 +1,5 @@
 ---
 headline: Medical bills top crowdfunding causes as poll finds Americans skeptical of fees, need
-slug: 2026-01-08-medical-bills-top-crowdfunding-causes-poll-finds-americans-skeptical
 publish_date: '2026-01-08'
 lede: About 1 in 5 U.S. adults donated to an online crowdfunding campaign in 2025, with medical expenses ranking as the most commonly supported cause, according to an AP-NORC poll released Thursday. The survey of 1,146 adults also found that most donors gave $50 or less, and that Americans harbor broad doubts about whether crowdfunding platforms charge reasonable fees and whether campaign beneficiaries truly need the money.
 nut_graf: The findings come as enhanced Affordable Care Act tax credits that reduced health insurance costs for most ACA enrollees have expired — a development that a bioethicist who studies medical crowdfunding said could drive more Americans toward campaign fundraising to cover bills they cannot otherwise afford.
@@ -17,25 +16,26 @@ primary_themes:
 - public opinion polling
 - ACA tax credits
 topic_tags:
-  - "economy, business and finance"
-  - "crime, law and justice"
-  - health
-  - politics
-storyline_nexus: []
+- health
+- public health
+- economy
+- social condition
+storyline_nexus:
+- aca-medicaid-healthcare-crisis
 geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.8
 - value: human_life_and_dignity
+  intensity: 0.9
+- value: equality_fairness
   intensity: 0.6
 - value: accountability_of_power
-  intensity: 0.35
-framework_version: 1.1.0
-generation_timestamp: '2026-05-16T19:49:30Z'
+  intensity: 0.3
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:01:49Z'
 source_cluster_id: cluster_ap_2026-01-07_poll-crowdfunding-gofundme-givesendgo-do
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
@@ -43,16 +43,16 @@ claims:
   hedges:
     appears: 0
     alleged: 0
-    attributed: 12
-    reported: 0
-    contested: 0
     confirmed: 1
+    contested: 0
+    reported: 0
+    attributed: 12
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 9
-    single_source: 4
     two_independent: 0
+    primary_document: 9
+    primary_plus_secondary: 0
+    single_source: 4
+    one_originating_plus_primary_document: 0
 sources:
   count: 1
   outlets:
@@ -70,13 +70,17 @@ image:
   url: /articles/2026-01-08-medical-bills-top-crowdfunding-causes-as-poll-finds-americans-skeptical-of-fees-.png
   alt: 'Illustration accompanying article: Medical bills top crowdfunding causes as poll finds Americans skeptical'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-01-aca-health-subsidies-expire-leaving-millions-facing-sharply-higher-premiums-in-2
-  relation: related
-  strength: 0.739
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- The findings come as enhanced Affordable Care Act tax credits that reduced health insurance costs for most ACA enrollees have expired — a development that a bioethicist who studies medical crowdfunding said could drive more Americans toward campaign fundraising to cover bills they cannot otherwise afford.
+- About 4 in 10 crowdfunding donors said their most recent donation went toward medical expenses or health care, the AP-NORC poll found — the top cause category.
+- Jeremy Snyder, a bioethicist who researches medical crowdfunding, said the prevalence of health care campaigns reflects a persistent gap between what insurance covers and what treatment costs.
 
 About 1 in 5 U.S. adults donated to an online crowdfunding campaign in 2025, with medical expenses ranking as the most commonly supported cause, according to an AP-NORC poll released Thursday. The survey of 1,146 adults also found that most donors gave $50 or less, and that Americans harbor broad doubts about whether crowdfunding platforms charge reasonable fees and whether campaign beneficiaries truly need the money.
 
@@ -124,120 +128,146 @@ The AP-NORC poll of 1,146 adults was conducted Dec. 4-8, 2025, using a sample dr
 
 ## Atomic claims
 
-### c_001 — attributed, primary document
-**Subject entities:** U.S. adults
-**Predicate:** donated_to_crowdfunding
-**Object:** ~2 in 10 (proportion)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. adults
+- **Predicate:** donated_to_crowdfunding
+- **Object:** ~2 in 10 (proportion)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > About 2 in 10 U.S. adults donated money to a crowdfunding campaign in 2025.
 
-### c_002 — attributed, primary document
-**Subject entities:** U.S. adults
-**Predicate:** made_charitable_contribution
-**Object:** ~7 in 10 (proportion)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. adults
+- **Predicate:** made_charitable_contribution
+- **Object:** ~7 in 10 (proportion)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > About 7 in 10 U.S. adults made a charitable contribution in 2025.
 
-### c_003 — attributed, primary document
-**Subject entities:** crowdfunding donors
-**Predicate:** gave_amount
-**Object:** $50 or less (monetary_threshold)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** crowdfunding donors
+- **Predicate:** gave_amount
+- **Object:** $50 or less (monetary_threshold)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > About 6 in 10 crowdfunding donors gave $50 or less when they last donated to a campaign.
 
-### c_004 — attributed, primary document
-**Subject entities:** crowdfunding donors
-**Predicate:** donated_for_category
-**Object:** medical expenses or health care (cause_category)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** crowdfunding donors
+- **Predicate:** donated_for_category
+- **Object:** medical expenses or health care (cause_category)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > About 4 in 10 crowdfunding donors in 2025 said their most recent donation was for medical expenses or health care.
 
-### c_005 — attributed, primary document
-**Subject entities:** U.S. adults
-**Predicate:** expressed_confidence_in_fees
-**Object:** 44% (percentage)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. adults
+- **Predicate:** expressed_confidence_in_fees
+- **Object:** 44% (percentage)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > Only 44% of U.S. adults are at least somewhat confident that crowdfunding sites charge reasonable service fees.
 
-### c_006 — attributed, primary document
-**Subject entities:** U.S. adults
-**Predicate:** expressed_confidence_in_need
-**Object:** more than half (proportion)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. adults
+- **Predicate:** expressed_confidence_in_need
+- **Object:** more than half (proportion)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > More than half of U.S. adults were at least somewhat confident that people who raise money through crowdfunding sites really need it.
 
-### c_007 — attributed, primary document
-**Subject entities:** U.S. adults
-**Predicate:** expressed_confidence_in_responsible_use
-**Object:** about half (proportion)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. adults
+- **Predicate:** expressed_confidence_in_responsible_use
+- **Object:** about half (proportion)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > About half of U.S. adults were at least somewhat confident that crowdfunding recipients use the money responsibly.
 
-### c_008 — attributed, primary document
-**Subject entities:** U.S. adults
-**Predicate:** expressed_high_confidence
-**Object:** ~1 in 10 (proportion)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. adults
+- **Predicate:** expressed_high_confidence
+- **Object:** ~1 in 10 (proportion)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > Only about 1 in 10 U.S. adults were very or extremely confident that crowdfunding recipients need the money or use it responsibly.
 
-### c_009 — attributed, single source
-**Subject entities:** GoFundMe
-**Predicate:** charges_fee
-**Object:** 2.9% plus $0.30 plus optional tip (fee_structure)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** GoFundMe
+- **Predicate:** charges_fee
+- **Object:** 2.9% plus $0.30 plus optional tip (fee_structure)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > GoFundMe takes 2.9% plus 30 cents off individuals' U.S. donations and solicits optional tips.
 
-### c_010 — attributed, single source
-**Subject entities:** GiveSendGo
-**Predicate:** charges_fee
-**Object:** 2.7% plus $0.30 (fee_structure)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** GiveSendGo
+- **Predicate:** charges_fee
+- **Object:** 2.7% plus $0.30 (fee_structure)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > GiveSendGo takes 2.7% plus 30 cents per donation.
 
-### c_011 — attributed, single source
-**Subject entities:** GoFundMe
-**Predicate:** dropped_fee
-**Object:** 5% platform fee on personal campaigns (policy_change)
-**Temporal:** 2017
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** GoFundMe
+- **Predicate:** dropped_fee
+- **Object:** 5% platform fee on personal campaigns (policy_change)
+- **Temporal:** 2017
+- **Sources:** src_001
 
 > GoFundMe dropped its 5% fee on personal campaigns in 2017.
 
-### c_012 — attributed, single source
-**Subject entities:** ACA tax credits; ACA enrollees
-**Predicate:** expired
-**Object:** enhanced ACA premium tax credits (policy)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** ACA tax credits; ACA enrollees
+- **Predicate:** expired
+- **Object:** enhanced ACA premium tax credits (policy)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Enhanced ACA tax credits that helped reduce the cost of health insurance for most ACA enrollees have recently expired.
 
-### c_013 — confirmed, primary document
-**Subject entities:** AP-NORC Center for Public Affairs Research
-**Predicate:** conducted_poll
-**Object:** 1,146 adults; Dec. 4-8, 2025; ±4 pp (poll_methodology)
-**Temporal:** 2025-12-04/2025-12-08
-**Source IDs:** src_001
+### c_013
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** AP-NORC Center for Public Affairs Research
+- **Predicate:** conducted_poll
+- **Object:** 1,146 adults; Dec. 4-8, 2025; ±4 pp (poll_methodology)
+- **Temporal:** 2025-12-04/2025-12-08
+- **Sources:** src_001
 
 > The AP-NORC poll of 1,146 adults was conducted Dec. 4-8, 2025, using NORC's probability-based AmeriSpeak Panel, with a margin of sampling error of plus or minus 4 percentage points.
 
@@ -246,10 +276,5 @@ The AP-NORC poll of 1,146 adults was conducted Dec. 4-8, 2025, using a sample dr
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** James Pollard
 **Publication date:** 2026-01-08
-**Access date:** 2026-01-08
 **Title:** Medical expenses are most common for crowdfunding donors, poll finds
 **URL:** https://apnews.com/article/poll-crowdfunding-gofundme-givesendgo-donation-donate-1f9d5a8925f8ff3087dbb608b8141ebc
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

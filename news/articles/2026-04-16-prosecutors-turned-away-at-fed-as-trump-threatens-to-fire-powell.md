@@ -26,7 +26,8 @@ topic_tags:
   - "crime, law and justice"
   - "disaster, accident and emergency incident"
   - fire
-storyline_nexus: []
+storyline_nexus:
+- trump-vs-federal-reserve
 geographic_location: Washington, D.C.
 floor_values_engaged:
 - value: accountability_of_power
@@ -157,138 +158,168 @@ The Supreme Court has permitted the firings of heads of other governmental agenc
 
 ## Atomic claims
 
-### c_001 — reported, two independent
-**Subject entities:** Jeanine Pirro; Federal Reserve
-**Predicate:** visited
-**Object:** Federal Reserve construction site (location)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** two_independent
+- **Subject entities:** Jeanine Pirro; Federal Reserve
+- **Predicate:** visited
+- **Object:** Federal Reserve construction site (location)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Two prosecutors and an investigator from U.S. Attorney Jeanine Pirro's office made an unannounced visit Tuesday to a construction site at Federal Reserve headquarters.
 
-### c_002 — reported, two independent
-**Subject entities:** Jeanine Pirro
-**Predicate:** turned_away
-**Object:** building contractor (actor)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** two_independent
+- **Subject entities:** Jeanine Pirro
+- **Predicate:** turned_away
+- **Object:** building contractor (actor)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > The prosecutors were turned away by a building contractor and referred to Fed attorneys.
 
-### c_003 — confirmed, primary document
-**Subject entities:** Jerome Powell; Federal Reserve
-**Predicate:** under_investigation
-**Object:** cost overruns and June 2025 testimony (subject_matter)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Jerome Powell; Federal Reserve
+- **Predicate:** under_investigation
+- **Object:** cost overruns and June 2025 testimony (subject_matter)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > The investigation focuses on cost overruns on the renovation project and on testimony about the project that Powell gave to the Senate Banking Committee last June.
 
-### c_004 — attributed, single source
-**Subject entities:** Federal Reserve
-**Predicate:** renovation_cost
-**Object:** $2.5 billion (monetary)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Federal Reserve
+- **Predicate:** renovation_cost
+- **Object:** $2.5 billion (monetary)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > The current estimated cost of the renovation is $2.5 billion, about $600 million higher than a 2022 estimate of $1.9 billion.
 
-### c_005 — reported, single source
-**Subject entities:** Jeanine Pirro
-**Predicate:** conceded
-**Object:** no evidence of crime found (admission)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Jeanine Pirro
+- **Predicate:** conceded
+- **Object:** no evidence of crime found (admission)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > A top deputy from Pirro's office conceded in a closed-door hearing before a federal judge that the office had not found any evidence of a crime in the renovation investigation.
 
-### c_006 — confirmed, primary document
-**Subject entities:** James Boasberg; Jeanine Pirro
-**Predicate:** ruled
-**Object:** pretextual (judicial_finding)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** James Boasberg; Jeanine Pirro
+- **Predicate:** ruled
+- **Object:** pretextual (judicial_finding)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > U.S. District Judge James Boasberg concluded that prosecutors' interest in the Federal Reserve's renovation project was 'pretextual.'
 
-### c_007 — confirmed, primary document
-**Subject entities:** Robert Hur; Jeanine Pirro
-**Predicate:** sent_email
-**Object:** warning against circumventing court finding (communication)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Robert Hur; Jeanine Pirro
+- **Predicate:** sent_email
+- **Object:** warning against circumventing court finding (communication)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Robert Hur, attorney for the Fed's board of governors, sent an email to Pirro's prosecutors after the visit warning against attempting to circumvent the court's pretextual finding.
 
-### c_008 — attributed, single source
-**Subject entities:** Thom Tillis; Kevin Warsh
-**Predicate:** pledged_to_oppose
-**Object:** Warsh nomination (legislative_action)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Thom Tillis; Kevin Warsh
+- **Predicate:** pledged_to_oppose
+- **Object:** Warsh nomination (legislative_action)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Sen. Thom Tillis has vowed to vote against Kevin Warsh's nomination as Fed chair until the investigation is dropped.
 
-### c_009 — attributed, single source
-**Subject entities:** Jerome Powell
-**Predicate:** stated_belief
-**Object:** no crime by Powell (statement)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jerome Powell
+- **Predicate:** stated_belief
+- **Object:** no crime by Powell (statement)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Seven Republican members of the Senate Banking Committee have said they do not believe Powell committed a crime when he testified last June.
 
-### c_010 — confirmed, primary document
-**Subject entities:** Kevin Warsh
-**Predicate:** scheduled
-**Object:** April 21 confirmation hearing (legislative_event)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Kevin Warsh
+- **Predicate:** scheduled
+- **Object:** April 21 confirmation hearing (legislative_event)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > The Senate Banking Committee scheduled a hearing on Warsh's nomination for April 21.
 
-### c_011 — attributed, single source
-**Subject entities:** Jerome Powell
-**Predicate:** stated_intention
-**Object:** remain as chair until replacement named (statement)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jerome Powell
+- **Predicate:** stated_intention
+- **Object:** remain as chair until replacement named (statement)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Powell's term as Fed chair ends May 15, but he said he would remain as chair until a replacement is named.
 
-### c_012 — attributed, single source
-**Subject entities:** Jerome Powell
-**Predicate:** stated_intention
-**Object:** will not leave board until investigation resolved (statement)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jerome Powell
+- **Predicate:** stated_intention
+- **Object:** will not leave board until investigation resolved (statement)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Powell has said he will not leave the Fed's governing board until the investigation is resolved.
 
-### c_013 — attributed, single source
-**Subject entities:** Donald Trump; Jerome Powell
-**Predicate:** threatened_termination
-**Object:** Powell board membership (employment_action)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Jerome Powell
+- **Predicate:** threatened_termination
+- **Object:** Powell board membership (employment_action)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Trump threatened to fire Powell if Powell stays on the Fed's governing board after his term as chair expires.
 
-### c_014 — attributed, single source
-**Subject entities:** Josh Hawley; Donald Trump; Jerome Powell
-**Predicate:** stated
-**Object:** for cause required to fire Fed governor (legal_opinion)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Josh Hawley; Donald Trump; Jerome Powell
+- **Predicate:** stated
+- **Object:** for cause required to fire Fed governor (legal_opinion)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Sen. Josh Hawley said Trump can only fire Powell 'for cause,' meaning some kind of misconduct.
 
-### c_015 — confirmed, primary document
-**Subject entities:** Donald Trump; Lisa Cook
-**Predicate:** reviewing
-**Object:** Cook removal challenge (legal_action)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_015
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Donald Trump; Lisa Cook
+- **Predicate:** reviewing
+- **Object:** Cook removal challenge (legal_action)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > The Supreme Court is weighing Trump's effort to remove Fed governor Lisa Cook, who has denied allegations of mortgage fraud cited as justification for her removal.
 
@@ -300,7 +331,3 @@ The Supreme Court has permitted the firings of heads of other governmental agenc
 **Access date:** 2026-05-17
 **Title:** Prosecutors try to access Fed building as Trump threatens to fire Powell after his chair term ends
 **URL:** https://apnews.com/article/federal-reserve-jerome-powell-trump-16f1777a974cf0dece60d78abe4eb973
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

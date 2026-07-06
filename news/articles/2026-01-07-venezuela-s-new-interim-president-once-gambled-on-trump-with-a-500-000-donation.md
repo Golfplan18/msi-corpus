@@ -18,10 +18,10 @@ primary_themes:
 - oil policy
 - democracy and elections
 topic_tags:
-  - politics
-  - election
+- politics
+- election
 storyline_nexus:
-  - venezuela-crisis
+- venezuela-political-military-crisis
 geographic_location: Venezuela
 floor_values_engaged:
 - value: informed_citizenship
@@ -71,10 +71,6 @@ image:
   alt: 'Illustration accompanying article: Venezuela''s new interim president once gambled on Trump with a $500,000 donation'
   source: ai_generated
 cross_article_links:
-- slug: 2026-01-03-venezuela-in-limbo-after-maduro-capture-as-trump-endorses-deputy-snubs-oppositio
-  relation: continues
-  strength: 0.7937
-  confidence: high
 - slug: 2026-01-04-rubio-tamps-down-nation-building-fears-as-trump-insists-us-in-charge-in-venezuel
   relation: continues
   strength: 0.7799
@@ -82,10 +78,6 @@ cross_article_links:
 - slug: 2026-01-03-trump-vows-to-run-venezuela-after-u-s-military-operation-ousts-maduro
   relation: continues
   strength: 0.7791
-  confidence: high
-- slug: 2026-01-03-u-s-military-seizes-maduro-in-venezuela-trump-pledges-to-govern-country-and-expl
-  relation: continues
-  strength: 0.7648
   confidence: high
 - slug: 2026-01-04-trump-pledges-to-direct-venezuela-after-u-s-military-operation-ousts-maduro
   relation: continues
@@ -152,137 +144,167 @@ Elliott Abrams, who served as Trump's special envoy to Venezuela during the firs
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Delcy Rodríguez; Citgo
-**Predicate:** directed_donation
-**Object:** $500,000 inauguration donation (financial_transaction)
-**Temporal:** 2017
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Delcy Rodríguez; Citgo
+- **Predicate:** directed_donation
+- **Object:** $500,000 inauguration donation (financial_transaction)
+- **Temporal:** 2017
+- **Sources:** src_001
 
 > In 2017, Rodríguez directed Citgo to make a $500,000 donation to Trump's inauguration.
 
-### c_002 — attributed, single source
-**Subject entities:** Delcy Rodríguez; Citgo
-**Predicate:** hired_lobbyist
-**Object:** Trump's ex-campaign manager (person)
-**Temporal:** 2017
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Delcy Rodríguez; Citgo
+- **Predicate:** hired_lobbyist
+- **Object:** Trump's ex-campaign manager (person)
+- **Temporal:** 2017
+- **Sources:** src_001
 
 > Rodríguez arranged for Trump's former campaign manager to be hired as a lobbyist for Citgo.
 
-### c_003 — attributed, single source
-**Subject entities:** Donald Trump; Marco Rubio
-**Predicate:** prioritized_policy
-**Object:** restoring Venezuela's democracy (policy)
-**Temporal:** 2017
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Marco Rubio
+- **Predicate:** prioritized_policy
+- **Object:** restoring Venezuela's democracy (policy)
+- **Temporal:** 2017
+- **Sources:** src_001
 
 > Trump, urged by then-Sen. Marco Rubio, made restoring Venezuelan democracy his focus within weeks of taking office.
 
-### c_004 — attributed, single source
-**Subject entities:** Rodríguez's father
-**Predicate:** died_in_custody
-**Object:** 1976 (year)
-**Temporal:** 1976
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Rodríguez's father
+- **Predicate:** died_in_custody
+- **Object:** 1976 (year)
+- **Temporal:** 1976
+- **Sources:** src_001
 
 > Rodríguez's father, a socialist leader, was picked up for questioning and died in custody in 1976, leaving her fatherless at age 7.
 
-### c_005 — attributed, single source
-**Subject entities:** Hugo Chávez; Delcy Rodríguez
-**Predicate:** removed_from_delegation
-**Object:** Moscow trip (event)
-**Temporal:** 2006
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Hugo Chávez; Delcy Rodríguez
+- **Predicate:** removed_from_delegation
+- **Object:** Moscow trip (event)
+- **Temporal:** 2006
+- **Sources:** src_001
 
 > Chávez removed Rodríguez from the presidential delegation mid-trip in 2006 and ordered her home from Moscow after the delegation's schedule fell apart.
 
-### c_006 — attributed, single source
-**Subject entities:** Nicolás Maduro; Delcy Rodríguez
-**Predicate:** revived_career
-**Object:** 2013 (year)
-**Temporal:** 2013
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Nicolás Maduro; Delcy Rodríguez
+- **Predicate:** revived_career
+- **Object:** 2013 (year)
+- **Temporal:** 2013
+- **Sources:** src_001
 
 > Maduro revived Rodríguez's career in 2013 after Chávez died of cancer.
 
-### c_007 — attributed, single source
-**Subject entities:** Nicolás Maduro; Delcy Rodríguez
-**Predicate:** promoted_to_vice_president
-**Object:** 2018 (year)
-**Temporal:** 2018
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Nicolás Maduro; Delcy Rodríguez
+- **Predicate:** promoted_to_vice_president
+- **Object:** 2018 (year)
+- **Temporal:** 2018
+- **Sources:** src_001
 
 > Maduro promoted Rodríguez to vice president in 2018, where she gained control over large portions of Venezuela's oil economy.
 
-### c_008 — confirmed, single source
-**Subject entities:** Jorge Rodríguez; Delcy Rodríguez
-**Predicate:** swore_in_as_interim_president
-**Object:** 2026-01-06 (date)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Jorge Rodríguez; Delcy Rodríguez
+- **Predicate:** swore_in_as_interim_president
+- **Object:** 2026-01-06 (date)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > Jorge Rodríguez, head of Venezuela's National Assembly and Delcy's brother, swore her in as interim president on Monday.
 
-### c_009 — attributed, single source
-**Subject entities:** Donald Trump; Delcy Rodríguez
-**Predicate:** praised_and_threatened
-**Object:** oil access demand (policy_demand)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Delcy Rodríguez
+- **Predicate:** praised_and_threatened
+- **Object:** oil access demand (policy_demand)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Trump alternately praised Rodríguez as 'gracious' and threatened her with consequences similar to Maduro's if she did not provide 'total access' to Venezuela's oil reserves.
 
-### c_010 — attributed, single source
-**Subject entities:** Venezuela
-**Predicate:** mandates_elections
-**Object:** 30 days (constitutional_requirement)
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Venezuela
+- **Predicate:** mandates_elections
+- **Object:** 30 days (constitutional_requirement)
+- **Sources:** src_001
 
 > Venezuela's constitution mandates elections within 30 days of the presidency being permanently vacated.
 
-### c_011 — reported, single source
-**Subject entities:** Donald Trump; Delcy Rodríguez
-**Predicate:** has_not_mentioned
-**Object:** elections (political_process)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Delcy Rodríguez
+- **Predicate:** has_not_mentioned
+- **Object:** elections (political_process)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Neither Trump nor Rodríguez has mentioned elections.
 
-### c_012 — attributed, single source
-**Subject entities:** Raul Gorrín; Pete Sessions; Nicolás Maduro
-**Predicate:** organized_visit
-**Object:** April 2018 Caracas meeting (event)
-**Temporal:** 2018-04
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Raul Gorrín; Pete Sessions; Nicolás Maduro
+- **Predicate:** organized_visit
+- **Object:** April 2018 Caracas meeting (event)
+- **Temporal:** 2018-04
+- **Sources:** src_001
 
 > Media tycoon Raul Gorrín organized a secret visit by Rep. Pete Sessions, a Texas Republican, to Caracas in April 2018 for a meeting with Maduro.
 
-### c_013 — confirmed, single source
-**Subject entities:** Raul Gorrín; U.S. federal prosecutors
-**Predicate:** unsealed_indictment
-**Object:** money laundering (charge)
-**Temporal:** 2018
-**Source IDs:** src_001
+### c_013
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Raul Gorrín; U.S. federal prosecutors
+- **Predicate:** unsealed_indictment
+- **Object:** money laundering (charge)
+- **Temporal:** 2018
+- **Sources:** src_001
 
 > U.S. federal prosecutors unsealed money laundering indictments against Gorrín in the months following the Sessions visit.
 
-### c_014 — attributed, single source
-**Subject entities:** Tareck El Aissami; Delcy Rodríguez
-**Predicate:** jailed_in_crackdown
-**Object:** anti-corruption crackdown (action)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Tareck El Aissami; Delcy Rodríguez
+- **Predicate:** jailed_in_crackdown
+- **Object:** anti-corruption crackdown (action)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > Former Oil Minister Tareck El Aissami was jailed in 2024 as part of an anti-corruption crackdown spearheaded by Rodríguez.
 
-### c_015 — attributed, single source
-**Subject entities:** Donald Trump; María Corina Machado
-**Predicate:** said_lacks_respect
-**Object:** govern Venezuela (political_judgment)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; María Corina Machado
+- **Predicate:** said_lacks_respect
+- **Object:** govern Venezuela (political_judgment)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Trump said Nobel Peace Prize winner María Corina Machado, whose handpicked candidate is recognized by the U.S. and other governments as the winner of Venezuela's 2024 presidential election, lacks the 'respect' to govern.
 
@@ -294,7 +316,3 @@ Elliott Abrams, who served as Trump's special envoy to Venezuela during the firs
 **Access date:** 2026-01-07
 **Title:** Delcy Rodriguez made a gamble early in her career on courting the Trump administration
 **URL:** https://apnews.com/article/delcy-rodriguez-maduro-trump-venezuela-e71f2289bc801446e05550d8f900a8d1
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

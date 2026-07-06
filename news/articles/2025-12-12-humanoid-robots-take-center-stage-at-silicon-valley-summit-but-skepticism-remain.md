@@ -1,6 +1,5 @@
 ---
 headline: Humanoid robots take center stage at Silicon Valley summit, but skepticism remains
-slug: 2025-12-12-humanoid-robots-summit-silicon-valley-skepticism-remains
 publish_date: '2025-12-12'
 lede: More than 2,000 engineers, investors and researchers gathered at the Computer History Museum in Mountain View, California this week for the Humanoids Summit, where companies from Disney to a field of Chinese startups showed off their latest walking machines and debated whether humanoid robots can become a commercially viable industry. The conference, held Thursday and Friday just blocks from Google's headquarters, was organized by Modar Alaoui, founder and general partner of ALM Ventures, who said many researchers now believe humanoids will be "going to become the norm." Even at a summit designed to build enthusiasm for the technology, skepticism remained high that truly humanlike general-purpose robots are close to widespread deployment.
 nut_graf: The gathering exposed a wide gap between current demonstrations and the 'general purpose' machines that could work productively in homes and workplaces, while underscoring a deepening contest between the United States and China for leadership in a nascent but heavily funded industry.
@@ -20,43 +19,42 @@ primary_themes:
 - technology investment
 - US-China technology competition
 topic_tags:
-  - "artificial intelligence"
-  - "arts and entertainment"
-  - "arts, culture, entertainment and media"
-  - robotics
-  - "science and technology"
-  - "technology and engineering"
+- robotics
+- artificial intelligence
+- technology and engineering
 storyline_nexus:
-  - humanoid-robotics-industry
-geographic_location: Mountain View, California, United States
+- ai-industry-regulation
+geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.75
+- value: truthfulness
+  intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.35
-framework_version: 1.1.0
-generation_timestamp: '2026-05-16T18:07:51Z'
+  intensity: 0.3
+- value: informed_citizenship
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-22T23:53:26Z'
 source_cluster_id: cluster_ap_2026-01-05_humanoid-robots-summit-ai-874550fa04954d
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 10
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 10
     reported: 0
-    contested: 0
+    alleged: 0
     confirmed: 0
+    attributed: 10
+    contested: 0
+    appears: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 0
-    single_source: 10
     two_independent: 0
+    primary_plus_secondary: 0
+    primary_document: 0
+    one_originating_plus_primary_document: 0
+    single_source: 10
 sources:
   count: 1
   outlets:
@@ -74,13 +72,18 @@ image:
   url: /articles/2025-12-12-humanoid-robots-take-center-stage-at-silicon-valley-summit-but-skepticism-remain.png
   alt: 'Illustration accompanying article: Humanoid robots take center stage at Silicon Valley summit, but skepticism'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-04-venezuela-oil-revival-faces-decade-long-timeline-and-100-billion-investment-hurd
-  relation: related
-  strength: 0.6183
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Summary point 1.
+- Summary point 2.
+- Summary point 3.
+- Summary point 4.
 
 The gathering exposed a wide gap between current demonstrations and the 'general purpose' machines that could work productively in homes and workplaces, while underscoring a deepening contest between the United States and China for leadership in a nascent but heavily funded industry.
 
@@ -124,93 +127,113 @@ Alaoui, who previously worked on driver attention systems for the automotive ind
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Humanoids Summit
-**Predicate:** drew_attendees
-**Object:** more than 2,000 (count)
-**Temporal:** 2025-12-11
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Humanoids Summit
+- **Predicate:** drew_attendees
+- **Object:** more than 2,000 (count)
+- **Temporal:** 2025-12-11
+- **Sources:** src_001
 
 > The Humanoids Summit drew more than 2,000 attendees to the Computer History Museum in Mountain View, California on December 11–12, 2025.
 
-### c_002 — attributed, single source
-**Subject entities:** Humanoids Summit; Disney; Google
-**Predicate:** included_attendees_from
-**Object:** Disney, Google, dozens of startups (organization_list)
-**Temporal:** 2025-12-11
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Humanoids Summit; Disney; Google
+- **Predicate:** included_attendees_from
+- **Object:** Disney, Google, dozens of startups (organization_list)
+- **Temporal:** 2025-12-11
+- **Sources:** src_001
 
 > Attendees included top robotics engineers from Disney, Google and dozens of startups.
 
-### c_003 — attributed, single source
-**Subject entities:** McKinsey & Company
-**Predicate:** counted
-**Object:** about 50 companies globally; ~20 in China, ~15 in North America (count)
-**Temporal:** 2025-12-12
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** McKinsey & Company
+- **Predicate:** counted
+- **Object:** about 50 companies globally; ~20 in China, ~15 in North America (count)
+- **Temporal:** 2025-12-12
+- **Sources:** src_001
 
 > McKinsey & Company has counted about 50 companies worldwide that raised at least $100 million to develop humanoid robots, led by about 20 in China and 15 in North America.
 
-### c_004 — attributed, single source
-**Subject entities:** China; Ani Kelkar; McKinsey & Company
-**Predicate:** issued_mandate
-**Object:** humanoid ecosystem by 2025 (policy)
-**Temporal:** 2025-12-12
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** China; Ani Kelkar; McKinsey & Company
+- **Predicate:** issued_mandate
+- **Object:** humanoid ecosystem by 2025 (policy)
+- **Temporal:** 2025-12-12
+- **Sources:** src_001
 
 > China issued a government mandate to have a humanoid ecosystem established by 2025, according to McKinsey partner Ani Kelkar.
 
-### c_005 — attributed, single source
-**Subject entities:** Disney; Olaf robot
-**Predicate:** will_deploy
-**Object:** Disneyland Hong Kong and Paris, early 2026 (deployment_plan)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Disney; Olaf robot
+- **Predicate:** will_deploy
+- **Object:** Disneyland Hong Kong and Paris, early 2026 (deployment_plan)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Disney's walking robotic version of the 'Frozen' character Olaf is set to roam Disneyland parks in Hong Kong and Paris early next year.
 
-### c_006 — attributed, single source
-**Subject entities:** Agility Robotics; Digit; Mercado Libre
-**Predicate:** announced_deployment
-**Object:** Texas distribution facility operated by Mercado Libre (deployment)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Agility Robotics; Digit; Mercado Libre
+- **Predicate:** announced_deployment
+- **Object:** Texas distribution facility operated by Mercado Libre (deployment)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > Agility Robotics announced it is bringing its tote-carrying warehouse robot Digit to a Texas distribution facility run by Mercado Libre.
 
-### c_007 — attributed, single source
-**Subject entities:** Rodney Brooks; iRobot
-**Predicate:** wrote
-**Object:** humanoids will not learn dexterity despite large investment (claim)
-**Temporal:** 2025-09
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Rodney Brooks; iRobot
+- **Predicate:** wrote
+- **Object:** humanoids will not learn dexterity despite large investment (claim)
+- **Temporal:** 2025-09
+- **Sources:** src_001
 
 > Rodney Brooks, a co-founder of Roomba maker iRobot, wrote in September that today's humanoid robots will not learn to be dexterous despite hundreds of millions or billions of dollars in investment.
 
-### c_008 — attributed, single source
-**Subject entities:** Jeff Burnstein; Association for Advancing Automation
-**Predicate:** said
-**Object:** China has more momentum on humanoids (assessment)
-**Temporal:** 2025-12-12
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jeff Burnstein; Association for Advancing Automation
+- **Predicate:** said
+- **Object:** China has more momentum on humanoids (assessment)
+- **Temporal:** 2025-12-12
+- **Sources:** src_001
 
 > Jeff Burnstein, president of the Association for Advancing Automation, said China has more momentum on humanoids than the United States.
 
-### c_009 — attributed, single source
-**Subject entities:** Cosima du Pasquier; Haptica Robotics
-**Predicate:** said
-**Object:** the humanoid space has a very, very big hill to climb (assessment)
-**Temporal:** 2025-12-12
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Cosima du Pasquier; Haptica Robotics
+- **Predicate:** said
+- **Object:** the humanoid space has a very, very big hill to climb (assessment)
+- **Temporal:** 2025-12-12
+- **Sources:** src_001
 
 > Cosima du Pasquier, co-founder of Haptica Robotics and a Stanford University postdoctoral researcher, said the humanoid space has 'a very, very big hill to climb.'
 
-### c_010 — attributed, single source
-**Subject entities:** Elon Musk; Tesla
-**Predicate:** said
-**Object:** Optimus available within three to five years (claim)
-**Temporal:** 2022
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Elon Musk; Tesla
+- **Predicate:** said
+- **Object:** Optimus available within three to five years (claim)
+- **Temporal:** 2022
+- **Sources:** src_001
 
 > Elon Musk said three years ago that people can probably buy an Optimus humanoid 'within three to five years,' but no Tesla representative spoke at the summit.
 
@@ -219,10 +242,5 @@ Alaoui, who previously worked on driver attention systems for the automotive ind
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Matt O'Brien
 **Publication date:** 2025-12-12
-**Access date:** 2026-05-16
 **Title:** Humanoid robots take center stage at Silicon Valley summit, but skepticism remains
 **URL:** https://apnews.com/article/humanoid-robots-summit-ai-874550fa04954d689d011ffc37751616
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

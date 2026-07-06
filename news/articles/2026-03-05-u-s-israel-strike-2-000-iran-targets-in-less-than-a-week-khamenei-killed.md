@@ -26,7 +26,7 @@ topic_tags:
   - "crime"
   - "crime, law and justice"
 storyline_nexus:
-  - iran-war
+- the-iran-war
 geographic_location: Iran (Tehran, Isfahan, Kermanshah, southeastern Iran)
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -276,7 +276,3 @@ Israel says it also struck mountains north of Tehran where it said Iran had move
 **Access date:** 2026-03-05
 **Title:** The war's toll so far on Iran's military and leadership
 **URL:** https://apnews.com/article/iran-attacks-damage-israel-united-states-f0cba5243a2b2d0c19b376fc2090a6ff
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

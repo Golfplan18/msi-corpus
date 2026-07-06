@@ -15,47 +15,43 @@ primary_themes:
 - officer-involved shooting
 - governmental accountability
 topic_tags:
-  - politics
-  - "human interest"
-  - "government policy"
-  - crime
-  - "crime, law and justice"
-  - "human migration"
+- crime
+- law enforcement
+- government policy
+- civil rights
 storyline_nexus:
-  - immigration-enforcement
-geographic_location: South Padre Island, Texas, United States
+- us-immigration-enforcement
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
-  intensity: 0.95
-- value: accountability_of_power
   intensity: 0.9
 - value: truthfulness
-  intensity: 0.85
-- value: informed_citizenship
-  intensity: 0.8
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+  intensity: 0.9
+- value: accountability_of_power
+  intensity: 0.9
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:26:19Z'
 source_cluster_id: cluster_ap_2026-02-21_texas-ice-shooting-ruben-ray-martinez-de
 gdelt_event_ids: []
-consensus_floor_version: 1.0.0
-publication_mindspec_version: 1.0.0
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 15
   hedges:
     appears: 0
-    alleged: 0
     attributed: 6
-    reported: 7
     contested: 0
+    alleged: 0
     confirmed: 2
+    reported: 7
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 8
-    single_source: 7
     two_independent: 0
+    one_originating_plus_primary_document: 0
+    primary_plus_secondary: 0
+    single_source: 7
+    primary_document: 8
 sources:
   count: 1
   outlets:
@@ -69,41 +65,16 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-04-16-minnesota-probes-federal-officers-over-two-killings-wounding-and-highway-assault
-  relation: related
-  strength: 0.8719
-  confidence: medium
-- slug: 2026-04-21-judge-orders-man-shot-by-ice-in-california-to-remain-in-custody
-  relation: related
-  strength: 0.8531
-  confidence: medium
-- slug: 2026-04-16-minnesota-charges-ice-agent-with-felony-assault-for-pointing-gun-at-highway-driv
-  relation: related
-  strength: 0.848
-  confidence: medium
-- slug: 2026-01-07-minneapolis-ice-shooting-is-at-least-the-fifth-death-in-us-immigration-crackdown
-  relation: related
-  strength: 0.8882
-  confidence: medium
-- slug: 2026-01-09-ice-agents-shoot-two-outside-portland-hospital-oregon-ag-vows-probe
-  relation: related
-  strength: 0.8758
-  confidence: medium
-- slug: 2026-01-09-records-identify-minneapolis-ice-shooter-as-iraq-war-veteran-jonathan-ross
-  relation: related
-  strength: 0.8741
-  confidence: medium
-- slug: 2026-01-14-minneapolis-sees-second-federal-shooting-as-courts-governor-push-back-on-immigra
-  relation: related
-  strength: 0.8524
-  confidence: medium
-- slug: 2026-01-08-protests-erupt-in-minneapolis-as-officials-dispute-jurisdiction-in-fatal-ice-sho
-  relation: related
-  strength: 0.8694
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- A federal immigration agent fatally shot a U.
+- The shooting marks another in a series of deadly encounters during Trump's second-term immigration enforcement crackdown, raising questions about federal tactics and oversight.
+- The case also highlights disagreements between federal and state authorities about the circumstances of the encounter.
 
 The shooting marks another in a series of deadly encounters during Trump's second-term immigration enforcement crackdown, raising questions about federal tactics and oversight. The case also highlights disagreements between federal and state authorities about the circumstances of the encounter.
 
@@ -149,142 +120,170 @@ Reyes said she did not believe her son would have intentionally assaulted a law 
 
 The cases of Martinez and Good are among at least six deadly shootings involving federal immigration officers since Trump's second-term immigration crackdown began. The pattern has prompted investigations at the state and federal levels, with some officials questioning both the circumstances of individual shootings and the training and deployment of federal immigration enforcement teams.
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public source listed under `sources`. Framework specification available at /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
-### c_001 — reported, primary document
-**Subject entities:** Ruben Ray Martinez; HSI agent
-**Predicate:** shot_and_killed
-**Object:** fatally shot (incident_outcome)
-**Temporal:** 2025-03-15
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Ruben Ray Martinez; HSI agent
+- **Predicate:** shot_and_killed
+- **Object:** fatally shot (incident_outcome)
+- **Temporal:** 2025-03-15
+- **Sources:** src_001
 
 > Ruben Ray Martinez, 23, was fatally shot by a federal HSI agent on March 15, 2025.
 
-### c_002 — confirmed, primary document
-**Subject entities:** HSI agents; South Padre Island
-**Predicate:** conducted_operation
-**Object:** traffic enforcement operation (operation_type)
-**Temporal:** 2025-03-15
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** HSI agents; South Padre Island
+- **Predicate:** conducted_operation
+- **Object:** traffic enforcement operation (operation_type)
+- **Temporal:** 2025-03-15
+- **Sources:** src_001
 
 > The shooting occurred on South Padre Island, Texas during an HSI traffic enforcement operation.
 
-### c_003 — reported, primary document
-**Subject entities:** Department of Homeland Security
-**Predicate:** failed_to_disclose
-**Object:** officer-involved shooting death (event_type)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Department of Homeland Security
+- **Predicate:** failed_to_disclose
+- **Object:** officer-involved shooting death (event_type)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > The Department of Homeland Security did not publicly disclose the shooting for approximately 11 months.
 
-### c_004 — attributed, single source
-**Subject entities:** DHS
-**Predicate:** stated
-**Object:** driver intentionally struck agent with vehicle (alleged_action)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** DHS
+- **Predicate:** stated
+- **Object:** driver intentionally struck agent with vehicle (alleged_action)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > DHS stated the driver intentionally struck an HSI agent.
 
-### c_005 — attributed, primary document
-**Subject entities:** HSI agent; vehicle
-**Predicate:** struck
-**Object:** struck by vehicle, agent positioned on hood (incident_detail)
-**Temporal:** 2025-03-15
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** HSI agent; vehicle
+- **Predicate:** struck
+- **Object:** struck by vehicle, agent positioned on hood (incident_detail)
+- **Temporal:** 2025-03-15
+- **Sources:** src_001
 
 > An HSI officer was struck by the vehicle and wound up on the hood, according to an ICE incident report.
 
-### c_006 — reported, primary document
-**Subject entities:** HSI supervisory special agent
-**Predicate:** fired_shots
-**Object:** multiple gunshots through driver window (action)
-**Temporal:** 2025-03-15
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** HSI supervisory special agent
+- **Predicate:** fired_shots
+- **Object:** multiple gunshots through driver window (action)
+- **Temporal:** 2025-03-15
+- **Sources:** src_001
 
 > An HSI supervisory special agent fired multiple shots through the driver's window.
 
-### c_007 — confirmed, primary document
-**Subject entities:** Texas Rangers
-**Predicate:** led_investigation
-**Object:** officer-involved shooting investigation (investigation_type)
-**Temporal:** 2025-03-15
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Texas Rangers
+- **Predicate:** led_investigation
+- **Object:** officer-involved shooting investigation (investigation_type)
+- **Temporal:** 2025-03-15
+- **Sources:** src_001
 
 > Texas Rangers took the lead investigating the shooting.
 
-### c_008 — reported, single source
-**Subject entities:** state investigator; Rachel Reyes
-**Predicate:** indicated
-**Object:** video evidence contradicts federal account (evidentiary_claim)
-**Temporal:** 2025-03-22
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** state investigator; Rachel Reyes
+- **Predicate:** indicated
+- **Object:** video evidence contradicts federal account (evidentiary_claim)
+- **Temporal:** 2025-03-22
+- **Sources:** src_001
 
 > A state investigator told Martinez's mother that video evidence contradicted the federal account.
 
-### c_009 — reported, single source
-**Subject entities:** state investigation
-**Predicate:** completed
-**Object:** investigation complete, case to grand jury (case_status)
-**Temporal:** 2025-10-31
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** state investigation
+- **Predicate:** completed
+- **Object:** investigation complete, case to grand jury (case_status)
+- **Temporal:** 2025-10-31
+- **Sources:** src_001
 
 > The state investigation was completed in October and the case was to be presented to a grand jury.
 
-### c_010 — attributed, single source
-**Subject entities:** Geoffrey Alpert
-**Predicate:** questioned
-**Object:** agent positioned in front of vehicle (tactical_concern)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Geoffrey Alpert
+- **Predicate:** questioned
+- **Object:** agent positioned in front of vehicle (tactical_concern)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > Geoffrey Alpert, a police use-of-force expert, questioned why an agent was positioned in front of the vehicle.
 
-### c_011 — attributed, single source
-**Subject entities:** Geoffrey Alpert
-**Predicate:** stated
-**Object:** standing in front of vehicle is never justified (expert_assessment)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Geoffrey Alpert
+- **Predicate:** stated
+- **Object:** standing in front of vehicle is never justified (expert_assessment)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > Alpert said there is no scenario where it is justified to stand in front of a car because the driver's actions are unpredictable.
 
-### c_012 — attributed, single source
-**Subject entities:** Ruben Ray Martinez
-**Predicate:** had_no_prior
-**Object:** law enforcement contact (background_fact)
-**Temporal:** 2025-03-15
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ruben Ray Martinez
+- **Predicate:** had_no_prior
+- **Object:** law enforcement contact (background_fact)
+- **Temporal:** 2025-03-15
+- **Sources:** src_001
 
 > Martinez had no prior law enforcement contact.
 
-### c_013 — attributed, single source
-**Subject entities:** Ruben Ray Martinez
-**Predicate:** worked_and_enjoyed
-**Object:** Amazon warehouse worker, video games enthusiast (biographical_detail)
-**Temporal:** 2025-03-15
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ruben Ray Martinez
+- **Predicate:** worked_and_enjoyed
+- **Object:** Amazon warehouse worker, video games enthusiast (biographical_detail)
+- **Temporal:** 2025-03-15
+- **Sources:** src_001
 
 > Martinez worked at an Amazon warehouse and liked to play video games.
 
-### c_014 — reported, primary document
-**Subject entities:** HSI agents
-**Predicate:** member_of
-**Object:** maritime border enforcement task force (unit_assignment)
-**Temporal:** 2025-03-15
-**Source IDs:** src_001
+### c_014
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** HSI agents
+- **Predicate:** member_of
+- **Object:** maritime border enforcement task force (unit_assignment)
+- **Temporal:** 2025-03-15
+- **Sources:** src_001
 
 > HSI agents involved were part of a maritime border enforcement security task force.
 
-### c_015 — reported, primary document
-**Subject entities:** Jonathan Ross; Renee Good
-**Predicate:** shot_and_killed
-**Object:** killed in driver's seat of SUV (incident_outcome)
-**Temporal:** 2026-01-01
-**Source IDs:** src_001
+### c_015
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Jonathan Ross; Renee Good
+- **Predicate:** shot_and_killed
+- **Object:** killed in driver's seat of SUV (incident_outcome)
+- **Temporal:** 2026-01-01
+- **Sources:** src_001
 
 > ICE officer Jonathan Ross killed Renee Good, a 37-year-old mother in Minneapolis, in January 2026.
 
@@ -293,10 +292,5 @@ This article was generated algorithmically by Main Street Independent's News Art
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Michael Biesecker
 **Publication date:** 2026-02-20
-**Access date:** 2026-02-20
 **Title:** Records reveal a federal immigration agent fatally shot a Texas man last year
 **URL:** https://apnews.com/article/texas-ice-shooting-ruben-ray-martinez-death-646df2f1212fa48d14a9b270f04c3f76
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

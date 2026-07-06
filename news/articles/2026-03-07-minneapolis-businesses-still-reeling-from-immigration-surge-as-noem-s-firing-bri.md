@@ -18,12 +18,12 @@ primary_themes:
 - federal-local government conflict
 - public education
 topic_tags:
-  - "armed conflict"
-  - "conflict, war and peace"
-  - "human interest"
-  - "human migration"
+- armed conflict
+- conflict, war and peace
+- human interest
+- human migration
 storyline_nexus:
-  - immigration-enforcement
+- us-immigration-enforcement
 geographic_location: Minneapolis, Minnesota
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -95,10 +95,6 @@ cross_article_links:
   relation: continues
   strength: 0.7661
   confidence: high
-- slug: 2025-12-30-faith-leaders-supporting-immigrants-brace-for-harder-year-under-trump-policies
-  relation: related
-  strength: 0.7889
-  confidence: medium
 - slug: 2026-01-07-minneapolis-ice-shooting-is-at-least-the-fifth-death-in-us-immigration-crackdown
   relation: continues
   strength: 0.7578
@@ -164,120 +160,146 @@ GOP state Sen. Jim Abeler, a moderate from suburban Anoka, said he had written t
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Daniel Hernandez; Colonial Market
-**Predicate:** at_risk_of_closing
-**Object:** economic damage from enforcement operation (causal_claim)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Daniel Hernandez; Colonial Market
+- **Predicate:** at_risk_of_closing
+- **Object:** economic damage from enforcement operation (causal_claim)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > Daniel Hernandez's Colonial Market in south Minneapolis has served Latino families for over five years and is on the verge of closing due to economic damage from the immigration enforcement operation.
 
-### c_002 — attributed, single source
-**Subject entities:** Daniel Hernandez
-**Predicate:** reported_shuttered_count
-**Object:** 10 of 12 (count)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Daniel Hernandez
+- **Predicate:** reported_shuttered_count
+- **Object:** 10 of 12 (count)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > Ten of the 12 Latino small businesses renting space from Hernandez remain shuttered.
 
-### c_003 — attributed, single source
-**Subject entities:** Daniel Hernandez
-**Predicate:** reported_reopened_count
-**Object:** 1 (count)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Daniel Hernandez
+- **Predicate:** reported_reopened_count
+- **Object:** 1 (count)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > Only one business — an Ecuadorian ice cream shop — has been able to reopen since the enforcement operation began in December.
 
-### c_004 — confirmed, two independent
-**Subject entities:** Donald Trump; Kristi Noem
-**Predicate:** fired
-**Object:** homeland security secretary (role)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** two_independent
+- **Subject entities:** Donald Trump; Kristi Noem
+- **Predicate:** fired
+- **Object:** homeland security secretary (role)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > President Donald Trump fired Kristi Noem as homeland security secretary on Thursday, March 5, 2026.
 
-### c_005 — attributed, single source
-**Subject entities:** Kristi Noem
-**Predicate:** testified
-**Object:** 650 officers remaining in Minnesota (count)
-**Temporal:** 2026-03-04
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Kristi Noem
+- **Predicate:** testified
+- **Object:** 650 officers remaining in Minnesota (count)
+- **Temporal:** 2026-03-04
+- **Sources:** src_001
 
 > Noem testified to Congress this week that approximately 650 ICE and other federal officers remained in Minnesota.
 
-### c_006 — attributed, single source
-**Subject entities:** Amy Klobuchar; Tom Homan
-**Predicate:** said
-**Object:** little over 100 ICE officers plus fraud agents (count)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Amy Klobuchar; Tom Homan
+- **Predicate:** said
+- **Object:** little over 100 ICE officers plus fraud agents (count)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > Sen. Amy Klobuchar said White House border czar Tom Homan told her the number had been cut back to a little over 100 ICE officers, plus some additional agents working on fraud investigations.
 
-### c_007 — attributed, single source
-**Subject entities:** Jacob Frey; Minneapolis
-**Predicate:** estimated_economic_impact
-**Object:** $203 million in January; 76,000 food insecure (economic_estimate)
-**Temporal:** 2026-02-01
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jacob Frey; Minneapolis
+- **Predicate:** estimated_economic_impact
+- **Object:** $203 million in January; 76,000 food insecure (economic_estimate)
+- **Temporal:** 2026-02-01
+- **Sources:** src_001
 
 > Minneapolis Mayor Jacob Frey estimated last month that the federal immigration operation cost the city's economy $203 million in January alone and led 76,000 people to experience food insecurity.
 
-### c_008 — attributed, single source
-**Subject entities:** Brenda Lewis; Fridley Public Schools
-**Predicate:** reported_enrollment_and_revenue_impact
-**Object:** 112+ unenrolled, 400 virtual, $130,000 lost in meal revenue (impact_summary)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Brenda Lewis; Fridley Public Schools
+- **Predicate:** reported_enrollment_and_revenue_impact
+- **Object:** 112+ unenrolled, 400 virtual, $130,000 lost in meal revenue (impact_summary)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > Fridley Public Schools superintendent Brenda Lewis said more than 112 students have unenrolled, 400 are in virtual learning, and the district has lost $130,000 in meal program revenue.
 
-### c_009 — attributed, single source
-**Subject entities:** Lucy Olson
-**Predicate:** reported_volunteer_network_scale
-**Object:** 2,000 volunteers, approximately 500 families (count)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Lucy Olson
+- **Predicate:** reported_volunteer_network_scale
+- **Object:** 2,000 volunteers, approximately 500 families (count)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > A grassroots volunteer network organized by Minneapolis psychologist Lucy Olson grew to 2,000 volunteers assisting around 500 immigrant families with legal matters, shelter, food, and rent assistance.
 
-### c_010 — alleged, single source
-**Subject entities:** David Easterwood
-**Predicate:** indicted_in_protest
-**Object:** 39 people indicted (legal_action)
-**Temporal:** 2026-01-01
-**Source IDs:** src_001
+### c_010
+- **Hedge:** alleged
+- **Corroboration:** single_source
+- **Subject entities:** David Easterwood
+- **Predicate:** indicted_in_protest
+- **Object:** 39 people indicted (legal_action)
+- **Temporal:** 2026-01-01
+- **Sources:** src_001
 
 > Thirty-nine people were indicted for their alleged roles in a protest at a St. Paul church where pastor David Easterwood serves as a top local ICE official.
 
-### c_011 — confirmed, two independent
-**Subject entities:** Renee Good; Alex Pretti
-**Predicate:** killed_by_federal_officers
-**Object:** federal officers (agency)
-**Temporal:** 2026-01-01
-**Source IDs:** src_001
+### c_011
+- **Hedge:** confirmed
+- **Corroboration:** two_independent
+- **Subject entities:** Renee Good; Alex Pretti
+- **Predicate:** killed_by_federal_officers
+- **Object:** federal officers (agency)
+- **Temporal:** 2026-01-01
+- **Sources:** src_001
 
 > Federal officers shot and killed Minneapolis residents Renee Good and Alex Pretti during the immigration enforcement surge.
 
-### c_012 — reported, single source
-**Subject entities:** U.S. Immigration and Customs Enforcement
-**Predicate:** peak_officer_count
-**Object:** around 3,000 (count)
-**Temporal:** 2026-01-01
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Immigration and Customs Enforcement
+- **Predicate:** peak_officer_count
+- **Object:** around 3,000 (count)
+- **Temporal:** 2026-01-01
+- **Sources:** src_001
 
 > The enforcement surge peaked at around 3,000 federal officers in Minnesota.
 
-### c_013 — attributed, single source
-**Subject entities:** Jacob Frey
-**Predicate:** said
-**Object:** tens of millions of dollars in lost revenue (economic_estimate)
-**Temporal:** 2026-02-01
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jacob Frey
+- **Predicate:** said
+- **Object:** tens of millions of dollars in lost revenue (economic_estimate)
+- **Temporal:** 2026-02-01
+- **Sources:** src_001
 
 > Minneapolis Mayor Jacob Frey said small businesses have collectively lost tens of millions of dollars in revenue.
 
@@ -289,7 +311,3 @@ GOP state Sen. Jim Abeler, a moderate from suburban Anoka, said he had written t
 **Access date:** 2026-03-07
 **Title:** Small businesses in Minneapolis struggle even after Noem was fired
 **URL:** https://apnews.com/article/minnesota-immigration-business-crackdown-kristi-noem-fired-6dead96cd2bca4b5384b0ad3244c5ece
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

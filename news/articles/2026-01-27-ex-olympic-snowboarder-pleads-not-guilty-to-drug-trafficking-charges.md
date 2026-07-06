@@ -12,10 +12,10 @@ primary_themes:
 - Federal law enforcement
 - Criminal justice
 topic_tags:
-  - "crime, law and justice"
-  - "law enforcement"
+- crime, law and justice
+- law enforcement
 storyline_nexus:
-  - immigration-enforcement
+- mexico-cartel-violence
 geographic_location: Santa Ana, California; Mexico; Canada
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -61,10 +61,6 @@ figures_aggregate:
   series_ids: []
   sources: []
 cross_article_links:
-- slug: 2026-04-18-mexico-arrests-european-fugitive-wanted-for-drug-trafficking
-  relation: related
-  strength: 0.7532
-  confidence: medium
 - slug: 2026-01-09-lawyers-clash-over-who-will-represent-maduro-in-us-drug-case
   relation: related
   strength: 0.7777
@@ -84,10 +80,6 @@ cross_article_links:
 - slug: 2026-01-06-maduro-s-us-drug-case-advances-as-lawyers-signal-sovereignty-challenge-medical-n
   relation: related
   strength: 0.7713
-  confidence: medium
-- slug: 2026-01-07-cambodia-extradites-alleged-scam-kingpin-chen-zhi-to-china-amid-u-s-fraud-charge
-  relation: related
-  strength: 0.7648
   confidence: medium
 draft: false
 ---
@@ -128,138 +120,168 @@ In Canada, Wedding faces separate drug charges dating back to 2015.
 
 ## Atomic claims
 
-### c_001 — reported, primary document
-**Subject entities:** Ryan Wedding
-**Predicate:** pleaded not guilty to
-**Object:** drug trafficking ring and orchestrating killings (criminal_charges)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Ryan Wedding
+- **Predicate:** pleaded not guilty to
+- **Object:** drug trafficking ring and orchestrating killings (criminal_charges)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > Ryan Wedding, a former Canadian Olympic snowboarder from the 2002 Winter Olympics in Salt Lake City, pleaded not guilty to running a drug trafficking ring and orchestrating multiple killings.
 
-### c_002 — reported, primary document
-**Subject entities:** Ryan Wedding
-**Predicate:** arrested and transported to
-**Object:** California for court appearance (location)
-**Temporal:** 2026-01-19 to 2026-01-26
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Ryan Wedding
+- **Predicate:** arrested and transported to
+- **Object:** California for court appearance (location)
+- **Temporal:** 2026-01-19 to 2026-01-26
+- **Sources:** src_001
 
 > Wedding was arrested in Mexico and flown to California for his U.S. court appearance.
 
-### c_003 — attributed, single source
-**Subject entities:** Ryan Wedding
-**Predicate:** hiding in
-**Object:** Mexico for more than a decade (location_duration)
-**Temporal:** 2015-2026
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ryan Wedding
+- **Predicate:** hiding in
+- **Object:** Mexico for more than a decade (location_duration)
+- **Temporal:** 2015-2026
+- **Sources:** src_001
 
 > U.S. authorities say Wedding had been hiding in Mexico for more than a decade.
 
-### c_004 — reported, single source
-**Subject entities:** Ryan Wedding; Federal Bureau of Investigation
-**Predicate:** added to list with
-**Object:** 15 million dollar reward (monetary_reward)
-**Temporal:** 2025-03
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Ryan Wedding; Federal Bureau of Investigation
+- **Predicate:** added to list with
+- **Object:** 15 million dollar reward (monetary_reward)
+- **Temporal:** 2025-03
+- **Sources:** src_001
 
 > Wedding was added to the FBI's Ten Most Wanted Fugitives list in March 2025 with a $15 million reward.
 
-### c_005 — attributed, single source
-**Subject entities:** Ryan Wedding
-**Predicate:** moved
-**Object:** 60 tons of cocaine (drug_quantity)
-**Temporal:** 2015-2026
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ryan Wedding
+- **Predicate:** moved
+- **Object:** 60 tons of cocaine (drug_quantity)
+- **Temporal:** 2015-2026
+- **Sources:** src_001
 
 > Authorities say Wedding moved as much as 60 tons of cocaine between Colombia, Mexico, Canada and Southern California.
 
-### c_006 — attributed, primary document
-**Subject entities:** Ryan Wedding
-**Predicate:** operated
-**Object:** largest cocaine supplier to Canada (organizational_role)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Ryan Wedding
+- **Predicate:** operated
+- **Object:** largest cocaine supplier to Canada (organizational_role)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > Wedding's drug trafficking group was the largest supplier of cocaine to Canada, according to a 2024 indictment.
 
-### c_007 — attributed, single source
-**Subject entities:** Ryan Wedding; Sinaloa Cartel
-**Predicate:** working under protection of
-**Object:** Sinaloa Cartel (organization)
-**Temporal:** 2015-2026
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ryan Wedding; Sinaloa Cartel
+- **Predicate:** working under protection of
+- **Object:** Sinaloa Cartel (organization)
+- **Temporal:** 2015-2026
+- **Sources:** src_001
 
 > Authorities believe Wedding was working under the protection of the Sinaloa Cartel.
 
-### c_008 — attributed, primary document
-**Subject entities:** Anthony Colombo
-**Predicate:** disputed and stated
-**Object:** Wedding was arrested, not surrendering (legal_statement)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Anthony Colombo
+- **Predicate:** disputed and stated
+- **Object:** Wedding was arrested, not surrendering (legal_statement)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > Wedding's defense attorney Anthony Colombo disputed that his client turned himself in, saying Wedding was arrested rather than surrendering.
 
-### c_009 — reported, primary document
-**Subject entities:** John D. Early
-**Predicate:** ordered
-**Object:** Wedding held in custody (legal_order)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** John D. Early
+- **Predicate:** ordered
+- **Object:** Wedding held in custody (legal_order)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > U.S. Magistrate John D. Early ordered Wedding held in custody.
 
-### c_010 — reported, primary document
-**Subject entities:** Ryan Wedding
-**Predicate:** scheduled
-**Object:** February 11 and March 24 (date)
-**Temporal:** 2026-02-11, 2026-03-24
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Ryan Wedding
+- **Predicate:** scheduled
+- **Object:** February 11 and March 24 (date)
+- **Temporal:** 2026-02-11, 2026-03-24
+- **Sources:** src_001
 
 > Wedding was scheduled to return to court on February 11, with a trial date set for March 24.
 
-### c_011 — reported, primary document
-**Subject entities:** Ryan Wedding
-**Predicate:** indicted on charges
-**Object:** running criminal enterprise, murder, conspiracy to distribute cocaine (criminal_charges)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Ryan Wedding
+- **Predicate:** indicted on charges
+- **Object:** running criminal enterprise, murder, conspiracy to distribute cocaine (criminal_charges)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > Wedding was indicted in 2024 on federal charges of running a criminal enterprise, murder, and conspiring to distribute cocaine.
 
-### c_012 — attributed, primary document
-**Subject entities:** Ryan Wedding
-**Predicate:** obtained and distributed
-**Object:** cocaine via multiple transportation methods (criminal_activity)
-**Temporal:** 2015-2026
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Ryan Wedding
+- **Predicate:** obtained and distributed
+- **Object:** cocaine via multiple transportation methods (criminal_activity)
+- **Temporal:** 2015-2026
+- **Sources:** src_001
 
 > Authorities allege Wedding's group obtained cocaine from Colombia and worked with Mexican cartels to transport drugs by boat and plane to Mexico and into the U.S. using semitrucks.
 
-### c_013 — alleged, primary document
-**Subject entities:** Ryan Wedding
-**Predicate:** directed
-**Object:** killings of two Canadian family members (alleged_crime)
-**Temporal:** 2023
-**Source IDs:** src_001
+### c_013
+- **Hedge:** alleged
+- **Corroboration:** primary_document
+- **Subject entities:** Ryan Wedding
+- **Predicate:** directed
+- **Object:** killings of two Canadian family members (alleged_crime)
+- **Temporal:** 2023
+- **Sources:** src_001
 
 > Authorities allege Wedding directed the 2023 killings of two members of a Canadian family in retaliation for a stolen drug shipment.
 
-### c_014 — reported, primary document
-**Subject entities:** Ryan Wedding
-**Predicate:** convicted and released
-**Object:** 2010 conviction, 2011 release (criminal_history)
-**Temporal:** 2010, 2011
-**Source IDs:** src_001
+### c_014
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Ryan Wedding
+- **Predicate:** convicted and released
+- **Object:** 2010 conviction, 2011 release (criminal_history)
+- **Temporal:** 2010, 2011
+- **Sources:** src_001
 
 > Wedding was previously convicted in 2010 of conspiracy to distribute cocaine and was released from federal prison in 2011.
 
-### c_015 — reported, primary document
-**Subject entities:** Ryan Wedding
-**Predicate:** faces charges in
-**Object:** Canada (jurisdiction)
-**Temporal:** 2015-present
-**Source IDs:** src_001
+### c_015
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Ryan Wedding
+- **Predicate:** faces charges in
+- **Object:** Canada (jurisdiction)
+- **Temporal:** 2015-present
+- **Sources:** src_001
 
 > In Canada, Wedding faces separate drug charges dating back to 2015.
 
@@ -271,7 +293,3 @@ In Canada, Wedding faces separate drug charges dating back to 2015.
 **Access date:** 2026-01-27
 **Title:** Ex-Olympic snowboarder pleads not guilty to drug smuggling and murder
 **URL:** https://apnews.com/article/ryan-wedding-olympic-snowboarder-drug-ring-1733b8338204e5386d09ff76f08f7921
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

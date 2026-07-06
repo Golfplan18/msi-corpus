@@ -15,42 +15,41 @@ primary_themes:
 - state sovereignty
 - 2020 election
 topic_tags:
-  - politics
-  - election
-  - "crime, law and justice"
-  - prosecution
-storyline_nexus: []
-geographic_location: Colorado, United States
+- crime
+- election
+- government
+- politics
+storyline_nexus:
+- trump-judicial-challenges
+geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.9
 - value: accountability_of_power
   intensity: 0.9
 - value: truthfulness
-  intensity: 0.75
-framework_version: 1.1.0
-generation_timestamp: '2026-05-16T19:48:08Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-22T23:57:23Z'
 source_cluster_id: cluster_ap_2026-01-07_colorado-attorney-general-trump-tina-pet
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 14
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 4
-    reported: 2
-    contested: 0
     confirmed: 8
+    contested: 0
+    reported: 2
+    attributed: 4
+    alleged: 0
+    appears: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 3
-    single_source: 11
     two_independent: 0
+    single_source: 11
+    one_originating_plus_primary_document: 0
+    primary_plus_secondary: 0
+    primary_document: 3
 sources:
   count: 1
   outlets:
@@ -71,6 +70,15 @@ image:
 cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Summary point 1.
+- Summary point 2.
+- Summary point 3.
+- Summary point 4.
 
 The amended lawsuit asks a federal judge to declare the administration unconstitutionally punished Colorado for exercising its sovereign authority over a state criminal matter — a case testing whether the federal government can use spending decisions to pressure states over a conviction tied to a sitting president's political interests.
 
@@ -110,129 +118,157 @@ The administration had not formally responded to the claims in the amended lawsu
 
 ## Atomic claims
 
-### c_001 — confirmed, single source
-**Subject entities:** Phil Weiser; Colorado
-**Predicate:** amended_lawsuit
-**Object:** federal lawsuit against Trump administration (legal_action)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Phil Weiser; Colorado
+- **Predicate:** amended_lawsuit
+- **Object:** federal lawsuit against Trump administration (legal_action)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > Colorado Attorney General Phil Weiser amended a federal lawsuit on Thursday, January 8, 2026, to include federal actions beyond the original Space Command relocation.
 
-### c_002 — attributed, single source
-**Subject entities:** Phil Weiser
-**Predicate:** accused
-**Object:** revenge campaign (characterization)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Phil Weiser
+- **Predicate:** accused
+- **Object:** revenge campaign (characterization)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > Weiser accused the Trump administration of waging a 'revenge campaign' against Colorado.
 
-### c_003 — reported, single source
-**Subject entities:** Donald Trump; United States government
-**Predicate:** implemented_federal_actions
-**Object:** multiple federal funding and program changes affecting Colorado (government_action)
-**Temporal:** 2025-2026
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; United States government
+- **Predicate:** implemented_federal_actions
+- **Object:** multiple federal funding and program changes affecting Colorado (government_action)
+- **Temporal:** 2025-2026
+- **Sources:** src_001
 
 > The Trump administration dissolved a climate research lab, threatened to cut transportation funding, withheld funds for needy families, and relocated U.S. Space Command to Alabama.
 
-### c_004 — confirmed, primary document
-**Subject entities:** Tina Peters
-**Predicate:** convicted_of
-**Object:** orchestrating a data breach scheme (criminal_conviction)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Tina Peters
+- **Predicate:** convicted_of
+- **Object:** orchestrating a data breach scheme (criminal_conviction)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Tina Peters was convicted in state court of orchestrating a data breach scheme driven by false claims about fraud in Trump's 2020 election defeat.
 
-### c_005 — confirmed, primary document
-**Subject entities:** Tina Peters
-**Predicate:** sentenced_to
-**Object:** nine years in prison (criminal_sentence)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Tina Peters
+- **Predicate:** sentenced_to
+- **Object:** nine years in prison (criminal_sentence)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Peters was sentenced to nine years in prison.
 
-### c_006 — confirmed, single source
-**Subject entities:** Donald Trump; Tina Peters
-**Predicate:** issued_pardon
-**Object:** symbolic pardon (executive_action)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Tina Peters
+- **Predicate:** issued_pardon
+- **Object:** symbolic pardon (executive_action)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > Trump issued a symbolic pardon for Peters last month; his pardon power does not extend to state crimes.
 
-### c_007 — attributed, single source
-**Subject entities:** Abigail Jackson; Donald Trump
-**Predicate:** stated
-**Object:** lawful and discretionary authority statement (official_statement)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Abigail Jackson; Donald Trump
+- **Predicate:** stated
+- **Object:** lawful and discretionary authority statement (official_statement)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > White House spokeswoman Abigail Jackson said Trump is using 'his lawful and discretionary authority to ensure federal dollars are being spent in a way that aligns with the agenda endorsed by the American people when they resoundingly reelected the President.'
 
-### c_008 — attributed, single source
-**Subject entities:** Colorado
-**Predicate:** assessed_as
-**Object:** safe, secure, legal, nonpartisan (expert_assessment)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Colorado
+- **Predicate:** assessed_as
+- **Object:** safe, secure, legal, nonpartisan (expert_assessment)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > Experts have said Colorado's mail-in voting system is safe, secure, and legal, and that mail-in voting gives neither party an advantage.
 
-### c_009 — confirmed, primary document
-**Subject entities:** Donald Trump; United States government
-**Predicate:** found_no_evidence
-**Object:** fraud affecting 2020 election outcome (legal_finding)
-**Temporal:** 2020-2021
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Donald Trump; United States government
+- **Predicate:** found_no_evidence
+- **Object:** fraud affecting 2020 election outcome (legal_finding)
+- **Temporal:** 2020-2021
+- **Sources:** src_001
 
 > Courts around the country and Trump's own attorney general at the time found no evidence of fraud that could have affected the outcome of the 2020 election.
 
-### c_010 — attributed, single source
-**Subject entities:** Tina Peters
-**Predicate:** appealing
-**Object:** state appeals court recognition of presidential pardon (legal_action)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Tina Peters
+- **Predicate:** appealing
+- **Object:** state appeals court recognition of presidential pardon (legal_action)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Peters is asking a state appeals court to recognize Trump's pardon as valid; her attorneys are due in court next week.
 
-### c_011 — confirmed, single source
-**Subject entities:** Phil Weiser
-**Predicate:** filed_lawsuit
-**Object:** federal lawsuit in U.S. District Court in Denver (legal_action)
-**Temporal:** 2025-10
-**Source IDs:** src_001
+### c_011
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Phil Weiser
+- **Predicate:** filed_lawsuit
+- **Object:** federal lawsuit in U.S. District Court in Denver (legal_action)
+- **Temporal:** 2025-10
+- **Sources:** src_001
 
 > Weiser filed the original lawsuit in October against the Space Command relocation; he sued in U.S. District Court in Denver before U.S. District Judge R. Brooke Jackson.
 
-### c_012 — confirmed, single source
-**Subject entities:** Donald Trump
-**Predicate:** posted
-**Object:** FREE TINA PETERS! (social_media_statement)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_012
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** posted
+- **Object:** FREE TINA PETERS! (social_media_statement)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > Trump posted 'FREE TINA PETERS!' on social media on Thursday.
 
-### c_013 — confirmed, single source
-**Subject entities:** Donald Trump
-**Predicate:** posted
-**Object:** Dec. 31 social media post targeting Colorado governor and mail-in voting (social_media_statement)
-**Temporal:** 2025-12-31
-**Source IDs:** src_001
+### c_013
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** posted
+- **Object:** Dec. 31 social media post targeting Colorado governor and mail-in voting (social_media_statement)
+- **Temporal:** 2025-12-31
+- **Sources:** src_001
 
 > In a Dec. 31 social media post, Trump referred to Colorado's Democratic governor as a 'scumbag' and claimed the state's mail-in system 'makes it impossible for a Republican to win an otherwise very winnable state.'
 
-### c_014 — reported, single source
-**Subject entities:** United States government
-**Predicate:** has_not_responded
-**Object:** amended lawsuit claims (legal_status)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_014
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** United States government
+- **Predicate:** has_not_responded
+- **Object:** amended lawsuit claims (legal_status)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > The administration had not formally responded to the claims in the amended lawsuit as of Thursday.
 
@@ -241,10 +277,5 @@ The administration had not formally responded to the claims in the amended lawsu
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Matthew Brown
 **Publication date:** 2026-01-08
-**Access date:** 2026-05-16
 **Title:** Colorado AG accuses Trump of 'revenge campaign' after funding cuts
 **URL:** https://apnews.com/article/colorado-attorney-general-trump-tina-peters-revenge-446724aeff96ff81fb0c0f44b0399751
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

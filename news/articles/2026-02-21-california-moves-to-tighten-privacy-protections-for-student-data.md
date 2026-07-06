@@ -24,7 +24,7 @@ topic_tags:
   - labour
   - "labour dispute"
 storyline_nexus:
-  - immigration-enforcement
+- lgbtq-rights-restrictions
 geographic_location: California, United States
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -143,174 +143,212 @@ Human review: not_triggered. License: CC0.
 
 ## Atomic claims
 
-### c_001 — reported, single source
-**Subject entities:** Assemblymember Dawn Addis
-**Predicate:** carrying
-**Object:** Assembly Bill 1159 (legislation)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Assemblymember Dawn Addis
+- **Predicate:** carrying
+- **Object:** Assembly Bill 1159 (legislation)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Assemblymember Dawn Addis is carrying Assembly Bill 1159 this year.
 
-### c_002 — reported, single source
-**Subject entities:** AB 1159
-**Predicate:** restrict
-**Object:** AI company use of student data (policy_effect)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** AB 1159
+- **Predicate:** restrict
+- **Object:** AI company use of student data (policy_effect)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Assembly Bill 1159 would restrict how AI companies use student data.
 
-### c_003 — reported, single source
-**Subject entities:** AB 1159
-**Predicate:** create
-**Object:** new data protections for college students (policy_effect)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** AB 1159
+- **Predicate:** create
+- **Object:** new data protections for college students (policy_effect)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Assembly Bill 1159 would create new data protections for college students.
 
-### c_004 — reported, single source
-**Subject entities:** California education privacy laws
-**Predicate:** contain
-**Object:** loopholes allowing companies to sell student data (policy_deficiency)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** California education privacy laws
+- **Predicate:** contain
+- **Object:** loopholes allowing companies to sell student data (policy_deficiency)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > California's education privacy laws contain loopholes allowing companies to package and sell students' personal information.
 
-### c_005 — confirmed, primary document
-**Subject entities:** California
-**Predicate:** prohibited
-**Object:** selling students' data (prohibition)
-**Temporal:** 2014
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** California
+- **Predicate:** prohibited
+- **Object:** selling students' data (prohibition)
+- **Temporal:** 2014
+- **Sources:** src_001
 
 > California passed a landmark education privacy law in 2014 that prohibited technology companies from selling students' data.
 
-### c_006 — confirmed, primary document
-**Subject entities:** California
-**Predicate:** passed
-**Object:** CCPA with privacy rights including opt-out and data deletion (legislation)
-**Temporal:** 2018
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** California
+- **Predicate:** passed
+- **Object:** CCPA with privacy rights including opt-out and data deletion (legislation)
+- **Temporal:** 2018
+- **Sources:** src_001
 
 > California passed the California Consumer Privacy Act in 2018 requiring companies to give users certain privacy rights.
 
-### c_007 — attributed, single source
-**Subject entities:** TeamSnap; Jen King
-**Predicate:** requested
-**Object:** personal information including name, birth date, gender, email, phone (data_request)
-**Temporal:** 2025-10
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** TeamSnap; Jen King
+- **Predicate:** requested
+- **Object:** personal information including name, birth date, gender, email, phone (data_request)
+- **Temporal:** 2025-10
+- **Sources:** src_001
 
 > TeamSnap requested Jen King's name, date of birth, gender, email address, and phone number.
 
-### c_008 — confirmed, primary document
-**Subject entities:** Federal law
-**Predicate:** requires
-**Object:** parental consent for data collection from children under 13 (regulation)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Federal law
+- **Predicate:** requires
+- **Object:** parental consent for data collection from children under 13 (regulation)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Federal law requires companies to get parental consent before knowingly collecting or selling data from children 12 and under.
 
-### c_009 — reported, single source
-**Subject entities:** children 13 and older
-**Predicate:** treated
-**Object:** like adult information (regulatory_status)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** children 13 and older
+- **Predicate:** treated
+- **Object:** like adult information (regulatory_status)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Once a child turns 13, their data is generally treated much like an adult's information.
 
-### c_010 — confirmed, primary document
-**Subject entities:** California privacy law
-**Predicate:** requires
-**Object:** consent for data collection from users under 16 (regulation)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** California privacy law
+- **Predicate:** requires
+- **Object:** consent for data collection from users under 16 (regulation)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > California law requires certain large for-profit companies to get consent to collect data from anyone under 16.
 
-### c_011 — reported, single source
-**Subject entities:** California Labor Federation
-**Predicate:** supports
-**Object:** AB 1159 (policy_position)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** California Labor Federation
+- **Predicate:** supports
+- **Object:** AB 1159 (policy_position)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > California Labor Federation supports Assembly Bill 1159.
 
-### c_012 — reported, single source
-**Subject entities:** California Chamber of Commerce
-**Predicate:** opposes
-**Object:** AB 1159 (policy_position)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** California Chamber of Commerce
+- **Predicate:** opposes
+- **Object:** AB 1159 (policy_position)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > California Chamber of Commerce opposes Assembly Bill 1159.
 
-### c_013 — reported, single source
-**Subject entities:** TechNet
-**Predicate:** opposes
-**Object:** AB 1159 (policy_position)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_013
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** TechNet
+- **Predicate:** opposes
+- **Object:** AB 1159 (policy_position)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > TechNet opposes Assembly Bill 1159.
 
-### c_014 — confirmed, primary document
-**Subject entities:** California Attorney General; Illuminate
-**Predicate:** settled
-**Object:** $5.1 million settlement for privacy violations (settlement)
-**Temporal:** 2025-11
-**Source IDs:** src_001
+### c_014
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** California Attorney General; Illuminate
+- **Predicate:** settled
+- **Object:** $5.1 million settlement for privacy violations (settlement)
+- **Temporal:** 2025-11
+- **Sources:** src_001
 
 > California Attorney General Rob Bonta's office reached a $5.1 million settlement against Illuminate for education technology privacy violations in November 2025.
 
-### c_015 — confirmed, primary document
-**Subject entities:** Illuminate
-**Predicate:** exposed
-**Object:** sensitive information from 434,000+ students (security_incident)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_015
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Illuminate
+- **Predicate:** exposed
+- **Object:** sensitive information from 434,000+ students (security_incident)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Illuminate's data breach exposed sensitive information from over 434,000 California students.
 
-### c_016 — confirmed, primary document
-**Subject entities:** California; education privacy enforcement
-**Predicate:** first_successful
-**Object:** enforcement action against company violating 2014 law (legal_precedent)
-**Temporal:** 2025-11
-**Source IDs:** src_001
+### c_016
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** California; education privacy enforcement
+- **Predicate:** first_successful
+- **Object:** enforcement action against company violating 2014 law (legal_precedent)
+- **Temporal:** 2025-11
+- **Sources:** src_001
 
 > The November settlement was the first time California successfully went after a company for violating the state's 2014 education privacy law.
 
-### c_017 — reported, single source
-**Subject entities:** AB 1159
-**Predicate:** contains
-**Object:** private right of action for students and parents to sue (policy_provision)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_017
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** AB 1159
+- **Predicate:** contains
+- **Object:** private right of action for students and parents to sue (policy_provision)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Assembly Bill 1159 contains a provision giving students and parents the right to sue tech companies in certain cases for privacy violations.
 
-### c_018 — attributed, single source
-**Subject entities:** Jen King
-**Predicate:** struggled
-**Object:** account deletion required email to company (user_experience)
-**Temporal:** 2026-02
-**Source IDs:** src_001
+### c_018
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jen King
+- **Predicate:** struggled
+- **Object:** account deletion required email to company (user_experience)
+- **Temporal:** 2026-02
+- **Sources:** src_001
 
 > Jen King said she struggled to figure out how to delete her TeamSnap account, eventually discovering she needed to send an email to the company.
 
-### c_019 — reported, single source
-**Subject entities:** California Chamber of Commerce; TechNet
-**Predicate:** spent
-**Object:** $8 million on campaign donations and political activities (political_spending)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_019
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** California Chamber of Commerce; TechNet
+- **Predicate:** spent
+- **Object:** $8 million on campaign donations and political activities (political_spending)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > In 2024, the California Chamber of Commerce and TechNet combined spent nearly $8 million on campaign donations and other political activities directed toward California legislators.
 
@@ -322,7 +360,3 @@ Human review: not_triggered. License: CC0.
 **Access date:** 2026-02-20
 **Title:** Modern parenting means apps for sports, school and more. Where is the data going?
 **URL:** https://apnews.com/article/privacy-california-schools-jen-king-information-technology-be07b64c179c401d85114cb8d5d0d2cb
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -18,41 +18,39 @@ primary_themes:
 - benefit compilations
 - humanitarian aid
 topic_tags:
-  - "armed conflict"
-  - "arts, culture, entertainment and media"
-  - "conflict, war and peace"
-  - "music"
+- music
+- armed conflict
+- non-governmental organisation
+- arts and entertainment
 storyline_nexus:
-  - russia-ukraine-war
-geographic_location: United Kingdom
+- gaza-israel-war
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
-  intensity: 0.85
-- value: informed_citizenship
-  intensity: 0.55
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:45:04Z'
+  intensity: 0.9
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:39:08Z'
 source_cluster_id: cluster_ap_2026-03-06_war-child-benefit-album-help2-e325733de5
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 19
   hedges:
-    appears: 0
     alleged: 0
-    attributed: 7
-    reported: 0
-    contested: 0
     confirmed: 12
+    appears: 0
+    contested: 0
+    reported: 0
+    attributed: 7
   corroboration:
+    primary_document: 0
     primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
-    primary_document: 0
-    single_source: 19
     two_independent: 0
+    single_source: 19
 sources:
   count: 1
   outlets:
@@ -69,6 +67,17 @@ figures_aggregate:
 cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- War Child UK looks to ‘Help’ again with a new benefit album, 30 years after its first success
+- War Child UK looks to ‘Help’ again with a new benefit album, 30 years after its first success
+- Jarvis Cocker’s connection to War Child UK stretches back to 1996, when his band Pulp donated the financial windfall from winning the prestigious Mercury Prize to the charity.
+- So when James Ford — who produced Pulp’s first new album in 24 years, “More,” last year — approached Cocker about contributing a song to a War Child UK compilation, he jumped at the chance.
+- Part of that success on the energetic track came from the unusual recording process at Abbey Road Studios in London, Cocker said.
+- Graham Hastings of the Scottish band Young Fathers said it was a “no-brainer” to get involved with the “Help(2)” compilation.
 
 Thirty years after its first benefit album demonstrated popular music's capacity to raise large-scale charitable support for children in conflict zones, War Child UK is repeating the model amid what several participating artists describe as a more acute global crisis.
 
@@ -114,174 +123,212 @@ The original 1995 "Help" album included unreleased songs from Oasis, Blur, and R
 
 ## Atomic claims
 
-### c_001 — confirmed, single source
-**Subject entities:** War Child UK; Help(2)
-**Predicate:** releases
-**Object:** Help(2) compilation album (release_event)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** War Child UK; Help(2)
+- **Predicate:** releases
+- **Object:** Help(2) compilation album (release_event)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > War Child UK will release 'Help(2)' on Friday, March 6, 2026.
 
-### c_002 — confirmed, single source
-**Subject entities:** Help(2); Arctic Monkeys; Olivia Rodrigo; Wet Leg; Pulp
-**Predicate:** features
-**Object:** unreleased songs (album_content)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Help(2); Arctic Monkeys; Olivia Rodrigo; Wet Leg; Pulp
+- **Predicate:** features
+- **Object:** unreleased songs (album_content)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > 'Help(2)' features unreleased songs from Arctic Monkeys, Olivia Rodrigo, Wet Leg, and Pulp.
 
-### c_003 — confirmed, single source
-**Subject entities:** Help(2); War Child UK
-**Predicate:** raises_funds_for
-**Object:** children in Ukraine, Gaza, Sudan (charitable_purpose)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Help(2); War Child UK
+- **Predicate:** raises_funds_for
+- **Object:** children in Ukraine, Gaza, Sudan (charitable_purpose)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > 'Help(2)' will raise funds for children affected by conflict in Ukraine, Gaza, and Sudan.
 
-### c_004 — confirmed, single source
-**Subject entities:** War Child UK; Help
-**Predicate:** charted
-**Object:** No. 1 (chart_position)
-**Temporal:** 1995
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** War Child UK; Help
+- **Predicate:** charted
+- **Object:** No. 1 (chart_position)
+- **Temporal:** 1995
+- **Sources:** src_001
 
 > War Child UK's 1995 album 'Help' reached No. 1 on the British charts.
 
-### c_005 — confirmed, single source
-**Subject entities:** War Child UK; Help
-**Predicate:** raised
-**Object:** more than £1.25 million (fundraising_total)
-**Temporal:** 1995
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** War Child UK; Help
+- **Predicate:** raised
+- **Object:** more than £1.25 million (fundraising_total)
+- **Temporal:** 1995
+- **Sources:** src_001
 
 > The 1995 'Help' album raised more than £1.25 million (about $1.938 million) for War Child UK's support to children in war-torn Bosnia.
 
-### c_006 — confirmed, single source
-**Subject entities:** Help; Oasis; Blur; Radiohead; Paul McCartney; Paul Weller
-**Predicate:** included
-**Object:** unreleased songs from Britpop artists and a supergroup (album_content)
-**Temporal:** 1995
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Help; Oasis; Blur; Radiohead; Paul McCartney; Paul Weller
+- **Predicate:** included
+- **Object:** unreleased songs from Britpop artists and a supergroup (album_content)
+- **Temporal:** 1995
+- **Sources:** src_001
 
 > The 1995 'Help' album included unreleased songs from Oasis, Blur, and Radiohead, as well as a supergroup featuring Paul McCartney and Paul Weller.
 
-### c_007 — confirmed, single source
-**Subject entities:** Rich Clarke; War Child UK
-**Predicate:** holds_role
-**Object:** head of music (title)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Rich Clarke; War Child UK
+- **Predicate:** holds_role
+- **Object:** head of music (title)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > Rich Clarke is War Child UK's head of music.
 
-### c_008 — attributed, single source
-**Subject entities:** Rich Clarke; War Child UK
-**Predicate:** said
-**Object:** charity had sought to recreate the original's success (statement)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Rich Clarke; War Child UK
+- **Predicate:** said
+- **Object:** charity had sought to recreate the original's success (statement)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > Clarke said the charity had been looking to recreate the success of the original 'Help' ever since it debuted.
 
-### c_009 — attributed, single source
-**Subject entities:** Jarvis Cocker; Pulp; War Child UK; Mercury Prize
-**Predicate:** donated
-**Object:** Mercury Prize winnings (donation)
-**Temporal:** 1996
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jarvis Cocker; Pulp; War Child UK; Mercury Prize
+- **Predicate:** donated
+- **Object:** Mercury Prize winnings (donation)
+- **Temporal:** 1996
+- **Sources:** src_001
 
 > Jarvis Cocker's band Pulp donated the financial windfall from winning the Mercury Prize in 1996 to War Child UK.
 
-### c_010 — attributed, single source
-**Subject entities:** Jarvis Cocker; Pulp; Begging for Change; Help(2)
-**Predicate:** contributes
-**Object:** Begging for Change (song)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jarvis Cocker; Pulp; Begging for Change; Help(2)
+- **Predicate:** contributes
+- **Object:** Begging for Change (song)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > Pulp's contribution to 'Help(2)' is 'Begging for Change,' a song Cocker said he started approximately 14 years ago.
 
-### c_011 — attributed, single source
-**Subject entities:** James Ford; Jarvis Cocker; Pulp; War Child UK
-**Predicate:** approached
-**Object:** request to contribute a track (event)
-**Temporal:** 2026-03
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** James Ford; Jarvis Cocker; Pulp; War Child UK
+- **Predicate:** approached
+- **Object:** request to contribute a track (event)
+- **Temporal:** 2026-03
+- **Sources:** src_001
 
 > Producer James Ford, who produced Pulp's 2025 album 'More,' approached Cocker about contributing a track to the War Child UK compilation.
 
-### c_012 — attributed, single source
-**Subject entities:** Jarvis Cocker; Abbey Road Studios; Jonathan Glazer
-**Predicate:** filmed
-**Object:** documentary of recording session by children (documentary)
-**Temporal:** 2026-03
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jarvis Cocker; Abbey Road Studios; Jonathan Glazer
+- **Predicate:** filmed
+- **Object:** documentary of recording session by children (documentary)
+- **Temporal:** 2026-03
+- **Sources:** src_001
 
 > The recording of 'Begging for Change' at Abbey Road Studios in London was filmed by children working on a documentary with director Jonathan Glazer.
 
-### c_013 — attributed, single source
-**Subject entities:** Jarvis Cocker; Begging for Change
-**Predicate:** said
-**Object:** children formed choir on the song (statement)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jarvis Cocker; Begging for Change
+- **Predicate:** said
+- **Object:** children formed choir on the song (statement)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > Cocker said some of the children formed a choir that appears on 'Begging for Change.'
 
-### c_014 — attributed, single source
-**Subject entities:** Jarvis Cocker
-**Predicate:** said
-**Object:** roughly 20% of children in poor areas now vs 10% at time of original album (statement)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jarvis Cocker
+- **Predicate:** said
+- **Object:** roughly 20% of children in poor areas now vs 10% at time of original album (statement)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > Cocker said approximately 20% of the world's children now live in poor areas, compared with about 10% when the original 'Help' was released.
 
-### c_015 — confirmed, single source
-**Subject entities:** Black Country, New Road; Help(2)
-**Predicate:** contributes
-**Object:** Strangers (song)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_015
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Black Country, New Road; Help(2)
+- **Predicate:** contributes
+- **Object:** Strangers (song)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > The British band Black Country, New Road contributed a song titled 'Strangers' to 'Help(2)' and has previously held fundraisers for Palestinian children.
 
-### c_016 — confirmed, single source
-**Subject entities:** Georgia Ellery; Black Country, New Road
-**Predicate:** holds_role
-**Object:** violinist (title)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_016
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Georgia Ellery; Black Country, New Road
+- **Predicate:** holds_role
+- **Object:** violinist (title)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > Georgia Ellery is violinist of Black Country, New Road.
 
-### c_017 — confirmed, single source
-**Subject entities:** Graham Hastings; Young Fathers
-**Predicate:** member_of
-**Object:** Young Fathers (band)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_017
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Graham Hastings; Young Fathers
+- **Predicate:** member_of
+- **Object:** Young Fathers (band)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > Graham Hastings is a member of the Scottish band Young Fathers.
 
-### c_018 — confirmed, single source
-**Subject entities:** John Nolan; Taking Back Sunday; Straylight Run
-**Predicate:** member_of
-**Object:** Taking Back Sunday and Straylight Run (bands)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_018
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** John Nolan; Taking Back Sunday; Straylight Run
+- **Predicate:** member_of
+- **Object:** Taking Back Sunday and Straylight Run (bands)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > John Nolan is guitarist and singer in the rock bands Taking Back Sunday and Straylight Run.
 
-### c_019 — confirmed, single source
-**Subject entities:** John Nolan; Music for Everyone Vol. 2; American Civil Liberties Union
-**Predicate:** released
-**Object:** Music for Everyone, Vol. 2 (compilation_album)
-**Temporal:** 2025-11
-**Source IDs:** src_001
+### c_019
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** John Nolan; Music for Everyone Vol. 2; American Civil Liberties Union
+- **Predicate:** released
+- **Object:** Music for Everyone, Vol. 2 (compilation_album)
+- **Temporal:** 2025-11
+- **Sources:** src_001
 
 > John Nolan released a benefit compilation called 'Music for Everyone, Vol. 2' in November as a fundraiser for the American Civil Liberties Union.
 
@@ -290,10 +337,5 @@ The original 1995 "Help" album included unreleased songs from Oasis, Blur, and R
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Glenn Gamboa
 **Publication date:** 2026-03-05
-**Access date:** 2026-05-17
-**Title:** War Child UK's 'Help(2)' benefit album arrives with Arctic Monkeys, Olivia Rodrigo and Pulp
+**Title:** War Child UK’s 'Help(2)' benefit album arrives with Arctic Monkeys, Olivia Rodrigo and Pulp
 **URL:** https://apnews.com/article/war-child-benefit-album-help2-e325733de5af6550553e9830b247b394
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

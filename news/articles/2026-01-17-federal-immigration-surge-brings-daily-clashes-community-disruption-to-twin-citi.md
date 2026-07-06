@@ -22,46 +22,41 @@ primary_themes:
 - community disruption
 - civil liberties
 topic_tags:
-  - crime
-  - "crime, law and justice"
-  - education
-  - government
-  - "government policy"
-  - "human interest"
+- civil unrest
+- law enforcement
+- human migration
+- government policy
 storyline_nexus:
-  - immigration-enforcement
-  - iran-war
-geographic_location: Minneapolis–St. Paul, Minnesota
+- us-immigration-enforcement
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
   intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.85
-- value: informed_citizenship
-  intensity: 0.8
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:02:21Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:06:58Z'
 source_cluster_id: cluster_ap_2026-01-18_minneapolis-immigration-crackdown-protes
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 13
   hedges:
-    appears: 0
     alleged: 0
     attributed: 11
+    appears: 0
+    confirmed: 0
     reported: 2
     contested: 0
-    confirmed: 0
   corroboration:
     primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 0
     single_source: 13
+    one_originating_plus_primary_document: 0
     two_independent: 0
+    primary_document: 0
 sources:
   count: 1
   outlets:
@@ -79,41 +74,18 @@ image:
   url: /articles/2026-01-17-federal-immigration-surge-brings-daily-clashes-community-disruption-to-twin-citi.png
   alt: 'Illustration accompanying article: Federal immigration surge brings daily clashes, community disruption to Twin Cities'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-14-minneapolis-sees-second-federal-shooting-as-courts-governor-push-back-on-immigra
-  relation: continues
-  strength: 0.8659
-  confidence: high
-- slug: 2026-01-11-federal-agents-ram-minneapolis-door-pepper-spray-protesters-in-immigration-sweep
-  relation: continues
-  strength: 0.8724
-  confidence: high
-- slug: 2026-01-10-thousands-march-across-us-after-ice-shootings-in-minneapolis-portland
-  relation: related
-  strength: 0.8715
-  confidence: medium
-- slug: 2026-01-12-minnesota-twin-cities-sue-trump-administration-over-fatal-ice-shooting
-  relation: continues
-  strength: 0.8293
-  confidence: high
-- slug: 2026-01-07-dhs-deploys-2-000-agents-to-minnesota-in-largest-immigration-operation
-  relation: continues
-  strength: 0.8587
-  confidence: high
-- slug: 2026-01-08-ice-killing-of-minneapolis-woman-deepens-minnesota-s-conflict-with-trump
-  relation: continues
-  strength: 0.8486
-  confidence: high
-- slug: 2026-01-13-federal-agents-deploy-tear-gas-in-minneapolis-as-five-prosecutors-resign-over-re
-  relation: continues
-  strength: 0.8162
-  confidence: high
-- slug: 2026-01-08-minneapolis-protests-erupt-over-ice-killing-of-renee-good-as-portland-shooting-d
-  relation: continues
-  strength: 0.8275
-  confidence: high
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Summary point 1.
+- Summary point 2.
+- Summary point 3.
+- Summary point 4.
 
 MINNEAPOLIS — More than 2,000 federal officers are carrying out Operation Metro Surge, the Trump administration's largest immigration enforcement action yet, in and around Minneapolis and St. Paul, producing daily confrontations between agents and protesters that have become routine since an Immigration and Customs Enforcement officer shot and killed Renee Good, a 37-year-old American citizen and mother of three, on Jan. 7.
 
@@ -167,120 +139,146 @@ They left behind a man with a mangled rear fender. Long after the officers were 
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Operation Metro Surge
-**Predicate:** involves
-**Object:** more than 2,000 federal officers (count)
-**Temporal:** 2026-01-17
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Operation Metro Surge
+- **Predicate:** involves
+- **Object:** more than 2,000 federal officers (count)
+- **Temporal:** 2026-01-17
+- **Sources:** src_001
 
 > Operation Metro Surge involves more than 2,000 federal officers operating in and around Minneapolis and St. Paul.
 
-### c_002 — attributed, single source
-**Subject entities:** Renee Good
-**Predicate:** killed_by
-**Object:** ICE officer (actor)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Renee Good
+- **Predicate:** killed_by
+- **Object:** ICE officer (actor)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Renee Good, a 37-year-old American citizen, was shot and killed by an ICE officer on Jan. 7 during an enforcement operation.
 
-### c_003 — attributed, single source
-**Subject entities:** Renee Good
-**Predicate:** was_doing
-**Object:** stopping to help neighbors (action)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Renee Good
+- **Predicate:** was_doing
+- **Object:** stopping to help neighbors (action)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Good stopped to help neighbors during an enforcement operation before the confrontation in which she was shot.
 
-### c_004 — attributed, single source
-**Subject entities:** federal officials
-**Predicate:** stated
-**Object:** officer fired in self-defense (claim)
-**Temporal:** 2026-01-17
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** federal officials
+- **Predicate:** stated
+- **Object:** officer fired in self-defense (claim)
+- **Temporal:** 2026-01-17
+- **Sources:** src_001
 
 > Federal officials say the officer who shot Good fired in self-defense after Good 'weaponized' her vehicle.
 
-### c_005 — attributed, single source
-**Subject entities:** Minneapolis city officials; Minnesota state officials
-**Predicate:** disputed
-**Object:** federal self-defense account (claim)
-**Temporal:** 2026-01-17
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Minneapolis city officials; Minnesota state officials
+- **Predicate:** disputed
+- **Object:** federal self-defense account (claim)
+- **Temporal:** 2026-01-17
+- **Sources:** src_001
 
 > City and state officials have disputed the federal self-defense account and pointed to multiple bystander videos of the confrontation.
 
-### c_006 — attributed, single source
-**Subject entities:** Renee Good; George Floyd
-**Predicate:** location_proximity
-**Object:** same neighborhood (location)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Renee Good; George Floyd
+- **Predicate:** location_proximity
+- **Object:** same neighborhood (location)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Good was killed just blocks from where George Floyd was murdered by a Minneapolis police officer nearly six years earlier.
 
-### c_007 — attributed, single source
-**Subject entities:** Jacob Frey
-**Predicate:** stated
-**Object:** 600 police officers (count)
-**Temporal:** 2026-01-17
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jacob Frey
+- **Predicate:** stated
+- **Object:** 600 police officers (count)
+- **Temporal:** 2026-01-17
+- **Sources:** src_001
 
 > Minneapolis Mayor Jacob Frey said the city has just 600 police officers.
 
-### c_008 — attributed, single source
-**Subject entities:** Twin Cities
-**Predicate:** has_population
-**Object:** more than 3 million (population)
-**Temporal:** 2026-01-17
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Twin Cities
+- **Predicate:** has_population
+- **Object:** more than 3 million (population)
+- **Temporal:** 2026-01-17
+- **Sources:** src_001
 
 > The Twin Cities metro area is home to more than 3 million people.
 
-### c_009 — attributed, single source
-**Subject entities:** federal immigration officers
-**Predicate:** deployed_force
-**Object:** tear gas, flash grenades, pepper spray (action)
-**Temporal:** 2026-01-17
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** federal immigration officers
+- **Predicate:** deployed_force
+- **Object:** tear gas, flash grenades, pepper spray (action)
+- **Temporal:** 2026-01-17
+- **Sources:** src_001
 
 > Federal officers have fired tear gas and flash grenades to disperse protesters and have broken car windows and pepper-sprayed protesters.
 
-### c_010 — reported, single source
-**Subject entities:** Twin Cities residents; Twin Cities businesses
-**Predicate:** disrupted_by
-**Object:** Operation Metro Surge (actor)
-**Temporal:** 2026-01-17
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Twin Cities residents; Twin Cities businesses
+- **Predicate:** disrupted_by
+- **Object:** Operation Metro Surge (actor)
+- **Temporal:** 2026-01-17
+- **Sources:** src_001
 
 > Children are skipping school or learning remotely, and businesses in immigrant neighborhoods have closed temporarily.
 
-### c_011 — attributed, single source
-**Subject entities:** Open Market MN; Colin Anderson
-**Predicate:** assembled
-**Object:** food packs for more than 100 families (action)
-**Temporal:** 2026-01-17
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Open Market MN; Colin Anderson
+- **Predicate:** assembled
+- **Object:** food packs for more than 100 families (action)
+- **Temporal:** 2026-01-17
+- **Sources:** src_001
 
 > Open Market MN assembled food packs for more than 100 families staying home because of the enforcement operation.
 
-### c_012 — attributed, single source
-**Subject entities:** Tim Walz
-**Predicate:** urged
-**Object:** peaceful response and community support (action)
-**Temporal:** 2026-01-17
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Tim Walz
+- **Predicate:** urged
+- **Object:** peaceful response and community support (action)
+- **Temporal:** 2026-01-17
+- **Sources:** src_001
 
 > Gov. Tim Walz urged residents to remain peaceful and find ways to support their communities.
 
-### c_013 — reported, single source
-**Subject entities:** Christian Molina
-**Predicate:** was_stopped_by
-**Object:** ICE officers (actor)
-**Temporal:** 2026-01-17
-**Source IDs:** src_001
+### c_013
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Christian Molina
+- **Predicate:** was_stopped_by
+- **Object:** ICE officers (actor)
+- **Temporal:** 2026-01-17
+- **Sources:** src_001
 
 > Christian Molina, from suburban Coon Rapids, was followed by ICE officers who struck his rear bumper and demanded his immigration papers.
 
@@ -289,10 +287,5 @@ They left behind a man with a mangled rear fender. Long after the officers were 
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Tim Sullivan
 **Publication date:** 2026-01-17
-**Access date:** 2026-01-17
 **Title:** Tension and chaos take hold during Trump's Minneapolis-area immigration crackdown
 **URL:** https://apnews.com/article/minneapolis-immigration-crackdown-protests-96888fbbf2b5939aa7abdc0380773e46
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

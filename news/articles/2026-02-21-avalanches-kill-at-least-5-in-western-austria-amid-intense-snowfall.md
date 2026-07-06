@@ -94,8 +94,6 @@ Dozens of mountain-rescue team members, ambulance and fire department staffers, 
 
 The regional office said conditions are expected to remain hazardous through Sunday.
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
 ### c_001 — reported, single source
@@ -231,7 +229,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-05-18
 **Title:** Winter storm watch: Avalanches claim five lives in Tyrol, Austria
 **URL:** https://apnews.com/article/austria-avalanche-snow-tyrol-ski-snowboard-deaths-7ba17966e5a29a3df5a6aeaeb84c9bbe
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

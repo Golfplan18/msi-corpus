@@ -17,7 +17,8 @@ topic_tags:
   - "crime, law and justice"
   - law
   - prosecution
-storyline_nexus: []
+storyline_nexus:
+- trump-judicial-challenges
 geographic_location: Georgia, United States
 floor_values_engaged:
 - value: accountability_of_power
@@ -94,111 +95,135 @@ Durand said she plans to share more about her experience in her newsletter, now 
 
 ## Atomic claims
 
-### c_001 — alleged, single source
-**Subject entities:** Patty Durand
-**Predicate:** was_arrested_for
-**Object:** allegedly stealing notebook labeled 'Georgia Power Trade Secrets' (criminal_arrest)
-**Temporal:** 2025-10-21
-**Source IDs:** src_001
+### c_001
+- **Hedge:** alleged
+- **Corroboration:** single_source
+- **Subject entities:** Patty Durand
+- **Predicate:** was_arrested_for
+- **Object:** allegedly stealing notebook labeled 'Georgia Power Trade Secrets' (criminal_arrest)
+- **Temporal:** 2025-10-21
+- **Sources:** src_001
 
 > Patty Durand was arrested for allegedly stealing a notebook labeled 'Georgia Power Trade Secrets.'
 
-### c_002 — confirmed, primary document
-**Subject entities:** Patty Durand; surveillance footage
-**Predicate:** shows
-**Object:** grabbing notebook, flipping through pages, placing in purse (observed_action)
-**Temporal:** 2025-10-21
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Patty Durand; surveillance footage
+- **Predicate:** shows
+- **Object:** grabbing notebook, flipping through pages, placing in purse (observed_action)
+- **Temporal:** 2025-10-21
+- **Sources:** src_001
 
 > Surveillance footage from Oct. 21, 2025 shows Durand grabbing the notebook, flipping through it, and placing it in her purse.
 
-### c_003 — confirmed, single source
-**Subject entities:** Patty Durand
-**Predicate:** returned
-**Object:** notebook to law enforcement (action)
-**Temporal:** 2025-10-21
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Patty Durand
+- **Predicate:** returned
+- **Object:** notebook to law enforcement (action)
+- **Temporal:** 2025-10-21
+- **Sources:** src_001
 
 > Durand voluntarily returned the notebook to law enforcement the same day.
 
-### c_004 — attributed, single source
-**Subject entities:** Patty Durand
-**Predicate:** spent
-**Object:** almost two days in jail (detention_duration)
-**Temporal:** 2025-10-21
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Patty Durand
+- **Predicate:** spent
+- **Object:** almost two days in jail (detention_duration)
+- **Temporal:** 2025-10-21
+- **Sources:** src_001
 
 > Durand spent almost two days in jail.
 
-### c_005 — confirmed, primary document
-**Subject entities:** Fani Willis; Patty Durand
-**Predicate:** determined
-**Object:** insufficient evidence to prosecute for felony trade secrets theft (court_decision)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Fani Willis; Patty Durand
+- **Predicate:** determined
+- **Object:** insufficient evidence to prosecute for felony trade secrets theft (court_decision)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > District Attorney Fani Willis determined there was insufficient evidence to prosecute Durand for the felony trade secrets theft charge.
 
-### c_006 — confirmed, single source
-**Subject entities:** Patty Durand
-**Predicate:** would_have_faced
-**Object:** 1-5 years imprisonment and up to $50,000 fine (potential_sentence)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Patty Durand
+- **Predicate:** would_have_faced
+- **Object:** 1-5 years imprisonment and up to $50,000 fine (potential_sentence)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > If prosecuted, Durand would have faced between one and five years in prison and a fine of up to $50,000.
 
-### c_007 — attributed, single source
-**Subject entities:** prosecutors; Patty Durand
-**Predicate:** cited
-**Object:** 40 hours community service and theft awareness class (mitigating_factors)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** prosecutors; Patty Durand
+- **Predicate:** cited
+- **Object:** 40 hours community service and theft awareness class (mitigating_factors)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Prosecutors cited Durand's completion of 40 hours of community service and a theft awareness class in their decision not to prosecute.
 
-### c_008 — attributed, single source
-**Subject entities:** Patty Durand; Georgia Power
-**Predicate:** criticizes
-**Object:** Georgia Power's practices and policies (advocacy_position)
-**Temporal:** ongoing
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Patty Durand; Georgia Power
+- **Predicate:** criticizes
+- **Object:** Georgia Power's practices and policies (advocacy_position)
+- **Temporal:** ongoing
+- **Sources:** src_001
 
 > Durand is an advocate and frequent critic of Georgia Power.
 
-### c_009 — attributed, single source
-**Subject entities:** Patty Durand; Georgia Public Service Commission; voters
-**Predicate:** said
-**Object:** voters tired of monopoly exploitation and abuse (attributed_statement)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Patty Durand; Georgia Public Service Commission; voters
+- **Predicate:** said
+- **Object:** voters tired of monopoly exploitation and abuse (attributed_statement)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Durand attributes recent Democratic victories in Georgia Public Service Commission elections to voter dissatisfaction with what she characterizes as the utility's 'monopoly exploitation and abuse.'
 
-### c_010 — confirmed, single source
-**Subject entities:** Georgia Public Service Commission; Georgia Power
-**Predicate:** regulates
-**Object:** rates and approves new power plants and transmission lines (regulatory_authority)
-**Temporal:** ongoing
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Georgia Public Service Commission; Georgia Power
+- **Predicate:** regulates
+- **Object:** rates and approves new power plants and transmission lines (regulatory_authority)
+- **Temporal:** ongoing
+- **Sources:** src_001
 
 > The Georgia Public Service Commission regulates Georgia Power's rates and must approve new power plants and transmission lines.
 
-### c_011 — attributed, single source
-**Subject entities:** Georgia Power
-**Predicate:** stated
-**Object:** releasing information would compromise business (company_statement)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Georgia Power
+- **Predicate:** stated
+- **Object:** releasing information would compromise business (company_statement)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Georgia Power stated it was cooperating with law enforcement and that releasing certain information publicly would compromise its business.
 
-### c_012 — attributed, single source
-**Subject entities:** Patty Durand
-**Predicate:** said
-**Object:** plans to share experience in newsletter and is 'unmuzzled' (statement_of_intent)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Patty Durand
+- **Predicate:** said
+- **Object:** plans to share experience in newsletter and is 'unmuzzled' (statement_of_intent)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Durand said she plans to share more about her experience in her newsletter and that she is now 'unmuzzled.'
 
@@ -210,7 +235,3 @@ Durand said she plans to share more about her experience in her newsletter, now 
 **Access date:** 2026-05-18
 **Title:** Georgia Power critic Patty Durand won't face charges over trade secrets
 **URL:** https://apnews.com/article/patty-durand-georgia-power-arrest-05a4bc982fe0d87fca61b99a797494b1
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

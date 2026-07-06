@@ -19,7 +19,8 @@ primary_themes:
 - federal health data
 topic_tags:
   - health
-storyline_nexus: []
+storyline_nexus:
+- trump-health-policy-rfk
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -118,129 +119,157 @@ The Trump administration also canceled roughly 2,000 federal grants this week in
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** US drug overdose deaths
-**Predicate:** estimated_count
-**Object:** 73000 (death_count)
-**Temporal:** 2025-08
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** US drug overdose deaths
+- **Predicate:** estimated_count
+- **Object:** 73000 (death_count)
+- **Temporal:** 2025-08
+- **Sources:** src_001
 
 > An estimated 73,000 people died from drug overdoses in the 12-month period ending August 2025.
 
-### c_002 — confirmed, primary document
-**Subject entities:** US drug overdose deaths
-**Predicate:** declined_by
-**Object:** 21% (percentage_change)
-**Temporal:** 2025-08
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** US drug overdose deaths
+- **Predicate:** declined_by
+- **Object:** 21% (percentage_change)
+- **Temporal:** 2025-08
+- **Sources:** src_001
 
 > The 12-month figure ending August 2025 represents a decline of about 21 percent from the 92,000 deaths in the prior 12-month period.
 
-### c_003 — attributed, single source
-**Subject entities:** US drug overdose deaths; Centers for Disease Control and Prevention
-**Predicate:** reported_trend
-**Object:** longest_decline_in_decades (trend_assessment)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** US drug overdose deaths; Centers for Disease Control and Prevention
+- **Predicate:** reported_trend
+- **Object:** longest_decline_in_decades (trend_assessment)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Overdose deaths have been falling for more than two years, which the CDC described as the longest drop in decades.
 
-### c_004 — confirmed, primary document
-**Subject entities:** US drug overdose deaths
-**Predicate:** peaked_at
-**Object:** 110000 (death_count)
-**Temporal:** 2022
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** US drug overdose deaths
+- **Predicate:** peaked_at
+- **Object:** 110000 (death_count)
+- **Temporal:** 2022
+- **Sources:** src_001
 
 > Overdose deaths peaked at nearly 110,000 in 2022.
 
-### c_005 — confirmed, primary document
-**Subject entities:** US drug overdose deaths
-**Predicate:** declined_by
-**Object:** 27% (percentage_change)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** US drug overdose deaths
+- **Predicate:** declined_by
+- **Object:** 27% (percentage_change)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > Deaths fell about 27 percent in 2024 to around 80,000, described as the largest one-year decline ever recorded.
 
-### c_006 — attributed, single source
-**Subject entities:** Centers for Disease Control and Prevention; US drug overdose deaths
-**Predicate:** geographic_distribution
-**Object:** 45_states_declining_5_rising (geographic_count)
-**Temporal:** 2025-08
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Centers for Disease Control and Prevention; US drug overdose deaths
+- **Predicate:** geographic_distribution
+- **Object:** 45_states_declining_5_rising (geographic_count)
+- **Temporal:** 2025-08
+- **Sources:** src_001
 
 > The CDC reported overdose deaths fell in 45 states; deaths rose in Arizona, Hawaii, Kansas, New Mexico, and North Dakota.
 
-### c_007 — attributed, single source
-**Subject entities:** Centers for Disease Control and Prevention
-**Predicate:** cautioned
-**Object:** incomplete_state_reporting (data_caveat)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Centers for Disease Control and Prevention
+- **Predicate:** cautioned
+- **Object:** incomplete_state_reporting (data_caveat)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > The CDC noted it is likely not all overdose deaths have been reported in every state, and additional future data might affect the state count.
 
-### c_008 — attributed, single source
-**Subject entities:** Brandon Marshall; Brown University
-**Predicate:** said
-**Object:** encouraging_trend (expert_assessment)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Brandon Marshall; Brown University
+- **Predicate:** said
+- **Object:** encouraging_trend (expert_assessment)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Brandon Marshall, a Brown University researcher, said the trend 'continues to be encouraging, especially since we're seeing declines almost across the nation.'
 
-### c_009 — reported, single source
-**Subject entities:** University of Maryland; China; fentanyl precursors
-**Predicate:** published_finding
-**Object:** china_precursor_regulation_theory (research_finding)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** University of Maryland; China; fentanyl precursors
+- **Predicate:** published_finding
+- **Object:** china_precursor_regulation_theory (research_finding)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > University of Maryland researchers published a paper in the journal Science arguing that regulatory changes in China appear to have diminished the availability of precursor chemicals used to make fentanyl.
 
-### c_010 — reported, single source
-**Subject entities:** University of Pittsburgh; pandemic stimulus payments; overdose deaths
-**Predicate:** published_finding
-**Object:** stimulus_payment_correlation_theory (research_finding)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** University of Pittsburgh; pandemic stimulus payments; overdose deaths
+- **Predicate:** published_finding
+- **Object:** stimulus_payment_correlation_theory (research_finding)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > University of Pittsburgh researchers published a paper in the International Journal of Drug Policy arguing that pandemic-era federal stimulus payments contributed to overdose death trends.
 
-### c_011 — attributed, single source
-**Subject entities:** Peter Reuter; University of Maryland
-**Predicate:** said
-**Object:** speculative_case_acknowledged (expert_statement)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Peter Reuter; University of Maryland
+- **Predicate:** said
+- **Object:** speculative_case_acknowledged (expert_statement)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Peter Reuter, a University of Maryland researcher and co-author of the China-precursor paper, said 'we thought we could make a case.'
 
-### c_012 — attributed, single source
-**Subject entities:** Daniel Ciccarone; University of California San Francisco
-**Predicate:** said
-**Object:** partial_merit_acknowledged (expert_assessment)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Daniel Ciccarone; University of California San Francisco
+- **Predicate:** said
+- **Object:** partial_merit_acknowledged (expert_assessment)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Dr. Daniel Ciccarone, a drug policy expert at the University of California, San Francisco, said both arguments seem to have merit.
 
-### c_013 — reported, single source
-**Subject entities:** Donald Trump
-**Predicate:** canceled
-**Object:** 2000_federal_grants (policy_action)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_013
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** canceled
+- **Object:** 2000_federal_grants (policy_action)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > The Trump administration canceled roughly 2,000 federal grants in a move expected to jeopardize programs providing mental health and drug treatment and prevention services.
 
-### c_014 — reported, single source
-**Subject entities:** Donald Trump; China; fentanyl precursors
-**Predicate:** speculated_risk
-**Object:** tariff_precursor_easing_risk (policy_risk_assessment)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_014
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; China; fentanyl precursors
+- **Predicate:** speculated_risk
+- **Object:** tariff_precursor_easing_risk (policy_risk_assessment)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Researchers noted that U.S. tariffs on Chinese imports have strained U.S.-China relations and speculated China might ease efforts to police fentanyl precursors.
 
@@ -252,7 +281,3 @@ The Trump administration also canceled roughly 2,000 federal grants this week in
 **Access date:** 2026-01-15
 **Title:** US overdose deaths slowly declined in 2025, data shows
 **URL:** https://apnews.com/article/overdose-deaths-cdc-fentanyl-8e3a42544f57eea6a9af3be541178a4d
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

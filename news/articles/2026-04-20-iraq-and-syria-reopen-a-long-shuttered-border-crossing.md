@@ -21,8 +21,7 @@ topic_tags:
   - "economy, business and finance"
   - "international relations"
   - "international trade"
-storyline_nexus:
-  - iran-war
+storyline_nexus: []
 geographic_location: Iraq-Syria border
 floor_values_engaged:
 - value: informed_citizenship
@@ -223,7 +222,3 @@ However, overland transport through the border crossing faces substantial limita
 **Access date:** 2026-05-17
 **Title:** Iraq and Syria reopen a long-shuttered border crossing
 **URL:** https://apnews.com/article/iraq-syria-border-crossing-4fa0f36b5cd3ffe82bb17d992f1c07bb
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

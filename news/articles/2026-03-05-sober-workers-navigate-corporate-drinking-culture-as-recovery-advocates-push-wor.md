@@ -258,7 +258,3 @@ The responsibility for making those events inclusive belongs with organizers, no
 **Access date:** 2026-05-17
 **Title:** Strategies for staying sober in a job that encourages social drinking
 **URL:** https://apnews.com/article/staying-sober-work-corporate-drinking-culture-e75b23dbe5ecd225f8b61276100cb94b
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

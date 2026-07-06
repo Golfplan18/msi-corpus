@@ -102,8 +102,6 @@ Beverly Ochieng, a senior analyst with the consultancy Control Risks, cautioned 
 
 The government did not specify when rationing would begin, though officials suggested the timing was intended to head off public discontent before Ramadan, the Muslim holy month, begins in a few weeks.
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under sources. Specification at /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
 ### c_001 — confirmed, single source
@@ -222,7 +220,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-01-24
 **Title:** Mali introduces fuel rationing as al-Qaida-linked attacks cause shortages
 **URL:** https://apnews.com/article/mali-alqaida-attacks-fuel-crisis-58de63f87003e03a577fbdcefbe2f64b
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

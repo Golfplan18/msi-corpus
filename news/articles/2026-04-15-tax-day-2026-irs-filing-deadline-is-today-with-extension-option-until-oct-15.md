@@ -13,35 +13,39 @@ primary_themes:
 - IRS deadlines
 - personal finance
 - consumer guidance
-topic_tags: []
-storyline_nexus: []
+topic_tags:
+- tax
+- government policy
+- economy, business and finance
+storyline_nexus:
+- trump-tariff-wars
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship
-  intensity: 0.85
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T08:16:03Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:41:58Z'
 source_cluster_id: cluster_ap_2026-04-16_tax-day-irs-deadline-extension-355317fc5
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 10
   hedges:
-    appears: 0
     alleged: 0
-    attributed: 1
-    reported: 0
     contested: 0
+    attributed: 1
+    appears: 0
     confirmed: 9
+    reported: 0
   corroboration:
     primary_plus_secondary: 0
+    two_independent: 0
     one_originating_plus_primary_document: 0
     primary_document: 9
     single_source: 1
-    two_independent: 0
 sources:
   count: 1
   outlets:
@@ -55,13 +59,20 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-08-irs-sets-jan-26-start-for-2026-tax-season-despite-26-workforce-cut
-  relation: related
-  strength: 0.8034
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Tax procrastinators, this is how to seek an extension and some other tips at the IRS deadline
+- Tax procrastinators, this is how to seek an extension and some other tips at the IRS deadline
+- NEW YORK (AP) — It’s officially Tax Day in the U.S. And if you’ve waited till the last minute to file your 2025 return, don’t panic. You still have time to get it done.
+- If you’re worried that you still might not be able to finish your taxes in time, you also can file for an extension, which will give you until Oct. 15 to file.
+- Here’s what you need to know about Wednesday’s deadline — and a few tips to keep in mind.
+- Tax procrastinators, this is how to seek an extension and some other tips at the IRS deadline. AP correspondent Julie Walker reports.
 
 Wednesday, April 15, is the federal tax filing deadline for 2025 returns in the United States, and taxpayers who cannot finish in time have until midnight to request a six-month extension that pushes the filing due date to Oct. 15, the Internal Revenue Service said. The extension grants extra time to file — not extra time to pay. Filers who owe taxes must still submit an estimated payment by Wednesday to avoid penalties and interest, the IRS said.
 
@@ -103,93 +114,113 @@ Filers with unresolved tax disputes can also access low-income taxpayer clinics 
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** IRS
-**Predicate:** filing_deadline
-**Object:** 2026-04-15 (date)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** IRS
+- **Predicate:** filing_deadline
+- **Object:** 2026-04-15 (date)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > April 15, 2026 is the federal income tax filing deadline for 2025 returns.
 
-### c_002 — confirmed, primary document
-**Subject entities:** IRS
-**Predicate:** extension_deadline
-**Object:** 2026-10-15 (date)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** IRS
+- **Predicate:** extension_deadline
+- **Object:** 2026-10-15 (date)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Taxpayers who file for an extension by April 15 receive until Oct. 15, 2026 to submit their 2025 return.
 
-### c_003 — confirmed, primary document
-**Subject entities:** IRS
-**Predicate:** payment_deadline_unchanged
-**Object:** 2026-04-15 (date)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** IRS
+- **Predicate:** payment_deadline_unchanged
+- **Object:** 2026-04-15 (date)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > A filing extension does not extend the deadline to pay taxes owed; filers who owe must submit an estimated payment by April 15 to avoid penalties and interest.
 
-### c_004 — confirmed, primary document
-**Subject entities:** IRS
-**Predicate:** extension_filing_methods
-**Object:** tax software, IRS Free File, mail (enumeration)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** IRS
+- **Predicate:** extension_filing_methods
+- **Object:** tax software, IRS Free File, mail (enumeration)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Extensions can be filed using tax software, the IRS Free File tool, or by mail.
 
-### c_005 — confirmed, primary document
-**Subject entities:** IRS; military members; overseas taxpayers
-**Predicate:** automatic_extension_until
-**Object:** 2026-06-15 (date)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** IRS; military members; overseas taxpayers
+- **Predicate:** automatic_extension_until
+- **Object:** 2026-06-15 (date)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Military members and U.S. taxpayers living and working outside the country receive an automatic two-month extension to June 15; most payment obligations remain due April 15.
 
-### c_006 — confirmed, primary document
-**Subject entities:** IRS; IRS Free File
-**Predicate:** income_eligibility_threshold
-**Object:** 89000 (income_usd)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** IRS; IRS Free File
+- **Predicate:** income_eligibility_threshold
+- **Object:** 89000 (income_usd)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > IRS Free File provides free guided tax preparation for filers who earned $89,000 or less in 2025.
 
-### c_007 — confirmed, primary document
-**Subject entities:** IRS; VITA
-**Predicate:** eligibility_criteria
-**Object:** $69,000 or less annually, disability, limited English proficiency (enumeration)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** IRS; VITA
+- **Predicate:** eligibility_criteria
+- **Object:** $69,000 or less annually, disability, limited English proficiency (enumeration)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > The Volunteer Income Tax Assistance program offers free filing help to people who earn $69,000 or less annually, those with disabilities, and those with limited English proficiency.
 
-### c_008 — confirmed, primary document
-**Subject entities:** IRS; TCE
-**Predicate:** eligibility_criteria
-**Object:** age 60 or older (criterion)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** IRS; TCE
+- **Predicate:** eligibility_criteria
+- **Object:** age 60 or older (criterion)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > The IRS Tax Counseling for the Elderly program offers free help to filers aged 60 and older.
 
-### c_009 — attributed, single source
-**Subject entities:** Tom O'Saben; National Association of Tax Professionals
-**Predicate:** stated
-**Object:** check online accounts for digital tax statements (advisory)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Tom O'Saben; National Association of Tax Professionals
+- **Predicate:** stated
+- **Object:** check online accounts for digital tax statements (advisory)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Tom O'Saben, director of tax content and government relations at the National Association of Tax Professionals, said filers who opted out of paper mail should check online accounts for tax documents.
 
-### c_010 — confirmed, primary document
-**Subject entities:** IRS; low-income taxpayer clinics
-**Predicate:** services_available
-**Object:** multilingual tax dispute clinics (resource)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** IRS; low-income taxpayer clinics
+- **Predicate:** services_available
+- **Object:** multilingual tax dispute clinics (resource)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Filers with unresolved tax problems can access clinics around the country that offer services in multiple languages including Spanish, Chinese, and Vietnamese.
 
@@ -198,10 +229,5 @@ Filers with unresolved tax disputes can also access low-income taxpayer clinics 
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Cora Lewis
 **Publication date:** 2026-04-15
-**Access date:** 2026-04-15
 **Title:** Tax procrastinators, this is how to seek an extension and some other tips at the IRS deadline
 **URL:** https://apnews.com/article/tax-day-irs-deadline-extension-355317fc55ebb297a3997201dbfabb26
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

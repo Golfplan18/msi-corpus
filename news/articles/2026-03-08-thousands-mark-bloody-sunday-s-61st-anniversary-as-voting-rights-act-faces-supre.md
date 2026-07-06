@@ -1,6 +1,5 @@
 ---
 headline: Thousands mark Bloody Sunday's 61st anniversary as Voting Rights Act faces Supreme Court test
-slug: 2026-03-08-bloody-sunday-61st-anniversary-selma-voting-rights-act-faces-supreme-court-test
 publish_date: '2026-03-08'
 lede: Thousands gathered in Selma, Alabama, on Sunday to mark the 61st anniversary of Bloody Sunday, the March 7, 1965, attack on civil rights marchers that helped spur passage of the Voting Rights Act. The commemoration drew Democratic governors, civil rights leaders, and survivors of the original march to the Edmund Pettus Bridge as the U.S. Supreme Court prepares to rule on a case that could limit a core provision of the landmark law.
 nut_graf: Justices are expected to rule soon on a Louisiana redistricting case that could restrict the Voting Rights Act's requirement that some congressional and local districts be drawn to give minority voters a chance to elect their candidates of choice — a decision speakers said could allow Republican-controlled states to roll back Black and Latino representation in Congress.
@@ -20,45 +19,41 @@ primary_themes:
 - Supreme Court
 - Bloody Sunday anniversary
 topic_tags:
-  - "crime, law and justice"
-  - education
-  - "education policy"
-  - government
-  - "law enforcement"
-  - trial
-storyline_nexus: []
-geographic_location: Selma, Alabama
+- civil rights
+- fundamental rights
+- judiciary
+- government policy
+- political process
+storyline_nexus:
+- redistricting-voting-rights
+geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.9
 - value: equality_fairness
   intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.8
-- value: human_life_and_dignity
-  intensity: 0.75
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:43:35Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T01:08:16Z'
 source_cluster_id: cluster_ap_2026-03-09_alabama-selma-bloody-sunday-anniversary-
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 13
   hedges:
+    contested: 0
     appears: 0
     alleged: 0
     attributed: 6
     reported: 1
-    contested: 0
     confirmed: 6
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 5
     single_source: 8
+    primary_plus_secondary: 0
+    primary_document: 5
+    one_originating_plus_primary_document: 0
     two_independent: 0
 sources:
   count: 1
@@ -73,25 +68,19 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-12-trump-s-redistricting-push-reaches-a-crossroads-as-new-legislative-sessions-begi
-  relation: related
-  strength: 0.7487
-  confidence: medium
-- slug: 2026-01-07-desantis-calls-april-special-session-to-redraw-florida-s-congressional-districts
-  relation: related
-  strength: 0.7226
-  confidence: medium
-- slug: 2026-01-07-trump-redistricting-push-spreads-to-one-third-of-states-giving-gop-a-three-seat-
-  relation: related
-  strength: 0.7219
-  confidence: medium
-- slug: 2026-01-11-trump-allied-lawsuits-could-reshape-who-counts-in-the-2030-census
-  relation: related
-  strength: 0.7091
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Justices are expected to rule soon on a Louisiana redistricting case that could restrict the Voting Rights Act's requirement that some congressional and local districts be drawn to give minority voter…
+- "I'm concerned that all of the advances that we made for the last 61 years are going to be eradicated," said Charles Mauldin, 78, who was among the marchers beaten on the original Bloody Sunday. Mauld…
+- "It wasn't that we didn't have fear, it's that we chose courage over fear," Mauldin said.
+- "Years after Bloody Sunday, the progress that stemmed from that sacrifice is now being rolled back right in our faces," Moore said. "We are choosing this fight because those who marched across the Edm…
+- Illinois Gov. JB Pritzker, speaking at a rally at the foot of the bridge, said racism is on the rise in America.
 
 Justices are expected to rule soon on a Louisiana redistricting case that could restrict the Voting Rights Act's requirement that some congressional and local districts be drawn to give minority voters a chance to elect their candidates of choice — a decision speakers said could allow Republican-controlled states to roll back Black and Latino representation in Congress.
 
@@ -135,120 +124,146 @@ A crowd of several thousand filed behind elected officials for the march across 
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Selma, Alabama
-**Predicate:** hosted_commemoration
-**Object:** 61st anniversary of Bloody Sunday (event)
-**Temporal:** 2026-03-08
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Selma, Alabama
+- **Predicate:** hosted_commemoration
+- **Object:** 61st anniversary of Bloody Sunday (event)
+- **Temporal:** 2026-03-08
+- **Sources:** src_001
 
 > Thousands gathered in Selma, Alabama, on March 8, 2026, to mark the 61st anniversary of Bloody Sunday.
 
-### c_002 — confirmed, primary document
-**Subject entities:** Edmund Pettus Bridge; Selma, Alabama
-**Predicate:** site_of_attack
-**Object:** 1965-03-07 (historical_event)
-**Temporal:** 1965-03-07
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Edmund Pettus Bridge; Selma, Alabama
+- **Predicate:** site_of_attack
+- **Object:** 1965-03-07 (historical_event)
+- **Temporal:** 1965-03-07
+- **Sources:** src_001
 
 > On March 7, 1965, state troopers attacked civil rights marchers on the Edmund Pettus Bridge in Selma in an event that became known as Bloody Sunday.
 
-### c_003 — attributed, primary document
-**Subject entities:** Voting Rights Act
-**Predicate:** caused_by
-**Object:** Bloody Sunday attack (causal_claim)
-**Temporal:** 1965
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Voting Rights Act
+- **Predicate:** caused_by
+- **Object:** Bloody Sunday attack (causal_claim)
+- **Temporal:** 1965
+- **Sources:** src_001
 
 > The 1965 Bloody Sunday violence helped spur passage of the Voting Rights Act.
 
-### c_004 — confirmed, primary document
-**Subject entities:** Supreme Court of the United States
-**Predicate:** considering_case
-**Object:** Louisiana redistricting case (legal_proceeding)
-**Temporal:** 2026-03-08
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Supreme Court of the United States
+- **Predicate:** considering_case
+- **Object:** Louisiana redistricting case (legal_proceeding)
+- **Temporal:** 2026-03-08
+- **Sources:** src_001
 
 > The U.S. Supreme Court is considering a Louisiana case about the role of race in drawing congressional districts.
 
-### c_005 — reported, single source
-**Subject entities:** Supreme Court of the United States
-**Predicate:** potential_consequence
-**Object:** rollback of minority-majority districts (legal_consequence)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Supreme Court of the United States
+- **Predicate:** potential_consequence
+- **Object:** rollback of minority-majority districts (legal_consequence)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > A ruling prohibiting or limiting race's role in redistricting could allow Republican-controlled states to roll back majority Black and Latino congressional districts.
 
-### c_006 — attributed, single source
-**Subject entities:** Wes Moore
-**Predicate:** stated
-**Object:** progress being rolled back (quote)
-**Temporal:** 2026-03-08
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Wes Moore
+- **Predicate:** stated
+- **Object:** progress being rolled back (quote)
+- **Temporal:** 2026-03-08
+- **Sources:** src_001
 
 > Maryland Gov. Wes Moore said that progress from Bloody Sunday "is now being rolled back right in our faces."
 
-### c_007 — attributed, single source
-**Subject entities:** Wes Moore
-**Predicate:** holds_distinction
-**Object:** only Black governor (political_status)
-**Temporal:** 2026-03-08
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Wes Moore
+- **Predicate:** holds_distinction
+- **Object:** only Black governor (political_status)
+- **Temporal:** 2026-03-08
+- **Sources:** src_001
 
 > Wes Moore is the nation's only Black governor currently in office.
 
-### c_008 — attributed, single source
-**Subject entities:** JB Pritzker
-**Predicate:** stated
-**Object:** racism is on the rise (quote)
-**Temporal:** 2026-03-08
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** JB Pritzker
+- **Predicate:** stated
+- **Object:** racism is on the rise (quote)
+- **Temporal:** 2026-03-08
+- **Sources:** src_001
 
 > Illinois Gov. JB Pritzker said racism is on the rise in America.
 
-### c_009 — attributed, single source
-**Subject entities:** Charles Mauldin
-**Predicate:** participated_in
-**Object:** Bloody Sunday march (historical_event)
-**Temporal:** 1965-03-07
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Charles Mauldin
+- **Predicate:** participated_in
+- **Object:** Bloody Sunday march (historical_event)
+- **Temporal:** 1965-03-07
+- **Sources:** src_001
 
 > Charles Mauldin, 78, was one of the marchers beaten on Bloody Sunday, then 17 years old.
 
-### c_010 — confirmed, single source
-**Subject entities:** Jesse Jackson
-**Predicate:** died
-**Object:** age 84 (biographical)
-**Temporal:** 2026-02-17
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Jesse Jackson
+- **Predicate:** died
+- **Object:** age 84 (biographical)
+- **Temporal:** 2026-02-17
+- **Sources:** src_001
 
 > The Rev. Jesse Jackson, civil rights leader and two-time presidential candidate, died on Feb. 17, 2026, at age 84.
 
-### c_011 — confirmed, single source
-**Subject entities:** Shomari Figures
-**Predicate:** elected_to
-**Object:** redrawn Alabama congressional district (election_result)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_011
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Shomari Figures
+- **Predicate:** elected_to
+- **Object:** redrawn Alabama congressional district (election_result)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > U.S. Rep. Shomari Figures won election in 2024 to an Alabama congressional district redrawn by a federal court to give Black voters a greater voice.
 
-### c_012 — confirmed, primary document
-**Subject entities:** John Lewis; Hosea Williams
-**Predicate:** led
-**Object:** Bloody Sunday march (historical_event)
-**Temporal:** 1965-03-07
-**Source IDs:** src_001
+### c_012
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** John Lewis; Hosea Williams
+- **Predicate:** led
+- **Object:** Bloody Sunday march (historical_event)
+- **Temporal:** 1965-03-07
+- **Sources:** src_001
 
 > John Lewis and Hosea Williams led the original 1965 Bloody Sunday march across the Edmund Pettus Bridge.
 
-### c_013 — attributed, single source
-**Subject entities:** James Reynolds
-**Predicate:** worked_with
-**Object:** Student Nonviolent Coordinating Committee (organization)
-**Temporal:** 1965
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** James Reynolds
+- **Predicate:** worked_with
+- **Object:** Student Nonviolent Coordinating Committee (organization)
+- **Temporal:** 1965
+- **Sources:** src_001
 
 > James Reynolds, 79, worked with the Student Nonviolent Coordinating Committee helping to set up demonstrations in Selma as a high school student.
 
@@ -257,10 +272,5 @@ A crowd of several thousand filed behind elected officials for the march across 
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Kim Chandler
 **Publication date:** 2026-03-08
-**Access date:** 2026-05-17
 **Title:** Decades after violence in Selma spurred the Voting Rights Act, organizers worry about its fate
 **URL:** https://apnews.com/article/alabama-selma-bloody-sunday-anniversary-fced6bc2794576b8ed20b3ef1223155e
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -18,39 +18,42 @@ primary_themes:
 - rehabilitation
 - incarceration
 topic_tags:
-  - "crime, law and justice"
-storyline_nexus: []
-geographic_location: California, United States
+- crime, law and justice
+- government policy
+- demographics
+storyline_nexus:
+- aca-medicaid-healthcare-crisis
+geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.85
-- value: human_life_and_dignity
-  intensity: 0.75
 - value: accountability_of_power
+  intensity: 0.9
+- value: informed_citizenship
   intensity: 0.6
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T06:58:02Z'
+- value: equality_fairness
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:12:27Z'
 source_cluster_id: cluster_ap_2026-01-13_general-news-crime-california-prisons-3f
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 10
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 9
-    reported: 1
-    contested: 0
     confirmed: 0
+    appears: 0
+    attributed: 9
+    alleged: 0
+    contested: 0
+    reported: 1
   corroboration:
-    primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
     primary_document: 0
-    single_source: 10
     two_independent: 0
+    primary_plus_secondary: 0
+    single_source: 10
 sources:
   count: 1
   outlets:
@@ -71,6 +74,17 @@ image:
 cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Many California prisoners get a second chance. A declining parole rate shows that’s no guarantee
+- Thousands of prisoners in California go before the Board of Parole Hearings each year in hopes of a chance at freedom. It’s a daunting situation that deals in high stakes for all involved.
+- By incentivizing rehabilitative programming, substance abuse treatment and higher education, the system now aspires to help offenders work productively toward personal growth and self-improvement.
+- About 19,000 prisoners are 55 or older, according to the state budget proposal Gov. Gavin Newsom released this month.
+- “I am so sure that this is it because that’s all I hear about from people who are getting denied — restitution, restitution, restitution.”
+- CalMatters data reporter Jeremia Kimelman contributed to this story.
 
 California's Board of Parole Hearings approved fewer than one in four incarcerated people who appeared before it in 2025, a sharp decline from a 39% approval rate in 2018, according to a CalMatters analysis distributed by the Associated Press on Wednesday. The drop came even as the state expanded parole eligibility and increased annual hearings from 5,226 in 2018 to a peak of 9,017 in 2022, settling at roughly 8,000 annually by 2023.
 
@@ -118,104 +132,119 @@ The annual number of parole hearings remains well above its 2018 level, and Cali
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** California Board of Parole Hearings
-**Predicate:** grant_rate_declined
-**Object:** 39% to below 25% (percentage_range)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** California Board of Parole Hearings
+- **Predicate:** grant_rate_declined
+- **Object:** 39% to below 25% (percentage_range)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > California's parole suitability rate fell from 39% in 2018 to roughly 35% for 2019–2021 to below 25% in 2025.
 
-### c_002 — attributed, single source
-**Subject entities:** California Board of Parole Hearings
-**Predicate:** hearing_volume_changed
-**Object:** 5226 to 9017 to ~8000 (count_series)
-**Temporal:** 2018–2023
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** California Board of Parole Hearings
+- **Predicate:** hearing_volume_changed
+- **Object:** 5226 to 9017 to ~8000 (count_series)
+- **Temporal:** 2018–2023
+- **Sources:** src_001
 
 > Annual parole hearings in California rose from 5,226 in 2018 to 9,017 in 2022, then plateaued at about 8,000 in 2023 and remained there.
 
-### c_003 — attributed, single source
-**Subject entities:** California Department of Corrections and Rehabilitation
-**Predicate:** population_declined
-**Object:** 128000 to ~90000 (count_range)
-**Temporal:** 2018–2026
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** California Department of Corrections and Rehabilitation
+- **Predicate:** population_declined
+- **Object:** 128000 to ~90000 (count_range)
+- **Temporal:** 2018–2026
+- **Sources:** src_001
 
 > California's prison population dropped from 128,000 in 2018 to approximately 90,000 as of early 2026.
 
-### c_004 — attributed, single source
-**Subject entities:** California Board of Parole Hearings
-**Predicate:** recidivism_rate_reported
-**Object:** <3% total, <1% violent (percentage)
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** California Board of Parole Hearings
+- **Predicate:** recidivism_rate_reported
+- **Object:** <3% total, <1% violent (percentage)
+- **Sources:** src_001
 
 > Fewer than 3% of paroled California prisoners reoffend; fewer than 1% return for crimes involving violence against another person.
 
-### c_005 — attributed, single source
-**Subject entities:** Gavin Newsom; California Department of Corrections and Rehabilitation
-**Predicate:** reported_prisoner_age_count
-**Object:** 19000 (count)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Gavin Newsom; California Department of Corrections and Rehabilitation
+- **Predicate:** reported_prisoner_age_count
+- **Object:** 19000 (count)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > About 19,000 California prisoners are 55 or older, according to Gov. Gavin Newsom's state budget proposal released in January 2026.
 
-### c_006 — attributed, single source
-**Subject entities:** Lilli Paratore; UnCommon Law
-**Predicate:** demographic_shift_reported
-**Object:** 19% to 32% (percentage_change)
-**Temporal:** 2013–2025
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Lilli Paratore; UnCommon Law
+- **Predicate:** demographic_shift_reported
+- **Object:** 19% to 32% (percentage_change)
+- **Temporal:** 2013–2025
+- **Sources:** src_001
 
 > In 2013, 19% of California parole hearings involved people aged 60 or older; by the time of reporting, that share had risen to 32%, said Lilli Paratore of UnCommon Law.
 
-### c_007 — reported, single source
-**Subject entities:** California Department of Corrections and Rehabilitation
-**Predicate:** implemented_tablet_program
-**Object:** 2021 (date)
-**Temporal:** 2021
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** California Department of Corrections and Rehabilitation
+- **Predicate:** implemented_tablet_program
+- **Object:** 2021 (date)
+- **Temporal:** 2021
+- **Sources:** src_001
 
 > California began providing free electronic tablets to its incarcerated population in 2021, enabling digital monitoring of phone calls and text messages.
 
-### c_008 — attributed, single source
-**Subject entities:** Vanessa Nelson-Sloane; Life Support Alliance
-**Predicate:** attributed_statement
-**Object:** restitution avoidance as primary explanatory factor (opinion)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Vanessa Nelson-Sloane; Life Support Alliance
+- **Predicate:** attributed_statement
+- **Object:** restitution avoidance as primary explanatory factor (opinion)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Vanessa Nelson-Sloane, director of Life Support Alliance, said restitution avoidance is the primary factor she can identify to explain the decline in parole grant rates.
 
-### c_009 — attributed, single source
-**Subject entities:** Jennifer Shaffer; California Board of Parole Hearings
-**Predicate:** attributed_statement
-**Object:** tailored programming required for sex offenders (opinion)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jennifer Shaffer; California Board of Parole Hearings
+- **Predicate:** attributed_statement
+- **Object:** tailored programming required for sex offenders (opinion)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Jennifer Shaffer, former executive officer of the California Board of Parole Hearings, said successful rehabilitative programming for sex offenders must be tailored to the specific nature of each offense.
 
-### c_010 — attributed, single source
-**Subject entities:** Lilli Paratore; UnCommon Law; California Board of Parole Hearings
-**Predicate:** attributed_statement
-**Object:** information scope expanded beyond violence-risk relevance (opinion)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Lilli Paratore; UnCommon Law; California Board of Parole Hearings
+- **Predicate:** attributed_statement
+- **Object:** information scope expanded beyond violence-risk relevance (opinion)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Lilli Paratore said the volume of information parole commissioners examine has grown without guardrails, resulting in more denials tied to information not directly related to violence risk.
 
 ## Sources
 
 ### src_001 — Associated Press, wire, Tier 1, originating
-**Author:** Joe Garcia, CalMatters
+**Author:** Joe Garcia / Calmatters
 **Publication date:** 2026-01-14
-**Access date:** 2026-01-14
-**Title:** Many California prisoners get a second chance. A declining parole rate shows that's no guarantee
+**Title:** Many California prisoners get a second chance. A declining parole rate shows that’s no guarantee
 **URL:** https://apnews.com/article/general-news-crime-california-prisons-3f2c673f647b57cd51dce4adc575faa0
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

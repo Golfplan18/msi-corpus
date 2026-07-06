@@ -25,7 +25,7 @@ topic_tags:
   - "politics"
   - "government policy"
 storyline_nexus:
-  - 2026-midterms
+- trump-judicial-challenges
 geographic_location: Colorado, United States
 floor_values_engaged:
 - value: accountability_of_power
@@ -132,165 +132,201 @@ A Polis spokesperson, Shelby Wieman, said the governor has been skeptical of Pet
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Jared Polis
-**Predicate:** signaled_clemency_consideration
-**Object:** openness to clemency for Tina Peters (policy_signal)
-**Temporal:** 2026-03-04
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jared Polis
+- **Predicate:** signaled_clemency_consideration
+- **Object:** openness to clemency for Tina Peters (policy_signal)
+- **Temporal:** 2026-03-04
+- **Sources:** src_001
 
 > Colorado Gov. Jared Polis posted on X on Tuesday signaling openness to granting clemency to Tina Peters.
 
-### c_002 — confirmed, single source
-**Subject entities:** Tina Peters
-**Predicate:** is_serving
-**Object:** nine-year prison sentence (sentence)
-**Temporal:** 2026-03-04
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Tina Peters
+- **Predicate:** is_serving
+- **Object:** nine-year prison sentence (sentence)
+- **Temporal:** 2026-03-04
+- **Sources:** src_001
 
 > Tina Peters is a former Mesa County Clerk serving a nine-year prison sentence.
 
-### c_003 — confirmed, single source
-**Subject entities:** Tina Peters
-**Predicate:** convicted_of
-**Object:** election computer system copying scheme (criminal_conviction)
-**Temporal:** 2021
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Tina Peters
+- **Predicate:** convicted_of
+- **Object:** election computer system copying scheme (criminal_conviction)
+- **Temporal:** 2021
+- **Sources:** src_001
 
 > Peters was convicted for arranging for an outside computer expert to copy images of Mesa County's election computer system before and after state officials updated it in 2021.
 
-### c_004 — reported, single source
-**Subject entities:** Tina Peters
-**Predicate:** resulted_in
-**Object:** confidential passwords posted online (outcome)
-**Temporal:** 2021
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Tina Peters
+- **Predicate:** resulted_in
+- **Object:** confidential passwords posted online (outcome)
+- **Temporal:** 2021
+- **Sources:** src_001
 
 > A photo and video of confidential voting system passwords were later posted on social media and a conservative website.
 
-### c_005 — confirmed, single source
-**Subject entities:** Tina Peters
-**Predicate:** convicted_of
-**Object:** seven criminal counts (criminal_conviction)
-**Temporal:** 2026-03-04
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Tina Peters
+- **Predicate:** convicted_of
+- **Object:** seven criminal counts (criminal_conviction)
+- **Temporal:** 2026-03-04
+- **Sources:** src_001
 
 > Peters was found guilty of three counts of attempting to influence a public servant and one count each of conspiracy to commit criminal impersonation, first-degree official misconduct, violation of duty, and failure to comply with requirements of the secretary of state.
 
-### c_006 — attributed, single source
-**Subject entities:** Jared Polis; Sonya Jaquez Lewis; Tina Peters
-**Predicate:** compared_sentencing
-**Object:** sentencing disparity comparison (comparison)
-**Temporal:** 2026-03-04
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jared Polis; Sonya Jaquez Lewis; Tina Peters
+- **Predicate:** compared_sentencing
+- **Object:** sentencing disparity comparison (comparison)
+- **Temporal:** 2026-03-04
+- **Sources:** src_001
 
 > Polis compared Peters' case to that of former state Sen. Sonya Jaquez Lewis, who was recently sentenced to probation and community service after being convicted of one of the same crimes.
 
-### c_007 — confirmed, single source
-**Subject entities:** Sonya Jaquez Lewis
-**Predicate:** convicted_of
-**Object:** four criminal counts (criminal_conviction)
-**Temporal:** 2026-03-04
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Sonya Jaquez Lewis
+- **Predicate:** convicted_of
+- **Object:** four criminal counts (criminal_conviction)
+- **Temporal:** 2026-03-04
+- **Sources:** src_001
 
 > Lewis was convicted of one count of attempting to influence a public servant and three counts of forgery.
 
-### c_008 — attributed, single source
-**Subject entities:** Donald Trump; Colorado
-**Predicate:** threatened_and_cut_funding
-**Object:** harsh measures; state funding cut (political_action)
-**Temporal:** 2026-03-04
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Colorado
+- **Predicate:** threatened_and_cut_funding
+- **Object:** harsh measures; state funding cut (political_action)
+- **Temporal:** 2026-03-04
+- **Sources:** src_001
 
 > Trump threatened 'harsh measures' against Colorado unless the state releases Peters, and his administration cut off funding to the state.
 
-### c_009 — attributed, single source
-**Subject entities:** Jared Polis
-**Predicate:** stated_clemency_conditions
-**Object:** contrition and apology required (condition)
-**Temporal:** 2026-03-04
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jared Polis
+- **Predicate:** stated_clemency_conditions
+- **Object:** contrition and apology required (condition)
+- **Temporal:** 2026-03-04
+- **Sources:** src_001
 
 > Polis told KUSA-TV that a successful clemency application would require Peters to demonstrate appropriate contrition and apology.
 
-### c_010 — reported, single source
-**Subject entities:** Tina Peters
-**Predicate:** has_not_expressed_remorse
-**Object:** no remorse expressed; actions defended (characterization)
-**Temporal:** 2026-03-04
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Tina Peters
+- **Predicate:** has_not_expressed_remorse
+- **Object:** no remorse expressed; actions defended (characterization)
+- **Temporal:** 2026-03-04
+- **Sources:** src_001
 
 > Peters has not expressed remorse for her actions and has defended them as necessary to investigate possible fraud.
 
-### c_011 — attributed, single source
-**Subject entities:** Jena Griswold; Jared Polis
-**Predicate:** criticized
-**Object:** shocking and worrisome (official_criticism)
-**Temporal:** 2026-03-04
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jena Griswold; Jared Polis
+- **Predicate:** criticized
+- **Object:** shocking and worrisome (official_criticism)
+- **Temporal:** 2026-03-04
+- **Sources:** src_001
 
 > Colorado Secretary of State Jena Griswold called Polis' comments 'shocking and worrisome.'
 
-### c_012 — attributed, single source
-**Subject entities:** Phil Weiser
-**Predicate:** stated
-**Object:** clemency criteria statement opposing political influence (official_statement)
-**Temporal:** 2026-03-04
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Phil Weiser
+- **Predicate:** stated
+- **Object:** clemency criteria statement opposing political influence (official_statement)
+- **Temporal:** 2026-03-04
+- **Sources:** src_001
 
 > Colorado Attorney General Phil Weiser said clemency should be based on remorse, rehabilitation, and extenuating circumstances, not on political influence, favor, or retribution.
 
-### c_013 — attributed, single source
-**Subject entities:** Michael Bennet; Tina Peters
-**Predicate:** opposed_clemency
-**Object:** opposition to pardon or commutation (political_statement)
-**Temporal:** 2026-03-04
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Michael Bennet; Tina Peters
+- **Predicate:** opposed_clemency
+- **Object:** opposition to pardon or commutation (political_statement)
+- **Temporal:** 2026-03-04
+- **Sources:** src_001
 
 > U.S. Sen. Michael Bennet said Peters should not be pardoned or have her sentence commuted.
 
-### c_014 — attributed, single source
-**Subject entities:** Matt Crane
-**Predicate:** warned
-**Object:** wrong-message signal on election interference (warning)
-**Temporal:** 2026-03-04
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Matt Crane
+- **Predicate:** warned
+- **Object:** wrong-message signal on election interference (warning)
+- **Temporal:** 2026-03-04
+- **Sources:** src_001
 
 > Matt Crane, executive director of the Colorado County Clerks Association, said an early release would send the wrong message before midterm elections.
 
-### c_015 — attributed, single source
-**Subject entities:** Tina Peters; John Case
-**Predicate:** hoped_for
-**Object:** sentence reduced to approximately 17 months served (legal_goal)
-**Temporal:** 2026-03-04
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Tina Peters; John Case
+- **Predicate:** hoped_for
+- **Object:** sentence reduced to approximately 17 months served (legal_goal)
+- **Temporal:** 2026-03-04
+- **Sources:** src_001
 
 > Peters' lawyers hoped the governor's comments would lead to her sentence being reduced to the nearly 17 months she has already served.
 
-### c_016 — attributed, single source
-**Subject entities:** Tina Peters
-**Predicate:** sentenced_with_findings
-**Object:** charlatan; danger to community (judicial_finding)
-**Temporal:** 2026-03-04
-**Source IDs:** src_001
+### c_016
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Tina Peters
+- **Predicate:** sentenced_with_findings
+- **Object:** charlatan; danger to community (judicial_finding)
+- **Temporal:** 2026-03-04
+- **Sources:** src_001
 
 > The sentencing judge called Peters a 'charlatan' and said she posed a danger to the community for spreading false claims about voting.
 
-### c_017 — appears, single source
-**Subject entities:** Tina Peters
-**Predicate:** appeals_court_reception
-**Object:** apparent sympathy for First Amendment argument (judicial_observation)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_017
+- **Hedge:** appears
+- **Corroboration:** single_source
+- **Subject entities:** Tina Peters
+- **Predicate:** appeals_court_reception
+- **Object:** apparent sympathy for First Amendment argument (judicial_observation)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Appeals court judges appeared sympathetic to Peters' free speech argument during oral arguments in January.
 
-### c_018 — attributed, single source
-**Subject entities:** Jared Polis; Donald Trump; Robert F. Kennedy Jr.
-**Predicate:** praised
-**Object:** DOGE concept; RFK Jr. nomination (political_statement)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_018
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jared Polis; Donald Trump; Robert F. Kennedy Jr.
+- **Predicate:** praised
+- **Object:** DOGE concept; RFK Jr. nomination (political_statement)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Polis praised the concept of the Department of Government Efficiency and the nomination of Robert F. Kennedy Jr. to lead the Department of Health and Human Services as Trump entered office.
 
@@ -302,7 +338,3 @@ A Polis spokesperson, Shelby Wieman, said the governor has been skeptical of Pet
 **Access date:** 2026-03-05
 **Title:** Colorado Gov. Jared Polis hints at giving Tina Peters clemency
 **URL:** https://apnews.com/article/tina-peters-prison-clemency-trump-polis-colorado-a7ecef3620a88fa76c19488ea3cccfdf
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

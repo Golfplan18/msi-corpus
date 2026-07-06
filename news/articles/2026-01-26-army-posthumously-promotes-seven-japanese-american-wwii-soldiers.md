@@ -21,48 +21,43 @@ primary_themes:
 - historical exclusion
 - government policy
 topic_tags:
-  - "armed conflict"
-  - "conflict, war and peace"
-  - government
-  - "government policy"
-  - politics
+- armed conflict
+- civil rights
+- discrimination
+- achievement
 storyline_nexus:
-  - immigration-enforcement
-geographic_location: Hawaii, United States
+- trump-foreign-policy-reshaping
+geographic_location: United States
 floor_values_engaged:
-- value: human_life_and_dignity
-  intensity: 0.95
-- value: truthfulness
-  intensity: 0.85
-- value: accountability_of_power
-  intensity: 0.75
 - value: equality_fairness
   intensity: 0.9
-- value: informed_citizenship
-  intensity: 0.8
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18'
+- value: accountability_of_power
+  intensity: 0.6
+- value: human_life_and_dignity
+  intensity: 0.9
+framework_version: 1.3.0
+generation_timestamp: '2026-05-22T23:59:40Z'
 source_cluster_id: cluster_ap_2026-01-27_japanese-american-soldiers-pearl-harbor-
 gdelt_event_ids: []
-consensus_floor_version: v1.0
-publication_mindspec_version: v1.0
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 25
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 2
-    reported: 5
-    contested: 0
     confirmed: 18
+    reported: 5
+    attributed: 2
+    alleged: 0
+    appears: 0
+    contested: 0
   corroboration:
-    primary_plus_secondary: 25
     one_originating_plus_primary_document: 0
-    primary_document: 0
+    primary_plus_secondary: 25
     single_source: 0
     two_independent: 0
+    primary_document: 0
 sources:
   count: 1
   outlets:
@@ -76,25 +71,18 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-04-15-bay-of-pigs-veterans-mark-65th-anniversary-with-new-little-havana-museum
-  relation: related
-  strength: 0.7875
-  confidence: medium
-- slug: 2026-04-18-black-patriots-overlooked-role-in-american-revolution-gets-new-spotlight
-  relation: related
-  strength: 0.7786
-  confidence: medium
-- slug: 2026-01-06-five-years-after-jan-6-parties-hold-rival-memorials-as-official-plaque-stays-unh
-  relation: related
-  strength: 0.7489
-  confidence: medium
-- slug: 2026-01-05-congress-mandated-jan-6-police-plaque-sits-unhung-as-fifth-anniversary-passes
-  relation: related
-  strength: 0.7441
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Seven Japanese American soldiers who were branded "enemy aliens" after Pearl Harbor were promoted to officer rank posthumously on Monday in Honolulu, more than 80 years after they died fighting for the United States in World War II.
+- The men had been University of Hawaii ROTC cadets barred from military service following Japan's attack on December 7, 1941, before joining the 442nd Regimental Combat Team, which became one of the most decorated units in U.S.
+- The ceremony honoring Daniel Betsui, Jenhatsu Chinen, Robert Murata, Grover Nagaji, Akio Nishikawa, Hiroichi Tomita and Howard Urabe occurred amid scrutiny of the Trump administration's approach to historical commemorations, following removals of exhibits documenting contributions by minority groups and women to American history.
+- White flower lei adorned framed photographs of the seven men at the rain-soaked Honolulu memorial park where family members watched in silence as officers rendered salutes.
 
 Seven Japanese American soldiers who were branded "enemy aliens" after Pearl Harbor were promoted to officer rank posthumously on Monday in Honolulu, more than 80 years after they died fighting for the United States in World War II. The men had been University of Hawaii ROTC cadets barred from military service following Japan's attack on December 7, 1941, before joining the 442nd Regimental Combat Team, which became one of the most decorated units in U.S. military history.
 
@@ -142,228 +130,278 @@ The University of Hawaii had taken its own step toward recognition in 2012, awar
 
 ## Atomic claims
 
-### c_001 — confirmed, primary plus secondary
-**Subject entities:** Daniel Betsui; Jenhatsu Chinen; Robert Murata; Grover Nagaji; Akio Nishikawa; Hiroichi Tomita; Howard Urabe
-**Predicate:** promoted
-**Object:** 2nd lieutenant (military_rank)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** Daniel Betsui; Jenhatsu Chinen; Robert Murata; Grover Nagaji; Akio Nishikawa; Hiroichi Tomita; Howard Urabe
+- **Predicate:** promoted
+- **Object:** 2nd lieutenant (military_rank)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > Seven Japanese American soldiers were promoted to 2nd lieutenant posthumously on January 26, 2026.
 
-### c_002 — confirmed, primary plus secondary
-**Subject entities:** Japanese American soldiers; U.S. government
-**Predicate:** branded
-**Object:** enemy aliens (official_designation)
-**Temporal:** 1941-12-07
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** Japanese American soldiers; U.S. government
+- **Predicate:** branded
+- **Object:** enemy aliens (official_designation)
+- **Temporal:** 1941-12-07
+- **Sources:** src_001
 
 > The seven soldiers had been branded "enemy aliens" by the U.S. government after the Pearl Harbor attack.
 
-### c_003 — confirmed, primary plus secondary
-**Subject entities:** seven soldiers; University of Hawaii
-**Predicate:** were_cadets_at
-**Object:** Reserve Officer Training Corps program (military_program)
-**Temporal:** 1941-12-07
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** seven soldiers; University of Hawaii
+- **Predicate:** were_cadets_at
+- **Object:** Reserve Officer Training Corps program (military_program)
+- **Temporal:** 1941-12-07
+- **Sources:** src_001
 
 > The soldiers were ROTC cadets at the University of Hawaii when Japan bombed Pearl Harbor.
 
-### c_004 — confirmed, primary plus secondary
-**Subject entities:** Japan
-**Predicate:** bombed
-**Object:** Pearl Harbor (location_attack)
-**Temporal:** 1941-12-07
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** Japan
+- **Predicate:** bombed
+- **Object:** Pearl Harbor (location_attack)
+- **Temporal:** 1941-12-07
+- **Sources:** src_001
 
 > Japan bombed Pearl Harbor on December 7, 1941.
 
-### c_005 — confirmed, primary plus secondary
-**Subject entities:** U.S. government; Japanese Americans
-**Predicate:** barred_from_service
-**Object:** military service (policy)
-**Temporal:** 1941-12
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** U.S. government; Japanese Americans
+- **Predicate:** barred_from_service
+- **Object:** military service (policy)
+- **Temporal:** 1941-12
+- **Sources:** src_001
 
 > After the Pearl Harbor attack, the U.S. barred most Japanese Americans from military service.
 
-### c_006 — confirmed, primary plus secondary
-**Subject entities:** seven soldiers; Hawaii Territorial Guard
-**Predicate:** served_in
-**Object:** Hawaii Territorial Guard (military_unit)
-**Temporal:** 1941-12
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** seven soldiers; Hawaii Territorial Guard
+- **Predicate:** served_in
+- **Object:** Hawaii Territorial Guard (military_unit)
+- **Temporal:** 1941-12
+- **Sources:** src_001
 
 > The seven soldiers initially served in the Hawaii Territorial Guard before being reassigned.
 
-### c_007 — confirmed, primary plus secondary
-**Subject entities:** seven soldiers; Varsity Victory Volunteers
-**Predicate:** worked_with
-**Object:** manual labor tasks (work_assignment)
-**Temporal:** 1941-1943
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** seven soldiers; Varsity Victory Volunteers
+- **Predicate:** worked_with
+- **Object:** manual labor tasks (work_assignment)
+- **Temporal:** 1941-1943
+- **Sources:** src_001
 
 > The soldiers worked with a civilian labor battalion known as the "Varsity Victory Volunteers," performing tasks such as digging ditches and breaking rocks.
 
-### c_008 — confirmed, primary plus secondary
-**Subject entities:** U.S. military leadership
-**Predicate:** announced
-**Object:** formation of segregated Japanese American regiment (military_policy)
-**Temporal:** 1943-01
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** U.S. military leadership
+- **Predicate:** announced
+- **Object:** formation of segregated Japanese American regiment (military_policy)
+- **Temporal:** 1943-01
+- **Sources:** src_001
 
 > In early 1943, American military leaders announced the formation of a segregated Japanese American regiment.
 
-### c_009 — confirmed, primary plus secondary
-**Subject entities:** seven soldiers; 442nd Regimental Combat Team
-**Predicate:** joined
-**Object:** 442nd Regimental Combat Team (military_unit)
-**Temporal:** 1943
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** seven soldiers; 442nd Regimental Combat Team
+- **Predicate:** joined
+- **Object:** 442nd Regimental Combat Team (military_unit)
+- **Temporal:** 1943
+- **Sources:** src_001
 
 > The seven soldiers joined the 442nd Regimental Combat Team.
 
-### c_010 — confirmed, primary plus secondary
-**Subject entities:** 442nd Regimental Combat Team; 100th Battalion
-**Predicate:** became
-**Object:** most decorated units in U.S. history (military_distinction)
-**Temporal:** 1944
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** 442nd Regimental Combat Team; 100th Battalion
+- **Predicate:** became
+- **Object:** most decorated units in U.S. history (military_distinction)
+- **Temporal:** 1944
+- **Sources:** src_001
 
 > The 442nd Regimental Combat Team, along with the 100th Battalion, became one of the most decorated units in U.S. military history.
 
-### c_011 — confirmed, primary plus secondary
-**Subject entities:** 442nd soldiers; relatives
-**Predicate:** fought_while_relatives_detained
-**Object:** detention in internment camps (concurrent_circumstance)
-**Temporal:** 1943-1944
-**Source IDs:** src_001
+### c_011
+- **Hedge:** confirmed
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** 442nd soldiers; relatives
+- **Predicate:** fought_while_relatives_detained
+- **Object:** detention in internment camps (concurrent_circumstance)
+- **Temporal:** 1943-1944
+- **Sources:** src_001
 
 > Some 442nd soldiers fought for the Allies while their relatives were detained in Japanese American internment camps.
 
-### c_012 — confirmed, primary plus secondary
-**Subject entities:** Daniel Betsui; Jenhatsu Chinen; Robert Murata; Grover Nagaji; Akio Nishikawa; Hiroichi Tomita; Howard Urabe
-**Predicate:** died
-**Object:** 1944 (year_of_death)
-**Temporal:** 1944
-**Source IDs:** src_001
+### c_012
+- **Hedge:** confirmed
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** Daniel Betsui; Jenhatsu Chinen; Robert Murata; Grover Nagaji; Akio Nishikawa; Hiroichi Tomita; Howard Urabe
+- **Predicate:** died
+- **Object:** 1944 (year_of_death)
+- **Temporal:** 1944
+- **Sources:** src_001
 
 > Daniel Betsui, Jenhatsu Chinen, Robert Murata, Grover Nagaji, Akio Nishikawa, Hiroichi Tomita and Howard Urabe died fighting in Europe in 1944.
 
-### c_013 — confirmed, primary plus secondary
-**Subject entities:** Betsui; Chinen; Nagaji; Nishikawa; Tomita; Urabe; Italy campaign
-**Predicate:** killed_during
-**Object:** Italian campaign (military_campaign)
-**Temporal:** 1944
-**Source IDs:** src_001
+### c_013
+- **Hedge:** confirmed
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** Betsui; Chinen; Nagaji; Nishikawa; Tomita; Urabe; Italy campaign
+- **Predicate:** killed_during
+- **Object:** Italian campaign (military_campaign)
+- **Temporal:** 1944
+- **Sources:** src_001
 
 > All but Robert Murata were killed during the campaign to liberate Italy from Nazi Germany.
 
-### c_014 — confirmed, primary plus secondary
-**Subject entities:** Robert Murata; eastern France
-**Predicate:** killed_by
-**Object:** artillery shell (cause_of_death)
-**Temporal:** 1944
-**Source IDs:** src_001
+### c_014
+- **Hedge:** confirmed
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** Robert Murata; eastern France
+- **Predicate:** killed_by
+- **Object:** artillery shell (cause_of_death)
+- **Temporal:** 1944
+- **Sources:** src_001
 
 > Robert Murata was killed by an artillery shell in eastern France.
 
-### c_015 — reported, primary plus secondary
-**Subject entities:** Todd Murata; Robert Murata
-**Predicate:** is_nephew_of
-**Object:** family relation (relationship)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_015
+- **Hedge:** reported
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** Todd Murata; Robert Murata
+- **Predicate:** is_nephew_of
+- **Object:** family relation (relationship)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Todd Murata, 65, is the nephew of Robert Murata.
 
-### c_016 — attributed, primary plus secondary
-**Subject entities:** Todd Murata
-**Predicate:** said
-**Object:** statement about honor and remembrance (statement)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_016
+- **Hedge:** attributed
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** Todd Murata
+- **Predicate:** said
+- **Object:** statement about honor and remembrance (statement)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > Todd Murata said, "It's an honor to be related to one of those people, those men, who volunteered for service. After all these years, people still remember them."
 
-### c_017 — reported, primary plus secondary
-**Subject entities:** June Harada; Howard Urabe
-**Predicate:** is_niece_of
-**Object:** family relation (relationship)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_017
+- **Hedge:** reported
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** June Harada; Howard Urabe
+- **Predicate:** is_niece_of
+- **Object:** family relation (relationship)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > June Harada is the niece of Howard Urabe.
 
-### c_018 — attributed, primary plus secondary
-**Subject entities:** June Harada; ceremony
-**Predicate:** said
-**Object:** statement about healing past injustice (statement)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_018
+- **Hedge:** attributed
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** June Harada; ceremony
+- **Predicate:** said
+- **Object:** statement about healing past injustice (statement)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > June Harada said the ceremony helps heal injustice from the past.
 
-### c_019 — confirmed, primary plus secondary
-**Subject entities:** seven soldiers; Hawaii
-**Predicate:** were_citizens_of
-**Object:** United States (citizenship)
-**Temporal:** 1898-1941
-**Source IDs:** src_001
+### c_019
+- **Hedge:** confirmed
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** seven soldiers; Hawaii
+- **Predicate:** were_citizens_of
+- **Object:** United States (citizenship)
+- **Temporal:** 1898-1941
+- **Sources:** src_001
 
 > The seven soldiers were American citizens because they were born in Hawaii after its annexation in 1898.
 
-### c_020 — reported, primary plus secondary
-**Subject entities:** Trump administration; Independence National Historical Park
-**Predicate:** removed
-**Object:** slavery exhibit (historical_content)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_020
+- **Hedge:** reported
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** Trump administration; Independence National Historical Park
+- **Predicate:** removed
+- **Object:** slavery exhibit (historical_content)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > The Trump administration has faced criticism for removing an exhibit on slavery at Philadelphia's Independence National Historical Park.
 
-### c_021 — reported, primary plus secondary
-**Subject entities:** Pentagon
-**Predicate:** said
-**Object:** pages were mistakenly taken down (statement)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_021
+- **Hedge:** reported
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** Pentagon
+- **Predicate:** said
+- **Object:** pages were mistakenly taken down (statement)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > The Pentagon said internet pages honoring a Black Medal of Honor winner and Japanese American service members were mistakenly taken down.
 
-### c_022 — reported, primary plus secondary
-**Subject entities:** Pentagon; Trump administration
-**Predicate:** defended
-**Object:** removal of women and minority contributions content (policy_defense)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_022
+- **Hedge:** reported
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** Pentagon; Trump administration
+- **Predicate:** defended
+- **Object:** removal of women and minority contributions content (policy_defense)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > The Pentagon defended its campaign to strip out content singling out contributions by women and minority groups amid Trump administration opposition to DEI initiatives.
 
-### c_023 — confirmed, primary plus secondary
-**Subject entities:** Jerrod Melander; Biden administration
-**Predicate:** launched
-**Object:** commissioning effort for promotions (administrative_action)
-**Temporal:** 2023
-**Source IDs:** src_001
+### c_023
+- **Hedge:** confirmed
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** Jerrod Melander; Biden administration
+- **Predicate:** launched
+- **Object:** commissioning effort for promotions (administrative_action)
+- **Temporal:** 2023
+- **Sources:** src_001
 
 > Lt. Col. Jerrod Melander launched the commissioning effort in 2023 during former President Joe Biden's administration.
 
-### c_024 — confirmed, primary plus secondary
-**Subject entities:** Trump administration
-**Predicate:** approved
-**Object:** posthumous promotions to 2nd lieutenant (military_action)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_024
+- **Hedge:** confirmed
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** Trump administration
+- **Predicate:** approved
+- **Object:** posthumous promotions to 2nd lieutenant (military_action)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > The promotions were approved during the Trump administration.
 
-### c_025 — confirmed, primary plus secondary
-**Subject entities:** University of Hawaii; seven soldiers
-**Predicate:** awarded
-**Object:** posthumous degrees (academic_honor)
-**Temporal:** 2012
-**Source IDs:** src_001
+### c_025
+- **Hedge:** confirmed
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** University of Hawaii; seven soldiers
+- **Predicate:** awarded
+- **Object:** posthumous degrees (academic_honor)
+- **Temporal:** 2012
+- **Sources:** src_001
 
 > The University of Hawaii awarded the men posthumous degrees in 2012.
 
@@ -372,10 +410,5 @@ The University of Hawaii had taken its own step toward recognition in 2012, awar
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Jennifer Sinco Kelleher
 **Publication date:** 2026-01-26
-**Access date:** 2026-05-17
 **Title:** Army promotes Japanese American soldiers who died for US
 **URL:** https://apnews.com/article/japanese-american-soldiers-pearl-harbor-761bc45b9a95f9b7be6ea6786ffca6cf
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

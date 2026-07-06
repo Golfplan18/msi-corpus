@@ -15,7 +15,8 @@ primary_themes:
 topic_tags:
   - "disaster, accident and emergency incident"
   - weather
-storyline_nexus: []
+storyline_nexus:
+- extreme-weather-disasters
 geographic_location: United States, Canada
 floor_values_engaged:
 - value: informed_citizenship
@@ -80,69 +81,81 @@ A comparable geomagnetic event in November delivered visible auroras across a mu
 
 Dahl said the current storm is not expected to become much weaker until sometime Tuesday. The intensity represents a notable event by scientific standards, with no comparable storm recorded in the past two decades. Residents of northern regions who experience clear skies Monday night will have a rare opportunity to view the display with minimal light pollution in rural areas.
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
-### c_001 — reported, primary document
-**Subject entities:** Aurora borealis
-**Predicate:** forecast_visible_across
-**Object:** Canada and northern tier of U.S. states, possibly farther south (geographic_region)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Aurora borealis
+- **Predicate:** forecast_visible_across
+- **Object:** Canada and northern tier of U.S. states, possibly farther south (geographic_region)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > The aurora could be visible across Canada and much of the northern tier of U.S. states, and possibly farther south, on Monday night.
 
-### c_002 — reported, primary document
-**Subject entities:** Earth magnetic field
-**Predicate:** experiencing_disturbance
-**Object:** major disturbance (atmospheric_phenomenon)
-**Temporal:** 2026-01-19
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Earth magnetic field
+- **Predicate:** experiencing_disturbance
+- **Object:** major disturbance (atmospheric_phenomenon)
+- **Temporal:** 2026-01-19
+- **Sources:** src_001
 
 > A major disturbance in Earth's magnetic field is causing the aurora forecast.
 
-### c_003 — attributed, primary document
-**Subject entities:** geomagnetic storm; solar radiation storm
-**Predicate:** is_unprecedented_intensity_in
-**Object:** more than two decades (time_period)
-**Temporal:** 2026-01-19
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** geomagnetic storm; solar radiation storm
+- **Predicate:** is_unprecedented_intensity_in
+- **Object:** more than two decades (time_period)
+- **Temporal:** 2026-01-19
+- **Sources:** src_001
 
 > The intensity of the current geomagnetic and solar radiation storm has not been seen in more than two decades.
 
-### c_004 — reported, primary document
-**Subject entities:** geomagnetic storms
-**Predicate:** can_interfere_with
-**Object:** satellite operations, GPS communications, infrastructure (critical_systems)
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** geomagnetic storms
+- **Predicate:** can_interfere_with
+- **Object:** satellite operations, GPS communications, infrastructure (critical_systems)
+- **Sources:** src_001
 
 > Geomagnetic storms can interfere with satellite operations, GPS communications and other infrastructure.
 
-### c_005 — attributed, primary document
-**Subject entities:** geomagnetic storm
-**Predicate:** expected_duration
-**Object:** through Tuesday (time_frame)
-**Temporal:** 2026-01-19
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** geomagnetic storm
+- **Predicate:** expected_duration
+- **Object:** through Tuesday (time_frame)
+- **Temporal:** 2026-01-19
+- **Sources:** src_001
 
 > The current storm is not expected to become much weaker until sometime Tuesday.
 
-### c_006 — reported, primary document
-**Subject entities:** solar storms; Aurora borealis
-**Predicate:** brought_auroras_to
-**Object:** Hungary, United Kingdom, Kansas, Colorado, Texas (geographic_region)
-**Temporal:** 2025-11-01
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** solar storms; Aurora borealis
+- **Predicate:** brought_auroras_to
+- **Object:** Hungary, United Kingdom, Kansas, Colorado, Texas (geographic_region)
+- **Temporal:** 2025-11-01
+- **Sources:** src_001
 
 > In November, solar storms brought auroras to Hungary, the United Kingdom, Kansas, Colorado and Texas.
 
-### c_007 — attributed, primary document
-**Subject entities:** International Space Station; astronauts
-**Predicate:** are_not_at_risk_from
-**Object:** solar radiation storms (space_hazard)
-**Temporal:** 2026-01-19
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** International Space Station; astronauts
+- **Predicate:** are_not_at_risk_from
+- **Object:** solar radiation storms (space_hazard)
+- **Temporal:** 2026-01-19
+- **Sources:** src_001
 
 > Astronauts at the International Space Station currently are not at risk from solar radiation storms.
 
@@ -154,7 +167,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-05-17
 **Title:** Parts of the US could see northern lights Monday
 **URL:** https://apnews.com/article/northern-lights-geomagnetic-storm-792c985d4422261dea66427e26acab2a
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

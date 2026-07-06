@@ -16,8 +16,7 @@ primary_themes:
 topic_tags:
   - "conflict, war and peace"
   - labour
-storyline_nexus:
-  - iran-war
+storyline_nexus: []
 geographic_location: Persian Gulf / Gulf of Oman / Strait of Hormuz region
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -266,7 +265,3 @@ Al-Jubouri, with four decades of adaptation under pressure, remains. But his dim
 **Access date:** 2026-05-17
 **Title:** An Iraqi ship captain keeps sailing volatile waters despite risk of attacks
 **URL:** https://apnews.com/article/oil-tanker-iraq-hormuz-a010fadac0a724b82b4994c896e2df62
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -21,43 +21,42 @@ primary_themes:
 - partisan conflict
 - budget appropriations
 topic_tags:
-  - politics
-  - election
-  - government
-  - "conflict, war and peace"
-storyline_nexus: []
+- government policy
+- politics
+- law enforcement
+- civil rights
+storyline_nexus:
+- us-immigration-enforcement
 geographic_location: United States
 floor_values_engaged:
-- value: human_life_and_dignity
-  intensity: 0.85
 - value: accountability_of_power
-  intensity: 0.75
-- value: informed_citizenship
-  intensity: 0.7
+  intensity: 0.9
+- value: human_life_and_dignity
+  intensity: 0.9
 - value: equality_fairness
-  intensity: 0.65
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:48:59Z'
 source_cluster_id: cluster_ap_2026-01-21_homeland-security-government-funding-bil
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 15
   hedges:
-    appears: 0
-    alleged: 0
+    confirmed: 12
     attributed: 3
+    appears: 0
     reported: 0
     contested: 0
-    confirmed: 12
+    alleged: 0
   corroboration:
     primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 12
     single_source: 3
+    primary_document: 12
+    one_originating_plus_primary_document: 0
     two_independent: 0
 sources:
   count: 1
@@ -72,37 +71,19 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-04-16-new-york-to-lose-73-5m-in-federal-funds-over-unrevoked-immigrant-cdls
-  relation: related
-  strength: 0.7798
-  confidence: medium
-- slug: 2026-04-17-abbott-threatens-200-million-in-funding-cuts-to-texas-cities-over-ice-policies
-  relation: related
-  strength: 0.7711
-  confidence: medium
-- slug: 2026-01-08-house-passes-three-spending-bills-397-28-averting-jan-30-shutdown-deadline
-  relation: related
-  strength: 0.8258
-  confidence: medium
-- slug: 2026-04-16-massachusetts-5m-immigrant-legal-aid-program-at-capacity-as-removal-cases-top-12
-  relation: related
-  strength: 0.7366
-  confidence: medium
-- slug: 2026-01-13-trump-threatens-to-halt-federal-payments-to-sanctuary-cities-and-their-states
-  relation: related
-  strength: 0.776
-  confidence: medium
-- slug: 2026-01-13-wisconsin-gov-evers-questions-lieutenant-governor-s-ice-enforcement-proposal
-  relation: related
-  strength: 0.7386
-  confidence: medium
-- slug: 2026-01-07-california-loses-160m-in-federal-funds-over-delay-in-revoking-immigrant-trucking
-  relation: related
-  strength: 0.7463
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- House approves final spending bills as Democrats denounce ICE funding
+- The House passed four spending bills totaling approximately $1.2 trillion.
+- The Homeland Security spending bill passed the House 220-207.
+- The broader spending package passed the House 341-88.
+- The spending package funds a 3.8% pay raise for military personnel.
 
 The House passed approximately $1.2 trillion in spending bills in January 2026, narrowly approving Homeland Security funding on a 220-207 vote as Democratic leaders objected to provisions that would fund President Trump's mass deportation efforts. The broader spending package passed 341-88, funding a 3.8% military pay raise while keeping non-defense spending at current levels.
 
@@ -152,138 +133,168 @@ In a last-minute addition to the spending package, the House included a provisio
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** House of Representatives
-**Predicate:** passed
-**Object:** $1.2 trillion (monetary_amount)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** House of Representatives
+- **Predicate:** passed
+- **Object:** $1.2 trillion (monetary_amount)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > The House passed four spending bills totaling approximately $1.2 trillion.
 
-### c_002 — confirmed, primary document
-**Subject entities:** House of Representatives
-**Predicate:** passed_vote
-**Object:** 220-207 (vote_tally)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** House of Representatives
+- **Predicate:** passed_vote
+- **Object:** 220-207 (vote_tally)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > The Homeland Security spending bill passed the House 220-207.
 
-### c_003 — confirmed, primary document
-**Subject entities:** House of Representatives
-**Predicate:** passed_vote
-**Object:** 341-88 (vote_tally)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** House of Representatives
+- **Predicate:** passed_vote
+- **Object:** 341-88 (vote_tally)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > The broader spending package passed the House 341-88.
 
-### c_004 — confirmed, primary document
-**Subject entities:** House spending package; U.S. military
-**Predicate:** funds
-**Object:** 3.8% pay raise (compensation_adjustment)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** House spending package; U.S. military
+- **Predicate:** funds
+- **Object:** 3.8% pay raise (compensation_adjustment)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > The spending package funds a 3.8% pay raise for military personnel.
 
-### c_005 — confirmed, primary document
-**Subject entities:** ICE officer; Renee Good
-**Predicate:** fatally_shot
-**Object:** death of Renee Good during ICE operation (law_enforcement_fatality)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** ICE officer; Renee Good
+- **Predicate:** fatally_shot
+- **Object:** death of Renee Good during ICE operation (law_enforcement_fatality)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > A U.S. Immigration and Customs Enforcement officer fatally shot Renee Good, a mother of three, in the Minneapolis area during an immigration enforcement operation.
 
-### c_006 — attributed, single source
-**Subject entities:** Democratic leaders; ICE
-**Predicate:** claimed
-**Object:** ICE targeting extends beyond violent felons to citizens and law-abiding immigrants (policy_criticism)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Democratic leaders; ICE
+- **Predicate:** claimed
+- **Object:** ICE targeting extends beyond violent felons to citizens and law-abiding immigrants (policy_criticism)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Democratic leaders said Trump promised to focus deportations on violent felons but instead ICE has targeted American citizens and law-abiding immigrants.
 
-### c_007 — confirmed, primary document
-**Subject entities:** Homeland Security bill; ICE funding
-**Predicate:** sets_spending
-**Object:** flat from prior year (budget_allocation)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Homeland Security bill; ICE funding
+- **Predicate:** sets_spending
+- **Object:** flat from prior year (budget_allocation)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > The Homeland Security bill holds ICE's annual spending roughly flat from the prior year.
 
-### c_008 — attributed, single source
-**Subject entities:** Trump tax and immigration bill; ICE
-**Predicate:** allocated
-**Object:** $30 billion for operations, $45 billion for detention (monetary_allocation)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Trump tax and immigration bill; ICE
+- **Predicate:** allocated
+- **Object:** $30 billion for operations, $45 billion for detention (monetary_allocation)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Trump's earlier tax cut and immigration bill provided $30 billion for ICE operations and $45 billion for detention facilities.
 
-### c_009 — confirmed, primary document
-**Subject entities:** Homeland Security bill; ICE; CBP
-**Predicate:** allocates_funding
-**Object:** $20 million for body cameras (equipment_funding)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Homeland Security bill; ICE; CBP
+- **Predicate:** allocates_funding
+- **Object:** $20 million for body cameras (equipment_funding)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > The Homeland Security bill allocates $20 million for body cameras for ICE and Customs and Border Protection officers.
 
-### c_010 — confirmed, primary document
-**Subject entities:** Homeland Security bill; Kristi Noem
-**Predicate:** restricts
-**Object:** unilateral funding authority (spending_restriction)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Homeland Security bill; Kristi Noem
+- **Predicate:** restricts
+- **Object:** unilateral funding authority (spending_restriction)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > The bill restricts the ability of Homeland Security Secretary Kristi Noem to unilaterally shift funding.
 
-### c_011 — confirmed, primary document
-**Subject entities:** Homeland Security bill; Department of Homeland Security
-**Predicate:** requires
-**Object:** monthly spending reports (reporting_requirement)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_011
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Homeland Security bill; Department of Homeland Security
+- **Predicate:** requires
+- **Object:** monthly spending reports (reporting_requirement)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > The bill requires Homeland Security to provide monthly updates on how it plans to spend money from Trump's earlier bill.
 
-### c_012 — confirmed, primary document
-**Subject entities:** Congress; federal government
-**Predicate:** faces_deadline
-**Object:** 2026-01-30 (temporal_deadline)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_012
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Congress; federal government
+- **Predicate:** faces_deadline
+- **Object:** 2026-01-30 (temporal_deadline)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > A Jan. 30 deadline exists to avoid a partial government shutdown.
 
-### c_013 — confirmed, primary document
-**Subject entities:** U.S. federal government
-**Predicate:** experienced_shutdown
-**Object:** 43-day duration (time_duration)
-**Temporal:** 2025-09-2025-11
-**Source IDs:** src_001
+### c_013
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. federal government
+- **Predicate:** experienced_shutdown
+- **Object:** 43-day duration (time_duration)
+- **Temporal:** 2025-09-2025-11
+- **Sources:** src_001
 
 > A 43-day government shutdown occurred last fall.
 
-### c_014 — attributed, single source
-**Subject entities:** Jerrold Nadler; ICE
-**Predicate:** stated
-**Object:** refusal to fund ICE (speech_act)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jerrold Nadler; ICE
+- **Predicate:** stated
+- **Object:** refusal to fund ICE (speech_act)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Representative Jerrold Nadler said: I will not fund an agency that acts like an American gestapo.
 
-### c_015 — confirmed, primary document
-**Subject entities:** spending bill provision; senators
-**Predicate:** repeals
-**Object:** ability to sue over cellphone data collection (legal_authority_removal)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_015
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** spending bill provision; senators
+- **Predicate:** repeals
+- **Object:** ability to sue over cellphone data collection (legal_authority_removal)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > A last-minute provision would repeal the ability of senators to sue over cellphone data collection related to special counsel Jack Smith's investigation of the Jan. 6 Capitol attack.
 
@@ -292,10 +303,5 @@ In a last-minute addition to the spending package, the House included a provisio
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Kevin Freking
 **Publication date:** 2026-01-22
-**Access date:** 2026-01-22
 **Title:** House approves final spending bills as Democrats denounce ICE funding
 **URL:** https://apnews.com/article/homeland-security-government-funding-bills-d7ca791c2d1aa81d2982239f81bc86be
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

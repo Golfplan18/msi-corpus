@@ -94,8 +94,6 @@ The Norwegian family drama "Sentimental Value" won best film not in English, whi
 
 The BAFTA victories often predict the Academy Awards. "Sinners" has 16 Oscar nominations — a record for a single film. "One Battle After Another" goes into the March 15 Academy Awards ceremony with 13 nominations, followed by "Hamnet" with 11. "Marty Supreme," a ping-pong odyssey that received 11 BAFTA nominations, went home without a prize.
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the Associated Press wire service. Specification: /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
 ### c_001 — reported, single source
@@ -277,7 +275,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-02-23
 **Title:** 'One Battle After Another' wins 6 prizes including best picture at Britain's BAFTA film awards
 **URL:** https://apnews.com/article/bafta-film-awards-sinners-hamnet-15651cec9d900fff5e8347ffbec3b608
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

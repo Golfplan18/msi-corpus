@@ -15,10 +15,12 @@ primary_themes:
 - International reconstruction
 - Humanitarian crisis
 - Displacement
-topic_tags: []
+topic_tags:
+- post-war reconstruction
+- armed conflict
+- human interest
 storyline_nexus:
-  - gaza-conflict
-  - us-administration-2026
+- gaza-israel-war
 geographic_location: Gaza Strip / Washington DC
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -118,10 +120,6 @@ Ruwayda Dheir, among the tens of thousands displaced from Rafah, holds little co
 ## The Conflict's Toll and Current Status
 
 The war began with Hamas's October 7, 2023 attack into Israel, in which Palestinian militants killed approximately 1,200 people, mostly civilians, and took 251 hostage. More than 72,000 Palestinians have been killed in the war that followed, according to the Gaza Health Ministry. While the ceasefire deal ended major military operations and resulted in the release of all remaining hostages, major questions about Gaza's political and humanitarian future remain unresolved.
-
----
-
-This article is provided under CC0—a public-domain dedication. The article was generated algorithmically by Main Street Independent's News Article Generator framework and received no human review prior to publication. [Read our methodology](/methodology).
 
 ## Atomic claims
 
@@ -250,7 +248,3 @@ This article is provided under CC0—a public-domain dedication. The article was
 **Access date:** 2026-02-20
 **Title:** Palestinians in Gaza are skeptical of Trump's Board of Peace
 **URL:** https://apnews.com/article/israel-hamas-war-gaza-reconstruction-trump-board-peace-bc0a99f44e07892cda428d5011a59f0e
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

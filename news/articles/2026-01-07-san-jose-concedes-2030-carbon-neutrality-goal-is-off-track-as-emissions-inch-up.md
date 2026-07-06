@@ -23,7 +23,8 @@ topic_tags:
   - "government policy"
   - "climate change"
   - environment
-storyline_nexus: []
+storyline_nexus:
+- trump-climate-energy-rollbacks
 geographic_location: San Jose, California, United States
 floor_values_engaged:
 - value: informed_citizenship
@@ -120,84 +121,102 @@ The most consequential step, advocates and officials agreed, was the 2019 establ
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** San Jose City Council
-**Predicate:** acknowledged
-**Object:** not on track for 2030 carbon neutrality (official_admission)
-**Temporal:** 2025-12-02
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** San Jose City Council
+- **Predicate:** acknowledged
+- **Object:** not on track for 2030 carbon neutrality (official_admission)
+- **Temporal:** 2025-12-02
+- **Sources:** src_001
 
 > San Jose's City Council formally acknowledged the city is not on track to reach carbon neutrality by 2030, approving an administrative update to Climate Smart San Jose on Dec. 2.
 
-### c_002 — attributed, single source
-**Subject entities:** San Jose
-**Predicate:** increased
-**Object:** approximately 5 million metric tons CO2e, up 0.2% from 2021 (emissions_figure)
-**Temporal:** 2023
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** San Jose
+- **Predicate:** increased
+- **Object:** approximately 5 million metric tons CO2e, up 0.2% from 2021 (emissions_figure)
+- **Temporal:** 2023
+- **Sources:** src_001
 
 > San Jose's greenhouse gas emissions stood at roughly 5 million metric tons of carbon dioxide equivalent as of 2023, about 0.2% higher than 2021 levels.
 
-### c_003 — attributed, single source
-**Subject entities:** San Jose
-**Predicate:** reduced
-**Object:** approximately 16% (emissions_reduction)
-**Temporal:** 2017-2021
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** San Jose
+- **Predicate:** reduced
+- **Object:** approximately 16% (emissions_reduction)
+- **Temporal:** 2017-2021
+- **Sources:** src_001
 
 > Between the 2017 benchmark year and 2021, San Jose reduced its overall emissions by approximately 16%.
 
-### c_004 — confirmed, single source
-**Subject entities:** San Jose City Council
-**Predicate:** adopted
-**Object:** 2030 carbon neutrality goal (policy_commitment)
-**Temporal:** 2021
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** San Jose City Council
+- **Predicate:** adopted
+- **Object:** 2030 carbon neutrality goal (policy_commitment)
+- **Temporal:** 2021
+- **Sources:** src_001
 
 > San Jose adopted the 2030 carbon neutrality goal in 2021, a more ambitious timeline than the Climate Smart program's original targets.
 
-### c_005 — attributed, single source
-**Subject entities:** San Jose
-**Predicate:** lags_target
-**Object:** 8% EV adoption versus 79% target (policy_gap)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** San Jose
+- **Predicate:** lags_target
+- **Object:** 8% EV adoption versus 79% target (policy_gap)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > San Jose's emission reduction plan calls for 79% electric vehicle adoption; as of 2024 the figure stood at 8%.
 
-### c_006 — confirmed, single source
-**Subject entities:** San Jose Clean Energy
-**Predicate:** established
-**Object:** 95% carbon-free electricity program (program)
-**Temporal:** 2019
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** San Jose Clean Energy
+- **Predicate:** established
+- **Object:** 95% carbon-free electricity program (program)
+- **Temporal:** 2019
+- **Sources:** src_001
 
 > San Jose established San Jose Clean Energy in 2019, a city-run program supplying hundreds of thousands of customers with electricity from 95% carbon-free sources.
 
-### c_007 — confirmed, single source
-**Subject entities:** San Jose City Council; Michael Mulcahy
-**Predicate:** failed
-**Object:** 5-5 tie vote on heat pump and wiring requirements (legislative_outcome)
-**Temporal:** 2025-09
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** San Jose City Council; Michael Mulcahy
+- **Predicate:** failed
+- **Object:** 5-5 tie vote on heat pump and wiring requirements (legislative_outcome)
+- **Temporal:** 2025-09
+- **Sources:** src_001
 
 > A September 2025 council vote on electric heat pump and electric-ready wiring code requirements failed on a 5-5 tie, with District 6 Councilmember Michael Mulcahy absent.
 
-### c_008 — reported, single source
-**Subject entities:** San Jose Energy Department
-**Predicate:** drafting
-**Object:** emission reduction acceleration proposals (policy_development)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** San Jose Energy Department
+- **Predicate:** drafting
+- **Object:** emission reduction acceleration proposals (policy_development)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > The Energy Department is drafting proposals to accelerate emission reductions, which could go before the council as soon as next summer.
 
-### c_009 — attributed, single source
-**Subject entities:** San Jose; Climate Smart San Jose
-**Predicate:** launched
-**Object:** more than 40 initiatives (program_count)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** San Jose; Climate Smart San Jose
+- **Predicate:** launched
+- **Object:** more than 40 initiatives (program_count)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > The city has launched more than 40 initiatives under the Climate Smart San Jose plan.
 
@@ -209,7 +228,3 @@ The most consequential step, advocates and officials agreed, was the 2019 establ
 **Access date:** 2026-01-07
 **Title:** San Jose is falling behind its ambitious target of reaching carbon neutrality by 2030
 **URL:** https://apnews.com/article/san-jose-general-news-3df817346f33f85aedd2b57eb78727e8
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

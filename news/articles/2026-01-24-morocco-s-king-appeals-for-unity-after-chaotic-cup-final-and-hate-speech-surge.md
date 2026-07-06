@@ -227,7 +227,3 @@ Morocco has been actively extending its influence across Africa, investing heavi
 **Access date:** 2026-05-18
 **Title:** Morocco's king calls for African unity amid hate speech after chaotic Africa Cup final
 **URL:** https://apnews.com/article/morocco-afcon-africa-hate-speech-racism-c887928aee2d7e7239a097180c84de84
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -14,7 +14,8 @@ primary_themes:
 topic_tags:
   - health
   - "mental health"
-storyline_nexus: []
+storyline_nexus:
+- extreme-weather-disasters
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship
@@ -99,97 +100,115 @@ With this genetic understanding in hand, researchers and restoration organizatio
 
 The American chestnut's potential return carries significance beyond nostalgia. The species' reestablishment in eastern forests could reshape forest composition and structure. The tree's role as a mast producer — yielding abundant nuts that support wildlife — could help restore ecological relationships that have been disrupted since the species' disappearance a century ago.
 
-*This article was generated algorithmically using the Main Street Independent News Article Generator framework. Framework specification: /methodology. License: CC0.*
-
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** American chestnut; Eastern United States
-**Predicate:** was_dominant_forest_species
-**Object:** Mature trees rose above hardwood canopy on trunks wider than a person (tree_characteristic)
-**Temporal:** pre-1950s
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** American chestnut; Eastern United States
+- **Predicate:** was_dominant_forest_species
+- **Object:** Mature trees rose above hardwood canopy on trunks wider than a person (tree_characteristic)
+- **Temporal:** pre-1950s
+- **Sources:** src_001
 
 > The American chestnut was once a dominant tree in eastern U.S. forests with mature trees rising above the hardwood canopy.
 
-### c_002 — attributed, single source
-**Subject entities:** American chestnut; turkeys; bears; deer
-**Predicate:** supported_wildlife_populations
-**Object:** Abundant nut production sustained wildlife populations (ecological_relationship)
-**Temporal:** pre-1950s
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** American chestnut; turkeys; bears; deer
+- **Predicate:** supported_wildlife_populations
+- **Object:** Abundant nut production sustained wildlife populations (ecological_relationship)
+- **Temporal:** pre-1950s
+- **Sources:** src_001
 
 > American chestnut was a centerpiece of the ecosystem, producing abundant nuts that boosted populations of turkeys, bears, and deer.
 
-### c_003 — attributed, single source
-**Subject entities:** American chestnut
-**Predicate:** population_and_commercial_use
-**Object:** Billions existed; fruit transported by rail to cities (historical_abundance)
-**Temporal:** 1900
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** American chestnut
+- **Predicate:** population_and_commercial_use
+- **Object:** Billions existed; fruit transported by rail to cities (historical_abundance)
+- **Temporal:** 1900
+- **Sources:** src_001
 
 > Billions of American chestnut trees existed at the turn of the 20th century, their fruit transported by railcar to cities for street-corner sale.
 
-### c_004 — attributed, single source
-**Subject entities:** American chestnut; fungal blight; root rot
-**Predicate:** caused_species_decimation
-**Object:** Killed billions; left species functionally extinct (disease_impact)
-**Temporal:** mid-20th century
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** American chestnut; fungal blight; root rot
+- **Predicate:** caused_species_decimation
+- **Object:** Killed billions; left species functionally extinct (disease_impact)
+- **Temporal:** mid-20th century
+- **Sources:** src_001
 
 > A fungal blight coupled with lethal root rot killed American chestnut trees by the millions.
 
-### c_005 — attributed, single source
-**Subject entities:** American chestnut
-**Predicate:** became_functionally_extinct
-**Object:** Functionally extinct by 1950s (extinction_status)
-**Temporal:** 1950
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** American chestnut
+- **Predicate:** became_functionally_extinct
+- **Object:** Functionally extinct by 1950s (extinction_status)
+- **Temporal:** 1950
+- **Sources:** src_001
 
 > By the 1950s, the American chestnut was functionally extinct.
 
-### c_006 — attributed, single source
-**Subject entities:** Chinese chestnut
-**Predicate:** was_introduced_for_resistance
-**Object:** Introduced for nuts; disease-resistant; shorter growth (species_introduction)
-**Temporal:** historical
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Chinese chestnut
+- **Predicate:** was_introduced_for_resistance
+- **Object:** Introduced for nuts; disease-resistant; shorter growth (species_introduction)
+- **Temporal:** historical
+- **Sources:** src_001
 
 > The Chinese chestnut was introduced to the United States for its valuable nuts and possesses disease resistance.
 
-### c_007 — attributed, single source
-**Subject entities:** American chestnut breeding research
-**Predicate:** simple_breeding_ineffective
-**Object:** Simple techniques do not produce reliable disease resistance (research_finding)
-**Temporal:** current
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** American chestnut breeding research
+- **Predicate:** simple_breeding_ineffective
+- **Object:** Simple techniques do not produce reliable disease resistance (research_finding)
+- **Temporal:** current
+- **Sources:** src_001
 
 > Simple breeding techniques have not worked well to create disease-resistant American chestnuts.
 
-### c_008 — attributed, single source
-**Subject entities:** American chestnut genome
-**Predicate:** trait_distribution_complex
-**Object:** Desirable traits scattered across multiple genome spots (genetic_discovery)
-**Temporal:** recent
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** American chestnut genome
+- **Predicate:** trait_distribution_complex
+- **Object:** Desirable traits scattered across multiple genome spots (genetic_discovery)
+- **Temporal:** recent
+- **Sources:** src_001
 
 > DNA sequencing of American chestnuts reveals desirable traits are scattered across multiple genome locations rather than concentrated in a single region.
 
-### c_009 — attributed, single source
-**Subject entities:** DNA sequencing; chestnut breeding
-**Predicate:** enables_targeted_breeding
-**Object:** Genetic map allows identification of disease-resistant breeding pairs (research_tool)
-**Temporal:** current
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** DNA sequencing; chestnut breeding
+- **Predicate:** enables_targeted_breeding
+- **Object:** Genetic map allows identification of disease-resistant breeding pairs (research_tool)
+- **Temporal:** current
+- **Sources:** src_001
 
 > DNA sequencing provides a map for breeding American chestnuts more likely to survive disease.
 
-### c_010 — appears, single source
-**Subject entities:** researchers
-**Predicate:** hope_for_species_recovery
-**Object:** Self-sustaining population relying on wildlife seed dispersal (future_goal)
-**Temporal:** coming decades
-**Source IDs:** src_001
+### c_010
+- **Hedge:** appears
+- **Corroboration:** single_source
+- **Subject entities:** researchers
+- **Predicate:** hope_for_species_recovery
+- **Object:** Self-sustaining population relying on wildlife seed dispersal (future_goal)
+- **Temporal:** coming decades
+- **Sources:** src_001
 
 > Researchers hope in the coming decades there will be enough healthy American chestnut trees for the species to become self-sustaining without human intervention.
 
@@ -201,7 +220,3 @@ The American chestnut's potential return carries significance beyond nostalgia. 
 **Access date:** 2026-04-17
 **Title:** The American chestnut and the fight to revive a lost icon
 **URL:** https://apnews.com/article/american-chestnut-tree-extinction-culture-973116a9bfed5b770bd1368a560e49f2
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

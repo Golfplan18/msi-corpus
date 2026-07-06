@@ -19,47 +19,41 @@ primary_themes:
 - diplomatic pressure
 - international trade
 topic_tags:
-  - "arts, culture, entertainment and media"
-  - "conflict, war and peace"
-  - "economy, business and finance"
-  - "international relations"
-  - "international trade"
-  - "mass media"
+- international trade
+- economy
+- government policy
+- international relations
 storyline_nexus:
-  - iran-war
-  - trump-tariff-policy
-  - immigration-enforcement
-geographic_location: International — Washington D.C.; Tehran; Beijing; New Delhi
+- trump-tariff-wars
+geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.85
 - value: accountability_of_power
-  intensity: 0.72
+  intensity: 0.9
 - value: human_life_and_dignity
-  intensity: 0.65
-framework_version: 1.1.0
-generation_timestamp: '2026-01-13T00:00:00Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T04:26:30Z'
 source_cluster_id: cluster_ap_2026-01-14_iran-protests-trump-tariffs-0e37b712aee6
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 12
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 6
-    reported: 5
-    contested: 0
     confirmed: 1
+    contested: 0
+    reported: 5
+    alleged: 0
+    appears: 0
+    attributed: 6
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 0
     single_source: 12
+    primary_plus_secondary: 0
+    primary_document: 0
     two_independent: 0
+    one_originating_plus_primary_document: 0
 sources:
   count: 1
   outlets:
@@ -77,41 +71,17 @@ image:
   url: /articles/2026-01-13-trump-s-iran-tariffs-threaten-us-china-trade-truce-could-raise-american-prices.png
   alt: 'Illustration accompanying article: Trump''s Iran tariffs threaten US-China trade truce, could raise American'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-12-iran-protest-death-toll-reaches-646-as-trump-imposes-tariffs-signals-openness-to
-  relation: continues
-  strength: 0.8297
-  confidence: high
-- slug: 2026-01-12-iran-protest-death-toll-reaches-646-as-trump-orders-tariffs-cites-diplomacy
-  relation: continues
-  strength: 0.8155
-  confidence: high
-- slug: 2026-01-13-trump-visits-dearborn-ford-plant-defends-tariffs-as-voters-worry-about-rising-pr
-  relation: related
-  strength: 0.7849
-  confidence: medium
-- slug: 2026-01-11-israel-monitors-iranian-protests-as-analysts-see-little-appetite-for-new-war
-  relation: related
-  strength: 0.7528
-  confidence: medium
-- slug: 2026-01-13-trump-tells-iranian-protesters-help-is-on-its-way-as-u-s-weighs-options
-  relation: related
-  strength: 0.7341
-  confidence: medium
-- slug: 2026-01-12-iran-s-leadership-weakened-by-war-faces-broad-protests-as-crackdown-kills-hundre
-  relation: related
-  strength: 0.7318
-  confidence: medium
-- slug: 2026-01-09-un-projects-2-7-global-growth-in-2026-citing-tariffs-and-geopolitical-tensions
-  relation: related
-  strength: 0.7491
-  confidence: medium
-- slug: 2026-01-02-trump-and-iran-officials-trade-threats-as-protests-enter-sixth-day
-  relation: continues
-  strength: 0.7867
-  confidence: high
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- Article covers major news event.
+- Event impacts relevant stakeholders and regions.
+- Response unfolds according to circumstances.
+- Implications extend to broader policy landscape.
 
 The tariffs target Iran's top trading partners — China, the United Arab Emirates, Turkey, and the European Union — creating a risk of retaliatory escalation that economists say could cost the United States far more than the pressure tactic gains in Tehran.
 
@@ -159,111 +129,135 @@ The administration had also not clarified whether the Iran-targeted tariffs woul
 
 ## Atomic claims
 
-### c_001 — confirmed, single source
-**Subject entities:** Donald Trump
-**Predicate:** announced_tariff
-**Object:** 25% (tariff_rate)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** announced_tariff
+- **Object:** 25% (tariff_rate)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > President Trump announced a 25% tariff on imports from countries that do business with Iran, via social media post on Monday.
 
-### c_002 — attributed, single source
-**Subject entities:** Iran protests
-**Predicate:** death_toll_exceeded
-**Object:** 2500 (count)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Iran protests
+- **Predicate:** death_toll_exceeded
+- **Object:** 2500 (count)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > The death toll from protests in Iran surpassed 2,500 as of Wednesday, January 14, according to activists.
 
-### c_003 — reported, single source
-**Subject entities:** Iran
-**Predicate:** inflation_rate
-**Object:** above 40% (rate)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Iran
+- **Predicate:** inflation_rate
+- **Object:** above 40% (rate)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Iran's inflation was running above 40%.
 
-### c_004 — attributed, single source
-**Subject entities:** Iran
-**Predicate:** trade_volume
-**Object:** $125 billion (annual_trade)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Iran
+- **Predicate:** trade_volume
+- **Object:** $125 billion (annual_trade)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > Iran conducted nearly $125 billion in international trade in 2024, according to the World Trade Organization.
 
-### c_005 — attributed, single source
-**Subject entities:** Iran; China; UAE; Turkey
-**Predicate:** trade_partners
-**Object:** China $32B, UAE $28B, Turkey $17B (bilateral_trade)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Iran; China; UAE; Turkey
+- **Predicate:** trade_partners
+- **Object:** China $32B, UAE $28B, Turkey $17B (bilateral_trade)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > Iran's top trading partners in 2024 were China ($32 billion), UAE ($28 billion), and Turkey ($17 billion), per the WTO.
 
-### c_006 — attributed, single source
-**Subject entities:** China; Iran
-**Predicate:** oil_export_share
-**Object:** 80-90% (percentage)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** China; Iran
+- **Predicate:** oil_export_share
+- **Object:** 80-90% (percentage)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > China buys roughly 80 to 90 percent of Iran's oil exports, according to a 2024 U.S. Energy Information Administration report.
 
-### c_007 — reported, single source
-**Subject entities:** China
-**Predicate:** trade_surplus
-**Object:** nearly $1.2 trillion (annual_surplus)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** China
+- **Predicate:** trade_surplus
+- **Object:** nearly $1.2 trillion (annual_surplus)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > China's trade surplus grew to nearly $1.2 trillion in 2025, a record, the Chinese government announced Wednesday.
 
-### c_008 — reported, single source
-**Subject entities:** United States; China
-**Predicate:** trade_truce
-**Object:** October 2025 (agreement_date)
-**Temporal:** 2025-10
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** United States; China
+- **Predicate:** trade_truce
+- **Object:** October 2025 (agreement_date)
+- **Temporal:** 2025-10
+- **Sources:** src_001
 
 > The United States and China reached a trade truce in October 2025, after a spring tariff confrontation involving triple-digit levies.
 
-### c_009 — reported, single source
-**Subject entities:** India; Iran; United States
-**Predicate:** export_comparison
-**Object:** Iran $1.6B vs US $129B (trade_comparison)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** India; Iran; United States
+- **Predicate:** export_comparison
+- **Object:** Iran $1.6B vs US $129B (trade_comparison)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > India exported $1.6 billion in goods to Iran in 2024, compared to $129 billion in goods and services to the United States.
 
-### c_010 — reported, single source
-**Subject entities:** India; United States
-**Predicate:** tariff_rate
-**Object:** 50% (tariff_rate)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** India; United States
+- **Predicate:** tariff_rate
+- **Object:** 50% (tariff_rate)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > India already faces 50% U.S. tariffs as punishment for purchasing oil from Russia.
 
-### c_011 — attributed, single source
-**Subject entities:** Wendy Cutler; United States; China
-**Predicate:** expert_assessment
-**Object:** fragile truce, eroded trust (expert_opinion)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Wendy Cutler; United States; China
+- **Predicate:** expert_assessment
+- **Object:** fragile truce, eroded trust (expert_opinion)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Wendy Cutler said Trump's tariff threat erodes already low trust between the U.S. and China and underscores how fragile the trade truce is.
 
-### c_012 — attributed, single source
-**Subject entities:** Adnan Mazarei; Iran
-**Predicate:** expert_assessment
-**Object:** tariffs unlikely to change conduct (expert_opinion)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Adnan Mazarei; Iran
+- **Predicate:** expert_assessment
+- **Object:** tariffs unlikely to change conduct (expert_opinion)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Adnan Mazarei said the tariffs are unlikely to change the Iranian government's conduct, calling it a repressive regime willing to pay a high cost to stay in power.
 
@@ -272,10 +266,5 @@ The administration had also not clarified whether the Iran-targeted tariffs woul
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Paul Wiseman
 **Publication date:** 2026-01-13
-**Access date:** 2026-01-13
 **Title:** Trump's tariffs on Iran could raise prices in the US
 **URL:** https://apnews.com/article/iran-protests-trump-tariffs-0e37b712aee645d20af5b79acd207ddf
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

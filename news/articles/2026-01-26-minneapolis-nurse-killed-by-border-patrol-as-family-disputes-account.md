@@ -23,8 +23,7 @@ topic_tags:
   - government
   - "government policy"
 storyline_nexus:
-  - immigration-enforcement
-  - us-administration-2026
+- us-immigration-enforcement
 geographic_location: Minneapolis, Minnesota, United States
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -159,182 +158,220 @@ As light snow fell over Minneapolis on Sunday morning, community members gathere
 
 The incident marks the second fatal shooting of a Minneapolis resident by federal officers in as many weeks, deepening scrutiny of federal immigration enforcement in the city and beyond.
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under sources. Specification available at methodology. Human review status - not_triggered.
-
 ## Atomic claims
 
-### c_001 — reported, single source
-**Subject entities:** Alex Pretti
-**Predicate:** worked_as
-**Object:** ICU nurse, age 37, at Minneapolis VA Medical Center (occupation)
-**Temporal:** 2026-01-25
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Alex Pretti
+- **Predicate:** worked_as
+- **Object:** ICU nurse, age 37, at Minneapolis VA Medical Center (occupation)
+- **Temporal:** 2026-01-25
+- **Sources:** src_001
 
 > Alex Pretti was 37 years old and worked as an intensive care nurse at the Minneapolis VA Medical Center.
 
-### c_002 — reported, single source
-**Subject entities:** Alex Pretti; Border Patrol
-**Predicate:** killed_by
-**Object:** gunshot wound from Border Patrol officers (manner_of_death)
-**Temporal:** 2026-01-25
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Alex Pretti; Border Patrol
+- **Predicate:** killed_by
+- **Object:** gunshot wound from Border Patrol officers (manner_of_death)
+- **Temporal:** 2026-01-25
+- **Sources:** src_001
 
 > Pretti was shot and killed by Border Patrol officers on January 25, 2026, in Minneapolis.
 
-### c_003 — reported, single source
-**Subject entities:** Pretti; DHS; Border Patrol
-**Predicate:** alleged_approach_with_weapon
-**Object:** 9 mm semiautomatic handgun (alleged_weapon)
-**Temporal:** 2026-01-25
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Pretti; DHS; Border Patrol
+- **Predicate:** alleged_approach_with_weapon
+- **Object:** 9 mm semiautomatic handgun (alleged_weapon)
+- **Temporal:** 2026-01-25
+- **Sources:** src_001
 
 > The Department of Homeland Security said Pretti approached Border Patrol officers with a 9 mm semiautomatic handgun.
 
-### c_004 — reported, primary document
-**Subject entities:** Alex Pretti
-**Predicate:** appeared_in_video_with
-**Object:** phone in hand, no visible weapon (visual_evidence)
-**Temporal:** 2026-01-25
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Alex Pretti
+- **Predicate:** appeared_in_video_with
+- **Object:** phone in hand, no visible weapon (visual_evidence)
+- **Temporal:** 2026-01-25
+- **Sources:** src_001
 
 > Bystander videos of the shooting show Pretti with a phone in his hand but none shows him with a visible weapon.
 
-### c_005 — confirmed, primary document
-**Subject entities:** Alex Pretti
-**Predicate:** was_citizen_with_no_record
-**Object:** U.S. citizen, Illinois-born, no criminal history (legal_status)
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Alex Pretti
+- **Predicate:** was_citizen_with_no_record
+- **Object:** U.S. citizen, Illinois-born, no criminal history (legal_status)
+- **Sources:** src_001
 
 > Pretti was a U.S. citizen, born in Illinois, with no criminal record according to court records.
 
-### c_006 — attributed, single source
-**Subject entities:** Alex Pretti; Renee Good
-**Predicate:** participated_in_protests_after
-**Object:** protests following Renee Good killing by ICE (action)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Alex Pretti; Renee Good
+- **Predicate:** participated_in_protests_after
+- **Object:** protests following Renee Good killing by ICE (action)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Pretti participated in protests following the January 7 killing of Renee Good by an ICE officer.
 
-### c_007 — attributed, single source
-**Subject entities:** Alex Pretti
-**Predicate:** was_described_as
-**Object:** deeply empathetic, upset by Trump immigration crackdown (character_assessment)
-**Temporal:** 2026-01-25
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Alex Pretti
+- **Predicate:** was_described_as
+- **Object:** deeply empathetic, upset by Trump immigration crackdown (character_assessment)
+- **Temporal:** 2026-01-25
+- **Sources:** src_001
 
 > Pretti's father, Michael Pretti, said his son was deeply empathetic of those he saw as mistreated and upset by the Trump administration's immigration crackdown.
 
-### c_008 — attributed, single source
-**Subject entities:** Alex Pretti
-**Predicate:** was_described_as
-**Object:** extremely knowledgeable and caring (character_assessment)
-**Temporal:** 2026-01-25
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Alex Pretti
+- **Predicate:** was_described_as
+- **Object:** extremely knowledgeable and caring (character_assessment)
+- **Temporal:** 2026-01-25
+- **Sources:** src_001
 
 > Mac Randolph, whose father Terrance Lee Randolph received care from Pretti at the VA hospital, said Pretti was extremely knowledgeable and caring.
 
-### c_009 — reported, single source
-**Subject entities:** Alex Pretti
-**Predicate:** owned_handgun_with_permit
-**Object:** concealed carry permit in Minnesota, semiautomatic handgun (firearm_ownership)
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Alex Pretti
+- **Predicate:** owned_handgun_with_permit
+- **Object:** concealed carry permit in Minnesota, semiautomatic handgun (firearm_ownership)
+- **Sources:** src_001
 
 > Pretti had obtained a permit to carry a concealed handgun in Minnesota about three years before the shooting and owned at least one semiautomatic handgun.
 
-### c_010 — attributed, single source
-**Subject entities:** Alex Pretti
-**Predicate:** never_observed_carrying
-**Object:** handgun (family_statement)
-**Temporal:** 2026-01-25
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Alex Pretti
+- **Predicate:** never_observed_carrying
+- **Object:** handgun (family_statement)
+- **Temporal:** 2026-01-25
+- **Sources:** src_001
 
 > Pretti's family said they had never known him to carry the handgun.
 
-### c_011 — attributed, single source
-**Subject entities:** Pretti family; Trump administration
-**Predicate:** disputed_characterization
-**Object:** reprehensible and disgusting false characterization as domestic terrorist (statement)
-**Temporal:** 2026-01-25
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Pretti family; Trump administration
+- **Predicate:** disputed_characterization
+- **Object:** reprehensible and disgusting false characterization as domestic terrorist (statement)
+- **Temporal:** 2026-01-25
+- **Sources:** src_001
 
 > Pretti's family issued a statement saying the Trump administration's characterization of him as a domestic terrorist was reprehensible and disgusting.
 
-### c_012 — attributed, single source
-**Subject entities:** Alex Pretti
-**Predicate:** held_and_shielded_in_video
-**Object:** phone in one hand, shielding woman from pepper spray (family_account_of_video)
-**Temporal:** 2026-01-25
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Alex Pretti
+- **Predicate:** held_and_shielded_in_video
+- **Object:** phone in one hand, shielding woman from pepper spray (family_account_of_video)
+- **Temporal:** 2026-01-25
+- **Sources:** src_001
 
 > Pretti's family said videos showed he was not holding a gun when tackled by federal agents but holding his phone and using his other hand to shield a woman being pepper-sprayed.
 
-### c_013 — reported, single source
-**Subject entities:** Alex Pretti
-**Predicate:** participated_in_activities
-**Object:** football, baseball, track, Boy Scouts, choir (biographical)
-**Source IDs:** src_001
+### c_013
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Alex Pretti
+- **Predicate:** participated_in_activities
+- **Object:** football, baseball, track, Boy Scouts, choir (biographical)
+- **Sources:** src_001
 
 > Pretti grew up in Green Bay, Wisconsin, where he played football, baseball, and ran track in high school and was a Boy Scout who sang in the Green Bay Boy Choir.
 
-### c_014 — reported, single source
-**Subject entities:** Alex Pretti
-**Predicate:** graduated_from
-**Object:** University of Minnesota 2011, B.S. in biology, society and environment (educational)
-**Temporal:** 2011
-**Source IDs:** src_001
+### c_014
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Alex Pretti
+- **Predicate:** graduated_from
+- **Object:** University of Minnesota 2011, B.S. in biology, society and environment (educational)
+- **Temporal:** 2011
+- **Sources:** src_001
 
 > Pretti graduated from the University of Minnesota in 2011 with a bachelor's degree in biology, society and the environment.
 
-### c_015 — reported, single source
-**Subject entities:** Alex Pretti
-**Predicate:** worked_and_studied
-**Object:** research scientist then registered nurse (occupation_history)
-**Source IDs:** src_001
+### c_015
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Alex Pretti
+- **Predicate:** worked_and_studied
+- **Object:** research scientist then registered nurse (occupation_history)
+- **Sources:** src_001
 
 > Pretti worked as a research scientist before returning to school to become a registered nurse.
 
-### c_016 — attributed, single source
-**Subject entities:** Alex Pretti
-**Predicate:** participated_in_protests
-**Object:** George Floyd protests in 2020 (action)
-**Temporal:** 2020
-**Source IDs:** src_001
+### c_016
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Alex Pretti
+- **Predicate:** participated_in_protests
+- **Object:** George Floyd protests in 2020 (action)
+- **Temporal:** 2020
+- **Sources:** src_001
 
 > Pretti's ex-wife said he was a Democratic voter who participated in street protests following the 2020 killing of George Floyd by Minneapolis police.
 
-### c_017 — attributed, single source
-**Subject entities:** Alex Pretti
-**Predicate:** was_described_as
-**Object:** wonderful person with great heart, not someone who carried gun (character_assessment)
-**Temporal:** 2026-01-25
-**Source IDs:** src_001
+### c_017
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Alex Pretti
+- **Predicate:** was_described_as
+- **Object:** wonderful person with great heart, not someone who carried gun (character_assessment)
+- **Temporal:** 2026-01-25
+- **Sources:** src_001
 
 > Neighbor Sue Gitar described Pretti as a wonderful person with a great heart and said she never thought of him as a person who carried a gun.
 
-### c_018 — reported, single source
-**Subject entities:** Alex Pretti
-**Predicate:** was_interested_in
-**Object:** outdoors, cycling, dog, environmental protection (interests_and_values)
-**Source IDs:** src_001
+### c_018
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Alex Pretti
+- **Predicate:** was_interested_in
+- **Object:** outdoors, cycling, dog, environmental protection (interests_and_values)
+- **Sources:** src_001
 
 > Pretti was an avid outdoorsman and competitive bicycle racer who was deeply attached to his dog and cared about environmental protection.
 
-### c_019 — attributed, single source
-**Subject entities:** Alex Pretti
-**Predicate:** opposed
-**Object:** Trump administration environmental rollback (political_position)
-**Temporal:** 2026-01-25
-**Source IDs:** src_001
+### c_019
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Alex Pretti
+- **Predicate:** opposed
+- **Object:** Trump administration environmental rollback (political_position)
+- **Temporal:** 2026-01-25
+- **Sources:** src_001
 
 > Pretti's mother, Susan Pretti, said her son hated the Trump administration's rollback of environmental regulations.
 
-### c_020 — attributed, single source
-**Subject entities:** Pretti parents; Alex Pretti
-**Predicate:** advised_regarding
-**Object:** advice to protest safely without engaging with law enforcement (parental_instruction)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_020
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Pretti parents; Alex Pretti
+- **Predicate:** advised_regarding
+- **Object:** advice to protest safely without engaging with law enforcement (parental_instruction)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > Pretti's parents said they had discussed protesting with their son two weeks before the shooting, telling him to go ahead and protest but not to engage or do anything stupid.
 
@@ -346,7 +383,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-01-26
 **Title:** Minneapolis mourns nurse Alex Pretti killed by a Border Patrol agent
 **URL:** https://apnews.com/article/shooting-minneapolis-protests-ice-immigration-41437baa4b349279cf8abfaf1076162c
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

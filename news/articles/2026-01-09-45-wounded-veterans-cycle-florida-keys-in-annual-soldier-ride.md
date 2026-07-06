@@ -15,43 +15,40 @@ primary_themes:
 - peer support
 - military service
 topic_tags:
-  - "armed conflict"
-  - "competition discipline"
-  - "conflict, war and peace"
-  - sport
+- human interest
+- communities
+- mental health
+- sport event
+- health
 storyline_nexus:
-  - iran-war
-  - russia-ukraine-war
-  - gaza-conflict
-geographic_location: Florida Keys, Florida, United States
+- extreme-weather-disasters
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
-  intensity: 0.8
-- value: informed_citizenship
-  intensity: 0.4
-framework_version: 1.1.0
-generation_timestamp: '2026-05-16T00:00:00Z'
+  intensity: 0.9
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:41:52Z'
 source_cluster_id: cluster_ap_2026-01-08_florida-keys-soldier-ride-44458606717e74
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 12
   hedges:
-    appears: 0
-    alleged: 0
     attributed: 5
     reported: 0
-    contested: 0
+    alleged: 0
+    appears: 0
     confirmed: 7
+    contested: 0
   corroboration:
     primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 7
-    single_source: 5
     two_independent: 0
+    primary_document: 7
+    one_originating_plus_primary_document: 0
+    single_source: 5
 sources:
   count: 1
   outlets:
@@ -72,6 +69,16 @@ image:
 cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- "The path to healing always starts with movement," said Walter Piatt, the Wounded Warrior Project's chief executive officer. "This is about getting them outside, getting them reconnected with people t…
+- "I want them to see that we appreciate what they do," said Carol Dieck, a Keys resident who watched from the route.
+- Bill Hansen, who served more than two decades in the U.S. Marine Corps and the U.S. Army National Guard, rode in his first Soldier Ride in Phoenix in 2012. He said he had suffered a serious neck and b…
+- "I wake up in pain every single day. I've gotten used to a level of pain," Hansen said. "And so doing physical fitness, things like this, I know I'm gonna be in a little bit of pain, but it's worth it…
+- "One of my bucket list events is to ride a bike over the Seven Mile Bridge," Hansen said. "I mean, what an iconic thing to do, and it's part of America, part of our heritage. And so this is gonna be f…
 
 The Florida Keys Soldier Ride brings together veterans carrying both visible and invisible injuries — including amputees using adaptive bicycles and those managing post-traumatic stress disorder — who say the event's combination of physical activity and peer camaraderie supports recovery that extends well beyond the ride itself.
 
@@ -107,96 +114,120 @@ The Florida Keys Soldier Ride continues Saturday through Key West, where the pub
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Predicate:** participating_in
-**Object:** Florida Keys Soldier Ride (event)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Predicate:** participating_in
+- **Object:** Florida Keys Soldier Ride (event)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > 45 wounded veterans and their supporters are participating in the annual Florida Keys Soldier Ride.
 
-### c_002 — confirmed, primary document
-**Predicate:** organizes
-**Object:** Florida Keys Soldier Ride (event)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Predicate:** organizes
+- **Object:** Florida Keys Soldier Ride (event)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > The Florida Keys Soldier Ride is organized by the Wounded Warrior Project.
 
-### c_003 — confirmed, primary document
-**Predicate:** rode
-**Object:** 17 miles, Key Largo to Islamorada (route_segment)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Predicate:** rode
+- **Object:** 17 miles, Key Largo to Islamorada (route_segment)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > The ride's first segment covered 17 miles from a Key Largo VFW post to the Theater of the Sea in Islamorada.
 
-### c_004 — confirmed, primary document
-**Predicate:** rode
-**Object:** 10 miles including Seven Mile Bridge, ending Big Pine Key (route_segment)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Predicate:** rode
+- **Object:** 10 miles including Seven Mile Bridge, ending Big Pine Key (route_segment)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > After lunch at the Marathon fire station, riders traveled another 10 miles including over the Seven Mile Bridge and stopped for the day in Big Pine Key.
 
-### c_005 — confirmed, primary document
-**Predicate:** using
-**Object:** adaptive bicycles (equipment)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Predicate:** using
+- **Object:** adaptive bicycles (equipment)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > Some riders are missing one or more limbs after combat injuries and are using bicycles fitted with special adaptive equipment.
 
-### c_006 — attributed, single source
-**Predicate:** served_in
-**Object:** U.S. Marine Corps and U.S. Army National Guard, 20+ years (military_service)
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Predicate:** served_in
+- **Object:** U.S. Marine Corps and U.S. Army National Guard, 20+ years (military_service)
+- **Sources:** src_001
 
 > Bill Hansen served more than two decades in the U.S. Marine Corps and the U.S. Army National Guard.
 
-### c_007 — attributed, single source
-**Predicate:** participated_in
-**Object:** Soldier Ride, Phoenix, 2012 (event)
-**Temporal:** 2012
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Predicate:** participated_in
+- **Object:** Soldier Ride, Phoenix, 2012 (event)
+- **Temporal:** 2012
+- **Sources:** src_001
 
 > Hansen said he participated in his first Soldier Ride in Phoenix in 2012.
 
-### c_008 — attributed, single source
-**Predicate:** experienced
-**Object:** neck and back injury, pain medication addiction (health_history)
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Predicate:** experienced
+- **Object:** neck and back injury, pain medication addiction (health_history)
+- **Sources:** src_001
 
 > Hansen said he had suffered a serious neck and back injury and become addicted to pain medication before connecting with the Wounded Warrior Project.
 
-### c_009 — confirmed, primary document
-**Predicate:** holds_role
-**Object:** CEO, Wounded Warrior Project (role)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Predicate:** holds_role
+- **Object:** CEO, Wounded Warrior Project (role)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > Walter Piatt is the CEO of the Wounded Warrior Project.
 
-### c_010 — attributed, single source
-**Predicate:** funds
-**Object:** veterans independence programs, peer-mentoring, home-hospital transport (programs)
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Predicate:** funds
+- **Object:** veterans independence programs, peer-mentoring, home-hospital transport (programs)
+- **Sources:** src_001
 
 > The Wounded Warrior Project's cycling trips raise money to foster veterans' independence, develop peer-mentoring programs, and arrange transport between home and hospital.
 
-### c_011 — confirmed, primary document
-**Predicate:** scheduled
-**Object:** Key West community ride Saturday; Dolphin Research Center Sunday (event_schedule)
-**Temporal:** 2026-01-10
-**Source IDs:** src_001
+### c_011
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Predicate:** scheduled
+- **Object:** Key West community ride Saturday; Dolphin Research Center Sunday (event_schedule)
+- **Temporal:** 2026-01-10
+- **Sources:** src_001
 
 > The Florida Keys Soldier Ride continues Saturday through Key West with a community ride open to the public, and concludes Sunday at the Dolphin Research Center in Marathon.
 
-### c_012 — attributed, single source
-**Predicate:** spectated
-**Object:** Florida Keys Soldier Ride (event)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Predicate:** spectated
+- **Object:** Florida Keys Soldier Ride (event)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > Carol Dieck is a Keys resident who lined the route to watch the riders pass.
 
@@ -205,10 +236,5 @@ The Florida Keys Soldier Ride continues Saturday through Key West, where the pub
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Daniel Kozin
 **Publication date:** 2026-01-09
-**Access date:** 2026-05-16
 **Title:** Florida Keys Soldier Ride unites veterans on Overseas Highway journey
 **URL:** https://apnews.com/article/florida-keys-soldier-ride-44458606717e749e7a976092df0cf66e
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

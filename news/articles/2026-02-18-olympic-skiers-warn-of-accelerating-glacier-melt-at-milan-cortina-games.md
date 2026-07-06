@@ -26,7 +26,7 @@ topic_tags:
   - "sport event"
   - weather
 storyline_nexus:
-  - immigration-enforcement
+- extreme-weather-disasters
 geographic_location: Italy; Alps; Dolomites; Cortina d'Ampezzo
 floor_values_engaged:
 - value: informed_citizenship
@@ -122,8 +122,6 @@ The loss extends far beyond Europe. More than 7 trillion tons of ice (6.5 trilli
 Norwegian skier Nikolai Schirmer is leading an effort to halt fossil fuel company sponsorships of winter sports, recognizing that burning coal, oil and gas is the largest contributor to global climate change. Team USA skier River Radamus described the athlete perspective.
 
 "It's always present in our mind that we're on a dangerous trend unless we do something right," Radamus said.
-
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
 
 ## Atomic claims
 
@@ -252,7 +250,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-05-18
 **Title:** Team USA skiers and others raise alarm over accelerating melt of world's glaciers
 **URL:** https://apnews.com/article/milan-cortina-winter-olympics-glaciers-climate-change-0ec71ed5278aef23cf14132728d3ee0f
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

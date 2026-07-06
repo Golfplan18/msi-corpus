@@ -101,8 +101,6 @@ The memorial honors not only Challenger's seven crew members but also the seven 
 
 NASA held its annual Day of Remembrance—observed on the fourth Thursday of January—at three locations: Kennedy Space Center in Florida, Arlington National Cemetery in Virginia, and Johnson Space Center in Texas. Lowell Grissom, brother of Apollo 1 commander Gus Grissom, attended the ceremony at Kennedy. "You always wonder what they could have accomplished had they lived longer," he said. "There was a lot of talent there."
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
 ### c_001 — confirmed, primary document
@@ -212,7 +210,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-01-22
 **Title:** NASA and families of fallen astronauts mark 40th anniversary of Challenger
 **URL:** https://apnews.com/article/space-shuttle-challenger-anniversary-nasa-47bf5099895ebc93f446f1e978f0f8c5
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

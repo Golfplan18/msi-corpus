@@ -15,44 +15,40 @@ primary_themes:
 - community_response
 - federal_state_jurisdiction
 topic_tags:
-  - "armed conflict"
-  - "conflict, war and peace"
-  - "crime, law and justice"
-  - trial
+- law enforcement
+- civil rights
+- civil unrest
+- government policy
 storyline_nexus:
-  - immigration-enforcement
-  - gaza-conflict
-  - iran-war
-geographic_location: Minneapolis, Minnesota
+- winter-storm-2026
+geographic_location: United States
 floor_values_engaged:
-- value: human_life_and_dignity
-  intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.85
-- value: informed_citizenship
-  intensity: 0.75
-framework_version: 1.1.0
-generation_timestamp: '2026-05-16T00:00:00Z'
+  intensity: 0.9
+- value: human_life_and_dignity
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-22T23:54:35Z'
 source_cluster_id: cluster_ap_2026-01-10_ice-protests-shootings-minneapolis-portl
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 16
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 8
-    reported: 2
     contested: 0
+    reported: 2
+    attributed: 8
+    alleged: 0
     confirmed: 6
+    appears: 0
   corroboration:
-    primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
-    primary_document: 4
     single_source: 11
+    primary_plus_secondary: 0
+    primary_document: 4
     two_independent: 1
 sources:
   count: 1
@@ -67,45 +63,18 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-image:
-  url: /articles/2026-01-11-federal-agents-ram-minneapolis-door-pepper-spray-protesters-in-immigration-sweep.png
-  alt: 'Illustration accompanying article: Federal agents ram Minneapolis door, pepper-spray protesters in immigration sweep'
-  source: ai_generated
-cross_article_links:
-- slug: 2026-01-10-thousands-march-across-us-after-ice-shootings-in-minneapolis-portland
-  relation: continues
-  strength: 1.0
-  confidence: high
-- slug: 2026-01-08-protests-erupt-in-minneapolis-as-officials-dispute-jurisdiction-in-fatal-ice-sho
-  relation: related
-  strength: 0.8801
-  confidence: medium
-- slug: 2026-01-08-minneapolis-protests-erupt-over-ice-killing-of-renee-good-as-portland-shooting-d
-  relation: related
-  strength: 0.8574
-  confidence: medium
-- slug: 2026-01-07-ice-officer-shoots-and-kills-minneapolis-woman-during-immigration-enforcement
-  relation: related
-  strength: 0.8456
-  confidence: medium
-- slug: 2026-01-08-ice-killing-of-minneapolis-woman-deepens-minnesota-s-conflict-with-trump
-  relation: related
-  strength: 0.8307
-  confidence: medium
-- slug: 2026-01-07-dhs-deploys-2-000-agents-to-minnesota-in-largest-immigration-operation
-  relation: continues
-  strength: 0.8337
-  confidence: high
-- slug: 2026-01-08-minneapolis-ice-shooting-renews-debate-over-lethal-force-rules-for-moving-vehicl
-  relation: related
-  strength: 0.817
-  confidence: medium
-- slug: 2026-01-08-vance-calls-minneapolis-woman-s-ice-shooting-death-a-tragedy-of-her-own-making
-  relation: related
-  strength: 0.7932
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- MINNEAPOLIS — Federal immigration agents rammed the door of a Minneapolis home Sunday and forced their way inside after pepper-spraying protesters who had confronted the heavily armed agents outside, according to video recorded by The Associated Press.
+- A man was handcuffed and led away within minutes, arrested using a document signed by an immigration officer — not a court-issued warrant — which does not authorize forced entry into a private residence under federal law.
+- The incident unfolded as the Department of Homeland Security pressed what it has called its largest immigration enforcement operation ever in the Twin Cities, four days after an ICE officer fatally shot 37-year-old Renee Good, deepening tensions between federal authorities and Minneapolis residents and drawing protests in cities across the country.
+- Some agents pushed back against the crowd before using pepper spray, AP video showed.
 
 MINNEAPOLIS — Federal immigration agents rammed the door of a Minneapolis home Sunday and forced their way inside after pepper-spraying protesters who had confronted the heavily armed agents outside, according to video recorded by The Associated Press. A man was handcuffed and led away within minutes, arrested using a document signed by an immigration officer — not a court-issued warrant — which does not authorize forced entry into a private residence under federal law.
 
@@ -147,145 +116,177 @@ Lyons said the administration's enforcement operations in Minnesota would not be
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Q329229
-**Predicate:** forced_entry
-**Object:** Minneapolis residential home (location)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Q329229
+- **Predicate:** forced_entry
+- **Object:** Minneapolis residential home (location)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > Federal immigration agents rammed the door of a Minneapolis home on Sunday, January 11, 2026, and forced their way inside.
 
-### c_002 — confirmed, primary document
-**Subject entities:** Q329229
-**Predicate:** used_force_against
-**Object:** protesters (persons)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Q329229
+- **Predicate:** used_force_against
+- **Object:** protesters (persons)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > Agents pepper-sprayed protesters outside the home before entering.
 
-### c_003 — confirmed, primary document
-**Subject entities:** Q329229
-**Predicate:** presented_document
-**Object:** immigration-officer-signed administrative warrant (legal_document)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Q329229
+- **Predicate:** presented_document
+- **Object:** immigration-officer-signed administrative warrant (legal_document)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > The arrest document presented was signed by an immigration officer, not a federal judge, and does not authorize forced entry into a private residence.
 
-### c_004 — confirmed, primary document
-**Subject entities:** Q329229
-**Predicate:** legal_scope
-**Object:** public area only (legal_standard)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Q329229
+- **Predicate:** legal_scope
+- **Object:** public area only (legal_standard)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > A warrant signed by an immigration officer only authorizes arrest in a public area and does not permit forced entry into a private residence.
 
-### c_005 — attributed, single source
-**Subject entities:** Q329229; Q170337
-**Predicate:** conducted_arrests
-**Object:** more than 2,000 (count)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Q329229; Q170337
+- **Predicate:** conducted_arrests
+- **Object:** more than 2,000 (count)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > More than 2,000 immigration arrests have been made in Minnesota since the enforcement operation began at the beginning of December, according to DHS spokesperson Tricia McLaughlin.
 
-### c_006 — attributed, single source
-**Subject entities:** Q170337
-**Predicate:** characterized
-**Object:** largest enforcement operation ever (characterization)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Q170337
+- **Predicate:** characterized
+- **Object:** largest enforcement operation ever (characterization)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > The Department of Homeland Security has called the Minnesota enforcement operation its largest ever.
 
-### c_007 — confirmed, two independent
-**Subject entities:** Q329229
-**Predicate:** fatally_shot
-**Object:** Renee Good, age 37 (person)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** two_independent
+- **Subject entities:** Q329229
+- **Predicate:** fatally_shot
+- **Object:** Renee Good, age 37 (person)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Renee Good, 37, was fatally shot by an ICE officer on Wednesday during a separate enforcement action.
 
-### c_008 — attributed, single source
-**Subject entities:** Q4952063; Q170337
-**Predicate:** announced
-**Object:** additional federal agents to Minnesota (policy_announcement)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Q4952063; Q170337
+- **Predicate:** announced
+- **Object:** additional federal agents to Minnesota (policy_announcement)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > Homeland Security Secretary Kristi Noem said on Fox News on Sunday that the administration would send additional federal agents to Minnesota to protect immigration officers and continue enforcement.
 
-### c_009 — confirmed, single source
-**Subject entities:** Q36091
-**Predicate:** announced_remote_learning
-**Object:** remote learning for one month starting January 12 (policy)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Q36091
+- **Predicate:** announced_remote_learning
+- **Object:** remote learning for one month starting January 12 (policy)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > Minneapolis public schools announced remote learning for the next month starting Monday, in response to concerns that children might feel unsafe venturing out while tensions remain high.
 
-### c_010 — attributed, single source
-**Predicate:** trained_as_observers
-**Object:** more than 20,000 people (count)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Predicate:** trained_as_observers
+- **Object:** more than 20,000 people (count)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > More than 20,000 people have trained as observers of immigration enforcement activities in Minnesota since the 2024 election, according to Luis Argueta of Unidos MN.
 
-### c_011 — attributed, single source
-**Subject entities:** Q28146697; Q22264
-**Predicate:** called_for
-**Object:** state inclusion in investigation (political_position)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Q28146697; Q22264
+- **Predicate:** called_for
+- **Object:** state inclusion in investigation (political_position)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > Minneapolis Mayor Jacob Frey and U.S. Sen. Tina Smith said Sunday that the investigation into Good's shooting should not be overseen solely by the federal government and that state authorities should be included.
 
-### c_012 — attributed, single source
-**Subject entities:** Q329229
-**Predicate:** defended
-**Object:** ICE officer who shot Good (person)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Q329229
+- **Predicate:** defended
+- **Object:** ICE officer who shot Good (person)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > The Trump administration defended the ICE officer who shot Good, saying the officer was protecting himself and fellow agents and that Good had 'weaponized' her vehicle.
 
-### c_013 — attributed, single source
-**Subject entities:** Q329229
-**Predicate:** stated
-**Object:** milliseconds to decide (defense_statement)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Q329229
+- **Predicate:** stated
+- **Object:** milliseconds to decide (defense_statement)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > Acting ICE Director Todd Lyons said on Fox News Sunday that the officer had milliseconds to decide to use force to protect himself and fellow agents.
 
-### c_014 — reported, single source
-**Subject entities:** Q329229
-**Predicate:** shot
-**Object:** two people in Portland, Oregon (persons)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_014
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Q329229
+- **Predicate:** shot
+- **Object:** two people in Portland, Oregon (persons)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > Federal agents shot two people in Portland, Oregon, during immigration enforcement operations.
 
-### c_015 — reported, single source
-**Predicate:** occurred
-**Object:** protests in New York, Los Angeles, Washington D.C., Oakland (events)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_015
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Predicate:** occurred
+- **Object:** protests in New York, Los Angeles, Washington D.C., Oakland (events)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > Protests over Good's killing and the Portland shootings occurred over the weekend in New York, Los Angeles, Washington D.C., and Oakland, California.
 
-### c_016 — attributed, single source
-**Subject entities:** Q36091
-**Predicate:** stated
-**Object:** agents swarming neighborhoods (characterization)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_016
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Q36091
+- **Predicate:** stated
+- **Object:** agents swarming neighborhoods (characterization)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > Jason Chavez, a Minneapolis city councilmember representing an area with a growing immigrant population, said federal agents have been swarming neighborhoods across Minneapolis and the state.
 
@@ -294,10 +295,5 @@ Lyons said the administration's enforcement operations in Minnesota would not be
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Rebecca Santana
 **Publication date:** 2026-01-11
-**Access date:** 2026-01-11
 **Title:** Dramatic video captures Minneapolis immigration arrest in a city on edge
 **URL:** https://apnews.com/article/ice-protests-shootings-minneapolis-portland-3f9db36657dda5bfebf9c240b6011ee5
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

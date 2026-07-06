@@ -1,6 +1,5 @@
 ---
 headline: Southern Arizona data centers advance as fights over power, water and rates intensify
-slug: 2026-01-09-southern-arizona-data-centers-advance-as-fights-over-power-water-and-rates-intensify
 publish_date: '2026-01-09'
 lede: Two large-scale data centers proposed for Southern Arizona moved forward this week after the Marana Town Council voted unanimously Tuesday night to rezone roughly 600 acres for a facility developed by Beale Infrastructure, and Pima County completed a land sale exceeding $27 million for a second Beale project east of Tucson known as Project Blue on Christmas Eve. The back-to-back advances put the region on the verge of hosting its first major data centers — and deepened a conflict over who will bear the costs of powering and cooling them.
 nut_graf: The two projects together promise $5 billion in capital investment, $145 million in local tax revenue, and more than 4,000 construction jobs, according to developers. But Arizona Attorney General Kris Mayes, the city of Tucson, and an organized citizen coalition are pressing utility regulators to reconsider an energy agreement they say could shift significant costs onto existing ratepayers — a dispute that may determine whether the projects proceed on their current timeline.
@@ -20,51 +19,48 @@ primary_themes:
 - local government land use
 - AI infrastructure
 topic_tags:
-  - "armed conflict"
-  - "artificial intelligence"
-  - "conflict, war and peace"
-  - election
-  - politics
-  - "science and technology"
+- energy and resource
+- construction and property
+- government policy
+- economy, business and finance
+- tax
 storyline_nexus:
-  - ai-regulation
-  - gaza-conflict
-  - iran-war
-geographic_location: Marana and Pima County, Arizona, United States
+- trump-climate-energy-rollbacks
+geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.85
 - value: accountability_of_power
-  intensity: 0.8
-- value: human_life_and_dignity
-  intensity: 0.5
-framework_version: 1.1.0
-generation_timestamp: '2026-01-09T00:00:00Z'
+  intensity: 0.9
+- value: equality_fairness
+  intensity: 0.9
+- value: informed_citizenship
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:01:28Z'
 source_cluster_id: cluster_ap_2026-01-08_patrick-cavanaugh-data-management-and-st
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 14
   hedges:
+    confirmed: 0
     appears: 0
-    alleged: 0
-    attributed: 14
     reported: 0
     contested: 0
-    confirmed: 0
+    attributed: 14
+    alleged: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 0
-    single_source: 14
     two_independent: 0
+    primary_document: 0
+    primary_plus_secondary: 0
+    single_source: 14
+    one_originating_plus_primary_document: 0
 sources:
   count: 1
   outlets:
-  - Associated Press / Arizona Luminaria
+  - Associated Press
   outlet_classes:
   - wire
   highest_reliability_tier: 1
@@ -78,21 +74,18 @@ image:
   url: /articles/2026-01-09-southern-arizona-data-centers-advance-as-fights-over-power-water-and-rates-inten.png
   alt: 'Illustration accompanying article: Southern Arizona data centers advance as fights over power, water and rates'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-03-community-opposition-stalls-data-center-expansion-as-backlash-spreads
-  relation: related
-  strength: 0.88
-  confidence: medium
-- slug: 2026-01-08-xai-to-build-20-billion-data-center-in-mississippi-amid-environmental-pushback
-  relation: related
-  strength: 0.8397
-  confidence: medium
-- slug: 2026-01-02-big-tech-blocks-california-data-center-rules-leaving-only-a-study-requirement
-  relation: related
-  strength: 0.8168
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Summary point 1.
+- Summary point 2.
+- Summary point 3.
+- Summary point 4.
 
 Two large-scale data centers proposed for Southern Arizona moved forward this week after the Marana Town Council voted unanimously Tuesday night to rezone roughly 600 acres for a facility developed by Beale Infrastructure, and Pima County completed a land sale exceeding $27 million for a second Beale project east of Tucson known as Project Blue on Christmas Eve. The back-to-back advances put the region on the verge of hosting its first major data centers — and deepened a conflict over who will bear the costs of powering and cooling them.
 
@@ -156,141 +149,164 @@ Beale Infrastructure said it expected Project Blue to break ground sometime in 2
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Marana Town Council; Herb Kai
-**Predicate:** voted_to_rezone
-**Object:** unanimous (vote_outcome)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Marana Town Council; Herb Kai
+- **Predicate:** voted_to_rezone
+- **Object:** unanimous (vote_outcome)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > The Marana Town Council voted unanimously on Tuesday night to rezone land for a data center, with council member Herb Kai absent and recused because his family owns one of the parcels.
 
-### c_002 — attributed, single source
-**Subject entities:** Kai Family Trust; Church of Jesus Christ of Latter-day Saints
-**Predicate:** own_parcels
-**Object:** ~600 acres (land_area)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Kai Family Trust; Church of Jesus Christ of Latter-day Saints
+- **Predicate:** own_parcels
+- **Object:** ~600 acres (land_area)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > The two parcels under consideration total about 600 acres: one owned by the Kai Family Trust and one by the Church of Jesus Christ of Latter-day Saints.
 
-### c_003 — attributed, single source
-**Subject entities:** Beale Infrastructure
-**Predicate:** is_developer_of
-**Object:** Marana data center and Project Blue (projects)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Beale Infrastructure
+- **Predicate:** is_developer_of
+- **Object:** Marana data center and Project Blue (projects)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > Beale Infrastructure is the developer of both the proposed Marana data center and Project Blue east of Tucson.
 
-### c_004 — attributed, single source
-**Subject entities:** Pima County; Project Blue
-**Predicate:** completed_land_sale
-**Object:** $27 million+ (sale_price)
-**Temporal:** 2025-12-24
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Pima County; Project Blue
+- **Predicate:** completed_land_sale
+- **Object:** $27 million+ (sale_price)
+- **Temporal:** 2025-12-24
+- **Sources:** src_001
 
 > Pima County closed on the land sale for Project Blue on December 24, with sales proceeds exceeding $27 million.
 
-### c_005 — attributed, single source
-**Subject entities:** Keri Silvyn; Beale Infrastructure; Marana
-**Predicate:** presented_projections
-**Object:** $5B investment / $145M taxes / 4,200 jobs (economic_projections)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Keri Silvyn; Beale Infrastructure; Marana
+- **Predicate:** presented_projections
+- **Object:** $5B investment / $145M taxes / 4,200 jobs (economic_projections)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Developer Keri Silvyn presented figures to the Marana council promising $5 billion in capital investment, $145 million in town tax revenue, and 4,200 construction jobs.
 
-### c_006 — attributed, single source
-**Subject entities:** Marana data center; Tucson Electric Power; Trico Electric
-**Predicate:** requires_power
-**Object:** 550-750 MW (power_demand)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Marana data center; Tucson Electric Power; Trico Electric
+- **Predicate:** requires_power
+- **Object:** 550-750 MW (power_demand)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > The Marana project is expected to require 550 to 750 megawatts of power at full build-out, served by Tucson Electric Power and Trico Electric.
 
-### c_007 — attributed, single source
-**Subject entities:** Kris Mayes; Arizona Corporation Commission; Tucson Electric Power; Humphrey's Peak Power LLC
-**Predicate:** filed_rehearing_petition
-**Object:** energy agreement (regulatory_petition)
-**Temporal:** 2025-12-30
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Kris Mayes; Arizona Corporation Commission; Tucson Electric Power; Humphrey's Peak Power LLC
+- **Predicate:** filed_rehearing_petition
+- **Object:** energy agreement (regulatory_petition)
+- **Temporal:** 2025-12-30
+- **Sources:** src_001
 
 > Arizona Attorney General Kris Mayes filed a petition on December 30 asking the Arizona Corporation Commission to rehear the energy agreement between Tucson Electric Power and Humphrey's Peak Power LLC for Project Blue.
 
-### c_008 — attributed, single source
-**Subject entities:** Kris Mayes; Tucson Electric Power
-**Predicate:** alleged_flaw_in_agreement
-**Object:** self-set rates departing from approved tariff (legal_argument)
-**Temporal:** 2025-12-30
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Kris Mayes; Tucson Electric Power
+- **Predicate:** alleged_flaw_in_agreement
+- **Object:** self-set rates departing from approved tariff (legal_argument)
+- **Temporal:** 2025-12-30
+- **Sources:** src_001
 
 > Mayes argued in her petition that the energy agreement contains a provision that lets TEP and the data center customer set its own rates by departing from the approved tariff, a decision she said should be made by the commission.
 
-### c_009 — attributed, single source
-**Subject entities:** Kevin Thompson; Arizona Corporation Commission
-**Predicate:** responded_to_petition
-**Object:** dismissed petition as theater (official_statement)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Kevin Thompson; Arizona Corporation Commission
+- **Predicate:** responded_to_petition
+- **Object:** dismissed petition as theater (official_statement)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > ACC chair Kevin Thompson called Mayes' petition 'performative band wagoning theater' and said it misunderstood the commission's procedural role.
 
-### c_010 — attributed, single source
-**Subject entities:** Arizona Corporation Commission
-**Predicate:** has_deadline_to_consider_rehearing
-**Object:** 20 calendar days (procedural_deadline)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Arizona Corporation Commission
+- **Predicate:** has_deadline_to_consider_rehearing
+- **Object:** 20 calendar days (procedural_deadline)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > The Arizona Corporation Commission has 20 calendar days from the date of the application to decide whether to grant a rehearing.
 
-### c_011 — attributed, single source
-**Subject entities:** No Desert Data Center Coalition
-**Predicate:** organized_opposition
-**Object:** hundreds of people (organizing_scope)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** No Desert Data Center Coalition
+- **Predicate:** organized_opposition
+- **Object:** hundreds of people (organizing_scope)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > The No Desert Data Center Coalition organized hundreds of people to pressure Pima County and the city of Tucson to reject data center proposals and has traveled nationally to share its organizing approach.
 
-### c_012 — attributed, single source
-**Subject entities:** Patrick Cavanaugh
-**Predicate:** voted_yes_with_reservations
-**Object:** rezoning vote (legislative_vote)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Patrick Cavanaugh
+- **Predicate:** voted_yes_with_reservations
+- **Object:** rezoning vote (legislative_vote)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Council member Patrick Cavanaugh voted in favor of the Marana rezoning despite raising concerns about generator noise, soot, and smoke, saying he was choosing to trust the power companies and Beale.
 
-### c_013 — attributed, single source
-**Subject entities:** Sue Ritz
-**Predicate:** plans_referendum_effort
-**Object:** citizen referendum on Marana rezoning (civic_action)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Sue Ritz
+- **Predicate:** plans_referendum_effort
+- **Object:** citizen referendum on Marana rezoning (civic_action)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Sue Ritz, a U.S. Army National Guard veteran, said she plans to pursue a citizen referendum on the Marana rezoning vote.
 
-### c_014 — attributed, single source
-**Subject entities:** U.S. Air Force; Davis-Monthan Air Force Base
-**Predicate:** soliciting_data_center
-**Object:** open solicitation (procurement)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Air Force; Davis-Monthan Air Force Base
+- **Predicate:** soliciting_data_center
+- **Object:** open solicitation (procurement)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > The U.S. Air Force has an open solicitation for a data center at Davis-Monthan Air Force Base in Tucson.
 
 ## Sources
 
-### src_001 — Associated Press / Arizona Luminaria, wire, Tier 1, originating
+### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Yana Kunichoff / Arizona Luminaria
 **Publication date:** 2026-01-09
-**Access date:** 2026-01-09
 **Title:** Two Southern Arizona data centers move forward — so do fights over power, water and growth
 **URL:** https://apnews.com/article/patrick-cavanaugh-data-management-and-storage-arizona-tucson-general-news-42090c8350fe876e95723b98c9bf102f
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

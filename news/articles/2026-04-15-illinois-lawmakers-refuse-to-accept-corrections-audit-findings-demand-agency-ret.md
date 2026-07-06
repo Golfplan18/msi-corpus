@@ -20,40 +20,41 @@ primary_themes:
 - public safety
 - state spending
 topic_tags:
-  - government
-  - politics
-storyline_nexus: []
-geographic_location: Illinois, United States
+- corruption
+- government
+- government policy
+- wage and pension
+storyline_nexus:
+- us-immigration-enforcement
+geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
   intensity: 0.9
-- value: informed_citizenship
-  intensity: 0.85
 - value: human_life_and_dignity
-  intensity: 0.7
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T08:13:27Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T01:00:20Z'
 source_cluster_id: cluster_ap_2026-04-16_illinois-corrections-audit-lawmakers-9b6
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 11
   hedges:
-    appears: 0
     alleged: 0
-    attributed: 0
-    reported: 2
-    contested: 0
     confirmed: 9
+    appears: 0
+    attributed: 0
+    contested: 0
+    reported: 2
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 8
-    single_source: 3
+    one_originating_plus_primary_document: 0
+    primary_plus_secondary: 0
     two_independent: 0
+    single_source: 3
 sources:
   count: 1
   outlets:
@@ -70,6 +71,9 @@ figures_aggregate:
 cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
 
 Illinois's Legislative Audit Commission refused Tuesday to accept a state Department of Corrections audit that found 40 failures — including a decade-old overtime scheme that cost the state $150 million in fiscal year 2024 — and ordered the agency to return with answers on its remediation progress.
 
@@ -131,102 +135,124 @@ Because the commission declined to accept the audit's findings, the Department o
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Legislative Audit Commission
-**Predicate:** refused_to_accept
-**Object:** DOC audit findings (audit_disposition)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Legislative Audit Commission
+- **Predicate:** refused_to_accept
+- **Object:** DOC audit findings (audit_disposition)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > The Legislative Audit Commission refused to vote to accept the findings of the Department of Corrections audit at its Tuesday hearing.
 
-### c_002 — confirmed, primary document
-**Subject entities:** Illinois Department of Corrections
-**Predicate:** found_failures
-**Object:** 40 (audit_finding_count)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Illinois Department of Corrections
+- **Predicate:** found_failures
+- **Object:** 40 (audit_finding_count)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > An audit of the Illinois Department of Corrections covering fiscal years 2023 and 2024 found 40 shortcomings, making it one of the worst-performing agencies in the state.
 
-### c_003 — confirmed, primary document
-**Subject entities:** Illinois Department of Corrections
-**Predicate:** recorded_overtime_during_paid_leave
-**Object:** 80% (percentage)
-**Temporal:** 2023-2024
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Illinois Department of Corrections
+- **Predicate:** recorded_overtime_during_paid_leave
+- **Object:** 80% (percentage)
+- **Temporal:** 2023-2024
+- **Sources:** src_001
 
 > Eighty percent of employees reviewed by auditors recorded overtime on the same days they also received paid leave.
 
-### c_004 — confirmed, primary document
-**Subject entities:** Illinois Department of Corrections
-**Predicate:** spent_on_overtime
-**Object:** $150 million (financial_figure)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Illinois Department of Corrections
+- **Predicate:** spent_on_overtime
+- **Object:** $150 million (financial_figure)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > The Department of Corrections had a $2.1 billion budget in fiscal year 2024 and overtime cost the state $150 million that year.
 
-### c_005 — confirmed, primary document
-**Subject entities:** Illinois Department of Corrections
-**Predicate:** failed_to_resolve_since
-**Object:** 2014 (year)
-**Temporal:** 2014
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Illinois Department of Corrections
+- **Predicate:** failed_to_resolve_since
+- **Object:** 2014 (year)
+- **Temporal:** 2014
+- **Sources:** src_001
 
 > The overtime practice has persisted since 2014 despite prior departmental commitments to address it.
 
-### c_006 — confirmed, primary document
-**Subject entities:** Illinois Department of Corrections
-**Predicate:** made_emergency_purchase
-**Object:** $692,640 sliced bread (procurement)
-**Temporal:** 2023
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Illinois Department of Corrections
+- **Predicate:** made_emergency_purchase
+- **Object:** $692,640 sliced bread (procurement)
+- **Temporal:** 2023
+- **Sources:** src_001
 
 > The department made a $692,640 emergency purchase for sliced bread in mid-2023, a product the department typically makes itself.
 
-### c_007 — reported, single source
-**Subject entities:** Illinois Department of Corrections
-**Predicate:** holds_on_supervised_release
-**Object:** 15,000+ (population_count)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Illinois Department of Corrections
+- **Predicate:** holds_on_supervised_release
+- **Object:** 15,000+ (population_count)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > More than 15,000 people are in DOC custody on parole or supervised release.
 
-### c_008 — confirmed, primary document
-**Subject entities:** Illinois Department of Corrections
-**Predicate:** failed_compliance_requirements
-**Object:** parolee tracking and sex offender supervision (compliance_failure)
-**Temporal:** 2023-2024
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Illinois Department of Corrections
+- **Predicate:** failed_compliance_requirements
+- **Object:** parolee tracking and sex offender supervision (compliance_failure)
+- **Temporal:** 2023-2024
+- **Sources:** src_001
 
 > The department failed to maintain a list of parolees who moved to other state facilities and failed to supervise sex offenders on mandatory supervised release or report to police agencies on their compliance.
 
-### c_009 — confirmed, primary document
-**Subject entities:** Illinois Department of Corrections
-**Predicate:** mislabeled_inmates
-**Object:** violent sexual offender designation (classification_error)
-**Temporal:** 2023-2024
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Illinois Department of Corrections
+- **Predicate:** mislabeled_inmates
+- **Object:** violent sexual offender designation (classification_error)
+- **Temporal:** 2023-2024
+- **Sources:** src_001
 
 > Some people in DOC custody were improperly labeled as violent sexual offenders despite not having committed such a crime.
 
-### c_010 — reported, single source
-**Subject entities:** Illinois Department of Corrections
-**Predicate:** reported_mail_scan_data
-**Object:** 392 to 414 discoveries; 133 to 128 exposures (statistical_comparison)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Illinois Department of Corrections
+- **Predicate:** reported_mail_scan_data
+- **Object:** 392 to 414 discoveries; 133 to 128 exposures (statistical_comparison)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Mail scanning data showed total drug discoveries increased from 392 in the six months before the rule change to 414 after, while alleged drug exposure incidents fell slightly from 133 to 128.
 
-### c_011 — confirmed, single source
-**Subject entities:** LaToya Hughes
-**Predicate:** confirmed_as_director
-**Object:** Illinois DOC Director (appointment)
-**Temporal:** 2023
-**Source IDs:** src_001
+### c_011
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** LaToya Hughes
+- **Predicate:** confirmed_as_director
+- **Object:** Illinois DOC Director (appointment)
+- **Temporal:** 2023
+- **Sources:** src_001
 
 > LaToya Hughes took over the department in 2023 and was confirmed by the Senate the month after the audit was released.
 
@@ -235,10 +261,5 @@ Because the commission declined to accept the audit's findings, the Department o
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Ben Szalinski
 **Publication date:** 2026-04-15
-**Access date:** 2026-04-15
 **Title:** Illinois lawmakers grill Department of Corrections after audit shows dozens of failures
 **URL:** https://apnews.com/article/illinois-corrections-audit-lawmakers-9b67358120735122f34bd3edab6a9e70
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

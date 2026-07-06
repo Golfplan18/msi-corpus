@@ -101,8 +101,6 @@ Fujimori, the daughter of a former president who was jailed for human rights abu
 
 The winner of the runoff will be Peru's ninth president in just 10 years. The position was previously held by José María Balcázar, who was elected interim president in February. He replaced another interim leader who was ousted over corruption allegations just four months into his term.
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
 ### c_001 — confirmed, single source
@@ -203,7 +201,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-05-17
 **Title:** Peru's electoral tribunal sets May 15 deadline for counting votes in presidential race
 **URL:** https://apnews.com/article/peru-election-deadline-0ebc7f9105393e0db5aefae262724372
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

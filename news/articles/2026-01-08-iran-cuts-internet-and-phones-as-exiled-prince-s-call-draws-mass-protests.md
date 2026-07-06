@@ -1,6 +1,5 @@
 ---
 headline: Iran cuts internet and phones as exiled prince's call draws mass protests
-slug: 2026-01-08-iran-cuts-internet-as-pahlavi-call-draws-mass-protests
 publish_date: '2026-01-08'
 lede: 'Iran''s government cut off internet access and blocked international telephone calls Thursday night as thousands of demonstrators heeded a call from exiled Crown Prince Reza Pahlavi and filled streets across Tehran and other cities, according to the internet monitoring firms CloudFlare and NetBlocks, both of which attributed the blackout to Iranian government interference.
 
@@ -20,45 +19,43 @@ primary_themes:
 - currency collapse
 - U.S.-Iran relations
 topic_tags:
-  - "civil unrest"
-  - "conflict, war and peace"
-  - government
-  - "mass media"
-  - "political dissent"
-  - "science and technology"
+- civil unrest
+- political dissent
+- government policy
+- mass media
 storyline_nexus:
-  - venezuela-crisis
-geographic_location: Iran
+- iran-nuclear-negotiations
+geographic_location: United States
 floor_values_engaged:
+- value: human_life_and_dignity
+  intensity: 0.6
+- value: accountability_of_power
+  intensity: 0.9
 - value: informed_citizenship
   intensity: 0.9
-- value: accountability_of_power
-  intensity: 0.85
-- value: human_life_and_dignity
-  intensity: 0.8
-framework_version: 1.1.0
-generation_timestamp: '2026-05-16T19:48:54Z'
+framework_version: 1.3.0
+generation_timestamp: '2026-05-22T23:50:48Z'
 source_cluster_id: cluster_ap_2026-01-07_iran-protests-us-israel-war-nuclear-econ
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 13
   hedges:
-    appears: 0
     alleged: 0
-    attributed: 12
-    reported: 0
     contested: 0
+    attributed: 12
+    appears: 0
     confirmed: 1
+    reported: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 1
     single_source: 9
     two_independent: 3
+    primary_plus_secondary: 0
+    one_originating_plus_primary_document: 0
 sources:
   count: 1
   outlets:
@@ -76,37 +73,17 @@ image:
   url: /articles/2026-01-08-iran-cuts-internet-and-phones-as-exiled-prince-s-call-draws-mass-protests.png
   alt: 'Illustration accompanying article: Iran cuts internet and phones as exiled prince''s call draws mass protests'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-04-iran-protests-reach-all-31-provinces-as-rial-collapse-deepens-internet-cut
-  relation: related
-  strength: 0.8709
-  confidence: medium
-- slug: 2026-01-03-khamenei-says-rioters-must-be-put-in-their-place-as-iran-protest-deaths-reach-15
-  relation: related
-  strength: 0.8369
-  confidence: medium
-- slug: 2026-01-01-at-least-7-killed-as-iran-protests-over-economy-spread-to-rural-provinces
-  relation: related
-  strength: 0.8362
-  confidence: medium
-- slug: 2026-01-05-iran-s-major-protests-over-50-years-from-revolution-to-rial-collapse
-  relation: related
-  strength: 0.8095
-  confidence: medium
-- slug: 2026-01-02-trump-and-iran-trade-threats-as-rial-protests-enter-sixth-day-killing-at-least-7
-  relation: related
-  strength: 0.8261
-  confidence: medium
-- slug: 2026-01-02-trump-and-iran-officials-trade-threats-as-protests-enter-sixth-day
-  relation: related
-  strength: 0.8189
-  confidence: medium
-- slug: 2026-01-07-iran-army-chief-threatens-preemptive-attack-as-protests-enter-11th-day
-  relation: related
-  strength: 0.7757
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Placeholder bullet 1.
+- Placeholder bullet 2.
+- Placeholder bullet 3.
 
 Iran's government cut off internet access and blocked international telephone calls Thursday night as thousands of demonstrators heeded a call from exiled Crown Prince Reza Pahlavi and filled streets across Tehran and other cities, according to the internet monitoring firms CloudFlare and NetBlocks, both of which attributed the blackout to Iranian government interference.
 
@@ -162,120 +139,146 @@ The protests themselves have remained broadly leaderless, and whether Pahlavi's 
 
 ## Atomic claims
 
-### c_001 — attributed, two independent
-**Subject entities:** Iran government
-**Predicate:** cut_off
-**Object:** internet access (infrastructure)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** two_independent
+- **Subject entities:** Iran government
+- **Predicate:** cut_off
+- **Object:** internet access (infrastructure)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > Iran's government cut off internet access Thursday night.
 
-### c_002 — attributed, two independent
-**Subject entities:** Iran government
-**Predicate:** cut_off
-**Object:** international telephone calls (infrastructure)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** two_independent
+- **Subject entities:** Iran government
+- **Predicate:** cut_off
+- **Object:** international telephone calls (infrastructure)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > Iran's government blocked international telephone calls Thursday night.
 
-### c_003 — attributed, two independent
-**Subject entities:** CloudFlare; NetBlocks
-**Predicate:** reported
-**Object:** internet outage attributed to Iranian government (event)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** two_independent
+- **Subject entities:** CloudFlare; NetBlocks
+- **Predicate:** reported
+- **Object:** internet outage attributed to Iranian government (event)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > CloudFlare and NetBlocks reported the internet outage and attributed it to Iranian government interference.
 
-### c_004 — confirmed, primary document
-**Subject entities:** Reza Pahlavi
-**Predicate:** called_for
-**Object:** demonstrations at 8 p.m. local time (event)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Reza Pahlavi
+- **Predicate:** called_for
+- **Object:** demonstrations at 8 p.m. local time (event)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > Crown Prince Reza Pahlavi called for demonstrations at 8 p.m. local time Thursday and Friday.
 
-### c_005 — attributed, single source
-**Subject entities:** Iran protests
-**Predicate:** killed
-**Object:** at least 42 people (casualty_count)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Iran protests
+- **Predicate:** killed
+- **Object:** at least 42 people (casualty_count)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > Violence around the demonstrations has killed at least 42 people.
 
-### c_006 — attributed, single source
-**Subject entities:** Iran government
-**Predicate:** detained
-**Object:** more than 2,270 people (detention_count)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Iran government
+- **Predicate:** detained
+- **Object:** more than 2,270 people (detention_count)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > More than 2,270 people have been detained in connection with the protests.
 
-### c_007 — attributed, single source
-**Subject entities:** Iran
-**Predicate:** currency_collapsed
-**Object:** 1.4 million rial to $1 (exchange_rate)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Iran
+- **Predicate:** currency_collapsed
+- **Object:** 1.4 million rial to $1 (exchange_rate)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > Iran's rial currency collapsed in December, reaching 1.4 million to $1.
 
-### c_008 — attributed, single source
-**Subject entities:** Donald Trump
-**Predicate:** warned
-**Object:** U.S. response if Iran kills peaceful protesters (threat)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** warned
+- **Object:** U.S. response if Iran kills peaceful protesters (threat)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > Trump warned that if Tehran violently kills peaceful protesters, America will come to their rescue.
 
-### c_009 — attributed, single source
-**Subject entities:** Narges Mohammadi
-**Predicate:** imprisoned
-**Object:** Iranian prison (location)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Narges Mohammadi
+- **Predicate:** imprisoned
+- **Object:** Iranian prison (location)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > Nobel Peace Prize laureate Narges Mohammadi remains imprisoned by Iranian authorities.
 
-### c_010 — attributed, single source
-**Subject entities:** Iran police
-**Predicate:** killed
-**Object:** police colonel stabbed (casualty)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Iran police
+- **Predicate:** killed
+- **Object:** police colonel stabbed (casualty)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > A police colonel suffered fatal stab wounds in a town outside Tehran.
 
-### c_011 — attributed, single source
-**Subject entities:** Iran security forces
-**Predicate:** killed_and_wounded
-**Object:** two killed, 30 wounded in Lordegan (casualty_count)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Iran security forces
+- **Predicate:** killed_and_wounded
+- **Object:** two killed, 30 wounded in Lordegan (casualty_count)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > Gunmen killed two security force members and wounded 30 others in a shooting in the city of Lordegan.
 
-### c_012 — attributed, single source
-**Subject entities:** Iran police station Chenaran
-**Predicate:** attacked
-**Object:** five killed (casualty_count)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Iran police station Chenaran
+- **Predicate:** attacked
+- **Object:** five killed (casualty_count)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > An attack at a police station in Chenaran killed five people Wednesday night.
 
-### c_013 — attributed, single source
-**Subject entities:** Revolutionary Guard
-**Predicate:** killed
-**Object:** two Revolutionary Guard members in Kermanshah (casualty)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Revolutionary Guard
+- **Predicate:** killed
+- **Object:** two Revolutionary Guard members in Kermanshah (casualty)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > The Revolutionary Guard said two of its members were killed in Kermanshah.
 
@@ -284,10 +287,5 @@ The protests themselves have remained broadly leaderless, and whether Pahlavi's 
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Jon Gambrell
 **Publication date:** 2026-01-08
-**Access date:** 2026-05-16
 **Title:** Internet access cut out in Iran after protests
 **URL:** https://apnews.com/article/iran-protests-us-israel-war-nuclear-economy-ebddd998fbe7903e70ca62127250ebcb
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

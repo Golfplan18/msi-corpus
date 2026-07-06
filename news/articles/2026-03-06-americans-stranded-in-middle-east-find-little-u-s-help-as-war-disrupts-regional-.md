@@ -1,6 +1,5 @@
 ---
 headline: Americans stranded in Middle East find little U.S. help as war disrupts regional flights
-slug: 2026-03-06-stranded-americans-in-middle-east-find-little-us-help-as-war-disrupts-flights
 publish_date: '2026-03-06'
 lede: 'Thousands of Americans stranded across the Middle East after Israeli-U.S. attacks on Iran began Feb. 28 largely navigated their own way home — relying on WhatsApp group chats, private drivers and alternative border crossings — as U.S. government repatriation efforts lagged behind those of allied nations, multiple travelers said Friday. The first U.S.-chartered repatriation flight did not arrive until Thursday, days after Poland, Australia, France and other countries had already dispatched military or chartered aircraft for their citizens.
 
@@ -23,43 +22,44 @@ primary_themes:
 - airspace closures
 - consular services
 topic_tags:
-  - "armed conflict"
-  - "conflict, war and peace"
-  - "human interest"
-  - "human migration"
+- armed conflict
+- conflict, war and peace
+- international relations
+- travel
+- government policy
 storyline_nexus:
-  - iran-war
-geographic_location: Middle East; United States
+- the-iran-war
+geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
   intensity: 0.9
-- value: informed_citizenship
-  intensity: 0.85
 - value: human_life_and_dignity
-  intensity: 0.7
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:46:19Z'
+  intensity: 0.9
+- value: informed_citizenship
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:38:07Z'
 source_cluster_id: cluster_ap_2026-03-05_stranded-travelers-us-response-iran-war-
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 16
   hedges:
-    appears: 0
+    contested: 0
     alleged: 0
     attributed: 12
     reported: 2
-    contested: 0
     confirmed: 2
+    appears: 0
   corroboration:
+    two_independent: 0
     primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
     primary_document: 1
     single_source: 15
-    two_independent: 0
 sources:
   count: 1
   outlets:
@@ -73,13 +73,16 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-11-severe-cold-strands-thousands-of-tourists-at-kittil-airport-as-europe-deep-freez
-  relation: related
-  strength: 0.7565
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- As of Friday, about 27,000 Americans had returned to the United States since the conflict began, the State Department said, with the vast majority traveling without government help. More than 29,00...
+- As of Friday, about 27,000 Americans had returned to the United States since the conflict began, the State Department said, with the vast majority tra
+- As of Friday, about 27,000 Americans had returned to the United States since the conflict began, the State Department said, with the vast majority tra
 
 Thousands of Americans stranded across the Middle East after Israeli-U.S. attacks on Iran began Feb. 28 largely navigated their own way home — relying on WhatsApp group chats, private drivers and alternative border crossings — as U.S. government repatriation efforts lagged behind those of allied nations, multiple travelers said Friday. The first U.S.-chartered repatriation flight did not arrive until Thursday, days after Poland, Australia, France and other countries had already dispatched military or chartered aircraft for their citizens.
 
@@ -145,147 +148,179 @@ Emirates said Friday it expected to restore its full flight network in the comin
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Americans; United States
-**Predicate:** returned_to
-**Object:** 27,000 (count)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Americans; United States
+- **Predicate:** returned_to
+- **Object:** 27,000 (count)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > About 27,000 Americans returned to the United States since the conflict began Feb. 28, 2026.
 
-### c_002 — attributed, single source
-**Subject entities:** Americans; U.S. government
-**Predicate:** returned_without_assistance
-**Object:** vast majority (description)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Americans; U.S. government
+- **Predicate:** returned_without_assistance
+- **Object:** vast majority (description)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > The vast majority of Americans who returned did so without U.S. government assistance.
 
-### c_003 — attributed, single source
-**Subject entities:** U.S. government
-**Predicate:** arrived
-**Object:** 2026-03-05 (date)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. government
+- **Predicate:** arrived
+- **Object:** 2026-03-05 (date)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > The first U.S.-chartered repatriation flight arrived Thursday, March 5, 2026.
 
-### c_004 — attributed, single source
-**Subject entities:** Americans; State Department
-**Predicate:** contacted
-**Object:** 13,000 (count)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Americans; State Department
+- **Predicate:** contacted
+- **Object:** 13,000 (count)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > About 13,000 Americans contacted the State Department seeking information or assistance about leaving the Middle East.
 
-### c_005 — reported, single source
-**Subject entities:** State Department officials; Americans
-**Predicate:** declined_or_no_show
-**Object:** 30-40% (percentage_range)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** State Department officials; Americans
+- **Predicate:** declined_or_no_show
+- **Object:** 30-40% (percentage_range)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > Two State Department officials said 30% to 40% of Americans offered seats on charter flights had either declined them or did not show up.
 
-### c_006 — attributed, single source
-**Subject entities:** Middle East airports
-**Predicate:** canceled
-**Object:** 29,000 of 51,000 (count)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Middle East airports
+- **Predicate:** canceled
+- **Object:** 29,000 of 51,000 (count)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > More than 29,000 of roughly 51,000 flights scheduled in or out of Middle East airports were canceled as of Friday, March 6, 2026.
 
-### c_007 — confirmed, single source
-**Subject entities:** Iran; Iraq; Bahrain; Kuwait; Syria
-**Predicate:** airspace_closed
-**Object:** closed (status)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Iran; Iraq; Bahrain; Kuwait; Syria
+- **Predicate:** airspace_closed
+- **Object:** closed (status)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > Airspace over Iran, Iraq, Bahrain, Kuwait and Syria remained closed as of Friday, March 6, 2026.
 
-### c_008 — attributed, single source
-**Subject entities:** Alyssa Ramos
-**Predicate:** evacuated
-**Object:** 48 hours, four continents, no U.S. help (description)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Alyssa Ramos
+- **Predicate:** evacuated
+- **Object:** 48 hours, four continents, no U.S. help (description)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > Alyssa Ramos said her evacuation from Kuwait took 48 hours and crossed four continents without any U.S. government help.
 
-### c_009 — attributed, single source
-**Subject entities:** Alyssa Ramos
-**Predicate:** created_group
-**Object:** 2,200+ members (count)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Alyssa Ramos
+- **Predicate:** created_group
+- **Object:** 2,200+ members (count)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > Ramos created WhatsApp group chats that attracted more than 2,200 members within three days.
 
-### c_010 — reported, single source
-**Subject entities:** taxi drivers; Oman border
-**Predicate:** charging
-**Object:** $650 (price)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** taxi drivers; Oman border
+- **Predicate:** charging
+- **Object:** $650 (price)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > Taxi drivers at the Oman border were charging up to $650 to take stranded travelers to Muscat's airport.
 
-### c_011 — confirmed, primary document
-**Subject entities:** Congressional Democrats; Marco Rubio
-**Predicate:** wrote_letter
-**Object:** unacceptable response (characterization)
-**Temporal:** 2026-03-03
-**Source IDs:** src_001
+### c_011
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Congressional Democrats; Marco Rubio
+- **Predicate:** wrote_letter
+- **Object:** unacceptable response (characterization)
+- **Temporal:** 2026-03-03
+- **Sources:** src_001
 
 > Democrats in Congress wrote to Secretary of State Marco Rubio on Tuesday calling the lack of preparation and communication 'unacceptable.'
 
-### c_012 — attributed, single source
-**Subject entities:** Marco Rubio
-**Predicate:** said
-**Object:** logistical challenges with airspace closures (statement)
-**Temporal:** 2026-03-03
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Marco Rubio
+- **Predicate:** said
+- **Object:** logistical challenges with airspace closures (statement)
+- **Temporal:** 2026-03-03
+- **Sources:** src_001
 
 > Secretary of State Marco Rubio said Tuesday the U.S. faced logistical challenges because 'we don't control the airspace closures.'
 
-### c_013 — attributed, single source
-**Subject entities:** Qatar
-**Predicate:** announced_partial_resumption
-**Object:** partial flight resumption (action)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Qatar
+- **Predicate:** announced_partial_resumption
+- **Object:** partial flight resumption (action)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > Qatar announced Friday it would partially resume flights for passenger evacuations and cargo through designated contingency routes.
 
-### c_014 — attributed, single source
-**Subject entities:** Emirates
-**Predicate:** expected_restoration
-**Object:** full flight network (operational_status)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Emirates
+- **Predicate:** expected_restoration
+- **Object:** full flight network (operational_status)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > Dubai-based Emirates said Friday it expected to restore its full flight network in the coming days, depending on airspace access and operational conditions.
 
-### c_015 — attributed, single source
-**Subject entities:** Azerbaijan; Iran
-**Predicate:** shut_airspace
-**Object:** southern sector (location)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Azerbaijan; Iran
+- **Predicate:** shut_airspace
+- **Object:** southern sector (location)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > Azerbaijan shut the southern sector of its airspace Thursday after accusing Iran of a drone attack that injured four civilians and damaged an airport building.
 
-### c_016 — attributed, single source
-**Subject entities:** Dubai Airports
-**Predicate:** facilitated
-**Object:** 1,140+ flights (count)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_016
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Dubai Airports
+- **Predicate:** facilitated
+- **Object:** 1,140+ flights (count)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > Dubai Airports said it had facilitated more than 1,140 flights over the past three and a half days and was adding more daily.
 
@@ -294,10 +329,5 @@ Emirates said Friday it expected to restore its full flight network in the comin
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Hallie Golden
 **Publication date:** 2026-03-06
-**Access date:** 2026-03-06
 **Title:** Stranded Americans in the Middle East navigate canceled flights and confusion
 **URL:** https://apnews.com/article/stranded-travelers-us-response-iran-war-b7a5da348d4fee76ac4a662bc16cf627
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

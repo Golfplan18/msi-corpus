@@ -16,7 +16,8 @@ primary_themes:
 topic_tags:
   - "science and technology"
   - "space programme"
-storyline_nexus: []
+storyline_nexus:
+- nasa-artemis-moon-mission
 geographic_location: International
 floor_values_engaged:
 - value: informed_citizenship
@@ -211,7 +212,3 @@ Unlike the hydrogen fuel leaks that caused an earlier delay, the helium failure 
 **Access date:** 2026-02-21
 **Title:** NASA delays Artemis II moon launch
 **URL:** https://apnews.com/article/nasa-artemis-moon-astronauts-1e02b236e110e02c0241a581a311bb25
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

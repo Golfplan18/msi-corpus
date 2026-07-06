@@ -25,8 +25,7 @@ topic_tags:
   - "conflict, war and peace"
   - environment
 storyline_nexus:
-  - iran-war
-  - ai-regulation
+- the-iran-war
 geographic_location: International
 floor_values_engaged:
 - value: informed_citizenship
@@ -270,7 +269,3 @@ Ana Maria Jaller-Makarewicz, an energy analyst at IEEFA Europe, said the conflic
 **Access date:** 2026-03-09
 **Title:** As Iran war roils energy markets, backers of renewables wish for a boost
 **URL:** https://apnews.com/article/iran-war-warming-climate-change-inflation-prices-767a9aace18b23e7d481cde01f3e0d55
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

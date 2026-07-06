@@ -21,8 +21,7 @@ topic_tags:
   - "conflict, war and peace"
   - "arts, culture, entertainment and media"
   - "arts and entertainment"
-storyline_nexus:
-  - ai-regulation
+storyline_nexus: []
 geographic_location: Dover, Delaware, United States
 floor_values_engaged:
 - value: accountability_of_power
@@ -242,7 +241,3 @@ Mehdi Hasan, founder of the online publication Zeteo, said the network would hav
 **Access date:** 2026-05-17
 **Title:** Fox News apologizes for showing old video of a hatless Trump
 **URL:** https://apnews.com/article/baseball-cap-fox-news-trump-dover-dignified-transfer-29a8f2c1a4a6b2218d18daa2eb5109d9
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

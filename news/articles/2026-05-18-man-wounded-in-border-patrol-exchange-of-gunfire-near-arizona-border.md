@@ -21,7 +21,7 @@ topic_tags:
   - politics
   - "government policy"
 storyline_nexus:
-  - immigration-enforcement
+- us-immigration-enforcement
 geographic_location: Arivaca, Arizona, United States
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -142,154 +142,188 @@ Border Patrol agents fired weapons in 8 incidents during the 12-month period thr
 
 ## Atomic claims
 
-### c_001 — attributed, primary plus secondary
-**Subject entities:** Patrick Gary Schlegel; U.S. Border Patrol
-**Predicate:** exchanged_gunfire_resulting_in_wounding
-**Object:** Schlegel wounded near Arivaca, Arizona (violent_encounter_outcome)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** Patrick Gary Schlegel; U.S. Border Patrol
+- **Predicate:** exchanged_gunfire_resulting_in_wounding
+- **Object:** Schlegel wounded near Arivaca, Arizona (violent_encounter_outcome)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Patrick Gary Schlegel was wounded on January 27 after exchanging gunfire with U.S. Border Patrol agents near Arivaca, Arizona.
 
-### c_002 — attributed, primary plus secondary
-**Subject entities:** Patrick Gary Schlegel
-**Predicate:** fired_at
-**Object:** U.S. Border Patrol helicopter (target)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** Patrick Gary Schlegel
+- **Predicate:** fired_at
+- **Object:** U.S. Border Patrol helicopter (target)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Schlegel fired at a Border Patrol helicopter during the incident.
 
-### c_003 — attributed, primary plus secondary
-**Subject entities:** U.S. Border Patrol
-**Predicate:** returned_fire_striking
-**Object:** Patrick Gary Schlegel (action_outcome)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** U.S. Border Patrol
+- **Predicate:** returned_fire_striking
+- **Object:** Patrick Gary Schlegel (action_outcome)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Border Patrol agents returned fire, striking Schlegel.
 
-### c_004 — attributed, primary plus secondary
-**Subject entities:** Patrick Gary Schlegel
-**Predicate:** transported_and_recovering
-**Object:** from surgery at hospital (medical_status)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** Patrick Gary Schlegel
+- **Predicate:** transported_and_recovering
+- **Object:** from surgery at hospital (medical_status)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Schlegel was transported to a hospital and recovering from surgery.
 
-### c_005 — alleged, primary plus secondary
-**Subject entities:** Patrick Gary Schlegel
-**Predicate:** involved_in
-**Object:** human smuggling operation (alleged_crime)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_005
+- **Hedge:** alleged
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** Patrick Gary Schlegel
+- **Predicate:** involved_in
+- **Object:** human smuggling operation (alleged_crime)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Schlegel is involved in a human smuggling operation, according to authorities.
 
-### c_006 — reported, primary plus secondary
-**Subject entities:** Patrick Gary Schlegel
-**Predicate:** expected_to_be_charged_with
-**Object:** assault on federal officer, human smuggling, felon in possession of firearm (anticipated_criminal_charges)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** Patrick Gary Schlegel
+- **Predicate:** expected_to_be_charged_with
+- **Object:** assault on federal officer, human smuggling, felon in possession of firearm (anticipated_criminal_charges)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Schlegel is expected to be charged with assault on a federal officer, human smuggling, and being a felon in possession of a firearm.
 
-### c_007 — confirmed, primary document
-**Subject entities:** Patrick Gary Schlegel
-**Predicate:** convicted_of
-**Object:** human smuggling (prior_conviction)
-**Temporal:** before 2026-01-27
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Patrick Gary Schlegel
+- **Predicate:** convicted_of
+- **Object:** human smuggling (prior_conviction)
+- **Temporal:** before 2026-01-27
+- **Sources:** src_001
 
 > Schlegel has a prior conviction for human smuggling.
 
-### c_008 — confirmed, primary document
-**Subject entities:** Patrick Gary Schlegel
-**Predicate:** had_warrant_for
-**Object:** escape from Tucson incarceration facility (warrant)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Patrick Gary Schlegel
+- **Predicate:** had_warrant_for
+- **Object:** escape from Tucson incarceration facility (warrant)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > In December 2025, Schlegel had an outstanding warrant for escape from incarceration related to a human smuggling and firearms conviction.
 
-### c_009 — confirmed, primary document
-**Subject entities:** Patrick Gary Schlegel
-**Predicate:** failed_to_return_from
-**Object:** authorized counseling session at Tucson facility (escape_incident)
-**Temporal:** 2025-12-15
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Patrick Gary Schlegel
+- **Predicate:** failed_to_return_from
+- **Object:** authorized counseling session at Tucson facility (escape_incident)
+- **Temporal:** 2025-12-15
+- **Sources:** src_001
 
 > On December 15, 2025, Schlegel signed out of his incarceration facility for a counseling session and did not return.
 
-### c_010 — confirmed, primary document
-**Subject entities:** Patrick Gary Schlegel
-**Predicate:** charged_with
-**Object:** transporting migrants illegally, concealing in truck (prior_charges)
-**Temporal:** 2023
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Patrick Gary Schlegel
+- **Predicate:** charged_with
+- **Object:** transporting migrants illegally, concealing in truck (prior_charges)
+- **Temporal:** 2023
+- **Sources:** src_001
 
 > In 2023, Schlegel was charged with transporting more than a dozen migrants illegally, hiding them under a tarp in a truck near the border.
 
-### c_011 — alleged, primary document
-**Subject entities:** Patrick Gary Schlegel
-**Predicate:** allegedly_threw_rocks_at
-**Object:** government helicopter (alleged_action)
-**Temporal:** 2023
-**Source IDs:** src_001
+### c_011
+- **Hedge:** alleged
+- **Corroboration:** primary_document
+- **Subject entities:** Patrick Gary Schlegel
+- **Predicate:** allegedly_threw_rocks_at
+- **Object:** government helicopter (alleged_action)
+- **Temporal:** 2023
+- **Sources:** src_001
 
 > In the 2023 incident, Schlegel allegedly threw rocks at a government helicopter before being apprehended.
 
-### c_012 — confirmed, primary document
-**Predicate:** found_in_truck
-**Object:** 2 pistols (evidence)
-**Temporal:** 2023
-**Source IDs:** src_001
+### c_012
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Predicate:** found_in_truck
+- **Object:** 2 pistols (evidence)
+- **Temporal:** 2023
+- **Sources:** src_001
 
 > Two pistols were found in the truck in the 2023 incident.
 
-### c_013 — attributed, primary plus secondary
-**Subject entities:** Chris Nanos; Border Patrol agent
-**Predicate:** assessed_as_lawful
-**Object:** agent's use of force in the January 27 shooting (official_assessment)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** Chris Nanos; Border Patrol agent
+- **Predicate:** assessed_as_lawful
+- **Object:** agent's use of force in the January 27 shooting (official_assessment)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Pima County Sheriff Chris Nanos said the Border Patrol agent involved "acted lawfully" based on available information.
 
-### c_014 — attributed, primary plus secondary
-**Subject entities:** Pima County Sheriff's Department; Federal Bureau of Investigation
-**Predicate:** conducting_investigation
-**Object:** use-of-force by Border Patrol (official_investigation)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** Pima County Sheriff's Department; Federal Bureau of Investigation
+- **Predicate:** conducting_investigation
+- **Object:** use-of-force by Border Patrol (official_investigation)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > The Pima County Sheriff's Department is leading a use-of-force investigation at the FBI's request, a standard procedure for federal agency shootings in the county.
 
-### c_015 — reported, primary plus secondary
-**Predicate:** exists
-**Object:** video footage of shooting (documentary_evidence)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_015
+- **Hedge:** reported
+- **Corroboration:** primary_plus_secondary
+- **Predicate:** exists
+- **Object:** video footage of shooting (documentary_evidence)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Video footage exists from the shooting, though the source was unclear.
 
-### c_016 — confirmed, primary document
-**Subject entities:** U.S. Border Patrol
-**Predicate:** fired_weapons_in
-**Object:** 8 incidents (operational_statistic)
-**Temporal:** 2025-09
-**Source IDs:** src_001
+### c_016
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Border Patrol
+- **Predicate:** fired_weapons_in
+- **Object:** 8 incidents (operational_statistic)
+- **Temporal:** 2025-09
+- **Sources:** src_001
 
 > Border Patrol agents fired weapons in 8 incidents during the 12-month period through September 2025.
 
-### c_017 — reported, primary plus secondary
-**Subject entities:** Immigration enforcement operations
-**Predicate:** resulted_in
-**Object:** 3 federal officer shootings; 2 fatal (incident_count)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_017
+- **Hedge:** reported
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** Immigration enforcement operations
+- **Predicate:** resulted_in
+- **Object:** 3 federal officer shootings; 2 fatal (incident_count)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > In January 2026, immigration enforcement operations in Minnesota resulted in three federal officer shootings, including two that were fatal.
 
@@ -301,7 +335,3 @@ Border Patrol agents fired weapons in 8 incidents during the 12-month period thr
 **Access date:** 2026-05-17
 **Title:** Man wounded near US-Mexico border in Border Patrol shooting
 **URL:** https://apnews.com/article/arizona-border-patrol-shooting-arivaca-5d097088d4851c86a2dcd3ba58250f2d
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

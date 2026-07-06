@@ -90,8 +90,6 @@ Rat poison typically contains bromadiolone, an anticoagulant that prevents blood
 
 A customer reported that a jar appeared to have been tampered with, though no one had consumed the baby food. The discovery triggered a criminal investigation by Burgenland Police.
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
 ### c_001 — confirmed, primary document
@@ -218,7 +216,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-04-20
 **Title:** HiPP recalls baby food jars in Austria after rat poison found in samples
 **URL:** https://apnews.com/article/rat-poison-baby-food-hipp-austria-f62aa2caa8f4239841dbe7a341b8bfcd
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

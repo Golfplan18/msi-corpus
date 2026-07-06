@@ -18,38 +18,36 @@ primary_themes:
 - Syria conflict
 - Operation Hawkeye Strike
 topic_tags:
-  - "armed conflict"
-  - "conflict, war and peace"
-  - terrorism
+- armed conflict
+- terrorism
+- international military intervention
 storyline_nexus:
-  - iran-war
-  - russia-ukraine-war
-  - gaza-conflict
-geographic_location: Syria
+- syria-post-conflict-integration
+geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship
   intensity: 0.9
 - value: human_life_and_dignity
-  intensity: 0.85
-- value: accountability_of_power
-  intensity: 0.65
-framework_version: 1.1.0
-generation_timestamp: '2026-05-16T00:00:00Z'
+  intensity: 0.6
+- value: truthfulness
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T04:26:22Z'
 source_cluster_id: cluster_ap_2026-01-10_united-states-syria-islamic-state-411cab
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 11
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 7
-    reported: 3
-    contested: 0
     confirmed: 1
+    contested: 0
+    alleged: 0
+    reported: 3
+    attributed: 7
+    appears: 0
   corroboration:
     primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
@@ -73,13 +71,17 @@ image:
   url: /articles/2026-01-10-us-and-jordan-strike-is-targets-across-syria-in-palmyra-ambush-retaliation.png
   alt: 'Illustration accompanying article: US and Jordan strike IS targets across Syria in Palmyra ambush retaliation'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-04-britain-and-france-strike-suspected-is-weapons-facility-near-palmyra-syria
-  relation: continues
-  strength: 0.8541
-  confidence: high
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- Article covers major news event.
+- Event impacts relevant stakeholders and regions.
+- Response unfolds according to circumstances.
+- Implications extend to broader policy landscape.
 
 The United States and Jordanian militaries struck multiple Islamic State targets across Syria on Saturday in the latest wave of retaliatory action following a December ambush that killed two Iowa National Guard soldiers and an American civilian interpreter near Palmyra, according to the U.S. Central Command.
 
@@ -107,102 +109,124 @@ The Kurdish-led Syrian Democratic Forces has for years served as the primary U.S
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** United States; Islamic State
-**Predicate:** conducted_strikes
-**Object:** multiple IS targets across Syria (military_action)
-**Temporal:** 2026-01-10
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** United States; Islamic State
+- **Predicate:** conducted_strikes
+- **Object:** multiple IS targets across Syria (military_action)
+- **Temporal:** 2026-01-10
+- **Sources:** src_001
 
 > The U.S. and partner forces conducted large-scale strikes against multiple IS targets across Syria around 12:30 p.m. ET on January 10, 2026.
 
-### c_002 — attributed, single source
-**Subject entities:** Jordan
-**Predicate:** participated_in_strikes
-**Object:** strikes against IS in Syria (military_action)
-**Temporal:** 2026-01-10
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jordan
+- **Predicate:** participated_in_strikes
+- **Object:** strikes against IS in Syria (military_action)
+- **Temporal:** 2026-01-10
+- **Sources:** src_001
 
 > Jordan's military announced it participated in the January 10 strikes.
 
-### c_003 — attributed, single source
-**Subject entities:** United States; Donald Trump
-**Predicate:** designated_operation
-**Object:** Operation Hawkeye Strike (military_operation)
-**Temporal:** 2026-01-10
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** United States; Donald Trump
+- **Predicate:** designated_operation
+- **Object:** Operation Hawkeye Strike (military_operation)
+- **Temporal:** 2026-01-10
+- **Sources:** src_001
 
 > The Trump administration designated the retaliatory campaign as Operation Hawkeye Strike.
 
-### c_004 — attributed, single source
-**Subject entities:** Edgar Brian Torres-Tovar
-**Predicate:** killed_in_attack
-**Object:** IS ambush near Palmyra (military_attack)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Edgar Brian Torres-Tovar
+- **Predicate:** killed_in_attack
+- **Object:** IS ambush near Palmyra (military_attack)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > Sgt. Edgar Brian Torres-Tovar, a member of the Iowa National Guard, was killed in the IS ambush in Palmyra in December 2025.
 
-### c_005 — attributed, single source
-**Subject entities:** William Nathaniel Howard
-**Predicate:** killed_in_attack
-**Object:** IS ambush near Palmyra (military_attack)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** William Nathaniel Howard
+- **Predicate:** killed_in_attack
+- **Object:** IS ambush near Palmyra (military_attack)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > Sgt. William Nathaniel Howard, a member of the Iowa National Guard, was killed in the IS ambush in Palmyra in December 2025.
 
-### c_006 — attributed, single source
-**Subject entities:** Ayad Mansoor Sakat
-**Predicate:** killed_in_attack
-**Object:** IS ambush near Palmyra (military_attack)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ayad Mansoor Sakat
+- **Predicate:** killed_in_attack
+- **Object:** IS ambush near Palmyra (military_attack)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > Ayad Mansoor Sakat, an American civilian interpreter, was killed in the IS ambush in Palmyra in December 2025.
 
-### c_007 — attributed, single source
-**Subject entities:** United States
-**Predicate:** launched_strikes
-**Object:** 70 IS targets across central Syria (military_action)
-**Temporal:** 2025-12-19
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** United States
+- **Predicate:** launched_strikes
+- **Object:** 70 IS targets across central Syria (military_action)
+- **Temporal:** 2025-12-19
+- **Sources:** src_001
 
 > Operation Hawkeye Strike launched December 19 with a large-scale strike hitting 70 IS targets across central Syria.
 
-### c_008 — reported, single source
-**Subject entities:** Syria; Islamic State
-**Predicate:** arrested
-**Object:** military leader of IS operations in the Levant (person)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Syria; Islamic State
+- **Predicate:** arrested
+- **Object:** military leader of IS operations in the Levant (person)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > Syrian officials said their security forces arrested the military leader of IS operations in the Levant on January 9, 2026.
 
-### c_009 — confirmed, primary document
-**Subject entities:** U.S. Central Command
-**Predicate:** stated
-**Object:** threat statement (official_statement)
-**Temporal:** 2026-01-10
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Central Command
+- **Predicate:** stated
+- **Object:** threat statement (official_statement)
+- **Temporal:** 2026-01-10
+- **Sources:** src_001
 
 > U.S. Central Command stated: 'Our message remains strong: if you harm our warfighters, we will find you and kill you anywhere in the world, no matter how hard you try to evade justice.'
 
-### c_010 — reported, single source
-**Subject entities:** United States; Syria; Bashar Assad
-**Predicate:** increased_coordination
-**Object:** central government in Damascus (diplomatic_relationship)
-**Temporal:** 2024-12
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** United States; Syria; Bashar Assad
+- **Predicate:** increased_coordination
+- **Object:** central government in Damascus (diplomatic_relationship)
+- **Temporal:** 2024-12
+- **Sources:** src_001
 
 > Since the ouster of former Syrian President Bashar Assad in December 2024, Washington has increasingly coordinated with the central government in Damascus.
 
-### c_011 — reported, single source
-**Subject entities:** Syria; Islamic State
-**Predicate:** joined_coalition
-**Object:** global coalition against IS (political_action)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Syria; Islamic State
+- **Predicate:** joined_coalition
+- **Object:** global coalition against IS (political_action)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Syria joined the global coalition against IS.
 
@@ -210,10 +234,5 @@ The Kurdish-led Syrian Democratic Forces has for years served as the primary U.S
 
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Publication date:** 2026-01-10
-**Access date:** 2026-01-10
-**Title:** US launches new retaliatory strikes against IS in Syria after deadly ambush
+**Title:** US launches new retaliatory strikes against IS in Syria
 **URL:** https://apnews.com/article/united-states-syria-islamic-state-411cab1d15b646cf30c4084ba2838fe4
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

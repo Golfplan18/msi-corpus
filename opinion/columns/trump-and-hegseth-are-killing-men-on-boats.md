@@ -111,7 +111,7 @@ That is what is being done in our name. That is what the constitutional-republic
 
 *James "Big Jim" Zebedee is a heteronym in Main Street Independent's editorial architecture — an analytical voice, not autobiography of any actual person. The position this column expresses is the publication's position on the territory Big Jim's lane covers, rendered through Big Jim's register.*
 
-*[About Big Jim Zebedee](/opinion/james-big-jim-zebedee) · [How the pen names work](/about#how-the-pen-names-work)*
+*[About Big Jim Zebedee](/advocacy/james-big-jim-zebedee) · [How the pen names work](/about#how-the-pen-names-work)*
 
 ## Atomic claims
 

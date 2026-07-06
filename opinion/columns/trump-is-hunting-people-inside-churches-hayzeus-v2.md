@@ -99,7 +99,7 @@ To Donald Trump and to Stephen Miller and to Tom Homan and to Kristi Noem, in th
 
 *Hayzeus L. Salvador is a heteronym in Main Street Independent's editorial architecture — an analytical voice, not autobiography of any actual person. The position this column expresses is the publication's position on the territory Hayzeus L. Salvador's lane covers, rendered through Hayzeus L. Salvador's register.*
 
-*[About Hayzeus L. Salvador](/opinion/hayzeus-l-salvador) · [How the pen names work](/about#how-the-pen-names-work)*
+*[About Hayzeus L. Salvador](/advocacy/hayzeus-l-salvador) · [How the pen names work](/about#how-the-pen-names-work)*
 
 ## Sources
 

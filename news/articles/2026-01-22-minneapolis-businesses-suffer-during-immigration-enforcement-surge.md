@@ -20,9 +20,9 @@ primary_themes:
 - business disruption
 - federal operation
 topic_tags:
-  - "economy, business and finance"
+- economy, business and finance
 storyline_nexus:
-  - immigration-enforcement
+- us-immigration-enforcement
 geographic_location: Minneapolis, Minnesota, USA
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -94,10 +94,6 @@ cross_article_links:
   relation: related
   strength: 0.7171
   confidence: medium
-- slug: 2026-01-07-dhs-deploys-2-000-agents-to-minnesota-in-largest-immigration-operation
-  relation: related
-  strength: 0.7197
-  confidence: medium
 draft: false
 ---
 
@@ -147,144 +143,172 @@ Immigration attorneys have raised concerns that ICE has entered private spaces w
 
 At Taste of East African, Nimale has received an outpouring of support from non-immigrant neighbors. Before the enforcement surge, she estimates close to 80% of her customers were Somali. Now, that figure stands at roughly 10%, with new customers unfamiliar with East African cuisine filling the gap despite the slower service caused by the shortage of employees.
 
-"I'm grateful for my neighbors' kindness," Nimale said, "but I worry it's far from a sustainable solution. We don't know how long we can get support."
-
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
+Nimale said she is grateful for her neighbors' kindness but worries it's far from a sustainable solution. "We don't know how long we can get support," she said.
 
 ## Atomic claims
 
-### c_001 — reported, primary document
-**Subject entities:** Minneapolis businesses; Trump administration
-**Predicate:** experienced_economic_impact
-**Object:** sales drops up to 80% (economic_impact)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Minneapolis businesses; Trump administration
+- **Predicate:** experienced_economic_impact
+- **Object:** sales drops up to 80% (economic_impact)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Minneapolis businesses reported sales drops up to 80% during Trump administration's immigration enforcement operation.
 
-### c_002 — reported, primary document
-**Subject entities:** customers; employees
-**Predicate:** avoiding_area
-**Object:** fear of immigration enforcement (behavioral_response)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** customers; employees
+- **Predicate:** avoiding_area
+- **Object:** fear of immigration enforcement (behavioral_response)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Customers and employees are avoiding Minneapolis businesses out of fear of immigration enforcement.
 
-### c_003 — confirmed, primary document
-**Subject entities:** Minnesota; Twin Cities
-**Predicate:** filed_lawsuit
-**Object:** challenging immigration enforcement operation citing devastating economic impacts (legal_action)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Minnesota; Twin Cities
+- **Predicate:** filed_lawsuit
+- **Object:** challenging immigration enforcement operation citing devastating economic impacts (legal_action)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Minnesota and the Twin Cities filed a lawsuit this month challenging the immigration enforcement operation.
 
-### c_004 — reported, primary document
-**Subject entities:** Twin Cities hotels
-**Predicate:** stopped_accepting_reservations
-**Object:** due to protests and federal agent concerns (business_response)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Twin Cities hotels
+- **Predicate:** stopped_accepting_reservations
+- **Object:** due to protests and federal agent concerns (business_response)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Some hotels in the Twin Cities stopped accepting reservations due to protests and concerns about federal agent presence.
 
-### c_005 — attributed, primary document
-**Subject entities:** Hibaq Nimale; Taste of East African; customers
-**Predicate:** stated
-**Object:** customers afraid of ICE questioning even of citizens (attributed_quote)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Hibaq Nimale; Taste of East African; customers
+- **Predicate:** stated
+- **Object:** customers afraid of ICE questioning even of citizens (attributed_quote)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Hibaq Nimale, manager of Taste of East African in Minneapolis, said customers are afraid to come because even citizens can be questioned by ICE.
 
-### c_006 — attributed, primary document
-**Subject entities:** Minneapolis Federal Reserve; Minnesota businesses
-**Predicate:** reported
-**Object:** dampened sales and slower foot traffic (economic_indicator)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Minneapolis Federal Reserve; Minnesota businesses
+- **Predicate:** reported
+- **Object:** dampened sales and slower foot traffic (economic_indicator)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Minneapolis Federal Reserve reported that some Minnesota businesses experienced dampened sales and slower foot traffic out of fear of immigration enforcement.
 
-### c_007 — attributed, primary document
-**Subject entities:** Minnesota businesses
-**Predicate:** reported
-**Object:** lower employment head counts (employment_metric)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Minnesota businesses
+- **Predicate:** reported
+- **Object:** lower employment head counts (employment_metric)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Nearly 20% of Minnesota businesses surveyed reported lower employment head counts due to fear of immigration enforcement.
 
-### c_008 — attributed, primary document
-**Subject entities:** Fred Haberman; marketing firm
-**Predicate:** stated
-**Object:** operations impacted by disrupted support systems (attributed_quote)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Fred Haberman; marketing firm
+- **Predicate:** stated
+- **Object:** operations impacted by disrupted support systems (attributed_quote)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Fred Haberman, CEO of a Minneapolis marketing firm, said his operations have been impacted by disruptions to support systems like schools and day care programs.
 
-### c_009 — attributed, primary document
-**Subject entities:** Adam Duininck; Minneapolis Downtown Improvement District
-**Predicate:** stated
-**Object:** impacts extend to all sectors including white collar (attributed_quote)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Adam Duininck; Minneapolis Downtown Improvement District
+- **Predicate:** stated
+- **Object:** impacts extend to all sectors including white collar (attributed_quote)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Adam Duininck, CEO of the Minneapolis Downtown Improvement District, stated the economic impacts affect all sectors including white collar businesses.
 
-### c_010 — attributed, primary document
-**Subject entities:** protesters; organizers; residents
-**Predicate:** planned_strike
-**Object:** general strike for Friday (protest_action)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** protesters; organizers; residents
+- **Predicate:** planned_strike
+- **Object:** general strike for Friday (protest_action)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > A general strike is planned for Friday to protest the immigration enforcement operation.
 
-### c_011 — attributed, primary document
-**Subject entities:** faith leaders; labor unions; activists
-**Predicate:** organized_boycott
-**Object:** not work, shop, or attend school Friday (protest_call)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** faith leaders; labor unions; activists
+- **Predicate:** organized_boycott
+- **Object:** not work, shop, or attend school Friday (protest_call)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Faith leaders, labor unions, and activists called for residents to not work, shop, or go to school on Friday to demand cessation of ICE actions.
 
-### c_012 — reported, primary document
-**Subject entities:** Target Corp.; clergy; demonstrators
-**Predicate:** experienced_protests
-**Object:** protests demanding stronger stance on federal law enforcement (protest_action)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Target Corp.; clergy; demonstrators
+- **Predicate:** experienced_protests
+- **Object:** protests demanding stronger stance on federal law enforcement (protest_action)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Target Corp. experienced protests from clergy and demonstrators calling for stronger positions against federal law enforcement activities.
 
-### c_013 — attributed, primary document
-**Subject entities:** immigration enforcement officers
-**Predicate:** can_legally_operate
-**Object:** in public areas of businesses (legal_authority)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** immigration enforcement officers
+- **Predicate:** can_legally_operate
+- **Object:** in public areas of businesses (legal_authority)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Immigration enforcement officers can legally enter public areas of businesses and question, seize information from, or arrest people.
 
-### c_014 — attributed, primary document
-**Subject entities:** ICE
-**Predicate:** requires_authorization
-**Object:** to enter private business spaces (legal_requirement)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** ICE
+- **Predicate:** requires_authorization
+- **Object:** to enter private business spaces (legal_requirement)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > ICE requires permission from the employer or a judicial warrant to enter private spaces of a business.
 
-### c_015 — attributed, primary document
-**Subject entities:** Hibaq Nimale; neighbors
-**Predicate:** providing_support
-**Object:** temporary economic support and new customers (attributed_quote)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Hibaq Nimale; neighbors
+- **Predicate:** providing_support
+- **Object:** temporary economic support and new customers (attributed_quote)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Hibaq Nimale said support from non-immigrant neighbors has temporarily offset her business's economic challenges.
 
@@ -296,7 +320,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-01-21
 **Title:** Minneapolis businesses suffer during massive immigration sweep
 **URL:** https://apnews.com/article/immigration-minnesota-economy-hilton-26fcb9165ec98bc77dc86e57f65022cc
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

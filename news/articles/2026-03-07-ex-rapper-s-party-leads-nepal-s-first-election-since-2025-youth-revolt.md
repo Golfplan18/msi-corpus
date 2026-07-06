@@ -19,8 +19,7 @@ primary_themes:
 topic_tags:
   - "election"
   - "politics"
-storyline_nexus:
-  - 2026-midterms
+storyline_nexus: []
 geographic_location: Kathmandu, Nepal
 floor_values_engaged:
 - value: informed_citizenship
@@ -219,7 +218,3 @@ The 2025 protests that set the backdrop for this vote were initially triggered b
 **Access date:** 2026-03-07
 **Title:** Nepal election: ex-rapper's party leads early results
 **URL:** https://apnews.com/article/nepal-parliament-election-results-balendra-shah-aac242077d2dd052e7e9bdd7c088ccc9
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

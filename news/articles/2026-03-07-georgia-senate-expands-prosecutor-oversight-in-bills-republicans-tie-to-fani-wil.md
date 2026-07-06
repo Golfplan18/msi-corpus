@@ -22,7 +22,8 @@ primary_themes:
 topic_tags:
   - "government policy"
   - "politics"
-storyline_nexus: []
+storyline_nexus:
+- trump-judicial-challenges
 geographic_location: Atlanta, Fulton County, Georgia, United States
 floor_values_engaged:
 - value: accountability_of_power
@@ -107,111 +108,135 @@ A third measure, originally drafted to allow Georgia's attorney general to inter
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Georgia State Senate
-**Predicate:** passed
-**Object:** prosecutor oversight legislation (legislative_action)
-**Temporal:** 2026-03-07
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Georgia State Senate
+- **Predicate:** passed
+- **Object:** prosecutor oversight legislation (legislative_action)
+- **Temporal:** 2026-03-07
+- **Sources:** src_001
 
 > Georgia's Republican-controlled Senate passed legislation Friday expanding the grounds for disciplining or removing local prosecutors.
 
-### c_002 — confirmed, primary document
-**Subject entities:** Fani Willis; Donald Trump
-**Predicate:** obtained_indictment
-**Object:** indictment against Trump and 18 others (legal_action)
-**Temporal:** 2023-08
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Fani Willis; Donald Trump
+- **Predicate:** obtained_indictment
+- **Object:** indictment against Trump and 18 others (legal_action)
+- **Temporal:** 2023-08
+- **Sources:** src_001
 
 > Willis in August 2023 obtained an indictment against Trump and 18 others, accusing them of participating in a wide-ranging scheme to illegally try to overturn the results of the 2020 presidential election.
 
-### c_003 — confirmed, primary document
-**Subject entities:** Fani Willis
-**Predicate:** barred_and_dismissed
-**Object:** appearance of impropriety (court_ruling)
-**Temporal:** 2025-11
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Fani Willis
+- **Predicate:** barred_and_dismissed
+- **Object:** appearance of impropriety (court_ruling)
+- **Temporal:** 2025-11
+- **Sources:** src_001
 
 > Courts barred Willis and her office from pursuing the case because of an 'appearance of impropriety' stemming from a romantic relationship she had with a prosecutor she had hired to lead the case, and the case was dismissed in November.
 
-### c_004 — confirmed, primary document
-**Subject entities:** Prosecuting Attorneys Qualifications Commission
-**Predicate:** authorized_to_discipline
-**Object:** new disciplinary grounds (legislative_provision)
-**Temporal:** 2026-03-07
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Prosecuting Attorneys Qualifications Commission
+- **Predicate:** authorized_to_discipline
+- **Object:** new disciplinary grounds (legislative_provision)
+- **Temporal:** 2026-03-07
+- **Sources:** src_001
 
 > The measure lets the commission discipline prosecutors for violating bar rules, failing to notify crime victims of prosecutor actions, failing to comply with public records requests, or showing 'undue bias or prejudice' against the person being prosecuted.
 
-### c_005 — attributed, single source
-**Subject entities:** Bill Cowsert
-**Predicate:** denied
-**Object:** measure targeted at Willis (denial)
-**Temporal:** 2026-03-07
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Bill Cowsert
+- **Predicate:** denied
+- **Object:** measure targeted at Willis (denial)
+- **Temporal:** 2026-03-07
+- **Sources:** src_001
 
 > State Sen. Bill Cowsert, an Athens Republican running for attorney general, denied the measure was targeted at Willis.
 
-### c_006 — attributed, single source
-**Subject entities:** Burt Jones
-**Predicate:** stated
-**Object:** Willis case highlighted need for PAQC oversight (statement)
-**Temporal:** 2026-03-07
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Burt Jones
+- **Predicate:** stated
+- **Object:** Willis case highlighted need for PAQC oversight (statement)
+- **Temporal:** 2026-03-07
+- **Sources:** src_001
 
 > Republican Lt. Gov. Burt Jones, who has been endorsed by Trump in his run for governor, said Willis' prosecution of Trump highlighted the need for commission oversight.
 
-### c_007 — confirmed, single source
-**Subject entities:** Prosecuting Attorneys Qualifications Commission
-**Predicate:** dismissed_complaints
-**Object:** 137 of 140 complaints dismissed (statistic)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Prosecuting Attorneys Qualifications Commission
+- **Predicate:** dismissed_complaints
+- **Object:** 137 of 140 complaints dismissed (statistic)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Of 140 complaints filed with the commission in 2025, only three related complaints about the same solicitor general in a rural county were not dismissed.
 
-### c_008 — confirmed, single source
-**Subject entities:** Michael Howard
-**Predicate:** resigned
-**Object:** agreed never to seek prosecutor post (resignation)
-**Temporal:** 2025-07
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Michael Howard
+- **Predicate:** resigned
+- **Object:** agreed never to seek prosecutor post (resignation)
+- **Temporal:** 2025-07
+- **Sources:** src_001
 
 > Washington County Solicitor General Michael Howard resigned in July while under investigation, agreeing to never run for a prosecutor post again.
 
-### c_009 — confirmed, single source
-**Subject entities:** Georgia State Senate
-**Predicate:** defeated
-**Object:** nonpartisan election measure for five metro Atlanta counties (legislative_outcome)
-**Temporal:** 2026-03-07
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Georgia State Senate
+- **Predicate:** defeated
+- **Object:** nonpartisan election measure for five metro Atlanta counties (legislative_outcome)
+- **Temporal:** 2026-03-07
+- **Sources:** src_001
 
 > A measure that would have made district attorneys and some other county officials be elected on a nonpartisan basis in five Democratic-dominated metro Atlanta counties was defeated after eight Republicans voted against it.
 
-### c_010 — confirmed, single source
-**Subject entities:** Georgia State Senate; Bill Cowsert
-**Predicate:** amended_and_passed
-**Object:** AG intervention measure amended to require DA request (legislative_outcome)
-**Temporal:** 2026-03-07
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Georgia State Senate; Bill Cowsert
+- **Predicate:** amended_and_passed
+- **Object:** AG intervention measure amended to require DA request (legislative_outcome)
+- **Temporal:** 2026-03-07
+- **Sources:** src_001
 
 > A third measure originally would have allowed Georgia's attorney general to intervene in serious criminal cases without the district attorney's consent, but Democrats supported the measure after Cowsert watered it down to allow district attorneys to request assistance.
 
-### c_011 — confirmed, single source
-**Subject entities:** Georgia State Senate
-**Predicate:** running_for_statewide_office
-**Object:** primaries set for May 19 (political_context)
-**Temporal:** 2026-05-19
-**Source IDs:** src_001
+### c_011
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Georgia State Senate
+- **Predicate:** running_for_statewide_office
+- **Object:** primaries set for May 19 (political_context)
+- **Temporal:** 2026-05-19
+- **Sources:** src_001
 
 > Several of the state senators who backed the measure are running for statewide office, with primaries set for May 19.
 
-### c_012 — confirmed, primary document
-**Subject entities:** Georgia State Senate; Fani Willis
-**Predicate:** created_committee
-**Object:** Special Committee on Investigations (legislative_body)
-**Temporal:** 2024-01
-**Source IDs:** src_001
+### c_012
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Georgia State Senate; Fani Willis
+- **Predicate:** created_committee
+- **Object:** Special Committee on Investigations (legislative_body)
+- **Temporal:** 2024-01
+- **Sources:** src_001
 
 > The state Senate created the Special Committee on Investigations in January 2024 to examine allegations of misconduct against Willis regarding her prosecution of Trump.
 
@@ -223,7 +248,3 @@ A third measure, originally drafted to allow Georgia's attorney general to inter
 **Access date:** 2026-03-07
 **Title:** Fulton County DA Fani Willis at center of Georgia GOP's new bill
 **URL:** https://apnews.com/article/fani-willis-georgia-republicans-678f33ee6f530b166a3799c3dbc7e360
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

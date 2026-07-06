@@ -24,44 +24,41 @@ primary_themes:
 - emergency preparedness
 - government response
 topic_tags:
-  - weather
-  - "weather warning"
-  - "crime, law and justice"
-  - "law enforcement"
-  - politics
-  - "government policy"
+- weather warning
+- weather
+- natural disaster
+- disaster
 storyline_nexus:
-  - immigration-enforcement
-  - winter-storm-2026
-geographic_location: Northeastern United States
+- extreme-weather-disasters
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
-  intensity: 0.7
-- value: informed_citizenship
   intensity: 0.9
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+- value: informed_citizenship
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T01:03:02Z'
 source_cluster_id: cluster_ap_2026-02-23_us-east-coast-blizzard-warning-fc4b3a4c8
 gdelt_event_ids: []
-consensus_floor_version: 1.0.0
-publication_mindspec_version: 1.0.0
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 24
   hedges:
-    appears: 0
-    alleged: 0
     attributed: 12
-    reported: 12
-    contested: 0
     confirmed: 0
+    alleged: 0
+    reported: 12
+    appears: 0
+    contested: 0
   corroboration:
-    primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
-    primary_document: 0
-    single_source: 24
+    primary_plus_secondary: 0
     two_independent: 0
+    single_source: 24
+    primary_document: 0
 sources:
   count: 1
   outlets:
@@ -75,25 +72,16 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-07-ice-and-snow-close-schools-across-new-england-as-more-storms-approach
-  relation: related
-  strength: 0.8662
-  confidence: medium
-- slug: 2025-12-29-how-intense-winter-storms-become-bomb-cyclones
-  relation: related
-  strength: 0.8002
-  confidence: medium
-- slug: 2025-12-29-power-outages-can-turn-dangerous-fast-experts-detail-how-to-prepare
-  relation: related
-  strength: 0.7817
-  confidence: medium
-- slug: 2025-12-29-experts-lay-out-safety-steps-for-surviving-a-power-outage
-  relation: related
-  strength: 0.7772
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- The National Weather Service warned of 1 to 2 feet of snow across many areas, combined with heavy winds and visibility as low as a quarter-mile. Snow began falling across New Jersey and New York as of…
+- - value: human_life_and_dignity
 
 New York City and New Jersey announced travel bans, airlines canceled more than 3,500 flights, and Broadway shows were shuttered Sunday evening as a fierce winter storm moved toward the Northeastern United States, prompting blizzard warnings from Maryland to Massachusetts.
 
@@ -127,223 +115,269 @@ John Berlingieri, owner of Berrington Snow Management on Long Island, said he an
 
 Emergency alerts were sent to New York City residents' phones, warning them to stay off roads "due to dangerous blizzard conditions."
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** New York City
-**Predicate:** announced
-**Object:** non-emergency travel ban, 9pm Sunday to noon Monday (government_action)
-**Temporal:** 2026-02-22
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** New York City
+- **Predicate:** announced
+- **Object:** non-emergency travel ban, 9pm Sunday to noon Monday (government_action)
+- **Temporal:** 2026-02-22
+- **Sources:** src_001
 
 > New York City announced a travel ban on non-emergency travel from 9 p.m. ET Sunday through noon Monday.
 
-### c_002 — attributed, single source
-**Subject entities:** New Jersey
-**Predicate:** announced
-**Object:** travel bans (government_action)
-**Temporal:** 2026-02-22
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** New Jersey
+- **Predicate:** announced
+- **Object:** travel bans (government_action)
+- **Temporal:** 2026-02-22
+- **Sources:** src_001
 
 > New Jersey announced travel bans.
 
-### c_003 — reported, single source
-**Subject entities:** airlines
-**Predicate:** canceled
-**Object:** 3,500+ flights (transportation_disruption)
-**Temporal:** 2026-02-22
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** airlines
+- **Predicate:** canceled
+- **Object:** 3,500+ flights (transportation_disruption)
+- **Temporal:** 2026-02-22
+- **Sources:** src_001
 
 > Airlines canceled more than 3,500 flights across the U.S. as of Sunday afternoon.
 
-### c_004 — reported, single source
-**Subject entities:** Broadway
-**Predicate:** canceled
-**Object:** evening shows (entertainment_disruption)
-**Temporal:** 2026-02-22
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Broadway
+- **Predicate:** canceled
+- **Object:** evening shows (entertainment_disruption)
+- **Temporal:** 2026-02-22
+- **Sources:** src_001
 
 > Broadway shows were canceled Sunday evening.
 
-### c_005 — attributed, single source
-**Subject entities:** National Weather Service
-**Predicate:** issued
-**Object:** blizzard warnings, Maryland to Massachusetts (weather_alert)
-**Temporal:** 2026-02-22
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** National Weather Service
+- **Predicate:** issued
+- **Object:** blizzard warnings, Maryland to Massachusetts (weather_alert)
+- **Temporal:** 2026-02-22
+- **Sources:** src_001
 
 > Blizzard warnings were issued from Maryland to Massachusetts.
 
-### c_006 — attributed, single source
-**Subject entities:** National Weather Service
-**Predicate:** forecast
-**Object:** 1 to 2 feet of snow (weather_forecast)
-**Temporal:** 2026-02-22
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** National Weather Service
+- **Predicate:** forecast
+- **Object:** 1 to 2 feet of snow (weather_forecast)
+- **Temporal:** 2026-02-22
+- **Sources:** src_001
 
 > The National Weather Service said 1 to 2 feet of snow was possible in many areas.
 
-### c_007 — reported, single source
-**Subject entities:** weather conditions
-**Predicate:** forecast
-**Object:** quarter-mile or less visibility (weather_forecast)
-**Temporal:** 2026-02-22
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** weather conditions
+- **Predicate:** forecast
+- **Object:** quarter-mile or less visibility (weather_forecast)
+- **Temporal:** 2026-02-22
+- **Sources:** src_001
 
 > Visibility in many areas was expected to be a quarter-mile or less.
 
-### c_008 — attributed, single source
-**Subject entities:** Cody Snell; National Weather Service
-**Predicate:** said
-**Object:** major winter storm and major impact for Northeast (expert_assessment)
-**Temporal:** 2026-02-22
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Cody Snell; National Weather Service
+- **Predicate:** said
+- **Object:** major winter storm and major impact for Northeast (expert_assessment)
+- **Temporal:** 2026-02-22
+- **Sources:** src_001
 
 > Cody Snell, a meteorologist at the National Weather Service's Weather Prediction Center, said the storm is a major winter storm and major impact for the Northeast.
 
-### c_009 — reported, single source
-**Subject entities:** New York; New Jersey; Delaware; Rhode Island; Connecticut; Massachusetts
-**Predicate:** declared
-**Object:** states of emergency (government_action)
-**Temporal:** 2026-02-22
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** New York; New Jersey; Delaware; Rhode Island; Connecticut; Massachusetts
+- **Predicate:** declared
+- **Object:** states of emergency (government_action)
+- **Temporal:** 2026-02-22
+- **Sources:** src_001
 
 > States of emergency were declared in New York, New Jersey, Delaware, Rhode Island, Connecticut, and Massachusetts.
 
-### c_010 — reported, single source
-**Subject entities:** New York City
-**Predicate:** warned
-**Object:** stay off roads due to dangerous blizzard conditions (public_alert)
-**Temporal:** 2026-02-22
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** New York City
+- **Predicate:** warned
+- **Object:** stay off roads due to dangerous blizzard conditions (public_alert)
+- **Temporal:** 2026-02-22
+- **Sources:** src_001
 
 > Emergency alerts warned New York City residents to stay off roads due to dangerous blizzard conditions.
 
-### c_011 — attributed, single source
-**Subject entities:** DoorDash
-**Predicate:** announced
-**Object:** suspension of deliveries overnight (business_disruption)
-**Temporal:** 2026-02-22
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** DoorDash
+- **Predicate:** announced
+- **Object:** suspension of deliveries overnight (business_disruption)
+- **Temporal:** 2026-02-22
+- **Sources:** src_001
 
 > DoorDash announced it was suspending deliveries in New York City overnight.
 
-### c_012 — reported, single source
-**Subject entities:** Arlington National Cemetery
-**Predicate:** announced
-**Object:** closures Monday (facility_closure)
-**Temporal:** 2026-02-22
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Arlington National Cemetery
+- **Predicate:** announced
+- **Object:** closures Monday (facility_closure)
+- **Temporal:** 2026-02-22
+- **Sources:** src_001
 
 > Arlington National Cemetery announced closures for Monday.
 
-### c_013 — reported, single source
-**Subject entities:** weather forecast
-**Predicate:** forecast
-**Object:** 2 inches per hour snowfall, heaviest overnight Sunday to Monday (weather_forecast)
-**Temporal:** 2026-02-22
-**Source IDs:** src_001
+### c_013
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** weather forecast
+- **Predicate:** forecast
+- **Object:** 2 inches per hour snowfall, heaviest overnight Sunday to Monday (weather_forecast)
+- **Temporal:** 2026-02-22
+- **Sources:** src_001
 
 > Some of the heaviest snow was expected to fall overnight Sunday into Monday, with as much as 2 inches per hour accumulating at times in some areas.
 
-### c_014 — reported, single source
-**Subject entities:** weather conditions
-**Predicate:** forecast
-**Object:** whiteout conditions and potentially historic/destructive storm (weather_impact)
-**Temporal:** 2026-02-22
-**Source IDs:** src_001
+### c_014
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** weather conditions
+- **Predicate:** forecast
+- **Object:** whiteout conditions and potentially historic/destructive storm (weather_impact)
+- **Temporal:** 2026-02-22
+- **Sources:** src_001
 
 > Strong wind gusts could cause whiteout conditions and a potentially historic or destructive storm.
 
-### c_015 — attributed, single source
-**Subject entities:** Bryce Williams; National Weather Service
-**Predicate:** said
-**Object:** winds and heavy wet snow cause tree damage and power outages (expert_assessment)
-**Temporal:** 2026-02-22
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Bryce Williams; National Weather Service
+- **Predicate:** said
+- **Object:** winds and heavy wet snow cause tree damage and power outages (expert_assessment)
+- **Temporal:** 2026-02-22
+- **Sources:** src_001
 
 > Bryce Williams, a meteorologist with the National Weather Service's Boston office, said winds combined with heavy, wet snow cause damaged trees and prolonged power outages.
 
-### c_016 — attributed, single source
-**Subject entities:** Frank Pereira; National Weather Service
-**Predicate:** said
-**Object:** storm may meet bomb cyclone definition (expert_assessment)
-**Temporal:** 2026-02-22
-**Source IDs:** src_001
+### c_016
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Frank Pereira; National Weather Service
+- **Predicate:** said
+- **Object:** storm may meet bomb cyclone definition (expert_assessment)
+- **Temporal:** 2026-02-22
+- **Sources:** src_001
 
 > Frank Pereira, a National Weather Service meteorologist, said the storm could possibly meet the definition of a bomb cyclone.
 
-### c_017 — attributed, single source
-**Subject entities:** bomb cyclone
-**Predicate:** defined_as
-**Object:** pressure drop of 24+ millibars in 24 hours (meteorological_definition)
-**Temporal:** 2026-02-22
-**Source IDs:** src_001
+### c_017
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** bomb cyclone
+- **Predicate:** defined_as
+- **Object:** pressure drop of 24+ millibars in 24 hours (meteorological_definition)
+- **Temporal:** 2026-02-22
+- **Sources:** src_001
 
 > A bomb cyclone is defined as a storm that drops at least 24 millibars in pressure in 24 hours.
 
-### c_018 — attributed, single source
-**Subject entities:** Frank Pereira
-**Predicate:** forecast
-**Object:** 24+ millibar pressure drop in next 24 hours (weather_forecast)
-**Temporal:** 2026-02-22
-**Source IDs:** src_001
+### c_018
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Frank Pereira
+- **Predicate:** forecast
+- **Object:** 24+ millibar pressure drop in next 24 hours (weather_forecast)
+- **Temporal:** 2026-02-22
+- **Sources:** src_001
 
 > Pereira said he expected the storm to drop by at least 24 millibars over the next 24 hours.
 
-### c_019 — reported, single source
-**Subject entities:** Zohran Mamdani; New York City schools
-**Predicate:** canceled
-**Object:** in-person and virtual classes Monday (government_action)
-**Temporal:** 2026-02-22
-**Source IDs:** src_001
+### c_019
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Zohran Mamdani; New York City schools
+- **Predicate:** canceled
+- **Object:** in-person and virtual classes Monday (government_action)
+- **Temporal:** 2026-02-22
+- **Sources:** src_001
 
 > NYC Mayor Zohran Mamdani canceled in-person and virtual classes for city schools on Monday.
 
-### c_020 — attributed, single source
-**Subject entities:** Zohran Mamdani
-**Predicate:** said
-**Object:** first old-school snow day since 2019 (quote)
-**Temporal:** 2026-02-22
-**Source IDs:** src_001
+### c_020
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Zohran Mamdani
+- **Predicate:** said
+- **Object:** first old-school snow day since 2019 (quote)
+- **Temporal:** 2026-02-22
+- **Sources:** src_001
 
 > Mamdani called the cancellation the first old-school snow day since 2019.
 
-### c_021 — reported, single source
-**Subject entities:** New York City
-**Predicate:** recruited
-**Object:** snow shovelers, starting Sunday night (government_action)
-**Temporal:** 2026-02-22
-**Source IDs:** src_001
+### c_021
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** New York City
+- **Predicate:** recruited
+- **Object:** snow shovelers, starting Sunday night (government_action)
+- **Temporal:** 2026-02-22
+- **Sources:** src_001
 
 > City officials recruited people to shovel snow, with some to begin work Sunday night.
 
-### c_022 — reported, single source
-**Subject entities:** outreach workers
-**Predicate:** working
-**Object:** moving homeless people to shelters and warming centers (social_services)
-**Temporal:** 2026-02-22
-**Source IDs:** src_001
+### c_022
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** outreach workers
+- **Predicate:** working
+- **Object:** moving homeless people to shelters and warming centers (social_services)
+- **Temporal:** 2026-02-22
+- **Sources:** src_001
 
 > Outreach workers were working to move homeless New Yorkers off streets into shelters and warming centers.
 
-### c_023 — reported, single source
-**Subject entities:** airlines
-**Predicate:** reported
-**Object:** thousands of delays (transportation_disruption)
-**Temporal:** 2026-02-22
-**Source IDs:** src_001
+### c_023
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** airlines
+- **Predicate:** reported
+- **Object:** thousands of delays (transportation_disruption)
+- **Temporal:** 2026-02-22
+- **Sources:** src_001
 
 > Thousands of flight delays were reported in addition to cancellations.
 
-### c_024 — attributed, single source
-**Subject entities:** John Berlingieri
-**Predicate:** anticipated
-**Object:** at least one week of 24-36 hour shifts (business_impact)
-**Temporal:** 2026-02-22
-**Source IDs:** src_001
+### c_024
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** John Berlingieri
+- **Predicate:** anticipated
+- **Object:** at least one week of 24-36 hour shifts (business_impact)
+- **Temporal:** 2026-02-22
+- **Sources:** src_001
 
 > John Berlingieri, owner of Berrington Snow Management, anticipated at least one week of work around the clock clearing snow.
 
@@ -352,10 +386,5 @@ This article was generated algorithmically by Main Street Independent's News Art
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Anthony Izaguirre
 **Publication date:** 2026-02-22
-**Access date:** 2026-05-18
 **Title:** US East Coast braces for heavy snow with blizzard alerts in the region
 **URL:** https://apnews.com/article/us-east-coast-blizzard-warning-fc4b3a4c86542ae691d1e87cda8e6fce
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

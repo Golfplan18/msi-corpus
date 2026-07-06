@@ -18,39 +18,41 @@ primary_themes:
 - holiday travel
 - Venezuela
 topic_tags:
-  - "armed conflict"
-  - "conflict, war and peace"
-  - "disaster, accident and emergency incident"
-storyline_nexus: []
-geographic_location: Caribbean region
+- armed conflict
+- international military intervention
+- travel
+- economy, business and finance
+storyline_nexus:
+- venezuela-political-military-crisis
+geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship
-  intensity: 0.85
-- value: human_life_and_dignity
-  intensity: 0.35
-framework_version: 1.1.0
-generation_timestamp: '2026-05-16T16:45:24Z'
+  intensity: 0.9
+- value: truthfulness
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-22T23:55:00Z'
 source_cluster_id: cluster_ap_2026-01-02_caribbean-flight-canceled-maduro-venezue
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 12
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 12
-    reported: 0
-    contested: 0
     confirmed: 0
+    attributed: 12
+    alleged: 0
+    appears: 0
+    contested: 0
+    reported: 0
   corroboration:
+    two_independent: 0
+    primary_document: 0
     primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
-    primary_document: 0
     single_source: 12
-    two_independent: 0
 sources:
   count: 1
   outlets:
@@ -72,17 +74,16 @@ cross_article_links: []
 draft: false
 ---
 
-A U.S. military operation that captured Venezuelan President Nicolás Maduro on Saturday triggered the cancellation of hundreds of flights across the eastern Caribbean, grounding nearly 60 percent of departures from San Juan's international airport and stranding holiday travelers across nearly two dozen island destinations. The Federal Aviation Administration imposed airspace restrictions following the operation, halting all commercial airline traffic over Venezuela. U.S. Transportation Secretary Sean Duffy said Saturday night the restrictions would end at midnight Eastern time, allowing airlines to resume normal operations Sunday.
+## Summary
 
-The disruptions came during one of the busiest post-holiday travel weekends of the year, with millions of Americans still trying to return from Caribbean vacations ahead of Monday's resumption of work and school.
+**Subtype:** fact
 
-According to FlightRadar24.com, no airline flights crossed Venezuelan airspace Saturday. Luis Muñoz Marín International Airport in San Juan, Puerto Rico, said in a statement posted to social media that restrictions had been imposed because of "the security situation related to military activity" in Venezuela. FlightAware.com reported that about 60 percent of all flights to and from the San Juan airport were canceled. Foreign airline and military aircraft were not included in the FAA restrictions.
-
-JetBlue, based in New York, said it canceled about 215 flights "due to airspace closures across the Caribbean related to military activity." Dutch carrier KLM also canceled flights affecting thousands of passengers but planned to resume service Sunday to Curaçao, Aruba, Bonaire and other islands. Canadian carrier WestJet said it canceled Aruba flights "out of an abundance of caution," while Air Canada said its Caribbean flights were operating normally and offered travelers an option to rebook.
-
-Affected destinations included Anguilla, Antigua, Curaçao, St. Lucia and both the U.S. and British Virgin Islands. Destinations farther west, including the Dominican Republic and Jamaica, were generally not affected.
-
-To help absorb the backlog, Southwest Airlines said it added six extra round-trip flights to Puerto Rico on Sunday and eight more on Monday, along with two additional Sunday flights to Aruba.
+- US military operation in Venezuela disrupts Caribbean holiday travel, hundreds of flights canceled
+- The U.S. military operation that captured Venezuelan President Nicolás Maduro and flew him out of the country early Saturday also disrupted Caribbean travel at a busy travel time for the region.
+- But U.S. Transportation Secretary Sean Duffy said Saturday night that the restrictions would end at midnight EST and airlines would be able to resume normal operations Sunday.
+- “I love it here. But we have dog-sitting and cat-sitting and car rental. It’s fine. It’s just really painful on the wallet,” Levine said.
+- The Levines hoped to book an earlier trip back if possible.
+- Diaz said “it’s understandable we want to unplug,” but travelers should keep track of what’s going on and allow airlines to send them phone alerts.
 
 ## Island governments warn of broader economic disruption
 
@@ -102,111 +103,135 @@ Cruise passengers were also caught in the disruptions. Virgin Voyages said trave
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Nicolas Maduro; U.S. military
-**Predicate:** captured_and_removed
-**Object:** Maduro captured, flown out of Venezuela (event)
-**Temporal:** 2026-01-03
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Nicolas Maduro; U.S. military
+- **Predicate:** captured_and_removed
+- **Object:** Maduro captured, flown out of Venezuela (event)
+- **Temporal:** 2026-01-03
+- **Sources:** src_001
 
 > A U.S. military operation captured Venezuelan President Nicolás Maduro and flew him out of the country early Saturday.
 
-### c_002 — attributed, single source
-**Subject entities:** Venezuela
-**Predicate:** airspace_closed_to_commercial_airlines
-**Object:** zero commercial crossings (operational_status)
-**Temporal:** 2026-01-03
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Venezuela
+- **Predicate:** airspace_closed_to_commercial_airlines
+- **Object:** zero commercial crossings (operational_status)
+- **Temporal:** 2026-01-03
+- **Sources:** src_001
 
 > No airline flights were crossing Venezuelan airspace Saturday, according to FlightRadar24.com.
 
-### c_003 — attributed, single source
-**Subject entities:** Federal Aviation Administration
-**Predicate:** imposed_restrictions
-**Object:** flight restrictions, eastern Caribbean (regulatory_action)
-**Temporal:** 2026-01-03
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Federal Aviation Administration
+- **Predicate:** imposed_restrictions
+- **Object:** flight restrictions, eastern Caribbean (regulatory_action)
+- **Temporal:** 2026-01-03
+- **Sources:** src_001
 
 > The FAA imposed flight restrictions across the eastern Caribbean following the operation.
 
-### c_004 — attributed, single source
-**Subject entities:** Luis Muñoz Marín International Airport
-**Predicate:** flights_canceled
-**Object:** ~60% (percentage)
-**Temporal:** 2026-01-03
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Luis Muñoz Marín International Airport
+- **Predicate:** flights_canceled
+- **Object:** ~60% (percentage)
+- **Temporal:** 2026-01-03
+- **Sources:** src_001
 
 > Nearly 60 percent of all flights to and from Luis Muñoz Marín International Airport in San Juan were canceled Saturday, according to FlightAware.com.
 
-### c_005 — attributed, single source
-**Subject entities:** JetBlue
-**Predicate:** canceled_flights
-**Object:** ~215 flights (count)
-**Temporal:** 2026-01-03
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** JetBlue
+- **Predicate:** canceled_flights
+- **Object:** ~215 flights (count)
+- **Temporal:** 2026-01-03
+- **Sources:** src_001
 
 > JetBlue canceled about 215 flights due to airspace closures across the Caribbean related to military activity.
 
-### c_006 — attributed, single source
-**Subject entities:** Sean Duffy
-**Predicate:** announced_restriction_end
-**Object:** midnight EST January 3-4 (timestamp)
-**Temporal:** 2026-01-03
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Sean Duffy
+- **Predicate:** announced_restriction_end
+- **Object:** midnight EST January 3-4 (timestamp)
+- **Temporal:** 2026-01-03
+- **Sources:** src_001
 
 > U.S. Transportation Secretary Sean Duffy said Saturday night the restrictions would end at midnight Eastern time and airlines could resume normal operations Sunday.
 
-### c_007 — attributed, single source
-**Subject entities:** Southwest Airlines
-**Predicate:** added_recovery_flights
-**Object:** 6 Sunday + 8 Monday Puerto Rico round-trips; 2 Sunday Aruba round-trips (operational_response)
-**Temporal:** 2026-01-04
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Southwest Airlines
+- **Predicate:** added_recovery_flights
+- **Object:** 6 Sunday + 8 Monday Puerto Rico round-trips; 2 Sunday Aruba round-trips (operational_response)
+- **Temporal:** 2026-01-04
+- **Sources:** src_001
 
 > Southwest Airlines added six extra round-trip flights to Puerto Rico on Sunday, eight more Monday, and two additional Sunday flights to Aruba.
 
-### c_008 — attributed, single source
-**Subject entities:** Mia Mottley; Barbados
-**Predicate:** described_disruption
-**Object:** exceedingly disruptive to both ports of entry (official_statement)
-**Temporal:** 2026-01-03
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Mia Mottley; Barbados
+- **Predicate:** described_disruption
+- **Object:** exceedingly disruptive to both ports of entry (official_statement)
+- **Temporal:** 2026-01-03
+- **Sources:** src_001
 
 > Barbados Prime Minister Mia Mottley said at a news conference that the consequences of the conflict had been exceedingly disruptive to both the island's airport and its seaport.
 
-### c_009 — attributed, single source
-**Subject entities:** AAA
-**Predicate:** projected_holiday_travel
-**Object:** 122.4 million Americans (projection)
-**Temporal:** 2025-12-19/2026-01-01
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** AAA
+- **Predicate:** projected_holiday_travel
+- **Object:** 122.4 million Americans (projection)
+- **Temporal:** 2025-12-19/2026-01-01
+- **Sources:** src_001
 
 > AAA projected that 122.4 million Americans would travel at least 50 miles from home during the 13-day holiday period.
 
-### c_010 — attributed, single source
-**Subject entities:** Lesser Antilles
-**Predicate:** affected_by_cancellations
-**Object:** ~24 destinations affected; Dominican Republic and Jamaica not affected (geographic_scope)
-**Temporal:** 2026-01-03
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Lesser Antilles
+- **Predicate:** affected_by_cancellations
+- **Object:** ~24 destinations affected; Dominican Republic and Jamaica not affected (geographic_scope)
+- **Temporal:** 2026-01-03
+- **Sources:** src_001
 
 > Nearly two dozen island destinations were affected, including Anguilla, Antigua, Curaçao, St. Lucia and the U.S. and British Virgin Islands; destinations farther west such as the Dominican Republic and Jamaica were generally not affected.
 
-### c_011 — attributed, single source
-**Subject entities:** KLM
-**Predicate:** canceled_and_planned_resumption
-**Object:** thousands of passengers affected; Sunday resumption planned (operational_status)
-**Temporal:** 2026-01-03
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** KLM
+- **Predicate:** canceled_and_planned_resumption
+- **Object:** thousands of passengers affected; Sunday resumption planned (operational_status)
+- **Temporal:** 2026-01-03
+- **Sources:** src_001
 
 > KLM canceled flights affecting thousands of passengers but planned to resume service Sunday to Curaçao, Aruba, Bonaire and other islands.
 
-### c_012 — attributed, single source
-**Subject entities:** Virgin Voyages
-**Predicate:** offered_credit_policy
-**Object:** full credit for future trip (policy)
-**Temporal:** 2026-01-03
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Virgin Voyages
+- **Predicate:** offered_credit_policy
+- **Object:** full credit for future trip (policy)
+- **Temporal:** 2026-01-03
+- **Sources:** src_001
 
 > Virgin Voyages said cruise passengers unable to reach San Juan in time for upcoming departures would receive full credit for a future trip.
 
@@ -215,10 +240,5 @@ Cruise passengers were also caught in the disruptions. Virgin Voyages said trave
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Matt O'Brien
 **Publication date:** 2026-01-03
-**Access date:** 2026-01-03
 **Title:** US operation in Venezuela disrupts regional travel
 **URL:** https://apnews.com/article/caribbean-flight-canceled-maduro-venezuela-d8d7006de25f0b95bea3a0d0ff3757eb
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

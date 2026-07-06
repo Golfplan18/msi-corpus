@@ -20,40 +20,44 @@ primary_themes:
 - school_consolidation
 - community_anchor_institutions
 topic_tags:
-  - education
-  - school
-storyline_nexus: []
-geographic_location: Orick, Humboldt County, California, United States
+- education
+- education policy
+- communities
+- school
+- economy
+storyline_nexus:
+- housing-affordability-crisis
+geographic_location: United States
 floor_values_engaged:
+- value: equality_fairness
+  intensity: 0.9
 - value: human_life_and_dignity
-  intensity: 0.85
+  intensity: 0.6
 - value: informed_citizenship
-  intensity: 0.8
-- value: accountability_of_power
-  intensity: 0.65
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T08:45:00Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:46:35Z'
 source_cluster_id: cluster_ap_2026-04-21_california-small-schools-cost-orick-9c73
 gdelt_event_ids: []
-consensus_floor_version: v1.0.0
-publication_mindspec_version: v1.2.0
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 38
   hedges:
     appears: 0
-    alleged: 0
-    attributed: 6
-    reported: 32
     contested: 0
+    reported: 32
+    alleged: 0
     confirmed: 0
+    attributed: 6
   corroboration:
     primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 0
-    single_source: 38
     two_independent: 0
+    one_originating_plus_primary_document: 0
+    single_source: 38
 sources:
   count: 1
   outlets:
@@ -67,21 +71,20 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-09-california-projects-2-9-billion-deficit-in-newsom-s-final-year-as-governor
-  relation: related
-  strength: 0.6605
-  confidence: medium
-- slug: 2026-01-08-newsom-proposes-shifting-california-k-12-oversight-from-elected-school-chief-to-
-  relation: related
-  strength: 0.6601
-  confidence: medium
-- slug: 2026-01-05-west-virginia-electricity-rates-rose-34-in-five-years-pushing-residents-to-despe
-  relation: related
-  strength: 0.6621
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- One school, nine students. CA pays over $100,000 per kid to keep small schools open
+- A merger would also alienate one of the communities, Wallace said. Both communities are highly invested in their schools and prize their independence and local control, he said.
+- Grand juries in Santa Clara and Sonoma counties have recommended consolidating small districts to save money, but neither of those reports led to changes.
+- Michael Davies-Hughes, the county superintendent of schools, encourages small districts to plan ahead to avoid abrupt mid-year closures, which are disruptive to students, families and staff.
+- “We want districts to be proactive, so they have options,” Davies-Hughes said. “For some, the current model may be increasingly difficult to maintain.”
+- “I mean, come on, how many other schools are in such an incredible setting?” Frick said. “Orick is a great place to go to school.”
 
 Orick Elementary School District in northern Humboldt County operates a single kindergarten-through-eighth-grade school with nine students. California spends $118,000 per pupil per year to keep it open — more than five times the state average. The town of Orick has about 300 residents, down from 3,000 in the 1960s, as the logging industry collapsed and families departed.
 
@@ -139,363 +142,432 @@ About half the students are Native American. The school offers robust curriculum
 
 "I mean, come on, how many other schools are in such an incredible setting?" Frick said. "The facility is clean, safe, well maintained. We provide a high-quality, individualized education for each child."
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. Framework specification: /methodology. Human review: not triggered.
-
 Released under CC0 — Public Domain.
 
 ## Atomic claims
 
-### c_001 — reported, single source
-**Subject entities:** Orick Elementary School District
-**Predicate:** has_enrollment
-**Object:** 9 (enrollment_count)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Orick Elementary School District
+- **Predicate:** has_enrollment
+- **Object:** 9 (enrollment_count)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Orick Elementary School District has nine students.
 
-### c_002 — reported, single source
-**Subject entities:** California; Orick Elementary School District
-**Predicate:** per_pupil_spending
-**Object:** $118,000 per year (financial_metric)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** California; Orick Elementary School District
+- **Predicate:** per_pupil_spending
+- **Object:** $118,000 per year (financial_metric)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > California spends $118,000 per student per year at Orick Elementary School District.
 
-### c_003 — reported, single source
-**Subject entities:** Orick Elementary School District; California
-**Predicate:** exceeds_average
-**Object:** 5x (multiple)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Orick Elementary School District; California
+- **Predicate:** exceeds_average
+- **Object:** 5x (multiple)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Orick's per-pupil spending is more than five times the California state average.
 
-### c_004 — reported, single source
-**Subject entities:** Orick
-**Predicate:** had_population
-**Object:** 3,000 (population)
-**Temporal:** 1960s
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Orick
+- **Predicate:** had_population
+- **Object:** 3,000 (population)
+- **Temporal:** 1960s
+- **Sources:** src_001
 
 > Orick had a population of about 3,000 in the 1960s.
 
-### c_005 — reported, single source
-**Subject entities:** Orick
-**Predicate:** has_population
-**Object:** 300 (population)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Orick
+- **Predicate:** has_population
+- **Object:** 300 (population)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Orick currently has about 300 residents.
 
-### c_006 — reported, single source
-**Subject entities:** Orick
-**Predicate:** had_lumber_mills
-**Object:** 7 (count)
-**Temporal:** 1960s
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Orick
+- **Predicate:** had_lumber_mills
+- **Object:** 7 (count)
+- **Temporal:** 1960s
+- **Sources:** src_001
 
 > Orick had seven lumber mills in the 1960s.
 
-### c_007 — reported, single source
-**Subject entities:** Orick
-**Predicate:** had_enrollment
-**Object:** nearly 300 (enrollment)
-**Temporal:** 1960s
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Orick
+- **Predicate:** had_enrollment
+- **Object:** nearly 300 (enrollment)
+- **Temporal:** 1960s
+- **Sources:** src_001
 
 > Nearly 300 students were enrolled in Orick schools in the 1960s.
 
-### c_008 — reported, single source
-**Subject entities:** Orick
-**Predicate:** has_household_income
-**Object:** $39,000 (economic_metric)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Orick
+- **Predicate:** has_household_income
+- **Object:** $39,000 (economic_metric)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Orick's average household income is just under $39,000 per year.
 
-### c_009 — attributed, single source
-**Subject entities:** Orick
-**Predicate:** experiences_social_challenges
-**Object:** poverty, unemployment, food insecurity, domestic violence, substance abuse, criminal justice involvement (documented_conditions)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Orick
+- **Predicate:** experiences_social_challenges
+- **Object:** poverty, unemployment, food insecurity, domestic violence, substance abuse, criminal justice involvement (documented_conditions)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > According to Orick School's accountability plan, residents experience high rates of poverty, unemployment, food insecurity, domestic violence, substance abuse, and criminal justice involvement.
 
-### c_010 — reported, single source
-**Subject entities:** Kimberly Frick
-**Predicate:** holds_position_and_family_history
-**Object:** fifth-generation student; board president (status)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Kimberly Frick
+- **Predicate:** holds_position_and_family_history
+- **Object:** fifth-generation student; board president (status)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Kimberly Frick is the fifth generation in her family to attend Orick School and is school board president.
 
-### c_011 — attributed, single source
-**Subject entities:** Justin Wallace
-**Predicate:** discusses_closure_concerns
-**Object:** closure is equity issue for families unable to afford alternatives (attributed_perspective)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Justin Wallace
+- **Predicate:** discusses_closure_concerns
+- **Object:** closure is equity issue for families unable to afford alternatives (attributed_perspective)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Justin Wallace, Orick superintendent, said of school closure: 'It comes up all the time' and called keeping the school open an equity issue.
 
-### c_012 — reported, single source
-**Subject entities:** Orick Elementary School District
-**Predicate:** provides_community_services
-**Object:** food pantry, clothes distribution, NA meetings, toddler program, laundry (services_list)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Orick Elementary School District
+- **Predicate:** provides_community_services
+- **Object:** food pantry, clothes distribution, NA meetings, toddler program, laundry (services_list)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > The school operates as a food pantry, distributes clothes to families in need, hosts Narcotics Anonymous meetings, runs a toddler playgroup, and provides a washer and dryer for community use.
 
-### c_013 — reported, single source
-**Subject entities:** Orick Elementary School District; Justin Wallace
-**Predicate:** allocates_budget_to_staff
-**Object:** four full-time staff with superintendent wearing multiple roles (budget_allocation)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_013
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Orick Elementary School District; Justin Wallace
+- **Predicate:** allocates_budget_to_staff
+- **Object:** four full-time staff with superintendent wearing multiple roles (budget_allocation)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Most of the school's budget goes to salaries for four full-time staff: two teachers, an administrative assistant, and Superintendent Wallace, who also serves as principal, literacy coach, and special education director.
 
-### c_014 — reported, single source
-**Subject entities:** Orick Elementary School District
-**Predicate:** employs_part_time_staff
-**Object:** janitor, cook, counselor, special ed teacher, after-school teacher (staff_list)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_014
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Orick Elementary School District
+- **Predicate:** employs_part_time_staff
+- **Object:** janitor, cook, counselor, special ed teacher, after-school teacher (staff_list)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Part-time staff include a janitor, cook, counselor, special education teacher, and after-school teacher.
 
-### c_015 — reported, single source
-**Subject entities:** Orick Elementary School District
-**Predicate:** incurs_heating_costs
-**Object:** $1,100 per month (expense)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_015
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Orick Elementary School District
+- **Predicate:** incurs_heating_costs
+- **Object:** $1,100 per month (expense)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Heating bills at Orick school can cost $1,100 per month.
 
-### c_016 — reported, single source
-**Subject entities:** Orick; McKinleyville
-**Predicate:** transports_students
-**Object:** 30 miles (distance)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_016
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Orick; McKinleyville
+- **Predicate:** transports_students
+- **Object:** 30 miles (distance)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > When Orick students take swim lessons, they are transported 30 miles south to McKinleyville.
 
-### c_017 — reported, single source
-**Subject entities:** Orick Elementary School District; Big Lagoon Union Elementary District
-**Predicate:** merger_economics
-**Object:** savings under $200k, offset by transportation increases (financial_analysis)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_017
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Orick Elementary School District; Big Lagoon Union Elementary District
+- **Predicate:** merger_economics
+- **Object:** savings under $200k, offset by transportation increases (financial_analysis)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > A merger between Orick and Big Lagoon Union Elementary District would save less than $200,000 annually in facility costs and superintendent salary but would increase transportation costs.
 
-### c_018 — reported, single source
-**Subject entities:** California
-**Predicate:** consolidated_districts
-**Object:** from 3,500+ to 1,000 (consolidation_ratio)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_018
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** California
+- **Predicate:** consolidated_districts
+- **Object:** from 3,500+ to 1,000 (consolidation_ratio)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > California had more than 3,500 school districts in the early 20th century and the state gradually consolidated to 1,000 today.
 
-### c_019 — reported, single source
-**Subject entities:** Sonoma County
-**Predicate:** has_many_districts
-**Object:** 40 (count)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_019
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Sonoma County
+- **Predicate:** has_many_districts
+- **Object:** 40 (count)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Sonoma County has 40 school districts, some with only a handful of students.
 
-### c_020 — attributed, single source
-**Subject entities:** Eric Wittmershaus
-**Predicate:** describes_consolidation_barrier
-**Object:** universal agreement problem exists, but local resistance prevents solution (attributed_quote)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_020
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Eric Wittmershaus
+- **Predicate:** describes_consolidation_barrier
+- **Object:** universal agreement problem exists, but local resistance prevents solution (attributed_quote)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Eric Wittmershaus, spokesman for Sonoma County Office of Education, said consolidation resistance is the core problem: 'Everyone in the community agrees it's too many' districts. 'The problem is that no one wants to close their school.'
 
-### c_021 — reported, single source
-**Subject entities:** California
-**Predicate:** has_intervention_threshold
-**Object:** six students (threshold)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_021
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** California
+- **Predicate:** has_intervention_threshold
+- **Object:** six students (threshold)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > California allows a school district's average daily attendance to slip below six students before the state intervenes.
 
-### c_022 — reported, single source
-**Subject entities:** California Legislative Analyst's Office
-**Predicate:** recommended_unimplemented_policy
-**Object:** 100-student minimum (unimplemented) (recommendation)
-**Temporal:** 2011
-**Source IDs:** src_001
+### c_022
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** California Legislative Analyst's Office
+- **Predicate:** recommended_unimplemented_policy
+- **Object:** 100-student minimum (unimplemented) (recommendation)
+- **Temporal:** 2011
+- **Sources:** src_001
 
 > In 2011, the California Legislative Analyst's Office recommended raising the minimum district size to 100 students, but the recommendation was never implemented.
 
-### c_023 — reported, single source
-**Subject entities:** Gavin Newsom; California
-**Predicate:** funds_small_schools
-**Object:** 20% boost for schools <97 (elementary) or <287 (high school), 10+ miles away (budget_policy)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_023
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Gavin Newsom; California
+- **Predicate:** funds_small_schools
+- **Object:** 20% boost for schools <97 (elementary) or <287 (high school), 10+ miles away (budget_policy)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Governor Gavin Newsom's current budget includes a 20 percent funding boost for 'necessary small schools' — elementary schools with fewer than 97 students at least 10 miles from the nearest other school, or high schools with fewer than 287 students.
 
-### c_024 — attributed, single source
-**Subject entities:** Carrie Hahnel
-**Predicate:** questions_policy_premise
-**Object:** challenges assumption of school in every location (attributed_quote)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_024
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Carrie Hahnel
+- **Predicate:** questions_policy_premise
+- **Object:** challenges assumption of school in every location (attributed_quote)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Carrie Hahnel, senior associate partner at Bellwether education research nonprofit, questioned whether the state must guarantee schools in every community: 'Do we need to provide a school in every community? A post office? What if that community barely exists?'
 
-### c_025 — reported, single source
-**Subject entities:** Green Point Elementary District
-**Predicate:** consolidated_due_to_decline
-**Object:** 3 students; $108,000 per-pupil cost (case_example)
-**Temporal:** 2025-2026
-**Source IDs:** src_001
+### c_025
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Green Point Elementary District
+- **Predicate:** consolidated_due_to_decline
+- **Object:** 3 students; $108,000 per-pupil cost (case_example)
+- **Temporal:** 2025-2026
+- **Sources:** src_001
 
 > Green Point Elementary District in the Klamath Mountains consolidated with a neighboring district last year when enrollment fell to three, with per-pupil spending of $108,000 per year.
 
-### c_026 — reported, single source
-**Subject entities:** Kashia Elementary District; Sonoma County
-**Predicate:** faces_closure_risk
-**Object:** 8 students, closure at risk (district_status)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_026
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Kashia Elementary District; Sonoma County
+- **Predicate:** faces_closure_risk
+- **Object:** 8 students, closure at risk (district_status)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Kashia Elementary District in Sonoma County, with eight students last year, is at risk of closing next year.
 
-### c_027 — reported, single source
-**Subject entities:** Humboldt County
-**Predicate:** has_declining_enrollment_trend
-**Object:** declining since 1990s; no rebound expected (enrollment_trend)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_027
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Humboldt County
+- **Predicate:** has_declining_enrollment_trend
+- **Object:** declining since 1990s; no rebound expected (enrollment_trend)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Enrollment in Humboldt County has been declining since at least the 1990s and is not expected to rebound soon.
 
-### c_028 — reported, single source
-**Subject entities:** Humboldt County
-**Predicate:** had_many_districts
-**Object:** 100 (count)
-**Temporal:** ~1920s
-**Source IDs:** src_001
+### c_028
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Humboldt County
+- **Predicate:** had_many_districts
+- **Object:** 100 (count)
+- **Temporal:** ~1920s
+- **Sources:** src_001
 
 > Humboldt County had about 100 school districts a century ago, essentially one in every mill town.
 
-### c_029 — reported, single source
-**Subject entities:** Humboldt County
-**Predicate:** lost_communities_to_economic_collapse
-**Object:** towns and schools disappeared (community_abandonment)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_029
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Humboldt County
+- **Predicate:** lost_communities_to_economic_collapse
+- **Object:** towns and schools disappeared (community_abandonment)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Some old towns and schools in Humboldt County have been swallowed by redwood forests as mills closed and residents departed.
 
-### c_030 — reported, single source
-**Subject entities:** Falk; Sierra Pacific
-**Predicate:** town_demolished
-**Object:** 400 residents to ghost town to demolition 1979 (town_history)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_030
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Falk; Sierra Pacific
+- **Predicate:** town_demolished
+- **Object:** 400 residents to ghost town to demolition 1979 (town_history)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > The old logging town of Falk had a school, mill, post office, dance hall and about 400 residents. After the mill closed, the town emptied and Sierra Pacific lumber company demolished the remaining buildings in 1979.
 
-### c_031 — attributed, single source
-**Subject entities:** Michael Davies-Hughes
-**Predicate:** advises_proactive_planning
-**Object:** districts should prepare for sustainability challenges (attributed_quote)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_031
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Michael Davies-Hughes
+- **Predicate:** advises_proactive_planning
+- **Object:** districts should prepare for sustainability challenges (attributed_quote)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Michael Davies-Hughes, Humboldt County superintendent of schools, encourages small districts to plan ahead and said 'For some, the current model may be increasingly difficult to maintain.'
 
-### c_032 — reported, single source
-**Subject entities:** Orick; McKinleyville
-**Predicate:** sends_students_to_distant_high_school
-**Object:** 40-minute daily bus ride (distance_metric)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_032
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Orick; McKinleyville
+- **Predicate:** sends_students_to_distant_high_school
+- **Object:** 40-minute daily bus ride (distance_metric)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Older Orick students take a bus 40 minutes daily to attend high school in McKinleyville.
 
-### c_033 — reported, single source
-**Subject entities:** Orick Elementary School District
-**Predicate:** offers_outdoor_education_program
-**Object:** wilderness excursions, fish hatchery, water quality testing, wildlife observation (program_description)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_033
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Orick Elementary School District
+- **Predicate:** offers_outdoor_education_program
+- **Object:** wilderness excursions, fish hatchery, water quality testing, wildlife observation (program_description)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Orick School has an exemplary outdoor education program with students conducting wilderness excursions, raising trout and steelhead for release in waterways, testing water quality, and observing local flora and fauna.
 
-### c_034 — reported, single source
-**Subject entities:** Orick
-**Predicate:** has_abundant_wildlife
-**Object:** 60 elk, condors, falcons, deer, coyotes, bears (wildlife_list)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_034
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Orick
+- **Predicate:** has_abundant_wildlife
+- **Object:** 60 elk, condors, falcons, deer, coyotes, bears (wildlife_list)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Wildlife around Orick school includes a herd of about 60 elk, condors, falcons, deer, coyotes, and occasional bears.
 
-### c_035 — reported, single source
-**Subject entities:** Orick Elementary School District
-**Predicate:** offers_native_american_curriculum
-**Object:** 50% Native American enrollment; Yurok language and cultural instruction (curriculum_detail)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_035
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Orick Elementary School District
+- **Predicate:** offers_native_american_curriculum
+- **Object:** 50% Native American enrollment; Yurok language and cultural instruction (curriculum_detail)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > About half of Orick School's students are Native American and the school offers robust education in Native traditions and history, with a Yurok volunteer regularly teaching Yurok language and practices.
 
-### c_036 — attributed, single source
-**Subject entities:** Kimberly Frick
-**Predicate:** advocates_for_school_continuation
-**Object:** school closure fear; facility quality assurances (attributed_quote)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_036
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Kimberly Frick
+- **Predicate:** advocates_for_school_continuation
+- **Object:** school closure fear; facility quality assurances (attributed_quote)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Kimberly Frick said of keeping Orick School open: 'I feel terrified about the possibility of the school closing. I'd hate to see it happen on my watch. The facility is clean, safe, well maintained.'
 
-### c_037 — reported, single source
-**Subject entities:** Orick
-**Predicate:** is_located
-**Object:** Redwood Creek valley, between Pacific Ocean and Coast Ranges (geographic_location)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_037
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Orick
+- **Predicate:** is_located
+- **Object:** Redwood Creek valley, between Pacific Ocean and Coast Ranges (geographic_location)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Orick sits in a valley along Redwood Creek, nestled between the Pacific Ocean and the Coast Ranges in Humboldt County.
 
-### c_038 — reported, single source
-**Subject entities:** Orick; Yurok
-**Predicate:** has_indigenous_etymology
-**Object:** derived from Yurok language (etymology)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_038
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Orick; Yurok
+- **Predicate:** has_indigenous_etymology
+- **Object:** derived from Yurok language (etymology)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > The name Orick originates from the language of the nearby Yurok tribe.
 
 ## Sources
 
 ### src_001 — Associated Press, wire, Tier 1, originating
-**Author:** Carolyn Jones
+**Author:** Carolyn Jones / Calmatters
 **Publication date:** 2026-04-20
-**Access date:** 2026-04-20
 **Title:** California pays over $100,000 per kid to keep small schools open
 **URL:** https://apnews.com/article/california-small-schools-cost-orick-9c738429b70edf77cd77aa431b92e1c6
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

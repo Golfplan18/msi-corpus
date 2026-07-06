@@ -19,44 +19,41 @@ primary_themes:
 - Trump administration
 - federal grant terminations
 topic_tags:
-  - politics
-  - health
-  - "human interest"
-  - "government policy"
-  - "human migration"
-  - labour
-storyline_nexus: []
+- government policy
+- health
+- mental health
+- public health
+storyline_nexus:
+- trump-health-policy-rfk
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
-  intensity: 0.85
+  intensity: 0.9
 - value: accountability_of_power
   intensity: 0.9
-- value: informed_citizenship
-  intensity: 0.7
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:01:47Z'
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:47:01Z'
 source_cluster_id: cluster_ap_2026-01-16_samhsa-substance-abuse-mental-health-fun
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 12
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 6
-    reported: 1
     contested: 0
+    alleged: 0
     confirmed: 5
+    reported: 1
+    appears: 0
+    attributed: 6
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 1
     single_source: 11
+    primary_document: 1
+    one_originating_plus_primary_document: 0
     two_independent: 0
+    primary_plus_secondary: 0
 sources:
   count: 1
   outlets:
@@ -70,37 +67,19 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-14-samhsa-reverses-2-billion-in-mental-health-grants-after-abrupt-cuts-triggered-la
-  relation: related
-  strength: 0.945
-  confidence: medium
-- slug: 2026-01-12-trevor-project-receives-45m-from-mackenzie-scott-after-federal-funding-cuts
-  relation: related
-  strength: 0.8067
-  confidence: medium
-- slug: 2026-01-12-federal-judge-orders-hhs-to-restore-12m-in-pediatric-grants-citing-retaliation
-  relation: related
-  strength: 0.7879
-  confidence: medium
-- slug: 2026-01-10-judge-blocks-trump-child-care-funding-freeze-for-five-democratic-states
-  relation: related
-  strength: 0.7508
-  confidence: medium
-- slug: 2026-01-08-federal-judge-blocks-trump-s-purge-of-dei-terms-from-head-start-grant-applicatio
-  relation: related
-  strength: 0.7414
-  confidence: medium
-- slug: 2026-01-07-trump-child-care-funding-freeze-rattles-providers-and-families-in-five-states
-  relation: related
-  strength: 0.7471
-  confidence: medium
-- slug: 2026-01-06-trump-administration-withholds-safety-net-funds-from-five-states-over-fraud-clai
-  relation: related
-  strength: 0.7499
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- HHS causes confusion by cutting grants, then reversing course
+- The Department of Health and Human Services terminated nearly $2 billion in grants to substance abuse and mental health service providers.
+- Approximately 2,000 grant recipients nationwide received rescission notices and were later notified of the restoration.
+- Grant recipients first received emailed termination notices Tuesday evening.
+- A 2 a.m. Thursday email from SAMHSA reiterating the cuts was later confirmed to have been sent in error.
 
 The Department of Health and Human Services on Thursday restored nearly $2 billion in federal grants to substance abuse and mental health service providers after abruptly terminating the funding two days earlier, leaving roughly 2,000 organizations scrambling to reverse layoffs and other emergency measures already set in motion. The Substance Abuse and Mental Health Services Administration notified grant recipients of the restoration Thursday morning, hours after a separate 2 a.m. email reiterating the original cuts was confirmed to have been sent in error.
 
@@ -134,111 +113,135 @@ Sen. Tammy Baldwin of Wisconsin said in a statement to the AP that the episode "
 
 ## Atomic claims
 
-### c_001 — confirmed, single source
-**Subject entities:** U.S. Department of Health and Human Services
-**Predicate:** terminated_grants
-**Object:** nearly $2 billion (dollar_amount)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Department of Health and Human Services
+- **Predicate:** terminated_grants
+- **Object:** nearly $2 billion (dollar_amount)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > The Department of Health and Human Services terminated nearly $2 billion in grants to substance abuse and mental health service providers.
 
-### c_002 — attributed, single source
-**Subject entities:** SAMHSA grant recipients
-**Predicate:** received_notices
-**Object:** roughly 2,000 (count)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** SAMHSA grant recipients
+- **Predicate:** received_notices
+- **Object:** roughly 2,000 (count)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Approximately 2,000 grant recipients nationwide received rescission notices and were later notified of the restoration.
 
-### c_003 — confirmed, primary document
-**Subject entities:** Substance Abuse and Mental Health Services Administration
-**Predicate:** sent_termination_notices
-**Object:** Tuesday evening (timestamp)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Substance Abuse and Mental Health Services Administration
+- **Predicate:** sent_termination_notices
+- **Object:** Tuesday evening (timestamp)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Grant recipients first received emailed termination notices Tuesday evening.
 
-### c_004 — confirmed, single source
-**Subject entities:** Substance Abuse and Mental Health Services Administration
-**Predicate:** sent_erroneous_email
-**Object:** 2 a.m. Thursday (timestamp)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Substance Abuse and Mental Health Services Administration
+- **Predicate:** sent_erroneous_email
+- **Object:** 2 a.m. Thursday (timestamp)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > A 2 a.m. Thursday email from SAMHSA reiterating the cuts was later confirmed to have been sent in error.
 
-### c_005 — confirmed, single source
-**Subject entities:** Substance Abuse and Mental Health Services Administration
-**Predicate:** rescinded_terminations
-**Object:** Thursday morning (timestamp)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Substance Abuse and Mental Health Services Administration
+- **Predicate:** rescinded_terminations
+- **Object:** Thursday morning (timestamp)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Grant recipients began receiving form emails Thursday morning stating the grant terminations were 'hereby rescinded.'
 
-### c_006 — attributed, single source
-**Subject entities:** SAMHSA grant recipients
-**Predicate:** took_emergency_measures
-**Object:** layoffs and training cancellations (organizational_actions)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** SAMHSA grant recipients
+- **Predicate:** took_emergency_measures
+- **Object:** layoffs and training cancellations (organizational_actions)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Several organizations laid off employees and canceled scheduled trainings in response to the initial cuts.
 
-### c_007 — attributed, single source
-**Subject entities:** Honesty Liller; McShin Foundation
-**Predicate:** working_to_reinstate
-**Object:** five employees (count)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Honesty Liller; McShin Foundation
+- **Predicate:** working_to_reinstate
+- **Object:** five employees (count)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Honesty Liller, CEO of the McShin Foundation in Richmond, Virginia, was working on logistics of reinstating five employees laid off in response to the original cuts.
 
-### c_008 — reported, single source
-**Subject entities:** unnamed administration official
-**Predicate:** confirmed_restoration
-**Object:** no explanation provided (statement)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** unnamed administration official
+- **Predicate:** confirmed_restoration
+- **Object:** no explanation provided (statement)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > An unnamed administration official with knowledge of the decision confirmed the grants were restored but did not say why.
 
-### c_009 — confirmed, single source
-**Subject entities:** U.S. Department of Health and Human Services
-**Predicate:** declined_comment
-**Object:** no comment (non_response)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Department of Health and Human Services
+- **Predicate:** declined_comment
+- **Object:** no comment (non_response)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > An HHS spokesperson did not answer a question about the administration's reasoning and declined to comment on the confusion.
 
-### c_010 — attributed, single source
-**Subject entities:** Rosa DeLauro; Robert F. Kennedy Jr.
-**Predicate:** characterized_as
-**Object:** dangerous and haphazard (characterization)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Rosa DeLauro; Robert F. Kennedy Jr.
+- **Predicate:** characterized_as
+- **Object:** dangerous and haphazard (characterization)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Rep. Rosa DeLauro, ranking member of the House Appropriations Committee, said Health Secretary Robert F. Kennedy Jr.'s decision-making was dangerous and haphazard.
 
-### c_011 — attributed, single source
-**Subject entities:** Tammy Baldwin
-**Predicate:** stated
-**Object:** caused chaos and real harm to Americans (quoted_statement)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Tammy Baldwin
+- **Predicate:** stated
+- **Object:** caused chaos and real harm to Americans (quoted_statement)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Sen. Tammy Baldwin of Wisconsin said in a statement that the episode 'caused chaos and real harm to Americans.'
 
-### c_012 — attributed, single source
-**Subject entities:** Ryan Hampton; Mobilize Recovery
-**Predicate:** stated
-**Object:** overdose prevention and recovery should not be treated as leverage (quoted_statement)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ryan Hampton; Mobilize Recovery
+- **Predicate:** stated
+- **Object:** overdose prevention and recovery should not be treated as leverage (quoted_statement)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Ryan Hampton, founder of Mobilize Recovery, said overdose prevention and recovery funding should not be treated as leverage.
 
@@ -247,10 +250,5 @@ Sen. Tammy Baldwin of Wisconsin said in a statement to the AP that the episode "
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Ali Swenson
 **Publication date:** 2026-01-15
-**Access date:** 2026-01-15
 **Title:** HHS causes confusion by cutting grants, then reversing course
 **URL:** https://apnews.com/article/samhsa-substance-abuse-mental-health-funding-cuts-be13aedd1a0894deed3ee93cac84e66d
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

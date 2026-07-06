@@ -1,6 +1,5 @@
 ---
 headline: Judge signals order to return devices seized from Post reporter
-slug: 2026-02-20-judge-signals-order-return-seized-reporter-devices
 publish_date: '2026-02-20'
 lede: A federal judge signaled Friday he intends to order the government to return electronic devices seized from a Washington Post reporter's Virginia home during an investigation into a leaked classified documents case.
 nut_graf: The case raises First Amendment concerns about the government's authority to search journalists' materials. The seizure has prompted the reporter's confidential sources to cease communication, highlighting press-freedom advocates' concerns about what they characterize as an increasingly aggressive posture by federal prosecutors toward leak investigations involving journalists.
@@ -19,45 +18,41 @@ primary_themes:
 - Judicial review
 - Reporter protections
 topic_tags:
-  - "conflict, war and peace"
-  - "government policy"
-  - "human migration"
-  - "international relations"
-  - "monetary policy"
-  - politics
+- crime, law and justice
+- judiciary
+- fundamental rights
+- mass media
 storyline_nexus:
-  - immigration-enforcement
-geographic_location: Alexandria, Virginia, United States
+- trump-judicial-challenges
+geographic_location: United States
 floor_values_engaged:
-- value: truthfulness
-  intensity: 0.85
 - value: accountability_of_power
-  intensity: 0.8
+  intensity: 0.9
 - value: informed_citizenship
-  intensity: 0.75
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+  intensity: 0.9
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:34:40Z'
 source_cluster_id: cluster_ap_2026-02-21_fbi-washington-post-search-warrant-class
 gdelt_event_ids: []
-consensus_floor_version: 1.1.0
-publication_mindspec_version: 1.1.0
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 9
   hedges:
+    attributed: 6
     appears: 0
     alleged: 1
-    attributed: 6
-    reported: 0
-    contested: 0
     confirmed: 2
+    contested: 0
+    reported: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 9
-    single_source: 0
+    one_originating_plus_primary_document: 0
     two_independent: 0
+    primary_plus_secondary: 0
+    single_source: 0
 sources:
   count: 1
   outlets:
@@ -71,13 +66,16 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-12-hong-kong-s-press-freedom-ranking-plunges-as-self-censorship-spreads-across-terr
-  relation: related
-  strength: 0.7542
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- A federal judge signaled Friday he intends to order the government to return electronic devices seized from a Washington Post reporter's Virginia home during an investigation into a leaked classifi...
+- The case raises First Amendment concerns about the government's authority to search journalists' materials. The seizure has prompted the reporter's...
+- U.S. Magistrate Judge William Porter indicated Friday he plans to order the government to return electronic devices seized from Washington Post rep...
 
 A federal judge signaled Friday he intends to order the government to return electronic devices seized from a Washington Post reporter's Virginia home during an investigation into a leaked classified documents case.
 
@@ -119,84 +117,102 @@ Press freedom advocates view the case as evidence of increasingly aggressive fed
 
 ## Atomic claims
 
-### c_001 — attributed, primary document
-**Subject entities:** William Porter; Hannah Natanson
-**Predicate:** signaled_intention
-**Object:** order return of seized devices (judicial_signal)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** William Porter; Hannah Natanson
+- **Predicate:** signaled_intention
+- **Object:** order return of seized devices (judicial_signal)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > U.S. Magistrate Judge William Porter signaled Friday he intends to order the government to return electronic devices seized from Washington Post reporter Hannah Natanson's Virginia home.
 
-### c_002 — confirmed, primary document
-**Subject entities:** FBI; Hannah Natanson
-**Predicate:** seized
-**Object:** phone, laptops, recorder, hard drive, smart watch (evidence_items)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** FBI; Hannah Natanson
+- **Predicate:** seized
+- **Object:** phone, laptops, recorder, hard drive, smart watch (evidence_items)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > FBI agents seized a phone, two laptops, a recorder, a portable hard drive, and a Garmin smart watch from Natanson's Alexandria, Virginia home on January 14.
 
-### c_003 — attributed, primary document
-**Subject entities:** FBI; Aurelio Luis Perez-Lugones
-**Predicate:** investigated
-**Object:** unauthorized removal and retention of classified documents (criminal_charge)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** FBI; Aurelio Luis Perez-Lugones
+- **Predicate:** investigated
+- **Object:** unauthorized removal and retention of classified documents (criminal_charge)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > The seizure was part of an FBI investigation into Pentagon contractor Aurelio Luis Perez-Lugones, arrested January 8 and charged with unauthorized removal and retention of classified documents.
 
-### c_004 — alleged, primary document
-**Subject entities:** Aurelio Luis Perez-Lugones; Hannah Natanson
-**Predicate:** accused_of
-**Object:** removing classified documents and passing them to reporter (allegation)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_004
+- **Hedge:** alleged
+- **Corroboration:** primary_document
+- **Subject entities:** Aurelio Luis Perez-Lugones; Hannah Natanson
+- **Predicate:** accused_of
+- **Object:** removing classified documents and passing them to reporter (allegation)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > Perez-Lugones is accused of taking home printouts of classified documents from his workplace and later passing them to reporter Natanson.
 
-### c_005 — attributed, primary document
-**Subject entities:** Simon Latcovich
-**Predicate:** argued
-**Object:** seizure violates Privacy Protection Act (legal_argument)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Simon Latcovich
+- **Predicate:** argued
+- **Object:** seizure violates Privacy Protection Act (legal_argument)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > Washington Post attorney Simon Latcovich argued the seizure violates the Privacy Protection Act because Natanson is not a target of the investigation.
 
-### c_006 — attributed, primary document
-**Subject entities:** Hannah Natanson
-**Predicate:** lost_sources
-**Object:** confidential sources ceased providing information (operational_impact)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Hannah Natanson
+- **Predicate:** lost_sources
+- **Object:** confidential sources ceased providing information (operational_impact)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > Since the seizure, confidential sources who provided Natanson with information have ceased contact, according to Post attorney Simon Latcovich.
 
-### c_007 — confirmed, primary document
-**Subject entities:** William Porter
-**Predicate:** barred
-**Object:** government review of seized device material (judicial_order)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** William Porter
+- **Predicate:** barred
+- **Object:** government review of seized device material (judicial_order)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Judge Porter temporarily barred the government from reviewing material contained on Natanson's seized devices.
 
-### c_008 — attributed, primary document
-**Subject entities:** Justice Department
-**Predicate:** argued
-**Object:** government entitlement to retain seized material (legal_argument)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Justice Department
+- **Predicate:** argued
+- **Object:** government entitlement to retain seized material (legal_argument)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > Justice Department attorneys argued the government is entitled to keep the seized material because it contains evidence in an ongoing investigation with national security implications.
 
-### c_009 — attributed, primary document
-**Subject entities:** William Porter
-**Predicate:** indicated_timeline
-**Object:** decision before March 4 hearing (judicial_timeline)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** William Porter
+- **Predicate:** indicated_timeline
+- **Object:** decision before March 4 hearing (judicial_timeline)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > Judge Porter indicated he intends to issue a decision on the device return request before a follow-up hearing scheduled for March 4.
 
@@ -205,10 +221,5 @@ Press freedom advocates view the case as evidence of increasingly aggressive fed
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Michael Kunzelman
 **Publication date:** 2026-02-20
-**Access date:** 2026-02-20
 **Title:** Judge weighs Washington Post's demand for government to return devices seized from reporter's home
 **URL:** https://apnews.com/article/fbi-washington-post-search-warrant-classified-documents-b94ca2098e653e50b1f8d448e205faa3
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

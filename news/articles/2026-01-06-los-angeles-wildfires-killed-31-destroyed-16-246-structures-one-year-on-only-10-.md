@@ -19,45 +19,44 @@ primary_themes:
 - climate
 - criminal accountability
 topic_tags:
-  - "artificial intelligence"
-  - "climate change"
-  - disaster
-  - "disaster, accident and emergency incident"
-  - environment
-  - fire
+- disaster
+- fire
+- natural disaster
+- construction and property
+- government
 storyline_nexus:
-  - los-angeles-wildfires
-geographic_location: Los Angeles County, California, United States
+- los-angeles-wildfire-recovery
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
   intensity: 0.9
 - value: informed_citizenship
-  intensity: 0.85
+  intensity: 0.9
 - value: accountability_of_power
   intensity: 0.6
-framework_version: 1.1.0
-generation_timestamp: '2026-01-06T00:00:00Z'
+framework_version: 1.3.0
+generation_timestamp: '2026-05-22T23:57:06Z'
 source_cluster_id: cluster_ap_2026-01-05_los-angeles-wildfires-by-numbers-palisad
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 20
   hedges:
-    appears: 0
-    alleged: 1
-    attributed: 12
-    reported: 0
     contested: 0
+    attributed: 12
     confirmed: 7
+    alleged: 1
+    appears: 0
+    reported: 0
   corroboration:
     primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 13
-    single_source: 7
     two_independent: 0
+    primary_document: 13
+    one_originating_plus_primary_document: 0
+    single_source: 7
 sources:
   count: 1
   outlets:
@@ -75,13 +74,20 @@ image:
   url: /articles/2026-01-06-los-angeles-wildfires-killed-31-destroyed-16-246-structures-one-year-on-only-10-.png
   alt: 'Illustration accompanying article: Los Angeles wildfires killed 31, destroyed 16,246 structures; one year on,'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-04-altadena-nurse-plants-sunflowers-on-fire-razed-lot-rebuilds-home-a-year-after-ea
-  relation: related
-  strength: 0.7751
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- These numbers tell the story of the Los Angeles wildfires, one year later
+- These numbers tell the story of the Los Angeles wildfires, one year later
+- The Palisades and Eaton fires exploded in size within hours of each other on Jan. 7, 2025. These figures show how fast the disaster unfolded and the toll it left behind:
+- The amount of land charred by the two infernos, equivalent to 155 square kilometers. That’s roughly the size of the entire city of San Francisco.
+- The number of people who died — 19 in the Eaton Fire and 12 in the Palisades Fire.
+- The number of days it took for the Eaton Fire to be extinguished. It burned 22 square miles (57 square kilometers).
 
 LOS ANGELES — The Palisades and Eaton fires killed 31 people and destroyed 16,246 structures across Los Angeles County on Jan. 7, 2025, and one year later only 10 homes have been rebuilt, according to city and county data compiled by the Associated Press.
 
@@ -117,181 +123,221 @@ Private donors and organizations committed between $860 million and $970 million
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Palisades Fire; Eaton Fire
-**Predicate:** erupted_on
-**Object:** 2025-01-07 (date)
-**Temporal:** 2025-01-07
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Palisades Fire; Eaton Fire
+- **Predicate:** erupted_on
+- **Object:** 2025-01-07 (date)
+- **Temporal:** 2025-01-07
+- **Sources:** src_001
 
 > The Palisades and Eaton fires erupted on Jan. 7, 2025 in Los Angeles County.
 
-### c_002 — confirmed, primary document
-**Subject entities:** Eaton Fire; Palisades Fire
-**Predicate:** caused_deaths
-**Object:** 31 (count)
-**Temporal:** 2025-01-07
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Eaton Fire; Palisades Fire
+- **Predicate:** caused_deaths
+- **Object:** 31 (count)
+- **Temporal:** 2025-01-07
+- **Sources:** src_001
 
 > 31 people died in the two fires — 19 in the Eaton Fire and 12 in the Palisades Fire.
 
-### c_003 — attributed, primary document
-**Subject entities:** California Department of Forestry and Fire Protection
-**Predicate:** reported_structures_destroyed
-**Object:** 16246 (count)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** California Department of Forestry and Fire Protection
+- **Predicate:** reported_structures_destroyed
+- **Object:** 16246 (count)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > 16,246 structures were destroyed in both blazes, according to Cal Fire.
 
-### c_004 — attributed, primary document
-**Subject entities:** Eaton Fire; Altadena
-**Predicate:** destroyed_structures
-**Object:** 9413 (count)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Eaton Fire; Altadena
+- **Predicate:** destroyed_structures
+- **Object:** 9413 (count)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > 9,413 homes, businesses and other buildings were razed in Altadena.
 
-### c_005 — attributed, primary document
-**Subject entities:** Palisades Fire; Pacific Palisades; Malibu
-**Predicate:** destroyed_structures
-**Object:** 6833 (count)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Palisades Fire; Pacific Palisades; Malibu
+- **Predicate:** destroyed_structures
+- **Object:** 6833 (count)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > 6,833 buildings, mostly homes, were destroyed in Pacific Palisades and neighboring areas including Malibu.
 
-### c_006 — attributed, primary document
-**Subject entities:** Pacific Palisades; Altadena
-**Predicate:** homes_rebuilt
-**Object:** 10 (count)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Pacific Palisades; Altadena
+- **Predicate:** homes_rebuilt
+- **Object:** 10 (count)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > Only 10 homes have been rebuilt one year after the fires, according to city and county data.
 
-### c_007 — confirmed, primary document
-**Subject entities:** Palisades Fire; Eaton Fire
-**Predicate:** burned_area
-**Object:** 59 square miles (measurement)
-**Temporal:** 2025-01-07
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Palisades Fire; Eaton Fire
+- **Predicate:** burned_area
+- **Object:** 59 square miles (measurement)
+- **Temporal:** 2025-01-07
+- **Sources:** src_001
 
 > The two fires together charred 59 square miles of land.
 
-### c_008 — attributed, single source
-**Subject entities:** Gavin Newsom
-**Predicate:** requested
-**Object:** $33.9 billion (monetary)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Gavin Newsom
+- **Predicate:** requested
+- **Object:** $33.9 billion (monetary)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > Gov. Gavin Newsom requested $33.9 billion in federal disaster aid.
 
-### c_009 — attributed, single source
-**Subject entities:** Trump administration; United States Congress
-**Predicate:** has_not_approved
-**Object:** federal disaster aid request (policy_action)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Trump administration; United States Congress
+- **Predicate:** has_not_approved
+- **Object:** federal disaster aid request (policy_action)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > The Trump administration and Congress have not approved the $33.9 billion disaster aid request.
 
-### c_010 — alleged, single source
-**Predicate:** charged_with
-**Object:** sparking the Palisades Fire (criminal_charge)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_010
+- **Hedge:** alleged
+- **Corroboration:** single_source
+- **Predicate:** charged_with
+- **Object:** sparking the Palisades Fire (criminal_charge)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > A 29-year-old man has been charged with sparking the Palisades Fire and faces a maximum sentence of 45 years in prison.
 
-### c_011 — confirmed, primary document
-**Predicate:** pleaded
-**Object:** not guilty (legal_plea)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_011
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Predicate:** pleaded
+- **Object:** not guilty (legal_plea)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > The man charged in connection with the Palisades Fire has pleaded not guilty.
 
-### c_012 — attributed, single source
-**Subject entities:** Eaton Fire
-**Predicate:** cause_status
-**Object:** under investigation (status)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Eaton Fire
+- **Predicate:** cause_status
+- **Object:** under investigation (status)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > The cause of the Eaton Fire remains under investigation.
 
-### c_013 — confirmed, primary document
-**Subject entities:** Palisades Fire
-**Predicate:** burned_duration
-**Object:** 31 (days)
-**Temporal:** 2025-02-07
-**Source IDs:** src_001
+### c_013
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Palisades Fire
+- **Predicate:** burned_duration
+- **Object:** 31 (days)
+- **Temporal:** 2025-02-07
+- **Sources:** src_001
 
 > The Palisades Fire burned for 31 days before being extinguished, covering 37 square miles.
 
-### c_014 — confirmed, primary document
-**Subject entities:** Eaton Fire
-**Predicate:** burned_duration
-**Object:** 25 (days)
-**Temporal:** 2025-02-01
-**Source IDs:** src_001
+### c_014
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Eaton Fire
+- **Predicate:** burned_duration
+- **Object:** 25 (days)
+- **Temporal:** 2025-02-01
+- **Sources:** src_001
 
 > The Eaton Fire burned for 25 days before being extinguished, covering 22 square miles.
 
-### c_015 — attributed, single source
-**Subject entities:** Milken Institute
-**Predicate:** documented_charitable_commitments
-**Object:** $860M-$970M (monetary_range)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Milken Institute
+- **Predicate:** documented_charitable_commitments
+- **Object:** $860M-$970M (monetary_range)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > Total charitable commitments to LA fire relief ranged from $860 million to $970 million, according to a Milken Institute study.
 
-### c_016 — attributed, single source
-**Subject entities:** GoFundMe
-**Predicate:** raised
-**Object:** $265 million (monetary)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_016
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** GoFundMe
+- **Predicate:** raised
+- **Object:** $265 million (monetary)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > Individual donations through GoFundMe brought in $265 million.
 
-### c_017 — attributed, primary document
-**Subject entities:** National Weather Service
-**Predicate:** predicted_wind_gusts
-**Object:** 90 mph (measurement)
-**Temporal:** 2025-01-06
-**Source IDs:** src_001
+### c_017
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** National Weather Service
+- **Predicate:** predicted_wind_gusts
+- **Object:** 90 mph (measurement)
+- **Temporal:** 2025-01-06
+- **Sources:** src_001
 
 > Predicted wind gusts in mountain areas reached 90 miles per hour ahead of the fires.
 
-### c_018 — confirmed, primary document
-**Subject entities:** National Weather Service
-**Predicate:** issued
-**Object:** Red Flag warnings (official_warning)
-**Temporal:** 2025-01-06
-**Source IDs:** src_001
+### c_018
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** National Weather Service
+- **Predicate:** issued
+- **Object:** Red Flag warnings (official_warning)
+- **Temporal:** 2025-01-06
+- **Sources:** src_001
 
 > Red Flag warnings were issued Jan. 6 for severe wildfire danger in Southern California.
 
-### c_019 — attributed, single source
-**Subject entities:** Palisades Fire
-**Predicate:** originated_from
-**Object:** earlier fire on Jan. 1, 2025 (event)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_019
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Palisades Fire
+- **Predicate:** originated_from
+- **Object:** earlier fire on Jan. 1, 2025 (event)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > Investigators determined the Palisades Fire had grown out of an earlier fire that started on Jan. 1, 2025.
 
-### c_020 — attributed, primary document
-**Subject entities:** Altadena; Pasadena; Pacific Palisades; Malibu
-**Predicate:** homes_rebuilt_by_location
-**Object:** {'Altadena': 'most', 'Pasadena': 1, 'Pacific Palisades': 2, 'Malibu': 0} (count_breakdown)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_020
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Altadena; Pasadena; Pacific Palisades; Malibu
+- **Predicate:** homes_rebuilt_by_location
+- **Object:** {'Altadena': 'most', 'Pasadena': 1, 'Pacific Palisades': 2, 'Malibu': 0} (count_breakdown)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > Most of the 10 rebuilt homes are in the Altadena area, with one in Pasadena and two in Pacific Palisades; none are finished in Malibu.
 
@@ -299,10 +345,5 @@ Private donors and organizations committed between $860 million and $970 million
 
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Publication date:** 2026-01-06
-**Access date:** 2026-01-06
 **Title:** By the numbers: A year since the Los Angeles wildfires
 **URL:** https://apnews.com/article/los-angeles-wildfires-by-numbers-palisades-altadena-9c077a61ab1482638d12885db76dce49
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

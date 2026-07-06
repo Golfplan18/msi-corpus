@@ -1,6 +1,5 @@
 ---
 headline: Trump administration ends Temporary Protected Status for Somali immigrants
-slug: 2026-01-13-trump-ends-temporary-protected-status-for-somali-immigrants
 publish_date: '2026-01-13'
 lede: The Trump administration announced Tuesday it will end Temporary Protected Status for Somali immigrants, directing approximately 705 affected individuals to leave the United States by March 17, when existing protections expire. The Department of Homeland Security said the move follows its determination that conditions in Somalia have sufficiently improved to no longer meet the legal threshold for the designation. The announcement adds to a pattern of TPS terminations the administration has pursued across multiple nationalities since President Donald Trump took office.
 nut_graf: The rollback affects a small but vulnerable subset of the roughly 1.3 million immigrants in the United States holding Temporary Protected Status. Advocacy groups contend conditions in Somalia — where an al-Qaida affiliate controls parts of the country and instability has persisted for decades — have not improved enough to safely receive returnees, and characterized the action as discriminatory toward a Black and Muslim community.
@@ -17,44 +16,44 @@ primary_themes:
 - Somalia
 - deportation
 topic_tags:
-  - government
-  - "government policy"
-  - "human migration"
-  - "international relations"
-  - "political dissent"
-  - "science and technology"
-storyline_nexus: []
-geographic_location: United States / Minneapolis, Minnesota
+- government policy
+- human migration
+- armed conflict
+- terrorism
+- civil rights
+storyline_nexus:
+- us-immigration-enforcement
+geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
+- value: human_life_and_dignity
+  intensity: 0.9
+- value: equality_fairness
   intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.8
-- value: human_life_and_dignity
-  intensity: 0.7
-framework_version: 1.1.0
-generation_timestamp: '2026-01-13T00:00:00Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:12:21Z'
 source_cluster_id: cluster_ap_2026-01-12_trump-immigration-somalia-temporary-prot
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 16
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 10
     reported: 2
-    contested: 0
+    attributed: 10
+    alleged: 0
     confirmed: 4
+    appears: 0
+    contested: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 1
     single_source: 15
     two_independent: 0
+    primary_plus_secondary: 0
+    one_originating_plus_primary_document: 0
 sources:
   count: 1
   outlets:
@@ -72,33 +71,16 @@ image:
   url: /articles/2026-01-13-trump-administration-ends-temporary-protected-status-for-somali-immigrants.png
   alt: 'Illustration accompanying article: Trump administration ends Temporary Protected Status for Somali immigrants'
   source: ai_generated
-cross_article_links:
-- slug: 2025-12-30-faith-leaders-supporting-immigrants-brace-for-harder-year-under-trump-policies
-  relation: related
-  strength: 0.836
-  confidence: medium
-- slug: 2026-01-02-minnesota-ends-state-health-coverage-for-15-000-undocumented-adult-immigrants
-  relation: related
-  strength: 0.8017
-  confidence: medium
-- slug: 2025-12-30-faith-leaders-brace-for-harder-year-amid-trump-immigration-crackdown
-  relation: related
-  strength: 0.8052
-  confidence: medium
-- slug: 2026-01-07-trump-immigration-policies-lower-fertility-to-slow-us-population-growth-cbo-says
-  relation: related
-  strength: 0.7555
-  confidence: medium
-- slug: 2026-01-08-ice-killing-of-minneapolis-woman-deepens-minnesota-s-conflict-with-trump
-  relation: related
-  strength: 0.7378
-  confidence: medium
-- slug: 2026-01-05-florida-awaits-federal-approval-for-third-immigration-detention-center
-  relation: related
-  strength: 0.7301
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- The Trump administration announced Tuesday it will end Temporary Protected Status for Somali immigrants, directing approximately 705 affected individuals to leave the United States by March 17, whe...
+- The rollback affects a small but vulnerable subset of the roughly 1.3 million immigrants in the United States holding Temporary Protected Status. A...
+- Homeland Security Secretary Kristi Noem said circumstances in Somalia "have improved to the point that it no longer meets the law's requirement for...
 
 The Trump administration announced Tuesday it will end Temporary Protected Status for Somali immigrants, directing approximately 705 affected individuals to leave the United States by March 17, when existing protections expire. The Department of Homeland Security said the move follows its determination that conditions in Somalia have sufficiently improved to no longer meet the legal threshold for the designation. The announcement adds to a pattern of TPS terminations the administration has pursued across multiple nationalities since President Donald Trump took office.
 
@@ -138,147 +120,179 @@ Speaking in Michigan on Tuesday, Trump renewed accusations that Somalis in Minne
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Donald Trump; U.S. Department of Homeland Security
-**Predicate:** announced_termination_of
-**Object:** Temporary Protected Status for Somali immigrants (policy_action)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Donald Trump; U.S. Department of Homeland Security
+- **Predicate:** announced_termination_of
+- **Object:** Temporary Protected Status for Somali immigrants (policy_action)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > The Trump administration announced Tuesday it will end Temporary Protected Status for Somali immigrants.
 
-### c_002 — attributed, single source
-**Subject entities:** Congressional Research Service
-**Predicate:** reported_population_as
-**Object:** 705 (count)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Congressional Research Service
+- **Predicate:** reported_population_as
+- **Object:** 705 (count)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > The Congressional Research Service reported the Somali TPS population was 705 out of nearly 1.3 million TPS immigrants as of spring 2025.
 
-### c_003 — attributed, single source
-**Subject entities:** U.S. Department of Homeland Security
-**Predicate:** set_departure_deadline
-**Object:** March 17 (date)
-**Temporal:** 2026-03-17
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Department of Homeland Security
+- **Predicate:** set_departure_deadline
+- **Object:** March 17 (date)
+- **Temporal:** 2026-03-17
+- **Sources:** src_001
 
 > The Department of Homeland Security said affected Somalis must leave the United States by March 17.
 
-### c_004 — attributed, single source
-**Subject entities:** Joe Biden
-**Predicate:** extended
-**Object:** Somali TPS (policy)
-**Temporal:** 2024-07
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Joe Biden
+- **Predicate:** extended
+- **Object:** Somali TPS (policy)
+- **Temporal:** 2024-07
+- **Sources:** src_001
 
 > President Joe Biden last extended Somali TPS protections in July 2024.
 
-### c_005 — attributed, single source
-**Subject entities:** Kristi Noem
-**Predicate:** said
-**Object:** Temporary means temporary (quotation)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Kristi Noem
+- **Predicate:** said
+- **Object:** Temporary means temporary (quotation)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > DHS Secretary Kristi Noem said 'Temporary means temporary' and that the decision puts 'Americans first.'
 
-### c_006 — attributed, single source
-**Subject entities:** Kristi Noem
-**Predicate:** said
-**Object:** conditions improved (claim)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Kristi Noem
+- **Predicate:** said
+- **Object:** conditions improved (claim)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Noem said circumstances in Somalia 'have improved to the point that it no longer meets the law's requirement for Temporary Protected Status.'
 
-### c_007 — attributed, single source
-**Subject entities:** Council on American-Islamic Relations
-**Predicate:** criticized
-**Object:** TPS termination (policy_action)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Council on American-Islamic Relations
+- **Predicate:** criticized
+- **Object:** TPS termination (policy_action)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > The Council on American-Islamic Relations criticized the decision as a 'bigoted attack' that will send Somalis back to a war-torn nation.
 
-### c_008 — attributed, single source
-**Subject entities:** Council on American-Islamic Relations
-**Predicate:** said
-**Object:** decision does not reflect changed conditions (quotation)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Council on American-Islamic Relations
+- **Predicate:** said
+- **Object:** decision does not reflect changed conditions (quotation)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > CAIR said in a joint statement with its Minnesota chapter that the decision 'does not reflect changed conditions in Somalia.'
 
-### c_009 — confirmed, single source
-**Subject entities:** George H.W. Bush; Somalia
-**Predicate:** received_designation
-**Object:** Temporary Protected Status (policy)
-**Temporal:** 1991
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** George H.W. Bush; Somalia
+- **Predicate:** received_designation
+- **Object:** Temporary Protected Status (policy)
+- **Temporal:** 1991
+- **Sources:** src_001
 
 > Somalia first received TPS designation under President George H.W. Bush amid a civil war in 1991.
 
-### c_010 — attributed, single source
-**Subject entities:** Congressional Research Service
-**Predicate:** stated
-**Object:** more than two dozen extensions (count)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Congressional Research Service
+- **Predicate:** stated
+- **Object:** more than two dozen extensions (count)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > A 2025 congressional report stated Somalis had received more than two dozen TPS extensions because of perpetual 'insecurity and ongoing armed conflict.'
 
-### c_011 — reported, single source
-**Subject entities:** al-Shabab
-**Predicate:** controls_parts_of
-**Object:** Somalia (place)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** al-Shabab
+- **Predicate:** controls_parts_of
+- **Object:** Somalia (place)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Al-Qaida affiliate al-Shabab controls parts of Somalia and has carried out bombings in the capital, Mogadishu.
 
-### c_012 — attributed, single source
-**Subject entities:** Donald Trump; U.S. Department of Homeland Security
-**Predicate:** ended_protections_for
-**Object:** Venezuelans and Haitians (population)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; U.S. Department of Homeland Security
+- **Predicate:** ended_protections_for
+- **Object:** Venezuelans and Haitians (population)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > The Trump administration has ended TPS protections for some 600,000 Venezuelans and 500,000 Haitians.
 
-### c_013 — confirmed, single source
-**Subject entities:** U.S. Supreme Court
-**Predicate:** issued_emergency_rulings
-**Object:** Venezuelan TPS revocations allowed to continue (legal_action)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_013
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Supreme Court
+- **Predicate:** issued_emergency_rulings
+- **Object:** Venezuelan TPS revocations allowed to continue (legal_action)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > The U.S. Supreme Court issued emergency rulings last May and in October allowing Venezuelan TPS revocations to continue as court cases proceed.
 
-### c_014 — attributed, single source
-**Subject entities:** Donald Trump
-**Predicate:** said
-**Object:** come from hell, contribute nothing (quotation)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** said
+- **Object:** come from hell, contribute nothing (quotation)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > In December, Trump said he did not want Somalis in the U.S. at all, saying they 'come from hell' and 'contribute nothing.'
 
-### c_015 — confirmed, single source
-**Subject entities:** United States Congress
-**Predicate:** established
-**Object:** Temporary Protected Status program (program)
-**Temporal:** 1990
-**Source IDs:** src_001
+### c_015
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** United States Congress
+- **Predicate:** established
+- **Object:** Temporary Protected Status program (program)
+- **Temporal:** 1990
+- **Sources:** src_001
 
 > Congress established the Temporary Protected Status program in 1990 to help foreign nationals who fled unstable conditions in their home countries.
 
-### c_016 — reported, single source
-**Subject entities:** U.S. Immigration and Customs Enforcement
-**Predicate:** killed
-**Object:** U.S. citizen protester (person)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_016
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Immigration and Customs Enforcement
+- **Predicate:** killed
+- **Object:** U.S. citizen protester (person)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > An ICE agent killed a U.S. citizen who was demonstrating against federal presence in Minneapolis, intensifying street protests.
 
@@ -287,10 +301,5 @@ Speaking in Michigan on Tuesday, Trump renewed accusations that Somalis in Minne
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Bill Barrow
 **Publication date:** 2026-01-13
-**Access date:** 2026-01-13
 **Title:** Trump is ending Temporary Protected Status for Somalis
 **URL:** https://apnews.com/article/trump-immigration-somalia-temporary-protected-status-minneapolis-61eb5fecfa10a9b44b8c8e543412f684
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

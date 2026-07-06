@@ -14,41 +14,41 @@ primary_themes:
 - federal wildlife regulation
 - environmental policy
 topic_tags:
-  - "conflict, war and peace"
-  - conservation
-  - environment
-storyline_nexus: []
-geographic_location: United States, southeastern Atlantic coast
+- conservation
+- environment
+- government policy
+- natural resources
+storyline_nexus:
+- extreme-weather-disasters
+geographic_location: United States
 floor_values_engaged:
-- value: human_life_and_dignity
-  intensity: 0.75
+- value: informed_citizenship
+  intensity: 0.9
 - value: accountability_of_power
   intensity: 0.6
-- value: informed_citizenship
-  intensity: 0.8
-framework_version: 1.1.0
-generation_timestamp: '2026-01-05T00:00:00Z'
+framework_version: 1.3.0
+generation_timestamp: '2026-05-22T23:43:12Z'
 source_cluster_id: cluster_ap_2026-01-06_right-whales-babies-endangered-oceans-39
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 13
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 11
     reported: 1
     contested: 0
+    alleged: 0
+    attributed: 11
     confirmed: 1
+    appears: 0
   corroboration:
     primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
+    two_independent: 0
     primary_document: 3
     single_source: 10
-    two_independent: 0
+    one_originating_plus_primary_document: 0
 sources:
   count: 1
   outlets:
@@ -69,6 +69,13 @@ image:
 cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- With a population of an estimated 384 animals, the species requires approximately 50 or more calves per year for many years to stop its decline and allow for recovery, NOAA said, while a federal moratorium on protective rules for the whales remains i…
+- Researchers have identified 15 North Atlantic right whale calves during the current winter birth season off the southeastern United States, the National Oceanic and Atmospheric Administration announced Monday — a count higher than two of the last thr…
+- Article details provided in full text.
 
 With a population of an estimated 384 animals, the species requires approximately 50 or more calves per year for many years to stop its decline and allow for recovery, NOAA said, while a federal moratorium on protective rules for the whales remains in effect through 2028.
 
@@ -98,120 +105,146 @@ The whales were hunted to the brink of extinction during the commercial whaling 
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** North Atlantic right whale; National Oceanic and Atmospheric Administration
-**Predicate:** calves_recorded
-**Object:** 15 (count)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** North Atlantic right whale; National Oceanic and Atmospheric Administration
+- **Predicate:** calves_recorded
+- **Object:** 15 (count)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > Researchers have identified 15 North Atlantic right whale calves this winter.
 
-### c_002 — attributed, single source
-**Subject entities:** North Atlantic right whale
-**Predicate:** population_estimate
-**Object:** 384 (count)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** North Atlantic right whale
+- **Predicate:** population_estimate
+- **Object:** 384 (count)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > The North Atlantic right whale population numbers an estimated 384 animals.
 
-### c_003 — attributed, single source
-**Subject entities:** North Atlantic right whale
-**Predicate:** population_growth
-**Object:** >7% (percentage_change)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** North Atlantic right whale
+- **Predicate:** population_growth
+- **Object:** >7% (percentage_change)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > The North Atlantic right whale population has gained more than 7% of its 2020 population.
 
-### c_004 — attributed, primary document
-**Subject entities:** North Atlantic right whale; National Oceanic and Atmospheric Administration
-**Predicate:** recovery_threshold_stated
-**Object:** 50+ (annual_calf_count_required)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** North Atlantic right whale; National Oceanic and Atmospheric Administration
+- **Predicate:** recovery_threshold_stated
+- **Object:** 50+ (annual_calf_count_required)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > The species needs approximately 50 or more calves per year for many years to stop its decline and allow for recovery.
 
-### c_005 — attributed, single source
-**Subject entities:** North Atlantic right whale
-**Predicate:** calves_born
-**Object:** 11 (count)
-**Temporal:** winter 2024-2025
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** North Atlantic right whale
+- **Predicate:** calves_born
+- **Object:** 11 (count)
+- **Temporal:** winter 2024-2025
+- **Sources:** src_001
 
 > Last winter, North Atlantic right whales gave birth to only 11 calves.
 
-### c_006 — attributed, single source
-**Subject entities:** North Atlantic right whale
-**Predicate:** historical_calf_count
-**Object:** 20 (threshold)
-**Temporal:** 2010-2026
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** North Atlantic right whale
+- **Predicate:** historical_calf_count
+- **Object:** 20 (threshold)
+- **Temporal:** 2010-2026
+- **Sources:** src_001
 
 > Right whales have reached 20 calves in a winter only twice since 2010.
 
-### c_007 — attributed, single source
-**Subject entities:** North Atlantic right whale
-**Predicate:** calves_born
-**Object:** 0 (count)
-**Temporal:** 2018
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** North Atlantic right whale
+- **Predicate:** calves_born
+- **Object:** 0 (count)
+- **Temporal:** 2018
+- **Sources:** src_001
 
 > North Atlantic right whales gave birth to no calves in 2018.
 
-### c_008 — attributed, single source
-**Subject entities:** U.S. federal government; North Atlantic right whale
-**Predicate:** regulatory_moratorium_in_effect
-**Object:** 2028 (end_date)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. federal government; North Atlantic right whale
+- **Predicate:** regulatory_moratorium_in_effect
+- **Object:** 2028 (end_date)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > The federal government has a moratorium on rules designed to protect right whales that runs through 2028.
 
-### c_009 — reported, single source
-**Subject entities:** commercial fishing groups
-**Predicate:** lobbied_for
-**Object:** moratorium extension beyond 2028 (policy_position)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** commercial fishing groups
+- **Predicate:** lobbied_for
+- **Object:** moratorium extension beyond 2028 (policy_position)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > Commercial fishing groups have pushed for a proposal to extend the regulatory moratorium for even longer.
 
-### c_010 — attributed, single source
-**Subject entities:** Gib Brogan; Oceana
-**Predicate:** stated
-**Object:** recovery requires tackling entanglement and ship strikes (attributed_position)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Gib Brogan; Oceana
+- **Predicate:** stated
+- **Object:** recovery requires tackling entanglement and ship strikes (attributed_position)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > Gib Brogan, senior campaign director with Oceana, said the species cannot calve its way to recovery and that more must be done to address entanglement in fishing gear and collisions with ships.
 
-### c_011 — attributed, single source
-**Subject entities:** Gib Brogan; North Atlantic right whale
-**Predicate:** stated
-**Object:** 50 calves unrealistic this season due to lack of reproductive females (attributed_assessment)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Gib Brogan; North Atlantic right whale
+- **Predicate:** stated
+- **Object:** 50 calves unrealistic this season due to lack of reproductive females (attributed_assessment)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > Reaching 50 calves this winter is not a reasonable expectation because of a lack of reproductive females in the population.
 
-### c_012 — attributed, single source
-**Subject entities:** North Atlantic right whale
-**Predicate:** reproductive_health_relationship
-**Object:** reduced reproduction from injury or underfeeding (scientific_finding)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** North Atlantic right whale
+- **Predicate:** reproductive_health_relationship
+- **Object:** reduced reproduction from injury or underfeeding (scientific_finding)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > Right whales are less likely to reproduce when they have suffered injuries or are underfed.
 
-### c_013 — attributed, primary document
-**Subject entities:** North Atlantic right whale; National Oceanic and Atmospheric Administration
-**Predicate:** population_demographic_trend
-**Object:** deaths_exceed_births (demographic_imbalance)
-**Temporal:** 2016-2026
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** North Atlantic right whale; National Oceanic and Atmospheric Administration
+- **Predicate:** population_demographic_trend
+- **Object:** deaths_exceed_births (demographic_imbalance)
+- **Temporal:** 2016-2026
+- **Sources:** src_001
 
 > There have been more deaths than births in the North Atlantic right whale population in the past decade.
 
@@ -220,10 +253,5 @@ The whales were hunted to the brink of extinction during the commercial whaling 
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Patrick Whittle
 **Publication date:** 2026-01-05
-**Access date:** 2026-01-05
 **Title:** Rare whale species sees more babies, yet extinction fears persist
 **URL:** https://apnews.com/article/right-whales-babies-endangered-oceans-399c14a110f0169d9f3ea2fb0c2c2d6b
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

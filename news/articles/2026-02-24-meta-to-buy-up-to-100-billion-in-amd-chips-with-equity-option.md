@@ -22,7 +22,8 @@ topic_tags:
   - "manufacturing and engineering"
   - "science and technology"
   - sport
-storyline_nexus: []
+storyline_nexus:
+- ai-industry-regulation
 geographic_location: International
 floor_values_engaged:
 - value: truthfulness
@@ -249,7 +250,3 @@ AMD shares jumped more than 9% before the market opened on Tuesday. While appeti
 **Access date:** 2026-02-24
 **Title:** Meta's massive 6-gigawatt AMD AI chip deal could top $100B, with a path to 10% stake
 **URL:** https://apnews.com/article/amd-meta-ai-facebook-2ac7d0a302d291dbce8ed23b78722abd
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

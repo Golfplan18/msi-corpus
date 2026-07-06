@@ -21,7 +21,8 @@ topic_tags:
   - "disaster, accident and emergency incident"
   - fire
   - "peace process"
-storyline_nexus: []
+storyline_nexus:
+- syria-post-conflict-integration
 geographic_location: Northeastern Syria (Hassakeh, Raqqa region)
 floor_values_engaged:
 - value: informed_citizenship
@@ -119,8 +120,6 @@ The ceasefire extension coincides with a significant operation to move Islamic S
 As of Wednesday, the U.S. military reported that 150 prisoners had already been transported. The Syrian government operates two prisons in the region following recent operations, while the SDF continues to run the remaining detention facilities that hold most of the approximately 9,000 Islamic State group members detained in northeastern Syria.
 
 On Saturday, Syrian authorities released 126 boys under the age of 18 who were held at the al-Aqtan prison near Raqqa, handing them over to their families in the city.
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework. [Learn about our methodology](/methodology). Human review: not triggered.*
 
 *Licensed under [Creative Commons Zero](https://creativecommons.org/publicdomain/zero/1.0/) — public domain.*
 
@@ -296,7 +295,3 @@ On Saturday, Syrian authorities released 126 boys under the age of 18 who were h
 **Access date:** 2026-01-24
 **Title:** Ceasefire with Kurdish-led force extended for another 15 days, Syrian army says
 **URL:** https://apnews.com/article/syria-kurds-islamic-state-truce-hassakeh-ceasefire-67f5d1f2e90d9a45fb6be1c246fd8d40
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

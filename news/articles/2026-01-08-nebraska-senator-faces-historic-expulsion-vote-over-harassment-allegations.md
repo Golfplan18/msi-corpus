@@ -22,7 +22,8 @@ topic_tags:
   - "political process"
   - politics
   - "science and technology"
-storyline_nexus: []
+storyline_nexus:
+- congressional-ethics-misconduct
 geographic_location: Lincoln, Nebraska
 floor_values_engaged:
 - value: accountability_of_power
@@ -121,120 +122,146 @@ If McKeon is expelled, it would make him the 57th state lawmaker accused of sexu
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Dan McKeon; Nebraska Legislature
-**Predicate:** considered_expulsion_motion
-**Object:** motion to expel (legislative_action)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Dan McKeon; Nebraska Legislature
+- **Predicate:** considered_expulsion_motion
+- **Object:** motion to expel (legislative_action)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Nebraska lawmakers considered a motion to expel Sen. Dan McKeon on the first day of the 2026 legislative session, January 7.
 
-### c_002 — alleged, primary document
-**Subject entities:** Dan McKeon
-**Predicate:** alleged_misconduct
-**Object:** sexually charged remark and physical contact (allegation)
-**Temporal:** 2025-05-29
-**Source IDs:** src_001
+### c_002
+- **Hedge:** alleged
+- **Corroboration:** primary_document
+- **Subject entities:** Dan McKeon
+- **Predicate:** alleged_misconduct
+- **Object:** sexually charged remark and physical contact (allegation)
+- **Temporal:** 2025-05-29
+- **Sources:** src_001
 
 > A legislative staffer alleged McKeon told her she should 'get laid' on her vacation and patted her on her buttocks at a May 29 party at the Lincoln Country Club attended by state lawmakers, staffers, and lobbyists.
 
-### c_003 — confirmed, primary document
-**Subject entities:** Dan McKeon; Nebraska Legislature
-**Predicate:** violated
-**Object:** workplace harassment policy (policy_finding)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Dan McKeon; Nebraska Legislature
+- **Predicate:** violated
+- **Object:** workplace harassment policy (policy_finding)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > An outside law firm's report found McKeon's conduct violated the Nebraska Legislature's workplace harassment policy.
 
-### c_004 — confirmed, primary document
-**Subject entities:** Dan McKeon
-**Predicate:** did_not_constitute
-**Object:** actionable sexual harassment under state or federal law (legal_finding)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Dan McKeon
+- **Predicate:** did_not_constitute
+- **Object:** actionable sexual harassment under state or federal law (legal_finding)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > The report found McKeon's conduct did not rise to a level of sexual harassment or retaliation actionable under state or federal discrimination law.
 
-### c_005 — confirmed, primary document
-**Subject entities:** Dan McKeon
-**Predicate:** inconsistent_with
-**Object:** vacation discussion context (factual_finding)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Dan McKeon
+- **Predicate:** inconsistent_with
+- **Object:** vacation discussion context (factual_finding)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > The report said the staffer was not vacationing in Hawaii, making McKeon's lei characterization inconsistent with the vacation discussion at the party.
 
-### c_006 — attributed, single source
-**Subject entities:** Dan McKeon
-**Predicate:** stated
-**Object:** may have touched her back or lower back or rear end, not sexual (attributed_statement)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Dan McKeon
+- **Predicate:** stated
+- **Object:** may have touched her back or lower back or rear end, not sexual (attributed_statement)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > McKeon initially denied touching the staffer, then said he may have touched her back, lower back, 'or even rear end,' insisting the contact was not sexual.
 
-### c_007 — confirmed, primary document
-**Subject entities:** Dan McKeon; Ben Hansen
-**Predicate:** violated_instruction
-**Object:** attended party with staffers despite instruction (conduct_finding)
-**Temporal:** 2025-06-02
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Dan McKeon; Ben Hansen
+- **Predicate:** violated_instruction
+- **Object:** attended party with staffers despite instruction (conduct_finding)
+- **Temporal:** 2025-06-02
+- **Sources:** src_001
 
 > On June 2, McKeon was instructed by Sen. Ben Hansen not to attend social gatherings where staffers would be present; McKeon attended another party that night also attended by staffers, including the complainant.
 
-### c_008 — confirmed, primary document
-**Subject entities:** Dan McKeon
-**Predicate:** sent_note
-**Object:** told staffer to forgive him per biblical instruction (conduct_finding)
-**Temporal:** 2025-07
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Dan McKeon
+- **Predicate:** sent_note
+- **Object:** told staffer to forgive him per biblical instruction (conduct_finding)
+- **Temporal:** 2025-07
+- **Sources:** src_001
 
 > McKeon sent the staffer a note telling her she should find it within herself to forgive him 'because that is what the Bible instructs people to do.'
 
-### c_009 — confirmed, primary document
-**Subject entities:** Dan McKeon
-**Predicate:** texted
-**Object:** negative characterization of complainant to colleague (conduct_finding)
-**Temporal:** 2025-08
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Dan McKeon
+- **Predicate:** texted
+- **Object:** negative characterization of complainant to colleague (conduct_finding)
+- **Temporal:** 2025-08
+- **Sources:** src_001
 
 > In August, McKeon texted another staffer who shares an office with the complainant, saying the complainant 'seems to be difficult to work with.'
 
-### c_010 — confirmed, primary document
-**Subject entities:** Dan McKeon; Nebraska State Patrol
-**Predicate:** charged_with
-**Object:** misdemeanor disturbing the peace (criminal_charge)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Dan McKeon; Nebraska State Patrol
+- **Predicate:** charged_with
+- **Object:** misdemeanor disturbing the peace (criminal_charge)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > A Nebraska State Patrol investigation led to McKeon being charged with a misdemeanor count of disturbing the peace; McKeon has pleaded not guilty.
 
-### c_011 — attributed, single source
-**Subject entities:** Dan McKeon; Jim Pillen
-**Predicate:** refused_to_resign
-**Object:** no plans to step down (attributed_statement)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Dan McKeon; Jim Pillen
+- **Predicate:** refused_to_resign
+- **Object:** no plans to step down (attributed_statement)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > McKeon said he has no plans to resign despite calls from Republican Gov. Jim Pillen and other party leaders to do so.
 
-### c_012 — confirmed, single source
-**Subject entities:** Nebraska Legislature
-**Predicate:** requires
-**Object:** 33 votes to expel; hearing Monday, vote possible Tuesday (procedural_requirement)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_012
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Nebraska Legislature
+- **Predicate:** requires
+- **Object:** 33 votes to expel; hearing Monday, vote possible Tuesday (procedural_requirement)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > The full Legislature would need 33 votes to expel McKeon; the Executive Board hearing is scheduled for Monday, with full debate possible as early as Tuesday.
 
-### c_013 — reported, single source
-**Subject entities:** Associated Press
-**Predicate:** tracked
-**Object:** 156 state lawmakers accused of misconduct; 56 resigned or expelled (statistical_finding)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_013
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Associated Press
+- **Predicate:** tracked
+- **Object:** 156 state lawmakers accused of misconduct; 56 resigned or expelled (statistical_finding)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > The AP has tracked at least 156 state lawmakers across 44 states accused of sexual harassment or misconduct since 2017; 56 have resigned or been expelled.
 
@@ -246,7 +273,3 @@ If McKeon is expelled, it would make him the 57th state lawmaker accused of sexu
 **Access date:** 2026-01-08
 **Title:** Nebraska lawmakers could expel state senator over misconduct complaint
 **URL:** https://apnews.com/article/nebraska-lawmaker-mckeon-harassment-expel-c3e99067e7eb8770f798208979def116
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

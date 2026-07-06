@@ -22,7 +22,8 @@ topic_tags:
   - religion
   - "belief systems"
   - "religious institution"
-storyline_nexus: []
+storyline_nexus:
+- pope-leo-xiv-vatican
 geographic_location: Vatican City, Rome; SSPX operating globally
 floor_values_engaged:
 - value: truthfulness
@@ -104,8 +105,6 @@ The SSPX said the July 1 ceremony is necessary because only two of the bishops L
 Pagliarani appealed to the Vatican to exercise "charity" given the number of Catholics the SSPX serves. "The society is an objective reality: it exists," he wrote. "This same society asks you only to be allowed to continue to do this same good for the souls to whom it administers the holy sacraments."
 
 The Vatican declined to comment immediately. The crisis tests Pope Leo XIV, who took office seeking to ease tensions with Catholic traditionalists that had intensified under Pope Francis. Many traditionalists loyal to Rome are watching how the pope responds to the SSPX's defiance. How the pontiff navigates this standoff will signal whether he intends to enforce or soften the Vatican's stance toward the church's most faithful liturgical conservatives.
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public source listed under sources. Specification: /methodology. Human review: not_triggered.*
 
 ## Atomic claims
 
@@ -270,7 +269,3 @@ The Vatican declined to comment immediately. The crisis tests Pope Leo XIV, who 
 **Access date:** 2026-05-17
 **Title:** Breakaway Catholic group rejects Vatican talks, indicating collision course for pope
 **URL:** https://apnews.com/article/vatican-pope-latin-mass-traditionalist-schism-8c66cd6150003e816c6baedaf9a1af06
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

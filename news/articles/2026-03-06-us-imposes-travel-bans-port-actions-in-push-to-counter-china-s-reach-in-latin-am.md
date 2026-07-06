@@ -18,38 +18,40 @@ primary_themes:
 - infrastructure and ports
 - Taiwan diplomatic recognition
 topic_tags:
-  - "international relations"
-  - "politics"
+- international relations
+- government policy
+- international trade
+- economy, business and finance
 storyline_nexus:
-  - us-administration-2026
-geographic_location: Latin America
+- us-china-competition
+geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship
-  intensity: 0.85
+  intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.7
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:43:41Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T01:01:05Z'
 source_cluster_id: cluster_ap_2026-03-07_china-america-latina-latinoamerica-trump
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 14
   hedges:
     appears: 0
-    alleged: 0
     attributed: 7
     reported: 0
+    alleged: 0
     contested: 0
     confirmed: 7
   corroboration:
-    primary_plus_secondary: 6
     one_originating_plus_primary_document: 0
-    primary_document: 0
     single_source: 8
+    primary_document: 0
+    primary_plus_secondary: 6
     two_independent: 0
 sources:
   count: 1
@@ -64,41 +66,10 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-12-cuba-s-d-az-canel-denies-us-talks-after-trump-issues-deal-or-else-threat
-  relation: related
-  strength: 0.7815
-  confidence: medium
-- slug: 2026-01-07-us-seizes-two-more-venezuelan-oil-tankers-as-trump-moves-to-control-global-sales
-  relation: related
-  strength: 0.7825
-  confidence: medium
-- slug: 2026-01-11-trump-warns-cuba-to-make-a-deal-as-venezuelan-oil-lifeline-goes-dark
-  relation: related
-  strength: 0.7703
-  confidence: medium
-- slug: 2026-01-04-trump-renews-greenland-push-warns-cuba-and-colombia-after-venezuela-operation
-  relation: related
-  strength: 0.7821
-  confidence: medium
-- slug: 2026-01-12-trump-leans-toward-barring-exxonmobil-from-venezuela-after-ceo-calls-country-uni
-  relation: related
-  strength: 0.7544
-  confidence: medium
-- slug: 2026-01-04-rubio-tamps-down-nation-building-fears-as-trump-insists-us-in-charge-in-venezuel
-  relation: related
-  strength: 0.7746
-  confidence: medium
-- slug: 2026-01-09-china-s-venezuela-oil-debt-complicates-trump-s-seizure-strategy
-  relation: related
-  strength: 0.7596
-  confidence: medium
-- slug: 2026-01-03-u-s-military-seizes-maduro-in-venezuela-trump-pledges-to-govern-country-and-expl
-  relation: related
-  strength: 0.7745
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
 
 The Trump administration imposed travel restrictions on three Chilean officials over a proposed fiber optic submarine cable project with Chinese involvement and warned Peru against ceding control of a Chinese-built deepwater port, escalating a broad push to reduce Beijing's economic and strategic footprint across Latin America. Panama, under pressure from President Trump, seized two canal-adjacent ports that had been operated by a Hong Kong company. The moves came days before Trump planned to host Latin American leaders at his golf complex near Miami for a summit the administration called the "Shield of the Americas."
 
@@ -150,129 +121,157 @@ Sun added that Beijing regards the Taiwan question as central to any broader acc
 
 ## Atomic claims
 
-### c_001 — confirmed, primary plus secondary
-**Subject entities:** United States; Chile
-**Predicate:** imposed_travel_bans
-**Object:** three Chilean officials (government_personnel)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** United States; Chile
+- **Predicate:** imposed_travel_bans
+- **Object:** three Chilean officials (government_personnel)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > The United States imposed travel bans on three Chilean officials over a possible fiber optic submarine cable project with China.
 
-### c_002 — confirmed, primary plus secondary
-**Subject entities:** United States; Peru; Chancay port
-**Predicate:** issued_warning
-**Object:** Chancay megaport control (infrastructure)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** United States; Peru; Chancay port
+- **Predicate:** issued_warning
+- **Object:** Chancay megaport control (infrastructure)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > The United States warned Peru not to cede control of the Chancay megaport built by China, which Washington has raised as a potential military asset.
 
-### c_003 — confirmed, primary plus secondary
-**Subject entities:** Panama; Panama Canal
-**Predicate:** seized_ports
-**Object:** two canal-end ports (infrastructure)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** Panama; Panama Canal
+- **Predicate:** seized_ports
+- **Object:** two canal-end ports (infrastructure)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > Panama seized two ports at each end of the Panama Canal that had been operated by a Hong Kong company, following pressure from President Trump.
 
-### c_004 — attributed, single source
-**Subject entities:** United States; Venezuela; Nicolás Maduro; China
-**Predicate:** exposed_interests
-**Object:** China's oil interests in Venezuela (economic_interest)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** United States; Venezuela; Nicolás Maduro; China
+- **Predicate:** exposed_interests
+- **Object:** China's oil interests in Venezuela (economic_interest)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > The U.S. capture of Venezuelan President Nicolás Maduro in January 2026 exposed China's oil interests in Venezuela.
 
-### c_005 — confirmed, single source
-**Subject entities:** Donald Trump; Latin America
-**Predicate:** planned_summit
-**Object:** Shield of the Americas summit (diplomatic_event)
-**Temporal:** 2026-03-07
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Latin America
+- **Predicate:** planned_summit
+- **Object:** Shield of the Americas summit (diplomatic_event)
+- **Temporal:** 2026-03-07
+- **Sources:** src_001
 
 > Trump planned to host Latin American dignitaries at his golf complex near Miami for a summit called the 'Shield of the Americas.'
 
-### c_006 — attributed, single source
-**Subject entities:** China; Latin America
-**Predicate:** provided_financing
-**Object:** 153000000000 (currency_usd)
-**Temporal:** 2014-2023
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** China; Latin America
+- **Predicate:** provided_financing
+- **Object:** 153000000000 (currency_usd)
+- **Temporal:** 2014-2023
+- **Sources:** src_001
 
 > China provided approximately $153 billion in loans and grants to Latin America and the Caribbean between 2014 and 2023, according to AidData at William & Mary.
 
-### c_007 — attributed, single source
-**Subject entities:** United States; Latin America
-**Predicate:** provided_financing
-**Object:** 50700000000 (currency_usd)
-**Temporal:** 2014-2023
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** United States; Latin America
+- **Predicate:** provided_financing
+- **Object:** 50700000000 (currency_usd)
+- **Temporal:** 2014-2023
+- **Sources:** src_001
 
 > The United States provided approximately $50.7 billion in official-sector financing to Latin America and the Caribbean between 2014 and 2023, according to AidData.
 
-### c_008 — attributed, single source
-**Subject entities:** Cuba; China; United States
-**Predicate:** trade_comparison
-**Object:** sole China-first trading nation in region (trade_statistic)
-**Temporal:** 2001
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Cuba; China; United States
+- **Predicate:** trade_comparison
+- **Object:** sole China-first trading nation in region (trade_statistic)
+- **Temporal:** 2001
+- **Sources:** src_001
 
 > In 2001, Cuba was the only country in Latin America that did more business with China than with the United States, according to researcher Francisco Urdinez.
 
-### c_009 — attributed, single source
-**Subject entities:** South America; China; United States; Paraguay; Colombia
-**Predicate:** trade_comparison
-**Object:** all South American countries except Paraguay and Colombia (trade_statistic)
-**Temporal:** 2021
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** South America; China; United States; Paraguay; Colombia
+- **Predicate:** trade_comparison
+- **Object:** all South American countries except Paraguay and Colombia (trade_statistic)
+- **Temporal:** 2021
+- **Sources:** src_001
 
 > Twenty years later, every South American country except Paraguay and Colombia traded more with China than with the United States, according to Urdinez's research.
 
-### c_010 — confirmed, primary plus secondary
-**Subject entities:** Panama; Dominican Republic; El Salvador; Nicaragua; Honduras; Taiwan; China
-**Predicate:** diplomatic_switch
-**Object:** broke Taiwan ties, opened Beijing embassies (diplomatic_action)
-**Temporal:** 2016-2026
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** Panama; Dominican Republic; El Salvador; Nicaragua; Honduras; Taiwan; China
+- **Predicate:** diplomatic_switch
+- **Object:** broke Taiwan ties, opened Beijing embassies (diplomatic_action)
+- **Temporal:** 2016-2026
+- **Sources:** src_001
 
 > Since 2016, five Latin American countries — Panama, the Dominican Republic, El Salvador, Nicaragua, and Honduras — broke ties with Taiwan and opened embassies in Beijing.
 
-### c_011 — confirmed, primary plus secondary
-**Subject entities:** Taiwan; Latin America
-**Predicate:** diplomatic_recognition_count
-**Object:** seven of twelve (diplomatic_statistic)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_011
+- **Hedge:** confirmed
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** Taiwan; Latin America
+- **Predicate:** diplomatic_recognition_count
+- **Object:** seven of twelve (diplomatic_statistic)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > Of the 12 countries worldwide that still recognize Taiwan's statehood, seven are in Latin America.
 
-### c_012 — attributed, single source
-**Subject entities:** Chancay port; Peru; China
-**Predicate:** infrastructure_description
-**Object:** one of deepest ports in Latin America (infrastructure_attribute)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Chancay port; Peru; China
+- **Predicate:** infrastructure_description
+- **Object:** one of deepest ports in Latin America (infrastructure_attribute)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > The Chancay port in Peru, built by China, is one of the deepest in Latin America.
 
-### c_013 — attributed, single source
-**Subject entities:** China; Latin America
-**Predicate:** provides_security_assistance
-**Object:** arms, police and military training (military_activity)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** China; Latin America
+- **Predicate:** provides_security_assistance
+- **Object:** arms, police and military training (military_activity)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > China sells arms and police and military equipment to Latin American countries and helps train their security forces.
 
-### c_014 — confirmed, primary plus secondary
-**Subject entities:** White House; United States
-**Predicate:** policy_statement
-**Object:** years of neglect (attributed_cause)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_014
+- **Hedge:** confirmed
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** White House; United States
+- **Predicate:** policy_statement
+- **Object:** years of neglect (attributed_cause)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > The White House National Security Strategy released in December attributed the loss of U.S. primacy in the Western Hemisphere to 'years of neglect.'
 
@@ -281,10 +280,5 @@ Sun added that Beijing regards the Taiwan question as central to any broader acc
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Didi Tang
 **Publication date:** 2026-03-06
-**Access date:** 2026-05-17
 **Title:** EEUU toma medidas contundentes para presionar a gobiernos latinoamericanos a reducir lazos con China
 **URL:** https://apnews.com/article/china-america-latina-latinoamerica-trump-economia-taiwan-panama-canal-puertos-040c92712254024d837ba2e922dba39f
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

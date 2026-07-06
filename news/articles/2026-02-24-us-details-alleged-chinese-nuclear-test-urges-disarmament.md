@@ -19,7 +19,8 @@ primary_themes:
 topic_tags:
   - "armed conflict"
   - "conflict, war and peace"
-storyline_nexus: []
+storyline_nexus:
+- us-china-competition
 geographic_location: Geneva, Switzerland; Lop Nur, China
 floor_values_engaged:
 - value: accountability_of_power
@@ -107,8 +108,6 @@ At the Hudson Institute in Washington last week, Yeaw said the U.S. position on 
 In his first term, Trump attempted to negotiate a three-way nuclear agreement involving China, an effort that ultimately failed. Secretary of State Rubio signaled Washington's commitment to pursuing multiple diplomatic channels. "Pursuing all avenues to fulfill Trump's desire for a world with fewer of these awful weapons," Rubio said, while insisting the U.S. would not "stand by while Russia and China expand their nuclear forces."
 
 Yeaw told the Conference on Disarmament that the U.S. looked to all participating nations to encourage China and Russia to engage meaningfully in multilateral disarmament discussions. The conference brings together some 65 countries to address issues including nuclear, biological, and chemical weapons.
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework. Specification: /methodology. License: CC0.*
 
 ## Atomic claims
 
@@ -210,7 +209,3 @@ Yeaw told the Conference on Disarmament that the U.S. looked to all participatin
 **Access date:** 2026-02-23
 **Title:** US sheds light on its allegation about Chinese nuclear test
 **URL:** https://apnews.com/article/nuclear-weapons-china-russia-geneva-us-yeaw-a72a763f828ba0e85da5903e210aff02
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

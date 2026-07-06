@@ -22,7 +22,8 @@ topic_tags:
   - "disaster, accident and emergency incident"
   - "science and technology"
   - "transportation accident and incident"
-storyline_nexus: []
+storyline_nexus:
+- extreme-weather-disasters
 geographic_location: Saint George Island, Alaska, United States
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -99,129 +100,157 @@ A private company has been contracted to oversee salvage of the Arctic Sea, the 
 
 ## Atomic claims
 
-### c_001 — confirmed, single source
-**Subject entities:** Arctic Sea crew; U.S. Coast Guard
-**Predicate:** rescued
-**Object:** nine crew members from Arctic Sea (persons)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Arctic Sea crew; U.S. Coast Guard
+- **Predicate:** rescued
+- **Object:** nine crew members from Arctic Sea (persons)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > Nine crew members were rescued from the grounded commercial crab boat Arctic Sea on January 6, 2026.
 
-### c_002 — confirmed, single source
-**Subject entities:** Arctic Sea; Coastal Villages Region Fund
-**Predicate:** owned_by
-**Object:** Coastal Villages Region Fund (organization)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Arctic Sea; Coastal Villages Region Fund
+- **Predicate:** owned_by
+- **Object:** Coastal Villages Region Fund (organization)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > The Arctic Sea is a 134-foot commercial vessel owned by the Coastal Villages Region Fund, fishing for tanner crab.
 
-### c_003 — confirmed, single source
-**Subject entities:** Arctic Sea; Saint George Island
-**Predicate:** grounded_on
-**Object:** northern shore of Saint George Island at approximately 0400 (location_time)
-**Temporal:** 2026-01-06T04:00:00
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Arctic Sea; Saint George Island
+- **Predicate:** grounded_on
+- **Object:** northern shore of Saint George Island at approximately 0400 (location_time)
+- **Temporal:** 2026-01-06T04:00:00
+- **Sources:** src_001
 
 > The Arctic Sea grounded about 4 a.m. Monday on the northern shore of Saint George Island after losing steering in winds of nearly 60 mph and 10-foot seas.
 
-### c_004 — confirmed, single source
-**Subject entities:** MH-60 Jayhawk; Arctic Sea crew
-**Predicate:** hoisted
-**Object:** nine crew members and rescue swimmer in ~25 minutes (rescue_operation)
-**Temporal:** 2026-01-06T11:30:00
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** MH-60 Jayhawk; Arctic Sea crew
+- **Predicate:** hoisted
+- **Object:** nine crew members and rescue swimmer in ~25 minutes (rescue_operation)
+- **Temporal:** 2026-01-06T11:30:00
+- **Sources:** src_001
 
 > The rescue helicopter arrived about 11:30 a.m. Monday and hoisted all nine crew members and the rescue swimmer in approximately 25 minutes.
 
-### c_005 — attributed, single source
-**Subject entities:** Arctic Sea crew
-**Predicate:** sustained
-**Object:** no injuries (outcome)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Arctic Sea crew
+- **Predicate:** sustained
+- **Object:** no injuries (outcome)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > There were no injuries to the crew members of the Arctic Sea.
 
-### c_006 — confirmed, single source
-**Subject entities:** Conor Regan; Josh Womboldt
-**Predicate:** piloted
-**Object:** MH-60 Jayhawk helicopter (aircraft)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Conor Regan; Josh Womboldt
+- **Predicate:** piloted
+- **Object:** MH-60 Jayhawk helicopter (aircraft)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > Lt. Cmdr. Conor Regan and Lt. Cmdr. Josh Womboldt piloted the MH-60 Jayhawk rescue helicopter.
 
-### c_007 — confirmed, single source
-**Subject entities:** MH-60 Jayhawk
-**Predicate:** hovered_at
-**Object:** 50 feet above Arctic Sea near cliff face (operational_position)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** MH-60 Jayhawk
+- **Predicate:** hovered_at
+- **Object:** 50 feet above Arctic Sea near cliff face (operational_position)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > The helicopter hovered about 50 feet above the Arctic Sea while conducting the rescue near a cliff face rising hundreds of feet above the water.
 
-### c_008 — confirmed, single source
-**Subject entities:** Arctic Sea crew; Saint Paul Island
-**Predicate:** transported_to
-**Object:** Saint Paul Island, ~45 miles northwest of Saint George (destination)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Arctic Sea crew; Saint Paul Island
+- **Predicate:** transported_to
+- **Object:** Saint Paul Island, ~45 miles northwest of Saint George (destination)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > The rescued crew members were flown to Saint Paul Island, about 45 miles to the northwest, because Saint George Island lacked emergency medical services and helicopter refueling capability.
 
-### c_009 — attributed, single source
-**Subject entities:** Arctic Sea
-**Predicate:** activated
-**Object:** fire suppression system, displacing crew to deck (ship_system_event)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Arctic Sea
+- **Predicate:** activated
+- **Object:** fire suppression system, displacing crew to deck (ship_system_event)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > The ship's fire suppression system activated, forcing crew members from the enclosed bridge to the deck.
 
-### c_010 — attributed, single source
-**Subject entities:** Arctic Sea crew; Eric Deakin
-**Predicate:** activated
-**Object:** survival suits and emergency radio beacon at approximately 0800 (emergency_equipment)
-**Temporal:** 2026-01-06T08:00:00
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Arctic Sea crew; Eric Deakin
+- **Predicate:** activated
+- **Object:** survival suits and emergency radio beacon at approximately 0800 (emergency_equipment)
+- **Temporal:** 2026-01-06T08:00:00
+- **Sources:** src_001
 
 > The crew put on survival suits about 8 a.m. and activated an emergency radio beacon, according to Eric Deakin, CEO of Coastal Villages Region Fund.
 
-### c_011 — confirmed, single source
-**Subject entities:** Saint George Island
-**Predicate:** located
-**Object:** 750 miles west of Anchorage, southernmost Pribilof Island (geography)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_011
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Saint George Island
+- **Predicate:** located
+- **Object:** 750 miles west of Anchorage, southernmost Pribilof Island (geography)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > Saint George Island is the southernmost of the Pribilof Islands group, with fewer than 100 residents, predominantly Aleuts, located about 750 miles west of Anchorage.
 
-### c_012 — confirmed, single source
-**Subject entities:** North Sea; Coastal Villages Region Fund
-**Predicate:** unable_to_assist
-**Object:** Arctic Sea rescue due to weather and shallow water (operational_constraint)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_012
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** North Sea; Coastal Villages Region Fund
+- **Predicate:** unable_to_assist
+- **Object:** Arctic Sea rescue due to weather and shallow water (operational_constraint)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > Another Coastal Villages vessel, the North Sea, was nearby but could not assist due to weather and shallow water; it maintained communications with the Coast Guard.
 
-### c_013 — attributed, single source
-**Subject entities:** Arctic Sea
-**Predicate:** contracted_for_salvage
-**Object:** private salvage company (organization)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Arctic Sea
+- **Predicate:** contracted_for_salvage
+- **Object:** private salvage company (organization)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > A private company has been contracted to oversee salvage operations of the Arctic Sea.
 
-### c_014 — confirmed, single source
-**Subject entities:** U.S. Coast Guard; Alex Haley
-**Predicate:** deployed
-**Object:** helicopter, airplane, and cutter Alex Haley (assets)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_014
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Coast Guard; Alex Haley
+- **Predicate:** deployed
+- **Object:** helicopter, airplane, and cutter Alex Haley (assets)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > The Coast Guard deployed a helicopter, an airplane, and rerouted its vessel the Alex Haley to the scene.
 
@@ -233,7 +262,3 @@ A private company has been contracted to oversee salvage of the Arctic Sea, the 
 **Access date:** 2026-01-07
 **Title:** Coast Guard saves crew from grounded commercial crab boat in Bering Sea
 **URL:** https://apnews.com/article/alaska-fishing-boat-crew-rescue-d15876e92b5e1c1216aeaa4ce251e52e
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

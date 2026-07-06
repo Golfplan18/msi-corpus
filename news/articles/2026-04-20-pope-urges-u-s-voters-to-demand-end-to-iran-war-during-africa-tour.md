@@ -21,7 +21,7 @@ topic_tags:
   - "government policy"
   - "international relations"
 storyline_nexus:
-  - pope-leo-xiv-africa-tour
+- pope-leo-xiv-vatican
 geographic_location: International (Vatican, United States, Africa)
 floor_values_engaged:
 - value: informed_citizenship
@@ -137,8 +137,6 @@ The controversy has unfolded while Leo has drawn massive crowds during his four-
 The polyglot pope has delivered speeches, homilies and prayers in the languages of the faithful: French in Algeria, English and French in Cameroon, Portuguese in Angola, and Spanish in Equatorial Guinea.
 
 Lucineia Francisco left her family behind to attend Leo's prayer at Mama Muxima. "My kids were crying to come, but I said no," she said. "This is a spiritual journey that I'm really going to face on my own."
-
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
 
 ## Atomic claims
 
@@ -267,7 +265,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-05-17
 **Title:** Did Pope Leo find his voice in Africa or was he finally heard?
 **URL:** https://apnews.com/article/africa-pope-leo-trump-iran-war-d72ee89589d821785fa4ed195f0e99f6
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

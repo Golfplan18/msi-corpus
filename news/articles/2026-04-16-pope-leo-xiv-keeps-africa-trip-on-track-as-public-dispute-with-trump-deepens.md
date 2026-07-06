@@ -23,7 +23,8 @@ primary_themes:
 topic_tags:
   - "conflict, war and peace"
   - religion
-storyline_nexus: []
+storyline_nexus:
+- pope-leo-xiv-vatican
 geographic_location: International (Africa — Algeria, Cameroon)
 floor_values_engaged:
 - value: informed_citizenship
@@ -226,7 +227,3 @@ Angola is the next stop on Leo's tour.
 **Access date:** 2026-04-16
 **Title:** Media access to pope on trips abroad offers unique access
 **URL:** https://apnews.com/article/pope-leo-xiv-media-coverage-trump-africa-bb65bbd4d88949e549f0b0b27916d5da
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -23,42 +23,44 @@ primary_themes:
 - global health
 - disease research
 topic_tags:
-  - "disease and condition"
-  - government
-  - "government policy"
-  - health
-  - politics
-  - "science and technology"
-storyline_nexus: []
+- non-governmental organisation
+- public health
+- medical research
+- social condition
+- health
+storyline_nexus:
+- housing-affordability-crisis
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
-  intensity: 0.85
+  intensity: 0.9
 - value: informed_citizenship
-  intensity: 0.75
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+  intensity: 0.3
+- value: accountability_of_power
+  intensity: 0.3
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T01:04:14Z'
 source_cluster_id: cluster_ap_2026-02-25_audacious-project-ted-1a6b388deff7670099
 gdelt_event_ids: []
-consensus_floor_version: 1.0.0
-publication_mindspec_version: 1.0.0
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 13
   hedges:
-    appears: 0
+    confirmed: 0
+    reported: 2
     alleged: 0
     attributed: 11
-    reported: 2
+    appears: 0
     contested: 0
-    confirmed: 0
   corroboration:
+    single_source: 13
     primary_plus_secondary: 0
+    two_independent: 0
     one_originating_plus_primary_document: 0
     primary_document: 0
-    single_source: 13
-    two_independent: 0
 sources:
   count: 1
   outlets:
@@ -72,13 +74,19 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-12-trevor-project-receives-45m-from-mackenzie-scott-after-federal-funding-cuts
-  relation: related
-  strength: 0.8611
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- TED's Audacious Project announced Tuesday that 35 major donor families committed $1.03 billion to fund more than a dozen nonprofits working on homelessness, disease research, global health, and other …
+- This year's funding marked the first time the Audacious Project approved repeat grants. Last Mile Health, a nonprofit training community health workers across multiple African countries, received $20 …
+- "It's not just a philanthropic investment and then a cliff," said Lisha McCormick, CEO of Last Mile Health.
+- Among the first-time grantees are Destination: Home, a San Jose-based nonprofit focused on homeless prevention, which will expand its "Right at Home" initiative to multiple U.S. cities. The program id…
+- Connie Ballmer, who has participated since 2021, emphasized the group's collective capacity. "Nowhere that I know of can you raise a billion dollars in two days," she said. "For an organization to rai…
 
 TED's Audacious Project announced Tuesday that 35 major donor families committed $1.03 billion to fund more than a dozen nonprofits working on homelessness, disease research, global health, and other challenges. The commitment was made in October, but publicly disclosed Tuesday after more than a year of screening and preparation with recipient organizations.
 
@@ -120,126 +128,148 @@ Additional recipients announced include Braven, Imagine Worldwide, Ipas, Plastic
 
 Anna Verghese, executive director of the Audacious Project, said the decision to offer second-round grants reflected a shift in how the organization understands its role. "The honest question that we and our donor community had to wrestle with is, what kinds of partners are we if we walk away right when that momentum is building?" she said.
 
----
-
-This article is generated algorithmically under the Main Street Independent News Article Generator framework. The framework specification, editorial standards, and methodology are published under CC0 at /methodology.
-
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** TED's Audacious Project; 35 major donor families
-**Predicate:** committed_funding_to
-**Object:** $1.03 billion (monetary_commitment)
-**Temporal:** 2026-02-24
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** TED's Audacious Project; 35 major donor families
+- **Predicate:** committed_funding_to
+- **Object:** $1.03 billion (monetary_commitment)
+- **Temporal:** 2026-02-24
+- **Sources:** src_001
 
 > TED's Audacious Project announced that 35 major donor families committed $1.03 billion to fund nonprofits.
 
-### c_002 — attributed, single source
-**Subject entities:** Audacious Project funding
-**Predicate:** supports
-**Object:** more than a dozen nonprofits (recipient_count)
-**Temporal:** 2026-02-24
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Audacious Project funding
+- **Predicate:** supports
+- **Object:** more than a dozen nonprofits (recipient_count)
+- **Temporal:** 2026-02-24
+- **Sources:** src_001
 
 > The funding supports more than a dozen nonprofits addressing homelessness, disease research, and global health.
 
-### c_003 — attributed, single source
-**Subject entities:** Last Mile Health
-**Predicate:** received_second_round_funding
-**Object:** $20 million (monetary_amount)
-**Temporal:** 2026-02-24
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Last Mile Health
+- **Predicate:** received_second_round_funding
+- **Object:** $20 million (monetary_amount)
+- **Temporal:** 2026-02-24
+- **Sources:** src_001
 
 > Last Mile Health received $20 million for a second round of funding to train community health workers.
 
-### c_004 — attributed, single source
-**Subject entities:** Last Mile Health
-**Predicate:** scaled_training
-**Object:** 2,000 to 23,000 health workers (numerical_growth)
-**Temporal:** 2018-2026
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Last Mile Health
+- **Predicate:** scaled_training
+- **Object:** 2,000 to 23,000 health workers (numerical_growth)
+- **Temporal:** 2018-2026
+- **Sources:** src_001
 
 > Last Mile Health's 2018 Audacious Project grant helped scale community health worker training from 2,000 to 23,000 workers.
 
-### c_005 — attributed, single source
-**Subject entities:** Destination: Home
-**Predicate:** received_funding_to_expand
-**Object:** homeless prevention services to multiple cities (program_expansion)
-**Temporal:** 2026-02-24
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Destination: Home
+- **Predicate:** received_funding_to_expand
+- **Object:** homeless prevention services to multiple cities (program_expansion)
+- **Temporal:** 2026-02-24
+- **Sources:** src_001
 
 > Destination: Home received funding to expand homeless prevention services to multiple U.S. cities.
 
-### c_006 — attributed, single source
-**Subject entities:** Arc Institute
-**Predicate:** received_funding_to_develop
-**Object:** virtual cell model for disease treatment (research_project)
-**Temporal:** 2026-02-24
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Arc Institute
+- **Predicate:** received_funding_to_develop
+- **Object:** virtual cell model for disease treatment (research_project)
+- **Temporal:** 2026-02-24
+- **Sources:** src_001
 
 > Arc Institute received funding to develop a virtual cell model to identify treatments for complex diseases like Alzheimer's.
 
-### c_007 — attributed, single source
-**Subject entities:** Tiko
-**Predicate:** received_funding_to_expand
-**Object:** health services for teenage girls (program_expansion)
-**Temporal:** 2026-02-24
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Tiko
+- **Predicate:** received_funding_to_expand
+- **Object:** health services for teenage girls (program_expansion)
+- **Temporal:** 2026-02-24
+- **Sources:** src_001
 
 > Tiko, an Africa-based nonprofit, received funding to expand health services for teenage girls, including contraception, HIV services, and responses to sexual violence.
 
-### c_008 — reported, single source
-**Subject entities:** Audacious Project
-**Predicate:** has_involved
-**Object:** 55 major donor families (participant_count)
-**Temporal:** 2026-02-24
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Audacious Project
+- **Predicate:** has_involved
+- **Object:** 55 major donor families (participant_count)
+- **Temporal:** 2026-02-24
+- **Sources:** src_001
 
 > Fifty-five major donor families have participated in at least one round of the Audacious Project's work.
 
-### c_009 — reported, single source
-**Subject entities:** Audacious Project donors
-**Predicate:** required_to_commit
-**Object:** at least $10 million per round (monetary_threshold)
-**Temporal:** 2026-02-24
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Audacious Project donors
+- **Predicate:** required_to_commit
+- **Object:** at least $10 million per round (monetary_threshold)
+- **Temporal:** 2026-02-24
+- **Sources:** src_001
 
 > Major donors in the Audacious Project are formally required to commit at least $10 million per funding round.
 
-### c_010 — attributed, single source
-**Subject entities:** Connie Ballmer
-**Predicate:** said
-**Object:** billion-dollar-in-two-days capacity is unique (speech_act)
-**Temporal:** 2026-02-24
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Connie Ballmer
+- **Predicate:** said
+- **Object:** billion-dollar-in-two-days capacity is unique (speech_act)
+- **Temporal:** 2026-02-24
+- **Sources:** src_001
 
 > Connie Ballmer said the collective fundraising capacity to raise $1 billion in two days is unprecedented in philanthropy.
 
-### c_011 — attributed, single source
-**Subject entities:** Jennifer Loving; Destination: Home
-**Predicate:** characterized_as
-**Object:** shock and awe at donor commitment (speech_act)
-**Temporal:** 2026-02-24
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jennifer Loving; Destination: Home
+- **Predicate:** characterized_as
+- **Object:** shock and awe at donor commitment (speech_act)
+- **Temporal:** 2026-02-24
+- **Sources:** src_001
 
 > Jennifer Loving said the donor commitment to Destination: Home was 'shock and awe'.
 
-### c_012 — attributed, single source
-**Subject entities:** Jennifer Loving
-**Predicate:** said
-**Object:** rigorous selection process made the organization smarter (speech_act)
-**Temporal:** 2026-02-24
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jennifer Loving
+- **Predicate:** said
+- **Object:** rigorous selection process made the organization smarter (speech_act)
+- **Temporal:** 2026-02-24
+- **Sources:** src_001
 
 > Jennifer Loving said the Audacious Project selection process was one of the most rigorous things her organization has done.
 
-### c_013 — attributed, single source
-**Subject entities:** Lisha McCormick
-**Predicate:** said
-**Object:** funds support government health system reform beyond one-time grant (speech_act)
-**Temporal:** 2026-02-24
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Lisha McCormick
+- **Predicate:** said
+- **Object:** funds support government health system reform beyond one-time grant (speech_act)
+- **Temporal:** 2026-02-24
+- **Sources:** src_001
 
 > Lisha McCormick said the new Audacious Project funding is not just a philanthropic investment followed by disengagement.
 
@@ -248,10 +278,5 @@ This article is generated algorithmically under the Main Street Independent News
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Thalia Beaty
 **Publication date:** 2026-02-24
-**Access date:** 2026-02-24
 **Title:** TED's Audacious Project raises more than $1B for more than a dozen nonprofits
 **URL:** https://apnews.com/article/audacious-project-ted-1a6b388deff7670099757c371dffd454
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

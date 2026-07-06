@@ -22,7 +22,8 @@ topic_tags:
   - "science and technology"
   - sport
   - "sport event"
-storyline_nexus: []
+storyline_nexus:
+- the-iran-war
 geographic_location: Iran
 floor_values_engaged:
 - value: informed_citizenship
@@ -315,7 +316,3 @@ The only prior transfer of supreme leader power occurred in 1989, when Ayatollah
 **Access date:** 2026-03-09
 **Title:** Mojtaba Khamenei, a son of Iran's late supreme leader, is chosen to replace his father
 **URL:** https://apnews.com/article/iran-united-states-israel-supreme-leader-mojtaba-khamenei-209cec036068b40fcfcba2be7ac7e2b0
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

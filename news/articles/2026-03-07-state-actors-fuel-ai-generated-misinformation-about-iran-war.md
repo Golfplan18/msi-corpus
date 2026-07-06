@@ -23,8 +23,7 @@ topic_tags:
   - "armed conflict"
   - "conflict, war and peace"
 storyline_nexus:
-  - iran-war
-  - ai-regulation
+- the-iran-war
 geographic_location: International
 floor_values_engaged:
 - value: informed_citizenship
@@ -222,7 +221,3 @@ Emerson Brooking, director of strategy and resident senior fellow at the Atlanti
 **Access date:** 2026-03-07
 **Title:** Visual misinformation about Iran war fueled by state actors
 **URL:** https://apnews.com/article/iran-war-images-misinformation-russia-israel-9e495017dc5c4bf24a0b6152863dbfb1
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

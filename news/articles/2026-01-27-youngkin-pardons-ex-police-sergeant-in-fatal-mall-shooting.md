@@ -13,42 +13,43 @@ primary_themes:
 - Executive clemency
 - Use of force
 - Law enforcement
-topic_tags: []
+topic_tags:
+- crime
+- law enforcement
+- judiciary
+- government
+- prosecution
 storyline_nexus:
-  - immigration-enforcement
-geographic_location: Virginia, United States
+- supreme-court-constitutional-cases
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
   intensity: 0.9
-- value: truthfulness
-  intensity: 0.85
 - value: accountability_of_power
-  intensity: 0.85
-- value: informed_citizenship
-  intensity: 0.8
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+  intensity: 0.9
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:53:46Z'
 source_cluster_id: cluster_ap_2026-01-28_virginia-gov-youngkin-police-shooting-pa
 gdelt_event_ids: []
-consensus_floor_version: 1.0.0
-publication_mindspec_version: 1.0.0
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 12
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 4
-    reported: 1
     contested: 0
     confirmed: 7
+    attributed: 4
+    appears: 0
+    reported: 1
+    alleged: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 12
+    one_originating_plus_primary_document: 0
     single_source: 0
     two_independent: 0
+    primary_plus_secondary: 0
 sources:
   count: 1
   outlets:
@@ -62,41 +63,12 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-05-17-ex-nypd-sergeant-freed-on-bail-during-manslaughter-appeal
-  relation: related
-  strength: 0.8584
-  confidence: medium
-- slug: 2026-03-10-alabama-governor-commutes-death-row-man-s-sentence-citing-disparity-with-trigger
-  relation: related
-  strength: 0.829
-  confidence: medium
-- slug: 2026-04-18-los-angeles-ordered-to-pay-11-8m-to-man-blinded-by-police-projectile
-  relation: related
-  strength: 0.7845
-  confidence: medium
-- slug: 2026-03-10-baltimore-officer-shot-in-leg-during-burglary-call-gunman-killed-by-second-offic
-  relation: related
-  strength: 0.7732
-  confidence: medium
-- slug: 2026-04-15-two-killed-one-critical-in-atlanta-area-attacks-uk-born-man-charged-dhs-worker-a
-  relation: related
-  strength: 0.7705
-  confidence: medium
-- slug: 2026-04-21-judge-orders-man-shot-by-ice-in-california-to-remain-in-custody
-  relation: related
-  strength: 0.7704
-  confidence: medium
-- slug: 2026-01-14-minneapolis-sees-second-federal-shooting-as-courts-governor-push-back-on-immigra
-  relation: related
-  strength: 0.7999
-  confidence: medium
-- slug: 2026-01-12-uvalde-officer-trial-enters-second-week-as-prosecution-presses-inaction-case
-  relation: related
-  strength: 0.7984
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
 
 Former Virginia Gov. Glenn Youngkin pardoned ex-Sgt. Wesley Gonzalez Shifflett on Jan. 15 in the fatal 2023 shooting of an unarmed man accused of stealing sunglasses at a mall. The pardon, issued days before Youngkin's term ended, comes amid a nationwide debate over legal protections for law enforcement and when use of deadly force is justified.
 
@@ -132,111 +104,135 @@ The case illustrates the tension between judicial accountability — established
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Glenn Youngkin; Wesley Gonzalez Shifflett
-**Predicate:** pardoned
-**Object:** absolute pardon (official_action)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Glenn Youngkin; Wesley Gonzalez Shifflett
+- **Predicate:** pardoned
+- **Object:** absolute pardon (official_action)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Gov. Glenn Youngkin pardoned ex-Sgt. Wesley Gonzalez Shifflett on Jan. 15
 
-### c_002 — confirmed, primary document
-**Subject entities:** Wesley Gonzalez Shifflett; Timothy McCree Johnson
-**Predicate:** shot
-**Object:** fatal shooting (incident)
-**Temporal:** 2023-02-22
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Wesley Gonzalez Shifflett; Timothy McCree Johnson
+- **Predicate:** shot
+- **Object:** fatal shooting (incident)
+- **Temporal:** 2023-02-22
+- **Sources:** src_001
 
 > Shifflett shot Timothy McCree Johnson on Feb. 22, 2023 in a wooded area near a Northern Virginia mall
 
-### c_003 — attributed, primary document
-**Subject entities:** Timothy McCree Johnson
-**Predicate:** described_as
-**Object:** unarmed, accused of theft (person_descriptor)
-**Temporal:** 2023-02-22
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Timothy McCree Johnson
+- **Predicate:** described_as
+- **Object:** unarmed, accused of theft (person_descriptor)
+- **Temporal:** 2023-02-22
+- **Sources:** src_001
 
 > Johnson was unarmed and accused of stealing sunglasses at the mall
 
-### c_004 — confirmed, primary document
-**Subject entities:** Wesley Gonzalez Shifflett
-**Predicate:** convicted_of
-**Object:** reckless firearm use (legal_charge)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Wesley Gonzalez Shifflett
+- **Predicate:** convicted_of
+- **Object:** reckless firearm use (legal_charge)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > Shifflett was convicted in 2024 of reckless firearm use in Johnson's death
 
-### c_005 — confirmed, primary document
-**Subject entities:** Wesley Gonzalez Shifflett
-**Predicate:** acquitted_of
-**Object:** manslaughter (legal_charge)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Wesley Gonzalez Shifflett
+- **Predicate:** acquitted_of
+- **Object:** manslaughter (legal_charge)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > Shifflett was acquitted of a manslaughter charge
 
-### c_006 — confirmed, primary document
-**Subject entities:** Wesley Gonzalez Shifflett
-**Predicate:** documented_action
-**Object:** yelled 'Get on the ground', fired two shots two seconds later (video_evidence)
-**Temporal:** 2023-02-22
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Wesley Gonzalez Shifflett
+- **Predicate:** documented_action
+- **Object:** yelled 'Get on the ground', fired two shots two seconds later (video_evidence)
+- **Temporal:** 2023-02-22
+- **Sources:** src_001
 
 > Body camera video showed Shifflett yelling 'Get on the ground' and firing two shots two seconds later
 
-### c_007 — confirmed, primary document
-**Subject entities:** Timothy McCree Johnson
-**Predicate:** stated
-**Object:** I'm not reaching for nothing. I don't have nothing. (quotation)
-**Temporal:** 2023-02-22
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Timothy McCree Johnson
+- **Predicate:** stated
+- **Object:** I'm not reaching for nothing. I don't have nothing. (quotation)
+- **Temporal:** 2023-02-22
+- **Sources:** src_001
 
 > Johnson said in body camera video 'I'm not reaching for nothing. I don't have nothing'
 
-### c_008 — confirmed, primary document
-**Subject entities:** Glenn Youngkin; Wesley Gonzalez Shifflett
-**Predicate:** granted
-**Object:** clemency voiding three-year prison sentence (official_action)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Glenn Youngkin; Wesley Gonzalez Shifflett
+- **Predicate:** granted
+- **Object:** clemency voiding three-year prison sentence (official_action)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Youngkin granted Shifflett clemency less than a year before the pardon, throwing out his three-year prison sentence
 
-### c_009 — attributed, primary document
-**Subject entities:** Glenn Youngkin
-**Predicate:** stated_in_pardon
-**Object:** deadly force was lawful and consistent with department policy and training (official_statement)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Glenn Youngkin
+- **Predicate:** stated_in_pardon
+- **Object:** deadly force was lawful and consistent with department policy and training (official_statement)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Youngkin wrote in his pardon that the deadly force used by Shifflett was lawful and consistent with department policy and training
 
-### c_010 — attributed, primary document
-**Subject entities:** Glenn Youngkin
-**Predicate:** based_on
-**Object:** department report concluding actions objectively reasonable (documentation)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Glenn Youngkin
+- **Predicate:** based_on
+- **Object:** department report concluding actions objectively reasonable (documentation)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Youngkin based his pardon on a department report concluding Shifflett's actions were objectively reasonable
 
-### c_011 — reported, primary document
-**Subject entities:** Wesley Gonzalez Shifflett; Timothy McCree Johnson
-**Predicate:** assessed
-**Object:** Shifflett thought Johnson posed significant threat to him (official_assessment)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Wesley Gonzalez Shifflett; Timothy McCree Johnson
+- **Predicate:** assessed
+- **Object:** Shifflett thought Johnson posed significant threat to him (official_assessment)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > The department report concluded Shifflett thought Johnson posed a significant threat when he used deadly force
 
-### c_012 — attributed, primary document
-**Subject entities:** Melissa Johnson; Glenn Youngkin
-**Predicate:** questioned
-**Object:** executive clemency voiding jury verdict and judicial sentence (public_statement)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Melissa Johnson; Glenn Youngkin
+- **Predicate:** questioned
+- **Object:** executive clemency voiding jury verdict and judicial sentence (public_statement)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Melissa Johnson, the victim's mother, questioned Youngkin's clemency decision, asking why the jury's verdict and the judge's sentence should be set aside
 
@@ -245,10 +241,5 @@ The case illustrates the tension between judicial accountability — established
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Olivia Diaz
 **Publication date:** 2026-01-27
-**Access date:** 2026-05-18
 **Title:** Former Virginia Gov. Glenn Youngkin pardons ex-police sergeant
 **URL:** https://apnews.com/article/virginia-gov-youngkin-police-shooting-pardon-7838ae07aab5fb5f49fdcf47a31c7b73
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -19,45 +19,42 @@ primary_themes:
 - disease elimination
 - epidemiology
 topic_tags:
-  - election
-  - "epidemic and pandemic"
-  - health
-  - politics
-  - "public health"
-storyline_nexus: []
-geographic_location: United States; Mexico
+- epidemic and pandemic
+- disease and condition
+- public health
+storyline_nexus:
+- measles-vaccine-decline
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
-  intensity: 0.95
+  intensity: 0.9
 - value: truthfulness
-  intensity: 0.85
-- value: accountability_of_power
-  intensity: 0.75
+  intensity: 0.6
 - value: informed_citizenship
   intensity: 0.9
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:18:48Z'
 source_cluster_id: cluster_ap_2026-01-21_us-measles-elimination-mexico-6f0bc8f7ef
 gdelt_event_ids: []
-consensus_floor_version: '1.0'
-publication_mindspec_version: '1.0'
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 14
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 3
-    reported: 3
     contested: 0
     confirmed: 8
+    attributed: 3
+    appears: 0
+    reported: 3
+    alleged: 0
   corroboration:
-    primary_plus_secondary: 1
-    one_originating_plus_primary_document: 0
-    primary_document: 13
-    single_source: 0
     two_independent: 0
+    single_source: 0
+    one_originating_plus_primary_document: 0
+    primary_plus_secondary: 1
+    primary_document: 13
 sources:
   count: 1
   outlets:
@@ -71,41 +68,16 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-04-17-rfk-jr-claims-u-s-leads-on-measles-ap-fact-check-finds-otherwise
-  relation: related
-  strength: 0.8692
-  confidence: medium
-- slug: 2026-01-09-south-carolina-measles-outbreak-reaches-310-cases-spreads-to-north-carolina-and-
-  relation: related
-  strength: 0.899
-  confidence: medium
-- slug: 2026-04-17-kennedy-clashes-with-democrats-over-vaccines-and-race-at-house-hearing
-  relation: related
-  strength: 0.7476
-  confidence: medium
-- slug: 2026-01-10-pediatricians-warn-federal-vaccine-guidance-changes-sow-confusion-could-harm-kid
-  relation: related
-  strength: 0.7888
-  confidence: medium
-- slug: 2026-01-05-hhs-narrows-childhood-vaccine-schedule-to-11-diseases-medical-groups-warn-of-pre
-  relation: related
-  strength: 0.802
-  confidence: medium
-- slug: 2026-01-05-cdc-narrows-childhood-vaccine-schedule-pediatricians-warn-of-health-risks
-  relation: related
-  strength: 0.7997
-  confidence: medium
-- slug: 2026-01-08-vermont-reaffirms-childhood-vaccine-schedule-after-cdc-narrows-federal-list
-  relation: related
-  strength: 0.7788
-  confidence: medium
-- slug: 2026-01-06-trump-overstates-childhood-vaccine-requirements-as-administration-cuts-federal-s
-  relation: related
-  strength: 0.7768
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- International health authorities announced they will meet April 13 to determine whether the United States has lost its measles elimination status, a certification granted in 2000 that appears in jeopardy following a year-long outbreak that infected 2,242 people across 44 states.
+- If the Pan American Health Organization votes to revoke the U.
+- The outbreak began in rural West Texas on January 20, 2025. Within weeks, it had spread dramatically, particularly in Gaines County, where 762 confirmed measles cases were documented and two children died. Health officials documented evidence suggesting a significant undercount — 182 additional potential measles cases in Gaines County went unconfirmed in March 2025, suggesting the true number may have been roughly 44% higher than reported..
 
 International health authorities announced they will meet April 13 to determine whether the United States has lost its measles elimination status, a certification granted in 2000 that appears in jeopardy following a year-long outbreak that infected 2,242 people across 44 states. The assessment comes as the U.S. records the highest measles case count since 1991, with nearly 50 separate outbreaks documented and cases confirmed in multiple states showing potential signs of continuous transmission.
 
@@ -149,128 +121,156 @@ Health officials remain uncertain about 2026 trends. "2025 was the year of measl
 
 ## Atomic claims
 
-### c_001 — reported, primary document
-**Subject entities:** Pan American Health Organization; United States
-**Predicate:** announced_assessment
-**Object:** assessment of measles elimination status (official_action)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Pan American Health Organization; United States
+- **Predicate:** announced_assessment
+- **Object:** assessment of measles elimination status (official_action)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > International health authorities plan to meet April 13, 2026 to assess whether the United States has lost its measles elimination status.
 
-### c_002 — confirmed, primary document
-**Subject entities:** United States; Centers for Disease Control and Prevention
-**Predicate:** confirmed_case_count
-**Object:** 2,242 cases across 44 states (epidemiological_statistic)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** United States; Centers for Disease Control and Prevention
+- **Predicate:** confirmed_case_count
+- **Object:** 2,242 cases across 44 states (epidemiological_statistic)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > The United States recorded 2,242 measles cases in 2025 across 44 states.
 
-### c_003 — confirmed, primary document
-**Subject entities:** United States
-**Predicate:** highest_case_count_since
-**Object:** 1991 (temporal_comparison)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** United States
+- **Predicate:** highest_case_count_since
+- **Object:** 1991 (temporal_comparison)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > The 2,242 measles cases represent the highest annual case count in the United States since 1991.
 
-### c_004 — confirmed, primary document
-**Subject entities:** West Texas; measles
-**Predicate:** outbreak_initiation
-**Object:** 2025-01-20 (date)
-**Temporal:** 2025-01-20
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** West Texas; measles
+- **Predicate:** outbreak_initiation
+- **Object:** 2025-01-20 (date)
+- **Temporal:** 2025-01-20
+- **Sources:** src_001
 
 > The measles outbreak began in West Texas on January 20, 2025.
 
-### c_005 — confirmed, primary document
-**Subject entities:** Texas; Gaines County
-**Predicate:** recorded_outbreak_impact
-**Object:** 762 cases; 2 deaths among children (epidemiological_statistic)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Texas; Gaines County
+- **Predicate:** recorded_outbreak_impact
+- **Object:** 762 cases; 2 deaths among children (epidemiological_statistic)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > The Texas measles outbreak resulted in 762 confirmed cases and 2 child deaths in Gaines County.
 
-### c_006 — reported, primary document
-**Subject entities:** Gaines County
-**Predicate:** unconfirmed_cases_identified
-**Object:** 182 unconfirmed potential cases (epidemiological_statistic)
-**Temporal:** 2025-03
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Gaines County
+- **Predicate:** unconfirmed_cases_identified
+- **Object:** 182 unconfirmed potential cases (epidemiological_statistic)
+- **Temporal:** 2025-03
+- **Sources:** src_001
 
 > An additional 182 potential measles cases in Gaines County went unconfirmed in March 2025 alone.
 
-### c_007 — confirmed, primary document
-**Subject entities:** United States; Centers for Disease Control and Prevention
-**Predicate:** vaccination_rate_below_threshold
-**Object:** 92.5% actual rate; 95% required threshold (epidemiological_metric)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** United States; Centers for Disease Control and Prevention
+- **Predicate:** vaccination_rate_below_threshold
+- **Object:** 92.5% actual rate; 95% required threshold (epidemiological_metric)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > The national childhood vaccination rate in the United States is 92.5%, below the 95% threshold needed to prevent measles transmission.
 
-### c_008 — confirmed, primary plus secondary
-**Subject entities:** measles virus
-**Predicate:** transmission_rate_unvaccinated
-**Object:** 9 of 10 unvaccinated exposed (epidemiological_rate)
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** measles virus
+- **Predicate:** transmission_rate_unvaccinated
+- **Object:** 9 of 10 unvaccinated exposed (epidemiological_rate)
+- **Sources:** src_001
 
 > Measles infects 9 of every 10 unvaccinated people exposed to the virus.
 
-### c_009 — confirmed, primary document
-**Subject entities:** measles; United States; Canada; Mexico
-**Predicate:** genetic_strain_distribution
-**Object:** same strain across multiple states and international borders (epidemiological_finding)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** measles; United States; Canada; Mexico
+- **Predicate:** genetic_strain_distribution
+- **Object:** same strain across multiple states and international borders (epidemiological_finding)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > The same measles strain has been confirmed in Texas, New Mexico, Utah, Arizona, South Carolina, Canada, and Mexico.
 
-### c_010 — confirmed, primary document
-**Subject entities:** Mexico; Chihuahua state
-**Predicate:** recorded_outbreak_impact
-**Object:** 6,000 cases; 21 deaths in Chihuahua (epidemiological_statistic)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Mexico; Chihuahua state
+- **Predicate:** recorded_outbreak_impact
+- **Object:** 6,000 cases; 21 deaths in Chihuahua (epidemiological_statistic)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Mexico has documented 6,000 measles cases and 21 deaths in Chihuahua state.
 
-### c_011 — reported, primary document
-**Subject entities:** Trump administration; Robert F. Kennedy Jr.
-**Predicate:** questioned_vaccine_safety
-**Object:** vaccine safety questioned (policy_action)
-**Temporal:** 2025-2026
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Trump administration; Robert F. Kennedy Jr.
+- **Predicate:** questioned_vaccine_safety
+- **Object:** vaccine safety questioned (policy_action)
+- **Temporal:** 2025-2026
+- **Sources:** src_001
 
 > Trump administration health officials, including Health Secretary Robert F. Kennedy Jr., have questioned and cast doubt on the safety of vaccines.
 
-### c_012 — attributed, primary document
-**Subject entities:** Jonathan Temte
-**Predicate:** stated_assessment
-**Object:** conditions permit outbreak due to vaccine de-emphasis (expert_statement)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Jonathan Temte
+- **Predicate:** stated_assessment
+- **Object:** conditions permit outbreak due to vaccine de-emphasis (expert_statement)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > The bottom line is the conditions are sufficient to allow this many cases to occur. And that gets back to de-emphasizing a safe and effective vaccine.
 
-### c_013 — attributed, primary document
-**Subject entities:** Andrew Pavia
-**Predicate:** stated_prognosis
-**Object:** U.S. will likely lose elimination status (expert_prediction)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Andrew Pavia
+- **Predicate:** stated_prognosis
+- **Object:** U.S. will likely lose elimination status (expert_prediction)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > My best guess is we will lose elimination status. The case for this not being continuous transmission is tenuous, and I think they are likely to err on the side of declaring it a loss of elimination status.
 
-### c_014 — attributed, primary document
-**Subject entities:** Noel Brewer
-**Predicate:** stated_uncertainty
-**Object:** 2026 measles trajectory uncertain (expert_statement)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Noel Brewer
+- **Predicate:** stated_uncertainty
+- **Object:** 2026 measles trajectory uncertain (expert_statement)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > 2025 was the year of measles. Will 2026 be the year of rising or falling measles cases? Does it get worse or does it get better? No one knows the answer.
 
@@ -279,10 +279,5 @@ Health officials remain uncertain about 2026 trends. "2025 was the year of measl
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Devi Shastri
 **Publication date:** 2026-01-20
-**Access date:** 2026-01-20
 **Title:** International health authorities to assess US measles situation
 **URL:** https://apnews.com/article/us-measles-elimination-mexico-6f0bc8f7ef31d5ef82492e42ccb38e47
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

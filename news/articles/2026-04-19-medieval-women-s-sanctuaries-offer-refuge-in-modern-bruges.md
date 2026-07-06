@@ -16,7 +16,10 @@ primary_themes:
 - historical preservation
 - refuge
 - community space
-topic_tags: []
+topic_tags:
+- human interest
+- communities
+- arts, culture, entertainment and media
 storyline_nexus: []
 geographic_location: Bruges, Belgium; Flanders, Belgium
 floor_values_engaged:
@@ -205,7 +208,3 @@ The beguinage endures as testament to a form of independence women created for t
 **Access date:** 2026-05-17
 **Title:** Belgium's refuges for women from medieval to modern woes
 **URL:** https://apnews.com/article/bruges-belgium-beguinages-fb25a8cea5f6608a9e1c144393cb96d9
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

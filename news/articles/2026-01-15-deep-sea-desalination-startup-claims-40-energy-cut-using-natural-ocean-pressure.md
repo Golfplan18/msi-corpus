@@ -20,44 +20,43 @@ primary_themes:
 - marine ecosystems
 - California water policy
 topic_tags:
-  - "artificial intelligence"
-  - "climate change"
-  - "economy, business and finance"
-  - "energy and resource"
-  - environment
-  - government
-storyline_nexus: []
-geographic_location: Southern California, United States
+- climate change
+- environment
+- energy and resource
+- technology and engineering
+storyline_nexus:
+- trump-climate-energy-rollbacks
+geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.75
+- value: truthfulness
+  intensity: 0.9
 - value: human_life_and_dignity
-  intensity: 0.5
-- value: accountability_of_power
-  intensity: 0.4
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:01:01Z'
+  intensity: 0.6
+- value: informed_citizenship
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:05:24Z'
 source_cluster_id: cluster_ap_2026-01-18_climate-solutions-desalination-oceans-dr
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 14
   hedges:
-    appears: 0
-    alleged: 0
     attributed: 3
-    reported: 11
+    appears: 0
     contested: 0
+    reported: 11
     confirmed: 0
+    alleged: 0
   corroboration:
     primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 0
-    single_source: 14
     two_independent: 0
+    single_source: 14
+    one_originating_plus_primary_document: 0
 sources:
   count: 1
   outlets:
@@ -71,13 +70,18 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-06-greece-uses-epiphany-ceremony-to-spotlight-athens-water-crisis
-  relation: related
-  strength: 0.7132
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Summary point 1.
+- Summary point 2.
+- Summary point 3.
+- Summary point 4.
 
 The project enters a market under mounting pressure from climate-driven water scarcity. More than 20,000 desalination plants operate worldwide, expanding at roughly 7% annually since 2010, but the industry's own carbon footprint and damage to coastal ecosystems have grown alongside that demand. Whether deep-sea technology can deliver on its cost and environmental promises at commercial scale remains unproven, researchers said.
 
@@ -135,133 +139,159 @@ Many water experts say recycling and conservation should take priority over desa
 
 *The Associated Press, which produced the source reporting for this article, receives support from the Walton Family Foundation for coverage of water and environmental policy. The AP is solely responsible for its content.*
 
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework (v1.1.0) from the public sources listed above. [Methodology](/methodology). Human review: not triggered. Licensed [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*
-
 ## Atomic claims
 
-### c_001 — reported, single source
-**Subject entities:** OceanWell
-**Predicate:** plans_to_operate
-**Object:** reverse osmosis pods at 1,300 feet depth, ~4 miles offshore (technology_plan)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** OceanWell
+- **Predicate:** plans_to_operate
+- **Object:** reverse osmosis pods at 1,300 feet depth, ~4 miles offshore (technology_plan)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > OceanWell plans to operate reverse osmosis pods 1,300 feet below the ocean surface roughly four miles off the Southern California coast.
 
-### c_002 — attributed, single source
-**Subject entities:** OceanWell
-**Predicate:** projects_capacity_of
-**Object:** up to 60 million gallons daily (capacity_claim)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** OceanWell
+- **Predicate:** projects_capacity_of
+- **Object:** up to 60 million gallons daily (capacity_claim)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > OceanWell's Water Farm 1 would produce up to 60 million gallons (nearly 225 million liters) of freshwater daily.
 
-### c_003 — attributed, single source
-**Subject entities:** OceanWell
-**Predicate:** claims_energy_reduction_of
-**Object:** about 40% (efficiency_claim)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** OceanWell
+- **Predicate:** claims_energy_reduction_of
+- **Object:** about 40% (efficiency_claim)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > OceanWell claims its deep-sea approach would cut energy use by about 40% compared to conventional desalination plants.
 
-### c_004 — reported, single source
-**Subject entities:** global desalination industry
-**Predicate:** emits
-**Object:** 500-850 million tons CO2 annually (emissions_range)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** global desalination industry
+- **Predicate:** emits
+- **Object:** 500-850 million tons CO2 annually (emissions_range)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Desalination plants worldwide produce between 500 and 850 million tons of carbon emissions annually, approaching the roughly 880 million tons emitted by the global aviation industry.
 
-### c_005 — reported, single source
-**Subject entities:** global desalination industry
-**Predicate:** operates_and_grows
-**Object:** 20,000+ plants, ~7% annual growth since 2010 (industry_scale)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** global desalination industry
+- **Predicate:** operates_and_grows
+- **Object:** 20,000+ plants, ~7% annual growth since 2010 (industry_scale)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > More than 20,000 desalination plants operate worldwide, and the industry has been expanding at about 7% annually since 2010.
 
-### c_006 — reported, single source
-**Subject entities:** Carlsbad Desalination Plant
-**Predicate:** commenced_operation_as
-**Object:** largest seawater desalination facility in North America (facility_classification)
-**Temporal:** 2015
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Carlsbad Desalination Plant
+- **Predicate:** commenced_operation_as
+- **Object:** largest seawater desalination facility in North America (facility_classification)
+- **Temporal:** 2015
+- **Sources:** src_001
 
 > The Carlsbad Desalination Plant came online in 2015 as the largest seawater desalination facility in North America.
 
-### c_007 — reported, single source
-**Subject entities:** Carlsbad Desalination Plant; San Diego County
-**Predicate:** supplies
-**Object:** up to 54 million gallons daily, ~10% of San Diego County, ~400,000 households (capacity_and_share)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Carlsbad Desalination Plant; San Diego County
+- **Predicate:** supplies
+- **Object:** up to 54 million gallons daily, ~10% of San Diego County, ~400,000 households (capacity_and_share)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > The Carlsbad plant can produce up to 54 million gallons of drinking water daily, supplying about 10% of San Diego County's water, enough for roughly 400,000 households.
 
-### c_008 — reported, single source
-**Subject entities:** San Diego
-**Predicate:** imports
-**Object:** roughly 90% from Colorado River and Northern California (supply_dependency)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** San Diego
+- **Predicate:** imports
+- **Object:** roughly 90% from Colorado River and Northern California (supply_dependency)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > San Diego imports roughly 90% of its water supply from the Colorado River and Northern California.
 
-### c_009 — reported, single source
-**Subject entities:** Carlsbad Desalination Plant; Regional Water Quality Control Board
-**Predicate:** estimated_and_required
-**Object:** ~10 lbs fish daily entrapped; wetland restoration ordered 2009, incomplete as of 2026 (regulatory_finding)
-**Temporal:** 2009
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Carlsbad Desalination Plant; Regional Water Quality Control Board
+- **Predicate:** estimated_and_required
+- **Object:** ~10 lbs fish daily entrapped; wetland restoration ordered 2009, incomplete as of 2026 (regulatory_finding)
+- **Temporal:** 2009
+- **Sources:** src_001
 
 > A 2009 Regional Water Quality Control Board order estimated the Carlsbad plant would entrap some 10 pounds of fish daily and required offsetting those impacts by restoring wetlands elsewhere; seventeen years later, that restoration remains incomplete.
 
-### c_010 — attributed, single source
-**Subject entities:** Gregory Pierce; UCLA Water Resources Group
-**Predicate:** assessed
-**Object:** cost is the critical variable for deep-sea desalination viability (expert_assessment)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Gregory Pierce; UCLA Water Resources Group
+- **Predicate:** assessed
+- **Object:** cost is the critical variable for deep-sea desalination viability (expert_assessment)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Gregory Pierce, director of UCLA's Water Resources Group, said cost will be the make-or-break factor for deep-sea desalination technology.
 
-### c_011 — reported, single source
-**Subject entities:** OceanWell
-**Predicate:** signed_agreement_to_test_in
-**Object:** Nice, France, beginning 2026 (expansion_agreement)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** OceanWell
+- **Predicate:** signed_agreement_to_test_in
+- **Object:** Nice, France, beginning 2026 (expansion_agreement)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > OceanWell has signed an agreement to test its system in Nice, France, beginning in 2026.
 
-### c_012 — reported, single source
-**Subject entities:** Flocean; Waterise
-**Predicate:** tested_and_developing
-**Object:** subsea desalination systems toward commercial deployment (competitor_activity)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Flocean; Waterise
+- **Predicate:** tested_and_developing
+- **Object:** subsea desalination systems toward commercial deployment (competitor_activity)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Norway-based Flocean and Netherlands-based Waterise have tested subsea desalination systems and are working toward commercial deployment.
 
-### c_013 — reported, single source
-**Subject entities:** Las Virgenes Reservoir
-**Predicate:** serves
-**Object:** ~70,000 residents; water pumped ~400 miles from Sierra Nevada (infrastructure_fact)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_013
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Las Virgenes Reservoir
+- **Predicate:** serves
+- **Object:** ~70,000 residents; water pumped ~400 miles from Sierra Nevada (infrastructure_fact)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Las Virgenes Reservoir serves about 70,000 residents in western Los Angeles County; nearly all the water originates in the northern Sierra Nevada and is pumped some 400 miles over the Tehachapi Mountains.
 
-### c_014 — reported, single source
-**Subject entities:** California coastal wetlands
-**Predicate:** lost
-**Object:** roughly 95% lost to development (ecological_loss_figure)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_014
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** California coastal wetlands
+- **Predicate:** lost
+- **Object:** roughly 95% lost to development (ecological_loss_figure)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Roughly 95% of California's coastal wetlands have been lost largely to development.
 
@@ -270,10 +300,5 @@ Many water experts say recycling and conservation should take priority over desa
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Annika Hammerschlag
 **Publication date:** 2026-01-15
-**Access date:** 2026-01-15
 **Title:** Company hopes new technology will make desalination more efficient
 **URL:** https://apnews.com/article/climate-solutions-desalination-oceans-drinking-water-faba2579f83df4c0688a3ea5e20ab3a6
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

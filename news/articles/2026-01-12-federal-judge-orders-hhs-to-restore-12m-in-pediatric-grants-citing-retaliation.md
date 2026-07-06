@@ -18,44 +18,44 @@ primary_themes:
 - vaccines
 - gender-affirming-care
 topic_tags:
-  - "crime, law and justice"
-  - health
-  - judiciary
+- judiciary
+- government
+- public health
+- health
+- civil rights
 storyline_nexus:
-  - iran-war
-  - russia-ukraine-war
-  - us-administration-2026
-geographic_location: Washington, D.C.
+- trump-health-policy-rfk
+geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
   intensity: 0.9
-- value: human_life_and_dignity
-  intensity: 0.8
+- value: equality_fairness
+  intensity: 0.6
 - value: informed_citizenship
-  intensity: 0.75
-framework_version: 1.1.0
-generation_timestamp: '2026-01-12T00:00:00Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T04:27:49Z'
 source_cluster_id: cluster_ap_2026-01-11_aap-hhs-funding-lawsuit-injunction-pedia
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 9
   hedges:
     appears: 0
-    alleged: 1
     attributed: 2
+    confirmed: 6
+    alleged: 1
     reported: 0
     contested: 0
-    confirmed: 6
   corroboration:
+    single_source: 6
     primary_plus_secondary: 0
+    two_independent: 0
     one_originating_plus_primary_document: 0
     primary_document: 3
-    single_source: 6
-    two_independent: 0
 sources:
   count: 1
   outlets:
@@ -73,29 +73,16 @@ image:
   url: /articles/2026-01-12-federal-judge-orders-hhs-to-restore-12m-in-pediatric-grants-citing-retaliation.png
   alt: 'Illustration accompanying article: Federal judge orders HHS to restore $12M in pediatric grants, citing retaliation'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-08-federal-judge-blocks-trump-s-purge-of-dei-terms-from-head-start-grant-applicatio
-  relation: related
-  strength: 0.8888
-  confidence: medium
-- slug: 2025-12-31-appeals-court-lets-medicaid-funding-cuts-to-planned-parenthood-stand-while-state
-  relation: related
-  strength: 0.8642
-  confidence: medium
-- slug: 2025-12-31-appeals-court-lets-medicaid-cuts-to-planned-parenthood-stand-during-suit
-  relation: related
-  strength: 0.8477
-  confidence: medium
-- slug: 2026-01-06-trump-administration-withholds-safety-net-funds-from-five-states-over-fraud-clai
-  relation: related
-  strength: 0.7708
-  confidence: medium
-- slug: 2026-01-07-trump-child-care-funding-freeze-rattles-providers-and-families-in-five-states
-  relation: related
-  strength: 0.7449
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- Judge orders HHS to restore AAP funding as lawsuit continues
+- Lead entity: Ali Swenson
+- Key figures: Donald Trump, Robert F. Kennedy Jr.
 
 The ruling is the latest in a series of federal court interventions blocking the Trump administration from cutting health and social-service funding to organizations whose public positions conflict with administration priorities.
 
@@ -127,84 +114,102 @@ The preliminary injunction preserves AAP's funding while the underlying lawsuit 
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Beryl Howell; HHS; American Academy of Pediatrics
-**Predicate:** ordered_restoration_of
-**Object:** nearly $12 million (funding_amount)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Beryl Howell; HHS; American Academy of Pediatrics
+- **Predicate:** ordered_restoration_of
+- **Object:** nearly $12 million (funding_amount)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > U.S. District Judge Beryl Howell ordered HHS to restore nearly $12 million in funding to the American Academy of Pediatrics.
 
-### c_002 — attributed, primary document
-**Subject entities:** Beryl Howell; HHS; American Academy of Pediatrics
-**Predicate:** found_retaliatory_motive
-**Object:** preliminary injunction (legal_ruling)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Beryl Howell; HHS; American Academy of Pediatrics
+- **Predicate:** found_retaliatory_motive
+- **Object:** preliminary injunction (legal_ruling)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > Judge Howell found evidence showed HHS likely had a 'retaliatory motive' when it terminated grants to AAP in December.
 
-### c_003 — confirmed, primary document
-**Subject entities:** American Academy of Pediatrics; HHS
-**Predicate:** funded
-**Object:** seven children's health grant programs (grant_programs)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** American Academy of Pediatrics; HHS
+- **Predicate:** funded
+- **Object:** seven children's health grant programs (grant_programs)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > The seven terminated grants supported programs to prevent sudden unexpected infant death, strengthen pediatric care in rural communities, and support teens facing substance use and mental health challenges.
 
-### c_004 — alleged, single source
-**Subject entities:** American Academy of Pediatrics
-**Predicate:** alleged_retaliation
-**Object:** grant terminations (government_action)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_004
+- **Hedge:** alleged
+- **Corroboration:** single_source
+- **Subject entities:** American Academy of Pediatrics
+- **Predicate:** alleged_retaliation
+- **Object:** grant terminations (government_action)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > AAP alleged the cuts were made in retaliation for the group speaking out against the Trump administration's positions and actions.
 
-### c_005 — attributed, single source
-**Subject entities:** HHS
-**Predicate:** denied_retaliation_cited_misalignment
-**Object:** grants no longer aligned with priorities (official_statement)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** HHS
+- **Predicate:** denied_retaliation_cited_misalignment
+- **Object:** grants no longer aligned with priorities (official_statement)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > HHS said in letters to AAP that the grants were cut because they no longer aligned with the department's priorities; the department denied AAP's allegations of retaliation.
 
-### c_006 — confirmed, single source
-**Subject entities:** American Academy of Pediatrics
-**Predicate:** issued_divergent_recommendations
-**Object:** COVID-19 vaccine recommendations (policy_statement)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** American Academy of Pediatrics
+- **Predicate:** issued_divergent_recommendations
+- **Object:** COVID-19 vaccine recommendations (policy_statement)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > AAP released its own COVID-19 vaccine recommendations that substantially diverged from government guidance.
 
-### c_007 — confirmed, single source
-**Subject entities:** Robert F. Kennedy Jr.; HHS
-**Predicate:** changed
-**Object:** childhood vaccine recommendations (policy_action)
-**Temporal:** 2025-2026
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Robert F. Kennedy Jr.; HHS
+- **Predicate:** changed
+- **Object:** childhood vaccine recommendations (policy_action)
+- **Temporal:** 2025-2026
+- **Sources:** src_001
 
 > Health Secretary Robert F. Kennedy Jr., who helped lead the anti-vaccine movement for years, has made sweeping changes to childhood vaccine recommendations.
 
-### c_008 — confirmed, single source
-**Subject entities:** Skye Perryman; Democracy Forward; American Academy of Pediatrics
-**Predicate:** represents_in_lawsuit
-**Object:** legal representation (legal_relationship)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Skye Perryman; Democracy Forward; American Academy of Pediatrics
+- **Predicate:** represents_in_lawsuit
+- **Object:** legal representation (legal_relationship)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Skye Perryman is president and CEO of Democracy Forward, which is representing AAP in the lawsuit.
 
-### c_009 — confirmed, single source
-**Subject entities:** HHS
-**Predicate:** declined_comment
-**Object:** no comment (official_response)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** HHS
+- **Predicate:** declined_comment
+- **Object:** no comment (official_response)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > An HHS spokesperson and attorneys representing the department declined comment on the ruling.
 
@@ -213,10 +218,5 @@ The preliminary injunction preserves AAP's funding while the underlying lawsuit 
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Ali Swenson
 **Publication date:** 2026-01-12
-**Access date:** 2026-01-12
 **Title:** Judge orders HHS to restore AAP funding as lawsuit continues
 **URL:** https://apnews.com/article/aap-hhs-funding-lawsuit-injunction-pediatrics-health-4f3dac1494edfa516da045d53d3a1f0a
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

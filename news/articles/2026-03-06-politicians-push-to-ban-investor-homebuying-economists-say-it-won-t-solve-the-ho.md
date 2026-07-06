@@ -19,41 +19,43 @@ primary_themes:
 - housing supply shortage
 - federal and state housing policy
 topic_tags:
-  - "economy, business and finance"
-  - "government policy"
+- government policy
+- economy
+- construction and property
+- politics
 storyline_nexus:
-  - us-administration-2026
-geographic_location: United States; Texas
+- housing-affordability-crisis
+geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.9
-- value: human_life_and_dignity
-  intensity: 0.65
 - value: accountability_of_power
-  intensity: 0.55
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:44:01Z'
+  intensity: 0.9
+- value: equality_fairness
+  intensity: 0.6
+- value: truthfulness
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:59:42Z'
 source_cluster_id: cluster_ap_2026-03-07_greg-abbott-donald-trump-donald-trump-es
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 13
   hedges:
-    appears: 0
     alleged: 0
+    confirmed: 0
     attributed: 6
     reported: 7
     contested: 0
-    confirmed: 0
+    appears: 0
   corroboration:
-    primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
-    primary_document: 0
     single_source: 13
+    primary_plus_secondary: 0
     two_independent: 0
+    primary_document: 0
 sources:
   count: 1
   outlets:
@@ -67,25 +69,17 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-07-trump-calls-for-ban-on-large-investors-buying-homes-citing-affordability-concern
-  relation: continues
-  strength: 0.939
-  confidence: high
-- slug: 2026-01-08-trump-directs-fannie-freddie-to-buy-200b-in-mortgage-bonds-to-lower-rates
-  relation: related
-  strength: 0.8177
-  confidence: medium
-- slug: 2026-01-12-arizona-firm-s-detroit-buying-spree-leaves-historic-neighborhood-in-ruins
-  relation: related
-  strength: 0.728
-  confidence: medium
-- slug: 2026-01-08-cbo-projects-fed-rate-cuts-in-2026-as-treasury-yields-mortgage-costs-set-to-rise
-  relation: related
-  strength: 0.7296
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- Housing economists said the measures carry political appeal but would not substantially reduce home prices. Large institutional investors…
+- President Donald Trump called on Congress at his State of the Union address to permanently bar large institutional investors from purchas…
+- Housing economists said the measures carry political appeal but would not substantially reduce home prices. Large institutional investors…
+- The debate pits a politically resonant target against what housing economists describe as a harder but more effective remedy: building si…
 
 President Donald Trump called on Congress at his State of the Union address to permanently bar large institutional investors from purchasing single-family homes, and the U.S. Senate this week advanced a housing bill with a provision that would cap such ownership at 350 homes per firm. Trump signed an executive order in January aimed at discouraging federal agencies from facilitating sales of homes to large institutional investors, and lawmakers from both parties — including Sens. Bernie Sanders and Elizabeth Warren — have separately pushed similar limits.
 
@@ -153,120 +147,146 @@ Would-be homebuyers might gain a modest competitive edge if laws forced investor
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Donald Trump
-**Predicate:** called_on
-**Object:** permanent ban on institutional investor home purchases (policy_demand)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** called_on
+- **Object:** permanent ban on institutional investor home purchases (policy_demand)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > President Trump called on Congress at his State of the Union address to permanently bar institutional investors from purchasing single-family homes.
 
-### c_002 — attributed, single source
-**Subject entities:** Donald Trump
-**Predicate:** signed
-**Object:** executive order on institutional investor home sales (executive_action)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** signed
+- **Object:** executive order on institutional investor home sales (executive_action)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Trump signed an executive order in January aimed at discouraging federal agencies from facilitating sales of homes to large institutional investors.
 
-### c_003 — reported, single source
-**Subject entities:** U.S. Senate
-**Predicate:** advanced
-**Object:** housing bill with 350-home cap provision (legislation)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Senate
+- **Predicate:** advanced
+- **Object:** housing bill with 350-home cap provision (legislation)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > The U.S. Senate advanced a bill this week with a provision banning large investors from owning more than 350 single-family homes.
 
-### c_004 — reported, single source
-**Subject entities:** institutional investors
-**Predicate:** own
-**Object:** 1-3% of national single-family housing stock (market_share)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** institutional investors
+- **Predicate:** own
+- **Object:** 1-3% of national single-family housing stock (market_share)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > Large institutional investors own between 1% and 3% of the nation's single-family housing stock, according to estimates.
 
-### c_005 — attributed, single source
-**Subject entities:** Daryl Fairweather; Redfin
-**Predicate:** said
-**Object:** ban is political talking point; real solution is supply (expert_opinion)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Daryl Fairweather; Redfin
+- **Predicate:** said
+- **Object:** ban is political talking point; real solution is supply (expert_opinion)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > Daryl Fairweather, chief economist at Redfin, said declaring a ban on institutional investors 'works as a political talking point' but the real solution is building more homes.
 
-### c_006 — reported, single source
-**Subject entities:** institutional investors; Texas
-**Predicate:** purchased
-**Object:** 68,482 Texas homes (14.2% of state sales) (transaction_volume)
-**Temporal:** 2021
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** institutional investors; Texas
+- **Predicate:** purchased
+- **Object:** 68,482 Texas homes (14.2% of state sales) (transaction_volume)
+- **Temporal:** 2021
+- **Sources:** src_001
 
 > Institutional investors bought 68,482 homes in Texas in 2021, or 14.2% of all homes sold in the state that year, per ATTOM Data Solutions.
 
-### c_007 — attributed, single source
-**Subject entities:** AEI; Texas
-**Predicate:** own
-**Object:** less than 1% of Texas single-family stock (corps with 100+ units) (market_share)
-**Temporal:** 2025-06
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** AEI; Texas
+- **Predicate:** own
+- **Object:** less than 1% of Texas single-family stock (corps with 100+ units) (market_share)
+- **Temporal:** 2025-06
+- **Sources:** src_001
 
 > Less than 1% of Texas' single-family housing stock is owned by corporations that own 100 or more units, as of June 2025, per American Enterprise Institute estimates.
 
-### c_008 — reported, single source
-**Subject entities:** Texas
-**Predicate:** needs
-**Object:** 319,500 additional housing units (housing_deficit)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Texas
+- **Predicate:** needs
+- **Object:** 319,500 additional housing units (housing_deficit)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > Texas needs 319,500 homes of all kinds, according to one commonly cited estimate.
 
-### c_009 — reported, single source
-**Subject entities:** Greg Abbott
-**Predicate:** vetoed
-**Object:** institutional homebuying tracking bill (2023) (legislative_action)
-**Temporal:** 2023
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Greg Abbott
+- **Predicate:** vetoed
+- **Object:** institutional homebuying tracking bill (2023) (legislative_action)
+- **Temporal:** 2023
+- **Sources:** src_001
 
 > Gov. Greg Abbott vetoed a 2023 bill that would have required the Texas Real Estate Research Center at Texas A&M University to track institutional buyers' activity in the state's housing market.
 
-### c_010 — attributed, single source
-**Subject entities:** Edward Pinto; AEI Housing Center
-**Predicate:** said
-**Object:** investor ban would not increase housing construction (expert_opinion)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Edward Pinto; AEI Housing Center
+- **Predicate:** said
+- **Object:** investor ban would not increase housing construction (expert_opinion)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > Edward Pinto, co-director of the AEI Housing Center, said banning institutional investors from buying homes would not result in more housing construction.
 
-### c_011 — reported, single source
-**Subject entities:** Raysall Wiggins; Harris County Community Land Trust
-**Predicate:** purchased
-**Object:** home through community land trust after losing bids to investors (personal_account)
-**Temporal:** 2023
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Raysall Wiggins; Harris County Community Land Trust
+- **Predicate:** purchased
+- **Object:** home through community land trust after losing bids to investors (personal_account)
+- **Temporal:** 2023
+- **Sources:** src_001
 
 > Raysall Wiggins, a Houston health care worker, lost multiple home bids to investors before buying through the Harris County Community Land Trust in 2023.
 
-### c_012 — reported, single source
-**Subject entities:** Texas
-**Predicate:** enacted
-**Object:** housing supply laws (smaller lots, apartments in commercial areas) (legislation)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Texas
+- **Predicate:** enacted
+- **Object:** housing supply laws (smaller lots, apartments in commercial areas) (legislation)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Texas enacted laws in the 2025 legislative session allowing smaller homes on smaller lots and apartments in commercial areas in major cities.
 
-### c_013 — attributed, single source
-**Subject entities:** Raysall Wiggins
-**Predicate:** said
-**Object:** personal account of losing home bids to investors (quotation)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Raysall Wiggins
+- **Predicate:** said
+- **Object:** personal account of losing home bids to investors (quotation)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > Raysall Wiggins said, 'It's devastating to continuously go through the same thing, for a person to constantly be told, no or we didn't get it. It's a complete letdown.'
 
@@ -275,10 +295,5 @@ Would-be homebuyers might gain a modest competitive edge if laws forced investor
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Joshua Fechter / The Texas Tribune
 **Publication date:** 2026-03-06
-**Access date:** 2026-03-06
-**Title:** Politicians want to stop companies from buying homes. A ban wouldn't bring down costs
+**Title:** Politicians want to stop companies from buying homes. A ban wouldn’t bring down costs
 **URL:** https://apnews.com/article/greg-abbott-donald-trump-donald-trump-es-houston-austin-3845aa3845bb95a9bcc0befe7744c7ea
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

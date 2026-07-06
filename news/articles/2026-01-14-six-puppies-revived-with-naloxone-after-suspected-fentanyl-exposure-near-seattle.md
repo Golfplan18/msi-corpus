@@ -1,6 +1,5 @@
 ---
 headline: Six puppies revived with naloxone after suspected fentanyl exposure near Seattle
-slug: 2026-01-14-six-puppies-revived-with-naloxone-after-suspected-fentanyl-exposure-near-seattle
 publish_date: '2026-01-14'
 lede: Firefighters at Sky Valley Fire in rural Snohomish County, Washington, used the opioid-overdose reversal drug naloxone to revive six puppies that officials believe ingested or inhaled fentanyl, Battalion Chief Brandon Vargas said Tuesday. The animals recovered and will be available for adoption within about a week — and some firefighters who treated them have expressed interest in giving them a permanent home.
 nut_graf: The incident has prompted an animal cruelty and neglect investigation, authorities said. The Everett shelter housing the puppies has been overwhelmed with adoption requests, and officials asked the public to stop calling with inquiries about the animals.
@@ -15,39 +14,39 @@ primary_themes:
 - animal cruelty investigation
 - emergency response
 topic_tags:
-  - health
-storyline_nexus: []
-geographic_location: Snohomish County, Washington
+- accident and emergency incident
+- crime, law and justice
+- health
+- law enforcement
+storyline_nexus:
+- los-angeles-wildfire-recovery
+geographic_location: United States
 floor_values_engaged:
-- value: human_life_and_dignity
-  intensity: 0.5
-- value: accountability_of_power
-  intensity: 0.2
 - value: informed_citizenship
-  intensity: 0.3
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:01:02Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:10:58Z'
 source_cluster_id: cluster_ap_2026-01-14_puppy-fentanyl-overdose-rescue-washingto
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 11
   hedges:
-    appears: 0
-    alleged: 2
-    attributed: 7
-    reported: 0
     contested: 0
+    reported: 0
+    attributed: 7
+    alleged: 2
     confirmed: 2
+    appears: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 0
     single_source: 11
     two_independent: 0
+    primary_plus_secondary: 0
+    one_originating_plus_primary_document: 0
 sources:
   count: 1
   outlets:
@@ -65,17 +64,16 @@ image:
   url: /articles/2026-01-14-six-puppies-revived-with-naloxone-after-suspected-fentanyl-exposure-near-seattle.png
   alt: 'Illustration accompanying article: Six puppies revived with naloxone after suspected fentanyl exposure near'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-07-drone-thermal-imaging-leads-rescuers-to-shelter-dog-that-fled-new-jersey-turnpik
-  relation: related
-  strength: 0.7747
-  confidence: medium
-- slug: 2026-01-02-rhode-island-firefighters-rescue-dog-named-phoenix-from-icy-pond-on-new-year-s-d
-  relation: related
-  strength: 0.7013
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- Firefighters at Sky Valley Fire in rural Snohomish County, Washington, used the opioid-overdose reversal drug naloxone to revive six puppies that officials believe ingested or inhaled fentanyl, Battalion Chief Brandon Vargas said Tuesday.
+- The incident has prompted an animal cruelty and neglect investigation, authorities said.
+- The Everett shelter housing the puppies has been overwhelmed with adoption requests, and officials asked the public to stop calling with inquiries about the animals.
 
 Firefighters at Sky Valley Fire in rural Snohomish County, Washington, used the opioid-overdose reversal drug naloxone to revive six puppies that officials believe ingested or inhaled fentanyl, Battalion Chief Brandon Vargas said Tuesday. The animals recovered and will be available for adoption within about a week — and some firefighters who treated them have expressed interest in giving them a permanent home.
 
@@ -99,91 +97,113 @@ Some of the firefighters who treated the puppies may be among their eventual ado
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Predicate:** dropped_off
-**Object:** three sickened puppies (event)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Predicate:** dropped_off
+- **Object:** three sickened puppies (event)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Two people dropped off three sickened puppies at Sky Valley Fire station on Sunday.
 
-### c_002 — alleged, single source
-**Predicate:** suspected_exposure
-**Object:** fentanyl (substance)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_002
+- **Hedge:** alleged
+- **Corroboration:** single_source
+- **Predicate:** suspected_exposure
+- **Object:** fentanyl (substance)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Officials believe the puppies either breathed or ate fentanyl.
 
-### c_003 — attributed, single source
-**Predicate:** administered_treatment
-**Object:** naloxone, oxygen, CPR (medical_intervention)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Predicate:** administered_treatment
+- **Object:** naloxone, oxygen, CPR (medical_intervention)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Firefighters sprayed naloxone into the puppies' noses, administered oxygen, and performed CPR.
 
-### c_004 — attributed, single source
-**Predicate:** recovered
-**Object:** tails wagging (behavioral_indicator)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Predicate:** recovered
+- **Object:** tails wagging (behavioral_indicator)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > The puppies' tails started wagging shortly after treatment, according to Battalion Chief Brandon Vargas.
 
-### c_005 — attributed, single source
-**Predicate:** located
-**Object:** three additional puppies (event)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Predicate:** located
+- **Object:** three additional puppies (event)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Sheriff's deputies tracked down the two people and found three more puppies that also needed treatment.
 
-### c_006 — confirmed, single source
-**Predicate:** investigation_ongoing
-**Object:** animal cruelty or neglect (legal_proceeding)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Predicate:** investigation_ongoing
+- **Object:** animal cruelty or neglect (legal_proceeding)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > An animal cruelty or neglect investigation is underway.
 
-### c_007 — alleged, single source
-**Predicate:** claimed
-**Object:** temporary caretakers (statement)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_007
+- **Hedge:** alleged
+- **Corroboration:** single_source
+- **Predicate:** claimed
+- **Object:** temporary caretakers (statement)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > The pair claimed they were caring for the puppies temporarily.
 
-### c_008 — attributed, single source
-**Predicate:** quarantined
-**Object:** approximately one week (duration)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Predicate:** quarantined
+- **Object:** approximately one week (duration)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > The puppies have a clean bill of health but are being quarantined for about one more week before adoption, according to David Byrd, manager of Snohomish County Animal Services.
 
-### c_009 — attributed, single source
-**Predicate:** overwhelmed_with_offers
-**Object:** adoption offers (public_response)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Predicate:** overwhelmed_with_offers
+- **Object:** adoption offers (public_response)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > The Everett animal shelter has been overwhelmed with adoption offers and asked people not to call with questions about the puppies.
 
-### c_010 — attributed, single source
-**Predicate:** expressed_interest_in_adoption
-**Object:** firefighters (group)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Predicate:** expressed_interest_in_adoption
+- **Object:** firefighters (group)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Some Sky Valley Fire personnel expressed interest in adopting the puppies, according to Battalion Chief Brandon Vargas.
 
-### c_011 — confirmed, single source
-**Predicate:** located
-**Object:** northeast of Seattle, approximately one hour (geographic)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_011
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Predicate:** located
+- **Object:** northeast of Seattle, approximately one hour (geographic)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Sky Valley Fire station is located about an hour's drive northeast of Seattle.
 
@@ -192,10 +212,5 @@ Some of the firefighters who treated the puppies may be among their eventual ado
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Cedar Attanasio
 **Publication date:** 2026-01-14
-**Access date:** 2026-01-14
 **Title:** Firehouse staff in Washington eager to adopt puppies after overdose scare
 **URL:** https://apnews.com/article/puppy-fentanyl-overdose-rescue-washington-state-cceb5f9560792841e00ced990a77f9e9
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

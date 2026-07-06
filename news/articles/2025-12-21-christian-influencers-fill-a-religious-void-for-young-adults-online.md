@@ -23,41 +23,39 @@ primary_themes:
 - digital media
 - American Christianity
 topic_tags:
-  - "human interest"
-  - health
-  - society
-  - "human migration"
-  - "disease and condition"
-  - religion
-storyline_nexus: []
+- religion
+- belief systems
+- social media
+- mental health
+- human interest
+storyline_nexus:
+- 2026-midterm-elections
 geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.7
-- value: human_life_and_dignity
-  intensity: 0.5
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T06:57:44Z'
+- value: truthfulness
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-22T23:58:37Z'
 source_cluster_id: cluster_ap_2026-01-13_christian-influencers-girls-gone-bible-m
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 10
   hedges:
+    contested: 0
     appears: 0
     alleged: 0
-    attributed: 3
     reported: 1
-    contested: 0
+    attributed: 3
     confirmed: 6
   corroboration:
     primary_plus_secondary: 0
+    single_source: 10
     one_originating_plus_primary_document: 0
     primary_document: 0
-    single_source: 10
     two_independent: 0
 sources:
   count: 1
@@ -79,6 +77,14 @@ image:
 cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Millennial and Generation Z Christian influencers are drawing growing audiences across digital platforms by offering biblical guidance on dating, ment
+- Additional context from article.
+- Key findings or implications.
 
 Millennial and Generation Z Christian influencers are drawing growing audiences across digital platforms by offering biblical guidance on dating, mental health, parenting and racial justice — filling gaps that Sunday sermons often leave unfilled, according to the Associated Press. The trend comes as organized religion loses ground among young Americans: only 41% of people ages 18 to 35 surveyed in 2023 and 2024 said they believe in God with certainty, down from 65% in 2007, according to the Pew Research Center.
 
@@ -124,93 +130,113 @@ Halili said the appetite she sees reflects a broader hunger that digital platfor
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Pew Research Center
-**Predicate:** surveyed
-**Object:** 41% believe in God with certainty (ages 18-35, 2023-24), down from 65% in 2007 (survey_finding)
-**Temporal:** 2023-2024
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Pew Research Center
+- **Predicate:** surveyed
+- **Object:** 41% believe in God with certainty (ages 18-35, 2023-24), down from 65% in 2007 (survey_finding)
+- **Temporal:** 2023-2024
+- **Sources:** src_001
 
 > Only 41% of people ages 18 to 35 surveyed in 2023 and 2024 said they believe in God with certainty, down from 65% in 2007.
 
-### c_002 — attributed, single source
-**Subject entities:** Girls Gone Bible
-**Predicate:** receives
-**Object:** more than one million listens or streams per month (audience_metric)
-**Temporal:** 2025-12-21
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Girls Gone Bible
+- **Predicate:** receives
+- **Object:** more than one million listens or streams per month (audience_metric)
+- **Temporal:** 2025-12-21
+- **Sources:** src_001
 
 > Girls Gone Bible gets more than a million listens or streams each month.
 
-### c_003 — confirmed, single source
-**Subject entities:** Megan Ashley
-**Predicate:** hosts
-**Object:** In Totality podcast (media_product)
-**Temporal:** 2025-12-21
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Megan Ashley
+- **Predicate:** hosts
+- **Object:** In Totality podcast (media_product)
+- **Temporal:** 2025-12-21
+- **Sources:** src_001
 
 > Megan Ashley, 35, hosts the 'In Totality' podcast.
 
-### c_004 — confirmed, single source
-**Subject entities:** Arielle Reitsma; Angela Halili; Girls Gone Bible
-**Predicate:** co-host
-**Object:** Girls Gone Bible podcast (media_product)
-**Temporal:** 2025-12-21
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Arielle Reitsma; Angela Halili; Girls Gone Bible
+- **Predicate:** co-host
+- **Object:** Girls Gone Bible podcast (media_product)
+- **Temporal:** 2025-12-21
+- **Sources:** src_001
 
 > Arielle Reitsma, 36, and Angela Halili, 29, co-host Girls Gone Bible, which started more than two years before December 2025.
 
-### c_005 — confirmed, single source
-**Subject entities:** Jackie Hill Perry; Preston Perry
-**Predicate:** started
-**Object:** With the Perrys podcast (media_product)
-**Temporal:** 2019
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Jackie Hill Perry; Preston Perry
+- **Predicate:** started
+- **Object:** With the Perrys podcast (media_product)
+- **Temporal:** 2019
+- **Sources:** src_001
 
 > Jackie Hill Perry, 36, and her husband Preston Perry, 39, started the 'With the Perrys' podcast in 2019.
 
-### c_006 — confirmed, single source
-**Subject entities:** Bryce Crawford
-**Predicate:** hosts_and_conducts
-**Object:** podcast and street evangelism (activity)
-**Temporal:** 2025-12-21
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Bryce Crawford
+- **Predicate:** hosts_and_conducts
+- **Object:** podcast and street evangelism (activity)
+- **Temporal:** 2025-12-21
+- **Sources:** src_001
 
 > Bryce Crawford, 22, teaches Bible chapters on his podcast and conducts street evangelism at events including Pride parades and the Burning Man festival.
 
-### c_007 — attributed, single source
-**Subject entities:** Zachary Sheldon; Baylor University
-**Predicate:** warned
-**Object:** potential dangers of granting influencers too much authority (expert_assessment)
-**Temporal:** 2025-12-21
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Zachary Sheldon; Baylor University
+- **Predicate:** warned
+- **Object:** potential dangers of granting influencers too much authority (expert_assessment)
+- **Temporal:** 2025-12-21
+- **Sources:** src_001
 
 > Zachary Sheldon, a Baylor University lecturer on media, religion and culture, said there are potential dangers in granting influencers too much authority on the basis of celebrity and social media acumen.
 
-### c_008 — confirmed, single source
-**Subject entities:** Lecrae Moore
-**Predicate:** is
-**Object:** Christian rapper and podcaster (role)
-**Temporal:** 2025-12-21
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Lecrae Moore
+- **Predicate:** is
+- **Object:** Christian rapper and podcaster (role)
+- **Temporal:** 2025-12-21
+- **Sources:** src_001
 
 > Lecrae Moore is a Christian rapper and podcaster.
 
-### c_009 — confirmed, single source
-**Subject entities:** Girls Gone Bible; Atlanta
-**Predicate:** held
-**Object:** live event attended by hundreds (event)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Girls Gone Bible; Atlanta
+- **Predicate:** held
+- **Object:** live event attended by hundreds (event)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > Girls Gone Bible held a live event in Atlanta attended by hundreds of fans.
 
-### c_010 — reported, single source
-**Subject entities:** Jackie Hill Perry; Preston Perry
-**Predicate:** received_criticism_from
-**Object:** conservatives and liberals on separate grounds (public_reaction)
-**Temporal:** 2025-12-21
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Jackie Hill Perry; Preston Perry
+- **Predicate:** received_criticism_from
+- **Object:** conservatives and liberals on separate grounds (public_reaction)
+- **Temporal:** 2025-12-21
+- **Sources:** src_001
 
 > The Perrys have been criticized by conservatives for discussing police brutality and racial injustice, and by liberals for expressing opposition to same-sex marriage and abortion.
 
@@ -219,10 +245,5 @@ Halili said the appetite she sees reflects a broader hunger that digital platfor
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Charlotte Kramon
 **Publication date:** 2025-12-21
-**Access date:** 2026-05-17
 **Title:** A new generation of Christian influencers attracts young adults
 **URL:** https://apnews.com/article/christian-influencers-girls-gone-bible-megan-ashley-1241a2e0e54fc9fb828734ea911dd77d
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

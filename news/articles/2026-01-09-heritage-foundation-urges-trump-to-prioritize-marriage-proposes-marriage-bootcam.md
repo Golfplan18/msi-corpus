@@ -18,44 +18,39 @@ primary_themes:
 - federal policy
 - midterm elections
 topic_tags:
-  - politics
-  - election
-  - "human interest"
-  - "government policy"
-  - "human migration"
+- family
+- government policy
+- political process
+- values
 storyline_nexus:
-  - trump-tariff-policy
-  - ai-regulation
-  - monetary-policy-2026
+- housing-affordability-crisis
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship
-  intensity: 0.85
-- value: accountability_of_power
-  intensity: 0.6
-framework_version: 1.1.0
-generation_timestamp: '2026-05-16T00:00:00Z'
+  intensity: 0.9
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:07:37Z'
 source_cluster_id: cluster_ap_2026-01-08_heritage-foundation-marriage-families-d8
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 17
   hedges:
     appears: 0
-    alleged: 0
-    attributed: 8
-    reported: 0
     contested: 0
+    reported: 0
+    alleged: 0
     confirmed: 9
+    attributed: 8
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 0
     single_source: 17
+    primary_document: 0
+    primary_plus_secondary: 0
     two_independent: 0
+    one_originating_plus_primary_document: 0
 sources:
   count: 1
   outlets:
@@ -73,25 +68,17 @@ image:
   url: /articles/2026-01-09-heritage-foundation-urges-trump-to-prioritize-marriage-proposes-marriage-bootcam.png
   alt: 'Illustration accompanying article: Heritage Foundation urges Trump to prioritize marriage, proposes ''marriage'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-07-trump-immigration-policies-lower-fertility-to-slow-us-population-growth-cbo-says
-  relation: related
-  strength: 0.7042
-  confidence: medium
-- slug: 2026-01-07-trump-calls-for-ban-on-large-investors-buying-homes-citing-affordability-concern
-  relation: related
-  strength: 0.6949
-  confidence: medium
-- slug: 2026-01-08-hochul-and-mamdani-unveil-free-child-care-plan-for-nyc-2-year-olds
-  relation: related
-  strength: 0.6791
-  confidence: medium
-- slug: 2026-01-05-detroit-to-launch-cash-assistance-program-for-expectant-mothers
-  relation: related
-  strength: 0.6837
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- Released at the start of the 2026 midterm election year and first reported by The Washington Post, the report marks Heritage's continued evolution from its small-government roots into a pillar of t...
+- The Heritage Foundation on Thursday released a policy report urging the Trump administration to make marriage and family formation a federal priori...
+- The report, led by Roger Severino, Heritage's vice president of economic and domestic policy, marks what the organization describes as a push to "s...
+- "The government's primary role is to clear the weeds and prevent its policies and programs from poisoning the ground," Severino and his co-authors ...
 
 Released at the start of the 2026 midterm election year and first reported by The Washington Post, the report marks Heritage's continued evolution from its small-government roots into a pillar of the populist right, and signals an organized push to place domestic family formation at the center of conservative federal policy under President Donald Trump's second term.
 
@@ -139,156 +126,190 @@ Heritage has faced internal turbulence. Roberts drew outrage last year after he 
 
 ## Atomic claims
 
-### c_001 — confirmed, single source
-**Subject entities:** Heritage Foundation
-**Predicate:** released
-**Object:** family policy report (policy document)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Heritage Foundation
+- **Predicate:** released
+- **Object:** family policy report (policy document)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > The Heritage Foundation released a policy report on January 9, 2026, urging the federal government to "save and restore the American family."
 
-### c_002 — attributed, single source
-**Subject entities:** The Washington Post
-**Predicate:** first_reported
-**Object:** Heritage Foundation family report (media coverage)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** The Washington Post
+- **Predicate:** first_reported
+- **Object:** Heritage Foundation family report (media coverage)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > The report was first reported by The Washington Post.
 
-### c_003 — confirmed, single source
-**Subject entities:** Roger Severino; Heritage Foundation
-**Predicate:** led
-**Object:** Heritage family policy report (policy document)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Roger Severino; Heritage Foundation
+- **Predicate:** led
+- **Object:** Heritage family policy report (policy document)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > The report was led by Roger Severino, Heritage's vice president of economic and domestic policy.
 
-### c_004 — confirmed, single source
-**Subject entities:** Heritage Foundation
-**Predicate:** recommends
-**Object:** marriage bootcamp (policy proposal)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Heritage Foundation
+- **Predicate:** recommends
+- **Object:** marriage bootcamp (policy proposal)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > The report recommends a "marriage bootcamp" to prepare cohabitating couples for marriage.
 
-### c_005 — confirmed, single source
-**Subject entities:** Heritage Foundation
-**Predicate:** recommends
-**Object:** universal day of rest (policy proposal)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Heritage Foundation
+- **Predicate:** recommends
+- **Object:** universal day of rest (policy proposal)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > The report recommends a "universal day of rest" that would build upon blue laws that limit alcohol sales in some municipalities.
 
-### c_006 — attributed, single source
-**Subject entities:** Heritage Foundation
-**Predicate:** discourages
-**Object:** online dating (behavioral practice)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Heritage Foundation
+- **Predicate:** discourages
+- **Object:** online dating (behavioral practice)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > The report discourages online dating, citing research showing that couples who meet online are also less likely to get married in the first place.
 
-### c_007 — confirmed, single source
-**Subject entities:** Heritage Foundation; Donald Trump
-**Predicate:** calls_for
-**Object:** executive orders on family impact measurement (policy proposal)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Heritage Foundation; Donald Trump
+- **Predicate:** calls_for
+- **Object:** executive orders on family impact measurement (policy proposal)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > The report calls on Trump to issue executive orders requiring every federal grant, contract, policy, regulation, research project, and enforcement action to measure how it helps or harms marriage and family, block actions that discriminate against family formation, and give preference to actions that support American families.
 
-### c_008 — confirmed, single source
-**Subject entities:** Heritage Foundation
-**Predicate:** argues_against
-**Object:** IVF outside marriage (medical policy position)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Heritage Foundation
+- **Predicate:** argues_against
+- **Object:** IVF outside marriage (medical policy position)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > The report argues against IVF outside of marriage, describing a "babies-at-all-costs mentality" as too costly financially, morally, and spiritually.
 
-### c_009 — attributed, single source
-**Subject entities:** Eric Rosswood
-**Predicate:** responded_to
-**Object:** Heritage family report (policy critique)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Eric Rosswood
+- **Predicate:** responded_to
+- **Object:** Heritage family report (policy critique)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > Eric Rosswood, author of "Journey to Parenthood," agreed with Heritage's arguments on food insecurity and affordable childcare but disagreed with its recommendation that subsidies go toward married families and its position that children are best suited to being raised by their biological parents.
 
-### c_010 — confirmed, single source
-**Subject entities:** Donald Trump
-**Predicate:** signed
-**Object:** IVF cost reduction executive order (executive action)
-**Temporal:** 2025-02
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** signed
+- **Object:** IVF cost reduction executive order (executive action)
+- **Temporal:** 2025-02
+- **Sources:** src_001
 
 > Trump signed an executive order in his first month of his second term aiming to reduce IVF costs, requesting policy recommendations on protecting IVF access and aggressively reducing out-of-pocket and health plan costs for IVF treatment.
 
-### c_011 — attributed, single source
-**Subject entities:** Donald Trump
-**Predicate:** issued
-**Object:** federal guidance on fertility benefits (executive guidance)
-**Temporal:** 2025-10
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** issued
+- **Object:** federal guidance on fertility benefits (executive guidance)
+- **Temporal:** 2025-10
+- **Sources:** src_001
 
 > In October, Trump issued new federal guidance allowing companies to offer fertility benefits separate from major medical insurance plans.
 
-### c_012 — attributed, single source
-**Subject entities:** Kevin Roberts; Tucker Carlson; Nick Fuentes
-**Predicate:** defended
-**Object:** Tucker Carlson podcast interview with Nick Fuentes (media event)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Kevin Roberts; Tucker Carlson; Nick Fuentes
+- **Predicate:** defended
+- **Object:** Tucker Carlson podcast interview with Nick Fuentes (media event)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Heritage President Kevin Roberts defended Tucker Carlson's friendly podcast interview with Nick Fuentes, known for his antisemitic views.
 
-### c_013 — attributed, single source
-**Subject entities:** Kevin Roberts; Heritage Foundation
-**Predicate:** caused
-**Object:** resignations of board members, staffers and executives (organizational event)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Kevin Roberts; Heritage Foundation
+- **Predicate:** caused
+- **Object:** resignations of board members, staffers and executives (organizational event)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Roberts' comments sparked outrage and the resignations of Heritage board members, staffers, and executives.
 
-### c_014 — confirmed, single source
-**Subject entities:** JD Vance; Kevin Roberts; Heritage Foundation
-**Predicate:** praised
-**Object:** Heritage Foundation's vision (endorsement)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_014
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** JD Vance; Kevin Roberts; Heritage Foundation
+- **Predicate:** praised
+- **Object:** Heritage Foundation's vision (endorsement)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > During the 2024 campaign, JD Vance praised Kevin Roberts' vision in the foreword of Roberts' forthcoming book "Dawn's Early Light," calling Heritage "the most influential engine of ideas for Republicans from Ronald Reagan to Donald Trump."
 
-### c_015 — attributed, single source
-**Subject entities:** JD Vance
-**Predicate:** proposed
-**Object:** parental voting proxy and low-interest family loans (policy proposals)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** JD Vance
+- **Predicate:** proposed
+- **Object:** parental voting proxy and low-interest family loans (policy proposals)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > JD Vance has proposed ideas such as allowing parents to vote on behalf of their children or giving low-interest loans to married couples with children.
 
-### c_016 — attributed, single source
-**Subject entities:** Donald Trump; Project 2025
-**Predicate:** adopted_portions_of
-**Object:** Project 2025 tenets (policy adoption)
-**Temporal:** 2025-2026
-**Source IDs:** src_001
+### c_016
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Project 2025
+- **Predicate:** adopted_portions_of
+- **Object:** Project 2025 tenets (policy adoption)
+- **Temporal:** 2025-2026
+- **Sources:** src_001
 
 > Trump distanced himself from Project 2025 during the 2024 presidential campaign, but some of its tenets have become hallmarks of his second term, including the establishment of the Department of Government Efficiency and the dissolution of the Corporation for Public Broadcasting.
 
-### c_017 — confirmed, single source
-**Subject entities:** Alabama
-**Predicate:** enacted
-**Object:** IVF provider liability protection (state action)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_017
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Alabama
+- **Predicate:** enacted
+- **Object:** IVF provider liability protection (state action)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > IVF became a talking point during the 2024 presidential campaign when Alabama agreed to protect IVF providers from legal liability after the state Supreme Court ruled that frozen embryos can be considered children under state law.
 
@@ -297,10 +318,5 @@ Heritage has faced internal turbulence. Roberts drew outrage last year after he 
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Meg Kinnard
 **Publication date:** 2026-01-09
-**Access date:** 2026-01-09
 **Title:** Heritage Foundation report proposes 'marriage bootcamp'
 **URL:** https://apnews.com/article/heritage-foundation-marriage-families-d8aaa3b47476c3cbb53f35b27e7b23bf
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

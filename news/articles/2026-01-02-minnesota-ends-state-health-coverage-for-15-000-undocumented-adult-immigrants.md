@@ -15,49 +15,69 @@ primary_themes:
 - state health policy
 - low-income coverage
 topic_tags:
-  - "civil unrest"
-  - "conflict, war and peace"
-  - election
-  - health
-  - "human interest"
-  - "human migration"
-storyline_nexus: []
-geographic_location: Minnesota, United States
+- health
+- government policy
+- human migration
+- welfare
+storyline_nexus:
+- us-immigration-enforcement
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
   intensity: 0.9
-- value: informed_citizenship
-  intensity: 0.7
 - value: accountability_of_power
   intensity: 0.6
-framework_version: 1.1.0
-generation_timestamp: '2026-05-16T16:46:20Z'
+- value: equality_fairness
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-22T23:55:07Z'
 source_cluster_id: cluster_ap_2026-01-01_general-news-minnesota-tim-walz-john-con
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 11
   hedges:
+    reported: 0
+    attributed: 6
     appears: 0
     alleged: 0
-    attributed: 6
-    reported: 0
-    contested: 0
     confirmed: 5
+    contested: 0
   corroboration:
-    primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
+    two_independent: 0
     primary_document: 6
     single_source: 5
-    two_independent: 0
+    primary_plus_secondary: 0
 sources:
-  count: 1
+  count: 21
   outlets:
-  - Associated Press / Sahan Journal
+  - Associated Press
+  - bemidjipioneer.com
+  - dglobe.com
+  - dl-online.com
+  - duluthnewstribune.com
+  - grandforksherald.com
+  - inforum.com
+  - justthenews.com
+  - kfgo.com
+  - lewrockwell.com
+  - mankatofreepress.com
+  - mesabitribune.com
+  - news8000.com
+  - parentherald.com
+  - parkrapidsenterprise.com
+  - perhamfocus.com
+  - pineandlakes.com
+  - postbulletin.com
+  - sitkasentinel.com
+  - twincities.com
+  - wdio.com
   outlet_classes:
+  - national_daily
   - wire
   highest_reliability_tier: 1
   has_originating: true
@@ -70,27 +90,18 @@ image:
   url: /articles/2026-01-02-minnesota-ends-state-health-coverage-for-15-000-undocumented-adult-immigrants.png
   alt: 'Illustration accompanying article: Minnesota ends state health coverage for 15,000 undocumented adult immigrants'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-01-aca-health-subsidies-expire-leaving-millions-facing-sharply-higher-premiums-in-2
-  relation: related
-  strength: 0.8019
-  confidence: medium
-- slug: 2025-12-30-faith-leaders-supporting-immigrants-brace-for-harder-year-under-trump-policies
-  relation: related
-  strength: 0.7583
-  confidence: medium
-- slug: 2025-12-31-california-delays-revocation-of-17-000-commercial-licenses-after-migrant-lawsuit
-  relation: related
-  strength: 0.7418
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
 
-Health advocates and safety-net hospital administrators warn that the coverage loss will push many immigrants to delay care until conditions become severe enough to require emergency treatment — driving up both individual health risk and system costs — while straining community health centers that will absorb uninsured patients without reliable reimbursement.
+## Summary
+**Subtype:** fact
 
-About 15,000 adult immigrants living in Minnesota without legal status lost access to MinnesotaCare on Jan. 1, 2026, after a divided state Legislature voted last year to strip coverage that Democrats had extended two years earlier. The rollback leaves tens of thousands without a path to affordable insurance as private premium costs continue to climb.
-
-MinnesotaCare was created in the 1990s to serve low-income residents who earn too much to qualify for Medicaid but cannot afford private insurance. Immigrants without legal status are ineligible for Medicaid except under narrow circumstances, such as pregnancy.
+- - ## Summary
+- Subtype: fact
+- - Article describes significant development with named actors and concrete outcomes.
+- Health advocates and safety-n...
+- The Minnesota Legislature — then controlled by a Democratic-Farmer-Labor trifecta — passed the expansion in 2023, the same session in which lawmake...
 
 ## How the Coverage Was Extended, Then Cut
 
@@ -132,114 +143,211 @@ The Department of Human Services has issued guidance for immigrants affected by 
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Minnesota; undocumented adult immigrants
-**Predicate:** lost_access_to
-**Object:** MinnesotaCare (health_program)
-**Temporal:** 2026-01-01
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Minnesota; undocumented adult immigrants
+- **Predicate:** lost_access_to
+- **Object:** MinnesotaCare (health_program)
+- **Temporal:** 2026-01-01
+- **Sources:** src_001
 
 > About 15,000 adult immigrants in Minnesota lost access to state-funded health care on Jan. 1, 2026.
 
-### c_002 — confirmed, primary document
-**Subject entities:** Minnesota Legislature; Democratic-Farmer-Labor
-**Predicate:** passed
-**Object:** MinnesotaCare expansion for undocumented immigrants (legislation)
-**Temporal:** 2023
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Minnesota Legislature; Democratic-Farmer-Labor
+- **Predicate:** passed
+- **Object:** MinnesotaCare expansion for undocumented immigrants (legislation)
+- **Temporal:** 2023
+- **Sources:** src_001
 
 > The Minnesota Legislature, then with a Democratic-Farmer-Labor trifecta, passed a bill in 2023 granting immigrants who entered the country illegally access to MinnesotaCare.
 
-### c_003 — confirmed, primary document
-**Subject entities:** Minnesota Legislature
-**Predicate:** voted_to_end
-**Object:** MinnesotaCare benefits for adult immigrants (policy)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Minnesota Legislature
+- **Predicate:** voted_to_end
+- **Object:** MinnesotaCare benefits for adult immigrants (policy)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > A divided Legislature voted approximately halfway through 2025 to end MinnesotaCare benefits for adult immigrants.
 
-### c_004 — confirmed, primary document
-**Subject entities:** immigrant children under 18
-**Predicate:** remain_eligible_for
-**Object:** MinnesotaCare (health_program)
-**Temporal:** 2026-01-01
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** immigrant children under 18
+- **Predicate:** remain_eligible_for
+- **Object:** MinnesotaCare (health_program)
+- **Temporal:** 2026-01-01
+- **Sources:** src_001
 
 > Immigrant children under 18 remain eligible for MinnesotaCare after the rollback.
 
-### c_005 — attributed, primary document
-**Subject entities:** Minnesota Department of Human Services; immigrant children
-**Predicate:** enrolled_in
-**Object:** MinnesotaCare (health_program)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Minnesota Department of Human Services; immigrant children
+- **Predicate:** enrolled_in
+- **Object:** MinnesotaCare (health_program)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > According to the Minnesota Department of Human Services, about 5,000 immigrant children were enrolled in MinnesotaCare in 2025.
 
-### c_006 — attributed, single source
-**Subject entities:** Ma Elena Gutierrez; Fe y Justicia
-**Predicate:** said
-**Object:** immigrants likely to defer care (attributed_statement)
-**Temporal:** 2026-01-02
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ma Elena Gutierrez; Fe y Justicia
+- **Predicate:** said
+- **Object:** immigrants likely to defer care (attributed_statement)
+- **Temporal:** 2026-01-02
+- **Sources:** src_001
 
 > Ma Elena Gutierrez, who leads Fe y Justicia, said immigrants are likely to put off surgeries, preventative checkups, and medications.
 
-### c_007 — attributed, single source
-**Subject entities:** John Connolly; Minnesota Department of Human Services
-**Predicate:** said
-**Object:** federally qualified health centers available as alternative; strain concerns (attributed_statement)
-**Temporal:** 2026-01-02
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** John Connolly; Minnesota Department of Human Services
+- **Predicate:** said
+- **Object:** federally qualified health centers available as alternative; strain concerns (attributed_statement)
+- **Temporal:** 2026-01-02
+- **Sources:** src_001
 
 > John Connolly, deputy commissioner and state Medicaid director at the Minnesota Department of Human Services, said those without coverage can be seen at federally qualified health centers or community health centers, but expressed concern that could strain those facilities.
 
-### c_008 — attributed, single source
-**Subject entities:** Ann Rogers; People's Center Clinic
-**Predicate:** said
-**Object:** concern about delayed care and vaccination gaps (attributed_statement)
-**Temporal:** 2026-01-02
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ann Rogers; People's Center Clinic
+- **Predicate:** said
+- **Object:** concern about delayed care and vaccination gaps (attributed_statement)
+- **Temporal:** 2026-01-02
+- **Sources:** src_001
 
 > Ann Rogers, CEO of People's Center Clinic, said she worries people will delay care until situations become catastrophic and that patients may forgo vaccinations for illnesses such as measles.
 
-### c_009 — attributed, single source
-**Subject entities:** Pam Quast; Hennepin Healthcare
-**Predicate:** said
-**Object:** reimbursement minimal or zero for uncompensated care (attributed_statement)
-**Temporal:** 2026-01-02
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Pam Quast; Hennepin Healthcare
+- **Predicate:** said
+- **Object:** reimbursement minimal or zero for uncompensated care (attributed_statement)
+- **Temporal:** 2026-01-02
+- **Sources:** src_001
 
 > Pam Quast, director of patient access and financial security for Hennepin Healthcare, said state and federal reimbursement for uncompensated care is minimal and sometimes nothing.
 
-### c_010 — attributed, single source
-**Subject entities:** Hennepin Healthcare
-**Predicate:** notified
-**Object:** affected patients of coverage changes (institutional_action)
-**Temporal:** 2025-06
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Hennepin Healthcare
+- **Predicate:** notified
+- **Object:** affected patients of coverage changes (institutional_action)
+- **Temporal:** 2025-06
+- **Sources:** src_001
 
 > Hennepin Healthcare has been notifying affected patients of the changes since the budget passed in June 2025.
 
-### c_011 — confirmed, primary document
-**Subject entities:** Minnesota Department of Human Services
-**Predicate:** issued
-**Object:** multilingual guidance (government_action)
-**Temporal:** 2026-01-02
-**Source IDs:** src_001
+### c_011
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Minnesota Department of Human Services
+- **Predicate:** issued
+- **Object:** multilingual guidance (government_action)
+- **Temporal:** 2026-01-02
+- **Sources:** src_001
 
 > The Minnesota Department of Human Services has issued guidance for affected immigrants in English, Oromo, Somali, and Spanish.
 
 ## Sources
 
-### src_001 — Associated Press / Sahan Journal, wire, Tier 1, originating
+### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Katrina Pross / Sahan Journal
 **Publication date:** 2026-01-02
-**Access date:** 2026-01-02
 **Title:** Adult immigrants in Minnesota lost access to state-funded health care on Jan. 1
 **URL:** https://apnews.com/article/general-news-minnesota-tim-walz-john-connolly-immigration-1500784d338dd4756e1deb0aa517c226
 
----
+### src_002 — kfgo.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-02
+**URL:** https://kfgo.com/2026/01/02/adult-immigrants-in-minnesota-lost-access-to-state-funded-health-care-january-1/
 
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*
+### src_003 — mankatofreepress.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-02
+**URL:** https://www.mankatofreepress.com/news/state_news/adult-immigrants-in-minnesota-lost-access-to-state-funded-health-care-on-jan-1/article_6ef44d92-b41e-585b-950e-142104858b03.html
+
+### src_004 — mesabitribune.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-02
+**URL:** https://www.mesabitribune.com/ap/state/adult-immigrants-in-minnesota-lost-access-to-state-funded-health-care-on-jan-1/article_7145c457-2f51-5b8e-a0c6-ea683908373b.html
+
+### src_005 — news8000.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-02
+**URL:** https://www.news8000.com/lifestyle/health/adult-immigrants-in-minnesota-lost-access-to-state-funded-health-care-on-jan-1/article_154cdd08-ddec-54db-acd2-db7a362c4aab.html
+
+### src_006 — sitkasentinel.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-03
+**URL:** http://www.sitkasentinel.com/stories/adult-immigrants-in-minnesota-lost-access-to-state-funded-health-care-on-jan-1,106603
+
+### src_007 — twincities.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-02
+**URL:** https://www.twincities.com/2026/01/02/some-adult-immigrants-in-minnesota-lose-access-to-state-funded-health-care/
+
+### src_008 — wdio.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-03
+**URL:** https://www.wdio.com/front-page/top-stories/adult-immigrants-in-minnesota-lost-access-to-state-funded-health-care-on-jan-1/
+
+### src_009 — bemidjipioneer.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-01
+**URL:** https://www.bemidjipioneer.com/news/minnesota/minnesota-democrats-child-care-providers-push-back-on-federal-child-care-freeze
+
+### src_010 — dglobe.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-01
+**URL:** https://www.dglobe.com/news/minnesota/minnesota-democrats-child-care-providers-push-back-on-federal-child-care-freeze
+
+### src_011 — dl-online.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-01
+**URL:** https://www.dl-online.com/news/minnesota/minnesota-democrats-child-care-providers-push-back-on-federal-child-care-freeze
+
+### src_012 — duluthnewstribune.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-01
+**URL:** https://www.duluthnewstribune.com/news/minnesota/minnesota-democrats-child-care-providers-push-back-on-federal-child-care-freeze
+
+### src_013 — grandforksherald.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-01
+**URL:** https://www.grandforksherald.com/news/minnesota/minnesota-democrats-child-care-providers-push-back-on-federal-child-care-freeze
+
+### src_014 — inforum.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-01
+**URL:** https://www.inforum.com/news/minnesota/minnesota-democrats-child-care-providers-push-back-on-federal-child-care-freeze
+
+### src_015 — justthenews.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-01
+**URL:** https://justthenews.com/accountability/waste-fraud-and-abuse/new-fraud-allegations-raise-same-concerns-minnesota-child-care
+
+### src_016 — lewrockwell.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-01
+**URL:** https://www.lewrockwell.com/2026/01/brandon-smith/who-is-helping-low-iq-migrants-defraud-american-taxpayers/
+
+### src_017 — parentherald.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-01
+**URL:** http://www.parentherald.com/articles/236831/20251230/minnesota-daycare-fraud-how-officials-are-responding-allegations.htm
+
+### src_018 — parkrapidsenterprise.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-01
+**URL:** https://www.parkrapidsenterprise.com/news/minnesota/minnesota-democrats-child-care-providers-push-back-on-federal-child-care-freeze
+
+### src_019 — perhamfocus.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-01
+**URL:** https://www.perhamfocus.com/news/minnesota/minnesota-democrats-child-care-providers-push-back-on-federal-child-care-freeze
+
+### src_020 — pineandlakes.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-01
+**URL:** https://www.pineandlakes.com/news/minnesota/minnesota-democrats-child-care-providers-push-back-on-federal-child-care-freeze
+
+### src_021 — postbulletin.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-01
+**URL:** https://www.postbulletin.com/news/minnesota/minnesota-democrats-child-care-providers-push-back-on-federal-child-care-freeze

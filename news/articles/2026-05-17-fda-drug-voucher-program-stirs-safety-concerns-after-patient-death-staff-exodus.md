@@ -16,7 +16,8 @@ topic_tags:
   - government
   - "government policy"
   - politics
-storyline_nexus: []
+storyline_nexus:
+- trump-health-policy-rfk
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship
@@ -98,13 +99,13 @@ Proponents say the program fills a genuine gap in the existing drug development 
 
 Dan Troy, who served as the FDA's chief counsel under President George W. Bush, said federal law gives the commissioner broad discretion to reorganize the handling of drug reviews. But he cautioned that the program's informal structure limits its staying power.
 
-"If you live by the press release then you die by the press release," Troy said. "Anything that they're doing now could be wiped out in a moment by the next administration."
+Troy cautioned that the program's informal structure limits its staying power. The program could be easily reversed by a subsequent administration.
 
 The voucher program is also placing additional pressure on an agency drug center where 20% of staff have left through retirements, buyouts, or resignations over the past year.
 
 Kesselheim said the program alters how standards are applied without changing the underlying law.
 
-"They are fundamentally changing the application of the standards, but the underlying law remains what it is," he said. "The hope is that one day we will return to these scientifically sound, legally sound principles."
+The program alters how the FDA applies existing standards without changing the underlying law. Critics hope the approach will eventually return to more scientifically and legally sound principles.
 
 ## Atomic claims
 
@@ -179,7 +180,3 @@ Kesselheim said the program alters how standards are applied without changing th
 **Access date:** 2026-05-17
 **Title:** FDA drug voucher program faces scrutiny over safety concerns and staffing gaps
 **URL:** https://apnews.com
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

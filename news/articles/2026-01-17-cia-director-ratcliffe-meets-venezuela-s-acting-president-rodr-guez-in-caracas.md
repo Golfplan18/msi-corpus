@@ -20,10 +20,10 @@ primary_themes:
 - Latin America
 - Venezuelan democratic transition
 topic_tags:
-  - "government policy"
-  - politics
+- government policy
+- politics
 storyline_nexus:
-  - venezuela-crisis
+- venezuela-political-military-crisis
 geographic_location: Caracas, Venezuela
 floor_values_engaged:
 - value: informed_citizenship
@@ -67,37 +67,17 @@ figures_aggregate:
   series_ids: []
   sources: []
 cross_article_links:
-- slug: 2026-01-06-delcy-rodr-guez-takes-power-as-venezuela-s-interim-president-after-maduro-s-capt
-  relation: continues
-  strength: 0.8311
-  confidence: high
 - slug: 2026-01-07-venezuela-s-opposition-sidelined-as-maduro-s-party-holds-power-after-u-s-seizure
   relation: related
   strength: 0.8101
-  confidence: medium
-- slug: 2026-01-03-venezuela-in-limbo-after-maduro-capture-as-trump-endorses-deputy-snubs-oppositio
-  relation: related
-  strength: 0.8251
   confidence: medium
 - slug: 2026-01-07-venezuela-s-new-interim-president-once-gambled-on-trump-with-a-500-000-donation
   relation: related
   strength: 0.7929
   confidence: medium
-- slug: 2026-01-07-maduro-s-capture-gives-russia-a-strategic-setback-and-a-diplomatic-opening
-  relation: related
-  strength: 0.7822
-  confidence: medium
 - slug: 2026-01-06-trump-s-venezuela-claims-raise-questions-about-planning-former-diplomats-say
   relation: related
   strength: 0.7848
-  confidence: medium
-- slug: 2026-01-06-venezuela-swears-in-rodr-guez-as-interim-president-projects-independence-after-u
-  relation: continues
-  strength: 0.7844
-  confidence: high
-- slug: 2026-01-03-from-bus-driver-to-captive-maduro-s-40-year-rise-ends-in-u-s-raid-on-caracas
-  relation: related
-  strength: 0.7987
   confidence: medium
 draft: false
 ---
@@ -120,165 +100,201 @@ Rodríguez, in her first state of the union message as acting president on Thurs
 
 ## Atomic claims
 
-### c_001 — reported, single source
-**Subject entities:** John Ratcliffe; Delcy Rodríguez
-**Predicate:** met_with
-**Object:** two-hour meeting in Caracas (diplomatic_meeting)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** John Ratcliffe; Delcy Rodríguez
+- **Predicate:** met_with
+- **Object:** two-hour meeting in Caracas (diplomatic_meeting)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > CIA Director John Ratcliffe traveled to Caracas on Thursday and met with acting President Delcy Rodríguez for two hours.
 
-### c_002 — reported, single source
-**Subject entities:** John Ratcliffe; Trump administration
-**Predicate:** is_highest_ranking_to_visit
-**Object:** Venezuela (country)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** John Ratcliffe; Trump administration
+- **Predicate:** is_highest_ranking_to_visit
+- **Object:** Venezuela (country)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Ratcliffe is the highest-ranking Trump administration official to visit Venezuela after the U.S. raid that captured Maduro.
 
-### c_003 — reported, single source
-**Subject entities:** Donald Trump; John Ratcliffe
-**Predicate:** directed_meeting
-**Object:** better U.S.-Venezuela relationship (diplomatic_purpose)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; John Ratcliffe
+- **Predicate:** directed_meeting
+- **Object:** better U.S.-Venezuela relationship (diplomatic_purpose)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > The meeting came at the urging of President Trump and was meant to demonstrate U.S. desire for a better relationship with Venezuela.
 
-### c_004 — attributed, single source
-**Subject entities:** John Ratcliffe; The New York Times
-**Predicate:** first_reported
-**Object:** Ratcliffe Caracas visit (news_event)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** John Ratcliffe; The New York Times
+- **Predicate:** first_reported
+- **Object:** Ratcliffe Caracas visit (news_event)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > The visit included a small team of American officials and was first reported by The New York Times.
 
-### c_005 — reported, single source
-**Subject entities:** John Ratcliffe; Trump administration; Delcy Rodríguez
-**Predicate:** intended_to_establish
-**Object:** groundwork for cooperation (diplomatic_purpose)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** John Ratcliffe; Trump administration; Delcy Rodríguez
+- **Predicate:** intended_to_establish
+- **Object:** groundwork for cooperation (diplomatic_purpose)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > The visit was intended to lay the groundwork for additional cooperation between the Trump administration and Venezuela's new leaders.
 
-### c_006 — reported, single source
-**Subject entities:** John Ratcliffe
-**Predicate:** discussed
-**Object:** potential economic collaboration (diplomatic_topic)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** John Ratcliffe
+- **Predicate:** discussed
+- **Object:** potential economic collaboration (diplomatic_topic)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Ratcliffe discussed potential economic collaboration between the U.S. and Venezuela.
 
-### c_007 — reported, single source
-**Subject entities:** John Ratcliffe
-**Predicate:** warned
-**Object:** no American adversaries or drug traffickers in Venezuela (diplomatic_warning)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** John Ratcliffe
+- **Predicate:** warned
+- **Object:** no American adversaries or drug traffickers in Venezuela (diplomatic_warning)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Ratcliffe warned that Venezuela can never again allow the presence of American adversaries, including drug traffickers.
 
-### c_008 — reported, single source
-**Subject entities:** U.S. Central Intelligence Agency; Nicolás Maduro
-**Predicate:** provided_intelligence_for
-**Object:** Maduro capture operation (intelligence_operation)
-**Temporal:** 2026-01-03
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Central Intelligence Agency; Nicolás Maduro
+- **Predicate:** provided_intelligence_for
+- **Object:** Maduro capture operation (intelligence_operation)
+- **Temporal:** 2026-01-03
+- **Sources:** src_001
 
 > The CIA played a key role in the operation to apprehend Maduro, providing critical intelligence support.
 
-### c_009 — reported, single source
-**Subject entities:** U.S. Central Intelligence Agency
-**Predicate:** conducted
-**Object:** drone strike on cartel dock (military_operation)
-**Temporal:** 2026-01-03
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Central Intelligence Agency
+- **Predicate:** conducted
+- **Object:** drone strike on cartel dock (military_operation)
+- **Temporal:** 2026-01-03
+- **Sources:** src_001
 
 > The CIA mounted an earlier drone strike on a dock used by cartels.
 
-### c_010 — attributed, single source
-**Subject entities:** María Corina Machado; Donald Trump
-**Predicate:** presented_medal
-**Object:** Nobel Peace Prize medal (symbolic_event)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** María Corina Machado; Donald Trump
+- **Predicate:** presented_medal
+- **Object:** Nobel Peace Prize medal (symbolic_event)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > The meeting occurred the same day María Corina Machado presented her Nobel Peace Prize medal to Trump at the White House.
 
-### c_011 — attributed, single source
-**Subject entities:** Delcy Rodríguez; Nicolás Maduro
-**Predicate:** served_as_deputy
-**Object:** second in command (political_role)
-**Temporal:** 2026-01-03
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Delcy Rodríguez; Nicolás Maduro
+- **Predicate:** served_as_deputy
+- **Object:** second in command (political_role)
+- **Temporal:** 2026-01-03
+- **Sources:** src_001
 
 > Rodríguez had been Maduro's second in command until the U.S. military operation.
 
-### c_012 — attributed, single source
-**Subject entities:** Delcy Rodríguez
-**Predicate:** advocated_for
-**Object:** foreign investment in state-run oil industry (policy_statement)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Delcy Rodríguez
+- **Predicate:** advocated_for
+- **Object:** foreign investment in state-run oil industry (policy_statement)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Rodríguez used her first state of the union message as acting president to advocate for opening the state-run oil industry to more foreign investment.
 
-### c_013 — attributed, single source
-**Subject entities:** María Corina Machado
-**Predicate:** stated
-**Object:** confidence in orderly democratic transition (public_statement)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** María Corina Machado
+- **Predicate:** stated
+- **Object:** confidence in orderly democratic transition (public_statement)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > Machado said she was 'profoundly, profoundly confident that we will have an orderly transition' to democracy in Venezuela.
 
-### c_014 — attributed, single source
-**Subject entities:** María Corina Machado
-**Predicate:** rejected
-**Object:** claim of being sidelined by Trump (political_statement)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** María Corina Machado
+- **Predicate:** rejected
+- **Object:** claim of being sidelined by Trump (political_statement)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > Machado rejected the notion that Trump has chosen to work with Rodríguez over her opposition movement.
 
-### c_015 — reported, single source
-**Subject entities:** Venezuelan opposition; María Corina Machado
-**Predicate:** widely_believed_to_have_won
-**Object:** 2024 Venezuelan presidential election (election)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_015
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Venezuelan opposition; María Corina Machado
+- **Predicate:** widely_believed_to_have_won
+- **Object:** 2024 Venezuelan presidential election (election)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > The Venezuelan opposition movement is widely believed to have won the 2024 presidential election.
 
-### c_016 — reported, single source
-**Subject entities:** Donald Trump
-**Predicate:** has_not_provided
-**Object:** election timetable for Venezuela (political_stance)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_016
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** has_not_provided
+- **Object:** election timetable for Venezuela (political_stance)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > Trump has given no timetable on when elections might be held in Venezuela.
 
-### c_017 — attributed, single source
-**Subject entities:** Donald Trump; María Corina Machado
-**Predicate:** stated
-**Object:** Machado lacks support and respect in Venezuela (public_statement)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_017
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; María Corina Machado
+- **Predicate:** stated
+- **Object:** Machado lacks support and respect in Venezuela (public_statement)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > Trump said Machado 'doesn't have the support within or the respect within the country.'
 
-### c_018 — reported, single source
-**Subject entities:** María Corina Machado
-**Predicate:** declined_to_specify
-**Object:** return plans and election timetable (political_stance)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_018
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** María Corina Machado
+- **Predicate:** declined_to_specify
+- **Object:** return plans and election timetable (political_stance)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > Machado took pains to avoid giving details on her plans to return home or when elections might be held.
 
@@ -290,7 +306,3 @@ Rodríguez, in her first state of the union message as acting president on Thurs
 **Access date:** 2026-01-17
 **Title:** CIA director meets Venezuela's acting president
 **URL:** https://apnews.com/article/ratcliffe-cia-venezuela-maduro-trump-7f29b37161100b6cab31036f5292559d
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

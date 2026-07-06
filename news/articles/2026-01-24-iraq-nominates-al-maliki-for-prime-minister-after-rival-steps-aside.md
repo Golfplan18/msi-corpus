@@ -205,7 +205,3 @@ That pressure intensified this week. The U.S. military said it started transferr
 **Access date:** 2026-01-24
 **Title:** Iraq's Coordination Framework bloc nominates al-Maliki for prime minister
 **URL:** https://apnews.com/article/iraq-maliki-sudani-coordination-framework-prime-minister-94e71992eeb6c1accd8119efba8ecc65
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -24,7 +24,8 @@ topic_tags:
   - "international trade"
   - politics
   - "government policy"
-storyline_nexus: []
+storyline_nexus:
+- us-china-competition
 geographic_location: Panama Canal, Panama
 floor_values_engaged:
 - value: informed_citizenship
@@ -108,10 +109,6 @@ Panama's government announced that APM Terminals, a subsidiary of the Danish shi
 The arrangement leaves CK Hutchison with uncertain prospects. The company has initiated arbitration proceedings against Panama under the rules of the International Chamber of Commerce, though the timeline and outcome of such proceedings remain unclear. CK Hutchison also threatened to sue APM Terminals if it proceeds with operating the ports, though the Danish company responded that it is not a party to the legal disputes between Panama and the previous operator.
 
 For shipping companies and cargo handlers, the transition introduces uncertainty about operations, staffing, and tariffs at two facilities that serve as gateways to the canal from the Pacific and Atlantic. The ports handle container traffic essential to commerce across the Americas. How smoothly operations continue during the handoff to APM Terminals and the eventual awarding of a new long-term concession remains to be seen.
-
----
-
-**AI Disclosure.** This article was generated algorithmically by Main Street Independent's News Article Generator framework. Human review: not triggered. [Specification](/methodology) | [CC0 License](https://creativecommons.org/publicdomain/zero/1.0/)
 
 ## Atomic claims
 
@@ -230,7 +227,3 @@ For shipping companies and cargo handlers, the transition introduces uncertainty
 **Access date:** 2026-02-23
 **Title:** Panama seizes 2 key canal ports from Hong Kong operator
 **URL:** https://apnews.com/article/panama-canal-port-court-ruling-ck-hutchison-110af98b3782a08c242ecb5edb512614
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

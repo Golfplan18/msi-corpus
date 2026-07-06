@@ -174,7 +174,3 @@ Neighboring South Africa faces similar pressures on its minibus taxi network. A 
 **Access date:** 2026-05-17
 **Title:** Minibus taxi catches fire in Zimbabwe, killing several people
 **URL:** https://apnews.com/article/zimbabwe-minibus-taxi-fatal-fire-c8c13f06118dee72ee86aaec59a72fa0
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -1,6 +1,5 @@
 ---
 headline: Experts call Trump's Insurrection Act threat in Minneapolis 'flagrant abuse'
-slug: 2026-01-15-trump-insurrection-act-minneapolis-flagrant-abuse-experts
 publish_date: '2026-01-15'
 lede: President Donald Trump has threatened to invoke the Insurrection Act to deploy U.S. military forces to Minneapolis, where protests have grown since a federal officer shot and killed Renee Good. Constitutional law experts said the threatened move would be without historical precedent because the federal agents Trump himself sent to the city initiated the violence he now seeks to suppress.
 nut_graf: The Insurrection Act has been invoked more than two dozen times since 1792, most recently during the 1992 Los Angeles riots — but never in circumstances where the federal government's own forces were documented as initiating the violence. Experts say the Minneapolis situation falls outside every established category for the law's use.
@@ -17,43 +16,42 @@ primary_themes:
 - immigration enforcement
 - Minneapolis protests
 topic_tags:
-  - banking
-  - "crime, law and justice"
-  - "economy, business and finance"
-  - government
-  - politics
-storyline_nexus: []
-geographic_location: Minneapolis, Minnesota, United States
+- civil unrest
+- government policy
+- law enforcement
+- crime, law and justice
+- fundamental rights
+storyline_nexus:
+- us-immigration-enforcement
+geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
   intensity: 0.9
-- value: informed_citizenship
-  intensity: 0.85
 - value: human_life_and_dignity
-  intensity: 0.8
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:02:03Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:01:17Z'
 source_cluster_id: cluster_ap_2026-01-16_trump-insurrection-act-history-fdr-minne
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 14
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 8
     reported: 4
-    contested: 0
+    alleged: 0
+    appears: 0
     confirmed: 2
+    contested: 0
+    attributed: 8
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 2
     single_source: 12
     two_independent: 0
+    one_originating_plus_primary_document: 0
+    primary_plus_secondary: 0
 sources:
   count: 1
   outlets:
@@ -67,41 +65,17 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-14-minneapolis-sees-second-federal-shooting-as-courts-governor-push-back-on-immigra
-  relation: related
-  strength: 0.8125
-  confidence: medium
-- slug: 2026-01-12-minnesota-twin-cities-sue-trump-administration-over-fatal-ice-shooting
-  relation: related
-  strength: 0.7948
-  confidence: medium
-- slug: 2026-01-11-federal-agents-ram-minneapolis-door-pepper-spray-protesters-in-immigration-sweep
-  relation: related
-  strength: 0.7933
-  confidence: medium
-- slug: 2026-01-13-federal-agents-deploy-tear-gas-in-minneapolis-as-five-prosecutors-resign-over-re
-  relation: related
-  strength: 0.7702
-  confidence: medium
-- slug: 2026-01-10-thousands-march-across-us-after-ice-shootings-in-minneapolis-portland
-  relation: related
-  strength: 0.7674
-  confidence: medium
-- slug: 2026-01-08-minneapolis-ice-shooting-renews-debate-over-lethal-force-rules-for-moving-vehicl
-  relation: related
-  strength: 0.7795
-  confidence: medium
-- slug: 2026-01-08-protests-erupt-in-minneapolis-as-officials-dispute-jurisdiction-in-fatal-ice-sho
-  relation: related
-  strength: 0.7719
-  confidence: medium
-- slug: 2026-01-09-new-ice-officer-video-raises-use-of-force-questions-in-minneapolis-shooting
-  relation: related
-  strength: 0.7604
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- President Donald Trump has threatened to invoke the Insurrection Act to deploy U.S. military forces to Minneapolis, where protests have grown since a 
+- Additional context from article.
+- Key findings or implications.
 
 President Donald Trump has threatened to invoke the Insurrection Act to deploy U.S. military forces to Minneapolis, where protests have grown since a federal officer shot and killed Renee Good. Constitutional law experts said the threatened move would be without historical precedent because the federal agents Trump himself sent to the city initiated the violence he now seeks to suppress.
 
@@ -151,129 +125,157 @@ Trump has argued that Minnesota officials and citizens are impeding U.S. law by 
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Donald Trump
-**Predicate:** threatened_invocation_of
-**Object:** Insurrection Act (law)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** threatened_invocation_of
+- **Object:** Insurrection Act (law)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Trump threatened to invoke the Insurrection Act to send U.S. military forces to Minnesota.
 
-### c_002 — attributed, single source
-**Subject entities:** Insurrection Act
-**Predicate:** has_been_invoked
-**Object:** more than two dozen occasions (count)
-**Temporal:** historical
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Insurrection Act
+- **Predicate:** has_been_invoked
+- **Object:** more than two dozen occasions (count)
+- **Temporal:** historical
+- **Sources:** src_001
 
 > The Insurrection Act has been invoked on more than two dozen occasions, rarely since the Civil Rights Movement.
 
-### c_003 — attributed, single source
-**Subject entities:** Joseph Nunn
-**Predicate:** said
-**Object:** flagrant abuse characterization (expert_opinion)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Joseph Nunn
+- **Predicate:** said
+- **Object:** flagrant abuse characterization (expert_opinion)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Joseph Nunn said Trump's threatened use would be 'a flagrant abuse of the Insurrection Act in a way that we've never seen' and that 'none of the criteria have been met.'
 
-### c_004 — reported, single source
-**Subject entities:** U.S. Immigration and Customs Enforcement
-**Predicate:** deployed_in
-**Object:** 2000-3000 federal authorities (count)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Immigration and Customs Enforcement
+- **Predicate:** deployed_in
+- **Object:** 2000-3000 federal authorities (count)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Between 2,000 and 3,000 federal authorities are in the Minneapolis-St. Paul metro area, compared to Minneapolis's fewer than 600 police officers.
 
-### c_005 — reported, single source
-**Subject entities:** Renee Good
-**Predicate:** was_killed_by
-**Object:** federal officer (agent)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Renee Good
+- **Predicate:** was_killed_by
+- **Object:** federal officer (agent)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Renee Good was shot three times and killed by a federal officer.
 
-### c_006 — attributed, single source
-**Subject entities:** William Banks
-**Predicate:** said
-**Object:** historical outlier characterization (expert_opinion)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** William Banks
+- **Predicate:** said
+- **Object:** historical outlier characterization (expert_opinion)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > William Banks called the situation 'a historical outlier' because the violence Trump wants to end 'is being created by the federal civilian officers' he sent there.
 
-### c_007 — attributed, single source
-**Subject entities:** William Banks
-**Predicate:** said
-**Object:** judicial deference to president on military decisions (legal_opinion)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** William Banks
+- **Predicate:** said
+- **Object:** judicial deference to president on military decisions (legal_opinion)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Banks said Minnesota officials would have 'a tough argument to win' in court because 'the courts are typically going to defer to the president' on his military decisions.
 
-### c_008 — confirmed, primary document
-**Subject entities:** George Washington; Insurrection Act
-**Predicate:** signed
-**Object:** 1792 Insurrection Act (legislation)
-**Temporal:** 1792
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** George Washington; Insurrection Act
+- **Predicate:** signed
+- **Object:** 1792 Insurrection Act (legislation)
+- **Temporal:** 1792
+- **Sources:** src_001
 
 > George Washington signed the first version of the Insurrection Act in 1792, authorizing mobilization of state militias.
 
-### c_009 — confirmed, primary document
-**Subject entities:** Congress
-**Predicate:** expanded
-**Object:** Insurrection Act (legislation)
-**Temporal:** 1807
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Congress
+- **Predicate:** expanded
+- **Object:** Insurrection Act (legislation)
+- **Temporal:** 1807
+- **Sources:** src_001
 
 > Congress expanded the Insurrection Act in 1807, restating presidential authority to counter insurrection or obstruction of laws.
 
-### c_010 — attributed, single source
-**Subject entities:** Franklin D. Roosevelt
-**Predicate:** dispatched
-**Object:** 6000 troops to Detroit (military_deployment)
-**Temporal:** historical
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Franklin D. Roosevelt
+- **Predicate:** dispatched
+- **Object:** 6000 troops to Detroit (military_deployment)
+- **Temporal:** historical
+- **Sources:** src_001
 
 > Franklin D. Roosevelt dispatched 6,000 troops to Detroit after race riots that started with whites attacking Black residents, following a state request.
 
-### c_011 — attributed, single source
-**Subject entities:** George H.W. Bush; Pete Wilson
-**Predicate:** invoked
-**Object:** Insurrection Act for 1992 LA riots (legal_action)
-**Temporal:** 1992
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** George H.W. Bush; Pete Wilson
+- **Predicate:** invoked
+- **Object:** Insurrection Act for 1992 LA riots (legal_action)
+- **Temporal:** 1992
+- **Sources:** src_001
 
 > The 1992 Los Angeles riots were the last time the Insurrection Act was invoked; President George H.W. Bush authorized about 4,000 troops at California Gov. Pete Wilson's request.
 
-### c_012 — attributed, single source
-**Subject entities:** Joseph Nunn; U.S. Immigration and Customs Enforcement
-**Predicate:** said
-**Object:** ICE conduct characterization (expert_opinion)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Joseph Nunn; U.S. Immigration and Customs Enforcement
+- **Predicate:** said
+- **Object:** ICE conduct characterization (expert_opinion)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Nunn said ICE officers are engaged in 'a sort of lawless, violent behavior' beyond their legal function that 'foments the situation' Trump wants to suppress.
 
-### c_013 — reported, single source
-**Subject entities:** Donald Trump
-**Predicate:** blocked_by_courts
-**Object:** National Guard deployment efforts (legal_action)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_013
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** blocked_by_courts
+- **Object:** National Guard deployment efforts (legal_action)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Courts have blocked some of Trump's efforts to deploy the National Guard.
 
-### c_014 — reported, single source
-**Subject entities:** U.S. Immigration and Customs Enforcement
-**Predicate:** shown_initiating_violence
-**Object:** bystander and protester video documentation (evidence)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_014
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Immigration and Customs Enforcement
+- **Predicate:** shown_initiating_violence
+- **Object:** bystander and protester video documentation (evidence)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Video from protesters and bystanders has shown violence initiated by federal officers, with interactions growing more frequent since Renee Good was shot and killed.
 
@@ -282,10 +284,5 @@ Trump has argued that Minnesota officials and citizens are impeding U.S. law by 
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Bill Barrow
 **Publication date:** 2026-01-15
-**Access date:** 2026-01-15
 **Title:** Insurrection Act: How it's been used and what Trump wants to do
 **URL:** https://apnews.com/article/trump-insurrection-act-history-fdr-minneapolis-901631b98c96a425dc0c9b10a041bdac
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

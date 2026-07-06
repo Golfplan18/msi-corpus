@@ -24,7 +24,7 @@ topic_tags:
   - "science and technology"
   - "artificial intelligence"
 storyline_nexus:
-  - russia-ukraine-war
+- ukraine-war-peace-negotiations
 geographic_location: Ukraine (primary); Russia (secondary)
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -264,7 +264,3 @@ Throughout the war, Ukraine has faced constant aerial attacks and sustained stri
 **Access date:** 2026-05-17
 **Title:** Russian missile and drone barrage hits Kyiv suburbs, killing 1
 **URL:** https://apnews.com/article/russia-ukraine-war-attack-kyiv-be35939ed836678a5b84e348b7d6d395
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

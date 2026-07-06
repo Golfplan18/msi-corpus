@@ -26,8 +26,7 @@ topic_tags:
   - "government policy"
   - "human interest"
   - "international relations"
-storyline_nexus:
-  - ai-regulation
+storyline_nexus: []
 geographic_location: Colombia
 floor_values_engaged:
 - value: informed_citizenship
@@ -283,7 +282,3 @@ The right-wing opposition, influenced by former President Álvaro Uribe, sought 
 **Access date:** 2026-03-09
 **Title:** Colombians vote for Congress and presidential candidates
 **URL:** https://apnews.com/article/colombia-election-congress-presidential-candidates-petro-4766c3c2098610f24ec91aa61d793a4e
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

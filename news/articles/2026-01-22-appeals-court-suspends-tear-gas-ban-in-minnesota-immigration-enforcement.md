@@ -22,7 +22,7 @@ topic_tags:
   - "political dissent"
   - "political process"
 storyline_nexus:
-  - immigration-enforcement
+- us-immigration-enforcement
 geographic_location: Minnesota, Maine, United States
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -147,111 +147,135 @@ Trump administration officials have said the officer who shot Good acted in self
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** 8th Circuit Court of Appeals; federal officers
-**Predicate:** suspended_ruling
-**Object:** prohibition on tear gas and pepper spray against protesters (legal_decision)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** 8th Circuit Court of Appeals; federal officers
+- **Predicate:** suspended_ruling
+- **Object:** prohibition on tear gas and pepper spray against protesters (legal_decision)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > The 8th U.S. Circuit Court of Appeals suspended a judge's ruling that prohibited federal officers from using tear gas and pepper spray against protesters in Minnesota.
 
-### c_002 — reported, primary document
-**Subject entities:** Greg Bovino; U.S. Border Patrol; protesters
-**Predicate:** deployed_tear_gas
-**Object:** tear gas canister releasing green smoke (enforcement_action)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Greg Bovino; U.S. Border Patrol; protesters
+- **Predicate:** deployed_tear_gas
+- **Object:** tear gas canister releasing green smoke (enforcement_action)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > Federal officers, including Greg Bovino of U.S. Border Patrol, deployed tear gas against protesters on a Minneapolis street after warning them 'Gas is coming!'
 
-### c_003 — confirmed, primary document
-**Subject entities:** Operation Metro Surge; Twin Cities
-**Predicate:** underway
-**Object:** immigration enforcement operation (government_operation)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Operation Metro Surge; Twin Cities
+- **Predicate:** underway
+- **Object:** immigration enforcement operation (government_operation)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > Operation Metro Surge, an immigration enforcement operation in the Twin Cities, has been underway for weeks.
 
-### c_004 — confirmed, primary document
-**Subject entities:** ICE officer; Renee Good
-**Predicate:** fatally_shot
-**Object:** fatal shooting (incident)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** ICE officer; Renee Good
+- **Predicate:** fatally_shot
+- **Object:** fatal shooting (incident)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > An ICE officer fatally shot Renee Good on January 7 during an immigration enforcement encounter.
 
-### c_005 — reported, primary document
-**Subject entities:** Minnesota state officials; local officials; federal grand jury
-**Predicate:** served_subpoenas
-**Object:** records about efforts to restrict enforcement (legal_process)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Minnesota state officials; local officials; federal grand jury
+- **Predicate:** served_subpoenas
+- **Object:** records about efforts to restrict enforcement (legal_process)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > Minnesota state and local officials were served with federal grand jury subpoenas seeking records about efforts to restrict immigration enforcement.
 
-### c_006 — attributed, primary document
-**Subject entities:** Pam Bondi; Justice Department
-**Predicate:** praised_decision
-**Object:** protection of federal officers (official_statement)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Pam Bondi; Justice Department
+- **Predicate:** praised_decision
+- **Object:** protection of federal officers (official_statement)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > Attorney General Pam Bondi praised the appeals court decision on X, saying the Justice Department will protect federal officers from criminals and activist judges.
 
-### c_007 — confirmed, primary document
-**Subject entities:** Department of Homeland Security; Maine
-**Predicate:** named_operation
-**Object:** Catch of the Day (operation_name)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Department of Homeland Security; Maine
+- **Predicate:** named_operation
+- **Object:** Catch of the Day (operation_name)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > The Department of Homeland Security named the immigration enforcement operation in Maine 'Catch of the Day' in reference to the state's seafood industry.
 
-### c_008 — confirmed, primary document
-**Subject entities:** Shenna Bellows; Customs and Border Protection
-**Predicate:** refused_request
-**Object:** confidential license plates (government_action)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Shenna Bellows; Customs and Border Protection
+- **Predicate:** refused_request
+- **Object:** confidential license plates (government_action)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > Maine Secretary of State Shenna Bellows refused a request for confidential license plates sought by Customs and Border Protection.
 
-### c_009 — reported, primary document
-**Subject entities:** federal judge; two men; immigration officer
-**Predicate:** indicated_release_willingness
-**Object:** bond and release decision (legal_decision)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** federal judge; two men; immigration officer
+- **Predicate:** indicated_release_willingness
+- **Object:** bond and release decision (legal_decision)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > A federal judge indicated willingness to grant bond and release two men following a hearing in which conflicting accounts emerged about an alleged assault on an immigration officer.
 
-### c_010 — contested, primary plus secondary
-**Subject entities:** immigration officer; Alfredo Alejandro Aljorna
-**Predicate:** disputed_assault_claim
-**Object:** conflicting accounts of assault (disputed_claim)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_010
+- **Hedge:** contested
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** immigration officer; Alfredo Alejandro Aljorna
+- **Predicate:** disputed_assault_claim
+- **Object:** conflicting accounts of assault (disputed_claim)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > An immigration officer claimed he was struck with a broom and snow shovels while attempting to subdue and arrest Alfredo Alejandro Aljorna, but video evidence and three eyewitnesses did not support the account.
 
-### c_011 — attributed, single source
-**Subject entities:** immigration enforcement officers; Minnesota
-**Predicate:** claimed_arrests
-**Object:** 10,000+ arrests, 3,000 in six weeks (statistics)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** immigration enforcement officers; Minnesota
+- **Predicate:** claimed_arrests
+- **Object:** 10,000+ arrests, 3,000 in six weeks (statistics)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > According to immigration enforcement officers, more than 10,000 people in the U.S. illegally have been arrested in Minnesota in the past year, including 3,000 described as among the most dangerous offenders in the last six weeks.
 
-### c_012 — attributed, single source
-**Subject entities:** Julia Decker; Immigrant Law Center of Minnesota
-**Predicate:** stated_verification_concern
-**Object:** inability to verify arrest numbers (statement)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Julia Decker; Immigrant Law Center of Minnesota
+- **Predicate:** stated_verification_concern
+- **Object:** inability to verify arrest numbers (statement)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > Julia Decker, policy director at the Immigrant Law Center of Minnesota, stated that advocates cannot verify whether the government's arrest numbers and descriptions of people in custody are accurate.
 
@@ -263,7 +287,3 @@ Trump administration officials have said the officer who shot Good acted in self
 **Access date:** 2026-01-22
 **Title:** Court freezes decision to stop tear gas, other tactics by immigration officers in Minnesota
 **URL:** https://apnews.com/article/subpoenas-minnesota-investigation-lawsuit-federal-officers-8693014921e7a240108cb7f58dc56a46
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

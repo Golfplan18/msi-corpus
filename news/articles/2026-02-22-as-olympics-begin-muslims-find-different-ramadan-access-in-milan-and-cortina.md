@@ -351,7 +351,3 @@ Yet a growing number of Italy's Muslims are second-generation Italians, converts
 **Access date:** 2026-02-22
 **Title:** Olympic Games in Italy coincide with Ramadan, fostering unity in Milan
 **URL:** https://apnews.com/article/milan-cortina-olympics-ramadan-mosque-migration-6a16551828dc743dcd2d3c3b27ffbc78
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

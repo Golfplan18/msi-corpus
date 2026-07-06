@@ -16,44 +16,41 @@ primary_themes:
 - immigration enforcement
 - crime policy
 topic_tags:
-  - "arts, culture, entertainment and media"
-  - "human interest"
-  - "human migration"
-  - "mass media"
-  - music
-  - "social media"
-storyline_nexus: []
+- crime, law and justice
+- government
+- judiciary
+- law enforcement
+storyline_nexus:
+- trump-judicial-challenges
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
   intensity: 0.9
-- value: informed_citizenship
-  intensity: 0.85
-- value: equality_fairness
+- value: human_life_and_dignity
   intensity: 0.6
-framework_version: 1.1.0
-generation_timestamp: '2026-05-16T16:46:27Z'
+framework_version: 1.3.0
+generation_timestamp: '2026-05-22T23:55:43Z'
 source_cluster_id: cluster_ap_2026-01-02_trump-guardia-nacional-9382815eba9c6165c
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 17
   hedges:
+    contested: 0
+    reported: 8
+    attributed: 9
     appears: 0
     alleged: 0
-    attributed: 9
-    reported: 8
-    contested: 0
     confirmed: 0
   corroboration:
     primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
     primary_document: 0
-    single_source: 17
     two_independent: 0
+    single_source: 17
 sources:
   count: 1
   outlets:
@@ -71,13 +68,19 @@ image:
   url: /articles/2025-12-31-trump-drops-national-guard-deployment-to-chicago-la-and-portland-after-court-los.png
   alt: 'Illustration accompanying article: Trump drops National Guard deployment to Chicago, LA, and Portland after'
   source: ai_generated
-cross_article_links:
-- slug: 2025-12-30-faith-leaders-supporting-immigrants-brace-for-harder-year-under-trump-policies
-  relation: related
-  strength: 0.7587
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Trump abandona plan de enviar a la Guardia Nacional a Chicago, Los Ángeles y Portland, por ahora
+- “Regresaremos, quizás de una forma mucho más diferente y fuerte, cuando la delincuencia vuelva a dispararse... Sólo es cuestión de tiempo”, escribió Trump en redes sociales el miércoles.
+- Los efectivos ya habían salido de Los Ángeles después de que el presidente los enviara a mediados de año.
+- La iniciativa de Trump para desplegar los soldados en ciudades gobernadas por funcionarios demócratas ha enfrentado impugnaciones jurídicas casi a cada paso.
+- La Corte de Apelaciones del Noveno Circuito federal ordenó el miércoles al gobierno de Trump que devolviera el control de la Guardia Nacional a Newsom.
 
 President Donald Trump said Wednesday he has abandoned, at least for now, his effort to deploy National Guard troops in Chicago, Los Angeles, and Portland after courts blocked the initiative at nearly every stage. "We will be back, perhaps in a much different and stronger form, when crime spikes again," Trump wrote on social media. "Just a matter of time."
 
@@ -109,156 +112,190 @@ About 350 National Guard troops arrived at New Orleans' French Quarter on Tuesda
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Donald Trump
-**Predicate:** announced_abandonment_of
-**Object:** National Guard deployment in Chicago, Los Angeles, Portland (policy_action)
-**Temporal:** 2025-12-31
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** announced_abandonment_of
+- **Object:** National Guard deployment in Chicago, Los Angeles, Portland (policy_action)
+- **Temporal:** 2025-12-31
+- **Sources:** src_001
 
 > Trump announced on social media Wednesday that he has abandoned, for now, his plan to deploy National Guard troops in Chicago, Los Angeles, and Portland.
 
-### c_002 — attributed, single source
-**Subject entities:** Donald Trump
-**Predicate:** stated
-**Object:** threat to return with stronger deployment (quotation)
-**Temporal:** 2025-12-31
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** stated
+- **Object:** threat to return with stronger deployment (quotation)
+- **Temporal:** 2025-12-31
+- **Sources:** src_001
 
 > Trump wrote on social media: 'We will be back, perhaps in a much different and stronger form, when crime spikes again... Just a matter of time.'
 
-### c_003 — reported, single source
-**Subject entities:** U.S. Supreme Court
-**Predicate:** refused_to_permit
-**Object:** National Guard deployment in Chicago metro area (judicial_action)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Supreme Court
+- **Predicate:** refused_to_permit
+- **Object:** National Guard deployment in Chicago metro area (judicial_action)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > The Supreme Court refused in December to allow the Trump administration to deploy National Guard troops in the Chicago metropolitan area.
 
-### c_004 — reported, single source
-**Subject entities:** federal judge; Portland
-**Predicate:** permanently_blocked
-**Object:** National Guard deployment in Portland (judicial_action)
-**Temporal:** 2025-11
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** federal judge; Portland
+- **Predicate:** permanently_blocked
+- **Object:** National Guard deployment in Portland (judicial_action)
+- **Temporal:** 2025-11
+- **Sources:** src_001
 
 > A federal judge permanently blocked the National Guard deployment in Portland in November after a three-day trial.
 
-### c_005 — reported, single source
-**Subject entities:** National Guard; Chicago; Portland
-**Predicate:** were_not_deployed_on_streets
-**Object:** Chicago and Portland streets (location)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** National Guard; Chicago; Portland
+- **Predicate:** were_not_deployed_on_streets
+- **Object:** Chicago and Portland streets (location)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > National Guard troops were never deployed on the streets of Chicago or Portland while legal challenges were resolved.
 
-### c_006 — attributed, single source
-**Subject entities:** Donald Trump
-**Predicate:** claimed
-**Object:** troop presence caused crime decline in three cities (assertion)
-**Temporal:** 2025-12-31
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** claimed
+- **Object:** troop presence caused crime decline in three cities (assertion)
+- **Temporal:** 2025-12-31
+- **Sources:** src_001
 
 > Trump claimed the troop presence was responsible for a crime decline in all three cities, even though troops were never on the streets of Chicago and Portland.
 
-### c_007 — attributed, single source
-**Subject entities:** U.S. Department of Justice
-**Predicate:** stated_in_court
-**Object:** National Guard mission limited to federal property protection (legal_argument)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Department of Justice
+- **Predicate:** stated_in_court
+- **Object:** National Guard mission limited to federal property protection (legal_argument)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > A Justice Department attorney told the court the National Guard mission would protect federal property and government agents in the field, not 'resolve all crime in Chicago.'
 
-### c_008 — attributed, single source
-**Subject entities:** City of Chicago
-**Predicate:** reported
-**Object:** 416 homicides in 2025, lowest since 2014 (statistic)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** City of Chicago
+- **Predicate:** reported
+- **Object:** 416 homicides in 2025, lowest since 2014 (statistic)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Chicago officials said the city recorded 416 homicides in 2025, the lowest figure since 2014, and attributed the decline to local police work.
 
-### c_009 — attributed, single source
-**Subject entities:** Keith Wilson; City of Portland
-**Predicate:** attributed_crime_reduction_to
-**Object:** local police and public safety programs (official_statement)
-**Temporal:** 2025-12-31
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Keith Wilson; City of Portland
+- **Predicate:** attributed_crime_reduction_to
+- **Object:** local police and public safety programs (official_statement)
+- **Temporal:** 2025-12-31
+- **Sources:** src_001
 
 > Portland Mayor Keith Wilson's office said the city's crime reduction was due to local police work and public safety programs.
 
-### c_010 — attributed, single source
-**Subject entities:** JB Pritzker
-**Predicate:** stated
-**Object:** Trump lost in court on National Guard deployment (quotation)
-**Temporal:** 2025-12-31
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** JB Pritzker
+- **Predicate:** stated
+- **Object:** Trump lost in court on National Guard deployment (quotation)
+- **Temporal:** 2025-12-31
+- **Sources:** src_001
 
 > Illinois Gov. JB Pritzker wrote on X that Trump 'lost in court when Illinois stood up to his attempt to militarize American cities with the National Guard. Now Trump is forced to back down.'
 
-### c_011 — attributed, single source
-**Subject entities:** Tina Kotek
-**Predicate:** stated
-**Object:** troops never legally deployed; compliance with court orders would be victory for rule of law (official_statement)
-**Temporal:** 2025-12-31
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Tina Kotek
+- **Predicate:** stated
+- **Object:** troops never legally deployed; compliance with court orders would be victory for rule of law (official_statement)
+- **Temporal:** 2025-12-31
+- **Sources:** src_001
 
 > Oregon Gov. Tina Kotek said in a statement that the remaining federalized Oregon National Guard troops were never legally deployed in Portland and that if Trump had decided to follow court orders, it would be a great victory for the rule of law.
 
-### c_012 — reported, single source
-**Subject entities:** Ninth Circuit Court of Appeals; Gavin Newsom
-**Predicate:** ordered_return_of_control
-**Object:** California National Guard control returned to Governor Newsom (judicial_order)
-**Temporal:** 2025-12-31
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Ninth Circuit Court of Appeals; Gavin Newsom
+- **Predicate:** ordered_return_of_control
+- **Object:** California National Guard control returned to Governor Newsom (judicial_order)
+- **Temporal:** 2025-12-31
+- **Sources:** src_001
 
 > The Ninth Circuit Court of Appeals ordered the Trump administration Wednesday to return control of the California National Guard to Gov. Gavin Newsom.
 
-### c_013 — attributed, single source
-**Subject entities:** Gavin Newsom
-**Predicate:** stated
-**Object:** federal takeover of California National Guard is illegal (quotation)
-**Temporal:** 2025-12-31
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Gavin Newsom
+- **Predicate:** stated
+- **Object:** federal takeover of California National Guard is illegal (quotation)
+- **Temporal:** 2025-12-31
+- **Sources:** src_001
 
 > Gov. Newsom wrote on social media: 'It's about time (Trump) admitted defeat. We've said it from day one: the federal takeover of California's National Guard is illegal.'
 
-### c_014 — reported, single source
-**Subject entities:** Donald Trump; National Guard; Los Angeles
-**Predicate:** deployed
-**Object:** approximately 4,000 soldiers and 700 Marines to Los Angeles in June 2025 (military_action)
-**Temporal:** 2025-06
-**Source IDs:** src_001
+### c_014
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; National Guard; Los Angeles
+- **Predicate:** deployed
+- **Object:** approximately 4,000 soldiers and 700 Marines to Los Angeles in June 2025 (military_action)
+- **Temporal:** 2025-06
+- **Sources:** src_001
 
 > Trump deployed approximately 4,000 soldiers and 700 Marines to Los Angeles beginning in June to protect federal buildings, later extending the mission to cover immigration arrests.
 
-### c_015 — reported, single source
-**Subject entities:** National Guard; Los Angeles; Gavin Newsom
-**Predicate:** removed_from_streets
-**Object:** Los Angeles National Guard troops by December 15 (military_action)
-**Temporal:** 2025-12-15
-**Source IDs:** src_001
+### c_015
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** National Guard; Los Angeles; Gavin Newsom
+- **Predicate:** removed_from_streets
+- **Object:** Los Angeles National Guard troops by December 15 (military_action)
+- **Temporal:** 2025-12-15
+- **Sources:** src_001
 
 > LA troops were removed from the streets by December 15 after a court ruling; an appeals court had paused the portion of the ruling ordering control returned to Gov. Newsom, but the Trump administration said Tuesday it would no longer seek to maintain that pause.
 
-### c_016 — reported, single source
-**Subject entities:** National Guard; Washington D.C.; Donald Trump
-**Predicate:** remain_deployed
-**Object:** Washington D.C. since August 2025 (location)
-**Temporal:** 2025-12-31
-**Source IDs:** src_001
+### c_016
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** National Guard; Washington D.C.; Donald Trump
+- **Predicate:** remain_deployed
+- **Object:** Washington D.C. since August 2025 (location)
+- **Temporal:** 2025-12-31
+- **Sources:** src_001
 
 > National Guard troops have remained deployed in Washington, D.C., since August after Trump declared a 'crime emergency'; a federal appeals court in December blocked a lower-court order calling for their removal.
 
-### c_017 — reported, single source
-**Subject entities:** National Guard; New Orleans
-**Predicate:** deployed_to
-**Object:** New Orleans French Quarter through Mardi Gras (military_action)
-**Temporal:** 2025-12-30
-**Source IDs:** src_001
+### c_017
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** National Guard; New Orleans
+- **Predicate:** deployed_to
+- **Object:** New Orleans French Quarter through Mardi Gras (military_action)
+- **Temporal:** 2025-12-30
+- **Sources:** src_001
 
 > About 350 National Guard troops arrived at New Orleans' French Quarter on Tuesday and are expected to remain through Mardi Gras, with support from the state's Republican governor and the city's Democratic mayor.
 
@@ -267,10 +304,5 @@ About 350 National Guard troops arrived at New Orleans' French Quarter on Tuesda
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Michelle L. Price
 **Publication date:** 2025-12-31
-**Access date:** 2026-05-16
 **Title:** Trump abandona plan de enviar a la Guardia Nacional a Chicago, Los Ángeles y Portland, por ahora
 **URL:** https://apnews.com/article/trump-guardia-nacional-9382815eba9c6165cb6d2d717086d1be
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

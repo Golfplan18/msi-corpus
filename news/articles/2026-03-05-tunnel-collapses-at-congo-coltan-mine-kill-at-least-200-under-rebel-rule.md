@@ -249,7 +249,3 @@ Analysts noted that even before M23 seized control of the mine, coltan from Ruba
 **Access date:** 2026-03-05
 **Title:** Miners digging for world tech material are dying in Congo. Here's why
 **URL:** https://apnews.com/article/congo-rubaya-collapse-explainer-e32aaa904c1e6e1185b4f1d62195d857
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

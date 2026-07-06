@@ -1,6 +1,5 @@
 ---
 headline: Iran war volatility drives record profits at Bank of America, Morgan Stanley
-slug: 2026-04-15-iran-war-volatility-drives-record-profits-at-bank-of-america-morgan-stanley
 publish_date: '2026-04-15'
 lede: Bank of America and Morgan Stanley on Wednesday reported sharply higher first-quarter profits, as market turmoil fueled in part by the ongoing war in Iran drove surging activity on Wall Street trading desks. Morgan Stanley posted a record quarter across its entire business, with net income of $5.6 billion and earnings per share of $3.43 — both up 30% from the same period last year. Bank of America's trading desk did not record a single daily loss during the quarter, its best equity sales and trading performance in the bank's history.
 nut_graf: 'The results extend a pattern across the largest U.S. banks this earnings season: market gyrations that unsettle ordinary investors tend to generate fee and commission revenue for high-speed institutional trading desks, which profit from heightened volume and volatility. Goldman Sachs and JPMorgan Chase reported similar gains earlier in the week.'
@@ -19,43 +18,39 @@ primary_themes:
 - investment banking
 - consumer spending
 topic_tags:
-  - "armed conflict"
-  - "artificial intelligence"
-  - "conflict, war and peace"
-  - "crime, law and justice"
-  - "economy, business and finance"
-  - government
+- banking
+- market and exchange
+- conflict, war and peace
+- economy, business and finance
 storyline_nexus:
-  - iran-war
-geographic_location: New York, United States
+- the-iran-war
+geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship
-  intensity: 0.8
-- value: accountability_of_power
-  intensity: 0.45
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T08:13:05Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T04:29:15Z'
 source_cluster_id: cluster_ap_2026-04-16_bank-of-america-morgan-stanley-wall-stre
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 11
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 10
     reported: 1
+    attributed: 10
+    appears: 0
     contested: 0
     confirmed: 0
+    alleged: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 0
-    single_source: 11
     two_independent: 0
+    primary_plus_secondary: 0
+    single_source: 11
+    primary_document: 0
+    one_originating_plus_primary_document: 0
 sources:
   count: 1
   outlets:
@@ -69,21 +64,16 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-15-goldman-sachs-morgan-stanley-post-double-digit-profit-gains-on-deal-surge
-  relation: related
-  strength: 0.8407
-  confidence: medium
-- slug: 2026-01-13-jpmorgan-chase-q4-profits-rise-9-on-adjusted-basis-as-apple-card-deal-weighs-on-
-  relation: related
-  strength: 0.8404
-  confidence: medium
-- slug: 2026-01-12-iran-s-leadership-weakened-by-war-faces-broad-protests-as-crackdown-kills-hundre
-  relation: related
-  strength: 0.6935
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- While war in Iran fuels market swings, it is also driving profits on Wall Street trading desks
+- Lead entity: Ken Sweet
+- Key figures: Morgan Stanley, Brian Moynihan
 
 Bank of America and Morgan Stanley on Wednesday reported sharply higher first-quarter profits, as market turmoil fueled in part by the ongoing war in Iran drove surging activity on Wall Street trading desks.
 
@@ -109,102 +99,124 @@ Chief Financial Officer Alastair Borthwick said the bank's primary measure of co
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Bank of America Corp.
-**Predicate:** reported_revenue
-**Object:** 2.8 billion USD, +30% YoY (financial_metric)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Bank of America Corp.
+- **Predicate:** reported_revenue
+- **Object:** 2.8 billion USD, +30% YoY (financial_metric)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Bank of America's first-quarter stock trading revenues were $2.8 billion, a 30% increase from the prior year.
 
-### c_002 — attributed, single source
-**Subject entities:** Morgan Stanley
-**Predicate:** reported_revenue
-**Object:** 5.15 billion USD, +25% YoY (financial_metric)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Morgan Stanley
+- **Predicate:** reported_revenue
+- **Object:** 5.15 billion USD, +25% YoY (financial_metric)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Morgan Stanley's equity trading revenues rose 25% to $5.15 billion in the first quarter.
 
-### c_003 — attributed, single source
-**Subject entities:** Morgan Stanley
-**Predicate:** reported_revenue
-**Object:** 3.36 billion USD, +29% YoY (financial_metric)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Morgan Stanley
+- **Predicate:** reported_revenue
+- **Object:** 3.36 billion USD, +29% YoY (financial_metric)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Morgan Stanley's bond-trading revenues rose 29% to $3.36 billion in the first quarter.
 
-### c_004 — attributed, single source
-**Subject entities:** Morgan Stanley
-**Predicate:** reported_earnings
-**Object:** 5.6 billion USD net income; $3.43 EPS; both +30% YoY; record quarter (financial_metric)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Morgan Stanley
+- **Predicate:** reported_earnings
+- **Object:** 5.6 billion USD net income; $3.43 EPS; both +30% YoY; record quarter (financial_metric)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Morgan Stanley reported net income of $5.6 billion and earnings per share of $3.43 in the first quarter, both up 30% year over year, a record quarter for the bank.
 
-### c_005 — attributed, single source
-**Subject entities:** Bank of America Corp.
-**Predicate:** reported_performance
-**Object:** zero daily trading losses; record equity sales and trading quarter (operational_metric)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Bank of America Corp.
+- **Predicate:** reported_performance
+- **Object:** zero daily trading losses; record equity sales and trading quarter (operational_metric)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Bank of America did not post a single daily loss on its trading desk during the first quarter, which was also its largest quarter for equity sales and trading in the bank's history.
 
-### c_006 — attributed, single source
-**Subject entities:** Morgan Stanley
-**Predicate:** reported_revenue
-**Object:** 978 million USD, from 563 million USD prior year (financial_metric)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Morgan Stanley
+- **Predicate:** reported_revenue
+- **Object:** 978 million USD, from 563 million USD prior year (financial_metric)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Morgan Stanley's advisory revenues nearly doubled year over year, rising from $563 million to $978 million.
 
-### c_007 — reported, single source
-**Subject entities:** Bank of America Corp.; Morgan Stanley; Elon Musk
-**Predicate:** providing_advisory_services
-**Object:** SpaceX IPO advisory (business_relationship)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Bank of America Corp.; Morgan Stanley; Elon Musk
+- **Predicate:** providing_advisory_services
+- **Object:** SpaceX IPO advisory (business_relationship)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Both Bank of America and Morgan Stanley are advising on the anticipated IPO of SpaceX, the rocket company controlled by Elon Musk.
 
-### c_008 — attributed, single source
-**Subject entities:** Bank of America Corp.
-**Predicate:** reported_earnings
-**Object:** 3.1 billion USD consumer banking profit; 7% card spending increase (financial_metric)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Bank of America Corp.
+- **Predicate:** reported_earnings
+- **Object:** 3.1 billion USD consumer banking profit; 7% card spending increase (financial_metric)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Bank of America's consumer banking division posted a first-quarter profit of $3.1 billion; deposits and loans grew and credit and debit card spending rose 7% year over year.
 
-### c_009 — attributed, single source
-**Subject entities:** Bank of America Corp.; Wells Fargo & Co.
-**Predicate:** reported_spending_trend
-**Object:** double-digit increase in gasoline and energy debit card spending (consumer_metric)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Bank of America Corp.; Wells Fargo & Co.
+- **Predicate:** reported_spending_trend
+- **Object:** double-digit increase in gasoline and energy debit card spending (consumer_metric)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Bank of America reported double-digit increases in debit card spending on gasoline and energy, a pattern also reported by Wells Fargo executives.
 
-### c_010 — attributed, single source
-**Subject entities:** Brian Moynihan; Bank of America Corp.
-**Predicate:** stated
-**Object:** watchful of evolving risks — geopolitical tensions and energy prices (executive_statement)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Brian Moynihan; Bank of America Corp.
+- **Predicate:** stated
+- **Object:** watchful of evolving risks — geopolitical tensions and energy prices (executive_statement)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Bank of America CEO Brian Moynihan said the bank is 'watchful of evolving risks,' citing geopolitical tensions in the Middle East, Ukraine and elsewhere, plus the rise in energy prices.
 
-### c_011 — attributed, single source
-**Subject entities:** Alastair Borthwick; Bank of America Corp.
-**Predicate:** stated
-**Object:** unemployment at 4.3%; supporting consumer (executive_statement)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Alastair Borthwick; Bank of America Corp.
+- **Predicate:** stated
+- **Object:** unemployment at 4.3%; supporting consumer (executive_statement)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Bank of America CFO Alastair Borthwick said the bank monitors unemployment as its primary consumer-health indicator, noting it 'remains at 4.3%' and is 'supporting the consumer at this point.'
 
@@ -213,10 +225,5 @@ Chief Financial Officer Alastair Borthwick said the bank's primary measure of co
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Ken Sweet
 **Publication date:** 2026-04-15
-**Access date:** 2026-05-17
 **Title:** While war in Iran fuels market swings, it is also driving profits on Wall Street trading desks
 **URL:** https://apnews.com/article/bank-of-america-morgan-stanley-wall-street-eedf35f673519cf7ac4045dfa6d578da
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

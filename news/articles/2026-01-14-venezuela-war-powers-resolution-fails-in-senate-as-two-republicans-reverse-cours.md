@@ -1,6 +1,5 @@
 ---
 headline: Venezuela war powers resolution fails in Senate as two Republicans reverse course
-slug: 2026-01-14-senate-dismisses-venezuela-war-powers-resolution-after-hawley-young-flip
 publish_date: '2026-01-14'
 lede: The Senate voted Wednesday to dismiss a war powers resolution that would have constrained President Donald Trump's authority over military operations in Venezuela, after two Republican senators reversed their earlier support following direct pressure from Trump and Secretary of State Marco Rubio. Vice President JD Vance broke a 50-50 tie on a Republican motion to dismiss the bill.
 nut_graf: The vote came weeks after U.S. troops captured Venezuelan leader Nicolás Maduro in a nighttime raid, as Trump has pledged to "run" Venezuela and threatened military force to seize Greenland from NATO ally Denmark — moves that have raised bipartisan alarm in Congress about the reach of presidential war-making authority.
@@ -23,38 +22,42 @@ primary_themes:
 - presidential authority
 - foreign policy
 topic_tags:
-  - "conflict, war and peace"
+- armed conflict
+- international military intervention
+- government policy
+- politics
+- conflict, war and peace
 storyline_nexus:
-  - venezuela-crisis
-geographic_location: Washington, D.C., United States
+- venezuela-political-military-crisis
+geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
   intensity: 0.9
 - value: informed_citizenship
-  intensity: 0.85
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:00:47Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:11:43Z'
 source_cluster_id: cluster_ap_2026-01-15_trump-venezuela-senate-war-powers-2350b1
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 16
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 9
-    reported: 2
     contested: 0
+    alleged: 0
+    reported: 2
+    appears: 0
     confirmed: 5
+    attributed: 9
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 5
     single_source: 11
+    one_originating_plus_primary_document: 0
     two_independent: 0
+    primary_plus_secondary: 0
+    primary_document: 5
 sources:
   count: 1
   outlets:
@@ -72,41 +75,16 @@ image:
   url: /articles/2026-01-14-venezuela-war-powers-resolution-fails-in-senate-as-two-republicans-reverse-cours.png
   alt: 'Illustration accompanying article: Venezuela war powers resolution fails in Senate as two Republicans reverse course'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-08-senate-advances-war-powers-resolution-52-47-to-constrain-trump-on-venezuela
-  relation: continues
-  strength: 0.8906
-  confidence: high
-- slug: 2026-01-09-gop-fractures-emerge-in-midterm-year-s-first-week-over-venezuela-greenland-healt
-  relation: related
-  strength: 0.7997
-  confidence: medium
-- slug: 2026-01-05-us-allies-join-foes-in-un-rebuke-of-venezuela-military-operation
-  relation: related
-  strength: 0.8071
-  confidence: medium
-- slug: 2026-01-07-maduro-s-capture-gives-russia-a-strategic-setback-and-a-diplomatic-opening
-  relation: related
-  strength: 0.7725
-  confidence: medium
-- slug: 2026-01-07-venezuela-s-opposition-sidelined-as-maduro-s-party-holds-power-after-u-s-seizure
-  relation: related
-  strength: 0.7695
-  confidence: medium
-- slug: 2026-01-03-us-seizure-of-maduro-sparks-legal-debate-as-trump-claims-control-of-venezuela
-  relation: related
-  strength: 0.7909
-  confidence: medium
-- slug: 2026-01-03-venezuela-in-limbo-after-maduro-capture-as-trump-endorses-deputy-snubs-oppositio
-  relation: related
-  strength: 0.7896
-  confidence: medium
-- slug: 2026-01-03-trump-vows-to-run-venezuela-after-u-s-military-operation-ousts-maduro
-  relation: related
-  strength: 0.785
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- The Senate voted Wednesday to dismiss a war powers resolution that would have constrained President Donald Trump's authority over military operations in Venezuela, after two Republican senators reversed their earlier support following direct pressure from Trump and Secretary of State Marco Rubio.
+- The vote came weeks after U.
+- Hawley said Trump called him and stated the legislation "really ties my hands." Hawley said he also received a follow-up call Monday with Rubio, who told him "point blank, we're not going to do ground troops." The senator said he received additional assurances that the administration would follow constitutional requirements if it became necessary to deploy troops again to Venezuela..
 
 The Senate voted Wednesday to dismiss a war powers resolution that would have constrained President Donald Trump's authority over military operations in Venezuela, after two Republican senators reversed their earlier support following direct pressure from Trump and Secretary of State Marco Rubio. Vice President JD Vance broke a 50-50 tie on a Republican motion to dismiss the bill.
 
@@ -160,147 +138,179 @@ A new AP-NORC poll found that more than half of U.S. adults said Trump has "gone
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** United States Senate
-**Predicate:** voted_to_dismiss
-**Object:** war powers resolution on Venezuela (legislation)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** United States Senate
+- **Predicate:** voted_to_dismiss
+- **Object:** war powers resolution on Venezuela (legislation)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > The Senate voted Wednesday to dismiss a war powers resolution that would have limited Trump's ability to conduct further attacks on Venezuela.
 
-### c_002 — confirmed, primary document
-**Subject entities:** JD Vance
-**Predicate:** broke_tie
-**Object:** 50-50 (vote_tally)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** JD Vance
+- **Predicate:** broke_tie
+- **Object:** 50-50 (vote_tally)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Vice President JD Vance broke a 50-50 Senate deadlock on the Republican motion to dismiss the bill.
 
-### c_003 — confirmed, primary document
-**Subject entities:** Josh Hawley; Todd Young
-**Predicate:** reversed_position
-**Object:** war powers resolution support (legislative_position)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Josh Hawley; Todd Young
+- **Predicate:** reversed_position
+- **Object:** war powers resolution support (legislative_position)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Sens. Josh Hawley of Missouri and Todd Young of Indiana reversed their support for the war powers resolution after pressure from Trump.
 
-### c_004 — attributed, single source
-**Subject entities:** Josh Hawley; Donald Trump
-**Predicate:** stated
-**Object:** really ties my hands (quotation)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Josh Hawley; Donald Trump
+- **Predicate:** stated
+- **Object:** really ties my hands (quotation)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Hawley said Trump told him during a phone call that the legislation 'really ties my hands.'
 
-### c_005 — attributed, single source
-**Subject entities:** Josh Hawley; Marco Rubio
-**Predicate:** stated
-**Object:** point blank, we're not going to do ground troops (quotation)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Josh Hawley; Marco Rubio
+- **Predicate:** stated
+- **Object:** point blank, we're not going to do ground troops (quotation)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Hawley said he received a follow-up call with Rubio and was told 'point blank, we're not going to do ground troops.'
 
-### c_006 — attributed, single source
-**Subject entities:** Todd Young; Marco Rubio
-**Predicate:** stated
-**Object:** seek congressional authorization in advance (circumstances permitting) (quotation)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Todd Young; Marco Rubio
+- **Predicate:** stated
+- **Object:** seek congressional authorization in advance (circumstances permitting) (quotation)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Young shared a letter from Rubio stating the president will 'seek congressional authorization in advance (circumstances permitting)' if he engages in 'major military operations' in Venezuela.
 
-### c_007 — confirmed, primary document
-**Subject entities:** United States Department of Justice
-**Predicate:** released
-**Object:** 22-page DOJ memo (document)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** United States Department of Justice
+- **Predicate:** released
+- **Object:** 22-page DOJ memo (document)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > The Trump administration released a 22-page Justice Department memo laying out the legal justification for the operation against Maduro.
 
-### c_008 — attributed, primary document
-**Subject entities:** Elliot Gaiser; United States Department of Justice
-**Predicate:** stated
-**Object:** no contingency plan to engage in any substantial and sustained operation that would amount to a constitutional war (quotation)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Elliot Gaiser; United States Department of Justice
+- **Predicate:** stated
+- **Object:** no contingency plan to engage in any substantial and sustained operation that would amount to a constitutional war (quotation)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > The heavily redacted DOJ memo, signed by Assistant Attorney General Elliot Gaiser, stated there is 'no contingency plan to engage in any substantial and sustained operation that would amount to a constitutional war.'
 
-### c_009 — confirmed, single source
-**Subject entities:** Rand Paul; Lisa Murkowski; Susan Collins
-**Predicate:** maintained_support
-**Object:** war powers resolution (legislation)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Rand Paul; Lisa Murkowski; Susan Collins
+- **Predicate:** maintained_support
+- **Object:** war powers resolution (legislation)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Sens. Rand Paul of Kentucky, Lisa Murkowski of Alaska, and Susan Collins of Maine maintained their support for the war powers resolution.
 
-### c_010 — attributed, single source
-**Subject entities:** Donald Trump; Rand Paul; Lisa Murkowski; Susan Collins
-**Predicate:** stated
-**Object:** stone cold loser / disasters (insult)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Rand Paul; Lisa Murkowski; Susan Collins
+- **Predicate:** stated
+- **Object:** stone cold loser / disasters (insult)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Trump called Sen. Rand Paul a 'stone cold loser' and Sens. Lisa Murkowski and Susan Collins 'disasters' in a speech in Michigan on Tuesday.
 
-### c_011 — attributed, single source
-**Subject entities:** Rand Paul
-**Predicate:** said
-**Object:** The bait and switch has already happened (quotation)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Rand Paul
+- **Predicate:** said
+- **Object:** The bait and switch has already happened (quotation)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Paul said of the administration's shifting rationale, 'The bait and switch has already happened.'
 
-### c_012 — attributed, single source
-**Subject entities:** John Thune
-**Predicate:** said
-**Object:** We're not currently conducting military operations there (quotation)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** John Thune
+- **Predicate:** said
+- **Object:** We're not currently conducting military operations there (quotation)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Senate Majority Leader John Thune said in a floor speech, 'We're not currently conducting military operations there.'
 
-### c_013 — attributed, single source
-**Subject entities:** Chuck Schumer
-**Predicate:** said
-**Object:** What happened tonight is a roadmap to another endless war (quotation)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Chuck Schumer
+- **Predicate:** said
+- **Object:** What happened tonight is a roadmap to another endless war (quotation)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Senate Democratic leader Chuck Schumer said after the vote, 'What happened tonight is a roadmap to another endless war.'
 
-### c_014 — attributed, single source
-**Subject entities:** Tim Kaine
-**Predicate:** vowed
-**Object:** force additional war powers votes including on Greenland (legislative_action)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Tim Kaine
+- **Predicate:** vowed
+- **Object:** force additional war powers votes including on Greenland (legislative_action)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Sen. Tim Kaine vowed to force votes on war powers resolutions covering potential military conflicts including Greenland.
 
-### c_015 — reported, single source
-**Subject entities:** AP-NORC
-**Predicate:** found
-**Object:** more than half of U.S. adults believe Trump has gone too far using military abroad (poll_result)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_015
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** AP-NORC
+- **Predicate:** found
+- **Object:** more than half of U.S. adults believe Trump has gone too far using military abroad (poll_result)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > More than half of U.S. adults believe Trump has 'gone too far' in using the U.S. military to intervene in other countries, according to a new AP-NORC poll.
 
-### c_016 — reported, single source
-**Subject entities:** United States House of Representatives
-**Predicate:** filed
-**Object:** similar war powers resolution (legislation)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_016
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** United States House of Representatives
+- **Predicate:** filed
+- **Object:** similar war powers resolution (legislation)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > House Democrats have filed a similar war powers resolution and can force a vote on it as soon as next week, according to the Associated Press.
 
@@ -309,10 +319,5 @@ A new AP-NORC poll found that more than half of U.S. adults said Trump has "gone
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Stephen Groves
 **Publication date:** 2026-01-14
-**Access date:** 2026-01-14
-**Title:** Venezuela war powers resolution fails in Senate as 2 Republicans bow to Trump pressure
+**Title:** Venezuela war powers resolution fails in Senate
 **URL:** https://apnews.com/article/trump-venezuela-senate-war-powers-2350b162d116090759a7428c4b915eea
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

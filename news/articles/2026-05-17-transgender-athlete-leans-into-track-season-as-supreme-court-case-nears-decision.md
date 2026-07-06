@@ -20,7 +20,8 @@ topic_tags:
   - society
   - "fundamental rights"
   - discrimination
-storyline_nexus: []
+storyline_nexus:
+- lgbtq-rights-restrictions
 geographic_location: West Virginia, United States
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -119,133 +120,159 @@ Instead, she focuses on what is in her control: her performance and her place on
 
 Off the field, Pepper-Jackson plans to pursue music in college and a career as a band director.
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Becky Pepper-Jackson; Bridgeport High School
-**Predicate:** is_athlete
-**Object:** transgender high school track and field athlete (person_description)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Becky Pepper-Jackson; Bridgeport High School
+- **Predicate:** is_athlete
+- **Object:** transgender high school track and field athlete (person_description)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > Becky Pepper-Jackson is a transgender high school track and field athlete competing for Bridgeport High School in West Virginia.
 
-### c_002 — confirmed, primary document
-**Subject entities:** Becky Pepper-Jackson
-**Predicate:** competes_in_events
-**Object:** discus and shot put (athletic_events)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Becky Pepper-Jackson
+- **Predicate:** competes_in_events
+- **Object:** discus and shot put (athletic_events)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > Pepper-Jackson competes in discus and shot put.
 
-### c_003 — confirmed, primary document
-**Subject entities:** Becky Pepper-Jackson
-**Predicate:** placed_at_state_meet
-**Object:** third in discus, eighth in shot put (competition_placement)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Becky Pepper-Jackson
+- **Predicate:** placed_at_state_meet
+- **Object:** third in discus, eighth in shot put (competition_placement)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > As a freshman, Pepper-Jackson placed third in discus and eighth in shot put at the West Virginia state meet.
 
-### c_004 — confirmed, primary document
-**Subject entities:** Becky Pepper-Jackson
-**Predicate:** won_events
-**Object:** both discus and shot put in first two meets (event_wins)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Becky Pepper-Jackson
+- **Predicate:** won_events
+- **Object:** both discus and shot put in first two meets (event_wins)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > This season, Pepper-Jackson has won both discus and shot put in her first two meets.
 
-### c_005 — confirmed, primary document
-**Subject entities:** Becky Pepper-Jackson; West Virginia
-**Predicate:** challenged_law
-**Object:** law banning transgender athletes from female sports (legal_action)
-**Temporal:** 2021
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Becky Pepper-Jackson; West Virginia
+- **Predicate:** challenged_law
+- **Object:** law banning transgender athletes from female sports (legal_action)
+- **Temporal:** 2021
+- **Sources:** src_001
 
 > In 2021, at age 11, Pepper-Jackson challenged West Virginia's law banning transgender athletes from competing in female sports.
 
-### c_006 — confirmed, primary document
-**Subject entities:** U.S. Supreme Court; Becky Pepper-Jackson
-**Predicate:** allowed_continued_competition
-**Object:** continue competing in middle school (legal_ruling)
-**Temporal:** 2023
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Supreme Court; Becky Pepper-Jackson
+- **Predicate:** allowed_continued_competition
+- **Object:** continue competing in middle school (legal_ruling)
+- **Temporal:** 2023
+- **Sources:** src_001
 
 > The U.S. Supreme Court allowed Pepper-Jackson to continue competing in middle school in 2023 while the lawsuit continued.
 
-### c_007 — attributed, primary document
-**Subject entities:** U.S. Supreme Court
-**Predicate:** signaled_ruling
-**Object:** state bans do not violate Constitution or Title IX (legal_indication)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Supreme Court
+- **Predicate:** signaled_ruling
+- **Object:** state bans do not violate Constitution or Title IX (legal_indication)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > In January 2026, the Supreme Court's conservative majority signaled it would rule that state bans on transgender athletes do not violate the Constitution or Title IX.
 
-### c_008 — attributed, primary document
-**Subject entities:** JB McCuskey
-**Predicate:** stated
-**Object:** biological boys compete against boys, biological girls against girls (statement)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** JB McCuskey
+- **Predicate:** stated
+- **Object:** biological boys compete against boys, biological girls against girls (statement)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > West Virginia Attorney General JB McCuskey stated the law requires biological boys compete against boys and biological girls against girls.
 
-### c_009 — attributed, primary document
-**Subject entities:** Becky Pepper-Jackson
-**Predicate:** identified_as
-**Object:** girl, from age 8 (personal_identification)
-**Temporal:** childhood
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Becky Pepper-Jackson
+- **Predicate:** identified_as
+- **Object:** girl, from age 8 (personal_identification)
+- **Temporal:** childhood
+- **Sources:** src_001
 
 > Pepper-Jackson identified as a girl from age 8.
 
-### c_010 — attributed, primary document
-**Subject entities:** Becky Pepper-Jackson
-**Predicate:** took_medication
-**Object:** puberty-blocking medication (medical_history)
-**Temporal:** early puberty
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Becky Pepper-Jackson
+- **Predicate:** took_medication
+- **Object:** puberty-blocking medication (medical_history)
+- **Temporal:** early puberty
+- **Sources:** src_001
 
 > Pepper-Jackson started taking puberty-blocking medication at the onset of puberty.
 
-### c_011 — attributed, primary document
-**Subject entities:** Becky Pepper-Jackson
-**Predicate:** did_not_undergo
-**Object:** male puberty (medical_fact)
-**Temporal:** puberty stage
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Becky Pepper-Jackson
+- **Predicate:** did_not_undergo
+- **Object:** male puberty (medical_fact)
+- **Temporal:** puberty stage
+- **Sources:** src_001
 
 > According to the ACLU, Pepper-Jackson did not undergo male puberty.
 
-### c_012 — confirmed, primary document
-**Subject entities:** AB Hernandez
-**Predicate:** won_gold
-**Object:** high jump and triple jump, California state meet (athletic_achievement)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_012
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** AB Hernandez
+- **Predicate:** won_gold
+- **Object:** high jump and triple jump, California state meet (athletic_achievement)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > AB Hernandez won gold in girls' high jump and triple jump at the California state high school meet last year.
 
-### c_013 — confirmed, primary document
-**Subject entities:** Verónica Garcia
-**Predicate:** won_titles
-**Object:** back-to-back 400-meter titles, Washington state (athletic_achievement)
-**Temporal:** 2024-2025
-**Source IDs:** src_001
+### c_013
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Verónica Garcia
+- **Predicate:** won_titles
+- **Object:** back-to-back 400-meter titles, Washington state (athletic_achievement)
+- **Temporal:** 2024-2025
+- **Sources:** src_001
 
 > Verónica Garcia won back-to-back 400-meter titles in Washington state in 2024 and 2025.
 
-### c_014 — confirmed, primary document
-**Subject entities:** Ada Gallagher
-**Predicate:** won_event
-**Object:** 200 meters, Oregon state meet (athletic_achievement)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_014
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Ada Gallagher
+- **Predicate:** won_event
+- **Object:** 200 meters, Oregon state meet (athletic_achievement)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > Ada Gallagher won the 200 meters at the Oregon state meet in 2024.
 
@@ -257,7 +284,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-05-17
 **Title:** West Virginia girl who sparked Supreme Court case on transgender athletes leans into track season
 **URL:** https://apnews.com/article/supreme-court-transgender-athletes-3121b7b76c44d4973015c3b7ed52a65a
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

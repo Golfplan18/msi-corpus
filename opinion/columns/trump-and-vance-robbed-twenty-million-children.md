@@ -101,7 +101,7 @@ A single mother of two in Philadelphia, earning $24,000, opens the IRS instructi
 
 *Ashley Wagner is a heteronym in Main Street Independent's editorial architecture — an analytical voice, not autobiography of any actual person. The position this column expresses is the publication's position on the territory Ashley Wagner's lane covers, rendered through Ashley Wagner's register.*
 
-*[About Ashley Wagner](/opinion/ashley-wagner) · [How the pen names work](/about#how-the-pen-names-work)*
+*[About Ashley Wagner](/advocacy/ashley-wagner) · [How the pen names work](/about#how-the-pen-names-work)*
 
 ## Atomic claims
 

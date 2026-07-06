@@ -19,7 +19,8 @@ topic_tags:
   - "law enforcement"
   - prosecution
   - "mass media"
-storyline_nexus: []
+storyline_nexus:
+- trump-judicial-challenges
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
@@ -112,111 +113,135 @@ The Post's recent reporting described Natanson as having gained hundreds of new 
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Aurelio Luis Perez-Lugones
-**Predicate:** indicted_on_charges
-**Object:** five counts unlawfully transmitting, one count unlawfully retaining classified defense information (legal_charge)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Aurelio Luis Perez-Lugones
+- **Predicate:** indicted_on_charges
+- **Object:** five counts unlawfully transmitting, one count unlawfully retaining classified defense information (legal_charge)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > Aurelio Luis Perez-Lugones was indicted on five counts of unlawfully transmitting classified national defense information and one count of unlawfully retaining classified national defense information.
 
-### c_002 — alleged, primary document
-**Subject entities:** Aurelio Luis Perez-Lugones
-**Predicate:** accused_of
-**Object:** taking classified documents home, passing to reporter (alleged_conduct)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_002
+- **Hedge:** alleged
+- **Corroboration:** primary_document
+- **Subject entities:** Aurelio Luis Perez-Lugones
+- **Predicate:** accused_of
+- **Object:** taking classified documents home, passing to reporter (alleged_conduct)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > Perez-Lugones is accused of taking home printouts of classified documents from his workplace and passing them to a reporter.
 
-### c_003 — reported, primary document
-**Subject entities:** classified_articles
-**Predicate:** published_with_information_from
-**Object:** at least five articles (publication_count)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** classified_articles
+- **Predicate:** published_with_information_from
+- **Object:** at least five articles (publication_count)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > The reporter co-wrote and contributed to at least five articles that contained classified information provided by Perez-Lugones.
 
-### c_004 — reported, primary document
-**Subject entities:** Aurelio Luis Perez-Lugones
-**Predicate:** communicated_via
-**Object:** phone messages discussing classified information (evidence)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Aurelio Luis Perez-Lugones
+- **Predicate:** communicated_via
+- **Object:** phone messages discussing classified information (evidence)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > Investigators found phone messages between Perez-Lugones and the reporter in which they discussed the classified information he provided.
 
-### c_005 — reported, primary document
-**Subject entities:** Aurelio Luis Perez-Lugones
-**Predicate:** said
-**Object:** I'm going quiet for a bit ... just to see if anyone starts asking questions (quoted_statement)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Aurelio Luis Perez-Lugones
+- **Predicate:** said
+- **Object:** I'm going quiet for a bit ... just to see if anyone starts asking questions (quoted_statement)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > Perez-Lugones said "I'm going quiet for a bit ... just to see if anyone starts asking questions" after sending one of the documents.
 
-### c_006 — confirmed, primary document
-**Subject entities:** Aurelio Luis Perez-Lugones
-**Predicate:** employed_as
-**Object:** systems engineer and IT specialist with top secret clearance, age 61, from Laurel Maryland (biographical_details)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Aurelio Luis Perez-Lugones
+- **Predicate:** employed_as
+- **Object:** systems engineer and IT specialist with top secret clearance, age 61, from Laurel Maryland (biographical_details)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > Perez-Lugones, 61, of Laurel, Maryland, held a top secret security clearance and worked as a systems engineer and information technology specialist for a government contractor.
 
-### c_007 — alleged, primary document
-**Subject entities:** Aurelio Luis Perez-Lugones
-**Predicate:** created
-**Object:** printed Word document with screenshot of classified intelligence report (alleged_conduct)
-**Temporal:** 2025-10
-**Source IDs:** src_001
+### c_007
+- **Hedge:** alleged
+- **Corroboration:** primary_document
+- **Subject entities:** Aurelio Luis Perez-Lugones
+- **Predicate:** created
+- **Object:** printed Word document with screenshot of classified intelligence report (alleged_conduct)
+- **Temporal:** 2025-10
+- **Sources:** src_001
 
 > In October, Perez-Lugones took a screenshot of a classified intelligence report and pasted it into a Microsoft Word document that he printed out.
 
-### c_008 — confirmed, primary document
-**Subject entities:** law_enforcement
-**Predicate:** discovered_evidence
-**Object:** classified documents marked SECRET in home and car (evidence)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** law_enforcement
+- **Predicate:** discovered_evidence
+- **Object:** classified documents marked SECRET in home and car (evidence)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > Authorities found documents marked "SECRET" including one in a lunchbox when they searched Perez-Lugones's home and car.
 
-### c_009 — confirmed, primary document
-**Subject entities:** Hannah Natanson; federal_agents
-**Predicate:** seized_devices_from
-**Object:** phone, two laptops, recorder, portable hard drive, Garmin smartwatch (seized_items)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Hannah Natanson; federal_agents
+- **Predicate:** seized_devices_from
+- **Object:** phone, two laptops, recorder, portable hard drive, Garmin smartwatch (seized_items)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > Federal agents seized a phone, two laptops, a recorder, a portable hard drive, and a Garmin smartwatch from Washington Post reporter Hannah Natanson's home.
 
-### c_010 — confirmed, primary document
-**Subject entities:** federal_magistrate_judge
-**Predicate:** ordered
-**Object:** temporary bar on government review of seized materials (legal_order)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** federal_magistrate_judge
+- **Predicate:** ordered
+- **Object:** temporary bar on government review of seized materials (legal_order)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > A federal magistrate judge temporarily barred the government from reviewing any material from the seized devices.
 
-### c_011 — confirmed, primary document
-**Subject entities:** Washington Post; federal_court
-**Predicate:** scheduled_hearing
-**Object:** February 6 hearing on motion to return seized devices (scheduled_court_event)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_011
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Washington Post; federal_court
+- **Predicate:** scheduled_hearing
+- **Object:** February 6 hearing on motion to return seized devices (scheduled_court_event)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > A Feb. 6 hearing was scheduled on the Washington Post's request for a court order requiring authorities to return the seized devices.
 
-### c_012 — confirmed, primary document
-**Subject entities:** Aurelio Luis Perez-Lugones
-**Predicate:** remained_in_custody
-**Object:** jailed since January 8 arrest (custody_status)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_012
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Aurelio Luis Perez-Lugones
+- **Predicate:** remained_in_custody
+- **Object:** jailed since January 8 arrest (custody_status)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > Perez-Lugones remained jailed since his January 8 arrest.
 
@@ -228,7 +253,3 @@ The Post's recent reporting described Natanson as having gained hundreds of new 
 **Access date:** 2026-05-18
 **Title:** Pentagon contractor indicted in leak case tied to search of Washington Post reporter's home
 **URL:** https://apnews.com/article/fbi-washington-post-search-warrant-classified-documents-303291a9861789d8a450c1d481bde626
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

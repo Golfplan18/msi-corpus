@@ -125,7 +125,3 @@ The attack came four years after Russia sent troops into Ukraine, where the coun
 **Access date:** 2026-05-18
 **Title:** An explosion in Moscow kills a police officer
 **URL:** https://apnews.com/article/russia-explosion-moscow-police-killed-d1509c5b35265004b0fd4d803e8850f5
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

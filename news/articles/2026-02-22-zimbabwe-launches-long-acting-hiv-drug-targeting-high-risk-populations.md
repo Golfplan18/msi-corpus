@@ -263,7 +263,3 @@ For early recipients such as Mukoloka, the drug's impact is already profound. "I
 **Access date:** 2026-02-22
 **Title:** Zimbabwe is one of the first to roll out new and long-acting HIV drug
 **URL:** https://apnews.com/article/hiv-drug-lenacapavir-zimbabwe-africa-health-0450d59217b295107829cd6380de7bcc
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

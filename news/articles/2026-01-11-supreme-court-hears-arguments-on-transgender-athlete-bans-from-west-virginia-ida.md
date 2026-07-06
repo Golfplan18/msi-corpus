@@ -19,49 +19,42 @@ primary_themes:
 - gender discrimination
 - civil rights
 topic_tags:
-  - "civil rights"
-  - "crime, law and justice"
-  - discrimination
-  - education
-  - government
-  - "government policy"
+- civil rights
+- discrimination
+- judiciary
+- law
+- sport
 storyline_nexus:
-  - trump-tariff-policy
-  - us-administration-2026
-  - us-china-relations
+- lgbtq-rights-restrictions
 geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.8
 - value: equality_fairness
-  intensity: 0.75
-- value: human_life_and_dignity
-  intensity: 0.65
+  intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.55
-framework_version: 1.1.0
-generation_timestamp: '2026-01-11T00:00:00Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:42:47Z'
 source_cluster_id: cluster_ap_2026-01-10_supreme-court-transgender-athletes-trump
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 14
   hedges:
-    appears: 0
     alleged: 0
     attributed: 4
     reported: 5
-    contested: 0
     confirmed: 5
+    appears: 0
+    contested: 0
   corroboration:
-    primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
-    primary_document: 0
+    primary_plus_secondary: 0
     single_source: 14
     two_independent: 0
+    primary_document: 0
 sources:
   count: 1
   outlets:
@@ -79,13 +72,17 @@ image:
   url: /articles/2026-01-11-supreme-court-hears-arguments-on-transgender-athlete-bans-from-west-virginia-ida.png
   alt: 'Illustration accompanying article: Supreme Court hears arguments on transgender athlete bans from West Virginia, Idaho'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-08-nevada-governor-launches-ballot-drive-to-ban-transgender-athletes-from-women-s-s
-  relation: related
-  strength: 0.8618
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- **Becky Pepper-Jackson faces a potential last season in West Virginia sports** — opening narrative arc or primary actor action.
+- - "crime, law and justice"
+- alt: 'Illustration accompanying article: Supreme Court hears arguments on transgender athlete bans from West Virginia, Idaho'
 
 The rulings could determine whether transgender athletes may continue to compete in women's sports in states that currently permit it, and will test whether the Constitution's equal protection clause or Title IX extends to transgender people in scholastic and collegiate athletics — a question the court has so far declined to resolve directly.
 
@@ -125,128 +122,156 @@ If she is forced to stop competing, Pepper-Jackson said she will continue to lif
 
 ## Atomic claims
 
-### c_001 — confirmed, single source
-**Subject entities:** U.S. Supreme Court
-**Predicate:** scheduled_to_hear
-**Object:** transgender athlete sports ban cases (legal_proceeding)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Supreme Court
+- **Predicate:** scheduled_to_hear
+- **Object:** transgender athlete sports ban cases (legal_proceeding)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > The U.S. Supreme Court is scheduled to hear arguments Tuesday in cases over whether state sports bans on transgender athletes violate the Constitution or Title IX.
 
-### c_002 — confirmed, single source
-**Subject entities:** Becky Pepper-Jackson; Lindsay Hecox
-**Predicate:** are_plaintiffs_in
-**Object:** state transgender sports ban cases before the Supreme Court (legal_parties)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Becky Pepper-Jackson; Lindsay Hecox
+- **Predicate:** are_plaintiffs_in
+- **Object:** state transgender sports ban cases before the Supreme Court (legal_parties)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > The West Virginia case involves Becky Pepper-Jackson, a 15-year-old sophomore; the Idaho case involves college student Lindsay Hecox.
 
-### c_003 — reported, single source
-**Subject entities:** U.S. Supreme Court
-**Predicate:** expected_decision
-**Object:** early summer (timeline)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Supreme Court
+- **Predicate:** expected_decision
+- **Object:** early summer (timeline)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > Decisions in both cases are expected by early summer.
 
-### c_004 — confirmed, single source
-**Subject entities:** West Virginia
-**Predicate:** enacted_ban
-**Object:** transgender girls competing in girls and women's sports (legislative_action)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** West Virginia
+- **Predicate:** enacted_ban
+- **Object:** transgender girls competing in girls and women's sports (legislative_action)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > West Virginia has banned transgender girls from competing in girls and women's sports, though the law has been blocked by lower courts.
 
-### c_005 — reported, single source
-**Predicate:** enacted
-**Object:** transgender sports ban laws (legislative_count)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Predicate:** enacted
+- **Object:** transgender sports ban laws (legislative_count)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > More than two dozen states have enacted laws similar to West Virginia's ban on transgender athletes in girls and women's sports.
 
-### c_006 — confirmed, single source
-**Subject entities:** U.S. Supreme Court
-**Predicate:** ruled
-**Object:** workplace discrimination against transgender people is sex discrimination; did not extend to health care bans for minors (court_ruling)
-**Temporal:** 2020
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Supreme Court
+- **Predicate:** ruled
+- **Object:** workplace discrimination against transgender people is sex discrimination; did not extend to health care bans for minors (court_ruling)
+- **Temporal:** 2020
+- **Sources:** src_001
 
 > The Supreme Court ruled in 2020 that workplace discrimination against transgender people constitutes sex discrimination but declined to extend that logic when it upheld state bans on gender-affirming medical treatment for minors in June.
 
-### c_007 — attributed, single source
-**Subject entities:** Becky Pepper-Jackson
-**Predicate:** finished
-**Object:** third in discus, eighth in shot put (athletic_result)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Becky Pepper-Jackson
+- **Predicate:** finished
+- **Object:** third in discus, eighth in shot put (athletic_result)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Pepper-Jackson finished third in the discus throw and eighth among shot putters in her first year of high school.
 
-### c_008 — attributed, single source
-**Subject entities:** Becky Pepper-Jackson
-**Predicate:** has_identified_as
-**Object:** girl since third grade; taking puberty-blocking medication (personal_history)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Becky Pepper-Jackson
+- **Predicate:** has_identified_as
+- **Object:** girl since third grade; taking puberty-blocking medication (personal_history)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > Pepper-Jackson has been taking puberty-blocking medication and has publicly identified as a girl since third grade.
 
-### c_009 — reported, single source
-**Subject entities:** U.S. Supreme Court; Becky Pepper-Jackson
-**Predicate:** forced
-**Object:** out-of-state travel for care (policy_consequence)
-**Temporal:** 2025-06
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Supreme Court; Becky Pepper-Jackson
+- **Predicate:** forced
+- **Object:** out-of-state travel for care (policy_consequence)
+- **Temporal:** 2025-06
+- **Sources:** src_001
 
 > The Supreme Court's June ruling upholding state bans on gender-affirming medical treatment for minors forced Pepper-Jackson to go out of state for care.
 
-### c_010 — attributed, single source
-**Subject entities:** JB McCuskey
-**Predicate:** stated
-**Object:** no other transgender athletes known in WV girls or women's sports (official_statement)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** JB McCuskey
+- **Predicate:** stated
+- **Object:** no other transgender athletes known in WV girls or women's sports (official_statement)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > West Virginia Attorney General JB McCuskey said he is not aware of any other transgender athlete in the state who has competed or is trying to compete in girls or women's sports.
 
-### c_011 — reported, single source
-**Subject entities:** AP-NORC Center for Public Affairs Research
-**Predicate:** found
-**Object:** about 6 in 10 adults favored birth-sex competition requirement (poll_finding)
-**Temporal:** 2025-10
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** AP-NORC Center for Public Affairs Research
+- **Predicate:** found
+- **Object:** about 6 in 10 adults favored birth-sex competition requirement (poll_finding)
+- **Temporal:** 2025-10
+- **Sources:** src_001
 
 > An AP-NORC poll conducted in October 2025 found that about 6 in 10 U.S. adults strongly or somewhat favored requiring transgender children and teenagers to only compete on teams matching the sex assigned at birth; about 2 in 10 were opposed and about one-quarter had no opinion.
 
-### c_012 — attributed, single source
-**Subject entities:** Williams Institute at the UCLA School of Law
-**Predicate:** estimated
-**Object:** 2.1 million adults (0.8%) and 724,000 teens (3.3%) identify as transgender (demographic_data)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Williams Institute at the UCLA School of Law
+- **Predicate:** estimated
+- **Object:** 2.1 million adults (0.8%) and 724,000 teens (3.3%) identify as transgender (demographic_data)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > About 2.1 million adults (0.8%) and 724,000 people age 13 to 17 (3.3%) identify as transgender in the U.S., according to the Williams Institute at the UCLA School of Law.
 
-### c_013 — confirmed, single source
-**Subject entities:** NCAA; U.S. Olympic and Paralympic Committees; Donald Trump
-**Predicate:** banned
-**Object:** transgender women from women's sports competitions (policy_action)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_013
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** NCAA; U.S. Olympic and Paralympic Committees; Donald Trump
+- **Predicate:** banned
+- **Object:** transgender women from women's sports competitions (policy_action)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > The NCAA and the U.S. Olympic and Paralympic Committees banned transgender women from women's sports after Trump signed an executive order aimed at barring their participation.
 
-### c_014 — reported, single source
-**Subject entities:** Donald Trump
-**Predicate:** enacted_policies
-**Object:** removal of transgender people from military; declaration that gender is immutable (executive_action)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_014
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** enacted_policies
+- **Object:** removal of transgender people from military; declaration that gender is immutable (executive_action)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Trump's administration has removed transgender people from the military and declared that gender is immutable and determined at birth.
 
@@ -255,10 +280,5 @@ If she is forced to stop competing, Pepper-Jackson said she will continue to lif
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Mark Sherman
 **Publication date:** 2026-01-11
-**Access date:** 2026-01-11
 **Title:** Becky Pepper-Jackson faces a potential last season in West Virginia sports
 **URL:** https://apnews.com/article/supreme-court-transgender-athletes-trump-title-ix-ee41b615b2a44c6b8dc24072a208265d
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

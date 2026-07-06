@@ -18,11 +18,11 @@ primary_themes:
 - Officer Conduct
 - Immigration Enforcement
 topic_tags:
-  - government
-  - "government policy"
-  - politics
+- government
+- government policy
+- politics
 storyline_nexus:
-  - immigration-enforcement
+- us-immigration-enforcement
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
@@ -74,10 +74,6 @@ image:
   alt: 'Illustration accompanying article: ICE officer training ''deficient,'' former agency lawyer tells Congress'
   source: ai_generated
 cross_article_links:
-- slug: 2026-04-17-ap-investigation-finds-ice-hired-agents-with-questionable-backgrounds
-  relation: related
-  strength: 0.838
-  confidence: medium
 - slug: 2026-04-16-minnesota-probes-federal-officers-over-two-killings-wounding-and-highway-assault
   relation: related
   strength: 0.7394
@@ -139,120 +135,146 @@ Schwank was one of two whistleblowers who disclosed a new ICE policy that author
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Ryan Schwank; U.S. Immigration and Customs Enforcement
-**Predicate:** testified
-**Object:** training program is deficient, defective, and broken (statement)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ryan Schwank; U.S. Immigration and Customs Enforcement
+- **Predicate:** testified
+- **Object:** training program is deficient, defective, and broken (statement)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > Ryan Schwank testified that the ICE training program is deficient, defective, and broken.
 
-### c_002 — attributed, single source
-**Subject entities:** Ryan Schwank; Department of Homeland Security
-**Predicate:** accused
-**Object:** dismantled and shortened training program (allegation)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ryan Schwank; Department of Homeland Security
+- **Predicate:** accused
+- **Object:** dismantled and shortened training program (allegation)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > Schwank said DHS dismantled the training program and made it shorter than what the agency publicly claims.
 
-### c_003 — attributed, single source
-**Subject entities:** Ryan Schwank; Department of Homeland Security
-**Predicate:** contradicted
-**Object:** DHS public statements about training completeness (statement)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ryan Schwank; Department of Homeland Security
+- **Predicate:** contradicted
+- **Object:** DHS public statements about training completeness (statement)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > Schwank said DHS's public claims that cadets receive all needed training with no critical material removed are false.
 
-### c_004 — attributed, single source
-**Subject entities:** Ryan Schwank; U.S. Immigration and Customs Enforcement
-**Predicate:** held_role
-**Object:** lawyer responsible for training; resigned (employment)
-**Temporal:** 2026-02-13
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ryan Schwank; U.S. Immigration and Customs Enforcement
+- **Predicate:** held_role
+- **Object:** lawyer responsible for training; resigned (employment)
+- **Temporal:** 2026-02-13
+- **Sources:** src_001
 
 > Ryan Schwank was a former ICE lawyer responsible for training new deportation officers and resigned on Feb. 13.
 
-### c_005 — attributed, single source
-**Subject entities:** U.S. Immigration and Customs Enforcement; Richard Blumenthal
-**Predicate:** eliminated
-**Object:** practical exams for deportation officers (training_requirement)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Immigration and Customs Enforcement; Richard Blumenthal
+- **Predicate:** eliminated
+- **Object:** practical exams for deportation officers (training_requirement)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > Documents released by Sen. Blumenthal's office show ICE is eliminating over a dozen practical exams previously required for deportation officers.
 
-### c_006 — attributed, single source
-**Subject entities:** U.S. Immigration and Customs Enforcement
-**Predicate:** cut
-**Object:** Use of Force Simulation Training (training_class)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Immigration and Customs Enforcement
+- **Predicate:** cut
+- **Object:** Use of Force Simulation Training (training_class)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > ICE cut the "Use of Force Simulation Training" class from officer training.
 
-### c_007 — attributed, single source
-**Subject entities:** Ryan Schwank; U.S. Immigration and Customs Enforcement
-**Predicate:** taught
-**Object:** cadets as young as 18 (personnel_age)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ryan Schwank; U.S. Immigration and Customs Enforcement
+- **Predicate:** taught
+- **Object:** cadets as young as 18 (personnel_age)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Schwank taught ICE cadets as young as 18, including one who celebrated her 19th birthday in his classroom.
 
-### c_008 — attributed, single source
-**Subject entities:** Department of Homeland Security
-**Predicate:** removed
-**Object:** minimum age requirement for ICE recruits (hiring_requirement)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Department of Homeland Security
+- **Predicate:** removed
+- **Object:** minimum age requirement for ICE recruits (hiring_requirement)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > The Department of Homeland Security previously required ICE recruits to be at least 21 years old before removing the age restriction.
 
-### c_009 — attributed, single source
-**Subject entities:** Ryan Schwank
-**Predicate:** witnessed
-**Object:** trainees engaging in problematic conduct but graduating (observation)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ryan Schwank
+- **Predicate:** witnessed
+- **Object:** trainees engaging in problematic conduct but graduating (observation)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Schwank said he witnessed trainees accidentally draw firearms on each other, arrest people without cause, and use excessive force, yet they still graduated.
 
-### c_010 — attributed, single source
-**Subject entities:** Department of Homeland Security
-**Predicate:** denied
-**Object:** training hours have been cut (denial)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Department of Homeland Security
+- **Predicate:** denied
+- **Object:** training hours have been cut (denial)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > The Department of Homeland Security denied that training requirements have been removed, stating no training hours have been cut.
 
-### c_011 — attributed, single source
-**Subject entities:** Department of Homeland Security; U.S. Immigration and Customs Enforcement
-**Predicate:** stated
-**Object:** 56 days training plus 28 days on-job training (training_duration)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Department of Homeland Security; U.S. Immigration and Customs Enforcement
+- **Predicate:** stated
+- **Object:** 56 days training plus 28 days on-job training (training_duration)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > DHS stated that ICE recruits receive 56 days of training and an average of 28 days of on-the-job training.
 
-### c_012 — attributed, single source
-**Subject entities:** Ryan Schwank
-**Predicate:** characterized
-**Object:** on-job training supervision is minimal (allegation)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ryan Schwank
+- **Predicate:** characterized
+- **Object:** on-job training supervision is minimal (allegation)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > Schwank said supervision during on-the-job training is minimal, with officers going to home offices just long enough to get their gun, badge and body armor.
 
-### c_013 — attributed, single source
-**Subject entities:** Ryan Schwank; U.S. Immigration and Customs Enforcement
-**Predicate:** disclosed
-**Object:** ICE policy authorizing forced entry without judicial warrant (policy_disclosure)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ryan Schwank; U.S. Immigration and Customs Enforcement
+- **Predicate:** disclosed
+- **Object:** ICE policy authorizing forced entry without judicial warrant (policy_disclosure)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Schwank was one of two whistleblowers who disclosed a new ICE policy authorizing deportation officers to forcibly enter an immigrant's home without a warrant signed by a judge.
 
@@ -264,7 +286,3 @@ Schwank was one of two whistleblowers who disclosed a new ICE policy that author
 **Access date:** 2026-02-24
 **Title:** ICE officer training is 'broken,' former agency lawyer says
 **URL:** https://apnews.com/article/ice-immigration-enforcement-congress-training-trump-466a19105e6dfd4990a9b58361b6963d
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

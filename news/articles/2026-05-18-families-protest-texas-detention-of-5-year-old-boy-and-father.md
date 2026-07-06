@@ -18,7 +18,8 @@ topic_tags:
   - "government policy"
   - society
   - "human migration"
-storyline_nexus: []
+storyline_nexus:
+- us-immigration-enforcement
 geographic_location: Dilley, Texas; Minnesota
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -125,99 +126,115 @@ A December report filed by U.S. Immigration and Customs Enforcement in an ongoin
 
 The Saturday protest occurred the same day that a federal immigration officer shot and killed a man in Minneapolis, drawing hundreds of protesters onto the frigid streets and heightening tensions in a city already shaken by another fatal shooting weeks earlier.
 
----
-
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. The specification is available at main-street-independent.com/methodology. Human review was not triggered for this article. This article is released under the Creative Commons CC0 dedication to the public domain.
-
 ## Atomic claims
 
-### c_001 — reported, primary document
-**Subject entities:** immigrant families
-**Predicate:** protested at
-**Object:** South Texas Family Residential Center, Dilley, Texas (location)
-**Temporal:** 2026-01-25
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** immigrant families
+- **Predicate:** protested at
+- **Object:** South Texas Family Residential Center, Dilley, Texas (location)
+- **Temporal:** 2026-01-25
+- **Sources:** src_001
 
 > Immigrant families protested Saturday at the South Texas Family Residential Center in Dilley, Texas.
 
-### c_002 — reported, single source
-**Subject entities:** Liam Conejo Ramos; Adrian Alexander Conejo Arias
-**Predicate:** detained and transferred
-**Object:** South Texas Family Residential Center (location)
-**Temporal:** 2026-01-25
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Liam Conejo Ramos; Adrian Alexander Conejo Arias
+- **Predicate:** detained and transferred
+- **Object:** South Texas Family Residential Center (location)
+- **Temporal:** 2026-01-25
+- **Sources:** src_001
 
 > A 5-year-old Ecuadorian boy, Liam Conejo Ramos, and his father, Adrian Alexander Conejo Arias, were detained in Minnesota and transferred to the South Texas Family Residential Center.
 
-### c_003 — reported, primary document
-**Subject entities:** families at facility
-**Predicate:** held signs
-**Object:** protest signs with text in Spanish and English (artifact)
-**Temporal:** 2026-01-25
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** families at facility
+- **Predicate:** held signs
+- **Object:** protest signs with text in Spanish and English (artifact)
+- **Temporal:** 2026-01-25
+- **Sources:** src_001
 
 > Families at the facility held signs including 'Libertad para los niños,' or 'Liberty for the kids.'
 
-### c_004 — reported, single source
-**Subject entities:** protesters
-**Predicate:** chanted
-**Object:** freedom chants (speech_act)
-**Temporal:** 2026-01-25
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** protesters
+- **Predicate:** chanted
+- **Object:** freedom chants (speech_act)
+- **Temporal:** 2026-01-25
+- **Sources:** src_001
 
 > Families chanted 'Libertad!' and 'Let us go.'
 
-### c_005 — attributed, single source
-**Subject entities:** Maria Alejandra Montoya Sanchez
-**Predicate:** said
-**Object:** advocacy for dignified and lawful treatment (speech_act)
-**Temporal:** 2026-01-25
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Maria Alejandra Montoya Sanchez
+- **Predicate:** said
+- **Object:** advocacy for dignified and lawful treatment (speech_act)
+- **Temporal:** 2026-01-25
+- **Sources:** src_001
 
 > Maria Alejandra Montoya Sanchez, 31, said: 'The message we want to send is for them to treat us with dignity and according to the law. We're immigrants, with children, not criminals.'
 
-### c_006 — attributed, single source
-**Subject entities:** Maria Alejandra Montoya Sanchez
-**Predicate:** held at facility
-**Object:** since October 2025 (temporal_duration)
-**Temporal:** 2026-01-25
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Maria Alejandra Montoya Sanchez
+- **Predicate:** held at facility
+- **Object:** since October 2025 (temporal_duration)
+- **Temporal:** 2026-01-25
+- **Sources:** src_001
 
 > Maria Alejandra Montoya Sanchez and her 9-year-old daughter have been held at the Dilley facility since October.
 
-### c_007 — reported, single source
-**Subject entities:** advocates and detained families
-**Predicate:** reported conditions
-**Object:** food contamination, illness, insufficient medical access (condition_report)
-**Temporal:** 2026-01-25
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** advocates and detained families
+- **Predicate:** reported conditions
+- **Object:** food contamination, illness, insufficient medical access (condition_report)
+- **Temporal:** 2026-01-25
+- **Sources:** src_001
 
 > Advocates said conditions at the facility have included food with worms, constant illness, and insufficient medical access.
 
-### c_008 — attributed, single source
-**Subject entities:** Eric Lee
-**Predicate:** said
-**Object:** characterization of family courage and facility conditions (speech_act)
-**Temporal:** 2026-01-25
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Eric Lee
+- **Predicate:** said
+- **Object:** characterization of family courage and facility conditions (speech_act)
+- **Temporal:** 2026-01-25
+- **Sources:** src_001
 
 > Eric Lee, an immigration attorney, said: 'That children and their parents would risk retribution under these conditions to speak up is a testament both to how courageous they are and how abysmal the conditions of this place is.'
 
-### c_009 — reported, single source
-**Subject entities:** federal immigration officer
-**Predicate:** shot and killed
-**Object:** male individual in Minneapolis (person)
-**Temporal:** 2026-01-25
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** federal immigration officer
+- **Predicate:** shot and killed
+- **Object:** male individual in Minneapolis (person)
+- **Temporal:** 2026-01-25
+- **Sources:** src_001
 
 > A federal immigration officer shot and killed a man in Minneapolis on Saturday.
 
-### c_010 — reported, primary document
-**Subject entities:** detainees at facility
-**Predicate:** held beyond legal limit
-**Object:** hundreds of children (population_count)
-**Temporal:** 2026-01-25
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** detainees at facility
+- **Predicate:** held beyond legal limit
+- **Object:** hundreds of children (population_count)
+- **Temporal:** 2026-01-25
+- **Sources:** src_001
 
 > Hundreds of children have been held at the facility beyond the court-mandated limit, according to a report filed in December by U.S. Immigration and Customs Enforcement.
 
@@ -229,7 +246,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-05-18
 **Title:** Immigrant families protest Texas detention of Minnesota boy and father
 **URL:** https://apnews.com/article/texas-immigration-detention-7fa98244c1b0245deb4462e9dc25292f
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

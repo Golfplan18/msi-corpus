@@ -291,7 +291,3 @@ The idea for an international women's day originated with the American Socialist
 **Access date:** 2026-03-08
 **Title:** Things To Know: International Women's Day
 **URL:** https://apnews.com/article/international-womens-day-march-protest-8a24bf674ac081b3a53499ffa031b825
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

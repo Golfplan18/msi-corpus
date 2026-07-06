@@ -18,7 +18,7 @@ topic_tags:
   - "conflict, war and peace"
   - religion
 storyline_nexus:
-  - gaza-conflict
+- gaza-israel-war
 geographic_location: Gaza Strip
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -102,8 +102,6 @@ While the heaviest fighting has subsided, Israeli forces have carried out repeat
 Some Palestinians have worked to bring touches of Ramadan's spirit amid the destruction. At their displacement camp, al Zamli's children played with empty soda cans fashioned to look like Ramadan lanterns.
 
 Al Zamli said the war has deprived him and his family of many things. A son-in-law, he said, was killed shortly after marrying his daughter. This Ramadan, he will pray "for the bloodshed to end … and to feel security, safety, and tranquility" and "to be able to provide good food and clothes for our children."
-
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
 
 ## Atomic claims
 
@@ -268,7 +266,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-02-18
 **Title:** In Gaza, how one Muslim family is observing the start of Ramadan
 **URL:** https://apnews.com/article/gaza-palestinians-muslim-ramadan-fragile-ceasefire-7bbb872c203b34578feee00b990f825b
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

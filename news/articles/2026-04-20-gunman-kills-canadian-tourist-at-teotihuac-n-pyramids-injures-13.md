@@ -241,7 +241,3 @@ The National Institute of Anthropology and History said the Teotihuacán archaeo
 **Access date:** 2026-05-17
 **Title:** Gunman shoots several tourists at Teotihuacán pyramids in Mexico
 **URL:** https://apnews.com/article/shooting-teotihuacuan-pyramid-canadian-killed-cfb0ee81bf45ab5df335a17363631296
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

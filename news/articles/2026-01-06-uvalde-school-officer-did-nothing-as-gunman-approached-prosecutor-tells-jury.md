@@ -16,50 +16,66 @@ primary_themes:
 - law enforcement inaction
 - Uvalde massacre
 topic_tags:
-  - crime
-  - "crime, law and justice"
-  - education
-  - judiciary
-  - "law enforcement"
-  - school
+- crime
+- law enforcement
+- trial
+- school
+- prosecution
 storyline_nexus:
-  - immigration-enforcement
-geographic_location: Corpus Christi, Texas
+- uvalde-accountability
+geographic_location: United States
 floor_values_engaged:
-- value: accountability_of_power
-  intensity: 0.95
 - value: human_life_and_dignity
   intensity: 0.9
-- value: informed_citizenship
-  intensity: 0.7
-framework_version: 1.1.0
-generation_timestamp: '2026-05-16T18:08:31Z'
+- value: accountability_of_power
+  intensity: 0.9
+framework_version: 1.3.0
+generation_timestamp: '2026-05-22T23:38:07Z'
 source_cluster_id: cluster_ap_2026-01-05_uvalde-school-shooting-police-officer-tr
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 10
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 4
-    reported: 2
-    contested: 0
     confirmed: 4
+    appears: 0
+    reported: 2
+    alleged: 0
+    contested: 0
+    attributed: 4
   corroboration:
-    primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
     primary_document: 2
     single_source: 8
     two_independent: 0
+    primary_plus_secondary: 0
 sources:
-  count: 1
+  count: 21
   outlets:
+  - 4029tv.com
   - Associated Press
+  - abc11.com
+  - abc13.com
+  - abc3340.com
+  - abc57.com
+  - abc7.com
+  - abc7news.com
+  - abc7ny.com
+  - arkansasonline.com
+  - channel3000.com
+  - cnn.com
+  - dailyadvance.com
+  - el-balad.com
+  - fox42kptm.com
+  - foxbaltimore.com
+  - iheart.com
+  - kens5.com
+  - ksat.com
   outlet_classes:
+  - national_daily
   - wire
   highest_reliability_tier: 1
   has_originating: true
@@ -72,17 +88,17 @@ image:
   url: /articles/2026-01-06-uvalde-school-officer-did-nothing-as-gunman-approached-prosecutor-tells-jury.png
   alt: 'Illustration accompanying article: Uvalde school officer did nothing as gunman approached, prosecutor tells'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-03-uvalde-officer-stands-trial-on-child-abandonment-charges-over-2022-school-shooti
-  relation: continues
-  strength: 0.9243
-  confidence: high
-- slug: 2026-01-03-uvalde-officer-goes-to-trial-on-child-endangerment-charges-over-shooting-inactio
-  relation: continues
-  strength: 0.9225
-  confidence: high
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- [Extracted summary from article]
+- [Supporting detail 1]
+- [Supporting detail 2]
 
 The criminal trial of a former Uvalde school police officer began Tuesday in Corpus Christi, Texas, with a special prosecutor telling jurors that Adrian Gonzales stood by without acting while the gunman who would kill 19 students and two teachers at Robb Elementary School was still outside and reachable. Special prosecutor Bill Turner said Gonzales arrived at the scene before the shooter entered the building but did not attempt to distract or engage him, even after a teacher pointed out the shooter's direction. Gonzales went inside only "after the damage had been done," Turner said.
 
@@ -134,93 +150,113 @@ The Gonzales trial was moved from Uvalde to Corpus Christi after his attorneys a
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Adrian Gonzales; Bill Turner; Robb Elementary
-**Predicate:** alleged_inaction_before_entry
-**Object:** failed to engage shooter outside (prosecutorial_claim)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Adrian Gonzales; Bill Turner; Robb Elementary
+- **Predicate:** alleged_inaction_before_entry
+- **Object:** failed to engage shooter outside (prosecutorial_claim)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > Special prosecutor Bill Turner said Adrian Gonzales arrived at Robb Elementary while the shooter was still outside the building and did not attempt to distract or engage him.
 
-### c_002 — confirmed, primary document
-**Subject entities:** Adrian Gonzales
-**Predicate:** pleaded_not_guilty
-**Object:** 29 counts child abandonment or endangerment (legal_status)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Adrian Gonzales
+- **Predicate:** pleaded_not_guilty
+- **Object:** 29 counts child abandonment or endangerment (legal_status)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > Adrian Gonzales has pleaded not guilty to 29 counts of child abandonment or endangerment.
 
-### c_003 — confirmed, single source
-**Subject entities:** Adrian Gonzales
-**Predicate:** faces_maximum_sentence
-**Object:** two years in prison (legal_penalty)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Adrian Gonzales
+- **Predicate:** faces_maximum_sentence
+- **Object:** two years in prison (legal_penalty)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > Conviction on the charges could carry a maximum sentence of two years in prison.
 
-### c_004 — attributed, single source
-**Subject entities:** Adrian Gonzales; Nico LaHood
-**Predicate:** defense_claim_of_action
-**Object:** radioed for help and evacuated children (defense_claim)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Adrian Gonzales; Nico LaHood
+- **Predicate:** defense_claim_of_action
+- **Object:** radioed for help and evacuated children (defense_claim)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > Defense attorney Nico LaHood said Gonzales radioed for more help and evacuated children as other police arrived.
 
-### c_005 — confirmed, primary document
-**Subject entities:** Robb Elementary School; Uvalde
-**Predicate:** resulted_in_deaths
-**Object:** 19 students and 2 teachers killed (death_toll)
-**Temporal:** 2022-05-24
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Robb Elementary School; Uvalde
+- **Predicate:** resulted_in_deaths
+- **Object:** 19 students and 2 teachers killed (death_toll)
+- **Temporal:** 2022-05-24
+- **Sources:** src_001
 
 > The 2022 Uvalde shooting killed 19 students and two teachers at Robb Elementary School.
 
-### c_006 — reported, single source
-**Subject entities:** law enforcement; Salvador Ramos; Robb Elementary School
-**Predicate:** elapsed_time_before_breach
-**Object:** 77 minutes (duration)
-**Temporal:** 2022-05-24
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** law enforcement; Salvador Ramos; Robb Elementary School
+- **Predicate:** elapsed_time_before_breach
+- **Object:** 77 minutes (duration)
+- **Temporal:** 2022-05-24
+- **Sources:** src_001
 
 > An investigation found 77 minutes passed from the time authorities arrived until a tactical team breached the classroom and killed Salvador Ramos.
 
-### c_007 — attributed, single source
-**Subject entities:** Stephanie Hale
-**Predicate:** testified_about_defense_actions
-**Object:** grabbed scissors for self-defense (testimony)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Stephanie Hale
+- **Predicate:** testified_about_defense_actions
+- **Object:** grabbed scissors for self-defense (testimony)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > Teacher Stephanie Hale testified she and other teachers grabbed scissors to defend themselves and their students if the gunman entered their classroom.
 
-### c_008 — confirmed, single source
-**Subject entities:** Adrian Gonzales; Pete Arredondo
-**Predicate:** charged_criminally
-**Object:** only two officers charged; Arredondo trial unscheduled (legal_status)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Adrian Gonzales; Pete Arredondo
+- **Predicate:** charged_criminally
+- **Object:** only two officers charged; Arredondo trial unscheduled (legal_status)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > Gonzales and former Uvalde schools police chief Pete Arredondo are the only two officers to face criminal charges over the police response; Arredondo's trial has not been scheduled.
 
-### c_009 — reported, single source
-**Subject entities:** Parkland shooting
-**Predicate:** resulted_in_acquittal
-**Object:** deputy acquitted; first such US prosecution (legal_precedent)
-**Temporal:** 2018
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Parkland shooting
+- **Predicate:** resulted_in_acquittal
+- **Object:** deputy acquitted; first such US prosecution (legal_precedent)
+- **Temporal:** 2018
+- **Sources:** src_001
 
 > After the 2018 Parkland shooting, a sheriff's deputy was acquitted by a jury after being charged with failing to confront the shooter — described as the first such prosecution in the U.S. for an on-campus shooting.
 
-### c_010 — attributed, single source
-**Subject entities:** Stephanie Hale; Adrian Gonzales
-**Predicate:** testimony_dispute
-**Object:** previously undisclosed detail about Gonzales location near shooter (contested_testimony)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Stephanie Hale; Adrian Gonzales
+- **Predicate:** testimony_dispute
+- **Object:** previously undisclosed detail about Gonzales location near shooter (contested_testimony)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > Hale testified she saw a figure in black approaching the school from an area near where Gonzales was positioned — a detail defense lawyers said had not appeared in earlier witness interviews.
 
@@ -229,10 +265,85 @@ The Gonzales trial was moved from Uvalde to Corpus Christi after his attorneys a
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Valerie Gonzalez
 **Publication date:** 2026-01-06
-**Access date:** 2026-01-06
 **Title:** Uvalde officer stood by during school shooting, prosecutor says
 **URL:** https://apnews.com/article/uvalde-school-shooting-police-officer-trial-bbabc23c1dc8aefe630773aa5ad204b1
 
----
+### src_002 — cnn.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-07
+**URL:** https://www.cnn.com/2026/01/07/us/uvalde-school-police-officer-trial
 
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*
+### src_003 — cnn.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-07
+**URL:** https://us.cnn.com/2026/01/07/us/uvalde-school-police-officer-trial
+
+### src_004 — cnn.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-07
+**URL:** https://edition.cnn.com/2026/01/07/us/uvalde-school-police-officer-trial
+
+### src_005 — iheart.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-07
+**URL:** https://newsradiowkcy.iheart.com/content/2026-01-07-former-uvalde-school-officer-faces-trial-over-2022-shooting-response/
+
+### src_006 — kens5.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-07
+**URL:** https://www.kens5.com/article/news/special-reports/uvalde-school-shooting/uvalde-trial-disclosure-concerns-testimony-robb-school-shooting-adrian-gonzales-texas/273-d80835f2-5b86-479a-bdcc-eee937fe7151
+
+### src_007 — ksat.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-07
+**URL:** https://www.ksat.com/news/local/2026/01/07/prosecution-defenses-tense-hearing-looms-over-day-2-in-trial-of-ex-uvalde-cisd-officer/
+
+### src_008 — 4029tv.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-07
+**URL:** https://www.4029tv.com/article/adrian-gonzales-trial-halted-uvalde/69933804
+
+### src_009 — abc11.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-07
+**URL:** https://abc11.com/post/texas-judge-cancels-wednesday-testimony-uvalde-cop-adrian-gonzales-trial-defense-says-prosecutors-withheld-evidence/18367149/
+
+### src_010 — abc13.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-07
+**URL:** https://abc13.com/post/texas-judge-cancels-wednesday-testimony-uvalde-cop-adrian-gonzales-trial-defense-says-prosecutors-withheld-evidence/18367149/
+
+### src_011 — abc3340.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-07
+**URL:** https://abc3340.com/news/nation-world/today-day-2-of-uvalde-school-shooting-trial-begins-after-tuesdays-harrowing-testimony-corpus-christi-texas-investigation-judge-attorney-evidence
+
+### src_012 — abc57.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-07
+**URL:** https://www.abc57.com/news/judge-cancels-wednesday-testimony-in-uvalde-cop-trial-as-defense-says-prosecutors-withheld-evidence
+
+### src_013 — abc7.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-07
+**URL:** https://abc7.com/post/texas-judge-cancels-wednesday-testimony-uvalde-cop-adrian-gonzales-trial-defense-says-prosecutors-withheld-evidence/18367149/
+
+### src_014 — abc7news.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-07
+**URL:** https://abc7news.com/post/texas-judge-cancels-wednesday-testimony-uvalde-cop-adrian-gonzales-trial-defense-says-prosecutors-withheld-evidence/18367149/
+
+### src_015 — abc7ny.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-07
+**URL:** https://abc7ny.com/post/texas-judge-cancels-wednesday-testimony-uvalde-cop-adrian-gonzales-trial-defense-says-prosecutors-withheld-evidence/18367149/
+
+### src_016 — arkansasonline.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-07
+**URL:** https://www.arkansasonline.com/news/2026/jan/07/prosecutors-rip-officer-on-site-in-uvalde-shooting/
+
+### src_017 — channel3000.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-07
+**URL:** https://www.channel3000.com/news/uvalde-schools-officer-did-nothing-until-it-was-too-late-during-shooting-prosecutor-says/article_3fc62c18-d142-57b8-b688-3ca42d1fa005.html
+
+### src_018 — dailyadvance.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-07
+**URL:** https://www.dailyadvance.com/news/national/uvalde-schools-officer-did-nothing-until-it-was-too-late-during-shooting-prosecutor-says/article_a5e7ac03-1ce9-57cc-8481-40591ed288d3.html
+
+### src_019 — el-balad.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-07
+**URL:** https://www.el-balad.com/6814466
+
+### src_020 — fox42kptm.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-07
+**URL:** https://fox42kptm.com/news/nation-world/today-day-2-of-uvalde-school-shooting-trial-begins-after-tuesdays-harrowing-testimony-corpus-christi-texas-investigation-judge-attorney-evidence
+
+### src_021 — foxbaltimore.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-07
+**URL:** https://foxbaltimore.com/news/nation-world/today-day-2-of-uvalde-school-shooting-trial-begins-after-tuesdays-harrowing-testimony-corpus-christi-texas-investigation-judge-attorney-evidence

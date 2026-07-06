@@ -17,49 +17,43 @@ primary_themes:
 - Regional conflict
 - Sanctions and international relations
 topic_tags:
-  - "civil unrest"
-  - "conflict, war and peace"
-  - "crime, law and justice"
-  - "disaster, accident and emergency incident"
-  - "international relations"
-  - "political dissent"
+- armed conflict
+- international relations
+- international military intervention
+- conflict, war and peace
 storyline_nexus:
-  - iran-war
-geographic_location: Iran, Middle East, Geneva
+- iran-nuclear-negotiations
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
-  intensity: 0.95
-- value: truthfulness
-  intensity: 0.85
-- value: accountability_of_power
   intensity: 0.9
+- value: accountability_of_power
+  intensity: 0.6
 - value: equality_fairness
-  intensity: 0.75
-- value: informed_citizenship
-  intensity: 0.88
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T01:00:06Z'
 source_cluster_id: cluster_ap_2026-02-24_iran-us-nuclear-talks-war-tensions-2f8a8
 gdelt_event_ids: []
-consensus_floor_version: 1.0
-publication_mindspec_version: 1.0
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 13
   hedges:
-    appears: 0
     alleged: 0
+    appears: 0
+    contested: 0
     attributed: 4
     reported: 9
-    contested: 0
     confirmed: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 0
-    single_source: 13
     two_independent: 0
+    one_originating_plus_primary_document: 0
+    primary_plus_secondary: 0
+    single_source: 13
+    primary_document: 0
 sources:
   count: 1
   outlets:
@@ -73,41 +67,19 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-04-20-iran-s-ceasefire-offer-sidesteps-nuclear-issue-as-talks-stall
-  relation: related
-  strength: 0.8437
-  confidence: medium
-- slug: 2026-04-15-pakistan-army-chief-meets-iran-fm-in-bid-to-restart-us-iran-talks-before-ceasefi
-  relation: related
-  strength: 0.8376
-  confidence: medium
-- slug: 2026-04-20-trump-offers-mixed-messages-about-us-war-against-iran
-  relation: related
-  strength: 0.8349
-  confidence: medium
-- slug: 2026-04-20-us-seizes-iranian-cargo-ship-near-strait-of-hormuz-iran-threatens-response
-  relation: related
-  strength: 0.8107
-  confidence: medium
-- slug: 2026-04-18-iran-war-energy-crisis-accelerates-nuclear-power-plans-in-asia-and-africa
-  relation: related
-  strength: 0.8099
-  confidence: medium
-- slug: 2026-05-17-iran-rejects-us-uranium-demands-says-talks-stalled-on-maximalist-stance
-  relation: related
-  strength: 0.8073
-  confidence: medium
-- slug: 2026-04-19-us-seizes-iranian-cargo-ship-as-ceasefire-falters-and-talks-hang-in-doubt
-  relation: related
-  strength: 0.7933
-  confidence: medium
-- slug: 2026-04-18-iran-announces-hormuz-reopening-as-blockade-standoff-continues
-  relation: related
-  strength: 0.7921
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Iranians worry as the last-chance round of talks with US nears
+- The United States has assembled its greatest military firepower in decades in the Middle East.
+- The next round of talks with the United States is scheduled for Thursday in Geneva.
+- Iran's Foreign Minister Abbas Araghchi stated Iran heads into the Thursday talks with a determination to achieve a fair and equitable deal in the shortest possible time.
+- At least 16 U.S. Navy ships will be assembled in the region, including the aircraft carriers USS Abraham Lincoln and USS Gerald R. Ford.
 
 With the largest military force deployed to the Middle East in decades, the United States enters nuclear negotiations with Iran in Geneva this week, even as Iranians worry the massive American presence signals an imminent military strike. The talks, scheduled for Thursday, represent what many see as a final opportunity for diplomacy after years of escalating tensions and a deadly crackdown on dissent inside Iran.
 
@@ -159,120 +131,146 @@ Whether that diplomatic path holds depends on decisions made by both capitals in
 
 ## Atomic claims
 
-### c_001 — reported, single source
-**Subject entities:** United States military
-**Predicate:** assembled
-**Object:** greatest military firepower in decades in Middle East (military_capability)
-**Temporal:** 2026-02-24
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** United States military
+- **Predicate:** assembled
+- **Object:** greatest military firepower in decades in Middle East (military_capability)
+- **Temporal:** 2026-02-24
+- **Sources:** src_001
 
 > The United States has assembled its greatest military firepower in decades in the Middle East.
 
-### c_002 — attributed, single source
-**Subject entities:** Iran; United States
-**Predicate:** scheduled_talks
-**Object:** Thursday in Geneva (event_timing_location)
-**Temporal:** 2026-02-24
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Iran; United States
+- **Predicate:** scheduled_talks
+- **Object:** Thursday in Geneva (event_timing_location)
+- **Temporal:** 2026-02-24
+- **Sources:** src_001
 
 > The next round of talks with the United States is scheduled for Thursday in Geneva.
 
-### c_003 — attributed, single source
-**Subject entities:** Abbas Araghchi; Iran
-**Predicate:** stated_intention
-**Object:** determination to achieve fair and equitable deal in shortest possible time (diplomatic_position)
-**Temporal:** 2026-02-24
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Abbas Araghchi; Iran
+- **Predicate:** stated_intention
+- **Object:** determination to achieve fair and equitable deal in shortest possible time (diplomatic_position)
+- **Temporal:** 2026-02-24
+- **Sources:** src_001
 
 > Iran's Foreign Minister Abbas Araghchi stated Iran heads into the Thursday talks with a determination to achieve a fair and equitable deal in the shortest possible time.
 
-### c_004 — reported, single source
-**Subject entities:** U.S. Navy; USS Abraham Lincoln; USS Gerald R. Ford
-**Predicate:** deployed
-**Object:** at least 16 Navy ships including 2 aircraft carriers (military_deployment)
-**Temporal:** 2026-02-24
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Navy; USS Abraham Lincoln; USS Gerald R. Ford
+- **Predicate:** deployed
+- **Object:** at least 16 Navy ships including 2 aircraft carriers (military_deployment)
+- **Temporal:** 2026-02-24
+- **Sources:** src_001
 
 > At least 16 U.S. Navy ships will be assembled in the region, including the aircraft carriers USS Abraham Lincoln and USS Gerald R. Ford.
 
-### c_005 — reported, single source
-**Subject entities:** United States; F-22 stealth fighter jets; Israel
-**Predicate:** moved_to_base
-**Object:** 12 F-22 stealth fighters to Israel base (military_deployment)
-**Temporal:** 2026-02-24
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** United States; F-22 stealth fighter jets; Israel
+- **Predicate:** moved_to_base
+- **Object:** 12 F-22 stealth fighters to Israel base (military_deployment)
+- **Temporal:** 2026-02-24
+- **Sources:** src_001
 
 > The United States moved 12 F-22 stealth fighter jets to a base in Israel on Tuesday.
 
-### c_006 — reported, single source
-**Subject entities:** Donald Trump
-**Predicate:** claimed_death_toll
-**Object:** 32,000 people killed in protests (casualty_claim)
-**Temporal:** 2026-02-24
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** claimed_death_toll
+- **Object:** 32,000 people killed in protests (casualty_claim)
+- **Temporal:** 2026-02-24
+- **Sources:** src_001
 
 > Trump said at least 32,000 people were killed in the recent protests, which is at the further end of estimates over the death toll.
 
-### c_007 — reported, single source
-**Subject entities:** Human Rights Activist News Agency
-**Predicate:** counted_deaths
-**Object:** more than 7,000 dead, estimates higher (casualty_count)
-**Temporal:** 2026-02-24
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Human Rights Activist News Agency
+- **Predicate:** counted_deaths
+- **Object:** more than 7,000 dead, estimates higher (casualty_count)
+- **Temporal:** 2026-02-24
+- **Sources:** src_001
 
 > The U.S.-based Human Rights Activist News Agency has counted more than 7,000 dead and believes the death toll is far higher.
 
-### c_008 — attributed, single source
-**Subject entities:** Iran government
-**Predicate:** stated_death_toll
-**Object:** 3,117 people killed (casualty_count)
-**Temporal:** 2026-02-24
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Iran government
+- **Predicate:** stated_death_toll
+- **Object:** 3,117 people killed (casualty_count)
+- **Temporal:** 2026-02-24
+- **Sources:** src_001
 
 > Iran's government said 3,117 people were killed in the protests.
 
-### c_009 — reported, single source
-**Subject entities:** Iran; Donald Trump
-**Predicate:** disagree_on_uranium_enrichment
-**Object:** uranium enrichment continuation vs. cessation (policy_disagreement)
-**Temporal:** 2026-02-24
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Iran; Donald Trump
+- **Predicate:** disagree_on_uranium_enrichment
+- **Object:** uranium enrichment continuation vs. cessation (policy_disagreement)
+- **Temporal:** 2026-02-24
+- **Sources:** src_001
 
 > Iran wants to continue enriching uranium, something Trump has repeatedly said must stop.
 
-### c_010 — reported, single source
-**Subject entities:** Iran; Donald Trump
-**Predicate:** refused_to_discuss
-**Object:** ballistic missiles and regional proxy support (negotiation_issue)
-**Temporal:** 2026-02-24
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Iran; Donald Trump
+- **Predicate:** refused_to_discuss
+- **Object:** ballistic missiles and regional proxy support (negotiation_issue)
+- **Temporal:** 2026-02-24
+- **Sources:** src_001
 
 > Iran has refused to discuss its ballistic missile arsenal or its support of regional proxy forces, which Trump has demanded.
 
-### c_011 — attributed, single source
-**Subject entities:** Esmail Baghaei; Steve Witkoff
-**Predicate:** rejected_characterization
-**Object:** rejected capitulation characterization (diplomatic_response)
-**Temporal:** 2026-02-24
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Esmail Baghaei; Steve Witkoff
+- **Predicate:** rejected_characterization
+- **Object:** rejected capitulation characterization (diplomatic_response)
+- **Temporal:** 2026-02-24
+- **Sources:** src_001
 
 > Iran's Foreign Minister stated the word capitulation does not exist in the Iranians' dictionary in response to Trump's envoy saying Iran hadn't capitulated.
 
-### c_012 — reported, single source
-**Subject entities:** Iran Revolutionary Guard; Iranian state television
-**Predicate:** conducted_military_drill
-**Object:** missile, drone, and gun exercises on coast (military_exercise)
-**Temporal:** 2026-02-24
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Iran Revolutionary Guard; Iranian state television
+- **Predicate:** conducted_military_drill
+- **Object:** missile, drone, and gun exercises on coast (military_exercise)
+- **Temporal:** 2026-02-24
+- **Sources:** src_001
 
 > Iranian state television said the country's Revolutionary Guard held a drill that included launching missiles, flying drones and firing guns at targets along its coast.
 
-### c_013 — reported, single source
-**Subject entities:** CIA
-**Predicate:** published_contact_instructions
-**Object:** Farsi-language instructions for secure CIA contact (intelligence_operation)
-**Temporal:** 2026-02-24
-**Source IDs:** src_001
+### c_013
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** CIA
+- **Predicate:** published_contact_instructions
+- **Object:** Farsi-language instructions for secure CIA contact (intelligence_operation)
+- **Temporal:** 2026-02-24
+- **Sources:** src_001
 
 > The CIA published instructions in Farsi online on how Iranians can securely contact the spy agency.
 
@@ -281,10 +279,5 @@ Whether that diplomatic path holds depends on decisions made by both capitals in
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Jon Gambrell
 **Publication date:** 2026-02-24
-**Access date:** 2026-02-24
 **Title:** Iranians worry as the last-chance round of talks with US nears
 **URL:** https://apnews.com/article/iran-us-nuclear-talks-war-tensions-2f8a810f852655bdede724d300cc72c3
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

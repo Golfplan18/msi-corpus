@@ -15,8 +15,9 @@ primary_themes:
 - military personnel
 - international extradition
 topic_tags:
-  - "conflict, war and peace"
-storyline_nexus: []
+- conflict, war and peace
+storyline_nexus:
+- us-immigration-enforcement
 geographic_location: Norfolk, Virginia, United States
 floor_values_engaged:
 - value: informed_citizenship
@@ -76,14 +77,6 @@ cross_article_links:
   relation: related
   strength: 0.807
   confidence: medium
-- slug: 2025-12-31-california-farmer-pleads-not-guilty-in-arizona-wife-s-shooting-death
-  relation: related
-  strength: 0.8017
-  confidence: medium
-- slug: 2025-12-31-california-farmer-pleads-not-guilty-to-killing-estranged-wife-in-arizona
-  relation: related
-  strength: 0.7957
-  confidence: medium
 - slug: 2026-01-11-virginia-man-goes-to-trial-in-double-homicide-au-pair-pleaded-guilty-to-manslaug
   relation: related
   strength: 0.7612
@@ -113,129 +106,157 @@ Online court records did not list an attorney who could comment on Varela's beha
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** David Varela
-**Predicate:** returned_to
-**Object:** United States (location)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** David Varela
+- **Predicate:** returned_to
+- **Object:** United States (location)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > David Varela was returned to the United States on Wednesday, April 15, 2026.
 
-### c_002 — attributed, single source
-**Subject entities:** David Varela
-**Predicate:** faces_charges_in
-**Object:** California, federal (legal_status)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** David Varela
+- **Predicate:** faces_charges_in
+- **Object:** California, federal (legal_status)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > Varela remains in California facing federal charges.
 
-### c_003 — attributed, primary document
-**Subject entities:** David Varela; Lisa Maria Guerra Echavarria
-**Predicate:** charged_with
-**Object:** first-degree murder (criminal_charge)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** David Varela; Lisa Maria Guerra Echavarria
+- **Predicate:** charged_with
+- **Object:** first-degree murder (criminal_charge)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > Varela faces a first-degree murder charge in the death of Lisa Maria Guerra Echavarria.
 
-### c_004 — confirmed, primary document
-**Subject entities:** Lisa Maria Guerra Echavarria; David Varela
-**Predicate:** found_dead_in
-**Object:** kitchen freezer, Norfolk apartment (location)
-**Temporal:** 2026-02-05
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Lisa Maria Guerra Echavarria; David Varela
+- **Predicate:** found_dead_in
+- **Object:** kitchen freezer, Norfolk apartment (location)
+- **Temporal:** 2026-02-05
+- **Sources:** src_001
 
 > Lisa Maria Guerra Echavarria's body was found in the kitchen freezer of the Norfolk apartment she shared with Varela on Feb. 5, 2026.
 
-### c_005 — attributed, single source
-**Subject entities:** David Varela
-**Predicate:** was_serving_as
-**Object:** U.S. Navy Reservist on active duty (military_role)
-**Temporal:** 2026-02-05
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** David Varela
+- **Predicate:** was_serving_as
+- **Object:** U.S. Navy Reservist on active duty (military_role)
+- **Temporal:** 2026-02-05
+- **Sources:** src_001
 
 > David Varela, 38, was a U.S. Navy Reservist on active duty at the time of the search.
 
-### c_006 — attributed, single source
-**Subject entities:** Lisa Maria Guerra Echavarria
-**Predicate:** reported_missing_by
-**Object:** brother, no contact more than two weeks (person_relationship)
-**Temporal:** 2026-02-05
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Lisa Maria Guerra Echavarria
+- **Predicate:** reported_missing_by
+- **Object:** brother, no contact more than two weeks (person_relationship)
+- **Temporal:** 2026-02-05
+- **Sources:** src_001
 
 > Echavarria's brother reported her missing after having no contact with her for more than two weeks.
 
-### c_007 — attributed, single source
-**Subject entities:** David Varela
-**Predicate:** failed_to_respond_to
-**Object:** supervisor calls, characterized as unusual (behavior)
-**Temporal:** 2026-02-05
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** David Varela
+- **Predicate:** failed_to_respond_to
+- **Object:** supervisor calls, characterized as unusual (behavior)
+- **Temporal:** 2026-02-05
+- **Sources:** src_001
 
 > Varela had not responded to calls from his military supervisor, who told police the silence was unusual.
 
-### c_008 — attributed, single source
-**Subject entities:** Lisa Maria Guerra Echavarria
-**Predicate:** identified_by
-**Object:** preliminary fingerprints (forensic_method)
-**Temporal:** 2026-02-05
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Lisa Maria Guerra Echavarria
+- **Predicate:** identified_by
+- **Object:** preliminary fingerprints (forensic_method)
+- **Temporal:** 2026-02-05
+- **Sources:** src_001
 
 > Preliminary fingerprints identified the woman found in the freezer as Lisa Maria Guerra Echavarria.
 
-### c_009 — confirmed, primary document
-**Subject entities:** Lisa Maria Guerra Echavarria; Virginia Office of the Chief Medical Examiner
-**Predicate:** ruled_death
-**Object:** homicide (medical_legal_finding)
-**Temporal:** 2026-02-05
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Lisa Maria Guerra Echavarria; Virginia Office of the Chief Medical Examiner
+- **Predicate:** ruled_death
+- **Object:** homicide (medical_legal_finding)
+- **Temporal:** 2026-02-05
+- **Sources:** src_001
 
 > The Virginia Office of the Chief Medical Examiner ruled Echavarria's death a homicide.
 
-### c_010 — attributed, single source
-**Subject entities:** David Varela; Homeland Security Investigations
-**Predicate:** departed_to
-**Object:** Hong Kong, around Feb. 5, 2026 (location_temporal)
-**Temporal:** 2026-02-05
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** David Varela; Homeland Security Investigations
+- **Predicate:** departed_to
+- **Object:** Hong Kong, around Feb. 5, 2026 (location_temporal)
+- **Temporal:** 2026-02-05
+- **Sources:** src_001
 
 > Homeland Security Investigations determined that Varela took a flight to Hong Kong around Feb. 5, 2026, the day police searched his apartment.
 
-### c_011 — attributed, primary document
-**Subject entities:** David Varela; WhatsApp
-**Predicate:** location_data_showed
-**Object:** Hong Kong (location)
-**Temporal:** 2026-02-05
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** David Varela; WhatsApp
+- **Predicate:** location_data_showed
+- **Object:** Hong Kong (location)
+- **Temporal:** 2026-02-05
+- **Sources:** src_001
 
 > Emergency disclosure requests from WhatsApp produced location data originating in Hong Kong for Varela.
 
-### c_012 — confirmed, primary document
-**Subject entities:** David Varela
-**Predicate:** arrested_on
-**Object:** unlawful flight warrant, San Francisco federal court (legal_instrument)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_012
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** David Varela
+- **Predicate:** arrested_on
+- **Object:** unlawful flight warrant, San Francisco federal court (legal_instrument)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > A notice filed Wednesday in federal court in San Francisco states Varela was arrested on an unlawful flight warrant and accused of fleeing to Hong Kong to avoid prosecution for first-degree murder and concealing a dead body.
 
-### c_013 — attributed, single source
-**Subject entities:** Kash Patel
-**Predicate:** announced_via
-**Object:** social media post (announcement)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Kash Patel
+- **Predicate:** announced_via
+- **Object:** social media post (announcement)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > FBI Director Kash Patel announced Varela's apprehension in a social media post, saying 'justice doesn't forget.'
 
-### c_014 — confirmed, primary document
-**Subject entities:** David Varela
-**Predicate:** no_attorney_listed_in
-**Object:** online court records (legal_record)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_014
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** David Varela
+- **Predicate:** no_attorney_listed_in
+- **Object:** online court records (legal_record)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > Online court records do not list an attorney who could comment on Varela's behalf.
 
@@ -246,7 +267,3 @@ Online court records did not list an attorney who could comment on Varela's beha
 **Access date:** 2026-05-17
 **Title:** Navy Reservist arrested, accused of fleeing to Hong Kong after wife's death
 **URL:** https://apnews.com/article/norfolk-virginia-body-freezer-husband-hong-kong-5010027abaebc28c7a8d84f53cecb57b
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

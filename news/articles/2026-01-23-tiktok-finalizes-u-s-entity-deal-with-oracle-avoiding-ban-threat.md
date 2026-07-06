@@ -22,44 +22,42 @@ primary_themes:
 - regulation
 - u_s_china_relations
 topic_tags:
-  - "armed conflict"
-  - "artificial intelligence"
-  - "conflict, war and peace"
-  - "economy, business and finance"
-  - government
-  - politics
-storyline_nexus: []
+- economy, business and finance
+- computing and information technology
+- social media
+- government policy
+- international relations
+storyline_nexus:
+- us-china-competition
 geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.9
 - value: accountability_of_power
+  intensity: 0.9
+- value: informed_citizenship
   intensity: 0.6
-- value: truthfulness
-  intensity: 0.8
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:59:14Z'
 source_cluster_id: cluster_ap_2026-01-26_tiktok-deal-us-china-eccb46c3bfee4cf3d36
 gdelt_event_ids: []
-consensus_floor_version: 1.0.0
-publication_mindspec_version: 1.0.0
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 19
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 3
-    reported: 13
     contested: 0
+    appears: 0
+    attributed: 3
     confirmed: 3
+    reported: 13
+    alleged: 0
   corroboration:
-    primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
     primary_document: 14
-    single_source: 5
+    primary_plus_secondary: 0
     two_independent: 0
+    single_source: 5
 sources:
   count: 1
   outlets:
@@ -73,25 +71,16 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-09-supreme-court-to-take-up-cisco-s-bid-to-shut-down-falun-gong-surveillance-lawsui
-  relation: related
-  strength: 0.7558
-  confidence: medium
-- slug: 2026-01-09-trump-administration-approves-nevada-s-170m-broadband-plan-after-earlier-resciss
-  relation: related
-  strength: 0.74
-  confidence: medium
-- slug: 2026-01-09-meta-secures-nuclear-power-deals-with-terrapower-oklo-and-vistra-for-ohio-ai-dat
-  relation: related
-  strength: 0.7339
-  confidence: medium
-- slug: 2026-01-09-grok-restricts-image-generation-for-free-users-after-deepfake-backlash-but-regul
-  relation: related
-  strength: 0.7328
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- - "economy, business and finance"
+- - value: accountability_of_power
 
 TikTok finalized a deal on January 23 to form a new American entity with major investors including Oracle, Silver Lake and the Emirati firm MGX, clearing away the threat of a ban that had loomed for years over the platform used by more than 200 million Americans. The new structure preserves user access while establishing safeguards over data protection, algorithm security, content moderation and software integrity.
 
@@ -129,174 +118,212 @@ The agreement represents the first substantial resolution to a question that has
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** TikTok; Oracle; Silver Lake; MGX
-**Predicate:** finalized_deal_to_form
-**Object:** new American joint venture entity (business_agreement)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** TikTok; Oracle; Silver Lake; MGX
+- **Predicate:** finalized_deal_to_form
+- **Object:** new American joint venture entity (business_agreement)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > TikTok finalized a deal to form a new American entity with Oracle, Silver Lake, and the Emirati investment firm MGX.
 
-### c_002 — attributed, primary document
-**Subject entities:** TikTok U.S. entity
-**Predicate:** will_operate_with_safeguards
-**Object:** data protections, algorithm security, content moderation, software assurances (operational_commitments)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** TikTok U.S. entity
+- **Predicate:** will_operate_with_safeguards
+- **Object:** data protections, algorithm security, content moderation, software assurances (operational_commitments)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > The new TikTok entity will operate with safeguards for national security through comprehensive data protections, algorithm security, content moderation and software assurances.
 
-### c_003 — reported, single source
-**Subject entities:** TikTok
-**Predicate:** used_by
-**Object:** 200 million Americans (user_count)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** TikTok
+- **Predicate:** used_by
+- **Object:** 200 million Americans (user_count)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > TikTok is used by more than 200 million Americans.
 
-### c_004 — reported, primary document
-**Subject entities:** Adam Presser
-**Predicate:** will_lead_as
-**Object:** CEO of new TikTok U.S. entity (position_assignment)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Adam Presser
+- **Predicate:** will_lead_as
+- **Object:** CEO of new TikTok U.S. entity (position_assignment)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > Adam Presser, who previously worked as TikTok's head of operations and trust and safety, will lead the new venture as CEO.
 
-### c_005 — reported, primary document
-**Subject entities:** TikTok U.S. entity board; Shou Chew
-**Predicate:** governed_by
-**Object:** seven-member majority-American board including Shou Chew (governance_structure)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** TikTok U.S. entity board; Shou Chew
+- **Predicate:** governed_by
+- **Object:** seven-member majority-American board including Shou Chew (governance_structure)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > A seven-member board of directors with a majority of American members will govern the new entity, including TikTok CEO Shou Chew.
 
-### c_006 — confirmed, primary document
-**Subject entities:** Donald Trump; Xi Jinping
-**Predicate:** praised_and_thanked
-**Object:** TikTok deal approval (public_statement)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Donald Trump; Xi Jinping
+- **Predicate:** praised_and_thanked
+- **Object:** TikTok deal approval (public_statement)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > President Donald Trump praised the deal in a Truth Social post, thanking Xi Jinping for working with the U.S. and approving the deal.
 
-### c_007 — reported, primary document
-**Subject entities:** U.S. Congress; Joe Biden
-**Predicate:** passed_and_signed
-**Object:** TikTok divestment requirement law (legislation)
-**Temporal:** 2024-2025
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Congress; Joe Biden
+- **Predicate:** passed_and_signed
+- **Object:** TikTok divestment requirement law (legislation)
+- **Temporal:** 2024-2025
+- **Sources:** src_001
 
 > Congress passed a law requiring TikTok to find a new owner or face a ban, and President Biden signed it.
 
-### c_008 — reported, single source
-**Subject entities:** TikTok
-**Predicate:** went_dark_at_deadline
-**Object:** several hours outage (service_disruption)
-**Temporal:** 2025-01
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** TikTok
+- **Predicate:** went_dark_at_deadline
+- **Object:** several hours outage (service_disruption)
+- **Temporal:** 2025-01
+- **Sources:** src_001
 
 > The ban deadline was set for January 2025, and the platform went dark for several hours when the deadline arrived.
 
-### c_009 — reported, primary document
-**Subject entities:** Donald Trump
-**Predicate:** signed_executive_order
-**Object:** keep TikTok operating while seeking sale agreement (executive_action)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Donald Trump
+- **Predicate:** signed_executive_order
+- **Object:** keep TikTok operating while seeking sale agreement (executive_action)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > On his first day in office, President Trump signed an executive order directing his administration to seek an agreement for TikTok's continued operation.
 
-### c_010 — reported, primary document
-**Subject entities:** Oracle; TikTok U.S. entity
-**Predicate:** will_store
-**Object:** U.S. user data locally (data_storage_commitment)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Oracle; TikTok U.S. entity
+- **Predicate:** will_store
+- **Object:** U.S. user data locally (data_storage_commitment)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > U.S. user data will be stored locally in a system run by Oracle.
 
-### c_011 — reported, primary document
-**Subject entities:** TikTok algorithm
-**Predicate:** will_be_retrained_on
-**Object:** U.S. user data (algorithm_modification)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** TikTok algorithm
+- **Predicate:** will_be_retrained_on
+- **Object:** U.S. user data (algorithm_modification)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > TikTok's content recommendation algorithm will be retrained, tested and updated on U.S. user data.
 
-### c_012 — reported, single source
-**Subject entities:** China
-**Predicate:** maintained_requirement
-**Object:** algorithm must remain under Chinese control (prior_position)
-**Temporal:** prior-to-2026
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** China
+- **Predicate:** maintained_requirement
+- **Object:** algorithm must remain under Chinese control (prior_position)
+- **Temporal:** prior-to-2026
+- **Sources:** src_001
 
 > China previously maintained that TikTok's algorithm must remain under Chinese control by law.
 
-### c_013 — reported, primary document
-**Subject entities:** ByteDance; TikTok U.S. entity
-**Predicate:** will_license
-**Object:** algorithm to U.S. entity (business_arrangement)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_013
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** ByteDance; TikTok U.S. entity
+- **Predicate:** will_license
+- **Object:** algorithm to U.S. entity (business_arrangement)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > Under the terms of the deal, ByteDance would license the algorithm to the U.S. entity for retraining.
 
-### c_014 — confirmed, primary document
-**Subject entities:** U.S. law
-**Predicate:** prohibits
-**Object:** ByteDance-new-ownership algorithm cooperation (legal_prohibition)
-**Temporal:** 2024-2025
-**Source IDs:** src_001
+### c_014
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. law
+- **Predicate:** prohibits
+- **Object:** ByteDance-new-ownership algorithm cooperation (legal_prohibition)
+- **Temporal:** 2024-2025
+- **Sources:** src_001
 
 > The U.S. law prohibits any cooperation between ByteDance and the new American ownership group with respect to content recommendation algorithm operation.
 
-### c_015 — attributed, single source
-**Subject entities:** Anupam Chander; TikTok algorithm control
-**Predicate:** noted_significance
-**Object:** algorithm control determines content visibility (expert_assessment)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Anupam Chander; TikTok algorithm control
+- **Predicate:** noted_significance
+- **Object:** algorithm control determines content visibility (expert_assessment)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > Anupam Chander, a professor of law and technology at Georgetown University, said: "Who controls TikTok in the U.S. has a lot of sway over what Americans see on the app."
 
-### c_016 — reported, primary document
-**Subject entities:** Oracle; Silver Lake; MGX
-**Predicate:** hold_stakes_of
-**Object:** 15 percent each (ownership_percentage)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_016
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Oracle; Silver Lake; MGX
+- **Predicate:** hold_stakes_of
+- **Object:** 15 percent each (ownership_percentage)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > Oracle, Silver Lake and MGX each hold 15 percent as managing investors in the new entity.
 
-### c_017 — reported, primary document
-**Subject entities:** Michael Dell investment firm
-**Predicate:** is_investor_in
-**Object:** TikTok U.S. entity (investor_participation)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_017
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Michael Dell investment firm
+- **Predicate:** is_investor_in
+- **Object:** TikTok U.S. entity (investor_participation)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > Michael Dell's investment firm is among other investors in the new TikTok entity.
 
-### c_018 — reported, primary document
-**Subject entities:** ByteDance
-**Predicate:** retains_stake_of
-**Object:** 19.9 percent (ownership_percentage)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_018
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** ByteDance
+- **Predicate:** retains_stake_of
+- **Object:** 19.9 percent (ownership_percentage)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > ByteDance retains 19.9 percent of the joint venture.
 
-### c_019 — attributed, single source
-**Subject entities:** Guo Jiakun; China
-**Predicate:** stated_position
-**Object:** China's position on TikTok consistent and clear (official_statement)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_019
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Guo Jiakun; China
+- **Predicate:** stated_position
+- **Object:** China's position on TikTok consistent and clear (official_statement)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > Guo Jiakun, a Chinese Foreign Ministry spokesperson, said Friday: "China's position on TikTok has been consistent and clear."
 
@@ -305,10 +332,5 @@ The agreement represents the first substantial resolution to a question that has
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Kaitlyn Huamani
 **Publication date:** 2026-01-23
-**Access date:** 2026-01-23
 **Title:** TikTok finalizes a deal to form a new US unit
 **URL:** https://apnews.com/article/tiktok-deal-us-china-eccb46c3bfee4cf3d362a01fe4968a4f
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

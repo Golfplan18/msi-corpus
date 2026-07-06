@@ -25,7 +25,7 @@ topic_tags:
   - "education"
   - "school"
 storyline_nexus:
-  - iran-war
+- the-iran-war
 geographic_location: Minab, Hormozgan Province, Iran
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -388,7 +388,3 @@ Reports also indicate that airstrikes hit other schools in Iran during the ongoi
 **Access date:** 2026-03-06
 **Title:** Experts say Iran school blast likely targeted airstrike
 **URL:** https://apnews.com/article/iran-minab-girls-school-airstrike-us-israel-c3095dc9729881b567277a1c5c47efb2
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -15,47 +15,43 @@ primary_themes:
 - international tension
 - military movements
 topic_tags:
-  - "civil unrest"
-  - "conflict, war and peace"
-  - "crime, law and justice"
-  - "international relations"
-  - "law enforcement"
-  - "political dissent"
+- civil unrest
+- political dissent
+- government
+- fundamental rights
 storyline_nexus:
-  - iran-war
-geographic_location: Iran
+- iran-nuclear-negotiations
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
-  intensity: 0.95
-- value: truthfulness
-  intensity: 0.85
+  intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.8
-- value: informed_citizenship
-  intensity: 0.75
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+  intensity: 0.9
+- value: truthfulness
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:57:14Z'
 source_cluster_id: cluster_ap_2026-01-22_iran-protests-araghchi-trump-threat-crac
 gdelt_event_ids: []
-consensus_floor_version: '1.0'
-publication_mindspec_version: '1.0'
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 11
   hedges:
-    appears: 1
+    confirmed: 0
     alleged: 2
     attributed: 3
     reported: 5
     contested: 0
-    confirmed: 0
+    appears: 1
   corroboration:
-    primary_plus_secondary: 0
+    two_independent: 0
     one_originating_plus_primary_document: 0
     primary_document: 4
     single_source: 7
-    two_independent: 0
+    primary_plus_secondary: 0
 sources:
   count: 1
   outlets:
@@ -69,41 +65,17 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-13-iran-protest-death-toll-reaches-2-571-as-iranians-make-first-calls-in-days
-  relation: continues
-  strength: 0.9053
-  confidence: high
-- slug: 2026-01-10-iran-protest-death-toll-reaches-116-as-attorney-general-warns-of-death-penalty
-  relation: continues
-  strength: 0.876
-  confidence: high
-- slug: 2026-01-11-iran-protest-death-toll-reaches-544-as-trump-says-tehran-is-seeking-talks
-  relation: continues
-  strength: 0.8587
-  confidence: high
-- slug: 2026-01-12-iran-protest-death-toll-reaches-646-as-trump-imposes-tariffs-signals-openness-to
-  relation: continues
-  strength: 0.8437
-  confidence: high
-- slug: 2026-01-12-iran-protest-death-toll-reaches-646-as-trump-orders-tariffs-cites-diplomacy
-  relation: continues
-  strength: 0.8376
-  confidence: high
-- slug: 2026-01-09-iran-protests-continue-as-khamenei-signals-crackdown-at-least-65-killed
-  relation: continues
-  strength: 0.8484
-  confidence: high
-- slug: 2026-01-12-ap-relies-on-u-s--based-rights-group-to-track-iran-protest-death-toll-amid-black
-  relation: continues
-  strength: 0.8237
-  confidence: high
-- slug: 2026-01-13-trump-tells-iranian-protesters-help-is-on-its-way-as-u-s-weighs-options
-  relation: related
-  strength: 0.813
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- - Human Rights Activists News Agency
+- - value: human_life_and_dignity
+- - value: accountability_of_power
 
 Iran's government announced Wednesday a first official death toll of 3,117 people killed in nationwide protests that began December 28, a figure significantly lower than independent monitoring groups' estimates. The Interior Ministry and the Foundation of Martyrs and Veterans Affairs, an official government body, released the figures on state television, even as the U.S.-based Human Rights Activists News Agency reported the toll had reached at least 4,902.
 
@@ -145,101 +117,123 @@ U.S. President Donald Trump has set two conditions that would trigger a more for
 
 ## Atomic claims
 
-### c_001 — attributed, primary document
-**Subject entities:** Iran government; nationwide protests
-**Predicate:** announced_death_toll
-**Object:** 3,117 (casualty_count)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Iran government; nationwide protests
+- **Predicate:** announced_death_toll
+- **Object:** 3,117 (casualty_count)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > Iran announced a first official death toll of 3,117 people killed in nationwide protests that began December 28.
 
-### c_002 — attributed, primary document
-**Subject entities:** Iran Interior Ministry; Foundation of Martyrs and Veterans Affairs
-**Predicate:** stated_composition_of_casualties
-**Object:** 2,427 civilians and security forces (casualty_breakdown)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Iran Interior Ministry; Foundation of Martyrs and Veterans Affairs
+- **Predicate:** stated_composition_of_casualties
+- **Object:** 2,427 civilians and security forces (casualty_breakdown)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > The Interior Ministry and Foundation of Martyrs and Veterans Affairs said 2,427 of the dead were civilians and security forces.
 
-### c_003 — reported, single source
-**Subject entities:** Human Rights Activists News Agency
-**Predicate:** reported_death_toll
-**Object:** at least 4,902 (casualty_count)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Human Rights Activists News Agency
+- **Predicate:** reported_death_toll
+- **Object:** at least 4,902 (casualty_count)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > The Human Rights Activists News Agency reported the death toll was at least 4,902.
 
-### c_004 — reported, single source
-**Subject entities:** Iran government
-**Predicate:** historical_pattern_of_undercount
-**Object:** systematic undercount of casualties (pattern)
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Iran government
+- **Predicate:** historical_pattern_of_undercount
+- **Object:** systematic undercount of casualties (pattern)
+- **Sources:** src_001
 
 > Iran's government has historically undercounted or not reported fatalities from unrest.
 
-### c_005 — attributed, primary document
-**Subject entities:** Abbas Araghchi
-**Predicate:** issued_warning
-**Object:** military response to renewed attack (threat)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Abbas Araghchi
+- **Predicate:** issued_warning
+- **Object:** military response to renewed attack (threat)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > Foreign Minister Abbas Araghchi warned the Islamic Republic will be 'firing back with everything we have if we come under renewed attack.'
 
-### c_006 — reported, single source
-**Subject entities:** World Economic Forum; Abbas Araghchi
-**Predicate:** rescinded_invitation
-**Object:** cancellation of Davos attendance (diplomatic_action)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** World Economic Forum; Abbas Araghchi
+- **Predicate:** rescinded_invitation
+- **Object:** cancellation of Davos attendance (diplomatic_action)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > Araghchi's invitation to the World Economic Forum in Davos was rescinded over the killings.
 
-### c_007 — reported, primary document
-**Subject entities:** USS Abraham Lincoln; United States military
-**Predicate:** moved_westward
-**Object:** carrier strike group movement to Middle East (military_movement)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** USS Abraham Lincoln; United States military
+- **Predicate:** moved_westward
+- **Object:** carrier strike group movement to Middle East (military_movement)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > A U.S. aircraft carrier group moved west toward the Middle East from Asia.
 
-### c_008 — reported, single source
-**Subject entities:** Iran government; Human Rights Activists News Agency
-**Predicate:** arrested
-**Object:** 26,500 (arrest_count)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Iran government; Human Rights Activists News Agency
+- **Predicate:** arrested
+- **Object:** 26,500 (arrest_count)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > Nearly 26,500 people have been arrested according to the Human Rights Activists News Agency.
 
-### c_009 — appears, single source
-**Subject entities:** Iranian officials; detained protesters
-**Predicate:** raised_execution_concerns
-**Object:** risk of executions of detainees (concern)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_009
+- **Hedge:** appears
+- **Corroboration:** single_source
+- **Subject entities:** Iranian officials; detained protesters
+- **Predicate:** raised_execution_concerns
+- **Object:** risk of executions of detainees (concern)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > Comments from Iranian officials have led to fears that some detainees may be put to death.
 
-### c_010 — alleged, single source
-**Subject entities:** National Army of Kurdistan; Iran
-**Predicate:** claimed_attack
-**Object:** cross-border military attack on Kurdish base (military_action)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_010
+- **Hedge:** alleged
+- **Corroboration:** single_source
+- **Subject entities:** National Army of Kurdistan; Iran
+- **Predicate:** claimed_attack
+- **Object:** cross-border military attack on Kurdish base (military_action)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > The National Army of Kurdistan claimed Iran launched an attack against one of its bases near Irbil on Wednesday.
 
-### c_011 — alleged, single source
-**Subject entities:** National Army of Kurdistan
-**Predicate:** reported_casualty
-**Object:** one fighter (casualty_count)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_011
+- **Hedge:** alleged
+- **Corroboration:** single_source
+- **Subject entities:** National Army of Kurdistan
+- **Predicate:** reported_casualty
+- **Object:** one fighter (casualty_count)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > The National Army of Kurdistan said one fighter was killed in the reported attack.
 
@@ -248,10 +242,5 @@ U.S. President Donald Trump has set two conditions that would trigger a more for
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Jon Gambrell
 **Publication date:** 2026-01-21
-**Access date:** 2026-01-21
 **Title:** Iran offers first government-issued death toll from protests
 **URL:** https://apnews.com/article/iran-protests-araghchi-trump-threat-crackdown-299375ebfd004dd6098c77a6bb8079a5
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

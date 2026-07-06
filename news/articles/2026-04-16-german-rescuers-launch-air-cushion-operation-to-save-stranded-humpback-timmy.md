@@ -19,8 +19,7 @@ topic_tags:
   - conservation
   - environment
   - sport
-storyline_nexus:
-  - ai-regulation
+storyline_nexus: []
 geographic_location: Wismar, Mecklenburg-Pomerania, Germany
 floor_values_engaged:
 - value: informed_citizenship
@@ -206,7 +205,3 @@ Police established a 500-meter (1,640-foot) protection zone around the whale to 
 **Access date:** 2026-04-16
 **Title:** Rescuers try to save stranded whale Timmy with the help of air cushions
 **URL:** https://apnews.com/article/germany-humpback-whale-stranded-baltic-timmy-facbc201aebbf1687b44665f6e8e3425
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

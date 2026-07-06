@@ -113,8 +113,6 @@ Investigators believe sparkling candles ignited the fire when they came too clos
 
 Local authorities said fire safety inspections of the bar had not been carried out since 2019.
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
 ### c_001 — confirmed, primary document
@@ -205,7 +203,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-01-23
 **Title:** Swiss court orders release on bail of bar owner Jacques Moretti in probe of fatal New Year's fire
 **URL:** https://apnews.com/article/switzerland-crans-montana-bar-fire-manager-bail-7a8b27370303990df3dc9c9ba102a95f
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

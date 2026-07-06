@@ -28,9 +28,7 @@ topic_tags:
   - "science and technology"
   - "artificial intelligence"
 storyline_nexus:
-  - us-administration-2026
-  - trump-tariff-policy
-  - us-china-relations
+- trump-tariff-wars
 geographic_location: United States; European Union
 floor_values_engaged:
 - value: informed_citizenship
@@ -126,8 +124,6 @@ Greer said he spoke with his European counterpart over the weekend and has not h
 The European Union has at its disposal the Anti-Coercion Instrument, a policy tool that can be deployed against countries the EU determines are placing undue pressure on member nations or corporations. The instrument includes measures for blocking or restricting trade and investment, curtailing the export and import of goods and services, barring countries or companies from EU public tenders, and limiting foreign direct investment.
 
 In its most severe form, the Anti-Coercion Instrument could close off access to the EU's 450-million customer market, potentially inflicting billions of dollars in losses on U.S. companies and the American economy.
-
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
 
 ## Atomic claims
 
@@ -228,7 +224,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-05-17
 **Title:** EU demands clarity from US after court strikes down Trump tariffs
 **URL:** https://apnews.com/article/eu-us-trump-tariffs-commission-trade-8c5f9fa35d9f0f13afef0ddbaf88b1f6
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

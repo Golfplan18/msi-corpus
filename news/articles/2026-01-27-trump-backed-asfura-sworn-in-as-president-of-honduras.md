@@ -21,9 +21,7 @@ topic_tags:
   - election
   - "international relations"
   - "law enforcement"
-storyline_nexus:
-  - immigration-enforcement
-  - us-administration-2026
+storyline_nexus: []
 geographic_location: Honduras
 floor_values_engaged:
 - value: accountability_of_power
@@ -125,8 +123,6 @@ Trump pardoned and freed Hernández from prison in the midst of the election—a
 ## Latin America's Rightward Shift
 
 His victory reflects a broader rightward political shift sweeping Latin America. Chile similarly elected far-right politician José Antonio Kast as president.
-
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
 
 ## Atomic claims
 
@@ -291,7 +287,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-01-27
 **Title:** Trump-backed Nasry Asfura sworn in as president of Honduras
 **URL:** https://apnews.com/article/nasry-asfura-honduras-trump-election-interference-a52838ab94b1d79efe3ba0f12e8af329
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

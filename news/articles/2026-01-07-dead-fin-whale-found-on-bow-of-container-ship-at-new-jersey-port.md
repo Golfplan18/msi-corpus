@@ -16,8 +16,12 @@ primary_themes:
 - endangered species
 - shipping
 - federal investigation
-topic_tags: []
-storyline_nexus: []
+topic_tags:
+- conservation
+- environment
+- natural disaster
+storyline_nexus:
+- extreme-weather-disasters
 geographic_location: Gloucester City, New Jersey
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -71,10 +75,6 @@ cross_article_links:
   relation: related
   strength: 0.8371
   confidence: medium
-- slug: 2026-01-03-kenya-mourns-craig-one-of-africa-s-last-super-tusker-elephants-dead-at-54
-  relation: related
-  strength: 0.698
-  confidence: medium
 draft: false
 ---
 
@@ -98,71 +98,87 @@ Despite that recovery, the animals face persistent threats. Ship strikes, fishin
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Gloucester Marine Terminal; U.S. Coast Guard
-**Predicate:** reported_dead_whale
-**Object:** Gloucester Marine Terminal (location)
-**Temporal:** 2026-01-04
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Gloucester Marine Terminal; U.S. Coast Guard
+- **Predicate:** reported_dead_whale
+- **Object:** Gloucester Marine Terminal (location)
+- **Temporal:** 2026-01-04
+- **Sources:** src_001
 
 > A dead whale was reported Sunday by the U.S. Coast Guard at the Gloucester Marine Terminal in New Jersey.
 
-### c_002 — attributed, single source
-**Subject entities:** Marine Mammal Stranding Center
-**Predicate:** working_to_remove_carcass
-**Object:** necropsy (action)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Marine Mammal Stranding Center
+- **Predicate:** working_to_remove_carcass
+- **Object:** necropsy (action)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > The Marine Mammal Stranding Center said it was working to tow the carcass away to conduct a necropsy.
 
-### c_003 — confirmed, single source
-**Subject entities:** National Oceanic and Atmospheric Administration
-**Predicate:** opened_investigation
-**Object:** whale death (subject)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** National Oceanic and Atmospheric Administration
+- **Predicate:** opened_investigation
+- **Object:** whale death (subject)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > NOAA confirmed its enforcement office has opened an investigation into the death.
 
-### c_004 — appears, single source
-**Subject entities:** fin whale
-**Predicate:** identified_as
-**Object:** 25-30 feet (measurement)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_004
+- **Hedge:** appears
+- **Corroboration:** single_source
+- **Subject entities:** fin whale
+- **Predicate:** identified_as
+- **Object:** 25-30 feet (measurement)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > The deceased animal is believed to be a fin whale between 25 and 30 feet long.
 
-### c_005 — confirmed, single source
-**Subject entities:** fin whale
-**Predicate:** physical_description
-**Object:** 85 feet, 40-80 tons (measurement)
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** fin whale
+- **Predicate:** physical_description
+- **Object:** 85 feet, 40-80 tons (measurement)
+- **Sources:** src_001
 
 > Fin whales are the second-largest animals behind the blue whale and can reach up to 85 feet long and weigh between 40 and 80 tons.
 
-### c_006 — attributed, single source
-**Subject entities:** fin whale
-**Predicate:** population_recovery
-**Object:** Atlantic Ocean (location)
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** fin whale
+- **Predicate:** population_recovery
+- **Object:** Atlantic Ocean (location)
+- **Sources:** src_001
 
 > Fin whale populations have gradually recovered in the Atlantic Ocean thanks to conservation efforts after becoming nearly extinct from commercial hunting.
 
-### c_007 — confirmed, single source
-**Subject entities:** Marine Mammal Protection Act
-**Predicate:** legal_protection
-**Object:** dolphins, porpoises, whales (species)
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Marine Mammal Protection Act
+- **Predicate:** legal_protection
+- **Object:** dolphins, porpoises, whales (species)
+- **Sources:** src_001
 
 > All dolphins, porpoises and whales are protected by the federal Marine Mammal Protection Act, which makes touching, feeding or otherwise harming them illegal.
 
-### c_008 — attributed, single source
-**Subject entities:** fin whale
-**Predicate:** threatened_by
-**Object:** ship strikes, fishing gear, climate change (threat)
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** fin whale
+- **Predicate:** threatened_by
+- **Object:** ship strikes, fishing gear, climate change (threat)
+- **Sources:** src_001
 
 > Fin whales are threatened by ship strikes, fishing gear entanglements and the effects of climate change.
 
@@ -173,7 +189,3 @@ Despite that recovery, the animals face persistent threats. Ship strikes, fishin
 **Access date:** 2026-01-07
 **Title:** Dead whale found on bow of ship docked in New Jersey
 **URL:** https://apnews.com/article/new-jersey-whale-dead-ship-7dfa8bb739371e822a8ba57965ed5725
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

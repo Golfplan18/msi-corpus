@@ -106,7 +106,7 @@ The affirmative is the one Berry's frame demands and the one the membership of a
 
 *Mark Paulson is a heteronym in Main Street Independent's editorial architecture — an analytical voice, not autobiography of any actual person. The position this column expresses is the publication's position on the territory Mark Paulson's lane covers, rendered through Mark Paulson's register.*
 
-*[About Mark Paulson](/opinion/mark-paulson) · [How the pen names work](/about#how-the-pen-names-work)*
+*[About Mark Paulson](/advocacy/mark-paulson) · [How the pen names work](/about#how-the-pen-names-work)*
 
 ## Atomic claims
 

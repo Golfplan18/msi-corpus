@@ -89,10 +89,6 @@ Australia announced a new defense strategy this week that includes an additional
 
 The first frigate is scheduled to arrive in 2029.
 
----
-
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
 ### c_001 — attributed, primary document
@@ -247,7 +243,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-05-17
 **Title:** Australia and Japan sign $6.5B warship contracts
 **URL:** https://apnews.com/article/australia-japan-frigates-contracts-mogami-3716bd636db875cc9576ae871816d201
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

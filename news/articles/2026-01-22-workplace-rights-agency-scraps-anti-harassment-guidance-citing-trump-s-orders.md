@@ -18,26 +18,20 @@ primary_themes:
 - LGBTQ+ protections
 - harassment policies
 topic_tags:
-  - discrimination
-  - politics
-  - society
-  - "government policy"
-  - labour
-storyline_nexus: []
+- civil rights
+- discrimination
+- employment
+- government policy
+storyline_nexus:
+- lgbtq-rights-restrictions
 geographic_location: United States
 floor_values_engaged:
-- value: human_life_and_dignity
-  intensity: 0.95
-- value: truthfulness
-  intensity: 0.9
-- value: accountability_of_power
-  intensity: 0.85
 - value: equality_fairness
   intensity: 0.9
-- value: informed_citizenship
-  intensity: 0.8
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18'
+- value: accountability_of_power
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:57:43Z'
 source_cluster_id: cluster_ap_2026-01-23_eeoc-harassment-workplace-gender-trump-l
 gdelt_event_ids: []
 consensus_floor_version: v0.3.0
@@ -47,17 +41,17 @@ ai_generated: true
 claims:
   count: 17
   hedges:
-    appears: 0
-    alleged: 0
     attributed: 6
-    reported: 3
-    contested: 0
     confirmed: 8
+    alleged: 0
+    reported: 3
+    appears: 0
+    contested: 0
   corroboration:
-    primary_plus_secondary: 2
-    one_originating_plus_primary_document: 0
-    primary_document: 14
     single_source: 0
+    one_originating_plus_primary_document: 0
+    primary_plus_secondary: 2
+    primary_document: 14
     two_independent: 1
 sources:
   count: 1
@@ -72,21 +66,19 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-04-16-california-bill-delays-compliance-with-federal-health-subpoenas-for-trans-aborti
-  relation: related
-  strength: 0.7054
-  confidence: medium
-- slug: 2026-01-08-federal-judge-blocks-trump-s-purge-of-dei-terms-from-head-start-grant-applicatio
-  relation: related
-  strength: 0.745
-  confidence: medium
-- slug: 2026-01-05-hhs-bars-race-women-and-disability-from-head-start-grant-applications
-  relation: related
-  strength: 0.7442
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- The federal Equal Employment Opportunity Commission voted Thursday to rescind a 190-page workplace anti-harassment guidance document, marking a significant shift in federal civil rights enforcement un…
+- The guidance had been designed to help employers comply with Title VII of the Civil Rights Act of 1964 and included specific protections for transgender workers. Commissioner Kalpana Kotagal, the comm…
+- In her 2024 dissent to the guidance, Lucas voted against the document, citing opposition to language warning employers against deliberately misgendering transgender employees or denying bathroom acces…
+- Lucas said Thursday that the commission's decision "will not leave a void where employers are free to harass wherever they see fit, leaving a trail of victims in their wake," citing recent settled har…
+- Commissioner Panuccio said private sector resources on anti-harassment law would fill any gaps left by the rescission.
 
 The federal Equal Employment Opportunity Commission voted Thursday to rescind a 190-page workplace anti-harassment guidance document, marking a significant shift in federal civil rights enforcement under President Donald Trump's second administration. The Republican-controlled agency's vote, led by Chair Andrea Lucas and Commissioner Brittany Panuccio, was justified by Trump's executive order declaring there are "two immutable sexes, male and female."
 
@@ -122,160 +114,192 @@ Kate Miceli, a protester who previously worked at the Women's Bureau at the Depa
 
 Under Lucas's leadership, the EEOC has been aggressively limiting protections for transgender workers. The agency has dropped lawsuits on their behalf and requires heightened scrutiny for complaints related to gender identity.
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public source listed under `sources`. Framework specification: /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Equal Employment Opportunity Commission
-**Predicate:** voted_to_rescind
-**Object:** 190-page workplace anti-harassment guidance document (institutional_document)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Equal Employment Opportunity Commission
+- **Predicate:** voted_to_rescind
+- **Object:** 190-page workplace anti-harassment guidance document (institutional_document)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > The EEOC voted Thursday to rescind a 190-page workplace anti-harassment guidance document.
 
-### c_002 — attributed, primary plus secondary
-**Subject entities:** Andrea Lucas; Brittany Panuccio
-**Predicate:** cited
-**Object:** Trump's executive order on two immutable sexes (policy_statement)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** Andrea Lucas; Brittany Panuccio
+- **Predicate:** cited
+- **Object:** Trump's executive order on two immutable sexes (policy_statement)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Chair Andrea Lucas and Commissioner Brittany Panuccio cited Trump's executive order declaring two immutable sexes as justification for revoking the document.
 
-### c_003 — confirmed, primary document
-**Subject entities:** EEOC guidance
-**Predicate:** designed_to_help
-**Object:** employer compliance and LGBTQ worker protections (institutional_purpose)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** EEOC guidance
+- **Predicate:** designed_to_help
+- **Object:** employer compliance and LGBTQ worker protections (institutional_purpose)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > The guidance was designed to help employers comply with Title VII of the Civil Rights Act of 1964 and included protections for transgender workers.
 
-### c_004 — confirmed, primary document
-**Subject entities:** Kalpana Kotagal
-**Predicate:** voted_against
-**Object:** rescission of anti-harassment guidance (vote)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Kalpana Kotagal
+- **Predicate:** voted_against
+- **Object:** rescission of anti-harassment guidance (vote)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Commissioner Kalpana Kotagal voted against the rescission.
 
-### c_005 — confirmed, primary document
-**Subject entities:** EEOC guidance
-**Predicate:** updated
-**Object:** April 2024, first update in 25 years (temporal_fact)
-**Temporal:** 2024-04
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** EEOC guidance
+- **Predicate:** updated
+- **Object:** April 2024, first update in 25 years (temporal_fact)
+- **Temporal:** 2024-04
+- **Sources:** src_001
 
 > The previous guidance was updated in April 2024 for the first time in 25 years.
 
-### c_006 — confirmed, primary plus secondary
-**Subject entities:** Supreme Court
-**Predicate:** extended_protections
-**Object:** employment-discrimination protections for LGBTQ workers (legal_decision)
-**Temporal:** 2020
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** Supreme Court
+- **Predicate:** extended_protections
+- **Object:** employment-discrimination protections for LGBTQ workers (legal_decision)
+- **Temporal:** 2020
+- **Sources:** src_001
 
 > The 2024 guidance update followed a 2020 Supreme Court ruling that extended employment-discrimination protections to LGBTQ workers.
 
-### c_007 — confirmed, primary document
-**Subject entities:** Equal Employment Opportunity Commission
-**Predicate:** received
-**Object:** 35,000 harassment complaints (quantified_fact)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Equal Employment Opportunity Commission
+- **Predicate:** received
+- **Object:** 35,000 harassment complaints (quantified_fact)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > The EEOC received more than 35,000 harassment complaints in fiscal year 2024.
 
-### c_008 — attributed, primary document
-**Subject entities:** Andrea Lucas
-**Predicate:** said
-**Object:** commission decision does not leave void for harassment (speech_act)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Andrea Lucas
+- **Predicate:** said
+- **Object:** commission decision does not leave void for harassment (speech_act)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Chair Lucas said the commission's decision will not leave a void where employers are free to harass wherever they see fit, leaving a trail of victims in their wake.
 
-### c_009 — attributed, primary document
-**Subject entities:** Brittany Panuccio
-**Predicate:** said
-**Object:** private sector resources will fill gaps (speech_act)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Brittany Panuccio
+- **Predicate:** said
+- **Object:** private sector resources will fill gaps (speech_act)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Commissioner Panuccio said private sector resources on anti-harassment law would fill any gaps left by the rescission.
 
-### c_010 — attributed, primary document
-**Subject entities:** Kalpana Kotagal
-**Predicate:** said
-**Object:** EEOC responded to #MeToo by creating protective guidance (speech_act)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Kalpana Kotagal
+- **Predicate:** said
+- **Object:** EEOC responded to #MeToo by creating protective guidance (speech_act)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Kotagal said at the height of the #MeToo movement millions came forward exposing harassment, and the EEOC rose to the occasion by promulgating the guidance being rescinded.
 
-### c_011 — confirmed, primary document
-**Subject entities:** worker organizations
-**Predicate:** signed_letter
-**Object:** letter urging preservation of anti-harassment guidance (documented_action)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_011
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** worker organizations
+- **Predicate:** signed_letter
+- **Object:** letter urging preservation of anti-harassment guidance (documented_action)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > More than 80 organizations, led by the National Women's Law Center, signed a letter urging Lucas to preserve the guidance.
 
-### c_012 — reported, primary document
-**Subject entities:** former federal officials
-**Predicate:** said
-**Object:** withdrawing guidance removes compliance blueprint (speech_act)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** former federal officials
+- **Predicate:** said
+- **Object:** withdrawing guidance removes compliance blueprint (speech_act)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > A group of 12 former EEOC and Department of Labor officials said withdrawing the guidance deprives employers of a clear blueprint for creating and maintaining a harassment-free workplace and complying with anti-discrimination laws.
 
-### c_013 — confirmed, primary document
-**Subject entities:** protesters
-**Predicate:** gathered
-**Object:** demonstration outside EEOC building with signs and flags (event)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_013
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** protesters
+- **Predicate:** gathered
+- **Object:** demonstration outside EEOC building with signs and flags (event)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Protesters gathered outside the EEOC building Thursday morning, holding signs demanding 'hands off the EEOC' and waving flags bearing LGBTQ+ rights logos.
 
-### c_014 — attributed, primary document
-**Subject entities:** Kate Miceli
-**Predicate:** said
-**Object:** removal of guidance is offensive (speech_act)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Kate Miceli
+- **Predicate:** said
+- **Object:** removal of guidance is offensive (speech_act)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Kate Miceli, who previously worked at the Women's Bureau at the Department of Labor, said removing the guidance is a slap in the face to worker protections.
 
-### c_015 — reported, two independent
-**Subject entities:** Andrea Lucas; Equal Employment Opportunity Commission
-**Predicate:** limited_protections
-**Object:** reduction of transgender worker protections (institutional_pattern)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_015
+- **Hedge:** reported
+- **Corroboration:** two_independent
+- **Subject entities:** Andrea Lucas; Equal Employment Opportunity Commission
+- **Predicate:** limited_protections
+- **Object:** reduction of transgender worker protections (institutional_pattern)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Under Lucas's leadership, the EEOC has dropped lawsuits on behalf of transgender workers and requires heightened scrutiny for complaints related to gender identity.
 
-### c_016 — attributed, primary document
-**Subject entities:** Andrea Lucas
-**Predicate:** voted_against
-**Object:** transgender worker bathroom and misgendering protections (policy_position)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_016
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Andrea Lucas
+- **Predicate:** voted_against
+- **Object:** transgender worker bathroom and misgendering protections (policy_position)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > In 2024, Lucas voted against the anti-harassment guidance, citing opposition to protections against deliberately misgendering transgender employees or denying bathroom access.
 
-### c_017 — reported, primary document
-**Subject entities:** former federal officials
-**Predicate:** criticized
-**Object:** foregoing notice and comment period (speech_act)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_017
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** former federal officials
+- **Predicate:** criticized
+- **Object:** foregoing notice and comment period (speech_act)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > Former EEOC and Department of Labor officials criticized Lucas for depriving the public of input by foregoing a notice and comment period on the rescission decision.
 
@@ -284,10 +308,5 @@ This article was generated algorithmically by Main Street Independent's News Art
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Claire Savage
 **Publication date:** 2026-01-22
-**Access date:** 2026-05-18
 **Title:** Workplace rights agency scraps anti-harassment guidance, citing Trump's orders
 **URL:** https://apnews.com/article/eeoc-harassment-workplace-gender-trump-lucas-lgbtq-0ac048763668ae4f8946aa26a3a6a907
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

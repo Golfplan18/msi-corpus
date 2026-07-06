@@ -15,41 +15,41 @@ primary_themes:
 - partisan tributes
 - religion in schools
 topic_tags:
-  - education
-  - "higher education"
-  - politics
-  - religion
-  - school
-storyline_nexus: []
-geographic_location: United States (Kansas, Tennessee, Louisiana, 20+ states)
+- religion
+- fundamental rights
+- education policy
+- government policy
+storyline_nexus:
+- supreme-court-constitutional-cases
+geographic_location: United States
 floor_values_engaged:
+- value: accountability_of_power
+  intensity: 0.9
 - value: informed_citizenship
-  intensity: 0.85
-- value: truthfulness
-  intensity: 0.75
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T08:22:54.445284Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:45:22Z'
 source_cluster_id: cluster_ap_2026-04-19_charlie-kirk-laws-free-speech-1ef2e977c5
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 10
   hedges:
     appears: 0
+    confirmed: 5
+    contested: 0
+    reported: 2
     alleged: 0
     attributed: 3
-    reported: 2
-    contested: 0
-    confirmed: 5
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 5
-    single_source: 5
+    primary_plus_secondary: 0
     two_independent: 0
+    single_source: 5
+    one_originating_plus_primary_document: 0
 sources:
   count: 1
   outlets:
@@ -63,17 +63,16 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-06-texas-teachers-union-sues-over-alleged-crackdown-on-posts-about-charlie-kirk
-  relation: related
-  strength: 0.7602
-  confidence: medium
-- slug: 2026-01-08-austin-peay-reinstates-professor-pays-500k-after-firing-over-charlie-kirk-post
-  relation: related
-  strength: 0.7173
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- More than 60 bills named after conservative activist Charlie Kirk have been proposed in over 20 states, according to an Associated Press analysis. The measures—ranging from campus free-speech prote...
+- The bills demonstrate how Kirk's death and political influence are being memorialized in state policy, and reveal sharply divergent views on what b...
+- Kansas Republicans enacted legislation this week despite a veto from Democratic Gov. Laura Kelly, who said the measure would "cause confusion for c...
 
 More than 60 bills named after conservative activist Charlie Kirk have been proposed in over 20 states, according to an Associated Press analysis. The measures—ranging from campus free-speech protections to requirements that public schools teach about religion's positive historical impact—come after Kirk's assassination at a Utah university in 2025. Republicans who have advanced the bills cite Kirk's ideology and legacy; Democrats have objected both to the legislation's content and to naming state laws after a partisan figure.
 
@@ -123,93 +122,113 @@ Kirk was killed while speaking at a university event in Utah in 2025. The AP ana
 
 ## Atomic claims
 
-### c_001 — reported, single source
-**Subject entities:** Charlie Kirk; bills
-**Predicate:** proposed
-**Object:** 60+ bills in 20+ states (legislative_count)
-**Temporal:** 2026-04-18
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Charlie Kirk; bills
+- **Predicate:** proposed
+- **Object:** 60+ bills in 20+ states (legislative_count)
+- **Temporal:** 2026-04-18
+- **Sources:** src_001
 
 > More than 60 bills named after Charlie Kirk have been proposed in over 20 states.
 
-### c_002 — confirmed, primary document
-**Subject entities:** Kansas; college students
-**Predicate:** allows_sue
-**Object:** free-speech violation lawsuits with $500+ damages (legal_right)
-**Temporal:** 2026-04-18
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Kansas; college students
+- **Predicate:** allows_sue
+- **Object:** free-speech violation lawsuits with $500+ damages (legal_right)
+- **Temporal:** 2026-04-18
+- **Sources:** src_001
 
 > A Kansas law allows college students to sue their schools for free-speech violations.
 
-### c_003 — confirmed, primary document
-**Subject entities:** Tennessee; public schools
-**Predicate:** requires_teach
-**Object:** positive impacts of religion in American history (curriculum_requirement)
-**Temporal:** 2026-04-18
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Tennessee; public schools
+- **Predicate:** requires_teach
+- **Object:** positive impacts of religion in American history (curriculum_requirement)
+- **Temporal:** 2026-04-18
+- **Sources:** src_001
 
 > A Tennessee law requires public schools to teach about the positive impacts of religion in American history.
 
-### c_004 — confirmed, primary document
-**Subject entities:** Tennessee; walkouts
-**Predicate:** bans
-**Object:** intentional disruption of speakers through walkout (prohibited_conduct)
-**Temporal:** 2026-04-18
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Tennessee; walkouts
+- **Predicate:** bans
+- **Object:** intentional disruption of speakers through walkout (prohibited_conduct)
+- **Temporal:** 2026-04-18
+- **Sources:** src_001
 
 > Tennessee enacted a law banning attendee walkouts that intentionally disrupt speakers.
 
-### c_005 — reported, single source
-**Subject entities:** Louisiana; public schools
-**Predicate:** requires_teach
-**Object:** success sequence: diploma, workforce entry, marriage before children (curriculum_requirement)
-**Temporal:** 2026-04-18
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Louisiana; public schools
+- **Predicate:** requires_teach
+- **Object:** success sequence: diploma, workforce entry, marriage before children (curriculum_requirement)
+- **Temporal:** 2026-04-18
+- **Sources:** src_001
 
 > Louisiana has proposed a bill requiring public schools to teach that the keys to success include earning a diploma, entering the workforce, and marrying before having children.
 
-### c_006 — attributed, single source
-**Subject entities:** Laura Kelly; Kansas bill
-**Predicate:** vetoed
-**Object:** objection to potential confusion for courts and schools (executive_action)
-**Temporal:** 2026-04-18
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Laura Kelly; Kansas bill
+- **Predicate:** vetoed
+- **Object:** objection to potential confusion for courts and schools (executive_action)
+- **Temporal:** 2026-04-18
+- **Sources:** src_001
 
 > Gov. Laura Kelly vetoed the Kansas free-speech bill, saying it would cause confusion for courts and schools.
 
-### c_007 — confirmed, primary document
-**Subject entities:** Kansas Republicans; Kelly veto
-**Predicate:** overrode
-**Object:** gubernatorial veto (legislative_action)
-**Temporal:** 2026-04-18
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Kansas Republicans; Kelly veto
+- **Predicate:** overrode
+- **Object:** gubernatorial veto (legislative_action)
+- **Temporal:** 2026-04-18
+- **Sources:** src_001
 
 > Kansas Republicans overrode Kelly's veto.
 
-### c_008 — attributed, single source
-**Subject entities:** Jerry Stogsdill; Charlie Kirk
-**Predicate:** criticized
-**Object:** opposition to honoring Kirk due to his statements (speech_act)
-**Temporal:** 2026-04-18
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jerry Stogsdill; Charlie Kirk
+- **Predicate:** criticized
+- **Object:** opposition to honoring Kirk due to his statements (speech_act)
+- **Temporal:** 2026-04-18
+- **Sources:** src_001
 
 > Democratic state Rep. Jerry Stogsdill said legislators should not honor an activist whose statements promoted hate, bigotry, misogyny and racism.
 
-### c_009 — attributed, single source
-**Subject entities:** Raumesh Akbari; religion education bill
-**Predicate:** objected
-**Object:** concern that bill promotes specific religion despite stated intent (speech_act)
-**Temporal:** 2026-04-18
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Raumesh Akbari; religion education bill
+- **Predicate:** objected
+- **Object:** concern that bill promotes specific religion despite stated intent (speech_act)
+- **Temporal:** 2026-04-18
+- **Sources:** src_001
 
 > Democratic Senator Raumesh Akbari said public schools should not push one religion over another.
 
-### c_010 — confirmed, primary document
-**Subject entities:** Turning Point USA; Republican-led states
-**Predicate:** partnered
-**Object:** partnership to promote Club America chapters in high schools (organizational_relationship)
-**Temporal:** 2026-04-18
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Turning Point USA; Republican-led states
+- **Predicate:** partnered
+- **Object:** partnership to promote Club America chapters in high schools (organizational_relationship)
+- **Temporal:** 2026-04-18
+- **Sources:** src_001
 
 > Turning Point USA, the organization Kirk founded, has partnered with Republican-led states to promote its high school chapters called Club America.
 
@@ -218,10 +237,5 @@ Kirk was killed while speaking at a university event in Utah in 2025. The AP ana
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** David A. Lieb
 **Publication date:** 2026-04-18
-**Access date:** 2026-05-17
 **Title:** New Charlie Kirk laws promote religion and free speech
 **URL:** https://apnews.com/article/charlie-kirk-laws-free-speech-1ef2e977c5cec05c8b521c38dce57443
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

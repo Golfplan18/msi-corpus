@@ -13,39 +13,41 @@ primary_themes:
 - domestic violence
 - criminal history
 topic_tags:
-  - "crime, law and justice"
-storyline_nexus: []
-geographic_location: Shreveport, Louisiana, United States
+- crime
+- law enforcement
+- family
+- communities
+storyline_nexus:
+- us-immigration-enforcement
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
-  intensity: 0.99
-- value: truthfulness
-  intensity: 0.95
+  intensity: 0.9
 - value: informed_citizenship
-  intensity: 0.85
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T14:30:00Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T01:13:55Z'
 source_cluster_id: cluster_ap_2026-04-21_shreveport-louisiana-mass-shooting-child
 gdelt_event_ids: []
-consensus_floor_version: '1.0'
-publication_mindspec_version: '1.0'
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 20
   hedges:
+    attributed: 17
+    confirmed: 3
     appears: 0
     alleged: 0
-    attributed: 17
     reported: 0
     contested: 0
-    confirmed: 3
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 5
-    single_source: 15
+    primary_plus_secondary: 0
     two_independent: 0
+    single_source: 15
+    one_originating_plus_primary_document: 0
 sources:
   count: 1
   outlets:
@@ -63,33 +65,15 @@ image:
   url: /articles/2026-04-20-father-fatally-shoots-8-children-in-shreveport-deadliest-in-2-years.png
   alt: 'Illustration accompanying article: Father fatally shoots 8 children in Shreveport, deadliest in 2 years'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-10-mississippi-man-charged-with-killing-6-including-child-in-clay-county-rampage
-  relation: related
-  strength: 0.8487
-  confidence: medium
-- slug: 2026-01-12-mississippi-man-pleads-not-guilty-in-deaths-of-six-including-7-year-old
-  relation: related
-  strength: 0.8163
-  confidence: medium
-- slug: 2026-01-07-uvalde-families-sob-through-911-calls-as-officer-s-trial-opens-on-police-respons
-  relation: related
-  strength: 0.8189
-  confidence: medium
-- slug: 2026-01-03-uvalde-officer-stands-trial-on-child-abandonment-charges-over-2022-school-shooti
-  relation: related
-  strength: 0.8212
-  confidence: medium
-- slug: 2026-01-12-uvalde-officer-trial-enters-second-week-as-prosecution-presses-inaction-case
-  relation: related
-  strength: 0.8019
-  confidence: medium
-- slug: 2026-01-03-uvalde-officer-goes-to-trial-on-child-endangerment-charges-over-shooting-inactio
-  relation: related
-  strength: 0.8019
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- - value: human_life_and_dignity
 
 A Louisiana father fatally shot eight children, including seven of his own, in what authorities described as the deadliest mass shooting in the United States in more than two years. The attack unfolded in two homes in a Shreveport neighborhood Sunday morning, with police responding to the first report around 5:55 a.m., Shreveport Police Chief Wayne Smith said. The gunman, identified as 31-year-old Shamar Elkins, died after a police pursuit that ended with officers firing on him. Police also said Elkins shot and wounded his wife and another woman.
 
@@ -121,183 +105,223 @@ Elkins and his wife were separating and had been arguing about their relationshi
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Shamar Elkins; Shreveport, Louisiana
-**Predicate:** fatally_shot
-**Object:** eight children, including seven of his own and one nephew (victims)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Shamar Elkins; Shreveport, Louisiana
+- **Predicate:** fatally_shot
+- **Object:** eight children, including seven of his own and one nephew (victims)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > A Louisiana father, Shamar Elkins, fatally shot eight children in Shreveport on Sunday morning.
 
-### c_002 — attributed, single source
-**Subject entities:** Shamar Elkins
-**Predicate:** shot_and_wounded
-**Object:** his wife Shaneiqua Elkins and another woman (injured_victims)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Shamar Elkins
+- **Predicate:** shot_and_wounded
+- **Object:** his wife Shaneiqua Elkins and another woman (injured_victims)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Elkins shot and wounded his wife and another woman in the attack.
 
-### c_003 — attributed, single source
-**Subject entities:** Shreveport Police Department
-**Predicate:** received_initial_report
-**Object:** 5:55 a.m. on 79th Street (incident_timeline)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Shreveport Police Department
+- **Predicate:** received_initial_report
+- **Object:** 5:55 a.m. on 79th Street (incident_timeline)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Police received the first report around 5:55 a.m. from 79th Street.
 
-### c_004 — attributed, single source
-**Subject entities:** Shamar Elkins
-**Predicate:** second_attack_reported
-**Object:** 6:07 a.m. on Harrison Street (incident_timeline)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Shamar Elkins
+- **Predicate:** second_attack_reported
+- **Object:** 6:07 a.m. on Harrison Street (incident_timeline)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > A second attack was reported at 6:07 a.m. at Harrison Street.
 
-### c_005 — attributed, single source
-**Subject entities:** Troy Brown; Shamar Elkins
-**Predicate:** escaped_incident
-**Object:** escaped through roof (survivor_account)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Troy Brown; Shamar Elkins
+- **Predicate:** escaped_incident
+- **Object:** escaped through roof (survivor_account)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Troy Brown, Elkins' brother-in-law, said his wife and 12-year-old daughter escaped through the home's roof.
 
-### c_006 — attributed, single source
-**Subject entities:** Shamar Elkins; Shreveport Police
-**Predicate:** died_in_police_encounter
-**Object:** death following police pursuit and gunfire (incident_conclusion)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Shamar Elkins; Shreveport Police
+- **Predicate:** died_in_police_encounter
+- **Object:** death following police pursuit and gunfire (incident_conclusion)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Elkins died after a police pursuit that ended with officers firing on him.
 
-### c_007 — attributed, single source
-**Subject entities:** Wayne Smith; Shamar Elkins
-**Predicate:** cause_of_death_unclear
-**Object:** unclear if officer-caused or self-inflicted (investigative_status)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Wayne Smith; Shamar Elkins
+- **Predicate:** cause_of_death_unclear
+- **Object:** unclear if officer-caused or self-inflicted (investigative_status)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Police Chief Wayne Smith said it was unclear whether Elkins was killed by officers or from a self-inflicted gunshot.
 
-### c_008 — confirmed, primary document
-**Subject entities:** Shamar Elkins
-**Predicate:** pleaded_guilty_2019
-**Object:** illegal use of weapons, probation ordered (criminal_record)
-**Temporal:** 2019
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Shamar Elkins
+- **Predicate:** pleaded_guilty_2019
+- **Object:** illegal use of weapons, probation ordered (criminal_record)
+- **Temporal:** 2019
+- **Sources:** src_001
 
 > Court records showed Elkins pleaded guilty to illegal use of weapons in 2019 and was placed on probation.
 
-### c_009 — attributed, primary document
-**Subject entities:** Shamar Elkins
-**Predicate:** fired_rounds_self_defense_claim
-**Object:** fired five rounds at vehicle, claimed self-defense (documented_incident)
-**Temporal:** 2019
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Shamar Elkins
+- **Predicate:** fired_rounds_self_defense_claim
+- **Object:** fired five rounds at vehicle, claimed self-defense (documented_incident)
+- **Temporal:** 2019
+- **Sources:** src_001
 
 > A police report said Elkins fired five rounds at a vehicle and told police someone inside had pulled a gun on him.
 
-### c_010 — confirmed, primary document
-**Subject entities:** Louisiana
-**Predicate:** gun_ban_law
-**Object:** 10-year gun ownership ban post-sentence (legal_statute)
-**Temporal:** ongoing
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Louisiana
+- **Predicate:** gun_ban_law
+- **Object:** 10-year gun ownership ban post-sentence (legal_statute)
+- **Temporal:** ongoing
+- **Sources:** src_001
 
 > Under Louisiana law, a person convicted of illegal use of a weapon is banned from having a gun for at least 10 years after completing their sentence and probation.
 
-### c_011 — attributed, single source
-**Subject entities:** Shreveport Police; Shamar Elkins
-**Predicate:** no_prior_domestic_violence_known
-**Object:** no prior domestic violence issues on record (investigative_finding)
-**Temporal:** before 2026-04-20
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Shreveport Police; Shamar Elkins
+- **Predicate:** no_prior_domestic_violence_known
+- **Object:** no prior domestic violence issues on record (investigative_finding)
+- **Temporal:** before 2026-04-20
+- **Sources:** src_001
 
 > Police spokesperson Chris Bordelon said investigators were not aware of other domestic violence issues involving Elkins.
 
-### c_012 — attributed, single source
-**Subject entities:** law enforcement
-**Predicate:** weapon_source_undisclosed
-**Object:** source of weapon not disclosed (investigative_status)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** law enforcement
+- **Predicate:** weapon_source_undisclosed
+- **Object:** source of weapon not disclosed (investigative_status)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Authorities have not said how or where Elkins obtained the weapon used in Sunday's attack.
 
-### c_013 — attributed, primary document
-**Subject entities:** Shamar Elkins; Louisiana National Guard
-**Predicate:** military_service
-**Object:** private rank, 2013-2020, no deployments (service_record)
-**Temporal:** 2013-2020
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Shamar Elkins; Louisiana National Guard
+- **Predicate:** military_service
+- **Object:** private rank, 2013-2020, no deployments (service_record)
+- **Temporal:** 2013-2020
+- **Sources:** src_001
 
 > Elkins served in the Louisiana National Guard from 2013 to 2020 with the rank of private and had no deployments.
 
-### c_014 — attributed, single source
-**Subject entities:** Shamar Elkins
-**Predicate:** va_hospitalization
-**Object:** voluntary VA hospital stay, January, one week (medical_history)
-**Temporal:** January 2026
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Shamar Elkins
+- **Predicate:** va_hospitalization
+- **Object:** voluntary VA hospital stay, January, one week (medical_history)
+- **Temporal:** January 2026
+- **Sources:** src_001
 
 > Elkins had voluntarily checked into a Department of Veterans Affairs hospital in January for just over a week.
 
-### c_015 — attributed, single source
-**Subject entities:** Shamar Elkins; Troy Brown
-**Predicate:** appeared_improved
-**Object:** appeared better after hospitalization, seemed fine day before (family_observation)
-**Temporal:** January to April 2026
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Shamar Elkins; Troy Brown
+- **Predicate:** appeared_improved
+- **Object:** appeared better after hospitalization, seemed fine day before (family_observation)
+- **Temporal:** January to April 2026
+- **Sources:** src_001
 
 > Troy Brown said Elkins appeared 'better when he came home' from the hospital and seemed fine a day before the shooting.
 
-### c_016 — confirmed, primary document
-**Subject entities:** victims
-**Predicate:** age_range
-**Object:** 3 to 11 years old (demographic)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_016
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** victims
+- **Predicate:** age_range
+- **Object:** 3 to 11 years old (demographic)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > The eight children ranged in age from 3 to 11 years old.
 
-### c_017 — attributed, single source
-**Subject entities:** Shaneiqua Elkins
-**Predicate:** character_description
-**Object:** doting mother, celebrated children's success, careful dresser (family_characterization)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_017
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Shaneiqua Elkins
+- **Predicate:** character_description
+- **Object:** doting mother, celebrated children's success, careful dresser (family_characterization)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Family members described Shaneiqua Elkins as a doting mother who celebrated her children's success and carefully dressed them for family events.
 
-### c_018 — attributed, single source
-**Subject entities:** children victims; Francine Monro Brown
-**Predicate:** observed_demeanor
-**Object:** happy and joyful when playing in yard (family_observation)
-**Temporal:** before 2026-04-20
-**Source IDs:** src_001
+### c_018
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** children victims; Francine Monro Brown
+- **Predicate:** observed_demeanor
+- **Object:** happy and joyful when playing in yard (family_observation)
+- **Temporal:** before 2026-04-20
+- **Sources:** src_001
 
 > Francine Monro Brown said she would see the children playing in the yard on Sunday mornings and called them 'happy' and 'joyful.'
 
-### c_019 — attributed, single source
-**Subject entities:** Shamar Elkins; Shaneiqua Elkins
-**Predicate:** marital_separation
-**Object:** separating, arguing about relationship (relationship_status)
-**Temporal:** before 2026-04-20
-**Source IDs:** src_001
+### c_019
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Shamar Elkins; Shaneiqua Elkins
+- **Predicate:** marital_separation
+- **Object:** separating, arguing about relationship (relationship_status)
+- **Temporal:** before 2026-04-20
+- **Sources:** src_001
 
 > Crystal Brown said Elkins and his wife were separating and had been arguing about their relationship before the shooting.
 
-### c_020 — attributed, single source
-**Subject entities:** Shreveport shooting; Chicago shooting 2024
-**Predicate:** deadliest_since
-**Object:** deadliest since January 2024 Chicago incident (comparative_statistic)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_020
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Shreveport shooting; Chicago shooting 2024
+- **Predicate:** deadliest_since
+- **Object:** deadliest since January 2024 Chicago incident (comparative_statistic)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > The shooting in Shreveport was the deadliest in the U.S. since January 2024, when eight people were killed in a Chicago suburb.
 
@@ -305,10 +329,5 @@ Elkins and his wife were separating and had been arguing about their relationshi
 
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Publication date:** 2026-04-20
-**Access date:** 2026-05-17
 **Title:** What to know about mass shooting of children by father in Louisiana
 **URL:** https://apnews.com/article/shreveport-louisiana-mass-shooting-children-b31fd4a559b4731ba1584dbaaff1ee17
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

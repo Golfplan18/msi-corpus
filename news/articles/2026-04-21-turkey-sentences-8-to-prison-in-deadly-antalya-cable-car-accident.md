@@ -90,8 +90,6 @@ But the immediate casualties were only part of the disaster. When the gondola bu
 
 The cable car carries tourists between Konyaalti Beach and a restaurant and viewing platform at the summit of Tunektepe, a 618-meter peak that overlooks the Mediterranean. The accident exposed vulnerabilities in maintenance, operation, and emergency response at this popular tourist attraction.
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
 ### c_001 — confirmed, single source
@@ -180,7 +178,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-05-17
 **Title:** Turkey sends 8 people to prison over deadly Antalya cable car accident
 **URL:** https://apnews.com/article/turkey-antalya-cable-car-accident-trial-1a8dde775fb5db1ede580089f3783196
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

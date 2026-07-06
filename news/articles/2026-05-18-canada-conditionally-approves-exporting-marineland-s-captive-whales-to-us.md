@@ -18,7 +18,8 @@ topic_tags:
   - society
   - conservation
   - welfare
-storyline_nexus: []
+storyline_nexus:
+- trump-climate-energy-rollbacks
 geographic_location: Canada (Ontario) / United States
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -202,7 +203,3 @@ The conditional approval from Thompson provides a deadline: final permits will b
 **Access date:** 2026-05-18
 **Title:** Canada gives conditional approval for Marineland to export remaining belugas to the US
 **URL:** https://apnews.com/article/whales-marineland-canada-captive-e3a9891e18e8d09ca4af97ad354c0bb0
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

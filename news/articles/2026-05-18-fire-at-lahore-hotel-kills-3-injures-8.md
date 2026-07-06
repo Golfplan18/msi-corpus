@@ -14,7 +14,8 @@ primary_themes:
 topic_tags:
   - "disaster, accident and emergency incident"
   - fire
-storyline_nexus: []
+storyline_nexus:
+- pakistan-afghanistan-violence
 geographic_location: Lahore, Pakistan
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -170,7 +171,3 @@ The incident reflects a spate of deadly fires in Pakistan. A fire at a shopping 
 **Access date:** 2026-05-18
 **Title:** Hotel fire in Lahore leaves 3 dead, 8 injured
 **URL:** https://apnews.com/article/pakistan-lahore-fire-at-hotel-killed-people-4a4a60b3a6c233c51b62b5f692122b90
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

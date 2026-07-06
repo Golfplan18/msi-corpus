@@ -1,6 +1,5 @@
 ---
 headline: Trump immigration policies, lower fertility to slow US population growth, CBO says
-slug: 2026-01-07-cbo-trump-immigration-lower-fertility-slow-us-population-growth
 publish_date: '2026-01-07'
 lede: The U.S. population will grow by only 15 million people over the next 30 years — a smaller gain than previously projected — because of President Donald Trump's immigration restrictions and an expected long-term decline in the fertility rate, the Congressional Budget Office said Wednesday. The nonpartisan agency projected the nation's population will rise from 349 million in 2026 to 364 million by 2056, a 2.2% smaller increase than it had forecast in 2025. Without immigration, the U.S. population would begin to shrink by 2030, when deaths would start to exceed births.
 nut_graf: The revised projections carry long-term consequences for Social Security, Medicare, and the broader labor market, as an aging population and a sustained decline in domestic fertility make immigration an increasingly essential driver of U.S. population and workforce growth.
@@ -22,86 +21,91 @@ primary_themes:
 - fertility rate
 - deportation
 topic_tags:
-  - politics
-  - government
-  - weather
+- demographics
+- human migration
+- government policy
+- economy
 storyline_nexus:
-  - immigration-enforcement
+- us-immigration-enforcement
 geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
+- value: truthfulness
   intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.7
-- value: human_life_and_dignity
-  intensity: 0.6
-framework_version: 1.1.0
-generation_timestamp: '2026-01-07T00:00:00Z'
+  intensity: 0.9
+- value: informed_citizenship
+  intensity: 0.9
+framework_version: 1.3.0
+generation_timestamp: '2026-05-22T23:39:16Z'
 source_cluster_id: cluster_ap_2026-01-06_immigration-trump-census-population-grow
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 15
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 13
-    reported: 1
     contested: 0
+    reported: 1
+    alleged: 0
     confirmed: 1
+    attributed: 13
+    appears: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 1
     single_source: 14
+    primary_plus_secondary: 0
+    primary_document: 1
+    one_originating_plus_primary_document: 0
     two_independent: 0
 sources:
-  count: 1
+  count: 21
   outlets:
   - Associated Press
+  - arkansasonline.com
+  - baltimoresun.com
+  - bangordailynews.com
+  - bnnbloomberg.ca
+  - bostonherald.com
+  - capitalgazette.com
+  - citizensvoice.com
+  - click2houston.com
+  - clickondetroit.com
+  - clickorlando.com
+  - courant.com
+  - cp24.com
+  - dailybreeze.com
+  - dailybulletin.com
+  - dailycamera.com
+  - dailynews.com
+  - dailypress.com
+  - denverpost.com
+  - fortmorgantimes.com
+  - go.com
   outlet_classes:
+  - national_daily
   - wire
   highest_reliability_tier: 1
   has_originating: true
   has_primary_document: false
-figures:
-- source: fred
-  series_id: CIVPART
-  transformation: raw
-  as_of: '2026-01-07'
-  caption: The labor force participation rate stood at 62.5% in January 2026. With U.S. fertility well below the replacement level and immigration constrained by federal policy, demographers warn that sustaining this share of the population in the workforce will grow more difficult as baby boomers age out over the next decade.
 figures_aggregate:
-  count: 1
-  series_ids:
-  - CIVPART
-  sources:
-  - fred
+  count: 0
+  series_ids: []
+  sources: []
 image:
   url: /articles/2026-01-07-trump-immigration-policies-lower-fertility-to-slow-us-population-growth-cbo-says.png
   alt: 'Illustration accompanying article: Trump immigration policies, lower fertility to slow US population growth,'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-02-minnesota-ends-state-health-coverage-for-15-000-undocumented-adult-immigrants
-  relation: related
-  strength: 0.7652
-  confidence: medium
-- slug: 2025-12-30-faith-leaders-supporting-immigrants-brace-for-harder-year-under-trump-policies
-  relation: related
-  strength: 0.753
-  confidence: medium
-- slug: 2025-12-30-faith-leaders-brace-for-harder-year-amid-trump-immigration-crackdown
-  relation: related
-  strength: 0.7367
-  confidence: medium
-- slug: 2025-12-31-california-delays-revocation-of-17-000-commercial-licenses-after-migrant-lawsuit
-  relation: related
-  strength: 0.666
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- WASHINGTON — The U.
+- The nonpartisan agency projected the nation's population will rise from 349 million in 2026 to 364 million by 2056, a 2.
+- Article details provided in full text.
 
 WASHINGTON — The U.S. population will grow by only 15 million people over the next 30 years — a smaller gain than previously projected — because of President Donald Trump's immigration restrictions and an expected long-term decline in the fertility rate, the Congressional Budget Office said Wednesday.
 
@@ -149,138 +153,168 @@ The CBO projected the total U.S. population will stop growing in 2056, after whi
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Congressional Budget Office; United States
-**Predicate:** projected_population_growth
-**Object:** 349M to 364M (population_figure)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Congressional Budget Office; United States
+- **Predicate:** projected_population_growth
+- **Object:** 349M to 364M (population_figure)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > The CBO projected U.S. population will grow from 349 million in 2026 to 364 million in 2056.
 
-### c_002 — attributed, single source
-**Subject entities:** Congressional Budget Office
-**Predicate:** revised_downward
-**Object:** 2.2% (percentage_change)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Congressional Budget Office
+- **Predicate:** revised_downward
+- **Object:** 2.2% (percentage_change)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > The CBO's 30-year growth projection is 2.2% smaller than its 2025 forecast.
 
-### c_003 — attributed, single source
-**Subject entities:** United States population
-**Predicate:** projected_plateau
-**Object:** 2056 (year)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** United States population
+- **Predicate:** projected_plateau
+- **Object:** 2056 (year)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > The U.S. population is projected to stop growing in 2056.
 
-### c_004 — attributed, single source
-**Subject entities:** United States population
-**Predicate:** projected_decline_without_immigration
-**Object:** 2030 (year)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** United States population
+- **Predicate:** projected_decline_without_immigration
+- **Object:** 2030 (year)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Without immigration, the U.S. population would begin to shrink in 2030 as deaths exceed births.
 
-### c_005 — attributed, single source
-**Subject entities:** United States; fertility rate
-**Predicate:** projected_fertility_rate
-**Object:** 1.58 in 2026, 1.53 in 2036 (rate)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** United States; fertility rate
+- **Predicate:** projected_fertility_rate
+- **Object:** 1.58 in 2026, 1.53 in 2036 (rate)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > The U.S. fertility rate was expected to be 1.58 births per woman in 2026 and is projected to drop to 1.53 by 2036; the replacement rate is 2.1.
 
-### c_006 — attributed, single source
-**Subject entities:** Congressional Budget Office; United States
-**Predicate:** reported_immigrant_count
-**Object:** 410,000 (count)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Congressional Budget Office; United States
+- **Predicate:** reported_immigrant_count
+- **Object:** 410,000 (count)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > The CBO said the U.S. added 410,000 immigrants in 2025.
 
-### c_007 — attributed, single source
-**Subject entities:** Congressional Budget Office; Donald Trump
-**Predicate:** projected_deportations
-**Object:** 320,000 over 10 years (count)
-**Temporal:** 2025-09
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Congressional Budget Office; Donald Trump
+- **Predicate:** projected_deportations
+- **Object:** 320,000 over 10 years (count)
+- **Temporal:** 2025-09
+- **Sources:** src_001
 
 > In September 2025, the CBO issued a revised demographics report showing Trump's deportation plans would result in roughly 320,000 removals over 10 years.
 
-### c_008 — attributed, single source
-**Subject entities:** Donald Trump; United States Congress
-**Predicate:** allocated_funding
-**Object:** $150 billion (dollar_amount)
-**Temporal:** 2025-07
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; United States Congress
+- **Predicate:** allocated_funding
+- **Object:** $150 billion (dollar_amount)
+- **Temporal:** 2025-07
+- **Sources:** src_001
 
 > Trump's tax and spending law, signed in July 2025, included roughly $150 billion for deportation operations over four years.
 
-### c_009 — reported, single source
-**Subject entities:** Current Population Survey; United States; immigrants
-**Predicate:** estimated_decline
-**Object:** 1.8 million (count)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Current Population Survey; United States; immigrants
+- **Predicate:** estimated_decline
+- **Object:** 1.8 million (count)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > The Current Population Survey estimated adult immigrants fell by 1.8 million from January to November 2025, though experts have questioned whether the figure reflects actual population decline or reduced survey participation.
 
-### c_010 — attributed, single source
-**Subject entities:** Congressional Budget Office; United States immigration
-**Predicate:** projected_immigration_rate
-**Object:** 1.2 million/year, 2037-2056 (rate)
-**Temporal:** 2037-2056
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Congressional Budget Office; United States immigration
+- **Predicate:** projected_immigration_rate
+- **Object:** 1.2 million/year, 2037-2056 (rate)
+- **Temporal:** 2037-2056
+- **Sources:** src_001
 
 > The CBO projected immigration will average 1.2 million people a year from 2037 to 2056.
 
-### c_011 — confirmed, primary document
-**Subject entities:** baby boomers; United States
-**Predicate:** demographic_milestone
-**Object:** all over 65 by end of decade (milestone)
-**Temporal:** 2029
-**Source IDs:** src_001
+### c_011
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** baby boomers; United States
+- **Predicate:** demographic_milestone
+- **Object:** all over 65 by end of decade (milestone)
+- **Temporal:** 2029
+- **Sources:** src_001
 
 > All U.S. baby boomers, born between 1946 and 1964, will be over age 65 by the end of this decade.
 
-### c_012 — attributed, single source
-**Subject entities:** U.S. Census Bureau; United States immigration
-**Predicate:** reported_increase
-**Object:** 2.8 million (count)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Census Bureau; United States immigration
+- **Predicate:** reported_increase
+- **Object:** 2.8 million (count)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > The U.S. Census Bureau reported immigration increased by 2.8 million people in 2024 over the prior year.
 
-### c_013 — attributed, single source
-**Subject entities:** William Frey; Brookings Institution
-**Predicate:** characterized_as
-**Object:** a demographic shock (quote)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** William Frey; Brookings Institution
+- **Predicate:** characterized_as
+- **Object:** a demographic shock (quote)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > William Frey, demographer at the Brookings Institution, characterized the policy changes as 'a demographic shock' even if immigration limits end with the Trump administration.
 
-### c_014 — attributed, single source
-**Subject entities:** Kenneth Johnson; University of New Hampshire
-**Predicate:** stated
-**Object:** immigrants contribute to labor force and future growth (statement)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Kenneth Johnson; University of New Hampshire
+- **Predicate:** stated
+- **Object:** immigrants contribute to labor force and future growth (statement)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Kenneth Johnson, senior demographer at the University of New Hampshire, said immigrants contribute to the labor force and to future U.S. population growth through their potential to have children.
 
-### c_015 — attributed, single source
-**Subject entities:** William Frey; Donald Trump
-**Predicate:** stated_fertility_consequence
-**Object:** fewer children born during Trump term (projection)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** William Frey; Donald Trump
+- **Predicate:** stated_fertility_consequence
+- **Object:** fewer children born during Trump term (projection)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Frey said fewer immigrants would reduce the number of children born during the four-year Trump administration.
 
@@ -289,10 +323,85 @@ The CBO projected the total U.S. population will stop growing in 2056, after whi
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Fatima Hussein
 **Publication date:** 2026-01-07
-**Access date:** 2026-01-07
 **Title:** Lower fertility rate, immigration policies slow US population growth
 **URL:** https://apnews.com/article/immigration-trump-census-population-growth-baby-boomers-7470b270a004ae779518722488de58d4
 
----
+### src_002 — arkansasonline.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-08
+**URL:** https://www.arkansasonline.com/news/2026/jan/08/projections-show-slower-population-growth/
 
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*
+### src_003 — baltimoresun.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-07
+**URL:** https://www.baltimoresun.com/2026/01/07/us-growth-projection/
+
+### src_004 — bangordailynews.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-07
+**URL:** https://www.bangordailynews.com/2026/01/07/nation/trump-immigration-policies-and-aging-population-slow-us-growth-projection-budget-office-says/
+
+### src_005 — bnnbloomberg.ca, national_daily, Tier 4, originating
+**Publication date:** 2026-01-07
+**URL:** https://www.bnnbloomberg.ca/business/international/2026/01/07/trump-immigration-policies-and-aging-population-slow-us-growth-projection-budget-office-says/
+
+### src_006 — bostonherald.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-08
+**URL:** https://www.bostonherald.com/2026/01/07/us-growth-projection/
+
+### src_007 — capitalgazette.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-08
+**URL:** https://www.capitalgazette.com/2026/01/07/us-growth-projection/
+
+### src_008 — citizensvoice.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-08
+**URL:** https://www.citizensvoice.com/2026/01/07/us-growth-projection/
+
+### src_009 — click2houston.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-07
+**URL:** https://www.click2houston.com/news/politics/2026/01/07/trump-immigration-policies-and-aging-population-slow-us-growth-projection-budget-office-says/
+
+### src_010 — clickondetroit.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-07
+**URL:** https://www.clickondetroit.com/news/politics/2026/01/07/trump-immigration-policies-and-aging-population-slow-us-growth-projection-budget-office-says/
+
+### src_011 — clickorlando.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-07
+**URL:** https://www.clickorlando.com/news/politics/2026/01/07/trump-immigration-policies-and-aging-population-slow-us-growth-projection-budget-office-says/
+
+### src_012 — courant.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-07
+**URL:** https://www.courant.com/2026/01/07/us-growth-projection/
+
+### src_013 — cp24.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-08
+**URL:** https://www.cp24.com/news/money/2026/01/07/trump-immigration-policies-and-aging-population-slow-us-growth-projection-budget-office-says/
+
+### src_014 — dailybreeze.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-08
+**URL:** https://www.dailybreeze.com/2026/01/07/us-growth-projection/
+
+### src_015 — dailybulletin.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-08
+**URL:** https://www.dailybulletin.com/2026/01/07/us-growth-projection/
+
+### src_016 — dailycamera.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-07
+**URL:** https://www.dailycamera.com/2026/01/07/us-growth-projection/
+
+### src_017 — dailynews.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-08
+**URL:** https://www.dailynews.com/2026/01/07/us-growth-projection/
+
+### src_018 — dailypress.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-08
+**URL:** https://www.dailypress.com/2026/01/07/us-growth-projection/
+
+### src_019 — denverpost.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-08
+**URL:** https://www.denverpost.com/2026/01/07/us-growth-projection/
+
+### src_020 — fortmorgantimes.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-08
+**URL:** https://www.fortmorgantimes.com/2026/01/07/us-growth-projection/
+
+### src_021 — go.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-08
+**URL:** https://abcnews.go.com/US/wireStory/trump-immigration-policies-aging-population-slow-us-growth-128993935

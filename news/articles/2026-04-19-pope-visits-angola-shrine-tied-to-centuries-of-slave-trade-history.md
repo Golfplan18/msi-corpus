@@ -19,8 +19,7 @@ topic_tags:
   - religion
   - "religious institution"
   - "religious leader"
-storyline_nexus:
-  - pope-leo-xiv-africa-tour
+storyline_nexus: []
 geographic_location: Angola (Muxima)
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -124,10 +123,6 @@ Pope Leo has not spoken publicly about his family heritage or the genealogical r
 "It's important that we tell our own stories," said Tia Noelle Pratt, a sociologist of religion and professor at Villanova University, the pope's alma mater. "We haven't heard anything from him about what he thinks about it, and so to impose anything on him, I think would be completely inappropriate."
 
 Cardinal Wilton Gregory, the retired archbishop of Washington and the first African American cardinal, facilitated the Gates-Leo encounter and said he was "delighted" to have done so. "It's one of the things that I think for many African Americans and people of color, they identify with great pride that the pope has roots in our own heritage," Gregory said. "And I think he's happy about that too, because it's another link to the people that he tries to serve and is called to serve."
-
----
-
-This article was generated algorithmically by Main Street Independent's News Article Generator framework. Read the specification at /methodology. CC0
 
 ## Atomic claims
 
@@ -265,7 +260,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-05-17
 **Title:** Pope Leo XIV urges Angolans to combat corruption with justice
 **URL:** https://apnews.com/article/pope-vatican-africa-race-082b240dc063e5e382a76bf278cb18e8
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

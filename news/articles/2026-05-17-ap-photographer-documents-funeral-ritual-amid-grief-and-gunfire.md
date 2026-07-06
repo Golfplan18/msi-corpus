@@ -17,7 +17,8 @@ topic_tags:
   - "armed conflict"
   - labour
   - "labour dispute"
-storyline_nexus: []
+storyline_nexus:
+- israel-hezbollah-lebanon-war
 geographic_location: Lebanon
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -199,7 +200,3 @@ The photograph is part of the AP's "One Extraordinary Photo" series, which highl
 **Access date:** 2026-05-17
 **Title:** Working unseen to frame risk and ritual in a conflict-zone funeral
 **URL:** https://apnews.com/article/funeral-gunfire-conflict-zone-extraordinary-photo
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

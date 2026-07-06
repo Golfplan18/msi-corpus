@@ -19,43 +19,41 @@ primary_themes:
 - infrastructure impact
 - regional threat
 topic_tags:
-  - "conflict, war and peace"
-  - "disaster, accident and emergency incident"
-  - weather
-  - "weather warning"
+- natural disaster
+- weather
+- weather warning
+- disaster, accident and emergency incident
 storyline_nexus:
-  - trump-fed-independence
-geographic_location: United States - Southern region (Texas to Carolinas)
+- extreme-weather-disasters
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
   intensity: 0.9
-- value: informed_citizenship
-  intensity: 0.85
 - value: truthfulness
-  intensity: 0.8
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:48:06Z'
 source_cluster_id: cluster_ap_2026-01-21_winter-weather-snow-ice-weekend-storm-ba
 gdelt_event_ids: []
-consensus_floor_version: 1.0.0
-publication_mindspec_version: 1.0.0
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 15
   hedges:
+    reported: 12
     appears: 0
     alleged: 0
-    attributed: 3
-    reported: 12
-    contested: 0
     confirmed: 0
+    attributed: 3
+    contested: 0
   corroboration:
-    primary_plus_secondary: 9
-    one_originating_plus_primary_document: 0
-    primary_document: 3
     single_source: 3
     two_independent: 0
+    primary_plus_secondary: 9
+    primary_document: 3
+    one_originating_plus_primary_document: 0
 sources:
   count: 1
   outlets:
@@ -69,21 +67,12 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-07-ice-and-snow-close-schools-across-new-england-as-more-storms-approach
-  relation: related
-  strength: 0.8564
-  confidence: medium
-- slug: 2025-12-29-how-intense-winter-storms-become-bomb-cyclones
-  relation: related
-  strength: 0.8024
-  confidence: medium
-- slug: 2025-12-29-power-outages-can-turn-dangerous-fast-experts-detail-how-to-prepare
-  relation: related
-  strength: 0.7628
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
 
 An ice storm is forecast to emerge late this week and continue through Sunday, with forecasters warning of a "potentially catastrophic" weather event that could coat roads, trees and power lines with devastating ice across a wide swath of the South from Texas to the Carolinas. The system will result from arctic air diving south from Canada colliding with moisture streaming up from the Gulf of Mexico, the National Weather Service said Tuesday.
 
@@ -113,138 +102,168 @@ As of Tuesday, residents in affected areas were already taking precautions. In L
 
 ## Atomic claims
 
-### c_001 — reported, primary plus secondary
-**Subject entities:** ice storm
-**Predicate:** forecast_to_occur
-**Object:** ice accumulation on roads, trees, power lines (weather_impact)
-**Temporal:** 2026-01-24 to 2026-01-26
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** ice storm
+- **Predicate:** forecast_to_occur
+- **Object:** ice accumulation on roads, trees, power lines (weather_impact)
+- **Temporal:** 2026-01-24 to 2026-01-26
+- **Sources:** src_001
 
 > An ice storm is forecast to emerge late this week and continue through Sunday, coating roads, trees and power lines with ice from Texas to the Carolinas.
 
-### c_002 — reported, primary plus secondary
-**Subject entities:** forecasters
-**Predicate:** characterize
-**Object:** potentially catastrophic (severity_assessment)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** forecasters
+- **Predicate:** characterize
+- **Object:** potentially catastrophic (severity_assessment)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > Forecasters describe the approaching storm as 'potentially catastrophic.'
 
-### c_003 — attributed, single source
-**Subject entities:** Keith Avery; ice accumulation
-**Predicate:** stated_impact_threshold
-**Object:** half-inch ice accumulation (threshold)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Keith Avery; ice accumulation
+- **Predicate:** stated_impact_threshold
+- **Object:** half-inch ice accumulation (threshold)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > Half an inch of ice could be catastrophic, according to Keith Avery, CEO of Newberry Electric Cooperative.
 
-### c_004 — reported, primary plus secondary
-**Subject entities:** ice; trees; power lines
-**Predicate:** can_cause
-**Object:** widespread power outages (impact)
-**Temporal:** 2026-01-24 to 2026-01-26
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** ice; trees; power lines
+- **Predicate:** can_cause
+- **Object:** widespread power outages (impact)
+- **Temporal:** 2026-01-24 to 2026-01-26
+- **Sources:** src_001
 
 > Ice could weigh down trees and power lines, potentially triggering widespread outages.
 
-### c_005 — reported, primary document
-**Subject entities:** National Weather Service
-**Predicate:** warned_of
-**Object:** heavy snow, sleet, treacherous freezing rain (weather_conditions)
-**Temporal:** 2026-01-24 to 2026-01-26
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** National Weather Service
+- **Predicate:** warned_of
+- **Object:** heavy snow, sleet, treacherous freezing rain (weather_conditions)
+- **Temporal:** 2026-01-24 to 2026-01-26
+- **Sources:** src_001
 
 > The National Weather Service warned of 'great swaths of heavy snow, sleet, and treacherous freezing rain' starting Friday.
 
-### c_006 — reported, primary plus secondary
-**Subject entities:** arctic air; Gulf moisture
-**Predicate:** will_combine_to_create
-**Object:** major winter storm (weather_system)
-**Temporal:** 2026-01-24 to 2026-01-26
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** arctic air; Gulf moisture
+- **Predicate:** will_combine_to_create
+- **Object:** major winter storm (weather_system)
+- **Temporal:** 2026-01-24 to 2026-01-26
+- **Sources:** src_001
 
 > Cold arctic air from Canada will clash with warm, moist air from the Gulf of Mexico to create a major winter storm.
 
-### c_007 — attributed, primary document
-**Subject entities:** Bryan Jackson
-**Predicate:** characterized
-**Object:** extreme conditions (assessment)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Bryan Jackson
+- **Predicate:** characterized
+- **Object:** extreme conditions (assessment)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > This system is 'extreme, even for this being the peak of winter,' according to National Weather Service meteorologist Bryan Jackson.
 
-### c_008 — reported, primary plus secondary
-**Subject entities:** atmospheric river
-**Predicate:** forecast_to_occur
-**Object:** moisture transport across South (weather_pattern)
-**Temporal:** 2026-01-24 to 2026-01-26
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** atmospheric river
+- **Predicate:** forecast_to_occur
+- **Object:** moisture transport across South (weather_pattern)
+- **Temporal:** 2026-01-24 to 2026-01-26
+- **Sources:** src_001
 
 > An atmospheric river of moisture could be in place by the weekend, pulling precipitation across Texas, the Gulf Coast, and the Carolinas.
 
-### c_009 — reported, single source
-**Subject entities:** southern states; northern states
-**Predicate:** have_less_equipment
-**Object:** snow and ice removal capability (infrastructure)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** southern states; northern states
+- **Predicate:** have_less_equipment
+- **Object:** snow and ice removal capability (infrastructure)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > Southern states have less equipment to remove snow and ice from roads than northern states.
 
-### c_010 — reported, primary plus secondary
-**Subject entities:** Dallas; Atlanta; Memphis; Charlotte
-**Predicate:** expected_to_be_impacted
-**Object:** travel disruptions (impact)
-**Temporal:** 2026-01-24 to 2026-01-26
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** Dallas; Atlanta; Memphis; Charlotte
+- **Predicate:** expected_to_be_impacted
+- **Object:** travel disruptions (impact)
+- **Temporal:** 2026-01-24 to 2026-01-26
+- **Sources:** src_001
 
 > Major airports in Dallas, Atlanta, Memphis and Charlotte are expected to be impacted by the storm.
 
-### c_011 — attributed, primary document
-**Subject entities:** arctic vortex; Hudson Bay
-**Predicate:** centered_over
-**Object:** Hudson Bay vortex system (atmospheric_pattern)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** arctic vortex; Hudson Bay
+- **Predicate:** centered_over
+- **Object:** Hudson Bay vortex system (atmospheric_pattern)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > A large sprawling vortex of low pressure is centered over Hudson Bay and is dominating weather over North America, according to National Weather Service meteorologist Bryan Jackson.
 
-### c_012 — reported, primary plus secondary
-**Subject entities:** Texas
-**Predicate:** will_experience_earliest_impacts
-**Object:** storm impacts Friday (temporal_spatial_impact)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** Texas
+- **Predicate:** will_experience_earliest_impacts
+- **Object:** storm impacts Friday (temporal_spatial_impact)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > In Texas, the earliest impacts of the storm are expected Friday as arctic air slides south through the state.
 
-### c_013 — reported, primary plus secondary
-**Subject entities:** Atlanta
-**Predicate:** forecast_temperatures
-**Object:** 22 degrees low, 35 degrees high (temperature)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_013
+- **Hedge:** reported
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** Atlanta
+- **Predicate:** forecast_temperatures
+- **Object:** 22 degrees low, 35 degrees high (temperature)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > In metro Atlanta, if significant ice strikes, low temperatures around 22 degrees Fahrenheit early Monday and a high near 35 degrees Monday are forecast.
 
-### c_014 — reported, single source
-**Subject entities:** Grand Rapids; Michigan
-**Predicate:** experienced_collisions
-**Object:** 100+ vehicle crashes (incident)
-**Temporal:** 2026-01-19
-**Source IDs:** src_001
+### c_014
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Grand Rapids; Michigan
+- **Predicate:** experienced_collisions
+- **Object:** 100+ vehicle crashes (incident)
+- **Temporal:** 2026-01-19
+- **Sources:** src_001
 
 > More than 100 vehicles crashed into each other or slid off an interstate southwest of Grand Rapids, Michigan on Monday.
 
-### c_015 — reported, primary plus secondary
-**Subject entities:** temperatures
-**Predicate:** expected_to_warm_slowly
-**Object:** persistent ice accumulation (impact)
-**Temporal:** 2026-01-24 to 2026-01-28
-**Source IDs:** src_001
+### c_015
+- **Hedge:** reported
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** temperatures
+- **Predicate:** expected_to_warm_slowly
+- **Object:** persistent ice accumulation (impact)
+- **Temporal:** 2026-01-24 to 2026-01-28
+- **Sources:** src_001
 
 > Temperatures are expected to be slow to warm in many areas after the ice forms on roads and sidewalks.
 
@@ -253,10 +272,5 @@ As of Tuesday, residents in affected areas were already taking precautions. In L
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Jeff Martin
 **Publication date:** 2026-01-20
-**Access date:** 2026-01-20
 **Title:** Americans brace for another snowstorm as ice threatens southern states
 **URL:** https://apnews.com/article/winter-weather-snow-ice-weekend-storm-ba67d30f05cbe14e9568907f09d2f13f
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

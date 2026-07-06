@@ -21,7 +21,8 @@ topic_tags:
   - "international relations"
   - "mass media"
   - politics
-storyline_nexus: []
+storyline_nexus:
+- us-cuba-relations-escalation
 geographic_location: Guyana; Caribbean; Latin America
 floor_values_engaged:
 - value: accountability_of_power
@@ -224,7 +225,3 @@ Anthony said that despite the breakdown between the two governments, Guyana is p
 **Access date:** 2026-03-10
 **Title:** Cuban doctors to leave another country, Guyana, as US applies pressure
 **URL:** https://apnews.com/article/cuba-doctors-guyana-jamaica-honduras-trump-4b90e73c333d0513d017ecce61929a6b
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

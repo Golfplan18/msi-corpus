@@ -178,7 +178,3 @@ Carney replaced Justin Trudeau as prime minister in 2025 and moved the Liberal P
 **Access date:** 2026-03-08
 **Title:** Canada's Liberals aim for majority as special elections announced in Toronto and Montreal
 **URL:** https://apnews.com/article/carney-liberals-election-majority-parliament-1b165c66e00a9f76b0072b815a458d5f
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

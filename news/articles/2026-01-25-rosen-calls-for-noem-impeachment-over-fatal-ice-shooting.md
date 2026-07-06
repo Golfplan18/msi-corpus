@@ -18,45 +18,44 @@ primary_themes:
 - Police and law enforcement conduct
 - Congressional oversight
 topic_tags:
-  - "crime, law and justice"
-  - government
-  - "law enforcement"
-  - politics
+- politics
+- government
+- law enforcement
+- crime
+- civil rights
 storyline_nexus:
-  - immigration-enforcement
-geographic_location: Minneapolis, Minnesota; Washington, D.C.; United States
+- us-immigration-enforcement
+geographic_location: United States
 floor_values_engaged:
-- value: human_life_and_dignity
-  intensity: 0.95
 - value: truthfulness
-  intensity: 0.85
+  intensity: 0.9
 - value: accountability_of_power
   intensity: 0.9
-- value: informed_citizenship
-  intensity: 0.8
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+- value: human_life_and_dignity
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:58:55Z'
 source_cluster_id: cluster_ap_2026-01-26_hooting-minneapolis-protests-ice-immigra
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 15
   hedges:
-    appears: 2
-    alleged: 0
     attributed: 4
     reported: 8
-    contested: 0
+    alleged: 0
+    appears: 2
     confirmed: 1
+    contested: 0
   corroboration:
+    two_independent: 0
+    single_source: 10
+    primary_document: 2
     primary_plus_secondary: 3
     one_originating_plus_primary_document: 0
-    primary_document: 2
-    single_source: 10
-    two_independent: 0
 sources:
   count: 1
   outlets:
@@ -70,41 +69,17 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-04-16-minnesota-probes-federal-officers-over-two-killings-wounding-and-highway-assault
-  relation: related
-  strength: 0.7951
-  confidence: medium
-- slug: 2026-04-21-judge-orders-man-shot-by-ice-in-california-to-remain-in-custody
-  relation: related
-  strength: 0.7744
-  confidence: medium
-- slug: 2026-04-16-minnesota-charges-ice-agent-with-felony-assault-for-pointing-gun-at-highway-driv
-  relation: related
-  strength: 0.7722
-  confidence: medium
-- slug: 2026-01-10-congress-weighs-response-to-ice-killing-of-minnesota-woman-renee-good
-  relation: continues
-  strength: 0.8661
-  confidence: high
-- slug: 2026-01-14-minneapolis-sees-second-federal-shooting-as-courts-governor-push-back-on-immigra
-  relation: related
-  strength: 0.802
-  confidence: medium
-- slug: 2026-01-08-vance-calls-minneapolis-woman-s-ice-shooting-death-a-tragedy-of-her-own-making
-  relation: continues
-  strength: 0.8257
-  confidence: high
-- slug: 2026-01-12-minnesota-twin-cities-sue-trump-administration-over-fatal-ice-shooting
-  relation: continues
-  strength: 0.7921
-  confidence: high
-- slug: 2026-01-08-minneapolis-ice-shooting-renews-debate-over-lethal-force-rules-for-moving-vehicl
-  relation: related
-  strength: 0.8086
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Rosen said Noem''s conduct was "deeply shameful" and she "must be impeached and removed from office immediately." The senator made the call in a statement after Noem swiftly defended the shooting with…
+- - U.S. Department of Homeland Security
+- - Police and law enforcement conduct
 
 Democratic Sen. Jacky Rosen of Nevada called for the impeachment of Homeland Security Secretary Kristi Noem, saying that Noem is attempting to mislead the public about a fatal shooting by a Border Patrol agent in Minneapolis. The call came as Democratic anger intensified over the incident and a second fatal shooting by immigration agents this month.
 
@@ -146,138 +121,168 @@ Some Republicans called for a thorough investigation. Sens. Thom Tillis of North
 
 ## Atomic claims
 
-### c_001 — reported, single source
-**Subject entities:** Jacky Rosen; Kristi Noem
-**Predicate:** called_for_impeachment_of
-**Object:** impeachment from office (political_action)
-**Temporal:** 2026-01-25
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Jacky Rosen; Kristi Noem
+- **Predicate:** called_for_impeachment_of
+- **Object:** impeachment from office (political_action)
+- **Temporal:** 2026-01-25
+- **Sources:** src_001
 
 > Sen. Jacky Rosen called for the impeachment of Homeland Security Secretary Kristi Noem.
 
-### c_002 — attributed, single source
-**Subject entities:** Kristi Noem; public
-**Predicate:** attempting_to_mislead
-**Object:** about fatal ICE shooting circumstances (alleged_deception)
-**Temporal:** 2026-01-25
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Kristi Noem; public
+- **Predicate:** attempting_to_mislead
+- **Object:** about fatal ICE shooting circumstances (alleged_deception)
+- **Temporal:** 2026-01-25
+- **Sources:** src_001
 
 > Rosen said Noem is attempting to mislead the American public about the fatal shooting in Minneapolis.
 
-### c_003 — confirmed, primary document
-**Subject entities:** Alex Pretti; Border Patrol agent
-**Predicate:** shot_and_killed
-**Object:** death by gunshot (fatality)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Alex Pretti; Border Patrol agent
+- **Predicate:** shot_and_killed
+- **Object:** death by gunshot (fatality)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > Alex Pretti, a 37-year-old, was shot and killed by a Border Patrol agent in Minneapolis.
 
-### c_004 — appears, primary plus secondary
-**Subject entities:** videos; Trump administration; Alex Pretti
-**Predicate:** appear_to_contradict
-**Object:** administration claim of approach with weapon (factual_contradiction)
-**Temporal:** 2026-01-25
-**Source IDs:** src_001
+### c_004
+- **Hedge:** appears
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** videos; Trump administration; Alex Pretti
+- **Predicate:** appear_to_contradict
+- **Object:** administration claim of approach with weapon (factual_contradiction)
+- **Temporal:** 2026-01-25
+- **Sources:** src_001
 
 > Videos of the shooting appear to contradict the Trump administration's statement that Pretti approached agents with a gun.
 
-### c_005 — appears, primary plus secondary
-**Subject entities:** Alex Pretti
-**Predicate:** appears_in_video_carrying
-**Object:** phone only, no visible weapon (observed_fact)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_005
+- **Hedge:** appears
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** Alex Pretti
+- **Predicate:** appears_in_video_carrying
+- **Object:** phone only, no visible weapon (observed_fact)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > Pretti appears in videos to be carrying only a phone, not a weapon.
 
-### c_006 — reported, single source
-**Subject entities:** agents; Alex Pretti
-**Predicate:** discovered_carrying
-**Object:** 9 mm semiautomatic handgun (weapon)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** agents; Alex Pretti
+- **Predicate:** discovered_carrying
+- **Object:** 9 mm semiautomatic handgun (weapon)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > During a scuffle with agents, they discovered Pretti was carrying a 9 mm semiautomatic handgun.
 
-### c_007 — reported, primary plus secondary
-**Subject entities:** agents; Alex Pretti
-**Predicate:** fired_shots_into
-**Object:** multiple shots including to back (weapon_discharge)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** agents; Alex Pretti
+- **Predicate:** fired_shots_into
+- **Object:** multiple shots including to back (weapon_discharge)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > Border Patrol agents opened fire with several shots, including into Pretti's back.
 
-### c_008 — reported, single source
-**Subject entities:** officials
-**Predicate:** did_not_disclose
-**Object:** whether weapon was brandished (undisclosed_information)
-**Temporal:** 2026-01-25
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** officials
+- **Predicate:** did_not_disclose
+- **Object:** whether weapon was brandished (undisclosed_information)
+- **Temporal:** 2026-01-25
+- **Sources:** src_001
 
 > Officials did not say whether Pretti had brandished the weapon.
 
-### c_009 — attributed, single source
-**Subject entities:** Kristi Noem; Alex Pretti
-**Predicate:** claimed_purpose_of
-**Object:** to impede law enforcement operation (attributed_motive)
-**Temporal:** 2026-01-25
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Kristi Noem; Alex Pretti
+- **Predicate:** claimed_purpose_of
+- **Object:** to impede law enforcement operation (attributed_motive)
+- **Temporal:** 2026-01-25
+- **Sources:** src_001
 
 > Noem said Pretti 'showed up to impede a law enforcement operation.'
 
-### c_010 — attributed, single source
-**Subject entities:** Kristi Noem
-**Predicate:** characterized_incident_as
-**Object:** calculated attack intended to inflict damage and kill law enforcement (incident_characterization)
-**Temporal:** 2026-01-25
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Kristi Noem
+- **Predicate:** characterized_incident_as
+- **Object:** calculated attack intended to inflict damage and kill law enforcement (incident_characterization)
+- **Temporal:** 2026-01-25
+- **Sources:** src_001
 
 > Noem said the situation 'looks like an individual arrived at the scene to inflict maximum damage on individuals and to kill law enforcement.'
 
-### c_011 — attributed, single source
-**Subject entities:** Edward Markey; Kristi Noem
-**Predicate:** called_for_impeachment_proceedings
-**Object:** congressional impeachment proceedings (political_action)
-**Temporal:** 2026-01-25
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Edward Markey; Kristi Noem
+- **Predicate:** called_for_impeachment_proceedings
+- **Object:** congressional impeachment proceedings (political_action)
+- **Temporal:** 2026-01-25
+- **Sources:** src_001
 
 > Sen. Edward Markey called for Congress to begin impeachment proceedings against Noem.
 
-### c_012 — reported, primary document
-**Subject entities:** House Democrats; Kristi Noem
-**Predicate:** support_impeachment_resolution
-**Object:** House impeachment resolution with 100+ co-sponsors (legislative_measure)
-**Temporal:** 2026-01-25
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** House Democrats; Kristi Noem
+- **Predicate:** support_impeachment_resolution
+- **Object:** House impeachment resolution with 100+ co-sponsors (legislative_measure)
+- **Temporal:** 2026-01-25
+- **Sources:** src_001
 
 > A House resolution to launch impeachment proceedings against Noem has the support of more than 100 Democrats.
 
-### c_013 — reported, single source
-**Subject entities:** Catherine Cortez Masto; Tim Kaine; U.S. Senate
-**Predicate:** said_would_vote_against_funding
-**Object:** DHS funding vote this week (legislative_action)
-**Temporal:** 2026-01-25
-**Source IDs:** src_001
+### c_013
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Catherine Cortez Masto; Tim Kaine; U.S. Senate
+- **Predicate:** said_would_vote_against_funding
+- **Object:** DHS funding vote this week (legislative_action)
+- **Temporal:** 2026-01-25
+- **Sources:** src_001
 
 > Moderate Senate Democrats, including Catherine Cortez Masto and Tim Kaine, said they would vote against Homeland Security funding this week to protest ICE actions.
 
-### c_014 — reported, single source
-**Subject entities:** Renee Good; ICE agents
-**Predicate:** shot_and_killed
-**Object:** death by gunshot (fatality)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_014
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Renee Good; ICE agents
+- **Predicate:** shot_and_killed
+- **Object:** death by gunshot (fatality)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Renee Good was shot and killed by ICE agents on Jan. 7.
 
-### c_015 — reported, single source
-**Subject entities:** Kristi Noem; U.S. Coast Guard
-**Predicate:** purchased_jets_for
-**Object:** two luxury jets at $172 million cost (financial_expenditure)
-**Temporal:** 2026-01-25
-**Source IDs:** src_001
+### c_015
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Kristi Noem; U.S. Coast Guard
+- **Predicate:** purchased_jets_for
+- **Object:** two luxury jets at $172 million cost (financial_expenditure)
+- **Temporal:** 2026-01-25
+- **Sources:** src_001
 
 > Rosen cited reports that the Coast Guard purchased Noem's two luxury jets worth $172 million.
 
@@ -286,10 +291,5 @@ Some Republicans called for a thorough investigation. Sens. Thom Tillis of North
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Mary Clare Jalonick
 **Publication date:** 2026-01-25
-**Access date:** 2026-01-25
 **Title:** Moderate Sen. Rosen urges Noem's impeachment as Democratic fury grows
 **URL:** https://apnews.com/article/hooting-minneapolis-protests-ice-immigration-6eab65fcf808227bc02c19acfb94cae3
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -17,44 +17,44 @@ primary_themes:
 - regulatory_oversight
 - housing_affordability
 topic_tags:
-  - "artificial intelligence"
-  - economy
-  - "economy, business and finance"
-  - government
-  - "government policy"
-  - politics
-storyline_nexus: []
+- banking
+- government policy
+- economy
+- financial and business service
+- monetary policy
+storyline_nexus:
+- housing-affordability-crisis
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
-  intensity: 0.85
+  intensity: 0.9
 - value: truthfulness
-  intensity: 0.75
+  intensity: 0.6
 - value: informed_citizenship
-  intensity: 0.8
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:52:42Z'
 source_cluster_id: cluster_ap_2026-01-26_pulte-mortgages-bonds-fannie-mac-freddie
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 12
   hedges:
     appears: 1
-    alleged: 0
+    contested: 0
     attributed: 5
     reported: 5
-    contested: 0
     confirmed: 1
+    alleged: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
+    two_independent: 0
     primary_document: 1
     single_source: 11
-    two_independent: 0
+    one_originating_plus_primary_document: 0
+    primary_plus_secondary: 0
 sources:
   count: 1
   outlets:
@@ -72,25 +72,12 @@ image:
   url: /articles/2026-01-24-pulte-increases-mortgage-bond-purchase-limits-for-lenders.png
   alt: 'Illustration accompanying article: Pulte increases mortgage bond purchase limits for lenders'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-08-trump-directs-fannie-freddie-to-buy-200b-in-mortgage-bonds-to-lower-rates
-  relation: continues
-  strength: 0.8825
-  confidence: high
-- slug: 2026-04-18-home-sales-fall-to-9-month-low-as-mortgage-relief-fails-to-spur-buyers
-  relation: related
-  strength: 0.7644
-  confidence: medium
-- slug: 2026-01-07-trump-calls-for-ban-on-large-investors-buying-homes-citing-affordability-concern
-  relation: related
-  strength: 0.7783
-  confidence: medium
-- slug: 2026-01-08-cbo-projects-fed-rate-cuts-in-2026-as-treasury-yields-mortgage-costs-set-to-rise
-  relation: related
-  strength: 0.7513
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
 
 Bill Pulte, President Trump's federal housing finance director, granted government-backed mortgage lenders the authority to hold significantly more bonds than previously permitted, according to an email obtained by The Associated Press. The Jan. 12 email from the Federal Housing Finance Agency eliminated caps that prohibited Fannie Mae and Freddie Mac from each holding more than $40 billion in mortgage bonds, raising the limits to $225 billion apiece. The move reverses nearly two decades of post-2008 financial-crisis safeguards, according to the AP.
 
@@ -130,112 +117,134 @@ Pulte has used his position as head of the Federal Housing Finance Agency—norm
 
 Pulte was identified as a driving force behind the administration's decision to criminally investigate Federal Reserve Chair Jerome Powell, according to Bloomberg News. He has presided over the firing of executives at Fannie Mae and Freddie Mac, as well as ethics officials at Fannie Mae who were investigating him and his allies. In November, Pulte convinced Trump of the allure of a 50-year mortgage as a way to increase home buying and building—a proposal that would drastically increase the overall price of a loan.
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Federal Housing Finance Agency; Fannie Mae; Freddie Mac
-**Predicate:** eliminated_caps_increased_limits
-**Object:** increased from $40 billion to $225 billion per entity (regulatory_limit_change)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Federal Housing Finance Agency; Fannie Mae; Freddie Mac
+- **Predicate:** eliminated_caps_increased_limits
+- **Object:** increased from $40 billion to $225 billion per entity (regulatory_limit_change)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > A Federal Housing Finance Agency email on Jan. 12 eliminated caps that prohibited Fannie Mae and Freddie Mac from each holding more than $40 billion in mortgage bonds, raising the limits to $225 billion apiece.
 
-### c_002 — appears, single source
-**Subject entities:** Fannie Mae; Freddie Mac
-**Predicate:** could_increase_purchases
-**Object:** $170 billion additional purchases possible (monetary_amount)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_002
+- **Hedge:** appears
+- **Corroboration:** single_source
+- **Subject entities:** Fannie Mae; Freddie Mac
+- **Predicate:** could_increase_purchases
+- **Object:** $170 billion additional purchases possible (monetary_amount)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > The email change could allow the lenders to increase bond purchases by roughly $170 billion beyond what Trump initially ordered.
 
-### c_003 — reported, single source
-**Subject entities:** Fannie Mae; Freddie Mac; U.S. Congress
-**Predicate:** reverses
-**Object:** post-2008 consensus on mortgage bond purchase limits (policy_reversal)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Fannie Mae; Freddie Mac; U.S. Congress
+- **Predicate:** reverses
+- **Object:** post-2008 consensus on mortgage bond purchase limits (policy_reversal)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > The changes to the purchasing rules reverse nearly two decades of bipartisan consensus that limits should be imposed after the government bailed out Fannie Mae and Freddie Mac in the aftermath of the 2008-09 financial crisis.
 
-### c_004 — attributed, single source
-**Subject entities:** Bill Pulte
-**Predicate:** stated
-**Object:** lenders will not exceed $200 billion in purchases (statement)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Bill Pulte
+- **Predicate:** stated
+- **Object:** lenders will not exceed $200 billion in purchases (statement)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > Pulte said on X that despite the lenders' new bond purchasing authority, they would not exceed $200 billion.
 
-### c_005 — attributed, single source
-**Subject entities:** Federal Housing Finance Agency
-**Predicate:** clarified
-**Object:** lenders will not exceed president's $200 billion directive (statement)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Federal Housing Finance Agency
+- **Predicate:** clarified
+- **Object:** lenders will not exceed president's $200 billion directive (statement)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > After the AP article was published, the Federal Housing Finance Agency stated that Fannie and Freddie will not be allowed to go beyond the president's buy.
 
-### c_006 — attributed, single source
-**Subject entities:** Elizabeth Warren
-**Predicate:** said
-**Object:** Trump's plan will do little to lower rates long-term and raises risks (assessment)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Elizabeth Warren
+- **Predicate:** said
+- **Object:** Trump's plan will do little to lower rates long-term and raises risks (assessment)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > Sen. Elizabeth Warren said the plan is just a smoke screen that will do little to lower mortgage interest rates over the long term and raises questions about increased risks to Fannie and Freddie.
 
-### c_007 — attributed, single source
-**Subject entities:** Jim Parrott
-**Predicate:** said
-**Object:** effect of mortgage bond plan will be fleeting (assessment)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jim Parrott
+- **Predicate:** said
+- **Object:** effect of mortgage bond plan will be fleeting (assessment)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > Jim Parrott, who served on the National Economic Council during Barack Obama's presidency, said any effect from the plan may be fleeting.
 
-### c_008 — attributed, single source
-**Subject entities:** Edward Pinto
-**Predicate:** said
-**Object:** government has made mortgage-market mistakes before and can do so again (assessment)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Edward Pinto
+- **Predicate:** said
+- **Object:** government has made mortgage-market mistakes before and can do so again (assessment)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > Edward Pinto, a resident fellow at the American Enterprise Institute and former Fannie Mae executive, said it is easy for the federal government to make a mistake and they have done it in the past.
 
-### c_009 — reported, single source
-**Subject entities:** Bill Pulte; Fannie Mae; Freddie Mac
-**Predicate:** appointed_himself_chair
-**Object:** chair of Fannie Mae and Freddie Mac (position)
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Bill Pulte; Fannie Mae; Freddie Mac
+- **Predicate:** appointed_himself_chair
+- **Object:** chair of Fannie Mae and Freddie Mac (position)
+- **Sources:** src_001
 
 > Pulte appointed himself chair of Fannie Mae and Freddie Mac.
 
-### c_010 — reported, single source
-**Subject entities:** Bill Pulte; Jerome Powell
-**Predicate:** identified_as_driving_force_for
-**Object:** criminal investigation of Federal Reserve Chair (action)
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Bill Pulte; Jerome Powell
+- **Predicate:** identified_as_driving_force_for
+- **Object:** criminal investigation of Federal Reserve Chair (action)
+- **Sources:** src_001
 
 > Pulte was identified as a driving force behind the administration's decision to criminally investigate Federal Reserve Chair Jerome Powell, according to Bloomberg News.
 
-### c_011 — reported, single source
-**Subject entities:** Bill Pulte; Fannie Mae; Freddie Mac
-**Predicate:** presided_over_firings
-**Object:** executives and ethics officials dismissed (action)
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Bill Pulte; Fannie Mae; Freddie Mac
+- **Predicate:** presided_over_firings
+- **Object:** executives and ethics officials dismissed (action)
+- **Sources:** src_001
 
 > Pulte has presided over the firing of executives at Fannie Mae and Freddie Mac, as well as ethics officials at Fannie Mae who were investigating him and his allies.
 
-### c_012 — reported, single source
-**Subject entities:** Bill Pulte; Donald Trump
-**Predicate:** convinced_of_proposal
-**Object:** 50-year mortgage policy proposal (policy_proposal)
-**Temporal:** 2025-11
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Bill Pulte; Donald Trump
+- **Predicate:** convinced_of_proposal
+- **Object:** 50-year mortgage policy proposal (policy_proposal)
+- **Temporal:** 2025-11
+- **Sources:** src_001
 
 > In November, Pulte convinced Trump of the allure of a 50-year mortgage as a way to increase home buying and building, a proposal that would drastically increase the overall price of a loan.
 
@@ -244,10 +253,5 @@ This article was generated algorithmically by Main Street Independent's News Art
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Brian Slodysko
 **Publication date:** 2026-01-24
-**Access date:** 2026-01-24
 **Title:** Pulte OKs more mortgage spending, adding risk for government-backed lenders
 **URL:** https://apnews.com/article/pulte-mortgages-bonds-fannie-mac-freddie-mae-bd96e67f56910cbda81b7b9b3a54516c
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

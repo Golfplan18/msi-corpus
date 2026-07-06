@@ -21,49 +21,45 @@ primary_themes:
 - immigration enforcement
 - domestic violence
 topic_tags:
-  - politics
-  - government
-  - "crime, law and justice"
-  - "law enforcement"
-  - judiciary
-  - "science and technology"
+- crime
+- law enforcement
+- government policy
+- fundamental rights
 storyline_nexus:
-  - immigration-enforcement
-geographic_location: Washington state, United States
+- us-immigration-enforcement
+geographic_location: United States
 floor_values_engaged:
-- value: accountability_of_power
-  intensity: 0.9
 - value: human_life_and_dignity
-  intensity: 0.8
-- value: informed_citizenship
-  intensity: 0.85
-framework_version: 1.1.0
-generation_timestamp: '2026-01-15T00:00:00Z'
+  intensity: 0.9
+- value: accountability_of_power
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:47:25Z'
 source_cluster_id: cluster_ap_2026-01-16_washington-law-enforcement-general-news-
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 14
   hedges:
-    appears: 0
-    alleged: 1
-    attributed: 2
-    reported: 8
     contested: 0
+    attributed: 2
+    appears: 0
+    reported: 8
     confirmed: 3
+    alleged: 1
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 1
     single_source: 13
     two_independent: 0
+    one_originating_plus_primary_document: 0
+    primary_plus_secondary: 0
+    primary_document: 1
 sources:
   count: 1
   outlets:
-  - Associated Press / InvestigateWest
+  - Associated Press
   outlet_classes:
   - wire
   highest_reliability_tier: 1
@@ -76,6 +72,16 @@ figures_aggregate:
 cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Washington scrambles to regulate license-plate cameras that could aid stalkers
+- A Skagit County superior court judge ruled in November 2025 that nearly every image captured by automatic license-plate readers in Washington is a public record available to anyone who requests it.
+- Flock Safety cameras are used by more than 5,000 law enforcement agencies across the country, according to the company.
+- Flock devices can record a vehicle's make, model, color, dents, roof racks, window stickers and animals in the truck bed, in addition to the license plate.
+- The proposed Washington bill would ban Flock cameras outside hospitals, schools, food banks and churches.
 
 Washington state lawmakers have introduced legislation to sharply limit public access to automatic license-plate reader data after a November court ruling found that nearly all images captured by the cameras in the state qualify as public records available to anyone who requests them — a decision that law enforcement officials say could allow stalkers and abusers to track victims through government databases.
 
@@ -145,141 +151,164 @@ Trudeau acknowledged the bill's co-sponsorship reflects the breadth of the under
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Skagit County Superior Court
-**Predicate:** ruled
-**Object:** license-plate reader images are public records in Washington (legal_ruling)
-**Temporal:** 2025-11
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Skagit County Superior Court
+- **Predicate:** ruled
+- **Object:** license-plate reader images are public records in Washington (legal_ruling)
+- **Temporal:** 2025-11
+- **Sources:** src_001
 
 > A Skagit County superior court judge ruled in November 2025 that nearly every image captured by automatic license-plate readers in Washington is a public record available to anyone who requests it.
 
-### c_002 — attributed, single source
-**Subject entities:** Flock Safety
-**Predicate:** serves
-**Object:** 5000+ law enforcement agencies (customer_count)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Flock Safety
+- **Predicate:** serves
+- **Object:** 5000+ law enforcement agencies (customer_count)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Flock Safety cameras are used by more than 5,000 law enforcement agencies across the country, according to the company.
 
-### c_003 — attributed, single source
-**Subject entities:** Flock Safety
-**Predicate:** captures
-**Object:** vehicle characteristics beyond license plate (technological_capability)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Flock Safety
+- **Predicate:** captures
+- **Object:** vehicle characteristics beyond license plate (technological_capability)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Flock devices can record a vehicle's make, model, color, dents, roof racks, window stickers and animals in the truck bed, in addition to the license plate.
 
-### c_004 — reported, single source
-**Subject entities:** Washington State Legislature
-**Predicate:** proposes
-**Object:** geographic restriction on camera placement (legislative_proposal)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Washington State Legislature
+- **Predicate:** proposes
+- **Object:** geographic restriction on camera placement (legislative_proposal)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > The proposed Washington bill would ban Flock cameras outside hospitals, schools, food banks and churches.
 
-### c_005 — reported, single source
-**Subject entities:** Washington State Legislature
-**Predicate:** proposes
-**Object:** prohibition on immigration and protest use (legislative_proposal)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Washington State Legislature
+- **Predicate:** proposes
+- **Object:** prohibition on immigration and protest use (legislative_proposal)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > The proposed bill would prohibit use of Flock cameras for immigration enforcement or to track protests.
 
-### c_006 — reported, single source
-**Subject entities:** Washington State Legislature
-**Predicate:** proposes
-**Object:** 30-day to 3-day retention reduction (legislative_proposal)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Washington State Legislature
+- **Predicate:** proposes
+- **Object:** 30-day to 3-day retention reduction (legislative_proposal)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > The proposed bill would reduce the default image-retention period from 30 days to three days.
 
-### c_007 — reported, single source
-**Subject entities:** University of Washington; U.S. Border Patrol
-**Predicate:** documented
-**Object:** 8+ WA agencies gave Border Patrol Flock access (research_finding)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** University of Washington; U.S. Border Patrol
+- **Predicate:** documented
+- **Object:** 8+ WA agencies gave Border Patrol Flock access (research_finding)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > A University of Washington research project found that at least eight Washington law enforcement agencies had given U.S. Border Patrol access to Flock images to potentially aid immigration enforcement.
 
-### c_008 — reported, single source
-**Subject entities:** Texas law enforcement
-**Predicate:** searched
-**Object:** nationwide Flock cameras to locate abortion patient (surveillance_action)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Texas law enforcement
+- **Predicate:** searched
+- **Object:** nationwide Flock cameras to locate abortion patient (surveillance_action)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Audit records revealed that Texas sheriff's deputies searched Flock cameras nationwide, including Spokane County's network, to locate a woman who had obtained an abortion.
 
-### c_009 — alleged, single source
-**Subject entities:** unidentified Atlanta-area police chief
-**Predicate:** arrested
-**Object:** alleged stalking via license-plate readers (criminal_allegation)
-**Temporal:** 2025-11
-**Source IDs:** src_001
+### c_009
+- **Hedge:** alleged
+- **Corroboration:** single_source
+- **Subject entities:** unidentified Atlanta-area police chief
+- **Predicate:** arrested
+- **Object:** alleged stalking via license-plate readers (criminal_allegation)
+- **Temporal:** 2025-11
+- **Sources:** src_001
 
 > A police chief outside Atlanta, Georgia was arrested in November 2025 for allegedly using the city's license-plate readers to stalk and harass people.
 
-### c_010 — reported, single source
-**Subject entities:** unidentified Kansas police chief
-**Predicate:** tracked
-**Object:** ex-girlfriend license plate 200+ times over 5 months (surveillance_action)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** unidentified Kansas police chief
+- **Predicate:** tracked
+- **Object:** ex-girlfriend license plate 200+ times over 5 months (surveillance_action)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > A Kansas police chief used Flock cameras to track the license plates of his ex-girlfriend and her boyfriend more than 200 times over five months, according to news reports.
 
-### c_011 — confirmed, single source
-**Subject entities:** City of Olympia
-**Predicate:** deactivated
-**Object:** Flock camera program (policy_action)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_011
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** City of Olympia
+- **Predicate:** deactivated
+- **Object:** Flock camera program (policy_action)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > Olympia shut off its Flock cameras at the police department's request in December 2025 due to concerns revealed through public records.
 
-### c_012 — reported, single source
-**Subject entities:** Washington State
-**Predicate:** lacks
-**Object:** ALPR regulation compared to nearly half of states (legislative_status)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Washington State
+- **Predicate:** lacks
+- **Object:** ALPR regulation compared to nearly half of states (legislative_status)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Washington lags behind nearly half of all states, including Idaho, that have passed laws regulating automatic license-plate readers.
 
-### c_013 — reported, single source
-**Subject entities:** Spokane County Sheriff's Office
-**Predicate:** logged
-**Object:** vague 'investigation' justification for 12+ searches (audit_finding)
-**Temporal:** 2025-11
-**Source IDs:** src_001
+### c_013
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Spokane County Sheriff's Office
+- **Predicate:** logged
+- **Object:** vague 'investigation' justification for 12+ searches (audit_finding)
+- **Temporal:** 2025-11
+- **Sources:** src_001
 
 > More than a dozen Flock searches were made by Spokane County sheriff's deputies in November with no explanation logged other than the word 'investigation,' according to records obtained by Range Media.
 
-### c_014 — confirmed, single source
-**Subject entities:** Spokane County
-**Predicate:** terminated
-**Object:** participation in nationwide Flock search network (policy_action)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_014
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Spokane County
+- **Predicate:** terminated
+- **Object:** participation in nationwide Flock search network (policy_action)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Spokane County has ended participation in nationwide Flock searches after records revealed the Texas deputies' use of the network.
 
 ## Sources
 
-### src_001 — Associated Press / InvestigateWest, wire, Tier 1, originating
-**Author:** Daniel Walters
+### src_001 — Associated Press, wire, Tier 1, originating
+**Author:** Daniel Walters / Investigatewest
 **Publication date:** 2026-01-15
-**Access date:** 2026-01-15
 **Title:** Washington scrambles to regulate license-plate cameras that could aid stalkers
 **URL:** https://apnews.com/article/washington-law-enforcement-general-news-spokane-olympia-473dbb1966e3f0e170a2534fba471792
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

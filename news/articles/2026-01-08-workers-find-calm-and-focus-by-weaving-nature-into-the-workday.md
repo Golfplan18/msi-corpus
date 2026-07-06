@@ -16,45 +16,40 @@ primary_themes:
 - office design
 - work-life balance
 topic_tags:
-  - "artificial intelligence"
-  - "crime, law and justice"
-  - government
-  - "government policy"
-  - health
-  - labour
+- employment
+- mental health
+- lifestyle and leisure
+- environment
+- human interest
 storyline_nexus:
-  - us-administration-2026
-  - us-china-relations
-  - monetary-policy-2026
+- extreme-weather-disasters
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
-  intensity: 0.5
-- value: informed_citizenship
-  intensity: 0.4
-framework_version: 1.1.0
-generation_timestamp: '2026-05-16T19:49:17Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T04:25:25Z'
 source_cluster_id: cluster_ap_2026-01-07_nature-outdoors-workday-office-job-winte
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 9
   hedges:
+    contested: 0
+    attributed: 8
+    confirmed: 0
+    reported: 1
     appears: 0
     alleged: 0
-    attributed: 8
-    reported: 1
-    contested: 0
-    confirmed: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 0
+    primary_plus_secondary: 0
     single_source: 9
     two_independent: 0
+    one_originating_plus_primary_document: 0
 sources:
   count: 1
   outlets:
@@ -72,13 +67,18 @@ image:
   url: /articles/2026-01-08-workers-find-calm-and-focus-by-weaving-nature-into-the-workday.png
   alt: 'Illustration accompanying article: Workers find calm and focus by weaving nature into the workday'
   source: ai_generated
-cross_article_links:
-- slug: 2025-12-07-nordic-experts-advise-light-therapy-social-habits-to-counter-winter-blues
-  relation: related
-  strength: 0.7224
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Placeholder bullet 1.
+- Placeholder bullet 2.
+- Placeholder bullet 3.
+- Placeholder bullet 4.
 
 For office workers confined to windowless cubicles and back-to-back meetings, even small doses of nature — a lunchtime walk to a nearby garden, a potted plant on the desk, or a video call taken on a wooded path — can ease stress and sharpen focus, workers and workplace wellness advocates said.
 
@@ -134,84 +134,102 @@ For workers in cold climates or stuck in windowless spaces, smaller accommodatio
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Anna Rose Smith
-**Predicate:** worked_in
-**Object:** windowless office in Utah (workplace_condition)
-**Temporal:** prior to 2026
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Anna Rose Smith
+- **Predicate:** worked_in
+- **Object:** windowless office in Utah (workplace_condition)
+- **Temporal:** prior to 2026
+- **Sources:** src_001
 
 > Anna Rose Smith, a psychotherapist, worked early in her career in a windowless office in Utah.
 
-### c_002 — attributed, single source
-**Subject entities:** Anna Rose Smith
-**Predicate:** practiced
-**Object:** outdoor lunch breaks with collected nature items (behavior)
-**Temporal:** prior to 2026
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Anna Rose Smith
+- **Predicate:** practiced
+- **Object:** outdoor lunch breaks with collected nature items (behavior)
+- **Temporal:** prior to 2026
+- **Sources:** src_001
 
 > Smith spent lunch breaks walking to nearby fountains or gardens and brought flower petals and leaves back to her desk.
 
-### c_003 — attributed, single source
-**Subject entities:** Anna Rose Smith
-**Predicate:** used
-**Object:** recorded bird songs in therapy practice (professional_practice)
-**Temporal:** prior to 2026
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Anna Rose Smith
+- **Predicate:** used
+- **Object:** recorded bird songs in therapy practice (professional_practice)
+- **Temporal:** prior to 2026
+- **Sources:** src_001
 
 > Smith listened to recorded bird songs at her desk and sometimes incorporated them into sessions with clients.
 
-### c_004 — attributed, single source
-**Subject entities:** Atlantic Packaging
-**Predicate:** encourages
-**Object:** outdoor and walking meetings (workplace_policy)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Atlantic Packaging
+- **Predicate:** encourages
+- **Object:** outdoor and walking meetings (workplace_policy)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Atlantic Packaging, a sustainable packaging manufacturer headquartered in Wilmington, North Carolina, encourages employees to hold meetings in courtyards or while walking.
 
-### c_005 — attributed, single source
-**Subject entities:** Atlantic Packaging
-**Predicate:** launched
-**Object:** employee nature challenge (employee_program)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Atlantic Packaging
+- **Predicate:** launched
+- **Object:** employee nature challenge (employee_program)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > Atlantic Packaging launched a nature challenge in 2024 in which employees tracked time spent outdoors and uploaded photos to a group chat.
 
-### c_006 — attributed, single source
-**Subject entities:** Ford Motor Company
-**Predicate:** redesigned
-**Object:** Dearborn headquarters with nature features (facilities)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ford Motor Company
+- **Predicate:** redesigned
+- **Object:** Dearborn headquarters with nature features (facilities)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Ford Motor Company redesigned its Dearborn, Michigan, headquarters in 2025 to include native plants, walking paths, and outdoor pavilions.
 
-### c_007 — attributed, single source
-**Subject entities:** Ford Motor Company
-**Predicate:** designed
-**Object:** office layout with shared window access in collaborative spaces (architecture)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ford Motor Company
+- **Predicate:** designed
+- **Object:** office layout with shared window access in collaborative spaces (architecture)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Ford placed offices in the center of floors so exterior walls with tall windows could be enjoyed by everyone in collaborative spaces.
 
-### c_008 — attributed, single source
-**Subject entities:** Erin Mantz; Zeno Group
-**Predicate:** walks_to
-**Object:** Pilates class before work, four times per week (behavior)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Erin Mantz; Zeno Group
+- **Predicate:** walks_to
+- **Object:** Pilates class before work, four times per week (behavior)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Erin Mantz, vice president of marketing for public relations firm Zeno Group in Washington, D.C., walks to a Pilates class before work four times a week.
 
-### c_009 — reported, single source
-**Subject entities:** Atlantic Packaging
-**Predicate:** reported
-**Object:** improved stress handling from more outdoor time (self_reported_outcome)
-**Temporal:** 2024-2026
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Atlantic Packaging
+- **Predicate:** reported
+- **Object:** improved stress handling from more outdoor time (self_reported_outcome)
+- **Temporal:** 2024-2026
+- **Sources:** src_001
 
 > Some Atlantic Packaging employees reported feeling they handled stress better as a result of spending more time outside.
 
@@ -220,10 +238,5 @@ For workers in cold climates or stuck in windowless spaces, smaller accommodatio
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Cathy Bussewitz
 **Publication date:** 2026-01-08
-**Access date:** 2026-01-08
 **Title:** Making time for nature during the workday
 **URL:** https://apnews.com/article/nature-outdoors-workday-office-job-winter-4000f48dba4197a059153a80939b9292
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

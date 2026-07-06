@@ -18,42 +18,42 @@ primary_themes:
 - tariffs
 - automation
 topic_tags:
-  - "artificial intelligence"
-  - "disaster, accident and emergency incident"
-  - "economy, business and finance"
-  - fire
-  - government
-  - "government policy"
-storyline_nexus: []
+- employment
+- labour market
+- unemployment
+- economy
+- macroeconomics
+storyline_nexus:
+- us-economic-volatility
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship
-  intensity: 0.85
-- value: accountability_of_power
-  intensity: 0.35
-framework_version: 1.1.0
-generation_timestamp: '2026-01-07T00:00:00Z'
+  intensity: 0.9
+- value: truthfulness
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-22T23:40:05Z'
 source_cluster_id: cluster_ap_2026-01-06_jobs-economy-hiring-e7b5d4c29d444ea01919
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 15
   hedges:
-    appears: 0
-    alleged: 0
+    contested: 0
     attributed: 6
     reported: 0
-    contested: 0
+    appears: 0
+    alleged: 0
     confirmed: 9
   corroboration:
     primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
+    two_independent: 0
     primary_document: 9
     single_source: 6
-    two_independent: 0
+    one_originating_plus_primary_document: 0
 sources:
   count: 1
   outlets:
@@ -63,37 +63,24 @@ sources:
   highest_reliability_tier: 1
   has_originating: true
   has_primary_document: false
-figures:
-- source: fred
-  series_id: JTSQUL
-  transformation: raw
-  as_of: '2026-01-07'
-  caption: Voluntary job separations ticked up to 3.161 million in November 2025 but remained historically subdued, signaling that workers lack the confidence to quit for better opportunities at the pace seen before 2023.
 figures_aggregate:
-  count: 1
-  series_ids:
-  - JTSQUL
-  sources:
-  - fred
+  count: 0
+  series_ids: []
+  sources: []
 image:
   url: /articles/2026-01-07-job-openings-near-5-year-low-in-november-as-low-hire-low-fire-market-persists.png
   alt: 'Illustration accompanying article: Job openings near 5-year low in November as low-hire, low-fire market persists'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-04-us-economy-grew-in-2025-but-hiring-lagged-as-tariffs-and-ai-curbed-job-gains
-  relation: related
-  strength: 0.8634
-  confidence: medium
-- slug: 2025-12-30-fed-december-rate-cut-a-close-call-as-officials-split-on-inflation-versus-jobs
-  relation: related
-  strength: 0.7087
-  confidence: medium
-- slug: 2025-12-30-fed-minutes-reveal-close-december-rate-call-as-committee-splits-on-inflation-vs-
-  relation: related
-  strength: 0.6925
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- U.
+- The figures underscore a persistent disconnect between solid economic growth — which topped 4% at an annual rate in the third quarter of 2025 — and a labor market that has yet to translate that expansion into meaningful job creation, raising question…
+- Article details provided in full text.
 
 U.S. employers posted 7.1 million job openings at the end of November, down from 7.4 million in October and the lowest tally since September 2024, the Labor Department said Wednesday. Outside that month, it was the lowest in nearly five years. Layoffs also fell, indicating companies are holding onto workers even as they remain reluctant to expand payrolls.
 
@@ -127,138 +114,168 @@ Further data on the labor market's direction will arrive Friday, when the Labor 
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** US_employers
-**Predicate:** posted_job_openings
-**Object:** 7.1 million (count)
-**Temporal:** 2025-11-30
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** US_employers
+- **Predicate:** posted_job_openings
+- **Object:** 7.1 million (count)
+- **Temporal:** 2025-11-30
+- **Sources:** src_001
 
 > U.S. employers posted 7.1 million job openings at the end of November 2025.
 
-### c_002 — confirmed, primary document
-**Subject entities:** US_job_openings
-**Predicate:** declined
-**Object:** 7.4 million to 7.1 million (monthly_change)
-**Temporal:** 2025-11-30
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** US_job_openings
+- **Predicate:** declined
+- **Object:** 7.4 million to 7.1 million (monthly_change)
+- **Temporal:** 2025-11-30
+- **Sources:** src_001
 
 > Job openings fell from 7.4 million in October to 7.1 million in November 2025.
 
-### c_003 — confirmed, primary document
-**Subject entities:** US_job_openings
-**Predicate:** reached_historical_low
-**Object:** near 5-year low (comparative)
-**Temporal:** 2025-11-30
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** US_job_openings
+- **Predicate:** reached_historical_low
+- **Object:** near 5-year low (comparative)
+- **Temporal:** 2025-11-30
+- **Sources:** src_001
 
 > The November figure was the lowest since September 2024 and, outside that month, the lowest in nearly five years.
 
-### c_004 — confirmed, primary document
-**Subject entities:** US_employers
-**Predicate:** reduced_layoffs
-**Object:** decline (directional)
-**Temporal:** 2025-11-30
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** US_employers
+- **Predicate:** reduced_layoffs
+- **Object:** decline (directional)
+- **Temporal:** 2025-11-30
+- **Sources:** src_001
 
 > Layoffs dropped in November, indicating companies are retaining workers even while reluctant to hire.
 
-### c_005 — confirmed, primary document
-**Subject entities:** US_GDP
-**Predicate:** grew
-**Object:** above 4% annualized (growth_rate)
-**Temporal:** 2025-09-30
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** US_GDP
+- **Predicate:** grew
+- **Object:** above 4% annualized (growth_rate)
+- **Temporal:** 2025-09-30
+- **Sources:** src_001
 
 > U.S. real GDP growth topped 4% at an annual rate in the third quarter of 2025, the July-September period.
 
-### c_006 — confirmed, primary document
-**Subject entities:** US_workers
-**Predicate:** quit_jobs
-**Object:** 3.161 million (count)
-**Temporal:** 2025-11-30
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** US_workers
+- **Predicate:** quit_jobs
+- **Object:** 3.161 million (count)
+- **Temporal:** 2025-11-30
+- **Sources:** src_001
 
 > The number of Americans who quit their jobs rose to 3.161 million in November, up from just under 3 million in October.
 
-### c_007 — confirmed, primary document
-**Subject entities:** shipping_warehousing; restaurants_hotels; state_local_government
-**Predicate:** saw_job_opening_declines
-**Object:** sharp decline (directional)
-**Temporal:** 2025-11-30
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** shipping_warehousing; restaurants_hotels; state_local_government
+- **Predicate:** saw_job_opening_declines
+- **Object:** sharp decline (directional)
+- **Temporal:** 2025-11-30
+- **Sources:** src_001
 
 > Job openings fell sharply in shipping and warehousing, restaurants and hotels, and state and local government in November.
 
-### c_008 — confirmed, primary document
-**Subject entities:** retail; construction
-**Predicate:** saw_job_opening_increases
-**Object:** increase (directional)
-**Temporal:** 2025-11-30
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** retail; construction
+- **Predicate:** saw_job_opening_increases
+- **Object:** increase (directional)
+- **Temporal:** 2025-11-30
+- **Sources:** src_001
 
 > Job openings rose in retail and construction in November.
 
-### c_009 — attributed, single source
-**Subject entities:** ADP; US_businesses
-**Predicate:** added_jobs
-**Object:** 41,000 (count)
-**Temporal:** 2025-12-31
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** ADP; US_businesses
+- **Predicate:** added_jobs
+- **Object:** 41,000 (count)
+- **Temporal:** 2025-12-31
+- **Sources:** src_001
 
 > Payroll provider ADP reported that businesses added 41,000 jobs in December 2025, after shedding 29,000 positions in November.
 
-### c_010 — attributed, single source
-**Subject entities:** US_small_businesses
-**Predicate:** added_jobs
-**Object:** 9,000 (count)
-**Temporal:** 2025-12-31
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** US_small_businesses
+- **Predicate:** added_jobs
+- **Object:** 9,000 (count)
+- **Temporal:** 2025-12-31
+- **Sources:** src_001
 
 > Small firms with fewer than 50 workers added 9,000 jobs in December, reversing prior months of job losses.
 
-### c_011 — attributed, single source
-**Subject entities:** Nela_Richardson; ADP
-**Predicate:** assessed_labor_market
-**Object:** slower but stable (quotation)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Nela_Richardson; ADP
+- **Predicate:** assessed_labor_market
+- **Object:** slower but stable (quotation)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Nela Richardson, chief economist at ADP, said the labor market is slower but not deteriorating sharply.
 
-### c_012 — attributed, single source
-**Subject entities:** Bank_of_America_Institute
-**Predicate:** reported_hiring_pickup
-**Object:** 0.6% YoY December vs 0.2% November (rate)
-**Temporal:** 2025-12-31
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Bank_of_America_Institute
+- **Predicate:** reported_hiring_pickup
+- **Object:** 0.6% YoY December vs 0.2% November (rate)
+- **Temporal:** 2025-12-31
+- **Sources:** src_001
 
 > Bank of America Institute data showed job gains rose to 0.6% year-over-year in December, up from 0.2% in November.
 
-### c_013 — attributed, single source
-**Subject entities:** David_Tinsley; Bank_of_America_Institute
-**Predicate:** assessed_slowdown
-**Object:** possible bottom (quotation)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** David_Tinsley; Bank_of_America_Institute
+- **Predicate:** assessed_slowdown
+- **Object:** possible bottom (quotation)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > David Tinsley, senior economist at Bank of America Institute, said data suggest the worst of the slowdown could be behind us.
 
-### c_014 — attributed, single source
-**Subject entities:** Donald_Trump; US_small_businesses
-**Predicate:** impacted_by_tariffs
-**Object:** greater cost burden (assessment)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald_Trump; US_small_businesses
+- **Predicate:** impacted_by_tariffs
+- **Object:** greater cost burden (assessment)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Economists say smaller firms have been harder hit by President Donald Trump's tariffs, with less ability to absorb or pass on costs compared with larger companies.
 
-### c_015 — confirmed, primary document
-**Subject entities:** Labor_Department
-**Predicate:** will_release_report
-**Object:** December jobs report (scheduled_event)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_015
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Labor_Department
+- **Predicate:** will_release_report
+- **Object:** December jobs report (scheduled_event)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > The Labor Department's December monthly jobs report is scheduled for release on Friday.
 
@@ -267,10 +284,5 @@ Further data on the labor market's direction will arrive Friday, when the Labor 
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Christopher Rugaber
 **Publication date:** 2026-01-07
-**Access date:** 2026-01-07
 **Title:** Job openings slide to 2nd lowest level in 5 years as hiring remains sluggish
 **URL:** https://apnews.com/article/jobs-economy-hiring-e7b5d4c29d444ea019199d8bb759bb51
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

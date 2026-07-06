@@ -21,7 +21,7 @@ topic_tags:
   - "government policy"
   - "human interest"
 storyline_nexus:
-  - immigration-enforcement
+- redistricting-voting-rights
 geographic_location: Vermont, United States
 floor_values_engaged:
 - value: truthfulness
@@ -118,102 +118,124 @@ For customers trying to understand the changes, the lack of public information h
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** United States Postal Service; Vermont
-**Predicate:** implemented
-**Object:** Regional Transportation Optimization across all Vermont zip codes (policy_implementation)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** United States Postal Service; Vermont
+- **Predicate:** implemented
+- **Object:** Regional Transportation Optimization across all Vermont zip codes (policy_implementation)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > The U.S. Postal Service implemented Regional Transportation Optimization in every zip code in Vermont.
 
-### c_002 — attributed, primary plus secondary
-**Subject entities:** Regional Transportation Optimization
-**Predicate:** eliminates
-**Object:** evening mail collection and pickup (operational_change)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** Regional Transportation Optimization
+- **Predicate:** eliminates
+- **Object:** evening mail collection and pickup (operational_change)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Regional Transportation Optimization eliminates evening mail collection.
 
-### c_003 — attributed, primary document
-**Subject entities:** United States Postal Service; Vermont
-**Predicate:** shifted_service_standard
-**Object:** from two-day to three-day delivery standard (service_standard_change)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** United States Postal Service; Vermont
+- **Predicate:** shifted_service_standard
+- **Object:** from two-day to three-day delivery standard (service_standard_change)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > First-class mail delivery in Vermont shifted from a two-day to three-day service standard.
 
-### c_004 — confirmed, one originating plus primary document
-**Subject entities:** Regional Transportation Optimization; Delivering for America
-**Predicate:** component_of
-**Object:** Delivering for America restructuring plan (program_relationship)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** one_originating_plus_primary_document
+- **Subject entities:** Regional Transportation Optimization; Delivering for America
+- **Predicate:** component_of
+- **Object:** Delivering for America restructuring plan (program_relationship)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Regional Transportation Optimization is part of the 'Delivering for America' plan.
 
-### c_005 — attributed, single source
-**Subject entities:** Louis DeJoy; Delivering for America
-**Predicate:** initiated
-**Object:** Delivering for America restructuring plan in 2021 (policy_initiation)
-**Temporal:** 2021
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Louis DeJoy; Delivering for America
+- **Predicate:** initiated
+- **Object:** Delivering for America restructuring plan in 2021 (policy_initiation)
+- **Temporal:** 2021
+- **Sources:** src_001
 
 > The 'Delivering for America' plan began in 2021 under Louis DeJoy.
 
-### c_006 — attributed, single source
-**Subject entities:** Louis DeJoy
-**Predicate:** resigned_from
-**Object:** Postmaster General position (position_change)
-**Temporal:** 2025-02
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Louis DeJoy
+- **Predicate:** resigned_from
+- **Object:** Postmaster General position (position_change)
+- **Temporal:** 2025-02
+- **Sources:** src_001
 
 > Louis DeJoy resigned as Postmaster General in February 2025.
 
-### c_007 — attributed, single source
-**Subject entities:** David Steiner
-**Predicate:** holds_position
-**Object:** Postmaster General of the United States Postal Service (position_assignment)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** David Steiner
+- **Predicate:** holds_position
+- **Object:** Postmaster General of the United States Postal Service (position_assignment)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > David Steiner is the current Postmaster General.
 
-### c_008 — confirmed, primary document
-**Subject entities:** United States Postal Service
-**Predicate:** changed_rules
-**Object:** postmark standards and interpretation (regulatory_change)
-**Temporal:** 2025-12-24
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** United States Postal Service
+- **Predicate:** changed_rules
+- **Object:** postmark standards and interpretation (regulatory_change)
+- **Temporal:** 2025-12-24
+- **Sources:** src_001
 
 > The U.S. Postal Service changed postmark rules on December 24, 2025, clarifying that postmarks do not 'inherently or necessarily align with the date' mail arrives at the postal service.
 
-### c_009 — confirmed, primary document
-**Subject entities:** 16 U.S. senators; United States Postal Service
-**Predicate:** expressed_concern
-**Object:** potential impact on mail-in ballot eligibility and receipt by Election Day (official_correspondence)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** 16 U.S. senators; United States Postal Service
+- **Predicate:** expressed_concern
+- **Object:** potential impact on mail-in ballot eligibility and receipt by Election Day (official_correspondence)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > On January 15, 2026, 16 U.S. senators sent a letter to USPS expressing concern that postmark and mail delay changes could result in more mail-in ballots being rejected.
 
-### c_010 — attributed, single source
-**Subject entities:** Steve Hutkins; United States Postal Service
-**Predicate:** stated
-**Object:** lack of public notice about service slowdown from policy changes (attributed_statement)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Steve Hutkins; United States Postal Service
+- **Predicate:** stated
+- **Object:** lack of public notice about service slowdown from policy changes (attributed_statement)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Steve Hutkins, director of Save the Post Office, said the postal service has not provided public notices about mail delays resulting from the transportation changes.
 
-### c_011 — attributed, single source
-**Subject entities:** Peter Welch; Louis DeJoy
-**Predicate:** attributed_blame
-**Object:** DeJoy's restructuring plan as cause of mail delivery delays (attributed_statement)
-**Temporal:** 2025-02
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Peter Welch; Louis DeJoy
+- **Predicate:** attributed_blame
+- **Object:** DeJoy's restructuring plan as cause of mail delivery delays (attributed_statement)
+- **Temporal:** 2025-02
+- **Sources:** src_001
 
 > Vermont Senator Peter Welch said that 'DeJoy's restructuring plan has led to unacceptable mail delivery delays across Vermont, especially in rural areas of the state.'
 
@@ -225,7 +247,3 @@ For customers trying to understand the changes, the lack of public information h
 **Access date:** 2026-01-27
 **Title:** Even more mail delays, explained: How two quiet USPS changes are reshaping delivery in Vermont
 **URL:** https://apnews.com/article/louis-dejoy-vermont-peter-welch-steve-hutkins-united-states-postal-service-3f1d15c2b8746f8f47cd7e17bc8c0541
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

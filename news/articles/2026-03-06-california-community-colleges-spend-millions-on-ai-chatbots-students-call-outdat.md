@@ -16,42 +16,47 @@ primary_themes:
 - community colleges
 - student services
 topic_tags:
-  - "education"
-  - "higher education"
-storyline_nexus: []
-geographic_location: California, United States
+- artificial intelligence
+- higher education
+- education policy
+- government policy
+storyline_nexus:
+- ai-industry-regulation
+geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.8
+- value: truthfulness
+  intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.75
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:43:30Z'
+  intensity: 0.9
+- value: informed_citizenship
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:40:15Z'
 source_cluster_id: cluster_ap_2026-03-07_artificial-intelligence-california-los-a
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 10
   hedges:
-    appears: 0
-    alleged: 0
     attributed: 6
+    alleged: 0
+    appears: 0
     reported: 0
-    contested: 0
     confirmed: 4
+    contested: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 4
+    one_originating_plus_primary_document: 0
+    primary_plus_secondary: 0
     single_source: 6
     two_independent: 0
 sources:
   count: 1
   outlets:
-  - Associated Press / CalMatters
+  - Associated Press
   outlet_classes:
   - wire
   highest_reliability_tier: 1
@@ -61,13 +66,16 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2025-11-20-educators-outline-do-s-and-don-ts-as-students-turn-to-ai-chatbots-for-schoolwork
-  relation: related
-  strength: 0.7934
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- The chatbots' failures — including mislabeling a college's own president and giving incorrect office hours — raise questions about whether public funds are well spent on technology students say the...
+- California community college districts have spent millions of dollars on artificial intelligence chatbots intended to help students navigate admiss...
+- The Los Angeles Community College District — the state's largest community college system — has approved contracts and amendments totaling about $3...
 
 The chatbots' failures — including mislabeling a college's own president and giving incorrect office hours — raise questions about whether public funds are well spent on technology students say they cannot trust, even as district officials argue the tools handle thousands of interactions each month that would otherwise require costly human staff.
 
@@ -133,111 +141,124 @@ For some students, the stakes of inaccurate chatbot guidance are particularly hi
 
 *Reporting by Martin Romero, College Journalism Network / CalMatters, distributed through a partnership with the Associated Press. CalMatters higher education coverage is supported by a grant from the College Futures Foundation.*
 
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under sources. Specification: /methodology. Human review: not triggered.*
-
 *Released under [CC0 — No Rights Reserved](https://creativecommons.org/publicdomain/zero/1.0/).*
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** California community college districts
-**Predicate:** spending_on
-**Object:** AI chatbots for student services (technology_expenditure)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** California community college districts
+- **Predicate:** spending_on
+- **Object:** AI chatbots for student services (technology_expenditure)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > California community college districts are spending millions of dollars on AI-powered chatbots intended to help students navigate admissions, financial aid and campus services.
 
-### c_002 — confirmed, primary document
-**Subject entities:** Los Angeles Community College District
-**Predicate:** contracted_for
-**Object:** $3.8 million through 2029 (contract_value)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Los Angeles Community College District
+- **Predicate:** contracted_for
+- **Object:** $3.8 million through 2029 (contract_value)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > The Los Angeles Community College District has approved contracts and amendments totaling about $3.8 million for chatbot services through 2029, according to district board documents.
 
-### c_003 — attributed, single source
-**Subject entities:** California community college districts
-**Predicate:** paying_annually
-**Object:** $151,000 to nearly $500,000 (annual_cost_range)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** California community college districts
+- **Predicate:** paying_annually
+- **Object:** $151,000 to nearly $500,000 (annual_cost_range)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > Three community college districts that responded to a CalMatters survey reported annual chatbot costs ranging from about $151,000 to nearly half a million dollars.
 
-### c_004 — confirmed, primary document
-**Subject entities:** East Los Angeles College; Alberto Román
-**Predicate:** misidentified
-**Object:** college president (factual_error)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** East Los Angeles College; Alberto Román
+- **Predicate:** misidentified
+- **Object:** college president (factual_error)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > East Los Angeles College's chatbot incorrectly identified Alberto Román as the college's current president; Román had left that position to become the district's chancellor.
 
-### c_005 — confirmed, primary document
-**Subject entities:** State Center Community College District; Gravyty
-**Predicate:** contracted_with
-**Object:** $870,000 three-year contract through June 2026 (contract_value)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** State Center Community College District; Gravyty
+- **Predicate:** contracted_with
+- **Object:** $870,000 three-year contract through June 2026 (contract_value)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > The State Center Community College District has a nearly $870,000 three-year contract for Gravyty through June 2026, according to district board documents.
 
-### c_006 — confirmed, primary document
-**Subject entities:** Santa Monica College; Gecko
-**Predicate:** contracted_with
-**Object:** $57,000 annual contract (contract_value)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Santa Monica College; Gecko
+- **Predicate:** contracted_with
+- **Object:** $57,000 annual contract (contract_value)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > Santa Monica College renewed its annual contract with Gecko for $57,000 late last year, according to district board documents.
 
-### c_007 — attributed, single source
-**Subject entities:** Los Angeles Community College District; Betsy Regalado
-**Predicate:** reported_usage
-**Object:** 5,000-7,000 interactions per month (usage_statistic)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Los Angeles Community College District; Betsy Regalado
+- **Predicate:** reported_usage
+- **Object:** 5,000-7,000 interactions per month (usage_statistic)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > Los Angeles district colleges average 5,000 to 7,000 chatbot interactions per month, according to associate vice chancellor Betsy Regalado.
 
-### c_008 — attributed, single source
-**Subject entities:** State Center Community College District; Santa Monica College
-**Predicate:** reported_usage
-**Object:** 5,000 and 4,000 interactions per month respectively (usage_statistic)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** State Center Community College District; Santa Monica College
+- **Predicate:** reported_usage
+- **Object:** 5,000 and 4,000 interactions per month respectively (usage_statistic)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > The State Center district reported about 5,000 chatbot interactions per month; Santa Monica College reported about 4,000.
 
-### c_009 — attributed, single source
-**Subject entities:** Zohran Mamdani; New York City
-**Predicate:** terminated
-**Object:** city-run AI chatbot (government_action)
-**Temporal:** 2026-02
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Zohran Mamdani; New York City
+- **Predicate:** terminated
+- **Object:** city-run AI chatbot (government_action)
+- **Temporal:** 2026-02
+- **Sources:** src_001
 
 > New York City Mayor Zohran Mamdani terminated a city-run AI chatbot in February after reporting by The Markup and THE CITY found it provided guidance that could lead to illegal behavior.
 
-### c_010 — attributed, single source
-**Subject entities:** Los Angeles Community College District; Gravyty
-**Predicate:** plans_to_transition
-**Object:** Gravyty generative AI platform by late spring (planned_action)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Los Angeles Community College District; Gravyty
+- **Predicate:** plans_to_transition
+- **Object:** Gravyty generative AI platform by late spring (planned_action)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > The Los Angeles district plans to transition all nine colleges to Gravyty's generative AI platform as early as late spring at no additional cost under its existing contract, which runs through 2029.
 
 ## Sources
 
-### src_001 — Associated Press / CalMatters, wire, Tier 1, originating
-**Author:** Martin Romero
+### src_001 — Associated Press, wire, Tier 1, originating
+**Author:** Martin Romero / Calmatters
 **Publication date:** 2026-03-06
-**Access date:** 2026-03-06
-**Title:** California colleges spend millions on faulty AI systems: 'The chatbot is outdated'
+**Title:** California colleges spend millions on faulty AI systems: ‘The chatbot is outdated’
 **URL:** https://apnews.com/article/artificial-intelligence-california-los-angeles-santa-monica-general-news-ce94e024355e10c899e2444ea78d98b9
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

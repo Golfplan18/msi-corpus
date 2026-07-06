@@ -13,41 +13,43 @@ primary_themes:
 - Criminal justice
 - White-collar crime
 topic_tags:
-  - "crime, law and justice"
-  - judiciary
-  - corruption
-storyline_nexus: []
-geographic_location: Atlanta, Georgia; St. Petersburg, Florida; Mexico
+- crime
+- crime, law and justice
+- prosecution
+- financial and business service
+storyline_nexus:
+- housing-affordability-crisis
+geographic_location: United States
 floor_values_engaged:
-- value: human_life_and_dignity
-  intensity: 0.85
+- value: accountability_of_power
+  intensity: 0.9
 - value: truthfulness
   intensity: 0.9
-- value: accountability_of_power
-  intensity: 0.8
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18'
+- value: human_life_and_dignity
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:50:47Z'
 source_cluster_id: cluster_ap_2026-01-22_ponzi-scheme-investment-georgia-guilty-b
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 12
   hedges:
+    confirmed: 2
+    contested: 0
     appears: 0
     alleged: 0
     attributed: 8
     reported: 2
-    contested: 0
-    confirmed: 2
   corroboration:
-    primary_plus_secondary: 0
+    two_independent: 0
     one_originating_plus_primary_document: 0
     primary_document: 12
+    primary_plus_secondary: 0
     single_source: 0
-    two_independent: 0
 sources:
   count: 1
   outlets:
@@ -61,25 +63,19 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-04-17-former-alabama-player-charged-in-20m-nfl-impersonation-fraud-scheme
-  relation: related
-  strength: 0.7973
-  confidence: medium
-- slug: 2026-04-20-gotti-s-grandson-sentenced-to-15-months-for-covid-19-loan-fraud
-  relation: related
-  strength: 0.7916
-  confidence: medium
-- slug: 2026-01-07-cambodia-extradites-alleged-scam-kingpin-chen-zhi-to-china-amid-u-s-fraud-charge
-  relation: related
-  strength: 0.8125
-  confidence: medium
-- slug: 2026-01-13-former-ceo-charged-with-embezzling-5-2m-from-paul-newman-s-camp-for-ill-children
-  relation: related
-  strength: 0.7525
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Man pleads guilty in $380M Ponzi scheme by Georgia financial firm
+- Todd Burkhalter pleaded guilty to wire fraud in a Ponzi scheme on January 21, 2026.
+- The Ponzi scheme defrauded more than 2,000 people of $380 million.
+- One scheme promised returns of 10 percent every three months on purported short-term loans to real estate developers.
+- Burkhalter falsely claimed investments were backed by real estate holdings.
 
 A financial adviser pleaded guilty Wednesday to wire fraud in a Ponzi scheme that defrauded more than 2,000 people of $380 million. Todd Burkhalter, 54, of St. Petersburg, Florida, founded Drive Planning LLC and marketed fraudulent investment schemes promising quarterly returns of 10 percent. Prosecutors plan to recommend a sentence of more than 17 years in prison.
 
@@ -105,115 +101,137 @@ U.S. Attorney Theodore Hertzberg announced that a court-appointed official is at
 
 Drive Planning LLC's former chief operating officer has also pleaded guilty in the scheme.
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification available at /methodology. Human review not triggered.
-
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Todd Burkhalter
-**Predicate:** pleaded_guilty_to_wire_fraud
-**Object:** wire fraud in Ponzi scheme (criminal_charge)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Todd Burkhalter
+- **Predicate:** pleaded_guilty_to_wire_fraud
+- **Object:** wire fraud in Ponzi scheme (criminal_charge)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > Todd Burkhalter pleaded guilty to wire fraud in a Ponzi scheme on January 21, 2026.
 
-### c_002 — attributed, primary document
-**Subject entities:** Todd Burkhalter; victims
-**Predicate:** defrauded
-**Object:** $380 million (monetary_loss)
-**Temporal:** prior_to_2026-01-21
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Todd Burkhalter; victims
+- **Predicate:** defrauded
+- **Object:** $380 million (monetary_loss)
+- **Temporal:** prior_to_2026-01-21
+- **Sources:** src_001
 
 > The Ponzi scheme defrauded more than 2,000 people of $380 million.
 
-### c_003 — attributed, primary document
-**Subject entities:** Drive Planning LLC
-**Predicate:** offered_false_investment
-**Object:** 10% quarterly returns on real estate loans (investment_promise)
-**Temporal:** prior_to_2026-01-21
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Drive Planning LLC
+- **Predicate:** offered_false_investment
+- **Object:** 10% quarterly returns on real estate loans (investment_promise)
+- **Temporal:** prior_to_2026-01-21
+- **Sources:** src_001
 
 > One scheme promised returns of 10 percent every three months on purported short-term loans to real estate developers.
 
-### c_004 — attributed, primary document
-**Subject entities:** Todd Burkhalter
-**Predicate:** made_false_claims
-**Object:** real estate backing for investments (false_representation)
-**Temporal:** prior_to_2026-01-21
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Todd Burkhalter
+- **Predicate:** made_false_claims
+- **Object:** real estate backing for investments (false_representation)
+- **Temporal:** prior_to_2026-01-21
+- **Sources:** src_001
 
 > Burkhalter falsely claimed investments were backed by real estate holdings.
 
-### c_005 — attributed, primary document
-**Subject entities:** Todd Burkhalter
-**Predicate:** encouraged_financial_risk
-**Object:** accessing retirement funds and credit (conduct)
-**Temporal:** prior_to_2026-01-21
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Todd Burkhalter
+- **Predicate:** encouraged_financial_risk
+- **Object:** accessing retirement funds and credit (conduct)
+- **Temporal:** prior_to_2026-01-21
+- **Sources:** src_001
 
 > Burkhalter encouraged investors to access retirement accounts and savings and take out lines of credit.
 
-### c_006 — attributed, primary document
-**Subject entities:** Todd Burkhalter
-**Predicate:** purchased_luxury_assets
-**Object:** $2M yacht, $2.1M Mexico condo, motorcoach (asset_acquisition)
-**Temporal:** prior_to_2026-01-21
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Todd Burkhalter
+- **Predicate:** purchased_luxury_assets
+- **Object:** $2M yacht, $2.1M Mexico condo, motorcoach (asset_acquisition)
+- **Temporal:** prior_to_2026-01-21
+- **Sources:** src_001
 
 > Burkhalter purchased a $2 million yacht, a $2.1 million condo in Mexico, and a motorcoach with scheme proceeds.
 
-### c_007 — confirmed, primary document
-**Subject entities:** Todd Burkhalter
-**Predicate:** identified_as
-**Object:** 54-year-old from St. Petersburg, Florida (demographic_identification)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Todd Burkhalter
+- **Predicate:** identified_as
+- **Object:** 54-year-old from St. Petersburg, Florida (demographic_identification)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > Burkhalter is 54 years old and from St. Petersburg, Florida.
 
-### c_008 — reported, primary document
-**Subject entities:** Drive Planning LLC
-**Predicate:** co_defendant_guilty_plea
-**Object:** former COO guilty plea (legal_disposition)
-**Temporal:** on_or_before_2026-01-21
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Drive Planning LLC
+- **Predicate:** co_defendant_guilty_plea
+- **Object:** former COO guilty plea (legal_disposition)
+- **Temporal:** on_or_before_2026-01-21
+- **Sources:** src_001
 
 > Drive Planning LLC's former chief operating officer has also pleaded guilty.
 
-### c_009 — attributed, primary document
-**Subject entities:** prosecutors; Todd Burkhalter
-**Predicate:** recommended_prison_sentence
-**Object:** more than 17 years (sentence_recommendation)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** prosecutors; Todd Burkhalter
+- **Predicate:** recommended_prison_sentence
+- **Object:** more than 17 years (sentence_recommendation)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > Prosecutors plan to recommend a sentence of more than 17 years in prison for Burkhalter.
 
-### c_010 — attributed, primary document
-**Subject entities:** Aaron Seres
-**Predicate:** stated
-**Object:** losses will echo through victims' lives (direct_quote)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Aaron Seres
+- **Predicate:** stated
+- **Object:** losses will echo through victims' lives (direct_quote)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > Aaron Seres, supervisory special agent at the Atlanta-area FBI office, said "These losses will echo through the lives of these victims long after these defendants receive their well-deserved sentences."
 
-### c_011 — attributed, primary document
-**Subject entities:** court official
-**Predicate:** attempting_asset_recovery
-**Object:** asset liquidation for victim restitution (legal_action)
-**Temporal:** on_or_after_2026-01-21
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** court official
+- **Predicate:** attempting_asset_recovery
+- **Object:** asset liquidation for victim restitution (legal_action)
+- **Temporal:** on_or_after_2026-01-21
+- **Sources:** src_001
 
 > A court-appointed official is attempting to recover victims' money by selling Burkhalter's assets.
 
-### c_012 — reported, primary document
-**Subject entities:** victims; court official
-**Predicate:** recovery_outlook
-**Object:** unlikely full monetary recovery (assessment)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** victims; court official
+- **Predicate:** recovery_outlook
+- **Object:** unlikely full monetary recovery (assessment)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > It is highly unlikely that victims will recover their full losses.
 
@@ -221,10 +239,5 @@ This article was generated algorithmically by Main Street Independent's News Art
 
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Publication date:** 2026-01-21
-**Access date:** 2026-05-18
 **Title:** Man pleads guilty in $380M Ponzi scheme by Georgia financial firm
 **URL:** https://apnews.com/article/ponzi-scheme-investment-georgia-guilty-b7a5a8b0e94f820ffbb491a17b899d3c
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -15,43 +15,43 @@ primary_themes:
 - federal prosecution
 - trials
 topic_tags:
-  - "civil unrest"
-  - "conflict, war and peace"
-  - "crime, law and justice"
-  - "human migration"
-  - "international relations"
-  - "political dissent"
-storyline_nexus: []
-geographic_location: Chicago, Illinois, United States
+- trial
+- law enforcement
+- social media
+- human migration
+- crime
+storyline_nexus:
+- us-immigration-enforcement
+geographic_location: United States
 floor_values_engaged:
-- value: truthfulness
+- value: human_life_and_dignity
   intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.8
-- value: informed_citizenship
-  intensity: 0.7
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+  intensity: 0.6
+- value: truthfulness
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:56:49Z'
 source_cluster_id: cluster_ap_2026-01-22_immigration-arrests-bounty-ice-chicago-c
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 15
   hedges:
-    appears: 0
-    alleged: 1
-    attributed: 4
     reported: 8
-    contested: 0
     confirmed: 2
+    attributed: 4
+    contested: 0
+    alleged: 1
+    appears: 0
   corroboration:
-    primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
     primary_document: 2
     single_source: 13
+    primary_plus_secondary: 0
     two_independent: 0
 sources:
   count: 1
@@ -66,29 +66,19 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-04-16-minnesota-charges-ice-agent-with-felony-assault-for-pointing-gun-at-highway-driv
-  relation: related
-  strength: 0.7915
-  confidence: medium
-- slug: 2026-04-21-judge-orders-man-shot-by-ice-in-california-to-remain-in-custody
-  relation: related
-  strength: 0.7799
-  confidence: medium
-- slug: 2026-01-14-minneapolis-sees-second-federal-shooting-as-courts-governor-push-back-on-immigra
-  relation: related
-  strength: 0.782
-  confidence: medium
-- slug: 2026-01-13-federal-agents-deploy-tear-gas-in-minneapolis-as-five-prosecutors-resign-over-re
-  relation: related
-  strength: 0.7775
-  confidence: medium
-- slug: 2026-01-09-federal-authorities-bar-minnesota-from-ice-shooting-probe-claim-no-state-jurisdi
-  relation: related
-  strength: 0.7708
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- The case tests the Trump administration's claims about dangers facing federal immigration agents. Court records show roughly half of the 30 criminal cases stemming from the enforcement operation have …
+- "This case is not about someone being on trial for expressing strong, even angry views about immigration enforcement policy," Assistant U.S. Attorney Minje Shin said during opening statements. "Make n…
+- Defense attorney Jonathan Bedi presented a different interpretation. "Repeating neighborhood gossip is not a crime," he said of his client. "Repeating neighborhood gossip is not intending to go commit…
+- Adrian Jimenez, a 44-year-old construction company owner, received the Snapchats. Prosecutors say he and Espinoza Martinez had communicated over Snapchat about work in the previous year. Jimenez testi…
+- Espinoza Martinez's younger brother, Oscar, testified for the defense. He said he saw a Facebook post about a $10,000 bounty an hour before receiving Juan's Snapchats. He took the messages as a joke.
 
 A Chicago man went on trial Wednesday for allegedly soliciting a $10,000 bounty on Border Patrol official Gregory Bovino using Snapchat messages, in the first criminal trial stemming from the Trump administration's immigration crackdown in the nation's third-largest city.
 
@@ -136,138 +126,168 @@ Closing arguments are set for Thursday. If convicted, Espinoza Martinez faces up
 
 ## Atomic claims
 
-### c_001 — reported, single source
-**Subject entities:** Juan Espinoza Martinez
-**Predicate:** faces_charge
-**Object:** one count of murder-for-hire (criminal_charge)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Juan Espinoza Martinez
+- **Predicate:** faces_charge
+- **Object:** one count of murder-for-hire (criminal_charge)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > Juan Espinoza Martinez, 37, faces one count of murder-for-hire in federal court.
 
-### c_002 — alleged, single source
-**Subject entities:** Juan Espinoza Martinez; Gregory Bovino
-**Predicate:** alleged_to_solicit
-**Object:** $10,000 (bounty_amount)
-**Temporal:** 2025-10
-**Source IDs:** src_001
+### c_002
+- **Hedge:** alleged
+- **Corroboration:** single_source
+- **Subject entities:** Juan Espinoza Martinez; Gregory Bovino
+- **Predicate:** alleged_to_solicit
+- **Object:** $10,000 (bounty_amount)
+- **Temporal:** 2025-10
+- **Sources:** src_001
 
 > Espinoza Martinez is alleged to have used Snapchat to solicit a $10,000 bounty on Gregory Bovino, a Border Patrol official.
 
-### c_003 — reported, single source
-**Subject entities:** Operation Midway Blitz; Juan Espinoza Martinez
-**Predicate:** is_first_trial_from
-**Object:** Operation Midway Blitz (federal_operation)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Operation Midway Blitz; Juan Espinoza Martinez
+- **Predicate:** is_first_trial_from
+- **Object:** Operation Midway Blitz (federal_operation)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > This is the first criminal trial stemming from Operation Midway Blitz, the Trump administration's immigration crackdown in Chicago.
 
-### c_004 — reported, single source
-**Subject entities:** Juan Espinoza Martinez
-**Predicate:** sent_messages
-**Object:** Snapchat messages with bounty offer (digital_communication)
-**Temporal:** 2025-10
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Juan Espinoza Martinez
+- **Predicate:** sent_messages
+- **Object:** Snapchat messages with bounty offer (digital_communication)
+- **Temporal:** 2025-10
+- **Sources:** src_001
 
 > Snapchat messages sent in October included 'If u take him down' with a picture of Bovino.
 
-### c_005 — attributed, single source
-**Subject entities:** Adrian Jimenez
-**Predicate:** received_and_reported
-**Object:** Snapchat messages (digital_communication)
-**Temporal:** 2025-10
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Adrian Jimenez
+- **Predicate:** received_and_reported
+- **Object:** Snapchat messages (digital_communication)
+- **Temporal:** 2025-10
+- **Sources:** src_001
 
 > Adrian Jimenez, a construction company owner, received the Snapchat messages and reported them to a Homeland Security investigator.
 
-### c_006 — attributed, single source
-**Subject entities:** Adrian Jimenez
-**Predicate:** testified_regarding
-**Object:** felony conviction, prison time, prior informant work (personal_history)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Adrian Jimenez
+- **Predicate:** testified_regarding
+- **Object:** felony conviction, prison time, prior informant work (personal_history)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > Jimenez testified he had been convicted of a felony, served prison time, and had previously been paid as a government informant.
 
-### c_007 — attributed, single source
-**Subject entities:** Juan Espinoza Martinez
-**Predicate:** defense_argument
-**Object:** messages were neighborhood gossip not criminal intent (legal_argument)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Juan Espinoza Martinez
+- **Predicate:** defense_argument
+- **Object:** messages were neighborhood gossip not criminal intent (legal_argument)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > Defense attorney Jonathan Bedi argued that 'repeating neighborhood gossip is not a crime' and does not constitute intent to commit murder.
 
-### c_008 — reported, single source
-**Subject entities:** Juan Espinoza Martinez
-**Predicate:** has_financial_status_of
-**Object:** carpenter; ~$20 in bank account (occupational_and_financial_status)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Juan Espinoza Martinez
+- **Predicate:** has_financial_status_of
+- **Object:** carpenter; ~$20 in bank account (occupational_and_financial_status)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > Espinoza Martinez is a carpenter with approximately $20 in his bank account.
 
-### c_009 — reported, single source
-**Subject entities:** Juan Espinoza Martinez
-**Predicate:** has_immigration_status
-**Object:** born Mexico; decades in US; undocumented (immigration_status)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Juan Espinoza Martinez
+- **Predicate:** has_immigration_status
+- **Object:** born Mexico; decades in US; undocumented (immigration_status)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > Espinoza Martinez was born in Mexico, has lived in the United States for decades, and does not have legal permission to stay in the country.
 
-### c_010 — confirmed, primary document
-**Subject entities:** Joan Lefkow; Juan Espinoza Martinez
-**Predicate:** barred_testimony
-**Object:** gang membership testimony (judicial_ruling)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Joan Lefkow; Juan Espinoza Martinez
+- **Predicate:** barred_testimony
+- **Object:** gang membership testimony (judicial_ruling)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > U.S. District Judge Joan Lefkow barred testimony about Espinoza Martinez's alleged gang membership due to prosecutors' lack of evidence.
 
-### c_011 — confirmed, primary document
-**Subject entities:** Gregory Bovino
-**Predicate:** found_to_have_lied_under_oath
-**Object:** gang-related threats (judicial_finding)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_011
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Gregory Bovino
+- **Predicate:** found_to_have_lied_under_oath
+- **Object:** gang-related threats (judicial_finding)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > In another federal lawsuit in Chicago, a judge found that Bovino lied under oath about alleged gang threats.
 
-### c_012 — reported, single source
-**Subject entities:** Operation Midway Blitz
-**Predicate:** has_dismissal_rate
-**Object:** approximately 50% of ~30 cases (case_disposition_statistic)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Operation Midway Blitz
+- **Predicate:** has_dismissal_rate
+- **Object:** approximately 50% of ~30 cases (case_disposition_statistic)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Of roughly 30 criminal cases stemming from Operation Midway Blitz in the Chicago area, charges have been dropped or dismissed in approximately half.
 
-### c_013 — attributed, single source
-**Subject entities:** Oscar Espinoza Martinez
-**Predicate:** testified
-**Object:** saw Facebook post about bounty prior to Snapchats (witness_testimony)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Oscar Espinoza Martinez
+- **Predicate:** testified
+- **Object:** saw Facebook post about bounty prior to Snapchats (witness_testimony)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > Oscar Espinoza Martinez, the defendant's younger brother, testified he saw a Facebook post about a $10,000 bounty an hour before receiving the Snapchats.
 
-### c_014 — reported, single source
-**Subject entities:** Juan Espinoza Martinez
-**Predicate:** faces_sentence_exposure
-**Object:** up to 10 years (sentencing_exposure)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_014
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Juan Espinoza Martinez
+- **Predicate:** faces_sentence_exposure
+- **Object:** up to 10 years (sentencing_exposure)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > If convicted, Espinoza Martinez faces up to 10 years in prison.
 
-### c_015 — reported, single source
-**Subject entities:** trial
-**Predicate:** scheduled_for
-**Object:** Thursday (scheduled_event)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_015
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** trial
+- **Predicate:** scheduled_for
+- **Object:** Thursday (scheduled_event)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > Closing arguments were set for Thursday.
 
@@ -276,10 +296,5 @@ Closing arguments are set for Thursday. If convicted, Espinoza Martinez faces up
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Sophia Tareen
 **Publication date:** 2026-01-21
-**Access date:** 2026-01-21
 **Title:** Snapchats take center stage at opening of trial for Chicago man accused of Border Patrol murder plot
 **URL:** https://apnews.com/article/immigration-arrests-bounty-ice-chicago-c7cb1178dd6ce64fa8bf5fb45b97e272
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -14,8 +14,12 @@ primary_themes:
 - Caribbean security incident
 - terrorism charges
 - U.S.-Venezuela fallout
-topic_tags: []
-storyline_nexus: []
+topic_tags:
+- conflict, war and peace
+- crime
+- international relations
+storyline_nexus:
+- us-cuba-relations-escalation
 geographic_location: Cayo Falcones, Cuba
 floor_values_engaged:
 - value: informed_citizenship
@@ -102,111 +106,135 @@ The shooting threatens to deepen strained relations between Cuba and U.S. Presid
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Roberto Álvarez Ávila
-**Predicate:** died_from_injuries
-**Object:** March 4, 2026 (date)
-**Temporal:** 2026-03-04
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Roberto Álvarez Ávila
+- **Predicate:** died_from_injuries
+- **Object:** March 4, 2026 (date)
+- **Temporal:** 2026-03-04
+- **Sources:** src_001
 
 > Roberto Álvarez Ávila died on March 4 from injuries sustained in the Feb. 26 shootout involving a Florida-flagged speedboat off Cuba's north coast.
 
-### c_002 — attributed, single source
-**Subject entities:** Cuba interior ministry
-**Predicate:** announced
-**Object:** death of Roberto Álvarez Ávila (announcement)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Cuba interior ministry
+- **Predicate:** announced
+- **Object:** death of Roberto Álvarez Ávila (announcement)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > Cuba's interior ministry announced Álvarez Ávila's death in a late Thursday statement.
 
-### c_003 — attributed, single source
-**Subject entities:** Cuban soldiers; Florida-flagged speedboat
-**Predicate:** confronted
-**Object:** speedboat with 10 passengers (vessel)
-**Temporal:** 2026-02-26
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Cuban soldiers; Florida-flagged speedboat
+- **Predicate:** confronted
+- **Object:** speedboat with 10 passengers (vessel)
+- **Temporal:** 2026-02-26
+- **Sources:** src_001
 
 > On Feb. 26, Cuban soldiers confronted a speedboat carrying 10 people as the vessel approached the island.
 
-### c_004 — alleged, single source
-**Subject entities:** speedboat passengers
-**Predicate:** opened_fire_on
-**Object:** Cuban soldiers (target)
-**Temporal:** 2026-02-26
-**Source IDs:** src_001
+### c_004
+- **Hedge:** alleged
+- **Corroboration:** single_source
+- **Subject entities:** speedboat passengers
+- **Predicate:** opened_fire_on
+- **Object:** Cuban soldiers (target)
+- **Temporal:** 2026-02-26
+- **Sources:** src_001
 
 > The passengers allegedly opened fire on Cuban troops.
 
-### c_005 — attributed, single source
-**Subject entities:** Cuban soldiers
-**Predicate:** killed_and_wounded
-**Object:** 4 killed, 6 wounded (casualties)
-**Temporal:** 2026-02-26
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Cuban soldiers
+- **Predicate:** killed_and_wounded
+- **Object:** 4 killed, 6 wounded (casualties)
+- **Temporal:** 2026-02-26
+- **Sources:** src_001
 
 > Cuba said its soldiers killed four people and wounded six others aboard the speedboat.
 
-### c_006 — attributed, single source
-**Subject entities:** speedboat passengers
-**Predicate:** described_as
-**Object:** armed U.S.-based Cubans attempting infiltration and terrorism (characterization)
-**Temporal:** 2026-02-26
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** speedboat passengers
+- **Predicate:** described_as
+- **Object:** armed U.S.-based Cubans attempting infiltration and terrorism (characterization)
+- **Temporal:** 2026-02-26
+- **Sources:** src_001
 
 > Cuban authorities described the passengers as armed Cubans living in the U.S. who were trying to infiltrate the island and 'unleash terrorism.'
 
-### c_007 — attributed, single source
-**Subject entities:** Cuba government
-**Predicate:** filed_charges
-**Object:** terrorism charges against six suspects (legal_action)
-**Temporal:** 2026-03-04
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Cuba government
+- **Predicate:** filed_charges
+- **Object:** terrorism charges against six suspects (legal_action)
+- **Temporal:** 2026-03-04
+- **Sources:** src_001
 
 > Cuba filed terrorism charges against six suspects from the speedboat earlier in the week.
 
-### c_008 — attributed, single source
-**Subject entities:** seized weapons cache
-**Predicate:** found_on_vessel
-**Object:** 12 high-powered weapons, 12,800+ rounds of ammunition, 11 pistols (weapons_cache)
-**Temporal:** 2026-02-26
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** seized weapons cache
+- **Predicate:** found_on_vessel
+- **Object:** 12 high-powered weapons, 12,800+ rounds of ammunition, 11 pistols (weapons_cache)
+- **Temporal:** 2026-02-26
+- **Sources:** src_001
 
 > Items said to have been found on the boat included a dozen high-powered weapons, more than 12,800 pieces of ammunition, and 11 pistols.
 
-### c_009 — attributed, single source
-**Subject entities:** Florida-flagged speedboat; Cayo Falcones
-**Predicate:** located_at
-**Object:** 1.6 km northeast of Cayo Falcones (location)
-**Temporal:** 2026-02-26
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Florida-flagged speedboat; Cayo Falcones
+- **Predicate:** located_at
+- **Object:** 1.6 km northeast of Cayo Falcones (location)
+- **Temporal:** 2026-02-26
+- **Sources:** src_001
 
 > The boat was approximately 1.6 kilometers (1 mile) northeast of Cayo Falcones off Cuba's north coast.
 
-### c_010 — attributed, single source
-**Subject entities:** Cuba interior ministry
-**Predicate:** investigating
-**Object:** involvement of additional U.S.-based individuals (investigation_status)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Cuba interior ministry
+- **Predicate:** investigating
+- **Object:** involvement of additional U.S.-based individuals (investigation_status)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > Cuba's interior ministry said new elements are being obtained establishing the involvement of other individuals based in the U.S.
 
-### c_011 — confirmed, single source
-**Subject entities:** Associated Press; Florida boat registration
-**Predicate:** could_not_verify
-**Object:** Florida boat registration not publicly accessible (verification_note)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_011
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Associated Press; Florida boat registration
+- **Predicate:** could_not_verify
+- **Object:** Florida boat registration not publicly accessible (verification_note)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > The AP was unable to readily verify the boat's Florida registration number because boat registrations are not public in Florida.
 
-### c_012 — reported, single source
-**Subject entities:** Cuba; Venezuela; Nicolás Maduro
-**Predicate:** economic_dependency_disrupted
-**Object:** Venezuelan oil support cut following U.S. ouster of Maduro (geopolitical_context)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Cuba; Venezuela; Nicolás Maduro
+- **Predicate:** economic_dependency_disrupted
+- **Object:** Venezuelan oil support cut following U.S. ouster of Maduro (geopolitical_context)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > Cuba's economy was until recently largely sustained by Venezuelan oil, which is now in doubt after a U.S. military operation deposed Venezuelan President Nicolás Maduro.
 
@@ -217,7 +245,3 @@ The shooting threatens to deepen strained relations between Cuba and U.S. Presid
 **Access date:** 2026-05-17
 **Title:** Cuba says a 5th person has died in fatal boat shooting
 **URL:** https://apnews.com/article/cuba-us-speedboat-deaths-florida-f42eb9c5719f8b2d2e2cc00a5a76dbda
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

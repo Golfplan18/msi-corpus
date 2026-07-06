@@ -16,7 +16,8 @@ primary_themes:
 topic_tags:
   - "crime"
   - "crime, law and justice"
-storyline_nexus: []
+storyline_nexus:
+- us-immigration-enforcement
 geographic_location: Cleveland, Ohio
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -99,101 +100,123 @@ Authorities said a third child, apparently in good health, was found at a proper
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Aliyah Henderson
-**Predicate:** bail_set
-**Object:** $2 million (bail_amount)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Aliyah Henderson
+- **Predicate:** bail_set
+- **Object:** $2 million (bail_amount)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > A Cleveland judge set bail at $2 million for Aliyah Henderson on Friday, March 6, 2026.
 
-### c_002 — attributed, primary document
-**Subject entities:** Aliyah Henderson
-**Predicate:** charged_with
-**Object:** two counts of aggravated murder (criminal_charge)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Aliyah Henderson
+- **Predicate:** charged_with
+- **Object:** two counts of aggravated murder (criminal_charge)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > Aliyah Henderson, 28, faces two counts of aggravated murder.
 
-### c_003 — confirmed, primary document
-**Subject entities:** Mila Chatman; Amor Wilson
-**Predicate:** bodies_recovered
-**Object:** suitcases buried in shallow graves (location)
-**Temporal:** 2026-03-02
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Mila Chatman; Amor Wilson
+- **Predicate:** bodies_recovered
+- **Object:** suitcases buried in shallow graves (location)
+- **Temporal:** 2026-03-02
+- **Sources:** src_001
 
 > The bodies of Mila Chatman and Amor Wilson were recovered after a dog walker alerted police to one of the suitcases on Monday.
 
-### c_004 — confirmed, primary document
-**Subject entities:** Mila Chatman; Amor Wilson
-**Predicate:** identified_via
-**Object:** DNA relationship testing (identification_method)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Mila Chatman; Amor Wilson
+- **Predicate:** identified_via
+- **Object:** DNA relationship testing (identification_method)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > The Cuyahoga County Medical Examiner's Office said Mila would have been 8 years old and Amor 10, with DNA relationship testing used to identify them.
 
-### c_005 — attributed, single source
-**Subject entities:** DeShaun Chatman; Mila Chatman
-**Predicate:** stated
-**Object:** had not seen Mila for five years; had unsuccessfully sought emergency custody (personal_statement)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** DeShaun Chatman; Mila Chatman
+- **Predicate:** stated
+- **Object:** had not seen Mila for five years; had unsuccessfully sought emergency custody (personal_statement)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > DeShaun Chatman, Mila's father, said he had not seen her for five years and had unsuccessfully sought emergency custody.
 
-### c_006 — attributed, single source
-**Subject entities:** DeShaun Chatman; Mila Chatman
-**Predicate:** described
-**Object:** happy-go-lucky, a kid's kid who was always smiling (characterization)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** DeShaun Chatman; Mila Chatman
+- **Predicate:** described
+- **Object:** happy-go-lucky, a kid's kid who was always smiling (characterization)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > DeShaun Chatman described Mila as happy-go-lucky — a 'kid's kid' who was always smiling.
 
-### c_007 — attributed, single source
-**Subject entities:** Aliyah Henderson
-**Predicate:** no_prior_record
-**Object:** no criminal record found (prosecutorial_finding)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Aliyah Henderson
+- **Predicate:** no_prior_record
+- **Object:** no criminal record found (prosecutorial_finding)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > Prosecutors said they found no criminal record for Henderson.
 
-### c_008 — attributed, single source
-**Subject entities:** Aliyah Henderson
-**Predicate:** stated_by_defender
-**Object:** has a place to live; had been looking for a job (defense_argument)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Aliyah Henderson
+- **Predicate:** stated_by_defender
+- **Object:** has a place to live; had been looking for a job (defense_argument)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > Henderson's public defender said she has a place to live and had been looking for a job.
 
-### c_009 — confirmed, single source
-**Subject entities:** Cullen Sweeney
-**Predicate:** declined_comment
-**Object:** declined to comment (non_statement)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Cullen Sweeney
+- **Predicate:** declined_comment
+- **Object:** declined to comment (non_statement)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > Cullen Sweeney, the chief public defender in Cuyahoga County, declined to comment on the case after the hearing.
 
-### c_010 — reported, single source
-**Subject entities:** Aliyah Henderson
-**Predicate:** representation_uncertain
-**Object:** legal representation undetermined (legal_status)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Aliyah Henderson
+- **Predicate:** representation_uncertain
+- **Object:** legal representation undetermined (legal_status)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > It was not clear who would represent Henderson going forward.
 
-### c_011 — reported, single source
-**Predicate:** placed_in_custody
-**Object:** child welfare authorities (custody)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Predicate:** placed_in_custody
+- **Object:** child welfare authorities (custody)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > A third child, apparently healthy, was found at a property investigators searched and placed in the care of child welfare authorities.
 
@@ -204,7 +227,3 @@ Authorities said a third child, apparently in good health, was found at a proper
 **Access date:** 2026-03-07
 **Title:** Cleveland judge sets $2M bail for woman accused of killing daughters
 **URL:** https://apnews.com/article/girls-found-suitcases-cleveland-henderson-02060c64fd44d136a01720ea595df142
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

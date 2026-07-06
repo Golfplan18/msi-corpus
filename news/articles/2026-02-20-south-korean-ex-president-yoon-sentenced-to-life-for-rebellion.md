@@ -250,7 +250,3 @@ Park Jang Dong-hyuk, leader of the conservative People Power Party, said the cou
 **Access date:** 2026-05-18
 **Title:** Expresidente surcoreano se mantiene desafiante tras condena a cadena perpetua por rebelión
 **URL:** https://apnews.com/article/surcorea-yoon-ley-marcial-cadena-perpetua-96b71e645477c00e9634f570300f308e
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

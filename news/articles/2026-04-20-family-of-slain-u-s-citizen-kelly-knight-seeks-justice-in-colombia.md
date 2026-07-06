@@ -20,7 +20,10 @@ primary_themes:
 - International legal intervention
 - Investigation failure
 - Impunity
-topic_tags: []
+topic_tags:
+- crime
+- international law
+- judiciary
 storyline_nexus: []
 geographic_location: Medellin, Colombia; International (IACHR)
 floor_values_engaged:
@@ -101,8 +104,6 @@ Colombia's prosecutor's office told the Associated Press that a prosecutor speci
 Her husband, Esteban Camilo Bedoya Restrepo, declined to comment on the matter.
 
 Knight's father, Raymond Allen Knight, reflected on the family's ordeal. "You never get over it," he said. "You have to get through it, but you never get over it."
-
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public source listed under `sources`. Specification: /methodology. Human review: not_triggered.
 
 ## Atomic claims
 
@@ -240,7 +241,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-04-20
 **Title:** Family of Kelly Knight seeks justice in Colombia femicide case
 **URL:** https://apnews.com/article/colombia-kelly-knight-8b6022e644d3ba97255233a4e6bea255
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

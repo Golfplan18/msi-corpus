@@ -1,6 +1,5 @@
 ---
 headline: Anti-doomscrolling influencers challenge social media overuse
-slug: 2026-01-18-anti-doomscrolling-influencers-challenge-social-media-overuse
 publish_date: '2026-01-18'
 lede: Content creators in the United States are posting videos on TikTok, Instagram, and YouTube that interrupt users' scroll sessions to encourage them to close the app — a strategy researchers say may help plant early seeds of awareness about excessive platform use, even as academics debate whether heavy social media use constitutes addiction.
 nut_graf: Most people substantially underestimate how much time they spend on social media, according to researchers, but experts are divided over whether heavy use meets the clinical definition of addiction — and recent research suggests that labeling oneself addicted may worsen, rather than improve, the ability to manage use.
@@ -18,39 +17,40 @@ primary_themes:
 - behavioral psychology
 - content creation
 topic_tags:
-  - "arts, culture, entertainment and media"
-  - "social media"
-  - "arts and entertainment"
-storyline_nexus: []
+- social media
+- mental health
+- lifestyle and leisure
+storyline_nexus:
+- ai-industry-regulation
 geographic_location: United States
 floor_values_engaged:
+- value: human_life_and_dignity
+  intensity: 0.9
 - value: informed_citizenship
-  intensity: 0.55
-- value: truthfulness
-  intensity: 0.35
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:03:03Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-22T23:59:25Z'
 source_cluster_id: cluster_ap_2026-01-18_social-media-addiction-screen-time-a50f6
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 11
   hedges:
+    confirmed: 3
+    reported: 2
+    attributed: 6
     appears: 0
     alleged: 0
-    attributed: 6
-    reported: 2
     contested: 0
-    confirmed: 3
   corroboration:
+    two_independent: 0
+    primary_document: 0
     primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
-    primary_document: 0
     single_source: 11
-    two_independent: 0
 sources:
   count: 1
   outlets:
@@ -64,17 +64,18 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-05-paris-court-convicts-10-for-cyberbullying-brigitte-macron-over-false-gender-clai
-  relation: related
-  strength: 0.6386
-  confidence: medium
-- slug: 2025-12-18-screen-free-holidays-phone-features-and-low-tech-options-to-help-you-unplug
-  relation: related
-  strength: 0.6595
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Content creators in the United States are posting videos on TikTok, Instagram, and YouTube that interrupt users' scroll sessions to encourage them to close the app — a strategy researchers say may help plant early seeds of awareness about excessive platform use, even as academics debate whether heavy social media use constitutes addiction.
+- Most people substantially underestimate how much time they spend on social media, according to researchers, but experts are divided over whether heavy use meets the clinical definition of addiction — and recent research suggests that labeling oneself addicted may worsen, rather than improve, the ability to manage use.
+- Olivia Yokubonis, who goes by Olivia Unplugged on social platforms, has built a following posting videos that gently interrupt users' feed experiences with reminders about habitual scrolling.
+- She works for Opal, a screen time management app, though she said her content does not prominently feature the company's branding.
 
 Content creators in the United States are posting videos on TikTok, Instagram, and YouTube that interrupt users' scroll sessions to encourage them to close the app — a strategy researchers say may help plant early seeds of awareness about excessive platform use, even as academics debate whether heavy social media use constitutes addiction.
 
@@ -114,100 +115,122 @@ Researchers and creators both point to practical steps for users looking to redu
 
 ## Atomic claims
 
-### c_001 — reported, single source
-**Predicate:** creates_content_about
-**Object:** screen time reduction (behavior)
-**Temporal:** 2026-01-18
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Predicate:** creates_content_about
+- **Object:** screen time reduction (behavior)
+- **Temporal:** 2026-01-18
+- **Sources:** src_001
 
 > A growing group of content creators posts videos on social media platforms encouraging viewers to reduce their screen time.
 
-### c_002 — confirmed, single source
-**Subject entities:** Olivia Yokubonis
-**Predicate:** creates
-**Object:** anti-overuse social media content (occupation)
-**Temporal:** 2026-01-18
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Olivia Yokubonis
+- **Predicate:** creates
+- **Object:** anti-overuse social media content (occupation)
+- **Temporal:** 2026-01-18
+- **Sources:** src_001
 
 > Olivia Yokubonis, who goes by Olivia Unplugged online, makes videos to combat overuse or mindless use of social media.
 
-### c_003 — attributed, single source
-**Subject entities:** Olivia Yokubonis; Opal
-**Predicate:** employed_by
-**Object:** Opal (company)
-**Temporal:** 2026-01-18
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Olivia Yokubonis; Opal
+- **Predicate:** employed_by
+- **Object:** Opal (company)
+- **Temporal:** 2026-01-18
+- **Sources:** src_001
 
 > Yokubonis works for Opal, a screen time app designed to help users reclaim their focus.
 
-### c_004 — attributed, single source
-**Subject entities:** Ofir Turel; University of Melbourne
-**Predicate:** holds_position
-**Object:** professor of information systems management (title)
-**Temporal:** 2026-01-18
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ofir Turel; University of Melbourne
+- **Predicate:** holds_position
+- **Object:** professor of information systems management (title)
+- **Temporal:** 2026-01-18
+- **Sources:** src_001
 
 > Ofir Turel is a professor of information systems management at the University of Melbourne who has been studying social media use for years.
 
-### c_005 — attributed, single source
-**Subject entities:** Ofir Turel
-**Predicate:** found
-**Object:** screen time data confrontation prompts voluntary reduction (research_finding)
-**Temporal:** 2026-01-18
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ofir Turel
+- **Predicate:** found
+- **Object:** screen time data confrontation prompts voluntary reduction (research_finding)
+- **Temporal:** 2026-01-18
+- **Sources:** src_001
 
 > Turel's research found that when presented with their screen time data, people were practically in a state of shock, and many voluntarily reduced their usage afterward.
 
-### c_006 — confirmed, single source
-**Subject entities:** Ian A. Anderson; California Institute of Technology
-**Predicate:** holds_position
-**Object:** postdoctoral scholar (title)
-**Temporal:** 2026-01-18
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Ian A. Anderson; California Institute of Technology
+- **Predicate:** holds_position
+- **Object:** postdoctoral scholar (title)
+- **Temporal:** 2026-01-18
+- **Sources:** src_001
 
 > Ian A. Anderson is a postdoctoral scholar at California Institute of Technology.
 
-### c_007 — attributed, single source
-**Subject entities:** Ian A. Anderson
-**Predicate:** found
-**Object:** 18% self-report somewhat addicted vs. 2% clinically at-risk (research_finding)
-**Temporal:** 2026-01-18
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ian A. Anderson
+- **Predicate:** found
+- **Object:** 18% self-report somewhat addicted vs. 2% clinically at-risk (research_finding)
+- **Temporal:** 2026-01-18
+- **Sources:** src_001
 
 > In a representative sample of active Instagram users, Anderson found 18% of participants agreed they were at least somewhat addicted to the app, 5% indicated substantial agreement, but only 2% were deemed at risk of addiction based on their symptoms.
 
-### c_008 — attributed, single source
-**Subject entities:** Ian A. Anderson
-**Predicate:** found
-**Object:** addiction self-perception worsens self-regulation (research_finding)
-**Temporal:** 2026-01-18
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ian A. Anderson
+- **Predicate:** found
+- **Object:** addiction self-perception worsens self-regulation (research_finding)
+- **Temporal:** 2026-01-18
+- **Sources:** src_001
 
 > Anderson found that perceiving oneself as more addicted hurts the perceived ability to control use and increases self-blame for overuse.
 
-### c_009 — attributed, single source
-**Subject entities:** Cat Goetze
-**Predicate:** creates_content_about
-**Object:** artificial intelligence and screen time (occupation)
-**Temporal:** 2026-01-18
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Cat Goetze
+- **Predicate:** creates_content_about
+- **Object:** artificial intelligence and screen time (occupation)
+- **Temporal:** 2026-01-18
+- **Sources:** src_001
 
 > Cat Goetze, who goes by CatGPT online, makes content about artificial intelligence and technology and has been on a lengthy road to cut down her own screen time.
 
-### c_010 — confirmed, single source
-**Subject entities:** Cat Goetze; Physical Phones
-**Predicate:** founded
-**Object:** Physical Phones (company)
-**Temporal:** 2026-01-18
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Cat Goetze; Physical Phones
+- **Predicate:** founded
+- **Object:** Physical Phones (company)
+- **Temporal:** 2026-01-18
+- **Sources:** src_001
 
 > Goetze founded Physical Phones, a business that makes Bluetooth landline phones that connect to smartphones, with packaging reading 'offline is the new luxury.'
 
-### c_011 — reported, single source
-**Predicate:** disagree_on
-**Object:** whether social media addiction is a valid clinical category (academic_debate)
-**Temporal:** 2026-01-18
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Predicate:** disagree_on
+- **Object:** whether social media addiction is a valid clinical category (academic_debate)
+- **Temporal:** 2026-01-18
+- **Sources:** src_001
 
 > Researchers and psychologists agree some people spend too much time on social media, but disagree on whether the term addiction is appropriate to describe heavy use.
 
@@ -216,10 +239,5 @@ Researchers and creators both point to practical steps for users looking to redu
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Kaitlyn Huamani
 **Publication date:** 2026-01-18
-**Access date:** 2026-01-18
 **Title:** Anti-doomscrolling influencers challenge social media addiction
 **URL:** https://apnews.com/article/social-media-addiction-screen-time-a50f6def00a5723ba61e0a78ba761669
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

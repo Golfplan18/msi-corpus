@@ -17,40 +17,42 @@ primary_themes:
 - civil liberties
 - domestic military deployment
 topic_tags:
-  - "conflict, war and peace"
+- civil unrest
+- law enforcement
+- government policy
+- civil rights
+- politics
 storyline_nexus:
-  - immigration-enforcement
-geographic_location: Minneapolis, Minnesota, United States
+- us-immigration-enforcement
+geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
-  intensity: 0.95
-- value: human_life_and_dignity
-  intensity: 0.85
-- value: informed_citizenship
   intensity: 0.9
 - value: truthfulness
-  intensity: 0.75
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:03:33Z'
+  intensity: 0.6
+- value: informed_citizenship
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:23:28Z'
 source_cluster_id: cluster_ap_2026-01-18_trump-8798f70b46e9e2118fbf2aadc907f108
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 16
   hedges:
-    appears: 0
+    confirmed: 0
     alleged: 0
     attributed: 13
     reported: 3
     contested: 0
-    confirmed: 0
+    appears: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 0
+    one_originating_plus_primary_document: 0
+    primary_plus_secondary: 0
     single_source: 16
     two_independent: 0
 sources:
@@ -66,41 +68,20 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-14-minneapolis-sees-second-federal-shooting-as-courts-governor-push-back-on-immigra
-  relation: related
-  strength: 0.8329
-  confidence: medium
-- slug: 2026-01-12-minnesota-twin-cities-sue-trump-administration-over-fatal-ice-shooting
-  relation: related
-  strength: 0.8157
-  confidence: medium
-- slug: 2026-01-11-federal-agents-ram-minneapolis-door-pepper-spray-protesters-in-immigration-sweep
-  relation: related
-  strength: 0.8138
-  confidence: medium
-- slug: 2026-01-13-federal-agents-deploy-tear-gas-in-minneapolis-as-five-prosecutors-resign-over-re
-  relation: related
-  strength: 0.7722
-  confidence: medium
-- slug: 2026-01-08-minneapolis-ice-shooting-renews-debate-over-lethal-force-rules-for-moving-vehicl
-  relation: related
-  strength: 0.7961
-  confidence: medium
-- slug: 2026-01-08-protests-erupt-in-minneapolis-as-officials-dispute-jurisdiction-in-fatal-ice-sho
-  relation: related
-  strength: 0.7933
-  confidence: medium
-- slug: 2026-01-10-thousands-march-across-us-after-ice-shootings-in-minneapolis-portland
-  relation: related
-  strength: 0.7716
-  confidence: medium
-- slug: 2026-01-09-federal-authorities-bar-minnesota-from-ice-shooting-probe-claim-no-state-jurisdi
-  relation: related
-  strength: 0.7763
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Cómo se ha usado la Ley de Insurrección en EEUU y qué quiere hacer Trump con ella
+- ATLANTA (AP) — Donald Trump no sería el primer presidente de Estados Unidos en invocar la Ley de Insurrección, según ha amenazado, para enviar fuerzas militares federales a Minnesota.
+- Expertos en derecho constitucional y militar dicen que nada de esto tiene que ver con lo que está pasando en Minneapolis.
+- A continuación se presenta un análisis de la ley, cómo se ha utilizado y comparaciones con la situación en Minneapolis.
+- La ley se concibió originalmente como una forma para proteger a la joven república
+- Trump insiste en que las circunstancias exigen el último recurso
 
 President Donald Trump threatened to invoke the Insurrection Act to deploy federal military forces to Minnesota, seeking to suppress protests in Minneapolis that arose after federal immigration agents shot and killed a U.S. citizen, Renee Good. Constitutional and military law experts said the move would be an abuse of the 19th-century statute unlike any in American history.
 
@@ -114,7 +95,7 @@ Trump has argued that Minnesota officials and residents are obstructing federal 
 
 ## A statute built for the republic's survival, not its administration
 
-George Washington signed the first version of the Insurrection Act in 1792, authorizing mobilization of state militias when "the laws of the United States are opposed or obstructed in their execution." Washington and John Adams used the authority to suppress citizen revolts against taxes — levies considered essential to the young republic's survival. Congress expanded the law in 1807. Nunn told the AP that the early statutes reflected a deep Anglo-American tradition against military intervention in civilian affairs, except as a last resort.
+George Washington signed the first version of the Insurrection Act in 1792, authorizing mobilization of state militias when federal laws faced opposition or obstruction. Washington and John Adams used the authority to suppress citizen revolts against taxes — levies considered essential to the young republic's survival. Congress expanded the law in 1807. Nunn told the AP that the early statutes reflected a deep Anglo-American tradition against military intervention in civilian affairs, except as a last resort.
 
 The law has been invoked in three broad categories, according to the AP's review: when widespread local violence prompted state authorities to request federal assistance; when the federal government moved without a state's request to protect individuals whose rights were being violated or ignored by state actors; and in cases of open armed insurrection, as during the Civil War.
 
@@ -136,147 +117,179 @@ The analysis comes as the AP noted that federal forces already vastly outnumber 
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Donald Trump; Insurrection Act; Minnesota
-**Predicate:** threatened_to_invoke
-**Object:** Insurrection Act deployment to Minnesota (policy_action)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Insurrection Act; Minnesota
+- **Predicate:** threatened_to_invoke
+- **Object:** Insurrection Act deployment to Minnesota (policy_action)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > President Trump threatened to invoke the Insurrection Act to send federal military forces to Minnesota.
 
-### c_002 — attributed, single source
-**Subject entities:** Renee Good; federal agents; Minneapolis
-**Predicate:** shot_and_killed
-**Object:** Renee Good, U.S. citizen, three gunshot wounds (incident)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Renee Good; federal agents; Minneapolis
+- **Predicate:** shot_and_killed
+- **Object:** Renee Good, U.S. citizen, three gunshot wounds (incident)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > Federal agents shot Renee Good three times; she died from her wounds.
 
-### c_003 — attributed, single source
-**Subject entities:** Joseph Nunn; Brennan Center for Justice; Insurrection Act
-**Predicate:** stated
-**Object:** flagrant abuse; no criteria met (expert_opinion)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Joseph Nunn; Brennan Center for Justice; Insurrection Act
+- **Predicate:** stated
+- **Object:** flagrant abuse; no criteria met (expert_opinion)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > Joseph Nunn, an attorney at the Brennan Center for Justice's Liberty and National Security Program, said Trump's threatened use of the Insurrection Act would be a flagrant abuse of the statute and that none of the legal criteria for invocation had been met.
 
-### c_004 — reported, single source
-**Subject entities:** federal agents; Minneapolis; Saint Paul
-**Predicate:** deployed_in
-**Object:** 2,000–3,000 federal officers (count)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** federal agents; Minneapolis; Saint Paul
+- **Predicate:** deployed_in
+- **Object:** 2,000–3,000 federal officers (count)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > Between 2,000 and 3,000 federal law enforcement officers are deployed in the Minneapolis–Saint Paul metropolitan area.
 
-### c_005 — attributed, single source
-**Subject entities:** Minneapolis Police Department
-**Predicate:** employs
-**Object:** fewer than 600 officers (count)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Minneapolis Police Department
+- **Predicate:** employs
+- **Object:** fewer than 600 officers (count)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > The Minneapolis Police Department has fewer than 600 officers.
 
-### c_006 — attributed, single source
-**Subject entities:** Insurrection Act
-**Predicate:** invoked
-**Object:** more than 20 times (count)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Insurrection Act
+- **Predicate:** invoked
+- **Object:** more than 20 times (count)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > The Insurrection Act has been invoked more than 20 times in U.S. history, but rarely since the 20th-century civil rights movement.
 
-### c_007 — attributed, single source
-**Subject entities:** George H.W. Bush; Insurrection Act; Los Angeles; Rodney King
-**Predicate:** invoked
-**Object:** 4,000-troop deployment to Los Angeles, 1992 (historical_event)
-**Temporal:** 1992
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** George H.W. Bush; Insurrection Act; Los Angeles; Rodney King
+- **Predicate:** invoked
+- **Object:** 4,000-troop deployment to Los Angeles, 1992 (historical_event)
+- **Temporal:** 1992
+- **Sources:** src_001
 
 > The last invocation of the Insurrection Act was in 1992, when President George H.W. Bush deployed approximately 4,000 troops to Los Angeles following riots after a jury acquitted four white police officers despite video showing them beating Rodney King.
 
-### c_008 — attributed, single source
-**Subject entities:** Joseph Nunn; ICE; Minneapolis
-**Predicate:** stated
-**Object:** ICE conduct exceeds legal authority; fosters crisis (expert_opinion)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Joseph Nunn; ICE; Minneapolis
+- **Predicate:** stated
+- **Object:** ICE conduct exceeds legal authority; fosters crisis (expert_opinion)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > Nunn said ICE has the legal authority to enforce federal immigration laws but that agents' conduct in Minneapolis has amounted to violent and illegal behavior beyond their lawful function that is escalating the very situation Trump seeks to suppress.
 
-### c_009 — attributed, single source
-**Subject entities:** Joseph Nunn; Donald Trump; Insurrection Act
-**Predicate:** stated
-**Object:** cannot create crisis then suppress it; must act in good faith (expert_opinion)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Joseph Nunn; Donald Trump; Insurrection Act
+- **Predicate:** stated
+- **Object:** cannot create crisis then suppress it; must act in good faith (expert_opinion)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > Nunn said a president cannot intentionally create a crisis and then invoke emergency powers to suppress it, and that the constitutional requirement to faithfully execute the laws obligates Trump to act in good faith in both his immigration authority and any use of the Insurrection Act.
 
-### c_010 — attributed, single source
-**Subject entities:** Donald Trump; Minnesota; ICE; CBP
-**Predicate:** argued
-**Object:** protests constitute obstruction of federal law enforcement (political_claim)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Minnesota; ICE; CBP
+- **Predicate:** argued
+- **Object:** protests constitute obstruction of federal law enforcement (political_claim)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > Trump argued that Minnesota officials and residents are obstructing federal law enforcement by protesting the presence of ICE and CBP agents.
 
-### c_011 — reported, single source
-**Subject entities:** courts; Donald Trump; National Guard; Minnesota
-**Predicate:** blocked
-**Object:** National Guard deployment to Minnesota (legal_action)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** courts; Donald Trump; National Guard; Minnesota
+- **Predicate:** blocked
+- **Object:** National Guard deployment to Minnesota (legal_action)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > Courts have blocked some of Trump's efforts to deploy the National Guard to Minnesota.
 
-### c_012 — attributed, single source
-**Subject entities:** Donald Trump; Insurrection Act
-**Predicate:** argued
-**Object:** Insurrection Act bypasses state consent requirement (legal_claim)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Insurrection Act
+- **Predicate:** argued
+- **Object:** Insurrection Act bypasses state consent requirement (legal_claim)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > Trump argued the Insurrection Act would allow him to send troops without a state's permission.
 
-### c_013 — attributed, single source
-**Subject entities:** George Washington; Insurrection Act
-**Predicate:** signed
-**Object:** Insurrection Act, 1792 (historical_fact)
-**Temporal:** 1792
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** George Washington; Insurrection Act
+- **Predicate:** signed
+- **Object:** Insurrection Act, 1792 (historical_fact)
+- **Temporal:** 1792
+- **Sources:** src_001
 
 > George Washington signed the first version of the Insurrection Act in 1792, authorizing mobilization of state militias when U.S. laws faced opposition or obstruction.
 
-### c_014 — attributed, single source
-**Subject entities:** Congress; Insurrection Act
-**Predicate:** expanded
-**Object:** Insurrection Act, 1807 (legislative_action)
-**Temporal:** 1807
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Congress; Insurrection Act
+- **Predicate:** expanded
+- **Object:** Insurrection Act, 1807 (legislative_action)
+- **Temporal:** 1807
+- **Sources:** src_001
 
 > Congress expanded the Insurrection Act in 1807.
 
-### c_015 — attributed, single source
-**Subject entities:** Franklin Roosevelt; Detroit; Insurrection Act
-**Predicate:** deployed
-**Object:** 6,000 soldiers to Detroit (historical_deployment)
-**Temporal:** 1943
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Franklin Roosevelt; Detroit; Insurrection Act
+- **Predicate:** deployed
+- **Object:** 6,000 soldiers to Detroit (historical_deployment)
+- **Temporal:** 1943
+- **Sources:** src_001
 
 > President Franklin Roosevelt sent 6,000 soldiers to Detroit after state authorities requested help during race riots in which local white police had participated in violence against Black residents.
 
-### c_016 — reported, single source
-**Subject entities:** federal agents; Renee Good; Minneapolis
-**Predicate:** showed
-**Object:** federal agents initiating violence (documented_evidence)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_016
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** federal agents; Renee Good; Minneapolis
+- **Predicate:** showed
+- **Object:** federal agents initiating violence (documented_evidence)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > Videos taken by protesters and bystanders showed federal agents initiating violence in confrontations that escalated after Good's death.
 
@@ -285,10 +298,5 @@ The analysis comes as the AP noted that federal forces already vastly outnumber 
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Bill Barrow
 **Publication date:** 2026-01-16
-**Access date:** 2026-05-17
 **Title:** Cómo se ha usado la Ley de Insurrección en EEUU y qué quiere hacer Trump con ella
 **URL:** https://apnews.com/article/trump-8798f70b46e9e2118fbf2aadc907f108
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

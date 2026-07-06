@@ -14,44 +14,41 @@ primary_themes:
 - emergency response
 - school closures
 topic_tags:
-  - "conflict, war and peace"
-  - "education policy"
-  - "government policy"
-  - "human migration"
-  - "international relations"
-  - "science and technology"
+- disaster
+- accident and emergency incident
+- public health
+- school
+- communities
 storyline_nexus:
-  - us-china-relations
-  - gaza-conflict
-  - iran-war
-geographic_location: El Paso, Texas, United States
+- extreme-weather-disasters
+geographic_location: United States
 floor_values_engaged:
+- value: human_life_and_dignity
+  intensity: 0.9
 - value: informed_citizenship
   intensity: 0.9
-- value: human_life_and_dignity
-  intensity: 0.7
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T05:51:40Z'
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:08:30Z'
 source_cluster_id: cluster_ap_2026-01-11_el-paso-water-outage-texas-6ac1bba987788
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 12
   hedges:
-    appears: 0
     alleged: 0
     attributed: 11
-    reported: 1
     contested: 0
     confirmed: 0
+    appears: 0
+    reported: 1
   corroboration:
-    primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
-    primary_document: 0
     single_source: 12
+    primary_document: 0
+    primary_plus_secondary: 0
     two_independent: 0
 sources:
   count: 1
@@ -70,31 +67,20 @@ image:
   url: /articles/2026-01-12-water-main-break-leaves-more-than-100-000-el-paso-residents-without-service.png
   alt: 'Illustration accompanying article: Water main break leaves more than 100,000 El Paso residents without service'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-07-berlin-power-restored-after-four-day-blackout-blamed-on-far-left-attack
-  relation: related
-  strength: 0.7932
-  confidence: medium
-- slug: 2026-01-04-berlin-attributes-power-outage-to-left-wing-extremist-attack-on-cable-bridge
-  relation: related
-  strength: 0.7661
-  confidence: medium
-- slug: 2025-12-31-channel-tunnel-resumes-service-after-power-failure-stranded-travelers-for-hours
-  relation: related
-  strength: 0.7778
-  confidence: medium
-- slug: 2025-12-31-channel-tunnel-back-to-full-capacity-but-delays-linger-after-power-fault
-  relation: related
-  strength: 0.7739
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
 
-A break in a 36-inch water main left more than 100,000 residents in El Paso, Texas, with little to no water service starting late Saturday night, officials with El Paso Water said Sunday. The outage affected about 38,000 customer connections in the border city of roughly 700,000 people and caused more than 15 municipal reservoirs to drain. Authorities issued a boil water notice, set up water distribution centers, and said full restoration was not expected until midweek.
+## Summary
 
-Gilbert Trejo, an official with El Paso Water, called the failure "an event of unprecedented proportion." He said the impact was amplified by "the way the pipeline itself was designed along with how different connections of smaller lines were made to it."
+**Subtype:** fact
 
-Trejo said there is not yet enough information to determine what caused the break and asked for patience as crews work through repairs.
+- More than 100,000 El Paso, Texas residents left with little to no water after main break
+- More than 100,000 El Paso, Texas residents left with little to no water after main break
+- A boil water notice was issued, and water distribution centers were set up, officials said.
+- Classes were canceled Monday at more than a dozen schools in the El Paso Independent School District due to the outage. Other schools in the area remained open but were under the boil water notice.
+- He said there isn’t enough information yet to determine what caused the break.
+- Trejo asked for patience as they make repairs and go through the process to get the water flowing again.
 
 ## Schools disrupted
 
@@ -108,111 +94,135 @@ Trejo said officials expect operations to return to normal by midweek.
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** El Paso, Texas
-**Predicate:** lost_water_service
-**Object:** 100,000+ (residents_affected)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** El Paso, Texas
+- **Predicate:** lost_water_service
+- **Object:** 100,000+ (residents_affected)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > More than 100,000 residents in El Paso, Texas were left with little to no water after a main break over the weekend.
 
-### c_002 — attributed, single source
-**Subject entities:** El Paso Water
-**Predicate:** infrastructure_failure
-**Object:** 36-inch water main (infrastructure)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** El Paso Water
+- **Predicate:** infrastructure_failure
+- **Object:** 36-inch water main (infrastructure)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > The break occurred in a 36-inch water main line late Saturday night.
 
-### c_003 — attributed, single source
-**Subject entities:** El Paso, Texas
-**Predicate:** has_population
-**Object:** 700,000 (population)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** El Paso, Texas
+- **Predicate:** has_population
+- **Object:** 700,000 (population)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > El Paso has a population of about 700,000.
 
-### c_004 — attributed, single source
-**Subject entities:** Gilbert Trejo; El Paso Water
-**Predicate:** characterized_as
-**Object:** unprecedented proportion (official_characterization)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Gilbert Trejo; El Paso Water
+- **Predicate:** characterized_as
+- **Object:** unprecedented proportion (official_characterization)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Gilbert Trejo, an official with El Paso Water, called the break "an event of unprecedented proportion."
 
-### c_005 — attributed, single source
-**Subject entities:** Gilbert Trejo; El Paso Water
-**Predicate:** attributed_cause_factor
-**Object:** pipeline design and line connections (contributing_factor)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Gilbert Trejo; El Paso Water
+- **Predicate:** attributed_cause_factor
+- **Object:** pipeline design and line connections (contributing_factor)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Trejo said the impact was amplified by "the way the pipeline itself was designed along with how different connections of smaller lines were made to it."
 
-### c_006 — attributed, single source
-**Subject entities:** El Paso Water
-**Predicate:** connections_out_of_service
-**Object:** 38000 (customer_connections)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** El Paso Water
+- **Predicate:** connections_out_of_service
+- **Object:** 38000 (customer_connections)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > About 38,000 customer connections were put out of service because of the break.
 
-### c_007 — attributed, single source
-**Subject entities:** El Paso Water
-**Predicate:** reservoirs_drained
-**Object:** 15+ (reservoirs)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** El Paso Water
+- **Predicate:** reservoirs_drained
+- **Object:** 15+ (reservoirs)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > More than 15 water reservoirs essentially drained out.
 
-### c_008 — attributed, single source
-**Subject entities:** El Paso Water
-**Predicate:** emergency_response_measures
-**Object:** boil water notice and distribution centers (emergency_response)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** El Paso Water
+- **Predicate:** emergency_response_measures
+- **Object:** boil water notice and distribution centers (emergency_response)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > A boil water notice was issued and water distribution centers were set up.
 
-### c_009 — attributed, single source
-**Subject entities:** El Paso Independent School District
-**Predicate:** classes_canceled
-**Object:** 12+ schools (school_closures)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** El Paso Independent School District
+- **Predicate:** classes_canceled
+- **Object:** 12+ schools (school_closures)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Classes were canceled Monday at more than a dozen schools in the El Paso Independent School District due to the outage.
 
-### c_010 — attributed, single source
-**Subject entities:** El Paso Independent School District
-**Predicate:** operating_under_advisory
-**Object:** boil water notice (public_health_advisory)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** El Paso Independent School District
+- **Predicate:** operating_under_advisory
+- **Object:** boil water notice (public_health_advisory)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Other schools in the area remained open but were under the boil water notice.
 
-### c_011 — reported, single source
-**Subject entities:** El Paso Water
-**Predicate:** restoration_timeline
-**Object:** midweek (timeline)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** El Paso Water
+- **Predicate:** restoration_timeline
+- **Object:** midweek (timeline)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Operations were expected to return to normal by midweek.
 
-### c_012 — attributed, single source
-**Subject entities:** Gilbert Trejo; El Paso Water
-**Predicate:** cause_undetermined
-**Object:** undetermined (cause_status)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Gilbert Trejo; El Paso Water
+- **Predicate:** cause_undetermined
+- **Object:** undetermined (cause_status)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Trejo said there is not yet enough information to determine what caused the break.
 
@@ -220,10 +230,5 @@ Trejo said officials expect operations to return to normal by midweek.
 
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Publication date:** 2026-01-12
-**Access date:** 2026-01-12
 **Title:** Residents in El Paso, Texas left with little to no water after main break
 **URL:** https://apnews.com/article/el-paso-water-outage-texas-6ac1bba987788da451bb1d58e03b7ebb
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

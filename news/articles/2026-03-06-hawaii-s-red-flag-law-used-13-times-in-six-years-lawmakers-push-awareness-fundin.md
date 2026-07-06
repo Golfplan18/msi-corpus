@@ -17,39 +17,43 @@ primary_themes:
 - law enforcement training
 - Hawaii legislation
 topic_tags:
-  - "armed conflict"
-  - "conflict, war and peace"
-storyline_nexus: []
-geographic_location: Honolulu, Hawaii, United States
+- crime, law and justice
+- law enforcement
+- government policy
+- public health
+- mental health
+storyline_nexus:
+- us-immigration-enforcement
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
-  intensity: 0.85
-- value: informed_citizenship
-  intensity: 0.8
+  intensity: 0.9
 - value: accountability_of_power
   intensity: 0.6
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:43:56Z'
+- value: informed_citizenship
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T01:01:31Z'
 source_cluster_id: cluster_ap_2026-03-07_general-news-law-enforcement-shootings-h
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 13
   hedges:
     appears: 0
+    reported: 4
+    confirmed: 8
     alleged: 0
     attributed: 1
-    reported: 4
     contested: 0
-    confirmed: 8
   corroboration:
-    primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
-    primary_document: 7
     single_source: 6
+    primary_document: 7
+    primary_plus_secondary: 0
     two_independent: 0
 sources:
   count: 1
@@ -67,6 +71,7 @@ figures_aggregate:
 cross_article_links: []
 draft: false
 ---
+
 
 Hawaii's gun violence protective order law has been used only 13 times since taking effect in 2020, even as more than 430 people were killed by firearms in the state between 2018 and 2024, according to data from the Centers for Disease Control and Prevention. The Honolulu Police Department has never filed a red flag petition, and a state House bill would direct roughly $500,000 over two years to public awareness campaigns and court-processing support for the orders.
 
@@ -118,120 +123,146 @@ Sugimoto-Matsuda said a gun violence protective order should ideally accompany c
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Hawaii red flag law
-**Predicate:** used
-**Object:** 13 times (count)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Hawaii red flag law
+- **Predicate:** used
+- **Object:** 13 times (count)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > Hawaii's gun violence protective order law has been used only 13 times since taking effect roughly six years ago.
 
-### c_002 — reported, single source
-**Subject entities:** Hawaii
-**Predicate:** increased
-**Object:** 40% (percentage_change)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Hawaii
+- **Predicate:** increased
+- **Object:** 40% (percentage_change)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > Gun deaths in Hawaiʻi have increased by 40% over the last decade.
 
-### c_003 — confirmed, primary document
-**Subject entities:** Honolulu Police Department
-**Predicate:** never_filed
-**Object:** red flag petition (legal_action)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Honolulu Police Department
+- **Predicate:** never_filed
+- **Object:** red flag petition (legal_action)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > The Honolulu Police Department has never filed a red flag petition, according to court records.
 
-### c_004 — confirmed, primary document
-**Subject entities:** Kauai County Police
-**Predicate:** never_filed
-**Object:** red flag petition (legal_action)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Kauai County Police
+- **Predicate:** never_filed
+- **Object:** red flag petition (legal_action)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > Police in Kauaʻi County have never filed a red flag petition, according to court records.
 
-### c_005 — confirmed, primary document
-**Subject entities:** Hawaii law enforcement
-**Predicate:** filed
-**Object:** 6 petitions (count)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Hawaii law enforcement
+- **Predicate:** filed
+- **Object:** 6 petitions (count)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > Only six petitions have been filed by law enforcement statewide — five by police on Hawaiʻi Island and one on Maui.
 
-### c_006 — confirmed, primary document
-**Subject entities:** Hawaii; Centers for Disease Control and Prevention
-**Predicate:** died_by_firearm_suicide
-**Object:** 31 (count)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Hawaii; Centers for Disease Control and Prevention
+- **Predicate:** died_by_firearm_suicide
+- **Object:** 31 (count)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > Thirty-one people died by firearm suicide in Hawaii in 2024, according to CDC data.
 
-### c_007 — confirmed, primary document
-**Subject entities:** Hawaii; Centers for Disease Control and Prevention
-**Predicate:** firearm_suicide_peak
-**Object:** 50 (count)
-**Temporal:** 2023
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Hawaii; Centers for Disease Control and Prevention
+- **Predicate:** firearm_suicide_peak
+- **Object:** 50 (count)
+- **Temporal:** 2023
+- **Sources:** src_001
 
 > Firearm-related suicides in Hawaii peaked in 2023 with 50 deaths statewide, according to CDC data.
 
-### c_008 — reported, single source
-**Subject entities:** Hawaii
-**Predicate:** died_by_firearm_suicide
-**Object:** ~230 (count)
-**Temporal:** 2020-2026
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Hawaii
+- **Predicate:** died_by_firearm_suicide
+- **Object:** ~230 (count)
+- **Temporal:** 2020-2026
+- **Sources:** src_001
 
 > About 230 people have died from firearm-related suicides since Hawaii's red flag law took effect in 2020.
 
-### c_009 — confirmed, primary document
-**Subject entities:** Hawaii; Centers for Disease Control and Prevention
-**Predicate:** killed_by_guns
-**Object:** 430+ (count)
-**Temporal:** 2018-2024
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Hawaii; Centers for Disease Control and Prevention
+- **Predicate:** killed_by_guns
+- **Object:** 430+ (count)
+- **Temporal:** 2018-2024
+- **Sources:** src_001
 
 > More than 430 people were killed by guns in Hawaii between 2018 and 2024, according to CDC data.
 
-### c_010 — reported, single source
-**Subject entities:** Hawaii House Bill 2062
-**Predicate:** would_fund
-**Object:** awareness campaigns and court processing (legislative_proposal)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Hawaii House Bill 2062
+- **Predicate:** would_fund
+- **Object:** awareness campaigns and court processing (legislative_proposal)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > House Bill 2062 would direct funding to the state's Department of Law Enforcement for awareness campaigns and to the Judiciary to process gun violence protective orders more efficiently.
 
-### c_011 — confirmed, single source
-**Subject entities:** Hawaii Department of Law Enforcement
-**Predicate:** requested
-**Object:** $500,000 over two years (budget_request)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_011
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Hawaii Department of Law Enforcement
+- **Predicate:** requested
+- **Object:** $500,000 over two years (budget_request)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > The Department of Law Enforcement requested $500,000 spread across two years, with roughly $100,000 for public awareness campaigns and $150,000 for gun buybacks in year one.
 
-### c_012 — reported, single source
-**Subject entities:** Hawaii Senate Bill 3040
-**Predicate:** would_create
-**Object:** Office of Gun Violence Prevention (legislative_proposal)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Hawaii Senate Bill 3040
+- **Predicate:** would_create
+- **Object:** Office of Gun Violence Prevention (legislative_proposal)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > Senate Bill 3040 would create a statewide Office of Gun Violence Prevention, replacing a commission that has not met in over a year.
 
-### c_013 — attributed, single source
-**Subject entities:** Carlene Lau; Honolulu Police Department
-**Predicate:** said
-**Object:** not all HPD staff trained on protective orders (statement)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Carlene Lau; Honolulu Police Department
+- **Predicate:** said
+- **Object:** not all HPD staff trained on protective orders (statement)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > HPD Maj. Carlene Lau said last year that not all HPD staff receive training on gun violence protective orders.
 
@@ -240,10 +271,5 @@ Sugimoto-Matsuda said a gun violence protective order should ideally accompany c
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Caitlin Thompson / Honolulu Civil Beat
 **Publication date:** 2026-03-06
-**Access date:** 2026-03-06
 **Title:** People In Crisis Still Keep Their Guns. Can Hawaiʻi Change That?
 **URL:** https://apnews.com/article/general-news-law-enforcement-shootings-honolulu-e5a20349968895ebd579d05c375b47fe
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -18,46 +18,41 @@ primary_themes:
 - Civil rights
 - Protests and demonstrations
 topic_tags:
-  - "civil unrest"
-  - "conflict, war and peace"
-  - "government policy"
-  - "human migration"
-  - "international relations"
-  - "political dissent"
-storyline_nexus: []
-geographic_location: St. Paul and Minneapolis, Minnesota, United States
+- civil rights
+- crime, law and justice
+- law enforcement
+- civil unrest
+storyline_nexus:
+- us-immigration-enforcement
+geographic_location: United States
 floor_values_engaged:
-- value: human_life_and_dignity
-  intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.85
-- value: informed_citizenship
-  intensity: 0.8
-- value: truthfulness
-  intensity: 0.75
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+  intensity: 0.9
+- value: human_life_and_dignity
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:46:59Z'
 source_cluster_id: cluster_ap_2026-01-21_justice-department-minnesota-church-disr
 gdelt_event_ids: []
-consensus_floor_version: '3.0'
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 15
   hedges:
-    appears: 0
-    alleged: 0
     attributed: 8
+    appears: 0
+    confirmed: 3
     reported: 4
     contested: 0
-    confirmed: 3
+    alleged: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 0
     single_source: 15
     two_independent: 0
+    one_originating_plus_primary_document: 0
+    primary_plus_secondary: 0
+    primary_document: 0
 sources:
   count: 1
   outlets:
@@ -75,41 +70,12 @@ image:
   url: /articles/2026-01-22-civil-rights-attorney-arrested-in-minnesota-church-ice-protest.png
   alt: 'Illustration accompanying article: Civil rights attorney arrested in Minnesota church ICE protest'
   source: ai_generated
-cross_article_links:
-- slug: 2026-04-16-minnesota-probes-federal-officers-over-two-killings-wounding-and-highway-assault
-  relation: related
-  strength: 0.7794
-  confidence: medium
-- slug: 2026-04-21-judge-orders-man-shot-by-ice-in-california-to-remain-in-custody
-  relation: related
-  strength: 0.779
-  confidence: medium
-- slug: 2026-01-12-minnesota-twin-cities-sue-trump-administration-over-fatal-ice-shooting
-  relation: related
-  strength: 0.8228
-  confidence: medium
-- slug: 2026-01-14-minneapolis-sees-second-federal-shooting-as-courts-governor-push-back-on-immigra
-  relation: related
-  strength: 0.8079
-  confidence: medium
-- slug: 2026-01-13-federal-agents-deploy-tear-gas-in-minneapolis-as-five-prosecutors-resign-over-re
-  relation: related
-  strength: 0.8036
-  confidence: medium
-- slug: 2026-01-11-federal-agents-ram-minneapolis-door-pepper-spray-protesters-in-immigration-sweep
-  relation: related
-  strength: 0.8154
-  confidence: medium
-- slug: 2026-01-11-minneapolis-church-holds-lament-and-hope-service-as-ice-enforcement-grips-city
-  relation: related
-  strength: 0.8051
-  confidence: medium
-- slug: 2026-01-08-minneapolis-protests-erupt-over-ice-killing-of-renee-good-as-portland-shooting-d
-  relation: related
-  strength: 0.8188
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
 
 Civil rights attorney Nekima Levy Armstrong and at least two other people were arrested Thursday in connection with a protest that disrupted a Sunday service at Cities Church in St. Paul, where an Immigration and Customs Enforcement official serves as a pastor, according to Trump administration officials. The arrests came as a federal magistrate judge rejected charges against journalist Don Lemon related to the same event. Vice President JD Vance, speaking in Minneapolis, urged state and local law enforcement to collaborate with federal immigration officials.
 
@@ -163,138 +129,168 @@ Prominent leaders of the Southern Baptist Convention have argued that compassion
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Nekima Levy Armstrong
-**Predicate:** arrested_for_protest
-**Object:** church protest disruption (legal_action)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Nekima Levy Armstrong
+- **Predicate:** arrested_for_protest
+- **Object:** church protest disruption (legal_action)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Civil rights attorney Nekima Levy Armstrong was arrested Thursday in connection with a protest that disrupted a Sunday service at Cities Church in St. Paul.
 
-### c_002 — confirmed, single source
-**Subject entities:** Cities Church; David Easterwood
-**Predicate:** has_pastor_employed_by
-**Object:** ICE (organization)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Cities Church; David Easterwood
+- **Predicate:** has_pastor_employed_by
+- **Object:** ICE (organization)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Cities Church in St. Paul lists David Easterwood as one of its pastors, and Easterwood leads an Immigration and Customs Enforcement field office.
 
-### c_003 — reported, single source
-**Subject entities:** Protesters
-**Predicate:** chanted
-**Object:** ICE out, Justice for Renee Good (speech_act)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Protesters
+- **Predicate:** chanted
+- **Object:** ICE out, Justice for Renee Good (speech_act)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > Protesters entered Cities Church during a Sunday service and chanted 'ICE out' and 'Justice for Renee Good.'
 
-### c_004 — reported, single source
-**Subject entities:** Department of Justice
-**Predicate:** opened_investigation
-**Object:** church protest (investigation)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Department of Justice
+- **Predicate:** opened_investigation
+- **Object:** church protest (investigation)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > The Justice Department opened a civil rights investigation after the protest disrupted the church service.
 
-### c_005 — attributed, single source
-**Subject entities:** William Kelly
-**Predicate:** arrested_for_protest
-**Object:** church protest (legal_action)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** William Kelly
+- **Predicate:** arrested_for_protest
+- **Object:** church protest (legal_action)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > William Kelly was arrested in connection with the church protest.
 
-### c_006 — attributed, single source
-**Subject entities:** Chauntyll Louisa Allen
-**Predicate:** arrested_for_protest
-**Object:** church protest under intimidation statute (legal_action)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Chauntyll Louisa Allen
+- **Predicate:** arrested_for_protest
+- **Object:** church protest under intimidation statute (legal_action)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Chauntyll Louisa Allen, a member of the Saint Paul Public Schools board of education, was arrested and charged under a statute that bars threatening or intimidating someone exercising a right.
 
-### c_007 — confirmed, single source
-**Subject entities:** Judge Doug Micko; Don Lemon
-**Predicate:** rejected_charges_against
-**Object:** criminal charges (legal_action)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Judge Doug Micko; Don Lemon
+- **Predicate:** rejected_charges_against
+- **Object:** criminal charges (legal_action)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > A federal magistrate judge rejected the government's bid to charge journalist Don Lemon in connection with the church protest.
 
-### c_008 — attributed, single source
-**Subject entities:** JD Vance
-**Predicate:** urged
-**Object:** state and local law enforcement collaboration on immigration enforcement (speech_act)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** JD Vance
+- **Predicate:** urged
+- **Object:** state and local law enforcement collaboration on immigration enforcement (speech_act)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Vice President JD Vance, speaking in Minneapolis, urged state and local law enforcement to collaborate with federal immigration officials.
 
-### c_009 — attributed, single source
-**Subject entities:** JD Vance
-**Predicate:** said
-**Object:** threat of imprisonment for protesters (speech_act)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** JD Vance
+- **Predicate:** said
+- **Object:** threat of imprisonment for protesters (speech_act)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Vance said regarding the protesters: 'Those people are going to be sent to prison so long as we have the power to do so.'
 
-### c_010 — attributed, single source
-**Subject entities:** Nekima Levy Armstrong
-**Predicate:** called_for_resignation
-**Object:** pastor resignation based on conflict of interest (speech_act)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Nekima Levy Armstrong
+- **Predicate:** called_for_resignation
+- **Object:** pastor resignation based on conflict of interest (speech_act)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > Nekima Levy Armstrong called for the church's pastor David Easterwood to resign, saying his dual role posed a 'fundamental moral conflict.'
 
-### c_011 — reported, single source
-**Subject entities:** Department of Justice; Renee Good
-**Predicate:** investigated_and_found_no_basis
-**Object:** ICE officer's shooting of Renee Good (investigation)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Department of Justice; Renee Good
+- **Predicate:** investigated_and_found_no_basis
+- **Object:** ICE officer's shooting of Renee Good (investigation)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > The Justice Department found no basis for a civil rights investigation into Renee Good's death.
 
-### c_012 — attributed, single source
-**Subject entities:** Trump administration officials
-**Predicate:** said
-**Object:** officer self-defense claim in Good shooting (speech_act)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Trump administration officials
+- **Predicate:** said
+- **Object:** officer self-defense claim in Good shooting (speech_act)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Administration officials said the ICE officer acted in self-defense.
 
-### c_013 — reported, single source
-**Subject entities:** Department of Justice
-**Predicate:** investigated
-**Object:** state and local officials for obstruction of federal enforcement (investigation)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_013
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Department of Justice
+- **Predicate:** investigated
+- **Object:** state and local officials for obstruction of federal enforcement (investigation)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > The Justice Department sent subpoenas to the offices of Gov. Tim Walz, Attorney General Keith Ellison, Minneapolis Mayor Jacob Frey, St. Paul Mayor Kaohly Her, and officials in Ramsey and Hennepin counties, investigating whether they impeded federal immigration enforcement.
 
-### c_014 — confirmed, single source
-**Subject entities:** Nekima Levy Armstrong
-**Predicate:** is_activist_with_history
-**Object:** civil rights and police accountability activism (background)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_014
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Nekima Levy Armstrong
+- **Predicate:** is_activist_with_history
+- **Object:** civil rights and police accountability activism (background)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Nekima Levy Armstrong has helped lead protests after the deaths of George Floyd, Philando Castile, and Jamar Clark, and is a former president of the NAACP's Minneapolis branch.
 
-### c_015 — attributed, single source
-**Subject entities:** Doug Wardlow
-**Predicate:** said
-**Object:** church lawyers support for arrests (speech_act)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Doug Wardlow
+- **Predicate:** said
+- **Object:** church lawyers support for arrests (speech_act)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Doug Wardlow, director of litigation for True North Legal, said: 'The U.S. Department of Justice acted decisively by arresting those who coordinated and carried out the terrible crime.'
 
@@ -303,10 +299,5 @@ Prominent leaders of the Southern Baptist Convention have argued that compassion
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Alanna Durkin Richer
 **Publication date:** 2026-01-22
-**Access date:** 2026-05-18
 **Title:** Nekima Levy Armstrong is arrested for leading a protest at a Minnesota church
 **URL:** https://apnews.com/article/justice-department-minnesota-church-disruption-bondi-ed084f5005187f58eabe0cc627d1862b
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

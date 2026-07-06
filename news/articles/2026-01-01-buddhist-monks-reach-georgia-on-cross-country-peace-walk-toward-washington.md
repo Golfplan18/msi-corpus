@@ -15,12 +15,13 @@ primary_themes:
 - religion
 - cross-country walk
 topic_tags:
-  - "arts, culture, entertainment and media"
-  - "conflict, war and peace"
-  - "mass media"
-  - religion
-  - "social media"
-storyline_nexus: []
+- arts, culture, entertainment and media
+- conflict, war and peace
+- mass media
+- religion
+- social media
+storyline_nexus:
+- gaza-israel-war
 geographic_location: Georgia, United States
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -72,10 +73,6 @@ cross_article_links:
   relation: continues
   strength: 1.0
   confidence: high
-- slug: 2025-12-30-faith-leaders-supporting-immigrants-brace-for-harder-year-under-trump-policies
-  relation: related
-  strength: 0.6673
-  confidence: medium
 draft: false
 ---
 
@@ -115,120 +112,146 @@ Buddhism traces its origins to the teachings of Gautama Buddha, believed to have
 
 *Reporting by the Associated Press (Jeff Martin in Atlanta and Deepa Bharath in Los Angeles); compiled by Main Street Independent.*
 
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework. [Methodology](/methodology). Human review: not triggered. This work is dedicated to the public domain under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*
-
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Predicate:** walking_for_peace
-**Object:** Fort Worth, Texas to Washington, D.C. (route)
-**Temporal:** 2025-12-30
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Predicate:** walking_for_peace
+- **Object:** Fort Worth, Texas to Washington, D.C. (route)
+- **Temporal:** 2025-12-30
+- **Sources:** src_001
 
 > A group of about two dozen Buddhist monks is walking from Fort Worth, Texas, to Washington, D.C., to promote peace.
 
-### c_002 — attributed, single source
-**Predicate:** began_on
-**Object:** October 26, Fort Worth, Texas (date_location)
-**Temporal:** 2025-10-26
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Predicate:** began_on
+- **Object:** October 26, Fort Worth, Texas (date_location)
+- **Temporal:** 2025-10-26
+- **Sources:** src_001
 
 > The walk began in Fort Worth, Texas, on October 26.
 
-### c_003 — attributed, single source
-**Predicate:** reached
-**Object:** Georgia, day 66 (location_milestone)
-**Temporal:** 2025-12-30
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Predicate:** reached
+- **Object:** Georgia, day 66 (location_milestone)
+- **Temporal:** 2025-12-30
+- **Sources:** src_001
 
 > As of December 30, the group was on day 66 of the walk and had reached Georgia.
 
-### c_004 — attributed, single source
-**Predicate:** planned_segment
-**Object:** Morrow to Decatur, Georgia (route_segment)
-**Temporal:** 2025-12-30
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Predicate:** planned_segment
+- **Object:** Morrow to Decatur, Georgia (route_segment)
+- **Temporal:** 2025-12-30
+- **Sources:** src_001
 
 > The group planned to walk from Morrow to Decatur, Georgia, on December 30, and invited the public to a Peace Gathering in Decatur that afternoon.
 
-### c_005 — attributed, single source
-**Predicate:** has_followers
-**Object:** 400000 (social_media_count)
-**Temporal:** 2025-12-30
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Predicate:** has_followers
+- **Object:** 400000 (social_media_count)
+- **Temporal:** 2025-12-30
+- **Sources:** src_001
 
 > The group has more than 400,000 followers on Facebook.
 
-### c_006 — attributed, single source
-**Predicate:** has_hashtag
-**Object:** #AlokathePeaceDog (social_media_hashtag)
-**Temporal:** 2025-12-30
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Predicate:** has_hashtag
+- **Object:** #AlokathePeaceDog (social_media_hashtag)
+- **Temporal:** 2025-12-30
+- **Sources:** src_001
 
 > The monks' dog, Aloka, is named after a Sanskrit word meaning enlightenment and has its own hashtag, #AlokathePeaceDog.
 
-### c_007 — attributed, single source
-**Predicate:** vehicle_collision
-**Object:** Dayton, Texas, escort vehicle struck (incident)
-**Temporal:** 2025-11
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Predicate:** vehicle_collision
+- **Object:** Dayton, Texas, escort vehicle struck (incident)
+- **Temporal:** 2025-11
+- **Sources:** src_001
 
 > Last month, outside Houston near Dayton, Texas, a truck struck the monks' escort vehicle while the monks walked on the side of a highway; the escort vehicle had its hazard lights on.
 
-### c_008 — attributed, single source
-**Subject entities:** Shane Burleigh
-**Predicate:** stated
-**Object:** truck driver behavior (official_statement)
-**Temporal:** 2025-11
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Shane Burleigh
+- **Predicate:** stated
+- **Object:** truck driver behavior (official_statement)
+- **Temporal:** 2025-11
+- **Sources:** src_001
 
 > Dayton Interim Police Chief Shane Burleigh said the truck driver 'didn't notice how slow the vehicle was going, tried to make an evasive maneuver to drive around the vehicle, and didn't do it in time.'
 
-### c_009 — attributed, single source
-**Predicate:** caused_injury
-**Object:** escort pushed into two monks (collision_outcome)
-**Temporal:** 2025-11
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Predicate:** caused_injury
+- **Object:** escort pushed into two monks (collision_outcome)
+- **Temporal:** 2025-11
+- **Sources:** src_001
 
 > The collision pushed the escort vehicle into two of the monks.
 
-### c_010 — attributed, single source
-**Predicate:** sustained_injuries
-**Object:** substantial leg injuries, helicopter transport to Houston (injury)
-**Temporal:** 2025-11
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Predicate:** sustained_injuries
+- **Object:** substantial leg injuries, helicopter transport to Houston (injury)
+- **Temporal:** 2025-11
+- **Sources:** src_001
 
 > One monk sustained substantial leg injuries and was flown by helicopter to a hospital in Houston.
 
-### c_011 — attributed, single source
-**Predicate:** sustained_injuries
-**Object:** less serious injuries, ambulance to suburban Houston hospital (injury)
-**Temporal:** 2025-11
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Predicate:** sustained_injuries
+- **Object:** less serious injuries, ambulance to suburban Houston hospital (injury)
+- **Temporal:** 2025-11
+- **Sources:** src_001
 
 > A second monk with less serious injuries was taken by ambulance to a hospital in suburban Houston.
 
-### c_012 — attributed, single source
-**Predicate:** medical_prognosis
-**Object:** series of surgeries, broken bone, good prognosis (medical_outcome)
-**Temporal:** 2025-12-30
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Predicate:** medical_prognosis
+- **Object:** series of surgeries, broken bone, good prognosis (medical_outcome)
+- **Temporal:** 2025-12-30
+- **Sources:** src_001
 
 > The seriously injured monk was expected to undergo a series of surgeries to heal a broken bone, but a group spokeswoman said the prognosis for recovery was good.
 
-### c_013 — attributed, single source
-**Predicate:** planned_route
-**Object:** Athens GA; Charlotte, Greensboro, Raleigh NC; Richmond VA; Washington DC (route)
-**Temporal:** 2025-12-30
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Predicate:** planned_route
+- **Object:** Athens GA; Charlotte, Greensboro, Raleigh NC; Richmond VA; Washington DC (route)
+- **Temporal:** 2025-12-30
+- **Sources:** src_001
 
 > The remaining route includes Athens, Georgia; Charlotte, Greensboro and Raleigh, North Carolina; and Richmond, Virginia, before Washington, D.C.
 
-### c_014 — attributed, single source
-**Predicate:** route_scope
-**Object:** 10 (state_count)
-**Temporal:** 2025-12-30
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Predicate:** route_scope
+- **Object:** 10 (state_count)
+- **Temporal:** 2025-12-30
+- **Sources:** src_001
 
 > The group is traveling through 10 states in total.
 
@@ -239,7 +262,3 @@ Buddhism traces its origins to the teachings of Gautama Buddha, believed to have
 **Access date:** 2026-01-01
 **Title:** Monks walking for peace reach Georgia on journey to Washington, DC
 **URL:** https://apnews.com/article/buddhist-monks-peace-texas-washington-16a91db6f9fa1c90f8c87efa907bb6a7
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

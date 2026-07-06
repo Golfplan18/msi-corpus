@@ -17,43 +17,42 @@ primary_themes:
 - government transparency
 - property acquisition
 topic_tags:
-  - "crime, law and justice"
-  - "law enforcement"
-  - politics
-  - "government policy"
+- crime, law and justice
+- government policy
+- construction and property
+- human migration
+- communities
 storyline_nexus:
-  - immigration-enforcement
-geographic_location: United States (multi-state)
+- us-immigration-enforcement
+geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
-  intensity: 0.92
+  intensity: 0.9
 - value: informed_citizenship
-  intensity: 0.88
-- value: human_life_and_dignity
-  intensity: 0.71
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T22:30:00Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:54:40Z'
 source_cluster_id: cluster_ap_2026-02-23_immigrant-detention-warehouses-ice-trump
 gdelt_event_ids: []
-consensus_floor_version: 1.0.0
-publication_mindspec_version: 1.0.0
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 7
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 4
-    reported: 3
     contested: 0
+    reported: 3
+    attributed: 4
+    appears: 0
     confirmed: 0
+    alleged: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 0
-    single_source: 7
     two_independent: 0
+    one_originating_plus_primary_document: 0
+    primary_plus_secondary: 0
+    single_source: 7
+    primary_document: 0
 sources:
   count: 1
   outlets:
@@ -67,43 +66,12 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-04-15-judge-extends-pause-on-maryland-warehouse-immigrant-detention-conversion
-  relation: related
-  strength: 0.8587
-  confidence: medium
-- slug: 2026-04-17-abbott-threatens-200-million-in-funding-cuts-to-texas-cities-over-ice-policies
-  relation: related
-  strength: 0.7253
-  confidence: medium
-- slug: 2026-01-08-officials-withheld-evidence-of-608m-federal-deal-for-alligator-alcatraz-groups-s
-  relation: related
-  strength: 0.7647
-  confidence: medium
-- slug: 2026-01-13-detainee-drops-alligator-alcatraz-lawsuit-agrees-to-deportation-to-chile
-  relation: related
-  strength: 0.7318
-  confidence: medium
-- slug: 2026-01-05-florida-awaits-federal-approval-for-third-immigration-detention-center
-  relation: related
-  strength: 0.7503
-  confidence: medium
-- slug: 2026-01-12-congress-members-blocked-from-minneapolis-ice-facility-after-dhs-reinstates-acce
-  relation: related
-  strength: 0.7208
-  confidence: medium
-- slug: 2026-01-13-trump-threatens-to-halt-federal-payments-to-sanctuary-cities-and-their-states
-  relation: related
-  strength: 0.7101
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
 
-Immigration and Customs Enforcement has purchased warehouses in more than 20 towns across the United States as part of a $45 billion expansion of detention capacity. In many cases, local officials were not notified until after deals were completed. Some warehouse owners have refused to finalize sales after learning of ICE's intended use.
-
-The warehouse acquisitions represent a major expansion of federal detention infrastructure and have sparked significant resistance from mayors, governors, and property owners who say they were excluded from the process. Several property owners have withdrawn from sales following public opposition.
-
-Immigration and Customs Enforcement has begun purchasing warehouses across more than 20 American towns as part of a $45 billion federal expansion of detention capacity. The acquisitions span Arizona, Florida, Georgia, Indiana, Maryland, Michigan, Minnesota, Mississippi, Missouri, New Hampshire, New Jersey, New York, Oklahoma, Pennsylvania, Texas, and Utah. In many cases, local officials have learned of the purchases only after deals closed. Several property owners have refused to complete sales after learning of ICE's intended use.
+## Summary
+**Subtype:** fact
 
 ## Local officials left out of the process
 
@@ -141,70 +109,82 @@ Georgia is slated to house some of the largest facilities. ICE purchased a wareh
 
 In New Jersey, Roxbury announced that ICE had closed on a warehouse purchase despite the township offering tax abatements to stop the sale. The mayor and city council issued a statement saying "Roxbury Township will not passively accept this outcome."
 
-**This article was generated algorithmically by Main Street Independent's News Article Generator framework. See [methodology](/methodology) for the specification. Licensed under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).**
-
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** ICE; U.S. Department of Homeland Security
-**Predicate:** purchasing
-**Object:** 20+ warehouses across the United States (real_property)
-**Temporal:** 2026-02-21
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** ICE; U.S. Department of Homeland Security
+- **Predicate:** purchasing
+- **Object:** 20+ warehouses across the United States (real_property)
+- **Temporal:** 2026-02-21
+- **Sources:** src_001
 
 > ICE has purchased warehouses in more than 20 towns across the United States for detention expansion.
 
-### c_002 — attributed, single source
-**Subject entities:** U.S. Department of Homeland Security
-**Predicate:** spending
-**Object:** $45 billion (monetary_amount)
-**Temporal:** 2026-02-21
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Department of Homeland Security
+- **Predicate:** spending
+- **Object:** $45 billion (monetary_amount)
+- **Temporal:** 2026-02-21
+- **Sources:** src_001
 
 > The Department of Homeland Security is spending $45 billion on detention expansion.
 
-### c_003 — attributed, single source
-**Subject entities:** ICE; Surprise Arizona
-**Predicate:** purchased
-**Object:** $70 million for 418,000 square feet (real_property_transaction)
-**Temporal:** 2026-02-21
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** ICE; Surprise Arizona
+- **Predicate:** purchased
+- **Object:** $70 million for 418,000 square feet (real_property_transaction)
+- **Temporal:** 2026-02-21
+- **Sources:** src_001
 
 > ICE purchased a 418,000-square-foot warehouse in Surprise, Arizona for $70 million.
 
-### c_004 — reported, single source
-**Subject entities:** local officials; ICE
-**Predicate:** were_not_notified
-**Object:** before warehouse purchases (administrative_process)
-**Temporal:** 2026-02-21
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** local officials; ICE
+- **Predicate:** were_not_notified
+- **Object:** before warehouse purchases (administrative_process)
+- **Temporal:** 2026-02-21
+- **Sources:** src_001
 
 > Local officials in many locations were not notified before ICE completed warehouse purchases.
 
-### c_005 — reported, single source
-**Subject entities:** warehouse owners; Woodbury Minnesota; Shakopee Minnesota; ICE
-**Predicate:** withdrew
-**Object:** from facility sales to ICE (commercial_transaction)
-**Temporal:** 2026-02-21
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** warehouse owners; Woodbury Minnesota; Shakopee Minnesota; ICE
+- **Predicate:** withdrew
+- **Object:** from facility sales to ICE (commercial_transaction)
+- **Temporal:** 2026-02-21
+- **Sources:** src_001
 
 > Warehouse owners in Minneapolis suburbs of Woodbury and Shakopee withdrew from ICE deals after public outcry.
 
-### c_006 — attributed, single source
-**Subject entities:** Kelly Ayotte; U.S. Department of Homeland Security
-**Predicate:** disputed
-**Object:** that DHS coordinated with the state (administrative_claim)
-**Temporal:** 2026-02-21
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Kelly Ayotte; U.S. Department of Homeland Security
+- **Predicate:** disputed
+- **Object:** that DHS coordinated with the state (administrative_claim)
+- **Temporal:** 2026-02-21
+- **Sources:** src_001
 
 > Gov. Kelly Ayotte stated that federal claims about coordination were false.
 
-### c_007 — reported, single source
-**Subject entities:** Platform Ventures; Kansas City Missouri; DHS
-**Predicate:** withdrew
-**Object:** from facility sale after weeks of public pressure (commercial_transaction)
-**Temporal:** 2026-02-21
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Platform Ventures; Kansas City Missouri; DHS
+- **Predicate:** withdrew
+- **Object:** from facility sale after weeks of public pressure (commercial_transaction)
+- **Temporal:** 2026-02-21
+- **Sources:** src_001
 
 > A development company in Kansas City announced it would not sell a warehouse to DHS after public pressure.
 
@@ -213,10 +193,5 @@ In New Jersey, Roxbury announced that ICE had closed on a warehouse purchase des
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Heather Hollingsworth
 **Publication date:** 2026-02-21
-**Access date:** 2026-02-21
 **Title:** Some warehouse owners are backing out of deals with ICE
 **URL:** https://apnews.com/article/immigrant-detention-warehouses-ice-trump-a4a71226409cd9fedc9aa5de5ec90654
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

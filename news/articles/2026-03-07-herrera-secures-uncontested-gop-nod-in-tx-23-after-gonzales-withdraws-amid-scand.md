@@ -19,7 +19,7 @@ topic_tags:
   - "government policy"
   - "politics"
 storyline_nexus:
-  - 2026-midterms
+- 2026-midterm-elections
 geographic_location: Texas, United States
 floor_values_engaged:
 - value: informed_citizenship
@@ -100,128 +100,156 @@ The party wants to feel the district is "in the bag and off the board," Steinhau
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Tony Gonzales
-**Predicate:** withdrew_from_race
-**Object:** TX-23 reelection bid (political_action)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Tony Gonzales
+- **Predicate:** withdrew_from_race
+- **Object:** TX-23 reelection bid (political_action)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > Rep. Tony Gonzales announced Thursday night he would not seek reelection in Texas' 23rd congressional district.
 
-### c_002 — attributed, single source
-**Subject entities:** Tony Gonzales
-**Predicate:** admitted_affair
-**Object:** former staff member who died by suicide (personal_conduct)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Tony Gonzales
+- **Predicate:** admitted_affair
+- **Object:** former staff member who died by suicide (personal_conduct)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > Gonzales admitted to an affair with a former staff member who later died by suicide.
 
-### c_003 — attributed, single source
-**Subject entities:** Tony Gonzales
-**Predicate:** urged_to_withdraw
-**Object:** House Republican leadership pressure (political_action)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Tony Gonzales
+- **Predicate:** urged_to_withdraw
+- **Object:** House Republican leadership pressure (political_action)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > House Republican leadership urged Gonzales to end his campaign.
 
-### c_004 — attributed, single source
-**Subject entities:** Tony Gonzales
-**Predicate:** stated_intention
-**Object:** serve current term (political_statement)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Tony Gonzales
+- **Predicate:** stated_intention
+- **Object:** serve current term (political_statement)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > Gonzales said he would serve out his current term.
 
-### c_005 — confirmed, single source
-**Subject entities:** Brendan Herrera
-**Predicate:** is_uncontested_nominee
-**Object:** GOP nomination, TX-23 (electoral_status)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Brendan Herrera
+- **Predicate:** is_uncontested_nominee
+- **Object:** GOP nomination, TX-23 (electoral_status)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > Brendan Herrera, 30, is now uncontested for the Republican nomination in Texas' 23rd congressional district.
 
-### c_006 — attributed, single source
-**Subject entities:** Brendan Herrera
-**Predicate:** self_describes_as
-**Object:** Second Amendment Absolutist, The AK Guy (self_identification)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Brendan Herrera
+- **Predicate:** self_describes_as
+- **Object:** Second Amendment Absolutist, The AK Guy (self_identification)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > Herrera describes himself as a 'Second Amendment Absolutist' and built a following of millions on YouTube posting gun videos under the name 'The AK Guy.'
 
-### c_007 — attributed, single source
-**Subject entities:** Brendan Herrera
-**Predicate:** relocated
-**Object:** Texas from North Carolina, 2020 (geographic_movement)
-**Temporal:** 2020
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Brendan Herrera
+- **Predicate:** relocated
+- **Object:** Texas from North Carolina, 2020 (geographic_movement)
+- **Temporal:** 2020
+- **Sources:** src_001
 
 > Herrera moved to Texas from North Carolina in 2020.
 
-### c_008 — attributed, single source
-**Subject entities:** Brendan Herrera; Tony Gonzales
-**Predicate:** forced_into_runoff
-**Object:** GOP primary runoff, TX-23, March 2026 (electoral_outcome)
-**Temporal:** 2026-03-03
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Brendan Herrera; Tony Gonzales
+- **Predicate:** forced_into_runoff
+- **Object:** GOP primary runoff, TX-23, March 2026 (electoral_outcome)
+- **Temporal:** 2026-03-03
+- **Sources:** src_001
 
 > Herrera lost a close contest to Gonzales two years ago and forced him into a runoff in Tuesday's primary.
 
-### c_009 — attributed, single source
-**Predicate:** geographic_description
-**Object:** 800 miles along border, second-largest district (geographic_fact)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Predicate:** geographic_description
+- **Object:** 800 miles along border, second-largest district (geographic_fact)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > TX-23 stretches 800 miles along the border with Mexico and is the second-largest congressional district in the country.
 
-### c_010 — attributed, single source
-**Subject entities:** Donald Trump
-**Predicate:** carried_district
-**Object:** nearly 15 points, 2024 election (electoral_margin)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** carried_district
+- **Object:** nearly 15 points, 2024 election (electoral_margin)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > President Donald Trump carried TX-23 by nearly 15 points in 2024.
 
-### c_011 — confirmed, single source
-**Subject entities:** Katy Padilla Stout
-**Predicate:** is_democratic_nominee
-**Object:** TX-23 Democratic nomination (electoral_status)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_011
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Katy Padilla Stout
+- **Predicate:** is_democratic_nominee
+- **Object:** TX-23 Democratic nomination (electoral_status)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > The Democratic nominee for TX-23 is Katy Padilla Stout, an attorney and former schoolteacher.
 
-### c_012 — attributed, single source
-**Subject entities:** Brendan Herrera
-**Predicate:** made_statements_in_video
-**Object:** Holocaust-adjacent content in 2022 YouTube video (public_statement)
-**Temporal:** 2022
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Brendan Herrera
+- **Predicate:** made_statements_in_video
+- **Object:** Holocaust-adjacent content in 2022 YouTube video (public_statement)
+- **Temporal:** 2022
+- **Sources:** src_001
 
 > In a 2022 video, Herrera described a German submachine gun as 'the original ghetto blaster,' goose-stepped to German songs, shouted 'Gestapo right there!' while shooting at drinks, and pronounced 'not see' like 'Nazi.' He said he was 'not really a big fan of fascism' and was making jokes about history.
 
-### c_013 — attributed, single source
-**Subject entities:** Donald Trump; Brendan Herrera
-**Predicate:** sent_cease_and_desist
-**Object:** deceptive mailers using Trump image (legal_action)
-**Temporal:** 2026-02
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Brendan Herrera
+- **Predicate:** sent_cease_and_desist
+- **Object:** deceptive mailers using Trump image (legal_action)
+- **Temporal:** 2026-02
+- **Sources:** src_001
 
 > Trump had previously endorsed Gonzales, and a lawyer representing Trump sent Herrera's campaign a cease-and-desist letter accusing it of sending deceptive mailers with Trump's image.
 
-### c_014 — attributed, single source
-**Subject entities:** Brendan Herrera; Tony Gonzales
-**Predicate:** criticized
-**Object:** Gonzales gun safety vote after Uvalde (political_criticism)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Brendan Herrera; Tony Gonzales
+- **Predicate:** criticized
+- **Object:** Gonzales gun safety vote after Uvalde (political_criticism)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > Herrera sharply criticized Gonzales' support for gun safety legislation after the Robb Elementary school shooting in Uvalde, which is in the district.
 
@@ -233,7 +261,3 @@ The party wants to feel the district is "in the bag and off the board," Steinhau
 **Access date:** 2026-03-07
 **Title:** Gun rights 'absolutist' clears path to GOP nod after Gonzales exit
 **URL:** https://apnews.com/article/gonzales-brendan-herrera-gop-primary-texas-democrats-cf5cbf3872ed080ac64934ab12f4dfed
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

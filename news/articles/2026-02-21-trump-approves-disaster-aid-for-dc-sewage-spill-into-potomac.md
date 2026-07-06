@@ -19,43 +19,41 @@ primary_themes:
 - government_accountability
 - federal_disaster_aid
 topic_tags:
-  - politics
-  - "government policy"
-  - "science and technology"
-  - "artificial intelligence"
+- disaster, accident and emergency incident
+- pollution
+- environment
+- government
 storyline_nexus:
-  - us-administration-2026
-geographic_location: Washington, D.C., Maryland, Virginia, United States
+- trump-climate-energy-rollbacks
+geographic_location: United States
 floor_values_engaged:
-- value: human_life_and_dignity
-  intensity: 0.7
 - value: accountability_of_power
+  intensity: 0.9
+- value: human_life_and_dignity
   intensity: 0.6
-- value: informed_citizenship
-  intensity: 0.7
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:59:42Z'
 source_cluster_id: cluster_ap_2026-02-23_potomac-river-sewage-leak-trump-disaster
 gdelt_event_ids: []
-consensus_floor_version: '1.0'
-publication_mindspec_version: '1.0'
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 15
   hedges:
-    appears: 0
     alleged: 0
     attributed: 5
+    confirmed: 7
     reported: 3
     contested: 0
-    confirmed: 7
+    appears: 0
   corroboration:
-    primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
-    primary_document: 15
     single_source: 0
+    primary_plus_secondary: 0
     two_independent: 0
+    primary_document: 15
 sources:
   count: 1
   outlets:
@@ -69,17 +67,19 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-05-17-toxic-tijuana-river-sewage-sickens-thousands-in-california
-  relation: related
-  strength: 0.7726
-  confidence: medium
-- slug: 2026-01-05-pipeline-safety-agency-issues-record-9-6m-fine-for-2023-gulf-oil-spill
-  relation: related
-  strength: 0.7383
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Trump approves DC disaster aid to help with sewage spill into Potomac River
+- President Trump approved emergency federal assistance to Washington, D.C., on February 21, 2026.
+- The Potomac Interceptor pipeline, a 72-inch underground pipe, ruptured on January 19, 2026.
+- The rupture released 250 million gallons of raw sewage into the Potomac River in the first five days.
+- D.C. Mayor Muriel Bowser requested federal help and declared an emergency.
 
 President Trump approved emergency federal assistance to Washington, D.C., on Saturday to help address a sewage leak that dumped 250 million gallons of raw sewage into the Potomac River. The Federal Emergency Management Agency announced Trump's approval after D.C. Mayor Muriel Bowser requested federal help and declared an emergency following the Jan. 19 rupture of a 72-inch underground pipeline known as the Potomac Interceptor.
 
@@ -97,142 +97,170 @@ Trump's approval of the disaster relief came after he criticized the handling of
 
 The EPA had already begun repair and assessment efforts when Trump announced the disaster relief.
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under sources. Specification: /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Donald Trump; Federal Emergency Management Agency
-**Predicate:** approved
-**Object:** emergency federal assistance (disaster_relief)
-**Temporal:** 2026-02-21
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Donald Trump; Federal Emergency Management Agency
+- **Predicate:** approved
+- **Object:** emergency federal assistance (disaster_relief)
+- **Temporal:** 2026-02-21
+- **Sources:** src_001
 
 > President Trump approved emergency federal assistance to Washington, D.C., on February 21, 2026.
 
-### c_002 — confirmed, primary document
-**Subject entities:** Potomac Interceptor
-**Predicate:** ruptured
-**Object:** 2026-01-19 (temporal_event)
-**Temporal:** 2026-01-19
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Potomac Interceptor
+- **Predicate:** ruptured
+- **Object:** 2026-01-19 (temporal_event)
+- **Temporal:** 2026-01-19
+- **Sources:** src_001
 
 > The Potomac Interceptor pipeline, a 72-inch underground pipe, ruptured on January 19, 2026.
 
-### c_003 — confirmed, primary document
-**Subject entities:** Potomac River
-**Predicate:** received_sewage_discharge
-**Object:** 250 million gallons of raw sewage (environmental_impact)
-**Temporal:** 2026-01-19
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Potomac River
+- **Predicate:** received_sewage_discharge
+- **Object:** 250 million gallons of raw sewage (environmental_impact)
+- **Temporal:** 2026-01-19
+- **Sources:** src_001
 
 > The rupture released 250 million gallons of raw sewage into the Potomac River in the first five days.
 
-### c_004 — confirmed, primary document
-**Subject entities:** Muriel Bowser
-**Predicate:** requested_and_declared
-**Object:** federal help and emergency declaration (government_action)
-**Temporal:** 2026-02-19
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Muriel Bowser
+- **Predicate:** requested_and_declared
+- **Object:** federal help and emergency declaration (government_action)
+- **Temporal:** 2026-02-19
+- **Sources:** src_001
 
 > D.C. Mayor Muriel Bowser requested federal help and declared an emergency.
 
-### c_005 — reported, primary document
-**Subject entities:** Potomac Interceptor
-**Predicate:** status
-**Object:** largely under control (status_report)
-**Temporal:** 2026-02-21
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Potomac Interceptor
+- **Predicate:** status
+- **Object:** largely under control (status_report)
+- **Temporal:** 2026-02-21
+- **Sources:** src_001
 
 > The sewage leak is now largely under control.
 
-### c_006 — reported, primary document
-**Subject entities:** Potomac Interceptor
-**Predicate:** repair_timeline
-**Object:** months (temporal_estimate)
-**Temporal:** 2026-02-21
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Potomac Interceptor
+- **Predicate:** repair_timeline
+- **Object:** months (temporal_estimate)
+- **Temporal:** 2026-02-21
+- **Sources:** src_001
 
 > Repairs to the Potomac Interceptor pipeline could take months.
 
-### c_007 — confirmed, primary document
-**Subject entities:** DC Water; Environmental Protection Agency
-**Predicate:** engaged_in_response
-**Object:** pipeline repair and environmental assessment (emergency_response)
-**Temporal:** 2026-01-19
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** DC Water; Environmental Protection Agency
+- **Predicate:** engaged_in_response
+- **Object:** pipeline repair and environmental assessment (emergency_response)
+- **Temporal:** 2026-01-19
+- **Sources:** src_001
 
 > DC Water and the Environmental Protection Agency have been working to repair the pipeline and assess its environmental impact.
 
-### c_008 — attributed, primary document
-**Subject entities:** Washington DC
-**Predicate:** drinking_water_status
-**Object:** safe (safety_assertion)
-**Temporal:** 2026-02-21
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Washington DC
+- **Predicate:** drinking_water_status
+- **Object:** safe (safety_assertion)
+- **Temporal:** 2026-02-21
+- **Sources:** src_001
 
 > The area's drinking water remains safe.
 
-### c_009 — reported, primary document
-**Subject entities:** Potomac River
-**Predicate:** recreation_guidance
-**Object:** avoid direct contact (public_health_guidance)
-**Temporal:** 2026-02-21
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Potomac River
+- **Predicate:** recreation_guidance
+- **Object:** avoid direct contact (public_health_guidance)
+- **Temporal:** 2026-02-21
+- **Sources:** src_001
 
 > People using the Potomac River for recreation are being cautioned not to have direct contact with the water.
 
-### c_010 — attributed, primary document
-**Subject entities:** Donald Trump
-**Predicate:** criticized
-**Object:** handling of the sewage spill (criticism)
-**Temporal:** 2026-02-21
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Donald Trump
+- **Predicate:** criticized
+- **Object:** handling of the sewage spill (criticism)
+- **Temporal:** 2026-02-21
+- **Sources:** src_001
 
 > Trump criticized the handling of the sewage spill.
 
-### c_011 — attributed, primary document
-**Subject entities:** Donald Trump; Wes Moore
-**Predicate:** blamed
-**Object:** local Democratic leaders (attribution_of_responsibility)
-**Temporal:** 2026-02-21
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Donald Trump; Wes Moore
+- **Predicate:** blamed
+- **Object:** local Democratic leaders (attribution_of_responsibility)
+- **Temporal:** 2026-02-21
+- **Sources:** src_001
 
 > Trump blamed local Democratic leaders and focused his criticism especially on Maryland Governor Wes Moore.
 
-### c_012 — confirmed, primary document
-**Subject entities:** Donald Trump
-**Predicate:** said
-**Object:** quote about cleaning up Maryland and Virginia mess (direct_quotation)
-**Temporal:** 2026-02-21
-**Source IDs:** src_001
+### c_012
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Donald Trump
+- **Predicate:** said
+- **Object:** quote about cleaning up Maryland and Virginia mess (direct_quotation)
+- **Temporal:** 2026-02-21
+- **Sources:** src_001
 
 > At a White House dinner for governors, Trump said: "We have to clean up some mess that Maryland and Virginia have left us. We're going to be cleaning it up. It's unbelievable what they can do with incompetence."
 
-### c_013 — attributed, primary document
-**Subject entities:** Donald Trump
-**Predicate:** said
-**Object:** local officials did not request emergency assistance (assertion)
-**Temporal:** 2026-02-21
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Donald Trump
+- **Predicate:** said
+- **Object:** local officials did not request emergency assistance (assertion)
+- **Temporal:** 2026-02-21
+- **Sources:** src_001
 
 > Trump said in social media posts that local officials had not requested emergency assistance.
 
-### c_014 — attributed, primary document
-**Subject entities:** Donald Trump
-**Predicate:** stated_intention
-**Object:** to step in and provide assistance (intention)
-**Temporal:** 2026-02-21
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Donald Trump
+- **Predicate:** stated_intention
+- **Object:** to step in and provide assistance (intention)
+- **Temporal:** 2026-02-21
+- **Sources:** src_001
 
 > Trump said he intended to step in to provide federal assistance.
 
-### c_015 — confirmed, primary document
-**Subject entities:** Environmental Protection Agency
-**Predicate:** engaged_in_response
-**Object:** pipeline repair and environmental assessment (emergency_response)
-**Temporal:** 2026-02-21
-**Source IDs:** src_001
+### c_015
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Environmental Protection Agency
+- **Predicate:** engaged_in_response
+- **Object:** pipeline repair and environmental assessment (emergency_response)
+- **Temporal:** 2026-02-21
+- **Sources:** src_001
 
 > The Environmental Protection Agency was already involved in the repair effort and environmental assessment of the leak before Trump approved the disaster relief.
 
@@ -240,10 +268,5 @@ This article was generated algorithmically by Main Street Independent's News Art
 
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Publication date:** 2026-02-21
-**Access date:** 2026-05-18
 **Title:** Trump approves DC disaster aid to help with sewage spill into Potomac River
 **URL:** https://apnews.com/article/potomac-river-sewage-leak-trump-disaster-assistance-50788c5e110214a5d65a48642e565c64
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

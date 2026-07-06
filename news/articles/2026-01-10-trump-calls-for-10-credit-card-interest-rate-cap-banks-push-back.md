@@ -24,47 +24,44 @@ primary_themes:
 - interest rate caps
 - economic policy
 topic_tags:
-  - politics
-  - "human interest"
-  - society
-  - "government policy"
-  - "economy, business and finance"
-  - "human migration"
+- banking
+- economy
+- economy, business and finance
+- government policy
+- financial and business service
 storyline_nexus:
-  - trump-tariff-policy
-  - ai-regulation
-  - humanoid-robotics-industry
+- trump-tariff-wars
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship
   intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.8
-- value: human_life_and_dignity
   intensity: 0.6
-framework_version: 1.1.0
-generation_timestamp: '2026-05-16T00:00:00Z'
+- value: equality_fairness
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:08:30Z'
 source_cluster_id: cluster_ap_2026-01-10_trump-credit-cards-interest-rates-saving
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 18
   hedges:
-    appears: 0
-    alleged: 0
     attributed: 7
-    reported: 5
+    appears: 0
     contested: 0
     confirmed: 6
+    alleged: 0
+    reported: 5
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 1
-    single_source: 17
+    one_originating_plus_primary_document: 0
     two_independent: 0
+    primary_plus_secondary: 0
+    single_source: 17
 sources:
   count: 1
   outlets:
@@ -82,23 +79,18 @@ image:
   url: /articles/2026-01-10-trump-calls-for-10-credit-card-interest-rate-cap-banks-push-back.png
   alt: 'Illustration accompanying article: Trump calls for 10% credit card interest rate cap; banks push back'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-07-trump-calls-for-ban-on-large-investors-buying-homes-citing-affordability-concern
-  relation: related
-  strength: 0.727
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
 
-The proposal sets up a potential confrontation between Trump and Wall Street at a moment when Americans are carrying more than $1.23 trillion in credit card debt, according to New York Federal Reserve data for the third quarter of 2025, and are paying average rates between 19.65% and 21.5%, according to the Federal Reserve and industry tracking sources.
+## Summary
 
-President Donald Trump on Friday night called for a one-year, 10% cap on credit card interest rates, reviving a campaign pledge that drew immediate opposition from banks and credit card companies that donated heavily to his 2024 campaign.
+**Subtype:** fact
 
-"We will no longer let the American Public be ripped off by Credit Card Companies that are charging Interest Rates of 20 to 30%," Trump wrote on his Truth Social platform.
-
-Trump did not specify whether the cap would take effect through executive action or legislation, and the White House did not respond to questions on the matter. He said he hoped it would be in place by Jan. 20, 2027, one year after he took office.
-
-Sen. Roger Marshall, R-Kan., said he had spoken with the president Friday night and would advance legislation with Trump's "full support."
+- Trump pushes a 1-year, 10% cap on credit card interest rates and banks balk
+- Trump pushes a 1-year, 10% cap on credit card interest rates and banks balk
+- “We will no longer let the American Public be ripped off by Credit Card Companies that are charging Interest Rates of 20 to 30%,” Trump wrote on his Truth Social platform.
+- The Republican administration has proved particularly friendly until now to the credit card industry.
 
 ## Industry Opposition
 
@@ -142,163 +134,199 @@ The Republican administration has been favorable to the credit card industry sin
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Donald Trump
-**Predicate:** called_for
-**Object:** 10% credit card interest rate cap, one-year duration (policy_proposal)
-**Temporal:** 2026-01-10
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Donald Trump
+- **Predicate:** called_for
+- **Object:** 10% credit card interest rate cap, one-year duration (policy_proposal)
+- **Temporal:** 2026-01-10
+- **Sources:** src_001
 
 > President Donald Trump posted on Truth Social calling for a one-year cap on credit card interest rates at 10%.
 
-### c_002 — attributed, single source
-**Subject entities:** Donald Trump
-**Predicate:** stated
-**Object:** cap in place by January 20, 2027 (stated_target_date)
-**Temporal:** 2026-01-10
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** stated
+- **Object:** cap in place by January 20, 2027 (stated_target_date)
+- **Temporal:** 2026-01-10
+- **Sources:** src_001
 
 > Trump said he hoped the cap would be in place by Jan. 20, 2027, one year after he took office.
 
-### c_003 — reported, single source
-**Subject entities:** Donald Trump
-**Predicate:** omitted
-**Object:** mechanism for cap — executive action or legislation (policy_mechanism)
-**Temporal:** 2026-01-10
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** omitted
+- **Object:** mechanism for cap — executive action or legislation (policy_mechanism)
+- **Temporal:** 2026-01-10
+- **Sources:** src_001
 
 > Trump did not specify whether the cap would take effect through executive action or legislation.
 
-### c_004 — attributed, single source
-**Subject entities:** Roger Marshall
-**Predicate:** said
-**Object:** would work on bill with Trump's full support (statement)
-**Temporal:** 2026-01-10
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Roger Marshall
+- **Predicate:** said
+- **Object:** would work on bill with Trump's full support (statement)
+- **Temporal:** 2026-01-10
+- **Sources:** src_001
 
 > Sen. Roger Marshall, R-Kan., said he spoke with Trump on Friday night and would advance legislation with Trump's full support.
 
-### c_005 — attributed, single source
-**Subject entities:** American Bankers Association
-**Predicate:** opposed
-**Object:** 10% credit card interest rate cap (policy_proposal)
-**Temporal:** 2026-01-10
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** American Bankers Association
+- **Predicate:** opposed
+- **Object:** 10% credit card interest rate cap (policy_proposal)
+- **Temporal:** 2026-01-10
+- **Sources:** src_001
 
 > The American Bankers Association and allied groups issued a joint statement opposing the proposal, saying it would drive consumers toward less regulated alternatives.
 
-### c_006 — attributed, single source
-**Subject entities:** U.S. Consumer Financial Protection Bureau
-**Predicate:** reported
-**Object:** 195 million credit card holders; $160 billion in interest charges in 2024 (statistic)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Consumer Financial Protection Bureau
+- **Predicate:** reported
+- **Object:** 195 million credit card holders; $160 billion in interest charges in 2024 (statistic)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > About 195 million Americans had credit cards in 2024 and were assessed $160 billion in interest charges, according to the Consumer Financial Protection Bureau.
 
-### c_007 — attributed, single source
-**Subject entities:** Federal Reserve Bank of New York
-**Predicate:** reported
-**Object:** $1.23 trillion in credit card debt, Q3 2025 (statistic)
-**Temporal:** 2025-Q3
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Federal Reserve Bank of New York
+- **Predicate:** reported
+- **Object:** $1.23 trillion in credit card debt, Q3 2025 (statistic)
+- **Temporal:** 2025-Q3
+- **Sources:** src_001
 
 > Americans carried $1.23 trillion in credit card debt in the third quarter of 2025, according to the New York Federal Reserve.
 
-### c_008 — attributed, single source
-**Subject entities:** Federal Reserve
-**Predicate:** reported
-**Object:** 19.65% to 21.5% average credit card interest rate (statistic)
-**Temporal:** 2026-01-10
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Federal Reserve
+- **Predicate:** reported
+- **Object:** 19.65% to 21.5% average credit card interest rate (statistic)
+- **Temporal:** 2026-01-10
+- **Sources:** src_001
 
 > Average credit card interest rates ranged from 19.65% to 21.5%, according to the Federal Reserve and industry tracking sources.
 
-### c_009 — reported, single source
-**Subject entities:** Brian Shearer; Vanderbilt Policy Accelerator
-**Predicate:** found
-**Object:** $100 billion annual savings if rates capped at 10% (research_finding)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Brian Shearer; Vanderbilt Policy Accelerator
+- **Predicate:** found
+- **Object:** $100 billion annual savings if rates capped at 10% (research_finding)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Researchers found that Americans would save roughly $100 billion annually if credit card rates were capped at 10%.
 
-### c_010 — attributed, single source
-**Subject entities:** Brian Shearer
-**Predicate:** said
-**Object:** cap would reduce lending to borrowers with credit scores below 600 (research_finding)
-**Temporal:** 2026-01-10
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Brian Shearer
+- **Predicate:** said
+- **Object:** cap would reduce lending to borrowers with credit scores below 600 (research_finding)
+- **Temporal:** 2026-01-10
+- **Sources:** src_001
 
 > Brian Shearer said a 10% cap would likely result in banks lending less to borrowers with credit scores below 600.
 
-### c_011 — confirmed, single source
-**Subject entities:** Bernie Sanders; Josh Hawley
-**Predicate:** proposed
-**Object:** 10% credit card rate cap for five years (legislation)
-**Temporal:** 2025-02
-**Source IDs:** src_001
+### c_011
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Bernie Sanders; Josh Hawley
+- **Predicate:** proposed
+- **Object:** 10% credit card rate cap for five years (legislation)
+- **Temporal:** 2025-02
+- **Sources:** src_001
 
 > Sens. Bernie Sanders and Josh Hawley released a plan in February to immediately cap credit card interest rates at 10% for five years.
 
-### c_012 — confirmed, single source
-**Subject entities:** Alexandria Ocasio-Cortez; Anna Paulina Luna
-**Predicate:** proposed
-**Object:** legislation capping credit card interest rates (legislation)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_012
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Alexandria Ocasio-Cortez; Anna Paulina Luna
+- **Predicate:** proposed
+- **Object:** legislation capping credit card interest rates (legislation)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Reps. Alexandria Ocasio-Cortez and Anna Paulina Luna have proposed similar legislation capping credit card interest rates.
 
-### c_013 — confirmed, single source
-**Subject entities:** Military Lending Act
-**Predicate:** caps
-**Object:** 36% interest rate for active-duty service members (regulation)
-**Temporal:** 2026-01-10
-**Source IDs:** src_001
+### c_013
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Military Lending Act
+- **Predicate:** caps
+- **Object:** 36% interest rate for active-duty service members (regulation)
+- **Temporal:** 2026-01-10
+- **Sources:** src_001
 
 > The Military Lending Act caps interest rates at 36% for active-duty service members on any financial product.
 
-### c_014 — confirmed, single source
-**Predicate:** caps
-**Object:** 18% interest rate on credit union credit cards (regulation)
-**Temporal:** 2026-01-10
-**Source IDs:** src_001
+### c_014
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Predicate:** caps
+- **Object:** 18% interest rate on credit union credit cards (regulation)
+- **Temporal:** 2026-01-10
+- **Sources:** src_001
 
 > The national regulator for credit unions caps interest rates on credit union credit cards at 18%.
 
-### c_015 — confirmed, single source
-**Subject entities:** Capital One Financial Corp.; Discover Financial Services
-**Predicate:** merged
-**Object:** Capital One-Discover merger; nation's largest credit card company (corporate_event)
-**Temporal:** 2025-01
-**Source IDs:** src_001
+### c_015
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Capital One Financial Corp.; Discover Financial Services
+- **Predicate:** merged
+- **Object:** Capital One-Discover merger; nation's largest credit card company (corporate_event)
+- **Temporal:** 2025-01
+- **Sources:** src_001
 
 > Capital One finalized its acquisition of Discover Financial in early 2025, creating the nation's largest credit card company.
 
-### c_016 — reported, single source
-**Subject entities:** U.S. Consumer Financial Protection Bureau
-**Predicate:** reported_as
-**Object:** largely nonfunctional since Trump took office (agency_status)
-**Temporal:** 2026-01-10
-**Source IDs:** src_001
+### c_016
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Consumer Financial Protection Bureau
+- **Predicate:** reported_as
+- **Object:** largely nonfunctional since Trump took office (agency_status)
+- **Temporal:** 2026-01-10
+- **Sources:** src_001
 
 > The Consumer Financial Protection Bureau has been largely nonfunctional since Trump took office.
 
-### c_017 — reported, single source
-**Subject entities:** Arkansas
-**Predicate:** has
-**Object:** 17% interest rate cap; evidence of reduced credit access for lower-income borrowers (regulatory_example)
-**Temporal:** 2026-01-10
-**Source IDs:** src_001
+### c_017
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Arkansas
+- **Predicate:** has
+- **Object:** 17% interest rate cap; evidence of reduced credit access for lower-income borrowers (regulatory_example)
+- **Temporal:** 2026-01-10
+- **Sources:** src_001
 
 > Arkansas has a strictly enforced interest rate cap of 17%, and evidence points to the poor and less creditworthy being cut out of consumer credit markets in the state.
 
-### c_018 — reported, single source
-**Predicate:** was
-**Object:** approximately 12% average credit card interest rate circa 2015 (statistic)
-**Temporal:** 2015
-**Source IDs:** src_001
+### c_018
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Predicate:** was
+- **Object:** approximately 12% average credit card interest rate circa 2015 (statistic)
+- **Temporal:** 2015
+- **Sources:** src_001
 
 > The average credit card interest rate was roughly 12% about a decade ago, compared to 19.65%–21.5% today.
 
@@ -307,10 +335,5 @@ The Republican administration has been favorable to the credit card industry sin
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Ken Sweet
 **Publication date:** 2026-01-10
-**Access date:** 2026-01-10
 **Title:** Trump pushes a 1-year, 10% cap on credit card interest rates. Banks balk
 **URL:** https://apnews.com/article/trump-credit-cards-interest-rates-savings-banks-dba221f122789427c1c625ba873c9b71
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

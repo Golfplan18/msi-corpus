@@ -202,7 +202,3 @@ Museveni sent his army to South Sudan on multiple occasions during the country's
 **Access date:** 2026-03-06
 **Title:** Uganda and South Sudan airstrikes killed civilians, UN report reveals
 **URL:** https://apnews.com/article/south-sudan-fighting-uganda-06b0a8c13d1c680976c09bd2ea7ac279
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

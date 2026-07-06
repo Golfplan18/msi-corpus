@@ -24,7 +24,8 @@ topic_tags:
   - "human migration"
   - "international relations"
   - politics
-storyline_nexus: []
+storyline_nexus:
+- syria-post-conflict-integration
 geographic_location: Syria
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -110,8 +111,6 @@ A Syrian government official, speaking on condition of anonymity, explained that
 The repatriation from al-Hol does not represent the sole movement of IS-affiliated populations in Syrian custody. Syrian authorities turned back a group of 34 Australian women and children on Monday after they departed Roj camp, another detention facility in northeastern Syria that houses families connected to IS. Australian authorities subsequently stated they would not accept repatriation of the families.
 
 The U.S. military has separately transported thousands of IS militants held in Syrian detention facilities to Iraq, where they face prosecution in Iraqi courts. That process has continued alongside the Syrian government's efforts to manage the broader population of IS-affiliated detainees and family members held within Syria's borders.
-
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
 
 ## Atomic claims
 
@@ -213,7 +212,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-05-18
 **Title:** Syria's camp that held Islamic State families nearly empty
 **URL:** https://apnews.com/article/syria-alhol-camp-islamic-state-91ec3d28bafa8d2942f0b26b9b278fa4
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

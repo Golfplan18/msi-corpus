@@ -22,42 +22,44 @@ primary_themes:
 - Middle East conflict
 - conflict zone children
 topic_tags:
-  - "conflict, war and peace"
-  - health
-  - "mental health"
-  - "arts, culture, entertainment and media"
-  - "arts and entertainment"
+- armed conflict
+- mental health
+- family
+- education
+- conflict, war and peace
 storyline_nexus:
-  - iran-war
-geographic_location: United States; Lebanon; Ukraine
+- gaza-israel-war
+geographic_location: United States
 floor_values_engaged:
+- value: truthfulness
+  intensity: 0.9
 - value: human_life_and_dignity
-  intensity: 0.85
+  intensity: 0.6
 - value: informed_citizenship
-  intensity: 0.7
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:46:50Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T01:02:36Z'
 source_cluster_id: cluster_ap_2026-03-05_war-trauma-emotional-wellbeing-children-
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 11
   hedges:
+    confirmed: 0
+    contested: 0
+    attributed: 10
     appears: 0
     alleged: 0
-    attributed: 10
     reported: 1
-    contested: 0
-    confirmed: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 0
-    single_source: 11
     two_independent: 0
+    primary_document: 0
+    one_originating_plus_primary_document: 0
+    primary_plus_secondary: 0
+    single_source: 11
 sources:
   count: 1
   outlets:
@@ -74,6 +76,16 @@ figures_aggregate:
 cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- How to talk about war and conflict with kids
+- Exposure to war, even if indirect, can affect how children think, feel and behave, according to mental health experts.
+- Rebecca Smith, global head of child protection at Save the Children, said ignoring or avoiding the topic of conflict can lead to children feeling lost, alone and scared.
+- The National Child Traumatic Stress Network says adults sharing their own feelings with children can be an opportunity to convey personal beliefs and values about how to treat others.
+- Child psychologist Nataliia Sosnovenko, who works with Voices of Children in Ukraine, said adults must respect a child's ability to refuse communication.
 
 Mental health experts and child psychologists are urging parents to have open, age-appropriate conversations with children about war as fighting involving the United States, Israel, Iran and its proxies continues to generate distressing images and news coverage, according to guidance compiled by Save the Children, the American Psychological Association and the National Child Traumatic Stress Network. Even indirect exposure to conflict can affect how children think, feel and behave, specialists say.
 
@@ -119,102 +131,124 @@ Sosnovenko noted that children living in conflict zones face distinct challenges
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** children; war exposure
-**Predicate:** affects
-**Object:** how kids think, feel and behave (behavioral_impact)
-**Temporal:** 2026-03-04
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** children; war exposure
+- **Predicate:** affects
+- **Object:** how kids think, feel and behave (behavioral_impact)
+- **Temporal:** 2026-03-04
+- **Sources:** src_001
 
 > Exposure to war, even if indirect, can affect how children think, feel and behave, according to mental health experts.
 
-### c_002 — attributed, single source
-**Subject entities:** Rebecca Smith; Save the Children
-**Predicate:** said
-**Object:** ignoring conflict topic harms children emotionally (expert_statement)
-**Temporal:** 2026-03-04
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Rebecca Smith; Save the Children
+- **Predicate:** said
+- **Object:** ignoring conflict topic harms children emotionally (expert_statement)
+- **Temporal:** 2026-03-04
+- **Sources:** src_001
 
 > Rebecca Smith, global head of child protection at Save the Children, said ignoring or avoiding the topic of conflict can lead to children feeling lost, alone and scared.
 
-### c_003 — attributed, single source
-**Subject entities:** National Child Traumatic Stress Network
-**Predicate:** advises
-**Object:** adults sharing feelings with children conveys values (guidance_statement)
-**Temporal:** 2026-03-04
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** National Child Traumatic Stress Network
+- **Predicate:** advises
+- **Object:** adults sharing feelings with children conveys values (guidance_statement)
+- **Temporal:** 2026-03-04
+- **Sources:** src_001
 
 > The National Child Traumatic Stress Network says adults sharing their own feelings with children can be an opportunity to convey personal beliefs and values about how to treat others.
 
-### c_004 — attributed, single source
-**Subject entities:** Nataliia Sosnovenko; Voices of Children
-**Predicate:** said
-**Object:** children's right to refuse communication must be respected (expert_statement)
-**Temporal:** 2026-03-04
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Nataliia Sosnovenko; Voices of Children
+- **Predicate:** said
+- **Object:** children's right to refuse communication must be respected (expert_statement)
+- **Temporal:** 2026-03-04
+- **Sources:** src_001
 
 > Child psychologist Nataliia Sosnovenko, who works with Voices of Children in Ukraine, said adults must respect a child's ability to refuse communication.
 
-### c_005 — attributed, single source
-**Subject entities:** American Psychological Association
-**Predicate:** recommends
-**Object:** age-appropriate information without excessive detail (guidance_statement)
-**Temporal:** 2026-03-04
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** American Psychological Association
+- **Predicate:** recommends
+- **Object:** age-appropriate information without excessive detail (guidance_statement)
+- **Temporal:** 2026-03-04
+- **Sources:** src_001
 
 > The American Psychological Association recommends giving children basic, age-appropriate information about war and conflict and addressing upsetting images or headlines without providing excessive detail.
 
-### c_006 — reported, single source
-**Subject entities:** children; United States
-**Predicate:** may_require
-**Object:** additional reassurance of safety (expert_guidance)
-**Temporal:** 2026-03-04
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** children; United States
+- **Predicate:** may_require
+- **Object:** additional reassurance of safety (expert_guidance)
+- **Temporal:** 2026-03-04
+- **Sources:** src_001
 
 > For children in the United States, the ongoing Middle East conflict can seem much closer than it is if they frequently see images on television or social media, meaning they may need additional reassurance they are safe.
 
-### c_007 — attributed, single source
-**Subject entities:** UNICEF
-**Predicate:** says
-**Object:** adults need not have all answers (guidance_statement)
-**Temporal:** 2026-03-04
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** UNICEF
+- **Predicate:** says
+- **Object:** adults need not have all answers (guidance_statement)
+- **Temporal:** 2026-03-04
+- **Sources:** src_001
 
 > UNICEF says it is acceptable for adults to not have all the answers when speaking with children about conflict.
 
-### c_008 — attributed, single source
-**Subject entities:** Nora Ingdal; Save the Children; Lebanon
-**Predicate:** described
-**Object:** displaced child questioning conflict and displacement (field_account)
-**Temporal:** 2026-03-04
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Nora Ingdal; Save the Children; Lebanon
+- **Predicate:** described
+- **Object:** displaced child questioning conflict and displacement (field_account)
+- **Temporal:** 2026-03-04
+- **Sources:** src_001
 
 > Nora Ingdal, Save the Children's Lebanon Country Director, recounted a displaced child in Lebanon asking her mother why fighting was happening and when they could go home.
 
-### c_009 — attributed, single source
-**Subject entities:** National Child Traumatic Stress Network
-**Predicate:** advises
-**Object:** younger children should have less news exposure (guidance_statement)
-**Temporal:** 2026-03-04
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** National Child Traumatic Stress Network
+- **Predicate:** advises
+- **Object:** younger children should have less news exposure (guidance_statement)
+- **Temporal:** 2026-03-04
+- **Sources:** src_001
 
 > The National Child Traumatic Stress Network advises that the younger the child, the less exposure to news coverage of conflict they should have.
 
-### c_010 — attributed, single source
-**Subject entities:** Save the Children
-**Predicate:** recommends
-**Object:** caregivers model responsible digital behavior (guidance_statement)
-**Temporal:** 2026-03-04
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Save the Children
+- **Predicate:** recommends
+- **Object:** caregivers model responsible digital behavior (guidance_statement)
+- **Temporal:** 2026-03-04
+- **Sources:** src_001
 
 > Save the Children says caregivers can model responsible digital behavior, encourage children not to spread harmful or graphic information and remind them to think twice before sharing potentially inaccurate or emotionally triggering content.
 
-### c_011 — attributed, single source
-**Subject entities:** Nataliia Sosnovenko; Voices of Children
-**Predicate:** said
-**Object:** children in conflict zones may need professional support (expert_statement)
-**Temporal:** 2026-03-04
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Nataliia Sosnovenko; Voices of Children
+- **Predicate:** said
+- **Object:** children in conflict zones may need professional support (expert_statement)
+- **Temporal:** 2026-03-04
+- **Sources:** src_001
 
 > Sosnovenko said some children in conflict zones do not know a time before war and cannot disconnect from what is happening around them, and that professional psychological help may be necessary.
 
@@ -223,10 +257,5 @@ Sosnovenko noted that children living in conflict zones face distinct challenges
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Cheyanne Mumphrey
 **Publication date:** 2026-03-04
-**Access date:** 2026-03-04
 **Title:** How to talk about war and conflict with kids
 **URL:** https://apnews.com/article/war-trauma-emotional-wellbeing-children-9ad3f9d4df06ab225d4f10e9f50c8cfd
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

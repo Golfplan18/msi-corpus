@@ -20,7 +20,7 @@ topic_tags:
   - "human interest"
   - people
 storyline_nexus:
-  - mexico-cartel-violence
+- mexico-cartel-violence
 geographic_location: Mexico (primarily Jalisco, Michoacán, Puerto Vallarta)
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -110,8 +110,6 @@ The White House confirmed that the United States provided intelligence support t
 The Trump administration has repeatedly pressed Mexico for results against fentanilo trafficking, threatening additional tariffs or unilateral military action if the government did not show progress. The killing of El Mencho, described as one of the world's largest fentanilo suppliers, was welcomed in Washington.
 
 Security Secretary Omar García Harfuch said the cabinet was closely monitoring signs of reorganization within the cartel and tracking several commanders. The cartel's future remained uncertain—whether it would fragment, escalate violence further, or be weakened by other criminal groups seeking to exploit the blow to its leadership.
-
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
 
 ## Atomic claims
 
@@ -276,7 +274,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-05-18
 **Title:** Fuerzas de seguridad mexicanas aún combaten la violencia desatada tras la muerte del líder del CJNG
 **URL:** https://apnews.com/article/mexico-jalisco-mencho-muerte-violencia-narcos-2f45c64a7a5c80788884ee7d12248159
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

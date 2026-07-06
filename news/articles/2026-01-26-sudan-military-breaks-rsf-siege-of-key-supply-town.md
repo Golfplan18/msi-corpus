@@ -91,8 +91,6 @@ Dilling's strategic value lies in its control of major supply lines through Kord
 
 Dilling has experienced severe hunger throughout the conflict, but the Integrated Food Security Phase Classification did not declare famine there in its November report, citing insufficient data. Restoring a supply route to the town could ease shortages as humanitarian needs remain critical across Sudan.
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
 ### c_001 — attributed, single source
@@ -191,7 +189,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-05-18
 **Title:** Sudan's military says it breaks the paramilitary RSF's siege of a key town
 **URL:** https://apnews.com/article/sudan-war-military-rsf-siege-fbaf6782eefc377f8aadb121fe5534ad
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

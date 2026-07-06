@@ -22,9 +22,7 @@ topic_tags:
   - "political dissent"
   - "science and technology"
 storyline_nexus:
-  - us-administration-2026
-  - trump-tariff-policy
-  - us-china-relations
+- trump-tariff-wars
 geographic_location: Canada, India, Australia, Japan
 floor_values_engaged:
 - value: accountability_of_power
@@ -114,10 +112,6 @@ Last month at the World Economic Forum in Davos, Carney directly addressed the g
 The India portion of the tour arrives amid broader concerns about Indian government conduct abroad. In 2023, U.S. prosecutors said an Indian government official directed a failed plot to assassinate a Sikh separatist leader in New York. Earlier this month, a man from India admitted he conspired to hire a hitman to assassinate the same Sikh separatist leader.
 
 Canada's government is moving to advance a trade deal with India despite the diplomatic tensions, signaling that economic diversification takes priority in the near term over unresolved allegations of misconduct.
-
----
-
-**AI Disclosure:** This article was generated algorithmically by Main Street Independent's News Article Generator framework. Read the [methodology](/methodology) for details on how articles are produced, verified, and edited. No human review was triggered for this article.
 
 **License:** This work is released under the [Creative Commons Zero dedication](https://creativecommons.org/publicdomain/zero/1.0/). The article, framework, and methodology are public domain artifacts available for adoption and modification by other publications.
 
@@ -266,7 +260,3 @@ Canada's government is moving to advance a trade deal with India despite the dip
 **Access date:** 2026-02-24
 **Title:** Canada's Carney to travel to India, Australia and Japan to diversify trade
 **URL:** https://apnews.com/article/carney-india-australia-japan-trump-trade-138c3a892ec7c49f811f69e536adce53
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

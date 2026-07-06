@@ -1,6 +1,5 @@
 ---
 headline: US seizes two more Venezuelan oil tankers as Trump moves to control global sales
-slug: 2026-01-07-us-seizes-two-more-venezuelan-oil-tankers-trump-moves-to-control-global-sales
 publish_date: '2026-01-07'
 lede: The Trump administration on Wednesday seized two more sanctioned oil tankers carrying Venezuelan petroleum and announced plans to selectively lift sanctions to oversee the global sale of Venezuela's oil — moves that administration officials said would give the United States control over proceeds from the world's largest proven crude reserves. The tankers, the Bella 1 seized in the North Atlantic and the M Sophia captured in the Caribbean Sea, join at least two others taken by U.S. forces last month.
 nut_graf: The dual seizures and sanctions announcement represent the Trump administration's most concrete steps yet to translate its military capture of President Nicolás Maduro into economic control of Venezuela, whose oil reserves are the largest in the world. Vice President JD Vance said the United States can dictate where Venezuela's oil is sold, giving Washington leverage without committing military force on an ongoing basis.
@@ -22,24 +21,25 @@ primary_themes:
 - US foreign policy
 - shadow fleet
 topic_tags:
-  - "economy, business and finance"
-  - politics
+- international trade
+- international relations
+- energy and resource
+- government policy
+- crime, law and justice
 storyline_nexus:
-  - venezuela-crisis
-geographic_location: Venezuela, North Atlantic, Caribbean Sea
+- venezuela-political-military-crisis
+geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.85
-- value: truthfulness
-  intensity: 0.7
-framework_version: 1.1.0
-generation_timestamp: '2026-05-16T18:10:20Z'
+  intensity: 0.9
+- value: informed_citizenship
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-22T23:59:32Z'
 source_cluster_id: cluster_ap_2026-01-06_us-venezuela-oil-tanker-77f2c1441dda8217
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
@@ -47,16 +47,16 @@ claims:
   hedges:
     appears: 0
     alleged: 1
-    attributed: 13
     reported: 1
     contested: 0
     confirmed: 0
+    attributed: 13
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 0
-    single_source: 15
     two_independent: 0
+    primary_document: 0
+    one_originating_plus_primary_document: 0
+    single_source: 15
+    primary_plus_secondary: 0
 sources:
   count: 1
   outlets:
@@ -74,41 +74,18 @@ image:
   url: /articles/2026-01-07-us-seizes-two-more-venezuelan-oil-tankers-as-trump-moves-to-control-global-sales.png
   alt: 'Illustration accompanying article: US seizes two more Venezuelan oil tankers as Trump moves to control global'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-03-u-s-military-seizes-maduro-in-venezuela-trump-pledges-to-govern-country-and-expl
-  relation: continues
-  strength: 0.8473
-  confidence: high
-- slug: 2026-01-07-mexico-emerges-as-cuba-s-key-fuel-supplier-as-venezuela-oil-lifeline-collapses
-  relation: related
-  strength: 0.8007
-  confidence: medium
-- slug: 2026-01-04-rubio-tamps-down-nation-building-fears-as-trump-insists-us-in-charge-in-venezuel
-  relation: related
-  strength: 0.7989
-  confidence: medium
-- slug: 2026-01-04-venezuela-oil-revival-faces-decade-long-timeline-and-100-billion-investment-hurd
-  relation: related
-  strength: 0.7947
-  confidence: medium
-- slug: 2026-01-04-trump-pledges-to-direct-venezuela-after-u-s-military-operation-ousts-maduro
-  relation: related
-  strength: 0.7825
-  confidence: medium
-- slug: 2026-01-05-cuba-confronts-energy-crisis-as-u-s-capture-of-maduro-severs-oil-lifeline
-  relation: related
-  strength: 0.773
-  confidence: medium
-- slug: 2026-01-03-trump-vows-to-run-venezuela-after-u-s-military-operation-ousts-maduro
-  relation: related
-  strength: 0.777
-  confidence: medium
-- slug: 2026-01-03-us-captures-maduro-in-caracas-strike-venezuela-president-faces-narco-charges
-  relation: continues
-  strength: 0.7695
-  confidence: high
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- The dual seizures and sanctions announcement represent the Trump administration's most concrete steps yet to translate its military capture of President Nicolás Maduro into economic control of Venezuela, whose oil reserves are the largest in the world.
+- WASHINGTON — The Trump administration on Wednesday seized two more sanctioned oil tankers carrying Venezuelan petroleum and announced plans to selectively lift sanctions to oversee the global sale of Venezuela's oil — moves that administration officials said would give the United States control over the proceeds from the world's largest proven crude reserves.
+- Homeland Security Secretary Kristi Noem said U.S.
+- The seizures and the sanctions announcement are the Trump administration's most concrete steps yet to translate its military capture of President Nicolás Maduro into economic control over Venezuela's petroleum industry following a surprise nighttime raid last week.
 
 The dual seizures and sanctions announcement represent the Trump administration's most concrete steps yet to translate its military capture of President Nicolás Maduro into economic control of Venezuela, whose oil reserves are the largest in the world. Vice President JD Vance said the United States can dictate where Venezuela's oil is sold, giving Washington leverage without committing military force on an ongoing basis.
 
@@ -168,138 +145,168 @@ The Trump administration has also indicated it will invest in Venezuela's electr
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Bella_1; US_European_Command
-**Predicate:** seized_for_sanctions_violation
-**Object:** North Atlantic (location)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Bella_1; US_European_Command
+- **Predicate:** seized_for_sanctions_violation
+- **Object:** North Atlantic (location)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > U.S. European Command said the merchant vessel Bella 1 was seized in the North Atlantic for violations of U.S. sanctions.
 
-### c_002 — attributed, single source
-**Subject entities:** M_Sophia; Kristi_Noem
-**Predicate:** seized_in
-**Object:** Caribbean Sea (location)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** M_Sophia; Kristi_Noem
+- **Predicate:** seized_in
+- **Object:** Caribbean Sea (location)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Homeland Security Secretary Kristi Noem said U.S. forces took control of the M Sophia in the Caribbean Sea.
 
-### c_003 — attributed, single source
-**Subject entities:** Bella_1; M_Sophia; Skipper; Centuries
-**Predicate:** previously_seized
-**Object:** prior month (temporal_context)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Bella_1; M_Sophia; Skipper; Centuries
+- **Predicate:** previously_seized
+- **Object:** prior month (temporal_context)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > The Bella 1 and M Sophia join at least two other tankers — the Skipper and the Centuries — seized by U.S. forces last month.
 
-### c_004 — attributed, single source
-**Subject entities:** JD_Vance; United_States; Venezuela
-**Predicate:** stated_control_over_oil_sales
-**Object:** purse strings via oil-sale dictation (policy_statement)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** JD_Vance; United_States; Venezuela
+- **Predicate:** stated_control_over_oil_sales
+- **Object:** purse strings via oil-sale dictation (policy_statement)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Vice President JD Vance said the United States can control Venezuela's purse strings by dictating where its oil can be sold.
 
-### c_005 — attributed, single source
-**Subject entities:** US_Energy_Department; Venezuela
-**Predicate:** declared_oil_channel_restriction
-**Object:** U.S.-approved channels only (policy_declaration)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** US_Energy_Department; Venezuela
+- **Predicate:** declared_oil_channel_restriction
+- **Object:** U.S.-approved channels only (policy_declaration)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > The Energy Department said the only oil transported in and out of Venezuela will be through approved channels consistent with U.S. law and national security interests.
 
-### c_006 — attributed, single source
-**Subject entities:** US_Energy_Department; Venezuela_oil
-**Predicate:** announced_oil_sale_terms
-**Object:** 30-50 million barrels, U.S.-controlled accounts (policy_detail)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** US_Energy_Department; Venezuela_oil
+- **Predicate:** announced_oil_sale_terms
+- **Object:** 30-50 million barrels, U.S.-controlled accounts (policy_detail)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Initial Venezuelan oil sales are slated to begin immediately, covering 30 million to 50 million barrels, with proceeds settling in U.S.-controlled accounts at globally recognized banks.
 
-### c_007 — attributed, single source
-**Subject entities:** Marco_Rubio; Venezuela_interim_authorities
-**Predicate:** stated_desire_for_seized_oil_in_deal
-**Object:** up to 50 million barrels (quantity)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Marco_Rubio; Venezuela_interim_authorities
+- **Predicate:** stated_desire_for_seized_oil_in_deal
+- **Object:** up to 50 million barrels (quantity)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Secretary of State Marco Rubio said Venezuela's interim authorities want the seized oil incorporated into a deal under which Venezuela would provide up to 50 million barrels to the United States.
 
-### c_008 — reported, single source
-**Subject entities:** Bella_1; Marinera
-**Predicate:** renamed_and_reflagged_to_Russia
-**Object:** Russia flag, renamed Marinera (evasion_action)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Bella_1; Marinera
+- **Predicate:** renamed_and_reflagged_to_Russia
+- **Object:** Russia flag, renamed Marinera (evasion_action)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > The Bella 1 was renamed Marinera and flagged to Russia as U.S. forces pursued it, and a U.S. official said the crew painted a Russian flag on the hull.
 
-### c_009 — alleged, single source
-**Subject entities:** Bella_1; Hezbollah
-**Predicate:** sanctioned_for_alleged_smuggling
-**Object:** Hezbollah-linked company cargo (sanction_basis)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_009
+- **Hedge:** alleged
+- **Corroboration:** single_source
+- **Subject entities:** Bella_1; Hezbollah
+- **Predicate:** sanctioned_for_alleged_smuggling
+- **Object:** Hezbollah-linked company cargo (sanction_basis)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > The Bella 1 had been sanctioned by the United States in 2024 on allegations of smuggling cargo for a company linked to Hezbollah.
 
-### c_010 — attributed, single source
-**Subject entities:** Pam_Bondi; DOJ; Bella_1_crew
-**Predicate:** announced_criminal_investigation
-**Object:** failing to obey Coast Guard orders (criminal_allegation)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Pam_Bondi; DOJ; Bella_1_crew
+- **Predicate:** announced_criminal_investigation
+- **Object:** failing to obey Coast Guard orders (criminal_allegation)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Attorney General Pam Bondi said the Justice Department is investigating crew members of the Bella 1 for failing to obey Coast Guard orders and that criminal charges will be pursued against all culpable actors.
 
-### c_011 — attributed, single source
-**Subject entities:** Russia_Foreign_Ministry; Andrei_Klishas
-**Predicate:** condemned_seizure
-**Object:** blatant piracy, humane treatment demand (foreign_government_response)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Russia_Foreign_Ministry; Andrei_Klishas
+- **Predicate:** condemned_seizure
+- **Object:** blatant piracy, humane treatment demand (foreign_government_response)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Russia's Foreign Ministry demanded humane treatment of Russian nationals among the Marinera's crew and Russian lawmaker Andrei Klishas called the U.S. action blatant piracy.
 
-### c_012 — attributed, single source
-**Subject entities:** M_Sophia; Windward; Jose_Terminal
-**Predicate:** loaded_cargo_valued_at
-**Object:** 1.8 million barrels, approx. $108 million (cargo_value)
-**Temporal:** 2025-12-26
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** M_Sophia; Windward; Jose_Terminal
+- **Predicate:** loaded_cargo_valued_at
+- **Object:** 1.8 million barrels, approx. $108 million (cargo_value)
+- **Temporal:** 2025-12-26
+- **Sources:** src_001
 
 > Maritime intelligence firm Windward said the M Sophia loaded at Jose Terminal on Dec. 26 and was carrying approximately 1.8 million barrels of crude oil worth about $108 million at roughly $60 a barrel.
 
-### c_013 — attributed, single source
-**Subject entities:** Delcy_Rodriguez; Venezuela
-**Predicate:** characterized_us_venezuela_relations
-**Object:** neither extraordinary nor irregular (government_statement)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Delcy_Rodriguez; Venezuela
+- **Predicate:** characterized_us_venezuela_relations
+- **Object:** neither extraordinary nor irregular (government_statement)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Venezuela's acting President Delcy Rodríguez called U.S.-Venezuela economic relations neither extraordinary nor irregular.
 
-### c_014 — attributed, single source
-**Subject entities:** John_Healey; UK_Defense_Ministry
-**Predicate:** provided_military_support
-**Object:** surveillance aircraft (military_asset)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** John_Healey; UK_Defense_Ministry
+- **Predicate:** provided_military_support
+- **Object:** surveillance aircraft (military_asset)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > U.K. Defense Secretary John Healey said Britain's military provided support including surveillance aircraft for the Bella 1 capture.
 
-### c_015 — attributed, single source
-**Subject entities:** PDVSA; United_States
-**Predicate:** in_negotiations_for_oil_sale
-**Object:** crude oil sale negotiations (commercial_negotiation)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** PDVSA; United_States
+- **Predicate:** in_negotiations_for_oil_sale
+- **Object:** crude oil sale negotiations (commercial_negotiation)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Venezuelan state-owned oil company PDVSA said it is in negotiations with the U.S. government for the sale of crude oil.
 
@@ -308,10 +315,5 @@ The Trump administration has also indicated it will invest in Venezuela's electr
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Konstantin Toropin
 **Publication date:** 2026-01-07
-**Access date:** 2026-01-07
 **Title:** Trump moves to control Venezuelan oil with seizures and sales
 **URL:** https://apnews.com/article/us-venezuela-oil-tanker-77f2c1441dda8217b37f9e38c3ae9131
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

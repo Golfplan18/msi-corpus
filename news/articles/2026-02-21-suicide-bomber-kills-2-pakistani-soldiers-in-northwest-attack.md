@@ -29,7 +29,7 @@ topic_tags:
   - "conflict, war and peace"
   - "armed conflict"
 storyline_nexus:
-  - immigration-enforcement
+- pakistan-afghanistan-violence
 geographic_location: Pakistan-Afghanistan border region, Khyber Pakhtunkhwa province
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -277,7 +277,3 @@ Pakistan has experienced a surge in militant violence in recent years. In additi
 **Access date:** 2026-05-18
 **Title:** Suicide bombing kills 2 Pakistani soldiers, including lieutenant colonel in restive northwest
 **URL:** https://apnews.com/article/pakistan-bomber-target-security-convoy-northwest-afghanistan-43f033bb61671bfbe077f3e3cd6b27c2
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -247,7 +247,3 @@ Alexis Abramson, dean of the Columbia University Climate School, said the renewa
 **Access date:** 2026-05-17
 **Title:** Solar growth in China and India powers clean energy surge by 2025
 **URL:** https://apnews.com/article/climate-renewables-clean-energy-china-india-solar-electricity-demand-c412207bc332c5e0f904030ab21389e7
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

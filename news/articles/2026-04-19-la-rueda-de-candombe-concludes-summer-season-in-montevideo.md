@@ -98,8 +98,6 @@ UNESCO recognizes candombe as an Intangible Cultural Heritage of Humanity, refle
 
 Amado and Fernández plan to remain in Montevideo and expand La Rueda de Candombe's performances to additional public squares across the city. As the colder months approach, the ensemble is preparing new projects that signal the continuation of their growth.
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
 ### c_001 — reported, single source
@@ -270,7 +268,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-05-17
 **Title:** Last performance of La Rueda de Candombe marks end of summer season in Uruguay
 **URL:** https://apnews.com/article/uruguay-montevideo-candombe-street-music-cannes-8582dd4d0d41fc319b3f92437f7d0d18
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

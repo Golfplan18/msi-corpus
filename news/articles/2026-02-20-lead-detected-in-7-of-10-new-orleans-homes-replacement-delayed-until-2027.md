@@ -13,42 +13,44 @@ primary_themes:
 - lead contamination
 - infrastructure
 topic_tags:
-  - health
+- public health
+- pollution
+- government policy
+- communities
+- environment
 storyline_nexus:
-  - immigration-enforcement
-geographic_location: New Orleans, Louisiana, USA
+- housing-affordability-crisis
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
-  intensity: 0.95
-- value: accountability_of_power
-  intensity: 0.85
-- value: truthfulness
-  intensity: 0.8
-- value: informed_citizenship
   intensity: 0.9
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+- value: accountability_of_power
+  intensity: 0.9
+- value: informed_citizenship
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T01:01:57Z'
 source_cluster_id: cluster_ap_2026-02-21_new-orleans-randy-hayman-water-quality-p
 gdelt_event_ids: []
-consensus_floor_version: '1.0'
-publication_mindspec_version: '1.0'
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 13
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 1
     reported: 2
+    alleged: 0
     contested: 0
+    appears: 0
+    attributed: 1
     confirmed: 10
   corroboration:
-    primary_plus_secondary: 2
-    one_originating_plus_primary_document: 0
     primary_document: 11
-    single_source: 0
     two_independent: 0
+    single_source: 0
+    one_originating_plus_primary_document: 0
+    primary_plus_secondary: 2
 sources:
   count: 1
   outlets:
@@ -62,25 +64,16 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-03-05-vermont-bill-would-bar-landfill-leachate-from-lake-memphremagog-over-pfas-fears
-  relation: related
-  strength: 0.7008
-  confidence: medium
-- slug: 2026-01-05-court-order-forces-epa-to-propose-perchlorate-limit-in-drinking-water
-  relation: related
-  strength: 0.7725
-  confidence: medium
-- slug: 2026-01-05-lead-and-toxins-persist-in-altadena-homes-a-year-after-la-wildfires
-  relation: related
-  strength: 0.7536
-  confidence: medium
-- slug: 2026-01-05-west-virginia-electricity-rates-rose-34-in-five-years-pushing-residents-to-despe
-  relation: related
-  strength: 0.709
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- - Sewerage and Water Board of New Orleans
+- - value: human_life_and_dignity
 
 Lead was detected in seven of ten homes tested on a single block of New Orleans' Upper Ninth Ward, according to a water quality investigation by Verite News and the Associated Press. Testing data from the Sewerage and Water Board of New Orleans shows that 70 percent of more than 1,100 households tested between 2022 and 2025 contained lead in their drinking water. The water utility predicts that between 50 percent and 60 percent of its 150,000 service lines will eventually require replacement to address the contamination.
 
@@ -140,136 +133,155 @@ She has not had her blood tested for lead, though she wonders whether the heavy 
 
 "Is the lead affecting our health? What diseases come from the lead and the pipes? Those are questions that need to be answered," Prevost said.
 
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework. The framework specification is published at /methodology. Human review was not triggered. The article is released under CC0.*
-
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** New Orleans—Congress Street; residential_households
-**Predicate:** had_lead_detected
-**Object:** 7 of 10 homes (ratio)
-**Temporal:** 2022-2025
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** New Orleans—Congress Street; residential_households
+- **Predicate:** had_lead_detected
+- **Object:** 7 of 10 homes (ratio)
+- **Temporal:** 2022-2025
+- **Sources:** src_001
 
 > Lead was detected in seven of ten homes tested on Congress Street in the Upper Ninth Ward.
 
-### c_002 — confirmed, primary document
-**Subject entities:** Sewerage and Water Board of New Orleans
-**Predicate:** tested_household_lead_prevalence
-**Object:** ~70% of 1,100+ households (percentage)
-**Temporal:** 2022-2025
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Sewerage and Water Board of New Orleans
+- **Predicate:** tested_household_lead_prevalence
+- **Object:** ~70% of 1,100+ households (percentage)
+- **Temporal:** 2022-2025
+- **Sources:** src_001
 
 > Approximately 70 percent of more than 1,100 households tested by the S&WB between 2022 and 2025 had lead in their drinking water.
 
-### c_003 — reported, primary document
-**Subject entities:** Sewerage and Water Board of New Orleans
-**Predicate:** predicts_replacement_need
-**Object:** 50-60% of 150,000 service lines (percentage)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Sewerage and Water Board of New Orleans
+- **Predicate:** predicts_replacement_need
+- **Object:** 50-60% of 150,000 service lines (percentage)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > The S&WB predicts that 50 to 60 percent of its 150,000 metered service lines will need some portion replaced.
 
-### c_004 — confirmed, primary document
-**Subject entities:** Environmental Protection Agency; Lead and Copper Rule
-**Predicate:** establishes_regulatory_threshold
-**Object:** 15 ppb (current), 10 ppb (2027) (concentration)
-**Temporal:** 2026-2027
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Environmental Protection Agency; Lead and Copper Rule
+- **Predicate:** establishes_regulatory_threshold
+- **Object:** 15 ppb (current), 10 ppb (2027) (concentration)
+- **Temporal:** 2026-2027
+- **Sources:** src_001
 
 > The federal action level for lead in drinking water is currently 15 parts per billion and will be reduced to 10 ppb in 2027.
 
-### c_005 — reported, primary document
-**Subject entities:** Sewerage and Water Board of New Orleans
-**Predicate:** estimates_total_cost
-**Object:** $1 billion (currency)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Sewerage and Water Board of New Orleans
+- **Predicate:** estimates_total_cost
+- **Object:** $1 billion (currency)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > The S&WB estimates the cost to replace all lead pipes by 2037 at approximately $1 billion.
 
-### c_006 — confirmed, primary document
-**Subject entities:** Sewerage and Water Board of New Orleans; Drinking Water State Revolving Loan Fund
-**Predicate:** secured_federal_funding
-**Object:** $152 million (currency)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Sewerage and Water Board of New Orleans; Drinking Water State Revolving Loan Fund
+- **Predicate:** secured_federal_funding
+- **Object:** $152 million (currency)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > The S&WB has secured $152 million in funding from the Drinking Water State Revolving Loan Fund.
 
-### c_007 — attributed, primary plus secondary
-**Subject entities:** lead; fetal_health
-**Predicate:** causes_developmental_harm
-**Object:** fetal harm, premature birth (health_effect)
-**Temporal:** n/a
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** lead; fetal_health
+- **Predicate:** causes_developmental_harm
+- **Object:** fetal harm, premature birth (health_effect)
+- **Temporal:** n/a
+- **Sources:** src_001
 
 > Lead can pass through a pregnant woman to her fetus and harm fetal development, potentially leading to premature birth.
 
-### c_008 — confirmed, primary plus secondary
-**Subject entities:** lead; human_health
-**Predicate:** causes_systemic_damage
-**Object:** brain damage in children; hypertension, kidney damage, cardiovascular disease in adults (health_effect)
-**Temporal:** n/a
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** lead; human_health
+- **Predicate:** causes_systemic_damage
+- **Object:** brain damage in children; hypertension, kidney damage, cardiovascular disease in adults (health_effect)
+- **Temporal:** n/a
+- **Sources:** src_001
 
 > Lead affects brain development in children and contributes to high blood pressure, kidney damage, and heart disease in adults.
 
-### c_009 — confirmed, primary document
-**Subject entities:** Sewerage and Water Board of New Orleans
-**Predicate:** delayed_replacement_timeline
-**Object:** delayed from fall 2025 to late 2027 (timeline_change)
-**Temporal:** 2025-2026
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Sewerage and Water Board of New Orleans
+- **Predicate:** delayed_replacement_timeline
+- **Object:** delayed from fall 2025 to late 2027 (timeline_change)
+- **Temporal:** 2025-2026
+- **Sources:** src_001
 
 > The S&WB initially planned to start mass pipe replacement in fall 2025 but experienced contractor-selection delays.
 
-### c_010 — confirmed, primary document
-**Subject entities:** Randy Hayman; Sewerage and Water Board of New Orleans
-**Predicate:** overruled_procurement_decision
-**Object:** re-solicitation of contractor due to procedural violation (administrative_action)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Randy Hayman; Sewerage and Water Board of New Orleans
+- **Predicate:** overruled_procurement_decision
+- **Object:** re-solicitation of contractor due to procedural violation (administrative_action)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > S&WB Executive Director Randy Hayman overruled a hearing examiner's decision in December 2025 and re-solicited the contractor selection, citing the failure to include a required public health expert on the selection committee.
 
-### c_011 — confirmed, primary document
-**Subject entities:** Sewerage and Water Board of New Orleans
-**Predicate:** completed_partial_replacement
-**Object:** 14 schools, 144 residences, 350+ inspections (infrastructure_progress)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_011
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Sewerage and Water Board of New Orleans
+- **Predicate:** completed_partial_replacement
+- **Object:** 14 schools, 144 residences, 350+ inspections (infrastructure_progress)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > As of December 2025, the S&WB had replaced lines serving 14 schools and 144 residences and conducted more than 350 service line inspections.
 
-### c_012 — confirmed, primary document
-**Subject entities:** State of Louisiana
-**Predicate:** restricts_public_funding
-**Object:** prevents public funds for private-side lead line replacement (legal_constraint)
-**Temporal:** ongoing
-**Source IDs:** src_001
+### c_012
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** State of Louisiana
+- **Predicate:** restricts_public_funding
+- **Object:** prevents public funds for private-side lead line replacement (legal_constraint)
+- **Temporal:** ongoing
+- **Sources:** src_001
 
 > A state constitutional provision prevents public money from being used to replace lead lines on private property.
 
-### c_013 — confirmed, primary document
-**Subject entities:** U.S. Congress; Bipartisan Infrastructure Law
-**Predicate:** redirected_federal_funding
-**Object:** $125 million redirected to wildfire prevention (currency)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_013
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Congress; Bipartisan Infrastructure Law
+- **Predicate:** redirected_federal_funding
+- **Object:** $125 million redirected to wildfire prevention (currency)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Federal lead-line replacement funding from the 2021 Bipartisan Infrastructure Law ended in 2026, and Congress redirected $125 million to wildfire prevention.
 
 ## Sources
 
 ### src_001 — Associated Press, wire, Tier 1, originating
-**Author:** Halle Parker
+**Author:** Halle Parker / Verite News
 **Publication date:** 2026-02-20
-**Access date:** 2026-02-20
 **Title:** Toxic Tap: Lead detected in 7 of 10 New Orleans homes amid delayed pipe replacement
 **URL:** https://apnews.com/article/new-orleans-randy-hayman-water-quality-public-health-general-news-c99a02d38dc9a7d6ed13ef580f5c8916
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

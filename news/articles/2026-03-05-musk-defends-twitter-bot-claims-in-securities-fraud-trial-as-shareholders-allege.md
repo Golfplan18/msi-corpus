@@ -13,43 +13,41 @@ primary_themes:
 - social media
 - corporate accountability
 topic_tags:
-  - "arts, culture, entertainment and media"
-  - "economy, business and finance"
-  - "mass media"
-  - "social media"
-  - society
-storyline_nexus: []
-geographic_location: San Francisco, California, United States
+- trial
+- crime, law and justice
+- business information
+- social media
+storyline_nexus:
+- musk-openai-legal-battle
+geographic_location: United States
 floor_values_engaged:
-- value: accountability_of_power
-  intensity: 0.8
 - value: truthfulness
-  intensity: 0.75
-- value: informed_citizenship
-  intensity: 0.6
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:43:48Z'
+  intensity: 0.9
+- value: accountability_of_power
+  intensity: 0.9
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:57:32Z'
 source_cluster_id: cluster_ap_2026-03-06_elon-musk-twitter-shareholders-court-cla
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 13
   hedges:
-    appears: 0
-    alleged: 1
-    attributed: 5
     reported: 0
+    appears: 0
     contested: 0
+    alleged: 1
     confirmed: 7
+    attributed: 5
   corroboration:
+    two_independent: 0
     primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 6
     single_source: 7
-    two_independent: 0
+    one_originating_plus_primary_document: 0
 sources:
   count: 1
   outlets:
@@ -66,6 +64,14 @@ figures_aggregate:
 cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- Elon Musk took the witness stand for a second day in a San Francisco federal courtroom Thursday, defending his assertions about fake acco…
+- The class-action lawsuit claims Musk violated federal securities laws through a series of moves intended to lower the price of his $44 bi…
+- The dispute centers on Musk's repeated public assertions that Twitter's bot and spam problem was far worse than the company had disclosed…
+- Former Twitter Chief Executive Ned Segal, who testified Thursday, offered sharply different figures. Segal said the actual spam account r…
 
 Elon Musk took the witness stand for a second day in a San Francisco federal courtroom Thursday, defending his assertions about fake accounts on Twitter as a civil trial advances over allegations that his public statements drove down the company's stock price and cost shareholders millions of dollars.
 
@@ -91,120 +97,146 @@ Musk agreed to purchase Twitter for $54.20 per share — a total of approximatel
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Elon Musk
-**Predicate:** testified_in
-**Object:** San Francisco federal court (venue)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Elon Musk
+- **Predicate:** testified_in
+- **Object:** San Francisco federal court (venue)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > Elon Musk testified in San Francisco federal court on March 5, 2026, for a second consecutive day.
 
-### c_002 — confirmed, primary document
-**Subject entities:** class-action lawsuit
-**Predicate:** filed_before
-**Object:** Twitter acquisition completion (event)
-**Temporal:** 2022-10
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** class-action lawsuit
+- **Predicate:** filed_before
+- **Object:** Twitter acquisition completion (event)
+- **Temporal:** 2022-10
+- **Sources:** src_001
 
 > The case is a class-action lawsuit filed just before Musk completed his acquisition of Twitter in October 2022.
 
-### c_003 — confirmed, primary document
-**Subject entities:** Elon Musk; Twitter
-**Predicate:** agreed_to_acquire
-**Object:** $44 billion / $54.20 per share (acquisition_price)
-**Temporal:** 2022-04
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Elon Musk; Twitter
+- **Predicate:** agreed_to_acquire
+- **Object:** $44 billion / $54.20 per share (acquisition_price)
+- **Temporal:** 2022-04
+- **Sources:** src_001
 
 > Musk agreed to purchase Twitter for $44 billion, or $54.20 per share.
 
-### c_004 — confirmed, primary document
-**Subject entities:** Twitter shareholders
-**Predicate:** sold_stock_during
-**Object:** May 13 to Oct. 4, 2022 (date_range)
-**Temporal:** 2022-05-13/2022-10-04
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Twitter shareholders
+- **Predicate:** sold_stock_during
+- **Object:** May 13 to Oct. 4, 2022 (date_range)
+- **Temporal:** 2022-05-13/2022-10-04
+- **Sources:** src_001
 
 > The class represents Twitter shareholders who sold the stock between May 13 and Oct. 4, 2022.
 
-### c_005 — alleged, primary document
-**Subject entities:** Elon Musk
-**Predicate:** alleged_to_have_manipulated
-**Object:** Twitter stock price (financial_instrument)
-**Temporal:** 2022
-**Source IDs:** src_001
+### c_005
+- **Hedge:** alleged
+- **Corroboration:** primary_document
+- **Subject entities:** Elon Musk
+- **Predicate:** alleged_to_have_manipulated
+- **Object:** Twitter stock price (financial_instrument)
+- **Temporal:** 2022
+- **Sources:** src_001
 
 > Plaintiffs allege Musk took calculated steps to drive down Twitter's stock price in an attempt to either abandon the deal or secure a lower sales price.
 
-### c_006 — confirmed, primary document
-**Subject entities:** Twitter
-**Predicate:** disclosed
-**Object:** 5% spam/bot account rate (sec_disclosure)
-**Temporal:** 2022
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Twitter
+- **Predicate:** disclosed
+- **Object:** 5% spam/bot account rate (sec_disclosure)
+- **Temporal:** 2022
+- **Sources:** src_001
 
 > Twitter disclosed in regulatory filings that bot and spam accounts made up approximately 5% of its user base.
 
-### c_007 — attributed, single source
-**Subject entities:** Elon Musk
-**Predicate:** claimed
-**Object:** at least 20% bot/spam rate (estimate)
-**Temporal:** 2022
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Elon Musk
+- **Predicate:** claimed
+- **Object:** at least 20% bot/spam rate (estimate)
+- **Temporal:** 2022
+- **Sources:** src_001
 
 > Musk claimed the actual number of fake and spam accounts was at least 20%, according to some analysts.
 
-### c_008 — attributed, single source
-**Subject entities:** Elon Musk
-**Predicate:** stated
-**Object:** "saying the grass is green or the sky is blue" (quotation)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Elon Musk
+- **Predicate:** stated
+- **Object:** "saying the grass is green or the sky is blue" (quotation)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > Musk said the 20% bot figure was like "saying the grass is green or the sky is blue."
 
-### c_009 — confirmed, single source
-**Subject entities:** Twitter
-**Predicate:** paid_settlement
-**Object:** $809.5 million (settlement_amount)
-**Temporal:** 2021
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Twitter
+- **Predicate:** paid_settlement
+- **Object:** $809.5 million (settlement_amount)
+- **Temporal:** 2021
+- **Sources:** src_001
 
 > Twitter paid $809.5 million in 2021 to settle claims it was overstating its growth rate and monthly user figures.
 
-### c_010 — attributed, single source
-**Subject entities:** Ned Segal; Twitter
-**Predicate:** testified
-**Object:** no false SEC filings on spam figures (testimony)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ned Segal; Twitter
+- **Predicate:** testified
+- **Object:** no false SEC filings on spam figures (testimony)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > Former Twitter CEO Ned Segal testified that Twitter did not file false disclosures to the SEC about its spam account figures.
 
-### c_011 — attributed, single source
-**Subject entities:** Ned Segal
-**Predicate:** testified
-**Object:** approximately 1% spam rate (estimate)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ned Segal
+- **Predicate:** testified
+- **Object:** approximately 1% spam rate (estimate)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > Segal said the actual spam account rate was closer to 1%.
 
-### c_012 — attributed, single source
-**Subject entities:** Elon Musk
-**Predicate:** stated
-**Object:** "lied" (quotation)
-**Temporal:** 2026-03-04
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Elon Musk
+- **Predicate:** stated
+- **Object:** "lied" (quotation)
+- **Temporal:** 2026-03-04
+- **Sources:** src_001
 
 > Musk said on Wednesday that Twitter "lied" about the number of bot accounts on its platform.
 
-### c_013 — confirmed, single source
-**Subject entities:** Twitter
-**Predicate:** disclosed_error
-**Object:** overstated monthly user figures due to third-party app miscounting (restatement)
-**Temporal:** 2017
-**Source IDs:** src_001
+### c_013
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Twitter
+- **Predicate:** disclosed_error
+- **Object:** overstated monthly user figures due to third-party app miscounting (restatement)
+- **Temporal:** 2017
+- **Sources:** src_001
 
 > In 2017, Twitter said it had been overstating monthly user numbers by mistake because it was including users of a third-party app it should not have.
 
@@ -213,10 +245,5 @@ Musk agreed to purchase Twitter for $54.20 per share — a total of approximatel
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Barbara Ortutay
 **Publication date:** 2026-03-05
-**Access date:** 2026-03-05
 **Title:** Musk doubles down in court on Twitter bot claims as investors allege millions lost
 **URL:** https://apnews.com/article/elon-musk-twitter-shareholders-court-class-action-a5ce0d4a3e5488545c6adc870e746274
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

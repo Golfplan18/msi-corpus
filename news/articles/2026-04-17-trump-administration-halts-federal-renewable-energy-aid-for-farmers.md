@@ -17,43 +17,42 @@ primary_themes:
 - agriculture
 - economic impact
 topic_tags:
-  - agriculture
-  - "armed conflict"
-  - "conflict, war and peace"
-  - "economy, business and finance"
-  - politics
-storyline_nexus: []
+- agriculture
+- energy and resource
+- government policy
+- environment
+- economy
+storyline_nexus:
+- trump-climate-energy-rollbacks
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
-  intensity: 0.85
+  intensity: 0.9
 - value: informed_citizenship
-  intensity: 0.8
-- value: human_life_and_dignity
-  intensity: 0.75
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:44:08Z'
 source_cluster_id: cluster_ap_2026-04-18_climate-solar-energy-farmers-grants-trum
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 13
   hedges:
     appears: 0
-    alleged: 0
-    attributed: 7
-    reported: 2
     contested: 0
+    attributed: 7
     confirmed: 4
+    reported: 2
+    alleged: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 6
-    single_source: 7
     two_independent: 0
+    one_originating_plus_primary_document: 0
+    single_source: 7
+    primary_plus_secondary: 0
+    primary_document: 6
 sources:
   count: 1
   outlets:
@@ -67,41 +66,20 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-04-15-nearly-200-groups-demand-restoration-of-350m-in-federal-solar-funds-for-puerto-r
-  relation: related
-  strength: 0.8219
-  confidence: medium
-- slug: 2026-01-07-trump-white-house-rescinds-nepa-regulations-to-speed-energy-project-approvals
-  relation: related
-  strength: 0.7951
-  confidence: medium
-- slug: 2026-01-12-federal-judge-orders-revolution-wind-construction-to-resume-rejecting-trump-s-fr
-  relation: related
-  strength: 0.7718
-  confidence: medium
-- slug: 2026-01-15-federal-judge-clears-empire-wind-to-resume-construction-second-court-loss-for-tr
-  relation: related
-  strength: 0.7551
-  confidence: medium
-- slug: 2026-01-10-new-york-attorney-general-sues-trump-administration-over-offshore-wind-project-f
-  relation: related
-  strength: 0.76
-  confidence: medium
-- slug: 2026-01-07-offshore-wind-developers-and-states-sue-over-trump-s-90-day-east-coast-lease-fre
-  relation: related
-  strength: 0.7486
-  confidence: medium
-- slug: 2026-01-09-gm-records-6-billion-in-charges-as-ev-tax-credits-expire-and-emissions-rules-eas
-  relation: related
-  strength: 0.7291
-  confidence: medium
-- slug: 2025-12-30-zeldin-s-epa-cuts-enforcement-and-staff-as-fossil-fuel-friendly-pivot-takes-hold
-  relation: related
-  strength: 0.7416
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Some American farmers bet on solar. Then Trump changed the rules
+- Kentucky sheep farmer Daniel Bell has been expanding thanks to a partnership with a solar company that pays him to graze his flock among the panels. (AP Video: Joshua A. Bickel)
+- “For me, it’s just been about freedom. Freedom to lower bills, freedom to control my own assets,” he said.
+- EDITOR’S NOTE: This story is a collaboration between Grist and The Associated Press.
+- Contact AP’s global investigative team at [email protected]. For secure and confidential communications, use the free Signal app +1 (202) 281-8604.
+- The new timeline, though, has prompted some developers to abandon projects after concluding they couldn’t move fast enough to meet the new tax credit cutoff.
 
 At least 126 solar projects proposed near agricultural land are awaiting regulatory approval, representing about 20 gigawatts of potential electricity generation. The policy reversals have forced some developers to abandon millions in investments, while others race to complete construction before tax credits expire.
 
@@ -155,136 +133,155 @@ Despite the policy reversals, solar remains among the cheapest forms of energy p
 
 For Daniel Bell and other farmers like him, the path forward remains uncertain. The renewable energy infrastructure that promised to cut costs and increase independence has become a moving target—one that may be out of reach for those without the capital or commercial partnerships to pursue alternative arrangements.
 
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. The framework specification, values floor, and editorial methodology are published at /methodology. This work is released under the Creative Commons CC0 public domain dedication.*
-
 ## Atomic claims
 
-### c_001 — attributed, primary document
-**Subject entities:** Trump administration; REAP
-**Predicate:** halted
-**Object:** grant awards (program_action)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Trump administration; REAP
+- **Predicate:** halted
+- **Object:** grant awards (program_action)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > The Trump administration has effectively halted the Rural Energy for America Program's grant awards.
 
-### c_002 — confirmed, primary document
-**Subject entities:** USDA
-**Predicate:** has_not_awarded
-**Object:** zero dollars (financial_metric)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** USDA
+- **Predicate:** has_not_awarded
+- **Object:** zero dollars (financial_metric)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > The U.S. Department of Agriculture has not awarded a dollar in rural renewable energy grants or loans in the current fiscal year.
 
-### c_003 — confirmed, primary document
-**Subject entities:** federal clean energy tax credit
-**Predicate:** requires_deadline
-**Object:** July 2026 or December 2027 (date_specification)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** federal clean energy tax credit
+- **Predicate:** requires_deadline
+- **Object:** July 2026 or December 2027 (date_specification)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Commercial solar projects must be under construction by July 2026 or placed in service by the end of 2027 to remain eligible for the federal clean energy tax credit.
 
-### c_004 — attributed, primary document
-**Subject entities:** solar projects
-**Predicate:** awaiting_approval
-**Object:** 126 projects (count)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** solar projects
+- **Predicate:** awaiting_approval
+- **Object:** 126 projects (count)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > At least 126 solar projects proposed since the beginning of 2024 are awaiting regulatory approval on or near agricultural land.
 
-### c_005 — reported, primary document
-**Subject entities:** stalled solar projects
-**Predicate:** would_supply
-**Object:** 20 gigawatts; 4.5 million homes (energy_capacity)
-**Temporal:** projected
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** stalled solar projects
+- **Predicate:** would_supply
+- **Object:** 20 gigawatts; 4.5 million homes (energy_capacity)
+- **Temporal:** projected
+- **Sources:** src_001
 
 > The stalled solar projects would together supply about 20 gigawatts of electricity if built, enough to power about 4.5 million homes.
 
-### c_006 — attributed, single source
-**Subject entities:** Alpin Sun; Bogdan Micu
-**Predicate:** abandoned_projects
-**Object:** $6 million; 1,000 megawatts (financial_and_capacity_metric)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Alpin Sun; Bogdan Micu
+- **Predicate:** abandoned_projects
+- **Object:** $6 million; 1,000 megawatts (financial_and_capacity_metric)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Alpin Sun, a German solar developer, abandoned projects representing about $6 million in investments in about 1,000 megawatts in the U.S. Northeast.
 
-### c_007 — attributed, single source
-**Subject entities:** Daniel Bell; Kentucky
-**Predicate:** unable_to_proceed
-**Object:** rooftop solar installation (project_type)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Daniel Bell; Kentucky
+- **Predicate:** unable_to_proceed
+- **Object:** rooftop solar installation (project_type)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Daniel Bell, a Kentucky sheep farmer, planned to install rooftop solar on his property but was unable to proceed when the Trump administration halted the REAP program.
 
-### c_008 — confirmed, single source
-**Subject entities:** Elisa Lane; Maryland
-**Predicate:** had_grant_frozen
-**Object:** $30,576 (monetary_amount)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Elisa Lane; Maryland
+- **Predicate:** had_grant_frozen
+- **Object:** $30,576 (monetary_amount)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Elisa Lane, a Maryland flower and fruit farmer, was awarded a $30,576 REAP grant in 2024 that was frozen in February 2025 without explanation.
 
-### c_009 — attributed, single source
-**Subject entities:** Elisa Lane
-**Predicate:** had_energy_costs
-**Object:** $500 per month (cost_metric)
-**Temporal:** before 2025
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Elisa Lane
+- **Predicate:** had_energy_costs
+- **Object:** $500 per month (cost_metric)
+- **Temporal:** before 2025
+- **Sources:** src_001
 
 > Lane's monthly energy bills ran around $500 before installing solar panels.
 
-### c_010 — confirmed, primary document
-**Subject entities:** USDA; Trump administration
-**Predicate:** invited_revision
-**Object:** eliminate DEIA and climate mandates from proposals (policy_requirement)
-**Temporal:** March 2025
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** USDA; Trump administration
+- **Predicate:** invited_revision
+- **Object:** eliminate DEIA and climate mandates from proposals (policy_requirement)
+- **Temporal:** March 2025
+- **Sources:** src_001
 
 > The USDA invited REAP grant recipients to voluntarily revise their proposals to align with Trump's executive order by eliminating Biden-era DEIA and climate language.
 
-### c_011 — reported, single source
-**Subject entities:** Tim Covert; New York
-**Predicate:** has_solar_project
-**Object:** solar lease providing ~25% of income (income_proportion)
-**Temporal:** projected
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Tim Covert; New York
+- **Predicate:** has_solar_project
+- **Object:** solar lease providing ~25% of income (income_proportion)
+- **Temporal:** projected
+- **Sources:** src_001
 
 > Tim Covert, a former New York dairy farmer treated for cancer, has a community solar project proposed on his land that could provide roughly a quarter of his income.
 
-### c_012 — attributed, single source
-**Subject entities:** Robert Bonnie
-**Predicate:** said
-**Object:** renewable support rollback threatens farm economics (attributed_opinion)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Robert Bonnie
+- **Predicate:** said
+- **Object:** renewable support rollback threatens farm economics (attributed_opinion)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Robert Bonnie, former USDA undersecretary for farm production and conservation, said pulling back on renewable support is hugely problematic for farmers' economic wellbeing in states like Iowa and Texas.
 
-### c_013 — attributed, single source
-**Subject entities:** Nick Cohen; Doral LLC
-**Predicate:** said
-**Object:** large developers are advantaged by policy changes (attributed_opinion)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Nick Cohen; Doral LLC
+- **Predicate:** said
+- **Object:** large developers are advantaged by policy changes (attributed_opinion)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Nick Cohen, CEO of large-scale solar developer Doral LLC, said the new rules favor large developers and called it an exciting time for companies of significant size.
 
 ## Sources
 
 ### src_001 — Associated Press, wire, Tier 1, originating
-**Author:** Ayurella Horn-muller
+**Author:** Ayurella Horn-muller Of Grist
 **Publication date:** 2026-04-17
-**Access date:** 2026-05-17
 **Title:** Under Trump, aid for rural renewable energy is mostly gone
 **URL:** https://apnews.com/article/climate-solar-energy-farmers-grants-trump-585a1df02a748d689b3ee5136ce69313
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

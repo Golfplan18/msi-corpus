@@ -1,6 +1,5 @@
 ---
 headline: At least 7 killed as Iran protests over economy spread to rural provinces
-slug: 2026-01-01-iran-protests-economy-spread-rural-provinces-seven-killed
 publish_date: '2026-01-01'
 lede: Widening demonstrations sparked by Iran's ailing economy spread Thursday into rural provinces, with at least seven people killed in the first fatalities reported among protesters and security forces since the unrest began, authorities said. The deaths — two on Wednesday and five on Thursday — occurred across four cities largely home to Iran's Lur ethnic group.
 nut_graf: The killings mark the first signs of a potentially heavier government response to protests that have become Iran's largest since the 2022 demonstrations triggered by the death of Mahsa Amini in police custody, and come as reformist President Masoud Pezeshkian has acknowledged limited ability to arrest the rial's collapse — the economic force driving demonstrators from the capital into the countryside.
@@ -19,50 +18,70 @@ primary_themes:
 - state violence
 - nuclear diplomacy
 topic_tags:
-  - "civil unrest"
-  - "conflict, war and peace"
-  - "crime, law and justice"
-  - "disaster, accident and emergency incident"
-  - "international relations"
-  - "political dissent"
+- civil unrest
+- economy
+- political dissent
+- government
+- armed conflict
 storyline_nexus:
-  - iran-war
-geographic_location: Iran
+- the-iran-war
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
   intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.75
+  intensity: 0.6
 - value: informed_citizenship
-  intensity: 0.8
-framework_version: 1.1.0
-generation_timestamp: '2026-05-16T16:45:37Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-22T23:30:26Z'
 source_cluster_id: cluster_ap_2026-01-02_iran-protests-economy-israel-us-nuclear-
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 17
   hedges:
-    appears: 0
     alleged: 0
     attributed: 6
+    confirmed: 0
+    appears: 0
     reported: 11
     contested: 0
-    confirmed: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 0
     single_source: 17
+    one_originating_plus_primary_document: 0
+    primary_plus_secondary: 0
     two_independent: 0
+    primary_document: 0
 sources:
-  count: 1
+  count: 21
   outlets:
+  - 2news.com
   - Associated Press
+  - accesswdun.com
+  - andoveradvertiser.co.uk
+  - aol.co.uk
+  - aol.com
+  - apr.org
+  - arkansasonline.com
+  - asianimage.co.uk
+  - aspenpublicradio.org
+  - barryanddistrictnews.co.uk
+  - basingstokegazette.co.uk
+  - belfasttelegraph.co.uk
+  - bicesteradvertiser.net
+  - boisestatepublicradio.org
+  - bordertelegraph.com
+  - borehamwoodtimes.co.uk
+  - bournemouthecho.co.uk
+  - bozemandailychronicle.com
+  - bracknellnews.co.uk
+  - braintreeandwithamtimes.co.uk
   outlet_classes:
+  - national_daily
   - wire
   highest_reliability_tier: 1
   has_originating: true
@@ -75,17 +94,16 @@ image:
   url: /articles/2026-01-01-at-least-7-killed-as-iran-protests-over-economy-spread-to-rural-provinces.png
   alt: 'Illustration accompanying article: At least 7 killed as Iran protests over economy spread to rural provinces'
   source: ai_generated
-cross_article_links:
-- slug: 2025-12-29-iran-rial-crash-triggers-mass-protests-central-bank-chief-resigns
-  relation: continues
-  strength: 0.7977
-  confidence: high
-- slug: 2025-12-31-iran-names-new-central-bank-governor-as-rial-protests-spread
-  relation: related
-  strength: 0.7428
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- DUBAI — Widening demonstrations sparked by Iran's ailing economy spread Thursday into rural provinces, with at least seven people killed in the first fatalities reported among protesters and security forces since the unrest began, authorities said.
+- The killings mark the first signs of a potentially heavier government response to protests that have become Iran's largest since the 2022 demonstrations triggered by the death of Mahsa Amini in police custody.
+- Article details provided in full text.
 
 DUBAI — Widening demonstrations sparked by Iran's ailing economy spread Thursday into rural provinces, with at least seven people killed in the first fatalities reported among protesters and security forces since the unrest began, authorities said. The deaths — two on Wednesday and five on Thursday — occurred across four cities largely home to Iran's Lur ethnic group, according to the Associated Press.
 
@@ -121,156 +139,190 @@ The unrest comes as Iran continues to contend with the aftermath of a 12-day war
 
 ## Atomic claims
 
-### c_001 — reported, single source
-**Subject entities:** Iran; protesters; security forces
-**Predicate:** killed_in
-**Object:** at least 7 (death_count)
-**Temporal:** 2026-01-01
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Iran; protesters; security forces
+- **Predicate:** killed_in
+- **Object:** at least 7 (death_count)
+- **Temporal:** 2026-01-01
+- **Sources:** src_001
 
 > At least seven people were killed in protests in Iran on Wednesday and Thursday, with two deaths on Wednesday and five on Thursday.
 
-### c_002 — attributed, single source
-**Subject entities:** Iran; Lur ethnic group
-**Predicate:** occurred_in
-**Object:** four cities (location_count)
-**Temporal:** 2026-01-01
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Iran; Lur ethnic group
+- **Predicate:** occurred_in
+- **Object:** four cities (location_count)
+- **Temporal:** 2026-01-01
+- **Sources:** src_001
 
 > The deaths occurred in four cities largely home to Iran's Lur ethnic group.
 
-### c_003 — reported, single source
-**Subject entities:** Azna; Lorestan province; Fars news agency
-**Predicate:** killed_in
-**Object:** 3 (death_count)
-**Temporal:** 2026-01-01
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Azna; Lorestan province; Fars news agency
+- **Predicate:** killed_in
+- **Object:** 3 (death_count)
+- **Temporal:** 2026-01-01
+- **Sources:** src_001
 
 > The semiofficial Fars news agency reported three people killed in Azna, a city in Iran's Lorestan province about 300 kilometers southwest of Tehran.
 
-### c_004 — reported, single source
-**Subject entities:** Lordegan; Chaharmahal and Bakhtiari province
-**Predicate:** killed_in
-**Object:** 2 (death_count)
-**Temporal:** 2026-01-01
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Lordegan; Chaharmahal and Bakhtiari province
+- **Predicate:** killed_in
+- **Object:** 2 (death_count)
+- **Temporal:** 2026-01-01
+- **Sources:** src_001
 
 > Fars, citing an anonymous official, said two people were killed during Thursday's protests in Lordegan, a city in Chaharmahal and Bakhtiari province about 470 kilometers south of Tehran.
 
-### c_005 — attributed, single source
-**Subject entities:** Lordegan; Abdorrahman Boroumand Center for Human Rights in Iran
-**Predicate:** identified_as
-**Object:** demonstrators (victim_classification)
-**Temporal:** 2026-01-01
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Lordegan; Abdorrahman Boroumand Center for Human Rights in Iran
+- **Predicate:** identified_as
+- **Object:** demonstrators (victim_classification)
+- **Temporal:** 2026-01-01
+- **Sources:** src_001
 
 > The Washington-based Abdorrahman Boroumand Center for Human Rights in Iran said two people were killed in Lordegan and identified the dead as demonstrators.
 
-### c_006 — reported, single source
-**Subject entities:** Fuladshahr; Isfahan province
-**Predicate:** killed_in
-**Object:** 1 (death_count)
-**Temporal:** 2026-01-01
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Fuladshahr; Isfahan province
+- **Predicate:** killed_in
+- **Object:** 1 (death_count)
+- **Temporal:** 2026-01-01
+- **Sources:** src_001
 
 > State media reported one man killed in Fuladshahr in Iran's Isfahan province; activist groups attributed the death to police opening fire on demonstrators.
 
-### c_007 — reported, single source
-**Subject entities:** Kouhdasht; Basij; Revolutionary Guard
-**Predicate:** killed_in
-**Object:** 1 (death_count)
-**Temporal:** 2025-12-31
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Kouhdasht; Basij; Revolutionary Guard
+- **Predicate:** killed_in
+- **Object:** 1 (death_count)
+- **Temporal:** 2025-12-31
+- **Sources:** src_001
 
 > A 21-year-old volunteer in the Revolutionary Guard's Basij force was killed Wednesday night during protests in Kouhdasht, over 400 kilometers southwest of Tehran.
 
-### c_008 — reported, single source
-**Subject entities:** Basij; Iran police
-**Predicate:** injured_in
-**Object:** 13 (injury_count)
-**Temporal:** 2026-01-01
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Basij; Iran police
+- **Predicate:** injured_in
+- **Object:** 13 (injury_count)
+- **Temporal:** 2026-01-01
+- **Sources:** src_001
 
 > Thirteen Basij members and police officers were injured during protests.
 
-### c_009 — attributed, single source
-**Subject entities:** Kazem Nazari; Kouhdasht
-**Predicate:** arrested
-**Object:** 20 (arrest_count)
-**Temporal:** 2026-01-01
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Kazem Nazari; Kouhdasht
+- **Predicate:** arrested
+- **Object:** 20 (arrest_count)
+- **Temporal:** 2026-01-01
+- **Sources:** src_001
 
 > Local prosecutor Kazem Nazari said 20 people were arrested after protests in Kouhdasht.
 
-### c_010 — attributed, single source
-**Subject entities:** Saeed Pourali; Lorestan province
-**Predicate:** stated
-**Object:** protests due to economic pressures, inflation and currency fluctuations (official_statement)
-**Temporal:** 2026-01-01
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Saeed Pourali; Lorestan province
+- **Predicate:** stated
+- **Object:** protests due to economic pressures, inflation and currency fluctuations (official_statement)
+- **Temporal:** 2026-01-01
+- **Sources:** src_001
 
 > Saeed Pourali, a deputy governor in Lorestan province, said the protests 'are due to economic pressures, inflation and currency fluctuations, and are an expression of livelihood concerns.'
 
-### c_011 — reported, single source
-**Subject entities:** Iran; Iranian rial
-**Predicate:** depreciated_to
-**Object:** 1.4 million rials per dollar (exchange_rate)
-**Temporal:** 2026-01-01
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Iran; Iranian rial
+- **Predicate:** depreciated_to
+- **Object:** 1.4 million rials per dollar (exchange_rate)
+- **Temporal:** 2026-01-01
+- **Sources:** src_001
 
 > Iran's rial has rapidly depreciated, with $1 costing approximately 1.4 million rials.
 
-### c_012 — attributed, single source
-**Subject entities:** Masoud Pezeshkian; Iran
-**Predicate:** acknowledged
-**Object:** limited ability to address rial depreciation (official_statement)
-**Temporal:** 2026-01-01
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Masoud Pezeshkian; Iran
+- **Predicate:** acknowledged
+- **Object:** limited ability to address rial depreciation (official_statement)
+- **Temporal:** 2026-01-01
+- **Sources:** src_001
 
 > Reformist President Masoud Pezeshkian has acknowledged there is not much he can do about the rial's rapid depreciation.
 
-### c_013 — reported, single source
-**Subject entities:** Iran; Mahsa Amini
-**Predicate:** compared_to
-**Object:** 2022 Mahsa Amini protests (historical_comparison)
-**Temporal:** 2026-01-01
-**Source IDs:** src_001
+### c_013
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Iran; Mahsa Amini
+- **Predicate:** compared_to
+- **Object:** 2022 Mahsa Amini protests (historical_comparison)
+- **Temporal:** 2026-01-01
+- **Sources:** src_001
 
 > The protests are the biggest in Iran since 2022, when Mahsa Amini, 22, died in police custody after being detained for not wearing her hijab to the liking of authorities, triggering nationwide demonstrations.
 
-### c_014 — reported, single source
-**Subject entities:** Israel; Iran; United States
-**Predicate:** attacked
-**Object:** Iranian territory and nuclear sites (military_action)
-**Temporal:** 2025-06
-**Source IDs:** src_001
+### c_014
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Israel; Iran; United States
+- **Predicate:** attacked
+- **Object:** Iranian territory and nuclear sites (military_action)
+- **Temporal:** 2025-06
+- **Sources:** src_001
 
 > Israel launched a 12-day war against Iran in June; the U.S. also bombed Iranian nuclear sites during the war.
 
-### c_015 — attributed, single source
-**Subject entities:** Iran
-**Predicate:** declared
-**Object:** no uranium enrichment at any site (official_statement)
-**Temporal:** 2026-01-01
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Iran
+- **Predicate:** declared
+- **Object:** no uranium enrichment at any site (official_statement)
+- **Temporal:** 2026-01-01
+- **Sources:** src_001
 
 > Iran has said it is no longer enriching uranium at any site in the country.
 
-### c_016 — reported, single source
-**Subject entities:** Iran; state television
-**Predicate:** reported_arrests
-**Object:** 7 people, 5 monarchists and 2 linked to European-based groups (arrest_detail)
-**Temporal:** 2026-01-01
-**Source IDs:** src_001
+### c_016
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Iran; state television
+- **Predicate:** reported_arrests
+- **Object:** 7 people, 5 monarchists and 2 linked to European-based groups (arrest_detail)
+- **Temporal:** 2026-01-01
+- **Sources:** src_001
 
 > State television reported the arrests of seven people, including five described as monarchists and two said to be linked to European-based groups.
 
-### c_017 — reported, single source
-**Subject entities:** Iran; security forces
-**Predicate:** confiscated
-**Object:** 100 smuggled pistols (weapons_seizure)
-**Temporal:** 2026-01-01
-**Source IDs:** src_001
+### c_017
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Iran; security forces
+- **Predicate:** confiscated
+- **Object:** 100 smuggled pistols (weapons_seizure)
+- **Temporal:** 2026-01-01
+- **Sources:** src_001
 
 > Security forces confiscated 100 smuggled pistols, according to state television.
 
@@ -279,10 +331,85 @@ The unrest comes as Iran continues to contend with the aftermath of a 12-day war
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Jon Gambrell
 **Publication date:** 2026-01-01
-**Access date:** 2026-01-01
 **Title:** At least 7 reportedly killed as Iran protests widen
 **URL:** https://apnews.com/article/iran-protests-economy-israel-us-nuclear-8533eacbc3c502ccc5f5339ae4384399
 
----
+### src_002 — 2news.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-01
+**URL:** https://www.2news.com/news/national/volunteer-in-irans-revolutionary-guard-reportedly-killed-during-widening-protests/article_db6468a1-ba95-5b69-8061-c89df66c7a25.html
 
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*
+### src_003 — accesswdun.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-01
+**URL:** https://accesswdun.com/ap_article/volunteer-in-irans-revolutionary-guard-reportedly-killed-during-widening-protests
+
+### src_004 — andoveradvertiser.co.uk, national_daily, Tier 4, originating
+**Publication date:** 2026-01-01
+**URL:** https://www.andoveradvertiser.co.uk/news/national/25734153.least-six-people-reported-killed-widening-protests-iran/
+
+### src_005 — aol.co.uk, national_daily, Tier 4, originating
+**Publication date:** 2026-01-02
+**URL:** https://www.aol.co.uk/articles/least-7-killed-buildings-damaged-050751950.html
+
+### src_006 — aol.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-01
+**URL:** https://www.aol.com/articles/volunteer-irans-revolutionary-guard-reportedly-054648517.html
+
+### src_007 — apr.org, national_daily, Tier 4, originating
+**Publication date:** 2026-01-02
+**URL:** https://www.apr.org/2026-01-01/deaths-reported-during-widening-protests-in-iran-sparked-by-ailing-economy
+
+### src_008 — arkansasonline.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-02
+**URL:** https://www.arkansasonline.com/news/2026/jan/02/protests-clashes-in-iran-see-at-least-7-killed/
+
+### src_009 — asianimage.co.uk, national_daily, Tier 4, originating
+**Publication date:** 2026-01-01
+**URL:** https://www.asianimage.co.uk/news/national/25734153.least-six-people-reported-killed-widening-protests-iran/
+
+### src_010 — aspenpublicradio.org, national_daily, Tier 4, originating
+**Publication date:** 2026-01-02
+**URL:** https://www.aspenpublicradio.org/2026-01-01/deaths-reported-during-widening-protests-in-iran-sparked-by-ailing-economy
+
+### src_011 — barryanddistrictnews.co.uk, national_daily, Tier 4, originating
+**Publication date:** 2026-01-01
+**URL:** https://www.barryanddistrictnews.co.uk/news/national/25734153.least-three-people-reported-killed-widening-protests-iran/
+
+### src_012 — basingstokegazette.co.uk, national_daily, Tier 4, originating
+**Publication date:** 2026-01-01
+**URL:** https://www.basingstokegazette.co.uk/news/national/25734153.least-six-people-reported-killed-widening-protests-iran/
+
+### src_013 — belfasttelegraph.co.uk, national_daily, Tier 4, originating
+**Publication date:** 2026-01-01
+**URL:** https://www.belfasttelegraph.co.uk/news/world-news/at-least-three-people-reported-killed-during-widening-protests-in-iran/a1502128123.html
+
+### src_014 — bicesteradvertiser.net, national_daily, Tier 4, originating
+**Publication date:** 2026-01-01
+**URL:** https://www.bicesteradvertiser.net/news/national/25734153.least-six-people-reported-killed-widening-protests-iran/
+
+### src_015 — boisestatepublicradio.org, national_daily, Tier 4, originating
+**Publication date:** 2026-01-02
+**URL:** https://www.boisestatepublicradio.org/2026-01-01/deaths-reported-during-widening-protests-in-iran-sparked-by-ailing-economy
+
+### src_016 — bordertelegraph.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-01
+**URL:** https://www.bordertelegraph.com/news/national/25734153.least-six-people-reported-killed-widening-protests-iran/
+
+### src_017 — borehamwoodtimes.co.uk, national_daily, Tier 4, originating
+**Publication date:** 2026-01-01
+**URL:** https://www.borehamwoodtimes.co.uk/news/national/25734153.least-three-people-reported-killed-widening-protests-iran/
+
+### src_018 — bournemouthecho.co.uk, national_daily, Tier 4, originating
+**Publication date:** 2026-01-01
+**URL:** https://www.bournemouthecho.co.uk/news/national/25734153.least-six-people-reported-killed-widening-protests-iran/
+
+### src_019 — bozemandailychronicle.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-01
+**URL:** https://www.bozemandailychronicle.com/ap_news/international/volunteer-in-irans-revolutionary-guard-reportedly-killed-during-widening-protests/article_419a29c1-7f78-5220-a72b-62a7eae89fcf.html
+
+### src_020 — bracknellnews.co.uk, national_daily, Tier 4, originating
+**Publication date:** 2026-01-01
+**URL:** https://www.bracknellnews.co.uk/news/national/25734153.least-three-people-reported-killed-widening-protests-iran/
+
+### src_021 — braintreeandwithamtimes.co.uk, national_daily, Tier 4, originating
+**Publication date:** 2026-01-01
+**URL:** https://www.braintreeandwithamtimes.co.uk/news/national/25734153.least-six-people-reported-killed-widening-protests-iran/

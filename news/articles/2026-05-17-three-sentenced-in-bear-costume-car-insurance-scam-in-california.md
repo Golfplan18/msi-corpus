@@ -19,7 +19,8 @@ topic_tags:
   - "crime, law and justice"
   - crime
   - prosecution
-storyline_nexus: []
+storyline_nexus:
+- los-angeles-wildfire-recovery
 geographic_location: California, United States
 floor_values_engaged:
 - value: informed_citizenship
@@ -82,106 +83,126 @@ Two Los Angeles-area men and a woman pleaded no contest to felony insurance frau
 
 The scam was plausible because bears are increasingly common in California. From the Sierra Nevada mountains near Lake Tahoe to the foothills of Los Angeles, the animals have been documented raiding refrigerators, swimming in backyard pools and hot tubs, and causing property damage while searching for food.
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** three residents; California
-**Predicate:** sentenced_for
-**Object:** felony insurance fraud (criminal_conviction)
-**Temporal:** 2026-04-18
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** three residents; California
+- **Predicate:** sentenced_for
+- **Object:** felony insurance fraud (criminal_conviction)
+- **Temporal:** 2026-04-18
+- **Sources:** src_001
 
 > Three California residents were sentenced for felony insurance fraud.
 
-### c_002 — attributed, single source
-**Subject entities:** the group; bear costume
-**Predicate:** used_to_stage
-**Object:** fake attacks on vehicles (fraud_scheme)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** the group; bear costume
+- **Predicate:** used_to_stage
+- **Object:** fake attacks on vehicles (fraud_scheme)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > They used a person in a bear costume to stage fake attacks on luxury vehicles.
 
-### c_003 — attributed, single source
-**Subject entities:** Rolls-Royce; Mercedes-Benz
-**Predicate:** targeted
-**Object:** three luxury vehicles (vehicle_targets)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Rolls-Royce; Mercedes-Benz
+- **Predicate:** targeted
+- **Object:** three luxury vehicles (vehicle_targets)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > The scheme targeted a Rolls-Royce and two Mercedes-Benz vehicles.
 
-### c_004 — attributed, single source
-**Subject entities:** the group
-**Predicate:** submitted
-**Object:** $142,000 in fraudulent claims (fraud_amount)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** the group
+- **Predicate:** submitted
+- **Object:** $142,000 in fraudulent claims (fraud_amount)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > They submitted fraudulent insurance claims seeking nearly $142,000.
 
-### c_005 — attributed, single source
-**Subject entities:** California Insurance Department
-**Predicate:** named
-**Object:** Operation Bear Claw (operation_name)
-**Temporal:** 2026-04-18
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** California Insurance Department
+- **Predicate:** named
+- **Object:** Operation Bear Claw (operation_name)
+- **Temporal:** 2026-04-18
+- **Sources:** src_001
 
 > The California Insurance Department called the scheme "Operation Bear Claw."
 
-### c_006 — attributed, single source
-**Subject entities:** two men; one woman; Los Angeles area
-**Predicate:** pleaded_no_contest
-**Object:** felony insurance fraud charges (legal_plea)
-**Temporal:** 2026-04-18
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** two men; one woman; Los Angeles area
+- **Predicate:** pleaded_no_contest
+- **Object:** felony insurance fraud charges (legal_plea)
+- **Temporal:** 2026-04-18
+- **Sources:** src_001
 
 > Two Los Angeles-area men and a woman pleaded no contest to felony insurance fraud.
 
-### c_007 — attributed, single source
-**Subject entities:** the defendants
-**Predicate:** sentenced_to
-**Object:** weekend jail program and probation (sentence)
-**Temporal:** 2026-04-18
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** the defendants
+- **Predicate:** sentenced_to
+- **Object:** weekend jail program and probation (sentence)
+- **Temporal:** 2026-04-18
+- **Sources:** src_001
 
 > They received weekend jail programs followed by probation.
 
-### c_008 — attributed, single source
-**Subject entities:** two defendants
-**Predicate:** ordered_to_pay
-**Object:** $50,000 restitution (restitution)
-**Temporal:** 2026-04-18
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** two defendants
+- **Predicate:** ordered_to_pay
+- **Object:** $50,000 restitution (restitution)
+- **Temporal:** 2026-04-18
+- **Sources:** src_001
 
 > Two of the sentenced individuals were ordered to pay over $50,000 in restitution.
 
-### c_009 — attributed, single source
-**Subject entities:** fourth person
-**Predicate:** faces
-**Object:** court hearing in September (pending_legal_proceeding)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** fourth person
+- **Predicate:** faces
+- **Object:** court hearing in September (pending_legal_proceeding)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > A fourth person faces a court hearing in September.
 
-### c_010 — attributed, single source
-**Subject entities:** California Department of Fish and Wildlife; biologist
-**Predicate:** reviewed_and_determined
-**Object:** human in a bear suit (expert_determination)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** California Department of Fish and Wildlife; biologist
+- **Predicate:** reviewed_and_determined
+- **Object:** human in a bear suit (expert_determination)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > A California Department of Fish and Wildlife biologist reviewed the footage and concluded it was clearly a human in a bear suit.
 
-### c_011 — attributed, single source
-**Subject entities:** detectives; suspects
-**Predicate:** found
-**Object:** bear costume (physical_evidence)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** detectives; suspects
+- **Predicate:** found
+- **Object:** bear costume (physical_evidence)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > After executing a search warrant, detectives found the bear costume in the suspects' home.
 
@@ -192,7 +213,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-05-17
 **Title:** 3 sentenced after bear costume used in $142K luxury car insurance scam
 **URL:** https://apnews.com/article/bear-costume-car-insurance-scam-california-82e9247986234163110e2eb0428d5283
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

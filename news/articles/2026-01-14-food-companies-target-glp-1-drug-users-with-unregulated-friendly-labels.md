@@ -19,42 +19,43 @@ primary_themes:
 - nutrition
 - food industry marketing
 topic_tags:
-  - "crime, law and justice"
-  - "market and exchange"
-  - "economy, business and finance"
-  - trial
-storyline_nexus: []
+- health
+- consumer goods
+- government policy
+- public health
+storyline_nexus:
+- trump-health-policy-rfk
 geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.8
 - value: truthfulness
-  intensity: 0.6
+  intensity: 0.9
+- value: informed_citizenship
+  intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.5
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T06:59:21Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:44:53Z'
 source_cluster_id: cluster_ap_2026-01-13_weightloss-drugs-nutrition-frozen-meals-
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 11
   hedges:
-    appears: 0
-    alleged: 0
     attributed: 8
+    alleged: 0
     reported: 2
     contested: 0
+    appears: 0
     confirmed: 1
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 0
     single_source: 11
     two_independent: 0
+    primary_document: 0
+    one_originating_plus_primary_document: 0
+    primary_plus_secondary: 0
 sources:
   count: 1
   outlets:
@@ -72,13 +73,19 @@ image:
   url: /articles/2026-01-14-food-companies-target-glp-1-drug-users-with-unregulated-friendly-labels.png
   alt: 'Illustration accompanying article: Food companies target GLP-1 drug users with unregulated ''friendly'' labels'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-08-eco-friendly-toilet-paper-options-vary-widely-in-environmental-impact-experts-sa
-  relation: related
-  strength: 0.6122
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Food companies market unregulated "GLP-1 Friendly" labels to attract the growing population of weight-loss drug users.
+- 'GLP-1 Friendly' labels on food packaging are not regulated by the U.S. Food and Drug Administration.
+- About 12% of U.S. adults were taking GLP-1 medications as of November to lose weight or treat a chronic condition like diabetes, according to a Kaiser Family Foundation study.
+- The USDA's Food Safety and Inspection Service approved 'GLP-1 Friendly' labels for Nestlé and Conagra Brands but stated there is no regulatory standard for the term.
+- Nestlé launched its Vital Pursuit frozen meal brand in fall 2024 and added the 'GLP-1 Friendly' label after customers said it would help them identify suitable products, according to Jennifer Barnes, vice president of brand marketing for Nestlé's frozen meals.
 
 Food companies are affixing "GLP-1 Friendly" labels to frozen meals, smoothies and snacks to court the growing number of Americans on weight-loss drugs — but the labels carry no regulatory standard, and dietitians warn that the marketing can mislead consumers about what the products actually provide.
 
@@ -126,102 +133,124 @@ Christen said she hopes foods carrying a "GLP-1 Friendly" label are truly nutrie
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** GLP-1 Friendly labels; FDA
-**Predicate:** not_regulated_by
-**Object:** unregulated (regulatory_status)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** GLP-1 Friendly labels; FDA
+- **Predicate:** not_regulated_by
+- **Object:** unregulated (regulatory_status)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > 'GLP-1 Friendly' labels on food packaging are not regulated by the U.S. Food and Drug Administration.
 
-### c_002 — reported, single source
-**Subject entities:** U.S. adults; GLP-1 medications
-**Predicate:** taking_medication
-**Object:** 12% (percentage)
-**Temporal:** 2025-11
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** U.S. adults; GLP-1 medications
+- **Predicate:** taking_medication
+- **Object:** 12% (percentage)
+- **Temporal:** 2025-11
+- **Sources:** src_001
 
 > About 12% of U.S. adults were taking GLP-1 medications as of November to lose weight or treat a chronic condition like diabetes, according to a Kaiser Family Foundation study.
 
-### c_003 — attributed, single source
-**Subject entities:** USDA FSIS; Nestlé; Conagra Brands
-**Predicate:** approved_without_standard
-**Object:** GLP-1 Friendly (label)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** USDA FSIS; Nestlé; Conagra Brands
+- **Predicate:** approved_without_standard
+- **Object:** GLP-1 Friendly (label)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > The USDA's Food Safety and Inspection Service approved 'GLP-1 Friendly' labels for Nestlé and Conagra Brands but stated there is no regulatory standard for the term.
 
-### c_004 — attributed, single source
-**Subject entities:** Nestlé; Vital Pursuit; Jennifer Barnes
-**Predicate:** launched_and_labeled
-**Object:** fall 2024 (date)
-**Temporal:** 2024-10
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Nestlé; Vital Pursuit; Jennifer Barnes
+- **Predicate:** launched_and_labeled
+- **Object:** fall 2024 (date)
+- **Temporal:** 2024-10
+- **Sources:** src_001
 
 > Nestlé launched its Vital Pursuit frozen meal brand in fall 2024 and added the 'GLP-1 Friendly' label after customers said it would help them identify suitable products, according to Jennifer Barnes, vice president of brand marketing for Nestlé's frozen meals.
 
-### c_005 — attributed, single source
-**Subject entities:** Vital Pursuit; Jennifer Barnes
-**Predicate:** sold_to_non_users
-**Object:** 77% (percentage)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Vital Pursuit; Jennifer Barnes
+- **Predicate:** sold_to_non_users
+- **Object:** 77% (percentage)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Seventy-seven percent of Vital Pursuit sales come from households where no one is using GLP-1 drugs, according to Jennifer Barnes.
 
-### c_006 — attributed, single source
-**Subject entities:** Conagra Brands; Healthy Choice
-**Predicate:** added_label
-**Object:** 26 products (count)
-**Temporal:** 2025-01
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Conagra Brands; Healthy Choice
+- **Predicate:** added_label
+- **Object:** 26 products (count)
+- **Temporal:** 2025-01
+- **Sources:** src_001
 
 > Conagra Brands added a 'GLP-1 Friendly' label to 26 of its Healthy Choice frozen meals in early 2025.
 
-### c_007 — attributed, single source
-**Subject entities:** Shannon Christen; GLP-1 users
-**Predicate:** reduced_intake
-**Object:** 50% (percentage)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Shannon Christen; GLP-1 users
+- **Predicate:** reduced_intake
+- **Object:** 50% (percentage)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > GLP-1 users can expect to eat around 50% less than before starting the medications, said Shannon Christen, a dietitian and diabetes educator with UCHealth University of Colorado Hospital.
 
-### c_008 — attributed, single source
-**Subject entities:** Shannon Christen
-**Predicate:** recommends
-**Object:** 20-30g protein per meal (dietary_recommendation)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Shannon Christen
+- **Predicate:** recommends
+- **Object:** 20-30g protein per meal (dietary_recommendation)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Christen generally recommends GLP-1 patients eat 20 to 30 grams of protein per meal, or 1.2 grams per kilogram of body weight daily.
 
-### c_009 — attributed, single source
-**Subject entities:** USDA; Samantha Snashall
-**Predicate:** recommends_fiber
-**Object:** 14g per 1000 calories (dietary_recommendation)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** USDA; Samantha Snashall
+- **Predicate:** recommends_fiber
+- **Object:** 14g per 1000 calories (dietary_recommendation)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > The USDA recommends about 14 grams of fiber per 1,000 calories consumed daily, according to Samantha Snashall, a registered dietitian at Ohio State University's Wexner Medical Center.
 
-### c_010 — confirmed, single source
-**Subject entities:** Nestlé; Vital Pursuit Cauliflower Crust Three Meat Pizza
-**Predicate:** contains
-**Object:** 400 calories; 18g fat; 40% sodium RDV (nutrition_facts)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Nestlé; Vital Pursuit Cauliflower Crust Three Meat Pizza
+- **Predicate:** contains
+- **Object:** 400 calories; 18g fat; 40% sodium RDV (nutrition_facts)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Vital Pursuit's Cauliflower Crust Three Meat Pizza contains 400 calories and 32% of the recommended daily protein, but also 40% of the recommended daily sodium and saturated fat, and 18 grams of fat.
 
-### c_011 — reported, single source
-**Subject entities:** Smoothie King; Krispy Kreme
-**Predicate:** contains_more_than
-**Object:** calories, sodium, cholesterol vs original glazed donut (nutrition_comparison)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Smoothie King; Krispy Kreme
+- **Predicate:** contains_more_than
+- **Object:** calories, sodium, cholesterol vs original glazed donut (nutrition_comparison)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Smoothie King's 20-ounce Gladiator GLP-1 Vanilla smoothie contains more calories, sodium and cholesterol than an original glazed donut from Krispy Kreme.
 
@@ -230,10 +259,5 @@ Christen said she hopes foods carrying a "GLP-1 Friendly" label are truly nutrie
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Dee-Ann Durbin
 **Publication date:** 2026-01-14
-**Access date:** 2026-01-14
 **Title:** What to know about packaged foods aimed at users of weight-loss drugs
 **URL:** https://apnews.com/article/weightloss-drugs-nutrition-frozen-meals-glp1-5bb5dfaae3778b1968c1793326e8ba73
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

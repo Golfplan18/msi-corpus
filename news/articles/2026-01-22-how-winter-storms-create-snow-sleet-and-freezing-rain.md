@@ -13,37 +13,40 @@ primary_themes:
 - atmospheric_science
 - public_safety
 topic_tags:
-  - "artificial intelligence"
-  - "science and technology"
+- weather
+- weather forecast
+- weather warning
 storyline_nexus:
-  - us-winter-storm-january-2026
+- extreme-weather-disasters
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship
-  intensity: 0.85
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+  intensity: 0.9
+- value: truthfulness
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:28:20Z'
 source_cluster_id: cluster_ap_2026-01-23_freezing-rain-cold-snow-winter-weather-s
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 9
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 7
-    reported: 0
-    contested: 0
     confirmed: 2
+    alleged: 0
+    reported: 0
+    attributed: 7
+    contested: 0
+    appears: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 2
-    single_source: 7
     two_independent: 0
+    primary_document: 2
+    one_originating_plus_primary_document: 0
+    primary_plus_secondary: 0
+    single_source: 7
 sources:
   count: 1
   outlets:
@@ -61,37 +64,16 @@ image:
   url: /articles/2026-01-22-how-winter-storms-create-snow-sleet-and-freezing-rain.png
   alt: 'Illustration accompanying article: How winter storms create snow, sleet and freezing rain'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-07-ice-and-snow-close-schools-across-new-england-as-more-storms-approach
-  relation: related
-  strength: 0.8056
-  confidence: medium
-- slug: 2026-01-13-freezing-rain-halts-flights-at-vienna-budapest-prague-and-bratislava-airports
-  relation: related
-  strength: 0.7671
-  confidence: medium
-- slug: 2025-12-29-how-intense-winter-storms-become-bomb-cyclones
-  relation: related
-  strength: 0.8357
-  confidence: medium
-- slug: 2025-12-29-meteorologists-explain-how-bomb-cyclones-form-and-why-they-are-dangerous
-  relation: related
-  strength: 0.8282
-  confidence: medium
-- slug: 2026-01-06-snow-and-ice-kill-at-least-6-across-europe-grounding-600-schiphol-flights
-  relation: related
-  strength: 0.7739
-  confidence: medium
-- slug: 2026-01-07-winter-storm-strands-more-than-1-000-at-amsterdam-s-schiphol-grounds-800-flights
-  relation: related
-  strength: 0.7328
-  confidence: medium
-- slug: 2026-01-13-winter-storms-kill-5-in-gaza-as-shelter-shortfall-persists-under-ceasefire
-  relation: related
-  strength: 0.6961
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- Understanding these precipitation types helps explain why weather forecasts distinguish between them and why some conditions are particularly dangerous. Freezing rain, for instance, poses greater h...
+- When major winter storms move in, they bring snow, sleet, freezing rain or extreme cold — but which type reaches the ground depends on how the atmo...
+- Snow forms when cold air extends consistently from the clouds to the surface. "The further north, the deeper that Arctic layer is, the more likely ...
 
 Understanding these precipitation types helps explain why weather forecasts distinguish between them and why some conditions are particularly dangerous. Freezing rain, for instance, poses greater hazards than snow because it creates icy road surfaces and can snap power lines under accumulated weight.
 
@@ -119,84 +101,102 @@ When temperatures and wind chills drop to dangerous levels, the National Weather
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** snow; cold_air
-**Predicate:** requires
-**Object:** consistent cold air from cloud to ground (atmospheric_condition)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** snow; cold_air
+- **Predicate:** requires
+- **Object:** consistent cold air from cloud to ground (atmospheric_condition)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Snow requires consistent cold air from cloud formation to ground to avoid melting and refreezing into ice.
 
-### c_002 — attributed, single source
-**Subject entities:** Arctic_layer; northern_regions
-**Predicate:** supports
-**Object:** snow precipitation (weather_outcome)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Arctic_layer; northern_regions
+- **Predicate:** supports
+- **Object:** snow precipitation (weather_outcome)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > The Arctic layer is deeper further north, making snow more likely in northern regions.
 
-### c_003 — attributed, single source
-**Subject entities:** sleet; snowflakes
-**Predicate:** forms_from
-**Object:** melt-refreeze cycle through layered atmosphere (meteorological_process)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** sleet; snowflakes
+- **Predicate:** forms_from
+- **Object:** melt-refreeze cycle through layered atmosphere (meteorological_process)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Sleet forms when snowflakes pass through a warm air layer, melt, then refreeze in a cold layer near the surface.
 
-### c_004 — attributed, single source
-**Subject entities:** freezing_rain; raindrops
-**Predicate:** forms_from
-**Object:** shallow cold layer near surface (meteorological_process)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** freezing_rain; raindrops
+- **Predicate:** forms_from
+- **Object:** shallow cold layer near surface (meteorological_process)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Freezing rain forms when raindrops fall through cold air and freeze on contact with the ground rather than refreezing in the air.
 
-### c_005 — attributed, single source
-**Subject entities:** graupel
-**Predicate:** is_form_of
-**Object:** partially melted snow (precipitation_type)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** graupel
+- **Predicate:** is_form_of
+- **Object:** partially melted snow (precipitation_type)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Graupel is an intermediate form between snow and sleet where snow has partially melted but retains its crystalline shape.
 
-### c_006 — attributed, single source
-**Subject entities:** hail
-**Predicate:** forms_in
-**Object:** summer storms with warm surface air (seasonal_occurrence)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** hail
+- **Predicate:** forms_in
+- **Object:** summer storms with warm surface air (seasonal_occurrence)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Hail typically forms in summer storms, not winter storms, because it requires warmer surface air that creates updrafts.
 
-### c_007 — attributed, single source
-**Subject entities:** freezing_rain
-**Predicate:** is_most_devastating
-**Object:** creates skating rinks and threatens power infrastructure (hazard_assessment)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** freezing_rain
+- **Predicate:** is_most_devastating
+- **Object:** creates skating rinks and threatens power infrastructure (hazard_assessment)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Freezing rain is the most devastating winter precipitation because it creates icy road surfaces and can bring down power lines.
 
-### c_008 — confirmed, primary document
-**Subject entities:** National_Weather_Service
-**Predicate:** issues
-**Object:** cold weather advisory (alert_level)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** National_Weather_Service
+- **Predicate:** issues
+- **Object:** cold weather advisory (alert_level)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > The National Weather Service issues cold weather advisories when dangerous temperatures and wind chills are likely.
 
-### c_009 — confirmed, primary document
-**Subject entities:** extreme_cold_watch; extreme_cold_warning
-**Predicate:** indicates
-**Object:** possible vs likely life-threatening conditions (alert_severity)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** extreme_cold_watch; extreme_cold_warning
+- **Predicate:** indicates
+- **Object:** possible vs likely life-threatening conditions (alert_severity)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > An extreme cold watch means life-threatening weather is possible; an extreme cold warning means life-threatening weather is likely.
 
@@ -205,10 +205,5 @@ When temperatures and wind chills drop to dangerous levels, the National Weather
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Caleigh Wells
 **Publication date:** 2026-01-22
-**Access date:** 2026-01-22
 **Title:** Big storms can drop snow, sleet or freezing rain varying by place
 **URL:** https://apnews.com/article/freezing-rain-cold-snow-winter-weather-storm-e0cb4200052f586b892f23ef05bec13a
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

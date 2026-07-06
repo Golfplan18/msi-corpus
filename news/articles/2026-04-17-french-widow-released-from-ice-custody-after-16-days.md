@@ -22,7 +22,7 @@ topic_tags:
   - politics
   - "science and technology"
 storyline_nexus:
-  - immigration-enforcement
+- us-immigration-enforcement
 geographic_location: Alabama, Louisiana, United States; France
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -314,7 +314,3 @@ Willingham said Ross had "done everything she was supposed to do with regard to 
 **Access date:** 2026-05-17
 **Title:** French widow Marie-Thérèse Ross returns home after US immigration custody
 **URL:** https://apnews.com/article/ice-immigration-85-french-woman-military-fa5c151b4a250e1e5c73a625d6cab2a5
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

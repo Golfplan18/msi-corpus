@@ -22,7 +22,7 @@ topic_tags:
   - "conflict, war and peace"
   - "peace process"
 storyline_nexus:
-  - russia-ukraine-war
+- ukraine-war-peace-negotiations
 geographic_location: Ukraine, Russia, United States, United Arab Emirates
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -303,7 +303,3 @@ Ukrainian Foreign Minister Andrii Sybiha said on social media that Putin had ord
 **Access date:** 2026-05-17
 **Title:** Zelenskyy says talks with Russia and US were constructive
 **URL:** https://apnews.com/article/russia-ukraine-trump-putin-witkoff-kushner-zelenskyy-a77eadb50780c3d22882c42ea4764a54
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

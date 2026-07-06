@@ -24,7 +24,7 @@ topic_tags:
   - education
   - "education policy"
 storyline_nexus:
-  - iran-war
+- the-iran-war
 geographic_location: Iran, Middle East
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -226,7 +226,3 @@ American and Iranian negotiators are set to hold another round of indirect talks
 **Access date:** 2026-02-24
 **Title:** Iran sees more anti-government protests as US forces mass in Mideast
 **URL:** https://apnews.com/article/iran-us-protests-students-nuclear-khamenei-096e7ede9bc9c1e7b889878af9d6e750
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

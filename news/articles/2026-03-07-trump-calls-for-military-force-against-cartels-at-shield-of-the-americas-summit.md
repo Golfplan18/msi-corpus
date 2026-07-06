@@ -23,7 +23,7 @@ primary_themes:
 topic_tags:
   - "conflict, war and peace"
 storyline_nexus:
-  - ai-regulation
+- mexico-cartel-violence
 geographic_location: Doral, Florida; Latin America; Middle East
 floor_values_engaged:
 - value: informed_citizenship
@@ -326,7 +326,3 @@ After Trump departed for Delaware, Secretary of State Marco Rubio hosted the ass
 **Access date:** 2026-03-07
 **Title:** Trump urges Latin American leaders to use military action against cartels
 **URL:** https://apnews.com/article/trump-iran-latin-america-china-d1cbf9af62f10e0644770f2e2b2bd791
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

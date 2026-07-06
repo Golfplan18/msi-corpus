@@ -1,6 +1,5 @@
 ---
 headline: OpenAI pivots to business customers as Anthropic rivalry intensifies
-slug: 2026-04-16-openai-pivots-to-business-customers-as-anthropic-rivalry-intensifies
 publish_date: '2026-04-16'
 lede: OpenAI said Thursday it is redirecting resources from consumer products toward corporate clients and a forthcoming enterprise-grade AI model, citing sharpening competition with rival Anthropic for business accounts. Chief Financial Officer Sarah Friar said business customers now account for about 40 percent of OpenAI's revenue, up from roughly 20 percent when she joined the company in 2024, and she expects them to reach half of all sales by year's end. The shift arrived the same day both companies released new AI models, escalating a race that each firm says it is winning.
 nut_graf: Both OpenAI, valued at $852 billion, and Anthropic, valued at $380 billion, lose more money than they generate, placing the two San Francisco-based AI research labs under mounting pressure to convert free or low-cost users into revenue-bearing enterprise clients before their cash positions force a reckoning.
@@ -18,26 +17,23 @@ primary_themes:
 - AI_industry_competition
 - technology_business_strategy
 topic_tags:
-  - "artificial intelligence"
-  - "competition discipline"
-  - "economy, business and finance"
-  - "science and technology"
-  - sport
-  - "technology and engineering"
+- computing and information technology
+- artificial intelligence
+- business information
+- economy, business and finance
+- science and technology
 storyline_nexus:
-  - ai-regulation
+- ai-industry-regulation
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship
-  intensity: 0.72
-- value: accountability_of_power
-  intensity: 0.38
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T08:23:47Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T01:02:56Z'
 source_cluster_id: cluster_ap_2026-04-17_openai-chatgpt-spud-sam-altman-anthropic
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
@@ -45,16 +41,16 @@ claims:
   hedges:
     appears: 0
     alleged: 0
-    attributed: 8
-    reported: 4
-    contested: 0
     confirmed: 0
+    attributed: 8
+    contested: 0
+    reported: 4
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 0
     single_source: 12
     two_independent: 0
+    primary_plus_secondary: 0
+    one_originating_plus_primary_document: 0
 sources:
   count: 1
   outlets:
@@ -68,17 +64,17 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-13-microsoft-s-brad-smith-tells-congress-big-tech-must-pay-ai-data-center-costs
-  relation: related
-  strength: 0.7004
-  confidence: medium
-- slug: 2026-01-06-california-s-ai-tax-windfall-masks-job-losses-and-bubble-risk-analysts-warn
-  relation: related
-  strength: 0.7057
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- OpenAI said Thursday it is redirecting resources from consumer products toward corporate clients and a forthcoming enterprise-grade AI mo…
+- Both OpenAI, valued at $852 billion, and Anthropic, valued at $380 billion, lose more money than they generate, placing the two San Franc…
+- "You'll see a new model coming from us in short order. We feel very excited about it," Friar said in an interview with The Associated Press.
+- OpenAI boasts more than 900 million weekly users of its ChatGPT product. Friar said about 95 percent of those users pay nothing, making t…
 
 OpenAI said Thursday it is redirecting resources from consumer products toward corporate clients and a forthcoming enterprise-grade AI model, citing sharpening competition with rival Anthropic for business accounts. Chief Financial Officer Sarah Friar said business customers now account for about 40 percent of OpenAI's revenue, up from roughly 20 percent when she joined the company in 2024, and she expects them to reach half of all sales by year's end. The shift arrived the same day both companies released new AI models, escalating a race that each firm says it is winning.
 
@@ -138,111 +134,135 @@ Zitron also challenged the premise that public stock listings would resolve the 
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** OpenAI; ChatGPT
-**Predicate:** has_users
-**Object:** 900 million weekly; ~95% unpaid (user_count)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** OpenAI; ChatGPT
+- **Predicate:** has_users
+- **Object:** 900 million weekly; ~95% unpaid (user_count)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > OpenAI has more than 900 million weekly users of its ChatGPT product; approximately 95 percent pay nothing.
 
-### c_002 — attributed, single source
-**Subject entities:** OpenAI; Sarah Friar
-**Predicate:** revenue_share_change
-**Object:** 20% in 2024, now ~40% (percentage)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** OpenAI; Sarah Friar
+- **Predicate:** revenue_share_change
+- **Object:** 20% in 2024, now ~40% (percentage)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > Business customers accounted for about 20 percent of OpenAI's revenue when Sarah Friar joined in 2024 as CFO and now account for about 40 percent.
 
-### c_003 — reported, single source
-**Subject entities:** OpenAI; Anthropic
-**Predicate:** valuation_and_profitability_status
-**Object:** OpenAI $852B, Anthropic $380B, both unprofitable (financial_data)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** OpenAI; Anthropic
+- **Predicate:** valuation_and_profitability_status
+- **Object:** OpenAI $852B, Anthropic $380B, both unprofitable (financial_data)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > OpenAI is valued at $852 billion and Anthropic is valued at $380 billion; both companies lose more money than they make.
 
-### c_004 — attributed, single source
-**Subject entities:** OpenAI
-**Predicate:** is_developing
-**Object:** model codenamed Spud (product)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** OpenAI
+- **Predicate:** is_developing
+- **Object:** model codenamed Spud (product)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > OpenAI is developing a new AI model codenamed Spud, which OpenAI describes as its smartest model yet, offering stronger reasoning, better understanding of intent and dependencies, better follow-through, and more reliable output in production.
 
-### c_005 — attributed, single source
-**Subject entities:** Anthropic; Claude Mythos
-**Predicate:** released_with_restriction
-**Object:** Claude Mythos, restricted access, cybersecurity capability claim (product)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Anthropic; Claude Mythos
+- **Predicate:** released_with_restriction
+- **Object:** Claude Mythos, restricted access, cybersecurity capability claim (product)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > Anthropic released a model called Claude Mythos, which Anthropic claims is so capable that it is restricting access to select customers because of its apparent ability to surpass human cybersecurity experts in finding or exploiting computer vulnerabilities.
 
-### c_006 — attributed, single source
-**Subject entities:** Anthropic
-**Predicate:** released
-**Object:** Opus 4.7 (product)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Anthropic
+- **Predicate:** released
+- **Object:** Opus 4.7 (product)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > Anthropic also released Opus 4.7 on Thursday, which Anthropic describes as its most powerful generally available model.
 
-### c_007 — reported, single source
-**Subject entities:** OpenAI; Rosalind Franklin
-**Predicate:** released
-**Object:** GPT-Rosalind, life sciences (product)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** OpenAI; Rosalind Franklin
+- **Predicate:** released
+- **Object:** GPT-Rosalind, life sciences (product)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > OpenAI released GPT-Rosalind, named after scientist Rosalind Franklin, a specialized model designed to advance drug discovery and other life sciences research.
 
-### c_008 — attributed, single source
-**Subject entities:** Anthropic; OpenAI; Amazon; Google
-**Predicate:** reported_contested_revenue
-**Object:** $30 billion annualized, disputed by OpenAI executives (financial_figure)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Anthropic; OpenAI; Amazon; Google
+- **Predicate:** reported_contested_revenue
+- **Object:** $30 billion annualized, disputed by OpenAI executives (financial_figure)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > Anthropic said its annualized revenues reached $30 billion, a figure that OpenAI's CFO and CRO suggested is inflated because it does not account for revenue shared with cloud providers Amazon and Google.
 
-### c_009 — attributed, single source
-**Subject entities:** Luke Emberson; Epoch AI; Anthropic; OpenAI
-**Predicate:** assessed_competitive_position
-**Object:** Anthropic growing faster; revenues likely converging (analyst_assessment)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Luke Emberson; Epoch AI; Anthropic; OpenAI
+- **Predicate:** assessed_competitive_position
+- **Object:** Anthropic growing faster; revenues likely converging (analyst_assessment)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > Luke Emberson, a researcher at nonprofit institute Epoch AI, said the trends show Anthropic is growing much faster than OpenAI and that the two companies are likely quite close in revenue.
 
-### c_010 — reported, single source
-**Subject entities:** OpenAI; Denise Dresser; Slack
-**Predicate:** hired
-**Object:** Denise Dresser as first chief revenue officer (personnel_action)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** OpenAI; Denise Dresser; Slack
+- **Predicate:** hired
+- **Object:** Denise Dresser as first chief revenue officer (personnel_action)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > OpenAI hired Denise Dresser, then CEO of Slack, as its first chief revenue officer approximately three months before April 2026.
 
-### c_011 — reported, single source
-**Subject entities:** OpenAI; Sora
-**Predicate:** discontinued
-**Object:** Sora consumer app (product_decision)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** OpenAI; Sora
+- **Predicate:** discontinued
+- **Object:** Sora consumer app (product_decision)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > OpenAI discontinued the AI video generator app Sora as part of its resource reallocation toward enterprise products.
 
-### c_012 — attributed, single source
-**Subject entities:** Ed Zitron; Anthropic; OpenAI
-**Predicate:** described_service_constraints
-**Object:** rate limits, tiered service, premium payers advantaged (business_practice)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ed Zitron; Anthropic; OpenAI
+- **Predicate:** described_service_constraints
+- **Object:** rate limits, tiered service, premium payers advantaged (business_practice)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > Ed Zitron, author and AI critic, said Anthropic has imposed rate limits on heavy users and both companies have set up service tiers that reward premium payers.
 
@@ -251,10 +271,5 @@ Zitron also challenged the premise that public stock listings would resolve the 
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Matt O'Brien
 **Publication date:** 2026-04-16
-**Access date:** 2026-04-16
 **Title:** OpenAI shifts focus to business-oriented products for profitability
 **URL:** https://apnews.com/article/openai-chatgpt-spud-sam-altman-anthropic-mythos-3c2674f5cdf67ac6d88eedb207de117c
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

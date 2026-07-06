@@ -17,46 +17,45 @@ primary_themes:
 - housing relocation
 - federal workforce reductions
 topic_tags:
-  - politics
-  - health
-  - "government policy"
-  - "economy, business and finance"
-  - "construction and property"
-  - "disease and condition"
-storyline_nexus: []
-geographic_location: Nevada, United States
+- government policy
+- economy
+- epidemic and pandemic
+- construction and property
+storyline_nexus:
+- housing-affordability-crisis
+geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.85
 - value: accountability_of_power
-  intensity: 0.6
-framework_version: 1.1.0
-generation_timestamp: '2026-01-16T00:00:00Z'
+  intensity: 0.9
+- value: informed_citizenship
+  intensity: 0.9
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:19:54Z'
 source_cluster_id: cluster_ap_2026-01-17_nevada-general-news-55c87882af9b61a8cf09
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 14
   hedges:
-    appears: 0
     alleged: 0
     attributed: 2
-    reported: 11
     contested: 0
+    appears: 0
+    reported: 11
     confirmed: 1
   corroboration:
     primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
-    primary_document: 1
-    single_source: 13
     two_independent: 0
+    single_source: 13
+    primary_document: 1
 sources:
   count: 1
   outlets:
-  - Associated Press / Nevada Independent
+  - Associated Press
   outlet_classes:
   - wire
   highest_reliability_tier: 1
@@ -66,41 +65,20 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-09-california-projects-2-9-billion-deficit-in-newsom-s-final-year-as-governor
-  relation: related
-  strength: 0.7976
-  confidence: medium
-- slug: 2026-01-06-west-virginia-s-abandoned-building-demolition-fund-is-spent-with-no-replacement-
-  relation: related
-  strength: 0.8053
-  confidence: medium
-- slug: 2026-01-09-trump-administration-approves-nevada-s-170m-broadband-plan-after-earlier-resciss
-  relation: continues
-  strength: 0.778
-  confidence: high
-- slug: 2026-01-09-michigan-employer-housing-fund-runs-dry-after-detroit-kalamazoo-approvals
-  relation: related
-  strength: 0.7603
-  confidence: medium
-- slug: 2026-01-10-judge-blocks-trump-child-care-funding-freeze-for-five-democratic-states
-  relation: related
-  strength: 0.7398
-  confidence: medium
-- slug: 2026-01-08-georgia-foster-care-agency-faces-85m-deficit-while-state-holds-14b-surplus
-  relation: related
-  strength: 0.7513
-  confidence: medium
-- slug: 2026-01-07-nevada-has-written-off-106-million-in-bad-debt-since-2023-controller-says
-  relation: related
-  strength: 0.7547
-  confidence: medium
-- slug: 2026-01-08-hawaii-county-homeless-population-grows-despite-33-million-investment
-  relation: related
-  strength: 0.7429
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Nevada still has big chunk of pandemic funds before ‘use it or lose it’ deadline
+- In total, the state has set aside the $2.7 billion for nearly 400 projects, and about two-thirds of those initiatives have been completed. These add up to about $1 billion spent.
+- These projects make up $300 million of the unspent dollars and include one of the largest uses of the pandemic relief dollars: a massive project to expand broadband capacity throughout rural Nevada.
+- In October, Brian Mitchell, then-director of the Governor’s Office of Science, Innovation and Technology, told lawmakers that the project was “ahead of schedule,” The Nevada Current reported.
+- “Are we going to be able to get these projects done by Dec. 31, 2026? The answer is yes,” Mitchell said.
+- But the agency said the project is on track to be completed by the end of the year, according to meeting materials.
 
 Nevada state agencies had not yet spent more than $700 million of the $2.7 billion in flexible pandemic relief funds the state received in 2021, with roughly one year remaining before unspent dollars must revert to the federal government, according to information presented to state lawmakers at a December meeting. Two of the largest projects still outstanding — a $203 million rural broadband expansion and a $25 million effort to relocate residents from a sinking North Las Vegas neighborhood — have each spent a fraction of their allocated funds.
 
@@ -138,141 +116,164 @@ The Las Vegas Review-Journal reported in October that construction had begun on 
 
 ## Atomic claims
 
-### c_001 — reported, single source
-**Subject entities:** Nevada
-**Predicate:** has_unspent
-**Object:** $700 million of $2.7 billion (dollar_amount)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Nevada
+- **Predicate:** has_unspent
+- **Object:** $700 million of $2.7 billion (dollar_amount)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > As of December 2025, Nevada had not spent more than $700 million of the $2.7 billion in ARPA funds allocated in 2021.
 
-### c_002 — confirmed, primary document
-**Subject entities:** ARPA funds
-**Predicate:** must_be_spent_by
-**Object:** December 31, 2026 (statutory_deadline)
-**Temporal:** 2026-12-31
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** ARPA funds
+- **Predicate:** must_be_spent_by
+- **Object:** December 31, 2026 (statutory_deadline)
+- **Temporal:** 2026-12-31
+- **Sources:** src_001
 
 > ARPA funds not spent by December 31, 2026 will revert to the federal government.
 
-### c_003 — reported, single source
-**Subject entities:** Nevada
-**Predicate:** allocated_and_spent
-**Object:** $2.7 billion; ~400 projects; ~$1 billion spent (spending_status)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Nevada
+- **Predicate:** allocated_and_spent
+- **Object:** $2.7 billion; ~400 projects; ~$1 billion spent (spending_status)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > Nevada set aside $2.7 billion for nearly 400 projects; about two-thirds have been completed, adding up to roughly $1 billion spent.
 
-### c_004 — reported, single source
-**Subject entities:** Nevada ARPA projects
-**Predicate:** flagged_for
-**Object:** spending concerns — below 40% spent threshold (status)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Nevada ARPA projects
+- **Predicate:** flagged_for
+- **Object:** spending concerns — below 40% spent threshold (status)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > Twenty projects have been flagged with spending concerns, defined as having spent less than 40 percent of their allocated dollars.
 
-### c_005 — reported, single source
-**Subject entities:** Nevada ARPA projects — flagged 20
-**Predicate:** account_for
-**Object:** $300 million; 8 of 20 with pre-December completion estimates (dollar_amount_and_status)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Nevada ARPA projects — flagged 20
+- **Predicate:** account_for
+- **Object:** $300 million; 8 of 20 with pre-December completion estimates (dollar_amount_and_status)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > The 20 flagged projects account for $300 million of the unspent dollars; only eight have spending completion estimates before December.
 
-### c_006 — reported, single source
-**Subject entities:** Nevada broadband project
-**Predicate:** allocated_and_spent
-**Object:** $203 million allocated; 20% spent as of December 2025 (spending_status)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Nevada broadband project
+- **Predicate:** allocated_and_spent
+- **Object:** $203 million allocated; 20% spent as of December 2025 (spending_status)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > The state approved $203 million for rural broadband infrastructure; only 20 percent had been spent as of December 2025.
 
-### c_007 — reported, single source
-**Subject entities:** Nevada broadband project; Humboldt County
-**Predicate:** duration_comparison
-**Object:** 18 months permitting vs. just over one month construction (duration)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Nevada broadband project; Humboldt County
+- **Predicate:** duration_comparison
+- **Object:** 18 months permitting vs. just over one month construction (duration)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Permitting for a 2-mile broadband route in Humboldt County took 18 months; construction on that segment took just over one month.
 
-### c_008 — attributed, single source
-**Subject entities:** Brian Mitchell
-**Predicate:** said
-**Object:** ahead of schedule (attributed_quotation)
-**Temporal:** 2025-10
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Brian Mitchell
+- **Predicate:** said
+- **Object:** ahead of schedule (attributed_quotation)
+- **Temporal:** 2025-10
+- **Sources:** src_001
 
 > Brian Mitchell, then-director of the Governor's Office of Science, Innovation and Technology, said in October 2025 that the broadband project was 'ahead of schedule.'
 
-### c_009 — attributed, single source
-**Subject entities:** Brian Mitchell
-**Predicate:** said
-**Object:** Are we going to be able to get these projects done by Dec. 31, 2026? The answer is yes. (direct_quotation)
-**Temporal:** 2025-10
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Brian Mitchell
+- **Predicate:** said
+- **Object:** Are we going to be able to get these projects done by Dec. 31, 2026? The answer is yes. (direct_quotation)
+- **Temporal:** 2025-10
+- **Sources:** src_001
 
 > Mitchell said: 'Are we going to be able to get these projects done by Dec. 31, 2026? The answer is yes.'
 
-### c_010 — reported, single source
-**Subject entities:** Windsor Park; North Las Vegas
-**Predicate:** allocated
-**Object:** $25 million ARPA plus state funds (dollar_amount)
-**Temporal:** 2021
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Windsor Park; North Las Vegas
+- **Predicate:** allocated
+- **Object:** $25 million ARPA plus state funds (dollar_amount)
+- **Temporal:** 2021
+- **Sources:** src_001
 
 > The Windsor Park relocation project in North Las Vegas was allocated $25 million in ARPA funds alongside additional state dollars.
 
-### c_011 — reported, single source
-**Subject entities:** Windsor Park project
-**Predicate:** spent
-**Object:** $616,000 (~2%) by early December; $1.53 million by year-end 2025 (dollar_amount)
-**Temporal:** 2025-12-31
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Windsor Park project
+- **Predicate:** spent
+- **Object:** $616,000 (~2%) by early December; $1.53 million by year-end 2025 (dollar_amount)
+- **Temporal:** 2025-12-31
+- **Sources:** src_001
 
 > As of early December 2025, about $616,000 — approximately 2 percent — of the Windsor Park ARPA funds had been spent; by year-end that figure had more than doubled to $1.53 million.
 
-### c_012 — reported, single source
-**Subject entities:** Bureau of Land Management; Trump administration
-**Predicate:** exacerbated
-**Object:** BLM understaffing; delayed broadband permitting (causal_impact)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Bureau of Land Management; Trump administration
+- **Predicate:** exacerbated
+- **Object:** BLM understaffing; delayed broadband permitting (causal_impact)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Trump administration buyout offers that reduced the federal workforce worsened long-standing understaffing at the Bureau of Land Management, slowing broadband permitting.
 
-### c_013 — reported, single source
-**Subject entities:** Nevada Housing Division; Windsor Park
-**Predicate:** requested_then_reversed
-**Object:** withdrawal of ARPA funding from Windsor Park (administrative_action)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_013
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Nevada Housing Division; Windsor Park
+- **Predicate:** requested_then_reversed
+- **Object:** withdrawal of ARPA funding from Windsor Park (administrative_action)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > In 2024, Nevada Housing Division officials asked to stop funding Windsor Park through ARPA over concerns it could not meet spending deadlines; the plan was reversed following opposition from community members and lawmakers.
 
-### c_014 — reported, single source
-**Subject entities:** Nevada
-**Predicate:** identified_savings
-**Object:** more than $3 million in redirectable savings (dollar_amount)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_014
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Nevada
+- **Predicate:** identified_savings
+- **Object:** more than $3 million in redirectable savings (dollar_amount)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > The state identified more than $3 million in savings that can be redirected, but only to existing or open projects, not completed ones.
 
 ## Sources
 
-### src_001 — Associated Press / Nevada Independent, wire, Tier 1, originating
+### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Eric Neugeboren / The Nevada Independent
 **Publication date:** 2026-01-16
-**Access date:** 2026-01-16
-**Title:** Nevada still has big chunk of pandemic funds before 'use it or lose it' deadline
+**Title:** Nevada still has big chunk of pandemic funds before ‘use it or lose it’ deadline
 **URL:** https://apnews.com/article/nevada-general-news-55c87882af9b61a8cf09f60e7f1ba97e
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

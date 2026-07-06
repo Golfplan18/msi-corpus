@@ -27,7 +27,8 @@ topic_tags:
   - labour
   - "labour dispute"
   - politics
-storyline_nexus: []
+storyline_nexus:
+- the-iran-war
 geographic_location: Iran
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -245,7 +246,3 @@ Religious and patronage loyalties run deep in rural areas in particular, she not
 **Access date:** 2026-03-10
 **Title:** Iranian families move to the countryside to escape war
 **URL:** https://apnews.com/article/iranians-fleeing-war-73ed7f61f88e411b5fb13a888eb45cb3
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

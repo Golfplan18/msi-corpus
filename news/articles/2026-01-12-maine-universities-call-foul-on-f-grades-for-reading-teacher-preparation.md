@@ -1,6 +1,5 @@
 ---
 headline: Maine universities call foul on F grades for reading teacher preparation
-slug: 2026-01-12-maine-universities-call-foul-on-f-grades-for-reading-teacher-preparation
 publish_date: '2026-01-12'
 lede: Three Maine public universities received failing grades from a national education think tank for how they prepare teachers to teach reading, a finding the universities strongly disputed as methodologically flawed. The National Council on Teacher Quality gave the University of Maine in Orono, the University of Southern Maine, and the University of Maine at Farmington failing marks as part of its 2023 review of 702 elementary teacher preparation programs at 580 institutions nationwide.
 nut_graf: The dispute arrives as reading test scores among Maine students have been declining. Forty-four percent of Maine fourth graders and 35 percent of eighth graders could not demonstrate even a basic understanding of reading in 2024, according to the National Assessment of Educational Progress — a pattern the think tank said is linked to inadequate teacher preparation.
@@ -20,46 +19,48 @@ primary_themes:
 - science of reading
 - higher education accountability
 topic_tags:
-  - education
-  - "higher education"
-  - school
+- education
+- higher education
+- education policy
+- achievement
+- school
 storyline_nexus:
-  - ai-regulation
-  - iran-war
-  - russia-ukraine-war
-geographic_location: Maine, United States
+- lgbtq-rights-restrictions
+geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.82
 - value: accountability_of_power
-  intensity: 0.65
-framework_version: 1.1.0
-generation_timestamp: '2026-01-12T00:00:00Z'
+  intensity: 0.9
+- value: truthfulness
+  intensity: 0.6
+- value: informed_citizenship
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-22T23:57:28Z'
 source_cluster_id: cluster_ap_2026-01-11_maine-colleges-and-universities-school-c
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 12
   hedges:
+    reported: 0
+    attributed: 10
     appears: 0
     alleged: 0
-    attributed: 10
-    reported: 0
-    contested: 0
     confirmed: 2
+    contested: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 4
-    single_source: 8
+    one_originating_plus_primary_document: 0
     two_independent: 0
+    primary_plus_secondary: 0
+    single_source: 8
 sources:
   count: 1
   outlets:
-  - Associated Press / The Maine Monitor
+  - Associated Press
   outlet_classes:
   - wire
   highest_reliability_tier: 1
@@ -73,17 +74,18 @@ image:
   url: /articles/2026-01-12-maine-universities-call-foul-on-f-grades-for-reading-teacher-preparation.png
   alt: 'Illustration accompanying article: Maine universities call foul on F grades for reading teacher preparation'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-05-hawaiian-immersion-school-enrollment-surges-68-but-teacher-supply-lags
-  relation: related
-  strength: 0.7415
-  confidence: medium
-- slug: 2026-01-06-montana-charter-school-embeds-college-teacher-training-in-elementary-classrooms
-  relation: related
-  strength: 0.7126
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Three Maine public universities received failing grades from a national education think tank for how they prepare teachers to teach reading, a finding the universities strongly disputed as methodologically flawed.
+- The National Council on Teacher Quality, a Washington, D.C.-based think tank, gave the University of Maine in Orono, the University of Southern Maine, and the University of Maine at Farmington failing marks as part of its 2023 review of 702 elementary teacher preparation programs at 580 institutions nationwide.
+- The dispute arrives as reading test scores among Maine students have been declining.
+- Forty-four percent of Maine fourth graders and 35 percent of eighth graders could not demonstrate even a basic understanding of reading in 2024, according to the National Assessment of Educational Progress — a pattern the think tank said is linked to inadequate teacher preparation.
 
 Three Maine public universities received failing grades from a national education think tank for how they prepare teachers to teach reading, a finding the universities strongly disputed as methodologically flawed.
 
@@ -145,127 +147,144 @@ Peske said states that have improved reading test scores credit comprehensive ch
 
 *This story was originally reported by The Maine Monitor and distributed through a partnership with The Associated Press.*
 
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under* `sources`*. [Methodology](/methodology). Human review: not triggered. License: [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*
-
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** National Council on Teacher Quality; University of Maine; University of Southern Maine; University of Maine at Farmington
-**Predicate:** assigned_failing_grade
-**Object:** F (letter_grade)
-**Temporal:** 2023
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** National Council on Teacher Quality; University of Maine; University of Southern Maine; University of Maine at Farmington
+- **Predicate:** assigned_failing_grade
+- **Object:** F (letter_grade)
+- **Temporal:** 2023
+- **Sources:** src_001
 
 > The National Council on Teacher Quality gave failing grades to teacher preparation programs at the University of Maine in Orono, the University of Southern Maine, and the University of Maine at Farmington in 2023.
 
-### c_002 — attributed, single source
-**Subject entities:** University of Southern Maine; University of Maine at Farmington
-**Predicate:** adequately_addressed
-**Object:** 0 (pillars_count)
-**Temporal:** 2023
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** University of Southern Maine; University of Maine at Farmington
+- **Predicate:** adequately_addressed
+- **Object:** 0 (pillars_count)
+- **Temporal:** 2023
+- **Sources:** src_001
 
 > The University of Southern Maine and the University of Maine at Farmington adequately addressed zero of the five pillars of reading instruction.
 
-### c_003 — attributed, single source
-**Subject entities:** University of Maine
-**Predicate:** adequately_taught
-**Object:** 1 (pillars_count)
-**Temporal:** 2023
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** University of Maine
+- **Predicate:** adequately_taught
+- **Object:** 1 (pillars_count)
+- **Temporal:** 2023
+- **Sources:** src_001
 
 > The University of Maine at Orono adequately taught one of five reading pillars — comprehension.
 
-### c_004 — attributed, single source
-**Subject entities:** National Council on Teacher Quality
-**Predicate:** found
-**Object:** 25 (percentage)
-**Temporal:** 2023
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** National Council on Teacher Quality
+- **Predicate:** found
+- **Object:** 25 (percentage)
+- **Temporal:** 2023
+- **Sources:** src_001
 
 > Nationally, only 25 percent of teacher preparation programs suitably addressed all five pillars of reading, according to the NCTQ.
 
-### c_005 — attributed, primary document
-**Subject entities:** National Assessment of Educational Progress
-**Predicate:** found
-**Object:** 44 (percentage)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** National Assessment of Educational Progress
+- **Predicate:** found
+- **Object:** 44 (percentage)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > Forty-four percent of Maine fourth graders could not demonstrate a basic understanding of reading in 2024, according to the National Assessment of Educational Progress.
 
-### c_006 — attributed, primary document
-**Subject entities:** National Assessment of Educational Progress
-**Predicate:** found
-**Object:** 35 (percentage)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** National Assessment of Educational Progress
+- **Predicate:** found
+- **Object:** 35 (percentage)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > Thirty-five percent of Maine eighth graders could not demonstrate a basic understanding of reading in 2024, according to the National Assessment of Educational Progress.
 
-### c_007 — attributed, single source
-**Subject entities:** Samantha Warren; University of Maine System
-**Predicate:** characterized
-**Object:** deeply misleading (attribution)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Samantha Warren; University of Maine System
+- **Predicate:** characterized
+- **Object:** deeply misleading (attribution)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > University of Maine System spokesperson Samantha Warren called the NCTQ ratings 'deeply misleading,' saying they ignore student and program outcomes and contain methodological flaws.
 
-### c_008 — attributed, single source
-**Subject entities:** National Council on Teacher Quality; Maine teacher preparation programs
-**Predicate:** did_not_respond
-**Object:** invitations to submit coursework
-**Temporal:** 2023
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** National Council on Teacher Quality; Maine teacher preparation programs
+- **Predicate:** did_not_respond
+- **Object:** invitations to submit coursework
+- **Temporal:** 2023
+- **Sources:** src_001
 
 > Maine teacher preparation programs did not respond to NCTQ invitations; the council obtained syllabi through public records requests.
 
-### c_009 — attributed, single source
-**Subject entities:** Maine Education Policy Research Institute
-**Predicate:** found
-**Object:** common use of methods considered ineffective for reading instruction
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Maine Education Policy Research Institute
+- **Predicate:** found
+- **Object:** common use of methods considered ineffective for reading instruction
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > A 2024 study from the Maine Education Policy Research Institute found that Maine schools commonly use methods considered ineffective for teaching children to read.
 
-### c_010 — attributed, single source
-**Subject entities:** National Council on Teacher Quality
-**Predicate:** reviewed
-**Object:** 702 programs at 580 institutions
-**Temporal:** 2023
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** National Council on Teacher Quality
+- **Predicate:** reviewed
+- **Object:** 702 programs at 580 institutions
+- **Temporal:** 2023
+- **Sources:** src_001
 
 > The NCTQ reviewed 702 elementary teacher preparation programs at 580 institutions in 2023.
 
-### c_011 — attributed, single source
-**Subject entities:** University of Maine at Presque Isle; Husson University; University of New England
-**Predicate:** received_no_rating
-**Object:** no documentation provided
-**Temporal:** 2023
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** University of Maine at Presque Isle; Husson University; University of New England
+- **Predicate:** received_no_rating
+- **Object:** no documentation provided
+- **Temporal:** 2023
+- **Sources:** src_001
 
 > Three Maine programs — at the University of Maine at Presque Isle, Husson University in Bangor, and the University of New England in Biddeford — received no rating because they did not provide documentation.
 
-### c_012 — confirmed, primary document
-**Subject entities:** National Reading Panel
-**Predicate:** identified
-**Object:** five pillars of reading instruction
-**Temporal:** 2000
-**Source IDs:** src_001
+### c_012
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** National Reading Panel
+- **Predicate:** identified
+- **Object:** five pillars of reading instruction
+- **Temporal:** 2000
+- **Sources:** src_001
 
 > The five pillars of reading instruction — phonemic awareness, phonics, fluency, vocabulary, and comprehension — were identified by the National Reading Panel in 2000.
 
 ## Sources
 
-### src_001 — Associated Press / The Maine Monitor, wire, Tier 1, originating
+### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Kristian Moravec / The Maine Monitor
 **Publication date:** 2026-01-12
-**Access date:** 2026-01-12
-**Title:** Maine teacher prep programs call foul after getting F's for how they teach reading
+**Title:** Maine teacher prep programs call foul after getting F’s for how they teach reading
 **URL:** https://apnews.com/article/maine-colleges-and-universities-school-curricula-farmington-general-news-1c57cbda3ec29d21d5ca9f0a4b2e1697
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

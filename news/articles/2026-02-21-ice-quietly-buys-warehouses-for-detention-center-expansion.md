@@ -19,43 +19,41 @@ primary_themes:
 - detention expansion
 - community impact
 topic_tags:
-  - "crime, law and justice"
-  - "law enforcement"
-  - politics
-  - "government policy"
+- government policy
+- human migration
+- law enforcement
+- communities
+- construction and property
 storyline_nexus:
-  - immigration-enforcement
-  - us-administration-2026
+- us-immigration-enforcement
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
   intensity: 0.9
 - value: informed_citizenship
-  intensity: 0.85
-- value: human_life_and_dignity
-  intensity: 0.8
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+  intensity: 0.9
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:29:06Z'
 source_cluster_id: cluster_ap_2026-02-23_immigration-detention-centers-pushback-2
 gdelt_event_ids: []
-consensus_floor_version: 1.0.0
-publication_mindspec_version: 1.0.0
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 10
   hedges:
     appears: 0
-    alleged: 0
-    attributed: 2
-    reported: 5
-    contested: 0
     confirmed: 3
+    alleged: 0
+    contested: 0
+    reported: 5
+    attributed: 2
   corroboration:
     primary_plus_secondary: 0
-    one_originating_plus_primary_document: 2
     primary_document: 4
     single_source: 4
+    one_originating_plus_primary_document: 2
     two_independent: 0
 sources:
   count: 1
@@ -74,29 +72,16 @@ image:
   url: /articles/2026-02-21-ice-quietly-buys-warehouses-for-detention-center-expansion.png
   alt: 'Illustration accompanying article: ICE quietly buys warehouses for detention center expansion'
   source: ai_generated
-cross_article_links:
-- slug: 2026-04-15-judge-extends-pause-on-maryland-warehouse-immigrant-detention-conversion
-  relation: related
-  strength: 0.8422
-  confidence: medium
-- slug: 2026-04-17-abbott-threatens-200-million-in-funding-cuts-to-texas-cities-over-ice-policies
-  relation: related
-  strength: 0.7319
-  confidence: medium
-- slug: 2026-04-15-guards-accused-of-beating-detainees-at-florida-s-alligator-alcatraz
-  relation: related
-  strength: 0.7249
-  confidence: medium
-- slug: 2026-01-05-florida-awaits-federal-approval-for-third-immigration-detention-center
-  relation: related
-  strength: 0.7946
-  confidence: medium
-- slug: 2026-01-08-officials-withheld-evidence-of-608m-federal-deal-for-alligator-alcatraz-groups-s
-  relation: related
-  strength: 0.7746
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- The Department of Homeland Security has secretly purchased at least seven warehouses across Arizona, Georgia, Maryland, Pennsylvania and Texas for immigration detention centers, spending $122.
+- The acquisitions are part of a broad Trump administration effort to expand immigration detention capacity to 92,000 beds, nearly double the 75,000 detainees currently held across more than 225 sites.
+- Communities nationwide are raising concerns about water and sewage infrastructure, lost property tax revenue, and detention centers designed to hold more people than some towns have residents.
 
 The Department of Homeland Security has secretly purchased at least seven warehouses across Arizona, Georgia, Maryland, Pennsylvania and Texas for immigration detention centers, spending $122.8 million on a single 826,000-square-foot facility in Socorro, Texas. Local officials say they learned about the purchases only after deed filings or news reports — with no federal notification before the deals closed.
 
@@ -148,93 +133,113 @@ The detention expansion comes as the Trump administration has intensified immigr
 
 ## Atomic claims
 
-### c_001 — reported, one originating plus primary document
-**Subject entities:** U.S. Immigration and Customs Enforcement; Arizona; Georgia; Maryland; Pennsylvania; Texas
-**Predicate:** purchased
-**Object:** at least 7 warehouses (real_estate_acquisition)
-**Temporal:** 2026-02-21
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** one_originating_plus_primary_document
+- **Subject entities:** U.S. Immigration and Customs Enforcement; Arizona; Georgia; Maryland; Pennsylvania; Texas
+- **Predicate:** purchased
+- **Object:** at least 7 warehouses (real_estate_acquisition)
+- **Temporal:** 2026-02-21
+- **Sources:** src_001
 
 > Immigration and Customs Enforcement has purchased at least seven warehouses across five states for detention centers.
 
-### c_002 — confirmed, primary document
-**Subject entities:** U.S. Department of Homeland Security; Socorro, Texas
-**Predicate:** purchased
-**Object:** $122.8 million for 826,000 sq ft (real_estate_transaction)
-**Temporal:** 2026-02-21
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Department of Homeland Security; Socorro, Texas
+- **Predicate:** purchased
+- **Object:** $122.8 million for 826,000 sq ft (real_estate_transaction)
+- **Temporal:** 2026-02-21
+- **Sources:** src_001
 
 > The Department of Homeland Security paid $122.8 million for an 826,000-square-foot warehouse in Socorro, Texas.
 
-### c_003 — reported, single source
-**Subject entities:** U.S. Immigration and Customs Enforcement
-**Predicate:** targeted
-**Object:** at least 20 communities with large warehouses (facility_expansion_scope)
-**Temporal:** 2026-02-21
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Immigration and Customs Enforcement
+- **Predicate:** targeted
+- **Object:** at least 20 communities with large warehouses (facility_expansion_scope)
+- **Temporal:** 2026-02-21
+- **Sources:** src_001
 
 > At least 20 communities with large warehouses have become targets for ICE's detention center expansion.
 
-### c_004 — attributed, single source
-**Subject entities:** U.S. Department of Homeland Security; Rudy Cruz Jr.
-**Predicate:** failed_to_notify
-**Object:** local government officials (governance_failure)
-**Temporal:** prior to warehouse purchase
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Department of Homeland Security; Rudy Cruz Jr.
+- **Predicate:** failed_to_notify
+- **Object:** local government officials (governance_failure)
+- **Temporal:** prior to warehouse purchase
+- **Sources:** src_001
 
 > Federal government officials did not notify Socorro Mayor Rudy Cruz Jr. before purchasing the warehouse.
 
-### c_005 — reported, one originating plus primary document
-**Subject entities:** U.S. Immigration and Customs Enforcement; Donald Trump
-**Predicate:** detained
-**Object:** 75,000 detainees (increased from 40,000) (population_count)
-**Temporal:** 2026-02-21
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** one_originating_plus_primary_document
+- **Subject entities:** U.S. Immigration and Customs Enforcement; Donald Trump
+- **Predicate:** detained
+- **Object:** 75,000 detainees (increased from 40,000) (population_count)
+- **Temporal:** 2026-02-21
+- **Sources:** src_001
 
 > The number of people detained by ICE increased to 75,000 from 40,000 since Trump took office.
 
-### c_006 — reported, primary document
-**Subject entities:** U.S. Department of Homeland Security
-**Predicate:** plans
-**Object:** $38.3 billion to expand to 92,000 beds (budget_plan)
-**Temporal:** 2026-02-21
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Department of Homeland Security
+- **Predicate:** plans
+- **Object:** $38.3 billion to expand to 92,000 beds (budget_plan)
+- **Temporal:** 2026-02-21
+- **Sources:** src_001
 
 > The Department of Homeland Security plans to spend $38.3 billion to boost detention capacity to 92,000 beds.
 
-### c_007 — confirmed, primary document
-**Subject entities:** U.S. Immigration and Customs Enforcement; Social Circle, Georgia
-**Predicate:** planned
-**Object:** 7,500-10,000 bed facility in city of 5,000 (facility_scale_concern)
-**Temporal:** 2026-02-21
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Immigration and Customs Enforcement; Social Circle, Georgia
+- **Predicate:** planned
+- **Object:** 7,500-10,000 bed facility in city of 5,000 (facility_scale_concern)
+- **Temporal:** 2026-02-21
+- **Sources:** src_001
 
 > A proposed detention facility in Social Circle, Georgia designed to hold 7,500 to 10,000 people is in a city with a population of 5,000.
 
-### c_008 — confirmed, primary document
-**Subject entities:** U.S. Department of Homeland Security; Berks County, Pennsylvania
-**Predicate:** purchased
-**Object:** $87.4 million for warehouse (real_estate_transaction)
-**Temporal:** 2026-02-21
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Department of Homeland Security; Berks County, Pennsylvania
+- **Predicate:** purchased
+- **Object:** $87.4 million for warehouse (real_estate_transaction)
+- **Temporal:** 2026-02-21
+- **Sources:** src_001
 
 > The Department of Homeland Security purchased an 87.4 million dollar warehouse in Upper Bern Township, Pennsylvania.
 
-### c_009 — attributed, single source
-**Subject entities:** Berks County, Pennsylvania
-**Predicate:** will_lose
-**Object:** more than $800,000 in annual property tax revenue (financial_impact)
-**Temporal:** 2026-02-21
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Berks County, Pennsylvania
+- **Predicate:** will_lose
+- **Object:** more than $800,000 in annual property tax revenue (financial_impact)
+- **Temporal:** 2026-02-21
+- **Sources:** src_001
 
 > Converting the Pennsylvania warehouse to a federal facility would result in a loss of more than $800,000 in local tax dollars annually.
 
-### c_010 — reported, single source
-**Subject entities:** U.S. Immigration and Customs Enforcement; Chester, New York; Roxbury, New Jersey
-**Predicate:** acknowledged_error
-**Object:** announced purchases in Chester and Roxbury in error (process_failure)
-**Temporal:** 2026-02-21
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Immigration and Customs Enforcement; Chester, New York; Roxbury, New Jersey
+- **Predicate:** acknowledged_error
+- **Object:** announced purchases in Chester and Roxbury in error (process_failure)
+- **Temporal:** 2026-02-21
+- **Sources:** src_001
 
 > ICE announced warehouse purchases in Chester, New York and Roxbury, New Jersey but later acknowledged a 'mistake' in the announcements.
 
@@ -243,10 +248,5 @@ The detention expansion comes as the Trump administration has intensified immigr
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Heather Hollingsworth
 **Publication date:** 2026-02-21
-**Access date:** 2026-05-18
 **Title:** ICE is quietly buying warehouses for its detention expansion
 **URL:** https://apnews.com/article/immigration-detention-centers-pushback-24e702da67281a672b0f77287aaa87ba
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

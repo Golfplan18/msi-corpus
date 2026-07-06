@@ -20,33 +20,35 @@ primary_themes:
 - renewable_energy_policy
 - aging_infrastructure
 topic_tags:
-  - "conflict, war and peace"
-  - terrorism
-  - "science and technology"
-  - "artificial intelligence"
-storyline_nexus: []
-geographic_location: Maine, United States
+- energy and resource
+- government policy
+- weather
+- economy
+- natural resources
+storyline_nexus:
+- extreme-weather-disasters
+geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.85
 - value: accountability_of_power
-  intensity: 0.7
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+  intensity: 0.6
+- value: informed_citizenship
+  intensity: 0.9
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:55:18Z'
 source_cluster_id: cluster_ap_2026-02-24_energy-industry-maine-general-news-c7659
 gdelt_event_ids: []
-consensus_floor_version: Reference — MSI Consensus Values Floor.md
-publication_mindspec_version: Reference — MSI Editorial Router.md
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 15
   hedges:
+    attributed: 7
+    contested: 0
+    reported: 4
     appears: 0
     alleged: 0
-    attributed: 7
-    reported: 4
-    contested: 0
     confirmed: 4
   corroboration:
     primary_plus_secondary: 0
@@ -67,17 +69,12 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-05-west-virginia-electricity-rates-rose-34-in-five-years-pushing-residents-to-despe
-  relation: related
-  strength: 0.8493
-  confidence: medium
-- slug: 2026-01-09-southern-arizona-data-centers-advance-as-fights-over-power-water-and-rates-inten
-  relation: related
-  strength: 0.7197
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
 
 Maine policymakers convened this month to address an electricity affordability crisis triggered by a record winter cold snap and historic natural gas prices. On Jan. 27, natural gas prices on the New England grid hit their highest level since tracking began in 2003, driving wholesale electricity prices to $441.8 per megawatt-hour—more than three times the January 2025 average of $135.08 per megawatt-hour.
 
@@ -117,142 +114,170 @@ Modernizing Maine's grid will cost ratepayers more in the short term. Bartlett a
 
 The state's energy leaders are trying to find a balance between price stability and affordability—a challenge that will likely occupy Maine policymakers for years to come.
 
-*This article was generated algorithmically from the Associated Press wire report listed under sources. Main Street Independent applies journalistic standards of verification, attribution, and hedging discipline to all AI-generated content. This article underwent automated quality control; no defamation, privacy, or values-floor concerns were identified. [Read about our methodology](/methodology). [Corrections log](/corrections).*
-
 ## Atomic claims
 
-### c_001 — reported, single source
-**Subject entities:** New_England_natural_gas
-**Predicate:** reached_record_high
-**Object:** highest level since 2003 (price_record)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** New_England_natural_gas
+- **Predicate:** reached_record_high
+- **Object:** highest level since 2003 (price_record)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Natural gas prices on the New England grid hit their highest level since tracking began in 2003 on Jan. 27.
 
-### c_002 — confirmed, single source
-**Subject entities:** New_England_electricity_prices
-**Predicate:** reached_price
-**Object:** $441.8/MWh vs. $135.08/MWh average (price_comparison)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** New_England_electricity_prices
+- **Predicate:** reached_price
+- **Object:** $441.8/MWh vs. $135.08/MWh average (price_comparison)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Wholesale electricity prices on Jan. 27 reached $441.8 per megawatt-hour, compared to an average of $135.08/MWh in January 2025.
 
-### c_003 — confirmed, single source
-**Subject entities:** natural_gas; New_England_grid
-**Predicate:** comprises_percentage_of_generation
-**Object:** 55% (generation_mix_share)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** natural_gas; New_England_grid
+- **Predicate:** comprises_percentage_of_generation
+- **Object:** 55% (generation_mix_share)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Natural gas accounts for 55 percent of total electricity generation on the New England grid in 2025.
 
-### c_004 — reported, single source
-**Subject entities:** Maine
-**Predicate:** ranked_third_in_price_increases
-**Object:** third-highest state ranking (state_comparison)
-**Temporal:** 2014-2024
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Maine
+- **Predicate:** ranked_third_in_price_increases
+- **Object:** third-highest state ranking (state_comparison)
+- **Temporal:** 2014-2024
+- **Sources:** src_001
 
 > Maine experienced the third-highest increase in average retail electricity prices among U.S. states between 2014 and 2024.
 
-### c_005 — reported, single source
-**Subject entities:** Maine_electricity_prices
-**Predicate:** increased_by_percent
-**Object:** 55% (price_change)
-**Temporal:** 2014-2024
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Maine_electricity_prices
+- **Predicate:** increased_by_percent
+- **Object:** 55% (price_change)
+- **Temporal:** 2014-2024
+- **Sources:** src_001
 
 > Average electricity prices in Maine rose 55 percent between 2014 and 2024.
 
-### c_006 — attributed, single source
-**Subject entities:** Maine_grid_infrastructure
-**Predicate:** age_range
-**Object:** 50-70 years old (infrastructure_age)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Maine_grid_infrastructure
+- **Predicate:** age_range
+- **Object:** 50-70 years old (infrastructure_age)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > Some components of Maine's transmission infrastructure are 50 to 70 years old.
 
-### c_007 — reported, single source
-**Subject entities:** Maine_ratepayers
-**Predicate:** paying_monthly_charge
-**Object:** ~$20/month (monthly_bill_component)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Maine_ratepayers
+- **Predicate:** paying_monthly_charge
+- **Object:** ~$20/month (monthly_bill_component)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Maine ratepayers are paying approximately $20 per month on average to repair electric infrastructure damaged by winter storms in 2024.
 
-### c_008 — attributed, single source
-**Subject entities:** Philip_Bartlett_II
-**Predicate:** stated_primary_challenge
-**Object:** affordability (spoken_assessment)
-**Temporal:** 2026-02-05
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Philip_Bartlett_II
+- **Predicate:** stated_primary_challenge
+- **Object:** affordability (spoken_assessment)
+- **Temporal:** 2026-02-05
+- **Sources:** src_001
 
 > Philip Bartlett II, chairman of the Maine Public Utilities Commission, said affordability is the primary challenge facing Maine's electricity system.
 
-### c_009 — attributed, single source
-**Subject entities:** cold_snaps; natural_gas_pricing
-**Predicate:** causes_demand_spike
-**Object:** peak demand → natural gas → price spike (causal_mechanism)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** cold_snaps; natural_gas_pricing
+- **Predicate:** causes_demand_spike
+- **Object:** peak demand → natural gas → price spike (causal_mechanism)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Cold snaps cause natural gas prices to skyrocket because natural gas is turned to when electricity demand is at its highest.
 
-### c_010 — confirmed, single source
-**Subject entities:** New_England_grid
-**Predicate:** dispatch_order
-**Object:** renewables+nuclear first, natural gas on demand (dispatch_protocol)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** New_England_grid
+- **Predicate:** dispatch_order
+- **Object:** renewables+nuclear first, natural gas on demand (dispatch_protocol)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > The New England grid dispatches wind, solar, and nuclear first, but relies on natural gas for periods of especially high electricity demand.
 
-### c_011 — attributed, single source
-**Subject entities:** Dean_Murphy
-**Predicate:** explained_price_mechanism
-**Object:** full pipelines cause price spikes (economic_mechanism)
-**Temporal:** 2026-02-11
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Dean_Murphy
+- **Predicate:** explained_price_mechanism
+- **Object:** full pipelines cause price spikes (economic_mechanism)
+- **Temporal:** 2026-02-11
+- **Sources:** src_001
 
 > Dean Murphy, an economist with the Brattle Group, stated that when natural gas pipeline capacity becomes full, prices tend to spike dramatically.
 
-### c_012 — attributed, single source
-**Subject entities:** Jeremy_Payne
-**Predicate:** cited_barrier_to_diversification
-**Object:** permitting delays slow renewable deployment (policy_barrier)
-**Temporal:** 2026-02-05
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jeremy_Payne
+- **Predicate:** cited_barrier_to_diversification
+- **Object:** permitting delays slow renewable deployment (policy_barrier)
+- **Temporal:** 2026-02-05
+- **Sources:** src_001
 
 > Jeremy Payne, former director of the Maine Renewable Energy Association, said environmental permitting delays are preventing Maine from diversifying energy sources.
 
-### c_013 — attributed, single source
-**Subject entities:** Jeremy_Payne
-**Predicate:** proposed_solution
-**Object:** third-party environmental reviewer (policy_proposal)
-**Temporal:** 2026-02-05
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jeremy_Payne
+- **Predicate:** proposed_solution
+- **Object:** third-party environmental reviewer (policy_proposal)
+- **Temporal:** 2026-02-05
+- **Sources:** src_001
 
 > Payne proposed that Maine bring in a third-party reviewer to supplement state environmental permitting and accelerate renewable energy projects.
 
-### c_014 — confirmed, single source
-**Subject entities:** Maine_PUC
-**Predicate:** issued_rfp
-**Object:** northern Maine renewable projects + transmission (procurement_action)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_014
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Maine_PUC
+- **Predicate:** issued_rfp
+- **Object:** northern Maine renewable projects + transmission (procurement_action)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > The Maine Public Utilities Commission has a proposal request out for renewable energy projects in northern Maine and an accompanying transmission line.
 
-### c_015 — attributed, single source
-**Subject entities:** Maine_grid
-**Predicate:** needs_load_flexibility
-**Object:** grid modernization for demand management (infrastructure_requirement)
-**Temporal:** 2026-02-05
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Maine_grid
+- **Predicate:** needs_load_flexibility
+- **Object:** grid modernization for demand management (infrastructure_requirement)
+- **Temporal:** 2026-02-05
+- **Sources:** src_001
 
 > Bartlett said the state needs to enhance the grid's load flexibility—its ability to efficiently dispatch and conserve electricity during periods of high demand.
 
@@ -261,10 +286,5 @@ The state's energy leaders are trying to find a balance between price stability 
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Emmett Gartner / The Maine Monitor
 **Publication date:** 2026-02-23
-**Access date:** 2026-05-18
 **Title:** Maine leaders pitch solutions to enhance grid as temperatures drop and electricity prices soar
 **URL:** https://apnews.com/article/energy-industry-maine-general-news-c7659e3737d306e674abced1e941e23a
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

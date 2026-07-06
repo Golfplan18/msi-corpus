@@ -16,41 +16,44 @@ primary_themes:
 - negotiations
 - military action
 topic_tags:
-  - "armed conflict"
-  - "conflict, war and peace"
+- armed conflict
+- conflict, war and peace
+- international military intervention
+- international relations
+- peace process
 storyline_nexus:
-  - iran-war
-geographic_location: Middle East, Washington DC, Pakistan
+- the-iran-war
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
-  intensity: 0.95
+  intensity: 0.6
 - value: accountability_of_power
-  intensity: 0.87
+  intensity: 0.6
 - value: informed_citizenship
-  intensity: 0.82
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T08:30:00Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T01:06:15Z'
 source_cluster_id: cluster_ap_2026-04-21_us-iran-war-israel-hormuz-20-april-2026-
 gdelt_event_ids: []
-consensus_floor_version: 1.0.0
-publication_mindspec_version: 1.0.0
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 19
   hedges:
-    appears: 0
-    alleged: 0
     attributed: 5
     reported: 13
-    contested: 0
     confirmed: 1
+    alleged: 0
+    appears: 0
+    contested: 0
   corroboration:
-    primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
-    primary_document: 5
+    primary_plus_secondary: 0
     single_source: 14
     two_independent: 0
+    primary_document: 5
 sources:
   count: 1
   outlets:
@@ -68,41 +71,12 @@ image:
   url: /articles/2026-04-20-trump-offers-mixed-messages-about-us-war-against-iran.png
   alt: 'Illustration accompanying article: Trump offers mixed messages about US war against Iran'
   source: ai_generated
-cross_article_links:
-- slug: 2026-04-17-israel-lebanon-ceasefire-takes-hold-as-diplomats-pursue-broader-deal
-  relation: related
-  strength: 0.8638
-  confidence: medium
-- slug: 2026-04-15-pakistan-army-chief-meets-iran-fm-in-bid-to-restart-us-iran-talks-before-ceasefi
-  relation: related
-  strength: 0.8699
-  confidence: medium
-- slug: 2026-04-16-israel-lebanon-10-day-ceasefire-takes-effect-as-diplomats-push-to-extend-iran-tr
-  relation: related
-  strength: 0.8584
-  confidence: medium
-- slug: 2026-04-16-d-az-canel-says-cuba-will-fight-if-attacked-as-trump-signals-post-iran-focus-on-
-  relation: related
-  strength: 0.8403
-  confidence: medium
-- slug: 2026-04-18-iran-announces-hormuz-reopening-as-blockade-standoff-continues
-  relation: related
-  strength: 0.8229
-  confidence: medium
-- slug: 2026-04-17-lebanese-return-home-as-us-brokered-ceasefire-takes-effect
-  relation: related
-  strength: 0.8074
-  confidence: medium
-- slug: 2026-04-15-bessent-warns-of-secondary-iran-sanctions-as-ceasefire-deadline-nears
-  relation: related
-  strength: 0.8175
-  confidence: medium
-- slug: 2026-04-16-trump-turns-on-meloni-over-iran-war-refusal-as-analysts-say-rift-helps-her-at-ho
-  relation: related
-  strength: 0.8089
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
 
 President Donald Trump offered mixed signals Monday about the path forward in the U.S. war against Iran as a 14-day ceasefire set to expire Wednesday, warning that "lots of bombs" will "start going off" if no agreement is reached while also declaring he felt no pressure to conclude the conflict. Tensions flared over the weekend when the U.S. Navy seized an Iranian cargo ship and Iran fired on vessels in the Strait of Hormuz, further straining the truce. Iran's chief negotiator, Mohammed Bagher Qalibaf, said his country would not negotiate "under the shadow of threats," while Trump indicated his negotiating team, led by Vice President JD Vance, would proceed with talks in Pakistan.
 
@@ -142,180 +116,214 @@ Israeli, Lebanese and U.S. officials said historic diplomatic talks between the 
 
 A 10-day ceasefire in Lebanon took effect Friday after fighting between Israel and Iranian-backed Hezbollah militants erupted two days after the U.S. and Israel launched their war on Iran. Despite the ceasefire, Israel has conducted several airstrikes, saying they targeted Hezbollah militants who approached Israeli troops in a threatening manner. Hezbollah said it detonated explosives in an Israeli convoy inside Lebanon on Sunday.
 
----
-
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. Learn more at /methodology. This work is released under CC0.
-
 ## Atomic claims
 
-### c_001 — reported, single source
-**Subject entities:** Donald Trump; Iran war
-**Predicate:** offered
-**Object:** mixed messages about war path (communication)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Iran war
+- **Predicate:** offered
+- **Object:** mixed messages about war path (communication)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Trump offered mixed messages about the path forward in the U.S. war against Iran.
 
-### c_002 — confirmed, primary document
-**Subject entities:** US-Iran ceasefire
-**Predicate:** set_to_expire
-**Object:** 2026-04-22 (date)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** US-Iran ceasefire
+- **Predicate:** set_to_expire
+- **Object:** 2026-04-22 (date)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > A 14-day ceasefire is set to expire Wednesday, April 22.
 
-### c_003 — attributed, single source
-**Subject entities:** Donald Trump
-**Predicate:** warned
-**Object:** lots of bombs will start going off if no agreement (speech_act)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** warned
+- **Object:** lots of bombs will start going off if no agreement (speech_act)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Trump warned that "lots of bombs" will "start going off" if no agreement is reached before the ceasefire deadline.
 
-### c_004 — attributed, single source
-**Subject entities:** Donald Trump; Iran war
-**Predicate:** declared
-**Object:** no pressure to conclude war (statement)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Iran war
+- **Predicate:** declared
+- **Object:** no pressure to conclude war (statement)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Trump declared he felt no pressure to conclude the war against Iran.
 
-### c_005 — reported, single source
-**Subject entities:** US Navy; Iranian cargo ship
-**Predicate:** seized
-**Object:** Iranian cargo ship attempting blockade evasion (military_action)
-**Temporal:** 2026-04-21
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** US Navy; Iranian cargo ship
+- **Predicate:** seized
+- **Object:** Iranian cargo ship attempting blockade evasion (military_action)
+- **Temporal:** 2026-04-21
+- **Sources:** src_001
 
 > The U.S. Navy seized an Iranian cargo ship on Sunday that was attempting to evade a U.S. blockade of Iranian ports.
 
-### c_006 — reported, single source
-**Subject entities:** Iran; vessels; Strait of Hormuz
-**Predicate:** fired_on
-**Object:** vessels in Strait of Hormuz; halted traffic (military_action)
-**Temporal:** 2026-04-19
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Iran; vessels; Strait of Hormuz
+- **Predicate:** fired_on
+- **Object:** vessels in Strait of Hormuz; halted traffic (military_action)
+- **Temporal:** 2026-04-19
+- **Sources:** src_001
 
 > Iran fired on vessels in the Strait of Hormuz on Saturday and halted traffic.
 
-### c_007 — attributed, single source
-**Subject entities:** Mohammed Bagher Qalibaf; Iran
-**Predicate:** said
-**Object:** Iran does not accept negotiations under threat (speech_act)
-**Temporal:** 2026-04-21
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Mohammed Bagher Qalibaf; Iran
+- **Predicate:** said
+- **Object:** Iran does not accept negotiations under threat (speech_act)
+- **Temporal:** 2026-04-21
+- **Sources:** src_001
 
 > Iran's chief negotiator and parliament speaker Mohammed Bagher Qalibaf said Iran would not negotiate under threat.
 
-### c_008 — reported, single source
-**Subject entities:** Donald Trump; JD Vance; Pakistan
-**Predicate:** indicated
-**Object:** dispatch negotiating team to Islamabad for talks (planned_action)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; JD Vance; Pakistan
+- **Predicate:** indicated
+- **Object:** dispatch negotiating team to Islamabad for talks (planned_action)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Trump indicated he expected to dispatch his negotiating team, led by Vice President JD Vance, to Islamabad for a second round of talks with Iran.
 
-### c_009 — attributed, single source
-**Subject entities:** Abbas Araghchi; US actions
-**Predicate:** said
-**Object:** U.S. actions incompatible with diplomacy claims (speech_act)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Abbas Araghchi; US actions
+- **Predicate:** said
+- **Object:** U.S. actions incompatible with diplomacy claims (speech_act)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Iran's Foreign Minister Abbas Araghchi said U.S. actions were incompatible with claims of diplomatic intent.
 
-### c_010 — attributed, single source
-**Subject entities:** Donald Trump
-**Predicate:** said
-**Object:** highly unlikely to renew ceasefire (speech_act)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** said
+- **Object:** highly unlikely to renew ceasefire (speech_act)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Trump told Bloomberg News he was "highly unlikely" to renew the ceasefire.
 
-### c_011 — reported, primary document
-**Subject entities:** Iran
-**Predicate:** casualties
-**Object:** 3,375 people killed (casualty_count)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Iran
+- **Predicate:** casualties
+- **Object:** 3,375 people killed (casualty_count)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > According to official Iranian media, at least 3,375 people have been killed in Iran since the war started.
 
-### c_012 — reported, primary document
-**Subject entities:** Iran; Abbas Masjedi
-**Predicate:** breakdown
-**Object:** 383 of dead were children 18 or younger (demographic_breakdown)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Iran; Abbas Masjedi
+- **Predicate:** breakdown
+- **Object:** 383 of dead were children 18 or younger (demographic_breakdown)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Of the 3,375 deaths in Iran, 383 were children 18 years old or younger, according to Abbas Masjedi, head of Iran's Legal Medicine Organization.
 
-### c_013 — reported, primary document
-**Subject entities:** Israel
-**Predicate:** casualties
-**Object:** 23 people killed (casualty_count)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_013
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Israel
+- **Predicate:** casualties
+- **Object:** 23 people killed (casualty_count)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Twenty-three people have been killed in Israel since the war started.
 
-### c_014 — reported, primary document
-**Subject entities:** Israel; United States
-**Predicate:** casualties
-**Object:** 15 Israeli soldiers in Lebanon, 13 US service members (casualty_count)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_014
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Israel; United States
+- **Predicate:** casualties
+- **Object:** 15 Israeli soldiers in Lebanon, 13 US service members (casualty_count)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Fifteen Israeli soldiers in Lebanon and 13 U.S. service members throughout the region have been killed.
 
-### c_015 — reported, single source
-**Subject entities:** Brent crude
-**Predicate:** trading_at
-**Object:** $95 a barrel (price)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_015
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Brent crude
+- **Predicate:** trading_at
+- **Object:** $95 a barrel (price)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Brent crude oil was trading at just over $95 a barrel on Monday.
 
-### c_016 — reported, single source
-**Subject entities:** oil prices
-**Predicate:** increased_from
-**Object:** $70 per barrel to $95 per barrel (price_change)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_016
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** oil prices
+- **Predicate:** increased_from
+- **Object:** $70 per barrel to $95 per barrel (price_change)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Oil prices had risen from approximately $70 a barrel before the war started.
 
-### c_017 — reported, single source
-**Subject entities:** Israel; Lebanon; Washington DC
-**Predicate:** set_to_resume
-**Object:** diplomatic talks (diplomatic_event)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_017
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Israel; Lebanon; Washington DC
+- **Predicate:** set_to_resume
+- **Object:** diplomatic talks (diplomatic_event)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Historic diplomatic talks between Israel and Lebanon are set to resume Thursday in Washington.
 
-### c_018 — reported, single source
-**Subject entities:** Israel-Lebanon ceasefire
-**Predicate:** took_effect
-**Object:** 10-day ceasefire (truce)
-**Temporal:** 2026-04-18
-**Source IDs:** src_001
+### c_018
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Israel-Lebanon ceasefire
+- **Predicate:** took_effect
+- **Object:** 10-day ceasefire (truce)
+- **Temporal:** 2026-04-18
+- **Sources:** src_001
 
 > A 10-day ceasefire in Lebanon took effect Friday.
 
-### c_019 — reported, single source
-**Subject entities:** Israel; Hezbollah; Lebanon
-**Predicate:** killed
-**Object:** more than 2,290 people (casualty_count)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_019
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Israel; Hezbollah; Lebanon
+- **Predicate:** killed
+- **Object:** more than 2,290 people (casualty_count)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Fighting between Israel and Iranian-backed Hezbollah militants in Lebanon has killed more than 2,290 people.
 
@@ -324,10 +332,5 @@ This article was generated algorithmically by Main Street Independent's News Art
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Aamer Madhani
 **Publication date:** 2026-04-20
-**Access date:** 2026-04-20
 **Title:** Trump offers mixed messages about US war against Iran
 **URL:** https://apnews.com/article/us-iran-war-israel-hormuz-20-april-2026-a3ddc59230ae7de719a9ff9e7595e375
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

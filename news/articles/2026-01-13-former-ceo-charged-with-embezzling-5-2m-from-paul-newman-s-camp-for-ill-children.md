@@ -1,6 +1,5 @@
 ---
 headline: Former CEO charged with embezzling $5.2M from Paul Newman's camp for ill children
-slug: 2026-01-13-ex-ceo-charged-embezzling-5-million-painted-turtle-camp-paul-newman
 publish_date: '2026-01-13'
 lede: The former chief executive of a California camp for children with chronic and life-threatening medical conditions faces 15 felony counts after prosecutors alleged he embezzled approximately $5.2 million from the nonprofit over seven years. Christopher L. Butler, 49, of Porter Ranch, California, was expected to be arraigned Thursday in Los Angeles County Superior Court. The Painted Turtle, based in Lake Hughes, California, is one of several camps for seriously ill children co-founded by the late actor Paul Newman.
 nut_graf: The case centers on allegations that Butler exploited a position of trust to divert funds that The Painted Turtle depends on to provide free camp programs to children with cancer, sickle cell disease, and other serious diagnoses — a mission funded entirely by charitable donations.
@@ -15,40 +14,41 @@ primary_themes:
 - criminal charges
 - children's charity
 - financial fraud
-topic_tags: []
+topic_tags:
+- corruption
+- crime
+- crime, law and justice
+- prosecution
+- trial
 storyline_nexus:
-  - us-administration-2026
-  - ai-regulation
-  - us-china-relations
-geographic_location: Lake Hughes, California; Los Angeles County, California
+- trump-judicial-challenges
+geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
-  intensity: 0.85
+  intensity: 0.9
 - value: human_life_and_dignity
-  intensity: 0.72
-- value: informed_citizenship
   intensity: 0.6
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:01:01Z'
+framework_version: 1.3.0
+generation_timestamp: '2026-05-22T23:59:21Z'
 source_cluster_id: cluster_ap_2026-01-14_paul-newman-camp-serious-illness-embezzl
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 11
   hedges:
-    appears: 0
-    alleged: 2
-    attributed: 1
     reported: 4
-    contested: 0
+    appears: 0
     confirmed: 4
+    attributed: 1
+    alleged: 2
+    contested: 0
   corroboration:
     primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 7
+    one_originating_plus_primary_document: 0
     single_source: 4
     two_independent: 0
 sources:
@@ -72,6 +72,14 @@ cross_article_links: []
 draft: false
 ---
 
+## Summary
+
+**Subtype:** fact
+
+- The case centers on allegations that Butler exploited a position of trust to divert funds that The Painted Turtle depends on to provide free camp prog
+- Additional context from article.
+- Key findings or implications.
+
 The case centers on allegations that Butler exploited a position of trust to divert funds that The Painted Turtle depends on to provide free camp programs to children with cancer, sickle cell disease, and other serious diagnoses — a mission funded entirely by charitable donations.
 
 The former chief executive of a California camp for children with chronic and life-threatening medical conditions faces 15 felony counts after prosecutors alleged he embezzled approximately $5.2 million from the nonprofit over seven years.
@@ -94,100 +102,122 @@ A phone number for Butler could not be located, according to the Associated Pres
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Christopher L. Butler
-**Predicate:** charged_with
-**Object:** 15 felonies (criminal_charges)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Christopher L. Butler
+- **Predicate:** charged_with
+- **Object:** 15 felonies (criminal_charges)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Christopher L. Butler, 49, of Porter Ranch, California, has been charged with 15 felonies.
 
-### c_002 — alleged, primary document
-**Subject entities:** Christopher L. Butler; The Painted Turtle
-**Predicate:** alleged_embezzlement
-**Object:** $5.2 million (monetary_amount)
-**Temporal:** 2018-2025
-**Source IDs:** src_001
+### c_002
+- **Hedge:** alleged
+- **Corroboration:** primary_document
+- **Subject entities:** Christopher L. Butler; The Painted Turtle
+- **Predicate:** alleged_embezzlement
+- **Object:** $5.2 million (monetary_amount)
+- **Temporal:** 2018-2025
+- **Sources:** src_001
 
 > Prosecutors allege Butler embezzled approximately $5.2 million from The Painted Turtle over seven years, including hundreds of thousands of dollars each year.
 
-### c_003 — reported, primary document
-**Subject entities:** Christopher L. Butler; The Painted Turtle
-**Predicate:** employed_at
-**Object:** 2018 to summer 2025 (employment_period)
-**Temporal:** 2018-2025
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Christopher L. Butler; The Painted Turtle
+- **Predicate:** employed_at
+- **Object:** 2018 to summer 2025 (employment_period)
+- **Temporal:** 2018-2025
+- **Sources:** src_001
 
 > Butler worked for The Painted Turtle from 2018 until the summer of 2025, according to the criminal complaint.
 
-### c_004 — reported, primary document
-**Subject entities:** Christopher L. Butler; The Painted Turtle
-**Predicate:** served_as
-**Object:** controller (job_title)
-**Temporal:** 2018-2025
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Christopher L. Butler; The Painted Turtle
+- **Predicate:** served_as
+- **Object:** controller (job_title)
+- **Temporal:** 2018-2025
+- **Sources:** src_001
 
 > Butler also served as the organization's controller for a period, according to the criminal complaint.
 
-### c_005 — alleged, primary document
-**Subject entities:** Christopher L. Butler
-**Predicate:** alleged_evidence_tampering
-**Object:** modifying or deleting computer records (alleged_conduct)
-**Temporal:** 2018-2025
-**Source IDs:** src_001
+### c_005
+- **Hedge:** alleged
+- **Corroboration:** primary_document
+- **Subject entities:** Christopher L. Butler
+- **Predicate:** alleged_evidence_tampering
+- **Object:** modifying or deleting computer records (alleged_conduct)
+- **Temporal:** 2018-2025
+- **Sources:** src_001
 
 > Prosecutors allege Butler attempted to conceal evidence by modifying or deleting computer records.
 
-### c_006 — reported, primary document
-**Subject entities:** The Painted Turtle
-**Predicate:** discovered
-**Object:** financial irregularities (internal_discovery)
-**Temporal:** 2025-08
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** The Painted Turtle
+- **Predicate:** discovered
+- **Object:** financial irregularities (internal_discovery)
+- **Temporal:** 2025-08
+- **Sources:** src_001
 
 > A new controller discovered irregularities in the organization's financial records in August 2025.
 
-### c_007 — confirmed, primary document
-**Subject entities:** Christopher L. Butler
-**Predicate:** potential_sentence
-**Object:** more than 18 years (criminal_sentence)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Christopher L. Butler
+- **Predicate:** potential_sentence
+- **Object:** more than 18 years (criminal_sentence)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > The charges carry a potential sentence of more than 18 years in prison.
 
-### c_008 — confirmed, single source
-**Subject entities:** The Painted Turtle; Paul Newman
-**Predicate:** co-founded_by
-**Object:** Paul Newman (organization_history)
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** The Painted Turtle; Paul Newman
+- **Predicate:** co-founded_by
+- **Object:** Paul Newman (organization_history)
+- **Sources:** src_001
 
 > The Painted Turtle is based in Lake Hughes, California, and is co-founded by the late actor Paul Newman.
 
-### c_009 — confirmed, single source
-**Subject entities:** The Painted Turtle; SeriousFun Children's Network
-**Predicate:** part_of
-**Object:** SeriousFun Children's Network (organizational_affiliation)
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** The Painted Turtle; SeriousFun Children's Network
+- **Predicate:** part_of
+- **Object:** SeriousFun Children's Network (organizational_affiliation)
+- **Sources:** src_001
 
 > The Painted Turtle is part of Newman's SeriousFun Children's Network, which relies on donations and provides free programs to campers.
 
-### c_010 — attributed, single source
-**Subject entities:** Nathan J. Hochman
-**Predicate:** stated
-**Object:** official statement on charges (public_statement)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Nathan J. Hochman
+- **Predicate:** stated
+- **Object:** official statement on charges (public_statement)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Los Angeles County District Attorney Nathan J. Hochman stated that abusing a position of power to steal from the camp is 'an affront to both the law and our deepest values.'
 
-### c_011 — reported, single source
-**Subject entities:** Christopher L. Butler
-**Predicate:** scheduled_arraignment
-**Object:** Thursday, January 15, 2026 (court_date)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Christopher L. Butler
+- **Predicate:** scheduled_arraignment
+- **Object:** Thursday, January 15, 2026 (court_date)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Butler was expected to be arraigned Thursday in Los Angeles.
 
@@ -196,10 +226,5 @@ A phone number for Butler could not be located, according to the Associated Pres
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Rebecca Boone
 **Publication date:** 2026-01-13
-**Access date:** 2026-01-13
 **Title:** Ex-CEO accused of embezzling $5M from camp for sick kids co-founded by Paul Newman
 **URL:** https://apnews.com/article/paul-newman-camp-serious-illness-embezzlement-charge-fraud-3b37649c10ddc832f2027fb98a2e36c0
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

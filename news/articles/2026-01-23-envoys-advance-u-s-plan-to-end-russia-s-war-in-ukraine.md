@@ -23,7 +23,7 @@ topic_tags:
   - "conflict, war and peace"
   - politics
 storyline_nexus:
-  - russia-ukraine-war
+- ukraine-war-peace-negotiations
 geographic_location: International (Russia, Ukraine, United States, United Arab Emirates, France, Switzerland)
 floor_values_engaged:
 - value: informed_citizenship
@@ -109,8 +109,6 @@ The pace of talks accelerated in early January 2026. Zelenskyy attended a summit
 On January 22, Zelenskyy met Trump at Davos. Trump called the talks "very good," while Zelenskyy described them as "productive and meaningful." That same day, Putin hosted Witkoff and Kushner in Moscow for nearly four hours. Ushakov said "reaching a long-term settlement can't be expected without solving the territorial issue," but indicated more talks would follow in the United Arab Emirates.
 
 Russian, Ukrainian, and U.S. negotiators are scheduled to continue talks in Abu Dhabi beginning February 4 for two days of negotiations.
-
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification at /methodology. Human review: not_triggered.
 
 ## Atomic claims
 
@@ -338,7 +336,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-05-18
 **Title:** Envoys push a US plan for ending Russia's war in Ukraine
 **URL:** https://apnews.com/article/russia-ukraine-war-trump-peace-deal-diplomacy-563358928ede87d5a08ed5f4082a4d7c
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

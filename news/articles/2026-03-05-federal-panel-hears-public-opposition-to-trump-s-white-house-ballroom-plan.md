@@ -1,6 +1,5 @@
 ---
 headline: Federal panel hears public opposition to Trump's White House ballroom plan
-slug: 2026-03-05-federal-panel-hears-public-opposition-trump-white-house-ballroom
 publish_date: '2026-03-05'
 lede: 'WASHINGTON — Members of the public voiced opposition to President Donald Trump''s proposed 90,000-square-foot White House addition Thursday, calling it "ugly," "grossly out of scale," and an "invitation for corruption" at a federal review hearing that drew more than two hours of testimony. Of 31 people who testified before the National Capital Planning Commission, virtually all urged the panel to reject or substantially revise the project, which carries an estimated $400 million price tag that Trump plans to cover with donations from wealthy individuals and corporations with active business dealings with the federal government.
 
@@ -20,40 +19,42 @@ primary_themes:
 - public participation
 - campaign finance and corruption
 topic_tags:
-  - "politics"
-  - "government"
-  - "arts, culture, entertainment and media"
+- corruption
+- government
+- construction and property
+- politics
+- political process
 storyline_nexus:
-  - us-administration-2026
-geographic_location: Washington, D.C.
+- trump-judicial-challenges
+geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
-  intensity: 0.65
+  intensity: 0.9
 - value: informed_citizenship
-  intensity: 0.55
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:44:53Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T01:00:25Z'
 source_cluster_id: cluster_ap_2026-03-06_trump-ballroom-white-house-east-wing-121
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 12
   hedges:
-    appears: 0
-    alleged: 0
     attributed: 5
-    reported: 0
-    contested: 0
     confirmed: 7
+    appears: 0
+    reported: 0
+    alleged: 0
+    contested: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 12
     single_source: 0
     two_independent: 0
+    one_originating_plus_primary_document: 0
+    primary_document: 12
+    primary_plus_secondary: 0
 sources:
   count: 1
   outlets:
@@ -70,6 +71,7 @@ figures_aggregate:
 cross_article_links: []
 draft: false
 ---
+
 
 WASHINGTON — Members of the public voiced opposition to President Donald Trump's proposed 90,000-square-foot White House addition Thursday, calling it "ugly," "grossly out of scale," and an "invitation for corruption" at a federal review hearing that drew more than two hours of testimony. Of 31 people who testified before the National Capital Planning Commission, virtually all urged the panel to reject or substantially revise the project, which carries an estimated $400 million price tag that Trump plans to cover with donations from wealthy individuals and corporations with active business dealings with the federal government.
 
@@ -111,111 +113,135 @@ The lone voice of support at the hearing came from Tara Brown, who said the publ
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** National Capital Planning Commission
-**Predicate:** held_hearing_on
-**Object:** Trump White House addition proposal (event)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** National Capital Planning Commission
+- **Predicate:** held_hearing_on
+- **Object:** Trump White House addition proposal (event)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > The National Capital Planning Commission held a public hearing on March 5, 2026 to review Trump's proposed White House addition.
 
-### c_002 — confirmed, primary document
-**Subject entities:** Donald Trump
-**Predicate:** proposed
-**Object:** 90,000-square-foot White House east-side addition with ballroom (construction_project)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Donald Trump
+- **Predicate:** proposed
+- **Object:** 90,000-square-foot White House east-side addition with ballroom (construction_project)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > Trump proposed a 90,000-square-foot addition, including a ballroom, on the east side of the White House.
 
-### c_003 — attributed, primary document
-**Subject entities:** Donald Trump
-**Predicate:** plans_to_finance_via
-**Object:** donations from wealthy individuals and corporations doing government business (funding_mechanism)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Donald Trump
+- **Predicate:** plans_to_finance_via
+- **Object:** donations from wealthy individuals and corporations doing government business (funding_mechanism)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > The estimated construction cost is $400 million, which Trump plans to pay with donations from wealthy individuals and corporations with government business.
 
-### c_004 — confirmed, primary document
-**Subject entities:** National Capital Planning Commission
-**Predicate:** received_testimony_from
-**Object:** 31 people (count)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** National Capital Planning Commission
+- **Predicate:** received_testimony_from
+- **Object:** 31 people (count)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > 31 people offered public testimony at the commission hearing on March 5, 2026.
 
-### c_005 — confirmed, primary document
-**Subject entities:** National Capital Planning Commission
-**Predicate:** scheduled_vote_for
-**Object:** April 2, 2026 (date)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** National Capital Planning Commission
+- **Predicate:** scheduled_vote_for
+- **Object:** April 2, 2026 (date)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > The commission's final vote is scheduled for April 2.
 
-### c_006 — confirmed, primary document
-**Subject entities:** U.S. Commission of Fine Arts
-**Predicate:** approved
-**Object:** Trump White House addition proposal (construction_project)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Commission of Fine Arts
+- **Predicate:** approved
+- **Object:** Trump White House addition proposal (construction_project)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > The U.S. Commission of Fine Arts has already approved Trump's White House addition proposal.
 
-### c_007 — confirmed, primary document
-**Subject entities:** Richard Leon; National Trust for Historic Preservation
-**Predicate:** rejected_motion_of
-**Object:** temporary halt to White House construction (legal_ruling)
-**Temporal:** 2026-02-27
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Richard Leon; National Trust for Historic Preservation
+- **Predicate:** rejected_motion_of
+- **Object:** temporary halt to White House construction (legal_ruling)
+- **Temporal:** 2026-02-27
+- **Sources:** src_001
 
 > U.S. District Judge Richard Leon rejected the National Trust for Historic Preservation's request to temporarily halt construction.
 
-### c_008 — confirmed, primary document
-**Subject entities:** Donald Trump; White House East Wing
-**Predicate:** demolished
-**Object:** White House East Wing (structure)
-**Temporal:** 2025-10
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Donald Trump; White House East Wing
+- **Predicate:** demolished
+- **Object:** White House East Wing (structure)
+- **Temporal:** 2025-10
+- **Sources:** src_001
 
 > Trump had the White House East Wing demolished in October.
 
-### c_009 — attributed, primary document
-**Subject entities:** Abigail Bellows; Common Cause
-**Predicate:** said
-**Object:** golden invitation for corruption (attributed_statement)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Abigail Bellows; Common Cause
+- **Predicate:** said
+- **Object:** golden invitation for corruption (attributed_statement)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > Abigail Bellows, senior policy director for anti-corruption and accountability at Common Cause, called the donation funding arrangement a 'golden invitation for corruption.'
 
-### c_010 — attributed, primary document
-**Subject entities:** Jon Golinger; Will Scharf; James Blair; Stuart Levenbach
-**Predicate:** challenged_credentials_of
-**Object:** three Trump-appointed commission members (legal_challenge)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Jon Golinger; Will Scharf; James Blair; Stuart Levenbach
+- **Predicate:** challenged_credentials_of
+- **Object:** three Trump-appointed commission members (legal_challenge)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > Jon Golinger, an attorney for Public Citizen, challenged the credentials of Will Scharf, James Blair, and Stuart Levenbach and called on all three to recuse themselves and resign.
 
-### c_011 — attributed, primary document
-**Subject entities:** Will Scharf
-**Predicate:** said
-**Object:** you're just completely wrong (attributed_statement)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Will Scharf
+- **Predicate:** said
+- **Object:** you're just completely wrong (attributed_statement)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > Will Scharf told Golinger, 'you're just completely wrong,' and cited his real estate law background and service on state boards dealing with housing and development.
 
-### c_012 — attributed, primary document
-**Subject entities:** National Capital Planning Commission
-**Predicate:** received_written_comments
-**Object:** more than 35,000 written comments, majority opposed (count)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** National Capital Planning Commission
+- **Predicate:** received_written_comments
+- **Object:** more than 35,000 written comments, majority opposed (count)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > The commission received written comments from more than 35,000 people, with the majority opposed to Trump's proposal.
 
@@ -224,10 +250,5 @@ The lone voice of support at the hearing came from Tara Brown, who said the publ
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Darlene Superville
 **Publication date:** 2026-03-05
-**Access date:** 2026-05-17
 **Title:** Federal panel hears public opposition to Trump's White House ballroom
 **URL:** https://apnews.com/article/trump-ballroom-white-house-east-wing-12150cea351dc99858b3777e868fef34
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

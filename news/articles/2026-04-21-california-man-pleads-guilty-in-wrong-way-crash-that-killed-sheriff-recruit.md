@@ -17,7 +17,8 @@ topic_tags:
   - "crime, law and justice"
   - "disaster, accident and emergency incident"
   - "law enforcement"
-storyline_nexus: []
+storyline_nexus:
+- mexico-cartel-violence
 geographic_location: Whittier, California, United States
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -94,88 +95,104 @@ Investigators determined that Gutierrez appeared to have fallen asleep while dri
 
 Los Angeles County District Attorney Nathan J. Hochman said in a statement that the plea marks "a step toward justice and a measure of closure for the victims and their families whose lives have been forever changed."
 
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed in the sources section. The framework specification is available at /methodology. This article was not selected for human review. [CC0 Public Domain](https://creativecommons.org/publicdomain/zero/1.0/)*
-
 ## Atomic claims
 
-### c_001 — attributed, primary document
-**Subject entities:** Nicholas Gutierrez
-**Predicate:** pleaded_guilty
-**Object:** vehicular manslaughter with gross negligence (criminal_charge)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Nicholas Gutierrez
+- **Predicate:** pleaded_guilty
+- **Object:** vehicular manslaughter with gross negligence (criminal_charge)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Nicholas Gutierrez, 25, of Diamond Bar, California, pleaded guilty Monday to vehicular manslaughter with gross negligence.
 
-### c_002 — attributed, primary document
-**Subject entities:** Nicholas Gutierrez
-**Predicate:** pleaded_guilty
-**Object:** nine counts of reckless driving causing injuries (criminal_charge)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Nicholas Gutierrez
+- **Predicate:** pleaded_guilty
+- **Object:** nine counts of reckless driving causing injuries (criminal_charge)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Gutierrez also pleaded guilty to nine counts of reckless driving causing injuries.
 
-### c_003 — attributed, primary document
-**Subject entities:** Nicholas Gutierrez
-**Predicate:** sentenced
-**Object:** eight years suspended, five years probation (sentence)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Nicholas Gutierrez
+- **Predicate:** sentenced
+- **Object:** eight years suspended, five years probation (sentence)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Gutierrez was ordered to receive an eight-year suspended prison sentence and be placed on probation for five years.
 
-### c_004 — reported, primary document
-**Subject entities:** Nicholas Gutierrez; Whittier
-**Predicate:** struck_pedestrians
-**Object:** 25 recruits in a morning run (incident)
-**Temporal:** 2022
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Nicholas Gutierrez; Whittier
+- **Predicate:** struck_pedestrians
+- **Object:** 25 recruits in a morning run (incident)
+- **Temporal:** 2022
+- **Sources:** src_001
 
 > Gutierrez was driving an SUV that veered onto the wrong side of the road in Whittier in 2022, striking 25 recruits on a morning run.
 
-### c_005 — reported, primary document
-**Subject entities:** Los Angeles Sheriff's Department
-**Predicate:** conducting_training_run
-**Object:** 76 recruits in formation (personnel)
-**Temporal:** 2022
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Los Angeles Sheriff's Department
+- **Predicate:** conducting_training_run
+- **Object:** 76 recruits in formation (personnel)
+- **Temporal:** 2022
+- **Sources:** src_001
 
 > 76 recruits from the Los Angeles Sheriff's Department and several local police agencies were running in formation in the street when the crash occurred.
 
-### c_006 — reported, primary document
-**Subject entities:** Whittier crash victims
-**Predicate:** sustained_injuries
-**Object:** ten recruits with serious injuries (casualty_count)
-**Temporal:** 2022
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Whittier crash victims
+- **Predicate:** sustained_injuries
+- **Object:** ten recruits with serious injuries (casualty_count)
+- **Temporal:** 2022
+- **Sources:** src_001
 
 > Ten recruits were seriously injured in the crash.
 
-### c_007 — reported, primary document
-**Subject entities:** Alejandro Martinez
-**Predicate:** died_from_injuries
-**Object:** fatal injuries from crash (death)
-**Temporal:** 2022
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Alejandro Martinez
+- **Predicate:** died_from_injuries
+- **Object:** fatal injuries from crash (death)
+- **Temporal:** 2022
+- **Sources:** src_001
 
 > Alejandro Martinez, one of the injured recruits, died from his injuries eight months after the crash.
 
-### c_008 — appears, primary document
-**Subject entities:** Nicholas Gutierrez
-**Predicate:** apparent_cause_of_crash
-**Object:** fell asleep at the wheel (causal_finding)
-**Temporal:** 2022
-**Source IDs:** src_001
+### c_008
+- **Hedge:** appears
+- **Corroboration:** primary_document
+- **Subject entities:** Nicholas Gutierrez
+- **Predicate:** apparent_cause_of_crash
+- **Object:** fell asleep at the wheel (causal_finding)
+- **Temporal:** 2022
+- **Sources:** src_001
 
 > The investigation determined that Gutierrez appeared to have fallen asleep while driving.
 
-### c_009 — attributed, primary document
-**Subject entities:** Nathan J. Hochman
-**Predicate:** said
-**Object:** statement about justice and closure (statement)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Nathan J. Hochman
+- **Predicate:** said
+- **Object:** statement about justice and closure (statement)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Los Angeles County District Attorney Nathan J. Hochman said the plea marks "a step toward justice and a measure of closure for the victims and their families whose lives have been forever changed."
 
@@ -186,7 +203,3 @@ Los Angeles County District Attorney Nathan J. Hochman said in a statement that 
 **Access date:** 2026-04-21
 **Title:** Driver pleads guilty in wrong-way crash that killed LA sheriff's recruit
 **URL:** https://apnews.com/article/los-angeles-sheriffs-recruits-wrongway-crash-dc0b662a676eb24ee4e164fe57b247db
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

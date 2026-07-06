@@ -17,40 +17,43 @@ primary_themes:
 - court orders
 - student rights
 topic_tags:
-  - "crime, law and justice"
+- crime, law and justice
+- human migration
+- government policy
+- higher education
 storyline_nexus:
-  - immigration-enforcement
-geographic_location: Boston, Massachusetts; Honduras
+- us-immigration-enforcement
+geographic_location: United States
 floor_values_engaged:
+- value: accountability_of_power
+  intensity: 0.9
 - value: human_life_and_dignity
   intensity: 0.9
-- value: accountability_of_power
-  intensity: 0.8
-- value: informed_citizenship
-  intensity: 0.7
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:00:37Z'
+- value: equality_fairness
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:25:01Z'
 source_cluster_id: cluster_ap_2026-01-19_college-student-thanksgiving-deportation
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 13
   hedges:
-    appears: 0
+    confirmed: 5
     alleged: 0
     attributed: 5
-    reported: 3
+    appears: 0
     contested: 0
-    confirmed: 5
+    reported: 3
   corroboration:
-    primary_plus_secondary: 6
-    one_originating_plus_primary_document: 0
-    primary_document: 0
-    single_source: 7
     two_independent: 0
+    primary_document: 0
+    one_originating_plus_primary_document: 0
+    single_source: 7
+    primary_plus_secondary: 6
 sources:
   count: 1
   outlets:
@@ -64,41 +67,20 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-13-nyc-council-employee-arrested-at-asylum-check-in-sparking-protests-and-legal-fig
-  relation: related
-  strength: 0.7674
-  confidence: medium
-- slug: 2026-01-14-minneapolis-sees-second-federal-shooting-as-courts-governor-push-back-on-immigra
-  relation: related
-  strength: 0.7284
-  confidence: medium
-- slug: 2026-01-14-oglala-sioux-tribe-demands-release-of-three-members-held-in-ice-detention
-  relation: related
-  strength: 0.7262
-  confidence: medium
-- slug: 2026-01-12-venezuelan-migrants-welcome-maduro-s-ouster-but-fear-us-deportation
-  relation: related
-  strength: 0.7354
-  confidence: medium
-- slug: 2026-01-13-federal-agents-deploy-tear-gas-in-minneapolis-as-five-prosecutors-resign-over-re
-  relation: related
-  strength: 0.7186
-  confidence: medium
-- slug: 2026-01-12-congress-members-blocked-from-minneapolis-ice-facility-after-dhs-reinstates-acce
-  relation: related
-  strength: 0.7247
-  confidence: medium
-- slug: 2026-01-13-trump-administration-ends-temporary-protected-status-for-somali-immigrants
-  relation: related
-  strength: 0.7149
-  confidence: medium
-- slug: 2026-01-11-federal-agents-ram-minneapolis-door-pepper-spray-protesters-in-immigration-sweep
-  relation: related
-  strength: 0.7259
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- A mistakenly deported Babson College student tells AP how her life turned upside down
+- “They’re scared. They’re scared to step outside because of how everything is,” she said. “They’re traumatized. I’m traumatized.”
+- The Department of Homeland Security did not offer comment on her parents’ case and has not responded in court to her attorney’s request to bring her back to the U.S.
+- “Those hours I was detained, it was so horrible,” she said.
+- Lopez Belloza was able to make a phone call to her family before being loaded onto a plane to Texas, her last stop before leaving the country.
+- “Knowing that it was a mistake, it does hurt me. Based on that mistake that they made, my life did a 360 change,” she said.
 
 Any Lucia Lopez Belloza, a 19-year-old Babson College freshman, was detained by federal immigration agents at Boston's Logan Airport on November 20 and deported to Honduras two days later, despite a Massachusetts court order that she must not leave the United States, she told the Associated Press on Friday. The U.S. government has apologized in court, acknowledging that an Immigration and Customs Enforcement officer mistakenly kept her name on a deportation flight list. Her attorney filed a motion Friday asking a federal judge to set a two-week deadline for the Trump administration to arrange her return.
 
@@ -158,120 +140,146 @@ Lopez Belloza said she is grateful for the government's apology but said it has 
 
 ## Atomic claims
 
-### c_001 — confirmed, primary plus secondary
-**Subject entities:** Any Lucia Lopez Belloza; Babson College
-**Predicate:** detained_at
-**Object:** Boston Logan Airport (location)
-**Temporal:** 2025-11-20
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** Any Lucia Lopez Belloza; Babson College
+- **Predicate:** detained_at
+- **Object:** Boston Logan Airport (location)
+- **Temporal:** 2025-11-20
+- **Sources:** src_001
 
 > Any Lucia Lopez Belloza, a 19-year-old Babson College freshman, was detained at Boston's Logan Airport on November 20, 2025.
 
-### c_002 — confirmed, primary plus secondary
-**Subject entities:** Any Lucia Lopez Belloza
-**Predicate:** deported_in_defiance_of_court_order
-**Object:** Honduras (country)
-**Temporal:** 2025-11-22
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** Any Lucia Lopez Belloza
+- **Predicate:** deported_in_defiance_of_court_order
+- **Object:** Honduras (country)
+- **Temporal:** 2025-11-22
+- **Sources:** src_001
 
 > Lopez Belloza was deported to Honduras on November 22, 2025, two days after her detention, despite a Massachusetts court order barring her removal from the United States.
 
-### c_003 — confirmed, primary plus secondary
-**Subject entities:** U.S. government; ICE
-**Predicate:** apologized_for_error
-**Object:** mistaken deportation (government_action)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** U.S. government; ICE
+- **Predicate:** apologized_for_error
+- **Object:** mistaken deportation (government_action)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > The U.S. government apologized in court, acknowledging that an ICE officer mistakenly kept Lopez Belloza's name on a deportation flight list despite the court order.
 
-### c_004 — confirmed, primary plus secondary
-**Subject entities:** Todd Pomerleau
-**Predicate:** filed_motion
-**Object:** two-week return deadline (legal_filing)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** Todd Pomerleau
+- **Predicate:** filed_motion
+- **Object:** two-week return deadline (legal_filing)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > Attorney Todd Pomerleau filed a motion Friday asking a federal judge to give federal officials a two-week deadline to bring Lopez Belloza back to the United States.
 
-### c_005 — confirmed, primary plus secondary
-**Subject entities:** Richard Stearns
-**Predicate:** ruled_no_jurisdiction
-**Object:** habeas petition (legal_ruling)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** Richard Stearns
+- **Predicate:** ruled_no_jurisdiction
+- **Object:** habeas petition (legal_ruling)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > U.S. District Judge Richard Stearns ruled he lacked jurisdiction over Lopez Belloza's habeas petition because it was filed after she was transferred to Texas.
 
-### c_006 — attributed, primary plus secondary
-**Subject entities:** Richard Stearns; Marco Rubio; Babson College
-**Predicate:** urged_remedy_with_visa_pathway
-**Object:** non-immigrant student visa (judicial_recommendation)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** Richard Stearns; Marco Rubio; Babson College
+- **Predicate:** urged_remedy_with_visa_pathway
+- **Object:** non-immigrant student visa (judicial_recommendation)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > Judge Stearns urged the Trump administration to remedy the mistake before contemplating further court orders, and noted that Secretary of State Marco Rubio could issue a non-immigrant student visa allowing Lopez Belloza to continue studies at Babson.
 
-### c_007 — attributed, single source
-**Subject entities:** Any Lucia Lopez Belloza
-**Predicate:** subject_to_removal_order
-**Object:** 2016 removal order, appeal dismissed 2017 (legal_order)
-**Temporal:** 2016-01-01
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Any Lucia Lopez Belloza
+- **Predicate:** subject_to_removal_order
+- **Object:** 2016 removal order, appeal dismissed 2017 (legal_order)
+- **Temporal:** 2016-01-01
+- **Sources:** src_001
 
 > An immigration judge ordered Lopez Belloza and her mother removed in 2016; the Board of Immigration Appeals dismissed their appeal in 2017.
 
-### c_008 — attributed, single source
-**Subject entities:** Any Lucia Lopez Belloza
-**Predicate:** claimed_no_knowledge_of_removal_order
-**Object:** no prior knowledge of removal order (personal_account)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Any Lucia Lopez Belloza
+- **Predicate:** claimed_no_knowledge_of_removal_order
+- **Object:** no prior knowledge of removal order (personal_account)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > Lopez Belloza said her previous attorney told her there was no removal order, and she insists she would not have tried to fly home had she known about it.
 
-### c_009 — attributed, single source
-**Subject entities:** Any Lucia Lopez Belloza; ICE
-**Predicate:** detained_in_overcrowded_conditions
-**Object:** ICE holding cell, 17 women, no room to lie down (detention_conditions)
-**Temporal:** 2025-11-20
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Any Lucia Lopez Belloza; ICE
+- **Predicate:** detained_in_overcrowded_conditions
+- **Object:** ICE holding cell, 17 women, no room to lie down (detention_conditions)
+- **Temporal:** 2025-11-20
+- **Sources:** src_001
 
 > ICE held Lopez Belloza in a facility holding cell for two nights with 17 other women without enough room to lie down and sleep, according to court documents.
 
-### c_010 — reported, single source
-**Subject entities:** Babson College; Any Lucia Lopez Belloza
-**Predicate:** offered_remote_study_support
-**Object:** remote studies (institutional_support)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Babson College; Any Lucia Lopez Belloza
+- **Predicate:** offered_remote_study_support
+- **Object:** remote studies (institutional_support)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > Babson College has offered Lopez Belloza support to continue her studies remotely while she remains in Honduras.
 
-### c_011 — attributed, single source
-**Subject entities:** Any Lucia Lopez Belloza
-**Predicate:** reported_parents_fear_ice
-**Object:** parents targeted despite pending green card applications (family_situation)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Any Lucia Lopez Belloza
+- **Predicate:** reported_parents_fear_ice
+- **Object:** parents targeted despite pending green card applications (family_situation)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > Lopez Belloza's parents remain in Texas and fear leaving their home because of ICE enforcement, despite having applied for green cards.
 
-### c_012 — reported, single source
-**Subject entities:** Kilmar Abrego Garcia
-**Predicate:** deported_despite_court_order_then_returned
-**Object:** El Salvador (country)
-**Temporal:** 2025-01-01
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Kilmar Abrego Garcia
+- **Predicate:** deported_despite_court_order_then_returned
+- **Object:** El Salvador (country)
+- **Temporal:** 2025-01-01
+- **Sources:** src_001
 
 > Kilmar Abrego Garcia was previously deported to El Salvador despite a court ruling that should have prevented it and was eventually returned after the U.S. Supreme Court weighed in.
 
-### c_013 — reported, single source
-**Subject entities:** O.C.G.
-**Predicate:** returned_after_improper_removal
-**Object:** returned to United States from Mexico (legal_outcome)
-**Temporal:** 2025-06-01
-**Source IDs:** src_001
+### c_013
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** O.C.G.
+- **Predicate:** returned_after_improper_removal
+- **Object:** returned to United States from Mexico (legal_outcome)
+- **Temporal:** 2025-06-01
+- **Sources:** src_001
 
 > A Guatemalan man identified as O.C.G. was returned to the United States after a judge found his removal from Mexico likely lacked any semblance of due process.
 
@@ -280,10 +288,5 @@ Lopez Belloza said she is grateful for the government's apology but said it has 
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Michael Casey
 **Publication date:** 2026-01-16
-**Access date:** 2026-01-16
 **Title:** Babson student tells AP how a mistaken deportation upended her life
 **URL:** https://apnews.com/article/college-student-thanksgiving-deportation-government-apology-c4e47cc65f2607e1902dbb481b3355bf
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

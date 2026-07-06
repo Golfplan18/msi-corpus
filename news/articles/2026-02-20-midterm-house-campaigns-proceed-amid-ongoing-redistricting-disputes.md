@@ -21,40 +21,44 @@ primary_themes:
 - House of Representatives
 - partisan politics
 topic_tags:
-  - election
-  - politics
+- election
+- government
+- politics
+- judiciary
+- political process
 storyline_nexus:
-  - 2026-midterms
-  - us-administration-2026
-geographic_location: United States (multiple states)
+- redistricting-voting-rights
+geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.95
+- value: equality_fairness
+  intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.7
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+  intensity: 0.6
+- value: informed_citizenship
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:34:46Z'
 source_cluster_id: cluster_ap_2026-02-21_redistricting-congress-house-trump-gerry
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 13
   hedges:
-    appears: 0
     alleged: 0
-    attributed: 2
-    reported: 5
-    contested: 0
     confirmed: 6
+    appears: 0
+    contested: 0
+    reported: 5
+    attributed: 2
   corroboration:
+    single_source: 13
+    two_independent: 0
     primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
     primary_document: 0
-    single_source: 13
-    two_independent: 0
 sources:
   count: 1
   outlets:
@@ -68,37 +72,16 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-04-18-trump-backs-primary-challengers-to-indiana-senators-who-rejected-redistricting
-  relation: related
-  strength: 0.8534
-  confidence: medium
-- slug: 2026-04-17-mej-a-wins-new-jersey-house-special-election-adding-to-democratic-gains
-  relation: related
-  strength: 0.7467
-  confidence: medium
-- slug: 2026-01-12-trump-s-redistricting-push-reaches-a-crossroads-as-new-legislative-sessions-begi
-  relation: continues
-  strength: 0.9368
-  confidence: high
-- slug: 2026-01-07-trump-redistricting-push-spreads-to-one-third-of-states-giving-gop-a-three-seat-
-  relation: continues
-  strength: 0.93
-  confidence: high
-- slug: 2026-01-07-desantis-calls-april-special-session-to-redraw-florida-s-congressional-districts
-  relation: related
-  strength: 0.905
-  confidence: medium
-- slug: 2026-01-07-lamalfa-death-triggers-california-special-election-as-house-gop-majority-narrows
-  relation: related
-  strength: 0.7691
-  confidence: medium
-- slug: 2026-01-06-georgia-sets-march-10-special-election-for-greene-s-former-seat
-  relation: related
-  strength: 0.7717
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- Democrats need to gain only a few seats to win control of the House, which currently has a Republican majority. However, partisan projections carry uncertainty. Trump faces negative approval rating...
+- Democrats need to gain only a few seats to win control of the House, which currently has a Republican majority. However, partisan projections carry un
+- Democrats need to gain only a few seats to win control of the House, which currently has a Republican majority. However, partisan projections carry un
 
 Primary elections have already taken place in Texas and North Carolina for newly redrawn House districts, yet a nationwide redistricting battle continues to reshape congressional boundaries in multiple states even as full midterm campaigns are underway. Final district boundaries remain uncertain in Missouri and Virginia, where court decisions and legal challenges could alter voting districts before the November elections.
 
@@ -144,124 +127,148 @@ Democratic lawmakers in Washington have proposed a constitutional amendment allo
 
 Wisconsin has two lawsuits asserting that congressional districts must be redrawn because they unconstitutionally favor Republicans. One case is not scheduled for trial until 2027, and it remains unclear whether the other case can be resolved before the midterm election.
 
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. The framework specification is available at /methodology. This article was not selected for human review. Main Street Independent operates under CC0—this work is in the public domain.*
-
 ## Atomic claims
 
-### c_001 — confirmed, single source
-**Subject entities:** Texas; North Carolina
-**Predicate:** held_primary_elections
-**Object:** primary elections in redrawn districts (election_event)
-**Temporal:** 2026-02
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Texas; North Carolina
+- **Predicate:** held_primary_elections
+- **Object:** primary elections in redrawn districts (election_event)
+- **Temporal:** 2026-02
+- **Sources:** src_001
 
 > Primary elections for House seats have taken place in Texas and North Carolina in newly redrawn districts.
 
-### c_002 — confirmed, single source
-**Subject entities:** Missouri; Virginia
-**Predicate:** have_uncertain_boundaries
-**Object:** final boundaries uncertain (status)
-**Temporal:** 2026-02
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Missouri; Virginia
+- **Predicate:** have_uncertain_boundaries
+- **Object:** final boundaries uncertain (status)
+- **Temporal:** 2026-02
+- **Sources:** src_001
 
 > Final redistricting boundaries remain uncertain in Missouri and Virginia.
 
-### c_003 — attributed, single source
-**Subject entities:** Donald Trump; Texas Republicans
-**Predicate:** urged_redistricting
-**Object:** redraw districts for GOP advantage (advocacy)
-**Temporal:** 2025-summer
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Texas Republicans
+- **Predicate:** urged_redistricting
+- **Object:** redraw districts for GOP advantage (advocacy)
+- **Temporal:** 2025-summer
+- **Sources:** src_001
 
 > President Trump urged Texas Republicans last summer to redraw House districts for partisan advantage.
 
-### c_004 — attributed, single source
-**Subject entities:** California Democrats
-**Predicate:** initiated_redistricting
-**Object:** redistricting effort (legislative_action)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** California Democrats
+- **Predicate:** initiated_redistricting
+- **Object:** redistricting effort (legislative_action)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > California Democrats initiated their own redistricting effort in response to Trump's push.
 
-### c_005 — reported, single source
-**Subject entities:** Republican Party
-**Predicate:** project_seat_gains
-**Object:** nine additional seats (political_projection)
-**Temporal:** 2026-02
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Republican Party
+- **Predicate:** project_seat_gains
+- **Object:** nine additional seats (political_projection)
+- **Temporal:** 2026-02
+- **Sources:** src_001
 
 > Republicans believe they could gain as many as nine additional House seats from redistricting efforts.
 
-### c_006 — reported, single source
-**Subject entities:** Democratic Party
-**Predicate:** project_seat_gains
-**Object:** six seats (political_projection)
-**Temporal:** 2026-02
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Democratic Party
+- **Predicate:** project_seat_gains
+- **Object:** six seats (political_projection)
+- **Temporal:** 2026-02
+- **Sources:** src_001
 
 > Democrats anticipate they could gain six seats from redistricting in other states.
 
-### c_007 — confirmed, single source
-**Subject entities:** Democratic Party
-**Predicate:** need_seats_for_control
-**Object:** a few seats (political_requirement)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Democratic Party
+- **Predicate:** need_seats_for_control
+- **Object:** a few seats (political_requirement)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Democrats need to gain a few House seats to win a majority and control the chamber.
 
-### c_008 — reported, single source
-**Subject entities:** Virginia; Democratic Party
-**Predicate:** could_enable_seat_gains
-**Object:** four additional seats (political_projection)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Virginia; Democratic Party
+- **Predicate:** could_enable_seat_gains
+- **Object:** four additional seats (political_projection)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > A Democratic-drafted map in Virginia could help Democrats win as many as four additional House seats.
 
-### c_009 — confirmed, single source
-**Subject entities:** Virginia Supreme Court
-**Predicate:** ruled_on_referendum
-**Object:** April referendum can proceed (legal_ruling)
-**Temporal:** 2026-02
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Virginia Supreme Court
+- **Predicate:** ruled_on_referendum
+- **Object:** April referendum can proceed (legal_ruling)
+- **Temporal:** 2026-02
+- **Sources:** src_001
 
 > Virginia's state Supreme Court ruled that an April redistricting referendum can proceed while the Court considers arguments against the amendment.
 
-### c_010 — reported, single source
-**Subject entities:** Greg Abbott; Texas
-**Predicate:** signed_redistricting_map
-**Object:** revised map enabling five potential GOP seats (legislative_action)
-**Temporal:** 2025-08
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Greg Abbott; Texas
+- **Predicate:** signed_redistricting_map
+- **Object:** revised map enabling five potential GOP seats (legislative_action)
+- **Temporal:** 2025-08
+- **Sources:** src_001
 
 > Texas Gov. Greg Abbott signed a revised House map into law in August that could help Republicans win five additional seats.
 
-### c_011 — confirmed, single source
-**Subject entities:** U.S. Supreme Court; Texas
-**Predicate:** cleared_redistricting_map
-**Object:** redistricting map approved for use (legal_ruling)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_011
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Supreme Court; Texas
+- **Predicate:** cleared_redistricting_map
+- **Object:** redistricting map approved for use (legal_ruling)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > The U.S. Supreme Court in December cleared the way for Texas's redistricting map to be used in 2026 elections.
 
-### c_012 — reported, single source
-**Subject entities:** California; Democratic Party
-**Predicate:** approved_redistricting_map
-**Object:** map enabling five potential Democratic seats (voter_action)
-**Temporal:** 2025-11
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** California; Democratic Party
+- **Predicate:** approved_redistricting_map
+- **Object:** map enabling five potential Democratic seats (voter_action)
+- **Temporal:** 2025-11
+- **Sources:** src_001
 
 > California voters approved revised House districts in November that could help Democrats win five additional seats.
 
-### c_013 — confirmed, single source
-**Subject entities:** U.S. Supreme Court; California
-**Predicate:** approved_redistricting_map
-**Object:** districts approved for use; Republican and DOJ appeals denied (legal_ruling)
-**Temporal:** 2026-02
-**Source IDs:** src_001
+### c_013
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Supreme Court; California
+- **Predicate:** approved_redistricting_map
+- **Object:** districts approved for use; Republican and DOJ appeals denied (legal_ruling)
+- **Temporal:** 2026-02
+- **Sources:** src_001
 
 > The U.S. Supreme Court in February allowed California's new districts to be used in 2026 elections, denying an appeal from Republicans and the Department of Justice.
 
@@ -270,10 +277,5 @@ Wisconsin has two lawsuits asserting that congressional districts must be redraw
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** David A. Lieb
 **Publication date:** 2026-02-20
-**Access date:** 2026-05-18
 **Title:** A redistricting war rages as US House elections draw near
 **URL:** https://apnews.com/article/redistricting-congress-house-trump-gerrymander-2e5948055064f6e335170977bc4247f0
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

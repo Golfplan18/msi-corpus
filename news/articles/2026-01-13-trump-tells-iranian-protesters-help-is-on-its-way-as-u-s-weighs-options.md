@@ -1,6 +1,5 @@
 ---
 headline: Trump tells Iranian protesters 'help is on its way' as U.S. weighs options
-slug: 2026-01-13-trump-tells-iranian-protesters-help-is-on-its-way-as-us-weighs-options
 publish_date: '2026-01-13'
 lede: President Donald Trump told Iranian protesters "help is on its way" and cut off talks with the Iranian government on Tuesday, as his administration weighed options including military strikes in response to a crackdown that rights monitors say has killed more than 2,500 people since demonstrations began Dec. 28.
 nut_graf: The moves mark a sharp shift in Washington's public posture toward Tehran, coming as protests spanning all of Iran's 31 provinces have grown into one of the country's most significant tests of Supreme Leader Ayatollah Ali Khamenei's rule in years.
@@ -16,45 +15,44 @@ primary_themes:
 - Trump foreign policy
 - human rights
 topic_tags:
-  - "armed conflict"
-  - "conflict, war and peace"
-  - government
-  - "government policy"
-  - "human interest"
-  - "international relations"
+- civil unrest
+- armed conflict
+- international relations
+- government
+- political dissent
 storyline_nexus:
-  - iran-war
-geographic_location: Iran; United States
+- the-iran-war
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
-  intensity: 0.95
-- value: accountability_of_power
-  intensity: 0.85
-- value: informed_citizenship
   intensity: 0.9
-framework_version: 1.1.0
-generation_timestamp: '2026-01-13T00:00:00Z'
+- value: accountability_of_power
+  intensity: 0.9
+- value: informed_citizenship
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:08:15Z'
 source_cluster_id: cluster_ap_2026-01-12_iran-protests-trump-80f937dfbb3e04e5322d
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 13
   hedges:
-    appears: 0
-    alleged: 0
     attributed: 13
+    alleged: 0
     reported: 0
-    contested: 0
     confirmed: 0
+    appears: 0
+    contested: 0
   corroboration:
-    primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
+    primary_plus_secondary: 0
     primary_document: 0
-    single_source: 13
     two_independent: 0
+    single_source: 13
 sources:
   count: 1
   outlets:
@@ -72,41 +70,18 @@ image:
   url: /articles/2026-01-13-trump-tells-iranian-protesters-help-is-on-its-way-as-u-s-weighs-options.png
   alt: 'Illustration accompanying article: Trump tells Iranian protesters ''help is on its way'' as U.S. weighs options'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-08-iran-cuts-internet-and-phones-as-exiled-prince-s-call-draws-mass-protests
-  relation: related
-  strength: 0.8554
-  confidence: medium
-- slug: 2026-01-03-khamenei-says-rioters-must-be-put-in-their-place-as-iran-protest-deaths-reach-15
-  relation: related
-  strength: 0.8813
-  confidence: medium
-- slug: 2026-01-07-iran-army-chief-threatens-preemptive-attack-as-protests-enter-11th-day
-  relation: related
-  strength: 0.8432
-  confidence: medium
-- slug: 2026-01-04-iran-protests-reach-all-31-provinces-as-rial-collapse-deepens-internet-cut
-  relation: related
-  strength: 0.8473
-  confidence: medium
-- slug: 2026-01-02-trump-and-iran-officials-trade-threats-as-protests-enter-sixth-day
-  relation: continues
-  strength: 0.8585
-  confidence: high
-- slug: 2026-01-07-iran-security-forces-fire-tear-gas-at-grand-bazaar-as-protest-death-toll-reaches
-  relation: related
-  strength: 0.8238
-  confidence: medium
-- slug: 2026-01-02-trump-and-iran-trade-threats-as-rial-protests-enter-sixth-day-killing-at-least-7
-  relation: continues
-  strength: 0.8378
-  confidence: high
-- slug: 2026-01-01-at-least-7-killed-as-iran-protests-over-economy-spread-to-rural-provinces
-  relation: continues
-  strength: 0.8289
-  confidence: high
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Summary point 1.
+- Summary point 2.
+- Summary point 3.
+- Summary point 4.
 
 President Donald Trump told Iranian protesters "help is on its way" and cut off talks with the Iranian government on Tuesday, as his administration weighed options including military strikes in response to a crackdown that rights monitors say has killed more than 2,500 people since demonstrations began Dec. 28.
 
@@ -150,120 +125,146 @@ Trump said his administration was managing several other foreign policy matters 
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Donald Trump
-**Predicate:** stated
-**Object:** help is on its way (public_statement)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** stated
+- **Object:** help is on its way (public_statement)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Trump told Iranian protesters 'help is on its way' on Jan. 13, 2026.
 
-### c_002 — attributed, single source
-**Subject entities:** Donald Trump
-**Predicate:** announced
-**Object:** cut off talks with Iranian officials (policy_decision)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** announced
+- **Object:** cut off talks with Iranian officials (policy_decision)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Trump cut off the prospect of talks with Iranian officials on Jan. 13, 2026.
 
-### c_003 — attributed, single source
-**Subject entities:** Donald Trump
-**Predicate:** consulting
-**Object:** national security team on Iran next steps (government_action)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** consulting
+- **Object:** national security team on Iran next steps (government_action)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Trump was consulting with his national security team Tuesday about next steps with Iran.
 
-### c_004 — attributed, single source
-**Subject entities:** Iran protests
-**Predicate:** resulted_in
-**Object:** 16700 arrested, 2500+ killed (casualty_count)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Iran protests
+- **Predicate:** resulted_in
+- **Object:** 16700 arrested, 2500+ killed (casualty_count)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Since protests began Dec. 28, 16,700 people have been arrested and more than 2,500 have been killed, according to the Human Rights Activists News Agency.
 
-### c_005 — attributed, single source
-**Subject entities:** Amir Saeid Iravani
-**Predicate:** denounced
-**Object:** interventionist rhetoric (diplomatic_statement)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Amir Saeid Iravani
+- **Predicate:** denounced
+- **Object:** interventionist rhetoric (diplomatic_statement)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Iran's UN Ambassador Amir Saeid Iravani denounced Trump's comments in a letter to U.N. officials as 'interventionist rhetoric.'
 
-### c_006 — attributed, single source
-**Subject entities:** Iran protests
-**Predicate:** occurred_across
-**Object:** 600+ protests across 31 provinces (event_count)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Iran protests
+- **Predicate:** occurred_across
+- **Object:** 600+ protests across 31 provinces (event_count)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > More than 600 protests have taken place across all of Iran's 31 provinces, according to the Human Rights Activists News Agency.
 
-### c_007 — attributed, single source
-**Subject entities:** Iranian state media
-**Predicate:** aired
-**Object:** 97 confessions from protesters (media_content)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Iranian state media
+- **Predicate:** aired
+- **Object:** 97 confessions from protesters (media_content)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Iranian state media has aired at least 97 confessions from protesters since the protests began, according to a rights group tracking the videos.
 
-### c_008 — attributed, single source
-**Subject entities:** Donald Trump
-**Predicate:** announced
-**Object:** 25% tariffs on countries doing business with Tehran (policy_action)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** announced
+- **Object:** 25% tariffs on countries doing business with Tehran (policy_action)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Trump announced Monday he would impose 25% tariffs on countries doing business with Tehran, effective immediately.
 
-### c_009 — attributed, single source
-**Subject entities:** JD Vance; Marco Rubio
-**Predicate:** began_meeting
-**Object:** options from diplomatic approach to military strikes (government_planning)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** JD Vance; Marco Rubio
+- **Predicate:** began_meeting
+- **Object:** options from diplomatic approach to military strikes (government_planning)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > Vice President JD Vance, Secretary of State Marco Rubio, and senior NSC officials began meeting Friday to develop options for Trump ranging from diplomacy to military strikes.
 
-### c_010 — attributed, single source
-**Subject entities:** Iran protests; Ali Khamenei
-**Predicate:** originated_from
-**Object:** currency collapse beginning Dec. 28 (event_origin)
-**Temporal:** 2025-12-28
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Iran protests; Ali Khamenei
+- **Predicate:** originated_from
+- **Object:** currency collapse beginning Dec. 28 (event_origin)
+- **Temporal:** 2025-12-28
+- **Sources:** src_001
 
 > The protests began Dec. 28, spurred by the collapse of the Iranian currency, and have grown into a broader test of Khamenei's rule.
 
-### c_011 — attributed, single source
-**Subject entities:** Iran
-**Predicate:** warned
-**Object:** US military and Israel are legitimate targets if Washington uses force (threat)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Iran
+- **Predicate:** warned
+- **Object:** US military and Israel are legitimate targets if Washington uses force (threat)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Iran's parliamentary speaker warned that the U.S. military and Israel would be 'legitimate targets' if Washington uses force to protect demonstrators.
 
-### c_012 — attributed, single source
-**Subject entities:** United States military; Iran
-**Predicate:** struck
-**Object:** Iranian nuclear facilities (military_action)
-**Temporal:** 2025-06
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** United States military; Iran
+- **Predicate:** struck
+- **Object:** Iranian nuclear facilities (military_action)
+- **Temporal:** 2025-06
+- **Sources:** src_001
 
 > The U.S. military launched strikes on key Iranian nuclear facilities in June, according to Trump.
 
-### c_013 — attributed, single source
-**Subject entities:** Donald Trump
-**Predicate:** stated
-**Object:** undeterred by Iranian retaliation threats (public_statement)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** stated
+- **Object:** undeterred by Iranian retaliation threats (public_statement)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Trump said he was undeterred by Iran's threats of retaliation.
 
@@ -272,10 +273,5 @@ Trump said his administration was managing several other foreign policy matters 
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Aamer Madhani
 **Publication date:** 2026-01-13
-**Access date:** 2026-01-13
 **Title:** Trump tells Iranian protesters 'help is on its way'
 **URL:** https://apnews.com/article/iran-protests-trump-80f937dfbb3e04e5322dae30db3ad4b3
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

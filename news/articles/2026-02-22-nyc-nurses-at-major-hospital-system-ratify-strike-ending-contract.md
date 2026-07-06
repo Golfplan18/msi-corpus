@@ -16,42 +16,42 @@ primary_themes:
 - nursing
 - contract negotiation
 topic_tags:
-  - "science and technology"
-  - "artificial intelligence"
-  - labour
-  - "labour dispute"
-storyline_nexus: []
-geographic_location: New York City, New York
+- labour dispute
+- labour relations
+- wage and pension
+- employment
+- artificial intelligence
+storyline_nexus:
+- aca-medicaid-healthcare-crisis
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
-  intensity: 0.85
+  intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.75
-- value: informed_citizenship
-  intensity: 0.65
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:54:39Z'
 source_cluster_id: cluster_ap_2026-02-23_nursing-strike-newyorkpresbyterian-vote-
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 16
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 6
     reported: 4
-    contested: 0
+    attributed: 6
+    appears: 0
     confirmed: 6
+    contested: 0
+    alleged: 0
   corroboration:
     primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
+    two_independent: 0
     primary_document: 2
     single_source: 14
-    two_independent: 0
+    one_originating_plus_primary_document: 0
 sources:
   count: 1
   outlets:
@@ -65,21 +65,12 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-12-about-15-000-nyc-nurses-strike-at-three-hospital-systems-over-staffing-and-ai
-  relation: continues
-  strength: 0.884
-  confidence: high
-- slug: 2026-01-11-nearly-15-000-nyc-nurses-set-to-strike-monday-over-staffing-and-ai-rules
-  relation: continues
-  strength: 0.881
-  confidence: high
-- slug: 2026-01-13-nyc-nursing-strike-enters-second-day-with-no-new-talks-as-mount-sinai-fires-thre
-  relation: continues
-  strength: 0.8349
-  confidence: high
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
 
 The strike, which began January 12 and involved about 15,000 nurses across three major New York hospital systems, represents a significant victory for the union in negotiations over working conditions.
 
@@ -113,147 +104,179 @@ Nurses at Montefiore and Mount Sinai struck in 2023 as well. That strike lasted 
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** NewYork-Presbyterian; nurses
-**Predicate:** voted_to_approve
-**Object:** three-year contract (agreement)
-**Temporal:** 2026-02-22
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** NewYork-Presbyterian; nurses
+- **Predicate:** voted_to_approve
+- **Object:** three-year contract (agreement)
+- **Temporal:** 2026-02-22
+- **Sources:** src_001
 
 > Nurses at NewYork-Presbyterian voted Saturday to approve a new contract.
 
-### c_002 — attributed, single source
-**Subject entities:** NewYork-Presbyterian
-**Predicate:** voted
-**Object:** 4,000+ nurses (count)
-**Temporal:** 2026-02-22
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** NewYork-Presbyterian
+- **Predicate:** voted
+- **Object:** 4,000+ nurses (count)
+- **Temporal:** 2026-02-22
+- **Sources:** src_001
 
 > More than 4,000 nurses voted at NewYork-Presbyterian.
 
-### c_003 — attributed, single source
-**Subject entities:** New York State Nurses Association
-**Predicate:** said
-**Object:** 93 percent voted to ratify (claim)
-**Temporal:** 2026-02-22
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** New York State Nurses Association
+- **Predicate:** said
+- **Object:** 93 percent voted to ratify (claim)
+- **Temporal:** 2026-02-22
+- **Sources:** src_001
 
 > The New York State Nurses Association said 93 percent of its members voted to ratify the contract.
 
-### c_004 — confirmed, primary document
-**Subject entities:** nursing strike
-**Predicate:** lasted
-**Object:** January 12 to February 22, 2026 (duration)
-**Temporal:** 2026-02-22
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** nursing strike
+- **Predicate:** lasted
+- **Object:** January 12 to February 22, 2026 (duration)
+- **Temporal:** 2026-02-22
+- **Sources:** src_001
 
 > The strike lasted more than a month, from January 12.
 
-### c_005 — attributed, single source
-**Subject entities:** contract
-**Predicate:** includes
-**Object:** raises topping 12 percent (compensation)
-**Temporal:** 2026-02-22
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** contract
+- **Predicate:** includes
+- **Object:** raises topping 12 percent (compensation)
+- **Temporal:** 2026-02-22
+- **Sources:** src_001
 
 > The contract includes raises topping 12 percent over three years.
 
-### c_006 — attributed, single source
-**Subject entities:** contract
-**Predicate:** includes
-**Object:** staffing improvements and AI safeguards (provision)
-**Temporal:** 2026-02-22
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** contract
+- **Predicate:** includes
+- **Object:** staffing improvements and AI safeguards (provision)
+- **Temporal:** 2026-02-22
+- **Sources:** src_001
 
 > The contract includes staffing improvements and safeguards on artificial intelligence use.
 
-### c_007 — reported, single source
-**Subject entities:** nursing strike
-**Predicate:** involved
-**Object:** 15,000 nurses (count)
-**Temporal:** 2026-01-12 to 2026-02-22
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** nursing strike
+- **Predicate:** involved
+- **Object:** 15,000 nurses (count)
+- **Temporal:** 2026-01-12 to 2026-02-22
+- **Sources:** src_001
 
 > The strike involved about 15,000 nurses across Montefiore, Mount Sinai, and NewYork-Presbyterian.
 
-### c_008 — confirmed, single source
-**Subject entities:** Montefiore; Mount Sinai
-**Predicate:** ended_strike
-**Object:** contract agreements (settlement)
-**Temporal:** 2026-02
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Montefiore; Mount Sinai
+- **Predicate:** ended_strike
+- **Object:** contract agreements (settlement)
+- **Temporal:** 2026-02
+- **Sources:** src_001
 
 > Montefiore and Mount Sinai ended their nurses' strikes earlier this month with contract agreements.
 
-### c_009 — confirmed, single source
-**Subject entities:** strike
-**Predicate:** affected
-**Object:** some facilities (scope)
-**Temporal:** 2026-01-12 to 2026-02-22
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** strike
+- **Predicate:** affected
+- **Object:** some facilities (scope)
+- **Temporal:** 2026-01-12 to 2026-02-22
+- **Sources:** src_001
 
 > The strike affected only some facilities within the three hospital systems.
 
-### c_010 — confirmed, single source
-**Subject entities:** strike
-**Predicate:** did_not_involve
-**Object:** city-run hospitals (exclusion)
-**Temporal:** 2026-01-12 to 2026-02-22
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** strike
+- **Predicate:** did_not_involve
+- **Object:** city-run hospitals (exclusion)
+- **Temporal:** 2026-01-12 to 2026-02-22
+- **Sources:** src_001
 
 > The strike did not involve any city-run hospitals.
 
-### c_011 — reported, single source
-**Subject entities:** hospitals
-**Predicate:** brought_on_and_transferred
-**Object:** temporary nurses, patient transfers, procedure cancellations (actions)
-**Temporal:** 2026-01-12 to 2026-02-22
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** hospitals
+- **Predicate:** brought_on_and_transferred
+- **Object:** temporary nurses, patient transfers, procedure cancellations (actions)
+- **Temporal:** 2026-01-12 to 2026-02-22
+- **Sources:** src_001
 
 > During the strike, the hospital systems brought on thousands of temporary nurses, transferred some patients, and canceled some procedures.
 
-### c_012 — attributed, single source
-**Subject entities:** hospitals
-**Predicate:** said
-**Object:** smoothly delivered care including complex surgeries (claim)
-**Temporal:** 2026-01-12 to 2026-02-22
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** hospitals
+- **Predicate:** said
+- **Object:** smoothly delivered care including complex surgeries (claim)
+- **Temporal:** 2026-01-12 to 2026-02-22
+- **Sources:** src_001
 
 > The hospitals said they smoothly delivered care, including complex surgeries.
 
-### c_013 — reported, single source
-**Subject entities:** patients; families
-**Predicate:** said
-**Object:** routine tasks took longer (claim)
-**Temporal:** 2026-01-12 to 2026-02-22
-**Source IDs:** src_001
+### c_013
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** patients; families
+- **Predicate:** said
+- **Object:** routine tasks took longer (claim)
+- **Temporal:** 2026-01-12 to 2026-02-22
+- **Sources:** src_001
 
 > Some vulnerable patients and their families said some routine tasks took longer during the strike.
 
-### c_014 — reported, single source
-**Subject entities:** New York State Nurses Association
-**Predicate:** complained_and_accused
-**Object:** unmanageable workloads; attempts to chip away at benefits (complaint)
-**Temporal:** 2026-01-12 to 2026-02-22
-**Source IDs:** src_001
+### c_014
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** New York State Nurses Association
+- **Predicate:** complained_and_accused
+- **Object:** unmanageable workloads; attempts to chip away at benefits (complaint)
+- **Temporal:** 2026-01-12 to 2026-02-22
+- **Sources:** src_001
 
 > The union complained of unmanageable workloads and accused the hospitals of trying to chip away at health benefits.
 
-### c_015 — attributed, single source
-**Subject entities:** hospitals
-**Predicate:** contested_and_said
-**Object:** union demands were exorbitant (claim)
-**Temporal:** 2026-01-12 to 2026-02-22
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** hospitals
+- **Predicate:** contested_and_said
+- **Object:** union demands were exorbitant (claim)
+- **Temporal:** 2026-01-12 to 2026-02-22
+- **Sources:** src_001
 
 > The hospitals contested the union's claims and said the union's demands were exorbitant.
 
-### c_016 — confirmed, single source
-**Subject entities:** Mount Sinai; Montefiore
-**Predicate:** struck_previously
-**Object:** three-day strike in 2023 (prior_event)
-**Temporal:** 2023
-**Source IDs:** src_001
+### c_016
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Mount Sinai; Montefiore
+- **Predicate:** struck_previously
+- **Object:** three-day strike in 2023 (prior_event)
+- **Temporal:** 2023
+- **Sources:** src_001
 
 > Nurses at Mount Sinai and Montefiore hospitals walked out in 2023, and that strike lasted three days.
 
@@ -262,10 +285,5 @@ Nurses at Montefiore and Mount Sinai struck in 2023 as well. That strike lasted 
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Jennifer Peltz
 **Publication date:** 2026-02-22
-**Access date:** 2026-02-22
 **Title:** Nurses at NewYork-Presbyterian end strike with new contract approval
 **URL:** https://apnews.com/article/nursing-strike-newyorkpresbyterian-vote-2445cf5ac3c82be234eb3fe0fca99817
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

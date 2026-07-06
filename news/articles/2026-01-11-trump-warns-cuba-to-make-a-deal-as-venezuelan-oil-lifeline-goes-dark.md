@@ -1,6 +1,5 @@
 ---
 headline: Trump warns Cuba to make a 'deal' as Venezuelan oil lifeline goes dark
-slug: 2026-01-11-trump-warns-cuba-make-deal-maduro-capture-severs-oil-lifeline
 publish_date: '2026-01-11'
 lede: President Donald Trump on Sunday issued a fresh ultimatum to Cuba's communist government, demanding Havana strike an unspecified "deal" with Washington and declaring that no more Venezuelan oil or money would reach the island — days after the U.S. military operation that captured Venezuelan President Nicolás Maduro severed the oil lifeline Cuba had depended on for years. Cuba's President Miguel Díaz-Canel rejected the demand hours later, accusing the United States of lacking moral authority to criticize his government.
 nut_graf: The confrontation marks a sharp escalation of U.S. pressure on Cuba's government, which faces the abrupt collapse of its primary economic arrangement with Venezuela at a moment when Cuba was already experiencing what its government has described as its worst economic crisis in decades.
@@ -18,45 +17,44 @@ primary_themes:
 - economic sanctions
 - Latin America
 topic_tags:
-  - "conflict, war and peace"
-  - crime
-  - "crime, law and justice"
-  - "international relations"
-  - "law enforcement"
-  - "political dissent"
+- international relations
+- armed conflict
+- energy and resource
+- government policy
+- international military intervention
 storyline_nexus:
-  - trump-tariff-policy
-  - venezuela-crisis
-  - us-china-relations
-geographic_location: Cuba; Venezuela; West Palm Beach, Florida, United States
+- venezuela-political-military-crisis
+geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.75
-framework_version: 1.1.0
-generation_timestamp: '2026-01-11T12:00:00Z'
+  intensity: 0.9
+- value: human_life_and_dignity
+  intensity: 0.6
+- value: truthfulness
+  intensity: 0.3
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:09:07Z'
 source_cluster_id: cluster_ap_2026-01-10_trump-cuba-venezuela-maduro-oil-economy-
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 15
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 3
-    reported: 1
-    contested: 0
     confirmed: 11
+    alleged: 0
+    appears: 0
+    contested: 0
+    reported: 1
+    attributed: 3
   corroboration:
-    primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
-    primary_document: 11
     single_source: 4
     two_independent: 0
+    primary_plus_secondary: 0
+    primary_document: 11
 sources:
   count: 1
   outlets:
@@ -74,25 +72,17 @@ image:
   url: /articles/2026-01-11-trump-warns-cuba-to-make-a-deal-as-venezuelan-oil-lifeline-goes-dark.png
   alt: 'Illustration accompanying article: Trump warns Cuba to make a ''deal'' as Venezuelan oil lifeline goes dark'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-05-cuba-confronts-energy-crisis-as-u-s-capture-of-maduro-severs-oil-lifeline
-  relation: related
-  strength: 0.8755
-  confidence: medium
-- slug: 2026-01-07-mexico-emerges-as-cuba-s-key-fuel-supplier-as-venezuela-oil-lifeline-collapses
-  relation: related
-  strength: 0.8535
-  confidence: medium
-- slug: 2026-01-04-trump-renews-greenland-push-warns-cuba-and-colombia-after-venezuela-operation
-  relation: related
-  strength: 0.8128
-  confidence: medium
-- slug: 2026-01-05-trump-targets-greenland-cuba-and-colombia-after-venezuela-operation
-  relation: related
-  strength: 0.7968
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- President Donald Trump on Sunday issued a fresh ultimatum to Cuba's communist government, demanding Havana strike an unspecified "deal" with Washington and declaring that no more Venezuelan oil or ...
+- Trump posted the warning from his home in West Palm Beach, Florida, saying Cuba long lived off Venezuelan oil and money and had offered security in...
+- Cuba's President Miguel Díaz-Canel rejected the ultimatum hours later on X. "Those who turn everything into a business, even human lives, have no m...
+- The confrontation marks a sharp escalation of U.S. pressure on Cuba's government, which faces the abrupt collapse of its primary economic arrangeme...
 
 President Donald Trump on Sunday issued a fresh ultimatum to Cuba's communist government, demanding Havana strike an unspecified "deal" with Washington and declaring that no more Venezuelan oil or money would reach the island — days after the U.S. military operation that captured Venezuelan President Nicolás Maduro severed the oil lifeline Cuba had depended on for years.
 
@@ -116,138 +106,168 @@ Trump, who had previously said Cuba's economy would slide further without Venezu
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Donald Trump; Cuba
-**Predicate:** issued_social_media_warning
-**Object:** ultimatum to Cuba on social media (statement)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Donald Trump; Cuba
+- **Predicate:** issued_social_media_warning
+- **Object:** ultimatum to Cuba on social media (statement)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > Trump posted warnings to Cuba's government on social media on Sunday, January 11, 2026, while at his home in West Palm Beach, Florida.
 
-### c_002 — confirmed, primary document
-**Subject entities:** Donald Trump; Cuba; Venezuela
-**Predicate:** declared_oil_cutoff
-**Object:** no more oil or money to Cuba (policy_statement)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Donald Trump; Cuba; Venezuela
+- **Predicate:** declared_oil_cutoff
+- **Object:** no more oil or money to Cuba (policy_statement)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > Trump stated in the post that Cuba long lived off Venezuelan oil and money and had offered security in return, and that this arrangement was ending.
 
-### c_003 — confirmed, primary document
-**Subject entities:** Donald Trump; Cuba
-**Predicate:** demanded_unspecified_deal
-**Object:** deal before it is too late (ultimatum)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Donald Trump; Cuba
+- **Predicate:** demanded_unspecified_deal
+- **Object:** deal before it is too late (ultimatum)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > Trump said 'I strongly suggest they make a deal, BEFORE IT IS TOO LATE' without explaining what kind of deal he meant.
 
-### c_004 — confirmed, primary document
-**Subject entities:** Cuba; Venezuela
-**Predicate:** oil_supply_severed
-**Object:** Venezuelan oil shipments to Cuba (economic_relationship)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Cuba; Venezuela
+- **Predicate:** oil_supply_severed
+- **Object:** Venezuelan oil shipments to Cuba (economic_relationship)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > Cuba had been a major beneficiary of Venezuelan oil shipments, which have been cut off since Maduro was deposed.
 
-### c_005 — confirmed, primary document
-**Subject entities:** United States military; Venezuela
-**Predicate:** seizing
-**Object:** Venezuelan oil tankers (military_action)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** United States military; Venezuela
+- **Predicate:** seizing
+- **Object:** Venezuelan oil tankers (military_action)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > U.S. forces have been seizing Venezuelan oil tankers in an effort to control the production, refining and global distribution of Venezuela's oil.
 
-### c_006 — confirmed, primary document
-**Subject entities:** Miguel Díaz-Canel; Cuba
-**Predicate:** responded_on_social_media
-**Object:** rejection of Trump ultimatum (statement)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Miguel Díaz-Canel; Cuba
+- **Predicate:** responded_on_social_media
+- **Object:** rejection of Trump ultimatum (statement)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > Cuba's President Miguel Díaz-Canel responded to Trump on X hours after the posts, rejecting the ultimatum.
 
-### c_007 — confirmed, primary document
-**Subject entities:** Miguel Díaz-Canel
-**Predicate:** stated
-**Object:** no moral authority claim against U.S. (quotation)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Miguel Díaz-Canel
+- **Predicate:** stated
+- **Object:** no moral authority claim against U.S. (quotation)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > Díaz-Canel said those who turn everything into a business, even human lives, have no moral authority to point the finger at Cuba in any way, absolutely in any way.
 
-### c_008 — attributed, single source
-**Subject entities:** Cuba; United States military
-**Predicate:** killed_in_operation
-**Object:** 32 (casualty_count)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Cuba; United States military
+- **Predicate:** killed_in_operation
+- **Object:** 32 (casualty_count)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > Cuba's government said 32 of its military personnel were killed during the American operation that captured Maduro.
 
-### c_009 — attributed, single source
-**Subject entities:** Cuba; Venezuela; Caracas
-**Predicate:** stationed_under_agreement
-**Object:** Cuban security personnel in Caracas (military_arrangement)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Cuba; Venezuela; Caracas
+- **Predicate:** stationed_under_agreement
+- **Object:** Cuban security personnel in Caracas (military_arrangement)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > Cuban personnel from Cuba's two main security agencies were stationed in Caracas as part of an agreement between Cuba and Venezuela.
 
-### c_010 — reported, single source
-**Subject entities:** Cuba
-**Predicate:** experiencing_economic_crisis
-**Object:** worst economic crisis in decades (economic_condition)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Cuba
+- **Predicate:** experiencing_economic_crisis
+- **Object:** worst economic crisis in decades (economic_condition)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > Cuba was experiencing its worst economic crisis in decades before the Venezuelan oil cutoff, with severe blackouts and long lines at gas stations and supermarkets.
 
-### c_011 — attributed, single source
-**Subject entities:** Cuba; United States
-**Predicate:** attributed_economic_cost_to_sanctions
-**Object:** more than $7.5 billion (economic_impact)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Cuba; United States
+- **Predicate:** attributed_economic_cost_to_sanctions
+- **Object:** more than $7.5 billion (economic_impact)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > Cuba's communist government said U.S. sanctions cost the country more than $7.5 billion between March 2024 and February 2025.
 
-### c_012 — confirmed, primary document
-**Subject entities:** Miguel Díaz-Canel; Cuba
-**Predicate:** stated
-**Object:** accusers motivated by rage at Cuban sovereignty (quotation)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_012
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Miguel Díaz-Canel; Cuba
+- **Predicate:** stated
+- **Object:** accusers motivated by rage at Cuban sovereignty (quotation)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > Díaz-Canel said those who hysterically accuse Cuba do so out of rage at the Cuban people's sovereign decision to choose their political model.
 
-### c_013 — confirmed, primary document
-**Subject entities:** Donald Trump; Cuba
-**Predicate:** predicted_economic_collapse
-**Object:** going down for the count (quotation)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_013
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Donald Trump; Cuba
+- **Predicate:** predicted_economic_collapse
+- **Object:** going down for the count (quotation)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > Trump said of Cuba's economy 'It's going down' and 'It's going down for the count.'
 
-### c_014 — confirmed, primary document
-**Subject entities:** Donald Trump; Marco Rubio; Cuba
-**Predicate:** endorsed_prediction
-**Object:** Rubio as president of Cuba (social_media_exchange)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_014
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Donald Trump; Marco Rubio; Cuba
+- **Predicate:** endorsed_prediction
+- **Object:** Rubio as president of Cuba (social_media_exchange)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > Trump responded 'Sounds good to me!' to a social media post by another account predicting that Secretary of State Marco Rubio would become president of Cuba.
 
-### c_015 — confirmed, primary document
-**Subject entities:** Donald Trump; Venezuela; Cuba; United States military
-**Predicate:** declared_US_protection_of_Venezuela
-**Object:** U.S. military protection of Venezuela (policy_statement)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_015
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Donald Trump; Venezuela; Cuba; United States military
+- **Predicate:** declared_US_protection_of_Venezuela
+- **Object:** U.S. military protection of Venezuela (policy_statement)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > Trump said Venezuela now had U.S. military protection and no longer needed the protection Cuba previously provided.
 
@@ -256,10 +276,5 @@ Trump, who had previously said Cuba's economy would slide further without Venezu
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Seung Min Kim
 **Publication date:** 2026-01-11
-**Access date:** 2026-01-11
 **Title:** Trump warns Cuba to make a 'deal' following Maduro's capture
 **URL:** https://apnews.com/article/trump-cuba-venezuela-maduro-oil-economy-b9ffd24928e34dc7e3fc1fdcb22709a1
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

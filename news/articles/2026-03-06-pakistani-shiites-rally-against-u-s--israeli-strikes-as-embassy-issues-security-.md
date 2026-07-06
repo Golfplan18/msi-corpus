@@ -21,7 +21,7 @@ topic_tags:
   - "armed conflict"
   - "conflict, war and peace"
 storyline_nexus:
-  - iran-war
+- the-iran-war
 geographic_location: Islamabad, Pakistan; Karachi, Pakistan
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -217,7 +217,3 @@ Khamenei, who ruled Iran since 1989, was killed in a joint U.S.-Israeli operatio
 **Access date:** 2026-03-06
 **Title:** Pakistani Shiites rally in support of Iran, US Embassy issues a security alert
 **URL:** https://apnews.com/article/pakistan-shiites-iran-khamenei-c12ae0aab03d78a40c3a1834265c4500
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

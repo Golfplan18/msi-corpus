@@ -19,7 +19,7 @@ topic_tags:
   - "religious institution"
   - "religious leader"
 storyline_nexus:
-  - pope-leo-xiv-africa-tour
+- pope-leo-xiv-vatican
 geographic_location: Muxima, Angola
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -253,7 +253,3 @@ Nkilumbo said he was not a Catholic but praised the Catholic Church in Angola—
 **Access date:** 2026-04-18
 **Title:** Pope's visit to an African church linked to slavery reflects on his own heritage
 **URL:** https://apnews.com/article/pope-leo-angola-africa-slavery-church-16df3604b4dd1a2722e43687b930b720
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

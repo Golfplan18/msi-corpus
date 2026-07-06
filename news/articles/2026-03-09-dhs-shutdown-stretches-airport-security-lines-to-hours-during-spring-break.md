@@ -17,39 +17,42 @@ primary_themes:
 - transportation_disruption
 - spring_break_travel
 - TSA_labor
-topic_tags: []
+topic_tags:
+- government
+- transport
+- travel
+- employment
+- labour dispute
 storyline_nexus:
-  - ai-regulation
-geographic_location: Houston, Texas; New Orleans, Louisiana; United States
+- us-immigration-enforcement
+geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.85
 - value: accountability_of_power
-  intensity: 0.7
-- value: human_life_and_dignity
-  intensity: 0.45
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:43:32Z'
+  intensity: 0.9
+- value: informed_citizenship
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T01:04:02Z'
 source_cluster_id: cluster_ap_2026-03-09_airports-long-lines-tsa-be150ad677e71fe5
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 13
   hedges:
+    contested: 0
+    reported: 2
     appears: 0
     alleged: 0
-    attributed: 9
-    reported: 2
-    contested: 0
     confirmed: 2
+    attributed: 9
   corroboration:
     primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 2
     single_source: 11
+    one_originating_plus_primary_document: 0
     two_independent: 0
 sources:
   count: 1
@@ -67,6 +70,16 @@ figures_aggregate:
 cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Travelers endure long wait times at Houston, New Orleans airports
+- The estimated wait time at the standard security checkpoint at William P. Hobby Airport in Houston reached three hours early Sunday evening.
+- Houston Airports asked travelers to arrive four to five hours before their flights, citing the partial government shutdown.
+- Wait times at George Bush Intercontinental Airport early Sunday evening were as brief as a few minutes.
+- Louis Armstrong New Orleans International Airport reported a TSA agent shortage causing wait times of up to two hours.
 
 Travelers at William P. Hobby Airport in Houston and Louis Armstrong New Orleans International Airport encountered security checkpoint waits of up to three hours Sunday, as a shortage of Transportation Security Administration agents — stemming from the ongoing Department of Homeland Security shutdown — disrupted spring break travel. Houston Airports at one point asked travelers to arrive four to five hours before their flights.
 
@@ -98,120 +111,146 @@ While sitting down to eat, she searched available flights and found three seats 
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** William P. Hobby Airport
-**Predicate:** experienced_wait_time_of
-**Object:** three hours (duration)
-**Temporal:** 2026-03-09
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** William P. Hobby Airport
+- **Predicate:** experienced_wait_time_of
+- **Object:** three hours (duration)
+- **Temporal:** 2026-03-09
+- **Sources:** src_001
 
 > The estimated wait time at the standard security checkpoint at William P. Hobby Airport in Houston reached three hours early Sunday evening.
 
-### c_002 — confirmed, primary document
-**Subject entities:** Houston Airports
-**Predicate:** issued_advisory
-**Object:** arrive 4-5 hours early (advisory)
-**Temporal:** 2026-03-09
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Houston Airports
+- **Predicate:** issued_advisory
+- **Object:** arrive 4-5 hours early (advisory)
+- **Temporal:** 2026-03-09
+- **Sources:** src_001
 
 > Houston Airports asked travelers to arrive four to five hours before their flights, citing the partial government shutdown.
 
-### c_003 — attributed, single source
-**Subject entities:** George Bush Intercontinental Airport
-**Predicate:** experienced_wait_time_of
-**Object:** a few minutes (duration)
-**Temporal:** 2026-03-09
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** George Bush Intercontinental Airport
+- **Predicate:** experienced_wait_time_of
+- **Object:** a few minutes (duration)
+- **Temporal:** 2026-03-09
+- **Sources:** src_001
 
 > Wait times at George Bush Intercontinental Airport early Sunday evening were as brief as a few minutes.
 
-### c_004 — attributed, single source
-**Subject entities:** Louis Armstrong New Orleans International Airport; Transportation Security Administration
-**Predicate:** reported_shortage_causing
-**Object:** up to two-hour waits (duration)
-**Temporal:** 2026-03-09
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Louis Armstrong New Orleans International Airport; Transportation Security Administration
+- **Predicate:** reported_shortage_causing
+- **Object:** up to two-hour waits (duration)
+- **Temporal:** 2026-03-09
+- **Sources:** src_001
 
 > Louis Armstrong New Orleans International Airport reported a TSA agent shortage causing wait times of up to two hours.
 
-### c_005 — attributed, single source
-**Subject entities:** Louis Armstrong New Orleans International Airport
-**Predicate:** warned_of
-**Object:** continued delays through coming week (forecast)
-**Temporal:** 2026-03-09
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Louis Armstrong New Orleans International Airport
+- **Predicate:** warned_of
+- **Object:** continued delays through coming week (forecast)
+- **Temporal:** 2026-03-09
+- **Sources:** src_001
 
 > New Orleans airport officials warned that similar delays could continue through the coming week.
 
-### c_006 — attributed, single source
-**Subject entities:** U.S. Department of Homeland Security
-**Predicate:** shutdown_began
-**Object:** 2026-02-14 (date)
-**Temporal:** 2026-02-14
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Department of Homeland Security
+- **Predicate:** shutdown_began
+- **Object:** 2026-02-14 (date)
+- **Temporal:** 2026-02-14
+- **Sources:** src_001
 
 > The DHS shutdown began Feb. 14.
 
-### c_007 — reported, single source
-**Subject entities:** Transportation Security Administration
-**Predicate:** expected_to_work
-**Object:** without pay (employment_condition)
-**Temporal:** 2026-03-09
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Transportation Security Administration
+- **Predicate:** expected_to_work
+- **Object:** without pay (employment_condition)
+- **Temporal:** 2026-03-09
+- **Sources:** src_001
 
 > TSA agents are expected to work without pay during the ongoing DHS shutdown.
 
-### c_008 — attributed, single source
-**Subject entities:** Democratic lawmakers; U.S. Department of Homeland Security
-**Predicate:** conditioned_funding_on
-**Object:** new federal immigration restrictions (political_condition)
-**Temporal:** 2026-03-09
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Democratic lawmakers; U.S. Department of Homeland Security
+- **Predicate:** conditioned_funding_on
+- **Object:** new federal immigration restrictions (political_condition)
+- **Temporal:** 2026-03-09
+- **Sources:** src_001
 
 > Democratic lawmakers said DHS will not get funded until new restrictions are placed on federal immigration operations.
 
-### c_009 — attributed, single source
-**Subject entities:** Democratic lawmakers; Alex Pretti; Renee Good
-**Predicate:** linked_demand_to
-**Object:** fatal shootings of Alex Pretti and Renee Good in Minneapolis (political_context)
-**Temporal:** 2026-03-09
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Democratic lawmakers; Alex Pretti; Renee Good
+- **Predicate:** linked_demand_to
+- **Object:** fatal shootings of Alex Pretti and Renee Good in Minneapolis (political_context)
+- **Temporal:** 2026-03-09
+- **Sources:** src_001
 
 > Democratic lawmakers cited the fatal shootings of Alex Pretti and Renee Good in Minneapolis as the basis for their immigration restriction demand.
 
-### c_010 — confirmed, primary document
-**Subject entities:** Chris Sununu; Airlines for America
-**Predicate:** called_for
-**Object:** deal reopening DHS (policy_demand)
-**Temporal:** 2026-03-09
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Chris Sununu; Airlines for America
+- **Predicate:** called_for
+- **Object:** deal reopening DHS (policy_demand)
+- **Temporal:** 2026-03-09
+- **Sources:** src_001
 
 > Chris Sununu, president and CEO of Airlines for America, called on Congress and the Trump administration to act with urgency to reach a deal that reopens DHS.
 
-### c_011 — attributed, single source
-**Subject entities:** Jessica Andersen Alexie
-**Predicate:** missed_flight_despite
-**Object:** arriving 3 hours early (traveler_experience)
-**Temporal:** 2026-03-09
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jessica Andersen Alexie
+- **Predicate:** missed_flight_despite
+- **Object:** arriving 3 hours early (traveler_experience)
+- **Temporal:** 2026-03-09
+- **Sources:** src_001
 
 > Traveler Jessica Andersen Alexie and her two children, ages 10 and 13, arrived three hours early at Hobby Airport and were unable to make their original flight.
 
-### c_012 — attributed, single source
-**Subject entities:** Jessica Andersen Alexie
-**Predicate:** cleared_security_after
-**Object:** 3.5 hours via CLEAR lane (duration)
-**Temporal:** 2026-03-09
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jessica Andersen Alexie
+- **Predicate:** cleared_security_after
+- **Object:** 3.5 hours via CLEAR lane (duration)
+- **Temporal:** 2026-03-09
+- **Sources:** src_001
 
 > Alexie passed through the CLEAR security lane at Hobby Airport after about 3.5 hours and later found seats on an earlier New Orleans flight.
 
-### c_013 — reported, single source
-**Subject entities:** Transportation Security Administration
-**Predicate:** scope_unclear
-**Object:** national scope not confirmed (evidentiary_limitation)
-**Temporal:** 2026-03-09
-**Source IDs:** src_001
+### c_013
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Transportation Security Administration
+- **Predicate:** scope_unclear
+- **Object:** national scope not confirmed (evidentiary_limitation)
+- **Temporal:** 2026-03-09
+- **Sources:** src_001
 
 > It was not immediately clear whether the delays in Houston and New Orleans were occurring at other airports around the country.
 
@@ -220,10 +259,5 @@ While sitting down to eat, she searched available flights and found three seats 
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Becky Bohrer
 **Publication date:** 2026-03-09
-**Access date:** 2026-03-09
 **Title:** Travelers endure long wait times at Houston, New Orleans airports
 **URL:** https://apnews.com/article/airports-long-lines-tsa-be150ad677e71fe5fd5fecf57ba12a52
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

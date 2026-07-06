@@ -15,38 +15,44 @@ primary_themes:
 - governor_race
 - political_spending
 topic_tags:
-  - election
-  - politics
-storyline_nexus: []
-geographic_location: California, United States
+- election
+- political process
+- politics
+- government
+- economy, business and finance
+storyline_nexus:
+- 2026-midterm-elections
+geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
-  intensity: 0.85
+  intensity: 0.9
+- value: equality_fairness
+  intensity: 0.6
 - value: informed_citizenship
-  intensity: 0.8
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T14:30:00Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T01:12:20Z'
 source_cluster_id: cluster_ap_2026-04-20_california-governor-democrats-tom-steyer
 gdelt_event_ids: []
-consensus_floor_version: '2026-05-11'
-publication_mindspec_version: '2026-05-11'
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 16
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 2
     reported: 13
-    contested: 0
     confirmed: 1
+    appears: 0
+    attributed: 2
+    alleged: 0
+    contested: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 0
     single_source: 16
+    one_originating_plus_primary_document: 0
     two_independent: 0
+    primary_plus_secondary: 0
 sources:
   count: 1
   outlets:
@@ -60,21 +66,15 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-06-shapiro-reports-30m-for-pennsylvania-reelection-bid-breaking-his-own-state-recor
-  relation: related
-  strength: 0.8271
-  confidence: medium
-- slug: 2026-01-05-newsom-enters-final-year-as-california-governor-with-key-promises-unmet
-  relation: related
-  strength: 0.7783
-  confidence: medium
-- slug: 2026-01-12-beshear-urges-democrats-to-lead-with-costs-and-authenticity-in-2026-governor-rac
-  relation: related
-  strength: 0.761
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- - value: accountability_of_power
 
 Billionaire hedge fund manager Tom Steyer is saturating California with campaign advertisements, spending at least $115 million on television, radio, and digital ads—nearly 30 times the spending of his nearest Democratic rival in the state's wide-open race for governor. The spending dwarfs what all other major Democratic candidates and independent committees supporting them have combined to spend.
 
@@ -110,151 +110,181 @@ In his campaign advertisements, Steyer promises to "abolish" U.S. Immigration an
 
 Democrats have expressed concern that the party's numerous candidates could result in no Democratic nominee advancing to the general election in November. California's primary system sends only the top two vote-getters to the general election, regardless of party affiliation.
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
-### c_001 — reported, single source
-**Subject entities:** Tom Steyer
-**Predicate:** spent_on_advertising
-**Object:** $115 million (monetary_amount)
-**Temporal:** 2026-04-19
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Tom Steyer
+- **Predicate:** spent_on_advertising
+- **Object:** $115 million (monetary_amount)
+- **Temporal:** 2026-04-19
+- **Sources:** src_001
 
 > Steyer has spent or booked over $115 million in ads for broadcast TV, cable, and radio.
 
-### c_002 — reported, single source
-**Subject entities:** Tom Steyer
-**Predicate:** outspends_rivals
-**Object:** 30x nearest rival (comparative_metric)
-**Temporal:** 2026-04-19
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Tom Steyer
+- **Predicate:** outspends_rivals
+- **Object:** 30x nearest rival (comparative_metric)
+- **Temporal:** 2026-04-19
+- **Sources:** src_001
 
 > Steyer's ad spending is nearly 30 times the amount of his nearest Democratic rival.
 
-### c_003 — reported, single source
-**Subject entities:** Tom Steyer; Meg Whitman
-**Predicate:** could_exceed_record
-**Object:** $178.5 million (historical_record)
-**Temporal:** 2026-04-19
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Tom Steyer; Meg Whitman
+- **Predicate:** could_exceed_record
+- **Object:** $178.5 million (historical_record)
+- **Temporal:** 2026-04-19
+- **Sources:** src_001
 
 > If Steyer wins the primary, he could eclipse Meg Whitman's 2010 gubernatorial spending record of $178.5 million.
 
-### c_004 — attributed, single source
-**Subject entities:** Katie Porter
-**Predicate:** stated_warning
-**Object:** billionaire money attempting to buy election (political_statement)
-**Temporal:** 2026-04-19
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Katie Porter
+- **Predicate:** stated_warning
+- **Object:** billionaire money attempting to buy election (political_statement)
+- **Temporal:** 2026-04-19
+- **Sources:** src_001
 
 > Katie Porter warned that "billionaire money is flooding our state in an attempt to buy this election."
 
-### c_005 — reported, single source
-**Subject entities:** Tom Steyer
-**Predicate:** polled_but_not_separated
-**Object:** polling increase without significant lead (campaign_status)
-**Temporal:** 2026-04-19
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Tom Steyer
+- **Predicate:** polled_but_not_separated
+- **Object:** polling increase without significant lead (campaign_status)
+- **Temporal:** 2026-04-19
+- **Sources:** src_001
 
 > Steyer has ticked up in polling amid his spending splurge but has not broken away from the field.
 
-### c_006 — attributed, single source
-**Subject entities:** Bill Carrick
-**Predicate:** stated_analysis
-**Object:** ineffective early ads signal underlying problems (political_analysis)
-**Temporal:** 2026-04-19
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Bill Carrick
+- **Predicate:** stated_analysis
+- **Object:** ineffective early ads signal underlying problems (political_analysis)
+- **Temporal:** 2026-04-19
+- **Sources:** src_001
 
 > Democratic strategist Bill Carrick said that if early ad rounds fail to move a candidate in polls, subsequent rounds will not either.
 
-### c_007 — reported, single source
-**Subject entities:** Rick Caruso; Karen Bass
-**Predicate:** outspent_but_lost
-**Object:** Caruso $100m+ vs Bass much less (electoral_outcome)
-**Temporal:** 2026-04-19
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Rick Caruso; Karen Bass
+- **Predicate:** outspent_but_lost
+- **Object:** Caruso $100m+ vs Bass much less (electoral_outcome)
+- **Temporal:** 2026-04-19
+- **Sources:** src_001
 
 > Rick Caruso spent over $100 million in 2022 for Los Angeles mayor but was defeated by Karen Bass, who spent a fraction of his total.
 
-### c_008 — reported, single source
-**Subject entities:** Michael Bloomberg
-**Predicate:** spent_and_withdrew
-**Object:** $1 billion+ (monetary_amount)
-**Temporal:** 2026-04-19
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Michael Bloomberg
+- **Predicate:** spent_and_withdrew
+- **Object:** $1 billion+ (monetary_amount)
+- **Temporal:** 2026-04-19
+- **Sources:** src_001
 
 > Michael Bloomberg spent more than $1 billion of his own money on his 2020 presidential campaign before dropping out.
 
-### c_009 — reported, single source
-**Subject entities:** Tom Steyer
-**Predicate:** failed_in_2020
-**Object:** dropped out after South Carolina primary (electoral_outcome)
-**Temporal:** 2026-04-19
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Tom Steyer
+- **Predicate:** failed_in_2020
+- **Object:** dropped out after South Carolina primary (electoral_outcome)
+- **Temporal:** 2026-04-19
+- **Sources:** src_001
 
 > Steyer's spending failed to lift him into contention in the 2020 presidential contest, where he dropped out after a poor showing in South Carolina.
 
-### c_010 — confirmed, single source
-**Subject entities:** Tom Steyer
-**Predicate:** lacked
-**Object:** elected office experience (biographical_fact)
-**Temporal:** 2026-04-19
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Tom Steyer
+- **Predicate:** lacked
+- **Object:** elected office experience (biographical_fact)
+- **Temporal:** 2026-04-19
+- **Sources:** src_001
 
 > Steyer has never held elected office.
 
-### c_011 — reported, single source
-**Subject entities:** Eric Swalwell
-**Predicate:** withdrew_and_resigned
-**Object:** over sexual assault allegations denied by Swalwell (political_event)
-**Temporal:** 2026-04-19
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Eric Swalwell
+- **Predicate:** withdrew_and_resigned
+- **Object:** over sexual assault allegations denied by Swalwell (political_event)
+- **Temporal:** 2026-04-19
+- **Sources:** src_001
 
 > Eric Swalwell, a Democratic congressman, withdrew from the race and resigned from Congress following sexual assault allegations that he denies.
 
-### c_012 — reported, single source
-**Subject entities:** Donald Trump; Steve Hilton
-**Predicate:** endorsed
-**Object:** Republican gubernatorial candidate (political_endorsement)
-**Temporal:** 2026-04-19
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Steve Hilton
+- **Predicate:** endorsed
+- **Object:** Republican gubernatorial candidate (political_endorsement)
+- **Temporal:** 2026-04-19
+- **Sources:** src_001
 
 > President Donald Trump endorsed conservative commentator Steve Hilton.
 
-### c_013 — reported, single source
-**Subject entities:** Tom Steyer; Katie Porter; Steve Hilton; Chad Bianco; Eric Swalwell
-**Predicate:** polled_competitively
-**Object:** clustered in close competition (polling_result)
-**Temporal:** 2026-04-19
-**Source IDs:** src_001
+### c_013
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Tom Steyer; Katie Porter; Steve Hilton; Chad Bianco; Eric Swalwell
+- **Predicate:** polled_competitively
+- **Object:** clustered in close competition (polling_result)
+- **Temporal:** 2026-04-19
+- **Sources:** src_001
 
 > Public Policy Institute of California polling from late March and early April found Democrats Steyer and Porter, Republicans Hilton and Chad Bianco, and Swalwell clustered in close competition.
 
-### c_014 — reported, single source
-**Subject entities:** California Teachers Association; Tom Steyer; Eric Swalwell
-**Predicate:** switched_endorsement
-**Object:** from Swalwell to Steyer (organizational_endorsement)
-**Temporal:** 2026-04-19
-**Source IDs:** src_001
+### c_014
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** California Teachers Association; Tom Steyer; Eric Swalwell
+- **Predicate:** switched_endorsement
+- **Object:** from Swalwell to Steyer (organizational_endorsement)
+- **Temporal:** 2026-04-19
+- **Sources:** src_001
 
 > The California Teachers Association, which previously backed Swalwell, endorsed Steyer following Swalwell's exit.
 
-### c_015 — reported, single source
-**Subject entities:** Tom Steyer
-**Predicate:** promises_in_ads
-**Object:** abolish ICE (campaign_platform)
-**Temporal:** 2026-04-19
-**Source IDs:** src_001
+### c_015
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Tom Steyer
+- **Predicate:** promises_in_ads
+- **Object:** abolish ICE (campaign_platform)
+- **Temporal:** 2026-04-19
+- **Sources:** src_001
 
 > Steyer's ads promise to "abolish" U.S. Immigration and Customs Enforcement.
 
-### c_016 — reported, single source
-**Subject entities:** Tom Steyer
-**Predicate:** campaigns_on_housing
-**Object:** housing affordability promise (campaign_platform)
-**Temporal:** 2026-04-19
-**Source IDs:** src_001
+### c_016
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Tom Steyer
+- **Predicate:** campaigns_on_housing
+- **Object:** housing affordability promise (campaign_platform)
+- **Temporal:** 2026-04-19
+- **Sources:** src_001
 
 > Steyer's ads address California's housing cost crisis, with him saying "Everybody needs an affordable place to live."
 
@@ -263,10 +293,5 @@ This article was generated algorithmically by Main Street Independent's News Art
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Michael R. Blood
 **Publication date:** 2026-04-19
-**Access date:** 2026-05-17
 **Title:** Billionaire Steyer on spending binge in California governor's race
 **URL:** https://apnews.com/article/california-governor-democrats-tom-steyer-billionaire-6e55c315e687a8cae88012a404753b07
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

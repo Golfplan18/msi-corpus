@@ -20,37 +20,42 @@ primary_themes:
 - gender_equity
 - labor_participation
 topic_tags:
-  - labour
-storyline_nexus: []
-geographic_location: United States (Vermont, Kentucky)
+- achievement
+- business information
+- employment
+- manufacturing and engineering
+- people
+storyline_nexus:
+- trump-health-policy-rfk
+geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.7
 - value: equality_fairness
+  intensity: 0.9
+- value: informed_citizenship
   intensity: 0.6
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17'
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T01:12:51Z'
 source_cluster_id: cluster_ap_2026-04-21_whiskey-women-us-815aefddb25882c1f07613d
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 17
   hedges:
-    appears: 1
-    alleged: 0
     attributed: 8
-    reported: 8
     contested: 0
+    alleged: 0
     confirmed: 0
+    reported: 8
+    appears: 1
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
+    two_independent: 0
     primary_document: 0
     single_source: 17
-    two_independent: 0
+    primary_plus_secondary: 0
+    one_originating_plus_primary_document: 0
 sources:
   count: 1
   outlets:
@@ -64,13 +69,19 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-07-spanberger-still-digesting-significance-of-being-virginia-s-first-female-governo
-  relation: related
-  strength: 0.6423
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- More women finding ways to innovate in the whiskey industry
+- Women are reshaping the whiskey industry by taking positions as distillers and blenders.
+- Meghan Ireland is the chief blender at Vermont-based WhistlePig.
+- Meghan Ireland studied chemical engineering as a college student.
+- Maria Hebraea, an alchemist from around the 2nd century, created the first distilling instrument.
 
 Women are taking leadership roles in the traditionally male-dominated whiskey industry as more women become distillers, blenders, and business owners while female consumption rises. The shift represents a significant transformation in an industry long perceived as exclusively male, with women now launching brands, managing operations, and earning recognition for innovation.
 
@@ -112,162 +123,192 @@ According to Hollis Jones, one consistent shift in the industry is the increasin
 
 Ireland said the presence of women in the industry establishes whiskey as available to everyone. "It can be enjoyed by everyone and it's being made by females too," she said.
 
----
-
-This article was generated algorithmically under the Main Street Independent News Article Generator framework. Read the framework specification and editorial foundation at /methodology. This work is released under CC0 into the public domain.
-
 ## Atomic claims
 
-### c_001 — reported, single source
-**Subject entities:** women; whiskey industry
-**Predicate:** reshaping
-**Object:** distillers and blenders (occupation)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** women; whiskey industry
+- **Predicate:** reshaping
+- **Object:** distillers and blenders (occupation)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Women are reshaping the whiskey industry by taking positions as distillers and blenders.
 
-### c_002 — attributed, single source
-**Subject entities:** Meghan Ireland; WhistlePig
-**Predicate:** position_held
-**Object:** chief blender (occupation)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Meghan Ireland; WhistlePig
+- **Predicate:** position_held
+- **Object:** chief blender (occupation)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Meghan Ireland is the chief blender at Vermont-based WhistlePig.
 
-### c_003 — reported, single source
-**Subject entities:** Meghan Ireland
-**Predicate:** studied
-**Object:** chemical engineering (field_of_study)
-**Temporal:** unspecified
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Meghan Ireland
+- **Predicate:** studied
+- **Object:** chemical engineering (field_of_study)
+- **Temporal:** unspecified
+- **Sources:** src_001
 
 > Meghan Ireland studied chemical engineering as a college student.
 
-### c_004 — attributed, single source
-**Subject entities:** Maria Hebraea
-**Predicate:** created
-**Object:** first distilling instrument (invention)
-**Temporal:** 2nd century
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Maria Hebraea
+- **Predicate:** created
+- **Object:** first distilling instrument (invention)
+- **Temporal:** 2nd century
+- **Sources:** src_001
 
 > Maria Hebraea, an alchemist from around the 2nd century, created the first distilling instrument.
 
-### c_005 — attributed, single source
-**Subject entities:** Catherine Carpenter
-**Predicate:** recorded
-**Object:** first known sour mash recipe (culinary_record)
-**Temporal:** 1800s
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Catherine Carpenter
+- **Predicate:** recorded
+- **Object:** first known sour mash recipe (culinary_record)
+- **Temporal:** 1800s
+- **Sources:** src_001
 
 > Catherine Carpenter recorded the first known recipe for sour mash in 1800s Kentucky.
 
-### c_006 — reported, single source
-**Subject entities:** women; Kentucky distilleries
-**Predicate:** managed
-**Object:** distilleries (business_operation)
-**Temporal:** 1800s
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** women; Kentucky distilleries
+- **Predicate:** managed
+- **Object:** distilleries (business_operation)
+- **Temporal:** 1800s
+- **Sources:** src_001
 
 > Women notably managed distilleries in the 1800s in Kentucky.
 
-### c_007 — appears, single source
-**Subject entities:** female bootleggers; Prohibition era
-**Predicate:** outnumbered
-**Object:** male bootleggers (population_comparison)
-**Temporal:** Prohibition
-**Source IDs:** src_001
+### c_007
+- **Hedge:** appears
+- **Corroboration:** single_source
+- **Subject entities:** female bootleggers; Prohibition era
+- **Predicate:** outnumbered
+- **Object:** male bootleggers (population_comparison)
+- **Temporal:** Prohibition
+- **Sources:** src_001
 
 > Historians estimate there may have been more female bootleggers than male during Prohibition.
 
-### c_008 — attributed, single source
-**Subject entities:** Peggy Noe Stevens; Donna Nally; Doris Calhoun; Kentucky Bourbon Trail
-**Predicate:** co_founded
-**Object:** Kentucky Bourbon Trail (business_initiative)
-**Temporal:** unspecified
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Peggy Noe Stevens; Donna Nally; Doris Calhoun; Kentucky Bourbon Trail
+- **Predicate:** co_founded
+- **Object:** Kentucky Bourbon Trail (business_initiative)
+- **Temporal:** unspecified
+- **Sources:** src_001
 
 > Three women co-founded the Kentucky Bourbon Trail: Peggy Noe Stevens at Woodford Reserve, Donna Nally with Maker's Mark, and Doris Calhoun with Jim Beam.
 
-### c_009 — attributed, single source
-**Subject entities:** Peggy Noe Stevens
-**Predicate:** is_first
-**Object:** world's first female Master Bourbon Taster (professional_distinction)
-**Temporal:** unspecified
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Peggy Noe Stevens
+- **Predicate:** is_first
+- **Object:** world's first female Master Bourbon Taster (professional_distinction)
+- **Temporal:** unspecified
+- **Sources:** src_001
 
 > Peggy Noe Stevens is the world's first female Master Bourbon Taster.
 
-### c_010 — attributed, single source
-**Subject entities:** Becky Paskin; OurWhiskey Foundation
-**Predicate:** founded
-**Object:** organization promoting women in whiskey (organization)
-**Temporal:** unspecified
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Becky Paskin; OurWhiskey Foundation
+- **Predicate:** founded
+- **Object:** organization promoting women in whiskey (organization)
+- **Temporal:** unspecified
+- **Sources:** src_001
 
 > Becky Paskin, a U.K. journalist, founded the OurWhiskey Foundation to promote and support women in the whiskey business.
 
-### c_011 — reported, single source
-**Subject entities:** women in whiskey industry
-**Predicate:** questioned_about
-**Object:** their preference for whiskey (social_interaction)
-**Temporal:** present
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** women in whiskey industry
+- **Predicate:** questioned_about
+- **Object:** their preference for whiskey (social_interaction)
+- **Temporal:** present
+- **Sources:** src_001
 
 > Women in the whiskey industry are asked 'Do you even like whiskey?' according to industry participants.
 
-### c_012 — reported, single source
-**Subject entities:** Judy Hollis Jones
-**Predicate:** founded
-**Object:** whiskey company (business)
-**Temporal:** 2019
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Judy Hollis Jones
+- **Predicate:** founded
+- **Object:** whiskey company (business)
+- **Temporal:** 2019
+- **Sources:** src_001
 
 > Judy Hollis Jones launched a whiskey company in Kentucky in 2019.
 
-### c_013 — attributed, single source
-**Subject entities:** Judy Hollis Jones; Buzzard's Roost
-**Predicate:** position_held
-**Object:** president and CEO (occupation)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Judy Hollis Jones; Buzzard's Roost
+- **Predicate:** position_held
+- **Object:** president and CEO (occupation)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Judy Hollis Jones is president and CEO of Buzzard's Roost whiskey.
 
-### c_014 — reported, single source
-**Subject entities:** Jason Brauner; Buzzard's Roost
-**Predicate:** position_held
-**Object:** Master Blender (occupation)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_014
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Jason Brauner; Buzzard's Roost
+- **Predicate:** position_held
+- **Object:** Master Blender (occupation)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Jason Brauner is the Master Blender at Buzzard's Roost.
 
-### c_015 — reported, single source
-**Subject entities:** Meghan Ireland; Boss Hog VII
-**Predicate:** innovated
-**Object:** Boss Hog VII with oak and teakwood finishing (product_innovation)
-**Temporal:** unspecified
-**Source IDs:** src_001
+### c_015
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Meghan Ireland; Boss Hog VII
+- **Predicate:** innovated
+- **Object:** Boss Hog VII with oak and teakwood finishing (product_innovation)
+- **Temporal:** unspecified
+- **Sources:** src_001
 
 > Meghan Ireland's first whiskey innovation was Boss Hog VII, finished in Spanish oak and Brazilian teakwood barrels.
 
-### c_016 — reported, single source
-**Subject entities:** Boss Hog VII
-**Predicate:** received
-**Object:** praise and awards (recognition)
-**Temporal:** unspecified
-**Source IDs:** src_001
+### c_016
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Boss Hog VII
+- **Predicate:** received
+- **Object:** praise and awards (recognition)
+- **Temporal:** unspecified
+- **Sources:** src_001
 
 > Boss Hog VII attracted praise and awards.
 
-### c_017 — attributed, single source
-**Subject entities:** women; whiskey industry events
-**Predicate:** attending
-**Object:** tastings and tours in increasing numbers (participation)
-**Temporal:** present
-**Source IDs:** src_001
+### c_017
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** women; whiskey industry events
+- **Predicate:** attending
+- **Object:** tastings and tours in increasing numbers (participation)
+- **Temporal:** present
+- **Sources:** src_001
 
 > More women are attending whiskey tastings and tours.
 
@@ -276,10 +317,5 @@ This article was generated algorithmically under the Main Street Independent New
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Kimberlee Kruesi
 **Publication date:** 2026-04-20
-**Access date:** 2026-05-17
 **Title:** More women finding ways to innovate in the whiskey industry
 **URL:** https://apnews.com/article/whiskey-women-us-815aefddb25882c1f07613da972b13fa
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

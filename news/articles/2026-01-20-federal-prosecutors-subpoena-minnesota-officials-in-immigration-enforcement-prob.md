@@ -25,48 +25,41 @@ primary_themes:
 - constitutional questions
 - accountability_of_power
 topic_tags:
-  - "human interest"
-  - "human migration"
-  - "science and technology"
-  - sport
-  - "sport event"
+- crime
+- prosecution
+- government
+- law enforcement
 storyline_nexus:
-  - iran-war
-  - immigration-enforcement
-  - trump-fed-independence
-geographic_location: Minneapolis-St. Paul, Minnesota
+- us-immigration-enforcement
+geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
-  intensity: 0.95
-- value: truthfulness
   intensity: 0.9
 - value: informed_citizenship
-  intensity: 0.85
-- value: equality_fairness
-  intensity: 0.8
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:47:12Z'
 source_cluster_id: cluster_ap_2026-01-21_minnesota-immigration-crackdown-trump-5e
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 25
   hedges:
     appears: 1
+    contested: 0
+    confirmed: 2
     alleged: 0
     attributed: 12
     reported: 10
-    contested: 0
-    confirmed: 2
   corroboration:
-    primary_plus_secondary: 2
-    one_originating_plus_primary_document: 0
-    primary_document: 9
     single_source: 2
     two_independent: 12
+    primary_document: 9
+    primary_plus_secondary: 2
+    one_originating_plus_primary_document: 0
 sources:
   count: 1
   outlets:
@@ -80,41 +73,12 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-04-16-minnesota-probes-federal-officers-over-two-killings-wounding-and-highway-assault
-  relation: related
-  strength: 0.8181
-  confidence: medium
-- slug: 2026-04-16-minnesota-charges-ice-agent-with-felony-assault-for-pointing-gun-at-highway-driv
-  relation: related
-  strength: 0.7749
-  confidence: medium
-- slug: 2026-01-14-minneapolis-sees-second-federal-shooting-as-courts-governor-push-back-on-immigra
-  relation: continues
-  strength: 0.7973
-  confidence: high
-- slug: 2026-01-13-federal-agents-deploy-tear-gas-in-minneapolis-as-five-prosecutors-resign-over-re
-  relation: continues
-  strength: 0.8018
-  confidence: high
-- slug: 2026-01-11-federal-agents-ram-minneapolis-door-pepper-spray-protesters-in-immigration-sweep
-  relation: continues
-  strength: 0.8075
-  confidence: high
-- slug: 2026-01-09-federal-authorities-bar-minnesota-from-ice-shooting-probe-claim-no-state-jurisdi
-  relation: continues
-  strength: 0.8173
-  confidence: high
-- slug: 2026-01-12-minnesota-twin-cities-sue-trump-administration-over-fatal-ice-shooting
-  relation: continues
-  strength: 0.7972
-  confidence: high
-- slug: 2026-01-13-wisconsin-gov-evers-questions-lieutenant-governor-s-ice-enforcement-proposal
-  relation: related
-  strength: 0.7828
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
 
 Federal prosecutors served grand jury subpoenas Tuesday to Minnesota's governor, attorney general, and the mayors of Minneapolis and St. Paul as part of an investigation into whether they obstructed federal immigration enforcement during a sweeping crackdown in the Twin Cities area.
 
@@ -170,228 +134,278 @@ Vice President JD Vance is expected to travel to Minneapolis on Thursday for a r
 
 ## Atomic claims
 
-### c_001 — reported, primary plus secondary
-**Subject entities:** Federal prosecutors; Minnesota officials
-**Predicate:** served
-**Object:** grand jury subpoenas (legal_action)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** Federal prosecutors; Minnesota officials
+- **Predicate:** served
+- **Object:** grand jury subpoenas (legal_action)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > Federal prosecutors served grand jury subpoenas to Minnesota state officials on Tuesday, January 20, 2026.
 
-### c_002 — confirmed, primary document
-**Subject entities:** subpoena; immigration officials
-**Predicate:** seeks
-**Object:** records tending to show refusal to aid immigration officials (legal_requirement)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** subpoena; immigration officials
+- **Predicate:** seeks
+- **Object:** records tending to show refusal to aid immigration officials (legal_requirement)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > The subpoena seeks records including any documents tending to show a refusal to come to the aid of immigration officials.
 
-### c_003 — confirmed, primary document
-**Subject entities:** grand jury hearing
-**Predicate:** scheduled
-**Object:** 2026-02-03 (date)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** grand jury hearing
+- **Predicate:** scheduled
+- **Object:** 2026-02-03 (date)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > The grand jury hearing is scheduled for February 3, 2026.
 
-### c_004 — reported, two independent
-**Subject entities:** investigation; Minnesota officials
-**Predicate:** examines
-**Object:** potential obstruction through public statements (legal_question)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** two_independent
+- **Subject entities:** investigation; Minnesota officials
+- **Predicate:** examines
+- **Object:** potential obstruction through public statements (legal_question)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > The investigation examines whether Minnesota officials obstructed federal immigration enforcement through public statements.
 
-### c_005 — reported, primary document
-**Subject entities:** Renee Good; ICE officers
-**Predicate:** killed
-**Object:** death during ICE operation (event)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Renee Good; ICE officers
+- **Predicate:** killed
+- **Object:** death during ICE operation (event)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Renee Good, 37, was killed January 7 as she moved her vehicle blocking a Minneapolis street where ICE officers were operating.
 
-### c_006 — attributed, single source
-**Subject entities:** Jonathan Ross
-**Predicate:** claimed
-**Object:** self-defense justification (attribution)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jonathan Ross
+- **Predicate:** claimed
+- **Object:** self-defense justification (attribution)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > ICE officer Jonathan Ross said he shot Good in self-defense.
 
-### c_007 — reported, primary document
-**Subject entities:** vehicle; officer
-**Predicate:** documented
-**Object:** vehicle turning away from officer (video_evidence)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** vehicle; officer
+- **Predicate:** documented
+- **Object:** vehicle turning away from officer (video_evidence)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Video of the encounter shows the Honda Pilot slowly turning away from the officer.
 
-### c_008 — attributed, two independent
-**Subject entities:** Jacob Frey
-**Predicate:** said
-**Object:** concern about political use of federal law enforcement (quotation)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** two_independent
+- **Subject entities:** Jacob Frey
+- **Predicate:** said
+- **Object:** concern about political use of federal law enforcement (quotation)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > Mayor Jacob Frey said: "We shouldn't have to live in a country where people fear that federal law enforcement will be used to play politics or crack down on local voices they disagree with."
 
-### c_009 — attributed, two independent
-**Subject entities:** Kaohly Her
-**Predicate:** said
-**Object:** unfazed by tactics (statement)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** two_independent
+- **Subject entities:** Kaohly Her
+- **Predicate:** said
+- **Object:** unfazed by tactics (statement)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > St. Paul Mayor Kaohly Her said she was unfazed by the subpoena.
 
-### c_010 — attributed, two independent
-**Subject entities:** Governor Walz; Trump administration
-**Predicate:** characterized
-**Object:** administration seeking distractions rather than justice (attribution)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** two_independent
+- **Subject entities:** Governor Walz; Trump administration
+- **Predicate:** characterized
+- **Object:** administration seeking distractions rather than justice (attribution)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > Governor Walz's office said the Trump administration was not seeking justice, only creating distractions.
 
-### c_011 — attributed, two independent
-**Subject entities:** Keith Ellison; government
-**Predicate:** said
-**Object:** violations of constitutional rights (attribution)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** two_independent
+- **Subject entities:** Keith Ellison; government
+- **Predicate:** said
+- **Object:** violations of constitutional rights (attribution)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > Attorney General Keith Ellison said the government is violating free speech and other constitutional rights.
 
-### c_012 — reported, primary plus secondary
-**Subject entities:** Justice Department; Minnesota lawsuit
-**Predicate:** characterized
-**Object:** legally frivolous (legal_argument)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** Justice Department; Minnesota lawsuit
+- **Predicate:** characterized
+- **Object:** legally frivolous (legal_argument)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > The Justice Department called Minnesota's lawsuit legally frivolous.
 
-### c_013 — attributed, two independent
-**Subject entities:** Greg Bovino; arrests in Minnesota
-**Predicate:** said
-**Object:** 10,000+ arrests in past year (statistic)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** two_independent
+- **Subject entities:** Greg Bovino; arrests in Minnesota
+- **Predicate:** said
+- **Object:** 10,000+ arrests in past year (statistic)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > Border Patrol commander Greg Bovino said more than 10,000 people in the U.S. illegally have been arrested in Minnesota in the past year.
 
-### c_014 — attributed, two independent
-**Subject entities:** Greg Bovino; Operation Metro Surge
-**Predicate:** said
-**Object:** 3,000 arrests in six weeks (statistic)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** two_independent
+- **Subject entities:** Greg Bovino; Operation Metro Surge
+- **Predicate:** said
+- **Object:** 3,000 arrests in six weeks (statistic)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > Bovino said 3,000 arrests occurred during Operation Metro Surge in the last six weeks.
 
-### c_015 — attributed, two independent
-**Subject entities:** Greg Bovino
-**Predicate:** said
-**Object:** serious harm versus technical violations (characterization)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** two_independent
+- **Subject entities:** Greg Bovino
+- **Predicate:** said
+- **Object:** serious harm versus technical violations (characterization)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > Bovino said the arrested individuals are responsible for serious harm, not technical violations.
 
-### c_016 — attributed, two independent
-**Subject entities:** Greg Bovino; officers
-**Predicate:** defended
-**Object:** actions characterized as legal, ethical, moral (defense)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_016
+- **Hedge:** attributed
+- **Corroboration:** two_independent
+- **Subject entities:** Greg Bovino; officers
+- **Predicate:** defended
+- **Object:** actions characterized as legal, ethical, moral (defense)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > Bovino defended officers' actions, saying they are legal, ethical and moral.
 
-### c_017 — attributed, two independent
-**Subject entities:** Julia Decker
-**Predicate:** said
-**Object:** inability to verify arrest claims (statement)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_017
+- **Hedge:** attributed
+- **Corroboration:** two_independent
+- **Subject entities:** Julia Decker
+- **Predicate:** said
+- **Object:** inability to verify arrest claims (statement)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > Julia Decker of the Immigrant Law Center of Minnesota said advocates have no way of knowing whether the government's arrest numbers and descriptions are accurate.
 
-### c_018 — reported, primary document
-**Subject entities:** federal officers; protesters
-**Predicate:** used
-**Object:** tear gas and chemical irritants (documented_action)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_018
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** federal officers; protesters
+- **Predicate:** used
+- **Object:** tear gas and chemical irritants (documented_action)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > Federal officers used tear gas and chemical irritants against protesters.
 
-### c_019 — reported, primary document
-**Subject entities:** federal officers
-**Predicate:** used
-**Object:** battering ram and broke windows (documented_action)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_019
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** federal officers
+- **Predicate:** used
+- **Object:** battering ram and broke windows (documented_action)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > Federal officers used a battering ram to enter a house and smashed vehicle windows.
 
-### c_020 — reported, two independent
-**Subject entities:** police; off-duty officers; federal officers
-**Predicate:** reported
-**Object:** racial profiling and unjustified stops (incident_report)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_020
+- **Hedge:** reported
+- **Corroboration:** two_independent
+- **Subject entities:** police; off-duty officers; federal officers
+- **Predicate:** reported
+- **Object:** racial profiling and unjustified stops (incident_report)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > Police in the region reported that off-duty law enforcement officers have been racially profiled and stopped without cause by federal officers.
 
-### c_021 — reported, primary document
-**Subject entities:** protesters; church
-**Predicate:** disrupted
-**Object:** church service (incident)
-**Temporal:** 2026-01-19
-**Source IDs:** src_001
+### c_021
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** protesters; church
+- **Predicate:** disrupted
+- **Object:** church service (incident)
+- **Temporal:** 2026-01-19
+- **Sources:** src_001
 
 > About three dozen people entered Cities Church in St. Paul on Sunday and disrupted a service.
 
-### c_022 — attributed, primary document
-**Subject entities:** Jonathan Parnell
-**Predicate:** said
-**Object:** church disruption unlawful under Christian teaching and law (quotation)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_022
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Jonathan Parnell
+- **Predicate:** said
+- **Object:** church disruption unlawful under Christian teaching and law (quotation)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > Pastor Jonathan Parnell said: "Invading a church service to disrupt the worship of Jesus—or any other act of worship—is protected by neither the Christian Scriptures nor the laws of this nation."
 
-### c_023 — reported, two independent
-**Subject entities:** Nekima Levy Armstrong; pastor at ICE
-**Predicate:** called
-**Object:** resignation due to moral conflict (demand)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_023
+- **Hedge:** reported
+- **Corroboration:** two_independent
+- **Subject entities:** Nekima Levy Armstrong; pastor at ICE
+- **Predicate:** called
+- **Object:** resignation due to moral conflict (demand)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > Nekima Levy Armstrong called for a pastor who works at ICE to resign from the church, citing a fundamental moral conflict.
 
-### c_024 — attributed, primary document
-**Subject entities:** Kristi Noem; protesters
-**Predicate:** characterized
-**Object:** protesters as agitators; arrests threatened (public_statement)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_024
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Kristi Noem; protesters
+- **Predicate:** characterized
+- **Object:** protesters as agitators; arrests threatened (public_statement)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > Homeland Security Secretary Kristi Noem described protesters as agitators and posted on social media: arrests coming.
 
-### c_025 — appears, single source
-**Subject entities:** JD Vance
-**Predicate:** expected
-**Object:** visit to Minneapolis January 23 for roundtable (planned_event)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_025
+- **Hedge:** appears
+- **Corroboration:** single_source
+- **Subject entities:** JD Vance
+- **Predicate:** expected
+- **Object:** visit to Minneapolis January 23 for roundtable (planned_event)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > Vice President JD Vance is expected to travel to Minneapolis on Thursday for a roundtable with local leaders and community members.
 
@@ -400,10 +414,5 @@ Vice President JD Vance is expected to travel to Minneapolis on Thursday for a r
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Steve Karnowski
 **Publication date:** 2026-01-20
-**Access date:** 2026-05-18
 **Title:** Justice Department subpoenas Walz and others in immigration enforcement obstruction probe
 **URL:** https://apnews.com/article/minnesota-immigration-crackdown-trump-5e2f40582b62687fd9bc70640382f034
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

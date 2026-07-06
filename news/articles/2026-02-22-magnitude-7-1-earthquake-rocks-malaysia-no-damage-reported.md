@@ -147,7 +147,3 @@ The U.S. Geological Survey reported no immediate damage or tsunami threat from t
 **Access date:** 2026-05-18
 **Title:** A powerful magnitude 7.1 earthquake shakes parts of Malaysia
 **URL:** https://apnews.com/article/malaysia-earthquake-81fa42829a4337e6e9adb79421555f08
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -15,39 +15,42 @@ primary_themes:
 - nonviolence movement
 - obituary
 topic_tags:
-  - "politics"
-  - "fundamental rights"
-  - "human interest"
-  - "people"
-storyline_nexus: []
-geographic_location: Selma, Alabama; Nashville, Tennessee
+- civil rights
+- people
+- fundamental rights
+- political process
+storyline_nexus:
+- us-immigration-enforcement
+geographic_location: United States
 floor_values_engaged:
-- value: human_life_and_dignity
+- value: equality_fairness
   intensity: 0.9
-- value: informed_citizenship
+- value: human_life_and_dignity
   intensity: 0.6
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:43:36Z'
+- value: accountability_of_power
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:46:29Z'
 source_cluster_id: cluster_ap_2026-03-06_bernard-lafayette-voting-rights-organize
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 15
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 4
-    reported: 11
-    contested: 0
     confirmed: 0
+    appears: 0
+    attributed: 4
+    contested: 0
+    reported: 11
+    alleged: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 0
+    primary_plus_secondary: 0
     single_source: 15
+    one_originating_plus_primary_document: 0
     two_independent: 0
 sources:
   count: 1
@@ -65,6 +68,13 @@ figures_aggregate:
 cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- **Selma voting rights organizer Bernard LaFayette dies at 85, son says** — opening narrative arc or primary actor action.
+- - Martin Luther King Jr.
 
 Bernard LaFayette, the civil rights organizer who did the groundwork for the 1965 Selma, Alabama, voter registration campaign more than two years before the marches that shocked the nation, died Thursday of a heart attack, his son said. He was 85.
 
@@ -122,136 +132,166 @@ In his Selma memoir, LaFayette wrote that living under the constant threat of de
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Bernard LaFayette
-**Predicate:** died
-**Object:** heart attack (cause_of_death)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Bernard LaFayette
+- **Predicate:** died
+- **Object:** heart attack (cause_of_death)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > Bernard LaFayette died Thursday morning of a heart attack.
 
-### c_002 — attributed, single source
-**Subject entities:** Bernard LaFayette
-**Predicate:** age_at_death
-**Object:** 85 (age)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Bernard LaFayette
+- **Predicate:** age_at_death
+- **Object:** 85 (age)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > Bernard LaFayette was 85 years old at the time of his death.
 
-### c_003 — attributed, single source
-**Subject entities:** Bernard LaFayette III
-**Predicate:** confirmed
-**Object:** death of Bernard LaFayette (statement)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Bernard LaFayette III
+- **Predicate:** confirmed
+- **Object:** death of Bernard LaFayette (statement)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > Bernard LaFayette III confirmed his father died Thursday morning.
 
-### c_004 — reported, single source
-**Subject entities:** Bernard LaFayette
-**Predicate:** appointed_as
-**Object:** director, Alabama Voter Registration Campaign (role)
-**Temporal:** 1963
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Bernard LaFayette
+- **Predicate:** appointed_as
+- **Object:** director, Alabama Voter Registration Campaign (role)
+- **Temporal:** 1963
+- **Sources:** src_001
 
 > LaFayette was named director of the Alabama Voter Registration Campaign in 1963.
 
-### c_005 — reported, single source
-**Subject entities:** Bernard LaFayette; Student Nonviolent Coordinating Committee
-**Predicate:** helped_found
-**Object:** SNCC, 1960 (organization)
-**Temporal:** 1960
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Bernard LaFayette; Student Nonviolent Coordinating Committee
+- **Predicate:** helped_found
+- **Object:** SNCC, 1960 (organization)
+- **Temporal:** 1960
+- **Sources:** src_001
 
 > LaFayette helped found the Student Nonviolent Coordinating Committee in 1960 as one of a delegation of Nashville students.
 
-### c_006 — reported, single source
-**Subject entities:** Bernard LaFayette; Medgar Evers
-**Predicate:** survived_attack
-**Object:** assassination attempt, same night as Evers murder (event)
-**Temporal:** 1963
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Bernard LaFayette; Medgar Evers
+- **Predicate:** survived_attack
+- **Object:** assassination attempt, same night as Evers murder (event)
+- **Temporal:** 1963
+- **Sources:** src_001
 
 > LaFayette survived an assassination attempt on the same night Medgar Evers was murdered in Mississippi, which the FBI said was a conspiracy to kill civil rights workers.
 
-### c_007 — reported, single source
-**Subject entities:** Bernard LaFayette
-**Predicate:** beaten_and_arrested
-**Object:** Freedom Rides, 1961, Parchman Prison (event)
-**Temporal:** 1961
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Bernard LaFayette
+- **Predicate:** beaten_and_arrested
+- **Object:** Freedom Rides, 1961, Parchman Prison (event)
+- **Temporal:** 1961
+- **Sources:** src_001
 
 > LaFayette was beaten in Montgomery, Alabama, during the Freedom Rides of 1961, and was arrested in Jackson, Mississippi, becoming one of more than 300 Freedom Riders sent to Parchman Prison.
 
-### c_008 — reported, single source
-**Subject entities:** Bernard LaFayette; Martin Luther King Jr.
-**Predicate:** present_at
-**Object:** Lorraine Motel, morning of King assassination (location_event)
-**Temporal:** 1968-04-04
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Bernard LaFayette; Martin Luther King Jr.
+- **Predicate:** present_at
+- **Object:** Lorraine Motel, morning of King assassination (location_event)
+- **Temporal:** 1968-04-04
+- **Sources:** src_001
 
 > LaFayette was with Martin Luther King Jr. at the Lorraine Motel on the morning of King's assassination in 1968.
 
-### c_009 — reported, single source
-**Subject entities:** Martin Luther King Jr.; Bernard LaFayette
-**Predicate:** last_words_to
-**Object:** institutionalize and internationalize nonviolence (statement)
-**Temporal:** 1968-04-04
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Martin Luther King Jr.; Bernard LaFayette
+- **Predicate:** last_words_to
+- **Object:** institutionalize and internationalize nonviolence (statement)
+- **Temporal:** 1968-04-04
+- **Sources:** src_001
 
 > King's last words to LaFayette were about the need to institutionalize and internationalize the nonviolence movement.
 
-### c_010 — reported, single source
-**Subject entities:** Bernard LaFayette; Poor People's Campaign
-**Predicate:** served_as
-**Object:** national coordinator, Poor People's Campaign (role)
-**Temporal:** 1968
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Bernard LaFayette; Poor People's Campaign
+- **Predicate:** served_as
+- **Object:** national coordinator, Poor People's Campaign (role)
+- **Temporal:** 1968
+- **Sources:** src_001
 
 > LaFayette was the national coordinator of King's Poor People's Campaign by 1968.
 
-### c_011 — reported, single source
-**Subject entities:** Bernard LaFayette; Harvard University
-**Predicate:** earned_degrees
-**Object:** master's and doctorate, Harvard University (academic_credentials)
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Bernard LaFayette; Harvard University
+- **Predicate:** earned_degrees
+- **Object:** master's and doctorate, Harvard University (academic_credentials)
+- **Sources:** src_001
 
 > LaFayette earned a master's degree and doctorate from Harvard University after King's death.
 
-### c_012 — reported, single source
-**Subject entities:** Bernard LaFayette; John Lewis
-**Predicate:** roomed_with
-**Object:** American Baptist Theological Seminary, Nashville (institution)
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Bernard LaFayette; John Lewis
+- **Predicate:** roomed_with
+- **Object:** American Baptist Theological Seminary, Nashville (institution)
+- **Sources:** src_001
 
 > LaFayette roomed with John Lewis at Nashville's American Baptist Theological Seminary.
 
-### c_013 — reported, single source
-**Subject entities:** Bernard LaFayette; John Lewis; Nashville
-**Predicate:** outcome_of
-**Object:** Nashville first major Southern city to desegregate downtown (achievement)
-**Temporal:** 1960
-**Source IDs:** src_001
+### c_013
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Bernard LaFayette; John Lewis; Nashville
+- **Predicate:** outcome_of
+- **Object:** Nashville first major Southern city to desegregate downtown (achievement)
+- **Temporal:** 1960
+- **Sources:** src_001
 
 > Nashville became the first major Southern city to desegregate its downtown accommodations following the nonviolent campaign LaFayette and Lewis helped lead.
 
-### c_014 — attributed, single source
-**Subject entities:** Mary Lou Finley; Bernard LaFayette
-**Predicate:** worked_with
-**Object:** Chicago, 1960s (collaboration)
-**Temporal:** 1960s
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Mary Lou Finley; Bernard LaFayette
+- **Predicate:** worked_with
+- **Object:** Chicago, 1960s (collaboration)
+- **Temporal:** 1960s
+- **Sources:** src_001
 
 > Mary Lou Finley, a professor emeritus at Antioch University Seattle, worked with LaFayette in Chicago in the 1960s.
 
-### c_015 — reported, single source
-**Subject entities:** Bernard LaFayette
-**Predicate:** authored
-**Object:** In Peace and Freedom: My Journey in Selma, 2013 (publication)
-**Temporal:** 2013
-**Source IDs:** src_001
+### c_015
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Bernard LaFayette
+- **Predicate:** authored
+- **Object:** In Peace and Freedom: My Journey in Selma, 2013 (publication)
+- **Temporal:** 2013
+- **Sources:** src_001
 
 > LaFayette described his Selma work in a 2013 memoir titled 'In Peace and Freedom: My Journey in Selma.'
 
@@ -260,10 +300,5 @@ In his Selma memoir, LaFayette wrote that living under the constant threat of de
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Travis Loller
 **Publication date:** 2026-03-05
-**Access date:** 2026-05-17
 **Title:** Selma voting rights organizer Bernard LaFayette dies at 85, son says
 **URL:** https://apnews.com/article/bernard-lafayette-voting-rights-organizer-dies-f2f526a1a0b911edb9ef3c219cee77e8
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

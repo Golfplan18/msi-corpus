@@ -21,44 +21,42 @@ primary_themes:
 - crime policy
 - election integrity
 topic_tags:
-  - "armed conflict"
-  - "conflict, war and peace"
-  - "crime, law and justice"
-  - election
-  - politics
-storyline_nexus: []
-geographic_location: Washington D.C., United States
+- crime, law and justice
+- civil rights
+- government
+- law enforcement
+storyline_nexus:
+- trump-judicial-challenges
+geographic_location: United States
 floor_values_engaged:
-- value: human_life_and_dignity
-  intensity: 0.6
 - value: accountability_of_power
-  intensity: 0.8
+  intensity: 0.9
+- value: truthfulness
+  intensity: 0.6
 - value: equality_fairness
-  intensity: 0.7
-- value: informed_citizenship
-  intensity: 0.7
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T08:30:00Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:47:01Z'
 source_cluster_id: cluster_ap_2026-04-21_national-guard-surge-washington-dc-trump
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 20
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 6
     reported: 13
     contested: 0
+    alleged: 0
     confirmed: 1
+    appears: 0
+    attributed: 6
   corroboration:
     primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 1
     single_source: 19
+    primary_document: 1
+    one_originating_plus_primary_document: 0
     two_independent: 0
 sources:
   count: 1
@@ -73,17 +71,20 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2025-12-31-trump-drops-national-guard-deployment-to-chicago-la-and-portland-after-court-los
-  relation: related
-  strength: 0.8596
-  confidence: medium
-- slug: 2026-01-06-new-orleans-violent-crime-falls-for-third-straight-year-as-national-guard-begins
-  relation: related
-  strength: 0.8355
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- With no end in sight to their deployment, National Guard troops roam Washington
+- With no end in sight to their deployment, National Guard troops roam Washington
+- “Taxpayers are paying more than a million dollars a day to have them walk around,” said Phil Mendelson, chairman of the District of Columbia Council, in an emailed response to questions.
+- And, he said, “the presence of armed soldiers on American streets is not a good look.”
+- White House spokesperson Abigail Jackson said the president’s crime task force in the city has “yielded tremendous results for local communities.”
+- “Every local leader should want to mimic this success in their own locales,” Jackson said.
 
 The National Guard troops roaming Washington's streets, parks and metro stations arrived eight months ago as part of President Donald Trump's declared crime emergency. With more than 2,500 members still deployed and no announced endpoint, local officials and civil-rights advocates question the indefinite military presence in the nation's capital.
 
@@ -123,187 +124,225 @@ Several advocacy groups are planning protests on May 1 to oppose the federal sur
 
 Chatterjee warned that normalizing the Guard's presence could suppress dissent and "tilt the playing field" in elections. She said the visible military presence could intimidate voters and called on citizens to help their neighbors feel safe voting.
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
-### c_001 — reported, single source
-**Subject entities:** Donald Trump; Washington D.C.
-**Predicate:** issued_order_for_deployment
-**Object:** National Guard troops deployment (government_action)
-**Temporal:** 2025-08
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Washington D.C.
+- **Predicate:** issued_order_for_deployment
+- **Object:** National Guard troops deployment (government_action)
+- **Temporal:** 2025-08
+- **Sources:** src_001
 
 > President Trump issued an executive order in August to deploy National Guard troops to Washington in response to a declared crime emergency.
 
-### c_002 — reported, single source
-**Subject entities:** U.S. National Guard; Washington D.C.
-**Predicate:** remain_deployed
-**Object:** 2500 (troop_count)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** U.S. National Guard; Washington D.C.
+- **Predicate:** remain_deployed
+- **Object:** 2500 (troop_count)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > More than 2,500 National Guard troops remain deployed in Washington eight months after the initial deployment order.
 
-### c_003 — reported, single source
-**Subject entities:** Trump administration; Washington D.C.
-**Predicate:** indicates_no_endpoint
-**Object:** indefinite deployment (policy_statement)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Trump administration; Washington D.C.
+- **Predicate:** indicates_no_endpoint
+- **Object:** indefinite deployment (policy_statement)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > The Trump administration indicates there is no clear end in sight to the National Guard deployment in Washington.
 
-### c_004 — reported, single source
-**Subject entities:** U.S. National Guard; California; Illinois
-**Predicate:** ended_or_paused_by_courts
-**Object:** court-ordered suspension (legal_decision)
-**Temporal:** 2026-04
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** U.S. National Guard; California; Illinois
+- **Predicate:** ended_or_paused_by_courts
+- **Object:** court-ordered suspension (legal_decision)
+- **Temporal:** 2026-04
+- **Sources:** src_001
 
 > National Guard deployments to California and Illinois have ended or been paused following court decisions.
 
-### c_005 — reported, single source
-**Subject entities:** U.S. National Guard; Washington D.C.
-**Predicate:** assist_with_operations
-**Object:** medical, law enforcement, beautification, infrastructure support (activity_list)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** U.S. National Guard; Washington D.C.
+- **Predicate:** assist_with_operations
+- **Object:** medical, law enforcement, beautification, infrastructure support (activity_list)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Guard members assist with medical emergencies, arrests, juvenile curfew enforcement, beautification, and snow removal in Washington.
 
-### c_006 — attributed, single source
-**Subject entities:** White House; Trump administration
-**Predicate:** claims_enforcement_results
-**Object:** 12,000 arrests including 62 gang members; thousands of firearms seized (enforcement_statistic)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** White House; Trump administration
+- **Predicate:** claims_enforcement_results
+- **Object:** 12,000 arrests including 62 gang members; thousands of firearms seized (enforcement_statistic)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > The White House says the task force has made 12,000 arrests, including 62 known gang members, and seized thousands of illegal firearms since operations began.
 
-### c_007 — attributed, single source
-**Subject entities:** Phil Mendelson; Washington D.C. Council
-**Predicate:** stated_cost_estimate
-**Object:** $1 million per day (cost_estimate)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Phil Mendelson; Washington D.C. Council
+- **Predicate:** stated_cost_estimate
+- **Object:** $1 million per day (cost_estimate)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Phil Mendelson, chairman of the District of Columbia Council, said taxpayers pay more than $1 million per day for the National Guard deployment.
 
-### c_008 — attributed, single source
-**Subject entities:** Phil Mendelson
-**Predicate:** expressed_concern
-**Object:** military presence problematic for public perception (opinion_expressed)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Phil Mendelson
+- **Predicate:** expressed_concern
+- **Object:** military presence problematic for public perception (opinion_expressed)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Phil Mendelson said the presence of armed soldiers on American streets is not a good look.
 
-### c_009 — reported, single source
-**Subject entities:** Washington D.C.; crime
-**Predicate:** declining_prior_to_deployment
-**Object:** pre-existing downward trend (crime_statistic)
-**Temporal:** 2026-04
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Washington D.C.; crime
+- **Predicate:** declining_prior_to_deployment
+- **Object:** pre-existing downward trend (crime_statistic)
+- **Temporal:** 2026-04
+- **Sources:** src_001
 
 > Washington's crime rates were already declining before the National Guard deployment began.
 
-### c_010 — reported, single source
-**Subject entities:** Washington D.C. Police; crime statistics
-**Predicate:** under_investigation_for_potential_manipulation
-**Object:** data integrity concerns (investigation)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Washington D.C. Police; crime statistics
+- **Predicate:** under_investigation_for_potential_manipulation
+- **Object:** data integrity concerns (investigation)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Crime figures in Washington are being investigated after allegations that local police may have manipulated the data.
 
-### c_011 — reported, single source
-**Subject entities:** Washington D.C.; courts; National Guard deployment
-**Predicate:** subject_of_litigation
-**Object:** legal challenge to deployment authority (legal_case)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Washington D.C.; courts; National Guard deployment
+- **Predicate:** subject_of_litigation
+- **Object:** legal challenge to deployment authority (legal_case)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > A court battle over the National Guard deployment in Washington is ongoing.
 
-### c_012 — reported, single source
-**Subject entities:** U.S. National Guard; West Virginia; Washington D.C.
-**Predicate:** killed_in_ambush
-**Object:** two members killed (casualty_report)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** U.S. National Guard; West Virginia; Washington D.C.
+- **Predicate:** killed_in_ambush
+- **Object:** two members killed (casualty_report)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Two West Virginia National Guard members were killed in an ambush near the White House.
 
-### c_013 — reported, single source
-**Subject entities:** Sarah Beckstrom
-**Predicate:** killed_in_ambush
-**Object:** age 20; Guard specialist (identified_casualty)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_013
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Sarah Beckstrom
+- **Predicate:** killed_in_ambush
+- **Object:** age 20; Guard specialist (identified_casualty)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Specialist Sarah Beckstrom, age 20, was killed in the Guard ambush near the White House.
 
-### c_014 — reported, single source
-**Subject entities:** U.S. National Guard
-**Predicate:** sustained_injury_in_ambush
-**Object:** severe injury (casualty_report)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_014
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** U.S. National Guard
+- **Predicate:** sustained_injury_in_ambush
+- **Object:** severe injury (casualty_report)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > A National Guard colleague of Sarah Beckstrom was severely injured in the ambush.
 
-### c_015 — reported, single source
-**Subject entities:** Washington D.C. residents
-**Predicate:** report_reduced_frustration
-**Object:** post-ambush sentiment shift (public_reaction)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_015
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Washington D.C. residents
+- **Predicate:** report_reduced_frustration
+- **Object:** post-ambush sentiment shift (public_reaction)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Some Washington residents said their frustrations with the Guard presence eased after the ambush that killed two Guard members.
 
-### c_016 — attributed, single source
-**Subject entities:** Brianne Nadeau; Washington D.C.
-**Predicate:** reported_constituent_concerns
-**Object:** ongoing questions with reduced intensity (constituent_feedback)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_016
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Brianne Nadeau; Washington D.C.
+- **Predicate:** reported_constituent_concerns
+- **Object:** ongoing questions with reduced intensity (constituent_feedback)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Council member Brianne Nadeau said constituents continue to ask why the Guard remains deployed, but complaints have declined since the initial deployment.
 
-### c_017 — confirmed, primary document
-**Subject entities:** U.S. Congress; President; Washington D.C.
-**Predicate:** hold_direct_authority
-**Object:** legislative authority over laws and budget; executive control of D.C. Guard (constitutional_structure)
-**Temporal:** 2026-04
-**Source IDs:** src_001
+### c_017
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Congress; President; Washington D.C.
+- **Predicate:** hold_direct_authority
+- **Object:** legislative authority over laws and budget; executive control of D.C. Guard (constitutional_structure)
+- **Temporal:** 2026-04
+- **Sources:** src_001
 
 > Congress retains authority to review Washington's laws and control its budget, and the president has direct control of the D.C. Guard.
 
-### c_018 — attributed, single source
-**Subject entities:** American Civil Liberties Union of D.C.; Washington D.C. officials
-**Predicate:** argued_limited_local_authority
-**Object:** local officials powerless without judicial intervention (legal_argument)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_018
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** American Civil Liberties Union of D.C.; Washington D.C. officials
+- **Predicate:** argued_limited_local_authority
+- **Object:** local officials powerless without judicial intervention (legal_argument)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > The American Civil Liberties Union of D.C. argues that local officials have little power to stop the Guard deployment unless courts intervene.
 
-### c_019 — reported, single source
-**Subject entities:** advocacy groups; Washington D.C.
-**Predicate:** planning_protests
-**Object:** May 1 demonstration (planned_event)
-**Temporal:** 2026-05-01
-**Source IDs:** src_001
+### c_019
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** advocacy groups; Washington D.C.
+- **Predicate:** planning_protests
+- **Object:** May 1 demonstration (planned_event)
+- **Temporal:** 2026-05-01
+- **Sources:** src_001
 
 > Several advocacy groups are planning protests on May 1 to oppose the federal surge in Washington.
 
-### c_020 — attributed, single source
-**Subject entities:** Free DC; Washington D.C.
-**Predicate:** stated_campaign_goal
-**Object:** end military presence before June 2026 election (advocacy_objective)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_020
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Free DC; Washington D.C.
+- **Predicate:** stated_campaign_goal
+- **Object:** end military presence before June 2026 election (advocacy_objective)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Free DC, an advocacy group, seeks an end to what it calls the military occupation of D.C. before the June election.
 
@@ -312,10 +351,5 @@ This article was generated algorithmically by Main Street Independent's News Art
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Gary Fields
 **Publication date:** 2026-04-20
-**Access date:** 2026-04-20
 **Title:** National Guard deployed to Washington with no end in sight
 **URL:** https://apnews.com/article/national-guard-surge-washington-dc-trump-7db1c795056a51c9fdc2d9c7f4c2147c
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

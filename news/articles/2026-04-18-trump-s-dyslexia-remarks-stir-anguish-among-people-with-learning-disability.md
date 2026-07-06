@@ -12,42 +12,43 @@ primary_themes:
 - political discourse
 - stigma
 topic_tags:
-  - demographics
-  - society
-  - sport
-  - "sport event"
-storyline_nexus: []
+- discrimination
+- disease and condition
+- politics
+- education
+storyline_nexus:
+- trump-health-policy-rfk
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
-  intensity: 0.95
-- value: truthfulness
-  intensity: 0.88
+  intensity: 0.9
+- value: accountability_of_power
+  intensity: 0.6
 - value: equality_fairness
-  intensity: 0.85
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T00:00:00Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T01:05:04Z'
 source_cluster_id: cluster_ap_2026-04-20_dyslexia-trump-newsom-insults-learning-d
 gdelt_event_ids: []
-consensus_floor_version: '1.0'
-publication_mindspec_version: '1.0'
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 10
   hedges:
     appears: 0
-    alleged: 0
     attributed: 3
-    reported: 4
-    contested: 0
     confirmed: 3
+    contested: 0
+    alleged: 0
+    reported: 4
   corroboration:
-    primary_plus_secondary: 3
-    one_originating_plus_primary_document: 0
+    two_independent: 2
     primary_document: 5
     single_source: 0
-    two_independent: 2
+    primary_plus_secondary: 3
+    one_originating_plus_primary_document: 0
 sources:
   count: 1
   outlets:
@@ -65,17 +66,12 @@ image:
   url: /articles/2026-04-18-trump-s-dyslexia-remarks-stir-anguish-among-people-with-learning-disability.png
   alt: 'Illustration accompanying article: Trump''s dyslexia remarks stir anguish among people with learning disability'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-12-mattel-adds-autistic-barbie-to-diverse-fashionistas-doll-line
-  relation: related
-  strength: 0.6496
-  confidence: medium
-- slug: 2026-01-05-hhs-bars-race-women-and-disability-from-head-start-grant-applications
-  relation: related
-  strength: 0.6549
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
 
 President Donald Trump's remarks linking California Gov. Gavin Newsom's dyslexia to low intelligence stirred anguish and anger among people with the learning disability and supporters across the political spectrum. Trump called Newsom "stupid," "low IQ," and "mentally disabled," claims that conflict with research showing dyslexia and intelligence are unrelated and that undermine years of efforts to reduce stigma around a condition affecting an estimated 20% of the world population.
 
@@ -119,97 +115,115 @@ Jacqueline Rodriguez, CEO of the National Center for Learning Disabilities, said
 
 Meagan Swingle in Georgia said Trump's comments troubled her deeply. She discussed them with her 15-year-old son, Enrique, who has dyslexia and excels in math and science. "I don't know that he remembers a time like I do when, whether you were a Democrat or a Republican or an independent, you could expect a higher standard from the president of the United States," she said. "We build people up, we don't tear them down."
 
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. Framework specification: [/methodology](/methodology). Human review: not triggered. License: [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*
-
 ## Atomic claims
 
-### c_001 — attributed, primary document
-**Subject entities:** Donald Trump; Gavin Newsom
-**Predicate:** called
-**Object:** stupid, low IQ, mentally disabled (characterization)
-**Temporal:** 2026-04-18
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Donald Trump; Gavin Newsom
+- **Predicate:** called
+- **Object:** stupid, low IQ, mentally disabled (characterization)
+- **Temporal:** 2026-04-18
+- **Sources:** src_001
 
 > Trump called Newsom 'stupid,' 'low IQ,' and 'mentally disabled.'
 
-### c_002 — attributed, primary document
-**Subject entities:** Donald Trump; Gavin Newsom
-**Predicate:** said
-**Object:** He can't read a speech, he can't do almost anything. He's actually a very stupid person. (quoted_statement)
-**Temporal:** 2026-03-01
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Donald Trump; Gavin Newsom
+- **Predicate:** said
+- **Object:** He can't read a speech, he can't do almost anything. He's actually a very stupid person. (quoted_statement)
+- **Temporal:** 2026-03-01
+- **Sources:** src_001
 
 > During a Cabinet meeting in March, Trump said of Newsom: 'He can't read a speech, he can't do almost anything. He's actually a very stupid person.'
 
-### c_003 — confirmed, primary plus secondary
-**Subject entities:** dyslexia; intelligence
-**Predicate:** unrelated
-**Object:** dyslexia does not correlate with IQ (research_finding)
-**Temporal:** 2026-04-18
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** dyslexia; intelligence
+- **Predicate:** unrelated
+- **Object:** dyslexia does not correlate with IQ (research_finding)
+- **Temporal:** 2026-04-18
+- **Sources:** src_001
 
 > Research shows dyslexia and intelligence are unrelated.
 
-### c_004 — reported, primary plus secondary
-**Subject entities:** dyslexia
-**Predicate:** affects
-**Object:** the link between the brain and printed language (medical_mechanism)
-**Temporal:** 2026-04-18
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** dyslexia
+- **Predicate:** affects
+- **Object:** the link between the brain and printed language (medical_mechanism)
+- **Temporal:** 2026-04-18
+- **Sources:** src_001
 
 > Dyslexia affects the link between the brain and printed language.
 
-### c_005 — reported, two independent
-**Subject entities:** dyslexia
-**Predicate:** affects
-**Object:** up to 20% of the world population (prevalence_statistic)
-**Temporal:** 2026-04-18
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** two_independent
+- **Subject entities:** dyslexia
+- **Predicate:** affects
+- **Object:** up to 20% of the world population (prevalence_statistic)
+- **Temporal:** 2026-04-18
+- **Sources:** src_001
 
 > Dyslexia is estimated to affect up to 20% of the world population.
 
-### c_006 — confirmed, primary document
-**Subject entities:** Gavin Newsom
-**Predicate:** discussed
-**Object:** his dyslexia in a 2021 children's book and recent memoir (documented_fact)
-**Temporal:** 2021-01-01
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Gavin Newsom
+- **Predicate:** discussed
+- **Object:** his dyslexia in a 2021 children's book and recent memoir (documented_fact)
+- **Temporal:** 2021-01-01
+- **Sources:** src_001
 
 > Newsom discussed his dyslexia in a 2021 children's book and a recent memoir.
 
-### c_007 — reported, primary document
-**Subject entities:** Donald Trump
-**Predicate:** issued
-**Object:** statements praising extraordinary contributions of people with dyslexia (prior_statement)
-**Temporal:** 2017-2021
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Donald Trump
+- **Predicate:** issued
+- **Object:** statements praising extraordinary contributions of people with dyslexia (prior_statement)
+- **Temporal:** 2017-2021
+- **Sources:** src_001
 
 > Trump issued statements during his first term praising 'extraordinary contributions' of people with dyslexia.
 
-### c_008 — confirmed, primary plus secondary
-**Subject entities:** Gary Cohn; Goldman Sachs
-**Predicate:** became
-**Object:** president of Goldman Sachs (biographical_achievement)
-**Temporal:** 2006-01-01
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** Gary Cohn; Goldman Sachs
+- **Predicate:** became
+- **Object:** president of Goldman Sachs (biographical_achievement)
+- **Temporal:** 2006-01-01
+- **Sources:** src_001
 
 > Gary Cohn struggled with dyslexia as a child and became president of Goldman Sachs.
 
-### c_009 — reported, two independent
-**Subject entities:** people with dyslexia
-**Predicate:** expressed
-**Object:** anguish, anger, and dismay (emotional_response)
-**Temporal:** 2026-04-18
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** two_independent
+- **Subject entities:** people with dyslexia
+- **Predicate:** expressed
+- **Object:** anguish, anger, and dismay (emotional_response)
+- **Temporal:** 2026-04-18
+- **Sources:** src_001
 
 > People with dyslexia and their supporters expressed anguish, anger, and dismay at Trump's remarks.
 
-### c_010 — attributed, primary document
-**Subject entities:** Donald Trump
-**Predicate:** said
-**Object:** I think a president should not have learning disabilities (quoted_opinion)
-**Temporal:** 2026-03-01
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Donald Trump
+- **Predicate:** said
+- **Object:** I think a president should not have learning disabilities (quoted_opinion)
+- **Temporal:** 2026-03-01
+- **Sources:** src_001
 
 > Trump said 'I think a president should not have learning disabilities.'
 
@@ -218,10 +232,5 @@ Meagan Swingle in Georgia said Trump's comments troubled her deeply. She discuss
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Collin Binkley
 **Publication date:** 2026-04-18
-**Access date:** 2026-05-17
 **Title:** Trump's dyslexia remarks stir anger and dismay from supporters and critics
 **URL:** https://apnews.com/article/dyslexia-trump-newsom-insults-learning-disability-53e47ca7c7d4d0d16eb42a9a012a85e0
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

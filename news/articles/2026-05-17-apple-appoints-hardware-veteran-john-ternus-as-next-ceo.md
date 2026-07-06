@@ -16,7 +16,8 @@ topic_tags:
   - "artificial intelligence"
   - "economy, business and finance"
   - "science and technology"
-storyline_nexus: []
+storyline_nexus:
+- ai-industry-regulation
 geographic_location: Cupertino, California (Apple headquarters)
 floor_values_engaged:
 - value: informed_citizenship
@@ -236,7 +237,3 @@ The transition arrives at a critical juncture for Apple. While Cook led the comp
 **Access date:** 2026-05-17
 **Title:** Apple's new CEO Ternus is a low profile hardware veteran
 **URL:** https://apnews.com/article/apple-iphone-succession-jobs-cook-ternus-374bd6399b3fbd14695286055228cd58
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

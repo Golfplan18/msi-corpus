@@ -13,40 +13,42 @@ primary_themes:
 - Corporate mergers and acquisitions
 - Antitrust policy
 topic_tags:
-  - "armed conflict"
-  - "arts, culture, entertainment and media"
-  - "conflict, war and peace"
-  - politics
-storyline_nexus: []
-geographic_location: International; US-headquartered companies
+- economy, business and finance
+- mass media
+- arts, culture, entertainment and media
+- competition discipline
+- government policy
+storyline_nexus:
+- ai-industry-regulation
+geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.8
 - value: accountability_of_power
-  intensity: 0.7
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+  intensity: 0.9
+- value: truthfulness
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T04:26:02Z'
 source_cluster_id: cluster_ap_2026-01-21_warner-discovery-paramount-skyndance-net
 gdelt_event_ids: []
-consensus_floor_version: v1.0
-publication_mindspec_version: v1.0
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 14
   hedges:
-    appears: 1
-    alleged: 0
     attributed: 9
     reported: 4
     contested: 0
+    alleged: 0
+    appears: 1
     confirmed: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 0
-    single_source: 14
     two_independent: 0
+    primary_document: 0
+    one_originating_plus_primary_document: 0
+    primary_plus_secondary: 0
+    single_source: 14
 sources:
   count: 1
   outlets:
@@ -60,21 +62,18 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-07-warner-bros-discovery-rejects-paramount-bid-again-backs-netflix-deal
-  relation: continues
-  strength: 0.8745
-  confidence: high
-- slug: 2026-04-18-federal-judge-blocks-nexstar-tegna-tv-merger-on-antitrust-grounds
-  relation: related
-  strength: 0.7586
-  confidence: medium
-- slug: 2026-04-16-jury-finds-live-nation-ran-harmful-concert-venue-monopoly-states-seek-damages
-  relation: related
-  strength: 0.6914
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Placeholder bullet 1.
+- Placeholder bullet 2.
+- Placeholder bullet 3.
+- Placeholder bullet 4.
 
 The competing bids reflect fundamentally different visions for media consolidation — Paramount seeks the entire company while Netflix targets only the studio and streaming operations — against a backdrop of expected antitrust scrutiny under the Trump administration.
 
@@ -106,129 +105,157 @@ Market reaction Thursday reflected the uncertainty: shares of both Warner Bros. 
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Paramount Global; Warner Bros. Discovery
-**Predicate:** extended_tender_deadline
-**Object:** February 20, 2026 (date)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Paramount Global; Warner Bros. Discovery
+- **Predicate:** extended_tender_deadline
+- **Object:** February 20, 2026 (date)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Paramount extended the tender offer deadline for its $77.9 billion hostile bid for Warner Bros. Discovery to Feb. 20.
 
-### c_002 — attributed, single source
-**Subject entities:** Paramount Global
-**Predicate:** maintains_offer_price
-**Object:** $30 per share (price)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Paramount Global
+- **Predicate:** maintains_offer_price
+- **Object:** $30 per share (price)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Paramount's offer price remains $30 per share in cash, unchanged from prior announcements.
 
-### c_003 — attributed, single source
-**Subject entities:** Paramount Global; Warner Bros. Discovery
-**Predicate:** values_at
-**Object:** $108 billion (valuation)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Paramount Global; Warner Bros. Discovery
+- **Predicate:** values_at
+- **Object:** $108 billion (valuation)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > The $30-per-share offer gives the deal a total enterprise value of over $108 billion including debt.
 
-### c_004 — reported, single source
-**Subject entities:** Paramount Global; Warner Bros. Discovery
-**Predicate:** shares_tendered
-**Object:** 168.5 million (share_count)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Paramount Global; Warner Bros. Discovery
+- **Predicate:** shares_tendered
+- **Object:** 168.5 million (share_count)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > More than 168.5 million Warner shares had been tendered in support of Paramount's offer as of late Wednesday.
 
-### c_005 — attributed, single source
-**Subject entities:** Paramount Global; Warner Bros. Discovery
-**Predicate:** falls_short_of_control_threshold
-**Object:** 50% of 2.48 billion shares outstanding (percentage)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Paramount Global; Warner Bros. Discovery
+- **Predicate:** falls_short_of_control_threshold
+- **Object:** 50% of 2.48 billion shares outstanding (percentage)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > The tendered shares fall far short of the 50% threshold Paramount would need to gain effective control.
 
-### c_006 — attributed, single source
-**Subject entities:** Warner Bros. Discovery Board; Paramount Global; Netflix
-**Predicate:** rejected_offer
-**Object:** Paramount bid; prefers Netflix deal (corporate_decision)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Warner Bros. Discovery Board; Paramount Global; Netflix
+- **Predicate:** rejected_offer
+- **Object:** Paramount bid; prefers Netflix deal (corporate_decision)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Warner's board said it has repeatedly and unanimously rejected Paramount's offer in favor of a superior merger agreement with Netflix.
 
-### c_007 — attributed, single source
-**Subject entities:** Warner Bros. Discovery; Paramount Global
-**Predicate:** shareholder_rejection_rate
-**Object:** 93% (percentage)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Warner Bros. Discovery; Paramount Global
+- **Predicate:** shareholder_rejection_rate
+- **Object:** 93% (percentage)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Warner stated that more than 93% of its shareholders have rejected Paramount's offer.
 
-### c_008 — attributed, single source
-**Subject entities:** Netflix; Warner Bros. Discovery
-**Predicate:** agreed_acquisition
-**Object:** $72 billion (valuation)
-**Temporal:** 2025-12-01
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Netflix; Warner Bros. Discovery
+- **Predicate:** agreed_acquisition
+- **Object:** $72 billion (valuation)
+- **Temporal:** 2025-12-01
+- **Sources:** src_001
 
 > Netflix agreed in December to buy Warner's studio and streaming business for $72 billion in an all-cash deal.
 
-### c_009 — attributed, single source
-**Subject entities:** Netflix; Warner Bros. Discovery
-**Predicate:** values_at
-**Object:** $27.75 per share; $83 billion enterprise value (valuation)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Netflix; Warner Bros. Discovery
+- **Predicate:** values_at
+- **Object:** $27.75 per share; $83 billion enterprise value (valuation)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > The Netflix deal values shares at $27.75 each, with enterprise value of approximately $83 billion including debt.
 
-### c_010 — reported, single source
-**Subject entities:** Paramount Global
-**Predicate:** filed_proxy_materials
-**Object:** Opposition to Netflix merger (corporate_action)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Paramount Global
+- **Predicate:** filed_proxy_materials
+- **Object:** Opposition to Netflix merger (corporate_action)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Paramount has filed preliminary materials to solicit proxies in opposition to the Netflix merger.
 
-### c_011 — attributed, single source
-**Subject entities:** Netflix; Paramount Global; Warner Bros. Discovery
-**Predicate:** differ_in_scope
-**Object:** Netflix seeks studio/streaming only; Paramount seeks entire company (deal_structure)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Netflix; Paramount Global; Warner Bros. Discovery
+- **Predicate:** differ_in_scope
+- **Object:** Netflix seeks studio/streaming only; Paramount seeks entire company (deal_structure)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Netflix's proposed acquisition includes only Warner's studio and streaming business, while Paramount's bid is for the entire company including news and cable operations.
 
-### c_012 — appears, single source
-**Subject entities:** Netflix; Warner Bros. Discovery
-**Predicate:** would_result_in
-**Object:** Networks spun off as Discovery Global (corporate_outcome)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_012
+- **Hedge:** appears
+- **Corroboration:** single_source
+- **Subject entities:** Netflix; Warner Bros. Discovery
+- **Predicate:** would_result_in
+- **Object:** Networks spun off as Discovery Global (corporate_outcome)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > If Netflix prevails, Warner's networks operations would be spun off into a separate company called Discovery Global.
 
-### c_013 — reported, single source
-**Subject entities:** Donald Trump; Warner Bros. Discovery
-**Predicate:** expected_involvement_in
-**Object:** Antitrust regulatory review (policy_matter)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_013
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Warner Bros. Discovery
+- **Predicate:** expected_involvement_in
+- **Object:** Antitrust regulatory review (policy_matter)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Political involvement in any Warner antitrust review is expected under President Donald Trump.
 
-### c_014 — reported, single source
-**Subject entities:** Warner Bros. Discovery; Netflix; Paramount-Skydance
-**Predicate:** stock_movement
-**Object:** Warner/Netflix declined slightly; Paramount rose approximately 3% (market_data)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_014
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Warner Bros. Discovery; Netflix; Paramount-Skydance
+- **Predicate:** stock_movement
+- **Object:** Warner/Netflix declined slightly; Paramount rose approximately 3% (market_data)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > Shares of Warner Bros. Discovery and Netflix fell slightly on Thursday, while Paramount-Skydance shares rose nearly 3%.
 
@@ -237,10 +264,5 @@ Market reaction Thursday reflected the uncertainty: shares of both Warner Bros. 
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Wyatte Grantham-Philips
 **Publication date:** 2026-01-22
-**Access date:** 2026-01-22
 **Title:** Paramount extends $77.9B hostile takeover bid for Warner Bros. Discovery
 **URL:** https://apnews.com/article/warner-discovery-paramount-skyndance-netflix-53ae3320db39c1abb2343d835ccd813a
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

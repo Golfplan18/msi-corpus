@@ -21,39 +21,42 @@ primary_themes:
 - occupational_fatalities
 - regulatory_enforcement
 - confined_space_incidents
-topic_tags: []
-storyline_nexus: []
-geographic_location: Keenesburg, Colorado, United States
+topic_tags:
+- industrial accident and incident
+- agriculture
+- employment
+- crime, law and justice
+storyline_nexus:
+- us-immigration-enforcement
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
-  intensity: 0.95
-- value: truthfulness
-  intensity: 0.85
+  intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.8
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T12:00:00Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:56:26Z'
 source_cluster_id: cluster_ap_2026-02-25_colorado-dairy-deaths-investigation-ntsb
 gdelt_event_ids: []
-consensus_floor_version: v1.0
-publication_mindspec_version: v1.0
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 10
   hedges:
-    appears: 0
     alleged: 0
-    attributed: 3
-    reported: 0
     contested: 0
     confirmed: 7
+    attributed: 3
+    reported: 0
+    appears: 0
   corroboration:
+    two_independent: 0
     primary_plus_secondary: 2
+    single_source: 0
     one_originating_plus_primary_document: 0
     primary_document: 8
-    single_source: 0
-    two_independent: 0
 sources:
   count: 1
   outlets:
@@ -67,33 +70,12 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-04-17-years-of-dam-danger-warnings-ignored-before-cheboygan-emergency
-  relation: related
-  strength: 0.7244
-  confidence: medium
-- slug: 2026-01-05-pipeline-safety-agency-issues-record-9-6m-fine-for-2023-gulf-oil-spill
-  relation: related
-  strength: 0.7828
-  confidence: medium
-- slug: 2026-01-13-federal-agents-deploy-tear-gas-in-minneapolis-as-five-prosecutors-resign-over-re
-  relation: related
-  strength: 0.7189
-  confidence: medium
-- slug: 2026-01-07-iran-security-forces-fire-tear-gas-at-grand-bazaar-as-protest-death-toll-reaches
-  relation: related
-  strength: 0.7315
-  confidence: medium
-- slug: 2026-01-12-massachusetts-enacts-assisted-living-safety-reforms-after-fire-killed-10
-  relation: related
-  strength: 0.7074
-  confidence: medium
-- slug: 2026-01-06-swiss-bar-fire-inspections-lapsed-six-years-before-new-year-s-blaze-killed-40
-  relation: related
-  strength: 0.722
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
 
 Federal workplace safety regulators announced proposed penalties totaling $246,609 on Tuesday against a Colorado dairy and two contractors over their failure to protect six workers who died from hydrogen sulfide gas exposure in August 2025. The deaths occurred after a manure pipe disconnected in an enclosed space at Prospect Ranch in Keenesburg, about 35 miles northeast of Denver, shocking rural communities in the region.
 
@@ -137,101 +119,117 @@ William Field, a professor at Purdue University who compiles annual reports on f
 
 Confined spaces on farms and dairies remain a well-known cause of death in U.S. agriculture. Workers die from exposure to odorless and colorless noxious gases like hydrogen sulfide, or from asphyxiation when oxygen is depleted in sealed environments. The hazard has persisted despite documented awareness across rural communities for decades.
 
----
-
-**This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Framework specification: [/methodology](/methodology). Human review: not triggered.**
-
 **License:** [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/)
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Prospect Ranch LLC; Fiske Inc.; HD Builders; OSHA
-**Predicate:** announced_penalties
-**Object:** $246,609 (monetary_penalty)
-**Temporal:** 2026-02-24
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Prospect Ranch LLC; Fiske Inc.; HD Builders; OSHA
+- **Predicate:** announced_penalties
+- **Object:** $246,609 (monetary_penalty)
+- **Temporal:** 2026-02-24
+- **Sources:** src_001
 
 > Federal workplace safety regulators announced proposed penalties totaling $246,609 on Tuesday against a Colorado dairy and two contractors.
 
-### c_002 — confirmed, primary plus secondary
-**Subject entities:** Prospect Ranch LLC; Keenesburg Colorado
-**Predicate:** resulted_in_deaths
-**Object:** six workers from hydrogen sulfide exposure (casualty)
-**Temporal:** 2025-08-20
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** Prospect Ranch LLC; Keenesburg Colorado
+- **Predicate:** resulted_in_deaths
+- **Object:** six workers from hydrogen sulfide exposure (casualty)
+- **Temporal:** 2025-08-20
+- **Sources:** src_001
 
 > Six Colorado dairy workers died from hydrogen sulfide gas exposure on August 20, 2025, after a manure pipe disconnected in an enclosed space.
 
-### c_003 — confirmed, primary document
-**Subject entities:** Prospect Ranch LLC
-**Predicate:** faces_fine
-**Object:** $132,406 (monetary_penalty)
-**Temporal:** 2026-02-24
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Prospect Ranch LLC
+- **Predicate:** faces_fine
+- **Object:** $132,406 (monetary_penalty)
+- **Temporal:** 2026-02-24
+- **Sources:** src_001
 
 > Prospect Ranch LLC faces a proposed fine of $132,406 for serious violations including failures in training, planning, and protecting workers from atmospheric hazards.
 
-### c_004 — confirmed, primary document
-**Subject entities:** Fiske Inc.; High Plains Robotics
-**Predicate:** faces_fine
-**Object:** $99,306 (monetary_penalty)
-**Temporal:** 2026-02-24
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Fiske Inc.; High Plains Robotics
+- **Predicate:** faces_fine
+- **Object:** $99,306 (monetary_penalty)
+- **Temporal:** 2026-02-24
+- **Sources:** src_001
 
 > Fiske Inc. faces a proposed fine of $99,306 for failing to protect employees and provide hydrogen sulfide detection training.
 
-### c_005 — confirmed, primary document
-**Subject entities:** HD Builders
-**Predicate:** faces_fine
-**Object:** $14,897 (monetary_penalty)
-**Temporal:** 2026-02-24
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** HD Builders
+- **Predicate:** faces_fine
+- **Object:** $14,897 (monetary_penalty)
+- **Temporal:** 2026-02-24
+- **Sources:** src_001
 
 > HD Builders faces a proposed fine of $14,897 for failing to have a written hazard communication program and provide training on detecting hydrogen sulfide.
 
-### c_006 — confirmed, primary plus secondary
-**Subject entities:** Prospect Ranch LLC
-**Predicate:** workforce_demographics
-**Object:** six Latino workers, ages 17–50 (demographic)
-**Temporal:** 2025-08-20
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** Prospect Ranch LLC
+- **Predicate:** workforce_demographics
+- **Object:** six Latino workers, ages 17–50 (demographic)
+- **Temporal:** 2025-08-20
+- **Sources:** src_001
 
 > All six workers who died were Latino, ranging in age from 17 to 50.
 
-### c_007 — attributed, primary document
-**Subject entities:** Fiske Inc.; Prospect Ranch LLC
-**Predicate:** incident_sequence
-**Object:** escalating entry into confined space; six fatalities (incident_narrative)
-**Temporal:** 2025-08-20
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Fiske Inc.; Prospect Ranch LLC
+- **Predicate:** incident_sequence
+- **Object:** escalating entry into confined space; six fatalities (incident_narrative)
+- **Temporal:** 2025-08-20
+- **Sources:** src_001
 
 > According to OSHA, a Fiske employee and a Prospect Ranch employee attempted to stop the gas flow but were overcome. Three more Fiske employees and one Prospect Ranch employee then entered, resulting in the loss of six workers total.
 
-### c_008 — attributed, primary document
-**Subject entities:** Kevin Fiske; Fiske Inc.
-**Predicate:** issued_statement
-**Object:** statement expressing regret and commitment to safety (statement)
-**Temporal:** 2026-02-24
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Kevin Fiske; Fiske Inc.
+- **Predicate:** issued_statement
+- **Object:** statement expressing regret and commitment to safety (statement)
+- **Temporal:** 2026-02-24
+- **Sources:** src_001
 
 > Fiske Inc. and owner Kevin Fiske said their 'hearts are heavy' reviewing OSHA's citations and they are 'focused on doing what is in our power to ensure that a tragedy like this never happens again.'
 
-### c_009 — confirmed, primary document
-**Subject entities:** OSHA; Prospect Ranch LLC; Fiske Inc.; HD Builders
-**Predicate:** compliance_timeline
-**Object:** 15 days to comply or appeal (regulatory_process)
-**Temporal:** 2026-02-24
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** OSHA; Prospect Ranch LLC; Fiske Inc.; HD Builders
+- **Predicate:** compliance_timeline
+- **Object:** 15 days to comply or appeal (regulatory_process)
+- **Temporal:** 2026-02-24
+- **Sources:** src_001
 
 > The companies have 15 days to comply with proposed penalties, request an informal conference with safety regulators, or challenge the findings before an occupational safety review commission.
 
-### c_010 — attributed, primary document
-**Subject entities:** William Field
-**Predicate:** assessed_penalties
-**Object:** fines typically small compared to civil liability exposure (expert_assessment)
-**Temporal:** 2026-02-24
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** William Field
+- **Predicate:** assessed_penalties
+- **Object:** fines typically small compared to civil liability exposure (expert_assessment)
+- **Temporal:** 2026-02-24
+- **Sources:** src_001
 
 > William Field, a Purdue University professor who compiles reports on farm confined-space deaths, said that OSHA fines 'quite frankly [are] peanuts compared to the civil liability potential' in private lawsuits.
 
@@ -240,10 +238,5 @@ Confined spaces on farms and dairies remain a well-known cause of death in U.S. 
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Morgan Lee
 **Publication date:** 2026-02-24
-**Access date:** 2026-05-18
 **Title:** Deaths at Colorado dairy lead to federal fines
 **URL:** https://apnews.com/article/colorado-dairy-deaths-investigation-ntsb-e472294beb0edf074a2e382d6ea09f74
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

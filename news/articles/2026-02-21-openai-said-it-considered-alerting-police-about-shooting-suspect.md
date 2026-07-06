@@ -19,8 +19,7 @@ topic_tags:
   - "law enforcement"
   - "science and technology"
   - "artificial intelligence"
-storyline_nexus:
-  - immigration-enforcement
+storyline_nexus: []
 geographic_location: British Columbia Canada
 floor_values_engaged:
 - value: accountability_of_power
@@ -106,10 +105,6 @@ Van Rootselaar died from a self-inflicted gunshot wound.
 The attack was Canada's deadliest rampage since 2020, when a gunman in Nova Scotia killed 13 people and set fires that left another 9 dead.
 
 The motive for the Tumbler Ridge shooting remains unclear. Police said Van Rootselaar had a history of mental health contacts with law enforcement.
-
----
-
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
 
 *This work is dedicated to the public domain under the Creative Commons CC0 License.*
 
@@ -229,7 +224,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-05-18
 **Title:** OpenAI considered alerting Canadian police about school shooting suspect
 **URL:** https://apnews.com/article/openai-chatgpt-canada-school-shooting-suspect-d574e2703a6e9472b59aa3a5371c57a5
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

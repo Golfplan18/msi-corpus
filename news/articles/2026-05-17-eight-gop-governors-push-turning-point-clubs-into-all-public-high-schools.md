@@ -21,7 +21,8 @@ topic_tags:
   - "government policy"
   - "human migration"
   - "international relations"
-storyline_nexus: []
+storyline_nexus:
+- supreme-court-constitutional-cases
 geographic_location: 'United States (eight states: Nebraska, Arkansas, Texas, Oklahoma, Montana, Florida, Tennessee, Indiana)'
 floor_values_engaged:
 - value: informed_citizenship
@@ -114,129 +115,157 @@ That language troubled some high school students. Lily Adler, president of the Y
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Republican governors; Turning Point USA
-**Predicate:** announced_partnerships
-**Object:** establish chapters in every high school (policy_action)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Republican governors; Turning Point USA
+- **Predicate:** announced_partnerships
+- **Object:** establish chapters in every high school (policy_action)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Eight Republican governors have announced partnerships to establish Turning Point USA chapters in every high school in their states.
 
-### c_002 — confirmed, primary document
-**Subject entities:** Nebraska; Arkansas; Texas; Oklahoma; Montana; Florida; Tennessee; Indiana
-**Predicate:** announced_partnerships
-**Object:** eight states announcing partnerships (list_of_places)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Nebraska; Arkansas; Texas; Oklahoma; Montana; Florida; Tennessee; Indiana
+- **Predicate:** announced_partnerships
+- **Object:** eight states announcing partnerships (list_of_places)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > The eight states that have announced partnerships are Nebraska, Arkansas, Texas, Oklahoma, Montana, Florida, Tennessee, and Indiana.
 
-### c_003 — reported, single source
-**Subject entities:** Turning Point USA
-**Predicate:** reported_chapter_count
-**Object:** 3,400 (numerical_count)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Turning Point USA
+- **Predicate:** reported_chapter_count
+- **Object:** 3,400 (numerical_count)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > According to Turning Point USA, there are nearly 3,400 Club America chapters across the 50 states.
 
-### c_004 — confirmed, primary document
-**Subject entities:** Charlie Kirk; Turning Point USA
-**Predicate:** was_killed
-**Object:** sniper shooting while speaking on college campus in Utah (fatal_event)
-**Temporal:** 2025-09
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Charlie Kirk; Turning Point USA
+- **Predicate:** was_killed
+- **Object:** sniper shooting while speaking on college campus in Utah (fatal_event)
+- **Temporal:** 2025-09
+- **Sources:** src_001
 
 > Charlie Kirk, co-founder of Turning Point USA, was killed by a sniper in early September while speaking on a college campus in Utah.
 
-### c_005 — attributed, primary document
-**Subject entities:** Sarah Huckabee Sanders; Turning Point USA; Charlie Kirk
-**Predicate:** announced_partnership_and_invoked_religious_language
-**Object:** partnership announcement; statement attributing growth to divine action (political_action_and_statement)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Sarah Huckabee Sanders; Turning Point USA; Charlie Kirk
+- **Predicate:** announced_partnership_and_invoked_religious_language
+- **Object:** partnership announcement; statement attributing growth to divine action (political_action_and_statement)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Arkansas Gov. Sarah Huckabee Sanders announced a partnership with Turning Point USA and said God had worked through Kirk to grow the conservative group.
 
-### c_006 — confirmed, primary document
-**Subject entities:** Sarah Huckabee Sanders
-**Predicate:** stated
-**Object:** direct quotation about faith and freedom (direct_quotation)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Sarah Huckabee Sanders
+- **Predicate:** stated
+- **Object:** direct quotation about faith and freedom (direct_quotation)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Sarah Huckabee Sanders said, "It's never too early to learn the values of faith and freedom that power our country."
 
-### c_007 — attributed, primary document
-**Subject entities:** Lily Adler; Fayetteville High School
-**Predicate:** raised_constitutional_objection
-**Object:** governor endorsement violates Establishment Clause (legal_argument)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Lily Adler; Fayetteville High School
+- **Predicate:** raised_constitutional_objection
+- **Object:** governor endorsement violates Establishment Clause (legal_argument)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Fayetteville High School student Lily Adler, president of the Young Democrats club, said the governor's endorsement violates the requirement that governments not favor a particular religion.
 
-### c_008 — attributed, primary document
-**Subject entities:** American Civil Liberties Union of Arkansas
-**Predicate:** filed_legal_position
-**Object:** state support constitutes First Amendment violation via viewpoint discrimination (legal_assessment)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** American Civil Liberties Union of Arkansas
+- **Predicate:** filed_legal_position
+- **Object:** state support constitutes First Amendment violation via viewpoint discrimination (legal_assessment)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > The American Civil Liberties Union of Arkansas said the state's support for the clubs amounts to differential treatment based on viewpoint and violates the First Amendment.
 
-### c_009 — attributed, primary document
-**Subject entities:** Tim Royers; Nebraska State Education Association
-**Predicate:** made_rhetorical_comparison
-**Object:** hypothetical Democratic governor endorsing democratic socialist club (comparative_argument)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Tim Royers; Nebraska State Education Association
+- **Predicate:** made_rhetorical_comparison
+- **Object:** hypothetical Democratic governor endorsing democratic socialist club (comparative_argument)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Tim Royers, president of the Nebraska State Education Association, compared the Republican governors' support for Turning Point clubs to a hypothetical Democratic governor announcing support for a democratic socialist club.
 
-### c_010 — attributed, single source
-**Subject entities:** Lukas Klaus; Fayetteville High School; Turning Point USA
-**Predicate:** claimed_differential_treatment
-**Object:** Club America chapters blocked by schools; Young Democrats clubs not blocked (pattern_assertion)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Lukas Klaus; Fayetteville High School; Turning Point USA
+- **Predicate:** claimed_differential_treatment
+- **Object:** Club America chapters blocked by schools; Young Democrats clubs not blocked (pattern_assertion)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Lukas Klaus, who leads the local Turning Point USA chapter at Fayetteville High School, said he has heard of Club America chapters facing problems with school administrations saying no, but has never heard of a public school disallowing a Young Democrats club.
 
-### c_011 — attributed, primary document
-**Subject entities:** Charlie Kirk
-**Predicate:** received_mixed_reception
-**Object:** praised for free speech advocacy; criticized for hateful comments toward marginalized groups (characterization)
-**Temporal:** 2025-09
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Charlie Kirk
+- **Predicate:** received_mixed_reception
+- **Object:** praised for free speech advocacy; criticized for hateful comments toward marginalized groups (characterization)
+- **Temporal:** 2025-09
+- **Sources:** src_001
 
 > Kirk was praised by conservatives as a champion of free speech but criticized for comments many found hateful toward LGBTQ+ communities, non-Christians, people of color, and women.
 
-### c_012 — reported, primary document
-**Subject entities:** Republicans; Universities; Sports teams; Media companies
-**Predicate:** retaliated_against_critics
-**Object:** employment terminations across multiple sectors (consequence)
-**Temporal:** 2025-09
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Republicans; Universities; Sports teams; Media companies
+- **Predicate:** retaliated_against_critics
+- **Object:** employment terminations across multiple sectors (consequence)
+- **Temporal:** 2025-09
+- **Sources:** src_001
 
 > Critics of Kirk faced backlash from Republicans, leading to firings by universities, sports teams, and media companies.
 
-### c_013 — attributed, primary document
-**Subject entities:** Texas; Teachers union; Texas education department
-**Predicate:** filed_lawsuit_alleging_retaliation
-**Object:** improper wave of retaliation over social media comments about Kirk (legal_action)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Texas; Teachers union; Texas education department
+- **Predicate:** filed_lawsuit_alleging_retaliation
+- **Object:** improper wave of retaliation over social media comments about Kirk (legal_action)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > In Texas, a teachers union has sued the state's education department, accusing it of an improper wave of retaliation against public school employees over their social media comments following Kirk's assassination.
 
-### c_014 — attributed, primary document
-**Subject entities:** Matt Shupe; Turning Point USA
-**Predicate:** clarified_state_role
-**Object:** state does not form clubs but prevents their rejection by administrators (policy_clarification)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Matt Shupe; Turning Point USA
+- **Predicate:** clarified_state_role
+- **Object:** state does not form clubs but prevents their rejection by administrators (policy_clarification)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Matt Shupe, spokesman for Turning Point USA, said the state is not forming the chapters but simply stating that students cannot be blocked from forming a Club America chapter.
 
@@ -248,7 +277,3 @@ That language troubled some high school students. Lily Adler, president of the Y
 **Access date:** 2026-05-17
 **Title:** Turning Point USA push in schools sparks debate on free speech rights
 **URL:** https://apnews.com/article/turning-point-clubs-high-schools-charlie-kirk-6ff5b410b6c5272e2203b6adac4a198c
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

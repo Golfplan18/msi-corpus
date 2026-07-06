@@ -19,7 +19,8 @@ primary_themes:
 topic_tags:
   - "disaster, accident and emergency incident"
   - "accident and emergency incident"
-storyline_nexus: []
+storyline_nexus:
+- us-cuba-relations-escalation
 geographic_location: Havana, Cuba
 floor_values_engaged:
 - value: informed_citizenship
@@ -195,7 +196,3 @@ President Donald Trump warned weeks after the January operation that he would im
 **Access date:** 2026-03-07
 **Title:** Massive blackout ends as Cuba repairs thermoelectric plant boiler
 **URL:** https://apnews.com/article/cuba-power-outage-plant-blackout-repair-bba3a8f52fcf83e99501645801ab08b8
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

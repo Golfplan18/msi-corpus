@@ -15,47 +15,44 @@ primary_themes:
 - crisis services
 - LGBTQ+ services
 topic_tags:
-  - politics
-  - health
-  - "human interest"
-  - "government policy"
-  - "human migration"
-storyline_nexus: []
-geographic_location: Texas, United States
+- mental health
+- government policy
+- discrimination
+- civil rights
+- public health
+storyline_nexus:
+- lgbtq-rights-restrictions
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
-  intensity: 0.95
-- value: truthfulness
-  intensity: 0.85
-- value: accountability_of_power
-  intensity: 0.8
+  intensity: 0.9
 - value: equality_fairness
   intensity: 0.9
-- value: informed_citizenship
-  intensity: 0.75
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+- value: accountability_of_power
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:57:28Z'
 source_cluster_id: cluster_ap_2026-01-24_donald-trump-donald-trump-es-lgbtq-julia
 gdelt_event_ids: []
-consensus_floor_version: '1.0'
-publication_mindspec_version: '1.0'
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 17
   hedges:
-    appears: 0
     alleged: 0
     attributed: 16
     reported: 0
+    appears: 0
     contested: 0
     confirmed: 1
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 1
-    single_source: 16
     two_independent: 0
+    primary_document: 1
+    one_originating_plus_primary_document: 0
+    primary_plus_secondary: 0
+    single_source: 16
 sources:
   count: 1
   outlets:
@@ -69,17 +66,16 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-12-trevor-project-receives-45m-from-mackenzie-scott-after-federal-funding-cuts
-  relation: related
-  strength: 0.7622
-  confidence: medium
-- slug: 2026-01-14-samhsa-reverses-2-billion-in-mental-health-grants-after-abrupt-cuts-triggered-la
-  relation: related
-  strength: 0.7417
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- - 988 Suicide and Crisis Lifeline
+- - value: human_life_and_dignity
 
 The Trump administration's decision to remove specialized LGBTQ+ services from the 988 Suicide and Crisis Lifeline is straining crisis centers in Texas, which are already operating at a $7 million funding deficit. The "Press 3 option" that connected callers to trained counselors with lived LGBTQ+ experience was eliminated in 2025, the administration said, because the specialized subnetwork exceeded its initial $33 million pilot budget.
 
@@ -129,159 +125,191 @@ Busse said the infrastructure to serve Texans exists but requires a political co
 
 **For mental health support:** The Trevor Project operates a 24/7 toll-free line at 866-488-7386. The Trans Lifeline is at 877-565-8860. The Suicide and Crisis Lifeline remains available at 988.
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under sources. Specification at /methodology. Human review not triggered.
-
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Trump administration; 988 Suicide and Crisis Lifeline
-**Predicate:** removed_services
-**Object:** specialized LGBTQ+ services (policy_action)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Trump administration; 988 Suicide and Crisis Lifeline
+- **Predicate:** removed_services
+- **Object:** specialized LGBTQ+ services (policy_action)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > The Trump administration removed specialized LGBTQ+ services from the 988 Suicide and Crisis Lifeline in 2025.
 
-### c_002 — attributed, single source
-**Subject entities:** LGBTQ+ Youth Subnetwork
-**Predicate:** budget_exceeded
-**Object:** $33 million (currency)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** LGBTQ+ Youth Subnetwork
+- **Predicate:** budget_exceeded
+- **Object:** $33 million (currency)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > The specialized LGBTQ+ subnetwork's pilot budget of $33 million was exceeded.
 
-### c_003 — attributed, single source
-**Subject entities:** 988 Lifeline; LGBTQ+ people
-**Predicate:** contacts_received
-**Object:** nearly 1.3 million (quantity)
-**Temporal:** 2022-2025
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** 988 Lifeline; LGBTQ+ people
+- **Predicate:** contacts_received
+- **Object:** nearly 1.3 million (quantity)
+- **Temporal:** 2022-2025
+- **Sources:** src_001
 
 > The 988 Lifeline received nearly 1.3 million contacts from LGBTQ+ people since its launch in 2022.
 
-### c_004 — attributed, single source
-**Subject entities:** Texas crisis care centers
-**Predicate:** operates_with_deficit
-**Object:** $7 million (currency)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Texas crisis care centers
+- **Predicate:** operates_with_deficit
+- **Object:** $7 million (currency)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > Texas crisis centers operate at a $7 million funding deficit.
 
-### c_005 — attributed, single source
-**Subject entities:** LGBTQ+ youth
-**Predicate:** suicide_risk_multiplier
-**Object:** more than four times (risk_ratio)
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** LGBTQ+ youth
+- **Predicate:** suicide_risk_multiplier
+- **Object:** more than four times (risk_ratio)
+- **Sources:** src_001
 
 > LGBTQ+ youth are more than four times as likely to attempt suicide as their peers.
 
-### c_006 — confirmed, primary document
-**Subject entities:** 988 Lifeline; Trump
-**Predicate:** created_by_legislation
-**Object:** bipartisan legislation signed into law (legislative_action)
-**Temporal:** 2017-2021
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** 988 Lifeline; Trump
+- **Predicate:** created_by_legislation
+- **Object:** bipartisan legislation signed into law (legislative_action)
+- **Temporal:** 2017-2021
+- **Sources:** src_001
 
 > The 988 Lifeline was created through bipartisan legislation signed by President Trump during his first term.
 
-### c_007 — attributed, single source
-**Subject entities:** Texas 988 system
-**Predicate:** calls_received
-**Object:** 25,511 (quantity)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Texas 988 system
+- **Predicate:** calls_received
+- **Object:** 25,511 (quantity)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > The Texas 988 system received 25,511 calls in December 2025.
 
-### c_008 — attributed, single source
-**Subject entities:** Texas 988 system
-**Predicate:** calls_received
-**Object:** 18,916 (quantity)
-**Temporal:** 2024-12
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Texas 988 system
+- **Predicate:** calls_received
+- **Object:** 18,916 (quantity)
+- **Temporal:** 2024-12
+- **Sources:** src_001
 
 > The Texas 988 system received 18,916 calls in December 2024.
 
-### c_009 — attributed, single source
-**Subject entities:** Texas 988 system
-**Predicate:** calls_received
-**Object:** 14,961 (quantity)
-**Temporal:** 2023-12
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Texas 988 system
+- **Predicate:** calls_received
+- **Object:** 14,961 (quantity)
+- **Temporal:** 2023-12
+- **Sources:** src_001
 
 > The Texas 988 system received 14,961 calls in December 2023.
 
-### c_010 — attributed, single source
-**Subject entities:** Julia Hewitt
-**Predicate:** quoted_removal_impact
-**Object:** It was a punch to the gut (direct_quotation)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Julia Hewitt
+- **Predicate:** quoted_removal_impact
+- **Object:** It was a punch to the gut (direct_quotation)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > Julia Hewitt, a suicide prevention leader with the American Foundation for Suicide Prevention and parent of an LGBTQ child, said of the removal "It was a punch to the gut."
 
-### c_011 — attributed, single source
-**Subject entities:** Jaymes Black; Trump administration
-**Predicate:** criticized_administration
-**Object:** they believe some young people's lives are not worth saving (direct_quotation)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jaymes Black; Trump administration
+- **Predicate:** criticized_administration
+- **Object:** they believe some young people's lives are not worth saving (direct_quotation)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > Jaymes Black, CEO of the Trevor Project, said the administration decided to say "that they believe some young people's lives are not worth saving."
 
-### c_012 — attributed, single source
-**Subject entities:** Texas 988 system
-**Predicate:** receives_funding
-**Object:** $19 million (currency)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Texas 988 system
+- **Predicate:** receives_funding
+- **Object:** $19 million (currency)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > The Texas 988 system receives $19 million in funding from two federal grants.
 
-### c_013 — attributed, single source
-**Subject entities:** 988 State and Territory Improvement Award
-**Predicate:** funding_expiration
-**Object:** September 2026 (date)
-**Temporal:** 2026-09
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** 988 State and Territory Improvement Award
+- **Predicate:** funding_expiration
+- **Object:** September 2026 (date)
+- **Temporal:** 2026-09
+- **Sources:** src_001
 
 > The 988 State and Territory Improvement Award is set to expire in September.
 
-### c_014 — attributed, single source
-**Subject entities:** California; Trevor Project
-**Predicate:** training_response
-**Object:** Trevor Project training 988 operators (policy_response)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** California; Trevor Project
+- **Predicate:** training_response
+- **Object:** Trevor Project training 988 operators (policy_response)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > California has addressed the removal by having experts from the Trevor Project train their 988 operators.
 
-### c_015 — attributed, single source
-**Subject entities:** Mark Henson
-**Predicate:** quoted_resources
-**Object:** LGBTQ+ young people need more resources to end suicide, not fewer (direct_quotation)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Mark Henson
+- **Predicate:** quoted_resources
+- **Object:** LGBTQ+ young people need more resources to end suicide, not fewer (direct_quotation)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > Mark Henson, vice president of advocacy and government affairs at The Trevor Project, said "LGBTQ+ young people need more resources to end suicide, not fewer."
 
-### c_016 — attributed, single source
-**Subject entities:** Texas lawmakers; 988 Trust Fund
-**Predicate:** established_trust_fund
-**Object:** 988 Trust Fund via House Bill 5342 (legislative_action)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_016
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Texas lawmakers; 988 Trust Fund
+- **Predicate:** established_trust_fund
+- **Object:** 988 Trust Fund via House Bill 5342 (legislative_action)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Texas lawmakers established the 988 Trust Fund through House Bill 5342 last year.
 
-### c_017 — attributed, single source
-**Subject entities:** Texas; 988 Trust Fund
-**Predicate:** funding_not_appropriated
-**Object:** no state appropriations (policy_status)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_017
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Texas; 988 Trust Fund
+- **Predicate:** funding_not_appropriated
+- **Object:** no state appropriations (policy_status)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > No state dollars have been appropriated to the Texas 988 Trust Fund.
 
@@ -290,10 +318,5 @@ This article was generated algorithmically by Main Street Independent's News Art
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Stephen Simpson / The Texas Tribune
 **Publication date:** 2026-01-23
-**Access date:** 2026-01-23
 **Title:** Removal of LGBTQ+ option from 988 hotline is straining overburdened Texas crisis centers
 **URL:** https://apnews.com/article/donald-trump-donald-trump-es-lgbtq-julia-hewitt-texas-5fbabd97233003bf2d1afff69bbf44ce
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

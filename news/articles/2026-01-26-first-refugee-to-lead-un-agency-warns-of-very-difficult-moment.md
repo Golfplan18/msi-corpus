@@ -18,7 +18,7 @@ topic_tags:
   - "conflict, war and peace"
   - politics
 storyline_nexus:
-  - us-administration-2026
+- us-immigration-enforcement
 geographic_location: International (Rome/Vatican)
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -134,10 +134,6 @@ Salih met this week with Pope Leo XIV at the Vatican. The pontiff, the first pop
 Faced with a resource crisis and a narrowing of asylum protections in key countries, Salih voiced optimism. "Of course it's a fight, undeniably so, but I think also I'm hopeful and confident that there is enough humanity out there to really enable us to do that," he said.
 
 He concluded with a reframing of how displaced people are understood. "Refugees are not just numbers and victims," Salih said. "With protection and opportunity, things can be very, very different for a lot of people."
-
----
-
-Generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under sources. [Specification](/methodology). Human review: not_triggered. [CC0 License](https://creativecommons.org/publicdomain/zero/1.0/).
 
 ## Atomic claims
 
@@ -302,7 +298,3 @@ Generated algorithmically by Main Street Independent's News Article Generator fr
 **Access date:** 2026-01-26
 **Title:** The first refugee to lead the UN refugee agency calls this a 'very difficult moment in history'
 **URL:** https://apnews.com/article/salih-commissioner-united-nations-refugees-interview-b3218e0892eaedb92205d2e371aeda5f
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

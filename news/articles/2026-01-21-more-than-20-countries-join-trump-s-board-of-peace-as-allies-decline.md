@@ -17,7 +17,7 @@ topic_tags:
   - government
   - "international relations"
 storyline_nexus:
-  - trump-board-of-peace
+- trump-foreign-policy-reshaping
 geographic_location: International
 floor_values_engaged:
 - value: informed_citizenship
@@ -189,7 +189,3 @@ A number of invited nations have not yet committed to participating. These inclu
 **Access date:** 2026-01-21
 **Title:** Who's on Trump's Board of Peace and who has said no
 **URL:** https://apnews.com/article/trump-netanyahu-gaza-board-of-peace-a4a296f736474e8c6a4edacd7109b8e5
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

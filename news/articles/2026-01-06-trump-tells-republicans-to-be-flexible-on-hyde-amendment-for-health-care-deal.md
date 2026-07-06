@@ -1,6 +1,5 @@
 ---
 headline: Trump tells Republicans to be 'flexible' on Hyde Amendment for health care deal
-slug: 2026-01-06-trump-tells-republicans-to-be-flexible-on-hyde-amendment-for-health-care-deal
 publish_date: '2026-01-06'
 lede: President Donald Trump on Tuesday urged House Republicans to show flexibility on the Hyde Amendment — the 50-year budget restriction barring federal money from paying for abortion services — telling lawmakers at a caucus retreat in Washington they needed to bend on the policy to reach a deal on health care subsidies. The expanded Affordable Care Act premium subsidies that lapsed Dec. 31, 2025, have left millions of policyholders facing steep premium increases, and some Democrats have made easing the Hyde restrictions a condition for any new agreement.
 nut_graf: Trump's suggestion drew immediate condemnation from anti-abortion conservatives and resistance from Senate Republicans, revealing intraparty fault lines as the GOP attempts to pass health care legislation while defending a narrow House majority ahead of November midterm elections.
@@ -19,39 +18,40 @@ primary_themes:
 - Hyde Amendment
 - 2026 midterm elections
 topic_tags:
-  - election
-  - health
-  - politics
-storyline_nexus: []
-geographic_location: Washington, D.C., United States
+- government policy
+- politics
+- health
+- election
+- fundamental rights
+storyline_nexus:
+- abortion-rights-battles
+geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.85
-- value: accountability_of_power
-  intensity: 0.7
-framework_version: 1.1.0
-generation_timestamp: '2026-05-16T18:07:38Z'
+- value: human_life_and_dignity
+  intensity: 0.9
+framework_version: 1.3.0
+generation_timestamp: '2026-05-22T23:53:18Z'
 source_cluster_id: cluster_ap_2026-01-05_donald-trump-hyde-amendment-abortion-rep
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 12
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 6
     reported: 1
     contested: 0
     confirmed: 5
+    alleged: 0
+    appears: 0
+    attributed: 6
   corroboration:
-    primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
-    primary_document: 5
-    single_source: 7
     two_independent: 0
+    single_source: 7
+    primary_plus_secondary: 0
+    primary_document: 5
 sources:
   count: 1
   outlets:
@@ -69,21 +69,18 @@ image:
   url: /articles/2026-01-06-trump-tells-republicans-to-be-flexible-on-hyde-amendment-for-health-care-deal.png
   alt: 'Illustration accompanying article: Trump tells Republicans to be ''flexible'' on Hyde Amendment for health care'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-01-aca-health-subsidies-expire-leaving-millions-facing-sharply-higher-premiums-in-2
-  relation: related
-  strength: 0.7933
-  confidence: medium
-- slug: 2025-12-31-appeals-court-lets-medicaid-cuts-to-planned-parenthood-stand-during-suit
-  relation: related
-  strength: 0.7709
-  confidence: medium
-- slug: 2025-12-31-appeals-court-lets-medicaid-funding-cuts-to-planned-parenthood-stand-while-state
-  relation: related
-  strength: 0.7612
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Summary point 1.
+- Summary point 2.
+- Summary point 3.
+- Summary point 4.
 
 Trump's suggestion drew immediate condemnation from anti-abortion conservatives and resistance from Senate Republicans, revealing intraparty fault lines as the GOP attempts to pass health care legislation while defending a narrow House majority ahead of November midterm elections.
 
@@ -123,111 +120,135 @@ Trump supported abortion rights before entering politics in 2015. He has general
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Donald Trump
-**Predicate:** urged
-**Object:** flexibility on Hyde Amendment (policy_position)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Donald Trump
+- **Predicate:** urged
+- **Object:** flexibility on Hyde Amendment (policy_position)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > President Donald Trump told House Republicans at a caucus retreat in Washington on January 6, 2026, to be flexible on the Hyde Amendment.
 
-### c_002 — confirmed, primary document
-**Subject entities:** Donald Trump
-**Predicate:** stated
-**Object:** You have to be a little flexible (direct_quote)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Donald Trump
+- **Predicate:** stated
+- **Object:** You have to be a little flexible (direct_quote)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > Trump said: 'You have to be a little flexible' on the Hyde Amendment, and added: 'You gotta be a little flexible. You gotta work something. You gotta use ingenuity.'
 
-### c_003 — confirmed, primary document
-**Subject entities:** Affordable Care Act
-**Predicate:** expired
-**Object:** premium subsidies (policy)
-**Temporal:** 2025-12-31
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Affordable Care Act
+- **Predicate:** expired
+- **Object:** premium subsidies (policy)
+- **Temporal:** 2025-12-31
+- **Sources:** src_001
 
 > Enhanced Affordable Care Act premium subsidies expired on December 31, 2025, leaving millions of policyholders facing steep premium increases.
 
-### c_004 — reported, single source
-**Subject entities:** U.S. Democratic Party
-**Predicate:** advocating
-**Object:** ending Hyde restrictions in health care deal (policy_position)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Democratic Party
+- **Predicate:** advocating
+- **Object:** ending Hyde restrictions in health care deal (policy_position)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > Some Democrats are pushing to end Hyde restrictions as part of any new health care subsidy agreement.
 
-### c_005 — confirmed, primary document
-**Subject entities:** Donald Trump; Mike Johnson
-**Predicate:** stated
-**Object:** If you can do that, you're going to have — this is going to be your issue (direct_quote)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Donald Trump; Mike Johnson
+- **Predicate:** stated
+- **Object:** If you can do that, you're going to have — this is going to be your issue (direct_quote)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > Trump addressed GOP leaders including Speaker Mike Johnson, saying: 'If you can do that, you're going to have — this is going to be your issue.'
 
-### c_006 — attributed, single source
-**Subject entities:** John Thune
-**Predicate:** stated
-**Object:** that those dollars aren't being used to go against the practice that has been in place for the last 50 years (direct_quote)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** John Thune
+- **Predicate:** stated
+- **Object:** that those dollars aren't being used to go against the practice that has been in place for the last 50 years (direct_quote)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > Senate Majority Leader John Thune said Tuesday afternoon that any legislation must ensure 'that those dollars aren't being used to go against the practice that has been in place for the last 50 years.'
 
-### c_007 — attributed, single source
-**Subject entities:** Marjorie Dannenfelser; Susan B. Anthony Pro-Life America
-**Predicate:** stated
-**Object:** sure to lose this November (direct_quote)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Marjorie Dannenfelser; Susan B. Anthony Pro-Life America
+- **Predicate:** stated
+- **Object:** sure to lose this November (direct_quote)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > Marjorie Dannenfelser, president of Susan B. Anthony Pro-Life America, said flexibility on Hyde would make Republicans 'sure to lose this November.'
 
-### c_008 — attributed, single source
-**Subject entities:** Marjorie Dannenfelser
-**Predicate:** stated
-**Object:** To suggest Republicans should be 'flexible' is an abandonment of this decades-long commitment (direct_quote)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Marjorie Dannenfelser
+- **Predicate:** stated
+- **Object:** To suggest Republicans should be 'flexible' is an abandonment of this decades-long commitment (direct_quote)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > Dannenfelser said in a statement: 'To suggest Republicans should be flexible is an abandonment of this decades-long commitment.'
 
-### c_009 — attributed, single source
-**Subject entities:** Gavin Oxley; Americans United for Life
-**Predicate:** published
-**Object:** op-ed in The Hill opposing any deal without Hyde Amendment (publication)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Gavin Oxley; Americans United for Life
+- **Predicate:** published
+- **Object:** op-ed in The Hill opposing any deal without Hyde Amendment (publication)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > Gavin Oxley of Americans United for Life wrote an op-ed in The Hill titled 'Republicans must hold the line: No Hyde Amendment, no deal on health care.'
 
-### c_010 — confirmed, primary document
-**Subject entities:** Henry Hyde; Hyde Amendment; Medicaid
-**Predicate:** restricts
-**Object:** federal abortion funding via Medicaid (policy)
-**Temporal:** 1976-01-01
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Henry Hyde; Hyde Amendment; Medicaid
+- **Predicate:** restricts
+- **Object:** federal abortion funding via Medicaid (policy)
+- **Temporal:** 1976-01-01
+- **Sources:** src_001
 
 > The Hyde Amendment, named for the late Rep. Henry Hyde, was first introduced in 1976 and bars Medicaid from covering abortions except in cases of rape, incest, or danger to the woman's life.
 
-### c_011 — attributed, single source
-**Subject entities:** Donald Trump
-**Predicate:** supported
-**Object:** abortion rights before 2015 (historical_position)
-**Temporal:** 2015-01-01
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** supported
+- **Object:** abortion rights before 2015 (historical_position)
+- **Temporal:** 2015-01-01
+- **Sources:** src_001
 
 > Trump supported abortion rights before he entered politics in 2015.
 
-### c_012 — attributed, single source
-**Subject entities:** Joe Biden
-**Predicate:** reversed
-**Object:** support for Hyde Amendment during 2020 Democratic primary (policy_position)
-**Temporal:** 2019-01-01
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Joe Biden
+- **Predicate:** reversed
+- **Object:** support for Hyde Amendment during 2020 Democratic primary (policy_position)
+- **Temporal:** 2019-01-01
+- **Sources:** src_001
 
 > Joe Biden reversed his long-standing support for the Hyde Amendment on his way to winning the 2020 Democratic nomination.
 
@@ -236,10 +257,5 @@ Trump supported abortion rights before entering politics in 2015. He has general
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Bill Barrow
 **Publication date:** 2026-01-06
-**Access date:** 2026-05-16
 **Title:** Trump urges GOP flexibility on abortion restrictions for health care deal
 **URL:** https://apnews.com/article/donald-trump-hyde-amendment-abortion-republicans-6d91240f7fa3805500635b31e65ffb8d
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

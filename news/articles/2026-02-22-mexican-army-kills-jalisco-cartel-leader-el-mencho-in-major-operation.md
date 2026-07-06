@@ -21,8 +21,7 @@ topic_tags:
   - politics
   - "government policy"
 storyline_nexus:
-  - mexico-cartel-violence
-  - us-administration-2026
+- mexico-cartel-violence
 geographic_location: Mexico
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -272,7 +271,3 @@ Since 2017, El Mencho had been indicted several times in the U.S. District Court
 **Access date:** 2026-05-18
 **Title:** Mexican army kills leader of Jalisco New Generation Cartel
 **URL:** https://apnews.com/article/jalisco-cartel-drugs-mexico-mencho-new-generation-5014a70bc62a81d74849146c59ba19f8
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

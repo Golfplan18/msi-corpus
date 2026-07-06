@@ -13,9 +13,11 @@ primary_themes:
 - Crackdown memorial
 - Geopolitics
 - Human rights
-topic_tags: []
-storyline_nexus:
-  - iran-war
+topic_tags:
+- civil unrest
+- fundamental rights
+- belief systems
+storyline_nexus: []
 geographic_location: Iran
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -131,8 +133,6 @@ More strikingly, some Iranians are expressing hope for U.S. military interventio
 Yet others, like the teacher, worry that such intervention would bring war and further bloodshed. "I am afraid there will be more massacres," she said.
 
 The government has attempted to frame the 40-day commemorations differently. Iran's Revolutionary Guard said in a statement that the ceremonies were "a chance to renew commitment to national unity," depicting the killed as victims of foreign-backed "terrorist" groups that exploited legitimate grievances.
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework. Framework specification: /methodology. No human review was required. Released under CC0.*
 
 ## Atomic claims
 
@@ -279,7 +279,3 @@ The government has attempted to frame the 40-day commemorations differently. Ira
 **Access date:** 2026-05-18
 **Title:** Iranians grieve defiantly 40 days after deadly crackdown
 **URL:** https://apnews.com/article/iran-protests-memorials-chehelom-71e5db503a287126a2d31cb32a2809eb
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

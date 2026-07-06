@@ -17,40 +17,41 @@ primary_themes:
 - Epstein investigation
 - contempt of Congress
 topic_tags:
-  - election
-  - politics
-storyline_nexus: []
+- government
+- politics
+- law
+- prosecution
+storyline_nexus:
+- epstein-investigation-fallout
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
-  intensity: 0.85
+  intensity: 0.9
 - value: informed_citizenship
-  intensity: 0.75
-- value: truthfulness
-  intensity: 0.8
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:47:54Z'
 source_cluster_id: cluster_ap_2026-01-22_bill-clinton-hillary-clinton-contempt-co
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 15
   hedges:
     appears: 1
-    alleged: 0
     attributed: 3
+    alleged: 0
     reported: 2
-    contested: 0
     confirmed: 9
+    contested: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 15
+    primary_plus_secondary: 0
     single_source: 0
     two_independent: 0
+    one_originating_plus_primary_document: 0
 sources:
   count: 1
   outlets:
@@ -64,25 +65,14 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-13-clintons-refuse-house-epstein-subpoena-as-contempt-proceedings-loom
-  relation: continues
-  strength: 0.8775
-  confidence: high
-- slug: 2026-01-12-trump-administration-targets-political-opponents-powell-and-fed-the-latest
-  relation: related
-  strength: 0.7792
-  confidence: medium
-- slug: 2026-01-12-trump-doj-subpoenas-federal-reserve-threatens-powell-with-criminal-indictment
-  relation: related
-  strength: 0.7655
-  confidence: medium
-- slug: 2026-01-12-doj-subpoenas-federal-reserve-threatens-powell-with-criminal-indictment
-  relation: related
-  strength: 0.7528
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- In a bipartisan vote, all Republicans and nine Democrats on the committee supported the contempt charges against Bill Clinton. Thr
 
 The House Oversight Committee voted Wednesday to advance contempt of Congress charges against former President Bill Clinton and former Secretary of State Hillary Clinton over their refusal to comply with a congressional subpoena related to the Jeffrey Epstein investigation.
 
@@ -128,135 +118,165 @@ The committee had also subpoenaed Ghislaine Maxwell, Epstein's longtime confidan
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** House Oversight Committee; Bill Clinton; Hillary Clinton
-**Predicate:** advanced_contempt_resolution
-**Object:** contempt of Congress charges (legislative_action)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** House Oversight Committee; Bill Clinton; Hillary Clinton
+- **Predicate:** advanced_contempt_resolution
+- **Object:** contempt of Congress charges (legislative_action)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > The House Oversight Committee voted Wednesday to advance contempt of Congress resolutions against Bill Clinton and Hillary Clinton.
 
-### c_002 — confirmed, primary document
-**Subject entities:** House Oversight Committee Republicans; House Oversight Committee Democrats
-**Predicate:** voted_contempt
-**Object:** all Republicans, nine Democrats (vote_tally)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** House Oversight Committee Republicans; House Oversight Committee Democrats
+- **Predicate:** voted_contempt
+- **Object:** all Republicans, nine Democrats (vote_tally)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > All Republicans and nine Democrats on the committee voted to advance contempt charges against Bill Clinton.
 
-### c_003 — confirmed, primary document
-**Subject entities:** Summer Lee; Melanie Stansbury; Rashida Tlaib
-**Predicate:** voted_contempt
-**Object:** contempt resolution for Hillary Clinton (legislative_action)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Summer Lee; Melanie Stansbury; Rashida Tlaib
+- **Predicate:** voted_contempt
+- **Object:** contempt resolution for Hillary Clinton (legislative_action)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > Three Democrats — Summer Lee, Melanie Stansbury, and Rashida Tlaib — voted to advance contempt charges against Hillary Clinton.
 
-### c_004 — appears, primary document
-**Subject entities:** House of Representatives; former presidents
-**Predicate:** would_be_first
-**Object:** first contempt against former president (precedent)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_004
+- **Hedge:** appears
+- **Corroboration:** primary_document
+- **Subject entities:** House of Representatives; former presidents
+- **Predicate:** would_be_first
+- **Object:** first contempt against former president (precedent)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > If approved by the House, this would be the first contempt of Congress resolution against a former president.
 
-### c_005 — attributed, primary document
-**Subject entities:** James Comer
-**Predicate:** stated_defiance_claim
-**Object:** Clintons willfully defied subpoena (testimony)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** James Comer
+- **Predicate:** stated_defiance_claim
+- **Object:** Clintons willfully defied subpoena (testimony)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > Rep. James Comer said the Clintons willfully defied a congressional subpoena, stating: 'No witness, not a former president or a private citizen, may willfully defy a congressional subpoena without consequence. But that is what the Clintons did and that is why we are here.'
 
-### c_006 — reported, primary document
-**Subject entities:** Bill Clinton; Hillary Clinton
-**Predicate:** offered_alternative
-**Object:** interview in New York (testimony_alternative)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Bill Clinton; Hillary Clinton
+- **Predicate:** offered_alternative
+- **Object:** interview in New York (testimony_alternative)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > The Clintons offered to have committee leadership and staff interview Bill Clinton in New York.
 
-### c_007 — confirmed, primary document
-**Subject entities:** James Comer
-**Predicate:** rejected_offer
-**Object:** required official transcript for any interview (negotiation_position)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** James Comer
+- **Predicate:** rejected_offer
+- **Object:** required official transcript for any interview (negotiation_position)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > Rep. James Comer rejected the New York interview offer on Tuesday, insisting that any interview include an official transcript.
 
-### c_008 — attributed, primary document
-**Subject entities:** Bill Clinton; Hillary Clinton
-**Predicate:** contend_subpoena_invalid
-**Object:** subpoenas do not serve legislative purpose (legal_argument)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Bill Clinton; Hillary Clinton
+- **Predicate:** contend_subpoena_invalid
+- **Object:** subpoenas do not serve legislative purpose (legal_argument)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > The Clintons contend the subpoenas are invalid because they do not serve any legislative purpose.
 
-### c_009 — confirmed, primary document
-**Subject entities:** Bill Clinton; Hillary Clinton
-**Predicate:** not_accused_wrongdoing
-**Object:** no wrongdoing accusations (legal_status)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Bill Clinton; Hillary Clinton
+- **Predicate:** not_accused_wrongdoing
+- **Object:** no wrongdoing accusations (legal_status)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > Bill Clinton and Hillary Clinton have not been accused of wrongdoing.
 
-### c_010 — attributed, primary document
-**Subject entities:** Bill Clinton; Hillary Clinton; Jeffrey Epstein
-**Predicate:** deny_relationship
-**Object:** no contact with Epstein for 20+ years (statement)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Bill Clinton; Hillary Clinton; Jeffrey Epstein
+- **Predicate:** deny_relationship
+- **Object:** no contact with Epstein for 20+ years (statement)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > The Clintons' spokesman, Angel Ureña, said the Clintons have been out of office for over a decade and neither had anything to do with Epstein for more than 20 years.
 
-### c_011 — reported, primary document
-**Subject entities:** Contempt of Congress
-**Predicate:** carries_penalties
-**Object:** fines and incarceration (punishment)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Contempt of Congress
+- **Predicate:** carries_penalties
+- **Object:** fines and incarceration (punishment)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > Contempt of Congress proceedings can result in substantial fines and even incarceration.
 
-### c_012 — confirmed, primary document
-**Subject entities:** Peter Navarro; Steve Bannon
-**Predicate:** convicted_contempt
-**Object:** contempt of Congress conviction (conviction)
-**Source IDs:** src_001
+### c_012
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Peter Navarro; Steve Bannon
+- **Predicate:** convicted_contempt
+- **Object:** contempt of Congress conviction (conviction)
+- **Sources:** src_001
 
 > Trump advisers Peter Navarro and Steve Bannon were convicted of contempt of Congress for defying subpoenas from the House Jan. 6 committee.
 
-### c_013 — confirmed, primary document
-**Subject entities:** Peter Navarro; Steve Bannon
-**Predicate:** served_prison
-**Object:** months in prison (sentence)
-**Source IDs:** src_001
+### c_013
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Peter Navarro; Steve Bannon
+- **Predicate:** served_prison
+- **Object:** months in prison (sentence)
+- **Sources:** src_001
 
 > Both Navarro and Bannon spent months in prison following their contempt convictions.
 
-### c_014 — confirmed, primary document
-**Subject entities:** former presidents
-**Predicate:** never_forced_appear
-**Object:** Congressional testimony requirement (historical_fact)
-**Source IDs:** src_001
+### c_014
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** former presidents
+- **Predicate:** never_forced_appear
+- **Object:** Congressional testimony requirement (historical_fact)
+- **Sources:** src_001
 
 > No former president has ever been successfully forced to appear before Congress.
 
-### c_015 — confirmed, primary document
-**Subject entities:** Jeffrey Epstein
-**Predicate:** died
-**Object:** suicide in jail in 2019 (death)
-**Temporal:** 2019
-**Source IDs:** src_001
+### c_015
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Jeffrey Epstein
+- **Predicate:** died
+- **Object:** suicide in jail in 2019 (death)
+- **Temporal:** 2019
+- **Sources:** src_001
 
 > Jeffrey Epstein killed himself in 2019 in a New York jail cell while awaiting trial.
 
@@ -265,10 +285,5 @@ The committee had also subpoenaed Ghislaine Maxwell, Epstein's longtime confidan
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Stephen Groves
 **Publication date:** 2026-01-21
-**Access date:** 2026-05-18
 **Title:** House panel acts to hold Clintons in contempt of Congress over Epstein
 **URL:** https://apnews.com/article/bill-clinton-hillary-clinton-contempt-congress-epstein-6132b63aeb1deb4513e9fa6807ae223c
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

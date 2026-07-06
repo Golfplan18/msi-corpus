@@ -1,6 +1,5 @@
 ---
 headline: IEA releases record 400 million barrels as Iran war chokes Hormuz oil flow
-slug: 2026-03-09-iea-releases-record-400-million-barrels-iran-war-hormuz
 publish_date: '2026-03-09'
 lede: The International Energy Agency agreed Wednesday to release 400 million barrels of emergency oil reserves — the largest collective release in the organization's history — as a widening war in Iran halted tanker traffic through the Strait of Hormuz and sent crude prices surging well above pre-war levels. The release, coordinated among 32 member nations, came as Brent crude settled at $91.98 a barrel Wednesday, more than 30 percent above the roughly $70 level at which it was trading before the war began less than two weeks ago.
 nut_graf: The IEA action marks a turning point in the global response to a supply crisis triggered when the United States and Israel launched joint attacks on Iran on Feb. 28, but analysts cautioned the 400-million-barrel reserve release covers only a few weeks of lost supply and cannot substitute for an end to the conflict.
@@ -20,40 +19,40 @@ primary_themes:
 - strategic petroleum reserves
 - global supply disruption
 topic_tags:
-  - "conflict, war and peace"
+- armed conflict
+- energy and resource
+- international relations
+- market and exchange
+- conflict, war and peace
 storyline_nexus:
-  - iran-war
-geographic_location: International
+- the-iran-war
+geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship
   intensity: 0.9
-- value: accountability_of_power
-  intensity: 0.7
-- value: human_life_and_dignity
-  intensity: 0.6
-framework_version: 1.1.0
-generation_timestamp: '2026-03-09T12:00:00Z'
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T04:28:25Z'
 source_cluster_id: cluster_ap_2026-03-09_iran-war-oil-gas-02339048caa3fe1f08a198e
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 15
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 4
     reported: 2
-    contested: 0
+    appears: 0
     confirmed: 9
+    attributed: 4
+    alleged: 0
+    contested: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 0
-    single_source: 15
     two_independent: 0
+    single_source: 15
+    one_originating_plus_primary_document: 0
+    primary_plus_secondary: 0
 sources:
   count: 1
   outlets:
@@ -70,6 +69,15 @@ figures_aggregate:
 cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Unknown
+- Key details from news report
+- Additional context from source
+- Impact or implications
 
 The IEA action marks a turning point in the global response to a supply crisis triggered when the United States and Israel launched joint attacks on Iran on Feb. 28, but analysts cautioned the 400-million-barrel reserve release covers only a few weeks of lost supply and cannot substitute for an end to the conflict.
 
@@ -117,138 +125,168 @@ Analysts maintained the 400-million-barrel release makes up for only a few weeks
 
 ## Atomic claims
 
-### c_001 — confirmed, single source
-**Subject entities:** International Energy Agency
-**Predicate:** agreed_to_release
-**Object:** 400 million barrels (volume)
-**Temporal:** 2026-03-09
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** International Energy Agency
+- **Predicate:** agreed_to_release
+- **Object:** 400 million barrels (volume)
+- **Temporal:** 2026-03-09
+- **Sources:** src_001
 
 > The International Energy Agency agreed on Wednesday to release 400 million barrels of emergency oil reserves, the largest collective reserve release in IEA history.
 
-### c_002 — confirmed, single source
-**Subject entities:** International Energy Agency
-**Predicate:** released_prior_record
-**Object:** 182.7 million barrels (volume)
-**Temporal:** 2022
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** International Energy Agency
+- **Predicate:** released_prior_record
+- **Object:** 182.7 million barrels (volume)
+- **Temporal:** 2022
+- **Sources:** src_001
 
 > The previous record for a collective IEA reserve release was 182.7 million barrels, set after Russia's full-scale invasion of Ukraine in 2022.
 
-### c_003 — confirmed, single source
-**Subject entities:** United States; Israel; Iran
-**Predicate:** launched_joint_attacks
-**Object:** joint military strikes on Iran (military_action)
-**Temporal:** 2026-02-28
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** United States; Israel; Iran
+- **Predicate:** launched_joint_attacks
+- **Object:** joint military strikes on Iran (military_action)
+- **Temporal:** 2026-02-28
+- **Sources:** src_001
 
 > The war in Iran began on Feb. 28, 2026, with joint attacks by the United States and Israel on Iran.
 
-### c_004 — attributed, single source
-**Subject entities:** Strait of Hormuz
-**Predicate:** carries
-**Object:** one-fifth of world's daily oil (proportion)
-**Temporal:** 2026-03-09
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Strait of Hormuz
+- **Predicate:** carries
+- **Object:** one-fifth of world's daily oil (proportion)
+- **Temporal:** 2026-03-09
+- **Sources:** src_001
 
 > The Strait of Hormuz carries roughly one-fifth of the world's oil on a typical day.
 
-### c_005 — confirmed, single source
-**Subject entities:** Brent crude; Donald Trump
-**Predicate:** surged_then_fell
-**Object:** nearly $120, then under $90 (price)
-**Temporal:** 2026-03-07
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Brent crude; Donald Trump
+- **Predicate:** surged_then_fell
+- **Object:** nearly $120, then under $90 (price)
+- **Temporal:** 2026-03-07
+- **Sources:** src_001
 
 > On Monday, Brent crude surged to nearly $120 a barrel before falling to under $90 after President Trump suggested the war could be near an end.
 
-### c_006 — confirmed, single source
-**Subject entities:** Brent crude
-**Predicate:** settled_at
-**Object:** $91.98 (price)
-**Temporal:** 2026-03-09
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Brent crude
+- **Predicate:** settled_at
+- **Object:** $91.98 (price)
+- **Temporal:** 2026-03-09
+- **Sources:** src_001
 
 > Brent crude rose 4.8% to settle at $91.98 on Wednesday after the IEA reserve withdrawal was confirmed.
 
-### c_007 — attributed, single source
-**Subject entities:** Brent crude
-**Predicate:** priced_at
-**Object:** roughly $70 (price)
-**Temporal:** 2026-02-27
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Brent crude
+- **Predicate:** priced_at
+- **Object:** roughly $70 (price)
+- **Temporal:** 2026-02-27
+- **Sources:** src_001
 
 > Brent crude was selling for roughly $70 a barrel before the war started.
 
-### c_008 — confirmed, single source
-**Subject entities:** Donald Trump; Strategic Petroleum Reserve
-**Predicate:** announced_SPR_tap
-**Object:** a little bit (quotation)
-**Temporal:** 2026-03-09
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Strategic Petroleum Reserve
+- **Predicate:** announced_SPR_tap
+- **Object:** a little bit (quotation)
+- **Temporal:** 2026-03-09
+- **Sources:** src_001
 
 > President Trump told WKRC Local 12 in Cincinnati on Wednesday that his administration would tap into the Strategic Petroleum Reserve 'a little bit' to bring down prices.
 
-### c_009 — confirmed, single source
-**Subject entities:** Chris Wright; United States
-**Predicate:** confirmed_release
-**Object:** 172 million barrels (volume)
-**Temporal:** 2026-03-09
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Chris Wright; United States
+- **Predicate:** confirmed_release
+- **Object:** 172 million barrels (volume)
+- **Temporal:** 2026-03-09
+- **Sources:** src_001
 
 > Secretary of Energy Chris Wright confirmed the United States would release 172 million barrels as part of the IEA effort.
 
-### c_010 — confirmed, single source
-**Subject entities:** G7; France
-**Predicate:** pledged
-**Object:** 70 percent of total; France 14.5 million barrels (volume)
-**Temporal:** 2026-03-09
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** G7; France
+- **Predicate:** pledged
+- **Object:** 70 percent of total; France 14.5 million barrels (volume)
+- **Temporal:** 2026-03-09
+- **Sources:** src_001
 
 > G7 nations' pledges comprise 70 percent of the total IEA release, including 14.5 million barrels from France.
 
-### c_011 — attributed, single source
-**Subject entities:** International Energy Agency
-**Predicate:** holds
-**Object:** 1.2 billion barrels public plus 600 million industry (volume)
-**Temporal:** 2026-03-09
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** International Energy Agency
+- **Predicate:** holds
+- **Object:** 1.2 billion barrels public plus 600 million industry (volume)
+- **Temporal:** 2026-03-09
+- **Sources:** src_001
 
 > IEA members currently hold over 1.2 billion barrels of public emergency oil stocks, with a further 600 million barrels of industry stocks held under government obligation.
 
-### c_012 — reported, single source
-**Subject entities:** Iraq; Kuwait; United Arab Emirates
-**Predicate:** cut_production
-**Object:** storage capacity exhausted (reason)
-**Temporal:** 2026-03-09
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Iraq; Kuwait; United Arab Emirates
+- **Predicate:** cut_production
+- **Object:** storage capacity exhausted (reason)
+- **Temporal:** 2026-03-09
+- **Sources:** src_001
 
 > Iraq, Kuwait and the United Arab Emirates cut production because they are running out of storage space.
 
-### c_013 — reported, single source
-**Subject entities:** Iran; Israel; United States
-**Predicate:** struck_energy_facilities
-**Object:** oil and gas facilities (military_target)
-**Temporal:** 2026-03-09
-**Source IDs:** src_001
+### c_013
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Iran; Israel; United States
+- **Predicate:** struck_energy_facilities
+- **Object:** oil and gas facilities (military_target)
+- **Temporal:** 2026-03-09
+- **Sources:** src_001
 
 > Iran, Israel and the United States have all struck oil and gas facilities, worsening supply concerns.
 
-### c_014 — attributed, single source
-**Subject entities:** analysts
-**Predicate:** assessed
-**Object:** short-term bridge covering a few weeks of supply (assessment)
-**Temporal:** 2026-03-09
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** analysts
+- **Predicate:** assessed
+- **Object:** short-term bridge covering a few weeks of supply (assessment)
+- **Temporal:** 2026-03-09
+- **Sources:** src_001
 
 > Analysts maintained the IEA's release of 400 million barrels is a short-term bridge, making up for just a few weeks of lost supply.
 
-### c_015 — confirmed, single source
-**Subject entities:** Emmanuel Macron
-**Predicate:** praised
-**Object:** IEA reserve release decision (statement)
-**Temporal:** 2026-03-09
-**Source IDs:** src_001
+### c_015
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Emmanuel Macron
+- **Predicate:** praised
+- **Object:** IEA reserve release decision (statement)
+- **Temporal:** 2026-03-09
+- **Sources:** src_001
 
 > French President Emmanuel Macron praised Wednesday's IEA decision.
 
@@ -257,10 +295,5 @@ Analysts maintained the 400-million-barrel release makes up for only a few weeks
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Matt Sedensky
 **Publication date:** 2026-03-09
-**Access date:** 2026-03-09
 **Title:** Oil shock from Iran war prompts countries to open strategic reserves
 **URL:** https://apnews.com/article/iran-war-oil-gas-02339048caa3fe1f08a198eb9224de2b
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

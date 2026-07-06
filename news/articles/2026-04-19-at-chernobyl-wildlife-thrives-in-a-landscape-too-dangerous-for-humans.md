@@ -351,7 +351,3 @@ Human beings evacuated the zone four decades ago. Nature, it turns out, needed o
 **Access date:** 2026-05-17
 **Title:** The rewilding of Chernobyl shows nature's resilience
 **URL:** https://apnews.com/article/ukraine-russia-chernobyl-nature-rebounds-a0b252dc78a539947835acec8540b9fe
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

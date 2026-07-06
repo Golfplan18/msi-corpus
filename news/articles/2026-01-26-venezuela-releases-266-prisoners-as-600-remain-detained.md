@@ -21,8 +21,7 @@ topic_tags:
   - society
   - politics
 storyline_nexus:
-  - us-administration-2026
-  - venezuela-crisis
+- venezuela-political-military-crisis
 geographic_location: Venezuela
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -235,7 +234,3 @@ Cabello also said there "were no political prisoners" in Venezuela, only people 
 **Access date:** 2026-01-26
 **Title:** Venezuela releases dozens of prisoners in 2 days, hundreds more still detained
 **URL:** https://apnews.com/article/venezuela-prisoners-delcy-rodriguez-foro-penal-machado-50dd4d4702143954661e133a19d31b5b
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

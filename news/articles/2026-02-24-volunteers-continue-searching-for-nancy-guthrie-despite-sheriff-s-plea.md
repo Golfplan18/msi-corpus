@@ -17,39 +17,42 @@ primary_themes:
 - law_enforcement
 - volunteer_efforts
 - community_response
-topic_tags: []
-storyline_nexus: []
-geographic_location: Tucson, Arizona, United States
+topic_tags:
+- crime
+- law enforcement
+- communities
+- human interest
+storyline_nexus:
+- us-immigration-enforcement
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
-  intensity: 0.95
-- value: truthfulness
-  intensity: 0.8
-- value: informed_citizenship
-  intensity: 0.7
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+  intensity: 0.9
+- value: accountability_of_power
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T01:00:55Z'
 source_cluster_id: cluster_ap_2026-02-24_savannah-guthrie-nancy-missing-volunteer
 gdelt_event_ids: []
-consensus_floor_version: '1.0'
-publication_mindspec_version: '1.0'
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 13
   hedges:
-    appears: 0
-    alleged: 0
     attributed: 3
     reported: 1
     contested: 0
     confirmed: 9
+    appears: 0
+    alleged: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 0
+    primary_plus_secondary: 0
     single_source: 13
     two_independent: 0
+    one_originating_plus_primary_document: 0
 sources:
   count: 1
   outlets:
@@ -63,21 +66,19 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-05-17-mexican-families-search-cartel-lands-for-missing-as-government-lags
-  relation: related
-  strength: 0.8309
-  confidence: medium
-- slug: 2026-01-13-venezuelan-families-flood-political-prisoner-registry-as-officer-dies-before-pro
-  relation: related
-  strength: 0.7105
-  confidence: medium
-- slug: 2026-01-04-second-body-recovered-in-search-for-spanish-soccer-coach-and-children-missing-in
-  relation: related
-  strength: 0.7277
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Authorities urge volunteers to stop searching for Nancy Guthrie
+- Nancy Guthrie, 84, was last seen at her home just outside Tucson on Jan. 31.
+- Nancy Guthrie was reported missing on Feb. 1.
+- Authorities believe Nancy Guthrie was kidnapped, abducted, or otherwise taken against her will.
+- Drops of Nancy Guthrie's blood were found on the front porch of her home.
 
 Volunteers scoured the desert near Tucson, Arizona, on Sunday for Nancy Guthrie, the mother of "Today" show host Savannah Guthrie, defying an explicit request from the Pima County Sheriff's Department to stop. Guthrie, 84, has been missing since Jan. 31, and authorities believe she was kidnapped from her home.
 
@@ -119,124 +120,148 @@ The constant presence of news crews, journalists, and curious onlookers has draw
 
 A makeshift memorial continues to grow outside Guthrie's home, with flowers, yellow ribbons, crosses, and statuettes of patron saints and angels. Neighbors have left signs expressing support for Guthrie's family.
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public source listed under `sources`. Specification: /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
-### c_001 — confirmed, single source
-**Subject entities:** Nancy Guthrie
-**Predicate:** last_seen_at
-**Object:** home outside Tucson (location)
-**Temporal:** 2026-01-31
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Nancy Guthrie
+- **Predicate:** last_seen_at
+- **Object:** home outside Tucson (location)
+- **Temporal:** 2026-01-31
+- **Sources:** src_001
 
 > Nancy Guthrie, 84, was last seen at her home just outside Tucson on Jan. 31.
 
-### c_002 — confirmed, single source
-**Subject entities:** Nancy Guthrie
-**Predicate:** reported_missing
-**Object:** Feb. 1, 2026 (temporal)
-**Temporal:** 2026-02-01
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Nancy Guthrie
+- **Predicate:** reported_missing
+- **Object:** Feb. 1, 2026 (temporal)
+- **Temporal:** 2026-02-01
+- **Sources:** src_001
 
 > Nancy Guthrie was reported missing on Feb. 1.
 
-### c_003 — attributed, single source
-**Subject entities:** Nancy Guthrie; Pima County authorities
-**Predicate:** believed_to_be_kidnapped
-**Object:** kidnapped, abducted, or taken against will (alleged_crime)
-**Temporal:** 2026-02-24
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Nancy Guthrie; Pima County authorities
+- **Predicate:** believed_to_be_kidnapped
+- **Object:** kidnapped, abducted, or taken against will (alleged_crime)
+- **Temporal:** 2026-02-24
+- **Sources:** src_001
 
 > Authorities believe Nancy Guthrie was kidnapped, abducted, or otherwise taken against her will.
 
-### c_004 — confirmed, single source
-**Subject entities:** Nancy Guthrie
-**Predicate:** blood_found_at
-**Object:** front porch (location)
-**Temporal:** 2026-01-31
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Nancy Guthrie
+- **Predicate:** blood_found_at
+- **Object:** front porch (location)
+- **Temporal:** 2026-01-31
+- **Sources:** src_001
 
 > Drops of Nancy Guthrie's blood were found on the front porch of her home.
 
-### c_005 — confirmed, single source
-**Subject entities:** Pima County Sheriff's Department
-**Predicate:** asked_volunteers_to_stop
-**Object:** cease independent search operations (request)
-**Temporal:** 2026-02-22
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Pima County Sheriff's Department
+- **Predicate:** asked_volunteers_to_stop
+- **Object:** cease independent search operations (request)
+- **Temporal:** 2026-02-22
+- **Sources:** src_001
 
 > The Pima County Sheriff's Department asked volunteers to stop searching.
 
-### c_006 — confirmed, single source
-**Subject entities:** volunteers
-**Predicate:** continued_searching
-**Object:** desert near Tucson (location)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** volunteers
+- **Predicate:** continued_searching
+- **Object:** desert near Tucson (location)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > Despite the sheriff's request, volunteers continued to search.
 
-### c_007 — reported, single source
-**Subject entities:** volunteers
-**Predicate:** found
-**Object:** black backpack (item)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** volunteers
+- **Predicate:** found
+- **Object:** black backpack (item)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > A group of volunteers reported finding a black backpack on Sunday.
 
-### c_008 — confirmed, single source
-**Subject entities:** backpack
-**Predicate:** not_matching
-**Object:** different brand from surveillance footage (comparison)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** backpack
+- **Predicate:** not_matching
+- **Object:** different brand from surveillance footage (comparison)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > The backpack was not the same brand as one identified in surveillance video of a masked person at Guthrie's home.
 
-### c_009 — attributed, single source
-**Subject entities:** Lupita Tello
-**Predicate:** said_will_post_flyers
-**Object:** post flyers on bus stops and utility poles (action)
-**Temporal:** 2026-02-24
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Lupita Tello
+- **Predicate:** said_will_post_flyers
+- **Object:** post flyers on bus stops and utility poles (action)
+- **Temporal:** 2026-02-24
+- **Sources:** src_001
 
 > Lupita Tello said she and two other volunteers will continue posting flyers near Nancy Guthrie's home.
 
-### c_010 — confirmed, single source
-**Subject entities:** Madres Buscadoras de Sonora
-**Predicate:** found_remains
-**Object:** 5,000+ human remains (statistic)
-**Temporal:** 2026-02-24
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Madres Buscadoras de Sonora
+- **Predicate:** found_remains
+- **Object:** 5,000+ human remains (statistic)
+- **Temporal:** 2026-02-24
+- **Sources:** src_001
 
 > Madres Buscadoras de Sonora has found the remains of more than 5,000 people in Mexico since it was started 10 years ago.
 
-### c_011 — confirmed, single source
-**Subject entities:** investigators
-**Predicate:** working_on_investigation
-**Object:** several hundred personnel (statistic)
-**Temporal:** 2026-02-24
-**Source IDs:** src_001
+### c_011
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** investigators
+- **Predicate:** working_on_investigation
+- **Object:** several hundred personnel (statistic)
+- **Temporal:** 2026-02-24
+- **Sources:** src_001
 
 > Several hundred people are working on the Guthrie investigation.
 
-### c_012 — confirmed, single source
-**Subject entities:** investigators
-**Predicate:** received_tips
-**Object:** 20,000+ tips (statistic)
-**Temporal:** 2026-02-24
-**Source IDs:** src_001
+### c_012
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** investigators
+- **Predicate:** received_tips
+- **Object:** 20,000+ tips (statistic)
+- **Temporal:** 2026-02-24
+- **Sources:** src_001
 
 > More than 20,000 tips have been received in the Guthrie investigation.
 
-### c_013 — attributed, single source
-**Subject entities:** Chris Boyer; untrained volunteers
-**Predicate:** could_contaminate
-**Object:** crime scene (location)
-**Temporal:** 2026-02-24
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Chris Boyer; untrained volunteers
+- **Predicate:** could_contaminate
+- **Object:** crime scene (location)
+- **Temporal:** 2026-02-24
+- **Sources:** src_001
 
 > Chris Boyer, executive director of the National Association for Search and Rescue, said untrained volunteers could contaminate a crime scene.
 
@@ -245,10 +270,5 @@ This article was generated algorithmically by Main Street Independent's News Art
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Jacques Billeaud
 **Publication date:** 2026-02-24
-**Access date:** 2026-02-24
 **Title:** Authorities urge volunteers to stop searching for Nancy Guthrie
 **URL:** https://apnews.com/article/savannah-guthrie-nancy-missing-volunteers-arizona-ae8e1b849420257fb269cfbaca14a40a
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -21,7 +21,7 @@ topic_tags:
   - "armed conflict"
   - "conflict, war and peace"
 storyline_nexus:
-  - russia-ukraine-war
+- ukraine-war-peace-negotiations
 geographic_location: Budapest, Hungary; Kyiv, Ukraine
 floor_values_engaged:
 - value: informed_citizenship
@@ -250,7 +250,3 @@ He also expressed hope that "one person" would not block the EU loan, a remark w
 **Access date:** 2026-03-05
 **Title:** Zelenskyy says he's reluctant to repair pipeline that carries Russian oil
 **URL:** https://apnews.com/article/zelenskyy-reluctant-repair-russian-oil-pipeline-728ee20f05b57d2cdf9d87dd54ccdfc0
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

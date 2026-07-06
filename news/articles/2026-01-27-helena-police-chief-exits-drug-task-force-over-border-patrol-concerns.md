@@ -15,10 +15,10 @@ primary_themes:
 - local-federal coordination
 - immigration policy
 topic_tags:
-  - "crime, law and justice"
-  - "law enforcement"
+- crime, law and justice
+- law enforcement
 storyline_nexus:
-  - immigration-enforcement
+- us-immigration-enforcement
 geographic_location: Helena, Montana
 floor_values_engaged:
 - value: informed_citizenship
@@ -65,10 +65,6 @@ cross_article_links:
 - slug: 2026-04-17-abbott-threatens-200-million-in-funding-cuts-to-texas-cities-over-ice-policies
   relation: related
   strength: 0.7632
-  confidence: medium
-- slug: 2026-04-17-ap-investigation-finds-ice-hired-agents-with-questionable-backgrounds
-  relation: related
-  strength: 0.714
   confidence: medium
 - slug: 2026-01-13-federal-agents-deploy-tear-gas-in-minneapolis-as-five-prosecutors-resign-over-re
   relation: related
@@ -127,84 +123,102 @@ About 30 people, many of them immigration advocates, attended the city commissio
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Helena Police Department
-**Predicate:** withdrew_from
-**Object:** Missouri River Drug Task Force (organization)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Helena Police Department
+- **Predicate:** withdrew_from
+- **Object:** Missouri River Drug Task Force (organization)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > Helena Police Department withdrew from the Missouri River Drug Task Force
 
-### c_002 — attributed, primary document
-**Subject entities:** Brett Petty
-**Predicate:** cited_concerns
-**Object:** Border Patrol presence and mission drift to immigration enforcement (policy_concern)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Brett Petty
+- **Predicate:** cited_concerns
+- **Object:** Border Patrol presence and mission drift to immigration enforcement (policy_concern)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > Chief Brett Petty cited concerns about Border Patrol presence and potential mission drift toward immigration enforcement
 
-### c_003 — confirmed, primary document
-**Subject entities:** Missouri River Drug Task Force
-**Predicate:** planned_deployment
-**Object:** 2 agents in Helena, 2 agents in Bozeman (deployment_plan)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Missouri River Drug Task Force
+- **Predicate:** planned_deployment
+- **Object:** 2 agents in Helena, 2 agents in Bozeman (deployment_plan)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > The Missouri River Drug Task Force planned to deploy Border Patrol agents in Helena and Bozeman
 
-### c_004 — confirmed, primary document
-**Subject entities:** Helena Police Department
-**Predicate:** received
-**Object:** $30,000 (annual_funding)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Helena Police Department
+- **Predicate:** received
+- **Object:** $30,000 (annual_funding)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > Helena Police Department received $30,000 annually for task force participation
 
-### c_005 — confirmed, primary document
-**Subject entities:** Helena Police Department
-**Predicate:** forfeit
-**Object:** $15,000 (funding_loss)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Helena Police Department
+- **Predicate:** forfeit
+- **Object:** $15,000 (funding_loss)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > Helena will forfeit $15,000 in funding in the second half of the fiscal year after the withdrawal
 
-### c_006 — attributed, primary document
-**Subject entities:** Helena Police Department; drug investigator
-**Predicate:** remain_under
-**Object:** Helena Police Department (organizational_authority)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Helena Police Department; drug investigator
+- **Predicate:** remain_under
+- **Object:** Helena Police Department (organizational_authority)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > The Helena Police Department's current drug investigator will remain under Helena PD purview
 
-### c_007 — confirmed, primary document
-**Subject entities:** East Helena City Council
-**Predicate:** voted_to_accept
-**Object:** Border Patrol involvement in drug task force (policy_decision)
-**Temporal:** 2026-01-25
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** East Helena City Council
+- **Predicate:** voted_to_accept
+- **Object:** Border Patrol involvement in drug task force (policy_decision)
+- **Temporal:** 2026-01-25
+- **Sources:** src_001
 
 > East Helena City Council voted to accept changes to the drug task force agreement that include Border Patrol activities
 
-### c_008 — attributed, primary document
-**Subject entities:** Brett Petty
-**Predicate:** described
-**Object:** withdrawal as temporary, not permanent (statement)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Brett Petty
+- **Predicate:** described
+- **Object:** withdrawal as temporary, not permanent (statement)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > Petty described the withdrawal as temporary and not a permanent exit from the task force
 
-### c_009 — confirmed, primary document
-**Subject entities:** meeting attendees
-**Predicate:** attended
-**Object:** 30 people, many immigration advocates (attendance_count)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** meeting attendees
+- **Predicate:** attended
+- **Object:** 30 people, many immigration advocates (attendance_count)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > About 30 people, many immigration advocates, attended Helena city commission meeting where withdrawal was announced
 
@@ -216,7 +230,3 @@ About 30 people, many of them immigration advocates, attended the city commissio
 **Access date:** 2026-01-27
 **Title:** Police department in Montana's capital city exits drug task force over border patrol involvement
 **URL:** https://apnews.com/article/helena-brett-petty-helena-pd-border-security-drug-crimes-2e76244464a8d924dfe7cb4825cefc9d
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -15,42 +15,43 @@ primary_themes:
 - travel_disruption
 - immigration_policy
 topic_tags:
-  - "crime, law and justice"
-  - "law enforcement"
-  - politics
-  - "government policy"
-  - "science and technology"
-  - "artificial intelligence"
-storyline_nexus: []
+- government
+- government policy
+- travel
+- politics
+storyline_nexus:
+- us-immigration-enforcement
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
-  intensity: 0.8
+  intensity: 0.9
+- value: truthfulness
+  intensity: 0.6
 - value: informed_citizenship
-  intensity: 0.7
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:57:09Z'
 source_cluster_id: cluster_ap_2026-02-24_homeland-security-tsa-precheck-global-en
 gdelt_event_ids: []
-consensus_floor_version: '1.0'
-publication_mindspec_version: '1.0'
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 12
   hedges:
+    contested: 0
     appears: 0
     alleged: 0
     attributed: 4
-    reported: 5
-    contested: 0
     confirmed: 3
+    reported: 5
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 4
-    single_source: 8
     two_independent: 0
+    primary_plus_secondary: 0
+    primary_document: 4
+    one_originating_plus_primary_document: 0
+    single_source: 8
 sources:
   count: 1
   outlets:
@@ -67,6 +68,7 @@ figures_aggregate:
 cross_article_links: []
 draft: false
 ---
+
 
 The suspension disrupted travelers accustomed to five-minute customs passages, who now faced regular lines stretching to 30 minutes or longer—a political maneuver tied to President Donald Trump's deportation campaign.
 
@@ -102,117 +104,137 @@ Democrats on the House Committee on Homeland Security criticized the handling of
 
 Sen. Andy Kim, a New Jersey Democrat, said on CNN that the suspension was part of an administration strategy to create hardship for political leverage. "This administration is trying to weaponize our government, trying to make things intentionally more difficult for the American people as a political leverage," Kim said. "And the American people see that."
 
----
-
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Department of Homeland Security; Global Entry program
-**Predicate:** suspended
-**Object:** Global Entry program (government_program)
-**Temporal:** 2026-02-22
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Department of Homeland Security; Global Entry program
+- **Predicate:** suspended
+- **Object:** Global Entry program (government_program)
+- **Temporal:** 2026-02-22
+- **Sources:** src_001
 
 > The Department of Homeland Security suspended the Global Entry program on Sunday, Feb. 22.
 
-### c_002 — confirmed, primary document
-**Subject entities:** partial government shutdown
-**Predicate:** began
-**Object:** Feb. 14 (date)
-**Temporal:** 2026-02-22
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** partial government shutdown
+- **Predicate:** began
+- **Object:** Feb. 14 (date)
+- **Temporal:** 2026-02-22
+- **Sources:** src_001
 
 > The partial government shutdown began on Feb. 14.
 
-### c_003 — confirmed, primary document
-**Subject entities:** Department of Homeland Security
-**Predicate:** announced_then_reversed
-**Object:** TSA PreCheck suspension reversal (policy_reversal)
-**Temporal:** 2026-02-22
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Department of Homeland Security
+- **Predicate:** announced_then_reversed
+- **Object:** TSA PreCheck suspension reversal (policy_reversal)
+- **Temporal:** 2026-02-22
+- **Sources:** src_001
 
 > The Department of Homeland Security initially announced suspension of both Global Entry and TSA PreCheck but reversed the PreCheck closure.
 
-### c_004 — reported, single source
-**Subject entities:** Global Entry; travel industry
-**Predicate:** reduces_wait_time
-**Object:** 30-90 min to 5-10 min (time_reduction)
-**Temporal:** 2026-02-22
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Global Entry; travel industry
+- **Predicate:** reduces_wait_time
+- **Object:** 30-90 min to 5-10 min (time_reduction)
+- **Temporal:** 2026-02-22
+- **Sources:** src_001
 
 > According to travel industry estimates, Global Entry reduces customs wait time from 30 to 90 minutes down to 5 to 10 minutes.
 
-### c_005 — reported, primary document
-**Subject entities:** TSA PreCheck holders; Global Entry members
-**Predicate:** membership_counts
-**Object:** 20+ million TSA PreCheck; millions with Global Entry overlap (membership_statistics)
-**Temporal:** 2026-02-22
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** TSA PreCheck holders; Global Entry members
+- **Predicate:** membership_counts
+- **Object:** 20+ million TSA PreCheck; millions with Global Entry overlap (membership_statistics)
+- **Temporal:** 2026-02-22
+- **Sources:** src_001
 
 > The Department of Homeland Security said in 2024 that more than 20 million Americans had TSA PreCheck, with millions of those having overlapping Global Entry memberships.
 
-### c_006 — attributed, single source
-**Subject entities:** Blair Perkins
-**Predicate:** reported_wait_time
-**Object:** <5 min with Global Entry; ~30 min without (personal_experience)
-**Temporal:** 2026-02-22
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Blair Perkins
+- **Predicate:** reported_wait_time
+- **Object:** <5 min with Global Entry; ~30 min without (personal_experience)
+- **Temporal:** 2026-02-22
+- **Sources:** src_001
 
 > Blair Perkins said that with Global Entry customs passage typically takes less than five minutes, but on Sunday it took about 30 minutes.
 
-### c_007 — reported, single source
-**Subject entities:** Democrats; White House; Department of Homeland Security
-**Predicate:** failed_to_reach_deal
-**Object:** DHS funding legislation (legislative_matter)
-**Temporal:** 2026-02-22
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Democrats; White House; Department of Homeland Security
+- **Predicate:** failed_to_reach_deal
+- **Object:** DHS funding legislation (legislative_matter)
+- **Temporal:** 2026-02-22
+- **Sources:** src_001
 
 > The partial government shutdown began after Democrats and the White House were unable to reach a deal on legislation to fund the Department of Homeland Security.
 
-### c_008 — reported, single source
-**Subject entities:** Democrats; Donald Trump
-**Predicate:** demand_changes_to
-**Object:** immigration operations (policy_area)
-**Temporal:** 2026-02-22
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Democrats; Donald Trump
+- **Predicate:** demand_changes_to
+- **Object:** immigration operations (policy_area)
+- **Temporal:** 2026-02-22
+- **Sources:** src_001
 
 > Democrats have been demanding changes to immigration operations that are core to President Donald Trump's deportation campaign.
 
-### c_009 — reported, single source
-**Subject entities:** winter storm; Northeast airports
-**Predicate:** caused_flight_cancellations
-**Object:** 90% of flights from JFK, LaGuardia, Boston Logan (cancellation_rate)
-**Temporal:** 2026-02-22
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** winter storm; Northeast airports
+- **Predicate:** caused_flight_cancellations
+- **Object:** 90% of flights from JFK, LaGuardia, Boston Logan (cancellation_rate)
+- **Temporal:** 2026-02-22
+- **Sources:** src_001
 
 > A major winter storm hit the East Coast, and nine out of 10 flights from major Northeast airports were canceled for Monday.
 
-### c_010 — attributed, single source
-**Subject entities:** Kristi Noem
-**Predicate:** stated
-**Object:** shutdowns have serious real world consequences (statement)
-**Temporal:** 2026-02-22
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Kristi Noem
+- **Predicate:** stated
+- **Object:** shutdowns have serious real world consequences (statement)
+- **Temporal:** 2026-02-22
+- **Sources:** src_001
 
 > Homeland Security Secretary Kristi Noem said that 'shutdowns have serious real world consequences.'
 
-### c_011 — attributed, single source
-**Subject entities:** Geoff Freeman; U.S. Travel Association
-**Predicate:** expressed_position
-**Object:** approval of PreCheck reversal (organizational_position)
-**Temporal:** 2026-02-22
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Geoff Freeman; U.S. Travel Association
+- **Predicate:** expressed_position
+- **Object:** approval of PreCheck reversal (organizational_position)
+- **Temporal:** 2026-02-22
+- **Sources:** src_001
 
 > Geoff Freeman, president and CEO of the U.S. Travel Association, said the organization was 'glad that DHS has decided to keep PreCheck operational and avoid a crisis of its own making.'
 
-### c_012 — attributed, single source
-**Subject entities:** Andy Kim
-**Predicate:** stated
-**Object:** administration using hardship as political leverage (statement)
-**Temporal:** 2026-02-22
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Andy Kim
+- **Predicate:** stated
+- **Object:** administration using hardship as political leverage (statement)
+- **Temporal:** 2026-02-22
+- **Sources:** src_001
 
 > Sen. Andy Kim said the administration is 'trying to weaponize our government, trying to make things intentionally more difficult for the American people as a political leverage.'
 
@@ -221,10 +243,5 @@ This article was generated algorithmically by Main Street Independent's News Art
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Jamie Stengle
 **Publication date:** 2026-02-22
-**Access date:** 2026-02-22
 **Title:** Global Entry program halted amid government shutdown, Homeland Security confirms
 **URL:** https://apnews.com/article/homeland-security-tsa-precheck-global-entry-dc1d2ccd913a74fa2c8b91dad340a3b3
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

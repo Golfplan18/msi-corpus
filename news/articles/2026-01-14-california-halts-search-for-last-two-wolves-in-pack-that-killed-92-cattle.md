@@ -17,42 +17,40 @@ primary_themes:
 - endangered species
 - California agriculture
 topic_tags:
-  - "artificial intelligence"
-  - "government policy"
-  - "human migration"
-  - "international relations"
-  - politics
-  - "science and technology"
-storyline_nexus: []
-geographic_location: Sierra Valley, Northern California, United States
+- conservation
+- agriculture
+- environment
+storyline_nexus:
+- extreme-weather-disasters
+geographic_location: United States
 floor_values_engaged:
+- value: truthfulness
+  intensity: 0.6
 - value: informed_citizenship
-  intensity: 0.8
-- value: accountability_of_power
-  intensity: 0.55
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T06:57:40Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-22T23:58:23Z'
 source_cluster_id: cluster_ap_2026-01-13_california-sierra-gray-wolves-pack-lives
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 12
   hedges:
-    appears: 0
-    alleged: 0
     attributed: 9
-    reported: 1
     contested: 0
     confirmed: 2
+    alleged: 0
+    reported: 1
+    appears: 0
   corroboration:
-    primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
-    primary_document: 1
-    single_source: 11
+    primary_plus_secondary: 0
     two_independent: 0
+    single_source: 11
+    primary_document: 1
 sources:
   count: 1
   outlets:
@@ -73,6 +71,14 @@ image:
 cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- California wildlife officials said Tuesday they have stopped actively searching for two juvenile gray wolves from the Beyem Seyo pack, which killed or
+- Additional context from article.
+- Key findings or implications.
 
 California wildlife officials said Tuesday they have stopped actively searching for two juvenile gray wolves from the Beyem Seyo pack, which killed or injured at least 92 calves and cows in Northern California's Sierra Valley over a seven-month period in 2025. The California Department of Fish and Wildlife said its expert biologists and law enforcement officers had been unable to locate or approach the animals closely enough to safely capture them.
 
@@ -126,111 +132,135 @@ Gray wolves were eradicated across California early in the last century because 
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** California Department of Fish and Wildlife; Beyem Seyo pack
-**Predicate:** halted_active_search_for
-**Object:** two juvenile gray wolves (wildlife_management_action)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** California Department of Fish and Wildlife; Beyem Seyo pack
+- **Predicate:** halted_active_search_for
+- **Object:** two juvenile gray wolves (wildlife_management_action)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > California wildlife crews are no longer actively searching for two juvenile gray wolves from the Beyem Seyo pack.
 
-### c_002 — attributed, single source
-**Subject entities:** Beyem Seyo pack
-**Predicate:** killed_or_injured
-**Object:** at least 92 calves and cows (livestock_count)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Beyem Seyo pack
+- **Predicate:** killed_or_injured
+- **Object:** at least 92 calves and cows (livestock_count)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > The Beyem Seyo pack killed or injured at least 92 calves and cows in a seven-month period in 2025, according to a UC Davis report.
 
-### c_003 — confirmed, primary document
-**Subject entities:** California Department of Fish and Wildlife; Beyem Seyo pack
-**Predicate:** euthanized
-**Object:** four gray wolves (wildlife_management_action)
-**Temporal:** 2025-10
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** California Department of Fish and Wildlife; Beyem Seyo pack
+- **Predicate:** euthanized
+- **Object:** four gray wolves (wildlife_management_action)
+- **Temporal:** 2025-10
+- **Sources:** src_001
 
 > CDFW euthanized four gray wolves — three adults and one juvenile — from the Beyem Seyo pack in October 2025 after an unprecedented level of livestock attacks.
 
-### c_004 — attributed, single source
-**Subject entities:** Trump administration; Biden administration
-**Predicate:** ended
-**Object:** national wolf recovery plan (policy_action)
-**Temporal:** 2025-11
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Trump administration; Biden administration
+- **Predicate:** ended
+- **Object:** national wolf recovery plan (policy_action)
+- **Temporal:** 2025-11
+- **Sources:** src_001
 
 > The Trump administration ended the Biden administration's planned first-ever national wolf recovery plan in November 2025.
 
-### c_005 — attributed, single source
-**Subject entities:** Beyem Seyo pack; University of California Davis
-**Predicate:** exceeded_kills_of
-**Object:** Montana 2024 + Wyoming 2023 combined wolf-livestock kills (comparative_statistic)
-**Temporal:** 2026-01-10
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Beyem Seyo pack; University of California Davis
+- **Predicate:** exceeded_kills_of
+- **Object:** Montana 2024 + Wyoming 2023 combined wolf-livestock kills (comparative_statistic)
+- **Temporal:** 2026-01-10
+- **Sources:** src_001
 
 > UC Davis researchers said the Beyem Seyo pack killed more livestock than the entire wolf population of Montana in 2024 and the entire wolf population of Wyoming in 2023 combined.
 
-### c_006 — attributed, single source
-**Subject entities:** Montana wolf population
-**Predicate:** killed
-**Object:** 54 domestic animals (livestock_count)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Montana wolf population
+- **Predicate:** killed
+- **Object:** 54 domestic animals (livestock_count)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > Montana's approximately 1,100 wolves killed 54 domestic animals in 2024, according to UC Davis researchers.
 
-### c_007 — attributed, single source
-**Subject entities:** Wyoming wolf population
-**Predicate:** killed
-**Object:** 49 livestock (livestock_count)
-**Temporal:** 2023
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Wyoming wolf population
+- **Predicate:** killed
+- **Object:** 49 livestock (livestock_count)
+- **Temporal:** 2023
+- **Sources:** src_001
 
 > Wyoming's approximately 352 wolves killed 49 livestock in 2023, according to UC Davis researchers.
 
-### c_008 — attributed, single source
-**Subject entities:** California gray wolf population
-**Predicate:** responsible_for
-**Object:** 175 livestock kills (livestock_count)
-**Temporal:** 2025-01/2025-10
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** California gray wolf population
+- **Predicate:** responsible_for
+- **Object:** 175 livestock kills (livestock_count)
+- **Temporal:** 2025-01/2025-10
+- **Sources:** src_001
 
 > About 70 gray wolves in California were responsible for 175 livestock kills between January and October 2025, according to CDFW data.
 
-### c_009 — attributed, single source
-**Subject entities:** Beyem Seyo pack
-**Predicate:** responsible_for
-**Object:** approximately half of 175 livestock kills (livestock_count)
-**Temporal:** 2025-01/2025-10
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Beyem Seyo pack
+- **Predicate:** responsible_for
+- **Object:** approximately half of 175 livestock kills (livestock_count)
+- **Temporal:** 2025-01/2025-10
+- **Sources:** src_001
 
 > The Beyem Seyo pack was responsible for approximately half of California's wolf-related livestock kills between January and October 2025.
 
-### c_010 — reported, single source
-**Subject entities:** California gray wolf population
-**Predicate:** last_killed
-**Object:** 1924, Lassen County, California (historical_event)
-**Temporal:** 1924
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** California gray wolf population
+- **Predicate:** last_killed
+- **Object:** 1924, Lassen County, California (historical_event)
+- **Temporal:** 1924
+- **Sources:** src_001
 
 > The last known native wolf in California was killed in 1924 in Lassen County.
 
-### c_011 — confirmed, single source
-**Subject entities:** gray wolf population; Yellowstone National Park
-**Predicate:** reintroduced_in
-**Object:** Idaho and Yellowstone National Park (historical_event)
-**Temporal:** 1990s
-**Source IDs:** src_001
+### c_011
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** gray wolf population; Yellowstone National Park
+- **Predicate:** reintroduced_in
+- **Object:** Idaho and Yellowstone National Park (historical_event)
+- **Temporal:** 1990s
+- **Sources:** src_001
 
 > Gray wolves were reintroduced in Idaho and at Yellowstone National Park in the mid-1990s.
 
-### c_012 — attributed, single source
-**Subject entities:** Beyem Seyo pack; California Department of Fish and Wildlife
-**Predicate:** transmitted_behavior_to
-**Object:** offspring and future packs (behavioral_pattern)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Beyem Seyo pack; California Department of Fish and Wildlife
+- **Predicate:** transmitted_behavior_to
+- **Object:** offspring and future packs (behavioral_pattern)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > The Beyem Seyo pack's cattle-preying behavior was being passed to offspring, who could then teach it to future packs, according to CDFW.
 
@@ -239,10 +269,5 @@ Gray wolves were eradicated across California early in the last century because 
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Olga R. Rodriguez
 **Publication date:** 2026-01-14
-**Access date:** 2026-01-14
 **Title:** Wildlife crews halt search for gray wolves in California's Sierra Valley
 **URL:** https://apnews.com/article/california-sierra-gray-wolves-pack-livestock-killings-739cb4575637b7095eb71d9b3ba45399
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

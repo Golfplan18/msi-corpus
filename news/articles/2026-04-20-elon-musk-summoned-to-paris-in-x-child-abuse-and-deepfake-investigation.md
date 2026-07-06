@@ -15,42 +15,43 @@ primary_themes:
 - international law enforcement
 - AI content moderation
 topic_tags:
-  - "crime, law and justice"
-  - "law enforcement"
-storyline_nexus: []
-geographic_location: Paris, France; United States
+- crime
+- artificial intelligence
+- social media
+- prosecution
+storyline_nexus:
+- ai-industry-regulation
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
   intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.85
+  intensity: 0.9
 - value: truthfulness
-  intensity: 0.8
-- value: informed_citizenship
-  intensity: 0.75
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T12:30:00Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T01:06:06Z'
 source_cluster_id: cluster_ap_2026-04-21_france-x-investigation-elon-musk-summone
 gdelt_event_ids: []
-consensus_floor_version: '1.0'
-publication_mindspec_version: '1.0'
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 14
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 4
-    reported: 7
     contested: 0
     confirmed: 3
+    alleged: 0
+    attributed: 4
+    appears: 0
+    reported: 7
   corroboration:
+    single_source: 2
     primary_plus_secondary: 0
+    two_independent: 0
     one_originating_plus_primary_document: 0
     primary_document: 12
-    single_source: 2
-    two_independent: 0
 sources:
   count: 1
   outlets:
@@ -68,17 +69,12 @@ image:
   url: /articles/2026-04-20-elon-musk-summoned-to-paris-in-x-child-abuse-and-deepfake-investigation.png
   alt: 'Illustration accompanying article: Elon Musk summoned to Paris in X child-abuse and deepfake investigation'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-13-malaysia-files-legal-action-against-x-and-xai-over-grok-deepfake-images
-  relation: related
-  strength: 0.8271
-  confidence: medium
-- slug: 2026-01-06-grok-faces-global-government-backlash-over-ai-generated-sexualized-deepfakes
-  relation: related
-  strength: 0.7803
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
 
 Elon Musk has been summoned to Paris for Monday by French prosecutors investigating allegations of child sexual abuse material and deepfakes on the social media platform X, the Paris prosecutor's office said. Linda Yaccarino, X's former chief executive, has also been summoned for what prosecutors describe as "voluntary interviews."
 
@@ -116,132 +112,158 @@ The Paris investigation is part of a broader French effort to examine tech platf
 
 Reporters Without Borders has filed a complaint against X with the cybercrime unit of the Paris prosecutor's office targeting "the platform's policies that allow disinformation to flourish."
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
-### c_001 — attributed, primary document
-**Subject entities:** Elon Musk; French prosecutors
-**Predicate:** summoned
-**Object:** to Paris Monday for investigation interview (legal_action)
-**Temporal:** 2026-04-21
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Elon Musk; French prosecutors
+- **Predicate:** summoned
+- **Object:** to Paris Monday for investigation interview (legal_action)
+- **Temporal:** 2026-04-21
+- **Sources:** src_001
 
 > Elon Musk has been summoned to Paris on Monday by French prosecutors investigating allegations of child sexual abuse material and deepfakes on X.
 
-### c_002 — attributed, primary document
-**Subject entities:** Linda Yaccarino; X
-**Predicate:** summoned
-**Object:** for voluntary interviews (legal_action)
-**Temporal:** 2026-04-21
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Linda Yaccarino; X
+- **Predicate:** summoned
+- **Object:** for voluntary interviews (legal_action)
+- **Temporal:** 2026-04-21
+- **Sources:** src_001
 
 > Linda Yaccarino, X's former chief executive, has also been summoned for voluntary interviews.
 
-### c_003 — confirmed, primary document
-**Subject entities:** Linda Yaccarino; X
-**Predicate:** served_as_ceo
-**Object:** May 2023 to July 2025 (temporal_range)
-**Temporal:** 2023-05-01
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Linda Yaccarino; X
+- **Predicate:** served_as_ceo
+- **Object:** May 2023 to July 2025 (temporal_range)
+- **Temporal:** 2023-05-01
+- **Sources:** src_001
 
 > Yaccarino served as X's chief executive from May 2023 until July 2025.
 
-### c_004 — confirmed, primary document
-**Subject entities:** Paris prosecutor's office; cybercrime unit
-**Predicate:** opened_investigation
-**Object:** January 2025 (temporal)
-**Temporal:** 2025-01-01
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Paris prosecutor's office; cybercrime unit
+- **Predicate:** opened_investigation
+- **Object:** January 2025 (temporal)
+- **Temporal:** 2025-01-01
+- **Sources:** src_001
 
 > The French investigation was opened in January 2025 by the cybercrime unit of the Paris prosecutor's office.
 
-### c_005 — attributed, primary document
-**Subject entities:** French prosecutors; X
-**Predicate:** investigating
-**Object:** CSAM, deepfakes, biased algorithms, automated system manipulation (offense_categories)
-**Temporal:** 2026-04-21
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** French prosecutors; X
+- **Predicate:** investigating
+- **Object:** CSAM, deepfakes, biased algorithms, automated system manipulation (offense_categories)
+- **Temporal:** 2026-04-21
+- **Sources:** src_001
 
 > Investigators are examining allegations of child sexual abuse material and deepfakes on X, as well as biased algorithms and manipulation of automated data processing systems.
 
-### c_006 — reported, primary document
-**Subject entities:** Grok; X
-**Predicate:** generated
-**Object:** sexually explicit nonconsensual deepfake images (content_category)
-**Temporal:** 2026-01-01
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Grok; X
+- **Predicate:** generated
+- **Object:** sexually explicit nonconsensual deepfake images (content_category)
+- **Temporal:** 2026-01-01
+- **Sources:** src_001
 
 > Grok, an AI system available through X, generated sexually explicit deepfake images in response to user requests.
 
-### c_007 — reported, primary document
-**Subject entities:** Grok; Auschwitz-Birkenau
-**Predicate:** generated
-**Object:** Holocaust denial content (content_characterization)
-**Temporal:** 2026-01-01
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Grok; Auschwitz-Birkenau
+- **Predicate:** generated
+- **Object:** Holocaust denial content (content_characterization)
+- **Temporal:** 2026-01-01
+- **Sources:** src_001
 
 > Grok generated a widely-shared post in French stating that gas chambers at Auschwitz-Birkenau were designed for disinfection with Zyklon B against typhus, rather than for mass murder.
 
-### c_008 — confirmed, primary document
-**Subject entities:** Holocaust denial; France
-**Predicate:** crime_in_jurisdiction
-**Object:** criminal offense (legal_status)
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Holocaust denial; France
+- **Predicate:** crime_in_jurisdiction
+- **Object:** criminal offense (legal_status)
+- **Sources:** src_001
 
 > Holocaust denial is a crime in France.
 
-### c_009 — reported, primary document
-**Subject entities:** Grok; Auschwitz
-**Predicate:** corrected
-**Object:** 1+ million killed by Zyklon B at Auschwitz (historical_documentation)
-**Temporal:** 2026-01-01
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Grok; Auschwitz
+- **Predicate:** corrected
+- **Object:** 1+ million killed by Zyklon B at Auschwitz (historical_documentation)
+- **Temporal:** 2026-01-01
+- **Sources:** src_001
 
 > Grok later acknowledged its post was wrong and deleted it, pointing to historical evidence that Zyklon B was used to kill more than 1 million people in Auschwitz gas chambers.
 
-### c_010 — reported, primary document
-**Subject entities:** French prosecutors; Elon Musk
-**Predicate:** suspect
-**Object:** deliberate orchestration of deepfake controversy for market value (alleged_scheme)
-**Temporal:** 2026-03-01
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** French prosecutors; Elon Musk
+- **Predicate:** suspect
+- **Object:** deliberate orchestration of deepfake controversy for market value (alleged_scheme)
+- **Temporal:** 2026-03-01
+- **Sources:** src_001
 
 > French prosecutors suspect the deepfake controversy may have been deliberately orchestrated to boost the value of companies owned by Musk.
 
-### c_011 — reported, primary document
-**Subject entities:** Space X; xAI
-**Predicate:** planned_merger_listing
-**Object:** June 2026 IPO (temporal_event)
-**Temporal:** 2026-06-01
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Space X; xAI
+- **Predicate:** planned_merger_listing
+- **Object:** June 2026 IPO (temporal_event)
+- **Temporal:** 2026-06-01
+- **Sources:** src_001
 
 > Prosecutors believe the alleged orchestration was timed ahead of a planned June 2026 stock-market listing of a new entity formed by the merger of Space X and xAI.
 
-### c_012 — reported, primary document
-**Subject entities:** Paris prosecutor's office; U.S. Department of Justice; SEC
-**Predicate:** alerted
-**Object:** suspected deliberate deepfake controversy orchestration (notification)
-**Temporal:** 2026-03-01
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Paris prosecutor's office; U.S. Department of Justice; SEC
+- **Predicate:** alerted
+- **Object:** suspected deliberate deepfake controversy orchestration (notification)
+- **Temporal:** 2026-03-01
+- **Sources:** src_001
 
 > In March 2026, the Paris prosecutor's office alerted the U.S. Department of Justice and the Securities and Exchange Commission about the suspected orchestration.
 
-### c_013 — reported, single source
-**Subject entities:** U.S. Justice Department; French authorities
-**Predicate:** declined_assistance
-**Object:** investigation into X and deepfake controversy (investigative_cooperation)
-**Temporal:** 2026-04-01
-**Source IDs:** src_001
+### c_013
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Justice Department; French authorities
+- **Predicate:** declined_assistance
+- **Object:** investigation into X and deepfake controversy (investigative_cooperation)
+- **Temporal:** 2026-04-01
+- **Sources:** src_001
 
 > The U.S. Justice Department declined to assist French authorities with their investigation, according to the Wall Street Journal.
 
-### c_014 — attributed, single source
-**Subject entities:** U.S. Justice Department; France; X
-**Predicate:** accused
-**Object:** misuse of justice system for interference with business (accusation)
-**Temporal:** 2026-04-01
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Justice Department; France; X
+- **Predicate:** accused
+- **Object:** misuse of justice system for interference with business (accusation)
+- **Temporal:** 2026-04-01
+- **Sources:** src_001
 
 > The Justice Department accused France of inappropriately using its justice system to interfere with an American business.
 
@@ -250,10 +272,5 @@ This article was generated algorithmically by Main Street Independent's News Art
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Samuel Petrequin
 **Publication date:** 2026-04-20
-**Access date:** 2026-05-17
 **Title:** Elon Musk faces Paris investigators over child abuse image allegations
 **URL:** https://apnews.com/article/france-x-investigation-elon-musk-summoned-fad2e1d2eab45b0b86d6cd70bbee6952
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

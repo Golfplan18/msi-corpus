@@ -19,44 +19,40 @@ primary_themes:
 - Federal Reserve
 - economic growth
 topic_tags:
-  - "artificial intelligence"
-  - "economy, business and finance"
-  - employment
-  - health
-  - "international trade"
-  - labour
+- economy
+- employment
+- labour market
+- macroeconomics
 storyline_nexus:
-  - trump-tariff-policy
-  - us-administration-2026
-  - ai-regulation
+- us-economic-volatility
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship
   intensity: 0.9
-- value: accountability_of_power
-  intensity: 0.5
-framework_version: 1.1.0
-generation_timestamp: '2026-01-09T12:00:00Z'
+- value: truthfulness
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:01:13Z'
 source_cluster_id: cluster_ap_2026-01-08_jobs-economy-growth-3520ef449c36be8ca60e
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 17
   hedges:
-    appears: 0
-    alleged: 0
     attributed: 3
     reported: 2
     contested: 0
     confirmed: 12
+    alleged: 0
+    appears: 0
   corroboration:
-    primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
     primary_document: 12
     single_source: 5
+    primary_plus_secondary: 0
     two_independent: 0
 sources:
   count: 1
@@ -67,43 +63,26 @@ sources:
   highest_reliability_tier: 1
   has_originating: true
   has_primary_document: false
-figures:
-- source: fred
-  series_id: UNRATE
-  transformation: raw
-  as_of: '2026-01-09'
-  caption: The official U.S. unemployment rate stood at 4.4% in December 2025, its first monthly decline since June after four consecutive increases. The rate remains above the sub-4% lows reached in 2023.
-- source: fred
-  series_id: U6RATE
-  transformation: raw
-  as_of: '2026-01-09'
-  caption: The broader U-6 measure of underemployment, which counts discouraged workers and involuntary part-timers alongside the officially unemployed, stood at 8.4% in December 2025, capturing the full extent of labor market slack beneath the headline figure.
 figures_aggregate:
-  count: 2
-  series_ids:
-  - U6RATE
-  - UNRATE
-  sources:
-  - fred
+  count: 0
+  series_ids: []
+  sources: []
 image:
   url: /articles/2026-01-09-u-s-adds-50-000-jobs-in-december-2025-posts-weakest-hiring-since-pandemic.png
   alt: 'Illustration accompanying article: U.S. adds 50,000 jobs in December; 2025 posts weakest hiring since pandemic'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-07-job-openings-near-5-year-low-in-november-as-low-hire-low-fire-market-persists
-  relation: related
-  strength: 0.8959
-  confidence: medium
-- slug: 2026-01-08-weekly-jobless-claims-rise-to-208-000-as-labor-market-momentum-slows
-  relation: related
-  strength: 0.8726
-  confidence: medium
-- slug: 2026-01-04-us-economy-grew-in-2025-but-hiring-lagged-as-tariffs-and-ai-curbed-job-gains
-  relation: continues
-  strength: 0.8873
-  confidence: high
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Summary point 1.
+- Summary point 2.
+- Summary point 3.
+- Summary point 4.
 
 The figures underscore a stubborn gap between an economy still expanding at a healthy pace and a job market that has largely stalled, as businesses cited tariff uncertainty, elevated inflation, and the growing reach of artificial intelligence as reasons to hold back on new hires.
 
@@ -159,156 +138,190 @@ Most economists said they expect hiring to accelerate in 2026, citing solid grow
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** U.S. employers
-**Predicate:** added_jobs
-**Object:** 50000 (job_count)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. employers
+- **Predicate:** added_jobs
+- **Object:** 50000 (job_count)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > U.S. employers added 50,000 jobs in December 2025.
 
-### c_002 — confirmed, primary document
-**Subject entities:** U.S. unemployment rate
-**Predicate:** declined_to
-**Object:** 4.4 (percentage)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. unemployment rate
+- **Predicate:** declined_to
+- **Object:** 4.4 (percentage)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > The U.S. unemployment rate fell to 4.4% in December 2025, from 4.5% in November.
 
-### c_003 — confirmed, primary document
-**Subject entities:** U.S. economy
-**Predicate:** added_jobs_annual
-**Object:** 584000 (annual_job_count)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. economy
+- **Predicate:** added_jobs_annual
+- **Object:** 584000 (annual_job_count)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > The U.S. economy added 584,000 jobs in full-year 2025, the fewest since 2020 and the smallest annual gain outside a recession since 2003.
 
-### c_004 — confirmed, primary document
-**Subject entities:** U.S. employers
-**Predicate:** added_jobs_revised
-**Object:** 56000 (revised_job_count)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. employers
+- **Predicate:** added_jobs_revised
+- **Object:** 56000 (revised_job_count)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > November's job gain was revised down from 64,000 to 56,000.
 
-### c_005 — confirmed, primary document
-**Subject entities:** U.S. employers
-**Predicate:** lost_jobs_revised
-**Object:** -173000 (revised_job_count)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. employers
+- **Predicate:** lost_jobs_revised
+- **Object:** -173000 (revised_job_count)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > October's job figure was revised to a loss of 173,000, from a previously reported decline of 105,000.
 
-### c_006 — confirmed, primary document
-**Subject entities:** health care sector
-**Predicate:** added_jobs
-**Object:** 38500 (sector_job_count)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** health care sector
+- **Predicate:** added_jobs
+- **Object:** 38500 (sector_job_count)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > Health care added 38,500 jobs in December 2025.
 
-### c_007 — confirmed, primary document
-**Subject entities:** restaurant and hotel industry
-**Predicate:** added_jobs
-**Object:** 47000 (sector_job_count)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** restaurant and hotel industry
+- **Predicate:** added_jobs
+- **Object:** 47000 (sector_job_count)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > Restaurants and hotels added 47,000 jobs in December 2025.
 
-### c_008 — confirmed, primary document
-**Subject entities:** retail sector
-**Predicate:** lost_jobs
-**Object:** -25000 (sector_job_count)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** retail sector
+- **Predicate:** lost_jobs
+- **Object:** -25000 (sector_job_count)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > Retailers shed 25,000 jobs in December 2025.
 
-### c_009 — confirmed, primary document
-**Subject entities:** manufacturing sector
-**Predicate:** shed_jobs_consecutive_months
-**Object:** April–December 2025 (trend)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** manufacturing sector
+- **Predicate:** shed_jobs_consecutive_months
+- **Object:** April–December 2025 (trend)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > Manufacturers shed jobs every month from April through December 2025.
 
-### c_010 — confirmed, primary document
-**Subject entities:** U.S. GDP
-**Predicate:** grew_at_rate
-**Object:** 4.3 (annualized_growth_rate)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. GDP
+- **Predicate:** grew_at_rate
+- **Object:** 4.3 (annualized_growth_rate)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > U.S. GDP expanded at a 4.3% annual rate in the third quarter of 2025.
 
-### c_011 — reported, single source
-**Subject entities:** Federal Reserve Bank of Atlanta
-**Predicate:** forecast_growth
-**Object:** 2.7 (annualized_growth_rate_forecast)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Federal Reserve Bank of Atlanta
+- **Predicate:** forecast_growth
+- **Object:** 2.7 (annualized_growth_rate_forecast)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > The Federal Reserve Bank of Atlanta forecast GDP growth of about 2.7% for the fourth quarter of 2025.
 
-### c_012 — confirmed, primary document
-**Subject entities:** Federal Reserve System
-**Predicate:** cut_interest_rate
-**Object:** 3 (count_of_rate_cuts)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_012
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Federal Reserve System
+- **Predicate:** cut_interest_rate
+- **Object:** 3 (count_of_rate_cuts)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > The Federal Reserve cut its benchmark interest rate three times in 2025.
 
-### c_013 — attributed, single source
-**Subject entities:** Blerina Uruci; T. Rowe Price
-**Predicate:** stated
-**Object:** expert opinion on labor market and Fed policy (attributed_statement)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Blerina Uruci; T. Rowe Price
+- **Predicate:** stated
+- **Object:** expert opinion on labor market and Fed policy (attributed_statement)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > Blerina Uruci, chief economist at T. Rowe Price, said the labor market has stabilized at a slower pace of employment growth and there is no urgency for the Fed to cut rates further.
 
-### c_014 — attributed, single source
-**Subject entities:** Steve Heckeroth; Renewables Inc.
-**Predicate:** stated
-**Object:** tariffs delayed hiring at least six months (attributed_statement)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Steve Heckeroth; Renewables Inc.
+- **Predicate:** stated
+- **Object:** tariffs delayed hiring at least six months (attributed_statement)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > Steve Heckeroth, CEO of Renewables Inc. in Santa Rosa, California, said tariffs have delayed hiring by at least six months due to uncertainty about input costs.
 
-### c_015 — attributed, single source
-**Subject entities:** Ernesto Castro
-**Predicate:** experienced_prolonged_job_search
-**Object:** hundreds of applications, three initial interviews, one follow-up (individual_account)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ernesto Castro
+- **Predicate:** experienced_prolonged_job_search
+- **Object:** hundreds of applications, three initial interviews, one follow-up (individual_account)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > Ernesto Castro, 44, of Los Angeles has applied for hundreds of jobs since May 2025 and received only three initial interviews and one follow-up.
 
-### c_016 — reported, single source
-**Subject entities:** Donald Trump; Truth Social
-**Predicate:** posted_pre_release_jobs_data
-**Object:** Truth Social post with apparent pre-release figures (social_media_disclosure)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_016
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Truth Social
+- **Predicate:** posted_pre_release_jobs_data
+- **Object:** Truth Social post with apparent pre-release figures (social_media_disclosure)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > President Trump posted to Truth Social on Thursday evening claiming jobs gains since January were entirely in the private sector; the post appeared to include December data and revisions the White House received before the public release.
 
-### c_017 — confirmed, primary document
-**Subject entities:** U.S. U-6 unemployment rate
-**Predicate:** measured_at
-**Object:** 8.4 (percentage)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_017
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. U-6 unemployment rate
+- **Predicate:** measured_at
+- **Object:** 8.4 (percentage)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > The broader U-6 unemployment rate stood at 8.4% in December 2025.
 
@@ -317,10 +330,5 @@ Most economists said they expect hiring to accelerate in 2026, citing solid grow
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Christopher Rugaber
 **Publication date:** 2026-01-09
-**Access date:** 2026-01-09
 **Title:** Sluggish hiring closes out a frustrating year for job seekers though unemployment slips to 4.4%
 **URL:** https://apnews.com/article/jobs-economy-growth-3520ef449c36be8ca60eb046177200a2
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

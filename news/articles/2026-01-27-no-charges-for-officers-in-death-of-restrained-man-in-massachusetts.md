@@ -15,47 +15,42 @@ primary_themes:
 - criminal charges
 - mental health crisis
 topic_tags:
-  - "artificial intelligence"
-  - "crime, law and justice"
-  - government
-  - "government policy"
-  - health
-  - "law enforcement"
+- crime
+- law enforcement
+- prosecution
+- civil rights
+- mental health
 storyline_nexus:
-  - immigration-enforcement
-geographic_location: Haverhill, Massachusetts, United States
+- us-immigration-enforcement
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
-  intensity: 0.95
-- value: truthfulness
   intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.85
-- value: informed_citizenship
-  intensity: 0.8
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+  intensity: 0.9
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T01:00:32Z'
 source_cluster_id: cluster_ap_2026-01-28_massachusetts-police-restraint-death-f12
 gdelt_event_ids: []
-consensus_floor_version: '1.1'
-publication_mindspec_version: '1.1'
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 10
   hedges:
     appears: 1
-    alleged: 0
-    attributed: 6
-    reported: 1
     contested: 0
+    attributed: 6
     confirmed: 2
+    reported: 1
+    alleged: 0
   corroboration:
-    primary_plus_secondary: 1
     one_originating_plus_primary_document: 0
-    primary_document: 9
-    single_source: 0
     two_independent: 0
+    primary_document: 9
+    primary_plus_secondary: 1
+    single_source: 0
 sources:
   count: 1
   outlets:
@@ -69,17 +64,16 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-05-17-ex-nypd-sergeant-freed-on-bail-during-manslaughter-appeal
-  relation: related
-  strength: 0.8461
-  confidence: medium
-- slug: 2026-04-18-kansas-family-sues-over-inmate-s-death-from-alleged-deputy-pressure
-  relation: related
-  strength: 0.8042
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- - value: human_life_and_dignity
+- - value: accountability_of_power
 
 Seven Massachusetts police officers will not face criminal charges in the death of Francis Gigliotti, a 43-year-old man who became unresponsive during police restraint in Haverhill, a Boston suburb. Essex District Attorney Paul Tucker announced Tuesday that charges were not legally supportable.
 
@@ -109,99 +103,115 @@ The seven officers were placed on leave during the investigation.
 
 The case underscores broader questions about restraint procedures. The U.S. Department of Justice has warned police officers since the mid-1990s to roll suspects off their stomachs as soon as they are handcuffed because of the danger of asphyxia. Putting someone on their stomach is not inherently life-threatening. But many policing experts agree that someone can stop breathing if pinned on their chest for too long or with too much weight because it can compress the lungs and put stress on the heart.
 
----
-
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
-### c_001 — attributed, primary document
-**Subject entities:** seven police officers; Francis Gigliotti
-**Predicate:** will_not_face_charges_in
-**Object:** death during police restraint (legal_determination)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** seven police officers; Francis Gigliotti
+- **Predicate:** will_not_face_charges_in
+- **Object:** death during police restraint (legal_determination)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Seven police officers will not face criminal charges in the death of Francis Gigliotti.
 
-### c_002 — attributed, primary document
-**Subject entities:** Francis Gigliotti
-**Predicate:** died_during
-**Object:** mental health crisis involving traffic exposure (event_context)
-**Temporal:** 2025-07-11
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Francis Gigliotti
+- **Predicate:** died_during
+- **Object:** mental health crisis involving traffic exposure (event_context)
+- **Temporal:** 2025-07-11
+- **Sources:** src_001
 
 > Gigliotti died outside a Haverhill fish market on July 11 after walking into traffic during a mental health crisis.
 
-### c_003 — attributed, primary document
-**Subject entities:** Paul Tucker; Francis Gigliotti
-**Predicate:** cited_cause_of_death
-**Object:** cardiac dysrhythmia from drug intoxication during prone restraint (medical_determination)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Paul Tucker; Francis Gigliotti
+- **Predicate:** cited_cause_of_death
+- **Object:** cardiac dysrhythmia from drug intoxication during prone restraint (medical_determination)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > District Attorney Paul Tucker cited the cause of death as cardiac dysrhythmia in a person with acute intoxication due to the combined effects of cocaine and ethanol while being restrained prone by police.
 
-### c_004 — attributed, primary document
-**Subject entities:** police officers; Francis Gigliotti
-**Predicate:** restrained_for_duration
-**Object:** 2 minutes 25 seconds (time_duration)
-**Temporal:** 2025-07-11
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** police officers; Francis Gigliotti
+- **Predicate:** restrained_for_duration
+- **Object:** 2 minutes 25 seconds (time_duration)
+- **Temporal:** 2025-07-11
+- **Sources:** src_001
 
 > Officers held Gigliotti on the ground for 2 minutes and 25 seconds, according to Tucker.
 
-### c_005 — reported, primary document
-**Subject entities:** police officers; Francis Gigliotti
-**Predicate:** held_face_down
-**Object:** prone restraint position captured on video (documented_conduct)
-**Temporal:** 2025-07-11
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** police officers; Francis Gigliotti
+- **Predicate:** held_face_down
+- **Object:** prone restraint position captured on video (documented_conduct)
+- **Temporal:** 2025-07-11
+- **Sources:** src_001
 
 > Video captured by witnesses showed several officers holding Gigliotti face down as he cried out.
 
-### c_006 — attributed, primary document
-**Subject entities:** police officers; EMS crew; Francis Gigliotti
-**Predicate:** provided_emergency_response
-**Object:** Narcan administration and CPR initiation (emergency_intervention)
-**Temporal:** 2025-07-11
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** police officers; EMS crew; Francis Gigliotti
+- **Predicate:** provided_emergency_response
+- **Object:** Narcan administration and CPR initiation (emergency_intervention)
+- **Temporal:** 2025-07-11
+- **Sources:** src_001
 
 > Officers administered Narcan and initiated CPR when Gigliotti became unresponsive, then EMS took over.
 
-### c_007 — confirmed, primary document
-**Subject entities:** autopsy findings
-**Predicate:** documented_injuries
-**Object:** bruises on arms and legs; no injuries to nose, throat, neck, back (medical_finding)
-**Temporal:** 2025-07-11
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** autopsy findings
+- **Predicate:** documented_injuries
+- **Object:** bruises on arms and legs; no injuries to nose, throat, neck, back (medical_finding)
+- **Temporal:** 2025-07-11
+- **Sources:** src_001
 
 > The autopsy notably did not show any injuries to Gigliotti's nose, throat, neck or back, though bruises were found on his arms and legs.
 
-### c_008 — attributed, primary document
-**Subject entities:** Timothy Bradl; Gigliotti family
-**Predicate:** expressed_disappointment_and_skepticism
-**Object:** questioned impartiality of internal law enforcement investigation (statement_of_position)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Timothy Bradl; Gigliotti family
+- **Predicate:** expressed_disappointment_and_skepticism
+- **Object:** questioned impartiality of internal law enforcement investigation (statement_of_position)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Family lawyer Timothy Bradl said they were disappointed, but expressed skepticism about the outcome given that law enforcement investigates itself within the same county.
 
-### c_009 — confirmed, primary document
-**Subject entities:** U.S. Department of Justice; police officers
-**Predicate:** issued_warning_about
-**Object:** asphyxiation danger from prone restraint (policy_guidance)
-**Temporal:** 1990s-2026
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Department of Justice; police officers
+- **Predicate:** issued_warning_about
+- **Object:** asphyxiation danger from prone restraint (policy_guidance)
+- **Temporal:** 1990s-2026
+- **Sources:** src_001
 
 > The U.S. Department of Justice has warned police officers since the mid-1990s to roll suspects off their stomachs as soon as they are handcuffed because of the danger of asphyxia.
 
-### c_010 — appears, primary plus secondary
-**Subject entities:** policing experts
-**Predicate:** agree_on_asphyxiation_mechanism
-**Object:** prone restraint can compress lungs and stress heart (expert_consensus)
-**Temporal:** current
-**Source IDs:** src_001
+### c_010
+- **Hedge:** appears
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** policing experts
+- **Predicate:** agree_on_asphyxiation_mechanism
+- **Object:** prone restraint can compress lungs and stress heart (expert_consensus)
+- **Temporal:** current
+- **Sources:** src_001
 
 > Many policing experts agree that someone can stop breathing if pinned on their chest for too long or with too much weight because it can compress the lungs and put stress on the heart.
 
@@ -209,10 +219,5 @@ This article was generated algorithmically by Main Street Independent's News Art
 
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Publication date:** 2026-01-27
-**Access date:** 2026-05-18
 **Title:** No charges for officers in death of man in Boston suburb, DA says
 **URL:** https://apnews.com/article/massachusetts-police-restraint-death-f12da929cbf2956deb066153be074d9d
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

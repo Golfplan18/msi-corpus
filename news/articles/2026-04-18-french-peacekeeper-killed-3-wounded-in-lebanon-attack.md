@@ -24,7 +24,8 @@ topic_tags:
   - "peace process"
   - sport
   - "sport event"
-storyline_nexus: []
+storyline_nexus:
+- israel-hezbollah-lebanon-war
 geographic_location: Lebanon (Ghandouriyeh)
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -244,7 +245,3 @@ The 10-day ceasefire was negotiated through U.S. channels and announced by Presi
 **Access date:** 2026-05-17
 **Title:** French peacekeeper killed and 3 wounded in Lebanon attack
 **URL:** https://apnews.com/article/lebanon-israel-france-peacekeepers-5856353ddea6c1654c38c8aadf803ed7
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

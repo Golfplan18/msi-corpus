@@ -18,48 +18,41 @@ primary_themes:
 - deportation policy
 - homeland security funding
 topic_tags:
-  - politics
-  - "human interest"
-  - education
-  - "government policy"
-  - "international relations"
-  - crime
+- crime
+- law enforcement
+- government policy
+- politics
+- human migration
 storyline_nexus:
-  - immigration-enforcement
-  - us-china-relations
-  - ces-2026
-geographic_location: Washington, D.C.; Minnesota; United States
+- us-immigration-enforcement
+geographic_location: United States
 floor_values_engaged:
-- value: accountability_of_power
-  intensity: 0.9
 - value: human_life_and_dignity
   intensity: 0.9
-- value: informed_citizenship
-  intensity: 0.8
-- value: equality_fairness
-  intensity: 0.6
-framework_version: 1.1.0
-generation_timestamp: '2026-01-10T00:00:00Z'
+- value: accountability_of_power
+  intensity: 0.9
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:08:59Z'
 source_cluster_id: cluster_ap_2026-01-10_immigration-customs-enforcement-democrat
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 12
   hedges:
-    appears: 0
-    alleged: 0
     attributed: 8
-    reported: 4
     contested: 0
+    reported: 4
+    alleged: 0
     confirmed: 0
+    appears: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 0
     single_source: 12
+    primary_plus_secondary: 0
+    primary_document: 0
+    one_originating_plus_primary_document: 0
     two_independent: 0
 sources:
   count: 1
@@ -78,37 +71,16 @@ image:
   url: /articles/2026-01-10-congress-weighs-response-to-ice-killing-of-minnesota-woman-renee-good.png
   alt: 'Illustration accompanying article: Congress weighs response to ICE killing of Minnesota woman Renee Good'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-08-ice-killing-of-minneapolis-woman-deepens-minnesota-s-conflict-with-trump
-  relation: related
-  strength: 0.8523
-  confidence: medium
-- slug: 2026-01-08-vance-calls-minneapolis-woman-s-ice-shooting-death-a-tragedy-of-her-own-making
-  relation: related
-  strength: 0.8488
-  confidence: medium
-- slug: 2026-01-08-minneapolis-protests-erupt-over-ice-killing-of-renee-good-as-portland-shooting-d
-  relation: related
-  strength: 0.8472
-  confidence: medium
-- slug: 2026-01-08-minneapolis-ice-shooting-renews-debate-over-lethal-force-rules-for-moving-vehicl
-  relation: related
-  strength: 0.84
-  confidence: medium
-- slug: 2026-01-08-protests-erupt-in-minneapolis-as-officials-dispute-jurisdiction-in-fatal-ice-sho
-  relation: related
-  strength: 0.8361
-  confidence: medium
-- slug: 2026-01-07-ice-officer-shoots-and-kills-minneapolis-woman-during-immigration-enforcement
-  relation: continues
-  strength: 0.8153
-  confidence: high
-- slug: 2026-01-08-family-mourns-renee-good-u-s-citizen-and-mother-shot-by-ice-agent-in-minneapolis
-  relation: related
-  strength: 0.801
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- WASHINGTON — Congressional Democrats and at least one Republican senator called Saturday for investigations and policy changes following the shooting death of Renee Good, a Minnesota woman killed b...
+- Good's death, which Democrats said was at least the fifth killing tied to the Trump administration's mass deportation campaign, has drawn scrutiny ...
+- "The situation that took place in Minnesota is a complete and total disgrace," House Democratic leader Hakeem Jeffries of New York said. "And in th...
 
 WASHINGTON — Congressional Democrats and at least one Republican senator called Saturday for investigations and policy changes following the shooting death of Renee Good, a Minnesota woman killed by an Immigration and Customs Enforcement officer after she dropped off her 6-year-old child at school.
 
@@ -156,111 +128,135 @@ Rep. Chuy Garcia, D-Ill., said Good's death "brought back heart-wrenching memori
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Renee Good; U.S. Immigration and Customs Enforcement
-**Predicate:** fatally_shot
-**Object:** Renee Good (person)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Renee Good; U.S. Immigration and Customs Enforcement
+- **Predicate:** fatally_shot
+- **Object:** Renee Good (person)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > An ICE officer shot and killed Renee Good in Minnesota after she dropped off her 6-year-old child at school; Good was behind the wheel of an SUV at the time.
 
-### c_002 — attributed, single source
-**Subject entities:** Hakeem Jeffries
-**Predicate:** stated
-**Object:** disgrace characterization and response pledge (public_statement)
-**Temporal:** 2026-01-10
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Hakeem Jeffries
+- **Predicate:** stated
+- **Object:** disgrace characterization and response pledge (public_statement)
+- **Temporal:** 2026-01-10
+- **Sources:** src_001
 
 > House Democratic leader Hakeem Jeffries said 'The situation that took place in Minnesota is a complete and total disgrace' and pledged conversations about 'a strong and forceful and appropriate response by House Democrats.'
 
-### c_003 — attributed, single source
-**Subject entities:** Donald Trump; Kristi Noem
-**Predicate:** claimed
-**Object:** self-defense (official_position)
-**Temporal:** 2026-01-10
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Kristi Noem
+- **Predicate:** claimed
+- **Object:** self-defense (official_position)
+- **Temporal:** 2026-01-10
+- **Sources:** src_001
 
 > President Donald Trump and Homeland Security Secretary Kristi Noem said the ICE officer acted in self-defense.
 
-### c_004 — attributed, single source
-**Subject entities:** JD Vance
-**Predicate:** stated
-**Object:** tragedy of her own making (public_statement)
-**Temporal:** 2026-01-10
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** JD Vance
+- **Predicate:** stated
+- **Object:** tragedy of her own making (public_statement)
+- **Temporal:** 2026-01-10
+- **Sources:** src_001
 
 > Vice President JD Vance called Good's death 'a tragedy of her own making' and said the ICE officer may have been 'sensitive' from having been injured in an unrelated altercation the previous year.
 
-### c_005 — attributed, single source
-**Subject entities:** Lisa Murkowski
-**Predicate:** called_for
-**Object:** investigation and policy changes (policy_demand)
-**Temporal:** 2026-01-10
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Lisa Murkowski
+- **Predicate:** called_for
+- **Object:** investigation and policy changes (policy_demand)
+- **Temporal:** 2026-01-10
+- **Sources:** src_001
 
 > Sen. Lisa Murkowski, R-Alaska, called for 'a thorough and objective investigation into how and why this happened' and said the situation 'cannot happen again.'
 
-### c_006 — reported, single source
-**Subject entities:** Renee Good; U.S. Immigration and Customs Enforcement
-**Predicate:** is_counted_as
-**Object:** at least fifth death (count)
-**Temporal:** 2026-01-10
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Renee Good; U.S. Immigration and Customs Enforcement
+- **Predicate:** is_counted_as
+- **Object:** at least fifth death (count)
+- **Temporal:** 2026-01-10
+- **Sources:** src_001
 
 > Good's death is at least the fifth known death since the Trump administration launched its mass deportation campaign, according to AP.
 
-### c_007 — attributed, single source
-**Subject entities:** U.S. Democratic Party; Kristi Noem
-**Predicate:** called_for
-**Object:** impeachment (legislative_demand)
-**Temporal:** 2026-01-10
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Democratic Party; Kristi Noem
+- **Predicate:** called_for
+- **Object:** impeachment (legislative_demand)
+- **Temporal:** 2026-01-10
+- **Sources:** src_001
 
 > Several Democrats called for the impeachment of Homeland Security Secretary Kristi Noem, though such action is considered highly unlikely with Republicans controlling Congress.
 
-### c_008 — attributed, single source
-**Subject entities:** Chris Murphy; U.S. Department of Homeland Security
-**Predicate:** plans_to_introduce
-**Object:** DHS constraints legislation (proposed_legislation)
-**Temporal:** 2026-01-10
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Chris Murphy; U.S. Department of Homeland Security
+- **Predicate:** plans_to_introduce
+- **Object:** DHS constraints legislation (proposed_legislation)
+- **Temporal:** 2026-01-10
+- **Sources:** src_001
 
 > Sen. Chris Murphy, the top Democrat on the subcommittee handling Homeland Security funding, plans to introduce legislation requiring Border Patrol to remain at the border and DHS enforcement officers to be unmasked.
 
-### c_009 — reported, single source
-**Subject entities:** Silverio Villegas Gonzalez; U.S. Immigration and Customs Enforcement
-**Predicate:** fatally_shot
-**Object:** Silverio Villegas Gonzalez (person)
-**Temporal:** 2025-09
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Silverio Villegas Gonzalez; U.S. Immigration and Customs Enforcement
+- **Predicate:** fatally_shot
+- **Object:** Silverio Villegas Gonzalez (person)
+- **Temporal:** 2025-09
+- **Sources:** src_001
 
 > In September 2025, a federal immigration enforcement agent in Chicago fatally shot Silverio Villegas Gonzalez during a brief altercation after he had dropped off his children at school.
 
-### c_010 — reported, single source
-**Subject entities:** Marimar Martinez; U.S. Customs and Border Protection
-**Predicate:** shot
-**Object:** five times (action)
-**Temporal:** 2025-10
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Marimar Martinez; U.S. Customs and Border Protection
+- **Predicate:** shot
+- **Object:** five times (action)
+- **Temporal:** 2025-10
+- **Sources:** src_001
 
 > In October 2025, a CBP agent in Chicago shot Marimar Martinez, a teacher and U.S. citizen, five times; a federal judge dismissed charges the administration brought against Martinez.
 
-### c_011 — attributed, single source
-**Subject entities:** U.S. Immigration and Customs Enforcement; Feeding Our Future
-**Predicate:** launched_in_response_to
-**Object:** Feeding Our Future fraud investigation (law_enforcement_operation)
-**Temporal:** 2026-01-10
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Immigration and Customs Enforcement; Feeding Our Future
+- **Predicate:** launched_in_response_to
+- **Object:** Feeding Our Future fraud investigation (law_enforcement_operation)
+- **Temporal:** 2026-01-10
+- **Sources:** src_001
 
 > The ICE operation in Minnesota was launched in response to an investigation of Feeding Our Future, a nonprofit prosecutors said was at the center of the country's largest COVID-19-related fraud scheme.
 
-### c_012 — reported, single source
-**Subject entities:** U.S. Department of Homeland Security; U.S. Congress
-**Predicate:** under_appropriations_debate
-**Object:** DHS budget (legislative_process)
-**Temporal:** 2026-01-10
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Department of Homeland Security; U.S. Congress
+- **Predicate:** under_appropriations_debate
+- **Object:** DHS budget (legislative_process)
+- **Temporal:** 2026-01-10
+- **Sources:** src_001
 
 > Homeland Security Department funding is under debate as part of annual appropriations to prevent a government shutdown when money expires at the end of January.
 
@@ -269,10 +265,5 @@ Rep. Chuy Garcia, D-Ill., said Good's death "brought back heart-wrenching memori
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Matt Brown
 **Publication date:** 2026-01-10
-**Access date:** 2026-01-10
 **Title:** Congress considers the consequences for ICE after Renee Good's killing
 **URL:** https://apnews.com/article/immigration-customs-enforcement-democrats-noem-impeachment-funding-03095f6a4041bef063afe22becf1a788
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

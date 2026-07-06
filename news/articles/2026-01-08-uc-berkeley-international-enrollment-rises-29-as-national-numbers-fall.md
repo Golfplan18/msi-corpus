@@ -18,47 +18,43 @@ primary_themes:
 - public university enrollment
 - California budget
 topic_tags:
-  - education
-  - "higher education"
-  - "human interest"
-  - "human migration"
+- higher education
+- demographics
+- international relations
+- education policy
 storyline_nexus:
-  - immigration-enforcement
-  - us-administration-2026
-  - us-china-relations
-geographic_location: Berkeley, California, United States
+- housing-affordability-crisis
+geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship
-  intensity: 0.75
-- value: accountability_of_power
-  intensity: 0.35
-framework_version: 1.1.0
-generation_timestamp: '2026-01-08T00:00:00Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-22T23:51:33Z'
 source_cluster_id: cluster_ap_2026-01-07_janet-gilmore-colleges-and-universities-
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 15
   hedges:
-    appears: 0
-    alleged: 0
     attributed: 11
+    appears: 0
     reported: 0
+    alleged: 0
     contested: 0
     confirmed: 4
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 4
     single_source: 11
+    one_originating_plus_primary_document: 0
+    primary_plus_secondary: 0
+    primary_document: 4
     two_independent: 0
 sources:
   count: 1
   outlets:
-  - Associated Press / Berkeleyside
+  - Associated Press
   outlet_classes:
   - wire
   highest_reliability_tier: 1
@@ -72,13 +68,17 @@ image:
   url: /articles/2026-01-08-uc-berkeley-international-enrollment-rises-29-as-national-numbers-fall.png
   alt: 'Illustration accompanying article: UC Berkeley international enrollment rises 29% as national numbers fall'
   source: ai_generated
-cross_article_links:
-- slug: 2025-12-30-faith-leaders-supporting-immigrants-brace-for-harder-year-under-trump-policies
-  relation: related
-  strength: 0.6597
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Berkeley's 29% surge — nearly six times the UC system's 5% gain — suggests elite public research universities can resist a more hostile visa climate i
+- Additional context from article.
+- Key findings or implications.
 
 Berkeley's 29% surge — nearly six times the UC system's 5% gain — suggests elite public research universities can resist a more hostile visa climate in the near term, even as most American campuses saw significant declines. The university faces competing pressures going forward, including state budget uncertainty and a housing shortage that has constrained how fast enrollment can grow.
 
@@ -122,150 +122,175 @@ The number of undergraduates identifying as American Indian has increased increm
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** UC Berkeley
-**Predicate:** enrolled
-**Object:** 2363 (count)
-**Temporal:** 2025-2026 academic year
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** UC Berkeley
+- **Predicate:** enrolled
+- **Object:** 2363 (count)
+- **Temporal:** 2025-2026 academic year
+- **Sources:** src_001
 
 > New international student enrollment at UC Berkeley grew 29% this academic year to 2,363 students.
 
-### c_002 — attributed, single source
-**Subject entities:** Institute of International Education
-**Predicate:** reported
-**Object:** -17% (percentage_change)
-**Temporal:** 2025-2026 academic year
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Institute of International Education
+- **Predicate:** reported
+- **Object:** -17% (percentage_change)
+- **Temporal:** 2025-2026 academic year
+- **Sources:** src_001
 
 > New international student enrollment fell 17% at U.S. campuses nationwide, according to a November report from the Institute of International Education.
 
-### c_003 — confirmed, primary document
-**Subject entities:** UC Berkeley
-**Predicate:** enrolled
-**Object:** 46151 (count)
-**Temporal:** fall 2025
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** UC Berkeley
+- **Predicate:** enrolled
+- **Object:** 46151 (count)
+- **Temporal:** fall 2025
+- **Sources:** src_001
 
 > UC Berkeley enrolled 46,151 students this fall, its largest-ever student body, up from 45,882 the previous year.
 
-### c_004 — attributed, single source
-**Subject entities:** University of California
-**Predicate:** enrolled
-**Object:** ~5% (percentage_change)
-**Temporal:** 2025-2026 academic year
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** University of California
+- **Predicate:** enrolled
+- **Object:** ~5% (percentage_change)
+- **Temporal:** 2025-2026 academic year
+- **Sources:** src_001
 
 > UC-wide, the number of new international students grew by about 5%.
 
-### c_005 — attributed, single source
-**Subject entities:** UC Berkeley
-**Predicate:** enrolled
-**Object:** ~6000 (count)
-**Temporal:** fall 2025
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** UC Berkeley
+- **Predicate:** enrolled
+- **Object:** ~6000 (count)
+- **Temporal:** fall 2025
+- **Sources:** src_001
 
 > Overall international student enrollment at UC Berkeley held steady at about 6,000, with China sending the most, followed by India, South Korea, and Canada.
 
-### c_006 — attributed, single source
-**Subject entities:** UC Berkeley
-**Predicate:** enrolled
-**Object:** 29% (percentage_change)
-**Temporal:** fall 2025
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** UC Berkeley
+- **Predicate:** enrolled
+- **Object:** 29% (percentage_change)
+- **Temporal:** fall 2025
+- **Sources:** src_001
 
 > New U.S. students from outside California increased 29% at UC Berkeley.
 
-### c_007 — attributed, single source
-**Subject entities:** UC Berkeley
-**Predicate:** enrolled
-**Object:** 4732 (count)
-**Temporal:** fall 2025
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** UC Berkeley
+- **Predicate:** enrolled
+- **Object:** 4732 (count)
+- **Temporal:** fall 2025
+- **Sources:** src_001
 
 > Total nonresident domestic enrollment at UC Berkeley was up about 6% to 4,732.
 
-### c_008 — attributed, single source
-**Subject entities:** Janet Gilmore; UC Berkeley
-**Predicate:** said
-**Object:** intentional nonresident enrollment strategy (statement)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Janet Gilmore; UC Berkeley
+- **Predicate:** said
+- **Object:** intentional nonresident enrollment strategy (statement)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > UC Berkeley spokesperson Janet Gilmore said the university intentionally sought to increase the number of new students who were not California residents to compensate for a dip the previous year and a large number of nonresident students graduating.
 
-### c_009 — confirmed, primary document
-**Subject entities:** UC Berkeley
-**Predicate:** enrolled
-**Object:** 26670 (count)
-**Temporal:** fall 2025
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** UC Berkeley
+- **Predicate:** enrolled
+- **Object:** 26670 (count)
+- **Temporal:** fall 2025
+- **Sources:** src_001
 
 > California undergraduates at UC Berkeley reached a record high of 26,670 this year.
 
-### c_010 — attributed, single source
-**Subject entities:** University of California; Gavin Newsom
-**Predicate:** agreed
-**Object:** 5% annual budget increases for increased CA resident enrollment (agreement)
-**Temporal:** ongoing
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** University of California; Gavin Newsom
+- **Predicate:** agreed
+- **Object:** 5% annual budget increases for increased CA resident enrollment (agreement)
+- **Temporal:** ongoing
+- **Sources:** src_001
 
 > Under a compact with Gov. Gavin Newsom, the University of California has gradually enrolled more California residents in exchange for predictable annual 5% budget increases from the state.
 
-### c_011 — attributed, single source
-**Subject entities:** California
-**Predicate:** deferred
-**Object:** 5% budget increase (action)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** California
+- **Predicate:** deferred
+- **Object:** 5% budget increase (action)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > The state deferred last year's scheduled 5% budget increase to close a budget gap.
 
-### c_012 — confirmed, primary document
-**Subject entities:** University of California
-**Predicate:** enrolled
-**Object:** 300000+ (count)
-**Temporal:** fall 2025
-**Source IDs:** src_001
+### c_012
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** University of California
+- **Predicate:** enrolled
+- **Object:** 300000+ (count)
+- **Temporal:** fall 2025
+- **Sources:** src_001
 
 > The University of California system overall surpassed 300,000 students for the first time this school year.
 
-### c_013 — attributed, single source
-**Subject entities:** UC Berkeley
-**Predicate:** plans
-**Object:** two-year on-campus housing guarantee by 2027 (goal)
-**Temporal:** future
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** UC Berkeley
+- **Predicate:** plans
+- **Object:** two-year on-campus housing guarantee by 2027 (goal)
+- **Temporal:** future
+- **Sources:** src_001
 
 > UC Berkeley aims to guarantee every student two years of on-campus housing by 2027.
 
-### c_014 — attributed, single source
-**Subject entities:** UC Berkeley
-**Predicate:** reported
-**Object:** 52% women, 44% men; engineering top major (demographic)
-**Temporal:** fall 2025
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** UC Berkeley
+- **Predicate:** reported
+- **Object:** 52% women, 44% men; engineering top major (demographic)
+- **Temporal:** fall 2025
+- **Sources:** src_001
 
 > Women outnumber men among UC Berkeley students, 52% to 44%; engineering is the most popular undergraduate major.
 
-### c_015 — attributed, single source
-**Subject entities:** UC Berkeley; University of California
-**Predicate:** enrolled
-**Object:** increasing Native American enrollment since 2021 (trend)
-**Temporal:** 2021-2025
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** UC Berkeley; University of California
+- **Predicate:** enrolled
+- **Object:** increasing Native American enrollment since 2021 (trend)
+- **Temporal:** 2021-2025
+- **Sources:** src_001
 
 > The number of UC Berkeley undergraduates identifying as American Indian has increased incrementally each year since 2021, when UC launched its Native American Opportunity Plan covering tuition and fees for students enrolled in federally recognized tribes.
 
 ## Sources
 
-### src_001 — Associated Press / Berkeleyside, wire, Tier 1, originating
-**Author:** Felicia Mello
+### src_001 — Associated Press, wire, Tier 1, originating
+**Author:** Felicia Mello / Berkeleyside
 **Publication date:** 2026-01-08
-**Access date:** 2026-01-08
 **Title:** Defying a nationwide trend, UC Berkeley enrolled more new international students this year
 **URL:** https://apnews.com/article/janet-gilmore-colleges-and-universities-general-news-18115d51265ec2cf11dda6d13109a806
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

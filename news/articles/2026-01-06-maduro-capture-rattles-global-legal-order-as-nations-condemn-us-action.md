@@ -22,45 +22,43 @@ primary_themes:
 - sovereignty
 - military intervention
 topic_tags:
-  - "armed conflict"
-  - "conflict, war and peace"
-  - "crime, law and justice"
-  - government
-  - "government policy"
-  - "international relations"
+- armed conflict
+- international law
+- international military intervention
+- terrorism
 storyline_nexus:
-  - venezuela-crisis
-geographic_location: The Hague / New York / Caracas
+- venezuela-political-military-crisis
+geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
   intensity: 0.9
+- value: truthfulness
+  intensity: 0.6
 - value: informed_citizenship
-  intensity: 0.85
-- value: human_life_and_dignity
-  intensity: 0.65
-framework_version: 1.1.0
-generation_timestamp: '2026-05-16T18:08:27Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-22T23:34:01Z'
 source_cluster_id: cluster_ap_2026-01-05_trump-maduro-venezuela-ley-onu-4a8ab8ba2
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 21
   hedges:
+    contested: 0
+    reported: 4
+    attributed: 15
     appears: 0
     alleged: 1
-    attributed: 15
-    reported: 4
-    contested: 0
     confirmed: 1
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 2
-    single_source: 19
     two_independent: 0
+    single_source: 19
+    one_originating_plus_primary_document: 0
+    primary_plus_secondary: 0
 sources:
   count: 1
   outlets:
@@ -78,41 +76,19 @@ image:
   url: /articles/2026-01-06-maduro-capture-rattles-global-legal-order-as-nations-condemn-us-action.png
   alt: 'Illustration accompanying article: Maduro capture rattles global legal order as nations condemn US action'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-03-us-seizure-of-maduro-sparks-legal-debate-as-trump-claims-control-of-venezuela
-  relation: continues
-  strength: 0.8688
-  confidence: high
-- slug: 2026-01-04-maduro-faces-narco-terrorism-charges-in-manhattan-after-u-s-military-capture
-  relation: continues
-  strength: 0.852
-  confidence: high
-- slug: 2026-01-03-us-captures-maduro-in-caracas-strike-venezuela-president-faces-narco-charges
-  relation: continues
-  strength: 0.8525
-  confidence: high
-- slug: 2026-01-03-u-s-military-seizes-maduro-in-venezuela-trump-pledges-to-govern-country-and-expl
-  relation: continues
-  strength: 0.8368
-  confidence: high
-- slug: 2026-01-03-us-forces-seize-venezuela-s-maduro-in-overnight-raid-trump-claims-control
-  relation: continues
-  strength: 0.8339
-  confidence: high
-- slug: 2026-01-04-trump-pledges-to-direct-venezuela-after-u-s-military-operation-ousts-maduro
-  relation: continues
-  strength: 0.8129
-  confidence: high
-- slug: 2026-01-04-trump-invokes-monroe-doctrine-in-maduro-arrest-proclaims-trump-corollary
-  relation: continues
-  strength: 0.8053
-  confidence: high
-- slug: 2026-01-04-trump-renews-greenland-push-warns-cuba-and-colombia-after-venezuela-operation
-  relation: related
-  strength: 0.8037
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- military's capture of Venezuelan President Nicolás Maduro and his wife, Cilia Flores, at a military base in Caracas has drawn condemnation from governments across four continents, with critics warning Monday that the operation sets a dangerous precedent for the erosion of international law.
+- Maduro appeared in a New York federal court on narco-terrorism conspiracy charges as the United Nations Security Council convened an emergency session on the legality of the mission.
+- The operation is forcing a reckoning over whether U.S.
+- unilateral military action inside a sovereign nation — which the Trump administration justifies as lawful enforcement against drug traffickers — will weaken the post–World War II legal framework that has governed interstate conduct for more than 75 years.
+- President Donald Trump has insisted the capture was legal.
 
 THE HAGUE — The U.S. military's capture of Venezuelan President Nicolás Maduro and his wife, Cilia Flores, at a military base in Caracas has drawn condemnation from governments across four continents, with critics warning Monday that the operation sets a dangerous precedent for the erosion of international law. Maduro appeared in a New York federal court on narco-terrorism conspiracy charges as the United Nations Security Council convened an emergency session on the legality of the mission.
 
@@ -138,7 +114,7 @@ Analysts and world leaders from China to Mexico condemned the operation, AP repo
 
 ## Colombia put on notice
 
-Also Sunday, Trump warned Colombia and its left-wing president, Gustavo Petro. Trump told reporters that Colombia is "run by a sick man who likes cocaine and sells it to the United States." The White House sanctioned Petro, his family, and a cabinet member in October over allegations of involvement in the global drug trade. Colombia is considered the epicenter of global cocaine trafficking.
+Also Sunday, Trump warned Colombia and its left-wing president, Gustavo Petro. Trump told reporters that Colombia is run by a sick man who produces and sells cocaine to the United States. The White House sanctioned Petro, his family, and a cabinet member in October over allegations of involvement in the global drug trade. Colombia is considered the epicenter of global cocaine trafficking.
 
 ## Broader implications
 
@@ -160,192 +136,234 @@ Hungarian Prime Minister Viktor Orbán, a close Trump ally, offered a more dismi
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Nicolás Maduro; Cilia Flores
-**Predicate:** captured_at
-**Object:** military installation, Caracas, Venezuela (location)
-**Temporal:** 2026-01-03
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Nicolás Maduro; Cilia Flores
+- **Predicate:** captured_at
+- **Object:** military installation, Caracas, Venezuela (location)
+- **Temporal:** 2026-01-03
+- **Sources:** src_001
 
 > Maduro and his wife Cilia Flores were captured at a military installation in Caracas.
 
-### c_002 — alleged, single source
-**Subject entities:** Nicolás Maduro
-**Predicate:** charged_with
-**Object:** narco-terrorism conspiracy (legal_charge)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_002
+- **Hedge:** alleged
+- **Corroboration:** single_source
+- **Subject entities:** Nicolás Maduro
+- **Predicate:** charged_with
+- **Object:** narco-terrorism conspiracy (legal_charge)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > Maduro faces charges for alleged participation in a narco-terrorism conspiracy.
 
-### c_003 — attributed, single source
-**Subject entities:** Rosemary A. DiCarlo; UN Security Council
-**Predicate:** stated
-**Object:** UN Charter commitment required for international peace (statement)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Rosemary A. DiCarlo; UN Security Council
+- **Predicate:** stated
+- **Object:** UN Charter commitment required for international peace (statement)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > UN Under-Secretary-General Rosemary A. DiCarlo told the Security Council that the maintenance of international peace and security depends on the continued commitment of all member states to adhere to all provisions of the UN Charter.
 
-### c_004 — attributed, single source
-**Subject entities:** Donald Trump
-**Predicate:** claims
-**Object:** Maduro capture was legal (assertion)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** claims
+- **Object:** Maduro capture was legal (assertion)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > Trump insists capturing Maduro was legal.
 
-### c_005 — reported, primary document
-**Subject entities:** White House
-**Predicate:** declared
-**Object:** armed conflict with Venezuelan drug cartels; cartels designated unlawful combatants (policy_document)
-**Temporal:** 2025-10
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** White House
+- **Predicate:** declared
+- **Object:** armed conflict with Venezuelan drug cartels; cartels designated unlawful combatants (policy_document)
+- **Temporal:** 2025-10
+- **Sources:** src_001
 
 > A White House memo obtained by AP in October stated that drug cartels operating from Venezuela are unlawful combatants and that the US is in an armed conflict with them.
 
-### c_006 — attributed, single source
-**Subject entities:** Mike Waltz
-**Predicate:** described
-**Object:** surgical law enforcement operation (characterization)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Mike Waltz
+- **Predicate:** described
+- **Object:** surgical law enforcement operation (characterization)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > U.S. Ambassador to the UN Mike Waltz described the military action as a surgical law enforcement operation.
 
-### c_007 — confirmed, primary document
-**Subject entities:** Donald Trump
-**Predicate:** published
-**Object:** National Security Strategy identifying Western Hemisphere preeminence as key objective (policy_document)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Donald Trump
+- **Predicate:** published
+- **Object:** National Security Strategy identifying Western Hemisphere preeminence as key objective (policy_document)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > Trump's National Security Strategy, released last month, lists restoring American preeminence in the Western Hemisphere as a key objective of his second term.
 
-### c_008 — attributed, single source
-**Subject entities:** Jean-Noël Barrot
-**Predicate:** stated
-**Object:** capture violates non-use of force principle underlying international law (statement)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jean-Noël Barrot
+- **Predicate:** stated
+- **Object:** capture violates non-use of force principle underlying international law (statement)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > French Foreign Minister Jean-Noël Barrot said the capture goes against the principle of non-use of force, which is the basis of international law.
 
-### c_009 — attributed, single source
-**Subject entities:** Jean-Noël Barrot
-**Predicate:** warned
-**Object:** serious global security consequences from escalating violations by P5 members (warning)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jean-Noël Barrot
+- **Predicate:** warned
+- **Object:** serious global security consequences from escalating violations by P5 members (warning)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > Barrot warned that increasing violations of the non-use-of-force principle by permanent Security Council members will have serious consequences for global security and will spare no one.
 
-### c_010 — attributed, single source
-**Subject entities:** Vasily Nebenzya
-**Predicate:** stated
-**Object:** US return to era of anarchy (statement)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Vasily Nebenzya
+- **Predicate:** stated
+- **Object:** US return to era of anarchy (statement)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > Russian UN Ambassador Vasily Nebenzya said the Venezuela mission amounted to a return to the era of anarchy by the United States.
 
-### c_011 — attributed, single source
-**Subject entities:** Mao Ning
-**Predicate:** stated
-**Object:** US deliberately trampled Venezuela's sovereignty and security (statement)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Mao Ning
+- **Predicate:** stated
+- **Object:** US deliberately trampled Venezuela's sovereignty and security (statement)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > Chinese Foreign Ministry spokesperson Mao Ning said Tuesday that the United States had deliberately trampled on Venezuela's sovereignty and security.
 
-### c_012 — attributed, single source
-**Subject entities:** Donald Trump; Gustavo Petro
-**Predicate:** stated
-**Object:** Colombia run by sick man who likes and sells cocaine to US (statement)
-**Temporal:** 2026-01-04
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Gustavo Petro
+- **Predicate:** stated
+- **Object:** Colombia run by sick man who likes and sells cocaine to US (statement)
+- **Temporal:** 2026-01-04
+- **Sources:** src_001
 
 > Trump said Colombia is run by a sick man who likes cocaine and sells it to the United States, speaking to reporters on Sunday.
 
-### c_013 — attributed, single source
-**Subject entities:** Gustavo Petro; White House
-**Predicate:** sanctioned
-**Object:** sanctions over alleged drug trade involvement (government_action)
-**Temporal:** 2025-10
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Gustavo Petro; White House
+- **Predicate:** sanctioned
+- **Object:** sanctions over alleged drug trade involvement (government_action)
+- **Temporal:** 2025-10
+- **Sources:** src_001
 
 > The White House sanctioned Colombian President Gustavo Petro, his family, and a cabinet member in October over allegations of involvement in the global drug trade.
 
-### c_014 — attributed, single source
-**Subject entities:** Donald Trump
-**Predicate:** stated
-**Object:** Greenland strategically vital; Denmark unable to manage it (statement)
-**Temporal:** 2026-01-04
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** stated
+- **Object:** Greenland strategically vital; Denmark unable to manage it (statement)
+- **Temporal:** 2026-01-04
+- **Sources:** src_001
 
 > Trump said Greenland is strategically vital and that Denmark is unable to manage it, making the comments while flying back to Washington from Florida on Sunday.
 
-### c_015 — attributed, single source
-**Subject entities:** Mette Frederiksen
-**Predicate:** stated
-**Object:** Trump has no right to annex Greenland; Denmark provides broad NATO access (statement)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Mette Frederiksen
+- **Predicate:** stated
+- **Object:** Trump has no right to annex Greenland; Denmark provides broad NATO access (statement)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > Danish Prime Minister Mette Frederiksen said Trump has no right to annex Greenland and noted Denmark already provides the US broad access through existing security agreements.
 
-### c_016 — reported, single source
-**Subject entities:** China; Taiwan
-**Predicate:** conducted
-**Object:** two days of military maneuvers around Taiwan (military_action)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_016
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** China; Taiwan
+- **Predicate:** conducted
+- **Object:** two days of military maneuvers around Taiwan (military_action)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > China conducted two days of military maneuvers around Taiwan in response to a US arms sale package to Taipei.
 
-### c_017 — reported, single source
-**Subject entities:** Donald Trump; Iran
-**Predicate:** attacked
-**Object:** Iranian nuclear installations (military_action)
-**Temporal:** 2025-06
-**Source IDs:** src_001
+### c_017
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Iran
+- **Predicate:** attacked
+- **Object:** Iranian nuclear installations (military_action)
+- **Temporal:** 2025-06
+- **Sources:** src_001
 
 > Trump conducted military attacks against Iranian nuclear installations in June 2025.
 
-### c_018 — attributed, single source
-**Subject entities:** Donald Trump; Iran
-**Predicate:** warned
-**Object:** US will intervene if Iran violently kills peaceful protesters (threat)
-**Temporal:** 2026-01-02
-**Source IDs:** src_001
+### c_018
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Iran
+- **Predicate:** warned
+- **Object:** US will intervene if Iran violently kills peaceful protesters (threat)
+- **Temporal:** 2026-01-02
+- **Sources:** src_001
 
 > Trump warned Iran on Friday that if Tehran violently kills peaceful protesters, Washington will come to their rescue.
 
-### c_019 — reported, single source
-**Subject entities:** Iran
-**Predicate:** killed
-**Object:** at least 35 people (death_count)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_019
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Iran
+- **Predicate:** killed
+- **Object:** at least 35 people (death_count)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > Violence surrounding protests triggered by Iran's economic crisis killed at least 35 people, according to activists reporting Tuesday.
 
-### c_020 — attributed, single source
-**Subject entities:** Viktor Orbán
-**Predicate:** stated
-**Object:** international rules do not govern great-power decisions (statement)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_020
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Viktor Orbán
+- **Predicate:** stated
+- **Object:** international rules do not govern great-power decisions (statement)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > Hungarian Prime Minister Viktor Orbán said international rules do not govern the decisions of many great powers.
 
-### c_021 — attributed, single source
-**Subject entities:** Volodymyr Fesenko; Donald Trump; Vladimir Putin
-**Predicate:** stated
-**Object:** Trump's actions continue Putin's trend of undermining global order (expert_assessment)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_021
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Volodymyr Fesenko; Donald Trump; Vladimir Putin
+- **Predicate:** stated
+- **Object:** Trump's actions continue Putin's trend of undermining global order (expert_assessment)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > Kyiv-based analyst Volodymyr Fesenko, chairman of the Penta think tank, said Trump's actions have continued the trend of undermining global order established by Russian President Vladimir Putin.
 
@@ -354,10 +372,5 @@ Hungarian Prime Minister Viktor Orbán, a close Trump ally, offered a more dismi
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Mike Corder
 **Publication date:** 2026-01-06
-**Access date:** 2026-01-06
 **Title:** La captura de Maduro genera inquietud sobre el marco legal internacional
 **URL:** https://apnews.com/article/trump-maduro-venezuela-ley-onu-4a8ab8ba2d2b46920b0591d3779053ad
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

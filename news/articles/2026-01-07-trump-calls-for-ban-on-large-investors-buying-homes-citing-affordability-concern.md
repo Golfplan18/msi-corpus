@@ -15,35 +15,35 @@ primary_themes:
 - midterm elections
 - new construction shortage
 topic_tags:
-  - politics
-  - election
+- government policy
+- construction and property
+- economy, business and finance
+- society
 storyline_nexus:
-  - immigration-enforcement
+- housing-affordability-crisis
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship
-  intensity: 0.85
-- value: accountability_of_power
-  intensity: 0.65
-- value: human_life_and_dignity
-  intensity: 0.55
-framework_version: 1.1.0
-generation_timestamp: '2026-05-16T18:10:07Z'
+  intensity: 0.9
+- value: equality_fairness
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:42:31Z'
 source_cluster_id: cluster_ap_2026-01-06_trump-housing-plan-investors-davos-6ec9f
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 13
   hedges:
     appears: 0
-    alleged: 0
-    attributed: 8
-    reported: 2
-    contested: 0
     confirmed: 3
+    reported: 2
+    attributed: 8
+    alleged: 0
+    contested: 0
   corroboration:
     primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
@@ -51,34 +51,18 @@ claims:
     single_source: 11
     two_independent: 0
 sources:
-  count: 3
+  count: 1
   outlets:
   - Associated Press
-  - Federal Reserve Bank of St. Louis (FRED)
   outlet_classes:
-  - government_release
   - wire
   highest_reliability_tier: 1
   has_originating: true
   has_primary_document: false
-figures:
-- source: fred
-  series_id: MORTGAGE30US
-  transformation: raw
-  as_of: '2026-01-07'
-  caption: The 30-year fixed mortgage rate stood at 6.15% in January 2026, keeping monthly loan payments elevated for prospective buyers and compounding the affordability pressures that Trump's housing proposals aim to address.
-- source: fred
-  series_id: MSPUS
-  transformation: raw
-  as_of: '2026-01-07'
-  caption: The national median home sale price reached $410,800 in early January 2026, a level that has outpaced income growth and kept first-time buyers on the sidelines despite the political pressure both parties are feeling to act.
 figures_aggregate:
-  count: 2
-  series_ids:
-  - MORTGAGE30US
-  - MSPUS
-  sources:
-  - fred
+  count: 0
+  series_ids: []
+  sources: []
 image:
   url: /articles/2026-01-07-trump-calls-for-ban-on-large-investors-buying-homes-citing-affordability-concern.png
   alt: 'Illustration accompanying article: Trump calls for ban on large investors buying homes, citing affordability'
@@ -86,6 +70,14 @@ image:
 cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- **Trump says he wants to ban large investors from buying houses** — opening narrative arc or primary actor action.
+- - The Goldman Sachs Group, Inc.
+- - Federal Reserve Bank of St. Louis (FRED)
 
 The proposal targets investors that analysts say control a modest slice of the market, leaving untouched the structural factors economists most commonly identify as driving unaffordability: a national shortage of new construction and home prices that have climbed faster than incomes.
 
@@ -109,120 +101,146 @@ Warren said Wednesday that Trump's focus on institutional investors obscures a m
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Donald Trump
-**Predicate:** proposed
-**Object:** ban on large institutional investors buying houses (policy_proposal)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** proposed
+- **Object:** ban on large institutional investors buying houses (policy_proposal)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > President Donald Trump said Wednesday that he wants to block large institutional investors from buying houses.
 
-### c_002 — attributed, single source
-**Subject entities:** Donald Trump
-**Predicate:** called_on
-**Object:** Congress to codify the ban (legislative_request)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** called_on
+- **Object:** Congress to codify the ban (legislative_request)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Trump called on Congress to codify the ban in a social media post, saying 'People live in homes, not corporations.'
 
-### c_003 — attributed, single source
-**Subject entities:** institutional investors; American Enterprise Institute
-**Predicate:** account_for
-**Object:** 1% (market_share_percentage)
-**Temporal:** 2025-08-01
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** institutional investors; American Enterprise Institute
+- **Predicate:** account_for
+- **Object:** 1% (market_share_percentage)
+- **Temporal:** 2025-08-01
+- **Sources:** src_001
 
 > Institutional investors, defined as owning 100 or more properties, account for just 1% of total single-family housing stock nationally, according to an August 2025 analysis by researchers at the American Enterprise Institute.
 
-### c_004 — attributed, single source
-**Subject entities:** institutional investors
-**Predicate:** own_share_of_homes_in
-**Object:** {'Atlanta': '4.2%', 'Dallas': '2.6%', 'Houston': '2.2%'} (regional_market_share)
-**Temporal:** 2025-08-01
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** institutional investors
+- **Predicate:** own_share_of_homes_in
+- **Object:** {'Atlanta': '4.2%', 'Dallas': '2.6%', 'Houston': '2.2%'} (regional_market_share)
+- **Temporal:** 2025-08-01
+- **Sources:** src_001
 
 > Institutional investor ownership reaches 4.2% in Atlanta, 2.6% in Dallas, and 2.2% in Houston, per the AEI analysis.
 
-### c_005 — attributed, single source
-**Subject entities:** institutional investors; American Enterprise Institute
-**Predicate:** found
-**Object:** concentration in lower- and middle-income communities without neighborhood domination (research_finding)
-**Temporal:** 2025-08-01
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** institutional investors; American Enterprise Institute
+- **Predicate:** found
+- **Object:** concentration in lower- and middle-income communities without neighborhood domination (research_finding)
+- **Temporal:** 2025-08-01
+- **Sources:** src_001
 
 > The AEI analysis found institutional investors are more concentrated in lower- and middle-income communities but do not tend to dominate neighborhoods even where most present.
 
-### c_006 — attributed, single source
-**Subject entities:** The Goldman Sachs Group, Inc.
-**Predicate:** estimated
-**Object:** 3 million to 4 million additional homes needed (housing_shortage_estimate)
-**Temporal:** 2025-10-01
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** The Goldman Sachs Group, Inc.
+- **Predicate:** estimated
+- **Object:** 3 million to 4 million additional homes needed (housing_shortage_estimate)
+- **Temporal:** 2025-10-01
+- **Sources:** src_001
 
 > Goldman Sachs estimated in October that 3 million to 4 million additional homes beyond normal construction levels would need to be built to relieve cost pressures.
 
-### c_007 — attributed, single source
-**Subject entities:** Donald Trump
-**Predicate:** pledged
-**Object:** aggressive housing reform plans (policy_pledge)
-**Temporal:** 2025-12-01
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** pledged
+- **Object:** aggressive housing reform plans (policy_pledge)
+- **Temporal:** 2025-12-01
+- **Sources:** src_001
 
 > Trump last month pledged in a prime-time address to roll out 'some of the most aggressive housing reform plans in American history' in 2026.
 
-### c_008 — reported, single source
-**Subject entities:** Donald Trump
-**Predicate:** proposed
-**Object:** 50-year mortgage extension (policy_proposal)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** proposed
+- **Object:** 50-year mortgage extension (policy_proposal)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Trump has floated extending the 30-year mortgage to 50 years to lower monthly payments, a proposal critics say would reduce borrowers' ability to build home equity.
 
-### c_009 — confirmed, single source
-**Subject entities:** U.S. Senate; Elizabeth Warren
-**Predicate:** passed
-**Object:** bipartisan housing supply zoning bill (legislation)
-**Temporal:** 2025-10-01
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Senate; Elizabeth Warren
+- **Predicate:** passed
+- **Object:** bipartisan housing supply zoning bill (legislation)
+- **Temporal:** 2025-10-01
+- **Sources:** src_001
 
 > The Senate in October passed a bipartisan bill sponsored by Sen. Elizabeth Warren that would create incentives for local governments to streamline zoning regulations to increase housing supply.
 
-### c_010 — reported, single source
-**Subject entities:** U.S. House of Representatives
-**Predicate:** stalled
-**Object:** Senate zoning supply bill (legislation)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** U.S. House of Representatives
+- **Predicate:** stalled
+- **Object:** Senate zoning supply bill (legislation)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > The Senate-passed zoning bill has been held up in the Republican-majority House.
 
-### c_011 — attributed, single source
-**Subject entities:** Elizabeth Warren
-**Predicate:** said
-**Object:** Compass-Anywhere merger could raise housing prices (policy_critique)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Elizabeth Warren
+- **Predicate:** said
+- **Object:** Compass-Anywhere merger could raise housing prices (policy_critique)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Sen. Elizabeth Warren said Wednesday that the Trump administration could cause housing prices to rise by allowing real estate companies Compass and Anywhere to merge.
 
-### c_012 — confirmed, primary document
-**Subject entities:** 30-year fixed mortgage rate
-**Predicate:** stood_at
-**Object:** 6.15 (interest_rate_percentage)
-**Temporal:** 2026-01-07
-**Source IDs:** src_002
+### c_012
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** 30-year fixed mortgage rate
+- **Predicate:** stood_at
+- **Object:** 6.15 (interest_rate_percentage)
+- **Temporal:** 2026-01-07
+- **Sources:** src_002
 
 > The 30-year fixed mortgage rate stood at 6.15% as of January 7, 2026.
 
-### c_013 — confirmed, primary document
-**Subject entities:** median home sale price
-**Predicate:** was
-**Object:** 410800 (dollar_amount)
-**Temporal:** 2026-01-07
-**Source IDs:** src_003
+### c_013
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** median home sale price
+- **Predicate:** was
+- **Object:** 410800 (dollar_amount)
+- **Temporal:** 2026-01-07
+- **Sources:** src_003
 
 > The national median sales price of homes sold was $410,800 as of January 7, 2026.
 
@@ -231,22 +249,5 @@ Warren said Wednesday that Trump's focus on institutional investors obscures a m
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Josh Boak
 **Publication date:** 2026-01-07
-**Access date:** 2026-01-07
 **Title:** Trump says he wants to ban large investors from buying houses
 **URL:** https://apnews.com/article/trump-housing-plan-investors-davos-6ec9f96c03d16c0714a6804c5f703db2
-
-### src_002 — Federal Reserve Bank of St. Louis (FRED), government_release, Tier 1, originating
-**Publication date:** 2026-01-07
-**Access date:** 2026-01-07
-**Title:** 30-Year Fixed Mortgage Rate
-**URL:** https://fred.stlouisfed.org/series/MORTGAGE30US
-
-### src_003 — Federal Reserve Bank of St. Louis (FRED), government_release, Tier 1, originating
-**Publication date:** 2026-01-07
-**Access date:** 2026-01-07
-**Title:** Median Sales Price of Houses Sold
-**URL:** https://fred.stlouisfed.org/series/MSPUS
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

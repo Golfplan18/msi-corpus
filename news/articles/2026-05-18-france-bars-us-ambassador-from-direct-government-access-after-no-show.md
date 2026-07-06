@@ -18,7 +18,8 @@ topic_tags:
   - politics
   - "international relations"
   - government
-storyline_nexus: []
+storyline_nexus:
+- trump-foreign-policy-reshaping
 geographic_location: France / United States
 floor_values_engaged:
 - value: accountability_of_power
@@ -173,8 +174,6 @@ The Foreign Affairs Ministry, however, left the door open for reconciliation. "I
 
 This was not Kushner's first diplomatic confrontation with France. In August, he was summoned to the Foreign Affairs Ministry over a letter he sent to President Emmanuel Macron asserting that France was not doing enough to combat antisemitism. France's foreign officials met with a representative of the ambassador on that occasion as well.
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework. [Read our methodology](/methodology).
-
 ## Atomic claims
 
 ### c_001 — attributed, single source
@@ -256,7 +255,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-05-18
 **Title:** French minister demands limited access for US ambassador after no-show at meeting
 **URL:** https://apnews.com/article/france-us-ambassador-kushner-far-right-0e10e3ec131969b1dea25a61cf0b00bc
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

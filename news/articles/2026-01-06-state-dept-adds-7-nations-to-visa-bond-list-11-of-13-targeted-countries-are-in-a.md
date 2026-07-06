@@ -21,7 +21,8 @@ primary_themes:
 topic_tags:
   - politics
   - sport
-storyline_nexus: []
+storyline_nexus:
+- trump-foreign-policy-reshaping
 geographic_location: Washington, D.C., United States
 floor_values_engaged:
 - value: informed_citizenship
@@ -108,84 +109,102 @@ The bond expansion is one component of a broader package of entry restrictions t
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Trump administration; U.S. Department of State
-**Predicate:** expanded_visa_bond_list
-**Object:** Bhutan, Botswana, Central African Republic, Guinea, Guinea-Bissau, Namibia, Turkmenistan (country_list)
-**Temporal:** 2026-01-01
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Trump administration; U.S. Department of State
+- **Predicate:** expanded_visa_bond_list
+- **Object:** Bhutan, Botswana, Central African Republic, Guinea, Guinea-Bissau, Namibia, Turkmenistan (country_list)
+- **Temporal:** 2026-01-01
+- **Sources:** src_001
 
 > The Trump administration added Bhutan, Botswana, the Central African Republic, Guinea, Guinea-Bissau, Namibia and Turkmenistan to the visa bond list, with designations taking effect Jan. 1.
 
-### c_002 — attributed, single source
-**Subject entities:** visa bond list
-**Predicate:** total_countries_on_list
-**Object:** 13 (count)
-**Temporal:** 2026-01-01
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** visa bond list
+- **Predicate:** total_countries_on_list
+- **Object:** 13 (count)
+- **Temporal:** 2026-01-01
+- **Sources:** src_001
 
 > Thirteen countries are now on the visa bond list, all but two of them in Africa.
 
-### c_003 — confirmed, primary document
-**Subject entities:** U.S. Department of State
-**Predicate:** posted_notice
-**Object:** travel.state.gov (government_website)
-**Temporal:** 2026-01-01
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Department of State
+- **Predicate:** posted_notice
+- **Object:** travel.state.gov (government_website)
+- **Temporal:** 2026-01-01
+- **Sources:** src_001
 
 > The State Department added the new countries quietly; a notice appeared on the travel.state.gov website.
 
-### c_004 — confirmed, single source
-**Subject entities:** visa bond requirement
-**Predicate:** bond_range
-**Object:** $5,000–$15,000 (dollar_range)
-**Temporal:** 2026-01-01
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** visa bond requirement
+- **Predicate:** bond_range
+- **Object:** $5,000–$15,000 (dollar_range)
+- **Temporal:** 2026-01-01
+- **Sources:** src_001
 
 > Bonds required to apply for a U.S. visa under the requirement can range from $5,000 to $15,000.
 
-### c_005 — confirmed, single source
-**Subject entities:** visa bond requirement
-**Predicate:** bond_policy_term
-**Object:** no guarantee of visa approval (policy_term)
-**Temporal:** 2026-01-01
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** visa bond requirement
+- **Predicate:** bond_policy_term
+- **Object:** no guarantee of visa approval (policy_term)
+- **Temporal:** 2026-01-01
+- **Sources:** src_001
 
 > Payment of the bond does not guarantee a visa will be granted.
 
-### c_006 — confirmed, single source
-**Subject entities:** visa bond requirement
-**Predicate:** bond_refund_terms
-**Object:** refunded on denial or demonstrated compliance (policy_term)
-**Temporal:** 2026-01-01
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** visa bond requirement
+- **Predicate:** bond_refund_terms
+- **Object:** refunded on denial or demonstrated compliance (policy_term)
+- **Temporal:** 2026-01-01
+- **Sources:** src_001
 
 > The bond amount will be refunded if the visa is denied or when the visa holder demonstrates compliance with the terms of the visa.
 
-### c_007 — attributed, single source
-**Subject entities:** U.S. officials
-**Predicate:** stated_rationale
-**Object:** bonds prevent visa overstays (official_statement)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. officials
+- **Predicate:** stated_rationale
+- **Object:** bonds prevent visa overstays (official_statement)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > U.S. officials have defended the bonds as effective in ensuring that citizens of targeted countries do not overstay their visas.
 
-### c_008 — attributed, single source
-**Subject entities:** Mauritania; Sao Tome and Principe; Tanzania; Gambia; Malawi; Zambia
-**Predicate:** added_to_bond_list
-**Object:** August–October 2025 (date_range)
-**Temporal:** 2025-10-31
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Mauritania; Sao Tome and Principe; Tanzania; Gambia; Malawi; Zambia
+- **Predicate:** added_to_bond_list
+- **Object:** August–October 2025 (date_range)
+- **Temporal:** 2025-10-31
+- **Sources:** src_001
 
 > Mauritania, Sao Tome and Principe, Tanzania, Gambia, Malawi and Zambia were placed on the bond list in August and October 2025.
 
-### c_009 — attributed, single source
-**Subject entities:** Trump administration
-**Predicate:** imposed_additional_entry_requirements
-**Object:** in-person interviews, social media histories, travel and living-arrangement records (policy_list)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Trump administration
+- **Predicate:** imposed_additional_entry_requirements
+- **Object:** in-person interviews, social media histories, travel and living-arrangement records (policy_list)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > The Trump administration has required citizens of all visa-required countries to sit for in-person visa interviews and disclose years of social media histories and detailed records of their own and their families' prior travel and living arrangements.
 
@@ -197,7 +216,3 @@ The bond expansion is one component of a broader package of entry restrictions t
 **Access date:** 2026-01-06
 **Title:** US expands list whose citizens must pay bond to seek a visa
 **URL:** https://apnews.com/article/us-visa-restrictions-trump-bond-travel-7211e43ef4eb84144717c3331ab89e8e
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

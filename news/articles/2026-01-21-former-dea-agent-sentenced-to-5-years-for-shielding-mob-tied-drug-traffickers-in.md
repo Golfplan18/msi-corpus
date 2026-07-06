@@ -18,42 +18,42 @@ primary_themes:
 - federal sentencing
 - DEA misconduct
 topic_tags:
-  - crime
-  - "crime, law and justice"
-  - judiciary
-  - "law enforcement"
-storyline_nexus: []
-geographic_location: Buffalo, New York, United States
+- crime
+- corruption
+- law enforcement
+- prosecution
+- trial
+storyline_nexus:
+- trump-judicial-challenges
+geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
   intensity: 0.9
-- value: informed_citizenship
-  intensity: 0.75
 - value: truthfulness
-  intensity: 0.7
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:00:58Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:55:47Z'
 source_cluster_id: cluster_ap_2026-01-21_dea-bongiovanni-corrupcion-mafia-juicio-
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 14
   hedges:
+    contested: 0
+    attributed: 5
     appears: 0
     alleged: 0
-    attributed: 5
     reported: 3
-    contested: 0
     confirmed: 6
   corroboration:
     primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 5
     single_source: 9
     two_independent: 0
+    one_originating_plus_primary_document: 0
+    primary_document: 5
 sources:
   count: 1
   outlets:
@@ -70,6 +70,16 @@ figures_aggregate:
 cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- A federal judge sentenced Joseph Bongiovanni, a former Drug Enforcement Administration agent who spent nearly two decades in law enforcement, to five years in prison Wednesday for using his position t…
+- Vilardo acknowledged at sentencing that two prolonged trials had produced entirely opposing accounts of Bongiovanni and the relevant facts. The judge noted the former agent's career record — commendat…
+- Bongiovanni told the court he had always maintained his innocence and had loved the work. Defense attorney Parker MacKay said after the hearing that the government's requested 15-year sentence bore no…
+- Prosecutors presented a starkly different account. Assistant U.S. Attorney Joseph Tripi told the judge that Bongiovanni's conduct had shaken law enforcement and the Buffalo community to its foundation…
+- The alleged corruption involved both calculated concealment and deliberate inaction, prosecutors said. They identified 2008 as a turning point when Bongiovanni could have acted against traffickers he …
 
 A federal judge sentenced Joseph Bongiovanni, a former Drug Enforcement Administration agent who spent nearly two decades in law enforcement, to five years in prison Wednesday for using his position to shield childhood friends who ran a drug trafficking network in western New York.
 
@@ -103,121 +113,149 @@ The DEA did not respond to a request for comment on the Bongiovanni sentence.
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Joseph Bongiovanni
-**Predicate:** sentenced_to
-**Object:** five years federal prison (sentence)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Joseph Bongiovanni
+- **Predicate:** sentenced_to
+- **Object:** five years federal prison (sentence)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > Joseph Bongiovanni was sentenced to five years in federal prison on January 21, 2026.
 
-### c_002 — confirmed, primary document
-**Subject entities:** Lawrence J. Vilardo
-**Predicate:** imposed_sentence
-**Object:** five years federal prison on Bongiovanni (judicial_action)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Lawrence J. Vilardo
+- **Predicate:** imposed_sentence
+- **Object:** five years federal prison on Bongiovanni (judicial_action)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > U.S. District Judge Lawrence J. Vilardo imposed the sentence in Buffalo, New York.
 
-### c_003 — confirmed, primary document
-**Subject entities:** Joseph Bongiovanni
-**Predicate:** convicted_of
-**Object:** obstruction of justice, conspiracy to defraud US, conspiracy to distribute controlled substances, false statements to law enforcement (criminal_counts)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Joseph Bongiovanni
+- **Predicate:** convicted_of
+- **Object:** obstruction of justice, conspiracy to defraud US, conspiracy to distribute controlled substances, false statements to law enforcement (criminal_counts)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > A jury convicted Bongiovanni in 2024 on four counts: obstruction of justice, conspiracy to defraud the United States, conspiracy to distribute controlled substances, and false statements to law enforcement.
 
-### c_004 — confirmed, primary document
-**Subject entities:** Joseph Bongiovanni
-**Predicate:** acquitted_of
-**Object:** accepting $250,000 in mob bribes and other more serious charges (criminal_charges_acquitted)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Joseph Bongiovanni
+- **Predicate:** acquitted_of
+- **Object:** accepting $250,000 in mob bribes and other more serious charges (criminal_charges_acquitted)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > The jury acquitted Bongiovanni of more serious charges, including an allegation that he accepted $250,000 in organized crime bribes.
 
-### c_005 — attributed, single source
-**Subject entities:** federal prosecutors
-**Predicate:** sought_sentence
-**Object:** 15 years (sentence_request)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** federal prosecutors
+- **Predicate:** sought_sentence
+- **Object:** 15 years (sentence_request)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > Prosecutors sought a 15-year sentence for Bongiovanni.
 
-### c_006 — attributed, single source
-**Subject entities:** Joseph Bongiovanni
-**Predicate:** worked_as
-**Object:** DEA agent for nearly two decades (employment)
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Joseph Bongiovanni
+- **Predicate:** worked_as
+- **Object:** DEA agent for nearly two decades (employment)
+- **Sources:** src_001
 
 > Bongiovanni served as a DEA agent for nearly two decades.
 
-### c_007 — attributed, single source
-**Subject entities:** Joseph Bongiovanni
-**Predicate:** allegedly_protected
-**Object:** childhood friends who became drug traffickers, shielding them for 11 years (alleged_criminal_conduct)
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Joseph Bongiovanni
+- **Predicate:** allegedly_protected
+- **Object:** childhood friends who became drug traffickers, shielding them for 11 years (alleged_criminal_conduct)
+- **Sources:** src_001
 
 > Prosecutors alleged Bongiovanni used his DEA position to protect childhood friends who became drug traffickers in Buffalo, shielding their operation for 11 years.
 
-### c_008 — reported, single source
-**Subject entities:** Drug Enforcement Administration
-**Predicate:** agents_charged_federally
-**Object:** at least 17 agents over past decade (institutional_pattern)
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Drug Enforcement Administration
+- **Predicate:** agents_charged_federally
+- **Object:** at least 17 agents over past decade (institutional_pattern)
+- **Sources:** src_001
 
 > At least 17 DEA agents have faced federal charges in the past decade in a series of corruption scandals.
 
-### c_009 — confirmed, primary document
-**Subject entities:** Peter Gerace Jr.; Pharoah's Gentlemen's Club
-**Predicate:** convicted_of
-**Object:** conspiracy to commit sex trafficking and paying bribes to Bongiovanni (criminal_conviction)
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Peter Gerace Jr.; Pharoah's Gentlemen's Club
+- **Predicate:** convicted_of
+- **Object:** conspiracy to commit sex trafficking and paying bribes to Bongiovanni (criminal_conviction)
+- **Sources:** src_001
 
 > Peter Gerace Jr., owner of Pharoah's Gentlemen's Club near Buffalo and a childhood friend of Bongiovanni, was convicted in a separate trial of conspiracy to commit sex trafficking and paying bribes to Bongiovanni.
 
-### c_010 — attributed, single source
-**Subject entities:** Joseph Bongiovanni
-**Predicate:** allegedly_directed
-**Object:** colleagues to deprioritize Italian suspects and focus on Black and Hispanic individuals (alleged_discriminatory_conduct)
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Joseph Bongiovanni
+- **Predicate:** allegedly_directed
+- **Object:** colleagues to deprioritize Italian suspects and focus on Black and Hispanic individuals (alleged_discriminatory_conduct)
+- **Sources:** src_001
 
 > Prosecutors alleged Bongiovanni directed colleagues to spend less time investigating Italian suspects and focus instead on Black and Hispanic individuals.
 
-### c_011 — reported, single source
-**Predicate:** died_by_suicide
-**Object:** unnamed judge connected to sex trafficking case, after FBI searched his home (death)
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Predicate:** died_by_suicide
+- **Object:** unnamed judge connected to sex trafficking case, after FBI searched his home (death)
+- **Sources:** src_001
 
 > A judge connected to the sex trafficking investigation died by suicide after the FBI searched his home.
 
-### c_012 — attributed, single source
-**Subject entities:** Joseph Bongiovanni
-**Predicate:** failed_to_act
-**Object:** against known traffickers at 2008 inflection point; operation later expanded to California, Vancouver, New York City (alleged_inaction)
-**Temporal:** 2008
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Joseph Bongiovanni
+- **Predicate:** failed_to_act
+- **Object:** against known traffickers at 2008 inflection point; operation later expanded to California, Vancouver, New York City (alleged_inaction)
+- **Temporal:** 2008
+- **Sources:** src_001
 
 > Prosecutors identified 2008 as a key inflection point when Bongiovanni could have acted against traffickers he knew, whose operation later expanded to California, Vancouver, and New York City.
 
-### c_013 — confirmed, single source
-**Subject entities:** José Irizarry
-**Predicate:** serving_sentence
-**Object:** 12-year federal sentence for laundering money for Colombian drug cartels (criminal_sentence)
-**Source IDs:** src_001
+### c_013
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** José Irizarry
+- **Predicate:** serving_sentence
+- **Object:** 12-year federal sentence for laundering money for Colombian drug cartels (criminal_sentence)
+- **Sources:** src_001
 
 > José Irizarry, a former DEA agent, is serving a 12-year federal sentence after pleading guilty to laundering money for Colombian drug cartels.
 
-### c_014 — reported, single source
-**Subject entities:** Drug Enforcement Administration
-**Predicate:** charged
-**Object:** former DEA agent with laundering millions and procuring military-grade weapons and explosives for Mexican cartel (criminal_charges)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_014
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Drug Enforcement Administration
+- **Predicate:** charged
+- **Object:** former DEA agent with laundering millions and procuring military-grade weapons and explosives for Mexican cartel (criminal_charges)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > Federal prosecutors last month charged another former DEA agent with conspiring to launder millions of dollars and procure military-grade weapons and explosives for a Mexican drug cartel.
 
@@ -226,10 +264,5 @@ The DEA did not respond to a request for comment on the Bongiovanni sentence.
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Jim Mustian
 **Publication date:** 2026-01-21
-**Access date:** 2026-01-21
 **Title:** Exagente de la DEA es sentenciado a 5 años en prisión por proteger a amigos narcotraficantes
 **URL:** https://apnews.com/article/dea-bongiovanni-corrupcion-mafia-juicio-buffalo-909dfb3de23f74cd6a80aa7b276f6857
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

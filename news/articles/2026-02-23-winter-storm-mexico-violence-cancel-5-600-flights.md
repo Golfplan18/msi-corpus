@@ -14,47 +14,43 @@ primary_themes:
 - Mexico cartel violence
 - Government shutdown impact
 topic_tags:
-  - weather
-  - "weather warning"
-  - politics
-  - "government policy"
-  - "science and technology"
-  - "artificial intelligence"
+- weather
+- natural disaster
+- transport
+- travel
 storyline_nexus:
-  - mexico-cartel-violence
-geographic_location: United States (Northeast); Mexico (Jalisco state)
+- mexico-cartel-violence
+geographic_location: United States
 floor_values_engaged:
-- value: human_life_and_dignity
-  intensity: 0.7
 - value: truthfulness
   intensity: 0.9
-- value: accountability_of_power
-  intensity: 0.5
 - value: informed_citizenship
-  intensity: 0.8
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18'
+  intensity: 0.9
+- value: human_life_and_dignity
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:38:24Z'
 source_cluster_id: cluster_ap_2026-02-24_winter-storm-flight-cancellations-us-tra
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 15
   hedges:
-    appears: 0
     alleged: 0
-    attributed: 5
-    reported: 1
     contested: 0
+    reported: 1
+    appears: 0
+    attributed: 5
     confirmed: 9
   corroboration:
-    primary_plus_secondary: 1
-    one_originating_plus_primary_document: 0
     primary_document: 12
     single_source: 2
+    primary_plus_secondary: 1
     two_independent: 0
+    one_originating_plus_primary_document: 0
 sources:
   count: 1
   outlets:
@@ -68,29 +64,20 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-07-winter-storm-strands-more-than-1-000-at-amsterdam-s-schiphol-grounds-800-flights
-  relation: related
-  strength: 0.9082
-  confidence: medium
-- slug: 2026-01-06-snow-and-ice-kill-at-least-6-across-europe-grounding-600-schiphol-flights
-  relation: related
-  strength: 0.9066
-  confidence: medium
-- slug: 2026-01-13-freezing-rain-halts-flights-at-vienna-budapest-prague-and-bratislava-airports
-  relation: related
-  strength: 0.8645
-  confidence: medium
-- slug: 2026-01-11-severe-cold-strands-thousands-of-tourists-at-kittil-airport-as-europe-deep-freez
-  relation: related
-  strength: 0.8566
-  confidence: medium
-- slug: 2026-01-07-ice-and-snow-close-schools-across-new-england-as-more-storms-approach
-  relation: related
-  strength: 0.8323
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- US weather, Mexico security concerns and halt of Global Entry take a toll on air travel
+- US weather, Mexico security concerns and halt of Global Entry take a toll on air travel
+- The winter storm that pounded the Northeast brought heavy snow, strong winds and blizzard warnings that slowed or halted transportation networks across the region.
+- Air traffic slowed dramatically. More than 5,600 flights into, out of or within the U.S. were canceled, according to flight-tracking service FlightAware. Over 3,000 others were delayed.
+- More than 1,900 U.S. flights already were canceled for Tuesday.
+- Benjamin Lundell and Thomas Mehari were among the travelers who got stuck in New York on Monday. The network consultants are on a business trip from Sweden and had their flight to Texas canceled.
 
 A severe winter snowstorm across the northeastern United States, violence following a powerful cartel leader's killing in Mexico, and a partial government shutdown converged Monday to disrupt air travel, with airlines canceling more than 5,600 flights. The overlapping crises cascaded through ground transportation networks and complicated border operations.
 
@@ -134,137 +121,167 @@ Airlines including JetBlue, Delta, American, United, Southwest, Alaska Airlines,
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** U.S. airlines; U.S. flights
-**Predicate:** canceled
-**Object:** 5,600+ (quantity)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. airlines; U.S. flights
+- **Predicate:** canceled
+- **Object:** 5,600+ (quantity)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > More than 5,600 flights into, out of, or within the U.S. were canceled on Monday, Feb. 23.
 
-### c_002 — confirmed, primary document
-**Subject entities:** U.S. flights
-**Predicate:** delayed
-**Object:** 3,000+ (quantity)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. flights
+- **Predicate:** delayed
+- **Object:** 3,000+ (quantity)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > Over 3,000 flights were delayed on Monday.
 
-### c_003 — attributed, primary document
-**Subject entities:** JFK; LaGuardia; Boston Logan; Newark; Philadelphia; Washington Reagan
-**Predicate:** had_highest_cancellations
-**Object:** East Coast major hubs (location_set)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** JFK; LaGuardia; Boston Logan; Newark; Philadelphia; Washington Reagan
+- **Predicate:** had_highest_cancellations
+- **Object:** East Coast major hubs (location_set)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > JFK and LaGuardia airports reported the highest numbers of cancellations on Monday, followed by airports in Boston, Newark, Philadelphia and Washington, D.C.
 
-### c_004 — attributed, primary document
-**Subject entities:** National Weather Service
-**Predicate:** described
-**Object:** extremely treacherous; nearly impossible (assessment)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** National Weather Service
+- **Predicate:** described
+- **Object:** extremely treacherous; nearly impossible (assessment)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > The National Weather Service said travel conditions were extremely treacherous and nearly impossible in areas hit hardest by the storm.
 
-### c_005 — confirmed, primary plus secondary
-**Subject entities:** Nemesio Oseguera Cervantes; Mexico
-**Predicate:** killed
-**Object:** Sunday, Feb. 22, 2026, Jalisco state (death_event)
-**Temporal:** 2026-02-22
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** Nemesio Oseguera Cervantes; Mexico
+- **Predicate:** killed
+- **Object:** Sunday, Feb. 22, 2026, Jalisco state (death_event)
+- **Temporal:** 2026-02-22
+- **Sources:** src_001
 
 > Nemesio Oseguera Cervantes, Mexico's most powerful cartel leader, was killed on Sunday in Jalisco state.
 
-### c_006 — reported, single source
-**Subject entities:** cartel factions; Mexico
-**Predicate:** conducted_retaliatory_attacks
-**Object:** multiple incidents in Jalisco state (security_incident)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** cartel factions; Mexico
+- **Predicate:** conducted_retaliatory_attacks
+- **Object:** multiple incidents in Jalisco state (security_incident)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > Retaliatory attacks have occurred in Mexico since Oseguera Cervantes's death.
 
-### c_007 — confirmed, primary document
-**Subject entities:** U.S. State Department
-**Predicate:** issued_travel_advisory
-**Object:** shelter in place; avoid non-essential travel (government_guidance)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. State Department
+- **Predicate:** issued_travel_advisory
+- **Object:** shelter in place; avoid non-essential travel (government_guidance)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > The U.S. State Department advised American citizens in parts of Jalisco and other states to shelter in place and avoid non-essential travel.
 
-### c_008 — confirmed, primary document
-**Subject entities:** AeroMexico; Delta; United; American Airlines; Air Canada
-**Predicate:** canceled_or_reduced_service
-**Object:** flights to Puerto Vallarta and Guadalajara (flight_route)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** AeroMexico; Delta; United; American Airlines; Air Canada
+- **Predicate:** canceled_or_reduced_service
+- **Object:** flights to Puerto Vallarta and Guadalajara (flight_route)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > Airlines including AeroMexico, Delta, United, American Airlines and Air Canada canceled or scaled back flights to Puerto Vallarta and Guadalajara.
 
-### c_009 — confirmed, primary document
-**Subject entities:** Department of Homeland Security
-**Predicate:** suspended
-**Object:** Global Entry program (government_program)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Department of Homeland Security
+- **Predicate:** suspended
+- **Object:** Global Entry program (government_program)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > The Department of Homeland Security suspended the Global Entry program over the weekend due to a partial government shutdown that began Feb. 14.
 
-### c_010 — confirmed, primary document
-**Subject entities:** U.S. flights
-**Predicate:** canceled
-**Object:** 1,900+ (quantity)
-**Temporal:** 2026-02-24
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. flights
+- **Predicate:** canceled
+- **Object:** 1,900+ (quantity)
+- **Temporal:** 2026-02-24
+- **Sources:** src_001
 
 > More than 1,900 U.S. flights were already canceled for Tuesday, Feb. 24.
 
-### c_011 — attributed, primary document
-**Subject entities:** Michael McCormick
-**Predicate:** said
-**Object:** aircraft positioning difficulties will cause cascading cancellations (expert_assessment)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Michael McCormick
+- **Predicate:** said
+- **Object:** aircraft positioning difficulties will cause cascading cancellations (expert_assessment)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > Michael McCormick, an associate professor of air traffic management at Embry-Riddle Aeronautical University, said the storm's wide reach had impacted major hubs and made aircraft positioning difficult.
 
-### c_012 — confirmed, primary document
-**Subject entities:** Benjamin Lundell; Thomas Mehari
-**Predicate:** stranded_by_cancellation
-**Object:** New York; flight to Texas canceled (disruption_event)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_012
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Benjamin Lundell; Thomas Mehari
+- **Predicate:** stranded_by_cancellation
+- **Object:** New York; flight to Texas canceled (disruption_event)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > Benjamin Lundell and Thomas Mehari, network consultants from Sweden, had their flight to Texas canceled while in New York on Monday.
 
-### c_013 — attributed, primary document
-**Subject entities:** Steve Perkins
-**Predicate:** stranded_by_cancellation
-**Object:** Puerto Vallarta; flight home canceled (disruption_event)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Steve Perkins
+- **Predicate:** stranded_by_cancellation
+- **Object:** Puerto Vallarta; flight home canceled (disruption_event)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > Steve Perkins, an Oklahoma IT consultant, said he and his wife were stranded in Puerto Vallarta after their Monday return flight was canceled.
 
-### c_014 — attributed, single source
-**Subject entities:** Steve Perkins
-**Predicate:** witnessed
-**Object:** explosion and black smoke downtown (security_incident)
-**Temporal:** 2026-02-22
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Steve Perkins
+- **Predicate:** witnessed
+- **Object:** explosion and black smoke downtown (security_incident)
+- **Temporal:** 2026-02-22
+- **Sources:** src_001
 
 > Perkins said he and his wife heard an explosion and saw plumes of black smoke surrounding Puerto Vallarta's downtown on Sunday morning.
 
-### c_015 — confirmed, primary document
-**Subject entities:** U.S. airlines
-**Predicate:** required_to_refund
-**Object:** canceled flights (regulatory_requirement)
-**Source IDs:** src_001
+### c_015
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. airlines
+- **Predicate:** required_to_refund
+- **Object:** canceled flights (regulatory_requirement)
+- **Sources:** src_001
 
 > U.S. airlines are required to provide refunds for canceled flights.
 
@@ -273,10 +290,5 @@ Airlines including JetBlue, Delta, American, United, Southwest, Alaska Airlines,
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Wyatte Grantham-Philips
 **Publication date:** 2026-02-23
-**Access date:** 2026-02-24
 **Title:** US storm, Mexico violence and halt of Global Entry disrupt air travel
 **URL:** https://apnews.com/article/winter-storm-flight-cancellations-us-travel-54feed6ca0fb8e05c3b59326bd7ff24c
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -18,7 +18,7 @@ topic_tags:
   - politics
   - "government policy"
 storyline_nexus:
-  - mexico-cartel-violence
+- mexico-cartel-violence
 geographic_location: Mexico
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -110,8 +110,6 @@ It remains unclear who will inherit leadership of the cartel or whether any sing
 The succession will shape Mexico's security landscape. If Oseguera Cervantes' family assumes control, the violence seen Sunday could continue. If outside leaders take the helm, they might redirect operations. But security analyst David Saucedo warned of a graver risk: that the leaderless cartel could turn to indiscriminate violence and orchestrate attacks on the Mexican government itself.
 
 "This is a big opportunity for Mexico and the United States if they work together," Vigil said.
-
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification available at /methodology. Human review: not_triggered.
 
 ## Atomic claims
 
@@ -330,7 +328,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-02-23
 **Title:** What to know about the killing of the powerful cartel leader 'El Mencho' in Mexico
 **URL:** https://apnews.com/article/mexico-jalisco-el-mencho-cartel-killing-8acfda160817fb27bed1914e769e955b
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

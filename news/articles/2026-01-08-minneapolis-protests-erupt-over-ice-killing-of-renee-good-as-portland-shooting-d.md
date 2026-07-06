@@ -26,45 +26,44 @@ primary_themes:
 - federal-state jurisdiction
 - accountability_of_power
 topic_tags:
-  - "civil unrest"
-  - "conflict, war and peace"
-  - "crime, law and justice"
-  - "human migration"
-  - "international relations"
-  - "political dissent"
+- civil unrest
+- crime
+- law enforcement
+- government policy
+- civil rights
 storyline_nexus:
-  - immigration-enforcement
-geographic_location: Minneapolis, Minnesota; Portland, Oregon
+- us-immigration-enforcement
+geographic_location: United States
 floor_values_engaged:
-- value: human_life_and_dignity
-  intensity: 0.95
 - value: accountability_of_power
   intensity: 0.9
-- value: informed_citizenship
-  intensity: 0.8
-framework_version: 1.1.0
-generation_timestamp: '2026-05-16T19:49:12Z'
+- value: human_life_and_dignity
+  intensity: 0.9
+- value: truthfulness
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-22T23:51:42Z'
 source_cluster_id: cluster_ap_2026-01-07_minnesota-immigration-enforcement-crackd
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 18
   hedges:
-    appears: 2
-    alleged: 0
     attributed: 6
-    reported: 4
-    contested: 0
     confirmed: 6
+    alleged: 0
+    contested: 0
+    appears: 2
+    reported: 4
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 5
-    single_source: 13
     two_independent: 0
+    one_originating_plus_primary_document: 0
+    single_source: 13
+    primary_document: 5
+    primary_plus_secondary: 0
 sources:
   count: 1
   outlets:
@@ -82,13 +81,17 @@ image:
   url: /articles/2026-01-08-minneapolis-protests-erupt-over-ice-killing-of-renee-good-as-portland-shooting-d.png
   alt: 'Illustration accompanying article: Minneapolis protests erupt over ICE killing of Renee Good as Portland shooting'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-07-ice-officer-shoots-and-kills-minneapolis-woman-during-immigration-enforcement
-  relation: continues
-  strength: 0.89
-  confidence: high
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Placeholder bullet 1.
+- Placeholder bullet 2.
+- Placeholder bullet 3.
 
 Good's death, described as at least the fifth tied to federal immigration sweeps since President Donald Trump took office, has drawn protests in cities across the United States and thrust the administration's enforcement methods into a widening national debate over oversight and accountability.
 
@@ -144,165 +147,201 @@ Good's shooting and the protests it has prompted spread to many large U.S. citie
 
 ## Atomic claims
 
-### c_001 — confirmed, single source
-**Subject entities:** protesters; Minneapolis
-**Predicate:** marched_to_protest
-**Object:** fatal shooting of Renee Good by ICE officer (event)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** protesters; Minneapolis
+- **Predicate:** marched_to_protest
+- **Object:** fatal shooting of Renee Good by ICE officer (event)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > Hundreds of people marched through Minneapolis Thursday night to protest the fatal shooting of Renee Good by an ICE officer.
 
-### c_002 — reported, single source
-**Subject entities:** federal agents; Portland
-**Predicate:** shot
-**Object:** two people wounded, conditions unknown (injury)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** federal agents; Portland
+- **Predicate:** shot
+- **Object:** two people wounded, conditions unknown (injury)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > A shooting by federal agents outside a Portland, Oregon, hospital wounded two people, and their conditions were not immediately known.
 
-### c_003 — attributed, single source
-**Subject entities:** U.S. Department of Homeland Security
-**Predicate:** characterized_as
-**Object:** largest immigration enforcement operation in history (official_characterization)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Department of Homeland Security
+- **Predicate:** characterized_as
+- **Object:** largest immigration enforcement operation in history (official_characterization)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > DHS described the Minneapolis–Saint Paul operation as the largest immigration enforcement operation in history.
 
-### c_004 — attributed, single source
-**Subject entities:** U.S. Department of Homeland Security
-**Predicate:** deployed
-**Object:** more than 2,000 officers (count)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Department of Homeland Security
+- **Predicate:** deployed
+- **Object:** more than 2,000 officers (count)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > More than 2,000 officers are taking part in the Minneapolis–Saint Paul enforcement operation.
 
-### c_005 — attributed, single source
-**Subject entities:** Kristi Noem
-**Predicate:** stated
-**Object:** more than 1,500 arrests (count)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Kristi Noem
+- **Predicate:** stated
+- **Object:** more than 1,500 arrests (count)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > Kristi Noem said officers made more than 1,500 arrests in the operation.
 
-### c_006 — confirmed, single source
-**Subject entities:** Minnesota Bureau of Criminal Apprehension; FBI; U.S. Department of Justice
-**Predicate:** excluded_from_investigation
-**Object:** state excluded from Good shooting investigation (investigative_access)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Minnesota Bureau of Criminal Apprehension; FBI; U.S. Department of Justice
+- **Predicate:** excluded_from_investigation
+- **Object:** state excluded from Good shooting investigation (investigative_access)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > The Minnesota Bureau of Criminal Apprehension said the FBI and Justice Department would not work with it, effectively ending the state's investigative role in Good's death.
 
-### c_007 — attributed, single source
-**Subject entities:** JD Vance
-**Predicate:** stated
-**Object:** shooting justified; Good a victim of left-wing ideology (official_statement)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** JD Vance
+- **Predicate:** stated
+- **Object:** shooting justified; Good a victim of left-wing ideology (official_statement)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > Vice President JD Vance said the shooting was justified and called Good a 'victim of left-wing ideology.'
 
-### c_008 — attributed, single source
-**Subject entities:** Jacob Frey
-**Predicate:** stated
-**Object:** video shows self-defense argument is garbage (official_statement)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jacob Frey
+- **Predicate:** stated
+- **Object:** video shows self-defense argument is garbage (official_statement)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > Minneapolis Mayor Jacob Frey said video recordings show the self-defense argument is 'garbage.'
 
-### c_009 — reported, primary document
-**Subject entities:** Jonathan Ross
-**Predicate:** identified_as
-**Object:** ICE officer who shot Good; Iraq War veteran; nearly two decades in Border Patrol and ICE (identification)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Jonathan Ross
+- **Predicate:** identified_as
+- **Object:** ICE officer who shot Good; Iraq War veteran; nearly two decades in Border Patrol and ICE (identification)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > Records obtained by the Associated Press identify the ICE officer who fatally shot Good as Jonathan Ross, 43, an Iraq War veteran who has served for nearly two decades in the Border Patrol and ICE.
 
-### c_010 — reported, single source
-**Subject entities:** Renee Good
-**Predicate:** counted_among
-**Object:** at least fifth death tied to immigration sweeps (count)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Renee Good
+- **Predicate:** counted_among
+- **Object:** at least fifth death tied to immigration sweeps (count)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > Good's death is described as at least the fifth tied to immigration sweeps since Trump took office.
 
-### c_011 — attributed, single source
-**Subject entities:** U.S. Department of Homeland Security
-**Predicate:** characterized_as
-**Object:** Venezuelan man with alleged gang ties tried to weaponize vehicle against officers (official_characterization)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Department of Homeland Security
+- **Predicate:** characterized_as
+- **Object:** Venezuelan man with alleged gang ties tried to weaponize vehicle against officers (official_characterization)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > DHS said the Portland shooting occurred after a Venezuelan man with alleged gang ties who was involved in a recent shooting tried to 'weaponize' his vehicle to hit officers.
 
-### c_012 — appears, single source
-**Subject entities:** DHS account; Portland shooting
-**Predicate:** unverified
-**Object:** video corroboration of DHS account not yet established (verification_status)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_012
+- **Hedge:** appears
+- **Corroboration:** single_source
+- **Subject entities:** DHS account; Portland shooting
+- **Predicate:** unverified
+- **Object:** video corroboration of DHS account not yet established (verification_status)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > It was not yet clear whether witness video corroborates the DHS account of the Portland shooting.
 
-### c_013 — confirmed, single source
-**Subject entities:** Minneapolis school district
-**Predicate:** canceled
-**Object:** classes for rest of week (institutional_action)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_013
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Minneapolis school district
+- **Predicate:** canceled
+- **Object:** classes for rest of week (institutional_action)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > Minneapolis school district canceled classes for the rest of the week following Good's shooting.
 
-### c_014 — reported, primary document
-**Subject entities:** Jonathan Ross
-**Predicate:** was_injured
-**Object:** dragged roughly 100 yards during June immigration arrest attempt (prior_incident)
-**Temporal:** 2025-06
-**Source IDs:** src_001
+### c_014
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Jonathan Ross
+- **Predicate:** was_injured
+- **Object:** dragged roughly 100 yards during June immigration arrest attempt (prior_incident)
+- **Temporal:** 2025-06
+- **Sources:** src_001
 
 > Court records show that in a June incident in Bloomington, Minnesota, Jonathan Ross got his arm stuck in a fleeing vehicle's window and was dragged roughly 100 yards before being knocked free.
 
-### c_015 — confirmed, primary document
-**Subject entities:** jury; driver
-**Predicate:** convicted
-**Object:** guilty of assaulting a federal officer with a dangerous weapon (verdict)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_015
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** jury; driver
+- **Predicate:** convicted
+- **Object:** guilty of assaulting a federal officer with a dangerous weapon (verdict)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > A jury found the driver who dragged Ross guilty of assaulting a federal officer with a dangerous weapon.
 
-### c_016 — confirmed, primary document
-**Subject entities:** Jonathan Ross; Renee Good; Honda Pilot
-**Predicate:** captured_on_video
-**Object:** officer approached, SUV moved, second officer fired at least two shots (event_sequence)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_016
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Jonathan Ross; Renee Good; Honda Pilot
+- **Predicate:** captured_on_video
+- **Object:** officer approached, SUV moved, second officer fired at least two shots (event_sequence)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Bystander video shows an officer approaching Good's Honda Pilot, demanding she open the door and grabbing the handle; the SUV began to pull forward, and a different ICE officer standing in front of it fired at least two shots.
 
-### c_017 — appears, primary document
-**Subject entities:** bystander video; Honda Pilot; ICE officer
-**Predicate:** unresolved
-**Object:** whether vehicle contacted officer before shots were fired (factual_question)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_017
+- **Hedge:** appears
+- **Corroboration:** primary_document
+- **Subject entities:** bystander video; Honda Pilot; ICE officer
+- **Predicate:** unresolved
+- **Object:** whether vehicle contacted officer before shots were fired (factual_question)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > It is not clear from the videos whether the vehicle made contact with the officer before he fired.
 
-### c_018 — confirmed, single source
-**Subject entities:** Keith Wilson; Portland City Council
-**Predicate:** demanded
-**Object:** ICE suspend all Portland operations pending full investigation (official_demand)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_018
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Keith Wilson; Portland City Council
+- **Predicate:** demanded
+- **Object:** ICE suspend all Portland operations pending full investigation (official_demand)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > Portland Mayor Keith Wilson and the city council called on ICE to end all operations in the city until a full investigation is completed.
 
@@ -311,10 +350,5 @@ Good's shooting and the protests it has prompted spread to many large U.S. citie
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Rebecca Santana
 **Publication date:** 2026-01-08
-**Access date:** 2026-05-16
 **Title:** Minneapolis officials urge calm after an ICE officer's fatal shooting of Renee Good
 **URL:** https://apnews.com/article/minnesota-immigration-enforcement-crackdown-woman-shot-5158ce0838305b491c95db97b970cd03
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

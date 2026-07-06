@@ -18,7 +18,8 @@ topic_tags:
   - "armed conflict"
   - politics
   - "international relations"
-storyline_nexus: []
+storyline_nexus:
+- ukraine-war-peace-negotiations
 geographic_location: Poland; eastern NATO border with Russia and Belarus
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -199,7 +200,3 @@ Zalewski countered the humanitarian concerns, arguing that Poland is striking a 
 **Access date:** 2026-05-18
 **Title:** Poland will use antipersonnel mines to defend against Russia
 **URL:** https://apnews.com/article/poland-land-mines-ottawa-convention-russia-ukraine-1d2d9a1daccf2a55265dd0b2db5ebdb5
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

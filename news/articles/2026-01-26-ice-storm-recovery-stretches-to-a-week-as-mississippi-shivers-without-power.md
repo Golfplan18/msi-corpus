@@ -16,44 +16,37 @@ primary_themes:
 - emergency response
 - government action
 topic_tags:
-  - "arts, culture, entertainment and media"
-  - "crime, law and justice"
-  - "disaster, accident and emergency incident"
-  - education
-  - "higher education"
-  - "law enforcement"
+- natural disaster
+- weather
+- disaster
 storyline_nexus:
-  - immigration-enforcement
-geographic_location: Mississippi, United States
+- extreme-weather-disasters
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
-  intensity: 0.95
+  intensity: 0.9
 - value: informed_citizenship
-  intensity: 0.85
-- value: accountability_of_power
-  intensity: 0.75
-- value: equality_fairness
-  intensity: 0.8
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:00:29Z'
 source_cluster_id: cluster_ap_2026-01-27_mississippi-ice-storm-ole-miss-oxford-93
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 10
   hedges:
     appears: 0
-    alleged: 0
-    attributed: 5
-    reported: 2
     contested: 0
+    alleged: 0
+    reported: 2
+    attributed: 5
     confirmed: 3
   corroboration:
-    primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
+    primary_plus_secondary: 0
     primary_document: 0
     single_source: 10
     two_independent: 0
@@ -70,29 +63,18 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-11-severe-cold-strands-thousands-of-tourists-at-kittil-airport-as-europe-deep-freez
-  relation: related
-  strength: 0.8152
-  confidence: medium
-- slug: 2026-01-07-ice-and-snow-close-schools-across-new-england-as-more-storms-approach
-  relation: related
-  strength: 0.8354
-  confidence: medium
-- slug: 2026-01-07-winter-storm-strands-more-than-1-000-at-amsterdam-s-schiphol-grounds-800-flights
-  relation: related
-  strength: 0.8225
-  confidence: medium
-- slug: 2026-01-06-snow-and-ice-kill-at-least-6-across-europe-grounding-600-schiphol-flights
-  relation: related
-  strength: 0.8189
-  confidence: medium
-- slug: 2026-01-13-freezing-rain-halts-flights-at-vienna-budapest-prague-and-bratislava-airports
-  relation: related
-  strength: 0.7583
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Mississippi residents began confronting the consequences of the worst ice storm in more than 30 years on Monday as they huddled in darkened, freezing homes with no clear timeline for restored electricity.
+- Recovery could take a week or more, officials said, leaving tens of thousands without heat or running water across a band stretching from eastern Texas through north Louisiana and Mississippi into Tennessee.
+- The ice storm has descended on one of the nation's poorest states, forcing difficult choices for residents without heat as temperatures remained dangerously low.
+- Tate Reeves activated National Guard troops and requested additional generators from federal authorities as the state scrambled to operate shelters and maintain critical services including water pumps at medical facilities.
 
 Mississippi residents began confronting the consequences of the worst ice storm in more than 30 years on Monday as they huddled in darkened, freezing homes with no clear timeline for restored electricity. Recovery could take a week or more, officials said, leaving tens of thousands without heat or running water across a band stretching from eastern Texas through north Louisiana and Mississippi into Tennessee.
 
@@ -134,97 +116,115 @@ Officials warned that recovery could stretch a week or more as residents faced e
 
 The ice storm represents one of the worst in the state in more than 30 years, leaving Ramsey with a wry observation about conditions in his Oxford neighborhood. "Apparently, the new status symbol in this town is having electricity," he said. "It's a mess."
 
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework. Specification: /methodology. Released under CC0.*
-
 ## Atomic claims
 
-### c_001 — reported, single source
-**Subject entities:** Mississippi
-**Predicate:** faces_recovery_timeline
-**Object:** one week or more (time_duration)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Mississippi
+- **Predicate:** faces_recovery_timeline
+- **Object:** one week or more (time_duration)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > Recovery from Mississippi's worst ice storm in more than 30 years could take a week or more.
 
-### c_002 — confirmed, single source
-**Subject entities:** University of Mississippi
-**Predicate:** canceled_classes
-**Object:** all classes and campus operations (institutional_action)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** University of Mississippi
+- **Predicate:** canceled_classes
+- **Object:** all classes and campus operations (institutional_action)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > The University of Mississippi canceled classes and closed campus for the rest of the week.
 
-### c_003 — confirmed, single source
-**Subject entities:** University of Mississippi
-**Predicate:** has_enrollment
-**Object:** 20000+ students (population_count)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** University of Mississippi
+- **Predicate:** has_enrollment
+- **Object:** 20000+ students (population_count)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > The University of Mississippi had 20,000 college students on campus.
 
-### c_004 — attributed, single source
-**Subject entities:** Mississippi
-**Predicate:** has_power_outages
-**Object:** below 150000 outages (equipment_count)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Mississippi
+- **Predicate:** has_power_outages
+- **Object:** below 150000 outages (equipment_count)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > Power outages dropped below 150,000 by Monday afternoon, with Mississippi retaining the largest share of outages among any state.
 
-### c_005 — attributed, single source
-**Subject entities:** Alcorn County Electric Power Association
-**Predicate:** has_power_outages
-**Object:** 19000 customers (customer_count)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Alcorn County Electric Power Association
+- **Predicate:** has_power_outages
+- **Object:** 19000 customers (customer_count)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > At Alcorn County Electric Power Association in Corinth, all 19,000 customers were without power at midday Monday.
 
-### c_006 — confirmed, single source
-**Subject entities:** Tennessee Valley Authority
-**Predicate:** has_infrastructure_damage
-**Object:** high voltage lines down (infrastructure_status)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Tennessee Valley Authority
+- **Predicate:** has_infrastructure_damage
+- **Object:** high voltage lines down (infrastructure_status)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > Tennessee Valley Authority high voltage lines were down.
 
-### c_007 — attributed, single source
-**Subject entities:** Tate Reeves
-**Predicate:** announced_deployment
-**Object:** 500 National Guard soldiers (military_deployment)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Tate Reeves
+- **Predicate:** announced_deployment
+- **Object:** 500 National Guard soldiers (military_deployment)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > Gov. Tate Reeves announced he was deploying 500 National Guard soldiers by Wednesday to remove debris and control traffic.
 
-### c_008 — attributed, single source
-**Subject entities:** Mississippi
-**Predicate:** operating_shelters
-**Object:** 61 shelters and warming centers in 30 counties (facility_deployment)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Mississippi
+- **Predicate:** operating_shelters
+- **Object:** 61 shelters and warming centers in 30 counties (facility_deployment)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > The state was operating 61 shelters and warming centers in 30 counties.
 
-### c_009 — attributed, single source
-**Subject entities:** Mississippi; FEMA
-**Predicate:** requested_generators
-**Object:** 60 generators (equipment_request)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Mississippi; FEMA
+- **Predicate:** requested_generators
+- **Object:** 60 generators (equipment_request)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > The state doubled its generator request from FEMA from 30 to 60.
 
-### c_010 — reported, single source
-**Subject entities:** Tippah County
-**Predicate:** lacks_utility_service
-**Object:** running water and natural gas (utility_service)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Tippah County
+- **Predicate:** lacks_utility_service
+- **Object:** running water and natural gas (utility_service)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > The state lacked running water or natural gas service in Tippah County.
 
@@ -233,10 +233,5 @@ The ice storm represents one of the worst in the state in more than 30 years, le
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Jeff Amy
 **Publication date:** 2026-01-26
-**Access date:** 2026-01-26
 **Title:** Winter storm leaves Mississippi in the dark
 **URL:** https://apnews.com/article/mississippi-ice-storm-ole-miss-oxford-93d11fe7cc0875bdf4e8b08a47dcfb16
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

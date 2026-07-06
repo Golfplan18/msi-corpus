@@ -14,40 +14,42 @@ primary_themes:
 - hospital closures
 - emergency delivery
 topic_tags:
-  - health
+- health
+- public health
+- human interest
+- disaster, accident and emergency incident
+- communities
 storyline_nexus:
-  - immigration-enforcement
-geographic_location: Maine, United States
+- abortion-rights-battles
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
-  intensity: 0.95
+  intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.85
-- value: informed_citizenship
-  intensity: 0.8
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+  intensity: 0.9
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:33:38Z'
 source_cluster_id: cluster_ap_2026-01-28_katie-gowell-maine-bangor-pregnancy-and-
 gdelt_event_ids: []
-consensus_floor_version: v1.0.0
-publication_mindspec_version: v1.0.0
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 16
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 11
     reported: 0
+    attributed: 11
+    appears: 0
     contested: 0
+    alleged: 0
     confirmed: 5
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 7
-    single_source: 9
     two_independent: 0
+    primary_document: 7
+    one_originating_plus_primary_document: 0
+    primary_plus_secondary: 0
+    single_source: 9
 sources:
   count: 1
   outlets:
@@ -61,13 +63,16 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-09-hawaii-s-physician-shortage-deepens-leaving-state-644-doctors-short-of-need
-  relation: related
-  strength: 0.6989
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- Katie Gowell went into labor at her home in Patten, Maine, on June 1, 2025, expecting her family physician to deliver her fifth child. When a prolapsed umbilical cord—a medical emergency that cuts ...
+- The closure was the 11th maternity unit to shut down in Maine in a decade, leaving half the state's 34 hospitals without obstetric services. The ca...
+- Katie Gowell's labor began peacefully at her home in Patten, Maine, on the morning of June 1, 2025. Her family physician, Dr. Rose Fuchs, was there...
 
 Katie Gowell went into labor at her home in Patten, Maine, on June 1, 2025, expecting her family physician to deliver her fifth child. When a prolapsed umbilical cord—a medical emergency that cuts off oxygen—suddenly developed, her doctor, Dr. Rose Fuchs, kept the cord in position during transport. But the nearest hospital, Houlton Regional, had stopped delivering babies one month earlier, forcing an emergency diversion 40 minutes away.
 
@@ -135,147 +140,179 @@ Fuchs was grateful for the additions. But the flier left her with a question: "W
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Katie Gowell
-**Predicate:** went_into_labor
-**Object:** Patten, Maine (location)
-**Temporal:** 2025-06-01
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Katie Gowell
+- **Predicate:** went_into_labor
+- **Object:** Patten, Maine (location)
+- **Temporal:** 2025-06-01
+- **Sources:** src_001
 
 > Katie Gowell went into labor at her home in Patten, Maine, on June 1, 2025.
 
-### c_002 — confirmed, primary document
-**Subject entities:** Katie Gowell
-**Predicate:** experienced_medical_emergency
-**Object:** prolapsed umbilical cord (medical_condition)
-**Temporal:** 2025-06-01
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Katie Gowell
+- **Predicate:** experienced_medical_emergency
+- **Object:** prolapsed umbilical cord (medical_condition)
+- **Temporal:** 2025-06-01
+- **Sources:** src_001
 
 > Gowell experienced a prolapsed umbilical cord, a medical emergency that cuts off oxygen supply.
 
-### c_003 — attributed, primary document
-**Subject entities:** Rose Fuchs; Katie Gowell
-**Predicate:** intervened_medically
-**Object:** positioned cord to restore blood flow (medical_intervention)
-**Temporal:** 2025-06-01
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Rose Fuchs; Katie Gowell
+- **Predicate:** intervened_medically
+- **Object:** positioned cord to restore blood flow (medical_intervention)
+- **Temporal:** 2025-06-01
+- **Sources:** src_001
 
 > Dr. Rose Fuchs positioned Gowell's umbilical cord during transport to keep blood flowing to the baby.
 
-### c_004 — confirmed, primary document
-**Subject entities:** Houlton Regional Hospital
-**Predicate:** closed_maternity_unit
-**Object:** May 2, 2025 (date)
-**Temporal:** 2025-05-02
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Houlton Regional Hospital
+- **Predicate:** closed_maternity_unit
+- **Object:** May 2, 2025 (date)
+- **Temporal:** 2025-05-02
+- **Sources:** src_001
 
 > Houlton Regional Hospital stopped delivering babies on May 2, 2025, one month before Gowell's labor.
 
-### c_005 — attributed, single source
-**Subject entities:** Maine hospitals
-**Predicate:** closed_obstetric_services
-**Object:** 11 hospitals (count)
-**Temporal:** 2016-2026
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Maine hospitals
+- **Predicate:** closed_obstetric_services
+- **Object:** 11 hospitals (count)
+- **Temporal:** 2016-2026
+- **Sources:** src_001
 
 > Houlton Regional's maternity closure was the 11th hospital in Maine to shut down its birthing unit in the past decade.
 
-### c_006 — attributed, single source
-**Subject entities:** Maine hospitals
-**Predicate:** lack_obstetric_services
-**Object:** 17 hospitals (count)
-**Temporal:** 2025-06
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Maine hospitals
+- **Predicate:** lack_obstetric_services
+- **Object:** 17 hospitals (count)
+- **Temporal:** 2025-06
+- **Sources:** src_001
 
 > Half of Maine's 34 hospitals now lack obstetric services.
 
-### c_007 — attributed, primary document
-**Subject entities:** Houlton Regional Hospital
-**Predicate:** declined_delivery_volume
-**Object:** 115 to 83 (numeric_trend)
-**Temporal:** 2020-2024
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Houlton Regional Hospital
+- **Predicate:** declined_delivery_volume
+- **Object:** 115 to 83 (numeric_trend)
+- **Temporal:** 2020-2024
+- **Sources:** src_001
 
 > Houlton Regional's deliveries fell from 115 in 2020 to 83 in 2024.
 
-### c_008 — confirmed, primary document
-**Subject entities:** Houlton Regional Hospital; Maine Department of Health and Human Services
-**Predicate:** notified_with_insufficient_notice
-**Object:** 30 days instead of 120 days (time_comparison)
-**Temporal:** 2025-04
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Houlton Regional Hospital; Maine Department of Health and Human Services
+- **Predicate:** notified_with_insufficient_notice
+- **Object:** 30 days instead of 120 days (time_comparison)
+- **Temporal:** 2025-04
+- **Sources:** src_001
 
 > The hospital informed the state health department 30 days before closure, falling short of the recommended 120-day notice.
 
-### c_009 — attributed, single source
-**Subject entities:** Houlton Regional obstetric nurses
-**Predicate:** learned_of_closure
-**Object:** hours before public announcement (time_relative)
-**Temporal:** 2025-04-03
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Houlton Regional obstetric nurses
+- **Predicate:** learned_of_closure
+- **Object:** hours before public announcement (time_relative)
+- **Temporal:** 2025-04-03
+- **Sources:** src_001
 
 > Obstetric nurses learned of the closure hours before it became public.
 
-### c_010 — attributed, single source
-**Subject entities:** Jayme Hovey
-**Predicate:** said
-**Object:** announcement lasted under five minutes (attributed_statement)
-**Temporal:** 2025-04
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jayme Hovey
+- **Predicate:** said
+- **Object:** announcement lasted under five minutes (attributed_statement)
+- **Temporal:** 2025-04
+- **Sources:** src_001
 
 > Jayme Hovey, a former obstetric nurse, said the hospital's chief operating officer was "in and out in less than five minutes" when informing nurses of the closure.
 
-### c_011 — confirmed, primary document
-**Subject entities:** Katie Gowell; Brooklyn Rose June Gowell
-**Predicate:** gave_birth
-**Object:** Brooklyn Rose June Gowell (person)
-**Temporal:** 2025-06-01
-**Source IDs:** src_001
+### c_011
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Katie Gowell; Brooklyn Rose June Gowell
+- **Predicate:** gave_birth
+- **Object:** Brooklyn Rose June Gowell (person)
+- **Temporal:** 2025-06-01
+- **Sources:** src_001
 
 > Katie Gowell gave birth to Brooklyn Rose June Gowell just before 8 a.m. on June 1, 2025.
 
-### c_012 — confirmed, primary document
-**Subject entities:** Northern Light A.R. Gould Hospital
-**Predicate:** increased_delivery_volume
-**Object:** 14 to 26 per month (numeric_trend)
-**Temporal:** 2025-06
-**Source IDs:** src_001
+### c_012
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Northern Light A.R. Gould Hospital
+- **Predicate:** increased_delivery_volume
+- **Object:** 14 to 26 per month (numeric_trend)
+- **Temporal:** 2025-06
+- **Sources:** src_001
 
 > Presque Isle hospital's average deliveries rose from about 14 per month to 26 per month after Houlton closed, nearly doubling.
 
-### c_013 — attributed, single source
-**Subject entities:** Katherine Scott
-**Predicate:** said
-**Object:** switch to distant hospital was heartbreaking and detrimental (attributed_statement)
-**Temporal:** 2025-04
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Katherine Scott
+- **Predicate:** said
+- **Object:** switch to distant hospital was heartbreaking and detrimental (attributed_statement)
+- **Temporal:** 2025-04
+- **Sources:** src_001
 
 > Katherine Scott, six months pregnant when the closure was announced, said the switch to a distant hospital was heartbreaking and detrimental.
 
-### c_014 — attributed, single source
-**Subject entities:** Angela Davis
-**Predicate:** said
-**Object:** wanted board to acknowledge nurses' concerns (attributed_statement)
-**Temporal:** 2025-04
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Angela Davis
+- **Predicate:** said
+- **Object:** wanted board to acknowledge nurses' concerns (attributed_statement)
+- **Temporal:** 2025-04
+- **Sources:** src_001
 
 > Angela Davis, a former obstetrics nurse who resigned, said she wanted the board to say they heard the nurses' concerns.
 
-### c_015 — attributed, single source
-**Subject entities:** Alta Kauffmann
-**Predicate:** said
-**Object:** 1-2 Amish women per month need hospital care (attributed_statement)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Alta Kauffmann
+- **Predicate:** said
+- **Object:** 1-2 Amish women per month need hospital care (attributed_statement)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Alta Kauffmann, an Amish midwife, said that one to two Amish women per month typically require hospital assistance.
 
-### c_016 — attributed, single source
-**Subject entities:** Rose Fuchs
-**Predicate:** assisted_emergency_births
-**Object:** 2 emergency births (count)
-**Temporal:** 2025-06
-**Source IDs:** src_001
+### c_016
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Rose Fuchs
+- **Predicate:** assisted_emergency_births
+- **Object:** 2 emergency births (count)
+- **Temporal:** 2025-06
+- **Sources:** src_001
 
 > Dr. Fuchs has assisted with two emergency births since the maternity unit closed, including Gowell's.
 
@@ -284,10 +321,5 @@ Fuchs was grateful for the additions. But the flier left her with a question: "W
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Emily Hedegard / The Maine Monitor
 **Publication date:** 2026-01-26
-**Access date:** 2026-01-26
 **Title:** Her labor turned dangerous. The closest hospital had just stopped delivering babies.
 **URL:** https://apnews.com/article/katie-gowell-maine-bangor-pregnancy-and-childbirth-labor-5cf43b88d1b37ee74011e18c87ed0fe7
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

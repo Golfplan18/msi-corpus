@@ -17,47 +17,42 @@ primary_themes:
 - federal-prosecution
 - Jewish-community
 topic_tags:
-  - "artificial intelligence"
-  - "crime, law and justice"
-  - "disaster, accident and emergency incident"
-  - fire
-  - government
-  - "government policy"
+- crime
+- fire
+- religious institution
+- terrorism
+- law enforcement
 storyline_nexus:
-  - us-administration-2026
-  - us-china-relations
-  - monetary-policy-2026
-geographic_location: Jackson, Mississippi
+- us-immigration-enforcement
+geographic_location: United States
 floor_values_engaged:
+- value: equality_fairness
+  intensity: 0.9
 - value: human_life_and_dignity
-  intensity: 0.92
-- value: informed_citizenship
-  intensity: 0.8
-- value: accountability_of_power
-  intensity: 0.65
-framework_version: 1.1.0
-generation_timestamp: '2026-01-12T00:00:00Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-22T23:57:54Z'
 source_cluster_id: cluster_ap_2026-01-11_mississippi-synagogue-arson-jewish-south
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 16
   hedges:
-    appears: 0
     alleged: 0
     attributed: 14
+    appears: 0
     reported: 0
-    contested: 0
     confirmed: 2
+    contested: 0
   corroboration:
     primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 10
     single_source: 6
+    primary_document: 10
     two_independent: 0
+    one_originating_plus_primary_document: 0
 sources:
   count: 1
   outlets:
@@ -78,6 +73,14 @@ image:
 cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- The arrest of Stephen Pittman caps a weekend in which fire badly damaged the Beth Israel Congregation in Jackson — a congregation that has anchored Jewish life in Mississippi for more than a century and that was previously bombed by the Ku Klux Klan after its rabbi spoke out against segregation.
+- He confessed to lighting a fire inside the building, which he referred to as "the synagogue of Satan," according to an FBI affidavit filed Monday in U.S.
+- District Court in Mississippi.
 
 JACKSON, Miss. — A 19-year-old man appeared in federal court Monday on charges he set fire to a historic Mississippi synagogue because it was a Jewish house of worship, the FBI said, after his own father alerted authorities upon discovering burn injuries on his son's face, hands, and ankles.
 
@@ -133,147 +136,179 @@ Nussbaum had continued speaking out on civil rights at a time when such position
 
 ## Atomic claims
 
-### c_001 — attributed, primary document
-**Subject entities:** Stephen Pittman
-**Predicate:** charged_with
-**Object:** maliciously damaging or destroying a building by means of fire or an explosive (federal_charge)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Stephen Pittman
+- **Predicate:** charged_with
+- **Object:** maliciously damaging or destroying a building by means of fire or an explosive (federal_charge)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Stephen Pittman, 19, was charged with maliciously damaging or destroying a building by means of fire or an explosive.
 
-### c_002 — attributed, primary document
-**Subject entities:** Stephen Pittman; Beth Israel Congregation
-**Predicate:** targeted_because_of
-**Object:** Jewish house of worship (stated_motive)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Stephen Pittman; Beth Israel Congregation
+- **Predicate:** targeted_because_of
+- **Object:** Jewish house of worship (stated_motive)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Pittman admitted to targeting Beth Israel Congregation because it is a Jewish house of worship, according to the FBI.
 
-### c_003 — attributed, primary document
-**Subject entities:** Stephen Pittman
-**Predicate:** confessed_to
-**Object:** lighting fire inside building (criminal_act)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Stephen Pittman
+- **Predicate:** confessed_to
+- **Object:** lighting fire inside building (criminal_act)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Pittman confessed to lighting a fire inside the building, which he referred to as 'the synagogue of Satan,' per an FBI affidavit.
 
-### c_004 — attributed, primary document
-**Subject entities:** Stephen Pittman
-**Predicate:** reported_by_father_to
-**Object:** FBI, after burn injuries and son's confession (tip)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Stephen Pittman
+- **Predicate:** reported_by_father_to
+- **Object:** FBI, after burn injuries and son's confession (tip)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Pittman's father contacted the FBI after observing burn marks on his son's ankles, hands, and face and after his son confessed to setting the fire.
 
-### c_005 — attributed, single source
-**Subject entities:** Beth Israel Congregation
-**Predicate:** fire_occurred_at
-**Object:** shortly after 3 a.m. Saturday, January 11 (timestamp)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Beth Israel Congregation
+- **Predicate:** fire_occurred_at
+- **Object:** shortly after 3 a.m. Saturday, January 11 (timestamp)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > The fire ripped through the Beth Israel Congregation in Jackson shortly after 3 a.m. on Saturday.
 
-### c_006 — attributed, primary document
-**Subject entities:** Stephen Pittman
-**Predicate:** conducted_preparatory_acts
-**Object:** purchased gas, removed license plate (pre-crime_conduct)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Stephen Pittman
+- **Predicate:** conducted_preparatory_acts
+- **Object:** purchased gas, removed license plate (pre-crime_conduct)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > Pittman stopped at a gas station on his way to the synagogue to purchase gas for the fire and removed his vehicle's license plate there.
 
-### c_007 — attributed, primary document
-**Subject entities:** Stephen Pittman
-**Predicate:** committed_arson_by
-**Object:** ax, gas, torch lighter (method)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Stephen Pittman
+- **Predicate:** committed_arson_by
+- **Object:** ax, gas, torch lighter (method)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > Pittman used an ax to break out a window of the synagogue, poured gas inside, and used a torch lighter to start the fire.
 
-### c_008 — confirmed, primary document
-**Subject entities:** Stephen Pittman
-**Predicate:** appeared_in_court_via
-**Object:** video conference from hospital bed, hands bandaged (court_appearance)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Stephen Pittman
+- **Predicate:** appeared_in_court_via
+- **Object:** video conference from hospital bed, hands bandaged (court_appearance)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Pittman appeared at a first federal court appearance via video conference from a hospital bed, with both hands visibly bandaged.
 
-### c_009 — attributed, primary document
-**Subject entities:** Stephen Pittman
-**Predicate:** faces_potential_sentence_of
-**Object:** 5 to 20 years (potential_sentence)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Stephen Pittman
+- **Predicate:** faces_potential_sentence_of
+- **Object:** 5 to 20 years (potential_sentence)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Prosecutors said Pittman faces five to 20 years in prison if convicted.
 
-### c_010 — attributed, primary document
-**Subject entities:** Pam Bondi
-**Predicate:** instructed_prosecutors_to
-**Object:** seek severe penalties (prosecutorial_directive)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Pam Bondi
+- **Predicate:** instructed_prosecutors_to
+- **Object:** seek severe penalties (prosecutorial_directive)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Attorney General Pam Bondi instructed prosecutors to seek 'severe penalties,' according to a statement from the U.S. Attorney's Office for the Southern District of Mississippi.
 
-### c_011 — confirmed, primary document
-**Subject entities:** Beth Israel Congregation
-**Predicate:** video_shows
-**Object:** masked figure pouring accelerant in lobby (surveillance_evidence)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_011
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Beth Israel Congregation
+- **Predicate:** video_shows
+- **Object:** masked figure pouring accelerant in lobby (surveillance_evidence)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > Security camera video released Monday by the synagogue showed a masked and hooded man using a gas can to pour liquid on the floor and a couch in the building's lobby.
 
-### c_012 — attributed, single source
-**Subject entities:** Beth Israel Congregation
-**Predicate:** damaged_and_destroyed
-**Object:** library, administrative offices, two Torahs (damage_assessment)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Beth Israel Congregation
+- **Predicate:** damaged_and_destroyed
+- **Object:** library, administrative offices, two Torahs (damage_assessment)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > The fire badly damaged the 165-year-old synagogue's library and administrative offices; two Torahs inside the library were destroyed.
 
-### c_013 — attributed, single source
-**Subject entities:** Beth Israel Congregation
-**Predicate:** survived_fire
-**Object:** Holocaust Torah behind glass (artifact_status)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Beth Israel Congregation
+- **Predicate:** survived_fire
+- **Object:** Holocaust Torah behind glass (artifact_status)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > One Torah that survived the Holocaust was behind glass and was not damaged in the fire, according to the congregation.
 
-### c_014 — attributed, single source
-**Subject entities:** Beth Israel Congregation
-**Predicate:** bombed_by
-**Object:** local KKK members, late 1960s (historical_event)
-**Temporal:** 1967
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Beth Israel Congregation
+- **Predicate:** bombed_by
+- **Object:** local KKK members, late 1960s (historical_event)
+- **Temporal:** 1967
+- **Sources:** src_001
 
 > Beth Israel Congregation was bombed by local KKK members not long after relocating to its current location in 1967.
 
-### c_015 — attributed, single source
-**Subject entities:** Perry Nussbaum
-**Predicate:** home_bombed_because_of
-**Object:** opposition to segregation and racism (historical_event)
-**Temporal:** 1967
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Perry Nussbaum
+- **Predicate:** home_bombed_because_of
+- **Object:** opposition to segregation and racism (historical_event)
+- **Temporal:** 1967
+- **Sources:** src_001
 
 > The home of Rabbi Perry Nussbaum was bombed two months after the synagogue bombing because of his outspoken opposition to segregation and racism.
 
-### c_016 — attributed, single source
-**Subject entities:** Zach Shemper; Beth Israel Congregation
-**Predicate:** vowed_to_rebuild
-**Object:** synagogue, with church spaces offered during rebuilding (community_response)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_016
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Zach Shemper; Beth Israel Congregation
+- **Predicate:** vowed_to_rebuild
+- **Object:** synagogue, with church spaces offered during rebuilding (community_response)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Congregation president Zach Shemper vowed to rebuild the synagogue; several churches offered their spaces for worship during the rebuilding process.
 
@@ -282,10 +317,5 @@ Nussbaum had continued speaking out on civil rights at a time when such position
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Sophie Bates
 **Publication date:** 2026-01-12
-**Access date:** 2026-01-12
 **Title:** FBI says Mississippi synagogue deliberately targeted
 **URL:** https://apnews.com/article/mississippi-synagogue-arson-jewish-south-0e489adc986bfaddd55662075bdb6443
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

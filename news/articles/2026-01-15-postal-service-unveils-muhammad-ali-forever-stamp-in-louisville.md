@@ -15,43 +15,39 @@ primary_themes:
 - humanitarian legacy
 - cultural recognition
 topic_tags:
-  - "crime, law and justice"
-  - government
-  - "government policy"
-  - "law enforcement"
-  - politics
-  - society
+- achievement
+- arts, culture, entertainment and media
+- sport
+- human interest
 storyline_nexus:
-  - immigration-enforcement
-geographic_location: Louisville, Kentucky, United States
+- supreme-court-constitutional-cases
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
-  intensity: 0.7
-- value: informed_citizenship
-  intensity: 0.5
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:02:28Z'
+  intensity: 0.9
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:55:53Z'
 source_cluster_id: cluster_ap_2026-01-18_muhammad-ali-forever-stamp-louisville-un
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 12
   hedges:
+    confirmed: 9
     appears: 0
-    alleged: 0
-    attributed: 3
     reported: 0
     contested: 0
-    confirmed: 9
+    attributed: 3
+    alleged: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 9
-    single_source: 3
     two_independent: 0
+    primary_plus_secondary: 0
+    primary_document: 9
+    one_originating_plus_primary_document: 0
+    single_source: 3
 sources:
   count: 1
   outlets:
@@ -68,6 +64,12 @@ figures_aggregate:
 cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- - value: human_life_and_dignity
 
 The U.S. Postal Service unveiled a Muhammad Ali commemorative Forever Stamp in the champion's hometown of Louisville, Kentucky, on Thursday, with 22 million stamps going on sale the same day. The stamp features a 1974 Associated Press photograph of Ali holding his gloves in a fighting stance, his last name in bold black and red lettering. Friends and family of the late champion gathered for the ceremony, hosted by broadcaster Bob Costas.
 
@@ -95,110 +97,134 @@ Ali died in 2016 at the age of 74 after living with Parkinson's disease for more
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** U.S. Postal Service; Muhammad Ali
-**Predicate:** unveiled
-**Object:** Muhammad Ali Forever Stamp (commemorative_stamp)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Postal Service; Muhammad Ali
+- **Predicate:** unveiled
+- **Object:** Muhammad Ali Forever Stamp (commemorative_stamp)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > The U.S. Postal Service unveiled a Muhammad Ali commemorative Forever Stamp in Louisville, Kentucky on January 15, 2026.
 
-### c_002 — attributed, single source
-**Subject entities:** U.S. Postal Service
-**Predicate:** printed
-**Object:** 22 million (print_run)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Postal Service
+- **Predicate:** printed
+- **Object:** 22 million (print_run)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > The Postal Service printed 22 million Ali stamps.
 
-### c_003 — confirmed, primary document
-**Subject entities:** Muhammad Ali stamp
-**Predicate:** features
-**Object:** AP photo from 1974, fighting stance (photograph)
-**Temporal:** 1974
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Muhammad Ali stamp
+- **Predicate:** features
+- **Object:** AP photo from 1974, fighting stance (photograph)
+- **Temporal:** 1974
+- **Sources:** src_001
 
 > The stamp features a 1974 Associated Press photograph showing Ali holding up his gloves in a fighting stance.
 
-### c_004 — attributed, single source
-**Subject entities:** Bob Costas
-**Predicate:** hosted
-**Object:** stamp unveiling ceremony (event)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Bob Costas
+- **Predicate:** hosted
+- **Object:** stamp unveiling ceremony (event)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Bob Costas, described as a longtime broadcaster, hosted the stamp unveiling event.
 
-### c_005 — confirmed, primary document
-**Subject entities:** Muhammad Ali Forever Stamp
-**Predicate:** went_on_sale
-**Object:** 2026-01-15 (date)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Muhammad Ali Forever Stamp
+- **Predicate:** went_on_sale
+- **Object:** 2026-01-15 (date)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > The stamp went on sale on January 15, 2026.
 
-### c_006 — attributed, single source
-**Subject entities:** Muhammad Ali stamp sheet
-**Predicate:** features
-**Object:** photo of Ali in pinstripe suit (photograph)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Muhammad Ali stamp sheet
+- **Predicate:** features
+- **Object:** photo of Ali in pinstripe suit (photograph)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > The stamp sheet also features a photograph of Ali posing in a pinstripe suit, in recognition of his work as an activist and humanitarian.
 
-### c_007 — confirmed, primary document
-**Subject entities:** Muhammad Ali
-**Predicate:** born_as
-**Object:** Cassius Clay Jr. (birth_name)
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Muhammad Ali
+- **Predicate:** born_as
+- **Object:** Cassius Clay Jr. (birth_name)
+- **Sources:** src_001
 
 > Muhammad Ali was born Cassius Clay Jr. and changed his name after converting to Islam.
 
-### c_008 — confirmed, primary document
-**Subject entities:** Muhammad Ali
-**Predicate:** died
-**Object:** 2016, age 74, Parkinson's disease (death_record)
-**Temporal:** 2016
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Muhammad Ali
+- **Predicate:** died
+- **Object:** 2016, age 74, Parkinson's disease (death_record)
+- **Temporal:** 2016
+- **Sources:** src_001
 
 > Muhammad Ali died in 2016 at the age of 74 after living with Parkinson's disease for more than three decades.
 
-### c_009 — confirmed, primary document
-**Subject entities:** Muhammad Ali
-**Predicate:** buried_in
-**Object:** Louisville, Kentucky (location)
-**Temporal:** 2016
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Muhammad Ali
+- **Predicate:** buried_in
+- **Object:** Louisville, Kentucky (location)
+- **Temporal:** 2016
+- **Sources:** src_001
 
 > Ali is buried in Louisville, Kentucky.
 
-### c_010 — confirmed, primary document
-**Subject entities:** Muhammad Ali
-**Predicate:** received
-**Object:** Olympic gold medal (award)
-**Temporal:** 1960
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Muhammad Ali
+- **Predicate:** received
+- **Object:** Olympic gold medal (award)
+- **Temporal:** 1960
+- **Sources:** src_001
 
 > Ali won an Olympic gold medal in 1960.
 
-### c_011 — confirmed, primary document
-**Subject entities:** Muhammad Ali
-**Predicate:** received
-**Object:** United Nations Messenger of Peace award (award)
-**Temporal:** 1998
-**Source IDs:** src_001
+### c_011
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Muhammad Ali
+- **Predicate:** received
+- **Object:** United Nations Messenger of Peace award (award)
+- **Temporal:** 1998
+- **Sources:** src_001
 
 > Ali received the United Nations Messenger of Peace award in 1998.
 
-### c_012 — confirmed, primary document
-**Subject entities:** Muhammad Ali
-**Predicate:** received
-**Object:** Presidential Medal of Freedom (award)
-**Temporal:** 2005
-**Source IDs:** src_001
+### c_012
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Muhammad Ali
+- **Predicate:** received
+- **Object:** Presidential Medal of Freedom (award)
+- **Temporal:** 2005
+- **Sources:** src_001
 
 > Ali received the Presidential Medal of Freedom in 2005.
 
@@ -207,10 +233,5 @@ Ali died in 2016 at the age of 74 after living with Parkinson's disease for more
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Dylan Lovan
 **Publication date:** 2026-01-15
-**Access date:** 2026-01-15
 **Title:** Postal Service unveils Muhammad Ali Forever Stamp in Louisville, Kentucky
 **URL:** https://apnews.com/article/muhammad-ali-forever-stamp-louisville-unveil-postal-fd19eabb59b93e49b46274ff42e86948
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

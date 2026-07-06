@@ -21,38 +21,40 @@ primary_themes:
 - humanitarian displacement
 - aviation disruption
 topic_tags:
-  - "armed conflict"
-  - "conflict, war and peace"
+- armed conflict
+- conflict, war and peace
+- travel
+- religion
 storyline_nexus:
-  - iran-war
-geographic_location: Saudi Arabia
+- the-iran-war
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
-  intensity: 0.8
-- value: informed_citizenship
-  intensity: 0.7
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:44:15Z'
+  intensity: 0.9
+- value: accountability_of_power
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:58:34Z'
 source_cluster_id: cluster_ap_2026-03-06_iran-war-saudi-arabia-muslim-pilgrims-tr
 gdelt_event_ids: []
-consensus_floor_version: 1.0.0
-publication_mindspec_version: 1.0.0
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 12
   hedges:
-    appears: 0
-    alleged: 0
     attributed: 12
     reported: 0
     contested: 0
+    appears: 0
     confirmed: 0
+    alleged: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 0
     single_source: 12
+    one_originating_plus_primary_document: 0
+    primary_plus_secondary: 0
     two_independent: 0
 sources:
   count: 1
@@ -70,6 +72,9 @@ figures_aggregate:
 cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
 
 More than 58,860 Indonesian pilgrims were stranded in Saudi Arabia as of Thursday after the war in the Middle East disrupted air travel during the Umrah pilgrimage season, Indonesia's Vice Minister of Hajj and Umrah Dahnil Anzar Simanjuntak said. About 1,600 Malaysian pilgrims were also stranded, Malaysia's consul general in Jeddah said. The disruptions began when the conflict broke out on Feb. 28, forcing last-minute itinerary changes and cancellations for thousands of worshippers in the kingdom during Ramadan.
 
@@ -119,111 +124,135 @@ Beyond the pilgrimage traffic, airports in the Gulf serve as critical connecting
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Indonesia; Umrah pilgrims
-**Predicate:** stranded_in
-**Object:** Saudi Arabia (location)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Indonesia; Umrah pilgrims
+- **Predicate:** stranded_in
+- **Object:** Saudi Arabia (location)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > More than 58,860 Indonesian pilgrims were stranded in Saudi Arabia as of Thursday.
 
-### c_002 — attributed, single source
-**Subject entities:** Indonesia; Dahnil Anzar Simanjuntak
-**Predicate:** urged_postponement
-**Object:** 60,000 pilgrims (count)
-**Temporal:** 2026-03-07
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Indonesia; Dahnil Anzar Simanjuntak
+- **Predicate:** urged_postponement
+- **Object:** 60,000 pilgrims (count)
+- **Temporal:** 2026-03-07
+- **Sources:** src_001
 
 > Indonesia urged about 60,000 additional pilgrims to postpone Umrah travel until April for safety reasons.
 
-### c_003 — attributed, single source
-**Subject entities:** Ichsan Marsha
-**Predicate:** described_as
-**Object:** urgent humanitarian and logistical issue (quotation)
-**Temporal:** 2026-03-07
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ichsan Marsha
+- **Predicate:** described_as
+- **Object:** urgent humanitarian and logistical issue (quotation)
+- **Temporal:** 2026-03-07
+- **Sources:** src_001
 
 > Indonesia's ministry spokesperson Ichsan Marsha called the situation an 'urgent humanitarian and logistical issue.'
 
-### c_004 — attributed, single source
-**Subject entities:** Malaysia; Mohamad Dzaraif Raja Abdul Kadir
-**Predicate:** stranded_in
-**Object:** Saudi Arabia (location)
-**Temporal:** 2026-03-03
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Malaysia; Mohamad Dzaraif Raja Abdul Kadir
+- **Predicate:** stranded_in
+- **Object:** Saudi Arabia (location)
+- **Temporal:** 2026-03-03
+- **Sources:** src_001
 
 > About 1,600 Malaysian Umrah pilgrims were stranded in Saudi Arabia, according to Malaysia's consul general in Jeddah.
 
-### c_005 — attributed, single source
-**Subject entities:** Malaysia Airlines
-**Predicate:** announced
-**Object:** temporary resumption of return services from Jeddah and Medina (action)
-**Temporal:** 2026-03-07
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Malaysia Airlines
+- **Predicate:** announced
+- **Object:** temporary resumption of return services from Jeddah and Medina (action)
+- **Temporal:** 2026-03-07
+- **Sources:** src_001
 
 > Malaysia Airlines announced a temporary resumption of return services from Jeddah and Medina until Sunday.
 
-### c_006 — attributed, single source
-**Subject entities:** Zanirah Faris
-**Predicate:** had_flight_canceled
-**Object:** rescheduled to March 12 (action)
-**Temporal:** 2026-03-07
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Zanirah Faris
+- **Predicate:** had_flight_canceled
+- **Object:** rescheduled to March 12 (action)
+- **Temporal:** 2026-03-07
+- **Sources:** src_001
 
 > Zanirah Faris, an Indonesian pilgrim stranded in Saudi Arabia, had her return flight canceled and was rescheduled onto a flight on March 12.
 
-### c_007 — attributed, single source
-**Subject entities:** Maged Kholaif
-**Predicate:** returned_overland
-**Object:** Kuwait (location)
-**Temporal:** 2026-03-03
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Maged Kholaif
+- **Predicate:** returned_overland
+- **Object:** Kuwait (location)
+- **Temporal:** 2026-03-03
+- **Sources:** src_001
 
 > Maged Kholaif, 44, Egyptian, had his return flight to Kuwait canceled on Feb. 28, the day the war began, and returned overland on Tuesday.
 
-### c_008 — attributed, single source
-**Subject entities:** Javed Khizer
-**Predicate:** canceled_travel
-**Object:** Saudi Arabia via Turkey and Qatar (itinerary)
-**Temporal:** 2026-03-07
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Javed Khizer
+- **Predicate:** canceled_travel
+- **Object:** Saudi Arabia via Turkey and Qatar (itinerary)
+- **Temporal:** 2026-03-07
+- **Sources:** src_001
 
 > Javed Khizer, 47, of Michigan, canceled Umrah travel for himself and his family, who had planned to travel to Saudi Arabia via Turkey and Qatar.
 
-### c_009 — attributed, single source
-**Subject entities:** Majid Mughal
-**Predicate:** reported_conditions
-**Object:** security as usual, large crowds (observation)
-**Temporal:** 2026-03-07
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Majid Mughal
+- **Predicate:** reported_conditions
+- **Object:** security as usual, large crowds (observation)
+- **Temporal:** 2026-03-07
+- **Sources:** src_001
 
 > Majid Mughal, 52, traveling from the United States with his family, was in Saudi Arabia and reported security appeared normal and large Ramadan crowds were present.
 
-### c_010 — attributed, single source
-**Subject entities:** Middle East war
-**Predicate:** began
-**Object:** Feb. 28, 2026 (date)
-**Temporal:** 2026-02-28
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Middle East war
+- **Predicate:** began
+- **Object:** Feb. 28, 2026 (date)
+- **Temporal:** 2026-02-28
+- **Sources:** src_001
 
 > The war broke out on Feb. 28, 2026.
 
-### c_011 — attributed, single source
-**Subject entities:** Indonesia
-**Predicate:** travel_annually
-**Object:** hundreds of thousands (count)
-**Temporal:** 2026-03-07
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Indonesia
+- **Predicate:** travel_annually
+- **Object:** hundreds of thousands (count)
+- **Temporal:** 2026-03-07
+- **Sources:** src_001
 
 > Hundreds of thousands of people from Indonesia, home to the world's largest Muslim population, travel to Saudi Arabia annually for Umrah rituals.
 
-### c_012 — attributed, single source
-**Subject entities:** Gulf airports
-**Predicate:** serve_as
-**Object:** critical connecting hubs (characterization)
-**Temporal:** 2026-03-07
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Gulf airports
+- **Predicate:** serve_as
+- **Object:** critical connecting hubs (characterization)
+- **Temporal:** 2026-03-07
+- **Sources:** src_001
 
 > Gulf airports serve as critical hubs connecting travelers going to Europe, Africa, and Asia.
 
@@ -232,10 +261,5 @@ Beyond the pilgrimage traffic, airports in the Gulf serve as critical connecting
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Mariam Fam
 **Publication date:** 2026-03-07
-**Access date:** 2026-03-07
 **Title:** Some Muslim pilgrims are stranded by Iran war travel disruptions
 **URL:** https://apnews.com/article/iran-war-saudi-arabia-muslim-pilgrims-travel-668bb795399e8a4e6822e91e628c3851
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

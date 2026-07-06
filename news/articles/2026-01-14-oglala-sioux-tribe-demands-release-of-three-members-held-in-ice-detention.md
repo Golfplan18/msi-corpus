@@ -18,42 +18,44 @@ primary_themes:
 - federal jurisdiction
 - homelessness
 topic_tags:
-  - "crime, law and justice"
+- crime, law and justice
+- law enforcement
+- civil rights
+- fundamental rights
+- human migration
 storyline_nexus:
-  - immigration-enforcement
-geographic_location: Minneapolis, Minnesota; Fort Snelling, Minnesota
+- us-immigration-enforcement
+geographic_location: United States
 floor_values_engaged:
-- value: human_life_and_dignity
-  intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.85
+  intensity: 0.9
 - value: equality_fairness
-  intensity: 0.85
-- value: informed_citizenship
-  intensity: 0.7
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T06:58:10Z'
+  intensity: 0.9
+- value: human_life_and_dignity
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:13:14Z'
 source_cluster_id: cluster_ap_2026-01-13_ice-minneapolis-tribal-citizens-immigrat
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 12
   hedges:
     appears: 0
-    alleged: 0
+    contested: 0
     attributed: 10
     reported: 2
-    contested: 0
+    alleged: 0
     confirmed: 0
   corroboration:
+    two_independent: 0
     primary_plus_secondary: 0
+    single_source: 12
     one_originating_plus_primary_document: 0
     primary_document: 0
-    single_source: 12
-    two_independent: 0
 sources:
   count: 1
   outlets:
@@ -71,29 +73,20 @@ image:
   url: /articles/2026-01-14-oglala-sioux-tribe-demands-release-of-three-members-held-in-ice-detention.png
   alt: 'Illustration accompanying article: Oglala Sioux Tribe demands release of three members held in ICE detention'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-11-federal-agents-ram-minneapolis-door-pepper-spray-protesters-in-immigration-sweep
-  relation: related
-  strength: 0.7553
-  confidence: medium
-- slug: 2026-01-13-federal-agents-deploy-tear-gas-in-minneapolis-as-five-prosecutors-resign-over-re
-  relation: related
-  strength: 0.7313
-  confidence: medium
-- slug: 2026-01-12-minnesota-twin-cities-sue-trump-administration-over-fatal-ice-shooting
-  relation: related
-  strength: 0.7365
-  confidence: medium
-- slug: 2026-01-12-congress-members-blocked-from-minneapolis-ice-facility-after-dhs-reinstates-acce
-  relation: related
-  strength: 0.7344
-  confidence: medium
-- slug: 2026-01-09-federal-authorities-bar-minnesota-from-ice-shooting-probe-claim-no-state-jurisdi
-  relation: related
-  strength: 0.7206
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Oglala Sioux Tribe says three tribal members arrested in Minneapolis are in ICE detention
+- Details about the circumstances that led to their detention were unclear.
+- DHS did not immediately respond to a request for comment Tuesday evening.
+- Star Comes Out said the tribe has no plans enter an agreement with ICE.
+- In the press release, he demanded information on the status of the three men in detention, the release of all tribal citizens in ICE custody and a meeting between the tribe and the government.
+- It’s not the first time in recent months that ICE agents have detained tribal members.
 
 The detentions expose a recurring conflict over whether ICE agents can legally detain citizens of federally recognized tribes — whom federal statute designates as U.S. citizens — a dispute that has surfaced involving at least three other tribal nations in recent months.
 
@@ -129,111 +122,135 @@ Indigenous rights groups and the Red Lake Band of Chippewa Indians have establis
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Oglala Sioux Tribe members; Fort Snelling ICE facility
-**Predicate:** transferred_to
-**Object:** ICE detention at Fort Snelling (detention_status)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Oglala Sioux Tribe members; Fort Snelling ICE facility
+- **Predicate:** transferred_to
+- **Object:** ICE detention at Fort Snelling (detention_status)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Three of four Oglala Sioux Tribe members arrested at a Minneapolis homeless encampment last Friday have been transferred to an ICE detention facility at Fort Snelling, Minnesota.
 
-### c_002 — attributed, single source
-**Subject entities:** Frank Star Comes Out; Oglala Sioux Tribe
-**Predicate:** demanded
-**Object:** immediate release of detained tribal members (political_demand)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Frank Star Comes Out; Oglala Sioux Tribe
+- **Predicate:** demanded
+- **Object:** immediate release of detained tribal members (political_demand)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Oglala Sioux Tribe President Frank Star Comes Out called Tuesday for the immediate release of the detained tribal members.
 
-### c_003 — attributed, single source
-**Subject entities:** Frank Star Comes Out; Oglala Sioux Tribe members
-**Predicate:** asserted_jurisdiction_exemption
-**Object:** tribal citizens are not aliens and are categorically outside immigration jurisdiction (legal_position)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Frank Star Comes Out; Oglala Sioux Tribe members
+- **Predicate:** asserted_jurisdiction_exemption
+- **Object:** tribal citizens are not aliens and are categorically outside immigration jurisdiction (legal_position)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Star Comes Out said enrolled tribal members are U.S. citizens by statute and Oglala Sioux Nation citizens by treaty, and are categorically outside immigration jurisdiction.
 
-### c_004 — attributed, single source
-**Subject entities:** Department of Homeland Security; Oglala Sioux Tribe
-**Predicate:** conditioned_information_release
-**Object:** immigration agreement with ICE (government_condition)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Department of Homeland Security; Oglala Sioux Tribe
+- **Predicate:** conditioned_information_release
+- **Object:** immigration agreement with ICE (government_condition)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > DHS refused to release information about the detained men beyond their first names unless the tribe entered into an immigration agreement with ICE.
 
-### c_005 — attributed, single source
-**Subject entities:** Oglala Sioux Tribe
-**Predicate:** declined
-**Object:** ICE agreement (policy_position)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Oglala Sioux Tribe
+- **Predicate:** declined
+- **Object:** ICE agreement (policy_position)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > The Oglala Sioux Tribe has no plans to enter an agreement with ICE.
 
-### c_006 — attributed, single source
-**Subject entities:** Oglala Sioux Tribe members
-**Predicate:** experiencing
-**Object:** homelessness, living under a bridge in Minneapolis (living_situation)
-**Temporal:** 2026-01-10
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Oglala Sioux Tribe members
+- **Predicate:** experiencing
+- **Object:** homelessness, living under a bridge in Minneapolis (living_situation)
+- **Temporal:** 2026-01-10
+- **Sources:** src_001
 
 > All four detained tribal members were experiencing homelessness and living under a bridge in Minneapolis at the time of their arrest.
 
-### c_007 — attributed, single source
-**Subject entities:** Fort Snelling; Dakota people
-**Predicate:** held_prisoner_at
-**Object:** Dakota War of 1862 (historical_event)
-**Temporal:** 1862
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Fort Snelling; Dakota people
+- **Predicate:** held_prisoner_at
+- **Object:** Dakota War of 1862 (historical_event)
+- **Temporal:** 1862
+- **Sources:** src_001
 
 > Dakota people were held prisoner at Fort Snelling during the Dakota War of 1862.
 
-### c_008 — attributed, single source
-**Subject entities:** Nick Estes; Fort Snelling
-**Predicate:** characterized
-**Object:** notorious anti-Indigenous, specifically anti-Dakota, history (historical_characterization)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Nick Estes; Fort Snelling
+- **Predicate:** characterized
+- **Object:** notorious anti-Indigenous, specifically anti-Dakota, history (historical_characterization)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Nick Estes, associate professor in American Indian Studies at the University of Minnesota and member of the Lower Brule Sioux Tribe, described Fort Snelling as having a notorious anti-Indigenous, specifically anti-Dakota, history.
 
-### c_009 — reported, single source
-**Subject entities:** Salt River Pima-Maricopa Indian Community member
-**Predicate:** mistakenly_scheduled_for_deportation
-**Object:** deportation scheduling error caught before execution (prior_incident)
-**Temporal:** 2025-11
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Salt River Pima-Maricopa Indian Community member
+- **Predicate:** mistakenly_scheduled_for_deportation
+- **Object:** deportation scheduling error caught before execution (prior_incident)
+- **Temporal:** 2025-11
+- **Sources:** src_001
 
 > In November 2025, a member of the Salt River Pima-Maricopa Indian Community who had been arrested in Iowa was mistakenly scheduled for deportation before the error was caught and she was released.
 
-### c_010 — attributed, single source
-**Subject entities:** Elaine Miles; Confederated Tribes of the Umatilla Indian Reservation
-**Predicate:** stopped_by_ICE
-**Object:** ICE officers told her tribal ID looked fake (prior_incident)
-**Temporal:** 2025-11
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Elaine Miles; Confederated Tribes of the Umatilla Indian Reservation
+- **Predicate:** stopped_by_ICE
+- **Object:** ICE officers told her tribal ID looked fake (prior_incident)
+- **Temporal:** 2025-11
+- **Sources:** src_001
 
 > Elaine Miles, a member of the Confederated Tribes of the Umatilla Indian Reservation and actress known for roles in Northern Exposure and The Last of Us, said in November 2025 that ICE officers stopped her in Washington state and told her tribal ID looked fake.
 
-### c_011 — reported, single source
-**Subject entities:** Navajo Nation; ICE
-**Predicate:** reported_stops_and_detentions
-**Object:** tribal citizens stopped and detained in Arizona and New Mexico (prior_incident)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Navajo Nation; ICE
+- **Predicate:** reported_stops_and_detentions
+- **Object:** tribal citizens stopped and detained in Arizona and New Mexico (prior_incident)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Navajo Nation elected leaders said last year that tribal citizens in Arizona and New Mexico reported being stopped and detained by ICE officers.
 
-### c_012 — attributed, single source
-**Subject entities:** Mary LaGarde; Minneapolis American Indian Center
-**Predicate:** urged
-**Object:** tribal citizens should carry proper identification (advisory)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Mary LaGarde; Minneapolis American Indian Center
+- **Predicate:** urged
+- **Object:** tribal citizens should carry proper identification (advisory)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Mary LaGarde, executive director of the Minneapolis American Indian Center, said she now wears her tribal ID around her neck and urged tribal citizens to carry proper identification.
 
@@ -242,10 +259,5 @@ Indigenous rights groups and the Red Lake Band of Chippewa Indians have establis
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Graham Lee Brewer
 **Publication date:** 2026-01-14
-**Access date:** 2026-01-14
 **Title:** Oglala Sioux Tribe president says three tribal citizens transferred to ICE facility
 **URL:** https://apnews.com/article/ice-minneapolis-tribal-citizens-immigration-detention-29ac43de85569b80bd64875388097ab6
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

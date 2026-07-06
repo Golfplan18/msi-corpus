@@ -22,42 +22,44 @@ primary_themes:
 - Supremacy Clause
 - California legislation
 topic_tags:
-  - election
-  - health
-  - "political process"
-  - politics
-storyline_nexus: []
-geographic_location: California, United States
+- government policy
+- law
+- civil rights
+- fundamental rights
+- health
+storyline_nexus:
+- abortion-rights-battles
+geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.8
-- value: human_life_and_dignity
-  intensity: 0.8
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T08:22:56Z'
+  intensity: 0.9
+- value: equality_fairness
+  intensity: 0.6
+- value: informed_citizenship
+  intensity: 0.3
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T01:09:23Z'
 source_cluster_id: cluster_ap_2026-04-17_california-bill-medical-records-federal-
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 14
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 9
-    reported: 3
     contested: 0
     confirmed: 2
+    attributed: 9
+    reported: 3
+    alleged: 0
+    appears: 0
   corroboration:
-    primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
+    primary_plus_secondary: 0
     primary_document: 1
-    single_source: 13
     two_independent: 0
+    single_source: 13
 sources:
   count: 1
   outlets:
@@ -71,25 +73,16 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-06-wyoming-supreme-court-strikes-down-abortion-bans-including-first-us-pill-ban
-  relation: related
-  strength: 0.7984
-  confidence: medium
-- slug: 2025-12-31-appeals-court-lets-medicaid-cuts-to-planned-parenthood-stand-during-suit
-  relation: related
-  strength: 0.7731
-  confidence: medium
-- slug: 2025-12-31-appeals-court-lets-medicaid-funding-cuts-to-planned-parenthood-stand-while-state
-  relation: related
-  strength: 0.7654
-  confidence: medium
-- slug: 2026-01-06-trump-tells-republicans-to-be-flexible-on-hyde-amendment-for-health-care-deal
-  relation: related
-  strength: 0.753
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Assembly Bill 1930, authored by Assemblymember Rick Chavez Zbur of Los Angeles and co-sponsored by Attorney General Rob Bonta, passed the Assembly Judiciary Committee on a party-line vote after 17 min…
+- - Children's Hospital Los Angeles
 
 A California bill advancing through the state Legislature would require medical providers and affiliated businesses to notify the state attorney general before complying with federal subpoenas seeking records related to abortion, gender-affirming or reproductive care — a measure that three independent constitutional scholars say may face substantial legal challenge.
 
@@ -151,129 +144,157 @@ AB 1930 is scheduled for its next hearing before the Assembly Public Safety Comm
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** California AB 1930
-**Predicate:** requires_notification
-**Object:** attorney general notification within seven days (legal_requirement)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** California AB 1930
+- **Predicate:** requires_notification
+- **Object:** attorney general notification within seven days (legal_requirement)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > Assembly Bill 1930 would require medical providers or businesses served with a subpoena seeking abortion, gender-affirming or reproductive care records to notify the California attorney general within seven days.
 
-### c_002 — attributed, single source
-**Subject entities:** California AB 1930; California Attorney General
-**Predicate:** grants_review_period
-**Object:** 30 days (time_period)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** California AB 1930; California Attorney General
+- **Predicate:** grants_review_period
+- **Object:** 30 days (time_period)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > Under AB 1930, the attorney general would have 30 additional days to review before the provider could comply with the subpoena.
 
-### c_003 — attributed, single source
-**Subject entities:** California AB 1930
-**Predicate:** imposes_penalty
-**Object:** $15,000 per violation maximum (monetary_penalty)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** California AB 1930
+- **Predicate:** imposes_penalty
+- **Object:** $15,000 per violation maximum (monetary_penalty)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > Violations of AB 1930 would carry civil penalties of up to $15,000 per violation.
 
-### c_004 — reported, single source
-**Subject entities:** Trump administration
-**Predicate:** issued_subpoenas
-**Object:** 20 medical providers offering gender-affirming care for minors (count)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Trump administration
+- **Predicate:** issued_subpoenas
+- **Object:** 20 medical providers offering gender-affirming care for minors (count)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > The Trump administration issued federal subpoenas to 20 medical providers that offered gender-affirming care for minors, seeking patients' medical records.
 
-### c_005 — reported, single source
-**Subject entities:** Children's Hospital Los Angeles
-**Predicate:** received_subpoena
-**Object:** federal subpoena for patient records (legal_action)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Children's Hospital Los Angeles
+- **Predicate:** received_subpoena
+- **Object:** federal subpoena for patient records (legal_action)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > Children's Hospital Los Angeles was one of the 20 providers that received a federal subpoena.
 
-### c_006 — attributed, single source
-**Subject entities:** U.S. Justice Department
-**Predicate:** stated
-**Object:** investigation into health care fraud and false statements (official_statement)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Justice Department
+- **Predicate:** stated
+- **Object:** investigation into health care fraud and false statements (official_statement)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > The U.S. Justice Department said the subpoenas were part of an investigation into 'health care fraud' and 'false statements.'
 
-### c_007 — reported, single source
-**Subject entities:** patient families; U.S. federal government
-**Predicate:** withdrew_from_subpoenas
-**Object:** did not receive records after January 2026 (outcome)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** patient families; U.S. federal government
+- **Predicate:** withdrew_from_subpoenas
+- **Object:** did not receive records after January 2026 (outcome)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Families of some patients sued to fight the subpoenas; the federal government backed off in January 2026 and did not receive the records.
 
-### c_008 — confirmed, primary document
-**Subject entities:** California AB 1930; California Assembly Judiciary Committee
-**Predicate:** passed
-**Object:** party-line vote, 17 minutes of discussion (legislative_action)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** California AB 1930; California Assembly Judiciary Committee
+- **Predicate:** passed
+- **Object:** party-line vote, 17 minutes of discussion (legislative_action)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > AB 1930 passed the Assembly Judiciary Committee on a party-line vote after 17 minutes of discussion.
 
-### c_009 — attributed, single source
-**Subject entities:** Erwin Chemerinsky
-**Predicate:** stated
-**Object:** federal law prevails over state law under Supremacy Clause (legal_opinion)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Erwin Chemerinsky
+- **Predicate:** stated
+- **Object:** federal law prevails over state law under Supremacy Clause (legal_opinion)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > Erwin Chemerinsky, dean of UC Berkeley School of Law, said under the Supremacy Clause, 'If there's a conflict between federal law on the one hand, and state or local (law) on the other, federal law wins out.'
 
-### c_010 — attributed, single source
-**Subject entities:** Leslie Gielow Jacobs
-**Predicate:** stated
-**Object:** federal government could allege impeding law enforcement (legal_opinion)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Leslie Gielow Jacobs
+- **Predicate:** stated
+- **Object:** federal government could allege impeding law enforcement (legal_opinion)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > Leslie Gielow Jacobs, law professor at University of the Pacific McGeorge School of Law, said the bill could give the federal government grounds to argue it is being obstructed.
 
-### c_011 — attributed, single source
-**Subject entities:** Vikram David Amar
-**Predicate:** stated
-**Object:** bill would be invalid under Supremacy if impeding federal objectives (legal_opinion)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Vikram David Amar
+- **Predicate:** stated
+- **Object:** bill would be invalid under Supremacy if impeding federal objectives (legal_opinion)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > Vikram David Amar, law professor at UC Davis School of Law, said that if the bill is 'impeding federal objectives,' it 'would be invalid under Supremacy.'
 
-### c_012 — attributed, single source
-**Subject entities:** Bill Essayli
-**Predicate:** stated
-**Object:** bill would be unconstitutional under Supremacy Clause (legal_opinion)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Bill Essayli
+- **Predicate:** stated
+- **Object:** bill would be unconstitutional under Supremacy Clause (legal_opinion)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > Bill Essayli, who oversees the U.S. Attorney's Office in Los Angeles, said in a statement that the measure would be unconstitutional under the Supremacy Clause.
 
-### c_013 — attributed, single source
-**Subject entities:** California Chamber of Commerce
-**Predicate:** opposed
-**Object:** AB 1930, citing risk of compelling businesses to violate federal law (organizational_position)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** California Chamber of Commerce
+- **Predicate:** opposed
+- **Object:** AB 1930, citing risk of compelling businesses to violate federal law (organizational_position)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > The California Chamber of Commerce opposed AB 1930, saying it was concerned the bill would compel businesses to violate federal law.
 
-### c_014 — confirmed, single source
-**Subject entities:** Rob Bonta; Equality California; California AB 1930
-**Predicate:** co-sponsors
-**Object:** AB 1930 (legislative_sponsorship)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_014
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Rob Bonta; Equality California; California AB 1930
+- **Predicate:** co-sponsors
+- **Object:** AB 1930 (legislative_sponsorship)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > AB 1930 is co-sponsored by Attorney General Rob Bonta and Equality California, an LGBTQ+ civil rights group.
 
@@ -282,10 +303,5 @@ AB 1930 is scheduled for its next hearing before the Assembly Public Safety Comm
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Ryan Sabalow
 **Publication date:** 2026-04-16
-**Access date:** 2026-05-17
-**Title:** Trump wants data on California's trans and abortion care. Can the state stop him?
+**Title:** Trump wants data on California’s trans and abortion care. Can the state stop him?
 **URL:** https://apnews.com/article/california-bill-medical-records-federal-subpoenas-69ddbe227d8a7ba34dd069aae763dae0
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

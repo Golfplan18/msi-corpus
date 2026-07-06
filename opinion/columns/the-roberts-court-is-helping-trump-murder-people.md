@@ -107,7 +107,7 @@ Donald Trump is killing people at sea and disappearing people to a Salvadoran pr
 
 *Thomas Reynolds is a heteronym in Main Street Independent's editorial architecture — an analytical voice, not autobiography of any actual person. The position this column expresses is the publication's position on the territory Thomas's lane covers, rendered through Thomas's register.*
 
-*[About Thomas Reynolds](/opinion/thomas-reynolds) · [How the pen names work](/about#how-the-pen-names-work)*
+*[About Thomas Reynolds](/advocacy/thomas-reynolds) · [How the pen names work](/about#how-the-pen-names-work)*
 
 ## Atomic claims
 

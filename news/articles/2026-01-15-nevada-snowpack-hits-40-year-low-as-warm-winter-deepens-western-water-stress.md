@@ -19,48 +19,45 @@ primary_themes:
 - Colorado River management
 - climate and warming temperatures
 topic_tags:
-  - "climate change"
-  - "conflict, war and peace"
-  - conservation
-  - environment
-  - "science and technology"
-  - weather
-storyline_nexus: []
-geographic_location: Nevada; Western United States; Colorado River Basin
+- climate change
+- environment
+- natural resources
+- weather
+storyline_nexus:
+- extreme-weather-disasters
+geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship
-  intensity: 0.85
-- value: accountability_of_power
-  intensity: 0.55
+  intensity: 0.9
 - value: human_life_and_dignity
-  intensity: 0.5
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:00:00Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:51:00Z'
 source_cluster_id: cluster_ap_2026-01-16_general-news-weather-nevada-colorado-riv
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 12
   hedges:
+    reported: 0
     appears: 0
+    contested: 0
     alleged: 0
     attributed: 9
-    reported: 0
-    contested: 0
     confirmed: 3
   corroboration:
-    primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
+    primary_plus_secondary: 0
+    two_independent: 0
     primary_document: 3
     single_source: 9
-    two_independent: 0
 sources:
   count: 1
   outlets:
-  - Associated Press / The Nevada Independent
+  - Associated Press
   outlet_classes:
   - wire
   highest_reliability_tier: 1
@@ -70,13 +67,19 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2025-12-29-2025-ranks-among-the-three-hottest-years-on-record-researchers-say
-  relation: related
-  strength: 0.7517
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Nevada closed out 2025 with its lowest snowpack in more than 40 years, as unseasonably warm temperatures pushed precipitation to fall as rain rather than snow across much of the West, federal hydrolog…
+- Nevada and much of the West face a winter of drastically diminished snowpack, as unseasonably warm temperatures redirected precipitation that would normally fall as snow into rain, leaving mountain re…
+- "It was an unusually warm start to the season. When we got storms, we got rain instead of snow in the mountains," said Jeff Anderson, hydrologist for the Natural Resources Conservation Service in Neva…
+- As of Jan. 1, Nevada's statewide snowpack stood at 74 percent of its historical median, a figure that overstates conditions in the state's interior basins. The snow water equivalent — the amount of wa…
+- Baker Perry, Nevada's state climatologist, said the warming trend reflects what the region's future holds. "We're looking at the future here of the West," Perry said.
 
 Nevada closed out 2025 with its lowest snowpack in more than 40 years, as unseasonably warm temperatures pushed precipitation to fall as rain rather than snow across much of the West, federal hydrologists said. The snow drought has left mountain ranges from the Sierra Nevada to the Colorado Rockies far below normal, threatening spring and summer water supplies for farms, cities and the already-strained Colorado River system.
 
@@ -124,123 +127,142 @@ A final decision on Colorado River management is due Oct. 1, the start of the ne
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Western United States
-**Predicate:** snow_coverage_measured_at
-**Object:** 379000 acres vs 1.46 million typical (area_comparison)
-**Temporal:** 2026-01-01
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Western United States
+- **Predicate:** snow_coverage_measured_at
+- **Object:** 379000 acres vs 1.46 million typical (area_comparison)
+- **Temporal:** 2026-01-01
+- **Sources:** src_001
 
 > As of Jan. 1, just 379,000 acres across the West were covered with snow, compared with the roughly 1.46 million acres typically blanketed at that time of year.
 
-### c_002 — attributed, single source
-**Subject entities:** Nevada; Eastern Sierra
-**Predicate:** recorded_lowest_snowpack
-**Object:** lowest in more than 40 years (historical_comparison)
-**Temporal:** 2025-12-31
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Nevada; Eastern Sierra
+- **Predicate:** recorded_lowest_snowpack
+- **Object:** lowest in more than 40 years (historical_comparison)
+- **Temporal:** 2025-12-31
+- **Sources:** src_001
 
 > Nevada and the Eastern Sierra closed out 2025 with the lowest snowpack in more than 40 years.
 
-### c_003 — attributed, single source
-**Subject entities:** Nevada
-**Predicate:** snowpack_percent_of_median
-**Object:** 74 (percentage)
-**Temporal:** 2026-01-01
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Nevada
+- **Predicate:** snowpack_percent_of_median
+- **Object:** 74 (percentage)
+- **Temporal:** 2026-01-01
+- **Sources:** src_001
 
 > Nevada's statewide snowpack stood at 74 percent of historical median as of Jan. 1.
 
-### c_004 — attributed, single source
-**Subject entities:** Upper Humboldt Basin; Lower Humboldt Basin
-**Predicate:** snow_water_equivalent_percent_of_median
-**Object:** 24% upper, 31% lower (percentage_pair)
-**Temporal:** 2026-01-01
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Upper Humboldt Basin; Lower Humboldt Basin
+- **Predicate:** snow_water_equivalent_percent_of_median
+- **Object:** 24% upper, 31% lower (percentage_pair)
+- **Temporal:** 2026-01-01
+- **Sources:** src_001
 
 > The snow water equivalent in the Upper Humboldt Basin stood at 24 percent of median, with the Lower Humboldt at 31 percent.
 
-### c_005 — attributed, single source
-**Subject entities:** Nevada; Reno
-**Predicate:** temperature_anomaly_recorded
-**Object:** nearly 6 degrees above normal; warmest November since 1893 (temperature_anomaly)
-**Temporal:** 2025-11
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Nevada; Reno
+- **Predicate:** temperature_anomaly_recorded
+- **Object:** nearly 6 degrees above normal; warmest November since 1893 (temperature_anomaly)
+- **Temporal:** 2025-11
+- **Sources:** src_001
 
 > Statewide Nevada temperatures in November were nearly 6 degrees above the 30-year normal; Reno tied its record for warmest November since 1893.
 
-### c_006 — attributed, single source
-**Subject entities:** Upper Humboldt Basin
-**Predicate:** probability_of_reaching_median_snowpack
-**Object:** 20 (percentage)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Upper Humboldt Basin
+- **Predicate:** probability_of_reaching_median_snowpack
+- **Object:** 20 (percentage)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > The Upper Humboldt Basin has only a 20 percent chance of reaching its median snowpack by season's end.
 
-### c_007 — attributed, single source
-**Subject entities:** Lake Mead; Lake Powell
-**Predicate:** reservoir_capacity_percentage
-**Object:** Mead 33%, Powell 26% (percentage_pair)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Lake Mead; Lake Powell
+- **Predicate:** reservoir_capacity_percentage
+- **Object:** Mead 33%, Powell 26% (percentage_pair)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Lake Mead stood at 33 percent of capacity and Lake Powell at 26 percent.
 
-### c_008 — attributed, single source
-**Subject entities:** Colorado
-**Predicate:** snow_stations_at_record_lows
-**Object:** nearly one quarter at record lows; temps 15-25 degrees above normal (measurement)
-**Temporal:** 2025-12-25
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Colorado
+- **Predicate:** snow_stations_at_record_lows
+- **Object:** nearly one quarter at record lows; temps 15-25 degrees above normal (measurement)
+- **Temporal:** 2025-12-25
+- **Sources:** src_001
 
 > Nearly a quarter of snow measurement stations in Colorado with at least 20 years of data were at record lows on Christmas Day, when temperatures ran 15 to 25 degrees above normal.
 
-### c_009 — attributed, single source
-**Subject entities:** Colorado; Utah; Arizona; New Mexico
-**Predicate:** snow_sites_below_20th_percentile
-**Object:** more than three-quarters (proportion)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Colorado; Utah; Arizona; New Mexico
+- **Predicate:** snow_sites_below_20th_percentile
+- **Object:** more than three-quarters (proportion)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > More than three-quarters of snow measurement sites in Colorado, Utah, Arizona and New Mexico fell below the 20th percentile in early January.
 
-### c_010 — confirmed, primary document
-**Subject entities:** Bureau of Reclamation; Lake Powell; Lake Mead
-**Predicate:** released_draft_eis
-**Object:** draft guidelines for reservoir management if states cannot agree (regulatory_action)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Bureau of Reclamation; Lake Powell; Lake Mead
+- **Predicate:** released_draft_eis
+- **Object:** draft guidelines for reservoir management if states cannot agree (regulatory_action)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > The federal Bureau of Reclamation released a draft environmental impact statement outlining proposals for managing Lake Powell and Lake Mead.
 
-### c_011 — attributed, single source
-**Subject entities:** Nevada; Southern Nevada Water Authority
-**Predicate:** colorado_river_allocation_cut
-**Object:** 7% cut; no further cuts expected in 2026 (regulatory_status)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Nevada; Southern Nevada Water Authority
+- **Predicate:** colorado_river_allocation_cut
+- **Object:** 7% cut; no further cuts expected in 2026 (regulatory_status)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Nevada has absorbed a 7 percent cut to its Colorado River allocation in recent years; the Southern Nevada Water Authority does not expect further cuts this year.
 
-### c_012 — confirmed, primary document
-**Subject entities:** Colorado River; Bureau of Reclamation
-**Predicate:** decision_deadline
-**Object:** October 1, 2026 (date)
-**Temporal:** 2026-10-01
-**Source IDs:** src_001
+### c_012
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Colorado River; Bureau of Reclamation
+- **Predicate:** decision_deadline
+- **Object:** October 1, 2026 (date)
+- **Temporal:** 2026-10-01
+- **Sources:** src_001
 
 > A final decision on Colorado River management guidelines is due Oct. 1, the start of the new federal water year.
 
 ## Sources
 
-### src_001 — Associated Press / The Nevada Independent, wire, Tier 1, originating
-**Author:** Amy Alonzo
+### src_001 — Associated Press, wire, Tier 1, originating
+**Author:** Amy Alonzo / The Nevada Independent
 **Publication date:** 2026-01-15
-**Access date:** 2026-01-15
 **Title:** Much of Nevada plagued by snow drought
 **URL:** https://apnews.com/article/general-news-weather-nevada-colorado-river-droughts-c576ff1882a505862effe03bb417d63c
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

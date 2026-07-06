@@ -1,6 +1,5 @@
 ---
 headline: Hawaiʻi weighs mandatory renewal tests after 129 road deaths in 2025
-slug: 2026-01-14-hawaii-weighs-mandatory-renewal-tests-after-129-road-deaths-in-2025
 publish_date: '2026-01-14'
 lede: Hawaiʻi lawmakers and a Honolulu city council member are considering whether to reinstate mandatory written tests at driver's license renewals, a practice the state abandoned in 1997, after 129 people died on Hawaiʻi roads last year — the highest toll in 18 years. A Honolulu City Council committee was set to take up the proposal Thursday afternoon.
 nut_graf: The push reflects a broader legislative search for tools to curb traffic deaths following a record year on state roads, but lawmakers are divided on whether renewal tests are effective, and a key state senator is skeptical the requirement would produce meaningful results.
@@ -17,44 +16,45 @@ primary_themes:
 - state legislation
 - traffic fatalities
 topic_tags:
-  - "human migration"
-  - "human interest"
-storyline_nexus: []
-geographic_location: Hawaiʻi, United States
+- transport
+- transportation accident and incident
+- government policy
+- accident and emergency incident
+storyline_nexus:
+- trump-health-policy-rfk
+geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.7
 - value: human_life_and_dignity
-  intensity: 0.6
+  intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.3
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T06:58:22Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:07:54Z'
 source_cluster_id: cluster_ap_2026-01-13_lorraine-inouye-darius-kila-honolulu-roa
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 10
   hedges:
+    confirmed: 5
+    attributed: 4
+    contested: 0
+    reported: 1
     appears: 0
     alleged: 0
-    attributed: 4
-    reported: 1
-    contested: 0
-    confirmed: 5
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 1
     single_source: 9
+    primary_document: 1
+    one_originating_plus_primary_document: 0
     two_independent: 0
+    primary_plus_secondary: 0
 sources:
   count: 1
   outlets:
-  - Associated Press / Honolulu Civil Beat
+  - Associated Press
   outlet_classes:
   - wire
   highest_reliability_tier: 1
@@ -71,6 +71,13 @@ image:
 cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- Hawaiʻi lawmakers and a Honolulu city council member are considering whether to reinstate mandatory written tests at driver's license renewals, a practice the state abandoned in 1997, after 129 people died on Hawaiʻi roads last year — the highest toll in 18 years.
+- The push reflects a broader legislative search for tools to curb traffic deaths following a record year on state roads, but lawmakers are divided on whether renewal tests are effective, and a key state senator is skeptical the requirement would produce meaningful results.
+- State Rep. Darius Kila, who chairs the House Transportation Committee, said the state needs to ensure all drivers share an understanding of road rules as Hawaiʻi absorbs a growing and diverse population. He said he is working with Sen. Brandon Elefante on a bill this session that would update driver's license procedures, part of a package requested by the governor's administration..
 
 Hawaiʻi lawmakers and a Honolulu city council member are considering whether to reinstate mandatory written tests at driver's license renewals, a practice the state abandoned in 1997, after 129 people died on Hawaiʻi roads last year — the highest toll in 18 years. A Honolulu City Council committee was set to take up the proposal Thursday afternoon.
 
@@ -106,105 +113,120 @@ Mandatory renewal tests are uncommon across the United States. California elimin
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Hawaiʻi roads
-**Predicate:** fatalities_recorded
-**Object:** 129 (count)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Hawaiʻi roads
+- **Predicate:** fatalities_recorded
+- **Object:** 129 (count)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > 129 people died on Hawaiʻi roads in 2025, an 18-year high.
 
-### c_002 — confirmed, single source
-**Subject entities:** Hawaiʻi
-**Predicate:** eliminated_policy
-**Object:** mandatory written renewal tests (policy)
-**Temporal:** 1997
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Hawaiʻi
+- **Predicate:** eliminated_policy
+- **Object:** mandatory written renewal tests (policy)
+- **Temporal:** 1997
+- **Sources:** src_001
 
 > Hawaiʻi eliminated mandatory written renewal tests in 1997.
 
-### c_003 — attributed, single source
-**Subject entities:** Darius Kila
-**Predicate:** supports_policy
-**Object:** reinstatement of renewal tests (legislative_position)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Darius Kila
+- **Predicate:** supports_policy
+- **Object:** reinstatement of renewal tests (legislative_position)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > State Rep. Darius Kila chairs the House Transportation Committee and supports revisiting renewal tests as part of a package of bills requested by the governor's administration.
 
-### c_004 — attributed, single source
-**Subject entities:** Lorraine Inouye
-**Predicate:** opposes_policy
-**Object:** mandatory renewal tests for clean-record drivers (legislative_position)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Lorraine Inouye
+- **Predicate:** opposes_policy
+- **Object:** mandatory renewal tests for clean-record drivers (legislative_position)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Sen. Lorraine Inouye chairs the Senate Transportation Committee and opposes reinstating mandatory renewal tests for drivers without infractions.
 
-### c_005 — confirmed, single source
-**Subject entities:** Radiant Cordero
-**Predicate:** introduced_resolutions
-**Object:** renewal test mandate and expanded education requirements (legislative_action)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Radiant Cordero
+- **Predicate:** introduced_resolutions
+- **Object:** renewal test mandate and expanded education requirements (legislative_action)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Honolulu City Council member Radiant Cordero introduced resolutions asking state lawmakers to consider mandating renewal tests and expanding driver education requirements.
 
-### c_006 — attributed, single source
-**Subject entities:** Darius Kila; Brandon Elefante
-**Predicate:** co-sponsoring_bill
-**Object:** driver's license procedure update (legislation)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Darius Kila; Brandon Elefante
+- **Predicate:** co-sponsoring_bill
+- **Object:** driver's license procedure update (legislation)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Kila is working with Sen. Brandon Elefante on a bill this session that would update driver's license procedures.
 
-### c_007 — confirmed, single source
-**Subject entities:** Honolulu City Council
-**Predicate:** scheduled_meeting
-**Object:** Government Efficiency and Customer Services Committee (meeting)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Honolulu City Council
+- **Predicate:** scheduled_meeting
+- **Object:** Government Efficiency and Customer Services Committee (meeting)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > The Honolulu City Council's Government Efficiency and Customer Services Committee meeting was scheduled for Thursday at 2:30 p.m.
 
-### c_008 — reported, primary document
-**Subject entities:** City and County of Honolulu
-**Predicate:** testified
-**Object:** renewal testing does not change driving habits or lower accident rates (government_testimony)
-**Temporal:** 1997
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** City and County of Honolulu
+- **Predicate:** testified
+- **Object:** renewal testing does not change driving habits or lower accident rates (government_testimony)
+- **Temporal:** 1997
+- **Sources:** src_001
 
 > A 1997 committee report indicates the City and County of Honolulu testified that data showed renewal testing frequency does not change driving habits nor lower accident rates.
 
-### c_009 — confirmed, single source
-**Subject entities:** California
-**Predicate:** eliminated_policy
-**Object:** mandatory renewal tests for drivers over 70 (policy)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** California
+- **Predicate:** eliminated_policy
+- **Object:** mandatory renewal tests for drivers over 70 (policy)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > California eliminated mandatory written renewal tests for drivers over 70 in fall 2024.
 
-### c_010 — confirmed, single source
-**Subject entities:** Hawaiʻi
-**Predicate:** requires_renewal_cycle
-**Object:** 2, 4, or 8 years by age (policy)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Hawaiʻi
+- **Predicate:** requires_renewal_cycle
+- **Object:** 2, 4, or 8 years by age (policy)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Hawaiʻi requires licenses to be renewed every two, four, or eight years depending on the driver's age.
 
 ## Sources
 
-### src_001 — Associated Press / Honolulu Civil Beat, wire, Tier 1, originating
-**Author:** Ben Angarone
+### src_001 — Associated Press, wire, Tier 1, originating
+**Author:** Ben Angarone / Honolulu Civil Beat
 **Publication date:** 2026-01-14
-**Access date:** 2026-01-14
-**Title:** Hawaiʻi May Add A Test To Driver's License Renewals As Traffic Deaths Climb
+**Title:** Hawaiʻi May Add A Test To Driver’s License Renewals As Traffic Deaths Climb
 **URL:** https://apnews.com/article/lorraine-inouye-darius-kila-honolulu-road-safety-traffic-6f7cc688f92f47fe9bd59178e8d286fb
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

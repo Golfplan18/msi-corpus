@@ -192,7 +192,3 @@ Even if the country receives adequate rainfall in the months ahead, recovery fro
 **Access date:** 2026-02-24
 **Title:** UN data shows 6.5 million people in Somalia at risk of severe hunger from drought
 **URL:** https://apnews.com/article/somalia-hunger-drought-united-nations-3363698a5786adf9ea851f2d9ad27f49
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -115,8 +115,6 @@ Ko Ko Gyi, chairman of the People's Party — one of only a handful of non-milit
 
 The military government announced that final results would be released later in the week. Parliament will convene in March, with the new government taking office in April.
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification at /methodology. Human review status — not triggered.
-
 ## Atomic claims
 
 ### c_001 — confirmed, primary document
@@ -261,7 +259,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-01-24
 **Title:** Myanmar is in its last election round with the army certain to keep control
 **URL:** https://apnews.com/article/myanmar-elections-48f9f80748a23ce4ac9d7a1ea476f1f4
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

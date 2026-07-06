@@ -19,7 +19,7 @@ topic_tags:
   - crime
   - prosecution
 storyline_nexus:
-  - immigration-enforcement
+- housing-affordability-crisis
 geographic_location: New York City, New York, United States
 floor_values_engaged:
 - value: truthfulness
@@ -100,93 +100,113 @@ The case underscores how tenant-protection laws, designed to shield vulnerable r
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Mickey Barreto; Manhattan District Attorney
-**Predicate:** pleaded_guilty
-**Object:** fraud involving forged property records (criminal_charge)
-**Temporal:** 2026-02-19
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Mickey Barreto; Manhattan District Attorney
+- **Predicate:** pleaded_guilty
+- **Object:** fraud involving forged property records (criminal_charge)
+- **Temporal:** 2026-02-19
+- **Sources:** src_001
 
 > Mickey Barreto pleaded guilty to fraud on Wednesday.
 
-### c_002 — attributed, single source
-**Subject entities:** Mickey Barreto; New Yorker Hotel
-**Predicate:** paid_for_room
-**Object:** $200 for one night (monetary_transaction)
-**Temporal:** 2018
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Mickey Barreto; New Yorker Hotel
+- **Predicate:** paid_for_room
+- **Object:** $200 for one night (monetary_transaction)
+- **Temporal:** 2018
+- **Sources:** src_001
 
 > In 2018, Barreto and his boyfriend paid $200 to rent one room in the New Yorker Hotel.
 
-### c_003 — attributed, single source
-**Subject entities:** Mickey Barreto; NYC Housing Law
-**Predicate:** claimed_entitlement
-**Object:** tenant protections for single-room occupants in pre-1969 buildings (legal_right_claim)
-**Temporal:** 2018
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Mickey Barreto; NYC Housing Law
+- **Predicate:** claimed_entitlement
+- **Object:** tenant protections for single-room occupants in pre-1969 buildings (legal_right_claim)
+- **Temporal:** 2018
+- **Sources:** src_001
 
 > Barreto claimed his one-night stay entitled him to protections under a New York City housing law for single-room occupants in buildings constructed before 1969.
 
-### c_004 — attributed, single source
-**Subject entities:** Mickey Barreto; New Yorker Hotel; NYC Housing Court
-**Predicate:** awarded_possession
-**Object:** possession of one hotel room (court_decision)
-**Temporal:** 2018
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Mickey Barreto; New Yorker Hotel; NYC Housing Court
+- **Predicate:** awarded_possession
+- **Object:** possession of one hotel room (court_decision)
+- **Temporal:** 2018
+- **Sources:** src_001
 
 > After the hotel failed to send a lawyer to a key housing court hearing, Barreto was awarded possession of the room.
 
-### c_005 — attributed, single source
-**Subject entities:** Mickey Barreto; New Yorker Hotel
-**Predicate:** uploaded_fraudulent_deed
-**Object:** forged property deed claiming building ownership (fraudulent_document)
-**Temporal:** post-2018
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Mickey Barreto; New Yorker Hotel
+- **Predicate:** uploaded_fraudulent_deed
+- **Object:** forged property deed claiming building ownership (fraudulent_document)
+- **Temporal:** post-2018
+- **Sources:** src_001
 
 > Barreto uploaded a fake deed to a city website claiming to transfer ownership of the entire hotel building to himself.
 
-### c_006 — attributed, single source
-**Subject entities:** Mickey Barreto; New Yorker Hotel
-**Predicate:** attempted_financial_fraud
-**Object:** rent collection and account transfer demands (fraud_attempt)
-**Temporal:** post-2018
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Mickey Barreto; New Yorker Hotel
+- **Predicate:** attempted_financial_fraud
+- **Object:** rent collection and account transfer demands (fraud_attempt)
+- **Temporal:** post-2018
+- **Sources:** src_001
 
 > Barreto attempted to collect rent from a hotel tenant and demanded the hotel transfer its bank accounts to him.
 
-### c_007 — attributed, single source
-**Subject entities:** New Yorker Hotel; Holy Spirit Association for the Unification of World Christianity
-**Predicate:** owned_by
-**Object:** Holy Spirit Association for the Unification of World Christianity (organization)
-**Temporal:** present
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** New Yorker Hotel; Holy Spirit Association for the Unification of World Christianity
+- **Predicate:** owned_by
+- **Object:** Holy Spirit Association for the Unification of World Christianity (organization)
+- **Temporal:** present
+- **Sources:** src_001
 
 > The New Yorker Hotel is owned by the Holy Spirit Association for the Unification of World Christianity, founded by Rev. Sun Myung Moon.
 
-### c_008 — attributed, single source
-**Subject entities:** Mickey Barreto; New Yorker Hotel
-**Predicate:** evicted_and_charged
-**Object:** eviction and multiple felony fraud charges (legal_action)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Mickey Barreto; New Yorker Hotel
+- **Predicate:** evicted_and_charged
+- **Object:** eviction and multiple felony fraud charges (legal_action)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > Barreto was evicted from the hotel in 2024 and charged with multiple counts of felony fraud.
 
-### c_009 — attributed, single source
-**Subject entities:** Mickey Barreto; Court
-**Predicate:** found_unfit_to_stand_trial
-**Object:** psychiatric treatment order (court_decision)
-**Temporal:** post-2024
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Mickey Barreto; Court
+- **Predicate:** found_unfit_to_stand_trial
+- **Object:** psychiatric treatment order (court_decision)
+- **Temporal:** post-2024
+- **Sources:** src_001
 
 > Barreto was found unfit to stand trial and ordered to undergo psychiatric treatment.
 
-### c_010 — confirmed, primary document
-**Subject entities:** Mickey Barreto; Manhattan District Attorney
-**Predicate:** sentenced
-**Object:** six months prison (already served) plus five years probation (criminal_sentence)
-**Temporal:** 2026-02-19
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Mickey Barreto; Manhattan District Attorney
+- **Predicate:** sentenced
+- **Object:** six months prison (already served) plus five years probation (criminal_sentence)
+- **Temporal:** 2026-02-19
+- **Sources:** src_001
 
 > Barreto was sentenced to six months in prison, which he has already served, and five years of probation.
 
@@ -198,7 +218,3 @@ The case underscores how tenant-protection laws, designed to shield vulnerable r
 **Access date:** 2026-05-18
 **Title:** New York City man pleads guilty to fraud in New Yorker Hotel case
 **URL:** https://apnews.com/article/new-yorker-hotel-mickey-barreto-8290c98af3f2c8d8a3afb54939e54a69
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

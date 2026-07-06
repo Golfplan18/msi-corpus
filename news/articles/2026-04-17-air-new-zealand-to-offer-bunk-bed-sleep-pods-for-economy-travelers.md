@@ -15,8 +15,7 @@ primary_themes:
 - fuel_costs
 topic_tags:
   - "economy, business and finance"
-storyline_nexus:
-  - ai-regulation
+storyline_nexus: []
 geographic_location: International (New Zealand, United States)
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -96,8 +95,6 @@ The Skynest offering is the latest in a broader industry push to monetize econom
 Air New Zealand began developing the economy sleep pods in 2020, before the current fuel crisis. But the timing of their arrival reflects the airline's recent struggles. In March, the carrier suspended its earnings outlook citing fuel price volatility. It has raised ticket prices and cut some domestic routes. By November, when the Dreamliners begin transatlantic service, the bunk-bed option will be one of several strategies airlines are deploying to manage the economics of long-haul flight.
 
 For the exhausted economy passenger facing 16 to 18 hours in a seat, the trade-off — cramped quarters, strict rules, and a premium price — may still feel like progress.
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. Framework specification available at /methodology. Released under CC0.*
 
 ## Atomic claims
 
@@ -226,7 +223,3 @@ For the exhausted economy passenger facing 16 to 18 hours in a seat, the trade-o
 **Access date:** 2026-05-17
 **Title:** Bunk beds are coming to economy air travel. There are rules
 **URL:** https://apnews.com/article/air-new-zealand-economy-bunk-beds-sleep-c2c434f60116f332c0ce96c69d662c3b
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

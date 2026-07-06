@@ -22,9 +22,12 @@ primary_themes:
 - First Amendment
 - Department of Justice
 - academic freedom
-topic_tags: []
+topic_tags:
+- government
+- law
+- prosecution
 storyline_nexus:
-  - immigration-enforcement
+- trump-judicial-challenges
 geographic_location: Washington, D.C.
 floor_values_engaged:
 - value: accountability_of_power
@@ -122,10 +125,6 @@ cross_article_links:
   relation: related
   strength: 0.732
   confidence: medium
-- slug: 2026-01-13-le-pen-appeals-embezzlement-conviction-with-2027-presidential-bid-at-stake
-  relation: related
-  strength: 0.7315
-  confidence: medium
 - slug: 2026-01-13-south-korea-prosecutor-seeks-death-sentence-for-yoon-over-martial-law-rebellion
   relation: related
   strength: 0.7297
@@ -185,93 +184,113 @@ In May, Trump picked Fox News host Jeanine Pirro to replace Martin as U.S. Attor
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Office of Disciplinary Counsel; Ed Martin
-**Predicate:** filed_charges_against
-**Object:** professional misconduct charges (legal_filing)
-**Temporal:** 2026-03-07
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Office of Disciplinary Counsel; Ed Martin
+- **Predicate:** filed_charges_against
+- **Object:** professional misconduct charges (legal_filing)
+- **Temporal:** 2026-03-07
+- **Sources:** src_001
 
 > The Office of Disciplinary Counsel filed professional misconduct charges against Ed Martin on Friday.
 
-### c_002 — attributed, primary document
-**Subject entities:** Ed Martin; Georgetown Law School; William Treanor
-**Predicate:** sent_letter_while_serving_as
-**Object:** interim U.S. Attorney for D.C. (government_role)
-**Temporal:** 2025-02
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Ed Martin; Georgetown Law School; William Treanor
+- **Predicate:** sent_letter_while_serving_as
+- **Object:** interim U.S. Attorney for D.C. (government_role)
+- **Temporal:** 2025-02
+- **Sources:** src_001
 
 > Martin was the interim U.S. Attorney for the District of Columbia when he sent the letter to Georgetown Law Dean William Treanor.
 
-### c_003 — confirmed, primary document
-**Subject entities:** Ed Martin; Georgetown Law School
-**Predicate:** threatened_hiring_ban
-**Object:** jobs, summer internships, fellowships (employment_threat)
-**Temporal:** 2025-02
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Ed Martin; Georgetown Law School
+- **Predicate:** threatened_hiring_ban
+- **Object:** jobs, summer internships, fellowships (employment_threat)
+- **Temporal:** 2025-02
+- **Sources:** src_001
 
 > Martin's letter warned that his office would not consider Georgetown law students for jobs, summer internships or fellowships until his 'letter of inquiry' was resolved.
 
-### c_004 — alleged, primary document
-**Subject entities:** Ed Martin
-**Predicate:** accused_of_violating
-**Object:** oath of office; First Amendment; due process (constitutional_violations)
-**Temporal:** 2026-03-07
-**Source IDs:** src_001
+### c_004
+- **Hedge:** alleged
+- **Corroboration:** primary_document
+- **Subject entities:** Ed Martin
+- **Predicate:** accused_of_violating
+- **Object:** oath of office; First Amendment; due process (constitutional_violations)
+- **Temporal:** 2026-03-07
+- **Sources:** src_001
 
 > Martin is accused of violating his oath of office and the Constitution's rights to free speech and due process.
 
-### c_005 — attributed, primary document
-**Subject entities:** William Treanor; Georgetown Law School; Ed Martin
-**Predicate:** responded_asserting
-**Object:** First Amendment prohibits government curriculum dictation (legal_assertion)
-**Temporal:** 2025-02
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** William Treanor; Georgetown Law School; Ed Martin
+- **Predicate:** responded_asserting
+- **Object:** First Amendment prohibits government curriculum dictation (legal_assertion)
+- **Temporal:** 2025-02
+- **Sources:** src_001
 
 > Georgetown Law Dean William Treanor told Martin that the First Amendment prohibits the government from dictating what the university's faculty teaches.
 
-### c_006 — attributed, single source
-**Subject entities:** Todd Blanche; Office of Disciplinary Counsel
-**Predicate:** criticized_as
-**Object:** blatantly Democrat-run political organization (attributed_characterization)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Todd Blanche; Office of Disciplinary Counsel
+- **Predicate:** criticized_as
+- **Object:** blatantly Democrat-run political organization (attributed_characterization)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > Deputy Attorney General Todd Blanche called the complaint the product of 'a blatantly Democrat-run political organization.'
 
-### c_007 — attributed, single source
-**Subject entities:** Ed Martin; Donald Trump
-**Predicate:** was_figure_in
-**Object:** Stop the Steal movement (political_activity)
-**Temporal:** 2020-11
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ed Martin; Donald Trump
+- **Predicate:** was_figure_in
+- **Object:** Stop the Steal movement (political_activity)
+- **Temporal:** 2020-11
+- **Sources:** src_001
 
 > Martin was a leading figure in Trump's 'Stop the Steal' movement after the 2020 presidential election.
 
-### c_008 — attributed, single source
-**Subject entities:** Donald Trump; Ed Martin
-**Predicate:** withdrew_nomination
-**Object:** U.S. Attorney for D.C. (government_position)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Ed Martin
+- **Predicate:** withdrew_nomination
+- **Object:** U.S. Attorney for D.C. (government_position)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Trump pulled Martin's nomination to lead the D.C. U.S. Attorney's office after a key Republican senator said he could not support Martin due to his support for Jan. 6 Capitol rioters.
 
-### c_009 — attributed, single source
-**Subject entities:** Donald Trump; Jeanine Pirro; Ed Martin
-**Predicate:** nominated_to_replace
-**Object:** U.S. Attorney for D.C. (government_position)
-**Temporal:** 2025-05
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Jeanine Pirro; Ed Martin
+- **Predicate:** nominated_to_replace
+- **Object:** U.S. Attorney for D.C. (government_position)
+- **Temporal:** 2025-05
+- **Sources:** src_001
 
 > Trump picked Fox News host Jeanine Pirro to replace Martin as U.S. Attorney in May.
 
-### c_010 — reported, single source
-**Subject entities:** Ed Martin; U.S. Department of Justice
-**Predicate:** removed_from_heading
-**Object:** Weaponization Working Group (government_body)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Ed Martin; U.S. Department of Justice
+- **Predicate:** removed_from_heading
+- **Object:** Weaponization Working Group (government_body)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Martin was recently removed as head of the Justice Department's 'Weaponization Working Group,' which was tasked with scrutinizing federal prosecutions of Trump.
 
@@ -283,7 +302,3 @@ In May, Trump picked Fox News host Jeanine Pirro to replace Martin as U.S. Attor
 **Access date:** 2026-05-17
 **Title:** Ethics office targets Justice Department official Ed Martin over letter to Georgetown dean
 **URL:** https://apnews.com/article/ed-martin-ethics-complaint-georgetown-46e008433662e98598889ade266ae7c4
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

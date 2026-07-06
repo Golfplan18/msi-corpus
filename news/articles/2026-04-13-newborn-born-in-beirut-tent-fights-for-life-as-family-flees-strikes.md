@@ -20,7 +20,8 @@ primary_themes:
 topic_tags:
   - "conflict, war and peace"
   - health
-storyline_nexus: []
+storyline_nexus:
+- israel-hezbollah-lebanon-war
 geographic_location: Beirut, Lebanon
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -106,8 +107,6 @@ The newborn does not cry like other infants. She coughs. Her skin is cold and cl
 Shiman's birth is one of thousands occurring in displacement camps across Lebanon as war between Israel and the Iran-backed Hezbollah has created a humanitarian emergency. According to the United Nations' sexual and reproductive health agency, more than 1 million people have been uprooted by the conflict. Among them are 13,500 pregnant women, with more than 1,500 additional deliveries expected in the coming month. Many struggle to access adequate maternal care, the agency warned this week.
 
 For Kenjo and her newborn daughter, the road ahead offers no clear shelter, no formula secured beyond a few days, and no access to the medical care that might ease the struggle for survival that has defined Shiman's first weeks of life.
-
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
 
 ## Atomic claims
 
@@ -263,7 +262,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-05-17
 **Title:** A newborn in Beirut displacement camp struggles to survive in war
 **URL:** https://apnews.com/article/lebanon-beirut-newborn-child-war-6d228bb324d16a4b17b58b32ab051846
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

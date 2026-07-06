@@ -18,8 +18,7 @@ primary_themes:
 topic_tags:
   - environment
   - conservation
-storyline_nexus:
-  - us-china-relations
+storyline_nexus: []
 geographic_location: International—Africa, Asia, with focus on Nigeria
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -123,8 +122,6 @@ The strategy emerged from a moment of realization. While transporting rescued pa
 The exchange stayed with him. "There is a dark side to that admission," he said. "If people do not even know what a pangolin looks like, how do you protect them?"
 
 The question cuts to the heart of the conservation challenge: a species that millions of people have never heard of is disappearing from the planet, one scale at a time.
-
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
 
 ## Atomic claims
 
@@ -307,7 +304,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-02-21
 **Title:** The scaly anteaters called pangolins are the most trafficked mammal in the world
 **URL:** https://apnews.com/article/pangolin-wildlife-conservation-trafficking-f8fb8772dc8527bd677f2f1d3b9334f7
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

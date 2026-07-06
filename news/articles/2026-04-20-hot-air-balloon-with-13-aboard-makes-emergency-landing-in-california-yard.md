@@ -15,38 +15,38 @@ primary_themes:
 - Aviation operations
 - Emergency response
 topic_tags:
-  - "disaster, accident and emergency incident"
-  - "human interest"
-storyline_nexus: []
-geographic_location: Temecula, California, United States
+- disaster, accident and emergency incident
+- transport
+- human interest
+storyline_nexus:
+- extreme-weather-disasters
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
-  intensity: 0.6
-- value: informed_citizenship
-  intensity: 0.3
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T14:32:00Z'
+  intensity: 0.9
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T01:13:32Z'
 source_cluster_id: cluster_ap_2026-04-21_california-hot-air-balloon-yard-f038c509
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 12
   hedges:
-    appears: 0
-    alleged: 0
     attributed: 5
+    confirmed: 4
     reported: 3
     contested: 0
-    confirmed: 4
+    alleged: 0
+    appears: 0
   corroboration:
     primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
-    primary_document: 0
     single_source: 12
     two_independent: 0
+    primary_document: 0
 sources:
   count: 1
   outlets:
@@ -63,6 +63,13 @@ figures_aggregate:
 cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- 
+- - value: human_life_and_dignity
 
 The landing demonstrated the challenges pilots face when operating near populated areas and the critical importance of sound decision-making in emergency situations. All 13 people aboard landed safely without injury.
 
@@ -96,111 +103,135 @@ All 13 people aboard the balloon landed safely without injury.
 
 ## Atomic claims
 
-### c_001 — confirmed, single source
-**Subject entities:** hot air balloon; Temecula California
-**Predicate:** descended
-**Object:** 13 people (passenger_count)
-**Temporal:** 2026-04-19
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** hot air balloon; Temecula California
+- **Predicate:** descended
+- **Object:** 13 people (passenger_count)
+- **Temporal:** 2026-04-19
+- **Sources:** src_001
 
 > A hot air balloon with 13 people descended in Temecula, California on Saturday.
 
-### c_002 — confirmed, single source
-**Subject entities:** balloon; Hunter Perrin
-**Predicate:** landed_in
-**Object:** residential backyard (location)
-**Temporal:** 2026-04-19
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** balloon; Hunter Perrin
+- **Predicate:** landed_in
+- **Object:** residential backyard (location)
+- **Temporal:** 2026-04-19
+- **Sources:** src_001
 
 > The balloon landed in Hunter Perrin's backyard.
 
-### c_003 — attributed, single source
-**Subject entities:** Hunter Perrin
-**Predicate:** was_watching
-**Object:** television (activity)
-**Temporal:** 2026-04-19
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Hunter Perrin
+- **Predicate:** was_watching
+- **Object:** television (activity)
+- **Temporal:** 2026-04-19
+- **Sources:** src_001
 
 > Hunter Perrin was watching television when his neighbor informed him the balloon had landed.
 
-### c_004 — reported, single source
-**Subject entities:** Perrin backyard
-**Predicate:** measures
-**Object:** 10 feet (dimension)
-**Temporal:** 2026-04-19
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Perrin backyard
+- **Predicate:** measures
+- **Object:** 10 feet (dimension)
+- **Temporal:** 2026-04-19
+- **Sources:** src_001
 
 > The backyard measured approximately 10 feet wide.
 
-### c_005 — attributed, single source
-**Subject entities:** Brianna Avalos
-**Predicate:** celebrating
-**Object:** 10th wedding anniversary (occasion)
-**Temporal:** 2026-04-19
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Brianna Avalos
+- **Predicate:** celebrating
+- **Object:** 10th wedding anniversary (occasion)
+- **Temporal:** 2026-04-19
+- **Sources:** src_001
 
 > Brianna Avalos and her husband were aboard the balloon to celebrate their 10th wedding anniversary.
 
-### c_006 — reported, single source
-**Subject entities:** pilot
-**Predicate:** made_emergency_landing
-**Object:** low fuel and shifting winds (cause)
-**Temporal:** 2026-04-19
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** pilot
+- **Predicate:** made_emergency_landing
+- **Object:** low fuel and shifting winds (cause)
+- **Temporal:** 2026-04-19
+- **Sources:** src_001
 
 > The pilot informed passengers he needed to make an emergency landing because of low fuel and shifting winds.
 
-### c_007 — confirmed, single source
-**Subject entities:** balloon
-**Predicate:** has_appearance
-**Object:** blue with gold stars and crescent moon (visual_description)
-**Temporal:** 2026-04-19
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** balloon
+- **Predicate:** has_appearance
+- **Object:** blue with gold stars and crescent moon (visual_description)
+- **Temporal:** 2026-04-19
+- **Sources:** src_001
 
 > The balloon was blue with gold stars and a crescent moon image.
 
-### c_008 — confirmed, single source
-**Subject entities:** pilot; balloon
-**Predicate:** landed
-**Object:** nearby street (location)
-**Temporal:** 2026-04-19
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** pilot; balloon
+- **Predicate:** landed
+- **Object:** nearby street (location)
+- **Temporal:** 2026-04-19
+- **Sources:** src_001
 
 > After disembarking passengers, the pilot landed the balloon in a nearby street where it was dismantled.
 
-### c_009 — attributed, single source
-**Subject entities:** Denni Barrett
-**Predicate:** owns
-**Object:** Magical Adventure (organization)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Denni Barrett
+- **Predicate:** owns
+- **Object:** Magical Adventure (organization)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Denni Barrett owns Magical Adventure, the balloon ride service.
 
-### c_010 — attributed, single source
-**Subject entities:** Denni Barrett; pilot
-**Predicate:** said
-**Object:** pilot exercised great judgment and done the right thing (evaluation)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Denni Barrett; pilot
+- **Predicate:** said
+- **Object:** pilot exercised great judgment and done the right thing (evaluation)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Denni Barrett said the pilot exercised great judgment and done the right thing.
 
-### c_011 — attributed, single source
-**Subject entities:** Magical Adventure
-**Predicate:** conducts_most_landings
-**Object:** wine country (location)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Magical Adventure
+- **Predicate:** conducts_most_landings
+- **Object:** wine country (location)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Most of Magical Adventure's landings are in wine country, according to Denni Barrett.
 
-### c_012 — reported, single source
-**Subject entities:** wine country
-**Predicate:** have_characteristic
-**Object:** bigger backyards (spatial_characteristic)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** wine country
+- **Predicate:** have_characteristic
+- **Object:** bigger backyards (spatial_characteristic)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Wine country backyards are typically bigger than residential yards near populated areas.
 
@@ -209,10 +240,5 @@ All 13 people aboard the balloon landed safely without injury.
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Ed White
 **Publication date:** 2026-04-20
-**Access date:** 2026-05-17
 **Title:** Hot air balloon with 13 people safely lands in California yard
 **URL:** https://apnews.com/article/california-hot-air-balloon-yard-f038c509f8f84542052dd6d544517368
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

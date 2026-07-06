@@ -1,6 +1,5 @@
 ---
 headline: Trump pledges to 'direct' Venezuela after U.S. military operation ousts Maduro
-slug: 2026-01-04-trump-pledges-to-direct-venezuela-after-us-military-operation-ousts-maduro
 publish_date: '2026-01-04'
 lede: 'President Donald Trump pledged Sunday to have the United States "direct" Venezuela and oversee a transition of power following a U.S. military operation the previous day that resulted in the overnight seizure and extradition of Venezuelan President Nicolás Maduro. Speaking at a press conference at his Mar-a-Lago resort in Palm Beach, Florida, Trump described the action as "one of the most impressive, effective and powerful demonstrations of American military might and competence in the history of the United States."
 
@@ -20,50 +19,66 @@ primary_themes:
 - international relations
 - Latin America
 topic_tags:
-  - "artificial intelligence"
-  - "civil unrest"
-  - "conflict, war and peace"
-  - "economy, business and finance"
-  - government
-  - "government policy"
+- armed conflict
+- conflict, war and peace
+- international military intervention
+- government
+- international relations
 storyline_nexus:
-  - venezuela-crisis
-geographic_location: Caracas, Venezuela; Palm Beach, Florida; Washington, D.C.
+- venezuela-political-military-crisis
+geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.85
-- value: human_life_and_dignity
-  intensity: 0.7
-framework_version: 1.1.0
-generation_timestamp: '2026-05-16T16:46:00Z'
+  intensity: 0.9
+framework_version: 1.3.0
+generation_timestamp: '2026-05-22T23:58:00Z'
 source_cluster_id: cluster_ap_2026-01-03_trump-maduro-venezuela-7182569bdb1c6db4d
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 17
   hedges:
-    appears: 0
+    confirmed: 0
     alleged: 0
+    appears: 0
     attributed: 12
     reported: 5
     contested: 0
-    confirmed: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 0
     single_source: 17
     two_independent: 0
+    one_originating_plus_primary_document: 0
+    primary_plus_secondary: 0
 sources:
-  count: 1
+  count: 21
   outlets:
+  - 1011now.com
+  - 1017chuckfm.com
+  - 1025kiss.com
+  - 1037qcountry.com
+  - 1061thecorner.com
+  - 10news.com
+  - 10tv.com
+  - 11alive.com
+  - 12news.com
+  - 12newsnow.com
+  - 12onyourside.com
+  - 1370wfea.com
+  - 13abc.com
+  - 13newsnow.com
+  - 13wham.com
+  - 13wmaz.com
+  - 29news.com
+  - 2duerighe.com
+  - 2news.com
+  - 2paragraphs.com
   - Associated Press
   outlet_classes:
+  - national_daily
   - wire
   highest_reliability_tier: 1
   has_originating: true
@@ -76,47 +91,16 @@ image:
   url: /articles/2026-01-04-trump-pledges-to-direct-venezuela-after-u-s-military-operation-ousts-maduro.png
   alt: 'Illustration accompanying article: Trump pledges to ''direct'' Venezuela after U.S. military operation ousts'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-03-trump-vows-to-run-venezuela-after-u-s-military-operation-ousts-maduro
-  relation: related
-  strength: 0.9226
-  confidence: medium
-- slug: 2026-01-03-u-s-military-seizes-maduro-in-venezuela-trump-pledges-to-govern-country-and-expl
-  relation: related
-  strength: 0.8938
-  confidence: medium
-- slug: 2026-01-04-trump-renews-greenland-push-warns-cuba-and-colombia-after-venezuela-operation
-  relation: related
-  strength: 0.8482
-  confidence: medium
-- slug: 2026-01-03-us-forces-seize-venezuela-s-maduro-in-overnight-raid-trump-claims-control
-  relation: related
-  strength: 0.8496
-  confidence: medium
-- slug: 2026-01-04-venezuela-intervention-tests-trump-s-america-first-pledge-as-gop-shows-unease
-  relation: related
-  strength: 0.8334
-  confidence: medium
-- slug: 2026-01-04-rubio-tamps-down-nation-building-fears-as-trump-insists-us-in-charge-in-venezuel
-  relation: related
-  strength: 0.8327
-  confidence: medium
-- slug: 2026-01-04-caracas-falls-quiet-as-venezuelans-wait-to-see-what-comes-next-after-us-seizes-m
-  relation: related
-  strength: 0.8304
-  confidence: medium
-- slug: 2026-01-03-us-seizure-of-maduro-sparks-legal-debate-as-trump-claims-control-of-venezuela
-  relation: related
-  strength: 0.8318
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
 
-President Donald Trump pledged Sunday to have the United States "direct" Venezuela and oversee a transition of power following a U.S. military operation the previous day that resulted in the overnight seizure and extradition of Venezuelan President Nicolás Maduro. Speaking at a press conference at his Mar-a-Lago resort in Palm Beach, Florida, Trump described the action as "one of the most impressive, effective and powerful demonstrations of American military might and competence in the history of the United States."
+## Summary
+**Subtype:** fact
 
-Trump offered few details about how the United States would govern Venezuela, saying his administration must remain "very involved" while promising Venezuelan oil revenues would repay U.S. costs. "The money that comes out of the ground is very substantial," he said. "They're going to reimburse us for everything we spend."
-
-The intervention drew immediate condemnation from European allies, Russia, China, and Democratic lawmakers who called the action a violation of international law, while raising unresolved questions about Venezuela's political future and what lessons U.S. adversaries may draw from the operation.
+- Subtype: fact
+- - Article describes significant development with named actors and concrete outcomes.
+- President Donald Trump pledged Sunday to have the United States "direct" Venezuela and oversee a transition of power following a U.S. military oper...
 
 ## International condemnation
 
@@ -154,156 +138,190 @@ Trump also acknowledged broader geopolitical risks. Allies and adversaries abroa
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Donald Trump
-**Predicate:** declared_success
-**Object:** military operation in Venezuela (event_assessment)
-**Temporal:** 2026-01-04
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** declared_success
+- **Object:** military operation in Venezuela (event_assessment)
+- **Temporal:** 2026-01-04
+- **Sources:** src_001
 
 > Trump declared Saturday's military operation that resulted in Maduro's seizure a success, at a press conference at Mar-a-Lago on January 4, 2026.
 
-### c_002 — attributed, single source
-**Subject entities:** Donald Trump
-**Predicate:** pledged
-**Object:** to direct Venezuela until power transition (policy_statement)
-**Temporal:** 2026-01-04
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** pledged
+- **Object:** to direct Venezuela until power transition (policy_statement)
+- **Temporal:** 2026-01-04
+- **Sources:** src_001
 
 > Trump pledged to 'direct' Venezuela until a power transition can be carried out.
 
-### c_003 — reported, single source
-**Subject entities:** Nicolás Maduro
-**Predicate:** seized_and_extradited
-**Object:** Maduro and his wife (persons)
-**Temporal:** 2026-01-03
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Nicolás Maduro
+- **Predicate:** seized_and_extradited
+- **Object:** Maduro and his wife (persons)
+- **Temporal:** 2026-01-03
+- **Sources:** src_001
 
 > The Trump administration seized Maduro and his wife and extradited them overnight on Saturday, January 3, 2026.
 
-### c_004 — attributed, single source
-**Subject entities:** Jean-Noël Barrot
-**Predicate:** stated
-**Object:** operation violates the principle of non-use of force in international law (legal_claim)
-**Temporal:** 2026-01-04
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jean-Noël Barrot
+- **Predicate:** stated
+- **Object:** operation violates the principle of non-use of force in international law (legal_claim)
+- **Temporal:** 2026-01-04
+- **Sources:** src_001
 
 > French Foreign Minister Jean-Noël Barrot said the military operation that led to Maduro's capture violates the principle of non-use of force that underpins international law.
 
-### c_005 — attributed, single source
-**Subject entities:** António Costa
-**Predicate:** expressed
-**Object:** great concern (statement)
-**Temporal:** 2026-01-04
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** António Costa
+- **Predicate:** expressed
+- **Object:** great concern (statement)
+- **Temporal:** 2026-01-04
+- **Sources:** src_001
 
 > European Commission President António Costa expressed 'great concern' about the situation in Venezuela following the U.S. operation.
 
-### c_006 — attributed, single source
-**Subject entities:** Ruben Gallego
-**Predicate:** wrote
-**Object:** war is illegal; U.S. has become the world's bully (statement)
-**Temporal:** 2026-01-04
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ruben Gallego
+- **Predicate:** wrote
+- **Object:** war is illegal; U.S. has become the world's bully (statement)
+- **Temporal:** 2026-01-04
+- **Sources:** src_001
 
 > Senator Ruben Gallego (D-AZ) wrote on X that the war was 'illegal' and that the U.S. had become the 'world's bully.'
 
-### c_007 — attributed, single source
-**Subject entities:** Russia Foreign Ministry
-**Predicate:** condemned
-**Object:** act of armed aggression (statement)
-**Temporal:** 2026-01-03
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Russia Foreign Ministry
+- **Predicate:** condemned
+- **Object:** act of armed aggression (statement)
+- **Temporal:** 2026-01-03
+- **Sources:** src_001
 
 > Russia's Foreign Ministry condemned what it called an 'act of armed aggression' against Venezuela, in a statement posted to its Telegram channel on Saturday.
 
-### c_008 — attributed, single source
-**Subject entities:** China Foreign Ministry
-**Predicate:** condemned
-**Object:** operation violates international law and Venezuelan sovereignty (statement)
-**Temporal:** 2026-01-04
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** China Foreign Ministry
+- **Predicate:** condemned
+- **Object:** operation violates international law and Venezuelan sovereignty (statement)
+- **Temporal:** 2026-01-04
+- **Sources:** src_001
 
 > China's Foreign Ministry condemned the U.S. operation, saying it violated international law and Venezuela's sovereignty.
 
-### c_009 — reported, single source
-**Subject entities:** Marco Rubio
-**Predicate:** led
-**Object:** push to act against Maduro (political_action)
-**Temporal:** 2026-01-04
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Marco Rubio
+- **Predicate:** led
+- **Object:** push to act against Maduro (political_action)
+- **Temporal:** 2026-01-04
+- **Sources:** src_001
 
 > The operation was the culmination of a months-long push within the Trump administration led by Secretary of State Marco Rubio.
 
-### c_010 — reported, single source
-**Subject entities:** Donald Trump
-**Predicate:** directed
-**Object:** U.S. attacks on Iranian nuclear sites (military_action)
-**Temporal:** 2025-06
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** directed
+- **Object:** U.S. attacks on Iranian nuclear sites (military_action)
+- **Temporal:** 2025-06
+- **Sources:** src_001
 
 > Trump in June directed U.S. attacks on key Iranian nuclear sites.
 
-### c_011 — attributed, single source
-**Subject entities:** Marco Rubio
-**Predicate:** warned
-**Object:** Cuba (country)
-**Temporal:** 2026-01-04
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Marco Rubio
+- **Predicate:** warned
+- **Object:** Cuba (country)
+- **Temporal:** 2026-01-04
+- **Sources:** src_001
 
 > Secretary of State Rubio warned Cuba following the Venezuela operation, saying that if he lived in Havana and was in the government, he would be 'worried, at least a little.'
 
-### c_012 — reported, single source
-**Subject entities:** Nicolás Maduro; Delcy Rodríguez
-**Predicate:** proposed
-**Object:** Maduro resign in 3 years, hand power to Rodríguez (proposal)
-**Temporal:** 2025-10
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Nicolás Maduro; Delcy Rodríguez
+- **Predicate:** proposed
+- **Object:** Maduro resign in 3 years, hand power to Rodríguez (proposal)
+- **Temporal:** 2025-10
+- **Sources:** src_001
 
 > Venezuelan government officials proposed in October 2025 that Maduro would resign in three years and hand power to Vice President Delcy Rodríguez, who would complete his term without seeking reelection, according to a prior AP report.
 
-### c_013 — reported, single source
-**Subject entities:** White House
-**Predicate:** rejected
-**Object:** Maduro transition proposal (proposal)
-**Temporal:** 2026-01-04
-**Source IDs:** src_001
+### c_013
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** White House
+- **Predicate:** rejected
+- **Object:** Maduro transition proposal (proposal)
+- **Temporal:** 2026-01-04
+- **Sources:** src_001
 
 > The White House rejected the transition proposal, citing its position that Maduro's government was illegitimate and that he oversaw a narco-terrorist state.
 
-### c_014 — attributed, single source
-**Subject entities:** Delcy Rodríguez
-**Predicate:** demanded
-**Object:** release of Maduro, while signaling openness to dialogue (demand)
-**Temporal:** 2026-01-03
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Delcy Rodríguez
+- **Predicate:** demanded
+- **Object:** release of Maduro, while signaling openness to dialogue (demand)
+- **Temporal:** 2026-01-03
+- **Sources:** src_001
 
 > Venezuelan Vice President Delcy Rodríguez demanded the United States release Maduro in a speech to the nation Saturday, while leaving open the possibility of dialogue with Trump.
 
-### c_015 — attributed, single source
-**Subject entities:** Edmundo González; María Corina Machado
-**Predicate:** regards_as_legitimate
-**Object:** Edmundo González as legitimate president (political_status)
-**Temporal:** 2026-01-04
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Edmundo González; María Corina Machado
+- **Predicate:** regards_as_legitimate
+- **Object:** Edmundo González as legitimate president (political_status)
+- **Temporal:** 2026-01-04
+- **Sources:** src_001
 
 > Venezuela's opposition regards exiled politician Edmundo González, an ally of opposition leader María Corina Machado, as the country's legitimate president.
 
-### c_016 — attributed, single source
-**Subject entities:** Donald Trump
-**Predicate:** stated
-**Object:** not ready to commit to a specific leader (statement)
-**Temporal:** 2026-01-04
-**Source IDs:** src_001
+### c_016
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** stated
+- **Object:** not ready to commit to a specific leader (statement)
+- **Temporal:** 2026-01-04
+- **Sources:** src_001
 
 > Trump said he was not ready to commit to any specific leader for Venezuela.
 
-### c_017 — attributed, single source
-**Subject entities:** Carlos Gimenez
-**Predicate:** compared
-**Object:** Maduro capture to fall of Berlin Wall (statement)
-**Temporal:** 2026-01-04
-**Source IDs:** src_001
+### c_017
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Carlos Gimenez
+- **Predicate:** compared
+- **Object:** Maduro capture to fall of Berlin Wall (statement)
+- **Temporal:** 2026-01-04
+- **Sources:** src_001
 
 > Representative Carlos Gimenez (R-FL) compared Maduro's capture to the fall of the Berlin Wall.
 
@@ -312,10 +330,85 @@ Trump also acknowledged broader geopolitical risks. Allies and adversaries abroa
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Aamer Madhani
 **Publication date:** 2026-01-04
-**Access date:** 2026-01-04
 **Title:** Tras sacar a Maduro de Venezuela, Trump se compromete con otro proyecto de política exterior
 **URL:** https://apnews.com/article/trump-maduro-venezuela-7182569bdb1c6db4d22c539909f46e04
 
----
+### src_002 — 1011now.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-05
+**URL:** https://www.1011now.com/2026/01/05/maduro-set-make-his-first-appearance-us-courtroom-drug-trafficking-charges/
 
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*
+### src_003 — 1017chuckfm.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-05
+**URL:** https://1017chuckfm.com/news/030030-maduro-is-taken-to-a-us-courthouse-for-his-first-appearance-on-drug-trafficking-charges/
+
+### src_004 — 1025kiss.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-04
+**URL:** https://1025kiss.com/ixp/180/p/venezuela-military-operation-impact/
+
+### src_005 — 1037qcountry.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-05
+**URL:** https://1037qcountry.com/news/030030-maduro-is-taken-to-a-us-courthouse-for-his-first-appearance-on-drug-trafficking-charges/
+
+### src_006 — 1061thecorner.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-05
+**URL:** https://1061thecorner.com/news/030030-maduro-is-taken-to-a-us-courthouse-for-his-first-appearance-on-drug-trafficking-charges/
+
+### src_007 — 10news.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-04
+**URL:** https://www.10news.com/news/local-news/local-san-diego-leaders-react-to-venezuelan-president-captured-overnight
+
+### src_008 — 10tv.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-03
+**URL:** https://www.10tv.com/article/news/nation-world/us-strikes-venezuela-maduro-captured/507-49715e42-1c3c-48ea-a1cc-435e4c62f39c
+
+### src_009 — 11alive.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-03
+**URL:** https://www.11alive.com/article/news/nation-world/us-strikes-venezuela-maduro-captured/507-49715e42-1c3c-48ea-a1cc-435e4c62f39c
+
+### src_010 — 12news.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-03
+**URL:** https://www.12news.com/article/news/nation-world/us-strikes-venezuela-maduro-captured/507-49715e42-1c3c-48ea-a1cc-435e4c62f39c
+
+### src_011 — 12newsnow.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-03
+**URL:** https://www.12newsnow.com/article/news/nation-world/us-strikes-venezuela-maduro-captured/507-49715e42-1c3c-48ea-a1cc-435e4c62f39c
+
+### src_012 — 12onyourside.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-03
+**URL:** https://www.12onyourside.com/2026/01/03/least-7-explosions-low-flying-aircraft-are-heard-venezuelas-caracas/
+
+### src_013 — 1370wfea.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-05
+**URL:** https://1370wfea.com/news/030030-maduro-is-taken-to-a-us-courthouse-for-his-first-appearance-on-drug-trafficking-charges/
+
+### src_014 — 13abc.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-04
+**URL:** https://www.13abc.com/2026/01/04/maduro-arrives-us-after-stunning-capture-operation-that-trump-says-will-let-us-run-venezuela/
+
+### src_015 — 13newsnow.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-03
+**URL:** https://www.13newsnow.com/article/syndication/associatedpress/at-least-7-explosions-and-low-flying-aircraft-are-heard-in-venezuelas-caracas/616-3a2eab39-2e13-43e4-b4d6-eb9222c05924
+
+### src_016 — 13wham.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-05
+**URL:** https://13wham.com/news/nation-world/deposed-venezuelan-president-nicolas-maduro-faces-new-york-court-in-historic-narco-terrorism-case-after-surprise-united-states-trump-administration-military-capture-caracas-doj-indictment-drug-trafficking
+
+### src_017 — 13wmaz.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-04
+**URL:** https://www.13wmaz.com/article/news/nation-world/how-will-the-us-run-venezuela-what-we-know/507-e8944293-e23f-4bd0-bd3c-aebc761ad1fa
+
+### src_018 — 29news.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-03
+**URL:** https://www.29news.com/2026/01/03/least-7-explosions-low-flying-aircraft-are-heard-venezuelas-caracas/
+
+### src_019 — 2duerighe.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-04
+**URL:** https://www.2duerighe.com/blog/my-voice-at-dusk/193628-uss-strike-wipes-out-maduros-dictatorship.html
+
+### src_020 — 2news.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-03
+**URL:** https://www.2news.com/news/national/the-latest-us-strikes-venezuela-captures-maduro-and-his-wife/article_98fad8b6-21fb-5dc8-965d-6aad4dc10c4d.html
+
+### src_021 — 2paragraphs.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-03
+**URL:** https://2paragraphs.com/2026/01/u-s-senator-rages-hegseth-rubio-blatantly-lied-to-congress-put-americans-at-risk/

@@ -192,8 +192,6 @@ His message about staying to build at home comes as Cameroon is ruled by Preside
 
 Leo continues his 11-day tour of four African nations, leaving for Angola on Saturday.
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
 ### c_001 — attributed, single source
@@ -330,7 +328,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-05-17
 **Title:** Pope Leo XIV celebrating a big Mass in Cameroon
 **URL:** https://apnews.com/article/africa-pope-vatican-cameroon-youth-762c75bb91640bcf0cd8bfc51110b16a
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

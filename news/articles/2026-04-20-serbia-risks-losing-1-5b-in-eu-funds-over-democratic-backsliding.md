@@ -109,8 +109,6 @@ Kos said Brussels expects Serbia "to fully align its judicial laws with the Veni
 
 "Serbia has to deliver," she said.
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public source listed under `sources`. Framework specification: /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
 ### c_001 — attributed, single source
@@ -273,7 +271,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-05-17
 **Title:** Serbia risks losing €1.5B in EU funds over democratic backsliding
 **URL:** https://apnews.com/article/eu-serbia-democracy-funding-kos-elections-venice-901cc53a44cc6349b0b3434c271b7667
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

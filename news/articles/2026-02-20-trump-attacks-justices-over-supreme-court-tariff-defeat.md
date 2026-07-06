@@ -16,32 +16,35 @@ primary_themes:
 - separation_of_powers
 - executive_power
 topic_tags:
-  - politics
+- government
+- politics
+- judiciary
+- international trade
 storyline_nexus:
-  - immigration-enforcement
-  - us-administration-2026
-  - trump-tariff-policy
+- trump-tariff-wars
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
-  intensity: 0.85
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18'
+  intensity: 0.9
+- value: truthfulness
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:58:26Z'
 source_cluster_id: cluster_ap_2026-02-21_supreme-court-trump-tariffs-gorsuch-barr
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 14
   hedges:
+    contested: 0
     appears: 0
     alleged: 1
+    confirmed: 6
     attributed: 3
     reported: 4
-    contested: 0
-    confirmed: 6
   corroboration:
     primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
@@ -61,25 +64,19 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-04-15-jackson-calls-supreme-court-emergency-orders-scratch-paper-musings-in-yale-speec
-  relation: related
-  strength: 0.7584
-  confidence: medium
-- slug: 2026-04-19-refund-system-opens-for-tariffs-trump-imposed-without-authority
-  relation: continues
-  strength: 0.7245
-  confidence: high
-- slug: 2026-01-10-federal-judge-blocks-trump-elections-order-in-suit-by-washington-oregon
-  relation: related
-  strength: 0.7563
-  confidence: medium
-- slug: 2026-01-13-trump-visits-dearborn-ford-plant-defends-tariffs-as-voters-worry-about-rising-pr
-  relation: related
-  strength: 0.7345
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Trump attacks court over loss in tariff case
+- Six Supreme Court justices voted to strike down Trump's global tariffs imposed under an emergency powers law on February 20, 2026.
+- Chief Justice John Roberts authored the Supreme Court's decision.
+- Trump said, "The Supreme Court's ruling on tariffs is deeply disappointing and I'm ashamed of certain members of the court, absolutely ashamed, for not having the courage to do what's right for the country."
+- Trump said about Justices Gorsuch and Barrett, "I think it's an embarrassment to their families, if you want to know the truth, the two of them."
 
 President Donald Trump attacked six Supreme Court justices Friday after they struck down his global tariffs imposed under an emergency powers law. Trump directed particular criticism at Justices Neil Gorsuch and Amy Coney Barrett, both appointed by him, saying their votes represented "an embarrassment to their families."
 
@@ -113,137 +110,161 @@ These historical remarks, however, were made in private. Trump's criticism occur
 
 Trump and some members of the court, dressed in their black robes, are likely to be in the same room Tuesday when Trump delivers his State of the Union address.
 
----
-
-**AI Disclosure:** This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Framework specification: /methodology. Human review: not_triggered.
-
 **License:** This work is released under CC0—you are free to copy, modify, distribute, and use this article for any purpose without asking permission.
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Supreme Court of the United States
-**Predicate:** voted_to_strike_down
-**Object:** Trump's global tariffs (economic_policy)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Supreme Court of the United States
+- **Predicate:** voted_to_strike_down
+- **Object:** Trump's global tariffs (economic_policy)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > Six Supreme Court justices voted to strike down Trump's global tariffs imposed under an emergency powers law on February 20, 2026.
 
-### c_002 — confirmed, primary document
-**Subject entities:** John Roberts
-**Predicate:** authored
-**Object:** Supreme Court decision striking down tariffs (legal_document)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** John Roberts
+- **Predicate:** authored
+- **Object:** Supreme Court decision striking down tariffs (legal_document)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > Chief Justice John Roberts authored the Supreme Court's decision.
 
-### c_003 — confirmed, primary document
-**Subject entities:** Donald Trump
-**Predicate:** said
-**Object:** Direct quotation expressing disapproval of court ruling (speech_act)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Donald Trump
+- **Predicate:** said
+- **Object:** Direct quotation expressing disapproval of court ruling (speech_act)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > Trump said, "The Supreme Court's ruling on tariffs is deeply disappointing and I'm ashamed of certain members of the court, absolutely ashamed, for not having the courage to do what's right for the country."
 
-### c_004 — confirmed, primary document
-**Subject entities:** Donald Trump; Neil Gorsuch; Amy Coney Barrett
-**Predicate:** said
-**Object:** Direct quotation characterizing justices' votes (speech_act)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Donald Trump; Neil Gorsuch; Amy Coney Barrett
+- **Predicate:** said
+- **Object:** Direct quotation characterizing justices' votes (speech_act)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > Trump said about Justices Gorsuch and Barrett, "I think it's an embarrassment to their families, if you want to know the truth, the two of them."
 
-### c_005 — attributed, primary document
-**Subject entities:** Donald Trump
-**Predicate:** said
-**Object:** Direct quotation about expected loyalty of appointees (speech_act)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Donald Trump
+- **Predicate:** said
+- **Object:** Direct quotation about expected loyalty of appointees (speech_act)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > Trump said he expected the three Democratic appointees to vote against him, saying "You can't knock their loyalty. It's one thing you can do with some of our people."
 
-### c_006 — confirmed, primary document
-**Subject entities:** JD Vance
-**Predicate:** wrote
-**Object:** Direct quotation characterizing court decision (speech_act)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** JD Vance
+- **Predicate:** wrote
+- **Object:** Direct quotation characterizing court decision (speech_act)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > Vice President JD Vance wrote on X, "This is lawlessness from the Court, plain and simple."
 
-### c_007 — reported, single source
-**Subject entities:** Liberty Justice Center; Chamber of Commerce
-**Predicate:** opposed_tariffs
-**Object:** Trump's tariff policy (economic_policy)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Liberty Justice Center; Chamber of Commerce
+- **Predicate:** opposed_tariffs
+- **Object:** Trump's tariff policy (economic_policy)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > Legal opposition to Trump's tariffs crossed political lines, with a key challenge coming from the libertarian-leaning Liberty Justice Center and support from pro-business groups like the Chamber of Commerce.
 
-### c_008 — confirmed, primary document
-**Subject entities:** Donald Trump; Supreme Court of the United States
-**Predicate:** won_immunity_ruling
-**Object:** Presidential immunity from prosecution for 2020 election-related conduct (legal_ruling)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Donald Trump; Supreme Court of the United States
+- **Predicate:** won_immunity_ruling
+- **Object:** Presidential immunity from prosecution for 2020 election-related conduct (legal_ruling)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > Trump won a Supreme Court ruling in 2024 that established presidential immunity, preventing him from being prosecuted over efforts to undo his 2020 election loss.
 
-### c_009 — reported, single source
-**Subject entities:** Donald Trump; Supreme Court of the United States
-**Predicate:** won_emergency_appeals
-**Object:** Permission to implement immigration crackdown policies (policy_implementation)
-**Temporal:** 2025-2026
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Supreme Court of the United States
+- **Predicate:** won_emergency_appeals
+- **Object:** Permission to implement immigration crackdown policies (policy_implementation)
+- **Temporal:** 2025-2026
+- **Sources:** src_001
 
 > In the first year of his second term, Trump won repeated emergency appeals that allowed him to implement major aspects of his immigration crackdown.
 
-### c_010 — attributed, single source
-**Subject entities:** Ed Whelan; Donald Trump
-**Predicate:** said
-**Object:** Expert opinion that Trump's criticism of justices is demagogic (expert_opinion)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ed Whelan; Donald Trump
+- **Predicate:** said
+- **Object:** Expert opinion that Trump's criticism of justices is demagogic (expert_opinion)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > Ed Whelan, a senior fellow at the Ethics and Public Policy Center and former law clerk for Justice Antonin Scalia, said it is demagogic for Trump to contend that justices voted against him due to lack of courage.
 
-### c_011 — reported, single source
-**Subject entities:** Thomas Jefferson; Franklin Roosevelt
-**Predicate:** criticized
-**Object:** Supreme Court decisions (historical_event)
-**Temporal:** historical
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Thomas Jefferson; Franklin Roosevelt
+- **Predicate:** criticized
+- **Object:** Supreme Court decisions (historical_event)
+- **Temporal:** historical
+- **Sources:** src_001
 
 > Presidential criticism of Supreme Court decisions has a long history, including Thomas Jefferson's criticism of Marbury v. Madison and Franklin Roosevelt's criticism of New Deal decisions.
 
-### c_012 — attributed, single source
-**Subject entities:** Dwight Eisenhower; Earl Warren
-**Predicate:** said
-**Object:** Warren appointment was biggest mistake (historical_statement)
-**Temporal:** 1954
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Dwight Eisenhower; Earl Warren
+- **Predicate:** said
+- **Object:** Warren appointment was biggest mistake (historical_statement)
+- **Temporal:** 1954
+- **Sources:** src_001
 
 > Following the 1954 Brown v. Board of Education decision, President Dwight D. Eisenhower told friends that appointing Chief Justice Earl Warren was his biggest mistake, according to biographer Stephen E. Ambrose.
 
-### c_013 — alleged, single source
-**Subject entities:** Theodore Roosevelt; Oliver Wendell Holmes
-**Predicate:** said
-**Object:** Criticism of Holmes's judicial character (historical_statement)
-**Temporal:** historical
-**Source IDs:** src_001
+### c_013
+- **Hedge:** alleged
+- **Corroboration:** single_source
+- **Subject entities:** Theodore Roosevelt; Oliver Wendell Holmes
+- **Predicate:** said
+- **Object:** Criticism of Holmes's judicial character (historical_statement)
+- **Temporal:** historical
+- **Sources:** src_001
 
 > President Theodore Roosevelt once allegedly said of Justice Oliver Wendell Holmes that he "could carve out of a banana a judge with more backbone."
 
-### c_014 — reported, single source
-**Subject entities:** Donald Trump; Supreme Court of the United States
-**Predicate:** contrasts_privacy
-**Object:** Public vs. private nature of presidential criticism (comparative_fact)
-**Temporal:** historical
-**Source IDs:** src_001
+### c_014
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Supreme Court of the United States
+- **Predicate:** contrasts_privacy
+- **Object:** Public vs. private nature of presidential criticism (comparative_fact)
+- **Temporal:** historical
+- **Sources:** src_001
 
 > Unlike Trump's public criticism at a White House briefing, historical remarks by Jefferson, Roosevelt, and Eisenhower about the Supreme Court were made in private.
 
@@ -252,10 +273,5 @@ Trump and some members of the court, dressed in their black robes, are likely to
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Mark Sherman
 **Publication date:** 2026-02-20
-**Access date:** 2026-05-18
 **Title:** Trump attacks court over loss in tariff case
 **URL:** https://apnews.com/article/supreme-court-trump-tariffs-gorsuch-barrett-kavanaugh-0b00e69f6230f4b1c90d49a4fe97c6ce
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

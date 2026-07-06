@@ -20,42 +20,40 @@ primary_themes:
 - federal policy
 - consumer confidence
 topic_tags:
-  - politics
-  - trial
-  - "government policy"
-  - "market and exchange"
-  - "economy, business and finance"
-  - "crime, law and justice"
-storyline_nexus: []
+- economy, business and finance
+- market and exchange
+- macroeconomics
+storyline_nexus:
+- us-economic-volatility
 geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.95
 - value: truthfulness
-  intensity: 0.98
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18'
+  intensity: 0.6
+- value: informed_citizenship
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:25:21Z'
 source_cluster_id: cluster_ap_2026-01-28_stocks-markets-trump-gold-federal-9490a0
 gdelt_event_ids: []
-consensus_floor_version: '1.0'
-publication_mindspec_version: '1.0'
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 44
   hedges:
     appears: 0
-    alleged: 0
     attributed: 22
-    reported: 2
-    contested: 0
     confirmed: 20
+    alleged: 0
+    contested: 0
+    reported: 2
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 20
-    single_source: 24
+    primary_plus_secondary: 0
     two_independent: 0
+    one_originating_plus_primary_document: 0
+    single_source: 24
 sources:
   count: 1
   outlets:
@@ -65,53 +63,22 @@ sources:
   highest_reliability_tier: 1
   has_originating: true
   has_primary_document: false
-figures:
-- source: fred
-  series_id: NASDAQCOM
-  transformation: raw
-  as_of: '2026-01-27'
-  caption: The Nasdaq composite index reached 23,817.1 on January 27, tracking a 0.9% gain as technology stocks drove market breadth higher despite mixed corporate earnings across other sectors.
 figures_aggregate:
-  count: 1
-  series_ids:
-  - NASDAQCOM
-  sources:
-  - fred
-cross_article_links:
-- slug: 2026-04-17-oil-falls-9-and-stocks-hit-record-as-iran-reopens-strait-of-hormuz
-  relation: related
-  strength: 0.8469
-  confidence: medium
-- slug: 2026-04-16-s-p-500-notches-11th-record-in-12-days-as-earnings-beat-ceasefire-talks-advance
-  relation: related
-  strength: 0.8458
-  confidence: medium
-- slug: 2026-04-15-iran-war-volatility-drives-record-profits-at-bank-of-america-morgan-stanley
-  relation: related
-  strength: 0.7857
-  confidence: medium
-- slug: 2026-01-06-s-p-500-hits-record-on-third-trading-day-as-big-tech-leads-broad-gains
-  relation: related
-  strength: 0.8521
-  confidence: medium
-- slug: 2026-01-15-goldman-sachs-morgan-stanley-post-double-digit-profit-gains-on-deal-surge
-  relation: related
-  strength: 0.7816
-  confidence: medium
-- slug: 2026-01-07-wall-street-rally-stalls-as-trump-posts-drag-homebuilders-oil-falls-on-venezuela
-  relation: related
-  strength: 0.8086
-  confidence: medium
-- slug: 2026-01-13-jpmorgan-chase-q4-profits-rise-9-on-adjusted-basis-as-apple-card-deal-weighs-on-
-  relation: related
-  strength: 0.7716
-  confidence: medium
-- slug: 2026-01-12-wall-street-closes-at-records-as-doj-subpoena-of-fed-stirs-inflation-fears
-  relation: related
-  strength: 0.7667
-  confidence: medium
+  count: 0
+  series_ids: []
+  sources: []
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Wall Street reached a new all-time high on Tuesday despite mixed corporate earnings and a sliding U.S.
+- The record came as major companies delivered disappointing financial guidance, investors retreated from U.S.
+- Wall Street's record march continued Tuesday despite gathering clouds over the economic outlook, with the S&P 500 edging to an all-time high as corporate earnings proved mixed and a selling wave hit the U.S.
+- The broad market index rose 0.4% to 6,978.
 
 Wall Street reached a new all-time high on Tuesday despite mixed corporate earnings and a sliding U.S. dollar that hit its lowest point since 2022, reflecting divergent signals about the economic outlook. The S&P 500 rose 0.4% to 6,978.60, edging past its previous record set weeks earlier, while the Dow Jones Industrial Average fell 0.8% and the Nasdaq composite climbed 0.9%.
 
@@ -159,403 +126,489 @@ Indexes across Europe and Asia posted gains despite the broader uncertainty. Ind
 
 South Korea's Kospi jumped 2.7%, and Hong Kong's Hang Seng rallied 1.4%, among the world's larger single-day gains.
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** S&P 500
-**Predicate:** increased_and_exceeded_previous_record
-**Object:** 0.4% (percentage_change)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** S&P 500
+- **Predicate:** increased_and_exceeded_previous_record
+- **Object:** 0.4% (percentage_change)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > The S&P 500 rose 0.4% and edged past its prior all-time high on January 27, 2026.
 
-### c_002 — confirmed, primary document
-**Subject entities:** S&P 500
-**Predicate:** closed_at
-**Object:** 6,978.60 (index_level)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** S&P 500
+- **Predicate:** closed_at
+- **Object:** 6,978.60 (index_level)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > The S&P 500 closed at 6,978.60.
 
-### c_003 — confirmed, primary document
-**Subject entities:** Dow Jones Industrial Average
-**Predicate:** declined
-**Object:** 408 points, 0.8% (point_and_percentage_decline)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Dow Jones Industrial Average
+- **Predicate:** declined
+- **Object:** 408 points, 0.8% (point_and_percentage_decline)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > The Dow Jones Industrial Average dropped 408 points, or 0.8%.
 
-### c_004 — confirmed, primary document
-**Subject entities:** Nasdaq composite
-**Predicate:** increased_and_closed_at
-**Object:** 0.9% to 23,817.1 (percentage_change_and_index_level)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Nasdaq composite
+- **Predicate:** increased_and_closed_at
+- **Object:** 0.9% to 23,817.1 (percentage_change_and_index_level)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > The Nasdaq composite climbed 0.9% to 23,817.1.
 
-### c_005 — attributed, single source
-**Subject entities:** U.S. dollar; euro; Japanese yen; Australian dollar
-**Predicate:** declined_against
-**Object:** more than 1% (percentage_decline)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. dollar; euro; Japanese yen; Australian dollar
+- **Predicate:** declined_against
+- **Object:** more than 1% (percentage_decline)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > The U.S. dollar slid more than 1% against the euro, Japanese yen, and Australian dollar.
 
-### c_006 — confirmed, primary document
-**Subject entities:** U.S. dollar index
-**Predicate:** declined_to_2022_low
-**Object:** lowest point since 2022 (relative_measure)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. dollar index
+- **Predicate:** declined_to_2022_low
+- **Object:** lowest point since 2022 (relative_measure)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > An index measuring the U.S. dollar's strength dropped to its lowest point since 2022.
 
-### c_007 — attributed, single source
-**Subject entities:** Donald Trump; European countries
-**Predicate:** threatened_tariffs_regarding
-**Object:** tariffs over Greenland control (policy_threat)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; European countries
+- **Predicate:** threatened_tariffs_regarding
+- **Object:** tariffs over Greenland control (policy_threat)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > President Donald Trump threatened tariffs against European countries that opposed his taking control of Greenland.
 
-### c_008 — confirmed, primary document
-**Subject entities:** Corning; Meta Platforms
-**Predicate:** increased_on_deal_announcement
-**Object:** 15.6% on $6 billion deal (stock_gain_and_deal_value)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Corning; Meta Platforms
+- **Predicate:** increased_on_deal_announcement
+- **Object:** 15.6% on $6 billion deal (stock_gain_and_deal_value)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Corning climbed 15.6% after announcing a deal with Meta Platforms worth up to $6 billion.
 
-### c_009 — attributed, single source
-**Subject entities:** Corning; Meta; data centers
-**Predicate:** will_supply_to
-**Object:** optical fiber and cable for data centers (supply_agreement)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Corning; Meta; data centers
+- **Predicate:** will_supply_to
+- **Object:** optical fiber and cable for data centers (supply_agreement)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Corning will supply optical fiber and cable to Meta to build out data centers.
 
-### c_010 — attributed, single source
-**Subject entities:** Corning; Hickory North Carolina
-**Predicate:** expanding_facility_in
-**Object:** optical-fiber manufacturing facility (facility_expansion)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Corning; Hickory North Carolina
+- **Predicate:** expanding_facility_in
+- **Object:** optical-fiber manufacturing facility (facility_expansion)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Corning is expanding its optical-fiber manufacturing facility in Hickory, North Carolina.
 
-### c_011 — confirmed, primary document
-**Subject entities:** General Motors
-**Predicate:** increased_on_earnings_beat
-**Object:** 8.7% on better-than-expected Q4 2025 profits (stock_gain_on_earnings)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_011
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** General Motors
+- **Predicate:** increased_on_earnings_beat
+- **Object:** 8.7% on better-than-expected Q4 2025 profits (stock_gain_on_earnings)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > General Motors rose 8.7% after delivering profits for the end of 2025 that topped Wall Street's expectations.
 
-### c_012 — confirmed, primary document
-**Subject entities:** HCA Healthcare
-**Predicate:** increased_on_earnings_beat
-**Object:** 7.1% on better-than-expected earnings (stock_gain_on_earnings)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_012
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** HCA Healthcare
+- **Predicate:** increased_on_earnings_beat
+- **Object:** 7.1% on better-than-expected earnings (stock_gain_on_earnings)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > HCA Healthcare rallied 7.1% after delivering profits that topped expectations.
 
-### c_013 — attributed, single source
-**Subject entities:** General Motors; HCA Healthcare
-**Predicate:** approved_buyback_programs
-**Object:** billions in buyback programs (capital_allocation_decision)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** General Motors; HCA Healthcare
+- **Predicate:** approved_buyback_programs
+- **Object:** billions in buyback programs (capital_allocation_decision)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > General Motors and HCA Healthcare approved programs to send billions of dollars to investors through stock buybacks.
 
-### c_014 — confirmed, primary document
-**Subject entities:** UnitedHealth Group
-**Predicate:** declined_despite_earnings_beat
-**Object:** 19.6% decline despite earnings beat (stock_decline_on_guidance)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_014
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** UnitedHealth Group
+- **Predicate:** declined_despite_earnings_beat
+- **Object:** 19.6% decline despite earnings beat (stock_decline_on_guidance)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > UnitedHealth Group sank 19.6% despite reporting a profit for the latest quarter that was better than analysts expected.
 
-### c_015 — attributed, single source
-**Subject entities:** UnitedHealth Group
-**Predicate:** provided_below_expectation_guidance
-**Object:** revenue forecast below expectations (guidance_miss)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** UnitedHealth Group
+- **Predicate:** provided_below_expectation_guidance
+- **Object:** revenue forecast below expectations (guidance_miss)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > UnitedHealth's revenue forecast for the upcoming year fell short of Wall Street's expectations.
 
-### c_016 — attributed, single source
-**Subject entities:** healthcare stocks; U.S. government; Medicare Advantage
-**Predicate:** pressured_by
-**Object:** lower-than-expected Medicare Advantage rate increase (regulatory_pressure)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_016
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** healthcare stocks; U.S. government; Medicare Advantage
+- **Predicate:** pressured_by
+- **Object:** lower-than-expected Medicare Advantage rate increase (regulatory_pressure)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Health care stocks faced tremendous pressure from a projected Medicare Advantage rate increase that fell well short of investor expectations.
 
-### c_017 — confirmed, primary document
-**Subject entities:** Humana
-**Predicate:** declined_on
-**Object:** 21.1% on Medicare Advantage rate news (stock_decline)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_017
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Humana
+- **Predicate:** declined_on
+- **Object:** 21.1% on Medicare Advantage rate news (stock_decline)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Humana skidded 21.1% in response to the Medicare Advantage rate increase.
 
-### c_018 — confirmed, primary document
-**Subject entities:** Elevance Health
-**Predicate:** declined
-**Object:** 14.3% (percentage_decline)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_018
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Elevance Health
+- **Predicate:** declined
+- **Object:** 14.3% (percentage_decline)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Elevance Health dropped 14.3%.
 
-### c_019 — confirmed, primary document
-**Subject entities:** CVS Health
-**Predicate:** declined
-**Object:** 14.2% (percentage_decline)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_019
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** CVS Health
+- **Predicate:** declined
+- **Object:** 14.2% (percentage_decline)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > CVS Health sank 14.2%.
 
-### c_020 — confirmed, primary document
-**Subject entities:** UPS
-**Predicate:** increased_on_earnings_and_guidance_beat
-**Object:** 0.2% on stronger profit and 2026 guidance beat (stock_gain_on_earnings)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_020
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** UPS
+- **Predicate:** increased_on_earnings_and_guidance_beat
+- **Object:** 0.2% on stronger profit and 2026 guidance beat (stock_gain_on_earnings)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > UPS added 0.2% after reporting a stronger profit and forecasting better revenue for 2026 than analysts expected.
 
-### c_021 — attributed, single source
-**Subject entities:** UPS
-**Predicate:** announced_job_elimination
-**Object:** 30,000 jobs (workforce_reduction)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_021
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** UPS
+- **Predicate:** announced_job_elimination
+- **Object:** 30,000 jobs (workforce_reduction)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > UPS announced the elimination of 30,000 jobs.
 
-### c_022 — confirmed, primary document
-**Subject entities:** American Airlines
-**Predicate:** declined_on_earnings_miss
-**Object:** 7% on earnings miss (stock_decline_on_earnings)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_022
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** American Airlines
+- **Predicate:** declined_on_earnings_miss
+- **Object:** 7% on earnings miss (stock_decline_on_earnings)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > American Airlines lost 7% after delivering a profit for the end of 2025 that fell well short of analysts' expectations.
 
-### c_023 — attributed, single source
-**Subject entities:** stock prices; corporate profits
-**Predicate:** correlate_with
-**Object:** long-term correlation (market_principle)
-**Temporal:** general
-**Source IDs:** src_001
+### c_023
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** stock prices; corporate profits
+- **Predicate:** correlate_with
+- **Object:** long-term correlation (market_principle)
+- **Temporal:** general
+- **Sources:** src_001
 
 > Stock prices tend to follow the path of corporate profits over the long term.
 
-### c_024 — attributed, single source
-**Subject entities:** Meta Platforms; Microsoft; Tesla
-**Predicate:** delivering_earnings_reports
-**Object:** earnings reports Wednesday and Thursday (scheduled_announcement)
-**Temporal:** 2026-01-28 and 2026-01-29
-**Source IDs:** src_001
+### c_024
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Meta Platforms; Microsoft; Tesla
+- **Predicate:** delivering_earnings_reports
+- **Object:** earnings reports Wednesday and Thursday (scheduled_announcement)
+- **Temporal:** 2026-01-28 and 2026-01-29
+- **Sources:** src_001
 
 > Several of Wall Street's most influential stocks, including Meta Platforms, Microsoft, and Tesla, will deliver earnings reports later in the week.
 
-### c_025 — attributed, single source
-**Subject entities:** Meta Platforms; Microsoft; Tesla
-**Predicate:** reporting_earnings
-**Object:** earnings on Wednesday (scheduled_event)
-**Temporal:** 2026-01-29
-**Source IDs:** src_001
+### c_025
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Meta Platforms; Microsoft; Tesla
+- **Predicate:** reporting_earnings
+- **Object:** earnings on Wednesday (scheduled_event)
+- **Temporal:** 2026-01-29
+- **Sources:** src_001
 
 > Meta Platforms, Microsoft, and Tesla will report earnings on Wednesday.
 
-### c_026 — attributed, single source
-**Subject entities:** Apple
-**Predicate:** reporting_earnings
-**Object:** earnings on Thursday (scheduled_event)
-**Temporal:** 2026-01-30
-**Source IDs:** src_001
+### c_026
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Apple
+- **Predicate:** reporting_earnings
+- **Object:** earnings on Thursday (scheduled_event)
+- **Temporal:** 2026-01-30
+- **Sources:** src_001
 
 > Apple will report earnings on Thursday.
 
-### c_027 — confirmed, primary document
-**Subject entities:** Microsoft
-**Predicate:** gained
-**Object:** 2.2% (percentage_gain)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_027
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Microsoft
+- **Predicate:** gained
+- **Object:** 2.2% (percentage_gain)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Microsoft rose 2.2% on Tuesday.
 
-### c_028 — confirmed, primary document
-**Subject entities:** Apple
-**Predicate:** gained
-**Object:** 1.1% (percentage_gain)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_028
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Apple
+- **Predicate:** gained
+- **Object:** 1.1% (percentage_gain)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Apple rose 1.1% on Tuesday.
 
-### c_029 — attributed, single source
-**Subject entities:** Federal Reserve
-**Predicate:** announcing
-**Object:** interest rate decision (policy_announcement)
-**Temporal:** 2026-01-29
-**Source IDs:** src_001
+### c_029
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Federal Reserve
+- **Predicate:** announcing
+- **Object:** interest rate decision (policy_announcement)
+- **Temporal:** 2026-01-29
+- **Sources:** src_001
 
 > The Federal Reserve will announce its next move on interest rates Wednesday.
 
-### c_030 — reported, single source
-**Subject entities:** Federal Reserve; financial markets
-**Predicate:** expects_to_hold
-**Object:** main interest rate unchanged (market_expectation)
-**Temporal:** 2026-01-29
-**Source IDs:** src_001
+### c_030
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Federal Reserve; financial markets
+- **Predicate:** expects_to_hold
+- **Object:** main interest rate unchanged (market_expectation)
+- **Temporal:** 2026-01-29
+- **Sources:** src_001
 
 > The widespread expectation is that the Federal Reserve will hold its main interest rate steady.
 
-### c_031 — attributed, single source
-**Subject entities:** inflation; Federal Reserve
-**Predicate:** remains_above_target
-**Object:** above 2% (economic_indicator_assessment)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_031
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** inflation; Federal Reserve
+- **Predicate:** remains_above_target
+- **Object:** above 2% (economic_indicator_assessment)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Inflation remains stubbornly above the Federal Reserve's 2% target.
 
-### c_032 — reported, single source
-**Subject entities:** Federal Reserve; financial markets
-**Predicate:** expected_to_resume
-**Object:** interest rate cuts later in 2026 (market_expectation)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_032
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Federal Reserve; financial markets
+- **Predicate:** expected_to_resume
+- **Object:** interest rate cuts later in 2026 (market_expectation)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Traders expect the Federal Reserve to resume its cuts to interest rates later in 2026.
 
-### c_033 — confirmed, primary document
-**Subject entities:** 10-year Treasury yield
-**Predicate:** increased_to
-**Object:** 4.24% (yield_level)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_033
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** 10-year Treasury yield
+- **Predicate:** increased_to
+- **Object:** 4.24% (yield_level)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > The yield on the 10-year Treasury rose to 4.24% from 4.22% on the prior evening.
 
-### c_034 — attributed, single source
-**Subject entities:** consumer confidence; Conference Board
-**Predicate:** dropped_to_2014_low
-**Object:** lowest level since 2014 (confidence_measure)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_034
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** consumer confidence; Conference Board
+- **Predicate:** dropped_to_2014_low
+- **Object:** lowest level since 2014 (confidence_measure)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Consumer confidence dropped to its lowest level since 2014, according to the Conference Board.
 
-### c_035 — attributed, single source
-**Subject entities:** consumer confidence; COVID-19 pandemic
-**Predicate:** declined_below
-**Object:** pandemic-era level (comparative_measure)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_035
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** consumer confidence; COVID-19 pandemic
+- **Predicate:** declined_below
+- **Object:** pandemic-era level (comparative_measure)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Consumer confidence fell lower than it was during the COVID-19 pandemic.
 
-### c_036 — attributed, single source
-**Subject entities:** economists; consumer confidence
-**Predicate:** had_expected
-**Object:** slight improvement (forecast_miss)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_036
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** economists; consumer confidence
+- **Predicate:** had_expected
+- **Object:** slight improvement (forecast_miss)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Economists had expected a slight improvement in consumer confidence.
 
-### c_037 — attributed, single source
-**Subject entities:** India; European Union
-**Predicate:** reached_agreement_with
-**Object:** free trade deal (trade_agreement)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_037
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** India; European Union
+- **Predicate:** reached_agreement_with
+- **Object:** free trade deal (trade_agreement)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > India reached agreement on a free trade deal with the European Union.
 
-### c_038 — attributed, single source
-**Subject entities:** Narendra Modi; India; European Union
-**Predicate:** stated
-**Object:** reached free trade deal with EU (statement)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_038
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Narendra Modi; India; European Union
+- **Predicate:** stated
+- **Object:** reached free trade deal with EU (statement)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Prime Minister Narendra Modi said India reached the free trade agreement with the EU.
 
-### c_039 — attributed, single source
-**Subject entities:** India-EU trade deal
-**Predicate:** affects
-**Object:** 2 billion people (population_reach)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_039
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** India-EU trade deal
+- **Predicate:** affects
+- **Object:** 2 billion people (population_reach)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > The India-EU trade accord touches 2 billion people.
 
-### c_040 — attributed, single source
-**Subject entities:** India-EU trade deal; negotiations
-**Predicate:** resulted_from
-**Object:** nearly two decades of negotiations (timeline)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_040
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** India-EU trade deal; negotiations
+- **Predicate:** resulted_from
+- **Object:** nearly two decades of negotiations (timeline)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > The India-EU trade accord followed nearly two decades of negotiations.
 
-### c_041 — attributed, single source
-**Subject entities:** India-EU trade deal
-**Predicate:** is_one_of_biggest
-**Object:** biggest bilateral commerce engagements (characterization)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_041
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** India-EU trade deal
+- **Predicate:** is_one_of_biggest
+- **Object:** biggest bilateral commerce engagements (characterization)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > The India-EU accord is one of the biggest bilateral engagements on commerce.
 
-### c_042 — confirmed, primary document
-**Subject entities:** India Sensex
-**Predicate:** gained
-**Object:** 0.4% (percentage_gain)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_042
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** India Sensex
+- **Predicate:** gained
+- **Object:** 0.4% (percentage_gain)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > India's Sensex index added 0.4% following the EU trade deal announcement.
 
-### c_043 — confirmed, primary document
-**Subject entities:** South Korea Kospi
-**Predicate:** gained
-**Object:** 2.7% (percentage_gain)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_043
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** South Korea Kospi
+- **Predicate:** gained
+- **Object:** 2.7% (percentage_gain)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > South Korea's Kospi jumped 2.7%.
 
-### c_044 — confirmed, primary document
-**Subject entities:** Hong Kong Hang Seng
-**Predicate:** gained
-**Object:** 1.4% (percentage_gain)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_044
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Hong Kong Hang Seng
+- **Predicate:** gained
+- **Object:** 1.4% (percentage_gain)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Hong Kong's Hang Seng rallied 1.4%.
 
@@ -564,10 +617,5 @@ This article was generated algorithmically by Main Street Independent's News Art
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Stan Choe
 **Publication date:** 2026-01-27
-**Access date:** 2026-01-27
 **Title:** Wall Street sets a record while the US dollar's value slides again
 **URL:** https://apnews.com/article/stocks-markets-trump-gold-federal-9490a04190f0cb649966b3b8d7724bef
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

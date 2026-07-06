@@ -15,45 +15,43 @@ primary_themes:
 - U.S.-Canada relations
 - geopolitical rivalry
 topic_tags:
-  - "artificial intelligence"
-  - "economy, business and finance"
-  - government
-  - "government policy"
-  - "international relations"
-  - "international trade"
+- international trade
+- international relations
+- government policy
+- politics
 storyline_nexus:
-  - trump-tariff-policy
-geographic_location: North America; International
+- trump-tariff-wars
+geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
-  intensity: 0.8
+  intensity: 0.9
 - value: truthfulness
-  intensity: 0.7
+  intensity: 0.6
 - value: informed_citizenship
   intensity: 0.6
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T04:27:06Z'
 source_cluster_id: cluster_ap_2026-01-26_trump-canada-carney-china-tariffs-5079e9
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 25
   hedges:
-    appears: 0
     alleged: 0
-    attributed: 8
+    appears: 0
     reported: 17
-    contested: 0
     confirmed: 0
+    attributed: 8
+    contested: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 0
     single_source: 25
+    primary_plus_secondary: 0
     two_independent: 0
+    primary_document: 0
+    one_originating_plus_primary_document: 0
 sources:
   count: 1
   outlets:
@@ -71,25 +69,17 @@ image:
   url: /articles/2026-01-24-trump-threatens-canada-with-100-tariff-over-china-trade-deal.png
   alt: 'Illustration accompanying article: Trump threatens Canada with 100% tariff over China trade deal'
   source: ai_generated
-cross_article_links:
-- slug: 2026-04-19-carney-says-canada-must-reduce-u-s-economic-ties-over-trump-tariffs
-  relation: related
-  strength: 0.8767
-  confidence: medium
-- slug: 2026-01-12-carney-visits-beijing-to-rebuild-ties-and-reduce-canada-s-dependence-on-us-trade
-  relation: related
-  strength: 0.7973
-  confidence: medium
-- slug: 2026-01-13-trump-visits-dearborn-ford-plant-defends-tariffs-as-voters-worry-about-rising-pr
-  relation: related
-  strength: 0.759
-  confidence: medium
-- slug: 2026-01-07-canada-s-carney-to-visit-china-next-week-first-pm-trip-in-eight-years
-  relation: related
-  strength: 0.7755
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- Article covers major news event.
+- Event impacts relevant stakeholders and regions.
+- Response unfolds according to circumstances.
+- Implications extend to broader policy landscape.
 
 President Donald Trump on Saturday threatened to impose a 100% tariff on Canadian goods if Canada proceeded with a trade deal with China, intensifying a dispute with Prime Minister Mark Carney over both trade policy and geopolitical alignment. Trump said in a social media post that if Carney "thinks he is going to make Canada a 'Drop Off Port' for China to send goods and products into the United States, he is sorely mistaken."
 
@@ -133,236 +123,282 @@ Canada is the top export destination for 36 U.S. states and the largest foreign 
 
 Carney has not yet reached a separate agreement with Trump to reduce tariffs on key Canadian sectors. Canada's negotiating position is partially protected by the Canada-U.S.-Mexico Agreement, though that accord is scheduled for review this year.
 
----
-
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed in the frontmatter. Framework specification: /methodology. Human review status: not_triggered.
-
 Creative Commons CC0 — This article, the framework specification, and all Main Street Independent publishing methodology are released to the public domain.
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Donald Trump; Canada
-**Predicate:** threatened_tariff
-**Object:** 100% tariff on goods (trade_action)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Canada
+- **Predicate:** threatened_tariff
+- **Object:** 100% tariff on goods (trade_action)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > Trump threatened a 100% tariff on Canadian goods if Canada proceeded with a China trade deal.
 
-### c_002 — attributed, single source
-**Subject entities:** Donald Trump
-**Predicate:** said
-**Object:** Canada will not be drop-off port for Chinese goods (speech_act)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** said
+- **Object:** Canada will not be drop-off port for Chinese goods (speech_act)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > Trump said in a social media post that Canada would not become a "Drop Off Port" for Chinese goods entering the United States.
 
-### c_003 — reported, single source
-**Subject entities:** Donald Trump
-**Predicate:** said
-**Object:** tariff would be imposed immediately (speech_act)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** said
+- **Object:** tariff would be imposed immediately (speech_act)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > Trump said the tariff would be imposed "immediately" if Canada made a deal with China.
 
-### c_004 — reported, single source
-**Subject entities:** Canada; China
-**Predicate:** negotiated_trade_deal
-**Object:** lower tariffs on EVs and agricultural products (trade_agreement)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Canada; China
+- **Predicate:** negotiated_trade_deal
+- **Object:** lower tariffs on EVs and agricultural products (trade_agreement)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Canada forged a trade deal with China to lower tariffs on Chinese electric vehicles in exchange for lower import taxes on Canadian farm products.
 
-### c_005 — attributed, single source
-**Subject entities:** Donald Trump; Mark Carney
-**Predicate:** praised
-**Object:** Canada-China trade deal (policy_action)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Mark Carney
+- **Predicate:** praised
+- **Object:** Canada-China trade deal (policy_action)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Trump previously praised Canada's China trade deal, saying it was what Carney "should be doing" and "a good thing for him to sign."
 
-### c_006 — attributed, single source
-**Subject entities:** Dominic LeBlanc; Canada; China
-**Predicate:** said
-**Object:** Canada and China resolved several important trade issues (speech_act)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Dominic LeBlanc; Canada; China
+- **Predicate:** said
+- **Object:** Canada and China resolved several important trade issues (speech_act)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > Dominic LeBlanc, Canada's trade minister, said Canada and China had resolved "several important trade issues."
 
-### c_007 — reported, single source
-**Subject entities:** Dominic LeBlanc; Canada; China
-**Predicate:** said
-**Object:** no free-trade agreement pursued (policy_position)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Dominic LeBlanc; Canada; China
+- **Predicate:** said
+- **Object:** no free-trade agreement pursued (policy_position)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > LeBlanc stated that there was no pursuit of a free-trade agreement between Canada and China.
 
-### c_008 — attributed, single source
-**Subject entities:** Donald Trump; Canada; United States
-**Predicate:** said
-**Object:** Canada lives because of the United States (speech_act)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Canada; United States
+- **Predicate:** said
+- **Object:** Canada lives because of the United States (speech_act)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Trump said in Davos that "Canada lives because of the United States."
 
-### c_009 — attributed, single source
-**Subject entities:** Mark Carney; Canada; United States
-**Predicate:** responded
-**Object:** Canada thrives because we are Canadian (speech_act)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Mark Carney; Canada; United States
+- **Predicate:** responded
+- **Object:** Canada thrives because we are Canadian (speech_act)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Carney responded to Trump's statement by saying Canada does not live because of the United States but thrives because Canadians are Canadian.
 
-### c_010 — reported, single source
-**Subject entities:** Donald Trump; Mark Carney
-**Predicate:** revoked_invitation
-**Object:** Board of Peace membership (policy_action)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Mark Carney
+- **Predicate:** revoked_invitation
+- **Object:** Board of Peace membership (policy_action)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > Trump revoked his invitation to Carney to join the president's "Board of Peace."
 
-### c_011 — reported, single source
-**Subject entities:** Donald Trump; Mark Carney
-**Predicate:** called
-**Object:** Governor Carney (epithet)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Mark Carney
+- **Predicate:** called
+- **Object:** Governor Carney (epithet)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > Trump called Carney "Governor Carney" in a social media post.
 
-### c_012 — reported, single source
-**Subject entities:** Mark Carney; World Economic Forum
-**Predicate:** spoke
-**Object:** Middle powers must act together; if not at table then on menu (speech_act)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Mark Carney; World Economic Forum
+- **Predicate:** spoke
+- **Object:** Middle powers must act together; if not at table then on menu (speech_act)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Carney gave a widely celebrated speech at the World Economic Forum calling for middle powers to unite, saying "if you are not at the table, you are on the menu."
 
-### c_013 — reported, single source
-**Subject entities:** Mark Carney; Donald Trump; World Economic Forum
-**Predicate:** upstaged
-**Object:** Carney's speech received widespread praise and outshined Trump (event_outcome)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_013
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Mark Carney; Donald Trump; World Economic Forum
+- **Predicate:** upstaged
+- **Object:** Carney's speech received widespread praise and outshined Trump (event_outcome)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Carney's Davos speech received widespread praise and attention and upstaged Trump at the World Economic Forum.
 
-### c_014 — reported, single source
-**Subject entities:** Mark Carney; United States; Western allies
-**Predicate:** spoke_of
-**Object:** irreparable rupture between U.S. and Western allies (speech_act)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_014
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Mark Carney; United States; Western allies
+- **Predicate:** spoke_of
+- **Object:** irreparable rupture between U.S. and Western allies (speech_act)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Carney spoke of a "rupture" between the U.S. under Trump and its Western allies that would never be repaired.
 
-### c_015 — attributed, single source
-**Subject entities:** Donald Trump; China; Canada
-**Predicate:** said
-**Object:** China would devour Canada's economy and society (speech_act)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; China; Canada
+- **Predicate:** said
+- **Object:** China would devour Canada's economy and society (speech_act)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > Trump said that China would "eat Canada alive, completely devour it, including the destruction of their businesses, social fabric, and general way of life."
 
-### c_016 — attributed, single source
-**Subject entities:** Donald Trump; China; Canada
-**Predicate:** said
-**Object:** China will not take over Canada (speech_act)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_016
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; China; Canada
+- **Predicate:** said
+- **Object:** China will not take over Canada (speech_act)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > Trump said "The last thing the World needs is to have China take over Canada. It's NOT going to happen, or even come close to happening!"
 
-### c_017 — reported, single source
-**Subject entities:** Donald Trump; Canada; Venezuela; Greenland; Cuba
-**Predicate:** posted
-**Object:** map showing Canada, Venezuela, Greenland, Cuba as U.S. territory (social_media_post)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_017
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Canada; Venezuela; Greenland; Cuba
+- **Predicate:** posted
+- **Object:** map showing Canada, Venezuela, Greenland, Cuba as U.S. territory (social_media_post)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Trump posted an altered image on social media showing a map of the United States that included Canada, Venezuela, Greenland, and Cuba as part of its territory.
 
-### c_018 — reported, single source
-**Subject entities:** Canada; United States
-**Predicate:** exports
-**Object:** $3.6 billion CAD daily (trade_statistic)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_018
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Canada; United States
+- **Predicate:** exports
+- **Object:** $3.6 billion CAD daily (trade_statistic)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > Nearly $3.6 billion Canadian (about $2.7 billion U.S.) in goods and services cross the U.S.-Canada border daily.
 
-### c_019 — reported, single source
-**Subject entities:** Canada; United States
-**Predicate:** supplies
-**Object:** 60% of U.S. crude oil imports (trade_statistic)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_019
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Canada; United States
+- **Predicate:** supplies
+- **Object:** 60% of U.S. crude oil imports (trade_statistic)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > About 60% of U.S. crude oil imports are from Canada.
 
-### c_020 — reported, single source
-**Subject entities:** Canada; United States
-**Predicate:** supplies
-**Object:** 85% of U.S. electricity imports (trade_statistic)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_020
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Canada; United States
+- **Predicate:** supplies
+- **Object:** 85% of U.S. electricity imports (trade_statistic)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > About 85% of U.S. electricity imports are from Canada.
 
-### c_021 — reported, single source
-**Subject entities:** Canada; United States
-**Predicate:** destination_for_exports
-**Object:** top export destination for 36 U.S. states (trade_statistic)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_021
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Canada; United States
+- **Predicate:** destination_for_exports
+- **Object:** top export destination for 36 U.S. states (trade_statistic)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > Canada is the top export destination for 36 U.S. states.
 
-### c_022 — reported, single source
-**Subject entities:** Canada; United States
-**Predicate:** supplies
-**Object:** largest foreign supplier of steel, aluminum, uranium (trade_statistic)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_022
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Canada; United States
+- **Predicate:** supplies
+- **Object:** largest foreign supplier of steel, aluminum, uranium (trade_statistic)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > Canada is the largest foreign supplier of steel, aluminum, and uranium to the United States.
 
-### c_023 — reported, single source
-**Subject entities:** Canada; United States Pentagon
-**Predicate:** holds
-**Object:** 34 critical minerals and metals for Pentagon security (trade_statistic)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_023
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Canada; United States Pentagon
+- **Predicate:** holds
+- **Object:** 34 critical minerals and metals for Pentagon security (trade_statistic)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > Canada holds 34 critical minerals and metals that the Pentagon identifies as essential for national security.
 
-### c_024 — reported, single source
-**Subject entities:** Canada; Donald Trump; Canada-U.S.-Mexico Agreement
-**Predicate:** protected_by
-**Object:** CUSMA shields Canada from full tariff impact (policy_protection)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_024
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Canada; Donald Trump; Canada-U.S.-Mexico Agreement
+- **Predicate:** protected_by
+- **Object:** CUSMA shields Canada from full tariff impact (policy_protection)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > Canada has been protected from the heaviest impact of Trump's tariffs by the Canada-U.S.-Mexico Agreement.
 
-### c_025 — reported, single source
-**Subject entities:** Canada-U.S.-Mexico Agreement
-**Predicate:** scheduled_for_review
-**Object:** trade agreement review in 2026 (policy_action)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_025
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Canada-U.S.-Mexico Agreement
+- **Predicate:** scheduled_for_review
+- **Object:** trade agreement review in 2026 (policy_action)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > The Canada-U.S.-Mexico Agreement is scheduled for review this year.
 
@@ -371,10 +407,5 @@ Creative Commons CC0 — This article, the framework specification, and all Main
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Michelle L. Price
 **Publication date:** 2026-01-24
-**Access date:** 2026-01-24
 **Title:** Trump threatens Canada with a 100% tariff over its new China trade deal
 **URL:** https://apnews.com/article/trump-canada-carney-china-tariffs-5079e910df071b45d2b16949efb8f11a
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

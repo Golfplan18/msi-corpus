@@ -23,8 +23,7 @@ topic_tags:
   - "science and technology"
   - "artificial intelligence"
 storyline_nexus:
-  - gaza-conflict
-  - russia-ukraine-war
+- ukraine-war-peace-negotiations
 geographic_location: Ukraine; international
 floor_values_engaged:
 - value: informed_citizenship
@@ -106,8 +105,6 @@ Britain's Ministry of Defense said the government remains committed to post-conf
 Johnson, a strong supporter of Ukraine during his time as prime minister, attributed the urgency of his proposal to a pattern of Western failure to respond decisively to aggression. He said Putin was emboldened by the West's failure to punish Syrian President Bashar al-Assad for using chemical weapons against his own people. "I think Putin was emboldened by a Western failure in Syria to punish Assad for using chemical weapons," Johnson said.
 
 The former prime minister said Putin was further emboldened by the U.S. withdrawal from Afghanistan. "I think Putin was further emboldened in February 2022 by what he'd seen in Afghanistan, and a sort of general sense that the West was on the back foot. He'd seen those appalling pictures of Americans being forced to flee Afghanistan and the UK pulling out as well, and that really did embolden him."
-
-**AI Disclosure:** This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. Framework specification available at `/methodology`. Human editorial review not triggered. License: CC0 public domain.
 
 ## Atomic claims
 
@@ -209,7 +206,3 @@ The former prime minister said Putin was further emboldened by the U.S. withdraw
 **Access date:** 2026-05-17
 **Title:** Boris Johnson urges UK and allies to send noncombat troops to Ukraine
 **URL:** https://apnews.com/article/boris-johnson-ukraine-russia-war-uk-troops-5081f86f749c885205e0f723f2490703
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -26,7 +26,8 @@ topic_tags:
   - employment
   - labour
   - "labour dispute"
-storyline_nexus: []
+storyline_nexus:
+- the-iran-war
 geographic_location: Minab, Hormozgan Province, Iran
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -306,7 +307,3 @@ At a press conference on March 2, Hegseth had offered a different framing of the
 **Access date:** 2026-03-09
 **Title:** Footage further points to US airstrike in Iran school blast
 **URL:** https://apnews.com/article/iran-war-strike-school-minab-us-3f55b6ca193a3295bef5735a45a06368
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -28,46 +28,45 @@ primary_themes:
 - accountability_of_power
 - electricity grid costs
 topic_tags:
-  - "artificial intelligence"
-  - "economy, business and finance"
-  - "energy and resource"
-  - "science and technology"
-storyline_nexus: []
-geographic_location: California, United States
+- energy and resource
+- government policy
+- computing and information technology
+- sustainability
+storyline_nexus:
+- trump-climate-energy-rollbacks
+geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
   intensity: 0.9
 - value: informed_citizenship
-  intensity: 0.85
-- value: human_life_and_dignity
-  intensity: 0.45
-framework_version: 1.1.0
-generation_timestamp: '2026-05-16T16:45:55Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-22T23:54:46Z'
 source_cluster_id: cluster_ap_2026-01-01_data-management-and-storage-gavin-newsom
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 12
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 6
+    confirmed: 2
     reported: 4
     contested: 0
-    confirmed: 2
+    attributed: 6
+    appears: 0
+    alleged: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
+    two_independent: 0
     primary_document: 0
     single_source: 12
-    two_independent: 0
+    primary_plus_secondary: 0
+    one_originating_plus_primary_document: 0
 sources:
   count: 1
   outlets:
-  - Associated Press / CalMatters
+  - Associated Press
   outlet_classes:
   - wire
   highest_reliability_tier: 1
@@ -85,11 +84,14 @@ cross_article_links: []
 draft: false
 ---
 
-California's 2025 push to regulate data centers' surging electricity demand ended with a single surviving measure: a law directing state utility regulators to publish a report on cost impacts by 2027. Stronger proposals — including a separate electricity rate for data centers, grid battery mandates, and electricity-disclosure requirements — collapsed under pressure from Big Tech, business groups, and Gov. Gavin Newsom.
+## Summary
 
-The lone survivor, authored by state Sen. Steve Padilla, D-Chula Vista, began as a plan to shield households and small businesses from higher energy bills by creating a distinct rate structure for data centers. By the time it passed, that core provision had been stripped out.
+**Subtype:** fact
 
-The outcome illustrates the fiscal leverage that major technology companies hold over California — a handful of firms pay upwards of $5 billion in state income tax withholding alone — and the practical limits facing lawmakers who seek to regulate an industry the governor has championed as central to the state's economic future.
+- The lone survivor, authored by state Sen.
+- Matthew Freedman, a staff attorney with The Utility Reform Network, a ratepayer advocacy group, called the surviving measure "toothless," noting that it directs the California Public Utilities Commission to study an issue the agency already has the authority to investigate.
+- "It could be that the report helps the Legislature to understand the magnitude of the problem and potential solutions," Freedman said.
+- Padilla said the final version "was not the one we would have preferred," acknowledging that directing the CPUC to study the issue may seem "obvious." But the law at least "says unequivocally that the CPUC has the authority to study these impacts" as demand from data centers accelerates, Padilla added.
 
 ## A 'toothless' result
 
@@ -143,123 +145,142 @@ Whether either measure advances will test whether evolving political conditions 
 
 ## Atomic claims
 
-### c_001 — confirmed, single source
-**Subject entities:** California Legislature; California Public Utilities Commission
-**Predicate:** enacted
-**Object:** data center energy cost study requirement (legislation)
-**Temporal:** 2026-01-02
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** California Legislature; California Public Utilities Commission
+- **Predicate:** enacted
+- **Object:** data center energy cost study requirement (legislation)
+- **Temporal:** 2026-01-02
+- **Sources:** src_001
 
 > California enacted a law requiring the California Public Utilities Commission to produce a report on data center energy cost impacts by 2027.
 
-### c_002 — attributed, single source
-**Subject entities:** data center developers; California Energy Commission
-**Predicate:** requested
-**Object:** 18.7 gigawatts (electricity_capacity)
-**Temporal:** 2026-01-02
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** data center developers; California Energy Commission
+- **Predicate:** requested
+- **Object:** 18.7 gigawatts (electricity_capacity)
+- **Temporal:** 2026-01-02
+- **Sources:** src_001
 
 > Developers have requested 18.7 gigawatts of service capacity for data centers in California, more than enough to serve every household in the state, according to the California Energy Commission.
 
-### c_003 — reported, single source
-**Subject entities:** major technology companies; California
-**Predicate:** pay
-**Object:** $5 billion (tax_revenue)
-**Temporal:** 2026-01-02
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** major technology companies; California
+- **Predicate:** pay
+- **Object:** $5 billion (tax_revenue)
+- **Temporal:** 2026-01-02
+- **Sources:** src_001
 
 > A handful of major technology companies pay upwards of $5 billion in California income tax withholding.
 
-### c_004 — confirmed, single source
-**Subject entities:** Gavin Newsom
-**Predicate:** vetoed
-**Object:** data center water-use reporting requirement (legislation)
-**Temporal:** 2026-01-02
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Gavin Newsom
+- **Predicate:** vetoed
+- **Object:** data center water-use reporting requirement (legislation)
+- **Temporal:** 2026-01-02
+- **Sources:** src_001
 
 > Gov. Gavin Newsom vetoed a bill requiring data center operators to report their water use.
 
-### c_005 — attributed, single source
-**Subject entities:** Matthew Freedman; The Utility Reform Network
-**Predicate:** described
-**Object:** toothless (characterization)
-**Temporal:** 2026-01-02
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Matthew Freedman; The Utility Reform Network
+- **Predicate:** described
+- **Object:** toothless (characterization)
+- **Temporal:** 2026-01-02
+- **Sources:** src_001
 
 > Matthew Freedman, staff attorney with The Utility Reform Network, called the surviving measure 'toothless,' saying it directs the CPUC to study an issue the agency already has authority to investigate.
 
-### c_006 — attributed, single source
-**Subject entities:** Steve Padilla
-**Predicate:** said
-**Object:** was not the one we would have preferred (quotation)
-**Temporal:** 2026-01-02
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Steve Padilla
+- **Predicate:** said
+- **Object:** was not the one we would have preferred (quotation)
+- **Temporal:** 2026-01-02
+- **Sources:** src_001
 
 > State Sen. Steve Padilla said the final version of his law 'was not the one we would have preferred.'
 
-### c_007 — reported, single source
-**Subject entities:** Steve Padilla; California Legislature
-**Predicate:** stripped
-**Object:** battery mandate and 100% clean-power-by-2030 requirement (legislative_provision)
-**Temporal:** 2026-01-02
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Steve Padilla; California Legislature
+- **Predicate:** stripped
+- **Object:** battery mandate and 100% clean-power-by-2030 requirement (legislative_provision)
+- **Temporal:** 2026-01-02
+- **Sources:** src_001
 
 > Earlier drafts of Padilla's measure required data centers to install large batteries for grid support during peak demand and required utilities to supply 100% carbon-free electricity by 2030; both provisions were stripped before passage.
 
-### c_008 — attributed, single source
-**Subject entities:** Ahmad Thomas; Silicon Valley Leadership Group; Texas; Google
-**Predicate:** argued
-**Object:** $40 billion Texas data-center project (investment_comparison)
-**Temporal:** 2026-01-02
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ahmad Thomas; Silicon Valley Leadership Group; Texas; Google
+- **Predicate:** argued
+- **Object:** $40 billion Texas data-center project (investment_comparison)
+- **Temporal:** 2026-01-02
+- **Sources:** src_001
 
 > Ahmad Thomas, CEO of the Silicon Valley Leadership Group, argued that California must compete to attract investments like the $40 billion data-center project Texas secured with Google.
 
-### c_009 — reported, single source
-**Subject entities:** Stanford University
-**Predicate:** reported
-**Object:** risk of losing jobs, tax revenue, and AI talent (research_finding)
-**Temporal:** 2026-01-02
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Stanford University
+- **Predicate:** reported
+- **Object:** risk of losing jobs, tax revenue, and AI talent (research_finding)
+- **Temporal:** 2026-01-02
+- **Sources:** src_001
 
 > A September Stanford report said California risks losing property-tax revenue, union construction jobs, and 'valuable AI talent' if data-center construction moves out of state.
 
-### c_010 — attributed, single source
-**Subject entities:** Shaolei Ren; UC Riverside
-**Predicate:** said
-**Object:** data-center locations and AI researcher locations are decoupled (expert_opinion)
-**Temporal:** 2026-01-02
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Shaolei Ren; UC Riverside
+- **Predicate:** said
+- **Object:** data-center locations and AI researcher locations are decoupled (expert_opinion)
+- **Temporal:** 2026-01-02
+- **Sources:** src_001
 
 > Shaolei Ren, AI researcher at UC Riverside, said data-center locations and where AI researchers live are largely unrelated.
 
-### c_011 — reported, single source
-**Subject entities:** Steve Padilla; Rebecca Bauer-Kahan
-**Predicate:** plans_to_introduce
-**Object:** data center grid cost and electricity disclosure legislation (future_legislation)
-**Temporal:** 2026-01-02
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Steve Padilla; Rebecca Bauer-Kahan
+- **Predicate:** plans_to_introduce
+- **Object:** data center grid cost and electricity disclosure legislation (future_legislation)
+- **Temporal:** 2026-01-02
+- **Sources:** src_001
 
 > Padilla plans to introduce a 2026 bill addressing who pays for data centers' long-term grid costs; Assemblymember Rebecca Bauer-Kahan, D-San Ramon, plans to revisit her electricity-disclosure bill.
 
-### c_012 — attributed, single source
-**Subject entities:** Dan Diorio; Data Center Coalition
-**Predicate:** said
-**Object:** requirements should not single out one industry (policy_position)
-**Temporal:** 2026-01-02
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Dan Diorio; Data Center Coalition
+- **Predicate:** said
+- **Object:** requirements should not single out one industry (policy_position)
+- **Temporal:** 2026-01-02
+- **Sources:** src_001
 
 > Dan Diorio, vice president of state policy for the Data Center Coalition, said new requirements on data centers should apply to all other large electricity users.
 
 ## Sources
 
-### src_001 — Associated Press / CalMatters, wire, Tier 1, originating
-**Author:** Alejandro Lazo
+### src_001 — Associated Press, wire, Tier 1, originating
+**Author:** Alejandro Lazo / Calmatters
 **Publication date:** 2026-01-02
-**Access date:** 2026-01-02
 **Title:** Big Tech blocked California data center legislation, leaving only a study requirement
 **URL:** https://apnews.com/article/data-management-and-storage-gavin-newsom-california-artificial-intelligence-information-technology-ebd23c6cf737013c6c17760aba75465a
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

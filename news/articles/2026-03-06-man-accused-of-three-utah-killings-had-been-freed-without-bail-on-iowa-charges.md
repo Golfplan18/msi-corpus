@@ -13,23 +13,25 @@ primary_themes:
 - criminal_justice
 - pretrial_release
 topic_tags:
-  - "crime"
-  - "crime, law and justice"
-storyline_nexus: []
-geographic_location: Wayne County, Utah; Pagosa Springs, Colorado; Iowa, United States
+- crime, law and justice
+- law enforcement
+- prosecution
+- trial
+- judiciary
+storyline_nexus:
+- us-immigration-enforcement
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
   intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.6
-- value: informed_citizenship
-  intensity: 0.7
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:44:42Z'
+  intensity: 0.9
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T01:07:53Z'
 source_cluster_id: cluster_ap_2026-03-07_utah-iowa-women-trail-murder-pagosa-f62d
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
@@ -37,16 +39,16 @@ claims:
   hedges:
     appears: 0
     alleged: 0
-    attributed: 10
     reported: 0
-    contested: 0
     confirmed: 4
+    attributed: 10
+    contested: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 4
+    primary_plus_secondary: 0
     single_source: 10
     two_independent: 0
+    one_originating_plus_primary_document: 0
 sources:
   count: 1
   outlets:
@@ -63,6 +65,13 @@ figures_aggregate:
 cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- - value: human_life_and_dignity
+- - value: accountability_of_power
 
 The case spans Utah, Iowa, and Colorado and turned on what authorities described as a crime of "convenience": Miller told investigators he killed two hikers because he disliked the car he had just taken and wanted a different vehicle, according to court documents.
 
@@ -114,129 +123,157 @@ Wayne County, Utah, Attorney Michael Winn declined to comment Friday on Miller's
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Ivan Miller
-**Predicate:** accused_of_killing
-**Object:** three women in Utah (allegation)
-**Temporal:** 2026-03-04
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ivan Miller
+- **Predicate:** accused_of_killing
+- **Object:** three women in Utah (allegation)
+- **Temporal:** 2026-03-04
+- **Sources:** src_001
 
 > Ivan Miller, 22, is accused of killing three women in Utah.
 
-### c_002 — confirmed, primary document
-**Subject entities:** Ivan Miller
-**Predicate:** released_without_bail
-**Object:** Iowa charges including burglary and theft (legal_status)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Ivan Miller
+- **Predicate:** released_without_bail
+- **Object:** Iowa charges including burglary and theft (legal_status)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Miller was released without bail in Iowa on Jan. 13 on a promise to appear on burglary, theft, and other charges.
 
-### c_003 — attributed, single source
-**Subject entities:** Ivan Miller
-**Predicate:** missed_court_appearance
-**Object:** Iowa arraignment (court_date)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ivan Miller
+- **Predicate:** missed_court_appearance
+- **Object:** Iowa arraignment (court_date)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > Miller missed his Iowa arraignment Friday because he was in jail in southern Colorado.
 
-### c_004 — attributed, single source
-**Subject entities:** Ivan Miller
-**Predicate:** tracked_to
-**Object:** Pagosa Springs, Colorado (location)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ivan Miller
+- **Predicate:** tracked_to
+- **Object:** Pagosa Springs, Colorado (location)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > Authorities tracked Miller to Pagosa Springs, Colorado, using license plate readers and vehicle trackers.
 
-### c_005 — attributed, single source
-**Subject entities:** Linda Dewey; Natalie Graves
-**Predicate:** found_dead
-**Object:** dry creek bed near Capitol Reef National Park trailhead (location)
-**Temporal:** 2026-03-04
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Linda Dewey; Natalie Graves
+- **Predicate:** found_dead
+- **Object:** dry creek bed near Capitol Reef National Park trailhead (location)
+- **Temporal:** 2026-03-04
+- **Sources:** src_001
 
 > Linda Dewey, 65, and her niece Natalie Graves, 34, were found dead in a dry creek bed near a trailhead outside Capitol Reef National Park.
 
-### c_006 — attributed, single source
-**Subject entities:** Margaret Oldroyd
-**Predicate:** found_dead
-**Object:** cellar beneath shed on her property in Lyman, Utah (location)
-**Temporal:** 2026-03-04
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Margaret Oldroyd
+- **Predicate:** found_dead
+- **Object:** cellar beneath shed on her property in Lyman, Utah (location)
+- **Temporal:** 2026-03-04
+- **Sources:** src_001
 
 > Margaret Oldroyd, 86, was found in a cellar beneath a shed on her property in Lyman, Utah.
 
-### c_007 — attributed, single source
-**Subject entities:** Ivan Miller
-**Predicate:** stated_motive
-**Object:** disliked the Buick, wanted a different vehicle (alleged_motive)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ivan Miller
+- **Predicate:** stated_motive
+- **Object:** disliked the Buick, wanted a different vehicle (alleged_motive)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > Miller told investigators he killed the two hikers because he did not like the Buick and wanted a different vehicle.
 
-### c_008 — attributed, single source
-**Subject entities:** Ivan Miller
-**Predicate:** stated_motive
-**Object:** needed to get back to Iowa (alleged_motive)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ivan Miller
+- **Predicate:** stated_motive
+- **Object:** needed to get back to Iowa (alleged_motive)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > Miller told investigators he stole the cars and credit cards because he needed to get back to Iowa.
 
-### c_009 — attributed, single source
-**Subject entities:** Scott Van Zandt; Ivan Miller
-**Predicate:** stated_intention
-**Object:** fight extradition to Utah (legal_action)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Scott Van Zandt; Ivan Miller
+- **Predicate:** stated_intention
+- **Object:** fight extradition to Utah (legal_action)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > Miller's attorney Scott Van Zandt said he would fight his client's extradition to Utah, where Miller could face the death penalty.
 
-### c_010 — confirmed, primary document
-**Subject entities:** Ivan Miller
-**Predicate:** arrested
-**Object:** Lake Wapello State Park cabin, Iowa (location)
-**Temporal:** 2025-12-31
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Ivan Miller
+- **Predicate:** arrested
+- **Object:** Lake Wapello State Park cabin, Iowa (location)
+- **Temporal:** 2025-12-31
+- **Sources:** src_001
 
 > Miller was arrested Dec. 31 after Iowa state park rangers found him in a cabin at Lake Wapello State Park that he had broken into.
 
-### c_011 — attributed, single source
-**Subject entities:** Cameron Roden; Ivan Miller
-**Predicate:** stated
-**Object:** no known prior connection between Miller and the victims (law_enforcement_statement)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Cameron Roden; Ivan Miller
+- **Predicate:** stated
+- **Object:** no known prior connection between Miller and the victims (law_enforcement_statement)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > Lt. Cameron Roden of the Utah Highway Patrol said there was no sign Miller had any prior connection to the three victims.
 
-### c_012 — attributed, primary document
-**Subject entities:** Ivan Miller
-**Predicate:** charged_with
-**Object:** illegally hunting on a game refuge (charge)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Ivan Miller
+- **Predicate:** charged_with
+- **Object:** illegally hunting on a game refuge (charge)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Court documents in the Iowa case show Miller also faced a related charge of illegally hunting on a game refuge.
 
-### c_013 — confirmed, single source
-**Subject entities:** Michael Winn
-**Predicate:** declined_comment
-**Object:** extradition fight (legal_matter)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_013
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Michael Winn
+- **Predicate:** declined_comment
+- **Object:** extradition fight (legal_matter)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > Wayne County, Utah, Attorney Michael Winn declined to comment Friday on Miller's plan to fight extradition.
 
-### c_014 — confirmed, primary document
-**Subject entities:** Ivan Miller
-**Predicate:** found_in_possession
-**Object:** bolt-action rifle with bayonet and AR-10 with scope and bipod (weapons)
-**Temporal:** 2025-12-31
-**Source IDs:** src_001
+### c_014
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Ivan Miller
+- **Predicate:** found_in_possession
+- **Object:** bolt-action rifle with bayonet and AR-10 with scope and bipod (weapons)
+- **Temporal:** 2025-12-31
+- **Sources:** src_001
 
 > Iowa rangers found loaded guns in the cabin, including a bolt-action rifle with a bayonet and an AR-10 with a scope and bipod.
 
@@ -245,10 +282,5 @@ Wayne County, Utah, Attorney Michael Winn declined to comment Friday on Miller's
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Margery A. Beck
 **Publication date:** 2026-03-06
-**Access date:** 2026-03-06
 **Title:** Man accused of killing three women in Utah known to police in Iowa
 **URL:** https://apnews.com/article/utah-iowa-women-trail-murder-pagosa-f62d20fe89bbd98a3005e200493715bd
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

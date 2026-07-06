@@ -20,8 +20,7 @@ primary_themes:
 topic_tags:
   - "economy, business and finance"
   - "international trade"
-storyline_nexus:
-  - venezuela-crisis
+storyline_nexus: []
 geographic_location: Colombia-Ecuador border region
 floor_values_engaged:
 - value: truthfulness
@@ -187,7 +186,3 @@ Ecuador's government did not immediately respond to requests for comment from Th
 **Access date:** 2026-05-17
 **Title:** Colombian President Petro vows a lawsuit after Ecuador's Noboa alleges ties to gang boss 'Fito'
 **URL:** https://apnews.com/article/colombia-petro-ecuador-noboa-drug-trafficking-fito-9244855067b3ce6c71ac07397adb953a
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

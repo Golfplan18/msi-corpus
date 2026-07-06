@@ -23,9 +23,10 @@ primary_themes:
 - Trump administration health policy
 - gene therapy
 topic_tags:
-  - "disease and condition"
-  - "health"
-storyline_nexus: []
+- disease and condition
+- health
+storyline_nexus:
+- trump-health-policy-rfk
 geographic_location: Washington, D.C.
 floor_values_engaged:
 - value: informed_citizenship
@@ -75,10 +76,6 @@ cross_article_links:
   relation: related
   strength: 0.747
   confidence: medium
-- slug: 2026-01-06-trump-overstates-childhood-vaccine-requirements-as-administration-cuts-federal-s
-  relation: related
-  strength: 0.7268
-  confidence: medium
 - slug: 2026-01-05-cdc-narrows-childhood-vaccine-schedule-pediatricians-warn-of-health-risks
   relation: related
   strength: 0.7285
@@ -122,138 +119,168 @@ At the same time, Prasad and Makary jointly announced on repeated occasions step
 
 ## Atomic claims
 
-### c_001 — confirmed, single source
-**Subject entities:** Marty Makary; Vinay Prasad
-**Predicate:** announced_departure
-**Object:** end of April (date_reference)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Marty Makary; Vinay Prasad
+- **Predicate:** announced_departure
+- **Object:** end of April (date_reference)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > FDA Commissioner Marty Makary announced in an email to FDA staff on Friday that Dr. Vinay Prasad would depart the agency at the end of April.
 
-### c_002 — attributed, single source
-**Subject entities:** Vinay Prasad; University of California San Francisco
-**Predicate:** will_return_to
-**Object:** academic job at UCSF (employment)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Vinay Prasad; University of California San Francisco
+- **Predicate:** will_return_to
+- **Object:** academic job at UCSF (employment)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > Makary said Prasad would return to his academic job at the University of California, San Francisco.
 
-### c_003 — reported, single source
-**Subject entities:** Vinay Prasad
-**Predicate:** was_forced_out
-**Object:** July (temporal_event)
-**Temporal:** 2025-07
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Vinay Prasad
+- **Predicate:** was_forced_out
+- **Object:** July (temporal_event)
+- **Temporal:** 2025-07
+- **Sources:** src_001
 
 > In July, Prasad was briefly forced from his job after running afoul of biotech executives, patient groups, and conservative allies of President Donald Trump.
 
-### c_004 — reported, single source
-**Subject entities:** Vinay Prasad; Robert F. Kennedy Jr.; Marty Makary
-**Predicate:** was_reinstated
-**Object:** less than two weeks after July departure (employment_action)
-**Temporal:** 2025-07
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Vinay Prasad; Robert F. Kennedy Jr.; Marty Makary
+- **Predicate:** was_reinstated
+- **Object:** less than two weeks after July departure (employment_action)
+- **Temporal:** 2025-07
+- **Sources:** src_001
 
 > Prasad was reinstated less than two weeks later with the backing of Health Secretary Robert F. Kennedy Jr. and Makary.
 
-### c_005 — reported, single source
-**Subject entities:** Vinay Prasad; Moderna; U.S. Food and Drug Administration
-**Predicate:** refused_review_application
-**Object:** Moderna mRNA flu vaccine application (regulatory_action)
-**Temporal:** 2026-02
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Vinay Prasad; Moderna; U.S. Food and Drug Administration
+- **Predicate:** refused_review_application
+- **Object:** Moderna mRNA flu vaccine application (regulatory_action)
+- **Temporal:** 2026-02
+- **Sources:** src_001
 
 > Prasad initially refused to allow the FDA to review a highly anticipated flu vaccine from Moderna made with mRNA technology.
 
-### c_006 — confirmed, single source
-**Subject entities:** U.S. Food and Drug Administration; Moderna
-**Predicate:** reversed_course
-**Object:** agreed to accept Moderna flu vaccine application for review (regulatory_action)
-**Temporal:** 2026-02
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Food and Drug Administration; Moderna
+- **Predicate:** reversed_course
+- **Object:** agreed to accept Moderna flu vaccine application for review (regulatory_action)
+- **Temporal:** 2026-02
+- **Sources:** src_001
 
 > After Moderna went public with the decision and vowed to formally challenge it, the FDA reversed course and agreed to accept the shot for review, pending an additional study from Moderna.
 
-### c_007 — attributed, single source
-**Subject entities:** UniQure; U.S. Food and Drug Administration
-**Predicate:** alleged_demand
-**Object:** new trial with sham surgery (regulatory_demand)
-**Temporal:** 2026-03-02
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** UniQure; U.S. Food and Drug Administration
+- **Predicate:** alleged_demand
+- **Object:** new trial with sham surgery (regulatory_demand)
+- **Temporal:** 2026-03-02
+- **Sources:** src_001
 
 > UniQure said Monday that the FDA was demanding a new trial of its gene therapy for Huntington's disease that would involve performing a sham surgery on some of the patients in the trial.
 
-### c_008 — attributed, single source
-**Subject entities:** UniQure
-**Predicate:** said
-**Object:** sham trial contradicted prior FDA guidance and raised ethical concerns (company_statement)
-**Temporal:** 2026-03-02
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** UniQure
+- **Predicate:** said
+- **Object:** sham trial contradicted prior FDA guidance and raised ethical concerns (company_statement)
+- **Temporal:** 2026-03-02
+- **Sources:** src_001
 
 > UniQure executives said the request for a sham-controlled trial contradicted previous FDA guidance and raised ethical concerns for patients.
 
-### c_009 — attributed, single source
-**Subject entities:** UniQure
-**Predicate:** described_as
-**Object:** injected directly into brain during surgery (medical_description)
-**Temporal:** 2026-03
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** UniQure
+- **Predicate:** described_as
+- **Object:** injected directly into brain during surgery (medical_description)
+- **Temporal:** 2026-03
+- **Sources:** src_001
 
 > UniQure's gene therapy for Huntington's disease is injected directly into the brain during a surgical procedure.
 
-### c_010 — reported, single source
-**Subject entities:** Huntington's disease
-**Predicate:** affects
-**Object:** approximately 40000 people in the US (disease_statistic)
-**Temporal:** 2026-03
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Huntington's disease
+- **Predicate:** affects
+- **Object:** approximately 40000 people in the US (disease_statistic)
+- **Temporal:** 2026-03
+- **Sources:** src_001
 
 > Huntington's disease is a fatal condition that affects about 40,000 people in the United States.
 
-### c_011 — confirmed, single source
-**Subject entities:** U.S. Food and Drug Administration; UniQure
-**Predicate:** held_press_conference
-**Object:** press conference criticizing UniQure therapy (agency_action)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_011
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Food and Drug Administration; UniQure
+- **Predicate:** held_press_conference
+- **Object:** press conference criticizing UniQure therapy (agency_action)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > On Thursday, the FDA held a press conference with reporters to criticize UniQure's therapy and defend the agency's request for an additional study.
 
-### c_012 — reported, single source
-**Subject entities:** U.S. Food and Drug Administration
-**Predicate:** said
-**Object:** UniQure study stone cold negative; failed product (agency_statement)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Food and Drug Administration
+- **Predicate:** said
+- **Object:** UniQure study stone cold negative; failed product (agency_statement)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > A senior FDA official, who requested anonymity to speak with reporters, called UniQure's original study 'stone cold negative' and said 'We have a failed product here.'
 
-### c_013 — reported, single source
-**Subject entities:** U.S. Food and Drug Administration; Vinay Prasad
-**Predicate:** issued_rejections
-**Object:** more than half-dozen drugmakers (count)
-**Temporal:** 2025-2026
-**Source IDs:** src_001
+### c_013
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Food and Drug Administration; Vinay Prasad
+- **Predicate:** issued_rejections
+- **Object:** more than half-dozen drugmakers (count)
+- **Temporal:** 2025-2026
+- **Sources:** src_001
 
 > More than a half-dozen drugmakers studying therapies for rare or hard-to-treat diseases received rejection letters or requests to run additional studies under Prasad's tenure.
 
-### c_014 — reported, single source
-**Subject entities:** Vinay Prasad; Marty Makary
-**Predicate:** announced_jointly
-**Object:** steps to make FDA reviews faster and easier (policy_action)
-**Temporal:** 2025-2026
-**Source IDs:** src_001
+### c_014
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Vinay Prasad; Marty Makary
+- **Predicate:** announced_jointly
+- **Object:** steps to make FDA reviews faster and easier (policy_action)
+- **Temporal:** 2025-2026
+- **Sources:** src_001
 
 > Prasad joined Makary on repeated occasions in announcing steps to make FDA drug reviews faster and easier for companies.
 
-### c_015 — reported, single source
-**Subject entities:** Vinay Prasad; Robert F. Kennedy Jr.
-**Predicate:** imposed_requirements
-**Object:** new warnings and study requirements for COVID shots and some biotech drugs (regulatory_action)
-**Temporal:** 2025-2026
-**Source IDs:** src_001
+### c_015
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Vinay Prasad; Robert F. Kennedy Jr.
+- **Predicate:** imposed_requirements
+- **Object:** new warnings and study requirements for COVID shots and some biotech drugs (regulatory_action)
+- **Temporal:** 2025-2026
+- **Sources:** src_001
 
 > Prasad imposed new warnings and study requirements for some biotech drugs and vaccines, particularly COVID shots that have long been a target for Kennedy, a longtime anti-vaccine activist before joining the Trump administration.
 
@@ -265,7 +292,3 @@ At the same time, Prasad and Makary jointly announced on repeated occasions step
 **Access date:** 2026-03-07
 **Title:** FDA vaccine chief Dr. Vinay Prasad exits agency for the second time
 **URL:** https://apnews.com/article/vinay-prasad-fda-trump-vaccine-moderna-fired-bf56fe9852def8c9f1b9a648e5bb92df
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

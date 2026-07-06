@@ -16,7 +16,7 @@ primary_themes:
 topic_tags:
   - politics
 storyline_nexus:
-  - immigration-enforcement
+- 2026-midterm-elections
 geographic_location: Richmond, Virginia, United States
 floor_values_engaged:
 - value: informed_citizenship
@@ -93,84 +93,102 @@ Her November win was reported as a boost for Democrats on a night that raised qu
 
 ## Atomic claims
 
-### c_001 — confirmed, single source
-**Subject entities:** Abigail Spanberger
-**Predicate:** scheduled_inauguration
-**Object:** Jan. 17, 2026, Virginia Capitol (event)
-**Temporal:** 2026-01-17
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Abigail Spanberger
+- **Predicate:** scheduled_inauguration
+- **Object:** Jan. 17, 2026, Virginia Capitol (event)
+- **Temporal:** 2026-01-17
+- **Sources:** src_001
 
 > Spanberger will be sworn in as governor on Jan. 17 outside the Virginia Capitol.
 
-### c_002 — attributed, single source
-**Subject entities:** Abigail Spanberger
-**Predicate:** is_first
-**Object:** female governor of Virginia (historic_distinction)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Abigail Spanberger
+- **Predicate:** is_first
+- **Object:** female governor of Virginia (historic_distinction)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Spanberger is the first woman elected governor in Virginia's nearly 250-year history.
 
-### c_003 — attributed, single source
-**Subject entities:** Abigail Spanberger; Winsome Earle-Sears
-**Predicate:** defeated_by_margin
-**Object:** 15 percentage points (vote_margin)
-**Temporal:** 2025-11
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Abigail Spanberger; Winsome Earle-Sears
+- **Predicate:** defeated_by_margin
+- **Object:** 15 percentage points (vote_margin)
+- **Temporal:** 2025-11
+- **Sources:** src_001
 
 > Spanberger defeated Republican Lt. Gov. Winsome Earle-Sears by 15 points in November.
 
-### c_004 — confirmed, single source
-**Subject entities:** Abigail Spanberger
-**Predicate:** is_identified_as
-**Object:** Democrat and former congresswoman (affiliation_and_role)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Abigail Spanberger
+- **Predicate:** is_identified_as
+- **Object:** Democrat and former congresswoman (affiliation_and_role)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Spanberger is a Democrat and former congresswoman.
 
-### c_005 — attributed, single source
-**Subject entities:** Abigail Spanberger
-**Predicate:** stated_agenda
-**Object:** economic relief, tenant protections, prescription drug cost reductions (policy_agenda)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Abigail Spanberger
+- **Predicate:** stated_agenda
+- **Object:** economic relief, tenant protections, prescription drug cost reductions (policy_agenda)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > Spanberger said her early agenda would center on economic relief, including tenant protections against evictions and policies aimed at lowering prescription drug costs.
 
-### c_006 — attributed, single source
-**Subject entities:** Abigail Spanberger
-**Predicate:** criticized_by
-**Object:** conservative critics citing cost concerns (attributed_criticism)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Abigail Spanberger
+- **Predicate:** criticized_by
+- **Object:** conservative critics citing cost concerns (attributed_criticism)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > Conservative critics say her plans will drive up costs for residents facing economic uncertainty, a decrease in federal dollars, and a cost-of-living crisis.
 
-### c_007 — reported, single source
-**Subject entities:** Abigail Spanberger; Donald Trump
-**Predicate:** interpreted_as
-**Object:** boost for Democrats, signal of doubt about Trump midterm strength (political_interpretation)
-**Temporal:** 2025-11
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Abigail Spanberger; Donald Trump
+- **Predicate:** interpreted_as
+- **Object:** boost for Democrats, signal of doubt about Trump midterm strength (political_interpretation)
+- **Temporal:** 2025-11
+- **Sources:** src_001
 
 > Spanberger's win was described as a boost for Democrats that cast doubts about President Trump's political strength heading into midterm elections.
 
-### c_008 — attributed, single source
-**Subject entities:** Abigail Spanberger; Donald Trump
-**Predicate:** stated_approach
-**Object:** conditional cooperation with federal administration (policy_position)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Abigail Spanberger; Donald Trump
+- **Predicate:** stated_approach
+- **Object:** conditional cooperation with federal administration (policy_position)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > Spanberger said she would work with Trump when aligned on Virginia's interests but be a relentless advocate for Virginia when his choices might hurt the state.
 
-### c_009 — attributed, single source
-**Subject entities:** Abigail Spanberger
-**Predicate:** recalled_visual
-**Object:** Richmond Times-Dispatch photo with headline 'Spanberger joins the boys club' (anecdote)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Abigail Spanberger
+- **Predicate:** recalled_visual
+- **Object:** Richmond Times-Dispatch photo with headline 'Spanberger joins the boys club' (anecdote)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > Spanberger recalled seeing a Richmond Times-Dispatch photo placing her image beside pictures of her male predecessors, headlined 'Spanberger joins the boys club.'
 
@@ -182,7 +200,3 @@ Her November win was reported as a boost for Democrats on a night that raised qu
 **Access date:** 2026-01-07
 **Title:** Spanberger still digesting significance of being Virginia's 1st female governor
 **URL:** https://apnews.com/article/spanberger-virginia-first-female-governor-57c9827cce0f3a05afc1d9e304e94abc
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

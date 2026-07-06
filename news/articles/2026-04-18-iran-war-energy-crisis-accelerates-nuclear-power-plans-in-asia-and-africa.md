@@ -34,7 +34,8 @@ topic_tags:
   - "economy, business and finance"
   - "construction and property"
   - "climate change"
-storyline_nexus: []
+storyline_nexus:
+- the-iran-war
 geographic_location: International (Asia and Africa primary focus)
 floor_values_engaged:
 - value: informed_citizenship
@@ -122,8 +123,6 @@ Yet nuclear power offers no immediate relief. According to the International Ato
 Safety concerns persist alongside these timelines. Nuclear plants are vulnerable during armed conflict—reactors have been specifically targeted during the Iran war and the Russia-Ukraine conflict. The industry also carries risks of meltdowns and mismanaged waste. Advocates for renewable energy argue that solar and wind power make more sense than nuclear for both cost and energy security, offering faster deployment without the waste or weapons proliferation risks that nuclear technology carries.
 
 The war, though, has shifted how nations calculate risk. For Asian and African nations dependent on imported fossil fuels, the current crisis illustrates their vulnerability to market shocks and supply disruptions. Long-term commitments to nuclear power made now will likely shape countries' energy systems for decades, locking in atomic generation as a core component of future electricity supplies.
-
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. The article is released under CC0 license.
 
 ## Atomic claims
 
@@ -342,7 +341,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-04-17
 **Title:** Iran war energy crisis spurs nuclear ambitions in Asia and Africa
 **URL:** https://apnews.com/article/middle-east-wars-nuclear-energy-asia-africa-ab082ccbbc1fca8ab7eb6871040bf4a3
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

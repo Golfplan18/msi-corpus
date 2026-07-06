@@ -18,7 +18,8 @@ topic_tags:
   - government
   - "government policy"
   - labour
-storyline_nexus: []
+storyline_nexus:
+- extreme-weather-disasters
 geographic_location: Orlando, Florida, United States
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -85,83 +86,101 @@ The Indiana Jones Epic Stunt Spectacular recreates an early scene from the 1981 
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Walt Disney World; Indiana Jones Epic Stunt Spectacular
-**Predicate:** worker_knocked_to_ground
-**Object:** prop boulder, 400 pounds
-**Temporal:** 2025-12-30
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Walt Disney World; Indiana Jones Epic Stunt Spectacular
+- **Predicate:** worker_knocked_to_ground
+- **Object:** prop boulder, 400 pounds
+- **Temporal:** 2025-12-30
+- **Sources:** src_001
 
 > A Walt Disney World worker was knocked to the ground by a 400-pound (181-kilogram) prop boulder at the Indiana Jones Epic Stunt Spectacular on Tuesday, December 30, 2025.
 
-### c_002 — attributed, single source
-**Subject entities:** prop boulder
-**Predicate:** rolled_off_track_toward_audience
-**Object:** seated spectators
-**Temporal:** 2025-12-30
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** prop boulder
+- **Predicate:** rolled_off_track_toward_audience
+- **Object:** seated spectators
+- **Temporal:** 2025-12-30
+- **Sources:** src_001
 
 > The boulder moved off its track and rolled toward seated audience members.
 
-### c_003 — attributed, single source
-**Subject entities:** second Disney worker
-**Predicate:** stopped_boulder
-**Object:** before reaching spectators
-**Temporal:** 2025-12-30
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** second Disney worker
+- **Predicate:** stopped_boulder
+- **Object:** before reaching spectators
+- **Temporal:** 2025-12-30
+- **Sources:** src_001
 
 > A second worker stopped the boulder before it reached the spectators.
 
-### c_004 — attributed, single source
-**Subject entities:** Walt Disney World
-**Predicate:** declined_to_disclose
-**Object:** worker injuries
-**Temporal:** 2025-12-31
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Walt Disney World
+- **Predicate:** declined_to_disclose
+- **Object:** worker injuries
+- **Temporal:** 2025-12-31
+- **Sources:** src_001
 
 > Disney declined to disclose the injured worker's condition, citing privacy reasons.
 
-### c_005 — attributed, single source
-**Subject entities:** Indiana Jones Epic Stunt Spectacular
-**Predicate:** show_canceled
-**Object:** one Tuesday performance
-**Temporal:** 2025-12-30
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Indiana Jones Epic Stunt Spectacular
+- **Predicate:** show_canceled
+- **Object:** one Tuesday performance
+- **Temporal:** 2025-12-30
+- **Sources:** src_001
 
 > One of the attraction's scheduled shows was canceled Tuesday after the accident.
 
-### c_006 — attributed, single source
-**Subject entities:** Indiana Jones Epic Stunt Spectacular
-**Predicate:** shows_modified
-**Object:** boulder excluded from Wednesday performances
-**Temporal:** 2025-12-31
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Indiana Jones Epic Stunt Spectacular
+- **Predicate:** shows_modified
+- **Object:** boulder excluded from Wednesday performances
+- **Temporal:** 2025-12-31
+- **Sources:** src_001
 
 > Wednesday's shows at the Indiana Jones Epic Stunt Spectacular were modified to exclude the prop boulder.
 
-### c_007 — attributed, single source
-**Subject entities:** Walt Disney World
-**Predicate:** conducting_safety_review
-**Object:** cause of boulder leaving track
-**Temporal:** 2025-12-31
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Walt Disney World
+- **Predicate:** conducting_safety_review
+- **Object:** cause of boulder leaving track
+- **Temporal:** 2025-12-31
+- **Sources:** src_001
 
 > Disney said it was reviewing why the prop rolled off the track.
 
-### c_008 — attributed, single source
-**Subject entities:** Walt Disney World
-**Predicate:** stated
-**Object:** cast member recovering; safety review underway; show element to be modified
-**Temporal:** 2025-12-31
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Walt Disney World
+- **Predicate:** stated
+- **Object:** cast member recovering; safety review underway; show element to be modified
+- **Temporal:** 2025-12-31
+- **Sources:** src_001
 
 > Disney said in a statement: 'We're focused on supporting our cast member, who is recovering. Safety is at the heart of what we do, and that element of the show will be modified as our safety team completes a review of what happened.'
 
-### c_009 — confirmed, single source
-**Subject entities:** Indiana Jones Epic Stunt Spectacular; Raiders of the Lost Ark
-**Predicate:** based_on_film_scene
-**Object:** Raiders of the Lost Ark
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Indiana Jones Epic Stunt Spectacular; Raiders of the Lost Ark
+- **Predicate:** based_on_film_scene
+- **Object:** Raiders of the Lost Ark
+- **Sources:** src_001
 
 > The Indiana Jones Epic Stunt Spectacular recreates an early scene from the 1981 film 'Raiders of the Lost Ark.'
 
@@ -172,7 +191,3 @@ The Indiana Jones Epic Stunt Spectacular recreates an early scene from the 1981 
 **Access date:** 2026-01-01
 **Title:** Walt Disney World worker injured by runaway prop boulder in Florida
 **URL:** https://apnews.com/article/florida-disney-world-indiana-jones-show-b1aa7edecd87f6a448da06cbfa26fcef
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

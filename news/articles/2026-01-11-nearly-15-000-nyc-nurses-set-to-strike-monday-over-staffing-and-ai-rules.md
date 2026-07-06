@@ -19,47 +19,41 @@ primary_themes:
 - hospital-security
 - artificial-intelligence-in-healthcare
 topic_tags:
-  - "artificial intelligence"
-  - education
-  - government
-  - "government policy"
-  - health
-  - "higher education"
+- labour dispute
+- health
+- artificial intelligence
+- public health
 storyline_nexus:
-  - ai-regulation
-  - monetary-policy-2026
-  - us-administration-2026
-geographic_location: New York City, New York, United States
+- ai-industry-regulation
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
-  intensity: 0.85
+  intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.7
-- value: informed_citizenship
-  intensity: 0.75
-framework_version: 1.1.0
-generation_timestamp: '2026-01-11T08:00:00Z'
+  intensity: 0.9
+framework_version: 1.3.0
+generation_timestamp: '2026-05-22T23:55:00Z'
 source_cluster_id: cluster_ap_2026-01-10_nyc-nurses-negotiations-strike-threat-ho
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 15
   hedges:
+    reported: 7
+    confirmed: 0
     appears: 0
     alleged: 0
-    attributed: 8
-    reported: 7
     contested: 0
-    confirmed: 0
+    attributed: 8
   corroboration:
     primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
-    primary_document: 0
     single_source: 15
     two_independent: 0
+    primary_document: 0
 sources:
   count: 1
   outlets:
@@ -77,13 +71,18 @@ image:
   url: /articles/2026-01-11-nearly-15-000-nyc-nurses-set-to-strike-monday-over-staffing-and-ai-rules.png
   alt: 'Illustration accompanying article: Nearly 15,000 NYC nurses set to strike Monday over staffing and AI rules'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-05-michigan-nursing-homes-log-nearly-6-000-abuse-and-neglect-cases-as-reform-stalls
-  relation: related
-  strength: 0.682
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Nearly 15,000 nurses at three of New York City's largest hospitals could walk off the job early Monday in what union officials said would be the largest nurses strike in city history, if no contract agreement is reached before the weekend deadline.
+- The New York State Nurses Association said talks had produced little progress as of Sunday morning, with staffing levels, guardrails on the use of artificial intelligence, and workplace security among unresolved disputes at Mount Sinai, Montefiore Medical Center, and NewYork-Presbyterian/Columbia University Irving Medical Center.
+- The threatened walkout comes during a severe flu season and three years after the same union mounted a three-day strike at two of the same hospitals — a precedent whose gains nurses say the affected medical centers have since partially reversed.
+- Nurses say the hospitals are refusing to commit to — or are actively backsliding on — provisions for manageable, safe workloads.
 
 Nearly 15,000 nurses at three of New York City's largest hospitals could walk off the job early Monday in what union officials said would be the largest nurses strike in city history, if no contract agreement is reached before the weekend deadline. The New York State Nurses Association said talks had produced little progress as of Sunday morning, with staffing levels, guardrails on the use of artificial intelligence, and workplace security among unresolved disputes at Mount Sinai, Montefiore Medical Center, and NewYork-Presbyterian/Columbia University Irving Medical Center.
 
@@ -123,138 +122,168 @@ Several smaller hospitals, including multiple Northwell Health facilities on Lon
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** New York State Nurses Association; Mount Sinai; Montefiore Medical Center; NewYork-Presbyterian/Columbia University Irving Medical Center
-**Predicate:** threatens_strike
-**Object:** early Monday (event_timing)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** New York State Nurses Association; Mount Sinai; Montefiore Medical Center; NewYork-Presbyterian/Columbia University Irving Medical Center
+- **Predicate:** threatens_strike
+- **Object:** early Monday (event_timing)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > Nearly 15,000 nurses at Mount Sinai, Montefiore Medical Center, and NewYork-Presbyterian/Columbia University Irving Medical Center could strike early Monday.
 
-### c_002 — attributed, single source
-**Subject entities:** New York State Nurses Association
-**Predicate:** characterized_as
-**Object:** largest nurses strike in city history (characterization)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** New York State Nurses Association
+- **Predicate:** characterized_as
+- **Object:** largest nurses strike in city history (characterization)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > A walkout of nearly 15,000 nurses would be the largest nurses strike in New York City history.
 
-### c_003 — attributed, single source
-**Subject entities:** Nancy Hagans; New York State Nurses Association
-**Predicate:** reported_no_progress
-**Object:** Sunday morning (temporal_status)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Nancy Hagans; New York State Nurses Association
+- **Predicate:** reported_no_progress
+- **Object:** Sunday morning (temporal_status)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > As of Sunday morning, little progress had been made at the bargaining table, according to NYSNA president Nancy Hagans.
 
-### c_004 — reported, single source
-**Subject entities:** New York State Nurses Association
-**Predicate:** voted_to_authorize
-**Object:** strike authorization (labor_action)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** New York State Nurses Association
+- **Predicate:** voted_to_authorize
+- **Object:** strike authorization (labor_action)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > A vast majority of NYSNA nurses voted to authorize the strike last month.
 
-### c_005 — attributed, single source
-**Subject entities:** New York State Nurses Association
-**Predicate:** disputes
-**Object:** staffing provisions (labor_dispute_issue)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** New York State Nurses Association
+- **Predicate:** disputes
+- **Object:** staffing provisions (labor_dispute_issue)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > Staffing levels are a major flashpoint; nurses say hospitals are refusing to commit to or backsliding on provisions for manageable, safe workloads.
 
-### c_006 — reported, single source
-**Subject entities:** New York State Nurses Association
-**Predicate:** demands
-**Object:** AI guardrails and workplace security (labor_demand)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** New York State Nurses Association
+- **Predicate:** demands
+- **Object:** AI guardrails and workplace security (labor_demand)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > The union also wants guardrails on hospitals' use of artificial intelligence and additional workplace security measures.
 
-### c_007 — attributed, single source
-**Subject entities:** Sophie Boland; NewYork-Presbyterian
-**Predicate:** stated
-**Object:** verbatim quote on staffing (direct_quotation)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Sophie Boland; NewYork-Presbyterian
+- **Predicate:** stated
+- **Object:** verbatim quote on staffing (direct_quotation)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > Sophie Boland, a pediatric intensive care nurse in the NewYork-Presbyterian hospital system, said: 'My hospital tries to cut corners on staffing every day, and then they try to fight historic gains we made three years ago.'
 
-### c_008 — attributed, single source
-**Subject entities:** Mount Sinai; Montefiore Medical Center; NewYork-Presbyterian/Columbia University Irving Medical Center
-**Predicate:** stated
-**Object:** joint statement characterizing strike threat (direct_quotation)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Mount Sinai; Montefiore Medical Center; NewYork-Presbyterian/Columbia University Irving Medical Center
+- **Predicate:** stated
+- **Object:** joint statement characterizing strike threat (direct_quotation)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > The hospitals jointly described the strike threat as 'reckless' and vowed to 'do whatever is necessary to minimize disruptions.'
 
-### c_009 — reported, single source
-**Subject entities:** Mount Sinai
-**Predicate:** hired
-**Object:** 1,000+ temporary nurses (staffing_action)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Mount Sinai
+- **Predicate:** hired
+- **Object:** 1,000+ temporary nurses (staffing_action)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > Mount Sinai has hired more than 1,000 temporary nurses and conducted preparatory drills for a potential strike.
 
-### c_010 — reported, single source
-**Subject entities:** Mount Sinai; Mount Sinai Morningside; Mount Sinai West
-**Predicate:** has_capacity
-**Object:** 1,100 beds main / ~500 each affiliate (facility_capacity)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Mount Sinai; Mount Sinai Morningside; Mount Sinai West
+- **Predicate:** has_capacity
+- **Object:** 1,100 beds main / ~500 each affiliate (facility_capacity)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > Mount Sinai's main hospital has 1,100 beds; affiliates Mount Sinai Morningside and Mount Sinai West have about 500 beds each.
 
-### c_011 — attributed, single source
-**Subject entities:** Kathy Hochul
-**Predicate:** urged
-**Object:** continued negotiations (political_statement)
-**Temporal:** 2026-01-10
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Kathy Hochul
+- **Predicate:** urged
+- **Object:** continued negotiations (political_statement)
+- **Temporal:** 2026-01-10
+- **Sources:** src_001
 
 > New York Gov. Kathy Hochul urged both sides Friday 'to stay at the table and get a deal done,' expressing concern about the effect on patient care.
 
-### c_012 — reported, single source
-**Subject entities:** New York State Nurses Association; Mount Sinai; Montefiore Medical Center
-**Predicate:** struck_and_settled
-**Object:** 19% raises over three years (labor_settlement)
-**Temporal:** 2023-01-01
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** New York State Nurses Association; Mount Sinai; Montefiore Medical Center
+- **Predicate:** struck_and_settled
+- **Object:** 19% raises over three years (labor_settlement)
+- **Temporal:** 2023-01-01
+- **Sources:** src_001
 
 > The same union staged a three-day strike at Mount Sinai and Montefiore in 2023, ending with an agreement on raises totaling 19% over three years and staffing improvements.
 
-### c_013 — attributed, single source
-**Subject entities:** Michelle Gonzalez; Montefiore Medical Center
-**Predicate:** stated
-**Object:** ongoing hallway patient problem (attributed_claim)
-**Temporal:** 2026-01-10
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Michelle Gonzalez; Montefiore Medical Center
+- **Predicate:** stated
+- **Object:** ongoing hallway patient problem (attributed_claim)
+- **Temporal:** 2026-01-10
+- **Sources:** src_001
 
 > Montefiore intensive care nurse Michelle Gonzalez said nurses still scramble to treat patients in emergency room hallways three years after the hospital agreed to make 'all reasonable efforts' to reduce that practice.
 
-### c_014 — reported, single source
-**Subject entities:** Montefiore Medical Center
-**Predicate:** reported_to_officials
-**Object:** 35% reduction in ED-to-bed time (operational_metric)
-**Temporal:** 2025-10-01
-**Source IDs:** src_001
+### c_014
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Montefiore Medical Center
+- **Predicate:** reported_to_officials
+- **Object:** 35% reduction in ED-to-bed time (operational_metric)
+- **Temporal:** 2025-10-01
+- **Sources:** src_001
 
 > Montefiore told elected officials in a letter in October that there had been a 35% reduction in the time from emergency admission to placement in a clinical unit bed.
 
-### c_015 — reported, single source
-**Subject entities:** Northwell Health
-**Predicate:** averted_strike
-**Object:** deal or adequate progress (labor_resolution)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_015
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Northwell Health
+- **Predicate:** averted_strike
+- **Object:** deal or adequate progress (labor_resolution)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > Several smaller hospitals, including multiple Northwell Health facilities on Long Island, averted potential walkouts in recent days by striking deals or making what the union viewed as adequate progress.
 
@@ -263,10 +292,5 @@ Several smaller hospitals, including multiple Northwell Health facilities on Lon
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Jennifer Peltz
 **Publication date:** 2026-01-11
-**Access date:** 2026-01-11
 **Title:** Thousands of New York City nurses could go on strike Monday
 **URL:** https://apnews.com/article/nyc-nurses-negotiations-strike-threat-hospitals-f6b8598107039b1d6ceade0155e1ac36
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

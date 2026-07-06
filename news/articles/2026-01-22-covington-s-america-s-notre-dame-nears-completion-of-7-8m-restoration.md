@@ -1,6 +1,5 @@
 ---
 headline: Covington's 'America's Notre Dame' nears completion of $7.8M restoration
-slug: 2026-01-22-covington-cathedral-americas-notre-dame-nears-completion-of-7-8-million-restoration
 publish_date: '2026-01-22'
 lede: Workers in Covington, Ky., are installing the final features of a two-year restoration of the Cathedral Basilica of the Assumption, a Catholic landmark nicknamed "America's Notre Dame" for its French Gothic exterior modeled on the Paris original. New terra cotta gargoyles — replicas cast from precise scans of 32 worn originals — have been fitted to the cathedral's towering facade in recent weeks, with 26 rooftop chimeras remaining as the final step before a targeted March completion.
 nut_graf: The $7.8 million project, backed by more than 2,000 donors and private foundations, represents the most comprehensive exterior overhaul in the 125-year-old cathedral's history, aiming to preserve one of the country's most ambitious examples of French Gothic Revival architecture for coming generations.
@@ -18,37 +17,40 @@ primary_themes:
 - French Gothic Revival
 - community heritage
 - restoration
-topic_tags: []
-storyline_nexus: []
-geographic_location: Covington, Kentucky, United States
+topic_tags:
+- construction and property
+- religion
+- arts, culture, entertainment and media
+- conservation
+storyline_nexus:
+- housing-affordability-crisis
+geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship
-  intensity: 0.65
-- value: human_life_and_dignity
-  intensity: 0.45
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:00:36Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:00:55Z'
 source_cluster_id: cluster_ap_2026-01-21_america-notre-dame-kentucky-cathedral-0a
 gdelt_event_ids: []
-consensus_floor_version: 1.0.0
-publication_mindspec_version: 1.0.0
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 13
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 4
-    reported: 1
     contested: 0
+    reported: 1
     confirmed: 8
+    appears: 0
+    attributed: 4
+    alleged: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 1
-    single_source: 12
+    primary_plus_secondary: 0
     two_independent: 0
+    single_source: 12
+    one_originating_plus_primary_document: 0
 sources:
   count: 1
   outlets:
@@ -62,29 +64,18 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-08-new-pipe-organ-signals-rebirth-for-episcopal-parish-after-fire-flood-and-plague
-  relation: related
-  strength: 0.7447
-  confidence: medium
-- slug: 2026-01-13-arizona-state-museum-charts-three-building-path-as-regents-stall-50m-repair-requ
-  relation: related
-  strength: 0.706
-  confidence: medium
-- slug: 2026-01-09-david-bowie-s-bromley-childhood-home-to-open-to-the-public-in-late-2027
-  relation: related
-  strength: 0.7065
-  confidence: medium
-- slug: 2026-01-13-rome-s-underground-house-of-the-griffins-opens-via-livestream-tours-for-the-firs
-  relation: related
-  strength: 0.6814
-  confidence: medium
-- slug: 2026-01-10-250-years-after-common-sense-thomas-paine-still-awaits-a-washington-memorial
-  relation: related
-  strength: 0.6849
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Workers in Covington, Ky., are installing the final features of a two-year restoration of the Cathedral Basilica of the Assumption, a Catholic landmark nicknamed "America's Notre Dame" for its French Gothic exterior modeled on the Paris original.
+- New terra cotta gargoyles — replicas cast from precise scans of 32 worn originals — have been fitted to the cathedral's towering facade in recent weeks, with 26 rooftop chimeras remaining as the final step before a targeted March completion.
+- The $7.8 million project, backed by more than 2,000 donors and private foundations, represents the most comprehensive exterior overhaul in the 125-year-old cathedral's history, aiming to preserve one of the country's most ambitious examples of French Gothic Revival architecture for coming generations.
+- Ryan Maher, the cathedral's rector.
 
 Workers in Covington, Ky., are installing the final features of a two-year restoration of the Cathedral Basilica of the Assumption, a Catholic landmark nicknamed "America's Notre Dame" for its French Gothic exterior modeled on the Paris original. New terra cotta gargoyles — replicas cast from precise scans of 32 worn originals — have been fitted to the cathedral's towering facade in recent weeks, with 26 rooftop chimeras remaining as the final step before a targeted March completion.
 
@@ -126,120 +117,146 @@ Maher said the cathedral's broader role in the community made fundraising for th
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Cathedral Basilica of the Assumption
-**Predicate:** restoration_underway
-**Object:** new terra cotta gargoyles (architectural_element)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Cathedral Basilica of the Assumption
+- **Predicate:** restoration_underway
+- **Object:** new terra cotta gargoyles (architectural_element)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Workers are installing new terra cotta gargoyles on the Cathedral Basilica of the Assumption in Covington, Ky., as one of the final steps of a two-year restoration.
 
-### c_002 — reported, single source
-**Subject entities:** Cathedral Basilica of the Assumption
-**Predicate:** completion_target
-**Object:** March 2026 (date)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Cathedral Basilica of the Assumption
+- **Predicate:** completion_target
+- **Object:** March 2026 (date)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Workers aim to complete the two-year restoration by March 2026, with installation of 26 rooftop chimeras as the finishing touch.
 
-### c_003 — attributed, single source
-**Subject entities:** Cathedral Basilica of the Assumption; Ryan Maher
-**Predicate:** cost_and_funding
-**Object:** $7.8 million (currency)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Cathedral Basilica of the Assumption; Ryan Maher
+- **Predicate:** cost_and_funding
+- **Object:** $7.8 million (currency)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > The restoration's price tag is $7.8 million, most of which has been raised, with more than 2,000 donors contributing along with foundations, according to Rector Ryan Maher.
 
-### c_004 — confirmed, single source
-**Subject entities:** Cathedral Basilica of the Assumption
-**Predicate:** fabrication_method
-**Object:** scans of 32 worn originals (process)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Cathedral Basilica of the Assumption
+- **Predicate:** fabrication_method
+- **Object:** scans of 32 worn originals (process)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > The new gargoyles are replicas based on meticulous scans of the 32 worn originals.
 
-### c_005 — confirmed, single source
-**Subject entities:** Cathedral Basilica of the Assumption; Camillus Paul Maes
-**Predicate:** founded
-**Object:** 1901 (year)
-**Temporal:** 1901
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Cathedral Basilica of the Assumption; Camillus Paul Maes
+- **Predicate:** founded
+- **Object:** 1901 (year)
+- **Temporal:** 1901
+- **Sources:** src_001
 
 > The cathedral opened in 1901 following a construction campaign by Belgian-born Bishop Camillus Paul Maes, head of the Diocese of Covington.
 
-### c_006 — confirmed, single source
-**Subject entities:** Cathedral Basilica of the Assumption; Notre Dame Cathedral
-**Predicate:** modeled_on
-**Object:** Notre Dame Cathedral, Paris (landmark)
-**Temporal:** 1901
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Cathedral Basilica of the Assumption; Notre Dame Cathedral
+- **Predicate:** modeled_on
+- **Object:** Notre Dame Cathedral, Paris (landmark)
+- **Temporal:** 1901
+- **Sources:** src_001
 
 > The cathedral's exterior is modeled on Notre Dame Cathedral in Paris, with pointed arches, flying buttresses, gargoyles and chimeras, and is just under half the Paris cathedral's size.
 
-### c_007 — confirmed, single source
-**Subject entities:** Cathedral Basilica of the Assumption
-**Predicate:** interior_modeled_on
-**Object:** Basilica of Saint-Denis, Paris (landmark)
-**Temporal:** 1901
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Cathedral Basilica of the Assumption
+- **Predicate:** interior_modeled_on
+- **Object:** Basilica of Saint-Denis, Paris (landmark)
+- **Temporal:** 1901
+- **Sources:** src_001
 
 > The cathedral's high-vaulted interior is modeled on the Basilica of Saint-Denis in Paris.
 
-### c_008 — confirmed, single source
-**Subject entities:** Cathedral Basilica of the Assumption
-**Predicate:** materials_upgraded
-**Object:** stainless steel pins and brackets (material)
-**Temporal:** 2024-2026
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Cathedral Basilica of the Assumption
+- **Predicate:** materials_upgraded
+- **Object:** stainless steel pins and brackets (material)
+- **Temporal:** 2024-2026
+- **Sources:** src_001
 
 > Workers replaced the original carbon steel pins and brackets, which had rusted, with more durable stainless steel to secure the stone.
 
-### c_009 — confirmed, single source
-**Subject entities:** Cathedral Basilica of the Assumption
-**Predicate:** stone_sourced_from
-**Object:** Bedford, Indiana (place)
-**Temporal:** 2024-2026
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Cathedral Basilica of the Assumption
+- **Predicate:** stone_sourced_from
+- **Object:** Bedford, Indiana (place)
+- **Temporal:** 2024-2026
+- **Sources:** src_001
 
 > Replacement limestone was sourced from Bedford, Indiana, where stone for the original cathedral was quarried.
 
-### c_010 — confirmed, single source
-**Subject entities:** Trisco Systems; Brian Walter
-**Predicate:** prime_contractor
-**Object:** Cathedral Basilica of the Assumption restoration (project)
-**Temporal:** 2024-2026
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Trisco Systems; Brian Walter
+- **Predicate:** prime_contractor
+- **Object:** Cathedral Basilica of the Assumption restoration (project)
+- **Temporal:** 2024-2026
+- **Sources:** src_001
 
 > Trisco Systems is the prime contractor for the restoration, with Brian Walter serving as executive vice president.
 
-### c_011 — attributed, single source
-**Subject entities:** Ryan Maher
-**Predicate:** identified_need
-**Object:** fallen stone piece, 2018 (event)
-**Temporal:** 2018
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ryan Maher
+- **Predicate:** identified_need
+- **Object:** fallen stone piece, 2018 (event)
+- **Temporal:** 2018
+- **Sources:** src_001
 
 > Rector Maher said he recognized in 2018 that a major renovation was needed when he found a large piece of fallen stone — evidence of wider deterioration.
 
-### c_012 — attributed, single source
-**Subject entities:** Duncan Stroik; Cathedral Basilica of the Assumption
-**Predicate:** characterization
-**Object:** high quality French Gothic Revival (assessment)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Duncan Stroik; Cathedral Basilica of the Assumption
+- **Predicate:** characterization
+- **Object:** high quality French Gothic Revival (assessment)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Duncan Stroik, an architect and professor of architecture at the University of Notre Dame, described the cathedral as 'a smaller version of that revival of French Gothic in America, done at a very high level in a little town at the time, of surprisingly high quality.'
 
-### c_013 — attributed, single source
-**Subject entities:** Stephen Enzweiler
-**Predicate:** population_context
-**Object:** just over 40,000 (population)
-**Temporal:** 1901
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Stephen Enzweiler
+- **Predicate:** population_context
+- **Object:** just over 40,000 (population)
+- **Temporal:** 1901
+- **Sources:** src_001
 
 > Covington had just over 40,000 residents when construction began, about the same as today, according to cathedral historian Stephen Enzweiler.
 
@@ -248,10 +265,5 @@ Maher said the cathedral's broader role in the community made fundraising for th
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Peter Smith
 **Publication date:** 2026-01-22
-**Access date:** 2026-01-22
 **Title:** 'America's Notre Dame' gets a refresh in Kentucky
 **URL:** https://apnews.com/article/america-notre-dame-kentucky-cathedral-0a113d90bebfdc04d9c823b2341981ae
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

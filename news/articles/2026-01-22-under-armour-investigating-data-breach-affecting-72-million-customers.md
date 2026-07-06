@@ -11,39 +11,42 @@ primary_themes:
 - cybersecurity
 - customer-data-protection
 topic_tags:
-  - "economy, business and finance"
-storyline_nexus: []
+- crime, law and justice
+- computing and information technology
+- consumer goods
+storyline_nexus:
+- ai-industry-regulation
 geographic_location: United States
 floor_values_engaged:
-- value: human_life_and_dignity
-  intensity: 0.5
-- value: truthfulness
-  intensity: 0.8
+- value: informed_citizenship
+  intensity: 0.9
 - value: accountability_of_power
   intensity: 0.6
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T15:30:00Z'
+- value: truthfulness
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:49:03Z'
 source_cluster_id: cluster_ap_2026-01-23_under-armour-data-breach-passwords-6155a
 gdelt_event_ids: []
-consensus_floor_version: '1.0'
-publication_mindspec_version: '1.0'
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 6
   hedges:
-    appears: 0
+    confirmed: 1
     alleged: 0
     attributed: 5
-    reported: 0
     contested: 0
-    confirmed: 1
+    appears: 0
+    reported: 0
   corroboration:
-    primary_plus_secondary: 1
     one_originating_plus_primary_document: 5
-    primary_document: 0
     single_source: 0
     two_independent: 0
+    primary_document: 0
+    primary_plus_secondary: 1
 sources:
   count: 1
   outlets:
@@ -57,13 +60,14 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-09-university-of-hawaii-cancer-center-hit-by-ransomware-patient-notification-delaye
-  relation: related
-  strength: 0.7912
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- - customer-data-protection
 
 Clothing retailer Under Armour is investigating a data breach that exposed 72 million customer email addresses and personal information, the Baltimore-based company said. The breach, believed to have occurred in late 2025, included customer names, genders, birthdates and ZIP codes, but no passwords or financial information, according to company officials and cybersecurity experts.
 
@@ -85,57 +89,69 @@ Hunt acknowledged the challenges facing Under Armour as the victim of a cyberatt
 
 ## Atomic claims
 
-### c_001 — attributed, one originating plus primary document
-**Subject entities:** Under Armour
-**Predicate:** investigating_data_breach
-**Object:** 72 million email addresses (breach_scope)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** one_originating_plus_primary_document
+- **Subject entities:** Under Armour
+- **Predicate:** investigating_data_breach
+- **Object:** 72 million email addresses (breach_scope)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Under Armour is investigating a data breach affecting 72 million customer email addresses.
 
-### c_002 — confirmed, primary plus secondary
-**Subject entities:** Under Armour data breach
-**Predicate:** exposed
-**Object:** names, genders, birthdates, ZIP codes (personal_data_categories)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** Under Armour data breach
+- **Predicate:** exposed
+- **Object:** names, genders, birthdates, ZIP codes (personal_data_categories)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > The breach exposed customer names, genders, birthdates, and ZIP codes.
 
-### c_003 — attributed, one originating plus primary document
-**Subject entities:** Under Armour data breach
-**Predicate:** did_not_compromise
-**Object:** passwords and financial information (sensitive_data_not_breached)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** one_originating_plus_primary_document
+- **Subject entities:** Under Armour data breach
+- **Predicate:** did_not_compromise
+- **Object:** passwords and financial information (sensitive_data_not_breached)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > No passwords or financial information were compromised in the breach.
 
-### c_004 — attributed, one originating plus primary document
-**Subject entities:** Under Armour
-**Predicate:** stated
-**Object:** no evidence of UA.com or payment system compromise (company_statement)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** one_originating_plus_primary_document
+- **Subject entities:** Under Armour
+- **Predicate:** stated
+- **Object:** no evidence of UA.com or payment system compromise (company_statement)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Under Armour states there is no evidence the breach affected UA.com or payment processing systems.
 
-### c_005 — attributed, one originating plus primary document
-**Subject entities:** Troy Hunt; Have I Been Pwned
-**Predicate:** agreed
-**Object:** passwords and financial information uncompromised (expert_assessment)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** one_originating_plus_primary_document
+- **Subject entities:** Troy Hunt; Have I Been Pwned
+- **Predicate:** agreed
+- **Object:** passwords and financial information uncompromised (expert_assessment)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Troy Hunt, CEO of Have I Been Pwned, agreed with Under Armour that passwords and financial information were not compromised.
 
-### c_006 — attributed, one originating plus primary document
-**Subject entities:** Troy Hunt
-**Predicate:** expressed_surprise
-**Object:** lack of formal disclosure statement (editorial_concern)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** one_originating_plus_primary_document
+- **Subject entities:** Troy Hunt
+- **Predicate:** expressed_surprise
+- **Object:** lack of formal disclosure statement (editorial_concern)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Troy Hunt expressed surprise at Under Armour's lack of an official disclosure statement about the breach.
 
@@ -143,10 +159,5 @@ Hunt acknowledged the challenges facing Under Armour as the victim of a cyberatt
 
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Publication date:** 2026-01-22
-**Access date:** 2026-01-22
 **Title:** Under Armour looking into data breach affecting customers' email addresses
 **URL:** https://apnews.com/article/under-armour-data-breach-passwords-6155a46363679c28af4d612ad3f23e36
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

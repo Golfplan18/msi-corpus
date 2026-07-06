@@ -17,48 +17,69 @@ primary_themes:
 - war-crimes investigation
 - Maduro extradition
 topic_tags:
-  - "human migration"
-  - "crime, law and justice"
-  - crime
-  - "human interest"
+- armed conflict
+- conflict, war and peace
+- international military intervention
+- war crime
 storyline_nexus:
-  - venezuela-crisis
-geographic_location: Caracas, Venezuela
+- venezuela-political-military-crisis
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
-  intensity: 0.95
+  intensity: 0.9
+- value: truthfulness
+  intensity: 0.6
 - value: accountability_of_power
-  intensity: 0.8
-- value: informed_citizenship
-  intensity: 0.85
-framework_version: 1.1.0
-generation_timestamp: '2026-05-16T18:10:31Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-22T23:44:41Z'
 source_cluster_id: cluster_ap_2026-01-06_venezuela-funeral-soldiers-us-military-t
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 10
   hedges:
-    appears: 0
-    alleged: 0
     attributed: 5
-    reported: 0
-    contested: 0
     confirmed: 5
+    alleged: 0
+    contested: 0
+    reported: 0
+    appears: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 1
-    single_source: 9
+    one_originating_plus_primary_document: 0
     two_independent: 0
+    single_source: 9
+    primary_plus_secondary: 0
 sources:
-  count: 1
+  count: 21
   outlets:
   - Associated Press
+  - aljazeera.com
+  - batemansbaypost.com.au
+  - canberratimes.com.au
+  - channelstv.com
+  - citizen.co.za
+  - crookwellgazette.com.au
+  - dominicanrepublicpost.com
+  - easternriverinachronicle.com.au
+  - elciudadano.com
+  - firstpost.com
+  - grenadachronicle.com
+  - maitlandmercury.com.au
+  - naroomanewsonline.com.au
+  - newcastleherald.com.au
+  - perthnow.com.au
+  - queanbeyanage.com.au
+  - singletonargus.com.au
+  - thehindu.com
+  - wral.com
+  - yasstribune.com.au
   outlet_classes:
+  - national_daily
   - wire
   highest_reliability_tier: 1
   has_originating: true
@@ -71,37 +92,16 @@ image:
   url: /articles/2026-01-07-venezuela-buries-soldiers-killed-in-u-s-operation-as-death-toll-dispute-grows.png
   alt: 'Illustration accompanying article: Venezuela buries soldiers killed in U.S. operation as death toll dispute'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-04-caracas-falls-quiet-as-venezuelans-wait-to-see-what-comes-next-after-us-seizes-m
-  relation: continues
-  strength: 0.7604
-  confidence: high
-- slug: 2026-01-03-us-forces-seize-venezuela-s-maduro-in-overnight-raid-trump-claims-control
-  relation: continues
-  strength: 0.767
-  confidence: high
-- slug: 2026-01-03-u-s-military-seizes-maduro-in-venezuela-trump-pledges-to-govern-country-and-expl
-  relation: continues
-  strength: 0.7558
-  confidence: high
-- slug: 2026-01-03-us-seizure-of-maduro-sparks-legal-debate-as-trump-claims-control-of-venezuela
-  relation: related
-  strength: 0.7462
-  confidence: medium
-- slug: 2026-01-04-trump-pledges-to-direct-venezuela-after-u-s-military-operation-ousts-maduro
-  relation: related
-  strength: 0.7365
-  confidence: medium
-- slug: 2026-01-03-us-captures-maduro-in-caracas-strike-venezuela-president-faces-narco-charges
-  relation: continues
-  strength: 0.742
-  confidence: high
-- slug: 2026-01-03-trump-vows-to-run-venezuela-after-u-s-military-operation-ousts-maduro
-  relation: related
-  strength: 0.7399
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- The ceremony underscored the human cost of Saturday's raid, as Venezuelan and Cuban officials offered sharply higher death tolls than Venezuela's military had acknowledged and Venezuela's attorney general announced a war-crimes investigation into the…
+- CARACAS, Venezuela — Venezuela's military held a state funeral Wednesday in the capital for some of the soldiers killed during the U.
+- Article details provided in full text.
 
 The ceremony underscored the human cost of Saturday's raid, as Venezuelan and Cuban officials offered sharply higher death tolls than Venezuela's military had acknowledged and Venezuela's attorney general announced a war-crimes investigation into the operation.
 
@@ -123,93 +123,113 @@ Venezuelan Attorney General Tarek William Saab said prosecutors would investigat
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Venezuela military
-**Predicate:** held_funeral
-**Object:** soldiers killed in U.S. operation (event)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Venezuela military
+- **Predicate:** held_funeral
+- **Object:** soldiers killed in U.S. operation (event)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Venezuela's military held a state funeral Wednesday in Caracas for soldiers killed during the U.S. operation that captured Nicolás Maduro.
 
-### c_002 — attributed, single source
-**Subject entities:** Rafael Murillo
-**Predicate:** said
-**Object:** Thank you for letting them embrace a military career (quotation)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Rafael Murillo
+- **Predicate:** said
+- **Object:** Thank you for letting them embrace a military career (quotation)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Military commander Rafael Murillo addressed families at the cemetery, saying: 'Thank you for letting them embrace a military career.'
 
-### c_003 — attributed, single source
-**Subject entities:** Venezuela military
-**Predicate:** reported_killed
-**Object:** at least 24 Venezuelan officers (casualty_count)
-**Temporal:** 2026-01-03
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Venezuela military
+- **Predicate:** reported_killed
+- **Object:** at least 24 Venezuelan officers (casualty_count)
+- **Temporal:** 2026-01-03
+- **Sources:** src_001
 
 > Venezuela's military said at least 24 Venezuelan officers were killed in the Saturday dead-of-night U.S. operation.
 
-### c_004 — attributed, single source
-**Subject entities:** Diosdado Cabello
-**Predicate:** said
-**Object:** at least 100 killed, similar number injured (casualty_count)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Diosdado Cabello
+- **Predicate:** said
+- **Object:** at least 100 killed, similar number injured (casualty_count)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Interior Minister Diosdado Cabello said on state television that at least 100 people were killed and a similar number injured during the operation.
 
-### c_005 — confirmed, single source
-**Subject entities:** Diosdado Cabello
-**Predicate:** omitted
-**Object:** breakdown by civilian/military status and nationality (information_gap)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Diosdado Cabello
+- **Predicate:** omitted
+- **Object:** breakdown by civilian/military status and nationality (information_gap)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Cabello did not provide a breakdown of civilians and armed forces members or their nationalities.
 
-### c_006 — attributed, single source
-**Subject entities:** Cuba
-**Predicate:** reported_killed
-**Object:** 32 Cuban military and police officers (casualty_count)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Cuba
+- **Predicate:** reported_killed
+- **Object:** 32 Cuban military and police officers (casualty_count)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Cuba has said 32 Cuban military and police officers working in Venezuela were killed in the U.S. operation.
 
-### c_007 — confirmed, single source
-**Subject entities:** Nicolás Maduro; Cilia Flores
-**Predicate:** pleaded_not_guilty
-**Object:** drug charges in U.S. court (legal_proceeding)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Nicolás Maduro; Cilia Flores
+- **Predicate:** pleaded_not_guilty
+- **Object:** drug charges in U.S. court (legal_proceeding)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > Maduro and Cilia Flores each pleaded not guilty to drug charges in a U.S. court Monday.
 
-### c_008 — confirmed, single source
-**Subject entities:** Delcy Rodríguez
-**Predicate:** declared
-**Object:** seven-day mourning period (official_action)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Delcy Rodríguez
+- **Predicate:** declared
+- **Object:** seven-day mourning period (official_action)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > Acting President Delcy Rodríguez declared a seven-day mourning period for the fallen officers on Tuesday.
 
-### c_009 — attributed, single source
-**Subject entities:** Tarek William Saab
-**Predicate:** said
-**Object:** prosecutors would investigate deaths as war crime (legal_action)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Tarek William Saab
+- **Predicate:** said
+- **Object:** prosecutors would investigate deaths as war crime (legal_action)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Venezuelan Attorney General Tarek William Saab said prosecutors would investigate the deaths as a war crime.
 
-### c_010 — confirmed, single source
-**Subject entities:** Venezuela National Guard
-**Predicate:** patrolled
-**Object:** cemetery before and during ceremony (security_action)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Venezuela National Guard
+- **Predicate:** patrolled
+- **Object:** cemetery before and during ceremony (security_action)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Armed National Guard members patrolled parts of the cemetery for hours before and during the funeral ceremony.
 
@@ -218,10 +238,85 @@ Venezuelan Attorney General Tarek William Saab said prosecutors would investigat
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Regina Garcia Cano
 **Publication date:** 2026-01-07
-**Access date:** 2026-01-07
 **Title:** Venezuela's military buries soldiers killed in US operation
 **URL:** https://apnews.com/article/venezuela-funeral-soldiers-us-military-trump-maduro-a9e9e7b089f98a62e24ed7e8797ba40e
 
----
+### src_002 — batemansbaypost.com.au, national_daily, Tier 4, originating
+**Publication date:** 2026-01-08
+**URL:** https://www.batemansbaypost.com.au/story/9147828/venezuelan-soldiers-killed-in-us-operation-laid-to-rest/
 
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*
+### src_003 — canberratimes.com.au, national_daily, Tier 4, originating
+**Publication date:** 2026-01-08
+**URL:** https://www.canberratimes.com.au/story/9147828/venezuelan-soldiers-killed-in-us-operation-laid-to-rest/
+
+### src_004 — crookwellgazette.com.au, national_daily, Tier 4, originating
+**Publication date:** 2026-01-08
+**URL:** https://www.crookwellgazette.com.au/story/9147828/venezuelan-soldiers-killed-in-us-operation-laid-to-rest/
+
+### src_005 — easternriverinachronicle.com.au, national_daily, Tier 4, originating
+**Publication date:** 2026-01-08
+**URL:** https://www.easternriverinachronicle.com.au/story/9147828/venezuelan-soldiers-killed-in-us-operation-laid-to-rest/
+
+### src_006 — firstpost.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-08
+**URL:** https://www.firstpost.com/world/venezuela-army-holds-funeral-for-dozens-of-soldiers-killed-during-us-operation-to-capture-maduro-13966602.html
+
+### src_007 — maitlandmercury.com.au, national_daily, Tier 4, originating
+**Publication date:** 2026-01-08
+**URL:** https://www.maitlandmercury.com.au/story/9147828/venezuelan-soldiers-killed-in-us-operation-laid-to-rest/
+
+### src_008 — naroomanewsonline.com.au, national_daily, Tier 4, originating
+**Publication date:** 2026-01-08
+**URL:** https://www.naroomanewsonline.com.au/story/9147828/venezuelan-soldiers-killed-in-us-operation-laid-to-rest/
+
+### src_009 — newcastleherald.com.au, national_daily, Tier 4, originating
+**Publication date:** 2026-01-08
+**URL:** https://www.newcastleherald.com.au/story/9147828/venezuelan-soldiers-killed-in-us-operation-laid-to-rest/
+
+### src_010 — perthnow.com.au, national_daily, Tier 4, originating
+**Publication date:** 2026-01-08
+**URL:** https://www.perthnow.com.au/news/conflict/venezuelan-soldiers-killed-in-us-operation-laid-to-rest-c-21245108
+
+### src_011 — queanbeyanage.com.au, national_daily, Tier 4, originating
+**Publication date:** 2026-01-08
+**URL:** https://www.queanbeyanage.com.au/story/9147828/venezuelan-soldiers-killed-in-us-operation-laid-to-rest/
+
+### src_012 — singletonargus.com.au, national_daily, Tier 4, originating
+**Publication date:** 2026-01-08
+**URL:** https://www.singletonargus.com.au/story/9147828/venezuelan-soldiers-killed-in-us-operation-laid-to-rest/
+
+### src_013 — thehindu.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-08
+**URL:** https://www.thehindu.com/news/international/at-least-100-people-killed-during-us-attack-says-venezuelas-interior-minister/article70485674.ece
+
+### src_014 — wral.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-08
+**URL:** https://www.wral.com/news/ap/a9e9e-venezuelas-military-buries-soldiers-killed-in-us-operation-to-capture-maduro/
+
+### src_015 — yasstribune.com.au, national_daily, Tier 4, originating
+**Publication date:** 2026-01-08
+**URL:** https://www.yasstribune.com.au/story/9147828/venezuelan-soldiers-killed-in-us-operation-laid-to-rest/
+
+### src_016 — aljazeera.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-07
+**URL:** https://www.aljazeera.com/news/2026/1/6/rodriguez-says-no-foreign-agent-running-venezuela-us-role-still-unclear
+
+### src_017 — channelstv.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-07
+**URL:** https://www.channelstv.com/2026/01/07/venezuela-to-hand-over-oil-stocks-worth-billions-trump/
+
+### src_018 — citizen.co.za, national_daily, Tier 4, originating
+**Publication date:** 2026-01-07
+**URL:** https://www.citizen.co.za/news/news-world/trump-says-venezuela-to-hand-over-oil-stocks-worth-billions/
+
+### src_019 — dominicanrepublicpost.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-07
+**URL:** https://dominicanrepublicpost.com/rodriguez-says-no-foreign-agent-running-venezuela-us-role-still-unclear/
+
+### src_020 — elciudadano.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-08
+**URL:** https://www.elciudadano.com/en/so-far-100-deaths-diosdado-cabello-reveals-human-cost-of-u-s-attack-on-venezuela/01/08/
+
+### src_021 — grenadachronicle.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-07
+**URL:** https://grenadachronicle.com/rodriguez-says-no-foreign-agent-running-venezuela-us-role-still-unclear/

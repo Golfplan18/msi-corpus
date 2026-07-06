@@ -18,43 +18,44 @@ primary_themes:
 - sports betting
 - wire fraud
 topic_tags:
-  - corruption
-  - crime
-  - "crime, law and justice"
-  - sport
-  - "sport event"
-storyline_nexus: []
-geographic_location: Brooklyn, New York
+- crime
+- law enforcement
+- prosecution
+- sport
+- corruption
+storyline_nexus:
+- trump-judicial-challenges
+geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
-  intensity: 0.75
-- value: informed_citizenship
-  intensity: 0.65
+  intensity: 0.9
 - value: truthfulness
-  intensity: 0.5
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T08:23:08Z'
+  intensity: 0.6
+- value: informed_citizenship
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T01:01:26Z'
 source_cluster_id: cluster_ap_2026-04-17_damon-jones-nba-poker-betting-lebron-jam
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 15
   hedges:
-    appears: 0
     alleged: 6
-    attributed: 7
-    reported: 1
     contested: 0
     confirmed: 1
+    attributed: 7
+    reported: 1
+    appears: 0
   corroboration:
     primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
-    primary_document: 3
-    single_source: 12
     two_independent: 0
+    single_source: 12
+    primary_document: 3
 sources:
   count: 1
   outlets:
@@ -71,6 +72,9 @@ figures_aggregate:
 cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
 
 The case, brought by federal prosecutors in Brooklyn, has implicated players, coaches, and organized crime figures in schemes that prosecutors say exploited insider access to professional basketball to corrupt both illegal poker operations and sports betting markets.
 
@@ -110,138 +114,168 @@ Jones was arrested in October along with Portland Trail Blazers head coach and B
 
 ## Atomic claims
 
-### c_001 — attributed, primary document
-**Subject entities:** Damon Jones
-**Predicate:** scheduled_for
-**Object:** plea change hearings April 28 (court_proceeding)
-**Temporal:** 2026-04-28
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Damon Jones
+- **Predicate:** scheduled_for
+- **Object:** plea change hearings April 28 (court_proceeding)
+- **Temporal:** 2026-04-28
+- **Sources:** src_001
 
 > Jones is scheduled for plea change hearings on April 28 in Brooklyn federal court in two separate cases.
 
-### c_002 — reported, single source
-**Subject entities:** Damon Jones
-**Predicate:** expected_to_be_first
-**Object:** plead guilty in gambling sweep with 30+ arrests (legal_milestone)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Damon Jones
+- **Predicate:** expected_to_be_first
+- **Object:** plead guilty in gambling sweep with 30+ arrests (legal_milestone)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > Jones is expected to become the first person to plead guilty in a gambling sweep that led to the arrests of more than 30 people.
 
-### c_003 — attributed, primary document
-**Subject entities:** Damon Jones; federal prosecutors Brooklyn
-**Predicate:** provided
-**Object:** proposed plea agreement, terms not yet public (legal_document)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Damon Jones; federal prosecutors Brooklyn
+- **Predicate:** provided
+- **Object:** proposed plea agreement, terms not yet public (legal_document)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > Federal prosecutors in Brooklyn provided the judge with a copy of Jones' proposed plea agreement on April 16; its terms have not been made public.
 
-### c_004 — confirmed, primary document
-**Subject entities:** Damon Jones
-**Predicate:** pleaded_not_guilty
-**Object:** wire fraud conspiracy and money laundering conspiracy, max 20 years each (criminal_charges)
-**Temporal:** 2025-11
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Damon Jones
+- **Predicate:** pleaded_not_guilty
+- **Object:** wire fraud conspiracy and money laundering conspiracy, max 20 years each (criminal_charges)
+- **Temporal:** 2025-11
+- **Sources:** src_001
 
 > Jones previously pleaded not guilty to wire fraud conspiracy and money laundering conspiracy in both cases, each charge carrying a maximum of 20 years in prison.
 
-### c_005 — attributed, single source
-**Subject entities:** Damon Jones; Chauncey Billups; Terry Rozier
-**Predicate:** arrested
-**Object:** gambling sweep, October 2025 (law_enforcement_action)
-**Temporal:** 2025-10
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Damon Jones; Chauncey Billups; Terry Rozier
+- **Predicate:** arrested
+- **Object:** gambling sweep, October 2025 (law_enforcement_action)
+- **Temporal:** 2025-10
+- **Sources:** src_001
 
 > Jones was arrested in October along with Portland Trail Blazers head coach Chauncey Billups and Miami Heat guard Terry Rozier, and others.
 
-### c_006 — alleged, single source
-**Subject entities:** Damon Jones; LeBron James; Milwaukee Bucks
-**Predicate:** alleged_to_have_sent_tip
-**Object:** text instructing bet on Milwaukee before James injury news broke (alleged_criminal_act)
-**Temporal:** 2023-02-09
-**Source IDs:** src_001
+### c_006
+- **Hedge:** alleged
+- **Corroboration:** single_source
+- **Subject entities:** Damon Jones; LeBron James; Milwaukee Bucks
+- **Predicate:** alleged_to_have_sent_tip
+- **Object:** text instructing bet on Milwaukee before James injury news broke (alleged_criminal_act)
+- **Temporal:** 2023-02-09
+- **Sources:** src_001
 
 > Prosecutors allege Jones texted an unnamed co-conspirator to place a large bet on Milwaukee before injury information about LeBron James became public ahead of a Feb. 9, 2023 game.
 
-### c_007 — attributed, single source
-**Subject entities:** LeBron James; Los Angeles Lakers; Milwaukee Bucks
-**Predicate:** ruled_out
-**Object:** lower body injury; Lakers lost 115-106 (game_outcome)
-**Temporal:** 2023-02-09
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** LeBron James; Los Angeles Lakers; Milwaukee Bucks
+- **Predicate:** ruled_out
+- **Object:** lower body injury; Lakers lost 115-106 (game_outcome)
+- **Temporal:** 2023-02-09
+- **Sources:** src_001
 
 > James was not listed on the Lakers' injury report at the time of the alleged text but was later ruled out of the Feb. 9, 2023 game with a lower body injury; the Lakers lost 115-106.
 
-### c_008 — alleged, single source
-**Subject entities:** Marves Fairley; Damon Jones; Anthony Davis; Oklahoma City Thunder
-**Predicate:** paid_for_tip
-**Object:** $2,500 for Davis limited-minutes tip (alleged_transaction)
-**Temporal:** 2024-01-15
-**Source IDs:** src_001
+### c_008
+- **Hedge:** alleged
+- **Corroboration:** single_source
+- **Subject entities:** Marves Fairley; Damon Jones; Anthony Davis; Oklahoma City Thunder
+- **Predicate:** paid_for_tip
+- **Object:** $2,500 for Davis limited-minutes tip (alleged_transaction)
+- **Temporal:** 2024-01-15
+- **Sources:** src_001
 
 > Sports bettor Marves Fairley paid Jones approximately $2,500 on Jan. 15, 2024 for a tip that Anthony Davis would see limited playing time against Oklahoma City because of an injury.
 
-### c_009 — alleged, single source
-**Subject entities:** Marves Fairley; Anthony Davis; Oklahoma City Thunder; Los Angeles Lakers
-**Predicate:** bet_lost_refund_demanded
-**Object:** $100,000 bet; Davis played normally, Lakers won 112-105 (bet_outcome)
-**Temporal:** 2024-01-15
-**Source IDs:** src_001
+### c_009
+- **Hedge:** alleged
+- **Corroboration:** single_source
+- **Subject entities:** Marves Fairley; Anthony Davis; Oklahoma City Thunder; Los Angeles Lakers
+- **Predicate:** bet_lost_refund_demanded
+- **Object:** $100,000 bet; Davis played normally, Lakers won 112-105 (bet_outcome)
+- **Temporal:** 2024-01-15
+- **Sources:** src_001
 
 > Fairley placed a $100,000 bet on Oklahoma City to win, but Davis played his usual minutes, scored 27 points, and collected 15 rebounds in a 112-105 Lakers victory; Fairley demanded a refund of his $2,500 fee.
 
-### c_010 — alleged, single source
-**Subject entities:** Damon Jones
-**Predicate:** allegedly_participated_in
-**Object:** rigged poker scheme using altered equipment (alleged_criminal_scheme)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_010
+- **Hedge:** alleged
+- **Corroboration:** single_source
+- **Subject entities:** Damon Jones
+- **Predicate:** allegedly_participated_in
+- **Object:** rigged poker scheme using altered equipment (alleged_criminal_scheme)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > In the poker scheme, Jones was among former NBA players allegedly used to lure unwitting players into games rigged using altered shuffling machines, hidden cameras, special sunglasses, and X-ray equipment built into the tables.
 
-### c_011 — alleged, single source
-**Subject entities:** Damon Jones
-**Predicate:** allegedly_paid
-**Object:** $2,500 Hamptons poker game, instructed to cheat (alleged_payment)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_011
+- **Hedge:** alleged
+- **Corroboration:** single_source
+- **Subject entities:** Damon Jones
+- **Predicate:** allegedly_paid
+- **Object:** $2,500 Hamptons poker game, instructed to cheat (alleged_payment)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > Jones was allegedly paid $2,500 for a game in the Hamptons where he was instructed to cheat by paying close attention to others involved in the scheme.
 
-### c_012 — alleged, single source
-**Subject entities:** Gambino crime family; Genovese crime family; Bonnano crime family
-**Predicate:** allegedly_involved_in
-**Object:** illegal poker operation, share of proceeds, violent enforcement (alleged_organized_crime)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_012
+- **Hedge:** alleged
+- **Corroboration:** single_source
+- **Subject entities:** Gambino crime family; Genovese crime family; Bonnano crime family
+- **Predicate:** allegedly_involved_in
+- **Object:** illegal poker operation, share of proceeds, violent enforcement (alleged_organized_crime)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > The poker scheme made use of illegal games run by New York crime families; the Gambino, Genovese, and Bonnano families required a share of proceeds and committed violent acts including assault, extortion, and robbery.
 
-### c_013 — attributed, single source
-**Subject entities:** Damon Jones
-**Predicate:** earned
-**Object:** more than $20 million, 10 teams, 11 seasons (career_earnings)
-**Temporal:** 1999/2009
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Damon Jones
+- **Predicate:** earned
+- **Object:** more than $20 million, 10 teams, 11 seasons (career_earnings)
+- **Temporal:** 1999/2009
+- **Sources:** src_001
 
 > Jones earned more than $20 million playing for 10 teams in 11 NBA seasons from 1999 to 2009.
 
-### c_014 — attributed, single source
-**Subject entities:** Damon Jones; LeBron James; Los Angeles Lakers
-**Predicate:** served_as
-**Object:** unofficial assistant coach, 2022-2023 Lakers (professional_role)
-**Temporal:** 2022/2023
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Damon Jones; LeBron James; Los Angeles Lakers
+- **Predicate:** served_as
+- **Object:** unofficial assistant coach, 2022-2023 Lakers (professional_role)
+- **Temporal:** 2022/2023
+- **Sources:** src_001
 
 > Jones served as an unofficial assistant coach for LeBron James' Los Angeles Lakers during the 2022-2023 season.
 
-### c_015 — attributed, single source
-**Subject entities:** Damon Jones; LeBron James
-**Predicate:** was_assistant_coach
-**Object:** 2016 NBA championship, Cleveland Cavaliers (career_milestone)
-**Temporal:** 2016
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Damon Jones; LeBron James
+- **Predicate:** was_assistant_coach
+- **Object:** 2016 NBA championship, Cleveland Cavaliers (career_milestone)
+- **Temporal:** 2016
+- **Sources:** src_001
 
 > Jones was an assistant coach when the Cleveland Cavaliers, led by James, won the NBA championship in 2016.
 
@@ -250,10 +284,5 @@ Jones was arrested in October along with Portland Trail Blazers head coach and B
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Michael R. Sisak
 **Publication date:** 2026-04-16
-**Access date:** 2026-05-17
 **Title:** Ex-NBA player Damon Jones expected to plead guilty in gambling sweep
 **URL:** https://apnews.com/article/damon-jones-nba-poker-betting-lebron-james-db3d2048d7e826aeec2808fa092d6631
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

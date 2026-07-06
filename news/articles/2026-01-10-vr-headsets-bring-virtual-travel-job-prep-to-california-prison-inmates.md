@@ -1,6 +1,5 @@
 ---
 headline: VR headsets bring virtual travel, job prep to California prison inmates
-slug: 2026-01-10-vr-headsets-california-prisons-offer-escape-practical-experience
 publish_date: '2026-01-10'
 lede: 'A Los Angeles-based nonprofit is using virtual reality headsets to give California prison inmates brief escapes to far-flung destinations and practice for real-world challenges — from Bangkok street markets to simulated job interviews — in a program its founder calls a "hope machine."
 
@@ -21,42 +20,44 @@ primary_themes:
 - reentry preparation
 - criminal justice reform
 topic_tags:
-  - "science and technology"
+- crime, law and justice
+- computing and information technology
+- employment
+- education
+- travel
 storyline_nexus:
-  - us-administration-2026
-  - ai-regulation
-  - us-china-relations
-geographic_location: California, United States
+- ai-industry-regulation
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
-  intensity: 0.8
+  intensity: 0.9
+- value: equality_fairness
+  intensity: 0.6
 - value: informed_citizenship
-  intensity: 0.55
-- value: accountability_of_power
-  intensity: 0.25
-framework_version: 1.1.0
-generation_timestamp: '2026-01-10T00:00:00Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-22T23:55:58Z'
 source_cluster_id: cluster_ap_2026-01-11_california-prison-virtual-reality-806a01
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 13
   hedges:
-    appears: 0
     alleged: 0
     attributed: 4
-    reported: 1
-    contested: 0
     confirmed: 8
+    appears: 0
+    contested: 0
+    reported: 1
   corroboration:
-    primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
-    primary_document: 2
+    primary_plus_secondary: 0
     single_source: 11
     two_independent: 0
+    primary_document: 2
 sources:
   count: 1
   outlets:
@@ -77,6 +78,14 @@ image:
 cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- CHOWCHILLA, Calif. — A Los Angeles-based nonprofit is using virtual reality headsets to give California prison inmates brief escapes to far-flung dest
+- Additional context from article.
+- Key findings or implications.
 
 CHOWCHILLA, Calif. — A Los Angeles-based nonprofit is using virtual reality headsets to give California prison inmates brief escapes to far-flung destinations and practice for real-world challenges — from Bangkok street markets to simulated job interviews — in a program its founder calls a "hope machine."
 
@@ -128,120 +137,146 @@ The introductory VR experience — a two-minute trip to Thailand — is often em
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Creative Acts
-**Predicate:** operates_program_in
-**Object:** California prisons (location)
-**Temporal:** 2026-01-10
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Creative Acts
+- **Predicate:** operates_program_in
+- **Object:** California prisons (location)
+- **Temporal:** 2026-01-10
+- **Sources:** src_001
 
 > A Los Angeles-based nonprofit called Creative Acts is bringing virtual reality technology to California prisons.
 
-### c_002 — confirmed, single source
-**Subject entities:** Sabra Williams; Creative Acts
-**Predicate:** founded
-**Object:** Creative Acts (organization)
-**Temporal:** 2026-01-10
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Sabra Williams; Creative Acts
+- **Predicate:** founded
+- **Object:** Creative Acts (organization)
+- **Temporal:** 2026-01-10
+- **Sources:** src_001
 
 > Sabra Williams is the founder of Creative Acts.
 
-### c_003 — confirmed, single source
-**Subject entities:** Creative Acts; Meta Platforms
-**Predicate:** uses
-**Object:** 100 Oculus headsets donated by Meta (equipment)
-**Temporal:** 2026-01-10
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Creative Acts; Meta Platforms
+- **Predicate:** uses
+- **Object:** 100 Oculus headsets donated by Meta (equipment)
+- **Temporal:** 2026-01-10
+- **Sources:** src_001
 
 > The program uses 100 Oculus headsets donated by Meta.
 
-### c_004 — confirmed, single source
-**Subject entities:** Creative Acts
-**Predicate:** operates_at_frequency
-**Object:** three times per year at four prisons (scope)
-**Temporal:** 2026-01-10
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Creative Acts
+- **Predicate:** operates_at_frequency
+- **Object:** three times per year at four prisons (scope)
+- **Temporal:** 2026-01-10
+- **Sources:** src_001
 
 > The program runs three times a year at four California prisons.
 
-### c_005 — attributed, single source
-**Subject entities:** Jacob Smith
-**Predicate:** incarcerated_since
-**Object:** two decades; parole eligible 2031 (duration)
-**Temporal:** 2026-01-10
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jacob Smith
+- **Predicate:** incarcerated_since
+- **Object:** two decades; parole eligible 2031 (duration)
+- **Temporal:** 2026-01-10
+- **Sources:** src_001
 
 > Jacob Smith has been incarcerated for two decades and is eligible for parole in 2031.
 
-### c_006 — attributed, single source
-**Subject entities:** Sabra Williams
-**Predicate:** described_as
-**Object:** hope machine (attributed_label)
-**Temporal:** 2026-01-10
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Sabra Williams
+- **Predicate:** described_as
+- **Object:** hope machine (attributed_label)
+- **Temporal:** 2026-01-10
+- **Sources:** src_001
 
 > Sabra Williams calls the VR devices a 'hope machine.'
 
-### c_007 — confirmed, single source
-**Subject entities:** Nancy La Vigne; Rutgers-Newark School of Criminal Justice
-**Predicate:** holds_position
-**Object:** dean (title)
-**Temporal:** 2026-01-10
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Nancy La Vigne; Rutgers-Newark School of Criminal Justice
+- **Predicate:** holds_position
+- **Object:** dean (title)
+- **Temporal:** 2026-01-10
+- **Sources:** src_001
 
 > Nancy La Vigne is the dean of Rutgers-Newark School of Criminal Justice in New Jersey.
 
-### c_008 — reported, single source
-**Subject entities:** American Psychological Association
-**Predicate:** published_finding
-**Object:** nature videos reduce aggression and discipline reports in incarcerated people (research_finding)
-**Temporal:** 2026-01-10
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** American Psychological Association
+- **Predicate:** published_finding
+- **Object:** nature videos reduce aggression and discipline reports in incarcerated people (research_finding)
+- **Temporal:** 2026-01-10
+- **Sources:** src_001
 
 > Research published by the American Psychological Association found that incarcerated people who viewed short nature videos showed reduced levels of aggression and were subject to fewer discipline reports.
 
-### c_009 — confirmed, primary document
-**Subject entities:** California Department of Corrections and Rehabilitation; California Men's Colony
-**Predicate:** announced_program_at
-**Object:** California Men's Colony, San Luis Obispo County (location)
-**Temporal:** 2025-08
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** California Department of Corrections and Rehabilitation; California Men's Colony
+- **Predicate:** announced_program_at
+- **Object:** California Men's Colony, San Luis Obispo County (location)
+- **Temporal:** 2025-08
+- **Sources:** src_001
 
 > The California Department of Corrections and Rehabilitation announced the introduction of VR at the California Men's Colony prison in San Luis Obispo County last August.
 
-### c_010 — confirmed, single source
-**Subject entities:** Creative Acts
-**Predicate:** serves_population
-**Object:** general population, solitary confinement, youth offenders (population)
-**Temporal:** 2026-01-10
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Creative Acts
+- **Predicate:** serves_population
+- **Object:** general population, solitary confinement, youth offenders (population)
+- **Temporal:** 2026-01-10
+- **Sources:** src_001
 
 > The program operates in both the general prison population and solitary confinement, and youth offenders are also eligible.
 
-### c_011 — attributed, single source
-**Subject entities:** Richard Richard; Creative Acts
-**Predicate:** used_then_volunteered
-**Object:** Creative Acts VR program (program)
-**Temporal:** 2026-01-10
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Richard Richard; Creative Acts
+- **Predicate:** used_then_volunteered
+- **Object:** Creative Acts VR program (program)
+- **Temporal:** 2026-01-10
+- **Sources:** src_001
 
 > Richard Richard first used a VR headset about six years ago when the program launched and has since become a volunteer for Creative Acts following his release from prison.
 
-### c_012 — confirmed, single source
-**Subject entities:** Creative Acts; Valley State Prison
-**Predicate:** conducted_program_at
-**Object:** Valley State Prison, Fresno area (location)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_012
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Creative Acts; Valley State Prison
+- **Predicate:** conducted_program_at
+- **Object:** Valley State Prison, Fresno area (location)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > A weeklong VR program was held last month at Valley State Prison near Fresno.
 
-### c_013 — attributed, single source
-**Subject entities:** Sabra Williams; Creative Acts
-**Predicate:** intends_to_expand
-**Object:** statewide and national expansion (plan)
-**Temporal:** 2026-01-10
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Sabra Williams; Creative Acts
+- **Predicate:** intends_to_expand
+- **Object:** statewide and national expansion (plan)
+- **Temporal:** 2026-01-10
+- **Sources:** src_001
 
 > Sabra Williams hopes to expand the program throughout California and across the country.
 
@@ -250,10 +285,5 @@ The introductory VR experience — a two-minute trip to Thailand — is often em
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Haven Daley
 **Publication date:** 2026-01-10
-**Access date:** 2026-01-10
 **Title:** VR headsets in California prisons offer escape, practical experience
 **URL:** https://apnews.com/article/california-prison-virtual-reality-806a017bc5b232a39f5246280e5ccdfc
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -13,11 +13,11 @@ primary_themes:
 - U.S. military operations
 - social media virality
 topic_tags:
-  - "armed conflict"
-  - "conflict, war and peace"
-  - society
+- armed conflict
+- conflict, war and peace
+- society
 storyline_nexus:
-  - venezuela-crisis
+- venezuela-political-military-crisis
 geographic_location: Caracas, Venezuela
 floor_values_engaged:
 - value: informed_citizenship
@@ -73,45 +73,17 @@ cross_article_links:
   relation: related
   strength: 0.7085
   confidence: medium
-- slug: 2025-12-31-queen-camilla-discloses-1960s-assault-as-she-campaigns-against-domestic-violence
-  relation: related
-  strength: 0.714
-  confidence: medium
 - slug: 2026-01-08-family-mourns-renee-good-u-s-citizen-and-mother-shot-by-ice-agent-in-minneapolis
   relation: related
   strength: 0.7021
-  confidence: medium
-- slug: 2026-01-01-swiss-alpine-bar-fire-kills-about-40-on-new-year-s-leaving-115-hurt
-  relation: related
-  strength: 0.702
-  confidence: medium
-- slug: 2026-01-01-fire-kills-about-40-at-swiss-alps-bar-during-new-year-s-celebration
-  relation: related
-  strength: 0.6993
   confidence: medium
 - slug: 2026-01-08-ice-officer-shoots-and-kills-minneapolis-woman-during-immigration-enforcement
   relation: related
   strength: 0.6906
   confidence: medium
-- slug: 2026-01-06-rebel-fighting-in-colombia-s-catatumbo-displaces-300-to-c-cuta-amid-venezuela-cr
-  relation: related
-  strength: 0.6859
-  confidence: medium
-- slug: 2026-01-04-hundreds-march-in-silence-to-honor-victims-of-swiss-bar-fire-that-left-40-dead
-  relation: related
-  strength: 0.6842
-  confidence: medium
-- slug: 2026-01-03-survivors-and-officials-speak-after-swiss-bar-fire-kills-40-at-crans-montana
-  relation: related
-  strength: 0.6832
-  confidence: medium
 - slug: 2026-01-08-giffords-returns-to-house-floor-15-years-after-tucson-assassination-attempt
   relation: related
   strength: 0.6794
-  confidence: medium
-- slug: 2026-01-04-britain-and-france-strike-suspected-is-weapons-facility-near-palmyra-syria
-  relation: related
-  strength: 0.6761
   confidence: medium
 - slug: 2026-01-03-us-forces-seize-venezuela-s-maduro-in-overnight-raid-trump-claims-control
   relation: related
@@ -128,18 +100,6 @@ cross_article_links:
 - slug: 2026-01-08-minneapolis-protests-erupt-over-ice-killing-of-renee-good-as-portland-shooting-d
   relation: related
   strength: 0.6679
-  confidence: medium
-- slug: 2026-01-07-iran-security-forces-fire-tear-gas-at-grand-bazaar-as-protest-death-toll-reaches
-  relation: related
-  strength: 0.6648
-  confidence: medium
-- slug: 2026-01-08-m23-buries-22-drone-strike-victims-in-goma-as-congo-government-condemns-ceremony
-  relation: related
-  strength: 0.6638
-  confidence: medium
-- slug: 2026-01-06-deadly-aleppo-clashes-kill-civilians-as-syria-kurdish-army-merger-talks-remain-s
-  relation: related
-  strength: 0.66
   confidence: medium
 - slug: 2026-01-04-altadena-nurse-plants-sunflowers-on-fire-razed-lot-rebuilds-home-a-year-after-ea
   relation: related
@@ -180,75 +140,91 @@ Camargo reached out to Delacroix via Instagram on Sunday, a day after the strike
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Mariana Camargo
-**Predicate:** was_present_during
-**Object:** explosions in eastern Caracas at 2:05 a.m. (event)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Mariana Camargo
+- **Predicate:** was_present_during
+- **Object:** explosions in eastern Caracas at 2:05 a.m. (event)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Mariana Camargo, 21, was in eastern Caracas when explosions erupted at 2:05 a.m. and she ran through the streets.
 
-### c_002 — attributed, single source
-**Subject entities:** Matías Delacroix; Mariana Camargo
-**Predicate:** photographed
-**Object:** Camargo sprinting during explosions (event)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Matías Delacroix; Mariana Camargo
+- **Predicate:** photographed
+- **Object:** Camargo sprinting during explosions (event)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > AP photographer Matías Delacroix photographed Camargo running through the streets of eastern Caracas during the strikes.
 
-### c_003 — attributed, single source
-**Subject entities:** Matías Delacroix
-**Predicate:** appeared_on
-**Object:** front pages worldwide (publication_reach)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Matías Delacroix
+- **Predicate:** appeared_on
+- **Object:** front pages worldwide (publication_reach)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > The photograph appeared on front pages and websites of major international media outlets.
 
-### c_004 — reported, single source
-**Subject entities:** Nicolás Maduro
-**Predicate:** replaced_by
-**Object:** vice president, after capture by Trump administration (political_succession)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Nicolás Maduro
+- **Predicate:** replaced_by
+- **Object:** vice president, after capture by Trump administration (political_succession)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Nicolás Maduro was replaced by his vice president following his capture by the Trump administration, according to the AP.
 
-### c_005 — attributed, single source
-**Subject entities:** Mariana Camargo
-**Predicate:** was_warned_by
-**Object:** passing motorist during strikes (interaction)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Mariana Camargo
+- **Predicate:** was_warned_by
+- **Object:** passing motorist during strikes (interaction)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Camargo and approximately nine friends were on the street when a driver stopped and told the group to go home because they were bombing.
 
-### c_006 — attributed, single source
-**Subject entities:** Mariana Camargo
-**Predicate:** recognized_in
-**Object:** viral photograph via WhatsApp (social_media_event)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Mariana Camargo
+- **Predicate:** recognized_in
+- **Object:** viral photograph via WhatsApp (social_media_event)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Friends recognized Camargo in the photograph through a WhatsApp group message.
 
-### c_007 — attributed, single source
-**Subject entities:** Mariana Camargo
-**Predicate:** became
-**Object:** internet meme (social_media_event)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Mariana Camargo
+- **Predicate:** became
+- **Object:** internet meme (social_media_event)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > The photograph became a meme with the words 'the gringos have arrived!' superimposed on it.
 
-### c_008 — attributed, single source
-**Subject entities:** Mariana Camargo; Matías Delacroix
-**Predicate:** met
-**Object:** in-person meeting after Instagram contact (interaction)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Mariana Camargo; Matías Delacroix
+- **Predicate:** met
+- **Object:** in-person meeting after Instagram contact (interaction)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Camargo contacted Delacroix via Instagram on Sunday, a day after the strikes; they met in person on Tuesday and parted with a hug.
 
@@ -260,7 +236,3 @@ Camargo reached out to Delacroix via Instagram on Sunday, a day after the strike
 **Access date:** 2026-01-07
 **Title:** Behind the historic photo of a woman running from US bombs in Venezuela
 **URL:** https://apnews.com/article/venezuela-bombing-photo-us-nicolas-maduro-a984d5852ebfbe355215539b846826b0
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

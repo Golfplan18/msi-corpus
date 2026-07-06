@@ -17,7 +17,8 @@ topic_tags:
   - "artificial intelligence"
   - "science and technology"
   - "space programme"
-storyline_nexus: []
+storyline_nexus:
+- nasa-artemis-moon-mission
 geographic_location: Kennedy Space Center, Florida, USA
 floor_values_engaged:
 - value: informed_citizenship
@@ -281,7 +282,3 @@ Artemis III will attempt to land a pair of astronauts near the moon's south pole
 **Access date:** 2026-02-20
 **Title:** NASA targets March for first moon mission by Artemis astronauts
 **URL:** https://apnews.com/article/nasa-artemis-moon-launch-astronauts-446d72be9dca1b28f441d761bd97ee17
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

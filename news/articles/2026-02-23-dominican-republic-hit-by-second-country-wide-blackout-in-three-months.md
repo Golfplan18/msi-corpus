@@ -104,10 +104,6 @@ Energy Minister Joel Santos said essential services were not significantly affec
 
 The failure resulted from a trip in a transmission line switch that activated the system's protection mode, according to Santos. A massive blackout struck the Dominican Republic in November, blamed on human error during line maintenance work. The recurring failures reveal vulnerabilities in the nation's power grid operations.
 
----
-
-**AI Disclosure:** This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: [/methodology](/methodology). Human review: not_triggered. License: [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
-
 ## Atomic claims
 
 ### c_001 — reported, single source
@@ -189,7 +185,3 @@ The failure resulted from a trip in a transmission line switch that activated th
 **Access date:** 2026-02-23
 **Title:** Massive blackout hits Dominican Republic for second time in three months
 **URL:** https://apnews.com/article/dominican-republic-blackout-power-outage-caed50326fca39210b8d4249cf415b62
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

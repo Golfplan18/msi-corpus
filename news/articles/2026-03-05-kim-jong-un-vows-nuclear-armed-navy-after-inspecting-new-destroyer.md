@@ -19,7 +19,8 @@ topic_tags:
   - "politics"
   - "international relations"
   - "science and technology"
-storyline_nexus: []
+storyline_nexus:
+- north-korea-nuclear-program
 geographic_location: Nampo, North Korea
 floor_values_engaged:
 - value: informed_citizenship
@@ -316,7 +317,3 @@ At the Workers' Party congress, Kim doubled down on plans to expand North Korea'
 **Access date:** 2026-03-05
 **Title:** North Korean leader Kim Jong Un inspects new warship, claims progress
 **URL:** https://apnews.com/article/north-korea-kim-jong-un-destroyer-nuclear-f3bca713aa647eb41b8ec95b0c59eb8d
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

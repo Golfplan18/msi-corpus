@@ -27,7 +27,7 @@ topic_tags:
   - "economy, business and finance"
   - "energy and resource"
 storyline_nexus:
-  - russia-ukraine-war
+- ukraine-war-peace-negotiations
 geographic_location: Hungary, Slovakia, European Union
 floor_values_engaged:
 - value: accountability_of_power
@@ -253,7 +253,3 @@ Orbán has frequently threatened to obstruct the EU's efforts to sanction Moscow
 **Access date:** 2026-05-18
 **Title:** Hungary vows to block EU sanctions on Russia until oil flows resume
 **URL:** https://apnews.com/article/hungary-block-eu-sanctions-russia-ukraine-oil-8d5ae738b814b6326ca3db52102d9b31
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

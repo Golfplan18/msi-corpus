@@ -14,7 +14,8 @@ primary_themes:
 - Africa
 topic_tags:
   - "crime, law and justice"
-storyline_nexus: []
+storyline_nexus:
+- lgbtq-rights-restrictions
 geographic_location: Senegal
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -188,7 +189,3 @@ Human Rights Watch and other international advocacy organizations are monitoring
 **Access date:** 2026-02-24
 **Title:** Senegal introduces legislation to toughen sentences for homosexuality
 **URL:** https://apnews.com/article/senegal-homosexuality-5-year-sentence-sonko-b2928326eadf04ba400fd08f09ff585f
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

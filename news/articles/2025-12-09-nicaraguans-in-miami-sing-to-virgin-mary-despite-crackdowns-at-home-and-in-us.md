@@ -17,44 +17,42 @@ primary_themes:
 - Catholic tradition
 - gritería
 topic_tags:
-  - "arts, culture, entertainment and media"
-  - "government policy"
-  - "human interest"
-  - "human migration"
-  - "mass media"
-  - politics
-storyline_nexus: []
-geographic_location: Miami, Florida, United States
+- religion
+- religious institution
+- human migration
+- civil unrest
+- belief systems
+storyline_nexus:
+- us-immigration-enforcement
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
   intensity: 0.9
-- value: informed_citizenship
-  intensity: 0.85
 - value: accountability_of_power
-  intensity: 0.75
-framework_version: 1.1.0
-generation_timestamp: '2026-05-16T00:00:00Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:02:53Z'
 source_cluster_id: cluster_ap_2026-01-10_nicaragua-miami-immigration-catholic-fea
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 8
   hedges:
+    contested: 0
     appears: 0
     alleged: 0
     attributed: 5
-    reported: 2
-    contested: 0
     confirmed: 1
+    reported: 2
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 1
-    single_source: 7
     two_independent: 0
+    one_originating_plus_primary_document: 0
+    single_source: 7
+    primary_plus_secondary: 0
+    primary_document: 1
 sources:
   count: 1
   outlets:
@@ -72,21 +70,18 @@ image:
   url: /articles/2025-12-09-nicaraguans-in-miami-sing-to-virgin-mary-despite-crackdowns-at-home-and-in-us.png
   alt: 'Illustration accompanying article: Nicaraguans in Miami sing to Virgin Mary despite crackdowns at home and'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-07-us-faith-leaders-tend-to-venezuelan-diaspora-roiled-by-maduro-s-capture
-  relation: related
-  strength: 0.7872
-  confidence: medium
-- slug: 2025-12-30-faith-leaders-brace-for-harder-year-amid-trump-immigration-crackdown
-  relation: related
-  strength: 0.7646
-  confidence: medium
-- slug: 2025-12-30-faith-leaders-supporting-immigrants-brace-for-harder-year-under-trump-policies
-  relation: related
-  strength: 0.7616
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Summary point 1.
+- Summary point 2.
+- Summary point 3.
+- Summary point 4.
 
 Hundreds of Nicaraguans gathered at flower-decorated altars in Miami church parking lots Sunday evening to mark the Dec. 8 feast of the Immaculate Conception, filling streets near St. John Bosco Catholic Parish with traditional hymns to the Virgin Mary. The celebration carried particular weight this year as Nicaragua's government has intensified its crackdown on religious expression and the Trump administration has moved to curtail temporary legal protections for hundreds of thousands of Nicaraguan migrants in the United States.
 
@@ -138,75 +133,91 @@ Social media rumors about immigration enforcement had led some people to hesitat
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Nicaraguan immigrants; Miami, Florida
-**Predicate:** gathered_for_feast
-**Object:** Dec. 8 feast of the Immaculate Conception (religious_event)
-**Temporal:** 2025-12-07
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Nicaraguan immigrants; Miami, Florida
+- **Predicate:** gathered_for_feast
+- **Object:** Dec. 8 feast of the Immaculate Conception (religious_event)
+- **Temporal:** 2025-12-07
+- **Sources:** src_001
 
 > Hundreds of Nicaraguans gathered at altars in Miami on Sunday evening to mark the Dec. 8 feast of the Immaculate Conception.
 
-### c_002 — attributed, single source
-**Subject entities:** St. John Bosco Catholic Parish; Miami, Florida
-**Predicate:** attended
-**Object:** more than 1,000 (attendance_count)
-**Temporal:** 2025-12-07
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** St. John Bosco Catholic Parish; Miami, Florida
+- **Predicate:** attended
+- **Object:** more than 1,000 (attendance_count)
+- **Temporal:** 2025-12-07
+- **Sources:** src_001
 
 > More than a thousand people lined up Sunday evening at St. John Bosco Catholic Parish to sing and pray at altars set up in the parking lot and along the major thoroughfare in front of the church.
 
-### c_003 — attributed, single source
-**Subject entities:** St. John Bosco Catholic Parish
-**Predicate:** membership_composition
-**Object:** 3,000 families, mostly Nicaraguan and Honduran, many undocumented (demographic)
-**Temporal:** 2025-12-09
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** St. John Bosco Catholic Parish
+- **Predicate:** membership_composition
+- **Object:** 3,000 families, mostly Nicaraguan and Honduran, many undocumented (demographic)
+- **Temporal:** 2025-12-09
+- **Sources:** src_001
 
 > Most of the 3,000 member families at St. John Bosco Catholic Parish are from Nicaragua and Honduras, and many are undocumented.
 
-### c_004 — reported, single source
-**Subject entities:** Daniel Ortega; Rosario Murillo; Nicaragua
-**Predicate:** imprisoned_exiled_and_barred
-**Object:** hundreds of clergy and lay people, many religious festivities (persecution_actions)
-**Temporal:** 2025-12-09
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Daniel Ortega; Rosario Murillo; Nicaragua
+- **Predicate:** imprisoned_exiled_and_barred
+- **Object:** hundreds of clergy and lay people, many religious festivities (persecution_actions)
+- **Temporal:** 2025-12-09
+- **Sources:** src_001
 
 > Nicaragua's government under copresidents Daniel Ortega and Rosario Murillo has imprisoned and exiled hundreds of Christian clergy and lay people and barred many religious festivities.
 
-### c_005 — attributed, single source
-**Subject entities:** Nicaragua; Daniel Ortega; Rosario Murillo
-**Predicate:** described_as
-**Object:** one of the most severe religious crackdowns in the world (assessment)
-**Temporal:** 2025-12-09
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Nicaragua; Daniel Ortega; Rosario Murillo
+- **Predicate:** described_as
+- **Object:** one of the most severe religious crackdowns in the world (assessment)
+- **Temporal:** 2025-12-09
+- **Sources:** src_001
 
 > Human rights advocates, exiled priests, and the U.S. government have described Nicaragua's crackdown on religion as one of the most severe in the world.
 
-### c_006 — attributed, single source
-**Subject entities:** Donald Trump; United States government
-**Predicate:** sought_to_end
-**Object:** temporary legal protections for approximately 430,000 migrants (policy_action)
-**Temporal:** 2025-12-09
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; United States government
+- **Predicate:** sought_to_end
+- **Object:** temporary legal protections for approximately 430,000 migrants (policy_action)
+- **Temporal:** 2025-12-09
+- **Sources:** src_001
 
 > The Trump administration sought to end expanded and temporary legal protections for around 430,000 migrants from Nicaragua, Venezuela, Cuba, and Haiti.
 
-### c_007 — attributed, single source
-**Subject entities:** Silvio Báez; Pope Francis
-**Predicate:** left_nicaragua
-**Object:** 2019, at Pope Francis's direction (biographical_event)
-**Temporal:** 2019
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Silvio Báez; Pope Francis
+- **Predicate:** left_nicaragua
+- **Object:** 2019, at Pope Francis's direction (biographical_event)
+- **Temporal:** 2019
+- **Sources:** src_001
 
 > The Rev. Silvio Báez, auxiliary bishop of Managua, left Nicaragua in 2019 because the late Pope Francis told him to do so to save his life.
 
-### c_008 — reported, single source
-**Subject entities:** Nicaragua; Daniel Ortega; Rosario Murillo
-**Predicate:** under_surveillance
-**Object:** strict government surveillance (condition)
-**Temporal:** 2025-12-09
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Nicaragua; Daniel Ortega; Rosario Murillo
+- **Predicate:** under_surveillance
+- **Object:** strict government surveillance (condition)
+- **Temporal:** 2025-12-09
+- **Sources:** src_001
 
 > The remaining faithful in Nicaragua say they are under strict surveillance by the government.
 
@@ -215,10 +226,5 @@ Social media rumors about immigration enforcement had led some people to hesitat
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Giovanna Dell'Orto
 **Publication date:** 2025-12-09
-**Access date:** 2026-05-16
 **Title:** Nicaraguans in Miami decorate altars for joyous Catholic festival
 **URL:** https://apnews.com/article/nicaragua-miami-immigration-catholic-feast-virgin-mary-3c80863774a0a2b233408f48a6f56e08
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

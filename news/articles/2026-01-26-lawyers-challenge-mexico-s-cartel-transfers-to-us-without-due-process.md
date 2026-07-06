@@ -27,7 +27,7 @@ topic_tags:
   - "government policy"
   - "international relations"
 storyline_nexus:
-  - us-administration-2026
+- mexico-cartel-violence
 geographic_location: United States; Mexico
 floor_values_engaged:
 - value: accountability_of_power
@@ -231,7 +231,3 @@ Former U.S. Drug Enforcement Administration chief of international operations Mi
 **Access date:** 2026-05-18
 **Title:** Lawyers accuse Mexico of illegally sending cartel members to US
 **URL:** https://apnews.com/article/mexico-cartels-illegal-sent-to-us-d1fc95d29062a867caad394f778dad59
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

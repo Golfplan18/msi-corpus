@@ -19,7 +19,8 @@ primary_themes:
 topic_tags:
   - "disaster, accident and emergency incident"
   - "natural disaster"
-storyline_nexus: []
+storyline_nexus:
+- extreme-weather-disasters
 geographic_location: Arequipa, Peru
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -107,8 +108,6 @@ The neighborhood where the father and son died sits directly above an ancient wa
 ## Climate and Forecast
 
 The flooding was driven by El Niño Costero, a climate phenomenon fueled by warming Pacific waters in the eastern Pacific. Meteorologists said the warming increases evaporation rates, driving the extreme rainfall and swollen river flows that triggered the disaster. The phenomenon is expected to strengthen slightly in March, maintaining elevated flood risk across Peru's southern provinces in the coming weeks.
-
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Framework specification: /methodology. Human review: not_triggered.
 
 ## Atomic claims
 
@@ -209,7 +208,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-05-18
 **Title:** Father and son killed by mudslide in Peru as floods affect thousands of homes in southern provinces
 **URL:** https://apnews.com/article/peru-rains-arequipa-deaths-evacuations-082f07d395f713c217d9c9020453d51a
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

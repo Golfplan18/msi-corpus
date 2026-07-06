@@ -21,44 +21,41 @@ primary_themes:
 - education funding
 - Education Department dismantling
 topic_tags:
-  - "economy, business and finance"
-  - education
-  - government
-  - "government policy"
-  - politics
-  - school
-storyline_nexus: []
-geographic_location: Iowa, United States
+- education
+- education policy
+- government policy
+- school
+storyline_nexus:
+- snap-safety-net-cuts
+geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.85
 - value: accountability_of_power
-  intensity: 0.75
+  intensity: 0.6
 - value: equality_fairness
   intensity: 0.6
-framework_version: 1.1.0
-generation_timestamp: '2026-05-16T18:08:17Z'
+framework_version: 1.3.0
+generation_timestamp: '2026-05-22T23:55:50Z'
 source_cluster_id: cluster_ap_2026-01-06_education-department-iowa-block-grant-mc
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 15
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 4
     reported: 0
-    contested: 0
     confirmed: 11
+    alleged: 0
+    appears: 0
+    contested: 0
+    attributed: 4
   corroboration:
+    two_independent: 0
+    single_source: 8
     primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
     primary_document: 7
-    single_source: 8
-    two_independent: 0
 sources:
   count: 1
   outlets:
@@ -79,6 +76,15 @@ image:
 cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Summary point 1.
+- Summary point 2.
+- Summary point 3.
+- Summary point 4.
 
 The approval is an early application of the administration's stated goal to 'return education to the states,' using an existing but rarely invoked statutory exemption — and it previews a larger push by McMahon in Congress to consolidate the bulk of federal education funding into block grants nationwide.
 
@@ -122,138 +128,168 @@ McMahon described Iowa's plan in her formal approval as "a first-in-the-nation p
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Linda McMahon; Iowa
-**Predicate:** approved
-**Object:** block-grant waiver plan (policy_action)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Linda McMahon; Iowa
+- **Predicate:** approved
+- **Object:** block-grant waiver plan (policy_action)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Education Secretary Linda McMahon formally approved Iowa's block-grant waiver plan on Wednesday, January 7, 2026, at an event in Iowa.
 
-### c_002 — confirmed, primary document
-**Subject entities:** Iowa; Linda McMahon
-**Predicate:** applied_first
-**Object:** federal education spending exemption (policy_action)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Iowa; Linda McMahon
+- **Predicate:** applied_first
+- **Object:** federal education spending exemption (policy_action)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Iowa was the first state to apply for an exemption from certain federal education spending rules after McMahon invited states to request flexibility.
 
-### c_003 — confirmed, primary document
-**Subject entities:** Iowa
-**Predicate:** consolidates
-**Object:** four federal education funding streams (policy_detail)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Iowa
+- **Predicate:** consolidates
+- **Object:** four federal education funding streams (policy_detail)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Iowa's waiver pools federal money from four programs — teacher training, English learners, after-school programs, and academic enrichment — into a single fund.
 
-### c_004 — confirmed, primary document
-**Subject entities:** Iowa
-**Predicate:** covers
-**Object:** $9.5 million through September 2028 (financial_amount)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Iowa
+- **Predicate:** covers
+- **Object:** $9.5 million through September 2028 (financial_amount)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Iowa's waiver covers about $9.5 million in federal funding over the waiver term, which runs through September 2028.
 
-### c_005 — confirmed, primary document
-**Subject entities:** Iowa
-**Predicate:** scope_limited_to
-**Object:** state education agency funds only (policy_scope)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Iowa
+- **Predicate:** scope_limited_to
+- **Object:** state education agency funds only (policy_scope)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Iowa's waiver applies to money used by the state's education agency, not the larger sums flowing to Iowa's more than 300 public school districts.
 
-### c_006 — attributed, single source
-**Subject entities:** Iowa
-**Predicate:** will_save
-**Object:** $8 million in staff compliance costs (financial_amount)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Iowa
+- **Predicate:** will_save
+- **Object:** $8 million in staff compliance costs (financial_amount)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Iowa said it will save about $8 million in staff time previously devoted to compliance with federal spending rules.
 
-### c_007 — confirmed, single source
-**Subject entities:** Indiana; Kansas
-**Predicate:** applied_for
-**Object:** federal education spending waivers (policy_action)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Indiana; Kansas
+- **Predicate:** applied_for
+- **Object:** federal education spending waivers (policy_action)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Indiana and Kansas have also applied for waivers exempting them from parts of federal education law.
 
-### c_008 — attributed, single source
-**Subject entities:** Linda McMahon
-**Predicate:** told
-**Object:** flexibility will free up time and money for compliance (statement)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Linda McMahon
+- **Predicate:** told
+- **Object:** flexibility will free up time and money for compliance (statement)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > McMahon told the AP that the new flexibility will free up time and money devoted to ensuring compliance with federal rules.
 
-### c_009 — attributed, single source
-**Subject entities:** Kim Reynolds
-**Predicate:** said
-**Object:** readiness to advocate to Congress for greater flexibilities (statement)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Kim Reynolds
+- **Predicate:** said
+- **Object:** readiness to advocate to Congress for greater flexibilities (statement)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Iowa Gov. Kim Reynolds, speaking alongside McMahon, said she recognizes the Education Department can offer only so much leeway under current law and expressed readiness to advocate to Congress for greater flexibilities.
 
-### c_010 — attributed, single source
-**Subject entities:** Allison Socol; EdTrust
-**Predicate:** said
-**Object:** waiver will divert funding from highest-need students (statement)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Allison Socol; EdTrust
+- **Predicate:** said
+- **Object:** waiver will divert funding from highest-need students (statement)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Allison Socol, a vice president at EdTrust, said the waiver will 'divert federal funding away from students with the greatest needs,' including English learners and students who benefit from after-school programs.
 
-### c_011 — confirmed, primary document
-**Subject entities:** Congressional Democrats; Linda McMahon
-**Predicate:** urged
-**Object:** rejection of block grant requests (political_action)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_011
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Congressional Democrats; Linda McMahon
+- **Predicate:** urged
+- **Object:** rejection of block grant requests (political_action)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Democrats in Congress urged McMahon in May to reject block grant requests, saying the policy would fail 'the very students these provisions aim to support.'
 
-### c_012 — confirmed, primary document
-**Subject entities:** Iowa
-**Predicate:** originally_proposed
-**Object:** broader 10-source block grant including Title I (policy_detail)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_012
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Iowa
+- **Predicate:** originally_proposed
+- **Object:** broader 10-source block grant including Title I (policy_detail)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Iowa's original March proposal asked to combine 10 funding sources into a block grant, including Title I, which sends more than $100 million to Iowa schools with large shares of low-income students; the approved waiver is narrower.
 
-### c_013 — confirmed, single source
-**Subject entities:** Linda McMahon
-**Predicate:** requested
-**Object:** single block grant for federal education funding (legislative_request)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_013
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Linda McMahon
+- **Predicate:** requested
+- **Object:** single block grant for federal education funding (legislative_request)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > McMahon has separately asked Congress to pass a budget combining much of the nation's federal education funding into a single block grant.
 
-### c_014 — confirmed, single source
-**Subject entities:** U.S. Supreme Court; U.S. Department of Education
-**Predicate:** ruled
-**Object:** dismantling work can continue (legal_ruling)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_014
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Supreme Court; U.S. Department of Education
+- **Predicate:** ruled
+- **Object:** dismantling work can continue (legal_ruling)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > The Supreme Court ruled in July that the work to dismantle the Education Department can continue.
 
-### c_015 — confirmed, single source
-**Subject entities:** Linda McMahon; U.S. Department of Education
-**Predicate:** reduced
-**Object:** staff by half; offloading grant programs to other agencies (administrative_action)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_015
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Linda McMahon; U.S. Department of Education
+- **Predicate:** reduced
+- **Object:** staff by half; offloading grant programs to other agencies (administrative_action)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > McMahon has halved the Education Department's staff and is offloading some of its biggest grant programs to other agencies.
 
@@ -262,10 +298,5 @@ McMahon described Iowa's plan in her formal approval as "a first-in-the-nation p
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Collin Binkley
 **Publication date:** 2026-01-07
-**Access date:** 2026-01-07
 **Title:** Education Department gives Iowa more control over federal money
 **URL:** https://apnews.com/article/education-department-iowa-block-grant-mcmahon-trump-bd80ffce0d743e7d77efffc664bb225f
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -276,7 +276,3 @@ The exact size of the delegation was not clear; an official roster named 26 play
 **Access date:** 2026-05-17
 **Title:** Iranian women's soccer squad members granted asylum in Australia
 **URL:** https://apnews.com/article/iran-women-soccer-asylum-australia-1ca19122b348021793652598e577a339
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

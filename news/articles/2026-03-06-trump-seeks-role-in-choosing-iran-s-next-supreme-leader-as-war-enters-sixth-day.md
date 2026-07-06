@@ -21,13 +21,12 @@ primary_themes:
 - Iran leadership succession
 - Regional spillover
 topic_tags:
-  - "armed conflict"
-  - "conflict, war and peace"
-  - "government policy"
-  - "politics"
+- armed conflict
+- conflict, war and peace
+- government policy
+- politics
 storyline_nexus:
-  - iran-war
-  - us-administration-2026
+- the-iran-war
 geographic_location: Iran, Middle East
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -73,21 +72,9 @@ figures_aggregate:
   series_ids: []
   sources: []
 cross_article_links:
-- slug: 2026-01-11-israel-monitors-iranian-protests-as-analysts-see-little-appetite-for-new-war
-  relation: related
-  strength: 0.8101
-  confidence: medium
-- slug: 2026-01-12-iran-s-leadership-weakened-by-war-faces-broad-protests-as-crackdown-kills-hundre
-  relation: related
-  strength: 0.8019
-  confidence: medium
 - slug: 2026-01-07-iran-army-chief-threatens-preemptive-attack-as-protests-enter-11th-day
   relation: related
   strength: 0.7948
-  confidence: medium
-- slug: 2026-01-02-trump-and-iran-trade-threats-as-rial-protests-enter-sixth-day-killing-at-least-7
-  relation: related
-  strength: 0.8031
   confidence: medium
 draft: false
 ---
@@ -156,183 +143,223 @@ An Iranian ayatollah, Abdollah Javadi Amoli, called on state television for the 
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Donald Trump
-**Predicate:** stated_intent
-**Object:** involvement in choosing Iran's next supreme leader (stated_policy_position)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** stated_intent
+- **Object:** involvement in choosing Iran's next supreme leader (stated_policy_position)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > President Donald Trump said he wants to be involved in choosing Iran's next supreme leader.
 
-### c_002 — attributed, single source
-**Subject entities:** Donald Trump; Mojtaba Khamenei
-**Predicate:** characterized
-**Object:** a lightweight (quoted_characterization)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Mojtaba Khamenei
+- **Predicate:** characterized
+- **Object:** a lightweight (quoted_characterization)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > Trump called Mojtaba Khamenei 'a lightweight' and ruled him out as a candidate to replace his father.
 
-### c_003 — attributed, single source
-**Subject entities:** Donald Trump
-**Predicate:** stated
-**Object:** involvement in Iran leadership appointment, compared to Venezuela (verbatim_quote)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** stated
+- **Object:** involvement in Iran leadership appointment, compared to Venezuela (verbatim_quote)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > Trump said 'I have to be involved in the appointment, like with Delcy in Venezuela.'
 
-### c_004 — attributed, single source
-**Subject entities:** Pete Hegseth
-**Predicate:** stated
-**Object:** surge in U.S. firepower over Tehran (military_statement)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Pete Hegseth
+- **Predicate:** stated
+- **Object:** surge in U.S. firepower over Tehran (military_statement)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > Defense Secretary Pete Hegseth warned that American firepower over Tehran was 'about to surge dramatically.'
 
-### c_005 — attributed, single source
-**Subject entities:** Eyal Zamir; Israel
-**Predicate:** stated
-**Object:** 80% of Iran's air defenses and 60% of its missile launchers destroyed (military_assessment)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Eyal Zamir; Israel
+- **Predicate:** stated
+- **Object:** 80% of Iran's air defenses and 60% of its missile launchers destroyed (military_assessment)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > Israel's Lt. Gen. Eyal Zamir said strikes had destroyed 80 percent of Iran's air defenses and 60 percent of its missile launchers.
 
-### c_006 — reported, single source
-**Subject entities:** Iran
-**Predicate:** death_toll
-**Object:** at least 1,230 (casualty_count)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Iran
+- **Predicate:** death_toll
+- **Object:** at least 1,230 (casualty_count)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > The war has killed at least 1,230 people in Iran, according to Iranian officials.
 
-### c_007 — reported, single source
-**Subject entities:** Lebanon
-**Predicate:** death_toll
-**Object:** more than 120 (casualty_count)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Lebanon
+- **Predicate:** death_toll
+- **Object:** more than 120 (casualty_count)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > The war has killed more than 120 people in Lebanon, according to Lebanese officials.
 
-### c_008 — reported, single source
-**Subject entities:** United States military
-**Predicate:** death_toll
-**Object:** 6 (casualty_count)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** United States military
+- **Predicate:** death_toll
+- **Object:** 6 (casualty_count)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > Six U.S. troops have been killed in the conflict.
 
-### c_009 — confirmed, single source
-**Subject entities:** U.S. House of Representatives
-**Predicate:** voted
-**Object:** defeated resolution to halt bombardment (legislative_action)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. House of Representatives
+- **Predicate:** voted
+- **Object:** defeated resolution to halt bombardment (legislative_action)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > The U.S. House defeated a resolution to halt the bombardment of Iran on Thursday.
 
-### c_010 — confirmed, single source
-**Subject entities:** U.S. Senate
-**Predicate:** voted
-**Object:** voted down resolution to halt bombardment (legislative_action)
-**Temporal:** 2026-03-04
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Senate
+- **Predicate:** voted
+- **Object:** voted down resolution to halt bombardment (legislative_action)
+- **Temporal:** 2026-03-04
+- **Sources:** src_001
 
 > The U.S. Senate voted down a resolution to halt the bombardment of Iran.
 
-### c_011 — attributed, single source
-**Subject entities:** Mojtaba Ferdousi Pour
-**Predicate:** stated
-**Object:** Iran has not requested talks with the U.S. (diplomatic_statement)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Mojtaba Ferdousi Pour
+- **Predicate:** stated
+- **Object:** Iran has not requested talks with the U.S. (diplomatic_statement)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > Iran's ambassador to Egypt, Mojtaba Ferdousi Pour, said Iran has not requested talks with the United States.
 
-### c_012 — attributed, single source
-**Subject entities:** Abbas Araghchi; IRIS Dena
-**Predicate:** accused
-**Object:** an atrocity at sea (diplomatic_accusation)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Abbas Araghchi; IRIS Dena
+- **Predicate:** accused
+- **Object:** an atrocity at sea (diplomatic_accusation)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > Iranian Foreign Minister Abbas Araghchi accused the U.S. Navy of committing 'an atrocity at sea' for sinking the Iranian frigate IRIS Dena.
 
-### c_013 — reported, single source
-**Subject entities:** IRIS Dena; United States Navy
-**Predicate:** death_toll
-**Object:** at least 87 (casualty_count)
-**Temporal:** 2026-03-04
-**Source IDs:** src_001
+### c_013
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** IRIS Dena; United States Navy
+- **Predicate:** death_toll
+- **Object:** at least 87 (casualty_count)
+- **Temporal:** 2026-03-04
+- **Sources:** src_001
 
 > The sinking of the IRIS Dena killed at least 87 people, according to Iranian officials.
 
-### c_014 — attributed, single source
-**Subject entities:** Brad Cooper; United States military
-**Predicate:** stated
-**Object:** more than 30 Iranian ships sunk (military_assessment)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Brad Cooper; United States military
+- **Predicate:** stated
+- **Object:** more than 30 Iranian ships sunk (military_assessment)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > Adm. Brad Cooper said U.S. forces have sunk more than 30 Iranian ships.
 
-### c_015 — reported, single source
-**Subject entities:** United States Central Command
-**Predicate:** attacked
-**Object:** Iranian drone carrier set ablaze (military_action)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_015
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** United States Central Command
+- **Predicate:** attacked
+- **Object:** Iranian drone carrier set ablaze (military_action)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > The U.S. military said it attacked and set ablaze an Iranian drone carrier early Friday.
 
-### c_016 — reported, single source
-**Subject entities:** Iran; Bahrain
-**Predicate:** struck
-**Object:** Bahrain state-run oil refinery (military_strike)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_016
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Iran; Bahrain
+- **Predicate:** struck
+- **Object:** Bahrain state-run oil refinery (military_strike)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > An Iranian missile struck a state-run oil refinery in Bahrain on Thursday, sparking a fire that was extinguished with no reported casualties.
 
-### c_017 — attributed, single source
-**Subject entities:** Ilham Aliyev; Azerbaijan; Iran
-**Predicate:** accused
-**Object:** a groundless act of terror and aggression (diplomatic_accusation)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_017
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ilham Aliyev; Azerbaijan; Iran
+- **Predicate:** accused
+- **Object:** a groundless act of terror and aggression (diplomatic_accusation)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > Azerbaijan's President Ilham Aliyev accused Iran of 'a groundless act of terror and aggression' after a drone crashed near an airport, injuring four civilian workers.
 
-### c_018 — attributed, single source
-**Subject entities:** Lebanon; Hezbollah; Israel
-**Predicate:** death_toll
-**Object:** 123 (casualty_count)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_018
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Lebanon; Hezbollah; Israel
+- **Predicate:** death_toll
+- **Object:** 123 (casualty_count)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > The Lebanese health ministry said the death toll in Lebanon has risen to 123 since hostilities between Israel and Hezbollah resumed.
 
-### c_019 — attributed, single source
-**Subject entities:** UNIFIL; Tilak Pokharel; Israel
-**Predicate:** reported
-**Object:** ground combat in southern Lebanon (military_observation)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_019
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** UNIFIL; Tilak Pokharel; Israel
+- **Predicate:** reported
+- **Object:** ground combat in southern Lebanon (military_observation)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > U.N. peacekeeping force spokesperson Tilak Pokharel said peacekeepers had observed ground combat in southern Lebanon as additional Israeli forces crossed the border.
 
-### c_020 — reported, single source
-**Subject entities:** Abdollah Javadi Amoli
-**Predicate:** stated
-**Object:** call for shedding of Israeli and Trump's blood (public_statement)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_020
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Abdollah Javadi Amoli
+- **Predicate:** stated
+- **Object:** call for shedding of Israeli and Trump's blood (public_statement)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > Ayatollah Abdollah Javadi Amoli called on Iranian state television for the shedding of Israeli and Trump's blood.
 
@@ -344,7 +371,3 @@ An Iranian ayatollah, Abdollah Javadi Amoli, called on state television for the 
 **Access date:** 2026-03-06
 **Title:** Trump wants to be involved in picking Iran's next supreme leader
 **URL:** https://apnews.com/article/iran-israel-us-march-05-2026-6a76668997a43855cc37eff7f4829615
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

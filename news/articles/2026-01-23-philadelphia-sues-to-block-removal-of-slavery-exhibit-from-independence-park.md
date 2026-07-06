@@ -12,40 +12,44 @@ primary_themes:
 - Federal history policy
 - Executive power and accountability
 - Historical interpretation and memory
-topic_tags: []
-storyline_nexus: []
-geographic_location: Philadelphia, Pennsylvania, United States
+topic_tags:
+- civil rights
+- government policy
+- law
+- politics
+- fundamental rights
+storyline_nexus:
+- trump-judicial-challenges
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
-  intensity: 0.85
+  intensity: 0.9
 - value: accountability_of_power
   intensity: 0.9
-- value: informed_citizenship
-  intensity: 0.85
 - value: truthfulness
-  intensity: 0.8
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:51:01Z'
 source_cluster_id: cluster_ap_2026-01-24_slavery-exhibit-removed-philadelphia-tru
 gdelt_event_ids: []
 consensus_floor_version: v0.3.0
-publication_mindspec_version: v1.0.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 13
   hedges:
+    reported: 2
     appears: 0
     alleged: 0
-    attributed: 8
-    reported: 2
     contested: 0
     confirmed: 3
+    attributed: 8
   corroboration:
-    primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
-    primary_document: 3
     single_source: 10
+    primary_document: 3
+    primary_plus_secondary: 0
     two_independent: 0
 sources:
   count: 1
@@ -60,17 +64,12 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-13-smithsonian-hands-exhibit-details-to-white-house-amid-pressure-for-upbeat-us-his
-  relation: related
-  strength: 0.7851
-  confidence: medium
-- slug: 2026-01-11-smithsonian-drops-impeachment-references-from-trump-portrait-display
-  relation: related
-  strength: 0.7419
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
 
 Philadelphia sued the Trump administration Thursday to reverse the removal of an exhibit documenting slavery at Independence National Historical Park, challenging an executive order directing federal agencies to review historical interpretations for "accuracy, honesty, and alignment with shared national values." The National Park Service removed the display detailing nine enslaved people who lived at the President's House when George and Martha Washington occupied the residence during Philadelphia's tenure as the nation's capital.
 
@@ -116,120 +115,146 @@ Trump's executive order cites concerns about the prior administration's approach
 
 ## Atomic claims
 
-### c_001 — reported, single source
-**Subject entities:** Donald Trump
-**Predicate:** signed_executive_order
-**Object:** order requiring review of federal historical interpretation materials (policy_directive)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** signed_executive_order
+- **Object:** order requiring review of federal historical interpretation materials (policy_directive)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > Trump signed an executive order directing federal agencies to review interpretive materials to "ensure accuracy, honesty, and alignment with shared national values."
 
-### c_002 — confirmed, primary document
-**Subject entities:** National Park Service; Independence National Historical Park
-**Predicate:** removed
-**Object:** slavery exhibit at President's House (display)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** National Park Service; Independence National Historical Park
+- **Predicate:** removed
+- **Object:** slavery exhibit at President's House (display)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > The National Park Service removed an exhibit at Independence National Historical Park documenting slavery at the President's House.
 
-### c_003 — confirmed, primary document
-**Subject entities:** slavery exhibit
-**Predicate:** documented
-**Object:** biographical details of nine named enslaved people (historical_content)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** slavery exhibit
+- **Predicate:** documented
+- **Object:** biographical details of nine named enslaved people (historical_content)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > The removed exhibit included biographical details about nine enslaved people—Austin, Paris, Hercules, Christopher Sheels, Richmond, Giles, Oney Judge, Moll, and Joe—who lived at the President's House.
 
-### c_004 — confirmed, primary document
-**Subject entities:** Philadelphia; Doug Burgum; Jessica Bowron
-**Predicate:** filed_lawsuit
-**Object:** lawsuit to reverse exhibit removal (legal_action)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Philadelphia; Doug Burgum; Jessica Bowron
+- **Predicate:** filed_lawsuit
+- **Object:** lawsuit to reverse exhibit removal (legal_action)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > Philadelphia sued Interior Secretary Doug Burgum and acting National Park Service Director Jessica Bowron on Thursday to stop the removal.
 
-### c_005 — attributed, single source
-**Subject entities:** Cherelle Parker; Philadelphia
-**Predicate:** cited
-**Object:** 2006 cooperative agreement requiring consultation on exhibit changes (legal_document)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Cherelle Parker; Philadelphia
+- **Predicate:** cited
+- **Object:** 2006 cooperative agreement requiring consultation on exhibit changes (legal_document)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > Philadelphia Mayor Cherelle Parker cited a 2006 cooperative agreement requiring the city and federal government to consult before making changes to exhibits.
 
-### c_006 — attributed, single source
-**Subject entities:** Oney Judge; George Washington
-**Predicate:** argued_central_to_narrative
-**Object:** role of enslaved person Oney Judge who escaped bondage (historical_significance)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Oney Judge; George Washington
+- **Predicate:** argued_central_to_narrative
+- **Object:** role of enslaved person Oney Judge who escaped bondage (historical_significance)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > Philadelphia's lawsuit argues that slavery is central to the site's story, including the story of Oney Judge, who was enslaved at the residence and ran away, remaining free despite Washington's attempts to return her to bondage.
 
-### c_007 — attributed, single source
-**Subject entities:** Interior Department
-**Predicate:** characterized
-**Object:** lawsuit as frivolous and demeaning to Founding Fathers (statement)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Interior Department
+- **Predicate:** characterized
+- **Object:** lawsuit as frivolous and demeaning to Founding Fathers (statement)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > The Interior Department called Philadelphia's lawsuit "frivolous" and said it aims to "demean our brave Founding Fathers."
 
-### c_008 — attributed, single source
-**Subject entities:** Dwight Evans
-**Predicate:** said
-**Object:** exhibit removal shows abuse of power and whitewashing of history (characterization)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Dwight Evans
+- **Predicate:** said
+- **Object:** exhibit removal shows abuse of power and whitewashing of history (characterization)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > Their shameful desecration of this exhibit raises broader, disturbing questions about this administration's continued abuse of power and commitment to whitewashing history," said Rep. Dwight Evans, a Democrat whose district includes Philadelphia.
 
-### c_009 — attributed, single source
-**Subject entities:** Malcolm Kenyatta
-**Predicate:** said
-**Object:** removal is revisionist history that future generations will condemn (characterization)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Malcolm Kenyatta
+- **Predicate:** said
+- **Object:** removal is revisionist history that future generations will condemn (characterization)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > Trying to whitewash American history, however, disparages who we are. This is yet another egregious example of revisionist history that will be reviled for generations," said Philadelphia state Rep. Malcolm Kenyatta.
 
-### c_010 — attributed, single source
-**Subject entities:** Ed Stierli; National Parks Conservation Association
-**Predicate:** said
-**Object:** removal sets dangerous precedent prioritizing nostalgia over truth (characterization)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ed Stierli; National Parks Conservation Association
+- **Predicate:** said
+- **Object:** removal sets dangerous precedent prioritizing nostalgia over truth (characterization)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > Ed Stierli, regional director for the National Parks Conservation Association, said removing the exhibit "sets a dangerous precedent of prioritizing nostalgia over the truth" and reverses years of collaborative work.
 
-### c_011 — attributed, single source
-**Subject entities:** Timothy Welbeck; Temple University
-**Predicate:** said
-**Object:** U.S. unwilling to reckon with past horrors and presents sanitized history (characterization)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Timothy Welbeck; Temple University
+- **Predicate:** said
+- **Object:** U.S. unwilling to reckon with past horrors and presents sanitized history (characterization)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > It shows that the United States is still unwilling to reckon with the horrors of its past and would rather prefer to sanitize the history that it has and try to present a convenient lie," said Timothy Welbeck, director of the Center for Anti-Racism at Temple University.
 
-### c_012 — reported, single source
-**Subject entities:** Trump administration; Smithsonian
-**Predicate:** pressured
-**Object:** federal institutions to reduce focus on race in historical narratives (policy_action)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Trump administration; Smithsonian
+- **Predicate:** pressured
+- **Object:** federal institutions to reduce focus on race in historical narratives (policy_action)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > The Trump administration has put pressure on federal institutions including the Smithsonian to tell a version of history less focused on race as it prepares to celebrate the country's 250th anniversary.
 
-### c_013 — attributed, single source
-**Subject entities:** Trump administration; Biden administration
-**Predicate:** accused
-**Object:** prior administration of advancing corrosive ideology on Western foundations and racism interrogation (order_language)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Trump administration; Biden administration
+- **Predicate:** accused
+- **Object:** prior administration of advancing corrosive ideology on Western foundations and racism interrogation (order_language)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > Trump's executive order states the prior administration advanced a "corrosive ideology" and sponsored training advocating dismantling "Western foundations" and "interrogating institutional racism."
 
@@ -238,10 +263,5 @@ Trump's executive order cites concerns about the prior administration's approach
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Tassanee Vejpongsa
 **Publication date:** 2026-01-23
-**Access date:** 2026-05-18
 **Title:** Exhibit on slavery removed from Philadelphia's Independence Park
 **URL:** https://apnews.com/article/slavery-exhibit-removed-philadelphia-trump-executive-order-dd764277133f47ec1173e8dc16703958
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

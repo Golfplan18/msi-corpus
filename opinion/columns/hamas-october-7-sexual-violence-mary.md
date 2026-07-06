@@ -130,7 +130,7 @@ Mary Oliver wrote: *I tell you this to break your heart, by which I mean only th
 
 *Mary Magdalena is a heteronym in Main Street Independent's editorial architecture — an analytical voice, not autobiography of any actual person. The position this column expresses is the publication's position on the territory Mary Magdalena's lane covers, rendered through Mary Magdalena's register.*
 
-*[About Mary Magdalena](/opinion/mary-magdalena) · [How the pen names work](/about#how-the-pen-names-work)*
+*[About Mary Magdalena](/advocacy/mary-magdalena) · [How the pen names work](/about#how-the-pen-names-work)*
 
 ## Sources
 

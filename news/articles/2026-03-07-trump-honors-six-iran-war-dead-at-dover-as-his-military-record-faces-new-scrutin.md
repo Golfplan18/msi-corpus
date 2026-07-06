@@ -24,7 +24,7 @@ topic_tags:
   - "conflict, war and peace"
   - "science and technology"
 storyline_nexus:
-  - iran-war
+- the-iran-war
 geographic_location: Dover, Delaware; United States
 floor_values_engaged:
 - value: informed_citizenship
@@ -284,7 +284,3 @@ At the recent Medal of Honor ceremony for Richardson, Trump joked about wanting 
 **Access date:** 2026-05-17
 **Title:** What Trump has said about military deaths in the past
 **URL:** https://apnews.com/article/donald-trump-veterans-military-service-dover-0a150a0cacecb8b5fc6b90cbb2c7baf1
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -14,36 +14,37 @@ primary_themes:
 - space
 - natural phenomena
 topic_tags:
-  - "crime, law and justice"
-  - crime
-storyline_nexus: []
-geographic_location: Global
+- natural science
+- space programme
+storyline_nexus:
+- extreme-weather-disasters
+geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.3
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T00:00:00Z'
+- value: truthfulness
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T01:05:32Z'
 source_cluster_id: cluster_ap_2026-04-20_lyrid-meteor-shower-april-2026-6ee128bd1
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 15
   hedges:
     appears: 0
-    alleged: 0
-    attributed: 4
-    reported: 0
     contested: 0
     confirmed: 11
+    alleged: 0
+    reported: 0
+    attributed: 4
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 0
-    single_source: 15
     two_independent: 0
+    single_source: 15
+    one_originating_plus_primary_document: 0
+    primary_plus_secondary: 0
+    primary_document: 0
 sources:
   count: 1
   outlets:
@@ -60,6 +61,9 @@ figures_aggregate:
 cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
 
 The Lyrid meteor shower reaches its peak Tuesday night into Wednesday morning, offering skywatchers a chance to see 10 to 20 shooting stars per hour streaking across the spring sky. The display will be visible across the globe, but views will be best in the Northern Hemisphere. A dim crescent moon that sets before the peak begins will create ideal viewing conditions without light interference.
 
@@ -91,134 +95,162 @@ The meteors will appear to come from the constellation Lyra in the northeastern 
 
 The next major meteor shower arrives in early May: the Eta Aquarids, which are debris from Halley's Comet.
 
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. Framework specification: /methodology. License: CC0.*
-
 ## Atomic claims
 
-### c_001 — confirmed, single source
-**Subject entities:** Lyrid meteor shower
-**Predicate:** peaks
-**Object:** Tuesday night into Wednesday morning (temporal)
-**Temporal:** 2026-04-22T21:00:00Z
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Lyrid meteor shower
+- **Predicate:** peaks
+- **Object:** Tuesday night into Wednesday morning (temporal)
+- **Temporal:** 2026-04-22T21:00:00Z
+- **Sources:** src_001
 
 > The Lyrid meteor shower peaks Tuesday night into Wednesday morning.
 
-### c_002 — attributed, single source
-**Subject entities:** Lyrid meteor shower
-**Predicate:** observable_rate
-**Object:** 10-20 shooting stars per hour (quantity)
-**Temporal:** 2026-04-22T00:00:00Z
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Lyrid meteor shower
+- **Predicate:** observable_rate
+- **Object:** 10-20 shooting stars per hour (quantity)
+- **Temporal:** 2026-04-22T00:00:00Z
+- **Sources:** src_001
 
 > Skywatchers could see 10 to 20 shooting stars per hour at peak, according to NASA.
 
-### c_003 — confirmed, single source
-**Subject entities:** Lyrid meteor shower
-**Predicate:** visibility
-**Object:** global, best in Northern Hemisphere (geographic)
-**Temporal:** 2026-04-22T00:00:00Z
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Lyrid meteor shower
+- **Predicate:** visibility
+- **Object:** global, best in Northern Hemisphere (geographic)
+- **Temporal:** 2026-04-22T00:00:00Z
+- **Sources:** src_001
 
 > The show will be visible across the globe, with best views in the Northern Hemisphere.
 
-### c_004 — confirmed, single source
-**Subject entities:** crescent moon; Lyrid meteor shower
-**Predicate:** non-interference
-**Object:** moon sets before peak (astronomical_event)
-**Temporal:** 2026-04-22T00:00:00Z
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** crescent moon; Lyrid meteor shower
+- **Predicate:** non-interference
+- **Object:** moon sets before peak (astronomical_event)
+- **Temporal:** 2026-04-22T00:00:00Z
+- **Sources:** src_001
 
 > The crescent moon will set before the Lyrid shower peaks.
 
-### c_005 — confirmed, single source
-**Subject entities:** meteor showers; Earth
-**Predicate:** mechanism
-**Object:** Earth passes through debris trails (physical_process)
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** meteor showers; Earth
+- **Predicate:** mechanism
+- **Object:** Earth passes through debris trails (physical_process)
+- **Sources:** src_001
 
 > Meteor showers occur when Earth passes through debris trails left by space rocks.
 
-### c_006 — confirmed, single source
-**Subject entities:** debris particles; atmosphere
-**Predicate:** heating_mechanism
-**Object:** heating produces fiery streaks (physical_process)
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** debris particles; atmosphere
+- **Predicate:** heating_mechanism
+- **Object:** heating produces fiery streaks (physical_process)
+- **Sources:** src_001
 
 > Debris particles heat up entering the atmosphere, producing fiery streaks called shooting stars.
 
-### c_007 — confirmed, single source
-**Subject entities:** Lyrids; Comet Thatcher
-**Predicate:** source
-**Object:** Comet Thatcher (celestial_object)
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Lyrids; Comet Thatcher
+- **Predicate:** source
+- **Object:** Comet Thatcher (celestial_object)
+- **Sources:** src_001
 
 > The Lyrids are debris remnants from comet Thatcher.
 
-### c_008 — attributed, single source
-**Subject entities:** Comet Thatcher
-**Predicate:** orbital_period
-**Object:** 415 years (temporal_duration)
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Comet Thatcher
+- **Predicate:** orbital_period
+- **Object:** 415 years (temporal_duration)
+- **Sources:** src_001
 
 > Comet Thatcher returns to the inner solar system once every 415 years.
 
-### c_009 — confirmed, single source
-**Subject entities:** Lyrids
-**Predicate:** age_ranking
-**Object:** one of the oldest recorded (descriptor)
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Lyrids
+- **Predicate:** age_ranking
+- **Object:** one of the oldest recorded (descriptor)
+- **Sources:** src_001
 
 > The Lyrids are one of the oldest recorded meteor showers.
 
-### c_010 — confirmed, single source
-**Subject entities:** Lyrids
-**Predicate:** historical_record
-**Object:** 2,500+ years of recorded sightings (temporal_duration)
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Lyrids
+- **Predicate:** historical_record
+- **Object:** 2,500+ years of recorded sightings (temporal_duration)
+- **Sources:** src_001
 
 > Lyrid meteor shower sightings have been recorded for over 2,500 years.
 
-### c_011 — attributed, single source
-**Subject entities:** skywatchers
-**Predicate:** viewing_location_advice
-**Object:** after midnight, away from buildings and light pollution (instruction)
-**Temporal:** 2026-04-22T00:00:00Z
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** skywatchers
+- **Predicate:** viewing_location_advice
+- **Object:** after midnight, away from buildings and light pollution (instruction)
+- **Temporal:** 2026-04-22T00:00:00Z
+- **Sources:** src_001
 
 > Skywatchers should go outside after midnight and away from tall buildings and city lights to view the shower.
 
-### c_012 — confirmed, single source
-**Subject entities:** human vision
-**Predicate:** adaptation_time
-**Object:** 15-30 minutes (temporal_duration)
-**Source IDs:** src_001
+### c_012
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** human vision
+- **Predicate:** adaptation_time
+- **Object:** 15-30 minutes (temporal_duration)
+- **Sources:** src_001
 
 > Eyes require 15 to 30 minutes to adjust to the nighttime sky.
 
-### c_013 — confirmed, single source
-**Subject entities:** meteors; Lyra
-**Predicate:** radiant_point
-**Object:** constellation Lyra, northeastern sky (celestial_location)
-**Temporal:** 2026-04-22T00:00:00Z
-**Source IDs:** src_001
+### c_013
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** meteors; Lyra
+- **Predicate:** radiant_point
+- **Object:** constellation Lyra, northeastern sky (celestial_location)
+- **Temporal:** 2026-04-22T00:00:00Z
+- **Sources:** src_001
 
 > Meteors appear to come from the constellation Lyra in the northeastern sky.
 
-### c_014 — attributed, single source
-**Subject entities:** Eta Aquarids meteor shower
-**Predicate:** arrival_time
-**Object:** early May (temporal)
-**Temporal:** 2026-05-01T00:00:00Z
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Eta Aquarids meteor shower
+- **Predicate:** arrival_time
+- **Object:** early May (temporal)
+- **Temporal:** 2026-05-01T00:00:00Z
+- **Sources:** src_001
 
 > The Eta Aquarids, the next major meteor shower, arrive in early May.
 
-### c_015 — confirmed, single source
-**Subject entities:** Eta Aquarids; Halley's Comet
-**Predicate:** source
-**Object:** Halley's Comet (celestial_object)
-**Source IDs:** src_001
+### c_015
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Eta Aquarids; Halley's Comet
+- **Predicate:** source
+- **Object:** Halley's Comet (celestial_object)
+- **Sources:** src_001
 
 > The Eta Aquarids are debris from Halley's comet.
 
@@ -227,10 +259,5 @@ The next major meteor shower arrives in early May: the Eta Aquarids, which are d
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Adithi Ramakrishnan
 **Publication date:** 2026-04-18
-**Access date:** 2026-04-18
 **Title:** Where and when to see the Lyrid meteor shower peak
 **URL:** https://apnews.com/article/lyrid-meteor-shower-april-2026-6ee128bd19dabb929c49954d09195496
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -21,44 +21,40 @@ primary_themes:
 - air pollution
 - regulatory rollback
 topic_tags:
-  - "crime, law and justice"
-  - government
-  - "law enforcement"
-  - "political dissent"
-  - "science and technology"
-  - trial
+- environment
+- pollution
+- government policy
+- judiciary
 storyline_nexus:
-  - us-administration-2026
-geographic_location: 'United States (eight states: Alabama, Arizona, Kentucky, Minnesota, Mississippi, Nevada, New Mexico, Tennessee)'
+- trump-climate-energy-rollbacks
+geographic_location: United States
 floor_values_engaged:
-- value: accountability_of_power
-  intensity: 0.85
-- value: truthfulness
+- value: human_life_and_dignity
   intensity: 0.9
-- value: informed_citizenship
-  intensity: 0.8
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T14:32:15Z'
+- value: accountability_of_power
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:57:13Z'
 source_cluster_id: cluster_ap_2026-01-29_epa-good-neighbor-ozone-smog-air-polluti
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 15
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 8
-    reported: 4
-    contested: 0
     confirmed: 3
+    alleged: 0
+    contested: 0
+    attributed: 8
+    appears: 0
+    reported: 4
   corroboration:
+    single_source: 13
     primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
     primary_document: 2
-    single_source: 13
     two_independent: 0
 sources:
   count: 1
@@ -73,41 +69,19 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-04-15-epa-proposes-reclassifying-plastic-pyrolysis-potentially-gutting-air-pollution-c
-  relation: related
-  strength: 0.8057
-  confidence: medium
-- slug: 2026-04-17-supreme-court-sends-louisiana-environmental-lawsuit-to-federal-court
-  relation: related
-  strength: 0.7519
-  confidence: medium
-- slug: 2026-03-05-vermont-bill-would-bar-landfill-leachate-from-lake-memphremagog-over-pfas-fears
-  relation: related
-  strength: 0.7407
-  confidence: medium
-- slug: 2026-04-19-trump-opposes-state-ai-regulations-but-republican-lawmakers-push-back
-  relation: related
-  strength: 0.7319
-  confidence: medium
-- slug: 2026-04-15-champlain-valley-of-vermont-proposed-as-federally-recognized-wine-region
-  relation: related
-  strength: 0.7305
-  confidence: medium
-- slug: 2026-01-13-epa-drops-health-benefit-calculations-from-air-pollution-rules-under-trump
-  relation: related
-  strength: 0.8107
-  confidence: medium
-- slug: 2026-05-17-toxic-tijuana-river-sewage-sickens-thousands-in-california
-  relation: related
-  strength: 0.709
-  confidence: medium
-- slug: 2026-04-18-dominican-republic-and-haiti-reopen-airspace-in-may-ending-2-year-closure
-  relation: related
-  strength: 0.7082
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- EPA takes step toward rolling back rule on downwind pollution from smokestacks
+- The Trump administration on Wednesday proposed to approve eight state ozone pollution plans that would eliminate federal oversight of interstate air pollution, the EPA announced.
+- The eight affected states are Alabama, Arizona, Kentucky, Minnesota, Mississippi, Nevada, New Mexico, and Tennessee.
+- The 'good neighbor' rule requires that power plants and other industrial sites not add significantly to air pollution across state lines.
+- The Supreme Court ruled in 2024 that the EPA could not enforce the good neighbor rule.
 
 The Trump administration on Wednesday proposed eliminating federal oversight of interstate air pollution by approving eight states to regulate ozone emissions as they determine appropriate, the Environmental Protection Agency said.
 
@@ -153,138 +127,168 @@ The EPA also indicated that in the near future, it intends to take separate acti
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Trump administration; EPA
-**Predicate:** proposed
-**Object:** approve eight state ozone plans eliminating federal oversight (policy_proposal)
-**Temporal:** 2026-01-28
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Trump administration; EPA
+- **Predicate:** proposed
+- **Object:** approve eight state ozone plans eliminating federal oversight (policy_proposal)
+- **Temporal:** 2026-01-28
+- **Sources:** src_001
 
 > The Trump administration on Wednesday proposed to approve eight state ozone pollution plans that would eliminate federal oversight of interstate air pollution, the EPA announced.
 
-### c_002 — confirmed, single source
-**Subject entities:** eight states
-**Predicate:** are_identified
-**Object:** Alabama, Arizona, Kentucky, Minnesota, Mississippi, Nevada, New Mexico, Tennessee (list_of_states)
-**Temporal:** 2026-01-28
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** eight states
+- **Predicate:** are_identified
+- **Object:** Alabama, Arizona, Kentucky, Minnesota, Mississippi, Nevada, New Mexico, Tennessee (list_of_states)
+- **Temporal:** 2026-01-28
+- **Sources:** src_001
 
 > The eight affected states are Alabama, Arizona, Kentucky, Minnesota, Mississippi, Nevada, New Mexico, and Tennessee.
 
-### c_003 — confirmed, primary document
-**Subject entities:** good neighbor rule
-**Predicate:** requires
-**Object:** power plants and industrial sites not add significantly to air pollution across state lines (policy_requirement)
-**Temporal:** ongoing
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** good neighbor rule
+- **Predicate:** requires
+- **Object:** power plants and industrial sites not add significantly to air pollution across state lines (policy_requirement)
+- **Temporal:** ongoing
+- **Sources:** src_001
 
 > The 'good neighbor' rule requires that power plants and other industrial sites not add significantly to air pollution across state lines.
 
-### c_004 — confirmed, primary document
-**Subject entities:** Supreme Court
-**Predicate:** ruled
-**Object:** EPA could not enforce good neighbor rule (legal_decision)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Supreme Court
+- **Predicate:** ruled
+- **Object:** EPA could not enforce good neighbor rule (legal_decision)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > The Supreme Court ruled in 2024 that the EPA could not enforce the good neighbor rule.
 
-### c_005 — attributed, single source
-**Subject entities:** Biden administration EPA
-**Predicate:** disapproved
-**Object:** ozone pollution plans submitted by eight states (regulatory_action)
-**Temporal:** Biden administration
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Biden administration EPA
+- **Predicate:** disapproved
+- **Object:** ozone pollution plans submitted by eight states (regulatory_action)
+- **Temporal:** Biden administration
+- **Sources:** src_001
 
 > Under the Biden administration, the EPA disapproved or proposed disapproval of ozone plans submitted by all eight states.
 
-### c_006 — attributed, single source
-**Subject entities:** Biden-era EPA
-**Predicate:** said
-**Object:** eight states' ozone plans did not sufficiently control emissions traveling across state lines (regulatory_assessment)
-**Temporal:** Biden administration
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Biden-era EPA
+- **Predicate:** said
+- **Object:** eight states' ozone plans did not sufficiently control emissions traveling across state lines (regulatory_assessment)
+- **Temporal:** Biden administration
+- **Sources:** src_001
 
 > The Biden-era EPA said the eight states' plans did not sufficiently control ozone emissions traveling across state lines.
 
-### c_007 — attributed, single source
-**Subject entities:** Lee Zeldin; Trump administration
-**Predicate:** said
-**Object:** committed to cooperative federalism allowing states to decide air pollution goals (quoted_statement)
-**Temporal:** 2026-01-28
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Lee Zeldin; Trump administration
+- **Predicate:** said
+- **Object:** committed to cooperative federalism allowing states to decide air pollution goals (quoted_statement)
+- **Temporal:** 2026-01-28
+- **Sources:** src_001
 
 > EPA Administrator Lee Zeldin said the Trump administration is committed to 'cooperative federalism' allowing states to decide how to attain air pollution goals.
 
-### c_008 — attributed, single source
-**Subject entities:** Lee Zeldin
-**Predicate:** said
-**Object:** Biden approach was heavy-handed one-size-fits-all federal mandate treating states unfairly (quoted_criticism)
-**Temporal:** 2026-01-28
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Lee Zeldin
+- **Predicate:** said
+- **Object:** Biden approach was heavy-handed one-size-fits-all federal mandate treating states unfairly (quoted_criticism)
+- **Temporal:** 2026-01-28
+- **Sources:** src_001
 
 > Zeldin said the Biden approach represented a 'heavy-handed, one-size-fits-all, federal mandate' that unfairly treated state partners.
 
-### c_009 — attributed, single source
-**Subject entities:** EPA
-**Predicate:** proposed
-**Object:** eight state plans have adequate data and states not interfering with ozone attainment standards (regulatory_finding)
-**Temporal:** 2026-01-28
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** EPA
+- **Predicate:** proposed
+- **Object:** eight state plans have adequate data and states not interfering with ozone attainment standards (regulatory_finding)
+- **Temporal:** 2026-01-28
+- **Sources:** src_001
 
 > The EPA proposed finding that the eight state plans have adequate data demonstrating the states are not interfering with ozone attainment required by National Ambient Air Quality Standards.
 
-### c_010 — reported, single source
-**Subject entities:** EPA
-**Predicate:** indicated_intent
-**Object:** withdraw proposed error corrections for Iowa and Kansas ozone plans (regulatory_action)
-**Temporal:** near future
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** EPA
+- **Predicate:** indicated_intent
+- **Object:** withdraw proposed error corrections for Iowa and Kansas ozone plans (regulatory_action)
+- **Temporal:** near future
+- **Sources:** src_001
 
 > The EPA indicated intent to withdraw proposed error corrections for ozone plans submitted by Iowa and Kansas.
 
-### c_011 — reported, single source
-**Subject entities:** EPA
-**Predicate:** intends
-**Object:** take separate action addressing interstate transport obligations for remaining states (regulatory_action)
-**Temporal:** near future
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** EPA
+- **Predicate:** intends
+- **Object:** take separate action addressing interstate transport obligations for remaining states (regulatory_action)
+- **Temporal:** near future
+- **Sources:** src_001
 
 > The EPA intends in the near future to take separate action to address 'interstate transport' obligations for the remaining states covered in the final Biden-era 'Good Neighbor Plan.'
 
-### c_012 — reported, single source
-**Subject entities:** EPA
-**Predicate:** will_accept
-**Object:** public comment for at least 30 days after Federal Register publication (regulatory_process)
-**Temporal:** future
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** EPA
+- **Predicate:** will_accept
+- **Object:** public comment for at least 30 days after Federal Register publication (regulatory_process)
+- **Temporal:** future
+- **Sources:** src_001
 
 > The EPA will accept public comment for at least 30 days after the rule is published in the Federal Register.
 
-### c_013 — attributed, single source
-**Subject entities:** Zachary Fabish; Sierra Club; Trump administration; Lee Zeldin
-**Predicate:** said
-**Object:** Trump and Zeldin protecting coal plants and industrial polluters over clean air protections (quoted_criticism)
-**Temporal:** 2026-01-28
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Zachary Fabish; Sierra Club; Trump administration; Lee Zeldin
+- **Predicate:** said
+- **Object:** Trump and Zeldin protecting coal plants and industrial polluters over clean air protections (quoted_criticism)
+- **Temporal:** 2026-01-28
+- **Sources:** src_001
 
 > Zachary Fabish, a Sierra Club lawyer, said the Trump administration and Zeldin are choosing to protect coal plants and industrial polluters over clean air protections addressing interstate pollution.
 
-### c_014 — attributed, single source
-**Subject entities:** Zachary Fabish
-**Predicate:** said
-**Object:** letting states avoid obligations while pollution harms neighbors increases health costs and energy prices (quoted_assessment)
-**Temporal:** 2026-01-28
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Zachary Fabish
+- **Predicate:** said
+- **Object:** letting states avoid obligations while pollution harms neighbors increases health costs and energy prices (quoted_assessment)
+- **Temporal:** 2026-01-28
+- **Sources:** src_001
 
 > Fabish said letting states off the hook while their pollution continues harming air quality in neighboring states will make Americans sicker and pay more for energy.
 
-### c_015 — reported, single source
-**Subject entities:** Midwest industrial states; East Coast states
-**Predicate:** reaches
-**Object:** pollution from Indiana and Ohio reaches Connecticut and Delaware (atmospheric_pattern)
-**Temporal:** ongoing
-**Source IDs:** src_001
+### c_015
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Midwest industrial states; East Coast states
+- **Predicate:** reaches
+- **Object:** pollution from Indiana and Ohio reaches Connecticut and Delaware (atmospheric_pattern)
+- **Temporal:** ongoing
+- **Sources:** src_001
 
 > Air pollution from heavily industrialized Midwest states such as Indiana and Ohio frequently reaches East Coast states such as Connecticut and Delaware.
 
@@ -293,10 +297,5 @@ The EPA also indicated that in the near future, it intends to take separate acti
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Matthew Daly
 **Publication date:** 2026-01-28
-**Access date:** 2026-05-18
 **Title:** EPA takes step toward rolling back rule on downwind pollution from smokestacks
 **URL:** https://apnews.com/article/epa-good-neighbor-ozone-smog-air-pollution-9d6a4c30a5efbe6ab0133c2e374a77aa
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

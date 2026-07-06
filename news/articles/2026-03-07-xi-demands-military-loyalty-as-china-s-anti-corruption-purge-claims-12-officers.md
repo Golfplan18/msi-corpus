@@ -21,9 +21,7 @@ topic_tags:
   - "law enforcement"
   - corruption
   - "conflict, war and peace"
-storyline_nexus:
-  - immigration-enforcement
-  - ai-regulation
+storyline_nexus: []
 geographic_location: Beijing, China
 floor_values_engaged:
 - value: accountability_of_power
@@ -179,7 +177,3 @@ Chinese leaders this week also announced a 7% growth in the defense budget for 2
 **Access date:** 2026-03-07
 **Title:** China's Xi calls for political loyalty in the military as anti-corruption purge widens
 **URL:** https://apnews.com/article/china-congress-military-purge-jinping-1f13700eec749f9476810a878368a62a
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

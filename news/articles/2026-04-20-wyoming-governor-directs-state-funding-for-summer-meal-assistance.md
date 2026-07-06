@@ -21,43 +21,41 @@ primary_themes:
 - executive action
 - legislative conflict
 topic_tags:
-  - "artificial intelligence"
-  - "crime, law and justice"
-  - education
-  - government
-  - "government policy"
-  - "law enforcement"
-storyline_nexus: []
-geographic_location: Wyoming, United States
+- government
+- government policy
+- welfare
+- public health
+- education policy
+storyline_nexus:
+- snap-safety-net-cuts
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
-  intensity: 0.95
+  intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.75
-- value: informed_citizenship
   intensity: 0.6
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T00:00:00Z'
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:47:12Z'
 source_cluster_id: cluster_ap_2026-04-21_wyoming-governor-executive-order-summer-
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 20
   hedges:
+    attributed: 9
+    confirmed: 2
+    contested: 0
     appears: 0
     alleged: 0
-    attributed: 9
     reported: 9
-    contested: 0
-    confirmed: 2
   corroboration:
     primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 2
     single_source: 18
+    one_originating_plus_primary_document: 0
     two_independent: 0
 sources:
   count: 1
@@ -72,41 +70,20 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-05-17-eight-gop-governors-push-turning-point-clubs-into-all-public-high-schools
-  relation: related
-  strength: 0.7289
-  confidence: medium
-- slug: 2026-04-17-tennessee-senate-votes-18-14-to-expand-school-vouchers-to-35-000
-  relation: related
-  strength: 0.7348
-  confidence: medium
-- slug: 2026-01-07-nevada-seeks-snap-waiver-to-ban-sugary-drinks-and-candy-for-food-aid-recipients
-  relation: related
-  strength: 0.7772
-  confidence: medium
-- slug: 2026-01-07-education-dept-grants-iowa-first-in-nation-block-grant-waiver-for-school-funds
-  relation: related
-  strength: 0.772
-  confidence: medium
-- slug: 2026-01-05-mississippi-holds-156m-unspent-as-19-000-families-wait-for-child-care-vouchers
-  relation: related
-  strength: 0.7717
-  confidence: medium
-- slug: 2026-01-13-hochul-s-state-of-the-state-pitches-affordability-agenda-to-unite-divided-democr
-  relation: related
-  strength: 0.7475
-  confidence: medium
-- slug: 2026-01-10-judge-blocks-trump-child-care-funding-freeze-for-five-democratic-states
-  relation: related
-  strength: 0.751
-  confidence: medium
-- slug: 2026-01-07-trump-child-care-funding-freeze-rattles-providers-and-families-in-five-states
-  relation: related
-  strength: 0.7502
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Executive order ensures summer food assistance for Wyoming kids
+- Citing a “vital” need for healthy meals all year round, Gov. Mark Gordon on Wednesday announced one-time funding secured to implement SUN Bucks in Wyoming this summer.
+- “While the Legislature was unwilling to make sure our young children get food throughout the summer months,” Gordon said, “we have stepped up to ensure it happens.”
+- The governor signed Executive Order 2026-02, which directs the Department of Family Services to develop and implement a Wyoming SUN Bucks program starting in June.
+- Supporters, meanwhile, say it can add one more layer of crucial support for hungry children in a state where one in six people experience food insecurity.
+- Degenfelder, however, said she preferred to improve Wyoming’s existing program rather than sign on.
 
 Gov. Mark Gordon signed an executive order Wednesday directing the state to implement a federal summer meal assistance program for Wyoming children, moving unilaterally after the legislature rejected the initiative three times in as many years.
 
@@ -152,183 +129,223 @@ The SUN Bucks program operates in 38 states. The federal program requires partic
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Mark Gordon; Executive Order 2026-02
-**Predicate:** signed_directing_implementation
-**Object:** SUN Bucks program implementation (executive_action)
-**Temporal:** 2026-04-19
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Mark Gordon; Executive Order 2026-02
+- **Predicate:** signed_directing_implementation
+- **Object:** SUN Bucks program implementation (executive_action)
+- **Temporal:** 2026-04-19
+- **Sources:** src_001
 
 > Gov. Mark Gordon signed Executive Order 2026-02 directing implementation of the SUN Bucks program.
 
-### c_002 — attributed, single source
-**Subject entities:** Wyoming Department of Family Services; SUN Bucks program
-**Predicate:** directed_to_implement
-**Object:** SUN Bucks program implementation by June (directive)
-**Temporal:** 2026-04-19
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Wyoming Department of Family Services; SUN Bucks program
+- **Predicate:** directed_to_implement
+- **Object:** SUN Bucks program implementation by June (directive)
+- **Temporal:** 2026-04-19
+- **Sources:** src_001
 
 > The order directs the Wyoming Department of Family Services to develop and implement the SUN Bucks program starting in June.
 
-### c_003 — confirmed, primary document
-**Subject entities:** SUN Bucks program; eligible children
-**Predicate:** provides_benefit
-**Object:** $120 per child for three months (monetary_benefit)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** SUN Bucks program; eligible children
+- **Predicate:** provides_benefit
+- **Object:** $120 per child for three months (monetary_benefit)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > The federal SUN Bucks program provides $120 per eligible child to purchase groceries during the three-month summer period.
 
-### c_004 — reported, single source
-**Subject entities:** Wyoming; SUN Bucks program
-**Predicate:** did_not_participate
-**Object:** non-participation in SUN Bucks (state_action)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Wyoming; SUN Bucks program
+- **Predicate:** did_not_participate
+- **Object:** non-participation in SUN Bucks (state_action)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > Wyoming did not participate in the SUN Bucks program in 2024.
 
-### c_005 — reported, single source
-**Subject entities:** Wyoming Legislature; SUN Bucks bill
-**Predicate:** killed_legislation
-**Object:** rejection of SUN Bucks participation bill (legislative_action)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Wyoming Legislature; SUN Bucks bill
+- **Predicate:** killed_legislation
+- **Object:** rejection of SUN Bucks participation bill (legislative_action)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > The Wyoming Legislature killed a bill in 2025 that would have signed up the state for the SUN Bucks program.
 
-### c_006 — reported, single source
-**Subject entities:** Wyoming Legislature; Mark Gordon
-**Predicate:** declined_budget_request
-**Object:** $1.8 million budget request for SUN Bucks administration (budget_action)
-**Temporal:** 2026-03
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Wyoming Legislature; Mark Gordon
+- **Predicate:** declined_budget_request
+- **Object:** $1.8 million budget request for SUN Bucks administration (budget_action)
+- **Temporal:** 2026-03
+- **Sources:** src_001
 
 > In March 2026, Wyoming lawmakers declined a $1.8 million budget request from the governor for SUN Bucks administration.
 
-### c_007 — attributed, single source
-**Subject entities:** Wyoming children; food insecurity
-**Predicate:** experience
-**Object:** 35,000 children facing summer food insecurity (demographic_statistic)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Wyoming children; food insecurity
+- **Predicate:** experience
+- **Object:** 35,000 children facing summer food insecurity (demographic_statistic)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Approximately 35,000 Wyoming school-aged children face food insecurity during summer months.
 
-### c_008 — reported, single source
-**Subject entities:** Wyoming residents; food insecurity
-**Predicate:** experience
-**Object:** one in six residents with food insecurity (demographic_statistic)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Wyoming residents; food insecurity
+- **Predicate:** experience
+- **Object:** one in six residents with food insecurity (demographic_statistic)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > One in six Wyoming residents experience food insecurity.
 
-### c_009 — attributed, single source
-**Subject entities:** SUN Bucks program; Wyoming counties
-**Predicate:** reach
-**Object:** all 23 Wyoming counties (geographic_scope)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** SUN Bucks program; Wyoming counties
+- **Predicate:** reach
+- **Object:** all 23 Wyoming counties (geographic_scope)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > The SUN Bucks program will be implemented to reach all 23 of Wyoming's counties.
 
-### c_010 — attributed, single source
-**Subject entities:** SUN Bucks program
-**Predicate:** operates
-**Object:** June through August (temporal_scope)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** SUN Bucks program
+- **Predicate:** operates
+- **Object:** June through August (temporal_scope)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > The SUN Bucks program will run from June through August.
 
-### c_011 — attributed, single source
-**Subject entities:** Megan Degenfelder
-**Predicate:** stated_preference
-**Object:** preference for existing programs over SUN Bucks (stated_position)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Megan Degenfelder
+- **Predicate:** stated_preference
+- **Object:** preference for existing programs over SUN Bucks (stated_position)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > Megan Degenfelder, Wyoming Superintendent of Public Instruction, said in 2024 that she preferred to improve Wyoming's existing summer meal programs rather than sign on to SUN Bucks.
 
-### c_012 — attributed, single source
-**Subject entities:** Megan Degenfelder; Biden administration
-**Predicate:** stated
-**Object:** criticism of SUN Bucks as weaponization of lunch programs (direct_quote)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Megan Degenfelder; Biden administration
+- **Predicate:** stated
+- **Object:** criticism of SUN Bucks as weaponization of lunch programs (direct_quote)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > Degenfelder said in 2024: 'I will not let the Biden administration weaponize summer school lunch programs to justify a new welfare program.'
 
-### c_013 — reported, single source
-**Subject entities:** Wyoming Freedom Caucus
-**Predicate:** opposed
-**Object:** opposition to SUN Bucks (legislative_position)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_013
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Wyoming Freedom Caucus
+- **Predicate:** opposed
+- **Object:** opposition to SUN Bucks (legislative_position)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Wyoming Freedom Caucus lawmakers opposed the SUN Bucks program.
 
-### c_014 — attributed, single source
-**Subject entities:** Scott Smith
-**Predicate:** stated_position
-**Object:** concern about government role and entitlement expansion (legislative_position)
-**Temporal:** 2026-02
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Scott Smith
+- **Predicate:** stated_position
+- **Object:** concern about government role and entitlement expansion (legislative_position)
+- **Temporal:** 2026-02
+- **Sources:** src_001
 
 > Rep. Scott Smith, R-Lingle, questioned the role of government in providing assistance and warned about consequences of entitlements growing too generous.
 
-### c_015 — reported, single source
-**Subject entities:** Jennie Gordon; Wyoming Hunger Initiative
-**Predicate:** prioritized
-**Object:** food security through Wyoming Hunger Initiative (policy_priority)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_015
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Jennie Gordon; Wyoming Hunger Initiative
+- **Predicate:** prioritized
+- **Object:** food security through Wyoming Hunger Initiative (policy_priority)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > First Lady Jennie Gordon made food security a top priority through the Wyoming Hunger Initiative.
 
-### c_016 — attributed, single source
-**Subject entities:** Wyoming; Summer Food Service program
-**Predicate:** operates
-**Object:** 88 summer meal sites in 32 communities, 18 counties (program_metric)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_016
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Wyoming; Summer Food Service program
+- **Predicate:** operates
+- **Object:** 88 summer meal sites in 32 communities, 18 counties (program_metric)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Wyoming operates 88 summer meal sites in 32 communities across 18 of the state's 23 counties under the Summer Food Service program.
 
-### c_017 — reported, single source
-**Subject entities:** Wyoming Summer Food Service Program
-**Predicate:** has_limited_reach
-**Object:** limited reach due to distance and schedule factors (program_limitation)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_017
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Wyoming Summer Food Service Program
+- **Predicate:** has_limited_reach
+- **Object:** limited reach due to distance and schedule factors (program_limitation)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > The reach of Wyoming's Summer Food Service Program is limited due to distance, working parents' schedules, and other factors.
 
-### c_018 — reported, single source
-**Subject entities:** SUN Bucks program
-**Predicate:** operates
-**Object:** 38 states (geographic_distribution)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_018
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** SUN Bucks program
+- **Predicate:** operates
+- **Object:** 38 states (geographic_distribution)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > The SUN Bucks program operates in 38 states.
 
-### c_019 — confirmed, primary document
-**Subject entities:** SUN Bucks program; states
-**Predicate:** requires_cost_share
-**Object:** 50% state administrative cost share (program_requirement)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_019
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** SUN Bucks program; states
+- **Predicate:** requires_cost_share
+- **Object:** 50% state administrative cost share (program_requirement)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > The federal SUN Bucks program requires states to pay 50 percent of administrative costs.
 
-### c_020 — reported, single source
-**Subject entities:** USDA; summer electronic benefit transfers
-**Predicate:** evaluated
-**Object:** one-third reduction in child very low food security, improved diet quality (research_finding)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_020
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** USDA; summer electronic benefit transfers
+- **Predicate:** evaluated
+- **Object:** one-third reduction in child very low food security, improved diet quality (research_finding)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > USDA evaluations found that summer electronic benefit transfers reduce child hunger and improve diet quality, decreasing very low food security by about one-third.
 
@@ -337,10 +354,5 @@ The SUN Bucks program operates in 38 states. The federal program requires partic
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Katie Klingsporn / Wyofile
 **Publication date:** 2026-04-20
-**Access date:** 2026-05-17
 **Title:** Executive order ensures summer food assistance for Wyoming kids
 **URL:** https://apnews.com/article/wyoming-governor-executive-order-summer-food-program-ef4779db3da082ddabd7099a0f4b3b23
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

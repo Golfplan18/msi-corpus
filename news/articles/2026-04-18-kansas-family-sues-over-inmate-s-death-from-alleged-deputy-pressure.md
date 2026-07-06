@@ -19,7 +19,8 @@ topic_tags:
   - "civil rights"
   - "crime, law and justice"
   - "law enforcement"
-storyline_nexus: []
+storyline_nexus:
+- us-immigration-enforcement
 geographic_location: Wyandotte County, Kansas, United States
 floor_values_engaged:
 - value: accountability_of_power
@@ -110,124 +111,148 @@ The lawsuit also alleged that Fatherley, who is on administrative leave and free
 
 Deputy Richard Fatherley was charged with second-degree murder in Adair's death and remains on administrative leave and free on bond pending trial. His attorney, James Spies, characterized Adair's death as "a tragic accident" that did not result from Fatherley's actions. A criminal status conference is scheduled for next month as the case moves forward.
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Charles Adair; Adair family; Wyandotte County Sheriff's Office
-**Predicate:** filed_lawsuit
-**Object:** wrongful death lawsuit (legal_filing)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Charles Adair; Adair family; Wyandotte County Sheriff's Office
+- **Predicate:** filed_lawsuit
+- **Object:** wrongful death lawsuit (legal_filing)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > Charles Adair's family filed a federal wrongful death lawsuit over his death in Kansas jail custody.
 
-### c_002 — alleged, primary document
-**Subject entities:** Richard Fatherley; Charles Adair
-**Predicate:** applied_force
-**Object:** knee pressure applied for 1:26 to back of cuffed individual (alleged_restraint_technique)
-**Temporal:** 2025-07
-**Source IDs:** src_001
+### c_002
+- **Hedge:** alleged
+- **Corroboration:** primary_document
+- **Subject entities:** Richard Fatherley; Charles Adair
+- **Predicate:** applied_force
+- **Object:** knee pressure applied for 1:26 to back of cuffed individual (alleged_restraint_technique)
+- **Temporal:** 2025-07
+- **Sources:** src_001
 
 > Deputy Richard Fatherley allegedly knelt on Charles Adair's back for one minute and 26 seconds while Adair was handcuffed in his cell.
 
-### c_003 — confirmed, primary document
-**Subject entities:** Richard Fatherley; Charles Adair
-**Predicate:** charged_with
-**Object:** second-degree murder (criminal_charge)
-**Temporal:** 2025-08
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Richard Fatherley; Charles Adair
+- **Predicate:** charged_with
+- **Object:** second-degree murder (criminal_charge)
+- **Temporal:** 2025-08
+- **Sources:** src_001
 
 > Richard Fatherley was charged with second-degree murder in Charles Adair's death.
 
-### c_004 — confirmed, primary document
-**Subject entities:** Charles Adair
-**Predicate:** arrested_on
-**Object:** misdemeanor warrants for failure to appear (criminal_warrant)
-**Temporal:** 2025-07
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Charles Adair
+- **Predicate:** arrested_on
+- **Object:** misdemeanor warrants for failure to appear (criminal_warrant)
+- **Temporal:** 2025-07
+- **Sources:** src_001
 
 > Charles Adair was arrested in July 2025 on misdemeanor warrants for failure to appear on multiple traffic violations.
 
-### c_005 — confirmed, primary document
-**Subject entities:** Charles Adair
-**Predicate:** had_medical_conditions
-**Object:** severe leg infection requiring amputation, bone infection, schizophrenia diagnosis (medical_status)
-**Temporal:** 2025-07
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Charles Adair
+- **Predicate:** had_medical_conditions
+- **Object:** severe leg infection requiring amputation, bone infection, schizophrenia diagnosis (medical_status)
+- **Temporal:** 2025-07
+- **Sources:** src_001
 
 > At the time of arrest, Charles Adair's leg required amputation and was severely infected; he was diagnosed with a bone infection associated with diabetes and schizophrenia.
 
-### c_006 — reported, primary document
-**Subject entities:** Charles Adair; corrections_staff
-**Predicate:** restrained_and_called_for_help
-**Object:** placed prone on bunk, called for assistance multiple times (custody_incident)
-**Temporal:** 2025-07
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Charles Adair; corrections_staff
+- **Predicate:** restrained_and_called_for_help
+- **Object:** placed prone on bunk, called for assistance multiple times (custody_incident)
+- **Temporal:** 2025-07
+- **Sources:** src_001
 
 > After Adair threw himself out of his wheelchair, he was placed on his stomach on the bottom bunk with his legs and knees on the ground and repeatedly yelled for help.
 
-### c_007 — reported, primary document
-**Subject entities:** Richard Fatherley; Charles Adair; corrections_staff
-**Predicate:** applied_pressure_and_removed_cuffs
-**Object:** body weight applied during compliance, simultaneous handcuff removal (restraint_sequence)
-**Temporal:** 2025-07
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Richard Fatherley; Charles Adair; corrections_staff
+- **Predicate:** applied_pressure_and_removed_cuffs
+- **Object:** body weight applied during compliance, simultaneous handcuff removal (restraint_sequence)
+- **Temporal:** 2025-07
+- **Sources:** src_001
 
 > While Adair was complying with commands, Fatherley pressed his body weight onto Adair's back, and other deputies removed Adair's handcuffs while Fatherley shifted his weight forward.
 
-### c_008 — reported, primary document
-**Subject entities:** corrections_staff
-**Predicate:** failed_to_intervene_or_adapt
-**Object:** no intervention, no tactical adjustment for documented mental health condition (alleged_policy_failure)
-**Temporal:** 2025-07
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** corrections_staff
+- **Predicate:** failed_to_intervene_or_adapt
+- **Object:** no intervention, no tactical adjustment for documented mental health condition (alleged_policy_failure)
+- **Temporal:** 2025-07
+- **Sources:** src_001
 
 > Other deputies present at the scene did not intervene and deputies failed to modify their tactics to account for Adair's apparent mental health impairment.
 
-### c_009 — confirmed, primary document
-**Subject entities:** Ben Crump; Harry Daniels; Wyandotte County Sheriff's Office
-**Predicate:** viewed_and_withheld_video
-**Object:** custody video from incident (evidence_material)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Ben Crump; Harry Daniels; Wyandotte County Sheriff's Office
+- **Predicate:** viewed_and_withheld_video
+- **Object:** custody video from incident (evidence_material)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > Civil rights attorneys Ben Crump and Harry Daniels have viewed the custody video but the Wyandotte County Sheriff's Office declined to release it to the public or to the Associated Press.
 
-### c_010 — confirmed, primary document
-**Subject entities:** Richard Fatherley; Wyandotte County Sheriff's Office
-**Predicate:** retained_email_access_until_deactivation
-**Object:** email access retained from charge date until April 13, 2026 (administrative_procedure)
-**Temporal:** 2026-04-13
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Richard Fatherley; Wyandotte County Sheriff's Office
+- **Predicate:** retained_email_access_until_deactivation
+- **Object:** email access retained from charge date until April 13, 2026 (administrative_procedure)
+- **Temporal:** 2026-04-13
+- **Sources:** src_001
 
 > Deputy Fatherley's email was not deactivated by the sheriff's office until April 13, after the lawsuit was filed, which allowed him to communicate with other deputies and known witnesses.
 
-### c_011 — confirmed, primary document
-**Subject entities:** Richard Fatherley
-**Predicate:** status_pending_trial
-**Object:** administrative leave, released on bond (pretrial_status)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_011
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Richard Fatherley
+- **Predicate:** status_pending_trial
+- **Object:** administrative leave, released on bond (pretrial_status)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > Richard Fatherley remains on administrative leave and free on bond pending trial.
 
-### c_012 — attributed, single source
-**Subject entities:** James Spies; Richard Fatherley
-**Predicate:** disputed_causation
-**Object:** characterized as tragic accident without defendant responsibility (defense_position)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** James Spies; Richard Fatherley
+- **Predicate:** disputed_causation
+- **Object:** characterized as tragic accident without defendant responsibility (defense_position)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > Fatherley's attorney James Spies characterized Adair's death as a tragic accident not resulting from Fatherley's actions.
 
-### c_013 — confirmed, primary document
-**Subject entities:** Richard Fatherley
-**Predicate:** has_scheduled_hearing
-**Object:** status conference (court_proceeding)
-**Temporal:** 2026-05
-**Source IDs:** src_001
+### c_013
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Richard Fatherley
+- **Predicate:** has_scheduled_hearing
+- **Object:** status conference (court_proceeding)
+- **Temporal:** 2026-05
+- **Sources:** src_001
 
 > A status conference in the criminal case against Fatherley is scheduled for next month.
 
@@ -239,7 +264,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-04-18
 **Title:** Family of cuffed man who died in Kansas files federal lawsuit
 **URL:** https://apnews.com/article/jail-death-kansas-88e46c9024a6181117064c10af042a84
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

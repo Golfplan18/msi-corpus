@@ -295,7 +295,3 @@ Marco Ferrero, professor of civil engineering at Rome's La Sapienza University, 
 **Access date:** 2026-02-19
 **Title:** Travertine quarries that built ancient Rome still carving rock today
 **URL:** https://apnews.com/article/italy-travertine-quarries-st-peters-colosseum-a155527e0f2679645e6e724b92897db5
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

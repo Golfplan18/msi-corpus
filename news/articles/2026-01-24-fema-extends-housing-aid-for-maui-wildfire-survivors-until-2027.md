@@ -18,43 +18,41 @@ primary_themes:
 - wildfire recovery
 - federal aid
 topic_tags:
-  - politics
-  - government
-  - "disaster, accident and emergency incident"
-storyline_nexus: []
-geographic_location: Maui, Hawaii, United States
+- natural disaster
+- government policy
+- disaster, accident and emergency incident
+- welfare
+storyline_nexus:
+- extreme-weather-disasters
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
-  intensity: 0.95
+  intensity: 0.9
 - value: informed_citizenship
-  intensity: 0.85
-- value: accountability_of_power
-  intensity: 0.7
-- value: equality_fairness
-  intensity: 0.65
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T16:42:00Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T04:27:35Z'
 source_cluster_id: cluster_ap_2026-01-25_lahaina-wildfire-fema-housing-450c926654
 gdelt_event_ids: []
-consensus_floor_version: 1.0.0
-publication_mindspec_version: 1.0.0
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 13
   hedges:
     appears: 0
-    alleged: 0
     attributed: 5
     reported: 8
     contested: 0
     confirmed: 0
+    alleged: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 0
-    single_source: 13
     two_independent: 0
+    one_originating_plus_primary_document: 0
+    primary_plus_secondary: 0
+    single_source: 13
+    primary_document: 0
 sources:
   count: 1
   outlets:
@@ -68,33 +66,15 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-04-20-tax-bills-loom-for-wildfire-survivors-accepting-settlement-payouts
-  relation: related
-  strength: 0.8324
-  confidence: medium
-- slug: 2026-01-07-fewer-than-a-dozen-homes-rebuilt-one-year-after-la-wildfires-destroyed-13-000-pr
-  relation: related
-  strength: 0.8424
-  confidence: medium
-- slug: 2026-01-06-los-angeles-wildfires-killed-31-destroyed-16-246-structures-one-year-on-only-10-
-  relation: related
-  strength: 0.8056
-  confidence: medium
-- slug: 2026-01-07-altadena-man-rebuilds-fire-damaged-home-in-four-months-racing-to-return-with-agi
-  relation: related
-  strength: 0.7739
-  confidence: medium
-- slug: 2026-01-04-altadena-nurse-plants-sunflowers-on-fire-razed-lot-rebuilds-home-a-year-after-ea
-  relation: related
-  strength: 0.7884
-  confidence: medium
-- slug: 2026-01-05-lead-and-toxins-persist-in-altadena-homes-a-year-after-la-wildfires
-  relation: related
-  strength: 0.7504
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- US officials extend housing aid for Hawaii wildfire survivors
+- Associated Press reports on developing situation.
 
 U.S. officials have extended federal housing assistance for survivors of catastrophic 2023 wildfires on Maui, granting relief to nearly 1,000 displaced households. The Department of Homeland Security Secretary Kristi Noem approved Hawaii Governor Josh Green's request on Friday to continue Federal Emergency Management Agency temporary housing assistance until February 2027, more than a year longer than previously scheduled.
 
@@ -128,120 +108,146 @@ The extension through February 2027 gives displaced households time to find perm
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** FEMA; Maui wildfire survivors
-**Predicate:** extended_housing_assistance_until
-**Object:** February 2027 (temporal_deadline)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** FEMA; Maui wildfire survivors
+- **Predicate:** extended_housing_assistance_until
+- **Object:** February 2027 (temporal_deadline)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > FEMA extended housing assistance for Maui wildfire survivors until February 2027.
 
-### c_002 — reported, single source
-**Subject entities:** Maui wildfire
-**Predicate:** displaced_households
-**Object:** approximately 1,000 (count)
-**Temporal:** 2023
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Maui wildfire
+- **Predicate:** displaced_households
+- **Object:** approximately 1,000 (count)
+- **Temporal:** 2023
+- **Sources:** src_001
 
 > Nearly 1,000 households were displaced by the 2023 Maui fires.
 
-### c_003 — reported, single source
-**Subject entities:** Lahaina fire; Kula fire
-**Predicate:** destroyed_and_killed
-**Object:** 2,200 structures destroyed; 102 people killed (casualty_and_damage_count)
-**Temporal:** 2023-08
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Lahaina fire; Kula fire
+- **Predicate:** destroyed_and_killed
+- **Object:** 2,200 structures destroyed; 102 people killed (casualty_and_damage_count)
+- **Temporal:** 2023-08
+- **Sources:** src_001
 
 > The Lahaina and Kula fires in August 2023 destroyed 2,200 structures and killed 102 people.
 
-### c_004 — reported, single source
-**Subject entities:** displaced households
-**Predicate:** were_renters
-**Object:** 89% (percentage)
-**Temporal:** 2023
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** displaced households
+- **Predicate:** were_renters
+- **Object:** 89% (percentage)
+- **Temporal:** 2023
+- **Sources:** src_001
 
 > 89% of displaced households were renters at the time of the fires.
 
-### c_005 — reported, single source
-**Subject entities:** FEMA temporary housing assistance
-**Predicate:** scheduled_to_expire
-**Object:** February 2026 (temporal_deadline)
-**Temporal:** 2023
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** FEMA temporary housing assistance
+- **Predicate:** scheduled_to_expire
+- **Object:** February 2026 (temporal_deadline)
+- **Temporal:** 2023
+- **Sources:** src_001
 
 > The original 18-month FEMA program was scheduled to expire in February 2026.
 
-### c_006 — reported, single source
-**Subject entities:** Maui housing stock
-**Predicate:** limited_availability
-**Object:** few homes rebuilt; rental inventory near zero (housing_status)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Maui housing stock
+- **Predicate:** limited_availability
+- **Object:** few homes rebuilt; rental inventory near zero (housing_status)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Few homes have been rebuilt and rental inventory is near zero on Maui.
 
-### c_007 — attributed, single source
-**Subject entities:** Kukui Keahi
-**Predicate:** expressed_relief
-**Object:** lifted a weight; many families carrying same weight (speech_act)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Kukui Keahi
+- **Predicate:** expressed_relief
+- **Object:** lifted a weight; many families carrying same weight (speech_act)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > Kukui Keahi said the extension "lifted a weight I did not even realize I was carrying, and I know many other families were carrying that same weight too."
 
-### c_008 — attributed, single source
-**Subject entities:** Josh Green
-**Predicate:** acknowledged_noem_administration_decision
-**Object:** recovery reality requires extended timeline; appreciates administration recognition (speech_act)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Josh Green
+- **Predicate:** acknowledged_noem_administration_decision
+- **Object:** recovery reality requires extended timeline; appreciates administration recognition (speech_act)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > Governor Green said "Recovery doesn't follow an artificial deadline and I appreciate Secretary Noem and the administration for recognizing the reality families are still facing on the ground here in Hawai'i."
 
-### c_009 — reported, single source
-**Subject entities:** FEMA
-**Predicate:** housed_residents_temporarily
-**Object:** 8,000 residents (count)
-**Temporal:** 2023-08 to 2023-09
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** FEMA
+- **Predicate:** housed_residents_temporarily
+- **Object:** 8,000 residents (count)
+- **Temporal:** 2023-08 to 2023-09
+- **Sources:** src_001
 
 > FEMA initially housed 8,000 residents in hotels and temporary shelters in the weeks following the fires.
 
-### c_010 — reported, single source
-**Subject entities:** Steven Hew
-**Predicate:** rents_subsidized_fema_housing
-**Object:** 52-year-old restaurant cashier; lost multigenerational home (person_profile)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Steven Hew
+- **Predicate:** rents_subsidized_fema_housing
+- **Object:** 52-year-old restaurant cashier; lost multigenerational home (person_profile)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Steven Hew is a 52-year-old restaurant cashier who rents a subsidized apartment from FEMA after the fire burned down his family's multigenerational home.
 
-### c_011 — attributed, single source
-**Subject entities:** Steven Hew
-**Predicate:** expressed_emotional_relief
-**Object:** shaking; emotional response to extension news (speech_act)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Steven Hew
+- **Predicate:** expressed_emotional_relief
+- **Object:** shaking; emotional response to extension news (speech_act)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > Steven Hew said he was "shaking" after hearing the news of the extension.
 
-### c_012 — attributed, single source
-**Subject entities:** affected survivors
-**Predicate:** expressed_fear_about_assistance_expiration
-**Object:** people were on edge and scared about loss of assistance (speech_act)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** affected survivors
+- **Predicate:** expressed_fear_about_assistance_expiration
+- **Object:** people were on edge and scared about loss of assistance (speech_act)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > Steven Hew said "A lot of people were on edge and scared and didn't know what they were going to do" if the assistance was not extended.
 
-### c_013 — reported, single source
-**Subject entities:** Maui
-**Predicate:** presents_unique_housing_challenge
-**Object:** limited stock; remote location makes relocation difficult (comparative_assessment)
-**Temporal:** 2023 to 2026
-**Source IDs:** src_001
+### c_013
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Maui
+- **Predicate:** presents_unique_housing_challenge
+- **Object:** limited stock; remote location makes relocation difficult (comparative_assessment)
+- **Temporal:** 2023 to 2026
+- **Sources:** src_001
 
 > Maui's housing crisis is distinct among U.S. wildfire disasters due to limited housing stock and remote mainland location.
 
@@ -250,10 +256,5 @@ The extension through February 2027 gives displaced households time to find perm
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Gabriela Aoun Angueira
 **Publication date:** 2026-01-24
-**Access date:** 2026-01-24
 **Title:** US officials extend housing aid for Hawaii wildfire survivors
 **URL:** https://apnews.com/article/lahaina-wildfire-fema-housing-450c926654b7744c49d3baccece5002c
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

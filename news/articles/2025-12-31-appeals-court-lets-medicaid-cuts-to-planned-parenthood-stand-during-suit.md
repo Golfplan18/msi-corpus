@@ -21,42 +21,43 @@ primary_themes:
 - federal litigation
 - state funding responses
 topic_tags:
-  - "crime, law and justice"
-  - election
-  - health
-  - politics
-  - trial
-storyline_nexus: []
+- government policy
+- health
+- judiciary
+- civil rights
+- law
+storyline_nexus:
+- abortion-rights-battles
 geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.85
-- value: accountability_of_power
-  intensity: 0.75
 - value: human_life_and_dignity
-  intensity: 0.8
-framework_version: 1.1.0
-generation_timestamp: '2026-05-16T16:45:11Z'
+  intensity: 0.9
+- value: accountability_of_power
+  intensity: 0.6
+- value: equality_fairness
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-22T23:49:33Z'
 source_cluster_id: cluster_ap_2026-01-01_abortion-medicaid-planned-parenthood-cut
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 10
   hedges:
-    appears: 0
+    confirmed: 5
     alleged: 0
-    attributed: 5
     reported: 0
     contested: 0
-    confirmed: 5
+    appears: 0
+    attributed: 5
   corroboration:
     primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 6
     single_source: 4
+    one_originating_plus_primary_document: 0
     two_independent: 0
 sources:
   count: 1
@@ -75,25 +76,19 @@ image:
   url: /articles/2025-12-31-appeals-court-lets-medicaid-cuts-to-planned-parenthood-stand-during-suit.png
   alt: 'Illustration accompanying article: Appeals court lets Medicaid cuts to Planned Parenthood stand during suit'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-08-colorado-ag-expands-lawsuit-labels-trump-funding-cuts-a-revenge-campaign
-  relation: related
-  strength: 0.7717
-  confidence: medium
-- slug: 2026-01-05-judge-allows-hhs-to-resume-limited-medicaid-data-sharing-with-ice
-  relation: related
-  strength: 0.7542
-  confidence: medium
-- slug: 2026-01-01-enhanced-aca-subsidies-expire-raising-average-premiums-114-for-millions
-  relation: related
-  strength: 0.7177
-  confidence: medium
-- slug: 2026-01-07-house-advances-aca-subsidy-extension-overriding-speaker-johnson-in-221-205-vote
-  relation: related
-  strength: 0.693
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- A federal appeals court allowed the Trump administration to withhold Medicaid funding from Planned Parenthood and other abortion providers while litigation challenging the cuts proceeds.
+- The Trump administration enacted legislation in July 2025 that eliminated Medicaid reimbursement for abortion providers receiving more than $800,000 in 2023.
+- A coalition of 21 states and the District of Columbia filed separate lawsuits in Massachusetts to restore Medicaid payments that Planned Parenthood says nearly half its patients rely on for non-abortion care.
+- Maine Family Planning shut down primary care operations at 18 rural clinics in October 2025 after losing Medicaid funding, and withdrew its own lawsuit in December.
+- At least eight states have allocated state funds to replace lost Medicaid payments, including Connecticut's $8.5 million allocation to Planned Parenthood of Southern New England.
 
 A federal appeals court ruled Tuesday that the Trump administration may continue withholding Medicaid funding from Planned Parenthood and other abortion providers while states challenge the cuts in court, delivering a setback to a coalition seeking to restore payments at health centers serving millions of low-income Americans.
 
@@ -135,93 +130,113 @@ Health and Human Services press secretary Emily Hilliard said the department doe
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** appeals court; Trump administration; Planned Parenthood
-**Predicate:** ruled
-**Object:** Medicaid funding cuts may stand during litigation (court_ruling)
-**Temporal:** 2025-12-30
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** appeals court; Trump administration; Planned Parenthood
+- **Predicate:** ruled
+- **Object:** Medicaid funding cuts may stand during litigation (court_ruling)
+- **Temporal:** 2025-12-30
+- **Sources:** src_001
 
 > A federal appeals court ruled Tuesday that the Trump administration may continue withholding Medicaid funding from Planned Parenthood and other abortion providers while lawsuits proceed.
 
-### c_002 — confirmed, primary document
-**Subject entities:** Donald Trump; Planned Parenthood
-**Predicate:** signed_legislation
-**Object:** eliminated Medicaid reimbursement for abortion providers receiving more than $800,000 in 2023 (legislative_action)
-**Temporal:** 2025-07
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Donald Trump; Planned Parenthood
+- **Predicate:** signed_legislation
+- **Object:** eliminated Medicaid reimbursement for abortion providers receiving more than $800,000 in 2023 (legislative_action)
+- **Temporal:** 2025-07
+- **Sources:** src_001
 
 > President Donald Trump signed legislation in July that eliminated Medicaid reimbursement for Planned Parenthood and other abortion providers that received more than $800,000 in 2023.
 
-### c_003 — attributed, primary document
-**Subject entities:** 21 states; District of Columbia; Planned Parenthood
-**Predicate:** filed_lawsuit
-**Object:** challenges to Medicaid funding cuts in Massachusetts federal court (legal_action)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** 21 states; District of Columbia; Planned Parenthood
+- **Predicate:** filed_lawsuit
+- **Object:** challenges to Medicaid funding cuts in Massachusetts federal court (legal_action)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Two lawsuits were filed in Massachusetts — one by 21 states and the District of Columbia, another by Planned Parenthood itself.
 
-### c_004 — confirmed, primary document
-**Subject entities:** federal judge; Planned Parenthood; coalition of states
-**Predicate:** issued_injunction
-**Object:** preliminary injunctions blocking funding cuts (court_order)
-**Temporal:** 2025-07 and 2025-12
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** federal judge; Planned Parenthood; coalition of states
+- **Predicate:** issued_injunction
+- **Object:** preliminary injunctions blocking funding cuts (court_order)
+- **Temporal:** 2025-07 and 2025-12
+- **Sources:** src_001
 
 > A federal judge issued a preliminary injunction siding with Planned Parenthood in July and another siding with the coalition of states in early December.
 
-### c_005 — confirmed, primary document
-**Subject entities:** appeals court
-**Predicate:** overturned_and_stayed
-**Object:** both preliminary injunctions blocking Medicaid funding cuts (court_ruling)
-**Temporal:** 2025-12-12 and 2025-12-30
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** appeals court
+- **Predicate:** overturned_and_stayed
+- **Object:** both preliminary injunctions blocking Medicaid funding cuts (court_ruling)
+- **Temporal:** 2025-12-12 and 2025-12-30
+- **Sources:** src_001
 
 > The appeals court overturned the Planned Parenthood injunction on Dec. 12 and placed the states' injunction on hold Tuesday.
 
-### c_006 — attributed, single source
-**Subject entities:** Maine Family Planning
-**Predicate:** shut_down
-**Object:** primary care operations at 18 rural clinics (organizational_action)
-**Temporal:** 2025-10
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Maine Family Planning
+- **Predicate:** shut_down
+- **Object:** primary care operations at 18 rural clinics (organizational_action)
+- **Temporal:** 2025-10
+- **Sources:** src_001
 
 > Maine Family Planning, which operates 18 clinics in poor and rural areas of Maine, shut down its primary care operations in October due to the loss of Medicaid funding.
 
-### c_007 — confirmed, primary document
-**Subject entities:** Maine Family Planning
-**Predicate:** dismissed
-**Object:** lawsuit challenging Medicaid funding cuts (legal_action)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Maine Family Planning
+- **Predicate:** dismissed
+- **Object:** lawsuit challenging Medicaid funding cuts (legal_action)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > Maine Family Planning's lawsuit challenging the cuts was dismissed at the clinics' request.
 
-### c_008 — attributed, single source
-**Subject entities:** states
-**Predicate:** allocated
-**Object:** state funds to replace lost Medicaid reimbursement for Planned Parenthood (policy_action)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** states
+- **Predicate:** allocated
+- **Object:** state funds to replace lost Medicaid reimbursement for Planned Parenthood (policy_action)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > At least eight states have directed state funds to compensate Planned Parenthood for the lost Medicaid funding.
 
-### c_009 — attributed, single source
-**Subject entities:** Ned Lamont; Connecticut; Planned Parenthood of Southern New England
-**Predicate:** announced_funding
-**Object:** $8.5 million (financial_allocation)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ned Lamont; Connecticut; Planned Parenthood of Southern New England
+- **Predicate:** announced_funding
+- **Object:** $8.5 million (financial_allocation)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > Connecticut Gov. Ned Lamont recently announced $8.5 million for Planned Parenthood of Southern New England.
 
-### c_010 — attributed, single source
-**Subject entities:** Planned Parenthood
-**Predicate:** stated
-**Object:** nearly half of patients rely on Medicaid for non-abortion care (organizational_claim)
-**Temporal:** 2025-12-31
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Planned Parenthood
+- **Predicate:** stated
+- **Object:** nearly half of patients rely on Medicaid for non-abortion care (organizational_claim)
+- **Temporal:** 2025-12-31
+- **Sources:** src_001
 
 > Planned Parenthood has said nearly half its patients rely on Medicaid for health care aside from abortions, which are already not covered by the federal Medicaid program.
 
@@ -230,10 +245,5 @@ Health and Human Services press secretary Emily Hilliard said the department doe
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Holly Ramer
 **Publication date:** 2025-12-31
-**Access date:** 2026-05-16
 **Title:** Court says Medicaid funding cuts for Planned Parenthood can stand while lawsuit proceeds
 **URL:** https://apnews.com/article/abortion-medicaid-planned-parenthood-cuts-lawsuit-6a244a4ac2d7361a06ff87c911e51c1b
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

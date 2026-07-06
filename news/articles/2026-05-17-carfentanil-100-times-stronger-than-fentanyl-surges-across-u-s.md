@@ -20,7 +20,8 @@ primary_themes:
 - law_enforcement
 topic_tags:
   - health
-storyline_nexus: []
+storyline_nexus:
+- mexico-cartel-violence
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -139,111 +140,135 @@ Michael King Jr., founder of the Opioid Awareness Foundation, struck a note of a
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** carfentanil
-**Predicate:** is_potency_magnitude
-**Object:** 100x fentanyl; 10,000x morphine (potency_ratio)
-**Temporal:** 2026-04-18
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** carfentanil
+- **Predicate:** is_potency_magnitude
+- **Object:** 100x fentanyl; 10,000x morphine (potency_ratio)
+- **Temporal:** 2026-04-18
+- **Sources:** src_001
 
 > Carfentanil is 100 times more potent than fentanyl and 10,000 times more potent than morphine.
 
-### c_002 — confirmed, primary document
-**Subject entities:** DEA
-**Predicate:** identified_seizures
-**Object:** 1,400 (2025); 145 (2023); 54 (2022) (seizure_count)
-**Temporal:** 2026-04-18
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** DEA
+- **Predicate:** identified_seizures
+- **Object:** 1,400 (2025); 145 (2023); 54 (2022) (seizure_count)
+- **Temporal:** 2026-04-18
+- **Sources:** src_001
 
 > DEA labs identified carfentanil in 1,400 drug seizures in 2025, compared with 145 in 2023 and 54 in 2022.
 
-### c_003 — reported, single source
-**Subject entities:** carfentanil; China
-**Predicate:** coincides_with
-**Object:** Chinese precursor regulatory crackdown (regulatory_action)
-**Temporal:** 2026-04-18
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** carfentanil; China
+- **Predicate:** coincides_with
+- **Object:** Chinese precursor regulatory crackdown (regulatory_action)
+- **Temporal:** 2026-04-18
+- **Sources:** src_001
 
 > The surge in carfentanil coincides with a Chinese government crackdown on precursor chemicals used to manufacture fentanyl.
 
-### c_004 — reported, single source
-**Subject entities:** Mexican_traffickers; carfentanil
-**Predicate:** using_as_potency_booster
-**Object:** to strengthen weakened fentanyl (trafficking_behavior)
-**Temporal:** 2026-04-18
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Mexican_traffickers; carfentanil
+- **Predicate:** using_as_potency_booster
+- **Object:** to strengthen weakened fentanyl (trafficking_behavior)
+- **Temporal:** 2026-04-18
+- **Sources:** src_001
 
 > Traffickers in Mexico are likely using carfentanil to boost the potency of fentanyl supplies weakened by Chinese regulations.
 
-### c_005 — confirmed, primary document
-**Subject entities:** carfentanil
-**Predicate:** involved_in_deaths
-**Object:** 413 deaths (death_count)
-**Temporal:** 2026-04-18
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** carfentanil
+- **Predicate:** involved_in_deaths
+- **Object:** 413 deaths (death_count)
+- **Temporal:** 2026-04-18
+- **Sources:** src_001
 
 > In 2024, overdose deaths involving carfentanil nearly tripled compared to 2023, with 413 deaths across 42 states and Washington, D.C.
 
-### c_006 — confirmed, primary document
-**Subject entities:** CBP; fentanyl
-**Predicate:** seizure_quantity
-**Object:** 12,000 pounds (2025); more than 24,000 pounds (2023) (weight)
-**Temporal:** 2026-04-18
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** CBP; fentanyl
+- **Predicate:** seizure_quantity
+- **Object:** 12,000 pounds (2025); more than 24,000 pounds (2023) (weight)
+- **Temporal:** 2026-04-18
+- **Sources:** src_001
 
 > Fentanyl seizures declined to about 12,000 pounds in 2025, less than half the amount seized in 2023.
 
-### c_007 — reported, single source
-**Subject entities:** Michael Nalewaja
-**Predicate:** died_of_overdose
-**Object:** fentanyl and carfentanil lethal mixture (cause_of_death)
-**Temporal:** 2025-11-20
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Michael Nalewaja
+- **Predicate:** died_of_overdose
+- **Object:** fentanyl and carfentanil lethal mixture (cause_of_death)
+- **Temporal:** 2025-11-20
+- **Sources:** src_001
 
 > Michael Nalewaja, 36, from Alaska, died days before Thanksgiving 2025 after taking what he and a friend believed was cocaine but was a lethal mixture of fentanyl and carfentanil.
 
-### c_008 — reported, single source
-**Subject entities:** naloxone; carfentanil
-**Predicate:** may_not_reverse_overdose
-**Object:** carfentanil overdose (medical_condition)
-**Temporal:** 2026-04-18
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** naloxone; carfentanil
+- **Predicate:** may_not_reverse_overdose
+- **Object:** carfentanil overdose (medical_condition)
+- **Temporal:** 2026-04-18
+- **Sources:** src_001
 
 > Even multiple high doses of naloxone might not reverse an overdose involving carfentanil.
 
-### c_009 — confirmed, primary document
-**Subject entities:** DEA; carfentanil
-**Predicate:** annual_quota
-**Object:** 20 grams (weight)
-**Temporal:** 2026-04-18
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** DEA; carfentanil
+- **Predicate:** annual_quota
+- **Object:** 20 grams (weight)
+- **Temporal:** 2026-04-18
+- **Sources:** src_001
 
 > The DEA's annual quota for lawfully manufactured carfentanil is 20 grams.
 
-### c_010 — confirmed, primary document
-**Subject entities:** DEA
-**Predicate:** seized
-**Object:** 628,000 pills (quantity)
-**Temporal:** 2025-10-01
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** DEA
+- **Predicate:** seized
+- **Object:** 628,000 pills (quantity)
+- **Temporal:** 2025-10-01
+- **Sources:** src_001
 
 > In October, the DEA Los Angeles Field Division found 628,000 pills containing carfentanil.
 
-### c_011 — confirmed, primary document
-**Subject entities:** law_enforcement
-**Predicate:** seized
-**Object:** 50,000+ counterfeit M30 pills (quantity)
-**Temporal:** 2025-09-01
-**Source IDs:** src_001
+### c_011
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** law_enforcement
+- **Predicate:** seized
+- **Object:** 50,000+ counterfeit M30 pills (quantity)
+- **Temporal:** 2025-09-01
+- **Sources:** src_001
 
 > In September, officials seized more than 50,000 counterfeit M30 pills containing carfentanil and acetaminophen from a person at a gas station in Washington state.
 
-### c_012 — attributed, single source
-**Subject entities:** US
-**Predicate:** declining_overdose_deaths
-**Object:** 2+ year decline, longest in decades (trend)
-**Temporal:** 2026-04-18
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** US
+- **Predicate:** declining_overdose_deaths
+- **Object:** 2+ year decline, longest in decades (trend)
+- **Temporal:** 2026-04-18
+- **Sources:** src_001
 
 > U.S. overdose deaths have fallen for more than two years, the longest drop in decades.
 
@@ -255,7 +280,3 @@ Michael King Jr., founder of the Opioid Awareness Foundation, struck a note of a
 **Access date:** 2026-05-17
 **Title:** 100 times stronger than fentanyl, carfentanil seizures surge
 **URL:** https://apnews.com/article/carfentanil-surging-fentanyl-deaths-dea-china-mexico-6b32fe6450861754d8689a595fb830a5
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

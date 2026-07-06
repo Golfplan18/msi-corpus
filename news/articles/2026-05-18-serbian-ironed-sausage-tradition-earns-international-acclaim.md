@@ -101,8 +101,6 @@ Locals in Pirot consume the sausage much like a digestif—after a full meal, in
 
 Each January, Pirot hosts a sausage fair that draws thousands of visitors, including many from neighboring Bulgaria. Yet despite this growing international recognition, traditional sausage-making businesses are threatened by dwindling goat herds in the area and warmer, more humid winters in recent years—shifts experts partly link to climate change.
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
 ### c_001 — reported, single source
@@ -212,7 +210,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-05-18
 **Title:** A sausage from Serbia is 'ironed' for dryness and loaded with spices
 **URL:** https://apnews.com/article/serbia-spicy-sausage-tradition-delicacy-577ee7970d9549656c6306d84a382f18
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

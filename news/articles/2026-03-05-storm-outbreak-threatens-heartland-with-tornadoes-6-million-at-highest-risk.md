@@ -18,38 +18,41 @@ primary_themes:
 - spring storm season
 - emergency preparedness
 topic_tags:
-  - "disaster, accident and emergency incident"
-  - weather
-storyline_nexus: []
-geographic_location: United States — Oklahoma, Kansas, Missouri, Texas
+- weather
+- weather forecast
+- weather warning
+- natural disaster
+storyline_nexus:
+- extreme-weather-disasters
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
-  intensity: 0.85
-- value: informed_citizenship
   intensity: 0.9
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:44:45Z'
+- value: informed_citizenship
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:39:43Z'
 source_cluster_id: cluster_ap_2026-03-06_severe-weather-storm-tornado-midwest-0fd
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 13
   hedges:
-    appears: 0
     alleged: 0
-    attributed: 12
-    reported: 0
-    contested: 0
     confirmed: 1
+    appears: 0
+    reported: 0
+    attributed: 12
+    contested: 0
   corroboration:
-    primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
     primary_document: 0
-    single_source: 13
+    primary_plus_secondary: 0
     two_independent: 0
+    single_source: 13
 sources:
   count: 1
   outlets:
@@ -63,13 +66,16 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-08-two-tornadoes-strike-oklahoma-at-sunrise-damaging-buildings-and-knocking-out-pow
-  relation: related
-  strength: 0.8062
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- More than 6 million Americans face the highest risk of severe weather Friday as the season's first major storm outbreak threatens the nation's heartland, with strong tornadoes, large hail and damag...
+- Another 22 million people face a slightly lesser risk in a zone that includes Oklahoma City, St. Louis, Omaha and Milwaukee. Emergency managers acr...
+- The system marks what forecasters and local emergency managers are calling spring storm season's first significant outbreak, arriving as warm air s...
 
 More than 6 million Americans face the highest risk of severe weather Friday as the season's first major storm outbreak threatens the nation's heartland, with strong tornadoes, large hail and damaging winds expected across Oklahoma, Kansas and Missouri, the national Storm Prediction Center said Thursday.
 
@@ -107,120 +113,146 @@ The storms are arriving near the start of what is commonly called tornado season
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Storm Prediction Center
-**Predicate:** forecast
-**Object:** 6 million at highest risk (weather_risk_estimate)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Storm Prediction Center
+- **Predicate:** forecast
+- **Object:** 6 million at highest risk (weather_risk_estimate)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > More than 6 million Americans are at the highest risk of severe weather Friday in an area that includes the metropolitan areas of Kansas City and Tulsa, Oklahoma.
 
-### c_002 — attributed, single source
-**Subject entities:** Storm Prediction Center
-**Predicate:** forecast
-**Object:** 22 million at elevated risk (weather_risk_estimate)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Storm Prediction Center
+- **Predicate:** forecast
+- **Object:** 22 million at elevated risk (weather_risk_estimate)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > Another 22 million people are at a slightly lesser risk in a zone that includes Oklahoma City, St. Louis, Omaha, Nebraska, and Milwaukee, Wisconsin.
 
-### c_003 — attributed, single source
-**Subject entities:** National Weather Service
-**Predicate:** forecast
-**Object:** strongest storms in OK, KS, MO zone (weather_forecast)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** National Weather Service
+- **Predicate:** forecast
+- **Object:** strongest storms in OK, KS, MO zone (weather_forecast)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > The strongest storms are forecast to develop Friday in a zone that includes much of Oklahoma, Kansas and Missouri and areas of some nearby states.
 
-### c_004 — attributed, single source
-**Subject entities:** National Weather Service
-**Predicate:** forecast
-**Object:** scattered severe thunderstorms Thursday night (weather_forecast)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** National Weather Service
+- **Predicate:** forecast
+- **Object:** scattered severe thunderstorms Thursday night (weather_forecast)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > Some scattered severe thunderstorms were expected to begin late Thursday in the Texas Panhandle and across western Oklahoma and parts of Kansas.
 
-### c_005 — attributed, single source
-**Subject entities:** National Weather Service
-**Predicate:** forecast
-**Object:** large hail, damaging winds, possible tornadoes (weather_hazard_forecast)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** National Weather Service
+- **Predicate:** forecast
+- **Object:** large hail, damaging winds, possible tornadoes (weather_hazard_forecast)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > Large hail, damaging winds and possibly a few tornadoes were expected with the Thursday-night storms.
 
-### c_006 — attributed, single source
-**Subject entities:** AccuWeather
-**Predicate:** explained
-**Object:** Gulf-Canada air mass collision (meteorological_explanation)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** AccuWeather
+- **Predicate:** explained
+- **Object:** Gulf-Canada air mass collision (meteorological_explanation)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > The general setup is a clash between warm air streaming north from the Gulf Coast and cooler Canadian air behind cold fronts, according to AccuWeather meteorologists.
 
-### c_007 — attributed, single source
-**Subject entities:** National Weather Service
-**Predicate:** forecast
-**Object:** temperatures 20-30 degrees above average (temperature_forecast)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** National Weather Service
+- **Predicate:** forecast
+- **Object:** temperatures 20-30 degrees above average (temperature_forecast)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > Federal forecasters wrote that temperatures will be 20-30 degrees above average, with 80s reaching as far north as parts of the Ohio Valley and Mid-Atlantic.
 
-### c_008 — attributed, single source
-**Subject entities:** National Weather Service
-**Predicate:** forecast
-**Object:** 81°F Louisville Friday (temperature_forecast)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** National Weather Service
+- **Predicate:** forecast
+- **Object:** 81°F Louisville Friday (temperature_forecast)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > The high temperature in Louisville, Kentucky, is expected to reach 81 degrees Fahrenheit by Friday.
 
-### c_009 — attributed, single source
-**Subject entities:** National Weather Service
-**Predicate:** forecast
-**Object:** 82°F Atlanta Saturday (temperature_forecast)
-**Temporal:** 2026-03-07
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** National Weather Service
+- **Predicate:** forecast
+- **Object:** 82°F Atlanta Saturday (temperature_forecast)
+- **Temporal:** 2026-03-07
+- **Sources:** src_001
 
 > Atlanta's high temperature is expected to hit 82 degrees Fahrenheit by Saturday.
 
-### c_010 — attributed, single source
-**Subject entities:** National Weather Service
-**Predicate:** forecast
-**Object:** 74°F Washington D.C. Saturday (temperature_forecast)
-**Temporal:** 2026-03-07
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** National Weather Service
+- **Predicate:** forecast
+- **Object:** 74°F Washington D.C. Saturday (temperature_forecast)
+- **Temporal:** 2026-03-07
+- **Sources:** src_001
 
 > The forecast for Washington, D.C., calls for a high temperature of 74 degrees Fahrenheit on Saturday.
 
-### c_011 — attributed, single source
-**Subject entities:** Melissa Mayes
-**Predicate:** said
-**Object:** first real event of spring storm season (official_statement)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Melissa Mayes
+- **Predicate:** said
+- **Object:** first real event of spring storm season (official_statement)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > Melissa Mayes, deputy director of the Washington County Emergency Management Agency in Bartlesville, Oklahoma, said the outbreak is 'probably our first real event this season where people are really starting to pay attention getting into the spring storm season.'
 
-### c_012 — attributed, single source
-**Subject entities:** John Stipetich
-**Predicate:** said
-**Object:** tornado siren guidance (official_statement)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** John Stipetich
+- **Predicate:** said
+- **Object:** tornado siren guidance (official_statement)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > John Stipetich, deputy emergency management director in Douglas County, Kansas, said: 'If you hear the siren, there's a tornado coming and you need to take cover.'
 
-### c_013 — confirmed, single source
-**Subject entities:** National Weather Service
-**Predicate:** characterizes
-**Object:** tornado season peak May-early June in Tornado Alley (climatological_context)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_013
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** National Weather Service
+- **Predicate:** characterizes
+- **Object:** tornado season peak May-early June in Tornado Alley (climatological_context)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > In what has historically been known as Tornado Alley — typically including Kansas, Oklahoma and Texas — the peak of tornado season is May into early June.
 
@@ -229,10 +261,5 @@ The storms are arriving near the start of what is commonly called tornado season
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Jeff Martin
 **Publication date:** 2026-03-05
-**Access date:** 2026-05-17
 **Title:** Storm outbreak threatens US heartland with tornadoes
 **URL:** https://apnews.com/article/severe-weather-storm-tornado-midwest-0fddc7167d16147b28583cf1e2c8c2bb
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

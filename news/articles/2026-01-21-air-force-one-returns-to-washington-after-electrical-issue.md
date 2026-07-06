@@ -17,39 +17,42 @@ primary_themes:
 - military_operations
 - aircraft_maintenance
 topic_tags:
-  - politics
-  - "economy, business and finance"
+- accident and emergency incident
+- transport
+- government
+- politics
+- technology and engineering
 storyline_nexus:
-  - davos-2026
-geographic_location: United States (Washington, D.C.)
+- trump-foreign-policy-reshaping
+geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.7
+- value: human_life_and_dignity
+  intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.4
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T04:26:59Z'
 source_cluster_id: cluster_ap_2026-01-22_trump-air-force-one-electrical-issue-c30
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 12
   hedges:
+    confirmed: 0
     appears: 0
-    alleged: 0
-    attributed: 0
     reported: 12
     contested: 0
-    confirmed: 0
+    attributed: 0
+    alleged: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 0
-    single_source: 12
     two_independent: 0
+    primary_plus_secondary: 0
+    single_source: 12
+    primary_document: 0
+    one_originating_plus_primary_document: 0
 sources:
   count: 1
   outlets:
@@ -66,6 +69,14 @@ figures_aggregate:
 cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- Air Force One experiences electrical malfunction during presidential travel.
+- The aircraft underwent inspection and testing of systems.
+- Maintenance crews addressed technical issues before resuming operations.
+- Incident prompted review of aircraft maintenance protocols.
 
 President Trump's Air Force One returned to Joint Base Andrews on Tuesday evening about an hour after departing for Switzerland, according to White House press secretary Karoline Leavitt. The crew identified a minor electrical issue after takeoff and decided to turn around out of an abundance of caution. Trump subsequently boarded an Air Force C-32, a modified Boeing 757 normally used for domestic travel, and continued to Davos for the World Economic Forum shortly after midnight.
 
@@ -87,111 +98,135 @@ This electrical issue adds to a pattern of mechanical problems affecting U.S. mi
 
 ## Atomic claims
 
-### c_001 — reported, single source
-**Subject entities:** Air Force One
-**Predicate:** returned_to
-**Object:** Joint Base Andrews (location)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Air Force One
+- **Predicate:** returned_to
+- **Object:** Joint Base Andrews (location)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > Air Force One returned to Joint Base Andrews on Tuesday evening about an hour after departing for Switzerland.
 
-### c_002 — reported, single source
-**Subject entities:** Air Force One crew
-**Predicate:** identified_issue
-**Object:** minor electrical issue (technical_issue)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Air Force One crew
+- **Predicate:** identified_issue
+- **Object:** minor electrical issue (technical_issue)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > The crew identified a minor electrical issue after takeoff and decided to return out of an abundance of caution.
 
-### c_003 — reported, single source
-**Subject entities:** Air Force One; press cabin
-**Predicate:** experienced_outage
-**Object:** lights went out briefly (electrical_event)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Air Force One; press cabin
+- **Predicate:** experienced_outage
+- **Object:** lights went out briefly (electrical_event)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > A reporter aboard said lights in the press cabin went out briefly after takeoff.
 
-### c_004 — reported, single source
-**Subject entities:** Donald Trump; Air Force C-32
-**Predicate:** boarded_and_continued
-**Object:** Davos, Switzerland for World Economic Forum (travel_destination)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Air Force C-32
+- **Predicate:** boarded_and_continued
+- **Object:** Davos, Switzerland for World Economic Forum (travel_destination)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > President Trump boarded an Air Force C-32 and continued to Davos for the World Economic Forum.
 
-### c_005 — reported, single source
-**Subject entities:** VC-25 aircraft
-**Predicate:** in_service_for
-**Object:** nearly four decades (time_duration)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** VC-25 aircraft
+- **Predicate:** in_service_for
+- **Object:** nearly four decades (time_duration)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > The two VC-25 aircraft currently used as Air Force One have been flying for nearly four decades.
 
-### c_006 — reported, single source
-**Subject entities:** VC-25 aircraft
-**Predicate:** equipped_with
-**Object:** radiation shielding and antimissile technology (defense_capability)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** VC-25 aircraft
+- **Predicate:** equipped_with
+- **Object:** radiation shielding and antimissile technology (defense_capability)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > The VC-25 aircraft are equipped with radiation shielding and antimissile technology.
 
-### c_007 — reported, single source
-**Subject entities:** VC-25 aircraft
-**Predicate:** equipped_with
-**Object:** advanced communications systems for global presidential command (communications_capability)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** VC-25 aircraft
+- **Predicate:** equipped_with
+- **Object:** advanced communications systems for global presidential command (communications_capability)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > The aircraft carry advanced communications systems allowing the president to maintain contact with the military and issue orders from anywhere in the world.
 
-### c_008 — reported, single source
-**Subject entities:** Boeing
-**Predicate:** developing_with_delays
-**Object:** presidential aircraft replacements (military_program)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Boeing
+- **Predicate:** developing_with_delays
+- **Object:** presidential aircraft replacements (military_program)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > Boeing is working on replacements for Air Force One, but the program has faced a series of delays.
 
-### c_009 — reported, single source
-**Subject entities:** Qatar ruling family; Donald Trump
-**Predicate:** gifted
-**Object:** Boeing 747-8 jumbo jet (aircraft)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Qatar ruling family; Donald Trump
+- **Predicate:** gifted
+- **Object:** Boeing 747-8 jumbo jet (aircraft)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > The ruling family of Qatar gifted Trump a luxury Boeing 747-8 jumbo jet to be added to the Air Force One fleet last year.
 
-### c_010 — reported, single source
-**Subject entities:** Boeing 747-8
-**Predicate:** undergoing_retrofit
-**Object:** security requirements retrofit (maintenance_status)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Boeing 747-8
+- **Predicate:** undergoing_retrofit
+- **Object:** security requirements retrofit (maintenance_status)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > The Qatari jet is currently being retrofitted to meet security requirements.
 
-### c_011 — reported, single source
-**Subject entities:** Marco Rubio; military aircraft
-**Predicate:** experienced_mechanical_issue
-**Object:** mechanical issue in Germany (incident)
-**Temporal:** 2025-02
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Marco Rubio; military aircraft
+- **Predicate:** experienced_mechanical_issue
+- **Object:** mechanical issue in Germany (incident)
+- **Temporal:** 2025-02
+- **Sources:** src_001
 
 > In February, an Air Force plane carrying Secretary of State Marco Rubio to Germany had to return to Washington because of a mechanical issue.
 
-### c_012 — reported, single source
-**Subject entities:** Pete Hegseth; military aircraft
-**Predicate:** experienced_windshield_crack
-**Object:** windshield crack requiring emergency landing (incident)
-**Temporal:** 2025-10
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Pete Hegseth; military aircraft
+- **Predicate:** experienced_windshield_crack
+- **Object:** windshield crack requiring emergency landing (incident)
+- **Temporal:** 2025-10
+- **Sources:** src_001
 
 > In October, a military plane carrying Defense Secretary Pete Hegseth had to make an emergency landing in the United Kingdom due to a crack in the windshield.
 
@@ -200,10 +235,5 @@ This electrical issue adds to a pattern of mechanical problems affecting U.S. mi
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Josh Boak
 **Publication date:** 2026-01-21
-**Access date:** 2026-01-21
 **Title:** Air Force One returns to Washington area due to minor electrical issue
 **URL:** https://apnews.com/article/trump-air-force-one-electrical-issue-c3044b52b792a8c12f6211718d94f8fe
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

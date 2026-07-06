@@ -21,7 +21,7 @@ topic_tags:
   - "international relations"
   - "economy, business and finance"
 storyline_nexus:
-  - iran-war
+- the-iran-war
 geographic_location: International
 floor_values_engaged:
 - value: accountability_of_power
@@ -76,6 +76,8 @@ cross_article_links:
   strength: 0.7979
   confidence: medium
 draft: false
+analyses:
+- '2026-05-17-european-coalition-deploys-maritime-containment-architecture-amid-unresolved-hor'
 ---
 
 In mid-April, leaders of France and Britain announced plans to assemble a multinational maritime security force in the Strait of Hormuz, seeking to ensure permanent freedom of navigation in a waterway that carries a fifth of the world's oil. The initiative, announced at a Paris gathering of roughly 50 countries and international organizations, would operate independently of the U.S.-Israeli military campaign in Iran and would deploy "as soon as conditions allow," according to Prime Minister Keir Starmer of Britain.
@@ -209,6 +211,6 @@ Kaushal said European countries were trying "to demonstrate the ability to provi
 **Title:** France and UK leaders urge permanent open navigation in Hormuz
 **URL:** https://apnews.com/article/hormuz-strait-iran-blockade-britain-france-10518e69aecbb986c9118ff42ab0ca02
 
----
 
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*
+<!-- analysis-link:2026-05-17-european-coalition-deploys-maritime-containment-architecture-amid-unresolved-hor -->
+**Going deeper:** [Read MSI's analysis of the Hormuz maritime security mission →](/analyses/2026-05-17-european-coalition-deploys-maritime-containment-architecture-amid-unresolved-hor)

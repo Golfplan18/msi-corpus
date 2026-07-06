@@ -15,45 +15,45 @@ primary_themes:
 - Hawaii ecology
 - captive breeding and reintroduction
 topic_tags:
-  - conservation
-  - environment
-  - lifestyle
-  - "lifestyle and leisure"
+- conservation
+- environment
+- natural science
+- scientific research
 storyline_nexus:
-  - ai-regulation
-geographic_location: Kīpahulu Forest Reserve, East Maui, Hawaii, United States
+- extreme-weather-disasters
+geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship
+  intensity: 0.9
+- value: truthfulness
   intensity: 0.6
-- value: human_life_and_dignity
-  intensity: 0.5
-framework_version: 1.1.0
-generation_timestamp: '2026-01-12T00:00:00Z'
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:09:14Z'
 source_cluster_id: cluster_ap_2026-01-11_songbirds-animals-tess-hebebrand-forests
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 12
   hedges:
+    reported: 2
     appears: 0
     alleged: 0
     attributed: 7
-    reported: 2
-    contested: 0
     confirmed: 3
+    contested: 0
   corroboration:
+    two_independent: 0
     primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
-    primary_document: 1
     single_source: 11
-    two_independent: 0
+    primary_document: 1
 sources:
   count: 1
   outlets:
-  - Associated Press / Honolulu Civil Beat
+  - Associated Press
   outlet_classes:
   - wire
   highest_reliability_tier: 1
@@ -71,13 +71,15 @@ cross_article_links: []
 draft: false
 ---
 
-The survival marks a promising start for the first ʻalalā reintroduction outside Hawaiʻi island, where a previous attempt between 2016 and 2020 collapsed after a native hawk began hunting the crows. Scientists are preparing to release two additional birds into the same Kīpahulu Forest Reserve area.
+## Summary
 
-Five Hawaiian crows reintroduced to the forests of East Maui in November 2024 have all survived their first year in the wild, researchers with the Maui Forest Bird Recovery Project said. The birds, known in Hawaiian as ʻalalā, are among roughly 110 of their kind remaining worldwide; the species was declared extinct in the wild in 2002.
+**Subtype:** fact
 
-Scientists are now preparing to release two additional birds — one male and one female — into the same area of Kīpahulu Forest Reserve, where the original group of three males and two females continues to forage and expand its range, according to Tess Hebebrand, an aviculture specialist with the project.
-
-"The birds are exhibiting a lot of natural behaviors," Hebebrand said from the nonprofit's office in Upcountry Maui. "They've had some mild things where it looks like they got a little bit sick, but then they got better."
+- Hawaiʻi’s critically endangered crow is soaring in Maui forests
+- A mixture of anxiety and excitement coursed through Keanini Aarona in the weeks before five Hawaiian crows, or ʻalalā, were released into the Kīpahulu Forest Reserve in East Maui in November 2024.
+- Releasing two more birds in the same area will help researchers learn more about how the species adapts to life in the wild, she said.
+- Native Hawaiians have long regarded the ʻalalā as ʻaumākua, or family guardians, Frye said.
+- The ʻalalā had been declining for decades due to habitat loss, introduced diseases, increased contact with humans and other factors before it was officially declared extinct in the wild in 2002.
 
 ## A species back from the edge
 
@@ -117,121 +119,140 @@ For Aarona, the stakes of the work are rooted in Hawaiian cultural tradition.
 
 ## Atomic claims
 
-### c_001 — confirmed, single source
-**Subject entities:** ʻalalā; Kīpahulu Forest Reserve
-**Predicate:** released_into_wild
-**Object:** Kīpahulu Forest Reserve, East Maui (location_event)
-**Temporal:** 2024-11
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** ʻalalā; Kīpahulu Forest Reserve
+- **Predicate:** released_into_wild
+- **Object:** Kīpahulu Forest Reserve, East Maui (location_event)
+- **Temporal:** 2024-11
+- **Sources:** src_001
 
 > Five ʻalalā — three male and two female — were released into Kīpahulu Forest Reserve in East Maui in November 2024.
 
-### c_002 — attributed, single source
-**Subject entities:** ʻalalā
-**Predicate:** survived
-**Object:** first year in wild (outcome)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** ʻalalā
+- **Predicate:** survived
+- **Object:** first year in wild (outcome)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > All five ʻalalā released in November 2024 remained alive more than a year after their release.
 
-### c_003 — attributed, single source
-**Subject entities:** Maui Forest Bird Recovery Project
-**Predicate:** planned_release
-**Object:** two ʻalalā (one male, one female) (planned_action)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Maui Forest Bird Recovery Project
+- **Predicate:** planned_release
+- **Object:** two ʻalalā (one male, one female) (planned_action)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Scientists are preparing to release two additional ʻalalā — one male and one female — into Kīpahulu Forest Reserve.
 
-### c_004 — confirmed, single source
-**Subject entities:** ʻalalā
-**Predicate:** declared_extinct_in_wild
-**Object:** 2002 (year)
-**Temporal:** 2002
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** ʻalalā
+- **Predicate:** declared_extinct_in_wild
+- **Object:** 2002 (year)
+- **Temporal:** 2002
+- **Sources:** src_001
 
 > The ʻalalā was declared extinct in the wild in 2002.
 
-### c_005 — reported, single source
-**Subject entities:** ʻalalā
-**Predicate:** estimated_global_population
-**Object:** approximately 110 (count)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** ʻalalā
+- **Predicate:** estimated_global_population
+- **Object:** approximately 110 (count)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Approximately 110 ʻalalā are believed to exist worldwide.
 
-### c_006 — reported, single source
-**Subject entities:** ʻalalā; San Diego Zoo Wildlife Alliance
-**Predicate:** reintroduction_outcome
-**Object:** 25 estimated deaths, 18 bodies recovered (outcome)
-**Temporal:** 2016-2020
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** ʻalalā; San Diego Zoo Wildlife Alliance
+- **Predicate:** reintroduction_outcome
+- **Object:** 25 estimated deaths, 18 bodies recovered (outcome)
+- **Temporal:** 2016-2020
+- **Sources:** src_001
 
 > Between 2016 and 2020, scientists released 30 ʻalalā at sites on Hawaiʻi island; researchers estimated 25 died, with 18 bodies recovered, according to a San Diego Zoo Wildlife Alliance study.
 
-### c_007 — attributed, single source
-**Subject entities:** ʻio; ʻalalā
-**Predicate:** predation_caused_program_end
-**Object:** remaining birds removed from wild (outcome)
-**Temporal:** 2020
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** ʻio; ʻalalā
+- **Predicate:** predation_caused_program_end
+- **Object:** remaining birds removed from wild (outcome)
+- **Temporal:** 2020
+- **Sources:** src_001
 
 > The Hawaiian hawk (ʻio) hunted the ʻalalā during the Big Island reintroduction, leading program managers to remove remaining birds from the wild.
 
-### c_008 — attributed, single source
-**Subject entities:** ʻalalā
-**Predicate:** laid_egg
-**Object:** egg of unknown hatch status (reproductive_event)
-**Temporal:** 2025-Q4
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** ʻalalā
+- **Predicate:** laid_egg
+- **Object:** egg of unknown hatch status (reproductive_event)
+- **Temporal:** 2025-Q4
+- **Sources:** src_001
 
 > Two of the five released ʻalalā paired up and laid an egg in late 2025; the status of the egg is unknown.
 
-### c_009 — confirmed, primary document
-**Subject entities:** Kīpahulu Forest Reserve; ʻalalā
-**Predicate:** assessed_suitable_for_release
-**Object:** feasible, minimal risk to other endangered species (assessment_finding)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Kīpahulu Forest Reserve; ʻalalā
+- **Predicate:** assessed_suitable_for_release
+- **Object:** feasible, minimal risk to other endangered species (assessment_finding)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > A 2024 environmental assessment found Kīpahulu Forest Reserve suitable for ʻalalā release despite its wetter climate, noting it contained native fruits the species forages for on the Big Island.
 
-### c_010 — attributed, single source
-**Subject entities:** ʻalalā
-**Predicate:** declined_due_to
-**Object:** habitat loss, introduced diseases, human contact (causal_factors)
-**Temporal:** pre-2002
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** ʻalalā
+- **Predicate:** declined_due_to
+- **Object:** habitat loss, introduced diseases, human contact (causal_factors)
+- **Temporal:** pre-2002
+- **Sources:** src_001
 
 > The ʻalalā had declined for decades due to habitat loss, introduced diseases and increased contact with humans before the 2002 extinction-in-the-wild declaration.
 
-### c_011 — attributed, single source
-**Subject entities:** ʻalalā; Native Hawaiians
-**Predicate:** regarded_as
-**Object:** ʻaumākua (family guardians) (cultural_role)
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** ʻalalā; Native Hawaiians
+- **Predicate:** regarded_as
+- **Object:** ʻaumākua (family guardians) (cultural_role)
+- **Sources:** src_001
 
 > Native Hawaiians have long regarded the ʻalalā as ʻaumākua, or family guardians.
 
-### c_012 — attributed, single source
-**Subject entities:** ʻalalā
-**Predicate:** ecological_role
-**Object:** tree pruning and native seed dispersal (ecological_function)
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** ʻalalā
+- **Predicate:** ecological_role
+- **Object:** tree pruning and native seed dispersal (ecological_function)
+- **Sources:** src_001
 
 > The ʻalalā play a vital role in the local ecosystem by pruning trees and dispersing native plant seeds.
 
 ## Sources
 
-### src_001 — Associated Press / Honolulu Civil Beat, wire, Tier 1, originating
-**Author:** Erin Nolan
+### src_001 — Associated Press, wire, Tier 1, originating
+**Author:** Erin Nolan / Honolulu Civil Beat
 **Publication date:** 2026-01-12
-**Access date:** 2026-01-12
-**Title:** Hawaiʻi's critically endangered crow is soaring in Maui forests
+**Title:** Hawaiʻi’s critically endangered crow is soaring in Maui forests
 **URL:** https://apnews.com/article/songbirds-animals-tess-hebebrand-forests-hawaii-78f5750efc9739ce64c7a0a84a703b21
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

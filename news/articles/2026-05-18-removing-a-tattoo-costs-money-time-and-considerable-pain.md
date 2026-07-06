@@ -17,9 +17,10 @@ primary_themes:
 - medical-procedure
 - consumer-information
 topic_tags:
-  - health
-  - "health treatment and procedure"
-storyline_nexus: []
+- health
+- health treatment and procedure
+storyline_nexus:
+- aca-medicaid-healthcare-crisis
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship
@@ -62,11 +63,7 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-05-greenlanders-embrace-inuit-tattoos-and-drum-dancing-in-revival-of-pre-christian-
-  relation: related
-  strength: 0.6661
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
 
@@ -112,93 +109,113 @@ Removal methods followed. For centuries, scraping the skin to extract pigment wa
 
 ## Atomic claims
 
-### c_001 — reported, primary document
-**Subject entities:** U.S. adults
-**Predicate:** have_tattoos
-**Object:** 32% (percentage)
-**Temporal:** 2023
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. adults
+- **Predicate:** have_tattoos
+- **Object:** 32% (percentage)
+- **Temporal:** 2023
+- **Sources:** src_001
 
 > About 32% of U.S. adults have tattoos.
 
-### c_002 — reported, primary document
-**Subject entities:** U.S. adults with tattoos
-**Predicate:** have_multiple_tattoos
-**Object:** 22% (percentage)
-**Temporal:** 2023
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. adults with tattoos
+- **Predicate:** have_multiple_tattoos
+- **Object:** 22% (percentage)
+- **Temporal:** 2023
+- **Sources:** src_001
 
 > About 22% of U.S. adults with tattoos have more than one.
 
-### c_003 — reported, primary document
-**Subject entities:** U.S. adults
-**Predicate:** regret_tattoos
-**Object:** 24% (percentage)
-**Temporal:** 2023
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. adults
+- **Predicate:** regret_tattoos
+- **Object:** 24% (percentage)
+- **Temporal:** 2023
+- **Sources:** src_001
 
 > About 24% of U.S. adults regret getting tattoos.
 
-### c_004 — attributed, single source
-**Subject entities:** laser tattoo removal
-**Predicate:** requires_treatment_sessions
-**Object:** 8-12 or more sessions (treatment_count)
-**Temporal:** 2025-12-08
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** laser tattoo removal
+- **Predicate:** requires_treatment_sessions
+- **Object:** 8-12 or more sessions (treatment_count)
+- **Temporal:** 2025-12-08
+- **Sources:** src_001
 
 > Laser tattoo removal typically requires eight to twelve or more treatments.
 
-### c_005 — attributed, single source
-**Subject entities:** laser tattoo removal
-**Predicate:** costs_minimum
-**Object:** $100 per session (currency)
-**Temporal:** 2025-12-08
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** laser tattoo removal
+- **Predicate:** costs_minimum
+- **Object:** $100 per session (currency)
+- **Temporal:** 2025-12-08
+- **Sources:** src_001
 
 > The minimum cost charged for a laser tattoo removal session is $100.
 
-### c_006 — attributed, single source
-**Subject entities:** laser tattoo removal
-**Predicate:** causes_pain_sensation
-**Object:** rubber band snap with hot bacon grease (pain_comparison)
-**Temporal:** 2025-12-08
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** laser tattoo removal
+- **Predicate:** causes_pain_sensation
+- **Object:** rubber band snap with hot bacon grease (pain_comparison)
+- **Temporal:** 2025-12-08
+- **Sources:** src_001
 
 > Laser tattoo removal feels like a rubber band being snapped on your skin with hot bacon grease, according to a removal specialist.
 
-### c_007 — reported, primary document
-**Subject entities:** laser tattoo removal
-**Predicate:** can_cause_side_effects
-**Object:** lighter skin, scarring, infection, redness, soreness (medical_side_effects)
-**Temporal:** 2025-12-08
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** laser tattoo removal
+- **Predicate:** can_cause_side_effects
+- **Object:** lighter skin, scarring, infection, redness, soreness (medical_side_effects)
+- **Temporal:** 2025-12-08
+- **Sources:** src_001
 
 > Laser tattoo removal can cause lighter skin at the removal site, temporary scarring, infection, redness, or soreness.
 
-### c_008 — attributed, single source
-**Subject entities:** people with uncontrolled diabetes; people with autoimmune disease; people with immune deficiencies; people taking blood thinners
-**Predicate:** should_avoid_laser_removal
-**Object:** medical contraindications (contraindication)
-**Temporal:** 2025-12-08
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** people with uncontrolled diabetes; people with autoimmune disease; people with immune deficiencies; people taking blood thinners
+- **Predicate:** should_avoid_laser_removal
+- **Object:** medical contraindications (contraindication)
+- **Temporal:** 2025-12-08
+- **Sources:** src_001
 
 > Laser tattoo removal is not recommended for people with uncontrolled diabetes, autoimmune disease, immune deficiencies, or those taking blood thinners.
 
-### c_009 — reported, single source
-**Subject entities:** Neolithic remains
-**Predicate:** have_documented_tattoos
-**Object:** circa 3000 B.C. (historical_period)
-**Temporal:** historical
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Neolithic remains
+- **Predicate:** have_documented_tattoos
+- **Object:** circa 3000 B.C. (historical_period)
+- **Temporal:** historical
+- **Sources:** src_001
 
 > The oldest known tattoos were found on Neolithic remains from the Italian Alps dating to around 3,000 B.C.
 
-### c_010 — reported, single source
-**Subject entities:** Leon Goldman; University of Cincinnati
-**Predicate:** developed_laser_removal_technology
-**Object:** laser tattoo removal with Q-switched laser technology (medical_technology)
-**Temporal:** 1960s
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Leon Goldman; University of Cincinnati
+- **Predicate:** developed_laser_removal_technology
+- **Object:** laser tattoo removal with Q-switched laser technology (medical_technology)
+- **Temporal:** 1960s
+- **Sources:** src_001
 
 > Laser tattoo removal was developed in the 1960s by Leon Goldman, a University of Cincinnati dermatologist, using laser pulses to break down tattoo ink.
 
@@ -210,7 +227,3 @@ Removal methods followed. For centuries, scraping the skin to extract pigment wa
 **Access date:** 2026-05-17
 **Title:** Laser tattoo removal takes longer, costs more and is more painful than getting inked
 **URL:** https://apnews.com/article/tattoo-removal-laser-celebrities-pain-scarring-a96b13177caa65d6fa59ec3570ccdd4e
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

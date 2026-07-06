@@ -18,9 +18,10 @@ primary_themes:
 - Scientific achievement
 - NASA human spaceflight
 topic_tags:
-  - "science and technology"
-  - "space programme"
-storyline_nexus: []
+- science and technology
+- space programme
+storyline_nexus:
+- nasa-artemis-moon-mission
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -74,10 +75,6 @@ cross_article_links:
   relation: related
   strength: 0.8037
   confidence: medium
-- slug: 2026-01-08-nasa-ends-iss-mission-early-for-crew-member-s-medical-issue-in-first-space-stati
-  relation: related
-  strength: 0.7891
-  confidence: medium
 - slug: 2026-01-08-nasa-cuts-space-station-mission-short-in-first-ever-medical-evacuation
   relation: related
   strength: 0.7616
@@ -121,120 +118,146 @@ Human review: not triggered. License: CC0.
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Reid Wiseman; Victor Glover; Christina Koch; Jeremy Hansen
-**Predicate:** conducted_conference
-**Object:** news conference at NASA Johnson Space Center, Houston (event)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Reid Wiseman; Victor Glover; Christina Koch; Jeremy Hansen
+- **Predicate:** conducted_conference
+- **Object:** news conference at NASA Johnson Space Center, Houston (event)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > The Artemis II astronauts conducted a news conference at NASA's Johnson Space Center in Houston on Thursday, April 16.
 
-### c_002 — attributed, single source
-**Subject entities:** Reid Wiseman; Victor Glover; Christina Koch; Jeremy Hansen
-**Predicate:** praised
-**Object:** heat shield and overall spacecraft performance during reentry (spacecraft_assessment)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Reid Wiseman; Victor Glover; Christina Koch; Jeremy Hansen
+- **Predicate:** praised
+- **Object:** heat shield and overall spacecraft performance during reentry (spacecraft_assessment)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > The astronauts praised their spacecraft's performance, especially the heat shield, during reentry.
 
-### c_003 — confirmed, primary document
-**Subject entities:** Orion capsule; Integrity
-**Predicate:** parachuted
-**Object:** Pacific Ocean (location)
-**Temporal:** 2026-04-11
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Orion capsule; Integrity
+- **Predicate:** parachuted
+- **Object:** Pacific Ocean (location)
+- **Temporal:** 2026-04-11
+- **Sources:** src_001
 
 > The Orion capsule, named Integrity, parachuted into the Pacific Ocean last Friday, April 11, after a nearly 10-day voyage.
 
-### c_004 — confirmed, primary document
-**Subject entities:** Artemis II crew
-**Predicate:** broke_distance_record
-**Object:** 252000 miles; exceeded Apollo 13 distance record (achievement)
-**Temporal:** 2026-04-01 to 2026-04-11
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Artemis II crew
+- **Predicate:** broke_distance_record
+- **Object:** 252000 miles; exceeded Apollo 13 distance record (achievement)
+- **Temporal:** 2026-04-01 to 2026-04-11
+- **Sources:** src_001
 
 > The Artemis II crew traveled 252,000 miles and became the most distant travelers, breaking Apollo 13's previous distance record.
 
-### c_005 — confirmed, primary document
-**Subject entities:** Artemis II crew
-**Predicate:** represents
-**Object:** first human lunar-bound crew in 50+ years (achievement)
-**Temporal:** 2026-04-01 to 2026-04-11
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Artemis II crew
+- **Predicate:** represents
+- **Object:** first human lunar-bound crew in 50+ years (achievement)
+- **Temporal:** 2026-04-01 to 2026-04-11
+- **Sources:** src_001
 
 > The crew represents the first humans to the moon in more than half a century.
 
-### c_006 — attributed, single source
-**Subject entities:** Reid Wiseman
-**Predicate:** said
-**Object:** lunar experience was majestic and gorgeous (quote)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Reid Wiseman
+- **Predicate:** said
+- **Object:** lunar experience was majestic and gorgeous (quote)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > According to Commander Wiseman, 'Being 252,000 miles away from home was the most majestic, gorgeous thing that human eyes will ever witness.'
 
-### c_007 — attributed, single source
-**Subject entities:** Reid Wiseman; Victor Glover
-**Predicate:** observed
-**Object:** minimal charred material loss on heat shield shoulder (spacecraft_assessment)
-**Temporal:** 2026-04-11
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Reid Wiseman; Victor Glover
+- **Predicate:** observed
+- **Object:** minimal charred material loss on heat shield shoulder (spacecraft_assessment)
+- **Temporal:** 2026-04-11
+- **Sources:** src_001
 
 > Commander Wiseman observed minimal heat shield damage on the shoulder where the shield meets the capsule and stated: 'For four humans just looking at the heat shield, it looked wonderful to us.'
 
-### c_008 — attributed, single source
-**Subject entities:** Reid Wiseman; NASA
-**Predicate:** cautioned
-**Object:** detailed analysis required despite promising initial observations (statement)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Reid Wiseman; NASA
+- **Predicate:** cautioned
+- **Object:** detailed analysis required despite promising initial observations (statement)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > Wiseman cautioned that detailed engineering analyses of the heat shield remain to be conducted, stating engineers will examine 'every atom' of it.
 
-### c_009 — attributed, single source
-**Subject entities:** Artemis I; NASA
-**Predicate:** caused_design_change
-**Object:** heat shield damage led to reentry path modification rather than redesign (technical_decision)
-**Temporal:** 2022-2026
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Artemis I; NASA
+- **Predicate:** caused_design_change
+- **Object:** heat shield damage led to reentry path modification rather than redesign (technical_decision)
+- **Temporal:** 2022-2026
+- **Sources:** src_001
 
 > Artemis I, the uncrewed test flight in 2022, returned with a heat shield that was heavily pockmarked and gouged, prompting NASA to change the reentry path instead of redesigning the shield.
 
-### c_010 — attributed, single source
-**Subject entities:** Artemis II crew; NASA
-**Predicate:** positions_for
-**Object:** crewed moon landing within 2 years (mission_goal)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Artemis II crew; NASA
+- **Predicate:** positions_for
+- **Object:** crewed moon landing within 2 years (mission_goal)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > The astronauts said their lunar mission puts NASA in a better position for a crewed moon landing within two years.
 
-### c_011 — confirmed, primary document
-**Subject entities:** Artemis II
-**Predicate:** launched
-**Object:** moon mission; most diverse human lunar crew (mission_event)
-**Temporal:** 2026-04-01
-**Source IDs:** src_001
+### c_011
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Artemis II
+- **Predicate:** launched
+- **Object:** moon mission; most diverse human lunar crew (mission_event)
+- **Temporal:** 2026-04-01
+- **Sources:** src_001
 
 > The crew launched to the moon on April 1, 2026, from Florida, representing NASA's first human lunar crew in more than half a century and the most diverse such crew.
 
-### c_012 — attributed, single source
-**Subject entities:** NASA; SpaceX; Blue Origin
-**Predicate:** developing
-**Object:** Artemis III lunar docking practice mission in Earth orbit (future_mission)
-**Temporal:** 2026-2027
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** NASA; SpaceX; Blue Origin
+- **Predicate:** developing
+- **Object:** Artemis III lunar docking practice mission in Earth orbit (future_mission)
+- **Temporal:** 2026-2027
+- **Sources:** src_001
 
 > NASA is working on Artemis III, which will remain in Earth orbit as astronauts practice docking with lunar landers being developed by SpaceX and Blue Origin.
 
-### c_013 — attributed, single source
-**Subject entities:** NASA; Artemis IV
-**Predicate:** scheduled
-**Object:** lunar south pole landing with two astronauts (future_mission)
-**Temporal:** 2028
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** NASA; Artemis IV
+- **Predicate:** scheduled
+- **Object:** lunar south pole landing with two astronauts (future_mission)
+- **Temporal:** 2028
+- **Sources:** src_001
 
 > Under NASA's latest schedule, Artemis IV will follow in 2028, with two astronauts landing near the moon's south pole.
 
@@ -246,7 +269,3 @@ Human review: not triggered. License: CC0.
 **Access date:** 2026-05-17
 **Title:** Artemis II astronauts give high marks to their moonship
 **URL:** https://apnews.com/article/nasa-artemis-moon-astronauts-e5f210b79bd269e9d402ef291623f5e9
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

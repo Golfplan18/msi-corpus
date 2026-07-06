@@ -20,7 +20,8 @@ topic_tags:
   - government
   - "economy, business and finance"
   - "market and exchange"
-storyline_nexus: []
+storyline_nexus:
+- ai-industry-regulation
 geographic_location: International (Davos, Switzerland; Milan stock exchange)
 floor_values_engaged:
 - value: truthfulness
@@ -107,7 +108,7 @@ Bohr noted that Macron's choice of an aviator-style frame sent a specific signal
 
 Yet this visual language carries historical weight. Other world leaders have worn sunglasses in official settings. U.S. President Joe Biden wore aviator shades as president. In 2021, before his relationship with Russian President Vladimir Putin soured, Biden gave Putin a pair. Former President Bill Clinton notably wore blues-club sunglasses when he played saxophone on Arsenio Hall's talk show in 1992 while campaigning for the presidency.
 
-Autocratic leaders have also favored dark sunglasses. North Korean leader Kim Jong Il wore large dark glasses during a visit to a coal mining complex. Archetti suggested such choices may signal concealment. "Perhaps it's related to honesty," she said. "Maybe they're hiding behind the sunglasses, they know they have something to hide."
+Autocratic leaders have also favored dark sunglasses. North Korean leader Kim Jong Il wore large dark glasses during a visit to a coal mining complex. Archetti suggested such choices may signal concealment, relating them to honesty. "Maybe they're hiding behind the sunglasses, they know they have something to hide."
 
 ## Atomic claims
 
@@ -209,7 +210,3 @@ Autocratic leaders have also favored dark sunglasses. North Korean leader Kim Jo
 **Access date:** 2026-05-18
 **Title:** French President Macron's sunglasses steal the show at Davos
 **URL:** https://apnews.com/article/macron-davos-trump-sunglasses-tom-cruise-74ed312a9bf8cbb6af13644b3487e7ea
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

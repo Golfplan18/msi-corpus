@@ -20,8 +20,7 @@ topic_tags:
   - "politics"
   - "international relations"
 storyline_nexus:
-  - mexico-cartel-violence
-  - us-china-relations
+- trump-tariff-wars
 geographic_location: United States / Mexico
 floor_values_engaged:
 - value: informed_citizenship
@@ -234,7 +233,3 @@ Mexico and Canada have separately been strengthening bilateral cooperation on tr
 **Access date:** 2026-03-05
 **Title:** Mexico and US will meet for trade talks on March 16
 **URL:** https://apnews.com/article/us-mexico-free-trade-ebrard-greer-de8ee2a4110155ad75334f41b29942b1
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -16,42 +16,41 @@ primary_themes:
 - congressional oversight
 - Senate authorization
 topic_tags:
-  - "armed conflict"
-  - "conflict, war and peace"
-  - election
-  - "international relations"
-  - politics
+- armed conflict
+- international military intervention
+- conflict, war and peace
+- government
 storyline_nexus:
-  - iran-war
-geographic_location: Washington, D.C., United States
+- the-iran-war
+geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.85
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T08:13:29Z'
+  intensity: 0.9
+- value: informed_citizenship
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:41:40Z'
 source_cluster_id: cluster_ap_2026-04-16_iran-war-trump-war-powers-8a47ef050f05d4
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 18
   hedges:
+    contested: 0
     appears: 0
     alleged: 0
     attributed: 10
-    reported: 4
-    contested: 0
     confirmed: 4
+    reported: 4
   corroboration:
+    single_source: 14
+    primary_document: 4
+    two_independent: 0
     primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
-    primary_document: 4
-    single_source: 14
-    two_independent: 0
 sources:
   count: 1
   outlets:
@@ -69,13 +68,20 @@ image:
   url: /articles/2026-04-15-senate-rejects-iran-war-halt-for-fourth-time-as-gop-eyes-60-day-deadline.png
   alt: 'Illustration accompanying article: Senate rejects Iran war halt for fourth time as GOP eyes 60-day deadline'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-12-iran-s-leadership-weakened-by-war-faces-broad-protests-as-crackdown-kills-hundre
-  relation: related
-  strength: 0.7309
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Senate Republicans reject effort to halt Iran war, but some eye future war powers votes
+- Sen. Josh Hawley, R-Mo., also said he would like to see the war end in the coming weeks. If not, he said, “at the end of 60 days, I think we need to vote on a military authorization.”
+- Republican Sen. Susan Collins of Maine said that the president’s power “is not unlimited as commander in chief.”
+- Thune said another “inflection point” will be an eventual White House request for war funding. Congress is still waiting for the request, which could total hundreds of billions of dollars.
+- That is a “power that Congress has to influence what happens there,” Thune said.
+- Republican Sen. Jim Lankford of Oklahoma said that war funding will “be the big vote.” He added that the question, then, will be: “Is it going to happen or is it not going to happen?” Lankford said.
 
 WASHINGTON — The Republican-led Senate voted 47 to 52 on Wednesday to reject a Democratic resolution requiring U.S. forces to withdraw from the Iran war unless Congress authorizes further action, the fourth time this year the chamber has declined to halt the conflict. The vote came as lawmakers from both parties acknowledged a statutory deadline arriving at the end of April.
 
@@ -121,163 +127,199 @@ A House war powers vote was expected later this week, with its outcome uncertain
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** United States Senate
-**Predicate:** voted_on
-**Object:** 47-52 against withdrawal resolution (vote_tally)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** United States Senate
+- **Predicate:** voted_on
+- **Object:** 47-52 against withdrawal resolution (vote_tally)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > The Senate voted 47 to 52 on April 15, 2026 to reject a Democratic resolution requiring U.S. forces to withdraw from the Iran war until Congress authorizes further action.
 
-### c_002 — confirmed, primary document
-**Subject entities:** United States Senate
-**Predicate:** rejected_halt_effort
-**Object:** fourth_time_in_2026 (count)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** United States Senate
+- **Predicate:** rejected_halt_effort
+- **Object:** fourth_time_in_2026 (count)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > The April 15 vote was the fourth time in 2026 the Senate rejected an effort to halt the Iran war.
 
-### c_003 — confirmed, primary document
-**Subject entities:** United States Congress
-**Predicate:** requires_authorization
-**Object:** within 60 days of conflict start (statutory_requirement)
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** United States Congress
+- **Predicate:** requires_authorization
+- **Object:** within 60 days of conflict start (statutory_requirement)
+- **Sources:** src_001
 
 > Under the War Powers Act of 1973, Congress must declare war or authorize use of force within 60 days of a conflict's start.
 
-### c_004 — reported, single source
-**Subject entities:** War Powers Act of 1973
-**Predicate:** deadline_date
-**Object:** end of April 2026 (date)
-**Temporal:** 2026-04
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** War Powers Act of 1973
+- **Predicate:** deadline_date
+- **Object:** end of April 2026 (date)
+- **Temporal:** 2026-04
+- **Sources:** src_001
 
 > The War Powers Act 60-day deadline for the Iran conflict arrives at the end of April 2026.
 
-### c_005 — confirmed, primary document
-**Subject entities:** War Powers Act of 1973
-**Predicate:** provides_extension
-**Object:** 30-day extension (statutory_provision)
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** War Powers Act of 1973
+- **Predicate:** provides_extension
+- **Object:** 30-day extension (statutory_provision)
+- **Sources:** src_001
 
 > The War Powers Act provides for a potential 30-day extension beyond the 60-day deadline.
 
-### c_006 — reported, single source
-**Subject entities:** Lisa Murkowski
-**Predicate:** discussing_resolution
-**Object:** war authorization beyond 60-day deadline (legislative_action)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Lisa Murkowski
+- **Predicate:** discussing_resolution
+- **Object:** war authorization beyond 60-day deadline (legislative_action)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Sen. Lisa Murkowski, R-Alaska, has been discussing with GOP colleagues a resolution that would authorize the Iran conflict beyond the 60-day deadline.
 
-### c_007 — attributed, single source
-**Subject entities:** Thom Tillis
-**Predicate:** said
-**Object:** fish or cut bait and authorization strategy statement (quotation)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Thom Tillis
+- **Predicate:** said
+- **Object:** fish or cut bait and authorization strategy statement (quotation)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Sen. Thom Tillis, R-N.C., said the 60-day or 90-day deadline will mean it's time to fish or cut bait, and that the administration should put together a military force authorization and funding strategy.
 
-### c_008 — attributed, single source
-**Subject entities:** Josh Hawley
-**Predicate:** said
-**Object:** need authorization vote at 60-day deadline (statement)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Josh Hawley
+- **Predicate:** said
+- **Object:** need authorization vote at 60-day deadline (statement)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Sen. Josh Hawley, R-Mo., said that if the war has not ended by the 60-day deadline, Congress should vote on a military authorization.
 
-### c_009 — attributed, single source
-**Subject entities:** Susan Collins
-**Predicate:** said
-**Object:** not unlimited power and authorization threshold statement (statement)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Susan Collins
+- **Predicate:** said
+- **Object:** not unlimited power and authorization threshold statement (statement)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Sen. Susan Collins, R-Maine, said the president's power is not unlimited as commander in chief and that Congress should authorize the conflict if it exceeds the 60-day deadline or involves ground troops.
 
-### c_010 — attributed, single source
-**Subject entities:** John Thune
-**Predicate:** said
-**Object:** wind-down plan statement (statement)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** John Thune
+- **Predicate:** said
+- **Object:** wind-down plan statement (statement)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Senate Majority Leader John Thune, R-S.D., said the administration needs a plan to wind down the conflict toward a safer Middle East.
 
-### c_011 — reported, single source
-**Subject entities:** United States Congress; John Thune
-**Predicate:** awaiting_funding_request
-**Object:** hundreds of billions of dollars (financial)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** United States Congress; John Thune
+- **Predicate:** awaiting_funding_request
+- **Object:** hundreds of billions of dollars (financial)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Congress has not yet received a White House war funding request, which Senate Majority Leader Thune said could total hundreds of billions of dollars.
 
-### c_012 — attributed, single source
-**Subject entities:** Jim Lankford
-**Predicate:** said
-**Object:** war funding as big vote (statement)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jim Lankford
+- **Predicate:** said
+- **Object:** war funding as big vote (statement)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Sen. Jim Lankford, R-Okla., said war funding will be the big vote.
 
-### c_013 — attributed, single source
-**Subject entities:** John Kennedy
-**Predicate:** said
-**Object:** achieve objective then get out statement (quotation)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** John Kennedy
+- **Predicate:** said
+- **Object:** achieve objective then get out statement (quotation)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Sen. John Kennedy, R-La., said he wants to see the United States achieve its objective in Iran and then withdraw.
 
-### c_014 — attributed, single source
-**Subject entities:** Tammy Duckworth
-**Predicate:** said
-**Object:** absolute minimum required statement (quotation)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Tammy Duckworth
+- **Predicate:** said
+- **Object:** absolute minimum required statement (quotation)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Sen. Tammy Duckworth, D-Ill., an Iraq war veteran who lost both legs in combat, said senators need to do the absolute minimum required of them before the vote.
 
-### c_015 — attributed, single source
-**Subject entities:** Charles Schumer
-**Predicate:** said
-**Object:** disastrous war with gas prices statement (statement)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Charles Schumer
+- **Predicate:** said
+- **Object:** disastrous war with gas prices statement (statement)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Senate Minority Leader Chuck Schumer cited climbing gas prices and called the conflict Trump's disastrous war.
 
-### c_016 — reported, single source
-**Subject entities:** United States Congress
-**Predicate:** expected_vote
-**Object:** House war powers vote (legislative_action)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_016
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** United States Congress
+- **Predicate:** expected_vote
+- **Object:** House war powers vote (legislative_action)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > A House war powers vote was expected during the week of April 15, 2026, with its outcome uncertain.
 
-### c_017 — attributed, single source
-**Subject entities:** United States Senate
-**Predicate:** vowed_continued_votes
-**Object:** floor votes until war ends (legislative_commitment)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_017
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** United States Senate
+- **Predicate:** vowed_continued_votes
+- **Object:** floor votes until war ends (legislative_commitment)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Democrats vowed to force Senate floor votes on the Iran war as long as the conflict continues.
 
-### c_018 — attributed, single source
-**Subject entities:** Lisa Murkowski
-**Predicate:** said
-**Object:** should have sought authorization statement (quotation)
-**Temporal:** 2026-03
-**Source IDs:** src_001
+### c_018
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Lisa Murkowski
+- **Predicate:** said
+- **Object:** should have sought authorization statement (quotation)
+- **Temporal:** 2026-03
+- **Sources:** src_001
 
 > Murkowski said in early March that the president should have sought authorization from Congress before striking Iran on that scale and should have brought in allies ahead of time.
 
@@ -286,10 +328,5 @@ A House war powers vote was expected later this week, with its outcome uncertain
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Mary Clare Jalonick
 **Publication date:** 2026-04-15
-**Access date:** 2026-04-15
 **Title:** Senate Republicans again reject effort to halt Iran war
 **URL:** https://apnews.com/article/iran-war-trump-war-powers-8a47ef050f05d49677c5f4cf2f6bfbd4
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

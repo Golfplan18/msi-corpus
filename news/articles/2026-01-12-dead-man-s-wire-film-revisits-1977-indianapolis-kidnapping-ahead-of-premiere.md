@@ -21,46 +21,44 @@ primary_themes:
 - kidnapping
 - insanity defense
 topic_tags:
-  - "economy, business and finance"
-  - "arts, culture, entertainment and media"
-  - "arts and entertainment"
+- arts and entertainment
+- crime
+- crime, law and justice
 storyline_nexus:
-  - us-administration-2026
-  - us-china-relations
-  - ai-regulation
-geographic_location: Indianapolis, Indiana, United States
+- us-immigration-enforcement
+geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.65
 - value: human_life_and_dignity
-  intensity: 0.5
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T06:58:52Z'
+  intensity: 0.9
+- value: informed_citizenship
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:45:17Z'
 source_cluster_id: cluster_ap_2026-01-13_richard-hall-general-news-indianapolis-k
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 15
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 15
     reported: 0
     contested: 0
+    attributed: 15
     confirmed: 0
+    appears: 0
+    alleged: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 0
+    primary_plus_secondary: 0
     single_source: 15
+    one_originating_plus_primary_document: 0
     two_independent: 0
 sources:
   count: 1
   outlets:
-  - Associated Press / Mirror Indy
+  - Associated Press
   outlet_classes:
   - wire
   highest_reliability_tier: 1
@@ -77,6 +75,16 @@ image:
 cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- The ‘Dead Man’s Wire’ tour of Indy’s west side
+- A film titled 'Dead Man's Wire,' directed by Gus Van Sant, is set to premiere Jan. 16.
+- The film stars Bill Skarsgård and Dacre Montgomery.
+- On Feb. 8, 1977, Tony Kiritsis kidnapped Richard Hall, president of Meridian Mortgage, at the company's offices in Indianapolis.
+- Kiritsis attached a sawed-off shotgun to Hall's head using a wire coathanger tied to the trigger — a 'dead man's line' that would fire if police intervened.
 
 A film directed by Gus Van Sant depicting a 1977 Indianapolis kidnapping is set to premiere Jan. 16, drawing renewed attention to a case in which a failed real estate developer held a mortgage company executive at gunpoint for nearly 63 hours using a wire-triggered shotgun.
 
@@ -136,156 +144,177 @@ Kiritsis was charged with kidnapping, armed extortion, and armed robbery. In Oct
 
 Mirror Indy's location tour, published ahead of the film's Jan. 16 premiere, traces the sites connected to Kiritsis and the 1977 standoff across Indianapolis' west side — from the block where his childhood home once stood to the renovated building that housed Meridian Mortgage's offices and the apartment complex where Hall was held. Most of the locations remain standing today under different names or owners.
 
----
-
-*Reporting originally published by Mirror Indy, Enrique Saenz, and distributed through a partnership with The Associated Press. This article was generated algorithmically by Main Street Independent's News Article Generator framework. [Methodology](/methodology). Released under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*
-
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Dead Man's Wire (film); Gus Van Sant
-**Predicate:** premiere_scheduled
-**Object:** 2026-01-16 (date)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Dead Man's Wire (film); Gus Van Sant
+- **Predicate:** premiere_scheduled
+- **Object:** 2026-01-16 (date)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > A film titled 'Dead Man's Wire,' directed by Gus Van Sant, is set to premiere Jan. 16.
 
-### c_002 — attributed, single source
-**Subject entities:** Dead Man's Wire (film); Bill Skarsgård; Dacre Montgomery
-**Predicate:** stars
-**Object:** Bill Skarsgård and Dacre Montgomery (cast)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Dead Man's Wire (film); Bill Skarsgård; Dacre Montgomery
+- **Predicate:** stars
+- **Object:** Bill Skarsgård and Dacre Montgomery (cast)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > The film stars Bill Skarsgård and Dacre Montgomery.
 
-### c_003 — attributed, single source
-**Subject entities:** Tony Kiritsis; Richard Hall; Meridian Mortgage
-**Predicate:** kidnapped
-**Object:** Richard Hall (person)
-**Temporal:** 1977-02-08
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Tony Kiritsis; Richard Hall; Meridian Mortgage
+- **Predicate:** kidnapped
+- **Object:** Richard Hall (person)
+- **Temporal:** 1977-02-08
+- **Sources:** src_001
 
 > On Feb. 8, 1977, Tony Kiritsis kidnapped Richard Hall, president of Meridian Mortgage, at the company's offices in Indianapolis.
 
-### c_004 — attributed, single source
-**Subject entities:** Tony Kiritsis; Richard Hall
-**Predicate:** deployed
-**Object:** dead man's line device (device)
-**Temporal:** 1977-02-08
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Tony Kiritsis; Richard Hall
+- **Predicate:** deployed
+- **Object:** dead man's line device (device)
+- **Temporal:** 1977-02-08
+- **Sources:** src_001
 
 > Kiritsis attached a sawed-off shotgun to Hall's head using a wire coathanger tied to the trigger — a 'dead man's line' that would fire if police intervened.
 
-### c_005 — attributed, single source
-**Subject entities:** Tony Kiritsis; Richard Hall
-**Predicate:** held_hostage
-**Object:** nearly 63 hours (duration)
-**Temporal:** 1977-02
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Tony Kiritsis; Richard Hall
+- **Predicate:** held_hostage
+- **Object:** nearly 63 hours (duration)
+- **Temporal:** 1977-02
+- **Sources:** src_001
 
 > Kiritsis held Hall hostage for nearly 63 hours at 220 Welcome Way Blvd. in the Chapel Hill/Ben Davis neighborhood.
 
-### c_006 — attributed, single source
-**Subject entities:** Jeff Atteberry; Indianapolis Star; Tony Kiritsis
-**Predicate:** photographed
-**Object:** Kiritsis press conference (event)
-**Temporal:** 1977-02
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jeff Atteberry; Indianapolis Star; Tony Kiritsis
+- **Predicate:** photographed
+- **Object:** Kiritsis press conference (event)
+- **Temporal:** 1977-02
+- **Sources:** src_001
 
 > Jeff Atteberry, then 25 and a photographer for the Indianapolis Star, photographed the press conference Kiritsis held on the final day of the standoff.
 
-### c_007 — attributed, single source
-**Subject entities:** Jeff Atteberry
-**Predicate:** recounted
-**Object:** looking down shotgun barrel (statement)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jeff Atteberry
+- **Predicate:** recounted
+- **Object:** looking down shotgun barrel (statement)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Atteberry said he inadvertently found himself looking down the shotgun barrel while searching for a better camera angle.
 
-### c_008 — attributed, single source
-**Subject entities:** Tony Kiritsis; WIBC-AM; Fred Heckman; Richard Hall
-**Predicate:** negotiated_release
-**Object:** Hall's release (event)
-**Temporal:** 1977-02
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Tony Kiritsis; WIBC-AM; Fred Heckman; Richard Hall
+- **Predicate:** negotiated_release
+- **Object:** Hall's release (event)
+- **Temporal:** 1977-02
+- **Sources:** src_001
 
 > Kiritsis called repeatedly into radio station WIBC-AM; Fred Heckman, an Indianapolis Broadcasters Association Hall of Fame member, helped negotiate Hall's release.
 
-### c_009 — attributed, single source
-**Subject entities:** Richard Hall; Wishard Memorial Hospital
-**Predicate:** transported_for_treatment
-**Object:** hospital (location)
-**Temporal:** 1977-02
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Richard Hall; Wishard Memorial Hospital
+- **Predicate:** transported_for_treatment
+- **Object:** hospital (location)
+- **Temporal:** 1977-02
+- **Sources:** src_001
 
 > Hall was released and taken to Wishard Memorial Hospital — now Sidney & Lois Eskenazi Hospital — for evaluation and treatment.
 
-### c_010 — attributed, single source
-**Subject entities:** Tony Kiritsis
-**Predicate:** verdict
-**Object:** not guilty by reason of insanity (legal_outcome)
-**Temporal:** 1977-10
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Tony Kiritsis
+- **Predicate:** verdict
+- **Object:** not guilty by reason of insanity (legal_outcome)
+- **Temporal:** 1977-10
+- **Sources:** src_001
 
 > A jury found Kiritsis not guilty by reason of insanity in October 1977.
 
-### c_011 — attributed, single source
-**Subject entities:** Tony Kiritsis
-**Predicate:** died
-**Object:** natural causes (cause_of_death)
-**Temporal:** 2005
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Tony Kiritsis
+- **Predicate:** died
+- **Object:** natural causes (cause_of_death)
+- **Temporal:** 2005
+- **Sources:** src_001
 
 > Kiritsis died of natural causes in 2005.
 
-### c_012 — attributed, single source
-**Subject entities:** Tony Kiritsis; Meridian Mortgage
-**Predicate:** borrowed
-**Object:** $110,000 (currency)
-**Temporal:** 1973
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Tony Kiritsis; Meridian Mortgage
+- **Predicate:** borrowed
+- **Object:** $110,000 (currency)
+- **Temporal:** 1973
+- **Sources:** src_001
 
 > Kiritsis took out a $110,000 loan from Meridian Mortgage in 1973 to buy 17 acres at Rockville Road and Lynhurst Drive, which he planned to develop into a shopping center.
 
-### c_013 — attributed, single source
-**Subject entities:** Indianapolis Star; Richard Hall; Jack Hall; Tony Kiritsis
-**Predicate:** confirmed
-**Object:** Hall family suggested competing development sites (finding)
-**Temporal:** 1977-02
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Indianapolis Star; Richard Hall; Jack Hall; Tony Kiritsis
+- **Predicate:** confirmed
+- **Object:** Hall family suggested competing development sites (finding)
+- **Temporal:** 1977-02
+- **Sources:** src_001
 
 > The Indianapolis Star confirmed during the kidnapping that Richard Hall's brother, Jack, had written to supermarket companies suggesting sites other than Kiritsis's property.
 
-### c_014 — attributed, single source
-**Subject entities:** Tony Kiritsis
-**Predicate:** born
-**Object:** 1938-08-13 (date)
-**Temporal:** 1938-08-13
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Tony Kiritsis
+- **Predicate:** born
+- **Object:** 1938-08-13 (date)
+- **Temporal:** 1938-08-13
+- **Sources:** src_001
 
 > Kiritsis was born Aug. 13, 1938, to Greek immigrant parents and grew up on Indianapolis' west side.
 
-### c_015 — attributed, single source
-**Subject entities:** Tony Kiritsis
-**Predicate:** said
-**Object:** I've just taken a prisoner (quotation)
-**Temporal:** 1977-02-08
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Tony Kiritsis
+- **Predicate:** said
+- **Object:** I've just taken a prisoner (quotation)
+- **Temporal:** 1977-02-08
+- **Sources:** src_001
 
 > Kiritsis told police, 'Sir, this is a dire emergency, a real serious thing. I've just taken a prisoner.'
 
 ## Sources
 
-### src_001 — Associated Press / Mirror Indy, wire, Tier 1, originating
-**Author:** Enrique Saenz
+### src_001 — Associated Press, wire, Tier 1, originating
+**Author:** Enrique Saenz / Mirror Indy
 **Publication date:** 2026-01-12
-**Access date:** 2026-01-12
-**Title:** The 'Dead Man's Wire' tour of Indy's west side
+**Title:** The ‘Dead Man’s Wire’ tour of Indy’s west side
 **URL:** https://apnews.com/article/richard-hall-general-news-indianapolis-kidnapping-95d57e475cb191d97a6d2a867ce1be9d
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

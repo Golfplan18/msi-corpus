@@ -108,8 +108,6 @@ Alessandra Korap, an Indigenous leader of the Munduruku people who protested at 
 
 The protests drew national attention and inspired solidarity demonstrations across the rainforest and in Sao Paulo, thousands of miles from Santarem, sparking debate on social media about contradictions in Lula's development agenda.
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
 ### c_001 — reported, single source
@@ -255,7 +253,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-05-18
 **Title:** Brazilian government halts waterway concessions after Indigenous protests
 **URL:** https://apnews.com/article/brazil-amazon-rainforest-cargill-protest-indigenous-efe6c58cc7c20ce205a03ba8be5fd35f
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -1,6 +1,5 @@
 ---
 headline: Hawaii audit calls local school food push a 'structural disaster'
-slug: 2026-03-06-hawaii-audit-calls-local-school-food-push-a-structural-disaster
 publish_date: '2026-03-06'
 lede: 'Hawaii''s Department of Education has failed to track which food purchases came from local sources, lacked functioning software to monitor spending, and fell back on handwritten ledgers — even as state lawmakers pressed the agency to dramatically expand the share of locally grown food in school meals, a state audit released Thursday found.
 
@@ -23,40 +22,41 @@ primary_themes:
 - local food procurement
 - Hawaii education
 topic_tags:
-  - "accident and emergency incident"
-  - "disaster, accident and emergency incident"
-  - "education"
-  - "school"
-storyline_nexus: []
-geographic_location: Hawaii, United States
+- agriculture
+- education policy
+- government policy
+- school
+storyline_nexus:
+- snap-safety-net-cuts
+geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.8
 - value: accountability_of_power
-  intensity: 0.75
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:44:34Z'
+  intensity: 0.9
+- value: truthfulness
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:40:40Z'
 source_cluster_id: cluster_ap_2026-03-07_schools-agriculture-education-funding-ha
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 12
   hedges:
     appears: 0
-    alleged: 0
+    confirmed: 2
+    contested: 0
     attributed: 9
     reported: 1
-    contested: 0
-    confirmed: 2
+    alleged: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 10
     single_source: 2
+    primary_document: 10
+    one_originating_plus_primary_document: 0
     two_independent: 0
+    primary_plus_secondary: 0
 sources:
   count: 1
   outlets:
@@ -70,13 +70,16 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-05-south-dakota-small-farms-diversify-to-capitalize-on-farm-to-table-demand
-  relation: related
-  strength: 0.7178
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- The Hawaii Office of the Auditor called the department''s approach "haphazard" and strongly questioned whether the agency can meet a Legislature-mandated goal to spend 30% of its food budget on loc...
+- The Hawaii Office of the Auditor called the department''s approach "haphazard" and strongly questioned whether the agency can meet a Legislature-manda
+- The Hawaii Office of the Auditor called the department''s approach "haphazard" and strongly questioned whether the agency can meet a Legislature-manda
 
 Hawaii's Department of Education has failed to track which food purchases came from local sources, lacked functioning software to monitor spending, and fell back on handwritten ledgers — even as state lawmakers pressed the agency to dramatically expand the share of locally grown food in school meals, a state audit released Thursday found.
 
@@ -140,111 +143,135 @@ Advocates said the state Agriculture Department — which could help farmers sca
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Hawaii Office of the Auditor; Hawaii Department of Education
-**Predicate:** found_deficient
-**Object:** local food purchasing approach (program_assessment)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Hawaii Office of the Auditor; Hawaii Department of Education
+- **Predicate:** found_deficient
+- **Object:** local food purchasing approach (program_assessment)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > The Hawaii Office of the Auditor released a report on March 6, 2026 finding the Department of Education has been haphazard in its approach to increasing the amount of local food it purchases.
 
-### c_002 — confirmed, primary document
-**Subject entities:** Hawaii Legislature; Hawaii Department of Education
-**Predicate:** mandated
-**Object:** 30% local food purchasing by 2030 (legislative_mandate)
-**Temporal:** 2021
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Hawaii Legislature; Hawaii Department of Education
+- **Predicate:** mandated
+- **Object:** 30% local food purchasing by 2030 (legislative_mandate)
+- **Temporal:** 2021
+- **Sources:** src_001
 
 > The Hawaii Legislature in 2021 set a goal requiring the DOE to spend 30% of its food budget on locally sourced food by 2030.
 
-### c_003 — attributed, primary document
-**Subject entities:** Hawaii Department of Education
-**Predicate:** assumed
-**Object:** milk purchases alone would meet 10% benchmark (planning_assumption)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Hawaii Department of Education
+- **Predicate:** assumed
+- **Object:** milk purchases alone would meet 10% benchmark (planning_assumption)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > DOE officials had believed milk purchases alone would allow the department to meet its initial benchmark of spending 10% of its budget on locally sourced food by 2025.
 
-### c_004 — attributed, primary document
-**Subject entities:** Hawaii Department of Education
-**Predicate:** comprised
-**Object:** 0.5% of meal budgets (percentage)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Hawaii Department of Education
+- **Predicate:** comprised
+- **Object:** 0.5% of meal budgets (percentage)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > Local milk made up only 0.5% of schools' meal budgets, which the department did not realize until after the 2023-24 school year.
 
-### c_005 — attributed, primary document
-**Subject entities:** Hawaii Department of Education
-**Predicate:** left_unspent
-**Object:** $1 million (dollar_amount)
-**Temporal:** 2023-24
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Hawaii Department of Education
+- **Predicate:** left_unspent
+- **Object:** $1 million (dollar_amount)
+- **Temporal:** 2023-24
+- **Sources:** src_001
 
 > Schools left $1 million in federal Fresh Fruit and Vegetable funding unspent in 2023-24, almost 20% of the allotment.
 
-### c_006 — attributed, primary document
-**Subject entities:** Hawaii Department of Education
-**Predicate:** left_unspent
-**Object:** $913,000 (dollar_amount)
-**Temporal:** 2024-25
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Hawaii Department of Education
+- **Predicate:** left_unspent
+- **Object:** $913,000 (dollar_amount)
+- **Temporal:** 2024-25
+- **Sources:** src_001
 
 > The department failed to use $913,000 of the federal produce program's funding the following year.
 
-### c_007 — attributed, primary document
-**Subject entities:** Hawaii Department of Education
-**Predicate:** reported_conflicting_figures
-**Object:** $64 million vs. more than $75 million (dollar_discrepancy)
-**Temporal:** 2023
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Hawaii Department of Education
+- **Predicate:** reported_conflicting_figures
+- **Object:** $64 million vs. more than $75 million (dollar_discrepancy)
+- **Temporal:** 2023
+- **Sources:** src_001
 
 > DOE annual legislative reports said schools spent $64 million on food in 2023, but an internal office said the costs that year were more than $75 million.
 
-### c_008 — attributed, primary document
-**Subject entities:** Hawaii Department of Education
-**Predicate:** improperly_procured
-**Object:** $2.3 million software (technology_purchase)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Hawaii Department of Education
+- **Predicate:** improperly_procured
+- **Object:** $2.3 million software (technology_purchase)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Roughly 70 of the nearly 200 cafeteria managers did not use meal-tracking software as intended, and the department went through improper procurement processes to purchase the $2.3 million technology.
 
-### c_009 — attributed, primary document
-**Subject entities:** Hawaii Department of Education
-**Predicate:** constructing
-**Object:** $130 million centralized kitchen network (capital_project)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Hawaii Department of Education
+- **Predicate:** constructing
+- **Object:** $130 million centralized kitchen network (capital_project)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Construction on the first centralized kitchen, in Whitmore Village on O'ahu, is expected to cost $130 million and serve up to 60,000 meals per day when complete; seven such kitchens are planned, capable together of producing up to 172,000 meals per day.
 
-### c_010 — attributed, primary document
-**Subject entities:** Hawaii Department of Education; Hawaii Governor
-**Predicate:** denied
-**Object:** 13 positions and nearly $1.5 million (budget_request)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Hawaii Department of Education; Hawaii Governor
+- **Predicate:** denied
+- **Object:** 13 positions and nearly $1.5 million (budget_request)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > The DOE requested 13 positions and nearly $1.5 million to cover rising food costs in its fiscal year 2027 budget request; both were denied in the governor's budget.
 
-### c_011 — attributed, single source
-**Subject entities:** Keith Hayashi; Hawaii Department of Education
-**Predicate:** committed
-**Object:** complete 20 recommendations by 2028 (official_commitment)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Keith Hayashi; Hawaii Department of Education
+- **Predicate:** committed
+- **Object:** complete 20 recommendations by 2028 (official_commitment)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > Superintendent Keith Hayashi said the department will complete all 20 audit recommendations by 2028 or take action on an annual basis.
 
-### c_012 — reported, single source
-**Subject entities:** Hawaii Department of Education
-**Predicate:** misclassified
-**Object:** mainland lettuce washed on Maui as local produce (classification_error)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Hawaii Department of Education
+- **Predicate:** misclassified
+- **Object:** mainland lettuce washed on Maui as local produce (classification_error)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > A mainland-grown lettuce was classified as a local product because it was washed on Maui, according to a former school food administrator.
 
@@ -253,10 +280,5 @@ Advocates said the state Agriculture Department — which could help farmers sca
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Megan Tagami
 **Publication date:** 2026-03-06
-**Access date:** 2026-05-17
-**Title:** Push To Feed Hawaiʻi Kids More Local Food Is 'Structural Disaster'
+**Title:** Push To Feed Hawaiʻi Kids More Local Food Is ‘Structural Disaster’
 **URL:** https://apnews.com/article/schools-agriculture-education-funding-hawaii-general-news-c0f47332c56f119cae754cd287fbe94f
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

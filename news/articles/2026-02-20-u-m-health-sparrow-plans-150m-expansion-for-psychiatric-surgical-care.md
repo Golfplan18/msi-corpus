@@ -14,43 +14,41 @@ primary_themes:
 - regional health equity
 - surgical capacity
 topic_tags:
-  - health
-storyline_nexus: []
-geographic_location: Lansing, Michigan
+- health
+- mental health
+- health treatment and procedure
+- construction and property
+storyline_nexus:
+- housing-affordability-crisis
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
   intensity: 0.9
-- value: truthfulness
-  intensity: 0.95
-- value: accountability_of_power
-  intensity: 0.75
 - value: equality_fairness
-  intensity: 0.85
-- value: informed_citizenship
-  intensity: 0.8
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:53:41Z'
 source_cluster_id: cluster_ap_2026-02-21_surgery-lansing-general-news-3948a6f37e8
 gdelt_event_ids: []
-consensus_floor_version: '1.0'
-publication_mindspec_version: '1.0'
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 13
   hedges:
-    appears: 0
     alleged: 0
     attributed: 5
     reported: 0
+    appears: 0
     contested: 0
     confirmed: 8
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 13
     single_source: 0
+    one_originating_plus_primary_document: 0
     two_independent: 0
+    primary_plus_secondary: 0
 sources:
   count: 1
   outlets:
@@ -67,6 +65,7 @@ figures_aggregate:
 cross_article_links: []
 draft: false
 ---
+
 
 The behavioral health hospital will offer the hospital's first inpatient child and adolescent psychiatric care, addressing a significant regional gap where the nearest such facility is about an hour's drive away.
 
@@ -92,126 +91,148 @@ Margaret Dimond, regional president of U-M Health, characterized the projects as
 
 Groundbreaking for both facilities is expected this summer, with anticipated opening in 2028. The projects are part of a broader investment strategy. U-M has committed $32 million to a clinic in Grand Ledge expected to open by year-end 2026, and $28 million to an ambulatory clinic center in Ionia.
 
----
-
-**AI Disclosure:** This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Framework specification: Appendix F of Main Street Independent Editorial Foundation. Human review: not_triggered. [License: CC0](https://creativecommons.org/publicdomain/zero/1.0/)
-
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** U-M Board of Regents; University of Michigan Health-Sparrow
-**Predicate:** approved_projects
-**Object:** behavioral health hospital and surgical center (capital_project)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** U-M Board of Regents; University of Michigan Health-Sparrow
+- **Predicate:** approved_projects
+- **Object:** behavioral health hospital and surgical center (capital_project)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > The U-M Board of Regents voted Thursday to approve a behavioral health hospital and freestanding surgical center at University of Michigan Health-Sparrow Hospital in Lansing.
 
-### c_002 — confirmed, primary document
-**Subject entities:** behavioral health hospital; surgical center
-**Predicate:** total_cost
-**Object:** $150 million (financial_amount)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** behavioral health hospital; surgical center
+- **Predicate:** total_cost
+- **Object:** $150 million (financial_amount)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > The two projects will cost nearly $150 million combined.
 
-### c_003 — confirmed, primary document
-**Subject entities:** behavioral health hospital
-**Predicate:** has_specifications
-**Object:** 64 beds, $83 million cost (facility_specs)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** behavioral health hospital
+- **Predicate:** has_specifications
+- **Object:** 64 beds, $83 million cost (facility_specs)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > The behavioral health hospital will have 64 beds and cost $83 million.
 
-### c_004 — confirmed, primary document
-**Subject entities:** behavioral health hospital
-**Predicate:** offers_service
-**Object:** first inpatient child and adolescent psychiatric care (healthcare_service)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** behavioral health hospital
+- **Predicate:** offers_service
+- **Object:** first inpatient child and adolescent psychiatric care (healthcare_service)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > The behavioral health hospital will offer the hospital's first inpatient child and adolescent psychiatric care.
 
-### c_005 — confirmed, primary document
-**Subject entities:** behavioral health hospital
-**Predicate:** serves_populations
-**Object:** geriatric, adult, adolescent populations; partial hospitalization (service_scope)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** behavioral health hospital
+- **Predicate:** serves_populations
+- **Object:** geriatric, adult, adolescent populations; partial hospitalization (service_scope)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > The hospital will serve geriatric and adult populations, with programs for adolescents and partial hospitalization services.
 
-### c_006 — attributed, primary document
-**Subject entities:** behavioral health hospital; Lansing
-**Predicate:** addresses_access_gap
-**Object:** 16 new pediatric beds, eliminating ~1-hour travel distance (healthcare_capacity)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** behavioral health hospital; Lansing
+- **Predicate:** addresses_access_gap
+- **Object:** 16 new pediatric beds, eliminating ~1-hour travel distance (healthcare_capacity)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > The behavioral health hospital will add 16 new beds for pediatric patients, whereas previously the closest inpatient bed for a child was about an hour away from Lansing.
 
-### c_007 — confirmed, primary document
-**Subject entities:** surgical center
-**Predicate:** costs
-**Object:** $60 million (financial_amount)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** surgical center
+- **Predicate:** costs
+- **Object:** $60 million (financial_amount)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > The surgical center will cost $60 million.
 
-### c_008 — confirmed, primary document
-**Subject entities:** surgical center
-**Predicate:** has_capacity
-**Object:** 4 initial operating rooms, potential expansion to 6 (facility_capacity)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** surgical center
+- **Predicate:** has_capacity
+- **Object:** 4 initial operating rooms, potential expansion to 6 (facility_capacity)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > The surgical center will open initially with four operating rooms and potentially expand with two more.
 
-### c_009 — attributed, primary document
-**Subject entities:** behavioral health hospital; surgical center
-**Predicate:** has_timeline
-**Object:** groundbreaking summer 2026, opening 2028 (schedule)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** behavioral health hospital; surgical center
+- **Predicate:** has_timeline
+- **Object:** groundbreaking summer 2026, opening 2028 (schedule)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > Groundbreaking for both facilities is expected in summer 2026 with anticipated opening in 2028.
 
-### c_010 — attributed, primary document
-**Subject entities:** David C. Miller
-**Predicate:** stated
-**Object:** investments improve access for vulnerable populations statewide (statement)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** David C. Miller
+- **Predicate:** stated
+- **Object:** investments improve access for vulnerable populations statewide (statement)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > David C. Miller, CEO of Michigan Medicine, said the investments continue the commitment to improving access to care across the state, particularly for those who are most vulnerable.
 
-### c_011 — attributed, primary document
-**Subject entities:** Victor Hong
-**Predicate:** stated
-**Object:** hospital addresses regional pediatric psychiatric care gap (statement)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Victor Hong
+- **Predicate:** stated
+- **Object:** hospital addresses regional pediatric psychiatric care gap (statement)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > Victor Hong, UM clinical associate professor of psychiatry, said the new hospital will enhance regional care by adding beds for pediatric patients where previously the closest inpatient bed for a child was about an hour away from Lansing.
 
-### c_012 — attributed, primary document
-**Subject entities:** Margaret Dimond
-**Predicate:** stated
-**Object:** projects address unmet behavioral health needs in region (statement)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Margaret Dimond
+- **Predicate:** stated
+- **Object:** projects address unmet behavioral health needs in region (statement)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > Margaret Dimond, Regional President of U-M Health, said both projects address unmet needs, including the scarcity of behavioral health services in the region.
 
-### c_013 — confirmed, primary document
-**Subject entities:** U-M Health; Grand Ledge; Ionia
-**Predicate:** invested
-**Object:** $32M Grand Ledge clinic, $28M Ionia ambulatory center (capital_investment)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_013
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** U-M Health; Grand Ledge; Ionia
+- **Predicate:** invested
+- **Object:** $32M Grand Ledge clinic, $28M Ionia ambulatory center (capital_investment)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > U-M has also invested $32 million in a clinic in Grand Ledge expected to open by year-end 2026, and $28 million in an ambulatory clinic center in Ionia.
 
@@ -220,10 +241,5 @@ Groundbreaking for both facilities is expected this summer, with anticipated ope
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Kim Kozlowski / Bridge Michigan
 **Publication date:** 2026-02-20
-**Access date:** 2026-02-20
 **Title:** 2 projects at University of Michigan Health-Sparrow to expand psych health services, surgery beds
 **URL:** https://apnews.com/article/surgery-lansing-general-news-3948a6f37e86998a5f9c14af21a22af2
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

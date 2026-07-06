@@ -16,41 +16,43 @@ primary_themes:
 - technology_business_models
 - data_privacy
 topic_tags:
-  - "artificial intelligence"
-  - "government policy"
-  - "human migration"
-  - "international relations"
-  - politics
-  - "science and technology"
-storyline_nexus: []
+- artificial intelligence
+- computing and information technology
+- business information
+- social media
+- economy, business and finance
+storyline_nexus:
+- ai-industry-regulation
 geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.7
 - value: accountability_of_power
-  intensity: 0.5
-framework_version: 1.1.0
-generation_timestamp: '2026-01-16T12:00:00Z'
+  intensity: 0.9
+- value: truthfulness
+  intensity: 0.6
+- value: informed_citizenship
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:20:45Z'
 source_cluster_id: cluster_ap_2026-01-18_chatgpt-ads-openai-advertising-83812a066
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 13
   hedges:
     appears: 0
-    alleged: 0
-    attributed: 13
-    reported: 0
     contested: 0
+    reported: 0
+    attributed: 13
+    alleged: 0
     confirmed: 0
   corroboration:
     primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 0
     single_source: 13
+    one_originating_plus_primary_document: 0
     two_independent: 0
 sources:
   count: 1
@@ -65,25 +67,20 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-11-google-s-gemini-adds-in-chatbot-shopping-with-walmart-shopify-wayfair
-  relation: related
-  strength: 0.7295
-  confidence: medium
-- slug: 2026-01-13-microsoft-s-brad-smith-tells-congress-big-tech-must-pay-ai-data-center-costs
-  relation: related
-  strength: 0.693
-  confidence: medium
-- slug: 2026-01-09-grok-restricts-image-generation-for-free-users-after-deepfake-backlash-but-regul
-  relation: related
-  strength: 0.7101
-  confidence: medium
-- slug: 2026-01-08-xai-to-build-20-billion-data-center-in-mississippi-amid-environmental-pushback
-  relation: related
-  strength: 0.7018
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- ChatGPT’s free ride is ending: Here’s what OpenAI plans for advertising on the chatbot
+- OpenAI says it will soon start showing advertisements to ChatGPT users who aren’t paying for a premium version of the chatbot.
+- The artificial intelligence company said Friday it hasn’t yet rolled out ads but will start testing them in the coming weeks.
+- It’s the latest effort by the San Francisco-based company to make money from ChatGPT’s more than 800 million users, most of whom get it for free.
+- Though valued at $500 billion, the startup loses more money than it makes and has been looking for ways to turn a profit.
+- “Most importantly: ads will not influence the answers ChatGPT gives you,” said Fidji Simo, the company’s CEO of applications, in a social media post Friday.
 
 OpenAI said Friday it will begin testing advertisements on the free version of ChatGPT within weeks, as the San Francisco-based company seeks new revenue to cover more than $1 trillion in financial obligations for computer chips and data centers powering its artificial intelligence services. The company said ads have not yet appeared on the chatbot but testing would begin in the coming weeks.
 
@@ -113,120 +110,146 @@ The company said Friday that its pursuit of advertising will be "always in suppo
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** OpenAI Inc
-**Predicate:** announced_plan
-**Object:** advertising on ChatGPT free tier (corporate_action)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** OpenAI Inc
+- **Predicate:** announced_plan
+- **Object:** advertising on ChatGPT free tier (corporate_action)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > OpenAI will begin testing advertisements on ChatGPT's free tier within weeks.
 
-### c_002 — attributed, single source
-**Subject entities:** OpenAI Inc; ChatGPT
-**Predicate:** has_users
-**Object:** 800 million+ (user_count)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** OpenAI Inc; ChatGPT
+- **Predicate:** has_users
+- **Object:** 800 million+ (user_count)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > ChatGPT has more than 800 million users, most of whom use it for free.
 
-### c_003 — attributed, single source
-**Subject entities:** OpenAI Inc
-**Predicate:** valued_at
-**Object:** $500 billion (valuation)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** OpenAI Inc
+- **Predicate:** valued_at
+- **Object:** $500 billion (valuation)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > OpenAI is valued at $500 billion but loses more money than it makes.
 
-### c_004 — attributed, single source
-**Subject entities:** OpenAI Inc; ChatGPT
-**Predicate:** announced_placement
-**Object:** bottom of answers, conversation-relevant (ad_placement)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** OpenAI Inc; ChatGPT
+- **Predicate:** announced_placement
+- **Object:** bottom of answers, conversation-relevant (ad_placement)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > Ads will appear at the bottom of ChatGPT's answers when there is a relevant sponsored product or service based on the current conversation.
 
-### c_005 — attributed, single source
-**Subject entities:** OpenAI Inc
-**Predicate:** stated
-**Object:** ads clearly labeled and separated (policy_commitment)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** OpenAI Inc
+- **Predicate:** stated
+- **Object:** ads clearly labeled and separated (policy_commitment)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > OpenAI said ads will be clearly labeled and separated from the organic answer.
 
-### c_006 — attributed, single source
-**Subject entities:** Fidji Simo; OpenAI Inc
-**Predicate:** stated
-**Object:** ads will not influence answers (policy_commitment)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Fidji Simo; OpenAI Inc
+- **Predicate:** stated
+- **Object:** ads will not influence answers (policy_commitment)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > Fidji Simo, OpenAI's CEO of applications, said ads will not influence the answers ChatGPT gives users.
 
-### c_007 — attributed, single source
-**Subject entities:** OpenAI Inc
-**Predicate:** claimed
-**Object:** no use of personal info or prompts for ad targeting (privacy_claim)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** OpenAI Inc
+- **Predicate:** claimed
+- **Object:** no use of personal info or prompts for ad targeting (privacy_claim)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > OpenAI claims it will not use a user's personal information or prompts to collect data for ads.
 
-### c_008 — attributed, single source
-**Subject entities:** OpenAI Inc
-**Predicate:** has_obligations
-**Object:** more than $1 trillion (financial_obligations)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** OpenAI Inc
+- **Predicate:** has_obligations
+- **Object:** more than $1 trillion (financial_obligations)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > OpenAI has more than $1 trillion in financial obligations for computer chips and data centers.
 
-### c_009 — attributed, single source
-**Subject entities:** Miranda Bogen; Center for Democracy and Technology
-**Predicate:** stated
-**Object:** risky path of social media companies (expert_assessment)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Miranda Bogen; Center for Democracy and Technology
+- **Predicate:** stated
+- **Object:** risky path of social media companies (expert_assessment)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > Miranda Bogen, director of the Center for Democracy and Technology's AI Governance Lab, said introducing personalized ads starts OpenAI down a risky path previously taken by social media companies.
 
-### c_010 — attributed, single source
-**Subject entities:** Paddy Harrington; Forrester
-**Predicate:** stated
-**Object:** privacy promise durability questioned (analyst_assessment)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Paddy Harrington; Forrester
+- **Predicate:** stated
+- **Object:** privacy promise durability questioned (analyst_assessment)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > Paddy Harrington, an analyst at Forrester, said OpenAI's privacy claims raise the question of for how long.
 
-### c_011 — attributed, single source
-**Subject entities:** OpenAI Inc
-**Predicate:** converted_to
-**Object:** public benefit corporation (corporate_structure)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** OpenAI Inc
+- **Predicate:** converted_to
+- **Object:** public benefit corporation (corporate_structure)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > OpenAI last year reorganized its ownership structure and converted its business into a public benefit corporation.
 
-### c_012 — attributed, single source
-**Subject entities:** Alphabet, Inc.; Meta Platforms, Inc.
-**Predicate:** incorporate
-**Object:** ads in AI features (competitor_practice)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Alphabet, Inc.; Meta Platforms, Inc.
+- **Predicate:** incorporate
+- **Object:** ads in AI features (competitor_practice)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > Google and Meta have dominated digital advertising for years and already incorporate ads into some of their AI features.
 
-### c_013 — attributed, single source
-**Subject entities:** Sam Altman; OpenAI Inc
-**Predicate:** stated
-**Object:** advertising business model hopeful (executive_statement)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Sam Altman; OpenAI Inc
+- **Predicate:** stated
+- **Object:** advertising business model hopeful (executive_statement)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > Sam Altman, OpenAI's CEO, said the company is hopeful that an ad-supported business model can work.
 
@@ -235,10 +258,5 @@ The company said Friday that its pursuit of advertising will be "always in suppo
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Matt O'Brien
 **Publication date:** 2026-01-16
-**Access date:** 2026-01-16
 **Title:** OpenAI plans to introduce ads for ChatGPT
 **URL:** https://apnews.com/article/chatgpt-ads-openai-advertising-83812a066375a805fa2e29b28fc77da1
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

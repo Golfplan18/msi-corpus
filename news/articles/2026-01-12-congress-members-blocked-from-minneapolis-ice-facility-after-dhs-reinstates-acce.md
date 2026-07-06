@@ -20,45 +20,44 @@ primary_themes:
 - immigration detention
 - judicial review
 topic_tags:
-  - "crime, law and justice"
-  - "government policy"
-  - "human migration"
-  - "international relations"
-  - "law enforcement"
-  - trial
+- government
+- law
+- judiciary
+- civil rights
+- law enforcement
 storyline_nexus:
-  - immigration-enforcement
-  - us-china-relations
-  - ces-2026
-geographic_location: Minneapolis, MN; Washington, D.C.
+- us-immigration-enforcement
+geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
   intensity: 0.9
 - value: informed_citizenship
-  intensity: 0.85
-framework_version: 1.1.0
-generation_timestamp: '2026-01-12T00:00:00Z'
+  intensity: 0.9
+- value: truthfulness
+  intensity: 0.3
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:08:52Z'
 source_cluster_id: cluster_ap_2026-01-11_minneapolis-shooting-congress-visit-ice-
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 10
   hedges:
+    reported: 0
+    attributed: 7
     appears: 0
     alleged: 0
-    attributed: 7
-    reported: 0
     contested: 0
     confirmed: 3
   corroboration:
     primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 3
     single_source: 7
     two_independent: 0
+    primary_document: 3
+    one_originating_plus_primary_document: 0
 sources:
   count: 1
   outlets:
@@ -76,35 +75,17 @@ image:
   url: /articles/2026-01-12-congress-members-blocked-from-minneapolis-ice-facility-after-dhs-reinstates-acce.png
   alt: 'Illustration accompanying article: Congress members blocked from Minneapolis ICE facility after DHS reinstates'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-08-protests-erupt-in-minneapolis-as-officials-dispute-jurisdiction-in-fatal-ice-sho
-  relation: related
-  strength: 0.7983
-  confidence: medium
-- slug: 2026-01-08-minneapolis-protests-erupt-over-ice-killing-of-renee-good-as-portland-shooting-d
-  relation: related
-  strength: 0.7628
-  confidence: medium
-- slug: 2026-01-08-ice-killing-of-minneapolis-woman-deepens-minnesota-s-conflict-with-trump
-  relation: related
-  strength: 0.7525
-  confidence: medium
-- slug: 2026-01-08-minneapolis-ice-shooting-renews-debate-over-lethal-force-rules-for-moving-vehicl
-  relation: related
-  strength: 0.7416
-  confidence: medium
-- slug: 2026-01-06-minnesota-hotel-and-hilton-apologize-after-ice-agents-reservations-canceled
-  relation: related
-  strength: 0.7361
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
 
-Three Democratic members of Congress were blocked from visiting an Immigration and Customs Enforcement facility near Minneapolis on Saturday after Homeland Security Secretary Kristi Noem secretly reinstated a congressional access restriction one day after an ICE officer fatally shot U.S. citizen Renee Good in the city, attorneys for the lawmakers said.
+## Summary
 
-U.S. Reps. Ilhan Omar, Kelly Morrison and Angie Craig were initially allowed to enter the ICE facility in the Minneapolis federal building before officials told them to leave roughly 10 minutes later, citing a newly imposed seven-day notice requirement for oversight visits.
+**Subtype:** fact
 
-Attorneys for several congressional Democrats asked U.S. District Judge Jia Cobb in Washington, D.C., on Monday to hold an emergency hearing on whether the reinstated policy violates a December court order temporarily blocking ICE from enforcing the same requirement. Cobb scheduled the hearing for Wednesday.
+- Judge is asked for emergency hearing after Congress members blocked from ICE facility in Minneapolis
+- Judge is asked for emergency hearing after Congress members blocked from ICE facility in Minneapolis
+- Government attorneys didn’t immediately respond in writing to the plaintiffs’ hearing request.
 
 ## Why the timing matters
 
@@ -128,92 +109,112 @@ Federal law bars DHS from using appropriated general funds to prevent members of
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Ilhan Omar; Kelly Morrison; Angie Craig
-**Predicate:** blocked_from_visiting
-**Object:** ICE facility, Minneapolis federal building (location)
-**Temporal:** 2026-01-10
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ilhan Omar; Kelly Morrison; Angie Craig
+- **Predicate:** blocked_from_visiting
+- **Object:** ICE facility, Minneapolis federal building (location)
+- **Temporal:** 2026-01-10
+- **Sources:** src_001
 
 > Three Democratic Minnesota members of Congress were blocked from visiting an ICE facility near Minneapolis on Saturday, Jan. 10.
 
-### c_002 — attributed, single source
-**Subject entities:** Renee Good
-**Predicate:** shot_and_killed_by_ice_officer
-**Object:** fatal shooting (event)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Renee Good
+- **Predicate:** shot_and_killed_by_ice_officer
+- **Object:** fatal shooting (event)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > An ICE officer fatally shot U.S. citizen Renee Good in Minneapolis three days before the Saturday visit.
 
-### c_003 — attributed, single source
-**Subject entities:** Kristi Noem
-**Predicate:** signed_memorandum_reinstating_policy
-**Object:** seven-day notice requirement (policy)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Kristi Noem
+- **Predicate:** signed_memorandum_reinstating_policy
+- **Object:** seven-day notice requirement (policy)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > DHS Secretary Kristi Noem secretly signed a memorandum reinstating a seven-day notice requirement for congressional visits last Thursday, one day after Good's death.
 
-### c_004 — attributed, single source
-**Subject entities:** Ilhan Omar; Kelly Morrison; Angie Craig
-**Predicate:** entered_then_expelled
-**Object:** ICE facility (location)
-**Temporal:** 2026-01-10
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ilhan Omar; Kelly Morrison; Angie Craig
+- **Predicate:** entered_then_expelled
+- **Object:** ICE facility (location)
+- **Temporal:** 2026-01-10
+- **Sources:** src_001
 
 > Omar, Morrison and Craig were initially allowed to enter the facility but told to leave about 10 minutes later.
 
-### c_005 — confirmed, primary document
-**Subject entities:** Jia Cobb
-**Predicate:** emergency_hearing_requested
-**Object:** reinstatement of seven-day notice policy (legal_action)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Jia Cobb
+- **Predicate:** emergency_hearing_requested
+- **Object:** reinstatement of seven-day notice policy (legal_action)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Attorneys for congressional Democrats asked Judge Jia Cobb on Monday to hold an emergency hearing on whether the reinstated policy violates her December order.
 
-### c_006 — attributed, single source
-**Subject entities:** Jia Cobb
-**Predicate:** scheduled_hearing
-**Object:** Wednesday, Jan. 14 (date)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jia Cobb
+- **Predicate:** scheduled_hearing
+- **Object:** Wednesday, Jan. 14 (date)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Cobb scheduled the emergency hearing for Wednesday.
 
-### c_007 — confirmed, primary document
-**Subject entities:** Jia Cobb
-**Predicate:** ruled_policy_likely_illegal
-**Object:** seven-day notice requirement (policy)
-**Temporal:** 2025-12-17
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Jia Cobb
+- **Predicate:** ruled_policy_likely_illegal
+- **Object:** seven-day notice requirement (policy)
+- **Temporal:** 2025-12-17
+- **Sources:** src_001
 
 > Cobb ruled Dec. 17 that ICE's seven-day notice requirement for congressional visits likely exceeds DHS's statutory authority.
 
-### c_008 — attributed, single source
-**Subject entities:** U.S. Congress; Department of Homeland Security
-**Predicate:** negotiating_appropriations
-**Object:** DHS/ICE funding expiring Jan. 30 (legislative_deadline)
-**Temporal:** 2026-01-30
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Congress; Department of Homeland Security
+- **Predicate:** negotiating_appropriations
+- **Object:** DHS/ICE funding expiring Jan. 30 (legislative_deadline)
+- **Temporal:** 2026-01-30
+- **Sources:** src_001
 
 > Congress members are negotiating DHS and ICE funding for the next fiscal year; DHS appropriations are set to expire Jan. 30.
 
-### c_009 — attributed, single source
-**Subject entities:** U.S. Congress; Department of Homeland Security
-**Predicate:** barred_by_law_from_blocking_access
-**Object:** appropriated general funds restriction (legal_constraint)
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Congress; Department of Homeland Security
+- **Predicate:** barred_by_law_from_blocking_access
+- **Object:** appropriated general funds restriction (legal_constraint)
+- **Sources:** src_001
 
 > Federal law bars DHS from using appropriated general funds to prevent members of Congress from entering DHS facilities for oversight purposes.
 
-### c_010 — confirmed, primary document
-**Subject entities:** Jia Cobb
-**Predicate:** wrote_in_ruling
-**Object:** impossibility of reconstructing facility conditions (judicial_finding)
-**Temporal:** 2025-12-17
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Jia Cobb
+- **Predicate:** wrote_in_ruling
+- **Object:** impossibility of reconstructing facility conditions (judicial_finding)
+- **Temporal:** 2025-12-17
+- **Sources:** src_001
 
 > Cobb wrote that changing conditions within ICE facilities makes it likely impossible for a member of Congress to reconstruct conditions on the day they initially sought to enter.
 
@@ -222,10 +223,5 @@ Federal law bars DHS from using appropriated general funds to prevent members of
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Michael Kunzelman
 **Publication date:** 2026-01-12
-**Access date:** 2026-01-12
 **Title:** Congress members ask judge to order their access to ICE facility
 **URL:** https://apnews.com/article/minneapolis-shooting-congress-visit-ice-6076e28eab9201d33e2140a593228e60
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

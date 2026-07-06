@@ -18,46 +18,40 @@ primary_themes:
 - housing-policy
 - lgbtq-rights
 topic_tags:
-  - "conflict, war and peace"
-  - "armed conflict"
-  - politics
-  - election
-  - "science and technology"
-  - "artificial intelligence"
-storyline_nexus: []
-geographic_location: San Francisco, California
+- election
+- politics
+- government policy
+storyline_nexus:
+- 2026-midterm-elections
+geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.85
 - value: accountability_of_power
-  intensity: 0.72
-- value: truthfulness
-  intensity: 0.88
-- value: equality_fairness
-  intensity: 0.76
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+  intensity: 0.6
+- value: human_life_and_dignity
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:59:17Z'
 source_cluster_id: cluster_ap_2026-02-23_california-scott-wiener-house-seat-gaza-
 gdelt_event_ids: []
-consensus_floor_version: v0.1.0
-publication_mindspec_version: v1.0.0
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 27
   hedges:
-    appears: 0
-    alleged: 0
     attributed: 8
     reported: 11
-    contested: 0
+    alleged: 0
     confirmed: 8
+    contested: 0
+    appears: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 9
     single_source: 18
+    primary_document: 9
+    primary_plus_secondary: 0
     two_independent: 0
+    one_originating_plus_primary_document: 0
 sources:
   count: 1
   outlets:
@@ -71,13 +65,19 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-06-george-conway-enters-nyc-house-race-testing-anti-trump-profile-in-democratic-pri
-  relation: related
-  strength: 0.8088
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- A San Francisco Democrat running to succeed Nancy Pelosi is known for tough policy fights
+- Scott Wiener won the California Democratic Party's endorsement on Sunday in his campaign to succeed Nancy Pelosi in the U.S. House.
+- Wiener is favored to succeed Nancy Pelosi in the U.S. House.
+- Wiener has spent 15 years in city and state politics.
+- Wiener authored a law requiring large companies to disclose their climate emissions.
 
 California state Senator Scott Wiener secured the California Democratic Party's endorsement Sunday for his campaign to succeed Nancy Pelosi in the U.S. House. The endorsement provides significant momentum in a competitive primary for a San Francisco seat that has been a Democratic stronghold for decades. Wiener, who has spent 15 years in city and state politics, is known for advancing contentious legislation on housing and LGBTQ+ protections. His candidacy has been shadowed by controversy over his recent shift on describing Israel's military operations in Gaza as genocide.
 
@@ -125,252 +125,302 @@ San Francisco political consultant Jim Ross said Wiener's handling of the Gaza i
 
 Former House Speaker Pelosi has not endorsed anyone in the race.
 
----
-
-This article was generated algorithmically by Main Street Independent's News Article Generator framework. Framework specification: /methodology. License: CC0.
-
 ## Atomic claims
 
-### c_001 — reported, single source
-**Subject entities:** Scott Wiener
-**Predicate:** secured_endorsement
-**Object:** California Democratic Party endorsement for House seat (political_award)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Scott Wiener
+- **Predicate:** secured_endorsement
+- **Object:** California Democratic Party endorsement for House seat (political_award)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > Scott Wiener won the California Democratic Party's endorsement on Sunday in his campaign to succeed Nancy Pelosi in the U.S. House.
 
-### c_002 — attributed, single source
-**Subject entities:** Scott Wiener; Nancy Pelosi
-**Predicate:** favored_to_succeed
-**Object:** U.S. House seat from San Francisco (political_position)
-**Temporal:** 2026-02
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Scott Wiener; Nancy Pelosi
+- **Predicate:** favored_to_succeed
+- **Object:** U.S. House seat from San Francisco (political_position)
+- **Temporal:** 2026-02
+- **Sources:** src_001
 
 > Wiener is favored to succeed Nancy Pelosi in the U.S. House.
 
-### c_003 — reported, single source
-**Subject entities:** Scott Wiener
-**Predicate:** served_in_office
-**Object:** 15 years in city and state government (career_tenure)
-**Temporal:** 2011-2026
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Scott Wiener
+- **Predicate:** served_in_office
+- **Object:** 15 years in city and state government (career_tenure)
+- **Temporal:** 2011-2026
+- **Sources:** src_001
 
 > Wiener has spent 15 years in city and state politics.
 
-### c_004 — confirmed, primary document
-**Subject entities:** Scott Wiener
-**Predicate:** authored_law
-**Object:** law requiring corporate climate-emissions disclosure (legislation)
-**Temporal:** 2010-2026
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Scott Wiener
+- **Predicate:** authored_law
+- **Object:** law requiring corporate climate-emissions disclosure (legislation)
+- **Temporal:** 2010-2026
+- **Sources:** src_001
 
 > Wiener authored a law requiring large companies to disclose their climate emissions.
 
-### c_005 — confirmed, primary document
-**Subject entities:** Scott Wiener
-**Predicate:** authored_law
-**Object:** law requiring transit-adjacent apartment construction (legislation)
-**Temporal:** 2010-2026
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Scott Wiener
+- **Predicate:** authored_law
+- **Object:** law requiring transit-adjacent apartment construction (legislation)
+- **Temporal:** 2010-2026
+- **Sources:** src_001
 
 > Wiener wrote a law requiring apartment construction near public transit stops.
 
-### c_006 — confirmed, primary document
-**Subject entities:** Scott Wiener
-**Predicate:** authored_law
-**Object:** ban on face coverings for law enforcement officers (legislation)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Scott Wiener
+- **Predicate:** authored_law
+- **Object:** ban on face coverings for law enforcement officers (legislation)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > Wiener authored a first-in-the-nation law banning local and federal law enforcement agents from wearing face coverings.
 
-### c_007 — confirmed, primary document
-**Subject entities:** Scott Wiener; federal court
-**Predicate:** blocked_law
-**Object:** face-covering ban law (legal_action)
-**Temporal:** 2026-02
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Scott Wiener; federal court
+- **Predicate:** blocked_law
+- **Object:** face-covering ban law (legal_action)
+- **Temporal:** 2026-02
+- **Sources:** src_001
 
 > A federal judge blocked Wiener's face-covering ban law from taking effect in February 2026.
 
-### c_008 — reported, single source
-**Subject entities:** Scott Wiener
-**Predicate:** failed_to_pass_bill
-**Object:** psychedelic-mushroom decriminalization bill (legislation)
-**Temporal:** 2010-2026
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Scott Wiener
+- **Predicate:** failed_to_pass_bill
+- **Object:** psychedelic-mushroom decriminalization bill (legislation)
+- **Temporal:** 2010-2026
+- **Sources:** src_001
 
 > Wiener failed to pass a high-profile bill to decriminalize psychedelic mushrooms.
 
-### c_009 — reported, single source
-**Subject entities:** Scott Wiener
-**Predicate:** failed_to_pass_bill
-**Object:** climate-liability law for fossil fuel companies (legislation)
-**Temporal:** 2010-2026
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Scott Wiener
+- **Predicate:** failed_to_pass_bill
+- **Object:** climate-liability law for fossil fuel companies (legislation)
+- **Temporal:** 2010-2026
+- **Sources:** src_001
 
 > Wiener failed to pass a bill to hold oil and gas companies liable for climate-caused natural disaster damage.
 
-### c_010 — attributed, single source
-**Subject entities:** Scott Wiener
-**Predicate:** declined_to_use_term
-**Object:** the word "genocide" to describe Israel's Gaza operations (speech_act)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Scott Wiener
+- **Predicate:** declined_to_use_term
+- **Object:** the word "genocide" to describe Israel's Gaza operations (speech_act)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Wiener initially declined to use the word "genocide" to describe Israel's actions in Gaza.
 
-### c_011 — reported, single source
-**Subject entities:** Scott Wiener
-**Predicate:** refused_to_answer
-**Object:** whether Israel is committing genocide (speech_act)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Scott Wiener
+- **Predicate:** refused_to_answer
+- **Object:** whether Israel is committing genocide (speech_act)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > At a candidate forum in January, Wiener refused to say yes or no when asked whether Israel was committing genocide.
 
-### c_012 — confirmed, primary document
-**Subject entities:** Scott Wiener
-**Predicate:** stated_in_video
-**Object:** Israel committed genocide in Gaza (speech_act)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_012
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Scott Wiener
+- **Predicate:** stated_in_video
+- **Object:** Israel committed genocide in Gaza (speech_act)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Days after the candidate forum, Wiener released a video saying Israel had committed genocide.
 
-### c_013 — reported, single source
-**Subject entities:** Scott Wiener
-**Predicate:** stepped_down_from_position
-**Object:** co-chair of California Legislative Jewish Caucus (political_position)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_013
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Scott Wiener
+- **Predicate:** stepped_down_from_position
+- **Object:** co-chair of California Legislative Jewish Caucus (political_position)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Wiener stepped down as co-chair of the state Legislative Jewish Caucus after the genocide statement.
 
-### c_014 — attributed, single source
-**Subject entities:** Jewish groups; pro-Israel groups; Scott Wiener
-**Predicate:** criticized_statement
-**Object:** genocide statement (speech_act)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jewish groups; pro-Israel groups; Scott Wiener
+- **Predicate:** criticized_statement
+- **Object:** genocide statement (speech_act)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Jewish and pro-Israel groups said Wiener's genocide statement lacked "moral clarity."
 
-### c_015 — reported, primary document
-**Subject entities:** Palestinians; Gaza
-**Predicate:** killed_in_conflict
-**Object:** 70,000+ deaths (casualty_count)
-**Temporal:** 2023-2026-02
-**Source IDs:** src_001
+### c_015
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Palestinians; Gaza
+- **Predicate:** killed_in_conflict
+- **Object:** 70,000+ deaths (casualty_count)
+- **Temporal:** 2023-2026-02
+- **Sources:** src_001
 
 > More than 70,000 Palestinians have been killed since the war in Gaza began in late 2023.
 
-### c_016 — reported, single source
-**Subject entities:** United States
-**Predicate:** sympathy_declined
-**Object:** sympathy for Israel fell to all-time low (sentiment_measurement)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_016
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** United States
+- **Predicate:** sympathy_declined
+- **Object:** sympathy for Israel fell to all-time low (sentiment_measurement)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > American sympathy for Israel dropped to an all-time low in 2025, particularly among Democrats and independents.
 
-### c_017 — reported, single source
-**Subject entities:** United States
-**Predicate:** sympathy_increased
-**Object:** sympathy for Palestinians increased (sentiment_measurement)
-**Temporal:** 2023-2026
-**Source IDs:** src_001
+### c_017
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** United States
+- **Predicate:** sympathy_increased
+- **Object:** sympathy for Palestinians increased (sentiment_measurement)
+- **Temporal:** 2023-2026
+- **Sources:** src_001
 
 > Sympathy for Palestinians has risen among Americans.
 
-### c_018 — reported, single source
-**Subject entities:** Bernie Sanders; Becca Balint
-**Predicate:** publicly_used_term
-**Object:** the word "genocide" to describe Israel's actions (speech_act)
-**Temporal:** 2023-2026-02
-**Source IDs:** src_001
+### c_018
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Bernie Sanders; Becca Balint
+- **Predicate:** publicly_used_term
+- **Object:** the word "genocide" to describe Israel's actions (speech_act)
+- **Temporal:** 2023-2026-02
+- **Sources:** src_001
 
 > Only Independent Senator Bernie Sanders of Vermont and Democratic Representative Becca Balint of Vermont have publicly used the word "genocide" to describe Israel's actions.
 
-### c_019 — attributed, single source
-**Subject entities:** Scott Wiener
-**Predicate:** grew_up_in
-**Object:** New Jersey, Conservative Jewish family (biographical)
-**Temporal:** pre-2026
-**Source IDs:** src_001
+### c_019
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Scott Wiener
+- **Predicate:** grew_up_in
+- **Object:** New Jersey, Conservative Jewish family (biographical)
+- **Temporal:** pre-2026
+- **Sources:** src_001
 
 > Wiener grew up in New Jersey in a Conservative Jewish family.
 
-### c_020 — attributed, single source
-**Subject entities:** Scott Wiener
-**Predicate:** childhood_social_connection
-**Object:** friendships limited to synagogue community (biographical)
-**Temporal:** pre-2000
-**Source IDs:** src_001
+### c_020
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Scott Wiener
+- **Predicate:** childhood_social_connection
+- **Object:** friendships limited to synagogue community (biographical)
+- **Temporal:** pre-2000
+- **Sources:** src_001
 
 > Wiener's only friends until high school were from his synagogue.
 
-### c_021 — attributed, single source
-**Subject entities:** Scott Wiener; Duke University
-**Predicate:** joined_fraternity
-**Object:** Jewish fraternity (biographical)
-**Temporal:** college years
-**Source IDs:** src_001
+### c_021
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Scott Wiener; Duke University
+- **Predicate:** joined_fraternity
+- **Object:** Jewish fraternity (biographical)
+- **Temporal:** college years
+- **Sources:** src_001
 
 > Wiener joined a Jewish fraternity at Duke University.
 
-### c_022 — attributed, single source
-**Subject entities:** Scott Wiener
-**Predicate:** received_support
-**Object:** fraternity brothers supported his coming out as gay (biographical)
-**Temporal:** college years
-**Source IDs:** src_001
+### c_022
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Scott Wiener
+- **Predicate:** received_support
+- **Object:** fraternity brothers supported his coming out as gay (biographical)
+- **Temporal:** college years
+- **Sources:** src_001
 
 > Wiener's fraternity brothers were supportive when he told them he was gay.
 
-### c_023 — confirmed, primary document
-**Subject entities:** Connie Chan; Saikat Chakrabarti; Scott Wiener
-**Predicate:** are_opponents_in_primary
-**Object:** 2026 Democratic primary for U.S. House seat (political_race)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_023
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Connie Chan; Saikat Chakrabarti; Scott Wiener
+- **Predicate:** are_opponents_in_primary
+- **Object:** 2026 Democratic primary for U.S. House seat (political_race)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Wiener's opponents for Pelosi's House seat are San Francisco Supervisor Connie Chan and former tech executive Saikat Chakrabarti.
 
-### c_024 — attributed, single source
-**Subject entities:** Connie Chan; Saikat Chakrabarti
-**Predicate:** stated_position
-**Object:** Israel is committing genocide (speech_act)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_024
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Connie Chan; Saikat Chakrabarti
+- **Predicate:** stated_position
+- **Object:** Israel is committing genocide (speech_act)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Chan and Chakrabarti said yes when asked whether Israel is committing genocide.
 
-### c_025 — confirmed, primary document
-**Subject entities:** Connie Chan
-**Predicate:** elected_official
-**Object:** San Francisco supervisor from Richmond District, elected twice (political_position)
-**Temporal:** 2010-2026
-**Source IDs:** src_001
+### c_025
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Connie Chan
+- **Predicate:** elected_official
+- **Object:** San Francisco supervisor from Richmond District, elected twice (political_position)
+- **Temporal:** 2010-2026
+- **Sources:** src_001
 
 > Connie Chan has been elected twice by voters in San Francisco's Richmond District.
 
-### c_026 — confirmed, primary document
-**Subject entities:** Saikat Chakrabarti; Alexandria Ocasio-Cortez
-**Predicate:** former_aide_and_never_elected
-**Object:** worked for AOC, has never sought or won elected office (biographical)
-**Temporal:** 2010-2026
-**Source IDs:** src_001
+### c_026
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Saikat Chakrabarti; Alexandria Ocasio-Cortez
+- **Predicate:** former_aide_and_never_elected
+- **Object:** worked for AOC, has never sought or won elected office (biographical)
+- **Temporal:** 2010-2026
+- **Sources:** src_001
 
 > Saikat Chakrabarti is a former aide to U.S. Representative Alexandria Ocasio-Cortez and has never been on the ballot.
 
-### c_027 — reported, single source
-**Subject entities:** Nancy Pelosi
-**Predicate:** declined_to_endorse
-**Object:** did not endorse in 2026 House primary (political_action)
-**Temporal:** 2026-02
-**Source IDs:** src_001
+### c_027
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Nancy Pelosi
+- **Predicate:** declined_to_endorse
+- **Object:** did not endorse in 2026 House primary (political_action)
+- **Temporal:** 2026-02
+- **Sources:** src_001
 
 > Nancy Pelosi has not made an endorsement in the race.
 
@@ -379,10 +429,5 @@ This article was generated algorithmically by Main Street Independent's News Art
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Sophie Austin
 **Publication date:** 2026-02-22
-**Access date:** 2026-02-22
 **Title:** A San Francisco Democrat running to succeed Nancy Pelosi is known for tough policy fights
 **URL:** https://apnews.com/article/california-scott-wiener-house-seat-gaza-2e98d345646f70b931402d90fcf2b1e7
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

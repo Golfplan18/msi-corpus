@@ -16,7 +16,8 @@ topic_tags:
   - government
   - politics
   - "science and technology"
-storyline_nexus: []
+storyline_nexus:
+- uk-labour-party-crisis
 geographic_location: United Kingdom
 floor_values_engaged:
 - value: truthfulness
@@ -108,10 +109,6 @@ This assessment captures the political danger Starmer now faces. His campaign an
 Starmer's Labour Party commands a large majority in Parliament, which shields him from immediate removal. However, his political survival ultimately depends on what Labour lawmakers decide to do. Confidence in a leader can erode quickly, even with an overwhelming majority. Boris Johnson was elected with a substantial majority in 2019 and resigned from both the premiership and Parliament three years later after a string of scandals.
 
 When Starmer addresses Parliament on Monday, he will gauge the mood of his party. So far, few Labour lawmakers have publicly called for him to step down. But if more members of Parliament put their heads above the parapet following a weekend of campaigning in their local districts, he may face serious trouble.
-
----
-
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
 
 ## Atomic claims
 
@@ -222,7 +219,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-05-17
 **Title:** Why Peter Mandelson ties still haunt Keir Starmer
 **URL:** https://apnews.com/article/britain-starmer-mandelson-epstein-vetting-ambassador-trump-35c2c302e7370efcd0098b5b9419c72e
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

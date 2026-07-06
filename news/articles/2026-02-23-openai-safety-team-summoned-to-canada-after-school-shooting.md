@@ -23,7 +23,8 @@ topic_tags:
   - "law enforcement"
   - "science and technology"
   - "artificial intelligence"
-storyline_nexus: []
+storyline_nexus:
+- ai-industry-regulation
 geographic_location: Tumbler Ridge, British Columbia, Canada
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -226,7 +227,3 @@ The attack was Canada's deadliest rampage since 2020, when a gunman in Nova Scot
 **Access date:** 2026-02-23
 **Title:** ChatGPT-maker OpenAI safety representatives summoned to Canada after school shooting
 **URL:** https://apnews.com/article/chatgpt-canada-shooting-government-8e42fee83b5faa0ebbc3971e3173dafe
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

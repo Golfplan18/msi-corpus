@@ -13,43 +13,43 @@ primary_themes:
 - criminal justice
 - substance-related crime
 topic_tags:
-  - crime
-  - "crime, law and justice"
-  - "government policy"
-  - "human migration"
-  - "international relations"
-  - "law enforcement"
+- crime
+- law enforcement
+- judiciary
+- prosecution
 storyline_nexus:
-  - immigration-enforcement
-geographic_location: Petoskey, Michigan; Bay City, Michigan
+- trump-judicial-challenges
+geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
-  intensity: 0.85
+  intensity: 0.9
 - value: truthfulness
-  intensity: 0.7
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+  intensity: 0.6
+- value: informed_citizenship
+  intensity: 0.3
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:36:08Z'
 source_cluster_id: cluster_ap_2026-02-21_michigan-judge-drunken-driving-a57f15902
 gdelt_event_ids: []
-consensus_floor_version: 3.7.0
-publication_mindspec_version: 2.1.0
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 8
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 5
     reported: 1
+    alleged: 0
+    appears: 0
+    attributed: 5
     contested: 0
     confirmed: 2
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 3
-    single_source: 5
     two_independent: 0
+    one_originating_plus_primary_document: 0
+    single_source: 5
+    primary_plus_secondary: 0
+    primary_document: 3
 sources:
   count: 1
   outlets:
@@ -67,6 +67,17 @@ cross_article_links: []
 draft: false
 ---
 
+## Summary
+
+**Subtype:** fact
+
+- Federal judge in Michigan charged with drunken driving after car strikes signs
+- “What in the hell are we doing?” Ludington, in handcuffs, said as he was placed in a patrol car.
+- A message seeking comment from Ludington’s lawyer was not immediately returned Friday.
+- Ludington told the trooper that he hadn’t been drinking, adding at one point: “Actually, I’m a federal judge.”
+- Ludington, 72, has been a federal judge in Bay City, Michigan, for about 20 years. He has remained on the bench in the months since his arrest.
+- Police arrived after a witness reported seeing a car crash into two signs.
+
 U.S. District Judge Thomas Ludington of Michigan was charged with drunken driving following his arrest on October 3, with a blood-alcohol level of 0.27, well above the legal limit of 0.08.
 
 A federal judge in Michigan was charged with drunken driving after police arrested him when his car struck two signs in Petoskey, according to body-camera video obtained by The Detroit News. U.S. District Judge Thomas Ludington had a blood-alcohol level of 0.27, well above the legal limit of 0.08, following his arrest on October 3. A state trooper said Ludington had repeatedly failed to properly blow into a blood-alcohol device.
@@ -81,79 +92,93 @@ Ludington, 72, has served as a federal judge in Bay City for about 20 years. He 
 
 A message seeking comment from Ludington's lawyer was not immediately returned.
 
-*Methodology: This article was generated algorithmically under the Main Street Independent News Article Generator Framework v1.1.0 from the wire source listed above. Every claim is sourced and verified before publication. Human review was not triggered. This work is released under CC0 — a public domain dedication. See /methodology for full disclosure.*
-
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Thomas Ludington
-**Predicate:** charged_with
-**Object:** operating a car while intoxicated (criminal_charge)
-**Temporal:** 2025-10-03
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Thomas Ludington
+- **Predicate:** charged_with
+- **Object:** operating a car while intoxicated (criminal_charge)
+- **Temporal:** 2025-10-03
+- **Sources:** src_001
 
 > Thomas Ludington, a U.S. District Judge in Michigan, was charged with operating a car while intoxicated.
 
-### c_002 — reported, single source
-**Subject entities:** Thomas Ludington
-**Predicate:** arrested_after
-**Object:** repeated failure on breathalyzer test (arrest_circumstance)
-**Temporal:** 2025-10-03
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Thomas Ludington
+- **Predicate:** arrested_after
+- **Object:** repeated failure on breathalyzer test (arrest_circumstance)
+- **Temporal:** 2025-10-03
+- **Sources:** src_001
 
 > Ludington was arrested on October 3 after a state trooper said he had repeatedly failed to properly blow into a blood-alcohol device.
 
-### c_003 — confirmed, primary document
-**Subject entities:** Thomas Ludington
-**Predicate:** tested_at
-**Object:** 0.27 BAC (measurement)
-**Temporal:** 2025-10-03
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Thomas Ludington
+- **Predicate:** tested_at
+- **Object:** 0.27 BAC (measurement)
+- **Temporal:** 2025-10-03
+- **Sources:** src_001
 
 > A blood test showed Ludington had a blood-alcohol level of 0.27, compared to the legal limit of 0.08.
 
-### c_004 — confirmed, primary document
-**Subject entities:** Thomas Ludington
-**Predicate:** shown_in_video
-**Object:** verbal response to officer and inability to explain vehicle damage (video_evidence)
-**Temporal:** 2025-10-03
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Thomas Ludington
+- **Predicate:** shown_in_video
+- **Object:** verbal response to officer and inability to explain vehicle damage (video_evidence)
+- **Temporal:** 2025-10-03
+- **Sources:** src_001
 
 > Body-camera video shows Ludington uttering a vulgarity at a state trooper and unable to explain damage to his vehicle or why his airbags had deployed.
 
-### c_005 — attributed, primary document
-**Subject entities:** Thomas Ludington
-**Predicate:** stated
-**Object:** denial of drinking and assertion of judicial status (quoted_statement)
-**Temporal:** 2025-10-03
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Thomas Ludington
+- **Predicate:** stated
+- **Object:** denial of drinking and assertion of judicial status (quoted_statement)
+- **Temporal:** 2025-10-03
+- **Sources:** src_001
 
 > Ludington told the trooper he hadn't been drinking and stated, 'Actually, I'm a federal judge.'
 
-### c_006 — attributed, single source
-**Subject entities:** Thomas Ludington
-**Predicate:** served_as_judge
-**Object:** approximately 20 years as federal judge in Bay City (professional_history)
-**Temporal:** ongoing
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Thomas Ludington
+- **Predicate:** served_as_judge
+- **Object:** approximately 20 years as federal judge in Bay City (professional_history)
+- **Temporal:** ongoing
+- **Sources:** src_001
 
 > Ludington is 72 years old and has served as a federal judge in Bay City, Michigan for about 20 years.
 
-### c_007 — attributed, single source
-**Subject entities:** Thomas Ludington
-**Predicate:** remained_in_position
-**Object:** continued service on federal bench (status)
-**Temporal:** 2025-10-03 onwards
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Thomas Ludington
+- **Predicate:** remained_in_position
+- **Object:** continued service on federal bench (status)
+- **Temporal:** 2025-10-03 onwards
+- **Sources:** src_001
 
 > Ludington has remained on the federal bench in the months since his arrest.
 
-### c_008 — attributed, single source
-**Subject entities:** Ludington case
-**Predicate:** pending_in
-**Object:** Emmet County (jurisdiction)
-**Temporal:** 2026-02
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ludington case
+- **Predicate:** pending_in
+- **Object:** Emmet County (jurisdiction)
+- **Temporal:** 2026-02
+- **Sources:** src_001
 
 > The case against Ludington is pending in Emmet County.
 
@@ -161,10 +186,5 @@ A message seeking comment from Ludington's lawyer was not immediately returned.
 
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Publication date:** 2026-02-20
-**Access date:** 2026-02-20
 **Title:** Federal judge charged in Michigan for drunken driving
 **URL:** https://apnews.com/article/michigan-judge-drunken-driving-a57f159020ccad862111e48039a99421
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

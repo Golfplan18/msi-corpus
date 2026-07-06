@@ -16,47 +16,41 @@ primary_themes:
 - economic sanctions
 - Venezuela military operation
 topic_tags:
-  - politics
-  - government
-  - "international relations"
-  - "crime, law and justice"
-  - "law enforcement"
-  - "conflict, war and peace"
+- international relations
+- government
+- energy and resource
+- conflict, war and peace
 storyline_nexus:
-  - trump-tariff-policy
-  - us-china-relations
-  - gaza-conflict
-geographic_location: Havana, Cuba
+- us-cuba-relations-escalation
+geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.8
+  intensity: 0.9
 - value: human_life_and_dignity
-  intensity: 0.7
-framework_version: 1.1.0
-generation_timestamp: '2026-05-16T00:00:00Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:09:13Z'
 source_cluster_id: cluster_ap_2026-01-11_cuba-us-oil-trump-venezuela-02968f7204cd
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 12
   hedges:
-    appears: 0
-    alleged: 0
     attributed: 9
-    reported: 3
-    contested: 0
     confirmed: 0
+    contested: 0
+    appears: 0
+    reported: 3
+    alleged: 0
   corroboration:
     primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 0
-    single_source: 12
+    one_originating_plus_primary_document: 0
     two_independent: 0
+    single_source: 12
 sources:
   count: 1
   outlets:
@@ -74,37 +68,17 @@ image:
   url: /articles/2026-01-12-cuba-s-d-az-canel-denies-us-talks-after-trump-issues-deal-or-else-threat.png
   alt: 'Illustration accompanying article: Cuba''s Díaz-Canel denies US talks after Trump issues deal-or-else threat'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-07-maduro-s-capture-gives-russia-a-strategic-setback-and-a-diplomatic-opening
-  relation: related
-  strength: 0.8134
-  confidence: medium
-- slug: 2026-01-06-trump-announces-venezuela-oil-deal-as-death-toll-from-maduro-raid-reaches-dozens
-  relation: related
-  strength: 0.8159
-  confidence: medium
-- slug: 2026-01-05-us-allies-join-foes-in-un-rebuke-of-venezuela-military-operation
-  relation: related
-  strength: 0.8156
-  confidence: medium
-- slug: 2026-01-05-cuba-confronts-energy-crisis-as-u-s-capture-of-maduro-severs-oil-lifeline
-  relation: related
-  strength: 0.814
-  confidence: medium
-- slug: 2026-01-04-trump-renews-greenland-push-warns-cuba-and-colombia-after-venezuela-operation
-  relation: related
-  strength: 0.8165
-  confidence: medium
-- slug: 2026-01-07-mexico-emerges-as-cuba-s-key-fuel-supplier-as-venezuela-oil-lifeline-collapses
-  relation: related
-  strength: 0.784
-  confidence: medium
-- slug: 2026-01-05-trump-targets-greenland-cuba-and-colombia-after-venezuela-operation
-  relation: related
-  strength: 0.7963
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- The exchange underscores Cuba's deepening vulnerability: the U.S. operation that toppled Maduro cut off Venezuela's estimated 35,000-barrel-per-day oil deliveries to the island — a supply Cuba had ...
+- HAVANA — Cuban President Miguel Díaz-Canel said Monday that his government is not in negotiations with the United States, a day after President Don...
+- Díaz-Canel posted a series of statements on X following Trump's Sunday message, writing that "for relations between the U.S. and Cuba to progress, ...
+- The Cuban president drew a narrow exception to his denial: "There are no talks with the U.S. government, except for technical contacts in the area ...
 
 The exchange underscores Cuba's deepening vulnerability: the U.S. operation that toppled Maduro cut off Venezuela's estimated 35,000-barrel-per-day oil deliveries to the island — a supply Cuba had relied upon even as widespread blackouts already persisted across its crumbling electric grid.
 
@@ -150,111 +124,135 @@ In Havana, reactions among residents ranged from resignation to defiance. Oreidy
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Miguel Díaz-Canel
-**Predicate:** denied_negotiations
-**Object:** no talks with U.S. except migration technical contacts (statement)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Miguel Díaz-Canel
+- **Predicate:** denied_negotiations
+- **Object:** no talks with U.S. except migration technical contacts (statement)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Cuban President Miguel Díaz-Canel said Monday his government is not in talks with the U.S. government except for technical contacts in the area of migration.
 
-### c_002 — attributed, single source
-**Subject entities:** Donald Trump
-**Predicate:** issued_warning
-**Object:** make a deal, BEFORE IT IS TOO LATE (statement)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** issued_warning
+- **Object:** make a deal, BEFORE IT IS TOO LATE (statement)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > President Donald Trump on Sunday wrote on social media that Cuba should 'make a deal, BEFORE IT IS TOO LATE.'
 
-### c_003 — reported, single source
-**Subject entities:** United States government; Nicolas Maduro
-**Predicate:** military_operation_outcome
-**Object:** 32 Cuban officers killed; Maduro arrested (event_outcome)
-**Temporal:** 2026-01-03
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** United States government; Nicolas Maduro
+- **Predicate:** military_operation_outcome
+- **Object:** 32 Cuban officers killed; Maduro arrested (event_outcome)
+- **Temporal:** 2026-01-03
+- **Sources:** src_001
 
 > A U.S. military operation on Jan. 3 killed 32 Cuban officers in Venezuela and led to the arrest of President Nicolás Maduro.
 
-### c_004 — attributed, single source
-**Subject entities:** Cuba government
-**Predicate:** received_oil_supply_from_venezuela
-**Object:** 35000 (barrels_per_day)
-**Temporal:** 2026-01-03
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Cuba government
+- **Predicate:** received_oil_supply_from_venezuela
+- **Object:** 35000 (barrels_per_day)
+- **Temporal:** 2026-01-03
+- **Sources:** src_001
 
 > Cuba was receiving an estimated 35,000 barrels of oil per day from Venezuela before the U.S. attack, according to Jorge Piñón of the Energy Institute at the University of Texas at Austin.
 
-### c_005 — attributed, single source
-**Subject entities:** Cuba government
-**Predicate:** received_oil_supply_mexico_russia
-**Object:** 5500 from Mexico, 7500 from Russia (barrels_per_day)
-**Temporal:** 2026-01-03
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Cuba government
+- **Predicate:** received_oil_supply_mexico_russia
+- **Object:** 5500 from Mexico, 7500 from Russia (barrels_per_day)
+- **Temporal:** 2026-01-03
+- **Sources:** src_001
 
 > Cuba was receiving roughly 5,500 barrels of oil per day from Mexico and approximately 7,500 from Russia, according to Jorge Piñón.
 
-### c_006 — attributed, single source
-**Subject entities:** Claudia Sheinbaum
-**Predicate:** declined_to_confirm_supply_increase
-**Object:** no data on current shipments or future increases (statement)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Claudia Sheinbaum
+- **Predicate:** declined_to_confirm_supply_increase
+- **Object:** no data on current shipments or future increases (statement)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Mexican President Claudia Sheinbaum on Monday declined to provide data on current oil shipments to Cuba or say whether such shipments would increase when Venezuelan supplies end.
 
-### c_007 — attributed, single source
-**Subject entities:** Cuba government; United States government
-**Predicate:** sanctions_economic_cost
-**Object:** 7500000000 (usd_cost_government_attributed)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Cuba government; United States government
+- **Predicate:** sanctions_economic_cost
+- **Object:** 7500000000 (usd_cost_government_attributed)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Cuba's government said U.S. sanctions cost the country more than $7.5 billion between March 2024 and February 2025.
 
-### c_008 — attributed, single source
-**Subject entities:** Andy S. Gómez; Miguel Díaz-Canel
-**Predicate:** expert_assessment
-**Object:** buying time for inner circle to decide next steps (assessment)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Andy S. Gómez; Miguel Díaz-Canel
+- **Predicate:** expert_assessment
+- **Object:** buying time for inner circle to decide next steps (assessment)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Andy S. Gómez of the University of Miami said Díaz-Canel's comments were a way to 'buy a little bit of time for the inner circle to decide what steps it's going to take.'
 
-### c_009 — attributed, single source
-**Subject entities:** Michael Galant; Donald Trump
-**Predicate:** expert_assessment
-**Object:** Trump not in rush, hoping to deepen economic crisis (assessment)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Michael Galant; Donald Trump
+- **Predicate:** expert_assessment
+- **Object:** Trump not in rush, hoping to deepen economic crisis (assessment)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Michael Galant of the Center for Economic and Policy Research said Trump is hoping to deepen Cuba's economic crisis and is not in a rush to negotiate.
 
-### c_010 — reported, single source
-**Subject entities:** Cuba government
-**Predicate:** infrastructure_condition
-**Object:** widespread blackouts persist (condition)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Cuba government
+- **Predicate:** infrastructure_condition
+- **Object:** widespread blackouts persist (condition)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Widespread blackouts had already persisted across Cuba given fuel shortages and a crumbling electric grid even while Venezuela was supplying oil.
 
-### c_011 — reported, single source
-**Subject entities:** Cuba government
-**Predicate:** historical_tourism_revenue
-**Object:** 3000000000 (usd_annual_peak)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Cuba government
+- **Predicate:** historical_tourism_revenue
+- **Object:** 3000000000 (usd_annual_peak)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Cuba's tourism revenue reached some $3 billion annually at its peak in the decade preceding 2026.
 
-### c_012 — attributed, single source
-**Subject entities:** Claudia Sheinbaum
-**Predicate:** offered_mediation
-**Object:** willing to facilitate US-Cuba dialogue if both agree (statement)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Claudia Sheinbaum
+- **Predicate:** offered_mediation
+- **Object:** willing to facilitate US-Cuba dialogue if both agree (statement)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Sheinbaum said Mexico is willing to facilitate dialogue between the U.S. and Cuba if both sides agree.
 
@@ -263,10 +261,5 @@ In Havana, reactions among residents ranged from resignation to defiance. Oreidy
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Andrea Rodríguez
 **Publication date:** 2026-01-12
-**Access date:** 2026-01-12
 **Title:** Cuban President Díaz-Canel denies talks with US after Trump threat
 **URL:** https://apnews.com/article/cuba-us-oil-trump-venezuela-02968f7204cd863cc1acbbcfab3e69db
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

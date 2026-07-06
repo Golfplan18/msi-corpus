@@ -17,49 +17,47 @@ primary_themes:
 - healthcare access
 - physician participation
 topic_tags:
-  - "health"
-  - "health treatment and procedure"
-  - "politics"
-  - "government policy"
+- health
+- public health
+- government policy
+- disease and condition
 storyline_nexus:
-  - trump-tariff-policy
-  - us-administration-2026
-  - us-china-relations
-geographic_location: Texas, United States
+- aca-medicaid-healthcare-crisis
+geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship
-  intensity: 0.85
+  intensity: 0.9
+- value: accountability_of_power
+  intensity: 0.6
 - value: human_life_and_dignity
   intensity: 0.6
-- value: accountability_of_power
-  intensity: 0.45
-framework_version: 1.1.0
-generation_timestamp: '2026-01-12T00:00:00Z'
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:05:10Z'
 source_cluster_id: cluster_ap_2026-01-11_marijuana-texas-donald-trump-donald-trum
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 13
   hedges:
-    appears: 0
     alleged: 0
     attributed: 4
     reported: 0
-    contested: 0
     confirmed: 9
+    contested: 0
+    appears: 0
   corroboration:
+    single_source: 10
+    primary_document: 3
     primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
-    primary_document: 3
-    single_source: 10
     two_independent: 0
 sources:
   count: 1
   outlets:
-  - Associated Press / Texas Tribune
+  - Associated Press
   outlet_classes:
   - wire
   highest_reliability_tier: 1
@@ -76,6 +74,15 @@ image:
 cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Summary point 1.
+- Summary point 2.
+- Summary point 3.
+- Summary point 4.
 
 Texas' medical marijuana program enrolled 135,470 patients by the end of 2025, a 32% increase over the previous year, according to the Texas Department of Public Safety. The jump followed the state's most significant expansion of the Texas Compassionate Use Program since its 2015 launch, which took effect in September and added qualifying conditions including chronic pain, traumatic brain injury, and terminal illness.
 
@@ -131,132 +138,153 @@ Distributors said they view the Texas expansion, enacted under a Republican-led 
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Texas Compassionate Use Program
-**Predicate:** enrollment_count
-**Object:** 135470 (patient_count)
-**Temporal:** 2025-12-31
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Texas Compassionate Use Program
+- **Predicate:** enrollment_count
+- **Object:** 135470 (patient_count)
+- **Temporal:** 2025-12-31
+- **Sources:** src_001
 
 > By the end of 2025, 135,470 patients were listed in the Compassionate Use Registry, about 32% more than the previous year.
 
-### c_002 — confirmed, single source
-**Subject entities:** Texas Compassionate Use Program
-**Predicate:** expanded
-**Object:** September 2025 (event)
-**Temporal:** 2025-09
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Texas Compassionate Use Program
+- **Predicate:** expanded
+- **Object:** September 2025 (event)
+- **Temporal:** 2025-09
+- **Sources:** src_001
 
 > In September 2025, Texas officially rolled out the most significant expansion of the Texas Compassionate Use Program since its 2015 launch.
 
-### c_003 — confirmed, single source
-**Subject entities:** Texas Compassionate Use Program
-**Predicate:** adds_qualifying_conditions
-**Object:** chronic pain, IBD, Crohn's, TBI, terminal illness (list)
-**Temporal:** 2025-09
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Texas Compassionate Use Program
+- **Predicate:** adds_qualifying_conditions
+- **Object:** chronic pain, IBD, Crohn's, TBI, terminal illness (list)
+- **Temporal:** 2025-09
+- **Sources:** src_001
 
 > The expansion adds qualifying conditions including chronic pain, inflammatory bowel disease, Crohn's disease, traumatic brain injury, and terminal illness.
 
-### c_004 — confirmed, single source
-**Subject entities:** Texas Compassionate Use Program
-**Predicate:** increases_distributors
-**Object:** 3 to 15 (count)
-**Temporal:** 2026-04-01
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Texas Compassionate Use Program
+- **Predicate:** increases_distributors
+- **Object:** 3 to 15 (count)
+- **Temporal:** 2026-04-01
+- **Sources:** src_001
 
 > The expansion is set to increase the number of marijuana distributors in Texas from three to 15 by April 1.
 
-### c_005 — confirmed, primary document
-**Subject entities:** Texas Department of Public Safety
-**Predicate:** awarded_conditional_licenses
-**Object:** 9 (count)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Texas Department of Public Safety
+- **Predicate:** awarded_conditional_licenses
+- **Object:** 9 (count)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > DPS awarded nine businesses with conditional licenses in the first phase; these businesses are not authorized to cultivate, manufacture, distribute, or sell cannabis products until the department grants final approval.
 
-### c_006 — confirmed, single source
-**Subject entities:** Donald Trump
-**Predicate:** signed_executive_order
-**Object:** marijuana reclassification Schedule I to III (policy_action)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** signed_executive_order
+- **Object:** marijuana reclassification Schedule I to III (policy_action)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > In December, President Trump signed an executive order to expedite the reclassification of marijuana from Schedule I to Schedule III.
 
-### c_007 — attributed, single source
-**Subject entities:** Texas Compassionate Use Program
-**Predicate:** physician_enrollment_ratio
-**Object:** 800 of 80000 (ratio)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Texas Compassionate Use Program
+- **Predicate:** physician_enrollment_ratio
+- **Object:** 800 of 80000 (ratio)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > There are approximately 80,000 board-certified physicians in Texas; only 800 are registered in the TCUP program, according to Texas Original CEO Nico Richardson.
 
-### c_008 — attributed, single source
-**Subject entities:** Texas Compassionate Use Program
-**Predicate:** product_price_range
-**Object:** $40–$70 (price)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Texas Compassionate Use Program
+- **Predicate:** product_price_range
+- **Object:** $40–$70 (price)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Medical marijuana products in Texas range from $40 to $70, according to goodblend spokesperson Jervonne Singletary.
 
-### c_009 — confirmed, single source
-**Subject entities:** Texas Original
-**Predicate:** expanded_facility
-**Object:** 75000 sq ft, Bastrop (facility)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Texas Original
+- **Predicate:** expanded_facility
+- **Object:** 75000 sq ft, Bastrop (facility)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Texas Original moved from a 7,700-square-foot facility to a new 75,000-square-foot headquarters in Bastrop.
 
-### c_010 — confirmed, primary document
-**Subject entities:** U.S. Department of Health and Human Services
-**Predicate:** determined_acceptable_medical_use
-**Object:** 43 jurisdictions, 6M+ patients, 15+ conditions (finding)
-**Temporal:** 2023
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Department of Health and Human Services
+- **Predicate:** determined_acceptable_medical_use
+- **Object:** 43 jurisdictions, 6M+ patients, 15+ conditions (finding)
+- **Temporal:** 2023
+- **Sources:** src_001
 
 > In 2023, the federal Department of Health and Human Services determined marijuana has acceptable medical use, citing authorization to recommend it across 43 jurisdictions for more than 6 million registered patients for at least 15 medical conditions.
 
-### c_011 — confirmed, single source
-**Subject entities:** goodblend
-**Predicate:** opened_satellite_location
-**Object:** San Antonio (location)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_011
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** goodblend
+- **Predicate:** opened_satellite_location
+- **Object:** San Antonio (location)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Goodblend opened its first satellite location in San Antonio, allowing same-day pick-up.
 
-### c_012 — attributed, single source
-**Subject entities:** Vernano; George Archos
-**Predicate:** awarded_conditional_license
-**Object:** public health region 10, West Texas (license)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Vernano; George Archos
+- **Predicate:** awarded_conditional_license
+- **Object:** public health region 10, West Texas (license)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > George Archos, founder and CEO of Chicago-based Vernano, said the company was awarded a conditional dispensing organization license in December for public health region 10 in West Texas.
 
-### c_013 — attributed, single source
-**Subject entities:** Texas Compassionate Use Program
-**Predicate:** operational_timeline
-**Object:** up to 2 years (timeline)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Texas Compassionate Use Program
+- **Predicate:** operational_timeline
+- **Object:** up to 2 years (timeline)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > New marijuana distributors have up to two years after final approval to become fully operational in Texas, though Singletary estimated it might take nine months to a year.
 
 ## Sources
 
-### src_001 — Associated Press / Texas Tribune, wire, Tier 1, originating
+### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Stephen Simpson / The Texas Tribune
 **Publication date:** 2026-01-12
-**Access date:** 2026-01-12
 **Title:** A blossoming Texas medical marijuana industry adds new businesses, products and patients
 **URL:** https://apnews.com/article/marijuana-texas-donald-trump-donald-trump-es-general-news-802701ab7fdc8811cd8282b62f4d5332
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

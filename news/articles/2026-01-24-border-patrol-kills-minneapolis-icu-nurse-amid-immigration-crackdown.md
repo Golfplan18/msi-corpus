@@ -16,31 +16,24 @@ primary_themes:
 - Law enforcement accountability
 - Trump administration policy
 topic_tags:
-  - "crime, law and justice"
-  - "human interest"
-  - "human migration"
-  - "law enforcement"
-  - politics
+- crime
+- law enforcement
+- civil unrest
+- government policy
 storyline_nexus:
-  - immigration-enforcement
-geographic_location: Minneapolis, Minnesota, United States
+- us-immigration-enforcement
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
-  intensity: 1.0
-- value: truthfulness
   intensity: 0.9
 - value: accountability_of_power
   intensity: 0.9
-- value: equality_fairness
-  intensity: 0.8
-- value: informed_citizenship
-  intensity: 0.8
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:52:18Z'
 source_cluster_id: cluster_ap_2026-01-26_immigration-enforcement-minnesota-protes
 gdelt_event_ids: []
-consensus_floor_version: 1.0.0
-publication_mindspec_version: 1.0.0
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
@@ -48,16 +41,16 @@ claims:
   hedges:
     appears: 1
     alleged: 0
-    attributed: 9
-    reported: 0
-    contested: 0
     confirmed: 1
+    attributed: 9
+    contested: 0
+    reported: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 2
     single_source: 9
+    one_originating_plus_primary_document: 0
     two_independent: 0
+    primary_document: 2
+    primary_plus_secondary: 0
 sources:
   count: 1
   outlets:
@@ -71,41 +64,10 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-04-16-minnesota-probes-federal-officers-over-two-killings-wounding-and-highway-assault
-  relation: related
-  strength: 0.8534
-  confidence: medium
-- slug: 2026-04-16-minnesota-charges-ice-agent-with-felony-assault-for-pointing-gun-at-highway-driv
-  relation: related
-  strength: 0.8034
-  confidence: medium
-- slug: 2026-01-14-minneapolis-sees-second-federal-shooting-as-courts-governor-push-back-on-immigra
-  relation: related
-  strength: 0.8642
-  confidence: medium
-- slug: 2026-01-07-minneapolis-ice-shooting-is-at-least-the-fifth-death-in-us-immigration-crackdown
-  relation: related
-  strength: 0.8917
-  confidence: medium
-- slug: 2026-01-08-protests-erupt-in-minneapolis-as-officials-dispute-jurisdiction-in-fatal-ice-sho
-  relation: related
-  strength: 0.8806
-  confidence: medium
-- slug: 2026-01-08-ice-killing-of-minneapolis-woman-deepens-minnesota-s-conflict-with-trump
-  relation: related
-  strength: 0.8805
-  confidence: medium
-- slug: 2026-01-07-ice-officer-shoots-and-kills-minneapolis-woman-during-immigration-enforcement
-  relation: related
-  strength: 0.8856
-  confidence: medium
-- slug: 2026-01-08-minneapolis-protests-erupt-over-ice-killing-of-renee-good-as-portland-shooting-d
-  relation: related
-  strength: 0.876
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
 
 A U.S. Border Patrol officer shot and killed Alex Jeffrey Pretti, 37, in Minneapolis on Saturday during the Trump administration's immigration enforcement crackdown. Pretti was an intensive-care nurse at a Veterans Affairs hospital and a U.S. citizen born in Illinois. He had participated in protests following the January 7 killing of Renee Good by an Immigration and Customs Enforcement officer in the same city.
 
@@ -155,98 +117,120 @@ As of Saturday evening, the family said they had still not heard from any federa
 
 ## Atomic claims
 
-### c_001 — confirmed, single source
-**Subject entities:** Alex Jeffrey Pretti
-**Predicate:** shot_and_killed_by
-**Object:** U.S. Border Patrol officer (human_agent)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Alex Jeffrey Pretti
+- **Predicate:** shot_and_killed_by
+- **Object:** U.S. Border Patrol officer (human_agent)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > Alex Jeffrey Pretti, 37, was shot and killed by a U.S. Border Patrol officer in Minneapolis on January 24, 2026.
 
-### c_002 — attributed, single source
-**Subject entities:** Alex Jeffrey Pretti
-**Predicate:** worked_as
-**Object:** ICU nurse at Veterans Affairs hospital (occupation)
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Alex Jeffrey Pretti
+- **Predicate:** worked_as
+- **Object:** ICU nurse at Veterans Affairs hospital (occupation)
+- **Sources:** src_001
 
 > Pretti was an intensive-care nurse at a Veterans Affairs hospital.
 
-### c_003 — attributed, single source
-**Subject entities:** Alex Jeffrey Pretti
-**Predicate:** citizenship_origin
-**Object:** U.S. citizen born in Illinois (citizenship)
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Alex Jeffrey Pretti
+- **Predicate:** citizenship_origin
+- **Object:** U.S. citizen born in Illinois (citizenship)
+- **Sources:** src_001
 
 > Pretti was a U.S. citizen born in Illinois.
 
-### c_004 — attributed, primary document
-**Subject entities:** Alex Jeffrey Pretti
-**Predicate:** criminal_history
-**Object:** no criminal record, no law enforcement interactions except traffic tickets (legal_status)
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Alex Jeffrey Pretti
+- **Predicate:** criminal_history
+- **Object:** no criminal record, no law enforcement interactions except traffic tickets (legal_status)
+- **Sources:** src_001
 
 > Court records showed Pretti had no criminal record and no prior interactions with law enforcement beyond a handful of traffic tickets.
 
-### c_005 — attributed, single source
-**Subject entities:** Department of Homeland Security
-**Predicate:** claimed_about_approach
-**Object:** Pretti approached officers with 9mm semiautomatic handgun (factual_assertion)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Department of Homeland Security
+- **Predicate:** claimed_about_approach
+- **Object:** Pretti approached officers with 9mm semiautomatic handgun (factual_assertion)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > The Department of Homeland Security said Pretti approached Border Patrol officers with a 9-millimeter semiautomatic handgun.
 
-### c_006 — appears, primary document
-**Subject entities:** Bystander videos; Alex Jeffrey Pretti
-**Predicate:** showed
-**Object:** Pretti with phone in hand, no visible weapon (documentary_evidence)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_006
+- **Hedge:** appears
+- **Corroboration:** primary_document
+- **Subject entities:** Bystander videos; Alex Jeffrey Pretti
+- **Predicate:** showed
+- **Object:** Pretti with phone in hand, no visible weapon (documentary_evidence)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > In bystander videos of the shooting, Pretti is seen with a phone in his hand but none of the footage appears to show him with a visible weapon.
 
-### c_007 — attributed, single source
-**Subject entities:** Alex Jeffrey Pretti; family
-**Predicate:** owned_firearm_with_permit
-**Object:** handgun with Minnesota concealed carry permit, but never carried (property_and_practice)
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Alex Jeffrey Pretti; family
+- **Predicate:** owned_firearm_with_permit
+- **Object:** handgun with Minnesota concealed carry permit, but never carried (property_and_practice)
+- **Sources:** src_001
 
 > Pretti's family said he owned a handgun and had a permit to carry a concealed handgun in Minnesota but said they had never known him to carry it.
 
-### c_008 — attributed, single source
-**Subject entities:** Alex Jeffrey Pretti; family
-**Predicate:** actions_during_incident
-**Object:** holding phone, shielding woman from pepper spray, not holding gun when tackled (action_sequence)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Alex Jeffrey Pretti; family
+- **Predicate:** actions_during_incident
+- **Object:** holding phone, shielding woman from pepper spray, not holding gun when tackled (action_sequence)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > Pretti's family said he was not holding a gun when he was tackled by federal agents but was holding his phone with one hand and using the other to shield a woman who was being pepper-sprayed.
 
-### c_009 — attributed, single source
-**Subject entities:** Alex Jeffrey Pretti; Renee Good
-**Predicate:** participated_in_protests_after
-**Object:** protests following January 7 ICE killing (action)
-**Temporal:** after 2026-01-07
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Alex Jeffrey Pretti; Renee Good
+- **Predicate:** participated_in_protests_after
+- **Object:** protests following January 7 ICE killing (action)
+- **Temporal:** after 2026-01-07
+- **Sources:** src_001
 
 > Pretti had participated in protests following the January 7 killing of Renee Good by an Immigration and Customs Enforcement officer.
 
-### c_010 — attributed, single source
-**Subject entities:** Alex Jeffrey Pretti; George Floyd
-**Predicate:** participated_in_protests
-**Object:** street protests following George Floyd killing (action)
-**Temporal:** 2020 onwards
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Alex Jeffrey Pretti; George Floyd
+- **Predicate:** participated_in_protests
+- **Object:** street protests following George Floyd killing (action)
+- **Temporal:** 2020 onwards
+- **Sources:** src_001
 
 > Pretti had participated in street protests following the 2020 killing of George Floyd by a Minneapolis police officer.
 
-### c_011 — attributed, single source
-**Subject entities:** Tim Walz
-**Predicate:** contacted_white_house
-**Object:** contact with White House after shooting (action)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Tim Walz
+- **Predicate:** contacted_white_house
+- **Object:** contact with White House after shooting (action)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > Governor Tim Walz said he had been in contact with the White House after the shooting.
 
@@ -255,10 +239,5 @@ As of Saturday evening, the family said they had still not heard from any federa
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Michael Biesecker
 **Publication date:** 2026-01-24
-**Access date:** 2026-01-24
 **Title:** Man killed by Border Patrol in Minneapolis was ICU nurse
 **URL:** https://apnews.com/article/immigration-enforcement-minnesota-protester-alex-pretti-15ade7de6e19cb0291734e85dac763dc
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -19,7 +19,7 @@ topic_tags:
   - politics
   - "science and technology"
 storyline_nexus:
-  - ai-regulation
+- ai-industry-regulation
 geographic_location: Brussels, Belgium / European Union
 floor_values_engaged:
 - value: accountability_of_power
@@ -168,7 +168,3 @@ Meta pushed back against the threatened order, saying the commission's position 
 **Access date:** 2026-05-17
 **Title:** EU threatens to force Meta to restore WhatsApp full access for rival AI chatbots
 **URL:** https://apnews.com/article/whatsapp-meta-eu-european-union-antitrust-ai-c2b1000da61c204612b2fd2c5d4dd678
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

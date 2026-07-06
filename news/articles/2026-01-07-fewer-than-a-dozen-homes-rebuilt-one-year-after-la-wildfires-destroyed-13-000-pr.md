@@ -1,6 +1,5 @@
 ---
 headline: Fewer than a dozen homes rebuilt one year after LA wildfires destroyed 13,000 properties
-slug: 2026-01-07-fewer-than-a-dozen-homes-rebuilt-one-year-after-la-wildfires-destroyed-13-000
 publish_date: '2026-01-07'
 lede: 'One year after the Palisades and Eaton fires killed 31 people and destroyed roughly 13,000 homes and residential properties across Los Angeles County, fewer than a dozen homes have been rebuilt, the Associated Press reported. About 900 homes are under construction, but more than 600 properties where single-family homes were destroyed have already been sold as survivors unable to afford rebuilding leave their communities behind.
 
@@ -28,46 +27,42 @@ primary_themes:
 - housing
 - California wildfires
 topic_tags:
-  - "artificial intelligence"
-  - crime
-  - "crime, law and justice"
-  - "disaster, accident and emergency incident"
-  - fire
-  - "human interest"
+- natural disaster
+- fire
+- construction and property
+- financial and business service
 storyline_nexus:
-  - los-angeles-wildfires
-geographic_location: Los Angeles County, California
+- los-angeles-wildfire-recovery
+geographic_location: United States
 floor_values_engaged:
-- value: human_life_and_dignity
+- value: accountability_of_power
   intensity: 0.9
 - value: equality_fairness
-  intensity: 0.8
-- value: accountability_of_power
-  intensity: 0.7
+  intensity: 0.9
 - value: informed_citizenship
   intensity: 0.6
-framework_version: 1.1.0
-generation_timestamp: '2026-05-16T18:07:39Z'
+framework_version: 1.3.0
+generation_timestamp: '2026-05-22T23:57:53Z'
 source_cluster_id: cluster_ap_2026-01-06_california-wildfires-la-altadena-rebuild
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 15
   hedges:
-    appears: 0
     alleged: 1
     attributed: 12
+    appears: 0
+    confirmed: 1
     reported: 1
     contested: 0
-    confirmed: 1
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 0
+    primary_plus_secondary: 0
     single_source: 15
+    one_originating_plus_primary_document: 0
     two_independent: 0
 sources:
   count: 1
@@ -86,13 +81,20 @@ image:
   url: /articles/2026-01-07-fewer-than-a-dozen-homes-rebuilt-one-year-after-la-wildfires-destroyed-13-000-pr.png
   alt: 'Illustration accompanying article: Fewer than a dozen homes rebuilt one year after LA wildfires destroyed 13,000'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-04-altadena-nurse-plants-sunflowers-on-fire-razed-lot-rebuilds-home-a-year-after-ea
-  relation: related
-  strength: 0.8273
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Fewer than a dozen homes have been rebuilt a year after being burned down in LA-area wildfires
+- Fewer than a dozen homes have been rebuilt a year after being burned down in LA-area wildfires
+- LOS ANGELES (AP) — On the first anniversary of the most destructive wildfires in the L.A. area, the scant home construction projects stand out among the still mostly flattened landscapes.
+- For those who had insurance, it’s often not enough to cover the costs of construction. Relief organizations are stepping in to help, but progress is slow.
+- Shortly before Thanksgiving, Koerner was among the first to finish a rebuild in the aftermath of the fires, which were fueled by drought and hurricane-force winds.
+- But most do not have options like Koerner.
 
 LOS ANGELES — One year after the Palisades and Eaton fires killed 31 people and destroyed roughly 13,000 homes and residential properties across Los Angeles County, fewer than a dozen homes have been rebuilt, the Associated Press reported. About 900 homes are under construction, but more than 600 properties where single-family homes were destroyed have already been sold as survivors unable to afford rebuilding leave their communities behind.
 
@@ -144,138 +146,168 @@ Andrew Rumbach, co-lead of the Climate and Communities Program at the Urban Inst
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Los Angeles County
-**Predicate:** homes_rebuilt_count
-**Object:** fewer than a dozen (count)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Los Angeles County
+- **Predicate:** homes_rebuilt_count
+- **Object:** fewer than a dozen (count)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Fewer than a dozen homes have been rebuilt in Los Angeles County since the Jan. 7, 2025 Palisades and Eaton fires.
 
-### c_002 — attributed, single source
-**Subject entities:** Palisades fire; Eaton fire
-**Predicate:** killed
-**Object:** 31 (death_toll)
-**Temporal:** 2025-01-07
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Palisades fire; Eaton fire
+- **Predicate:** killed
+- **Object:** 31 (death_toll)
+- **Temporal:** 2025-01-07
+- **Sources:** src_001
 
 > The fires killed 31 people.
 
-### c_003 — attributed, single source
-**Subject entities:** Palisades fire; Eaton fire
-**Predicate:** destroyed
-**Object:** about 13,000 (count)
-**Temporal:** 2025-01-07
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Palisades fire; Eaton fire
+- **Predicate:** destroyed
+- **Object:** about 13,000 (count)
+- **Temporal:** 2025-01-07
+- **Sources:** src_001
 
 > The fires destroyed about 13,000 homes and other residential properties.
 
-### c_004 — reported, single source
-**Subject entities:** Los Angeles County
-**Predicate:** homes_under_construction
-**Object:** about 900 (count)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Los Angeles County
+- **Predicate:** homes_under_construction
+- **Object:** about 900 (count)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > About 900 homes are under construction in the fire-affected areas.
 
-### c_005 — attributed, single source
-**Subject entities:** Cotality
-**Predicate:** properties_sold
-**Object:** more than 600 (count)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Cotality
+- **Predicate:** properties_sold
+- **Object:** more than 600 (count)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > More than 600 properties where a single-family home was destroyed have been sold, according to real estate data tracker Cotality.
 
-### c_006 — attributed, single source
-**Subject entities:** Department of Angels
-**Predicate:** insurance_claims_closed_rate
-**Object:** less than 20% (percentage)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Department of Angels
+- **Predicate:** insurance_claims_closed_rate
+- **Object:** less than 20% (percentage)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > Less than 20% of people who experienced total home loss had closed out their insurance claims by December, per a Department of Angels survey.
 
-### c_007 — attributed, single source
-**Subject entities:** State Farm; California FAIR Plan
-**Predicate:** policy_share
-**Object:** about one-third (fraction)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** State Farm; California FAIR Plan
+- **Predicate:** policy_share
+- **Object:** about one-third (fraction)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > About one-third of insured survey respondents had policies with State Farm or the California FAIR Plan.
 
-### c_008 — confirmed, single source
-**Subject entities:** Los Angeles County; State Farm
-**Predicate:** investigation_opened
-**Object:** civil investigation (legal_action)
-**Temporal:** 2025-11
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Los Angeles County; State Farm
+- **Predicate:** investigation_opened
+- **Object:** civil investigation (legal_action)
+- **Temporal:** 2025-11
+- **Sources:** src_001
 
 > Los Angeles County opened a civil investigation into State Farm's practices and potential violations of the state's Unfair Competition law in November 2025.
 
-### c_009 — attributed, single source
-**Subject entities:** State Farm; Tom Hartman
-**Predicate:** claims_addressed_and_paid
-**Object:** $5 billion+ (dollar_amount)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** State Farm; Tom Hartman
+- **Predicate:** claims_addressed_and_paid
+- **Object:** $5 billion+ (dollar_amount)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > State Farm spokesperson Tom Hartman said the company has addressed more than 13,500 claims and issued over $5 billion in payments.
 
-### c_010 — attributed, single source
-**Subject entities:** Ted Koerner
-**Predicate:** rebuilt_home
-**Object:** just over four months (duration)
-**Temporal:** 2025-11
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ted Koerner
+- **Predicate:** rebuilt_home
+- **Object:** just over four months (duration)
+- **Temporal:** 2025-11
+- **Sources:** src_001
 
 > Ted Koerner, 67, liquidated about 80% of his retirement holdings to fund his rebuild, completing it in just over four months, shortly before Thanksgiving 2025.
 
-### c_011 — attributed, single source
-**Subject entities:** Jessica Rogers; U.S. Small Business Administration
-**Predicate:** received_loan
-**Object:** 550000 (dollar_amount)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jessica Rogers; U.S. Small Business Administration
+- **Predicate:** received_loan
+- **Object:** 550000 (dollar_amount)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > Jessica Rogers, executive director of the Pacific Palisades Long Term Recovery Group, received a $550,000 SBA loan approval last month after losing her home, her job, and having her identity stolen.
 
-### c_012 — attributed, single source
-**Subject entities:** UCLA Latino Policy & Politics Institute; Altadena
-**Predicate:** homeowners_no_action_rate
-**Object:** 7 in 10 (ratio)
-**Temporal:** 2025-08
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** UCLA Latino Policy & Politics Institute; Altadena
+- **Predicate:** homeowners_no_action_rate
+- **Object:** 7 in 10 (ratio)
+- **Temporal:** 2025-08
+- **Sources:** src_001
 
 > As of August 2025, 7 in 10 Altadena homeowners whose property was severely damaged had not begun taking steps to rebuild or sell, per UCLA's Latino Policy & Politics Institute.
 
-### c_013 — attributed, single source
-**Subject entities:** UCLA Latino Policy & Politics Institute
-**Predicate:** racial_disparity_no_action
-**Object:** 73% more likely (relative_rate)
-**Temporal:** 2025-08
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** UCLA Latino Policy & Politics Institute
+- **Predicate:** racial_disparity_no_action
+- **Object:** 73% more likely (relative_rate)
+- **Temporal:** 2025-08
+- **Sources:** src_001
 
 > Among Altadena homeowners who had taken no action, Black homeowners were 73% more likely than others to have taken no action, per UCLA research.
 
-### c_014 — attributed, single source
-**Subject entities:** Altadena
-**Predicate:** Black_homeownership_rate
-**Object:** 81% (percentage)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Altadena
+- **Predicate:** Black_homeownership_rate
+- **Object:** 81% (percentage)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > In 2024, 81% of Black households in Altadena owned their homes, nearly twice the national Black homeownership rate.
 
-### c_015 — alleged, single source
-**Subject entities:** Southern California Edison
-**Predicate:** alleged_cause
-**Object:** equipment sparked fire (allegation)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_015
+- **Hedge:** alleged
+- **Corroboration:** single_source
+- **Subject entities:** Southern California Edison
+- **Predicate:** alleged_cause
+- **Object:** equipment sparked fire (allegation)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Several lawsuits allege that Southern California Edison's equipment sparked the Altadena fire.
 
@@ -284,10 +316,5 @@ Andrew Rumbach, co-lead of the Climate and Communities Program at the Urban Inst
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Alex Veiga
 **Publication date:** 2026-01-07
-**Access date:** 2026-01-07
 **Title:** Most people remain displaced one year after LA-area wildfires
 **URL:** https://apnews.com/article/california-wildfires-la-altadena-rebuild-home-construction-c7bc38063fd8db94dc96522d9e60a836
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -20,7 +20,7 @@ topic_tags:
   - judiciary
   - "law enforcement"
 storyline_nexus:
-  - immigration-enforcement
+- us-immigration-enforcement
 geographic_location: New York City, New York, United States
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -133,144 +133,170 @@ The controversy extended beyond the courtroom. In the weeks before the bail deci
 
 Roberts said the Duprey family was "deeply troubled" by the team's decision. He called it "not a neutral act" and said it "sends a message — intended or not — that risks undermining public confidence in a fair legal process and deepens the pain of a family still grieving."
 
----
-
-This article was generated algorithmically by Main Street Independent's News Article Generator framework. Specification: /methodology. License: CC0 — Public domain.
-
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Erik Duran; Judge Saliann Scarpulla
-**Predicate:** freed_on_bail
-**Object:** $300,000 cash or bond (bail_amount)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Erik Duran; Judge Saliann Scarpulla
+- **Predicate:** freed_on_bail
+- **Object:** $300,000 cash or bond (bail_amount)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > Judge Saliann Scarpulla of the Appellate Division ordered Duran freed on $300,000 cash or bond in April.
 
-### c_002 — confirmed, primary document
-**Subject entities:** Erik Duran
-**Predicate:** sentenced
-**Object:** 3-9 years (sentence_duration)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Erik Duran
+- **Predicate:** sentenced
+- **Object:** 3-9 years (sentence_duration)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > Duran was sentenced to three to nine years in prison.
 
-### c_003 — confirmed, primary document
-**Subject entities:** Erik Duran; Eric Duprey
-**Predicate:** threw_cooler_at
-**Object:** cooler full of ice and drinks (object)
-**Temporal:** 2023-08-23
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Erik Duran; Eric Duprey
+- **Predicate:** threw_cooler_at
+- **Object:** cooler full of ice and drinks (object)
+- **Temporal:** 2023-08-23
+- **Sources:** src_001
 
 > Duran threw a cooler full of ice and drinks at Eric Duprey on August 23, 2023, in a narcotics operation in the Bronx.
 
-### c_004 — confirmed, primary document
-**Subject entities:** Eric Duprey
-**Predicate:** died_from_injuries
-**Object:** fatal head injuries (cause_of_death)
-**Temporal:** 2023-08-23
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Eric Duprey
+- **Predicate:** died_from_injuries
+- **Object:** fatal head injuries (cause_of_death)
+- **Temporal:** 2023-08-23
+- **Sources:** src_001
 
 > Duprey lost control of his scooter after being struck by the cooler, crashed into a tree, and sustained fatal head injuries.
 
-### c_005 — confirmed, primary document
-**Subject entities:** Eric Duprey
-**Predicate:** safety_equipment_status
-**Object:** not wearing helmet (safety_status)
-**Temporal:** 2023-08-23
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Eric Duprey
+- **Predicate:** safety_equipment_status
+- **Object:** not wearing helmet (safety_status)
+- **Temporal:** 2023-08-23
+- **Sources:** src_001
 
 > Duprey was not wearing a helmet.
 
-### c_006 — attributed, primary document
-**Subject entities:** Erik Duran
-**Predicate:** testified
-**Object:** trying to protect other officers (stated_motive)
-**Temporal:** 2026-02
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Erik Duran
+- **Predicate:** testified
+- **Object:** trying to protect other officers (stated_motive)
+- **Temporal:** 2026-02
+- **Sources:** src_001
 
 > At trial in February, Duran testified he was trying to protect other officers when he threw the cooler.
 
-### c_007 — attributed, single source
-**Subject entities:** Erik Duran
-**Predicate:** personal_status
-**Object:** 38, married, father of three (demographic_attributes)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Erik Duran
+- **Predicate:** personal_status
+- **Object:** 38, married, father of three (demographic_attributes)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > Duran is a 38-year-old married father of three.
 
-### c_008 — reported, single source
-**Subject entities:** Erik Duran; NYPD
-**Predicate:** first_convicted
-**Object:** at least 2 decades (time_period)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Erik Duran; NYPD
+- **Predicate:** first_convicted
+- **Object:** at least 2 decades (time_period)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > Duran is the first NYPD officer sentenced to prison for an on-duty death in at least two decades.
 
-### c_009 — confirmed, primary document
-**Subject entities:** Erik Duran; Judge Saliann Scarpulla
-**Predicate:** ordered_bail_condition
-**Object:** surrender passport to lawyers (bail_condition)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Erik Duran; Judge Saliann Scarpulla
+- **Predicate:** ordered_bail_condition
+- **Object:** surrender passport to lawyers (bail_condition)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > Judge Saliann Scarpulla ordered Duran to surrender his passport to his lawyers pending appeal.
 
-### c_010 — attributed, primary document
-**Subject entities:** Vincent Vallelong; Sergeants Benevolent Association
-**Predicate:** made_statement
-**Object:** major win for Erik and his family and for law enforcement officers around the country (attributed_statement)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Vincent Vallelong; Sergeants Benevolent Association
+- **Predicate:** made_statement
+- **Object:** major win for Erik and his family and for law enforcement officers around the country (attributed_statement)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > Vincent Vallelong, president of the Sergeants Benevolent Association, said the decision is "a major win for Erik and his family and for law enforcement officers around the country."
 
-### c_011 — attributed, primary document
-**Subject entities:** Jon Roberts
-**Predicate:** made_statement
-**Object:** deeply disappointed; reopens painful wounds for a family that has already endured an immense loss (attributed_statement)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Jon Roberts
+- **Predicate:** made_statement
+- **Object:** deeply disappointed; reopens painful wounds for a family that has already endured an immense loss (attributed_statement)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > Jon Roberts, lawyer for Duprey's family, said they were deeply disappointed and the decision reopens painful wounds.
 
-### c_012 — attributed, primary document
-**Subject entities:** Jon Roberts
-**Predicate:** made_statement
-**Object:** seeking accountability and ensuring that the seriousness of what occurred is never diminished (attributed_statement)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Jon Roberts
+- **Predicate:** made_statement
+- **Object:** seeking accountability and ensuring that the seriousness of what occurred is never diminished (attributed_statement)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > Roberts said the family's focus remains on seeking accountability and ensuring the seriousness of what occurred is never diminished.
 
-### c_013 — confirmed, primary document
-**Subject entities:** New York Islanders; Sergeants Benevolent Association
-**Predicate:** ran_fundraiser
-**Object:** jumbotron message encouraging donations to legal defense fund (fundraiser_activity)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_013
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** New York Islanders; Sergeants Benevolent Association
+- **Predicate:** ran_fundraiser
+- **Object:** jumbotron message encouraging donations to legal defense fund (fundraiser_activity)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > The New York Islanders displayed a message on their video board encouraging fans to donate to Duran's legal defense fund with a QR code and message from the Sergeants Benevolent Association.
 
-### c_014 — confirmed, primary document
-**Subject entities:** New York Islanders
-**Predicate:** fundraiser_allocation
-**Object:** 25% of 50-50 raffle proceeds (fundraiser_allocation)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_014
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** New York Islanders
+- **Predicate:** fundraiser_allocation
+- **Object:** 25% of 50-50 raffle proceeds (fundraiser_allocation)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > The Islanders said they would direct 25 percent of proceeds from a 50-50 raffle to support Duran.
 
-### c_015 — attributed, primary document
-**Subject entities:** Jon Roberts
-**Predicate:** made_statement
-**Object:** deeply troubled; not a neutral act; risks undermining public confidence in a fair legal process and deepens the pain of a family still grieving (attributed_statement)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Jon Roberts
+- **Predicate:** made_statement
+- **Object:** deeply troubled; not a neutral act; risks undermining public confidence in a fair legal process and deepens the pain of a family still grieving (attributed_statement)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > Roberts said the Duprey family was deeply troubled by the Islanders' decision, calling it not a neutral act that risks undermining public confidence in a fair legal process.
 
@@ -282,7 +308,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-05-17
 **Title:** Ex-NYPD police sergeant avoids jail during manslaughter appeal
 **URL:** https://apnews.com/article/new-york-police-cooler-throwing-death-bail-7d3fb4c430e34b09abe652e6c546bf50
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

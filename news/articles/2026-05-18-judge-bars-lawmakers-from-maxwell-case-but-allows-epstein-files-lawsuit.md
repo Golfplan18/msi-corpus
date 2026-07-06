@@ -14,10 +14,11 @@ primary_themes:
 - government_accountability
 - transparency
 topic_tags:
-  - "crime, law and justice"
-  - trial
-  - law
-storyline_nexus: []
+- crime, law and justice
+- trial
+- law
+storyline_nexus:
+- epstein-investigation-fallout
 geographic_location: United States (federal court, New York)
 floor_values_engaged:
 - value: informed_citizenship
@@ -71,10 +72,6 @@ cross_article_links:
   relation: related
   strength: 0.8382
   confidence: medium
-- slug: 2025-12-31-justice-dept-expands-epstein-review-to-5-2m-documents-targets-late-january-relea
-  relation: continues
-  strength: 0.825
-  confidence: high
 draft: false
 ---
 
@@ -106,70 +103,82 @@ Maxwell is serving a 20-year prison sentence following her December 2021 convict
 
 Jeffrey Epstein died in a federal jail in New York in August 2019 while awaiting trial on sex trafficking charges. His death was ruled a suicide.
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under sources. Specification: /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
-### c_001 — attributed, primary document
-**Subject entities:** Judge Paul A. Engelmayer; Ro Khanna; Thomas Massie
-**Predicate:** ruled
-**Object:** lawmakers cannot intervene in Maxwell's criminal case (legal_ruling)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Judge Paul A. Engelmayer; Ro Khanna; Thomas Massie
+- **Predicate:** ruled
+- **Object:** lawmakers cannot intervene in Maxwell's criminal case (legal_ruling)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > Judge Paul A. Engelmayer ruled that lawmakers cannot intervene in Maxwell's sex trafficking case.
 
-### c_002 — attributed, primary document
-**Subject entities:** Ro Khanna; Thomas Massie; Justice Department
-**Predicate:** permitted_to_file
-**Object:** separate lawsuit for Epstein files release (legal_action)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Ro Khanna; Thomas Massie; Justice Department
+- **Predicate:** permitted_to_file
+- **Object:** separate lawsuit for Epstein files release (legal_action)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > Khanna and Massie can file a separate lawsuit to compel DOJ document release.
 
-### c_003 — confirmed, primary document
-**Subject entities:** Donald Trump; Epstein Files Transparency Act
-**Predicate:** signed_into_law
-**Object:** Epstein Files Transparency Act (legislation)
-**Temporal:** 2025-11
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Donald Trump; Epstein Files Transparency Act
+- **Predicate:** signed_into_law
+- **Object:** Epstein Files Transparency Act (legislation)
+- **Temporal:** 2025-11
+- **Sources:** src_001
 
 > The Epstein Files Transparency Act was signed into law by President Trump in November.
 
-### c_004 — confirmed, primary document
-**Subject entities:** Epstein Files Transparency Act; Justice Department
-**Predicate:** required_release
-**Object:** December 19 deadline (deadline)
-**Temporal:** 2025-12-19
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Epstein Files Transparency Act; Justice Department
+- **Predicate:** required_release
+- **Object:** December 19 deadline (deadline)
+- **Temporal:** 2025-12-19
+- **Sources:** src_001
 
 > The law required the Justice Department to release Epstein and Maxwell investigation documents by December 19.
 
-### c_005 — reported, single source
-**Subject entities:** Justice Department
-**Predicate:** released
-**Object:** 12,000 of 2 million documents (quantity)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Justice Department
+- **Predicate:** released
+- **Object:** 12,000 of 2 million documents (quantity)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > The Justice Department has released approximately 12,000 documents out of more than 2 million identified.
 
-### c_006 — attributed, primary document
-**Subject entities:** Judge Paul A. Engelmayer
-**Predicate:** said
-**Object:** lawmakers' concerns were undeniably important and timely (speech_act)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Judge Paul A. Engelmayer
+- **Predicate:** said
+- **Object:** lawmakers' concerns were undeniably important and timely (speech_act)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > Judge Engelmayer said lawmakers' concerns about DOJ compliance were undeniably important and timely.
 
-### c_007 — confirmed, primary document
-**Subject entities:** Ghislaine Maxwell
-**Predicate:** serving_sentence
-**Object:** 20-year sentence (legal_sentence)
-**Temporal:** 2021-12
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Ghislaine Maxwell
+- **Predicate:** serving_sentence
+- **Object:** 20-year sentence (legal_sentence)
+- **Temporal:** 2021-12
+- **Sources:** src_001
 
 > Ghislaine Maxwell is serving a 20-year prison sentence following her December 2021 sex trafficking conviction.
 
@@ -181,7 +190,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-05-18
 **Title:** Lawmakers can sue to ensure timely release of Epstein files, judge says
 **URL:** https://apnews.com/article/epstein-congress-neutral-expert-justice-department-files-cd02bb95beb63354481ca6eb8865dc07
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

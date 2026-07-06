@@ -15,45 +15,42 @@ primary_themes:
 - Venezuelan oil industry
 - Latin American diplomacy
 topic_tags:
-  - "conflict, war and peace"
-  - employment
-  - "international relations"
-  - labour
-  - "labour dispute"
-  - politics
+- energy and resource
+- international trade
+- international relations
+- government policy
+- economy, business and finance
 storyline_nexus:
-  - venezuela-crisis
-geographic_location: Caracas, Venezuela
+- venezuela-political-military-crisis
+geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.9
-- value: accountability_of_power
-  intensity: 0.7
 - value: human_life_and_dignity
-  intensity: 0.5
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:02:15Z'
+  intensity: 0.6
+- value: informed_citizenship
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:18:14Z'
 source_cluster_id: cluster_ap_2026-01-16_venezuela-delcy-rodriguez-state-of-union
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 10
   hedges:
-    appears: 0
     alleged: 0
-    attributed: 6
     reported: 1
-    contested: 0
+    appears: 0
     confirmed: 3
+    attributed: 6
+    contested: 0
   corroboration:
     primary_plus_secondary: 3
-    one_originating_plus_primary_document: 0
-    primary_document: 0
-    single_source: 7
     two_independent: 0
+    one_originating_plus_primary_document: 0
+    single_source: 7
+    primary_document: 0
 sources:
   count: 1
   outlets:
@@ -67,41 +64,20 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-12-trump-leans-toward-barring-exxonmobil-from-venezuela-after-ceo-calls-country-uni
-  relation: related
-  strength: 0.8076
-  confidence: medium
-- slug: 2026-01-12-trump-says-he-is-inclined-to-keep-exxonmobil-out-of-venezuela-after-ceo-balks
-  relation: related
-  strength: 0.7997
-  confidence: medium
-- slug: 2026-01-04-rubio-tamps-down-nation-building-fears-as-trump-insists-us-in-charge-in-venezuel
-  relation: related
-  strength: 0.8201
-  confidence: medium
-- slug: 2026-01-09-china-s-venezuela-oil-debt-complicates-trump-s-seizure-strategy
-  relation: related
-  strength: 0.7781
-  confidence: medium
-- slug: 2026-01-10-trump-order-shields-venezuelan-oil-revenue-from-judicial-claims
-  relation: related
-  strength: 0.7593
-  confidence: medium
-- slug: 2026-01-03-trump-vows-to-run-venezuela-after-u-s-military-operation-ousts-maduro
-  relation: related
-  strength: 0.8017
-  confidence: medium
-- slug: 2026-01-07-venezuela-s-vast-oil-reserves-draw-us-interest-but-experts-warn-of-major-hurdles
-  relation: related
-  strength: 0.7731
-  confidence: medium
-- slug: 2026-01-06-delcy-rodr-guez-takes-power-as-venezuela-s-interim-president-after-maduro-s-capt
-  relation: continues
-  strength: 0.7728
-  confidence: high
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Venezuela’s new leader calls for opening oil industry to foreign investment and warmer US ties
+- Venezuela’s new leader calls for opening oil industry to foreign investment and warmer US ties
+- Under pressure from the U.S. to cooperate with its plans for reshaping Venezuela’s sanctioned oil industry, Maduro’s former vice president declared that a “new policy is being formed in Venezuela.”
+- “Venezuela, in free trade relations with the world, can sell the products of its energy industry,” she said.
+- The Trump administration has said it plans to control future oil export revenues to ensure it benefits the Venezuelan people.
+- These days the country’s hospitals are so poorly equipped that patients are asked to provide supplies needed for their care, from syringes to surgical screws.
 
 Venezuela's acting President Delcy Rodríguez used her first state of the union address Thursday to call for opening the country's state-run oil industry to foreign investment and to advocate for resuming diplomatic ties with the United States, less than two weeks after Washington captured and ousted former President Nicolás Maduro.
 
@@ -151,93 +127,113 @@ The day before her address, Rodríguez told reporters that her government would 
 
 ## Atomic claims
 
-### c_001 — confirmed, primary plus secondary
-**Subject entities:** Delcy Rodríguez; Venezuela
-**Predicate:** delivered_state_of_union
-**Object:** first state of the union address (event)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** Delcy Rodríguez; Venezuela
+- **Predicate:** delivered_state_of_union
+- **Object:** first state of the union address (event)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Venezuela's acting President Delcy Rodríguez delivered her first state of the union address on January 15, 2026.
 
-### c_002 — attributed, single source
-**Subject entities:** Delcy Rodríguez; Venezuela oil industry
-**Predicate:** called_for
-**Object:** opening oil industry to foreign investment (policy_position)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Delcy Rodríguez; Venezuela oil industry
+- **Predicate:** called_for
+- **Object:** opening oil industry to foreign investment (policy_position)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Rodríguez called for opening Venezuela's state-run oil industry to more foreign investment.
 
-### c_003 — confirmed, primary plus secondary
-**Subject entities:** United States; Nicolás Maduro
-**Predicate:** captured_and_toppled
-**Object:** Nicolás Maduro (person)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** United States; Nicolás Maduro
+- **Predicate:** captured_and_toppled
+- **Object:** Nicolás Maduro (person)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > The United States captured and toppled former President Nicolás Maduro less than two weeks before Rodríguez's address.
 
-### c_004 — attributed, single source
-**Subject entities:** Delcy Rodríguez
-**Predicate:** delivered_speech
-**Object:** 44-minute speech (event_detail)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Delcy Rodríguez
+- **Predicate:** delivered_speech
+- **Object:** 44-minute speech (event_detail)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Rodríguez delivered a 44-minute speech before an audience that included foreign diplomats.
 
-### c_005 — attributed, single source
-**Subject entities:** Delcy Rodríguez; Venezuela oil revenue
-**Predicate:** described
-**Object:** two sovereign wealth funds (policy_proposal)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Delcy Rodríguez; Venezuela oil revenue
+- **Predicate:** described
+- **Object:** two sovereign wealth funds (policy_proposal)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Rodríguez described cash from oil sales flowing into two sovereign wealth funds, one for health services and one for public infrastructure.
 
-### c_006 — attributed, single source
-**Subject entities:** Donald Trump; Delcy Rodríguez
-**Predicate:** praised
-**Object:** terrific person (characterization)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Delcy Rodríguez
+- **Predicate:** praised
+- **Object:** terrific person (characterization)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Trump praised Rodríguez as a 'terrific person' after holding his first known phone call with her on Wednesday.
 
-### c_007 — confirmed, primary plus secondary
-**Subject entities:** María Corina Machado; Donald Trump
-**Predicate:** met_with
-**Object:** closed-door meeting at the White House (event)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** María Corina Machado; Donald Trump
+- **Predicate:** met_with
+- **Object:** closed-door meeting at the White House (event)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > María Corina Machado met with President Trump at the White House on January 15, 2026.
 
-### c_008 — attributed, single source
-**Subject entities:** María Corina Machado; Donald Trump
-**Predicate:** presented_medal_to
-**Object:** Nobel Peace Prize medal (object)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** María Corina Machado; Donald Trump
+- **Predicate:** presented_medal_to
+- **Object:** Nobel Peace Prize medal (object)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Machado said she presented her Nobel Peace Prize medal to Trump during their closed-door conversation.
 
-### c_009 — reported, single source
-**Subject entities:** human rights groups; Delcy Rodríguez
-**Predicate:** verified_fraction_of
-**Object:** claimed prisoner releases (policy_claim)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** human rights groups; Delcy Rodríguez
+- **Predicate:** verified_fraction_of
+- **Object:** claimed prisoner releases (policy_claim)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Human rights groups verified only a fraction of the prisoner releases Rodríguez claimed had taken place.
 
-### c_010 — attributed, single source
-**Subject entities:** David Smilde; Venezuela government
-**Predicate:** assessed
-**Object:** economic accommodation with political continuity (expert_assessment)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** David Smilde; Venezuela government
+- **Predicate:** assessed
+- **Object:** economic accommodation with political continuity (expert_assessment)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > David Smilde, a Venezuela expert at Tulane University, said: 'Their idea is to give Trump everything he wants economically, but stay the course politically.'
 
@@ -246,10 +242,5 @@ The day before her address, Rodríguez told reporters that her government would 
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Regina Garcia Cano
 **Publication date:** 2026-01-15
-**Access date:** 2026-01-16
 **Title:** Rodríguez calls for opening Venezuela's oil industry and warmer US ties
 **URL:** https://apnews.com/article/venezuela-delcy-rodriguez-state-of-union-trump-us-b5c53860386752930a56d1d8846d6440
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

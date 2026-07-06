@@ -97,10 +97,6 @@ In January, Ecuadorian President Daniel Noboa declared a state of emergency in s
 
 The coastal provinces of Guayas, Manabi, and Esmeraldas account for the majority of Ecuador's homicides, concentrating the violence in regions where cocaine shipment routes terminate at ports bound for the United States.
 
----
-
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under sources. Framework specification at /methodology. Human review: not_triggered.
-
 This work is published under CC0 (public domain).
 
 ## Atomic claims
@@ -220,7 +216,3 @@ This work is published under CC0 (public domain).
 **Access date:** 2026-02-23
 **Title:** Ecuadorian police investigate attack in coastal province that left at least 7 dead
 **URL:** https://apnews.com/article/ecuador-violence-shooting-manabi-homicides-34ff30cd0d82be8c8afddc6006377c02
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

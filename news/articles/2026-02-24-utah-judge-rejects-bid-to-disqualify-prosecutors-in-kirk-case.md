@@ -298,7 +298,3 @@ On Monday, Graf granted a request from a coalition of news organizations includi
 **Access date:** 2026-05-18
 **Title:** Utah judge declines to disqualify prosecutors in Charlie Kirk killing case
 **URL:** https://apnews.com/article/charlie-kirk-biased-jurors-robinson-video-f8e7e21a11052e40108e08134c60702c
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

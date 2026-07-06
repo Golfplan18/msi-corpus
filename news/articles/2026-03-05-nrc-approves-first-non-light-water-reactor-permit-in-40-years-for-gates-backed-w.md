@@ -25,7 +25,8 @@ topic_tags:
   - "artificial intelligence"
   - environment
   - "science and technology"
-storyline_nexus: []
+storyline_nexus:
+- trump-climate-energy-rollbacks
 geographic_location: Kemmerer, Wyoming, United States
 floor_values_engaged:
 - value: informed_citizenship
@@ -132,174 +133,212 @@ TerraPower said its reactor would produce relatively less nuclear waste than con
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** U.S. Nuclear Regulatory Commission; TerraPower
-**Predicate:** approved_construction_permit
-**Object:** TerraPower reactor construction permit (regulatory_action)
-**Temporal:** 2026-03-04
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Nuclear Regulatory Commission; TerraPower
+- **Predicate:** approved_construction_permit
+- **Object:** TerraPower reactor construction permit (regulatory_action)
+- **Temporal:** 2026-03-04
+- **Sources:** src_001
 
 > The U.S. Nuclear Regulatory Commission approved a construction permit for a commercial nuclear reactor on March 4, 2026.
 
-### c_002 — attributed, single source
-**Subject entities:** U.S. Nuclear Regulatory Commission
-**Predicate:** stated_milestone
-**Object:** first non-light-water commercial reactor permit in 40+ years (milestone_claim)
-**Temporal:** 2026-03-04
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Nuclear Regulatory Commission
+- **Predicate:** stated_milestone
+- **Object:** first non-light-water commercial reactor permit in 40+ years (milestone_claim)
+- **Temporal:** 2026-03-04
+- **Sources:** src_001
 
 > The permit is the NRC's first for a commercial non-light-water reactor in more than 40 years, according to the NRC.
 
-### c_003 — confirmed, single source
-**Subject entities:** U.S. Nuclear Regulatory Commission; Florida Power & Light Company
-**Predicate:** prior_permit_record
-**Object:** 2018 Florida Power & Light permit, south of Miami, unbuilt (historical_record)
-**Temporal:** 2026-03-04
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Nuclear Regulatory Commission; Florida Power & Light Company
+- **Predicate:** prior_permit_record
+- **Object:** 2018 Florida Power & Light permit, south of Miami, unbuilt (historical_record)
+- **Temporal:** 2026-03-04
+- **Sources:** src_001
 
 > The permit is the NRC's first commercial nuclear construction permit in eight years; the previous was issued in 2018 to Florida Power & Light Company for a plant south of Miami that has yet to be built.
 
-### c_004 — confirmed, single source
-**Subject entities:** Bill Gates; TerraPower; Microsoft Corp.
-**Predicate:** role
-**Object:** founder and primary investor of TerraPower; Microsoft co-founder (person_role)
-**Temporal:** 2026-03-04
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Bill Gates; TerraPower; Microsoft Corp.
+- **Predicate:** role
+- **Object:** founder and primary investor of TerraPower; Microsoft co-founder (person_role)
+- **Temporal:** 2026-03-04
+- **Sources:** src_001
 
 > Bill Gates is a co-founder of Microsoft, a founder of TerraPower, and its primary investor.
 
-### c_005 — attributed, single source
-**Subject entities:** TerraPower; Kemmerer, Wyoming
-**Predicate:** plans_construction
-**Object:** 345-MW sodium-cooled reactor; up to 500 MW peak (infrastructure_specification)
-**Temporal:** 2026-03-04
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** TerraPower; Kemmerer, Wyoming
+- **Predicate:** plans_construction
+- **Object:** 345-MW sodium-cooled reactor; up to 500 MW peak (infrastructure_specification)
+- **Temporal:** 2026-03-04
+- **Sources:** src_001
 
 > TerraPower plans to build a 345-megawatt sodium-cooled reactor near Kemmerer, Wyoming, with the plant expected to produce up to 500 megawatts at peak.
 
-### c_006 — attributed, single source
-**Subject entities:** TerraPower
-**Predicate:** projected_cost_and_timeline
-**Object:** up to $4 billion; 2030 target (cost_timeline)
-**Temporal:** 2026-03-04
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** TerraPower
+- **Predicate:** projected_cost_and_timeline
+- **Object:** up to $4 billion; 2030 target (cost_timeline)
+- **Temporal:** 2026-03-04
+- **Sources:** src_001
 
 > The plant is expected to cost up to $4 billion, with completion targeted for 2030, according to TerraPower.
 
-### c_007 — attributed, single source
-**Subject entities:** TerraPower
-**Predicate:** stated_capacity
-**Object:** up to 400,000 homes (energy_output)
-**Temporal:** 2026-03-04
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** TerraPower
+- **Predicate:** stated_capacity
+- **Object:** up to 400,000 homes (energy_output)
+- **Temporal:** 2026-03-04
+- **Sources:** src_001
 
 > The reactor is expected to produce enough electricity for up to 400,000 homes, according to TerraPower.
 
-### c_008 — attributed, single source
-**Subject entities:** Chris Levesque; TerraPower
-**Predicate:** stated
-**Object:** We have spent thousands of manpower hours working to achieve this momentous accomplishment (executive_statement)
-**Temporal:** 2026-03-04
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Chris Levesque; TerraPower
+- **Predicate:** stated
+- **Object:** We have spent thousands of manpower hours working to achieve this momentous accomplishment (executive_statement)
+- **Temporal:** 2026-03-04
+- **Sources:** src_001
 
 > TerraPower President and CEO Chris Levesque said in a statement: 'We have spent thousands of manpower hours working to achieve this momentous accomplishment.'
 
-### c_009 — confirmed, single source
-**Subject entities:** TerraPower; Kemmerer, Wyoming
-**Predicate:** site_location
-**Object:** near coal plant outside Kemmerer, WY; ~130 miles NE of Salt Lake City (geographic)
-**Temporal:** 2026-03-04
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** TerraPower; Kemmerer, Wyoming
+- **Predicate:** site_location
+- **Object:** near coal plant outside Kemmerer, WY; ~130 miles NE of Salt Lake City (geographic)
+- **Temporal:** 2026-03-04
+- **Sources:** src_001
 
 > The TerraPower plant is to be built near a coal-fired power plant being converted to burn natural gas outside Kemmerer, a town of about 2,500 people approximately 130 miles northeast of Salt Lake City.
 
-### c_010 — confirmed, single source
-**Subject entities:** TerraPower
-**Predicate:** site_construction_began
-**Object:** site construction (not reactor) began 2024 (construction_status)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** TerraPower
+- **Predicate:** site_construction_began
+- **Object:** site construction (not reactor) began 2024 (construction_status)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > Site construction at the TerraPower plant — not on the reactor itself — began in 2024.
 
-### c_011 — confirmed, single source
-**Subject entities:** Fort St. Vrain nuclear plant
-**Predicate:** historical_operation
-**Object:** helium-cooled; mid-1970s to 1989 (historical_record)
-**Temporal:** 2026-03-04
-**Source IDs:** src_001
+### c_011
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Fort St. Vrain nuclear plant
+- **Predicate:** historical_operation
+- **Object:** helium-cooled; mid-1970s to 1989 (historical_record)
+- **Temporal:** 2026-03-04
+- **Sources:** src_001
 
 > The last commercial non-light-water reactor to operate in the U.S. was the Fort St. Vrain nuclear plant in northern Colorado, a helium-cooled facility that produced electricity from the mid-1970s until its shutdown in 1989.
 
-### c_012 — attributed, single source
-**Subject entities:** TerraPower
-**Predicate:** fuel_sourcing_status
-**Object:** highly enriched uranium; previously Russia-only; seeking domestic and South Africa sources (supply_chain)
-**Temporal:** 2026-03-04
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** TerraPower
+- **Predicate:** fuel_sourcing_status
+- **Object:** highly enriched uranium; previously Russia-only; seeking domestic and South Africa sources (supply_chain)
+- **Temporal:** 2026-03-04
+- **Sources:** src_001
 
 > TerraPower's reactor requires a highly enriched form of uranium that in recent years has been obtainable only from Russia; the company said it is lining up domestic and South African sources.
 
-### c_013 — attributed, single source
-**Subject entities:** Bill Gates
-**Predicate:** stated
-**Object:** gigantic contributor to powering data centers (public_statement)
-**Temporal:** 2025-10
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Bill Gates
+- **Predicate:** stated
+- **Object:** gigantic contributor to powering data centers (public_statement)
+- **Temporal:** 2025-10
+- **Sources:** src_001
 
 > In October, Bill Gates told reporters he thinks nuclear power will be a 'gigantic contributor' to powering data centers.
 
-### c_014 — attributed, single source
-**Subject entities:** Bill Gates
-**Predicate:** stated
-**Object:** I wish I could deliver nuclear fission like three years earlier than I can, because then we'd have a perfect match to the current demand pattern of these data center guys (public_statement)
-**Temporal:** 2025-10
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Bill Gates
+- **Predicate:** stated
+- **Object:** I wish I could deliver nuclear fission like three years earlier than I can, because then we'd have a perfect match to the current demand pattern of these data center guys (public_statement)
+- **Temporal:** 2025-10
+- **Sources:** src_001
 
 > Gates said: 'I wish I could deliver nuclear fission like three years earlier than I can, because then we'd have a perfect match to the current demand pattern of these data center guys.'
 
-### c_015 — attributed, single source
-**Subject entities:** Bill Gates; Christopher Wright
-**Predicate:** stated_government_engagement
-**Object:** met with Wright and Burgum; government very involved (political_engagement)
-**Temporal:** 2025-10
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Bill Gates; Christopher Wright
+- **Predicate:** stated_government_engagement
+- **Object:** met with Wright and Burgum; government very involved (political_engagement)
+- **Temporal:** 2025-10
+- **Sources:** src_001
 
 > Gates said he has met with Energy Secretary Chris Wright and Interior Secretary Doug Burgum and that the government was 'very involved' in the TerraPower reactor.
 
-### c_016 — reported, single source
-**Subject entities:** U.S. federal government
-**Predicate:** has_not_resolved
-**Object:** thousands of tons of spent nuclear fuel accumulated nationwide (policy_gap)
-**Temporal:** 2026-03-04
-**Source IDs:** src_001
+### c_016
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** U.S. federal government
+- **Predicate:** has_not_resolved
+- **Object:** thousands of tons of spent nuclear fuel accumulated nationwide (policy_gap)
+- **Temporal:** 2026-03-04
+- **Sources:** src_001
 
 > The federal government has yet to address thousands of tons of spent nuclear fuel that have piled up for decades at nuclear plants nationwide.
 
-### c_017 — reported, single source
-**Subject entities:** New Mexico; Texas
-**Predicate:** opposed_storage
-**Object:** resisting spent fuel storage sites (political_opposition)
-**Temporal:** 2026-03-04
-**Source IDs:** src_001
+### c_017
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** New Mexico; Texas
+- **Predicate:** opposed_storage
+- **Object:** resisting spent fuel storage sites (political_opposition)
+- **Temporal:** 2026-03-04
+- **Sources:** src_001
 
 > New Mexico and Texas have resisted becoming storage sites for spent nuclear fuel in the absence of a permanent federal solution.
 
-### c_018 — confirmed, single source
-**Subject entities:** U.S. Department of Energy
-**Predicate:** announced_initiative
-**Object:** first step toward state partnerships on fuel cycle modernization; April 1 deadline (policy_action)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_018
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Department of Energy
+- **Predicate:** announced_initiative
+- **Object:** first step toward state partnerships on fuel cycle modernization; April 1 deadline (policy_action)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > In January, the U.S. Department of Energy announced a first step toward possible partnerships with states to modernize the nuclear fuel cycle, giving states until April 1 to express interest.
 
-### c_019 — attributed, single source
-**Subject entities:** TerraPower
-**Predicate:** claimed_waste_reduction
-**Object:** relatively less nuclear waste than conventional reactors (company_claim)
-**Temporal:** 2026-03-04
-**Source IDs:** src_001
+### c_019
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** TerraPower
+- **Predicate:** claimed_waste_reduction
+- **Object:** relatively less nuclear waste than conventional reactors (company_claim)
+- **Temporal:** 2026-03-04
+- **Sources:** src_001
 
 > TerraPower said its reactor would produce relatively less nuclear waste than conventional reactors.
 
@@ -311,7 +350,3 @@ TerraPower said its reactor would produce relatively less nuclear waste than con
 **Access date:** 2026-03-05
 **Title:** First US commercial nuclear reactor permit in years issued to Gates-backed Wyoming project
 **URL:** https://apnews.com/article/wyoming-nuclear-reactor-912a98d4fb1a05bd06e6bf06d71742e7
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

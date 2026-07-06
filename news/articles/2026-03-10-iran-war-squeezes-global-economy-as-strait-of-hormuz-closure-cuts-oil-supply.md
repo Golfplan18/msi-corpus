@@ -20,46 +20,44 @@ primary_themes:
 - central bank policy
 - Strait of Hormuz
 topic_tags:
-  - "armed conflict"
-  - "artificial intelligence"
-  - "conflict, war and peace"
-  - crime
-  - "crime, law and justice"
-  - economy
+- armed conflict
+- energy and resource
+- economy
+- macroeconomics
+- international trade
 storyline_nexus:
-  - iran-war
-  - ai-regulation
-geographic_location: Global / Middle East / United States
+- the-iran-war
+geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship
   intensity: 0.9
-- value: human_life_and_dignity
-  intensity: 0.7
 - value: accountability_of_power
   intensity: 0.6
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:44:41Z'
+- value: human_life_and_dignity
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T01:00:22Z'
 source_cluster_id: cluster_ap_2026-03-09_iran-economia-global-eeuu-petroleo-infla
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 13
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 12
     reported: 1
     contested: 0
+    alleged: 0
+    appears: 0
+    attributed: 12
     confirmed: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 0
     single_source: 13
+    primary_plus_secondary: 0
     two_independent: 0
+    primary_document: 0
+    one_originating_plus_primary_document: 0
 sources:
   count: 1
   outlets:
@@ -73,21 +71,12 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-13-trump-s-iran-tariffs-threaten-us-china-trade-truce-could-raise-american-prices
-  relation: related
-  strength: 0.7939
-  confidence: medium
-- slug: 2026-01-12-iran-s-leadership-weakened-by-war-faces-broad-protests-as-crackdown-kills-hundre
-  relation: related
-  strength: 0.7858
-  confidence: medium
-- slug: 2026-01-15-treasury-sanctions-iranian-protest-crackdown-officials-targets-shadow-oil-networ
-  relation: related
-  strength: 0.7532
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
 
 The closure has pushed crude oil from under $70 a barrel to a peak of nearly $120 before settling near $90, while US average gasoline prices climbed to $3.48 a gallon from under $3 the prior week, according to AAA. Economists warn the shock threatens to reignite inflation, squeeze fragile economies from Pakistan to East Asia, and leave central banks — including the Federal Reserve — with no clean response.
 
@@ -147,120 +136,146 @@ Uncertainty about US objectives compounds the problem, Johnson said. It remains 
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Strait of Hormuz; United States; Israel; Ali Khamenei
-**Predicate:** effectively_closed_following
-**Object:** Strait of Hormuz closure (geopolitical_event)
-**Temporal:** 2026-02-28
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Strait of Hormuz; United States; Israel; Ali Khamenei
+- **Predicate:** effectively_closed_following
+- **Object:** Strait of Hormuz closure (geopolitical_event)
+- **Temporal:** 2026-02-28
+- **Sources:** src_001
 
 > The Strait of Hormuz was largely closed after the US and Israel launched missile attacks on Feb. 28 that killed Iranian Supreme Leader Ali Khamenei.
 
-### c_002 — attributed, single source
-**Subject entities:** Strait of Hormuz
-**Predicate:** carries
-**Object:** one-fifth of world oil supply (statistic)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Strait of Hormuz
+- **Predicate:** carries
+- **Object:** one-fifth of world oil supply (statistic)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > Roughly one-fifth of the world's oil passes through the Strait of Hormuz.
 
-### c_003 — attributed, single source
-**Subject entities:** crude oil
-**Predicate:** price_increased
-**Object:** from under $70 to peak near $120, stabilizing near $90 (price_range)
-**Temporal:** 2026-02-27 to 2026-03-09
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** crude oil
+- **Predicate:** price_increased
+- **Object:** from under $70 to peak near $120, stabilizing near $90 (price_range)
+- **Temporal:** 2026-02-27 to 2026-03-09
+- **Sources:** src_001
 
 > Oil prices rose from under $70 a barrel on Feb. 27 to a peak of nearly $120 on Monday morning before stabilizing near $90.
 
-### c_004 — attributed, single source
-**Subject entities:** AAA; United States
-**Predicate:** reported_price_increase
-**Object:** $3.48 per gallon from under $3 (price)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** AAA; United States
+- **Predicate:** reported_price_increase
+- **Object:** $3.48 per gallon from under $3 (price)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > US average gasoline prices rose to $3.48 per gallon from under $3 the prior week, according to AAA.
 
-### c_005 — attributed, single source
-**Subject entities:** Kristalina Georgieva; International Monetary Fund
-**Predicate:** stated
-**Object:** 0.4pp inflation rise and up to 0.2% output reduction per 10% oil price increase (economic_estimate)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Kristalina Georgieva; International Monetary Fund
+- **Predicate:** stated
+- **Object:** 0.4pp inflation rise and up to 0.2% output reduction per 10% oil price increase (economic_estimate)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > Every 10% increase in oil prices, if sustained for most of the year, raises global inflation by 0.4 percentage points and reduces global economic output by up to 0.2%, according to IMF Managing Director Kristalina Georgieva.
 
-### c_006 — attributed, single source
-**Subject entities:** Simon Johnson; Strait of Hormuz
-**Predicate:** stated
-**Object:** 20 million barrels per day, no spare global capacity (statistic)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Simon Johnson; Strait of Hormuz
+- **Predicate:** stated
+- **Object:** 20 million barrels per day, no spare global capacity (statistic)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > Twenty million barrels of oil per day pass through the Strait of Hormuz, with no spare capacity anywhere in the world to cover the gap, according to MIT economist and 2024 Nobel laureate Simon Johnson.
 
-### c_007 — attributed, single source
-**Subject entities:** Joseph Glauber; International Food Policy Research Institute; Strait of Hormuz
-**Predicate:** stated
-**Object:** up to 30% of global fertilizer exports (statistic)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Joseph Glauber; International Food Policy Research Institute; Strait of Hormuz
+- **Predicate:** stated
+- **Object:** up to 30% of global fertilizer exports (statistic)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > Up to 30% of global fertilizer exports — including urea, ammonia, phosphates, and sulfur — pass through the Strait of Hormuz, according to Joseph Glauber of the International Food Policy Research Institute.
 
-### c_008 — attributed, single source
-**Subject entities:** Pakistan; Qatar
-**Predicate:** imports_and_depends_on
-**Object:** 40% energy imports; LNG from Qatar disrupted (trade_dependency)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Pakistan; Qatar
+- **Predicate:** imports_and_depends_on
+- **Object:** 40% energy imports; LNG from Qatar disrupted (trade_dependency)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > Pakistan imports 40% of its energy and relies heavily on liquefied natural gas from Qatar, supplies disrupted by the conflict.
 
-### c_009 — attributed, single source
-**Subject entities:** Gareth Leather; Mark Williams; Capital Economics; Pakistan
-**Predicate:** forecast
-**Object:** rate increases rather than cuts (economic_forecast)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Gareth Leather; Mark Williams; Capital Economics; Pakistan
+- **Predicate:** forecast
+- **Object:** rate increases rather than cuts (economic_forecast)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > Pakistan's central bank will likely be forced to raise interest rates rather than cut them because higher energy prices threaten to worsen already-elevated domestic inflation, according to Capital Economics economists Gareth Leather and Mark Williams.
 
-### c_010 — attributed, single source
-**Subject entities:** Mark Mathews; National Retail Federation
-**Predicate:** stated
-**Object:** $2,500/year on gasoline; 20% price rise = $10/week additional cost (consumer_impact)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Mark Mathews; National Retail Federation
+- **Predicate:** stated
+- **Object:** $2,500/year on gasoline; 20% price rise = $10/week additional cost (consumer_impact)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > US households pay about $2,500 a year — roughly $50 a week — to fill their gas tanks; a 20% increase in gasoline prices would cost an additional $10 a week per household, according to National Retail Federation chief economist Mark Mathews.
 
-### c_011 — attributed, single source
-**Subject entities:** Evercore ISI; United States
-**Predicate:** calculated
-**Object:** oil at $100/bbl erases tax-cut benefits for bottom 70% of earners (economic_calculation)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Evercore ISI; United States
+- **Predicate:** calculated
+- **Object:** oil at $100/bbl erases tax-cut benefits for bottom 70% of earners (economic_calculation)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > If oil prices hold near $100 a barrel, the resulting gasoline price increase would wipe out for most Americans the benefits of larger tax refunds from Trump's 2025 tax cuts; only the top 30% of earners would still see a net gain, according to Evercore ISI analysts.
 
-### c_012 — reported, single source
-**Subject entities:** Mojtaba Khamenei; Ali Khamenei
-**Predicate:** believed_to_be_new_leader
-**Object:** new Iranian leader, reportedly more intransigent than predecessor (political_assessment)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Mojtaba Khamenei; Ali Khamenei
+- **Predicate:** believed_to_be_new_leader
+- **Object:** new Iranian leader, reportedly more intransigent than predecessor (political_assessment)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > Mojtaba Khamenei, son of the killed supreme leader, is believed to be Iran's new leader and is considered even more intransigent than his father.
 
-### c_013 — attributed, single source
-**Subject entities:** global economy; Russia; Ukraine; United States
-**Predicate:** absorbed_shocks
-**Object:** Russian invasion of Ukraine; US tariffs of 2025 (historical_precedent)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** global economy; Russia; Ukraine; United States
+- **Predicate:** absorbed_shocks
+- **Object:** Russian invasion of Ukraine; US tariffs of 2025 (historical_precedent)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > The global economy absorbed the shock of Russia's invasion of Ukraine four years ago and sweeping US tariffs in 2025, according to multiple economists cited by AP.
 
@@ -269,10 +284,5 @@ Uncertainty about US objectives compounds the problem, Johnson said. It remains 
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Paul Wiseman
 **Publication date:** 2026-03-10
-**Access date:** 2026-05-17
 **Title:** La guerra con Irán asesta otro golpe a la economía global
 **URL:** https://apnews.com/article/iran-economia-global-eeuu-petroleo-inflacion-agricultura-12b16674f784381e839c45eaa2b6248e
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -21,7 +21,8 @@ topic_tags:
   - fire
   - government
   - politics
-storyline_nexus: []
+storyline_nexus:
+- syria-post-conflict-integration
 geographic_location: Syria, Iraq
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -228,7 +229,3 @@ Syria's Foreign Ministry welcomed the transfer of detainees, calling it "an impo
 **Access date:** 2026-05-18
 **Title:** US starts transferring IS detainees from Syria to Iraq
 **URL:** https://apnews.com/article/syria-alhol-sdf-hassakeh-islamic-state-prisoners-2b4ec1e38c689b1858655de0c25e10ef
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

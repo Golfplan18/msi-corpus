@@ -19,7 +19,8 @@ topic_tags:
   - "crime, law and justice"
   - "science and technology"
   - trial
-storyline_nexus: []
+storyline_nexus:
+- ai-industry-regulation
 geographic_location: Nevada, United States
 floor_values_engaged:
 - value: accountability_of_power
@@ -108,138 +109,168 @@ Smack said the controller's office is in talks with multiple vendors about deplo
 
 ## Atomic claims
 
-### c_001 — reported, single source
-**Subject entities:** Nevada
-**Predicate:** written_off
-**Object:** $106 million (currency_amount)
-**Temporal:** 2023-01-01/2026-01-06
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Nevada
+- **Predicate:** written_off
+- **Object:** $106 million (currency_amount)
+- **Temporal:** 2023-01-01/2026-01-06
+- **Sources:** src_001
 
 > Nevada has written off more than $106 million in bad debt since the start of 2023.
 
-### c_002 — reported, single source
-**Subject entities:** Nevada Board of Examiners
-**Predicate:** approved_write_off
-**Object:** $85 million / 50,000 accounts (currency_amount)
-**Temporal:** 2023-09
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Nevada Board of Examiners
+- **Predicate:** approved_write_off
+- **Object:** $85 million / 50,000 accounts (currency_amount)
+- **Temporal:** 2023-09
+- **Sources:** src_001
 
 > In September 2023, the Nevada Board of Examiners approved write-offs of approximately $85 million in bad debts from more than 50,000 accounts.
 
-### c_003 — reported, single source
-**Subject entities:** Nevada Board of Examiners
-**Predicate:** approved_write_off
-**Object:** $16 million (currency_amount)
-**Temporal:** 2025-08
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Nevada Board of Examiners
+- **Predicate:** approved_write_off
+- **Object:** $16 million (currency_amount)
+- **Temporal:** 2025-08
+- **Sources:** src_001
 
 > In August 2025, the Board of Examiners signed off on an additional $16 million in bad debt.
 
-### c_004 — reported, single source
-**Subject entities:** Nevada Division of Industrial Relations
-**Predicate:** written_off
-**Object:** $5 million (currency_amount)
-**Temporal:** 2023-01-01/2026-01-06
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Nevada Division of Industrial Relations
+- **Predicate:** written_off
+- **Object:** $5 million (currency_amount)
+- **Temporal:** 2023-01-01/2026-01-06
+- **Sources:** src_001
 
 > About $5 million in additional bad debts from the Division of Industrial Relations has been written off.
 
-### c_005 — reported, single source
-**Subject entities:** Nevada
-**Predicate:** failed_to_pay
-**Object:** more than $1 million each / four businesses (count)
-**Temporal:** 2023-01-01/2026-01-06
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Nevada
+- **Predicate:** failed_to_pay
+- **Object:** more than $1 million each / four businesses (count)
+- **Temporal:** 2023-01-01/2026-01-06
+- **Sources:** src_001
 
 > Four businesses failed to pay off more than $1 million in debt each, two of which filed for bankruptcy.
 
-### c_006 — reported, single source
-**Subject entities:** Nevada
-**Predicate:** failed_to_pay
-**Object:** more than $1 million each / four individuals (count)
-**Temporal:** 2023-01-01/2026-01-06
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Nevada
+- **Predicate:** failed_to_pay
+- **Object:** more than $1 million each / four individuals (count)
+- **Temporal:** 2023-01-01/2026-01-06
+- **Sources:** src_001
 
 > Four individuals also failed to pay off more than $1 million in debt.
 
-### c_007 — reported, single source
-**Subject entities:** unnamed Las Vegas man
-**Predicate:** convicted_of
-**Object:** Medicaid fraud (legal_finding)
-**Temporal:** 2013
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** unnamed Las Vegas man
+- **Predicate:** convicted_of
+- **Object:** Medicaid fraud (legal_finding)
+- **Temporal:** 2013
+- **Sources:** src_001
 
 > The largest individual debtor was a Las Vegas man convicted of Medicaid fraud in 2013.
 
-### c_008 — attributed, single source
-**Subject entities:** James Smack
-**Predicate:** stated
-**Object:** process improvement needed (official_statement)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** James Smack
+- **Predicate:** stated
+- **Object:** process improvement needed (official_statement)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > Deputy Controller James Smack said the amount of bad debt reinforces the work needed to improve the collection process.
 
-### c_009 — attributed, single source
-**Subject entities:** James Smack; Nevada Controller's Office
-**Predicate:** stated
-**Object:** AI chatbot under consideration (official_statement)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** James Smack; Nevada Controller's Office
+- **Predicate:** stated
+- **Object:** AI chatbot under consideration (official_statement)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > Smack said the controller's office is in talks with multiple vendors about deploying an AI chatbot to interact with debtors and complete transactions.
 
-### c_010 — reported, single source
-**Subject entities:** Nevada
-**Predicate:** reported_uncollectible
-**Object:** $387 million (currency_amount)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Nevada
+- **Predicate:** reported_uncollectible
+- **Object:** $387 million (currency_amount)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > In fiscal year 2025, Nevada agencies reported $387 million in expected uncollectible payments, the lowest figure since 2021.
 
-### c_011 — reported, single source
-**Subject entities:** Nevada
-**Predicate:** unpaid_wages
-**Object:** $13 million (currency_amount)
-**Temporal:** 2023-01-01/2026-01-06
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Nevada
+- **Predicate:** unpaid_wages
+- **Object:** $13 million (currency_amount)
+- **Temporal:** 2023-01-01/2026-01-06
+- **Sources:** src_001
 
 > More than $13 million of the bad debts related to wages businesses did not pay employees despite orders from the state labor commissioner.
 
-### c_012 — reported, single source
-**Subject entities:** Nevada
-**Predicate:** unrecovered_overpayments
-**Object:** $12 million (currency_amount)
-**Temporal:** 2023-01-01/2026-01-06
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Nevada
+- **Predicate:** unrecovered_overpayments
+- **Object:** $12 million (currency_amount)
+- **Temporal:** 2023-01-01/2026-01-06
+- **Sources:** src_001
 
 > More than $12 million of the bad debts related to state overpayments on programs such as Medicaid and child care that were never recovered.
 
-### c_013 — reported, single source
-**Subject entities:** Nevada
-**Predicate:** lacks_statutory_deadline
-**Object:** no limit enshrined in Nevada law (legal_status)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_013
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Nevada
+- **Predicate:** lacks_statutory_deadline
+- **Object:** no limit enshrined in Nevada law (legal_status)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > Nevada law sets no firm deadline for how long a debt must remain outstanding before being deemed uncollectible; the stated goal is to clear debts within a decade.
 
-### c_014 — reported, single source
-**Subject entities:** Nevada
-**Predicate:** age_of_debt
-**Object:** more than 30 years (duration)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_014
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Nevada
+- **Predicate:** age_of_debt
+- **Object:** more than 30 years (duration)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > Some of the most recent write-offs relate to debts from more than 30 years ago.
 
-### c_015 — attributed, single source
-**Subject entities:** James Smack
-**Predicate:** stated
-**Object:** no program disruption (official_statement)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** James Smack
+- **Predicate:** stated
+- **Object:** no program disruption (official_statement)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > Smack said uncollected debts have not disrupted any state programs or services.
 
@@ -251,7 +282,3 @@ Smack said the controller's office is in talks with multiple vendors about deplo
 **Access date:** 2026-01-07
 **Title:** Nevada has written off more than $106 million in bad debt since 2023
 **URL:** https://apnews.com/article/nevada-james-smack-general-news-23940585437a479ce6c5d6a036da4657
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

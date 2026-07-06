@@ -1,6 +1,5 @@
 ---
 headline: Berkeley City Council allows ADU sales as condos to broaden homeownership options
-slug: 2026-01-22-berkeley-legalizes-adu-condo-sales-to-broaden-homeownership
 publish_date: '2026-01-22'
 lede: Berkeley's City Council voted 6-1 Tuesday night to allow homeowners to sell backyard cottages and basement apartments as condominiums, opening a new path to ownership in a city where the median single-family home price hovers around $1.4 million, according to Berkeleyside reporting distributed by the Associated Press.
 nut_graf: The ordinance, enabled by a 2023 California state law, positions accessory dwelling units as potential starter homes in one of the state's costliest markets — where 30-year fixed mortgage rates stood at 6.09% as of the week of publication — while a council majority rejected additional tenant protections before approving the measure.
@@ -17,80 +16,68 @@ primary_themes:
 - tenant_protections
 - California_housing_policy
 topic_tags:
-  - "crime, law and justice"
-  - government
-  - "government policy"
-  - "law enforcement"
-  - politics
-  - society
-storyline_nexus: []
-geographic_location: Berkeley, California, United States
+- construction and property
+- government policy
+- communities
+- economy
+storyline_nexus:
+- housing-affordability-crisis
+geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.8
-- value: human_life_and_dignity
+- value: equality_fairness
   intensity: 0.6
 - value: accountability_of_power
-  intensity: 0.5
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:00:48Z'
+  intensity: 0.3
+- value: informed_citizenship
+  intensity: 0.3
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:08:45Z'
 source_cluster_id: cluster_ap_2026-01-21_berkeley-general-news-556a027117758d8620
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 12
   hedges:
-    appears: 0
     alleged: 0
+    appears: 0
+    confirmed: 9
+    contested: 0
     attributed: 1
     reported: 2
-    contested: 0
-    confirmed: 9
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 9
     single_source: 3
     two_independent: 0
+    primary_document: 9
+    one_originating_plus_primary_document: 0
+    primary_plus_secondary: 0
 sources:
   count: 1
   outlets:
-  - Associated Press / Berkeleyside
+  - Associated Press
   outlet_classes:
   - wire
   highest_reliability_tier: 1
   has_originating: true
   has_primary_document: false
-figures:
-- source: fred
-  series_id: MORTGAGE30US
-  transformation: raw
-  as_of: '2026-01-22'
-  caption: The 30-year fixed mortgage rate stood at 6.09% as of January 22, 2026, illustrating the financing hurdle buyers face in high-cost markets like Berkeley even when purchase prices fall below the million-dollar median.
 figures_aggregate:
-  count: 1
-  series_ids:
-  - MORTGAGE30US
-  sources:
-  - fred
-cross_article_links:
-- slug: 2026-01-07-trump-calls-for-ban-on-large-investors-buying-homes-citing-affordability-concern
-  relation: related
-  strength: 0.7768
-  confidence: medium
-- slug: 2026-01-08-trump-directs-fannie-freddie-to-buy-200b-in-mortgage-bonds-to-lower-rates
-  relation: related
-  strength: 0.7335
-  confidence: medium
-- slug: 2026-01-09-michigan-employer-housing-fund-runs-dry-after-detroit-kalamazoo-approvals
-  relation: related
-  strength: 0.705
-  confidence: medium
+  count: 0
+  series_ids: []
+  sources: []
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Summary point 1.
+- Summary point 2.
+- Summary point 3.
+- Summary point 4.
 
 The ordinance, enabled by a 2023 California state law, positions accessory dwelling units as potential starter homes in one of the state's costliest markets — where 30-year fixed mortgage rates stood at 6.09% as of the week of publication — while a council majority rejected additional tenant protections before approving the measure.
 
@@ -130,123 +117,142 @@ Berkeley's housing market presents a steep barrier to buyers. The median single-
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Berkeley City Council
-**Predicate:** voted_to_approve
-**Object:** ADU condo sales ordinance (legislative_action)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Berkeley City Council
+- **Predicate:** voted_to_approve
+- **Object:** ADU condo sales ordinance (legislative_action)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > Berkeley's City Council voted 6-1 Tuesday night to approve an ordinance allowing homeowners to sell accessory dwelling units as condominiums.
 
-### c_002 — attributed, single source
-**Subject entities:** Berkeley
-**Predicate:** median_price
-**Object:** $1.4 million (price_statistic)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Berkeley
+- **Predicate:** median_price
+- **Object:** $1.4 million (price_statistic)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Berkeley's median single-family home price hovers around $1.4 million.
 
-### c_003 — confirmed, primary document
-**Subject entities:** California; AB 1033
-**Predicate:** authorized
-**Object:** ADU sales as separate condominiums (legislative_authority)
-**Temporal:** 2023
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** California; AB 1033
+- **Predicate:** authorized
+- **Object:** ADU sales as separate condominiums (legislative_authority)
+- **Temporal:** 2023
+- **Sources:** src_001
 
 > A 2023 California state law, AB 1033, gave cities the authority to allow ADU sales as separate properties.
 
-### c_004 — reported, single source
-**Subject entities:** San Jose
-**Predicate:** first_to_allow
-**Object:** ADU condo sales in California (policy_action)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** San Jose
+- **Predicate:** first_to_allow
+- **Object:** ADU condo sales in California (policy_action)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > San Jose became the first California city to allow ADU condo sales under AB 1033, doing so last year.
 
-### c_005 — confirmed, primary document
-**Subject entities:** Berkeley
-**Predicate:** eliminated_requirement
-**Object:** public hearing and appeals process for ADU condo conversion (procedural_change)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Berkeley
+- **Predicate:** eliminated_requirement
+- **Object:** public hearing and appeals process for ADU condo conversion (procedural_change)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > The ordinance allows property owners to get fast-tracked approval to convert ADUs to condos without a public hearing or appeals process.
 
-### c_006 — confirmed, primary document
-**Subject entities:** Berkeley
-**Predicate:** waived
-**Object:** condo conversion fee (financial_provision)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Berkeley
+- **Predicate:** waived
+- **Object:** condo conversion fee (financial_provision)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > Owners will not have to pay the city's standard fee for converting rental units to condos.
 
-### c_007 — confirmed, primary document
-**Subject entities:** Berkeley
-**Predicate:** granted
-**Object:** three-month right of first refusal for rent-controlled ADU tenants (tenant_protection)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Berkeley
+- **Predicate:** granted
+- **Object:** three-month right of first refusal for rent-controlled ADU tenants (tenant_protection)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > Tenants in rent-controlled ADUs get a three-month period to make the first offer to buy their units.
 
-### c_008 — reported, single source
-**Subject entities:** Berkeley
-**Predicate:** issued
-**Object:** 100 ADU building permits per year on average since 2018 (statistic)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Berkeley
+- **Predicate:** issued
+- **Object:** 100 ADU building permits per year on average since 2018 (statistic)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Berkeley has issued just over 100 ADU building permits on average each year since 2018.
 
-### c_009 — confirmed, primary document
-**Subject entities:** Cecilia Lunaparra
-**Predicate:** proposed
-**Object:** additional tenant protection amendments (legislative_amendment)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Cecilia Lunaparra
+- **Predicate:** proposed
+- **Object:** additional tenant protection amendments (legislative_amendment)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > Councilmember Cecilia Lunaparra proposed amendments imposing additional tenant protections on ADU condo conversions, including a five-year bar on conversions after no-fault evictions and an Affordable Housing Mitigation Fee unless owners subject the unit to rent control.
 
-### c_010 — confirmed, primary document
-**Subject entities:** Cecilia Lunaparra; Ben Bartlett; Shoshana O'Keefe; Adena Ishii; Terry Taplin; Brent Blackaby; Mark Humbert
-**Predicate:** voted_on
-**Object:** right-of-first-refusal amendment failed 4-3 (vote_tally)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Cecilia Lunaparra; Ben Bartlett; Shoshana O'Keefe; Adena Ishii; Terry Taplin; Brent Blackaby; Mark Humbert
+- **Predicate:** voted_on
+- **Object:** right-of-first-refusal amendment failed 4-3 (vote_tally)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > A pared-back amendment to extend the three-month right of first refusal to all ADU tenants (not only those covered by rent control) failed on a 4-3 vote, with Lunaparra, Bartlett, O'Keefe, and Mayor Ishii in favor and Taplin, Blackaby, and Humbert opposed.
 
-### c_011 — confirmed, primary document
-**Subject entities:** Rashi Kesarwani; Igor Tregub
-**Predicate:** recused
-**Object:** conflict of interest (procedural_action)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_011
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Rashi Kesarwani; Igor Tregub
+- **Predicate:** recused
+- **Object:** conflict of interest (procedural_action)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > Councilmember Rashi Kesarwani recused herself because she owns a home with an ADU; Councilmember Igor Tregub recused himself because he rents an ADU.
 
-### c_012 — confirmed, primary document
-**Subject entities:** Cecilia Lunaparra
-**Predicate:** voted_against
-**Object:** ADU condo sales ordinance (legislative_action)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_012
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Cecilia Lunaparra
+- **Predicate:** voted_against
+- **Object:** ADU condo sales ordinance (legislative_action)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > Councilmember Lunaparra cast the lone no vote on final passage of the ordinance.
 
 ## Sources
 
-### src_001 — Associated Press / Berkeleyside, wire, Tier 1, originating
-**Author:** Nico Savidge
+### src_001 — Associated Press, wire, Tier 1, originating
+**Author:** Nico Savidge / Berkeleyside
 **Publication date:** 2026-01-22
-**Access date:** 2026-01-22
 **Title:** Would you buy a backyard cottage? Berkeley legalizes sales of ADUs
 **URL:** https://apnews.com/article/berkeley-general-news-556a027117758d8620a80cb88ea9f5da
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

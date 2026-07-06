@@ -24,7 +24,7 @@ topic_tags:
   - "armed conflict"
   - "conflict, war and peace"
 storyline_nexus:
-  - iran-war
+- the-iran-war
 geographic_location: Middle East; Iran; Lebanon; Israel; Strait of Hormuz; Persian Gulf
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -140,10 +140,6 @@ Israeli Prime Minister Benjamin Netanyahu said Israel agreed to the Lebanon ceas
 An Israeli airstrike in the Kounine area of southern Lebanon killed one person and wounded three others, including a Syrian citizen, the Lebanese Health Ministry reported. It was the first reported airstrike since the ceasefire took effect.
 
 The fighting has killed at least 3,000 people in Iran, more than 2,290 in Lebanon, 23 in Israel, more than a dozen in Gulf Arab states, and 13 U.S. service members. In Beirut, celebratory gunshots marked the start of the truce, and displaced families began moving toward southern Lebanon despite official warnings not to return until it becomes clear whether the ceasefire holds.
-
----
-
-This article was generated algorithmically by Main Street Independent's News Article Generator from the public sources listed in the metadata. Our journalism operates from explicit values and documented standards. Read our editorial foundation at /methodology.
 
 © 2026 Main Street Independent. This work is published under the Creative Commons Zero (CC0) public domain dedication. You are free to copy, modify, and distribute this article, including for commercial purposes, without asking permission.
 
@@ -328,7 +324,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-04-18
 **Title:** Iran reopens Strait of Hormuz, but threatens to close it again as US maintains its blockade
 **URL:** https://apnews.com/article/us-iran-war-lebanon-israel-talks-pakistan-hormuz-17-april-2026-4bd5a29af608ecbd72356559b3c55d67
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

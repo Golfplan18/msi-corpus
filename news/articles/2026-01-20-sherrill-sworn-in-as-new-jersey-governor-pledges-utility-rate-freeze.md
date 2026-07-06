@@ -14,45 +14,43 @@ primary_themes:
 - Democratic victories
 - gubernatorial inaugurations
 topic_tags:
-  - "armed conflict"
-  - "conflict, war and peace"
-  - "economy, business and finance"
-  - election
-  - "international trade"
-  - politics
+- election
+- government
+- government policy
+- energy and resource
 storyline_nexus:
-  - us-china-relations
-geographic_location: New Jersey, United States
+- 2026-midterm-elections
+geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.7
+  intensity: 0.9
 - value: equality_fairness
   intensity: 0.6
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+- value: human_life_and_dignity
+  intensity: 0.3
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:46:18Z'
 source_cluster_id: cluster_ap_2026-01-21_new-jersey-governor-inauguration-mikie-s
 gdelt_event_ids: []
-consensus_floor_version: '1.0'
-publication_mindspec_version: '1.0'
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 16
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 4
     reported: 2
-    contested: 0
+    appears: 0
     confirmed: 10
+    contested: 0
+    attributed: 4
+    alleged: 0
   corroboration:
+    single_source: 0
     primary_plus_secondary: 0
+    two_independent: 0
     one_originating_plus_primary_document: 0
     primary_document: 16
-    single_source: 0
-    two_independent: 0
 sources:
   count: 1
   outlets:
@@ -66,25 +64,10 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-07-spanberger-still-digesting-significance-of-being-virginia-s-first-female-governo
-  relation: related
-  strength: 0.8376
-  confidence: medium
-- slug: 2026-01-15-wisconsin-democrats-pursue-statehouse-trifecta-for-first-time-in-16-years
-  relation: related
-  strength: 0.7654
-  confidence: medium
-- slug: 2026-01-12-beshear-urges-democrats-to-lead-with-costs-and-authenticity-in-2026-governor-rac
-  relation: related
-  strength: 0.7644
-  confidence: medium
-- slug: 2026-01-12-florida-lt-gov-jay-collins-enters-2026-governor-race-against-trump-backed-donald
-  relation: related
-  strength: 0.7477
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
 
 Democrat Mikie Sherrill, a four-term congresswoman and former Navy helicopter pilot, was inaugurated Tuesday as New Jersey's 57th governor, becoming only the second woman to lead the state. In her inaugural address delivered in Newark, Sherrill adopted a confrontational stance toward the Trump administration, invoking the Declaration of Independence while directly criticizing federal tariffs and immigration enforcement.
 
@@ -120,147 +103,177 @@ The timing aligns with Democratic gains elsewhere. Her former congressional coll
 
 Christine Todd Whitman remains the only other woman to have served as New Jersey governor. Whitman, a Republican who served two terms in the 1990s, later became the Environmental Protection Agency administrator under President George W. Bush. Her tenure as governor marked a departure from Democratic-led governance; historically, New Jersey's governorship has switched between parties with regularity. The last time a single party held the office for three consecutive terms was in 1961.
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Mikie Sherrill; New Jersey
-**Predicate:** inaugurated_as_governor
-**Object:** 57th governor of New Jersey (political_office)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Mikie Sherrill; New Jersey
+- **Predicate:** inaugurated_as_governor
+- **Object:** 57th governor of New Jersey (political_office)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > Mikie Sherrill was inaugurated as New Jersey's 57th governor on January 20, 2026.
 
-### c_002 — confirmed, primary document
-**Subject entities:** Mikie Sherrill
-**Predicate:** is
-**Object:** four-term congresswoman and former Navy helicopter pilot (professional_background)
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Mikie Sherrill
+- **Predicate:** is
+- **Object:** four-term congresswoman and former Navy helicopter pilot (professional_background)
+- **Sources:** src_001
 
 > Sherrill is a four-term congresswoman and former Navy helicopter pilot.
 
-### c_003 — confirmed, primary document
-**Subject entities:** Mikie Sherrill; New Jersey
-**Predicate:** is_second_woman_governor
-**Object:** second woman governor of New Jersey (historical_distinction)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Mikie Sherrill; New Jersey
+- **Predicate:** is_second_woman_governor
+- **Object:** second woman governor of New Jersey (historical_distinction)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > Sherrill is the second woman to serve as governor of New Jersey.
 
-### c_004 — confirmed, primary document
-**Subject entities:** Mikie Sherrill; Donald Trump
-**Predicate:** defeated
-**Object:** Trump-endorsed GOP rival (election_outcome)
-**Temporal:** 2024-11
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Mikie Sherrill; Donald Trump
+- **Predicate:** defeated
+- **Object:** Trump-endorsed GOP rival (election_outcome)
+- **Temporal:** 2024-11
+- **Sources:** src_001
 
 > Sherrill defeated a Trump-endorsed Republican opponent in the November 2024 election.
 
-### c_005 — attributed, primary document
-**Subject entities:** Mikie Sherrill
-**Predicate:** promised
-**Object:** freeze on utility rates (policy_pledge)
-**Temporal:** 2024-11
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Mikie Sherrill
+- **Predicate:** promised
+- **Object:** freeze on utility rates (policy_pledge)
+- **Temporal:** 2024-11
+- **Sources:** src_001
 
 > Sherrill promised a freeze on utility rates as her first action in office.
 
-### c_006 — confirmed, primary document
-**Subject entities:** Mikie Sherrill
-**Predicate:** signed_executive_orders
-**Object:** utility rate freeze and new electricity production sources (executive_action)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Mikie Sherrill
+- **Predicate:** signed_executive_orders
+- **Object:** utility rate freeze and new electricity production sources (executive_action)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > During her inauguration, Sherrill signed an executive order declaring a freeze on utility rates and another aimed at establishing new sources of electricity production including solar and nuclear.
 
-### c_007 — attributed, primary document
-**Subject entities:** Mikie Sherrill; Donald Trump
-**Predicate:** said
-**Object:** statement accusing Trump of illegally usurping power and unconstitutionally enacting tariffs (speech_act)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Mikie Sherrill; Donald Trump
+- **Predicate:** said
+- **Object:** statement accusing Trump of illegally usurping power and unconstitutionally enacting tariffs (speech_act)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > Sherrill said in her inaugural address, "We see a president illegally usurping power. He has unconstitutionally enacted a tariff regime to make billions for himself and his family, while everyone else sees costs go higher and higher. Here, we demand people in public service actually serve the public."
 
-### c_008 — attributed, primary document
-**Subject entities:** Mikie Sherrill
-**Predicate:** said
-**Object:** statement of defiance against Trump administration policies (speech_act)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Mikie Sherrill
+- **Predicate:** said
+- **Object:** statement of defiance against Trump administration policies (speech_act)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > Sherrill said in her inaugural address, "These are some weary years. But I'll be damned if in this state, at this time, we cry any silent tears."
 
-### c_009 — reported, primary document
-**Subject entities:** Mikie Sherrill; Declaration of Independence; Donald Trump
-**Predicate:** spoke_and_quoted
-**Object:** Revolutionary War history and Declaration of Independence grievances (rhetorical_reference)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Mikie Sherrill; Declaration of Independence; Donald Trump
+- **Predicate:** spoke_and_quoted
+- **Object:** Revolutionary War history and Declaration of Independence grievances (rhetorical_reference)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > Sherrill spoke about New Jersey's role in the Revolutionary War and quoted from the Declaration of Independence's grievances against the king, drawing a comparison to Trump.
 
-### c_010 — confirmed, primary document
-**Subject entities:** Mikie Sherrill; Newark
-**Predicate:** took_oath_on
-**Object:** copy of Constitution owned by state's first governor (inaugural_detail)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Mikie Sherrill; Newark
+- **Predicate:** took_oath_on
+- **Object:** copy of Constitution owned by state's first governor (inaugural_detail)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > Sherrill took the oath of office on a copy of the Constitution owned by New Jersey's first governor in Newark.
 
-### c_011 — attributed, primary document
-**Subject entities:** Mikie Sherrill; Donald Trump
-**Predicate:** stated
-**Object:** state will not remain quiet on immigration crackdown (policy_position)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Mikie Sherrill; Donald Trump
+- **Predicate:** stated
+- **Object:** state will not remain quiet on immigration crackdown (policy_position)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > Sherrill stated that the state would not remain quiet in the face of communities living in fear of the president's immigration crackdown.
 
-### c_012 — confirmed, primary document
-**Subject entities:** Phil Murphy; New Jersey
-**Predicate:** was_prior_governor
-**Object:** prior governor, elected twice (political_position)
-**Source IDs:** src_001
+### c_012
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Phil Murphy; New Jersey
+- **Predicate:** was_prior_governor
+- **Object:** prior governor, elected twice (political_position)
+- **Sources:** src_001
 
 > Phil Murphy, a fellow Democrat, was the prior governor of New Jersey and was elected twice.
 
-### c_013 — confirmed, primary document
-**Subject entities:** Democratic Party; New Jersey
-**Predicate:** controlled_governorship_three_terms
-**Object:** first time in more than six decades (historical_milestone)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_013
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Democratic Party; New Jersey
+- **Predicate:** controlled_governorship_three_terms
+- **Object:** first time in more than six decades (historical_milestone)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > This is the first time in more than six decades that the same political party has controlled the New Jersey governor's office for three straight terms.
 
-### c_014 — confirmed, primary document
-**Subject entities:** Christine Todd Whitman; New Jersey; George W. Bush
-**Predicate:** is_first_woman_governor
-**Object:** first woman governor of New Jersey; EPA administrator (historical_record)
-**Source IDs:** src_001
+### c_014
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Christine Todd Whitman; New Jersey; George W. Bush
+- **Predicate:** is_first_woman_governor
+- **Object:** first woman governor of New Jersey; EPA administrator (historical_record)
+- **Sources:** src_001
 
 > Christine Todd Whitman is the first woman to have served as governor of New Jersey. She was a two-term Republican who went on to serve as George W. Bush's Environmental Protection Agency administrator.
 
-### c_015 — confirmed, primary document
-**Subject entities:** Phil Murphy; New Jersey
-**Predicate:** implemented_policies
-**Object:** tax increases on high income, minimum wage boost, early childhood education, pension funding (policy_record)
-**Source IDs:** src_001
+### c_015
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Phil Murphy; New Jersey
+- **Predicate:** implemented_policies
+- **Object:** tax increases on high income, minimum wage boost, early childhood education, pension funding (policy_record)
+- **Sources:** src_001
 
 > Murphy raised taxes on income over one million dollars, boosted the minimum wage, expanded early childhood education, and fully funded the state workers' pension during his eight years as governor.
 
-### c_016 — reported, primary document
-**Subject entities:** Abigail Spanberger; Virginia
-**Predicate:** sworn_in_as_governor
-**Object:** Virginia governor with double-digit victory (political_office)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_016
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Abigail Spanberger; Virginia
+- **Predicate:** sworn_in_as_governor
+- **Object:** Virginia governor with double-digit victory (political_office)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Abigail Spanberger was sworn in as Virginia's governor after achieving a similar double-digit victory over her Republican opponent.
 
@@ -269,10 +282,5 @@ This article was generated algorithmically by Main Street Independent's News Art
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Mike Catalini
 **Publication date:** 2026-01-20
-**Access date:** 2026-05-18
 **Title:** Former Navy pilot Mikie Sherrill sworn in as New Jersey governor
 **URL:** https://apnews.com/article/new-jersey-governor-inauguration-mikie-sherrill-8881fdabd348fd950ab6847b7b2ea936
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

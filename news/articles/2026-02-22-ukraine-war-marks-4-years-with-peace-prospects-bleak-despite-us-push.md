@@ -23,8 +23,7 @@ topic_tags:
   - "science and technology"
   - "artificial intelligence"
 storyline_nexus:
-  - russia-ukraine-war
-  - us-administration-2026
+- ukraine-war-peace-negotiations
 geographic_location: Russia, Ukraine, Eastern Europe
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -130,10 +129,6 @@ The Kremlin expects its attacks will eventually force Kyiv to accept Moscow's te
 War and Western sanctions have strained Russia's economy. Growth has slowed to near halt due to persistent inflation and labor shortages, and the latest U.S. sanctions on Russian oil exports have added further strain. But Russia's defense plants have increased weapons output and the government has shielded key social groups—soldiers and industrial workers—from hardship.
 
 "Its economy is poorer, less efficient and less promising than it might otherwise have been," wrote Richard Connolly of the Royal United Services Institute. "But it remains capable of sustaining the war. Its elites are more dependent on the regime, not less. Its political system is insulated from the transmission of economic discontent into pressure for regime change."
-
----
-
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public source listed under `sources`. Specification: /methodology. Human review: not_triggered.
 
 ## Atomic claims
 
@@ -450,7 +445,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-05-18
 **Title:** As the war in Ukraine marks 4 years, peace prospects still seem bleak
 **URL:** https://apnews.com/article/russia-ukraine-war-putin-zelenskyy-trump-31546cd13feea315f1550afc3bbf565d
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

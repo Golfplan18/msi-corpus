@@ -14,7 +14,10 @@ primary_themes:
 - displacement
 - urban-development
 - Taliban-governance
-topic_tags: []
+topic_tags:
+- construction and property
+- government policy
+- human interest
 storyline_nexus: []
 geographic_location: Kabul, Afghanistan
 floor_values_engaged:
@@ -243,7 +246,3 @@ Community representative Shah Faisal Alokozay acknowledged the disruption but em
 **Access date:** 2026-05-17
 **Title:** Afghan capital overhauls roads, forcing owners to tear down homes
 **URL:** https://apnews.com/article/afghanistan-kabul-construction-roads-compensation-taliban-bbd33306fa5239f1968ce68027c43d54
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -14,42 +14,41 @@ primary_themes:
 - democratic-party
 - gubernatorial-politics
 topic_tags:
-  - "artificial intelligence"
-  - "crime, law and justice"
-  - election
-  - government
-  - "government policy"
-  - "law enforcement"
-storyline_nexus: []
-geographic_location: Minneapolis, Minnesota
+- election
+- politics
+- government
+- education
+storyline_nexus:
+- democratic-party-realignment
+geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.85
 - value: accountability_of_power
-  intensity: 0.55
-framework_version: 1.1.0
-generation_timestamp: '2026-05-16T00:00:00Z'
+  intensity: 0.9
+- value: informed_citizenship
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:02:58Z'
 source_cluster_id: cluster_ap_2026-01-07_tim-walz-future-minnesota-campaign-2026-
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 14
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 8
-    reported: 1
     contested: 0
     confirmed: 5
+    alleged: 0
+    appears: 0
+    reported: 1
+    attributed: 8
   corroboration:
-    primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
-    primary_document: 0
     single_source: 14
     two_independent: 0
+    primary_plus_secondary: 0
+    primary_document: 0
 sources:
   count: 1
   outlets:
@@ -67,13 +66,17 @@ image:
   url: /articles/2026-01-07-walz-says-future-uncertain-after-abandoning-minnesota-reelection-bid.png
   alt: 'Illustration accompanying article: Walz says future uncertain after abandoning Minnesota reelection bid'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-04-greene-s-constituents-divided-on-her-legacy-as-she-quits-congress
-  relation: related
-  strength: 0.8022
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Walz's withdrawal closes the immediate chapter of a political career that reached its peak when Kamala Harris chose him as her 2024 running mate.
+- "What I'm really good at is, I'm a really good geography teacher," Walz said at a press conference.
+- Walz's withdrawal, announced Monday, closes the immediate chapter of a political career that reached its peak when Kamala Harris chose him as her running mate in 2024.
 
 Walz's withdrawal closes the immediate chapter of a political career that reached its peak when Kamala Harris chose him as her 2024 running mate. Political scientists are divided on whether any path remains for him in elected office.
 
@@ -119,127 +122,155 @@ Walz earns approximately $127,000 a year as governor. A 2024 Wall Street Journal
 
 ## Atomic claims
 
-### c_001 — confirmed, single source
-**Subject entities:** Tim Walz
-**Predicate:** withdrew_from_race
-**Object:** third-term gubernatorial bid (electoral_action)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Tim Walz
+- **Predicate:** withdrew_from_race
+- **Object:** third-term gubernatorial bid (electoral_action)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > Walz abandoned his quest for a third term as governor on Monday, Jan. 6, 2026.
 
-### c_002 — attributed, single source
-**Subject entities:** Tim Walz
-**Predicate:** stated
-**Object:** uncertainty about future (public_statement)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Tim Walz
+- **Predicate:** stated
+- **Object:** uncertainty about future (public_statement)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Walz said Tuesday he does not know what his future holds.
 
-### c_003 — attributed, single source
-**Subject entities:** Tim Walz
-**Predicate:** stated
-**Object:** interest in returning to geography teaching (public_statement)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Tim Walz
+- **Predicate:** stated
+- **Object:** interest in returning to geography teaching (public_statement)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Walz said he would find joy in returning to teaching geography.
 
-### c_004 — confirmed, single source
-**Subject entities:** Tim Walz; Mankato West High School
-**Predicate:** worked_as
-**Object:** teacher and football coach (occupation)
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Tim Walz; Mankato West High School
+- **Predicate:** worked_as
+- **Object:** teacher and football coach (occupation)
+- **Sources:** src_001
 
 > Before entering politics, Walz was a teacher and football coach at Mankato West High School in southern Minnesota.
 
-### c_005 — confirmed, single source
-**Subject entities:** Tim Walz; Kamala Harris
-**Predicate:** selected_as_running_mate
-**Object:** 2024 presidential ticket (electoral_event)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Tim Walz; Kamala Harris
+- **Predicate:** selected_as_running_mate
+- **Object:** 2024 presidential ticket (electoral_event)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > Kamala Harris chose Walz as her running mate in 2024; their ticket lost.
 
-### c_006 — reported, single source
-**Subject entities:** Tim Walz
-**Predicate:** criticized_for
-**Object:** failure to prevent fraud in state programs (political_criticism)
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Tim Walz
+- **Predicate:** criticized_for
+- **Object:** failure to prevent fraud in state programs (political_criticism)
+- **Sources:** src_001
 
 > Critics faulted Walz for failing to prevent widespread fraud in government programs on his watch.
 
-### c_007 — attributed, single source
-**Subject entities:** Tim Walz
-**Predicate:** stated
-**Object:** next year most challenging, surpassing COVID (public_statement)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Tim Walz
+- **Predicate:** stated
+- **Object:** next year most challenging, surpassing COVID (public_statement)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Walz said the coming year would be the most challenging of his tenure, more so than leading the state's COVID-19 response in 2020.
 
-### c_008 — confirmed, single source
-**Subject entities:** Minnesota Legislature
-**Predicate:** enacted
-**Object:** paid family and medical leave program (legislation)
-**Temporal:** 2023
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Minnesota Legislature
+- **Predicate:** enacted
+- **Object:** paid family and medical leave program (legislation)
+- **Temporal:** 2023
+- **Sources:** src_001
 
 > A paid family and medical leave program launched Jan. 1, 2026, after passing the Legislature in 2023.
 
-### c_009 — confirmed, single source
-**Subject entities:** Minnesota Legislature; Tim Walz
-**Predicate:** enacted
-**Object:** unified-session Democratic legislative agenda (legislation)
-**Temporal:** 2023
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Minnesota Legislature; Tim Walz
+- **Predicate:** enacted
+- **Object:** unified-session Democratic legislative agenda (legislation)
+- **Temporal:** 2023
+- **Sources:** src_001
 
 > During a period of unified Democratic control in 2023, Minnesota eliminated nearly all abortion restrictions, protected gender-affirming care for transgender youth, legalized recreational marijuana, established free school meals, and enacted gun safety measures.
 
-### c_010 — attributed, single source
-**Subject entities:** Dan Hofrenning
-**Predicate:** stated
-**Object:** withdrawal likely ends elected-office career (political_analysis)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Dan Hofrenning
+- **Predicate:** stated
+- **Object:** withdrawal likely ends elected-office career (political_analysis)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Dan Hofrenning, a political scientist at St. Olaf College, said Walz's withdrawal likely ends his career in elected office.
 
-### c_011 — attributed, single source
-**Subject entities:** Dan Hofrenning; Tim Walz
-**Predicate:** stated
-**Object:** possible cabinet or ambassador role post-2028 (political_analysis)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Dan Hofrenning; Tim Walz
+- **Predicate:** stated
+- **Object:** possible cabinet or ambassador role post-2028 (political_analysis)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Hofrenning said Walz could be considered for a cabinet post or ambassadorship if a Democrat wins the 2028 presidential race.
 
-### c_012 — attributed, single source
-**Subject entities:** Larry Jacobs; Tim Walz
-**Predicate:** stated
-**Object:** possible future Senate run (political_analysis)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Larry Jacobs; Tim Walz
+- **Predicate:** stated
+- **Object:** possible future Senate run (political_analysis)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Larry Jacobs, a University of Minnesota political scientist, suggested Walz could run for U.S. Senate in a year or two.
 
-### c_013 — attributed, single source
-**Subject entities:** Larry Jacobs; Tim Walz
-**Predicate:** stated
-**Object:** negative national perception from VP candidacy (political_analysis)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Larry Jacobs; Tim Walz
+- **Predicate:** stated
+- **Object:** negative national perception from VP candidacy (political_analysis)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Jacobs said Walz's time on the national stage as a VP candidate left a perception that he was out of his league.
 
-### c_014 — attributed, single source
-**Subject entities:** Tim Walz
-**Predicate:** earns
-**Object:** $127,000 annual salary; ~$800,000 net worth per WSJ (financial)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Tim Walz
+- **Predicate:** earns
+- **Object:** $127,000 annual salary; ~$800,000 net worth per WSJ (financial)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > Walz earns approximately $127,000 a year as governor; a 2024 Wall Street Journal analysis put his and his wife's net worth at approximately $800,000.
 
@@ -248,10 +279,5 @@ Walz earns approximately $127,000 a year as governor. A 2024 Wall Street Journal
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Steve Karnowski
 **Publication date:** 2026-01-07
-**Access date:** 2026-01-07
 **Title:** Tim Walz's rise and fall: From Harris' VP pick to political setback
 **URL:** https://apnews.com/article/tim-walz-future-minnesota-campaign-2026-governor-0277baf3c234c009b1be2faccc69708c
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

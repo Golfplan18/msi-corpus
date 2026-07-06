@@ -107,7 +107,7 @@ Here is what the receipts say, and what they have said for forty-five years. The
 
 *Prudence Wonk is a heteronym in Main Street Independent's editorial architecture — an analytical voice, not autobiography of any actual person. The position this column expresses is the publication's position on the territory Prudence Wonk's lane covers, rendered through Prudence Wonk's register.*
 
-*[About Prudence Wonk](/opinion/prudence-wonk) · [How the pen names work](/about#how-the-pen-names-work)*
+*[About Prudence Wonk](/advocacy/prudence-wonk) · [How the pen names work](/about#how-the-pen-names-work)*
 
 ## Sources
 

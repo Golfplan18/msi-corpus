@@ -20,7 +20,8 @@ primary_themes:
 - Massachusetts environment
 topic_tags:
   - environment
-storyline_nexus: []
+storyline_nexus:
+- trump-climate-energy-rollbacks
 geographic_location: Plymouth, Massachusetts, United States
 floor_values_engaged:
 - value: informed_citizenship
@@ -115,115 +116,137 @@ Mass Audubon's Kim Snyder, the sanctuary's education coordinator, leads tours fo
 
 *Source: Associated Press, reporting by Jamie Jiang, produced in collaboration with the MIT Graduate Program in Science Writing.*
 
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Human review: not triggered. [CC0](https://creativecommons.org/publicdomain/zero/1.0/) — no rights reserved.*
-
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Tidmarsh Wildlife Sanctuary; Massachusetts
-**Predicate:** designated_as
-**Object:** largest freshwater restoration project in Massachusetts (designation)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Tidmarsh Wildlife Sanctuary; Massachusetts
+- **Predicate:** designated_as
+- **Object:** largest freshwater restoration project in Massachusetts (designation)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Tidmarsh Wildlife Sanctuary is the single largest freshwater restoration project in Massachusetts.
 
-### c_002 — attributed, single source
-**Subject entities:** Glorianna Davenport
-**Predicate:** sold
-**Object:** land for conservation (action)
-**Temporal:** circa 2010
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Glorianna Davenport
+- **Predicate:** sold
+- **Object:** land for conservation (action)
+- **Temporal:** circa 2010
+- **Sources:** src_001
 
 > Glorianna Davenport and her husband sold the land that became Tidmarsh Wildlife Sanctuary for conservation and restoration.
 
-### c_003 — attributed, single source
-**Subject entities:** Tidmarsh Wildlife Sanctuary
-**Predicate:** began_restoration
-**Object:** restoration begun 2010, sandy soil sprouted within one year (event)
-**Temporal:** 2010
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Tidmarsh Wildlife Sanctuary
+- **Predicate:** began_restoration
+- **Object:** restoration begun 2010, sandy soil sprouted within one year (event)
+- **Temporal:** 2010
+- **Sources:** src_001
 
 > Restoration work at Tidmarsh began in 2010; within one year the sandy soil began to sprout.
 
-### c_004 — attributed, single source
-**Subject entities:** Tidmarsh Wildlife Sanctuary
-**Predicate:** restored_via
-**Object:** 20,000 native plant species, dam removals, new waterways (restoration_actions)
-**Temporal:** 2010-2015
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Tidmarsh Wildlife Sanctuary
+- **Predicate:** restored_via
+- **Object:** 20,000 native plant species, dam removals, new waterways (restoration_actions)
+- **Temporal:** 2010-2015
+- **Sources:** src_001
 
 > Over 20,000 native plant species were planted during Tidmarsh restoration; old dams were removed and new waterways were dug.
 
-### c_005 — attributed, single source
-**Subject entities:** Tidmarsh Wildlife Sanctuary
-**Predicate:** documented
-**Object:** rapid improvement in water retention, soil health, microbial communities within a few years (study_finding)
-**Temporal:** 2021
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Tidmarsh Wildlife Sanctuary
+- **Predicate:** documented
+- **Object:** rapid improvement in water retention, soil health, microbial communities within a few years (study_finding)
+- **Temporal:** 2021
+- **Sources:** src_001
 
 > A 2021 study of Tidmarsh and other restored sites found water retention, soil health, and microbial communities improved rapidly within just a few years of restoration.
 
-### c_006 — attributed, single source
-**Subject entities:** Woodwell Climate Research Center; University of Connecticut
-**Predicate:** found
-**Object:** long-dormant native seeds in Tidmarsh sand, germinate when mixed with peat (study_finding)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Woodwell Climate Research Center; University of Connecticut
+- **Predicate:** found
+- **Object:** long-dormant native seeds in Tidmarsh sand, germinate when mixed with peat (study_finding)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > A 2025 study by researchers at the Woodwell Climate Research Center and the University of Connecticut suggested sand at Tidmarsh held long-dormant native seeds that needed only to be mixed with peat to germinate.
 
-### c_007 — attributed, single source
-**Subject entities:** Beth Lambert; Massachusetts Division of Ecological Restoration
-**Predicate:** stated
-**Object:** former cranberry farms were actually highly restorable (quotation)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Beth Lambert; Massachusetts Division of Ecological Restoration
+- **Predicate:** stated
+- **Object:** former cranberry farms were actually highly restorable (quotation)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Beth Lambert, director of the Massachusetts Division of Ecological Restoration, said: 'We discovered that former cranberry farms were actually highly restorable.'
 
-### c_008 — attributed, single source
-**Subject entities:** Massachusetts Cranberry Bog Restoration Program
-**Predicate:** completed
-**Object:** nine projects, ~500 acres (202 hectares), 10 miles (16 km) stream habitat (program_output)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Massachusetts Cranberry Bog Restoration Program
+- **Predicate:** completed
+- **Object:** nine projects, ~500 acres (202 hectares), 10 miles (16 km) stream habitat (program_output)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Massachusetts has completed nine cranberry bog restoration projects totaling around 500 acres and 10 miles of stream habitat.
 
-### c_009 — attributed, single source
-**Subject entities:** Massachusetts Cranberry Bog Restoration Program
-**Predicate:** planning
-**Object:** 11 additional projects, ~500 acres (program_output)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Massachusetts Cranberry Bog Restoration Program
+- **Predicate:** planning
+- **Object:** 11 additional projects, ~500 acres (program_output)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Eleven additional Massachusetts cranberry bog restoration projects spanning another 500 acres are currently in planning stages.
 
-### c_010 — attributed, single source
-**Subject entities:** United States Department of Agriculture; Massachusetts
-**Predicate:** reported
-**Object:** 40 percent increase in retired cranberry farms, 2017-2022 (statistic)
-**Temporal:** 2017-2022
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** United States Department of Agriculture; Massachusetts
+- **Predicate:** reported
+- **Object:** 40 percent increase in retired cranberry farms, 2017-2022 (statistic)
+- **Temporal:** 2017-2022
+- **Sources:** src_001
 
 > According to the USDA, the number of retired cranberry farms in Massachusetts grew by about 40 percent between 2017 and 2022.
 
-### c_011 — attributed, single source
-**Subject entities:** Living Observatory
-**Predicate:** consulted_by
-**Object:** ecologists from the Amazon rainforest seeking sensor network guidance (outreach)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Living Observatory
+- **Predicate:** consulted_by
+- **Object:** ecologists from the Amazon rainforest seeking sensor network guidance (outreach)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Ecologists from as far as the Amazon rainforest contacted the Living Observatory asking how to deploy similar bespoke sensor networks in their work.
 
-### c_012 — attributed, single source
-**Subject entities:** Christopher Neill; Woodwell Climate Center
-**Predicate:** stated
-**Object:** wetlands absorb flood/storm water; extreme precipitation becoming more common in the Northeast (expert_statement)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Christopher Neill; Woodwell Climate Center
+- **Predicate:** stated
+- **Object:** wetlands absorb flood/storm water; extreme precipitation becoming more common in the Northeast (expert_statement)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Climate scientist Christopher Neill at the Woodwell Climate Center said wetlands work as barriers that soak up water from floods and storms, and that extreme precipitation is becoming more common in the Northeast.
 
@@ -235,7 +258,3 @@ Mass Audubon's Kim Snyder, the sanctuary's education coordinator, leads tours fo
 **Access date:** 2026-05-17
 **Title:** Cranberry bog data project shows how to turn the farms into wetlands
 **URL:** https://apnews.com/article/cranberry-bog-restoration-climate-change-wetlands-65dab1a09df8b7be5a8e4594452dcd13
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -20,29 +20,26 @@ primary_themes:
 - Cultural sovereignty
 - Data sovereignty
 topic_tags:
-  - "artificial intelligence"
-  - "climate change"
-  - environment
-  - "science and technology"
-storyline_nexus: []
-geographic_location: United States (New York); Kenya; Chad; Oregon
+- international relations
+- civil rights
+- health
+- environment
+storyline_nexus:
+- us-immigration-enforcement
+geographic_location: United States
 floor_values_engaged:
-- value: human_life_and_dignity
-  intensity: 0.95
-- value: truthfulness
-  intensity: 0.9
-- value: accountability_of_power
-  intensity: 0.85
 - value: equality_fairness
   intensity: 0.9
-- value: informed_citizenship
-  intensity: 0.8
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T08:30:00Z'
+- value: accountability_of_power
+  intensity: 0.9
+- value: human_life_and_dignity
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T01:12:27Z'
 source_cluster_id: cluster_ap_2026-04-21_indigenous-un-permanent-forum-new-york-3
 gdelt_event_ids: []
-consensus_floor_version: v0.1.0
-publication_mindspec_version: v0.1.0
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
@@ -51,15 +48,15 @@ claims:
     appears: 0
     alleged: 0
     attributed: 6
-    reported: 5
     contested: 0
+    reported: 5
     confirmed: 2
   corroboration:
+    primary_document: 5
+    two_independent: 0
+    single_source: 8
     primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
-    primary_document: 5
-    single_source: 8
-    two_independent: 0
 sources:
   count: 1
   outlets:
@@ -73,13 +70,19 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-14-oglala-sioux-tribe-demands-release-of-three-members-held-in-ice-detention
-  relation: related
-  strength: 0.7452
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Delegates arrive in New York for world’s largest gathering of Indigenous peoples
+- Indigenous delegates gathered at the United Nations in April for the world's largest gathering of Indigenous peoples.
+- The Trump administration has placed visa restrictions making it harder for Global South delegates to attend the UN forum.
+- Mariana Kiimi Ortiz Flores of Cultural Survival said her organization had Indigenous representatives from Africa denied visas last year and one South American staff member denied a visa in 2026.
+- Geoffrey Roth, a Standing Rock Sioux descendant and former vice chair of the UN Permanent Forum, authored a report on Indigenous determinants of health.
 
 Indigenous delegates gathered at the United Nations in April for the world's largest gathering of Indigenous peoples, but many confronted visa denials from the Trump administration and warned of threats to their lands, health, and cultural knowledge.
 
@@ -129,132 +132,153 @@ Despite the institutional hurdles, visa denials, and geopolitical challenges, de
 
 ## Atomic claims
 
-### c_001 — confirmed, single source
-**Subject entities:** Indigenous peoples; United Nations
-**Predicate:** gathered_at_un
-**Object:** world's largest gathering of Indigenous peoples (event)
-**Temporal:** 2026-04
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Indigenous peoples; United Nations
+- **Predicate:** gathered_at_un
+- **Object:** world's largest gathering of Indigenous peoples (event)
+- **Temporal:** 2026-04
+- **Sources:** src_001
 
 > Indigenous delegates gathered at the United Nations in April for the world's largest gathering of Indigenous peoples.
 
-### c_002 — attributed, single source
-**Subject entities:** Trump Administration
-**Predicate:** placed_visa_restrictions
-**Object:** visa restrictions limiting Global South delegate access (policy_action)
-**Temporal:** 2026-04
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Trump Administration
+- **Predicate:** placed_visa_restrictions
+- **Object:** visa restrictions limiting Global South delegate access (policy_action)
+- **Temporal:** 2026-04
+- **Sources:** src_001
 
 > The Trump administration has placed visa restrictions making it harder for Global South delegates to attend the UN forum.
 
-### c_003 — attributed, single source
-**Subject entities:** Mariana Kiimi Ortiz Flores; Cultural Survival
-**Predicate:** reported_visa_denials
-**Object:** African representatives and South American staff denied visas (policy_action)
-**Temporal:** 2025-2026
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Mariana Kiimi Ortiz Flores; Cultural Survival
+- **Predicate:** reported_visa_denials
+- **Object:** African representatives and South American staff denied visas (policy_action)
+- **Temporal:** 2025-2026
+- **Sources:** src_001
 
 > Mariana Kiimi Ortiz Flores of Cultural Survival said her organization had Indigenous representatives from Africa denied visas last year and one South American staff member denied a visa in 2026.
 
-### c_004 — reported, primary document
-**Subject entities:** Geoffrey Roth; Standing Rock Sioux
-**Predicate:** authored_report
-**Object:** report outlining Indigenous determinants of health (document)
-**Temporal:** 2026-04
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Geoffrey Roth; Standing Rock Sioux
+- **Predicate:** authored_report
+- **Object:** report outlining Indigenous determinants of health (document)
+- **Temporal:** 2026-04
+- **Sources:** src_001
 
 > Geoffrey Roth, a Standing Rock Sioux descendant and former vice chair of the UN Permanent Forum, authored a report on Indigenous determinants of health.
 
-### c_005 — attributed, single source
-**Subject entities:** Geoffrey Roth
-**Predicate:** stated_holistic_health_view
-**Object:** health inseparable from environment, culture, language (conceptual_claim)
-**Temporal:** 2026-04
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Geoffrey Roth
+- **Predicate:** stated_holistic_health_view
+- **Object:** health inseparable from environment, culture, language (conceptual_claim)
+- **Temporal:** 2026-04
+- **Sources:** src_001
 
 > Roth said: 'You can't separate human health from the health of the environment, or our culture, or our language.'
 
-### c_006 — reported, primary document
-**Subject entities:** Coquille Indian Tribe
-**Predicate:** adopted_health_ordinance
-**Object:** Indigenous determinants of health adopted by tribal ordinance (policy)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Coquille Indian Tribe
+- **Predicate:** adopted_health_ordinance
+- **Object:** Indigenous determinants of health adopted by tribal ordinance (policy)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > The Coquille Indian Tribe in Oregon adopted the Indigenous determinants of health by ordinance in 2025.
 
-### c_007 — attributed, single source
-**Subject entities:** Hindou Oumarou Ibrahim
-**Predicate:** warned_ai_risks_opportunities
-**Object:** AI presents both opportunities and risks for Indigenous peoples (analytical_statement)
-**Temporal:** 2026-04
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Hindou Oumarou Ibrahim
+- **Predicate:** warned_ai_risks_opportunities
+- **Object:** AI presents both opportunities and risks for Indigenous peoples (analytical_statement)
+- **Temporal:** 2026-04
+- **Sources:** src_001
 
 > Hindou Oumarou Ibrahim, Indigenous Mbororo from Chad and former chair of the UN Permanent Forum, warned that artificial intelligence acts as a double-edged sword for Indigenous communities.
 
-### c_008 — reported, primary document
-**Subject entities:** AI systems; Tech companies
-**Predicate:** extracting_cultural_data
-**Object:** scraping medicinal knowledge, traditional stories, genetic data (harm_pattern)
-**Temporal:** 2026-04
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** AI systems; Tech companies
+- **Predicate:** extracting_cultural_data
+- **Object:** scraping medicinal knowledge, traditional stories, genetic data (harm_pattern)
+- **Temporal:** 2026-04
+- **Sources:** src_001
 
 > Ibrahim warned of 'digital extractivism' as AI systems and tech companies scrape Indigenous cultural content, including medicinal knowledge, traditional stories, and genetic data without consent.
 
-### c_009 — attributed, single source
-**Subject entities:** Lydia Jennings; Mining company
-**Predicate:** extracted_cultural_information
-**Object:** mining company used Indigenous cultural practices data without authorization (documented_harm)
-**Temporal:** pre-2026
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Lydia Jennings; Mining company
+- **Predicate:** extracted_cultural_information
+- **Object:** mining company used Indigenous cultural practices data without authorization (documented_harm)
+- **Temporal:** pre-2026
+- **Sources:** src_001
 
 > Lydia Jennings, an assistant professor at Dartmouth and citizen of the Pascua Yaqui and Huichol tribes, discovered a mining company had extracted her community's cultural practices information from an environmental impact statement and used it to promote a mining project.
 
-### c_010 — reported, primary document
-**Subject entities:** Pastoralists; Hunter-gatherers; Seafarers
-**Predicate:** mobility_restricted_by_policy
-**Object:** borders and conservation models restricting traditional mobility (policy_harm)
-**Temporal:** 2026-02
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Pastoralists; Hunter-gatherers; Seafarers
+- **Predicate:** mobility_restricted_by_policy
+- **Object:** borders and conservation models restricting traditional mobility (policy_harm)
+- **Temporal:** 2026-02
+- **Sources:** src_001
 
 > A February UN report warned that rigid state borders and exclusionary 'fortress conservation' models curb the traditional mobility of pastoralists, hunter-gatherers, and seafarers.
 
-### c_011 — attributed, single source
-**Subject entities:** Maasai; Kenya
-**Predicate:** land_subdivision
-**Object:** communal land subdivided for developments and carbon offset projects (policy_harm)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Maasai; Kenya
+- **Predicate:** land_subdivision
+- **Object:** communal land subdivided for developments and carbon offset projects (policy_harm)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Samante Anne, Indigenous Maasai from Kenya, said that although 60 percent of Kenya's land is considered communal, it is increasingly being subdivided for developments and claimed for carbon offset projects.
 
-### c_012 — reported, single source
-**Subject entities:** United Nations; Indigenous peoples
-**Predicate:** conflated_in_policy
-**Object:** IPLC grouping conflates Indigenous peoples with local communities (institutional_pattern)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** United Nations; Indigenous peoples
+- **Predicate:** conflated_in_policy
+- **Object:** IPLC grouping conflates Indigenous peoples with local communities (institutional_pattern)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > The UN frequently lumps Indigenous peoples with 'local communities' under the acronym IPLC (Indigenous Peoples and Local Communities), diluting Indigenous distinct legal rights under international law.
 
-### c_013 — confirmed, primary document
-**Subject entities:** UN Permanent Forum; UN bodies
-**Predicate:** issued_joint_statement
-**Object:** joint statement demanding elimination of IPLC acronym (official_action)
-**Temporal:** 2023
-**Source IDs:** src_001
+### c_013
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** UN Permanent Forum; UN bodies
+- **Predicate:** issued_joint_statement
+- **Object:** joint statement demanding elimination of IPLC acronym (official_action)
+- **Temporal:** 2023
+- **Sources:** src_001
 
 > In 2023, the UN's three top Indigenous rights bodies—the Permanent Forum, the Special Rapporteur on the Rights of Indigenous Peoples, and the Expert Mechanism on the Rights of Indigenous Peoples—issued a joint statement demanding that UN environmental treaties stop using the IPLC acronym.
 
 ## Sources
 
 ### src_001 — Associated Press, wire, Tier 1, originating
-**Author:** Anita Hofschneider
+**Author:** Anita Hofschneider / Grist
 **Publication date:** 2026-04-20
-**Access date:** 2026-05-17
-**Title:** War, climate change and AI: What's at stake at this year's UN Indigenous forum
+**Title:** Delegates arrive in New York for world’s largest gathering of Indigenous peoples
 **URL:** https://apnews.com/article/indigenous-un-permanent-forum-new-york-31c1cf969f27eb07d0625f8da8a73189
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -1,6 +1,5 @@
 ---
 headline: 49 political prisoners freed in Venezuela as families wait for more
-slug: 2026-01-12-venezuela-releases-49-political-prisoners-as-families-wait-for-more
 publish_date: '2026-01-12'
 lede: Venezuelan authorities had freed 49 political prisoners as of Monday afternoon, according to Caracas-based advocacy group Foro Penal, a trickle of releases that left hundreds of families camped on prison sidewalks hoping for more. Acting President Delcy Rodríguez's government pledged last week to free a significant number of detainees as a goodwill gesture to "seek peace," but officials have not named or enumerated those being considered. Human rights organizations say more than 800 people are held in Venezuela for political reasons.
 nut_graf: The releases come in the week following a U.S. military operation that resulted in the arrest of President Nicolás Maduro, and amid diplomatic signals from Washington — including a White House confirmation Monday that Venezuelan opposition leader María Corina Machado is set to meet with President Donald Trump on Thursday.
@@ -17,44 +16,44 @@ primary_themes:
 - U.S.-Venezuela relations
 - human rights
 topic_tags:
-  - society
-  - politics
-  - "human interest"
+- political dissent
+- civil rights
+- government
+- international relations
+- fundamental rights
 storyline_nexus:
-  - venezuela-crisis
-  - trump-tariff-policy
-  - ai-regulation
-geographic_location: Caracas, Venezuela
+- venezuela-political-military-crisis
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
   intensity: 0.9
+- value: truthfulness
+  intensity: 0.6
 - value: accountability_of_power
-  intensity: 0.8
-- value: informed_citizenship
-  intensity: 0.7
-framework_version: 1.1.0
-generation_timestamp: '2026-05-16T00:00:00Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:06:49Z'
 source_cluster_id: cluster_ap_2026-01-11_venezuela-prisoners-released-delcy-trump
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 13
   hedges:
-    appears: 0
-    alleged: 1
     attributed: 8
-    reported: 2
-    contested: 0
+    alleged: 1
     confirmed: 2
+    appears: 0
+    contested: 0
+    reported: 2
   corroboration:
+    primary_document: 1
+    two_independent: 0
+    single_source: 12
     primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
-    primary_document: 1
-    single_source: 12
-    two_independent: 0
 sources:
   count: 1
   outlets:
@@ -72,41 +71,18 @@ image:
   url: /articles/2026-01-12-49-political-prisoners-freed-in-venezuela-as-families-wait-for-more.png
   alt: 'Illustration accompanying article: 49 political prisoners freed in Venezuela as families wait for more'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-07-venezuela-s-opposition-sidelined-as-maduro-s-party-holds-power-after-u-s-seizure
-  relation: related
-  strength: 0.7671
-  confidence: medium
-- slug: 2026-01-04-maduro-held-at-mdc-brooklyn-a-federal-jail-with-a-troubled-past
-  relation: related
-  strength: 0.7778
-  confidence: medium
-- slug: 2026-01-07-us-faith-leaders-tend-to-venezuelan-diaspora-roiled-by-maduro-s-capture
-  relation: related
-  strength: 0.7474
-  confidence: medium
-- slug: 2026-01-06-maduro-s-us-drug-case-advances-as-lawyers-signal-sovereignty-challenge-medical-n
-  relation: related
-  strength: 0.7532
-  confidence: medium
-- slug: 2026-01-03-venezuela-in-limbo-after-maduro-capture-as-trump-endorses-deputy-snubs-oppositio
-  relation: related
-  strength: 0.762
-  confidence: medium
-- slug: 2026-01-04-caracas-falls-quiet-as-venezuelans-wait-to-see-what-comes-next-after-us-seizes-m
-  relation: related
-  strength: 0.7545
-  confidence: medium
-- slug: 2026-01-05-maduro-pleads-not-guilty-to-federal-narcotics-charges-in-manhattan-court
-  relation: related
-  strength: 0.7393
-  confidence: medium
-- slug: 2026-01-06-rebel-fighting-in-colombia-s-catatumbo-displaces-300-to-c-cuta-amid-venezuela-cr
-  relation: related
-  strength: 0.7292
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Summary point 1.
+- Summary point 2.
+- Summary point 3.
+- Summary point 4.
 
 CARACAS, Venezuela — Venezuelan authorities had freed 49 political prisoners as of Monday afternoon, according to Caracas-based advocacy group Foro Penal, a trickle of releases that left hundreds of families camped on prison sidewalks hoping for more.
 
@@ -144,120 +120,146 @@ Preschool teacher Ángela Ramírez said her students did not raise the topic of 
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Foro Penal; Venezuela political prisoners
-**Predicate:** verified_release_count
-**Object:** 49 (prisoner_count)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Foro Penal; Venezuela political prisoners
+- **Predicate:** verified_release_count
+- **Object:** 49 (prisoner_count)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > As of Monday afternoon, Foro Penal had verified the release of 49 prisoners in Venezuela.
 
-### c_002 — confirmed, single source
-**Subject entities:** Venezuela political prisoners
-**Predicate:** includes_nationals_of
-**Object:** Italy, Spain, Argentina, Israel, Colombia (nationality_set)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Venezuela political prisoners
+- **Predicate:** includes_nationals_of
+- **Object:** Italy, Spain, Argentina, Israel, Colombia (nationality_set)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Among those confirmed freed were several foreign nationals holding Italian, Spanish, Argentine, Israeli and Colombian citizenship.
 
-### c_003 — attributed, single source
-**Subject entities:** Delcy Rodríguez; Venezuela government
-**Predicate:** pledged_release
-**Object:** significant number of political prisoners (government_pledge)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Delcy Rodríguez; Venezuela government
+- **Predicate:** pledged_release
+- **Object:** significant number of political prisoners (government_pledge)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > The government of acting President Delcy Rodríguez pledged to free a significant number of prisoners as a gesture to 'seek peace.'
 
-### c_004 — attributed, single source
-**Subject entities:** Venezuela political prisoners
-**Predicate:** estimated_count
-**Object:** 800+ (prisoner_count)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Venezuela political prisoners
+- **Predicate:** estimated_count
+- **Object:** 800+ (prisoner_count)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Human rights organizations say more than 800 people are imprisoned in Venezuela for political reasons.
 
-### c_005 — confirmed, primary document
-**Subject entities:** María Corina Machado; Donald Trump; White House
-**Predicate:** confirmed_meeting
-**Object:** Thursday White House meeting (scheduled_event)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** María Corina Machado; Donald Trump; White House
+- **Predicate:** confirmed_meeting
+- **Object:** Thursday White House meeting (scheduled_event)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > The White House confirmed that María Corina Machado is set to meet with President Donald Trump at the White House on Thursday.
 
-### c_006 — attributed, single source
-**Subject entities:** Donald Trump
-**Predicate:** posted_on_social_media
-**Object:** Venezuela has started the process, in a BIG WAY, of releasing their political prisoners (social_media_post)
-**Temporal:** 2026-01-10
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** posted_on_social_media
+- **Object:** Venezuela has started the process, in a BIG WAY, of releasing their political prisoners (social_media_post)
+- **Temporal:** 2026-01-10
+- **Sources:** src_001
 
 > Trump wrote on Truth Social on Saturday: 'Venezuela has started the process, in a BIG WAY, of releasing their political prisoners.'
 
-### c_007 — attributed, single source
-**Subject entities:** Donald Trump
-**Predicate:** claimed
-**Object:** releases came at Washington's request (claim)
-**Temporal:** 2026-01-10
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** claimed
+- **Object:** releases came at Washington's request (claim)
+- **Temporal:** 2026-01-10
+- **Sources:** src_001
 
 > Trump said the prisoner releases came at Washington's request.
 
-### c_008 — attributed, single source
-**Subject entities:** UN fact-finding mission on Venezuela
-**Predicate:** assessed
-**Object:** falls far short of the wider demand (institutional_assessment)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** UN fact-finding mission on Venezuela
+- **Predicate:** assessed
+- **Object:** falls far short of the wider demand (institutional_assessment)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > The U.N.-backed fact-finding mission on Venezuela said the number of people released 'falls far short' of the demand for the 'immediate and unconditional release of all political prisoners.'
 
-### c_009 — alleged, single source
-**Subject entities:** Jenny Quiroz
-**Predicate:** described_detention
-**Object:** husband detained Nov. 26 at pharmacy, alleged WhatsApp criticism (personal_account)
-**Temporal:** 2025-11-26
-**Source IDs:** src_001
+### c_009
+- **Hedge:** alleged
+- **Corroboration:** single_source
+- **Subject entities:** Jenny Quiroz
+- **Predicate:** described_detention
+- **Object:** husband detained Nov. 26 at pharmacy, alleged WhatsApp criticism (personal_account)
+- **Temporal:** 2025-11-26
+- **Sources:** src_001
 
 > Jenny Quiroz said her husband was detained Nov. 26 at his pharmacy in Caracas for allegedly criticizing the government in a WhatsApp group.
 
-### c_010 — attributed, single source
-**Subject entities:** Yaxzodara Lozada
-**Predicate:** described_detention
-**Object:** husband detained Nov. 17 without stated reason (personal_account)
-**Temporal:** 2025-11-17
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Yaxzodara Lozada
+- **Predicate:** described_detention
+- **Object:** husband detained Nov. 17 without stated reason (personal_account)
+- **Temporal:** 2025-11-17
+- **Sources:** src_001
 
 > Yaxzodara Lozada said her husband, a police officer, was detained on Nov. 17; she said no reason was ever given.
 
-### c_011 — attributed, single source
-**Subject entities:** Delcy Rodríguez
-**Predicate:** stated
-**Object:** actively resisting the U.S. while writing a new page in Venezuelan history (government_statement)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Delcy Rodríguez
+- **Predicate:** stated
+- **Object:** actively resisting the U.S. while writing a new page in Venezuelan history (government_statement)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Acting President Rodríguez said Venezuela is 'actively resisting' the U.S. while 'we're writing a new page in Venezuelan history.'
 
-### c_012 — reported, single source
-**Subject entities:** Venezuela government
-**Predicate:** withheld_information
-**Object:** list and number of prisoners considered for release (government_omission)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Venezuela government
+- **Predicate:** withheld_information
+- **Object:** list and number of prisoners considered for release (government_omission)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Venezuelan officials have not identified or given a number of prisoners being considered for release.
 
-### c_013 — reported, single source
-**Subject entities:** Venezuela; Nicolás Maduro
-**Predicate:** preceded_by
-**Object:** U.S. military operation resulting in Maduro's arrest (prior_event)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_013
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Venezuela; Nicolás Maduro
+- **Predicate:** preceded_by
+- **Object:** U.S. military operation resulting in Maduro's arrest (prior_event)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Venezuelan commerce and daily life resumed, with malls, schools and gyms reopening a week after a U.S. military operation led to the arrest of President Nicolás Maduro.
 
@@ -266,10 +268,5 @@ Preschool teacher Ángela Ramírez said her students did not raise the topic of 
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Regina Garcia Cano
 **Publication date:** 2026-01-12
-**Access date:** 2026-01-12
 **Title:** Dozens of prisoners released in Venezuela as families of detainees hope for more
 **URL:** https://apnews.com/article/venezuela-prisoners-released-delcy-trump-machado-75e8d841947695415703dc0dc5502ab5
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

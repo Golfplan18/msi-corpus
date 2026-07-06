@@ -18,7 +18,9 @@ primary_themes:
 - survivor advocacy
 - institutional accountability
 - royal family
-topic_tags: []
+topic_tags:
+- human interest
+- crime
 storyline_nexus: []
 geographic_location: London, United Kingdom; France
 floor_values_engaged:
@@ -196,7 +198,3 @@ During Monday's conversation at Clarence House, Pelicot spoke of receiving "incr
 **Access date:** 2026-05-18
 **Title:** Queen Camilla tells rape survivor Gisèle Pelicot that she was left speechless by her memoir
 **URL:** https://apnews.com/article/france-britain-queen-camilla-pelicot-book-72af3a5f82027ccf1c68b3f644b1f779
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

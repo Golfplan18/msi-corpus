@@ -14,40 +14,42 @@ primary_themes:
 - image manipulation
 - protest and enforcement
 topic_tags:
-  - government
-  - politics
-storyline_nexus: []
-geographic_location: Minnesota, United States
+- civil rights
+- law enforcement
+- government
+- social media
+- political dissent
+storyline_nexus:
+- us-immigration-enforcement
+geographic_location: United States
 floor_values_engaged:
-- value: human_life_and_dignity
-  intensity: 0.6
 - value: truthfulness
   intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.8
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+  intensity: 0.9
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:22:03Z'
 source_cluster_id: cluster_ap_2026-01-24_minnesota-activist-ice-protest-church-vi
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 11
   hedges:
-    appears: 0
     alleged: 0
-    attributed: 6
-    reported: 1
     contested: 0
+    reported: 1
+    appears: 0
     confirmed: 4
+    attributed: 6
   corroboration:
-    primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
     primary_document: 7
     single_source: 4
     two_independent: 0
+    primary_plus_secondary: 0
 sources:
   count: 1
   outlets:
@@ -61,41 +63,18 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-11-federal-agents-ram-minneapolis-door-pepper-spray-protesters-in-immigration-sweep
-  relation: related
-  strength: 0.7864
-  confidence: medium
-- slug: 2026-01-13-nyc-council-employee-arrested-at-asylum-check-in-sparking-protests-and-legal-fig
-  relation: related
-  strength: 0.7552
-  confidence: medium
-- slug: 2026-01-14-minneapolis-sees-second-federal-shooting-as-courts-governor-push-back-on-immigra
-  relation: related
-  strength: 0.7408
-  confidence: medium
-- slug: 2026-01-05-fabricated-images-of-maduro-capture-spread-online-trump-amplifies-false-videos
-  relation: related
-  strength: 0.7895
-  confidence: medium
-- slug: 2026-01-09-new-ice-officer-video-raises-use-of-force-questions-in-minneapolis-shooting
-  relation: related
-  strength: 0.7616
-  confidence: medium
-- slug: 2026-01-12-minnesota-twin-cities-sue-trump-administration-over-fatal-ice-shooting
-  relation: related
-  strength: 0.7428
-  confidence: medium
-- slug: 2026-01-12-new-dhs-video-shows-minutes-before-ice-officer-fatally-shot-renee-good-in-minnea
-  relation: related
-  strength: 0.7377
-  confidence: medium
-- slug: 2026-01-13-federal-agents-deploy-tear-gas-in-minneapolis-as-five-prosecutors-resign-over-re
-  relation: related
-  strength: 0.7294
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Civil rights attorney Nekima Levy Armstrong released video of her arrest Friday, contradicting a manipulated image the White House posted on X the previous day.
+- The case illustrates tensions between government-distributed imagery and documentation released directly by subjects of federal law enforcement actions, and raises questions about the accuracy of official representations of protest activity.
+- The White House posted the image on X on Thursday, the day of Armstrong's arrest.
+- A separate image posted by Homeland Security Secretary Kristi Noem's official account showed the identical photograph, but with Armstrong's expression markedly different — neutral rather than tearful.
 
 Civil rights attorney Nekima Levy Armstrong released video of her arrest Friday, contradicting a manipulated image the White House posted on X the previous day. The White House image showed Armstrong crying with her hands behind her back, with a caption identifying her as an 'Arrested far-left agitator' who had 'orchestrated church riots in Minnesota.' Armstrong's unedited seven-minute video, shot by her husband, presents a starkly different account of her Thursday arrest during an anti-immigration enforcement protest at a Minneapolis church.
 
@@ -137,102 +116,124 @@ The Department of Homeland Security did not immediately respond to a request for
 
 ## Atomic claims
 
-### c_001 — attributed, primary document
-**Subject entities:** Nekima Levy Armstrong; ICE protest
-**Predicate:** arrested_for
-**Object:** anti-ICE protest at church (activity)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Nekima Levy Armstrong; ICE protest
+- **Predicate:** arrested_for
+- **Object:** anti-ICE protest at church (activity)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > Nekima Levy Armstrong was arrested Thursday for her role in an anti-Immigration and Customs Enforcement protest at a church in Minnesota.
 
-### c_002 — confirmed, primary document
-**Subject entities:** White House; X platform
-**Predicate:** posted_image
-**Object:** manipulated image with caption (digital_content)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** White House; X platform
+- **Predicate:** posted_image
+- **Object:** manipulated image with caption (digital_content)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > The White House posted a picture on X of Armstrong showing her crying with her hands behind her back, captioned 'Arrested far-left agitator Nekima Levy Armstrong for orchestrating church riots in Minnesota.'
 
-### c_003 — attributed, primary document
-**Subject entities:** Kristi Noem; DHS
-**Predicate:** posted_image
-**Object:** same image with neutral expression (digital_content)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Kristi Noem; DHS
+- **Predicate:** posted_image
+- **Object:** same image with neutral expression (digital_content)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Homeland Security Secretary Kristi Noem's account posted the same image showing Armstrong with a neutral expression.
 
-### c_004 — confirmed, primary document
-**Subject entities:** Armstrong; Marques Armstrong
-**Predicate:** released_video
-**Object:** seven-minute arrest video (video_content)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Armstrong; Marques Armstrong
+- **Predicate:** released_video
+- **Object:** seven-minute arrest video (video_content)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > Armstrong released a seven-minute video shot by her husband showing her arrest, in which she does not appear to cry.
 
-### c_005 — attributed, primary document
-**Subject entities:** Federal agents
-**Predicate:** filmed
-**Object:** arrest video (activity)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Federal agents
+- **Predicate:** filmed
+- **Object:** arrest video (activity)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > Federal agents filming the arrest were recording video while approaching Armstrong.
 
-### c_006 — confirmed, primary document
-**Subject entities:** Armstrong; Federal agents
-**Predicate:** requested
-**Object:** agents not record arrest (statement)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Armstrong; Federal agents
+- **Predicate:** requested
+- **Object:** agents not record arrest (statement)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > Armstrong asked agents: 'Why are you recording? I would ask that you not record.'
 
-### c_007 — confirmed, primary document
-**Subject entities:** Federal agent
-**Predicate:** stated
-**Object:** statement about video purpose (statement)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Federal agent
+- **Predicate:** stated
+- **Object:** statement about video purpose (statement)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > An agent filming responded: 'It's not going to be on Twitter. It's not going to be on anything like that. We don't want to create a false narrative.'
 
-### c_008 — attributed, single source
-**Subject entities:** Armstrong; Chauntyll Allen
-**Predicate:** released
-**Object:** released from custody (legal_action)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Armstrong; Chauntyll Allen
+- **Predicate:** released
+- **Object:** released from custody (legal_action)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > Armstrong and school board member Chauntyll Allen were both released Friday.
 
-### c_009 — reported, single source
-**Subject entities:** Armstrong; Trump administration
-**Predicate:** claimed
-**Object:** AI image manipulation (allegation)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Armstrong; Trump administration
+- **Predicate:** claimed
+- **Object:** AI image manipulation (allegation)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > Armstrong claimed in an audio message that the Trump administration used AI to manipulate images of her arrest.
 
-### c_010 — attributed, single source
-**Subject entities:** Armstrong
-**Predicate:** stated
-**Object:** claimed political persecution (statement)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Armstrong
+- **Predicate:** stated
+- **Object:** claimed political persecution (statement)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > Armstrong stated: 'We are being politically persecuted for speaking out against authoritarianism, fascism and the tyranny of the Trump administration.'
 
-### c_011 — attributed, single source
-**Subject entities:** Department of Homeland Security
-**Predicate:** declined_comment
-**Object:** no immediate response (absence_of_statement)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Department of Homeland Security
+- **Predicate:** declined_comment
+- **Object:** no immediate response (absence_of_statement)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > The Department of Homeland Security did not immediately respond to requests for comment.
 
@@ -241,10 +242,5 @@ The Department of Homeland Security did not immediately respond to a request for
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Jack Brook
 **Publication date:** 2026-01-23
-**Access date:** 2026-05-18
 **Title:** Minnesota activist Nekima Levy Armstrong shares arrest video after White House posts doctored image
 **URL:** https://apnews.com/article/minnesota-activist-ice-protest-church-video-49faf3efd54e496388651aac1369fb44
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

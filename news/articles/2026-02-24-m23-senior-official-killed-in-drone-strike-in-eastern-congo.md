@@ -91,8 +91,6 @@ The conflict intensified in January 2025 when M23 rebels captured the cities of 
 
 The drone strike is viewed by many in Congo as a setback to peace efforts. U.S. President Donald Trump and Qatar have brokered peace efforts in the Congo conflict, but clashes have persisted despite ongoing diplomatic engagement.
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the Associated Press wire source listed under `sources`. Framework specification available at /methodology. Human review status — not triggered.
-
 ## Atomic claims
 
 ### c_001 — attributed, single source
@@ -193,7 +191,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-05-18
 **Title:** M23 spokesperson killed by drone strike in Congo
 **URL:** https://apnews.com/article/congo-goma-m23-rebels-official-killed-86d81ad26c798c4e7741fb1f8449389e
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

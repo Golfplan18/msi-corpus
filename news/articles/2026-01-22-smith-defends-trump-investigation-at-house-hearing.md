@@ -18,40 +18,44 @@ primary_themes:
 - partisan politics
 - presidential immunity
 topic_tags:
-  - "crime, law and justice"
-  - politics
-storyline_nexus: []
+- election
+- politics
+- judiciary
+- prosecution
+- crime, law and justice
+storyline_nexus:
+- trump-judicial-challenges
 geographic_location: United States
 floor_values_engaged:
-- value: truthfulness
-  intensity: 0.95
 - value: accountability_of_power
   intensity: 0.9
+- value: truthfulness
+  intensity: 0.6
 - value: informed_citizenship
-  intensity: 0.85
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:23:36Z'
 source_cluster_id: cluster_ap_2026-01-21_jack-smith-congress-justice-department-t
 gdelt_event_ids: []
-consensus_floor_version: v0.1.0
-publication_mindspec_version: v1.0.0
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 16
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 11
-    reported: 3
     contested: 0
+    attributed: 11
+    appears: 0
+    reported: 3
+    alleged: 0
     confirmed: 2
   corroboration:
-    primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
+    primary_plus_secondary: 0
+    two_independent: 0
     primary_document: 16
     single_source: 0
-    two_independent: 0
 sources:
   count: 1
   outlets:
@@ -69,41 +73,17 @@ image:
   url: /articles/2026-01-22-smith-defends-trump-investigation-at-house-hearing.png
   alt: 'Illustration accompanying article: Smith defends Trump investigation at House hearing'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-12-trump-administration-targets-political-opponents-powell-and-fed-the-latest
-  relation: related
-  strength: 0.8624
-  confidence: medium
-- slug: 2026-04-16-prosecutors-turned-away-at-fed-as-trump-threatens-to-fire-powell
-  relation: related
-  strength: 0.7945
-  confidence: medium
-- slug: 2026-03-10-smartmatic-seeks-to-dismiss-money-laundering-indictment-blames-trump-retribution
-  relation: related
-  strength: 0.7761
-  confidence: medium
-- slug: 2026-01-13-jack-smith-to-testify-publicly-before-house-judiciary-on-trump-investigations
-  relation: continues
-  strength: 0.8349
-  confidence: high
-- slug: 2026-01-12-republican-senators-and-ex-fed-chairs-rally-against-doj-investigation-of-powell
-  relation: related
-  strength: 0.83
-  confidence: medium
-- slug: 2026-01-12-trump-doj-subpoenas-federal-reserve-threatens-powell-with-criminal-indictment
-  relation: related
-  strength: 0.8012
-  confidence: medium
-- slug: 2026-01-12-doj-subpoenas-federal-reserve-threatens-powell-with-criminal-indictment
-  relation: related
-  strength: 0.7944
-  confidence: medium
-- slug: 2026-01-08-colorado-ag-accuses-trump-of-revenge-campaign-over-refusal-to-free-convicted-cle
-  relation: related
-  strength: 0.7923
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- Former special counsel Jack Smith testified Thursday before the House Judiciary Committee to defend his investigations into President Donald Trump, insisting he had acted without political motive. ...
+- The hearing played out against a backdrop of an ongoing Trump administration retribution campaign targeting the investigators who scrutinized the p...
+- Smith told the committee that his investigation had developed "proof beyond a reasonable doubt" that Trump engaged in criminal activity. The invest...
+- Both cases were abandoned after Trump won the 2024 election because Justice Department legal opinions prohibit indicting a sitting president.
 
 Former special counsel Jack Smith testified Thursday before the House Judiciary Committee to defend his investigations into President Donald Trump, insisting he had acted without political motive. "No one should be above the law in our country, and the law required that he be held to account," Smith said of Trump. The hourslong hearing split immediately along partisan lines, with Republican lawmakers seeking to undermine Smith while Democrats sought to elicit evidence of Trump's conduct.
 
@@ -151,147 +131,179 @@ Smith vigorously rejected suggestions that his investigation was driven by polit
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Jack Smith; House Judiciary Committee
-**Predicate:** testified_before
-**Object:** House Judiciary Committee hearing on Trump investigations (government_event)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Jack Smith; House Judiciary Committee
+- **Predicate:** testified_before
+- **Object:** House Judiciary Committee hearing on Trump investigations (government_event)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Jack Smith testified Thursday before the House Judiciary Committee on his investigations into President Donald Trump.
 
-### c_002 — attributed, primary document
-**Subject entities:** Jack Smith
-**Predicate:** stated
-**Object:** No one should be above the law; Trump required to be held to account (speech_act)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Jack Smith
+- **Predicate:** stated
+- **Object:** No one should be above the law; Trump required to be held to account (speech_act)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Smith said: No one should be above the law in our country, and the law required that he be held to account.
 
-### c_003 — attributed, primary document
-**Subject entities:** Jack Smith; Donald Trump
-**Predicate:** investigated
-**Object:** conspiracy to overturn 2020 presidential election (criminal_allegation)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Jack Smith; Donald Trump
+- **Predicate:** investigated
+- **Object:** conspiracy to overturn 2020 presidential election (criminal_allegation)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > Smith investigated Trump for conspiring to overturn the 2020 presidential election.
 
-### c_004 — attributed, primary document
-**Subject entities:** Jack Smith; Donald Trump
-**Predicate:** investigated
-**Object:** hoarding classified documents at Mar-a-Lago (criminal_allegation)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Jack Smith; Donald Trump
+- **Predicate:** investigated
+- **Object:** hoarding classified documents at Mar-a-Lago (criminal_allegation)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > Smith investigated Trump for hoarding classified documents at Mar-a-Lago estate in Palm Beach, Florida.
 
-### c_005 — attributed, primary document
-**Subject entities:** Jack Smith
-**Predicate:** asserted
-**Object:** proof beyond reasonable doubt of Trump criminal activity (prosecutorial_conclusion)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Jack Smith
+- **Predicate:** asserted
+- **Object:** proof beyond reasonable doubt of Trump criminal activity (prosecutorial_conclusion)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Smith said his investigation developed proof beyond a reasonable doubt that Trump engaged in criminal activity.
 
-### c_006 — attributed, primary document
-**Subject entities:** Jack Smith
-**Predicate:** stated
-**Object:** would prosecute same facts regardless of presidential party (speech_act)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Jack Smith
+- **Predicate:** stated
+- **Object:** would prosecute same facts regardless of presidential party (speech_act)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Smith said he would prosecute the same facts against any president regardless of party affiliation.
 
-### c_007 — reported, primary document
-**Subject entities:** Jack Smith team; Republican lawmakers
-**Predicate:** subpoenaed
-**Object:** phone records of Republican lawmakers (legal_action)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Jack Smith team; Republican lawmakers
+- **Predicate:** subpoenaed
+- **Object:** phone records of Republican lawmakers (legal_action)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > Smith's team subpoenaed phone records of a group of Republican lawmakers.
 
-### c_008 — confirmed, primary document
-**Subject entities:** phone records
-**Predicate:** revealed
-**Object:** phone numbers and call duration, not communications content (data_characteristic)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** phone records
+- **Predicate:** revealed
+- **Object:** phone numbers and call duration, not communications content (data_characteristic)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > The phone records showed incoming and outgoing phone numbers and call duration but not the content of communications.
 
-### c_009 — reported, primary document
-**Subject entities:** Republican lawmakers
-**Predicate:** characterized
-**Object:** Smith as overly aggressive prosecutor requiring court restraint (rhetorical_position)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Republican lawmakers
+- **Predicate:** characterized
+- **Object:** Smith as overly aggressive prosecutor requiring court restraint (rhetorical_position)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Republicans sought to portray Smith as an overly aggressive prosecutor who had to be reined in by courts.
 
-### c_010 — attributed, primary document
-**Subject entities:** Jack Smith
-**Predicate:** justified
-**Object:** phone records subpoena as necessary to document Jan 6 contacts (prosecutorial_rationale)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Jack Smith
+- **Predicate:** justified
+- **Object:** phone records subpoena as necessary to document Jan 6 contacts (prosecutorial_rationale)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Smith said collecting phone records is a common prosecutorial tactic necessary to document contact Trump or surrogates may have had with lawmakers on January 6, 2021.
 
-### c_011 — attributed, primary document
-**Subject entities:** Donald Trump
-**Predicate:** attempted
-**Object:** silence and intimidate potential witnesses (alleged_conduct)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Donald Trump
+- **Predicate:** attempted
+- **Object:** silence and intimidate potential witnesses (alleged_conduct)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > Smith said Trump tried to silence and intimidate potential witnesses after being charged.
 
-### c_012 — attributed, primary document
-**Subject entities:** Jack Smith
-**Predicate:** stated
-**Object:** Republican witnesses gave confidence in case strength (prosecutorial_assessment)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Jack Smith
+- **Predicate:** stated
+- **Object:** Republican witnesses gave confidence in case strength (prosecutorial_assessment)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Smith said some of the most powerful witnesses in his case were fellow Republicans who voted for and campaigned for Trump.
 
-### c_013 — reported, primary document
-**Subject entities:** Donald Trump
-**Predicate:** posted
-**Object:** claims that Smith should be prosecuted and committed perjury (public_statement)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_013
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Donald Trump
+- **Predicate:** posted
+- **Object:** claims that Smith should be prosecuted and committed perjury (public_statement)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Trump posted on Truth Social that Smith should be prosecuted and asserted without evidence that Smith committed perjury.
 
-### c_014 — attributed, primary document
-**Subject entities:** Jack Smith; Trump administration
-**Predicate:** believed
-**Object:** Trump administration will prosecute him on presidential order (predictive_statement)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Jack Smith; Trump administration
+- **Predicate:** believed
+- **Object:** Trump administration will prosecute him on presidential order (predictive_statement)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Smith said he believed the Trump administration will do everything in its power to prosecute him because they have been ordered to by the president.
 
-### c_015 — attributed, primary document
-**Subject entities:** Jack Smith
-**Predicate:** stated
-**Object:** failure to hold powerful to same standards catastrophic to rule of law (speech_act)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Jack Smith
+- **Predicate:** stated
+- **Object:** failure to hold powerful to same standards catastrophic to rule of law (speech_act)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Smith said if the most powerful people in society are not held to the same standards under the rule of law, it can be catastrophic.
 
-### c_016 — attributed, primary document
-**Subject entities:** Donald Trump; Jack Smith
-**Predicate:** stated
-**Object:** Trump caused Jan 6, foresaw violence, sought to exploit it (investigative_conclusion)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_016
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Donald Trump; Jack Smith
+- **Predicate:** stated
+- **Object:** Trump caused Jan 6, foresaw violence, sought to exploit it (investigative_conclusion)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Smith said his investigation revealed that Donald Trump caused January 6, it was foreseeable to him, and he sought to exploit the violence.
 
@@ -300,10 +312,5 @@ Smith vigorously rejected suggestions that his investigation was driven by polit
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Eric Tucker
 **Publication date:** 2026-01-22
-**Access date:** 2026-05-18
 **Title:** Jack Smith testifies at public hearing on his Trump investigations
 **URL:** https://apnews.com/article/jack-smith-congress-justice-department-trump-056c73bd6b5c46dc213266aa01677f36
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

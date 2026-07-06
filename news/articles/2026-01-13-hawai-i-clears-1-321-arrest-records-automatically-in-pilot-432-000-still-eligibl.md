@@ -20,48 +20,47 @@ primary_themes:
 - criminal justice reform
 - reentry barriers
 topic_tags:
-  - "crime, law and justice"
+- crime, law and justice
+- government policy
+- civil rights
+- law
 storyline_nexus:
-  - ai-regulation
-  - iran-war
-  - russia-ukraine-war
-geographic_location: Hawai'i, United States
+- us-immigration-enforcement
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
-  intensity: 0.85
+  intensity: 0.9
 - value: equality_fairness
-  intensity: 0.85
+  intensity: 0.9
 - value: informed_citizenship
-  intensity: 0.75
-- value: accountability_of_power
-  intensity: 0.45
-framework_version: 1.1.0
-generation_timestamp: '2026-01-13T12:00:00Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:07:19Z'
 source_cluster_id: cluster_ap_2026-01-12_david-tarnas-marijuana-indictments-hawai
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 12
   hedges:
-    appears: 0
-    alleged: 0
     attributed: 4
-    reported: 1
-    contested: 0
+    alleged: 0
     confirmed: 7
+    contested: 0
+    reported: 1
+    appears: 0
   corroboration:
     primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 7
-    single_source: 4
     two_independent: 1
+    single_source: 4
+    primary_document: 7
+    one_originating_plus_primary_document: 0
 sources:
   count: 1
   outlets:
-  - Associated Press / Honolulu Civil Beat
+  - Associated Press
   outlet_classes:
   - wire
   highest_reliability_tier: 1
@@ -78,6 +77,15 @@ image:
 cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- About 432,000 people statewide — roughly one-third of Hawai''i''s population — have at least one arrest record eligible for expungement, state data show, yet fewer than 1,500 apply through the existing petition process each year, the attorney general''s office reported.' nut_graf: The pilot, authorized by a 2024 bill from state Rep.
+- Hawai'i's attorney general office completed the first year of a pilot program that automatically cleared 1,321 marijuana and low-level drug arrest records on the Big Island without requiring residents to file applications, according to a report submitted to the state Legislature in December.
+- About 432,000 people statewide — roughly one-third of Hawai'i's population — have at least one arrest record eligible for expungement, state data show, yet fewer than 1,500 apply through the existing petition process each year, the attorney general's office reported.
+- The pilot, authorized by a 2024 bill from state Rep.
 
 Hawai'i's attorney general office completed the first year of a pilot program that automatically cleared 1,321 marijuana and low-level drug arrest records on the Big Island without requiring residents to file applications, according to a report submitted to the state Legislature in December. The records belonged to Hawai'i County residents who had been charged with possessing less than one ounce of marijuana or a similarly classified drug but were never convicted.
 
@@ -147,126 +155,143 @@ Tarnas said he plans to wait for the Clean Slate Expungement Task Force's final 
 
 *Reporting by Madeleine Valera, Honolulu Civil Beat, distributed through a partnership with The Associated Press.*
 
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Human review: not triggered. [CC0](https://creativecommons.org/publicdomain/zero/1.0/)*
-
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Hawai'i Attorney General's Office
-**Predicate:** completed_pilot_year
-**Object:** automatic expungement pilot (government_program)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Hawai'i Attorney General's Office
+- **Predicate:** completed_pilot_year
+- **Object:** automatic expungement pilot (government_program)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > The Hawai'i Attorney General's Office completed the first year of a pilot project to expunge certain arrest records without requiring the arrestee to petition the state.
 
-### c_002 — confirmed, primary document
-**Subject entities:** Hawai'i Attorney General's Office
-**Predicate:** expunged_records
-**Object:** 1321 (count)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Hawai'i Attorney General's Office
+- **Predicate:** expunged_records
+- **Object:** 1321 (count)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > The pilot program expunged 1,321 arrest records in Hawai'i County in addition to those granted via petition.
 
-### c_003 — attributed, primary document
-**Subject entities:** Hawai'i
-**Predicate:** has_eligible_population
-**Object:** 432000 (count)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Hawai'i
+- **Predicate:** has_eligible_population
+- **Object:** 432000 (count)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > About 432,000 people in Hawai'i have at least one record eligible for expungement, representing roughly one-third of the state's population.
 
-### c_004 — confirmed, primary document
-**Subject entities:** Hawai'i
-**Predicate:** annual_application_rate
-**Object:** fewer than 1% (percentage)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Hawai'i
+- **Predicate:** annual_application_rate
+- **Object:** fewer than 1% (percentage)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Fewer than 1,500 people apply for expungement in Hawai'i each year, representing fewer than 1% of those eligible.
 
-### c_005 — confirmed, two independent
-**Subject entities:** David Tarnas
-**Predicate:** introduced_legislation
-**Object:** pilot automatic expungement bill (legislation)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** two_independent
+- **Subject entities:** David Tarnas
+- **Predicate:** introduced_legislation
+- **Object:** pilot automatic expungement bill (legislation)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > State Rep. David Tarnas introduced the bill in 2024 that established the pilot project.
 
-### c_006 — confirmed, primary document
-**Subject entities:** Hawai'i Criminal Justice Data Center
-**Predicate:** spent_labor_hours
-**Object:** 888 (hours)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Hawai'i Criminal Justice Data Center
+- **Predicate:** spent_labor_hours
+- **Object:** 888 (hours)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Employees at the Hawai'i Criminal Justice Data Center spent 888 hours clearing records during the pilot program.
 
-### c_007 — reported, single source
-**Subject entities:** Hawai'i Attorney General's Office
-**Predicate:** estimated_cost_of_permanent_program
-**Object:** 15000000 (currency_usd)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Hawai'i Attorney General's Office
+- **Predicate:** estimated_cost_of_permanent_program
+- **Object:** 15000000 (currency_usd)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Making state-initiated expungement permanent would cost around $15 million.
 
-### c_008 — confirmed, primary document
-**Subject entities:** Hawai'i Criminal Justice Data Center
-**Predicate:** pending_expungement_count
-**Object:** 860 (count)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Hawai'i Criminal Justice Data Center
+- **Predicate:** pending_expungement_count
+- **Object:** 860 (count)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > The Hawai'i Criminal Justice Data Center was still working on expunging 860 records determined eligible through the pilot program as of the December report.
 
-### c_009 — attributed, single source
-**Predicate:** have_clean_slate_laws
-**Object:** 13 (count)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Predicate:** have_clean_slate_laws
+- **Object:** 13 (count)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Thirteen other states have some kind of state-initiated expungement process.
 
-### c_010 — attributed, single source
-**Subject entities:** California
-**Predicate:** records_cleared_under_law
-**Object:** 216000 (count)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** California
+- **Predicate:** records_cleared_under_law
+- **Object:** 216000 (count)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > California's 2022 law requiring automatic sealing of cannabis-related charges has resulted in more than 216,000 people getting their records cleared.
 
-### c_011 — attributed, single source
-**Subject entities:** RAND
-**Predicate:** found_recidivism_rate
-**Object:** 75% not reconvicted within 10 years of first conviction (statistic)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** RAND
+- **Predicate:** found_recidivism_rate
+- **Object:** 75% not reconvicted within 10 years of first conviction (statistic)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > Seventy-five percent of people with a first conviction are not convicted of another crime within 10 years, according to a 2024 RAND study.
 
-### c_012 — confirmed, primary document
-**Subject entities:** Hawai'i Clean Slate Expungement Task Force
-**Predicate:** report_deadline
-**Object:** before 2027 legislative session (date_range)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_012
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Hawai'i Clean Slate Expungement Task Force
+- **Predicate:** report_deadline
+- **Object:** before 2027 legislative session (date_range)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > The Hawai'i Clean Slate Expungement Task Force's final report is due before the start of the 2027 legislative session.
 
 ## Sources
 
-### src_001 — Associated Press / Honolulu Civil Beat, wire, Tier 1, originating
-**Author:** Madeleine Valera
+### src_001 — Associated Press, wire, Tier 1, originating
+**Author:** Madeleine Valera / Honolulu Civil Beat
 **Publication date:** 2026-01-13
-**Access date:** 2026-01-13
-**Title:** A third of Hawai'i could get criminal records cleared. Few do
+**Title:** A third of Hawai’i could get criminal records cleared. Few do
 **URL:** https://apnews.com/article/david-tarnas-marijuana-indictments-hawaii-general-news-d336f7ef89459225863848f703d84077
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

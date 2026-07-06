@@ -14,46 +14,44 @@ primary_themes:
 - classified information
 - special counsel
 topic_tags:
-  - politics
-  - "government policy"
-  - "science and technology"
-  - "artificial intelligence"
+- judiciary
+- law
+- prosecution
+- crime
+- government
 storyline_nexus:
-  - us-administration-2026
-  - 2026-midterms
+- trump-judicial-challenges
 geographic_location: United States
 floor_values_engaged:
-- value: truthfulness
-  intensity: 0.95
 - value: accountability_of_power
   intensity: 0.9
 - value: informed_citizenship
-  intensity: 0.85
-- value: equality_fairness
-  intensity: 0.8
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+  intensity: 0.9
+- value: truthfulness
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:38:12Z'
 source_cluster_id: cluster_ap_2026-02-24_trump-classified-documents-jack-smith-3a
 gdelt_event_ids: []
-consensus_floor_version: 1.1.0
-publication_mindspec_version: 1.1.0
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 11
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 4
-    reported: 4
-    contested: 0
     confirmed: 3
+    alleged: 0
+    contested: 0
+    attributed: 4
+    appears: 0
+    reported: 4
   corroboration:
-    primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
     primary_document: 3
-    single_source: 8
     two_independent: 0
+    single_source: 8
+    primary_plus_secondary: 0
 sources:
   count: 1
   outlets:
@@ -71,13 +69,19 @@ image:
   url: /articles/2026-02-23-judge-bars-release-of-jack-smith-s-classified-documents-report.png
   alt: 'Illustration accompanying article: Judge bars release of Jack Smith''s classified documents report'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-13-jack-smith-to-testify-publicly-before-house-judiciary-on-trump-investigations
-  relation: related
-  strength: 0.7863
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Judge blocks release of special counsel Jack Smith’s report on Trump classified documents case
+- Judge blocks release of special counsel Jack Smith’s report on Trump classified documents case
+- AP Washington correspondent Sagar Meghani reports a federal judge has permanently barred the release of special counsel Jack Smith’s probe into President Trump’s hoarding of classified documents.
+- A First Amendment group and a watchdog organization have been pressing for the report’s release.
+- A lawyer for Trump, Kendra Wharton, praised Cannon’s ruling, saying in a statement that Smith was unconstitutionally appointed and that his report “should never see the light of day.”
 
 A federal judge on Monday permanently barred the release of special counsel Jack Smith's report on his investigation into President Donald Trump's handling of classified documents, blocking public scrutiny of a prosecution that once stood as the most perilous of four criminal cases against the Republican. Judge Aileen Cannon, who was nominated to the bench by Trump, granted the president's request to keep the report sealed. Smith's investigations produced indictments that were abandoned after Trump's 2024 election victory, citing Justice Department legal opinions prohibiting prosecution of sitting presidents.
 
@@ -111,100 +115,122 @@ Cannon had previously granted a defense request to temporarily halt the release 
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Aileen Cannon; Jack Smith
-**Predicate:** barred_release_of
-**Object:** Smith's classified documents investigation report (document)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Aileen Cannon; Jack Smith
+- **Predicate:** barred_release_of
+- **Object:** Smith's classified documents investigation report (document)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > Judge Aileen Cannon permanently barred the release of special counsel Jack Smith's report on his investigation into Trump's handling of classified documents.
 
-### c_002 — confirmed, primary document
-**Subject entities:** Aileen Cannon; Donald Trump
-**Predicate:** nominated
-**Object:** federal judge (position)
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Aileen Cannon; Donald Trump
+- **Predicate:** nominated
+- **Object:** federal judge (position)
+- **Sources:** src_001
 
 > Judge Cannon was nominated to the bench by Trump.
 
-### c_003 — attributed, single source
-**Subject entities:** Donald Trump
-**Predicate:** requested
-**Object:** keep Smith's report sealed (action)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** requested
+- **Object:** keep Smith's report sealed (action)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > Trump requested that Smith's report be kept sealed.
 
-### c_004 — reported, single source
-**Subject entities:** Jack Smith
-**Predicate:** produced
-**Object:** two-volume classified documents investigation report (document)
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Jack Smith
+- **Predicate:** produced
+- **Object:** two-volume classified documents investigation report (document)
+- **Sources:** src_001
 
 > Smith produced a two-volume report on the classified documents investigation.
 
-### c_005 — reported, single source
-**Subject entities:** Jack Smith; Donald Trump
-**Predicate:** abandoned
-**Object:** indictments from Trump investigations (legal_action)
-**Temporal:** 2024-11
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Jack Smith; Donald Trump
+- **Predicate:** abandoned
+- **Object:** indictments from Trump investigations (legal_action)
+- **Temporal:** 2024-11
+- **Sources:** src_001
 
 > Indictments produced by Smith's investigations were abandoned after Trump's 2024 election victory.
 
-### c_006 — attributed, single source
-**Subject entities:** Pam Bondi
-**Predicate:** determined
-**Object:** internal deliberative communication, privileged and confidential (legal_determination)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Pam Bondi
+- **Predicate:** determined
+- **Object:** internal deliberative communication, privileged and confidential (legal_determination)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > Attorney General Pam Bondi determined the report was an internal deliberative communication that should not be released outside the Justice Department.
 
-### c_007 — attributed, single source
-**Subject entities:** Trump administration; Jack Smith
-**Predicate:** characterized
-**Object:** politically motivated (characterization)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Trump administration; Jack Smith
+- **Predicate:** characterized
+- **Object:** politically motivated (characterization)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > The Trump administration characterized Smith's investigation as politically motivated.
 
-### c_008 — confirmed, primary document
-**Subject entities:** Aileen Cannon; Donald Trump
-**Predicate:** said_release_would_present
-**Object:** manifest injustice (legal_consequence)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Aileen Cannon; Donald Trump
+- **Predicate:** said_release_would_present
+- **Object:** manifest injustice (legal_consequence)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > Judge Cannon said release of the report would present a manifest injustice to the president and his co-defendants.
 
-### c_009 — attributed, single source
-**Subject entities:** Trump administration; Jack Smith
-**Predicate:** challenged_constitutionality
-**Object:** Smith's appointment as unconstitutional (legal_challenge)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Trump administration; Jack Smith
+- **Predicate:** challenged_constitutionality
+- **Object:** Smith's appointment as unconstitutional (legal_challenge)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > The Trump administration challenged that Smith was unconstitutionally appointed.
 
-### c_010 — reported, single source
-**Subject entities:** Donald Trump
-**Predicate:** accused_of_storing
-**Object:** sensitive documents at Mar-a-Lago (allegation)
-**Temporal:** 2020-2021
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** accused_of_storing
+- **Object:** sensitive documents at Mar-a-Lago (allegation)
+- **Temporal:** 2020-2021
+- **Sources:** src_001
 
 > The classified documents case accused Trump of storing sensitive documents at his Mar-a-Lago estate after leaving the White House.
 
-### c_011 — reported, single source
-**Subject entities:** American Oversight; Knight First Amendment Institute
-**Predicate:** pressing_for
-**Object:** report's public release (advocacy_action)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** American Oversight; Knight First Amendment Institute
+- **Predicate:** pressing_for
+- **Object:** report's public release (advocacy_action)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > First Amendment organizations American Oversight and Knight First Amendment Institute are pressing for release of the report.
 
@@ -213,10 +239,5 @@ Cannon had previously granted a defense request to temporarily halt the release 
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Alanna Durkin Richer
 **Publication date:** 2026-02-23
-**Access date:** 2026-05-18
 **Title:** Judge blocks release of special counsel Smith's report
 **URL:** https://apnews.com/article/trump-classified-documents-jack-smith-3a86d9c12f18b4dfe648e539925d72a2
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

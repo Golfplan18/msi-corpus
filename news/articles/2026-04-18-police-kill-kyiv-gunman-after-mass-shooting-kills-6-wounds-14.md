@@ -17,8 +17,7 @@ topic_tags:
   - "crime, law and justice"
   - "law enforcement"
   - crime
-storyline_nexus:
-  - russia-ukraine-war
+storyline_nexus: []
 geographic_location: Kyiv, Ukraine
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -111,8 +110,6 @@ Zelenskyy said the gunman had lived in the Donetsk region in eastern Ukraine for
 
 Ukraine's security service, the SBU, described the killings as an act of terrorism. The classification signals official concern about domestic instability amid Russia's ongoing attacks. Mass shootings have been rare in wartime Kyiv, where civilian deaths typically result from Russian weapons rather than gunfire within the city limits.
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
 ### c_001 — confirmed, primary document
@@ -186,7 +183,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-05-17
 **Title:** Ukrainian police kill gunman who killed 6, wounded 14 in Kyiv
 **URL:** https://apnews.com/article/ukraine-shooting-klitschko-supermarket-884436efb1c6bbc22a83156ffb697a87
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

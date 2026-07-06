@@ -17,45 +17,41 @@ primary_themes:
 - Climate diplomacy
 - Multilateralism
 topic_tags:
-  - "climate change"
-  - environment
-  - "international relations"
-  - politics
+- international relations
+- government policy
+- international law
+- law
 storyline_nexus:
-  - trump-tariff-policy
-  - us-china-relations
-  - monetary-policy-2026
-geographic_location: United States / United Nations, New York
+- trump-foreign-policy-reshaping
+geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.85
+  intensity: 0.9
 - value: human_life_and_dignity
-  intensity: 0.7
-framework_version: 1.1.0
-generation_timestamp: '2026-01-08T00:00:00Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:03:55Z'
 source_cluster_id: cluster_ap_2026-01-07_trump-united-nations-international-organ
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 12
   hedges:
-    appears: 0
+    contested: 0
     alleged: 0
     attributed: 2
     reported: 3
-    contested: 0
+    appears: 0
     confirmed: 7
   corroboration:
     primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 0
-    single_source: 12
     two_independent: 0
+    single_source: 12
+    one_originating_plus_primary_document: 0
 sources:
   count: 1
   outlets:
@@ -73,17 +69,17 @@ image:
   url: /articles/2026-01-08-un-says-us-has-legal-obligation-to-pay-dues-after-trump-pulls-from-66-internatio.png
   alt: 'Illustration accompanying article: UN says US has legal obligation to pay dues after Trump pulls from 66 international'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-06-white-house-says-u-s-military-always-an-option-in-greenland-as-europe-pushes-bac
-  relation: related
-  strength: 0.7199
-  confidence: medium
-- slug: 2025-12-31-appeals-court-lets-medicaid-funding-cuts-to-planned-parenthood-stand-while-state
-  relation: related
-  strength: 0.7278
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- The United Nations asserted Thursday that the United States remains legally bound to pay its dues to U.N. agencies after President Donald Trump signed an executive order suspending American support...
+- The order marks the broadest single U.S. pullback from multilateral institutions since Trump returned to office, threatening the funding stability ...
+- The United Nations pushed back Thursday against President Donald Trump's decision to suspend American participation in 66 international bodies, ass...
+- "The charter is not à la carte," Stéphane Dujarric, a spokesperson for Secretary-General António Guterres, told reporters. "We're not going to rene...
 
 The United Nations asserted Thursday that the United States remains legally bound to pay its dues to U.N. agencies after President Donald Trump signed an executive order suspending American support for 66 international groups, agencies and commissions, including 31 U.N.-related bodies. Secretary-General António Guterres said he regretted the decision. "Assessed contributions to the United Nations regular budget and peacekeeping budget, as approved by the General Assembly, are a legal obligation under the UN Charter for all Member States, including the United States," Stéphane Dujarric, a spokesperson for Guterres, said in a statement.
 
@@ -127,111 +123,135 @@ The withdrawal came despite months of diplomatic maneuvering. U.N. officials, in
 
 ## Atomic claims
 
-### c_001 — confirmed, single source
-**Subject entities:** Donald Trump
-**Predicate:** signed_executive_order
-**Object:** suspension of support for 66 international bodies (policy_action)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** signed_executive_order
+- **Object:** suspension of support for 66 international bodies (policy_action)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Trump signed an executive order suspending American support for 66 international groups, agencies and commissions.
 
-### c_002 — confirmed, single source
-**Subject entities:** Donald Trump; United Nations
-**Predicate:** withdraws_from
-**Object:** 31 UN-related agencies (count)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; United Nations
+- **Predicate:** withdraws_from
+- **Object:** 31 UN-related agencies (count)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > The order targets 31 U.N.-related agencies among the 66 bodies.
 
-### c_003 — attributed, single source
-**Subject entities:** Stephane Dujarric; United Nations; United States
-**Predicate:** stated
-**Object:** legal obligation under UN Charter (attributed_claim)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Stephane Dujarric; United Nations; United States
+- **Predicate:** stated
+- **Object:** legal obligation under UN Charter (attributed_claim)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > Dujarric said assessed contributions to the U.N. regular budget and peacekeeping budget are a legal obligation under the UN Charter for all member states, including the United States.
 
-### c_004 — confirmed, single source
-**Subject entities:** United States; United Nations
-**Predicate:** assessed_contribution
-**Object:** 22% regular; 25% peacekeeping (percentage)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** United States; United Nations
+- **Predicate:** assessed_contribution
+- **Object:** 22% regular; 25% peacekeeping (percentage)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > The United States is assessed to pay 22% of the U.N. regular budget and 25% of peacekeeping operations.
 
-### c_005 — reported, single source
-**Subject entities:** United States; United Nations
-**Predicate:** failed_to_pay
-**Object:** annual regular budget contribution (financial_obligation)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** United States; United Nations
+- **Predicate:** failed_to_pay
+- **Object:** annual regular budget contribution (financial_obligation)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > U.N. officials said the U.S. did not pay its annual contributions to the regular budget in 2025.
 
-### c_006 — confirmed, single source
-**Subject entities:** United Nations
-**Predicate:** rule_applies
-**Object:** loss of General Assembly vote after two years in arrears (institutional_rule)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** United Nations
+- **Predicate:** rule_applies
+- **Object:** loss of General Assembly vote after two years in arrears (institutional_rule)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > A U.N. member in arrears for two full years loses its vote in the General Assembly.
 
-### c_007 — confirmed, single source
-**Subject entities:** China; United Nations
-**Predicate:** paid
-**Object:** over $685 million (financial_amount)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** China; United Nations
+- **Predicate:** paid
+- **Object:** over $685 million (financial_amount)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > China paid over $685 million to the U.N.; China's assessed share is 20%.
 
-### c_008 — confirmed, single source
-**Subject entities:** United States; UNFCCC
-**Predicate:** withdraws_from
-**Object:** UNFCCC (international_treaty)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** United States; UNFCCC
+- **Predicate:** withdraws_from
+- **Object:** UNFCCC (international_treaty)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > The withdrawal includes the U.N. Framework Convention on Climate Change, the 1992 treaty underlying the Paris Agreement, which has 198 signatory countries.
 
-### c_009 — attributed, single source
-**Subject entities:** Simon Stiell; United States
-**Predicate:** warned
-**Object:** economic harm from climate intensification (attributed_claim)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Simon Stiell; United States
+- **Predicate:** warned
+- **Object:** economic harm from climate intensification (attributed_claim)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > UNFCCC executive secretary Simon Stiell said the U.S. withdrawal will harm 'the US economy, jobs and living standards, as wildfires, floods, mega-storms and droughts get rapidly worse.'
 
-### c_010 — reported, single source
-**Subject entities:** United Nations; Donald Trump
-**Predicate:** not_notified_formally
-**Object:** no formal communication from Trump administration (process_failure)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** United Nations; Donald Trump
+- **Predicate:** not_notified_formally
+- **Object:** no formal communication from Trump administration (process_failure)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > U.N. diplomats said they learned of the withdrawal through news reports and White House social media; no formal communication from the Trump administration has been received.
 
-### c_011 — confirmed, single source
-**Subject entities:** United States; United Nations
-**Predicate:** agreed
-**Object:** $2 billion humanitarian assistance agreement (financial_agreement)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_011
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** United States; United Nations
+- **Predicate:** agreed
+- **Object:** $2 billion humanitarian assistance agreement (financial_agreement)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > A $2 billion U.S. humanitarian assistance agreement with the U.N. was announced last month.
 
-### c_012 — reported, single source
-**Subject entities:** France; United Kingdom
-**Predicate:** redirecting_funds
-**Object:** humanitarian to military spending (policy_shift)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** France; United Kingdom
+- **Predicate:** redirecting_funds
+- **Object:** humanitarian to military spending (policy_shift)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > France and the U.K. have been reevaluating humanitarian funding, with many shifting that money toward military spending, partly in response to U.S. pressure.
 
@@ -240,10 +260,5 @@ The withdrawal came despite months of diplomatic maneuvering. U.N. officials, in
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Farnoush Amiri
 **Publication date:** 2026-01-08
-**Access date:** 2026-01-08
-**Title:** UN says the US has 'legal obligation' to fund agencies after Trump withdraws from several
+**Title:** UN says the US has 'legal obligation' to fund agencies
 **URL:** https://apnews.com/article/trump-united-nations-international-organizations-withdrawal-b97c82ba21c7da01fa554542f2b18d47
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -19,46 +19,46 @@ primary_themes:
 - California Racial Justice Act
 - juror pay
 topic_tags:
-  - politics
-  - election
-  - "crime, law and justice"
-  - prosecution
-storyline_nexus: []
-geographic_location: Oakland, California
+- discrimination
+- trial
+- civil rights
+- crime, law and justice
+- fundamental rights
+storyline_nexus:
+- trump-judicial-challenges
+geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness
   intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.7
-- value: informed_citizenship
   intensity: 0.6
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:45:07Z'
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:42:26Z'
 source_cluster_id: cluster_ap_2026-03-09_juries-general-news-brendon-woods-black-
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 24
   hedges:
-    appears: 1
-    alleged: 0
-    attributed: 12
-    reported: 2
     contested: 0
     confirmed: 9
+    appears: 1
+    alleged: 0
+    reported: 2
+    attributed: 12
   corroboration:
     primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 0
     single_source: 24
     two_independent: 0
+    one_originating_plus_primary_document: 0
+    primary_document: 0
 sources:
   count: 1
   outlets:
-  - Associated Press / The Oaklandside
+  - Associated Press
   outlet_classes:
   - wire
   highest_reliability_tier: 1
@@ -68,41 +68,17 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-12-uvalde-officer-trial-enters-second-week-as-prosecution-presses-inaction-case
-  relation: related
-  strength: 0.7913
-  confidence: medium
-- slug: 2026-01-12-federal-judge-bars-reagan-era-doj-official-from-joining-maduro-defense-team
-  relation: related
-  strength: 0.7868
-  confidence: medium
-- slug: 2026-01-05-jury-seated-in-trial-of-uvalde-ex-officer-charged-in-2022-school-shooting-respon
-  relation: related
-  strength: 0.8016
-  confidence: medium
-- slug: 2026-01-08-weinstein-weighs-guilty-plea-on-rape-charge-ahead-of-new-york-retrial
-  relation: related
-  strength: 0.7887
-  confidence: medium
-- slug: 2026-01-13-le-pen-appeals-embezzlement-conviction-with-2027-presidential-bid-at-stake
-  relation: related
-  strength: 0.7741
-  confidence: medium
-- slug: 2026-01-06-uvalde-school-officer-did-nothing-as-gunman-approached-prosecutor-tells-jury
-  relation: related
-  strength: 0.7876
-  confidence: medium
-- slug: 2026-01-13-clintons-refuse-house-epstein-subpoena-as-contempt-proceedings-loom
-  relation: related
-  strength: 0.7585
-  confidence: medium
-- slug: 2025-12-31-georgia-judge-dismisses-racketeering-charges-against-61-cop-city-protesters
-  relation: related
-  strength: 0.7883
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- Alameda County Chief Public Defender Brendon Woods refused to proceed with a misdemeanor trial Thursday after the jury pool in an Oakland courtroom contained no Black prospective jurors, triggering...
+- The standoff surfaced a long-documented pattern in Alameda County: Black residents, who make up roughly one in five of Oakland's population, are ch...
+- Alameda County Chief Public Defender Brendon Woods refused Thursday to proceed with a misdemeanor trial after the jury pool in an Oakland courtroom...
+- The defendant, Eboni Route, is a Black Oakland woman charged with misdemeanor battery against a police officer and resisting arrest. After a couple...
 
 Alameda County Chief Public Defender Brendon Woods refused to proceed with a misdemeanor trial Thursday after the jury pool in an Oakland courtroom contained no Black prospective jurors, triggering a confrontation with the presiding judge and a partial remedy that legal observers said still left the defendant with slim odds of a Black juror. The defendant, Eboni Route, is a Black Oakland woman facing misdemeanor charges of battery against a police officer and resisting arrest. Woods told Judge Pelayo Llamas that without any Black representation in the panel, Route could not receive a fair trial by her peers.
 
@@ -174,232 +150,273 @@ Woods said he had no regrets about his intervention. "The fact that we were abou
 
 *Reporting by Roselyn Romero, originally published by The Oaklandside and distributed through a partnership with The Associated Press.*
 
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: [/methodology](/methodology). Human review: not triggered. Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*
-
 ## Atomic claims
 
-### c_001 — confirmed, single source
-**Subject entities:** Brendon Woods
-**Predicate:** refused_to_proceed
-**Object:** misdemeanor trial (legal_proceeding)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Brendon Woods
+- **Predicate:** refused_to_proceed
+- **Object:** misdemeanor trial (legal_proceeding)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > Alameda County Chief Public Defender Brendon Woods refused to proceed with Eboni Route's misdemeanor trial on Thursday.
 
-### c_002 — confirmed, single source
-**Subject entities:** Eboni Route
-**Predicate:** faces_charges
-**Object:** misdemeanor battery against police officer and resisting arrest (criminal_charges)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Eboni Route
+- **Predicate:** faces_charges
+- **Object:** misdemeanor battery against police officer and resisting arrest (criminal_charges)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > Eboni Route is a Black Oakland woman facing misdemeanor charges of battery against a police officer and resisting arrest.
 
-### c_003 — reported, single source
-**Subject entities:** Janeek Mollique
-**Predicate:** observed
-**Object:** no Black people remaining in jury pool (observation)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Janeek Mollique
+- **Predicate:** observed
+- **Object:** no Black people remaining in jury pool (observation)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > After prospective jurors were excused for hardship, defense attorney Janeek Mollique observed that no Black people remained in the jury pool.
 
-### c_004 — attributed, single source
-**Subject entities:** Charles Denton
-**Predicate:** has_experience
-**Object:** nearly three decades (biographical)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Charles Denton
+- **Predicate:** has_experience
+- **Object:** nearly three decades (biographical)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > Assistant public defender Charles Denton has nearly three decades of courtroom experience.
 
-### c_005 — attributed, single source
-**Subject entities:** Charles Denton
-**Predicate:** cited
-**Object:** 2021 federal appeals court ruling on inherent authority (legal_citation)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Charles Denton
+- **Predicate:** cited
+- **Object:** 2021 federal appeals court ruling on inherent authority (legal_citation)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > Denton cited a 2021 federal appeals court ruling holding that courts have inherent authority to manage jury selection.
 
-### c_006 — attributed, single source
-**Subject entities:** James Logan
-**Predicate:** objected
-**Object:** request for new jury panel (legal_objection)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** James Logan
+- **Predicate:** objected
+- **Object:** request for new jury panel (legal_objection)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > Deputy District Attorney James Logan, who supervises the DA's misdemeanor trial team, objected to calling a new jury panel and argued the defense could appeal after a verdict.
 
-### c_007 — confirmed, single source
-**Subject entities:** Pelayo Llamas
-**Predicate:** ruled
-**Object:** denied request for new jury panel (judicial_ruling)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Pelayo Llamas
+- **Predicate:** ruled
+- **Object:** denied request for new jury panel (judicial_ruling)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > Judge Llamas sided with the prosecution and said he was not willing to assume that jurors who were not the same race as Route are going to be biased against her.
 
-### c_008 — attributed, single source
-**Subject entities:** Pelayo Llamas
-**Predicate:** said
-**Object:** troubled by refusal (judicial_statement)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Pelayo Llamas
+- **Predicate:** said
+- **Object:** troubled by refusal (judicial_statement)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > Llamas said he was troubled by Woods' refusal to proceed.
 
-### c_009 — confirmed, single source
-**Subject entities:** Brendon Woods
-**Predicate:** filed_motion
-**Object:** California Racial Justice Act motion (legal_filing)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Brendon Woods
+- **Predicate:** filed_motion
+- **Object:** California Racial Justice Act motion (legal_filing)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > Woods filed a motion under the California Racial Justice Act arguing the absence of Black jurors violated Route's right to a fair trial.
 
-### c_010 — confirmed, single source
-**Subject entities:** Pelayo Llamas
-**Predicate:** denied
-**Object:** Racial Justice Act motion (judicial_ruling)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Pelayo Llamas
+- **Predicate:** denied
+- **Object:** Racial Justice Act motion (judicial_ruling)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > Llamas denied the Racial Justice Act motion.
 
-### c_011 — confirmed, single source
-**Subject entities:** Pelayo Llamas
-**Predicate:** called_in
-**Object:** 56 supplemental prospective jurors (judicial_action)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_011
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Pelayo Llamas
+- **Predicate:** called_in
+- **Object:** 56 supplemental prospective jurors (judicial_action)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > As a compromise, Llamas called in a supplemental pool of 56 additional prospective jurors while keeping the existing panel in place.
 
-### c_012 — appears, single source
-**Predicate:** appeared_to_be_Black
-**Object:** four of 56 supplemental prospective jurors (estimate)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_012
+- **Hedge:** appears
+- **Corroboration:** single_source
+- **Predicate:** appeared_to_be_Black
+- **Object:** four of 56 supplemental prospective jurors (estimate)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > Of the supplemental pool of 56, four appeared to be Black, according to an estimate by The Oaklandside.
 
-### c_013 — reported, single source
-**Subject entities:** Pelayo Llamas
-**Predicate:** planned_procedure
-**Object:** original pool first in voir dire sequence (judicial_procedure)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_013
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Pelayo Llamas
+- **Predicate:** planned_procedure
+- **Object:** original pool first in voir dire sequence (judicial_procedure)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > The judge planned to begin voir dire with the original pool, turning to the supplemental group only if seats remained unfilled.
 
-### c_014 — confirmed, single source
-**Subject entities:** Brendon Woods; Janeek Mollique; Pelayo Llamas
-**Predicate:** requested_and_rejected
-**Object:** combined randomized pool (procedural_request)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_014
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Brendon Woods; Janeek Mollique; Pelayo Llamas
+- **Predicate:** requested_and_rejected
+- **Object:** combined randomized pool (procedural_request)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > The defense asked the judge to merge and randomize both juror pools to increase the odds of a Black juror being seated; the judge rejected the request.
 
-### c_015 — attributed, single source
-**Subject entities:** Brendon Woods
-**Predicate:** attributed_demographic
-**Object:** approximately 20% of Oakland residents are Black (demographic_statistic)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Brendon Woods
+- **Predicate:** attributed_demographic
+- **Object:** approximately 20% of Oakland residents are Black (demographic_statistic)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > Roughly one in five Oakland residents are Black, according to Woods.
 
-### c_016 — attributed, single source
-**Subject entities:** ACLU of Northern California
-**Predicate:** found
-**Object:** systemic underrepresentation of Black and Latino jurors (research_finding)
-**Temporal:** 2010-01-01
-**Source IDs:** src_001
+### c_016
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** ACLU of Northern California
+- **Predicate:** found
+- **Object:** systemic underrepresentation of Black and Latino jurors (research_finding)
+- **Temporal:** 2010-01-01
+- **Sources:** src_001
 
 > A 2010 ACLU of Northern California study found Alameda County suffers from systemic underrepresentation of African American and Latino jurors in its jury pools.
 
-### c_017 — attributed, single source
-**Subject entities:** ACLU of Northern California
-**Predicate:** found
-**Object:** 18% eligible vs 8% appearing (statistical_disparity)
-**Temporal:** 2010-01-01
-**Source IDs:** src_001
+### c_017
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** ACLU of Northern California
+- **Predicate:** found
+- **Object:** 18% eligible vs 8% appearing (statistical_disparity)
+- **Temporal:** 2010-01-01
+- **Sources:** src_001
 
 > The ACLU study found Black people made up 18% of the county's eligible jury pool but only 8% appeared for jury duty.
 
-### c_018 — attributed, single source
-**Subject entities:** UC Berkeley Law
-**Predicate:** found
-**Object:** wrongful exclusion of Black jurors ever-present in California jury selection (research_finding)
-**Temporal:** 2020-01-01
-**Source IDs:** src_001
+### c_018
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** UC Berkeley Law
+- **Predicate:** found
+- **Object:** wrongful exclusion of Black jurors ever-present in California jury selection (research_finding)
+- **Temporal:** 2020-01-01
+- **Sources:** src_001
 
 > A 2020 UC Berkeley Law report found wrongful exclusion of Black jurors is an ever-present feature of jury selection in California.
 
-### c_019 — attributed, single source
-**Predicate:** found
-**Object:** racially mixed juries make better decisions and are more legitimate (research_finding)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_019
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Predicate:** found
+- **Object:** racially mixed juries make better decisions and are more legitimate (research_finding)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > Studies have found racially mixed juries make better decisions and are viewed as more legitimate by the public.
 
-### c_020 — attributed, single source
-**Predicate:** found
-**Object:** all-white juries convict Black defendants at higher rates (research_finding)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_020
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Predicate:** found
+- **Object:** all-white juries convict Black defendants at higher rates (research_finding)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > All-white juries have been found to convict Black defendants at higher rates than juries with at least two people of color.
 
-### c_021 — confirmed, single source
-**Subject entities:** California
-**Predicate:** approved
-**Object:** juror pay pilot program, $12 to $100 per day (legislative_action)
-**Temporal:** 2022-01-01
-**Source IDs:** src_001
+### c_021
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** California
+- **Predicate:** approved
+- **Object:** juror pay pilot program, $12 to $100 per day (legislative_action)
+- **Temporal:** 2022-01-01
+- **Sources:** src_001
 
 > In 2022, California lawmakers approved a pilot program to increase juror pay from $12 to $100 per day and raise travel reimbursements.
 
-### c_022 — confirmed, single source
-**Subject entities:** Gavin Newsom
-**Predicate:** clawed_back
-**Object:** juror pay pilot program funding (executive_action)
-**Temporal:** 2025-01-01
-**Source IDs:** src_001
+### c_022
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Gavin Newsom
+- **Predicate:** clawed_back
+- **Object:** juror pay pilot program funding (executive_action)
+- **Temporal:** 2025-01-01
+- **Sources:** src_001
 
 > Gov. Gavin Newsom clawed back the pilot program's funding in 2025, pausing it indefinitely.
 
-### c_023 — attributed, single source
-**Subject entities:** Paul Rosynsky
-**Predicate:** stated
-**Object:** pilot program data not yet public (institutional_statement)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_023
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Paul Rosynsky
+- **Predicate:** stated
+- **Object:** pilot program data not yet public (institutional_statement)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > Demographic data from the six-month pilot program has not been released publicly.
 
-### c_024 — attributed, single source
-**Subject entities:** Charles Denton; Brendon Woods
-**Predicate:** noted
-**Object:** contempt of court risk for refusal to proceed (legal_explanation)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_024
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Charles Denton; Brendon Woods
+- **Predicate:** noted
+- **Object:** contempt of court risk for refusal to proceed (legal_explanation)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > Denton said that had Woods refused to proceed indefinitely, the judge could have held him in contempt of court, which carries the risk of jail time.
 
 ## Sources
 
-### src_001 — Associated Press / The Oaklandside, wire, Tier 1, originating
+### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Roselyn Romero
 **Publication date:** 2026-03-10
-**Access date:** 2026-03-10
 **Title:** Alameda County public defender challenges judge over lack of Black jurors
 **URL:** https://apnews.com/article/juries-general-news-brendon-woods-black-experience-trials-fd761228f0b3716fa3660e20b82e448e
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

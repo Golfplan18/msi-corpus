@@ -21,7 +21,7 @@ primary_themes:
 topic_tags:
   - "conflict, war and peace"
 storyline_nexus:
-  - iran-war
+- the-iran-war
 geographic_location: Dubai, UAE; Doha, Qatar; Middle East
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -259,7 +259,3 @@ Chen secured commercial tickets to Singapore at $2,200 per person, though her de
 **Access date:** 2026-03-04
 **Title:** Stranded travelers share their stories during Iran war
 **URL:** https://apnews.com/article/stranded-travelers-iran-war-middle-east-38cbb9babed49fad08949bba8aef3d50
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

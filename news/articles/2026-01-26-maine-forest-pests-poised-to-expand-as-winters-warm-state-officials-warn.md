@@ -18,43 +18,41 @@ primary_themes:
 - pest management
 - environmental challenges
 topic_tags:
-  - "climate change"
-  - environment
-  - health
+- climate change
+- environment
+- disease and condition
+- agriculture
 storyline_nexus:
-  - immigration-enforcement
-  - us-china-relations
-geographic_location: Maine, United States
+- extreme-weather-disasters
+geographic_location: United States
 floor_values_engaged:
-- value: human_life_and_dignity
-  intensity: 0.6
-- value: truthfulness
-  intensity: 0.9
 - value: informed_citizenship
-  intensity: 0.8
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+  intensity: 0.9
+- value: truthfulness
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:32:03Z'
 source_cluster_id: cluster_ap_2026-01-27_insects-maine-forest-pests-forests-botan
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 13
   hedges:
-    appears: 0
     alleged: 0
-    attributed: 3
     reported: 9
     contested: 0
+    attributed: 3
     confirmed: 1
+    appears: 0
   corroboration:
+    single_source: 13
+    primary_document: 0
+    two_independent: 0
     primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
-    primary_document: 0
-    single_source: 13
-    two_independent: 0
 sources:
   count: 1
   outlets:
@@ -68,17 +66,20 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-04-17-american-chestnut-seeks-return-from-extinction-through-breeding
-  relation: related
-  strength: 0.7362
-  confidence: medium
-- slug: 2026-04-16-kaua-i-volunteers-map-coconut-rhinoceros-beetle-spread-offer-model-for-hawai-i
-  relation: related
-  strength: 0.7271
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- The outlook for 6 forest pests and diseases in Maine
+- But Maine can’t count on those winter adelgid diebacks moving forward, Parisio said, meaning the adelgid could migrate further inland, away from the moderate coastal temperatures.
+- “We’re having more and more survivorship here in Maine, which, again, would increase its ability to move inland into other areas that it’s historically been kept out of by weather,” Parisio said.
+- Browntail moths had an especially steep decline over the past year — from a peak coverage area of 150,000 acres in 2022 to just under 5,000 acres in 2025.
+- “This is a very fast acting disease complex,” Parisio said. It can kill a stand of red pines “from the time of infestation, which you may not even be aware of visually, in just two years.”
+- Ash are a culturally, economically and ecologically important species in Maine. Wabanaki Nations have used brown ash bark to make baskets for centuries, while white ash is a valuable timber tree.
 
 Six major forest pests and diseases pose varying threats to Maine's trees — from the near-certain death of ash trees to the rapid spread of diseases that weaken hardwoods. The outlook reflects a broader challenge facing forests across the Northeast as climate change alters conditions that once naturally constrained pest populations.
 
@@ -130,124 +131,148 @@ The underlying driver linking all six pest and disease challenges is the same: a
 
 State forestry officials are banking on a combination of early detection, targeted biocontrol measures, and adaptive management. But they acknowledge that success ultimately depends on whether warming trends can be slowed — a challenge that extends far beyond Maine's borders.
 
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: [/methodology](/methodology). This work is released under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*
-
 ## Atomic claims
 
-### c_001 — reported, single source
-**Subject entities:** Maine Forest Service; Maine Agricultural Trades Show
-**Predicate:** presented_outlook
-**Object:** six forest pests and diseases (environmental_topic)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Maine Forest Service; Maine Agricultural Trades Show
+- **Predicate:** presented_outlook
+- **Object:** six forest pests and diseases (environmental_topic)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Maine Forest Service officials presented an outlook for six forest pests and diseases at the Maine Agricultural Trades Show on January 14, 2026.
 
-### c_002 — reported, single source
-**Subject entities:** deep freezes; control measures
-**Predicate:** reduced_populations
-**Object:** Maine forest pest populations (ecological_outcome)
-**Temporal:** 2024-2026
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** deep freezes; control measures
+- **Predicate:** reduced_populations
+- **Object:** Maine forest pest populations (ecological_outcome)
+- **Temporal:** 2024-2026
+- **Sources:** src_001
 
 > Deep freezes and control measures have reduced some Maine forest pest populations over the past two years.
 
-### c_003 — reported, single source
-**Subject entities:** climate change; drought; forest pests
-**Predicate:** threatens_expansion
-**Object:** pest range expansion (ecological_threat)
-**Temporal:** 2026-ongoing
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** climate change; drought; forest pests
+- **Predicate:** threatens_expansion
+- **Object:** pest range expansion (ecological_threat)
+- **Temporal:** 2026-ongoing
+- **Sources:** src_001
 
 > Warming winters from climate change and drought conditions threaten to allow forest pests to expand.
 
-### c_004 — attributed, single source
-**Subject entities:** hemlock woolly adelgid
-**Predicate:** population_slowed_by_cold
-**Object:** frost susceptibility (pest_biology)
-**Temporal:** 2024-2026
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** hemlock woolly adelgid
+- **Predicate:** population_slowed_by_cold
+- **Object:** frost susceptibility (pest_biology)
+- **Temporal:** 2024-2026
+- **Sources:** src_001
 
 > Hemlock woolly adelgid populations were slowed by cold winter temperatures due to the insect's susceptibility to frost.
 
-### c_005 — reported, single source
-**Subject entities:** hemlock woolly adelgid; predator beetles
-**Predicate:** contained_by_cold_and_biocontrol
-**Object:** couple of new towns (geographic_limitation)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** hemlock woolly adelgid; predator beetles
+- **Predicate:** contained_by_cold_and_biocontrol
+- **Object:** couple of new towns (geographic_limitation)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Hemlock woolly adelgid was found in only a couple of new towns in 2025 due to cold spells and predator-beetle release efforts.
 
-### c_006 — confirmed, single source
-**Subject entities:** browntail moth
-**Predicate:** coverage_declined
-**Object:** 150000 to 5000 acres (acreage_reduction)
-**Temporal:** 2022-2025
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** browntail moth
+- **Predicate:** coverage_declined
+- **Object:** 150000 to 5000 acres (acreage_reduction)
+- **Temporal:** 2022-2025
+- **Sources:** src_001
 
 > Browntail moth coverage declined from 150,000 acres in 2022 to just under 5,000 acres in 2025.
 
-### c_007 — reported, single source
-**Subject entities:** red pine scale
-**Predicate:** killing_trees
-**Object:** red pines (tree_species)
-**Temporal:** 2025-present
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** red pine scale
+- **Predicate:** killing_trees
+- **Object:** red pines (tree_species)
+- **Temporal:** 2025-present
+- **Sources:** src_001
 
 > Red pine scale is a small, pinhead-sized insect from Japan that is killing Maine's red pines.
 
-### c_008 — attributed, single source
-**Subject entities:** red pine scale
-**Predicate:** rapid_mortality
-**Object:** two years (timeframe)
-**Temporal:** 2025-present
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** red pine scale
+- **Predicate:** rapid_mortality
+- **Object:** two years (timeframe)
+- **Temporal:** 2025-present
+- **Sources:** src_001
 
 > Red pine scale can kill a stand of red pines in just two years from the time of infestation.
 
-### c_009 — reported, single source
-**Subject entities:** emerald ash borer
-**Predicate:** geographic_expansion
-**Object:** Somerset, Waldo, Hancock counties (counties)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** emerald ash borer
+- **Predicate:** geographic_expansion
+- **Object:** Somerset, Waldo, Hancock counties (counties)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Emerald ash borer migrated to three new counties in 2025: Somerset, Waldo, and Hancock.
 
-### c_010 — reported, single source
-**Subject entities:** emerald ash borer
-**Predicate:** mortality_timeline
-**Object:** within six years (timeframe)
-**Temporal:** 2025-present
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** emerald ash borer
+- **Predicate:** mortality_timeline
+- **Object:** within six years (timeframe)
+- **Temporal:** 2025-present
+- **Sources:** src_001
 
 > Emerald ash borer can kill a host ash tree within six years.
 
-### c_011 — reported, single source
-**Subject entities:** beech leaf disease
-**Predicate:** rapid_spread
-**Object:** five years (timeframe)
-**Temporal:** 2020-2025
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** beech leaf disease
+- **Predicate:** rapid_spread
+- **Object:** five years (timeframe)
+- **Temporal:** 2020-2025
+- **Sources:** src_001
 
 > Beech leaf disease engulfed and defoliated a vast number of Maine's beech trees in five years.
 
-### c_012 — reported, single source
-**Subject entities:** spruce budworm
-**Predicate:** range_expansion
-**Object:** Aroostook County, Maine (geographic_location)
-**Temporal:** 2025-2026
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** spruce budworm
+- **Predicate:** range_expansion
+- **Object:** Aroostook County, Maine (geographic_location)
+- **Temporal:** 2025-2026
+- **Sources:** src_001
 
 > Spruce budworm larvae recently jumped over the Canadian border into Maine after running rampant in the Adirondacks and Quebec.
 
-### c_013 — attributed, single source
-**Subject entities:** Mike Parisio; hemlock woolly adelgid
-**Predicate:** warned_about_expansion
-**Object:** inland migration risk (climate_impact)
-**Temporal:** 2026-ongoing
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Mike Parisio; hemlock woolly adelgid
+- **Predicate:** warned_about_expansion
+- **Object:** inland migration risk (climate_impact)
+- **Temporal:** 2026-ongoing
+- **Sources:** src_001
 
 > Mike Parisio said warmer winters will increase hemlock woolly adelgid survivorship and its ability to move inland.
 
@@ -256,10 +281,5 @@ State forestry officials are banking on a combination of early detection, target
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Emmett Gartner / The Maine Monitor
 **Publication date:** 2026-01-26
-**Access date:** 2026-01-26
 **Title:** The outlook for 6 forest pests and diseases in Maine
 **URL:** https://apnews.com/article/insects-maine-forest-pests-forests-botany-97ea6837229c2a817f165f247383fcac
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

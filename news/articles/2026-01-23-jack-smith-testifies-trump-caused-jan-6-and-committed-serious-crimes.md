@@ -22,7 +22,8 @@ topic_tags:
   - election
   - government
   - "government policy"
-storyline_nexus: []
+storyline_nexus:
+- trump-judicial-challenges
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
@@ -121,169 +122,203 @@ The hearing touched on Trump's recent decision to pardon approximately 1,500 peo
 
 Smith said he expects to testify before the Senate, which is planning additional hearings. However, he said he remains unable to discuss his separate investigation into Trump's handling of classified documents at his Mar-a-Lago home, a case that remains under court seal following an injunction by Trump-appointed U.S. District Judge Aileen Cannon.
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification at /methodology. Human review status: not_triggered.
-
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Jack Smith; Donald Trump
-**Predicate:** testified
-**Object:** Trump caused Jan. 6 and engaged in criminal scheme to overturn 2020 election (accusation)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jack Smith; Donald Trump
+- **Predicate:** testified
+- **Object:** Trump caused Jan. 6 and engaged in criminal scheme to overturn 2020 election (accusation)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Jack Smith testified Thursday before the House Judiciary Committee that Trump caused the Jan. 6 Capitol attack and engaged in a criminal scheme to overturn the 2020 election.
 
-### c_002 — attributed, single source
-**Subject entities:** Jack Smith; Donald Trump
-**Predicate:** said
-**Object:** sought to prey on supporters and looked for ways to stay in power (quotation)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jack Smith; Donald Trump
+- **Predicate:** said
+- **Object:** sought to prey on supporters and looked for ways to stay in power (quotation)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Smith said Trump 'sought to prey' on his supporters and 'looked for ways to stay in power.'
 
-### c_003 — confirmed, single source
-**Subject entities:** House Judiciary Committee
-**Predicate:** conducted
-**Object:** nearly five hours (duration)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** House Judiciary Committee
+- **Predicate:** conducted
+- **Object:** nearly five hours (duration)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > The hearing lasted nearly five hours.
 
-### c_004 — attributed, single source
-**Subject entities:** Donald Trump; Jack Smith
-**Predicate:** posted
-**Object:** Jack Smith is a deranged animal, who shouldn't be allowed to practice Law (quotation)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Jack Smith
+- **Predicate:** posted
+- **Object:** Jack Smith is a deranged animal, who shouldn't be allowed to practice Law (quotation)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Trump live-posted criticism of Smith during the hearing, stating "Jack Smith is a deranged animal, who shouldn't be allowed to practice Law."
 
-### c_005 — attributed, single source
-**Subject entities:** Jack Smith; Donald Trump
-**Predicate:** said
-**Object:** Trump committed serious crimes (statement)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jack Smith; Donald Trump
+- **Predicate:** said
+- **Object:** Trump committed serious crimes (statement)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Smith said his investigation revealed that Trump committed serious crimes.
 
-### c_006 — attributed, single source
-**Subject entities:** Jack Smith; Donald Trump
-**Predicate:** said
-**Object:** will not be intimidated by attacks (statement)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jack Smith; Donald Trump
+- **Predicate:** said
+- **Object:** will not be intimidated by attacks (statement)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Smith said he would not be intimidated by attacks from Trump.
 
-### c_007 — confirmed, single source
-**Subject entities:** Donald Trump; Jack Smith
-**Predicate:** abandoned
-**Object:** cases against Trump per DOJ protocol (action)
-**Temporal:** 2024-2026
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Jack Smith
+- **Predicate:** abandoned
+- **Object:** cases against Trump per DOJ protocol (action)
+- **Temporal:** 2024-2026
+- **Sources:** src_001
 
 > Trump won reelection in 2024, after which Smith abandoned his cases against Trump in accordance with Justice Department protocol against prosecuting a sitting president.
 
-### c_008 — reported, single source
-**Subject entities:** Cassidy Hutchinson; Donald Trump
-**Predicate:** testified
-**Object:** Trump lunged for steering wheel in presidential limousine (statement)
-**Temporal:** 2021
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Cassidy Hutchinson; Donald Trump
+- **Predicate:** testified
+- **Object:** Trump lunged for steering wheel in presidential limousine (statement)
+- **Temporal:** 2021
+- **Sources:** src_001
 
 > Cassidy Hutchinson, a former White House aide, testified to the Jan. 6 committee that Trump lunged for the steering wheel in the presidential limousine as he demanded to join supporters at the Capitol.
 
-### c_009 — attributed, single source
-**Subject entities:** Jack Smith; Cassidy Hutchinson
-**Predicate:** acknowledged
-**Object:** account was second-hand and Secret Service agent did not confirm (statement)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jack Smith; Cassidy Hutchinson
+- **Predicate:** acknowledged
+- **Object:** account was second-hand and Secret Service agent did not confirm (statement)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Smith acknowledged that Hutchinson's account was second-hand and that the Secret Service agent in the car did not confirm what happened.
 
-### c_010 — attributed, single source
-**Subject entities:** Jack Smith
-**Predicate:** said
-**Object:** had many witnesses including fellow Republicans (statement)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jack Smith
+- **Predicate:** said
+- **Object:** had many witnesses including fellow Republicans (statement)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Smith said investigators had many witnesses available, including fellow Republicans who had voted for and campaigned for Trump.
 
-### c_011 — attributed, single source
-**Subject entities:** Republicans; Jack Smith; Kevin McCarthy
-**Predicate:** challenged
-**Object:** collection of phone records from members of Congress (action)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Republicans; Jack Smith; Kevin McCarthy
+- **Predicate:** challenged
+- **Object:** collection of phone records from members of Congress (action)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Republicans challenged Smith's collection of phone toll records from members of Congress, including then-House Speaker Kevin McCarthy.
 
-### c_012 — attributed, single source
-**Subject entities:** Jack Smith
-**Predicate:** said
-**Object:** common practice to understand scope of conspiracy (statement)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jack Smith
+- **Predicate:** said
+- **Object:** common practice to understand scope of conspiracy (statement)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Smith said collecting phone records was a common practice to understand the scope of the conspiracy to overturn the 2020 election.
 
-### c_013 — attributed, single source
-**Subject entities:** Jack Smith
-**Predicate:** said
-**Object:** office did not spy on anyone (statement)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jack Smith
+- **Predicate:** said
+- **Object:** office did not spy on anyone (statement)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Smith said his office did not spy on anyone.
 
-### c_014 — attributed, single source
-**Subject entities:** Jack Smith; Donald Trump
-**Predicate:** said
-**Object:** sought NDAs due to witness intimidation and Trump's threats (statement)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jack Smith; Donald Trump
+- **Predicate:** said
+- **Object:** sought NDAs due to witness intimidation and Trump's threats (statement)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Smith said he sought nondisclosure agreements because of witness intimidation concerns, citing Trump's public comments that he would be coming after those who cross him.
 
-### c_015 — attributed, single source
-**Subject entities:** Jack Smith
-**Predicate:** said
-**Object:** failure to hold powerful to same standards threatens rule of law and democracy (statement)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jack Smith
+- **Predicate:** said
+- **Object:** failure to hold powerful to same standards threatens rule of law and democracy (statement)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Smith said if the nation does not hold the most powerful people to the same standards, the rule of law can be catastrophic and endanger the election process, election workers, and democracy.
 
-### c_016 — confirmed, single source
-**Subject entities:** Donald Trump
-**Predicate:** pardoned
-**Object:** approximately 1,500 people convicted in Jan. 6 attack (action)
-**Temporal:** 2024-2026
-**Source IDs:** src_001
+### c_016
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** pardoned
+- **Object:** approximately 1,500 people convicted in Jan. 6 attack (action)
+- **Temporal:** 2024-2026
+- **Sources:** src_001
 
 > Trump has pardoned approximately 1,500 people convicted in the Jan. 6 attack, including those who assaulted police officers.
 
-### c_017 — attributed, single source
-**Subject entities:** Jack Smith; Donald Trump
-**Predicate:** said
-**Object:** I don't get it. I never will. (quotation)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_017
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jack Smith; Donald Trump
+- **Predicate:** said
+- **Object:** I don't get it. I never will. (quotation)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > When asked about the pardons, Smith said 'I don't get it. I never will.'
 
-### c_018 — attributed, single source
-**Subject entities:** Jack Smith
-**Predicate:** said
-**Object:** would prosecute today; no one should be above the law (statement)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_018
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jack Smith
+- **Predicate:** said
+- **Object:** would prosecute today; no one should be above the law (statement)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Smith said if asked to prosecute a former president based on the same facts today, he would do so, and that no one should be above the law.
 
@@ -295,7 +330,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-05-18
 **Title:** Takeaways from Jack Smith's testimony on his case against Trump
 **URL:** https://apnews.com/article/jack-smith-trump-prosecution-testimony-congress-riot-31a32aa0f81f409b2830dd4d19eafe1d
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -223,7 +223,3 @@ Mendoni said official identification of the people shown in the photographs will
 **Access date:** 2026-03-05
 **Title:** Greece obtains Nazi execution images
 **URL:** https://apnews.com/article/greece-nazi-photos-executions-30d12428169099015af25ea5cef5adac
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

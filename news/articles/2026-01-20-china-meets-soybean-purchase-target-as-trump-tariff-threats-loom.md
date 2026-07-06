@@ -15,43 +15,40 @@ primary_themes:
 - agricultural commodities
 - trade policy uncertainty
 topic_tags:
-  - agriculture
-  - "economy, business and finance"
-  - "international trade"
-  - politics
+- international trade
+- agriculture
+- economy, business and finance
+- government policy
 storyline_nexus:
-  - us-china-relations
-  - davos-2026
-geographic_location: United States, China
+- trump-tariff-wars
+geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
-  intensity: 0.7
+  intensity: 0.9
 - value: informed_citizenship
-  intensity: 0.8
-- value: human_life_and_dignity
   intensity: 0.6
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:26:16Z'
 source_cluster_id: cluster_ap_2026-01-21_trump-china-soybeans-trade-war-tariffs-x
 gdelt_event_ids: []
-consensus_floor_version: 1.0.0
-publication_mindspec_version: 1.0.0
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 8
   hedges:
     appears: 0
-    alleged: 0
     attributed: 2
     reported: 6
+    alleged: 0
     contested: 0
     confirmed: 0
   corroboration:
-    primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
-    primary_document: 1
     single_source: 7
+    primary_document: 1
+    primary_plus_secondary: 0
     two_independent: 0
 sources:
   count: 1
@@ -66,17 +63,16 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-13-trump-s-iran-tariffs-threaten-us-china-trade-truce-could-raise-american-prices
-  relation: related
-  strength: 0.8191
-  confidence: medium
-- slug: 2026-01-13-trump-visits-dearborn-ford-plant-defends-tariffs-as-voters-worry-about-rising-pr
-  relation: related
-  strength: 0.7341
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- China has completed its initial commitment to purchase 12 million metric tons of U.S. soybeans, Treasury Secretary Scott Bessent announced Tuesday from the World Economic Forum in Davos, Switzerlan...
+- Trump's recent threats of 25% tariffs on countries buying Iranian goods and 10% tariffs on European allies jeopardize the broader agreement. Americ...
+- China placed additional orders for American soybeans as recently as this week, Bessent said, and "they did everything they said they were going to ...
 
 China has completed its initial commitment to purchase 12 million metric tons of U.S. soybeans, Treasury Secretary Scott Bessent announced Tuesday from the World Economic Forum in Davos, Switzerland. But the broader trade agreement—which requires China to buy 25 million tons annually over the next three years—faces uncertainty as President Donald Trump threatens to shift tariff policy.
 
@@ -110,79 +106,93 @@ China has shifted much of its soybean purchasing to Brazil and Argentina in rece
 
 The Trump administration is planning to distribute roughly $12 billion in aid to American farmers to help them weather trade disruptions. Soybean farmers will receive $30.88 per acre, corn farmers $44.36 per acre, and sorghum farmers—another crop affected by the earlier Chinese purchasing pause—$48.11 per acre, based on USDA production-cost calculations. Whether such aid addresses the deeper cost pressures farmers face remains uncertain given the market volatility surrounding trade policy.
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public source listed under `sources`. Specification: /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** China; United States
-**Predicate:** completed_purchase
-**Object:** 12 million metric tons of soybeans (commodity_transaction)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** China; United States
+- **Predicate:** completed_purchase
+- **Object:** 12 million metric tons of soybeans (commodity_transaction)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > China completed its initial commitment to purchase 12 million metric tons of U.S. soybeans.
 
-### c_002 — reported, single source
-**Subject entities:** China; United States
-**Predicate:** committed_to_purchase
-**Object:** 25 million metric tons annually for 3 years (trade_commitment)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** China; United States
+- **Predicate:** committed_to_purchase
+- **Object:** 25 million metric tons annually for 3 years (trade_commitment)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > The trade agreement requires China to buy 25 million metric tons of American soybeans annually for the next three years.
 
-### c_003 — reported, single source
-**Subject entities:** Donald Trump
-**Predicate:** threatened
-**Object:** 25% tariffs on Iran-purchasing countries (trade_policy)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** threatened
+- **Object:** 25% tariffs on Iran-purchasing countries (trade_policy)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Trump threatened 25% tariffs on countries that buy from Iran, which would include China.
 
-### c_004 — reported, single source
-**Subject entities:** Donald Trump
-**Predicate:** threatened
-**Object:** 10% tariffs on 8 European allies (trade_policy)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** threatened
+- **Object:** 10% tariffs on 8 European allies (trade_policy)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Trump threatened 10% tariffs on eight European allies if they oppose his Greenland acquisition efforts.
 
-### c_005 — attributed, single source
-**Subject entities:** Chad Hart
-**Predicate:** said
-**Object:** tariffs create ambiguity about agreement binding status (expert_assessment)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Chad Hart
+- **Predicate:** said
+- **Object:** tariffs create ambiguity about agreement binding status (expert_assessment)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > Chad Hart, Iowa State University agricultural economist, said shifting tariff policy creates ambiguity about whether the soybean agreement remains binding.
 
-### c_006 — reported, single source
-**Subject entities:** soybean market
-**Predicate:** price_movement
-**Object:** rose to $11.50, fell to $10.56 per bushel (commodity_price)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** soybean market
+- **Predicate:** price_movement
+- **Object:** rose to $11.50, fell to $10.56 per bushel (commodity_price)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > Soybean prices rose above $11.50 per bushel after the agreement was announced but fell to about $10.56 per bushel by January 20.
 
-### c_007 — reported, primary document
-**Subject entities:** Brazil; United States; China
-**Predicate:** market_share
-**Object:** Brazil 70%, U.S. 21% of China's imports (trade_statistic)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Brazil; United States; China
+- **Predicate:** market_share
+- **Object:** Brazil 70%, U.S. 21% of China's imports (trade_statistic)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Brazil accounts for more than 70% of China's soybean imports while the U.S. share is 21%.
 
-### c_008 — reported, single source
-**Subject entities:** Donald Trump; U.S. farmers
-**Predicate:** planned_aid
-**Object:** $12 billion aid; $30.88/acre for soybean farmers (fiscal_commitment)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; U.S. farmers
+- **Predicate:** planned_aid
+- **Object:** $12 billion aid; $30.88/acre for soybean farmers (fiscal_commitment)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Trump administration plans roughly $12 billion in aid to American farmers, with soybean farmers receiving $30.88 per acre.
 
@@ -191,10 +201,5 @@ This article was generated algorithmically by Main Street Independent's News Art
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Josh Funk
 **Publication date:** 2026-01-20
-**Access date:** 2026-01-20
 **Title:** China meets initial soybean purchase goal, but trade agreement faces uncertainty
 **URL:** https://apnews.com/article/trump-china-soybeans-trade-war-tariffs-xi-b973ce99802403b7c1759320c225a524
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

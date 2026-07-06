@@ -16,39 +16,42 @@ primary_themes:
 - autonomous weapons governance
 - AI ethics and national security
 topic_tags:
-  - "armed conflict"
-  - "conflict, war and peace"
+- artificial intelligence
+- armed conflict
+- conflict, war and peace
+- government
+- technology and engineering
 storyline_nexus:
-  - ai-regulation
+- ai-industry-regulation
 geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
+- value: human_life_and_dignity
   intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.85
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:43:28Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:39:31Z'
 source_cluster_id: cluster_ap_2026-03-07_ai-anthropic-pentagon-golden-dome-autono
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 10
   hedges:
     appears: 0
-    alleged: 0
     attributed: 8
+    alleged: 0
     reported: 2
-    contested: 0
     confirmed: 0
+    contested: 0
   corroboration:
     primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 0
-    single_source: 10
     two_independent: 0
+    single_source: 10
+    primary_document: 0
+    one_originating_plus_primary_document: 0
 sources:
   count: 1
   outlets:
@@ -65,6 +68,17 @@ figures_aggregate:
 cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Pentagon’s chief tech officer says he clashed with AI company Anthropic over autonomous warfare
+- Anthropic has vowed to sue over the designation, which affects its business partnerships with other military contractors.
+- Anthropic said it only sought to restrict its technology from being used for two high-level usages: mass surveillance of Americans or fully autonomous weapons.
+- Michael said the military is developing procedures for enabling different levels of autonomy in warfare depending on the risk posed.
+- In another scenario, he said, “who could oppose if you have a military base, you have a bunch of soldiers sleeping, that you have a laser that can take down drones autonomously?”
+- That’s when the Pentagon began insisting Anthropic and other AI companies allow for “all lawful use” of their technology, Michael said.
 
 The dispute lays bare a widening rift between AI companies that have written ethical constraints into their products and a Pentagon that wants unconditional access to commercial AI as the U.S. military accelerates autonomous systems development to compete with China.
 
@@ -114,93 +128,113 @@ As talks were collapsing last week, Michael had attacked Amodei on social media,
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** U.S. Department of Defense; Anthropic PBC
-**Predicate:** designated_supply_chain_risk
-**Object:** supply chain risk designation (administrative_action)
-**Temporal:** 2026-03-07
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Department of Defense; Anthropic PBC
+- **Predicate:** designated_supply_chain_risk
+- **Object:** supply chain risk designation (administrative_action)
+- **Temporal:** 2026-03-07
+- **Sources:** src_001
 
 > The Pentagon formally designated Anthropic a supply chain risk, cutting off its defense work.
 
-### c_002 — attributed, single source
-**Subject entities:** Anthropic PBC
-**Predicate:** announced_legal_action
-**Object:** lawsuit against supply chain designation (legal_action)
-**Temporal:** 2026-03-07
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Anthropic PBC
+- **Predicate:** announced_legal_action
+- **Object:** lawsuit against supply chain designation (legal_action)
+- **Temporal:** 2026-03-07
+- **Sources:** src_001
 
 > Anthropic vowed to sue over the supply chain risk designation.
 
-### c_003 — reported, single source
-**Subject entities:** Donald Trump; U.S. Department of Defense
-**Predicate:** ordered_phase_out
-**Object:** Claude chatbot (technology_product)
-**Temporal:** 2026-03-07
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; U.S. Department of Defense
+- **Predicate:** ordered_phase_out
+- **Object:** Claude chatbot (technology_product)
+- **Temporal:** 2026-03-07
+- **Sources:** src_001
 
 > Trump ordered federal agencies to immediately stop using Claude and gave the Pentagon six months to phase out the product.
 
-### c_004 — attributed, single source
-**Subject entities:** Emil Michael; Golden Dome
-**Predicate:** attributed_dispute_origin
-**Object:** Golden Dome missile defense program (military_program)
-**Temporal:** 2026-03-07
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Emil Michael; Golden Dome
+- **Predicate:** attributed_dispute_origin
+- **Object:** Golden Dome missile defense program (military_program)
+- **Temporal:** 2026-03-07
+- **Sources:** src_001
 
 > Defense Undersecretary Emil Michael said the dispute arose partly from debates over AI use in the Golden Dome missile defense program, which aims to place U.S. weapons in space.
 
-### c_005 — attributed, single source
-**Subject entities:** Anthropic PBC
-**Predicate:** sought_usage_restrictions
-**Object:** mass surveillance and autonomous weapons (usage_restriction)
-**Temporal:** 2026-03-07
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Anthropic PBC
+- **Predicate:** sought_usage_restrictions
+- **Object:** mass surveillance and autonomous weapons (usage_restriction)
+- **Temporal:** 2026-03-07
+- **Sources:** src_001
 
 > Anthropic sought to restrict Claude from two uses: mass surveillance of Americans and fully autonomous weapons.
 
-### c_006 — attributed, single source
-**Subject entities:** Alphabet, Inc.; OpenAI; xAI
-**Predicate:** agreed_to_terms
-**Object:** all lawful use terms (contractual_agreement)
-**Temporal:** 2026-03-07
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Alphabet, Inc.; OpenAI; xAI
+- **Predicate:** agreed_to_terms
+- **Object:** all lawful use terms (contractual_agreement)
+- **Temporal:** 2026-03-07
+- **Sources:** src_001
 
 > Google, OpenAI, and Elon Musk's xAI agreed to the Pentagon's all-lawful-use terms.
 
-### c_007 — attributed, single source
-**Subject entities:** Emil Michael; Anthropic PBC
-**Predicate:** described_negotiation_failure
-**Object:** three months of scenario negotiations (negotiation_process)
-**Temporal:** 2026-03-07
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Emil Michael; Anthropic PBC
+- **Predicate:** described_negotiation_failure
+- **Object:** three months of scenario negotiations (negotiation_process)
+- **Temporal:** 2026-03-07
+- **Sources:** src_001
 
 > Michael said three months of scenario-based talks with Anthropic failed to produce terms broad enough for military use.
 
-### c_008 — attributed, single source
-**Subject entities:** Anthropic PBC
-**Predicate:** disputed
-**Object:** Michael's account of negotiations (disputed_claim)
-**Temporal:** 2026-03-07
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Anthropic PBC
+- **Predicate:** disputed
+- **Object:** Michael's account of negotiations (disputed_claim)
+- **Temporal:** 2026-03-07
+- **Sources:** src_001
 
 > Anthropic disputed parts of Michael's account of the negotiations.
 
-### c_009 — attributed, single source
-**Subject entities:** Emil Michael
-**Predicate:** assumed_portfolio
-**Object:** military AI portfolio (administrative_role)
-**Temporal:** 2025-08
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Emil Michael
+- **Predicate:** assumed_portfolio
+- **Object:** military AI portfolio (administrative_role)
+- **Temporal:** 2025-08
+- **Sources:** src_001
 
 > Michael said he was sworn in last May and took over the military's AI portfolio in August, when he began scrutinizing Anthropic's contracts.
 
-### c_010 — reported, single source
-**Subject entities:** Anthropic PBC; U.S. Department of Defense
-**Predicate:** embedded_in
-**Object:** classified military systems including Iran war (technology_deployment)
-**Temporal:** 2026-03-07
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Anthropic PBC; U.S. Department of Defense
+- **Predicate:** embedded_in
+- **Object:** classified military systems including Iran war (technology_deployment)
+- **Temporal:** 2026-03-07
+- **Sources:** src_001
 
 > Claude is embedded in classified military systems, including those used in the Iran war.
 
@@ -209,10 +243,5 @@ As talks were collapsing last week, Michael had attacked Amodei on social media,
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Matt O'Brien
 **Publication date:** 2026-03-07
-**Access date:** 2026-03-07
 **Title:** AI technology debate: Pentagon and Anthropic at odds over weapon use
 **URL:** https://apnews.com/article/ai-anthropic-pentagon-golden-dome-autonomous-weapons-6f3c45ff46172c1bf8658dea0098f3fe
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

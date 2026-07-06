@@ -110,8 +110,6 @@ Anielle Franco, Marielle's sister and Brazil's racial equality minister, said th
 
 The Supreme Court session was adjourned until Wednesday morning, when judges are expected to rule.
 
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. Framework specification: /methodology.*
-
 ## Atomic claims
 
 ### c_001 — confirmed, primary document
@@ -284,7 +282,3 @@ The Supreme Court session was adjourned until Wednesday morning, when judges are
 **Access date:** 2026-02-24
 **Title:** Brazil's high court begins trial over the killing of Rio councilwoman Marielle Franco
 **URL:** https://apnews.com/article/brazil-marielle-franco-rio-slain-councilwoman-256f2b3cf208a38eff13c254fa31ab47
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

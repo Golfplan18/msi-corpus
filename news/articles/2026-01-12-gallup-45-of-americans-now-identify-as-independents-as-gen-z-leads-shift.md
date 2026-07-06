@@ -20,42 +20,41 @@ primary_themes:
 - political polarization
 - midterm elections 2026
 topic_tags:
-  - election
-  - "political process"
-  - politics
+- demographics
+- election
+- political process
+- politics
 storyline_nexus:
-  - trump-tariff-policy
-  - iran-war
-  - monetary-policy-2026
+- democratic-party-realignment
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship
-  intensity: 0.88
+  intensity: 0.6
 - value: accountability_of_power
-  intensity: 0.42
-framework_version: 1.1.0
-generation_timestamp: '2026-01-12T00:00:00Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:06:48Z'
 source_cluster_id: cluster_ap_2026-01-11_poll-independents-moderates-republicans-
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 10
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 10
-    reported: 0
-    contested: 0
     confirmed: 0
+    reported: 0
+    alleged: 0
+    appears: 0
+    attributed: 10
+    contested: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 0
-    single_source: 10
     two_independent: 0
+    single_source: 10
+    primary_document: 0
+    one_originating_plus_primary_document: 0
+    primary_plus_secondary: 0
 sources:
   count: 1
   outlets:
@@ -73,17 +72,18 @@ image:
   url: /articles/2026-01-12-gallup-45-of-americans-now-identify-as-independents-as-gen-z-leads-shift.png
   alt: 'Illustration accompanying article: Gallup: 45% of Americans now identify as independents as Gen Z leads shift'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-07-house-advances-aca-subsidy-extension-as-bipartisan-bloc-overrules-gop-leaders
-  relation: related
-  strength: 0.6726
-  confidence: medium
-- slug: 2026-01-08-house-passes-aca-subsidy-extension-230-196-as-17-republicans-defy-gop-leadership
-  relation: related
-  strength: 0.6551
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- The Gallup polling found that independents have tilted toward Democrats over the past year when asked which party they lean toward — 47% of U.S.
+- The findings highlight a structural tension heading into November's midterm elections: both parties must appeal to a swelling, increasingly moderate independent bloc while their own bases have grown more ideologically uniform and less tolerant of centrist positioning.
+- WASHINGTON — Nearly half of U.S.
+- The Democratic Party has regained a partisan edge among this growing bloc: 47% of U.S.
 
 The findings highlight a structural tension heading into November's midterm elections: both parties must appeal to a swelling, increasingly moderate independent bloc while their own bases have grown more ideologically uniform and less tolerant of centrist positioning.
 
@@ -119,93 +119,113 @@ The challenge for both parties heading into November's midterm elections, accord
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** U.S. adults
-**Predicate:** identify_as
-**Object:** independent (political_affiliation)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. adults
+- **Predicate:** identify_as
+- **Object:** independent (political_affiliation)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > 45% of U.S. adults now identify as political independents, according to a Gallup survey.
 
-### c_002 — attributed, single source
-**Subject entities:** U.S. adults
-**Predicate:** identified_as_historically
-**Object:** independent (political_affiliation)
-**Temporal:** ~2006
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. adults
+- **Predicate:** identified_as_historically
+- **Object:** independent (political_affiliation)
+- **Temporal:** ~2006
+- **Sources:** src_001
 
 > About one-third of Americans identified as independents approximately 20 years ago.
 
-### c_003 — attributed, single source
-**Subject entities:** Generation Z; Millennials
-**Predicate:** identify_as
-**Object:** independent (political_affiliation)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Generation Z; Millennials
+- **Predicate:** identify_as
+- **Object:** independent (political_affiliation)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > More than half of Generation Z and Millennial adults now identify as political independents.
 
-### c_004 — attributed, single source
-**Subject entities:** Generation Z
-**Predicate:** identify_as
-**Object:** independent (political_affiliation)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Generation Z
+- **Predicate:** identify_as
+- **Object:** independent (political_affiliation)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > 56% of Gen Z adults call themselves independents, according to Gallup.
 
-### c_005 — attributed, single source
-**Subject entities:** U.S. adults; Democratic Party; Republican Party
-**Predicate:** identify_with_or_lean_toward
-**Object:** 47% Dem / 42% Rep (party_lean)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. adults; Democratic Party; Republican Party
+- **Predicate:** identify_with_or_lean_toward
+- **Object:** 47% Dem / 42% Rep (party_lean)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > 47% of U.S. adults now identify as Democrats or lean toward the Democratic Party, while 42% are Republicans or lean Republican.
 
-### c_006 — attributed, single source
-**Subject entities:** Donald Trump; Democratic Party
-**Predicate:** approval_trend
-**Object:** declining / historically low (approval_rating)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Democratic Party
+- **Predicate:** approval_trend
+- **Object:** declining / historically low (approval_rating)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Trump's approval among independents has fallen steadily over the year, while Democrats' favorability remains historically low.
 
-### c_007 — attributed, single source
-**Subject entities:** independents; Democrats; Republicans
-**Predicate:** self-identify_ideology
-**Object:** moderate (ideological_self-identification)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** independents; Democrats; Republicans
+- **Predicate:** self-identify_ideology
+- **Object:** moderate (ideological_self-identification)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > About 47% of independents described their political views as 'moderate' in 2025, compared to about 3 in 10 Democrats and about 2 in 10 Republicans.
 
-### c_008 — attributed, single source
-**Subject entities:** Democrats; Republicans
-**Predicate:** self-identify_ideology
-**Object:** liberal/conservative polarization at highs (ideological_self-identification)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Democrats; Republicans
+- **Predicate:** self-identify_ideology
+- **Object:** liberal/conservative polarization at highs (ideological_self-identification)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > About 6 in 10 Democrats now call themselves liberal; among Republicans, 77% consider themselves conservative, and moderate identity is at a low point for both parties.
 
-### c_009 — attributed, single source
-**Subject entities:** Generation Z; Millennials; Generation X
-**Predicate:** generational_comparison
-**Object:** 56% / 47% / 40% (political_affiliation_trend)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Generation Z; Millennials; Generation X
+- **Predicate:** generational_comparison
+- **Object:** 56% / 47% / 40% (political_affiliation_trend)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Independent identity in Gen Z (56%) is higher than it was for Millennials in 2012 (47%) and Gen X in 1992 (40%), according to Gallup.
 
-### c_010 — attributed, single source
-**Subject entities:** Democratic Party; Republican Party
-**Predicate:** party_affiliation_shift
-**Object:** Democrats regain edge (partisan_lean)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Democratic Party; Republican Party
+- **Predicate:** party_affiliation_shift
+- **Object:** Democrats regain edge (partisan_lean)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Democrats reversed a three-year party affiliation advantage that Republicans held during the Biden presidency, returning to where Democrats stood during Trump's first term.
 
@@ -214,10 +234,5 @@ The challenge for both parties heading into November's midterm elections, accord
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Linley Sanders
 **Publication date:** 2026-01-12
-**Access date:** 2026-01-12
 **Title:** More Americans now identify as independents: Gallup polling
 **URL:** https://apnews.com/article/poll-independents-moderates-republicans-democrats-trump-ba353eb6807fd854f5b6e6de52d152fa
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

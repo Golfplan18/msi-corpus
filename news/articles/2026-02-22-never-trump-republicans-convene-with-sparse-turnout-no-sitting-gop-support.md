@@ -18,45 +18,43 @@ primary_themes:
 - 2026 midterm elections
 - Political movement
 topic_tags:
-  - politics
-  - election
-  - politics
-  - "government policy"
-  - "science and technology"
-  - "artificial intelligence"
+- political dissent
+- political process
+- politics
+- election
 storyline_nexus:
-  - us-administration-2026
-geographic_location: National Harbor, Maryland, United States
+- 2026-midterm-elections
+geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.85
-- value: truthfulness
-  intensity: 0.85
 - value: accountability_of_power
-  intensity: 0.7
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+  intensity: 0.9
+- value: truthfulness
+  intensity: 0.6
+- value: informed_citizenship
+  intensity: 0.3
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:54:44Z'
 source_cluster_id: cluster_ap_2026-02-23_never-trump-principles-first-midterms-ac
 gdelt_event_ids: []
-consensus_floor_version: '1.0'
-publication_mindspec_version: '1.0'
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 10
   hedges:
-    appears: 0
     alleged: 0
-    attributed: 6
-    reported: 2
     contested: 0
     confirmed: 2
+    attributed: 6
+    appears: 0
+    reported: 2
   corroboration:
     primary_plus_secondary: 0
+    two_independent: 0
+    single_source: 10
     one_originating_plus_primary_document: 0
     primary_document: 0
-    single_source: 10
-    two_independent: 0
 sources:
   count: 1
   outlets:
@@ -74,25 +72,10 @@ image:
   url: /articles/2026-02-22-never-trump-republicans-convene-with-sparse-turnout-no-sitting-gop-support.png
   alt: 'Illustration accompanying article: Never Trump Republicans convene with sparse turnout, no sitting GOP support'
   source: ai_generated
-cross_article_links:
-- slug: 2026-04-15-vance-faces-sparse-crowd-and-conservative-criticism-at-athens-turning-point-foru
-  relation: related
-  strength: 0.7765
-  confidence: medium
-- slug: 2026-04-15-vance-meets-sparse-athens-crowd-as-iran-war-trump-s-jesus-meme-draw-conservative
-  relation: related
-  strength: 0.7487
-  confidence: medium
-- slug: 2026-01-06-trump-addresses-house-gop-with-meandering-speech-as-majority-shrinks-to-new-low
-  relation: related
-  strength: 0.8186
-  confidence: medium
-- slug: 2026-01-09-gop-fractures-emerge-in-midterm-year-s-first-week-over-venezuela-greenland-healt
-  relation: related
-  strength: 0.7438
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
 
 Never Trump Republicans gathered outside Washington on Saturday and Sunday for their sixth annual summit, but the half-empty convention hall in National Harbor, Maryland and the absence of any sitting Republican officials signaled the movement's dwindling influence within the GOP. Attendees at the Principles First conference warned that President Trump and his allies are dismantling American democracy. Not a single current Republican elected official participated in the two-day event.
 
@@ -138,93 +121,113 @@ Brittany Martinez, executive director of Principles First, acknowledged leaving 
 
 ## Atomic claims
 
-### c_001 — confirmed, single source
-**Subject entities:** Never Trump Republicans; Principles First
-**Predicate:** held_summit
-**Object:** sixth annual Principles First summit in National Harbor, Maryland (event)
-**Temporal:** 2026-02-22
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Never Trump Republicans; Principles First
+- **Predicate:** held_summit
+- **Object:** sixth annual Principles First summit in National Harbor, Maryland (event)
+- **Temporal:** 2026-02-22
+- **Sources:** src_001
 
 > Never Trump Republicans held their sixth annual Principles First summit in National Harbor, Maryland on Saturday and Sunday, February 22–23, 2026.
 
-### c_002 — reported, single source
-**Subject entities:** Principles First summit convention hall
-**Predicate:** had_sparse_attendance
-**Object:** 750 chairs, many unfilled, approximately half-empty (attendance_measure)
-**Temporal:** 2026-02-22
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Principles First summit convention hall
+- **Predicate:** had_sparse_attendance
+- **Object:** 750 chairs, many unfilled, approximately half-empty (attendance_measure)
+- **Temporal:** 2026-02-22
+- **Sources:** src_001
 
 > Approximately 750 chairs were set up in the convention hall at the Principles First summit, but many remained empty.
 
-### c_003 — confirmed, single source
-**Subject entities:** current Republican elected officials; Principles First conference
-**Predicate:** did_not_participate
-**Object:** zero sitting GOP officials attended (participation)
-**Temporal:** 2026-02-22
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** current Republican elected officials; Principles First conference
+- **Predicate:** did_not_participate
+- **Object:** zero sitting GOP officials attended (participation)
+- **Temporal:** 2026-02-22
+- **Sources:** src_001
 
 > Not a single current Republican elected official participated in the two-day Principles First conference.
 
-### c_004 — attributed, single source
-**Subject entities:** Joe Walsh; Trump's party
-**Predicate:** characterized_as
-**Object:** authoritarian-embracing cult; threat to everything (characterization)
-**Temporal:** 2026-02-22
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Joe Walsh; Trump's party
+- **Predicate:** characterized_as
+- **Object:** authoritarian-embracing cult; threat to everything (characterization)
+- **Temporal:** 2026-02-22
+- **Sources:** src_001
 
 > Former Republican Rep. Joe Walsh characterized Trump's party as 'an authoritarian-embracing cult' and 'a threat to everything I love.'
 
-### c_005 — attributed, single source
-**Subject entities:** Mark Hertling; U.S. institutions
-**Predicate:** assessed_damage_to
-**Object:** institutions shaken, alliances strained, credibility damaged, values cast aside (institutional_assessment)
-**Temporal:** 2026-02-22
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Mark Hertling; U.S. institutions
+- **Predicate:** assessed_damage_to
+- **Object:** institutions shaken, alliances strained, credibility damaged, values cast aside (institutional_assessment)
+- **Temporal:** 2026-02-22
+- **Sources:** src_001
 
 > Retired Gen. Mark Hertling said U.S. institutions have been 'shaken,' alliances 'strained,' credibility 'damaged,' and values 'cast aside.'
 
-### c_006 — attributed, single source
-**Subject entities:** Bill Kristol; Trump; Republican congressional allies
-**Predicate:** characterized_as
-**Object:** existential threat to the nation (characterization)
-**Temporal:** 2026-02-22
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Bill Kristol; Trump; Republican congressional allies
+- **Predicate:** characterized_as
+- **Object:** existential threat to the nation (characterization)
+- **Temporal:** 2026-02-22
+- **Sources:** src_001
 
 > Bill Kristol described Trump and his Republican congressional allies as 'an existential threat' to the nation.
 
-### c_007 — attributed, single source
-**Subject entities:** Abigail Jackson; White House; summit participants
-**Predicate:** characterized_as
-**Object:** deranged has-been politicians (characterization)
-**Temporal:** 2026-02-22
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Abigail Jackson; White House; summit participants
+- **Predicate:** characterized_as
+- **Object:** deranged has-been politicians (characterization)
+- **Temporal:** 2026-02-22
+- **Sources:** src_001
 
 > White House spokesperson Abigail Jackson called summit participants 'a bunch of deranged has-been politicians.'
 
-### c_008 — attributed, single source
-**Subject entities:** Chris Christie; AP-NORC; Republicans
-**Predicate:** cited_polling
-**Object:** 1 in 4 Republicans disapprove Trump job performance (polling_data)
-**Temporal:** 2026-02-22
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Chris Christie; AP-NORC; Republicans
+- **Predicate:** cited_polling
+- **Object:** 1 in 4 Republicans disapprove Trump job performance (polling_data)
+- **Temporal:** 2026-02-22
+- **Sources:** src_001
 
 > Chris Christie cited AP-NORC polling showing that one in four Republicans nationwide do not approve of Trump's job performance.
 
-### c_009 — attributed, single source
-**Subject entities:** John McDowell; Never Trump movement
-**Predicate:** assessed_as
-**Object:** zero political clout within GOP (political_assessment)
-**Temporal:** 2026-02-22
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** John McDowell; Never Trump movement
+- **Predicate:** assessed_as
+- **Object:** zero political clout within GOP (political_assessment)
+- **Temporal:** 2026-02-22
+- **Sources:** src_001
 
 > John McDowell, a 69-year-old former lifelong Republican from San Carlos, California, said the Never Trump movement has virtually 'zero' political clout within the GOP.
 
-### c_010 — reported, single source
-**Subject entities:** Conor Lamb; Principles First summit
-**Predicate:** attended
-**Object:** one of few Democrats present (participation)
-**Temporal:** 2026-02-22
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Conor Lamb; Principles First summit
+- **Predicate:** attended
+- **Object:** one of few Democrats present (participation)
+- **Temporal:** 2026-02-22
+- **Sources:** src_001
 
 > Conor Lamb, a former congressman from Pennsylvania, was one of the only Democrats present at the Principles First summit.
 
@@ -233,10 +236,5 @@ Brittany Martinez, executive director of Principles First, acknowledged leaving 
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Steve Peoples
 **Publication date:** 2026-02-22
-**Access date:** 2026-02-22
 **Title:** Never Trump Republicans are still issuing dire warnings
 **URL:** https://apnews.com/article/never-trump-principles-first-midterms-ac53503464f9ce05a8de678cc4d89737
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

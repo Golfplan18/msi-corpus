@@ -18,44 +18,44 @@ primary_themes:
 - Iran war
 - military casualties
 topic_tags:
-  - "armed conflict"
-  - "arts, culture, entertainment and media"
-  - "conflict, war and peace"
-  - "mass media"
+- mass media
+- armed conflict
+- government
+- politics
+- conflict, war and peace
 storyline_nexus:
-  - iran-war
-  - us-administration-2026
+- the-iran-war
 geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.85
 - value: accountability_of_power
-  intensity: 0.75
-- value: truthfulness
-  intensity: 0.65
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:46:42Z'
+  intensity: 0.9
+- value: informed_citizenship
+  intensity: 0.9
+- value: human_life_and_dignity
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:57:06Z'
 source_cluster_id: cluster_ap_2026-03-05_us-casualties-iran-war-media-hegseth-0da
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 10
   hedges:
+    contested: 0
     appears: 0
     alleged: 0
     attributed: 9
-    reported: 1
-    contested: 0
     confirmed: 0
+    reported: 1
   corroboration:
+    two_independent: 0
+    single_source: 10
     primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
     primary_document: 0
-    single_source: 10
-    two_independent: 0
 sources:
   count: 1
   outlets:
@@ -69,13 +69,17 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-06-rubio-credits-media-for-holding-venezuela-strike-story-despite-pentagon-press-re
-  relation: related
-  strength: 0.817
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- Defense Secretary Pete Hegseth accused the American press of reporting U.S. military deaths in the Iran war to damage President Donald Tr…
+- "When a few drones get through or tragic things happen, it's front-page news," Hegseth said. "I get it. The press only wants to make the …
+- The episode revisits a tension that has recurred across American military history — between government efforts to manage public perceptio…
+- White House press secretary Karoline Leavitt defended the characterization when CNN's Kaitlan Collins questioned her about it at her own …
 
 Defense Secretary Pete Hegseth accused the American press of reporting U.S. military deaths in the Iran war to damage President Donald Trump's standing, remarks that drew swift rebuttals from journalists who said casualty coverage has been standard practice under administrations of both parties. Hegseth made the comments at a Pentagon briefing while addressing the deaths of six U.S. Army reservists killed in an Iranian attack on an operations center in Kuwait.
 
@@ -127,93 +131,113 @@ Naftali framed the broader stakes plainly.
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Pete Hegseth
-**Predicate:** stated
-**Object:** accusation against press over casualty coverage (public_statement)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Pete Hegseth
+- **Predicate:** stated
+- **Object:** accusation against press over casualty coverage (public_statement)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > Defense Secretary Pete Hegseth said at a Pentagon briefing that the press 'only wants to make the president look bad' by emphasizing U.S. casualties in the Iran war.
 
-### c_002 — attributed, single source
-**Subject entities:** United States; Iran
-**Predicate:** killed
-**Object:** six U.S. Army reservists (casualty_count)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** United States; Iran
+- **Predicate:** killed
+- **Object:** six U.S. Army reservists (casualty_count)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > Six U.S. Army reservists were killed in an Iranian attack on an operations center in Kuwait.
 
-### c_003 — attributed, single source
-**Subject entities:** Karoline Leavitt
-**Predicate:** stated
-**Object:** defense of Hegseth's remarks on press coverage (public_statement)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Karoline Leavitt
+- **Predicate:** stated
+- **Object:** defense of Hegseth's remarks on press coverage (public_statement)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > White House press secretary Karoline Leavitt defended Hegseth's characterization when questioned by CNN's Kaitlan Collins at her own news conference.
 
-### c_004 — attributed, single source
-**Subject entities:** U.S. Department of Defense; Barack Obama
-**Predicate:** banned_then_lifted
-**Object:** coffin repatriation coverage ban (policy)
-**Temporal:** 1991/2009
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Department of Defense; Barack Obama
+- **Predicate:** banned_then_lifted
+- **Object:** coffin repatriation coverage ban (policy)
+- **Temporal:** 1991/2009
+- **Sources:** src_001
 
 > The Pentagon banned news coverage of repatriation ceremonies for fallen service members during the Gulf War in 1991; President Barack Obama lifted the ban in 2009.
 
-### c_005 — attributed, single source
-**Subject entities:** Jake Tapper
-**Predicate:** stated
-**Object:** criticism of Hegseth's characterization of press (public_statement)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jake Tapper
+- **Predicate:** stated
+- **Object:** criticism of Hegseth's characterization of press (public_statement)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > CNN's Jake Tapper called Hegseth's statement 'a warped way of looking at the world' and 'Ahistorical.'
 
-### c_006 — reported, single source
-**Subject entities:** Frederik Pleitgen; CNN
-**Predicate:** entered
-**Object:** Iran (location)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Frederik Pleitgen; CNN
+- **Predicate:** entered
+- **Object:** Iran (location)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > A CNN team led by correspondent Frederik Pleitgen became the first journalists from a U.S.-based television network to enter Iran during the conflict.
 
-### c_007 — attributed, single source
-**Subject entities:** Timothy Naftali
-**Predicate:** stated
-**Object:** historical pattern of presidential war-information management (expert_assessment)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Timothy Naftali
+- **Predicate:** stated
+- **Object:** historical pattern of presidential war-information management (expert_assessment)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > Timothy Naftali, senior research scholar at Columbia University's School of International and Public Affairs, said many presidents have tried to keep the realities of war out of Americans' living rooms.
 
-### c_008 — attributed, single source
-**Subject entities:** Dan Lamothe
-**Predicate:** stated
-**Object:** commitment to continuing casualty coverage (public_statement)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Dan Lamothe
+- **Predicate:** stated
+- **Object:** commitment to continuing casualty coverage (public_statement)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > Dan Lamothe, military affairs reporter for The Washington Post, said on social media that Hegseth's comments would not stop him from continuing to cover wartime casualties.
 
-### c_009 — attributed, single source
-**Subject entities:** Robert H. Reid
-**Predicate:** stated
-**Object:** audience preference for humanized casualty reporting (expert_observation)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Robert H. Reid
+- **Predicate:** stated
+- **Object:** audience preference for humanized casualty reporting (expert_observation)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > Robert H. Reid served as a top editor at Stars and Stripes from 2014 to 2025 and said service members in that publication's audience wanted detailed accounts of the lives of fallen troops, not raw casualty numbers.
 
-### c_010 — attributed, single source
-**Subject entities:** Jessica Donati
-**Predicate:** wrote
-**Object:** comparison of embed access for Taliban vs U.S. military (published_observation)
-**Temporal:** 2021
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jessica Donati
+- **Predicate:** wrote
+- **Object:** comparison of embed access for Taliban vs U.S. military (published_observation)
+- **Temporal:** 2021
+- **Sources:** src_001
 
 > Jessica Donati, a reporter for The Wall Street Journal and Reuters who covered Afghanistan, wrote in 2021 that 'it's easier these days for journalists in Afghanistan to embed with the Taliban than with the U.S. military.'
 
@@ -222,10 +246,5 @@ Naftali framed the broader stakes plainly.
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** David Bauder
 **Publication date:** 2026-03-06
-**Access date:** 2026-05-17
 **Title:** Criticism of media coverage of US casualties has long history
 **URL:** https://apnews.com/article/us-casualties-iran-war-media-hegseth-0dadc8789fc20487e360e4668356e9dc
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

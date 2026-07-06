@@ -18,46 +18,44 @@ primary_themes:
 - Protest crackdowns
 - Regional security
 topic_tags:
-  - "civil unrest"
-  - "conflict, war and peace"
-  - government
-  - "international relations"
-  - "political dissent"
-  - "science and technology"
+- armed conflict
+- conflict, war and peace
+- international military intervention
+- international relations
+- government policy
 storyline_nexus:
-  - iran-war
-  - us-administration-2026
-geographic_location: Middle East
+- the-iran-war
+geographic_location: United States
 floor_values_engaged:
-- value: accountability_of_power
-  intensity: 0.8
-- value: human_life_and_dignity
-  intensity: 0.7
 - value: informed_citizenship
+  intensity: 0.9
+- value: accountability_of_power
   intensity: 0.6
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+- value: human_life_and_dignity
+  intensity: 0.3
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:31:09Z'
 source_cluster_id: cluster_ap_2026-01-27_aircraft-carrier-iran-protests-us-milita
 gdelt_event_ids: []
-consensus_floor_version: v2.0
-publication_mindspec_version: v3.1
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 19
   hedges:
-    appears: 0
     alleged: 0
-    attributed: 7
-    reported: 3
-    contested: 0
+    appears: 0
     confirmed: 9
+    reported: 3
+    attributed: 7
+    contested: 0
   corroboration:
-    primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
-    primary_document: 13
-    single_source: 6
     two_independent: 0
+    primary_plus_secondary: 0
+    single_source: 6
+    primary_document: 13
 sources:
   count: 1
   outlets:
@@ -71,33 +69,20 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-04-20-us-seizes-iranian-cargo-ship-near-strait-of-hormuz-iran-threatens-response
-  relation: related
-  strength: 0.8183
-  confidence: medium
-- slug: 2026-04-19-us-seizes-iranian-cargo-ship-as-ceasefire-falters-and-talks-hang-in-doubt
-  relation: related
-  strength: 0.7995
-  confidence: medium
-- slug: 2026-04-18-iran-announces-hormuz-reopening-as-blockade-standoff-continues
-  relation: related
-  strength: 0.7986
-  confidence: medium
-- slug: 2026-04-16-us-military-expands-iran-blockade-worldwide-targeting-ships-carrying-oil-metals-
-  relation: related
-  strength: 0.7944
-  confidence: medium
-- slug: 2026-04-18-iran-closes-strait-of-hormuz-fires-on-ships-over-us-blockade
-  relation: related
-  strength: 0.7892
-  confidence: medium
-- slug: 2026-01-11-israel-monitors-iranian-protests-as-analysts-see-little-appetite-for-new-war
-  relation: related
-  strength: 0.8032
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- US aircraft carrier arrives in the Middle East as tensions with Iran remain high
+- US aircraft carrier arrives in the Middle East as tensions with Iran remain high
+- The carrier, along with three destroyers, “is currently deployed to the Middle East to promote regional security and stability,” U.S. Central Command said Monday on social media.
+- Trump told reporters last week that the ships were sent to the region “just in case.” “We have a massive fleet heading in that direction, and maybe we won’t have to use it,” he said.
+- In addition to the aircraft carrier and its hardware, the U.S. military said the Air Force F-15E Strike Eagle fighter jet now has a presence in the region.
+- Analysts who follow flight-tracking data have noticed dozens of U.S. military cargo planes also heading to the region.
 
 The carrier's deployment signals an expanded U.S. military footprint in a region already on high alert, reflecting an administration whose approach to Iran swings between military threats and claims of diplomatic progress.
 
@@ -131,174 +116,212 @@ The aircraft carrier's arrival and expanded military presence underscore an admi
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** USS Abraham Lincoln
-**Predicate:** arrived_in_region
-**Object:** Middle East (geographic_location)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** USS Abraham Lincoln
+- **Predicate:** arrived_in_region
+- **Object:** Middle East (geographic_location)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > The USS Abraham Lincoln aircraft carrier and three accompanying destroyers arrived in the Middle East.
 
-### c_002 — attributed, primary document
-**Subject entities:** U.S. Central Command
-**Predicate:** stated_deployment_purpose
-**Object:** promote regional security and stability (stated_objective)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Central Command
+- **Predicate:** stated_deployment_purpose
+- **Object:** promote regional security and stability (stated_objective)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > U.S. Central Command said the strike group is deployed to promote regional security and stability.
 
-### c_003 — confirmed, primary document
-**Subject entities:** strike group
-**Predicate:** was_located_in
-**Object:** Indian Ocean (geographic_location)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** strike group
+- **Predicate:** was_located_in
+- **Object:** Indian Ocean (geographic_location)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > The strike group was in the Indian Ocean before deployment and not in the Arabian Sea.
 
-### c_004 — confirmed, primary document
-**Subject entities:** U.S. military
-**Predicate:** deploying_personnel
-**Object:** thousands of service members (personnel_count)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. military
+- **Predicate:** deploying_personnel
+- **Object:** thousands of service members (personnel_count)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > The deployment brings thousands of additional U.S. service members to the Middle East region.
 
-### c_005 — confirmed, primary document
-**Subject entities:** USS Gerald R. Ford; Middle East
-**Predicate:** was_redeployed_from
-**Object:** Caribbean Sea (geographic_location)
-**Temporal:** 2025-10
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** USS Gerald R. Ford; Middle East
+- **Predicate:** was_redeployed_from
+- **Object:** Caribbean Sea (geographic_location)
+- **Temporal:** 2025-10
+- **Sources:** src_001
 
 > The region has had no U.S. aircraft carrier since October 2025, when USS Gerald R. Ford was redeployed to the Caribbean.
 
-### c_006 — attributed, primary document
-**Subject entities:** Donald Trump
-**Predicate:** characterized_deployment
-**Object:** sent just in case (quoted_statement)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Donald Trump
+- **Predicate:** characterized_deployment
+- **Object:** sent just in case (quoted_statement)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > Trump said the ships were sent 'just in case.'
 
-### c_007 — attributed, primary document
-**Subject entities:** Donald Trump; Iran government
-**Predicate:** threatened_with_condition
-**Object:** military action in response to executions or killings (conditional_threat)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Donald Trump; Iran government
+- **Predicate:** threatened_with_condition
+- **Object:** military action in response to executions or killings (conditional_threat)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Trump threatened military action if Iran carried out mass executions of prisoners or killed peaceful demonstrators during its crackdown beginning in late December 2025.
 
-### c_008 — reported, single source
-**Subject entities:** Iran government
-**Predicate:** killed_in_crackdown
-**Object:** 5,973 (death_count)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Iran government
+- **Predicate:** killed_in_crackdown
+- **Object:** 5,973 (death_count)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > At least 5,973 people have been killed in Iran's crackdown on protests, according to activists.
 
-### c_009 — reported, single source
-**Subject entities:** Iran government
-**Predicate:** detained_in_crackdown
-**Object:** 41,800+ (detainee_count)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Iran government
+- **Predicate:** detained_in_crackdown
+- **Object:** 41,800+ (detainee_count)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > More than 41,800 people have been detained in Iran's crackdown, according to activists.
 
-### c_010 — attributed, single source
-**Subject entities:** Iran government
-**Predicate:** reported_official_toll
-**Object:** 3,117 (death_count)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Iran government
+- **Predicate:** reported_official_toll
+- **Object:** 3,117 (death_count)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > Iran's official death toll from the crackdown is 3,117 dead.
 
-### c_011 — attributed, single source
-**Subject entities:** Donald Trump
-**Predicate:** claimed
-**Object:** Iran halted hangings of 800 detained protesters (claim_about_actions)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** claimed
+- **Object:** Iran halted hangings of 800 detained protesters (claim_about_actions)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > Trump claimed Iran halted the planned hangings of 800 detained protesters.
 
-### c_012 — attributed, single source
-**Subject entities:** Iran government
-**Predicate:** disputed_claim
-**Object:** completely false (dispute_characterization)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Iran government
+- **Predicate:** disputed_claim
+- **Object:** completely false (dispute_characterization)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > Iran's top prosecutor called Trump's claim about halted hangings 'completely false.'
 
-### c_013 — attributed, primary document
-**Subject entities:** Donald Trump
-**Predicate:** characterized_scale
-**Object:** would make 2025 nuclear strikes look like peanuts (quoted_comparison)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Donald Trump
+- **Predicate:** characterized_scale
+- **Object:** would make 2025 nuclear strikes look like peanuts (quoted_comparison)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > Trump said any military action against Iran would make last year's U.S. strikes on Iranian nuclear sites 'look like peanuts.'
 
-### c_014 — confirmed, primary document
-**Subject entities:** USS Abraham Lincoln
-**Predicate:** carries_aircraft
-**Object:** F-35 Lightning II and F/A-18 Super Hornet fighter jets (military_hardware)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_014
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** USS Abraham Lincoln
+- **Predicate:** carries_aircraft
+- **Object:** F-35 Lightning II and F/A-18 Super Hornet fighter jets (military_hardware)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > The USS Abraham Lincoln hosts multiple squadrons of aircraft, including F-35 Lightning II and F/A-18 Super Hornet fighter jets.
 
-### c_015 — confirmed, primary document
-**Subject entities:** destroyers
-**Predicate:** carry_missiles
-**Object:** hundreds of missiles including Tomahawk cruise missiles (military_hardware)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_015
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** destroyers
+- **Predicate:** carry_missiles
+- **Object:** hundreds of missiles including Tomahawk cruise missiles (military_hardware)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > The accompanying destroyers carry hundreds of missiles including Tomahawk land attack cruise missiles.
 
-### c_016 — confirmed, primary document
-**Subject entities:** U.S. Air Force
-**Predicate:** deployed_aircraft
-**Object:** F-15E Strike Eagle fighter jets (military_hardware)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_016
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Air Force
+- **Predicate:** deployed_aircraft
+- **Object:** F-15E Strike Eagle fighter jets (military_hardware)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > The U.S. Air Force now has F-15E Strike Eagle fighter jets in the Middle East region.
 
-### c_017 — reported, single source
-**Subject entities:** U.S. military
-**Predicate:** moving_cargo_planes
-**Object:** dozens of military cargo planes (military_movement)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_017
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** U.S. military
+- **Predicate:** moving_cargo_planes
+- **Object:** dozens of military cargo planes (military_movement)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > Analysts tracking flight data have documented dozens of U.S. military cargo planes moving toward the region.
 
-### c_018 — confirmed, primary document
-**Subject entities:** United States; Iran
-**Predicate:** moved_air_defense
-**Object:** Patriot missile systems (military_hardware)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_018
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** United States; Iran
+- **Predicate:** moved_air_defense
+- **Object:** Patriot missile systems (military_hardware)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > In 2025, the U.S. moved air defense hardware including Patriot missile systems to the region in anticipation of an Iranian counterattack following U.S. bombing of Iranian nuclear sites.
 
-### c_019 — confirmed, primary document
-**Subject entities:** Iran
-**Predicate:** launched_missile_strike
-**Object:** over a dozen missiles at Al Udeid Air Base (military_action)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_019
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Iran
+- **Predicate:** launched_missile_strike
+- **Object:** over a dozen missiles at Al Udeid Air Base (military_action)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Iran launched over a dozen missiles at Al Udeid Air Base days after the 2025 U.S. strikes on Iranian nuclear sites.
 
@@ -307,10 +330,5 @@ The aircraft carrier's arrival and expanded military presence underscore an admi
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Konstantin Toropin
 **Publication date:** 2026-01-26
-**Access date:** 2026-01-26
 **Title:** US aircraft carrier arrives in Middle East
 **URL:** https://apnews.com/article/aircraft-carrier-iran-protests-us-military-58e6da912f9167df94f913d7dafe5af4
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -282,7 +282,3 @@ Kobayashi said she understands that rebuilding takes time.
 **Access date:** 2026-03-10
 **Title:** Regular radiation surveys are part of revitalization efforts in Fukushima
 **URL:** https://apnews.com/article/japan-fukushima-earthquake-tsunami-nuclear-radiation-c3fd16050902c0b82b0a9d5bd1408022
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

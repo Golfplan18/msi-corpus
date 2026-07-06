@@ -12,43 +12,37 @@ primary_themes:
 - death
 - professional community
 topic_tags:
-  - crime
-  - "crime, law and justice"
-  - "government policy"
-  - "human migration"
-  - "international relations"
-  - "law enforcement"
+- crime
+- health
+- family
+- human interest
 storyline_nexus:
-  - ai-regulation
-geographic_location: Annandale, Virginia, USA
+- congressional-ethics-misconduct
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
-  intensity: 0.95
-- value: truthfulness
   intensity: 0.9
-- value: informed_citizenship
-  intensity: 0.6
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T12:00:00Z'
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T01:04:20Z'
 source_cluster_id: cluster_ap_2026-04-18_virginia-justin-cerina-fairfax-death-802
 gdelt_event_ids: []
-consensus_floor_version: 1.0.0
-publication_mindspec_version: 1.0.0
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 8
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 0
-    reported: 3
     contested: 0
+    appears: 0
     confirmed: 5
+    alleged: 0
+    reported: 3
+    attributed: 0
   corroboration:
     primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 6
+    one_originating_plus_primary_document: 0
     single_source: 2
     two_independent: 0
 sources:
@@ -64,37 +58,12 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-04-17-navy-reservist-returned-to-u-s-after-fleeing-to-hong-kong-in-wife-s-freezer-deat
-  relation: related
-  strength: 0.7229
-  confidence: medium
-- slug: 2026-01-06-ex-husband-charged-with-premeditated-murder-in-slayings-of-columbus-dentist-wife
-  relation: related
-  strength: 0.8296
-  confidence: medium
-- slug: 2026-01-10-ex-husband-charged-with-murder-in-shooting-deaths-of-ohio-couple
-  relation: related
-  strength: 0.8064
-  confidence: medium
-- slug: 2026-01-12-chicago-doctor-waives-extradition-in-killing-of-ex-wife-husband-in-columbus
-  relation: related
-  strength: 0.7675
-  confidence: medium
-- slug: 2026-01-12-barry-morphew-pleads-not-guilty-to-murder-in-wife-suzanne-s-death-for-second-tim
-  relation: related
-  strength: 0.7504
-  confidence: medium
-- slug: 2025-12-31-california-farmer-pleads-not-guilty-in-arizona-wife-s-shooting-death
-  relation: related
-  strength: 0.7644
-  confidence: medium
-- slug: 2025-12-31-california-farmer-pleads-not-guilty-to-killing-estranged-wife-in-arizona
-  relation: related
-  strength: 0.764
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
 
 Patients and colleagues in Virginia's dental community are mourning Dr. Cerina Fairfax, a 49-year-old dentist police say was killed by her estranged husband in their Annandale home early Thursday. Police believe former Virginia Lt. Gov. Justin Fairfax fatally shot his wife before killing himself.
 
@@ -146,75 +115,91 @@ Justin Fairfax served as Virginia's lieutenant governor from 2017 to 2022. He ra
 
 ## Atomic claims
 
-### c_001 — reported, single source
-**Subject entities:** Dr. Cerina Fairfax; Justin Fairfax
-**Predicate:** killed_by
-**Object:** shooting (cause_of_death)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Dr. Cerina Fairfax; Justin Fairfax
+- **Predicate:** killed_by
+- **Object:** shooting (cause_of_death)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > Dr. Cerina Fairfax was killed by her estranged husband Justin Fairfax in their Annandale home early Thursday.
 
-### c_002 — reported, single source
-**Subject entities:** Justin Fairfax
-**Predicate:** killed_himself
-**Object:** self-inflicted gunshot (cause_of_death)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Justin Fairfax
+- **Predicate:** killed_himself
+- **Object:** self-inflicted gunshot (cause_of_death)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > Justin Fairfax killed himself after killing his wife, police believe.
 
-### c_003 — confirmed, primary document
-**Subject entities:** Dr. Cerina Fairfax
-**Predicate:** operated
-**Object:** family dentistry practice (professional_activity)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Dr. Cerina Fairfax
+- **Predicate:** operated
+- **Object:** family dentistry practice (professional_activity)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Dr. Cerina Fairfax, 49, ran a thriving family dentistry practice in Fairfax, Virginia.
 
-### c_004 — confirmed, primary document
-**Subject entities:** Dr. Cerina Fairfax; Virginia Commonwealth School of Dentistry
-**Predicate:** recognized
-**Object:** Outstanding Graduate of the Last Decade (professional_honor)
-**Temporal:** 2015
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Dr. Cerina Fairfax; Virginia Commonwealth School of Dentistry
+- **Predicate:** recognized
+- **Object:** Outstanding Graduate of the Last Decade (professional_honor)
+- **Temporal:** 2015
+- **Sources:** src_001
 
 > In 2015, Fairfax was recognized as the Outstanding Graduate of the Last Decade by the Virginia Commonwealth School of Dentistry.
 
-### c_005 — confirmed, primary document
-**Subject entities:** Dr. Cerina Fairfax; Justin Fairfax; Duke University
-**Predicate:** married
-**Object:** 2006 (marriage_date)
-**Temporal:** 2006
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Dr. Cerina Fairfax; Justin Fairfax; Duke University
+- **Predicate:** married
+- **Object:** 2006 (marriage_date)
+- **Temporal:** 2006
+- **Sources:** src_001
 
 > Fairfax and Justin Fairfax met as undergraduates at Duke University and married in 2006.
 
-### c_006 — reported, primary document
-**Subject entities:** Dr. Cerina Fairfax; Justin Fairfax
-**Predicate:** separated
-**Object:** approximately 2 years prior (separation_duration)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Dr. Cerina Fairfax; Justin Fairfax
+- **Predicate:** separated
+- **Object:** approximately 2 years prior (separation_duration)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > The couple was going through a divorce and had separated nearly two years ago.
 
-### c_007 — confirmed, primary document
-**Subject entities:** Justin Fairfax; Judge Timothy McEvoy
-**Predicate:** ordered
-**Object:** move out by end of April (court_order)
-**Temporal:** 2026-03-30
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Justin Fairfax; Judge Timothy McEvoy
+- **Predicate:** ordered
+- **Object:** move out by end of April (court_order)
+- **Temporal:** 2026-03-30
+- **Sources:** src_001
 
 > A judge ordered Justin Fairfax to move out of the house by the end of April.
 
-### c_008 — confirmed, primary document
-**Subject entities:** Justin Fairfax
-**Predicate:** served_as
-**Object:** Virginia lieutenant governor (political_office)
-**Temporal:** 2017-2022
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Justin Fairfax
+- **Predicate:** served_as
+- **Object:** Virginia lieutenant governor (political_office)
+- **Temporal:** 2017-2022
+- **Sources:** src_001
 
 > Justin Fairfax served as Virginia's lieutenant governor from 2017 to 2022.
 
@@ -223,10 +208,5 @@ Justin Fairfax served as Virginia's lieutenant governor from 2017 to 2022. He ra
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Brian Witte
 **Publication date:** 2026-04-17
-**Access date:** 2026-05-17
 **Title:** Dr. Cerina Fairfax is mourned after she was killed by her husband
 **URL:** https://apnews.com/article/virginia-justin-cerina-fairfax-death-802965d14f3dffa70b1974cfa8d78a17
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

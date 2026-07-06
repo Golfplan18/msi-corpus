@@ -163,7 +163,3 @@ It was not immediately clear whether Balla has legal representation.
 **Access date:** 2026-05-17
 **Title:** Mexico arrests suspected European drug trafficker
 **URL:** https://apnews.com/article/mexico-hungary-drug-trafficking-arrest-fugitive-c383715b9f6dff3e708e154584cfa57d
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

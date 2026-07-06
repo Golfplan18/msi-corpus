@@ -93,8 +93,6 @@ The Friday incident is one of several targeting Jewish and Iranian community sit
 
 Police said Saturday they are not currently treating the attacks as terrorism. Yet Counter Terrorism Policing London is leading the investigation because of the pattern of similarities, authorities said. Investigators are examining whether Iran is involved, particularly given the United Kingdom's previous accusations that Iran uses criminal proxies to conduct attacks on European soil targeting opposition media outlets and the Jewish community. Britain's MI5 domestic intelligence service says more than 20 potentially lethal Iran-backed plots were disrupted in the year to October.
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
 ### c_001 — attributed, single source
@@ -230,7 +228,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-05-17
 **Title:** UK police investigate arson attempt at building once used by Jewish community
 **URL:** https://apnews.com/article/uk-arson-attack-jewish-community-london-f95bc286ec7cf46863ae2e629ab9b994
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

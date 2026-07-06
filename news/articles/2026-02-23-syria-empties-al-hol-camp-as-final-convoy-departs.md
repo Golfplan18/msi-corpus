@@ -19,7 +19,8 @@ topic_tags:
   - "law enforcement"
   - religion
   - "belief systems"
-storyline_nexus: []
+storyline_nexus:
+- syria-post-conflict-integration
 geographic_location: northeastern Syria
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -113,10 +114,6 @@ The evacuation has exposed friction in the international repatriation effort. Sy
 A Syrian government official who spoke on condition of anonymity attributed the issue to "the lack of prior coordination with the Syrian government" by the SDF and families before attempting to send them to Damascus. The official said that "whether they will be allowed (to return) will depend on the Australian government."
 
 The fate of the Roj camp, which remains under SDF control, is uncertain. Most of its residents are foreigners whose countries have largely refused to take them back.
-
----
-
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not triggered. License: Creative Commons Zero (CC0).
 
 ## Atomic claims
 
@@ -299,7 +296,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-02-22
 **Title:** A notorious camp in Syria tied to alleged IS families is emptied as final convoy departs
 **URL:** https://apnews.com/article/syria-camp-alhol-islamic-state-emptied-6527081227b4aec678b58355a3c8c3b3
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

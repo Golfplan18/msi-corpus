@@ -20,7 +20,7 @@ topic_tags:
   - "armed conflict"
   - "conflict, war and peace"
 storyline_nexus:
-  - trump-fed-independence
+- syria-post-conflict-integration
 geographic_location: Anbar Province, Iraq
 floor_values_engaged:
 - value: informed_citizenship
@@ -89,75 +89,91 @@ Al-Sudani said in a July interview with the Associated Press that once the coali
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** United States military; Ain al-Assad air base
-**Predicate:** withdrew_from
-**Object:** Ain al-Assad air base (location)
-**Temporal:** 2026-01-17
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** United States military; Ain al-Assad air base
+- **Predicate:** withdrew_from
+- **Object:** Ain al-Assad air base (location)
+- **Temporal:** 2026-01-17
+- **Sources:** src_001
 
 > U.S. forces fully withdrew from the Ain al-Assad air base in western Iraq.
 
-### c_002 — confirmed, single source
-**Subject entities:** United States government; Iraq government
-**Predicate:** agreed_to
-**Object:** wind down coalition by September 2025 (agreement)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** United States government; Iraq government
+- **Predicate:** agreed_to
+- **Object:** wind down coalition by September 2025 (agreement)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > Washington and Baghdad agreed in 2024 to wind down the U.S.-led coalition fighting the Islamic State group in Iraq by September 2025.
 
-### c_003 — attributed, single source
-**Subject entities:** Mohammed Shia al-Sudani; Ain al-Assad air base
-**Predicate:** stated
-**Object:** 250-350 personnel retained due to Syria developments (statement)
-**Temporal:** 2025-10
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Mohammed Shia al-Sudani; Ain al-Assad air base
+- **Predicate:** stated
+- **Object:** 250-350 personnel retained due to Syria developments (statement)
+- **Temporal:** 2025-10
+- **Sources:** src_001
 
 > Iraqi Prime Minister Mohammed Shia al-Sudani said in October that developments in Syria required maintaining a small unit of between 250 and 350 advisers and security personnel at the base beyond the September deadline.
 
-### c_004 — confirmed, primary document
-**Subject entities:** Abdul Amir Rashid Yarallah; Ain al-Assad air base
-**Predicate:** oversaw
-**Object:** assignment of tasks to military units at base (military_action)
-**Temporal:** 2026-01-17
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Abdul Amir Rashid Yarallah; Ain al-Assad air base
+- **Predicate:** oversaw
+- **Object:** assignment of tasks to military units at base (military_action)
+- **Temporal:** 2026-01-17
+- **Sources:** src_001
 
 > Iraqi Army Chief of Staff Lt. Gen. Abdul Amir Rashid Yarallah oversaw the assignment of tasks and duties to military units at the base on Saturday following the withdrawal.
 
-### c_005 — reported, single source
-**Subject entities:** Iraq Ministry of Defense
-**Predicate:** confirmed
-**Object:** full U.S. departure of personnel and equipment (confirmation)
-**Temporal:** 2026-01-17
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Iraq Ministry of Defense
+- **Predicate:** confirmed
+- **Object:** full U.S. departure of personnel and equipment (confirmation)
+- **Temporal:** 2026-01-17
+- **Sources:** src_001
 
 > A Ministry of Defense official confirmed that all U.S. forces and all American equipment had departed the base.
 
-### c_006 — confirmed, single source
-**Subject entities:** United States military
-**Predicate:** issued_no_statement
-**Object:** no U.S. military comment on withdrawal (absence_of_action)
-**Temporal:** 2026-01-17
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** United States military
+- **Predicate:** issued_no_statement
+- **Object:** no U.S. military comment on withdrawal (absence_of_action)
+- **Temporal:** 2026-01-17
+- **Sources:** src_001
 
 > The U.S. military issued no statement on the withdrawal.
 
-### c_007 — confirmed, single source
-**Subject entities:** United States military; Kurdish region; Syria
-**Predicate:** retained_presence_in
-**Object:** Kurdish region of Iraq and Syria (location)
-**Temporal:** 2026-01-17
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** United States military; Kurdish region; Syria
+- **Predicate:** retained_presence_in
+- **Object:** Kurdish region of Iraq and Syria (location)
+- **Temporal:** 2026-01-17
+- **Sources:** src_001
 
 > U.S. forces retained a presence in the semi-autonomous Kurdish region in northern Iraq and in neighboring Syria.
 
-### c_008 — attributed, single source
-**Subject entities:** Mohammed Shia al-Sudani
-**Predicate:** stated
-**Object:** no justification for armed groups after withdrawal (statement)
-**Temporal:** 2025-07
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Mohammed Shia al-Sudani
+- **Predicate:** stated
+- **Object:** no justification for armed groups after withdrawal (statement)
+- **Temporal:** 2025-07
+- **Sources:** src_001
 
 > Al-Sudani said in a July interview with the Associated Press that once the coalition withdrawal is complete, there will be no need or no justification for any group to carry weapons outside the scope of the state.
 
@@ -169,7 +185,3 @@ Al-Sudani said in a July interview with the Associated Press that once the coali
 **Access date:** 2026-01-18
 **Title:** Iraqi army fully takes over key base following US withdrawal
 **URL:** https://apnews.com/article/iraq-us-ain-assad-troops-withdraw-coalition-3da685f80b49fe2c33a430958e36f771
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

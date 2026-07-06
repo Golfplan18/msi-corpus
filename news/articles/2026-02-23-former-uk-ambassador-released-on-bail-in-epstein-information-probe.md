@@ -23,7 +23,7 @@ topic_tags:
   - politics
   - "international relations"
 storyline_nexus:
-  - epstein-investigation
+- epstein-investigation-fallout
 geographic_location: United Kingdom
 floor_values_engaged:
 - value: truthfulness
@@ -392,7 +392,3 @@ Mandelson twice resigned from government during the Blair administration over al
 **Access date:** 2026-02-23
 **Title:** Former UK ambassador Peter Mandelson released on bail
 **URL:** https://apnews.com/article/police-arrest-peter-mandelson-epstein-bc1cbabe40687e09d0f145a75f6a77e2
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

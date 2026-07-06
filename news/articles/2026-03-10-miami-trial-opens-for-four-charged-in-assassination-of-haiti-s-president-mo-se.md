@@ -20,45 +20,41 @@ primary_themes:
 - transnational conspiracy
 - South Florida
 topic_tags:
-  - "artificial intelligence"
-  - crime
-  - "crime, law and justice"
-  - government
-  - "government policy"
-  - politics
+- crime
+- crime, law and justice
+- trial
+- prosecution
 storyline_nexus:
-  - ai-regulation
-geographic_location: Miami, Florida, United States; Haiti
+- haiti-gang-crisis
+geographic_location: United States
 floor_values_engaged:
-- value: accountability_of_power
-  intensity: 0.9
 - value: human_life_and_dignity
-  intensity: 0.85
-- value: informed_citizenship
-  intensity: 0.8
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:44:34Z'
+  intensity: 0.9
+- value: accountability_of_power
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T01:06:07Z'
 source_cluster_id: cluster_ap_2026-03-09_haiti-president-moise-assassinated-trial
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 16
   hedges:
-    appears: 0
-    alleged: 0
     attributed: 6
     reported: 0
-    contested: 0
+    appears: 0
+    alleged: 0
     confirmed: 10
+    contested: 0
   corroboration:
+    single_source: 0
     primary_plus_secondary: 0
+    two_independent: 1
     one_originating_plus_primary_document: 0
     primary_document: 15
-    single_source: 0
-    two_independent: 1
 sources:
   count: 1
   outlets:
@@ -72,13 +68,19 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-13-costa-rica-probes-alleged-plot-to-assassinate-president-chaves-ahead-of-election
-  relation: related
-  strength: 0.789
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Trial opens for 4 charged in assassination of Haiti's president
+- Opening statements began Tuesday in Miami for Arcangel Pretel Ortiz, Antonio Intriago, Walter Veintemilla and James Solages, charged with conspiring in South Florida to kidnap or kill Haiti's former president.
+- Assistant U.S. Attorney Sean McLaughlin told the jury the defendants wanted to seize power and get rich.
+- Jovenel Moïse was killed on July 7, 2021, when about two dozen foreign mercenaries, mostly from Colombia, attacked his home near Port-au-Prince.
+- South Florida was a central location for planning and financing the plot to oust Moïse, according to court documents.
 
 Federal prosecutors and defense attorneys in Miami delivered opening statements Tuesday in the trial of four men accused of conspiring in South Florida to kidnap or kill Haitian President Jovenel Moïse, who was killed at his home near Port-au-Prince on July 7, 2021. Assistant U.S. Attorney Sean McLaughlin told the jury the case was not complicated: the defendants wanted to seize power and get rich.
 
@@ -134,144 +136,176 @@ Seventeen Colombian soldiers and three Haitian officials face charges in Haiti, 
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Arcangel Pretel Ortiz; Antonio Intriago; Walter Veintemilla; James Solages
-**Predicate:** trial_opened
-**Object:** Miami federal court, opening statements (legal_proceeding)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Arcangel Pretel Ortiz; Antonio Intriago; Walter Veintemilla; James Solages
+- **Predicate:** trial_opened
+- **Object:** Miami federal court, opening statements (legal_proceeding)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > Opening statements began Tuesday in Miami for Arcangel Pretel Ortiz, Antonio Intriago, Walter Veintemilla and James Solages, charged with conspiring in South Florida to kidnap or kill Haiti's former president.
 
-### c_002 — attributed, primary document
-**Subject entities:** Sean McLaughlin
-**Predicate:** stated
-**Object:** defendants motivated by greed and desire for power (prosecution_argument)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Sean McLaughlin
+- **Predicate:** stated
+- **Object:** defendants motivated by greed and desire for power (prosecution_argument)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > Assistant U.S. Attorney Sean McLaughlin told the jury the defendants wanted to seize power and get rich.
 
-### c_003 — confirmed, two independent
-**Subject entities:** Jovenel Moïse
-**Predicate:** killed
-**Object:** home near Port-au-Prince; attacked by approximately two dozen mercenaries (event)
-**Temporal:** 2021-07-07
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** two_independent
+- **Subject entities:** Jovenel Moïse
+- **Predicate:** killed
+- **Object:** home near Port-au-Prince; attacked by approximately two dozen mercenaries (event)
+- **Temporal:** 2021-07-07
+- **Sources:** src_001
 
 > Jovenel Moïse was killed on July 7, 2021, when about two dozen foreign mercenaries, mostly from Colombia, attacked his home near Port-au-Prince.
 
-### c_004 — attributed, primary document
-**Subject entities:** South Florida
-**Predicate:** served_as
-**Object:** central planning and financing location for the plot (role)
-**Temporal:** 2021
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** South Florida
+- **Predicate:** served_as
+- **Object:** central planning and financing location for the plot (role)
+- **Temporal:** 2021
+- **Sources:** src_001
 
 > South Florida was a central location for planning and financing the plot to oust Moïse, according to court documents.
 
-### c_005 — confirmed, primary document
-**Subject entities:** Arcangel Pretel Ortiz; Antonio Intriago
-**Predicate:** were_principals_of
-**Object:** CTU (Counter Terrorist Unit Federal Academy and Counter Terrorist Unit Security) (organization)
-**Temporal:** 2021
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Arcangel Pretel Ortiz; Antonio Intriago
+- **Predicate:** were_principals_of
+- **Object:** CTU (Counter Terrorist Unit Federal Academy and Counter Terrorist Unit Security) (organization)
+- **Temporal:** 2021
+- **Sources:** src_001
 
 > Ortiz and Intriago were principals of Counter Terrorist Unit Federal Academy and Counter Terrorist Unit Security, collectively known as CTU, based in South Florida.
 
-### c_006 — confirmed, primary document
-**Subject entities:** Walter Veintemilla
-**Predicate:** was_principal_of
-**Object:** Worldwide Capital Lending Group (organization)
-**Temporal:** 2021
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Walter Veintemilla
+- **Predicate:** was_principal_of
+- **Object:** Worldwide Capital Lending Group (organization)
+- **Temporal:** 2021
+- **Sources:** src_001
 
 > Veintemilla was a principal of Worldwide Capital Lending Group, also based in South Florida.
 
-### c_007 — attributed, primary document
-**Subject entities:** Worldwide Capital Lending Group; CTU
-**Predicate:** financed
-**Object:** $175,000 line of credit to CTU; additional funds to Haiti for ammunition (financial_transaction)
-**Temporal:** 2021
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Worldwide Capital Lending Group; CTU
+- **Predicate:** financed
+- **Object:** $175,000 line of credit to CTU; additional funds to Haiti for ammunition (financial_transaction)
+- **Temporal:** 2021
+- **Sources:** src_001
 
 > Worldwide Capital extended a $175,000 line of credit to CTU and sent money to co-conspirators in Haiti to purchase ammunition, officials said.
 
-### c_008 — attributed, primary document
-**Subject entities:** Christian Sanon; CTU
-**Predicate:** agreed
-**Object:** Sanon to award contracts to CTU upon assuming power (agreement)
-**Temporal:** 2021-04
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Christian Sanon; CTU
+- **Predicate:** agreed
+- **Object:** Sanon to award contracts to CTU upon assuming power (agreement)
+- **Temporal:** 2021-04
+- **Sources:** src_001
 
 > Conspirators met in South Florida in April 2021 and agreed that, once in power, Christian Sanon would award contracts to CTU for infrastructure projects, security forces and military equipment.
 
-### c_009 — attributed, primary document
-**Subject entities:** Christian Sanon; Wendelle Coq Thélot
-**Predicate:** shifted_backing
-**Object:** from Sanon to Thélot by June 2021 (change_of_plan)
-**Temporal:** 2021-06
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Christian Sanon; Wendelle Coq Thélot
+- **Predicate:** shifted_backing
+- **Object:** from Sanon to Thélot by June 2021 (change_of_plan)
+- **Temporal:** 2021-06
+- **Sources:** src_001
 
 > By June 2021, the conspirators determined that Sanon lacked the constitutional qualifications and popular support to become president and shifted backing to Wendelle Coq Thélot, a former Haitian Superior Court judge.
 
-### c_010 — confirmed, primary document
-**Subject entities:** Wendelle Coq Thélot
-**Predicate:** died
-**Object:** January 2025, as a fugitive (event)
-**Temporal:** 2025-01
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Wendelle Coq Thélot
+- **Predicate:** died
+- **Object:** January 2025, as a fugitive (event)
+- **Temporal:** 2025-01
+- **Sources:** src_001
 
 > Wendelle Coq Thélot died in January 2025 while still a fugitive.
 
-### c_011 — confirmed, primary document
-**Subject entities:** Arcangel Pretel Ortiz; Antonio Intriago; Walter Veintemilla; James Solages
-**Predicate:** pleaded
-**Object:** not guilty; face possible life sentences (plea_and_exposure)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_011
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Arcangel Pretel Ortiz; Antonio Intriago; Walter Veintemilla; James Solages
+- **Predicate:** pleaded
+- **Object:** not guilty; face possible life sentences (plea_and_exposure)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > All four defendants face possible life sentences and have pleaded not guilty.
 
-### c_012 — confirmed, primary document
-**Subject entities:** Martine Moïse
-**Predicate:** testified
-**Object:** approximately one hour; scheduled to return Wednesday (witness_testimony)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_012
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Martine Moïse
+- **Predicate:** testified
+- **Object:** approximately one hour; scheduled to return Wednesday (witness_testimony)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > Martine Moïse, who was wounded during the July 2021 attack, testified for about an hour before court recessed and is set to return Wednesday.
 
-### c_013 — confirmed, primary document
-**Subject entities:** Jacqueline Becerra
-**Predicate:** scheduled
-**Object:** more than two months for trial (scheduling)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_013
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Jacqueline Becerra
+- **Predicate:** scheduled
+- **Object:** more than two months for trial (scheduling)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > U.S. District Judge Jacqueline Becerra has scheduled more than two months for the trial.
 
-### c_014 — confirmed, primary document
-**Predicate:** convicted
-**Object:** five serving life sentences; one serving nine years for body armor (prior_convictions)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_014
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Predicate:** convicted
+- **Object:** five serving life sentences; one serving nine years for body armor (prior_convictions)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > Five others previously pleaded guilty to conspiracy charges in the U.S. and are serving life sentences; a sixth was sentenced to nine years for providing body armor to the conspirators.
 
-### c_015 — attributed, primary document
-**Predicate:** argued
-**Object:** investigation flawed; clients manipulated (defense_argument)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Predicate:** argued
+- **Object:** investigation flawed; clients manipulated (defense_argument)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > Defense attorneys argued the investigation launched in Haiti was flawed and that their clients were manipulated into taking blame for an internal coup.
 
-### c_016 — confirmed, primary document
-**Predicate:** face_charges
-**Object:** Haiti; investigation stalled by gang violence, death threats and judicial dysfunction (parallel_proceedings)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_016
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Predicate:** face_charges
+- **Object:** Haiti; investigation stalled by gang violence, death threats and judicial dysfunction (parallel_proceedings)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > Seventeen Colombian soldiers and three Haitian officials face charges in Haiti, where gang violence, death threats and a crumbling judicial system have stalled the investigation.
 
@@ -280,10 +314,5 @@ Seventeen Colombian soldiers and three Haitian officials face charges in Haiti, 
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** David Fischer
 **Publication date:** 2026-03-10
-**Access date:** 2026-03-10
 **Title:** Trial opens for 4 charged in assassination of Haiti's president
 **URL:** https://apnews.com/article/haiti-president-moise-assassinated-trial-miami-15459520aa42390d587c25ff1cf1847e
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

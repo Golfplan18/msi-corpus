@@ -15,41 +15,40 @@ primary_themes:
 - environmental governance
 - U.S. foreign policy
 topic_tags:
-  - environment
-  - "climate change"
-  - politics
-  - government
-  - "international relations"
-  - weather
-storyline_nexus: []
-geographic_location: Washington, D.C. / International
+- climate change
+- environment
+- government policy
+- international relations
+storyline_nexus:
+- trump-climate-energy-rollbacks
+geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.85
+  intensity: 0.9
 - value: human_life_and_dignity
-  intensity: 0.8
-framework_version: 1.1.0
-generation_timestamp: '2026-01-08T00:00:00Z'
+  intensity: 0.6
+- value: informed_citizenship
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T04:25:44Z'
 source_cluster_id: cluster_ap_2026-01-07_trump-climate-change-united-nations-trea
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 18
   hedges:
-    appears: 0
-    alleged: 0
     attributed: 13
-    reported: 0
+    appears: 0
     contested: 0
     confirmed: 5
+    alleged: 0
+    reported: 0
   corroboration:
-    primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
+    primary_plus_secondary: 0
     primary_document: 7
     single_source: 9
     two_independent: 2
@@ -70,25 +69,15 @@ image:
   url: /articles/2026-01-08-trump-pulls-u-s-from-un-climate-framework-experts-warn-of-global-damage.png
   alt: 'Illustration accompanying article: Trump pulls U.S. from UN climate framework, experts warn of global damage'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-07-trump-white-house-rescinds-nepa-regulations-to-speed-energy-project-approvals
-  relation: related
-  strength: 0.7479
-  confidence: medium
-- slug: 2025-12-30-zeldin-s-epa-cuts-enforcement-and-staff-as-fossil-fuel-friendly-pivot-takes-hold
-  relation: related
-  strength: 0.7926
-  confidence: medium
-- slug: 2025-12-30-trump-s-epa-cuts-pollution-rules-and-staff-in-fossil-fuel-pivot
-  relation: related
-  strength: 0.7842
-  confidence: medium
-- slug: 2025-12-29-2025-ranks-among-the-three-hottest-years-on-record-researchers-say
-  relation: related
-  strength: 0.7551
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Unknown...
 
 The Trump administration on Wednesday began the process of withdrawing the United States from the United Nations Framework Convention on Climate Change, the principal body through which nations negotiate, monitor, and enforce agreements to limit global warming. Secretary of State Marco Rubio announced the move, which also included simultaneous withdrawals from a U.N. climate science panel, a biodiversity initiative, the Green Climate Fund, and several other international environmental collaborations. Climate experts said the action goes further than Trump's earlier withdrawals from the Paris Agreement.
 
@@ -142,165 +131,201 @@ Some environmental advocates have expressed concern that future presidents may f
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Donald Trump; United States; UNFCCC
-**Predicate:** initiated_withdrawal_from
-**Object:** UNFCCC (international_organization)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Donald Trump; United States; UNFCCC
+- **Predicate:** initiated_withdrawal_from
+- **Object:** UNFCCC (international_organization)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > The Trump administration on January 7, 2026, began the process of withdrawing the United States from the United Nations Framework Convention on Climate Change.
 
-### c_002 — confirmed, primary document
-**Subject entities:** Marco Rubio
-**Predicate:** announced
-**Object:** UNFCCC withdrawal (policy_action)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Marco Rubio
+- **Predicate:** announced
+- **Object:** UNFCCC withdrawal (policy_action)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Secretary of State Marco Rubio announced the UNFCCC withdrawal.
 
-### c_003 — attributed, two independent
-**Subject entities:** UNFCCC withdrawal; Paris Agreement
-**Predicate:** exceeds_in_scope
-**Object:** Paris Agreement withdrawals (comparative_assessment)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** two_independent
+- **Subject entities:** UNFCCC withdrawal; Paris Agreement
+- **Predicate:** exceeds_in_scope
+- **Object:** Paris Agreement withdrawals (comparative_assessment)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > The UNFCCC withdrawal is a bigger step than Trump's 2017 and 2025 withdrawals from the Paris Agreement, according to experts.
 
-### c_004 — confirmed, primary document
-**Subject entities:** UNFCCC; George H.W. Bush; U.S. Senate
-**Predicate:** established
-**Object:** UNFCCC (international_treaty)
-**Temporal:** 1992
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** UNFCCC; George H.W. Bush; U.S. Senate
+- **Predicate:** established
+- **Object:** UNFCCC (international_treaty)
+- **Temporal:** 1992
+- **Sources:** src_001
 
 > The UNFCCC was negotiated in Brazil in 1992, championed by Republican President George H.W. Bush, and ratified unanimously by the U.S. Senate.
 
-### c_005 — confirmed, primary document
-**Subject entities:** Donald Trump; United States
-**Predicate:** withdrew_from
-**Object:** multiple UN environmental bodies (international_organizations)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Donald Trump; United States
+- **Predicate:** withdrew_from
+- **Object:** multiple UN environmental bodies (international_organizations)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > The Trump administration also withdrew the U.S. from a U.N. climate science panel, a biodiversity-saving effort, the Green Climate Fund, and other international collaborations.
 
-### c_006 — attributed, primary document
-**Subject entities:** United States; Global Carbon Project
-**Predicate:** emitted
-**Object:** 480 billion tons CO2 (emissions_quantity)
-**Temporal:** 1850-2026
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** United States; Global Carbon Project
+- **Predicate:** emitted
+- **Object:** 480 billion tons CO2 (emissions_quantity)
+- **Temporal:** 1850-2026
+- **Sources:** src_001
 
 > Since 1850, the United States has emitted more than 480 billion tons (440 billion metric tons) of heat-trapping carbon dioxide, accounting for nearly one-quarter of the world's historic emissions, according to scientists at the Global Carbon Project.
 
-### c_007 — attributed, single source
-**Subject entities:** Johan Rockstrom; Potsdam Institute for Climate Impact Research
-**Predicate:** stated
-**Object:** withdrawal more fundamental and damaging (expert_assessment)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Johan Rockstrom; Potsdam Institute for Climate Impact Research
+- **Predicate:** stated
+- **Object:** withdrawal more fundamental and damaging (expert_assessment)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > Johan Rockstrom, director of the Potsdam Institute for Climate Impact Research, said the withdrawal is 'more fundamental and more damaging' than earlier U.S. climate retreats.
 
-### c_008 — attributed, two independent
-**Subject entities:** Earth
-**Predicate:** approaching
-**Object:** 1.5 degrees Celsius warming threshold (temperature_threshold)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** two_independent
+- **Subject entities:** Earth
+- **Predicate:** approaching
+- **Object:** 1.5 degrees Celsius warming threshold (temperature_threshold)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > Earth is approaching 1.5 degrees Celsius (2.7 degrees Fahrenheit) of warming since pre-industrial times, according to climate scientists.
 
-### c_009 — attributed, single source
-**Subject entities:** Johan Rockstrom
-**Predicate:** stated
-**Object:** 5% annual global emissions reduction required (scientific_assessment)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Johan Rockstrom
+- **Predicate:** stated
+- **Object:** 5% annual global emissions reduction required (scientific_assessment)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > Rockstrom said global emissions need to be reduced by 5% per year.
 
-### c_010 — confirmed, primary document
-**Subject entities:** Joe Biden; United States; Paris Agreement
-**Predicate:** pledged
-**Object:** 61-66% emissions reduction by 2035 (policy_commitment)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Joe Biden; United States; Paris Agreement
+- **Predicate:** pledged
+- **Object:** 61-66% emissions reduction by 2035 (policy_commitment)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > The Biden administration had promised to cut U.S. emissions by 61% to 66% by 2035 under the Paris Agreement.
 
-### c_011 — attributed, single source
-**Subject entities:** Jean Galbraith; University of Pennsylvania
-**Predicate:** stated
-**Object:** UNFCCC is gateway to preeminent climate forum (expert_characterization)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jean Galbraith; University of Pennsylvania
+- **Predicate:** stated
+- **Object:** UNFCCC is gateway to preeminent climate forum (expert_characterization)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > Jean Galbraith, University of Pennsylvania law professor and international treaties expert, described the UNFCCC as 'the gateway to the preeminent international forum for combatting climate change.'
 
-### c_012 — attributed, primary document
-**Subject entities:** Marco Rubio; Trump administration
-**Predicate:** stated
-**Object:** institutions redundant, wasteful, sovereignty threat (official_justification)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Marco Rubio; Trump administration
+- **Predicate:** stated
+- **Object:** institutions redundant, wasteful, sovereignty threat (official_justification)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Rubio said the Trump administration found these institutions to be 'redundant in their scope, mismanaged, unnecessary, wasteful, poorly run, captured by the interests of actors advancing their own agendas contrary to our own, or a threat to our nation's sovereignty, freedoms, and general prosperity.'
 
-### c_013 — attributed, single source
-**Subject entities:** John Kerry
-**Predicate:** stated
-**Object:** gift to China and polluters (political_criticism)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** John Kerry
+- **Predicate:** stated
+- **Object:** gift to China and polluters (political_criticism)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > John Kerry called Trump's action 'a gift to China and a get-out-of-jail free card to countries and polluters who want to avoid responsibility.'
 
-### c_014 — attributed, single source
-**Subject entities:** Simon Stiell; UNFCCC
-**Predicate:** stated
-**Object:** less affordable energy and food for Americans (economic_forecast)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Simon Stiell; UNFCCC
+- **Predicate:** stated
+- **Object:** less affordable energy and food for Americans (economic_forecast)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > UNFCCC Executive Secretary Simon Stiell said Trump's move 'will mean less affordable energy, food, transport and insurance for American households and businesses, as renewables keep getting cheaper than fossil fuels, as climate-driven disasters hit American crops, businesses and infrastructure harder each year.'
 
-### c_015 — attributed, single source
-**Subject entities:** Tom Pyle; American Energy Alliance
-**Predicate:** stated
-**Object:** positive shift away from climate framework (industry_assessment)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Tom Pyle; American Energy Alliance
+- **Predicate:** stated
+- **Object:** positive shift away from climate framework (industry_assessment)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > Tom Pyle, president of the American Energy Alliance, said removing the U.S. from the UN climate framework will 'accelerate a positive shift towards abandoning the destructive global climate framework.'
 
-### c_016 — attributed, single source
-**Subject entities:** Sue Biniaz; Yale University
-**Predicate:** stated
-**Object:** future president can undo withdrawal (legal_assessment)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_016
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Sue Biniaz; Yale University
+- **Predicate:** stated
+- **Object:** future president can undo withdrawal (legal_assessment)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > Sue Biniaz, former State Department deputy chief negotiator now teaching at Yale, said a future president would have the power to undo Trump's UNFCCC withdrawal.
 
-### c_017 — attributed, single source
-**Subject entities:** Mary Robinson; The Elders
-**Predicate:** stated
-**Object:** actions unbelievably stupid and reckless (political_criticism)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_017
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Mary Robinson; The Elders
+- **Predicate:** stated
+- **Object:** actions unbelievably stupid and reckless (political_criticism)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > Mary Robinson, former president of Ireland and member of The Elders, described the Trump administration's climate actions as 'unbelievably stupid at one level and reckless.'
 
-### c_018 — attributed, single source
-**Subject entities:** Adelle Thomas; Natural Resources Defense Council; IPCC
-**Predicate:** stated
-**Object:** withdrawal means more warming (scientific_assessment)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_018
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Adelle Thomas; Natural Resources Defense Council; IPCC
+- **Predicate:** stated
+- **Object:** withdrawal means more warming (scientific_assessment)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > Adelle Thomas, climate adaptation director of the Natural Resources Defense Council and IPCC vice chair, said the withdrawal will mean more warming because the U.S. will not fulfill its emissions-reduction obligations.
 
@@ -309,10 +334,5 @@ Some environmental advocates have expressed concern that future presidents may f
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Seth Borenstein
 **Publication date:** 2026-01-08
-**Access date:** 2026-01-08
 **Title:** Experts say Trump quitting UN climate convention will hurt America and the world
 **URL:** https://apnews.com/article/trump-climate-change-united-nations-treaty-16b3809ceccf94ff0c0671d3b0bbc8ae
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

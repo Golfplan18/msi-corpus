@@ -15,37 +15,41 @@ primary_themes:
 - school policy
 - student attendance
 topic_tags:
-  - education
-  - "education policy"
-  - school
-storyline_nexus: []
-geographic_location: Nevada, United States (Clark County primary)
+- education
+- education policy
+- school
+- government policy
+storyline_nexus:
+- aca-medicaid-healthcare-crisis
+geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.8
 - value: accountability_of_power
+  intensity: 0.9
+- value: equality_fairness
+  intensity: 0.9
+- value: informed_citizenship
   intensity: 0.6
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:31:37Z'
 source_cluster_id: cluster_ap_2026-01-27_schools-nevada-danielle-jones-general-ne
 gdelt_event_ids: []
-consensus_floor_version: 3.0.0
-publication_mindspec_version: 1.0.0
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 20
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 6
-    reported: 14
-    contested: 0
     confirmed: 0
+    alleged: 0
+    reported: 14
+    appears: 0
+    attributed: 6
+    contested: 0
   corroboration:
-    primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
     primary_document: 0
+    primary_plus_secondary: 0
     single_source: 20
     two_independent: 0
 sources:
@@ -64,6 +68,13 @@ figures_aggregate:
 cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- Inconsistent school attendance policies across Nevada are hampering districts' efforts to combat chronic absenteeism, which still affects more than a quarter of students statewide. Even parents who...
+- "I still don't understand the attendance policies," Jenna Robertson told The Nevada Independent. "Except that they're inconsistent from school to s...
+- Nevada pledged in 2024 to cut chronic absenteeism in half within five years. But school officials acknowledge that inconsistent policies and insuff...
 
 Inconsistent school attendance policies across Nevada are hampering districts' efforts to combat chronic absenteeism, which still affects more than a quarter of students statewide. Even parents who have raised children in the Clark County school system for years struggle to navigate the rules.
 
@@ -123,178 +134,218 @@ She also noted the burden on teachers to manage attendance while following up wi
 
 ## Atomic claims
 
-### c_001 — reported, single source
-**Subject entities:** Nevada parents
-**Predicate:** report
-**Object:** inconsistent attendance policies (policy_complaint)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Nevada parents
+- **Predicate:** report
+- **Object:** inconsistent attendance policies (policy_complaint)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > Parents across Nevada report inconsistent school attendance policies between and within districts.
 
-### c_002 — reported, single source
-**Subject entities:** Nevada students
-**Predicate:** were
-**Object:** chronically absent (status)
-**Temporal:** 2024-2025
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Nevada students
+- **Predicate:** were
+- **Object:** chronically absent (status)
+- **Temporal:** 2024-2025
+- **Sources:** src_001
 
 > 26 percent of students statewide were chronically absent in 2024-2025, a decline from higher rates but still above pre-pandemic levels.
 
-### c_003 — reported, single source
-**Subject entities:** Nevada state law
-**Predicate:** defines
-**Object:** chronic absence as 10% of school days with exemptions (legal_definition)
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Nevada state law
+- **Predicate:** defines
+- **Object:** chronic absence as 10% of school days with exemptions (legal_definition)
+- **Sources:** src_001
 
 > Nevada state law defines chronic absence as missing at least 10 percent of school days, with exemptions for doctor-verified illnesses and other absences.
 
-### c_004 — reported, single source
-**Subject entities:** habitually truant students
-**Predicate:** can have
-**Object:** driver's licenses suspended (sanction)
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** habitually truant students
+- **Predicate:** can have
+- **Object:** driver's licenses suspended (sanction)
+- **Sources:** src_001
 
 > Students deemed habitually truant—three or more unexcused absences per year—can have driver's licenses suspended.
 
-### c_005 — reported, single source
-**Subject entities:** Nevada
-**Predicate:** pledged
-**Object:** cut chronic absenteeism in half in five years (commitment)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Nevada
+- **Predicate:** pledged
+- **Object:** cut chronic absenteeism in half in five years (commitment)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > Nevada pledged in 2024 to cut chronic absenteeism in half within five years.
 
-### c_006 — reported, single source
-**Subject entities:** Clark County schools
-**Predicate:** launched
-**Object:** website and absenteeism office (initiative)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Clark County schools
+- **Predicate:** launched
+- **Object:** website and absenteeism office (initiative)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > Clark County schools launched a new website and formed an office dedicated to chronic absenteeism in 2024.
 
-### c_007 — reported, single source
-**Subject entities:** The Nevada Independent; Clark County schools
-**Predicate:** found
-**Object:** policy disparities including outdated manuals (finding)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** The Nevada Independent; Clark County schools
+- **Predicate:** found
+- **Object:** policy disparities including outdated manuals (finding)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > A review by The Nevada Independent found disparities in attendance policies posted by Clark County schools, including outdated manuals and inconsistent descriptions of exemptions.
 
-### c_008 — reported, single source
-**Subject entities:** school districts
-**Predicate:** determine
-**Object:** attendance policies including notification and tardy rules (authority)
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** school districts
+- **Predicate:** determine
+- **Object:** attendance policies including notification and tardy rules (authority)
+- **Sources:** src_001
 
 > Districts determine many attendance policies unilaterally, including how many absences trigger notification letters, verification frequency, and tardy policies.
 
-### c_009 — attributed, single source
-**Subject entities:** Rebecca Dirks Garcia
-**Predicate:** said
-**Object:** inconsistent policies are most common complaint (statement)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Rebecca Dirks Garcia
+- **Predicate:** said
+- **Object:** inconsistent policies are most common complaint (statement)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > Rebecca Dirks Garcia, who runs a Clark County parents' Facebook group with over 18,000 members, said inconsistent policies have been the most common parent complaint since 2018.
 
-### c_010 — attributed, single source
-**Subject entities:** inconsistency
-**Predicate:** makes
-**Object:** parents less engaged (effect)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** inconsistency
+- **Predicate:** makes
+- **Object:** parents less engaged (effect)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > Inconsistency in attendance policies makes parents less engaged with schools, Dirks Garcia said.
 
-### c_011 — reported, single source
-**Subject entities:** Nevada school districts
-**Predicate:** vary
-**Object:** monitoring frequency from monthly to weekly or unclear (variation)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Nevada school districts
+- **Predicate:** vary
+- **Object:** monitoring frequency from monthly to weekly or unclear (variation)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > Monitoring frequency for attendance records varies across Nevada districts: some require monthly reviews, others require weekly reviews, and some lack clear policies.
 
-### c_012 — attributed, single source
-**Subject entities:** Chris Kearney
-**Predicate:** said
-**Object:** monthly monitoring misses significant absence accumulation (statement)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Chris Kearney
+- **Predicate:** said
+- **Object:** monthly monitoring misses significant absence accumulation (statement)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > Chris Kearney, a UNLV professor studying chronic absenteeism, said schools reviewing data only monthly may miss absences that accumulate to 10 or 15 days before detection.
 
-### c_013 — reported, single source
-**Subject entities:** Katarina Rivers; school
-**Predicate:** reported
-**Object:** over 30 class absences undetected and unreported (incident)
-**Temporal:** 2023-2024
-**Source IDs:** src_001
+### c_013
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Katarina Rivers; school
+- **Predicate:** reported
+- **Object:** over 30 class absences undetected and unreported (incident)
+- **Temporal:** 2023-2024
+- **Sources:** src_001
 
 > Katarina Rivers reported her daughter skipped over 30 incidents of one class during 2023-2024, and the school did not update the portal or alert her.
 
-### c_014 — attributed, single source
-**Subject entities:** Danielle Jones
-**Predicate:** said
-**Object:** district wants supportive early intervention and tone (statement)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Danielle Jones
+- **Predicate:** said
+- **Object:** district wants supportive early intervention and tone (statement)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > Danielle Jones, director of Clark County's chronic absenteeism office, said the district wants to help families before absenteeism becomes a pattern and is making communications less accusatory.
 
-### c_015 — reported, single source
-**Subject entities:** Nevada law
-**Predicate:** requires
-**Object:** annual chronic absenteeism reporting (requirement)
-**Source IDs:** src_001
+### c_015
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Nevada law
+- **Predicate:** requires
+- **Object:** annual chronic absenteeism reporting (requirement)
+- **Sources:** src_001
 
 > Nevada law requires school districts to submit chronic absenteeism reports only once per year, when summer break begins.
 
-### c_016 — reported, single source
-**Subject entities:** twenty-four states
-**Predicate:** collect
-**Object:** district-level attendance data multiple times per year (practice)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_016
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** twenty-four states
+- **Predicate:** collect
+- **Object:** district-level attendance data multiple times per year (practice)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Twenty-four states collect district-level attendance data more than once per year, according to an Attendance Works survey.
 
-### c_017 — reported, single source
-**Subject entities:** Connecticut
-**Predicate:** collects
-**Object:** monthly attendance records (practice)
-**Source IDs:** src_001
+### c_017
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Connecticut
+- **Predicate:** collects
+- **Object:** monthly attendance records (practice)
+- **Sources:** src_001
 
 > Connecticut collects and publishes attendance records monthly and serves as a model for fighting chronic absenteeism.
 
-### c_018 — attributed, single source
-**Subject entities:** Hedy Chang
-**Predicate:** said
-**Object:** regular data collection enables pattern identification (statement)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_018
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Hedy Chang
+- **Predicate:** said
+- **Object:** regular data collection enables pattern identification (statement)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > Hedy Chang, CEO of Attendance Works, said regular data collection allows districts to identify patterns and root causes of absenteeism.
 
-### c_019 — attributed, single source
-**Subject entities:** Kristin Baker
-**Predicate:** described
-**Object:** monthly verification as performative (characterization)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_019
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Kristin Baker
+- **Predicate:** described
+- **Object:** monthly verification as performative (characterization)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > Kristin Baker, a former Clark County teacher and administrator, described monthly attendance verification as performative without genuine verification.
 
-### c_020 — reported, single source
-**Subject entities:** teachers
-**Predicate:** said
-**Object:** absence follow-up is tense and distracting (statement)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_020
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** teachers
+- **Predicate:** said
+- **Object:** absence follow-up is tense and distracting (statement)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > Teachers said following up on absences with families can be tense and distracts from instructional time.
 
@@ -303,10 +354,5 @@ She also noted the burden on teachers to manage attendance while following up wi
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Kate Reynolds / The Nevada Independent
 **Publication date:** 2026-01-26
-**Access date:** 2026-01-26
 **Title:** Nevada wants to boost school attendance rates. Parents say inconsistent rules work against that
 **URL:** https://apnews.com/article/schools-nevada-danielle-jones-general-news-8c245572d7adc57b660a9414c8d25994
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

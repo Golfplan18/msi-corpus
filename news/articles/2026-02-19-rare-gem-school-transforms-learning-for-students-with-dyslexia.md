@@ -111,8 +111,6 @@ Rare Gem's curriculum is not bespoke. Rather, it is a version of Kenya's core cu
 
 This approach may offer a model for increasing access without dramatic overhauls to curricula across Africa, where many nations face similar gaps in specialized education for students with learning disabilities.
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
 ### c_001 — confirmed, primary document
@@ -213,7 +211,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-02-19
 **Title:** Rare Gem Talent School in Kenya transforms learning for students with dyslexia
 **URL:** https://apnews.com/article/kenya-dyslexia-education-6f638f1cb10a1a7274559891e7e19d79
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

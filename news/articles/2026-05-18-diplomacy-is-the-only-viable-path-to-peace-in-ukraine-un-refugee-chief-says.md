@@ -19,7 +19,7 @@ topic_tags:
   - "peace process"
   - "human migration"
 storyline_nexus:
-  - russia-ukraine-war
+- ukraine-war-peace-negotiations
 geographic_location: Ukraine, Kyiv
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -267,7 +267,3 @@ During his meeting with Zelenskyy, Salih said the two discussed focusing on Ukra
 **Access date:** 2026-05-18
 **Title:** Diplomacy is the only viable path to peace in Ukraine, UN refugee chief says
 **URL:** https://apnews.com/article/russia-ukraine-war-un-refugee-head-unhcr-436311a3462e7ded821e60192df749c5
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

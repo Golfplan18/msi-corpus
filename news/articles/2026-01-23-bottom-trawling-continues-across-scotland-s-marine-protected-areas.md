@@ -325,7 +325,3 @@ Philp said he sees a path toward recovery but is frustrated by the pace. "The mo
 **Access date:** 2026-05-18
 **Title:** Destructive bottom trawling in Scotland despite promises to protect oceans
 **URL:** https://apnews.com/article/scotland-bottom-trawling-fishing-conservation-oceans-5d10f2e4b4d10bd8422df64aad88d3c7
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

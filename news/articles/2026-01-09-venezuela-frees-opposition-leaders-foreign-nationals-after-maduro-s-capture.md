@@ -20,11 +20,9 @@ primary_themes:
 - us_venezuela_relations
 - human_rights
 topic_tags:
-  - "science and technology"
+- science and technology
 storyline_nexus:
-  - venezuela-crisis
-  - us-administration-2026
-  - trump-tariff-policy
+- venezuela-political-military-crisis
 geographic_location: Venezuela
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -78,10 +76,6 @@ cross_article_links:
   relation: continues
   strength: 0.8414
   confidence: high
-- slug: 2026-01-03-venezuela-in-limbo-after-maduro-capture-as-trump-endorses-deputy-snubs-oppositio
-  relation: continues
-  strength: 0.8488
-  confidence: high
 - slug: 2026-01-05-maduro-pleads-not-guilty-to-us-drug-charges-calls-his-capture-an-abduction
   relation: related
   strength: 0.8338
@@ -90,22 +84,10 @@ cross_article_links:
   relation: related
   strength: 0.8116
   confidence: medium
-- slug: 2026-01-05-maduro-s-u-s-capture-divides-latin-america-as-trump-allies-celebrate-and-left-wa
-  relation: related
-  strength: 0.8061
-  confidence: medium
-- slug: 2026-01-06-venezuela-swears-in-rodr-guez-as-interim-president-projects-independence-after-u
-  relation: continues
-  strength: 0.7942
-  confidence: high
 - slug: 2026-01-06-maduro-s-us-drug-case-advances-as-lawyers-signal-sovereignty-challenge-medical-n
   relation: related
   strength: 0.7916
   confidence: medium
-- slug: 2026-01-06-delcy-rodr-guez-takes-power-as-venezuela-s-interim-president-after-maduro-s-capt
-  relation: continues
-  strength: 0.7889
-  confidence: high
 draft: false
 ---
 
@@ -149,192 +131,234 @@ The prisoner releases came as the Trump administration moved on a parallel track
 
 ## Atomic claims
 
-### c_001 — confirmed, single source
-**Subject entities:** Venezuela
-**Predicate:** released_prisoners
-**Object:** opposition figures, activists, journalists (group)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Venezuela
+- **Predicate:** released_prisoners
+- **Object:** opposition figures, activists, journalists (group)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > Venezuela released imprisoned opposition figures, activists, and journalists on Thursday, January 8, 2026.
 
-### c_002 — attributed, single source
-**Subject entities:** Venezuela government
-**Predicate:** described_releases_as
-**Object:** gesture to seek peace (statement)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Venezuela government
+- **Predicate:** described_releases_as
+- **Object:** gesture to seek peace (statement)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > The Venezuelan government described the releases as a gesture broadly intended to 'seek peace.'
 
-### c_003 — confirmed, single source
-**Subject entities:** Nicolas Maduro; United States
-**Predicate:** captured
-**Object:** drug-trafficking charges (legal_context)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Nicolas Maduro; United States
+- **Predicate:** captured
+- **Object:** drug-trafficking charges (legal_context)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > The releases came less than a week after former President Nicolás Maduro was captured by U.S. forces to face drug-trafficking charges.
 
-### c_004 — attributed, single source
-**Subject entities:** Donald Trump
-**Predicate:** stated
-**Object:** releases came at US request (claim)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** stated
+- **Object:** releases came at US request (claim)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > President Trump said the releases came at the request of the United States.
 
-### c_005 — attributed, single source
-**Subject entities:** Donald Trump
-**Predicate:** said
-**Object:** they've been great. ... Everything we've wanted, they've given us. (quotation)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** said
+- **Object:** they've been great. ... Everything we've wanted, they've given us. (quotation)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > Trump said of the acting government: 'they've been great. ... Everything we've wanted, they've given us.'
 
-### c_006 — attributed, single source
-**Subject entities:** Jorge Rodríguez
-**Predicate:** announced
-**Object:** significant number to be freed (statement)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jorge Rodríguez
+- **Predicate:** announced
+- **Object:** significant number to be freed (statement)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > Jorge Rodríguez, head of Venezuela's National Assembly and brother of the acting president, said a 'significant number' of people would be freed.
 
-### c_007 — reported, single source
-**Subject entities:** Venezuela
-**Predicate:** total_unclear
-**Object:** total number of releases (unknown)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Venezuela
+- **Predicate:** total_unclear
+- **Object:** total number of releases (unknown)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > As of late Thursday, the total number of people released had not been confirmed.
 
-### c_008 — attributed, single source
-**Subject entities:** Biagio Pilieri; María Corina Machado
-**Predicate:** released
-**Object:** Biagio Pilieri (person)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Biagio Pilieri; María Corina Machado
+- **Predicate:** released
+- **Object:** Biagio Pilieri (person)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > Biagio Pilieri, an opposition leader who was part of María Corina Machado's 2024 presidential campaign, was among those released, according to Foro Penal.
 
-### c_009 — attributed, single source
-**Subject entities:** Enrique Márquez
-**Predicate:** released
-**Object:** Enrique Márquez (person)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Enrique Márquez
+- **Predicate:** released
+- **Object:** Enrique Márquez (person)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > Enrique Márquez, a former electoral authority and candidate in the 2024 presidential election, was also released, according to Foro Penal.
 
-### c_010 — confirmed, single source
-**Subject entities:** Rocío San Miguel
-**Predicate:** released
-**Object:** five Spanish citizens including San Miguel (group)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Rocío San Miguel
+- **Predicate:** released
+- **Object:** five Spanish citizens including San Miguel (group)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > Five Spanish citizens were released, including Rocío San Miguel, a prominent Venezuelan-Spanish lawyer and human rights activist.
 
-### c_011 — attributed, single source
-**Subject entities:** José Manuel Albares
-**Predicate:** identified
-**Object:** Andrés Martínez, José María Basoa, Ernesto Gorbe, Miguel Moreno (persons)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** José Manuel Albares
+- **Predicate:** identified
+- **Object:** Andrés Martínez, José María Basoa, Ernesto Gorbe, Miguel Moreno (persons)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > Spanish Foreign Minister José Manuel Albares identified the other Spanish nationals released as Andrés Martínez, José María Basoa, Ernesto Gorbe, and Miguel Moreno.
 
-### c_012 — alleged, single source
-**Subject entities:** Andrés Martínez; José María Basoa
-**Predicate:** arrested_accused
-**Object:** plotting to destabilize as Spanish spies (allegation)
-**Temporal:** 2024-09
-**Source IDs:** src_001
+### c_012
+- **Hedge:** alleged
+- **Corroboration:** single_source
+- **Subject entities:** Andrés Martínez; José María Basoa
+- **Predicate:** arrested_accused
+- **Object:** plotting to destabilize as Spanish spies (allegation)
+- **Temporal:** 2024-09
+- **Sources:** src_001
 
 > Martínez and Basoa were arrested in Venezuela in September 2024 on allegations of plotting to destabilize Maduro's government as Spanish spies — allegations Spain denied.
 
-### c_013 — attributed, single source
-**Subject entities:** Foro Penal
-**Predicate:** reported
-**Object:** 863 (count_of_political_detainees)
-**Temporal:** 2025-12-29
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Foro Penal
+- **Predicate:** reported
+- **Object:** 863 (count_of_political_detainees)
+- **Temporal:** 2025-12-29
+- **Sources:** src_001
 
 > Foro Penal said that as of Dec. 29, 2025, there were 863 people detained in Venezuela for political reasons.
 
-### c_014 — attributed, single source
-**Subject entities:** Alfredo Romero
-**Predicate:** said
-**Object:** beginning of the dismantling of a repressive system (quotation)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Alfredo Romero
+- **Predicate:** said
+- **Object:** beginning of the dismantling of a repressive system (quotation)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > Alfredo Romero, president of Foro Penal, expressed cautious hope 'that this is indeed the beginning of the dismantling of a repressive system in Venezuela ... and not a mere gesture, a charade of releasing some prisoners and incarcerating others.'
 
-### c_015 — attributed, single source
-**Subject entities:** María Corina Machado
-**Predicate:** said
-**Object:** an act of moral restitution; Nothing brings back the stolen years (quotation)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** María Corina Machado
+- **Predicate:** said
+- **Object:** an act of moral restitution; Nothing brings back the stolen years (quotation)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > Opposition leader María Corina Machado, speaking in an audio message from exile, called the gesture 'an act of moral restitution' and said 'Nothing brings back the stolen years.'
 
-### c_016 — attributed, single source
-**Subject entities:** Ronal Rodríguez
-**Predicate:** said
-**Object:** The regime uses them like a bargaining chip (quotation)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_016
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ronal Rodríguez
+- **Predicate:** said
+- **Object:** The regime uses them like a bargaining chip (quotation)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > Researcher Ronal Rodríguez of the Venezuelan Observatory at the University of Rosario said of prisoners: 'The regime uses them like a bargaining chip.'
 
-### c_017 — reported, single source
-**Subject entities:** Venezuela; United States
-**Predicate:** exchanged_prisoners
-**Object:** 10 US citizens for 200 Venezuelans held in El Salvador (prisoner_exchange)
-**Temporal:** 2025-07
-**Source IDs:** src_001
+### c_017
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Venezuela; United States
+- **Predicate:** exchanged_prisoners
+- **Object:** 10 US citizens for 200 Venezuelans held in El Salvador (prisoner_exchange)
+- **Temporal:** 2025-07
+- **Sources:** src_001
 
 > In July 2025, Venezuela released 10 jailed U.S. citizens and permanent residents in exchange for the repatriation of over 200 Venezuelans deported to El Salvador.
 
-### c_018 — reported, single source
-**Subject entities:** Donald Trump; United States
-**Predicate:** seized_tankers_relaxed_sanctions
-**Object:** sanctioned tankers; plans to oversee Venezuelan petroleum sales (action)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_018
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; United States
+- **Predicate:** seized_tankers_relaxed_sanctions
+- **Object:** sanctioned tankers; plans to oversee Venezuelan petroleum sales (action)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > On Wednesday, the Trump administration seized a pair of sanctioned tankers transporting Venezuelan petroleum and announced plans to relax some sanctions so the United States could oversee the sale of Venezuela's petroleum.
 
-### c_019 — attributed, single source
-**Subject entities:** Donald Trump; María Corina Machado
-**Predicate:** said
-**Object:** I understand she's coming in next week some time and I look forward to saying hello to her (quotation)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_019
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; María Corina Machado
+- **Predicate:** said
+- **Object:** I understand she's coming in next week some time and I look forward to saying hello to her (quotation)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > Trump told Fox News he expected Machado to visit Washington the following week: 'I understand she's coming in next week some time and I look forward to saying hello to her.'
 
-### c_020 — reported, single source
-**Subject entities:** Pedro Durán; Franklin Durán
-**Predicate:** awaited_release
-**Object:** Franklin Durán detained 2021 for alleged overthrow attempt (personal_account)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_020
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Pedro Durán; Franklin Durán
+- **Predicate:** awaited_release
+- **Object:** Franklin Durán detained 2021 for alleged overthrow attempt (personal_account)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > Pedro Durán, 60, waited outside the prison in Guatire hoping to reunite with his brother Franklin Durán, detained in 2021 on charges of trying to overthrow Maduro's government — charges the family denied.
 
-### c_021 — reported, single source
-**Subject entities:** Donald Trump; Delcy Rodríguez; María Corina Machado
-**Predicate:** endorsed
-**Object:** Rodríguez over Machado for transition leadership (political_stance)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_021
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Delcy Rodríguez; María Corina Machado
+- **Predicate:** endorsed
+- **Object:** Rodríguez over Machado for transition leadership (political_stance)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Trump endorsed Delcy Rodríguez to lead Venezuela's political transition rather than backing opposition leader Machado.
 
@@ -346,7 +370,3 @@ The prisoner releases came as the Trump administration moved on a parallel track
 **Access date:** 2026-01-09
 **Title:** Venezuela releases prisoners after Maduro's capture
 **URL:** https://apnews.com/article/venezuela-political-prisoners-garcia-peace-us-fe90dc9364dc50ffee47569f7190940c
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

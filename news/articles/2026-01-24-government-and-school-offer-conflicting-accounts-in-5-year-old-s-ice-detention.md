@@ -16,47 +16,44 @@ primary_themes:
 - child detention
 - government accountability
 topic_tags:
-  - education
-  - "human interest"
-  - "human migration"
-  - school
-  - sport
-  - "sport event"
+- crime, law and justice
+- government
+- human migration
+- law enforcement
+- school
 storyline_nexus:
-  - immigration-enforcement
-geographic_location: United States (Minnesota / Texas)
+- us-immigration-enforcement
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
-  intensity: 0.95
-- value: accountability_of_power
-  intensity: 0.85
+  intensity: 0.9
 - value: truthfulness
-  intensity: 0.8
-- value: equality_fairness
-  intensity: 0.75
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+  intensity: 0.9
+- value: accountability_of_power
+  intensity: 0.9
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:51:40Z'
 source_cluster_id: cluster_ap_2026-01-25_ice-minnesota-immigration-enforcement-ba
 gdelt_event_ids: []
-consensus_floor_version: 1.0.0
-publication_mindspec_version: 1.0.0
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 14
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 10
     reported: 4
-    contested: 0
+    appears: 0
+    attributed: 10
     confirmed: 0
+    alleged: 0
+    contested: 0
   corroboration:
-    primary_plus_secondary: 0
+    single_source: 14
     one_originating_plus_primary_document: 0
     primary_document: 0
-    single_source: 14
     two_independent: 0
+    primary_plus_secondary: 0
 sources:
   count: 1
   outlets:
@@ -70,41 +67,12 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-04-21-judge-orders-man-shot-by-ice-in-california-to-remain-in-custody
-  relation: related
-  strength: 0.7642
-  confidence: medium
-- slug: 2026-04-16-venezuelan-doctor-detained-at-texas-airport-before-asylum-interview
-  relation: related
-  strength: 0.7621
-  confidence: medium
-- slug: 2026-04-18-85-year-old-french-widow-returns-to-france-after-16-day-ice-detention
-  relation: related
-  strength: 0.7596
-  confidence: medium
-- slug: 2026-04-15-guards-accused-of-beating-detainees-at-florida-s-alligator-alcatraz
-  relation: related
-  strength: 0.7547
-  confidence: medium
-- slug: 2026-04-16-minnesota-probes-federal-officers-over-two-killings-wounding-and-highway-assault
-  relation: related
-  strength: 0.752
-  confidence: medium
-- slug: 2026-04-17-french-widow-released-from-ice-custody-after-16-days
-  relation: related
-  strength: 0.748
-  confidence: medium
-- slug: 2026-01-17-tear-gas-floods-minneapolis-family-s-suv-infant-and-two-children-hospitalized
-  relation: related
-  strength: 0.7852
-  confidence: medium
-- slug: 2026-01-11-federal-agents-ram-minneapolis-door-pepper-spray-protesters-in-immigration-sweep
-  relation: related
-  strength: 0.7989
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
 
 The detention of a 5-year-old Ecuadorian boy by federal immigration agents outside his Minnesota home has produced sharply conflicting accounts. School officials say ICE officers used the child as "bait," instructing him to knock on the door while his mother was inside and his father was present. The Department of Homeland Security denies this, saying the father fled on foot and left the boy in a running vehicle in their driveway. The boy, Liam Conejo Ramos, and his father, Adrian Alexander Conejo Arias, are now detained together at a family facility in Dilley, Texas.
 
@@ -146,129 +114,157 @@ This detention reflects broader patterns in immigration enforcement under the Tr
 
 ## Atomic claims
 
-### c_001 — reported, single source
-**Subject entities:** Liam Conejo Ramos; ICE
-**Predicate:** detained
-**Object:** outside Minnesota home (location_event)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Liam Conejo Ramos; ICE
+- **Predicate:** detained
+- **Object:** outside Minnesota home (location_event)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > A 5-year-old Ecuadorian boy was detained by ICE outside his Minnesota home on January 24.
 
-### c_002 — reported, single source
-**Subject entities:** Adrian Alexander Conejo Arias
-**Predicate:** detained
-**Object:** by ICE in Minnesota (agent)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Adrian Alexander Conejo Arias
+- **Predicate:** detained
+- **Object:** by ICE in Minnesota (agent)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > His father, Adrian Alexander Conejo Arias, was detained at the same time.
 
-### c_003 — attributed, single source
-**Subject entities:** Columbia Heights Public Schools officials; ICE officers
-**Predicate:** used_child_as_bait
-**Object:** instructed child to knock on door as tactic (allegation)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Columbia Heights Public Schools officials; ICE officers
+- **Predicate:** used_child_as_bait
+- **Object:** instructed child to knock on door as tactic (allegation)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > School officials say ICE officers told the 5-year-old to knock on the door, essentially using him as 'bait' to prompt his mother to answer.
 
-### c_004 — attributed, single source
-**Subject entities:** Columbia Heights school officials; ICE agents
-**Predicate:** refused_alternate_care
-**Object:** refused offers by neighbors and school officials to take custody (action)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Columbia Heights school officials; ICE agents
+- **Predicate:** refused_alternate_care
+- **Object:** refused offers by neighbors and school officials to take custody (action)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > School officials say other adults at the scene, including a school board chair, offered to care for the boy but ICE agents refused.
 
-### c_005 — attributed, single source
-**Subject entities:** Department of Homeland Security; Adrian Alexander Conejo Arias
-**Predicate:** fled_abandoning_child
-**Object:** fled on foot, left child in running vehicle (statement)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Department of Homeland Security; Adrian Alexander Conejo Arias
+- **Predicate:** fled_abandoning_child
+- **Object:** fled on foot, left child in running vehicle (statement)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > DHS says the father fled on foot and left the boy in a running vehicle in their driveway.
 
-### c_006 — attributed, single source
-**Subject entities:** Department of Homeland Security; Tricia McLaughlin
-**Predicate:** denied_bait_allegation
-**Object:** denied using child as bait (statement)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Department of Homeland Security; Tricia McLaughlin
+- **Predicate:** denied_bait_allegation
+- **Object:** denied using child as bait (statement)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > DHS spokeswoman Tricia McLaughlin said the characterization of the child being used as bait is 'an abject lie.'
 
-### c_007 — attributed, single source
-**Subject entities:** Zena Stenvik; Adrian Alexander Conejo Arias; ICE officers
-**Predicate:** reported_father_instruction
-**Object:** father told child not to open door; officers refused alternate care (account)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Zena Stenvik; Adrian Alexander Conejo Arias; ICE officers
+- **Predicate:** reported_father_instruction
+- **Object:** father told child not to open door; officers refused alternate care (account)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > School Superintendent Zena Stenvik said the father instructed his son not to open the door and that officers would not leave the child with other adults.
 
-### c_008 — attributed, single source
-**Subject entities:** Adrian Alexander Conejo Arias; Marc Prokosch
-**Predicate:** had_pending_asylum_claim
-**Object:** pending asylum claim filed Dec 17, 2024 (legal_status)
-**Temporal:** 2024-12-17
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Adrian Alexander Conejo Arias; Marc Prokosch
+- **Predicate:** had_pending_asylum_claim
+- **Object:** pending asylum claim filed Dec 17, 2024 (legal_status)
+- **Temporal:** 2024-12-17
+- **Sources:** src_001
 
 > The father's attorney said he had a pending asylum claim filed December 17, 2024, allowing him to stay in the country.
 
-### c_009 — attributed, single source
-**Subject entities:** Adrian Alexander Conejo Arias; Stephen Miller
-**Predicate:** entered_illegally
-**Object:** entered U.S. illegally in December 2024 (allegation)
-**Temporal:** 2024-12
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Adrian Alexander Conejo Arias; Stephen Miller
+- **Predicate:** entered_illegally
+- **Object:** entered U.S. illegally in December 2024 (allegation)
+- **Temporal:** 2024-12
+- **Sources:** src_001
 
 > Stephen Miller, White House deputy chief of staff, said the father entered the United States illegally in December 2024.
 
-### c_010 — reported, single source
-**Subject entities:** Adrian Alexander Conejo Arias; Liam Conejo Ramos
-**Predicate:** detained_at_facility
-**Object:** Dilley family detention facility, Texas (location)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Adrian Alexander Conejo Arias; Liam Conejo Ramos
+- **Predicate:** detained_at_facility
+- **Object:** Dilley family detention facility, Texas (location)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > The father and son are detained at a family detention facility in Dilley, Texas, near San Antonio.
 
-### c_011 — attributed, single source
-**Subject entities:** Children at Dilley facility; Leecia Welch
-**Predicate:** extended_detention
-**Object:** detained for over 100 days (duration)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Children at Dilley facility; Leecia Welch
+- **Predicate:** extended_detention
+- **Object:** detained for over 100 days (duration)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > Leecia Welch, chief legal counsel at Children's Rights, said significant numbers of children at Dilley have been detained for over 100 days.
 
-### c_012 — attributed, single source
-**Subject entities:** Children at Dilley facility
-**Predicate:** health_status
-**Object:** nearly every child was sick (health)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Children at Dilley facility
+- **Predicate:** health_status
+- **Object:** nearly every child was sick (health)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > Welch said nearly every child she spoke to at the facility was sick.
 
-### c_013 — reported, single source
-**Subject entities:** Trump administration; ICE
-**Predicate:** issued_directive
-**Object:** policy requiring alternate care arrangement time (policy)
-**Temporal:** 2025-07
-**Source IDs:** src_001
+### c_013
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Trump administration; ICE
+- **Predicate:** issued_directive
+- **Object:** policy requiring alternate care arrangement time (policy)
+- **Temporal:** 2025-07
+- **Sources:** src_001
 
 > The Trump administration issued a 'Detained Parents Directive' in July requiring ICE to allow parents time to make alternate care arrangements for children before detention.
 
-### c_014 — attributed, single source
-**Subject entities:** Marc Prokosch; Adrian Alexander Conejo Arias; Liam Conejo Ramos
-**Predicate:** unable_to_contact
-**Object:** unable to reach them; exploring legal options (statement)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Marc Prokosch; Adrian Alexander Conejo Arias; Liam Conejo Ramos
+- **Predicate:** unable_to_contact
+- **Object:** unable to reach them; exploring legal options (statement)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > The family's attorney, Marc Prokosch, said he has not been able to reach the father or son directly and is exploring legal options.
 
@@ -277,10 +273,5 @@ This detention reflects broader patterns in immigration enforcement under the Tr
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Steve Karnowski
 **Publication date:** 2026-01-24
-**Access date:** 2026-01-24
 **Title:** Dueling narratives about ICE detaining a 5-year-old in Minnesota
 **URL:** https://apnews.com/article/ice-minnesota-immigration-enforcement-bait-child-470d9bbaf988454fa01837796e911d5f
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

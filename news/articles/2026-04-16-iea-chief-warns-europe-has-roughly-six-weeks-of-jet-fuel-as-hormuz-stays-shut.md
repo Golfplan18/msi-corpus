@@ -23,7 +23,7 @@ topic_tags:
   - "arts, culture, entertainment and media"
   - "arts and entertainment"
 storyline_nexus:
-  - iran-war
+- the-iran-war
 geographic_location: Europe; Persian Gulf; International
 floor_values_engaged:
 - value: informed_citizenship
@@ -250,7 +250,3 @@ The IEA, which advises governments on energy policy and coordinated a record rel
 **Access date:** 2026-04-16
 **Title:** AP Exclusive: Europe could run out of jet fuel within weeks, IEA warns
 **URL:** https://apnews.com/article/iran-war-europe-jet-fuel-flight-cancellations-birol-6e67fafd493861b3858de5548aa77703
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -212,7 +212,3 @@ Generated under CC0. Specification: Main Street Independent News Article Generat
 **Access date:** 2026-05-17
 **Title:** Dominican Republic and Haiti to reopen airspace in May, restoring flights after more than 2 years
 **URL:** https://apnews.com/article/haiti-dominican-republic-airspace-flights-189ff078367824d46d88435015707f1c
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

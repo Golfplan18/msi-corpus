@@ -18,7 +18,8 @@ primary_themes:
 - presidential_legacy_projects
 topic_tags:
   - politics
-storyline_nexus: []
+storyline_nexus:
+- trump-climate-energy-rollbacks
 geographic_location: Washington, D.C.
 floor_values_engaged:
 - value: informed_citizenship
@@ -115,129 +116,157 @@ Officials said construction is planned to begin in August, with the facility ope
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** U.S. Commission of Fine Arts; Triumphal Arch
-**Predicate:** approved_concept
-**Object:** design concept approval (regulatory_action)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Commission of Fine Arts; Triumphal Arch
+- **Predicate:** approved_concept
+- **Object:** design concept approval (regulatory_action)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > The U.S. Commission of Fine Arts approved the design concept for the Triumphal Arch on April 16, 2026.
 
-### c_002 — attributed, single source
-**Subject entities:** Triumphal Arch
-**Predicate:** proposed_height
-**Object:** 250 feet (measurement)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Triumphal Arch
+- **Predicate:** proposed_height
+- **Object:** 250 feet (measurement)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > The arch would stand 250 feet tall from its base to a torch held aloft by a Lady Liberty-like figure.
 
-### c_003 — attributed, single source
-**Subject entities:** Triumphal Arch
-**Predicate:** proposed_design_elements
-**Object:** two eagles, four lions, all gilded (architectural_detail)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Triumphal Arch
+- **Predicate:** proposed_design_elements
+- **Object:** two eagles, four lions, all gilded (architectural_detail)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > The figure atop the arch would be flanked by two eagles and guarded at the base by four lions, all gilded.
 
-### c_004 — attributed, single source
-**Subject entities:** Triumphal Arch
-**Predicate:** proposed_inscription
-**Object:** One Nation Under God; Liberty and Justice for All (text_inscription)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Triumphal Arch
+- **Predicate:** proposed_inscription
+- **Object:** One Nation Under God; Liberty and Justice for All (text_inscription)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > The phrases 'One Nation Under God' and 'Liberty and Justice for All' would be inscribed in gold lettering atop either side of the monument.
 
-### c_005 — confirmed, primary document
-**Subject entities:** Doug Burgum
-**Predicate:** presented_proposal
-**Object:** pitch for the arch (public_statement)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Doug Burgum
+- **Predicate:** presented_proposal
+- **Object:** pitch for the arch (public_statement)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > Interior Secretary Doug Burgum pitched the arch in a statement he personally delivered at the April 16 meeting.
 
-### c_006 — attributed, single source
-**Subject entities:** U.S. Commission of Fine Arts; Thomas Luebke
-**Predicate:** received_public_comment
-**Object:** approximately 1,000 written comments, all opposing (public_comment_tally)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Commission of Fine Arts; Thomas Luebke
+- **Predicate:** received_public_comment
+- **Object:** approximately 1,000 written comments, all opposing (public_comment_tally)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > The commission received about 1,000 written comments, all opposing the arch, according to its secretary Thomas Luebke.
 
-### c_007 — confirmed, primary document
-**Subject entities:** U.S. Commission of Fine Arts
-**Predicate:** in_person_comment
-**Object:** 3 of 4 in-person commenters opposed (count)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Commission of Fine Arts
+- **Predicate:** in_person_comment
+- **Object:** 3 of 4 in-person commenters opposed (count)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > Three of four people who delivered public comment at the meeting opposed the arch.
 
-### c_008 — attributed, single source
-**Subject entities:** James McCrery II
-**Predicate:** suggested_modification
-**Object:** remove figure and eagles, reducing height approximately 80 feet (design_recommendation)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** James McCrery II
+- **Predicate:** suggested_modification
+- **Object:** remove figure and eagles, reducing height approximately 80 feet (design_recommendation)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > Commission vice chairman James McCrery II said he preferred the arch without the figure and eagles on top, which would reduce its height by about 80 feet.
 
-### c_009 — attributed, single source
-**Subject entities:** James McCrery II
-**Predicate:** objected_to
-**Object:** lions (design_element)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** James McCrery II
+- **Predicate:** objected_to
+- **Object:** lions (design_element)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > McCrery objected to the lions at the base, saying they are 'not a beast natural to the North American continent.'
 
-### c_010 — confirmed, single source
-**Subject entities:** veterans group; historian; federal court
-**Predicate:** filed_suit
-**Object:** lawsuit to block arch construction (legal_action)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** veterans group; historian; federal court
+- **Predicate:** filed_suit
+- **Object:** lawsuit to block arch construction (legal_action)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > A group of veterans and a historian has sued in federal court to block construction of the arch, arguing it would disrupt the sightline between the Lincoln Memorial and Arlington House.
 
-### c_011 — confirmed, primary document
-**Subject entities:** Eisenhower Executive Office Building
-**Predicate:** received_public_comment
-**Object:** 100% opposition (public_comment_tally)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_011
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Eisenhower Executive Office Building
+- **Predicate:** received_public_comment
+- **Object:** 100% opposition (public_comment_tally)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > Public comment on the proposed EEOB paint job was 100% against the proposal, with opponents arguing it would harm the granite.
 
-### c_012 — attributed, single source
-**Subject entities:** underground screening center; Sherman Park
-**Predicate:** proposed_schedule
-**Object:** construction August 2026; operational July 2028 (project_timeline)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** underground screening center; Sherman Park
+- **Predicate:** proposed_schedule
+- **Object:** construction August 2026; operational July 2028 (project_timeline)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > Officials said construction on the underground screening center is planned to begin in August, with the facility operational by July 2028.
 
-### c_013 — attributed, single source
-**Subject entities:** Davis Ingle
-**Predicate:** stated
-**Object:** Make America Safe and Beautiful Again (official_statement)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Davis Ingle
+- **Predicate:** stated
+- **Object:** Make America Safe and Beautiful Again (official_statement)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > White House spokesperson Davis Ingle called the approval 'another step in accomplishing President Trump's promise to the American people from the campaign trail — to Make America Safe and Beautiful Again.'
 
-### c_014 — attributed, single source
-**Subject entities:** Chamberlain Harris
-**Predicate:** stated
-**Object:** homogenous environment; sense of belonging (official_statement)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Chamberlain Harris
+- **Predicate:** stated
+- **Object:** homogenous environment; sense of belonging (official_statement)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > Commissioner Chamberlain Harris, also Trump's deputy director of Oval Office Operations, said painting the EEOB white would create a 'homogenous environment' and help foster a 'sense of belonging' for White House staff.
 
@@ -249,7 +278,3 @@ Officials said construction is planned to begin in August, with the facility ope
 **Access date:** 2026-04-17
 **Title:** Federal agency approves concept for Trump's Triumphal Arch
 **URL:** https://apnews.com/article/trump-arch-eisenhower-building-white-house-visitors-e4bd76b1d0dd3c597efb03f55c87390e
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

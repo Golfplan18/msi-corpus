@@ -112,7 +112,7 @@ Forty years from now there will be Christian historians writing the history of t
     Joanna Rivera Blackwell is a heteronym in Main Street Independent's editorial architecture — an analytical voice, not autobiography of any actual person. The position this column expresses is the publication's position on the territory Joanna Rivera Blackwell's lane covers, rendered through Joanna Rivera Blackwell's register.
   </p>
   <p class="op-ed-footer-links">
-    <a href="/opinion/joanna-rivera-blackwell">About Joanna Rivera Blackwell</a> · <a href="/about#how-the-pen-names-work">How the pen names work</a>
+    <a href="/advocacy/joanna-rivera-blackwell">About Joanna Rivera Blackwell</a> · <a href="/about#how-the-pen-names-work">How the pen names work</a>
   </p>
 </footer>
 

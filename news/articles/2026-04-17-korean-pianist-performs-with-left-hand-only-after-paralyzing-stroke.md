@@ -112,8 +112,6 @@ Medically, recovery remains unlikely. Dr. Koo Jaseong, Lee's physician at St. Ma
 
 For now, Lee continues to perform with his left hand, drawing audiences who witness not only technical skill but something deeper: the musical expression of a person who lost everything and chose to create again.
 
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not triggered. Licensed under CC0.*
-
 ## Atomic claims
 
 ### c_001 — confirmed, primary document
@@ -202,7 +200,3 @@ For now, Lee continues to perform with his left hand, drawing audiences who witn
 **Access date:** 2026-04-17
 **Title:** After stroke, Korean pianist recreates himself as a one-handed performer
 **URL:** https://apnews.com/article/korea-onehanded-pianist-stroke-4aa4d4ebf27c4cf68e25e470e116b44d
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

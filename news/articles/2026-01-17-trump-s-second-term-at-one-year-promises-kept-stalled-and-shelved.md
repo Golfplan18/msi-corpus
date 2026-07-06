@@ -1,6 +1,5 @@
 ---
 headline: 'Trump''s second term at one year: promises kept, stalled and shelved'
-slug: 2026-01-17-trump-second-term-one-year-promise-scorecard
 publish_date: '2026-01-17'
 lede: 'President Donald Trump said this week that he has "kept all my promises and much more," addressing a Detroit audience as his administration approaches the one-year mark of his second term. An Associated Press review published Friday traced the status of his most prominent commitments, finding outcomes that span partial execution, legal obstacles and quiet withdrawal from public discussion.
 
@@ -22,45 +21,44 @@ primary_themes:
 - immigration
 - domestic policy
 topic_tags:
-  - "artificial intelligence"
-  - "crime, law and justice"
-  - government
-  - "government policy"
-  - "human interest"
-  - "human migration"
+- government policy
+- politics
+- political process
+- achievement
+- election
 storyline_nexus:
-  - trump-greenland-acquisition
+- trump-greenland-ambitions
 geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
+- value: truthfulness
   intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.85
-- value: truthfulness
-  intensity: 0.7
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:03:43Z'
+  intensity: 0.9
+- value: informed_citizenship
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:23:38Z'
 source_cluster_id: cluster_ap_2026-01-18_trump-promises-second-term-greenland-alc
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 20
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 8
-    reported: 4
     contested: 0
+    appears: 0
+    attributed: 8
     confirmed: 8
+    reported: 4
+    alleged: 0
   corroboration:
     primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 0
     single_source: 20
     two_independent: 0
+    one_originating_plus_primary_document: 0
+    primary_document: 0
 sources:
   count: 1
   outlets:
@@ -74,25 +72,20 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-14-us-envoy-declares-gaza-ceasefire-enters-second-phase-as-panel-head-named
-  relation: related
-  strength: 0.7396
-  confidence: medium
-- slug: 2026-01-11-hamas-pledges-to-dissolve-gaza-government-as-transition-remains-in-limbo
-  relation: related
-  strength: 0.7524
-  confidence: medium
-- slug: 2026-01-12-bipartisan-lawmakers-head-to-denmark-as-trump-presses-greenland-claim
-  relation: related
-  strength: 0.731
-  confidence: medium
-- slug: 2026-01-04-trump-renews-greenland-push-warns-cuba-and-colombia-after-venezuela-operation
-  relation: related
-  strength: 0.7541
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Here’s where Trump’s most jaw-dropping promises stand a year into his second term
+- Here’s where Trump’s most jaw-dropping promises stand a year into his second term
+- Some of his ideas that once seemed implausible, if not outright fanciful, are now reality. But there are other things that Trump could not deliver on.
+- “I’ve kept all my promises and much more,” Trump insisted during a speech this week in Detroit.
+- With his administration nearing the one-year mark, here’s a look at where some of his most jaw-dropping promises stand:
+- What’s been accomplished: Bringing back the War Department
 
 President Donald Trump said this week that he has "kept all my promises and much more," addressing a Detroit audience as his administration approaches the one-year mark of his second term. An Associated Press review published Friday traced the status of his most prominent commitments, finding outcomes that span partial execution, legal obstacles and quiet withdrawal from public discussion.
 
@@ -140,187 +133,225 @@ Trump has proposed a Golden Dome missile defense system — a $175 billion, mult
 
 Trump said he spoke with Major League Baseball Commissioner Rob Manfred before Manfred reinstated Cincinnati Reds slugger Pete Rose in May. Rose, who died in 2024 with a record 4,256 career hits, had been banned from baseball over gambling. Trump now says he wants Rose in the Hall of Fame. That decision rests with the Hall's Classic Baseball Committee, which likely will not meet until at least December 2027.
 
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. Specification: [/methodology](/methodology). Human review: not triggered. Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*
-
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Donald Trump
-**Predicate:** stated
-**Object:** I've kept all my promises and much more (quotation)
-**Temporal:** 2026-01-17
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** stated
+- **Object:** I've kept all my promises and much more (quotation)
+- **Temporal:** 2026-01-17
+- **Sources:** src_001
 
 > Trump said 'I've kept all my promises and much more' during a speech in Detroit.
 
-### c_002 — attributed, single source
-**Subject entities:** Donald Trump; Greenland
-**Predicate:** stated_intention
-**Object:** one way or another (quotation)
-**Temporal:** 2026-01-17
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Greenland
+- **Predicate:** stated_intention
+- **Object:** one way or another (quotation)
+- **Temporal:** 2026-01-17
+- **Sources:** src_001
 
 > Trump said the United States will 'have' Greenland 'one way or another.'
 
-### c_003 — confirmed, single source
-**Subject entities:** Donald Trump; Jeff Landry
-**Predicate:** appointed
-**Object:** special U.S. envoy to Greenland (role)
-**Temporal:** 2026-01-17
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Jeff Landry
+- **Predicate:** appointed
+- **Object:** special U.S. envoy to Greenland (role)
+- **Temporal:** 2026-01-17
+- **Sources:** src_001
 
 > Trump tapped Gov. Jeff Landry, R-La., as special U.S. envoy to Greenland.
 
-### c_004 — attributed, single source
-**Subject entities:** Denmark; Greenland
-**Predicate:** stated_position
-**Object:** will not cede the world's largest island (policy_position)
-**Temporal:** 2026-01-17
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Denmark; Greenland
+- **Predicate:** stated_position
+- **Object:** will not cede the world's largest island (policy_position)
+- **Temporal:** 2026-01-17
+- **Sources:** src_001
 
 > Denmark has said it is not ceding Greenland and that any invasion could have geopolitical implications given Denmark's NATO membership.
 
-### c_005 — confirmed, single source
-**Subject entities:** William K. Marshall III; Bureau of Prisons; Alcatraz
-**Predicate:** toured_and_planning
-**Object:** design concepts, preliminary budgets, logistical models under development (administrative_action)
-**Temporal:** 2025-07
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** William K. Marshall III; Bureau of Prisons; Alcatraz
+- **Predicate:** toured_and_planning
+- **Object:** design concepts, preliminary budgets, logistical models under development (administrative_action)
+- **Temporal:** 2025-07
+- **Sources:** src_001
 
 > William K. Marshall III, director of the Bureau of Prisons, toured Alcatraz island in July; engineers and planners are developing design concepts, preliminary budgets, and logistical models.
 
-### c_006 — confirmed, single source
-**Subject entities:** U.S. Department of Defense; Qatar; Donald Trump
-**Predicate:** accepted_aircraft
-**Object:** luxury Boeing 747 (asset)
-**Temporal:** 2025-05
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Department of Defense; Qatar; Donald Trump
+- **Predicate:** accepted_aircraft
+- **Object:** luxury Boeing 747 (asset)
+- **Temporal:** 2025-05
+- **Sources:** src_001
 
 > U.S. defense officials accepted a luxury Boeing 747 from Qatar in May for Trump's eventual use as Air Force One.
 
-### c_007 — attributed, single source
-**Subject entities:** U.S. Air Force
-**Predicate:** estimated_cost
-**Object:** 400000000 (currency_usd)
-**Temporal:** 2026-01-17
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Air Force
+- **Predicate:** estimated_cost
+- **Object:** 400000000 (currency_usd)
+- **Temporal:** 2026-01-17
+- **Sources:** src_001
 
 > The Air Force estimates retrofitting the Qatari aircraft to meet U.S. security and communications standards will cost about $400 million; outside experts put the figure closer to $1 billion.
 
-### c_008 — reported, single source
-**Subject entities:** Donald Trump; Air Force One
-**Predicate:** projected_completion
-**Object:** after January 2029 (timeline)
-**Temporal:** 2026-01-17
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Air Force One
+- **Predicate:** projected_completion
+- **Object:** after January 2029 (timeline)
+- **Temporal:** 2026-01-17
+- **Sources:** src_001
 
 > Completion of the Air Force One retrofit may not occur until after Trump leaves office in January 2029.
 
-### c_009 — attributed, single source
-**Subject entities:** Donald Trump
-**Predicate:** acknowledged
-**Object:** it's pretty clear I'm not allowed to run (quotation)
-**Temporal:** 2025-10
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** acknowledged
+- **Object:** it's pretty clear I'm not allowed to run (quotation)
+- **Temporal:** 2025-10
+- **Sources:** src_001
 
 > Trump acknowledged in October, 'I would say that if you read it, it's pretty clear I'm not allowed to run,' referring to a third presidential term.
 
-### c_010 — attributed, single source
-**Subject entities:** Susie Wiles; Donald Trump
-**Predicate:** told
-**Object:** knows he can't run again (quotation)
-**Temporal:** 2026-01-17
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Susie Wiles; Donald Trump
+- **Predicate:** told
+- **Object:** knows he can't run again (quotation)
+- **Temporal:** 2026-01-17
+- **Sources:** src_001
 
 > White House chief of staff Susie Wiles told Vanity Fair that Trump 'knows he can't run again.'
 
-### c_011 — confirmed, single source
-**Subject entities:** Donald Trump; Department of Defense
-**Predicate:** signed_executive_order
-**Object:** rename to Department of War (policy_action)
-**Temporal:** 2025-09
-**Source IDs:** src_001
+### c_011
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Department of Defense
+- **Predicate:** signed_executive_order
+- **Object:** rename to Department of War (policy_action)
+- **Temporal:** 2025-09
+- **Sources:** src_001
 
 > Trump signed an executive order in September directing the Department of Defense to rename itself the Department of War; carrying out the change would require an act of Congress.
 
-### c_012 — confirmed, single source
-**Subject entities:** Kennedy Center; Donald Trump
-**Predicate:** voted_to_rename
-**Object:** board voted to add Trump's name (institutional_action)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_012
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Kennedy Center; Donald Trump
+- **Predicate:** voted_to_rename
+- **Object:** board voted to add Trump's name (institutional_action)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > The Kennedy Center board of trustees voted in December to add Trump's name to the venue; a formal legal change would require congressional approval.
 
-### c_013 — reported, single source
-**Subject entities:** Guantanamo Bay; Trump administration
-**Predicate:** detained_migrants
-**Object:** approximately 500 at peak (count)
-**Temporal:** 2025-02/2025-06
-**Source IDs:** src_001
+### c_013
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Guantanamo Bay; Trump administration
+- **Predicate:** detained_migrants
+- **Object:** approximately 500 at peak (count)
+- **Temporal:** 2025-02/2025-06
+- **Sources:** src_001
 
 > About 500 immigrants were held at Guantanamo Bay between February and June 2025; those numbers have since declined and at times reached zero.
 
-### c_014 — reported, single source
-**Subject entities:** Arab nations; Gaza; Donald Trump
-**Predicate:** rejected_proposal
-**Object:** Gaza development as resort destination (policy_proposal)
-**Temporal:** 2026-01-17
-**Source IDs:** src_001
+### c_014
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Arab nations; Gaza; Donald Trump
+- **Predicate:** rejected_proposal
+- **Object:** Gaza development as resort destination (policy_proposal)
+- **Temporal:** 2026-01-17
+- **Sources:** src_001
 
 > Arab nations rejected Trump's proposal to turn Gaza into a vacation and resort destination; Trump no longer raises the idea publicly, according to the AP.
 
-### c_015 — attributed, single source
-**Subject entities:** Mark Carney; Donald Trump; Canada
-**Predicate:** stated
-**Object:** won't be for sale, ever (quotation)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Mark Carney; Donald Trump; Canada
+- **Predicate:** stated
+- **Object:** won't be for sale, ever (quotation)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Canadian Prime Minister Mark Carney told Trump during a White House visit that Canada 'won't be for sale, ever.'
 
-### c_016 — attributed, single source
-**Subject entities:** Mark Carney; Donald Trump; Canada
-**Predicate:** suggested
-**Object:** Trump lost interest in Canada proposal (assessment)
-**Temporal:** 2025-06
-**Source IDs:** src_001
+### c_016
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Mark Carney; Donald Trump; Canada
+- **Predicate:** suggested
+- **Object:** Trump lost interest in Canada proposal (assessment)
+- **Temporal:** 2025-06
+- **Sources:** src_001
 
 > Carney suggested in June that Trump had lost interest in making Canada the 51st state.
 
-### c_017 — confirmed, single source
-**Subject entities:** Donald Trump; White House
-**Predicate:** estimated_cost
-**Object:** 400000000 (currency_usd)
-**Temporal:** 2026-01-17
-**Source IDs:** src_001
+### c_017
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; White House
+- **Predicate:** estimated_cost
+- **Object:** 400000000 (currency_usd)
+- **Temporal:** 2026-01-17
+- **Sources:** src_001
 
 > Trump's estimated cost for the White House ballroom project rose from $200 million to $400 million; the White House describes portions of its plans as 'top secret.'
 
-### c_018 — reported, single source
-**Subject entities:** Golden Dome; U.S. Department of Defense
-**Predicate:** cost_projection
-**Object:** 175000000000 (currency_usd)
-**Temporal:** 2026-01-17
-**Source IDs:** src_001
+### c_018
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Golden Dome; U.S. Department of Defense
+- **Predicate:** cost_projection
+- **Object:** 175000000000 (currency_usd)
+- **Temporal:** 2026-01-17
+- **Sources:** src_001
 
 > The proposed Golden Dome missile defense program would cost $175 billion; defense officials said full operation by January 2029 is unlikely, with initial capability the more achievable target.
 
-### c_019 — confirmed, single source
-**Subject entities:** Pete Rose; Rob Manfred; Baseball Hall of Fame
-**Predicate:** reinstated
-**Object:** Pete Rose reinstated May 2025, Hall of Fame decision pending (institutional_action)
-**Temporal:** 2025-05
-**Source IDs:** src_001
+### c_019
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Pete Rose; Rob Manfred; Baseball Hall of Fame
+- **Predicate:** reinstated
+- **Object:** Pete Rose reinstated May 2025, Hall of Fame decision pending (institutional_action)
+- **Temporal:** 2025-05
+- **Sources:** src_001
 
 > MLB Commissioner Rob Manfred reinstated Pete Rose in May; Trump wants Rose in the Hall of Fame, but that decision rests with the Classic Baseball Committee, which likely will not meet until at least December 2027.
 
-### c_020 — confirmed, single source
-**Subject entities:** Donald Trump; gold card program
-**Predicate:** announced_program
-**Object:** $1 million individual, $2 million per corporate employee, $15,000 fee (policy_terms)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_020
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; gold card program
+- **Predicate:** announced_program
+- **Object:** $1 million individual, $2 million per corporate employee, $15,000 fee (policy_terms)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > Trump's gold card program offers legal status and an eventual pathway to citizenship for individuals paying $1 million plus a $15,000 fee, and corporations paying $2 million per foreign-born employee.
 
@@ -329,10 +360,5 @@ Trump said he spoke with Major League Baseball Commissioner Rob Manfred before M
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Will Weissert
 **Publication date:** 2026-01-17
-**Access date:** 2026-01-17
 **Title:** Here's where Trump's most jaw-dropping promises of his first year stand
 **URL:** https://apnews.com/article/trump-promises-second-term-greenland-alcatraz-canada-858c0f1d3ec934dc696a70a5b38eace3
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

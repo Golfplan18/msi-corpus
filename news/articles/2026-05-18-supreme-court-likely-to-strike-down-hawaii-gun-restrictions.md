@@ -18,7 +18,8 @@ topic_tags:
   - government
   - "crime, law and justice"
   - law
-storyline_nexus: []
+storyline_nexus:
+- supreme-court-constitutional-cases
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship
@@ -95,142 +96,170 @@ The case was brought by a gun-rights group and three residents from Maui. The Tr
 
 The Supreme Court is also hearing another gun case this term examining whether people who regularly use marijuana and other drugs can legally own firearms. In recent years, the court has struck down a federal ban on gun accessories called bump stocks. The justices have upheld regulations on ghost guns and a federal law aimed at protecting domestic violence victims.
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
-### c_001 — appears, single source
-**Subject entities:** Supreme Court of the United States; Hawaii
-**Predicate:** likely_to_strike_down
-**Object:** gun restrictions requiring property owner permission (legal_ruling)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_001
+- **Hedge:** appears
+- **Corroboration:** single_source
+- **Subject entities:** Supreme Court of the United States; Hawaii
+- **Predicate:** likely_to_strike_down
+- **Object:** gun restrictions requiring property owner permission (legal_ruling)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > The Supreme Court appeared likely to strike down Hawaii's restrictions on carrying guns into stores, malls, and hotels without explicit property owner permission.
 
-### c_002 — attributed, single source
-**Subject entities:** Trump administration
-**Predicate:** backed_challenge
-**Object:** legal challenge to Hawaii gun law (legal_action)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Trump administration
+- **Predicate:** backed_challenge
+- **Object:** legal challenge to Hawaii gun law (legal_action)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > The Trump administration backed the legal challenge to Hawaii's gun restrictions.
 
-### c_003 — attributed, single source
-**Subject entities:** State of Hawaii
-**Predicate:** stated_purpose
-**Object:** ensure private owners control over firearms on their property (policy_rationale)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** State of Hawaii
+- **Predicate:** stated_purpose
+- **Object:** ensure private owners control over firearms on their property (policy_rationale)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > Hawaii said the measure aims to protect private property owners' right to decide whether firearms are allowed on their land.
 
-### c_004 — confirmed, primary document
-**Subject entities:** Samuel Alito
-**Predicate:** said
-**Object:** Second Amendment being treated as second-class (speech_act)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Samuel Alito
+- **Predicate:** said
+- **Object:** Second Amendment being treated as second-class (speech_act)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > Justice Samuel Alito said, 'You're just relegating the Second Amendment to second-class status.'
 
-### c_005 — attributed, single source
-**Subject entities:** Hawaii; gun permit holders
-**Predicate:** had_few_permits
-**Object:** very low number of concealed-carry permits pre-2022 (historical_fact)
-**Temporal:** before 2022
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Hawaii; gun permit holders
+- **Predicate:** had_few_permits
+- **Object:** very low number of concealed-carry permits pre-2022 (historical_fact)
+- **Temporal:** before 2022
+- **Sources:** src_001
 
 > Very few people had concealed-carry permits in Hawaii before the Supreme Court's 2022 ruling.
 
-### c_006 — attributed, single source
-**Subject entities:** State of Hawaii
-**Predicate:** granted_permits
-**Object:** thousands of permits post-2022 (legal_action)
-**Temporal:** 2022-2026
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** State of Hawaii
+- **Predicate:** granted_permits
+- **Object:** thousands of permits post-2022 (legal_action)
+- **Temporal:** 2022-2026
+- **Sources:** src_001
 
 > The state has granted thousands of concealed-carry permits since the 2022 ruling.
 
-### c_007 — reported, single source
-**Subject entities:** four states
-**Predicate:** enacted_laws
-**Object:** restrictions requiring property owner permission (legal_restriction)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** four states
+- **Predicate:** enacted_laws
+- **Object:** restrictions requiring property owner permission (legal_restriction)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > Four other states have enacted similar restrictions requiring property owner permission for firearms.
 
-### c_008 — reported, single source
-**Subject entities:** New York
-**Predicate:** blocked_restrictions
-**Object:** presumptive private property gun restrictions (legal_ruling)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** New York
+- **Predicate:** blocked_restrictions
+- **Object:** presumptive private property gun restrictions (legal_ruling)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > Presumptive restrictions on guns on private property have been blocked in places like New York.
 
-### c_009 — reported, single source
-**Subject entities:** Hawaii business owners
-**Predicate:** could_bar_guns
-**Object:** independent authority to prohibit firearms (legal_consequence)
-**Temporal:** conditional_future
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Hawaii business owners
+- **Predicate:** could_bar_guns
+- **Object:** independent authority to prohibit firearms (legal_consequence)
+- **Temporal:** conditional_future
+- **Sources:** src_001
 
 > If struck down, Hawaii business owners could independently choose to bar guns from their establishments.
 
-### c_010 — reported, single source
-**Subject entities:** court ruling
-**Predicate:** would_not_affect
-**Object:** state restrictions in parks, beaches, alcohol-serving restaurants (legal_limitation)
-**Temporal:** conditional_future
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** court ruling
+- **Predicate:** would_not_affect
+- **Object:** state restrictions in parks, beaches, alcohol-serving restaurants (legal_limitation)
+- **Temporal:** conditional_future
+- **Sources:** src_001
 
 > The ruling would not affect other state restrictions on guns in parks, beaches, and restaurants that serve alcohol.
 
-### c_011 — attributed, single source
-**Subject entities:** gun-rights group; three Maui residents
-**Predicate:** brought_case
-**Object:** challenge to Hawaii gun restrictions (legal_action)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** gun-rights group; three Maui residents
+- **Predicate:** brought_case
+- **Object:** challenge to Hawaii gun restrictions (legal_action)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > A gun-rights group and three residents from Maui brought the case.
 
-### c_012 — reported, single source
-**Subject entities:** Supreme Court
-**Predicate:** expected_decision_timing
-**Object:** decision by late June 2026 (temporal_fact)
-**Temporal:** 2026-06
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Supreme Court
+- **Predicate:** expected_decision_timing
+- **Object:** decision by late June 2026 (temporal_fact)
+- **Temporal:** 2026-06
+- **Sources:** src_001
 
 > The Supreme Court is expected to hand down a decision by late June.
 
-### c_013 — reported, single source
-**Subject entities:** Supreme Court
-**Predicate:** hearing_case
-**Object:** gun ownership eligibility for marijuana and drug users (legal_case)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_013
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Supreme Court
+- **Predicate:** hearing_case
+- **Object:** gun ownership eligibility for marijuana and drug users (legal_case)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > The Court is hearing another gun case about whether people who regularly use marijuana and other drugs can legally own guns.
 
-### c_014 — reported, single source
-**Subject entities:** Supreme Court
-**Predicate:** struck_down
-**Object:** federal ban on bump stocks (legal_ruling)
-**Temporal:** recent years
-**Source IDs:** src_001
+### c_014
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Supreme Court
+- **Predicate:** struck_down
+- **Object:** federal ban on bump stocks (legal_ruling)
+- **Temporal:** recent years
+- **Sources:** src_001
 
 > The justices struck down a federal ban on gun accessories called bump stocks.
 
-### c_015 — reported, single source
-**Subject entities:** Supreme Court
-**Predicate:** upheld_regulations
-**Object:** ghost gun regulations and domestic violence victim protection law (legal_ruling)
-**Temporal:** recent years
-**Source IDs:** src_001
+### c_015
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Supreme Court
+- **Predicate:** upheld_regulations
+- **Object:** ghost gun regulations and domestic violence victim protection law (legal_ruling)
+- **Temporal:** recent years
+- **Sources:** src_001
 
 > The justices upheld regulations on ghost guns and a federal law protecting domestic violence victims.
 
@@ -242,7 +271,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-05-18
 **Title:** Supreme Court may strike down Hawaii restrictions on carrying guns
 **URL:** https://apnews.com/article/supreme-court-guns-second-amendment-hawaii-0df783817c272aeb829245a99b8bed8b
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

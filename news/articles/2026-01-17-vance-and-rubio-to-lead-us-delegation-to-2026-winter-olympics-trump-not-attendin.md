@@ -1,6 +1,5 @@
 ---
 headline: Vance and Rubio to lead US delegation to 2026 Winter Olympics; Trump not attending
-slug: 2026-01-17-vance-and-rubio-to-lead-us-delegation-to-2026-winter-olympics-trump-not-attending
 publish_date: '2026-01-17'
 lede: Vice President JD Vance will lead the U.S. delegation to the 2026 Winter Olympics opening ceremony in Milan, Italy, the White House announced Saturday. Secretary of State Marco Rubio, second lady Usha Vance, U.S. Ambassador Tilman Fertitta, and a group of Olympic gold medalists will accompany him. President Donald Trump is not on the delegation list.
 nut_graf: The Milan Cortina Games open February 6, with Vance and Rubio set to attend an opening ceremony that will for the first time in Olympic history simultaneously stage Parades of Nations at four separate venues across northern Italy.
@@ -20,40 +19,40 @@ primary_themes:
 - US executive branch
 - international representation
 topic_tags:
-  - "business information"
-  - "crime, law and justice"
-  - "economy, business and finance"
-  - government
-  - "government policy"
-  - "international relations"
-storyline_nexus: []
-geographic_location: Milan, Italy
+- politics
+- international relations
+- sport event
+storyline_nexus:
+- trump-foreign-policy-reshaping
+geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship
-  intensity: 0.7
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:03:51Z'
+  intensity: 0.3
+- value: accountability_of_power
+  intensity: 0.3
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:24:57Z'
 source_cluster_id: cluster_ap_2026-01-18_us-delegation-winter-olympics-vance-rubi
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 12
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 9
     reported: 0
     contested: 0
+    attributed: 9
+    alleged: 0
     confirmed: 3
+    appears: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 0
-    single_source: 12
+    one_originating_plus_primary_document: 0
     two_independent: 0
+    primary_plus_secondary: 0
+    single_source: 12
 sources:
   count: 1
   outlets:
@@ -67,17 +66,18 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-11-bocelli-and-carey-to-headline-milan-cortina-winter-olympics-opening-ceremony
-  relation: related
-  strength: 0.7993
-  confidence: medium
-- slug: 2026-01-11-milan-s-catholic-archdiocese-carries-olympic-torch-into-parishes-ahead-of-2026-w
-  relation: related
-  strength: 0.6839
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Vance and Rubio set to attend Winter Olympics opening ceremony in Italy. Trump isn’t on the list
+- ROME, Italy (AP) — U.S. Vice President JD Vance will lead an American delegation to the 2026 Winter Olympics in Italy and attend the opening ceremony, the White House said Saturday.
+- Vance will be joined by U.S. Secretary of State Marco Rubio, second lady Usha Vance, U.S. Ambassador Tilman Fertitta and a group of Olympic gold medalists, the White House said in a statement.
+- U.S. President Donald Trump isn’t on the list of members of the delegation.
 
 Vice President JD Vance will lead the U.S. delegation to the 2026 Winter Olympics opening ceremony in Milan, Italy, the White House announced Saturday. Secretary of State Marco Rubio, second lady Usha Vance, U.S. Ambassador Tilman Fertitta, and a group of Olympic gold medalists will accompany him. President Donald Trump is not on the delegation list.
 
@@ -91,111 +91,135 @@ The White House provided no explanation for Trump's absence from the delegation.
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** JD Vance
-**Predicate:** will_lead
-**Object:** U.S. delegation to 2026 Winter Olympics (diplomatic_delegation)
-**Temporal:** 2026-02-06
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** JD Vance
+- **Predicate:** will_lead
+- **Object:** U.S. delegation to 2026 Winter Olympics (diplomatic_delegation)
+- **Temporal:** 2026-02-06
+- **Sources:** src_001
 
 > Vice President JD Vance will lead the U.S. delegation to the 2026 Winter Olympics in Italy.
 
-### c_002 — attributed, single source
-**Subject entities:** JD Vance
-**Predicate:** will_attend
-**Object:** opening ceremony (event)
-**Temporal:** 2026-02-06
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** JD Vance
+- **Predicate:** will_attend
+- **Object:** opening ceremony (event)
+- **Temporal:** 2026-02-06
+- **Sources:** src_001
 
 > Vance will attend the Winter Olympics opening ceremony.
 
-### c_003 — attributed, single source
-**Subject entities:** Marco Rubio
-**Predicate:** will_join
-**Object:** U.S. Olympic delegation (diplomatic_delegation)
-**Temporal:** 2026-02-06
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Marco Rubio
+- **Predicate:** will_join
+- **Object:** U.S. Olympic delegation (diplomatic_delegation)
+- **Temporal:** 2026-02-06
+- **Sources:** src_001
 
 > Secretary of State Marco Rubio will join the U.S. Olympic delegation.
 
-### c_004 — attributed, single source
-**Subject entities:** Usha Vance
-**Predicate:** will_join
-**Object:** U.S. Olympic delegation (diplomatic_delegation)
-**Temporal:** 2026-02-06
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Usha Vance
+- **Predicate:** will_join
+- **Object:** U.S. Olympic delegation (diplomatic_delegation)
+- **Temporal:** 2026-02-06
+- **Sources:** src_001
 
 > Second lady Usha Vance will join the delegation.
 
-### c_005 — attributed, single source
-**Subject entities:** Tilman Fertitta
-**Predicate:** will_join
-**Object:** U.S. Olympic delegation (diplomatic_delegation)
-**Temporal:** 2026-02-06
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Tilman Fertitta
+- **Predicate:** will_join
+- **Object:** U.S. Olympic delegation (diplomatic_delegation)
+- **Temporal:** 2026-02-06
+- **Sources:** src_001
 
 > U.S. Ambassador Tilman Fertitta will join the delegation.
 
-### c_006 — attributed, single source
-**Subject entities:** Donald Trump
-**Predicate:** not_on_list
-**Object:** U.S. Olympic delegation (diplomatic_delegation)
-**Temporal:** 2026-01-17
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** not_on_list
+- **Object:** U.S. Olympic delegation (diplomatic_delegation)
+- **Temporal:** 2026-01-17
+- **Sources:** src_001
 
 > President Donald Trump is not on the list of members of the delegation.
 
-### c_007 — confirmed, single source
-**Subject entities:** Milan Cortina Games
-**Predicate:** begins
-**Object:** 2026-02-06 (date)
-**Temporal:** 2026-02-06
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Milan Cortina Games
+- **Predicate:** begins
+- **Object:** 2026-02-06 (date)
+- **Temporal:** 2026-02-06
+- **Sources:** src_001
 
 > The Milan Cortina Games kick off on February 6.
 
-### c_008 — confirmed, single source
-**Subject entities:** San Siro stadium
-**Predicate:** will_host
-**Object:** Parade of Nations (event)
-**Temporal:** 2026-02-06
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** San Siro stadium
+- **Predicate:** will_host
+- **Object:** Parade of Nations (event)
+- **Temporal:** 2026-02-06
+- **Sources:** src_001
 
 > The opening ceremony Parade of Nations will be held at Milan's San Siro stadium, which will hold 60,000 spectators.
 
-### c_009 — confirmed, single source
-**Subject entities:** 2026 Milan Cortina Olympic Games
-**Predicate:** will_feature
-**Object:** four-venue simultaneous Parade of Nations (event_format)
-**Temporal:** 2026-02-06
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** 2026 Milan Cortina Olympic Games
+- **Predicate:** will_feature
+- **Object:** four-venue simultaneous Parade of Nations (event_format)
+- **Temporal:** 2026-02-06
+- **Sources:** src_001
 
 > For the first time in Olympic history, the Parade of Nations will take place simultaneously at four locations: Milan, Cortina, Predazzo, and Livigno.
 
-### c_010 — attributed, single source
-**Subject entities:** Jocelyne Lamoureux-Davidson; Monique Lamoureux-Morando
-**Predicate:** will_join
-**Object:** U.S. Olympic delegation (diplomatic_delegation)
-**Temporal:** 2026-02-06
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jocelyne Lamoureux-Davidson; Monique Lamoureux-Morando
+- **Predicate:** will_join
+- **Object:** U.S. Olympic delegation (diplomatic_delegation)
+- **Temporal:** 2026-02-06
+- **Sources:** src_001
 
 > Jocelyne Lamoureux-Davidson and Monique Lamoureux-Morando, twin sisters who were members of the ice hockey team that won gold in 2018, will join the delegation.
 
-### c_011 — attributed, single source
-**Subject entities:** Evan Lysacek
-**Predicate:** will_join
-**Object:** U.S. Olympic delegation (diplomatic_delegation)
-**Temporal:** 2026-02-06
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Evan Lysacek
+- **Predicate:** will_join
+- **Object:** U.S. Olympic delegation (diplomatic_delegation)
+- **Temporal:** 2026-02-06
+- **Sources:** src_001
 
 > Figure skater Evan Lysacek will join the delegation.
 
-### c_012 — attributed, single source
-**Subject entities:** Apolo Ohno
-**Predicate:** will_join
-**Object:** U.S. Olympic delegation (diplomatic_delegation)
-**Temporal:** 2026-02-06
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Apolo Ohno
+- **Predicate:** will_join
+- **Object:** U.S. Olympic delegation (diplomatic_delegation)
+- **Temporal:** 2026-02-06
+- **Sources:** src_001
 
 > Apolo Ohno, who won gold twice in short track speed skating, will join the delegation.
 
@@ -203,10 +227,5 @@ The White House provided no explanation for Trump's absence from the delegation.
 
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Publication date:** 2026-01-17
-**Access date:** 2026-01-17
 **Title:** Vance and Rubio set to attend Winter Olympics opening ceremony in Italy. Trump isn't on the list
 **URL:** https://apnews.com/article/us-delegation-winter-olympics-vance-rubio-italy-4cda5924bd4bec7732c065e2a170cbaf
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

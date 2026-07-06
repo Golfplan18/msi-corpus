@@ -13,47 +13,44 @@ primary_themes:
 - business impact
 - regulatory uncertainty
 topic_tags:
-  - "economy, business and finance"
-  - "international trade"
-  - politics
-  - "government policy"
-  - "science and technology"
-  - "artificial intelligence"
+- international trade
+- government policy
+- economy
+- tax
+- judiciary
 storyline_nexus:
-  - us-administration-2026
-  - trump-tariff-policy
-  - us-china-relations
-geographic_location: United States (international implications)
+- trump-tariff-wars
+geographic_location: United States
 floor_values_engaged:
-- value: truthfulness
-  intensity: 0.95
 - value: accountability_of_power
-  intensity: 0.85
-- value: informed_citizenship
   intensity: 0.9
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+- value: equality_fairness
+  intensity: 0.6
+- value: informed_citizenship
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T04:27:43Z'
 source_cluster_id: cluster_ap_2026-02-23_business-tariff-trump-supreme-court-596a
 gdelt_event_ids: []
-consensus_floor_version: v1.0
-publication_mindspec_version: v1.2.5
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 8
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 4
-    reported: 2
     contested: 0
     confirmed: 2
+    attributed: 4
+    reported: 2
+    appears: 0
+    alleged: 0
   corroboration:
-    primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
-    primary_document: 2
-    single_source: 6
     two_independent: 0
+    primary_document: 2
+    primary_plus_secondary: 0
+    single_source: 6
 sources:
   count: 1
   outlets:
@@ -71,25 +68,16 @@ image:
   url: /articles/2026-02-21-businesses-brace-for-uncertain-trade-policy-after-supreme-court-tariff-ruling.png
   alt: 'Illustration accompanying article: Businesses brace for uncertain trade policy after Supreme Court tariff ruling'
   source: ai_generated
-cross_article_links:
-- slug: 2026-04-19-refund-system-opens-for-tariffs-trump-imposed-without-authority
-  relation: continues
-  strength: 0.867
-  confidence: high
-- slug: 2026-04-19-carney-says-canada-must-reduce-u-s-economic-ties-over-trump-tariffs
-  relation: related
-  strength: 0.8347
-  confidence: medium
-- slug: 2026-01-13-trump-s-iran-tariffs-threaten-us-china-trade-truce-could-raise-american-prices
-  relation: related
-  strength: 0.8653
-  confidence: medium
-- slug: 2026-01-13-trump-visits-dearborn-ford-plant-defends-tariffs-as-voters-worry-about-rising-pr
-  relation: related
-  strength: 0.8034
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- Businesses face uncertainty as Supreme Court strikes down Trump tariffs
+- Trump administration takes policy action on reported issue.
+- Associated Press reports on developing situation.
 
 The Supreme Court struck down President Donald Trump's tariffs Friday, ruling 6-3 that the International Emergency Economic Powers Act did not give the president authority to impose import taxes — a power that belongs to Congress. Within hours, Trump announced plans to impose a 10% tariff on all imports for 150 days and said he would explore other legal mechanisms to restore the duties. The ruling left businesses across industries facing what they described as a prolonged period of uncertainty.
 
@@ -139,79 +127,93 @@ With Trump signaling determination to maintain tariffs through alternative legal
 
 The ruling did not resolve how refunds would be distributed or whether companies could recover sums already paid. The structural advantage of larger companies over smaller ones — and the practical impossibility of refunding individual consumers — appears likely to persist absent legislative action by Congress.
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Supreme Court of the United States; IEEPA
-**Predicate:** ruled_against
-**Object:** IEEPA tariff authority; 6-3 majority (court_decision)
-**Temporal:** 2026-02-21
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Supreme Court of the United States; IEEPA
+- **Predicate:** ruled_against
+- **Object:** IEEPA tariff authority; 6-3 majority (court_decision)
+- **Temporal:** 2026-02-21
+- **Sources:** src_001
 
 > The Supreme Court ruled 6-3 that the International Emergency Economic Powers Act did not give the president authority to tax imports.
 
-### c_002 — attributed, single source
-**Subject entities:** Donald Trump
-**Predicate:** announced
-**Object:** 10% tariff on all imports; 150-day duration (policy_announcement)
-**Temporal:** 2026-02-21
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** announced
+- **Object:** 10% tariff on all imports; 150-day duration (policy_announcement)
+- **Temporal:** 2026-02-21
+- **Sources:** src_001
 
 > Trump announced plans to impose a 10% tariff on all imports for 150 days.
 
-### c_003 — reported, single source
-**Subject entities:** Trump tariffs
-**Predicate:** estimated_at
-**Object:** $133 billion to $175 billion (monetary_amount)
-**Temporal:** 2026-02-21
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Trump tariffs
+- **Predicate:** estimated_at
+- **Object:** $133 billion to $175 billion (monetary_amount)
+- **Temporal:** 2026-02-21
+- **Sources:** src_001
 
 > An estimated $133 billion to $175 billion in previously collected tariffs are now deemed illegal.
 
-### c_004 — reported, single source
-**Subject entities:** tariff clawback process
-**Predicate:** will_likely_favor
-**Object:** larger companies; resource disparity (structural_outcome)
-**Temporal:** 2026-02-21
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** tariff clawback process
+- **Predicate:** will_likely_favor
+- **Object:** larger companies; resource disparity (structural_outcome)
+- **Temporal:** 2026-02-21
+- **Sources:** src_001
 
 > Clawback efforts will likely favor larger companies with more resources over small businesses and consumers.
 
-### c_005 — attributed, single source
-**Subject entities:** Michael Pearce; Oxford Economics
-**Predicate:** said
-**Object:** near-term gains offset by prolonged uncertainty (economic_prediction)
-**Temporal:** 2026-02-21
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Michael Pearce; Oxford Economics
+- **Predicate:** said
+- **Object:** near-term gains offset by prolonged uncertainty (economic_prediction)
+- **Temporal:** 2026-02-21
+- **Sources:** src_001
 
 > Michael Pearce, an economist at Oxford Economics, said any near-term boost from lower tariffs would be offset by prolonged uncertainty.
 
-### c_006 — confirmed, primary document
-**Subject entities:** Supreme Court ruling; tariffs
-**Predicate:** leaves_in_effect
-**Object:** steel, furniture, cabinets, vanities; specific products (product_list)
-**Temporal:** 2026-02-21
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Supreme Court ruling; tariffs
+- **Predicate:** leaves_in_effect
+- **Object:** steel, furniture, cabinets, vanities; specific products (product_list)
+- **Temporal:** 2026-02-21
+- **Sources:** src_001
 
 > The Supreme Court ruling leaves in effect tariffs on steel, upholstered furniture, kitchen cabinets, and bathroom vanities.
 
-### c_007 — attributed, single source
-**Subject entities:** Ron Kurnik; Superior Coffee Roasting Co.
-**Predicate:** raised_prices_and_faced_tariffs
-**Object:** 6% price increase, twice; Canadian retaliatory tariffs (business_impact)
-**Temporal:** 2026-02-21
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ron Kurnik; Superior Coffee Roasting Co.
+- **Predicate:** raised_prices_and_faced_tariffs
+- **Object:** 6% price increase, twice; Canadian retaliatory tariffs (business_impact)
+- **Temporal:** 2026-02-21
+- **Sources:** src_001
 
 > Ron Kurnik, owner of Superior Coffee Roasting Co. in Michigan, said his company raised prices by 6% twice since tariffs went into effect and faced retaliatory tariffs from Canada.
 
-### c_008 — attributed, single source
-**Subject entities:** Lamberto Frescobaldi; UIV; Italian wine industry
-**Predicate:** warned
-**Object:** risk of reimposed tariffs via alternative legal channels (industry_assessment)
-**Temporal:** 2026-02-21
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Lamberto Frescobaldi; UIV; Italian wine industry
+- **Predicate:** warned
+- **Object:** risk of reimposed tariffs via alternative legal channels (industry_assessment)
+- **Temporal:** 2026-02-21
+- **Sources:** src_001
 
 > Lamberto Frescobaldi, president of UIV representing more than 800 Italian winemakers, warned of a more than likely risk that tariffs will be reimposed through alternative legal channels.
 
@@ -220,10 +222,5 @@ This article was generated algorithmically by Main Street Independent's News Art
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Mae Anderson
 **Publication date:** 2026-02-21
-**Access date:** 2026-02-21
 **Title:** Businesses face uncertainty as Supreme Court strikes down Trump tariffs
 **URL:** https://apnews.com/article/business-tariff-trump-supreme-court-596a1adfee90975c018ca292f7e918f8
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

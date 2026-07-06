@@ -1,6 +1,5 @@
 ---
 headline: Microsoft's Brad Smith tells Congress Big Tech must pay AI data center costs
-slug: 2026-01-13-microsoft-brad-smith-big-tech-must-pay-ai-data-center-costs
 publish_date: '2026-01-13'
 lede: 'Brad Smith, Microsoft''s president and vice chair, met Tuesday with federal lawmakers to press for an industry-funded model for AI data center expansion, calling on technology companies to bear the full costs of the computing infrastructure powering AI services rather than shifting expenses to taxpayers or utility ratepayers.
 
@@ -21,39 +20,42 @@ primary_themes:
 - Big Tech accountability
 - utility ratepayers
 topic_tags:
-  - society
-storyline_nexus: []
+- artificial intelligence
+- computing and information technology
+- energy and resource
+- government policy
+- technology and engineering
+storyline_nexus:
+- ai-industry-regulation
 geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.85
 - value: accountability_of_power
-  intensity: 0.8
-- value: human_life_and_dignity
-  intensity: 0.55
-framework_version: 1.1.0
-generation_timestamp: '2026-01-13T12:00:00Z'
+  intensity: 0.9
+- value: equality_fairness
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:07:00Z'
 source_cluster_id: cluster_ap_2026-01-12_ai-data-centers-microsoft-brad-smith-tru
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 12
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 9
-    reported: 2
     contested: 0
+    alleged: 0
+    appears: 0
     confirmed: 1
+    reported: 2
+    attributed: 9
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 0
-    single_source: 12
     two_independent: 0
+    one_originating_plus_primary_document: 0
+    single_source: 12
+    primary_plus_secondary: 0
 sources:
   count: 1
   outlets:
@@ -71,25 +73,18 @@ image:
   url: /articles/2026-01-13-microsoft-s-brad-smith-tells-congress-big-tech-must-pay-ai-data-center-costs.png
   alt: 'Illustration accompanying article: Microsoft''s Brad Smith tells Congress Big Tech must pay AI data center costs'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-02-big-tech-blocks-california-data-center-rules-leaving-only-a-study-requirement
-  relation: related
-  strength: 0.8449
-  confidence: medium
-- slug: 2026-01-08-xai-to-build-20-billion-data-center-in-mississippi-amid-environmental-pushback
-  relation: related
-  strength: 0.8068
-  confidence: medium
-- slug: 2026-01-03-community-opposition-stalls-data-center-expansion-as-backlash-spreads
-  relation: related
-  strength: 0.8215
-  confidence: medium
-- slug: 2026-01-09-meta-secures-nuclear-power-deals-with-terrapower-oklo-and-vistra-for-ohio-ai-dat
-  relation: related
-  strength: 0.76
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- "Local communities naturally want to see new jobs but not at the expense of higher electricity prices or the diversion of their water," Smith said in an interview with The Associated Press.
+- Brad Smith, Microsoft's president and vice chair, met Tuesday with federal lawmakers to press for an industry-funded model for AI data center expansion, calling on technology companies to bear the full costs of the computing infrastructure powering AI services rather than shifting expenses to taxpayers or utility ratepayers.
+- "Local communities naturally want to see new jobs but not at the expense of higher electricity prices or the diversion of their water," Smith said in an interview with The Associated Press.
+- The push comes as data center projects face widening community opposition over rising electricity rates, heavy water consumption, and loss of open space — with some municipal boards rejecting construction permits and developers offering hundreds of millions of dollars in side payments to secure local approvals.
 
 Brad Smith, Microsoft's president and vice chair, met Tuesday with federal lawmakers to press for an industry-funded model for AI data center expansion, calling on technology companies to bear the full costs of the computing infrastructure powering AI services rather than shifting expenses to taxpayers or utility ratepayers.
 
@@ -137,111 +132,135 @@ On some occasions, Smith acknowledged, power reaching Microsoft's data centers i
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Brad Smith; Microsoft
-**Predicate:** met_with_to_advocate
-**Object:** industry-funded AI data center model (policy_position)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Brad Smith; Microsoft
+- **Predicate:** met_with_to_advocate
+- **Object:** industry-funded AI data center model (policy_position)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Brad Smith, Microsoft's president and vice chair, met with federal lawmakers on January 13, 2026 to advocate that the technology industry, not taxpayers, should pay the full costs of AI data center infrastructure.
 
-### c_002 — attributed, single source
-**Subject entities:** Donald Trump
-**Predicate:** stated
-**Object:** opposition to public funding of data center costs (public_statement)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** stated
+- **Object:** opposition to public funding of data center costs (public_statement)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > President Donald Trump stated on Truth Social that he does not want Americans to 'pick up the tab' for AI data centers or pay higher utility costs.
 
-### c_003 — reported, single source
-**Subject entities:** mid-Atlantic region grid
-**Predicate:** experienced_higher_prices
-**Object:** higher electricity rates since at least June 2025 (economic_impact)
-**Temporal:** 2025-06
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** mid-Atlantic region grid
+- **Predicate:** experienced_higher_prices
+- **Object:** higher electricity rates since at least June 2025 (economic_impact)
+- **Temporal:** 2025-06
+- **Sources:** src_001
 
 > In the mid-Atlantic region grid encompassing all or parts of 13 states, ratepayers have been paying higher electricity prices since at least June 2025 because of data centers, according to utilities and analysts.
 
-### c_004 — reported, single source
-**Subject entities:** data center developers
-**Predicate:** can_negotiate
-**Object:** confidential bulk power deals with utilities (business_practice)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** data center developers
+- **Predicate:** can_negotiate
+- **Object:** confidential bulk power deals with utilities (business_practice)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Big data center developers can strike bulk power deals with local electric utilities that are kept confidential, making it unclear whether operators are paying the full cost of their electricity or passing costs to other ratepayers, consumer advocates said.
 
-### c_005 — confirmed, single source
-**Subject entities:** Hobart Indiana City Council; Amazon
-**Predicate:** approved
-**Object:** tax-abatement deal with $5M x2 for permits and $175M over three years (financial_agreement)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Hobart Indiana City Council; Amazon
+- **Predicate:** approved
+- **Object:** tax-abatement deal with $5M x2 for permits and $175M over three years (financial_agreement)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > The Hobart, Indiana City Council approved a tax-abatement package for a multibillion-dollar Amazon data center including two payments of $5 million each for building permits plus payments totaling $175 million over three years at project milestones.
 
-### c_006 — attributed, single source
-**Subject entities:** Microsoft
-**Predicate:** described
-**Object:** Wisconsin data center as world's most powerful AI datacenter (corporate_claim)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Microsoft
+- **Predicate:** described
+- **Object:** Wisconsin data center as world's most powerful AI datacenter (corporate_claim)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Microsoft has described its Wisconsin data center near Lake Michigan as 'the world's most powerful AI datacenter.'
 
-### c_007 — attributed, single source
-**Subject entities:** Clean Wisconsin
-**Predicate:** called_for
-**Object:** pause on data center approvals pending regulatory plan (advocacy_position)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Clean Wisconsin
+- **Predicate:** called_for
+- **Object:** pause on data center approvals pending regulatory plan (advocacy_position)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Environmental group Clean Wisconsin called for state officials to pause data center approvals until Wisconsin develops a comprehensive plan to regulate them.
 
-### c_008 — attributed, single source
-**Subject entities:** Francesca Hong
-**Predicate:** proposed
-**Object:** CONTROL ALT DELETE moratorium on data center construction (policy_proposal)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Francesca Hong
+- **Predicate:** proposed
+- **Object:** CONTROL ALT DELETE moratorium on data center construction (policy_proposal)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Francesca Hong, a Democratic candidate for Wisconsin governor, proposed a moratorium on data center construction she called 'CONTROL ALT DELETE' until protections against environmental and energy costs are established.
 
-### c_009 — attributed, single source
-**Subject entities:** Tony Evers; Microsoft
-**Predicate:** endorsed
-**Object:** Wisconsin data center projects (political_endorsement)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Tony Evers; Microsoft
+- **Predicate:** endorsed
+- **Object:** Wisconsin data center projects (political_endorsement)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Democratic Gov. Tony Evers has touted Microsoft's Wisconsin data center projects as putting Wisconsin 'on the very cutting edge of AI power.'
 
-### c_010 — attributed, single source
-**Subject entities:** Brad Smith; Microsoft
-**Predicate:** proposed
-**Object:** rate tariff to Wisconsin public utility commission (regulatory_filing)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Brad Smith; Microsoft
+- **Predicate:** proposed
+- **Object:** rate tariff to Wisconsin public utility commission (regulatory_filing)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Smith said Microsoft has proposed a rate tariff to the Wisconsin public utility commission that would impose additional costs Microsoft would help pay.
 
-### c_011 — attributed, single source
-**Subject entities:** Brad Smith; Microsoft
-**Predicate:** stated
-**Object:** carbon-negative goal by 2030, unchanged (corporate_commitment)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Brad Smith; Microsoft
+- **Predicate:** stated
+- **Object:** carbon-negative goal by 2030, unchanged (corporate_commitment)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Smith said Microsoft set a goal in 2020 to be carbon-negative by 2030, and has not changed course on that commitment.
 
-### c_012 — attributed, single source
-**Subject entities:** Brad Smith; Microsoft
-**Predicate:** investing_in
-**Object:** 150-megawatt solar farm in Wisconsin (infrastructure_investment)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Brad Smith; Microsoft
+- **Predicate:** investing_in
+- **Object:** 150-megawatt solar farm in Wisconsin (infrastructure_investment)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Smith said Microsoft is investing in a 150-megawatt solar farm in Wisconsin as part of its energy commitments.
 
@@ -250,10 +269,5 @@ On some occasions, Smith acknowledged, power reaching Microsoft's data centers i
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Matt O'Brien
 **Publication date:** 2026-01-13
-**Access date:** 2026-01-13
 **Title:** Microsoft's president wants Big Tech to 'pay our way' for AI data centers
 **URL:** https://apnews.com/article/ai-data-centers-microsoft-brad-smith-trump-3c6988c44455d34c0e8db6dd63fdfd57
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

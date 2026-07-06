@@ -20,48 +20,44 @@ primary_themes:
 - government accountability
 - Hawaii
 topic_tags:
-  - "armed conflict"
-  - "artificial intelligence"
-  - "conflict, war and peace"
-  - government
-  - "government policy"
-  - "human interest"
-storyline_nexus: []
-geographic_location: Hawaii, United States
+- accident and emergency incident
+- government policy
+- public health
+storyline_nexus:
+- extreme-weather-disasters
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
   intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.75
-- value: informed_citizenship
-  intensity: 0.7
-framework_version: 1.1.0
-generation_timestamp: '2026-05-16T18:08:01Z'
+  intensity: 0.9
+framework_version: 1.3.0
+generation_timestamp: '2026-05-22T23:51:14Z'
 source_cluster_id: cluster_ap_2026-01-06_coastlines-and-beaches-hawaii-national-p
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 11
   hedges:
-    appears: 0
+    confirmed: 0
     alleged: 0
+    appears: 0
+    contested: 0
     attributed: 11
     reported: 0
-    contested: 0
-    confirmed: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 1
     single_source: 10
+    one_originating_plus_primary_document: 0
+    primary_plus_secondary: 0
     two_independent: 0
 sources:
   count: 1
   outlets:
-  - Associated Press / Honolulu Civil Beat
+  - Associated Press
   outlet_classes:
   - wire
   highest_reliability_tier: 1
@@ -78,6 +74,11 @@ image:
 cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- Placeholder summary pending generation.
 
 Hawaii's state Department of Land and Natural Resources plans to revive the Beach and Water Safety Task Force, a body charged with placing warning signs at dangerous beaches that has not convened since 2012, according to reporting by Honolulu Civil Beat distributed through the Associated Press. The announcement follows a decade in which about 800 people drowned in the waters off Hawaii's roughly 1,000-mile coastline.
 
@@ -135,120 +136,133 @@ Hornor said reinstating the task force is a necessary step but cannot be the end
 
 "We need to do more on the prevention side," Hornor said. "That truly should be the mission of this effort."
 
----
-
-*Reporting by Caitlin Thompson, Honolulu Civil Beat, distributed through the Associated Press. Generated algorithmically by Main Street Independent's News Article Generator from the public sources listed above. [Methodology](/methodology). Human review: not triggered. [CC0 — Public Domain](https://creativecommons.org/publicdomain/zero/1.0/).*
-
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Hawaii
-**Predicate:** drowned
-**Object:** ~800 (count)
-**Temporal:** 2016–2026
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Hawaii
+- **Predicate:** drowned
+- **Object:** ~800 (count)
+- **Temporal:** 2016–2026
+- **Sources:** src_001
 
 > About 800 people have drowned in the waters off Hawaii's roughly 1,000-mile coastline in the last decade.
 
-### c_002 — attributed, single source
-**Subject entities:** Hawaii Department of Land and Natural Resources
-**Predicate:** plans_to_revive
-**Object:** Beach and Water Safety Task Force (organization)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Hawaii Department of Land and Natural Resources
+- **Predicate:** plans_to_revive
+- **Object:** Beach and Water Safety Task Force (organization)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Hawaii's Department of Land and Natural Resources plans to revive the Beach and Water Safety Task Force.
 
-### c_003 — attributed, primary document
-**Subject entities:** Beach and Water Safety Task Force
-**Predicate:** last_met
-**Object:** 2012 (year)
-**Temporal:** 2012
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Beach and Water Safety Task Force
+- **Predicate:** last_met
+- **Object:** 2012 (year)
+- **Temporal:** 2012
+- **Sources:** src_001
 
 > The Beach and Water Safety Task Force last met in 2012, according to reports submitted to the state Legislature.
 
-### c_004 — attributed, single source
-**Subject entities:** Hawaii
-**Predicate:** has_not_requested
-**Object:** new warning signs (action)
-**Temporal:** 2012–2026
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Hawaii
+- **Predicate:** has_not_requested
+- **Object:** new warning signs (action)
+- **Temporal:** 2012–2026
+- **Sources:** src_001
 
 > The state has not called for a single new beach warning sign in more than 13 years.
 
-### c_005 — attributed, single source
-**Subject entities:** Hawaii
-**Predicate:** has_ranking
-**Object:** second-highest residential drowning rate nationally (statistic)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Hawaii
+- **Predicate:** has_ranking
+- **Object:** second-highest residential drowning rate nationally (statistic)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Hawaii has the second-highest rate of residential drownings in the country.
 
-### c_006 — attributed, single source
-**Subject entities:** Hawaii Department of Land and Natural Resources
-**Predicate:** has_placed
-**Object:** ~150 signs at 7 parks (count)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Hawaii Department of Land and Natural Resources
+- **Predicate:** has_placed
+- **Object:** ~150 signs at 7 parks (count)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > About 150 warning signs are placed at seven official state beach parks covering roughly 3,000 acres, not including Maui, with 28 on Oahu, about 26 on the Big Island, and 95 on Kauai.
 
-### c_007 — attributed, single source
-**Subject entities:** Hawaii children
-**Predicate:** cannot_swim
-**Object:** ~50% (percentage)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Hawaii children
+- **Predicate:** cannot_swim
+- **Object:** ~50% (percentage)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > About half of Hawaii's children do not know how to swim; drowning is the leading cause of death for children under 15 in Hawaii.
 
-### c_008 — attributed, single source
-**Subject entities:** Rachel Able; Lily Able
-**Predicate:** died
-**Object:** surfing accident, no warning signs present (event)
-**Temporal:** 2022
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Rachel Able; Lily Able
+- **Predicate:** died
+- **Object:** surfing accident, no warning signs present (event)
+- **Temporal:** 2022
+- **Sources:** src_001
 
 > Rachel Able's daughter Lily died in 2022 following a surfing accident at a popular Big Island beach that had no warning signs.
 
-### c_009 — attributed, single source
-**Subject entities:** Jessamy Town Hornor
-**Predicate:** swept_out_to_sea
-**Object:** rogue wave, Makapuu Tide Pools, Oahu (event)
-**Temporal:** 2016
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jessamy Town Hornor
+- **Predicate:** swept_out_to_sea
+- **Object:** rogue wave, Makapuu Tide Pools, Oahu (event)
+- **Temporal:** 2016
+- **Sources:** src_001
 
 > Jessamy Town Hornor's 6-year-old daughter Mina and husband Mark were swept out to sea by a rogue wave at Makapuu Tide Pools on Oahu in 2016.
 
-### c_010 — attributed, single source
-**Subject entities:** Hawaii Department of Land and Natural Resources
-**Predicate:** supported_dissolution_legislation
-**Object:** task force dissolution bills (legislation)
-**Temporal:** 2021, 2024
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Hawaii Department of Land and Natural Resources
+- **Predicate:** supported_dissolution_legislation
+- **Object:** task force dissolution bills (legislation)
+- **Temporal:** 2021, 2024
+- **Sources:** src_001
 
 > DLNR supported legislation to dissolve the Beach and Water Safety Task Force in 2021 and again in 2024.
 
-### c_011 — attributed, single source
-**Subject entities:** Hawaiian Lifeguard Association
-**Predicate:** volunteered_to_operate
-**Object:** Beach and Water Safety Task Force (organization)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Hawaiian Lifeguard Association
+- **Predicate:** volunteered_to_operate
+- **Object:** Beach and Water Safety Task Force (organization)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > The Hawaiian Lifeguard Association has volunteered to take over operation of the Beach and Water Safety Task Force.
 
 ## Sources
 
-### src_001 — Associated Press / Honolulu Civil Beat, wire, Tier 1, originating
-**Author:** Caitlin Thompson
+### src_001 — Associated Press, wire, Tier 1, originating
+**Author:** Caitlin Thompson / Honolulu Civil Beat
 **Publication date:** 2026-01-07
-**Access date:** 2026-01-07
 **Title:** Hawaii reviving task force that places warning signs at dangerous beaches to prevent drowning
 **URL:** https://apnews.com/article/coastlines-and-beaches-hawaii-national-parks-oceans-general-news-471e976ccaa137c291c0a786c175940a
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

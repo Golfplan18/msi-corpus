@@ -12,39 +12,41 @@ primary_themes:
 - vehicle safety
 - consumer protection
 topic_tags:
-  - "economy, business and finance"
-  - society
-  - welfare
-storyline_nexus: []
+- transport
+- manufacturing and engineering
+- consumer goods
+- transportation accident and incident
+storyline_nexus:
+- trump-tariff-wars
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
-  intensity: 0.85
+  intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.72
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T00:00:00Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T01:08:52Z'
 source_cluster_id: cluster_ap_2026-04-18_ford-recall-nhtsa-76d4f43013e44dd7b5fdc1
 gdelt_event_ids: []
-consensus_floor_version: '3.0'
-publication_mindspec_version: '1.0'
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 7
   hedges:
-    appears: 1
     alleged: 1
-    attributed: 2
-    reported: 0
-    contested: 0
     confirmed: 3
+    attributed: 2
+    contested: 0
+    appears: 1
+    reported: 0
   corroboration:
+    primary_document: 0
     primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
-    primary_document: 0
-    single_source: 7
     two_independent: 0
+    single_source: 7
 sources:
   count: 1
   outlets:
@@ -62,6 +64,16 @@ cross_article_links: []
 draft: false
 ---
 
+## Summary
+
+**Subtype:** fact
+
+- Ford recalls 1.4 million F-150 pickup trucks to fix a gearshift issue
+- Ford is recalling approximately 1.4 million F-150 pickup trucks in the United States.
+- The recall affects vehicles with six-speed automatic transmissions produced between March 12, 2014 and August 18, 2017.
+- An intermittent transmission range sensor signal may cause an unintended downshift into second gear.
+- The unintended downshift may cause an abrupt reduction in wheel speed and rear-tire sliding.
+
 Ford is recalling approximately 1.4 million F-150 pickup trucks in the United States because of a gearshift defect that can cause unintended downshifts and loss of vehicle control. The recall, announced April 17, affects F-150 light trucks with six-speed automatic transmissions manufactured between March 12, 2014 and August 18, 2017. Ford is aware of 444 warranty claims and 105 customer service reports potentially linked to the issue, along with two reported injuries and one accident possibly connected to the defect.
 
 ## The Transmission Defect
@@ -76,70 +88,82 @@ This may cause the rear tires to slide until the vehicle slows, according to the
 
 Vehicle owners will be notified by mail and instructed to bring their trucks to a Ford or Lincoln dealer for a powertrain control module calibration update, which will be performed at no cost.
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under sources. Specification: /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
-### c_001 — confirmed, single source
-**Subject entities:** Ford Motor Company; F-150
-**Predicate:** is_recalling
-**Object:** 1.4 million F-150 pickup trucks (vehicle_quantity)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Ford Motor Company; F-150
+- **Predicate:** is_recalling
+- **Object:** 1.4 million F-150 pickup trucks (vehicle_quantity)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > Ford is recalling approximately 1.4 million F-150 pickup trucks in the United States.
 
-### c_002 — confirmed, single source
-**Subject entities:** F-150; six-speed automatic transmission
-**Predicate:** affects_production_period
-**Object:** March 12, 2014 to August 18, 2017 (date_range)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** F-150; six-speed automatic transmission
+- **Predicate:** affects_production_period
+- **Object:** March 12, 2014 to August 18, 2017 (date_range)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > The recall affects vehicles with six-speed automatic transmissions produced between March 12, 2014 and August 18, 2017.
 
-### c_003 — attributed, single source
-**Subject entities:** transmission range sensor; gearshift
-**Predicate:** may_cause
-**Object:** unintended downshift into second gear (malfunction_type)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** transmission range sensor; gearshift
+- **Predicate:** may_cause
+- **Object:** unintended downshift into second gear (malfunction_type)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > An intermittent transmission range sensor signal may cause an unintended downshift into second gear.
 
-### c_004 — appears, single source
-**Subject entities:** downshift; vehicle control
-**Predicate:** may_cause
-**Object:** abrupt wheel speed reduction and rear-tire sliding (safety_consequence)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_004
+- **Hedge:** appears
+- **Corroboration:** single_source
+- **Subject entities:** downshift; vehicle control
+- **Predicate:** may_cause
+- **Object:** abrupt wheel speed reduction and rear-tire sliding (safety_consequence)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > The unintended downshift may cause an abrupt reduction in wheel speed and rear-tire sliding.
 
-### c_005 — alleged, single source
-**Subject entities:** Ford Motor Company
-**Predicate:** aware_of
-**Object:** 2 injuries, 1 accident (incident_count)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_005
+- **Hedge:** alleged
+- **Corroboration:** single_source
+- **Subject entities:** Ford Motor Company
+- **Predicate:** aware_of
+- **Object:** 2 injuries, 1 accident (incident_count)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > Ford is aware of two injuries and one accident possibly related to the gearshift defect.
 
-### c_006 — attributed, single source
-**Subject entities:** Ford Motor Company
-**Predicate:** received
-**Object:** 444 warranty claims and 105 service reports (claim_count)
-**Temporal:** 2026-04
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ford Motor Company
+- **Predicate:** received
+- **Object:** 444 warranty claims and 105 service reports (claim_count)
+- **Temporal:** 2026-04
+- **Sources:** src_001
 
 > Ford has received 444 warranty claims and 105 customer service reports potentially linked to the gearshift issue as of early April 2026.
 
-### c_007 — confirmed, single source
-**Subject entities:** Ford Motor Company; vehicle owners
-**Predicate:** will_notify_and_remedy
-**Object:** powertrain control module calibration update at no cost (remedy_action)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Ford Motor Company; vehicle owners
+- **Predicate:** will_notify_and_remedy
+- **Object:** powertrain control module calibration update at no cost (remedy_action)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > Vehicle owners will be notified by mail and instructed to bring their vehicles to a Ford or Lincoln dealer for a free powertrain control module calibration update.
 
@@ -148,10 +172,5 @@ This article was generated algorithmically by Main Street Independent's News Art
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Michelle Chapman
 **Publication date:** 2026-04-17
-**Access date:** 2026-04-17
 **Title:** Ford recalls 1.4 million F-150 pickup trucks to fix a gearshift issue
 **URL:** https://apnews.com/article/ford-recall-nhtsa-76d4f43013e44dd7b5fdc1582a9aadb4
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

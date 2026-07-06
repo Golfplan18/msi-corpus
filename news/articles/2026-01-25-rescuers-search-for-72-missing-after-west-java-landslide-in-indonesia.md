@@ -17,7 +17,9 @@ primary_themes:
 - rescue_operations
 - environmental_degradation
 - land_use_regulation
-topic_tags: []
+topic_tags:
+- natural disaster
+- disaster, accident and emergency incident
 storyline_nexus: []
 geographic_location: West Java, Indonesia
 floor_values_engaged:
@@ -112,8 +114,6 @@ The protected highland area functions as a critical water-catchment zone and env
 Indonesian Vice President Gibran Rakabuming Raka visited the affected area on Sunday and pledged that authorities would take measures to prevent similar disasters. He directed local authorities in West Bandung district to address "the issue of land conversion in disaster-prone areas" and to reduce risks in the region.
 
 Indonesia faces recurring hazards from seasonal rains and high tides from October to April, which frequently cause flooding and landslides across the archipelago of more than 17,000 islands where millions of people live in mountainous terrain or near fertile floodplains.
-
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
 
 ## Atomic claims
 
@@ -214,7 +214,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-05-18
 **Title:** Indonesian rescuers search for dozens missing after deadly landslide
 **URL:** https://apnews.com/article/indonesia-west-java-landslide-d453d653fdd6f05ab7ebe85979c2a61b
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

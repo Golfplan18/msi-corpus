@@ -17,41 +17,44 @@ primary_themes:
 - political conflict
 - Republican coalition
 topic_tags:
-  - "conflict, war and peace"
+- crime
+- law enforcement
+- politics
+- armed conflict
+- civil rights
 storyline_nexus:
-  - immigration-enforcement
-  - us-administration-2026
-geographic_location: Minneapolis, Minnesota; United States
+- us-immigration-enforcement
+geographic_location: United States
 floor_values_engaged:
 - value: truthfulness
   intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.8
-- value: equality_fairness
-  intensity: 0.7
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+  intensity: 0.9
+- value: informed_citizenship
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:25:01Z'
 source_cluster_id: cluster_ap_2026-01-28_trump-pretti-minnesota-second-amendment-
 gdelt_event_ids: []
-consensus_floor_version: 1.1.0
-publication_mindspec_version: 1.1.0
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 14
   hedges:
-    appears: 0
-    alleged: 0
+    confirmed: 1
     attributed: 10
+    alleged: 0
+    appears: 0
     reported: 3
     contested: 0
-    confirmed: 1
   corroboration:
-    primary_plus_secondary: 1
-    one_originating_plus_primary_document: 0
-    primary_document: 0
-    single_source: 13
     two_independent: 0
+    primary_plus_secondary: 1
+    primary_document: 0
+    one_originating_plus_primary_document: 0
+    single_source: 13
 sources:
   count: 1
   outlets:
@@ -65,41 +68,16 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-14-minneapolis-sees-second-federal-shooting-as-courts-governor-push-back-on-immigra
-  relation: related
-  strength: 0.8388
-  confidence: medium
-- slug: 2026-01-08-protests-erupt-in-minneapolis-as-officials-dispute-jurisdiction-in-fatal-ice-sho
-  relation: related
-  strength: 0.8538
-  confidence: medium
-- slug: 2026-01-09-new-ice-officer-video-raises-use-of-force-questions-in-minneapolis-shooting
-  relation: related
-  strength: 0.8458
-  confidence: medium
-- slug: 2026-01-08-minneapolis-ice-shooting-renews-debate-over-lethal-force-rules-for-moving-vehicl
-  relation: related
-  strength: 0.8504
-  confidence: medium
-- slug: 2026-01-08-minneapolis-protests-erupt-over-ice-killing-of-renee-good-as-portland-shooting-d
-  relation: related
-  strength: 0.8438
-  confidence: medium
-- slug: 2026-01-07-ice-officer-shoots-and-kills-minneapolis-woman-during-immigration-enforcement
-  relation: related
-  strength: 0.8341
-  confidence: medium
-- slug: 2026-01-08-ice-killing-of-minneapolis-woman-deepens-minnesota-s-conflict-with-trump
-  relation: related
-  strength: 0.8271
-  confidence: medium
-- slug: 2026-01-10-thousands-march-across-us-after-ice-shootings-in-minneapolis-portland
-  relation: related
-  strength: 0.8094
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- Federal officers shot and killed Alex Pretti, an armed Minneapolis man, on Saturday, and the White House initially characterized him as responsible for his own death because he lawfully carried a concealed weapon.
+- The incident tested Republican consistency on the right to bear arms.
+- Some prominent party figures noted the divergence between the party's stated defense of gun rights and its immediate response to a lawfully armed protester's death at the hands of federal officers.
 
 The incident tested Republican consistency on the right to bear arms. Some prominent party figures noted the divergence between the party's stated defense of gun rights and its immediate response to a lawfully armed protester's death at the hands of federal officers.
 
@@ -165,133 +143,159 @@ Gun rights advocates have notched numerous legislative victories in Republican-c
 
 William Sack, legal director of the Second Amendment Foundation, said he was surprised and disappointed by the initial White House statements. Trump's shifting position, he said, is "very likely to cost them dearly with the core of a constituency they count on."
 
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework. Specification: /methodology. Licensed under CC0.*
-
 ## Atomic claims
 
-### c_001 — reported, single source
-**Subject entities:** Alex Pretti; federal officers
-**Predicate:** shot_and_killed
-**Object:** in Minneapolis on January 25 (location_and_date)
-**Temporal:** 2026-01-25
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Alex Pretti; federal officers
+- **Predicate:** shot_and_killed
+- **Object:** in Minneapolis on January 25 (location_and_date)
+- **Temporal:** 2026-01-25
+- **Sources:** src_001
 
 > Federal officers shot and killed Alex Pretti in Minneapolis on January 25.
 
-### c_002 — attributed, single source
-**Subject entities:** Greg Bovino
-**Predicate:** suggested
-**Object:** Pretti wanted to massacre law enforcement (attributed_statement)
-**Temporal:** 2026-01-25
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Greg Bovino
+- **Predicate:** suggested
+- **Object:** Pretti wanted to massacre law enforcement (attributed_statement)
+- **Temporal:** 2026-01-25
+- **Sources:** src_001
 
 > Greg Bovino, Border Patrol chief, suggested Pretti 'wanted to massacre law enforcement.'
 
-### c_003 — attributed, single source
-**Subject entities:** Kristi Noem
-**Predicate:** characterized
-**Object:** Pretti was brandishing a weapon and acted violently (attributed_characterization)
-**Temporal:** 2026-01-25
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Kristi Noem
+- **Predicate:** characterized
+- **Object:** Pretti was brandishing a weapon and acted violently (attributed_characterization)
+- **Temporal:** 2026-01-25
+- **Sources:** src_001
 
 > Kristi Noem, Homeland Security Secretary, said Pretti was 'brandishing' a weapon and acted 'violently' toward officers.
 
-### c_004 — attributed, single source
-**Subject entities:** Stephen Miller
-**Predicate:** characterized
-**Object:** Pretti was an assassin (attributed_characterization)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Stephen Miller
+- **Predicate:** characterized
+- **Object:** Pretti was an assassin (attributed_characterization)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > Stephen Miller called Pretti 'an assassin' on X.
 
-### c_005 — confirmed, primary plus secondary
-**Subject entities:** Alex Pretti
-**Predicate:** shown_in_video
-**Object:** holding cellphone and helping pepper-sprayed woman (documented_conduct)
-**Temporal:** 2026-01-25
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** Alex Pretti
+- **Predicate:** shown_in_video
+- **Object:** holding cellphone and helping pepper-sprayed woman (documented_conduct)
+- **Temporal:** 2026-01-25
+- **Sources:** src_001
 
 > Bystander videos show Pretti holding a cellphone and helping a woman who had been pepper sprayed.
 
-### c_006 — reported, single source
-**Subject entities:** Alex Pretti
-**Predicate:** did_not_unholster
-**Object:** did not unholster concealed weapon (documented_absence)
-**Temporal:** 2026-01-25
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Alex Pretti
+- **Predicate:** did_not_unholster
+- **Object:** did not unholster concealed weapon (documented_absence)
+- **Temporal:** 2026-01-25
+- **Sources:** src_001
 
 > No video disclosed has shown Pretti unholstering his concealed weapon.
 
-### c_007 — reported, single source
-**Subject entities:** Alex Pretti
-**Predicate:** held_permit
-**Object:** Minnesota concealed carry permit (legal_authorization)
-**Temporal:** before 2026-01-25
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Alex Pretti
+- **Predicate:** held_permit
+- **Object:** Minnesota concealed carry permit (legal_authorization)
+- **Temporal:** before 2026-01-25
+- **Sources:** src_001
 
 > Pretti had a Minnesota permit to carry a concealed weapon.
 
-### c_008 — attributed, single source
-**Subject entities:** Karoline Leavitt; Donald Trump
-**Predicate:** stated_position
-**Object:** president supports Second Amendment rights of law-abiding citizens (stated_position)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Karoline Leavitt; Donald Trump
+- **Predicate:** stated_position
+- **Object:** president supports Second Amendment rights of law-abiding citizens (stated_position)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > White House press secretary Karoline Leavitt said 'The president supports the Second Amendment rights of law-abiding American citizens, absolutely.'
 
-### c_009 — attributed, single source
-**Subject entities:** Trey Gowdy
-**Predicate:** stated_assessment
-**Object:** Pretti lawfully carried firearm and never brandished it (attributed_assessment)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Trey Gowdy
+- **Predicate:** stated_assessment
+- **Object:** Pretti lawfully carried firearm and never brandished it (attributed_assessment)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Trey Gowdy said 'Alex Pretti's firearm was being lawfully carried. He never brandished it.'
 
-### c_010 — attributed, single source
-**Subject entities:** Donald Trump
-**Predicate:** expressed_position
-**Object:** expressed dislike of Pretti having gun and ammunition (stated_position)
-**Temporal:** 2026-01-28
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** expressed_position
+- **Object:** expressed dislike of Pretti having gun and ammunition (stated_position)
+- **Temporal:** 2026-01-28
+- **Sources:** src_001
 
 > Trump said on Tuesday 'I don't like that he had a gun. I don't like that he had two fully loaded magazines. That's a lot of bad stuff.'
 
-### c_011 — attributed, single source
-**Subject entities:** Erich Pratt
-**Predicate:** stated_experience
-**Object:** attended armed protests without injury (personal_testimony)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Erich Pratt
+- **Predicate:** stated_experience
+- **Object:** attended armed protests without injury (personal_testimony)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Erich Pratt, vice president of Gun Owners of America, said 'I have attended protest rallies while armed, and no one got injured.'
 
-### c_012 — attributed, single source
-**Subject entities:** National Rifle Association
-**Predicate:** criticized
-**Object:** federal prosecutor's statement about armed approach to law enforcement (attributed_criticism)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** National Rifle Association
+- **Predicate:** criticized
+- **Object:** federal prosecutor's statement about armed approach to law enforcement (attributed_criticism)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > The National Rifle Association criticized a federal prosecutor's statement about approaching law enforcement with a gun, calling it 'dangerous and wrong.'
 
-### c_013 — attributed, single source
-**Subject entities:** Adam Winkler
-**Predicate:** stated
-**Object:** fallout shows how tribal politics has become (attributed_analysis)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Adam Winkler
+- **Predicate:** stated
+- **Object:** fallout shows how tribal politics has become (attributed_analysis)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Adam Winkler, a UCLA law professor, said the administration's response 'shows how tribal we've become.'
 
-### c_014 — attributed, single source
-**Subject entities:** William Sack
-**Predicate:** predicted_consequence
-**Object:** Trump's position shifts likely to alienate gun-rights base (attributed_prediction)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** William Sack
+- **Predicate:** predicted_consequence
+- **Object:** Trump's position shifts likely to alienate gun-rights base (attributed_prediction)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > William Sack, legal director of the Second Amendment Foundation, said Trump's 'vacillating' is 'very likely to cost them dearly with the core of a constituency they count on.'
 
@@ -300,10 +304,5 @@ William Sack, legal director of the Second Amendment Foundation, said he was sur
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Bill Barrow
 **Publication date:** 2026-01-27
-**Access date:** 2026-01-27
 **Title:** Minnesota killing draws swift rebuke from gun rights advocates
 **URL:** https://apnews.com/article/trump-pretti-minnesota-second-amendment-ice-ffef56cab9930e52273f8227251452f4
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

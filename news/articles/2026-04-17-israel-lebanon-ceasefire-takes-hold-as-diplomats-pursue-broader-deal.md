@@ -20,7 +20,7 @@ primary_themes:
 topic_tags:
   - "conflict, war and peace"
 storyline_nexus:
-  - iran-war
+- israel-hezbollah-lebanon-war
 geographic_location: Lebanon, Israel, Iran
 floor_values_engaged:
 - value: informed_citizenship
@@ -105,7 +105,7 @@ A critical distinction separates the new agreement from previous iterations. The
 
 ## Unresolved Military and Political Objectives
 
-Netanyahu said Israel had agreed to the truce at Trump's request but remained intent on degrading Hezbollah further. "We're not finished yet," Netanyahu said. Israel has announced plans to occupy a 10-kilometer buffer zone in southern Lebanon until what it describes as all threats are eliminated. "Israel will maintain its presence until we are sure the threat has been removed and the Lebanese army has taken control," Netanyahu said.
+Netanyahu said Israel had agreed to the truce at Trump's request but remained intent on degrading Hezbollah further. "We're not finished yet," Netanyahu said. Israel has announced plans to occupy a 10-kilometer buffer zone in southern Lebanon until what it describes as all threats are eliminated. Israel has announced plans to occupy a 10-kilometer buffer zone in southern Lebanon until all threats are eliminated.
 
 Lebanon's President Joseph Aoun stated his government's objective differently. The goal is to "secure the withdrawal of Israeli forces from the occupied southern territories" and for the Lebanese army to take control of the border area, Aoun said. But Lebanon has been largely sidelined during the conflict; Hezbollah commands the dominant military force on the Lebanese side.
 
@@ -256,7 +256,3 @@ License: This article is released under [CC0](https://creativecommons.org/public
 **Access date:** 2026-05-17
 **Title:** Lebanon truce is key to ending Iran war but challenges remain
 **URL:** https://apnews.com/article/lebanon-israel-hezbollah-ceasefire-iran-trump-explain-35f32a4baffcc542b618d2d3fc2b7428
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -18,47 +18,41 @@ primary_themes:
 - credit card regulation
 - equity markets
 topic_tags:
-  - "crime, law and justice"
-  - "economy, business and finance"
-  - "government policy"
-  - macroeconomics
-  - "market and exchange"
-  - politics
+- market and exchange
+- monetary policy
+- macroeconomics
+- banking
 storyline_nexus:
-  - trump-tariff-policy
-  - us-administration-2026
-  - ai-regulation
+- trump-vs-federal-reserve
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
   intensity: 0.9
-- value: informed_citizenship
-  intensity: 0.85
 - value: truthfulness
   intensity: 0.6
-framework_version: 1.1.0
-generation_timestamp: '2026-05-16T00:00:00Z'
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:11:46Z'
 source_cluster_id: cluster_ap_2026-01-11_stocks-markets-powell-trump-rates-9eb79e
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 18
   hedges:
-    appears: 0
+    confirmed: 11
     alleged: 0
-    attributed: 5
     reported: 2
     contested: 0
-    confirmed: 11
+    attributed: 5
+    appears: 0
   corroboration:
     primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
-    primary_document: 11
-    single_source: 7
     two_independent: 0
+    single_source: 7
+    primary_document: 11
 sources:
   count: 1
   outlets:
@@ -68,49 +62,25 @@ sources:
   highest_reliability_tier: 1
   has_originating: true
   has_primary_document: false
-figures:
-- source: fred
-  series_id: NASDAQCOM
-  transformation: raw
-  as_of: '2026-01-12'
-  caption: The Nasdaq Composite closed at 23,733.9 on January 12, 2026, rising 0.3% on a day when U.S. equities initially fell on news of the Justice Department's subpoena of the Federal Reserve before recovering to a record close.
 figures_aggregate:
-  count: 1
-  series_ids:
-  - NASDAQCOM
-  sources:
-  - fred
+  count: 0
+  series_ids: []
+  sources: []
 image:
   url: /articles/2026-01-12-wall-street-closes-at-records-as-doj-subpoena-of-fed-stirs-inflation-fears.png
   alt: 'Illustration accompanying article: Wall Street closes at records as DOJ subpoena of Fed stirs inflation fears'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-07-wall-street-rally-stalls-as-trump-posts-drag-homebuilders-oil-falls-on-venezuela
-  relation: related
-  strength: 0.7333
-  confidence: medium
-- slug: 2025-12-30-fed-december-rate-cut-a-close-call-as-officials-split-on-inflation-versus-jobs
-  relation: related
-  strength: 0.7721
-  confidence: medium
-- slug: 2025-12-30-fed-minutes-reveal-close-december-rate-call-as-committee-splits-on-inflation-vs-
-  relation: related
-  strength: 0.7605
-  confidence: medium
-- slug: 2026-01-06-s-p-500-hits-record-on-third-trading-day-as-big-tech-leads-broad-gains
-  relation: related
-  strength: 0.7166
-  confidence: medium
-- slug: 2026-01-05-oil-stocks-surge-and-dow-sets-record-after-u-s-raid-captures-maduro
-  relation: related
-  strength: 0.7086
-  confidence: medium
-- slug: 2026-01-03-syria-launches-new-post-assad-banknotes-removing-two-zeros-from-the-pound
-  relation: related
-  strength: 0.6995
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- At stake is the Federal Reserve's political independence — the institutional firewall that allows the central bank to hold rates high when necessary to contain inflation, even when doing so frustra...
+- NEW YORK — U.S. stock indexes closed at records Monday even as financial markets absorbed the shock of a Justice Department subpoena targeting the ...
+- The S&P 500 gained 0.2% to close at 6,977.27. The Dow Jones Industrial Average recovered an early loss of nearly 500 points to add 86 points and cl...
+- Markets shook off early losses as investors weighed the likelihood that Congress and the Fed's own structure could limit the White House's ability ...
 
 At stake is the Federal Reserve's political independence — the institutional firewall that allows the central bank to hold rates high when necessary to contain inflation, even when doing so frustrates elected officials. Analysts warned Monday that a less independent Fed could reignite inflation over the longer term, even as short-term market moves suggested investors saw significant structural limits on the White House's ability to reshape the central bank.
 
@@ -160,165 +130,201 @@ Overseas, stock indexes were mixed across Europe after a stronger showing in Asi
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** S&P 500
-**Predicate:** closed_at
-**Object:** 6977.27 (index_level)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** S&P 500
+- **Predicate:** closed_at
+- **Object:** 6977.27 (index_level)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > The S&P 500 rose 10.99 points, or 0.2%, to close at 6,977.27 on January 12, 2026.
 
-### c_002 — confirmed, primary document
-**Subject entities:** Dow Jones Industrial Average
-**Predicate:** closed_at
-**Object:** 49590.20 (index_level)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Dow Jones Industrial Average
+- **Predicate:** closed_at
+- **Object:** 49590.20 (index_level)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > The Dow Jones Industrial Average added 86.13 points to close at 49,590.20 on January 12, 2026, recovering an early loss of nearly 500 points.
 
-### c_003 — confirmed, primary document
-**Subject entities:** Nasdaq composite
-**Predicate:** closed_at
-**Object:** 23733.9 (index_level)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Nasdaq composite
+- **Predicate:** closed_at
+- **Object:** 23733.9 (index_level)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > The Nasdaq composite gained 62.56 points, or 0.3%, to close at 23,733.9 on January 12, 2026.
 
-### c_004 — reported, single source
-**Subject entities:** U.S. Department of Justice; Federal Reserve System; Jerome Powell
-**Predicate:** subpoenaed_and_threatened_indictment
-**Object:** criminal indictment threat over renovation testimony (legal_action)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Department of Justice; Federal Reserve System; Jerome Powell
+- **Predicate:** subpoenaed_and_threatened_indictment
+- **Object:** criminal indictment threat over renovation testimony (legal_action)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > The Justice Department subpoenaed the Federal Reserve and threatened a criminal indictment over Fed Chair Powell's testimony about renovations at Fed headquarters.
 
-### c_005 — attributed, single source
-**Subject entities:** Jerome Powell
-**Predicate:** said
-**Object:** pretexts for rate-setting conflict (attributed_statement)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jerome Powell
+- **Predicate:** said
+- **Object:** pretexts for rate-setting conflict (attributed_statement)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Powell said the subpoena and indictment threat are 'pretexts' and are really 'a consequence of the Federal Reserve setting interest rates based on our best assessment of what will serve the public, rather than following the preferences of the President.'
 
-### c_006 — attributed, single source
-**Subject entities:** Karoline Leavitt; Donald Trump; Jerome Powell
-**Predicate:** denied_directing_investigation
-**Object:** Trump did not direct DOJ to investigate Powell (denial)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Karoline Leavitt; Donald Trump; Jerome Powell
+- **Predicate:** denied_directing_investigation
+- **Object:** Trump did not direct DOJ to investigate Powell (denial)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > White House press secretary Karoline Leavitt told reporters Monday that Trump did not direct the Justice Department to investigate Powell.
 
-### c_007 — reported, single source
-**Subject entities:** Donald Trump
-**Predicate:** threatened_cap
-**Object:** 10% cap on credit card interest rates for one year (policy_threat)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** threatened_cap
+- **Object:** 10% cap on credit card interest rates for one year (policy_threat)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Trump threatened to put a 10% cap on credit card interest rates for a year.
 
-### c_008 — confirmed, primary document
-**Subject entities:** Synchrony Financial
-**Predicate:** fell
-**Object:** 8.4% (stock_decline)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Synchrony Financial
+- **Predicate:** fell
+- **Object:** 8.4% (stock_decline)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Synchrony Financial fell 8.4% on January 12, 2026.
 
-### c_009 — confirmed, primary document
-**Subject entities:** Capital One Financial Corp.
-**Predicate:** fell
-**Object:** 6.4% (stock_decline)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Capital One Financial Corp.
+- **Predicate:** fell
+- **Object:** 6.4% (stock_decline)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Capital One Financial sank 6.4% on January 12, 2026.
 
-### c_010 — confirmed, primary document
-**Subject entities:** American Express Co.
-**Predicate:** fell
-**Object:** 4.3% (stock_decline)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** American Express Co.
+- **Predicate:** fell
+- **Object:** 4.3% (stock_decline)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > American Express dropped 4.3% on January 12, 2026.
 
-### c_011 — confirmed, primary document
-**Subject entities:** Walmart
-**Predicate:** climbed
-**Object:** 3% (stock_gain)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_011
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Walmart
+- **Predicate:** climbed
+- **Object:** 3% (stock_gain)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Walmart climbed 3% after its stock was set to join the Nasdaq 100 index.
 
-### c_012 — confirmed, primary document
-**Subject entities:** Alphabet, Inc.
-**Predicate:** rose
-**Object:** 1%; market cap above $4 trillion (stock_gain)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_012
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Alphabet, Inc.
+- **Predicate:** rose
+- **Object:** 1%; market cap above $4 trillion (stock_gain)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Alphabet rose 1% on January 12, 2026, lifting its total market value above $4 trillion.
 
-### c_013 — confirmed, primary document
-**Subject entities:** gold
-**Predicate:** rose
-**Object:** $4614.70 per ounce (commodity_price)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_013
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** gold
+- **Predicate:** rose
+- **Object:** $4614.70 per ounce (commodity_price)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Gold rose 2.5% to a record settlement of $4,614.70 per ounce on January 12, 2026.
 
-### c_014 — confirmed, primary document
-**Subject entities:** 10-year Treasury
-**Predicate:** rose_then_eased
-**Object:** 4.21% briefly, settled 4.18% (yield)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_014
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** 10-year Treasury
+- **Predicate:** rose_then_eased
+- **Object:** 4.21% briefly, settled 4.18% (yield)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > The 10-year Treasury yield briefly rose to 4.21% before easing back to 4.18% on January 12, 2026.
 
-### c_015 — attributed, single source
-**Subject entities:** Thom Tillis
-**Predicate:** said
-**Object:** will oppose Fed nominees pending resolution of legal matter (attributed_statement)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Thom Tillis
+- **Predicate:** said
+- **Object:** will oppose Fed nominees pending resolution of legal matter (attributed_statement)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Sen. Thom Tillis, a Republican from North Carolina, said on social media he would oppose confirmation of any Fed nominee until the legal matter involving Powell is fully resolved.
 
-### c_016 — attributed, single source
-**Subject entities:** Brian Jacobsen; Jerome Powell; Donald Trump
-**Predicate:** said
-**Object:** Powell may stay as governor out of spite (attributed_analysis)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_016
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Brian Jacobsen; Jerome Powell; Donald Trump
+- **Predicate:** said
+- **Object:** Powell may stay as governor out of spite (attributed_analysis)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Brian Jacobsen, chief economist at Annex Wealth Management, said Powell may choose to stay on as a Fed governor out of spite to deprive Trump of an additional appointment.
 
-### c_017 — attributed, single source
-**Subject entities:** Thierry Wizman; Macquarie Group
-**Predicate:** said
-**Object:** congressional confirmation power limits White House reach (attributed_analysis)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_017
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Thierry Wizman; Macquarie Group
+- **Predicate:** said
+- **Object:** congressional confirmation power limits White House reach (attributed_analysis)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Thierry Wizman, a strategist at Macquarie Group, said traders could see 'a limitation to the White House's success in getting its way' because Congress could deny confirmation of Fed nominees.
 
-### c_018 — confirmed, primary document
-**Subject entities:** Abercrombie & Fitch Co.
-**Predicate:** fell
-**Object:** 17.7% (stock_decline)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_018
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Abercrombie & Fitch Co.
+- **Predicate:** fell
+- **Object:** 17.7% (stock_decline)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Abercrombie & Fitch dropped 17.7% after the retailer forecast profit for the final quarter of 2025 whose midpoint fell short of analyst expectations.
 
@@ -327,10 +333,5 @@ Overseas, stock indexes were mixed across Europe after a stronger showing in Asi
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Stan Choe
 **Publication date:** 2026-01-12
-**Access date:** 2026-01-12
 **Title:** Wall Street ticks to records after shaking off worries about Trump's feud with the Fed
 **URL:** https://apnews.com/article/stocks-markets-powell-trump-rates-9eb79e89fec160c7c64dfcef6871e693
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

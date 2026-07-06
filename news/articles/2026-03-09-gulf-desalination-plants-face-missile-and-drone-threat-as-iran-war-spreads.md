@@ -29,7 +29,7 @@ topic_tags:
   - sport
   - "sport event"
 storyline_nexus:
-  - iran-war
+- the-iran-war
 geographic_location: Persian Gulf region
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -122,129 +122,157 @@ Iran enters the conflict in the grip of a severe water crisis. Tehran's five res
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** United States; Israel; Iran
-**Predicate:** launched_attacks_on
-**Object:** Iran (country)
-**Temporal:** 2026-02-28
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** United States; Israel; Iran
+- **Predicate:** launched_attacks_on
+- **Object:** Iran (country)
+- **Temporal:** 2026-02-28
+- **Sources:** src_001
 
 > The war began Feb. 28 with U.S. and Israeli attacks on Iran.
 
-### c_002 — attributed, single source
-**Subject entities:** Bahrain; Iran
-**Predicate:** accused_of_damaging
-**Object:** Bahrain desalination plant (infrastructure)
-**Temporal:** 2026-03-08
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Bahrain; Iran
+- **Predicate:** accused_of_damaging
+- **Object:** Bahrain desalination plant (infrastructure)
+- **Temporal:** 2026-03-08
+- **Sources:** src_001
 
 > Bahrain accused Iran of damaging one of its desalination plants, without saying supplies had gone offline.
 
-### c_003 — attributed, single source
-**Subject entities:** Iran; United States; Qeshm Island
-**Predicate:** said_airstrike_damaged
-**Object:** Qeshm Island desalination plant (infrastructure)
-**Temporal:** 2026-03-08
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Iran; United States; Qeshm Island
+- **Predicate:** said_airstrike_damaged
+- **Object:** Qeshm Island desalination plant (infrastructure)
+- **Temporal:** 2026-03-08
+- **Sources:** src_001
 
 > Iran said a U.S. airstrike damaged a desalination plant on Qeshm Island, cutting water to 30 villages.
 
-### c_004 — attributed, single source
-**Subject entities:** Iran; Jebel Ali; Dubai
-**Predicate:** struck_near
-**Object:** Dubai desalination plant (infrastructure)
-**Temporal:** 2026-03-02
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Iran; Jebel Ali; Dubai
+- **Predicate:** struck_near
+- **Object:** Dubai desalination plant (infrastructure)
+- **Temporal:** 2026-03-02
+- **Sources:** src_001
 
 > On March 2, Iranian strikes on Dubai's Jebel Ali port landed approximately 12 miles from one of the world's largest desalination plants.
 
-### c_005 — attributed, single source
-**Subject entities:** Fujairah F1; United Arab Emirates
-**Predicate:** not_damaged
-**Object:** Fujairah F1 power and water complex (infrastructure)
-**Temporal:** 2026-03-08
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Fujairah F1; United Arab Emirates
+- **Predicate:** not_damaged
+- **Object:** Fujairah F1 power and water complex (infrastructure)
+- **Temporal:** 2026-03-08
+- **Sources:** src_001
 
 > The Fujairah F1 power and water complex in the UAE was not damaged and remained fully operational following nearby strikes.
 
-### c_006 — reported, single source
-**Subject entities:** Kuwait; Doha West desalination plant
-**Predicate:** sustained_damage
-**Object:** Doha West desalination plant (infrastructure)
-**Temporal:** 2026-03-08
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Kuwait; Doha West desalination plant
+- **Predicate:** sustained_damage
+- **Object:** Doha West desalination plant (infrastructure)
+- **Temporal:** 2026-03-08
+- **Sources:** src_001
 
 > Damage was reported at Kuwait's Doha West desalination plant, apparently from nearby port attacks or debris from intercepted drones.
 
-### c_007 — attributed, single source
-**Subject entities:** Kuwait
-**Predicate:** derives_drinking_water_from_desalination
-**Object:** 90% (percentage)
-**Temporal:** 2026-03-08
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Kuwait
+- **Predicate:** derives_drinking_water_from_desalination
+- **Object:** 90% (percentage)
+- **Temporal:** 2026-03-08
+- **Sources:** src_001
 
 > Kuwait gets about 90 percent of its drinking water from desalination.
 
-### c_008 — attributed, single source
-**Subject entities:** Oman
-**Predicate:** derives_drinking_water_from_desalination
-**Object:** 86% (percentage)
-**Temporal:** 2026-03-08
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Oman
+- **Predicate:** derives_drinking_water_from_desalination
+- **Object:** 86% (percentage)
+- **Temporal:** 2026-03-08
+- **Sources:** src_001
 
 > Oman gets roughly 86 percent of its drinking water from desalination.
 
-### c_009 — attributed, single source
-**Subject entities:** Saudi Arabia
-**Predicate:** derives_drinking_water_from_desalination
-**Object:** 70% (percentage)
-**Temporal:** 2026-03-08
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Saudi Arabia
+- **Predicate:** derives_drinking_water_from_desalination
+- **Object:** 70% (percentage)
+- **Temporal:** 2026-03-08
+- **Sources:** src_001
 
 > Saudi Arabia gets about 70 percent of its drinking water from desalination.
 
-### c_010 — attributed, primary document
-**Subject entities:** Persian Gulf; CIA
-**Predicate:** desalination_concentration
-**Object:** 56 plants (facility_count)
-**Temporal:** 2010-01-01
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Persian Gulf; CIA
+- **Predicate:** desalination_concentration
+- **Object:** 56 plants (facility_count)
+- **Temporal:** 2010-01-01
+- **Sources:** src_001
 
 > More than 90 percent of the Gulf's desalinated water comes from just 56 plants, according to a 2010 CIA analysis that called each one extremely vulnerable to sabotage or military action.
 
-### c_011 — attributed, primary document
-**Subject entities:** Riyadh; Jubail; United States
-**Predicate:** warned_evacuation_risk
-**Object:** evacuation within a week (risk_assessment)
-**Temporal:** 2008-01-01
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Riyadh; Jubail; United States
+- **Predicate:** warned_evacuation_risk
+- **Object:** evacuation within a week (risk_assessment)
+- **Temporal:** 2008-01-01
+- **Sources:** src_001
 
 > A leaked 2008 U.S. diplomatic cable warned that Riyadh 'would have to evacuate within a week' if the Jubail desalination plant or its pipelines and power infrastructure were seriously damaged.
 
-### c_012 — attributed, single source
-**Subject entities:** Tehran; Iran
-**Predicate:** reservoir_level_at
-**Object:** 10% (percentage)
-**Temporal:** 2026-03-08
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Tehran; Iran
+- **Predicate:** reservoir_level_at
+- **Object:** 10% (percentage)
+- **Temporal:** 2026-03-08
+- **Sources:** src_001
 
 > Tehran's five reservoirs fell to about 10 percent of capacity after a fifth year of extreme drought.
 
-### c_013 — attributed, single source
-**Subject entities:** Masoud Pezeshkian; Tehran
-**Predicate:** warned_possible_evacuation
-**Object:** Tehran evacuation (warning)
-**Temporal:** 2026-03-08
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Masoud Pezeshkian; Tehran
+- **Predicate:** warned_possible_evacuation
+- **Object:** Tehran evacuation (warning)
+- **Temporal:** 2026-03-08
+- **Sources:** src_001
 
 > Iranian President Masoud Pezeshkian warned the capital may have to be evacuated due to water shortages.
 
-### c_014 — attributed, single source
-**Subject entities:** Iraq; Kuwait
-**Predicate:** sabotaged_water_infrastructure
-**Object:** Kuwait desalination and power stations (infrastructure)
-**Temporal:** 1990-08-02
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Iraq; Kuwait
+- **Predicate:** sabotaged_water_infrastructure
+- **Object:** Kuwait desalination and power stations (infrastructure)
+- **Temporal:** 1990-08-02
+- **Sources:** src_001
 
 > During Iraq's 1990-1991 invasion of Kuwait, Iraqi forces sabotaged power stations and desalination facilities and released millions of barrels of crude into the Gulf, leaving Kuwait dependent on emergency water imports for years.
 
@@ -256,7 +284,3 @@ Iran enters the conflict in the grip of a severe water crisis. Tehran's five res
 **Access date:** 2026-03-09
 **Title:** The Gulf resource most imperiled by war may be water, not oil
 **URL:** https://apnews.com/article/iran-war-desalination-water-oil-middle-east-12b23f2fa26ed5c4a10f80c4077e61ce
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -1,6 +1,5 @@
 ---
 headline: Georgia lawmakers pass bill to void Savannah's gun-storage-in-cars ordinance
-slug: 2026-01-13-georgia-lawmakers-pass-bill-to-void-savannah-gun-storage-in-cars-ordinance
 publish_date: '2026-01-13'
 lede: Georgia's state Senate gave final passage Tuesday to legislation that would void a Savannah ordinance requiring gun owners to secure firearms in locked vehicles, sending the measure to Gov. Brian Kemp for his signature or veto. The bill also adds the word storage to existing state law that bars cities and counties from regulating firearm possession and carry, closing a gap Savannah officials had used to justify the local rule.
 nut_graf: If Kemp signs Senate Bill 204, Savannah would be barred from enforcing the 2024 ordinance, which carried maximum penalties of a $1,000 fine and 30 days in jail for leaving guns in unlocked vehicles. The measure also authorizes gun owners to sue local governments that adopt storage regulations, collecting at least $25,000 in damages if they prevail.
@@ -18,25 +17,26 @@ primary_themes:
 - firearm storage
 - Georgia politics
 topic_tags:
-  - "disaster, accident and emergency incident"
-  - fire
-  - government
-  - politics
+- government
+- government policy
+- law
+- crime, law and justice
 storyline_nexus:
-  - us-administration-2026
-  - us-china-relations
-geographic_location: Savannah, Georgia, United States
+- supreme-court-constitutional-cases
+geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.85
 - value: accountability_of_power
-  intensity: 0.65
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:00:45Z'
+  intensity: 0.9
+- value: equality_fairness
+  intensity: 0.6
+- value: human_life_and_dignity
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:49:37Z'
 source_cluster_id: cluster_ap_2026-01-14_gun-storage-georgia-82f3c3fa792a486c33f7
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
@@ -44,16 +44,16 @@ claims:
   hedges:
     appears: 0
     alleged: 0
+    confirmed: 9
     attributed: 4
     reported: 0
     contested: 0
-    confirmed: 9
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 9
-    single_source: 4
     two_independent: 0
+    single_source: 4
+    one_originating_plus_primary_document: 0
+    primary_plus_secondary: 0
+    primary_document: 9
 sources:
   count: 1
   outlets:
@@ -71,13 +71,15 @@ image:
   url: /articles/2026-01-13-georgia-lawmakers-pass-bill-to-void-savannah-s-gun-storage-in-cars-ordinance.png
   alt: 'Illustration accompanying article: Georgia lawmakers pass bill to void Savannah''s gun-storage-in-cars ordinance'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-04-9th-circuit-panel-strikes-down-california-open-carry-ban-in-populated-counties
-  relation: related
-  strength: 0.7799
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- 
 
 If Kemp signs Senate Bill 204, Savannah would be barred from enforcing the 2024 ordinance, which carried maximum penalties of a $1,000 fine and 30 days in jail for leaving guns in unlocked vehicles. The measure also authorizes gun owners to sue local governments that adopt storage regulations, collecting at least $25,000 in damages if they prevail.
 
@@ -119,120 +121,146 @@ In November, a Chatham County Recorder's Court judge threw out the case of a man
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Georgia State Senate; Senate Bill 204
-**Predicate:** passed
-**Object:** Senate Bill 204 (legislation)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Georgia State Senate; Senate Bill 204
+- **Predicate:** passed
+- **Object:** Senate Bill 204 (legislation)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Georgia's state Senate gave final passage to Senate Bill 204 on Tuesday, January 13, 2026.
 
-### c_002 — confirmed, primary document
-**Subject entities:** Senate Bill 204; Savannah gun-storage ordinance
-**Predicate:** voids
-**Object:** Savannah gun-storage ordinance (local_ordinance)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Senate Bill 204; Savannah gun-storage ordinance
+- **Predicate:** voids
+- **Object:** Savannah gun-storage ordinance (local_ordinance)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Senate Bill 204 would void a Savannah ordinance that imposes fines and possible jail time for leaving guns in unlocked vehicles.
 
-### c_003 — confirmed, primary document
-**Subject entities:** Senate Bill 204; Georgia firearms preemption law
-**Predicate:** amends
-**Object:** state firearm preemption statute (legislation)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Senate Bill 204; Georgia firearms preemption law
+- **Predicate:** amends
+- **Object:** state firearm preemption statute (legislation)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > The bill adds the word storage to existing Georgia law that bars cities and counties from regulating firearm possession, ownership, transport, carrying, transfer, sale, purchase, or licensing.
 
-### c_004 — confirmed, primary document
-**Subject entities:** Senate Bill 204
-**Predicate:** authorizes
-**Object:** $25,000 minimum damages for lawsuits against local storage regulations (legal_provision)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Senate Bill 204
+- **Predicate:** authorizes
+- **Object:** $25,000 minimum damages for lawsuits against local storage regulations (legal_provision)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > The bill allows gun owners to sue local governments that impose storage regulations, collecting at least $25,000 in damages if they win.
 
-### c_005 — confirmed, primary document
-**Subject entities:** Senate Bill 204; Brian Kemp
-**Predicate:** sent_to
-**Object:** governor's desk (legislative_step)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Senate Bill 204; Brian Kemp
+- **Predicate:** sent_to
+- **Object:** governor's desk (legislative_step)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Senate Bill 204 goes to Gov. Brian Kemp's desk for his signature or veto.
 
-### c_006 — confirmed, primary document
-**Subject entities:** Van Johnson; Savannah city council
-**Predicate:** passed
-**Object:** ordinance banning firearms in unlocked vehicles (local_ordinance)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Van Johnson; Savannah city council
+- **Predicate:** passed
+- **Object:** ordinance banning firearms in unlocked vehicles (local_ordinance)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > Savannah Mayor Van Johnson and the city council voted unanimously in 2024 to outlaw keeping firearms in unlocked vehicles.
 
-### c_007 — confirmed, primary document
-**Subject entities:** Savannah gun-storage ordinance
-**Predicate:** imposes
-**Object:** $1,000 fine and 30 days in jail (penalty)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Savannah gun-storage ordinance
+- **Predicate:** imposes
+- **Object:** $1,000 fine and 30 days in jail (penalty)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > The Savannah ordinance carried maximum penalties of a $1,000 fine and 30 days in jail.
 
-### c_008 — attributed, single source
-**Subject entities:** Van Johnson; Savannah Police Department
-**Predicate:** said
-**Object:** 30% drop in gun thefts from unlocked vehicles (attributed_statistic)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Van Johnson; Savannah Police Department
+- **Predicate:** said
+- **Object:** 30% drop in gun thefts from unlocked vehicles (attributed_statistic)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Savannah Mayor Van Johnson said gun thefts from unlocked vehicles reported to Savannah police dropped 30% since the ordinance took effect.
 
-### c_009 — attributed, single source
-**Subject entities:** Colton Moore
-**Predicate:** said
-**Object:** ordinance penalized gun owners whose firearms were stolen (attributed_statement)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Colton Moore
+- **Predicate:** said
+- **Object:** ordinance penalized gun owners whose firearms were stolen (attributed_statement)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Former state Sen. Colton Moore, a Republican from Trenton, said the Savannah ordinance was turning gun owners whose firearms were stolen into criminals.
 
-### c_010 — confirmed, primary document
-**Subject entities:** Colton Moore; Marjorie Taylor Greene
-**Predicate:** resigned_from
-**Object:** Georgia Senate (legislative_body)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Colton Moore; Marjorie Taylor Greene
+- **Predicate:** resigned_from
+- **Object:** Georgia Senate (legislative_body)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Colton Moore resigned from the Georgia Senate on Tuesday after the bill passed, having filed to run for the congressional seat vacated by U.S. Rep. Marjorie Taylor Greene's resignation.
 
-### c_011 — attributed, single source
-**Subject entities:** Van Johnson
-**Predicate:** said
-**Object:** city will comply and cease enforcement if bill is signed (attributed_statement)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Van Johnson
+- **Predicate:** said
+- **Object:** city will comply and cease enforcement if bill is signed (attributed_statement)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Mayor Van Johnson said if Kemp signs the bill, the city will stop enforcing the ordinance and may pursue other gun safety measures.
 
-### c_012 — confirmed, primary document
-**Subject entities:** Chatham County Recorder's Court
-**Predicate:** ruled
-**Object:** Savannah gun ordinance violates state law and U.S. Constitution (court_ruling)
-**Temporal:** 2025-11
-**Source IDs:** src_001
+### c_012
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Chatham County Recorder's Court
+- **Predicate:** ruled
+- **Object:** Savannah gun ordinance violates state law and U.S. Constitution (court_ruling)
+- **Temporal:** 2025-11
+- **Sources:** src_001
 
 > In November, a Chatham County Recorder's Court judge threw out a case brought under the Savannah gun ordinance, ruling it violates state law and the U.S. Constitution.
 
-### c_013 — attributed, single source
-**Subject entities:** Nolan Tanner; Students Demand Action
-**Predicate:** said
-**Object:** bill punishes cities that protect young people when state lawmakers will not (attributed_statement)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Nolan Tanner; Students Demand Action
+- **Predicate:** said
+- **Object:** bill punishes cities that protect young people when state lawmakers will not (attributed_statement)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Nolan Tanner, a volunteer with Students Demand Action at Jenkins High School in Savannah, said in a statement that the bill punishes cities that protect young people's safety.
 
@@ -241,10 +269,5 @@ In November, a Chatham County Recorder's Court judge threw out the case of a man
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Jeff Amy
 **Publication date:** 2026-01-13
-**Access date:** 2026-01-13
 **Title:** Georgia lawmakers pass bill to void Savannah ordinance on gun storage in cars
 **URL:** https://apnews.com/article/gun-storage-georgia-82f3c3fa792a486c33f75b47d99a1e7c
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

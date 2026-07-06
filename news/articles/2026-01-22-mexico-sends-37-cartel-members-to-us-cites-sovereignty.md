@@ -18,10 +18,11 @@ primary_themes:
 - criminal enforcement
 - government pressure
 topic_tags:
-  - government
-  - "international relations"
-  - politics
-storyline_nexus: []
+- government
+- international relations
+- politics
+storyline_nexus:
+- mexico-cartel-violence
 geographic_location: Mexico and United States
 floor_values_engaged:
 - value: accountability_of_power
@@ -66,15 +67,7 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-13-mexico-arrests-6-tren-de-aragua-members-4-jalisco-cartel-suspects
-  relation: related
-  strength: 0.8058
-  confidence: medium
-- slug: 2026-01-12-sheinbaum-tells-trump-us-military-help-against-cartels-is-unnecessary
-  relation: related
-  strength: 0.7883
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
 
@@ -112,129 +105,157 @@ In August, Mexico's security minister acknowledged that some cartel leaders prev
 
 ## Atomic claims
 
-### c_001 — reported, single source
-**Subject entities:** Mexico; United States
-**Predicate:** transferred
-**Object:** 37 cartel members (transfer_count)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Mexico; United States
+- **Predicate:** transferred
+- **Object:** 37 cartel members (transfer_count)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > Mexico sent 37 cartel members to the United States on Tuesday.
 
-### c_002 — reported, single source
-**Subject entities:** U.S. Justice Department
-**Predicate:** requested
-**Object:** transfer of cartel members (official_request)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Justice Department
+- **Predicate:** requested
+- **Object:** transfer of cartel members (official_request)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > The transfer was made at the request of the U.S. Justice Department.
 
-### c_003 — attributed, single source
-**Subject entities:** Claudia Sheinbaum
-**Predicate:** stated
-**Object:** sovereign decision (direct_quote)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Claudia Sheinbaum
+- **Predicate:** stated
+- **Object:** sovereign decision (direct_quote)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > "Mexico is put first above all else, even if they ask for whatever they have to ask for. It is a sovereign decision," Sheinbaum said.
 
-### c_004 — attributed, single source
-**Subject entities:** Claudia Sheinbaum; Mexico National Security Council
-**Predicate:** stated_decision_process
-**Object:** analyzed convenience and national security (decision_process)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Claudia Sheinbaum; Mexico National Security Council
+- **Predicate:** stated_decision_process
+- **Object:** analyzed convenience and national security (decision_process)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > Sheinbaum said the decision was made by Mexico's National Security Council after analyzing what was "convenient for Mexico" and in terms of its "national security."
 
-### c_005 — reported, single source
-**Subject entities:** Jalisco New Generation Cartel; Sinaloa Cartel
-**Predicate:** membership
-**Object:** 37 alleged members (cartel_membership)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Jalisco New Generation Cartel; Sinaloa Cartel
+- **Predicate:** membership
+- **Object:** 37 alleged members (cartel_membership)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > The 37 transferred were alleged members of the Jalisco New Generation Cartel and the Sinaloa Cartel.
 
-### c_006 — reported, single source
-**Subject entities:** Mexico; United States
-**Predicate:** transferred_pattern
-**Object:** third transfer in twelve months (recurring_pattern)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Mexico; United States
+- **Predicate:** transferred_pattern
+- **Object:** third transfer in twelve months (recurring_pattern)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > This was the third such transfer of cartel members over the past year.
 
-### c_007 — reported, single source
-**Subject entities:** Mexico; United States
-**Predicate:** transferred_cumulative
-**Object:** 92 total cartel members (cumulative_count)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Mexico; United States
+- **Predicate:** transferred_cumulative
+- **Object:** 92 total cartel members (cumulative_count)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > Mexico has sent 92 cartel members to the United States in total.
 
-### c_008 — attributed, single source
-**Subject entities:** Pam Bondi
-**Predicate:** stated
-**Object:** landmark achievement in destroying cartels (direct_quote)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Pam Bondi
+- **Predicate:** stated
+- **Object:** landmark achievement in destroying cartels (direct_quote)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > "These 37 cartel members — including terrorists from the Sinaloa Cartel, CJNG, and others – will now pay for their crimes against the American people on American soil," U.S. Attorney General Pam Bondi said.
 
-### c_009 — reported, single source
-**Subject entities:** Armando Gómez Núñez
-**Predicate:** indicted
-**Object:** drug offenses and weapons charges (legal_action)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Armando Gómez Núñez
+- **Predicate:** indicted
+- **Object:** drug offenses and weapons charges (legal_action)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > Armando Gómez Núñez was indicted by the U.S. Justice Department.
 
-### c_010 — alleged, single source
-**Subject entities:** Armando Gómez Núñez; Jalisco New Generation Cartel
-**Predicate:** accused_of_leadership
-**Object:** senior leader (criminal_allegation)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_010
+- **Hedge:** alleged
+- **Corroboration:** single_source
+- **Subject entities:** Armando Gómez Núñez; Jalisco New Generation Cartel
+- **Predicate:** accused_of_leadership
+- **Object:** senior leader (criminal_allegation)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > Gómez Núñez is accused of being a senior leader of the Jalisco New Generation Cartel.
 
-### c_011 — reported, single source
-**Subject entities:** Donald Trump
-**Predicate:** threatened
-**Object:** military action against cartels (threat)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** threatened
+- **Object:** military action against cartels (threat)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > Trump has threatened to take military action on cartels.
 
-### c_012 — reported, single source
-**Subject entities:** United States military; Nicolás Maduro
-**Predicate:** captured
-**Object:** military operation to capture president (government_action)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** United States military; Nicolás Maduro
+- **Predicate:** captured
+- **Object:** military operation to capture president (government_action)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > The U.S. carried out a military operation in Venezuela to capture President Nicolás Maduro.
 
-### c_013 — reported, single source
-**Subject entities:** United States; Latin America
-**Predicate:** caused_concern
-**Object:** extraordinary use of force (regional_response)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_013
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** United States; Latin America
+- **Predicate:** caused_concern
+- **Object:** extraordinary use of force (regional_response)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > The Maduro operation was an extraordinary use of force that set leaders across Latin America on edge.
 
-### c_014 — reported, single source
-**Subject entities:** Mexico government; cartel leaders
-**Predicate:** continuing_operations
-**Object:** criminal operations from prison (reported_conduct)
-**Temporal:** 2026-08
-**Source IDs:** src_001
+### c_014
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Mexico government; cartel leaders
+- **Predicate:** continuing_operations
+- **Object:** criminal operations from prison (reported_conduct)
+- **Temporal:** 2026-08
+- **Sources:** src_001
 
 > In August, Mexico's security minister acknowledged that some cartel leaders sent to the United States were continuing criminal operations from prison.
 
@@ -246,7 +267,3 @@ In August, Mexico's security minister acknowledged that some cartel leaders prev
 **Access date:** 2026-01-21
 **Title:** Mexico's president says cartel members sent to US were requested by Trump administration
 **URL:** https://apnews.com/article/mexico-sheinbaum-trump-jalisco-new-generation-sinaloa-cartel-crime-7ead285daf7aac477a76b9adadbff120
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

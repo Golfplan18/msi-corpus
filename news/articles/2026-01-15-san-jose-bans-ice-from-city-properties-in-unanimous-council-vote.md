@@ -19,49 +19,48 @@ primary_themes:
 - ICE property restrictions
 - sanctuary city
 topic_tags:
-  - election
-  - "government policy"
-  - "human migration"
-  - "international relations"
-  - "monetary policy"
-  - "political process"
+- civil rights
+- government policy
+- law enforcement
+- communities
+- political process
 storyline_nexus:
-  - immigration-enforcement
-geographic_location: San Jose, California
+- us-immigration-enforcement
+geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.85
 - value: accountability_of_power
-  intensity: 0.75
+  intensity: 0.9
 - value: human_life_and_dignity
-  intensity: 0.7
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:01:48Z'
+  intensity: 0.6
+- value: equality_fairness
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:13:00Z'
 source_cluster_id: cluster_ap_2026-01-16_san-jose-minnesota-ice-crackdown-immigra
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 15
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 10
     reported: 0
-    contested: 0
     confirmed: 5
+    alleged: 0
+    contested: 0
+    appears: 0
+    attributed: 10
   corroboration:
+    primary_document: 5
+    two_independent: 0
     primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
-    primary_document: 5
     single_source: 10
-    two_independent: 0
 sources:
   count: 1
   outlets:
-  - Associated Press / San José Spotlight
+  - Associated Press
   outlet_classes:
   - wire
   highest_reliability_tier: 1
@@ -71,33 +70,16 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-14-minneapolis-sees-second-federal-shooting-as-courts-governor-push-back-on-immigra
-  relation: related
-  strength: 0.7262
-  confidence: medium
-- slug: 2026-01-13-federal-agents-deploy-tear-gas-in-minneapolis-as-five-prosecutors-resign-over-re
-  relation: related
-  strength: 0.7222
-  confidence: medium
-- slug: 2026-01-12-minnesota-twin-cities-sue-trump-administration-over-fatal-ice-shooting
-  relation: related
-  strength: 0.7027
-  confidence: medium
-- slug: 2026-01-09-ice-agents-shoot-two-outside-portland-hospital-oregon-ag-vows-probe
-  relation: related
-  strength: 0.701
-  confidence: medium
-- slug: 2026-01-09-minneapolis-schools-offer-remote-learning-as-ice-enforcement-tensions-rise
-  relation: related
-  strength: 0.6954
-  confidence: medium
-- slug: 2026-01-08-protests-erupt-in-minneapolis-as-officials-dispute-jurisdiction-in-fatal-ice-sho
-  relation: related
-  strength: 0.7017
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- The San Jose City Council voted unanimously Tuesday to prohibit U.
+- San Jose, whose population of nearly 1 million is 41 percent immigrant, joins a national movement of local governments that have acted to limit ICE's access to publicly accessible spaces amid intensifying federal immigration operations and nationwide protests.
+- District 5 Councilmember Peter Ortiz, who led the effort, said the policy was intended to protect the relationship between residents and city services..
 
 San Jose, whose population of nearly 1 million is 41 percent immigrant, joins a national movement of local governments that have acted to limit ICE's access to publicly accessible spaces amid intensifying federal immigration operations and nationwide protests.
 
@@ -143,149 +125,174 @@ District 7 Councilmember Bien Doan said the policy extended beyond any single co
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** San Jose City Council
-**Predicate:** voted_to_ban
-**Object:** ICE use of 11 city garages and parking lots (policy_action)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** San Jose City Council
+- **Predicate:** voted_to_ban
+- **Object:** ICE use of 11 city garages and parking lots (policy_action)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > The San Jose City Council voted unanimously on January 13, 2026 to ban ICE from using 11 city garages and parking lots as staging areas or operational bases for immigration enforcement.
 
-### c_002 — confirmed, primary document
-**Subject entities:** San Jose City Council
-**Predicate:** banned
-**Object:** ICE use of parking areas at 75 community centers and libraries (policy_action)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** San Jose City Council
+- **Predicate:** banned
+- **Object:** ICE use of parking areas at 75 community centers and libraries (policy_action)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > The ban covers the parking areas of 75 community centers and libraries.
 
-### c_003 — attributed, single source
-**Subject entities:** Peter Ortiz
-**Predicate:** led
-**Object:** effort to pass ICE property ban (legislative_role)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Peter Ortiz
+- **Predicate:** led
+- **Object:** effort to pass ICE property ban (legislative_role)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > District 5 Councilmember Peter Ortiz led the effort to pass the ban.
 
-### c_004 — confirmed, primary document
-**Subject entities:** San Jose
-**Predicate:** will_install
-**Object:** signs and gates at prohibited locations (enforcement_measure)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** San Jose
+- **Predicate:** will_install
+- **Object:** signs and gates at prohibited locations (enforcement_measure)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Signs stating prohibited use will be posted at all locations, and gates will be installed where appropriate.
 
-### c_005 — confirmed, primary document
-**Subject entities:** San Jose
-**Predicate:** requires
-**Object:** employee reporting of ICE activity to supervisors (policy_requirement)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** San Jose
+- **Predicate:** requires
+- **Object:** employee reporting of ICE activity to supervisors (policy_requirement)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > City employees who become aware of ICE activity at prohibited locations will be required to report it to their supervisors.
 
-### c_006 — attributed, single source
-**Subject entities:** Santa Clara County
-**Predicate:** passed
-**Object:** policy blocking ICE from county-owned spaces (policy_action)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Santa Clara County
+- **Predicate:** passed
+- **Object:** policy blocking ICE from county-owned spaces (policy_action)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Santa Clara County passed a similar policy blocking ICE from using county-owned vacant lots, garages, and other spaces for immigration enforcement.
 
-### c_007 — attributed, single source
-**Subject entities:** Brandon Johnson; Chicago
-**Predicate:** signed
-**Object:** executive order restricting ICE on city property (executive_action)
-**Temporal:** 2025-10-06
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Brandon Johnson; Chicago
+- **Predicate:** signed
+- **Object:** executive order restricting ICE on city property (executive_action)
+- **Temporal:** 2025-10-06
+- **Sources:** src_001
 
 > Chicago Mayor Brandon Johnson signed an executive order on Oct. 6, 2025 laying out similar rules restricting ICE use of city property.
 
-### c_008 — confirmed, primary document
-**Subject entities:** San Jose
-**Predicate:** exempts
-**Object:** federal properties already in use, including TSA at airport (policy_exception)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** San Jose
+- **Predicate:** exempts
+- **Object:** federal properties already in use, including TSA at airport (policy_exception)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > The policy does not prohibit properties already in use by federal agencies, including Transportation Security Administration checkpoints at San Jose Mineta International Airport.
 
-### c_009 — attributed, single source
-**Subject entities:** San Jose
-**Predicate:** stated
-**Object:** no known city properties used for immigration enforcement (official_statement)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** San Jose
+- **Predicate:** stated
+- **Object:** no known city properties used for immigration enforcement (official_statement)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > A spokesperson for the San Jose city manager's office said there are no known city-owned properties currently being used for immigration enforcement.
 
-### c_010 — attributed, single source
-**Subject entities:** San Jose
-**Predicate:** comprises
-**Object:** 41% immigrant population (demographic_statistic)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** San Jose
+- **Predicate:** comprises
+- **Object:** 41% immigrant population (demographic_statistic)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > San Jose's population of nearly 1 million residents is 41 percent immigrant.
 
-### c_011 — attributed, single source
-**Subject entities:** Renee Good
-**Predicate:** killed_by
-**Object:** ICE agent shooting (incident)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Renee Good
+- **Predicate:** killed_by
+- **Object:** ICE agent shooting (incident)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > Renee Good, a Minneapolis resident and U.S. citizen, was fatally shot by an ICE agent the previous week.
 
-### c_012 — attributed, single source
-**Predicate:** occurred
-**Object:** more than 1,000 protests nationwide (public_response)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Predicate:** occurred
+- **Object:** more than 1,000 protests nationwide (public_response)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > More than 1,000 protests took place across the country over the weekend following the shooting.
 
-### c_013 — attributed, single source
-**Subject entities:** San Jose; Amigos de Guadalupe
-**Predicate:** invested
-**Object:** $1 million for immigrant defense organizations (government_expenditure)
-**Temporal:** 2025-01-01
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** San Jose; Amigos de Guadalupe
+- **Predicate:** invested
+- **Object:** $1 million for immigrant defense organizations (government_expenditure)
+- **Temporal:** 2025-01-01
+- **Sources:** src_001
 
 > San Jose invested $1 million to bolster immigrant defense organizations including Amigos de Guadalupe.
 
-### c_014 — attributed, single source
-**Subject entities:** San Jose City Council
-**Predicate:** directed
-**Object:** divestment analysis from corporations tied to ICE (legislative_direction)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** San Jose City Council
+- **Predicate:** directed
+- **Object:** divestment analysis from corporations tied to ICE (legislative_direction)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > San Jose City Council directed staff to analyze city investments to divest from corporations with potential ties to ICE, with a report due in March.
 
-### c_015 — attributed, single source
-**Subject entities:** San Jose
-**Predicate:** prohibited
-**Object:** law enforcement masking (policy_action)
-**Temporal:** 2025-01-01
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** San Jose
+- **Predicate:** prohibited
+- **Object:** law enforcement masking (policy_action)
+- **Temporal:** 2025-01-01
+- **Sources:** src_001
 
 > San Jose last year prohibited law enforcement from masking in the city.
 
 ## Sources
 
-### src_001 — Associated Press / San José Spotlight, wire, Tier 1, originating
-**Author:** Joyce Chu / San José Spotlight
+### src_001 — Associated Press, wire, Tier 1, originating
+**Author:** Joyce Chu / San Jose Spotlight
 **Publication date:** 2026-01-15
-**Access date:** 2026-01-15
 **Title:** San Jose bans ICE from using its properties
 **URL:** https://apnews.com/article/san-jose-minnesota-ice-crackdown-immigration-government-policy-general-news-0e174202b6de1349f51fa2f70ee1fa77
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

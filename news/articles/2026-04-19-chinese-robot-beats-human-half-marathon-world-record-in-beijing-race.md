@@ -117,8 +117,6 @@ China has made technological advancement a cornerstone of national strategy. Bei
 
 Chinese companies now dominate the robotics sector. London-based technology research group Omdia recently ranked three Chinese companies—AGIBOT, Unitree Robotics and UBTech Robotics Corp.—as the only first-tier vendors globally for general-purpose embodied robots. All three shipped more than 1,000 units last year, with AGIBOT and Unitree Robotics each shipping more than 5,000 units.
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under sources. Human review: not triggered.
-
 ## Atomic claims
 
 ### c_001 — confirmed, primary document
@@ -281,7 +279,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-05-17
 **Title:** A humanoid robot beats the human half-marathon world record
 **URL:** https://apnews.com/article/humanoid-robots-half-marathon-beijing-302d0c4781bab20100d6a0bb4e77b629
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

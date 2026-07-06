@@ -20,7 +20,7 @@ topic_tags:
   - government
   - politics
 storyline_nexus:
-  - ai-regulation
+- trump-judicial-challenges
 geographic_location: Mississippi, United States
 floor_values_engaged:
 - value: accountability_of_power
@@ -111,117 +111,137 @@ MaryAsa Lee, a spokesperson for Mississippi Attorney General Lynn Fitch, said th
 
 MTC said that, with its settlement offer rejected, it "has no choice but to let this matter proceed to litigation."
 
----
-
-*Reporting by Michael Goldberg for Mississippi Today, distributed through a partnership with The Associated Press. This article was generated algorithmically by Main Street Independent's News Article Generator framework (v1.1.0) from the public sources listed above. [Methodology](/methodology). Human review: not triggered. Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*
-
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Shad White; Management & Training Corporation
-**Predicate:** demanded_payment
-**Object:** 7400000 (currency_USD)
-**Temporal:** 2026-04-13
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Shad White; Management & Training Corporation
+- **Predicate:** demanded_payment
+- **Object:** 7400000 (currency_USD)
+- **Temporal:** 2026-04-13
+- **Sources:** src_001
 
 > Mississippi State Auditor Shad White demanded that Management & Training Corporation pay $7.4 million to the state.
 
-### c_002 — attributed, single source
-**Subject entities:** Shad White
-**Predicate:** characterized_demand_as
-**Object:** among the largest civil demands in the history of his office (characterization)
-**Temporal:** 2026-04-13
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Shad White
+- **Predicate:** characterized_demand_as
+- **Object:** among the largest civil demands in the history of his office (characterization)
+- **Temporal:** 2026-04-13
+- **Sources:** src_001
 
 > White said the demand is among the largest civil demands in the history of his office.
 
-### c_003 — confirmed, single source
-**Subject entities:** Management & Training Corporation; East Mississippi Correctional Facility; Wilkinson County Correctional Facility
-**Predicate:** manages
-**Object:** two Mississippi prisons (facility_management)
-**Temporal:** 2026-04-13
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Management & Training Corporation; East Mississippi Correctional Facility; Wilkinson County Correctional Facility
+- **Predicate:** manages
+- **Object:** two Mississippi prisons (facility_management)
+- **Temporal:** 2026-04-13
+- **Sources:** src_001
 
 > MTC manages the East Mississippi Correctional Facility in Meridian and the Wilkinson County Correctional Facility in Woodville.
 
-### c_004 — attributed, single source
-**Subject entities:** Management & Training Corporation
-**Predicate:** offered_payment
-**Object:** 4500000 (currency_USD)
-**Temporal:** 2026-04-10
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Management & Training Corporation
+- **Predicate:** offered_payment
+- **Object:** 4500000 (currency_USD)
+- **Temporal:** 2026-04-10
+- **Sources:** src_001
 
 > MTC said it offered to pay $4.5 million on the Friday before White's announcement.
 
-### c_005 — attributed, single source
-**Subject entities:** Jacob Walters; Shad White
-**Predicate:** denied_receipt_of
-**Object:** MTC settlement offer (legal_offer)
-**Temporal:** 2026-04-13
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jacob Walters; Shad White
+- **Predicate:** denied_receipt_of
+- **Object:** MTC settlement offer (legal_offer)
+- **Temporal:** 2026-04-13
+- **Sources:** src_001
 
 > White's spokesperson Jacob Walters said the auditor's office never received MTC's settlement offer.
 
-### c_006 — confirmed, single source
-**Subject entities:** Management & Training Corporation; Mississippi
-**Predicate:** paid_restitution
-**Object:** 5000000 (currency_USD)
-**Temporal:** 2021
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Management & Training Corporation; Mississippi
+- **Predicate:** paid_restitution
+- **Object:** 5000000 (currency_USD)
+- **Temporal:** 2021
+- **Sources:** src_001
 
 > In 2021, MTC paid back over $5 million to Mississippi after White launched a probe into staffing shortages.
 
-### c_007 — confirmed, primary document
-**Subject entities:** Management & Training Corporation; Mississippi Department of Corrections
-**Predicate:** covers_billing_period
-**Object:** January 2017 through May 2020 (time_period)
-**Temporal:** 2026-04-13
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Management & Training Corporation; Mississippi Department of Corrections
+- **Predicate:** covers_billing_period
+- **Object:** January 2017 through May 2020 (time_period)
+- **Temporal:** 2026-04-13
+- **Sources:** src_001
 
 > The demand covers invoices submitted to the Mississippi Department of Corrections for the period of January 2017 through May 2020.
 
-### c_008 — confirmed, primary document
-**Subject entities:** Wilkinson County Correctional Facility; Management & Training Corporation
-**Predicate:** subject_to_fines_of
-**Object:** 3100000 fine and 2800000 interest (currency_USD)
-**Temporal:** 2026-04-13
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Wilkinson County Correctional Facility; Management & Training Corporation
+- **Predicate:** subject_to_fines_of
+- **Object:** 3100000 fine and 2800000 interest (currency_USD)
+- **Temporal:** 2026-04-13
+- **Sources:** src_001
 
 > The demand letter for Wilkinson County Correctional Facility includes $3.1 million from the original fine and nearly $2.8 million in interest.
 
-### c_009 — attributed, single source
-**Subject entities:** Michael Bell; Management & Training Corporation
-**Predicate:** claimed_voluntary_payment
-**Object:** 5900000 (currency_USD)
-**Temporal:** 2026-04-13
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Michael Bell; Management & Training Corporation
+- **Predicate:** claimed_voluntary_payment
+- **Object:** 5900000 (currency_USD)
+- **Temporal:** 2026-04-13
+- **Sources:** src_001
 
 > MTC's Michael Bell said the company voluntarily paid over $5.9 million.
 
-### c_010 — attributed, single source
-**Subject entities:** Lynn Fitch; Mississippi Attorney General
-**Predicate:** received_and_reviewing
-**Object:** March demand letters (legal_document)
-**Temporal:** 2026-04-13
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Lynn Fitch; Mississippi Attorney General
+- **Predicate:** received_and_reviewing
+- **Object:** March demand letters (legal_document)
+- **Temporal:** 2026-04-13
+- **Sources:** src_001
 
 > Mississippi Attorney General Lynn Fitch's office said it first received the March demand letters on Monday and is reviewing them.
 
-### c_011 — confirmed, single source
-**Subject entities:** Mississippi; Marshall County Correctional Facility; Management & Training Corporation
-**Predicate:** assumed_control_of
-**Object:** Marshall County Correctional Facility (facility)
-**Temporal:** 2021
-**Source IDs:** src_001
+### c_011
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Mississippi; Marshall County Correctional Facility; Management & Training Corporation
+- **Predicate:** assumed_control_of
+- **Object:** Marshall County Correctional Facility (facility)
+- **Temporal:** 2021
+- **Sources:** src_001
 
 > Mississippi took over MTC's Marshall County Correctional Facility in 2021 due to staffing issues.
 
-### c_012 — reported, primary plus secondary
-**Subject entities:** Management & Training Corporation; Mississippi Department of Corrections
-**Predicate:** charged_for_unfilled_positions
-**Object:** vacant security positions (billing_practice)
-**Temporal:** 2020
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** Management & Training Corporation; Mississippi Department of Corrections
+- **Predicate:** charged_for_unfilled_positions
+- **Object:** vacant security positions (billing_practice)
+- **Temporal:** 2020
+- **Sources:** src_001
 
 > A 2020 investigation found that MTC collected millions of dollars by routinely charging the corrections department for vacant security positions it was required to fill.
 
@@ -233,7 +253,3 @@ MTC said that, with its settlement offer rejected, it "has no choice but to let 
 **Access date:** 2026-04-16
 **Title:** Auditor demands private prison company pay $7.4M to Mississippi
 **URL:** https://apnews.com/article/mississippi-auditor-private-prison-company-fine-e62265b4bdb48109882ca3b156c31f89
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

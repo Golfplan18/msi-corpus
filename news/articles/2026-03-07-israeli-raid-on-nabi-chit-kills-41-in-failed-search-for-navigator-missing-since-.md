@@ -25,7 +25,8 @@ topic_tags:
   - "conflict, war and peace"
   - "crime"
   - "crime, law and justice"
-storyline_nexus: []
+storyline_nexus:
+- israel-hezbollah-lebanon-war
 geographic_location: Nabi Chit, eastern Lebanon
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -288,7 +289,3 @@ The strikes are the latest since fighting between Israel and Hezbollah resumed e
 **Access date:** 2026-03-07
 **Title:** Israeli special force mission in Lebanon fails to find navigator missing for 40 years
 **URL:** https://apnews.com/article/lebanon-israel-hezbollah-ron-arad-nabi-chit-9054b777cb2d853e9a58cd65a71adb12
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

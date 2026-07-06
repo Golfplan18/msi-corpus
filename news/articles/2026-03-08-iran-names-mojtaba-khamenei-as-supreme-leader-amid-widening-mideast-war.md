@@ -1,6 +1,5 @@
 ---
 headline: Iran names Mojtaba Khamenei as supreme leader amid widening Mideast war
-slug: 2026-03-08-iran-names-mojtaba-khamenei-as-supreme-leader-amid-widening-mideast-war
 publish_date: '2026-03-08'
 lede: Iran's Assembly of Experts named Mojtaba Khamenei — the 56-year-old son of the late Supreme Leader Ayatollah Ali Khamenei — as the Islamic Republic's next supreme leader on Monday, as Iranian forces widened missile and drone strikes against oil and water infrastructure across Gulf Arab states. The announcement came as the conflict between Iran, the United States, and Israel entered its second week, with the war's toll surpassing 1,600 dead and global oil prices climbing above $100 a barrel.
 nut_graf: The elevation of a secretive cleric with close ties to the Revolutionary Guard, and views believed to be more hard-line than his father's, places a largely unknown figure in command of Iran's armed forces and any future decisions about Tehran's nuclear program at a critical and unresolved moment in the conflict.
@@ -19,40 +18,39 @@ primary_themes:
 - Oil market disruption
 - Civilian displacement
 topic_tags:
-  - "armed conflict"
-  - "conflict, war and peace"
-  - "economy, business and finance"
-  - "energy and resource"
-  - "market and exchange"
-storyline_nexus: []
-geographic_location: Iran; Middle East
+- armed conflict
+- conflict, war and peace
+- government
+- politics
+- religious leader
+storyline_nexus:
+- the-iran-war
+geographic_location: United States
 floor_values_engaged:
-- value: human_life_and_dignity
-  intensity: 0.95
-- value: informed_citizenship
-  intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.8
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:44:48Z'
+  intensity: 0.9
+- value: human_life_and_dignity
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T01:03:57Z'
 source_cluster_id: cluster_ap_2026-03-09_iran-israel-us-march-8-2026-f0b20dbffaea
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 13
   hedges:
-    appears: 1
     alleged: 0
-    attributed: 10
-    reported: 2
     contested: 0
+    attributed: 10
+    appears: 1
+    reported: 2
     confirmed: 0
   corroboration:
-    primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
+    primary_plus_secondary: 0
     primary_document: 0
     single_source: 13
     two_independent: 0
@@ -73,21 +71,10 @@ image:
   url: /articles/2026-03-08-iran-names-mojtaba-khamenei-as-supreme-leader-amid-widening-mideast-war.png
   alt: 'Illustration accompanying article: Iran names Mojtaba Khamenei as supreme leader amid widening Mideast war'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-12-iran-s-leadership-weakened-by-war-faces-broad-protests-as-crackdown-kills-hundre
-  relation: related
-  strength: 0.8291
-  confidence: medium
-- slug: 2026-01-02-trump-and-iran-trade-threats-as-rial-protests-enter-sixth-day-killing-at-least-7
-  relation: related
-  strength: 0.7899
-  confidence: medium
-- slug: 2026-01-11-israel-monitors-iranian-protests-as-analysts-see-little-appetite-for-new-war
-  relation: related
-  strength: 0.7613
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
 
 The elevation of a secretive cleric with close ties to the Revolutionary Guard, and views believed to be more hard-line than his father's, places a largely unknown figure in command of Iran's armed forces and any future decisions about Tehran's nuclear program at a critical and unresolved moment in the conflict.
 
@@ -139,120 +126,146 @@ Lebanon said more than 517,000 people have been displaced in the week of fightin
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Assembly of Experts; Mojtaba Khamenei
-**Predicate:** named_as_supreme_leader
-**Object:** supreme leader of Iran (political_appointment)
-**Temporal:** 2026-03-09
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Assembly of Experts; Mojtaba Khamenei
+- **Predicate:** named_as_supreme_leader
+- **Object:** supreme leader of Iran (political_appointment)
+- **Temporal:** 2026-03-09
+- **Sources:** src_001
 
 > Iran's Assembly of Experts named Mojtaba Khamenei as the Islamic Republic's next supreme leader.
 
-### c_002 — attributed, single source
-**Subject entities:** Mojtaba Khamenei
-**Predicate:** is
-**Object:** 56-year-old cleric with Revolutionary Guard ties, no prior government role (biographical_detail)
-**Temporal:** 2026-03-08
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Mojtaba Khamenei
+- **Predicate:** is
+- **Object:** 56-year-old cleric with Revolutionary Guard ties, no prior government role (biographical_detail)
+- **Temporal:** 2026-03-08
+- **Sources:** src_001
 
 > Mojtaba Khamenei is a 56-year-old cleric who maintains close ties to Iran's Revolutionary Guard and had never been elected or appointed to a government position.
 
-### c_003 — attributed, single source
-**Subject entities:** Ayatollah Ali Khamenei
-**Predicate:** killed
-**Object:** Feb. 28, opening salvo of war (event)
-**Temporal:** 2026-02-28
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ayatollah Ali Khamenei
+- **Predicate:** killed
+- **Object:** Feb. 28, opening salvo of war (event)
+- **Temporal:** 2026-02-28
+- **Sources:** src_001
 
 > Ayatollah Ali Khamenei was killed on Feb. 28 during the war's opening salvo.
 
-### c_004 — reported, single source
-**Subject entities:** Iran; Lebanon; Israel
-**Predicate:** war_deaths
-**Object:** 1,230 Iran / 397 Lebanon / 11 Israel (casualty_count)
-**Temporal:** 2026-03-08
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Iran; Lebanon; Israel
+- **Predicate:** war_deaths
+- **Object:** 1,230 Iran / 397 Lebanon / 11 Israel (casualty_count)
+- **Temporal:** 2026-03-08
+- **Sources:** src_001
 
 > The war has killed at least 1,230 people in Iran, at least 397 in Lebanon, and at least 11 in Israel, according to officials.
 
-### c_005 — attributed, single source
-**Subject entities:** U.S. military
-**Predicate:** soldiers_killed
-**Object:** 7 U.S. soldiers killed total (casualty_count)
-**Temporal:** 2026-03-08
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. military
+- **Predicate:** soldiers_killed
+- **Object:** 7 U.S. soldiers killed total (casualty_count)
+- **Temporal:** 2026-03-08
+- **Sources:** src_001
 
 > Seven U.S. soldiers have been killed; the U.S. military said one died of injuries from an Iranian attack on troops in Saudi Arabia on March 1.
 
-### c_006 — attributed, single source
-**Subject entities:** global energy markets; Qatar
-**Predicate:** price_increase
-**Object:** oil above $100 per barrel; gas tighter after Qatar production halt (market_data)
-**Temporal:** 2026-03-08
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** global energy markets; Qatar
+- **Predicate:** price_increase
+- **Object:** oil above $100 per barrel; gas tighter after Qatar production halt (market_data)
+- **Temporal:** 2026-03-08
+- **Sources:** src_001
 
 > The war has pushed global oil prices above $100 a barrel and tightened natural gas supplies after Qatar halted production.
 
-### c_007 — attributed, single source
-**Subject entities:** Saudi Arabia; Shaybah oil field
-**Predicate:** intercepted_drone_attack
-**Object:** drone targeting Shaybah oil field (military_event)
-**Temporal:** 2026-03-09
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Saudi Arabia; Shaybah oil field
+- **Predicate:** intercepted_drone_attack
+- **Object:** drone targeting Shaybah oil field (military_event)
+- **Temporal:** 2026-03-09
+- **Sources:** src_001
 
 > Saudi Arabia's Defense Ministry said it intercepted a drone attacking the kingdom's massive Shaybah oil field.
 
-### c_008 — reported, single source
-**Subject entities:** U.S. State Department; Saudi Arabia
-**Predicate:** ordered_evacuation
-**Object:** nonessential personnel and families from Saudi Arabia (diplomatic_action)
-**Temporal:** 2026-03-08
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** U.S. State Department; Saudi Arabia
+- **Predicate:** ordered_evacuation
+- **Object:** nonessential personnel and families from Saudi Arabia (diplomatic_action)
+- **Temporal:** 2026-03-08
+- **Sources:** src_001
 
 > Two U.S. officials said, speaking on condition of anonymity, that the State Department would order nonessential personnel and families of all staff to leave Saudi Arabia.
 
-### c_009 — attributed, single source
-**Subject entities:** Lebanon
-**Predicate:** displaced
-**Object:** 517,000 registered displaced persons (humanitarian_count)
-**Temporal:** 2026-03-08
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Lebanon
+- **Predicate:** displaced
+- **Object:** 517,000 registered displaced persons (humanitarian_count)
+- **Temporal:** 2026-03-08
+- **Sources:** src_001
 
 > Lebanon said more than 517,000 people have been displaced in the week of fighting between Israel and Hezbollah.
 
-### c_010 — attributed, single source
-**Subject entities:** Donald Trump
-**Predicate:** stated
-**Object:** opposition to Mojtaba Khamenei as leader (political_statement)
-**Temporal:** 2026-03-08
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** stated
+- **Object:** opposition to Mojtaba Khamenei as leader (political_statement)
+- **Temporal:** 2026-03-08
+- **Sources:** src_001
 
 > Trump said 'Khamenei's son is unacceptable to me' and 'We want someone that will bring harmony and peace to Iran.'
 
-### c_011 — appears, single source
-**Subject entities:** Mojtaba Khamenei
-**Predicate:** believed_to_hold
-**Object:** more hard-line views than Ayatollah Ali Khamenei (characterization)
-**Temporal:** 2026-03-08
-**Source IDs:** src_001
+### c_011
+- **Hedge:** appears
+- **Corroboration:** single_source
+- **Subject entities:** Mojtaba Khamenei
+- **Predicate:** believed_to_hold
+- **Object:** more hard-line views than Ayatollah Ali Khamenei (characterization)
+- **Temporal:** 2026-03-08
+- **Sources:** src_001
 
 > Mojtaba Khamenei is believed to hold views more hard-line than his late father's.
 
-### c_012 — attributed, single source
-**Subject entities:** Iranian Red Crescent Society; Iran
-**Predicate:** civilian_structures_damaged
-**Object:** ~10,000 civilian structures including health facilities (infrastructure_damage)
-**Temporal:** 2026-03-08
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Iranian Red Crescent Society; Iran
+- **Predicate:** civilian_structures_damaged
+- **Object:** ~10,000 civilian structures including health facilities (infrastructure_damage)
+- **Temporal:** 2026-03-08
+- **Sources:** src_001
 
 > The Iranian Red Crescent Society said about 10,000 civilian structures across Iran had been damaged, including homes, schools, and almost three dozen health facilities.
 
-### c_013 — attributed, single source
-**Subject entities:** Israel
-**Predicate:** soldier_deaths
-**Object:** two soldiers killed in southern Lebanon (casualty_count)
-**Temporal:** 2026-03-08
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Israel
+- **Predicate:** soldier_deaths
+- **Object:** two soldiers killed in southern Lebanon (casualty_count)
+- **Temporal:** 2026-03-08
+- **Sources:** src_001
 
 > Israel reported its first soldier deaths Sunday, saying two were killed in southern Lebanon.
 
@@ -261,10 +274,5 @@ Lebanon said more than 517,000 people have been displaced in the week of fightin
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Jon Gambrell
 **Publication date:** 2026-03-08
-**Access date:** 2026-03-08
 **Title:** Iran names Mojtaba Khamenei as supreme leader
 **URL:** https://apnews.com/article/iran-israel-us-march-8-2026-f0b20dbffaea9351ae1e54183ffe53ff
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

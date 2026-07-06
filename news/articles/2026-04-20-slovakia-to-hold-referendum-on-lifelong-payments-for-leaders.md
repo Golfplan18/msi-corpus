@@ -94,8 +94,6 @@ Only one referendum in Slovakia's history — a 2003 vote on the country's Europ
 
 Fico has remained a divisive figure since returning to power. His pro-Russian policies and other positions have drawn repeated public protests. The upcoming referendum represents a challenge to the government's direction on two core issues: financial privileges for leaders and the future of institutional oversight of corruption.
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under sources. Specification: /methodology. Human review status: not triggered. Licensed under CC0 — this article and the framework specification are public domain.
-
 ## Atomic claims
 
 ### c_001 — attributed, single source
@@ -266,7 +264,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-04-20
 **Title:** Slovakia will hold a referendum on lifelong payments for country's leaders
 **URL:** https://apnews.com/article/slovakia-referendum-corruption-politicians-lifelong-payments-a4edaa9f34c3996ac31450e54c66dfcb
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -20,7 +20,8 @@ primary_themes:
 topic_tags:
   - "conflict, war and peace"
   - "armed conflict"
-storyline_nexus: []
+storyline_nexus:
+- israel-hezbollah-lebanon-war
 geographic_location: Southern Lebanon (Nabatiyeh, Mayfadoun)
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -307,7 +308,3 @@ With the ceasefire in effect Friday, the Nabatiyeh paramedics returned to Mayfad
 **Access date:** 2026-04-18
 **Title:** Eyewitnesses recount three deadly Israeli strikes on medics in southern Lebanon
 **URL:** https://apnews.com/article/lebanon-israel-medics-hezbollah-war-ceasefire-gaza-ambulances-28c96d95a16d7561b9de868f7337ae5a
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

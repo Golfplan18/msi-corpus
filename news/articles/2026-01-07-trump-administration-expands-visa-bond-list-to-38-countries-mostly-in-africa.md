@@ -19,7 +19,8 @@ topic_tags:
   - "government policy"
   - "international relations"
   - "lifestyle and leisure"
-storyline_nexus: []
+storyline_nexus:
+- us-immigration-enforcement
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship
@@ -120,102 +121,124 @@ The visa bond program is one of several entry requirements the Trump administrat
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** U.S. Department of State
-**Predicate:** added_countries_to_visa_bond_list
-**Object:** 25 (country_count_added)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Department of State
+- **Predicate:** added_countries_to_visa_bond_list
+- **Object:** 25 (country_count_added)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > The State Department on Tuesday added 25 countries to its visa bond list.
 
-### c_002 — confirmed, primary document
-**Subject entities:** U.S. Department of State
-**Predicate:** total_countries_on_list
-**Object:** 38 (country_count)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Department of State
+- **Predicate:** total_countries_on_list
+- **Object:** 38 (country_count)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > The visa bond list now includes 38 countries in total.
 
-### c_003 — confirmed, primary document
-**Subject entities:** U.S. Department of State
-**Predicate:** bond_amount_range
-**Object:** usd
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Department of State
+- **Predicate:** bond_amount_range
+- **Object:** usd
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > Bonds range from $5,000 to $15,000.
 
-### c_004 — confirmed, primary document
-**Subject entities:** U.S. Department of State
-**Predicate:** effective_date
-**Object:** 2026-01-21 (date)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Department of State
+- **Predicate:** effective_date
+- **Object:** 2026-01-21 (date)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > The bond requirement for the 25 newly added countries takes effect Jan. 21.
 
-### c_005 — confirmed, primary document
-**Subject entities:** U.S. Department of State
-**Predicate:** bond_payment_does_not_guarantee_visa
-**Object:** policy_condition
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Department of State
+- **Predicate:** bond_payment_does_not_guarantee_visa
+- **Object:** policy_condition
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > Payment of the bond does not guarantee a visa will be granted.
 
-### c_006 — confirmed, primary document
-**Subject entities:** U.S. Department of State
-**Predicate:** bond_refund_conditions
-**Object:** policy_condition
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Department of State
+- **Predicate:** bond_refund_conditions
+- **Object:** policy_condition
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > The bond amount is refunded if a visa is denied or when the visa holder demonstrates compliance with the terms of the visa.
 
-### c_007 — reported, single source
-**Subject entities:** U.S. Department of State
-**Predicate:** prior_expansion_to_13_countries
-**Object:** 7 (countries_added_in_prior_round)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Department of State
+- **Predicate:** prior_expansion_to_13_countries
+- **Object:** 7 (countries_added_in_prior_round)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > Less than a week before Jan. 6, the State Department added seven countries to the list, bringing the total at that time to 13.
 
-### c_008 — attributed, single source
-**Subject entities:** United States government
-**Predicate:** official_rationale_for_bonds
-**Object:** policy_justification
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** United States government
+- **Predicate:** official_rationale_for_bonds
+- **Object:** policy_justification
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > U.S. officials have said the bonds are effective in ensuring that citizens of targeted countries do not overstay their visas.
 
-### c_009 — reported, single source
-**Subject entities:** U.S. Department of State
-**Predicate:** additional_entry_requirements
-**Object:** policy_requirement
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Department of State
+- **Predicate:** additional_entry_requirements
+- **Object:** policy_requirement
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > Citizens from all countries that require visas must sit for in-person interviews and disclose years of social media histories as well as detailed accounts of their and their families' previous travel and living arrangements.
 
-### c_010 — confirmed, primary document
-**Subject entities:** U.S. Department of State
-**Predicate:** newly_added_countries_jan21
-**Object:** country_list
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Department of State
+- **Predicate:** newly_added_countries_jan21
+- **Object:** country_list
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > The 25 newly added countries are Algeria, Angola, Antigua and Barbuda, Bangladesh, Benin, Burundi, Cape Verde, Cuba, Djibouti, Dominica, Fiji, Gabon, Ivory Coast, Kyrgyzstan, Nepal, Nigeria, Senegal, Tajikistan, Togo, Tonga, Tuvalu, Uganda, Vanuatu, Venezuela and Zimbabwe.
 
-### c_011 — confirmed, primary document
-**Subject entities:** U.S. Department of State
-**Predicate:** previously_listed_countries
-**Object:** country_list
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_011
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Department of State
+- **Predicate:** previously_listed_countries
+- **Object:** country_list
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > The 13 countries previously on the list are Bhutan, Botswana, the Central African Republic, the Gambia, Guinea, Guinea-Bissau, Malawi, Mauritania, Namibia, Sao Tome and Principe, Tanzania, Turkmenistan and Zambia.
 
@@ -227,7 +250,3 @@ The visa bond program is one of several entry requirements the Trump administrat
 **Access date:** 2026-01-07
 **Title:** Citizens from 38 countries must now post bonds up to $15,000 to apply for US visas
 **URL:** https://apnews.com/article/trump-visas-bond-8346bf4fa49791010dc3116aac2a5f89
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

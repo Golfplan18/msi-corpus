@@ -15,23 +15,25 @@ primary_themes:
 - voter economic sentiment
 - affordability
 topic_tags:
-  - "human migration"
-  - politics
-  - election
-  - "human interest"
-storyline_nexus: []
+- election
+- government policy
+- politics
+- political process
+- government
+storyline_nexus:
+- 2026-midterm-elections
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship
   intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.7
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:01:07Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:46:23Z'
 source_cluster_id: cluster_ap_2026-01-16_house-control-congress-trump-2026-electi
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
@@ -39,76 +41,42 @@ claims:
   hedges:
     appears: 0
     alleged: 0
-    attributed: 9
+    confirmed: 5
     reported: 1
     contested: 0
-    confirmed: 5
+    attributed: 9
   corroboration:
-    primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
-    primary_document: 2
     single_source: 13
     two_independent: 0
+    primary_document: 2
+    primary_plus_secondary: 0
 sources:
-  count: 2
+  count: 1
   outlets:
   - Associated Press
-  - Federal Reserve Bank of St. Louis (FRED)
   outlet_classes:
-  - government_release
   - wire
   highest_reliability_tier: 1
   has_originating: true
   has_primary_document: false
-figures:
-- source: fred
-  series_id: UMCSENT
-  transformation: raw
-  as_of: '2026-01-15'
-  caption: University of Michigan Consumer Sentiment fell to 52.9 in January 2026, a historically depressed reading that reflects the economic anxiety driving affordability issues to the forefront of the 2026 midterm campaign.
-- source: fred
-  series_id: MICH
-  transformation: raw
-  as_of: '2026-01-15'
-  caption: Median one-year-ahead household inflation expectations held at 4.2% in January 2026, well above the Federal Reserve's 2% target, underscoring the persistent price concerns that both parties are competing to address heading into November.
 figures_aggregate:
-  count: 2
-  series_ids:
-  - MICH
-  - UMCSENT
-  sources:
-  - fred
-cross_article_links:
-- slug: 2026-01-09-gop-fractures-emerge-in-midterm-year-s-first-week-over-venezuela-greenland-healt
-  relation: related
-  strength: 0.8199
-  confidence: medium
-- slug: 2026-01-06-trump-addresses-house-gop-with-meandering-speech-as-majority-shrinks-to-new-low
-  relation: related
-  strength: 0.8253
-  confidence: medium
-- slug: 2026-01-12-trump-s-redistricting-push-reaches-a-crossroads-as-new-legislative-sessions-begi
-  relation: related
-  strength: 0.7788
-  confidence: medium
-- slug: 2026-01-12-florida-lt-gov-jay-collins-enters-2026-governor-race-against-trump-backed-donald
-  relation: related
-  strength: 0.7745
-  confidence: medium
-- slug: 2026-01-13-dnc-commits-millions-to-bring-voter-registration-under-party-control
-  relation: related
-  strength: 0.7664
-  confidence: medium
-- slug: 2026-01-07-trump-redistricting-push-spreads-to-one-third-of-states-giving-gop-a-three-seat-
-  relation: related
-  strength: 0.7688
-  confidence: medium
-- slug: 2026-01-07-lamalfa-death-triggers-california-special-election-as-house-gop-majority-narrows
-  relation: related
-  strength: 0.7628
-  confidence: medium
+  count: 0
+  series_ids: []
+  sources: []
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- House control is at the center of midterms. These charts explain the fight
+- Republicans hold a 220-215 House majority entering the 2026 midterm election cycle.
+- Since 1932, the president's party has lost an average of 26 House seats in midterm elections.
+- Only three times since 1932 has the president's party gained House seats in midterms; the most recent was 2002.
+- Trump's job approval was 40% in January, according to AP-NORC Center for Public Affairs Research polling.
 
 Republicans enter the 2026 midterm election year defending a 220-215 House majority, with President Donald Trump personally directing candidate recruiting and strategic planning in an effort to avoid a repeat of his first term, when Democrats won the chamber in 2018 and went on to impeach him twice. Democrats, buoyed by strong off-year election results in 2025 and targeting nearly 40 Republican-held districts, are more than ready for the fight, the Associated Press reported Thursday.
 
@@ -168,130 +136,160 @@ Dozens of House members across both parties have announced they will not seek re
 
 ## Atomic claims
 
-### c_001 — confirmed, single source
-**Subject entities:** Q29552
-**Predicate:** holds_majority
-**Object:** 220-215 (seat_count)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Q29552
+- **Predicate:** holds_majority
+- **Object:** 220-215 (seat_count)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Republicans hold a 220-215 House majority entering the 2026 midterm election cycle.
 
-### c_002 — attributed, single source
-**Predicate:** average_seat_loss
-**Object:** 26 (average)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Predicate:** average_seat_loss
+- **Object:** 26 (average)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Since 1932, the president's party has lost an average of 26 House seats in midterm elections.
 
-### c_003 — attributed, single source
-**Predicate:** gained_seats
-**Object:** 3 times (count)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Predicate:** gained_seats
+- **Object:** 3 times (count)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Only three times since 1932 has the president's party gained House seats in midterms; the most recent was 2002.
 
-### c_004 — attributed, single source
-**Subject entities:** Q22686
-**Predicate:** approval_rating
-**Object:** 40% (percentage)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Q22686
+- **Predicate:** approval_rating
+- **Object:** 40% (percentage)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Trump's job approval was 40% in January, according to AP-NORC Center for Public Affairs Research polling.
 
-### c_005 — attributed, single source
-**Predicate:** identify_as
-**Object:** 45% (percentage)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Predicate:** identify_as
+- **Object:** 45% (percentage)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > 45% of U.S. adults now identify as independents, according to a Gallup survey.
 
-### c_006 — confirmed, primary document
-**Predicate:** consumer_sentiment_level
-**Object:** 52.9 (index_value)
-**Temporal:** 2026-01-15
-**Source IDs:** src_fred
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Predicate:** consumer_sentiment_level
+- **Object:** 52.9 (index_value)
+- **Temporal:** 2026-01-15
+- **Sources:** src_fred
 
 > The University of Michigan Consumer Sentiment Index stood at 52.9 in January 2026.
 
-### c_007 — confirmed, primary document
-**Predicate:** inflation_expectations
-**Object:** 4.2% (percentage)
-**Temporal:** 2026-01-15
-**Source IDs:** src_fred
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Predicate:** inflation_expectations
+- **Object:** 4.2% (percentage)
+- **Temporal:** 2026-01-15
+- **Sources:** src_fred
 
 > Median one-year-ahead household inflation expectations held at 4.2% in January 2026, per the University of Michigan survey.
 
-### c_008 — attributed, single source
-**Predicate:** cited_priority
-**Object:** 4 in 10 (proportion)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Predicate:** cited_priority
+- **Object:** 4 in 10 (proportion)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > In a December AP-NORC poll, 4 in 10 adults mentioned health care costs as a government priority.
 
-### c_009 — attributed, single source
-**Predicate:** cited_priority
-**Object:** one-third (proportion)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Predicate:** cited_priority
+- **Object:** one-third (proportion)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > About one-third of adults cited cost-of-living generally in the December AP-NORC poll.
 
-### c_010 — attributed, single source
-**Predicate:** cited_priority
-**Object:** 2 in 10 (proportion)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Predicate:** cited_priority
+- **Object:** 2 in 10 (proportion)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > About 2 in 10 adults cited housing costs in the December AP-NORC poll.
 
-### c_011 — attributed, single source
-**Subject entities:** Q29552
-**Predicate:** outperformed
-**Object:** double digits (margin_description)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Q29552
+- **Predicate:** outperformed
+- **Object:** double digits (margin_description)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Democrats outperformed their 2024 presidential results in 2025 House special elections, often by double digits.
 
-### c_012 — attributed, single source
-**Subject entities:** Q29552
-**Predicate:** targeting
-**Object:** nearly 40 (count)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Q29552
+- **Predicate:** targeting
+- **Object:** nearly 40 (count)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Democrats are targeting nearly 40 Republican-held House districts in 2026.
 
-### c_013 — confirmed, single source
-**Subject entities:** Jared Golden
-**Predicate:** not_seeking_reelection
-**Object:** Maine district (seat)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_013
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Jared Golden
+- **Predicate:** not_seeking_reelection
+- **Object:** Maine district (seat)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Rep. Jared Golden announced he is not seeking reelection; his district is one of 13 Democratic-held seats Trump won in 2024.
 
-### c_014 — reported, single source
-**Subject entities:** Paul LePage
-**Predicate:** expected_nominee
-**Object:** Maine congressional race (race)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_014
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Paul LePage
+- **Predicate:** expected_nominee
+- **Object:** Maine congressional race (race)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Republicans expect to nominate former two-term Gov. Paul LePage in the Maine race Golden is vacating.
 
-### c_015 — confirmed, single source
-**Subject entities:** Elaine Luria
-**Predicate:** seeking_seat
-**Object:** Virginia swing district (seat)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_015
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Elaine Luria
+- **Predicate:** seeking_seat
+- **Object:** Virginia swing district (seat)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Elaine Luria, a military veteran and former congresswoman, is seeking to reclaim a Virginia swing district she first won in 2018.
 
@@ -300,16 +298,5 @@ Dozens of House members across both parties have announced they will not seek re
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Bill Barrow
 **Publication date:** 2026-01-15
-**Access date:** 2026-01-15
 **Title:** House control is at the center of midterms. These charts explain the fight
 **URL:** https://apnews.com/article/house-control-congress-trump-2026-elections-434e7e16a5d70ce44a3f26e316bf251e
-
-### src_fred — Federal Reserve Bank of St. Louis (FRED), government_release, Tier 1, originating
-**Publication date:** 2026-01-15
-**Access date:** 2026-01-15
-**Title:** FRED Economic Data — UMCSENT, MICH (vintage 2026-01-15)
-**URL:** https://fred.stlouisfed.org
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

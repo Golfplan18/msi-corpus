@@ -20,14 +20,14 @@ primary_themes:
 - displacement
 - family_disruption
 topic_tags:
-  - "artificial intelligence"
-  - "arts, culture, entertainment and media"
-  - fire
-  - "international relations"
-  - "natural disaster"
-  - "peace process"
+- artificial intelligence
+- arts, culture, entertainment and media
+- fire
+- international relations
+- natural disaster
+- peace process
 storyline_nexus:
-  - iran-war
+- the-iran-war
 geographic_location: Iran (Tehran)
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -78,18 +78,6 @@ cross_article_links:
 - slug: 2026-03-10-state-department-taps-40m-emergency-fund-for-iran-war-evacuation-flights
   relation: related
   strength: 0.7429
-  confidence: medium
-- slug: 2026-01-12-iran-s-leadership-weakened-by-war-faces-broad-protests-as-crackdown-kills-hundre
-  relation: related
-  strength: 0.758
-  confidence: medium
-- slug: 2026-01-11-israel-monitors-iranian-protests-as-analysts-see-little-appetite-for-new-war
-  relation: related
-  strength: 0.7462
-  confidence: medium
-- slug: 2026-01-06-israel-strikes-lebanon-sites-ahead-of-key-hezbollah-disarmament-meeting
-  relation: related
-  strength: 0.7521
   confidence: medium
 draft: false
 ---
@@ -146,93 +134,113 @@ For families like those of Ataei, Amiri, Jafari, and Ramezani, the end of the sc
 
 ## Atomic claims
 
-### c_001 — reported, single source
-**Subject entities:** Iran schools
-**Predicate:** closed_since_war_start
-**Object:** 2026-02-28 (date)
-**Temporal:** 2026-02-28
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Iran schools
+- **Predicate:** closed_since_war_start
+- **Object:** 2026-02-28 (date)
+- **Temporal:** 2026-02-28
+- **Sources:** src_001
 
 > Schools have been closed across Iran since the United States and Israel launched a war on Feb. 28, with no announced timeline for in-person instruction to resume.
 
-### c_002 — reported, single source
-**Subject entities:** Iran war
-**Predicate:** killed
-**Object:** at least 3,000 (casualty_count)
-**Temporal:** 2026-02-28 to 2026-04-18
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Iran war
+- **Predicate:** killed
+- **Object:** at least 3,000 (casualty_count)
+- **Temporal:** 2026-02-28 to 2026-04-18
+- **Sources:** src_001
 
 > The war killed at least 3,000 people in Iran.
 
-### c_003 — reported, single source
-**Subject entities:** Iran elementary school
-**Predicate:** killed_in_airstrike
-**Object:** more than 165 (casualty_count)
-**Temporal:** 2026-02-28 to 2026-04-18
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Iran elementary school
+- **Predicate:** killed_in_airstrike
+- **Object:** more than 165 (casualty_count)
+- **Temporal:** 2026-02-28 to 2026-04-18
+- **Sources:** src_001
 
 > More than 165 people were killed in a strike on an elementary school in Iran.
 
-### c_004 — reported, single source
-**Subject entities:** US; Iran
-**Predicate:** ceasefire_set_to_expire
-**Object:** early next week from April 18 (temporal)
-**Temporal:** 2026-04-21
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** US; Iran
+- **Predicate:** ceasefire_set_to_expire
+- **Object:** early next week from April 18 (temporal)
+- **Temporal:** 2026-04-21
+- **Sources:** src_001
 
 > The ceasefire between the U.S. and Iran was set to expire early the following week.
 
-### c_005 — reported, single source
-**Subject entities:** US; Iran
-**Predicate:** divided_on
-**Object:** Iran's enriched uranium program (negotiation_issue)
-**Temporal:** 2026-04-18
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** US; Iran
+- **Predicate:** divided_on
+- **Object:** Iran's enriched uranium program (negotiation_issue)
+- **Temporal:** 2026-04-18
+- **Sources:** src_001
 
 > The U.S. and Iran are divided on key issues like Iran's enriched uranium.
 
-### c_006 — reported, single source
-**Subject entities:** US naval blockade; Iran economy
-**Predicate:** could_damage
-**Object:** Iran's economy (economic_impact)
-**Temporal:** 2026-04-18
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** US naval blockade; Iran economy
+- **Predicate:** could_damage
+- **Object:** Iran's economy (economic_impact)
+- **Temporal:** 2026-04-18
+- **Sources:** src_001
 
 > A U.S. naval blockade could further damage Iran's economy.
 
-### c_007 — attributed, single source
-**Subject entities:** Mahnaz Ataei
-**Predicate:** supervises_child_at_work
-**Object:** child enrolled in online classes (childcare_arrangement)
-**Temporal:** 2026-04-18
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Mahnaz Ataei
+- **Predicate:** supervises_child_at_work
+- **Object:** child enrolled in online classes (childcare_arrangement)
+- **Temporal:** 2026-04-18
+- **Sources:** src_001
 
 > Mahnaz Ataei, a finance manager in Tehran, brings her 7-year-old to the office and oversees his online classes while working.
 
-### c_008 — reported, single source
-**Subject entities:** Iranians
-**Predicate:** fled
-**Object:** hundreds of thousands (population_count)
-**Temporal:** 2026-02-28 to 2026-04-18
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Iranians
+- **Predicate:** fled
+- **Object:** hundreds of thousands (population_count)
+- **Temporal:** 2026-02-28 to 2026-04-18
+- **Sources:** src_001
 
 > Hundreds of thousands of Iranians fled the capital and other cities for safety after the war began.
 
-### c_009 — reported, single source
-**Subject entities:** Iran schools
-**Predicate:** resumed_online_classes
-**Object:** March for one week, then April 4 (timeline)
-**Temporal:** 2026-03-04
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Iran schools
+- **Predicate:** resumed_online_classes
+- **Object:** March for one week, then April 4 (timeline)
+- **Temporal:** 2026-03-04
+- **Sources:** src_001
 
 > Schools briefly resumed with online classes for a week in March before the Nowruz holiday, then resumed again on April 4.
 
-### c_010 — attributed, single source
-**Subject entities:** Roya Amiri
-**Predicate:** returned_to_Tehran
-**Object:** after earlier displacement (event)
-**Temporal:** 2026-04-18
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Roya Amiri
+- **Predicate:** returned_to_Tehran
+- **Object:** after earlier displacement (event)
+- **Temporal:** 2026-04-18
+- **Sources:** src_001
 
 > Roya Amiri, a housewife, returned to Tehran after fleeing with her two sons, ages 10 and 18, days after the start of the war.
 
@@ -244,7 +252,3 @@ For families like those of Ataei, Amiri, Jafari, and Ramezani, the end of the sc
 **Access date:** 2026-04-19
 **Title:** Families in Iran struggle with wartime school closures
 **URL:** https://apnews.com/article/iran-us-war-families-children-displacement-stress-1c9bc54c547b75017b7d158ff79899c8
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

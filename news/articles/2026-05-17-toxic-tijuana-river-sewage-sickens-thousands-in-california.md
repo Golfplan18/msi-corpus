@@ -18,11 +18,12 @@ primary_themes:
 - public health
 - toxic exposure
 topic_tags:
-  - environment
-  - health
-  - pollution
-  - "public health"
-storyline_nexus: []
+- environment
+- health
+- pollution
+- public health
+storyline_nexus:
+- extreme-weather-disasters
 geographic_location: Tijuana River valley, San Diego County, California; Tijuana, Mexico
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -82,10 +83,6 @@ cross_article_links:
   relation: related
   strength: 0.7138
   confidence: medium
-- slug: 2026-01-06-greece-uses-epiphany-ceremony-to-spotlight-athens-water-crisis
-  relation: related
-  strength: 0.7479
-  confidence: medium
 - slug: 2026-01-05-lead-and-toxins-persist-in-altadena-homes-a-year-after-la-wildfires
   relation: related
   strength: 0.7399
@@ -95,6 +92,8 @@ cross_article_links:
   strength: 0.7306
   confidence: medium
 draft: false
+analyses:
+- '2026-05-17-binational-infrastructure-delays-prolong-tijuana-river-sewage-exposure'
 ---
 
 For decades, billions of gallons of raw sewage flowing from Tijuana have created hazardous air quality in Southern California's Tijuana River valley, sickening residents through exposure to toxic hydrogen sulfide gas. Since 2018, more than 100 billion gallons of sewage laden with industrial chemicals have poured into the Tijuana River, according to the International Boundary and Water Commission. The contamination has created what the Environmental Protection Agency termed one of the nation's worst environmental crises, affecting tens of thousands of people in largely poor, Latino communities near the river.
@@ -129,126 +128,152 @@ But California's response to the air quality threat will stretch much longer. Th
 
 San Diego County distributed more than 10,000 air filters to homes this year. Beaches remain closed. Residents remain exposed while the systems meant to protect them slowly advance.
 
+<!-- analysis-link:2026-05-17-binational-infrastructure-delays-prolong-tijuana-river-sewage-exposure -->
+**Going deeper:** [Read MSI's analysis of Tijuana River sewage resolution timelines →](/analyses/2026-05-17-binational-infrastructure-delays-prolong-tijuana-river-sewage-exposure)
 ---
-
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Tijuana River
-**Predicate:** has_received_sewage
-**Object:** more than 100 billion gallons (volume)
-**Temporal:** 2018-2026
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Tijuana River
+- **Predicate:** has_received_sewage
+- **Object:** more than 100 billion gallons (volume)
+- **Temporal:** 2018-2026
+- **Sources:** src_001
 
 > Since 2018, more than 100 billion gallons of raw sewage laden with industrial chemicals have poured into the Tijuana River.
 
-### c_002 — confirmed, primary document
-**Subject entities:** Tijuana River
-**Predicate:** has_carried_volume
-**Object:** 10 billion gallons (volume)
-**Temporal:** 2026-01-2026-04
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Tijuana River
+- **Predicate:** has_carried_volume
+- **Object:** 10 billion gallons (volume)
+- **Temporal:** 2026-01-2026-04
+- **Sources:** src_001
 
 > Just since January 2026, the Tijuana River has carried 10 billion gallons of mostly raw sewage and industrial waste across the U.S. border.
 
-### c_003 — reported, single source
-**Subject entities:** Hydrogen sulfide; Tijuana River valley
-**Predicate:** measured_concentration
-**Object:** 4,500 times higher than typical urban levels (ratio)
-**Temporal:** 2024-09
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Hydrogen sulfide; Tijuana River valley
+- **Predicate:** measured_concentration
+- **Object:** 4,500 times higher than typical urban levels (ratio)
+- **Temporal:** 2024-09
+- **Sources:** src_001
 
 > Hydrogen sulfide concentrations measured by UC San Diego researchers were 4,500 times higher than typical urban levels.
 
-### c_004 — reported, single source
-**Subject entities:** Hydrogen sulfide; California air standards
-**Predicate:** exceeds_standard
-**Object:** 150 times higher (ratio)
-**Temporal:** 2024-09
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Hydrogen sulfide; California air standards
+- **Predicate:** exceeds_standard
+- **Object:** 150 times higher (ratio)
+- **Temporal:** 2024-09
+- **Sources:** src_001
 
 > Hydrogen sulfide concentrations were 150 times higher than California's air standards when river flows peaked at night.
 
-### c_005 — reported, single source
-**Subject entities:** San Diego County households
-**Predicate:** could_smell_sewage
-**Object:** 71% (percentage)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** San Diego County households
+- **Predicate:** could_smell_sewage
+- **Object:** 71% (percentage)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > In 2024, a sampling by San Diego County and the CDC of roughly 40,000 households close to the Tijuana River found 71% could smell sewage inside their homes.
 
-### c_006 — reported, single source
-**Subject entities:** San Diego County households
-**Predicate:** had_member_sick
-**Object:** 69% (percentage)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** San Diego County households
+- **Predicate:** had_member_sick
+- **Object:** 69% (percentage)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > In the same 2024 survey, 69% of households near the Tijuana River had a member get sick from exposure to sewage.
 
-### c_007 — reported, single source
-**Subject entities:** Navy SEALs
-**Predicate:** fallen_ill
-**Object:** illness from water exposure (health_effect)
-**Temporal:** unspecified
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Navy SEALs
+- **Predicate:** fallen_ill
+- **Object:** illness from water exposure (health_effect)
+- **Temporal:** unspecified
+- **Sources:** src_001
 
 > Navy SEALs who train in the Tijuana River water have fallen ill.
 
-### c_008 — reported, single source
-**Subject entities:** San Diego County beaches
-**Predicate:** closed
-**Object:** due to sewage contamination (closure_reason)
-**Temporal:** multi-year
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** San Diego County beaches
+- **Predicate:** closed
+- **Object:** due to sewage contamination (closure_reason)
+- **Temporal:** multi-year
+- **Sources:** src_001
 
 > San Diego County beaches near the Tijuana River have been closed for years.
 
-### c_009 — attributed, single source
-**Subject entities:** Lee Zeldin; EPA
-**Predicate:** stated_timeline
-**Object:** about two years (duration)
-**Temporal:** 2026-02
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Lee Zeldin; EPA
+- **Predicate:** stated_timeline
+- **Object:** about two years (duration)
+- **Temporal:** 2026-02
+- **Sources:** src_001
 
 > EPA Administrator Lee Zeldin said during a February 2026 visit to San Diego that it will take about two years to resolve the Tijuana River sewage crisis.
 
-### c_010 — reported, single source
-**Subject entities:** Clinic patients; river flows
-**Predicate:** respiratory_cases_correlated
-**Object:** 130% increase (percentage)
-**Temporal:** 2023-2026
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Clinic patients; river flows
+- **Predicate:** respiratory_cases_correlated
+- **Object:** 130% increase (percentage)
+- **Temporal:** 2023-2026
+- **Sources:** src_001
 
 > When river flows increased, the number of patients treated by clinic doctors for respiratory problems increased by 130%.
 
-### c_011 — reported, single source
-**Subject entities:** United States; Mexico
-**Predicate:** signed_agreement
-**Object:** wastewater plant upgrades (agreement)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** United States; Mexico
+- **Predicate:** signed_agreement
+- **Object:** wastewater plant upgrades (agreement)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > The United States and Mexico signed an agreement last year to upgrade wastewater plants to address Tijuana River sewage.
 
-### c_012 — confirmed, single source
-**Subject entities:** California air quality standard
-**Predicate:** has_age
-**Object:** 56 years (age)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_012
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** California air quality standard
+- **Predicate:** has_age
+- **Object:** 56 years (age)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > California's air quality standard for hydrogen sulfide is 56 years old.
 
-### c_013 — reported, single source
-**Subject entities:** California legislation
-**Predicate:** proposes_timeline
-**Object:** new standard by 2030 (timeline)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_013
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** California legislation
+- **Predicate:** proposes_timeline
+- **Object:** new standard by 2030 (timeline)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > A California proposal to update the hydrogen sulfide air quality standard would likely not see a new standard developed until 2030.
 
@@ -260,7 +285,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-05-17
 **Title:** Tijuana River sewage is making the air toxic, scientists say
 **URL:** https://apnews.com/article/tijuana-river-sewage-toxins-health-7351200b7d42ad21a6fe7fcb36d0a22d
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

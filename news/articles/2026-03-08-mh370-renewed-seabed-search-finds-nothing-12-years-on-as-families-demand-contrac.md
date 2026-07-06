@@ -231,7 +231,3 @@ Voice 370 said it would "continue the fight for answers. We will never give up!"
 **Access date:** 2026-03-08
 **Title:** 12 years on, renewed hunt for missing Flight MH370 comes up empty as families press for answers
 **URL:** https://apnews.com/article/malaysia-missing-flight-mh370-seabed-search-5c564494723ae2d4ead87d7aeebcdef9
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

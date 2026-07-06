@@ -21,7 +21,8 @@ topic_tags:
   - trial
   - society
   - welfare
-storyline_nexus: []
+storyline_nexus:
+- abortion-rights-battles
 geographic_location: Nevada, United States
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -332,7 +333,3 @@ As a single mother, Rousseau said the payment would help with immediate expenses
 **Access date:** 2026-05-18
 **Title:** 'I lost a lot of hope': Nevada pays $100K to woman convicted for miscarriage under 1911 law
 **URL:** https://apnews.com/article/nevada-laura-fitzsimmons-pregnancy-loss-pregnancy-and-childbirth-general-news-4addafc3bf93092279185b338ca893c9
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

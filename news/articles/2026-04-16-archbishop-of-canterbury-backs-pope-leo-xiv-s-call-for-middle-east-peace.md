@@ -21,7 +21,8 @@ topic_tags:
   - politics
   - religion
   - "science and technology"
-storyline_nexus: []
+storyline_nexus:
+- pope-leo-xiv-vatican
 geographic_location: London, United Kingdom
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -193,7 +194,3 @@ In addition to leading the Church of England, the Archbishop of Canterbury serve
 **Access date:** 2026-05-17
 **Title:** Archbishop of Canterbury backs Pope Leo XIV's call for Middle East peace
 **URL:** https://apnews.com/article/archbishop-canterbury-pope-leo-mullally-peace-trump-4611a3c2a0dbf1cc44c8f52f516349c3
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

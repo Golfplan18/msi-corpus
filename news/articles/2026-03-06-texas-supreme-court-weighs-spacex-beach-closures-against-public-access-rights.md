@@ -22,41 +22,44 @@ primary_themes:
 - environmental advocacy
 - indigenous rights
 topic_tags:
-  - "crime, law and justice"
-  - "science and technology"
-  - "trial"
-storyline_nexus: []
-geographic_location: Cameron County, Texas
+- judiciary
+- government policy
+- environment
+- space programme
+- civil rights
+storyline_nexus:
+- supreme-court-constitutional-cases
+geographic_location: United States
 floor_values_engaged:
-- value: accountability_of_power
-  intensity: 0.8
-- value: informed_citizenship
-  intensity: 0.75
 - value: human_life_and_dignity
-  intensity: 0.5
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:44:10Z'
+  intensity: 0.9
+- value: accountability_of_power
+  intensity: 0.9
+- value: equality_fairness
+  intensity: 0.9
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T01:01:56Z'
 source_cluster_id: cluster_ap_2026-03-07_james-allison-texas-general-news-space-l
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 10
   hedges:
+    confirmed: 3
+    contested: 0
+    reported: 3
     appears: 0
     alleged: 0
     attributed: 4
-    reported: 3
-    contested: 0
-    confirmed: 3
   corroboration:
-    primary_plus_secondary: 0
+    two_independent: 0
     one_originating_plus_primary_document: 0
+    primary_plus_secondary: 0
     primary_document: 8
     single_source: 2
-    two_independent: 0
 sources:
   count: 1
   outlets:
@@ -73,6 +76,7 @@ figures_aggregate:
 cross_article_links: []
 draft: false
 ---
+
 
 The Texas Supreme Court heard oral arguments Thursday in a lawsuit challenging the state's authority to close Boca Chica Beach for SpaceX rocket launches, with justices pressing both sides on where constitutional limits on public beach access begin and end. Environmental and indigenous groups sued the Texas General Land Office and Cameron County over a 2013 state law permitting some counties to temporarily bar the public from Gulf Coast beaches during space flight activities. The case tests the scope of the Texas Constitution's Open Beaches Amendment, which grants the public an "unrestricted right" to use public beaches.
 
@@ -112,91 +116,111 @@ Perales countered that private citizens retain the right to sue the government t
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Texas Supreme Court; Boca Chica Beach; SpaceX
-**Predicate:** heard_oral_arguments
-**Object:** SpaceX beach closure lawsuit (legal_proceeding)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Texas Supreme Court; Boca Chica Beach; SpaceX
+- **Predicate:** heard_oral_arguments
+- **Object:** SpaceX beach closure lawsuit (legal_proceeding)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > The Texas Supreme Court heard oral arguments on March 6, 2026, in a lawsuit over the closure of Boca Chica Beach for SpaceX rocket launches.
 
-### c_002 — confirmed, primary document
-**Subject entities:** Save RGV; Sierra Club; Carrizo/Comecrudo Tribe of Texas; Texas General Land Office; Cameron County
-**Predicate:** filed_suit_against
-**Object:** Texas General Land Office and Cameron County (legal_action)
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Save RGV; Sierra Club; Carrizo/Comecrudo Tribe of Texas; Texas General Land Office; Cameron County
+- **Predicate:** filed_suit_against
+- **Object:** Texas General Land Office and Cameron County (legal_action)
+- **Sources:** src_001
 
 > Save RGV, the Sierra Club, and the Carrizo/Comecrudo Tribe of Texas filed suit against the Texas General Land Office and Cameron County.
 
-### c_003 — confirmed, primary document
-**Subject entities:** Texas House Bill 2623
-**Predicate:** authorizes
-**Object:** temporary beach closures for space flight activities (statutory_provision)
-**Temporal:** 2013
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Texas House Bill 2623
+- **Predicate:** authorizes
+- **Object:** temporary beach closures for space flight activities (statutory_provision)
+- **Temporal:** 2013
+- **Sources:** src_001
 
 > Texas House Bill 2623, passed in 2013, allows some counties to temporarily close a public beach for space flight activities.
 
-### c_004 — reported, single source
-**Subject entities:** Federal Aviation Administration; SpaceX
-**Predicate:** authorized
-**Object:** 25 launches per year (regulatory_authorization)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Federal Aviation Administration; SpaceX
+- **Predicate:** authorized
+- **Object:** 25 launches per year (regulatory_authorization)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > The Federal Aviation Administration authorized SpaceX to conduct up to 25 rocket launches per year from Boca Chica, up from five per year previously.
 
-### c_005 — reported, single source
-**Subject entities:** Boca Chica Beach
-**Predicate:** measures
-**Object:** approximately 8 miles (geographic_measurement)
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Boca Chica Beach
+- **Predicate:** measures
+- **Object:** approximately 8 miles (geographic_measurement)
+- **Sources:** src_001
 
 > The Boca Chica Beach adjacent to the SpaceX launch pad is roughly 8 miles long.
 
-### c_006 — attributed, primary document
-**Subject entities:** Beth Klusmann; Texas Attorney General's Office
-**Predicate:** argued
-**Object:** Open Beaches Amendment is a limited right (legal_argument)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Beth Klusmann; Texas Attorney General's Office
+- **Predicate:** argued
+- **Object:** Open Beaches Amendment is a limited right (legal_argument)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > Beth Klusmann, deputy solicitor general for the Texas Attorney General's Office, argued the Open Beaches Amendment did not guarantee every person access to every Gulf Coast beach at all times.
 
-### c_007 — attributed, primary document
-**Subject entities:** Beth Klusmann
-**Predicate:** argued
-**Object:** blanket access elimination violates constitution; current schedule does not (legal_argument)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Beth Klusmann
+- **Predicate:** argued
+- **Object:** blanket access elimination violates constitution; current schedule does not (legal_argument)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > Klusmann argued that a blanket elimination of beach access would constitute a constitutional violation, but that the current launch schedule fell well short of that threshold.
 
-### c_008 — attributed, primary document
-**Subject entities:** Marisa Perales
-**Predicate:** argued
-**Object:** HB 2623 restrictions impermissible (legal_argument)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Marisa Perales
+- **Predicate:** argued
+- **Object:** HB 2623 restrictions impermissible (legal_argument)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > Attorney Marisa Perales, representing the environmental and indigenous groups, argued that HB 2623's beach closures should not be allowed because they facilitate a hazardous activity.
 
-### c_009 — attributed, primary document
-**Subject entities:** James P. Allison; Cameron County
-**Predicate:** argued
-**Object:** no private enforcement right under Open Beaches Act (legal_argument)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** James P. Allison; Cameron County
+- **Predicate:** argued
+- **Object:** no private enforcement right under Open Beaches Act (legal_argument)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > James P. Allison, attorney for Cameron County, argued the Open Beaches Act created no private right of enforcement, meaning private citizens could not challenge the law.
 
-### c_010 — reported, primary document
-**Subject entities:** Jane N. Bland
-**Predicate:** questioned
-**Object:** enforcement remedy when state is alleged violator (judicial_questioning)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Jane N. Bland
+- **Predicate:** questioned
+- **Object:** enforcement remedy when state is alleged violator (judicial_questioning)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > Justice Jane N. Bland asked how the state's constitutional violation could be remedied if the state itself is the alleged violator and the only party with enforcement authority.
 
@@ -205,10 +229,5 @@ Perales countered that private citizens retain the right to sue the government t
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Berenice Garcia / The Texas Tribune
 **Publication date:** 2026-03-06
-**Access date:** 2026-03-06
 **Title:** Legal fight over SpaceX beach closures hits Texas Supreme Court
 **URL:** https://apnews.com/article/james-allison-texas-general-news-space-launches-courts-6a274b4e9277b5bc78172dc323bd78bc
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

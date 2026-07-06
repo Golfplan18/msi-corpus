@@ -14,35 +14,41 @@ primary_themes:
 - ancient tools
 - scientific discovery
 - human evolution
-topic_tags: []
+topic_tags:
+- science and technology
+- scientific research
+- achievement
+- natural science
 storyline_nexus: []
-geographic_location: Greece (Megalopolis basin)
+geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship
-  intensity: 0.75
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+  intensity: 0.9
+- value: truthfulness
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T04:26:24Z'
 source_cluster_id: cluster_ap_2026-01-28_oldest-wooden-tools-marathousa-1-6e07cfc
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 12
   hedges:
-    appears: 5
-    alleged: 0
-    attributed: 1
     reported: 2
+    attributed: 1
+    alleged: 0
     contested: 0
+    appears: 5
     confirmed: 4
   corroboration:
     primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 0
-    single_source: 12
     two_independent: 0
+    one_originating_plus_primary_document: 0
+    single_source: 12
 sources:
   count: 1
   outlets:
@@ -56,13 +62,18 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-13-rome-s-underground-house-of-the-griffins-opens-via-livestream-tours-for-the-firs
-  relation: related
-  strength: 0.6806
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Placeholder bullet 1.
+- Placeholder bullet 2.
+- Placeholder bullet 3.
+- Placeholder bullet 4.
 
 Scientists discovered two wooden tools in Greece that date back 430,000 years, making them the oldest wooden tools ever found. One stick-like tool about 2.5 feet long could have been used for digging in mud, while a smaller handheld piece of willow or poplar wood may have been used to shape stone tools, according to research published Monday in the Proceedings of the National Academy of Sciences.
 
@@ -92,111 +103,135 @@ The Megalopolis basin site probably contains more archaeological treasures yet t
 
 ## Atomic claims
 
-### c_001 — reported, single source
-**Subject entities:** wooden tools; Megalopolis basin
-**Predicate:** dated_to
-**Object:** 430,000 years ago (temporal_span)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** wooden tools; Megalopolis basin
+- **Predicate:** dated_to
+- **Object:** 430,000 years ago (temporal_span)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > Two wooden tools were found in Greece's Megalopolis basin and date back 430,000 years.
 
-### c_002 — appears, single source
-**Subject entities:** wooden tool
-**Predicate:** described_with_possible_use
-**Object:** stick for digging (artifact_function)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_002
+- **Hedge:** appears
+- **Corroboration:** single_source
+- **Subject entities:** wooden tool
+- **Predicate:** described_with_possible_use
+- **Object:** stick for digging (artifact_function)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > One tool is a spindly stick about 2.5 feet (80 centimeters) long that could have been used for digging in the mud.
 
-### c_003 — appears, single source
-**Subject entities:** wooden tool
-**Predicate:** described_with_possible_use
-**Object:** handheld stone tool shaper (artifact_function)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_003
+- **Hedge:** appears
+- **Corroboration:** single_source
+- **Subject entities:** wooden tool
+- **Predicate:** described_with_possible_use
+- **Object:** handheld stone tool shaper (artifact_function)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > The other tool is a smaller, more mysterious handheld chunk of willow or poplar wood that may have been used to shape stone tools.
 
-### c_004 — confirmed, single source
-**Subject entities:** research
-**Predicate:** published_in
-**Object:** Proceedings of the National Academy of Sciences (journal)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** research
+- **Predicate:** published_in
+- **Object:** Proceedings of the National Academy of Sciences (journal)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > The research was published Monday in the Proceedings of the National Academy of Sciences.
 
-### c_005 — appears, single source
-**Subject entities:** wooden tools
-**Predicate:** preserved_by
-**Object:** wet environment and sediment burial (preservation_mechanism)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_005
+- **Hedge:** appears
+- **Corroboration:** single_source
+- **Subject entities:** wooden tools
+- **Predicate:** preserved_by
+- **Object:** wet environment and sediment burial (preservation_mechanism)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > The tools were possibly buried quickly by sediment and preserved by a wet environment over time.
 
-### c_006 — confirmed, single source
-**Subject entities:** Megalopolis basin site
-**Predicate:** yielded_artifacts
-**Object:** stone tools and elephant bones with cut marks (artifact_collection)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Megalopolis basin site
+- **Predicate:** yielded_artifacts
+- **Object:** stone tools and elephant bones with cut marks (artifact_collection)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > For years, researchers have found stone tools and elephant bones with cuts at the Megalopolis basin site.
 
-### c_007 — confirmed, single source
-**Subject entities:** site; human remains
-**Predicate:** absence_indicates_uncertainty
-**Object:** unknown user identity (interpretive_conclusion)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** site; human remains
+- **Predicate:** absence_indicates_uncertainty
+- **Object:** unknown user identity (interpretive_conclusion)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > Human remains have not been found at the site, so it is not yet clear who used the tools.
 
-### c_008 — appears, single source
-**Subject entities:** tool users
-**Predicate:** possibly_identified_as
-**Object:** Neanderthals, early humans, or other species (species_identification)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_008
+- **Hedge:** appears
+- **Corroboration:** single_source
+- **Subject entities:** tool users
+- **Predicate:** possibly_identified_as
+- **Object:** Neanderthals, early humans, or other species (species_identification)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > The tool owners could have been Neanderthals, early human ancestors or someone else.
 
-### c_009 — confirmed, single source
-**Subject entities:** wood
-**Predicate:** preservation_requirement
-**Object:** ice, caves, underwater environments (scientific_principle)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** wood
+- **Predicate:** preservation_requirement
+- **Object:** ice, caves, underwater environments (scientific_principle)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > Wood rots quickly and is only preserved in specific environments like ice, caves or underwater.
 
-### c_010 — attributed, single source
-**Subject entities:** Annemieke Milks; University of Reading
-**Predicate:** said
-**Object:** thrilled to touch these objects (speech_act)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Annemieke Milks; University of Reading
+- **Predicate:** said
+- **Object:** thrilled to touch these objects (speech_act)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > Study author Annemieke Milks of the University of Reading said she has always been thrilled to touch these objects.
 
-### c_011 — appears, single source
-**Subject entities:** ancient wooden tools
-**Predicate:** include_examples
-**Object:** German spears, 300,000-year-old Chinese digging sticks (artifact_examples)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_011
+- **Hedge:** appears
+- **Corroboration:** single_source
+- **Subject entities:** ancient wooden tools
+- **Predicate:** include_examples
+- **Object:** German spears, 300,000-year-old Chinese digging sticks (artifact_examples)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > Other examples of ancient wooden tools include a set of spears from Germany and 300,000-year-old Chinese digging sticks that may have been used to harvest plants.
 
-### c_012 — reported, single source
-**Subject entities:** Megalopolis basin site
-**Predicate:** likely_contains
-**Object:** additional archaeological artifacts (future_possibility)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Megalopolis basin site
+- **Predicate:** likely_contains
+- **Object:** additional archaeological artifacts (future_possibility)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > The Megalopolis basin site in Greece probably has more archaeological finds waiting to be discovered.
 
@@ -205,10 +240,5 @@ The Megalopolis basin site probably contains more archaeological treasures yet t
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Adithi Ramakrishnan
 **Publication date:** 2026-01-26
-**Access date:** 2026-01-26
 **Title:** Ancient wooden tools from Greece are the oldest found yet
 **URL:** https://apnews.com/article/oldest-wooden-tools-marathousa-1-6e07cfc79f6d8ba648138f805531b933
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -17,43 +17,41 @@ primary_themes:
 - homicide
 - online radicalization
 topic_tags:
-  - "crime"
-  - "crime, law and justice"
-  - "government policy"
-  - "politics"
+- crime
+- terrorism
+- trial
+- judiciary
 storyline_nexus:
-  - us-administration-2026
-geographic_location: Waukesha, Wisconsin, United States
+- trump-judicial-challenges
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
-  intensity: 0.95
+  intensity: 0.9
 - value: informed_citizenship
-  intensity: 0.8
-- value: accountability_of_power
-  intensity: 0.65
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:44:46Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:33:48Z'
 source_cluster_id: cluster_ap_2026-03-07_wisconsin-deaths-trump-assassination-plo
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 15
   hedges:
-    appears: 0
-    alleged: 1
     attributed: 11
-    reported: 0
-    contested: 0
+    alleged: 1
     confirmed: 3
+    contested: 0
+    reported: 0
+    appears: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 4
-    single_source: 11
+    one_originating_plus_primary_document: 0
     two_independent: 0
+    primary_plus_secondary: 0
+    single_source: 11
 sources:
   count: 1
   outlets:
@@ -70,6 +68,13 @@ figures_aggregate:
 cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- A Wisconsin teenager received two consecutive life sentences without the possibility of parole Thursday for killing his mother and stepfather to fund a plan to assassinate President Donald Trump with explosives dropped from a drone.
+- The drone and explosives Casap paid for through an online contact were never delivered — the contacts were scammers — and the assassination plan never advanced beyond a digital trail of manifestos and messages found on his cellphone.
+- Federal authorities separately accused him, through a search warrant, of planning to kill Trump and targeting his parents to obtain the money and autonomy to carry out the attempt.
 
 The drone and explosives Casap paid for through an online contact were never delivered — the contacts were scammers — and the assassination plan never advanced beyond a digital trail of manifestos and messages found on his cellphone. Federal authorities separately accused him, through a search warrant, of planning to kill Trump and targeting his parents to obtain the money and autonomy to carry out the attempt.
 
@@ -113,137 +118,167 @@ Ramirez said he lacked a "crystal ball" that would tell him whether Casap would 
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Nikita Casap
-**Predicate:** sentenced_to
-**Object:** two life terms without parole (criminal_sentence)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Nikita Casap
+- **Predicate:** sentenced_to
+- **Object:** two life terms without parole (criminal_sentence)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > Nikita Casap, 18, was sentenced to two consecutive life terms without parole in Waukesha County Circuit Court on March 5, 2026.
 
-### c_002 — confirmed, primary document
-**Subject entities:** Nikita Casap
-**Predicate:** pleaded_guilty
-**Object:** two counts first-degree intentional homicide (criminal_charge)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Nikita Casap
+- **Predicate:** pleaded_guilty
+- **Object:** two counts first-degree intentional homicide (criminal_charge)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Casap pleaded guilty in January 2026 to two counts of first-degree intentional homicide in Waukesha County Circuit Court.
 
-### c_003 — attributed, primary document
-**Subject entities:** Nikita Casap; Tatiana Casap; Donald Mayer
-**Predicate:** killed
-**Object:** shooting deaths at home in village of Waukesha (homicide)
-**Temporal:** 2025-02-11
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Nikita Casap; Tatiana Casap; Donald Mayer
+- **Predicate:** killed
+- **Object:** shooting deaths at home in village of Waukesha (homicide)
+- **Temporal:** 2025-02-11
+- **Sources:** src_001
 
 > Investigators believe Casap shot his mother, Tatiana Casap, and stepfather, Donald Mayer, at their Waukesha home on or around February 11, 2025.
 
-### c_004 — attributed, single source
-**Subject entities:** Ralph Ramirez; Nikita Casap
-**Predicate:** sentenced
-**Object:** two life terms, no extended supervision (judicial_ruling)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ralph Ramirez; Nikita Casap
+- **Predicate:** sentenced
+- **Object:** two life terms, no extended supervision (judicial_ruling)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > Judge Ralph Ramirez called Casap's offenses 'horrific' and 'inexplicable' and imposed two life sentences with no chance at extended supervision.
 
-### c_005 — alleged, single source
-**Subject entities:** Nikita Casap; Donald Trump
-**Predicate:** accused_of
-**Object:** manifesto and drone bomb plot against Trump (federal_allegation)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_005
+- **Hedge:** alleged
+- **Corroboration:** single_source
+- **Subject entities:** Nikita Casap; Donald Trump
+- **Predicate:** accused_of
+- **Object:** manifesto and drone bomb plot against Trump (federal_allegation)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Federal authorities accused Casap, in a search warrant, of writing a manifesto calling for Trump's assassination and planning to drop explosives from a drone.
 
-### c_006 — attributed, single source
-**Subject entities:** Nikita Casap
-**Predicate:** sent_payment
-**Object:** $8,700 bitcoin to scammers promising drone and explosives (financial_transaction)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Nikita Casap
+- **Predicate:** sent_payment
+- **Object:** $8,700 bitcoin to scammers promising drone and explosives (financial_transaction)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Casap sent $8,700 in bitcoin from his stepfather's account to online contacts who were scammers and never delivered a drone or explosives.
 
-### c_007 — attributed, single source
-**Subject entities:** Nikita Casap
-**Predicate:** fled
-**Object:** fled with $14,000 cash, jewelry, passports, gun, dog in stepfather's SUV (flight_from_crime)
-**Temporal:** 2025-02
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Nikita Casap
+- **Predicate:** fled
+- **Object:** fled with $14,000 cash, jewelry, passports, gun, dog in stepfather's SUV (flight_from_crime)
+- **Temporal:** 2025-02
+- **Sources:** src_001
 
 > Casap lived with his parents' decomposing bodies for two weeks before fleeing in his stepfather's SUV with $14,000 in cash, jewelry, passports, a gun and the family dog.
 
-### c_008 — confirmed, primary document
-**Subject entities:** Nikita Casap
-**Predicate:** arrested
-**Object:** traffic stop in Kansas (arrest)
-**Temporal:** 2025-02-28
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Nikita Casap
+- **Predicate:** arrested
+- **Object:** traffic stop in Kansas (arrest)
+- **Temporal:** 2025-02-28
+- **Sources:** src_001
 
 > Casap was arrested during a traffic stop in Kansas on February 28, 2025, four days after leaving Wisconsin.
 
-### c_009 — attributed, single source
-**Subject entities:** Nikita Casap
-**Predicate:** communicated_with
-**Object:** Russian-speaking contact regarding Ukraine relocation (digital_communication)
-**Temporal:** 2025-01
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Nikita Casap
+- **Predicate:** communicated_with
+- **Object:** Russian-speaking contact regarding Ukraine relocation (digital_communication)
+- **Temporal:** 2025-01
+- **Sources:** src_001
 
 > Detectives found messages on Casap's cellphone from January 2025 in which he asked a Russian-speaking contact how long he would have to hide before being relocated to Ukraine.
 
-### c_010 — attributed, single source
-**Subject entities:** Nikita Casap; Lesli Boese
-**Predicate:** stated
-**Object:** indifference to bystander casualties (prosecutorial_statement)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Nikita Casap; Lesli Boese
+- **Predicate:** stated
+- **Object:** indifference to bystander casualties (prosecutorial_statement)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > DA Lesli Boese said Casap told FBI agents he would not have cared how many bystanders around Trump were hurt during the assassination attempt.
 
-### c_011 — attributed, single source
-**Subject entities:** Nikita Casap
-**Predicate:** stated_in_court
-**Object:** statement about revolution and war self-justification (court_statement)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Nikita Casap
+- **Predicate:** stated_in_court
+- **Object:** statement about revolution and war self-justification (court_statement)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > Casap told the court: 'I thought I was part of a revolution. I thought I was part of a war. I told myself bad things had to happen.'
 
-### c_012 — attributed, single source
-**Subject entities:** Paul Rifelj; Ralph Ramirez
-**Predicate:** requested
-**Object:** parole eligibility after 20 years (defense_request)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Paul Rifelj; Ralph Ramirez
+- **Predicate:** requested
+- **Object:** parole eligibility after 20 years (defense_request)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > Defense attorney Paul Rifelj asked Judge Ramirez to make Casap eligible for parole after 20 years.
 
-### c_013 — attributed, single source
-**Subject entities:** Nikita Casap
-**Predicate:** immigrated_from
-**Object:** Republic of Moldova, at grade-school age (biographical_detail)
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Nikita Casap
+- **Predicate:** immigrated_from
+- **Object:** Republic of Moldova, at grade-school age (biographical_detail)
+- **Sources:** src_001
 
 > Casap came to the United States from the Republic of Moldova as a grade-schooler, according to District Attorney Boese.
 
-### c_014 — attributed, single source
-**Subject entities:** Nikita Casap; Lesli Boese
-**Predicate:** stated
-**Object:** Magdeburg attack prompted Casap to plan politician assassination (prosecutorial_statement)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Nikita Casap; Lesli Boese
+- **Predicate:** stated
+- **Object:** Magdeburg attack prompted Casap to plan politician assassination (prosecutorial_statement)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > Boese said a December 2024 attack in which a doctor drove a car into a Christmas market in Magdeburg, Germany, prompted Casap to begin planning to kill a politician.
 
-### c_015 — attributed, single source
-**Subject entities:** Paul Rifelj; Nikita Casap
-**Predicate:** stated
-**Object:** manipulation by online contacts who offered direction and purpose (defense_statement)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Paul Rifelj; Nikita Casap
+- **Predicate:** stated
+- **Object:** manipulation by online contacts who offered direction and purpose (defense_statement)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > Rifelj said online contacts convinced Casap he was part of a broader military strategy, providing direction and purpose at a time when he was becoming isolated at school.
 
@@ -252,10 +287,5 @@ Ramirez said he lacked a "crystal ball" that would tell him whether Casap would 
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Todd Richmond
 **Publication date:** 2026-03-05
-**Access date:** 2026-05-17
 **Title:** Wisconsin man who shot parents to fund Trump assassination plot gets life in prison
 **URL:** https://apnews.com/article/wisconsin-deaths-trump-assassination-plot-casap-e62d8c98ff28695e30062c73518d573c
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

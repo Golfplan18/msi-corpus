@@ -23,7 +23,8 @@ primary_themes:
 topic_tags:
   - "international relations"
   - "politics"
-storyline_nexus: []
+storyline_nexus:
+- us-cuba-relations-escalation
 geographic_location: Quito, Ecuador
 floor_values_engaged:
 - value: informed_citizenship
@@ -98,91 +99,111 @@ The diplomatic break also followed heightened regional tensions since January 3,
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Cuba diplomatic mission; Ecuador
-**Predicate:** departed_after_deadline
-**Object:** 48-hour deadline (diplomatic_order)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Cuba diplomatic mission; Ecuador
+- **Predicate:** departed_after_deadline
+- **Object:** 48-hour deadline (diplomatic_order)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > Cuba's diplomatic mission in Ecuador departed Friday, March 6, 2026, after a 48-hour deadline given by the Ecuadorian government expired.
 
-### c_002 — confirmed, primary document
-**Subject entities:** Ecuador; Basilio Antonio Gutiérrez
-**Predicate:** declared_persona_non_grata
-**Object:** persona non grata (diplomatic_status)
-**Temporal:** 2026-03-04
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Ecuador; Basilio Antonio Gutiérrez
+- **Predicate:** declared_persona_non_grata
+- **Object:** persona non grata (diplomatic_status)
+- **Temporal:** 2026-03-04
+- **Sources:** src_001
 
 > Ecuador declared Cuba's ambassador Basilio Antonio Gutiérrez and his diplomatic staff 'persona non grata' on Wednesday, March 4, 2026.
 
-### c_003 — attributed, two independent
-**Subject entities:** Cuba Foreign Ministry
-**Predicate:** confirmed_embassy_closure
-**Object:** ceased all functions (diplomatic_action)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** two_independent
+- **Subject entities:** Cuba Foreign Ministry
+- **Predicate:** confirmed_embassy_closure
+- **Object:** ceased all functions (diplomatic_action)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > Cuba's Foreign Ministry confirmed the Quito embassy has ceased all functions and described Ecuador's action as 'unilateral and unfriendly.'
 
-### c_004 — confirmed, primary document
-**Subject entities:** Cuban Embassy staff
-**Predicate:** observed_burning_papers
-**Object:** papers burned in oven on embassy roof (observed_action)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Cuban Embassy staff
+- **Predicate:** observed_burning_papers
+- **Object:** papers burned in oven on embassy roof (observed_action)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > Before departing, a staff member was seen on the roof of the Cuban Embassy burning papers in an oven, witnessed by the Associated Press.
 
-### c_005 — attributed, primary document
-**Subject entities:** Daniel Noboa
-**Predicate:** posted_video_with_comment
-**Object:** A paper barbecue (public_statement)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Daniel Noboa
+- **Predicate:** posted_video_with_comment
+- **Object:** A paper barbecue (public_statement)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > Ecuadorian President Daniel Noboa posted video of the paper burning on social media and remarked, 'A paper barbecue.'
 
-### c_006 — attributed, two independent
-**Subject entities:** Ecuador Ministry of Foreign Affairs
-**Predicate:** cited_diplomatic_law_without_explanation
-**Object:** no stated reason (omission)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** two_independent
+- **Subject entities:** Ecuador Ministry of Foreign Affairs
+- **Predicate:** cited_diplomatic_law_without_explanation
+- **Object:** no stated reason (omission)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > Ecuador's Ministry of Foreign Affairs said the expulsion was adopted within the framework of international diplomatic law but gave no reason for the measure.
 
-### c_007 — confirmed, primary document
-**Subject entities:** Vienna Convention
-**Predicate:** permits_unexplained_expulsion
-**Object:** no explanation required (legal_provision)
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Vienna Convention
+- **Predicate:** permits_unexplained_expulsion
+- **Object:** no explanation required (legal_provision)
+- **Sources:** src_001
 
 > The Vienna Convention allows countries to declare diplomatic personnel persona non grata without providing an explanation.
 
-### c_008 — reported, single source
-**Subject entities:** Donald Trump; Daniel Noboa
-**Predicate:** scheduled_meeting
-**Object:** Florida summit with conservative Latin American leaders (diplomatic_event)
-**Temporal:** 2026-03-07
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Daniel Noboa
+- **Predicate:** scheduled_meeting
+- **Object:** Florida summit with conservative Latin American leaders (diplomatic_event)
+- **Temporal:** 2026-03-07
+- **Sources:** src_001
 
 > The diplomatic rift occurred days before U.S. President Donald Trump is scheduled to meet with conservative Latin American leaders, including Noboa, in Florida.
 
-### c_009 — attributed, single source
-**Subject entities:** Donald Trump; Cuba
-**Predicate:** characterized_and_pressured
-**Object:** failed nation (public_statement)
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Cuba
+- **Predicate:** characterized_and_pressured
+- **Object:** failed nation (public_statement)
+- **Sources:** src_001
 
 > Trump has characterized Cuba as a 'failed nation' and the U.S. has increased pressure on nations selling oil to Cuba.
 
-### c_010 — reported, single source
-**Subject entities:** Nicolás Maduro; United States; Cuba
-**Predicate:** captured_in_military_operation
-**Object:** U.S. military operation in Caracas (military_action)
-**Temporal:** 2026-01-03
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Nicolás Maduro; United States; Cuba
+- **Predicate:** captured_in_military_operation
+- **Object:** U.S. military operation in Caracas (military_action)
+- **Temporal:** 2026-01-03
+- **Sources:** src_001
 
 > Tensions have risen following the January 3, 2026 capture of former Venezuelan President Nicolás Maduro, described as a key Cuban ally, during a U.S. military operation in Caracas.
 
@@ -193,7 +214,3 @@ The diplomatic break also followed heightened regional tensions since January 3,
 **Access date:** 2026-05-17
 **Title:** Cuban diplomats leave Ecuador after Noboa's 48-hour deadline
 **URL:** https://apnews.com/article/ecuador-cuba-embassy-noboa-diezcanel-d0bd76fa4679c657c8d9ea29e8118e9c
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

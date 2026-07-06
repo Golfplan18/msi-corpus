@@ -16,42 +16,39 @@ primary_themes:
 - workforce development
 - technology education policy
 topic_tags:
-  - "economy, business and finance"
-  - education
-  - "higher education"
-  - labour
-  - employment
-  - "science and technology"
-storyline_nexus: []
-geographic_location: East Lansing, Michigan
+- artificial intelligence
+- higher education
+- education
+- computing and information technology
+storyline_nexus:
+- ai-industry-regulation
+geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship
-  intensity: 0.75
-- value: accountability_of_power
-  intensity: 0.2
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:00:00Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:07:53Z'
 source_cluster_id: cluster_ap_2026-01-21_artificial-intelligence-colleges-and-uni
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 10
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 6
     reported: 0
-    contested: 0
+    attributed: 6
+    appears: 0
     confirmed: 4
+    alleged: 0
+    contested: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 0
-    single_source: 10
     two_independent: 0
+    one_originating_plus_primary_document: 0
+    single_source: 10
+    primary_plus_secondary: 0
 sources:
   count: 1
   outlets:
@@ -65,13 +62,18 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-06-finland-s-preschool-media-literacy-program-expands-to-ai-as-russian-disinformati
-  relation: related
-  strength: 0.7063
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Summary point 1.
+- Summary point 2.
+- Summary point 3.
+- Summary point 4.
 
 Michigan State University announced plans to integrate artificial intelligence instruction across all undergraduate majors, starting with a new foundational course in fall 2026, following recommendations from an advisory panel of 18 Michigan business and civic leaders who said AI proficiency has become a baseline job requirement in every field. The initiative is backed by a $5 million seed gift from an anonymous MSU alumnus.
 
@@ -113,93 +115,113 @@ In engineering specifically, Livesay said, AI will generate designs rapidly whil
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Michigan State University
-**Predicate:** plans_to_integrate
-**Object:** AI instruction across all majors, foundational course fall 2026 (policy_plan)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Michigan State University
+- **Predicate:** plans_to_integrate
+- **Object:** AI instruction across all majors, foundational course fall 2026 (policy_plan)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Michigan State University plans to integrate artificial intelligence instruction across all major areas of study, starting with a foundational course in fall 2026.
 
-### c_002 — confirmed, single source
-**Subject entities:** Green and White Council
-**Predicate:** recommended
-**Object:** AI-Ready Spartans initiative (policy_recommendation)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Green and White Council
+- **Predicate:** recommended
+- **Object:** AI-Ready Spartans initiative (policy_recommendation)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > 'AI-Ready Spartans' is one of three recommendations from MSU's Green and White Council, a team of 18 statewide business and civic leaders.
 
-### c_003 — attributed, single source
-**Subject entities:** anonymous MSU alumnus
-**Predicate:** donated
-**Object:** $5 million seed gift (monetary_gift)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** anonymous MSU alumnus
+- **Predicate:** donated
+- **Object:** $5 million seed gift (monetary_gift)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > An anonymous MSU alumnus donated a $5 million seed gift to fund the Green and White Council's three initiatives.
 
-### c_004 — confirmed, single source
-**Subject entities:** Kevin Guskiewicz; Green and White Council
-**Predicate:** assembled
-**Object:** 18-member Green and White Council (institutional_body)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Kevin Guskiewicz; Green and White Council
+- **Predicate:** assembled
+- **Object:** 18-member Green and White Council (institutional_body)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > MSU President Kevin Guskiewicz assembled the Green and White Council last year; it consists of 18 civic and business leaders.
 
-### c_005 — confirmed, single source
-**Subject entities:** Michigan State University
-**Predicate:** stopped_short_of
-**Object:** mandatory AI graduation requirement (policy_decision)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Michigan State University
+- **Predicate:** stopped_short_of
+- **Object:** mandatory AI graduation requirement (policy_decision)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > MSU stopped short of making AI courses mandatory for graduation.
 
-### c_006 — attributed, single source
-**Subject entities:** Purdue University
-**Predicate:** announced
-**Object:** AI working competency graduation requirement, fall 2026 (academic_policy)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Purdue University
+- **Predicate:** announced
+- **Object:** AI working competency graduation requirement, fall 2026 (academic_policy)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Purdue University last year announced an 'AI working competency' graduation requirement for all undergraduate students beginning in fall 2026, calling itself the first higher education institution to do so.
 
-### c_007 — attributed, single source
-**Subject entities:** University of Michigan
-**Predicate:** offers
-**Object:** 500+ AI course offerings, none required (academic_program)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** University of Michigan
+- **Predicate:** offers
+- **Object:** 500+ AI course offerings, none required (academic_program)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > The University of Michigan offers more than 500 credit and noncredit AI course offerings but none are required.
 
-### c_008 — confirmed, single source
-**Subject entities:** Wayne State University
-**Predicate:** established
-**Object:** Institute for AI and Data Science (academic_institution)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Wayne State University
+- **Predicate:** established
+- **Object:** Institute for AI and Data Science (academic_institution)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Wayne State University last year established the Institute for AI and Data Science and offers a master's degree and professional development certification in AI, but none are required.
 
-### c_009 — attributed, single source
-**Subject entities:** Dennis Livesay; Michigan Technological University
-**Predicate:** said
-**Object:** other colleges and universities likely will follow in requiring AI (attributed_prediction)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Dennis Livesay; Michigan Technological University
+- **Predicate:** said
+- **Object:** other colleges and universities likely will follow in requiring AI (attributed_prediction)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Dennis Livesay, Dave House Dean of Computing at Michigan Technological University, said other colleges and universities likely will follow in requiring AI competency.
 
-### c_010 — attributed, single source
-**Subject entities:** Oakland University
-**Predicate:** integrates_but_not_requires
-**Object:** AI literacy in specialized programs; no required course (academic_program)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Oakland University
+- **Predicate:** integrates_but_not_requires
+- **Object:** AI literacy in specialized programs; no required course (academic_program)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Oakland University integrates AI literacy in several specialized programs but has not required a course, and is evaluating whether to include emerging technologies in its revised general education program.
 
@@ -208,10 +230,5 @@ In engineering specifically, Livesay said, AI will generate designs rapidly whil
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Kim Kozlowski / Bridge Michigan
 **Publication date:** 2026-01-22
-**Access date:** 2026-05-17
 **Title:** MSU to offer AI studies across all majors amid push for digital-ready workforce
 **URL:** https://apnews.com/article/artificial-intelligence-colleges-and-universities-corporate-management-labor-general-news-2cda09ad65f2831bbf3af8d29fe7b582
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

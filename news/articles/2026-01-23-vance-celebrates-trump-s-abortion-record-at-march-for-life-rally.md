@@ -20,7 +20,8 @@ topic_tags:
   - judiciary
   - politics
   - religion
-storyline_nexus: []
+storyline_nexus:
+- abortion-rights-battles
 geographic_location: Washington, D.C.
 floor_values_engaged:
 - value: informed_citizenship
@@ -227,7 +228,3 @@ The Mexico City policy has a three-decade history. First established by Presiden
 **Access date:** 2026-05-18
 **Title:** Vance lauds Trump's record against abortion at March for Life
 **URL:** https://apnews.com/article/march-for-life-vance-abortion-beb7c04a39a54861836f64ae3ba90b56
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

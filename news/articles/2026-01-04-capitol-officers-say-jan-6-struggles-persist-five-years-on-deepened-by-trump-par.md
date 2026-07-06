@@ -21,48 +21,68 @@ primary_themes:
 - Capitol security
 - political violence
 topic_tags:
-  - "crime, law and justice"
-  - "law enforcement"
-  - politics
-storyline_nexus: []
-geographic_location: Washington, D.C., United States
+- civil unrest
+- crime
+- law enforcement
+- politics
+- political dissent
+storyline_nexus:
+- trump-judicial-challenges
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
   intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.85
-- value: informed_citizenship
-  intensity: 0.75
-- value: truthfulness
-  intensity: 0.7
-framework_version: 1.1.0
-generation_timestamp: '2026-05-16T16:45:00Z'
+  intensity: 0.9
+framework_version: 1.3.0
+generation_timestamp: '2026-05-22T23:52:02Z'
 source_cluster_id: cluster_ap_2026-01-03_capitol-riot-police-trump-jan-6-congress
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 14
   hedges:
-    appears: 0
+    contested: 0
     alleged: 0
     attributed: 10
     reported: 4
-    contested: 0
+    appears: 0
     confirmed: 0
   corroboration:
     primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 0
     single_source: 14
     two_independent: 0
+    primary_document: 0
+    one_originating_plus_primary_document: 0
 sources:
-  count: 1
+  count: 21
   outlets:
+  - 13newsnow.com
   - Associated Press
+  - adn.com
+  - arkansasonline.com
+  - bangordailynews.com
+  - bozemandailychronicle.com
+  - click2houston.com
+  - clickondetroit.com
+  - clickorlando.com
+  - columbian.com
+  - dailybreeze.com
+  - dailybulletin.com
+  - dailynews.com
+  - ocregister.com
+  - pasadenastarnews.com
+  - presstelegram.com
+  - redlandsdailyfacts.com
+  - sbsun.com
+  - sgvtribune.com
+  - whittierdailynews.com
+  - wtop.com
   outlet_classes:
+  - national_daily
   - wire
   highest_reliability_tier: 1
   has_originating: true
@@ -79,11 +99,11 @@ cross_article_links: []
 draft: false
 ---
 
-WASHINGTON — Five years after the Jan. 6, 2021 siege of the U.S. Capitol, officers who defended the building say they are still dealing with physical injuries, psychological trauma, and a public narrative that has played down the violence they encountered. For several officers, President Donald Trump's pardons of approximately 1,500 people convicted for their roles in the attack compounded wounds that had not healed.
+## Summary
 
-On Jan. 20, 2025 — the day of Trump's second inauguration — former Capitol Police Sgt. Aquilino Gonell put his phone on silent and stepped away from the news. That evening, calls flooded in from federal prosecutors, FBI agents, and the federal Bureau of Prisons, all notifying him that Trump had just pardoned rioters who had injured him. "They told me that people I testified against were being released from prison," Gonell said. "And to be mindful."
+**Subtype:** fact
 
-The pardons and sustained efforts by Trump and some Republican lawmakers to minimize the Jan. 6 violence have left officers who fought that day confronting a contested public record, despite extensive video and photographic documentation of the attack. More than 140 police officers were injured during the fighting, which grew increasingly brutal as the hours wore on, according to the Associated Press.
+- Article processed for summary.
 
 ## What officers faced on Jan. 6
 
@@ -133,121 +153,149 @@ Eveland said he decided to speak publicly about Jan. 6 because he believed it wa
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Donald Trump
-**Predicate:** pardoned
-**Object:** approximately 1,500 Jan. 6 convicts (pardon_action)
-**Temporal:** 2025-01-20
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** pardoned
+- **Object:** approximately 1,500 Jan. 6 convicts (pardon_action)
+- **Temporal:** 2025-01-20
+- **Sources:** src_001
 
 > Trump pardoned approximately 1,500 people convicted for their actions on Jan. 6, 2021, on Jan. 20, 2025.
 
-### c_002 — attributed, single source
-**Subject entities:** Aquilino Gonell
-**Predicate:** was_attacked
-**Object:** dragged into crowd by shoulder straps; almost suffocated (assault_description)
-**Temporal:** 2021-01-06
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Aquilino Gonell
+- **Predicate:** was_attacked
+- **Object:** dragged into crowd by shoulder straps; almost suffocated (assault_description)
+- **Temporal:** 2021-01-06
+- **Sources:** src_001
 
 > Gonell was dragged into the crowd by his shoulder straps as he tried to fight rioters off, and almost suffocated.
 
-### c_003 — attributed, single source
-**Subject entities:** Aquilino Gonell
-**Predicate:** suffered_injuries
-**Object:** shoulder and foot injuries (injury_description)
-**Temporal:** 2021-01-06
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Aquilino Gonell
+- **Predicate:** suffered_injuries
+- **Object:** shoulder and foot injuries (injury_description)
+- **Temporal:** 2021-01-06
+- **Sources:** src_001
 
 > Gonell suffered injuries to his shoulder and foot during the Jan. 6 attack that still bother him.
 
-### c_004 — attributed, single source
-**Subject entities:** Aquilino Gonell
-**Predicate:** left_employment
-**Object:** Capitol Police (organization)
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Aquilino Gonell
+- **Predicate:** left_employment
+- **Object:** Capitol Police (organization)
+- **Sources:** src_001
 
 > Gonell left the Capitol Police because of his injuries and has not returned to service.
 
-### c_005 — attributed, single source
-**Subject entities:** Aquilino Gonell
-**Predicate:** has_condition
-**Object:** post-traumatic stress disorder (medical_condition)
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Aquilino Gonell
+- **Predicate:** has_condition
+- **Object:** post-traumatic stress disorder (medical_condition)
+- **Sources:** src_001
 
 > Gonell has post-traumatic stress disorder related to the Jan. 6 attack.
 
-### c_006 — reported, single source
-**Subject entities:** police officers
-**Predicate:** were_injured
-**Object:** more than 140 (count)
-**Temporal:** 2021-01-06
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** police officers
+- **Predicate:** were_injured
+- **Object:** more than 140 (count)
+- **Temporal:** 2021-01-06
+- **Sources:** src_001
 
 > More than 140 police officers were injured during the Jan. 6 fighting.
 
-### c_007 — attributed, single source
-**Subject entities:** Daniel Hodges
-**Predicate:** was_attacked
-**Object:** crushed between doors and beaten in the head (assault_description)
-**Temporal:** 2021-01-06
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Daniel Hodges
+- **Predicate:** was_attacked
+- **Object:** crushed between doors and beaten in the head (assault_description)
+- **Temporal:** 2021-01-06
+- **Sources:** src_001
 
 > Hodges was attacked multiple times, crushed between heavy doors by the crowd, and beaten in the head as he screamed for help.
 
-### c_008 — reported, single source
-**Subject entities:** Donald Trump
-**Predicate:** characterized
-**Object:** pardoned rioters as 'patriots' and 'hostages' (public_statement)
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** characterized
+- **Object:** pardoned rioters as 'patriots' and 'hostages' (public_statement)
+- **Sources:** src_001
 
 > Trump called the rioters he pardoned, including those most violent toward police, 'patriots' and 'hostages.'
 
-### c_009 — reported, single source
-**Subject entities:** Donald Trump
-**Predicate:** characterized
-**Object:** Jan. 6 convictions as 'a grave national injustice' (public_statement)
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** characterized
+- **Object:** Jan. 6 convictions as 'a grave national injustice' (public_statement)
+- **Sources:** src_001
 
 > Trump called the convictions of Jan. 6 rioters 'a grave national injustice.'
 
-### c_010 — attributed, single source
-**Subject entities:** Peter Welch; Daniel Hodges
-**Predicate:** expressed_support
-**Object:** three Republican-called witnesses supported pardons (hearing_testimony)
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Peter Welch; Daniel Hodges
+- **Predicate:** expressed_support
+- **Object:** three Republican-called witnesses supported pardons (hearing_testimony)
+- **Sources:** src_001
 
 > At a Republican-led Senate hearing on political violence in October, three witnesses called by Republicans raised their hands when Sen. Peter Welch asked whether they supported Trump's pardons of rioters who had injured Hodges.
 
-### c_011 — attributed, single source
-**Subject entities:** Thomas Manger
-**Predicate:** found_absent
-**Object:** wellness and counseling services (services)
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Thomas Manger
+- **Predicate:** found_absent
+- **Object:** wellness and counseling services (services)
+- **Sources:** src_001
 
 > Former Capitol Police Chief Thomas Manger took over the department six months after the Jan. 6 riot and found no wellness or counseling services for officers.
 
-### c_012 — reported, single source
-**Subject entities:** Thomas Manger
-**Predicate:** retired
-**Object:** Capitol Police chief position (employment)
-**Temporal:** 2025-05
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Thomas Manger
+- **Predicate:** retired
+- **Object:** Capitol Police chief position (employment)
+- **Temporal:** 2025-05
+- **Sources:** src_001
 
 > Manger retired in May.
 
-### c_013 — attributed, single source
-**Subject entities:** Winston Pingeon
-**Predicate:** left_employment
-**Object:** Capitol Police (organization)
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Winston Pingeon
+- **Predicate:** left_employment
+- **Object:** Capitol Police (organization)
+- **Sources:** src_001
 
 > Pingeon left the Capitol Police force several months after Jan. 6 and moved home to Massachusetts.
 
-### c_014 — attributed, single source
-**Subject entities:** Aquilino Gonell
-**Predicate:** authored
-**Object:** book about Jan. 6 experience (publication)
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Aquilino Gonell
+- **Predicate:** authored
+- **Object:** book about Jan. 6 experience (publication)
+- **Sources:** src_001
 
 > Gonell wrote a book about his experience at the Capitol.
 
@@ -256,10 +304,85 @@ Eveland said he decided to speak publicly about Jan. 6 because he believed it wa
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Mary Clare Jalonick
 **Publication date:** 2026-01-04
-**Access date:** 2026-01-04
 **Title:** Officers who defended the Capitol on Jan. 6 say their struggles linger
 **URL:** https://apnews.com/article/capitol-riot-police-trump-jan-6-congress-34fb3cfeeb21a746c53760bb0f1df37d
 
----
+### src_002 — adn.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-04
+**URL:** https://www.adn.com/nation-world/2026/01/04/officers-who-defended-the-capitol-on-jan-6-say-their-struggles-linger-5-years-after-the-riot/
 
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*
+### src_003 — arkansasonline.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-05
+**URL:** https://www.arkansasonline.com/news/2026/jan/05/police-defending-capitol-on-jan-6-say-woes-linger/
+
+### src_004 — dailybreeze.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-04
+**URL:** https://www.dailybreeze.com/2026/01/04/officers-who-defended-the-capitol-on-jan-6-say-their-struggles-linger-5-years-after-the-riot/
+
+### src_005 — dailybulletin.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-05
+**URL:** https://www.dailybulletin.com/2026/01/04/officers-who-defended-the-capitol-on-jan-6-say-their-struggles-linger-5-years-after-the-riot/
+
+### src_006 — dailynews.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-04
+**URL:** https://www.dailynews.com/2026/01/04/officers-who-defended-the-capitol-on-jan-6-say-their-struggles-linger-5-years-after-the-riot/
+
+### src_007 — ocregister.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-04
+**URL:** https://www.ocregister.com/2026/01/04/officers-who-defended-the-capitol-on-jan-6-say-their-struggles-linger-5-years-after-the-riot/
+
+### src_008 — pasadenastarnews.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-05
+**URL:** https://www.pasadenastarnews.com/2026/01/04/officers-who-defended-the-capitol-on-jan-6-say-their-struggles-linger-5-years-after-the-riot/
+
+### src_009 — presstelegram.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-04
+**URL:** https://www.presstelegram.com/2026/01/04/officers-who-defended-the-capitol-on-jan-6-say-their-struggles-linger-5-years-after-the-riot/
+
+### src_010 — redlandsdailyfacts.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-04
+**URL:** https://www.redlandsdailyfacts.com/2026/01/04/officers-who-defended-the-capitol-on-jan-6-say-their-struggles-linger-5-years-after-the-riot/
+
+### src_011 — sbsun.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-04
+**URL:** https://www.sbsun.com/2026/01/04/officers-who-defended-the-capitol-on-jan-6-say-their-struggles-linger-5-years-after-the-riot/
+
+### src_012 — sgvtribune.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-04
+**URL:** https://www.sgvtribune.com/2026/01/04/officers-who-defended-the-capitol-on-jan-6-say-their-struggles-linger-5-years-after-the-riot/
+
+### src_013 — whittierdailynews.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-05
+**URL:** https://www.whittierdailynews.com/2026/01/04/officers-who-defended-the-capitol-on-jan-6-say-their-struggles-linger-5-years-after-the-riot/
+
+### src_014 — wtop.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-04
+**URL:** https://wtop.com/local/2026/01/officers-who-defended-the-capitol-on-jan-6-say-their-struggles-linger-5-years-after-the-riot/
+
+### src_015 — 13newsnow.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-04
+**URL:** https://www.13newsnow.com/article/syndication/associatedpress/officers-who-defended-the-capitol-on-jan-6-say-their-struggles-linger-5-years-after-the-riot/616-d361f9e6-0a15-4614-8fe5-d842a48fc502
+
+### src_016 — bangordailynews.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-04
+**URL:** https://www.bangordailynews.com/2026/01/04/nation/officers-who-defended-the-capitol-on-jan-6-say-their-struggles-linger-5-years-after-the-riot/
+
+### src_017 — bozemandailychronicle.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-04
+**URL:** https://www.bozemandailychronicle.com/ap_news/washington/officers-who-defended-the-capitol-on-jan-6-say-their-struggles-linger-5-years-after/article_75a56f56-96a4-5a8c-b3cc-883d7d45293e.html
+
+### src_018 — click2houston.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-04
+**URL:** https://www.click2houston.com/news/politics/2026/01/04/officers-who-defended-the-capitol-on-jan-6-say-their-struggles-linger-5-years-after-the-riot/
+
+### src_019 — clickondetroit.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-04
+**URL:** https://www.clickondetroit.com/news/politics/2026/01/04/officers-who-defended-the-capitol-on-jan-6-say-their-struggles-linger-5-years-after-the-riot/
+
+### src_020 — clickorlando.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-04
+**URL:** https://www.clickorlando.com/news/politics/2026/01/04/officers-who-defended-the-capitol-on-jan-6-say-their-struggles-linger-5-years-after-the-riot/
+
+### src_021 — columbian.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-05
+**URL:** https://www.columbian.com/news/2026/jan/05/officers-who-defended-the-capitol-on-jan-6-say-their-struggles-linger-5-years-after-the-riot/

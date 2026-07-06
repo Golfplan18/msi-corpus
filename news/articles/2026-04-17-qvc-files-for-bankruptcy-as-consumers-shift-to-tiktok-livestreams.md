@@ -192,7 +192,3 @@ All of QVC Group's brands, including QVC, HSN, and Cornerstone Brands, will cont
 **Access date:** 2026-04-17
 **Title:** QVC Group files for Chapter 11 as TV shopping struggles to keep up with TikTok
 **URL:** https://apnews.com/article/qvc-bankruptcy-tiktok-shein-13650e6d52cd6007201d0132c2b95c9c
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

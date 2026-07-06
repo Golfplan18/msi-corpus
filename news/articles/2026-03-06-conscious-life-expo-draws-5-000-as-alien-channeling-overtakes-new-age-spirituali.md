@@ -21,38 +21,41 @@ primary_themes:
 - social media influence on religion
 - conspiracy theories and spirituality
 topic_tags:
-  - "belief systems"
-  - "religion"
-storyline_nexus: []
-geographic_location: Los Angeles, California
+- belief systems
+- communities
+- mass media
+- social media
+storyline_nexus:
+- us-immigration-enforcement
+geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.7
 - value: truthfulness
+  intensity: 0.9
+- value: accountability_of_power
   intensity: 0.6
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:45:40Z'
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T04:28:12Z'
 source_cluster_id: cluster_ap_2026-03-05_new-age-spirituality-conscious-life-expo
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 12
   hedges:
-    appears: 0
-    alleged: 0
     attributed: 9
+    appears: 0
     reported: 0
-    contested: 0
+    alleged: 0
     confirmed: 3
+    contested: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 0
     single_source: 12
+    one_originating_plus_primary_document: 0
     two_independent: 0
+    primary_plus_secondary: 0
 sources:
   count: 1
   outlets:
@@ -66,17 +69,18 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-11-erich-von-d-niken-swiss-author-of-alien-origins-theories-dies-at-90
-  relation: related
-  strength: 0.7081
-  confidence: medium
-- slug: 2026-01-11-erich-von-d-niken-chariots-of-the-gods-author-dies-at-90
-  relation: related
-  strength: 0.6957
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Unknown
+- Key details from news report
+- Additional context from source
+- Impact or implications
 
 The expo illustrates what researchers have called "conspirituality" — a term coined in 2011 to describe the documented merger of alternative spiritual communities with conspiracy-oriented thinking — and the growing role of online influencers in extending that convergence to audiences once outside New Age's traditional reach.
 
@@ -140,108 +144,132 @@ Satva attributed the expo's turn toward what he called "larger, more cinematic s
 
 ## Atomic claims
 
-### c_001 — confirmed, single source
-**Subject entities:** Conscious Life Expo
-**Predicate:** convened_at
-**Object:** LAX Hilton Hotel, Los Angeles (venue)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Conscious Life Expo
+- **Predicate:** convened_at
+- **Object:** LAX Hilton Hotel, Los Angeles (venue)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > The 24th annual Conscious Life Expo was held from Feb. 20–23 at the LAX Hilton Hotel in Los Angeles.
 
-### c_002 — attributed, single source
-**Subject entities:** Conscious Life Expo
-**Predicate:** attracted
-**Object:** more than 5,000 (attendance_count)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Conscious Life Expo
+- **Predicate:** attracted
+- **Object:** more than 5,000 (attendance_count)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > The expo attracted more than 5,000 attendees.
 
-### c_003 — attributed, single source
-**Subject entities:** Robert Quicksilver; Conscious Life Expo; Whole Life Expo
-**Predicate:** co-founded
-**Object:** 2002 (year)
-**Temporal:** 2002
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Robert Quicksilver; Conscious Life Expo; Whole Life Expo
+- **Predicate:** co-founded
+- **Object:** 2002 (year)
+- **Temporal:** 2002
+- **Sources:** src_001
 
 > Robert Quicksilver co-founded the expo in 2002 after its predecessor, the Whole Life Expo, shuttered following the Sept. 11, 2001, attacks.
 
-### c_004 — confirmed, single source
-**Subject entities:** Michael Satva; Robert Quicksilver
-**Predicate:** is_co-producer_and_son
-**Object:** Conscious Life Expo (organization)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Michael Satva; Robert Quicksilver
+- **Predicate:** is_co-producer_and_son
+- **Object:** Conscious Life Expo (organization)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > Michael Satva, 43, is the co-producer of the expo and the son of co-founder Robert Quicksilver.
 
-### c_005 — attributed, single source
-**Subject entities:** Conscious Life Expo; Marianne Williamson; Ram Dass; Mikki Willis
-**Predicate:** featured_speakers
-**Object:** prior years (timeframe)
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Conscious Life Expo; Marianne Williamson; Ram Dass; Mikki Willis
+- **Predicate:** featured_speakers
+- **Object:** prior years (timeframe)
+- **Sources:** src_001
 
 > The expo has previously featured former presidential candidate Marianne Williamson, psychedelic pioneer Ram Dass and 'Plandemic' filmmaker Mikki Willis.
 
-### c_006 — attributed, single source
-**Subject entities:** Elizabeth April
-**Predicate:** has_youtube_subscribers
-**Object:** 371,000 (subscriber_count)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Elizabeth April
+- **Predicate:** has_youtube_subscribers
+- **Object:** 371,000 (subscriber_count)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > Elizabeth April, 33, who describes herself as a starseed, has 371,000 subscribers on YouTube.
 
-### c_007 — attributed, single source
-**Subject entities:** Charlotte Ward; David Voas
-**Predicate:** coined_term
-**Object:** conspirituality (academic_term)
-**Temporal:** 2011
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Charlotte Ward; David Voas
+- **Predicate:** coined_term
+- **Object:** conspirituality (academic_term)
+- **Temporal:** 2011
+- **Sources:** src_001
 
 > The term 'conspirituality' was coined by researcher Charlotte Ward and sociologist David Voas in 2011.
 
-### c_008 — attributed, single source
-**Subject entities:** Matthew Hannah
-**Predicate:** is_author_of
-**Object:** forthcoming book about QAnon (publication)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Matthew Hannah
+- **Predicate:** is_author_of
+- **Object:** forthcoming book about QAnon (publication)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > Matthew Hannah is a conspiracy movement expert and author of a forthcoming book about QAnon.
 
-### c_009 — confirmed, single source
-**Subject entities:** Noelle Cook
-**Predicate:** authored
-**Object:** The Conspiracists: Women, Extremism, and the Lure of Belonging (book)
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Noelle Cook
+- **Predicate:** authored
+- **Object:** The Conspiracists: Women, Extremism, and the Lure of Belonging (book)
+- **Sources:** src_001
 
 > Noelle Cook is the author of 'The Conspiracists: Women, Extremism, and the Lure of Belonging.'
 
-### c_010 — attributed, single source
-**Subject entities:** Sacha Stone
-**Predicate:** delivered_lecture
-**Object:** The Rabbit Hole, Conscious Life Expo (venue_section)
-**Temporal:** 2026-02-21
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Sacha Stone
+- **Predicate:** delivered_lecture
+- **Object:** The Rabbit Hole, Conscious Life Expo (venue_section)
+- **Temporal:** 2026-02-21
+- **Sources:** src_001
 
 > Sacha Stone, a self-described human rights advocate, delivered a late-night lecture in the expo's 'Rabbit Hole' section that included unverified claims about satanic elites and industrial-scale child trafficking.
 
-### c_011 — attributed, single source
-**Subject entities:** Sacha Stone; Michael Flynn
-**Predicate:** featured_on
-**Object:** ReAwaken America Tour (event)
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Sacha Stone; Michael Flynn
+- **Predicate:** featured_on
+- **Object:** ReAwaken America Tour (event)
+- **Sources:** src_001
 
 > Stone has been featured on former Trump adviser Michael Flynn's ReAwaken America Tour, according to the Associated Press.
 
-### c_012 — attributed, single source
-**Subject entities:** Debbie Solaris
-**Predicate:** describes_career_change
-**Object:** galactic historian (occupation)
-**Temporal:** 2012
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Debbie Solaris
+- **Predicate:** describes_career_change
+- **Object:** galactic historian (occupation)
+- **Temporal:** 2012
+- **Sources:** src_001
 
 > Debbie Solaris is a military veteran who now works as a self-described galactic historian after an out-of-body experience she said occurred in 2012.
 
@@ -250,10 +278,5 @@ Satva attributed the expo's turn toward what he called "larger, more cinematic s
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Kathryn Post
 **Publication date:** 2026-03-06
-**Access date:** 2026-03-06
 **Title:** Inside New Age spirituality's new age
 **URL:** https://apnews.com/article/new-age-spirituality-conscious-life-expo-423a249969c069d6a4a5046e55b66cf3
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

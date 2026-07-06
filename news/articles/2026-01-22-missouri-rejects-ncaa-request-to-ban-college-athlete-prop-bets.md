@@ -15,42 +15,41 @@ primary_themes:
 - regulatory policy
 - gambling market
 topic_tags:
-  - "economy, business and finance"
-  - education
-  - "higher education"
-  - "market and exchange"
-  - sport
-  - "sport event"
-storyline_nexus: []
-geographic_location: United States (Missouri)
+- sport
+- crime
+- government policy
+- law enforcement
+storyline_nexus:
+- lgbtq-rights-restrictions
+geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
-  intensity: 0.8
+  intensity: 0.6
 - value: informed_citizenship
-  intensity: 0.7
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:49:42Z'
 source_cluster_id: cluster_ap_2026-01-21_sports-betting-missouri-college-prop-bet
 gdelt_event_ids: []
-consensus_floor_version: v1.0
-publication_mindspec_version: v1.0
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 14
   hedges:
-    appears: 0
-    alleged: 1
-    attributed: 3
+    confirmed: 3
     reported: 7
     contested: 0
-    confirmed: 3
+    alleged: 1
+    attributed: 3
+    appears: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 3
-    single_source: 11
     two_independent: 0
+    single_source: 11
+    primary_document: 3
+    one_originating_plus_primary_document: 0
+    primary_plus_secondary: 0
 sources:
   count: 1
   outlets:
@@ -64,13 +63,19 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-04-16-ex-nba-player-damon-jones-set-to-plead-guilty-in-basketball-gambling-sweep
-  relation: related
-  strength: 0.789
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Missouri rejects ban on college athlete prop bets
+- Missouri Gaming Commission rejected an NCAA request to restrict bets on college athlete performance on January 22.
+- Jan Zimmerman, chair of the Missouri Gaming Commission, said the commission lacked sufficient information to grant the NCAA request.
+- Federal indictment involved more than two dozen people in a college basketball gambling scheme.
+- The indictment involved more than 39 players on more than 17 NCAA Division I men's basketball teams attempting to rig more than 29 games.
 
 Missouri's gaming commission rejected an NCAA request Thursday to restrict bets on individual college athlete performance, saying the state needs more data about how its newly approved sports betting market operates. The rejection came about one week after federal authorities indicted more than two dozen people in what the NCAA describes as a college basketball gambling scheme involving payments to athletes to rig games.
 
@@ -100,129 +105,157 @@ The Sports Betting Alliance—which includes Bet365, BetMGM, DraftKings, FanDuel
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Missouri Gaming Commission
-**Predicate:** rejected
-**Object:** NCAA request to restrict college athlete prop bets (regulatory_decision)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Missouri Gaming Commission
+- **Predicate:** rejected
+- **Object:** NCAA request to restrict college athlete prop bets (regulatory_decision)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Missouri Gaming Commission rejected an NCAA request to restrict bets on college athlete performance on January 22.
 
-### c_002 — attributed, single source
-**Subject entities:** Jan Zimmerman
-**Predicate:** said
-**Object:** commission lacked sufficient information to grant NCAA request (statement)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jan Zimmerman
+- **Predicate:** said
+- **Object:** commission lacked sufficient information to grant NCAA request (statement)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Jan Zimmerman, chair of the Missouri Gaming Commission, said the commission lacked sufficient information to grant the NCAA request.
 
-### c_003 — reported, single source
-**Subject entities:** Federal authorities
-**Predicate:** indicted
-**Object:** more than two dozen people in college basketball gambling scheme (criminal_count)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Federal authorities
+- **Predicate:** indicted
+- **Object:** more than two dozen people in college basketball gambling scheme (criminal_count)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Federal indictment involved more than two dozen people in a college basketball gambling scheme.
 
-### c_004 — alleged, single source
-**Subject entities:** NCAA Division I men's basketball players
-**Predicate:** attempted
-**Object:** rig more than 29 games; 39+ players on 17+ teams (alleged_scheme)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_004
+- **Hedge:** alleged
+- **Corroboration:** single_source
+- **Subject entities:** NCAA Division I men's basketball players
+- **Predicate:** attempted
+- **Object:** rig more than 29 games; 39+ players on 17+ teams (alleged_scheme)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > The indictment involved more than 39 players on more than 17 NCAA Division I men's basketball teams attempting to rig more than 29 games.
 
-### c_005 — reported, single source
-**Subject entities:** NCAA
-**Predicate:** contends
-**Object:** prop bets vulnerable to manipulation through bribery, harassment, bribes (regulatory_position)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** NCAA
+- **Predicate:** contends
+- **Object:** prop bets vulnerable to manipulation through bribery, harassment, bribes (regulatory_position)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > NCAA contends that prop bets on individual athlete performance are vulnerable to manipulation through bribery and harassment.
 
-### c_006 — confirmed, primary document
-**Subject entities:** Missouri voters
-**Predicate:** approved
-**Object:** 39th state to allow sports betting (regulatory_status)
-**Temporal:** 2025-12-01
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Missouri voters
+- **Predicate:** approved
+- **Object:** 39th state to allow sports betting (regulatory_status)
+- **Temporal:** 2025-12-01
+- **Sources:** src_001
 
 > Missouri became the 39th state to allow sports betting on December 1, 2025, through voter approval of a constitutional amendment.
 
-### c_007 — reported, single source
-**Subject entities:** Legal sportsbooks
-**Predicate:** generated
-**Object:** $15 billion in revenue; up 17 percent year-over-year (financial_metric)
-**Temporal:** 2025-01-01 to 2025-11-30
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Legal sportsbooks
+- **Predicate:** generated
+- **Object:** $15 billion in revenue; up 17 percent year-over-year (financial_metric)
+- **Temporal:** 2025-01-01 to 2025-11-30
+- **Sources:** src_001
 
 > Legal sportsbooks generated $15 billion in revenue through the first 11 months of 2025, up 17 percent from the same period in 2024.
 
-### c_008 — reported, single source
-**Subject entities:** NCAA
-**Predicate:** pushed
-**Object:** states to restrict college athlete prop bets (policy_advocacy)
-**Temporal:** 2023 onward
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** NCAA
+- **Predicate:** pushed
+- **Object:** states to restrict college athlete prop bets (policy_advocacy)
+- **Temporal:** 2023 onward
+- **Sources:** src_001
 
 > NCAA has pushed states since 2023 to adopt restrictions on college athlete prop bets.
 
-### c_009 — reported, single source
-**Subject entities:** Louisiana; Maryland; Ohio; Vermont
-**Predicate:** banned
-**Object:** individual prop bets on college athletes (regulatory_rule)
-**Temporal:** 2023 to 2026-01-22
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Louisiana; Maryland; Ohio; Vermont
+- **Predicate:** banned
+- **Object:** individual prop bets on college athletes (regulatory_rule)
+- **Temporal:** 2023 to 2026-01-22
+- **Sources:** src_001
 
 > Louisiana, Maryland, Ohio and Vermont have banned individual prop bets on college athletes.
 
-### c_010 — reported, single source
-**Subject entities:** State gambling regulators
-**Predicate:** regulate
-**Object:** roughly a dozen states prohibit; similar number allow (regulatory_variation)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** State gambling regulators
+- **Predicate:** regulate
+- **Object:** roughly a dozen states prohibit; similar number allow (regulatory_variation)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Roughly a dozen states prohibit all college athlete prop bets, while a similar number place no limits on such wagers.
 
-### c_011 — confirmed, primary document
-**Subject entities:** Missouri Gaming Commission
-**Predicate:** prohibits/allows
-**Object:** bans on Missouri college athletes; allows bets on other college athletes (regulatory_rule)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_011
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Missouri Gaming Commission
+- **Predicate:** prohibits/allows
+- **Object:** bans on Missouri college athletes; allows bets on other college athletes (regulatory_rule)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Missouri prohibits prop bets on athletes playing in games involving Missouri colleges and universities but allows such bets on out-of-state collegiate games.
 
-### c_012 — attributed, single source
-**Subject entities:** Charlie Baker
-**Predicate:** stated
-**Object:** NCAA regularly hears concerns from schools and student-athletes (assertion)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Charlie Baker
+- **Predicate:** stated
+- **Object:** NCAA regularly hears concerns from schools and student-athletes (assertion)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > NCAA President Charlie Baker stated that his office regularly hears concerns from schools and student-athletes about sports betting impacts.
 
-### c_013 — reported, single source
-**Subject entities:** Sports Betting Alliance; Bet365; BetMGM; DraftKings; FanDuel; Fanatics
-**Predicate:** claim
-**Object:** played integral role in detecting and disclosing wrongdoing (assertion)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_013
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Sports Betting Alliance; Bet365; BetMGM; DraftKings; FanDuel; Fanatics
+- **Predicate:** claim
+- **Object:** played integral role in detecting and disclosing wrongdoing (assertion)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Sports Betting Alliance members played an integral role in detecting and disclosing the scheme that led to the recent federal indictment.
 
-### c_014 — attributed, single source
-**Subject entities:** Chuck Kucera
-**Predicate:** stated
-**Object:** restrictions would drive gamblers to offshore and illegal operators (prediction)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Chuck Kucera
+- **Predicate:** stated
+- **Object:** restrictions would drive gamblers to offshore and illegal operators (prediction)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Kansas City sports wagerer Chuck Kucera stated that restricting prop bets would drive gamblers to offshore and illegal operators.
 
@@ -231,10 +264,5 @@ The Sports Betting Alliance—which includes Bet365, BetMGM, DraftKings, FanDuel
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** David A. Lieb
 **Publication date:** 2026-01-22
-**Access date:** 2026-05-18
 **Title:** Missouri rejects ban on college athlete prop bets
 **URL:** https://apnews.com/article/sports-betting-missouri-college-prop-bets-95975ec78c6495701686ea047d934ad7
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

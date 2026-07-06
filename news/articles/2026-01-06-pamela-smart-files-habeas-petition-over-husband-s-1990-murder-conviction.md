@@ -16,42 +16,43 @@ primary_themes:
 - media and fair trial
 - sentencing law
 topic_tags:
-  - "human migration"
-  - "crime, law and justice"
-  - "human interest"
-  - trial
-storyline_nexus: []
-geographic_location: Derry, New Hampshire; Bedford Hills, New York
+- crime
+- crime, law and justice
+- trial
+- prosecution
+storyline_nexus:
+- supreme-court-constitutional-cases
+geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.75
-- value: accountability_of_power
-  intensity: 0.5
+- value: equality_fairness
+  intensity: 0.9
 - value: truthfulness
+  intensity: 0.9
+- value: accountability_of_power
   intensity: 0.6
-framework_version: 1.1.0
-generation_timestamp: '2026-05-16T19:49:26Z'
+framework_version: 1.3.0
+generation_timestamp: '2026-05-22T23:57:42Z'
 source_cluster_id: cluster_ap_2026-01-07_pam-smart-husband-murdered-habeas-petiti
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 13
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 6
     reported: 0
-    contested: 0
+    attributed: 6
     confirmed: 7
+    alleged: 0
+    contested: 0
+    appears: 0
   corroboration:
-    primary_plus_secondary: 2
-    one_originating_plus_primary_document: 0
     primary_document: 1
-    single_source: 10
     two_independent: 0
+    one_originating_plus_primary_document: 0
+    primary_plus_secondary: 2
+    single_source: 10
 sources:
   count: 1
   outlets:
@@ -72,6 +73,13 @@ image:
 cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- Pamela Smart, who has spent more than three decades imprisoned for orchestrating her husband's murder, filed a habeas corpus petition Monday arguing constitutional violations denied her a fair trial — including prosecutors' alleged use of inaccurate transcripts that attributed key words to recordings where those words were not audible.
+- The petition, filed simultaneously in New York, where Smart is held, and New Hampshire, where Gregory Smart was killed in 1990, represents the 57-year-old's latest attempt to overturn a life-without-parole sentence that her lawyers say rested on tainted evidence, media saturation, faulty jury instructions, and an improper mandatory sentencing term.
+- "Ms. Smart's trial unfolded in an environment that no court had previously confronted — wall-to-wall media coverage that blurred the line between allegation and evidence," Jason Ott, a member of Smart's legal team, said in a statement. "This petition challenges whether a fair adversarial process took place.".
 
 The petition, filed simultaneously in New York, where Smart is held, and New Hampshire, where Gregory Smart was killed in 1990, represents the 57-year-old's latest attempt to overturn a life-without-parole sentence that her lawyers say rested on tainted evidence, media saturation, faulty jury instructions, and an improper mandatory sentencing term.
 
@@ -111,120 +119,146 @@ The case was among America's first high-profile criminal prosecutions involving 
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Pamela Smart
-**Predicate:** filed
-**Object:** habeas corpus petition (legal_filing)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Pamela Smart
+- **Predicate:** filed
+- **Object:** habeas corpus petition (legal_filing)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > Pamela Smart filed a habeas corpus petition on Monday in New York and New Hampshire seeking to overturn her murder conviction.
 
-### c_002 — confirmed, single source
-**Subject entities:** Pamela Smart
-**Predicate:** held_at
-**Object:** Bedford Hills Correctional Facility for Women (location)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Pamela Smart
+- **Predicate:** held_at
+- **Object:** Bedford Hills Correctional Facility for Women (location)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > Smart is being held at Bedford Hills Correctional Facility for Women in New York.
 
-### c_003 — attributed, single source
-**Subject entities:** Pamela Smart; prosecutors
-**Predicate:** alleged
-**Object:** inaccurate transcripts supplied to jury (legal_claim)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Pamela Smart; prosecutors
+- **Predicate:** alleged
+- **Object:** inaccurate transcripts supplied to jury (legal_claim)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > Smart's lawyers argue prosecutors misled the jury by providing inaccurate transcripts of recorded conversations that included words they say were not audible on the recordings.
 
-### c_004 — attributed, single source
-**Subject entities:** Pamela Smart
-**Predicate:** alleged
-**Object:** specific inaudible words inserted into transcripts (legal_claim)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Pamela Smart
+- **Predicate:** alleged
+- **Object:** specific inaudible words inserted into transcripts (legal_claim)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > Among the words allegedly inaudible but present in transcripts were 'killed,' 'busted,' and 'murder' in three key sentences.
 
-### c_005 — attributed, single source
-**Subject entities:** Pamela Smart
-**Predicate:** alleged
-**Object:** multiple additional constitutional violations (legal_claim)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Pamela Smart
+- **Predicate:** alleged
+- **Object:** multiple additional constitutional violations (legal_claim)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > Smart's lawyers argued the conviction should also be overturned because of media saturation, faulty jury instructions, and an improper mandatory life sentence.
 
-### c_006 — confirmed, single source
-**Subject entities:** Kelly Ayotte; Pamela Smart
-**Predicate:** rejected
-**Object:** sentence reduction hearing request (government_action)
-**Temporal:** 2025-06
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Kelly Ayotte; Pamela Smart
+- **Predicate:** rejected
+- **Object:** sentence reduction hearing request (government_action)
+- **Temporal:** 2025-06
+- **Sources:** src_001
 
 > The petition comes about seven months after New Hampshire Gov. Kelly Ayotte rejected a request for a sentence reduction hearing.
 
-### c_007 — attributed, single source
-**Subject entities:** New Hampshire attorney general
-**Predicate:** stated
-**Object:** Smart received fair trial; convictions upheld on appeal (official_statement)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** New Hampshire attorney general
+- **Predicate:** stated
+- **Object:** Smart received fair trial; convictions upheld on appeal (official_statement)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > New Hampshire's attorney general said the state maintains Smart received a fair trial and that her convictions were lawfully obtained and upheld on appeal.
 
-### c_008 — confirmed, primary plus secondary
-**Subject entities:** Pamela Smart; William Flynn; Gregory Smart
-**Predicate:** background
-**Object:** 1990 murder in Derry, NH (historical_event)
-**Temporal:** 1990
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** Pamela Smart; William Flynn; Gregory Smart
+- **Predicate:** background
+- **Object:** 1990 murder in Derry, NH (historical_event)
+- **Temporal:** 1990
+- **Sources:** src_001
 
 > Smart was 22 and working as a high school media coordinator when she began an affair with 15-year-old William Flynn, who later fatally shot Gregory Smart in Derry, New Hampshire, in 1990.
 
-### c_009 — attributed, single source
-**Subject entities:** William Flynn; Pamela Smart
-**Predicate:** testified
-**Object:** Smart directed killing to avoid divorce (trial_testimony)
-**Temporal:** 1991
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** William Flynn; Pamela Smart
+- **Predicate:** testified
+- **Object:** Smart directed killing to avoid divorce (trial_testimony)
+- **Temporal:** 1991
+- **Sources:** src_001
 
 > Flynn testified that Smart told him she needed her husband killed because she feared losing everything in a divorce, and that she threatened to end their relationship if he did not act.
 
-### c_010 — confirmed, primary plus secondary
-**Subject entities:** William Flynn; Patrick Randall; Gregory Smart
-**Predicate:** killed
-**Object:** Gregory Smart shot in Derry condominium (criminal_act)
-**Temporal:** 1990
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** William Flynn; Patrick Randall; Gregory Smart
+- **Predicate:** killed
+- **Object:** Gregory Smart shot in Derry condominium (criminal_act)
+- **Temporal:** 1990
+- **Sources:** src_001
 
 > Flynn and Patrick Randall entered the Smarts' condominium; as Randall held a knife to Gregory Smart's throat, Flynn fired a hollow-point bullet into his head.
 
-### c_011 — confirmed, single source
-**Subject entities:** William Flynn; Patrick Randall
-**Predicate:** sentenced_and_released
-**Object:** 28 years to life; paroled 2015 (legal_outcome)
-**Temporal:** 2015
-**Source IDs:** src_001
+### c_011
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** William Flynn; Patrick Randall
+- **Predicate:** sentenced_and_released
+- **Object:** 28 years to life; paroled 2015 (legal_outcome)
+- **Temporal:** 2015
+- **Sources:** src_001
 
 > Flynn and Randall pleaded guilty to second-degree murder, were sentenced to 28 years to life, and were granted parole in 2015.
 
-### c_012 — attributed, single source
-**Subject entities:** Pamela Smart
-**Predicate:** stated
-**Object:** accepted full responsibility for husband's death (public_statement)
-**Temporal:** 2024-06
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Pamela Smart
+- **Predicate:** stated
+- **Object:** accepted full responsibility for husband's death (public_statement)
+- **Temporal:** 2024-06
+- **Sources:** src_001
 
 > In a video released in June 2024, Smart said she spent years deflecting blame 'almost as if it was a coping mechanism,' taking full responsibility for her husband's death.
 
-### c_013 — confirmed, single source
-**Subject entities:** Joyce Maynard; Nicole Kidman; Joaquin Phoenix
-**Predicate:** inspired
-**Object:** book and film 'To Die For' (cultural_work)
-**Temporal:** 1992-1995
-**Source IDs:** src_001
+### c_013
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Joyce Maynard; Nicole Kidman; Joaquin Phoenix
+- **Predicate:** inspired
+- **Object:** book and film 'To Die For' (cultural_work)
+- **Temporal:** 1992-1995
+- **Sources:** src_001
 
 > The case inspired Joyce Maynard's 1992 book 'To Die For' and a 1995 film of the same name starring Nicole Kidman and Joaquin Phoenix.
 
@@ -233,10 +267,5 @@ The case was among America's first high-profile criminal prosecutions involving 
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Michael Casey
 **Publication date:** 2026-01-06
-**Access date:** 2026-01-06
 **Title:** Pamela Smart's lawyers seek to overturn life sentence
 **URL:** https://apnews.com/article/pam-smart-husband-murdered-habeas-petition-57a7891b006073475850cb6d1d39f3f9
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

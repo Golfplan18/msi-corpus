@@ -1,6 +1,5 @@
 ---
 headline: New ICE officer video raises use-of-force questions in Minneapolis shooting
-slug: 2026-01-09-new-ice-officer-video-raises-use-of-force-questions-in-minneapolis-shooting
 publish_date: '2026-01-09'
 lede: A 47-second video recorded from the perspective of ICE officer Jonathan Ross emerged Friday, showing his approach to Renee Good's vehicle in the moments before he shot and killed her during an immigration enforcement operation in Minneapolis — and prompting Hennepin County Attorney Mary Moriarty to call on the public to submit any recordings and evidence to investigators. The footage showed Ross holding both a firearm and a cellphone simultaneously as he circled Good's SUV, a detail that policing experts said raised immediate questions about officer training.
 nut_graf: The video, first published by Minnesota outlet Alpha News and later reposted by the Department of Homeland Security, emerged as the Trump administration defended the officer on self-defense grounds, Minneapolis Mayor Jacob Frey rejected that argument as "garbage," and protests spread across multiple cities following Good's death and a separate federal shooting in Portland, Oregon.
@@ -20,49 +19,43 @@ primary_themes:
 - civil protest
 - officer training
 topic_tags:
-  - politics
-  - "human interest"
-  - "government policy"
-  - crime
-  - "crime, law and justice"
-  - "human migration"
+- law enforcement
+- crime, law and justice
+- civil rights
+- human migration
 storyline_nexus:
-  - immigration-enforcement
-  - monetary-policy-2026
-  - us-administration-2026
-geographic_location: Minneapolis, Minnesota; Portland, Oregon
+- us-immigration-enforcement
+geographic_location: United States
 floor_values_engaged:
-- value: human_life_and_dignity
-  intensity: 0.95
 - value: accountability_of_power
   intensity: 0.9
+- value: human_life_and_dignity
+  intensity: 0.9
 - value: informed_citizenship
-  intensity: 0.8
-- value: truthfulness
-  intensity: 0.7
-framework_version: 1.1.0
-generation_timestamp: '2026-01-09T00:00:00Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:04:16Z'
 source_cluster_id: cluster_ap_2026-01-08_minnesota-immigration-enforcement-crackd
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 18
   hedges:
-    appears: 0
     alleged: 0
-    attributed: 13
-    reported: 2
-    contested: 0
     confirmed: 3
+    contested: 0
+    reported: 2
+    attributed: 13
+    appears: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 3
-    single_source: 15
     two_independent: 0
+    one_originating_plus_primary_document: 0
+    primary_plus_secondary: 0
+    single_source: 15
+    primary_document: 3
 sources:
   count: 1
   outlets:
@@ -80,41 +73,18 @@ image:
   url: /articles/2026-01-09-new-ice-officer-video-raises-use-of-force-questions-in-minneapolis-shooting.png
   alt: 'Illustration accompanying article: New ICE officer video raises use-of-force questions in Minneapolis shooting'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-08-minneapolis-ice-shooting-renews-debate-over-lethal-force-rules-for-moving-vehicl
-  relation: related
-  strength: 0.8938
-  confidence: medium
-- slug: 2026-01-08-protests-erupt-in-minneapolis-as-officials-dispute-jurisdiction-in-fatal-ice-sho
-  relation: related
-  strength: 0.8647
-  confidence: medium
-- slug: 2026-01-07-ice-officer-shoots-and-kills-minneapolis-woman-during-immigration-enforcement
-  relation: continues
-  strength: 0.8572
-  confidence: high
-- slug: 2026-01-08-vance-calls-minneapolis-woman-s-ice-shooting-death-a-tragedy-of-her-own-making
-  relation: related
-  strength: 0.8287
-  confidence: medium
-- slug: 2026-01-08-minneapolis-protests-erupt-over-ice-killing-of-renee-good-as-portland-shooting-d
-  relation: related
-  strength: 0.8139
-  confidence: medium
-- slug: 2026-01-08-fabricated-images-and-false-names-spread-online-after-ice-shooting-in-minneapoli
-  relation: related
-  strength: 0.7969
-  confidence: medium
-- slug: 2026-01-08-ice-killing-of-minneapolis-woman-deepens-minnesota-s-conflict-with-trump
-  relation: related
-  strength: 0.7796
-  confidence: medium
-- slug: 2026-01-08-family-mourns-renee-good-u-s-citizen-and-mother-shot-by-ice-agent-in-minneapolis
-  relation: related
-  strength: 0.7772
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- The video, first published by Minnesota outlet Alpha News and later reposted by the Department of Homeland Security, emerged as the Trump administration defended the officer on self-defense grounds, Minneapolis Mayor Jacob Frey rejected that argument as "garbage," and protests spread across multiple cities following Good's death and a separate federal shooting in Portland, Oregon.
+- A 47-second video recorded from the perspective of ICE officer Jonathan Ross emerged Friday, showing his approach to Renee Good's vehicle in the moments before he shot and killed her during an immigration enforcement operation in Minneapolis — and prompting Hennepin County Attorney Mary Moriarty to call on the public to submit any recordings and evidence to investigators.
+- The footage, first published by Minnesota outlet Alpha News and later reposted by the Department of Homeland Security, showed Ross holding both a firearm and a cellphone simultaneously as he circled Good's SUV.
+- "Now that we can see he's holding a gun in one hand and a cellphone in the other filming, I want to see the officer training that permits that," said Geoff Alpert, a criminology professor at the University of South Carolina.
 
 The video, first published by Minnesota outlet Alpha News and later reposted by the Department of Homeland Security, emerged as the Trump administration defended the officer on self-defense grounds, Minneapolis Mayor Jacob Frey rejected that argument as "garbage," and protests spread across multiple cities following Good's death and a separate federal shooting in Portland, Oregon.
 
@@ -170,165 +140,201 @@ Protests followed both shootings. In Minneapolis, hundreds of demonstrators gath
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Jonathan Ross; Alpha News; Department of Homeland Security
-**Predicate:** published_video_of
-**Object:** 47-second officer-perspective video of shooting (media)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Jonathan Ross; Alpha News; Department of Homeland Security
+- **Predicate:** published_video_of
+- **Object:** 47-second officer-perspective video of shooting (media)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > A 47-second video published by Alpha News and reposted by the Department of Homeland Security shows the fatal encounter from the perspective of ICE officer Jonathan Ross.
 
-### c_002 — attributed, single source
-**Subject entities:** Mary Moriarty
-**Predicate:** called_for_evidence_submission
-**Object:** public recordings and evidence (evidence_request)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Mary Moriarty
+- **Predicate:** called_for_evidence_submission
+- **Object:** public recordings and evidence (evidence_request)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > Hennepin County Attorney Mary Moriarty called on the public to share with investigators any recordings and evidence connected to the fatal shooting of Renee Good.
 
-### c_003 — confirmed, primary document
-**Subject entities:** Jonathan Ross
-**Predicate:** was_holding
-**Object:** gun and cellphone simultaneously while approaching vehicle (observation)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Jonathan Ross
+- **Predicate:** was_holding
+- **Object:** gun and cellphone simultaneously while approaching vehicle (observation)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > The video shows Ross holding a gun in one hand and a cellphone in the other as he approached and circled Good's vehicle.
 
-### c_004 — attributed, single source
-**Subject entities:** JD Vance
-**Predicate:** said
-**Object:** officer fired in self-defense (assertion)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** JD Vance
+- **Predicate:** said
+- **Object:** officer fired in self-defense (assertion)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > Vice President JD Vance said in a post on X that the new video backs the contention that the officer fired in self-defense.
 
-### c_005 — attributed, single source
-**Subject entities:** Jacob Frey
-**Predicate:** said
-**Object:** self-defense argument is garbage (statement)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jacob Frey
+- **Predicate:** said
+- **Object:** self-defense argument is garbage (statement)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > Minneapolis Mayor Jacob Frey said any self-defense argument is 'garbage.'
 
-### c_006 — attributed, single source
-**Subject entities:** Geoff Alpert; University of South Carolina
-**Predicate:** questioned
-**Object:** officer training authorizing simultaneous filming and firearm use (expert_opinion)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Geoff Alpert; University of South Carolina
+- **Predicate:** questioned
+- **Object:** officer training authorizing simultaneous filming and firearm use (expert_opinion)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > Criminology professor Geoff Alpert said he wants to see the officer training that permits holding a gun in one hand and a cellphone in the other while filming.
 
-### c_007 — attributed, single source
-**Subject entities:** John P. Gross; University of Wisconsin Law School
-**Predicate:** said
-**Object:** video shows officers did not perceive Good as threat (expert_opinion)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** John P. Gross; University of Wisconsin Law School
+- **Predicate:** said
+- **Object:** video shows officers did not perceive Good as threat (expert_opinion)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > Law professor John P. Gross said the video demonstrates that the officers did not perceive Good to be a threat.
 
-### c_008 — attributed, single source
-**Subject entities:** Mary Moriarty
-**Predicate:** said
-**Object:** state has jurisdiction; officer lacks complete legal immunity (legal_claim)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Mary Moriarty
+- **Predicate:** said
+- **Object:** state has jurisdiction; officer lacks complete legal immunity (legal_claim)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > Moriarty said the officer does not have complete legal immunity and that her office has jurisdiction in the case.
 
-### c_009 — attributed, single source
-**Subject entities:** Mary Moriarty
-**Predicate:** said
-**Object:** concerned about federal exclusion of state and local investigators (statement)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Mary Moriarty
+- **Predicate:** said
+- **Object:** concerned about federal exclusion of state and local investigators (statement)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > Moriarty said she is concerned by the Trump administration's decision to bar state and local agencies from any role in the investigation.
 
-### c_010 — reported, single source
-**Subject entities:** Department of Homeland Security
-**Predicate:** has_not_responded_to
-**Object:** questions about body camera use at the scene (non-response)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Department of Homeland Security
+- **Predicate:** has_not_responded_to
+- **Object:** questions about body camera use at the scene (non-response)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > The Department of Homeland Security has not responded to questions about whether the officer who fired or other officers on the scene were wearing body cameras.
 
-### c_011 — confirmed, primary document
-**Subject entities:** ICE; Department of Homeland Security
-**Predicate:** requires
-**Object:** body-worn camera activation and footage retention in serious incidents (policy)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_011
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** ICE; Department of Homeland Security
+- **Predicate:** requires
+- **Object:** body-worn camera activation and footage retention in serious incidents (policy)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > Under an ICE policy directive, officers are expected to activate body-worn cameras at the start of enforcement activities and to retain footage in deaths or use-of-force cases.
 
-### c_012 — attributed, single source
-**Subject entities:** Becca Good
-**Predicate:** stated
-**Object:** family statement on encounter (statement)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Becca Good
+- **Predicate:** stated
+- **Object:** family statement on encounter (statement)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > Good's wife, Becca Good, released a statement to Minnesota Public Radio saying 'On Wednesday, January 7th, we stopped to support our neighbors. We had whistles. They had guns.'
 
-### c_013 — attributed, single source
-**Subject entities:** Luis David Nico Moncada; Yorlenys Betzabeth Zambrano-Contreras
-**Predicate:** were_shot_and_wounded
-**Object:** shot outside Portland hospital by federal border officer (incident)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Luis David Nico Moncada; Yorlenys Betzabeth Zambrano-Contreras
+- **Predicate:** were_shot_and_wounded
+- **Object:** shot outside Portland hospital by federal border officer (incident)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > A federal border officer shot and wounded two people outside a Portland, Oregon, hospital on Thursday, identified by DHS as Venezuelan nationals Luis David Nico Moncada and Yorlenys Betzabeth Zambrano-Contreras.
 
-### c_014 — attributed, single source
-**Subject entities:** Bob Day
-**Predicate:** said
-**Object:** victims had gang nexus but were not shooting suspects (statement)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Bob Day
+- **Predicate:** said
+- **Object:** victims had gang nexus but were not shooting suspects (statement)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > Portland Police Chief Bob Day said both Portland shooting victims had 'some nexus' to Tren de Aragua but were not identified as suspects in any shooting.
 
-### c_015 — attributed, single source
-**Subject entities:** Kristi Noem; Department of Homeland Security
-**Predicate:** said
-**Object:** more than 1,500 arrests in largest-ever immigration enforcement operation (statistic)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Kristi Noem; Department of Homeland Security
+- **Predicate:** said
+- **Object:** more than 1,500 arrests in largest-ever immigration enforcement operation (statistic)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > DHS Secretary Kristi Noem said immigration officers have made more than 1,500 arrests as part of the Minneapolis crackdown, which DHS described as the biggest immigration enforcement operation ever.
 
-### c_016 — reported, single source
-**Subject entities:** Renee Good
-**Predicate:** is
-**Object:** at least the fifth death tied to immigration enforcement since Trump took office (statistic)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_016
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Renee Good
+- **Predicate:** is
+- **Object:** at least the fifth death tied to immigration enforcement since Trump took office (statistic)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > Good's death is at least the fifth tied to immigration enforcement sweeps since President Donald Trump took office, according to the Associated Press.
 
-### c_017 — attributed, single source
-**Subject entities:** Jonathan Ross
-**Predicate:** is
-**Object:** 43-year-old Iraq War veteran with nearly two decades in federal immigration enforcement (biographical)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_017
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jonathan Ross
+- **Predicate:** is
+- **Object:** 43-year-old Iraq War veteran with nearly two decades in federal immigration enforcement (biographical)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > ICE officer Jonathan Ross, 43, is an Iraq War veteran who has served in the Border Patrol and ICE for nearly two decades.
 
-### c_018 — attributed, single source
-**Subject entities:** Geoff Alpert; John P. Gross
-**Predicate:** said
-**Object:** video raises training questions without altering use-of-force assessment (expert_opinion)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_018
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Geoff Alpert; John P. Gross
+- **Predicate:** said
+- **Object:** video raises training questions without altering use-of-force assessment (expert_opinion)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > Policing experts said the new video did not change their thoughts on the use of force but raised additional questions about the officer's training.
 
@@ -337,10 +343,5 @@ Protests followed both shootings. In Minneapolis, hundreds of demonstrators gath
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Rebecca Santana
 **Publication date:** 2026-01-09
-**Access date:** 2026-01-09
 **Title:** New video taken by ICE officer shows final moments of fatal encounter with Driver in Minneapolis
 **URL:** https://apnews.com/article/minnesota-immigration-enforcement-crackdown-woman-shot-1aeabfaf747eff0162c15216bf41c9e7
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

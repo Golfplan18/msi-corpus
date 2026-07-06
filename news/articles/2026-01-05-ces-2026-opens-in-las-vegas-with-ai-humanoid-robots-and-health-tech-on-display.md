@@ -20,42 +20,42 @@ primary_themes:
 - healthcare technology
 - CES 2026
 topic_tags:
-  - "artificial intelligence"
-  - health
-  - robotics
-  - "science and technology"
-  - "technology and engineering"
+- artificial intelligence
+- robotics
+- computing and information technology
+- health
+- technology and engineering
 storyline_nexus:
-  - humanoid-robotics-industry
-geographic_location: Las Vegas, Nevada, United States
+- ai-industry-regulation
+geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship
-  intensity: 0.75
-- value: accountability_of_power
-  intensity: 0.15
-framework_version: 1.1.0
-generation_timestamp: '2026-01-05T00:00:00Z'
+  intensity: 0.6
+- value: truthfulness
+  intensity: 0.3
+framework_version: 1.3.0
+generation_timestamp: '2026-05-22T23:38:24Z'
 source_cluster_id: cluster_ap_2026-01-06_ces-tech-show-vegas-2026-30817b261862e78
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 14
   hedges:
     appears: 0
-    alleged: 0
-    attributed: 3
-    reported: 3
     contested: 0
+    attributed: 3
     confirmed: 8
+    reported: 3
+    alleged: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 1
-    single_source: 13
+    one_originating_plus_primary_document: 0
     two_independent: 0
+    primary_plus_secondary: 0
+    single_source: 13
 sources:
   count: 1
   outlets:
@@ -76,6 +76,16 @@ image:
 cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- LAS VEGAS — CES 2026 opened this week in Las Vegas, assembling more than 3,500 exhibitors at the Consumer Technology Association's annual trade show with artificial intelligence, humanoid robots, healthcare wearables, and mobility technology heading a packed agenda.
+- Organizers expected attendance approaching the more than 141,000 visitors from over 150 countries who attended the 2025 edition.
+- AI is woven through nearly every product category at this year's show, with keynotes from Nvidia's Jensen Huang and AMD CEO Lisa Su anchoring an agenda that also features domestic robots from LG and Hyundai, a Verizon-backed disability-technology stage, and the debut of what organizers described as the first-ever small-scale nuclear energy device exhibited at CES.
+- LAS VEGAS — CES 2026 opened this week in Las Vegas with more than 3,500 exhibitors on the convention floor, as the Consumer Technology Association's annual trade show showcased advances in artificial intelligence, robotics, healthcare, and mobility.
+- Organizers expected attendance approaching the more than 141,000 visitors from over 150 countries who attended in 2025.
 
 LAS VEGAS — CES 2026 opened this week in Las Vegas, assembling more than 3,500 exhibitors at the Consumer Technology Association's annual trade show with artificial intelligence, humanoid robots, healthcare wearables, and mobility technology heading a packed agenda. Organizers expected attendance approaching the more than 141,000 visitors from over 150 countries who attended the 2025 edition.
 
@@ -119,129 +129,157 @@ Shapiro pushed back on concerns about an AI investment bubble. "Well, there's de
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Consumer Electronics Show 2026
-**Predicate:** opens_in
-**Object:** Las Vegas (location)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Consumer Electronics Show 2026
+- **Predicate:** opens_in
+- **Object:** Las Vegas (location)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > CES 2026 kicks off this week in Las Vegas.
 
-### c_002 — confirmed, single source
-**Subject entities:** Consumer Technology Association
-**Predicate:** organizes
-**Object:** CES 2026 (event)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Consumer Technology Association
+- **Predicate:** organizes
+- **Object:** CES 2026 (event)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > The event is organized by the Consumer Technology Association.
 
-### c_003 — attributed, single source
-**Subject entities:** CES 2026
-**Predicate:** features
-**Object:** 3,500+ exhibitors (count)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** CES 2026
+- **Predicate:** features
+- **Object:** 3,500+ exhibitors (count)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > More than 3,500 exhibitors are expected across the floor space at CES 2026.
 
-### c_004 — confirmed, single source
-**Subject entities:** CES 2025
-**Predicate:** drew_attendees
-**Object:** 141,000+ (count)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** CES 2025
+- **Predicate:** drew_attendees
+- **Object:** 141,000+ (count)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > In 2025, more than 141,000 attendees from over 150 countries, regions, and territories attended CES.
 
-### c_005 — reported, single source
-**Subject entities:** Consumer Technology Association
-**Predicate:** expects
-**Object:** approximately 141,000 attendees (attendance_estimate)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Consumer Technology Association
+- **Predicate:** expects
+- **Object:** approximately 141,000 attendees (attendance_estimate)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > Organizers expect around the same attendance numbers for CES 2026.
 
-### c_006 — confirmed, single source
-**Subject entities:** Jensen Huang; Nvidia
-**Predicate:** keynotes
-**Object:** productivity solutions (keynote_topic)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Jensen Huang; Nvidia
+- **Predicate:** keynotes
+- **Object:** productivity solutions (keynote_topic)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > Jensen Huang will take the stage at CES 2026 to showcase Nvidia's latest productivity solutions.
 
-### c_007 — confirmed, single source
-**Subject entities:** Lisa Su; Advanced Micro Devices
-**Predicate:** keynotes
-**Object:** future AI solutions vision (keynote_topic)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Lisa Su; Advanced Micro Devices
+- **Predicate:** keynotes
+- **Object:** future AI solutions vision (keynote_topic)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > AMD CEO Lisa Su will keynote at CES 2026 to share her vision for delivering future AI solutions.
 
-### c_008 — reported, single source
-**Subject entities:** Yuanqing Yang; Lenovo
-**Predicate:** keynotes
-**Object:** AI applications (keynote_topic)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Yuanqing Yang; Lenovo
+- **Predicate:** keynotes
+- **Object:** AI applications (keynote_topic)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > Lenovo CEO Yuanqing Yang is expected to address AI in his CES keynote.
 
-### c_009 — confirmed, single source
-**Subject entities:** LG
-**Predicate:** announces_product
-**Object:** CLOiD household helper bot (product)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** LG
+- **Predicate:** announces_product
+- **Object:** CLOiD household helper bot (product)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > LG announced it will show off a helper bot named CLOiD to handle a range of household tasks.
 
-### c_010 — confirmed, single source
-**Subject entities:** Hyundai
-**Predicate:** announces
-**Object:** robotics and manufacturing advancements (product_category)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Hyundai
+- **Predicate:** announces
+- **Object:** robotics and manufacturing advancements (product_category)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > Hyundai is announcing a major push on robotics and manufacturing advancements at CES 2026.
 
-### c_011 — reported, single source
-**Subject entities:** Beyond Medicine
-**Predicate:** demonstrates
-**Object:** jaw disorder prescription app (product)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Beyond Medicine
+- **Predicate:** demonstrates
+- **Object:** jaw disorder prescription app (product)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > Beyond Medicine plans to demonstrate a prescription app focused on a particular jaw disorder.
 
-### c_012 — attributed, single source
-**Subject entities:** unnamed Korean company
-**Predicate:** demonstrates
-**Object:** small-scale nuclear energy creation device (product)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** unnamed Korean company
+- **Predicate:** demonstrates
+- **Object:** small-scale nuclear energy creation device (product)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > A Korean company is showing the first-ever small-scale nuclear-powered energy creation device at CES 2026, according to Gary Shapiro.
 
-### c_013 — attributed, single source
-**Subject entities:** Verizon
-**Predicate:** presents
-**Object:** disability assistive technology stage (exhibit)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Verizon
+- **Predicate:** presents
+- **Object:** disability assistive technology stage (exhibit)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > Verizon set up a stage at CES 2026 dedicated to assistive technology for people with disabilities and older people.
 
-### c_014 — confirmed, single source
-**Subject entities:** Gary Shapiro; Consumer Technology Association
-**Predicate:** holds_role
-**Object:** Executive Chair and CEO (title)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_014
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Gary Shapiro; Consumer Technology Association
+- **Predicate:** holds_role
+- **Object:** Executive Chair and CEO (title)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > Gary Shapiro is Executive Chair and CEO of the Consumer Technology Association.
 
@@ -250,10 +288,5 @@ Shapiro pushed back on concerns about an AI investment bubble. "Well, there's de
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Shawn Chen
 **Publication date:** 2026-01-05
-**Access date:** 2026-01-05
-**Title:** What to expect from CES 2026, the annual show of all things tech
+**Title:** What to expect from CES 2026
 **URL:** https://apnews.com/article/ces-tech-show-vegas-2026-30817b261862e786a81d361e794c78b4
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

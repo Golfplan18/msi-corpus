@@ -15,43 +15,44 @@ primary_themes:
 - transparency
 - statute of limitations
 topic_tags:
-  - "armed conflict"
-  - "conflict, war and peace"
-  - "crime, law and justice"
-  - government
-  - politics
-storyline_nexus: []
-geographic_location: Hawaii, United States
+- crime
+- corruption
+- law enforcement
+- government
+- prosecution
+storyline_nexus:
+- trump-judicial-challenges
+geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
-  intensity: 0.95
-- value: informed_citizenship
   intensity: 0.9
 - value: truthfulness
-  intensity: 0.85
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+  intensity: 0.6
+- value: informed_citizenship
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:27:28Z'
 source_cluster_id: cluster_ap_2026-01-22_bribery-josh-green-anne-lopez-hawaii-gen
 gdelt_event_ids: []
-consensus_floor_version: v1.0
-publication_mindspec_version: v1.0
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 8
   hedges:
-    appears: 0
     alleged: 0
-    attributed: 3
+    confirmed: 3
     reported: 2
     contested: 0
-    confirmed: 3
+    appears: 0
+    attributed: 3
   corroboration:
     primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 8
-    single_source: 0
     two_independent: 0
+    single_source: 0
+    one_originating_plus_primary_document: 0
 sources:
   count: 1
   outlets:
@@ -65,21 +66,16 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-04-19-bribery-scandal-shadows-husted-s-ohio-senate-re-election-bid
-  relation: related
-  strength: 0.8307
-  confidence: medium
-- slug: 2026-01-13-le-pen-appeals-embezzlement-conviction-with-2027-presidential-bid-at-stake
-  relation: related
-  strength: 0.8065
-  confidence: medium
-- slug: 2026-01-13-former-nyc-official-pleads-not-guilty-to-federal-bribery-charges
-  relation: related
-  strength: 0.7979
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- Hawaii Attorney General Anne Lopez reversed course Tuesday, announcing that the state will investigate a 2022 case in which an unnamed state legislator accepted $35,000 in a paper bag from a briber...
+- The case has sat unresolved for four years with questions about whether the $35,000 was a bribe, an unreported gift, or a legal campaign contributi...
+- The $35,000 transaction occurred in 2022 and was recorded by Ty Cullen, a former state representative who became a federal informant. Cullen had be...
 
 Hawaii Attorney General Anne Lopez reversed course Tuesday, announcing that the state will investigate a 2022 case in which an unnamed state legislator accepted $35,000 in a paper bag from a bribery subject. Governor Josh Green and Lopez jointly determined that a state investigation is warranted in the public interest. The reversal follows weeks of mounting public pressure, including a citizen petition signed by more than 1,000 people and calls from lawmakers for disclosure of the legislator's identity.
 
@@ -121,83 +117,95 @@ Lawmakers continue pressing for action beyond the attorney general's investigati
 
 Representative Jarrett Keohokalole, also running for Congress, has introduced legislation to extend the state's statute of limitations for bribery charges from six years to nine years. The current deadline expires in 2028. The extension would push it to 2031. Belatti emphasized Tuesday that if the unnamed legislator is still in office, they should be isolated from voting on any statute-of-limitations changes that could affect their own case.
 
----
-
-**AI Disclosure:** This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under "sources." Framework specification: https://mainstreetindependent.org/methodology. Human review was not triggered by the framework's quality-control system.
-
 **License:** This article is released under the Creative Commons CC0 public-domain dedication (https://creativecommons.org/publicdomain/zero/1.0/). You are free to republish, modify, or use this work for any purpose without attribution.
 
 ## Atomic claims
 
-### c_001 — attributed, primary document
-**Subject entities:** Anne Lopez; Hawaii
-**Predicate:** announced
-**Object:** state investigation into 2022 bribery case (government_action)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Anne Lopez; Hawaii
+- **Predicate:** announced
+- **Object:** state investigation into 2022 bribery case (government_action)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > Hawaii Attorney General Anne Lopez announced Tuesday that the state will investigate a 2022 bribery case involving an unnamed state legislator.
 
-### c_002 — reported, primary document
-**Subject entities:** unnamed state legislator
-**Predicate:** accepted
-**Object:** $35,000 in paper bag (monetary_transaction)
-**Temporal:** 2022
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** unnamed state legislator
+- **Predicate:** accepted
+- **Object:** $35,000 in paper bag (monetary_transaction)
+- **Temporal:** 2022
+- **Sources:** src_001
 
 > An unnamed state legislator accepted $35,000 in a paper bag in 2022 from a bribery subject.
 
-### c_003 — attributed, primary document
-**Subject entities:** Ty Cullen
-**Predicate:** recorded
-**Object:** bribery transaction with state legislator (evidence_creation)
-**Temporal:** 2022
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Ty Cullen
+- **Predicate:** recorded
+- **Object:** bribery transaction with state legislator (evidence_creation)
+- **Temporal:** 2022
+- **Sources:** src_001
 
 > Former state Representative Ty Cullen recorded the transaction after becoming an FBI asset following his 2021 arrest for bribery.
 
-### c_004 — confirmed, primary document
-**Subject entities:** unnamed state legislator
-**Predicate:** remains hidden
-**Object:** identity from public; current elected status unknown (information_status)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** unnamed state legislator
+- **Predicate:** remains hidden
+- **Object:** identity from public; current elected status unknown (information_status)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > The legislator's identity remains hidden from the public and it is unclear whether that person still holds elected office.
 
-### c_005 — attributed, primary document
-**Subject entities:** Anne Lopez
-**Predicate:** said
-**Object:** state investigation would interfere with federal investigation (statement)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Anne Lopez
+- **Predicate:** said
+- **Object:** state investigation would interfere with federal investigation (statement)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Attorney General Lopez said on January 7 that a state investigation would interfere with the federal investigation.
 
-### c_006 — reported, primary document
-**Subject entities:** federal authorities; state officials
-**Predicate:** informed
-**Object:** federal authorities will share evidence (government_communication)
-**Temporal:** 2026-01-17
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** federal authorities; state officials
+- **Predicate:** informed
+- **Object:** federal authorities will share evidence (government_communication)
+- **Temporal:** 2026-01-17
+- **Sources:** src_001
 
 > Federal authorities informed state officials Friday that they would share evidence of the transaction with state investigators.
 
-### c_007 — confirmed, primary document
-**Subject entities:** Hawaii statute of limitations
-**Predicate:** is
-**Object:** 6 years; expires 2028 (legal_timeline)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Hawaii statute of limitations
+- **Predicate:** is
+- **Object:** 6 years; expires 2028 (legal_timeline)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > Hawaii's statute of limitations for bribery charges is six years, meaning the deadline expires in 2028.
 
-### c_008 — confirmed, primary document
-**Subject entities:** Alexander Silvert; citizen petition
-**Predicate:** gained
-**Object:** more than 1,000 signatures (public_action)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Alexander Silvert; citizen petition
+- **Predicate:** gained
+- **Object:** more than 1,000 signatures (public_action)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > A citizen petition led by government accountability advocate Alexander Silvert gained more than 1,000 signatures calling for investigation and disclosure.
 
@@ -206,10 +214,5 @@ Representative Jarrett Keohokalole, also running for Congress, has introduced le
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Christina Jedra / Honolulu Civil Beat
 **Publication date:** 2026-01-21
-**Access date:** 2026-05-18
 **Title:** Hawaii Attorney General to investigate $35K bribery case after all
 **URL:** https://apnews.com/article/bribery-josh-green-anne-lopez-hawaii-general-news-a7b353369bd7e991bda02b5b6b9f6968
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

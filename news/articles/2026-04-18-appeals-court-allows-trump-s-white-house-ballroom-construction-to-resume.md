@@ -14,42 +14,42 @@ primary_themes:
 - judicial_review
 - federal_governance
 topic_tags:
-  - politics
-  - trial
-  - "government policy"
-  - "economy, business and finance"
-  - "construction and property"
-  - "crime, law and justice"
-storyline_nexus: []
+- construction and property
+- government
+- judiciary
+- law
+- politics
+storyline_nexus:
+- trump-judicial-challenges
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
-  intensity: 0.8
+  intensity: 0.9
 - value: informed_citizenship
-  intensity: 0.7
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T00:00:00Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T01:06:30Z'
 source_cluster_id: cluster_ap_2026-04-20_trump-ballroom-white-house-appeals-court
 gdelt_event_ids: []
-consensus_floor_version: '1.0'
-publication_mindspec_version: '1.0'
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 10
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 10
-    reported: 0
     contested: 0
+    reported: 0
+    appears: 0
     confirmed: 0
+    attributed: 10
+    alleged: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 0
-    single_source: 10
     two_independent: 0
+    one_originating_plus_primary_document: 0
+    single_source: 10
+    primary_document: 0
+    primary_plus_secondary: 0
 sources:
   count: 1
   outlets:
@@ -63,21 +63,10 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-05-17-judge-blocks-above-ground-work-on-trump-s-white-house-ballroom
-  relation: continues
-  strength: 0.9303
-  confidence: high
-- slug: 2026-04-17-trump-touts-400m-ballroom-plan-amid-criticism-he-s-out-of-touch
-  relation: related
-  strength: 0.7692
-  confidence: medium
-- slug: 2025-12-31-appeals-court-lets-medicaid-funding-cuts-to-planned-parenthood-stand-while-state
-  relation: related
-  strength: 0.7591
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
 
 A federal appeals court on Friday temporarily halted a lower court's order blocking above-ground construction on President Trump's $400 million White House ballroom, allowing work to resume while the court scheduled a full hearing for June.
 
@@ -103,97 +92,115 @@ The ballroom would span 90,000 square feet. Trump has called it "a long-overdue 
 
 The appeals court hearing on June 5 will be the next opportunity for both sides to present arguments on whether Trump possesses the authority to pursue the project without congressional involvement.
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** U.S. Court of Appeals for the District of Columbia Circuit; Richard J. Leon
-**Predicate:** placed_temporary_hold
-**Object:** Judge Leon's order blocking above-ground construction (legal_order)
-**Temporal:** 2026-04-18
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Court of Appeals for the District of Columbia Circuit; Richard J. Leon
+- **Predicate:** placed_temporary_hold
+- **Object:** Judge Leon's order blocking above-ground construction (legal_order)
+- **Temporal:** 2026-04-18
+- **Sources:** src_001
 
 > A three-judge panel of the U.S. Court of Appeals for the District of Columbia Circuit put on temporary hold the order by U.S. District Judge Richard Leon halting above-ground construction on the ballroom project.
 
-### c_002 — attributed, single source
-**Subject entities:** Donald Trump
-**Predicate:** building
-**Object:** $400 million ballroom at the White House (construction_project)
-**Temporal:** 2026-04-18
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** building
+- **Object:** $400 million ballroom at the White House (construction_project)
+- **Temporal:** 2026-04-18
+- **Sources:** src_001
 
 > President Trump is building a $400 million ballroom at the White House.
 
-### c_003 — attributed, single source
-**Subject entities:** Richard J. Leon; ballroom construction
-**Predicate:** blocked_and_allowed
-**Object:** above-ground construction blocked; below-ground work permitted (legal_ruling)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Richard J. Leon; ballroom construction
+- **Predicate:** blocked_and_allowed
+- **Object:** above-ground construction blocked; below-ground work permitted (legal_ruling)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > Judge Richard Leon continued to block above-ground construction of the 90,000-square-foot ballroom while allowing below-ground work on a bunker and other national security facilities.
 
-### c_004 — attributed, single source
-**Subject entities:** Donald Trump; East Wing
-**Predicate:** demolished
-**Object:** East Wing of the White House (building_section)
-**Temporal:** 2025-10
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; East Wing
+- **Predicate:** demolished
+- **Object:** East Wing of the White House (building_section)
+- **Temporal:** 2025-10
+- **Sources:** src_001
 
 > Trump tore down the East Wing in fall 2025 to build the ballroom.
 
-### c_005 — attributed, single source
-**Subject entities:** National Trust for Historic Preservation; Donald Trump
-**Predicate:** sued_arguing
-**Object:** overstepped authority without required federal and congressional approvals (legal_argument)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** National Trust for Historic Preservation; Donald Trump
+- **Predicate:** sued_arguing
+- **Object:** overstepped authority without required federal and congressional approvals (legal_argument)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > The National Trust for Historic Preservation sued to block construction, arguing that Trump had overstepped his authority by moving forward without approval from key federal agencies and Congress.
 
-### c_006 — attributed, single source
-**Subject entities:** Richard J. Leon; National Trust for Historic Preservation
-**Predicate:** ruled_in_favor
-**Object:** decision blocking the project (legal_ruling)
-**Temporal:** 2026-03-31
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Richard J. Leon; National Trust for Historic Preservation
+- **Predicate:** ruled_in_favor
+- **Object:** decision blocking the project (legal_ruling)
+- **Temporal:** 2026-03-31
+- **Sources:** src_001
 
 > Judge Leon ruled in favor of the National Trust for Historic Preservation at the end of March, blocking the project.
 
-### c_007 — attributed, single source
-**Subject entities:** U.S. Court of Appeals for the District of Columbia Circuit
-**Predicate:** scheduled_hearing
-**Object:** 2026-06-05 (date)
-**Temporal:** 2026-04-18
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Court of Appeals for the District of Columbia Circuit
+- **Predicate:** scheduled_hearing
+- **Object:** 2026-06-05 (date)
+- **Temporal:** 2026-04-18
+- **Sources:** src_001
 
 > The appeals court panel scheduled a hearing for June 5 to review the case.
 
-### c_008 — attributed, single source
-**Subject entities:** Donald Trump
-**Predicate:** stated
-**Object:** ballroom is long-overdue addition to White House complex (statement)
-**Temporal:** 2026-04
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** stated
+- **Object:** ballroom is long-overdue addition to White House complex (statement)
+- **Temporal:** 2026-04
+- **Sources:** src_001
 
 > Trump said the ballroom is a long-overdue addition to the White House complex.
 
-### c_009 — attributed, single source
-**Subject entities:** Donald Trump
-**Predicate:** argued
-**Object:** private donations cover construction; public funds cover security (claim)
-**Temporal:** 2026-04
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** argued
+- **Object:** private donations cover construction; public funds cover security (claim)
+- **Temporal:** 2026-04
+- **Sources:** src_001
 
 > Trump argued that donations from wealthy individuals and corporations will cover the ballroom's cost, while taxpayer dollars will pay for the security aspects.
 
-### c_010 — attributed, single source
-**Subject entities:** Trump administration
-**Predicate:** appealed
-**Object:** Judge Leon's decision (legal_action)
-**Temporal:** 2026-04
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Trump administration
+- **Predicate:** appealed
+- **Object:** Judge Leon's decision (legal_action)
+- **Temporal:** 2026-04
+- **Sources:** src_001
 
 > The administration appealed Judge Leon's initial decision blocking the project.
 
@@ -202,10 +209,5 @@ This article was generated algorithmically by Main Street Independent's News Art
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Darlene Superville
 **Publication date:** 2026-04-18
-**Access date:** 2026-04-18
 **Title:** US appeals court allows construction on Trump's White House ballroom
 **URL:** https://apnews.com/article/trump-ballroom-white-house-appeals-court-ca37bb4510bff6233b4ecd99a8a801c3
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

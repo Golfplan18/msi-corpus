@@ -26,7 +26,7 @@ topic_tags:
   - "armed conflict"
   - "conflict, war and peace"
 storyline_nexus:
-  - iran-war
+- the-iran-war
 geographic_location: International
 floor_values_engaged:
 - value: informed_citizenship
@@ -280,7 +280,3 @@ In its first week, the war has expanded to draw in more than a dozen countries, 
 **Access date:** 2026-03-06
 **Title:** US permission for India to keep buying Russian oil is a boost for Moscow
 **URL:** https://apnews.com/article/treasury-india-russia-oil-iran-war-c29383f5ceb25e768b1ad4095807dd6e
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

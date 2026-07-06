@@ -16,40 +16,42 @@ primary_themes:
 - incarcerated populations
 - creative expression
 topic_tags:
-  - education
-  - "education policy"
-storyline_nexus: []
-geographic_location: Connecticut, United States
+- arts and entertainment
+- crime, law and justice
+- communities
+storyline_nexus:
+- us-immigration-enforcement
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
-  intensity: 0.85
-- value: truthfulness
   intensity: 0.9
-- value: informed_citizenship
-  intensity: 0.7
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+- value: accountability_of_power
+  intensity: 0.3
+- value: equality_fairness
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T01:04:14Z'
 source_cluster_id: cluster_ap_2026-02-24_visual-arts-prisons-jeffrey-greene-bryan
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 13
   hedges:
-    appears: 0
     alleged: 0
-    attributed: 1
     reported: 12
+    appears: 0
+    attributed: 1
     contested: 0
     confirmed: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 0
-    single_source: 13
     two_independent: 0
+    one_originating_plus_primary_document: 0
+    primary_plus_secondary: 0
+    single_source: 13
 sources:
   count: 1
   outlets:
@@ -63,17 +65,16 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-12-milan-inmates-craft-instruments-from-migrant-boats-for-concert-led-by-muti
-  relation: related
-  strength: 0.758
-  confidence: medium
-- slug: 2026-01-10-vr-headsets-bring-virtual-travel-job-prep-to-california-prison-inmates
-  relation: related
-  strength: 0.7584
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- - Eastern Connecticut State University
+- - value: human_life_and_dignity
 
 The sculptures are made from items found around any home: bread, Q-Tips, thread, soap, dental floss, floor wax, coffee. With pencils, pastels, glue and other supplies, incarcerated artists across Connecticut have fashioned these household materials into sculptures of the devil, the grim reaper, a castle and Garfield the cat. The artworks are on display at Eastern Connecticut State University's art gallery as part of the Prison Arts Program's annual exhibition, running through Feb. 28.
 
@@ -115,136 +116,155 @@ Karim Ismaili, president of Eastern Connecticut State University and a criminolo
 
 For Greene, the program represents a different possibility for the correctional system itself. "We have created a totally horrendous reality in our correctional system. It's horrendous. It doesn't make any sense," he said. "It's very easy to change that environment, and that's what prison arts is about."
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
-### c_001 — reported, single source
-**Subject entities:** Eastern Connecticut State University; incarcerated artists
-**Predicate:** showcases
-**Object:** artwork created by incarcerated artists (event)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Eastern Connecticut State University; incarcerated artists
+- **Predicate:** showcases
+- **Object:** artwork created by incarcerated artists (event)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > An exhibition at Eastern Connecticut State University showcases artwork created by 161 incarcerated artists.
 
-### c_002 — reported, single source
-**Subject entities:** exhibition
-**Predicate:** features
-**Object:** 600+ (quantity)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** exhibition
+- **Predicate:** features
+- **Object:** 600+ (quantity)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > The exhibition features more than 600 artworks.
 
-### c_003 — reported, single source
-**Subject entities:** Prison Arts Program
-**Predicate:** operates_since
-**Object:** 1978 (temporal_origin)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Prison Arts Program
+- **Predicate:** operates_since
+- **Object:** 1978 (temporal_origin)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > The Prison Arts Program has operated since 1978.
 
-### c_004 — reported, single source
-**Subject entities:** Community Partners in Action; Prison Arts Program
-**Predicate:** runs
-**Object:** Prison Arts Program (organization)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Community Partners in Action; Prison Arts Program
+- **Predicate:** runs
+- **Object:** Prison Arts Program (organization)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > Community Partners in Action runs the Prison Arts Program.
 
-### c_005 — reported, single source
-**Subject entities:** Jeffrey Greene
-**Predicate:** worked_with_since
-**Object:** Prison Arts Program (organization)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Jeffrey Greene
+- **Predicate:** worked_with_since
+- **Object:** Prison Arts Program (organization)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > Jeffrey Greene has worked with the program since 1991.
 
-### c_006 — reported, single source
-**Subject entities:** Prison Arts Program
-**Predicate:** operates
-**Object:** artist collectives in five state prisons (program_activity)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Prison Arts Program
+- **Predicate:** operates
+- **Object:** artist collectives in five state prisons (program_activity)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > The program operates artist collectives in five state prisons.
 
-### c_007 — reported, single source
-**Subject entities:** artists
-**Predicate:** gather
-**Object:** every two weeks (frequency)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** artists
+- **Predicate:** gather
+- **Object:** every two weeks (frequency)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > Artists in the program gather every two weeks.
 
-### c_008 — reported, single source
-**Subject entities:** artists
-**Predicate:** use_materials
-**Object:** bread, Q-Tips, thread, soap, dental floss, floor wax, coffee (materials)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** artists
+- **Predicate:** use_materials
+- **Object:** bread, Q-Tips, thread, soap, dental floss, floor wax, coffee (materials)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > Artists use household items like bread, Q-Tips, thread, soap, dental floss, floor wax, and coffee to create sculptures.
 
-### c_009 — reported, single source
-**Subject entities:** Bryan Moore
-**Predicate:** released_from
-**Object:** Connecticut Department of Correction custody (action)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Bryan Moore
+- **Predicate:** released_from
+- **Object:** Connecticut Department of Correction custody (action)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Bryan Moore was released from Connecticut Department of Correction custody in January 2026.
 
-### c_010 — reported, single source
-**Subject entities:** Bryan Moore
-**Predicate:** started_participating
-**Object:** Prison Arts Program (organization)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Bryan Moore
+- **Predicate:** started_participating
+- **Object:** Prison Arts Program (organization)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > Moore started participating in the Prison Arts Program in 2022.
 
-### c_011 — attributed, single source
-**Subject entities:** Bryan Moore
-**Predicate:** drew
-**Object:** 350 (quantity)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Bryan Moore
+- **Predicate:** drew
+- **Object:** 350 (quantity)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > Moore estimated he drew around 350 portraits during his seven years of incarceration.
 
-### c_012 — reported, single source
-**Subject entities:** Edwin Leon
-**Predicate:** upholstered_and_carved
-**Object:** leather armchair with Batman and Gotham design (artwork)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Edwin Leon
+- **Predicate:** upholstered_and_carved
+- **Object:** leather armchair with Batman and Gotham design (artwork)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > Edwin Leon upholstered an armchair in leather, carving a Batman silhouette and "Gotham" on the chair back.
 
-### c_013 — reported, single source
-**Subject entities:** exhibition
-**Predicate:** on_display
-**Object:** 2026-02-28 (date)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_013
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** exhibition
+- **Predicate:** on_display
+- **Object:** 2026-02-28 (date)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > The exhibition is on display until Feb. 28 at Eastern Connecticut State University's art gallery.
 
 ## Sources
 
 ### src_001 — Associated Press, wire, Tier 1, originating
-**Author:** Emilia Otte
+**Author:** Emilia Otte / Connecticut Mirror
 **Publication date:** 2026-02-23
-**Access date:** 2026-02-23
 **Title:** Connecticut exhibition showcases artwork of people in prison
 **URL:** https://apnews.com/article/visual-arts-prisons-jeffrey-greene-bryan-moore-connecticut-c2293ce800b273d095b9444e9e6d8ac1
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

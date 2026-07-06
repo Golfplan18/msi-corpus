@@ -16,46 +16,41 @@ primary_themes:
 - Economic Policy
 - Political Conflict
 topic_tags:
-  - politics
-  - trial
-  - "government policy"
-  - "economy, business and finance"
-  - "crime, law and justice"
-  - "international trade"
+- international trade
+- government policy
+- politics
+- judiciary
 storyline_nexus:
-  - us-administration-2026
-  - trump-tariff-policy
+- trump-tariff-wars
 geographic_location: United States
 floor_values_engaged:
-- value: truthfulness
-  intensity: 0.95
 - value: accountability_of_power
-  intensity: 0.85
-- value: informed_citizenship
-  intensity: 0.8
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18'
+  intensity: 0.9
+- value: truthfulness
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:54:05Z'
 source_cluster_id: cluster_ap_2026-02-21_trump-tariffs-supreme-court-whats-next-b
 gdelt_event_ids: []
-consensus_floor_version: '1.0'
-publication_mindspec_version: '1.1'
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 14
   hedges:
     appears: 0
-    alleged: 0
-    attributed: 4
     reported: 9
+    attributed: 4
+    alleged: 0
     contested: 0
     confirmed: 1
   corroboration:
-    primary_plus_secondary: 0
+    two_independent: 0
     one_originating_plus_primary_document: 0
     primary_document: 2
+    primary_plus_secondary: 0
     single_source: 12
-    two_independent: 0
 sources:
   count: 1
   outlets:
@@ -73,29 +68,10 @@ image:
   url: /articles/2026-02-20-trump-plans-alternative-tariffs-after-supreme-court-ruling.png
   alt: 'Illustration accompanying article: Trump plans alternative tariffs after Supreme Court ruling'
   source: ai_generated
-cross_article_links:
-- slug: 2026-04-19-carney-says-canada-must-reduce-u-s-economic-ties-over-trump-tariffs
-  relation: related
-  strength: 0.8291
-  confidence: medium
-- slug: 2026-04-19-refund-system-opens-for-tariffs-trump-imposed-without-authority
-  relation: related
-  strength: 0.8174
-  confidence: medium
-- slug: 2026-01-13-trump-s-iran-tariffs-threaten-us-china-trade-truce-could-raise-american-prices
-  relation: related
-  strength: 0.8499
-  confidence: medium
-- slug: 2026-01-13-trump-visits-dearborn-ford-plant-defends-tariffs-as-voters-worry-about-rising-pr
-  relation: related
-  strength: 0.8254
-  confidence: medium
-- slug: 2026-01-12-carney-visits-beijing-to-rebuild-ties-and-reduce-canada-s-dependence-on-us-trade
-  relation: related
-  strength: 0.7608
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
 
 The decision undercuts a central pillar of Trump's economic agenda and creates uncertainty over whether he can execute on tariff-centered promises heading into midterm elections. With roughly $175 billion in import taxes now blocked, and the president's planned alternatives capped at 150 days, the ruling likely extends tariff chaos through the year.
 
@@ -151,137 +127,161 @@ But the Supreme Court's determination that the president lacks unilateral consti
 
 Until questions are resolved—whether Congress will chart its own tariff policy, whether Trump's new order will face legal challenge, whether $175 billion in voided tariffs will be refunded—American importers, foreign trading partners, and voters concerned about prices remain in limbo.
 
----
-
-**AI disclosure:** This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. Framework specification: https://mainstreetindependent.org/methodology. Human review: not triggered.
-
 **License:** This work is released under CC0 (public domain).
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** U.S. Supreme Court; Trump's tariffs
-**Predicate:** voted_to_strike_down
-**Object:** 6-3 decision against executive tariff authority (legal_decision)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Supreme Court; Trump's tariffs
+- **Predicate:** voted_to_strike_down
+- **Object:** 6-3 decision against executive tariff authority (legal_decision)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > The Supreme Court voted 6-3 to strike down Trump's global tariffs on Friday.
 
-### c_002 — reported, single source
-**Subject entities:** Donald Trump
-**Predicate:** signed_executive_order
-**Object:** 10% universal import tax (executive_action)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** signed_executive_order
+- **Object:** 10% universal import tax (executive_action)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > Trump signed an executive order to impose a 10% import tax on goods from around the world.
 
-### c_003 — attributed, single source
-**Subject entities:** Donald Trump
-**Predicate:** described
-**Object:** fools and lapdogs; unpatriotic and disloyal (public_statement)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** described
+- **Object:** fools and lapdogs; unpatriotic and disloyal (public_statement)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > Trump described the six justices who ruled against him as "fools and lapdogs" who are "very unpatriotic and disloyal to our Constitution."
 
-### c_004 — reported, single source
-**Subject entities:** Donald Trump
-**Predicate:** learned_of_decision
-**Object:** governors meeting; called it a disgrace (event_detail)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** learned_of_decision
+- **Object:** governors meeting; called it a disgrace (event_detail)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > Trump said he learned of the Supreme Court decision during a private meeting with governors when handed a note.
 
-### c_005 — reported, single source
-**Subject entities:** U.S. Supreme Court
-**Predicate:** voided
-**Object:** $175 billion (monetary_amount)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Supreme Court
+- **Predicate:** voided
+- **Object:** $175 billion (monetary_amount)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > The Supreme Court ruling struck down approximately $175 billion in import taxes.
 
-### c_006 — reported, single source
-**Subject entities:** 10% tariffs
-**Predicate:** capped
-**Object:** 150 days (time_duration)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** 10% tariffs
+- **Predicate:** capped
+- **Object:** 150 days (time_duration)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > The 10% tariffs Trump announced are legally capped at 150 days.
 
-### c_007 — reported, primary document
-**Subject entities:** Americans
-**Predicate:** said_would_increase_costs
-**Object:** 76 percent (polling_percentage)
-**Temporal:** 2026-04
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Americans
+- **Predicate:** said_would_increase_costs
+- **Object:** 76 percent (polling_percentage)
+- **Temporal:** 2026-04
+- **Sources:** src_001
 
 > An AP-NORC poll found that 76% of Americans said the tariffs would increase the cost of consumer goods.
 
-### c_008 — reported, single source
-**Subject entities:** Americans
-**Predicate:** said_went_too_far
-**Object:** 6 in 10 (polling_proportion)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Americans
+- **Predicate:** said_went_too_far
+- **Object:** 6 in 10 (polling_proportion)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > A January poll found that about 6 in 10 Americans said Trump went too far in imposing tariffs.
 
-### c_009 — reported, single source
-**Subject entities:** Republican senators
-**Predicate:** voiced_concerns
-**Object:** public and private concerns (legislative_position)
-**Temporal:** 2026-02
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Republican senators
+- **Predicate:** voiced_concerns
+- **Object:** public and private concerns (legislative_position)
+- **Temporal:** 2026-02
+- **Sources:** src_001
 
 > At least seven Republican senators voiced concerns about Trump's tariffs during his second term.
 
-### c_010 — reported, single source
-**Subject entities:** House Republicans; House Democrats
-**Predicate:** voted_together_against
-**Object:** resolution opposing Canada tariffs (legislative_action)
-**Temporal:** 2026-02
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** House Republicans; House Democrats
+- **Predicate:** voted_together_against
+- **Object:** resolution opposing Canada tariffs (legislative_action)
+- **Temporal:** 2026-02
+- **Sources:** src_001
 
 > Six House Republicans joined with Democrats earlier this month to vote for a resolution against Trump's tariffs on Canada.
 
-### c_011 — attributed, single source
-**Subject entities:** Mitch McConnell
-**Predicate:** said
-**Object:** Congress must be consulted for trade policy (public_statement)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Mitch McConnell
+- **Predicate:** said
+- **Object:** Congress must be consulted for trade policy (public_statement)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > Mitch McConnell said Congress' role in trade policy is not an inconvenience to be avoided.
 
-### c_012 — attributed, single source
-**Subject entities:** Mike Pence
-**Predicate:** said
-**Object:** consumers bear tariff costs (public_statement)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Mike Pence
+- **Predicate:** said
+- **Object:** consumers bear tariff costs (public_statement)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > Former Vice President Mike Pence said American families and businesses pay American tariffs, not foreign countries.
 
-### c_013 — attributed, single source
-**Subject entities:** Suzan DelBene
-**Predicate:** said
-**Object:** Trump exceeded constitutional authority (public_statement)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Suzan DelBene
+- **Predicate:** said
+- **Object:** Trump exceeded constitutional authority (public_statement)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > Rep. Suzan DelBene said Trump "is not a king" and his "tariffs were always illegal."
 
-### c_014 — reported, single source
-**Subject entities:** Donald Trump
-**Predicate:** used_word
-**Object:** 28 times (rhetorical_frequency)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_014
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** used_word
+- **Object:** 28 times (rhetorical_frequency)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > Trump used the word "tariff" 28 times in his speech Thursday at a Georgia steel company.
 
@@ -290,10 +290,5 @@ Until questions are resolved—whether Congress will chart its own tariff policy
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Josh Boak
 **Publication date:** 2026-02-20
-**Access date:** 2026-05-18
 **Title:** What happens next after the Supreme Court slapped down Trump's tariffs
 **URL:** https://apnews.com/article/trump-tariffs-supreme-court-whats-next-b8b6d5d44ebb3640a88f7202754cb361
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

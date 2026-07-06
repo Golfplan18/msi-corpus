@@ -29,7 +29,7 @@ topic_tags:
   - "crime, law and justice"
   - "disaster, accident and emergency incident"
 storyline_nexus:
-  - russia-ukraine-war
+- ukraine-war-peace-negotiations
 geographic_location: Ukraine, Russia (border regions and southwestern Russia)
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -145,8 +145,6 @@ Interior Minister Ihor Klymenko described the attacker's mental state as "clearl
 Several police officers were suspended for their response during the initial stages of the shooting. Klymenko described their behavior as "shameful and unworthy" of their role. He said the government has no plans to tighten gun ownership laws, arguing that firearms in the hands of law-abiding citizens had aided the country's defense against Russia.
 
 The mass shooting—a rare incident in wartime Kyiv since Russia's 2022 invasion—occurred in a busy central district outside an apartment building and shopping center, leaving victims' bodies on crowded streets as bystanders fled.
-
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification available at /methodology. Human review: not_triggered.
 
 ## Atomic claims
 
@@ -293,7 +291,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-05-17
 **Title:** Russian strikes kill 2 as Ukraine targets drone factory
 **URL:** https://apnews.com/article/russia-ukraine-war-drones-strike-attack-98aef722e0a2ae1911a3c3b4a43cd73a
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

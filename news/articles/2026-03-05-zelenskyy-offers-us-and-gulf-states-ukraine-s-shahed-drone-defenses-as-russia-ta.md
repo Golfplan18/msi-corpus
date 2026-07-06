@@ -29,8 +29,7 @@ topic_tags:
   - "armed conflict"
   - "conflict, war and peace"
 storyline_nexus:
-  - iran-war
-  - russia-ukraine-war
+- ukraine-war-peace-negotiations
 geographic_location: International
 floor_values_engaged:
 - value: informed_citizenship
@@ -269,7 +268,3 @@ On the battlefield, the Institute for the Study of War reported that localized U
 **Access date:** 2026-03-05
 **Title:** US and Mideast countries seek Ukraine's drone expertise
 **URL:** https://apnews.com/article/russia-ukraine-war-drones-iran-5cafbae5d360a44c4502b69647269037
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

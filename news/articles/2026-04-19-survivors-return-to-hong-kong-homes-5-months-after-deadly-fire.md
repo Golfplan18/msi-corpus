@@ -156,8 +156,6 @@ She hopes the government will include her building in the same rebuilding plan a
 
 The process of return will continue through early May as thousands of survivors visit the complex to see what remains of their lives before the fire.
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
 ### c_001 — confirmed, single source
@@ -276,7 +274,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-05-17
 **Title:** Survivors return to their homes 5 months after deadly Hong Kong fire
 **URL:** https://apnews.com/article/fire-victims-return-burned-homes-hong-kong-56a5b17180e14bba15987b17e07da9d9
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -1,6 +1,5 @@
 ---
 headline: Federal judge rules importers entitled to refunds for struck-down Trump tariffs
-slug: 2026-03-04-federal-judge-rules-importers-entitled-to-refunds-for-struck-down-trump-tariffs
 publish_date: '2026-03-04'
 lede: 'A federal judge ruled Wednesday that companies that paid tariffs struck down by the Supreme Court last month are entitled to refunds, handing the Trump administration a legal defeat in the continuing fallout from a ruling that invalidated the president''s sweeping import taxes.
 
@@ -25,45 +24,42 @@ primary_themes:
 - executive power
 - separation of powers
 topic_tags:
-  - "artificial intelligence"
-  - "arts and entertainment"
-  - "arts, culture, entertainment and media"
-  - "crime, law and justice"
-  - "disaster, accident and emergency incident"
-  - "economy, business and finance"
+- international trade
+- judiciary
+- tax
+- government policy
+- economy
 storyline_nexus:
-  - us-administration-2026
-  - trump-tariff-policy
-  - us-china-relations
-geographic_location: Washington, D.C.
+- trump-tariff-wars
+geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
-  intensity: 0.85
-- value: informed_citizenship
-  intensity: 0.8
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:46:36Z'
+  intensity: 0.9
+- value: equality_fairness
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:59:25Z'
 source_cluster_id: cluster_ap_2026-03-05_trump-tariff-refunds-09cd60a170d01d8d627
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 15
   hedges:
+    confirmed: 10
     appears: 0
-    alleged: 0
     attributed: 4
+    alleged: 0
     reported: 1
     contested: 0
-    confirmed: 10
   corroboration:
     primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
+    two_independent: 0
     primary_document: 6
     single_source: 9
-    two_independent: 0
+    one_originating_plus_primary_document: 0
 sources:
   count: 1
   outlets:
@@ -81,13 +77,10 @@ image:
   url: /articles/2026-03-04-federal-judge-rules-importers-entitled-to-refunds-for-struck-down-trump-tariffs.png
   alt: 'Illustration accompanying article: Federal judge rules importers entitled to refunds for struck-down Trump tariffs'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-13-trump-visits-dearborn-ford-plant-defends-tariffs-as-voters-worry-about-rising-pr
-  relation: related
-  strength: 0.7461
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
 
 WASHINGTON — A federal judge ruled Wednesday that companies that paid tariffs struck down by the Supreme Court last month are entitled to refunds, handing the Trump administration a legal defeat in the continuing fallout from a ruling that invalidated the president's sweeping import taxes.
 
@@ -119,138 +112,168 @@ Barry Appleton, a law professor and co-director of New York Law School's Center 
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Richard Eaton; U.S. Court of International Trade
-**Predicate:** ruled
-**Object:** companies entitled to tariff refunds (judicial_ruling)
-**Temporal:** 2026-03-04
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Richard Eaton; U.S. Court of International Trade
+- **Predicate:** ruled
+- **Object:** companies entitled to tariff refunds (judicial_ruling)
+- **Temporal:** 2026-03-04
+- **Sources:** src_001
 
 > Judge Richard Eaton of the U.S. Court of International Trade ruled Wednesday that companies that paid tariffs struck down by the Supreme Court are entitled to refunds.
 
-### c_002 — confirmed, primary document
-**Subject entities:** Richard Eaton
-**Predicate:** wrote
-**Object:** all importers of record entitled to benefit (quotation)
-**Temporal:** 2026-03-04
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Richard Eaton
+- **Predicate:** wrote
+- **Object:** all importers of record entitled to benefit (quotation)
+- **Temporal:** 2026-03-04
+- **Sources:** src_001
 
 > Eaton wrote that 'all importers of record' were 'entitled to benefit' from the Supreme Court ruling.
 
-### c_003 — confirmed, primary document
-**Subject entities:** Supreme Court of the United States; Donald Trump
-**Predicate:** struck_down
-**Object:** IEEPA tariffs unconstitutional (judicial_ruling)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Supreme Court of the United States; Donald Trump
+- **Predicate:** struck_down
+- **Object:** IEEPA tariffs unconstitutional (judicial_ruling)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > The Supreme Court struck down Trump's sweeping IEEPA tariffs on Feb. 20, ruling the president could not unilaterally set and change tariffs because taxation power belongs to Congress.
 
-### c_004 — confirmed, primary document
-**Subject entities:** Richard Eaton
-**Predicate:** wrote
-**Object:** sole jurisdiction over IEEPA duty refund cases (jurisdictional_claim)
-**Temporal:** 2026-03-04
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Richard Eaton
+- **Predicate:** wrote
+- **Object:** sole jurisdiction over IEEPA duty refund cases (jurisdictional_claim)
+- **Temporal:** 2026-03-04
+- **Sources:** src_001
 
 > Eaton wrote that he alone 'will hear cases pertaining to the refund of IEEPA duties.'
 
-### c_005 — reported, single source
-**Subject entities:** United States government
-**Predicate:** collected
-**Object:** more than $130 billion (revenue_figure)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** United States government
+- **Predicate:** collected
+- **Object:** more than $130 billion (revenue_figure)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > The federal government collected more than $130 billion in the now-invalidated tariffs through mid-December.
 
-### c_006 — attributed, single source
-**Subject entities:** United States government; Penn Wharton Budget Model
-**Predicate:** calculated
-**Object:** $175 billion in potential refunds (economic_estimate)
-**Temporal:** 2026-03-04
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** United States government; Penn Wharton Budget Model
+- **Predicate:** calculated
+- **Object:** $175 billion in potential refunds (economic_estimate)
+- **Temporal:** 2026-03-04
+- **Sources:** src_001
 
 > The government could ultimately be on the hook for refunds worth $175 billion, according to calculations by the Penn Wharton Budget Model.
 
-### c_007 — confirmed, single source
-**Subject entities:** Atmus Filtration
-**Predicate:** brought
-**Object:** claim for tariff refund (legal_action)
-**Temporal:** 2026-03-04
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Atmus Filtration
+- **Predicate:** brought
+- **Object:** claim for tariff refund (legal_action)
+- **Temporal:** 2026-03-04
+- **Sources:** src_001
 
 > The ruling was made in a case brought by Atmus Filtration, a Nashville, Tennessee company that makes filters and filtration products.
 
-### c_008 — confirmed, primary document
-**Subject entities:** Richard Eaton; U.S. Customs and Border Protection
-**Predicate:** ordered
-**Object:** stop collecting IEEPA tariffs in liquidation (judicial_order)
-**Temporal:** 2026-03-04
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Richard Eaton; U.S. Customs and Border Protection
+- **Predicate:** ordered
+- **Object:** stop collecting IEEPA tariffs in liquidation (judicial_order)
+- **Temporal:** 2026-03-04
+- **Sources:** src_001
 
 > The judge ordered Customs to stop collecting the struck-down IEEPA tariffs on goods going through the liquidation process.
 
-### c_009 — confirmed, primary document
-**Subject entities:** Richard Eaton; U.S. Customs and Border Protection
-**Predicate:** ordered
-**Object:** recalculate duties without IEEPA tariffs (judicial_order)
-**Temporal:** 2026-03-04
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Richard Eaton; U.S. Customs and Border Protection
+- **Predicate:** ordered
+- **Object:** recalculate duties without IEEPA tariffs (judicial_order)
+- **Temporal:** 2026-03-04
+- **Sources:** src_001
 
 > For goods past the liquidation stage, Eaton ordered the agency to recalculate duties without the invalidated tariffs.
 
-### c_010 — confirmed, single source
-**Subject entities:** U.S. Customs and Border Protection
-**Predicate:** provides
-**Object:** 180-day window to contest duties after liquidation (regulatory_procedure)
-**Temporal:** 2026-03-04
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Customs and Border Protection
+- **Predicate:** provides
+- **Object:** 180-day window to contest duties after liquidation (regulatory_procedure)
+- **Temporal:** 2026-03-04
+- **Sources:** src_001
 
 > Importers have 180 days after goods are liquidated through U.S. Customs to formally contest duties; after that window closes, the liquidation is legally final.
 
-### c_011 — confirmed, single source
-**Subject entities:** U.S. Court of Appeals for the Federal Circuit; Trump administration
-**Predicate:** rejected
-**Object:** administration's bid to slow refund process (judicial_ruling)
-**Temporal:** 2026-03-02
-**Source IDs:** src_001
+### c_011
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Court of Appeals for the Federal Circuit; Trump administration
+- **Predicate:** rejected
+- **Object:** administration's bid to slow refund process (judicial_ruling)
+- **Temporal:** 2026-03-02
+- **Sources:** src_001
 
 > On Monday, the U.S. Court of Appeals for the Federal Circuit rejected the Trump administration's attempt to slow the refund process.
 
-### c_012 — confirmed, single source
-**Subject entities:** U.S. Court of Appeals for the Federal Circuit; U.S. Court of International Trade
-**Predicate:** transferred
-**Object:** refund process to trade court (procedural_action)
-**Temporal:** 2026-03-02
-**Source IDs:** src_001
+### c_012
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Court of Appeals for the Federal Circuit; U.S. Court of International Trade
+- **Predicate:** transferred
+- **Object:** refund process to trade court (procedural_action)
+- **Temporal:** 2026-03-02
+- **Sources:** src_001
 
 > The U.S. Court of Appeals for the Federal Circuit sent the refund matter to the New York trade court to sort out.
 
-### c_013 — attributed, single source
-**Subject entities:** Ryan Majerus
-**Predicate:** said
-**Object:** expects government to appeal or seek stay (expert_prediction)
-**Temporal:** 2026-03-04
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ryan Majerus
+- **Predicate:** said
+- **Object:** expects government to appeal or seek stay (expert_prediction)
+- **Temporal:** 2026-03-04
+- **Sources:** src_001
 
 > Trade lawyer Ryan Majerus, a partner at King & Spalding and a former U.S. trade official, said he expects the government to appeal or 'seek a stay to buy more time for U.S. Customs to comply.'
 
-### c_014 — attributed, single source
-**Subject entities:** Alexis Early; U.S. Customs and Border Protection
-**Predicate:** said
-**Object:** CBP system not designed for mass refund (expert_assessment)
-**Temporal:** 2026-03-04
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Alexis Early; U.S. Customs and Border Protection
+- **Predicate:** said
+- **Object:** CBP system not designed for mass refund (expert_assessment)
+- **Temporal:** 2026-03-04
+- **Sources:** src_001
 
 > Customs and Border Protection's system was 'not designed for a mass refund,' according to trade lawyer Alexis Early, a partner at Bryan Cave Leighton Paisner.
 
-### c_015 — attributed, single source
-**Subject entities:** Barry Appleton; New York Law School
-**Predicate:** said
-**Object:** ruling benefits importers and consumers (expert_assessment)
-**Temporal:** 2026-03-04
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Barry Appleton; New York Law School
+- **Predicate:** said
+- **Object:** ruling benefits importers and consumers (expert_assessment)
+- **Temporal:** 2026-03-04
+- **Sources:** src_001
 
 > Barry Appleton, a law professor and co-director of New York Law School's Center for International Law, said the ruling would benefit importers and consumers who paid the tariffs.
 
@@ -259,10 +282,5 @@ Barry Appleton, a law professor and co-director of New York Law School's Center 
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Paul Wiseman
 **Publication date:** 2026-03-04
-**Access date:** 2026-03-04
 **Title:** Judge rules companies are entitled to refunds for Trump tariffs overturned by the Supreme Court
 **URL:** https://apnews.com/article/trump-tariff-refunds-09cd60a170d01d8d62739ab13086ff9e
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

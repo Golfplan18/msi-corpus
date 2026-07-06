@@ -20,41 +20,42 @@ primary_themes:
 - immigration enforcement
 - cost of living
 topic_tags:
-  - "crime, law and justice"
-  - "economy, business and finance"
-  - election
-  - "law enforcement"
-  - "political process"
-  - politics
-storyline_nexus: []
+- economy
+- human migration
+- politics
+- government policy
+storyline_nexus:
+- us-economic-volatility
 geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.7
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:01:45Z'
+  intensity: 0.9
+- value: truthfulness
+  intensity: 0.6
+- value: informed_citizenship
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:12:38Z'
 source_cluster_id: cluster_ap_2026-01-16_poll-trump-republicans-immigration-econo
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 15
   hedges:
-    appears: 0
-    alleged: 0
     attributed: 12
+    alleged: 0
+    confirmed: 2
     reported: 1
     contested: 0
-    confirmed: 2
+    appears: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 14
     single_source: 1
+    primary_document: 14
+    one_originating_plus_primary_document: 0
+    primary_plus_secondary: 0
     two_independent: 0
 sources:
   count: 1
@@ -65,53 +66,20 @@ sources:
   highest_reliability_tier: 1
   has_originating: true
   has_primary_document: false
-figures:
-- source: fred
-  series_id: MICH
-  transformation: raw
-  as_of: '2026-01-16'
-  caption: University of Michigan 1-year-ahead inflation expectations stood at 4.2% in January 2026, according to FRED — a level consistent with the persistent cost-of-living anxiety Republican respondents described in the AP-NORC poll.
 figures_aggregate:
-  count: 1
-  series_ids:
-  - MICH
-  sources:
-  - fred
-cross_article_links:
-- slug: 2026-01-07-trump-immigration-policies-lower-fertility-to-slow-us-population-growth-cbo-says
-  relation: related
-  strength: 0.8063
-  confidence: medium
-- slug: 2026-01-13-trump-visits-dearborn-ford-plant-defends-tariffs-as-voters-worry-about-rising-pr
-  relation: related
-  strength: 0.7672
-  confidence: medium
-- slug: 2026-01-13-hungary-sets-april-12-election-date-as-orb-n-faces-toughest-challenge-in-16-year
-  relation: related
-  strength: 0.7442
-  confidence: medium
-- slug: 2026-01-09-u-s-adds-50-000-jobs-in-december-2025-posts-weakest-hiring-since-pandemic
-  relation: related
-  strength: 0.7343
-  confidence: medium
-- slug: 2026-01-10-trump-calls-for-10-credit-card-interest-rate-cap-banks-push-back
-  relation: related
-  strength: 0.7158
-  confidence: medium
-- slug: 2026-01-08-house-passes-aca-subsidy-extension-230-196-as-17-republicans-defy-gop-leadership
-  relation: related
-  strength: 0.7228
-  confidence: medium
-- slug: 2026-01-04-us-economy-grew-in-2025-but-hiring-lagged-as-tariffs-and-ai-curbed-job-gains
-  relation: related
-  strength: 0.7447
-  confidence: medium
-- slug: 2026-01-08-weekly-jobless-claims-rise-to-208-000-as-labor-market-momentum-slows
-  relation: related
-  strength: 0.7198
-  confidence: medium
+  count: 0
+  series_ids: []
+  sources: []
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- Nearly a year into President Donald Trump''s second term, Republican voters express strong support for his immigration enforcement but say his economic performance — particularly on the cost of living — has fallen well short of expectations, according to an Associated Press-NORC Center for Public Affairs Research poll released Thursday.
+- The survey reveals a gap between what Republican voters say they wanted from Trump's second term — lower prices, more jobs, reduced health care costs — and what they say they are experiencing.
+- Broad partisan loyalty keeps overall job approval at about eight in ten among Republicans even as personal economic assessments lag the country-level optimism Trump's base otherwise expresses.
 
 The survey reveals a gap between what Republican voters say they wanted from Trump's second term — lower prices, more jobs, reduced health care costs — and what they say they are experiencing. Broad partisan loyalty keeps overall job approval at about eight in ten among Republicans even as personal economic assessments lag the country-level optimism Trump's base otherwise expresses.
 
@@ -163,138 +131,168 @@ Phyllis Gilpin, 62, a Republican from Booneville, Missouri, praised Trump's atte
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** AP-NORC Center for Public Affairs Research
-**Predicate:** conducted_poll
-**Object:** 1,203 adults (survey_sample)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** AP-NORC Center for Public Affairs Research
+- **Predicate:** conducted_poll
+- **Object:** 1,203 adults (survey_sample)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > An AP-NORC poll of 1,203 adults was conducted Jan. 8–11, 2026, using NORC's probability-based AmeriSpeak Panel.
 
-### c_002 — attributed, primary document
-**Subject entities:** Donald Trump; U.S. Republican Party
-**Predicate:** approved_economic_performance
-**Object:** 16% (poll_result)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Donald Trump; U.S. Republican Party
+- **Predicate:** approved_economic_performance
+- **Object:** 16% (poll_result)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > Only 16% of Republicans say Trump has helped 'a lot' in addressing the cost of living in his second term.
 
-### c_003 — attributed, primary document
-**Subject entities:** Donald Trump; U.S. Republican Party
-**Predicate:** approved_economic_performance
-**Object:** 49% (poll_result)
-**Temporal:** 2024-04
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Donald Trump; U.S. Republican Party
+- **Predicate:** approved_economic_performance
+- **Object:** 49% (poll_result)
+- **Temporal:** 2024-04
+- **Sources:** src_001
 
 > In an April 2024 AP-NORC poll, 49% of Republicans said Trump helped 'a lot' on cost of living during his first term.
 
-### c_004 — attributed, primary document
-**Subject entities:** Donald Trump; U.S. Republican Party
-**Predicate:** approved_economic_performance
-**Object:** ~40% second term vs 79% first term (poll_comparison)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Donald Trump; U.S. Republican Party
+- **Predicate:** approved_economic_performance
+- **Object:** ~40% second term vs 79% first term (poll_comparison)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > About four in ten Republicans say Trump has helped address cost of living at least 'a little' in his second term, compared with 79% who said so about his first term.
 
-### c_005 — attributed, primary document
-**Subject entities:** Donald Trump; U.S. Republican Party
-**Predicate:** approved_job_creation
-**Object:** >50% second term vs 85% first term (poll_comparison)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Donald Trump; U.S. Republican Party
+- **Predicate:** approved_job_creation
+- **Object:** >50% second term vs 85% first term (poll_comparison)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > Just over half of Republicans say Trump has helped create jobs in his second term; 85% said the same about his first term.
 
-### c_006 — attributed, primary document
-**Subject entities:** Donald Trump; U.S. Republican Party
-**Predicate:** approved_job_creation_strongly
-**Object:** 26% second term vs 62% first term (poll_comparison)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Donald Trump; U.S. Republican Party
+- **Predicate:** approved_job_creation_strongly
+- **Object:** 26% second term vs 62% first term (poll_comparison)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > Only 26% of Republicans say Trump has helped 'a lot' on job creation in his second term, down from 62% who said the same about his first term.
 
-### c_007 — attributed, primary document
-**Subject entities:** Donald Trump; U.S. Republican Party
-**Predicate:** approved_healthcare_performance
-**Object:** ~33% second term vs 53% first term (poll_comparison)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Donald Trump; U.S. Republican Party
+- **Predicate:** approved_healthcare_performance
+- **Object:** ~33% second term vs 53% first term (poll_comparison)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > About one-third of Republicans say Trump has helped address health care costs at least 'a little' in his second term, compared with 53% in the April 2024 poll.
 
-### c_008 — reported, single source
-**Subject entities:** Federal health care subsidies
-**Predicate:** expired
-**Object:** Jan. 1, 2026 (date)
-**Temporal:** 2026-01-01
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Federal health care subsidies
+- **Predicate:** expired
+- **Object:** Jan. 1, 2026 (date)
+- **Temporal:** 2026-01-01
+- **Sources:** src_001
 
 > Federal health care subsidies for more than 20 million Americans expired on Jan. 1, 2026, with the AP reporting health care costs doubled or tripled for many affected families.
 
-### c_009 — attributed, primary document
-**Subject entities:** Donald Trump
-**Predicate:** overall_approval_rating
-**Object:** ~80% Republicans, ~40% all adults (poll_result)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Donald Trump
+- **Predicate:** overall_approval_rating
+- **Object:** ~80% Republicans, ~40% all adults (poll_result)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > About eight in ten Republicans approve of Trump's overall job performance; about four in ten adults overall approve.
 
-### c_010 — attributed, primary document
-**Subject entities:** Donald Trump; U.S. Republican Party
-**Predicate:** approved_immigration_performance
-**Object:** ~80% (poll_result)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Donald Trump; U.S. Republican Party
+- **Predicate:** approved_immigration_performance
+- **Object:** ~80% (poll_result)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > About eight in ten Republicans say Trump has helped at least 'a little' on immigration and border security in his second term.
 
-### c_011 — attributed, primary document
-**Subject entities:** Donald Trump; U.S. Republican Party
-**Predicate:** immigration_approval_trend
-**Object:** 88% to 76% (trend)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Donald Trump; U.S. Republican Party
+- **Predicate:** immigration_approval_trend
+- **Object:** 88% to 76% (trend)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > Trump's immigration approval among Republicans fell from 88% in March 2025 to 76% in the January 2026 poll.
 
-### c_012 — attributed, primary document
-**Subject entities:** Donald Trump
-**Predicate:** immigration_approval_all_adults
-**Object:** 38% approve, 61% disapprove (poll_result)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Donald Trump
+- **Predicate:** immigration_approval_all_adults
+- **Object:** 38% approve, 61% disapprove (poll_result)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > Overall, 38% of U.S. adults approve of Trump's leadership on immigration; 61% disapprove.
 
-### c_013 — attributed, primary document
-**Subject entities:** Donald Trump; U.S. Republican Party
-**Predicate:** deportation_balance_assessment
-**Object:** majority right balance, ~33% not far enough (poll_result)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Donald Trump; U.S. Republican Party
+- **Predicate:** deportation_balance_assessment
+- **Object:** majority right balance, ~33% not far enough (poll_result)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > Most Republicans say Trump has struck the right balance on deportations; about one-third think he hasn't gone far enough.
 
-### c_014 — attributed, primary document
-**Subject entities:** U.S. Republican Party
-**Predicate:** country_vs_personal_assessment
-**Object:** ~67% country better, ~50% personal better (poll_result)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Republican Party
+- **Predicate:** country_vs_personal_assessment
+- **Object:** ~67% country better, ~50% personal better (poll_result)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > About two-thirds of Republicans say the country is 'much' or 'somewhat' better off since Trump took office; only about half say the same about themselves and their family.
 
-### c_015 — confirmed, primary document
-**Subject entities:** AP-NORC Center for Public Affairs Research
-**Predicate:** survey_methodology
-**Object:** ±3.9 pp overall, ±6 pp Republicans (n=404) (methodology)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_015
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** AP-NORC Center for Public Affairs Research
+- **Predicate:** survey_methodology
+- **Object:** ±3.9 pp overall, ±6 pp Republicans (n=404) (methodology)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > The poll's margin of sampling error is plus or minus 3.9 percentage points for adults overall and plus or minus 6 percentage points for the 404 Republican respondents.
 
@@ -303,10 +301,5 @@ Phyllis Gilpin, 62, a Republican from Booneville, Missouri, praised Trump's atte
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Steve Peoples
 **Publication date:** 2026-01-16
-**Access date:** 2026-01-16
 **Title:** What Republicans think of Trump's first year: AP-NORC poll
 **URL:** https://apnews.com/article/poll-trump-republicans-immigration-economy-inflation-costs-634472fc2ee3b4477a7be997bbd0c69e
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

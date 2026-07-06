@@ -18,40 +18,42 @@ primary_themes:
 - 401(k) contributions
 - SALT deduction
 topic_tags:
-  - politics
-  - government
-  - "economy, business and finance"
-  - banking
-  - "arts, culture, entertainment and media"
-  - "arts and entertainment"
-storyline_nexus: []
+- tax
+- wage and pension
+- government policy
+- economy, business and finance
+- financial and business service
+storyline_nexus:
+- aca-medicaid-healthcare-crisis
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship
-  intensity: 0.8
-framework_version: 1.1.0
-generation_timestamp: '2026-05-16T18:08:13Z'
+  intensity: 0.9
+- value: truthfulness
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-22T23:34:42Z'
 source_cluster_id: cluster_ap_2026-01-05_retirement-financial-personal-finance-mo
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 9
   hedges:
-    appears: 0
     alleged: 0
+    confirmed: 0
+    appears: 0
     attributed: 9
     reported: 0
     contested: 0
-    confirmed: 0
   corroboration:
     primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
-    primary_document: 0
     single_source: 9
     two_independent: 0
+    primary_document: 0
 sources:
   count: 1
   outlets:
@@ -72,6 +74,13 @@ image:
 cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- Three significant rule changes affecting U.
+- The changes flow from two pieces of legislation: the SECURE 2.
+- Article details provided in full text.
 
 Three significant rule changes affecting U.S. retirement savers took effect in 2026, altering how high-income 401(k) participants must structure catch-up contributions, how much state and local tax can be deducted from federal returns, and what new deduction is available to Americans 65 and older, according to an analysis by Christine Benz, director of personal finance and retirement planning at Morningstar, distributed through the Associated Press.
 
@@ -107,87 +116,100 @@ Early retirees who are not yet receiving Social Security benefits or subject to 
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Predicate:** requires
-**Object:** Roth-only catch-up for high-income 401(k) participants over 50 (policy_requirement)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Predicate:** requires
+- **Object:** Roth-only catch-up for high-income 401(k) participants over 50 (policy_requirement)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Starting in 2026, high-income earners over 50 participating in 401(k) or similar company retirement plans must make catch-up contributions to the Roth option rather than traditional tax-deferred accounts.
 
-### c_002 — attributed, single source
-**Predicate:** defines
-**Object:** $150,000 FICA income threshold (statutory_threshold)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Predicate:** defines
+- **Object:** $150,000 FICA income threshold (statutory_threshold)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > High-income is defined as $150,000 or more in FICA income in the prior year.
 
-### c_003 — attributed, single source
-**Predicate:** sets
-**Object:** $24,500 base plus $8,000 catch-up equals $32,500 total (contribution_limit)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Predicate:** sets
+- **Object:** $24,500 base plus $8,000 catch-up equals $32,500 total (contribution_limit)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > For 2026, 401(k) investors under 50 can contribute $24,500, with an $8,000 catch-up for those over 50, totaling $32,500.
 
-### c_004 — attributed, single source
-**Predicate:** allows
-**Object:** $11,250 super-catch-up for ages 60 to 63 (contribution_limit)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Predicate:** allows
+- **Object:** $11,250 super-catch-up for ages 60 to 63 (contribution_limit)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Workers ages 60 to 63 can make super-catch-up contributions of $11,250 on top of the $24,500 base.
 
-### c_005 — attributed, single source
-**Predicate:** sets
-**Object:** $8,600 over-50 IRA limit; $7,500 under-50 IRA limit (contribution_limit)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Predicate:** sets
+- **Object:** $8,600 over-50 IRA limit; $7,500 under-50 IRA limit (contribution_limit)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > The 2026 IRA contribution limit is $8,600 for people over 50 and $7,500 for those under 50, according to Morningstar.
 
-### c_006 — attributed, single source
-**Predicate:** raised
-**Object:** SALT cap from $10,000 to $40,000 through 2029 (tax_deduction_limit)
-**Temporal:** 2025-2030
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Predicate:** raised
+- **Object:** SALT cap from $10,000 to $40,000 through 2029 (tax_deduction_limit)
+- **Temporal:** 2025-2030
+- **Sources:** src_001
 
 > The One Big Beautiful Bill Act raised the SALT deduction cap from $10,000 to $40,000 beginning in 2025, with the cap reverting to $10,000 in 2030.
 
-### c_007 — attributed, single source
-**Predicate:** phases_out
-**Object:** SALT deduction for MAGI above $500,000 (income_threshold)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Predicate:** phases_out
+- **Object:** SALT deduction for MAGI above $500,000 (income_threshold)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > The higher SALT deduction phases out for taxpayers with modified adjusted gross incomes above $500,000.
 
-### c_008 — attributed, single source
-**Predicate:** creates
-**Object:** $6,000 senior deduction through 2028 (tax_deduction)
-**Temporal:** 2026-2028
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Predicate:** creates
+- **Object:** $6,000 senior deduction through 2028 (tax_deduction)
+- **Temporal:** 2026-2028
+- **Sources:** src_001
 
 > A new $6,000 deduction for Americans 65 and older is available through 2028 whether they itemize or not, doubling to $12,000 for married couples filing jointly when both spouses are 65 or older.
 
-### c_009 — attributed, single source
-**Predicate:** phases_out
-**Object:** senior deduction at specified MAGI thresholds (income_threshold)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Predicate:** phases_out
+- **Object:** senior deduction at specified MAGI thresholds (income_threshold)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > The senior deduction phases out for single filers with MAGI above $75,000 and married couples filing jointly with MAGI above $150,000, and disappears entirely for singles above $175,000 MAGI and married couples above $250,000 MAGI.
 
 ## Sources
 
 ### src_001 — Associated Press, wire, Tier 1, originating
-**Author:** Christine Benz of Morningstar
+**Author:** Christine Benz Of Morningstar
 **Publication date:** 2026-01-06
-**Access date:** 2026-01-06
 **Title:** 3 Big Changes for Retirement Planning this year
 **URL:** https://apnews.com/article/retirement-financial-personal-finance-morningstar-df08eba9db5bdd0acdc17eba36d3acea
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

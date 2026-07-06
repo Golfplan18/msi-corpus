@@ -1,6 +1,5 @@
 ---
 headline: Wyoming Supreme Court strikes down abortion bans, including first US pill ban
-slug: 2026-01-06-wyoming-supreme-court-strikes-down-abortion-bans-including-first-us-pill-ban
 publish_date: '2026-01-06'
 lede: Wyoming's Supreme Court ruled Tuesday that two state laws barring abortion violate the state constitution, striking down what would have been the country's only explicit ban on abortion pills and preserving legal access to abortion in one of the nation's most conservative states. The 4-1 decision, issued by justices all appointed by Republican governors, upheld every prior lower court ruling in the case.
 nut_graf: The ruling rests on a 2012 state constitutional amendment guaranteeing competent adults the right to make their own health care decisions — a provision voters approved in response to the federal Affordable Care Act, not to address abortion. Gov. Mark Gordon immediately called on the state legislature to pursue a constitutional amendment banning abortion that would go before voters.
@@ -16,39 +15,41 @@ primary_themes:
 - reproductive health care
 - judicial review
 topic_tags:
-  - health
-storyline_nexus: []
-geographic_location: Wyoming, United States
+- civil rights
+- fundamental rights
+- judiciary
+- government policy
+storyline_nexus:
+- abortion-rights-battles
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
-  intensity: 0.85
-- value: informed_citizenship
-  intensity: 0.75
+  intensity: 0.9
 - value: accountability_of_power
   intensity: 0.6
-framework_version: 1.1.0
-generation_timestamp: '2026-05-16T18:07:23Z'
+framework_version: 1.3.0
+generation_timestamp: '2026-05-22T23:56:23Z'
 source_cluster_id: cluster_ap_2026-01-05_abortion-wyoming-ruling-legal-a8396f0ed4
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 15
   hedges:
-    appears: 0
     alleged: 0
-    attributed: 3
-    reported: 2
+    appears: 0
     contested: 0
     confirmed: 10
+    reported: 2
+    attributed: 3
   corroboration:
     primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
-    primary_document: 2
     single_source: 13
     two_independent: 0
+    primary_document: 2
 sources:
   count: 1
   outlets:
@@ -66,17 +67,18 @@ image:
   url: /articles/2026-01-06-wyoming-supreme-court-strikes-down-abortion-bans-including-first-us-pill-ban.png
   alt: 'Illustration accompanying article: Wyoming Supreme Court strikes down abortion bans, including first US pill'
   source: ai_generated
-cross_article_links:
-- slug: 2025-12-31-appeals-court-lets-medicaid-cuts-to-planned-parenthood-stand-during-suit
-  relation: related
-  strength: 0.8417
-  confidence: medium
-- slug: 2025-12-31-appeals-court-lets-medicaid-funding-cuts-to-planned-parenthood-stand-while-state
-  relation: related
-  strength: 0.8371
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Wyoming's Supreme Court ruled Tuesday that two state laws barring abortion violate the state constitution, striking down what would have been the country's only explicit ban on abortion pills and preserving legal access to abortion in one of the nation's most conservative states.
+- The ruling rests on a 2012 state constitutional amendment guaranteeing competent adults the right to make their own health care decisions — a provision voters approved in response to the federal Affordable Care Act, not to address abortion.
+- The case was brought by Wellspring Health Access in Casper — the state's only abortion clinic — the abortion access advocacy group Chelsea's Fund, and four women, including two obstetricians.
+- The justices acknowledged the 2012 amendment was not written with abortion in mind, but said it is not their role to "add words" to the state constitution.
 
 Wyoming's Supreme Court ruled Tuesday that two state laws barring abortion violate the state constitution, striking down what would have been the country's only explicit ban on abortion pills and preserving legal access to abortion in one of the nation's most conservative states. The 4-1 decision, issued by justices all appointed by Republican governors, upheld every prior lower court ruling in the case.
 
@@ -104,137 +106,167 @@ Thirteen states currently ban abortion completely, following a November ruling i
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Wyoming Supreme Court
-**Predicate:** ruled
-**Object:** two abortion laws unconstitutional (judicial_decision)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Wyoming Supreme Court
+- **Predicate:** ruled
+- **Object:** two abortion laws unconstitutional (judicial_decision)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > Wyoming's Supreme Court ruled 4-1 on Tuesday that two state abortion laws violate the state constitution.
 
-### c_002 — confirmed, single source
-**Subject entities:** Wyoming legislature
-**Predicate:** enacted
-**Object:** explicit abortion pill ban (law)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Wyoming legislature
+- **Predicate:** enacted
+- **Object:** explicit abortion pill ban (law)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > One of the overturned laws would have made Wyoming the only state to explicitly ban abortion pills.
 
-### c_003 — confirmed, single source
-**Subject entities:** Wyoming Supreme Court
-**Predicate:** appointed_by
-**Object:** Republican governors (political_appointment)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Wyoming Supreme Court
+- **Predicate:** appointed_by
+- **Object:** Republican governors (political_appointment)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > All justices who ruled were appointed by Republican governors.
 
-### c_004 — confirmed, single source
-**Subject entities:** Wellspring Health Access; Chelsea's Fund
-**Predicate:** filed_suit
-**Object:** challenge to Wyoming abortion bans (legal_action)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Wellspring Health Access; Chelsea's Fund
+- **Predicate:** filed_suit
+- **Object:** challenge to Wyoming abortion bans (legal_action)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > The lawsuit was brought by Wellspring Health Access in Casper, Chelsea's Fund, and four women including two obstetricians.
 
-### c_005 — confirmed, single source
-**Subject entities:** Wyoming voters
-**Predicate:** approved
-**Object:** health care rights amendment (constitutional_amendment)
-**Temporal:** 2012
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Wyoming voters
+- **Predicate:** approved
+- **Object:** health care rights amendment (constitutional_amendment)
+- **Temporal:** 2012
+- **Sources:** src_001
 
 > Wyoming voters approved a constitutional amendment in 2012 ensuring competent adults have the right to make their own health care decisions.
 
-### c_006 — attributed, single source
-**Subject entities:** Wyoming voters; Affordable Care Act
-**Predicate:** passed_in_response_to
-**Object:** Affordable Care Act (federal_law)
-**Temporal:** 2012
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Wyoming voters; Affordable Care Act
+- **Predicate:** passed_in_response_to
+- **Object:** Affordable Care Act (federal_law)
+- **Temporal:** 2012
+- **Sources:** src_001
 
 > The 2012 constitutional amendment was approved in response to the federal Affordable Care Act.
 
-### c_007 — confirmed, primary document
-**Subject entities:** Wyoming Supreme Court
-**Predicate:** stated
-**Object:** not their role to add words to constitution (judicial_reasoning)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Wyoming Supreme Court
+- **Predicate:** stated
+- **Object:** not their role to add words to constitution (judicial_reasoning)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > The justices said it is not their job to 'add words' to the state constitution, while noting lawmakers could seek a constitutional amendment to address abortion more clearly.
 
-### c_008 — attributed, single source
-**Subject entities:** Julie Burkhart; Wellspring Health Access
-**Predicate:** said
-**Object:** abortion upheld as essential health care (statement)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Julie Burkhart; Wellspring Health Access
+- **Predicate:** said
+- **Object:** abortion upheld as essential health care (statement)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > Julie Burkhart, president of Wellspring Health Access, said the ruling upholds abortion as essential health care that should not be subject to government interference.
 
-### c_009 — attributed, single source
-**Subject entities:** Mark Gordon
-**Predicate:** said
-**Object:** disappointment; call for constitutional amendment (statement)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Mark Gordon
+- **Predicate:** said
+- **Object:** disappointment; call for constitutional amendment (statement)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > Gov. Mark Gordon said the ruling disappointed him and called on state lawmakers to pass a constitutional amendment banning abortion for voters to consider this fall.
 
-### c_010 — confirmed, single source
-**Subject entities:** Wyoming legislature
-**Predicate:** enacted
-**Object:** near-total abortion ban with limited exceptions (law)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Wyoming legislature
+- **Predicate:** enacted
+- **Object:** near-total abortion ban with limited exceptions (law)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > One of the laws struck down sought to ban abortion except to protect a pregnant woman's life or in cases involving rape or incest.
 
-### c_011 — reported, single source
-**Subject entities:** Wyoming legislature
-**Predicate:** requires
-**Object:** two-thirds vote for nonbudget constitutional amendment (procedural_requirement)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Wyoming legislature
+- **Predicate:** requires
+- **Object:** two-thirds vote for nonbudget constitutional amendment (procedural_requirement)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > A constitutional amendment banning abortion would require a two-thirds vote to be introduced as a nonbudget matter in the Wyoming legislative session.
 
-### c_012 — confirmed, single source
-**Subject entities:** Wellspring Health Access
-**Predicate:** opened
-**Object:** Casper abortion clinic (facility)
-**Temporal:** 2023
-**Source IDs:** src_001
+### c_012
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Wellspring Health Access
+- **Predicate:** opened
+- **Object:** Casper abortion clinic (facility)
+- **Temporal:** 2023
+- **Sources:** src_001
 
 > Wellspring Health Access opened in Casper in 2023 as Wyoming's only abortion clinic, nearly a year later than planned after an arson attack.
 
-### c_013 — confirmed, single source
-**Predicate:** sentenced
-**Object:** five-year prison sentence for arson (criminal_sentence)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_013
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Predicate:** sentenced
+- **Object:** five-year prison sentence for arson (criminal_sentence)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > A woman who admitted to the arson attack on Wellspring Health Access pleaded guilty and has been serving a five-year prison sentence.
 
-### c_014 — reported, single source
-**Subject entities:** North Dakota Supreme Court
-**Predicate:** ban_abortion
-**Object:** thirteen states with total abortion bans (count)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_014
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** North Dakota Supreme Court
+- **Predicate:** ban_abortion
+- **Object:** thirteen states with total abortion bans (count)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > Thirteen states currently ban abortion completely after the North Dakota Supreme Court upheld that state's abortion ban in November.
 
-### c_015 — confirmed, single source
-**Subject entities:** Melissa Owens
-**Predicate:** struck_down
-**Object:** Wyoming abortion bans as unconstitutional (judicial_decision)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_015
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Melissa Owens
+- **Predicate:** struck_down
+- **Object:** Wyoming abortion bans as unconstitutional (judicial_decision)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > Teton County District Judge Melissa Owens blocked both abortion laws while the lawsuit proceeded and struck them down as unconstitutional in 2024.
 
@@ -243,10 +275,5 @@ Thirteen states currently ban abortion completely, following a November ruling i
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Mead Gruver
 **Publication date:** 2026-01-06
-**Access date:** 2026-01-06
 **Title:** Wyoming Supreme Court keeps abortion legal, strikes down pill ban
 **URL:** https://apnews.com/article/abortion-wyoming-ruling-legal-a8396f0ed4a3229eed5e9fea575be63e
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

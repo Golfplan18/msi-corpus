@@ -20,7 +20,8 @@ topic_tags:
   - "science and technology"
   - "space programme"
   - "scientific research"
-storyline_nexus: []
+storyline_nexus:
+- nasa-artemis-moon-mission
 geographic_location: International
 floor_values_engaged:
 - value: informed_citizenship
@@ -86,8 +87,6 @@ The blue supergiant star continuously feeds material into the black hole, creati
 The techniques developed in this research open new possibilities for studying black hole systems. They can now be applied to other black holes, potentially revealing how different systems produce and channel energy through jets. Understanding these mechanisms may help scientists comprehend how black holes influence their surroundings and contribute to galaxy evolution.
 
 The jets from black holes play a significant role in shaping galaxies and regulating star formation on cosmic scales. The energy and material from jets can heat gas surrounding galaxies and limit how efficiently new stars form. With direct measurements of jet power now possible, astronomers can develop more detailed models of how black holes affect their galactic environments.
-
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
 
 ## Atomic claims
 
@@ -212,7 +211,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-05-17
 **Title:** Astrónomos miden por primera vez la asombrosa potencia y velocidad de los chorros de agujeros negros
 **URL:** https://apnews.com/article/agujero-negro-medicion-prabu-99617e0ffd674110e189fdc64c188143
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

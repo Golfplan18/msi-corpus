@@ -108,8 +108,6 @@ In Afghanistan, the snowstorm blocked roads linking Kabul, the capital, to the c
 
 In February 2025, heavy snowfall and rain killed 36 people in Afghanistan across different parts of the country.
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
 ### c_001 — attributed, single source
@@ -246,7 +244,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-01-23
 **Title:** Avalanche in Pakistan, snowstorms in Afghanistan kill at least 20
 **URL:** https://apnews.com/article/pakistan-afghanistan-avalanche-snowfall-killed-0d531f937810beabb81af97aded559f5
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -23,9 +23,7 @@ topic_tags:
   - politics
   - "international relations"
 storyline_nexus:
-  - gaza-conflict
-  - iran-war
-  - us-administration-2026
+- gaza-israel-war
 geographic_location: Middle East, International
 floor_values_engaged:
 - value: accountability_of_power
@@ -121,8 +119,6 @@ The U.S. has moved significant military assets into position to support potentia
 Israeli Prime Minister Benjamin Netanyahu warned last week that if Iran attacks Israel, the country will face "a response that they cannot even imagine."
 
 The current tensions echo recent history. Israel struck Iranian military targets last year during indirect U.S.-Iran talks, igniting a 12-day war. The United States intervened in that conflict by bombing Iranian nuclear sites.
-
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
 
 ## Atomic claims
 
@@ -240,7 +236,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-02-22
 **Title:** Outrage grows over US ambassador's remarks on Israel and the Middle East
 **URL:** https://apnews.com/article/israel-gaza-hamas-war-news-02-22-2026-17cc3abc5002151a81b55cb6acd35463
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

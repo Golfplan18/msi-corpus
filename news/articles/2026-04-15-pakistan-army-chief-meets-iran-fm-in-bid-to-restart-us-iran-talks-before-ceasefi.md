@@ -29,7 +29,7 @@ topic_tags:
   - environment
   - fire
 storyline_nexus:
-  - iran-war
+- iran-nuclear-negotiations
 geographic_location: Tehran, Iran; Islamabad, Pakistan; Washington, D.C.; southern Lebanon
 floor_values_engaged:
 - value: informed_citizenship
@@ -319,7 +319,3 @@ The fighting continued after Israeli and Lebanese officials concluded their firs
 **Access date:** 2026-04-15
 **Title:** Pakistani delegation meets with Iranian officials in move to ease tensions
 **URL:** https://apnews.com/article/us-iran-war-lebanon-israel-talks-hormuz-15-april-2026-f1b02d16f81d6fdcf68c0ed16d7a719d
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

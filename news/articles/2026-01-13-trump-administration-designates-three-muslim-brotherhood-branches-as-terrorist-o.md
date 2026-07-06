@@ -20,39 +20,41 @@ primary_themes:
 - Middle East
 - Muslim Brotherhood
 topic_tags:
-  - politics
-  - "government policy"
-  - "international relations"
-storyline_nexus: []
-geographic_location: United States; Lebanon; Jordan; Egypt
+- terrorism
+- government policy
+- international relations
+- crime, law and justice
+storyline_nexus:
+- trump-foreign-policy-reshaping
+geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship
-  intensity: 0.85
-- value: accountability_of_power
-  intensity: 0.7
-framework_version: 1.1.0
-generation_timestamp: '2026-05-16T00:00:00Z'
+  intensity: 0.9
+- value: human_life_and_dignity
+  intensity: 0.3
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:43:10Z'
 source_cluster_id: cluster_ap_2026-01-12_muslim-brotherhood-terrorist-organizatio
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 17
   hedges:
     appears: 0
-    alleged: 0
+    contested: 0
     attributed: 8
     reported: 2
-    contested: 0
     confirmed: 7
+    alleged: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 3
-    single_source: 14
     two_independent: 0
+    one_originating_plus_primary_document: 0
+    single_source: 14
+    primary_document: 3
+    primary_plus_secondary: 0
 sources:
   count: 1
   outlets:
@@ -73,6 +75,16 @@ image:
 cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- The Trump administration designated the Lebanese, Jordanian and Egyptian branches of the Muslim Brotherhood as terrorist organizations on January 13, 2026.
+- The State Department designated the Lebanese branch a foreign terrorist organization, making it a criminal offense to provide material support to the group.
+- The Treasury Department listed the Jordanian and Egyptian Brotherhood branches as specially designated global terrorists for providing support to Hamas.
+- Secretary of State Marco Rubio said the designations reflect 'the opening actions of an ongoing, sustained effort to thwart Muslim Brotherhood chapters' violence and destabilization wherever it occurs.'
+- Treasury Secretary Scott Bessent said in a post on X that the Muslim Brotherhood 'has a longstanding record of perpetrating acts of terror.'
 
 The Trump administration on Tuesday designated the Lebanese, Jordanian and Egyptian branches of the Muslim Brotherhood as terrorist organizations, imposing sanctions on each in a move Secretary of State Marco Rubio called the opening of a "sustained effort" to counter the group's activities across the Middle East.
 
@@ -114,156 +126,190 @@ Trump weighed a similar designation during his first term in 2019 but did not ac
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Trump administration; Muslim Brotherhood
-**Predicate:** designated_as_terrorist_organizations
-**Object:** Lebanese, Jordanian, Egyptian branches (named_entities)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Trump administration; Muslim Brotherhood
+- **Predicate:** designated_as_terrorist_organizations
+- **Object:** Lebanese, Jordanian, Egyptian branches (named_entities)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > The Trump administration designated the Lebanese, Jordanian and Egyptian branches of the Muslim Brotherhood as terrorist organizations on January 13, 2026.
 
-### c_002 — confirmed, primary document
-**Subject entities:** U.S. State Department; al-Jamaa al-Islamiya
-**Predicate:** designated
-**Object:** foreign terrorist organization (legal_classification)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. State Department; al-Jamaa al-Islamiya
+- **Predicate:** designated
+- **Object:** foreign terrorist organization (legal_classification)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > The State Department designated the Lebanese branch a foreign terrorist organization, making it a criminal offense to provide material support to the group.
 
-### c_003 — confirmed, primary document
-**Subject entities:** U.S. Department of the Treasury; Muslim Brotherhood
-**Predicate:** listed_as
-**Object:** specially designated global terrorists (legal_classification)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Department of the Treasury; Muslim Brotherhood
+- **Predicate:** listed_as
+- **Object:** specially designated global terrorists (legal_classification)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > The Treasury Department listed the Jordanian and Egyptian Brotherhood branches as specially designated global terrorists for providing support to Hamas.
 
-### c_004 — attributed, single source
-**Subject entities:** Marco Rubio
-**Predicate:** said
-**Object:** opening actions of ongoing sustained effort (quotation)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Marco Rubio
+- **Predicate:** said
+- **Object:** opening actions of ongoing sustained effort (quotation)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Secretary of State Marco Rubio said the designations reflect 'the opening actions of an ongoing, sustained effort to thwart Muslim Brotherhood chapters' violence and destabilization wherever it occurs.'
 
-### c_005 — attributed, single source
-**Subject entities:** Scott Bessent
-**Predicate:** stated
-**Object:** longstanding record of perpetrating acts of terror (quotation)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Scott Bessent
+- **Predicate:** stated
+- **Object:** longstanding record of perpetrating acts of terror (quotation)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Treasury Secretary Scott Bessent said in a post on X that the Muslim Brotherhood 'has a longstanding record of perpetrating acts of terror.'
 
-### c_006 — confirmed, single source
-**Subject entities:** Donald Trump
-**Predicate:** signed
-**Object:** executive order on Muslim Brotherhood sanctions (government_action)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** signed
+- **Object:** executive order on Muslim Brotherhood sanctions (government_action)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Trump signed an executive order directing Rubio and Bessent to determine the most appropriate sanctions framework for the Muslim Brotherhood.
 
-### c_007 — reported, single source
-**Subject entities:** al-Jamaa al-Islamiya
-**Predicate:** launched_rockets
-**Object:** Israel (place)
-**Temporal:** 2023-10
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** al-Jamaa al-Islamiya
+- **Predicate:** launched_rockets
+- **Object:** Israel (place)
+- **Temporal:** 2023-10
+- **Sources:** src_001
 
 > A wing of the Lebanese Brotherhood chapter launched rockets at Israel after Hamas's Oct. 7, 2023, attack, according to Trump's executive order.
 
-### c_008 — attributed, single source
-**Subject entities:** Muslim Brotherhood (Egypt)
-**Predicate:** said
-**Object:** categorically rejects designation (quotation)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Muslim Brotherhood (Egypt)
+- **Predicate:** said
+- **Object:** categorically rejects designation (quotation)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > The Egyptian Muslim Brotherhood said it 'categorically rejects this designation and will pursue all legal avenues to challenge this decision which harms millions of Muslims worldwide.'
 
-### c_009 — attributed, single source
-**Subject entities:** al-Jamaa al-Islamiya
-**Predicate:** said
-**Object:** no legal effect within Lebanon (quotation)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** al-Jamaa al-Islamiya
+- **Predicate:** said
+- **Object:** no legal effect within Lebanon (quotation)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > The Lebanese branch said it is 'a licensed Lebanese political and social entity that operates openly and within the bounds of the law' and that the U.S. decision 'has no legal effect within Lebanon.'
 
-### c_010 — attributed, single source
-**Subject entities:** Muslim Brotherhood
-**Predicate:** stated
-**Object:** renounce violence (organizational_position)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Muslim Brotherhood
+- **Predicate:** stated
+- **Object:** renounce violence (organizational_position)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Muslim Brotherhood leaders have said the organization renounces violence.
 
-### c_011 — attributed, single source
-**Subject entities:** Egypt government
-**Predicate:** said
-**Object:** significant step reflecting extremist ideology (quotation)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Egypt government
+- **Predicate:** said
+- **Object:** significant step reflecting extremist ideology (quotation)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Egypt's Foreign Ministry said the designation is 'a significant step that reflects the extremist ideology of this group and the direct threat it represents for regional and international security and stability.'
 
-### c_012 — confirmed, single source
-**Subject entities:** Muslim Brotherhood
-**Predicate:** founded_and_banned
-**Object:** Egypt, 1928/2013 (historical_fact)
-**Temporal:** 1928
-**Source IDs:** src_001
+### c_012
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Muslim Brotherhood
+- **Predicate:** founded_and_banned
+- **Object:** Egypt, 1928/2013 (historical_fact)
+- **Temporal:** 1928
+- **Sources:** src_001
 
 > The Muslim Brotherhood was founded in Egypt in 1928 and was banned there in 2013.
 
-### c_013 — confirmed, single source
-**Subject entities:** Jordan
-**Predicate:** banned
-**Object:** Muslim Brotherhood (organization)
-**Temporal:** 2025-04
-**Source IDs:** src_001
+### c_013
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Jordan
+- **Predicate:** banned
+- **Object:** Muslim Brotherhood (organization)
+- **Temporal:** 2025-04
+- **Sources:** src_001
 
 > Jordan announced a sweeping ban on the Muslim Brotherhood in April 2025.
 
-### c_014 — attributed, single source
-**Subject entities:** Nathan Brown
-**Predicate:** said
-**Object:** designation pleases UAE, complicates Qatar and Turkey relations (expert_assessment)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Nathan Brown
+- **Predicate:** said
+- **Object:** designation pleases UAE, complicates Qatar and Turkey relations (expert_assessment)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Nathan Brown, a professor of political science and international affairs at George Washington University, said the designations would likely please U.S. allies including the United Arab Emirates but could complicate relations with Qatar and Turkey.
 
-### c_015 — attributed, single source
-**Subject entities:** Nathan Brown
-**Predicate:** said
-**Object:** stronger basis for suspicion in immigration proceedings (quotation)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Nathan Brown
+- **Predicate:** said
+- **Object:** stronger basis for suspicion in immigration proceedings (quotation)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Brown said the designations could give immigration officials 'a stronger basis for suspicion' against Brotherhood members seeking to stay in the U.S. or seeking political asylum.
 
-### c_016 — reported, single source
-**Subject entities:** Donald Trump
-**Predicate:** considered_but_declined
-**Object:** Muslim Brotherhood terrorist designation, 2019 (government_action)
-**Temporal:** 2019
-**Source IDs:** src_001
+### c_016
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** considered_but_declined
+- **Object:** Muslim Brotherhood terrorist designation, 2019 (government_action)
+- **Temporal:** 2019
+- **Sources:** src_001
 
 > Trump weighed a similar designation during his first term in 2019 but did not act.
 
-### c_017 — confirmed, single source
-**Subject entities:** Florida; Texas
-**Predicate:** designated
-**Object:** Muslim Brotherhood as terrorist organization (legal_classification)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_017
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Florida; Texas
+- **Predicate:** designated
+- **Object:** Muslim Brotherhood as terrorist organization (legal_classification)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Florida and Texas each designated the Muslim Brotherhood a terrorist organization before the federal action.
 
@@ -272,10 +318,5 @@ Trump weighed a similar designation during his first term in 2019 but did not ac
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Fatima Hussein
 **Publication date:** 2026-01-13
-**Access date:** 2026-01-13
 **Title:** US labels 3 Muslim Brotherhood branches as terror organizations
 **URL:** https://apnews.com/article/muslim-brotherhood-terrorist-organizations-trump-sanctions-d862fcc5b04558f9af8d648dd4e9a0d1
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

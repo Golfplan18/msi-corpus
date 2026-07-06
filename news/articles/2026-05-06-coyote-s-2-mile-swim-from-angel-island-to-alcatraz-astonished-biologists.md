@@ -1,0 +1,78 @@
+---
+headline: Coyote's 2-mile swim from Angel Island to Alcatraz astonished biologists
+publish_date: '2026-05-06'
+lede: A male coyote swam 2 miles from Angel Island to Alcatraz Island across the cold, swift currents of San Francisco Bay, stunning National Park Service biologists who had assumed the animal made a shorter crossing from the city.
+nut_graf: The swim underscores the resilience and adaptability of coyotes, which continue to expand their range into unexpected urban and insular habitats, wildlife experts said.
+primary_entities:
+- National Park Service
+- Bill Merkle
+- Project Coyote
+- Camilla Fox
+- Rebecca Husson
+- Angel Island
+- Alcatraz Island
+primary_themes:
+- wildlife resilience
+- urban ecology
+- animal behavior
+topic_tags:
+- natural science
+- scientific research
+storyline_nexus: []
+floor_values_engaged: []
+framework_version: 1.3.0
+generation_timestamp: '2026-05-29T09:20:52Z'
+gdelt_event_ids: []
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
+license: https://creativecommons.org/publicdomain/zero/1.0/
+ai_generated: true
+sources:
+  count: 1
+  outlets:
+  - Associated Press
+  outlet_classes:
+  - wire
+  highest_reliability_tier: 1
+  has_originating: true
+  has_primary_document: false
+figures_aggregate:
+  count: 0
+  series_ids: []
+  sources: []
+cross_article_links: []
+draft: false
+related_stories: []
+---
+
+## Summary
+
+**Subtype:** fact
+
+- National Park Service biologists confirmed a male coyote swam 2 miles from Angel Island to Alcatraz Island in San Francisco Bay, a distance twice what experts had expected.
+- The coyote was first spotted paddling in the bay in early January and was photographed on Alcatraz on Jan. 24 by a visitor in town for a wedding.
+- DNA analysis of scat collected on Alcatraz matched the coyote to the established population on Angel Island, surprising officials who assumed he swam from San Francisco, roughly 1 mile away.
+- Project Coyote founder Camilla Fox said the swim is unprecedented in her organization's experience, describing it as "a pretty challenging ocean current" journey.
+- Park Service officials had prepared to capture and relocate the coyote to protect seabird nesting habitat, but the animal has not been seen or recorded on Alcatraz since.
+
+A male coyote confounded wildlife biologists earlier this year by swimming roughly 2 miles across San Francisco Bay from Angel Island to Alcatraz Island — a route twice as long as experts had initially assumed, the National Park Service announced Monday.
+
+"Our working assumption was that the coyote made the swim from San Francisco because it is a significantly shorter distance," Bill Merkle, a National Park Service wildlife ecologist, said in a news release. "We couldn’t help being impressed by his accomplishment in making it to Alcatraz."
+
+The coyote was first recorded in video footage paddling through the chilly bay in early January and was photographed on Jan. 24 by Rebecca Husson, who spotted the animal during a morning tour of Alcatraz while in town for a cousin's wedding.
+
+"He looked like a drowned rat when he ended up on the island, and when we saw him he looked healthy and so beautiful," Husson told The Associated Press. "He looked like he had been eating well."
+
+Biologists collected coyote tracks and scat from Alcatraz and sent the material to the University of California, Davis, for DNA analysis. The results confirmed the animal belonged to the coyote population on Angel Island, surprising officials who had been operating under the San Francisco-landfall hypothesis.
+
+Camilla Fox, founder and executive director of the nonprofit Project Coyote, said the animal likely left Angel Island in search of a mate or new territory. She noted that coyotes, like wolves, are capable swimmers, though long-distance ocean crossings are rarely documented.
+
+"We have never, ever heard such a story of a coyote making such a long journey in a pretty challenging ocean current," Fox said.
+
+The Park Service had prepared to capture and relocate the coyote because Alcatraz serves as an important seabird nesting habitat. But the animal has not been seen again, and officials say there is no evidence it remains on the island.
+
+Alcatraz Island, a former maximum-security federal prison notorious for its cold, swift currents and escape-proof reputation, is now part of the Golden Gate National Recreation Area. Its nearest landfall is San Francisco, just over 1 mile away. Angel Island, a state park that once housed an immigration detention center, was colonized by coyotes years ago — a feat that required the animals to cross open water in the first place.
+
+"It wasn't easy for coyotes to colonize Angel Island, but they persevered," Fox said.
+
+Fox urged visitors to Angel Island and other open spaces to be mindful of coyote dens, noting that the current season is pup season.

@@ -29,9 +29,7 @@ topic_tags:
   - "conflict, war and peace"
   - "labour dispute"
 storyline_nexus:
-  - russia-ukraine-war
-  - us-administration-2026
-  - venezuela-crisis
+- venezuela-political-military-crisis
 geographic_location: United States, Venezuela, Mexico, Central America
 floor_values_engaged:
 - value: accountability_of_power
@@ -149,8 +147,6 @@ Trump also addressed the Nobel Peace Prize awarded to Venezuelan opposition lead
 The president discussed an Arctic security framework he struck with NATO chief Mark Rutte, saying the arrangement would give the U.S. ownership of land where American bases are located. "We'll have everything we want," Trump said. Denmark and Greenland have stated the island's sovereignty is non-negotiable, and a NATO spokesperson said Rutte did not propose any compromise to sovereignty in his conversations with Trump.
 
 Finally, Trump said he would not attend the Super Bowl, calling the selection of Bad Bunny and Green Day as halftime performers a "terrible choice."
-
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
 
 ## Atomic claims
 
@@ -368,7 +364,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-05-18
 **Title:** Trump says US used secret weapon to disable Venezuelan equipment in Maduro raid
 **URL:** https://apnews.com/article/trump-venezuela-weapon-maduro-drug-strikes-c052fd24a350a04a458f501b4b536e62
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

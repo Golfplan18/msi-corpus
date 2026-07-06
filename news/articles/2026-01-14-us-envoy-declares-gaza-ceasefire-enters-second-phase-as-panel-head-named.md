@@ -17,39 +17,41 @@ primary_themes:
 - hostage recovery
 - Middle East diplomacy
 topic_tags:
-  - "disaster, accident and emergency incident"
-  - fire
+- armed conflict
+- peace process
+- post-war reconstruction
+- international relations
 storyline_nexus:
-  - gaza-conflict
-geographic_location: Gaza Strip; Washington, D.C.
+- gaza-israel-war
+geographic_location: United States
 floor_values_engaged:
-- value: human_life_and_dignity
-  intensity: 0.9
-- value: informed_citizenship
-  intensity: 0.85
 - value: accountability_of_power
-  intensity: 0.7
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T06:58:30Z'
+  intensity: 0.6
+- value: informed_citizenship
+  intensity: 0.6
+- value: human_life_and_dignity
+  intensity: 0.3
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T04:26:37Z'
 source_cluster_id: cluster_ap_2026-01-13_mideast-wars-israel-hamas-gaza-trump-wit
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 12
   hedges:
     appears: 0
+    confirmed: 2
     alleged: 0
     attributed: 10
-    reported: 0
     contested: 0
-    confirmed: 2
+    reported: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 0
+    one_originating_plus_primary_document: 0
+    primary_plus_secondary: 0
     single_source: 12
     two_independent: 0
 sources:
@@ -69,21 +71,17 @@ image:
   url: /articles/2026-01-14-us-envoy-declares-gaza-ceasefire-enters-second-phase-as-panel-head-named.png
   alt: 'Illustration accompanying article: US envoy declares Gaza ceasefire enters second phase as panel head named'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-11-hamas-pledges-to-dissolve-gaza-government-as-transition-remains-in-limbo
-  relation: continues
-  strength: 0.8831
-  confidence: high
-- slug: 2026-01-12-israeli-drone-strike-kills-3-near-gaza-ceasefire-line-as-board-of-peace-transiti
-  relation: continues
-  strength: 0.7919
-  confidence: high
-- slug: 2026-01-08-bulgaria-s-mladenov-tapped-to-lead-trump-s-gaza-peace-board-as-israeli-strikes-k
-  relation: continues
-  strength: 0.815
-  confidence: high
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- Trump envoy says Gaza is entering second phase of ceasefire plan
+- --- headline: US envoy declares Gaza ceasefire enters second phase as panel head named publish_date:
+- Trump envoy Steve Witkoff made the announcement in a post on X following more than two years of war 
+- Egypt, Turkey and Qatar — the three other mediators of the deal — welcomed the move and identified A
 
 The declaration marks a significant diplomatic step, but the path forward carries major unresolved questions: the full composition of the technocratic committee has not been named, Hamas has yet to commit to disarmament, the international security force required to supervise the deal has not been assembled, and the United Nations has estimated reconstruction will cost more than $50 billion.
 
@@ -119,111 +117,135 @@ The technocratic committee is part of a broader plan to end Hamas's 18-year rule
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** United States
-**Predicate:** announced_entry_into_second_phase
-**Object:** Gaza ceasefire second phase (policy_announcement)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** United States
+- **Predicate:** announced_entry_into_second_phase
+- **Object:** Gaza ceasefire second phase (policy_announcement)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > The United States announced on January 14, 2026, that the Gaza ceasefire was entering its second phase.
 
-### c_002 — attributed, single source
-**Subject entities:** Steve Witkoff
-**Predicate:** announced
-**Object:** second phase of ceasefire including technocratic government (statement)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Steve Witkoff
+- **Predicate:** announced
+- **Object:** second phase of ceasefire including technocratic government (statement)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Steve Witkoff said in a post on X that the deal was entering its second phase and called for establishing a technocratic government in Gaza.
 
-### c_003 — attributed, single source
-**Subject entities:** Egypt; Turkey; Qatar; Ali Shaath
-**Predicate:** named_as_head
-**Object:** transitional Palestinian administration (governance_appointment)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Egypt; Turkey; Qatar; Ali Shaath
+- **Predicate:** named_as_head
+- **Object:** transitional Palestinian administration (governance_appointment)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Egypt, Turkey and Qatar named Ali Shaath to lead the transitional Palestinian administration in a joint statement.
 
-### c_004 — attributed, single source
-**Subject entities:** Ali Shaath; Palestinian Authority
-**Predicate:** served_as
-**Object:** deputy minister for transportation (former_role)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ali Shaath; Palestinian Authority
+- **Predicate:** served_as
+- **Object:** deputy minister for transportation (former_role)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Ali Shaath is a Gaza native who served as deputy minister for transportation with the Palestinian Authority and is an expert in economic development and reconstruction.
 
-### c_005 — attributed, single source
-**Subject entities:** Hazem Qassem; Hamas
-**Predicate:** characterized_and_pledged
-**Object:** positive development; readiness to transfer administration (statement)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Hazem Qassem; Hamas
+- **Predicate:** characterized_and_pledged
+- **Object:** positive development; readiness to transfer administration (statement)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Hamas spokesperson Hazem Qassem told Al-Jazeera that Witkoff's announcement was an important and positive development and that Hamas was ready to hand over Gaza's administration to the technocratic committee.
 
-### c_006 — attributed, single source
-**Subject entities:** Hamas
-**Predicate:** stated_readiness_to_discuss
-**Object:** resistance weapons (weapons_discussion)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Hamas
+- **Predicate:** stated_readiness_to_discuss
+- **Object:** resistance weapons (weapons_discussion)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Hamas said it is ready to engage in internal Palestinian approaches to discuss the issue of the resistance weapons.
 
-### c_007 — confirmed, single source
-**Subject entities:** Ran Gvili
-**Predicate:** was_killed_during
-**Object:** Oct. 7, 2023 Hamas attack (event)
-**Temporal:** 2023-10-07
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Ran Gvili
+- **Predicate:** was_killed_during
+- **Object:** Oct. 7, 2023 Hamas attack (event)
+- **Temporal:** 2023-10-07
+- **Sources:** src_001
 
 > Ran Gvili was a 24-year-old Israeli police officer killed during the Oct. 7, 2023, Hamas attack that started the war.
 
-### c_008 — attributed, single source
-**Subject entities:** Steve Witkoff; Hamas
-**Predicate:** warned
-**Object:** serious consequences for failure to return Gvili's remains (warning)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Steve Witkoff; Hamas
+- **Predicate:** warned
+- **Object:** serious consequences for failure to return Gvili's remains (warning)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Witkoff said the U.S. expects Hamas to immediately return the final Israeli hostage and warned that failure to do so will bring serious consequences.
 
-### c_009 — attributed, single source
-**Subject entities:** Benjamin Netanyahu; Ran Gvili
-**Predicate:** stated_as_priority
-**Object:** return of Ran Gvili's remains (diplomatic_priority)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Benjamin Netanyahu; Ran Gvili
+- **Predicate:** stated_as_priority
+- **Object:** return of Ran Gvili's remains (diplomatic_priority)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Netanyahu spoke Wednesday evening with Ran Gvili's parents, Tali and Itzik Gvili, and told them the return of their son's remains was a top priority.
 
-### c_010 — attributed, single source
-**Subject entities:** United Nations; Gaza
-**Predicate:** estimated_reconstruction_cost
-**Object:** more than $50 billion (financial_estimate)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** United Nations; Gaza
+- **Predicate:** estimated_reconstruction_cost
+- **Object:** more than $50 billion (financial_estimate)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > The United Nations has estimated that reconstruction of Gaza will cost more than $50 billion, a process expected to take years.
 
-### c_011 — confirmed, single source
-**Subject entities:** Hamas; Israel
-**Predicate:** exchanged
-**Object:** hostages for Palestinian prisoners (prisoner_exchange)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_011
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Hamas; Israel
+- **Predicate:** exchanged
+- **Object:** hostages for Palestinian prisoners (prisoner_exchange)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Under the first phase of the ceasefire, Hamas released all but one hostage in exchange for hundreds of Palestinians held by Israel.
 
-### c_012 — attributed, single source
-**Subject entities:** technocratic committee; Board of Peace
-**Predicate:** will_govern_under_oversight
-**Object:** public services for over 2 million Palestinians (governance_mandate)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** technocratic committee; Board of Peace
+- **Predicate:** will_govern_under_oversight
+- **Object:** public services for over 2 million Palestinians (governance_mandate)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > The technocratic committee will provide public services to more than 2 million Palestinians in Gaza under oversight of a Trump-led Board of Peace.
 
@@ -232,10 +254,5 @@ The technocratic committee is part of a broader plan to end Hamas's 18-year rule
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Michelle L. Price
 **Publication date:** 2026-01-14
-**Access date:** 2026-01-14
 **Title:** Trump envoy says Gaza is entering second phase of ceasefire plan
 **URL:** https://apnews.com/article/mideast-wars-israel-hamas-gaza-trump-witkoff-bb39015d25aeb627a5b9ce73dd4e1155
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

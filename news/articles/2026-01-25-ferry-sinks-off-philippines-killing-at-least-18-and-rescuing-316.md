@@ -103,8 +103,6 @@ Officials are also looking into unverified reports that 15 passengers on the shi
 
 Sea accidents are common in the Philippine archipelago because of frequent storms, poorly maintained vessels, overcrowding, and inconsistent enforcement of safety regulations, particularly in remote provinces. In December 1987, the ferry Dona Paz sank after colliding with a fuel tanker in the central Philippines, killing more than 4,300 people in the world's deadliest peacetime maritime disaster.
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification available at /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
 ### c_001 — attributed, single source
@@ -223,7 +221,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-01-25
 **Title:** At least 18 killed and hundreds rescued after ferry disaster in Philippines
 **URL:** https://apnews.com/article/philippines-ferry-sinking-passengers-772cfd1802a7ad0ca184869201772754
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

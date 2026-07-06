@@ -19,38 +19,41 @@ primary_themes:
 - winter preparedness
 - climate and environment
 topic_tags:
-  - "climate change"
-  - environment
-storyline_nexus: []
+- energy and resource
+- environment
+- climate change
+- sustainability
+storyline_nexus:
+- housing-affordability-crisis
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship
-  intensity: 0.8
-- value: human_life_and_dignity
-  intensity: 0.3
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T06:57:45Z'
+  intensity: 0.9
+- value: truthfulness
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:43:22Z'
 source_cluster_id: cluster_ap_2026-01-13_cold-winter-home-air-seal-doors-a68a8daf
 gdelt_event_ids: []
-consensus_floor_version: 1.0.0
-publication_mindspec_version: 1.0.0
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 14
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 13
-    reported: 0
     contested: 0
     confirmed: 1
+    alleged: 0
+    reported: 0
+    attributed: 13
+    appears: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
+    two_independent: 0
     primary_document: 1
     single_source: 13
-    two_independent: 0
+    one_originating_plus_primary_document: 0
+    primary_plus_secondary: 0
 sources:
   count: 1
   outlets:
@@ -68,17 +71,17 @@ image:
   url: /articles/2026-01-14-air-leaks-drain-more-than-a-quarter-of-home-heating-energy-experts-say.png
   alt: 'Illustration accompanying article: Air leaks drain more than a quarter of home heating energy, experts say'
   source: ai_generated
-cross_article_links:
-- slug: 2025-12-30-common-new-year-s-resolutions-can-also-shrink-household-emissions
-  relation: related
-  strength: 0.7619
-  confidence: medium
-- slug: 2025-12-30-everyday-resolutions-can-cut-bills-waste-and-emissions-experts-say
-  relation: related
-  strength: 0.7242
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- **How to seal leaks and stay warm in your home this winter** — opening narrative arc or primary actor action.
+- With winter cold keeping millions of households running their furnaces at capacity, energy auditors and home-improvement specialists say small, inexpe.
+- alt: 'Illustration accompanying article: Air leaks drain more than a quarter of home heating energy, experts say'
 
 The fixes target a structural weakness common to most U.S. housing stock: gaps and cracks around doors, windows, electrical outlets and recessed ceiling lights allow warm air to escape continuously, forcing heating systems to compensate and driving up utility bills.
 
@@ -124,121 +127,149 @@ Vents for dryers, bath fans and kitchen hoods often allow outdoor air to flow ba
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Environmental Protection Agency
-**Predicate:** estimates
-**Object:** more than one quarter of home heating and cooling energy (statistic)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Environmental Protection Agency
+- **Predicate:** estimates
+- **Object:** more than one quarter of home heating and cooling energy (statistic)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > The EPA estimates air leakage accounts for more than a quarter of the energy used to heat or cool a typical home.
 
-### c_002 — attributed, single source
-**Predicate:** costs_approximately
-**Object:** $100 (cost)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Predicate:** costs_approximately
+- **Object:** $100 (cost)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Small fixes like outlet covers, weatherstripping and LED bulbs can be achieved with about $100 and a hardware store trip.
 
-### c_003 — attributed, single source
-**Subject entities:** Johanna Neumann; Environment America
-**Predicate:** holds_role
-**Object:** senior director (role)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Johanna Neumann; Environment America
+- **Predicate:** holds_role
+- **Object:** senior director (role)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Johanna Neumann is senior director with the advocacy organization Environment America.
 
-### c_004 — attributed, single source
-**Subject entities:** Matt Lanteigne
-**Predicate:** identified_as
-**Object:** DIY home construction expert (role)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Matt Lanteigne
+- **Predicate:** identified_as
+- **Object:** DIY home construction expert (role)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Matt Lanteigne is a DIY home construction expert.
 
-### c_005 — attributed, single source
-**Subject entities:** Eric George; Home Comfort Advisors
-**Predicate:** holds_role
-**Object:** energy auditor and contractor (role)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Eric George; Home Comfort Advisors
+- **Predicate:** holds_role
+- **Object:** energy auditor and contractor (role)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Eric George is an energy auditor and contractor with Home Comfort Advisors.
 
-### c_006 — attributed, single source
-**Predicate:** costs
-**Object:** less than $20 (cost)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Predicate:** costs
+- **Object:** less than $20 (cost)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Indoor window insulator kits typically cost less than $20.
 
-### c_007 — attributed, single source
-**Predicate:** costs
-**Object:** less than $10 per 10 feet (3 meters) (cost)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Predicate:** costs
+- **Object:** less than $10 per 10 feet (3 meters) (cost)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Felt or rubber weatherstripping typically costs less than $10 per 10 feet.
 
-### c_008 — attributed, single source
-**Predicate:** costs
-**Object:** less than $20 (cost)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Predicate:** costs
+- **Object:** less than $20 (cost)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Door sweeps typically cost less than $20.
 
-### c_009 — attributed, single source
-**Predicate:** costs
-**Object:** less than $10 for a multipack (cost)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Predicate:** costs
+- **Object:** less than $10 for a multipack (cost)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Foam outlet sealers run less than $10 for a multipack.
 
-### c_010 — attributed, single source
-**Predicate:** costs
-**Object:** $5 to $30 (cost)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Predicate:** costs
+- **Object:** $5 to $30 (cost)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Recessed ceiling light retrofit kits cost between $5 and $30.
 
-### c_011 — attributed, single source
-**Predicate:** costs
-**Object:** $10 to $50 each (cost)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Predicate:** costs
+- **Object:** $10 to $50 each (cost)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Backdraft dampers for dryer vents, bath fans and kitchen hoods typically cost between $10 and $50 each.
 
-### c_012 — attributed, single source
-**Subject entities:** Eric George
-**Predicate:** states
-**Object:** most air loss occurs at the top of the house (claim)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Eric George
+- **Predicate:** states
+- **Object:** most air loss occurs at the top of the house (claim)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Most air in a house leaks out through the top of the house, drawing cold air in through the bottom, according to George.
 
-### c_013 — attributed, single source
-**Predicate:** costs
-**Object:** $100 to $200 or more (cost)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Predicate:** costs
+- **Object:** $100 to $200 or more (cost)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Thermal cameras for detecting air leaks cost $100 to $200 or more.
 
-### c_014 — attributed, single source
-**Subject entities:** Johanna Neumann
-**Predicate:** recommends
-**Object:** 15-degree Fahrenheit (8-degree Celsius) temperature differential (threshold)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Johanna Neumann
+- **Predicate:** recommends
+- **Object:** 15-degree Fahrenheit (8-degree Celsius) temperature differential (threshold)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > It is best to search for air leaks when outdoor temperature differs from indoor by at least 15 degrees Fahrenheit (8 degrees Celsius).
 
@@ -247,10 +278,5 @@ Vents for dryers, bath fans and kitchen hoods often allow outdoor air to flow ba
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Caleigh Wells
 **Publication date:** 2026-01-14
-**Access date:** 2026-01-14
 **Title:** How to seal leaks and stay warm in your home this winter
 **URL:** https://apnews.com/article/cold-winter-home-air-seal-doors-a68a8daff99a4ad46b4229f474186e0b
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

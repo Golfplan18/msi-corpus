@@ -22,7 +22,8 @@ topic_tags:
   - labour
   - "labour dispute"
   - politics
-storyline_nexus: []
+storyline_nexus:
+- housing-affordability-crisis
 geographic_location: New York City, New York, United States
 floor_values_engaged:
 - value: informed_citizenship
@@ -123,129 +124,157 @@ The union's last strike, in 1991, lasted 12 days. In subsequent years the union 
 
 ## Atomic claims
 
-### c_001 — confirmed, single source
-**Subject entities:** 32BJ SEIU; New York City apartment building workers
-**Predicate:** voted_to_authorize_strike
-**Object:** strike authorization (labor_action)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** 32BJ SEIU; New York City apartment building workers
+- **Predicate:** voted_to_authorize_strike
+- **Object:** strike authorization (labor_action)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > New York City apartment building workers voted on April 15, 2026 to authorize a potential strike.
 
-### c_002 — attributed, single source
-**Subject entities:** 32BJ SEIU
-**Predicate:** represents
-**Object:** 34,000 building workers (membership_count)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** 32BJ SEIU
+- **Predicate:** represents
+- **Object:** 34,000 building workers (membership_count)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > 32BJ SEIU represents 34,000 building workers including doorpersons, superintendents and porters.
 
-### c_003 — attributed, single source
-**Subject entities:** 32BJ SEIU
-**Predicate:** estimates_impact
-**Object:** 1.5 million residents (impact_estimate)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** 32BJ SEIU
+- **Predicate:** estimates_impact
+- **Object:** 1.5 million residents (impact_estimate)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > A strike would affect 1.5 million renters, co-op owners and condo dwellers across New York City, according to the union.
 
-### c_004 — confirmed, single source
-**Subject entities:** 32BJ SEIU; Realty Advisory Board on Labor Relations
-**Predicate:** contract_expires
-**Object:** midnight Monday April 20 2026 (deadline)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** 32BJ SEIU; Realty Advisory Board on Labor Relations
+- **Predicate:** contract_expires
+- **Object:** midnight Monday April 20 2026 (deadline)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > The current contract expires at midnight Monday, April 20, 2026.
 
-### c_005 — attributed, single source
-**Subject entities:** 32BJ SEIU
-**Predicate:** last_strike_duration
-**Object:** 1991, 12 days (historical_fact)
-**Temporal:** 1991
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** 32BJ SEIU
+- **Predicate:** last_strike_duration
+- **Object:** 1991, 12 days (historical_fact)
+- **Temporal:** 1991
+- **Sources:** src_001
 
 > The union's last strike occurred in 1991 and lasted 12 days.
 
-### c_006 — attributed, single source
-**Subject entities:** 32BJ SEIU doorpersons
-**Predicate:** average_salary
-**Object:** $62,000 (wage_figure)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** 32BJ SEIU doorpersons
+- **Predicate:** average_salary
+- **Object:** $62,000 (wage_figure)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Doorpersons average about $62,000 a year, according to the union.
 
-### c_007 — attributed, single source
-**Subject entities:** Realty Advisory Board on Labor Relations
-**Predicate:** proposes
-**Object:** worker health insurance premium payments (contract_proposal)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Realty Advisory Board on Labor Relations
+- **Predicate:** proposes
+- **Object:** worker health insurance premium payments (contract_proposal)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Building owners, represented by the Realty Advisory Board on Labor Relations, want workers to begin paying health insurance premiums.
 
-### c_008 — attributed, single source
-**Subject entities:** Realty Advisory Board on Labor Relations
-**Predicate:** proposes
-**Object:** lower-paying new hire job classification (contract_proposal)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Realty Advisory Board on Labor Relations
+- **Predicate:** proposes
+- **Object:** lower-paying new hire job classification (contract_proposal)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Building owners want new hires to come in under a new, lower-paying job classification.
 
-### c_009 — confirmed, single source
-**Subject entities:** Zohran Mamdani
-**Predicate:** attended_rally
-**Object:** building workers rally, Park Avenue, Manhattan (political_event)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Zohran Mamdani
+- **Predicate:** attended_rally
+- **Object:** building workers rally, Park Avenue, Manhattan (political_event)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Mayor Zohran Mamdani, a Democrat, attended the workers' rally on Park Avenue on April 15, 2026.
 
-### c_010 — confirmed, single source
-**Subject entities:** 32BJ SEIU members
-**Predicate:** held_rally
-**Object:** Park Avenue Manhattan more than four blocks (event_scale)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** 32BJ SEIU members
+- **Predicate:** held_rally
+- **Object:** Park Avenue Manhattan more than four blocks (event_scale)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > The rally stretched more than four blocks along Manhattan's Park Avenue.
 
-### c_011 — attributed, single source
-**Subject entities:** Zohran Mamdani
-**Predicate:** advocates
-**Object:** rent freeze on approximately 1 million rent-stabilized apartments (policy_position)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Zohran Mamdani
+- **Predicate:** advocates
+- **Object:** rent freeze on approximately 1 million rent-stabilized apartments (policy_position)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Mayor Mamdani has pushed to freeze rent on the city's roughly 1 million rent-stabilized apartments.
 
-### c_012 — attributed, single source
-**Subject entities:** Percy Jackson
-**Predicate:** employment_tenure
-**Object:** 23 years porter East New York Brooklyn (worker_profile)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Percy Jackson
+- **Predicate:** employment_tenure
+- **Object:** 23 years porter East New York Brooklyn (worker_profile)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Percy Jackson has worked as a porter in Brooklyn's East New York neighborhood for 23 years.
 
-### c_013 — attributed, single source
-**Subject entities:** Howard Rothschild; Realty Advisory Board on Labor Relations
-**Predicate:** stated
-**Object:** call for viable path forward in negotiations (statement)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Howard Rothschild; Realty Advisory Board on Labor Relations
+- **Predicate:** stated
+- **Object:** call for viable path forward in negotiations (statement)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Realty Advisory Board President Howard Rothschild called for a contract that supports a viable path forward.
 
-### c_014 — confirmed, single source
-**Subject entities:** Adam Cintron
-**Predicate:** attended_rally
-**Object:** building workers rally April 15 2026 (event_participation)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_014
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Adam Cintron
+- **Predicate:** attended_rally
+- **Object:** building workers rally April 15 2026 (event_participation)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Adam Cintron, 39, is a doorperson at a Manhattan building who attended the rally.
 
@@ -257,7 +286,3 @@ The union's last strike, in 1991, lasted 12 days. In subsequent years the union 
 **Access date:** 2026-04-16
 **Title:** New York City apartment building workers approve potential strike over contract
 **URL:** https://apnews.com/article/new-york-building-workers-doorpersons-strike-vote-92a80cbbf29436bb3224add445866f74
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -24,8 +24,7 @@ topic_tags:
   - "crime, law and justice"
   - government
   - "government policy"
-storyline_nexus:
-  - ai-regulation
+storyline_nexus: []
 geographic_location: Abuja, Nigeria; Niger state, Nigeria
 floor_values_engaged:
 - value: informed_citizenship
@@ -200,7 +199,3 @@ Nigeria's information minister, Mohammed Idris, characterized the U.S. decision 
 **Access date:** 2026-04-16
 **Title:** Nigerian security forces on alert for attack on airport and prison, memo says
 **URL:** https://apnews.com/article/nigeria-islamist-attack-memo-cd6f28a698511e345d376108dbab59f6
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

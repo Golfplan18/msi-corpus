@@ -20,7 +20,7 @@ topic_tags:
   - "international relations"
   - politics
 storyline_nexus:
-  - us-administration-2026
+- us-china-competition
 geographic_location: Chile, United States
 floor_values_engaged:
 - value: accountability_of_power
@@ -94,8 +94,6 @@ Responding to criticism from the Chilean government, Judd said the U.S. posed "n
 The ambassador, without naming specific countries, referenced what he described as "many malicious actors in this region that want to cause harm, not just to this region and to Chile, but to the United States as well."
 
 Relations between Chile and the United States have deteriorated significantly under Trump's second term. Upon Kast's expected assumption of power, Judd indicated the U.S. would prioritize collaboration with the new administration. "We look forward to working with the new government to provide what the Chilean people demanded," he said.
-
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
 
 ## Atomic claims
 
@@ -215,7 +213,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-05-18
 **Title:** US ambassador defends travel bans on 3 Chilean officials as a 'sovereign decision'
 **URL:** https://apnews.com/article/chile-united-states-china-visa-sanctions-top-officials-c0d6eb2ce06581f478024747bdb30b4c
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

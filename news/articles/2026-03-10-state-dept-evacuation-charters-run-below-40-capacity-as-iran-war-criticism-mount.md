@@ -21,7 +21,7 @@ topic_tags:
   - "international relations"
   - politics
 storyline_nexus:
-  - iran-war
+- the-iran-war
 geographic_location: Middle East; Washington, D.C.
 floor_values_engaged:
 - value: informed_citizenship
@@ -102,111 +102,135 @@ Criticism of the State Department's performance in crisis situations has followe
 
 ## Atomic claims
 
-### c_001 — reported, two independent
-**Subject entities:** U.S. Department of State
-**Predicate:** authorized
-**Object:** up to $40 million in emergency funds for evacuation charter flights (funding_authorization)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** two_independent
+- **Subject entities:** U.S. Department of State
+- **Predicate:** authorized
+- **Object:** up to $40 million in emergency funds for evacuation charter flights (funding_authorization)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > The State Department authorized the use of up to $40 million in emergency funds to pay for evacuation charter flights for Americans to leave the Middle East.
 
-### c_002 — reported, two independent
-**Subject entities:** U.S. Department of State
-**Predicate:** drew_from
-**Object:** diplomatic and consular emergency reserve fund (fund_source)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** two_independent
+- **Subject entities:** U.S. Department of State
+- **Predicate:** drew_from
+- **Object:** diplomatic and consular emergency reserve fund (fund_source)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > The emergency funds come from a reserve normally held for emergencies involving diplomatic and consular staff.
 
-### c_003 — confirmed, primary document
-**Subject entities:** U.S. Department of State
-**Predicate:** confirmed_and_declined_to_specify
-**Object:** use of emergency funds confirmed; dollar amount unspecified (official_statement)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Department of State
+- **Predicate:** confirmed_and_declined_to_specify
+- **Object:** use of emergency funds confirmed; dollar amount unspecified (official_statement)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > The State Department confirmed the use of the emergency funds but declined to specify the amount.
 
-### c_004 — attributed, single source
-**Subject entities:** Marco Rubio; U.S. Department of State
-**Predicate:** waived
-**Object:** reimbursement requirement (policy_waiver)
-**Temporal:** 2026-03-03
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Marco Rubio; U.S. Department of State
+- **Predicate:** waived
+- **Object:** reimbursement requirement (policy_waiver)
+- **Temporal:** 2026-03-03
+- **Sources:** src_001
 
 > Secretary of State Marco Rubio waived the requirement that private Americans reimburse the government for evacuation transportation.
 
-### c_005 — attributed, single source
-**Subject entities:** U.S. Department of State
-**Predicate:** reported_returns
-**Object:** more than 40,000 Americans returned (count)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Department of State
+- **Predicate:** reported_returns
+- **Object:** more than 40,000 Americans returned (count)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > More than 40,000 Americans have returned to the U.S. from the Middle East since the Iran war began on Feb. 28.
 
-### c_006 — attributed, single source
-**Subject entities:** U.S. Department of State
-**Predicate:** characterized
-**Object:** vast majority returned commercially without assistance (characterization)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Department of State
+- **Predicate:** characterized
+- **Object:** vast majority returned commercially without assistance (characterization)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > The vast majority of the more than 40,000 Americans who returned did so commercially without government assistance.
 
-### c_007 — attributed, single source
-**Subject entities:** U.S. Department of State
-**Predicate:** organized
-**Object:** more than two dozen charter flights (operational_count)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Department of State
+- **Predicate:** organized
+- **Object:** more than two dozen charter flights (operational_count)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > The department organized more than two dozen charter flights that carried thousands of U.S. citizens from Middle East countries to either the United States or Europe.
 
-### c_008 — attributed, single source
-**Subject entities:** U.S. Department of State
-**Predicate:** declined_assistance
-**Object:** most of more than 27,000 who sought help declined (count)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Department of State
+- **Predicate:** declined_assistance
+- **Object:** most of more than 27,000 who sought help declined (count)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > Of more than 27,000 Americans who sought government help, most declined assistance when offered, choosing to remain in country or book commercial flights.
 
-### c_009 — attributed, single source
-**Subject entities:** U.S. Department of State
-**Predicate:** operating_at
-**Object:** less than 40% occupancy on average (occupancy_rate)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Department of State
+- **Predicate:** operating_at
+- **Object:** less than 40% occupancy on average (occupancy_rate)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > Charter flights have been operating at less than 40 percent occupancy on average.
 
-### c_010 — reported, single source
-**Subject entities:** U.S. Department of State
-**Predicate:** faced_accusations
-**Object:** inadequate planning and slow response (allegation)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Department of State
+- **Predicate:** faced_accusations
+- **Object:** inadequate planning and slow response (allegation)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > The State Department has faced accusations from lawmakers and travelers of not adequately planning for the Iran war and not acting quickly enough to assist Americans in the region.
 
-### c_011 — attributed, single source
-**Subject entities:** U.S. Department of State
-**Predicate:** issued
-**Object:** departure advisories for 14 countries (government_advisory)
-**Temporal:** 2026-03-02
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Department of State
+- **Predicate:** issued
+- **Object:** departure advisories for 14 countries (government_advisory)
+- **Temporal:** 2026-03-02
+- **Sources:** src_001
 
 > The U.S. issued departure advisories for Americans in 14 countries in the Middle East, two days after the war began on Feb. 28.
 
-### c_012 — attributed, single source
-**Subject entities:** United States; Israel; Iran
-**Predicate:** launched
-**Object:** Iran war (conflict)
-**Temporal:** 2026-02-28
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** United States; Israel; Iran
+- **Predicate:** launched
+- **Object:** Iran war (conflict)
+- **Temporal:** 2026-02-28
+- **Sources:** src_001
 
 > The Iran war was launched by the United States and Israel on Feb. 28.
 
@@ -218,7 +242,3 @@ Criticism of the State Department's performance in crisis situations has followe
 **Access date:** 2026-05-17
 **Title:** State Department authorizes $40M for flights for Americans in the Mideast
 **URL:** https://apnews.com/article/evacuation-flights-iran-war-travelers-97528f677e80efa16064b84d905aefa5
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

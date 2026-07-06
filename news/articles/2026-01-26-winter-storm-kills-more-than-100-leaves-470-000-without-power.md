@@ -24,44 +24,40 @@ primary_themes:
 - infrastructure
 - power_outages
 topic_tags:
-  - "conflict, war and peace"
-  - "disaster, accident and emergency incident"
-  - weather
-  - "weather warning"
+- natural disaster
+- weather
+- disaster
 storyline_nexus:
-  - immigration-enforcement
-  - winter-storm-2026
-geographic_location: United States - South and Northeast
+- extreme-weather-disasters
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
-  intensity: 0.95
-- value: truthfulness
   intensity: 0.9
 - value: informed_citizenship
-  intensity: 0.85
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T18:45:00Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T04:27:02Z'
 source_cluster_id: cluster_ap_2026-01-27_winter-storm-power-outages-3207d7da041c8
 gdelt_event_ids: []
-consensus_floor_version: v1.0
-publication_mindspec_version: v1.0
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 20
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 2
-    reported: 18
     contested: 0
+    appears: 0
+    reported: 18
+    attributed: 2
+    alleged: 0
     confirmed: 0
   corroboration:
-    primary_plus_secondary: 0
+    single_source: 0
     one_originating_plus_primary_document: 0
     primary_document: 20
-    single_source: 0
     two_independent: 0
+    primary_plus_secondary: 0
 sources:
   count: 1
   outlets:
@@ -75,33 +71,15 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-13-winter-storms-kill-5-in-gaza-as-shelter-shortfall-persists-under-ceasefire
-  relation: related
-  strength: 0.8179
-  confidence: medium
-- slug: 2026-01-06-snow-and-ice-kill-at-least-6-across-europe-grounding-600-schiphol-flights
-  relation: related
-  strength: 0.8524
-  confidence: medium
-- slug: 2026-01-07-winter-storm-strands-more-than-1-000-at-amsterdam-s-schiphol-grounds-800-flights
-  relation: related
-  strength: 0.8389
-  confidence: medium
-- slug: 2026-01-07-ice-and-snow-close-schools-across-new-england-as-more-storms-approach
-  relation: related
-  strength: 0.8335
-  confidence: medium
-- slug: 2026-01-11-severe-cold-strands-thousands-of-tourists-at-kittil-airport-as-europe-deep-freez
-  relation: related
-  strength: 0.7938
-  confidence: medium
-- slug: 2026-01-11-guard-dies-at-cortina-winter-olympic-construction-site-in-minus-12-temperatures
-  relation: related
-  strength: 0.7642
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Unknown...
 
 A severe winter storm brought crippling ice to the South and heavy snow to the Northeast, killing more than 110 people and leaving nearly half a million homes and businesses without power or heat as of Tuesday, January 26. More than 130,000 customers remained without power in Mississippi, while more than 110,000 were without electricity in the Nashville, Tennessee, area and about 90,000 more in Louisiana, according to power outage tracking data.
 
@@ -137,187 +115,225 @@ The aviation industry felt immediate effects, with 2,000 U.S. flights canceled o
 
 Southern homes and infrastructure are typically not designed for the severe winter conditions that struck the region, compounding the challenges residents faced. Many communities lack adequate insulation and heating systems for the extreme cold that accompanied the storm.
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
-### c_001 — reported, primary document
-**Subject entities:** winter storm
-**Predicate:** caused deaths
-**Object:** 110+ (death_toll)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** winter storm
+- **Predicate:** caused deaths
+- **Object:** 110+ (death_toll)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > A winter storm killed more than 110 people across the South and Northeast.
 
-### c_002 — reported, primary document
-**Subject entities:** U.S. homes and businesses
-**Predicate:** lost power
-**Object:** 470,000+ (outage_count)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. homes and businesses
+- **Predicate:** lost power
+- **Object:** 470,000+ (outage_count)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > Nearly 470,000 homes and businesses were without power or heat as of Tuesday.
 
-### c_003 — reported, primary document
-**Subject entities:** Mississippi utility customers
-**Predicate:** lost power
-**Object:** 130,000+ (outage_count)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Mississippi utility customers
+- **Predicate:** lost power
+- **Object:** 130,000+ (outage_count)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > More than 130,000 customers were without power in Mississippi.
 
-### c_004 — reported, primary document
-**Subject entities:** Nashville electric customers
-**Predicate:** lost power
-**Object:** 110,000+ (outage_count)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Nashville electric customers
+- **Predicate:** lost power
+- **Object:** 110,000+ (outage_count)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > More than 110,000 customers were without power in the Nashville, Tennessee, area.
 
-### c_005 — reported, primary document
-**Subject entities:** Louisiana utility customers
-**Predicate:** lost power
-**Object:** 90,000 (outage_count)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Louisiana utility customers
+- **Predicate:** lost power
+- **Object:** 90,000 (outage_count)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > About 90,000 customers were without power in Louisiana.
 
-### c_006 — reported, primary document
-**Subject entities:** winter storm ice
-**Predicate:** accumulated
-**Object:** 1 inch (2.5 cm) (ice_accumulation)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** winter storm ice
+- **Predicate:** accumulated
+- **Object:** 1 inch (2.5 cm) (ice_accumulation)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > Ice thickness of 1 inch was recorded in multiple communities across Mississippi, Louisiana, Oklahoma, Alabama, and South Carolina.
 
-### c_007 — reported, primary document
-**Subject entities:** Louisiana storm deaths
-**Predicate:** occurred
-**Object:** 8+ (death_toll)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Louisiana storm deaths
+- **Predicate:** occurred
+- **Object:** 8+ (death_toll)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > At least 8 people died in Louisiana.
 
-### c_008 — reported, primary document
-**Subject entities:** New York City storm deaths
-**Predicate:** occurred
-**Object:** several (death_toll)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** New York City storm deaths
+- **Predicate:** occurred
+- **Object:** several (death_toll)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > Several people were found dead outdoors in New York City.
 
-### c_009 — reported, primary document
-**Subject entities:** Texas children; frozen pond
-**Predicate:** died falling through ice
-**Object:** 3 deaths (death_toll)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Texas children; frozen pond
+- **Predicate:** died falling through ice
+- **Object:** 3 deaths (death_toll)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Three brothers, ages 6, 8, and 9, died after falling through the frozen surface of a pond in Texas on Monday.
 
-### c_010 — reported, primary document
-**Subject entities:** Allen County Kentucky
-**Predicate:** required recovery time
-**Object:** 10 days (recovery_duration)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Allen County Kentucky
+- **Predicate:** required recovery time
+- **Object:** 10 days (recovery_duration)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > Power recovery in Allen County, Kentucky, could take up to 10 days.
 
-### c_011 — reported, primary document
-**Subject entities:** Little Rock airport sleet
-**Predicate:** accumulated
-**Object:** 6.7 inches (17 cm) (sleet_accumulation)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Little Rock airport sleet
+- **Predicate:** accumulated
+- **Object:** 6.7 inches (17 cm) (sleet_accumulation)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > 6.7 inches of sleet fell at Clinton National Airport in Little Rock, Arkansas.
 
-### c_012 — reported, primary document
-**Subject entities:** Sterling Massachusetts snow
-**Predicate:** accumulated
-**Object:** 22.2 inches (56.4 cm) (snow_accumulation)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Sterling Massachusetts snow
+- **Predicate:** accumulated
+- **Object:** 22.2 inches (56.4 cm) (snow_accumulation)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > 22.2 inches of snow fell in Sterling, Massachusetts.
 
-### c_013 — reported, primary document
-**Subject entities:** Paws of War; Tupelo Mississippi
-**Predicate:** rescued dogs
-**Object:** 200+ (rescue_count)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_013
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Paws of War; Tupelo Mississippi
+- **Predicate:** rescued dogs
+- **Object:** 200+ (rescue_count)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > More than 200 dogs were rescued from a rural property in the Tupelo, Mississippi, area just before the ice storm by Paws of War.
 
-### c_014 — reported, primary document
-**Subject entities:** U.S. air travel
-**Predicate:** experienced flight cancellations
-**Object:** 2,000 (flight_cancellation_count)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_014
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. air travel
+- **Predicate:** experienced flight cancellations
+- **Object:** 2,000 (flight_cancellation_count)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > 2,000 U.S. flights were canceled on Tuesday.
 
-### c_015 — reported, primary document
-**Subject entities:** Nashville temperature forecast
-**Predicate:** was forecast to reach
-**Object:** 14°F (-10°C) (temperature_forecast)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_015
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Nashville temperature forecast
+- **Predicate:** was forecast to reach
+- **Object:** 14°F (-10°C) (temperature_forecast)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > A low of 14 degrees Fahrenheit was expected in Nashville early Wednesday morning.
 
-### c_016 — reported, primary document
-**Subject entities:** Marshall Ramsey; Oxford Mississippi home
-**Predicate:** experienced indoor temperature drop
-**Object:** 50°F (10°C) (indoor_temperature)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_016
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Marshall Ramsey; Oxford Mississippi home
+- **Predicate:** experienced indoor temperature drop
+- **Object:** 50°F (10°C) (indoor_temperature)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > The temperature inside Marshall Ramsey's home in Oxford, Mississippi, was 50 degrees Fahrenheit on Monday morning after he lost power.
 
-### c_017 — reported, primary document
-**Subject entities:** Orlando Florida temperature forecast
-**Predicate:** was forecast to reach
-**Object:** 28°F (-2°C) (temperature_forecast)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_017
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Orlando Florida temperature forecast
+- **Predicate:** was forecast to reach
+- **Object:** 28°F (-2°C) (temperature_forecast)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > A low of 28 degrees Fahrenheit was expected in Orlando, Florida, by early the following week.
 
-### c_018 — reported, primary document
-**Subject entities:** Nashville warming centers
-**Predicate:** provided refuge
-**Object:** 47 centers (warming_facility_count)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_018
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Nashville warming centers
+- **Predicate:** provided refuge
+- **Object:** 47 centers (warming_facility_count)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > Nashville had 47 warming centers where people without power could go to warm up.
 
-### c_019 — attributed, primary document
-**Subject entities:** Adrian Ronca-Hohn
-**Predicate:** described storm aftermath
-**Object:** like a war zone (observation)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_019
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Adrian Ronca-Hohn
+- **Predicate:** described storm aftermath
+- **Object:** like a war zone (observation)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Adrian Ronca-Hohn, a 23-year-old football coach in Iuka, Mississippi, said the ice storm destruction looked 'like a war zone.'
 
-### c_020 — attributed, primary document
-**Subject entities:** Marshall Ramsey
-**Predicate:** described storm
-**Object:** like a demonic symphony of trees breaking, transformers blowing and thunder (observation)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_020
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Marshall Ramsey
+- **Predicate:** described storm
+- **Object:** like a demonic symphony of trees breaking, transformers blowing and thunder (observation)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > Marshall Ramsey said the weekend ice storm 'was like a demonic symphony of trees breaking, transformers blowing and thunder.'
 
@@ -326,10 +342,5 @@ This article was generated algorithmically by Main Street Independent's News Art
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Jeff Martin
 **Publication date:** 2026-01-26
-**Access date:** 2026-01-26
-**Title:** The winter storm's deadly impact, by the numbers
+**Title:** The winter storm’s deadly impact, by the numbers
 **URL:** https://apnews.com/article/winter-storm-power-outages-3207d7da041c873fe8e6ab0d92203fe5
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

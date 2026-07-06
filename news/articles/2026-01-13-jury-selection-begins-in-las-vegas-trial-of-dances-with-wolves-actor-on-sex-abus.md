@@ -1,6 +1,5 @@
 ---
 headline: Jury selection begins in Las Vegas trial of 'Dances with Wolves' actor on sex abuse charges
-slug: 2026-01-13-jury-selection-begins-nathan-chasing-horse-sex-abuse-trial-las-vegas
 publish_date: '2026-01-13'
 lede: Jury selection began Tuesday in the Las Vegas trial of Nathan Chasing Horse, the former "Dances with Wolves" actor accused of sexually abusing Indigenous women and girls over two decades. Prosecutors allege Chasing Horse used his reputation as a spiritual leader and healer to exploit his victims, and that he filmed himself abusing at least one of them. Chasing Horse, who was present in the courtroom, has pleaded not guilty to 21 charges.
 nut_graf: The case drew widespread attention across Indigenous communities when Chasing Horse was arrested in early 2023, and it reached trial after a three-year legal journey that included a dismissed indictment, a Nevada Supreme Court ruling faulting prosecutorial conduct, and the refiling of charges supported by video recordings.
@@ -15,44 +14,40 @@ primary_themes:
 - criminal justice
 - cult abuse
 topic_tags:
-  - crime
-  - "crime, law and justice"
-  - "human migration"
-  - "international relations"
-  - "political process"
-  - trial
-storyline_nexus: []
-geographic_location: Las Vegas, Nevada
+- crime, law and justice
+- trial
+- prosecution
+storyline_nexus:
+- lgbtq-rights-restrictions
+geographic_location: United States
 floor_values_engaged:
+- value: human_life_and_dignity
+  intensity: 0.9
 - value: accountability_of_power
   intensity: 0.9
-- value: human_life_and_dignity
-  intensity: 0.85
-- value: informed_citizenship
-  intensity: 0.7
-framework_version: 1.1.0
-generation_timestamp: '2026-01-13T00:00:00Z'
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:43:13Z'
 source_cluster_id: cluster_ap_2026-01-12_nathan-chasing-horse-trial-abuse-actor-i
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 12
   hedges:
-    appears: 0
-    alleged: 2
     attributed: 3
-    reported: 4
-    contested: 0
     confirmed: 3
+    reported: 4
+    alleged: 2
+    appears: 0
+    contested: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 3
-    single_source: 9
+    one_originating_plus_primary_document: 0
+    primary_plus_secondary: 0
     two_independent: 0
+    single_source: 9
 sources:
   count: 1
   outlets:
@@ -70,13 +65,17 @@ image:
   url: /articles/2026-01-13-jury-selection-begins-in-las-vegas-trial-of-dances-with-wolves-actor-on-sex-abus.png
   alt: 'Illustration accompanying article: Jury selection begins in Las Vegas trial of ''Dances with Wolves'' actor on'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-05-former-dances-with-wolves-actor-removed-from-court-ahead-of-sex-abuse-trial
-  relation: continues
-  strength: 0.9332
-  confidence: high
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- **Child sex abuse trial for 'Dances with Wolves' actor begins** — opening narrative arc or primary actor action.
+- - "crime, law and justice"
+- alt: 'Illustration accompanying article: Jury selection begins in Las Vegas trial of ''Dances with Wolves'' actor on'
 
 Jury selection began Tuesday in the Las Vegas trial of Nathan Chasing Horse, the former "Dances with Wolves" actor accused of sexually abusing Indigenous women and girls over two decades. Prosecutors allege Chasing Horse used his reputation as a spiritual leader and healer to exploit his victims, and that he filmed himself abusing at least one of them. Chasing Horse, who was present in the courtroom, has pleaded not guilty to 21 charges.
 
@@ -116,108 +115,132 @@ Lee said the case is a reminder that violence occurs within Native communities a
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Nathan Chasing Horse
-**Predicate:** trial_commenced
-**Object:** jury selection (legal_proceeding)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Nathan Chasing Horse
+- **Predicate:** trial_commenced
+- **Object:** jury selection (legal_proceeding)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Jury selection began Tuesday in the Las Vegas trial of Nathan Chasing Horse.
 
-### c_002 — confirmed, primary document
-**Subject entities:** Nathan Chasing Horse
-**Predicate:** pleaded
-**Object:** not guilty to 21 charges (plea)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Nathan Chasing Horse
+- **Predicate:** pleaded
+- **Object:** not guilty to 21 charges (plea)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Chasing Horse has pleaded not guilty to 21 charges, including sexual assault, sexual assault with a minor, first-degree kidnapping of a minor, and use of a minor in producing pornography.
 
-### c_003 — alleged, single source
-**Subject entities:** Nathan Chasing Horse
-**Predicate:** alleged_abuse_of_position
-**Object:** spiritual leader reputation exploited over two decades (allegation)
-**Source IDs:** src_001
+### c_003
+- **Hedge:** alleged
+- **Corroboration:** single_source
+- **Subject entities:** Nathan Chasing Horse
+- **Predicate:** alleged_abuse_of_position
+- **Object:** spiritual leader reputation exploited over two decades (allegation)
+- **Sources:** src_001
 
 > Prosecutors allege Chasing Horse used his reputation as a spiritual leader and healer to abuse victims over two decades.
 
-### c_004 — attributed, single source
-**Subject entities:** Nathan Chasing Horse; Dances with Wolves
-**Predicate:** portrayed
-**Object:** Smiles A Lot, 1990 (film_role)
-**Temporal:** 1990
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Nathan Chasing Horse; Dances with Wolves
+- **Predicate:** portrayed
+- **Object:** Smiles A Lot, 1990 (film_role)
+- **Temporal:** 1990
+- **Sources:** src_001
 
 > Chasing Horse was best known for portraying Smiles A Lot in the 1990 Oscar-winning film 'Dances with Wolves.'
 
-### c_005 — attributed, single source
-**Subject entities:** Nathan Chasing Horse; Rosebud Reservation
-**Predicate:** born_on
-**Object:** Rosebud Reservation, South Dakota (birthplace)
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Nathan Chasing Horse; Rosebud Reservation
+- **Predicate:** born_on
+- **Object:** Rosebud Reservation, South Dakota (birthplace)
+- **Sources:** src_001
 
 > Chasing Horse was born on the Rosebud Reservation in South Dakota, home of the Sicangu Sioux, one of the seven tribes of the Lakota nation.
 
-### c_006 — alleged, single source
-**Subject entities:** Nathan Chasing Horse; The Circle
-**Predicate:** alleged_to_have_led
-**Object:** The Circle (allegation)
-**Source IDs:** src_001
+### c_006
+- **Hedge:** alleged
+- **Corroboration:** single_source
+- **Subject entities:** Nathan Chasing Horse; The Circle
+- **Predicate:** alleged_to_have_led
+- **Object:** The Circle (allegation)
+- **Sources:** src_001
 
 > Prosecutors say Chasing Horse led a group called The Circle, whose followers believed he could speak with spirits.
 
-### c_007 — confirmed, primary document
-**Subject entities:** Nevada Supreme Court
-**Predicate:** ruled
-**Object:** prosecutors abused grand jury process; indictment dismissed (court_ruling)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Nevada Supreme Court
+- **Predicate:** ruled
+- **Object:** prosecutors abused grand jury process; indictment dismissed (court_ruling)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > The original indictment was dismissed in 2024 after the Nevada Supreme Court ruled prosecutors abused the grand jury process by providing a definition of grooming as evidence without expert testimony.
 
-### c_008 — reported, single source
-**Subject entities:** Nathan Chasing Horse
-**Predicate:** charges_refiled
-**Object:** refiled with recording allegation, October 2024 (legal_filing)
-**Temporal:** 2024-10
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Nathan Chasing Horse
+- **Predicate:** charges_refiled
+- **Object:** refiled with recording allegation, October 2024 (legal_filing)
+- **Temporal:** 2024-10
+- **Sources:** src_001
 
 > Charges were refiled in October 2024 with a new allegation that Chasing Horse recorded himself sexually abusing one of his accusers.
 
-### c_009 — reported, single source
-**Subject entities:** Nathan Chasing Horse
-**Predicate:** recordings_found
-**Object:** cellphones in locked safe, North Las Vegas home (evidence)
-**Temporal:** 2010-2011
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Nathan Chasing Horse
+- **Predicate:** recordings_found
+- **Object:** cellphones in locked safe, North Las Vegas home (evidence)
+- **Temporal:** 2010-2011
+- **Sources:** src_001
 
 > Prosecutors say recordings made in 2010 or 2011 were found on cellphones in a locked safe inside the North Las Vegas home Chasing Horse is said to have shared with five wives.
 
-### c_010 — reported, single source
-**Subject entities:** Nathan Chasing Horse
-**Predicate:** trial_duration_expected
-**Object:** four weeks, 18 witnesses (proceeding_detail)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Nathan Chasing Horse
+- **Predicate:** trial_duration_expected
+- **Object:** four weeks, 18 witnesses (proceeding_detail)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > The trial is expected to last approximately four weeks, with prosecutors planning to call 18 witnesses.
 
-### c_011 — reported, single source
-**Subject entities:** Nathan Chasing Horse; Jessica Peterson
-**Predicate:** removed_from_courtroom
-**Object:** attempt to fire attorney denied (proceeding_detail)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Nathan Chasing Horse; Jessica Peterson
+- **Predicate:** removed_from_courtroom
+- **Object:** attempt to fire attorney denied (proceeding_detail)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > A week before trial, Chasing Horse attempted to dismiss his private defense attorney; Judge Peterson removed him from the courtroom when he interrupted proceedings and denied his request.
 
-### c_012 — attributed, single source
-**Subject entities:** Crystal Lee; United Natives
-**Predicate:** stated
-**Object:** violence occurs within Native communities (statement)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Crystal Lee; United Natives
+- **Predicate:** stated
+- **Object:** violence occurs within Native communities (statement)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Crystal Lee, CEO and founder of United Natives, said the case is a reminder that violence occurs within Native communities, not only by outsiders.
 
@@ -226,10 +249,5 @@ Lee said the case is a reminder that violence occurs within Native communities a
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Jessica Hill
 **Publication date:** 2026-01-13
-**Access date:** 2026-01-13
 **Title:** Child sex abuse trial for 'Dances with Wolves' actor begins
 **URL:** https://apnews.com/article/nathan-chasing-horse-trial-abuse-actor-indigenous-a0eaa3dd1c3a2ee6757643d596ca840e
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -243,7 +243,3 @@ The government has frequently accused critics and organizations it targets of wo
 **Access date:** 2026-04-16
 **Title:** US Treasury sanctions sons of Nicaragua's leaders and gold companies
 **URL:** https://apnews.com/article/us-nicaragua-sanctions-ortega-sons-treasury-a9d9721bd331135462dbd810af8ed778
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

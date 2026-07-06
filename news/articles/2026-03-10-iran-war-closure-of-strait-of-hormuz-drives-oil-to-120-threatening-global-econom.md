@@ -1,6 +1,5 @@
 ---
 headline: Iran war closure of Strait of Hormuz drives oil to $120, threatening global economy
-slug: 2026-03-10-iran-war-closure-of-strait-of-hormuz-drives-oil-to-120-threatening-global-economy
 publish_date: '2026-03-10'
 lede: 'The closure of the Strait of Hormuz following U.S. and Israeli missile strikes that killed Iranian Supreme Leader Ayatollah Ali Khamenei on Feb. 28 has driven global oil prices from under $70 a barrel to a peak of nearly $120 on Monday before settling closer to $90, according to the Associated Press. The conflict has cut off roughly 20 million barrels of daily oil supply with no spare capacity elsewhere in the world to replace it, economists said.
 
@@ -25,84 +24,62 @@ primary_themes:
 - central bank policy
 - household consumer costs
 topic_tags:
-  - politics
-  - "human interest"
-  - "government policy"
-  - "economy, business and finance"
-  - "human migration"
-  - labour
+- armed conflict
+- energy and resource
+- economy
+- international relations
 storyline_nexus:
-  - iran-war
-  - ai-regulation
-geographic_location: Global / Strait of Hormuz
+- the-iran-war
+geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.9
 - value: human_life_and_dignity
-  intensity: 0.7
-- value: accountability_of_power
-  intensity: 0.5
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:44:56Z'
+  intensity: 0.6
+- value: equality_fairness
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T01:04:10Z'
 source_cluster_id: cluster_ap_2026-03-09_iran-war-trump-economy-oil-gas-66806b02a
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 12
   hedges:
-    appears: 1
-    alleged: 0
     attributed: 10
-    reported: 0
-    contested: 0
     confirmed: 1
+    reported: 0
+    alleged: 0
+    contested: 0
+    appears: 1
   corroboration:
     primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
-    primary_document: 1
-    single_source: 11
     two_independent: 0
+    single_source: 11
+    primary_document: 1
 sources:
-  count: 2
+  count: 1
   outlets:
   - Associated Press
-  - Federal Reserve Bank of St. Louis (FRED)
   outlet_classes:
-  - government_release
   - wire
   highest_reliability_tier: 1
   has_originating: true
   has_primary_document: false
-figures:
-- source: fred
-  series_id: PCEPILFE
-  transformation: yoy_pct
-  as_of: '2026-03-10'
-  caption: Core PCE inflation — the Federal Reserve's preferred price gauge, excluding food and energy — was running at approximately 3.0 percent year-over-year as of March 10, 2026, leaving the Fed's 2 percent target still out of reach before the Iran war added fresh upward pressure on prices.
 figures_aggregate:
-  count: 1
-  series_ids:
-  - PCEPILFE
-  sources:
-  - fred
+  count: 0
+  series_ids: []
+  sources: []
 image:
   url: /articles/2026-03-10-iran-war-closure-of-strait-of-hormuz-drives-oil-to-120-threatening-global-econom.png
   alt: 'Illustration accompanying article: Iran war closure of Strait of Hormuz drives oil to $120, threatening global economy'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-12-iran-s-leadership-weakened-by-war-faces-broad-protests-as-crackdown-kills-hundre
-  relation: related
-  strength: 0.8089
-  confidence: medium
-- slug: 2026-01-15-treasury-sanctions-iranian-protest-crackdown-officials-targets-shadow-oil-networ
-  relation: related
-  strength: 0.7716
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
 
 The Hormuz closure has placed the global economy in what the Peterson Institute's Maurice Obstfeld called 'the nightmare scenario' — a sustained cutoff of the world's most critical oil transit route at a moment when global inflation remained elevated and household budgets in the United States and elsewhere were already under strain.
 
@@ -166,111 +143,135 @@ Especially if oil prices retreat to the $70-to-$80-a-barrel range, Shearing wrot
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Strait of Hormuz; Ayatollah Ali Khamenei; United States; Israel
-**Predicate:** shut_down_following_strikes
-**Object:** Strait of Hormuz closure (event)
-**Temporal:** 2026-02-28
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Strait of Hormuz; Ayatollah Ali Khamenei; United States; Israel
+- **Predicate:** shut_down_following_strikes
+- **Object:** Strait of Hormuz closure (event)
+- **Temporal:** 2026-02-28
+- **Sources:** src_001
 
 > The Strait of Hormuz was effectively shut down after the U.S. and Israel launched missile strikes Feb. 28 that killed Iranian leader Ayatollah Ali Khamenei.
 
-### c_002 — attributed, single source
-**Subject entities:** global oil prices
-**Predicate:** surged_from_to
-**Object:** from <$70 to peak ~$120, settling ~$90 (price_range)
-**Temporal:** 2026-02-27/2026-03-10
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** global oil prices
+- **Predicate:** surged_from_to
+- **Object:** from <$70 to peak ~$120, settling ~$90 (price_range)
+- **Temporal:** 2026-02-27/2026-03-10
+- **Sources:** src_001
 
 > Oil prices surged from less than $70 a barrel on Feb. 27 to a peak of nearly $120 early Monday before settling closer to $90.
 
-### c_003 — attributed, single source
-**Subject entities:** AAA; U.S. gasoline prices
-**Predicate:** rose_to
-**Object:** $3.48/gallon from ~$3/gallon (price)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** AAA; U.S. gasoline prices
+- **Predicate:** rose_to
+- **Object:** $3.48/gallon from ~$3/gallon (price)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > The average price of U.S. gasoline has risen to $3.48 a gallon from just under $3 a week ago, according to AAA.
 
-### c_004 — attributed, single source
-**Subject entities:** Kristalina Georgieva; International Monetary Fund
-**Predicate:** said
-**Object:** 10% oil rise = +0.4pp inflation, -0.2% output (economic_projection)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Kristalina Georgieva; International Monetary Fund
+- **Predicate:** said
+- **Object:** 10% oil rise = +0.4pp inflation, -0.2% output (economic_projection)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > Every 10% increase in oil prices will push up global inflation by 0.4 percentage points and reduce worldwide economic output by as much as 0.2%, provided the increase persists for most of the year, according to IMF Managing Director Kristalina Georgieva.
 
-### c_005 — attributed, single source
-**Subject entities:** Simon Johnson; Massachusetts Institute of Technology; Strait of Hormuz
-**Predicate:** said
-**Object:** 20M barrels/day, no replacement capacity globally (supply_assessment)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Simon Johnson; Massachusetts Institute of Technology; Strait of Hormuz
+- **Predicate:** said
+- **Object:** 20M barrels/day, no replacement capacity globally (supply_assessment)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > 20 million barrels of oil a day pass through the Strait of Hormuz, and there is no excess capacity anywhere in the world to fill the gap, according to MIT economist Simon Johnson.
 
-### c_006 — attributed, single source
-**Subject entities:** Joseph Glauber; International Food Policy Research Institute; Strait of Hormuz
-**Predicate:** said
-**Object:** up to 30% of world fertilizer exports (trade_share)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Joseph Glauber; International Food Policy Research Institute; Strait of Hormuz
+- **Predicate:** said
+- **Object:** up to 30% of world fertilizer exports (trade_share)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > Up to 30% of world fertilizer exports — including urea, ammonia, phosphates, and sulfur — pass through the Strait of Hormuz, according to Joseph Glauber of the International Food Policy Research Institute.
 
-### c_007 — attributed, single source
-**Subject entities:** Pakistan; Qatar
-**Predicate:** imports_with_supply_cut
-**Object:** 40% of energy, LNG from Qatar severed (energy_dependency)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Pakistan; Qatar
+- **Predicate:** imports_with_supply_cut
+- **Object:** 40% of energy, LNG from Qatar severed (energy_dependency)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > Pakistan imports 40% of its energy and relies especially heavily on liquified natural gas from Qatar, supplies of which have been cut off by the conflict.
 
-### c_008 — attributed, single source
-**Subject entities:** Mark Mathews; National Retail Federation
-**Predicate:** said
-**Object:** $2,500/year household fuel; 20% rise = $10/week extra (consumer_impact)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Mark Mathews; National Retail Federation
+- **Predicate:** said
+- **Object:** $2,500/year household fuel; 20% rise = $10/week extra (consumer_impact)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > U.S. households pay $2,500 a year, or nearly $50 a week, to fill up their cars, and a 20% increase in gasoline prices adds roughly $10 a week to that cost, according to Mark Mathews, chief economist at the National Retail Federation.
 
-### c_009 — attributed, single source
-**Subject entities:** Evercore ISI; Trump 2025 tax cuts
-**Predicate:** calculated
-**Object:** $100 oil wipes out tax-cut gains for bottom 70% of earners (economic_analysis)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Evercore ISI; Trump 2025 tax cuts
+- **Predicate:** calculated
+- **Object:** $100 oil wipes out tax-cut gains for bottom 70% of earners (economic_analysis)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > If oil prices remain around $100 a barrel, higher gasoline prices will wipe out for most Americans the benefits of higher tax refunds from Trump's 2025 tax cuts; only the top 30% of earners would still see a net gain, according to analysts at Evercore ISI.
 
-### c_010 — confirmed, primary document
-**Subject entities:** Federal Reserve; Core PCE inflation
-**Predicate:** running_at
-**Object:** 3.0% YoY (FRED PCEPILFE series) (inflation_rate)
-**Temporal:** 2026-03-10
-**Source IDs:** src_002
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Federal Reserve; Core PCE inflation
+- **Predicate:** running_at
+- **Object:** 3.0% YoY (FRED PCEPILFE series) (inflation_rate)
+- **Temporal:** 2026-03-10
+- **Sources:** src_002
 
 > Core PCE inflation — the Federal Reserve's preferred price gauge — was running at approximately 3.0% year-over-year as of March 10, 2026, above the Fed's 2% target.
 
-### c_011 — appears, single source
-**Subject entities:** Mojtaba Khamanei
-**Predicate:** believed_to_be
-**Object:** more hardline than his father (political_assessment)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_011
+- **Hedge:** appears
+- **Corroboration:** single_source
+- **Subject entities:** Mojtaba Khamanei
+- **Predicate:** believed_to_be
+- **Object:** more hardline than his father (political_assessment)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > Mojtaba Khamanei, son of the slain ayatollah, is believed to be even more of a hardliner than his father.
 
-### c_012 — attributed, single source
-**Subject entities:** United States
-**Predicate:** expected_to_gain
-**Object:** slight net benefit from higher energy prices as net exporter (economic_assessment)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** United States
+- **Predicate:** expected_to_gain
+- **Object:** slight net benefit from higher energy prices as net exporter (economic_assessment)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > The United States, now a net exporter of energy, should gain slightly overall from higher oil and gas prices.
 
@@ -279,16 +280,5 @@ Especially if oil prices retreat to the $70-to-$80-a-barrel range, Shearing wrot
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Paul Wiseman
 **Publication date:** 2026-03-10
-**Access date:** 2026-03-10
 **Title:** War with Iran delivers another shock to the global economy
 **URL:** https://apnews.com/article/iran-war-trump-economy-oil-gas-66806b02a000235f1979e591279b6554
-
-### src_002 — Federal Reserve Bank of St. Louis (FRED), government_release, Tier 1, originating
-**Publication date:** 2026-03-10
-**Access date:** 2026-03-10
-**Title:** Core PCE (PCE less food and energy), year-over-year percent change
-**URL:** https://fred.stlouisfed.org/series/PCEPILFE
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -18,7 +18,7 @@ primary_themes:
 topic_tags:
   - "conflict, war and peace"
 storyline_nexus:
-  - gaza-conflict
+- syria-post-conflict-integration
 geographic_location: Kobani, northeast Syria
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -104,10 +104,6 @@ Under the new accord, SDF members are required to merge into the Syrian army and
 The Saturday extension of the ceasefire gives U.S. forces time to transfer accused Islamic State group militants held in prisons in northeast Syria to detention centers in Iraq. About 7,000 of the roughly 9,000 accused Islamic State members held in Syria are being transferred, amid concerns they could escape if fighting resumes between government forces and the SDF.
 
 Once in Iraq, prisoners accused of terrorism will be investigated by Iraqi security forces and tried in domestic Iraqi courts, according to Iraqi officials.
-
----
-
-**About this article.** This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. For more on our methodology, see our [Editorial Foundation](/methodology). This article did not require human review.
 
 **License.** This work is dedicated to the public domain under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
 
@@ -273,7 +269,3 @@ Once in Iraq, prisoners accused of terrorism will be investigated by Iraqi secur
 **Access date:** 2026-01-26
 **Title:** First aid convoy reaches Kobani since Syrian government offensive
 **URL:** https://apnews.com/article/syria-kobani-kurds-sdf-aid-convoy-b476704886c54a669bc5ffb2a4e98aac
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

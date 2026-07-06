@@ -18,8 +18,7 @@ topic_tags:
   - "human interest"
   - "human migration"
 storyline_nexus:
-  - immigration-enforcement
-  - us-administration-2026
+- trump-foreign-policy-reshaping
 geographic_location: 'United States (Michigan); secondary: Singapore, Myanmar, Canada, Australia'
 floor_values_engaged:
 - value: informed_citizenship
@@ -138,102 +137,124 @@ For Thaw, the stranding is a consequence of a single decision to pursue an inter
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Patrick Thaw; University of Michigan
-**Predicate:** departed_for_internship
-**Object:** Singapore summer internship (location_activity)
-**Temporal:** 2024-06
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Patrick Thaw; University of Michigan
+- **Predicate:** departed_for_internship
+- **Object:** Singapore summer internship (location_activity)
+- **Temporal:** 2024-06
+- **Sources:** src_001
 
 > Patrick Thaw, a University of Michigan neuroscience major from Myanmar, left the United States for a summer internship in Singapore.
 
-### c_002 — confirmed, single source
-**Subject entities:** Donald Trump
-**Predicate:** travel_ban_imposed
-**Object:** 12 countries including Myanmar (policy_scope)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** travel_ban_imposed
+- **Object:** 12 countries including Myanmar (policy_scope)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > President Trump imposed a travel ban on 12 countries, including Myanmar.
 
-### c_003 — reported, single source
-**Subject entities:** Patrick Thaw
-**Predicate:** prevented_return
-**Object:** Cannot return to complete degree (consequence)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Patrick Thaw
+- **Predicate:** prevented_return
+- **Object:** Cannot return to complete degree (consequence)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Thaw was unable to return to the United States to continue his university studies because of the travel ban.
 
-### c_004 — attributed, single source
-**Subject entities:** Patrick Thaw
-**Predicate:** expressed_regret
-**Object:** regrets departing the United States (statement)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Patrick Thaw
+- **Predicate:** expressed_regret
+- **Object:** regrets departing the United States (statement)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Thaw said, 'If I knew it was going to go down this badly, I wouldn't have left the United States.'
 
-### c_005 — reported, single source
-**Subject entities:** United States
-**Predicate:** hosted_students
-**Object:** 1.2 million (enrollment_count)
-**Temporal:** 2024-25
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** United States
+- **Predicate:** hosted_students
+- **Object:** 1.2 million (enrollment_count)
+- **Temporal:** 2024-25
+- **Sources:** src_001
 
 > The U.S. hosted nearly 1.2 million international students during the 2024-25 school year.
 
-### c_006 — reported, single source
-**Subject entities:** Myanmar
-**Predicate:** visa_holders
-**Object:** 1,400+ (visa_count)
-**Temporal:** 2024-06
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Myanmar
+- **Predicate:** visa_holders
+- **Object:** 1,400+ (visa_count)
+- **Temporal:** 2024-06
+- **Sources:** src_001
 
 > More than 1,400 people from Myanmar had U.S. student visas as of summer 2024.
 
-### c_007 — reported, single source
-**Subject entities:** Trump administration
-**Predicate:** restricted_enrollment
-**Object:** dip in foreign enrollment (policy_consequence)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Trump administration
+- **Predicate:** restricted_enrollment
+- **Object:** dip in foreign enrollment (policy_consequence)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > The Trump administration's travel ban included pauses in visa appointments and additional vetting layers that contributed to a dip in foreign enrollment for first-time students.
 
-### c_008 — attributed, single source
-**Subject entities:** Universities
-**Predicate:** adapted_to_ban
-**Object:** remote learning and international partnerships (adaptation_strategy)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Universities
+- **Predicate:** adapted_to_ban
+- **Object:** remote learning and international partnerships (adaptation_strategy)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Universities have been coming up with increasingly flexible solutions, such as remote learning arrangements and admission to international campuses.
 
-### c_009 — attributed, single source
-**Subject entities:** Patrick Thaw
-**Predicate:** expressed_displacement
-**Object:** stranded in Singapore despite wanting to return to Michigan (personal_statement)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Patrick Thaw
+- **Predicate:** expressed_displacement
+- **Object:** stranded in Singapore despite wanting to return to Michigan (personal_statement)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Thaw said, 'Mentally, I'm back in Ann Arbor. But physically, I'm trapped in Singapore.'
 
-### c_010 — attributed, single source
-**Subject entities:** Patrick Thaw
-**Predicate:** decided_to_pursue_alternatives
-**Object:** unwilling to wait indefinitely for ban to lift (decision_statement)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Patrick Thaw
+- **Predicate:** decided_to_pursue_alternatives
+- **Object:** unwilling to wait indefinitely for ban to lift (decision_statement)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Thaw said, 'I cannot just wait for the travel ban to just end and get lifted and go back, because that's going to be an indefinite amount of time.'
 
-### c_011 — attributed, single source
-**Subject entities:** Patrick Thaw; University of Toronto
-**Predicate:** pursuing_admission
-**Object:** University of Toronto admission (educational_destination)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Patrick Thaw; University of Toronto
+- **Predicate:** pursuing_admission
+- **Object:** University of Toronto admission (educational_destination)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Thaw is holding out hope of attending the University of Toronto.
 
@@ -245,7 +266,3 @@ For Thaw, the stranding is a consequence of a single decision to pursue an inter
 **Access date:** 2026-01-27
 **Title:** An international student at Michigan was stranded by Trump's travel ban
 **URL:** https://apnews.com/article/travel-ban-international-student-myanmar-michigan-7367b73398296f1bbca5dbe473442390
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

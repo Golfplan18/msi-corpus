@@ -16,40 +16,42 @@ primary_themes:
 - documentary
 - inmate_rights
 topic_tags:
-  - "crime, law and justice"
-  - "law enforcement"
-storyline_nexus: []
-geographic_location: Alabama, United States
+- civil rights
+- crime, law and justice
+- fundamental rights
+- labour dispute
+- political dissent
+storyline_nexus:
+- us-immigration-enforcement
+geographic_location: United States
 floor_values_engaged:
-- value: human_life_and_dignity
-  intensity: 0.95
 - value: accountability_of_power
   intensity: 0.9
-- value: informed_citizenship
-  intensity: 0.7
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+- value: human_life_and_dignity
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:34:07Z'
 source_cluster_id: cluster_ap_2026-01-29_alabama-solution-prison-council-ray-pool
 gdelt_event_ids: []
-consensus_floor_version: v1.0
-publication_mindspec_version: v0.1
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 16
   hedges:
-    appears: 0
     alleged: 1
+    contested: 0
+    appears: 0
     attributed: 8
     reported: 5
-    contested: 0
     confirmed: 2
   corroboration:
-    primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
-    primary_document: 2
     single_source: 14
+    primary_plus_secondary: 0
     two_independent: 0
+    primary_document: 2
 sources:
   count: 1
   outlets:
@@ -63,17 +65,16 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-04-15-guards-accused-of-beating-detainees-at-florida-s-alligator-alcatraz
-  relation: related
-  strength: 0.7834
-  confidence: medium
-- slug: 2026-04-18-kansas-family-sues-over-inmate-s-death-from-alleged-deputy-pressure
-  relation: related
-  strength: 0.7241
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- The Alabama prison system has transferred three prominent inmate activists to solitary confinement at Kilby Correctional Facility, with family members and attorneys saying the men are being held in...
+- The three are among the most visible inmate activists in Alabama, having been featured in 'The Alabama Solution,' an Oscar-nominated documentary ab...
+- The three men are being held on an isolated and closely guarded floor of Kilby Correctional Facility outside Montgomery. According to the attorneys...
 
 The Alabama prison system has transferred three prominent inmate activists to solitary confinement at Kilby Correctional Facility, with family members and attorneys saying the men are being held in severe isolation. Robert Earl Council, Melvin Ray and Raoul Poole were moved from their existing prisons two weeks ago and are now in isolated cells with severely restricted contact with family and other inmates, according to their lawyers.
 
@@ -109,151 +110,181 @@ The men's isolation coincides with fresh organizing for a new prison labor strik
 
 The Alabama Department of Corrections attributed the commissary restrictions to a recent change in food service vendors and did not provide further details.
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
-### c_001 — reported, single source
-**Subject entities:** Robert Earl Council; Melvin Ray; Raoul Poole
-**Predicate:** transferred_to
-**Object:** Kilby Correctional Facility solitary confinement (incarceration_transfer)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Robert Earl Council; Melvin Ray; Raoul Poole
+- **Predicate:** transferred_to
+- **Object:** Kilby Correctional Facility solitary confinement (incarceration_transfer)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Robert Earl Council, Melvin Ray and Raoul Poole were transferred to solitary confinement at Kilby Correctional Facility two weeks ago.
 
-### c_002 — reported, single source
-**Subject entities:** Robert Earl Council; Melvin Ray; Raoul Poole
-**Predicate:** held_in_isolation
-**Object:** isolated cells; severed contact with family and inmates (incarceration_condition)
-**Temporal:** 2026-01-28
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Robert Earl Council; Melvin Ray; Raoul Poole
+- **Predicate:** held_in_isolation
+- **Object:** isolated cells; severed contact with family and inmates (incarceration_condition)
+- **Temporal:** 2026-01-28
+- **Sources:** src_001
 
 > The men are being held in isolated cells with severe restrictions on contact with family and other inmates.
 
-### c_003 — reported, single source
-**Subject entities:** family members; attorneys
-**Predicate:** characterize_as_retaliation
-**Object:** retaliation for prison activism (allegation)
-**Temporal:** 2026-01-28
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** family members; attorneys
+- **Predicate:** characterize_as_retaliation
+- **Object:** retaliation for prison activism (allegation)
+- **Temporal:** 2026-01-28
+- **Sources:** src_001
 
 > Family members and attorneys say the transfers are a form of retaliation for the activists' outspokenness.
 
-### c_004 — attributed, single source
-**Subject entities:** Julie Sledd
-**Predicate:** stated
-**Object:** Transfers are retaliation; men have been active in advocating for prisoners' rights (direct_quote)
-**Temporal:** 2026-01-28
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Julie Sledd
+- **Predicate:** stated
+- **Object:** Transfers are retaliation; men have been active in advocating for prisoners' rights (direct_quote)
+- **Temporal:** 2026-01-28
+- **Sources:** src_001
 
 > Julie Sledd said, 'This is straight-up retaliation. They've all three been very involved in standing up for the rights of incarcerated citizens.'
 
-### c_005 — attributed, single source
-**Subject entities:** attorneys
-**Predicate:** stated
-**Object:** contact restrictions exceed standard segregation protocols (legal_assessment)
-**Temporal:** 2026-01-28
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** attorneys
+- **Predicate:** stated
+- **Object:** contact restrictions exceed standard segregation protocols (legal_assessment)
+- **Temporal:** 2026-01-28
+- **Sources:** src_001
 
 > Attorneys representing the three men said the restrictions on contact 'far exceed standard administrative segregation protocols.'
 
-### c_006 — reported, single source
-**Subject entities:** Alabama Department of Corrections
-**Predicate:** cited_security_concerns
-**Object:** men engaged in activity detrimental to safety and security (institutional_statement)
-**Temporal:** 2026-01-28
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Alabama Department of Corrections
+- **Predicate:** cited_security_concerns
+- **Object:** men engaged in activity detrimental to safety and security (institutional_statement)
+- **Temporal:** 2026-01-28
+- **Sources:** src_001
 
 > The Alabama Department of Corrections said the transfer was based on intelligence that the men were engaged in activity detrimental to facility safety and security.
 
-### c_007 — confirmed, primary document
-**Subject entities:** Robert Earl Council; Melvin Ray; Raoul Poole; The Alabama Solution
-**Predicate:** featured_in
-**Object:** The Alabama Solution; Oscar-nominated documentary (media_appearance)
-**Temporal:** 2026-01-28
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Robert Earl Council; Melvin Ray; Raoul Poole; The Alabama Solution
+- **Predicate:** featured_in
+- **Object:** The Alabama Solution; Oscar-nominated documentary (media_appearance)
+- **Temporal:** 2026-01-28
+- **Sources:** src_001
 
 > The three men were featured in 'The Alabama Solution,' a documentary about the state prison system that is nominated for an Academy Award in the documentary category.
 
-### c_008 — confirmed, primary document
-**Subject entities:** Robert Earl Council; Melvin Ray; Raoul Poole
-**Predicate:** led
-**Object:** 2022 Alabama prison labor strike; thousands participated (historical_event)
-**Temporal:** 2022
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Robert Earl Council; Melvin Ray; Raoul Poole
+- **Predicate:** led
+- **Object:** 2022 Alabama prison labor strike; thousands participated (historical_event)
+- **Temporal:** 2022
+- **Sources:** src_001
 
 > In 2022, Council, Ray and Poole were among leaders of an Alabama prison labor strike in which thousands of inmates refused to work to protest conditions.
 
-### c_009 — attributed, single source
-**Subject entities:** attorneys
-**Predicate:** cited
-**Object:** ADOC pattern of excessive force and retaliation (legal_argument)
-**Temporal:** 2026-01-28
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** attorneys
+- **Predicate:** cited
+- **Object:** ADOC pattern of excessive force and retaliation (legal_argument)
+- **Temporal:** 2026-01-28
+- **Sources:** src_001
 
 > Attorneys cited ADOC's 'decade-long documented history of excessive force against prisoners and its pattern of retaliation against these specific individuals.'
 
-### c_010 — alleged, single source
-**Subject entities:** guards; Robert Earl Council
-**Predicate:** nearly_killed
-**Object:** Robert Council in 2021 incident (alleged_incident)
-**Temporal:** 2021
-**Source IDs:** src_001
+### c_010
+- **Hedge:** alleged
+- **Corroboration:** single_source
+- **Subject entities:** guards; Robert Earl Council
+- **Predicate:** nearly_killed
+- **Object:** Robert Council in 2021 incident (alleged_incident)
+- **Temporal:** 2021
+- **Sources:** src_001
 
 > Attorneys said that in 2021, four guards nearly killed Robert Council.
 
-### c_011 — attributed, single source
-**Subject entities:** Earnestine Council
-**Predicate:** unable_to_reach
-**Object:** son; limited contact information (family_testimony)
-**Temporal:** 2026-01-28
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Earnestine Council
+- **Predicate:** unable_to_reach
+- **Object:** son; limited contact information (family_testimony)
+- **Temporal:** 2026-01-28
+- **Sources:** src_001
 
 > Earnestine Council said she has received little information about her son and has not been able to speak with him.
 
-### c_012 — attributed, single source
-**Subject entities:** Ann Brooks
-**Predicate:** unable_to_reach
-**Object:** son with limited contact (family_testimony)
-**Temporal:** 2026-01-28
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ann Brooks
+- **Predicate:** unable_to_reach
+- **Object:** son with limited contact (family_testimony)
+- **Temporal:** 2026-01-28
+- **Sources:** src_001
 
 > Ann Brooks, Melvin Ray's mother, said she has not been able to reach her son, though he made one call to his brother.
 
-### c_013 — attributed, single source
-**Subject entities:** Ann Brooks
-**Predicate:** expressed_concern
-**Object:** uncertainty about son's fate (direct_quote)
-**Temporal:** 2026-01-28
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ann Brooks
+- **Predicate:** expressed_concern
+- **Object:** uncertainty about son's fate (direct_quote)
+- **Temporal:** 2026-01-28
+- **Sources:** src_001
 
 > Ann Brooks said, 'I don't know what is going to happen or what could happen.'
 
-### c_014 — reported, single source
-**Subject entities:** inmates
-**Predicate:** reported
-**Object:** recent commissary restrictions (inmate_testimony)
-**Temporal:** 2026-01-28
-**Source IDs:** src_001
+### c_014
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** inmates
+- **Predicate:** reported
+- **Object:** recent commissary restrictions (inmate_testimony)
+- **Temporal:** 2026-01-28
+- **Sources:** src_001
 
 > Several inmates told the Associated Press that prisons have recently reduced the amount of food and items available for purchase at the commissary.
 
-### c_015 — attributed, single source
-**Subject entities:** Andrew Jarecki
-**Predicate:** expressed_concern
-**Object:** retaliation and abuse in response to activism (direct_quote)
-**Temporal:** 2026-01-28
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Andrew Jarecki
+- **Predicate:** expressed_concern
+- **Object:** retaliation and abuse in response to activism (direct_quote)
+- **Temporal:** 2026-01-28
+- **Sources:** src_001
 
 > Andrew Jarecki, director of 'The Alabama Solution,' said, 'We're really concerned because they've had retaliation and abuse in response to all of their activism.'
 
-### c_016 — attributed, single source
-**Subject entities:** Andrew Jarecki
-**Predicate:** stated
-**Object:** activists are nonviolent; met with violence by authorities (direct_quote)
-**Temporal:** 2026-01-28
-**Source IDs:** src_001
+### c_016
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Andrew Jarecki
+- **Predicate:** stated
+- **Object:** activists are nonviolent; met with violence by authorities (direct_quote)
+- **Temporal:** 2026-01-28
+- **Sources:** src_001
 
 > Jarecki said, 'It's particularly ironic that these men who are incredibly brave—and frankly, scholars—and have learned the law and have been leaders and always observe nonviolent means of protest, are always met with violence by authorities.'
 
@@ -262,10 +293,5 @@ This article was generated algorithmically by Main Street Independent's News Art
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Kim Chandler
 **Publication date:** 2026-01-28
-**Access date:** 2026-01-28
 **Title:** Alabama prison system isolates inmate activists from 2022 strike
 **URL:** https://apnews.com/article/alabama-solution-prison-council-ray-poole-34c96e8e5c74c99984e61c8992491035
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

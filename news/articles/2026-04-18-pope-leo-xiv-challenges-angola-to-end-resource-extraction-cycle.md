@@ -23,7 +23,7 @@ topic_tags:
   - religion
   - "religious leader"
 storyline_nexus:
-  - pope-leo-xiv-africa-tour
+- pope-leo-xiv-vatican
 geographic_location: Angola
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -321,7 +321,3 @@ On his way to Angola from Cameroon, Leo addressed the ongoing tensions with U.S.
 **Access date:** 2026-05-17
 **Title:** Pope arrives in Angola for third leg of Africa tour
 **URL:** https://apnews.com/article/pope-africa-angola-cameroon-afc7a60bc2a5ccb48eac34489c70fc9c
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

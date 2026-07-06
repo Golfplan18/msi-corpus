@@ -26,8 +26,7 @@ topic_tags:
   - fire
   - labour
 storyline_nexus:
-  - russia-ukraine-war
-  - ai-regulation
+- ukraine-war-peace-negotiations
 geographic_location: Ukraine
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -273,7 +272,3 @@ More than 15,000 Ukrainian civilians have died in Russian strikes since Moscow l
 **Access date:** 2026-05-17
 **Title:** Russian drone and missile attack on Ukraine kills 16, injures 100
 **URL:** https://apnews.com/article/russia-ukraine-war-drone-missile-attack-kyiv-10627c3e68677cad65fadd5f2a9f8388
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

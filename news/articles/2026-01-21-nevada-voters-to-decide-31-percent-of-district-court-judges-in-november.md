@@ -16,40 +16,41 @@ primary_themes:
 - Judiciary
 - Judicial races
 topic_tags:
-  - "crime, law and justice"
-  - election
-  - politics
-  - trial
-storyline_nexus: []
-geographic_location: Nevada, United States
+- election
+- judiciary
+- law
+- government
+storyline_nexus:
+- redistricting-voting-rights
+geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.7
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+  intensity: 0.9
+- value: informed_citizenship
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:20:37Z'
 source_cluster_id: cluster_ap_2026-01-22_courts-nevada-general-news-donald-trump-
 gdelt_event_ids: []
-consensus_floor_version: 1.0.0
-publication_mindspec_version: 1.0.0
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 9
   hedges:
-    appears: 0
-    alleged: 0
     attributed: 1
     reported: 4
-    contested: 0
+    appears: 0
     confirmed: 4
+    alleged: 0
+    contested: 0
   corroboration:
-    primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
+    primary_plus_secondary: 0
     primary_document: 9
-    single_source: 0
     two_independent: 0
+    single_source: 0
 sources:
   count: 1
   outlets:
@@ -66,6 +67,15 @@ figures_aggregate:
 cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Nevada voters will decide on 31 percent of the state's District Court judges when they head to the polls in November, with a total of 155 candidates filing for election to the judiciary, according to reporting from the Associated Press.
+- The elections will reshape Nevada's court system as judicial calendars have become packed and specialization among court divisions has expanded, creating challenges for voters unfamiliar with the judicial branch.
+- In Clark County, the state's most populous, voters will select judges for 20 of the 58 District Court positions across civil, criminal, and family divisions.
+- In Washoe County, three of 16 District Court seats will be contested in November.
 
 Nevada voters will decide on 31 percent of the state's District Court judges when they head to the polls in November, with a total of 155 candidates filing for election to the judiciary, according to reporting from the Associated Press. The remaining two-thirds of judges retained their seats after no opponents filed during the judicial candidate filing period that closed Friday.
 
@@ -101,92 +111,106 @@ Green predicted that midterm elections would reflect national political dynamics
 
 The primary election is scheduled for June 9, with the general election on November 3.
 
----
-
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. Learn more at /methodology. This article was not selected for human review.
-
 Licensed under Creative Commons CC0 (public domain).
 
 ## Atomic claims
 
-### c_001 — reported, primary document
-**Subject entities:** Nevada voters; Nevada District Court
-**Predicate:** will decide on
-**Object:** 31 percent of judgeships (election_scope)
-**Temporal:** 2026-11-03
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Nevada voters; Nevada District Court
+- **Predicate:** will decide on
+- **Object:** 31 percent of judgeships (election_scope)
+- **Temporal:** 2026-11-03
+- **Sources:** src_001
 
 > Nevada voters will decide on 31 percent of the state's District Court judges in November 2026.
 
-### c_002 — confirmed, primary document
-**Subject entities:** candidates; Nevada judiciary
-**Predicate:** filed for
-**Object:** judicial election positions (election_filing)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** candidates; Nevada judiciary
+- **Predicate:** filed for
+- **Object:** judicial election positions (election_filing)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > 155 candidates filed for election to Nevada's judiciary.
 
-### c_003 — reported, primary document
-**Subject entities:** Clark County voters; District Court
-**Predicate:** will select
-**Object:** 20 of 58 positions (election_scope)
-**Temporal:** 2026-11-03
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Clark County voters; District Court
+- **Predicate:** will select
+- **Object:** 20 of 58 positions (election_scope)
+- **Temporal:** 2026-11-03
+- **Sources:** src_001
 
 > Clark County voters will select judges for 20 of 58 District Court civil, criminal, and family court positions.
 
-### c_004 — reported, primary document
-**Subject entities:** Washoe County voters; District Court
-**Predicate:** will decide
-**Object:** 3 of 16 seats (election_scope)
-**Temporal:** 2026-11-03
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Washoe County voters; District Court
+- **Predicate:** will decide
+- **Object:** 3 of 16 seats (election_scope)
+- **Temporal:** 2026-11-03
+- **Sources:** src_001
 
 > In Washoe County, three of 16 District Court seats will be decided by voters in November.
 
-### c_005 — confirmed, primary document
-**Subject entities:** Douglas Herndon; Kristina Pickering
-**Predicate:** did not draw opposition and were re-elected
-**Object:** six-year terms on Nevada Supreme Court (election_outcome)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Douglas Herndon; Kristina Pickering
+- **Predicate:** did not draw opposition and were re-elected
+- **Object:** six-year terms on Nevada Supreme Court (election_outcome)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > Nevada Supreme Court Chief Justice Douglas Herndon and Justice Kristina Pickering did not draw opposition and were re-elected to six-year terms.
 
-### c_006 — attributed, primary document
-**Subject entities:** Michele Fiore; Donald Trump
-**Predicate:** received pardon from
-**Object:** pardon for wire fraud conviction (legal_outcome)
-**Temporal:** 2024-04
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Michele Fiore; Donald Trump
+- **Predicate:** received pardon from
+- **Object:** pardon for wire fraud conviction (legal_outcome)
+- **Temporal:** 2024-04
+- **Sources:** src_001
 
 > Suspended Nye County Justice of the Peace Michele Fiore received a pardon from President Donald Trump in April 2024 after being convicted on six counts of wire fraud and one count of conspiracy to commit wire fraud.
 
-### c_007 — reported, primary document
-**Subject entities:** Kerri Maxey; Paul Michel Gaudet
-**Predicate:** will face
-**Object:** family court race in Department N (election_matchup)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Kerri Maxey; Paul Michel Gaudet
+- **Predicate:** will face
+- **Object:** family court race in Department N (election_matchup)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Judicial candidates filing resulted in a repeat of a 2024 Clark County family court race between Judge Kerri Maxey and attorney Paul Michel Gaudet.
 
-### c_008 — confirmed, primary document
-**Subject entities:** Nevada law; justices of the peace
-**Predicate:** allows
-**Object:** non-lawyers to serve as justices of peace in counties under 100,000 population (legal_provision)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Nevada law; justices of the peace
+- **Predicate:** allows
+- **Object:** non-lawyers to serve as justices of peace in counties under 100,000 population (legal_provision)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Nevada law allows non-lawyers to serve as justices of the peace in small counties with populations of fewer than 100,000 residents.
 
-### c_009 — confirmed, primary document
-**Subject entities:** Nevada; elections
-**Predicate:** has scheduled
-**Object:** primary June 9, general November 3 (election_schedule)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Nevada; elections
+- **Predicate:** has scheduled
+- **Object:** primary June 9, general November 3 (election_schedule)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > The primary election for Nevada judicial races will be held June 9, 2026, and the general election is November 3, 2026.
 
@@ -195,10 +219,5 @@ Licensed under Creative Commons CC0 (public domain).
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Howard Stutz / The Nevada Independent
 **Publication date:** 2026-01-21
-**Access date:** 2026-05-18
 **Title:** Judicial elections set; voters to decide 31 percent of Nevada's District Court makeup
 **URL:** https://apnews.com/article/courts-nevada-general-news-donald-trump-donald-trump-es-7fefc07f94142ff6627451b13cf9b0f4
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -20,8 +20,7 @@ topic_tags:
   - "conflict, war and peace"
   - "crime"
   - "crime, law and justice"
-storyline_nexus:
-  - gaza-conflict
+storyline_nexus: []
 geographic_location: West Bank, Israeli-occupied Palestinian territory
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -228,7 +227,3 @@ The Palestinian Authority's foreign ministry accused Israel on Saturday of "expl
 **Access date:** 2026-05-17
 **Title:** A 3rd Palestinian killed in the West Bank this week as violence surges
 **URL:** https://apnews.com/article/israel-palestinians-west-bank-violence-settlers-6ae8ec461735ff94f31e222205711b0f
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

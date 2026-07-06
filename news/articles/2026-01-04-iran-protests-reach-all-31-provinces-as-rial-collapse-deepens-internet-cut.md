@@ -18,44 +18,42 @@ primary_themes:
 - US-Iran relations
 - internet shutdown
 topic_tags:
-  - "arts, culture, entertainment and media"
-  - "civil unrest"
-  - "conflict, war and peace"
-  - "crime, law and justice"
-  - "economy, business and finance"
-  - macroeconomics
+- civil unrest
+- economy
+- government
+- political dissent
 storyline_nexus:
-  - iran-war
-geographic_location: Iran
+- the-iran-war
+geographic_location: United States
 floor_values_engaged:
-- value: human_life_and_dignity
+- value: informed_citizenship
   intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.8
-- value: informed_citizenship
-  intensity: 0.85
-framework_version: 1.1.0
-generation_timestamp: '2026-01-04T12:00:00Z'
+  intensity: 0.9
+- value: human_life_and_dignity
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-22T23:33:17Z'
 source_cluster_id: cluster_ap_2026-01-03_iran-protests-nuclear-us-what-to-know-ex
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 22
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 19
-    reported: 3
     contested: 0
     confirmed: 0
+    attributed: 19
+    alleged: 0
+    appears: 0
+    reported: 3
   corroboration:
     primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
-    primary_document: 0
     single_source: 22
+    primary_document: 0
     two_independent: 0
 sources:
   count: 1
@@ -74,41 +72,19 @@ image:
   url: /articles/2026-01-04-iran-protests-reach-all-31-provinces-as-rial-collapse-deepens-internet-cut.png
   alt: 'Illustration accompanying article: Iran protests reach all 31 provinces as rial collapse deepens, internet'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-01-at-least-7-killed-as-iran-protests-over-economy-spread-to-rural-provinces
-  relation: continues
-  strength: 0.8794
-  confidence: high
-- slug: 2026-01-03-khamenei-says-rioters-must-be-put-in-their-place-as-iran-protest-deaths-reach-15
-  relation: continues
-  strength: 0.8409
-  confidence: high
-- slug: 2025-12-29-iran-protests-spread-to-major-cities-as-rial-hits-record-low-bank-chief-resigns
-  relation: continues
-  strength: 0.8745
-  confidence: high
-- slug: 2025-12-29-iran-rial-crash-triggers-mass-protests-central-bank-chief-resigns
-  relation: continues
-  strength: 0.87
-  confidence: high
-- slug: 2026-01-02-trump-and-iran-trade-threats-as-rial-protests-enter-sixth-day-killing-at-least-7
-  relation: continues
-  strength: 0.8385
-  confidence: high
-- slug: 2026-01-02-trump-and-iran-officials-trade-threats-as-protests-enter-sixth-day
-  relation: continues
-  strength: 0.8171
-  confidence: high
-- slug: 2025-12-31-iran-names-new-central-bank-governor-as-rial-protests-spread
-  relation: continues
-  strength: 0.8252
-  confidence: high
-- slug: 2025-12-31-iran-names-new-central-bank-chief-as-rial-crisis-drives-mass-protests
-  relation: continues
-  strength: 0.8063
-  confidence: high
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Nationwide demonstrations demanding economic relief have spread across all of Iran's 31 provinces, according to data from the U.S.-based Human Rights Activists News Agency, as the Islamic Republic's government shut down the internet and deployed security forces against protesters.
+- The agency reported Thursday that more than 600 protests have taken place nationwide, with a death toll of at least 2,615 and 18,470 people arrested.
+- Iran's rial has fallen to more than 1.4 million per dollar while an annual inflation rate of about 40 percent erodes living standards, the Associated Press reported.
+- The demonstrations mark the most serious challenge to Iran's government in years, combining economic grievances with the aftermath of a June war in which the United States bombed Iranian nuclear sites and United Nations sanctions reimposed in September accelerated the rial's collapse.
+- President Donald Trump has warned of U.S.
 
 Nationwide demonstrations demanding economic relief have spread across all of Iran's 31 provinces, according to data from the U.S.-based Human Rights Activists News Agency, as the Islamic Republic's government shut down the internet and deployed security forces against protesters. The agency reported Thursday that more than 600 protests have taken place nationwide, with a death toll of at least 2,615 and 18,470 people arrested. Iran's rial has fallen to more than 1.4 million per dollar while an annual inflation rate of about 40 percent erodes living standards, the Associated Press reported.
 
@@ -160,201 +136,245 @@ Relations rose briefly with the 2015 nuclear deal, in which Iran agreed to signi
 
 ## Atomic claims
 
-### c_001 — reported, single source
-**Subject entities:** Iran; protests
-**Predicate:** occurred_across
-**Object:** 600+ (count)
-**Temporal:** 2026-01-04
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Iran; protests
+- **Predicate:** occurred_across
+- **Object:** 600+ (count)
+- **Temporal:** 2026-01-04
+- **Sources:** src_001
 
 > More than 600 protests have taken place across all of Iran's 31 provinces.
 
-### c_002 — reported, single source
-**Subject entities:** Iran protests
-**Predicate:** resulted_in_deaths
-**Object:** 2615 (count_minimum)
-**Temporal:** 2026-01-04
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Iran protests
+- **Predicate:** resulted_in_deaths
+- **Object:** 2615 (count_minimum)
+- **Temporal:** 2026-01-04
+- **Sources:** src_001
 
 > The death toll from the protests has reached at least 2,615, according to the Human Rights Activists News Agency.
 
-### c_003 — reported, single source
-**Subject entities:** Iranian government; Iran protests
-**Predicate:** resulted_in_arrests
-**Object:** 18470 (count_minimum)
-**Temporal:** 2026-01-04
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Iranian government; Iran protests
+- **Predicate:** resulted_in_arrests
+- **Object:** 18470 (count_minimum)
+- **Temporal:** 2026-01-04
+- **Sources:** src_001
 
 > At least 18,470 people have been arrested in connection with the protests, according to the Human Rights Activists News Agency.
 
-### c_004 — attributed, single source
-**Subject entities:** Iranian rial
-**Predicate:** exchange_rate
-**Object:** 1400000:1 (exchange_rate)
-**Temporal:** 2026-01-04
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Iranian rial
+- **Predicate:** exchange_rate
+- **Object:** 1400000:1 (exchange_rate)
+- **Temporal:** 2026-01-04
+- **Sources:** src_001
 
 > Iran's rial is trading at over 1.4 million to $1.
 
-### c_005 — attributed, single source
-**Subject entities:** Iran
-**Predicate:** experiencing_inflation
-**Object:** 40% (annual_rate)
-**Temporal:** 2026-01-04
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Iran
+- **Predicate:** experiencing_inflation
+- **Object:** 40% (annual_rate)
+- **Temporal:** 2026-01-04
+- **Sources:** src_001
 
 > Iran has been struggling with an annual inflation rate of about 40 percent.
 
-### c_006 — attributed, single source
-**Subject entities:** Iranian government
-**Predicate:** shut_down
-**Object:** internet (service)
-**Temporal:** 2026-01-04
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Iranian government
+- **Predicate:** shut_down
+- **Object:** internet (service)
+- **Temporal:** 2026-01-04
+- **Sources:** src_001
 
 > The Iranian government shut down the internet in response to the protests; Iranians regained the ability to dial abroad from mobile phones on Tuesday after partial restrictions lifted.
 
-### c_007 — attributed, single source
-**Subject entities:** Ali Khamenei
-**Predicate:** stated
-**Object:** rioters must be put in their place (verbatim_quote)
-**Temporal:** 2026-01-04
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ali Khamenei
+- **Predicate:** stated
+- **Object:** rioters must be put in their place (verbatim_quote)
+- **Temporal:** 2026-01-04
+- **Sources:** src_001
 
 > Supreme Leader Ayatollah Ali Khamenei said 'rioters must be put in their place.'
 
-### c_008 — attributed, single source
-**Subject entities:** Donald Trump
-**Predicate:** stated
-**Object:** If they start killing people like they have in the past, I think they're going to get hit very hard by the United States. (verbatim_quote)
-**Temporal:** 2026-01-04
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** stated
+- **Object:** If they start killing people like they have in the past, I think they're going to get hit very hard by the United States. (verbatim_quote)
+- **Temporal:** 2026-01-04
+- **Sources:** src_001
 
 > President Trump said: 'If they start killing people like they have in the past, I think they're going to get hit very hard by the United States.'
 
-### c_009 — attributed, single source
-**Subject entities:** Donald Trump; Iran
-**Predicate:** threatened
-**Object:** will come to their rescue (conditional_threat)
-**Temporal:** 2026-01-04
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Iran
+- **Predicate:** threatened
+- **Object:** will come to their rescue (conditional_threat)
+- **Temporal:** 2026-01-04
+- **Sources:** src_001
 
 > Trump has warned that if Tehran 'violently kills peaceful protesters' the U.S. 'will come to their rescue.'
 
-### c_010 — attributed, single source
-**Subject entities:** Iran protests
-**Predicate:** originated
-**Object:** Tehran merchants (origin)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Iran protests
+- **Predicate:** originated
+- **Object:** Tehran merchants (origin)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > The protests began in late December with merchants in Tehran before spreading.
 
-### c_011 — attributed, single source
-**Subject entities:** Iranian government
-**Predicate:** raised_price
-**Object:** gasoline (commodity)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Iranian government
+- **Predicate:** raised_price
+- **Object:** gasoline (commodity)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > In December, Iran introduced a new pricing tier for its nationally subsidized gasoline, raising prices.
 
-### c_012 — attributed, single source
-**Subject entities:** Iran Central Bank
-**Predicate:** ended_program
-**Object:** preferential exchange rate (policy)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Iran Central Bank
+- **Predicate:** ended_program
+- **Object:** preferential exchange rate (policy)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Iran's Central Bank ended a preferential subsidized dollar-rial exchange rate for all products except medicine and wheat.
 
-### c_013 — attributed, single source
-**Subject entities:** IAEA; Iran
-**Predicate:** assessed_capability
-**Object:** up to 10 nuclear bombs (capability)
-**Temporal:** 2026-01-04
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** IAEA; Iran
+- **Predicate:** assessed_capability
+- **Object:** up to 10 nuclear bombs (capability)
+- **Temporal:** 2026-01-04
+- **Sources:** src_001
 
 > The IAEA director-general has warned that Iran could build as many as 10 nuclear bombs should it decide to weaponize its program.
 
-### c_014 — attributed, single source
-**Subject entities:** US intelligence agencies; Iran
-**Predicate:** assessed
-**Object:** no weapons program begun; activities undertaken to enable one (intelligence_assessment)
-**Temporal:** 2026-01-04
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** US intelligence agencies; Iran
+- **Predicate:** assessed
+- **Object:** no weapons program begun; activities undertaken to enable one (intelligence_assessment)
+- **Temporal:** 2026-01-04
+- **Sources:** src_001
 
 > U.S. intelligence agencies have assessed that Iran has not yet begun a weapons program but has undertaken activities that better position it to produce a nuclear device if it chooses to do so.
 
-### c_015 — attributed, single source
-**Subject entities:** Iran
-**Predicate:** announced
-**Object:** halt of uranium enrichment at all sites (policy_statement)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Iran
+- **Predicate:** announced
+- **Object:** halt of uranium enrichment at all sites (policy_statement)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Iran recently said it was no longer enriching uranium at any site in the country.
 
-### c_016 — attributed, single source
-**Subject entities:** Israel; Iran; United States
-**Predicate:** conducted_military_strike
-**Object:** Iranian nuclear sites (military_target)
-**Temporal:** 2025-06
-**Source IDs:** src_001
+### c_016
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Israel; Iran; United States
+- **Predicate:** conducted_military_strike
+- **Object:** Iranian nuclear sites (military_target)
+- **Temporal:** 2025-06
+- **Sources:** src_001
 
 > Israel launched a 12-day war against Iran in June that saw the United States bomb Iranian nuclear sites.
 
-### c_017 — attributed, single source
-**Subject entities:** United Nations; Iran
-**Predicate:** imposed_sanctions
-**Object:** economic sanctions (penalty)
-**Temporal:** 2025-09
-**Source IDs:** src_001
+### c_017
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** United Nations; Iran
+- **Predicate:** imposed_sanctions
+- **Object:** economic sanctions (penalty)
+- **Temporal:** 2025-09
+- **Sources:** src_001
 
 > The United Nations reimposed sanctions on Iran in September over its nuclear program.
 
-### c_018 — attributed, single source
-**Subject entities:** Israel; Hezbollah
-**Predicate:** killed_leadership
-**Object:** Hezbollah top leadership (military_action)
-**Temporal:** 2026-01-04
-**Source IDs:** src_001
+### c_018
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Israel; Hezbollah
+- **Predicate:** killed_leadership
+- **Object:** Hezbollah top leadership (military_action)
+- **Temporal:** 2026-01-04
+- **Sources:** src_001
 
 > Israel killed the top leadership of Hezbollah, the Shiite militant group in Lebanon backed by Iran.
 
-### c_019 — attributed, single source
-**Subject entities:** Bashar Assad; Syria
-**Predicate:** overthrown
-**Object:** Assad government (political_change)
-**Temporal:** 2024-12
-**Source IDs:** src_001
+### c_019
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Bashar Assad; Syria
+- **Predicate:** overthrown
+- **Object:** Assad government (political_change)
+- **Temporal:** 2024-12
+- **Sources:** src_001
 
 > A rapid offensive in December 2024 overthrew Syrian President Bashar Assad, a longtime Iranian ally.
 
-### c_020 — attributed, single source
-**Subject entities:** US military; Nicolás Maduro; Venezuela
-**Predicate:** captured
-**Object:** Maduro (detention)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_020
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** US military; Nicolás Maduro; Venezuela
+- **Predicate:** captured
+- **Object:** Maduro (detention)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > American troops captured Venezuela's Nicolás Maduro, a longtime ally of Tehran.
 
-### c_021 — attributed, single source
-**Subject entities:** Iran; United States
-**Predicate:** severed_relations
-**Object:** diplomatic relations (diplomatic_status)
-**Temporal:** 1979
-**Source IDs:** src_001
+### c_021
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Iran; United States
+- **Predicate:** severed_relations
+- **Object:** diplomatic relations (diplomatic_status)
+- **Temporal:** 1979
+- **Sources:** src_001
 
 > The 444-day hostage crisis that began when university students overran the U.S. Embassy in Tehran severed diplomatic relations between Iran and the U.S.
 
-### c_022 — attributed, single source
-**Subject entities:** Donald Trump; United States; 2015 nuclear deal
-**Predicate:** withdrew_from
-**Object:** 2015 nuclear deal (agreement)
-**Temporal:** 2018
-**Source IDs:** src_001
+### c_022
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; United States; 2015 nuclear deal
+- **Predicate:** withdrew_from
+- **Object:** 2015 nuclear deal (agreement)
+- **Temporal:** 2018
+- **Sources:** src_001
 
 > Trump withdrew the United States from the 2015 nuclear deal in 2018.
 
@@ -363,10 +383,5 @@ Relations rose briefly with the 2015 nuclear deal, in which Iran agreed to signi
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Jon Gambrell
 **Publication date:** 2026-01-04
-**Access date:** 2026-01-04
 **Title:** What to know about the protests shaking Iran
 **URL:** https://apnews.com/article/iran-protests-nuclear-us-what-to-know-explainer-845b3ac10c37727add7118ec9c2f6e46
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

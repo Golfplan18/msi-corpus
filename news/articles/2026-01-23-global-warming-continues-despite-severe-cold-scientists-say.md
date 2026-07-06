@@ -112,10 +112,6 @@ Trump claimed the expected cold wave would be "rarely seen," but historical weat
 
 A review of U.S. weather stations with at least 50 years of data found 45 record low temperatures set in January, compared to 1,092 record high temperatures. The imbalance illustrates the broader warming trend, according to climate scientists. While some daily records may fall, especially in the Plains, Texas and Louisiana, the overall pattern shows that cold records are becoming rare. "It will be very hard to break long-period (100 years+) records with this cold blast," said Ryan Maue, who served as NOAA's chief scientist at the end of Trump's first term. In January 1985, the Lower 48 states averaged a low of 4.1 degrees Fahrenheit, compared to the forecast average of about 10 degrees for the current event.
 
----
-
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public source listed under sources. The framework specification is available at /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
 ### c_001 — attributed, single source
@@ -234,7 +230,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-05-18
 **Title:** Trump questions if the Earth is really warming when the US gets so cold. The answer is yes.
 **URL:** https://apnews.com/article/trump-warming-denial-fact-check-winter-storm-49eeee83a8acd35c89bcf33d346b9b38
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

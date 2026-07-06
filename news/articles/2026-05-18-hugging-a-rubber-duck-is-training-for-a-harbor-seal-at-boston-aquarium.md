@@ -14,11 +14,12 @@ primary_themes:
 - human-animal bonds
 - behavioral science and cognitive engagement
 topic_tags:
-  - "human interest"
-  - people
-  - society
-  - communities
-storyline_nexus: []
+- human interest
+- people
+- society
+- communities
+storyline_nexus:
+- ai-industry-regulation
 geographic_location: Boston, Massachusetts, United States
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -61,11 +62,7 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-06-panda-cub-rio-marks-40-days-at-indonesia-s-taman-safari-with-strong-growth
-  relation: related
-  strength: 0.73
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
 
@@ -91,115 +88,137 @@ The longevity record reflected the benefits of sustained institutional care. Whi
 
 For the 13-year-old visitor who watched Reggae retrieve a duck near the glass during a recent morning: the moment was simple delight. "You never expect a seal to hug a rubber ducky," said Tom Smith of Boston, visiting with his mother and younger brother during school vacation week.
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
-### c_001 — confirmed, single source
-**Subject entities:** Reggae; New England Aquarium
-**Predicate:** is
-**Object:** 33-year-old Atlantic harbor seal (entity_descriptor)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Reggae; New England Aquarium
+- **Predicate:** is
+- **Object:** 33-year-old Atlantic harbor seal (entity_descriptor)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > Reggae is a 33-year-old Atlantic harbor seal at Boston's New England Aquarium.
 
-### c_002 — confirmed, single source
-**Subject entities:** Reggae
-**Predicate:** uses_for_training
-**Object:** rubber ducks (training_tool)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Reggae
+- **Predicate:** uses_for_training
+- **Object:** rubber ducks (training_tool)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > Reggae uses rubber ducks as part of a daily training routine.
 
-### c_003 — reported, single source
-**Subject entities:** Reggae; social media
-**Predicate:** went_viral
-**Object:** video of seal with rubber duck (social_media_event)
-**Temporal:** 2026-02
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Reggae; social media
+- **Predicate:** went_viral
+- **Object:** video of seal with rubber duck (social_media_event)
+- **Temporal:** 2026-02
+- **Sources:** src_001
 
 > Videos of Reggae with the rubber ducks recently drew widespread attention on social media.
 
-### c_004 — attributed, single source
-**Subject entities:** aquarium trainers
-**Predicate:** designed_training_for
-**Object:** memory, problem-solving, and focus development (purpose_statement)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** aquarium trainers
+- **Predicate:** designed_training_for
+- **Object:** memory, problem-solving, and focus development (purpose_statement)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > The training routine is designed to keep seals learning, with focus on memory, problem-solving, and focus skills.
 
-### c_005 — attributed, single source
-**Subject entities:** Rebekah Miller
-**Predicate:** said
-**Object:** enrichment statement explaining training rationale (direct_quotation)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Rebekah Miller
+- **Predicate:** said
+- **Object:** enrichment statement explaining training rationale (direct_quotation)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > He can use his great vision to look around the habitat, find these new items, and he can also use his other senses to kind of explore. It's a great way to challenge our animals. We want to create challenges for them and really allow them to use those problem-solving skills that they have.
 
-### c_006 — confirmed, single source
-**Subject entities:** Rebekah Miller; New England Aquarium
-**Predicate:** manages
-**Object:** pinniped area (Atlantic harbor seals and California sea lions) (professional_role)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Rebekah Miller; New England Aquarium
+- **Predicate:** manages
+- **Object:** pinniped area (Atlantic harbor seals and California sea lions) (professional_role)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > Rebekah Miller is the aquarium's manager of the pinniped area.
 
-### c_007 — confirmed, single source
-**Subject entities:** Liz Wait; New England Aquarium
-**Predicate:** works_as
-**Object:** trainer conducting enrichment sessions (professional_role)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Liz Wait; New England Aquarium
+- **Predicate:** works_as
+- **Object:** trainer conducting enrichment sessions (professional_role)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > Liz Wait is a trainer at the aquarium who conducts enrichment sessions with Reggae.
 
-### c_008 — attributed, single source
-**Subject entities:** Rebekah Miller
-**Predicate:** said
-**Object:** description of Reggae's personality traits (direct_quotation)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Rebekah Miller
+- **Predicate:** said
+- **Object:** description of Reggae's personality traits (direct_quotation)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > We describe his personality as very mellow. He's a very easygoing guy, he goes with the flow and he loves attention from people.
 
-### c_009 — confirmed, single source
-**Subject entities:** New England Aquarium
-**Predicate:** houses
-**Object:** Atlantic harbor seals in 42,000-gallon outdoor exhibit (facility_specification)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** New England Aquarium
+- **Predicate:** houses
+- **Object:** Atlantic harbor seals in 42,000-gallon outdoor exhibit (facility_specification)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > The aquarium's Atlantic harbor seals live in a 42,000-gallon outdoor exhibit on the front plaza.
 
-### c_010 — confirmed, single source
-**Subject entities:** seals at New England Aquarium
-**Predicate:** born_at
-**Object:** aquarium to resident parents (genealogy)
-**Temporal:** pre-2026
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** seals at New England Aquarium
+- **Predicate:** born_at
+- **Object:** aquarium to resident parents (genealogy)
+- **Temporal:** pre-2026
+- **Sources:** src_001
 
 > The current seals were born at the aquarium to parents that were themselves longtime residents.
 
-### c_011 — reported, single source
-**Subject entities:** seals at New England Aquarium
-**Predicate:** exceed_wild_lifespan
-**Object:** living 30-40 years versus typical 25-year wild lifespan (longevity_comparison)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** seals at New England Aquarium
+- **Predicate:** exceed_wild_lifespan
+- **Object:** living 30-40 years versus typical 25-year wild lifespan (longevity_comparison)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > Seals at the aquarium often live beyond the roughly 25-year lifespan typical in the wild, with several surpassing 30 and even 40 years.
 
-### c_012 — reported, single source
-**Subject entities:** Hoover; Maine fisherman
-**Predicate:** raised_and_gained_fame
-**Object:** mimicking speech in gruff New England accent (distinctive_behavior)
-**Temporal:** 1971 onward
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Hoover; Maine fisherman
+- **Predicate:** raised_and_gained_fame
+- **Object:** mimicking speech in gruff New England accent (distinctive_behavior)
+- **Temporal:** 1971 onward
+- **Sources:** src_001
 
 > Hoover, a harbor seal born in 1971, was raised by a Maine fisherman after losing his mother and later gained national attention for mimicking phrases in a gruff New England accent.
 
@@ -211,7 +230,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-05-18
 **Title:** Hugging a rubber duck is training for a harbor seal at Boston aquarium
 **URL:** https://apnews.com/article/reggae-seal-rubber-duck-boston-aquarium-training-b0c43808394cc73586368c8ebba6c89c
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

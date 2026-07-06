@@ -19,7 +19,7 @@ primary_themes:
 topic_tags:
   - politics
 storyline_nexus:
-  - trump-greenland-acquisition
+- us-cuba-relations-escalation
 geographic_location: Cuba; Havana
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -346,7 +346,3 @@ For now, Havana's streets remain dark.
 **Access date:** 2026-04-19
 **Title:** Havana's nightlife falls dark as an oil blockade takes hold
 **URL:** https://apnews.com/article/cuba-oil-embargo-crisis-havana-nightlife-4b8f1da8acf1aa8cb5f6b425d85ff1a4
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

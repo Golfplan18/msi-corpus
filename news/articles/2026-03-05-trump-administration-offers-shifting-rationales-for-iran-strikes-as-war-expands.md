@@ -40,46 +40,41 @@ primary_themes:
 - US-Israel military cooperation
 - regime change
 topic_tags:
-  - "armed conflict"
-  - "conflict, war and peace"
-  - "crime, law and justice"
-  - environment
-  - government
-  - labour
+- armed conflict
+- international military intervention
+- international relations
+- government policy
 storyline_nexus:
-  - iran-war
-  - us-administration-2026
-geographic_location: United States, Iran, Israel
+- the-iran-war
+geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.95
+- value: truthfulness
+  intensity: 0.9
 - value: accountability_of_power
   intensity: 0.9
-- value: truthfulness
-  intensity: 0.85
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:44:56Z'
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:30:02Z'
 source_cluster_id: cluster_ap_2026-03-06_trump-iran-israel-changing-rationale-ter
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 11
   hedges:
-    appears: 0
-    alleged: 0
     attributed: 7
-    reported: 1
+    appears: 0
     contested: 0
+    reported: 1
     confirmed: 3
+    alleged: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 2
     single_source: 9
+    primary_document: 2
+    primary_plus_secondary: 0
     two_independent: 0
+    one_originating_plus_primary_document: 0
 sources:
   count: 1
   outlets:
@@ -93,17 +88,17 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-11-israel-monitors-iranian-protests-as-analysts-see-little-appetite-for-new-war
-  relation: related
-  strength: 0.8143
-  confidence: medium
-- slug: 2026-01-12-iran-s-leadership-weakened-by-war-faces-broad-protests-as-crackdown-kills-hundre
-  relation: related
-  strength: 0.8036
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- contradictory explanations for Operation Epic Fury, the joint U.S.-Israel military
+- campaign that killed Iranian Supreme Leader Ayatollah Ali Khamenei and some 40 senior
+- Iran''s nuclear program to preempting its ballistic missiles to preventing a unilateral
 
 President Donald Trump and his top officials have offered multiple, sometimes contradictory explanations for Operation Epic Fury, the joint U.S.-Israel military campaign that killed Iranian Supreme Leader Ayatollah Ali Khamenei and some 40 senior Iranian officials. Rationales offered in public statements range from neutralizing Iran's nuclear program to preempting its ballistic missiles to preventing a unilateral Israeli strike, with officials at times contradicting one another and the president contradicting himself.
 
@@ -147,102 +142,124 @@ The White House described Trump's decision to launch the operation as grounded i
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Operation Epic Fury; Ayatollah Ali Khamenei
-**Predicate:** killed
-**Object:** Khamenei and approximately 40 senior Iranian figures (outcome)
-**Temporal:** 2026-03
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Operation Epic Fury; Ayatollah Ali Khamenei
+- **Predicate:** killed
+- **Object:** Khamenei and approximately 40 senior Iranian figures (outcome)
+- **Temporal:** 2026-03
+- **Sources:** src_001
 
 > Operation Epic Fury killed Iranian Supreme Leader Ayatollah Ali Khamenei and some 40 senior Iranian figures.
 
-### c_002 — attributed, single source
-**Subject entities:** Operation Epic Fury
-**Predicate:** struck
-**Object:** three locations within one minute (military_action)
-**Temporal:** 2026-03
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Operation Epic Fury
+- **Predicate:** struck
+- **Object:** three locations within one minute (military_action)
+- **Temporal:** 2026-03
+- **Sources:** src_001
 
 > Three strikes in three locations hit within a minute, nearly simultaneously.
 
-### c_003 — attributed, single source
-**Subject entities:** Trump administration; U.S. intelligence
-**Predicate:** briefed
-**Object:** no Iranian preemptive strike planned (intelligence_assessment)
-**Temporal:** 2026-03
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Trump administration; U.S. intelligence
+- **Predicate:** briefed
+- **Object:** no Iranian preemptive strike planned (intelligence_assessment)
+- **Temporal:** 2026-03
+- **Sources:** src_001
 
 > Trump administration officials told congressional staffers in private briefings that U.S. intelligence did not suggest Iran was preparing to launch a preemptive strike against the United States.
 
-### c_004 — attributed, single source
-**Subject entities:** Iran
-**Predicate:** self-limits
-**Object:** 2,000 kilometers (1,240 miles) (military_capability)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Iran
+- **Predicate:** self-limits
+- **Object:** 2,000 kilometers (1,240 miles) (military_capability)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > Iran has a self-imposed limit on its ballistic missile program restricting range to 2,000 kilometers (approximately 1,240 miles).
 
-### c_005 — confirmed, primary document
-**Subject entities:** IAEA; Iran
-**Predicate:** denied_access
-**Object:** Iran's nuclear facilities since June 2025 (inspection_status)
-**Temporal:** 2026-02-27
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** IAEA; Iran
+- **Predicate:** denied_access
+- **Object:** Iran's nuclear facilities since June 2025 (inspection_status)
+- **Temporal:** 2026-02-27
+- **Sources:** src_001
 
 > The IAEA has not had access to Iran's bombed nuclear facilities since June 2025, according to a confidential IAEA report circulated to member states and seen by the AP on Feb. 27, 2026.
 
-### c_006 — attributed, single source
-**Subject entities:** Israel; Pentagon
-**Predicate:** dispatched_team
-**Object:** three weeks before strikes (military_coordination)
-**Temporal:** 2026-02
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Israel; Pentagon
+- **Predicate:** dispatched_team
+- **Object:** three weeks before strikes (military_coordination)
+- **Temporal:** 2026-02
+- **Sources:** src_001
 
 > Israel sent a team to the Pentagon three weeks before the strikes after understanding the operation was pointing toward a confrontation with Iran.
 
-### c_007 — confirmed, primary document
-**Subject entities:** Benjamin Netanyahu
-**Predicate:** declared
-**Object:** strikes carried out in full cooperation with U.S. (statement)
-**Temporal:** 2026-03
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Benjamin Netanyahu
+- **Predicate:** declared
+- **Object:** strikes carried out in full cooperation with U.S. (statement)
+- **Temporal:** 2026-03
+- **Sources:** src_001
 
 > Netanyahu declared in a televised address that Israel had carried out the strikes in full cooperation with the United States.
 
-### c_008 — attributed, single source
-**Subject entities:** David Schenker; Washington Institute for Near East Policy
-**Predicate:** said
-**Object:** consistent messaging is a challenge for this administration (expert_assessment)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** David Schenker; Washington Institute for Near East Policy
+- **Predicate:** said
+- **Object:** consistent messaging is a challenge for this administration (expert_assessment)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > David Schenker, a former Trump administration official now at the Washington Institute for Near East Policy, said agreeing on a rationale before a military operation and maintaining consistent messaging is standard practice and called it a challenge for this administration.
 
-### c_009 — attributed, single source
-**Subject entities:** Naysan Rafati; International Crisis Group
-**Predicate:** said
-**Object:** opportunity is at least as much of a factor as threats (expert_assessment)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Naysan Rafati; International Crisis Group
+- **Predicate:** said
+- **Object:** opportunity is at least as much of a factor as threats (expert_assessment)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > Naysan Rafati, senior Iran analyst at the International Crisis Group, said reporting indicated intelligence and military assessments did not suggest an Iranian first strike was planned and that opportunity was at least as significant a factor as threats.
 
-### c_010 — reported, single source
-**Subject entities:** Iran
-**Predicate:** stated
-**Object:** no uranium enrichment since June 2025; satellite activity detected at two sites (dual_claim)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Iran
+- **Predicate:** stated
+- **Object:** no uranium enrichment since June 2025; satellite activity detected at two sites (dual_claim)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > Iran has said it has not enriched uranium since June 2025; satellite photos analyzed by the AP show new activity at two bombed nuclear sites.
 
-### c_011 — confirmed, single source
-**Subject entities:** CIA; Mohammad Reza Pahlavi; Iran
-**Predicate:** engineered_coup
-**Object:** 1953 Iranian coup (historical_event)
-**Temporal:** 1953
-**Source IDs:** src_001
+### c_011
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** CIA; Mohammad Reza Pahlavi; Iran
+- **Predicate:** engineered_coup
+- **Object:** 1953 Iranian coup (historical_event)
+- **Temporal:** 1953
+- **Sources:** src_001
 
 > The CIA helped topple Iran's democratically elected government in 1953 and installed Shah Mohammad Reza Pahlavi, who was overthrown in Iran's 1979 Islamic Revolution.
 
@@ -251,10 +268,5 @@ The White House described Trump's decision to launch the operation as grounded i
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Laurie Kellman
 **Publication date:** 2026-03-05
-**Access date:** 2026-03-05
 **Title:** Trump and officials discuss rationale for Iran strikes different ways
 **URL:** https://apnews.com/article/trump-iran-israel-changing-rationale-terrorism-missiles-1f3d3ace712d62c9fe46665ea5cf8df4
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -194,7 +194,3 @@ His continued eligibility for office follows a 2015 referendum that removed both
 **Access date:** 2026-05-17
 **Title:** Denis Sassou N'Guesso sworn in for another term in Republic of Congo
 **URL:** https://apnews.com/article/congo-president-sassou-nguesso-inauguration-2b62fd2b7ac00455d94c058d153a28eb
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -18,9 +18,10 @@ primary_themes:
 - private equity
 - economic precarity
 topic_tags:
-  - "conflict, war and peace"
-  - labour
-storyline_nexus: []
+- conflict, war and peace
+- labour
+storyline_nexus:
+- trump-climate-energy-rollbacks
 geographic_location: Kauai, Hawaii, United States
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -73,10 +74,6 @@ cross_article_links:
 - slug: 2026-04-18-arctic-refuge-lease-sale-set-for-june-despite-indigenous-opposition
   relation: related
   strength: 0.7511
-  confidence: medium
-- slug: 2026-04-16-meta-ends-kenya-contract-leaving-1-108-sama-workers-facing-layoffs
-  relation: related
-  strength: 0.7272
   confidence: medium
 - slug: 2026-04-16-nyc-building-workers-vote-to-authorize-strike-as-contract-deadline-looms
   relation: related
@@ -167,183 +164,223 @@ The next month will determine whether the company's employees, some of whom have
 
 ## Atomic claims
 
-### c_001 — confirmed, single source
-**Subject entities:** Kauai Coffee Company
-**Predicate:** lease expiration
-**Object:** end of March 2026 (temporal_boundary)
-**Temporal:** 2026-03-31
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Kauai Coffee Company
+- **Predicate:** lease expiration
+- **Object:** end of March 2026 (temporal_boundary)
+- **Temporal:** 2026-03-31
+- **Sources:** src_001
 
 > Kauai Coffee Company's land lease expires at the end of March 2026.
 
-### c_002 — confirmed, single source
-**Subject entities:** Kauai Coffee Company; United States
-**Predicate:** is largest producer
-**Object:** coffee grower (industry_designation)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Kauai Coffee Company; United States
+- **Predicate:** is largest producer
+- **Object:** coffee grower (industry_designation)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Kauai Coffee Company is the largest coffee grower in the United States.
 
-### c_003 — confirmed, single source
-**Subject entities:** Kauai Coffee Company
-**Predicate:** manages
-**Object:** 4 million trees on 3100 acres (operational_scope)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Kauai Coffee Company
+- **Predicate:** manages
+- **Object:** 4 million trees on 3100 acres (operational_scope)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Kauai Coffee Company manages 4 million coffee trees across 3,100 acres.
 
-### c_004 — attributed, single source
-**Subject entities:** Kauai Coffee Company
-**Predicate:** employs
-**Object:** 140 (employee_count)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Kauai Coffee Company
+- **Predicate:** employs
+- **Object:** 140 (employee_count)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Kauai Coffee Company has approximately 140 employees.
 
-### c_005 — confirmed, single source
-**Subject entities:** Massimo Zanetti Beverage Group; Kauai Coffee Company
-**Predicate:** owned since
-**Object:** 2011 (ownership_date)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Massimo Zanetti Beverage Group; Kauai Coffee Company
+- **Predicate:** owned since
+- **Object:** 2011 (ownership_date)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Massimo Zanetti Beverage Group has owned Kauai Coffee Company since 2011.
 
-### c_006 — confirmed, single source
-**Subject entities:** Brue Baukol Capital Partners; Alexander & Baldwin; Kauai Coffee property
-**Predicate:** acquired from
-**Object:** 2022 (transaction_date)
-**Temporal:** 2022
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Brue Baukol Capital Partners; Alexander & Baldwin; Kauai Coffee property
+- **Predicate:** acquired from
+- **Object:** 2022 (transaction_date)
+- **Temporal:** 2022
+- **Sources:** src_001
 
 > Brue Baukol Capital Partners bought the Kauai Coffee property from Alexander & Baldwin in 2022.
 
-### c_007 — confirmed, primary document
-**Subject entities:** Kauai Coffee Company
-**Predicate:** notified of closure and layoffs
-**Object:** 136 employees laid off; operations cease (regulatory_notice)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Kauai Coffee Company
+- **Predicate:** notified of closure and layoffs
+- **Object:** 136 employees laid off; operations cease (regulatory_notice)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Kauai Coffee Company notified state and county officials it will cease operations between March 14 and March 28 and lay off 136 employees.
 
-### c_008 — attributed, single source
-**Subject entities:** Brue Baukol Capital Partners
-**Predicate:** committed to
-**Object:** employee retention and continued agriculture (commitment_statement)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Brue Baukol Capital Partners
+- **Predicate:** committed to
+- **Object:** employee retention and continued agriculture (commitment_statement)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Brue Baukol Capital Partners says it is committed to retaining Kauai Coffee employees who want to continue working and to keeping the land in agricultural use.
 
-### c_009 — attributed, single source
-**Subject entities:** James Priestley; Brue Baukol Capital Partners
-**Predicate:** stated plan for
-**Object:** continued employment opportunity for all willing employees (speech_act)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** James Priestley; Brue Baukol Capital Partners
+- **Predicate:** stated plan for
+- **Object:** continued employment opportunity for all willing employees (speech_act)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > James Priestley, BBCP vice president, said if Massimo Zanetti does not renew its lease, BBCP's plan is to keep people working on the coffee farm and every employee who wants to keep working will have that opportunity.
 
-### c_010 — confirmed, single source
-**Subject entities:** Kauai Coffee Company
-**Predicate:** employee tenure
-**Object:** 30 percent over 10 years; 3 over 50 years (workforce_stability)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Kauai Coffee Company
+- **Predicate:** employee tenure
+- **Object:** 30 percent over 10 years; 3 over 50 years (workforce_stability)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Thirty percent of Kauai Coffee Company employees have worked there for more than 10 years; three have worked there for 50 years.
 
-### c_011 — confirmed, single source
-**Subject entities:** Kauai Coffee Company; Kauai West side
-**Predicate:** residence distribution
-**Object:** 90 percent West side; most local (geographic_distribution)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_011
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Kauai Coffee Company; Kauai West side
+- **Predicate:** residence distribution
+- **Object:** 90 percent West side; most local (geographic_distribution)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Most Kauai Coffee Company employees are local residents, with 90 percent living on the West side of Kauai.
 
-### c_012 — attributed, single source
-**Subject entities:** Kauai Coffee Company; ILWU Local 142
-**Predicate:** union membership
-**Object:** approximately half of workforce (labor_organization)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Kauai Coffee Company; ILWU Local 142
+- **Predicate:** union membership
+- **Object:** approximately half of workforce (labor_organization)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > About half of Kauai Coffee Company employees belong to the International Longshore and Warehouse Union Local 142.
 
-### c_013 — attributed, single source
-**Subject entities:** Mel Rapozo
-**Predicate:** expressed concern about
-**Object:** employee welfare during uncertainty (speech_act)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Mel Rapozo
+- **Predicate:** expressed concern about
+- **Object:** employee welfare during uncertainty (speech_act)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Mel Rapozo, Kauai County Council Chair, said his concern is the employees and the state of uncertainty.
 
-### c_014 — attributed, single source
-**Subject entities:** Chris West; ILWU Local 142
-**Predicate:** expressed concern about
-**Object:** private investment and land development pressure on Kauai (speech_act)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Chris West; ILWU Local 142
+- **Predicate:** expressed concern about
+- **Object:** private investment and land development pressure on Kauai (speech_act)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Chris West, ILWU Local 142 president, said the situation extends beyond Kauai Coffee workers to the question of whether Kauai is being turned into a playground for investors.
 
-### c_015 — confirmed, single source
-**Subject entities:** Brue Baukol Capital Partners; Kauai
-**Predicate:** owns
-**Object:** 18500+ acres including Kukui'ula (land_holdings)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_015
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Brue Baukol Capital Partners; Kauai
+- **Predicate:** owns
+- **Object:** 18500+ acres including Kukui'ula (land_holdings)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Brue Baukol Capital Partners owns more than 18,500 acres on Kauai, including the 1,000-acre Kukui'ula luxury development.
 
-### c_016 — confirmed, single source
-**Subject entities:** Brue Baukol Capital Partners; Kauai Coffee land
-**Predicate:** listed for sale
-**Object:** 4713 acres including oceanfront and urban-designated land (real_estate_listing)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_016
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Brue Baukol Capital Partners; Kauai Coffee land
+- **Predicate:** listed for sale
+- **Object:** 4713 acres including oceanfront and urban-designated land (real_estate_listing)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > Brue Baukol Capital Partners listed 4,713 acres of Kauai Coffee land for sale in 2024, including nearly 5 miles of oceanfront real estate and about 695 acres designated for urban development.
 
-### c_017 — confirmed, single source
-**Subject entities:** West Kauai Community Plan; Kauai Coffee lands
-**Predicate:** determined zoning appropriateness
-**Object:** upzoning not appropriate (land_use_determination)
-**Temporal:** 2020
-**Source IDs:** src_001
+### c_017
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** West Kauai Community Plan; Kauai Coffee lands
+- **Predicate:** determined zoning appropriateness
+- **Object:** upzoning not appropriate (land_use_determination)
+- **Temporal:** 2020
+- **Sources:** src_001
 
 > The 2020 West Kauai Community Plan determined that upzoning of Kauai Coffee lands was not appropriate.
 
-### c_018 — confirmed, single source
-**Subject entities:** Kauai Coffee field lands
-**Predicate:** designated as
-**Object:** agriculture or Important Agricultural Lands (zoning_designation)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_018
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Kauai Coffee field lands
+- **Predicate:** designated as
+- **Object:** agriculture or Important Agricultural Lands (zoning_designation)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Most Kauai Coffee field lands are designated as agriculture or Important Agricultural Lands.
 
-### c_019 — confirmed, single source
-**Subject entities:** Kauai Coffee products
-**Predicate:** certified by
-**Object:** Fair Trade USA, Rainforest Alliance, Non-GMO Project (product_certification)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_019
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Kauai Coffee products
+- **Predicate:** certified by
+- **Object:** Fair Trade USA, Rainforest Alliance, Non-GMO Project (product_certification)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Kauai Coffee products carry certifications from Fair Trade USA, Rainforest Alliance, and the Non-GMO Project.
 
-### c_020 — confirmed, single source
-**Subject entities:** Kauai Coffee Fair Trade Committee; Kauai
-**Predicate:** distributed funds to
-**Object:** $373,000 (financial_contribution)
-**Temporal:** 2023-2026
-**Source IDs:** src_001
+### c_020
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Kauai Coffee Fair Trade Committee; Kauai
+- **Predicate:** distributed funds to
+- **Object:** $373,000 (financial_contribution)
+- **Temporal:** 2023-2026
+- **Sources:** src_001
 
 > Kauai Coffee's employee-led Fair Trade Committee has given $373,000 back to the island since 2023.
 
@@ -355,7 +392,3 @@ The next month will determine whether the company's employees, some of whom have
 **Access date:** 2026-01-28
 **Title:** Kauai Coffee Company faces uncertain future as land lease nears expiration
 **URL:** https://apnews.com/article/mel-rapozo-agriculture-general-news-e2efbb9de6d3ac5062091100db6c0f9c
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

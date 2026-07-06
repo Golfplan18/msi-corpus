@@ -20,42 +20,41 @@ primary_themes:
 - civic participation
 - fiscal stability
 topic_tags:
-  - "crime, law and justice"
-  - "law enforcement"
-  - "science and technology"
-  - "artificial intelligence"
-  - education
-  - "education policy"
-storyline_nexus: []
-geographic_location: Vermont
+- tax
+- government policy
+- economy
+- communities
+storyline_nexus:
+- housing-affordability-crisis
+geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship
-  intensity: 0.8
-- value: accountability_of_power
+  intensity: 0.9
+- value: equality_fairness
   intensity: 0.6
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18'
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T01:03:54Z'
 source_cluster_id: cluster_ap_2026-02-24_vermont-taxes-donald-trump-donald-trump-
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 10
   hedges:
     appears: 0
-    alleged: 0
-    attributed: 1
-    reported: 8
     contested: 0
+    alleged: 0
     confirmed: 1
+    reported: 8
+    attributed: 1
   corroboration:
     primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
-    primary_document: 1
-    single_source: 9
     two_independent: 0
+    single_source: 9
+    primary_document: 1
 sources:
   count: 1
   outlets:
@@ -69,21 +68,19 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-04-15-hochul-proposes-pied---terre-tax-on-nyc-second-homes-over-5-million
-  relation: related
-  strength: 0.7707
-  confidence: medium
-- slug: 2026-01-07-georgia-senate-republicans-push-to-eliminate-state-income-tax-by-2032
-  relation: related
-  strength: 0.7514
-  confidence: medium
-- slug: 2026-01-13-hochul-s-state-of-the-state-pitches-affordability-agenda-to-unite-divided-democr
-  relation: related
-  strength: 0.7143
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Nearly 20 Vermont communities will seek voter approval this March for local option taxes on sales, meals, rooms and alcohol, expanding a strategy that municipalities across the state have adopted to s…
+- According to a Vermont Digger survey, voters in Bolton, Bristol, Castleton, Chester, Hardwick, Londonderry, Mendon, Milton, Morristown, Pittsfield, Pomfret, Roxbury, Swanton, Vergennes, Waitsfield, We…
+- "The only revenue authority for some places is the local property tax rate, which they've been holding down as long as possible," said Samantha Sheehan, municipal policy and advocacy specialist with t…
+- Affordability concerns are reducing municipal appetite for infrastructure spending. Vermont's 29 largest municipalities reported an 84% drop in capital improvement requests, according to the Vermont D…
+- The largest single bond proposal statewide comes from the Mountain Views School District, where voters in Bridgewater, Barnard, Plymouth, Killington, Reading, Pomfret and Woodstock will decide whether…
 
 The expanding use of local option taxes reflects mounting affordability concerns across Vermont, with voters in nearly 40 communities now using some combination of such fees to generate revenue while shifting some of the tax burden to visitors and businesses.
 
@@ -151,111 +148,124 @@ Lincoln will test electronic voting devices with "yes" and "no" buttons for its 
 
 ## Editorial Disclosures
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. The framework specification is available at /methodology. Human review was not triggered for this article.
-
 This article and all Main Street Independent content is released under [Creative Commons Zero (CC0)](https://creativecommons.org/publicdomain/zero/1.0/), a public-domain dedication. The work is available for fork, adaptation, and reuse without restriction or attribution.
 
 ## Atomic claims
 
-### c_001 — reported, single source
-**Subject entities:** Vermont communities
-**Predicate:** seek voter approval for local option taxes
-**Object:** sales, meals, rooms and alcohol (tax categories)
-**Temporal:** 2026-03
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Vermont communities
+- **Predicate:** seek voter approval for local option taxes
+- **Object:** sales, meals, rooms and alcohol (tax categories)
+- **Temporal:** 2026-03
+- **Sources:** src_001
 
 > Nearly 20 Vermont communities will seek voter approval for local option taxes on sales, meals, rooms and alcohol during March Town Meetings.
 
-### c_002 — reported, single source
-**Subject entities:** Vermont municipalities
-**Predicate:** levy local option taxes
-**Object:** ~40 (community count)
-**Temporal:** 2026-02
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Vermont municipalities
+- **Predicate:** levy local option taxes
+- **Object:** ~40 (community count)
+- **Temporal:** 2026-02
+- **Sources:** src_001
 
 > Close to 40 Vermont communities currently levy some combination of local option taxes.
 
-### c_003 — confirmed, primary document
-**Subject entities:** Vermont
-**Predicate:** charges state tax rates
-**Object:** 6% sales, 9% rooms/meals, 10% alcohol (tax rates)
-**Temporal:** ongoing
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Vermont
+- **Predicate:** charges state tax rates
+- **Object:** 6% sales, 9% rooms/meals, 10% alcohol (tax rates)
+- **Temporal:** ongoing
+- **Sources:** src_001
 
 > Vermont state tax rates are 6% on sales, 9% on rooms and meals, and 10% on alcohol.
 
-### c_004 — reported, single source
-**Subject entities:** Vermont municipalities
-**Predicate:** collected revenue from local option taxes
-**Object:** >$50 million (revenue amount)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Vermont municipalities
+- **Predicate:** collected revenue from local option taxes
+- **Object:** >$50 million (revenue amount)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Municipalities with 1% local option fees collected more than $50 million collectively in the past year.
 
-### c_005 — reported, single source
-**Subject entities:** Stowe
-**Predicate:** will vote on increasing local option tax
-**Object:** 1% to 2% (tax rate increase)
-**Temporal:** 2026-03
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Stowe
+- **Predicate:** will vote on increasing local option tax
+- **Object:** 1% to 2% (tax rate increase)
+- **Temporal:** 2026-03
+- **Sources:** src_001
 
 > Stowe will vote on increasing its local option tax from 1% to 2%.
 
-### c_006 — reported, single source
-**Subject entities:** Mountain Views School District; Bridgewater; Barnard; Plymouth; Killington; Reading; Pomfret; Woodstock
-**Predicate:** will vote on school construction
-**Object:** $111 million (project cost)
-**Temporal:** 2026-03
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Mountain Views School District; Bridgewater; Barnard; Plymouth; Killington; Reading; Pomfret; Woodstock
+- **Predicate:** will vote on school construction
+- **Object:** $111 million (project cost)
+- **Temporal:** 2026-03
+- **Sources:** src_001
 
 > The Mountain Views School District towns will vote on constructing a new $111 million Woodstock Union High and Middle School.
 
-### c_007 — attributed, single source
-**Subject entities:** Samantha Sheehan; Vermont League of Cities and Towns
-**Predicate:** said communities see tax opportunities
-**Object:** local option taxes provide revenue alternatives (expert attribution)
-**Temporal:** 2026-02
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Samantha Sheehan; Vermont League of Cities and Towns
+- **Predicate:** said communities see tax opportunities
+- **Object:** local option taxes provide revenue alternatives (expert attribution)
+- **Temporal:** 2026-02
+- **Sources:** src_001
 
 > Samantha Sheehan, municipal policy specialist with the Vermont League of Cities and Towns, said municipalities without major commercial centers are realizing opportunities with local option taxes.
 
-### c_008 — reported, single source
-**Subject entities:** Vermont municipalities
-**Predicate:** reported decline in capital requests
-**Object:** 84% (percentage decline)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Vermont municipalities
+- **Predicate:** reported decline in capital requests
+- **Object:** 84% (percentage decline)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Vermont's 29 largest municipalities reported an 84% drop in capital improvement requests this year.
 
-### c_009 — reported, single source
-**Subject entities:** Vermont municipalities; Chittenden; Granville; Ryegate; Shaftsbury; Vernon; Cornwall; Berkshire; Ferrisburgh
-**Predicate:** shifting to appointed professionals
-**Object:** recruitment challenges for elected positions (governance change reason)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Vermont municipalities; Chittenden; Granville; Ryegate; Shaftsbury; Vernon; Cornwall; Berkshire; Ferrisburgh
+- **Predicate:** shifting to appointed professionals
+- **Object:** recruitment challenges for elected positions (governance change reason)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Several Vermont communities are moving from elected citizen auditors and officials to appointed professional staff due to difficulty recruiting volunteers.
 
-### c_010 — reported, single source
-**Subject entities:** Westminster; Donald Trump; JD Vance
-**Predicate:** placed advisory petition
-**Object:** removal petition (ballot item)
-**Temporal:** 2026-03
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Westminster; Donald Trump; JD Vance
+- **Predicate:** placed advisory petition
+- **Object:** removal petition (ballot item)
+- **Temporal:** 2026-03
+- **Sources:** src_001
 
 > Westminster has placed an advisory petition seeking the removal of President Donald Trump and Vice President JD Vance "for crimes against the United States Constitution."
 
 ## Sources
 
 ### src_001 — Associated Press, wire, Tier 1, originating
-**Author:** Kevin O'Connor
+**Author:** Kevin O'connor / Vtdigger
 **Publication date:** 2026-02-23
-**Access date:** 2026-02-23
 **Title:** More cash-strapped Vermont communities seek local taxes on rooms, meals, alcohol and sales
 **URL:** https://apnews.com/article/vermont-taxes-donald-trump-donald-trump-es-abraham-lincoln-f54a83fa9ffdd8155777b8b304a19808
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

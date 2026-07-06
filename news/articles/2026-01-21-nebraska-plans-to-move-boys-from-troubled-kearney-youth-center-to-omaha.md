@@ -15,44 +15,41 @@ primary_themes:
 - sexual abuse allegations
 - facility relocation
 topic_tags:
-  - "crime, law and justice"
-  - labour
-  - "law enforcement"
-  - society
-storyline_nexus: []
-geographic_location: Kearney and Omaha, Nebraska, USA
+- crime
+- government policy
+- judiciary
+- welfare
+storyline_nexus:
+- lgbtq-rights-restrictions
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
-  intensity: 0.95
-- value: truthfulness
   intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.88
-- value: informed_citizenship
-  intensity: 0.85
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+  intensity: 0.9
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:29:31Z'
 source_cluster_id: cluster_ap_2026-01-22_tom-riley-kearney-nebraska-omaha-general
 gdelt_event_ids: []
-consensus_floor_version: 1.0.0
-publication_mindspec_version: 1.0.0
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 12
   hedges:
-    appears: 0
+    contested: 0
+    reported: 3
+    confirmed: 4
     alleged: 1
     attributed: 4
-    reported: 3
-    contested: 0
-    confirmed: 4
+    appears: 0
   corroboration:
     primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 4
-    single_source: 8
     two_independent: 0
+    single_source: 8
+    primary_document: 4
+    one_originating_plus_primary_document: 0
 sources:
   count: 1
   outlets:
@@ -69,6 +66,17 @@ figures_aggregate:
 cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Nebraska planning to move boys from troubled Kearney youth center to Omaha
+- State leaders plan to move all boys out of Kearney’s state-run youth treatment center months after multiple allegations of sexual abuse there.
+- The teens would go to what’s currently a youth prison in Omaha, as part of a wider plan to shuffle in-custody kids.
+- State leaders assert the changes, which require legislative action, will better serve teens in the system and save the state money.
+- “There are a number of issues that need to be addressed before this is put into action,” said Douglas County Public Defender Tom Riley.
+- In October, the Flatwater Free Press reported on allegations that had surfaced in court hearings of staff sexually abusing teenagers at the Kearney center.
 
 Nebraska state leaders plan to move all boys from a youth treatment center in Kearney to a currently underutilized facility in Omaha, following multiple allegations of sexual abuse at the Kearney site. The boys would be relocated to what is now a youth prison operated by the state Department of Correctional Services, as part of a broader reshuffling of the state's in-custody juvenile population. State officials say the plan will improve living conditions and save approximately $4 million annually, but the Douglas County public defender and state employee union have raised questions about implementation readiness and impacts on youth programming.
 
@@ -116,111 +124,135 @@ Jennifer Carter, Nebraska's child welfare watchdog, said her office continues in
 
 ## Atomic claims
 
-### c_001 — reported, single source
-**Subject entities:** Nebraska state leaders
-**Predicate:** plan to relocate
-**Object:** boys from Kearney to Omaha (relocation_plan)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Nebraska state leaders
+- **Predicate:** plan to relocate
+- **Object:** boys from Kearney to Omaha (relocation_plan)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > Nebraska state leaders plan to move all boys from Kearney youth treatment center to an Omaha facility.
 
-### c_002 — alleged, primary document
-**Subject entities:** Kearney YRTC staff
-**Predicate:** sexually abused
-**Object:** 8-10 boys (victim_estimate)
-**Temporal:** 2025-10
-**Source IDs:** src_001
+### c_002
+- **Hedge:** alleged
+- **Corroboration:** primary_document
+- **Subject entities:** Kearney YRTC staff
+- **Predicate:** sexually abused
+- **Object:** 8-10 boys (victim_estimate)
+- **Temporal:** 2025-10
+- **Sources:** src_001
 
 > Multiple allegations of sexual abuse by staff have surfaced at the Kearney youth treatment center, involving an estimated 8-10 boys.
 
-### c_003 — reported, single source
-**Subject entities:** Kearney YRTC staff members
-**Predicate:** facing accusations of
-**Object:** sexual abuse (allegation_category)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Kearney YRTC staff members
+- **Predicate:** facing accusations of
+- **Object:** sexual abuse (allegation_category)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > Five staff members at Kearney YRTC are facing accusations of sexual abuse.
 
-### c_004 — confirmed, primary document
-**Subject entities:** accused staff members
-**Predicate:** charged
-**Object:** 1 criminal charge (legal_charge)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** accused staff members
+- **Predicate:** charged
+- **Object:** 1 criminal charge (legal_charge)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > Only one of the accused staff members has been charged criminally.
 
-### c_005 — attributed, single source
-**Subject entities:** Nebraska state officials
-**Predicate:** assert
-**Object:** improved facility conditions (operational_claim)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Nebraska state officials
+- **Predicate:** assert
+- **Object:** improved facility conditions (operational_claim)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > State officials assert the relocation plan will improve facility conditions.
 
-### c_006 — attributed, single source
-**Subject entities:** Nebraska state officials
-**Predicate:** estimate
-**Object:** $4 million annual savings (financial_projection)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Nebraska state officials
+- **Predicate:** estimate
+- **Object:** $4 million annual savings (financial_projection)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > State officials estimate the plan will save approximately $4 million annually.
 
-### c_007 — attributed, single source
-**Subject entities:** Tom Riley
-**Predicate:** said
-**Object:** implementation concerns and readiness questions (statement)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Tom Riley
+- **Predicate:** said
+- **Object:** implementation concerns and readiness questions (statement)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > Tom Riley, Douglas County Public Defender, said issues need addressing before implementation.
 
-### c_008 — attributed, single source
-**Subject entities:** Tom Riley
-**Predicate:** characterized
-**Object:** systemic problem (assessment)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Tom Riley
+- **Predicate:** characterized
+- **Object:** systemic problem (assessment)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > Riley characterized the allegations as a systemic problem.
 
-### c_009 — confirmed, single source
-**Subject entities:** Omaha facility
-**Predicate:** has capacity for
-**Object:** 92-143 bed capacity (facility_specification)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Omaha facility
+- **Predicate:** has capacity for
+- **Object:** 92-143 bed capacity (facility_specification)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > The Omaha facility has 92 rooms with capacity for up to 143 beds, with potential for mostly individual rooms.
 
-### c_010 — reported, single source
-**Subject entities:** girls in Hastings
-**Predicate:** relocate to
-**Object:** Kearney center (relocation_plan)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** girls in Hastings
+- **Predicate:** relocate to
+- **Object:** Kearney center (relocation_plan)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > The plan will relocate 1-2 dozen girls currently in Hastings to the Kearney center.
 
-### c_011 — confirmed, primary document
-**Subject entities:** relocation plan
-**Predicate:** requires approval from
-**Object:** Nebraska legislature (legal_requirement)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_011
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** relocation plan
+- **Predicate:** requires approval from
+- **Object:** Nebraska legislature (legal_requirement)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > The relocation plan requires legislative approval to proceed.
 
-### c_012 — confirmed, primary document
-**Subject entities:** Nebraska child welfare office
-**Predicate:** continuing investigation of
-**Object:** Kearney allegations (investigation)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_012
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Nebraska child welfare office
+- **Predicate:** continuing investigation of
+- **Object:** Kearney allegations (investigation)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > Nebraska's child welfare watchdog continues investigating allegations at Kearney.
 
@@ -229,10 +261,5 @@ Jennifer Carter, Nebraska's child welfare watchdog, said her office continues in
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Sara Gentzler / Flatwater Free Press
 **Publication date:** 2026-01-21
-**Access date:** 2026-05-18
 **Title:** Nebraska planning to move boys from troubled Kearney youth center to Omaha
 **URL:** https://apnews.com/article/tom-riley-kearney-nebraska-omaha-general-news-89cb8fae7f13a0a3c4c6dba04aca369a
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

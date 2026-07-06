@@ -20,7 +20,7 @@ topic_tags:
   - "crime, law and justice"
   - law
 storyline_nexus:
-  - immigration-enforcement
+- us-immigration-enforcement
 geographic_location: United States (Washington D.C., Minneapolis, Minnesota)
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -141,79 +141,93 @@ The timing carries added weight: DHS's annual appropriations are due to expire J
 
 Government attorneys have previously argued that conditions in ICE facilities are stable enough that representatives can assess them adequately even with a week's notice. Judge Cobb rejected this reasoning in her December order, finding that facility conditions can change significantly over the course of seven days.
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** federal judge; DHS
-**Predicate:** refused_to_block_policy
-**Object:** seven-day notice requirement for Congressional ICE visits (government_policy)
-**Temporal:** 2026-01-19
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** federal judge; DHS
+- **Predicate:** refused_to_block_policy
+- **Object:** seven-day notice requirement for Congressional ICE visits (government_policy)
+- **Temporal:** 2026-01-19
+- **Sources:** src_001
 
 > A federal judge refused Monday to temporarily block a DHS policy requiring members of Congress to provide a week's notice before visiting ICE detention facilities.
 
-### c_002 — confirmed, primary document
-**Subject entities:** Ilhan Omar; Kelly Morrison; Angie Craig
-**Predicate:** were_blocked_from
-**Object:** ICE facility near Minneapolis (location)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Ilhan Omar; Kelly Morrison; Angie Craig
+- **Predicate:** were_blocked_from
+- **Object:** ICE facility near Minneapolis (location)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Three Democratic members of Congress from Minnesota were turned away from an ICE facility near Minneapolis.
 
-### c_003 — confirmed, primary document
-**Subject entities:** ICE officer; Renee Good
-**Predicate:** shot_and_killed
-**Object:** U.S. citizen (fatality_event)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** ICE officer; Renee Good
+- **Predicate:** shot_and_killed
+- **Object:** U.S. citizen (fatality_event)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > The blockage of the congressional visit occurred three days after an ICE officer shot and killed U.S. citizen Renee Good in Minneapolis.
 
-### c_004 — confirmed, primary document
-**Subject entities:** U.S. District Judge Jia Cobb
-**Predicate:** temporarily_blocked_policy
-**Object:** seven-day notice requirement for ICE visits (government_policy)
-**Temporal:** 2025-12-17
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. District Judge Jia Cobb
+- **Predicate:** temporarily_blocked_policy
+- **Object:** seven-day notice requirement for ICE visits (government_policy)
+- **Temporal:** 2025-12-17
+- **Sources:** src_001
 
 > A previous court order on December 17 temporarily blocked a similar oversight visit policy.
 
-### c_005 — reported, primary document
-**Subject entities:** Kristi Noem; DHS
-**Predicate:** signed_memorandum
-**Object:** reinstatement of seven-day notice requirement (government_action)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Kristi Noem; DHS
+- **Predicate:** signed_memorandum
+- **Object:** reinstatement of seven-day notice requirement (government_action)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > DHS Secretary Kristi Noem signed a new memorandum on January 8 reinstating the notice requirement.
 
-### c_006 — attributed, primary document
-**Subject entities:** Judge Jia Cobb
-**Predicate:** concluded
-**Object:** January 8 policy is distinct and not subject to prior order (judicial_decision)
-**Temporal:** 2026-01-19
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Judge Jia Cobb
+- **Predicate:** concluded
+- **Object:** January 8 policy is distinct and not subject to prior order (judicial_decision)
+- **Temporal:** 2026-01-19
+- **Sources:** src_001
 
 > Judge Jia Cobb concluded the January 8 policy is a new agency action not subject to her prior order.
 
-### c_007 — confirmed, primary document
-**Subject entities:** Democratic members of Congress
-**Predicate:** sued_to_challenge
-**Object:** ICE visitor policies (government_policy)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Democratic members of Congress
+- **Predicate:** sued_to_challenge
+- **Object:** ICE visitor policies (government_policy)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Twelve other Democratic members of Congress sued to challenge ICE visitor policies after being denied entry to detention facilities.
 
-### c_008 — attributed, primary document
-**Subject entities:** Melissa Schwartz; Democracy Forward
-**Predicate:** stated_will_continue_legal_challenge
-**Object:** legal challenge to congressional access restrictions (legal_commitment)
-**Temporal:** 2026-01-19
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Melissa Schwartz; Democracy Forward
+- **Predicate:** stated_will_continue_legal_challenge
+- **Object:** legal challenge to congressional access restrictions (legal_commitment)
+- **Temporal:** 2026-01-19
+- **Sources:** src_001
 
 > Democracy Forward spokeswoman Melissa Schwartz said they will continue to use every legal tool available to stop the administration's efforts to hide from congressional oversight.
 
@@ -225,7 +239,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-05-18
 **Title:** Judge won't block DHS policy on lawmaker access to ICE facilities
 **URL:** https://apnews.com/article/minneapolis-shooting-congress-visit-ice-5eb6749b18d59ed8c47b5eeab9784432
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -1,6 +1,5 @@
 ---
 headline: US suspends all assistance to Somalia's federal government over alleged food aid seizure
-slug: 2026-01-07-us-suspends-aid-to-somalia-over-alleged-food-seizure
 publish_date: '2026-01-07'
 lede: The State Department said Wednesday it has suspended all U.S. assistance to Somalia's federal government over allegations that Somali officials demolished an American-funded World Food Program warehouse at Mogadishu Port and seized 76 metric tons of food aid intended for impoverished civilians.
 nut_graf: The suspension marks a significant escalation in the Trump administration's approach to foreign aid accountability, affecting a country that received $770 million in U.S. assistance during the final year of the Biden administration and that international organizations rank among the world's most food-insecure nations.
@@ -15,39 +14,39 @@ primary_themes:
 - U.S.-Somalia relations
 - Trump administration policy
 topic_tags:
-  - "artificial intelligence"
-  - politics
-  - "science and technology"
-storyline_nexus: []
-geographic_location: Somalia
+- corruption
+- government policy
+- international relations
+- crime
+storyline_nexus:
+- snap-safety-net-cuts
+geographic_location: United States
 floor_values_engaged:
-- value: human_life_and_dignity
-  intensity: 0.85
 - value: accountability_of_power
-  intensity: 0.8
-- value: informed_citizenship
   intensity: 0.9
-framework_version: 1.1.0
-generation_timestamp: '2026-05-16T18:10:12Z'
+- value: human_life_and_dignity
+  intensity: 0.9
+framework_version: 1.3.0
+generation_timestamp: '2026-05-22T23:55:15Z'
 source_cluster_id: cluster_ap_2026-01-06_trump-somalia-food-assistance-suspension
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 8
   hedges:
-    appears: 0
-    alleged: 2
     attributed: 0
     reported: 5
+    alleged: 2
+    appears: 0
     contested: 0
     confirmed: 1
   corroboration:
+    primary_document: 1
     primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
-    primary_document: 1
     single_source: 7
     two_independent: 0
 sources:
@@ -70,6 +69,13 @@ image:
 cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- The State Department said Wednesday it has suspended all U.
+- The suspension marks a significant escalation in the Trump administration's approach to foreign aid accountability, affecting a country that received $770 million in U.
+- The State Department said Wednesday it has suspended all U.S. assistance to Somalia's federal government over allegations that Somali officials demolished an American-funded World Food Program warehouse at Mogadishu Port and seized 76 metric tons of food aid intended for impoverished civilians..
 
 The suspension marks a significant escalation in the Trump administration's approach to foreign aid accountability, affecting a country that received $770 million in U.S. assistance during the final year of the Biden administration and that international organizations rank among the world's most food-insecure nations.
 
@@ -101,75 +107,91 @@ The suspension coincides with the Trump administration's broader posture toward 
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** U.S. Department of State; Somalia government
-**Predicate:** suspended_assistance
-**Object:** all ongoing U.S. assistance programs benefiting the Somali federal government (policy_action)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Department of State; Somalia government
+- **Predicate:** suspended_assistance
+- **Object:** all ongoing U.S. assistance programs benefiting the Somali federal government (policy_action)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > The State Department suspended all U.S. assistance to Somalia's federal government on January 7, 2026.
 
-### c_002 — alleged, single source
-**Subject entities:** Somalia government; World Food Programme
-**Predicate:** demolished_warehouse
-**Object:** American-funded WFP warehouse at Mogadishu Port (facility)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_002
+- **Hedge:** alleged
+- **Corroboration:** single_source
+- **Subject entities:** Somalia government; World Food Programme
+- **Predicate:** demolished_warehouse
+- **Object:** American-funded WFP warehouse at Mogadishu Port (facility)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Somali officials demolished an American-funded World Food Program warehouse at Mogadishu Port.
 
-### c_003 — alleged, single source
-**Subject entities:** Somalia government
-**Predicate:** seized_food_aid
-**Object:** 76 metric tons of food aid (quantity)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_003
+- **Hedge:** alleged
+- **Corroboration:** single_source
+- **Subject entities:** Somalia government
+- **Predicate:** seized_food_aid
+- **Object:** 76 metric tons of food aid (quantity)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Somali officials seized 76 metric tons of food aid intended for impoverished civilians.
 
-### c_004 — reported, single source
-**Subject entities:** Hassan Sheikh Mohamud; Somalia government
-**Predicate:** directed_demolition
-**Object:** WFP warehouse demolition without donor notification (action)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Hassan Sheikh Mohamud; Somalia government
+- **Predicate:** directed_demolition
+- **Object:** WFP warehouse demolition without donor notification (action)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > The warehouse demolition was carried out at the direction of Somali President Hassan Sheikh Mohamud with no prior notification or coordination with international donor countries, including the United States.
 
-### c_005 — reported, single source
-**Subject entities:** United States government; Joe Biden
-**Predicate:** provided_assistance
-**Object:** $770 million (monetary_amount)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** United States government; Joe Biden
+- **Predicate:** provided_assistance
+- **Object:** $770 million (monetary_amount)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > The U.S. provided $770 million in assistance for projects in Somalia during the final year of President Biden's administration.
 
-### c_006 — reported, single source
-**Subject entities:** United States government; Somalia government
-**Predicate:** direct_government_funding_share
-**Object:** fraction of total assistance (proportion)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** United States government; Somalia government
+- **Predicate:** direct_government_funding_share
+- **Object:** fraction of total assistance (proportion)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Only a fraction of the $770 million in U.S. assistance to Somalia went directly to the Somali federal government.
 
-### c_007 — reported, single source
-**Subject entities:** United States government
-**Predicate:** reduced_and_dismantled
-**Object:** foreign aid expenditures and USAID (policy_action)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** United States government
+- **Predicate:** reduced_and_dismantled
+- **Object:** foreign aid expenditures and USAID (policy_action)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > The Trump administration has slashed foreign aid expenditures and dismantled the U.S. Agency for International Development.
 
-### c_008 — reported, single source
-**Subject entities:** United States government
-**Predicate:** imposed_immigration_restrictions
-**Object:** significant travel and immigration restrictions on Somalis (policy_action)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** United States government
+- **Predicate:** imposed_immigration_restrictions
+- **Object:** significant travel and immigration restrictions on Somalis (policy_action)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > The Trump administration has imposed significant restrictions on Somalis seeking to enter or remain in the United States.
 
@@ -178,10 +200,5 @@ The suspension coincides with the Trump administration's broader posture toward 
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Matthew Lee
 **Publication date:** 2026-01-07
-**Access date:** 2026-01-07
-**Title:** US halts aid to Somalia's federal government
+**Title:** US halts aid to Somalia’s federal government
 **URL:** https://apnews.com/article/trump-somalia-food-assistance-suspension-a34b91e229c195a723ce2c8f9e6bb158
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

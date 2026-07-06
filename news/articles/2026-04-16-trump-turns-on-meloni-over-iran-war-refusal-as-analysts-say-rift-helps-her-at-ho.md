@@ -21,7 +21,7 @@ primary_themes:
 topic_tags:
   - "conflict, war and peace"
 storyline_nexus:
-  - iran-war
+- the-iran-war
 geographic_location: Italy; United States; International
 floor_values_engaged:
 - value: informed_citizenship
@@ -279,7 +279,3 @@ Roberto D'Alimonte, a professor at the LUISS school of government, predicted Mel
 **Access date:** 2026-05-17
 **Title:** Italian Premier Meloni could benefit at home from rift with Trump
 **URL:** https://apnews.com/article/italy-trump-giorgia-meloni-pope-iran-israel-172094da97513b78a91cd5abc1bdbdc8
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

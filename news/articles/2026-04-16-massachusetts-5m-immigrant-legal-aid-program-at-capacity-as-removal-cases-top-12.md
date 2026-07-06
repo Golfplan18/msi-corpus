@@ -1,6 +1,5 @@
 ---
 headline: Massachusetts $5M immigrant legal aid program at capacity as removal cases top 126,000
-slug: 2026-04-16-massachusetts-5m-immigrant-legal-aid-program-at-capacity-as-removal-cases-top-126000
 publish_date: '2026-04-16'
 lede: A Massachusetts state program that launched at the end of 2025 to provide free legal representation to immigrants in removal proceedings reached capacity less than five months after launch, with a program hotline receiving 6,000 calls since December but finding attorneys for fewer than half of eligible callers, as pending removal cases against state residents topped 126,000, program officials said.
 nut_graf: 'The Massachusetts Access to Counsel Initiative reflects a structural gap in federal immigration law: removal proceedings are classified as civil matters, meaning people facing deportation have a right to an attorney but are not entitled to one at government expense.'
@@ -20,44 +19,41 @@ primary_themes:
 - state immigration policy
 - deportation
 topic_tags:
-  - "artificial intelligence"
-  - "human interest"
-  - "human migration"
-  - "science and technology"
+- human migration
+- civil rights
+- government policy
+- law
 storyline_nexus:
-  - immigration-enforcement
-  - ai-regulation
-geographic_location: Massachusetts, United States
+- us-immigration-enforcement
+geographic_location: United States
 floor_values_engaged:
-- value: human_life_and_dignity
-  intensity: 0.8
-- value: informed_citizenship
-  intensity: 0.75
+- value: equality_fairness
+  intensity: 0.9
 - value: accountability_of_power
   intensity: 0.6
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T08:23:33Z'
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T01:02:19Z'
 source_cluster_id: cluster_ap_2026-04-17_massachusetts-legal-aid-immigrants-depor
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 12
   hedges:
-    appears: 0
     alleged: 0
     attributed: 7
-    reported: 1
     contested: 0
+    appears: 0
+    reported: 1
     confirmed: 4
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 0
-    single_source: 12
     two_independent: 0
+    single_source: 12
+    primary_plus_secondary: 0
+    primary_document: 0
+    one_originating_plus_primary_document: 0
 sources:
   count: 1
   outlets:
@@ -71,17 +67,17 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-13-detainee-drops-alligator-alcatraz-lawsuit-agrees-to-deportation-to-chile
-  relation: related
-  strength: 0.7996
-  confidence: medium
-- slug: 2026-01-07-uc-grad-workers-seek-750-000-legal-fund-for-international-employees-amid-visa-un
-  relation: related
-  strength: 0.7442
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- The Massachusetts Access to Counsel Initiative reflects a structural gap in federal immigration law: removal proceedings are classified a…
+- A Massachusetts state program that launched at the end of 2025 to provide free legal representation to immigrants in removal proceedings …
+- The Massachusetts Access to Counsel Initiative MACI, funded at $5 million by the state Legislature, was created to address a structural g…
+- "We know that there is so much need for legal services for immigrants right now," said Elizabeth Sweet, executive director of the Massach…
 
 The Massachusetts Access to Counsel Initiative reflects a structural gap in federal immigration law: removal proceedings are classified as civil matters, meaning people facing deportation have a right to an attorney but are not entitled to one at government expense.
 
@@ -135,111 +131,135 @@ Nice said representation is a threshold condition, not an enhancement.
 
 ## Atomic claims
 
-### c_001 — confirmed, single source
-**Subject entities:** Massachusetts Access to Counsel Initiative
-**Predicate:** launched
-**Object:** end of 2025 (date)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Massachusetts Access to Counsel Initiative
+- **Predicate:** launched
+- **Object:** end of 2025 (date)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > Massachusetts launched the Access to Counsel Initiative at the end of 2025, funded at $5 million by the state Legislature.
 
-### c_002 — confirmed, single source
-**Subject entities:** Massachusetts Access to Counsel Initiative
-**Predicate:** employs_attorneys
-**Object:** 24 (count)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Massachusetts Access to Counsel Initiative
+- **Predicate:** employs_attorneys
+- **Object:** 24 (count)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > 24 attorneys provide free legal aid to immigrants through the MACI program.
 
-### c_003 — attributed, single source
-**Subject entities:** Massachusetts residents
-**Predicate:** pending_removal_cases
-**Object:** 126724 (count)
-**Temporal:** 2026-02
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Massachusetts residents
+- **Predicate:** pending_removal_cases
+- **Object:** 126724 (count)
+- **Temporal:** 2026-02
+- **Sources:** src_001
 
 > As of February 2026, 126,724 removal cases were pending against Massachusetts residents in immigration court, with almost 52% having legal representation, according to TRAC Immigration.
 
-### c_004 — attributed, single source
-**Subject entities:** MACI hotline
-**Predicate:** processed_calls
-**Object:** 6000 calls / 697 eligible / 461 assigned (funnel_data)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** MACI hotline
+- **Predicate:** processed_calls
+- **Object:** 6000 calls / 697 eligible / 461 assigned (funnel_data)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > The MACI hotline received 6,000 calls since December 2025, found 697 callers eligible for services, and assigned attorneys to 461 of them.
 
-### c_005 — attributed, single source
-**Subject entities:** Maura Healey
-**Predicate:** proposed_budget_funding
-**Object:** 5000000 (currency_usd)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Maura Healey
+- **Predicate:** proposed_budget_funding
+- **Object:** 5000000 (currency_usd)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > Gov. Maura Healey's proposed fiscal 2027 budget maintains the program's funding at $5 million.
 
-### c_006 — attributed, single source
-**Subject entities:** Karen Spilka
-**Predicate:** proposed_funding_increase
-**Object:** 1000000 (currency_usd)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Karen Spilka
+- **Predicate:** proposed_funding_increase
+- **Object:** 1000000 (currency_usd)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > Senate President Karen Spilka said she wants to add an extra $1 million to the program this fiscal year, bringing the allocation to $6 million.
 
-### c_007 — attributed, single source
-**Subject entities:** Massachusetts Immigrant and Refugee Advocacy Coalition
-**Predicate:** funding_target
-**Object:** 15000000 (currency_usd)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Massachusetts Immigrant and Refugee Advocacy Coalition
+- **Predicate:** funding_target
+- **Object:** 15000000 (currency_usd)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > MIRA is aiming for $15 million in program funding for the following fiscal year.
 
-### c_008 — attributed, single source
-**Subject entities:** Massachusetts immigration attorneys
-**Predicate:** count
-**Object:** 114 (count)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Massachusetts immigration attorneys
+- **Predicate:** count
+- **Object:** 114 (count)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > Only 114 immigration attorneys are listed in the American Immigration Lawyers Association directory for Massachusetts, described by officials as an incomplete listing.
 
-### c_009 — reported, single source
-**Subject entities:** U.S. federal government
-**Predicate:** detained
-**Object:** 390000+ (count)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** U.S. federal government
+- **Predicate:** detained
+- **Object:** 390000+ (count)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > The federal government's mass deportation campaign detained over 390,000 immigrants in its first year, according to program officials.
 
-### c_010 — confirmed, single source
-**Subject entities:** Massachusetts Immigrant and Refugee Advocacy Coalition; state Office for Refugees and Immigrants
-**Predicate:** signed_contract
-**Object:** 4200000 (currency_usd)
-**Temporal:** 2025-11
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Massachusetts Immigrant and Refugee Advocacy Coalition; state Office for Refugees and Immigrants
+- **Predicate:** signed_contract
+- **Object:** 4200000 (currency_usd)
+- **Temporal:** 2025-11
+- **Sources:** src_001
 
 > MIRA signed a $4.2 million contract with the state Office for Refugees and Immigrants in November to administer the program.
 
-### c_011 — attributed, single source
-**Subject entities:** New Bedford residents
-**Predicate:** pending_removal_cases
-**Object:** 2271 (count)
-**Temporal:** 2026-02
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** New Bedford residents
+- **Predicate:** pending_removal_cases
+- **Object:** 2271 (count)
+- **Temporal:** 2026-02
+- **Sources:** src_001
 
 > There are 2,271 removal cases against New Bedford residents, of which 1,344 — 59% — have legal representation.
 
-### c_012 — confirmed, single source
-**Subject entities:** Massachusetts Legislature; federal agencies
-**Predicate:** created_in_response_to
-**Object:** 7000 detained Massachusetts immigrants (legislative_context)
-**Temporal:** 2025-07
-**Source IDs:** src_001
+### c_012
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Massachusetts Legislature; federal agencies
+- **Predicate:** created_in_response_to
+- **Object:** 7000 detained Massachusetts immigrants (legislative_context)
+- **Temporal:** 2025-07
+- **Sources:** src_001
 
 > The Legislature created the program last summer after federal agencies detained 7,000 Massachusetts immigrants and deported many of them.
 
@@ -248,10 +268,5 @@ Nice said representation is a threshold condition, not an enhancement.
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Kevin G. Andrade / The New Bedford Light
 **Publication date:** 2026-04-16
-**Access date:** 2026-05-17
 **Title:** Massachusetts legal aid program helps immigrants in immigration court
 **URL:** https://apnews.com/article/massachusetts-legal-aid-immigrants-deportation-df3ecd99aaf63bc548fb00cc43c37c6c
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

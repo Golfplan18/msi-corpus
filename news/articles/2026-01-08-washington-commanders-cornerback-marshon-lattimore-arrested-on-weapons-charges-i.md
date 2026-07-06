@@ -1,6 +1,5 @@
 ---
 headline: Washington Commanders cornerback Marshon Lattimore arrested on weapons charges in Ohio
-slug: 2026-01-08-washington-commanders-cornerback-marshon-lattimore-arrested-on-weapons-charges
 publish_date: '2026-01-08'
 lede: Marshon Lattimore, a cornerback for the Washington Commanders, was arrested Wednesday evening in Lakewood, Ohio, on charges of carrying a concealed weapon and improperly handling firearms in a motor vehicle, Lakewood police said. Officers pulled over the vehicle Lattimore was riding in for expired license plates and other traffic violations. During the stop, Lattimore, 29, failed to disclose to the officer that a firearm was inside the vehicle when asked, according to police. He was briefly booked into jail and released without bond.
 nut_graf: The arrest marks the second time in five years that Lattimore has faced weapons-related charges during a traffic stop in the Cleveland area, coming as the four-time Pro Bowl cornerback has struggled with injuries throughout his first full season with the Commanders.
@@ -16,43 +15,40 @@ primary_themes:
 - weapons charges
 - player legal issues
 topic_tags:
-  - "human migration"
-  - "crime, law and justice"
-  - "arts, culture, entertainment and media"
-  - "human interest"
+- crime
+- law enforcement
+- sport
 storyline_nexus:
-  - ai-regulation
-  - immigration-enforcement
-  - us-administration-2026
-geographic_location: Lakewood, Ohio, United States
+- us-immigration-enforcement
+geographic_location: United States
 floor_values_engaged:
+- value: truthfulness
+  intensity: 0.6
 - value: informed_citizenship
-  intensity: 0.4
-- value: accountability_of_power
-  intensity: 0.3
-framework_version: 1.1.0
-generation_timestamp: '2026-05-16T19:50:13Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-22T23:53:09Z'
 source_cluster_id: cluster_ap_2026-01-07_washington-commanders-marshon-lattimore-
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 13
   hedges:
-    appears: 0
     alleged: 0
-    attributed: 12
     reported: 0
     contested: 0
+    attributed: 12
+    appears: 0
     confirmed: 1
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 1
-    single_source: 12
     two_independent: 0
+    one_originating_plus_primary_document: 0
+    single_source: 12
+    primary_plus_secondary: 0
+    primary_document: 1
 sources:
   count: 1
   outlets:
@@ -73,6 +69,14 @@ image:
 cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Marshon Lattimore, a cornerback for the Washington Commanders, was arrested Wednesday evening in Lakewood, Ohio, on charges of carrying a concealed we
+- Additional context from article.
+- Key findings or implications.
 
 Marshon Lattimore, a cornerback for the Washington Commanders, was arrested Wednesday evening in Lakewood, Ohio, on charges of carrying a concealed weapon and improperly handling firearms in a motor vehicle, Lakewood police said. Officers pulled over the vehicle Lattimore was riding in for expired license plates and other traffic violations. During the stop, Lattimore, 29, failed to disclose to the officer that a firearm was inside the vehicle when asked, according to police. He was briefly booked into jail and released without bond.
 
@@ -96,118 +100,144 @@ Lattimore grew up in Cleveland and attended Glenville High School before playing
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Marshon Lattimore
-**Predicate:** arrested_in
-**Object:** Lakewood, Ohio (location)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Marshon Lattimore
+- **Predicate:** arrested_in
+- **Object:** Lakewood, Ohio (location)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Marshon Lattimore was arrested in Lakewood, Ohio at approximately 6:15 p.m. on Wednesday, January 7, 2026.
 
-### c_002 — attributed, single source
-**Subject entities:** Marshon Lattimore
-**Predicate:** charged_with
-**Object:** carrying concealed weapons; improperly handling firearms in a motor vehicle (criminal_charges)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Marshon Lattimore
+- **Predicate:** charged_with
+- **Object:** carrying concealed weapons; improperly handling firearms in a motor vehicle (criminal_charges)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Lattimore was charged with carrying concealed weapons and improperly handling firearms in a motor vehicle.
 
-### c_003 — attributed, single source
-**Subject entities:** Lakewood Police
-**Predicate:** stopped_vehicle_for
-**Object:** expired license plates and other traffic violations (traffic_violation)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Lakewood Police
+- **Predicate:** stopped_vehicle_for
+- **Object:** expired license plates and other traffic violations (traffic_violation)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > An officer pulled the vehicle over for expired license plates and other traffic violations.
 
-### c_004 — attributed, single source
-**Subject entities:** Marshon Lattimore
-**Predicate:** failed_to_disclose
-**Object:** firearm inside vehicle (law_enforcement_interaction)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Marshon Lattimore
+- **Predicate:** failed_to_disclose
+- **Object:** firearm inside vehicle (law_enforcement_interaction)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > During the traffic stop, Lattimore failed to tell the officer when asked that a firearm was inside the vehicle.
 
-### c_005 — attributed, single source
-**Subject entities:** Marshon Lattimore
-**Predicate:** released
-**Object:** without bond (booking_outcome)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Marshon Lattimore
+- **Predicate:** released
+- **Object:** without bond (booking_outcome)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Lattimore was briefly booked into jail and released without bond.
 
-### c_006 — attributed, single source
-**Subject entities:** Washington Commanders
-**Predicate:** stated
-**Object:** aware of arrest; informed NFL League Office; no further comment (organizational_statement)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Washington Commanders
+- **Predicate:** stated
+- **Object:** aware of arrest; informed NFL League Office; no further comment (organizational_statement)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > A Commanders spokesperson said the team was aware of the arrest, had informed the NFL League Office, and had no further comment.
 
-### c_007 — attributed, single source
-**Subject entities:** Marshon Lattimore
-**Predicate:** arrested_for
-**Object:** suspicion of possessing a loaded handgun reported stolen (prior_criminal_charge)
-**Temporal:** 2021
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Marshon Lattimore
+- **Predicate:** arrested_for
+- **Object:** suspicion of possessing a loaded handgun reported stolen (prior_criminal_charge)
+- **Temporal:** 2021
+- **Sources:** src_001
 
 > In 2021, Lattimore was arrested in Cleveland during a traffic stop on suspicion of possessing a loaded handgun that had been reported stolen.
 
-### c_008 — confirmed, primary document
-**Subject entities:** Marshon Lattimore
-**Predicate:** pleaded_guilty_to
-**Object:** misdemeanor carrying a concealed weapon; suspended sentence; one year probation (criminal_disposition)
-**Temporal:** 2021
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Marshon Lattimore
+- **Predicate:** pleaded_guilty_to
+- **Object:** misdemeanor carrying a concealed weapon; suspended sentence; one year probation (criminal_disposition)
+- **Temporal:** 2021
+- **Sources:** src_001
 
 > Lattimore later pleaded guilty to a misdemeanor charge of carrying a concealed weapon and received a suspended sentence and a year of probation.
 
-### c_009 — attributed, single source
-**Subject entities:** Marshon Lattimore; Washington Commanders; New Orleans Saints
-**Predicate:** traded_to
-**Object:** Washington Commanders from New Orleans Saints (nfl_transaction)
-**Temporal:** 2024-11
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Marshon Lattimore; Washington Commanders; New Orleans Saints
+- **Predicate:** traded_to
+- **Object:** Washington Commanders from New Orleans Saints (nfl_transaction)
+- **Temporal:** 2024-11
+- **Sources:** src_001
 
 > Lattimore joined the Washington Commanders in a November 2024 trade with the New Orleans Saints.
 
-### c_010 — attributed, single source
-**Subject entities:** Marshon Lattimore
-**Predicate:** selected_to
-**Object:** Pro Bowl four times (professional_honor)
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Marshon Lattimore
+- **Predicate:** selected_to
+- **Object:** Pro Bowl four times (professional_honor)
+- **Sources:** src_001
 
 > Lattimore is a four-time Pro Bowl selection.
 
-### c_011 — attributed, single source
-**Subject entities:** Marshon Lattimore
-**Predicate:** appeared_in
-**Object:** two regular-season games (games_played)
-**Temporal:** 2024-25
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Marshon Lattimore
+- **Predicate:** appeared_in
+- **Object:** two regular-season games (games_played)
+- **Temporal:** 2024-25
+- **Sources:** src_001
 
 > Lattimore appeared in only two regular-season games in the 2024-25 NFL season.
 
-### c_012 — attributed, single source
-**Subject entities:** Marshon Lattimore
-**Predicate:** placed_on_injured_reserve
-**Object:** torn ACL; missed second half of season (injury_status)
-**Temporal:** 2025-11
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Marshon Lattimore
+- **Predicate:** placed_on_injured_reserve
+- **Object:** torn ACL; missed second half of season (injury_status)
+- **Temporal:** 2025-11
+- **Sources:** src_001
 
 > Lattimore went on injured reserve in November with a torn ACL, missing the second half of the current season.
 
-### c_013 — attributed, single source
-**Subject entities:** Marshon Lattimore
-**Predicate:** attended_and_honored
-**Object:** Glenville High School; first-team All-Big Ten at Ohio State (educational_background)
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Marshon Lattimore
+- **Predicate:** attended_and_honored
+- **Object:** Glenville High School; first-team All-Big Ten at Ohio State (educational_background)
+- **Sources:** src_001
 
 > Lattimore attended Glenville High School in Cleveland and was named first-team All-Big Ten at Ohio State.
 
@@ -215,10 +245,5 @@ Lattimore grew up in Cleveland and attended Glenville High School before playing
 
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Publication date:** 2026-01-08
-**Access date:** 2026-01-08
 **Title:** Commanders' Lattimore arrested outside of Cleveland
 **URL:** https://apnews.com/article/washington-commanders-marshon-lattimore-arrest-weapons-charges-b805dd8e8492b1a0133b099689f7fe60
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

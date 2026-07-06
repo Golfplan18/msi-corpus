@@ -99,10 +99,6 @@ Donna Langley, chair of NBCUniversal Entertainment, received the BAFTA Fellowshi
 
 Lauren Evans won Best Casting for "I Swear."
 
----
-
-**AI Disclosure.** This article was generated algorithmically by Main Street Independent's News Article Generator framework from the AP wire source listed above. The framework specification and editorial foundation are public; see [/methodology](/methodology).
-
 **License.** This work is released under [CC0](https://creativecommons.org/publicdomain/zero/1.0/) — a public domain dedication. You are free to use, adapt, and republish it without permission or attribution.
 
 ## Atomic claims
@@ -222,7 +218,3 @@ Lauren Evans won Best Casting for "I Swear."
 **Access date:** 2026-05-18
 **Title:** Winners of the 2026 British Academy Film Awards, or BAFTAs
 **URL:** https://apnews.com/article/bafta-film-awards-winners-list-455b78110f9af59115b3d0ad0269a89e
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

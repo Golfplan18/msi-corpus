@@ -18,7 +18,8 @@ topic_tags:
   - education
   - "human interest"
   - health
-storyline_nexus: []
+storyline_nexus:
+- trump-health-policy-rfk
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -111,97 +112,115 @@ Symptoms of colorectal cancer include blood in the stool or rectal bleeding; cha
 
 The new research surfaces what experts already understood: health disparities in the United States are rooted in economic inequality. The gap in colorectal cancer deaths is one manifestation of a broader pattern in which illness and mortality cluster among those with fewer economic resources.
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** colorectal cancer deaths; education inequality
-**Predicate:** concentrated_among
-**Object:** people without college degrees (demographic_group)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** colorectal cancer deaths; education inequality
+- **Predicate:** concentrated_among
+- **Object:** people without college degrees (demographic_group)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > Colorectal cancer deaths in young adults are concentrated among people without college degrees.
 
-### c_002 — confirmed, primary document
-**Subject entities:** colorectal cancer mortality; young adults
-**Predicate:** rose
-**Object:** 3 to 4 per 100,000 (mortality_rate)
-**Temporal:** 1994-2023
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** colorectal cancer mortality; young adults
+- **Predicate:** rose
+- **Object:** 3 to 4 per 100,000 (mortality_rate)
+- **Temporal:** 1994-2023
+- **Sources:** src_001
 
 > Over 30 years, the overall colorectal cancer death rate in young adults aged 25 to 49 rose from about 3 per 100,000 to about 4 per 100,000.
 
-### c_003 — confirmed, primary document
-**Subject entities:** colorectal cancer mortality; high school education
-**Predicate:** rose
-**Object:** 4 to 5.2 per 100,000 (mortality_rate)
-**Temporal:** 1994-2023
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** colorectal cancer mortality; high school education
+- **Predicate:** rose
+- **Object:** 4 to 5.2 per 100,000 (mortality_rate)
+- **Temporal:** 1994-2023
+- **Sources:** src_001
 
 > For young adults with only a high school education, the colorectal cancer death rate rose from 4 to 5.2 per 100,000.
 
-### c_004 — confirmed, primary document
-**Subject entities:** colorectal cancer mortality; college education
-**Predicate:** remained_unchanged
-**Object:** 2.7 per 100,000 (mortality_rate)
-**Temporal:** 1994-2023
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** colorectal cancer mortality; college education
+- **Predicate:** remained_unchanged
+- **Object:** 2.7 per 100,000 (mortality_rate)
+- **Temporal:** 1994-2023
+- **Sources:** src_001
 
 > For young adults with at least a bachelor's degree, the colorectal cancer death rate remained at 2.7 per 100,000.
 
-### c_005 — confirmed, primary document
-**Subject entities:** American Cancer Society; study population
-**Predicate:** analyzed
-**Object:** 101,000+ deaths, 1994-2023 (study_scope)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** American Cancer Society; study population
+- **Predicate:** analyzed
+- **Object:** 101,000+ deaths, 1994-2023 (study_scope)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > The American Cancer Society study analyzed government data on more than 101,000 younger adults aged 25 to 49 who died of colorectal cancer from 1994 through 2023.
 
-### c_006 — attributed, single source
-**Subject entities:** socioeconomic disparities; health outcomes
-**Predicate:** characterize
-**Object:** lower income, poorer diet, less exercise, less healthcare (socioeconomic_factors)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** socioeconomic disparities; health outcomes
+- **Predicate:** characterize
+- **Object:** lower income, poorer diet, less exercise, less healthcare (socioeconomic_factors)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > People without college degrees tend to earn less money, have poorer diets, exercise less, and get less medical care.
 
-### c_007 — reported, single source
-**Subject entities:** JAMA Oncology; research contribution
-**Predicate:** published_first_analysis
-**Object:** demographic breakdown of mortality increase (research_contribution)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** JAMA Oncology; research contribution
+- **Predicate:** published_first_analysis
+- **Object:** demographic breakdown of mortality increase (research_contribution)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > The paper published in April in JAMA Oncology is the first national study to parse which people are most affected by the rise in colorectal cancer deaths among younger adults.
 
-### c_008 — confirmed, primary document
-**Subject entities:** colorectal cancer mortality; young adults
-**Predicate:** accounts_for
-**Object:** 3,900 deaths per year, 7% of total (mortality_statistic)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** colorectal cancer mortality; young adults
+- **Predicate:** accounts_for
+- **Object:** 3,900 deaths per year, 7% of total (mortality_statistic)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Colorectal cancer deaths in adults younger than 50 account for about 3,900 deaths per year, roughly 7% of the total colorectal cancer deaths.
 
-### c_009 — confirmed, primary document
-**Subject entities:** American Cancer Society; screening guidelines
-**Predicate:** lowered_screening_age
-**Object:** from age 50 to age 45 (clinical_guideline)
-**Temporal:** 2021
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** American Cancer Society; screening guidelines
+- **Predicate:** lowered_screening_age
+- **Object:** from age 50 to age 45 (clinical_guideline)
+- **Temporal:** 2021
+- **Sources:** src_001
 
 > The American Cancer Society changed its screening guidelines in 2021, lowering the recommended age to start screening from 50 to 45.
 
-### c_010 — confirmed, primary document
-**Subject entities:** colorectal cancer; cancer mortality
-**Predicate:** second_leading_cause
-**Object:** 55,000+ deaths, second only to lung cancer (mortality_ranking)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** colorectal cancer; cancer mortality
+- **Predicate:** second_leading_cause
+- **Object:** 55,000+ deaths, second only to lung cancer (mortality_ranking)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Colorectal cancer is the nation's second leading cancer killer behind lung cancer, expected to claim more than 55,000 deaths in 2026.
 
@@ -213,7 +232,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-04-16
 **Title:** Colon cancer deaths are higher among less-educated young adults
 **URL:** https://apnews.com/article/colon-cancer-deaths-young-adults-78c0a3287f2d29575b4004e07230b993
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

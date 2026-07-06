@@ -15,45 +15,41 @@ primary_themes:
 - First Amendment
 - pro-Palestinian activism
 topic_tags:
-  - "civil unrest"
-  - "conflict, war and peace"
-  - "crime, law and justice"
-  - education
-  - "higher education"
-  - "science and technology"
+- trial
+- crime
+- civil unrest
+- higher education
 storyline_nexus:
-  - gaza-conflict
-  - iran-war
-  - russia-ukraine-war
-geographic_location: Stanford, California
+- us-immigration-enforcement
+geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.8
 - value: accountability_of_power
-  intensity: 0.5
-framework_version: 1.1.0
-generation_timestamp: '2026-05-16T00:00:00Z'
+  intensity: 0.9
+- value: equality_fairness
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-22T23:54:11Z'
 source_cluster_id: cluster_ap_2026-01-08_propalestinian-stanford-protesters-trial
 gdelt_event_ids: []
-consensus_floor_version: '1.0'
-publication_mindspec_version: '1.0'
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 11
   hedges:
-    appears: 0
-    alleged: 1
-    attributed: 3
-    reported: 1
     contested: 0
+    reported: 1
+    alleged: 1
     confirmed: 6
+    attributed: 3
+    appears: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
+    two_independent: 0
     primary_document: 9
     single_source: 2
-    two_independent: 0
+    primary_plus_secondary: 0
+    one_originating_plus_primary_document: 0
 sources:
   count: 1
   outlets:
@@ -71,17 +67,17 @@ image:
   url: /articles/2026-01-09-five-stanford-students-go-to-trial-over-2024-pro-palestinian-office-occupation.png
   alt: 'Illustration accompanying article: Five Stanford students go to trial over 2024 pro-Palestinian office occupation'
   source: ai_generated
-cross_article_links:
-- slug: 2025-12-31-georgia-judge-dismisses-racketeering-charges-against-61-cop-city-protesters
-  relation: related
-  strength: 0.8185
-  confidence: medium
-- slug: 2025-12-31-georgia-judge-tosses-rico-charges-against-61-cop-city-protest-defendants
-  relation: related
-  strength: 0.7958
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- A trial began Friday in California for five current and former Stanford University students charged with felony vandalism and conspiracy to trespass s
+- Additional context from article.
+- Key findings or implications.
 
 A trial began Friday in California for five current and former Stanford University students charged with felony vandalism and conspiracy to trespass stemming from a pro-Palestinian protest in June 2024, when demonstrators barricaded themselves inside the university president's and provost's offices for several hours.
 
@@ -115,102 +111,124 @@ Protests spread across university campuses in 2024, with students setting up enc
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Stanford University students
-**Predicate:** trial_commenced
-**Object:** felony vandalism and felony conspiracy to trespass (criminal_charges)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Stanford University students
+- **Predicate:** trial_commenced
+- **Object:** felony vandalism and felony conspiracy to trespass (criminal_charges)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > A trial began on January 9, 2026 for five current and former Stanford University students who occupied the university president's offices during a pro-Palestinian protest in 2024.
 
-### c_002 — confirmed, primary document
-**Subject entities:** Stanford University students
-**Predicate:** occupied
-**Object:** president and provost's offices, Stanford University (location)
-**Temporal:** 2024-06-05
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Stanford University students
+- **Predicate:** occupied
+- **Object:** president and provost's offices, Stanford University (location)
+- **Temporal:** 2024-06-05
+- **Sources:** src_001
 
 > Demonstrators barricaded themselves inside Stanford's president and provost's offices for several hours on June 5, 2024, the last day of spring classes.
 
-### c_003 — attributed, single source
-**Subject entities:** Stanford University students
-**Predicate:** arrested_and_charged
-**Object:** 12 (count)
-**Temporal:** 2024-06-05
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Stanford University students
+- **Predicate:** arrested_and_charged
+- **Object:** 12 (count)
+- **Temporal:** 2024-06-05
+- **Sources:** src_001
 
 > Authorities initially arrested and charged 12 people following the June 5, 2024 occupation.
 
-### c_004 — confirmed, primary document
-**Subject entities:** unnamed defendant, age 21
-**Predicate:** pleaded_no_contest
-**Object:** youth diversion agreement (legal_disposition)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** unnamed defendant, age 21
+- **Predicate:** pleaded_no_contest
+- **Object:** youth diversion agreement (legal_disposition)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > One defendant, a 21-year-old man, pleaded no contest under an agreement that allows eligible youth to have their cases dismissed and records sealed if they successfully complete probation.
 
-### c_005 — confirmed, primary document
-**Subject entities:** Stanford University students
-**Predicate:** indicted
-**Object:** felony vandalism and felony conspiracy to trespass (criminal_charges)
-**Temporal:** 2025-10
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Stanford University students
+- **Predicate:** indicted
+- **Object:** felony vandalism and felony conspiracy to trespass (criminal_charges)
+- **Temporal:** 2025-10
+- **Sources:** src_001
 
 > The 21-year-old's testimony for the prosecution led to a grand jury indictment in October of the 11 others on felony vandalism and felony conspiracy to trespass charges.
 
-### c_006 — confirmed, primary document
-**Subject entities:** Stanford University students
-**Predicate:** accepted_plea_deals
-**Object:** 6 (count)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Stanford University students
+- **Predicate:** accepted_plea_deals
+- **Object:** 6 (count)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > Six of the 11 indicted defendants accepted pretrial plea deals or diversion programs.
 
-### c_007 — alleged, primary document
-**Subject entities:** Stanford University students
-**Predicate:** accused_of
-**Object:** vandalism including spray-painting, broken windows and furniture, disabled cameras, fake blood (alleged_conduct)
-**Temporal:** 2024-06-05
-**Source IDs:** src_001
+### c_007
+- **Hedge:** alleged
+- **Corroboration:** primary_document
+- **Subject entities:** Stanford University students
+- **Predicate:** accused_of
+- **Object:** vandalism including spray-painting, broken windows and furniture, disabled cameras, fake blood (alleged_conduct)
+- **Temporal:** 2024-06-05
+- **Sources:** src_001
 
 > Prosecutors accused the demonstrators of spray-painting on the building, breaking windows and furniture, disabling security cameras, and splattering a red liquid described as fake blood throughout the offices.
 
-### c_008 — confirmed, primary document
-**Subject entities:** Stanford University
-**Predicate:** seeking_restitution
-**Object:** 329000 (dollar_amount)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Stanford University
+- **Predicate:** seeking_restitution
+- **Object:** 329000 (dollar_amount)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > Stanford University is seeking $329,000 in restitution.
 
-### c_009 — attributed, primary document
-**Subject entities:** Avi Singh; Germán González
-**Predicate:** said
-**Object:** defendants are exercising constitutional right to jury trial and demand the district attorney prove the elements of the charges (statement)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Avi Singh; Germán González
+- **Predicate:** said
+- **Object:** defendants are exercising constitutional right to jury trial and demand the district attorney prove the elements of the charges (statement)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > Attorney Avi Singh, representing Stanford student Germán González, said González decided to exercise his right to a jury trial and that the defendants demand the district attorney prove everything required for a conviction.
 
-### c_010 — attributed, primary document
-**Subject entities:** Jeff Rosen
-**Predicate:** said
-**Object:** protesters went too far when they damaged the building; speech is protected, vandalism is prosecuted (statement)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Jeff Rosen
+- **Predicate:** said
+- **Object:** protesters went too far when they damaged the building; speech is protected, vandalism is prosecuted (statement)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Santa Clara County District Attorney Jeff Rosen said last year that the protesters went too far when they damaged the building, drawing a distinction between First Amendment-protected speech and vandalism prosecuted under the penal code.
 
-### c_011 — reported, single source
-**Subject entities:** campus protesters
-**Predicate:** arrested
-**Object:** approximately 3,200 (count)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** campus protesters
+- **Predicate:** arrested
+- **Object:** approximately 3,200 (count)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > About 3,200 people were arrested at campus protests in 2024 nationwide; most of the charges were dismissed.
 
@@ -219,10 +237,5 @@ Protests spread across university campuses in 2024, with students setting up enc
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Olga R. Rodriguez
 **Publication date:** 2026-01-09
-**Access date:** 2026-01-09
 **Title:** Stanford University students face trial over 2024 pro-Palestine protests
 **URL:** https://apnews.com/article/propalestinian-stanford-protesters-trial-c62bba681be05a52cc50b5bd78f8ec58
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

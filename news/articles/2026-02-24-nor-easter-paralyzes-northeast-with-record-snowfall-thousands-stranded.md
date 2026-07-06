@@ -13,8 +13,9 @@ primary_themes:
 - transportation disruption
 - public services
 topic_tags:
-  - sport
-storyline_nexus: []
+- sport
+storyline_nexus:
+- extreme-weather-disasters
 geographic_location: United States, Northeastern region (Maryland to Maine)
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -65,10 +66,6 @@ cross_article_links:
 - slug: 2025-12-29-how-intense-winter-storms-become-bomb-cyclones
   relation: related
   strength: 0.7936
-  confidence: medium
-- slug: 2025-12-29-meteorologists-explain-how-bomb-cyclones-form-and-why-they-are-dangerous
-  relation: related
-  strength: 0.7655
   confidence: medium
 draft: false
 ---
@@ -121,178 +118,214 @@ Ingrid Devita, who patrols the Lower East Side on skis during winter storms, con
 
 The National Weather Service said it was tracking another storm that could bring more snow to the region later in the week, suggesting the region's disruptions may persist beyond Monday's initial blow.
 
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework. [Read the methodology](/methodology). License: [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*
-
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** snowstorm; northeastern United States
-**Predicate:** struck
-**Object:** Maryland to Maine (geographic_area)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** snowstorm; northeastern United States
+- **Predicate:** struck
+- **Object:** Maryland to Maine (geographic_area)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > A massive snowstorm struck the northeastern United States from Maryland to Maine on Monday.
 
-### c_002 — confirmed, primary document
-**Subject entities:** storm
-**Predicate:** dumped
-**Object:** more than 2 feet (measurement)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** storm
+- **Predicate:** dumped
+- **Object:** more than 2 feet (measurement)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > The storm dumped more than 2 feet (60 centimeters) of snow in parts of the metropolitan Northeast.
 
-### c_003 — attributed, primary document
-**Subject entities:** storm
-**Predicate:** is_strongest
-**Object:** strongest in a decade (superlative)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** storm
+- **Predicate:** is_strongest
+- **Object:** strongest in a decade (superlative)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > Meteorologists said the storm is the strongest in a decade.
 
-### c_004 — attributed, primary document
-**Subject entities:** National Weather Service; storm
-**Predicate:** characterized
-**Object:** bomb cyclone/nor'easter (meteorological_classification)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** National Weather Service; storm
+- **Predicate:** characterized
+- **Object:** bomb cyclone/nor'easter (meteorological_classification)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > The National Weather Service called it a 'classic bomb cyclone/nor'easter off the Northeast coast.'
 
-### c_005 — confirmed, primary document
-**Subject entities:** Central Park
-**Predicate:** recorded
-**Object:** 19 inches (measurement)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Central Park
+- **Predicate:** recorded
+- **Object:** 19 inches (measurement)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > Central Park in New York City recorded 19 inches (48 centimeters) of snow.
 
-### c_006 — confirmed, primary document
-**Subject entities:** Warwick, Rhode Island
-**Predicate:** recorded
-**Object:** more than 3 feet (measurement)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Warwick, Rhode Island
+- **Predicate:** recorded
+- **Object:** more than 3 feet (measurement)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > Warwick, Rhode Island exceeded 3 feet (91 centimeters), topping the nation so far.
 
-### c_007 — confirmed, primary document
-**Subject entities:** Nantucket; Cape Cod
-**Predicate:** recorded
-**Object:** 83 mph (measurement)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Nantucket; Cape Cod
+- **Predicate:** recorded
+- **Object:** 83 mph (measurement)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > The highest wind gust of 83 mph (133 kph) was recorded in Nantucket, with hurricane-force gusts seen all over Cape Cod.
 
-### c_008 — attributed, primary document
-**Subject entities:** flights
-**Predicate:** canceled
-**Object:** 5,600 (quantity)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** flights
+- **Predicate:** canceled
+- **Object:** 5,600 (quantity)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > More than 5,600 flights in and out of the United States were canceled Monday, according to FlightAware.
 
-### c_009 — attributed, primary document
-**Subject entities:** flights
-**Predicate:** grounded
-**Object:** 2,000 (quantity)
-**Temporal:** 2026-02-24
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** flights
+- **Predicate:** grounded
+- **Object:** 2,000 (quantity)
+- **Temporal:** 2026-02-24
+- **Sources:** src_001
 
 > A further 2,000 flights scheduled for Tuesday were grounded.
 
-### c_010 — attributed, primary document
-**Subject entities:** utility customers
-**Predicate:** without_power
-**Object:** 450,000 (quantity)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** utility customers
+- **Predicate:** without_power
+- **Object:** 450,000 (quantity)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > More than 450,000 utility customers nationwide remained in darkness Monday evening, according to PowerOutage.us.
 
-### c_011 — reported, primary document
-**Subject entities:** New York City schools
-**Predicate:** closed
-**Object:** first in six years (temporal_rarity)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** New York City schools
+- **Predicate:** closed
+- **Object:** first in six years (temporal_rarity)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > New York City had its first 'old-school' snow day in six years.
 
-### c_012 — reported, primary document
-**Subject entities:** T.F. Green International Airport
-**Predicate:** closed
-**Object:** all operations (action)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** T.F. Green International Airport
+- **Predicate:** closed
+- **Object:** all operations (action)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > Rhode Island's T.F. Green International Airport temporarily ended all airport operations Monday.
 
-### c_013 — confirmed, primary document
-**Subject entities:** T.F. Green International Airport
-**Predicate:** recorded
-**Object:** 38 inches (measurement)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_013
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** T.F. Green International Airport
+- **Predicate:** recorded
+- **Object:** 38 inches (measurement)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > The facility got nearly 38 inches (96.5 centimeters) of snow, breaking a record set in 1978.
 
-### c_014 — reported, primary document
-**Subject entities:** United Nations
-**Predicate:** postponed
-**Object:** Security Council meeting (event)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_014
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** United Nations
+- **Predicate:** postponed
+- **Object:** Security Council meeting (event)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > The United Nations postponed a Security Council meeting because of the storm.
 
-### c_015 — attributed, primary document
-**Subject entities:** Owen Shieh; storm
-**Predicate:** said
-**Object:** ideal meteorological conditions for wet, heavy snow (meteorological_analysis)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Owen Shieh; storm
+- **Predicate:** said
+- **Object:** ideal meteorological conditions for wet, heavy snow (meteorological_analysis)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > Owen Shieh, warning coordination meteorologist at the National Weather Service's Weather Prediction Center, said the storm hit the 'Goldilocks situation' of just the right temperature for wet, heavy snow.
 
-### c_016 — reported, primary document
-**Subject entities:** Zohran Mamdani; New York City schools
-**Predicate:** decided_to_reopen
-**Object:** in-person classes (policy_decision)
-**Temporal:** 2026-02-24
-**Source IDs:** src_001
+### c_016
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Zohran Mamdani; New York City schools
+- **Predicate:** decided_to_reopen
+- **Object:** in-person classes (policy_decision)
+- **Temporal:** 2026-02-24
+- **Sources:** src_001
 
 > New York Mayor Zohran Mamdani decided to reopen schools in person for Tuesday.
 
-### c_017 — attributed, primary document
-**Subject entities:** Vito Fossella
-**Predicate:** said
-**Object:** schools should remain closed (statement)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_017
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Vito Fossella
+- **Predicate:** said
+- **Object:** schools should remain closed (statement)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > Staten Island Borough President Vito Fossella said schools should remain closed because roads are impassable and sidewalks are blocked.
 
-### c_018 — attributed, primary document
-**Subject entities:** Kamar Samuels
-**Predicate:** said
-**Object:** uncertainty about remote-learning device access (statement)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_018
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Kamar Samuels
+- **Predicate:** said
+- **Object:** uncertainty about remote-learning device access (statement)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > Chancellor Kamar Samuels said the district 'couldn't be 100% certain' that every student would have access to the devices they needed for remote learning.
 
-### c_019 — attributed, primary document
-**Subject entities:** Kamar Samuels; New York City schools
-**Predicate:** said
-**Object:** schools are prepared to reopen (statement)
-**Temporal:** 2026-02-24
-**Source IDs:** src_001
+### c_019
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Kamar Samuels; New York City schools
+- **Predicate:** said
+- **Object:** schools are prepared to reopen (statement)
+- **Temporal:** 2026-02-24
+- **Sources:** src_001
 
 > Chancellor Samuels said the district was 'confident in our decision to reopen' and that 'our schools and city are ready to welcome students and staff back tomorrow.'
 
@@ -304,7 +337,3 @@ The National Weather Service said it was tracking another storm that could bring
 **Access date:** 2026-02-24
 **Title:** New York and northeastern US stuck at home under whiteout conditions
 **URL:** https://apnews.com/article/us-east-coast-winter-storm-blizzard-c32d60af1f146359664d6688a2dcdada
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -268,7 +268,3 @@ The president selected by Parliament will nominate a cabinet and form the next g
 **Access date:** 2026-05-18
 **Title:** Myanmar completes elections designed to ensure military control
 **URL:** https://apnews.com/article/myanmar-elecciones-ejercito-control-guerra-d0452cad78f5c4c175c431657d938462
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

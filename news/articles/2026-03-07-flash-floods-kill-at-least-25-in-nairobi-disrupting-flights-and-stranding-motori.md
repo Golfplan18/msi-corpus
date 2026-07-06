@@ -24,7 +24,8 @@ topic_tags:
   - "crime, law and justice"
   - "disaster, accident and emergency incident"
   - "natural disaster"
-storyline_nexus: []
+storyline_nexus:
+- extreme-weather-disasters
 geographic_location: Nairobi, Kenya
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -272,7 +273,3 @@ Kenya has faced heavy rains since late February, which marks the start of the co
 **Access date:** 2026-03-07
 **Title:** Motorists stranded after heavy rains pound Kenya's capital overnight
 **URL:** https://apnews.com/article/kenya-floods-nairobi-heavy-rains-d110ed756054d1ca6869aa3254b20d1f
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

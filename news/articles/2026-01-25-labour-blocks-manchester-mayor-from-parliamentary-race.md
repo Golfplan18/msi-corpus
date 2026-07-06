@@ -17,7 +17,8 @@ topic_tags:
   - politics
   - election
   - labour
-storyline_nexus: []
+storyline_nexus:
+- uk-labour-party-crisis
 geographic_location: United Kingdom
 floor_values_engaged:
 - value: accountability_of_power
@@ -89,8 +90,6 @@ The decision divided the party. Labour lawmaker John Slinger praised the "quick 
 Polls show Labour will face significant losses in the May elections. The party is expected to lose Wales for the first time since the legislature was created in 1999, fall far short of reclaiming power in Scotland, and suffer widespread defeats in local elections across England. Reform U.K. and the Greens have emerged as the main beneficiaries of Labour's apparent drop in support.
 
 Burnham's third term as mayor is scheduled to end in May 2028.
-
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
 
 ## Atomic claims
 
@@ -228,7 +227,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-01-25
 **Title:** Manchester Mayor Andy Burnham's Parliament bid blocked, sparking Labour row
 **URL:** https://apnews.com/article/uk-labour-party-starmer-burnham-b63b1acaff7058eb2a22b730c0560390
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

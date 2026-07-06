@@ -16,44 +16,42 @@ primary_themes:
 - racial profiling
 - federal-tribal relations
 topic_tags:
-  - "crime, law and justice"
-  - "human interest"
-  - "human migration"
+- crime, law and justice
+- law enforcement
+- civil rights
+- government
+- human migration
 storyline_nexus:
-  - immigration-enforcement
-geographic_location: United States — Pine Ridge Reservation (South Dakota), Minneapolis (Minnesota)
+- us-immigration-enforcement
+geographic_location: United States
 floor_values_engaged:
-- value: accountability_of_power
+- value: truthfulness
   intensity: 0.9
-- value: informed_citizenship
-  intensity: 0.85
-- value: equality_fairness
-  intensity: 0.8
-- value: human_life_and_dignity
-  intensity: 0.65
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:01:43Z'
+- value: accountability_of_power
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:46:50Z'
 source_cluster_id: cluster_ap_2026-01-16_oglala-sioux-immigration-detention-donal
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 15
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 9
-    reported: 2
     contested: 0
+    reported: 2
+    appears: 0
     confirmed: 4
+    attributed: 9
+    alleged: 0
   corroboration:
+    two_independent: 0
+    single_source: 12
     primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
     primary_document: 3
-    single_source: 12
-    two_independent: 0
 sources:
   count: 1
   outlets:
@@ -67,41 +65,19 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-14-oglala-sioux-tribe-demands-release-of-three-members-held-in-ice-detention
-  relation: continues
-  strength: 0.8482
-  confidence: high
-- slug: 2026-01-14-minneapolis-sees-second-federal-shooting-as-courts-governor-push-back-on-immigra
-  relation: related
-  strength: 0.7664
-  confidence: medium
-- slug: 2026-01-11-federal-agents-ram-minneapolis-door-pepper-spray-protesters-in-immigration-sweep
-  relation: related
-  strength: 0.7854
-  confidence: medium
-- slug: 2026-01-13-federal-agents-deploy-tear-gas-in-minneapolis-as-five-prosecutors-resign-over-re
-  relation: related
-  strength: 0.7428
-  confidence: medium
-- slug: 2026-01-12-minnesota-twin-cities-sue-trump-administration-over-fatal-ice-shooting
-  relation: related
-  strength: 0.7482
-  confidence: medium
-- slug: 2026-01-09-federal-authorities-bar-minnesota-from-ice-shooting-probe-claim-no-state-jurisdi
-  relation: related
-  strength: 0.7669
-  confidence: medium
-- slug: 2026-01-07-dhs-deploys-2-000-agents-to-minnesota-in-largest-immigration-operation
-  relation: related
-  strength: 0.7508
-  confidence: medium
-- slug: 2026-01-08-ice-killing-of-minneapolis-woman-deepens-minnesota-s-conflict-with-trump
-  relation: related
-  strength: 0.7388
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Oglala Sioux president walks back claims of pressure, arrests
+- Oglala Sioux Tribal President Frank Star Comes Out issued a revised memo on Thursday.
+- Star Comes Out had said Tuesday that ICE detained four Oglala Sioux tribal members in Minneapolis.
+- Star Comes Out had said federal officials told the tribe it could access information about detained members if it entered an immigration agreement with ICE and DHS.
+- Star Comes Out's revised memo stated his earlier statement had been 'misinterpreted.'
 
 The president of the Oglala Sioux Tribe issued a revised memo Thursday walking back his earlier public claims that Immigration and Customs Enforcement arrested four tribal members in Minneapolis and that federal officials had demanded an immigration agreement from the tribe in exchange for information. The U.S. Department of Homeland Security said it could not verify that any of its officers had arrested or even encountered members of the tribe.
 
@@ -143,137 +119,167 @@ In Alaska, Indigenous shareholders of the Bering Straits Native Corporation publ
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Frank Star Comes Out; Oglala Sioux Tribe
-**Predicate:** issued_revised_memo
-**Object:** revised memo (official_communication)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Frank Star Comes Out; Oglala Sioux Tribe
+- **Predicate:** issued_revised_memo
+- **Object:** revised memo (official_communication)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Oglala Sioux Tribal President Frank Star Comes Out issued a revised memo on Thursday.
 
-### c_002 — attributed, single source
-**Subject entities:** Frank Star Comes Out; U.S. Immigration and Customs Enforcement
-**Predicate:** claimed_detained
-**Object:** four tribal members (persons)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Frank Star Comes Out; U.S. Immigration and Customs Enforcement
+- **Predicate:** claimed_detained
+- **Object:** four tribal members (persons)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Star Comes Out had said Tuesday that ICE detained four Oglala Sioux tribal members in Minneapolis.
 
-### c_003 — attributed, single source
-**Subject entities:** Frank Star Comes Out; U.S. Department of Homeland Security
-**Predicate:** claimed_conditioned_access
-**Object:** immigration agreement demand (alleged_condition)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Frank Star Comes Out; U.S. Department of Homeland Security
+- **Predicate:** claimed_conditioned_access
+- **Object:** immigration agreement demand (alleged_condition)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Star Comes Out had said federal officials told the tribe it could access information about detained members if it entered an immigration agreement with ICE and DHS.
 
-### c_004 — attributed, primary document
-**Subject entities:** Frank Star Comes Out
-**Predicate:** characterized_as_misinterpreted
-**Object:** earlier statement (statement)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Frank Star Comes Out
+- **Predicate:** characterized_as_misinterpreted
+- **Object:** earlier statement (statement)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Star Comes Out's revised memo stated his earlier statement had been 'misinterpreted.'
 
-### c_005 — attributed, primary document
-**Subject entities:** Frank Star Comes Out; U.S. Department of Homeland Security
-**Predicate:** characterized_as_option
-**Object:** immigration agreement (proposed_arrangement)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Frank Star Comes Out; U.S. Department of Homeland Security
+- **Predicate:** characterized_as_option
+- **Object:** immigration agreement (proposed_arrangement)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Star Comes Out's revised memo said federal officials described entering an agreement as 'one option' for easier access to information, not as a demand.
 
-### c_006 — attributed, single source
-**Subject entities:** U.S. Department of Homeland Security
-**Predicate:** denied_tribal_detainees
-**Object:** no Oglala Sioux tribal members found in detention (denial)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Department of Homeland Security
+- **Predicate:** denied_tribal_detainees
+- **Object:** no Oglala Sioux tribal members found in detention (denial)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > DHS said it had 'not uncovered any claims by individuals in our detention centers that they are members of the Oglala Sioux Tribe.'
 
-### c_007 — attributed, single source
-**Subject entities:** Tricia McLaughlin; U.S. Immigration and Customs Enforcement
-**Predicate:** denied_agreement_request
-**Object:** denied demanding immigration agreement (on_record_denial)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Tricia McLaughlin; U.S. Immigration and Customs Enforcement
+- **Predicate:** denied_agreement_request
+- **Object:** denied demanding immigration agreement (on_record_denial)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > DHS spokeswoman Tricia McLaughlin said: 'ICE did NOT ask the tribe for any kind of agreement, we have simply asked for basic information on the individuals, such as names and date of birth.'
 
-### c_008 — reported, single source
-**Subject entities:** U.S. Immigration and Customs Enforcement; Minneapolis
-**Predicate:** launched_operation
-**Object:** largest-ever Minneapolis operation (enforcement_action)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Immigration and Customs Enforcement; Minneapolis
+- **Predicate:** launched_operation
+- **Object:** largest-ever Minneapolis operation (enforcement_action)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > ICE launched its largest-ever operation in Minneapolis.
 
-### c_009 — attributed, single source
-**Subject entities:** Buu Nygren; Navajo Nation; U.S. Immigration and Customs Enforcement
-**Predicate:** reported_detentions
-**Object:** tribal citizens stopped and detained (reported_incidents)
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Buu Nygren; Navajo Nation; U.S. Immigration and Customs Enforcement
+- **Predicate:** reported_detentions
+- **Object:** tribal citizens stopped and detained (reported_incidents)
+- **Sources:** src_001
 
 > Navajo Nation President Buu Nygren said tribal citizens reported being stopped and detained by ICE officers in Arizona and New Mexico.
 
-### c_010 — attributed, single source
-**Subject entities:** Elaine Miles; Confederated Tribes of the Umatilla Indian Reservation; U.S. Immigration and Customs Enforcement
-**Predicate:** reported_stopped_by_ice
-**Object:** tribal ID flagged as fake (reported_incident)
-**Temporal:** 2025-11
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Elaine Miles; Confederated Tribes of the Umatilla Indian Reservation; U.S. Immigration and Customs Enforcement
+- **Predicate:** reported_stopped_by_ice
+- **Object:** tribal ID flagged as fake (reported_incident)
+- **Temporal:** 2025-11
+- **Sources:** src_001
 
 > Elaine Miles, a member of the Confederated Tribes of the Umatilla Indian Reservation and actress known for 'Northern Exposure' and 'The Last of Us,' said ICE officers in Washington state told her in November that her tribal ID looked fake.
 
-### c_011 — reported, single source
-**Subject entities:** Salt River Pima-Maricopa Indian Community
-**Predicate:** arrested_and_mistakenly_slated
-**Object:** ICE transfer error (reported_incident)
-**Temporal:** 2025-11
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Salt River Pima-Maricopa Indian Community
+- **Predicate:** arrested_and_mistakenly_slated
+- **Object:** ICE transfer error (reported_incident)
+- **Temporal:** 2025-11
+- **Sources:** src_001
 
 > A member of the Salt River Pima-Maricopa Indian Community was arrested in Iowa in November and was mistakenly slated for transfer to ICE before being released.
 
-### c_012 — confirmed, single source
-**Subject entities:** Frank Star Comes Out; Kristi Noem; Pine Ridge Reservation
-**Predicate:** banned_from_reservation
-**Object:** Noem banned from Pine Ridge (official_action)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_012
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Frank Star Comes Out; Kristi Noem; Pine Ridge Reservation
+- **Predicate:** banned_from_reservation
+- **Object:** Noem banned from Pine Ridge (official_action)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > In 2024, Star Comes Out banned Kristi Noem from the Pine Ridge Reservation after Noem claimed, without evidence, that drug cartels were infiltrating reservations.
 
-### c_013 — attributed, single source
-**Subject entities:** Kristi Noem
-**Predicate:** told_lawmakers
-**Object:** Ghost Dancers gang claim (statement)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Kristi Noem
+- **Predicate:** told_lawmakers
+- **Object:** Ghost Dancers gang claim (statement)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > Noem told federal lawmakers that a gang calling itself the Ghost Dancers was affiliated with drug cartels and was committing murder on the Pine Ridge Reservation.
 
-### c_014 — confirmed, single source
-**Subject entities:** Prairie Band Potawatomi Nation
-**Predicate:** ended_contract
-**Object:** $30 million detention center design contract (federal_contract)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_014
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Prairie Band Potawatomi Nation
+- **Predicate:** ended_contract
+- **Object:** $30 million detention center design contract (federal_contract)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > A business entity associated with the Prairie Band Potawatomi Nation ended a nearly $30 million federal contract to design immigrant detention centers.
 
-### c_015 — confirmed, single source
-**Subject entities:** Bering Straits Native Corporation
-**Predicate:** published_divestment_call
-**Object:** op-ed calling for divestment from detention centers (public_statement)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_015
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Bering Straits Native Corporation
+- **Predicate:** published_divestment_call
+- **Object:** op-ed calling for divestment from detention centers (public_statement)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Indigenous shareholders of the Bering Straits Native Corporation published an op-ed in the Anchorage Daily News calling on the company to divest from all immigration detention centers.
 
@@ -282,10 +288,5 @@ In Alaska, Indigenous shareholders of the Bering Straits Native Corporation publ
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Safiyah Riddle
 **Publication date:** 2026-01-15
-**Access date:** 2026-01-15
 **Title:** Oglala Sioux president walks back claims of pressure, arrests
 **URL:** https://apnews.com/article/oglala-sioux-immigration-detention-donald-trump-minneapolis-fb02f775dbdf3b9bc62a9ca539a14148
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

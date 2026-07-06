@@ -21,41 +21,44 @@ primary_themes:
 - federal contracting
 - suicide
 topic_tags:
-  - "crime"
-  - "crime, law and justice"
+- crime, law and justice
+- human migration
+- health
+- mental health
+- government
 storyline_nexus:
-  - immigration-enforcement
-geographic_location: El Paso, Texas
+- us-immigration-enforcement
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
-  intensity: 0.95
+  intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.85
+  intensity: 0.9
 - value: informed_citizenship
-  intensity: 0.75
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:46:21Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:27:27Z'
 source_cluster_id: cluster_ap_2026-03-05_suicide-ice-detention-centers-b2d1cb0e4b
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 15
   hedges:
-    appears: 0
-    alleged: 1
-    attributed: 9
-    reported: 3
-    contested: 0
     confirmed: 2
+    attributed: 9
+    contested: 0
+    alleged: 1
+    reported: 3
+    appears: 0
   corroboration:
-    primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
     primary_document: 4
-    single_source: 11
+    primary_plus_secondary: 0
     two_independent: 0
+    single_source: 11
 sources:
   count: 1
   outlets:
@@ -73,29 +76,18 @@ image:
   url: /articles/2026-03-06-911-calls-document-deaths-and-neglect-at-ice-s-largest-detention-camp.png
   alt: 'Illustration accompanying article: 911 calls document deaths and neglect at ICE''s largest detention camp'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-04-maduro-held-at-mdc-brooklyn-a-federal-jail-with-a-troubled-past
-  relation: related
-  strength: 0.7779
-  confidence: medium
-- slug: 2026-01-13-detainee-drops-alligator-alcatraz-lawsuit-agrees-to-deportation-to-chile
-  relation: related
-  strength: 0.7498
-  confidence: medium
-- slug: 2026-01-13-federal-agents-deploy-tear-gas-in-minneapolis-as-five-prosecutors-resign-over-re
-  relation: related
-  strength: 0.7368
-  confidence: medium
-- slug: 2026-01-11-federal-agents-ram-minneapolis-door-pepper-spray-protesters-in-immigration-sweep
-  relation: related
-  strength: 0.7396
-  confidence: medium
-- slug: 2026-01-12-uk-agrees-to-pay-substantial-sum-to-settle-guantanamo-detainee-s-torture-lawsuit
-  relation: related
-  strength: 0.7363
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- The AP reviewed 130 calls placed between mid-August 2025 and Jan.
+- *If you or someone you know is in crisis, the national Suicide and Crisis Lifeline is available by calling or texting 988.
+- Emergency calls to 911 from Camp East Montana in El Paso, Texas documented repeated suicide attempts, two detainee deaths, seizures, and untreated injuries at the nation's largest U.S.
+- The AP reviewed 130 calls placed between mid-August 2025 and Jan.
 
 *If you or someone you know is in crisis, the national Suicide and Crisis Lifeline is available by calling or texting 988. Online chat is available at 988lifeline.org.*
 
@@ -153,137 +145,167 @@ ICE said Tuesday that normal operations continue at the camp. The Washington Pos
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Camp East Montana; U.S. Immigration and Customs Enforcement
-**Predicate:** is_largest_facility
-**Object:** nation's largest ICE detention facility (designation)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Camp East Montana; U.S. Immigration and Customs Enforcement
+- **Predicate:** is_largest_facility
+- **Object:** nation's largest ICE detention facility (designation)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > Camp East Montana is the nation's largest ICE detention facility.
 
-### c_002 — confirmed, primary document
-**Subject entities:** Associated Press; Camp East Montana
-**Predicate:** reviewed_calls
-**Object:** 130 (count)
-**Temporal:** 2025-08 through 2026-01-20
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Associated Press; Camp East Montana
+- **Predicate:** reviewed_calls
+- **Object:** 130 (count)
+- **Temporal:** 2025-08 through 2026-01-20
+- **Sources:** src_001
 
 > The AP reviewed 130 911 calls placed from Camp East Montana between mid-August 2025 and Jan. 20, 2026.
 
-### c_003 — attributed, primary document
-**Subject entities:** Camp East Montana
-**Predicate:** call_rate
-**Object:** nearly one per day (rate)
-**Temporal:** 2025-08 through 2026-01
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Camp East Montana
+- **Predicate:** call_rate
+- **Object:** nearly one per day (rate)
+- **Temporal:** 2025-08 through 2026-01
+- **Sources:** src_001
 
 > Calls came at a rate of nearly one per day for five months.
 
-### c_004 — confirmed, primary document
-**Subject entities:** Geraldo Lunas Campos
-**Predicate:** died
-**Object:** homicide by asphyxia (cause_of_death)
-**Temporal:** 2026-01-03
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Geraldo Lunas Campos
+- **Predicate:** died
+- **Object:** homicide by asphyxia (cause_of_death)
+- **Temporal:** 2026-01-03
+- **Sources:** src_001
 
 > Geraldo Lunas Campos, 55, a Cuban man, died Jan. 3, 2026, after security guards used handcuffs and force to restrain him following a self-harm attempt; a medical examiner ruled the death a homicide caused by asphyxia.
 
-### c_005 — attributed, single source
-**Predicate:** died_by_suicide
-**Object:** Jan. 14, 2026 (date)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Predicate:** died_by_suicide
+- **Object:** Jan. 14, 2026 (date)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > A 36-year-old Nicaraguan man died by suicide Jan. 14, 2026, days after being detained while working in Minnesota.
 
-### c_006 — attributed, primary document
-**Subject entities:** Camp East Montana
-**Predicate:** self_harm_incidents
-**Object:** at least 6 (count)
-**Temporal:** 2025-08 through 2026-01
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Camp East Montana
+- **Predicate:** self_harm_incidents
+- **Object:** at least 6 (count)
+- **Temporal:** 2025-08 through 2026-01
+- **Sources:** src_001
 
 > At least six additional incidents in which detainees attempted to harm themselves while expressing suicidal ideation resulted in 911 calls, according to City of El Paso records.
 
-### c_007 — reported, single source
-**Subject entities:** Camp East Montana
-**Predicate:** average_daily_population
-**Object:** 3000 (count)
-**Temporal:** 2025-08 through 2026-01
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Camp East Montana
+- **Predicate:** average_daily_population
+- **Object:** 3000 (count)
+- **Temporal:** 2025-08 through 2026-01
+- **Sources:** src_001
 
 > An average of approximately 3,000 people lived at the facility per day.
 
-### c_008 — attributed, single source
-**Subject entities:** U.S. Immigration and Customs Enforcement; Camp East Montana
-**Predicate:** no_criminal_record_rate
-**Object:** 80 percent (percentage)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Immigration and Customs Enforcement; Camp East Montana
+- **Predicate:** no_criminal_record_rate
+- **Object:** 80 percent (percentage)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > ICE data showed 80 percent of detainees at the camp had no criminal record.
 
-### c_009 — attributed, single source
-**Subject entities:** Acquisition Logistics LLC
-**Predicate:** awarded_contract
-**Object:** $1.3 billion (monetary_value)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Acquisition Logistics LLC
+- **Predicate:** awarded_contract
+- **Object:** $1.3 billion (monetary_value)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > The federal government awarded a contract now worth up to $1.3 billion to Acquisition Logistics LLC, a Virginia contractor that had not previously operated an ICE facility.
 
-### c_010 — reported, single source
-**Subject entities:** Camp East Montana; U.S. Immigration and Customs Enforcement
-**Predicate:** violated_federal_standards
-**Object:** at least 60 (count)
-**Temporal:** 2025-09
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Camp East Montana; U.S. Immigration and Customs Enforcement
+- **Predicate:** violated_federal_standards
+- **Object:** at least 60 (count)
+- **Temporal:** 2025-09
+- **Sources:** src_001
 
 > A required ICE inspection found conditions at the facility violated at least 60 federal detention standards, according to the Washington Post; the report has not been released publicly.
 
-### c_011 — attributed, single source
-**Subject entities:** Camp East Montana; Veronica Escobar
-**Predicate:** closed_to_visitors
-**Object:** measles outbreak (reason)
-**Temporal:** 2026-03
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Camp East Montana; Veronica Escobar
+- **Predicate:** closed_to_visitors
+- **Object:** measles outbreak (reason)
+- **Temporal:** 2026-03
+- **Sources:** src_001
 
 > The facility was closed to visitors until at least March 19 due to a measles outbreak, according to Rep. Veronica Escobar.
 
-### c_012 — reported, single source
-**Subject entities:** U.S. Immigration and Customs Enforcement
-**Predicate:** considering_closure
-**Object:** closure plan (action)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Immigration and Customs Enforcement
+- **Predicate:** considering_closure
+- **Object:** closure plan (action)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > The Washington Post reported ICE was considering a plan to close the camp.
 
-### c_013 — attributed, single source
-**Subject entities:** Owen Ramsingh
-**Predicate:** detained
-**Object:** Chicago O'Hare, September 2025 (event)
-**Temporal:** 2025-09
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Owen Ramsingh
+- **Predicate:** detained
+- **Object:** Chicago O'Hare, September 2025 (event)
+- **Temporal:** 2025-09
+- **Sources:** src_001
 
 > Owen Ramsingh, a legal permanent resident brought to the U.S. at age 5, was detained at Chicago O'Hare in September after returning from the Netherlands, citing a drug conviction from when he was 16.
 
-### c_014 — alleged, single source
-**Subject entities:** Owen Ramsingh; Camp East Montana
-**Predicate:** alleged_betting_pool
-**Object:** $500 pool on detainee suicide (allegation)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_014
+- **Hedge:** alleged
+- **Corroboration:** single_source
+- **Subject entities:** Owen Ramsingh; Camp East Montana
+- **Predicate:** alleged_betting_pool
+- **Object:** $500 pool on detainee suicide (allegation)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Ramsingh said he overheard a security guard describe a betting pool among staff members on which detainee would next die by suicide, with $500 contributed.
 
-### c_015 — attributed, single source
-**Subject entities:** U.S. Department of Homeland Security
-**Predicate:** denied_allegation
-**Object:** Ramsingh betting pool account (denial)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Department of Homeland Security
+- **Predicate:** denied_allegation
+- **Object:** Ramsingh betting pool account (denial)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > A DHS spokesperson denied Ramsingh's account of the betting pool and provided no indication of how the agency had sought to verify it.
 
@@ -292,10 +314,5 @@ ICE said Tuesday that normal operations continue at the camp. The Washington Pos
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Morgan Lee
 **Publication date:** 2026-03-06
-**Access date:** 2026-03-06
 **Title:** 911 calls reveal pain, despair at ICE'S largest detention camp
 **URL:** https://apnews.com/article/suicide-ice-detention-centers-b2d1cb0e4b579e0d89caabd00aa04e34
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

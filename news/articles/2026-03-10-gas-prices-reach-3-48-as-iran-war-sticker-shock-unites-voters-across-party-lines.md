@@ -15,45 +15,40 @@ primary_themes:
 - energy costs
 - electric vehicles
 topic_tags:
-  - "civil unrest"
-  - "conflict, war and peace"
-  - "human migration"
-  - "international relations"
-  - "political dissent"
-  - "political process"
+- armed conflict
+- economy
+- energy and resource
+- politics
 storyline_nexus:
-  - iran-war
-  - immigration-enforcement
+- the-iran-war
 geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.7
-- value: human_life_and_dignity
-  intensity: 0.4
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:44:53Z'
+  intensity: 0.9
+- value: informed_citizenship
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T01:06:20Z'
 source_cluster_id: cluster_ap_2026-03-09_iran-war-gas-prices-trump-voters-648000c
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 10
   hedges:
-    appears: 0
     alleged: 0
     attributed: 6
     reported: 4
     contested: 0
+    appears: 0
     confirmed: 0
   corroboration:
     primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
-    primary_document: 0
     single_source: 10
+    primary_document: 0
     two_independent: 0
 sources:
   count: 1
@@ -75,6 +70,16 @@ image:
 cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- In time of Iran war, Americans unite in aggravation over gasoline prices
+- The national average gas price was $3.48 per gallon on Monday, March 10, 2026.
+- The national average gas price was $2.90 per gallon approximately one month before March 10, 2026, prior to the start of the Iran war.
+- A Quinnipiac poll conducted over the weekend found about half of registered voters oppose U.S. military action against Iran.
+- About 4 in 10 registered voters support U.S. military action against Iran, per the Quinnipiac poll.
 
 The price increase has put a domestic cost on a conflict President Donald Trump has defended as necessary, and that a Quinnipiac poll conducted over the weekend found roughly half of registered voters oppose. Three-quarters of registered voters said they were concerned about the war raising gas and oil prices.
 
@@ -128,90 +133,110 @@ For some motorists, the higher prices carry no political consequence. Joey Peril
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** national average gasoline price
-**Predicate:** reached
-**Object:** 3.48
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** national average gasoline price
+- **Predicate:** reached
+- **Object:** 3.48
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > The national average gas price was $3.48 per gallon on Monday, March 10, 2026.
 
-### c_002 — attributed, single source
-**Subject entities:** national average gasoline price
-**Predicate:** was
-**Object:** 2.90
-**Temporal:** 2026-02-10
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** national average gasoline price
+- **Predicate:** was
+- **Object:** 2.90
+- **Temporal:** 2026-02-10
+- **Sources:** src_001
 
 > The national average gas price was $2.90 per gallon approximately one month before March 10, 2026, prior to the start of the Iran war.
 
-### c_003 — reported, single source
-**Subject entities:** registered voters; U.S. military action against Iran
-**Predicate:** oppose
-**Object:** approximately 50 percent
-**Temporal:** 2026-03-07
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** registered voters; U.S. military action against Iran
+- **Predicate:** oppose
+- **Object:** approximately 50 percent
+- **Temporal:** 2026-03-07
+- **Sources:** src_001
 
 > A Quinnipiac poll conducted over the weekend found about half of registered voters oppose U.S. military action against Iran.
 
-### c_004 — reported, single source
-**Subject entities:** registered voters
-**Predicate:** support
-**Object:** approximately 40 percent
-**Temporal:** 2026-03-07
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** registered voters
+- **Predicate:** support
+- **Object:** approximately 40 percent
+- **Temporal:** 2026-03-07
+- **Sources:** src_001
 
 > About 4 in 10 registered voters support U.S. military action against Iran, per the Quinnipiac poll.
 
-### c_005 — reported, single source
-**Subject entities:** Democrats; Republicans; independents
-**Predicate:** oppose_or_support
-**Temporal:** 2026-03-07
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Democrats; Republicans; independents
+- **Predicate:** oppose_or_support
+- **Temporal:** 2026-03-07
+- **Sources:** src_001
 
 > 89% of Democrats oppose U.S. military action against Iran per the Quinnipiac poll; 85% of Republicans support it; 60% of independents oppose it.
 
-### c_006 — reported, single source
-**Subject entities:** registered voters
-**Predicate:** concerned_about
-**Object:** 75 percent
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** registered voters
+- **Predicate:** concerned_about
+- **Object:** 75 percent
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > Three-quarters of registered voters are concerned about the war raising gas and oil prices.
 
-### c_007 — attributed, single source
-**Subject entities:** Donald Trump
-**Predicate:** stated
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** stated
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > Trump said at a Monday news conference: 'We're putting an end to all of this threat once and for all, and the result will be lower oil prices, oil and gas prices for American families.'
 
-### c_008 — attributed, single source
-**Subject entities:** U.S. Congress; federal EV tax credits; Donald Trump
-**Predicate:** eliminated
-**Object:** up to $7,500 (tax credit)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Congress; federal EV tax credits; Donald Trump
+- **Predicate:** eliminated
+- **Object:** up to $7,500 (tax credit)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Federal tax credits worth up to $7,500 off new and used EV purchases were eliminated in Trump's tax and spending bill, which Congress passed last year.
 
-### c_009 — attributed, single source
-**Subject entities:** gasoline prices; Graham, North Carolina
-**Predicate:** rose
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** gasoline prices; Graham, North Carolina
+- **Predicate:** rose
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > Gas prices in Graham, North Carolina rose from $2.59 the previous week to $3.34 per gallon at a Shell station on or around March 10, 2026.
 
-### c_010 — attributed, single source
-**Subject entities:** Ray Albrecht; Speedway; Winter Park, Florida
-**Predicate:** paid
-**Object:** 3.59
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ray Albrecht; Speedway; Winter Park, Florida
+- **Predicate:** paid
+- **Object:** 3.59
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > Ray Albrecht paid $3.59 per gallon at a Speedway station in Winter Park, Florida on March 10, 2026.
 
@@ -220,10 +245,5 @@ For some motorists, the higher prices carry no political consequence. Joey Peril
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Hannah Fingerhut
 **Publication date:** 2026-03-10
-**Access date:** 2026-03-10
 **Title:** In time of Iran war, Americans unite in aggravation over gasoline prices
 **URL:** https://apnews.com/article/iran-war-gas-prices-trump-voters-648000c2a4ffe03f8d647b8e7371bb13
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

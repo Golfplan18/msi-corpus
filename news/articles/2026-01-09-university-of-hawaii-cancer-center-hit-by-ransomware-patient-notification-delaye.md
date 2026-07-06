@@ -1,6 +1,5 @@
 ---
 headline: University of Hawaii Cancer Center hit by ransomware; patient notification delayed months
-slug: 2026-01-09-uh-cancer-center-ransomware-patient-data-notification-delayed
 publish_date: '2026-01-09'
 lede: Hackers broke into University of Hawaiʻi Cancer Center servers in August and exposed Social Security numbers and other personal information belonging to participants in a cancer research study, according to a report the university submitted to the Hawaii Legislature in December. Four months after discovering the breach, the university had not yet notified the individuals whose data was stolen.
 nut_graf: The delayed disclosure raises questions about compliance with a Hawaii state law that generally requires government agencies to report data security breaches to the Legislature within 20 days of discovery. University officials declined to reveal which research project was targeted, how many study participants were affected, or whether the institution paid the hackers a ransom.
@@ -17,51 +16,48 @@ primary_themes:
 - institutional transparency
 - state law compliance
 topic_tags:
-  - "armed conflict"
-  - "conflict, war and peace"
-  - "crime, law and justice"
-  - education
-  - health
-  - "higher education"
+- crime
+- computing and information technology
+- health
+- medical research
+- government policy
 storyline_nexus:
-  - ai-regulation
-  - gaza-conflict
-  - iran-war
-geographic_location: Honolulu, Hawaii, United States
+- trump-judicial-challenges
+geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
-  intensity: 0.85
+  intensity: 0.9
 - value: informed_citizenship
-  intensity: 0.8
-- value: human_life_and_dignity
-  intensity: 0.55
-framework_version: 1.1.0
-generation_timestamp: '2026-05-16T00:00:00Z'
+  intensity: 0.9
+- value: truthfulness
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-22T23:59:53Z'
 source_cluster_id: cluster_ap_2026-01-08_hacking-information-security-hawaii-data
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 15
   hedges:
-    appears: 0
-    alleged: 0
     attributed: 4
-    reported: 7
-    contested: 0
     confirmed: 4
+    alleged: 0
+    contested: 0
+    appears: 0
+    reported: 7
   corroboration:
-    primary_plus_secondary: 0
+    single_source: 10
     one_originating_plus_primary_document: 0
     primary_document: 5
-    single_source: 10
     two_independent: 0
+    primary_plus_secondary: 0
 sources:
   count: 1
   outlets:
-  - Associated Press / Honolulu Civil Beat
+  - Associated Press
   outlet_classes:
   - wire
   highest_reliability_tier: 1
@@ -78,6 +74,15 @@ image:
 cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Summary point 1.
+- Summary point 2.
+- Summary point 3.
+- Summary point 4.
 
 Hackers broke into University of Hawaiʻi Cancer Center servers in August and exposed Social Security numbers and other personal information belonging to participants in a cancer research study, according to a report the university submitted to the Hawaii Legislature in December. Four months after discovering the breach, the university had not yet notified the individuals whose data was stolen.
 
@@ -125,147 +130,172 @@ Since the breach, the Cancer Center has reset passwords, installed protection so
 
 ## Atomic claims
 
-### c_001 — reported, single source
-**Subject entities:** University of Hawaiʻi Cancer Center
-**Predicate:** breached_by
-**Object:** ransomware hackers (actor)
-**Temporal:** 2025-08
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** University of Hawaiʻi Cancer Center
+- **Predicate:** breached_by
+- **Object:** ransomware hackers (actor)
+- **Temporal:** 2025-08
+- **Sources:** src_001
 
 > Hackers broke into University of Hawaiʻi Cancer Center servers in August.
 
-### c_002 — reported, single source
-**Subject entities:** ransomware hackers
-**Predicate:** encrypted_and_extorted
-**Object:** cancer study files (data)
-**Temporal:** 2025-08
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** ransomware hackers
+- **Predicate:** encrypted_and_extorted
+- **Object:** cancer study files (data)
+- **Temporal:** 2025-08
+- **Sources:** src_001
 
 > The hackers encrypted files related to a cancer study and demanded payment for a decryption program.
 
-### c_003 — reported, single source
-**Subject entities:** study participants
-**Predicate:** data_exposed
-**Object:** Social Security numbers and personal information (pii)
-**Temporal:** 2025-08
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** study participants
+- **Predicate:** data_exposed
+- **Object:** Social Security numbers and personal information (pii)
+- **Temporal:** 2025-08
+- **Sources:** src_001
 
 > Social Security numbers and other personal information of study participants were exposed in the breach.
 
-### c_004 — confirmed, primary document
-**Subject entities:** University of Hawaiʻi
-**Predicate:** reported_breach_to
-**Object:** Hawaii Legislature (institution)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** University of Hawaiʻi
+- **Predicate:** reported_breach_to
+- **Object:** Hawaii Legislature (institution)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > UH submitted its breach report to the Hawaii Legislature in December, approximately four months after discovering the breach in August.
 
-### c_005 — confirmed, primary document
-**Subject entities:** Hawaii state law
-**Predicate:** requires
-**Object:** 20-day reporting deadline (legal_requirement)
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Hawaii state law
+- **Predicate:** requires
+- **Object:** 20-day reporting deadline (legal_requirement)
+- **Sources:** src_001
 
 > Hawaii state law generally requires government agencies to submit breach reports to the Legislature within 20 days of discovering a breach.
 
-### c_006 — confirmed, primary document
-**Subject entities:** Hawaii state law
-**Predicate:** mandates_contents
-**Object:** breach report contents (legal_requirement)
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Hawaii state law
+- **Predicate:** mandates_contents
+- **Object:** breach report contents (legal_requirement)
+- **Sources:** src_001
 
 > The state law requires breach reports to include the number of individuals affected, a copy of the breach notification, the number of individuals notified, and whether notification was delayed due to law enforcement.
 
-### c_007 — reported, single source
-**Subject entities:** University of Hawaiʻi
-**Predicate:** has_not_notified
-**Object:** study participants (persons)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** University of Hawaiʻi
+- **Predicate:** has_not_notified
+- **Object:** study participants (persons)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > As of early January 2026, UH had not yet notified affected study participants, more than four months after discovering the breach.
 
-### c_008 — attributed, primary document
-**Subject entities:** University of Hawaiʻi
-**Predicate:** engaged_with
-**Object:** threat actors (actor)
-**Temporal:** 2025-08
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** University of Hawaiʻi
+- **Predicate:** engaged_with
+- **Object:** threat actors (actor)
+- **Temporal:** 2025-08
+- **Sources:** src_001
 
 > UH engaged with the threat actors and worked with outside cybersecurity experts to obtain a decryption tool.
 
-### c_009 — reported, single source
-**Subject entities:** University of Hawaiʻi
-**Predicate:** declined_to_disclose
-**Object:** breach details (information)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** University of Hawaiʻi
+- **Predicate:** declined_to_disclose
+- **Object:** breach details (information)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > UH officials declined to say which cancer research project was affected, how many participants had Social Security numbers exposed, or whether and how much the university paid the hackers.
 
-### c_010 — reported, single source
-**Subject entities:** University of Hawaiʻi
-**Predicate:** plans_to_notify
-**Object:** study participants (persons)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** University of Hawaiʻi
+- **Predicate:** plans_to_notify
+- **Object:** study participants (persons)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > UH is working to compile names and addresses of study participants to notify them, and plans to offer credit monitoring and identity theft prevention services.
 
-### c_011 — reported, single source
-**Subject entities:** University of Hawaiʻi Cancer Center
-**Predicate:** implemented_security_measures
-**Object:** post-breach remediation (action)
-**Temporal:** 2025-2026
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** University of Hawaiʻi Cancer Center
+- **Predicate:** implemented_security_measures
+- **Object:** post-breach remediation (action)
+- **Temporal:** 2025-2026
+- **Sources:** src_001
 
 > UH reset passwords, installed protection software with continuous monitoring, rebuilt compromised systems, and conducted a third-party assessment of new security controls following the breach.
 
-### c_012 — confirmed, primary document
-**Subject entities:** Federal Bureau of Investigation
-**Predicate:** discourages
-**Object:** ransom payments (policy)
-**Source IDs:** src_001
+### c_012
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Federal Bureau of Investigation
+- **Predicate:** discourages
+- **Object:** ransom payments (policy)
+- **Sources:** src_001
 
 > The FBI discourages organizations from paying ransoms to hackers, stating that doing so emboldens adversaries and fuels criminal activity.
 
-### c_013 — attributed, single source
-**Subject entities:** Chuck Lerch; HITech Hui
-**Predicate:** stated
-**Object:** ransom payment is often a business decision (opinion)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Chuck Lerch; HITech Hui
+- **Predicate:** stated
+- **Object:** ransom payment is often a business decision (opinion)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Chuck Lerch, chief experience officer and head of cybersecurity for HITech Hui in Honolulu, said paying ransoms is often a practical business decision despite FBI guidance.
 
-### c_014 — attributed, single source
-**Subject entities:** Chuck Lerch
-**Predicate:** stated
-**Object:** ransomware operator ethics (opinion)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Chuck Lerch
+- **Predicate:** stated
+- **Object:** ransomware operator ethics (opinion)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Lerch said there is a risk hackers will not honor commitments to provide decryption keys or destroy stolen data after receiving payment, but that many ransomware operators follow an informal code of conduct.
 
-### c_015 — attributed, single source
-**Subject entities:** Chuck Lerch
-**Predicate:** stated
-**Object:** prevention over recovery (opinion)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Chuck Lerch
+- **Predicate:** stated
+- **Object:** prevention over recovery (opinion)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Lerch said preventive cybersecurity measures are more cost-effective than recovering from a ransomware attack.
 
 ## Sources
 
-### src_001 — Associated Press / Honolulu Civil Beat, wire, Tier 1, originating
-**Author:** Stewart Yerton
+### src_001 — Associated Press, wire, Tier 1, originating
+**Author:** Stewart Yerton / Honolulu Civil Beat
 **Publication date:** 2026-01-09
-**Access date:** 2026-01-09
 **Title:** Hackers accessed University of Hawaii Cancer Center patient data; they weren't immediately notified
 **URL:** https://apnews.com/article/hacking-information-security-hawaii-data-management-and-storage-general-news-5c7684b350187d9d30fc71d084bb1f22
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

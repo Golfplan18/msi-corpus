@@ -23,7 +23,8 @@ topic_tags:
   - health
   - "law enforcement"
   - politics
-storyline_nexus: []
+storyline_nexus:
+- ai-industry-regulation
 geographic_location: United States (multi-state)
 floor_values_engaged:
 - value: informed_citizenship
@@ -128,10 +129,6 @@ The foundational insight from neuroscientists is that attention capacity is not 
 
 The starting point is intention. Rebuilding attention requires no special equipment or conditions — only deliberate commitment to changing the habits that fragment it.
 
----
-
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
 ### c_001 — reported, single source
@@ -214,7 +211,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-05-17
 **Title:** Tips for improving your focus
 **URL:** https://apnews.com/article/attention-span-improve-focus-social-media-2334290ba5d8206c18aeca0090be2f3f
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

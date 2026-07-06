@@ -21,7 +21,8 @@ topic_tags:
   - "international relations"
   - "human interest"
   - achievement
-storyline_nexus: []
+storyline_nexus:
+- us-china-competition
 geographic_location: Tokyo, Japan / Beijing, China
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -113,8 +114,6 @@ Japan's top government spokesperson, Minoru Kihara, acknowledged Thursday that t
 When asked about sending replacement pandas to Japan, Chinese Foreign Ministry spokesperson Guo Jiakun declined to offer encouragement, instead offering an invitation. "I know giant pandas are loved by many in Japan, and we welcome Japanese friends to come visit them in China," he said.
 
 The departure marks the end of a decades-long chapter of wildlife diplomacy, replaced now by the chill between capitals and an uncertain path to reconciliation.
-
-**AI Disclosure:** This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. The framework specification is available at `/methodology`. Human review was not triggered.
 
 **License:** This article is released under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/).
 
@@ -326,7 +325,3 @@ The departure marks the end of a decades-long chapter of wildlife diplomacy, rep
 **Access date:** 2026-01-24
 **Title:** Japanese fans bid farewell to its last 2 pandas
 **URL:** https://apnews.com/article/japan-china-pandas-ueno-zoo-return-diplomacy-9cf7aff53bc94e03f651eb48eee7f7b8
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

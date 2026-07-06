@@ -21,7 +21,8 @@ topic_tags:
   - politics
   - election
   - health
-storyline_nexus: []
+storyline_nexus:
+- trump-health-policy-rfk
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -98,143 +99,173 @@ The scale of Foege's impact was recognized through major honors. President Barac
 
 Tom Frieden, a former CDC director who consulted regularly with Foege, captured the measure of his legacy. "If you look at the simple metric of who has saved the most lives, he is right up there with the pantheon," Frieden said. "Smallpox eradication has prevented hundreds of millions of deaths."
 
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed in the `sources` field. Human review was not triggered for publication. This work is released under the [Creative Commons CC0 public domain dedication](https://creativecommons.org/publicdomain/zero/1.0/).*
-
 ## Atomic claims
 
-### c_001 — reported, single source
-**Subject entities:** William Foege
-**Predicate:** died
-**Object:** Atlanta, Saturday, January 25, 2026 (location_and_date)
-**Temporal:** 2026-01-25
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** William Foege
+- **Predicate:** died
+- **Object:** Atlanta, Saturday, January 25, 2026 (location_and_date)
+- **Temporal:** 2026-01-25
+- **Sources:** src_001
 
 > Dr. William Foege died in Atlanta on Saturday, January 25, 2026.
 
-### c_002 — reported, single source
-**Subject entities:** William Foege
-**Predicate:** age_at_death
-**Object:** 89 (age)
-**Temporal:** 2026-01-25
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** William Foege
+- **Predicate:** age_at_death
+- **Object:** 89 (age)
+- **Temporal:** 2026-01-25
+- **Sources:** src_001
 
 > William Foege was 89 years old.
 
-### c_003 — attributed, primary plus secondary
-**Subject entities:** William Foege
-**Predicate:** led
-**Object:** global smallpox eradication campaign (achievement)
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** William Foege
+- **Predicate:** led
+- **Object:** global smallpox eradication campaign (achievement)
+- **Sources:** src_001
 
 > Foege led the global campaign that eradicated smallpox.
 
-### c_004 — confirmed, primary document
-**Subject entities:** smallpox
-**Predicate:** caused
-**Object:** one-third mortality rate and facial scarring (disease_impact)
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** smallpox
+- **Predicate:** caused
+- **Object:** one-third mortality rate and facial scarring (disease_impact)
+- **Sources:** src_001
 
 > Smallpox historically killed about one-third of those infected and left survivors with deep scars.
 
-### c_005 — attributed, primary plus secondary
-**Subject entities:** William Foege; Nigeria
-**Predicate:** developed
-**Object:** ring containment strategy (public_health_technique)
-**Temporal:** 1960s
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** William Foege; Nigeria
+- **Predicate:** developed
+- **Object:** ring containment strategy (public_health_technique)
+- **Temporal:** 1960s
+- **Sources:** src_001
 
 > Foege developed the "ring containment" strategy while working as a medical missionary in Nigeria in the 1960s.
 
-### c_006 — confirmed, primary document
-**Subject entities:** ring containment strategy
-**Predicate:** involves
-**Object:** case identification and contact vaccination (method)
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** ring containment strategy
+- **Predicate:** involves
+- **Object:** case identification and contact vaccination (method)
+- **Sources:** src_001
 
 > Ring containment involved identifying smallpox cases and vaccinating everyone they came into contact with.
 
-### c_007 — attributed, primary plus secondary
-**Subject entities:** ring containment strategy
-**Predicate:** became_pivotal_in
-**Object:** global smallpox eradication (public_health_impact)
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** ring containment strategy
+- **Predicate:** became_pivotal_in
+- **Object:** global smallpox eradication (public_health_impact)
+- **Sources:** src_001
 
 > The ring containment strategy became pivotal in the global smallpox eradication effort.
 
-### c_008 — confirmed, primary plus secondary
-**Subject entities:** smallpox; Somalia
-**Predicate:** last_case_in
-**Object:** Somalia, 1977 (location_and_date)
-**Temporal:** 1977
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** smallpox; Somalia
+- **Predicate:** last_case_in
+- **Object:** Somalia, 1977 (location_and_date)
+- **Temporal:** 1977
+- **Sources:** src_001
 
 > The last naturally occurring case of smallpox was seen in Somalia in 1977.
 
-### c_009 — confirmed, primary plus secondary
-**Subject entities:** World Health Organization; smallpox
-**Predicate:** declared_eradicated
-**Object:** 1980 (date)
-**Temporal:** 1980
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** World Health Organization; smallpox
+- **Predicate:** declared_eradicated
+- **Object:** 1980 (date)
+- **Temporal:** 1980
+- **Sources:** src_001
 
 > The World Health Organization declared smallpox eradicated from the Earth in 1980.
 
-### c_010 — attributed, single source
-**Subject entities:** William Foege; Tom Frieden
-**Predicate:** saved_most_lives
-**Object:** prevented hundreds of millions of deaths (attributed_assessment)
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** William Foege; Tom Frieden
+- **Predicate:** saved_most_lives
+- **Object:** prevented hundreds of millions of deaths (attributed_assessment)
+- **Sources:** src_001
 
 > Former CDC director Dr. Tom Frieden said smallpox eradication has prevented hundreds of millions of deaths and ranks Foege among those who saved the most lives.
 
-### c_011 — confirmed, primary document
-**Subject entities:** William Foege; Centers for Disease Control and Prevention
-**Predicate:** director_of
-**Object:** 1977-1983 (date_range)
-**Source IDs:** src_001
+### c_011
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** William Foege; Centers for Disease Control and Prevention
+- **Predicate:** director_of
+- **Object:** 1977-1983 (date_range)
+- **Sources:** src_001
 
 > Foege served as director of the Centers for Disease Control and Prevention from 1977 to 1983.
 
-### c_012 — reported, single source
-**Subject entities:** William Foege
-**Predicate:** held_roles_at
-**Object:** The Carter Center and Bill and Melinda Gates Foundation (organizations)
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** William Foege
+- **Predicate:** held_roles_at
+- **Object:** The Carter Center and Bill and Melinda Gates Foundation (organizations)
+- **Sources:** src_001
 
 > Foege held leadership roles including executive director at The Carter Center and senior fellow at the Bill and Melinda Gates Foundation.
 
-### c_013 — confirmed, primary plus secondary
-**Subject entities:** William Foege; Barack Obama
-**Predicate:** awarded
-**Object:** Medal of Freedom, 2012 (honor)
-**Temporal:** 2012
-**Source IDs:** src_001
+### c_013
+- **Hedge:** confirmed
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** William Foege; Barack Obama
+- **Predicate:** awarded
+- **Object:** Medal of Freedom, 2012 (honor)
+- **Temporal:** 2012
+- **Sources:** src_001
 
 > President Barack Obama presented Foege with the Medal of Freedom in 2012.
 
-### c_014 — reported, single source
-**Subject entities:** William Foege; Richard Brodhead; Duke University
-**Predicate:** called
-**Object:** Father of Global Health (honorific_title)
-**Temporal:** 2016
-**Source IDs:** src_001
+### c_014
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** William Foege; Richard Brodhead; Duke University
+- **Predicate:** called
+- **Object:** Father of Global Health (honorific_title)
+- **Temporal:** 2016
+- **Sources:** src_001
 
 > Duke University President Richard Brodhead called Foege "the Father of Global Health" when awarding him an honorary degree in 2016.
 
-### c_015 — reported, single source
-**Subject entities:** William Foege
-**Predicate:** born
-**Object:** March 12, 1936 (birth_date)
-**Temporal:** 1936
-**Source IDs:** src_001
+### c_015
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** William Foege
+- **Predicate:** born
+- **Object:** March 12, 1936 (birth_date)
+- **Temporal:** 1936
+- **Sources:** src_001
 
 > Foege was born March 12, 1936.
 
-### c_016 — reported, single source
-**Subject entities:** William Foege
-**Predicate:** educated_at
-**Object:** University of Washington (MD, 1961) and Harvard (MPH, 1965) (education)
-**Source IDs:** src_001
+### c_016
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** William Foege
+- **Predicate:** educated_at
+- **Object:** University of Washington (MD, 1961) and Harvard (MPH, 1965) (education)
+- **Sources:** src_001
 
 > Foege received his medical degree from the University of Washington in 1961 and a master's degree in public health from Harvard in 1965.
 
@@ -246,7 +277,3 @@ Tom Frieden, a former CDC director who consulted regularly with Foege, captured 
 **Access date:** 2026-01-26
 **Title:** Small pox eradication pioneer Dr. William Foege dies
 **URL:** https://apnews.com/article/william-foege-smallpox-cdc-73770ffe382e48829a87fee0b364a3d1
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

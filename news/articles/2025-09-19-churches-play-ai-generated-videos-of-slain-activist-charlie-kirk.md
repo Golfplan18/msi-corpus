@@ -19,40 +19,42 @@ primary_themes:
 - social_media
 - conservative_movement
 topic_tags:
-  - religion
-  - society
-storyline_nexus: []
+- artificial intelligence
+- religion
+- mass media
+- social media
+- belief systems
+storyline_nexus:
+- ai-industry-regulation
 geographic_location: United States
 floor_values_engaged:
-- value: human_life_and_dignity
-  intensity: 0.7
 - value: truthfulness
+  intensity: 0.9
+- value: human_life_and_dignity
   intensity: 0.6
-- value: informed_citizenship
-  intensity: 0.5
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:17:52Z'
 source_cluster_id: cluster_ap_2026-01-17_charlie-kirk-artificial-intelligence-wor
 gdelt_event_ids: []
-consensus_floor_version: '1.1'
-publication_mindspec_version: '1.0'
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 15
   hedges:
-    appears: 0
-    alleged: 0
+    confirmed: 0
     attributed: 2
     reported: 13
+    alleged: 0
     contested: 0
-    confirmed: 0
+    appears: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 0
-    single_source: 15
     two_independent: 0
+    primary_plus_secondary: 0
+    single_source: 15
+    one_originating_plus_primary_document: 0
 sources:
   count: 1
   outlets:
@@ -66,21 +68,16 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-04-18-states-pass-laws-honoring-charlie-kirk-stirring-debate-on-religion-and-speech
-  relation: related
-  strength: 0.7134
-  confidence: medium
-- slug: 2026-04-19-dj-priest-hosts-tribute-rave-for-pope-francis-in-buenos-aires
-  relation: related
-  strength: 0.7119
-  confidence: medium
-- slug: 2026-04-17-defense-pushes-to-ban-cameras-in-charlie-kirk-murder-trial
-  relation: related
-  strength: 0.7097
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- The AI-generated clips mark a new form of digital mourning, in which the deceased are reconstructed as hyperreal but entirely fictional digital avatars. The phenomenon, concentrated among Trump sup...
+- Less than a week after conservative activist Charlie Kirk's assassination, evangelical churches in Texas, Arizona, and California showed their cong...
+- The churches made clear to their audiences the content was artificially generated. Yet the segment drew applause each time, illustrating both the e...
 
 The AI-generated clips mark a new form of digital mourning, in which the deceased are reconstructed as hyperreal but entirely fictional digital avatars. The phenomenon, concentrated among Trump supporters and conservative communities, reflects how artificial intelligence is reshaping religious commemoration and collective grief.
 
@@ -116,144 +113,170 @@ On TikTok, influencer Taylor Diazmercado posted a reaction video to the AI-gener
 
 The origin of the AI-generated clip is unclear. The wave of AI memorial content that appeared within days of Kirk's assassination marks a departure from traditional forms of mourning—a moment in which technology allows the dead to be reconstructed with hyperrealistic precision and their voices replicated in ways previous generations could not have imagined.
 
----
-
-*This article is licensed under CC0 and was generated algorithmically by Main Street Independent's News Article Generator framework. Read the framework specification at /methodology.*
-
 ## Atomic claims
 
-### c_001 — reported, single source
-**Subject entities:** Prestonwood Baptist Church; Charlie Kirk
-**Predicate:** played_AI_generated_content
-**Object:** AI-generated audio clip (digital_media)
-**Temporal:** 2025-09-19 or earlier
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Prestonwood Baptist Church; Charlie Kirk
+- **Predicate:** played_AI_generated_content
+- **Object:** AI-generated audio clip (digital_media)
+- **Temporal:** 2025-09-19 or earlier
+- **Sources:** src_001
 
 > Prestonwood Baptist Church in Plano, Texas, played an AI-generated audio clip of Charlie Kirk's voice during a Sunday service after Kirk's assassination.
 
-### c_002 — reported, single source
-**Subject entities:** AI-generated Kirk clip
-**Predicate:** contains_quotation
-**Object:** pick up your cross, and get back in the fight (quotation)
-**Temporal:** before 2025-09-19
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** AI-generated Kirk clip
+- **Predicate:** contains_quotation
+- **Object:** pick up your cross, and get back in the fight (quotation)
+- **Temporal:** before 2025-09-19
+- **Sources:** src_001
 
 > The AI-generated clip featured Kirk's voice saying "pick up your cross, and get back in the fight."
 
-### c_003 — reported, single source
-**Subject entities:** Prestonwood Baptist congregation
-**Predicate:** responded_with_applause
-**Object:** standing ovation (audience_response)
-**Temporal:** before 2025-09-19
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Prestonwood Baptist congregation
+- **Predicate:** responded_with_applause
+- **Object:** standing ovation (audience_response)
+- **Temporal:** before 2025-09-19
+- **Sources:** src_001
 
 > The Prestonwood Baptist congregation gave the AI-generated clip a standing ovation.
 
-### c_004 — reported, single source
-**Subject entities:** Dream City Church; Awaken Church
-**Predicate:** played_AI_generated_content
-**Object:** AI-generated Kirk clip (digital_media)
-**Temporal:** before 2025-09-19
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Dream City Church; Awaken Church
+- **Predicate:** played_AI_generated_content
+- **Object:** AI-generated Kirk clip (digital_media)
+- **Temporal:** before 2025-09-19
+- **Sources:** src_001
 
 > Dream City Church in Arizona and Awaken Church in San Marcos, California also played the AI-generated clip during services on the same day.
 
-### c_005 — reported, single source
-**Subject entities:** AI-generated content; social media
-**Predicate:** proliferated_after
-**Object:** images, videos, and audio messages (digital_content)
-**Temporal:** immediately after Kirk's assassination
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** AI-generated content; social media
+- **Predicate:** proliferated_after
+- **Object:** images, videos, and audio messages (digital_content)
+- **Temporal:** immediately after Kirk's assassination
+- **Sources:** src_001
 
 > A wave of AI-generated images, videos, and audio messages depicting Charlie Kirk appeared on social media within hours of his assassination.
 
-### c_006 — reported, single source
-**Subject entities:** AI-generated Kirk depictions
-**Predicate:** featured_theme
-**Object:** Kirk in heaven with Jesus Christ (content_theme)
-**Temporal:** after Kirk's assassination
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** AI-generated Kirk depictions
+- **Predicate:** featured_theme
+- **Object:** Kirk in heaven with Jesus Christ (content_theme)
+- **Temporal:** after Kirk's assassination
+- **Sources:** src_001
 
 > Many AI-generated depictions of Kirk featured religious themes, including Kirk in heaven with Jesus Christ.
 
-### c_007 — reported, single source
-**Subject entities:** AI-generated Kirk video
-**Predicate:** contains_quotation
-**Object:** I'm Charlie. My faith cost me my life, but now I stand forever in glory (quotation)
-**Temporal:** after Kirk's assassination
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** AI-generated Kirk video
+- **Predicate:** contains_quotation
+- **Object:** I'm Charlie. My faith cost me my life, but now I stand forever in glory (quotation)
+- **Temporal:** after Kirk's assassination
+- **Sources:** src_001
 
 > One AI-generated video shows Kirk saying "I'm Charlie. My faith cost me my life, but now I stand forever in glory."
 
-### c_008 — reported, single source
-**Subject entities:** Andrew Kolvet; AI-generated image
-**Predicate:** posted
-**Object:** AI image combining Kirk with historical assassinated figures and Jesus (digital_content)
-**Temporal:** after Kirk's assassination
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Andrew Kolvet; AI-generated image
+- **Predicate:** posted
+- **Object:** AI image combining Kirk with historical assassinated figures and Jesus (digital_content)
+- **Temporal:** after Kirk's assassination
+- **Sources:** src_001
 
 > Andrew Kolvet, a producer of The Charlie Kirk Show, posted an AI-generated image of Kirk alongside other assassinated Americans including Presidents Abraham Lincoln and John F. Kennedy, Rev. Martin Luther King Jr., and Jesus Christ.
 
-### c_009 — attributed, single source
-**Subject entities:** Bernice King; Kolvet's AI-generated image
-**Predicate:** criticized
-**Object:** there are so many things wrong with this (quotation)
-**Temporal:** after Kirk's assassination
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Bernice King; Kolvet's AI-generated image
+- **Predicate:** criticized
+- **Object:** there are so many things wrong with this (quotation)
+- **Temporal:** after Kirk's assassination
+- **Sources:** src_001
 
 > Bernice King, daughter of Martin Luther King Jr., said of Kolvet's image: "there are so many things wrong with this."
 
-### c_010 — attributed, single source
-**Subject entities:** Charlie Warzel; The Atlantic; AI-generated images
-**Predicate:** observed_aesthetic_fusion
-**Object:** fusion of generative-AI aesthetic with MAGA movement meme culture (media_observation)
-**Temporal:** August 2025 or earlier
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Charlie Warzel; The Atlantic; AI-generated images
+- **Predicate:** observed_aesthetic_fusion
+- **Object:** fusion of generative-AI aesthetic with MAGA movement meme culture (media_observation)
+- **Temporal:** August 2025 or earlier
+- **Sources:** src_001
 
 > Technology writer Charlie Warzel observed in The Atlantic that the high-resolution, low-budget aesthetic of AI-generated images appears to be fusing with the meme-loving aesthetic of the MAGA movement.
 
-### c_011 — reported, single source
-**Subject entities:** AI-generated content; Charlie Kirk; Iryna Zarutska
-**Predicate:** linked_together
-**Object:** Kirk's assassination and Zarutska's death (narrative_connection)
-**Temporal:** after Kirk's assassination
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** AI-generated content; Charlie Kirk; Iryna Zarutska
+- **Predicate:** linked_together
+- **Object:** Kirk's assassination and Zarutska's death (narrative_connection)
+- **Temporal:** after Kirk's assassination
+- **Sources:** src_001
 
 > Some AI-generated images and videos linked Charlie Kirk's death to the stabbing of Iryna Zarutska, a Ukrainian refugee killed on a bus in Charlotte, North Carolina.
 
-### c_012 — reported, single source
-**Subject entities:** AI-generated video; Charlie Kirk; Iryna Zarutska
-**Predicate:** depicts
-**Object:** Kirk and Zarutska as angels on bus with hymn (video_content)
-**Temporal:** after Kirk's assassination
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** AI-generated video; Charlie Kirk; Iryna Zarutska
+- **Predicate:** depicts
+- **Object:** Kirk and Zarutska as angels on bus with hymn (video_content)
+- **Temporal:** after Kirk's assassination
+- **Sources:** src_001
 
 > At least one AI-generated video shows Kirk embracing Zarutska on the bus with both depicted as angels, set to the hymn "How Great Thou Art."
 
-### c_013 — reported, single source
-**Subject entities:** AI-generated Kirk video
-**Predicate:** contains_quotation
-**Object:** I'm in a better place now, but America and Israel will never be the same (quotation)
-**Temporal:** after Kirk's assassination
-**Source IDs:** src_001
+### c_013
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** AI-generated Kirk video
+- **Predicate:** contains_quotation
+- **Object:** I'm in a better place now, but America and Israel will never be the same (quotation)
+- **Temporal:** after Kirk's assassination
+- **Sources:** src_001
 
 > An AI-generated video shows Kirk, adorned with angel wings and white robes, declaring from heaven: "I'm in a better place now, but America and Israel will never be the same."
 
-### c_014 — reported, single source
-**Subject entities:** Taylor Diazmercado; TikTok; AI-generated Kirk clip
-**Predicate:** posted_emotional_reaction
-**Object:** reaction video with visible tears (social_media_content)
-**Temporal:** before 2025-09-19
-**Source IDs:** src_001
+### c_014
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Taylor Diazmercado; TikTok; AI-generated Kirk clip
+- **Predicate:** posted_emotional_reaction
+- **Object:** reaction video with visible tears (social_media_content)
+- **Temporal:** before 2025-09-19
+- **Sources:** src_001
 
 > TikTok influencer Taylor Diazmercado posted a reaction video to the AI-generated audio clip, visibly weeping as the fabricated voice spoke words Kirk never said in life.
 
-### c_015 — reported, single source
-**Subject entities:** AI-generated Kirk clip
-**Predicate:** origin_unknown
-**Object:** origin unknown (epistemic_state)
-**Temporal:** at time of reporting
-**Source IDs:** src_001
+### c_015
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** AI-generated Kirk clip
+- **Predicate:** origin_unknown
+- **Object:** origin unknown (epistemic_state)
+- **Temporal:** at time of reporting
+- **Sources:** src_001
 
 > The origin of the AI-generated clip that circulated in churches is unclear.
 
@@ -262,10 +285,5 @@ The origin of the AI-generated clip is unclear. The wave of AI memorial content 
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Jack Jenkins
 **Publication date:** 2025-09-19
-**Access date:** 2025-09-19
 **Title:** Charlie Kirk's AI resurrection ushers in a new era of digital grief
 **URL:** https://apnews.com/article/charlie-kirk-artificial-intelligence-worship-services-6c0f9b7e7ec6360a18df418d22cf9418
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

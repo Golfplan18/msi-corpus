@@ -210,7 +210,3 @@ The emphasis on durability and carefully constructed pieces reflects growing con
 **Access date:** 2026-05-18
 **Title:** Paris men's fashion week in 5 trends: rebuilt tailoring, quiet craft and clothes built to last
 **URL:** https://apnews.com/article/paris-fashion-week-mens-trends-5057ffadbe75ffd7b2eaa3b84e881839
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

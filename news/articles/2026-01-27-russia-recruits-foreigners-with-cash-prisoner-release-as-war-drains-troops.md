@@ -25,7 +25,7 @@ topic_tags:
   - "conflict, war and peace"
   - labour
 storyline_nexus:
-  - russia-ukraine-war
+- ukraine-war-peace-negotiations
 geographic_location: International
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -124,8 +124,6 @@ President Putin has maintained that 700,000 Russian troops are fighting in Ukrai
 Moscow has released limited official casualty figures. The British Defense Ministry estimated in 2025 that more than 1 million Russian troops may have been killed or wounded.
 
 An independent accounting carried out by Mediazona, an independent Russian news site, together with the BBC and a team of volunteers, assembled the names of more than 160,000 troops killed by combing through news reports, social media, and government websites. More than 550 of those documented dead were foreigners from over two dozen countries.
-
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. Specification available at /methodology. Human review not triggered.
 
 ## Atomic claims
 
@@ -299,7 +297,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-01-27
 **Title:** Russia offers incentives for fighting in Ukraine, but some recruits complain of coercion
 **URL:** https://apnews.com/article/russia-ukraine-war-recruits-foreigners-78285219e6e10be694e8e1e007c5b6e4
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

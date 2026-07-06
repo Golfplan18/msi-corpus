@@ -16,7 +16,8 @@ primary_themes:
 topic_tags:
   - "disaster, accident and emergency incident"
   - "natural disaster"
-storyline_nexus: []
+storyline_nexus:
+- extreme-weather-disasters
 geographic_location: Minas Gerais, Brazil
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -104,10 +105,6 @@ Rescue work is complicated by the extent of the flooding. Firefighter Demetrius 
 President Luiz Inácio Lula da Silva announced on social media that security forces are working on rescue operations and providing immediate assistance to those affected.
 
 Brazil's meteorology institute Inmet warned that the region faces continued risk. Additional rainfall is forecast for the coming days, threatening fresh flooding and mudslides in an area that has already experienced extensive damage.
-
----
-
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
 
 ## Atomic claims
 
@@ -227,7 +224,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-02-24
 **Title:** Severe floods in southeastern Brazil kill at least 25 people
 **URL:** https://apnews.com/article/brazil-floods-minas-gerais-rains-023ce66786e2316efb44c4377767301f
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

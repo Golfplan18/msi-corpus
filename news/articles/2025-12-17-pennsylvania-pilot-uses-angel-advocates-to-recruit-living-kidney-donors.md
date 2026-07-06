@@ -1,6 +1,5 @@
 ---
 headline: Pennsylvania pilot uses 'angel advocates' to recruit living kidney donors
-slug: 2025-12-17-angel-advocates-social-media-kidney-donor-pilot-pennsylvania
 publish_date: '2025-12-17'
 lede: A pilot program at three Pennsylvania hospitals is testing whether volunteer strangers — dubbed "angel advocates" — can use their own social media networks to help kidney patients with limited social connections find living donors. The Great Social Experiment, founded by Los Angeles filmmaker David Krissman, launched in May 2025 with 15 patients at Temple University Hospital, UPMC-Harrisburg and Jefferson University Hospital in Philadelphia. Early results show at least three patients have found donors across the two hospitals that have reported outcomes.
 nut_graf: About 90,000 people in the United States are on a waiting list for a kidney transplant, and only about 6,400 living kidney donations were performed last year. Living donor kidneys tend to last longer and allow for planned surgery, but patients who lack broad social networks often struggle to locate a willing donor — the gap the program is designed to close.
@@ -20,42 +19,44 @@ primary_themes:
 - healthcare innovation
 - volunteerism
 topic_tags:
-  - education
-  - government
-  - "government policy"
-  - health
-  - "higher education"
-  - politics
-storyline_nexus: []
-geographic_location: Harrisburg, Pennsylvania, United States
+- health
+- human interest
+- health treatment and procedure
+- social media
+- medical research
+storyline_nexus:
+- aca-medicaid-healthcare-crisis
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
-  intensity: 0.85
+  intensity: 0.9
+- value: equality_fairness
+  intensity: 0.6
 - value: informed_citizenship
-  intensity: 0.65
-framework_version: 1.1.0
-generation_timestamp: '2026-05-16T00:00:00Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-22T23:49:34Z'
 source_cluster_id: cluster_ap_2026-01-02_social-media-kidney-living-donors-transp
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 14
   hedges:
-    appears: 0
-    alleged: 0
     attributed: 10
     reported: 4
-    contested: 0
+    appears: 0
     confirmed: 0
+    alleged: 0
+    contested: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 0
-    single_source: 14
     two_independent: 0
+    primary_plus_secondary: 0
+    single_source: 14
+    one_originating_plus_primary_document: 0
 sources:
   count: 1
   outlets:
@@ -76,6 +77,11 @@ image:
 cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- Placeholder summary pending generation.
 
 HARRISBURG, Pa. — A pilot program at three Pennsylvania hospitals is testing whether volunteer strangers — dubbed "angel advocates" — can use their own social media networks to help kidney patients with limited social connections find living donors.
 
@@ -127,128 +133,156 @@ Becca Brown, director of transplant services at UPMC-Harrisburg, said she sees b
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Great Social Experiment; Temple University Hospital; UPMC-Harrisburg; Jefferson University Hospital
-**Predicate:** launched_at
-**Object:** 15 patients, three Pennsylvania hospitals, May 2025 (program_detail)
-**Temporal:** 2025-05
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Great Social Experiment; Temple University Hospital; UPMC-Harrisburg; Jefferson University Hospital
+- **Predicate:** launched_at
+- **Object:** 15 patients, three Pennsylvania hospitals, May 2025 (program_detail)
+- **Temporal:** 2025-05
+- **Sources:** src_001
 
 > The Great Social Experiment pilot program launched in May 2025 at Temple University Hospital, UPMC-Harrisburg and Jefferson University Hospital in Philadelphia with 15 patients.
 
-### c_002 — attributed, single source
-**Subject entities:** Gift of Life Donor Program
-**Predicate:** granted
-**Object:** more than $100,000 (monetary_amount)
-**Temporal:** 2025-12-17
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Gift of Life Donor Program
+- **Predicate:** granted
+- **Object:** more than $100,000 (monetary_amount)
+- **Temporal:** 2025-12-17
+- **Sources:** src_001
 
 > The Gift of Life Donor Program's foundation awarded a grant of more than $100,000 to support the pilot program.
 
-### c_003 — attributed, single source
-**Subject entities:** Temple University Hospital; Ryan Ihlenfeldt
-**Predicate:** found_donors
-**Object:** 2 of 5 patients; 1 preparing for surgery (outcome_count)
-**Temporal:** 2025-12-17
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Temple University Hospital; Ryan Ihlenfeldt
+- **Predicate:** found_donors
+- **Object:** 2 of 5 patients; 1 preparing for surgery (outcome_count)
+- **Temporal:** 2025-12-17
+- **Sources:** src_001
 
 > Two of five Temple University Hospital patients in the program have found kidney donors, and one is preparing for surgery, according to Ryan Ihlenfeldt, the hospital's director of clinical transplant services.
 
-### c_004 — attributed, single source
-**Subject entities:** UPMC-Harrisburg
-**Predicate:** received_transplant
-**Object:** 1 of 5 patients (outcome_count)
-**Temporal:** 2025-12-17
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** UPMC-Harrisburg
+- **Predicate:** received_transplant
+- **Object:** 1 of 5 patients (outcome_count)
+- **Temporal:** 2025-12-17
+- **Sources:** src_001
 
 > One of five UPMC-Harrisburg patients in the program has already received a kidney transplant.
 
-### c_005 — attributed, single source
-**Subject entities:** Great Social Experiment; North Carolina
-**Predicate:** matched_donors
-**Object:** 3 of 3 patients (outcome_count)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Great Social Experiment; North Carolina
+- **Predicate:** matched_donors
+- **Object:** 3 of 3 patients (outcome_count)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > A prior pilot in North Carolina with three patients, which concluded last year, matched all three with living donors.
 
-### c_006 — reported, single source
-**Subject entities:** United States
-**Predicate:** on_transplant_waitlist
-**Object:** about 90,000 (count)
-**Temporal:** 2025-12-17
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** United States
+- **Predicate:** on_transplant_waitlist
+- **Object:** about 90,000 (count)
+- **Temporal:** 2025-12-17
+- **Sources:** src_001
 
 > About 90,000 people in the United States are on a waiting list for a kidney transplant.
 
-### c_007 — reported, single source
-**Subject entities:** United States
-**Predicate:** kidneys_transplanted
-**Object:** roughly 28,000 (count)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** United States
+- **Predicate:** kidneys_transplanted
+- **Object:** roughly 28,000 (count)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > About 28,000 kidneys were transplanted in the United States last year, most from deceased donors.
 
-### c_008 — reported, single source
-**Subject entities:** United States
-**Predicate:** living_donations_performed
-**Object:** about 6,400 (count)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** United States
+- **Predicate:** living_donations_performed
+- **Object:** about 6,400 (count)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > About 6,400 living kidney donations were transplanted in the United States last year.
 
-### c_009 — reported, single source
-**Predicate:** found_mortality_rate
-**Object:** fewer than 1 in 10,000 within 3 months (rate)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Predicate:** found_mortality_rate
+- **Object:** fewer than 1 in 10,000 within 3 months (rate)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > A study tracking 30 years of living kidney donations found fewer than 1 in every 10,000 donors died within three months of surgery, down from a previous rate of 3 deaths per 10,000.
 
-### c_010 — attributed, single source
-**Subject entities:** Fernando Moreno
-**Predicate:** on_dialysis
-**Object:** about two years (duration)
-**Temporal:** 2025-12-17
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Fernando Moreno
+- **Predicate:** on_dialysis
+- **Object:** about two years (duration)
+- **Temporal:** 2025-12-17
+- **Sources:** src_001
 
 > Fernando Moreno, 50, a truck driver from Vineland, New Jersey, has been on dialysis for about two years.
 
-### c_011 — attributed, single source
-**Subject entities:** Ahmad Collins
-**Predicate:** requires_dialysis
-**Object:** 10 hours per night (duration)
-**Temporal:** 2025-12-17
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ahmad Collins
+- **Predicate:** requires_dialysis
+- **Object:** 10 hours per night (duration)
+- **Temporal:** 2025-12-17
+- **Sources:** src_001
 
 > Ahmad Collins, 50, a city government worker and former Penn State linebacker, has needed 10 hours of dialysis per night since a medical procedure damaged his kidneys.
 
-### c_012 — attributed, single source
-**Subject entities:** Francis Beaumier
-**Predicate:** joined_as_advocate
-**Object:** after being a double living donor (background)
-**Temporal:** 2025-12-17
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Francis Beaumier
+- **Predicate:** joined_as_advocate
+- **Object:** after being a double living donor (background)
+- **Temporal:** 2025-12-17
+- **Sources:** src_001
 
 > Francis Beaumier, a 38-year-old information technology worker from Green Bay, Wisconsin, joined as an angel advocate after previously donating a kidney and part of his liver.
 
-### c_013 — attributed, single source
-**Subject entities:** Holly Armstrong
-**Predicate:** serves_as_advocate
-**Object:** after prior living donation (background)
-**Temporal:** 2025-12-17
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Holly Armstrong
+- **Predicate:** serves_as_advocate
+- **Object:** after prior living donation (background)
+- **Temporal:** 2025-12-17
+- **Sources:** src_001
 
 > Holly Armstrong, who lives in Lake Wiley, South Carolina, also serves as an angel advocate after her own experience as a living donor.
 
-### c_014 — attributed, single source
-**Subject entities:** National Kidney Foundation
-**Predicate:** requires_minimum_age
-**Object:** at least 18, some centers 21 (policy)
-**Temporal:** 2025-12-17
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** National Kidney Foundation
+- **Predicate:** requires_minimum_age
+- **Object:** at least 18, some centers 21 (policy)
+- **Temporal:** 2025-12-17
+- **Sources:** src_001
 
 > The National Kidney Foundation requires living donors to be at least 18 years old, though some transplant centers set the minimum at 21.
 
@@ -257,10 +291,5 @@ Becca Brown, director of transplant services at UPMC-Harrisburg, said she sees b
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Mark Scolforo
 **Publication date:** 2025-12-17
-**Access date:** 2025-12-17
 **Title:** Social media is being harnessed to help people find living kidney donors
 **URL:** https://apnews.com/article/social-media-kidney-living-donors-transplant-advocates-f2c10cf031db1b61cfc886de994b9f58
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

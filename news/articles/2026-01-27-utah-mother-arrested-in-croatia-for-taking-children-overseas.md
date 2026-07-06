@@ -14,42 +14,40 @@ primary_themes:
 - international_child_removal
 - law_enforcement
 topic_tags:
-  - "crime, law and justice"
-  - "international relations"
-  - "law enforcement"
-  - politics
-storyline_nexus: []
-geographic_location: Utah, USA; Croatia
+- crime
+- family
+- law enforcement
+- international law
+- belief systems
+storyline_nexus:
+- us-immigration-enforcement
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
-  intensity: 0.85
-- value: accountability_of_power
-  intensity: 0.65
-- value: informed_citizenship
-  intensity: 0.7
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+  intensity: 0.9
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:25:47Z'
 source_cluster_id: cluster_ap_2026-01-28_utah-four-children-elleshia-seymour-tikt
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 10
   hedges:
-    appears: 0
-    alleged: 1
-    attributed: 2
-    reported: 5
     contested: 0
+    alleged: 1
+    appears: 0
+    reported: 5
     confirmed: 2
+    attributed: 2
   corroboration:
-    primary_plus_secondary: 4
-    one_originating_plus_primary_document: 0
-    primary_document: 6
-    single_source: 0
     two_independent: 0
+    one_originating_plus_primary_document: 0
+    primary_plus_secondary: 4
+    single_source: 0
+    primary_document: 6
 sources:
   count: 1
   outlets:
@@ -66,6 +64,13 @@ figures_aggregate:
 cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- A Utah woman who believed in apocalyptic "end times" has been arrested in Croatia for taking her four young children overseas in violation of a custody order, authorities said Tuesday.
+- The case highlights the complications of international custody enforcement and child welfare protection.
+- The children are being held in foster custody in Croatia while their father works to bring them home, and Salt Lake County authorities are exploring extradition options.
 
 A Utah woman who believed in apocalyptic "end times" has been arrested in Croatia for taking her four young children overseas in violation of a custody order, authorities said Tuesday. Elleshia Seymour, 35, was arrested Jan. 16 after fleeing the U.S. in late November with her children despite not having custody entitlement. Salt Lake County charged her in December with four counts of custodial interference.
 
@@ -91,97 +96,115 @@ Seymour is being held in Croatian custody on suspicion of violating children's r
 
 Seymour divorced Kendall Seymour in 2021 and the father of her youngest child in 2024, according to court documents. Kendall Seymour has power of attorney for the child who is not his biological child.
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
-### c_001 — reported, primary plus secondary
-**Subject entities:** Elleshia Seymour
-**Predicate:** arrested
-**Object:** Jan. 16, 2026, in Croatia (event)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** Elleshia Seymour
+- **Predicate:** arrested
+- **Object:** Jan. 16, 2026, in Croatia (event)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > Elleshia Seymour, 35, was arrested in Croatia on Jan. 16, 2026.
 
-### c_002 — confirmed, primary document
-**Subject entities:** Elleshia Seymour
-**Predicate:** charged
-**Object:** four counts of custodial interference (charge)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Elleshia Seymour
+- **Predicate:** charged
+- **Object:** four counts of custodial interference (charge)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > Seymour was charged in December with four counts of custodial interference.
 
-### c_003 — alleged, primary plus secondary
-**Subject entities:** Elleshia Seymour; children
-**Predicate:** took_overseas
-**Object:** four children, without custody entitlement, overseas (action)
-**Temporal:** 2025-11-29
-**Source IDs:** src_001
+### c_003
+- **Hedge:** alleged
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** Elleshia Seymour; children
+- **Predicate:** took_overseas
+- **Object:** four children, without custody entitlement, overseas (action)
+- **Temporal:** 2025-11-29
+- **Sources:** src_001
 
 > Seymour is accused of taking four children overseas in violation of a custody order.
 
-### c_004 — confirmed, primary document
-**Subject entities:** Elleshia Seymour; children
-**Predicate:** departed
-**Object:** one-way flight to Europe, Nov. 29 (event)
-**Temporal:** 2025-11-29
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Elleshia Seymour; children
+- **Predicate:** departed
+- **Object:** one-way flight to Europe, Nov. 29 (event)
+- **Temporal:** 2025-11-29
+- **Sources:** src_001
 
 > The family departed the U.S. on Nov. 29, boarding a one-way flight to Europe.
 
-### c_005 — attributed, primary plus secondary
-**Subject entities:** Elleshia Seymour
-**Predicate:** posted
-**Object:** TikTok videos on apocalyptic themes (content)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** Elleshia Seymour
+- **Predicate:** posted
+- **Object:** TikTok videos on apocalyptic themes (content)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Seymour posted videos on TikTok describing apocalyptic dreams and 'end of times' beliefs.
 
-### c_006 — reported, primary plus secondary
-**Subject entities:** children
-**Predicate:** held
-**Object:** foster custody, Croatia (status)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** children
+- **Predicate:** held
+- **Object:** foster custody, Croatia (status)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > The children, ages 11, 8, 7, and 3, are being held in foster custody in Croatia.
 
-### c_007 — attributed, primary document
-**Subject entities:** child
-**Predicate:** reported
-**Object:** told host family to search online; led to Jan. 16 discovery (action)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** child
+- **Predicate:** reported
+- **Object:** told host family to search online; led to Jan. 16 discovery (action)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > One of the children told the host family to search for the family online, leading to their discovery.
 
-### c_008 — reported, primary document
-**Subject entities:** Kendall Seymour
-**Predicate:** visiting_and_processing
-**Object:** in Croatia, visiting children, completing paperwork for return (action)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Kendall Seymour
+- **Predicate:** visiting_and_processing
+- **Object:** in Croatia, visiting children, completing paperwork for return (action)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Kendall Seymour, the father of three of the children, is currently in Croatia visiting them and completing paperwork to bring them home.
 
-### c_009 — reported, primary document
-**Subject entities:** Sam Gill; Salt Lake County
-**Predicate:** exploring
-**Object:** extradition options with federal partners (action)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Sam Gill; Salt Lake County
+- **Predicate:** exploring
+- **Object:** extradition options with federal partners (action)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Salt Lake County District Attorney Sam Gill said his office is exploring extradition options with federal partners.
 
-### c_010 — reported, primary document
-**Subject entities:** Elleshia Seymour
-**Predicate:** discussed
-**Object:** obtaining passports, leaving country, biblical concerns (statement)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Elleshia Seymour
+- **Predicate:** discussed
+- **Object:** obtaining passports, leaving country, biblical concerns (statement)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > A former boyfriend told police Seymour had discussed obtaining passports and leaving the country, expressing concerns about biblical 'end of times' events.
 
@@ -190,10 +213,5 @@ This article was generated algorithmically by Main Street Independent's News Art
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Mead Gruver
 **Publication date:** 2026-01-27
-**Access date:** 2026-01-27
 **Title:** Utah mom with 'end of times' beliefs is arrested over taking kids abroad
 **URL:** https://apnews.com/article/utah-four-children-elleshia-seymour-tiktok-croatia-7f89a2ee63036891b00b2c95da33c829
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

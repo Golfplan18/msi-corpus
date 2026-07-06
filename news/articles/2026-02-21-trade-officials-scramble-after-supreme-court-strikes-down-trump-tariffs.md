@@ -25,10 +25,7 @@ topic_tags:
   - "science and technology"
   - "artificial intelligence"
 storyline_nexus:
-  - immigration-enforcement
-  - us-administration-2026
-  - trump-tariff-policy
-  - us-china-relations
+- trump-tariff-wars
 geographic_location: International; South Korea, France, Mexico, Germany, Switzerland
 floor_values_engaged:
 - value: accountability_of_power
@@ -301,7 +298,3 @@ The Supreme Court decision marked the latest swing in volatile tariff policy sin
 **Access date:** 2026-02-21
 **Title:** Trade officials weigh fallout after US Supreme Court tariff ruling
 **URL:** https://apnews.com/article/trump-tariffs-court-france-korea-mexico-5269dba3c94ef58e57ff533a7527a74d
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

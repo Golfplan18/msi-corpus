@@ -13,11 +13,11 @@ primary_themes:
 - travel_disruption
 - economic_impact
 topic_tags:
-  - "disaster, accident and emergency incident"
-  - "human interest"
-  - weather
+- disaster, accident and emergency incident
+- human interest
+- weather
 storyline_nexus:
-  - winter-storm-2026
+- extreme-weather-disasters
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship
@@ -60,23 +60,7 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-07-winter-storm-strands-more-than-1-000-at-amsterdam-s-schiphol-grounds-800-flights
-  relation: related
-  strength: 0.9094
-  confidence: medium
-- slug: 2026-01-13-freezing-rain-halts-flights-at-vienna-budapest-prague-and-bratislava-airports
-  relation: related
-  strength: 0.8484
-  confidence: medium
-- slug: 2026-01-06-snow-and-ice-kill-at-least-6-across-europe-grounding-600-schiphol-flights
-  relation: related
-  strength: 0.875
-  confidence: medium
-- slug: 2026-01-11-severe-cold-strands-thousands-of-tourists-at-kittil-airport-as-europe-deep-freez
-  relation: related
-  strength: 0.8431
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
 
@@ -110,156 +94,190 @@ For some travelers, the disruption brought unexpected benefit. Allan Lengel, a 7
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** US flight network
-**Predicate:** canceled
-**Object:** 11400 (flight_count)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** US flight network
+- **Predicate:** canceled
+- **Object:** 11400 (flight_count)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > More than 11,400 flights were canceled on Sunday.
 
-### c_002 — attributed, single source
-**Subject entities:** winter storm
-**Predicate:** threatened
-**Object:** 180 million (population_threatened)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** winter storm
+- **Predicate:** threatened
+- **Object:** 180 million (population_threatened)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > The winter storm threatened nearly 180 million people — more than half the U.S. population.
 
-### c_003 — reported, single source
-**Subject entities:** winter storm
-**Predicate:** expected_to_dump
-**Object:** 1-2 feet (snowfall_depth)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** winter storm
+- **Predicate:** expected_to_dump
+- **Object:** 1-2 feet (snowfall_depth)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > The storm was expected to dump 1 to 2 feet of snow from Washington through New York and Boston.
 
-### c_004 — attributed, single source
-**Subject entities:** LaGuardia Airport
-**Predicate:** closed
-**Object:** Sunday afternoon (closure_time)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** LaGuardia Airport
+- **Predicate:** closed
+- **Object:** Sunday afternoon (closure_time)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > LaGuardia Airport in New York closed Sunday afternoon.
 
-### c_005 — attributed, single source
-**Subject entities:** Philadelphia International Airport
-**Predicate:** canceled_flights
-**Object:** 94% (cancellation_rate)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Philadelphia International Airport
+- **Predicate:** canceled_flights
+- **Object:** 94% (cancellation_rate)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > In Philadelphia, 94% of 326 flights were canceled.
 
-### c_006 — attributed, single source
-**Subject entities:** LaGuardia Airport
-**Predicate:** canceled_flights
-**Object:** 91% (cancellation_rate)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** LaGuardia Airport
+- **Predicate:** canceled_flights
+- **Object:** 91% (cancellation_rate)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > At LaGuardia Airport, 91% of 436 flights were canceled.
 
-### c_007 — attributed, single source
-**Subject entities:** John F. Kennedy International Airport
-**Predicate:** canceled_flights
-**Object:** 80% (cancellation_rate)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** John F. Kennedy International Airport
+- **Predicate:** canceled_flights
+- **Object:** 80% (cancellation_rate)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > At JFK, 466 flights were canceled, about 80% of flights.
 
-### c_008 — attributed, single source
-**Subject entities:** Ronald Reagan Washington National Airport
-**Predicate:** canceled_flights
-**Object:** 421 (flight_count)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ronald Reagan Washington National Airport
+- **Predicate:** canceled_flights
+- **Object:** 421 (flight_count)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > Ronald Reagan Washington National Airport canceled all departing flights for the day — about 421 flights.
 
-### c_009 — attributed, single source
-**Subject entities:** American Airlines
-**Predicate:** canceled_flights
-**Object:** 55% (cancellation_rate)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** American Airlines
+- **Predicate:** canceled_flights
+- **Object:** 55% (cancellation_rate)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > American Airlines canceled over 1,790 flights, about 55% of its scheduled flights for Sunday.
 
-### c_010 — attributed, single source
-**Subject entities:** Delta Air Lines
-**Predicate:** canceled_flights
-**Object:** 1470 (flight_count)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Delta Air Lines
+- **Predicate:** canceled_flights
+- **Object:** 1470 (flight_count)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > Delta Air Lines reported over 1,470 cancellations for Sunday.
 
-### c_011 — attributed, single source
-**Subject entities:** Southwest Airlines
-**Predicate:** canceled_flights
-**Object:** 1340 (flight_count)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Southwest Airlines
+- **Predicate:** canceled_flights
+- **Object:** 1340 (flight_count)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > Southwest Airlines reported over 1,340 cancellations for Sunday.
 
-### c_012 — attributed, single source
-**Subject entities:** United Airlines
-**Predicate:** canceled_flights
-**Object:** 1016 (flight_count)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** United Airlines
+- **Predicate:** canceled_flights
+- **Object:** 1016 (flight_count)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > United Airlines had about 1,016 cancellations for Sunday.
 
-### c_013 — attributed, single source
-**Subject entities:** JetBlue
-**Predicate:** canceled_flights
-**Object:** 72% (cancellation_rate)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** JetBlue
+- **Predicate:** canceled_flights
+- **Object:** 72% (cancellation_rate)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > JetBlue had more than 590 canceled flights, accounting for roughly 72% of its schedule for the day.
 
-### c_014 — attributed, single source
-**Subject entities:** Cirium
-**Predicate:** assessed
-**Object:** highest since pandemic (superlative_assessment)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Cirium
+- **Predicate:** assessed
+- **Object:** highest since pandemic (superlative_assessment)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > The cancellations represented the highest experienced cancellation event since the pandemic, according to aviation analytics firm Cirium.
 
-### c_015 — attributed, single source
-**Subject entities:** Vikrant Vaze
-**Predicate:** said
-**Object:** recovery takes days or longer (expert_assessment)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Vikrant Vaze
+- **Predicate:** said
+- **Object:** recovery takes days or longer (expert_assessment)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > Vikrant Vaze, a Dartmouth professor specializing in commercial aviation logistics, said recovery from storm cancellations will take days if not longer.
 
-### c_016 — confirmed, primary document
-**Subject entities:** airlines; passengers
-**Predicate:** required_to_refund
-**Object:** full refund (legal_requirement)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_016
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** airlines; passengers
+- **Predicate:** required_to_refund
+- **Object:** full refund (legal_requirement)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > Airlines are required by law to refund passengers whose flights are canceled, even if the ticket was non-refundable.
 
-### c_017 — attributed, single source
-**Subject entities:** Allan Lengel
-**Predicate:** changed_travel_plans
-**Object:** extended stay (passenger_action)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_017
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Allan Lengel
+- **Predicate:** changed_travel_plans
+- **Object:** extended stay (passenger_action)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > Allan Lengel, 71, of Detroit planned to return Monday from Fort Lauderdale but changed his reservation to Wednesday after Delta suggested the change due to weather impacts.
 
@@ -271,7 +289,3 @@ For some travelers, the disruption brought unexpected benefit. Allan Lengel, a 7
 **Access date:** 2026-05-18
 **Title:** Massive winter storm threatens widespread US flight disruptions
 **URL:** https://apnews.com/article/flight-cancellations-winter-storm-871ea9cf98ec399bce4dccf0cffa2c01
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

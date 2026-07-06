@@ -216,7 +216,3 @@ Two fawn-colored pugs—his beloved companions—sat on either side of his coffi
 **Access date:** 2026-05-18
 **Title:** Rome pays its last respects to fashion great Valentino
 **URL:** https://apnews.com/article/rome-valentino-death-public-viewing-spanish-steps-632c402b9c9214406ded5f70d2c200bd
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

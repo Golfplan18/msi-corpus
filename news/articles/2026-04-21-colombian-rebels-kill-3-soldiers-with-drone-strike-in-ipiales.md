@@ -79,8 +79,6 @@ The scale of the threat has intensified significantly. Colombia's defense minist
 
 Colombia's army said it will continue operations in the area and intensify its offensive to locate and neutralize those responsible. President Petro issued an economic emergency decree in December aimed at raising taxes to allocate $700 million for equipment to enable the military to counter drone attacks. Colombia's Constitutional Court struck down the decree, ruling that it violated the conditions required for the president to raise taxes without congressional approval.
 
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework. The framework specification is available at /methodology.*
-
 ## Atomic claims
 
 ### c_001 — reported, single source
@@ -172,7 +170,3 @@ Colombia's army said it will continue operations in the area and intensify its o
 **Access date:** 2026-05-17
 **Title:** Colombian rebels' drone attack kills 3 soldiers
 **URL:** https://apnews.com/article/colombian-soldiers-drone-attack-98c4ad157ef5af342f9f3a56097f5b78
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

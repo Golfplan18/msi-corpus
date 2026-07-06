@@ -17,37 +17,41 @@ primary_themes:
 - Tuition increases
 - State budgets
 topic_tags:
-  - education
-storyline_nexus: []
-geographic_location: Nevada, United States
+- higher education
+- education policy
+- economy, business and finance
+- government policy
+storyline_nexus:
+- housing-affordability-crisis
+geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
+- value: accountability_of_power
   intensity: 0.9
 - value: equality_fairness
-  intensity: 0.8
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:33:16Z'
 source_cluster_id: cluster_ap_2026-01-28_education-costs-colleges-and-universitie
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 18
   hedges:
-    appears: 0
-    alleged: 0
     attributed: 11
+    confirmed: 2
+    appears: 0
     reported: 5
     contested: 0
-    confirmed: 2
+    alleged: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 18
-    single_source: 0
+    one_originating_plus_primary_document: 0
+    primary_plus_secondary: 0
     two_independent: 0
+    single_source: 0
 sources:
   count: 1
   outlets:
@@ -61,13 +65,20 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-13-arizona-state-museum-charts-three-building-path-as-regents-stall-50m-repair-requ
-  relation: related
-  strength: 0.6985
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- ‘One of the most difficult decisions’: Nevada’s higher ed leaders lament tuition increase
+- The regents voted 8 to 5 in favor of the proposal. The hikes will take effect over the next three years and will cover a systemwide annual budgetary shortfall of $46.5 million.
+- “We don’t make this recommendation lightly,” System Chancellor Matt McNair said, “but this is the best we can do in terms of balancing value and affordability.”
+- Regents were also presented with scaled-back options, including delaying the hike to fall 2027 or reducing the percent increase.
+- Regent Jeffrey Downs, who voted against the tuition hike, said he was “disturbed” by system leaders’ arguments that the alternative plans required cutting academic programming.
+- At UNR and UNLV, undergraduate students from Nevada will need to pay an extra $1,200 annually. Out-of-state undergraduate students will pay an extra $3,800 annually.
 
 The vote marks a critical point for Nevada's higher education system as officials balance persistent budget shortfalls against mounting student concerns about affordability.
 
@@ -101,181 +112,210 @@ The situation is particularly acute for UNR, which will face a $2 million fundin
 
 Regent Carol Del Carlo, who voted in favor of the increase, acknowledged the difficulty of the decision. "This is probably going to be one of the most difficult decisions I've made, going into my 10th year on this board," she said. Del Carlo suggested the higher education system needed to rethink its long-term budgeting strategy. "We have to bring in an outside consultant to really do a shakedown on this," she said.
 
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework. For methodology, see /methodology.*
-
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Nevada regents
-**Predicate:** voted
-**Object:** 8-5 approval of 9-12% tuition increase (vote_result)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Nevada regents
+- **Predicate:** voted
+- **Object:** 8-5 approval of 9-12% tuition increase (vote_result)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > Nevada regents voted 8 to 5 to approve a tuition increase of between 9 and 12 percent across eight public higher education institutions.
 
-### c_002 — attributed, primary document
-**Subject entities:** Nevada System of Higher Education
-**Predicate:** covers
-**Object:** $46.5 million shortfall over three years (monetary_amount)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Nevada System of Higher Education
+- **Predicate:** covers
+- **Object:** $46.5 million shortfall over three years (monetary_amount)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > The tuition increase will take effect over three years and cover a $46.5 million systemwide budgetary shortfall.
 
-### c_003 — reported, primary document
-**Subject entities:** UNR; UNLV
-**Predicate:** will_increase_tuition
-**Object:** $1,200 for Nevada residents, $3,800 for out-of-state (monetary_amount)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** UNR; UNLV
+- **Predicate:** will_increase_tuition
+- **Object:** $1,200 for Nevada residents, $3,800 for out-of-state (monetary_amount)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > At UNR and UNLV, Nevada undergraduate students will pay an additional $1,200 annually and out-of-state undergraduates will pay an additional $3,800 annually.
 
-### c_004 — attributed, primary document
-**Subject entities:** Nevada System of Higher Education; faculty cost-of-living payments
-**Predicate:** covers
-**Object:** cost-of-living adjustments 2023-2024 (policy_rationale)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Nevada System of Higher Education; faculty cost-of-living payments
+- **Predicate:** covers
+- **Object:** cost-of-living adjustments 2023-2024 (policy_rationale)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > The tuition increase is intended in part to cover historic increases in faculty cost-of-living payments authorized in 2023 and 2024.
 
-### c_005 — reported, primary document
-**Subject entities:** Nevada System of Higher Education
-**Predicate:** meant_to_keep_pace
-**Object:** 12.6% hike phased over three years (percentage_increase)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Nevada System of Higher Education
+- **Predicate:** meant_to_keep_pace
+- **Object:** 12.6% hike phased over three years (percentage_increase)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > An existing 12.6 percent tuition hike, phased in over three years, is meant to help Nevada's higher education system keep pace with inflation.
 
-### c_006 — attributed, primary document
-**Subject entities:** Nevada four-year universities
-**Predicate:** have
-**Object:** second-lowest net tuition nationwide (ranking)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Nevada four-year universities
+- **Predicate:** have
+- **Object:** second-lowest net tuition nationwide (ranking)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Students at Nevada's four-year universities currently have the second-lowest net tuition amounts nationwide.
 
-### c_007 — attributed, primary document
-**Subject entities:** Nevada universities
-**Predicate:** will_rank
-**Object:** 3rd-5th in net tuition after scholarships and aid (ranking)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Nevada universities
+- **Predicate:** will_rank
+- **Object:** 3rd-5th in net tuition after scholarships and aid (ranking)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > After the tuition increase, Nevada will rank somewhere between third and fifth in net tuition, or the average amount students pay after scholarships and financial aid.
 
-### c_008 — attributed, primary document
-**Subject entities:** Matt McNair
-**Predicate:** said
-**Object:** best option for balancing value and affordability (speech_act)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Matt McNair
+- **Predicate:** said
+- **Object:** best option for balancing value and affordability (speech_act)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Nevada System Chancellor Matt McNair said the tuition increase is the best option for balancing value and affordability.
 
-### c_009 — attributed, primary document
-**Subject entities:** Jeffrey Downs
-**Predicate:** argued
-**Object:** cut executive salaries instead of tuition increase (policy_proposal)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Jeffrey Downs
+- **Predicate:** argued
+- **Object:** cut executive salaries instead of tuition increase (policy_proposal)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Regent Jeffrey Downs, who voted against the tuition hike, argued that the system could reduce costs by cutting executive salaries rather than student revenue-generating programs.
 
-### c_010 — attributed, primary document
-**Subject entities:** Stephanie Flores
-**Predicate:** said
-**Object:** make higher education feel out of reach (speech_act)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Stephanie Flores
+- **Predicate:** said
+- **Object:** make higher education feel out of reach (speech_act)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Nevada State University student Stephanie Flores said the increase will make higher education feel out of reach for many families.
 
-### c_011 — attributed, primary document
-**Subject entities:** Andrew Cirincione
-**Predicate:** said
-**Object:** students bearing burden of government's unbalanced budget (speech_act)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Andrew Cirincione
+- **Predicate:** said
+- **Object:** students bearing burden of government's unbalanced budget (speech_act)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > UNR College Democrats president Andrew Cirincione said students are bearing the burden of elected leaders' budgetary decisions at a time of uncertainty in higher education.
 
-### c_012 — attributed, primary document
-**Subject entities:** Staci Walters
-**Predicate:** said
-**Object:** faculty blamed without raises despite decade without COLA (speech_act)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Staci Walters
+- **Predicate:** said
+- **Object:** faculty blamed without raises despite decade without COLA (speech_act)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Staci Walters, president of Nevada's higher education faculty union, said that faculty are often blamed for budget shortfalls despite not having received a cost-of-living adjustment in more than a decade.
 
-### c_013 — reported, primary document
-**Subject entities:** Nevada higher education; federal grants
-**Predicate:** may_persist
-**Object:** inflation and federal grant pauses (causal_claim)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_013
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Nevada higher education; federal grants
+- **Predicate:** may_persist
+- **Object:** inflation and federal grant pauses (causal_claim)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Financial issues facing Nevada's higher education system may persist due to accelerating inflation and Trump administration pauses on some federal grants.
 
-### c_014 — reported, primary document
-**Subject entities:** Nevada state lawmakers
-**Predicate:** approved
-**Object:** $60 million bridge funding (monetary_amount)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_014
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Nevada state lawmakers
+- **Predicate:** approved
+- **Object:** $60 million bridge funding (monetary_amount)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > State lawmakers approved nearly $60 million in bridge funding to cover a portion of faculty cost-of-living adjustments.
 
-### c_015 — confirmed, primary document
-**Subject entities:** bridge funding
-**Predicate:** expires
-**Object:** fiscal year 2028 (temporal)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_015
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** bridge funding
+- **Predicate:** expires
+- **Object:** fiscal year 2028 (temporal)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > The bridge funding expires in fiscal year 2028.
 
-### c_016 — reported, primary document
-**Subject entities:** UNR
-**Predicate:** will_face
-**Object:** $2 million shortfall in 2028 (monetary_amount)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_016
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** UNR
+- **Predicate:** will_face
+- **Object:** $2 million shortfall in 2028 (monetary_amount)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > UNR will face a $2 million funding shortfall in 2028 when the bridge funding expires.
 
-### c_017 — attributed, primary document
-**Subject entities:** Carol Del Carlo
-**Predicate:** said
-**Object:** one of most difficult decisions in 10 years on board (speech_act)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_017
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Carol Del Carlo
+- **Predicate:** said
+- **Object:** one of most difficult decisions in 10 years on board (speech_act)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Regent Carol Del Carlo said the tuition increase was one of the most difficult decisions she has made in her 10 years on the board.
 
-### c_018 — attributed, primary document
-**Subject entities:** Carol Del Carlo
-**Predicate:** suggested
-**Object:** bring in outside consultant for budgetary review (policy_proposal)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_018
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Carol Del Carlo
+- **Predicate:** suggested
+- **Object:** bring in outside consultant for budgetary review (policy_proposal)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Regent Carol Del Carlo suggested that the higher education system needed to bring in an outside consultant to conduct a comprehensive budgetary review.
 
 ## Sources
 
 ### src_001 — Associated Press, wire, Tier 1, originating
-**Author:** Kate Reynolds
+**Author:** Kate Reynolds / The Nevada Independent
 **Publication date:** 2026-01-27
-**Access date:** 2026-01-27
-**Title:** 'One of the most difficult decisions': Nevada's higher ed leaders lament tuition increase
+**Title:** ‘One of the most difficult decisions’: Nevada’s higher ed leaders lament tuition increase
 **URL:** https://apnews.com/article/education-costs-colleges-and-universities-nevada-inflation-education-funding-1b3ff2d095eb475159361805ccec30aa
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

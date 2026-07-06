@@ -13,39 +13,44 @@ primary_themes:
 - state budget and fiscal policy
 - education regulation
 topic_tags:
-  - education
-storyline_nexus: []
-geographic_location: California, United States
+- education
+- higher education
+- government policy
+- education policy
+- government
+storyline_nexus:
+- lgbtq-rights-restrictions
+geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.85
 - value: equality_fairness
-  intensity: 0.75
+  intensity: 0.6
 - value: accountability_of_power
-  intensity: 0.65
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+  intensity: 0.6
+- value: informed_citizenship
+  intensity: 0.3
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:25:53Z'
 source_cluster_id: cluster_ap_2026-01-29_colleges-and-universities-gavin-newsom-c
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 12
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 1
-    reported: 8
-    contested: 0
     confirmed: 3
+    contested: 0
+    appears: 0
+    attributed: 1
+    alleged: 0
+    reported: 8
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 12
-    single_source: 0
     two_independent: 0
+    primary_plus_secondary: 0
+    single_source: 0
+    primary_document: 12
+    one_originating_plus_primary_document: 0
 sources:
   count: 1
   outlets:
@@ -59,41 +64,16 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-04-18-states-pass-laws-honoring-charlie-kirk-stirring-debate-on-religion-and-speech
-  relation: related
-  strength: 0.7523
-  confidence: medium
-- slug: 2026-04-17-tennessee-senate-votes-18-14-to-expand-school-vouchers-to-35-000
-  relation: related
-  strength: 0.7433
-  confidence: medium
-- slug: 2026-05-17-eight-gop-governors-push-turning-point-clubs-into-all-public-high-schools
-  relation: related
-  strength: 0.7324
-  confidence: medium
-- slug: 2026-04-19-trump-opposes-state-ai-regulations-but-republican-lawmakers-push-back
-  relation: related
-  strength: 0.6927
-  confidence: medium
-- slug: 2026-04-15-maine-legislature-approves-nation-s-first-statewide-data-center-moratorium-bill
-  relation: related
-  strength: 0.6805
-  confidence: medium
-- slug: 2026-04-20-mississippi-law-school-mandates-ai-education-for-all-students
-  relation: related
-  strength: 0.6744
-  confidence: medium
-- slug: 2026-04-20-wyoming-governor-directs-state-funding-for-summer-meal-assistance
-  relation: related
-  strength: 0.6728
-  confidence: medium
-- slug: 2026-01-07-education-dept-grants-iowa-first-in-nation-block-grant-waiver-for-school-funds
-  relation: related
-  strength: 0.7202
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- California lawmakers advanced Assembly Bill 664 on Jan.
+- The bill intensifies a dispute over a 2021 law that permits 30 bachelor's degrees per year at community colleges only when they do not duplicate UC and CSU programs.
+- Lawmakers and community colleges argue that the state is too large and geographically dispersed to restrict four-year degrees to traditional universities, while the public university systems fear revenue loss and program erosion.
 
 California lawmakers advanced Assembly Bill 664 on Jan. 26, clearing the state Assembly with a 69-1 vote. The measure would allow community colleges to offer more bachelor's degrees, setting up another clash with Gov. Gavin Newsom, who has vetoed three similar bills in the past two years despite supporting increased access to four-year degrees.
 
@@ -141,123 +121,142 @@ Despite their opposing views on solutions, Alvarez and Oakley agree on one point
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Assembly Bill 664; California Assembly
-**Predicate:** cleared_with_vote
-**Object:** 69-1 vote (legislative_tally)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Assembly Bill 664; California Assembly
+- **Predicate:** cleared_with_vote
+- **Object:** 69-1 vote (legislative_tally)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > Assembly Bill 664 cleared the California Assembly on Jan. 26, 2026, with a 69-1 vote.
 
-### c_002 — reported, primary document
-**Subject entities:** Gavin Newsom
-**Predicate:** vetoed
-**Object:** three bachelor's degree bills (legislative_action)
-**Temporal:** 2024-2026
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Gavin Newsom
+- **Predicate:** vetoed
+- **Object:** three bachelor's degree bills (legislative_action)
+- **Temporal:** 2024-2026
+- **Sources:** src_001
 
 > Gov. Gavin Newsom has vetoed three bills allowing community colleges to award bachelor's degrees in the past two years.
 
-### c_003 — confirmed, primary document
-**Subject entities:** California legislature
-**Predicate:** enacted
-**Object:** law allowing 30 bachelor's degrees per year with duplication restrictions (legislation)
-**Temporal:** 2021
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** California legislature
+- **Predicate:** enacted
+- **Object:** law allowing 30 bachelor's degrees per year with duplication restrictions (legislation)
+- **Temporal:** 2021
+- **Sources:** src_001
 
 > A 2021 California law permits community colleges to develop up to 30 bachelor's degrees per academic year, provided the degrees do not duplicate UC and CSU programs.
 
-### c_004 — confirmed, primary document
-**Subject entities:** David Alvarez
-**Predicate:** authored
-**Object:** Assembly Bill 664 (legislation)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** David Alvarez
+- **Predicate:** authored
+- **Object:** Assembly Bill 664 (legislation)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Assemblymember David Alvarez, a Democrat from Chula Vista, authored Assembly Bill 664.
 
-### c_005 — reported, primary document
-**Subject entities:** Assembly Bill 664; Southwestern College
-**Predicate:** would_permit
-**Object:** four bachelor's programs in applied disciplines (policy)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Assembly Bill 664; Southwestern College
+- **Predicate:** would_permit
+- **Object:** four bachelor's programs in applied disciplines (policy)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Alvarez's bill would allow Southwestern College to create up to four additional bachelor's programs in applied disciplines.
 
-### c_006 — reported, primary document
-**Subject entities:** University of California; California State University
-**Predicate:** oppose
-**Object:** Assembly Bill 664 (legislation)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** University of California; California State University
+- **Predicate:** oppose
+- **Object:** Assembly Bill 664 (legislation)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Both UC and California State University oppose Assembly Bill 664.
 
-### c_007 — reported, primary document
-**Subject entities:** California community colleges; California State University
-**Predicate:** submitted_and_disputed
-**Object:** 52 submitted, 16 pending, 7 resolved (approval_count)
-**Temporal:** 2021-2025
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** California community colleges; California State University
+- **Predicate:** submitted_and_disputed
+- **Object:** 52 submitted, 16 pending, 7 resolved (approval_count)
+- **Temporal:** 2021-2025
+- **Sources:** src_001
 
 > Community colleges submitted 52 bachelor's programs for approval since the 2021 law; 16 remain pending due to Cal State duplication concerns.
 
-### c_008 — reported, primary document
-**Subject entities:** California community colleges; UC; CSU
-**Predicate:** confer_degrees
-**Object:** 300 vs. 160,000 annually (enrollment_count)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** California community colleges; UC; CSU
+- **Predicate:** confer_degrees
+- **Object:** 300 vs. 160,000 annually (enrollment_count)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Approximately 300 students earn bachelor's degrees at California community colleges annually, compared to around 160,000 at UC and CSU combined.
 
-### c_009 — reported, primary document
-**Subject entities:** community college bachelor's degrees
-**Predicate:** cost
-**Object:** $10,000 for four years (cost_metric)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** community college bachelor's degrees
+- **Predicate:** cost
+- **Object:** $10,000 for four years (cost_metric)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Community college bachelor's degrees cost approximately $10,000 for four years.
 
-### c_010 — reported, primary document
-**Subject entities:** California community colleges
-**Predicate:** located_distant_from
-**Object:** 29 of 116 colleges, 25+ miles from public university (geographic_distribution)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** California community colleges
+- **Predicate:** located_distant_from
+- **Object:** 29 of 116 colleges, 25+ miles from public university (geographic_distribution)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Twenty-nine of California's 116 community colleges are at least 25 miles from a public university.
 
-### c_011 — attributed, primary document
-**Subject entities:** Eloy Ortiz Oakley
-**Predicate:** opposes
-**Object:** community college bachelor's degree programs (policy_position)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Eloy Ortiz Oakley
+- **Predicate:** opposes
+- **Object:** community college bachelor's degree programs (policy_position)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Eloy Ortiz Oakley, former chancellor of the California Community Colleges system, opposes community college bachelor's degree programs.
 
-### c_012 — reported, primary document
-**Subject entities:** California legislature
-**Predicate:** has_deadline
-**Object:** Aug. 31, 2026 (deadline)
-**Temporal:** 2026-08-31
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** California legislature
+- **Predicate:** has_deadline
+- **Object:** Aug. 31, 2026 (deadline)
+- **Temporal:** 2026-08-31
+- **Sources:** src_001
 
 > Lawmakers will have until Aug. 31 to send the bill to the governor.
 
 ## Sources
 
 ### src_001 — Associated Press, wire, Tier 1, originating
-**Author:** Mikhail Zinshteyn
+**Author:** Mikhail Zinshteyn / Calmatters
 **Publication date:** 2026-01-28
-**Access date:** 2026-01-28
-**Title:** Bachelor's degrees at community colleges: Lawmakers say yes, UC and CSU say slow down
+**Title:** Bachelor’s degrees at community colleges: Lawmakers say yes, UC and CSU say slow down
 **URL:** https://apnews.com/article/colleges-and-universities-gavin-newsom-california-general-news-84dbf6e2662cb479d03dec1676de9a6c
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -15,42 +15,42 @@ primary_themes:
 - adult_survivors_act
 - legal_settlement
 topic_tags:
-  - "crime, law and justice"
+- crime, law and justice
+- music
+- civil rights
 storyline_nexus:
-  - iran-war
-  - humanoid-robotics-industry
-  - russia-ukraine-war
-geographic_location: New York, New York, United States
+- congressional-ethics-misconduct
+geographic_location: United States
 floor_values_engaged:
+- value: human_life_and_dignity
+  intensity: 0.9
 - value: accountability_of_power
   intensity: 0.9
-- value: human_life_and_dignity
-  intensity: 0.85
-- value: informed_citizenship
-  intensity: 0.65
-framework_version: 1.1.0
-generation_timestamp: '2026-05-16T00:00:00Z'
+- value: equality_fairness
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-22T23:57:23Z'
 source_cluster_id: cluster_ap_2026-01-11_la-reid-dawn-dixon-sexual-assault-harass
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 14
   hedges:
-    appears: 0
-    alleged: 3
-    attributed: 2
     reported: 0
-    contested: 0
+    alleged: 3
     confirmed: 9
+    attributed: 2
+    contested: 0
+    appears: 0
   corroboration:
     primary_plus_secondary: 0
+    two_independent: 0
+    single_source: 14
     one_originating_plus_primary_document: 0
     primary_document: 0
-    single_source: 14
-    two_independent: 0
 sources:
   count: 1
   outlets:
@@ -68,21 +68,17 @@ image:
   url: /articles/2026-01-12-l-a-reid-settles-sexual-assault-lawsuit-with-record-executive-drew-dixon.png
   alt: 'Illustration accompanying article: L.A. Reid settles sexual assault lawsuit with record executive Drew Dixon'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-08-weinstein-weighs-guilty-plea-on-rape-charge-ahead-of-new-york-retrial
-  relation: related
-  strength: 0.7689
-  confidence: medium
-- slug: 2026-01-05-former-dances-with-wolves-actor-removed-from-court-ahead-of-sex-abuse-trial
-  relation: related
-  strength: 0.779
-  confidence: medium
-- slug: 2025-12-31-justice-department-reviews-5-2-million-epstein-files-misses-deadline
-  relation: related
-  strength: 0.7147
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Grammy Award-winning music producer Antonio "L.A." Reid settled a sexual assault lawsuit Monday with former record company executive Drew Dixon, who a
+- Additional context from article.
+- Key findings or implications.
 
 Grammy Award-winning music producer Antonio "L.A." Reid settled a sexual assault lawsuit Monday with former record company executive Drew Dixon, who alleged he assaulted her twice in 2001 and undermined her career when she refused his continuing advances. The settlement was reached in New York on the day jury selection was scheduled to begin. Terms were not disclosed.
 
@@ -108,124 +104,152 @@ In a written statement, Dixon said she plans to return to her music career. "Whi
 
 ## Atomic claims
 
-### c_001 — confirmed, single source
-**Subject entities:** Antonio L.A. Reid; Drew Dixon
-**Predicate:** settled_lawsuit
-**Object:** settlement reached (legal_outcome)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Antonio L.A. Reid; Drew Dixon
+- **Predicate:** settled_lawsuit
+- **Object:** settlement reached (legal_outcome)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Antonio 'L.A.' Reid and Drew Dixon reached a settlement on January 12, 2026, in New York.
 
-### c_002 — confirmed, single source
-**Subject entities:** Antonio L.A. Reid; Drew Dixon
-**Predicate:** terms_undisclosed
-**Object:** terms not public (legal_status)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Antonio L.A. Reid; Drew Dixon
+- **Predicate:** terms_undisclosed
+- **Object:** terms not public (legal_status)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > The terms of the settlement were not made public.
 
-### c_003 — alleged, single source
-**Subject entities:** Drew Dixon; Antonio L.A. Reid
-**Predicate:** alleged_sexual_assault
-**Object:** twice in 2001, at Arista Records (allegation)
-**Temporal:** 2001
-**Source IDs:** src_001
+### c_003
+- **Hedge:** alleged
+- **Corroboration:** single_source
+- **Subject entities:** Drew Dixon; Antonio L.A. Reid
+- **Predicate:** alleged_sexual_assault
+- **Object:** twice in 2001, at Arista Records (allegation)
+- **Temporal:** 2001
+- **Sources:** src_001
 
 > Dixon alleged that Reid sexually assaulted her twice in 2001 while he served as chief executive of Arista Records.
 
-### c_004 — alleged, single source
-**Subject entities:** Drew Dixon; Antonio L.A. Reid
-**Predicate:** alleged_professional_retaliation
-**Object:** budget cuts and sidelining of artists (allegation)
-**Temporal:** 2001-2002
-**Source IDs:** src_001
+### c_004
+- **Hedge:** alleged
+- **Corroboration:** single_source
+- **Subject entities:** Drew Dixon; Antonio L.A. Reid
+- **Predicate:** alleged_professional_retaliation
+- **Object:** budget cuts and sidelining of artists (allegation)
+- **Temporal:** 2001-2002
+- **Sources:** src_001
 
 > Dixon alleged Reid cut her budget and sidelined artists when she refused his continuing advances.
 
-### c_005 — confirmed, single source
-**Subject entities:** Drew Dixon
-**Predicate:** left_employer
-**Object:** Arista Records, 2002 (employment_event)
-**Temporal:** 2002
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Drew Dixon
+- **Predicate:** left_employer
+- **Object:** Arista Records, 2002 (employment_event)
+- **Temporal:** 2002
+- **Sources:** src_001
 
 > Dixon left Arista Records in 2002.
 
-### c_006 — confirmed, single source
-**Subject entities:** Drew Dixon; Antonio L.A. Reid
-**Predicate:** filed_lawsuit
-**Object:** 2023, New York Adult Survivors Act (legal_action)
-**Temporal:** 2023
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Drew Dixon; Antonio L.A. Reid
+- **Predicate:** filed_lawsuit
+- **Object:** 2023, New York Adult Survivors Act (legal_action)
+- **Temporal:** 2023
+- **Sources:** src_001
 
 > Dixon sued Reid in 2023 under New York State's Adult Survivors Act.
 
-### c_007 — confirmed, single source
-**Subject entities:** Antonio L.A. Reid
-**Predicate:** career_credential
-**Object:** 10 Grammy nominations, 3 wins (professional_credential)
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Antonio L.A. Reid
+- **Predicate:** career_credential
+- **Object:** 10 Grammy nominations, 3 wins (professional_credential)
+- **Sources:** src_001
 
 > Reid is a 10-time Grammy nominee and three-time winner.
 
-### c_008 — confirmed, single source
-**Subject entities:** Antonio L.A. Reid; Kenneth Babyface Edmonds
-**Predicate:** co_founded
-**Object:** LaFace Records (organization)
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Antonio L.A. Reid; Kenneth Babyface Edmonds
+- **Predicate:** co_founded
+- **Object:** LaFace Records (organization)
+- **Sources:** src_001
 
 > Reid co-founded LaFace Records with Kenneth 'Babyface' Edmonds; the label produced hits for Boyz II Men, Outkast and TLC.
 
-### c_009 — confirmed, single source
-**Subject entities:** Antonio L.A. Reid
-**Predicate:** led_labels
-**Object:** Arista, Island Def Jam, Epic Records (professional_role)
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Antonio L.A. Reid
+- **Predicate:** led_labels
+- **Object:** Arista, Island Def Jam, Epic Records (professional_role)
+- **Sources:** src_001
 
 > Reid later ran Arista, Island Def Jam and Sony's Epic Records.
 
-### c_010 — attributed, single source
-**Subject entities:** Antonio L.A. Reid; Epic Records
-**Predicate:** departed_following_accusation
-**Object:** Epic Records, 2017 (employment_event)
-**Temporal:** 2017
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Antonio L.A. Reid; Epic Records
+- **Predicate:** departed_following_accusation
+- **Object:** Epic Records, 2017 (employment_event)
+- **Temporal:** 2017
+- **Sources:** src_001
 
 > Reid left Epic Records in 2017 after a former female assistant accused him of sexual harassment.
 
-### c_011 — confirmed, single source
-**Subject entities:** Drew Dixon
-**Predicate:** made_public_disclosure
-**Object:** 2017 public disclosure; 2020 documentary On the Record (disclosure)
-**Temporal:** 2017
-**Source IDs:** src_001
+### c_011
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Drew Dixon
+- **Predicate:** made_public_disclosure
+- **Object:** 2017 public disclosure; 2020 documentary On the Record (disclosure)
+- **Temporal:** 2017
+- **Sources:** src_001
 
 > Dixon went public with her allegations in 2017 and detailed them in the 2020 documentary 'On the Record.'
 
-### c_012 — alleged, single source
-**Subject entities:** Drew Dixon; Russell Simmons
-**Predicate:** alleged_rape_denied
-**Object:** rape allegation, denied by Simmons (allegation)
-**Source IDs:** src_001
+### c_012
+- **Hedge:** alleged
+- **Corroboration:** single_source
+- **Subject entities:** Drew Dixon; Russell Simmons
+- **Predicate:** alleged_rape_denied
+- **Object:** rape allegation, denied by Simmons (allegation)
+- **Sources:** src_001
 
 > Dixon has alleged that music entrepreneur Russell Simmons raped her, an allegation Simmons denies.
 
-### c_013 — confirmed, single source
-**Subject entities:** Drew Dixon; Russell Simmons
-**Predicate:** pending_lawsuit
-**Object:** defamation, pending (legal_action)
-**Source IDs:** src_001
+### c_013
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Drew Dixon; Russell Simmons
+- **Predicate:** pending_lawsuit
+- **Object:** defamation, pending (legal_action)
+- **Sources:** src_001
 
 > Dixon has a pending defamation lawsuit against Russell Simmons.
 
-### c_014 — attributed, single source
-**Subject entities:** John Legend; Aku Orraca-Tetteh; Roy Lott
-**Predicate:** scheduled_to_testify
-**Object:** witnesses for Dixon (legal_proceeding)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** John Legend; Aku Orraca-Tetteh; Roy Lott
+- **Predicate:** scheduled_to_testify
+- **Object:** witnesses for Dixon (legal_proceeding)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > John Legend, Aku Orraca-Tetteh and Roy Lott were among witnesses scheduled to testify on Dixon's behalf.
 
@@ -234,10 +258,5 @@ In a written statement, Dixon said she plans to return to her music career. "Whi
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Michael R. Sisak
 **Publication date:** 2026-01-12
-**Access date:** 2026-01-12
 **Title:** Antonio 'L.A.' Reid settles lawsuit with record executive Drew Dixon
 **URL:** https://apnews.com/article/la-reid-dawn-dixon-sexual-assault-harassment-acd04873f5e8de5cc768acdbb87f9b53
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

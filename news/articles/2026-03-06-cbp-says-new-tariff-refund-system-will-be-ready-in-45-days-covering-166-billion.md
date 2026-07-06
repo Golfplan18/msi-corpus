@@ -1,6 +1,5 @@
 ---
 headline: CBP says new tariff refund system will be ready in 45 days, covering $166 billion
-slug: 2026-03-06-cbp-tariff-refund-system-ready-in-45-days-covering-166-billion
 publish_date: '2026-03-06'
 lede: U.S. Customs and Border Protection said Friday it is developing a streamlined process to refund approximately $166 billion in tariffs paid by more than 330,000 importers, with the new system expected to be operational within 45 days. Brandon Lord, executive director of CBP's trade policy and programs directorate, described the plan in a filing with the U.S. Court of International Trade, where Judge Richard Eaton must approve the process before any refunds proceed.
 nut_graf: The filing comes two days after Judge Eaton ordered the government to begin repaying all importers — with interest — following the Supreme Court ruling that struck down sweeping import taxes President Donald Trump imposed under the 1977 International Emergency Economic Powers Act.
@@ -17,42 +16,44 @@ primary_themes:
 - federal courts
 - import enforcement
 topic_tags:
-  - "economy, business and finance"
-  - "government policy"
-  - "international trade"
-  - "politics"
+- international trade
+- tax
+- government policy
+- judiciary
+- economy
 storyline_nexus:
-  - trump-tariff-policy
-  - us-china-relations
+- trump-tariff-wars
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship
-  intensity: 0.85
+  intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.65
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:46:24Z'
+  intensity: 0.6
+- value: equality_fairness
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:56:50Z'
 source_cluster_id: cluster_ap_2026-03-05_tariff-refunds-trump-customs-cpb-cit-1b3
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 7
   hedges:
-    appears: 0
-    alleged: 0
     attributed: 6
     reported: 0
-    contested: 0
     confirmed: 1
+    appears: 0
+    alleged: 0
+    contested: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 1
     single_source: 6
     two_independent: 0
+    primary_plus_secondary: 0
+    primary_document: 1
+    one_originating_plus_primary_document: 0
 sources:
   count: 1
   outlets:
@@ -66,25 +67,17 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-12-carney-visits-beijing-to-rebuild-ties-and-reduce-canada-s-dependence-on-us-trade
-  relation: related
-  strength: 0.7053
-  confidence: medium
-- slug: 2026-01-13-trump-visits-dearborn-ford-plant-defends-tariffs-as-voters-worry-about-rising-pr
-  relation: related
-  strength: 0.7008
-  confidence: medium
-- slug: 2026-01-07-eu-agriculture-ministers-renew-mercosur-trade-push-with-italy-as-linchpin
-  relation: related
-  strength: 0.7071
-  confidence: medium
-- slug: 2026-01-07-china-opens-dumping-probe-into-japanese-semiconductor-chemical-amid-trade-row
-  relation: related
-  strength: 0.6914
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- U.S. Customs and Border Protection said Friday it is developing a streamlined process to refund approximately $166 billion in tariffs pai…
+- The filing comes two days after Judge Eaton ordered the government to begin repaying all importers — with interest — following the Suprem…
+- As of March 4, Lord said, more than 330,000 importers had made over 53 million entries with CBP, collectively paying about $166 billion i…
+- Under the existing system, Lord estimated, completing all refunds would require more than 4.4 million man hours — a workload he said is n…
 
 U.S. Customs and Border Protection said Friday it is developing a streamlined process to refund approximately $166 billion in tariffs paid by more than 330,000 importers, with the new system expected to be operational within 45 days. Brandon Lord, executive director of CBP's trade policy and programs directorate, described the plan in a filing with the U.S. Court of International Trade, where Judge Richard Eaton must approve the process before any refunds proceed.
 
@@ -110,65 +103,79 @@ The agency said the new system is designed to ease that enrollment burden, thoug
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Brandon Lord; U.S. Customs and Border Protection
-**Predicate:** filed_proposal
-**Object:** new refund system ready in 45 days (government_filing)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Brandon Lord; U.S. Customs and Border Protection
+- **Predicate:** filed_proposal
+- **Object:** new refund system ready in 45 days (government_filing)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > CBP executive director Brandon Lord filed a proposal with the Court of International Trade on March 6, 2026, saying a new tariff refund system should be ready in 45 days.
 
-### c_002 — attributed, single source
-**Subject entities:** Richard Eaton; U.S. Court of International Trade
-**Predicate:** ordered
-**Object:** repayment of all illegal tariffs with interest (court_order)
-**Temporal:** 2026-03-04
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Richard Eaton; U.S. Court of International Trade
+- **Predicate:** ordered
+- **Object:** repayment of all illegal tariffs with interest (court_order)
+- **Temporal:** 2026-03-04
+- **Sources:** src_001
 
 > Judge Richard Eaton of the U.S. Court of International Trade ordered the government on Wednesday to repay all importers of record the illegal tariffs they paid, with interest.
 
-### c_003 — confirmed, primary document
-**Subject entities:** Supreme Court of the United States; Donald Trump
-**Predicate:** struck_down
-**Object:** IEEPA tariffs (judicial_ruling)
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Supreme Court of the United States; Donald Trump
+- **Predicate:** struck_down
+- **Object:** IEEPA tariffs (judicial_ruling)
+- **Sources:** src_001
 
 > The Supreme Court struck down sweeping double-digit import taxes President Donald Trump imposed under the 1977 International Emergency Economic Powers Act.
 
-### c_004 — attributed, single source
-**Subject entities:** U.S. Customs and Border Protection
-**Predicate:** recorded
-**Object:** 330,000+ importers; 53M+ entries; ~$166B in tariffs (aggregate_statistic)
-**Temporal:** 2026-03-04
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Customs and Border Protection
+- **Predicate:** recorded
+- **Object:** 330,000+ importers; 53M+ entries; ~$166B in tariffs (aggregate_statistic)
+- **Temporal:** 2026-03-04
+- **Sources:** src_001
 
 > As of March 4, over 330,000 importers made more than 53 million entries with CBP and paid about $166 billion in tariffs subject to refund.
 
-### c_005 — attributed, single source
-**Subject entities:** Brandon Lord; U.S. Customs and Border Protection
-**Predicate:** estimated
-**Object:** 4.4 million man hours (operational_estimate)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Brandon Lord; U.S. Customs and Border Protection
+- **Predicate:** estimated
+- **Object:** 4.4 million man hours (operational_estimate)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > Lord estimated that under the current system, completing all refunds would require more than 4.4 million man hours.
 
-### c_006 — attributed, single source
-**Subject entities:** U.S. Customs and Border Protection
-**Predicate:** recorded_enrollment
-**Object:** 21,423 of 330,566 importers enrolled in electronic refund system (enrollment_statistic)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Customs and Border Protection
+- **Predicate:** recorded_enrollment
+- **Object:** 21,423 of 330,566 importers enrolled in electronic refund system (enrollment_statistic)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > Of 330,566 importers who paid tariffs, only 21,423 have completed setup to receive refunds electronically.
 
-### c_007 — attributed, single source
-**Subject entities:** U.S. Customs and Border Protection
-**Predicate:** stated_policy
-**Object:** refunds rejected without electronic enrollment (agency_policy)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Customs and Border Protection
+- **Predicate:** stated_policy
+- **Object:** refunds rejected without electronic enrollment (agency_policy)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > CBP said refunds will be rejected for importers who have not completed electronic setup.
 
@@ -177,10 +184,5 @@ The agency said the new system is designed to ease that enrollment burden, thoug
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Mae Anderson
 **Publication date:** 2026-03-06
-**Access date:** 2026-03-06
 **Title:** Government officials get closer to a solution to refund illegal tariffs
 **URL:** https://apnews.com/article/tariff-refunds-trump-customs-cpb-cit-1b3f44910b203b1e3be28ab56e5a76ca
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

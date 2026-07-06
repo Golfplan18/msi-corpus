@@ -22,47 +22,42 @@ primary_themes:
 - military deployment
 - Insurrection Act
 topic_tags:
-  - "civil unrest"
-  - "conflict, war and peace"
-  - "government policy"
-  - "human migration"
-  - "international relations"
-  - "political dissent"
+- civil unrest
+- government policy
+- law enforcement
+- fundamental rights
+- political dissent
 storyline_nexus:
-  - iran-war
-  - immigration-enforcement
-  - trump-fed-independence
-geographic_location: Minneapolis, Minnesota, United States
+- us-immigration-enforcement
+geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.85
+  intensity: 0.9
 - value: human_life_and_dignity
-  intensity: 0.75
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:02:26Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:21:00Z'
 source_cluster_id: cluster_ap_2026-01-18_minnesota-immigration-crackdown-6c0bb88c
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 15
   hedges:
+    contested: 0
+    reported: 9
     appears: 0
     alleged: 0
-    attributed: 6
-    reported: 9
-    contested: 0
     confirmed: 0
+    attributed: 6
   corroboration:
     primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 0
-    single_source: 15
     two_independent: 0
+    one_originating_plus_primary_document: 0
+    single_source: 15
+    primary_document: 0
 sources:
   count: 1
   outlets:
@@ -80,41 +75,16 @@ image:
   url: /articles/2026-01-18-minneapolis-mayor-calls-military-deployment-for-immigration-crackdown-unconstitu.png
   alt: 'Illustration accompanying article: Minneapolis mayor calls military deployment for immigration crackdown unconstitutional'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-14-minneapolis-sees-second-federal-shooting-as-courts-governor-push-back-on-immigra
-  relation: related
-  strength: 0.8231
-  confidence: medium
-- slug: 2026-01-10-thousands-march-across-us-after-ice-shootings-in-minneapolis-portland
-  relation: related
-  strength: 0.8168
-  confidence: medium
-- slug: 2026-01-11-federal-agents-ram-minneapolis-door-pepper-spray-protesters-in-immigration-sweep
-  relation: related
-  strength: 0.8096
-  confidence: medium
-- slug: 2026-01-12-minnesota-twin-cities-sue-trump-administration-over-fatal-ice-shooting
-  relation: related
-  strength: 0.7945
-  confidence: medium
-- slug: 2026-01-13-federal-agents-deploy-tear-gas-in-minneapolis-as-five-prosecutors-resign-over-re
-  relation: related
-  strength: 0.7712
-  confidence: medium
-- slug: 2026-01-09-federal-officers-leave-louisiana-immigration-operation-for-minneapolis
-  relation: related
-  strength: 0.7764
-  confidence: medium
-- slug: 2026-01-08-protests-erupt-in-minneapolis-as-officials-dispute-jurisdiction-in-fatal-ice-sho
-  relation: related
-  strength: 0.7729
-  confidence: medium
-- slug: 2026-01-07-dhs-deploys-2-000-agents-to-minnesota-in-largest-immigration-operation
-  relation: related
-  strength: 0.7754
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- The potential military escalation comes as daily protests have gripped Minneapolis and St. Paul for weeks since the Department of Homeland Security deployed more than 2,000 federal officers to the ...
+- MINNEAPOLIS — Minneapolis Mayor Jacob Frey on Sunday called a potential military deployment to enforce immigration law in the city "ridiculous and ...
+- "It's ridiculous, but we will not be intimidated by the actions of this federal government," Frey told CNN's *State of the Union* on Sunday. "It is...
 
 The potential military escalation comes as daily protests have gripped Minneapolis and St. Paul for weeks since the Department of Homeland Security deployed more than 2,000 federal officers to the Twin Cities in early January, triggering hotel closures, postal worker demonstrations, and a federal court ruling last Friday limiting officers' use of force against peaceful protesters.
 
@@ -162,138 +132,168 @@ Frey, for his part, said the protests underway in Minneapolis represent constitu
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Jacob Frey; Minneapolis
-**Predicate:** stated
-**Object:** ridiculous and unconstitutional (quote)
-**Temporal:** 2026-01-18
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jacob Frey; Minneapolis
+- **Predicate:** stated
+- **Object:** ridiculous and unconstitutional (quote)
+- **Temporal:** 2026-01-18
+- **Sources:** src_001
 
 > Minneapolis Mayor Jacob Frey called sending active-duty soldiers to Minnesota for an immigration crackdown 'ridiculous and unconstitutional.'
 
-### c_002 — reported, single source
-**Subject entities:** Pentagon; 11th Airborne Division
-**Predicate:** issued_standby_order
-**Object:** 1500 soldiers (number)
-**Temporal:** 2026-01-18
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Pentagon; 11th Airborne Division
+- **Predicate:** issued_standby_order
+- **Object:** 1500 soldiers (number)
+- **Temporal:** 2026-01-18
+- **Sources:** src_001
 
 > The Pentagon ordered about 1,500 active-duty soldiers based in Alaska who specialize in arctic conditions to be ready for possible deployment to Minnesota.
 
-### c_003 — reported, single source
-**Subject entities:** 11th Airborne Division; US Army
-**Predicate:** received_orders
-**Object:** prepare-to-deploy (order_status)
-**Temporal:** 2026-01-18
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** 11th Airborne Division; US Army
+- **Predicate:** received_orders
+- **Object:** prepare-to-deploy (order_status)
+- **Temporal:** 2026-01-18
+- **Sources:** src_001
 
 > Two infantry battalions of the Army's 11th Airborne Division have been given prepare-to-deploy orders.
 
-### c_004 — reported, single source
-**Subject entities:** Donald Trump; Insurrection Act
-**Predicate:** contingent_deployment
-**Object:** Insurrection Act invocation (legal_trigger)
-**Temporal:** 2026-01-18
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Insurrection Act
+- **Predicate:** contingent_deployment
+- **Object:** Insurrection Act invocation (legal_trigger)
+- **Temporal:** 2026-01-18
+- **Sources:** src_001
 
 > The troops are standing by to deploy to Minnesota should President Trump invoke the Insurrection Act.
 
-### c_005 — reported, single source
-**Subject entities:** Donald Trump
-**Predicate:** withdrew
-**Object:** Insurrection Act threat (political_action)
-**Temporal:** 2026-01-18
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** withdrew
+- **Object:** Insurrection Act threat (political_action)
+- **Temporal:** 2026-01-18
+- **Sources:** src_001
 
 > Trump backed off the Insurrection Act threat, at least for now.
 
-### c_006 — reported, single source
-**Subject entities:** Department of Homeland Security; Minneapolis; St. Paul
-**Predicate:** deployed
-**Object:** 2000+ federal officers (number)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Department of Homeland Security; Minneapolis; St. Paul
+- **Predicate:** deployed
+- **Object:** 2000+ federal officers (number)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > The Department of Homeland Security brought more than 2,000 federal officers to the Twin Cities of Minneapolis and St. Paul.
 
-### c_007 — reported, single source
-**Subject entities:** Hilton DoubleTree; IHG InterContinental; Hilton Canopy
-**Predicate:** stopped_accepting_reservations
-**Object:** three hotels (count)
-**Temporal:** 2026-01-18
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Hilton DoubleTree; IHG InterContinental; Hilton Canopy
+- **Predicate:** stopped_accepting_reservations
+- **Object:** three hotels (count)
+- **Temporal:** 2026-01-18
+- **Sources:** src_001
 
 > Three hotels in Minneapolis-St. Paul that protesters said housed ICE officers were not accepting reservations on Jan. 18.
 
-### c_008 — attributed, single source
-**Subject entities:** IHG InterContinental
-**Predicate:** stated
-**Object:** closing for safety of staff (quote)
-**Temporal:** 2026-01-18
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** IHG InterContinental
+- **Predicate:** stated
+- **Object:** closing for safety of staff (quote)
+- **Temporal:** 2026-01-18
+- **Sources:** src_001
 
 > An InterContinental hotel employee said the hotel was closing for the safety of the staff.
 
-### c_009 — attributed, single source
-**Subject entities:** Taylor Solomon; IHG Hotels & Resorts; InterContinental St. Paul
-**Predicate:** stated
-**Object:** temporarily closed to prioritize safety (statement)
-**Temporal:** 2026-01-18
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Taylor Solomon; IHG Hotels & Resorts; InterContinental St. Paul
+- **Predicate:** stated
+- **Object:** temporarily closed to prioritize safety (statement)
+- **Temporal:** 2026-01-18
+- **Sources:** src_001
 
 > IHG Hotels & Resorts spokesperson Taylor Solomon said the independently owned InterContinental St. Paul temporarily closed to prioritize the safety of guests and team members.
 
-### c_010 — attributed, single source
-**Subject entities:** Tim Walz; Minnesota National Guard
-**Predicate:** mobilized
-**Object:** National Guard, not deployed to streets (status)
-**Temporal:** 2026-01-18
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Tim Walz; Minnesota National Guard
+- **Predicate:** mobilized
+- **Object:** National Guard, not deployed to streets (status)
+- **Temporal:** 2026-01-18
+- **Sources:** src_001
 
 > Gov. Tim Walz mobilized the Minnesota National Guard, though no units have been deployed to the streets.
 
-### c_011 — reported, single source
-**Subject entities:** federal judge
-**Predicate:** ruled
-**Object:** cannot detain or tear gas peaceful protesters (court_ruling)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** federal judge
+- **Predicate:** ruled
+- **Object:** cannot detain or tear gas peaceful protesters (court_ruling)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > A federal judge ruled on Jan. 16 that immigration officers cannot detain or tear gas peaceful protesters who are not obstructing authorities.
 
-### c_012 — attributed, single source
-**Subject entities:** Tom Emmer; Tim Walz
-**Predicate:** called_for
-**Object:** toning down rhetoric (political_demand)
-**Temporal:** 2026-01-18
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Tom Emmer; Tim Walz
+- **Predicate:** called_for
+- **Object:** toning down rhetoric (political_demand)
+- **Temporal:** 2026-01-18
+- **Sources:** src_001
 
 > House Majority Whip Tom Emmer called for Gov. Walz to tone down his comments about fighting the federal government and instead help law enforcement.
 
-### c_013 — reported, single source
-**Subject entities:** Renee Good
-**Predicate:** killed_by
-**Object:** immigration officer (actor)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_013
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Renee Good
+- **Predicate:** killed_by
+- **Object:** immigration officer (actor)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Renee Good, a U.S. citizen and mother of three, was shot and killed by an immigration officer on Jan. 7 during a confrontation.
 
-### c_014 — reported, single source
-**Subject entities:** US postal workers; Minneapolis
-**Predicate:** marched
-**Object:** anti-ICE demonstration (event)
-**Temporal:** 2026-01-18
-**Source IDs:** src_001
+### c_014
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** US postal workers; Minneapolis
+- **Predicate:** marched
+- **Object:** anti-ICE demonstration (event)
+- **Temporal:** 2026-01-18
+- **Sources:** src_001
 
 > U.S. postal workers marched Sunday through a diverse neighborhood where immigration officers have been seen frequently, chanting 'Protect our routes. Get ICE out.'
 
-### c_015 — attributed, single source
-**Subject entities:** Jacob Frey
-**Predicate:** stated
-**Object:** peaceful First Amendment exercise (characterization)
-**Temporal:** 2026-01-18
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jacob Frey
+- **Predicate:** stated
+- **Object:** peaceful First Amendment exercise (characterization)
+- **Temporal:** 2026-01-18
+- **Sources:** src_001
 
 > Frey said thousands of Minneapolis citizens are exercising their First Amendment rights and the protests have been peaceful.
 
@@ -302,10 +302,5 @@ Frey, for his part, said the protests underway in Minneapolis represent constitu
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Jack Brook
 **Publication date:** 2026-01-18
-**Access date:** 2026-01-18
 **Title:** Minneapolis mayor says sending soldiers in immigration crackdown ridiculous
 **URL:** https://apnews.com/article/minnesota-immigration-crackdown-6c0bb88cb16617b92db1e67dfb30ce3a
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

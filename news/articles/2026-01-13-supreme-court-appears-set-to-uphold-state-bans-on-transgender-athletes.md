@@ -16,43 +16,40 @@ primary_themes:
 - Supreme Court
 - gender policy
 topic_tags:
-  - discrimination
-  - politics
-  - education
-  - society
-  - trial
-  - "government policy"
-storyline_nexus: []
-geographic_location: Washington, D.C.
+- civil rights
+- discrimination
+- sport
+- judiciary
+storyline_nexus:
+- lgbtq-rights-restrictions
+geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.9
 - value: equality_fairness
-  intensity: 0.8
-- value: accountability_of_power
-  intensity: 0.5
-framework_version: 1.1.0
-generation_timestamp: '2026-01-13T00:00:00Z'
+  intensity: 0.9
+- value: human_life_and_dignity
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:11:17Z'
 source_cluster_id: cluster_ap_2026-01-12_supreme-court-transgender-athletes-a0e50
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 16
   hedges:
-    appears: 0
     alleged: 0
-    attributed: 8
-    reported: 2
-    contested: 0
     confirmed: 6
+    reported: 2
+    attributed: 8
+    contested: 0
+    appears: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 0
+    one_originating_plus_primary_document: 0
     single_source: 16
+    primary_plus_secondary: 0
     two_independent: 0
 sources:
   count: 1
@@ -71,17 +68,20 @@ image:
   url: /articles/2026-01-13-supreme-court-appears-set-to-uphold-state-bans-on-transgender-athletes.png
   alt: 'Illustration accompanying article: Supreme Court appears set to uphold state bans on transgender athletes'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-11-supreme-court-hears-arguments-on-transgender-athlete-bans-from-west-virginia-ida
-  relation: continues
-  strength: 0.9393
-  confidence: high
-- slug: 2026-01-08-nevada-governor-launches-ballot-drive-to-ban-transgender-athletes-from-women-s-s
-  relation: related
-  strength: 0.8896
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Supreme Court seems likely to uphold state bans on transgender athletes in girls and women’s sports
+- Supreme Court seems likely to uphold state bans on transgender athletes in girls and women’s sports
+- More than two dozen Republican-led states have adopted bans on female transgender athletes. Lower courts had ruled for the transgender athletes who challenged laws in Idaho and West Virginia.
+- The justices are evaluating claims of sex discrimination lodged by transgender people versus the need for fair competition for women and girls, the main argument made by the states.
+- Some girls and women might lose a medal in a competition with transgender athletes, which Kavanaugh called a harm “we can’t sweep aside.”
+- The three liberal justices seemed focused on trying to marshal a court majority in support of a narrow ruling that would allow the individual transgender athletes involved in the cases to prevail.
 
 A ruling for the states would effectively validate similar laws in more than two dozen Republican-led states and could influence separate legal efforts by the Trump administration and others seeking to bar transgender athletes in the roughly two dozen states led by Democrats that currently allow athletes to compete based on gender identity.
 
@@ -129,147 +129,179 @@ About 2.1 million adults — 0.8% of the adult population — and 724,000 people
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Supreme Court of the United States
-**Predicate:** signaled_ruling_direction
-**Object:** uphold state bans on transgender female athletes (legal_disposition)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Supreme Court of the United States
+- **Predicate:** signaled_ruling_direction
+- **Object:** uphold state bans on transgender female athletes (legal_disposition)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > The Supreme Court's conservative majority appeared ready to uphold state laws barring transgender girls and women from school athletic teams.
 
-### c_002 — confirmed, single source
-**Subject entities:** Republican-led states
-**Predicate:** enacted
-**Object:** bans on female transgender athletes in school sports (legislation)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Republican-led states
+- **Predicate:** enacted
+- **Object:** bans on female transgender athletes in school sports (legislation)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > More than two dozen Republican-led states have adopted bans on female transgender athletes.
 
-### c_003 — confirmed, single source
-**Subject entities:** lower federal courts; Idaho; West Virginia
-**Predicate:** ruled_for
-**Object:** transgender athletes challenging state bans (legal_outcome)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** lower federal courts; Idaho; West Virginia
+- **Predicate:** ruled_for
+- **Object:** transgender athletes challenging state bans (legal_outcome)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Lower courts had ruled for the transgender athletes who challenged laws in Idaho and West Virginia.
 
-### c_004 — confirmed, single source
-**Subject entities:** Lindsay Hecox; Boise State University; Idaho
-**Predicate:** sued_over
-**Object:** Idaho transgender athlete ban (legal_action)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Lindsay Hecox; Boise State University; Idaho
+- **Predicate:** sued_over
+- **Object:** Idaho transgender athlete ban (legal_action)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Lindsay Hecox, 25, sued over Idaho's ban to try out for the women's track and cross-country teams at Boise State University. She did not make either squad because 'she was too slow,' her lawyer said.
 
-### c_005 — confirmed, single source
-**Subject entities:** Becky Pepper-Jackson; West Virginia
-**Predicate:** is_plaintiff_in
-**Object:** West Virginia transgender athlete ban challenge (legal_role)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Becky Pepper-Jackson; West Virginia
+- **Predicate:** is_plaintiff_in
+- **Object:** West Virginia transgender athlete ban challenge (legal_role)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Becky Pepper-Jackson, a 15-year-old high school sophomore, is the named plaintiff in the West Virginia case and was present in the courtroom Tuesday.
 
-### c_006 — confirmed, single source
-**Subject entities:** Becky Pepper-Jackson
-**Predicate:** has_medical_and_legal_status
-**Object:** puberty-blocking medication, female birth certificate, public gender identity since age 8 (personal_status)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Becky Pepper-Jackson
+- **Predicate:** has_medical_and_legal_status
+- **Object:** puberty-blocking medication, female birth certificate, public gender identity since age 8 (personal_status)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Pepper-Jackson has been taking puberty-blocking medication, has publicly identified as a girl since age 8, and has been issued a West Virginia birth certificate recognizing her as female.
 
-### c_007 — confirmed, single source
-**Subject entities:** Becky Pepper-Jackson
-**Predicate:** achieved
-**Object:** statewide third-place discus finish in first year of high school (athletic_result)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Becky Pepper-Jackson
+- **Predicate:** achieved
+- **Object:** statewide third-place discus finish in first year of high school (athletic_result)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Pepper-Jackson progressed from a back-of-the-pack cross-country runner in middle school to a statewide third-place finish in the discus in her first year of high school.
 
-### c_008 — attributed, single source
-**Subject entities:** Brett Kavanaugh
-**Predicate:** expressed_concern
-**Object:** ruling undoing Title IX effects; called Title IX amazing and inspiring (judicial_statement)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Brett Kavanaugh
+- **Predicate:** expressed_concern
+- **Object:** ruling undoing Title IX effects; called Title IX amazing and inspiring (judicial_statement)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Justice Brett Kavanaugh seemed concerned about a ruling that might undo the effects of Title IX, calling it an 'amazing' and 'inspiring' success.
 
-### c_009 — attributed, single source
-**Subject entities:** Brett Kavanaugh
-**Predicate:** stated
-**Object:** competitive harm to cisgender women is harm 'we can't sweep aside' (judicial_statement)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Brett Kavanaugh
+- **Predicate:** stated
+- **Object:** competitive harm to cisgender women is harm 'we can't sweep aside' (judicial_statement)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Kavanaugh said the potential for some girls and women to lose a medal in competition with transgender athletes was a harm 'we can't sweep aside.'
 
-### c_010 — attributed, single source
-**Subject entities:** John Roberts
-**Predicate:** signaled
-**Object:** distinctions between 2020 LGBTQ workplace ruling and current Title IX sports dispute (judicial_statement)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** John Roberts
+- **Predicate:** signaled
+- **Object:** distinctions between 2020 LGBTQ workplace ruling and current Title IX sports dispute (judicial_statement)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Chief Justice John Roberts signaled he sees differences between the 2020 ruling extending workplace civil rights protections to LGBTQ people and the current dispute over school sports.
 
-### c_011 — attributed, single source
-**Subject entities:** Supreme Court liberal justices
-**Predicate:** appeared_focused_on
-**Object:** narrow ruling allowing individual athletes to prevail (judicial_strategy)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Supreme Court liberal justices
+- **Predicate:** appeared_focused_on
+- **Object:** narrow ruling allowing individual athletes to prevail (judicial_strategy)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > The three liberal justices seemed focused on trying to marshal a court majority in support of a narrow ruling that would allow the individual transgender athletes to prevail.
 
-### c_012 — attributed, single source
-**Subject entities:** Alan Hurst; Idaho
-**Predicate:** argued
-**Object:** ban necessary for fair competition due to biological differences (legal_argument)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Alan Hurst; Idaho
+- **Predicate:** argued
+- **Object:** ban necessary for fair competition due to biological differences (legal_argument)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Idaho's state Solicitor General Alan Hurst argued the ban 'is necessary for fair competition because, where sports are concerned, men and women are obviously not the same.'
 
-### c_013 — attributed, single source
-**Subject entities:** Charlie Baker; NCAA
-**Predicate:** told_congress
-**Object:** 10 transgender athletes out of more than 500,000 college athletes (statistic)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Charlie Baker; NCAA
+- **Predicate:** told_congress
+- **Object:** 10 transgender athletes out of more than 500,000 college athletes (statistic)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > NCAA president Charlie Baker told Congress in 2024 that he was aware of only 10 transgender athletes out of more than a half-million students on college teams.
 
-### c_014 — reported, single source
-**Subject entities:** AP-NORC Center for Public Affairs Research
-**Predicate:** found
-**Object:** about 6 in 10 adults favor sex-assigned-at-birth team requirement for minors (poll_result)
-**Temporal:** 2025-10
-**Source IDs:** src_001
+### c_014
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** AP-NORC Center for Public Affairs Research
+- **Predicate:** found
+- **Object:** about 6 in 10 adults favor sex-assigned-at-birth team requirement for minors (poll_result)
+- **Temporal:** 2025-10
+- **Sources:** src_001
 
 > An AP-NORC poll conducted in October 2025 found about 6 in 10 U.S. adults favored requiring transgender children and teenagers to compete on teams matching the sex assigned at birth, while about 2 in 10 were opposed and about one-quarter had no opinion.
 
-### c_015 — attributed, single source
-**Subject entities:** Williams Institute at UCLA School of Law
-**Predicate:** estimates
-**Object:** 2.1 million adults and 724,000 teenagers identify as transgender in the U.S. (demographic_statistic)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Williams Institute at UCLA School of Law
+- **Predicate:** estimates
+- **Object:** 2.1 million adults and 724,000 teenagers identify as transgender in the U.S. (demographic_statistic)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > About 2.1 million adults (0.8%) and 724,000 people age 13 to 17 (3.3%) identify as transgender in the United States, according to the Williams Institute at the UCLA School of Law.
 
-### c_016 — reported, single source
-**Subject entities:** Supreme Court of the United States
-**Predicate:** expected_to_decide_by
-**Object:** early summer 2026 (timeline)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_016
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Supreme Court of the United States
+- **Predicate:** expected_to_decide_by
+- **Object:** early summer 2026 (timeline)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > A decision is expected by early summer.
 
@@ -278,10 +310,5 @@ About 2.1 million adults — 0.8% of the adult population — and 724,000 people
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Mark Sherman
 **Publication date:** 2026-01-13
-**Access date:** 2026-01-13
 **Title:** Supreme Court takes up fight over transgender athletes
 **URL:** https://apnews.com/article/supreme-court-transgender-athletes-a0e50014fbf7f3ef5b1d1e9b5e8b662d
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

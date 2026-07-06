@@ -24,7 +24,7 @@ topic_tags:
   - "crime, law and justice"
   - "disaster, accident and emergency incident"
 storyline_nexus:
-  - ai-regulation
+- extreme-weather-disasters
 geographic_location: Bangor, Maine
 floor_values_engaged:
 - value: informed_citizenship
@@ -117,143 +117,175 @@ After the earlier fatal crashes, the FAA published new rules clarifying that eve
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Bombardier Challenger 600; Bangor Maine
-**Predicate:** crashed
-**Object:** all six aboard killed (fatality_count)
-**Temporal:** 2026-01-25
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Bombardier Challenger 600; Bangor Maine
+- **Predicate:** crashed
+- **Object:** all six aboard killed (fatality_count)
+- **Temporal:** 2026-01-25
+- **Sources:** src_001
 
 > A private jet crashed in Bangor, Maine on Jan. 25, killing all six people aboard.
 
-### c_002 — confirmed, primary document
-**Subject entities:** National Transportation Safety Board
-**Predicate:** issued
-**Object:** preliminary report (government_document)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** National Transportation Safety Board
+- **Predicate:** issued
+- **Object:** preliminary report (government_document)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > The NTSB issued a preliminary report on March 6, 2026 on the Bangor crash.
 
-### c_003 — attributed, primary document
-**Subject entities:** Bombardier Challenger 600
-**Predicate:** waited
-**Object:** 17 minutes (duration)
-**Temporal:** 2026-01-25
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Bombardier Challenger 600
+- **Predicate:** waited
+- **Object:** 17 minutes (duration)
+- **Temporal:** 2026-01-25
+- **Sources:** src_001
 
 > The plane remained on the ground 17 minutes from the start of deicing treatment before attempting takeoff.
 
-### c_004 — attributed, primary document
-**Subject entities:** Federal Aviation Administration
-**Predicate:** specifies
-**Object:** 9-minute maximum holdover time (regulatory_standard)
-**Temporal:** 2026-01-25
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Federal Aviation Administration
+- **Predicate:** specifies
+- **Object:** 9-minute maximum holdover time (regulatory_standard)
+- **Temporal:** 2026-01-25
+- **Sources:** src_001
 
 > FAA guidelines allow no more than 9 minutes from the start of the second anti-icing chemical application before takeoff under the conditions present that evening.
 
-### c_005 — attributed, primary document
-**Subject entities:** Bombardier Challenger 600
-**Predicate:** timeline
-**Object:** 7:27 p.m. to 7:44 p.m. (timestamps)
-**Temporal:** 2026-01-25
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Bombardier Challenger 600
+- **Predicate:** timeline
+- **Object:** 7:27 p.m. to 7:44 p.m. (timestamps)
+- **Temporal:** 2026-01-25
+- **Sources:** src_001
 
 > The second anti-icing chemical was applied at 7:27 p.m.; the plane attempted takeoff at 7:44 p.m.
 
-### c_006 — attributed, primary document
-**Subject entities:** Jacob Hosmer; Jorden Reidel
-**Predicate:** said
-**Object:** 14 to 18 minutes described as standard (statement)
-**Temporal:** 2026-01-25
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Jacob Hosmer; Jorden Reidel
+- **Predicate:** said
+- **Object:** 14 to 18 minutes described as standard (statement)
+- **Temporal:** 2026-01-25
+- **Sources:** src_001
 
 > The cockpit voice recorder captured the pilot saying it was 'standard' to have 14 to 18 minutes and that if the wait was more than 30 minutes they would return to the ramp to have the plane retreated, with the copilot concurring.
 
-### c_007 — attributed, single source
-**Subject entities:** John Cox
-**Predicate:** said
-**Object:** doubt pilots ran the holdover clock (expert_assessment)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** John Cox
+- **Predicate:** said
+- **Object:** doubt pilots ran the holdover clock (expert_assessment)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > Aviation safety consultant John Cox said the pilot's comment 'makes me wonder if they actually ran the time' because the guidelines make it clear they didn't have that much time.
 
-### c_008 — attributed, single source
-**Subject entities:** John Cox
-**Predicate:** said
-**Object:** airplane exceeded holdover time chart (expert_assessment)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** John Cox
+- **Predicate:** said
+- **Object:** airplane exceeded holdover time chart (expert_assessment)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > John Cox said 'we know this much. The airplane exceeded the holdover time chart.'
 
-### c_009 — attributed, single source
-**Subject entities:** Jeff Guzzetti
-**Predicate:** said
-**Object:** crash likely due to ice contamination on right wing (expert_assessment)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jeff Guzzetti
+- **Predicate:** said
+- **Object:** crash likely due to ice contamination on right wing (expert_assessment)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > Jeff Guzzetti said 'there is no doubt in my mind that the loss of control at liftoff — which was accompanied with an aerodynamic stall warning and sudden right bank — was likely due to snow and ice contamination on the right wing.'
 
-### c_010 — attributed, primary document
-**Subject entities:** Bombardier Challenger 600
-**Predicate:** waited
-**Object:** ~5 min at deicing pad, ~4 min on runway (timeline)
-**Temporal:** 2026-01-25
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Bombardier Challenger 600
+- **Predicate:** waited
+- **Object:** ~5 min at deicing pad, ~4 min on runway (timeline)
+- **Temporal:** 2026-01-25
+- **Sources:** src_001
 
 > The plane sat at the deicing pad for almost five minutes after treatment while restarting engines, then sat on the runway for almost four more minutes before the pilots told the tower they were ready to take off.
 
-### c_011 — attributed, primary document
-**Predicate:** aborted_takeoff
-**Object:** visibility and deicing concerns (event)
-**Temporal:** 2026-01-25
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Predicate:** aborted_takeoff
+- **Object:** visibility and deicing concerns (event)
+- **Temporal:** 2026-01-25
+- **Sources:** src_001
 
 > Another plane aborted its takeoff just before the crash, radioing to the tower that visibility wasn't great and that it would need another application of deicing fluid.
 
-### c_012 — confirmed, primary document
-**Subject entities:** Bombardier Challenger 600
-**Predicate:** crashed
-**Object:** upside down, burst into flames (crash_description)
-**Temporal:** 2026-01-25
-**Source IDs:** src_001
+### c_012
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Bombardier Challenger 600
+- **Predicate:** crashed
+- **Object:** upside down, burst into flames (crash_description)
+- **Temporal:** 2026-01-25
+- **Sources:** src_001
 
 > The plane landed upside down on the runway and burst into flames.
 
-### c_013 — confirmed, primary document
-**Subject entities:** Tara Arnold; Shawna Collins; Nick Mastrascusa; Shelby Kuyawa; Jacob Hosmer; Jorden Reidel
-**Predicate:** killed
-**Object:** six victims identified (fatality_identification)
-**Temporal:** 2026-01-25
-**Source IDs:** src_001
+### c_013
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Tara Arnold; Shawna Collins; Nick Mastrascusa; Shelby Kuyawa; Jacob Hosmer; Jorden Reidel
+- **Predicate:** killed
+- **Object:** six victims identified (fatality_identification)
+- **Temporal:** 2026-01-25
+- **Sources:** src_001
 
 > The six victims were Houston attorney Tara Arnold, 46; event planner Shawna Collins, 53, of Houston; chef Nick Mastrascusa, 43, of Hawaii; sommelier Shelby Kuyawa, 34, of Hawaii; and pilots Jacob Hosmer, 47, of Pearland, Texas, and Jorden Reidel, 33, of Texas.
 
-### c_014 — attributed, single source
-**Subject entities:** Bombardier Challenger 600
-**Predicate:** crashed
-**Object:** two prior fatal ice-related crashes (historical_record)
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Bombardier Challenger 600
+- **Predicate:** crashed
+- **Object:** two prior fatal ice-related crashes (historical_record)
+- **Sources:** src_001
 
 > There were two previous fatal crashes involving the Bombardier Challenger 600 and ice buildup more than two decades ago — one in Birmingham, England, and one in Montrose, Colorado.
 
-### c_015 — attributed, single source
-**Subject entities:** Federal Aviation Administration
-**Predicate:** published
-**Object:** new deicing rules post-prior-crashes (regulatory_action)
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Federal Aviation Administration
+- **Predicate:** published
+- **Object:** new deicing rules post-prior-crashes (regulatory_action)
+- **Sources:** src_001
 
 > After those earlier crashes, the FAA published new rules clarifying that even a small amount of frost on the wings can endanger flight and standardizing deicing inspections.
 
-### c_016 — attributed, single source
-**Subject entities:** Bombardier
-**Predicate:** required_to_add
-**Object:** cold-weather warning in flight manual (regulatory_requirement)
-**Source IDs:** src_001
+### c_016
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Bombardier
+- **Predicate:** required_to_add
+- **Object:** cold-weather warning in flight manual (regulatory_requirement)
+- **Sources:** src_001
 
 > Bombardier was required to add a cold-weather operations warning to the Challenger 600's flight manual; more than 1,000 Challenger 600s have been delivered.
 
@@ -265,7 +297,3 @@ After the earlier fatal crashes, the FAA published new rules clarifying that eve
 **Access date:** 2026-05-17
 **Title:** Plane that crashed in Maine spent too long between deicing and takeoff
 **URL:** https://apnews.com/article/bangor-maine-plane-crash-cause-ntsb-af9d0ad4ab014bf17b200b6114d58fd4
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -226,7 +226,3 @@ In August 2024, the Peruvian justice system overturned a criminal indictment aga
 **Access date:** 2026-05-17
 **Title:** Peru ordered to pay compensation for forced sterilization program
 **URL:** https://apnews.com/article/peru-forced-sterilizations-fujimori-court-latin-america-1af2abe748341cf22d782d31b60071b9
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

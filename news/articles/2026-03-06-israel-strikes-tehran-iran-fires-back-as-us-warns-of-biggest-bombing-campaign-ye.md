@@ -26,8 +26,7 @@ topic_tags:
   - "armed conflict"
   - "conflict, war and peace"
 storyline_nexus:
-  - iran-war
-  - us-administration-2026
+- the-iran-war
 geographic_location: Tehran, Iran; Middle East
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -329,7 +328,3 @@ Sirens sounded in Bahrain early Saturday in connection with an Iranian attack. S
 **Access date:** 2026-05-17
 **Title:** Explosions rock Tehran as Israel attacked; US warns of bigger bombings
 **URL:** https://apnews.com/article/iran-israel-eeuu-c46ad25419c3261817331073aa05f3d2
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

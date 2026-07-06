@@ -14,42 +14,41 @@ primary_themes:
 - sudanese_civil_war
 - federal_law_enforcement
 topic_tags:
-  - "armed conflict"
-  - "conflict, war and peace"
-  - "crime, law and justice"
-  - "science and technology"
-storyline_nexus: []
-geographic_location: Los Angeles, California, USA; Oman; Iran; Sudan
+- crime, law and justice
+- armed conflict
+- international relations
+- international trade
+storyline_nexus:
+- the-iran-war
+geographic_location: United States
 floor_values_engaged:
-- value: accountability_of_power
-  intensity: 0.85
+- value: informed_citizenship
+  intensity: 0.9
 - value: human_life_and_dignity
-  intensity: 0.75
-- value: truthfulness
-  intensity: 0.8
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T00:00:00Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T01:11:42Z'
 source_cluster_id: cluster_ap_2026-04-20_shamim-mafi-los-angeles-iran-sudan-weapo
 gdelt_event_ids: []
-consensus_floor_version: '1.0'
-publication_mindspec_version: '1.0'
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 10
   hedges:
+    confirmed: 0
+    reported: 6
+    attributed: 4
+    contested: 0
     appears: 0
     alleged: 0
-    attributed: 4
-    reported: 6
-    contested: 0
-    confirmed: 0
   corroboration:
-    primary_plus_secondary: 1
     one_originating_plus_primary_document: 0
-    primary_document: 8
     single_source: 1
+    primary_plus_secondary: 1
     two_independent: 0
+    primary_document: 8
 sources:
   count: 1
   outlets:
@@ -66,6 +65,16 @@ figures_aggregate:
 cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Woman arrested at LAX on Iranian arms trafficking charge
+- Shamim Mafi was arrested Saturday night at Los Angeles International Airport on suspicion of brokering the sale of drones, bombs, bomb fuses and ammunition between Iran and the Sudanese Armed Forces.
+- Mafi is 44 years old.
+- Mafi is an Iranian national who became a lawful permanent resident of the United States in 2016.
+- According to a criminal complaint dated March 12, Mafi and an unnamed co-conspirator operated Atlas International Business in Oman through which weapons and ammunition were trafficked.
 
 A 44-year-old Los Angeles woman was arrested Saturday night at Los Angeles International Airport on suspicion of brokering the sale of drones, bombs, bomb fuses and ammunition between Iran and the Sudanese Armed Forces, federal prosecutors said Sunday. Shamim Mafi, an Iranian national who became a lawful permanent resident in 2016, was taken into custody as Sudan enters its fourth year of civil war. According to a criminal complaint, Mafi operated a company in Oman through which she allegedly trafficked the weapons with an unnamed co-conspirator.
 
@@ -87,97 +96,115 @@ Mafi is scheduled to appear in U.S. District Court in Los Angeles on Monday. If 
 
 Sudan's civil war, now in its fourth year, has created one of the world's most severe humanitarian emergencies. Millions of people have fled the country as food supplies dwindle and the conflict continues without resolution.
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
-### c_001 — reported, primary plus secondary
-**Subject entities:** Shamim Mafi
-**Predicate:** arrested
-**Object:** brokering arms sales between Iran and Sudan (criminal_charge)
-**Temporal:** 2026-04-19
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** Shamim Mafi
+- **Predicate:** arrested
+- **Object:** brokering arms sales between Iran and Sudan (criminal_charge)
+- **Temporal:** 2026-04-19
+- **Sources:** src_001
 
 > Shamim Mafi was arrested Saturday night at Los Angeles International Airport on suspicion of brokering the sale of drones, bombs, bomb fuses and ammunition between Iran and the Sudanese Armed Forces.
 
-### c_002 — attributed, primary document
-**Subject entities:** Shamim Mafi
-**Predicate:** age
-**Object:** 44 (years)
-**Temporal:** 2026-04-19
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Shamim Mafi
+- **Predicate:** age
+- **Object:** 44 (years)
+- **Temporal:** 2026-04-19
+- **Sources:** src_001
 
 > Mafi is 44 years old.
 
-### c_003 — attributed, primary document
-**Subject entities:** Shamim Mafi
-**Predicate:** immigration_status
-**Object:** Iranian national, lawful permanent resident since 2016 (legal_status)
-**Temporal:** 2026-04-19
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Shamim Mafi
+- **Predicate:** immigration_status
+- **Object:** Iranian national, lawful permanent resident since 2016 (legal_status)
+- **Temporal:** 2026-04-19
+- **Sources:** src_001
 
 > Mafi is an Iranian national who became a lawful permanent resident of the United States in 2016.
 
-### c_004 — reported, primary document
-**Subject entities:** Shamim Mafi
-**Predicate:** operated
-**Object:** Atlas International Business in Oman for weapons trafficking (business_operation)
-**Temporal:** 2026-03-12
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Shamim Mafi
+- **Predicate:** operated
+- **Object:** Atlas International Business in Oman for weapons trafficking (business_operation)
+- **Temporal:** 2026-03-12
+- **Sources:** src_001
 
 > According to a criminal complaint dated March 12, Mafi and an unnamed co-conspirator operated Atlas International Business in Oman through which weapons and ammunition were trafficked.
 
-### c_005 — reported, primary document
-**Subject entities:** Atlas International Business
-**Predicate:** received
-**Object:** $7 million (currency)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Atlas International Business
+- **Predicate:** received
+- **Object:** $7 million (currency)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > The company received over $7 million in payments in 2025.
 
-### c_006 — reported, primary document
-**Subject entities:** Shamim Mafi
-**Predicate:** brokered
-**Object:** 55,000 bomb fuses to Sudanese Ministry of Defense (weapons_transaction)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Shamim Mafi
+- **Predicate:** brokered
+- **Object:** 55,000 bomb fuses to Sudanese Ministry of Defense (weapons_transaction)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Mafi and the co-conspirator brokered the sale of 55,000 bomb fuses to the Sudanese Ministry of Defense.
 
-### c_007 — reported, primary document
-**Subject entities:** Shamim Mafi
-**Predicate:** submitted
-**Object:** letter of intent to Iran's IRGC to purchase bomb fuses (official_correspondence)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Shamim Mafi
+- **Predicate:** submitted
+- **Object:** letter of intent to Iran's IRGC to purchase bomb fuses (official_correspondence)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Mafi submitted a letter of intent to Iran's Islamic Revolutionary Guard Corps to purchase the bomb fuses for Sudan.
 
-### c_008 — attributed, primary document
-**Subject entities:** Shamim Mafi
-**Predicate:** scheduled_appearance
-**Object:** U.S. District Court in Los Angeles, Monday April 21, 2026 (court_proceeding)
-**Temporal:** 2026-04-21
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Shamim Mafi
+- **Predicate:** scheduled_appearance
+- **Object:** U.S. District Court in Los Angeles, Monday April 21, 2026 (court_proceeding)
+- **Temporal:** 2026-04-21
+- **Sources:** src_001
 
 > Mafi is scheduled to appear in U.S. District Court in Los Angeles on Monday.
 
-### c_009 — reported, primary document
-**Subject entities:** Shamim Mafi
-**Predicate:** faces_potential_sentence
-**Object:** 20 years imprisonment (legal_penalty)
-**Temporal:** 2026-04-19
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Shamim Mafi
+- **Predicate:** faces_potential_sentence
+- **Object:** 20 years imprisonment (legal_penalty)
+- **Temporal:** 2026-04-19
+- **Sources:** src_001
 
 > If convicted, Mafi could face up to 20 years in prison.
 
-### c_010 — attributed, single source
-**Subject entities:** Sudan
-**Predicate:** experiencing
-**Object:** fourth-year civil war with humanitarian crisis, food scarcity, mass displacement (conflict_situation)
-**Temporal:** 2026-04-19
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Sudan
+- **Predicate:** experiencing
+- **Object:** fourth-year civil war with humanitarian crisis, food scarcity, mass displacement (conflict_situation)
+- **Temporal:** 2026-04-19
+- **Sources:** src_001
 
 > Sudan is in its fourth year of civil war, which has created a humanitarian crisis where food supplies are dwindling and millions of people have fled their homes.
 
@@ -185,10 +212,5 @@ This article was generated algorithmically by Main Street Independent's News Art
 
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Publication date:** 2026-04-19
-**Access date:** 2026-05-17
 **Title:** Woman arrested at LAX on Iranian arms trafficking charge
 **URL:** https://apnews.com/article/shamim-mafi-los-angeles-iran-sudan-weapons-trafficking-arrest-bf03e180a39c308258081248f44ddf72
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

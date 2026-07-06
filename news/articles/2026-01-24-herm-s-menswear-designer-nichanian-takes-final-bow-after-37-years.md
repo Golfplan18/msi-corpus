@@ -209,7 +209,3 @@ Rather than departing Hermès, Nichanian will remain with the house overseeing t
 **Access date:** 2026-01-24
 **Title:** Hermès menswear designer Nichanian takes final bow after 37 years
 **URL:** https://apnews.com/article/paris-fashion-week-hermes-75c4cd104d6d1eb12501d0011dfecf65
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

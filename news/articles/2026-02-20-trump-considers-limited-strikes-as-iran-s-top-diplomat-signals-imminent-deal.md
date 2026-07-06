@@ -19,8 +19,7 @@ topic_tags:
   - "armed conflict"
   - "conflict, war and peace"
 storyline_nexus:
-  - iran-war
-  - us-administration-2026
+- iran-nuclear-negotiations
 geographic_location: Middle East, Washington D.C.
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -128,8 +127,6 @@ Trump's comments about considering military strikes have drawn pushback from law
 Democratic Sen. Tim Kaine of Virginia said Friday that he has filed a war powers resolution that would require that approval. The resolution has no chance of becoming law in part because Trump would have to sign it. But similar resolutions in recent years have shown that some bipartisan consensus exists among senators troubled by the Trump administration's aggressive foreign policy moves.
 
 "If some of my colleagues support war, then they should have the guts to vote for the war, and to be held accountable by their constituents, rather than hiding under their desks," Kaine said.
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered. Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*
 
 ## Atomic claims
 
@@ -240,7 +237,3 @@ Democratic Sen. Tim Kaine of Virginia said Friday that he has filed a war powers
 **Access date:** 2026-02-20
 **Title:** Trump warns he's considering limited strikes on Iran
 **URL:** https://apnews.com/article/iran-trump-nuclear-deal-limited-strikes-07e2cc542d1d13ec6f0b873d69b4eede
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

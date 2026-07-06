@@ -14,7 +14,8 @@ primary_themes:
 - doctor-patient relationship
 topic_tags:
   - health
-storyline_nexus: []
+storyline_nexus:
+- trump-health-policy-rfk
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship
@@ -115,84 +116,102 @@ Whatever the format of the list — written, in a phone app, or submitted throug
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Sarah Nosal; American Academy of Family Physicians
-**Predicate:** holds_role
-**Object:** president (organizational_role)
-**Temporal:** 2025-12-20
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Sarah Nosal; American Academy of Family Physicians
+- **Predicate:** holds_role
+- **Object:** president (organizational_role)
+- **Temporal:** 2025-12-20
+- **Sources:** src_001
 
 > Dr. Sarah Nosal is president of the American Academy of Family Physicians.
 
-### c_002 — attributed, single source
-**Subject entities:** Sarah Nosal
-**Predicate:** recommends
-**Object:** written list of symptoms and questions, most urgent first (medical_advice)
-**Temporal:** 2025-12-20
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Sarah Nosal
+- **Predicate:** recommends
+- **Object:** written list of symptoms and questions, most urgent first (medical_advice)
+- **Temporal:** 2025-12-20
+- **Sources:** src_001
 
 > Nosal recommends bringing a written list of symptoms and questions to the start of every doctor visit, with the most pressing concern listed first.
 
-### c_003 — reported, single source
-**Subject entities:** primary care
-**Predicate:** associated_with
-**Object:** improved overall health (research_finding)
-**Temporal:** 2025-12-20
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** primary care
+- **Predicate:** associated_with
+- **Object:** improved overall health (research_finding)
+- **Temporal:** 2025-12-20
+- **Sources:** src_001
 
 > Research has long shown that a relationship with a primary care provider is important for overall health.
 
-### c_004 — attributed, single source
-**Subject entities:** Sarah Nosal; turmeric
-**Predicate:** can_interact_with
-**Object:** prescription medicines (medical_warning)
-**Temporal:** 2025-12-20
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Sarah Nosal; turmeric
+- **Predicate:** can_interact_with
+- **Object:** prescription medicines (medical_warning)
+- **Temporal:** 2025-12-20
+- **Sources:** src_001
 
 > Some supplements can interact with prescription medicines; Nosal cited patients whose longtime treatments stopped working after they began taking turmeric.
 
-### c_005 — reported, single source
-**Subject entities:** electronic medical records
-**Predicate:** not_automatically_shared
-**Object:** between providers (system_limitation)
-**Temporal:** 2025-12-20
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** electronic medical records
+- **Predicate:** not_automatically_shared
+- **Object:** between providers (system_limitation)
+- **Temporal:** 2025-12-20
+- **Sources:** src_001
 
 > Electronic medical records are not always automatically shared between health providers.
 
-### c_006 — attributed, single source
-**Subject entities:** Sarah Nosal
-**Predicate:** observed
-**Object:** mental and sexual health questions raised at last minute (clinical_observation)
-**Temporal:** 2025-12-20
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Sarah Nosal
+- **Predicate:** observed
+- **Object:** mental and sexual health questions raised at last minute (clinical_observation)
+- **Temporal:** 2025-12-20
+- **Sources:** src_001
 
 > Nosal said questions about mental or sexual health and wellness especially tend to come up at the last minute during doctor visits.
 
-### c_007 — reported, single source
-**Subject entities:** health advocacy groups
-**Predicate:** recommend
-**Object:** companion at medical appointments (medical_advice)
-**Temporal:** 2025-12-20
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** health advocacy groups
+- **Predicate:** recommend
+- **Object:** companion at medical appointments (medical_advice)
+- **Temporal:** 2025-12-20
+- **Sources:** src_001
 
 > Most health advocacy groups advise bringing a friend or relative to appointments, especially for patients with serious or multiple health problems.
 
-### c_008 — attributed, single source
-**Subject entities:** Sarah Nosal
-**Predicate:** advised
-**Object:** young adults gathering medical history before first independent appointments (medical_advice)
-**Temporal:** 2025-12-20
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Sarah Nosal
+- **Predicate:** advised
+- **Object:** young adults gathering medical history before first independent appointments (medical_advice)
+- **Temporal:** 2025-12-20
+- **Sources:** src_001
 
 > Young adults navigating health care on their own for the first time may need help filling out forms with personal medical history, such as prior anesthesia or vaccination records.
 
-### c_009 — attributed, single source
-**Subject entities:** Sarah Nosal
-**Predicate:** stated
-**Object:** family medical history informs preventive care decisions (medical_advice)
-**Temporal:** 2025-12-20
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Sarah Nosal
+- **Predicate:** stated
+- **Object:** family medical history informs preventive care decisions (medical_advice)
+- **Temporal:** 2025-12-20
+- **Sources:** src_001
 
 > Family medical history — including relatives' diagnoses of Type 2 diabetes, stroke, or early-onset cancer — can help tailor preventive care, Nosal said.
 
@@ -204,7 +223,3 @@ Whatever the format of the list — written, in a phone app, or submitted throug
 **Access date:** 2026-01-06
 **Title:** How to remember your health questions during a doctor's visit
 **URL:** https://apnews.com/article/doctor-visits-checkup-questions-primary-care-3fcde5b5c927734429818bd0ed1c6680
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

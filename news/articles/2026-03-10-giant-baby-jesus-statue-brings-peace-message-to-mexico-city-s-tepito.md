@@ -236,7 +236,3 @@ For Tepito resident María Concepción Franco, the visit carried deep personal m
 **Access date:** 2026-05-17
 **Title:** Towering Baby Jesus statue draws devotion in Mexico City
 **URL:** https://apnews.com/article/mexico-tepito-baby-jesus-8f3f86106e9bc6585d88c126929674a3
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

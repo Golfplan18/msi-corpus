@@ -19,39 +19,42 @@ primary_themes:
 - January 6 anniversary
 - Federal Reserve independence
 topic_tags:
-  - politics
+- politics
+- government
+- international relations
+- crime, law and justice
+- political dissent
 storyline_nexus:
-  - trump-greenland-acquisition
-  - trump-fed-independence
-geographic_location: Washington, D.C.
+- trump-greenland-ambitions
+geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
-  intensity: 0.75
-- value: informed_citizenship
-  intensity: 0.7
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:03:31Z'
+  intensity: 0.9
+- value: human_life_and_dignity
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:07:28Z'
 source_cluster_id: cluster_ap_2026-01-18_tillis-senate-trump-greenland-powell-mil
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 14
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 13
-    reported: 0
     contested: 0
     confirmed: 1
+    appears: 0
+    attributed: 13
+    reported: 0
+    alleged: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
+    two_independent: 0
     primary_document: 0
     single_source: 14
-    two_independent: 0
+    primary_plus_secondary: 0
+    one_originating_plus_primary_document: 0
 sources:
   count: 1
   outlets:
@@ -65,37 +68,18 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-12-trump-administration-targets-political-opponents-powell-and-fed-the-latest
-  relation: related
-  strength: 0.7905
-  confidence: medium
-- slug: 2026-01-09-gop-fractures-emerge-in-midterm-year-s-first-week-over-venezuela-greenland-healt
-  relation: related
-  strength: 0.7894
-  confidence: medium
-- slug: 2026-01-12-republican-senators-and-ex-fed-chairs-rally-against-doj-investigation-of-powell
-  relation: related
-  strength: 0.7583
-  confidence: medium
-- slug: 2026-01-12-cyprus-presidential-aide-resigns-after-video-alleging-corruption-linked-to-russi
-  relation: related
-  strength: 0.7548
-  confidence: medium
-- slug: 2026-01-06-trump-addresses-house-gop-with-meandering-speech-as-majority-shrinks-to-new-low
-  relation: related
-  strength: 0.7844
-  confidence: medium
-- slug: 2026-01-12-trump-doj-subpoenas-federal-reserve-threatens-powell-with-criminal-indictment
-  relation: related
-  strength: 0.746
-  confidence: medium
-- slug: 2026-01-04-venezuela-intervention-tests-trump-s-america-first-pledge-as-gop-shows-unease
-  relation: related
-  strength: 0.7581
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Summary point 1.
+- Summary point 2.
+- Summary point 3.
+- Summary point 4.
 
 WASHINGTON — Sen. Thom Tillis said he is "sick of stupid" on the Senate floor as the North Carolina Republican used the opening weeks of 2026 to rebuke senior White House aides over Greenland military threats, European tariffs, a Justice Department probe of Federal Reserve Chairman Jerome Powell, and pardons for Jan. 6 defendants who attacked police.
 
@@ -139,129 +123,157 @@ The White House did not respond to the Associated Press's request for comment on
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Thom Tillis
-**Predicate:** stated_publicly
-**Object:** I'm sick of stupid (quotation)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Thom Tillis
+- **Predicate:** stated_publicly
+- **Object:** I'm sick of stupid (quotation)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Tillis said 'I'm sick of stupid' from the Senate floor, deriding Trump advisers for stoking a potential U.S. military takeover in Greenland.
 
-### c_002 — attributed, single source
-**Subject entities:** Thom Tillis; Lisa Murkowski
-**Predicate:** participated_in
-**Object:** congressional delegation to Denmark (action)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Thom Tillis; Lisa Murkowski
+- **Predicate:** participated_in
+- **Object:** congressional delegation to Denmark (action)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Tillis and Alaska Sen. Lisa Murkowski were the only two Republicans to participate in a congressional delegation to Denmark while Trump threatened to seize Greenland.
 
-### c_003 — attributed, single source
-**Subject entities:** Donald Trump
-**Predicate:** announced
-**Object:** tariffs on eight European nations opposing U.S. control of Greenland (policy_action)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** announced
+- **Object:** tariffs on eight European nations opposing U.S. control of Greenland (policy_action)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Trump announced tariffs on eight European nations that have opposed U.S. control of Greenland.
 
-### c_004 — attributed, single source
-**Subject entities:** Thom Tillis; Jerome Powell
-**Predicate:** criticized
-**Object:** DOJ investigation of Federal Reserve Chairman Jerome Powell (action)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Thom Tillis; Jerome Powell
+- **Predicate:** criticized
+- **Object:** DOJ investigation of Federal Reserve Chairman Jerome Powell (action)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Tillis criticized the Justice Department's investigation of Federal Reserve Chairman Jerome Powell.
 
-### c_005 — attributed, single source
-**Subject entities:** Thom Tillis
-**Predicate:** stated
-**Object:** one of the worst days in my 11 years in the U.S. Senate (quotation)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Thom Tillis
+- **Predicate:** stated
+- **Object:** one of the worst days in my 11 years in the U.S. Senate (quotation)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Tillis called the Jan. 6, 2021 attack 'one of the worst days in my 11 years in the U.S. Senate.'
 
-### c_006 — attributed, single source
-**Subject entities:** Thom Tillis; Donald Trump
-**Predicate:** stated
-**Object:** The president, on the advice of somebody in the White House — and I hope I find out the name of that person — also pardoned criminals who injured police officers and destroyed this building (quotation)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Thom Tillis; Donald Trump
+- **Predicate:** stated
+- **Object:** The president, on the advice of somebody in the White House — and I hope I find out the name of that person — also pardoned criminals who injured police officers and destroyed this building (quotation)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Tillis said from the Senate floor that Trump, on the advice of an unnamed White House aide, also pardoned criminals who injured police officers and destroyed the Capitol.
 
-### c_007 — attributed, single source
-**Subject entities:** Thom Tillis; Stephen Miller
-**Predicate:** criticized
-**Object:** He made comments out of his depth (quotation)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Thom Tillis; Stephen Miller
+- **Predicate:** criticized
+- **Object:** He made comments out of his depth (quotation)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Tillis said deputy White House chief of staff Stephen Miller 'made comments out of his depth' after Miller told CNN that Greenland 'should be part of the United States.'
 
-### c_008 — attributed, single source
-**Subject entities:** Kristi Noem; Renee Good
-**Predicate:** stated
-**Object:** attempted to run a law enforcement officer over (quotation)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Kristi Noem; Renee Good
+- **Predicate:** stated
+- **Object:** attempted to run a law enforcement officer over (quotation)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Homeland Security Secretary Kristi Noem said hours after the ICE shooting of Renee Good in Minneapolis that Good 'attempted to run a law enforcement officer over,' while an FBI investigation was still unfolding.
 
-### c_009 — attributed, single source
-**Subject entities:** Thom Tillis; Kristi Noem
-**Predicate:** stated
-**Object:** surprised by the level of certainty in her comments (quotation)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Thom Tillis; Kristi Noem
+- **Predicate:** stated
+- **Object:** surprised by the level of certainty in her comments (quotation)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Tillis said he was 'surprised by the level of certainty' in Noem's public comments about the Minneapolis shooting.
 
-### c_010 — attributed, single source
-**Subject entities:** Donald Trump; Thom Tillis
-**Predicate:** stated
-**Object:** That's why Thom's not going to be a senator any longer, I guess (quotation)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Thom Tillis
+- **Predicate:** stated
+- **Object:** That's why Thom's not going to be a senator any longer, I guess (quotation)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Trump said of Tillis this week: 'That's why Thom's not going to be a senator any longer, I guess.'
 
-### c_011 — attributed, single source
-**Subject entities:** Thom Tillis
-**Predicate:** voted_against
-**Object:** Trump's sweeping tax and spending cuts package (legislative_action)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Thom Tillis
+- **Predicate:** voted_against
+- **Object:** Trump's sweeping tax and spending cuts package (legislative_action)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Tillis voted against Trump's sweeping tax and spending cuts package last summer, one of only two Senate Republicans to do so, and announced his retirement shortly after.
 
-### c_012 — attributed, single source
-**Subject entities:** Thom Tillis; Mike Johnson
-**Predicate:** brokered
-**Object:** deal to display plaque honoring Capitol officers from Jan. 6 (action)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Thom Tillis; Mike Johnson
+- **Predicate:** brokered
+- **Object:** deal to display plaque honoring Capitol officers from Jan. 6 (action)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Tillis helped broker the deal to publicly display a plaque honoring officers who defended the Capitol on Jan. 6, which had been held up by House Speaker Mike Johnson.
 
-### c_013 — attributed, single source
-**Subject entities:** Thom Tillis
-**Predicate:** posted_on_social_media
-**Object:** The fact that a small handful of 'advisors' are actively pushing for coercive action to seize territory of an ally is beyond stupid (quotation)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Thom Tillis
+- **Predicate:** posted_on_social_media
+- **Object:** The fact that a small handful of 'advisors' are actively pushing for coercive action to seize territory of an ally is beyond stupid (quotation)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Tillis posted on social media that 'a small handful of advisors are actively pushing for coercive action to seize territory of an ally is beyond stupid.'
 
-### c_014 — confirmed, single source
-**Subject entities:** Thom Tillis
-**Predicate:** biographical_record
-**Object:** speaker of NC House of Representatives 2011–2015; prior private-sector career (biographical_fact)
-**Temporal:** 2011-2015
-**Source IDs:** src_001
+### c_014
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Thom Tillis
+- **Predicate:** biographical_record
+- **Object:** speaker of NC House of Representatives 2011–2015; prior private-sector career (biographical_fact)
+- **Temporal:** 2011-2015
+- **Sources:** src_001
 
 > Tillis is 65 years old, served as speaker of North Carolina's House of Representatives from 2011 to 2015, and worked at an accounting and consulting firm before entering politics.
 
@@ -270,10 +282,5 @@ The White House did not respond to the Associated Press's request for comment on
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Steven Sloan
 **Publication date:** 2026-01-17
-**Access date:** 2026-01-17
 **Title:** Sen. Thom Tillis takes on the White House, but not Trump
 **URL:** https://apnews.com/article/tillis-senate-trump-greenland-powell-miller-fd1a1123b1998b2a8be45e0fb9da52d5
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

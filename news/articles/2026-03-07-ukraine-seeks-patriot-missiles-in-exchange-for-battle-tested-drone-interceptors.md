@@ -29,7 +29,7 @@ topic_tags:
   - "economy, business and finance"
   - "international trade"
 storyline_nexus:
-  - ai-regulation
+- ukraine-war-peace-negotiations
 geographic_location: Ukraine; Middle East
 floor_values_engaged:
 - value: informed_citizenship
@@ -244,7 +244,3 @@ If cooperation with partners succeeds, Ukraine could emerge as a new player in g
 **Access date:** 2026-03-07
 **Title:** Ukraine offers low-cost interceptor drones to aid US in Middle East war
 **URL:** https://apnews.com/article/iran-ukraine-shahed-russia-drone-defenses-war-76c91cad24bb98dd201f8f37a93c3464
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

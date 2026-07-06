@@ -100,8 +100,6 @@ For Zara, the project reflects Neverland Pizzeria's broader philosophy. "We've a
 
 However, he added, there is a modern boundary the restaurant will not cross. "We do a lot of experimentation with our pizzas. But of course, we definitely do not use pineapple," he said.
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
 ### c_001 — reported, single source
@@ -202,7 +200,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-05-18
 **Title:** Hungarian pizzeria serves up a topped flatbread inspired by ancient Roman ingredients
 **URL:** https://apnews.com/article/hungary-ancient-rome-pizza-896056031e34081a2fa76ae563438116
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

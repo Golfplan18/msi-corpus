@@ -20,42 +20,42 @@ primary_themes:
 - congressional apportionment
 - state legislatures
 topic_tags:
-  - "politics"
-  - "political process"
-  - "election"
+- election
+- politics
+- government
+- government policy
+- political process
 storyline_nexus:
-  - us-administration-2026
-  - ai-regulation
-  - trump-tariff-policy
+- redistricting-voting-rights
 geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.8
-framework_version: 1.1.0
-generation_timestamp: '2026-01-12T00:00:00Z'
+  intensity: 0.9
+- value: equality_fairness
+  intensity: 0.9
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:43:48Z'
 source_cluster_id: cluster_ap_2026-01-11_redistricting-congress-gerrymandering-tr
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 15
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 11
-    reported: 1
     contested: 0
+    reported: 1
     confirmed: 3
+    alleged: 0
+    appears: 0
+    attributed: 11
   corroboration:
-    primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
-    primary_document: 0
     single_source: 15
+    primary_document: 0
     two_independent: 0
+    primary_plus_secondary: 0
 sources:
   count: 1
   outlets:
@@ -73,17 +73,19 @@ image:
   url: /articles/2026-01-12-trump-s-redistricting-push-reaches-a-crossroads-as-new-legislative-sessions-begi.png
   alt: 'Illustration accompanying article: Trump''s redistricting push reaches a crossroads as new legislative sessions'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-07-trump-redistricting-push-spreads-to-one-third-of-states-giving-gop-a-three-seat-
-  relation: related
-  strength: 0.9351
-  confidence: medium
-- slug: 2026-01-07-desantis-calls-april-special-session-to-redraw-florida-s-congressional-districts
-  relation: related
-  strength: 0.8982
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- "We're at a crossroads to see if the mid-decade redistricting movement gains more speed or was simply an attempt by Donald Trump to impact elections that in many states fizzled," said Jeffrey Wice, di…
+- Trump launched the effort in July by calling on Texas Republicans to redraw their congressional map without new census data, triggering a mid-decade redistricting battle the likes of which has not bee…
+- But the momentum slowed in the fall. On Oct. 31, Virginia's Democratic-led legislature took a first step toward redistricting. In November, California voters approved new House districts favoring Demo…
+- The amendment, which received first-round approval in the fall, would also require passage of a statewide referendum before new districts could take effect. Democrats, who currently hold six of Virgin…
+- Gov.-elect Abigail Spanberger, a Democrat, said she would consider redistricting maps that keep communities compact, while placing the ultimate decision with voters.
 
 President Donald Trump's unusual mid-decade redistricting campaign stands at a pivotal moment as state legislative sessions open this week, with Virginia Democrats and Florida Republicans preparing to press forward even as resistance in several other targeted states suggests the movement may have lost momentum. Indiana's Republican-led Senate dealt the effort its sharpest setback in December, defeating a plan that could have helped the GOP win all nine of the state's U.S. House seats.
 
@@ -135,138 +137,168 @@ In Kansas, House Speaker Dan Hawkins told reporters he has no plans to hold a re
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Donald Trump; Texas
-**Predicate:** initiated
-**Object:** mid-decade redistricting push (political_action)
-**Temporal:** 2025-07
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Texas
+- **Predicate:** initiated
+- **Object:** mid-decade redistricting push (political_action)
+- **Temporal:** 2025-07
+- **Sources:** src_001
 
 > Trump called on Texas Republicans to redraw their congressional map in July, triggering a mid-decade redistricting effort.
 
-### c_002 — attributed, single source
-**Subject entities:** Texas; Missouri; North Carolina
-**Predicate:** approved
-**Object:** Republican-favorable congressional maps (legislative_action)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Texas; Missouri; North Carolina
+- **Predicate:** approved
+- **Object:** Republican-favorable congressional maps (legislative_action)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Texas, Missouri and North Carolina approved new Republican-friendly U.S. House districts.
 
-### c_003 — attributed, single source
-**Subject entities:** Ohio
-**Predicate:** redistricted
-**Object:** Republican-favorable congressional map (legislative_action)
-**Temporal:** 2025-10-31
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ohio
+- **Predicate:** redistricted
+- **Object:** Republican-favorable congressional map (legislative_action)
+- **Temporal:** 2025-10-31
+- **Sources:** src_001
 
 > Ohio redistricted under its state constitution and adopted a more favorable House map for Republicans.
 
-### c_004 — confirmed, single source
-**Subject entities:** Indiana; Donald Trump
-**Predicate:** defeated
-**Object:** congressional redistricting plan (legislative_vote)
-**Temporal:** 2025-12-11
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Indiana; Donald Trump
+- **Predicate:** defeated
+- **Object:** congressional redistricting plan (legislative_vote)
+- **Temporal:** 2025-12-11
+- **Sources:** src_001
 
 > Indiana's Republican-led Senate defeated a redistricting plan on Dec. 11 that could have helped the GOP win all nine of the state's U.S. House seats.
 
-### c_005 — reported, single source
-**Subject entities:** U.S. Republican Party
-**Predicate:** projected_gain
-**Object:** three additional U.S. House seats (electoral_projection)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Republican Party
+- **Predicate:** projected_gain
+- **Object:** three additional U.S. House seats (electoral_projection)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > The net result of 2025 redistricting could be three additional seats for Republicans, though legal challenges remain in some states.
 
-### c_006 — confirmed, single source
-**Subject entities:** California
-**Predicate:** approved
-**Object:** Democratic-favorable congressional districts (ballot_measure)
-**Temporal:** 2025-11
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** California
+- **Predicate:** approved
+- **Object:** Democratic-favorable congressional districts (ballot_measure)
+- **Temporal:** 2025-11
+- **Sources:** src_001
 
 > California voters approved new House districts helping Democrats in November.
 
-### c_007 — confirmed, single source
-**Subject entities:** Utah
-**Predicate:** adopted
-**Object:** Democratic-favorable congressional map (court_action)
-**Temporal:** 2025-11
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Utah
+- **Predicate:** adopted
+- **Object:** Democratic-favorable congressional map (court_action)
+- **Temporal:** 2025-11
+- **Sources:** src_001
 
 > A Utah judge adopted a new House map that benefits Democrats.
 
-### c_008 — attributed, single source
-**Subject entities:** Virginia; U.S. Democratic Party
-**Predicate:** holds
-**Object:** six of eleven U.S. House seats (electoral_composition)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Virginia; U.S. Democratic Party
+- **Predicate:** holds
+- **Object:** six of eleven U.S. House seats (electoral_composition)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Virginia Democrats hold six of the state's 11 U.S. House seats and have discussed gaining as many as four additional seats.
 
-### c_009 — attributed, single source
-**Subject entities:** Abigail Spanberger
-**Predicate:** stated
-**Object:** openness to redistricting maps keeping communities compact (public_statement)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Abigail Spanberger
+- **Predicate:** stated
+- **Object:** openness to redistricting maps keeping communities compact (public_statement)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Virginia Gov.-elect Abigail Spanberger said she would consider maps that keep communities compact but that the decision ultimately rests with Virginia voters.
 
-### c_010 — attributed, single source
-**Subject entities:** Florida; U.S. Republican Party
-**Predicate:** holds
-**Object:** 20 of 28 U.S. House seats (electoral_composition)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Florida; U.S. Republican Party
+- **Predicate:** holds
+- **Object:** 20 of 28 U.S. House seats (electoral_composition)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Florida Republicans hold 20 of the state's 28 U.S. House seats.
 
-### c_011 — attributed, single source
-**Subject entities:** Ron DeSantis; Florida
-**Predicate:** plans
-**Object:** April special redistricting session (executive_action)
-**Temporal:** 2026-04
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ron DeSantis; Florida
+- **Predicate:** plans
+- **Object:** April special redistricting session (executive_action)
+- **Temporal:** 2026-04
+- **Sources:** src_001
 
 > Florida Gov. Ron DeSantis plans to call a special redistricting session in April, waiting first for a possible U.S. Supreme Court ruling on the Voting Rights Act.
 
-### c_012 — attributed, single source
-**Subject entities:** Kam Buckner; Illinois
-**Predicate:** stated
-**Object:** no active push for redistricting (public_statement)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Kam Buckner; Illinois
+- **Predicate:** stated
+- **Object:** no active push for redistricting (public_statement)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Illinois House Speaker Pro Tem Kam Buckner said there is no active push for congressional redistricting in Illinois.
 
-### c_013 — attributed, single source
-**Subject entities:** Wes Moore; Maryland
-**Predicate:** created
-**Object:** special redistricting commission (executive_action)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Wes Moore; Maryland
+- **Predicate:** created
+- **Object:** special redistricting commission (executive_action)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Maryland Gov. Wes Moore created a special commission to recommend a new congressional map.
 
-### c_014 — attributed, single source
-**Subject entities:** Bill Ferguson; Maryland
-**Predicate:** opposes
-**Object:** mid-decade congressional redistricting (legislative_position)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Bill Ferguson; Maryland
+- **Predicate:** opposes
+- **Object:** mid-decade congressional redistricting (legislative_position)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Maryland Senate President Bill Ferguson remains opposed to redistricting and says a majority of residents do not want new districts.
 
-### c_015 — attributed, single source
-**Subject entities:** Dan Hawkins; Kansas
-**Predicate:** stated
-**Object:** no plans for redistricting vote; lacks sufficient votes (public_statement)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Dan Hawkins; Kansas
+- **Predicate:** stated
+- **Object:** no plans for redistricting vote; lacks sufficient votes (public_statement)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Kansas House Speaker Dan Hawkins said he has no plans to hold a redistricting vote and does not have the votes to do so.
 
@@ -275,10 +307,5 @@ In Kansas, House Speaker Dan Hawkins told reporters he has no plans to hold a re
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** David A. Lieb
 **Publication date:** 2026-01-12
-**Access date:** 2026-01-12
 **Title:** Trump's redistricting push stands at a critical point
 **URL:** https://apnews.com/article/redistricting-congress-gerrymandering-trump-ce14ea15c5239caba4bd16caa7e81a85
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

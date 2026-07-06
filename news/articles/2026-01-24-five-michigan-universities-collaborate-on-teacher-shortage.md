@@ -23,7 +23,8 @@ topic_tags:
   - education
   - "higher education"
   - labour
-storyline_nexus: []
+storyline_nexus:
+- housing-affordability-crisis
 geographic_location: Michigan, United States
 floor_values_engaged:
 - value: informed_citizenship
@@ -114,93 +115,113 @@ The collaborative addresses challenges documented in the Education Policy Innova
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Central Michigan University; Eastern Michigan University; Michigan State University; Northern Michigan University; Western Michigan University
-**Predicate:** collaborate_on_initiative
-**Object:** two-year Education Preparation Provider Collaborative (initiative)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Central Michigan University; Eastern Michigan University; Michigan State University; Northern Michigan University; Western Michigan University
+- **Predicate:** collaborate_on_initiative
+- **Object:** two-year Education Preparation Provider Collaborative (initiative)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > Five Michigan universities are collaborating on a two-year initiative to address teacher shortage.
 
-### c_002 — attributed, single source
-**Subject entities:** Education Preparation Provider Collaborative; Michigan Educator Workforce Initiative
-**Predicate:** partners_with
-**Object:** to improve teacher preparation, recruitment, retention and quality (partnership_goal)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Education Preparation Provider Collaborative; Michigan Educator Workforce Initiative
+- **Predicate:** partners_with
+- **Object:** to improve teacher preparation, recruitment, retention and quality (partnership_goal)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > The collaborative partners with the Michigan Educator Workforce Initiative.
 
-### c_003 — reported, primary document
-**Subject entities:** Michigan teacher workforce
-**Predicate:** entrance_exit_rates
-**Object:** 8,000 entered, 7,900 exited (workforce_churn)
-**Temporal:** 2024-25
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Michigan teacher workforce
+- **Predicate:** entrance_exit_rates
+- **Object:** 8,000 entered, 7,900 exited (workforce_churn)
+- **Temporal:** 2024-25
+- **Sources:** src_001
 
 > In 2024-25, 8,000 teachers entered Michigan and 7,900 exited the field.
 
-### c_004 — reported, primary document
-**Subject entities:** Michigan teaching positions
-**Predicate:** vacancy_rate
-**Object:** 2.9% (percentage)
-**Temporal:** 2024-25
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Michigan teaching positions
+- **Predicate:** vacancy_rate
+- **Object:** 2.9% (percentage)
+- **Temporal:** 2024-25
+- **Sources:** src_001
 
 > Nearly 3% of full-time equivalent teaching positions in Michigan were vacant in 2024-25.
 
-### c_005 — reported, primary document
-**Subject entities:** Michigan urban school districts; Michigan economically disadvantaged districts
-**Predicate:** experience_highest_vacancies
-**Object:** teacher shortage (educational_challenge)
-**Temporal:** 2024-25
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Michigan urban school districts; Michigan economically disadvantaged districts
+- **Predicate:** experience_highest_vacancies
+- **Object:** teacher shortage (educational_challenge)
+- **Temporal:** 2024-25
+- **Sources:** src_001
 
 > Highest teacher vacancies are in urban districts and those serving economically disadvantaged students.
 
-### c_006 — attributed, single source
-**Subject entities:** Education Preparation Provider Collaborative
-**Predicate:** will_establish
-**Object:** partnerships between educator preparation and school districts (structural_change)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Education Preparation Provider Collaborative
+- **Predicate:** will_establish
+- **Object:** partnerships between educator preparation and school districts (structural_change)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > The collaborative will establish partnerships between teacher preparation programs and pre-K-12 districts.
 
-### c_007 — attributed, single source
-**Subject entities:** Michigan Educator Workforce Initiative; Participating universities
-**Predicate:** provides_funding
-**Object:** $100,000 per university (monetary_support)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Michigan Educator Workforce Initiative; Participating universities
+- **Predicate:** provides_funding
+- **Object:** $100,000 per university (monetary_support)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > The Michigan Educator Workforce Initiative will provide each participating university $100,000.
 
-### c_008 — attributed, single source
-**Subject entities:** Jack Elsey; School districts; Teachers
-**Predicate:** said
-**Object:** districts expect teachers to handle literacy, math, collaboration, data analysis (quoted_statement)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jack Elsey; School districts; Teachers
+- **Predicate:** said
+- **Object:** districts expect teachers to handle literacy, math, collaboration, data analysis (quoted_statement)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > Jack Elsey said districts expect more from teachers across literacy, math, collaboration and data analysis.
 
-### c_009 — attributed, single source
-**Subject entities:** Russ Kavalhuna; Western Michigan University
-**Predicate:** said
-**Object:** commitment to create feedback loops ensuring program responsiveness to school district needs (quoted_statement)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Russ Kavalhuna; Western Michigan University
+- **Predicate:** said
+- **Object:** commitment to create feedback loops ensuring program responsiveness to school district needs (quoted_statement)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > Russ Kavalhuna said Western Michigan will deepen collaboration with districts on program responsiveness.
 
-### c_010 — attributed, single source
-**Subject entities:** Ryan Gildersleeve; Students; Teachers
-**Predicate:** said
-**Object:** student success and career readiness depends on teacher preparation (quoted_statement)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ryan Gildersleeve; Students; Teachers
+- **Predicate:** said
+- **Object:** student success and career readiness depends on teacher preparation (quoted_statement)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > Ryan Gildersleeve said successful students and post-secondary access depend on how teachers are prepared.
 
@@ -212,7 +233,3 @@ The collaborative addresses challenges documented in the Education Policy Innova
 **Access date:** 2026-05-18
 **Title:** Five universities collaborate to address Michigan teacher shortage
 **URL:** https://apnews.com/article/teaching-michigan-colleges-and-universities-schools-general-news-9b49b3c020d6ab5af7828de2b428b451
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

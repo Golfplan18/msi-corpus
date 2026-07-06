@@ -27,7 +27,7 @@ topic_tags:
   - labour
   - politics
 storyline_nexus:
-  - russia-ukraine-war
+- ukraine-war-peace-negotiations
 geographic_location: Europe
 floor_values_engaged:
 - value: accountability_of_power
@@ -118,9 +118,9 @@ Polish Defence Minister Władysław Kosiniak-Kamysz said the group signed an acc
 
 "Combat technologies and techniques are changing rapidly; we must respond with speed and in an appropriate way," Kosiniak-Kamysz said. He emphasized the group's commitment to "joint development of drone-based attack capabilities, joint low-cost production and joint acquisition of drone effectors — that is, combat payloads — using artificial intelligence."
 
-Kaja Kallas, the European Union's high representative for foreign policy, described European security as "more uncertain than it has been in decades," citing Russian aggression, instability in the Middle East, China's growing power, and "a reshaped alliance with the United States."
+Kaja Kallas, the European Union's high representative for foreign policy, described European security as "more uncertain than it has been in decades," citing Russian aggression, instability in the Middle East, China's growing power, and a redefined alliance with the United States.
 
-"If we want to keep our continent safe, we must strengthen our hard power," Kallas said. "The good news is that we are already investing record sums in defense. Europe is stepping up, but it is not about competing with NATO. It is about making Europe stronger within NATO. A stronger Europe also makes the alliance stronger."
+Kallas said Europe must strengthen its hard power to keep the continent safe. "The good news is that we are already investing record sums in defense. Europe is stepping up, but it is not about competing with NATO. It is about making Europe stronger within NATO. A stronger Europe also makes the alliance stronger."
 
 ## Pressure From Washington and Moscow
 
@@ -129,8 +129,6 @@ European officials have moved to bolster defense spending in response to Russian
 Russia has been attributed responsibility by the West for some drone incidents over European territory. Russia denies intentional involvement in such incidents, saying the drones' entry into European airspace was not deliberate and that Russia bore no responsibility.
 
 The 32-member NATO alliance has faced turbulence during Trump's second term as president. His statements about taking Greenland and his disparaging remarks about troops from allied nations have sparked fresh waves of criticism and concern among European leaders about the durability of transatlantic security commitments.
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public source listed under `sources`. Learn more about our methodology at /methodology. Published under CC0.*
 
 ## Atomic claims
 
@@ -268,7 +266,3 @@ The 32-member NATO alliance has faced turbulence during Trump's second term as p
 **Access date:** 2026-02-20
 **Title:** Cinco países europeos invertirán millones para usar tecnología ucraniana en defensa antidrones
 **URL:** https://apnews.com/article/europa-defensa-drones-ucrania-rusia-92012ad71f35439420a8065e4b39707e
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -15,43 +15,43 @@ primary_themes:
 - voter access
 - 2026 midterm elections
 topic_tags:
-  - politics
-  - election
-  - government
-storyline_nexus: []
+- election
+- civil rights
+- government policy
+- political process
+storyline_nexus:
+- redistricting-voting-rights
 geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.7
+  intensity: 0.9
 - value: equality_fairness
-  intensity: 0.75
+  intensity: 0.9
 - value: human_life_and_dignity
-  intensity: 0.5
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:00:00Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:52:58Z'
 source_cluster_id: cluster_ap_2026-01-17_elections-postal-service-mail-ballots-po
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 11
   hedges:
+    attributed: 6
     appears: 0
     alleged: 0
-    attributed: 6
     reported: 2
-    contested: 0
     confirmed: 3
+    contested: 0
   corroboration:
+    two_independent: 0
+    single_source: 8
+    primary_document: 3
     primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
-    primary_document: 3
-    single_source: 8
-    two_independent: 0
 sources:
   count: 1
   outlets:
@@ -68,6 +68,13 @@ figures_aggregate:
 cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- - value: accountability_of_power
+- - value: human_life_and_dignity
 
 States that require mail ballots to be postmarked by Election Day use the postmark as the legal deadline. A postmark reflecting a processing center date rather than the actual mailing date could cause a legally submitted ballot to be rejected — an outcome election officials in California and Washington said they are already working to prevent.
 
@@ -93,102 +100,124 @@ The senators urged Steiner to restore "timely postmarks" and fully establish an 
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Q_USsenators; Q_DavidSteiner; Q_USPS
-**Predicate:** sent_letter_to
-**Object:** letter re: postmark changes and mail-in ballots (correspondence)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Q_USsenators; Q_DavidSteiner; Q_USPS
+- **Predicate:** sent_letter_to
+- **Object:** letter re: postmark changes and mail-in ballots (correspondence)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > Sixteen U.S. senators sent a letter on January 16, 2026, to USPS Postmaster General David Steiner expressing concern that mail processing changes could affect postmark dates for mail-in ballots.
 
-### c_002 — confirmed, primary document
-**Subject entities:** Q_USPS
-**Predicate:** changed_policy
-**Object:** postmark date may differ from mailing date (policy_change)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Q_USPS
+- **Predicate:** changed_policy
+- **Object:** postmark date may differ from mailing date (policy_change)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > Updated USPS policy means postmarks may reflect the date mail was handled at a regional processing center rather than the date it was collected by a letter carrier or dropped off at a retail location.
 
-### c_003 — reported, single source
-**Subject entities:** Q_USPS
-**Predicate:** consolidated_processing
-**Object:** regional processing centers farther from communities (operational_change)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Q_USPS
+- **Predicate:** consolidated_processing
+- **Object:** regional processing centers farther from communities (operational_change)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > USPS processing centers are increasingly farther from certain communities because of recent USPS consolidations, which could further delay postmarks.
 
-### c_004 — attributed, single source
-**Subject entities:** Q_MarthaJohnson; Q_USPS
-**Predicate:** stated
-**Object:** no change to existing operations or postmarking practices (agency_statement)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Q_MarthaJohnson; Q_USPS
+- **Predicate:** stated
+- **Object:** no change to existing operations or postmarking practices (agency_statement)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > USPS spokesperson Martha Johnson said the language in the final rule 'does not change any existing postal operations or postmarking practices.'
 
-### c_005 — confirmed, primary document
-**Subject entities:** Q_USPS
-**Predicate:** acknowledged
-**Object:** postmark/mailing-date divergence will become more common (agency_statement)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Q_USPS
+- **Predicate:** acknowledged
+- **Object:** postmark/mailing-date divergence will become more common (agency_statement)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > The USPS website states that the lack of alignment between mailing date and postmark date will become more common as it implements its regional-hub initiative.
 
-### c_006 — confirmed, primary document
-**Subject entities:** Q_USPS
-**Predicate:** offers
-**Object:** free manual postmark on request (available_remedy)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Q_USPS
+- **Predicate:** offers
+- **Object:** free manual postmark on request (available_remedy)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > People dropping off mail at a post office can request a free manual postmark to ensure the postmark date matches the mailing date.
 
-### c_007 — reported, single source
-**Subject entities:** Q_USPS
-**Predicate:** eliminated
-**Object:** twice-daily local-to-regional dispatch schedule (operational_change)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Q_USPS
+- **Predicate:** eliminated
+- **Object:** twice-daily local-to-regional dispatch schedule (operational_change)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > The USPS eliminated twice-daily mail dispatches from local post offices to regional processing centers, meaning mail received after the single daily transfer departs sits overnight.
 
-### c_008 — attributed, single source
-**Subject entities:** Q_ShirleyWeber; Q_CaliforniaSOS
-**Predicate:** stated
-**Object:** changes undermine vote-by-mail confidence; office to amplify early-return messaging (official_statement)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Q_ShirleyWeber; Q_CaliforniaSOS
+- **Predicate:** stated
+- **Object:** changes undermine vote-by-mail confidence; office to amplify early-return messaging (official_statement)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > California Secretary of State Shirley Weber said the changes undermine confidence in vote-by-mail and that her office would amplify messaging urging voters to return ballots early.
 
-### c_009 — attributed, single source
-**Subject entities:** Q_WashingtonSOS
-**Predicate:** recommended
-**Object:** drop box or voting center for ballots returned within one week of Election Day (official_recommendation)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Q_WashingtonSOS
+- **Predicate:** recommended
+- **Object:** drop box or voting center for ballots returned within one week of Election Day (official_recommendation)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > Washington state's secretary of state office recommended that voters returning ballots within a week of Election Day use a drop box or voting center rather than mail.
 
-### c_010 — attributed, single source
-**Subject entities:** Q_USsenators
-**Predicate:** represent
-**Object:** 11 states; 15 Democrats plus 1 independent caucusing with Democrats (membership)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Q_USsenators
+- **Predicate:** represent
+- **Object:** 11 states; 15 Democrats plus 1 independent caucusing with Democrats (membership)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > The 16 senators represent California, Nevada, Oregon, Washington, Minnesota, Wisconsin, Illinois, Maine, Connecticut, New Jersey, and Maryland; all are Democrats except one independent who typically aligns with the Democratic Party.
 
-### c_011 — attributed, single source
-**Subject entities:** Q_USsenators; Q_DavidSteiner
-**Predicate:** urged
-**Object:** restore timely postmarks; establish election mail task force (legislative_demand)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Q_USsenators; Q_DavidSteiner
+- **Predicate:** urged
+- **Object:** restore timely postmarks; establish election mail task force (legislative_demand)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > The senators urged Steiner to restore 'timely postmarks' and fully stand up an election mail task force.
 
@@ -197,10 +226,5 @@ The senators urged Steiner to restore "timely postmarks" and fully establish an 
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Claire Rush
 **Publication date:** 2026-01-16
-**Access date:** 2026-01-16
 **Title:** Senators concerned about Postal Service changes to mail-in ballots
 **URL:** https://apnews.com/article/elections-postal-service-mail-ballots-postmark-180b1dafbbf4dc5404473c97681ad7dc
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

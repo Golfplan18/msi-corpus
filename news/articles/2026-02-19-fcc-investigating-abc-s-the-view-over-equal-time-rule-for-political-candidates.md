@@ -19,8 +19,7 @@ primary_themes:
 topic_tags:
   - politics
   - "government policy"
-storyline_nexus:
-  - us-administration-2026
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship
@@ -96,8 +95,6 @@ Carr has previously suggested that investigating "The View," whose hosts have fr
 Talarico reported raising $2.5 million in campaign donations in the 24 hours following the Colbert interview. The late-night appearance, though rejected by CBS, reached substantially larger audiences through YouTube than through traditional broadcast television, highlighting the reach available through digital platforms outside FCC equal time regulations.
 
 A representative for "The View" declined to comment on the investigation.
-
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
 
 ## Atomic claims
 
@@ -189,7 +186,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-05-18
 **Title:** FCC is investigating ABC's 'The View' over equal time rule
 **URL:** https://apnews.com/article/view-fcc-stephen-colbert-abc-cbs-4fd679462e08de2cdc340071f48a83a9
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

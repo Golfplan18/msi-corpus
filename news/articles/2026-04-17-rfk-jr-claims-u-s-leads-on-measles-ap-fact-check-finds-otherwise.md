@@ -22,7 +22,7 @@ topic_tags:
   - health
   - politics
 storyline_nexus:
-  - ai-regulation
+- measles-vaccine-decline
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -125,10 +125,6 @@ Vaccination rates have been falling nationally, dropping from 95.2% in the 2019-
 
 Public health experts have criticized Kennedy's response to rising measles cases, citing his reluctance to forcefully advocate for vaccinations, his willingness to cast doubt on their safety, and his promotion of untested remedies instead.
 
----
-
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Read the [framework specification](/methodology). Licensed under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
-
 ## Atomic claims
 
 ### c_001 — attributed, single source
@@ -219,7 +215,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-05-17
 **Title:** FACT FOCUS - RFK Jr. claims US leads in controlling measles spread
 **URL:** https://apnews.com/article/measles-vaccine-outbreak-mmr-rfk-canada-mexico-bed6d69b668b9d8548ad65dab1a4fd9c
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

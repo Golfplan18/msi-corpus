@@ -21,7 +21,8 @@ topic_tags:
   - fire
   - government
   - "government policy"
-storyline_nexus: []
+storyline_nexus:
+- israel-hezbollah-lebanon-war
 geographic_location: Lebanon
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -299,7 +300,3 @@ The ceasefire appeared to be largely holding overnight as of Friday, offering th
 **Access date:** 2026-05-17
 **Title:** Thousands head home as US-brokered truce holds in Lebanon
 **URL:** https://apnews.com/article/lebanon-israel-hezbollah-ceasefire-united-states-e0412bb734d09aef492051c1730b5821
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

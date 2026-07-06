@@ -17,8 +17,7 @@ topic_tags:
   - "economy, business and finance"
   - "government policy"
   - "international trade"
-storyline_nexus:
-  - us-china-relations
+storyline_nexus: []
 geographic_location: Morocco and Senegal (North and West Africa)
 floor_values_engaged:
 - value: informed_citizenship
@@ -116,10 +115,6 @@ Morocco is also home to the influential Tijaniyya Sufi order, whose followers in
 The agreements follow the Africa Cup of Nations final, held last week, when tensions between the squads escalated. Senegalese players walked off the field in protest over a penalty decision, and supporters attempted to access the pitch. Senegal won the match 1-0.
 
 The incident prompted rights groups in Morocco to document a surge in online hate speech in the days following the match. Officials in both countries said the relationship between the two nations is anchored in strong economic ties that transcend the emotions of a sporting event.
-
----
-
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. Framework specification: /methodology. This work is released under [CC0](https://creativecommons.org/publicdomain/zero/1.0/) into the public domain.
 
 ## Atomic claims
 
@@ -229,7 +224,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-01-26
 **Title:** Morocco and Senegal pledge to stay friends and boost trade after soccer tensions
 **URL:** https://apnews.com/article/morocco-senegal-africa-cup-final-2de8727eeb1d8579f48e60f5516d4acc
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

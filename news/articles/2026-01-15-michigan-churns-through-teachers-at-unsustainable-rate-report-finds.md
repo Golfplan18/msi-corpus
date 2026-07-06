@@ -16,48 +16,47 @@ primary_themes:
 - special education
 - Michigan education policy
 topic_tags:
-  - education
-  - "education policy"
-  - government
-  - "monetary policy"
-  - politics
-  - "science and technology"
-storyline_nexus: []
-geographic_location: Michigan, United States
+- education
+- education policy
+- employment
+- school
+storyline_nexus:
+- housing-affordability-crisis
+geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship
-  intensity: 0.75
+  intensity: 0.9
+- value: equality_fairness
+  intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.5
-- value: human_life_and_dignity
-  intensity: 0.4
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:00:56Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:11:06Z'
 source_cluster_id: cluster_ap_2026-01-14_michigan-schools-general-news-a422015099
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 12
   hedges:
-    appears: 0
+    reported: 12
+    confirmed: 0
+    contested: 0
     alleged: 0
     attributed: 0
-    reported: 12
-    contested: 0
-    confirmed: 0
+    appears: 0
   corroboration:
+    single_source: 12
     primary_plus_secondary: 0
+    two_independent: 0
     one_originating_plus_primary_document: 0
     primary_document: 0
-    single_source: 12
-    two_independent: 0
 sources:
   count: 1
   outlets:
-  - Associated Press / Bridge Michigan
+  - Associated Press
   outlet_classes:
   - wire
   highest_reliability_tier: 1
@@ -67,21 +66,18 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-05-hawaiian-immersion-school-enrollment-surges-68-but-teacher-supply-lags
-  relation: related
-  strength: 0.8493
-  confidence: medium
-- slug: 2026-01-12-maine-universities-call-foul-on-f-grades-for-reading-teacher-preparation
-  relation: related
-  strength: 0.7846
-  confidence: medium
-- slug: 2026-01-06-montana-charter-school-embeds-college-teacher-training-in-elementary-classrooms
-  relation: related
-  strength: 0.7474
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- The findings reframe Michigan's teacher crisis as a retention problem more than a recruitment one, with special education facing vacancy rates that far exceed other subject areas and researchers urging greater investment in mentorship, professional development, and starting pay — currently ranked 44th nationally.
+- Michigan lost nearly 8,000 teachers last academic year while gaining only 7,900, an exchange rate that researchers at Michigan State University said Thursday represents an unsustainable level of churn threatening stability across the state's 1.4 million-student public school system.
+- The annual report from the Education Policy Innovation Collaborative at MSU found that more than 1-in-20 teachers currently leading classrooms — 5.3% — hold no teaching certificate, and that 3% are enrolled in teacher training programs, meaning a substantial share of students are being taught by educators who have not yet completed formal preparation.
+- "Stability is definitely a concern right now," said Tara Kilbride, associate director of the collaborative and co-author of the report.
 
 The findings reframe Michigan's teacher crisis as a retention problem more than a recruitment one, with special education facing vacancy rates that far exceed other subject areas and researchers urging greater investment in mentorship, professional development, and starting pay — currently ranked 44th nationally.
 
@@ -121,123 +117,142 @@ Michigan has roughly 900 public school districts. Leaders have struggled to recr
 
 ## Atomic claims
 
-### c_001 — reported, single source
-**Subject entities:** Michigan teachers
-**Predicate:** departed_workforce
-**Object:** ~8,000 (count)
-**Temporal:** 2024-2025
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Michigan teachers
+- **Predicate:** departed_workforce
+- **Object:** ~8,000 (count)
+- **Temporal:** 2024-2025
+- **Sources:** src_001
 
 > Nearly 8,000 teachers left Michigan's public school workforce during the last academic year.
 
-### c_002 — reported, single source
-**Subject entities:** Michigan teachers
-**Predicate:** entered_workforce
-**Object:** 7,900 (count)
-**Temporal:** 2024-2025
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Michigan teachers
+- **Predicate:** entered_workforce
+- **Object:** 7,900 (count)
+- **Temporal:** 2024-2025
+- **Sources:** src_001
 
 > 7,900 teachers entered Michigan's public school workforce during the last academic year.
 
-### c_003 — reported, single source
-**Subject entities:** Michigan classroom teachers
-**Predicate:** lack_teaching_certificate
-**Object:** 5.3% (percentage)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Michigan classroom teachers
+- **Predicate:** lack_teaching_certificate
+- **Object:** 5.3% (percentage)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > 5.3% of teachers leading classrooms in Michigan have no teaching certificate.
 
-### c_004 — reported, single source
-**Subject entities:** Michigan classroom teachers
-**Predicate:** enrolled_in_training
-**Object:** 3% (percentage)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Michigan classroom teachers
+- **Predicate:** enrolled_in_training
+- **Object:** 3% (percentage)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > 3% of teachers leading classrooms in Michigan are enrolled in teacher training programs.
 
-### c_005 — reported, single source
-**Subject entities:** Michigan state government
-**Predicate:** spent_on_teacher_programs
-**Object:** $275 million (dollar_amount)
-**Temporal:** 2020-2025
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Michigan state government
+- **Predicate:** spent_on_teacher_programs
+- **Object:** $275 million (dollar_amount)
+- **Temporal:** 2020-2025
+- **Sources:** src_001
 
 > Michigan has spent at least $275 million over the past five years on teacher recruitment and retention programs.
 
-### c_006 — reported, single source
-**Subject entities:** Michigan public schools
-**Predicate:** enroll
-**Object:** 1.4 million students, ~900 districts (enrollment)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Michigan public schools
+- **Predicate:** enroll
+- **Object:** 1.4 million students, ~900 districts (enrollment)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Michigan has roughly 1.4 million public school students across nearly 900 districts.
 
-### c_007 — reported, single source
-**Subject entities:** Michigan; teacher starting salaries
-**Predicate:** ranks_nationally
-**Object:** 44th, $41,645 (salary_rank)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Michigan; teacher starting salaries
+- **Predicate:** ranks_nationally
+- **Object:** 44th, $41,645 (salary_rank)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Michigan ranks 44th nationwide in starting teacher salaries at $41,645.
 
-### c_008 — reported, single source
-**Subject entities:** Michigan; teacher average pay
-**Predicate:** average_pay_ranks
-**Object:** 19th, $69,067 (salary_rank)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Michigan; teacher average pay
+- **Predicate:** average_pay_ranks
+- **Object:** 19th, $69,067 (salary_rank)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Michigan's average teacher pay of $69,067 ranks 19th among states.
 
-### c_009 — reported, single source
-**Subject entities:** Michigan special education positions
-**Predicate:** vacancy_rate
-**Object:** 5.2% (percentage)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Michigan special education positions
+- **Predicate:** vacancy_rate
+- **Object:** 5.2% (percentage)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Special education positions in Michigan carry a 5.2% vacancy rate.
 
-### c_010 — reported, single source
-**Subject entities:** Michigan teacher vacancies
-**Predicate:** vacancy_rates_by_subject
-**Object:** world languages 3.3%, arts 2.7%, science 2.6% (percentages)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Michigan teacher vacancies
+- **Predicate:** vacancy_rates_by_subject
+- **Object:** world languages 3.3%, arts 2.7%, science 2.6% (percentages)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > World languages positions carry a 3.3% vacancy rate, arts 2.7%, and science 2.6% in Michigan.
 
-### c_011 — reported, single source
-**Subject entities:** Michigan special education students
-**Predicate:** received_services
-**Object:** 223,100 (count)
-**Temporal:** 2024-2025
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Michigan special education students
+- **Predicate:** received_services
+- **Object:** 223,100 (count)
+- **Temporal:** 2024-2025
+- **Sources:** src_001
 
 > 223,100 students received special education services in Michigan last school year across public, private, and homeschool settings.
 
-### c_012 — reported, single source
-**Subject entities:** Michigan charter schools; Michigan urban school districts
-**Predicate:** higher_non_certified_teacher_rate
-**Object:** charter > traditional; urban > non-urban (comparative)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Michigan charter schools; Michigan urban school districts
+- **Predicate:** higher_non_certified_teacher_rate
+- **Object:** charter > traditional; urban > non-urban (comparative)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Interim and non-certified teachers are more common in charter schools than traditional public schools and more common in urban areas.
 
 ## Sources
 
-### src_001 — Associated Press / Bridge Michigan, wire, Tier 1, originating
+### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Isabel Lohman / Bridge Michigan
 **Publication date:** 2026-01-15
-**Access date:** 2026-01-15
 **Title:** Report: Michigan churns through teachers at unsustainable rate
 **URL:** https://apnews.com/article/michigan-schools-general-news-a422015099d1e97f938b93a987cc50f4
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

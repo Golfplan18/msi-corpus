@@ -14,45 +14,43 @@ primary_themes:
 - government accountability
 - correctional officer labor
 topic_tags:
-  - "artificial intelligence"
-  - "crime, law and justice"
-  - government
-  - "government policy"
-  - labour
-  - "law enforcement"
+- labour relations
+- government policy
+- crime, law and justice
+- wage and pension
 storyline_nexus:
-  - immigration-enforcement
-geographic_location: Nevada, United States
+- aca-medicaid-healthcare-crisis
+geographic_location: United States
 floor_values_engaged:
-- value: accountability_of_power
-  intensity: 0.85
-- value: informed_citizenship
-  intensity: 0.75
 - value: human_life_and_dignity
-  intensity: 0.65
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18'
+  intensity: 0.9
+- value: accountability_of_power
+  intensity: 0.9
+- value: informed_citizenship
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:57:21Z'
 source_cluster_id: cluster_ap_2026-02-21_joe-lombardo-prisons-nevada-general-news
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 13
   hedges:
-    appears: 0
-    alleged: 0
     attributed: 1
-    reported: 5
-    contested: 0
+    alleged: 0
+    appears: 0
     confirmed: 7
+    contested: 0
+    reported: 5
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 12
-    single_source: 1
     two_independent: 0
+    single_source: 1
+    primary_document: 12
+    one_originating_plus_primary_document: 0
+    primary_plus_secondary: 0
 sources:
   count: 1
   outlets:
@@ -66,21 +64,19 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-04-16-mississippi-auditor-demands-7-4m-from-private-prison-operator-over-staffing-fail
-  relation: related
-  strength: 0.8035
-  confidence: medium
-- slug: 2026-04-15-illinois-lawmakers-refuse-to-accept-corrections-audit-findings-demand-agency-ret
-  relation: related
-  strength: 0.7402
-  confidence: medium
-- slug: 2026-04-15-guards-accused-of-beating-detainees-at-florida-s-alligator-alcatraz
-  relation: related
-  strength: 0.6928
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Nevada prison system overtime pay continues to spiral; officers criticize state leaders
+- Nevada Department of Corrections paid more than $18 million in overtime from July through September 2025.
+- The July-September 2025 overtime payout was the highest quarterly amount for Nevada's prison system in at least two years.
+- The July-September 2025 overtime payout represented a $7 million increase from the prior three-month period.
+- Nevada Department of Corrections faced a $53 million deficit the previous year due to overtime payouts.
 
 Nevada's prison system paid more than $18 million in overtime from July through September 2025, the highest quarterly amount in at least two years, according to data presented to state lawmakers Thursday. The payout represented a $7 million increase from the prior three months and continued a spending pattern that created a $53 million agency deficit the previous year. Correctional officers union leaders attributed the surge to severe understaffing across state facilities.
 
@@ -118,136 +114,155 @@ Health insurance premiums for officers enrolled in the state insurance system ar
 
 "Rural area prisons with limited populations will be even further decimated than they are right now," Lunkwitz said. "I truly hope we can correct these issues before tragedy strikes."
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under sources. Specification available at /methodology.
-
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Nevada Department of Corrections
-**Predicate:** paid
-**Object:** $18 million+ (monetary_amount)
-**Temporal:** 2025-Q3
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Nevada Department of Corrections
+- **Predicate:** paid
+- **Object:** $18 million+ (monetary_amount)
+- **Temporal:** 2025-Q3
+- **Sources:** src_001
 
 > Nevada Department of Corrections paid more than $18 million in overtime from July through September 2025.
 
-### c_002 — confirmed, primary document
-**Subject entities:** Nevada Department of Corrections
-**Predicate:** recorded
-**Object:** highest quarterly overtime in 2+ years (record_status)
-**Temporal:** 2025-Q3
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Nevada Department of Corrections
+- **Predicate:** recorded
+- **Object:** highest quarterly overtime in 2+ years (record_status)
+- **Temporal:** 2025-Q3
+- **Sources:** src_001
 
 > The July-September 2025 overtime payout was the highest quarterly amount for Nevada's prison system in at least two years.
 
-### c_003 — confirmed, primary document
-**Subject entities:** Nevada Department of Corrections
-**Predicate:** increased
-**Object:** $7 million (monetary_amount)
-**Temporal:** 2025-Q3
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Nevada Department of Corrections
+- **Predicate:** increased
+- **Object:** $7 million (monetary_amount)
+- **Temporal:** 2025-Q3
+- **Sources:** src_001
 
 > The July-September 2025 overtime payout represented a $7 million increase from the prior three-month period.
 
-### c_004 — reported, primary document
-**Subject entities:** Nevada Department of Corrections
-**Predicate:** faced
-**Object:** $53 million deficit (monetary_amount)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Nevada Department of Corrections
+- **Predicate:** faced
+- **Object:** $53 million deficit (monetary_amount)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Nevada Department of Corrections faced a $53 million deficit the previous year due to overtime payouts.
 
-### c_005 — reported, primary document
-**Subject entities:** Nevada Department of Corrections
-**Predicate:** needs
-**Object:** 700+ positions (staffing_requirement)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Nevada Department of Corrections
+- **Predicate:** needs
+- **Object:** 700+ positions (staffing_requirement)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > A third-party review determined Nevada's prison system needs more than 700 additional positions.
 
-### c_006 — reported, primary document
-**Subject entities:** Nevada Department of Corrections
-**Predicate:** recorded
-**Object:** 76 deaths (mortality_count)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Nevada Department of Corrections
+- **Predicate:** recorded
+- **Object:** 76 deaths (mortality_count)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Seventy-six deaths occurred at Nevada state prisons in 2025, representing a significant increase.
 
-### c_007 — reported, primary document
-**Subject entities:** Nevada Department of Corrections; correctional officers
-**Predicate:** required
-**Object:** hospital escort duty (job_function)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Nevada Department of Corrections; correctional officers
+- **Predicate:** required
+- **Object:** hospital escort duty (job_function)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Prison officers are increasingly required to accompany inmates to hospitals due to health emergencies, a key driver of overtime costs.
 
-### c_008 — reported, primary document
-**Subject entities:** Nevada Department of Corrections
-**Predicate:** implemented
-**Object:** overtime reduction measures (policy)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Nevada Department of Corrections
+- **Predicate:** implemented
+- **Object:** overtime reduction measures (policy)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Nevada Department of Corrections implemented quarterly sick leave reports, reassigned certain positions, and required warden approval for overtime requests.
 
-### c_009 — confirmed, primary document
-**Subject entities:** Nevada Department of Corrections
-**Predicate:** acknowledged
-**Object:** staffing challenges in non-authorized positions (agency_statement)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Nevada Department of Corrections
+- **Predicate:** acknowledged
+- **Object:** staffing challenges in non-authorized positions (agency_statement)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > The agency acknowledged continuing to encounter challenges stemming from insufficient staffing, particularly in positions not authorized by the Legislature.
 
-### c_010 — confirmed, primary document
-**Subject entities:** Nevada Legislature
-**Predicate:** enacted
-**Object:** physical mail delivery requirement (statute)
-**Temporal:** 2023
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Nevada Legislature
+- **Predicate:** enacted
+- **Object:** physical mail delivery requirement (statute)
+- **Temporal:** 2023
+- **Sources:** src_001
 
 > A 2023 Nevada law requires correctional officers to provide inmates with original, physical copies of mail.
 
-### c_011 — attributed, single source
-**Subject entities:** Fraternal Order of Police Lodge 21
-**Predicate:** stated
-**Object:** drug smuggling enabled by mail policy (alleged_consequence)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Fraternal Order of Police Lodge 21
+- **Predicate:** stated
+- **Object:** drug smuggling enabled by mail policy (alleged_consequence)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Union leaders said the mail requirement makes it easier for drugs laced in ink to enter prisons.
 
-### c_012 — confirmed, primary document
-**Subject entities:** Joe Lombardo
-**Predicate:** did_not_respond
-**Object:** no comment provided (non_response)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_012
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Joe Lombardo
+- **Predicate:** did_not_respond
+- **Object:** no comment provided (non_response)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Governor Lombardo's office did not respond to requests for comment regarding prison staffing and overtime issues.
 
-### c_013 — confirmed, primary document
-**Subject entities:** James Dzurenda
-**Predicate:** did_not_respond
-**Object:** no comment provided (non_response)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_013
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** James Dzurenda
+- **Predicate:** did_not_respond
+- **Object:** no comment provided (non_response)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > The Nevada Department of Corrections director did not respond to requests for comment.
 
 ## Sources
 
 ### src_001 — Associated Press, wire, Tier 1, originating
-**Author:** Eric Neugeboren
+**Author:** Eric Neugeboren / The Nevada Independent
 **Publication date:** 2026-02-20
-**Access date:** 2026-05-18
 **Title:** Nevada prison system overtime pay continues to spiral; officers criticize state leaders
 **URL:** https://apnews.com/article/joe-lombardo-prisons-nevada-general-news-ef2d95ebb83bb691ef4735f87a878d05
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

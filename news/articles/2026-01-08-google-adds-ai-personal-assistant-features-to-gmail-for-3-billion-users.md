@@ -1,6 +1,5 @@
 ---
 headline: Google adds AI personal assistant features to Gmail for 3 billion users
-slug: 2026-01-08-google-adds-ai-personal-assistant-features-to-gmail-for-3-billion-users
 publish_date: '2026-01-08'
 lede: Google announced Thursday new artificial intelligence features for Gmail designed to personalize users' writing, answer questions drawn from inbox content, and generate daily to-do lists — an expansion the company said is aimed at turning the world's most popular email service, which counts more than 3 billion users, into a proactive personal assistant.
 nut_graf: The additions, powered by Google's Gemini 3 model, could transform how users interact with their inboxes, though they also renew privacy questions about how deeply the company's AI systems will access personal correspondence.
@@ -17,41 +16,42 @@ primary_themes:
 - consumer technology
 - data privacy
 topic_tags:
-  - "human interest"
-  - "science and technology"
-  - "economy, business and finance"
-  - "human migration"
-  - "artificial intelligence"
-storyline_nexus: []
+- artificial intelligence
+- computing and information technology
+- mass media
+storyline_nexus:
+- ai-industry-regulation
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship
-  intensity: 0.75
+  intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.45
-framework_version: 1.1.0
-generation_timestamp: '2026-05-16T19:48:33Z'
+  intensity: 0.6
+- value: human_life_and_dignity
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:00:27Z'
 source_cluster_id: cluster_ap_2026-01-07_google-gmail-artificial-intelligence-per
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 13
   hedges:
-    appears: 0
-    alleged: 0
+    confirmed: 1
     attributed: 11
+    alleged: 0
     reported: 1
     contested: 0
-    confirmed: 1
+    appears: 0
   corroboration:
+    primary_document: 1
     primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
-    primary_document: 1
-    single_source: 12
     two_independent: 0
+    single_source: 12
 sources:
   count: 1
   outlets:
@@ -72,6 +72,12 @@ image:
 cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Article processed for summary.
 
 Google announced Thursday new artificial intelligence features for Gmail designed to personalize users' writing, answer questions drawn from inbox content, and generate daily to-do lists — an expansion the company said is aimed at turning the world's most popular email service, which counts more than 3 billion users, into a proactive personal assistant.
 
@@ -105,120 +111,146 @@ Users can proofread AI-generated messages before sending them and can disable th
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Google
-**Predicate:** announced
-**Object:** new AI features for Gmail (product_announcement)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Google
+- **Predicate:** announced
+- **Object:** new AI features for Gmail (product_announcement)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > Google announced new AI features for Gmail on January 8, 2026.
 
-### c_002 — attributed, single source
-**Subject entities:** Gmail
-**Predicate:** has
-**Object:** more than 3 billion users (user_count)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Gmail
+- **Predicate:** has
+- **Object:** more than 3 billion users (user_count)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > Gmail has more than 3 billion users.
 
-### c_003 — attributed, single source
-**Subject entities:** Gmail
-**Predicate:** launched
-**Object:** circa 2004 (date)
-**Temporal:** 2004
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Gmail
+- **Predicate:** launched
+- **Object:** circa 2004 (date)
+- **Temporal:** 2004
+- **Sources:** src_001
 
 > Gmail was introduced nearly 22 years before January 2026, placing its launch around 2004.
 
-### c_004 — attributed, single source
-**Subject entities:** Google; Gmail
-**Predicate:** introduced
-**Object:** Help Me Write feature (product_feature)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Google; Gmail
+- **Predicate:** introduced
+- **Object:** Help Me Write feature (product_feature)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > The "Help Me Write" feature will learn a user's writing style to personalize emails and provide real-time drafting suggestions.
 
-### c_005 — attributed, single source
-**Subject entities:** Google; Gmail
-**Predicate:** introduced
-**Object:** conversational AI search for Pro and Ultra subscribers (product_feature)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Google; Gmail
+- **Predicate:** introduced
+- **Object:** conversational AI search for Pro and Ultra subscribers (product_feature)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > Gmail Pro and Ultra subscribers will be able to pose conversational questions in Gmail's search bar to retrieve instant answers drawn from their inbox contents.
 
-### c_006 — attributed, single source
-**Subject entities:** Google; Gmail
-**Predicate:** rolling_out
-**Object:** AI Inbox to trusted testers (product_feature)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Google; Gmail
+- **Predicate:** rolling_out
+- **Object:** AI Inbox to trusted testers (product_feature)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > "AI Inbox" is being rolled out to a subset of "trusted testers" in the United States and will suggest to-do lists and topics users might want to explore.
 
-### c_007 — attributed, single source
-**Subject entities:** Blake Barnes; Google
-**Predicate:** said
-**Object:** This is us delivering on Gmail proactively having your back. (quotation)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Blake Barnes; Google
+- **Predicate:** said
+- **Object:** This is us delivering on Gmail proactively having your back. (quotation)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > Blake Barnes, a Google vice president of product, said "This is us delivering on Gmail proactively having your back."
 
-### c_008 — attributed, single source
-**Subject entities:** Google; Gemini 3
-**Predicate:** powers
-**Object:** Gmail AI features (technology)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Google; Gemini 3
+- **Predicate:** powers
+- **Object:** Gmail AI features (technology)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > The new Gmail AI features are powered by Google's Gemini 3 model.
 
-### c_009 — attributed, single source
-**Subject entities:** Google; Gemini 3
-**Predicate:** added_to
-**Object:** Google search engine (product)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Google; Gemini 3
+- **Predicate:** added_to
+- **Object:** Google search engine (product)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Google added Gemini 3 to its search engine in late 2025.
 
-### c_010 — reported, single source
-**Subject entities:** Sam Altman; OpenAI
-**Predicate:** issued
-**Object:** code red (internal_directive)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Sam Altman; OpenAI
+- **Predicate:** issued
+- **Object:** code red (internal_directive)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > OpenAI CEO Sam Altman issued a "code red" following Gemini 3's release into Google's search engine, according to the Associated Press.
 
-### c_011 — attributed, single source
-**Subject entities:** Google
-**Predicate:** stated
-**Object:** Gmail AI content will not train Gemini models (company_statement)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Google
+- **Predicate:** stated
+- **Object:** Gmail AI content will not train Gemini models (company_statement)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > Google said content that its AI analyzes within Gmail will not be used to train Gemini models.
 
-### c_012 — attributed, single source
-**Subject entities:** Google
-**Predicate:** built
-**Object:** engineering privacy barrier (technical_measure)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Google
+- **Predicate:** built
+- **Object:** engineering privacy barrier (technical_measure)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > Google said it built an "engineering privacy" barrier to contain inbox information and protect it from external access.
 
-### c_013 — attributed, single source
-**Subject entities:** Google; Gmail
-**Predicate:** available_in
-**Object:** English, United States initially (geographic_availability)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Google; Gmail
+- **Predicate:** available_in
+- **Object:** English, United States initially (geographic_availability)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > The new Gmail AI features are initially available in English in the United States, with plans to expand to other countries and languages during 2026.
 
@@ -227,10 +259,5 @@ Users can proofread AI-generated messages before sending them and can disable th
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Michael Liedtke
 **Publication date:** 2026-01-08
-**Access date:** 2026-01-08
 **Title:** Gmail's new AI features turn it into a personal assistant
 **URL:** https://apnews.com/article/google-gmail-artificial-intelligence-personal-assistant-63d6b29a82cb3de7702529b54b3c5071
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

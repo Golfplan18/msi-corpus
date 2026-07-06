@@ -20,41 +20,42 @@ primary_themes:
 - executive action codification
 - environmental policy
 topic_tags:
-  - environment
-  - politics
+- government policy
+- energy and resource
+- consumer goods
+- politics
+- conservation
 storyline_nexus:
-  - us-administration-2026
-  - trump-tariff-policy
-  - us-china-relations
-geographic_location: Washington, D.C., United States
+- trump-climate-energy-rollbacks
+geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.8
 - value: accountability_of_power
   intensity: 0.6
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:01:03Z'
+- value: informed_citizenship
+  intensity: 0.9
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:44:00Z'
 source_cluster_id: cluster_ap_2026-01-14_showers-trump-house-regulations-5e3d70ce
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 14
   hedges:
-    appears: 0
+    confirmed: 3
+    contested: 0
     alleged: 0
     attributed: 10
     reported: 1
-    contested: 0
-    confirmed: 3
+    appears: 0
   corroboration:
     primary_plus_secondary: 0
+    two_independent: 0
     one_originating_plus_primary_document: 0
     primary_document: 1
     single_source: 13
-    two_independent: 0
 sources:
   count: 1
   outlets:
@@ -72,29 +73,17 @@ image:
   url: /articles/2026-01-13-house-passes-shower-act-loosening-federal-showerhead-water-limits-226-197.png
   alt: 'Illustration accompanying article: House passes Shower ACT loosening federal showerhead water limits, 226-197'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-07-trump-white-house-rescinds-nepa-regulations-to-speed-energy-project-approvals
-  relation: related
-  strength: 0.7566
-  confidence: medium
-- slug: 2026-01-13-epa-drops-health-benefit-calculations-from-air-pollution-rules-under-trump
-  relation: related
-  strength: 0.7092
-  confidence: medium
-- slug: 2025-12-30-zeldin-s-epa-cuts-enforcement-and-staff-as-fossil-fuel-friendly-pivot-takes-hold
-  relation: related
-  strength: 0.7318
-  confidence: medium
-- slug: 2025-12-30-trump-s-epa-cuts-pollution-rules-and-staff-in-fossil-fuel-pivot
-  relation: related
-  strength: 0.7278
-  confidence: medium
-- slug: 2026-01-07-trump-signs-order-pulling-us-from-66-international-bodies-including-un-climate-t
-  relation: related
-  strength: 0.6711
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- **House passes bill codifying Trump order to rinse away showerhead regulations** — opening narrative arc or primary actor action.
+- The measure — formally named the Saving Homeowners from Overregulation With Exceptional Rinsing Act, or Shower ACT — is part of a broader House effort.
+- - United States House of Representatives
 
 The bill builds on an executive order Trump signed last April directing agencies to end water conservation standards for showerheads and other household appliances, reviving a regulatory dispute that has cycled through three administrations since Trump's first term. Its prospects in the Senate remain uncertain.
 
@@ -124,129 +113,157 @@ Environmental groups criticized the proposal, warning it would increase water co
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** United States House of Representatives
-**Predicate:** voted_on
-**Object:** 226-197 (vote_tally)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** United States House of Representatives
+- **Predicate:** voted_on
+- **Object:** 226-197 (vote_tally)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > The House voted 226-197 on Tuesday, January 13, 2026, to pass the Shower ACT.
 
-### c_002 — attributed, single source
-**Subject entities:** U.S. Democratic Party
-**Predicate:** voted_for
-**Object:** 11 Democrats (vote_count)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Democratic Party
+- **Predicate:** voted_for
+- **Object:** 11 Democrats (vote_count)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Eleven Democrats voted in favor of the Shower ACT.
 
-### c_003 — attributed, single source
-**Subject entities:** Russell Fry
-**Predicate:** sponsored
-**Object:** Shower ACT (legislation)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Russell Fry
+- **Predicate:** sponsored
+- **Object:** Shower ACT (legislation)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Rep. Russell Fry, a Republican, sponsored the Shower ACT.
 
-### c_004 — confirmed, single source
-**Subject entities:** United States
-**Predicate:** mandated
-**Object:** 2.5 gallons per minute (regulatory_standard)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** United States
+- **Predicate:** mandated
+- **Object:** 2.5 gallons per minute (regulatory_standard)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Federal energy law has limited showerhead water flow to 2.5 gallons per minute (9.5 liters) for more than three decades.
 
-### c_005 — attributed, single source
-**Subject entities:** Barack Obama
-**Predicate:** tightened_regulation
-**Object:** multi-nozzle showerhead aggregate limit (regulatory_scope)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Barack Obama
+- **Predicate:** tightened_regulation
+- **Object:** multi-nozzle showerhead aggregate limit (regulatory_scope)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > The Obama administration applied the 2.5-gallon-per-minute limit to the total output of a showerhead, including models with multiple nozzles.
 
-### c_006 — attributed, single source
-**Subject entities:** Donald Trump
-**Predicate:** relaxed_regulation
-**Object:** 2.5 gallons per minute per nozzle (regulatory_standard)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** relaxed_regulation
+- **Object:** 2.5 gallons per minute per nozzle (regulatory_standard)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > During his first term, Trump relaxed the rule to allow each individual nozzle of a showerhead to spray up to 2.5 gallons per minute.
 
-### c_007 — attributed, single source
-**Subject entities:** United States
-**Predicate:** reversed_regulation
-**Object:** Trump first-term showerhead rule (regulatory_action)
-**Temporal:** 2021
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** United States
+- **Predicate:** reversed_regulation
+- **Object:** Trump first-term showerhead rule (regulatory_action)
+- **Temporal:** 2021
+- **Sources:** src_001
 
 > The Biden administration reversed Trump's first-term showerhead rule in 2021.
 
-### c_008 — confirmed, single source
-**Subject entities:** Donald Trump
-**Predicate:** signed_executive_order
-**Object:** end to water conservation appliance standards (executive_action)
-**Temporal:** 2025-04
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** signed_executive_order
+- **Object:** end to water conservation appliance standards (executive_action)
+- **Temporal:** 2025-04
+- **Sources:** src_001
 
 > In April 2025, Trump signed an executive order calling for an immediate end to water conservation standards limiting flow through showerheads and other household appliances.
 
-### c_009 — attributed, single source
-**Subject entities:** Mike Johnson
-**Predicate:** advancing
-**Object:** codification of Trump executive actions (legislative_strategy)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Mike Johnson
+- **Predicate:** advancing
+- **Object:** codification of Trump executive actions (legislative_strategy)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > The Shower ACT is part of House Speaker Mike Johnson's broader effort to codify Trump's executive actions in federal law.
 
-### c_010 — reported, single source
-**Subject entities:** United States Senate
-**Predicate:** status
-**Object:** uncertain (legislative_status)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** United States Senate
+- **Predicate:** status
+- **Object:** uncertain (legislative_status)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > The Shower ACT's prospects in the Senate are uncertain, as members of that chamber have focused on government funding and foreign policy.
 
-### c_011 — attributed, single source
-**Subject entities:** environmental groups
-**Predicate:** criticized
-**Object:** increased water and energy consumption (policy_concern)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** environmental groups
+- **Predicate:** criticized
+- **Object:** increased water and energy consumption (policy_concern)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Environmental groups criticized the proposal, warning it would increase water consumption and energy use.
 
-### c_012 — attributed, single source
-**Subject entities:** Russell Fry
-**Predicate:** said
-**Object:** consumer choice argument (quotation)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Russell Fry
+- **Predicate:** said
+- **Object:** consumer choice argument (quotation)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Rep. Russell Fry said consumers should be able to choose their preferred showerhead water flow.
 
-### c_013 — attributed, single source
-**Subject entities:** Melanie Stansbury
-**Predicate:** said
-**Object:** Democratic opposition argument (quotation)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Melanie Stansbury
+- **Predicate:** said
+- **Object:** Democratic opposition argument (quotation)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Rep. Melanie Stansbury, D-N.M., questioned why Republicans used floor time on showerhead legislation rather than armed conflict and administration conduct.
 
-### c_014 — attributed, single source
-**Subject entities:** Michael Rulli
-**Predicate:** said
-**Object:** working man argument (quotation)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Michael Rulli
+- **Predicate:** said
+- **Object:** working man argument (quotation)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Rep. Michael Rulli, R-Ohio, said weak showerhead pressure denies the working man basic daily enjoyment.
 
@@ -255,10 +272,5 @@ Environmental groups criticized the proposal, warning it would increase water co
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Joey Cappelletti
 **Publication date:** 2026-01-13
-**Access date:** 2026-01-13
 **Title:** House passes bill codifying Trump order to rinse away showerhead regulations
 **URL:** https://apnews.com/article/showers-trump-house-regulations-5e3d70cecff366f32233f84edd68d641
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

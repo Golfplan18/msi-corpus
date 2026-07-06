@@ -20,8 +20,7 @@ primary_themes:
 topic_tags:
   - politics
   - "international relations"
-storyline_nexus:
-  - us-administration-2026
+storyline_nexus: []
 geographic_location: Lyon, France; United States
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -93,10 +92,6 @@ The killing has intensified political divisions ahead of France's next president
 Barrot also criticized U.S. sanctions against Thierry Breton, a former European Union commissioner responsible for supervising social media rules, and Nicolas Guillou, a French judge at the International Criminal Court, saying they are "unjustified and unjustifiable."
 
 The Monday meeting will mark the second time in recent months that Kushner has been summoned by France. He was previously summoned in August over his letter to Macron alleging that France had not done enough to combat antisemitism. Kushner did not attend; a representative of the U.S. ambassador attended instead.
-
----
-
-**This article was generated algorithmically by Main Street Independent's News Article Generator framework. Specification: [/methodology](/methodology). Human review: not triggered.**
 
 **License: [Creative Commons CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) — This work is dedicated to the public domain.**
 
@@ -217,7 +212,3 @@ The Monday meeting will mark the second time in recent months that Kushner has b
 **Access date:** 2026-05-18
 **Title:** France will summon US ambassador over comments on activist's death
 **URL:** https://apnews.com/article/france-us-ambassador-summoned-activist-69514462b8ba2596c2a5c190c72f98ab
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

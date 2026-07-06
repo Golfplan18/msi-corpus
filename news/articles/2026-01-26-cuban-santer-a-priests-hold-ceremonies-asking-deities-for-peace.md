@@ -17,46 +17,43 @@ primary_themes:
 - Afro-Cuban_culture
 - US-Cuba_relations
 topic_tags:
-  - politics
-  - "human interest"
-  - "religious leader"
-  - "human migration"
-  - religion
+- belief systems
+- religion
+- conflict, war and peace
+- international relations
 storyline_nexus:
-  - immigration-enforcement
-  - us-administration-2026
-  - venezuela-crisis
-geographic_location: Cuba
+- us-cuba-relations-escalation
+geographic_location: United States
 floor_values_engaged:
-- value: human_life_and_dignity
-  intensity: 0.7
-- value: informed_citizenship
-  intensity: 0.8
-- value: accountability_of_power
+- value: truthfulness
   intensity: 0.6
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+- value: informed_citizenship
+  intensity: 0.6
+- value: human_life_and_dignity
+  intensity: 0.3
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:30:50Z'
 source_cluster_id: cluster_ap_2026-01-26_cuba-santeria-peace-deities-us-venezuela
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 14
   hedges:
     appears: 0
-    alleged: 0
-    attributed: 3
     reported: 10
-    contested: 0
     confirmed: 1
+    attributed: 3
+    alleged: 0
+    contested: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 0
-    single_source: 14
     two_independent: 0
+    one_originating_plus_primary_document: 0
+    primary_plus_secondary: 0
+    single_source: 14
 sources:
   count: 1
   outlets:
@@ -70,29 +67,20 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-11-minneapolis-church-holds-lament-and-hope-service-as-ice-enforcement-grips-city
-  relation: related
-  strength: 0.7823
-  confidence: medium
-- slug: 2026-01-02-cuban-santer-a-priests-warn-of-armed-conflict-and-violence-for-2026
-  relation: related
-  strength: 0.8235
-  confidence: medium
-- slug: 2026-01-07-us-faith-leaders-tend-to-venezuelan-diaspora-roiled-by-maduro-s-capture
-  relation: related
-  strength: 0.7808
-  confidence: medium
-- slug: 2026-01-07-venezuela-buries-soldiers-killed-in-u-s-operation-as-death-toll-dispute-grows
-  relation: related
-  strength: 0.757
-  confidence: medium
-- slug: 2026-01-06-cuba-mourns-32-officers-killed-in-venezuela-strike-as-oas-holds-emergency-sessio
-  relation: related
-  strength: 0.7581
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Cuba’s Santeros offer gifts and ask deities for peace as tensions rise with US
+- They chanted in ancient Yoruba, brought to the island by enslaved Africans and passed down orally. African and Spanish traditions syncretized, giving rise to Cuba’s strong Afro-Cuban identity.
+- “We...believe that through sacrifices and prayers we can alleviate the impact of harmful issues,” said Lázaro Cuesta, a renowned priest who organized the ceremony in the courtyard of an old house.
+- On Jan. 2, Cuban Santería priests known as babalawos predicted the possibility of war and violence that would affect Cuba and the world using traditional divining methods.
+- Venezuela is one of Cuba’s main political, ideological and commercial allies, and the attack shocked the island’s population.
+- “As religious people, we always try to distance ourselves from anything negative that comes into our lives,” said Yusmina Hernández, a 49-year-old homemaker, as she participated in the ceremony.
 
 The ceremonies reflect deep spiritual practice among Cuba's Afro-Cuban population, where African and Spanish traditions have syncretized into Santería. They underscore how ordinary Cubans are responding to geopolitical shocks and economic hardship through religious traditions rooted in community, ancestors, and the natural world.
 
@@ -124,129 +112,157 @@ The ceremonies reflected the deep syncretism of Santería itself—a faith born 
 
 ## Atomic claims
 
-### c_001 — reported, single source
-**Subject entities:** Cuban Santería priests; priestesses
-**Predicate:** held_ceremonies
-**Object:** ceremonies with gifts and prayers for peace (ceremonial_act)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Cuban Santería priests; priestesses
+- **Predicate:** held_ceremonies
+- **Object:** ceremonies with gifts and prayers for peace (ceremonial_act)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > Priests and priestesses of Cuba's Santería religion held ceremonies on Sunday, offering gifts to deities and asking for peace.
 
-### c_002 — reported, single source
-**Subject entities:** Cuban Santería priests; babalawos
-**Predicate:** predicted
-**Object:** war and violence in 2026 (prediction)
-**Temporal:** 2026-01-02
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Cuban Santería priests; babalawos
+- **Predicate:** predicted
+- **Object:** war and violence in 2026 (prediction)
+- **Temporal:** 2026-01-02
+- **Sources:** src_001
 
 > On January 2, Cuban Santería priests predicted the possibility of war and violence affecting Cuba and the world in 2026.
 
-### c_003 — confirmed, single source
-**Subject entities:** United States; Venezuela; Nicolás Maduro
-**Predicate:** struck_and_arrested
-**Object:** military strike on Caracas; arrest of President Maduro (military_action)
-**Temporal:** 2026-01-03
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** United States; Venezuela; Nicolás Maduro
+- **Predicate:** struck_and_arrested
+- **Object:** military strike on Caracas; arrest of President Maduro (military_action)
+- **Temporal:** 2026-01-03
+- **Sources:** src_001
 
 > On January 3, the United States struck Venezuela's capital, Caracas, and arrested then-President Nicolás Maduro.
 
-### c_004 — reported, single source
-**Subject entities:** Cuban soldiers; Nicolás Maduro
-**Predicate:** died
-**Object:** 32 soldiers killed (casualty_count)
-**Temporal:** 2026-01-03
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Cuban soldiers; Nicolás Maduro
+- **Predicate:** died
+- **Object:** 32 soldiers killed (casualty_count)
+- **Temporal:** 2026-01-03
+- **Sources:** src_001
 
 > Thirty-two Cuban soldiers from Maduro's personal security detail died in the January 3 operation.
 
-### c_005 — reported, single source
-**Subject entities:** Venezuela; Cuba
-**Predicate:** are_allies
-**Object:** major political, ideological, and commercial partnership (diplomatic_relationship)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Venezuela; Cuba
+- **Predicate:** are_allies
+- **Object:** major political, ideological, and commercial partnership (diplomatic_relationship)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > Venezuela is one of Cuba's main political, ideological and commercial allies.
 
-### c_006 — reported, single source
-**Subject entities:** Cuba; United States
-**Predicate:** imposing_sanctions
-**Object:** tightening of U.S. sanctions (economic_measure)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Cuba; United States
+- **Predicate:** imposing_sanctions
+- **Object:** tightening of U.S. sanctions (economic_measure)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > Cuba is currently experiencing a radical tightening of U.S. sanctions.
 
-### c_007 — reported, single source
-**Subject entities:** Donald Trump; Cuba
-**Predicate:** threatened
-**Object:** direct threat against Cuba (political_threat)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Cuba
+- **Predicate:** threatened
+- **Object:** direct threat against Cuba (political_threat)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > President Donald Trump has directly threatened Cuba.
 
-### c_008 — attributed, single source
-**Subject entities:** Lázaro Cuesta
-**Predicate:** stated_belief
-**Object:** sacrifices and prayers alleviate harmful impacts (belief_statement)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Lázaro Cuesta
+- **Predicate:** stated_belief
+- **Object:** sacrifices and prayers alleviate harmful impacts (belief_statement)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > Lázaro Cuesta, a renowned Santería priest, said: "We believe that through sacrifices and prayers we can alleviate the impact of harmful issues."
 
-### c_009 — reported, single source
-**Subject entities:** ceremony animals
-**Predicate:** sacrificed
-**Object:** one hen, one rooster, one dove (animal_sacrifice)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** ceremony animals
+- **Predicate:** sacrificed
+- **Object:** one hen, one rooster, one dove (animal_sacrifice)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > A hen, a rooster and a dove were sacrificed at the ceremonies.
 
-### c_010 — reported, single source
-**Subject entities:** Santería priests; Azowano
-**Predicate:** made_offerings_to
-**Object:** offerings of beans, corn, and eggs (religious_offering)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Santería priests; Azowano
+- **Predicate:** made_offerings_to
+- **Object:** offerings of beans, corn, and eggs (religious_offering)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > Priests made offerings of beans, corn, and eggs to Azowano, one of the forms Saint Lazarus takes in Santería.
 
-### c_011 — reported, single source
-**Subject entities:** Yoruba language; enslaved Africans
-**Predicate:** chanted_in
-**Object:** Yoruba language from enslaved African traditions (linguistic_practice)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Yoruba language; enslaved Africans
+- **Predicate:** chanted_in
+- **Object:** Yoruba language from enslaved African traditions (linguistic_practice)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > Priests chanted in Yoruba, a language brought to the island by enslaved Africans and passed down orally.
 
-### c_012 — attributed, single source
-**Subject entities:** Eraimy León
-**Predicate:** stated_purpose
-**Object:** ceremonies for good of society, harmony, and health (purpose_statement)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Eraimy León
+- **Predicate:** stated_purpose
+- **Object:** ceremonies for good of society, harmony, and health (purpose_statement)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > Eraimy León, a 43-year-old babalawo, said: "This is being done for the good of society, so that there is no conflict or violence, so that there is harmony and health."
 
-### c_013 — attributed, single source
-**Subject entities:** Yusmina Hernández
-**Predicate:** stated_spiritual_orientation
-**Object:** religious people distance themselves from negativity (belief_statement)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Yusmina Hernández
+- **Predicate:** stated_spiritual_orientation
+- **Object:** religious people distance themselves from negativity (belief_statement)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > Yusmina Hernández, a 49-year-old homemaker, said: "As religious people, we always try to distance ourselves from anything negative that comes into our lives."
 
-### c_014 — reported, single source
-**Subject entities:** ceremony participants
-**Predicate:** participated
-**Object:** cleansing ritual with live chickens (ritual_participation)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_014
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** ceremony participants
+- **Predicate:** participated
+- **Object:** cleansing ritual with live chickens (ritual_participation)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > Several hundred people participated in a cleansing ritual involving live chickens.
 
@@ -255,10 +271,5 @@ The ceremonies reflected the deep syncretism of Santería itself—a faith born 
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Andrea Rodríguez
 **Publication date:** 2026-01-26
-**Access date:** 2026-01-26
 **Title:** Cuba's Santeros offer gifts and pray for peace as tensions rise with US
 **URL:** https://apnews.com/article/cuba-santeria-peace-deities-us-venezuela-0919aedc8a60943708057ad3ce4d3970
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -251,7 +251,3 @@ Seba has been a vocal supporter of recent military coups in West Africa and of t
 **Access date:** 2026-04-16
 **Title:** Activist Kemi Seba faces extradition to Benin following arrest in South Africa
 **URL:** https://apnews.com/article/south-africa-benin-activist-arrest-warrant-049c3d2986da13912779757028fa4094
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

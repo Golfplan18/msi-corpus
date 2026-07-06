@@ -15,39 +15,42 @@ primary_themes:
 - partisan gerrymandering
 - 2026 elections
 topic_tags:
-  - politics
-  - election
-  - "conflict, war and peace"
-storyline_nexus: []
-geographic_location: Annapolis, Maryland
+- election
+- government
+- government policy
+- politics
+- political process
+storyline_nexus:
+- redistricting-voting-rights
+geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.85
 - value: accountability_of_power
-  intensity: 0.65
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T06:58:26Z'
+  intensity: 0.9
+- value: equality_fairness
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-22T23:58:54Z'
 source_cluster_id: cluster_ap_2026-01-13_maryland-congressional-redistricting-wes
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 11
   hedges:
-    appears: 0
     alleged: 0
-    attributed: 5
+    appears: 0
     reported: 1
+    attributed: 5
     contested: 0
     confirmed: 5
   corroboration:
+    single_source: 11
     primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
-    primary_document: 0
-    single_source: 11
     two_independent: 0
+    primary_document: 0
 sources:
   count: 1
   outlets:
@@ -65,21 +68,17 @@ image:
   url: /articles/2026-01-14-maryland-gov-moore-pushes-redistricting-despite-fellow-democrats-warnings.png
   alt: 'Illustration accompanying article: Maryland Gov. Moore pushes redistricting despite fellow Democrats'' warnings'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-12-trump-s-redistricting-push-reaches-a-crossroads-as-new-legislative-sessions-begi
-  relation: related
-  strength: 0.9083
-  confidence: medium
-- slug: 2026-01-07-desantis-calls-april-special-session-to-redraw-florida-s-congressional-districts
-  relation: related
-  strength: 0.8974
-  confidence: medium
-- slug: 2026-01-07-trump-redistricting-push-spreads-to-one-third-of-states-giving-gop-a-three-seat-
-  relation: related
-  strength: 0.8896
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Maryland's redistricting bid is part of a broader national battle sparked by President Donald Trump, who called on Texas Republicans in July to redraw
+- Additional context from article.
+- Key findings or implications.
 
 Maryland's redistricting bid is part of a broader national battle sparked by President Donald Trump, who called on Texas Republicans in July to redraw their congressional map without new census data. Democrats in several states have responded with their own redrawing efforts, though the Maryland effort faces significant resistance from within the governor's own party.
 
@@ -115,102 +114,124 @@ Maryland House Speaker Joseline Peña-Melnyk, a Democrat, said she supports the 
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Wes Moore
-**Predicate:** stated_intention
-**Object:** redraw Maryland congressional map; legislature to vote (policy_position)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Wes Moore
+- **Predicate:** stated_intention
+- **Object:** redraw Maryland congressional map; legislature to vote (policy_position)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Maryland Gov. Wes Moore said he wants to move forward with redrawing the state's congressional map and have the Democratic-controlled legislature vote on it.
 
-### c_002 — confirmed, single source
-**Subject entities:** Wes Moore
-**Predicate:** appointed
-**Object:** redistricting commission (action)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Wes Moore
+- **Predicate:** appointed
+- **Object:** redistricting commission (action)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Moore appointed a commission to review potential congressional maps, with a recommendation expected soon.
 
-### c_003 — attributed, single source
-**Subject entities:** Maryland; U.S. Democratic Party; U.S. Republican Party
-**Predicate:** partisan_composition
-**Object:** Democrats 2-1 in registration; 7-1 in House delegation (ratio)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Maryland; U.S. Democratic Party; U.S. Republican Party
+- **Predicate:** partisan_composition
+- **Object:** Democrats 2-1 in registration; 7-1 in House delegation (ratio)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Democrats in Maryland outnumber Republicans 2-1, and the party holds a 7-1 edge over Republicans in the state's U.S. House delegation.
 
-### c_004 — attributed, single source
-**Subject entities:** Bill Ferguson; Andy Harris
-**Predicate:** warned
-**Object:** redistricting could cost Democrats one or two seats (warning)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Bill Ferguson; Andy Harris
+- **Predicate:** warned
+- **Object:** redistricting could cost Democrats one or two seats (warning)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Maryland Senate President Bill Ferguson said a redistricting effort aimed at flipping Rep. Andy Harris's seat could jeopardize at least one and potentially two seats held by Democrats.
 
-### c_005 — confirmed, single source
-**Subject entities:** Maryland
-**Predicate:** ruled_unconstitutional
-**Object:** 2021 Maryland congressional map (court_ruling)
-**Temporal:** 2021
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Maryland
+- **Predicate:** ruled_unconstitutional
+- **Object:** 2021 Maryland congressional map (court_ruling)
+- **Temporal:** 2021
+- **Sources:** src_001
 
 > A Maryland congressional map adopted in 2021 was ruled unconstitutional by a judge who described it as 'a product of extreme partisan gerrymandering.'
 
-### c_006 — confirmed, single source
-**Subject entities:** Maryland
-**Predicate:** enacted
-**Object:** revised 2022 congressional map (legislation)
-**Temporal:** 2022
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Maryland
+- **Predicate:** enacted
+- **Object:** revised 2022 congressional map (legislation)
+- **Temporal:** 2022
+- **Sources:** src_001
 
 > Maryland passed a revised congressional map in 2022 and the parties dropped their legal fight.
 
-### c_007 — attributed, single source
-**Subject entities:** Bill Ferguson; Maryland Senate
-**Predicate:** stated
-**Object:** majority of 34 Senate Democrats oppose redistricting (legislative_opposition_count)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Bill Ferguson; Maryland Senate
+- **Predicate:** stated
+- **Object:** majority of 34 Senate Democrats oppose redistricting (legislative_opposition_count)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Ferguson said a majority of the Maryland Senate's 34 Democrats oppose redistricting this year.
 
-### c_008 — confirmed, single source
-**Subject entities:** Donald Trump; Texas
-**Predicate:** called_for
-**Object:** mid-decade congressional redistricting without new census data (political_demand)
-**Temporal:** 2025-07
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Texas
+- **Predicate:** called_for
+- **Object:** mid-decade congressional redistricting without new census data (political_demand)
+- **Temporal:** 2025-07
+- **Sources:** src_001
 
 > President Donald Trump called on Texas Republicans in July to redraw their congressional map without new census data, triggering a mid-decade redistricting battle.
 
-### c_009 — reported, single source
-**Subject entities:** U.S. Republican Party; U.S. Democratic Party
-**Predicate:** projected_seat_gains
-**Object:** GOP +9, Democrats +6, net GOP advantage of 3 (seat_projection)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Republican Party; U.S. Democratic Party
+- **Predicate:** projected_seat_gains
+- **Object:** GOP +9, Democrats +6, net GOP advantage of 3 (seat_projection)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > The national redistricting battle has produced nine more seats Republicans believe they can win and six more that Democrats think they can win, giving the GOP an edge of three seats.
 
-### c_010 — confirmed, single source
-**Subject entities:** Maryland
-**Predicate:** election_schedule
-**Object:** Feb. 24 filing deadline; June 23 primary (dates)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Maryland
+- **Predicate:** election_schedule
+- **Object:** Feb. 24 filing deadline; June 23 primary (dates)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Maryland has a candidate filing deadline of Feb. 24 and a primary scheduled for June 23.
 
-### c_011 — attributed, single source
-**Subject entities:** Joseline Peña-Melnyk
-**Predicate:** stated
-**Object:** supports commission work; awaiting recommendation (policy_position)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Joseline Peña-Melnyk
+- **Predicate:** stated
+- **Object:** supports commission work; awaiting recommendation (policy_position)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > House Speaker Joseline Peña-Melnyk said she supports the work of the governor's redistricting commission and wants to wait for its recommendation before commenting on how to proceed.
 
@@ -219,10 +240,5 @@ Maryland House Speaker Joseline Peña-Melnyk, a Democrat, said she supports the 
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Brian Witte
 **Publication date:** 2026-01-14
-**Access date:** 2026-01-14
 **Title:** Maryland Democratic Gov. Wes Moore presses case for redistricting
 **URL:** https://apnews.com/article/maryland-congressional-redistricting-wes-moore-democrats-aeec01f37b914b792375842daafdd45e
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

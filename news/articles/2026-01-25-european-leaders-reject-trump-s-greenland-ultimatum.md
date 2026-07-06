@@ -20,7 +20,7 @@ topic_tags:
   - "international relations"
   - politics
 storyline_nexus:
-  - trump-greenland-acquisition
+- trump-greenland-ambitions
 geographic_location: International
 floor_values_engaged:
 - value: accountability_of_power
@@ -147,8 +147,6 @@ Canada's Mark Carney framed the moment not as a dispute over Greenland but as a 
 
 Whether the European unity would hold remained to be seen. Snidal noted that while a rupture in the transatlantic alliance appeared to have occurred, repairing it under adjusted terms remained in the interests of both sides. "It's too good a deal for all of them not to," he said, referring to the alliance itself.
 
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. The framework specification is available at /methodology. No human review was triggered by the article's content.*
-
 ## Atomic claims
 
 ### c_001 — attributed, single source
@@ -249,7 +247,3 @@ Whether the European unity would hold remained to be seen. Snidal noted that whi
 **Access date:** 2026-01-25
 **Title:** European leaders learn to say 'no' to Donald Trump
 **URL:** https://apnews.com/article/trump-european-leaders-nato-greenland-diplomacy-b01f2d1e73e6a44fb3bc1d757aeb5110
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

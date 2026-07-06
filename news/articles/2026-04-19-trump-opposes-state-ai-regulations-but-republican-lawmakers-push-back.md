@@ -14,39 +14,41 @@ primary_themes:
 - artificial intelligence regulation
 - Trump administration policy
 topic_tags:
-  - "artificial intelligence"
-  - "political process"
-  - politics
-  - "science and technology"
-storyline_nexus: []
+- artificial intelligence
+- government policy
+- politics
+storyline_nexus:
+- ai-industry-regulation
 geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.85
 - value: accountability_of_power
-  intensity: 0.7
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T00:00:00Z'
+  intensity: 0.9
+- value: human_life_and_dignity
+  intensity: 0.6
+- value: informed_citizenship
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:47:20Z'
 source_cluster_id: cluster_ap_2026-04-20_artificial-intelligence-trump-national-s
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 27
   hedges:
     appears: 0
-    alleged: 0
-    attributed: 3
     reported: 24
     contested: 0
+    alleged: 0
+    attributed: 3
     confirmed: 0
   corroboration:
-    primary_plus_secondary: 0
+    single_source: 27
     one_originating_plus_primary_document: 0
     primary_document: 0
-    single_source: 27
+    primary_plus_secondary: 0
     two_independent: 0
 sources:
   count: 1
@@ -65,33 +67,17 @@ image:
   url: /articles/2026-04-19-trump-opposes-state-ai-regulations-but-republican-lawmakers-push-back.png
   alt: 'Illustration accompanying article: Trump opposes state AI regulations, but Republican lawmakers push back'
   source: ai_generated
-cross_article_links:
-- slug: 2026-04-15-maine-legislature-approves-nation-s-first-statewide-data-center-moratorium-bill
-  relation: related
-  strength: 0.7604
-  confidence: medium
-- slug: 2026-04-17-white-house-meets-anthropic-ceo-over-mythos-ai-model-s-security-uses
-  relation: related
-  strength: 0.7429
-  confidence: medium
-- slug: 2026-04-15-eu-threatens-to-force-meta-to-restore-whatsapp-access-for-rival-ai-chatbots
-  relation: related
-  strength: 0.7219
-  confidence: medium
-- slug: 2026-01-13-epa-proposes-limits-on-state-clean-water-act-authority-for-pipelines-and-data-ce
-  relation: related
-  strength: 0.7465
-  confidence: medium
-- slug: 2026-01-02-big-tech-blocks-california-data-center-rules-leaving-only-a-study-requirement
-  relation: related
-  strength: 0.7548
-  confidence: medium
-- slug: 2026-01-13-microsoft-s-brad-smith-tells-congress-big-tech-must-pay-ai-data-center-costs
-  relation: related
-  strength: 0.7119
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- **Trump wants to stop states AI rules. This Utah Republican isn't listening** — opening narrative arc or primary actor action.
+- alt: 'Illustration accompanying article: Trump opposes state AI regulations, but Republican lawmakers push back'
+- The Trump administration is blocking state efforts to regulate artificial intelligence, but some Republican lawmakers are pushing forward with their o.
 
 The Trump administration is blocking state efforts to regulate artificial intelligence, but some Republican lawmakers are pushing forward with their own rules anyway. The conflict reflects a broader state-federal split over how to manage AI technology as public concern about its risks mounts, with eight in ten Americans saying they are concerned about artificial intelligence in a recent poll.
 
@@ -147,246 +133,300 @@ But the public opinion data suggests most Americans are not as sanguine. In the 
 
 ## Atomic claims
 
-### c_001 — reported, single source
-**Subject entities:** Trump administration
-**Predicate:** issued
-**Object:** executive order with legal threats and funding penalties (policy_action)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Trump administration
+- **Predicate:** issued
+- **Object:** executive order with legal threats and funding penalties (policy_action)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > The Trump administration issued an executive order with legal threats and funding penalties to deter state AI regulations.
 
-### c_002 — reported, single source
-**Subject entities:** Trump administration; Utah
-**Predicate:** blocked
-**Object:** state proposal requiring child safety protocols (regulatory_proposal)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Trump administration; Utah
+- **Predicate:** blocked
+- **Object:** state proposal requiring child safety protocols (regulatory_proposal)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > The Trump administration blocked Utah's proposal requiring companies to include child safety protocols in AI systems.
 
-### c_003 — reported, single source
-**Subject entities:** US states
-**Predicate:** have_pending
-**Object:** over 1,000 legislative proposals (quantity)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** US states
+- **Predicate:** have_pending
+- **Object:** over 1,000 legislative proposals (quantity)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > More than 1,000 state legislative proposals addressing artificial intelligence are pending across the United States.
 
-### c_004 — reported, single source
-**Subject entities:** Americans; Quinnipiac
-**Predicate:** are_concerned_about
-**Object:** 8 in 10 Americans concerned about AI (polling_result)
-**Temporal:** 2026-03
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Americans; Quinnipiac
+- **Predicate:** are_concerned_about
+- **Object:** 8 in 10 Americans concerned about AI (polling_result)
+- **Temporal:** 2026-03
+- **Sources:** src_001
 
 > Eight in ten Americans are concerned or very concerned about artificial intelligence, according to a Quinnipiac poll last month.
 
-### c_005 — reported, single source
-**Subject entities:** Americans
-**Predicate:** say
-**Object:** government not doing enough to regulate AI (opinion_polling)
-**Temporal:** 2026-03
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Americans
+- **Predicate:** say
+- **Object:** government not doing enough to regulate AI (opinion_polling)
+- **Temporal:** 2026-03
+- **Sources:** src_001
 
 > About three-quarters of Americans surveyed by Quinnipiac say government is not doing enough to regulate artificial intelligence.
 
-### c_006 — reported, single source
-**Subject entities:** Democrats; Republicans
-**Predicate:** want
-**Object:** more government involvement in AI regulation (opinion_polling)
-**Temporal:** 2026-03
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Democrats; Republicans
+- **Predicate:** want
+- **Object:** more government involvement in AI regulation (opinion_polling)
+- **Temporal:** 2026-03
+- **Sources:** src_001
 
 > Roughly nine in ten Democrats and six in ten Republicans surveyed by Quinnipiac said they wanted more government involvement in AI regulation.
 
-### c_007 — reported, single source
-**Subject entities:** California; New York
-**Predicate:** have_passed
-**Object:** most significant AI regulations (regulatory_action)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** California; New York
+- **Predicate:** have_passed
+- **Object:** most significant AI regulations (regulatory_action)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > California and New York have passed the most significant state AI regulations.
 
-### c_008 — reported, single source
-**Subject entities:** Doug Fiefia; Google
-**Predicate:** worked_at
-**Object:** Google (organization)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Doug Fiefia; Google
+- **Predicate:** worked_at
+- **Object:** Google (organization)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Doug Fiefia, a Utah state representative, used to work at Google.
 
-### c_009 — reported, single source
-**Subject entities:** Doug Fiefia; Utah House
-**Predicate:** passed
-**Object:** AI regulation bill unanimously (legislative_action)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Doug Fiefia; Utah House
+- **Predicate:** passed
+- **Object:** AI regulation bill unanimously (legislative_action)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Fiefia's AI regulation bill was unanimously passed by a Utah House committee this year.
 
-### c_010 — attributed, single source
-**Subject entities:** Trump administration; Utah Senate
-**Predicate:** stated
-**Object:** bill was unfixable (government_communication)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Trump administration; Utah Senate
+- **Predicate:** stated
+- **Object:** bill was unfixable (government_communication)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > The Trump administration sent a letter to the Utah Senate stating that Fiefia's bill was 'unfixable.'
 
-### c_011 — reported, single source
-**Subject entities:** Trump administration; Utah Senate
-**Predicate:** died
-**Object:** legislation failed to advance (legislative_outcome)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Trump administration; Utah Senate
+- **Predicate:** died
+- **Object:** legislation failed to advance (legislative_outcome)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > After the Trump administration's letter, Fiefia's bill quickly died in the Utah Senate.
 
-### c_012 — reported, single source
-**Subject entities:** Ron DeSantis; Florida
-**Predicate:** added_to_agenda
-**Object:** AI to special legislative session (policy_action)
-**Temporal:** 2026-04
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Ron DeSantis; Florida
+- **Predicate:** added_to_agenda
+- **Object:** AI to special legislative session (policy_action)
+- **Temporal:** 2026-04
+- **Sources:** src_001
 
 > Florida Gov. Ron DeSantis added artificial intelligence to a special legislative session he called for later in April.
 
-### c_013 — reported, single source
-**Subject entities:** Ron DeSantis
-**Predicate:** pushed
-**Object:** bill for parental controls and likeness protections (legislative_proposal)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_013
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Ron DeSantis
+- **Predicate:** pushed
+- **Object:** bill for parental controls and likeness protections (legislative_proposal)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > DeSantis pushed a bill to implement parental controls for minors using AI and to prohibit systems from using anyone's likeness without permission.
 
-### c_014 — reported, single source
-**Subject entities:** Ron DeSantis; Florida House
-**Predicate:** failed_in
-**Object:** bill fell short in House after Senate passage (legislative_outcome)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_014
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Ron DeSantis; Florida House
+- **Predicate:** failed_in
+- **Object:** bill fell short in House after Senate passage (legislative_outcome)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > DeSantis's AI bill overwhelmingly passed the Florida state Senate but fell short in the House.
 
-### c_015 — reported, single source
-**Subject entities:** Louisiana; Missouri; Trump administration
-**Predicate:** stalled
-**Object:** AI bills (legislation)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_015
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Louisiana; Missouri; Trump administration
+- **Predicate:** stalled
+- **Object:** AI bills (legislation)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > AI bills in Republican-controlled Louisiana and Missouri have stalled out because of Trump administration resistance.
 
-### c_016 — reported, single source
-**Subject entities:** Alex Bores; Palantir
-**Predicate:** worked_at
-**Object:** Palantir as data scientist, quit over Trump administration deal (employment_history)
-**Temporal:** 2020-2024
-**Source IDs:** src_001
+### c_016
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Alex Bores; Palantir
+- **Predicate:** worked_at
+- **Object:** Palantir as data scientist, quit over Trump administration deal (employment_history)
+- **Temporal:** 2020-2024
+- **Sources:** src_001
 
 > Alex Bores is a former data scientist at Palantir who quit after the company signed a deal to help the Trump administration with immigration enforcement.
 
-### c_017 — reported, single source
-**Subject entities:** Alex Bores; New York
-**Predicate:** wrote
-**Object:** New York AI incident reporting bill (legislation)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_017
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Alex Bores; New York
+- **Predicate:** wrote
+- **Object:** New York AI incident reporting bill (legislation)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Alex Bores wrote the New York bill requiring major AI developers to report dangerous incidents to the state, which was signed into law last year.
 
-### c_018 — reported, single source
-**Subject entities:** Alex Bores
-**Predicate:** spent
-**Object:** $2.3 million against Bores (campaign_spending)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_018
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Alex Bores
+- **Predicate:** spent
+- **Object:** $2.3 million against Bores (campaign_spending)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > A pro-AI campaign committee spent $2.3 million against Alex Bores' congressional candidacy.
 
-### c_019 — reported, single source
-**Subject entities:** Alex Bores; Jerry Nadler
-**Predicate:** competing_for
-**Object:** U.S. Rep. seat for Manhattan congressional district (electoral_action)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_019
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Alex Bores; Jerry Nadler
+- **Predicate:** competing_for
+- **Object:** U.S. Rep. seat for Manhattan congressional district (electoral_action)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Bores is competing in the Democratic primary to replace retiring U.S. Rep. Jerry Nadler representing much of Manhattan in Congress.
 
-### c_020 — reported, single source
-**Subject entities:** Jack Schlossberg; George Conway
-**Predicate:** competing_against
-**Object:** June 23 Democratic primary (electoral_race)
-**Temporal:** 2026-06-23
-**Source IDs:** src_001
+### c_020
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Jack Schlossberg; George Conway
+- **Predicate:** competing_against
+- **Object:** June 23 Democratic primary (electoral_race)
+- **Temporal:** 2026-06-23
+- **Sources:** src_001
 
 > Bores' competitors in the June 23 Democratic primary include Jack Schlossberg, grandson of former President John F. Kennedy, and George Conway.
 
-### c_021 — reported, single source
-**Subject entities:** Monique Priestley; Doug Fiefia
-**Predicate:** co_chairs
-**Object:** AI task force of Future Caucus (leadership_role)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_021
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Monique Priestley; Doug Fiefia
+- **Predicate:** co_chairs
+- **Object:** AI task force of Future Caucus (leadership_role)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Monique Priestley, a Vermont Democrat who has worked in tech, co-chairs the AI task force of the Future Caucus with Doug Fiefia.
 
-### c_022 — reported, single source
-**Subject entities:** Vermont; Monique Priestley
-**Predicate:** lobbied
-**Object:** 166 lobbyists on data privacy bill (lobbying_activity)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_022
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Vermont; Monique Priestley
+- **Predicate:** lobbied
+- **Object:** 166 lobbyists on data privacy bill (lobbying_activity)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > One hundred sixty-six of Vermont's 482 registered lobbyists weighed in on Monique Priestley's data privacy bill last year.
 
-### c_023 — reported, single source
-**Subject entities:** Monique Priestley; Vermont governor
-**Predicate:** vetoed
-**Object:** data privacy bill (legislative_outcome)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_023
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Monique Priestley; Vermont governor
+- **Predicate:** vetoed
+- **Object:** data privacy bill (legislative_outcome)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Priestley's data privacy bill was ultimately vetoed by Vermont's governor.
 
-### c_024 — attributed, single source
-**Subject entities:** Craig Albright; Business Software Alliance
-**Predicate:** said
-**Object:** state lawmakers pushing for action due to dissatisfaction with federal efforts (expert_statement)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_024
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Craig Albright; Business Software Alliance
+- **Predicate:** said
+- **Object:** state lawmakers pushing for action due to dissatisfaction with federal efforts (expert_statement)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Craig Albright, senior vice president for government relations for the Business Software Alliance, said state lawmakers want to take action because they are not satisfied with federal government efforts on AI.
 
-### c_025 — reported, single source
-**Subject entities:** state legislatures
-**Predicate:** propose
-**Object:** chatbot disclosure requirements and nonconsensual pornography bans (regulatory_proposals)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_025
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** state legislatures
+- **Predicate:** propose
+- **Object:** chatbot disclosure requirements and nonconsensual pornography bans (regulatory_proposals)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Popular state legislative proposals include forcing chatbots to remind users they are not human and barring the use of AI to make nonconsensual pornography.
 
-### c_026 — reported, single source
-**Subject entities:** White House
-**Predicate:** released
-**Object:** framework for congressional AI legislation with preemption and limited carve-outs (policy_proposal)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_026
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** White House
+- **Predicate:** released
+- **Object:** framework for congressional AI legislation with preemption and limited carve-outs (policy_proposal)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > The White House released a framework for potential congressional legislation that calls for preempting state laws considered 'too burdensome' but would allow some rules to protect children and copyright material.
 
-### c_027 — attributed, single source
-**Subject entities:** Daniel McCay
-**Predicate:** said
-**Object:** Fiefia's bill would have harmed Utah's AI industry (political_statement)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_027
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Daniel McCay
+- **Predicate:** said
+- **Object:** Fiefia's bill would have harmed Utah's AI industry (political_statement)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Daniel McCay, the Utah state senator Fiefia is challenging in the primary, said Fiefia's bill would have driven Utah out of the AI innovation business.
 
@@ -395,10 +435,5 @@ But the public opinion data suggests most Americans are not as sanguine. In the 
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Nicholas Riccardi
 **Publication date:** 2026-04-19
-**Access date:** 2026-05-17
 **Title:** Trump wants to stop states AI rules. This Utah Republican isn't listening
 **URL:** https://apnews.com/article/artificial-intelligence-trump-national-standard-states-rights-93367902d4569bb1b1260d48744b1578
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

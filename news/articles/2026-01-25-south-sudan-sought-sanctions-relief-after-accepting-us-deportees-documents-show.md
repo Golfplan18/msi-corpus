@@ -19,7 +19,7 @@ topic_tags:
   - "international relations"
   - politics
 storyline_nexus:
-  - immigration-enforcement
+- us-immigration-enforcement
 geographic_location: South Sudan, United States
 floor_values_engaged:
 - value: informed_citizenship
@@ -108,228 +108,278 @@ In December, the United States threatened to reduce aid contributions to South S
 
 ## Atomic claims
 
-### c_001 — reported, single source
-**Subject entities:** South Sudan
-**Predicate:** first_african_country_receive_deportees
-**Object:** third-country deportees (immigration_milestone)
-**Temporal:** 2025-07
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** South Sudan
+- **Predicate:** first_african_country_receive_deportees
+- **Object:** third-country deportees (immigration_milestone)
+- **Temporal:** 2025-07
+- **Sources:** src_001
 
 > South Sudan became the first African country to receive third-country deportees from the United States in July.
 
-### c_002 — reported, single source
-**Subject entities:** deportees
-**Predicate:** arrived_in
-**Object:** Juba, South Sudan (location)
-**Temporal:** 2025-07
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** deportees
+- **Predicate:** arrived_in
+- **Object:** Juba, South Sudan (location)
+- **Temporal:** 2025-07
+- **Sources:** src_001
 
 > Eight deportees from nationals of Mexico, Cuba, Vietnam, Laos, Myanmar, and South Sudan arrived in Juba.
 
-### c_003 — confirmed, primary document
-**Subject entities:** South Sudan Ministry of Foreign Affairs
-**Predicate:** sent_diplomatic_communication
-**Object:** eight matters of concern (diplomatic_communication)
-**Temporal:** 2025-05-12
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** South Sudan Ministry of Foreign Affairs
+- **Predicate:** sent_diplomatic_communication
+- **Object:** eight matters of concern (diplomatic_communication)
+- **Temporal:** 2025-05-12
+- **Sources:** src_001
 
 > South Sudan's Ministry of Foreign Affairs sent a diplomatic communication to the United States on May 12 raising eight matters of concern.
 
-### c_004 — confirmed, primary document
-**Subject entities:** South Sudan; Benjamin Bol Mel
-**Predicate:** requested_sanctions_relief
-**Object:** lift U.S. sanctions (policy_request)
-**Temporal:** 2025-05-12
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** South Sudan; Benjamin Bol Mel
+- **Predicate:** requested_sanctions_relief
+- **Object:** lift U.S. sanctions (policy_request)
+- **Temporal:** 2025-05-12
+- **Sources:** src_001
 
 > South Sudan requested the United States lift sanctions against former Vice President Benjamin Bol Mel.
 
-### c_005 — confirmed, primary document
-**Subject entities:** South Sudan; Riek Machar
-**Predicate:** requested_prosecution_support
-**Object:** prosecution support (policy_request)
-**Temporal:** 2025-05-12
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** South Sudan; Riek Machar
+- **Predicate:** requested_prosecution_support
+- **Object:** prosecution support (policy_request)
+- **Temporal:** 2025-05-12
+- **Sources:** src_001
 
 > South Sudan requested Washington's support for the prosecution of opposition leader Riek Machar.
 
-### c_006 — attributed, primary document
-**Subject entities:** Benjamin Bol Mel
-**Predicate:** accused_of_embezzlement
-**Object:** more than one billion dollars diverted (accusation)
-**Temporal:** prior to 2025-05
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Benjamin Bol Mel
+- **Predicate:** accused_of_embezzlement
+- **Object:** more than one billion dollars diverted (accusation)
+- **Temporal:** prior to 2025-05
+- **Sources:** src_001
 
 > Benjamin Bol Mel is accused of diverting more than one billion dollars earmarked for infrastructure projects into companies he owns or controls, according to a United Nations report.
 
-### c_007 — reported, single source
-**Subject entities:** Riek Machar
-**Predicate:** faces_criminal_charges
-**Object:** treason, murder, and other charges (criminal_charge)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Riek Machar
+- **Predicate:** faces_criminal_charges
+- **Object:** treason, murder, and other charges (criminal_charge)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Riek Machar faces treason, murder, and other criminal charges in South Sudan.
 
-### c_008 — attributed, single source
-**Subject entities:** Machar supporters; activists
-**Predicate:** characterized_charges_as
-**Object:** politically motivated (characterization)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Machar supporters; activists
+- **Predicate:** characterized_charges_as
+- **Object:** politically motivated (characterization)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Supporters of Riek Machar and some activists describe the charges against Machar as politically motivated.
 
-### c_009 — reported, single source
-**Subject entities:** Riek Machar; armed militia
-**Predicate:** charges_stem_from
-**Object:** March attack by militia (event)
-**Temporal:** 2025-03
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Riek Machar; armed militia
+- **Predicate:** charges_stem_from
+- **Object:** March attack by militia (event)
+- **Temporal:** 2025-03
+- **Sources:** src_001
 
 > The charges against Riek Machar stem from a violent incident in March when an armed militia with historical ties to him attacked a garrison of government troops.
 
-### c_010 — reported, single source
-**Subject entities:** Riek Machar; Salva Kiir
-**Predicate:** fell_out_triggering_civil_war
-**Object:** South Sudan civil war (historical_event)
-**Temporal:** 2013
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Riek Machar; Salva Kiir
+- **Predicate:** fell_out_triggering_civil_war
+- **Object:** South Sudan civil war (historical_event)
+- **Temporal:** 2013
+- **Sources:** src_001
 
 > Riek Machar was Salva Kiir's deputy when they fell out in 2013, provoking the start of South Sudan's civil war.
 
-### c_011 — reported, single source
-**Subject entities:** Riek Machar; South Sudan
-**Predicate:** returned_to_government_under
-**Object:** vice presidential position (government_position)
-**Temporal:** 2018
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Riek Machar; South Sudan
+- **Predicate:** returned_to_government_under
+- **Object:** vice presidential position (government_position)
+- **Temporal:** 2018
+- **Sources:** src_001
 
 > A 2018 peace agreement brought Machar back into government as the most senior of five vice presidents.
 
-### c_012 — reported, single source
-**Subject entities:** United Nations
-**Predicate:** documented_deaths_concurrent_with_prosecution
-**Object:** more than 1,800 deaths (casualty_count)
-**Temporal:** 2025-01 to 2025-09
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** United Nations
+- **Predicate:** documented_deaths_concurrent_with_prosecution
+- **Object:** more than 1,800 deaths (casualty_count)
+- **Temporal:** 2025-01 to 2025-09
+- **Sources:** src_001
 
 > Violence has spiked concurrent with Machar's prosecution, with the United Nations documenting more than 1,800 deaths between January and September 2025.
 
-### c_013 — attributed, single source
-**Subject entities:** United Nations; South Sudan
-**Predicate:** warned_of_civil_war_risk
-**Object:** risk of civil war relapse (warning)
-**Temporal:** recent
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** United Nations; South Sudan
+- **Predicate:** warned_of_civil_war_risk
+- **Object:** risk of civil war relapse (warning)
+- **Temporal:** recent
+- **Sources:** src_001
 
 > The United Nations has warned that a resurgence of fighting has brought South Sudan to the brink of civil war.
 
-### c_014 — reported, single source
-**Subject entities:** Riek Machar
-**Predicate:** under_house_arrest
-**Object:** house arrest in Juba (legal_status)
-**Temporal:** as of 2026-01
-**Source IDs:** src_001
+### c_014
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Riek Machar
+- **Predicate:** under_house_arrest
+- **Object:** house arrest in Juba (legal_status)
+- **Temporal:** as of 2026-01
+- **Sources:** src_001
 
 > Riek Machar is under house arrest in Juba while his criminal trial proceeds slowly.
 
-### c_015 — reported, single source
-**Subject entities:** Rwanda; United States
-**Predicate:** received_payment_for_deportees
-**Object:** 7.5 million dollars for up to 250 deportees (financial_agreement)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_015
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Rwanda; United States
+- **Predicate:** received_payment_for_deportees
+- **Object:** 7.5 million dollars for up to 250 deportees (financial_agreement)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Rwanda received approximately 7.5 million dollars from the United States to accept up to 250 deportees.
 
-### c_016 — reported, single source
-**Subject entities:** Eswatini; United States
-**Predicate:** will_receive_payment_for_deportees
-**Object:** 5.1 million dollars for up to 160 deportees (financial_agreement)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_016
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Eswatini; United States
+- **Predicate:** will_receive_payment_for_deportees
+- **Object:** 5.1 million dollars for up to 160 deportees (financial_agreement)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Eswatini will receive 5.1 million dollars from the United States to accept up to 160 deportees.
 
-### c_017 — reported, single source
-**Subject entities:** deportees
-**Predicate:** remain_in_facility
-**Object:** residential facility in Juba (location)
-**Temporal:** as of 2026-01
-**Source IDs:** src_001
+### c_017
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** deportees
+- **Predicate:** remain_in_facility
+- **Object:** residential facility in Juba (location)
+- **Temporal:** as of 2026-01
+- **Sources:** src_001
 
 > Six of the eight deportees to South Sudan remain at a residential facility in Juba under supervision of security personnel.
 
-### c_018 — reported, single source
-**Subject entities:** Dian Peter Domach
-**Predicate:** was_freed
-**Object:** freedom (legal_status_change)
-**Temporal:** after 2025-07
-**Source IDs:** src_001
+### c_018
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Dian Peter Domach
+- **Predicate:** was_freed
+- **Object:** freedom (legal_status_change)
+- **Temporal:** after 2025-07
+- **Sources:** src_001
 
 > Dian Peter Domach, a South Sudanese national among the deportees, was later freed.
 
-### c_019 — reported, single source
-**Subject entities:** Jesus Munoz-Gutierrez
-**Predicate:** was_repatriated
-**Object:** repatriated (immigration_action)
-**Temporal:** 2025-09
-**Source IDs:** src_001
+### c_019
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Jesus Munoz-Gutierrez
+- **Predicate:** was_repatriated
+- **Object:** repatriated (immigration_action)
+- **Temporal:** 2025-09
+- **Sources:** src_001
 
 > Jesus Munoz-Gutierrez, a Mexican, was repatriated in September.
 
-### c_020 — confirmed, primary document
-**Subject entities:** South Sudan; United States
-**Predicate:** requested_sanctions_relief_and_investment
-**Object:** sanctions relief and investment consideration (policy_request)
-**Temporal:** 2025-05-12
-**Source IDs:** src_001
+### c_020
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** South Sudan; United States
+- **Predicate:** requested_sanctions_relief_and_investment
+- **Object:** sanctions relief and investment consideration (policy_request)
+- **Temporal:** 2025-05-12
+- **Sources:** src_001
 
 > South Sudan requested the United States lift sanctions over South Sudanese oil companies and consider investment in fossil fuels, minerals, and agriculture.
 
-### c_021 — attributed, single source
-**Subject entities:** United States; State Department
-**Predicate:** declined_to_confirm_concessions
-**Object:** no details disclosed (official_statement)
-**Temporal:** as of 2026-01
-**Source IDs:** src_001
+### c_021
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** United States; State Department
+- **Predicate:** declined_to_confirm_concessions
+- **Object:** no details disclosed (official_statement)
+- **Temporal:** as of 2026-01
+- **Sources:** src_001
 
 > A State Department official said the U.S. does not disclose details of private diplomatic discussions.
 
-### c_022 — reported, single source
-**Subject entities:** Thomas Kenneth Elisapana; South Sudan
-**Predicate:** declined_comment
-**Object:** no comment (non-response)
-**Temporal:** as of 2026-01
-**Source IDs:** src_001
+### c_022
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Thomas Kenneth Elisapana; South Sudan
+- **Predicate:** declined_comment
+- **Object:** no comment (non-response)
+- **Temporal:** as of 2026-01
+- **Sources:** src_001
 
 > Thomas Kenneth Elisapana, spokesman for South Sudan's Ministry of Foreign Affairs, declined to comment.
 
-### c_023 — reported, single source
-**Subject entities:** United States; South Sudan
-**Predicate:** threatened_aid_reduction
-**Object:** reduction in aid contributions (threat)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_023
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** United States; South Sudan
+- **Predicate:** threatened_aid_reduction
+- **Object:** reduction in aid contributions (threat)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > In December, the United States threatened to reduce aid contributions to South Sudan, accusing the government of imposing fees on aid groups and obstructing their operations.
 
-### c_024 — reported, single source
-**Subject entities:** United States; South Sudan
-**Predicate:** provided_aid
-**Object:** 9.5 billion dollars (financial_amount)
-**Temporal:** 2011 to present
-**Source IDs:** src_001
+### c_024
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** United States; South Sudan
+- **Predicate:** provided_aid
+- **Object:** 9.5 billion dollars (financial_amount)
+- **Temporal:** 2011 to present
+- **Sources:** src_001
 
 > The United States has provided roughly 9.5 billion dollars in aid to South Sudan since 2011.
 
-### c_025 — reported, single source
-**Subject entities:** Rwanda; Eswatini; Ghana; Equatorial Guinea; United States
-**Predicate:** received_deportees
-**Object:** deportees (immigration_action)
-**Temporal:** after 2025-07
-**Source IDs:** src_001
+### c_025
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Rwanda; Eswatini; Ghana; Equatorial Guinea; United States
+- **Predicate:** received_deportees
+- **Object:** deportees (immigration_action)
+- **Temporal:** after 2025-07
+- **Sources:** src_001
 
 > Rwanda, Eswatini, Ghana, and Equatorial Guinea have also received deportees from the United States.
 
@@ -341,7 +391,3 @@ In December, the United States threatened to reduce aid contributions to South S
 **Access date:** 2026-01-24
 **Title:** After accepting US deportees, South Sudan wanted sanctions relief for top official, documents show
 **URL:** https://apnews.com/article/south-sudan-us-migrants-10ac9844e775ad2a4f16132124558fd0
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -18,7 +18,7 @@ topic_tags:
   - government
   - "international relations"
 storyline_nexus:
-  - epstein-investigation
+- epstein-investigation-fallout
 geographic_location: United Kingdom
 floor_values_engaged:
 - value: accountability_of_power
@@ -101,7 +101,7 @@ The offense for which both are under investigation is rooted in medieval law and
 
 The Crown Prosecution Service, which conducts criminal investigations in England and Wales, defines misconduct in public office as "serious willful abuse or neglect of the power or responsibilities of the public office held." The offense carries a maximum sentence of life imprisonment.
 
-Prosecutors must establish that the suspects willfully neglected their duties or committed willful misconduct, that the conduct was so serious it amounts to an abuse of public trust, and that it occurred "without reasonable excuse or justification."
+Prosecutors must establish that the suspects willfully neglected their duties or committed willful misconduct, that the conduct was so serious it amounts to an abuse of public trust, and that it occurred without reasonable excuse or justification for the conduct.
 
 ## Why conviction remains uncertain
 
@@ -122,10 +122,6 @@ The Law Commission, an independent legal body that advises the government on ref
 The commission has also noted that prosecutions under the law have predominantly targeted lower- and mid-ranking officials such as police and prison officers, rather than senior managers or politicians. Cases involving government ministers or trade envoys charged with the offense are "extremely rare," according to Johnstone.
 
 Both Mountbatten-Windsor and Mandelson were released after police questioning and remain under investigation.
-
----
-
-**License:** This article was generated algorithmically from publicly-available sources under the CC0 license. For more information, see Main Street Independent's methodology at `/methodology`.
 
 ## Atomic claims
 
@@ -245,7 +241,3 @@ Both Mountbatten-Windsor and Mandelson were released after police questioning an
 **Access date:** 2026-02-24
 **Title:** Former Prince Andrew and Peter Mandelson were arrested for misconduct in public office. What is it?
 **URL:** https://apnews.com/article/britain-epstein-andrew-mandelson-misconduct-1108af2d0c2145db7ab3ba37b8161ee2
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

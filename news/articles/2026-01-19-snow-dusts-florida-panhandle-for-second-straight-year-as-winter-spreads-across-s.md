@@ -17,7 +17,8 @@ primary_themes:
 - blizzard warning
 topic_tags:
   - "conflict, war and peace"
-storyline_nexus: []
+storyline_nexus:
+- extreme-weather-disasters
 geographic_location: Florida Panhandle; southeastern United States; New England; upper Midwest
 floor_values_engaged:
 - value: informed_citizenship
@@ -100,120 +101,146 @@ Farther north, a blizzard warning was in effect until 9 p.m. local time for part
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Florida Panhandle
-**Predicate:** received_snowfall
-**Object:** dusting (weather_event)
-**Temporal:** 2026-01-18
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Florida Panhandle
+- **Predicate:** received_snowfall
+- **Object:** dusting (weather_event)
+- **Temporal:** 2026-01-18
+- **Sources:** src_001
 
 > Snow covered rooftops and lawns in parts of the western Florida Panhandle on Sunday, January 18, 2026.
 
-### c_002 — attributed, single source
-**Subject entities:** Florida Panhandle
-**Predicate:** experienced_consecutive_snowfall
-**Object:** second year in a row (pattern)
-**Temporal:** 2026-01-18
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Florida Panhandle
+- **Predicate:** experienced_consecutive_snowfall
+- **Object:** second year in a row (pattern)
+- **Temporal:** 2026-01-18
+- **Sources:** src_001
 
 > The January 2026 snowfall is the second consecutive year the Florida Panhandle has received snow.
 
-### c_003 — attributed, single source
-**Subject entities:** Florida Panhandle
-**Predicate:** received_snowfall
-**Object:** up to 8 inches (20 centimeters) (measurement)
-**Temporal:** 2025-01-21
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Florida Panhandle
+- **Predicate:** received_snowfall
+- **Object:** up to 8 inches (20 centimeters) (measurement)
+- **Temporal:** 2025-01-21
+- **Sources:** src_001
 
 > On January 21, 2025, some Florida Panhandle areas received up to eight inches of snow.
 
-### c_004 — attributed, single source
-**Subject entities:** Florida Panhandle
-**Predicate:** most_significant_snowfall_since
-**Object:** late 1800s (historical_reference)
-**Temporal:** 2025-01-21
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Florida Panhandle
+- **Predicate:** most_significant_snowfall_since
+- **Object:** late 1800s (historical_reference)
+- **Temporal:** 2025-01-21
+- **Sources:** src_001
 
 > The January 2025 snowfall was the most significant in many Florida Panhandle areas since the late 1800s.
 
-### c_005 — attributed, single source
-**Subject entities:** Florida Panhandle
-**Predicate:** snow_accumulation_limited
-**Object:** roads clear; grass dusted briefly (weather_detail)
-**Temporal:** 2026-01-18
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Florida Panhandle
+- **Predicate:** snow_accumulation_limited
+- **Object:** roads clear; grass dusted briefly (weather_detail)
+- **Temporal:** 2026-01-18
+- **Sources:** src_001
 
 > Snow on Sunday was too warm to stick to roads but settled on grass briefly before melting.
 
-### c_006 — attributed, single source
-**Subject entities:** Alabama; Georgia
-**Predicate:** received_snowfall
-**Object:** snowfall reported (weather_event)
-**Temporal:** 2026-01-18
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Alabama; Georgia
+- **Predicate:** received_snowfall
+- **Object:** snowfall reported (weather_event)
+- **Temporal:** 2026-01-18
+- **Sources:** src_001
 
 > Southeastern Alabama and southern Georgia also reported snow on Sunday.
 
-### c_007 — attributed, single source
-**Subject entities:** Columbus, Georgia; Macon, Georgia
-**Predicate:** snow_covered_ground
-**Object:** ground coverage; travel warning (weather_event)
-**Temporal:** 2026-01-18
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Columbus, Georgia; Macon, Georgia
+- **Predicate:** snow_covered_ground
+- **Object:** ground coverage; travel warning (weather_event)
+- **Temporal:** 2026-01-18
+- **Sources:** src_001
 
 > Snow covered the ground in Columbus and Macon, Georgia, with officials warning travel could be treacherous in spots.
 
-### c_008 — reported, single source
-**Subject entities:** Connecticut; Rhode Island; Massachusetts
-**Predicate:** snow_predicted
-**Object:** 3 to 5 inches (7 to 13 centimeters) (forecast)
-**Temporal:** 2026-01-18
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Connecticut; Rhode Island; Massachusetts
+- **Predicate:** snow_predicted
+- **Object:** 3 to 5 inches (7 to 13 centimeters) (forecast)
+- **Temporal:** 2026-01-18
+- **Sources:** src_001
 
 > Three to five inches of snow were predicted for Connecticut, Rhode Island, and Massachusetts on Sunday afternoon and evening.
 
-### c_009 — attributed, single source
-**Subject entities:** Kyle Pederson; Boston
-**Predicate:** forecast_stated
-**Object:** wet and heavy snow; heaviest after 7 p.m. (attributed_forecast)
-**Temporal:** 2026-01-18
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Kyle Pederson; Boston
+- **Predicate:** forecast_stated
+- **Object:** wet and heavy snow; heaviest after 7 p.m. (attributed_forecast)
+- **Temporal:** 2026-01-18
+- **Sources:** src_001
 
 > National Weather Service meteorologist Kyle Pederson said the Boston area could expect 'wet and heavy' snow showers, with the heaviest snowfall not expected until 7 p.m.
 
-### c_010 — attributed, single source
-**Subject entities:** Kyle Pederson
-**Predicate:** stated
-**Object:** verbatim quote on offshore low-pressure system (direct_quotation)
-**Temporal:** 2026-01-18
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Kyle Pederson
+- **Predicate:** stated
+- **Object:** verbatim quote on offshore low-pressure system (direct_quotation)
+- **Temporal:** 2026-01-18
+- **Sources:** src_001
 
 > Kyle Pederson said: 'There's a low-pressure system passing offshore and it's close enough to bring us some snow, but far enough away not to be a major hit.'
 
-### c_011 — reported, single source
-**Subject entities:** Chicago
-**Predicate:** weather_forecast
-**Object:** minimal snow; teens temperature; wind chill near zero (forecast)
-**Temporal:** 2026-01-18
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Chicago
+- **Predicate:** weather_forecast
+- **Object:** minimal snow; teens temperature; wind chill near zero (forecast)
+- **Temporal:** 2026-01-18
+- **Sources:** src_001
 
 > In Chicago, snow accumulation was expected to be minimal, but temperatures in the teens and a wind chill near zero were forecast.
 
-### c_012 — confirmed, single source
-**Subject entities:** Minnesota; North Dakota
-**Predicate:** blizzard_warning_issued
-**Object:** until 9 p.m. local time (official_warning)
-**Temporal:** 2026-01-18
-**Source IDs:** src_001
+### c_012
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Minnesota; North Dakota
+- **Predicate:** blizzard_warning_issued
+- **Object:** until 9 p.m. local time (official_warning)
+- **Temporal:** 2026-01-18
+- **Sources:** src_001
 
 > A blizzard warning was in effect until 9 p.m. local time for parts of northwest and west-central Minnesota and southeast North Dakota.
 
-### c_013 — reported, single source
-**Subject entities:** Minnesota; North Dakota
-**Predicate:** blizzard_conditions_forecast
-**Object:** gusts up to 55 mph; 2 inches snow; whiteout possible (forecast)
-**Temporal:** 2026-01-18
-**Source IDs:** src_001
+### c_013
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Minnesota; North Dakota
+- **Predicate:** blizzard_conditions_forecast
+- **Object:** gusts up to 55 mph; 2 inches snow; whiteout possible (forecast)
+- **Temporal:** 2026-01-18
+- **Sources:** src_001
 
 > Wind gusts up to 55 miles per hour were forecast to create whiteout conditions in the blizzard warning area, despite snow accumulation expected to be limited to two inches.
 
@@ -225,7 +252,3 @@ Farther north, a blizzard warning was in effect until 9 p.m. local time for part
 **Access date:** 2026-01-19
 **Title:** Snow blankets Florida Panhandle for a 2nd year in a row
 **URL:** https://apnews.com/article/florida-snow-deep-south-panhandle-d899349708b890876e3f8cc2a0988d56
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

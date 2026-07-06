@@ -17,39 +17,41 @@ primary_themes:
 - diagnosis
 - Epstein-Barr virus
 topic_tags:
-  - "disease and condition"
-  - health
-  - "health treatment and procedure"
-storyline_nexus: []
+- disease and condition
+- health
+- medical research
+- health treatment and procedure
+storyline_nexus:
+- trump-health-policy-rfk
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship
-  intensity: 0.7
+  intensity: 0.9
 - value: human_life_and_dignity
-  intensity: 0.65
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:00:00Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:23:10Z'
 source_cluster_id: cluster_ap_2026-01-21_autoimmune-symptoms-rheumatology-diagnos
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 12
   hedges:
+    reported: 2
     appears: 1
+    contested: 0
     alleged: 0
     attributed: 9
-    reported: 2
-    contested: 0
     confirmed: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 0
     single_source: 12
+    primary_document: 0
+    primary_plus_secondary: 0
     two_independent: 0
+    one_originating_plus_primary_document: 0
 sources:
   count: 1
   outlets:
@@ -70,6 +72,13 @@ image:
 cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- Autoimmune diseases affect tens of millions of Americans, strike women at roughly four times the rate of men, and are on the rise, according to the Associated Press. Researchers are testing dozens ...
+- "This is probably the most exciting time that we've ever had to be in autoimmunity," said Dr. Amit Saxena, a rheumatologist at NYU Langone Health.
+- More than 100 distinct autoimmune conditions have been identified, ranging from mild to life-threatening. They develop when the immune system mista...
 
 Autoimmune diseases affect tens of millions of Americans, strike women at roughly four times the rate of men, and are on the rise, according to the Associated Press. Researchers are testing dozens of new therapies — including a cancer treatment that has shown early promise against lupus and other conditions — in what specialists describe as a pivotal moment for the field.
 
@@ -117,111 +126,135 @@ Until recently, options for many conditions were limited to high-dose steroids a
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** autoimmune diseases
-**Predicate:** affects
-**Object:** tens of millions (population_estimate)
-**Temporal:** 2025-11-06
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** autoimmune diseases
+- **Predicate:** affects
+- **Object:** tens of millions (population_estimate)
+- **Temporal:** 2025-11-06
+- **Sources:** src_001
 
 > Autoimmune diseases affect tens of millions of people in the United States.
 
-### c_002 — attributed, single source
-**Subject entities:** women
-**Predicate:** proportion_of_patients
-**Object:** 4 of 5 (ratio)
-**Temporal:** 2025-11-06
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** women
+- **Predicate:** proportion_of_patients
+- **Object:** 4 of 5 (ratio)
+- **Temporal:** 2025-11-06
+- **Sources:** src_001
 
 > Women account for about 4 of 5 autoimmune disease patients.
 
-### c_003 — attributed, single source
-**Subject entities:** autoimmune diseases
-**Predicate:** count
-**Object:** more than 100 (count)
-**Temporal:** 2025-11-06
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** autoimmune diseases
+- **Predicate:** count
+- **Object:** more than 100 (count)
+- **Temporal:** 2025-11-06
+- **Sources:** src_001
 
 > More than 100 distinct autoimmune diseases have been identified.
 
-### c_004 — attributed, single source
-**Subject entities:** autoimmune diseases
-**Predicate:** trending
-**Object:** increasing (trend)
-**Temporal:** 2025-11-06
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** autoimmune diseases
+- **Predicate:** trending
+- **Object:** increasing (trend)
+- **Temporal:** 2025-11-06
+- **Sources:** src_001
 
 > Autoimmune diseases are on the rise.
 
-### c_005 — reported, single source
-**Subject entities:** CAR-T therapy; lupus; myositis
-**Predicate:** demonstrated_efficacy
-**Object:** promising early successes (clinical_result)
-**Temporal:** 2025-11-06
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** CAR-T therapy; lupus; myositis
+- **Predicate:** demonstrated_efficacy
+- **Object:** promising early successes (clinical_result)
+- **Temporal:** 2025-11-06
+- **Sources:** src_001
 
 > CAR-T therapy has had promising early successes against lupus, myositis, and certain other autoimmune illnesses in clinical trials.
 
-### c_006 — attributed, single source
-**Subject entities:** Amit Saxena; NYU Langone Health
-**Predicate:** stated
-**Object:** most exciting time in autoimmunity (quotation)
-**Temporal:** 2025-11-06
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Amit Saxena; NYU Langone Health
+- **Predicate:** stated
+- **Object:** most exciting time in autoimmunity (quotation)
+- **Temporal:** 2025-11-06
+- **Sources:** src_001
 
 > Dr. Amit Saxena, a rheumatologist at NYU Langone Health, said this is 'probably the most exciting time that we've ever had to be in autoimmunity.'
 
-### c_007 — reported, single source
-**Subject entities:** Stanford University; Epstein-Barr virus; lupus
-**Predicate:** linked
-**Object:** autoimmune chain reaction (research_finding)
-**Temporal:** 2025-11-06
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Stanford University; Epstein-Barr virus; lupus
+- **Predicate:** linked
+- **Object:** autoimmune chain reaction (research_finding)
+- **Temporal:** 2025-11-06
+- **Sources:** src_001
 
 > Stanford University researchers found that the Epstein-Barr virus can nudge certain B cells into an inflammatory state that may spur an autoimmune chain reaction linked to lupus.
 
-### c_008 — attributed, single source
-**Subject entities:** autoimmune disease treatment market; Morningstar
-**Predicate:** market_size
-**Object:** $100 billion annually (market_value)
-**Temporal:** 2025-11-06
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** autoimmune disease treatment market; Morningstar
+- **Predicate:** market_size
+- **Object:** $100 billion annually (market_value)
+- **Temporal:** 2025-11-06
+- **Sources:** src_001
 
 > The global market for autoimmune disease treatments is $100 billion a year, according to Morningstar.
 
-### c_009 — attributed, single source
-**Subject entities:** VEXAS syndrome
-**Predicate:** affects
-**Object:** men over 50 (demographic)
-**Temporal:** 2020
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** VEXAS syndrome
+- **Predicate:** affects
+- **Object:** men over 50 (demographic)
+- **Temporal:** 2020
+- **Sources:** src_001
 
 > VEXAS syndrome, a severe autoimmune disease not discovered until 2020, mainly affects men over 50 and can cause blood clots, shortness of breath, and night sweats.
 
-### c_010 — attributed, single source
-**Subject entities:** lupus; Black women; Hispanic women
-**Predicate:** higher_prevalence
-**Object:** Black and Hispanic women (demographic)
-**Temporal:** 2025-11-06
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** lupus; Black women; Hispanic women
+- **Predicate:** higher_prevalence
+- **Object:** Black and Hispanic women (demographic)
+- **Temporal:** 2025-11-06
+- **Sources:** src_001
 
 > Lupus is more common in Black and Hispanic women.
 
-### c_011 — appears, single source
-**Subject entities:** X chromosome; women; autoimmune diseases
-**Predicate:** associated_with
-**Object:** increased vulnerability (research_finding)
-**Temporal:** 2025-11-06
-**Source IDs:** src_001
+### c_011
+- **Hedge:** appears
+- **Corroboration:** single_source
+- **Subject entities:** X chromosome; women; autoimmune diseases
+- **Predicate:** associated_with
+- **Object:** increased vulnerability (research_finding)
+- **Temporal:** 2025-11-06
+- **Sources:** src_001
 
 > Some research suggests an abnormality in how female cells switch off an extra X chromosome may increase women's vulnerability to autoimmune diseases.
 
-### c_012 — attributed, single source
-**Subject entities:** multiple sclerosis; Northern Europeans
-**Predicate:** higher_risk
-**Object:** Northern Europeans (demographic)
-**Temporal:** 2025-11-06
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** multiple sclerosis; Northern Europeans
+- **Predicate:** higher_risk
+- **Object:** Northern Europeans (demographic)
+- **Temporal:** 2025-11-06
+- **Sources:** src_001
 
 > Northern Europeans have a higher risk of multiple sclerosis than other groups.
 
@@ -230,10 +263,5 @@ Until recently, options for many conditions were limited to high-dose steroids a
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Lauran Neergaard
 **Publication date:** 2025-11-06
-**Access date:** 2026-05-17
 **Title:** Why autoimmune diseases mostly strike women and are often misdiagnosed
 **URL:** https://apnews.com/article/autoimmune-symptoms-rheumatology-diagnosis-steps-ecc5981788b598fe08d2c19a0fa1523b
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

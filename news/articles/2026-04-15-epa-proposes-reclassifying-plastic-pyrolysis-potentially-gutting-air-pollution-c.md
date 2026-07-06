@@ -23,42 +23,42 @@ primary_themes:
 - air pollution
 - deregulation
 topic_tags:
-  - politics
-  - "government policy"
-  - environment
+- government policy
+- environment
+- pollution
+- manufacturing and engineering
+- climate change
 storyline_nexus:
-  - ai-regulation
+- trump-climate-energy-rollbacks
 geographic_location: United States
 floor_values_engaged:
-- value: accountability_of_power
-  intensity: 0.85
 - value: human_life_and_dignity
-  intensity: 0.8
-- value: informed_citizenship
-  intensity: 0.75
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T08:13:54Z'
+  intensity: 0.9
+- value: accountability_of_power
+  intensity: 0.9
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T01:08:01Z'
 source_cluster_id: cluster_ap_2026-04-16_plastics-chemical-recycling-epa-clean-ai
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 15
   hedges:
     appears: 0
-    alleged: 0
+    confirmed: 3
     attributed: 10
     reported: 2
+    alleged: 0
     contested: 0
-    confirmed: 3
   corroboration:
+    two_independent: 0
     primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
-    primary_document: 0
     single_source: 15
-    two_independent: 0
+    primary_document: 0
 sources:
   count: 1
   outlets:
@@ -72,21 +72,19 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2025-12-30-trump-s-epa-cuts-pollution-rules-and-staff-in-fossil-fuel-pivot
-  relation: related
-  strength: 0.8001
-  confidence: medium
-- slug: 2026-01-13-epa-drops-health-benefit-calculations-from-air-pollution-rules-under-trump
-  relation: related
-  strength: 0.7801
-  confidence: medium
-- slug: 2025-12-30-zeldin-s-epa-cuts-enforcement-and-staff-as-fossil-fuel-friendly-pivot-takes-hold
-  relation: related
-  strength: 0.7884
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- EPA change for plastics recycling could increase pollution
+- The EPA is reconsidering whether facilities that recycle plastic chemically should be held to the same strict air pollution standards as incinerators.
+- The EPA currently regulates pyrolysis under Section 129 of the Clean Air Act, which limits emissions of nine air pollutants including toxic particulates, heavy metals, and dioxins.
+- The EPA is taking public comment on a potential rule that could recognize pyrolysis as manufacturing under Section 111 of the Clean Air Act.
+- John Walke, who leads the NRDC's national clean air advocacy, said Section 111 doesn't regulate as many pollutants as Section 129.
 
 The Environmental Protection Agency is considering reclassifying chemical plastic recycling facilities as manufacturers rather than incinerators under the Clean Air Act, a move environmental advocates say would immediately eliminate federal air pollution controls at those sites and expose surrounding communities to toxic emissions.
 
@@ -134,138 +132,168 @@ The EPA proposed a nearly identical reclassification in 2020 during President Tr
 
 ## Atomic claims
 
-### c_001 — reported, single source
-**Subject entities:** U.S. Environmental Protection Agency
-**Predicate:** reconsidering_regulation_of
-**Object:** chemical plastic recycling facilities as incinerators (regulatory_subject)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Environmental Protection Agency
+- **Predicate:** reconsidering_regulation_of
+- **Object:** chemical plastic recycling facilities as incinerators (regulatory_subject)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > The EPA is reconsidering whether facilities that recycle plastic chemically should be held to the same strict air pollution standards as incinerators.
 
-### c_002 — confirmed, single source
-**Subject entities:** U.S. Environmental Protection Agency
-**Predicate:** regulates_under
-**Object:** Section 129 covering nine pollutant categories (regulatory_standard)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Environmental Protection Agency
+- **Predicate:** regulates_under
+- **Object:** Section 129 covering nine pollutant categories (regulatory_standard)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > The EPA currently regulates pyrolysis under Section 129 of the Clean Air Act, which limits emissions of nine air pollutants including toxic particulates, heavy metals, and dioxins.
 
-### c_003 — reported, single source
-**Subject entities:** U.S. Environmental Protection Agency
-**Predicate:** soliciting_comment_on
-**Object:** proposed reclassification under Section 111 (proposed_rule)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Environmental Protection Agency
+- **Predicate:** soliciting_comment_on
+- **Object:** proposed reclassification under Section 111 (proposed_rule)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > The EPA is taking public comment on a potential rule that could recognize pyrolysis as manufacturing under Section 111 of the Clean Air Act.
 
-### c_004 — attributed, single source
-**Subject entities:** John Walke; Natural Resources Defense Council
-**Predicate:** stated
-**Object:** Section 111 covers fewer pollutants than Section 129 (regulatory_comparison)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** John Walke; Natural Resources Defense Council
+- **Predicate:** stated
+- **Object:** Section 111 covers fewer pollutants than Section 129 (regulatory_comparison)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > John Walke, who leads the NRDC's national clean air advocacy, said Section 111 doesn't regulate as many pollutants as Section 129.
 
-### c_005 — attributed, single source
-**Subject entities:** John Walke
-**Predicate:** stated
-**Object:** EPA skipping required rulemaking steps (procedural_claim)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** John Walke
+- **Predicate:** stated
+- **Object:** EPA skipping required rulemaking steps (procedural_claim)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Walke said the EPA's plan is skipping crucial steps in a lengthy, required rulemaking process.
 
-### c_006 — attributed, single source
-**Subject entities:** John Walke
-**Predicate:** stated
-**Object:** immediate deregulation gap lasting several years (regulatory_impact)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** John Walke
+- **Predicate:** stated
+- **Object:** immediate deregulation gap lasting several years (regulatory_impact)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Walke said the EPA move would amount to immediate deregulation of pyrolysis facilities under the Clean Air Act, with several years needed before facilities could be regulated under another section.
 
-### c_007 — attributed, single source
-**Subject entities:** Ross Eisenberg; America's Plastic Makers
-**Predicate:** stated
-**Object:** other regulations and state permits control emissions (industry_claim)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ross Eisenberg; America's Plastic Makers
+- **Predicate:** stated
+- **Object:** other regulations and state permits control emissions (industry_claim)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Ross Eisenberg, president of America's Plastic Makers, said other sections of the Clean Air Act would still apply and facilities receive state permits, so emissions would still be controlled.
 
-### c_008 — attributed, single source
-**Subject entities:** Judith Enck; Beyond Plastics
-**Predicate:** stated
-**Object:** much weaker level of environmental protection (regulatory_impact)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Judith Enck; Beyond Plastics
+- **Predicate:** stated
+- **Object:** much weaker level of environmental protection (regulatory_impact)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Judith Enck, a former EPA regional administrator who now heads Beyond Plastics, said the change would represent a much weaker level of environmental protection.
 
-### c_009 — attributed, single source
-**Subject entities:** American Chemistry Council
-**Predicate:** reported_count_of
-**Object:** six operating pyrolysis plants plus additional sites under construction (facility_count)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** American Chemistry Council
+- **Predicate:** reported_count_of
+- **Object:** six operating pyrolysis plants plus additional sites under construction (facility_count)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Six pyrolysis plants are operating in Ohio, Texas, North Carolina, Indiana, and Georgia, with one under construction in Arizona, one in West Virginia, and a small test project in Maryland, according to the American Chemistry Council.
 
-### c_010 — attributed, single source
-**Subject entities:** American Chemistry Council
-**Predicate:** reported_statistic
-**Object:** more than 90% of plastics not recycled (recycling_rate)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** American Chemistry Council
+- **Predicate:** reported_statistic
+- **Object:** more than 90% of plastics not recycled (recycling_rate)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > More than 90% of plastics are not recycled, according to the American Chemistry Council.
 
-### c_011 — confirmed, single source
-**Subject entities:** U.S. Environmental Protection Agency
-**Predicate:** proposed_and_withdrew
-**Object:** similar pyrolysis reclassification proposed 2020, withdrawn by Biden (regulatory_history)
-**Temporal:** 2020
-**Source IDs:** src_001
+### c_011
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Environmental Protection Agency
+- **Predicate:** proposed_and_withdrew
+- **Object:** similar pyrolysis reclassification proposed 2020, withdrawn by Biden (regulatory_history)
+- **Temporal:** 2020
+- **Sources:** src_001
 
 > The EPA proposed a similar reclassification in 2020 during President Trump's first term, and the Biden administration withdrew the proposed modification.
 
-### c_012 — confirmed, single source
-**Subject entities:** U.S. Environmental Protection Agency
-**Predicate:** published_notice
-**Object:** pyrolysis comment solicitation buried in air curtain incinerator rulemaking (regulatory_action)
-**Temporal:** 2026-03
-**Source IDs:** src_001
+### c_012
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Environmental Protection Agency
+- **Predicate:** published_notice
+- **Object:** pyrolysis comment solicitation buried in air curtain incinerator rulemaking (regulatory_action)
+- **Temporal:** 2026-03
+- **Sources:** src_001
 
 > In March 2026, EPA published a notice requesting comment on removing the pyrolysis reference, embedded within a rulemaking on air curtain incinerators.
 
-### c_013 — attributed, single source
-**Subject entities:** John Walke; Natural Resources Defense Council
-**Predicate:** stated_intention
-**Object:** challenge final rollback in court (legal_action)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** John Walke; Natural Resources Defense Council
+- **Predicate:** stated_intention
+- **Object:** challenge final rollback in court (legal_action)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > John Walke said the NRDC plans to challenge any final rollback in court.
 
-### c_014 — attributed, single source
-**Subject entities:** American Chemistry Council
-**Predicate:** reported_count_of
-**Object:** 25 states regulating chemical recycling as manufacturing (state_law_count)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** American Chemistry Council
+- **Predicate:** reported_count_of
+- **Object:** 25 states regulating chemical recycling as manufacturing (state_law_count)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Twenty-five states regulate chemical recycling as manufacturing, and legislation is pending in Congress.
 
-### c_015 — attributed, single source
-**Subject entities:** Lee Zeldin; U.S. Environmental Protection Agency; ExxonMobil
-**Predicate:** toured
-**Object:** ExxonMobil Baytown Texas chemical recycling facility (official_visit)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Lee Zeldin; U.S. Environmental Protection Agency; ExxonMobil
+- **Predicate:** toured
+- **Object:** ExxonMobil Baytown Texas chemical recycling facility (official_visit)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > EPA Administrator Lee Zeldin toured ExxonMobil's Baytown, Texas facility to see chemical recycling in person.
 
@@ -274,10 +302,5 @@ The EPA proposed a nearly identical reclassification in 2020 during President Tr
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Jennifer McDermott
 **Publication date:** 2026-04-15
-**Access date:** 2026-04-15
 **Title:** EPA change for plastics recycling could increase pollution
 **URL:** https://apnews.com/article/plastics-chemical-recycling-epa-clean-air-9d9511c0d8c7870afa4ba10d78456ff3
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

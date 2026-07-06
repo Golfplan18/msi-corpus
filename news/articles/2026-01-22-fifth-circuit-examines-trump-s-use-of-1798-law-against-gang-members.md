@@ -18,43 +18,41 @@ primary_themes:
 - Judicial review
 - Emergency authorities
 topic_tags:
-  - "armed conflict"
-  - "conflict, war and peace"
-  - "crime, law and justice"
-  - politics
-  - trial
-storyline_nexus: []
+- crime, law and justice
+- government
+- judiciary
+- international relations
+storyline_nexus:
+- venezuela-political-military-crisis
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
-  intensity: 0.95
-- value: truthfulness
-  intensity: 0.85
-- value: informed_citizenship
-  intensity: 0.8
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+  intensity: 0.9
+- value: human_life_and_dignity
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T04:26:46Z'
 source_cluster_id: cluster_ap_2026-01-24_trump-venezuela-deportations-immigration
 gdelt_event_ids: []
-consensus_floor_version: '3.1'
-publication_mindspec_version: '1.0'
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 14
   hedges:
-    appears: 0
-    alleged: 1
-    attributed: 5
     reported: 4
-    contested: 0
     confirmed: 4
+    attributed: 5
+    alleged: 1
+    appears: 0
+    contested: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 6
     single_source: 8
     two_independent: 0
+    primary_plus_secondary: 0
+    primary_document: 6
+    one_originating_plus_primary_document: 0
 sources:
   count: 1
   outlets:
@@ -71,6 +69,12 @@ figures_aggregate:
 cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Unknown...
 
 A federal appeals court heard arguments Thursday on whether President Donald Trump can invoke a law written in 1798 to deport members of a Venezuelan criminal gang. All 17 judges of the Fifth Circuit Court of Appeals in New Orleans examined whether the Alien Enemies Act — a wartime statute never before used against a criminal organization — applies to Tren de Aragua.
 
@@ -110,133 +114,159 @@ The high court then issued a midnight ruling that halted removal flights and bar
 
 The Supreme Court has left the fundamental constitutional question to the Fifth Circuit: whether a 228-year-old law for military enemies can govern modern immigration enforcement. The appellate court has not yet announced when it will rule.
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
-### c_001 — reported, single source
-**Subject entities:** Trump administration; Fifth Circuit Court of Appeals
-**Predicate:** heard_arguments
-**Object:** Alien Enemies Act application to Venezuelan gang (legal_proceeding)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Trump administration; Fifth Circuit Court of Appeals
+- **Predicate:** heard_arguments
+- **Object:** Alien Enemies Act application to Venezuelan gang (legal_proceeding)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > A full Fifth Circuit panel heard arguments on Thursday over Trump's use of the Alien Enemies Act of 1798.
 
-### c_002 — confirmed, primary document
-**Subject entities:** United States government
-**Predicate:** invoked
-**Object:** three times: War of 1812, World Wars I and II (historical_fact)
-**Temporal:** historical
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** United States government
+- **Predicate:** invoked
+- **Object:** three times: War of 1812, World Wars I and II (historical_fact)
+- **Temporal:** historical
+- **Sources:** src_001
 
 > The Alien Enemies Act has only been invoked three other times in American history: during the War of 1812 and both world wars.
 
-### c_003 — reported, primary document
-**Subject entities:** Fifth Circuit panel
-**Predicate:** ruled
-**Object:** Act cannot apply to gangs, only foreign nations (court_ruling)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Fifth Circuit panel
+- **Predicate:** ruled
+- **Object:** Act cannot apply to gangs, only foreign nations (court_ruling)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > A three-judge panel of the Fifth Circuit previously ruled the Alien Enemies Act cannot be deployed against a gang rather than a belligerent foreign power.
 
-### c_004 — attributed, single source
-**Subject entities:** Jennifer Walker Elrod
-**Predicate:** asked
-**Object:** Could president invoke law against Beatles/British bands (judicial_question)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jennifer Walker Elrod
+- **Predicate:** asked
+- **Object:** Could president invoke law against Beatles/British bands (judicial_question)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Judge Jennifer Walker Elrod asked whether a president could use the law against the Beatles, referencing the 1960s British invasion moral panic.
 
-### c_005 — attributed, single source
-**Subject entities:** Drew Ensign; Trump administration
-**Predicate:** said
-**Object:** President can invoke Alien Enemies Act against designated threats (legal_statement)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Drew Ensign; Trump administration
+- **Predicate:** said
+- **Object:** President can invoke Alien Enemies Act against designated threats (legal_statement)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Drew Ensign, assistant attorney general, said the president does have that power.
 
-### c_006 — attributed, single source
-**Subject entities:** Drew Ensign
-**Predicate:** argued
-**Object:** Political question doctrine bars judicial review of foreign affairs (legal_argument)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Drew Ensign
+- **Predicate:** argued
+- **Object:** Political question doctrine bars judicial review of foreign affairs (legal_argument)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Ensign argued foreign affairs and national security matters are political questions that courts cannot review.
 
-### c_007 — attributed, single source
-**Subject entities:** Lee Gelernt; ACLU
-**Predicate:** told
-**Object:** Tren de Aragua commits ordinary crimes, not military threats (legal_argument)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Lee Gelernt; ACLU
+- **Predicate:** told
+- **Object:** Tren de Aragua commits ordinary crimes, not military threats (legal_argument)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Lee Gelernt, ACLU attorney, told the judges that Tren de Aragua is committing ordinary crimes dealt with by law enforcement.
 
-### c_008 — attributed, single source
-**Subject entities:** Lee Gelernt
-**Predicate:** said
-**Object:** Act applies to military threats, not gang crime (legal_argument)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Lee Gelernt
+- **Predicate:** said
+- **Object:** Act applies to military threats, not gang crime (legal_argument)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Gelernt said the Alien Enemies Act is about wartime and the military, not criminal activity.
 
-### c_009 — alleged, single source
-**Subject entities:** Trump administration; Nicolas Maduro
-**Predicate:** alleged
-**Object:** Venezuelan gang acts under Maduro government direction (allegation)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_009
+- **Hedge:** alleged
+- **Corroboration:** single_source
+- **Subject entities:** Trump administration; Nicolas Maduro
+- **Predicate:** alleged
+- **Object:** Venezuelan gang acts under Maduro government direction (allegation)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > The Trump administration alleges Tren de Aragua is acting at the direction of Nicolas Maduro's government.
 
-### c_010 — reported, single source
-**Subject entities:** law enforcement analysts
-**Predicate:** challenged
-**Object:** Maduro direction claim lacks evidence (analytical_challenge)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** law enforcement analysts
+- **Predicate:** challenged
+- **Object:** Maduro direction claim lacks evidence (analytical_challenge)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Some law enforcement analysts have challenged the administration's assertion that Maduro's government directs the gang.
 
-### c_011 — confirmed, primary document
-**Subject entities:** Trump administration; El Salvador
-**Predicate:** deported
-**Object:** 252 Venezuelans to El Salvador prison (government_action)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_011
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Trump administration; El Salvador
+- **Predicate:** deported
+- **Object:** 252 Venezuelans to El Salvador prison (government_action)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > The Trump administration flew 252 Venezuelans removed under the Alien Enemies Act to a prison in El Salvador.
 
-### c_012 — confirmed, primary document
-**Subject entities:** U.S. Supreme Court
-**Predicate:** ruled
-**Object:** Right to challenge gang member designation (court_ruling)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_012
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Supreme Court
+- **Predicate:** ruled
+- **Object:** Right to challenge gang member designation (court_ruling)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > The Supreme Court ruled that anyone removed under the act needs a reasonable opportunity to challenge their designation as a gang member.
 
-### c_013 — confirmed, primary document
-**Subject entities:** U.S. Supreme Court
-**Predicate:** halted_and_barred
-**Object:** Removals under act pending Fifth Circuit procedures (court_ruling)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_013
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Supreme Court
+- **Predicate:** halted_and_barred
+- **Object:** Removals under act pending Fifth Circuit procedures (court_ruling)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > The Supreme Court issued a midnight ruling halting flights and barring further removals under the act until the Fifth Circuit establishes procedures.
 
-### c_014 — reported, primary document
-**Subject entities:** U.S. Supreme Court
-**Predicate:** has_not_ruled
-**Object:** Constitutionality question remains open (legal_status)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_014
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Supreme Court
+- **Predicate:** has_not_ruled
+- **Object:** Constitutionality question remains open (legal_status)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > The Supreme Court has not ruled on the constitutionality of Trump's use of the Alien Enemies Act, giving the Fifth Circuit first opportunity to address that question.
 
@@ -245,10 +275,5 @@ This article was generated algorithmically by Main Street Independent's News Art
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Nicholas Riccardi
 **Publication date:** 2026-01-22
-**Access date:** 2026-05-18
 **Title:** Judge weighs 1960s British invasion amid Trump's deportation crackdown
 **URL:** https://apnews.com/article/trump-venezuela-deportations-immigration-23e3f562d975dd9b882ec040aea7e437
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

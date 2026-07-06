@@ -20,46 +20,39 @@ primary_themes:
 - stock markets
 - geopolitical risk
 topic_tags:
-  - "conflict, war and peace"
-  - "crime, law and justice"
-  - "disaster, accident and emergency incident"
-  - "economy, business and finance"
-  - fire
-  - macroeconomics
+- armed conflict
+- economy, business and finance
+- energy and resource
+- peace process
 storyline_nexus:
-  - iran-war
-  - ai-regulation
-geographic_location: Global (United States, Iran, Europe, Asia)
+- the-iran-war
+geographic_location: United States
 floor_values_engaged:
-- value: truthfulness
-  intensity: 0.95
 - value: informed_citizenship
-  intensity: 0.85
-- value: accountability_of_power
-  intensity: 0.45
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T00:00:00Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T04:27:44Z'
 source_cluster_id: cluster_ap_2026-04-18_stock-markets-trump-oil-iran-war-50e10bf
 gdelt_event_ids: []
-consensus_floor_version: '1.0'
-publication_mindspec_version: '1.0'
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 9
   hedges:
     appears: 0
-    alleged: 0
     attributed: 2
-    reported: 2
     contested: 0
+    reported: 2
+    alleged: 0
     confirmed: 5
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 5
     single_source: 4
+    primary_plus_secondary: 0
     two_independent: 0
+    primary_document: 5
+    one_originating_plus_primary_document: 0
 sources:
   count: 1
   outlets:
@@ -69,53 +62,25 @@ sources:
   highest_reliability_tier: 1
   has_originating: true
   has_primary_document: false
-figures:
-- source: fred
-  series_id: NASDAQCOM
-  transformation: raw
-  as_of: '2026-04-17'
-  caption: The Nasdaq composite index closed at 24,468.48 on April 17, 2026, up 1.5% for the day as oil prices fell and investor optimism about a potential ceasefire grew.
 figures_aggregate:
-  count: 1
-  series_ids:
-  - NASDAQCOM
-  sources:
-  - fred
+  count: 0
+  series_ids: []
+  sources: []
 image:
   url: /articles/2026-04-17-oil-falls-9-and-stocks-hit-record-as-iran-reopens-strait-of-hormuz.png
   alt: 'Illustration accompanying article: Oil falls 9% and stocks hit record as Iran reopens Strait of Hormuz'
   source: ai_generated
-cross_article_links:
-- slug: 2026-04-16-s-p-500-notches-11th-record-in-12-days-as-earnings-beat-ceasefire-talks-advance
-  relation: related
-  strength: 0.866
-  confidence: medium
-- slug: 2026-04-15-iran-war-volatility-drives-record-profits-at-bank-of-america-morgan-stanley
-  relation: related
-  strength: 0.7944
-  confidence: medium
-- slug: 2026-04-16-europe-faces-six-week-jet-fuel-supply-cliff-as-iran-war-chokes-hormuz
-  relation: continues
-  strength: 0.783
-  confidence: high
-- slug: 2026-04-16-soaring-fuel-prices-driven-by-iran-war-threaten-to-deepen-haiti-hunger
-  relation: related
-  strength: 0.7642
-  confidence: medium
-- slug: 2026-04-15-us-navy-blockade-on-iran-halts-sea-trade-tehran-warns-of-wider-gulf-closure
-  relation: continues
-  strength: 0.7555
-  confidence: high
-- slug: 2026-04-15-bessent-warns-of-secondary-iran-sanctions-as-ceasefire-deadline-nears
-  relation: related
-  strength: 0.7396
-  confidence: medium
-- slug: 2026-01-05-oil-stocks-surge-and-dow-sets-record-after-u-s-raid-captures-maduro
-  relation: related
-  strength: 0.8756
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- Article covers major news event.
+- Event impacts relevant stakeholders and regions.
+- Response unfolds according to circumstances.
+- Implications extend to broader policy landscape.
 
 Oil prices plummeted Friday after Iran announced the Strait of Hormuz is open again for commercial shipping, sending U.S. stocks to record highs and suggesting the grinding Iran war may be nearing an end. The S&P 500 jumped 1.2% to an all-time high, the Dow surged 1.8%, and the Nasdaq climbed 1.5%. Oil futures for U.S. crude dropped 9.4% to settle at $82.59 per barrel, while Brent crude fell 9.1% to $90.38.
 
@@ -151,96 +116,109 @@ The S&P 500 closed at 7,126.06, the Dow at 49,447.43, and the Nasdaq at 24,468.4
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Abbas Araghchi; Iran government; Strait of Hormuz
-**Predicate:** announced_opening
-**Object:** Strait of Hormuz open for commercial shipping (policy_statement)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Abbas Araghchi; Iran government; Strait of Hormuz
+- **Predicate:** announced_opening
+- **Object:** Strait of Hormuz open for commercial shipping (policy_statement)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > Iran's Foreign Minister Abbas Araghchi announced that passage for commercial vessels through the Strait of Hormuz is declared completely open.
 
-### c_002 — confirmed, primary document
-**Subject entities:** S&P 500
-**Predicate:** jumped
-**Object:** 1.2% (percentage_change)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** S&P 500
+- **Predicate:** jumped
+- **Object:** 1.2% (percentage_change)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > The S&P 500 jumped 1.2% to an all-time high on Friday.
 
-### c_003 — confirmed, primary document
-**Subject entities:** crude oil
-**Predicate:** dropped
-**Object:** 9.4% to $82.59 (price_change)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** crude oil
+- **Predicate:** dropped
+- **Object:** 9.4% to $82.59 (price_change)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > U.S. crude oil futures dropped 9.4% to settle at $82.59 per barrel.
 
-### c_004 — confirmed, primary document
-**Subject entities:** Brent crude
-**Predicate:** fell
-**Object:** 9.1% to $90.38 (price_change)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Brent crude
+- **Predicate:** fell
+- **Object:** 9.1% to $90.38 (price_change)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > Brent crude fell 9.1% to settle at $90.38 per barrel.
 
-### c_005 — confirmed, primary document
-**Subject entities:** Dow Jones Industrial Average
-**Predicate:** surged
-**Object:** 1.8% (percentage_change)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Dow Jones Industrial Average
+- **Predicate:** surged
+- **Object:** 1.8% (percentage_change)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > The Dow Jones Industrial Average surged 1.8% on Friday.
 
-### c_006 — confirmed, primary document
-**Subject entities:** Nasdaq composite
-**Predicate:** climbed
-**Object:** 1.5% (percentage_change)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Nasdaq composite
+- **Predicate:** climbed
+- **Object:** 1.5% (percentage_change)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > The Nasdaq composite climbed 1.5% on Friday.
 
-### c_007 — reported, single source
-**Subject entities:** S&P 500
-**Predicate:** jumped
-**Object:** 12% (percentage_change)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** S&P 500
+- **Predicate:** jumped
+- **Object:** 12% (percentage_change)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > The S&P 500 has jumped more than 12% since hitting a low point in late March.
 
-### c_008 — reported, single source
-**Subject entities:** oil market
-**Predicate:** remain
-**Object:** above $70 per barrel (price_observation)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** oil market
+- **Predicate:** remain
+- **Object:** above $70 per barrel (price_observation)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > Oil prices remain above $70 per barrel, where they traded before the Iran war.
 
-### c_009 — attributed, single source
-**Subject entities:** Donald Trump; Iran war
-**Predicate:** said
-**Object:** war should be ending soon; most points negotiated (statement)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Iran war
+- **Predicate:** said
+- **Object:** war should be ending soon; most points negotiated (statement)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > President Trump said late Thursday that the Iran war should be ending pretty soon and most points are already negotiated.
 
 ## Sources
 
 ### src_001 — Associated Press, wire, Tier 1, originating
-**Author:** Stan Choe, with reporting from Chan Ho-him and Matt Ott
+**Author:** Stan Choe
 **Publication date:** 2026-04-17
-**Access date:** 2026-05-17
 **Title:** Oil prices fall sharply and Wall Street rallies to a record as Iran reopens the Strait of Hormuz
 **URL:** https://apnews.com/article/stock-markets-trump-oil-iran-war-50e10bf2aa9b0b658c51e17db3eb3b13
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

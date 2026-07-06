@@ -11,42 +11,42 @@ primary_themes:
 - aviation incident
 - mechanical failure
 topic_tags:
-  - "artificial intelligence"
-  - "disaster, accident and emergency incident"
-  - fire
-  - "science and technology"
-  - "scientific research"
-  - "space programme"
-storyline_nexus: []
-geographic_location: Houston, Texas, United States
+- accident and emergency incident
+- transportation accident and incident
+- science and technology
+- space programme
+- technology and engineering
+storyline_nexus:
+- nasa-artemis-moon-mission
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
-  intensity: 0.7
-- value: informed_citizenship
-  intensity: 0.8
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+  intensity: 0.9
+- value: accountability_of_power
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:33:43Z'
 source_cluster_id: cluster_ap_2026-01-28_nasa-plane-landing-gear-crash-d7c5f8ebde
 gdelt_event_ids: []
-consensus_floor_version: '1.0'
-publication_mindspec_version: '1.0'
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 7
   hedges:
-    appears: 1
     alleged: 0
-    attributed: 3
     reported: 1
     contested: 0
+    attributed: 3
     confirmed: 2
+    appears: 1
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 2
     single_source: 5
     two_independent: 0
+    primary_plus_secondary: 0
+    primary_document: 2
+    one_originating_plus_primary_document: 0
 sources:
   count: 1
   outlets:
@@ -63,6 +63,13 @@ figures_aggregate:
 cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- A NASA research plane landed safely on January 27 after a mechanical issue prevented its landing gear from deploying, according to the space agency. The WB-57 touched down at Ellington Airport, sou...
+- The WB-57 is a high-altitude research aircraft that has conducted scientific missions for NASA since the 1970s. The space agency said it will inves...
+- Video posted to social media documented the WB-57's descent toward the runway on January 27. The aircraft touched down with a jolt, its wings bounc...
 
 A NASA research plane landed safely on January 27 after a mechanical issue prevented its landing gear from deploying, according to the space agency. The WB-57 touched down at Ellington Airport, southeast of Houston, and slid across the runway on its belly, with yellow fire and white smoke bursting from beneath it. All crew members are safe, NASA said.
 
@@ -82,67 +89,79 @@ The WB-57 is a high-altitude research aircraft distinguished by its thin fuselag
 
 NASA said the landing gear failure resulted from a mechanical issue that the agency will investigate. The Federal Aviation Administration and National Transportation Safety Board may also examine the incident.
 
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework. Read about the framework's standards and methodology at /methodology. This work is released under a Creative Commons CC0 public-domain dedication.*
-
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** NASA; WB-57
-**Predicate:** landed
-**Object:** Ellington Airport, Houston, Texas (location)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** NASA; WB-57
+- **Predicate:** landed
+- **Object:** Ellington Airport, Houston, Texas (location)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > A NASA WB-57 research plane landed without its landing gear deployed at Ellington Airport near Houston on January 27.
 
-### c_002 — reported, single source
-**Subject entities:** WB-57
-**Predicate:** caused
-**Object:** landing gear malfunction (system_failure)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** WB-57
+- **Predicate:** caused
+- **Object:** landing gear malfunction (system_failure)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > The landing gear failure was caused by a mechanical issue.
 
-### c_003 — attributed, single source
-**Subject entities:** NASA crew; WB-57
-**Predicate:** landed_safely
-**Object:** all safe (personnel_status)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** NASA crew; WB-57
+- **Predicate:** landed_safely
+- **Object:** all safe (personnel_status)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > The crew landed the plane safely and all crew members are safe.
 
-### c_004 — appears, single source
-**Subject entities:** WB-57
-**Predicate:** produced
-**Object:** yellow fire and white smoke (visual_event)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_004
+- **Hedge:** appears
+- **Corroboration:** single_source
+- **Subject entities:** WB-57
+- **Predicate:** produced
+- **Object:** yellow fire and white smoke (visual_event)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Yellow fire and white smoke burst from beneath the aircraft as it slid down the runway.
 
-### c_005 — confirmed, primary document
-**Subject entities:** WB-57
-**Predicate:** capable_of
-**Object:** 6 1/2 hours at altitudes beyond 63,000 feet (aircraft_specification)
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** WB-57
+- **Predicate:** capable_of
+- **Object:** 6 1/2 hours at altitudes beyond 63,000 feet (aircraft_specification)
+- **Sources:** src_001
 
 > The WB-57 is capable of flying for about 6 1/2 hours at altitudes beyond 63,000 feet.
 
-### c_006 — confirmed, primary document
-**Subject entities:** WB-57
-**Predicate:** has
-**Object:** 2 (crew_capacity)
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** WB-57
+- **Predicate:** has
+- **Object:** 2 (crew_capacity)
+- **Sources:** src_001
 
 > The WB-57 has two crew seats.
 
-### c_007 — attributed, single source
-**Subject entities:** WB-57
-**Predicate:** flown_since
-**Object:** 1970s (time_period)
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** WB-57
+- **Predicate:** flown_since
+- **Object:** 1970s (time_period)
+- **Sources:** src_001
 
 > The WB-57 has flown research missions since the 1970s.
 
@@ -151,10 +170,5 @@ NASA said the landing gear failure resulted from a mechanical issue that the age
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Jesse Bedayn
 **Publication date:** 2026-01-27
-**Access date:** 2026-01-27
 **Title:** NASA research plane makes fiery touchdown in Texas without landing gear
 **URL:** https://apnews.com/article/nasa-plane-landing-gear-crash-d7c5f8ebdef449da8b684fb82e03d0f8
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

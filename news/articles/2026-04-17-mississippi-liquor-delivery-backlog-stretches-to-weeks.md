@@ -15,38 +15,40 @@ primary_themes:
 - regulatory_capacity
 - small_business_impact
 topic_tags:
-  - "market and exchange"
-  - "economy, business and finance"
-storyline_nexus: []
-geographic_location: Mississippi, United States
+- government
+- economy, business and finance
+- consumer goods
+storyline_nexus:
+- extreme-weather-disasters
+geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.85
 - value: accountability_of_power
-  intensity: 0.75
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T08:00:00Z'
+  intensity: 0.9
+- value: informed_citizenship
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:45:51Z'
 source_cluster_id: cluster_ap_2026-04-20_mississippi-liquor-delivery-backlog-4395
 gdelt_event_ids: []
-consensus_floor_version: '1.0'
-publication_mindspec_version: '1.0'
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 18
   hedges:
-    appears: 0
     alleged: 0
-    attributed: 8
+    appears: 0
     reported: 5
-    contested: 0
     confirmed: 5
+    contested: 0
+    attributed: 8
   corroboration:
+    primary_document: 4
+    two_independent: 0
     primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
-    primary_document: 4
     single_source: 14
-    two_independent: 0
 sources:
   count: 1
   outlets:
@@ -63,6 +65,17 @@ figures_aggregate:
 cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Backlog in liquor, wine deliveries frustrates retailers in Mississippi
+- Backlog in liquor, wine deliveries frustrates retailers in Mississippi
+- JACKSON, Miss. (AP) — Brandi Carter needs her wine.
+- Carter, who also handles the beverage program for a restaurant in Jackson, said she has been dealing with delays since February, and she’s feeling helpless as traffic in her store goes down.
+- “I’ve just reached acceptance that this is our new normal, and it’s awful,” Carter said Wednesday.
+- The state is the only distributor of liquor in Mississippi
 
 Mississippi retailers are struggling with severe delays in wine and liquor deliveries from the state's monopoly distribution system, with some orders taking up to 17 days to arrive as of mid-April. The backlog, which emerged in January when the state's 40-year-old warehouse transitioned to a new inventory system, has left shop owners dealing with dwindling inventory and reduced sales as they wait for restocked shelves.
 
@@ -109,165 +122,201 @@ License: [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Brandi Carter; Levure Bottle Shop
-**Predicate:** owns_and_operates
-**Object:** wine retail shop with state-distributed beverages (business)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Brandi Carter; Levure Bottle Shop
+- **Predicate:** owns_and_operates
+- **Object:** wine retail shop with state-distributed beverages (business)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > Brandi Carter owns Levure Bottle Shop in Jackson, Mississippi and sells natural wine distributed by the state ABC department.
 
-### c_002 — attributed, single source
-**Subject entities:** Brandi Carter; delivery delays
-**Predicate:** experienced_since
-**Object:** February 2026 (temporal)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Brandi Carter; delivery delays
+- **Predicate:** experienced_since
+- **Object:** February 2026 (temporal)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > Carter has experienced delivery delays since February.
 
-### c_003 — confirmed, primary document
-**Subject entities:** Mississippi ABC; pending deliveries
-**Predicate:** had_pending
-**Object:** 172000 (quantity)
-**Temporal:** 2026-04-12
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Mississippi ABC; pending deliveries
+- **Predicate:** had_pending
+- **Object:** 172000 (quantity)
+- **Temporal:** 2026-04-12
+- **Sources:** src_001
 
 > As of the week ending April 12, there were 172,000 cases of liquor pending delivery in Mississippi.
 
-### c_004 — confirmed, primary document
-**Subject entities:** Mississippi ABC; delivery time
-**Predicate:** averaged
-**Object:** 17 days (duration)
-**Temporal:** 2026-04-12
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Mississippi ABC; delivery time
+- **Predicate:** averaged
+- **Object:** 17 days (duration)
+- **Temporal:** 2026-04-12
+- **Sources:** src_001
 
 > The average delivery time was 17 days for the week ending April 12, 2026.
 
-### c_005 — confirmed, primary document
-**Subject entities:** Mississippi ABC; peak backlog
-**Predicate:** had_pending
-**Object:** 220000 (quantity)
-**Temporal:** 2026-03-01
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Mississippi ABC; peak backlog
+- **Predicate:** had_pending
+- **Object:** 220000 (quantity)
+- **Temporal:** 2026-03-01
+- **Sources:** src_001
 
 > At the peak on the week ending March 1, there were 220,000 cases pending delivery.
 
-### c_006 — confirmed, primary document
-**Subject entities:** Mississippi ABC; peak wait time
-**Predicate:** averaged
-**Object:** 25 days (duration)
-**Temporal:** 2026-03-01
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Mississippi ABC; peak wait time
+- **Predicate:** averaged
+- **Object:** 25 days (duration)
+- **Temporal:** 2026-03-01
+- **Sources:** src_001
 
 > Wait time peaked at 25 days for the week ending March 1, 2026.
 
-### c_007 — reported, single source
-**Subject entities:** Mississippi ABC warehouse; system transition
-**Predicate:** emerged_during
-**Object:** warehouse system conversion from conveyor to pallets (operational_change)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Mississippi ABC warehouse; system transition
+- **Predicate:** emerged_during
+- **Object:** warehouse system conversion from conveyor to pallets (operational_change)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Delivery delays emerged in January 2026 when the warehouse transitioned from an obsolete conveyor belt system to one using pallets.
 
-### c_008 — reported, single source
-**Subject entities:** warehouse management system; technical issues
-**Predicate:** experienced
-**Object:** technical failures affecting shipment tracking (system_failure)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** warehouse management system; technical issues
+- **Predicate:** experienced
+- **Object:** technical failures affecting shipment tracking (system_failure)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > A new warehouse management system experienced technical issues that contributed to delivery delays.
 
-### c_009 — attributed, single source
-**Subject entities:** Josh Sorrell; Spillway Wine and Spirits
-**Predicate:** owns_and_operates
-**Object:** liquor retail shop (business)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Josh Sorrell; Spillway Wine and Spirits
+- **Predicate:** owns_and_operates
+- **Object:** liquor retail shop (business)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > Josh Sorrell owns Spillway Wine and Spirits in Brandon, Mississippi.
 
-### c_010 — attributed, single source
-**Subject entities:** Josh Sorrell; daily case orders
-**Predicate:** reduced_order_limit
-**Object:** from 600 to 100 cases daily (operational_constraint)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Josh Sorrell; daily case orders
+- **Predicate:** reduced_order_limit
+- **Object:** from 600 to 100 cases daily (operational_constraint)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > Sorrell was previously able to order 600 cases per day but is now limited to 100 cases per day.
 
-### c_011 — attributed, single source
-**Subject entities:** Spillway Wine and Spirits; product unavailability
-**Predicate:** reported_unavailability
-**Object:** 30-40% (percentage)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Spillway Wine and Spirits; product unavailability
+- **Predicate:** reported_unavailability
+- **Object:** 30-40% (percentage)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > About 30 to 40 percent of items Sorrell usually orders daily have been unavailable.
 
-### c_012 — attributed, single source
-**Subject entities:** Josh Sorrell; Governor Tate Reeves
-**Predicate:** requested
-**Object:** state of emergency declaration (government_action_request)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Josh Sorrell; Governor Tate Reeves
+- **Predicate:** requested
+- **Object:** state of emergency declaration (government_action_request)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > Sorrell asked Governor Tate Reeves to declare a state of emergency due to the backlog.
 
-### c_013 — reported, single source
-**Subject entities:** Mississippi legislature; alcohol distribution reform
-**Predicate:** debated
-**Object:** temporary allowance for out-of-state distributors (legislative_proposal)
-**Temporal:** 2026-04
-**Source IDs:** src_001
+### c_013
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Mississippi legislature; alcohol distribution reform
+- **Predicate:** debated
+- **Object:** temporary allowance for out-of-state distributors (legislative_proposal)
+- **Temporal:** 2026-04
+- **Sources:** src_001
 
 > The Mississippi legislature debated temporarily allowing out-of-state distributors to sell and ship alcohol directly to retailers.
 
-### c_014 — reported, single source
-**Subject entities:** proposed legislation; distributor terms
-**Predicate:** specified_term
-**Object:** 2-year temporary allowance (legal_term)
-**Temporal:** 2026-04
-**Source IDs:** src_001
+### c_014
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** proposed legislation; distributor terms
+- **Predicate:** specified_term
+- **Object:** 2-year temporary allowance (legal_term)
+- **Temporal:** 2026-04
+- **Sources:** src_001
 
 > The proposed law would have allowed out-of-state distributors for two years before repeal.
 
-### c_015 — confirmed, single source
-**Subject entities:** Mississippi legislature; alcohol distribution bill
-**Predicate:** failed_to_pass
-**Object:** legislative session ended without passage (legislative_outcome)
-**Temporal:** 2026-04
-**Source IDs:** src_001
+### c_015
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Mississippi legislature; alcohol distribution bill
+- **Predicate:** failed_to_pass
+- **Object:** legislative session ended without passage (legislative_outcome)
+- **Temporal:** 2026-04
+- **Sources:** src_001
 
 > The proposed legislation did not pass before the legislative session ended.
 
-### c_016 — reported, single source
-**Subject entities:** Mississippi ABC; new warehouse
-**Predicate:** planned_capacity
-**Object:** 2x current capacity (operational_capacity)
-**Temporal:** 2026-12-31
-**Source IDs:** src_001
+### c_016
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Mississippi ABC; new warehouse
+- **Predicate:** planned_capacity
+- **Object:** 2x current capacity (operational_capacity)
+- **Temporal:** 2026-12-31
+- **Sources:** src_001
 
 > A new warehouse set to be completed by the end of 2026 will be able to store and ship over twice as many cases as the current facility.
 
-### c_017 — attributed, single source
-**Subject entities:** Lauren Roberts; Spillway Wine and Spirits; Soda Jerk's orange cream shots
-**Predicate:** sought_and_found_unavailable
-**Object:** specific alcoholic beverage (product_search)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_017
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Lauren Roberts; Spillway Wine and Spirits; Soda Jerk's orange cream shots
+- **Predicate:** sought_and_found_unavailable
+- **Object:** specific alcoholic beverage (product_search)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > Lauren Roberts went to Spillway Wine and Spirits looking for Soda Jerk's orange cream shots but found the store was out of stock.
 
-### c_018 — attributed, single source
-**Subject entities:** Lauren Roberts; beverage purchase
-**Predicate:** substituted_product
-**Object:** alternative drink for celebration (consumer_behavior)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_018
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Lauren Roberts; beverage purchase
+- **Predicate:** substituted_product
+- **Object:** alternative drink for celebration (consumer_behavior)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > Roberts purchased an alternative beverage for an upcoming family celebration marking her daughter's prom.
 
@@ -276,10 +325,5 @@ License: [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Sophie Bates
 **Publication date:** 2026-04-17
-**Access date:** 2026-05-17
 **Title:** Sellers navigate wine, liquor backlog in Mississippi
 **URL:** https://apnews.com/article/mississippi-liquor-delivery-backlog-4395e81982156afa2450a49817216d6c
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

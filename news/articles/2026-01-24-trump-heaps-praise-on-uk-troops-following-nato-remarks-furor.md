@@ -15,7 +15,8 @@ primary_themes:
 - diplomatic tension
 topic_tags:
   - "conflict, war and peace"
-storyline_nexus: []
+storyline_nexus:
+- trump-foreign-policy-reshaping
 geographic_location: International (UK, US, NATO)
 floor_values_engaged:
 - value: accountability_of_power
@@ -190,7 +191,3 @@ The Italian and French governments also expressed disapproval of Trump's remarks
 **Access date:** 2026-05-18
 **Title:** Trump heaps praise on UK troops following furor over Afghanistan comments
 **URL:** https://apnews.com/article/trump-nato-uk-afghanistan-starmer-ab45d8f9e1265c95cb41aac7f494407a
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

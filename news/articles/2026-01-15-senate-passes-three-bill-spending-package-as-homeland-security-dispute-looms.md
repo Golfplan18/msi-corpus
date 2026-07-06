@@ -1,6 +1,5 @@
 ---
 headline: Senate passes three-bill spending package as Homeland Security dispute looms
-slug: 2026-01-15-senate-passes-spending-package-homeland-security-ice-dispute-looms
 publish_date: '2026-01-15'
 lede: The Senate passed a three-bill government spending package 82-15 on Thursday, completing action on six of 12 annual appropriations bills as Congress works toward a Jan. 30 deadline. The package advances full-year funding for agencies including the Departments of Agriculture, Commerce, Energy, Interior and Justice, and now goes to President Donald Trump for his signature.
 nut_graf: Congress must finish all 12 spending bills by Jan. 30 under a funding patch that ended a 43-day government shutdown in November. The Homeland Security bill has been pulled from the House floor as Democrats seek accountability measures for Immigration and Customs Enforcement following the fatal shooting of Renee Good, a Minnesota woman killed by an ICE agent last week.
@@ -21,40 +20,40 @@ primary_themes:
 - congressional_budget_process
 - homeland_security_funding
 topic_tags:
-  - "human migration"
-  - politics
-  - "human interest"
-storyline_nexus: []
-geographic_location: Washington, D.C.
+- government
+- government policy
+- politics
+- law enforcement
+storyline_nexus:
+- us-immigration-enforcement
+geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.85
 - value: accountability_of_power
-  intensity: 0.75
+  intensity: 0.9
 - value: human_life_and_dignity
   intensity: 0.6
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:00:00Z'
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:12:28Z'
 source_cluster_id: cluster_ap_2026-01-16_congress-senate-budget-homeland-security
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 10
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 2
     reported: 3
-    contested: 0
+    attributed: 2
     confirmed: 5
+    contested: 0
+    alleged: 0
+    appears: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 4
+    primary_plus_secondary: 0
     single_source: 6
+    one_originating_plus_primary_document: 0
     two_independent: 0
 sources:
   count: 1
@@ -69,41 +68,16 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-08-house-passes-three-spending-bills-397-28-averting-jan-30-shutdown-deadline
-  relation: continues
-  strength: 0.8911
-  confidence: high
-- slug: 2026-01-14-minneapolis-sees-second-federal-shooting-as-courts-governor-push-back-on-immigra
-  relation: related
-  strength: 0.7383
-  confidence: medium
-- slug: 2026-01-12-congress-members-blocked-from-minneapolis-ice-facility-after-dhs-reinstates-acce
-  relation: related
-  strength: 0.75
-  confidence: medium
-- slug: 2026-01-10-congress-weighs-response-to-ice-killing-of-minnesota-woman-renee-good
-  relation: related
-  strength: 0.757
-  confidence: medium
-- slug: 2026-01-12-minnesota-twin-cities-sue-trump-administration-over-fatal-ice-shooting
-  relation: related
-  strength: 0.7302
-  confidence: medium
-- slug: 2026-01-05-house-spending-bill-still-calls-it-the-kennedy-center-bypassing-trump-rebrand
-  relation: related
-  strength: 0.7575
-  confidence: medium
-- slug: 2026-01-08-minneapolis-protests-erupt-over-ice-killing-of-renee-good-as-portland-shooting-d
-  relation: related
-  strength: 0.7362
-  confidence: medium
-- slug: 2026-01-08-ice-killing-of-minneapolis-woman-deepens-minnesota-s-conflict-with-trump
-  relation: related
-  strength: 0.733
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- The Senate passed a three-bill government spending package 82-15 on Thursday, completing action on six of 12 annual appropriations bills as Congress works toward a Jan.
+- Congress must finish all 12 spending bills by Jan.
+- 30 under a funding patch that ended a 43-day government shutdown in November.
 
 Congress must finish all 12 spending bills by Jan. 30 under a funding patch that ended a 43-day government shutdown in November. The Homeland Security bill has been pulled from the House floor as Democrats seek accountability measures for Immigration and Customs Enforcement following the fatal shooting of Renee Good, a Minnesota woman killed by an ICE agent last week.
 
@@ -141,93 +115,113 @@ Any vote to cut ICE funding could also put Democrats in competitive reelection r
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** U.S. Senate
-**Predicate:** passed
-**Object:** three-bill spending package (legislation)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Senate
+- **Predicate:** passed
+- **Object:** three-bill spending package (legislation)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > The Senate passed a three-bill spending package by a vote of 82-15 on January 15, 2026.
 
-### c_002 — confirmed, primary document
-**Subject entities:** U.S. Congress
-**Predicate:** passed
-**Object:** 6 of 12 appropriations bills (count)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Congress
+- **Predicate:** passed
+- **Object:** 6 of 12 appropriations bills (count)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Six of 12 annual spending bills have passed both chambers of Congress as of January 15, 2026.
 
-### c_003 — confirmed, primary document
-**Subject entities:** U.S. Congress
-**Predicate:** faces_deadline
-**Object:** 2026-01-30 (date)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Congress
+- **Predicate:** faces_deadline
+- **Object:** 2026-01-30 (date)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Congress faces a January 30 deadline to pass all 12 spending bills, set by a funding patch that ended a 43-day government shutdown in November.
 
-### c_004 — confirmed, primary document
-**Subject entities:** U.S. Senate
-**Predicate:** funds
-**Object:** Agriculture, Commerce, Energy, Interior, Justice (agencies)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Senate
+- **Predicate:** funds
+- **Object:** Agriculture, Commerce, Energy, Interior, Justice (agencies)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > The three-bill package covers the Departments of Agriculture, Commerce, Energy, Interior and Justice, among other agencies.
 
-### c_005 — attributed, single source
-**Subject entities:** Tom Cole
-**Predicate:** said
-**Object:** pull DHS bill to buy some time (statement)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Tom Cole
+- **Predicate:** said
+- **Object:** pull DHS bill to buy some time (statement)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Rep. Tom Cole, the chairman of the House Appropriations Committee, said the decision was made to pull the Homeland Security funding bill and 'buy some time' as lawmakers respond to the Minneapolis shooting.
 
-### c_006 — reported, single source
-**Subject entities:** U.S. Immigration and Customs Enforcement; Renee Good
-**Predicate:** shot_and_killed
-**Object:** Renee Good (person)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Immigration and Customs Enforcement; Renee Good
+- **Predicate:** shot_and_killed
+- **Object:** Renee Good (person)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > An ICE officer shot and killed Renee Good last week; federal officials said it was an act of self-defense, while the mayor described it as reckless and unnecessary.
 
-### c_007 — reported, single source
-**Subject entities:** U.S. Democratic Party; Kristi Noem
-**Predicate:** signed_impeachment_effort
-**Object:** approximately 70 Democrats (count)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Democratic Party; Kristi Noem
+- **Predicate:** signed_impeachment_effort
+- **Object:** approximately 70 Democrats (count)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > About 70 Democrats have signed onto an effort to impeach Homeland Security Secretary Kristi Noem.
 
-### c_008 — confirmed, single source
-**Subject entities:** Congressional Progressive Caucus
-**Predicate:** announced_opposition
-**Object:** DHS immigration enforcement funding without reforms (policy_position)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Congressional Progressive Caucus
+- **Predicate:** announced_opposition
+- **Object:** DHS immigration enforcement funding without reforms (policy_position)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > The Congressional Progressive Caucus, which includes nearly 100 Democratic members, formally announced opposition to any funding for immigration enforcement agencies within DHS 'unless there are meaningful and significant reforms to immigration enforcement practices.'
 
-### c_009 — reported, single source
-**Subject entities:** Donald Trump; U.S. Immigration and Customs Enforcement
-**Predicate:** funds
-**Object:** roughly $170 billion over four years (funding_amount)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; U.S. Immigration and Customs Enforcement
+- **Predicate:** funds
+- **Object:** roughly $170 billion over four years (funding_amount)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Trump's tax cut and border security bill, passed last summer, injects roughly $170 billion into immigration enforcement over the next four years.
 
-### c_010 — attributed, single source
-**Subject entities:** Tom Cole
-**Predicate:** said
-**Object:** White House sign-on required for changes (statement)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Tom Cole
+- **Predicate:** said
+- **Object:** White House sign-on required for changes (statement)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Cole said any changes to the Homeland Security bill would need sign-on from the White House.
 
@@ -236,10 +230,5 @@ Any vote to cut ICE funding could also put Democrats in competitive reelection r
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Kevin Freking
 **Publication date:** 2026-01-15
-**Access date:** 2026-01-15
 **Title:** Congress faces challenges with Homeland Security funding
 **URL:** https://apnews.com/article/congress-senate-budget-homeland-security-ice-funding-6721e7b30b0e12d5421fc32a5b03fb9e
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

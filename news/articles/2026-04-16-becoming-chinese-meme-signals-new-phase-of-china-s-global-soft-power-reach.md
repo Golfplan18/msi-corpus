@@ -267,7 +267,3 @@ Global Times, a state-owned tabloid, claimed that the "becoming Chinese" meme's 
 **Access date:** 2026-05-17
 **Title:** The 'becoming Chinese' meme highlights China's growing soft power
 **URL:** https://apnews.com/article/china-soft-power-rise-c6aede1c6eb66a776a7ae3b5477e2661
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

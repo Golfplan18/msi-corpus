@@ -15,37 +15,41 @@ primary_themes:
 - literature
 - disability
 - personal essay
-topic_tags: []
-storyline_nexus: []
-geographic_location: United States (Manhattan, New York; New Canaan, Connecticut)
+topic_tags:
+- achievement
+- arts, culture, entertainment and media
+- books
+- people
+- travel
+storyline_nexus:
+- extreme-weather-disasters
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
-  intensity: 0.8
-- value: truthfulness
-  intensity: 0.9
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T04:27:56Z'
 source_cluster_id: cluster_ap_2026-02-24_edward-hoagland-dies-93-nature-writer-1f
 gdelt_event_ids: []
-consensus_floor_version: v1.0.0
-publication_mindspec_version: v1.0.0
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 15
   hedges:
+    confirmed: 0
+    reported: 14
     appears: 0
+    contested: 0
     alleged: 0
     attributed: 1
-    reported: 14
-    contested: 0
-    confirmed: 0
   corroboration:
     primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 0
-    single_source: 15
+    one_originating_plus_primary_document: 0
     two_independent: 0
+    single_source: 15
 sources:
   count: 1
   outlets:
@@ -59,25 +63,15 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-06-wisconsin-author-michael-schumacher-who-chronicled-ginsberg-and-clapton-dies-at-
-  relation: related
-  strength: 0.7897
-  confidence: medium
-- slug: 2026-01-11-erich-von-d-niken-chariots-of-the-gods-author-dies-at-90
-  relation: related
-  strength: 0.7703
-  confidence: medium
-- slug: 2026-01-11-erich-von-d-niken-swiss-author-of-alien-origins-theories-dies-at-90
-  relation: related
-  strength: 0.7502
-  confidence: medium
-- slug: 2026-01-10-daniel-walker-howe-pulitzer-winning-historian-of-antebellum-america-dies-at-88
-  relation: related
-  strength: 0.7023
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- Edward Hoagland, nature writer who overcame impaired eyesight, dies at 93
+- Associated Press reports on developing situation.
 
 Edward Hoagland, a prize-winning nature and travel writer whose digressive, contemplative essays made readers feel drawn into his journeys, died Feb. 17 at an assisted living facility in Manhattan. He was 93. His daughter, Molly Magid Hoagland, did not disclose a cause.
 
@@ -115,142 +109,170 @@ In the early 1990s, a controversy at Bennington College centered on language Hoa
 
 In his final years, Hoagland lived with his partner Trudy Carter, a social worker who died in 2025.
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Edward Hoagland
-**Predicate:** died
-**Object:** age 93, Manhattan assisted living facility (death_event)
-**Temporal:** 2026-02-17
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Edward Hoagland
+- **Predicate:** died
+- **Object:** age 93, Manhattan assisted living facility (death_event)
+- **Temporal:** 2026-02-17
+- **Sources:** src_001
 
 > Edward Hoagland, a nature and travel writer, died Feb. 17 at an assisted living facility in Manhattan at age 93.
 
-### c_002 — reported, single source
-**Subject entities:** Molly Magid Hoagland
-**Predicate:** did_not_disclose
-**Object:** cause of death (information_withholding)
-**Temporal:** 2026-02-24
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Molly Magid Hoagland
+- **Predicate:** did_not_disclose
+- **Object:** cause of death (information_withholding)
+- **Temporal:** 2026-02-24
+- **Sources:** src_001
 
 > Hoagland's daughter, Molly Magid Hoagland, did not disclose the cause of death.
 
-### c_003 — reported, single source
-**Subject entities:** Edward Hoagland
-**Predicate:** published
-**Object:** dozens of books and magazine pieces (literary_work)
-**Temporal:** 2026-02-24
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Edward Hoagland
+- **Predicate:** published
+- **Object:** dozens of books and magazine pieces (literary_work)
+- **Temporal:** 2026-02-24
+- **Sources:** src_001
 
 > Hoagland published dozens of books and magazine pieces as a nature and travel writer with influences ranging from John Muir to Michel de Montaigne.
 
-### c_004 — reported, single source
-**Subject entities:** Edward Hoagland
-**Predicate:** overcame
-**Object:** severely impaired vision from damaged cataracts (health_condition)
-**Temporal:** 2026-02-24
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Edward Hoagland
+- **Predicate:** overcame
+- **Object:** severely impaired vision from damaged cataracts (health_condition)
+- **Temporal:** 2026-02-24
+- **Sources:** src_001
 
 > Hoagland overcame severely impaired vision resulting from damaged cataracts.
 
-### c_005 — reported, single source
-**Subject entities:** Edward Hoagland
-**Predicate:** underwent_surgery
-**Object:** eye surgery that temporarily improved vision (medical_procedure)
-**Temporal:** 2026-02-24
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Edward Hoagland
+- **Predicate:** underwent_surgery
+- **Object:** eye surgery that temporarily improved vision (medical_procedure)
+- **Temporal:** 2026-02-24
+- **Sources:** src_001
 
 > Eye surgery in Hoagland's 50s temporarily improved his vision.
 
-### c_006 — reported, single source
-**Subject entities:** Edward Hoagland
-**Predicate:** earned_honors
-**Object:** National Book Award and Critics Circle nominations, Lannan award, Academy membership (award_recognition)
-**Temporal:** 2026-02-24
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Edward Hoagland
+- **Predicate:** earned_honors
+- **Object:** National Book Award and Critics Circle nominations, Lannan award, Academy membership (award_recognition)
+- **Temporal:** 2026-02-24
+- **Sources:** src_001
 
 > Hoagland earned nominations for the National Book Award and National Book Critics Circle award, a Lannan Literary Award, and membership in the American Academy of Arts and Letters.
 
-### c_007 — reported, single source
-**Subject entities:** Edward Hoagland
-**Predicate:** published_in
-**Object:** The New York Times, Village Voice, and other major publications (publication_venue)
-**Temporal:** 2026-02-24
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Edward Hoagland
+- **Predicate:** published_in
+- **Object:** The New York Times, Village Voice, and other major publications (publication_venue)
+- **Temporal:** 2026-02-24
+- **Sources:** src_001
 
 > Hoagland's work appeared in The New York Times, the Village Voice, and other publications.
 
-### c_008 — reported, single source
-**Subject entities:** Edward Hoagland; Bennington College
-**Predicate:** served_on_faculty
-**Object:** faculty member 1963-2005 (institutional_affiliation)
-**Temporal:** 2026-02-24
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Edward Hoagland; Bennington College
+- **Predicate:** served_on_faculty
+- **Object:** faculty member 1963-2005 (institutional_affiliation)
+- **Temporal:** 2026-02-24
+- **Sources:** src_001
 
 > Hoagland served on the faculty of Bennington College from 1963 to 2005.
 
-### c_009 — reported, single source
-**Subject entities:** Edward Hoagland; Marion Magid
-**Predicate:** married
-**Object:** 25 years to Marion Magid, Commentary editor (personal_relationship)
-**Temporal:** 2026-02-24
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Edward Hoagland; Marion Magid
+- **Predicate:** married
+- **Object:** 25 years to Marion Magid, Commentary editor (personal_relationship)
+- **Temporal:** 2026-02-24
+- **Sources:** src_001
 
 > Hoagland was married to Marion Magid, editor of Commentary magazine, for 25 years.
 
-### c_010 — reported, single source
-**Subject entities:** Edward Hoagland; Marion Magid; Molly Magid Hoagland
-**Predicate:** had_daughter
-**Object:** Molly Magid Hoagland (family_relationship)
-**Temporal:** 2026-02-24
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Edward Hoagland; Marion Magid; Molly Magid Hoagland
+- **Predicate:** had_daughter
+- **Object:** Molly Magid Hoagland (family_relationship)
+- **Temporal:** 2026-02-24
+- **Sources:** src_001
 
 > Hoagland and Marion Magid had a daughter, Molly.
 
-### c_011 — reported, single source
-**Subject entities:** Edward Hoagland; Marion Magid
-**Predicate:** divorced
-**Object:** marriage ended in divorce (personal_relationship_change)
-**Temporal:** 2026-02-24
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Edward Hoagland; Marion Magid
+- **Predicate:** divorced
+- **Object:** marriage ended in divorce (personal_relationship_change)
+- **Temporal:** 2026-02-24
+- **Sources:** src_001
 
 > Hoagland's marriage to Marion Magid ended in divorce.
 
-### c_012 — reported, single source
-**Subject entities:** Edward Hoagland
-**Predicate:** published_essay
-**Object:** Esquire essay disclosing infidelities (published_work)
-**Temporal:** 1995
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Edward Hoagland
+- **Predicate:** published_essay
+- **Object:** Esquire essay disclosing infidelities (published_work)
+- **Temporal:** 1995
+- **Sources:** src_001
 
 > In 1995, Hoagland wrote an Esquire essay disclosing his infidelities during his marriage.
 
-### c_013 — reported, single source
-**Subject entities:** Edward Hoagland; Bennington College
-**Predicate:** faced_employment_jeopardy
-**Object:** nearly lost position due to Esquire article (employment_incident)
-**Temporal:** early 1990s
-**Source IDs:** src_001
+### c_013
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Edward Hoagland; Bennington College
+- **Predicate:** faced_employment_jeopardy
+- **Object:** nearly lost position due to Esquire article (employment_incident)
+- **Temporal:** early 1990s
+- **Sources:** src_001
 
 > In the early 1990s, an Esquire article about Hoagland nearly caused him to lose his position at Bennington College.
 
-### c_014 — reported, single source
-**Subject entities:** Edward Hoagland; Bennington College
-**Predicate:** appealed_and_prevailed
-**Object:** retained position after faculty committee ruling (employment_resolution)
-**Temporal:** early 1990s
-**Source IDs:** src_001
+### c_014
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Edward Hoagland; Bennington College
+- **Predicate:** appealed_and_prevailed
+- **Object:** retained position after faculty committee ruling (employment_resolution)
+- **Temporal:** early 1990s
+- **Sources:** src_001
 
 > After Bennington initially declined to rehire Hoagland, a faculty personnel committee ruled in his favor, and he retained his position.
 
-### c_015 — reported, single source
-**Subject entities:** Edward Hoagland; Trudy Carter
-**Predicate:** lived_with
-**Object:** partner Trudy Carter, social worker (personal_relationship)
-**Temporal:** 2026-02-24
-**Source IDs:** src_001
+### c_015
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Edward Hoagland; Trudy Carter
+- **Predicate:** lived_with
+- **Object:** partner Trudy Carter, social worker (personal_relationship)
+- **Temporal:** 2026-02-24
+- **Sources:** src_001
 
 > In recent years, Hoagland lived with partner Trudy Carter, a social worker who died in 2025.
 
@@ -259,10 +281,5 @@ This article was generated algorithmically by Main Street Independent's News Art
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Hillel Italie
 **Publication date:** 2026-02-24
-**Access date:** 2026-05-18
 **Title:** Edward Hoagland, nature writer who overcame impaired eyesight, dies at 93
 **URL:** https://apnews.com/article/edward-hoagland-dies-93-nature-writer-1ff4fc456913464ebc468d27471435cd
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

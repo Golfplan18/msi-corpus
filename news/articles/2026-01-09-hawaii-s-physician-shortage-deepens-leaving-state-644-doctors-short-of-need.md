@@ -1,6 +1,5 @@
 ---
 headline: Hawaii's physician shortage deepens, leaving state 644 doctors short of need
-slug: 2026-01-09-hawaii-physician-shortage-worsens-leaving-state-644-doctors-short
 publish_date: '2026-01-09'
 lede: 'Hawaii ended 2025 with fewer working physicians than it started the year with, and a widening gap between the doctors available and the doctors needed, according to a new report to the state Legislature. Of 12,688 licensed physicians in Hawaiʻi, fewer than a third — 3,647 — provided patient care, and when part-time practice is accounted for, the full-time equivalent count fell to just over 3,000, leaving the state 644 doctors short of demand.
 
@@ -23,48 +22,48 @@ primary_themes:
 - Medicaid
 - neighbor islands
 topic_tags:
-  - politics
-  - government
-  - health
+- health
+- public health
+- employment
+- demographics
+- government policy
 storyline_nexus:
-  - ai-regulation
-  - us-administration-2026
-  - us-china-relations
-geographic_location: Hawaii, United States
+- aca-medicaid-healthcare-crisis
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
-  intensity: 0.85
+  intensity: 0.9
+- value: equality_fairness
+  intensity: 0.6
 - value: informed_citizenship
-  intensity: 0.75
-- value: accountability_of_power
-  intensity: 0.45
-framework_version: 1.1.0
-generation_timestamp: '2026-01-09T00:00:00Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-22T23:52:35Z'
 source_cluster_id: cluster_ap_2026-01-08_health-care-costs-hawaii-general-news-89
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 15
   hedges:
     appears: 0
-    alleged: 0
-    attributed: 3
     reported: 0
+    attributed: 3
     contested: 0
     confirmed: 12
+    alleged: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 12
     single_source: 3
+    one_originating_plus_primary_document: 0
     two_independent: 0
+    primary_plus_secondary: 0
+    primary_document: 12
 sources:
   count: 1
   outlets:
-  - Associated Press / Honolulu Civil Beat
+  - Associated Press
   outlet_classes:
   - wire
   highest_reliability_tier: 1
@@ -81,6 +80,14 @@ image:
 cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Placeholder bullet 1.
+- Placeholder bullet 2.
+- Placeholder bullet 3.
 
 Hawaii ended 2025 with fewer working physicians than it started the year with, and a widening gap between the doctors available and the doctors needed, according to a new report to the state Legislature. Of 12,688 licensed physicians in Hawaiʻi, fewer than a third — 3,647 — provided patient care, and when part-time practice is accounted for, the full-time equivalent count fell to just over 3,000, leaving the state 644 doctors short of demand.
 
@@ -134,156 +141,177 @@ On Dec. 29, 2025, Hawaiʻi was awarded $189 million in federal Rural Health Tran
 
 Physicians surveyed for the report identified higher pay as the top priority for improving Hawaiʻi's health workforce, followed by housing support for health care professionals and incentives for healthy patient behavior.
 
----
-
-*Reporting by Jeremy Hay of Honolulu Civil Beat, distributed through a partnership with The Associated Press. This article was generated algorithmically by Main Street Independent's News Article Generator framework. [Methodology](/methodology). Released under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*
-
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Hawaii physicians
-**Predicate:** provide_patient_care
-**Object:** 3,647 of 12,688 (count)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Hawaii physicians
+- **Predicate:** provide_patient_care
+- **Object:** 3,647 of 12,688 (count)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Of 12,688 licensed physicians in Hawaii, fewer than a third — 3,647 — provided patient care in 2025.
 
-### c_002 — confirmed, primary document
-**Subject entities:** Hawaii physicians
-**Predicate:** full_time_equivalent_count
-**Object:** just over 3,000 (count)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Hawaii physicians
+- **Predicate:** full_time_equivalent_count
+- **Object:** just over 3,000 (count)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > The full-time equivalent count of Hawaii physicians serving patients in 2025 was just over 3,000.
 
-### c_003 — confirmed, primary document
-**Subject entities:** Hawaii
-**Predicate:** physician_shortage_statewide
-**Object:** 644 (count)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Hawaii
+- **Predicate:** physician_shortage_statewide
+- **Object:** 644 (count)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Hawaii's physician supply was 644 full-time doctors short of statewide demand in 2025.
 
-### c_004 — confirmed, primary document
-**Subject entities:** Hawaii
-**Predicate:** geography_adjusted_physician_shortage
-**Object:** 833 (count)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Hawaii
+- **Predicate:** geography_adjusted_physician_shortage
+- **Object:** 833 (count)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > When geographic factors are considered, Hawaii's physician shortage grows to 833 full-time doctors.
 
-### c_005 — confirmed, primary document
-**Subject entities:** Hawaii County
-**Predicate:** physician_shortage
-**Object:** 224 (count)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Hawaii County
+- **Predicate:** physician_shortage
+- **Object:** 224 (count)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Hawaii County had the biggest shortage among the state's four counties, needing 224 doctors to fill its demand gap, up from 201 in 2024.
 
-### c_006 — confirmed, primary document
-**Subject entities:** Hawaii County
-**Predicate:** required_physician_growth
-**Object:** 43% (percentage)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Hawaii County
+- **Predicate:** required_physician_growth
+- **Object:** 43% (percentage)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Hawaii County's physician supply needs to grow by 43% to meet demand.
 
-### c_007 — confirmed, primary document
-**Subject entities:** Maui County
-**Predicate:** physician_shortage
-**Object:** 179 (count)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Maui County
+- **Predicate:** physician_shortage
+- **Object:** 179 (count)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Maui County's physician shortage stood at 179 doctors, with its physician population needing to grow by 41%.
 
-### c_008 — confirmed, primary document
-**Subject entities:** Maui County
-**Predicate:** primary_care_physician_shortage
-**Object:** 45 (count)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Maui County
+- **Predicate:** primary_care_physician_shortage
+- **Object:** 45 (count)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Maui had the greatest shortage of primary care physicians among all four counties, short by 45 primary care doctors — a 35% gap.
 
-### c_009 — confirmed, primary document
-**Subject entities:** Hawaii physicians
-**Predicate:** departed_or_retired
-**Object:** 88+ departed, 81+ retired (count)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Hawaii physicians
+- **Predicate:** departed_or_retired
+- **Object:** 88+ departed, 81+ retired (count)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > In 2025, more than 88 physicians left Hawaii while at least 81 retired.
 
-### c_010 — attributed, primary document
-**Subject entities:** Hawaii
-**Predicate:** required_net_physician_addition
-**Object:** 100 per year (rate)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Hawaii
+- **Predicate:** required_net_physician_addition
+- **Object:** 100 per year (rate)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Hawaii needs to add 100 physicians per year more than it loses to meet projected demand.
 
-### c_011 — attributed, single source
-**Subject entities:** Hawaii residents
-**Predicate:** projected_age_demographics
-**Object:** 25% over 65 by 2030 (projection)
-**Temporal:** 2030
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Hawaii residents
+- **Predicate:** projected_age_demographics
+- **Object:** 25% over 65 by 2030 (projection)
+- **Temporal:** 2030
+- **Sources:** src_001
 
 > One in four Hawaii residents will be over 65 by 2030.
 
-### c_012 — confirmed, primary document
-**Subject entities:** Hawaii physicians
-**Predicate:** age_distribution
-**Object:** 25% aged 65+ (percentage)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_012
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Hawaii physicians
+- **Predicate:** age_distribution
+- **Object:** 25% aged 65+ (percentage)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > A quarter of Hawaii's physicians are already 65 or older.
 
-### c_013 — confirmed, single source
-**Subject entities:** Hawaii; Rural Health Transformation Program
-**Predicate:** received_federal_funding
-**Object:** $189 million (dollar_amount)
-**Temporal:** 2025-12-29
-**Source IDs:** src_001
+### c_013
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Hawaii; Rural Health Transformation Program
+- **Predicate:** received_federal_funding
+- **Object:** $189 million (dollar_amount)
+- **Temporal:** 2025-12-29
+- **Sources:** src_001
 
 > Hawaii was awarded $189 million in federal Rural Health Transformation Program funds on Dec. 29, 2025.
 
-### c_014 — confirmed, primary document
-**Subject entities:** Hawaii loan repayment program
-**Predicate:** covered_education_debt
-**Object:** 928 people (count)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_014
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Hawaii loan repayment program
+- **Predicate:** covered_education_debt
+- **Object:** 928 people (count)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > A state loan repayment program covered the education debt of 928 health care professionals who committed to working in Hawaii.
 
-### c_015 — attributed, single source
-**Subject entities:** Judith Fitzgerald; Hilo Benioff Medical Center
-**Predicate:** died
-**Object:** killed in car accident (event)
-**Temporal:** 2025-12-24
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Judith Fitzgerald; Hilo Benioff Medical Center
+- **Predicate:** died
+- **Object:** killed in car accident (event)
+- **Temporal:** 2025-12-24
+- **Sources:** src_001
 
 > Emergency physician Judith Fitzgerald, 74, a longtime doctor at Hilo Benioff Medical Center, was killed in a car accident caused by an alleged drunk driver on Christmas Eve 2025.
 
 ## Sources
 
-### src_001 — Associated Press / Honolulu Civil Beat, wire, Tier 1, originating
-**Author:** Jeremy Hay
+### src_001 — Associated Press, wire, Tier 1, originating
+**Author:** Jeremy Hay / Honolulu Civil Beat
 **Publication date:** 2026-01-09
-**Access date:** 2026-01-09
 **Title:** Hawaii's physician shortage contributes to uneven costs and poorer care
 **URL:** https://apnews.com/article/health-care-costs-hawaii-general-news-89cac66b08281c05a38354c4e6584a38
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

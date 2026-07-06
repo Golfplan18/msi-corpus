@@ -16,37 +16,38 @@ primary_themes:
 - language acquisition
 - scientific research
 topic_tags:
-  - "human interest"
-  - "international relations"
-  - politics
-storyline_nexus: []
-geographic_location: International
+- natural science
+- scientific research
+- science and technology
+storyline_nexus:
+- ai-industry-regulation
+geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship
-  intensity: 0.55
-framework_version: 1.1.0
-generation_timestamp: '2026-05-16T19:48:32Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T04:27:32Z'
 source_cluster_id: cluster_ap_2026-01-07_gifted-dogs-learn-toy-names-eavesdroppin
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 10
   hedges:
-    appears: 0
-    alleged: 0
     attributed: 8
+    alleged: 0
+    confirmed: 2
+    appears: 0
     reported: 0
     contested: 0
-    confirmed: 2
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 3
     single_source: 7
+    one_originating_plus_primary_document: 0
     two_independent: 0
+    primary_document: 3
+    primary_plus_secondary: 0
 sources:
   count: 1
   outlets:
@@ -67,6 +68,13 @@ image:
 cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- Some dogs can learn their toy names by eavesdropping on their owners
+- Lead entity: Adithi Ramakrishnan
+- Key figures: Local News for Apple
 
 Seven of 10 specially gifted dogs correctly identified new toys after eavesdropping on their owners' conversations with a third person — without any direct instruction — according to a study published Thursday in the journal *Science*. The animals, including a Border collie named Basket and a Labrador named Augie, listened as their owners held and discussed a new toy, then retrieved it from a pile of others in a separate room.
 
@@ -96,93 +104,113 @@ Most dogs do not learn object names this way, and researchers are still working 
 
 ## Atomic claims
 
-### c_001 — attributed, primary document
-**Subject entities:** gifted-word-learner-dogs
-**Predicate:** learned_object_names_via_eavesdropping
-**Object:** 7/10 (success_ratio)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** gifted-word-learner-dogs
+- **Predicate:** learned_object_names_via_eavesdropping
+- **Object:** 7/10 (success_ratio)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > Seven out of 10 gifted dogs successfully learned the names of new toys by eavesdropping on their owners talking to a second person.
 
-### c_002 — confirmed, primary document
-**Subject entities:** journal-science
-**Predicate:** published
-**Object:** eavesdropping dog study (publication)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** journal-science
+- **Predicate:** published
+- **Object:** eavesdropping dog study (publication)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > The study was published in the journal Science.
 
-### c_003 — attributed, single source
-**Subject entities:** shany-dror
-**Predicate:** affiliated_with
-**Object:** Eötvös Loránd University; University of Veterinary Medicine Austria (institution)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** shany-dror
+- **Predicate:** affiliated_with
+- **Object:** Eötvös Loránd University; University of Veterinary Medicine Austria (institution)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > Study lead author Shany Dror is affiliated with Eötvös Loránd University in Hungary and the University of Veterinary Medicine in Austria.
 
-### c_004 — attributed, single source
-**Subject entities:** gifted-word-learner-dogs
-**Predicate:** total_known_population
-**Object:** approximately 50 (count)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** gifted-word-learner-dogs
+- **Predicate:** total_known_population
+- **Object:** approximately 50 (count)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > Scientists know of approximately 50 gifted word-learner dogs worldwide.
 
-### c_005 — attributed, single source
-**Subject entities:** basket-border-collie; augie-labrador
-**Predicate:** participated_in_study
-**Object:** eavesdropping experiment (study)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** basket-border-collie; augie-labrador
+- **Predicate:** participated_in_study
+- **Object:** eavesdropping experiment (study)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > The 10 study participants included a Border collie named Basket and a Labrador named Augie.
 
-### c_006 — attributed, primary document
-**Subject entities:** gifted-word-learner-dogs
-**Predicate:** identified_toy_without_visual_cue
-**Object:** opaque-box condition (experimental_condition)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** gifted-word-learner-dogs
+- **Predicate:** identified_toy_without_visual_cue
+- **Object:** opaque-box condition (experimental_condition)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > The dogs succeeded in identifying the correct toy even when it was placed in an opaque box before their owners discussed it.
 
-### c_007 — attributed, single source
-**Subject entities:** parrots; apes
-**Predicate:** previously_demonstrated_eavesdropping_language_acquisition
-**Object:** non-human animals (species_class)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** parrots; apes
+- **Predicate:** previously_demonstrated_eavesdropping_language_acquisition
+- **Object:** non-human animals (species_class)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > Only parrots and apes have previously demonstrated comparable eavesdropping language acquisition among non-human animals.
 
-### c_008 — attributed, single source
-**Subject entities:** human-children-under-2
-**Predicate:** acquire_vocabulary_via_listening
-**Object:** incidental word learning (developmental_capacity)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** human-children-under-2
+- **Predicate:** acquire_vocabulary_via_listening
+- **Object:** incidental word learning (developmental_capacity)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > Children under age 2 can pick up new words from listening, including words their parents did not intend to teach.
 
-### c_009 — attributed, single source
-**Subject entities:** shany-dror; gifted-word-learner-dogs
-**Predicate:** stated_mechanistic_difference
-**Object:** brain mechanisms distinct from human children (scientific_inference)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** shany-dror; gifted-word-learner-dogs
+- **Predicate:** stated_mechanistic_difference
+- **Object:** brain mechanisms distinct from human children (scientific_inference)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > Dror said the brain mechanisms enabling adult gifted dogs to eavesdrop are likely different from those of young children.
 
-### c_010 — confirmed, single source
-**Subject entities:** heidi-lyn
-**Predicate:** independent_expert_commentator
-**Object:** University of South Alabama (institution)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** heidi-lyn
+- **Predicate:** independent_expert_commentator
+- **Object:** University of South Alabama (institution)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > Heidi Lyn is an animal cognition expert at the University of South Alabama and had no role in the study.
 
@@ -191,10 +219,5 @@ Most dogs do not learn object names this way, and researchers are still working 
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Adithi Ramakrishnan
 **Publication date:** 2026-01-08
-**Access date:** 2026-05-16
 **Title:** Some dogs can learn their toy names by eavesdropping on their owners
 **URL:** https://apnews.com/article/gifted-dogs-learn-toy-names-eavesdropping-025c1ed2123de3f0e31b8e54a891a5cc
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -19,44 +19,42 @@ primary_themes:
 - war displaced persons
 - electoral politics
 topic_tags:
-  - "conflict, war and peace"
-  - election
-  - politics
-  - religion
-  - sport
-  - "sport event"
-storyline_nexus: []
-geographic_location: Dearborn, Michigan; Wayne County, Michigan; Lebanon
+- armed conflict
+- conflict, war and peace
+- election
+- civil rights
+- international relations
+storyline_nexus:
+- gaza-israel-war
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
-  intensity: 0.95
+  intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.75
-- value: informed_citizenship
-  intensity: 0.7
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T00:00:00Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:45:37Z'
 source_cluster_id: cluster_ap_2026-04-19_dearborn-michigan-lebanese-americans-ira
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 13
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 5
-    reported: 8
     contested: 0
+    attributed: 5
+    appears: 0
+    reported: 8
     confirmed: 0
+    alleged: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 0
-    single_source: 13
     two_independent: 0
+    one_originating_plus_primary_document: 0
+    primary_plus_secondary: 0
+    single_source: 13
+    primary_document: 0
 sources:
   count: 1
   outlets:
@@ -70,33 +68,16 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-04-16-israel-lebanon-10-day-ceasefire-takes-effect-as-diplomats-push-to-extend-iran-tr
-  relation: related
-  strength: 0.8123
-  confidence: medium
-- slug: 2026-04-15-pakistan-army-chief-meets-iran-fm-in-bid-to-restart-us-iran-talks-before-ceasefi
-  relation: related
-  strength: 0.782
-  confidence: medium
-- slug: 2026-01-12-iran-s-leadership-weakened-by-war-faces-broad-protests-as-crackdown-kills-hundre
-  relation: related
-  strength: 0.8121
-  confidence: medium
-- slug: 2026-01-08-bulgaria-s-mladenov-tapped-to-lead-trump-s-gaza-peace-board-as-israeli-strikes-k
-  relation: related
-  strength: 0.7964
-  confidence: medium
-- slug: 2026-01-11-israel-monitors-iranian-protests-as-analysts-see-little-appetite-for-new-war
-  relation: related
-  strength: 0.7829
-  confidence: medium
-- slug: 2026-01-11-hamas-pledges-to-dissolve-gaza-government-as-transition-remains-in-limbo
-  relation: related
-  strength: 0.7816
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- Eighteen months after helping elect Donald Trump to a second term with hopes he would bring peace to the Middle East, Arab Americans in Dearborn, Michigan—the nation's largest Arab American communi...
+- Arab American leaders said life has not improved since Trump took office, but many expressed little regret about their electoral choice, primarily ...
+- Last week, Nabih Ayad, founder of the Arab American Civil Rights League, met with the Associated Press alongside other Arab American leaders—county...
 
 Eighteen months after helping elect Donald Trump to a second term with hopes he would bring peace to the Middle East, Arab Americans in Dearborn, Michigan—the nation's largest Arab American community—say the conflict has worsened instead. Inside mosques and at vigils, families wait for word from relatives abroad while mourning those already lost. The conflict that began with anguish over Gaza has widened to Lebanon, where the expanding war has displaced more than 1 million people and killed more than 2,000.
 
@@ -140,120 +121,146 @@ Suehaila Amen, a Lebanese American who attended the vigil, reflected on what the
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Arab Americans; Donald Trump
-**Predicate:** helped elect with hope for
-**Object:** Middle East peace (political_outcome)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Arab Americans; Donald Trump
+- **Predicate:** helped elect with hope for
+- **Object:** Middle East peace (political_outcome)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Arab Americans in Dearborn helped elect Donald Trump in 2024 with hopes he would bring peace to the Middle East.
 
-### c_002 — attributed, single source
-**Subject entities:** Arab American leaders
-**Predicate:** said
-**Object:** life not improved since Trump took office (evaluative_claim)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Arab American leaders
+- **Predicate:** said
+- **Object:** life not improved since Trump took office (evaluative_claim)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Arab American leaders said life has not improved since Trump took office.
 
-### c_003 — attributed, single source
-**Subject entities:** Sam Baydoun
-**Predicate:** said
-**Object:** midterm elections could not come soon enough (speech_act)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Sam Baydoun
+- **Predicate:** said
+- **Object:** midterm elections could not come soon enough (speech_act)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Wayne County Commissioner Sam Baydoun said the midterm elections could not come soon enough.
 
-### c_004 — attributed, single source
-**Subject entities:** Arab American leaders; Kamala Harris; Joe Biden
-**Predicate:** cited as reason
-**Object:** Harris's Gaza position (political_rationale)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Arab American leaders; Kamala Harris; Joe Biden
+- **Predicate:** cited as reason
+- **Object:** Harris's Gaza position (political_rationale)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Arab American leaders cited Kamala Harris's failure to distance herself from Joe Biden's support for Israel's war in Gaza as a reason for their lack of alternative support.
 
-### c_005 — reported, single source
-**Subject entities:** Lebanon war
-**Predicate:** displaced
-**Object:** more than 1,000,000 people (quantity)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Lebanon war
+- **Predicate:** displaced
+- **Object:** more than 1,000,000 people (quantity)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > The war in Lebanon has displaced more than 1 million people.
 
-### c_006 — reported, single source
-**Subject entities:** Lebanon war
-**Predicate:** killed
-**Object:** more than 2,000 people (quantity)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Lebanon war
+- **Predicate:** killed
+- **Object:** more than 2,000 people (quantity)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > The war in Lebanon has killed more than 2,000 people.
 
-### c_007 — reported, single source
-**Subject entities:** Michigan; Arab Americans
-**Predicate:** hosts
-**Object:** largest concentration in US (demographic_fact)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Michigan; Arab Americans
+- **Predicate:** hosts
+- **Object:** largest concentration in US (demographic_fact)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Michigan is home to the largest concentration of Arab Americans in the United States.
 
-### c_008 — reported, single source
-**Subject entities:** Michigan Arabs
-**Predicate:** are of descent
-**Object:** approximately 25% Lebanese (demographic_proportion)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Michigan Arabs
+- **Predicate:** are of descent
+- **Object:** approximately 25% Lebanese (demographic_proportion)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Nearly a quarter of Michigan's Arab American population is of Lebanese descent.
 
-### c_009 — reported, single source
-**Subject entities:** Wayne County residents
-**Predicate:** identified as
-**Object:** approximately 33% of 140,000 MENA residents, Lebanese descent (demographic_proportion)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Wayne County residents
+- **Predicate:** identified as
+- **Object:** approximately 33% of 140,000 MENA residents, Lebanese descent (demographic_proportion)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > In Wayne County, about one-third of roughly 140,000 residents identified as Middle Eastern or North African in the 2020 Census are Lebanese.
 
-### c_010 — attributed, single source
-**Subject entities:** Assad Turfe
-**Predicate:** has
-**Object:** family in Lebanon (kinship_fact)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Assad Turfe
+- **Predicate:** has
+- **Object:** family in Lebanon (kinship_fact)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Assad Turfe, a Wayne County official, has family in Lebanon.
 
-### c_011 — reported, single source
-**Subject entities:** Donald Trump
-**Predicate:** said
-**Object:** whole civilization will die if Iran doesn't agree (speech_act)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** said
+- **Object:** whole civilization will die if Iran doesn't agree (speech_act)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Trump said a whole civilization would die if Iran did not agree to his terms.
 
-### c_012 — reported, single source
-**Subject entities:** Israel; Hezbollah
-**Predicate:** involved in
-**Object:** two-week ceasefire (diplomatic_event)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Israel; Hezbollah
+- **Predicate:** involved in
+- **Object:** two-week ceasefire (diplomatic_event)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > A two-week ceasefire was announced in the Israel-Hezbollah conflict.
 
-### c_013 — reported, single source
-**Subject entities:** ceasefire; Israel-Hezbollah fighting
-**Predicate:** does not extend to
-**Object:** Israel-Hezbollah fighting (conflict_exclusion)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_013
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** ceasefire; Israel-Hezbollah fighting
+- **Predicate:** does not extend to
+- **Object:** Israel-Hezbollah fighting (conflict_exclusion)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > The ceasefire does not extend to fighting between Israel and Hezbollah.
 
@@ -262,10 +269,5 @@ Suehaila Amen, a Lebanese American who attended the vigil, reflected on what the
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Joey Cappelletti
 **Publication date:** 2026-04-15
-**Access date:** 2026-05-17
 **Title:** Trump vowed peace in the Middle East. In Dearborn, it feels farther away
 **URL:** https://apnews.com/article/dearborn-michigan-lebanese-americans-iran-war-trump-ec2282be4ddd13ae5c8a5e7c25037f6b
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

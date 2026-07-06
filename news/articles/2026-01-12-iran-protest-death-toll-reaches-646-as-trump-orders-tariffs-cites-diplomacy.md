@@ -21,44 +21,42 @@ primary_themes:
 - tariffs
 - nuclear program
 topic_tags:
-  - "economy, business and finance"
-  - "international trade"
+- civil unrest
+- armed conflict
+- government policy
+- international trade
 storyline_nexus:
-  - trump-tariff-policy
-  - iran-war
-  - ai-regulation
-geographic_location: Iran; Washington, D.C., United States
+- iran-nuclear-negotiations
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
-  intensity: 0.95
-- value: accountability_of_power
-  intensity: 0.85
-- value: informed_citizenship
   intensity: 0.9
+- value: accountability_of_power
+  intensity: 0.6
 - value: truthfulness
-  intensity: 0.7
-framework_version: 1.1.0
-generation_timestamp: '2026-05-16T00:00:00Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:11:08Z'
 source_cluster_id: cluster_ap_2026-01-11_iran-protests-us-israel-war-nuclear-econ
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 18
   hedges:
-    appears: 1
-    alleged: 0
-    attributed: 12
-    reported: 4
     contested: 0
+    appears: 1
+    reported: 4
     confirmed: 1
+    attributed: 12
+    alleged: 0
   corroboration:
+    single_source: 17
     primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
     primary_document: 1
-    single_source: 17
     two_independent: 0
 sources:
   count: 1
@@ -73,45 +71,17 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-image:
-  url: /articles/2026-01-12-iran-protest-death-toll-reaches-646-as-trump-orders-tariffs-cites-diplomacy.png
-  alt: 'Illustration accompanying article: Iran protest death toll reaches 646 as Trump orders tariffs, cites diplomacy'
-  source: ai_generated
-cross_article_links:
-- slug: 2026-01-02-trump-and-iran-trade-threats-as-rial-protests-enter-sixth-day-killing-at-least-7
-  relation: continues
-  strength: 0.8733
-  confidence: high
-- slug: 2026-01-07-iran-security-forces-fire-tear-gas-at-grand-bazaar-as-protest-death-toll-reaches
-  relation: continues
-  strength: 0.8373
-  confidence: high
-- slug: 2026-01-02-trump-and-iran-officials-trade-threats-as-protests-enter-sixth-day
-  relation: continues
-  strength: 0.8659
-  confidence: high
-- slug: 2026-01-08-iran-cuts-internet-and-phones-as-exiled-prince-s-call-draws-mass-protests
-  relation: continues
-  strength: 0.8276
-  confidence: high
-- slug: 2026-01-04-iran-protests-reach-all-31-provinces-as-rial-collapse-deepens-internet-cut
-  relation: continues
-  strength: 0.8406
-  confidence: high
-- slug: 2026-01-03-khamenei-says-rioters-must-be-put-in-their-place-as-iran-protest-deaths-reach-15
-  relation: continues
-  strength: 0.836
-  confidence: high
-- slug: 2026-01-07-iran-army-chief-threatens-preemptive-attack-as-protests-enter-11th-day
-  relation: continues
-  strength: 0.7994
-  confidence: high
-- slug: 2026-01-01-at-least-7-killed-as-iran-protests-over-economy-spread-to-rural-provinces
-  relation: continues
-  strength: 0.8121
-  confidence: high
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- The death toll — which the agency said included 512 protesters and 134 security force members — came as the Trump administration weighed military options including cyberattacks and direct strikes, ...
+- WASHINGTON — U.S. President Donald Trump announced 25% tariffs on all countries doing business with Iran on Monday and said Tehran has privately so...
+- The tariff announcement, which Trump posted on social media and described as "effective immediately," targets Iran's major trading partners, includ...
+- Iran's Foreign Minister Abbas Araghchi, speaking to foreign diplomats in Tehran, said the protest situation was "under total control" and that Iran...
 
 The death toll — which the agency said included 512 protesters and 134 security force members — came as the Trump administration weighed military options including cyberattacks and direct strikes, according to two people familiar with internal White House discussions who were not authorized to comment publicly and spoke on condition of anonymity. More than 10,700 people had also been detained over the two weeks of unrest, the agency said.
 
@@ -163,165 +133,201 @@ With internet service and phone lines cut across Iran, monitoring the demonstrat
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Human Rights Activists News Agency; Iran protests
-**Predicate:** reported_death_toll
-**Object:** 646 (casualty_count)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Human Rights Activists News Agency; Iran protests
+- **Predicate:** reported_death_toll
+- **Object:** 646 (casualty_count)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > The U.S.-based Human Rights Activists News Agency reported that at least 646 people had been killed in two weeks of protests against Iran's government.
 
-### c_002 — attributed, single source
-**Subject entities:** Human Rights Activists News Agency
-**Predicate:** reported_breakdown
-**Object:** 512 protesters, 134 security force members (casualty_breakdown)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Human Rights Activists News Agency
+- **Predicate:** reported_breakdown
+- **Object:** 512 protesters, 134 security force members (casualty_breakdown)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > The Human Rights Activists News Agency said 512 of the dead were protesters and 134 were security force members.
 
-### c_003 — attributed, single source
-**Subject entities:** Human Rights Activists News Agency; Iran government
-**Predicate:** reported_detentions
-**Object:** 10700+ (detention_count)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Human Rights Activists News Agency; Iran government
+- **Predicate:** reported_detentions
+- **Object:** 10700+ (detention_count)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > More than 10,700 people had been detained over two weeks of protests, according to the Human Rights Activists News Agency.
 
-### c_004 — confirmed, primary document
-**Subject entities:** Donald Trump; Iran
-**Predicate:** announced_tariffs
-**Object:** 25% (tariff_rate)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Donald Trump; Iran
+- **Predicate:** announced_tariffs
+- **Object:** 25% (tariff_rate)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Trump announced 25% tariffs on countries doing business with Iran, effective immediately, via a social media posting on Monday.
 
-### c_005 — attributed, single source
-**Subject entities:** Donald Trump; Iran
-**Predicate:** stated
-**Object:** Iran wants to negotiate (statement)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Iran
+- **Predicate:** stated
+- **Object:** Iran wants to negotiate (statement)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > Trump said on Sunday that Iran wants to negotiate.
 
-### c_006 — attributed, single source
-**Subject entities:** Abbas Araghchi; Iran
-**Predicate:** stated
-**Object:** the situation has come under total control (statement)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Abbas Araghchi; Iran
+- **Predicate:** stated
+- **Object:** the situation has come under total control (statement)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Iranian Foreign Minister Abbas Araghchi, speaking to foreign diplomats in Tehran, said 'the situation has come under total control,' in remarks carried by Al Jazeera.
 
-### c_007 — attributed, single source
-**Subject entities:** Abbas Araghchi; Iran
-**Predicate:** stated
-**Object:** open to diplomacy (statement)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Abbas Araghchi; Iran
+- **Predicate:** stated
+- **Object:** open to diplomacy (statement)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Araghchi said Iran was 'open to diplomacy.'
 
-### c_008 — attributed, single source
-**Subject entities:** Abbas Araghchi; Israel; United States
-**Predicate:** blamed
-**Object:** protest violence (allegation)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Abbas Araghchi; Israel; United States
+- **Predicate:** blamed
+- **Object:** protest violence (allegation)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Araghchi blamed Israel and the U.S. for the protest violence, without offering evidence.
 
-### c_009 — attributed, single source
-**Subject entities:** Esmail Baghaei; Iran; United States
-**Predicate:** stated
-**Object:** channel open; talks must reflect mutual interests (statement)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Esmail Baghaei; Iran; United States
+- **Predicate:** stated
+- **Object:** channel open; talks must reflect mutual interests (statement)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Iranian Foreign Ministry spokesman Esmail Baghaei said a channel to the U.S. remained open but that talks needed to be 'based on the acceptance of mutual interests and concerns, not a negotiation that is one-sided, unilateral and based on dictation.'
 
-### c_010 — attributed, single source
-**Subject entities:** Karoline Leavitt; White House; Iran
-**Predicate:** stated
-**Object:** public rhetoric diverges from private messaging (statement)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Karoline Leavitt; White House; Iran
+- **Predicate:** stated
+- **Object:** public rhetoric diverges from private messaging (statement)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > White House press secretary Karoline Leavitt said Iran's public rhetoric diverges from the private messaging the administration has received from Tehran.
 
-### c_011 — attributed, single source
-**Subject entities:** Donald Trump; United States military
-**Predicate:** stated
-**Object:** the military is looking at it, and we're looking at some very strong options (statement)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; United States military
+- **Predicate:** stated
+- **Object:** the military is looking at it, and we're looking at some very strong options (statement)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > Trump told reporters on Air Force One on Sunday night that 'the military is looking at it, and we're looking at some very strong options' regarding Iran.
 
-### c_012 — reported, single source
-**Subject entities:** Donald Trump; United States
-**Predicate:** weighing
-**Object:** cyberattacks and direct strikes against Iran (policy_consideration)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; United States
+- **Predicate:** weighing
+- **Object:** cyberattacks and direct strikes against Iran (policy_consideration)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Trump and his national security team have been weighing military responses against Iran including cyberattacks and direct strikes, according to two people familiar with internal White House discussions who were not authorized to comment publicly and spoke on condition of anonymity.
 
-### c_013 — reported, single source
-**Subject entities:** Iran protests; Iranian rial
-**Predicate:** began
-**Object:** Dec. 28, rial collapse (event_origin)
-**Temporal:** 2025-12-28
-**Source IDs:** src_001
+### c_013
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Iran protests; Iranian rial
+- **Predicate:** began
+- **Object:** Dec. 28, rial collapse (event_origin)
+- **Temporal:** 2025-12-28
+- **Sources:** src_001
 
 > The protests began Dec. 28 over the collapse of the Iranian rial, which trades at more than 1.4 million to the dollar.
 
-### c_014 — attributed, single source
-**Subject entities:** Iran attorney general; Iran protesters
-**Predicate:** warned
-**Object:** protesters to be considered enemy of God, a death-penalty charge (warning)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Iran attorney general; Iran protesters
+- **Predicate:** warned
+- **Object:** protesters to be considered enemy of God, a death-penalty charge (warning)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Iran's attorney general warned that anyone taking part in protests will be considered an 'enemy of God,' a death-penalty charge.
 
-### c_015 — reported, single source
-**Subject entities:** Oman; Iran
-**Predicate:** traveled_to
-**Object:** Iran (diplomatic_contact)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_015
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Oman; Iran
+- **Predicate:** traveled_to
+- **Object:** Iran (diplomatic_contact)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > The foreign minister of Oman traveled to Iran over the weekend, the Associated Press reported.
 
-### c_016 — attributed, single source
-**Subject entities:** Iran parliament; United States; Israel
-**Predicate:** warned
-**Object:** US and Israel would be legitimate targets (threat)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_016
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Iran parliament; United States; Israel
+- **Predicate:** warned
+- **Object:** US and Israel would be legitimate targets (threat)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > Iran's parliamentary speaker warned on Sunday that the U.S. military and Israel would be 'legitimate targets' if Washington uses force to protect demonstrators.
 
-### c_017 — appears, single source
-**Subject entities:** Iran government; Tehran
-**Predicate:** held_demonstration
-**Object:** tens of thousands (crowd_estimate)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_017
+- **Hedge:** appears
+- **Corroboration:** single_source
+- **Subject entities:** Iran government; Tehran
+- **Predicate:** held_demonstration
+- **Object:** tens of thousands (crowd_estimate)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Pro-government demonstrators flooded the streets of Tehran on Monday in support of the government, with the crowd appearing to number in the tens of thousands, according to the AP.
 
-### c_018 — reported, single source
-**Subject entities:** Brazil; China; Russia; Turkey; United Arab Emirates; Iran
-**Predicate:** trade_with
-**Object:** Iran (trade_relationship)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_018
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Brazil; China; Russia; Turkey; United Arab Emirates; Iran
+- **Predicate:** trade_with
+- **Object:** Iran (trade_relationship)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Brazil, China, Russia, Turkey and the United Arab Emirates are among economies that do business with Tehran.
 
@@ -330,10 +336,5 @@ With internet service and phone lines cut across Iran, monitoring the demonstrat
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Jon Gambrell
 **Publication date:** 2026-01-12
-**Access date:** 2026-01-12
 **Title:** Trump says Iran wants to talk as protest death toll rises
 **URL:** https://apnews.com/article/iran-protests-us-israel-war-nuclear-economy-53f2b79c8a0de827b1b8602ac9f0a57b
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

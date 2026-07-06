@@ -1,6 +1,5 @@
 ---
 headline: Pakistani man convicted in Iran-backed plot to kill Trump, Biden and Haley
-slug: 2026-03-06-merchant-convicted-iran-backed-plot-us-politicians
 publish_date: '2026-03-06'
 lede: A Brooklyn jury convicted Pakistani business owner Asif Merchant on Friday on terrorism and murder-for-hire charges, following a weeklong trial in which Merchant himself testified that Iran's Revolutionary Guard directed him to arrange the killings of American political figures during the 2024 presidential campaign. Merchant, 47, faces up to life in prison.
 nut_graf: The conviction, reached after roughly two hours of deliberations, provides the most detailed courtroom account yet of alleged Iranian-orchestrated assassination plotting on U.S. soil, as the United States remains engaged in a broader conflict with Iran in the Middle East.
@@ -18,46 +17,40 @@ primary_themes:
 - federal conviction
 - national security
 topic_tags:
-  - "armed conflict"
-  - "conflict, war and peace"
-  - "crime"
-  - "crime, law and justice"
-  - "government policy"
-  - "politics"
+- crime, law and justice
+- terrorism
+- trial
+- international relations
+- politics
 storyline_nexus:
-  - iran-war
-  - us-administration-2026
-geographic_location: Brooklyn, New York
+- the-iran-war
+geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.9
-- value: accountability_of_power
-  intensity: 0.85
 - value: human_life_and_dignity
-  intensity: 0.8
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:43:32Z'
+  intensity: 0.9
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T01:03:32Z'
 source_cluster_id: cluster_ap_2026-03-07_assassinations-plot-trump-biden-iran-asi
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 12
   hedges:
-    appears: 0
     alleged: 0
-    attributed: 9
     reported: 1
     contested: 0
+    appears: 0
+    attributed: 9
     confirmed: 2
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 1
     single_source: 11
+    primary_plus_secondary: 0
     two_independent: 0
+    one_originating_plus_primary_document: 0
 sources:
   count: 1
   outlets:
@@ -74,6 +67,16 @@ figures_aggregate:
 cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Pakistani business owner convicted in Iran-backed plot against US politicians
+- A Brooklyn jury convicted Asif Merchant on terrorism and murder-for-hire charges on Friday, March 6, 2026.
+- Merchant faces up to life in prison.
+- The jury reached its verdict after only a couple of hours of deliberations following a weeklong trial.
+- Merchant testified that a Revolutionary Guard intelligence operative directed him to carry out an assassination scheme, with possible targets including then-candidate Donald Trump, then-President Joe Biden, and former U.N. Ambassador Nikki Haley.
 
 A Brooklyn jury convicted Pakistani business owner Asif Merchant on Friday on terrorism and murder-for-hire charges, following a weeklong trial in which Merchant himself testified that Iran's Revolutionary Guard directed him to arrange the killings of American political figures during the 2024 presidential campaign. Merchant, 47, faces up to life in prison.
 
@@ -117,111 +120,135 @@ Sentencing has not yet been scheduled.
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Asif Merchant
-**Predicate:** convicted_of
-**Object:** terrorism and murder for hire (criminal_charges)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Asif Merchant
+- **Predicate:** convicted_of
+- **Object:** terrorism and murder for hire (criminal_charges)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > A Brooklyn jury convicted Asif Merchant on terrorism and murder-for-hire charges on Friday, March 6, 2026.
 
-### c_002 — attributed, single source
-**Subject entities:** Asif Merchant
-**Predicate:** faces_sentence
-**Object:** up to life in prison (sentencing_exposure)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Asif Merchant
+- **Predicate:** faces_sentence
+- **Object:** up to life in prison (sentencing_exposure)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > Merchant faces up to life in prison.
 
-### c_003 — attributed, single source
-**Subject entities:** Asif Merchant
-**Predicate:** convicted_after
-**Object:** a couple of hours of deliberations (deliberation_duration)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Asif Merchant
+- **Predicate:** convicted_after
+- **Object:** a couple of hours of deliberations (deliberation_duration)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > The jury reached its verdict after only a couple of hours of deliberations following a weeklong trial.
 
-### c_004 — attributed, single source
-**Subject entities:** Asif Merchant; Donald Trump; Joe Biden; Nikki Haley
-**Predicate:** testified_directed_by
-**Object:** Revolutionary Guard to arrange killings of Trump, Biden, Haley (alleged_plot)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Asif Merchant; Donald Trump; Joe Biden; Nikki Haley
+- **Predicate:** testified_directed_by
+- **Object:** Revolutionary Guard to arrange killings of Trump, Biden, Haley (alleged_plot)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > Merchant testified that a Revolutionary Guard intelligence operative directed him to carry out an assassination scheme, with possible targets including then-candidate Donald Trump, then-President Joe Biden, and former U.N. Ambassador Nikki Haley.
 
-### c_005 — attributed, single source
-**Subject entities:** Iran government
-**Predicate:** denied
-**Object:** trying to kill U.S. officials (denial)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Iran government
+- **Predicate:** denied
+- **Object:** trying to kill U.S. officials (denial)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > The Iranian government has denied trying to kill U.S. officials.
 
-### c_006 — attributed, single source
-**Subject entities:** Asif Merchant; U.S. Federal Bureau of Investigation
-**Predicate:** exposed_by
-**Object:** undercover FBI agents secretly recording (law_enforcement_operation)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Asif Merchant; U.S. Federal Bureau of Investigation
+- **Predicate:** exposed_by
+- **Object:** undercover FBI agents secretly recording (law_enforcement_operation)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > The plot began to unravel after Merchant used objects on a napkin to depict a shooting at a rally and asked an acquaintance to help hire assassins; the acquaintance instead introduced him to undercover FBI agents who were secretly recording him.
 
-### c_007 — attributed, single source
-**Subject entities:** Asif Merchant; U.S. Federal Bureau of Investigation
-**Predicate:** paid
-**Object:** $5,000 cash (payment)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Asif Merchant; U.S. Federal Bureau of Investigation
+- **Predicate:** paid
+- **Object:** $5,000 cash (payment)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > Merchant paid undercover FBI agents $5,000 in cash in a parked car in Manhattan for services that could include killing 'some political person.'
 
-### c_008 — confirmed, single source
-**Subject entities:** Asif Merchant; Donald Trump
-**Predicate:** arrested_before
-**Object:** Butler, Pennsylvania assassination attempt on Trump (concurrent_event)
-**Temporal:** 2024-07-12
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Asif Merchant; Donald Trump
+- **Predicate:** arrested_before
+- **Object:** Butler, Pennsylvania assassination attempt on Trump (concurrent_event)
+- **Temporal:** 2024-07-12
+- **Sources:** src_001
 
 > Merchant was arrested on July 12, 2024, a day before an unrelated attempt on Trump's life in Butler, Pennsylvania.
 
-### c_009 — attributed, single source
-**Subject entities:** Pam Bondi; Asif Merchant
-**Predicate:** stated
-**Object:** landed on American soil hoping to kill President Trump — instead, he was met with the might of American law enforcement (quotation)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Pam Bondi; Asif Merchant
+- **Predicate:** stated
+- **Object:** landed on American soil hoping to kill President Trump — instead, he was met with the might of American law enforcement (quotation)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > Attorney General Pam Bondi said in a statement that Merchant 'landed on American soil hoping to kill President Trump — instead, he was met with the might of American law enforcement.'
 
-### c_010 — attributed, single source
-**Subject entities:** Asif Merchant
-**Predicate:** testified_acted_under_duress
-**Object:** protecting loved ones in Iran; expected arrest before harm occurred (defense_claim)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Asif Merchant
+- **Predicate:** testified_acted_under_duress
+- **Object:** protecting loved ones in Iran; expected arrest before harm occurred (defense_claim)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > Merchant testified he had to do his handler's bidding to protect loved ones in Iran, and said he reluctantly went through the motions believing he would be arrested before anyone was killed.
 
-### c_011 — attributed, single source
-**Subject entities:** Asif Merchant; U.S. Federal Bureau of Investigation
-**Predicate:** argued_against_duress_defense
-**Object:** Merchant never told FBI he acted out of fear during cooperation discussions (prosecutorial_argument)
-**Temporal:** 2026-03-06
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Asif Merchant; U.S. Federal Bureau of Investigation
+- **Predicate:** argued_against_duress_defense
+- **Object:** Merchant never told FBI he acted out of fear during cooperation discussions (prosecutorial_argument)
+- **Temporal:** 2026-03-06
+- **Sources:** src_001
 
 > Prosecutors argued Merchant did not proactively go to authorities and did not assert a duress defense when he later spoke to FBI agents about a possible cooperation agreement.
 
-### c_012 — reported, single source
-**Subject entities:** Donald Trump; Iran government
-**Predicate:** tracked_threat_from
-**Object:** Iranian threat on Trump's life concurrent with Butler shooting (law_enforcement_assessment)
-**Temporal:** 2024-07-13
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Iran government
+- **Predicate:** tracked_threat_from
+- **Object:** Iranian threat on Trump's life concurrent with Butler shooting (law_enforcement_assessment)
+- **Temporal:** 2024-07-13
+- **Sources:** src_001
 
 > Officials said the Butler gunman appeared to have acted alone but that they had been tracking a threat on Trump's life from Iran.
 
@@ -230,10 +257,5 @@ Sentencing has not yet been scheduled.
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Jennifer Peltz
 **Publication date:** 2026-03-06
-**Access date:** 2026-05-17
 **Title:** Pakistani business owner convicted in Iran-backed plot against US politicians
 **URL:** https://apnews.com/article/assassinations-plot-trump-biden-iran-asif-merchant-2e15428827dd6c05eedef4929a1ce822
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -19,13 +19,11 @@ primary_themes:
 - peace negotiations
 - regional security
 topic_tags:
-  - "armed conflict"
-  - "conflict, war and peace"
-  - "peace process"
+- armed conflict
+- conflict, war and peace
+- peace process
 storyline_nexus:
-  - us-administration-2026
-  - trump-tariff-policy
-  - us-china-relations
+- venezuela-political-military-crisis
 geographic_location: Colombia; Venezuela
 floor_values_engaged:
 - value: informed_citizenship
@@ -87,18 +85,6 @@ cross_article_links:
   relation: related
   strength: 0.8077
   confidence: medium
-- slug: 2026-01-06-maduro-arraignment-renews-fears-over-eroding-international-legal-order
-  relation: related
-  strength: 0.7971
-  confidence: medium
-- slug: 2026-01-03-u-s-military-seizes-maduro-in-venezuela-trump-pledges-to-govern-country-and-expl
-  relation: related
-  strength: 0.8148
-  confidence: medium
-- slug: 2026-01-06-rebel-fighting-in-colombia-s-catatumbo-displaces-300-to-c-cuta-amid-venezuela-cr
-  relation: related
-  strength: 0.7934
-  confidence: medium
 - slug: 2026-01-06-maduro-capture-rattles-global-legal-order-as-nations-condemn-us-action
   relation: related
   strength: 0.7933
@@ -136,120 +122,146 @@ The ELN was founded in the 1960s by students and union leaders inspired by the C
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** ELN
-**Predicate:** published_statement
-**Object:** national accord appeal (public_statement)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** ELN
+- **Predicate:** published_statement
+- **Object:** national accord appeal (public_statement)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > The ELN published a statement on its X account on Monday calling for a 'national accord' to overcome political conflicts in Colombia.
 
-### c_002 — attributed, primary document
-**Subject entities:** ELN
-**Predicate:** stated_intent
-**Object:** post-election accord covering poverty, ecosystems, drug trade (policy_position)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** ELN
+- **Predicate:** stated_intent
+- **Object:** post-election accord covering poverty, ecosystems, drug trade (policy_position)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > The ELN said it would like to work with Colombia's new government after elections this year to design agreements aimed at defeating poverty, protecting ecosystems and overcoming the drug trade in rural areas.
 
-### c_003 — reported, single source
-**Subject entities:** Colombia; United States
-**Predicate:** reported_planning
-**Object:** joint military operations against ELN (policy_action)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Colombia; United States
+- **Predicate:** reported_planning
+- **Object:** joint military operations against ELN (policy_action)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > The governments of Colombia and the United States are reported to be looking for ways to conduct joint operations against the ELN.
 
-### c_004 — attributed, single source
-**Subject entities:** Gustavo Petro; ELN
-**Predicate:** characterized
-**Object:** drug traffickers dressed up as guerrilla fighters (attributed_quote)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Gustavo Petro; ELN
+- **Predicate:** characterized
+- **Object:** drug traffickers dressed up as guerrilla fighters (attributed_quote)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Colombian President Gustavo Petro described the ELN as 'drug traffickers dressed up as guerrilla fighters.'
 
-### c_005 — confirmed, single source
-**Subject entities:** United States; Nicolás Maduro
-**Predicate:** captured_and_extradited
-**Object:** drug trafficking charges (legal_action)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** United States; Nicolás Maduro
+- **Predicate:** captured_and_extradited
+- **Object:** drug trafficking charges (legal_action)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > The United States captured Venezuela's former President Nicolás Maduro in a pre-dawn raid earlier this month and flew him to the U.S. to face drug trafficking charges.
 
-### c_006 — alleged, primary document
-**Subject entities:** Nicolás Maduro; ELN
-**Predicate:** alleged_in_indictment
-**Object:** protecting ELN in Venezuela and cocaine trafficking (legal_allegation)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_006
+- **Hedge:** alleged
+- **Corroboration:** primary_document
+- **Subject entities:** Nicolás Maduro; ELN
+- **Predicate:** alleged_in_indictment
+- **Object:** protecting ELN in Venezuela and cocaine trafficking (legal_allegation)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > A federal indictment in New York accuses Maduro of providing protection to the ELN in Venezuelan territory and working with the group to traffic cocaine.
 
-### c_007 — attributed, single source
-**Subject entities:** Armando Benedetti; Gustavo Petro; Donald Trump
-**Predicate:** stated
-**Object:** Petro and Trump discussed ELN and drug trafficking by phone (diplomatic_communication)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Armando Benedetti; Gustavo Petro; Donald Trump
+- **Predicate:** stated
+- **Object:** Petro and Trump discussed ELN and drug trafficking by phone (diplomatic_communication)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Colombian Interior Minister Armando Benedetti said that President Petro and U.S. President Donald Trump discussed the ELN and its role in drug trafficking during a phone call.
 
-### c_008 — attributed, single source
-**Subject entities:** Armando Benedetti; Gustavo Petro; Donald Trump
-**Predicate:** stated
-**Object:** possible joint operations against ELN (policy_discussion)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Armando Benedetti; Gustavo Petro; Donald Trump
+- **Predicate:** stated
+- **Object:** possible joint operations against ELN (policy_discussion)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Benedetti said the two presidents discussed possible joint operations against the ELN.
 
-### c_009 — attributed, single source
-**Subject entities:** Armando Benedetti; ELN
-**Predicate:** told
-**Object:** ELN needs to be attacked when they retreat to Venezuelan camps (attributed_quote)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Armando Benedetti; ELN
+- **Predicate:** told
+- **Object:** ELN needs to be attacked when they retreat to Venezuelan camps (attributed_quote)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Benedetti said in an interview with Colombian radio station Blu that 'the issue (with the ELN) is that they need to be attacked when they retreat' into camps in Venezuela.
 
-### c_010 — attributed, primary document
-**Subject entities:** Gustavo Petro; ELN
-**Predicate:** stated
-**Object:** ELN must end drug trafficking and minor recruitment for talks to resume (political_condition)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Gustavo Petro; ELN
+- **Predicate:** stated
+- **Object:** ELN must end drug trafficking and minor recruitment for talks to resume (political_condition)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > President Petro posted on X on Monday that the ELN must give up drug trafficking and recruiting minors if it wants peace talks to resume.
 
-### c_011 — attributed, primary document
-**Subject entities:** Gustavo Petro; ELN
-**Predicate:** stated
-**Object:** ELN must vacate Venezuelan camps or face joint actions (political_warning)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Gustavo Petro; ELN
+- **Predicate:** stated
+- **Object:** ELN must vacate Venezuelan camps or face joint actions (political_warning)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Petro called on the ELN to stop using camps in Venezuela or face 'joint actions' that also involve Venezuela's government.
 
-### c_012 — confirmed, single source
-**Subject entities:** Colombia; ELN
-**Predicate:** suspended_talks
-**Object:** peace talks suspended after Catatumbo offensive displacing 50,000+ (diplomatic_event)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_012
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Colombia; ELN
+- **Predicate:** suspended_talks
+- **Object:** peace talks suspended after Catatumbo offensive displacing 50,000+ (diplomatic_event)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > The Colombian government suspended peace talks with the ELN last year after the group staged an offensive in the northeastern Catatumbo region that forced more than 50,000 people to flee their homes.
 
-### c_013 — attributed, single source
-**Subject entities:** ELN
-**Predicate:** background_fact
-**Object:** founded 1960s; ~5,000 fighters in Colombia and Venezuela (organizational_background)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** ELN
+- **Predicate:** background_fact
+- **Object:** founded 1960s; ~5,000 fighters in Colombia and Venezuela (organizational_background)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > The ELN was founded in the 1960s by students and union leaders inspired by the Cuban revolution and currently has around 5,000 fighters operating in Colombia and Venezuela.
 
@@ -261,7 +273,3 @@ The ELN was founded in the 1960s by students and union leaders inspired by the C
 **Access date:** 2026-01-13
 **Title:** Colombian rebel group ELN calls for a 'national accord' with the government
 **URL:** https://apnews.com/article/colombia-eln-rebels-venezuela-maduro-4cdf09becee1e918bd8610b938f81698
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

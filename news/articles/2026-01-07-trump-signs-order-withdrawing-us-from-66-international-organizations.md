@@ -16,42 +16,43 @@ primary_themes:
 - climate change
 - executive orders
 topic_tags:
-  - environment
-  - "climate change"
-  - politics
-  - government
-  - "international relations"
-  - weather
-storyline_nexus: []
-geographic_location: Washington, D.C.
+- international relations
+- government policy
+- climate change
+- environment
+storyline_nexus:
+- trump-foreign-policy-reshaping
+geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.85
-framework_version: 1.1.0
-generation_timestamp: '2026-05-16T19:50:06Z'
+  intensity: 0.9
+- value: human_life_and_dignity
+  intensity: 0.6
+- value: informed_citizenship
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:06:17Z'
 source_cluster_id: cluster_ap_2026-01-07_united-nations-trump-international-organ
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 10
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 7
-    reported: 0
     contested: 0
     confirmed: 3
+    appears: 0
+    reported: 0
+    attributed: 7
+    alleged: 0
   corroboration:
     primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 2
     single_source: 8
     two_independent: 0
+    primary_document: 2
+    one_originating_plus_primary_document: 0
 sources:
   count: 1
   outlets:
@@ -69,25 +70,20 @@ image:
   url: /articles/2026-01-07-trump-signs-order-withdrawing-us-from-66-international-organizations.png
   alt: 'Illustration accompanying article: Trump signs order withdrawing US from 66 international organizations'
   source: ai_generated
-cross_article_links:
-- slug: 2025-12-30-zeldin-s-epa-cuts-enforcement-and-staff-as-fossil-fuel-friendly-pivot-takes-hold
-  relation: related
-  strength: 0.7187
-  confidence: medium
-- slug: 2025-12-30-trump-s-epa-cuts-pollution-rules-and-staff-in-fossil-fuel-pivot
-  relation: related
-  strength: 0.7163
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
 
-WASHINGTON — President Donald Trump on Wednesday signed an executive order suspending U.S. participation in 66 international organizations, agencies, and commissions — including the United Nations Framework Convention on Climate Change and the U.N. Population Fund — following an administration-wide review of U.S. involvement in global bodies.
+## Summary
 
-The action extends a pattern of American withdrawal from multilateral institutions that already encompassed the World Health Organization, UNRWA, the U.N. Human Rights Council, and UNESCO, and covers dozens of additional agencies and commissions focused on climate, labor, migration, and other areas the Trump administration has characterized as misaligned with U.S. interests.
+**Subtype:** fact
 
-Secretary of State Marco Rubio said in a statement that the administration had found the targeted institutions to be "redundant in their scope, mismanaged, unnecessary, wasteful, poorly run, captured by the interests of actors advancing their own agendas contrary to our own, or a threat to our nation's sovereignty, freedoms, and general prosperity."
-
-Daniel Forti, head of U.N. affairs at the International Crisis Group, said Wednesday's order reflects a consistent posture from the administration. "I think what we're seeing is the crystallization of the U.S. approach to multilateralism, which is 'my way or the highway,'" Forti said. "It's a very clear vision of wanting international cooperation on Washington's own terms."
+- US will exit 66 international organizations as it further retreats from global cooperation
+- US will exit 66 international organizations as it further retreats from global cooperation
+- US builds on pattern of exiting global agencies
+- The latest global organizations the US is departing
+- Gina McCarthy, former White House National Climate Adviser, said being the only country in the world not part of the treaty is “shortsighted, embarrassing, and a foolish decision.”
+- Mainstream scientists say climate change is behind increasing instances of deadly and costly extreme weather, including flooding, droughts, wildfires, intense rainfall events and dangerous heat.
 
 ## Climate treaty exit draws criticism
 
@@ -117,93 +113,113 @@ Many independent nongovernmental agencies — including some that work with the 
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Donald Trump
-**Predicate:** signed_executive_order
-**Object:** suspension of U.S. support for 66 international organizations (executive_action)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Donald Trump
+- **Predicate:** signed_executive_order
+- **Object:** suspension of U.S. support for 66 international organizations (executive_action)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > President Trump signed an executive order on Jan. 7, 2026, suspending U.S. support for 66 international organizations, agencies, and commissions.
 
-### c_002 — attributed, single source
-**Subject entities:** Trump administration
-**Predicate:** conducted_review
-**Object:** participation and funding for international organizations (policy_review)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Trump administration
+- **Predicate:** conducted_review
+- **Object:** participation and funding for international organizations (policy_review)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > The order followed an administration review of participation in and funding for all international organizations, including those affiliated with the United Nations.
 
-### c_003 — attributed, single source
-**Subject entities:** Marco Rubio
-**Predicate:** said
-**Object:** characterization of targeted organizations as wasteful or sovereignty threats (official_statement)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Marco Rubio
+- **Predicate:** said
+- **Object:** characterization of targeted organizations as wasteful or sovereignty threats (official_statement)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Secretary of State Marco Rubio said in a statement that the targeted institutions were redundant, mismanaged, wasteful, or a threat to U.S. sovereignty.
 
-### c_004 — confirmed, primary document
-**Subject entities:** United States; UNFCCC
-**Predicate:** withdrawing_from
-**Object:** UN Framework Convention on Climate Change (international_treaty)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** United States; UNFCCC
+- **Predicate:** withdrawing_from
+- **Object:** UN Framework Convention on Climate Change (international_treaty)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > The U.S. withdrawal includes the UNFCCC, the 1992 agreement among 198 countries that is the underlying treaty for the Paris climate accord.
 
-### c_005 — attributed, single source
-**Subject entities:** Daniel Forti; International Crisis Group
-**Predicate:** said
-**Object:** characterization of U.S. multilateralism as my-way-or-the-highway (expert_commentary)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Daniel Forti; International Crisis Group
+- **Predicate:** said
+- **Object:** characterization of U.S. multilateralism as my-way-or-the-highway (expert_commentary)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Daniel Forti, head of U.N. affairs at the International Crisis Group, said the action reflects a U.S. approach to multilateralism of wanting international cooperation on Washington's own terms.
 
-### c_006 — attributed, single source
-**Subject entities:** Gina McCarthy; America Is All In
-**Predicate:** said
-**Object:** criticism of UNFCCC withdrawal (advocacy_statement)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Gina McCarthy; America Is All In
+- **Predicate:** said
+- **Object:** criticism of UNFCCC withdrawal (advocacy_statement)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Gina McCarthy, former White House National Climate Adviser and co-chair of America Is All In, called the UNFCCC withdrawal shortsighted, embarrassing, and a foolish decision.
 
-### c_007 — attributed, single source
-**Subject entities:** Rob Jackson; Global Carbon Project; Stanford University
-**Predicate:** said
-**Object:** assessment that UNFCCC withdrawal hinders global climate action (expert_commentary)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Rob Jackson; Global Carbon Project; Stanford University
+- **Predicate:** said
+- **Object:** assessment that UNFCCC withdrawal hinders global climate action (expert_commentary)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Rob Jackson, Stanford University climate scientist who chairs the Global Carbon Project, said U.S. withdrawal from the UNFCCC gives other nations an excuse to delay their own climate commitments.
 
-### c_008 — confirmed, single source
-**Subject entities:** Trump administration; WHO; UNRWA; U.N. Human Rights Council; UNESCO
-**Predicate:** suspended_support_for
-**Object:** four major international bodies suspended before Jan. 7 order (prior_policy_action)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Trump administration; WHO; UNRWA; U.N. Human Rights Council; UNESCO
+- **Predicate:** suspended_support_for
+- **Object:** four major international bodies suspended before Jan. 7 order (prior_policy_action)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > The Trump administration previously suspended U.S. support for the World Health Organization, UNRWA, the U.N. Human Rights Council, and UNESCO.
 
-### c_009 — attributed, single source
-**Subject entities:** Trump administration; ITU; IMO; ILO
-**Predicate:** stated_intent
-**Object:** selective engagement in standard-setting bodies vs. China (policy_statement)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Trump administration; ITU; IMO; ILO
+- **Predicate:** stated_intent
+- **Object:** selective engagement in standard-setting bodies vs. China (policy_statement)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Administration officials said they intend to focus taxpayer money on U.N. standard-setting bodies where the U.S. competes with China, including the ITU, IMO, and ILO.
 
-### c_010 — attributed, single source
-**Subject entities:** U.S. State Department; U.N. Population Fund
-**Predicate:** found_no_evidence
-**Object:** GOP claims of coercive abortion practices by UNFPA (government_review_finding)
-**Temporal:** 2022-01-01
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. State Department; U.N. Population Fund
+- **Predicate:** found_no_evidence
+- **Object:** GOP claims of coercive abortion practices by UNFPA (government_review_finding)
+- **Temporal:** 2022-01-01
+- **Sources:** src_001
 
 > A State Department review conducted during the Biden administration found no evidence to support Republican claims that the U.N. Population Fund participated in coercive abortion practices.
 
@@ -212,10 +228,5 @@ Many independent nongovernmental agencies — including some that work with the 
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Matthew Lee
 **Publication date:** 2026-01-07
-**Access date:** 2026-01-07
 **Title:** Trump administration to exit 66 international organizations
 **URL:** https://apnews.com/article/united-nations-trump-international-organizations-withdrawal-d704fb9b444dc9cf569865d391b544a6
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

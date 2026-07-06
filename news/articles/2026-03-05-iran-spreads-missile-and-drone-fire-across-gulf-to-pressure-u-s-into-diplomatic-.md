@@ -21,43 +21,43 @@ primary_themes:
 - regional conflict escalation
 - energy infrastructure targeting
 topic_tags:
-  - "conflict, war and peace"
-  - "armed conflict"
-  - "politics"
-  - "international relations"
+- armed conflict
+- conflict, war and peace
+- international military intervention
+- international relations
 storyline_nexus:
-  - iran-war
-geographic_location: Persian Gulf / Middle East
+- the-iran-war
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
-  intensity: 0.95
-- value: informed_citizenship
   intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.7
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:44:07Z'
+  intensity: 0.6
+- value: informed_citizenship
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:58:06Z'
 source_cluster_id: cluster_ap_2026-03-06_iran-strategy-israel-drones-us-war-gulf-
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 13
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 4
-    reported: 9
     contested: 0
+    reported: 9
     confirmed: 0
+    attributed: 4
+    alleged: 0
+    appears: 0
   corroboration:
     primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
+    two_independent: 0
     primary_document: 0
     single_source: 13
-    two_independent: 0
+    one_originating_plus_primary_document: 0
 sources:
   count: 1
   outlets:
@@ -75,21 +75,12 @@ image:
   url: /articles/2026-03-05-iran-spreads-missile-and-drone-fire-across-gulf-to-pressure-u-s-into-diplomatic-.png
   alt: 'Illustration accompanying article: Iran spreads missile and drone fire across Gulf to pressure U.S. into diplomatic off-ramp'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-12-iran-s-leadership-weakened-by-war-faces-broad-protests-as-crackdown-kills-hundre
-  relation: related
-  strength: 0.8104
-  confidence: medium
-- slug: 2026-01-11-israel-monitors-iranian-protests-as-analysts-see-little-appetite-for-new-war
-  relation: related
-  strength: 0.8095
-  confidence: medium
-- slug: 2026-01-02-trump-and-iran-trade-threats-as-rial-protests-enter-sixth-day-killing-at-least-7
-  relation: related
-  strength: 0.7938
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
 
 DUBAI — Iran has unleashed thousands of drones and ballistic missiles against Israel, American military installations, and energy facilities across the Persian Gulf since the United States and Israel launched military operations Saturday and killed Supreme Leader Ayatollah Ali Khamenei, the Associated Press reported. Iranian fire has reached targets as distant as the country's borders with Turkey and Azerbaijan, and has struck Gulf states that maintain close ties to both Washington and Tehran.
 
@@ -143,120 +134,146 @@ Qatar's prime minister, Sheikh Mohammed bin Abdulrahman Al Thani, "categorically
 
 ## Atomic claims
 
-### c_001 — reported, single source
-**Subject entities:** United States; Israel; Ayatollah Ali Khamenei
-**Predicate:** launched_war_and_killed
-**Object:** Ayatollah Ali Khamenei (named_individual)
-**Temporal:** 2026-03
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** United States; Israel; Ayatollah Ali Khamenei
+- **Predicate:** launched_war_and_killed
+- **Object:** Ayatollah Ali Khamenei (named_individual)
+- **Temporal:** 2026-03
+- **Sources:** src_001
 
 > The United States and Israel launched military operations on Saturday and killed Iranian Supreme Leader Ayatollah Ali Khamenei.
 
-### c_002 — reported, single source
-**Subject entities:** Iran
-**Predicate:** fired
-**Object:** thousands of drones and ballistic missiles (military_action)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Iran
+- **Predicate:** fired
+- **Object:** thousands of drones and ballistic missiles (military_action)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > Iran has unleashed thousands of drones and ballistic missiles targeting Israel, American military bases and embassies, and energy facilities across the Persian Gulf since the war began.
 
-### c_003 — reported, single source
-**Subject entities:** Iran; Israel
-**Predicate:** killed
-**Object:** 11 (casualty_count)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Iran; Israel
+- **Predicate:** killed
+- **Object:** 11 (casualty_count)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > Iranian ballistic missiles fired into Israel have killed 11 people.
 
-### c_004 — reported, single source
-**Subject entities:** United States; Israel; Iran
-**Predicate:** killed
-**Object:** 1045 (casualty_count)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** United States; Israel; Iran
+- **Predicate:** killed
+- **Object:** 1045 (casualty_count)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > The U.S.-Israeli military campaign has killed 1,045 people in Iran.
 
-### c_005 — attributed, single source
-**Subject entities:** Pete Hegseth
-**Predicate:** stated
-**Object:** thousands intercepted and vaporized (official_statement)
-**Temporal:** 2026-03-04
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Pete Hegseth
+- **Predicate:** stated
+- **Object:** thousands intercepted and vaporized (official_statement)
+- **Temporal:** 2026-03-04
+- **Sources:** src_001
 
 > U.S. Defense Secretary Pete Hegseth said Wednesday that thousands of Iranian missiles and drones have been intercepted and vaporized.
 
-### c_006 — reported, single source
-**Subject entities:** Iran
-**Predicate:** possesses_finite_missiles
-**Object:** several days at current rates (intelligence_assessment)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Iran
+- **Predicate:** possesses_finite_missiles
+- **Object:** several days at current rates (intelligence_assessment)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > A senior Western official, speaking on condition of anonymity to discuss intelligence matters, said Iran has several days' worth of ballistic missiles if it continues firing at current rates, but may hold some back to wage a longer campaign.
 
-### c_007 — attributed, single source
-**Subject entities:** Donald Trump
-**Predicate:** stated_objectives
-**Object:** four military and strategic objectives (policy_statement)
-**Temporal:** 2026-03-03
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** stated_objectives
+- **Object:** four military and strategic objectives (policy_statement)
+- **Temporal:** 2026-03-03
+- **Sources:** src_001
 
 > President Trump said Monday his four objectives were to destroy Iran's missile capabilities, wipe out its navy, prevent it from obtaining a nuclear weapon, and ensure that it cannot continue to support allied armed groups.
 
-### c_008 — reported, single source
-**Subject entities:** Saudi Arabia; Ras Tanura; U.S. Embassy Riyadh
-**Predicate:** targeted
-**Object:** Ras Tanura refinery and U.S. Embassy Riyadh (infrastructure_and_diplomatic_target)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Saudi Arabia; Ras Tanura; U.S. Embassy Riyadh
+- **Predicate:** targeted
+- **Object:** Ras Tanura refinery and U.S. Embassy Riyadh (infrastructure_and_diplomatic_target)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > Saudi Arabia's Ras Tanura oil refinery has been repeatedly attacked and the U.S. Embassy in Riyadh was hit by drones.
 
-### c_009 — reported, single source
-**Subject entities:** Oman; USS Abraham Lincoln
-**Predicate:** targeted
-**Object:** Duqm port (military_logistics_facility)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Oman; USS Abraham Lincoln
+- **Predicate:** targeted
+- **Object:** Duqm port (military_logistics_facility)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > Oman's port at Duqm helped the USS Abraham Lincoln aircraft carrier with pre-deployment logistics and has since been targeted by Iranian missiles.
 
-### c_010 — reported, single source
-**Subject entities:** United States; Israel; Iran
-**Predicate:** conducted_prior_war
-**Object:** 12-day war June 2025 targeting nuclear enrichment sites (prior_conflict)
-**Temporal:** 2025-06
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** United States; Israel; Iran
+- **Predicate:** conducted_prior_war
+- **Object:** 12-day war June 2025 targeting nuclear enrichment sites (prior_conflict)
+- **Temporal:** 2025-06
+- **Sources:** src_001
 
 > The U.S. and Israel had joined in a previous 12-day war in June, targeting nuclear enrichment sites.
 
-### c_011 — reported, single source
-**Subject entities:** Qatar; Abbas Araghchi
-**Predicate:** rejected
-**Object:** Araghchi's characterization of missile targeting (diplomatic_statement)
-**Temporal:** 2026-03-04
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Qatar; Abbas Araghchi
+- **Predicate:** rejected
+- **Object:** Araghchi's characterization of missile targeting (diplomatic_statement)
+- **Temporal:** 2026-03-04
+- **Sources:** src_001
 
 > Qatar's prime minister, Sheikh Mohammed bin Abdulrahman Al Thani, categorically rejected Iranian Foreign Minister Abbas Araghchi's assertion that Iranian missiles were only directed at American interests and not intended to target Qatar.
 
-### c_012 — attributed, single source
-**Subject entities:** Ellie Geranmayeh; Iran
-**Predicate:** analyzed
-**Object:** Iran's strategy of cost-escalation and regionalization (expert_analysis)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ellie Geranmayeh; Iran
+- **Predicate:** analyzed
+- **Object:** Iran's strategy of cost-escalation and regionalization (expert_analysis)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > Ellie Geranmayeh of the European Council on Foreign Relations said Iran is upping the costs for the U.S. military campaign and regionalizing it from the outset.
 
-### c_013 — attributed, single source
-**Subject entities:** Hasan Alhasan; Iran; Gulf states
-**Predicate:** analyzed
-**Object:** Iran's strategy backfiring by pushing Gulf states toward U.S. (expert_analysis)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Hasan Alhasan; Iran; Gulf states
+- **Predicate:** analyzed
+- **Object:** Iran's strategy backfiring by pushing Gulf states toward U.S. (expert_analysis)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > Hasan Alhasan of the International Institute for Strategic Studies said Iran's strategy is backfiring and driving Gulf states into closer alignment with the United States.
 
@@ -265,10 +282,5 @@ Qatar's prime minister, Sheikh Mohammed bin Abdulrahman Al Thani, "categorically
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Jon Gambrell
 **Publication date:** 2026-03-05
-**Access date:** 2026-05-17
 **Title:** Regional chaos sown by Iran's attacks is key to its strategy
 **URL:** https://apnews.com/article/iran-strategy-israel-drones-us-war-gulf-36a51df550a4bd766f8c83b8d8c0f701
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -265,7 +265,3 @@ Together, the two studies suggest governments may be planning for coastal and cl
 **Access date:** 2026-03-04
 **Title:** Study says millions more are exposed to rising seas than thought
 **URL:** https://apnews.com/article/sea-level-rise-climate-change-flooding-warming-59bb59d2fe839224a10bd28d604b5d95
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

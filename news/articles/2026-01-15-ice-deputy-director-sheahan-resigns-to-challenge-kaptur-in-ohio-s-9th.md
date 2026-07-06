@@ -1,6 +1,5 @@
 ---
 headline: ICE deputy director Sheahan resigns to challenge Kaptur in Ohio's 9th
-slug: 2026-01-15-ice-deputy-director-sheahan-resigns-to-challenge-kaptur-in-ohio-9th
 publish_date: '2026-01-15'
 lede: Madison Sheahan, 28, resigned Thursday as deputy director of U.S. Immigration and Customs Enforcement to seek the Republican nomination for Ohio's 9th Congressional District, targeting Democratic incumbent Rep. Marcy Kaptur, 79, the longest-serving woman in Congress. Sheahan, who was appointed to the ICE post by Homeland Security Secretary Kristi Noem in March and previously served as secretary of the Louisiana Department of Wildlife and Fisheries, described herself in a campaign launch video as "a Trump conservative" and said she had stopped more illegal immigration in less than a year than Kaptur had in 43 years in Washington.
 nut_graf: The 9th District race is emerging as one of the more closely watched House contests of the 2026 midterm cycle. A bipartisan redistricting map approved last year gave Republicans a nearly 11-point registration advantage over Democrats in the Lake Erie-hugging district centered on Toledo — up from roughly 9.5 points in 2024, when Kaptur defeated Republican state Rep. Derek Merrin by fewer than a percentage point in a result the Associated Press did not call until more than two weeks after election day.
@@ -17,43 +16,40 @@ primary_themes:
 - Ohio politics
 - Republican primary
 topic_tags:
-  - "crime, law and justice"
-  - election
-  - government
-  - "government policy"
-  - "law enforcement"
-  - politics
+- election
+- politics
+- government
 storyline_nexus:
-  - immigration-enforcement
-geographic_location: Toledo, Ohio, United States
+- 2026-midterm-elections
+geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.85
 - value: accountability_of_power
-  intensity: 0.55
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:00:00Z'
+  intensity: 0.6
+- value: informed_citizenship
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:16:20Z'
 source_cluster_id: cluster_ap_2026-01-16_election-2026-congress-ohio-ice-official
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 15
   hedges:
-    appears: 0
-    alleged: 0
     attributed: 12
     reported: 0
     contested: 0
     confirmed: 3
+    alleged: 0
+    appears: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 0
-    single_source: 15
     two_independent: 0
+    primary_plus_secondary: 0
+    single_source: 15
+    one_originating_plus_primary_document: 0
 sources:
   count: 1
   outlets:
@@ -70,6 +66,14 @@ figures_aggregate:
 cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- Madison Sheahan, 28, resigned Thursday as deputy director of U.S. Immigration and Customs Enforcement to seek the Republican nomination for Ohio's 9th Congressional District, targeting Democratic i...
+- The 9th District race is emerging as one of the more closely watched House contests of the 2026 midterm cycle. A bipartisan redistricting map appro...
+- Madison Sheahan, the deputy director of U.S. Immigration and Customs Enforcement, resigned Thursday to run for Ohio's 9th Congressional District, e...
+- Sheahan, 28, a native of Curtice, Ohio — a small community on the Lake Erie shore — launched her campaign with a video in which she described herse...
 
 Madison Sheahan, 28, resigned Thursday as deputy director of U.S. Immigration and Customs Enforcement to seek the Republican nomination for Ohio's 9th Congressional District, targeting Democratic incumbent Rep. Marcy Kaptur, 79, the longest-serving woman in Congress. Sheahan, who was appointed to the ICE post by Homeland Security Secretary Kristi Noem in March and previously served as secretary of the Louisiana Department of Wildlife and Fisheries, described herself in a campaign launch video as "a Trump conservative" and said she had stopped more illegal immigration in less than a year than Kaptur had in 43 years in Washington.
 
@@ -103,136 +107,166 @@ Trump has made candidate recruitment and congressional map-drawing central to hi
 
 ## Atomic claims
 
-### c_001 — confirmed, single source
-**Subject entities:** Madison Sheahan; U.S. Immigration and Customs Enforcement
-**Predicate:** resigned_from
-**Object:** Deputy Director, ICE (position)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Madison Sheahan; U.S. Immigration and Customs Enforcement
+- **Predicate:** resigned_from
+- **Object:** Deputy Director, ICE (position)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Madison Sheahan resigned as ICE Deputy Director on January 15, 2026.
 
-### c_002 — confirmed, single source
-**Subject entities:** Madison Sheahan
-**Predicate:** announced_campaign_for
-**Object:** Ohio's 9th Congressional District (political_office)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Madison Sheahan
+- **Predicate:** announced_campaign_for
+- **Object:** Ohio's 9th Congressional District (political_office)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Sheahan announced a campaign for Ohio's 9th Congressional District.
 
-### c_003 — attributed, single source
-**Subject entities:** Madison Sheahan
-**Predicate:** described_self_as
-**Object:** a Trump conservative (self_characterization)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Madison Sheahan
+- **Predicate:** described_self_as
+- **Object:** a Trump conservative (self_characterization)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Sheahan labeled herself 'a Trump conservative' in her campaign launch video.
 
-### c_004 — attributed, single source
-**Subject entities:** Madison Sheahan; Marcy Kaptur
-**Predicate:** claimed
-**Object:** immigration enforcement comparison (campaign_assertion)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Madison Sheahan; Marcy Kaptur
+- **Predicate:** claimed
+- **Object:** immigration enforcement comparison (campaign_assertion)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Sheahan said she had stopped more illegal immigration in less than a year than Kaptur had in 43 years in Washington.
 
-### c_005 — attributed, single source
-**Subject entities:** Madison Sheahan
-**Predicate:** is
-**Object:** 28, native of Curtice, Ohio (biographical)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Madison Sheahan
+- **Predicate:** is
+- **Object:** 28, native of Curtice, Ohio (biographical)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Sheahan is 28 years old and a native of Curtice, Ohio, near the shores of Lake Erie.
 
-### c_006 — attributed, single source
-**Subject entities:** Madison Sheahan; Kristi Noem
-**Predicate:** appointed
-**Object:** ICE Deputy Director (position)
-**Temporal:** 2025-03
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Madison Sheahan; Kristi Noem
+- **Predicate:** appointed
+- **Object:** ICE Deputy Director (position)
+- **Temporal:** 2025-03
+- **Sources:** src_001
 
 > Sheahan was appointed to the ICE position by Homeland Security Secretary Kristi Noem in March.
 
-### c_007 — attributed, single source
-**Subject entities:** Madison Sheahan
-**Predicate:** served_as
-**Object:** secretary, Louisiana Department of Wildlife and Fisheries (position)
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Madison Sheahan
+- **Predicate:** served_as
+- **Object:** secretary, Louisiana Department of Wildlife and Fisheries (position)
+- **Sources:** src_001
 
 > Sheahan previously served as secretary of the Louisiana Department of Wildlife and Fisheries.
 
-### c_008 — attributed, single source
-**Subject entities:** Madison Sheahan; Kristi Noem
-**Predicate:** served_as
-**Object:** aide to Noem as South Dakota governor (position)
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Madison Sheahan; Kristi Noem
+- **Predicate:** served_as
+- **Object:** aide to Noem as South Dakota governor (position)
+- **Sources:** src_001
 
 > Sheahan previously served as Noem's aide when Noem was governor of South Dakota.
 
-### c_009 — attributed, single source
-**Subject entities:** Marcy Kaptur
-**Predicate:** is
-**Object:** 79, longest-serving woman in Congress, 43 years (biographical)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Marcy Kaptur
+- **Predicate:** is
+- **Object:** 79, longest-serving woman in Congress, 43 years (biographical)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Rep. Marcy Kaptur is 79 years old and the longest-serving woman in Congress, with 43 years in Washington.
 
-### c_010 — attributed, single source
-**Subject entities:** Ohio's 9th Congressional District
-**Predicate:** reflects
-**Object:** nearly 11-point Republican registration advantage (electoral_statistic)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ohio's 9th Congressional District
+- **Predicate:** reflects
+- **Object:** nearly 11-point Republican registration advantage (electoral_statistic)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > A bipartisan redistricting map approved in 2025 gave Republicans a nearly 11-point registration advantage over Democrats in Ohio's 9th District.
 
-### c_011 — confirmed, single source
-**Subject entities:** Marcy Kaptur; Derek Merrin
-**Predicate:** defeated
-**Object:** 48.3% to 47.6% (election_result)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_011
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Marcy Kaptur; Derek Merrin
+- **Predicate:** defeated
+- **Object:** 48.3% to 47.6% (election_result)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > In 2024, Kaptur defeated Republican state Rep. Derek Merrin 48.3% to 47.6%; the AP did not call the race until official results were entered more than two weeks after the election.
 
-### c_012 — attributed, single source
-**Subject entities:** Madison Sheahan
-**Predicate:** is
-**Object:** seventh Republican to announce (campaign_status)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Madison Sheahan
+- **Predicate:** is
+- **Object:** seventh Republican to announce (campaign_status)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Sheahan is the seventh Republican to announce a bid for the GOP nomination in Ohio's 9th District.
 
-### c_013 — attributed, single source
-**Subject entities:** Rob McColley; Vivek Ramaswamy
-**Predicate:** named_running_mate
-**Object:** Republican gubernatorial ticket (electoral_event)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Rob McColley; Vivek Ramaswamy
+- **Predicate:** named_running_mate
+- **Object:** Republican gubernatorial ticket (electoral_event)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Ohio Senate President Rob McColley was removed as a contender for the 9th District when he was named Republican gubernatorial candidate Vivek Ramaswamy's running mate.
 
-### c_014 — attributed, single source
-**Subject entities:** David Gedert
-**Predicate:** running_as
-**Object:** Libertarian, Ohio 9th District (campaign)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** David Gedert
+- **Predicate:** running_as
+- **Object:** Libertarian, Ohio 9th District (campaign)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > David Gedert, a Toledo-area entrepreneur who performs as drag queen Sugar Vermonte, is running in the 9th District as a Libertarian.
 
-### c_015 — attributed, single source
-**Subject entities:** Marcy Kaptur
-**Predicate:** stated
-**Object:** Kaptur campaign statement on affordability (campaign_statement)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Marcy Kaptur
+- **Predicate:** stated
+- **Object:** Kaptur campaign statement on affordability (campaign_statement)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > The Kaptur campaign said in a statement that voters want 'a leader focused on affordability and real results.'
 
@@ -241,10 +275,5 @@ Trump has made candidate recruitment and congressional map-drawing central to hi
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Julie Carr Smyth
 **Publication date:** 2026-01-15
-**Access date:** 2026-01-15
 **Title:** A top ICE official has quit her job to run for Congress in Ohio
 **URL:** https://apnews.com/article/election-2026-congress-ohio-ice-official-e5c059a6a44dfd27fd35fd70d42c538b
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -14,46 +14,44 @@ primary_themes:
 - human rights
 - deportation
 topic_tags:
-  - "crime, law and justice"
-  - "human interest"
-  - "human migration"
-  - "international relations"
-  - judiciary
-  - "law enforcement"
-storyline_nexus: []
-geographic_location: United States; Xinjiang, China
+- human migration
+- civil rights
+- political dissent
+- prosecution
+- international relations
+storyline_nexus:
+- us-immigration-enforcement
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
-  intensity: 0.95
-- value: truthfulness
   intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.85
-- value: informed_citizenship
-  intensity: 0.88
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+  intensity: 0.6
+- value: equality_fairness
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:21:14Z'
 source_cluster_id: cluster_ap_2026-01-25_guan-heng-china-deportation-defector-asy
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 10
   hedges:
-    appears: 0
     alleged: 0
-    attributed: 1
+    confirmed: 2
+    appears: 0
     reported: 7
     contested: 0
-    confirmed: 2
+    attributed: 1
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 3
     single_source: 7
+    primary_plus_secondary: 0
+    primary_document: 3
     two_independent: 0
+    one_originating_plus_primary_document: 0
 sources:
   count: 1
   outlets:
@@ -67,41 +65,16 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-04-16-venezuelan-doctor-detained-at-texas-airport-before-asylum-interview
-  relation: related
-  strength: 0.8449
-  confidence: medium
-- slug: 2026-04-15-france-presses-dhs-to-free-85-year-old-widow-of-u-s-army-veteran-from-ice-custod
-  relation: related
-  strength: 0.7819
-  confidence: medium
-- slug: 2026-04-17-french-widow-released-from-ice-custody-after-16-days
-  relation: related
-  strength: 0.7811
-  confidence: medium
-- slug: 2026-04-16-massachusetts-5m-immigrant-legal-aid-program-at-capacity-as-removal-cases-top-12
-  relation: related
-  strength: 0.7767
-  confidence: medium
-- slug: 2026-01-13-nyc-council-employee-arrested-at-asylum-check-in-sparking-protests-and-legal-fig
-  relation: related
-  strength: 0.8441
-  confidence: medium
-- slug: 2026-04-15-guards-accused-of-beating-detainees-at-florida-s-alligator-alcatraz
-  relation: related
-  strength: 0.7663
-  confidence: medium
-- slug: 2026-04-18-85-year-old-french-widow-returns-to-france-after-16-day-ice-detention
-  relation: related
-  strength: 0.7623
-  confidence: medium
-- slug: 2026-01-13-detainee-drops-alligator-alcatraz-lawsuit-agrees-to-deportation-to-chile
-  relation: related
-  strength: 0.8303
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- Guan Heng, a Chinese asylum seeker who documented detention facilities in Xinjiang, faces a court hearing Monday to determine whether he will remain in the United States or be deported.
+- Guan's case reflects a broader shift in U.
+- Guan Heng said he fears what awaits him if deported. "I would be prosecuted, I would be jailed, I would be tortured. All of that could happen," the 38-year-old told The Associated Press from his detention cell..
 
 Guan Heng, a Chinese asylum seeker who documented detention facilities in Xinjiang, faces a court hearing Monday to determine whether he will remain in the United States or be deported. The 38-year-old has been held in Broome County Correctional Facility in New York since August 2025, when immigration agents detained him during an enforcement operation.
 
@@ -151,93 +124,113 @@ If released, Guan said he intends to stay in the country and contribute. "I woul
 
 ## Atomic claims
 
-### c_001 — reported, single source
-**Subject entities:** Guan Heng
-**Predicate:** documented
-**Object:** detention facilities in Xinjiang (location)
-**Temporal:** 2020
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Guan Heng
+- **Predicate:** documented
+- **Object:** detention facilities in Xinjiang (location)
+- **Temporal:** 2020
+- **Sources:** src_001
 
 > Guan Heng filmed detention facilities in Xinjiang in 2020.
 
-### c_002 — confirmed, primary document
-**Subject entities:** Guan Heng; U.S. Immigration and Customs Enforcement
-**Predicate:** detained
-**Object:** Broome County Correctional Facility (location)
-**Temporal:** 2025-08
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Guan Heng; U.S. Immigration and Customs Enforcement
+- **Predicate:** detained
+- **Object:** Broome County Correctional Facility (location)
+- **Temporal:** 2025-08
+- **Sources:** src_001
 
 > Guan Heng was detained in August 2025 during an immigration enforcement operation.
 
-### c_003 — attributed, primary document
-**Subject entities:** Guan Heng
-**Predicate:** appeal_hearing
-**Object:** to remain in United States (legal_action)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Guan Heng
+- **Predicate:** appeal_hearing
+- **Object:** to remain in United States (legal_action)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > A judge is scheduled to consider Guan's appeal on Monday.
 
-### c_004 — reported, single source
-**Subject entities:** U.S. Department of Homeland Security
-**Predicate:** sought_deportation
-**Object:** Uganda (location)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Department of Homeland Security
+- **Predicate:** sought_deportation
+- **Object:** Uganda (location)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > The Department of Homeland Security initially sought to deport Guan Heng to Uganda.
 
-### c_005 — reported, single source
-**Subject entities:** U.S. Department of Homeland Security
-**Predicate:** dropped_deportation_plan
-**Object:** Uganda deportation (policy_decision)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Department of Homeland Security
+- **Predicate:** dropped_deportation_plan
+- **Object:** Uganda deportation (policy_decision)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > DHS dropped plans to deport Guan Heng to Uganda in December 2025 after public concerns.
 
-### c_006 — reported, single source
-**Subject entities:** Guan Heng
-**Predicate:** traveled_to_US
-**Object:** Florida (location)
-**Temporal:** 2021-10
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Guan Heng
+- **Predicate:** traveled_to_US
+- **Object:** Florida (location)
+- **Temporal:** 2021-10
+- **Sources:** src_001
 
 > Guan Heng sailed from the Bahamas to Florida in October 2021 to seek asylum.
 
-### c_007 — reported, single source
-**Subject entities:** Guan Heng
-**Predicate:** published
-**Object:** video footage (media)
-**Temporal:** 2021
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Guan Heng
+- **Predicate:** published
+- **Object:** video footage (media)
+- **Temporal:** 2021
+- **Sources:** src_001
 
 > Guan Heng released video footage documenting detention facilities on YouTube.
 
-### c_008 — reported, single source
-**Subject entities:** U.S. Department of Homeland Security
-**Predicate:** ordered_deported
-**Object:** 170,626 (count)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Department of Homeland Security
+- **Predicate:** ordered_deported
+- **Object:** 170,626 (count)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > 170,626 asylum seekers were ordered deported in 2025.
 
-### c_009 — reported, single source
-**Subject entities:** U.S. Department of Homeland Security
-**Predicate:** abandoned_applications
-**Object:** 31% vs 11% (percentage)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Department of Homeland Security
+- **Predicate:** abandoned_applications
+- **Object:** 31% vs 11% (percentage)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > 31 percent of asylum applications were abandoned in 2025, compared to 11 percent between 2010 and 2024.
 
-### c_010 — confirmed, primary document
-**Subject entities:** Raja Krishnamoorthi; Kristi Noem
-**Predicate:** urged_action
-**Object:** release Guan Heng (political_action)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Raja Krishnamoorthi; Kristi Noem
+- **Predicate:** urged_action
+- **Object:** release Guan Heng (political_action)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > Rep. Raja Krishnamoorthi urged Homeland Security Secretary Kristi Noem to release Guan Heng and approve his asylum request.
 
@@ -246,10 +239,5 @@ If released, Guan said he intends to stay in the country and contribute. "I woul
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Didi Tang
 **Publication date:** 2026-01-24
-**Access date:** 2026-01-24
 **Title:** Chinese asylum seeker who exposed rights abuses fights to stay in US
 **URL:** https://apnews.com/article/guan-heng-china-deportation-defector-asylum-trump-a63ab1448c2d719523c75269095f3c0a
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

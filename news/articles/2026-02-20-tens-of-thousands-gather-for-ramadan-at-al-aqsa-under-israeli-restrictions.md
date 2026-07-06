@@ -26,7 +26,7 @@ topic_tags:
   - "human interest"
   - "international relations"
 storyline_nexus:
-  - gaza-conflict
+- gaza-israel-war
 geographic_location: Jerusalem, West Bank, Gaza Strip, Israel
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -124,8 +124,6 @@ Mohammad Kollab, from Khan Younis, said "Despite the displacement, the pain and 
 Israel's military offensive has killed more than 72,000 Palestinians according to Gaza's Health Ministry, and caused widespread destruction and displacement across the territory. The offensive was launched after Hamas-led militants killed some 1,200 people, mostly civilians, and took 251 hostages in the initial October 7, 2023 attack.
 
 An October 10 U.S.-brokered ceasefire deal brought an end to major military operations and resulted in the release of remaining hostages. However, Palestinians, including civilians, continue to be killed in near-daily strikes that Israel says are aimed at militants who threaten or attack its forces.
-
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
 
 ## Atomic claims
 
@@ -383,7 +381,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-05-18
 **Title:** Muslims gather for first Friday prayers of Ramadan at Al-Aqsa Mosque in Jerusalem
 **URL:** https://apnews.com/article/mideast-wars-ramadan-02-20-2026-4682bd12bdd173d6153e71bacf7ba807
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

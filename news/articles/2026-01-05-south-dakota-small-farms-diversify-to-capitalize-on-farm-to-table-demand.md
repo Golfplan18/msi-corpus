@@ -21,42 +21,52 @@ primary_themes:
 - rural economic development
 - food supply chain
 - agritourism
-topic_tags: []
-storyline_nexus: []
-geographic_location: South Dakota, United States
+topic_tags:
+- agriculture
+- economy
+- communities
+- sustainability
+storyline_nexus:
+- trump-climate-energy-rollbacks
+geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship
-  intensity: 0.75
-- value: accountability_of_power
-  intensity: 0.25
-framework_version: 1.1.0
-generation_timestamp: '2026-05-16T18:07:26Z'
+  intensity: 0.6
+- value: equality_fairness
+  intensity: 0.3
+- value: truthfulness
+  intensity: 0.3
+framework_version: 1.3.0
+generation_timestamp: '2026-05-22T23:37:14Z'
 source_cluster_id: cluster_ap_2026-01-06_agriculture-south-dakota-rick-grosek-ang
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 10
   hedges:
+    confirmed: 1
     appears: 0
     alleged: 0
-    attributed: 9
-    reported: 0
     contested: 0
-    confirmed: 1
+    reported: 0
+    attributed: 9
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 0
     single_source: 10
     two_independent: 0
+    primary_document: 0
+    primary_plus_secondary: 0
+    one_originating_plus_primary_document: 0
 sources:
-  count: 1
+  count: 3
   outlets:
   - Associated Press
+  - dakotanewsnow.com
+  - kotatv.com
   outlet_classes:
+  - national_daily
   - wire
   highest_reliability_tier: 1
   has_originating: true
@@ -72,6 +82,13 @@ image:
 cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- Small farms across South Dakota are capitalizing on rising consumer demand for locally grown food by building diversified operations that combine produce sales with agritourism, specialty events, and direct-to-consumer marketing — even as the state's…
+- At Bear Butte Gardens, an 80-acre certified organic farm outside Sturgis, co-owners Michelle and Rick Grosek have pursued a deliberate strategy of revenue diversification since the farm began operating in 2010.
+- Article details provided in full text.
 
 Small farms across South Dakota are capitalizing on rising consumer demand for locally grown food by building diversified operations that combine produce sales with agritourism, specialty events, and direct-to-consumer marketing — even as the state's count of USDA-certified organic producers has dropped sharply since 2022.
 
@@ -119,93 +136,113 @@ Jackson said local producers also protect the environment and provide an economi
 
 ## Atomic claims
 
-### c_001 — confirmed, single source
-**Subject entities:** Bear Butte Gardens
-**Predicate:** is_located_and_established
-**Object:** near Sturgis, South Dakota; operating since 2010 (description)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Bear Butte Gardens
+- **Predicate:** is_located_and_established
+- **Object:** near Sturgis, South Dakota; operating since 2010 (description)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > Bear Butte Gardens is an 80-acre, organically certified farm near Sturgis, South Dakota, that began operating in 2010.
 
-### c_002 — attributed, single source
-**Subject entities:** Michelle Grosek; Bear Butte Gardens
-**Predicate:** attributed_sales_decline
-**Object:** weak national economy and reduced Canadian tourism (attributed_cause)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Michelle Grosek; Bear Butte Gardens
+- **Predicate:** attributed_sales_decline
+- **Object:** weak national economy and reduced Canadian tourism (attributed_cause)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Michelle Grosek said 2025 was a slow sales year for Bear Butte Gardens, attributing it to a weak national economy and reduced tourism, especially from Canada.
 
-### c_003 — attributed, single source
-**Subject entities:** South Dakota; U.S. Department of Agriculture
-**Predicate:** certified_producers_count
-**Object:** 124 in 2022; 87 as of December 2025 (count)
-**Temporal:** 2022-2025
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** South Dakota; U.S. Department of Agriculture
+- **Predicate:** certified_producers_count
+- **Object:** 124 in 2022; 87 as of December 2025 (count)
+- **Temporal:** 2022-2025
+- **Sources:** src_001
 
 > South Dakota had 124 USDA-certified organic producers in 2022, declining to 87 as of December 2025.
 
-### c_004 — attributed, single source
-**Subject entities:** South Dakota; U.S. Department of Agriculture
-**Predicate:** generated_organic_sales
-**Object:** $14 million (monetary)
-**Temporal:** 2022
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** South Dakota; U.S. Department of Agriculture
+- **Predicate:** generated_organic_sales
+- **Object:** $14 million (monetary)
+- **Temporal:** 2022
+- **Sources:** src_001
 
 > South Dakota generated $14 million in sales of organic goods in 2022, the last year for which the USDA published a national agricultural survey.
 
-### c_005 — attributed, single source
-**Subject entities:** South Dakota; Angela Jackson
-**Predicate:** ranks_nationally
-**Object:** bottom third (ranking)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** South Dakota; Angela Jackson
+- **Predicate:** ranks_nationally
+- **Object:** bottom third (ranking)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > South Dakota ranks in the bottom third of states nationally for USDA-certified organic farms and livestock operations, and the number of certified producers has fallen in recent years.
 
-### c_006 — attributed, single source
-**Subject entities:** Angela Jackson; South Dakota Specialty Producers Association
-**Predicate:** stated_demand_rising
-**Object:** demand going up, especially among young families (attributed_statement)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Angela Jackson; South Dakota Specialty Producers Association
+- **Predicate:** stated_demand_rising
+- **Object:** demand going up, especially among young families (attributed_statement)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > Angela Jackson, an organic transition advisor with the South Dakota Specialty Producers Association, said demand for locally grown products is rising, particularly among young families.
 
-### c_007 — attributed, single source
-**Subject entities:** Angela Jackson
-**Predicate:** attributed_lapsed_certifications
-**Object:** cost and regulatory complexity (attributed_cause)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Angela Jackson
+- **Predicate:** attributed_lapsed_certifications
+- **Object:** cost and regulatory complexity (attributed_cause)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > Some South Dakota organic producers allowed certifications to lapse because the process became too expensive or involved too much regulatory complexity.
 
-### c_008 — attributed, single source
-**Subject entities:** Odessa Farms; Meghan Volk; Joe Volk
-**Predicate:** production_volume
-**Object:** approximately 5,500 meat chickens; doubled each recent year (count)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Odessa Farms; Meghan Volk; Joe Volk
+- **Predicate:** production_volume
+- **Object:** approximately 5,500 meat chickens; doubled each recent year (count)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Odessa Farms in Butte County, run by Meghan and Joe Volk of Nisland, has doubled production in each of the past few years and will raise and process about 5,500 meat chickens in the current year.
 
-### c_009 — attributed, single source
-**Subject entities:** Blake Pulse; South Dakota State University
-**Predicate:** identified_supply_chain_barrier
-**Object:** low population density and geographic spread (attributed_barrier)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Blake Pulse; South Dakota State University
+- **Predicate:** identified_supply_chain_barrier
+- **Object:** low population density and geographic spread (attributed_barrier)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > Blake Pulse, a researcher and doctoral candidate at South Dakota State University in Brookings, said the state's low population density and geographic spread make it harder for small producers to reach consumers.
 
-### c_010 — attributed, single source
-**Subject entities:** Angela Jackson
-**Predicate:** stated_local_production_benefits
-**Object:** environmental protection and rural economic boost (attributed_statement)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Angela Jackson
+- **Predicate:** stated_local_production_benefits
+- **Object:** environmental protection and rural economic boost (attributed_statement)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > Jackson said local producers protect the environment and provide an economic boost to rural communities not achieved when vegetables and other products are imported from other states and countries.
 
@@ -214,10 +251,13 @@ Jackson said local producers also protect the environment and provide an economi
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Bart Pfankuch / South Dakota News Watch
 **Publication date:** 2026-01-05
-**Access date:** 2026-01-05
 **Title:** Small farms growing stronger roots in South Dakota farm-to-table movement
 **URL:** https://apnews.com/article/agriculture-south-dakota-rick-grosek-angela-jackson-u-s-department-of-agriculture-aea9b3d74738141d144a429c4a33d970
 
----
+### src_002 — dakotanewsnow.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-05
+**URL:** https://www.dakotanewsnow.com/2026/01/05/small-local-farms-growing-stronger-roots-south-dakota/
 
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*
+### src_003 — kotatv.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-06
+**URL:** https://www.kotatv.com/2026/01/06/small-local-farms-growing-stronger-roots-south-dakota/

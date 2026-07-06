@@ -32,7 +32,7 @@ topic_tags:
   - "economy, business and finance"
   - "construction and property"
 storyline_nexus:
-  - russia-ukraine-war
+- ukraine-war-peace-negotiations
 geographic_location: Russia, Ukraine
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -255,7 +255,3 @@ President Volodymyr Zelenskyy traveled to Germany, Norway, and Italy earlier thi
 **Access date:** 2026-05-17
 **Title:** Russian attacks on Ukraine kill 1 and wound dozens; Ukraine targets Russian industrial areas
 **URL:** https://apnews.com/article/russia-ukraine-war-drone-attacks-91b94c473cfe21ba90a8f25764fae291
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

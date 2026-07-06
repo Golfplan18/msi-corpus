@@ -204,7 +204,3 @@ At least one of the cases Mellone is pursuing had been rejected in lower courts 
 **Access date:** 2026-04-16
 **Title:** Familias estadounidenses impugnan ley italiana que limita ciudadanía por ascendencia
 **URL:** https://apnews.com/article/italia-ley-de-ciudadania-6a566cfc959b0b749b5492f62b5db160
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

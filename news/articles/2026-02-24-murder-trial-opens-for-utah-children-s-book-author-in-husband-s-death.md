@@ -17,7 +17,8 @@ topic_tags:
   - "crime, law and justice"
   - prosecution
   - crime
-storyline_nexus: []
+storyline_nexus:
+- congressional-ethics-misconduct
 geographic_location: Park City, Utah, United States
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -142,160 +143,192 @@ The defense presented key physical evidence: no fentanyl was found in Richins' h
 
 The trial is scheduled to run through March 26. The case has drawn substantial public attention, with a few dozen people hoping to watch the proceedings camping outside the courthouse in lawn chairs starting at 4 a.m., more than four and a half hours before the trial began.
 
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology.*
-
 ## Atomic claims
 
-### c_001 — attributed, primary document
-**Subject entities:** Kouri Richins
-**Predicate:** faces_felony_charges
-**Object:** aggravated murder, attempted murder, and other felonies (criminal_charge)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Kouri Richins
+- **Predicate:** faces_felony_charges
+- **Object:** aggravated murder, attempted murder, and other felonies (criminal_charge)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > Kouri Richins, 35, faces felony charges including aggravated murder and attempted murder in connection with her husband Eric's death in March 2022.
 
-### c_002 — alleged, primary document
-**Subject entities:** Kouri Richins; Eric Richins
-**Predicate:** alleged_poisoning
-**Object:** five times lethal dose fentanyl in cocktail (method_of_death)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_002
+- **Hedge:** alleged
+- **Corroboration:** primary_document
+- **Subject entities:** Kouri Richins; Eric Richins
+- **Predicate:** alleged_poisoning
+- **Object:** five times lethal dose fentanyl in cocktail (method_of_death)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > Prosecutors allege Kouri Richins slipped five times the lethal dose of fentanyl into a cocktail that her husband Eric drank.
 
-### c_003 — alleged, primary document
-**Subject entities:** Kouri Richins; Eric Richins
-**Predicate:** alleged_poisoning_attempt
-**Object:** fentanyl-laced sandwich, hives, loss of consciousness (poisoning_attempt)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_003
+- **Hedge:** alleged
+- **Corroboration:** primary_document
+- **Subject entities:** Kouri Richins; Eric Richins
+- **Predicate:** alleged_poisoning_attempt
+- **Object:** fentanyl-laced sandwich, hives, loss of consciousness (poisoning_attempt)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > Prosecutors allege Kouri Richins attempted to poison her husband on Valentine's Day with a fentanyl-laced sandwich that caused him to break out in hives and lose consciousness.
 
-### c_004 — reported, primary document
-**Subject entities:** Kouri Richins
-**Predicate:** had_financial_motive
-**Object:** $4.5 million in debt, expected $4 million inheritance (financial_information)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Kouri Richins
+- **Predicate:** had_financial_motive
+- **Object:** $4.5 million in debt, expected $4 million inheritance (financial_information)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > Kouri Richins was $4.5 million in debt and believed she would inherit her husband's estate worth more than $4 million.
 
-### c_005 — reported, primary document
-**Subject entities:** Kouri Richins; Eric Richins
-**Predicate:** opened_insurance_without_consent
-**Object:** nearly $2 million in life insurance policies (insurance_information)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Kouri Richins; Eric Richins
+- **Predicate:** opened_insurance_without_consent
+- **Object:** nearly $2 million in life insurance policies (insurance_information)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > Kouri Richins opened life insurance policies on her husband Eric totaling nearly $2 million without his knowledge years before his death.
 
-### c_006 — reported, primary document
-**Subject entities:** Kouri Richins; Robert Josh Grossman
-**Predicate:** exchanged_messages_about_affair_plans
-**Object:** dream of leaving husband, gaining millions, marrying Grossman (communication)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Kouri Richins; Robert Josh Grossman
+- **Predicate:** exchanged_messages_about_affair_plans
+- **Object:** dream of leaving husband, gaining millions, marrying Grossman (communication)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > Text messages showed Kouri Richins discussed with Robert Josh Grossman her dream of leaving her husband, gaining millions in a divorce, and marrying Grossman.
 
-### c_007 — reported, primary document
-**Subject entities:** Kouri Richins
-**Predicate:** made_internet_searches
-**Object:** luxury prisons, lie detector test procedures (digital_evidence)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Kouri Richins
+- **Predicate:** made_internet_searches
+- **Object:** luxury prisons, lie detector test procedures (digital_evidence)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > Kouri Richins' internet search history included searches for 'luxury prisons for the rich America' and 'Can cops force you to do a lie detector test?'
 
-### c_008 — confirmed, primary document
-**Subject entities:** Kouri Richins
-**Predicate:** self_published_book
-**Object:** 'Are You with Me?' children's book about grief (publication)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Kouri Richins
+- **Predicate:** self_published_book
+- **Object:** 'Are You with Me?' children's book about grief (publication)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > Kouri Richins self-published a children's book titled 'Are You with Me?' about a father with angel wings watching over his son after passing away.
 
-### c_009 — attributed, primary document
-**Subject entities:** Kathryn Nester; Eric Richins
-**Predicate:** presented_alternative_theory
-**Object:** accidental overdose from painkiller addiction (legal_argument)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Kathryn Nester; Eric Richins
+- **Predicate:** presented_alternative_theory
+- **Object:** accidental overdose from painkiller addiction (legal_argument)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > Defense attorney Kathryn Nester argued that Eric Richins had Lyme disease and was addicted to painkillers, suggesting he may have overdosed.
 
-### c_010 — reported, primary document
-**Subject entities:** Kouri Richins; Eric Richins
-**Predicate:** stated_no_drug_history
-**Object:** husband had no history of illicit drug use (statement_to_police)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Kouri Richins; Eric Richins
+- **Predicate:** stated_no_drug_history
+- **Object:** husband had no history of illicit drug use (statement_to_police)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > Body camera footage showed Kouri Richins told police her husband had no history of illicit drug use.
 
-### c_011 — alleged, primary document
-**Subject entities:** Carmen Lauber; Kouri Richins
-**Predicate:** alleged_drug_sales
-**Object:** multiple sales of fentanyl (accusation)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_011
+- **Hedge:** alleged
+- **Corroboration:** primary_document
+- **Subject entities:** Carmen Lauber; Kouri Richins
+- **Predicate:** alleged_drug_sales
+- **Object:** multiple sales of fentanyl (accusation)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > The family's housekeeper Carmen Lauber claims to have sold fentanyl to Kouri Richins on multiple occasions.
 
-### c_012 — attributed, primary document
-**Subject entities:** defense; Carmen Lauber
-**Predicate:** challenged_witness_credibility
-**Object:** witness motivated by desire for legal immunity (legal_argument)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** defense; Carmen Lauber
+- **Predicate:** challenged_witness_credibility
+- **Object:** witness motivated by desire for legal immunity (legal_argument)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > Defense attorneys argued Carmen Lauber was motivated to lie for legal protection.
 
-### c_013 — reported, primary document
-**Subject entities:** Kouri Richins
-**Predicate:** negative_physical_evidence
-**Object:** no fentanyl found in residence (evidence)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_013
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Kouri Richins
+- **Predicate:** negative_physical_evidence
+- **Object:** no fentanyl found in residence (evidence)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > No fentanyl was found in Richins' house.
 
-### c_014 — reported, primary document
-**Subject entities:** Eric Richins
-**Predicate:** had_access_to_opioids
-**Object:** empty pill bottle, regular gummy use (evidence)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_014
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Eric Richins
+- **Predicate:** had_access_to_opioids
+- **Object:** empty pill bottle, regular gummy use (evidence)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > An empty pain pill bottle sat on Eric Richins' bedside table the night of his death and he was known to use bags of gummies regularly.
 
-### c_015 — reported, primary document
-**Subject entities:** Eric Richins; Kouri Richins
-**Predicate:** requested_opioids
-**Object:** asked wife to procure opioids (statement)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_015
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Eric Richins; Kouri Richins
+- **Predicate:** requested_opioids
+- **Object:** asked wife to procure opioids (statement)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > Eric Richins had asked his wife to procure opioids for him.
 
-### c_016 — confirmed, primary document
-**Subject entities:** trial
-**Predicate:** scheduled_duration
-**Object:** through March 26, 2026 (scheduling_information)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_016
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** trial
+- **Predicate:** scheduled_duration
+- **Object:** through March 26, 2026 (scheduling_information)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > The trial is scheduled to run through March 26.
 
-### c_017 — reported, primary document
-**Subject entities:** Kouri Richins
-**Predicate:** faces_multiple_charges
-**Object:** nearly three dozen counts including forgery, mortgage fraud, insurance fraud (criminal_charge)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_017
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Kouri Richins
+- **Predicate:** faces_multiple_charges
+- **Object:** nearly three dozen counts including forgery, mortgage fraud, insurance fraud (criminal_charge)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > Kouri Richins faces nearly three dozen counts including aggravated murder, attempted murder, forgery, mortgage fraud and insurance fraud.
 
@@ -307,7 +340,3 @@ The trial is scheduled to run through March 26. The case has drawn substantial p
 **Access date:** 2026-02-24
 **Title:** Prosecutors: Utah children's author killed husband for his money
 **URL:** https://apnews.com/article/kouri-richins-murder-trial-opening-statements-55949a453ff23ac67f776058c0718fcd
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

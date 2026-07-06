@@ -16,45 +16,43 @@ primary_themes:
 - racial justice
 - American history
 topic_tags:
-  - "civil rights"
-  - "crime, law and justice"
-  - government
-  - "government policy"
-  - politics
-  - weather
+- civil rights
+- discrimination
+- fundamental rights
+- people
 storyline_nexus:
-  - monetary-policy-2026
-  - us-administration-2026
-  - trump-tariff-policy
-geographic_location: Montgomery, Alabama, United States
+- lgbtq-rights-restrictions
+geographic_location: United States
 floor_values_engaged:
-- value: human_life_and_dignity
+- value: equality_fairness
   intensity: 0.9
-- value: informed_citizenship
-  intensity: 0.85
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:00:40Z'
+- value: accountability_of_power
+  intensity: 0.6
+- value: human_life_and_dignity
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:15:59Z'
 source_cluster_id: cluster_ap_2026-01-14_claudette-colvin-died-a447e8e70f0decf246
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 14
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 3
-    reported: 2
-    contested: 0
     confirmed: 9
+    reported: 2
+    alleged: 0
+    appears: 0
+    attributed: 3
+    contested: 0
   corroboration:
     primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 2
-    single_source: 12
+    one_originating_plus_primary_document: 0
     two_independent: 0
+    single_source: 12
 sources:
   count: 1
   outlets:
@@ -75,6 +73,14 @@ image:
 cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- Claudette Colvin, who at age 15 was arrested for refusing to give up her seat on a segregated Montgomery, Alabama, bus — nine months before Rosa Parks' more widely recognized act of defiance — died...
+- Colvin's March 2, 1955, arrest placed her at the legal center of the fight against bus segregation in Montgomery. She later served as one of four p...
+- Claudette Colvin, who at age 15 refused to give up her seat on a segregated Montgomery, Alabama, bus — an act of resistance nine months before Rosa...
+- Her death was announced by the Claudette Colvin Legacy Foundation. Ashley D. Roseboro of the organization confirmed Colvin died of natural causes i...
 
 Claudette Colvin, who at age 15 was arrested for refusing to give up her seat on a segregated Montgomery, Alabama, bus — nine months before Rosa Parks' more widely recognized act of defiance — died Tuesday at 86. Her death was announced by the Claudette Colvin Legacy Foundation; Ashley D. Roseboro of the organization confirmed she died of natural causes in Texas.
 
@@ -114,128 +120,156 @@ In 2021, Colvin filed a petition to have her court record expunged. A judge gran
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Claudette Colvin
-**Predicate:** died
-**Object:** 86 (age_at_death)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Claudette Colvin
+- **Predicate:** died
+- **Object:** 86 (age_at_death)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Claudette Colvin died at age 86.
 
-### c_002 — confirmed, primary document
-**Subject entities:** Claudette Colvin Legacy Foundation
-**Predicate:** announced_death
-**Object:** Claudette Colvin (person)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Claudette Colvin Legacy Foundation
+- **Predicate:** announced_death
+- **Object:** Claudette Colvin (person)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Colvin's death was announced Tuesday by the Claudette Colvin Legacy Foundation.
 
-### c_003 — attributed, single source
-**Subject entities:** Ashley D. Roseboro; Claudette Colvin
-**Predicate:** confirmed_cause_and_location_of_death
-**Object:** natural causes, Texas (death_details)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ashley D. Roseboro; Claudette Colvin
+- **Predicate:** confirmed_cause_and_location_of_death
+- **Object:** natural causes, Texas (death_details)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Ashley D. Roseboro of the Claudette Colvin Legacy Foundation confirmed Colvin died of natural causes in Texas.
 
-### c_004 — confirmed, single source
-**Subject entities:** Claudette Colvin
-**Predicate:** arrested_for_refusing_bus_seat
-**Object:** March 2, 1955 (date)
-**Temporal:** 1955-03-02
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Claudette Colvin
+- **Predicate:** arrested_for_refusing_bus_seat
+- **Object:** March 2, 1955 (date)
+- **Temporal:** 1955-03-02
+- **Sources:** src_001
 
 > Colvin was 15 years old when she was arrested on March 2, 1955, for refusing to give up her seat on a segregated Montgomery bus.
 
-### c_005 — confirmed, single source
-**Subject entities:** Claudette Colvin; Rosa Parks
-**Predicate:** preceded_arrest_of
-**Object:** nine months (time_difference)
-**Temporal:** 1955-03-02
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Claudette Colvin; Rosa Parks
+- **Predicate:** preceded_arrest_of
+- **Object:** nine months (time_difference)
+- **Temporal:** 1955-03-02
+- **Sources:** src_001
 
 > Colvin's arrest came nine months before Rosa Parks was arrested for the same offense.
 
-### c_006 — confirmed, single source
-**Subject entities:** Claudette Colvin
-**Predicate:** refused_to_relinquish_seat
-**Object:** March 2, 1955, Montgomery city bus (event_detail)
-**Temporal:** 1955-03-02
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Claudette Colvin
+- **Predicate:** refused_to_relinquish_seat
+- **Object:** March 2, 1955, Montgomery city bus (event_detail)
+- **Temporal:** 1955-03-02
+- **Sources:** src_001
 
 > Colvin boarded a Montgomery city bus on March 2, 1955, on her way home from high school; when the white section filled, the driver ordered Black passengers to relinquish their seats and Colvin refused.
 
-### c_007 — confirmed, single source
-**Subject entities:** Rosa Parks; Montgomery Bus Boycott
-**Predicate:** catalyzed
-**Object:** Montgomery Bus Boycott (event)
-**Temporal:** 1955-12-01
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Rosa Parks; Montgomery Bus Boycott
+- **Predicate:** catalyzed
+- **Object:** Montgomery Bus Boycott (event)
+- **Temporal:** 1955-12-01
+- **Sources:** src_001
 
 > Rosa Parks, a local NAACP activist, was arrested on December 1, 1955, which became the final catalyst for the yearlong Montgomery Bus Boycott.
 
-### c_008 — reported, single source
-**Subject entities:** Martin Luther King Jr.; Montgomery Bus Boycott
-**Predicate:** propelled_to_national_prominence
-**Object:** start of modern civil rights movement (historical_significance)
-**Temporal:** 1955-12-01
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Martin Luther King Jr.; Montgomery Bus Boycott
+- **Predicate:** propelled_to_national_prominence
+- **Object:** start of modern civil rights movement (historical_significance)
+- **Temporal:** 1955-12-01
+- **Sources:** src_001
 
 > The Montgomery Bus Boycott propelled the Rev. Martin Luther King Jr. into national prominence and is considered the start of the modern civil rights movement.
 
-### c_009 — confirmed, single source
-**Subject entities:** Claudette Colvin
-**Predicate:** served_as_plaintiff_in
-**Object:** lawsuit outlawing bus segregation in Montgomery (legal_case)
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Claudette Colvin
+- **Predicate:** served_as_plaintiff_in
+- **Object:** lawsuit outlawing bus segregation in Montgomery (legal_case)
+- **Sources:** src_001
 
 > Colvin was one of four plaintiffs in the federal lawsuit that outlawed racial segregation on Montgomery's buses.
 
-### c_010 — confirmed, single source
-**Subject entities:** Mary Louise Smith
-**Predicate:** arrested_for_refusing_bus_seat
-**Object:** October 1955 (date)
-**Temporal:** 1955-10
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Mary Louise Smith
+- **Predicate:** arrested_for_refusing_bus_seat
+- **Object:** October 1955 (date)
+- **Temporal:** 1955-10
+- **Sources:** src_001
 
 > Mary Louise Smith, another Black teenager, was arrested and fined in October 1955 for refusing to give up her seat to a white passenger.
 
-### c_011 — attributed, single source
-**Subject entities:** Steven Reed; Claudette Colvin
-**Predicate:** said
-**Object:** helped lay the legal and moral foundation for the movement that would change America (quote)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Steven Reed; Claudette Colvin
+- **Predicate:** said
+- **Object:** helped lay the legal and moral foundation for the movement that would change America (quote)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Montgomery Mayor Steven Reed said Colvin's action 'helped lay the legal and moral foundation for the movement that would change America.'
 
-### c_012 — attributed, single source
-**Subject entities:** Steven Reed; Claudette Colvin
-**Predicate:** said
-**Object:** was too often overlooked (quote)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Steven Reed; Claudette Colvin
+- **Predicate:** said
+- **Object:** was too often overlooked (quote)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Reed said Colvin's bravery 'was too often overlooked.'
 
-### c_013 — confirmed, single source
-**Subject entities:** Claudette Colvin
-**Predicate:** filed_expungement_petition_granted
-**Object:** court record expunged (legal_action)
-**Temporal:** 2021
-**Source IDs:** src_001
+### c_013
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Claudette Colvin
+- **Predicate:** filed_expungement_petition_granted
+- **Object:** court record expunged (legal_action)
+- **Temporal:** 2021
+- **Sources:** src_001
 
 > In 2021, Colvin filed a petition to have her court record expunged; a judge granted the request.
 
-### c_014 — reported, single source
-**Subject entities:** Claudette Colvin; Montgomery Bus Boycott
-**Predicate:** died_shortly_after
-**Object:** 70th anniversary of Bus Boycott (event)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_014
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Claudette Colvin; Montgomery Bus Boycott
+- **Predicate:** died_shortly_after
+- **Object:** 70th anniversary of Bus Boycott (event)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Colvin's death came just over a month after Montgomery celebrated the 70th anniversary of the Bus Boycott.
 
@@ -244,10 +278,5 @@ In 2021, Colvin filed a petition to have her court record expunged. A judge gran
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Kimberly Chandler
 **Publication date:** 2026-01-13
-**Access date:** 2026-01-13
 **Title:** Civil rights pioneer Claudette Colvin dies at 86
 **URL:** https://apnews.com/article/claudette-colvin-died-a447e8e70f0decf2463565241179d11f
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

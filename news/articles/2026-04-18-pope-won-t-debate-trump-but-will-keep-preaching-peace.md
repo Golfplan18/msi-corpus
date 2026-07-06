@@ -23,7 +23,7 @@ topic_tags:
   - "economy, business and finance"
   - "conflict, war and peace"
 storyline_nexus:
-  - pope-leo-xiv-africa-tour
+- pope-leo-xiv-vatican
 geographic_location: Africa (Cameroon, Angola)
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -304,7 +304,3 @@ The public exchange between the pontiff and the president reflects a deeper tens
 **Access date:** 2026-04-18
 **Title:** Pope says 'not in my interest at all' to debate Trump but will keep preaching peace
 **URL:** https://apnews.com/article/pope-leo-trump-war-iran-peace-f9980c81d36fad024cce788c915c16eb
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

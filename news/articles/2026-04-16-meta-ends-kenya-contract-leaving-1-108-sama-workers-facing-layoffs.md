@@ -190,7 +190,3 @@ Meta said in a statement that its contractors are obliged to pay their employees
 **Access date:** 2026-04-16
 **Title:** More than 1,000 workers in Kenya face layoffs after Meta ends contract with Sama
 **URL:** https://apnews.com/article/kenya-meta-facebook-sama-content-moderators-902716b8037bc4063dd1101e2dbd4c3a
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

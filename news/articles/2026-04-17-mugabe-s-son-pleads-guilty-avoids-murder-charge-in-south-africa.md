@@ -213,7 +213,3 @@ The current case reflects the same dynamics evident in the 2017 incident: wealth
 **Access date:** 2026-05-17
 **Title:** Mugabe's son avoids attempted murder charge with guilty plea
 **URL:** https://apnews.com/article/south-africa-mugabe-son-shooting-ccf82ebc8bd4fae4898452750d7e7b96
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

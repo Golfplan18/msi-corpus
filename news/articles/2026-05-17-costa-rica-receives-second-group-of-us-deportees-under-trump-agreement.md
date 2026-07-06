@@ -15,7 +15,8 @@ primary_themes:
 - international_relations
 topic_tags:
   - politics
-storyline_nexus: []
+storyline_nexus:
+- us-immigration-enforcement
 geographic_location: Central America
 floor_values_engaged:
 - value: informed_citizenship
@@ -120,75 +121,91 @@ The agreements allow the Trump administration to create alternative destinations
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Costa Rica; migrants
-**Predicate:** received
-**Object:** 30 deported migrants (quantity)
-**Temporal:** 2026-04-18
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Costa Rica; migrants
+- **Predicate:** received
+- **Object:** 30 deported migrants (quantity)
+- **Temporal:** 2026-04-18
+- **Sources:** src_001
 
 > Costa Rica received a second group of 30 deported migrants on April 18, 2026.
 
-### c_002 — confirmed, primary document
-**Subject entities:** deportees
-**Predicate:** comprised_of
-**Object:** Costa Rica (8), Brazil (8), Romania (3), China (2), Uzbekistan (3), Azerbaijan (2), Ireland (1), India (1), Vietnam (1), Belarus (1) (nationality_breakdown)
-**Temporal:** 2026-04-18
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** deportees
+- **Predicate:** comprised_of
+- **Object:** Costa Rica (8), Brazil (8), Romania (3), China (2), Uzbekistan (3), Azerbaijan (2), Ireland (1), India (1), Vietnam (1), Belarus (1) (nationality_breakdown)
+- **Temporal:** 2026-04-18
+- **Sources:** src_001
 
 > The group included eight Costa Ricans, eight Brazilians, three Romanians, two Chinese nationals, three from Uzbekistan, two from Azerbaijan, and one each from Ireland, India, Vietnam, and Belarus.
 
-### c_003 — confirmed, primary document
-**Subject entities:** Costa Rica; United States; Rodrigo Chaves; Kristi Noem
-**Predicate:** signed
-**Object:** bilateral deportation agreement (policy_agreement)
-**Temporal:** 2026-03
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Costa Rica; United States; Rodrigo Chaves; Kristi Noem
+- **Predicate:** signed
+- **Object:** bilateral deportation agreement (policy_agreement)
+- **Temporal:** 2026-03
+- **Sources:** src_001
 
 > A bilateral agreement was signed in March 2026 between Costa Rican President Rodrigo Chaves and U.S. Special Envoy Kristi Noem.
 
-### c_004 — confirmed, primary document
-**Subject entities:** Costa Rica
-**Predicate:** agreed_to_accept
-**Object:** up to 25 third-country nationals per week (quantified_commitment)
-**Temporal:** 2026-03
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Costa Rica
+- **Predicate:** agreed_to_accept
+- **Object:** up to 25 third-country nationals per week (quantified_commitment)
+- **Temporal:** 2026-03
+- **Sources:** src_001
 
 > Costa Rica agreed to accept up to 25 third-country nationals expelled from the U.S. each week.
 
-### c_005 — confirmed, primary document
-**Subject entities:** Costa Rica; deportees
-**Predicate:** received
-**Object:** 25 deportees (quantity)
-**Temporal:** 2026-04-13
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Costa Rica; deportees
+- **Predicate:** received
+- **Object:** 25 deportees (quantity)
+- **Temporal:** 2026-04-13
+- **Sources:** src_001
 
 > A first group of 25 deportees arrived at San Jose's Juan Santamaría International Airport on April 13, 2026.
 
-### c_006 — confirmed, primary document
-**Subject entities:** deportees
-**Predicate:** offered
-**Object:** voluntary return, legal residency, or temporary migration options (policy_options)
-**Temporal:** 2026-04-18
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** deportees
+- **Predicate:** offered
+- **Object:** voluntary return, legal residency, or temporary migration options (policy_options)
+- **Temporal:** 2026-04-18
+- **Sources:** src_001
 
 > Deportees are offered participation in the Assisted Voluntary Return program to return to their countries of origin, legal residency in Costa Rica under humanitarian categories, or enrollment in a temporary migration program.
 
-### c_007 — reported, single source
-**Subject entities:** South Sudan; Honduras; Rwanda; Guyana; Dominica; St. Kitts and Nevis; United States
-**Predicate:** signed_agreements
-**Object:** third-country deportation agreements (international_arrangement)
-**Temporal:** 2026-04
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** South Sudan; Honduras; Rwanda; Guyana; Dominica; St. Kitts and Nevis; United States
+- **Predicate:** signed_agreements
+- **Object:** third-country deportation agreements (international_arrangement)
+- **Temporal:** 2026-04
+- **Sources:** src_001
 
 > Other countries including South Sudan, Honduras, Rwanda, Guyana, Dominica, and St. Kitts and Nevis have signed third-country deportation agreements with the United States.
 
-### c_008 — reported, single source
-**Subject entities:** migrants
-**Predicate:** experience
-**Object:** legal black hole in foreign countries lacking language proficiency (situation)
-**Temporal:** 2026-04
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** migrants
+- **Predicate:** experience
+- **Object:** legal black hole in foreign countries lacking language proficiency (situation)
+- **Temporal:** 2026-04
+- **Sources:** src_001
 
 > Migrants in foreign countries under third-country deportation agreements are in some cases left in a legal 'black hole' where they don't speak the language.
 
@@ -199,7 +216,3 @@ The agreements allow the Trump administration to create alternative destinations
 **Access date:** 2026-05-17
 **Title:** Costa Rica takes in a second group of migrants deported from the US
 **URL:** https://apnews.com/article/costa-rica-us-migrants-deportees-2fbbbbd977463932a312cdab2955c573
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -13,9 +13,11 @@ primary_themes:
 - emergency rescue
 - ice safety
 - Ontario Canada
-topic_tags: []
-storyline_nexus:
-  - immigration-enforcement
+topic_tags:
+- disaster
+- natural disaster
+- accident and emergency incident
+storyline_nexus: []
 geographic_location: Owen Sound, Ontario, Canada
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -153,7 +155,3 @@ By mid-afternoon, all 23 had been safely airlifted back to shore. Police said in
 **Access date:** 2026-05-17
 **Title:** 23 people rescued when ice shelf broke from shore in Canada
 **URL:** https://apnews.com/article/ice-rescue-ontario-canada-e1fb7aaad7cf9690741dac97317e5464
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

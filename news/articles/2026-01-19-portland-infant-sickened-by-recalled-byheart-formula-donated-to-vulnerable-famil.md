@@ -20,40 +20,43 @@ primary_themes:
 - vulnerable families
 - infant botulism
 topic_tags:
-  - banking
-  - "economy, business and finance"
-storyline_nexus: []
-geographic_location: Portland, Oregon, United States
+- disease and condition
+- public health
+- consumer goods
+- welfare
+storyline_nexus:
+- trump-health-policy-rfk
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
-  intensity: 0.95
+  intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.75
-- value: informed_citizenship
-  intensity: 0.7
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:02:00Z'
+  intensity: 0.9
+- value: equality_fairness
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:48:31Z'
 source_cluster_id: cluster_ap_2026-01-18_infant-botulism-byheart-recall-donation-
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 13
   hedges:
-    appears: 0
-    alleged: 0
     attributed: 7
-    reported: 4
-    contested: 0
     confirmed: 2
+    contested: 0
+    alleged: 0
+    reported: 4
+    appears: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 0
     single_source: 13
+    primary_plus_secondary: 0
+    primary_document: 0
     two_independent: 0
+    one_originating_plus_primary_document: 0
 sources:
   count: 1
   outlets:
@@ -70,6 +73,16 @@ figures_aggregate:
 cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Portland, Oregon, boy battles infant botulism after ByHeart formula exposure
+- Ashaan Carter, 10 months old, was hospitalized twice after contracting infant botulism linked to ByHeart baby formula.
+- Angel Carter received a can of ByHeart formula from an Oregon Department of Human Services caseworker in early November, days before a nationwide recall.
+- Oregon DHS received ByHeart formula from PDX Diaper Bank, which obtained it through ByHeart's OpenHearted Initiative via Baby2Baby.
+- PDX Diaper Bank received about 400 cans of donated ByHeart formula through Baby2Baby and distributed more than 300 of them before the recall.
 
 A 10-month-old Portland, Oregon, boy remains on a feeding tube and is relearning how to crawl and talk after contracting infant botulism from ByHeart baby formula his mother received through a charitable program serving poor and homeless families. Ashaan Carter was hospitalized twice — for nearly two weeks in November, then again in December — after an Oregon Department of Human Services caseworker provided the formula days before a nationwide product recall. His case is among more than 50 infant botulism infections across the United States linked to ByHeart products.
 
@@ -119,120 +132,146 @@ Peterson-Perry said the harm to Ashaan underscores how deeply the families affec
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Ashaan Carter; ByHeart
-**Predicate:** contracted_illness_from
-**Object:** infant botulism (medical_condition)
-**Temporal:** 2025-11
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ashaan Carter; ByHeart
+- **Predicate:** contracted_illness_from
+- **Object:** infant botulism (medical_condition)
+- **Temporal:** 2025-11
+- **Sources:** src_001
 
 > Ashaan Carter, 10 months old, was hospitalized twice after contracting infant botulism linked to ByHeart baby formula.
 
-### c_002 — attributed, single source
-**Subject entities:** Angel Carter; Oregon Department of Human Services
-**Predicate:** received_from
-**Object:** ByHeart formula (product)
-**Temporal:** 2025-11
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Angel Carter; Oregon Department of Human Services
+- **Predicate:** received_from
+- **Object:** ByHeart formula (product)
+- **Temporal:** 2025-11
+- **Sources:** src_001
 
 > Angel Carter received a can of ByHeart formula from an Oregon Department of Human Services caseworker in early November, days before a nationwide recall.
 
-### c_003 — confirmed, single source
-**Subject entities:** Oregon Department of Human Services; PDX Diaper Bank; Baby2Baby; ByHeart
-**Predicate:** distributed_through
-**Object:** OpenHearted Initiative (program)
-**Temporal:** 2025-11
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Oregon Department of Human Services; PDX Diaper Bank; Baby2Baby; ByHeart
+- **Predicate:** distributed_through
+- **Object:** OpenHearted Initiative (program)
+- **Temporal:** 2025-11
+- **Sources:** src_001
 
 > Oregon DHS received ByHeart formula from PDX Diaper Bank, which obtained it through ByHeart's OpenHearted Initiative via Baby2Baby.
 
-### c_004 — attributed, single source
-**Subject entities:** PDX Diaper Bank; Baby2Baby
-**Predicate:** distributed
-**Object:** 300+ cans (quantity)
-**Temporal:** 2025-11
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** PDX Diaper Bank; Baby2Baby
+- **Predicate:** distributed
+- **Object:** 300+ cans (quantity)
+- **Temporal:** 2025-11
+- **Sources:** src_001
 
 > PDX Diaper Bank received about 400 cans of donated ByHeart formula through Baby2Baby and distributed more than 300 of them before the recall.
 
-### c_005 — reported, single source
-**Subject entities:** ByHeart
-**Predicate:** linked_to_illnesses
-**Object:** 50+ infants sickened (count)
-**Temporal:** 2026-01-19
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** ByHeart
+- **Predicate:** linked_to_illnesses
+- **Object:** 50+ infants sickened (count)
+- **Temporal:** 2026-01-19
+- **Sources:** src_001
 
 > More than 50 babies across the U.S. have been sickened by infant botulism linked to ByHeart formula.
 
-### c_006 — attributed, single source
-**Subject entities:** ByHeart
-**Predicate:** distributed
-**Object:** 24,000 cans (quantity)
-**Temporal:** 2022-06
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** ByHeart
+- **Predicate:** distributed
+- **Object:** 24,000 cans (quantity)
+- **Temporal:** 2022-06
+- **Sources:** src_001
 
 > Nearly 24,000 cans of ByHeart formula have been distributed to groups aiding homeless and other vulnerable families since June 2022.
 
-### c_007 — confirmed, single source
-**Subject entities:** ByHeart
-**Predicate:** recalled
-**Object:** all products since March 2022 (product)
-**Temporal:** 2025-11
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** ByHeart
+- **Predicate:** recalled
+- **Object:** all products since March 2022 (product)
+- **Temporal:** 2025-11
+- **Sources:** src_001
 
 > ByHeart has recalled all of its products; the recall covers production dating back to March 2022, and production remains shut down.
 
-### c_008 — attributed, single source
-**Subject entities:** CDC; ByHeart
-**Predicate:** reported_no_new_cases_since
-**Object:** December 17 (temporal)
-**Temporal:** 2025-12-17
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** CDC; ByHeart
+- **Predicate:** reported_no_new_cases_since
+- **Object:** December 17 (temporal)
+- **Temporal:** 2025-12-17
+- **Sources:** src_001
 
 > No new cases of infant botulism tied to the ByHeart outbreak have been reported since Dec. 17, according to the CDC.
 
-### c_009 — reported, single source
-**Subject entities:** FDA; ByHeart
-**Predicate:** inspected_without_disclosure
-**Object:** ByHeart plants (facility)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** FDA; ByHeart
+- **Predicate:** inspected_without_disclosure
+- **Object:** ByHeart plants (facility)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > The FDA has conducted inspections at ByHeart plants but has released no information about the source of the outbreak.
 
-### c_010 — reported, single source
-**Subject entities:** ByHeart
-**Predicate:** sued
-**Object:** 18+ lawsuits (count)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** ByHeart
+- **Predicate:** sued
+- **Object:** 18+ lawsuits (count)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > At least 18 lawsuits have been filed against ByHeart and stores that sold the contaminated formula.
 
-### c_011 — attributed, single source
-**Subject entities:** Bill Marler
-**Predicate:** represents
-**Object:** 30+ families (count)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Bill Marler
+- **Predicate:** represents
+- **Object:** 30+ families (count)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Food safety lawyer Bill Marler said Carter is one of more than 30 families he represents whose babies were sickened by ByHeart products.
 
-### c_012 — reported, single source
-**Subject entities:** Bill Marler
-**Predicate:** filed_consolidation_request
-**Object:** U.S. district court in New York (court)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Bill Marler
+- **Predicate:** filed_consolidation_request
+- **Object:** U.S. district court in New York (court)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Marler asked a federal panel to consolidate the cases in a U.S. district court in New York.
 
-### c_013 — attributed, single source
-**Subject entities:** Ashaan Carter
-**Predicate:** ongoing_condition
-**Object:** feeding tube; relearning motor and speech skills (medical_status)
-**Temporal:** 2026-01-19
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ashaan Carter
+- **Predicate:** ongoing_condition
+- **Object:** feeding tube; relearning motor and speech skills (medical_status)
+- **Temporal:** 2026-01-19
+- **Sources:** src_001
 
 > Ashaan Carter remains on a feeding tube and is having to relearn how to crawl and talk.
 
@@ -241,10 +280,5 @@ Peterson-Perry said the harm to Ashaan underscores how deeply the families affec
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** JoNel Aleccia
 **Publication date:** 2026-01-19
-**Access date:** 2026-01-19
 **Title:** Portland, Oregon, boy battles infant botulism after ByHeart formula exposure
 **URL:** https://apnews.com/article/infant-botulism-byheart-recall-donation-acc5b72784c063d1cf9bbd1f5ca5cc32
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

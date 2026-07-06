@@ -100,8 +100,6 @@ The plea agreement reflects a legal distinction in Canada's approach to end-of-l
 
 Under Canadian law, aiding suicide carries a maximum sentence of 14 years. By contrast, a murder conviction automatically results in life in prison with no possibility of parole for at least 25 years. The plea agreement allows Law to avoid the possibility of a mandatory life sentence.
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
 ### c_001 — attributed, single source
@@ -229,7 +227,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-04-18
 **Title:** Canadian man will plead guilty to aiding suicide, lawyer says
 **URL:** https://apnews.com/article/canada-suicide-charges-kenneth-law-da527a294c52487e8a11c75c599b22fa
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

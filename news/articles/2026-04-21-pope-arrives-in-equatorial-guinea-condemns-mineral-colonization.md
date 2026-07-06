@@ -17,7 +17,7 @@ primary_themes:
 topic_tags:
   - religion
 storyline_nexus:
-  - pope-leo-xiv-africa-tour
+- pope-leo-xiv-vatican
 geographic_location: Malabo, Equatorial Guinea
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -398,7 +398,3 @@ On Wednesday, Leo is scheduled to visit a prison in the port city of Bata.
 **Access date:** 2026-05-17
 **Title:** Pope Leo XIV arrives in Equatorial Guinea for a diplomatically challenging visit
 **URL:** https://apnews.com/article/africa-pope-equatorial-guinea-0134a6982c295c125259c5fa4eb73395
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

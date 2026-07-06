@@ -16,37 +16,39 @@ primary_themes:
 - computer fraud
 - criminal justice
 topic_tags:
-  - "crime, law and justice"
-  - trial
-storyline_nexus: []
-geographic_location: Washington, D.C.; Springfield, Tennessee
+- crime
+- law
+- judiciary
+- computing and information technology
+- social media
+storyline_nexus:
+- supreme-court-constitutional-cases
+geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.7
-- value: accountability_of_power
+- value: human_life_and_dignity
   intensity: 0.6
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:00:49Z'
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:22:59Z'
 source_cluster_id: cluster_ap_2026-01-19_nicholas-moore-supreme-court-hacked-fili
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 9
   hedges:
     appears: 0
-    alleged: 0
     attributed: 2
     reported: 0
+    alleged: 0
     contested: 0
     confirmed: 7
   corroboration:
-    primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
-    primary_document: 9
     single_source: 0
+    primary_document: 9
+    primary_plus_secondary: 0
     two_independent: 0
 sources:
   count: 1
@@ -61,13 +63,17 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-13-ex-navy-sailor-sentenced-to-16-years-for-selling-ship-secrets-to-chinese-intelli
-  relation: related
-  strength: 0.7696
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- A Tennessee man pleaded guilty Friday to hacking the U.S. Supreme Court's electronic filing system on 25 separate days in 2023, using stolen credentials to access and publicize personal records bel...
+- Moore's guilty plea covers unauthorized intrusions into three separate federal computer systems, all carried out using stolen credentials and publi...
+- Nicholas Moore, 24, of Springfield, Tennessee, pleaded guilty Friday in federal court to hacking the U.S. Supreme Court's electronic filing system ...
+- Moore used stolen credentials to gain access to the Supreme Court's filing system throughout 2023, a court filing said. He accessed personal record...
 
 A Tennessee man pleaded guilty Friday to hacking the U.S. Supreme Court's electronic filing system on 25 separate days in 2023, using stolen credentials to access and publicize personal records belonging to another user. Nicholas Moore, 24, of Springfield, Tennessee, admitted in federal court that he also breached computer systems at AmeriCorps and the Department of Veterans Affairs.
 
@@ -85,84 +91,102 @@ U.S. District Judge Beryl Howell in Washington, D.C., is scheduled to sentence M
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Nicholas Moore
-**Predicate:** pleaded_guilty
-**Object:** hacking Supreme Court filing system (legal_plea)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Nicholas Moore
+- **Predicate:** pleaded_guilty
+- **Object:** hacking Supreme Court filing system (legal_plea)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > Nicholas Moore, 24, of Springfield, Tennessee, pleaded guilty on January 16, 2026, to hacking the U.S. Supreme Court's filing system.
 
-### c_002 — confirmed, primary document
-**Subject entities:** Nicholas Moore; Supreme Court of the United States
-**Predicate:** hacked
-**Object:** 25 days in 2023 (count_and_period)
-**Temporal:** 2023
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Nicholas Moore; Supreme Court of the United States
+- **Predicate:** hacked
+- **Object:** 25 days in 2023 (count_and_period)
+- **Temporal:** 2023
+- **Sources:** src_001
 
 > In 2023, Moore used stolen credentials to hack the Supreme Court's filing system on 25 different days.
 
-### c_003 — confirmed, primary document
-**Subject entities:** Nicholas Moore
-**Predicate:** accessed_and_posted
-**Object:** personal records on Instagram @ihackedthegovernment (data_exposure)
-**Temporal:** 2023
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Nicholas Moore
+- **Predicate:** accessed_and_posted
+- **Object:** personal records on Instagram @ihackedthegovernment (data_exposure)
+- **Temporal:** 2023
+- **Sources:** src_001
 
 > Moore accessed personal records belonging to the person whose credentials he used and posted information about that person on an Instagram account using the handle @ihackedthegovernment.
 
-### c_004 — confirmed, primary document
-**Subject entities:** Nicholas Moore; AmeriCorps
-**Predicate:** accessed
-**Object:** AmeriCorps computer servers (unauthorized_access)
-**Temporal:** 2023
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Nicholas Moore; AmeriCorps
+- **Predicate:** accessed
+- **Object:** AmeriCorps computer servers (unauthorized_access)
+- **Temporal:** 2023
+- **Sources:** src_001
 
 > Moore pleaded guilty to using stolen credentials to access a user's personal information from AmeriCorps' computer servers.
 
-### c_005 — confirmed, primary document
-**Subject entities:** Nicholas Moore; Department of Veterans Affairs
-**Predicate:** accessed
-**Object:** VA MyHealtheVet veteran account (unauthorized_access)
-**Temporal:** 2023
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Nicholas Moore; Department of Veterans Affairs
+- **Predicate:** accessed
+- **Object:** VA MyHealtheVet veteran account (unauthorized_access)
+- **Temporal:** 2023
+- **Sources:** src_001
 
 > Moore pleaded guilty to using stolen credentials to access a U.S. Marine Corps veteran's account on the Department of Veterans Affairs' MyHealtheVet platform.
 
-### c_006 — confirmed, primary document
-**Subject entities:** Nicholas Moore
-**Predicate:** posted
-**Object:** screenshots from AmeriCorps and VA systems on @ihackedthegovernment (data_exposure)
-**Temporal:** 2023
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Nicholas Moore
+- **Predicate:** posted
+- **Object:** screenshots from AmeriCorps and VA systems on @ihackedthegovernment (data_exposure)
+- **Temporal:** 2023
+- **Sources:** src_001
 
 > Moore posted screenshots of information accessed from the AmeriCorps and VA systems on the same Instagram account.
 
-### c_007 — confirmed, primary document
-**Subject entities:** Nicholas Moore
-**Predicate:** charged_with
-**Object:** one misdemeanor count of computer fraud, maximum one year (charge)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Nicholas Moore
+- **Predicate:** charged_with
+- **Object:** one misdemeanor count of computer fraud, maximum one year (charge)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > Moore pleaded guilty to one misdemeanor count of computer fraud, which carries a maximum prison sentence of one year.
 
-### c_008 — attributed, primary document
-**Subject entities:** Beryl Howell; Nicholas Moore
-**Predicate:** scheduled_to_sentence
-**Object:** April 17 (sentencing_date)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Beryl Howell; Nicholas Moore
+- **Predicate:** scheduled_to_sentence
+- **Object:** April 17 (sentencing_date)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > U.S. District Judge Beryl Howell in Washington, D.C., is scheduled to sentence Moore on April 17.
 
-### c_009 — attributed, primary document
-**Subject entities:** Jeanine Pirro; Nicholas Moore
-**Predicate:** charged
-**Object:** week before January 16, 2026 (charging_timeline)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Jeanine Pirro; Nicholas Moore
+- **Predicate:** charged
+- **Object:** week before January 16, 2026 (charging_timeline)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > U.S. Attorney Jeanine Pirro's office charged Moore the week prior to his guilty plea.
 
@@ -171,10 +195,5 @@ U.S. District Judge Beryl Howell in Washington, D.C., is scheduled to sentence M
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Michael Kunzelman
 **Publication date:** 2026-01-16
-**Access date:** 2026-05-17
 **Title:** Tennessee man pleads guilty to repeatedly hacking Supreme Court
 **URL:** https://apnews.com/article/nicholas-moore-supreme-court-hacked-filing-system-49fc196ba3f3914f869e85c8cd30edbc
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

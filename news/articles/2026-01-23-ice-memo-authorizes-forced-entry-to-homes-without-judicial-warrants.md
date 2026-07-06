@@ -13,41 +13,39 @@ primary_themes:
 - constitutional rights
 - Trump administration policy
 topic_tags:
-  - politics
-  - "human interest"
-  - society
-  - "government policy"
-  - "human migration"
-storyline_nexus: []
+- civil rights
+- crime, law and justice
+- law enforcement
+- fundamental rights
+storyline_nexus:
+- us-immigration-enforcement
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
-  intensity: 0.95
+  intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.85
-- value: informed_citizenship
-  intensity: 0.75
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+  intensity: 0.9
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:30:28Z'
 source_cluster_id: cluster_ap_2026-01-24_ice-arrests-warrants-forced-entry-fourth
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 10
   hedges:
-    appears: 0
     alleged: 0
-    attributed: 4
+    appears: 0
     reported: 5
+    attributed: 4
     contested: 0
     confirmed: 1
   corroboration:
     primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 3
+    one_originating_plus_primary_document: 0
     single_source: 7
     two_independent: 0
 sources:
@@ -63,41 +61,20 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-11-federal-agents-ram-minneapolis-door-pepper-spray-protesters-in-immigration-sweep
-  relation: related
-  strength: 0.8356
-  confidence: medium
-- slug: 2026-04-16-massachusetts-5m-immigrant-legal-aid-program-at-capacity-as-removal-cases-top-12
-  relation: related
-  strength: 0.7505
-  confidence: medium
-- slug: 2026-04-16-minnesota-charges-ice-agent-with-felony-assault-for-pointing-gun-at-highway-driv
-  relation: related
-  strength: 0.7445
-  confidence: medium
-- slug: 2026-01-14-minneapolis-sees-second-federal-shooting-as-courts-governor-push-back-on-immigra
-  relation: related
-  strength: 0.7612
-  confidence: medium
-- slug: 2026-01-13-trump-administration-ends-temporary-protected-status-for-somali-immigrants
-  relation: related
-  strength: 0.7577
-  confidence: medium
-- slug: 2026-01-12-minnesota-twin-cities-sue-trump-administration-over-fatal-ice-shooting
-  relation: related
-  strength: 0.7613
-  confidence: medium
-- slug: 2026-01-13-federal-agents-deploy-tear-gas-in-minneapolis-as-five-prosecutors-resign-over-re
-  relation: related
-  strength: 0.7488
-  confidence: medium
-- slug: 2026-01-06-de-la-cruz-proposes-construction-worker-visa-as-ice-arrests-slow-south-texas-bui
-  relation: related
-  strength: 0.7521
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Immigrants often don’t open the door to ICE, but that may no longer stop officers
+- Immigrants often don’t open the door to ICE, but that may no longer stop officers
+- As a result, immigration officers have had to adapt by making arrests in public, which often requires long hours of surveillance outside homes as they wait to nab someone walking to the street.
+- Perez said officers in the past would knock, wait and then move on.
+- “But if they are going to start coming into my home, where I am paying the rent — they are not paying the rent — that’s the last straw,” he said.
+- Democratic U.S. Sen. Richard Blumenthal of Connecticut is demanding congressional hearings on the ICE memo and calling on Homeland Security Secretary Kristi Noem for an explanation.
 
 The directive overturns a bedrock principle that has guided immigrant communities for decades. Since shortly after ICE was created in 2003, advocacy groups have taught immigrants that they can refuse entry to ICE officers unless presented with a judge-signed warrant. Legal experts warn the new policy could escalate violence and put both immigrants and officers at greater risk.
 
@@ -145,96 +122,114 @@ ICE records often contain wrong addresses, which could lead to confrontations an
 
 "This would just be another step down that path," Arulanantham said, referring to increasingly aggressive enforcement tactics since September when the Supreme Court lifted a lower court order barring federal agents in the Los Angeles area from indiscriminately stopping people based on race, language, job or location. "Obviously it will be more significant because it suggests you're not safe even in your own house."
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification at https://mainstreetindependent.org/methodology. Human review not_triggered.
-
 ## Atomic claims
 
-### c_001 — reported, single source
-**Subject entities:** Immigration and Customs Enforcement
-**Predicate:** authorizes_forced_entry
-**Object:** forced entry to homes using administrative warrants (policy)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Immigration and Customs Enforcement
+- **Predicate:** authorizes_forced_entry
+- **Object:** forced entry to homes using administrative warrants (policy)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > An internal Immigration and Customs Enforcement memo authorizes immigration officers to forcibly enter people's homes without judge-signed warrants.
 
-### c_002 — reported, single source
-**Subject entities:** Immigration and Customs Enforcement
-**Predicate:** permits_forced_entry_conditional
-**Object:** forced entry after reasonable opportunity to comply (policy)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Immigration and Customs Enforcement
+- **Predicate:** permits_forced_entry_conditional
+- **Object:** forced entry after reasonable opportunity to comply (policy)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > The memo allows officers to forcibly enter homes after residents are given a reasonable chance to act lawfully.
 
-### c_003 — confirmed, primary document
-**Subject entities:** Immigration and Customs Enforcement; Minneapolis
-**Predicate:** forced_entry_observed
-**Object:** officers rammed door with tactical gear and rifles drawn (documented_observation)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Immigration and Customs Enforcement; Minneapolis
+- **Predicate:** forced_entry_observed
+- **Object:** officers rammed door with tactical gear and rifles drawn (documented_observation)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > Associated Press witnessed ICE officers ramming through the front door of a Liberian man's home in Minneapolis on January 11 with only an administrative warrant.
 
-### c_004 — reported, primary document
-**Subject entities:** Fourth Amendment; U.S. courts
-**Predicate:** historically_required
-**Object:** judge-signed warrants for home entry (legal_principle)
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Fourth Amendment; U.S. courts
+- **Predicate:** historically_required
+- **Object:** judge-signed warrants for home entry (legal_principle)
+- **Sources:** src_001
 
 > Traditionally, only warrants signed by independent judges have carried the authority to permit officers to enter private spaces without consent.
 
-### c_005 — attributed, primary document
-**Subject entities:** John Paul Stevens; Supreme Court
-**Predicate:** wrote
-**Object:** physical home entry is chief evil against Fourth Amendment (legal_writing)
-**Temporal:** 1980
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** John Paul Stevens; Supreme Court
+- **Predicate:** wrote
+- **Object:** physical home entry is chief evil against Fourth Amendment (legal_writing)
+- **Temporal:** 1980
+- **Sources:** src_001
 
 > Supreme Court Justice John Paul Stevens wrote in 1980 that the physical entry of the home is the chief evil against which the wording of the Fourth Amendment is directed.
 
-### c_006 — attributed, single source
-**Subject entities:** Richard Blumenthal
-**Predicate:** demanded_hearings
-**Object:** congressional hearings on ICE memo (action)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Richard Blumenthal
+- **Predicate:** demanded_hearings
+- **Object:** congressional hearings on ICE memo (action)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > Democratic U.S. Senator Richard Blumenthal of Connecticut is demanding congressional hearings on the ICE memo.
 
-### c_007 — attributed, single source
-**Subject entities:** Ahilan Arulanantham
-**Predicate:** characterized
-**Object:** memo characterized as quite disturbing (evaluation)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ahilan Arulanantham
+- **Predicate:** characterized
+- **Object:** memo characterized as quite disturbing (evaluation)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > Ahilan Arulanantham, co-faculty director of the UCLA Law School's Center for Immigration Law and Policy, called the memo quite disturbing.
 
-### c_008 — reported, single source
-**Subject entities:** advocacy groups; immigrant communities
-**Predicate:** taught
-**Object:** know-your-rights principle about judge-signed warrants (practice)
-**Temporal:** 2003-present
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** advocacy groups; immigrant communities
+- **Predicate:** taught
+- **Object:** know-your-rights principle about judge-signed warrants (practice)
+- **Temporal:** 2003-present
+- **Sources:** src_001
 
 > Since shortly after ICE was created in 2003, advocacy groups and immigrant-friendly state and local governments have taught immigrants they should not open their doors for immigration officers unless they show a warrant signed by a judge.
 
-### c_009 — reported, single source
-**Subject entities:** legal experts
-**Predicate:** warned
-**Object:** increased risk of violence and armed confrontation (warning)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** legal experts
+- **Predicate:** warned
+- **Object:** increased risk of violence and armed confrontation (warning)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > Legal experts warn that if immigration officers barge into homes, everyone could be put at greater risk, with possibilities including officers being shot or agents opening fire on residents.
 
-### c_010 — attributed, single source
-**Subject entities:** Tom Homan
-**Predicate:** characterized
-**Object:** know-your-rights trainings as instructions to escape arrest (statement)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Tom Homan
+- **Predicate:** characterized
+- **Object:** know-your-rights trainings as instructions to escape arrest (statement)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Trump's border czar Tom Homan has said of know-your-rights groups: They call it know-your-rights. I call it how to escape arrest.
 
@@ -243,10 +238,5 @@ This article was generated algorithmically by Main Street Independent's News Art
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Julie Watson
 **Publication date:** 2026-01-23
-**Access date:** 2026-01-23
 **Title:** Memo allowing ICE to forcibly enter homes without judge's warrant raises alarm
 **URL:** https://apnews.com/article/ice-arrests-warrants-forced-entry-fourth-amendment-26e9b492c7850982a85c554c24695a23
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

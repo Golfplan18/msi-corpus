@@ -16,9 +16,10 @@ primary_themes:
 - consumer preferences
 - cultural identity
 topic_tags:
-  - "lifestyle and leisure"
-  - lifestyle
-storyline_nexus: []
+- lifestyle and leisure
+- lifestyle
+storyline_nexus:
+- 2026-midterm-elections
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship
@@ -74,10 +75,6 @@ cross_article_links:
   relation: related
   strength: 0.6801
   confidence: medium
-- slug: 2026-01-13-aldi-plans-180-plus-new-u-s-stores-as-shoppers-trade-down-amid-food-price-anxiet
-  relation: related
-  strength: 0.6146
-  confidence: medium
 draft: false
 ---
 
@@ -109,174 +106,212 @@ That sentiment captures ranch dressing's complicated place in American food cult
 
 ## Atomic claims
 
-### c_001 — reported, single source
-**Subject entities:** Steve Henson
-**Predicate:** created
-**Object:** ranch dressing (product)
-**Temporal:** 1950s
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Steve Henson
+- **Predicate:** created
+- **Object:** ranch dressing (product)
+- **Temporal:** 1950s
+- **Sources:** src_001
 
 > Steve Henson created ranch dressing.
 
-### c_002 — reported, single source
-**Subject entities:** Steve Henson
-**Predicate:** was_employed_as
-**Object:** plumbing contractor in Alaska (occupation)
-**Temporal:** 1950s
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Steve Henson
+- **Predicate:** was_employed_as
+- **Object:** plumbing contractor in Alaska (occupation)
+- **Temporal:** 1950s
+- **Sources:** src_001
 
 > Henson was a plumbing contractor in Alaska.
 
-### c_003 — reported, single source
-**Subject entities:** Steve Henson; ranch dressing
-**Predicate:** served_to
-**Object:** workers (audience)
-**Temporal:** 1950s
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Steve Henson; ranch dressing
+- **Predicate:** served_to
+- **Object:** workers (audience)
+- **Temporal:** 1950s
+- **Sources:** src_001
 
 > Henson first served ranch dressing to workers he employed.
 
-### c_004 — reported, single source
-**Subject entities:** ranch dressing
-**Predicate:** contains
-**Object:** herbs, spices, buttermilk, mayo (ingredients)
-**Temporal:** ongoing
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** ranch dressing
+- **Predicate:** contains
+- **Object:** herbs, spices, buttermilk, mayo (ingredients)
+- **Temporal:** ongoing
+- **Sources:** src_001
 
 > Ranch dressing is made with herbs, spices, buttermilk, and mayo.
 
-### c_005 — reported, single source
-**Subject entities:** Steve Henson; Hidden Valley Ranch
-**Predicate:** opened
-**Object:** dude ranch in California (business)
-**Temporal:** 1950s
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Steve Henson; Hidden Valley Ranch
+- **Predicate:** opened
+- **Object:** dude ranch in California (business)
+- **Temporal:** 1950s
+- **Sources:** src_001
 
 > Henson and his wife opened Hidden Valley dude ranch in California.
 
-### c_006 — reported, single source
-**Subject entities:** ranch dressing; Hidden Valley Ranch
-**Predicate:** led_to_commercialization
-**Object:** DIY dry mix product (business_action)
-**Temporal:** 1950s-1960s
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** ranch dressing; Hidden Valley Ranch
+- **Predicate:** led_to_commercialization
+- **Object:** DIY dry mix product (business_action)
+- **Temporal:** 1950s-1960s
+- **Sources:** src_001
 
 > The ranch recipe became so popular with guests that Henson sold it as a DIY dry mix.
 
-### c_007 — reported, single source
-**Subject entities:** The Clorox Company; ranch dressing
-**Predicate:** bottled
-**Object:** shelf-stable bottled version (product_variant)
-**Temporal:** 1960s-1970s
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** The Clorox Company; ranch dressing
+- **Predicate:** bottled
+- **Object:** shelf-stable bottled version (product_variant)
+- **Temporal:** 1960s-1970s
+- **Sources:** src_001
 
 > The Clorox Company eventually bottled a shelf-stable version of ranch dressing.
 
-### c_008 — reported, single source
-**Subject entities:** Ken's; Kraft Foods; Wish-Bone
-**Predicate:** competed_with
-**Object:** ranch-style dressings (product_category)
-**Temporal:** 1960s-1970s
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Ken's; Kraft Foods; Wish-Bone
+- **Predicate:** competed_with
+- **Object:** ranch-style dressings (product_category)
+- **Temporal:** 1960s-1970s
+- **Sources:** src_001
 
 > Ken's, Kraft Foods, and Wish-Bone developed their own ranch-style dressings.
 
-### c_009 — reported, single source
-**Subject entities:** Cold Spring Tavern
-**Predicate:** was_first_to_serve
-**Object:** Henson's ranch dressing outside Hidden Valley (historical_distinction)
-**Temporal:** 1960s
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Cold Spring Tavern
+- **Predicate:** was_first_to_serve
+- **Object:** Henson's ranch dressing outside Hidden Valley (historical_distinction)
+- **Temporal:** 1960s
+- **Sources:** src_001
 
 > Cold Spring Tavern in California was the first restaurant outside Hidden Valley to serve Henson's ranch dressing.
 
-### c_010 — reported, single source
-**Subject entities:** Debbie Wilson Potts; Cold Spring Tavern
-**Predicate:** owns
-**Object:** Cold Spring Tavern (business)
-**Temporal:** ongoing
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Debbie Wilson Potts; Cold Spring Tavern
+- **Predicate:** owns
+- **Object:** Cold Spring Tavern (business)
+- **Temporal:** ongoing
+- **Sources:** src_001
 
 > Debbie Wilson Potts's family owns Cold Spring Tavern.
 
-### c_011 — reported, single source
-**Subject entities:** ranch dressing
-**Predicate:** became_best_selling
-**Object:** best-selling salad dressing in America (market_status)
-**Temporal:** 1990s
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** ranch dressing
+- **Predicate:** became_best_selling
+- **Object:** best-selling salad dressing in America (market_status)
+- **Temporal:** 1990s
+- **Sources:** src_001
 
 > Ranch dressing became America's best-selling salad dressing near the close of the twentieth century.
 
-### c_012 — reported, single source
-**Subject entities:** ranch dressing; Italian dressing
-**Predicate:** displaced
-**Object:** Italian dressing from top market position (market_event)
-**Temporal:** 1990s
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** ranch dressing; Italian dressing
+- **Predicate:** displaced
+- **Object:** Italian dressing from top market position (market_event)
+- **Temporal:** 1990s
+- **Sources:** src_001
 
 > Ranch dressing displaced Italian dressing from the top position among salad dressings.
 
-### c_013 — reported, single source
-**Subject entities:** ranch dressing
-**Predicate:** applied_to
-**Object:** hot wings, fried pickles, pizza (food_applications)
-**Temporal:** ongoing
-**Source IDs:** src_001
+### c_013
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** ranch dressing
+- **Predicate:** applied_to
+- **Object:** hot wings, fried pickles, pizza (food_applications)
+- **Temporal:** ongoing
+- **Sources:** src_001
 
 > Ranch dressing is used on hot wings, fried pickles, and pizza.
 
-### c_014 — reported, single source
-**Subject entities:** Paul Freedman; ranch dressing
-**Predicate:** documents_in_book
-**Object:** ranch as 1980s food trend (scholarly_attribution)
-**Temporal:** 1980s
-**Source IDs:** src_001
+### c_014
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Paul Freedman; ranch dressing
+- **Predicate:** documents_in_book
+- **Object:** ranch as 1980s food trend (scholarly_attribution)
+- **Temporal:** 1980s
+- **Sources:** src_001
 
 > Food historian Paul Freedman lists ranch dressing among 1980s food trends alongside sushi and arugula in his book 'American Cuisine and How It Got This Way.'
 
-### c_015 — reported, single source
-**Subject entities:** Cool Ranch Doritos
-**Predicate:** emerged_concurrent_with
-**Object:** 1980s (time_period)
-**Temporal:** 1980s
-**Source IDs:** src_001
+### c_015
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Cool Ranch Doritos
+- **Predicate:** emerged_concurrent_with
+- **Object:** 1980s (time_period)
+- **Temporal:** 1980s
+- **Sources:** src_001
 
 > Cool Ranch Doritos emerged in the 1980s alongside ranch dressing's rise in popularity.
 
-### c_016 — reported, single source
-**Subject entities:** ranch dressing
-**Predicate:** inspired
-**Object:** cookbooks and dedicated restaurants (cultural_artifacts)
-**Temporal:** ongoing
-**Source IDs:** src_001
+### c_016
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** ranch dressing
+- **Predicate:** inspired
+- **Object:** cookbooks and dedicated restaurants (cultural_artifacts)
+- **Temporal:** ongoing
+- **Sources:** src_001
 
 > Entire cookbooks and restaurants dedicated to ranch dressing exist.
 
-### c_017 — reported, single source
-**Subject entities:** ranch dressing
-**Predicate:** is_characterized_as
-**Object:** both celebrated and maligned cultural artifact (cultural_assessment)
-**Temporal:** ongoing
-**Source IDs:** src_001
+### c_017
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** ranch dressing
+- **Predicate:** is_characterized_as
+- **Object:** both celebrated and maligned cultural artifact (cultural_assessment)
+- **Temporal:** ongoing
+- **Sources:** src_001
 
 > Ranch dressing has been called both the 'Great American Condiment' and 'extravagant and trashy.'
 
-### c_018 — attributed, single source
-**Subject entities:** Nick Higgins
-**Predicate:** said
-**Object:** company embraces cultural debates about ranch (statement)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_018
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Nick Higgins
+- **Predicate:** said
+- **Object:** company embraces cultural debates about ranch (statement)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Nick Higgins, an executive for Hidden Valley Ranch's parent company, said 'We love it. It's one of the things we can debate as people and it's OK.'
 
-### c_019 — reported, single source
-**Subject entities:** ranch dressing
-**Predicate:** is_likely_to_persist
-**Object:** enduring popularity (prediction)
-**Temporal:** ongoing
-**Source IDs:** src_001
+### c_019
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** ranch dressing
+- **Predicate:** is_likely_to_persist
+- **Object:** enduring popularity (prediction)
+- **Temporal:** ongoing
+- **Sources:** src_001
 
 > Ranch dressing is likely to endure after four decades of continuous popularity.
 
@@ -288,7 +323,3 @@ That sentiment captures ranch dressing's complicated place in American food cult
 **Access date:** 2026-05-17
 **Title:** How ranch dressing became an American staple
 **URL:** https://apnews.com/article/ranch-dressing-american-objects-wings-pizza-pickles-989ebf24297aa8a4b78cc916b5713e47
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -109,8 +109,6 @@ The national security law imposed by Beijing in 2020 has been used to prosecute 
 
 Beijing has stated the security law was necessary to stabilize Hong Kong following massive pro-democracy protests in 2019 that drew hundreds of thousands of people into the streets.
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
 ### c_001 — confirmed, primary plus secondary
@@ -247,7 +245,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-05-18
 **Title:** Tiananmen vigil organizers enter not guilty pleas in Hong Kong trial
 **URL:** https://apnews.com/article/tiananmen-trial-vigil-lee-ho-chow-open-b5e78e5f92b505e53ecb46301eb11bec
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -1,6 +1,5 @@
 ---
 headline: US cities reverse one-way street designs to improve safety and downtown vitality
-slug: 2026-01-17-midsize-us-cities-reverse-one-way-streets-to-improve-safety-downtown-vitality
 publish_date: '2026-01-17'
 lede: Transportation planners across the United States have been reconverting one-way streets to two-way traffic flows, reversing a mid-20th-century redesign that prioritized suburban commuters over walkable downtowns. Indianapolis completed conversions on two major corridors last year and has budgeted an estimated $60 million for 10 additional projects, according to city officials. Louisville, Lynchburg, Virginia, Austin, Texas, and other cities are pursuing similar reversals, citing research showing one-way configurations create unpredictable hazards for pedestrians at shared intersections.
 nut_graf: The trend reflects a decades-long reassessment of road design choices made when mass suburbanization placed vehicle speed ahead of urban walkability. Researchers say mixing one-way and two-way streets in city grids generates 16 distinct conflict sequences at intersections — a level of variability that pedestrians cannot reliably anticipate — and that the conversion costs, often funded in part by federal grants, are modest relative to the documented safety and economic benefits.
@@ -23,44 +22,39 @@ primary_themes:
 - neighborhood equity
 - infrastructure
 topic_tags:
-  - "arts, culture, entertainment and media"
-  - "economy, business and finance"
-  - sport
-  - "sport event"
-  - transport
+- transport
+- government policy
+- communities
+- economy, business and finance
 storyline_nexus:
-  - trump-fed-independence
+- housing-affordability-crisis
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
-  intensity: 0.72
-- value: informed_citizenship
-  intensity: 0.8
-- value: accountability_of_power
-  intensity: 0.38
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:02:38Z'
+  intensity: 0.9
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:44:51Z'
 source_cluster_id: cluster_ap_2026-01-18_one-way-streets-safety-indianapolis-loui
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 11
   hedges:
-    appears: 0
-    alleged: 0
     attributed: 7
-    reported: 0
+    alleged: 0
     contested: 0
+    reported: 0
     confirmed: 4
+    appears: 0
   corroboration:
+    single_source: 11
     primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
-    primary_document: 0
-    single_source: 11
     two_independent: 0
+    primary_document: 0
 sources:
   count: 1
   outlets:
@@ -74,13 +68,16 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-06-gordie-howe-bridge-nears-opening-as-detroit-s-first-walkable-link-to-canada-in-d
-  relation: related
-  strength: 0.7053
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- **Safety concerns prompt midsize cities to reconvert their 1-way streets** — opening narrative arc or primary actor action.
+
 
 Transportation planners across the United States have been reconverting one-way streets to two-way traffic flows, reversing a mid-20th-century redesign that prioritized suburban commuters over walkable downtowns. Indianapolis completed conversions on two major corridors last year and has budgeted an estimated $60 million for 10 additional projects, according to city officials. Louisville, Lynchburg, Virginia, Austin, Texas, and other cities are pursuing similar reversals, citing research showing one-way configurations create unpredictable hazards for pedestrians at shared intersections.
 
@@ -142,102 +139,124 @@ James Taylor, who runs the community center near the old RCA plant, said it is t
 
 ## Atomic claims
 
-### c_001 — confirmed, single source
-**Subject entities:** Indianapolis
-**Predicate:** converted
-**Object:** Michigan and New York streets, one-way to two-way (street_conversion)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Indianapolis
+- **Predicate:** converted
+- **Object:** Michigan and New York streets, one-way to two-way (street_conversion)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Indianapolis converted Michigan and New York streets from one-way to two-way traffic last year.
 
-### c_002 — attributed, single source
-**Subject entities:** Indianapolis; Mark St. John
-**Predicate:** planned
-**Object:** 10 conversions; $60M total; ~$25M federal (infrastructure_plan)
-**Temporal:** 2026-01-17
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Indianapolis; Mark St. John
+- **Predicate:** planned
+- **Object:** 10 conversions; $60M total; ~$25M federal (infrastructure_plan)
+- **Temporal:** 2026-01-17
+- **Sources:** src_001
 
 > Indianapolis has 10 additional street conversions planned at an estimated total cost of $60 million, approximately $25 million from a 2023 federal grant.
 
-### c_003 — attributed, single source
-**Subject entities:** Indianapolis; RCA
-**Predicate:** converted_to_one_way
-**Object:** Michigan and New York streets (historical_street_change)
-**Temporal:** 1970s
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Indianapolis; RCA
+- **Predicate:** converted_to_one_way
+- **Object:** Michigan and New York streets (historical_street_change)
+- **Temporal:** 1970s
+- **Sources:** src_001
 
 > Michigan and New York streets in Indianapolis were converted to one-way routes in the 1970s to serve RCA plant workers.
 
-### c_004 — confirmed, single source
-**Subject entities:** RCA
-**Predicate:** closed
-**Object:** Indianapolis plant (business_event)
-**Temporal:** 1995
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** RCA
+- **Predicate:** closed
+- **Object:** Indianapolis plant (business_event)
+- **Temporal:** 1995
+- **Sources:** src_001
 
 > The RCA plant in Indianapolis closed in 1995.
 
-### c_005 — attributed, single source
-**Subject entities:** Wade Walker
-**Predicate:** stated
-**Object:** 16 potential conflict sequences (safety_research_claim)
-**Temporal:** 2026-01-17
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Wade Walker
+- **Predicate:** stated
+- **Object:** 16 potential conflict sequences (safety_research_claim)
+- **Temporal:** 2026-01-17
+- **Sources:** src_001
 
 > Mixing one-way and two-way streets creates 16 potential conflict sequences at intersections, according to engineer Wade Walker of Kittelson and Associates.
 
-### c_006 — confirmed, single source
-**Subject entities:** Louisville; Michael King
-**Predicate:** planned_redesign
-**Object:** western Louisville one-way to two-way conversion (street_conversion)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Louisville; Michael King
+- **Predicate:** planned_redesign
+- **Object:** western Louisville one-way to two-way conversion (street_conversion)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Louisville is planning its largest street redesign for 2026 in the predominantly Black western part of the city, where roads changed to one-way routes in the 1970s to feed a new interstate bridge over the Ohio River.
 
-### c_007 — attributed, single source
-**Subject entities:** Chattanooga; University of Tennessee at Chattanooga; Wade Walker
-**Predicate:** resulted_in
-**Object:** business vacancy spike and campus landlocking (economic_safety_impact)
-**Temporal:** post-conversion
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Chattanooga; University of Tennessee at Chattanooga; Wade Walker
+- **Predicate:** resulted_in
+- **Object:** business vacancy spike and campus landlocking (economic_safety_impact)
+- **Temporal:** post-conversion
+- **Sources:** src_001
 
 > After Chattanooga converted two-way streets to one-way, business vacancies skyrocketed and the University of Tennessee at Chattanooga became landlocked.
 
-### c_008 — attributed, single source
-**Subject entities:** Chattanooga; University of Tennessee at Chattanooga; Wade Walker
-**Predicate:** observed
-**Object:** campus expansion and business construction surge (economic_recovery)
-**Temporal:** 2022
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Chattanooga; University of Tennessee at Chattanooga; Wade Walker
+- **Predicate:** observed
+- **Object:** campus expansion and business construction surge (economic_recovery)
+- **Temporal:** 2022
+- **Sources:** src_001
 
 > In 2022, nearly two decades after Chattanooga's road redesign, the college campus had expanded across the former barrier and business construction had surged.
 
-### c_009 — confirmed, single source
-**Subject entities:** Lynchburg
-**Predicate:** completed
-**Object:** downtown Main Street two-way conversion (street_conversion)
-**Temporal:** 2021
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Lynchburg
+- **Predicate:** completed
+- **Object:** downtown Main Street two-way conversion (street_conversion)
+- **Temporal:** 2021
+- **Sources:** src_001
 
 > Lynchburg, Virginia, completed a two-way conversion of its downtown Main Street in 2021.
 
-### c_010 — attributed, single source
-**Subject entities:** Chicago; Bill Conway
-**Predicate:** converted
-**Object:** West Loop two-way to one-way streets (street_conversion)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Chicago; Bill Conway
+- **Predicate:** converted
+- **Object:** West Loop two-way to one-way streets (street_conversion)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Chicago changed some two-way streets to one-way in the West Loop restaurant district last year, drawing criticism from an adjacent alderman.
 
-### c_011 — attributed, single source
-**Subject entities:** Dave Amos
-**Predicate:** stated
-**Object:** almost no major US streets originated as one-way (historical_design_claim)
-**Temporal:** 2026-01-17
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Dave Amos
+- **Predicate:** stated
+- **Object:** almost no major US streets originated as one-way (historical_design_claim)
+- **Temporal:** 2026-01-17
+- **Sources:** src_001
 
 > Almost no major streets in the United States originated as one-way routes, according to Dave Amos, an assistant professor of city and regional planning at California Polytechnic State University.
 
@@ -246,10 +265,5 @@ James Taylor, who runs the community center near the old RCA plant, said it is t
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Jeff Mcmurray
 **Publication date:** 2026-01-17
-**Access date:** 2026-01-17
 **Title:** Safety concerns prompt midsize cities to reconvert their 1-way streets
 **URL:** https://apnews.com/article/one-way-streets-safety-indianapolis-louisville-lynchburg-6ca9c3610c44772665bc0de467d14c40
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

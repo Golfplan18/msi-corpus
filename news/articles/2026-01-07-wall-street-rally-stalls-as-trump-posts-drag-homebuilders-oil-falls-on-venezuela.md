@@ -1,6 +1,5 @@
 ---
 headline: Wall Street rally stalls as Trump posts drag homebuilders; oil falls on Venezuela
-slug: 2026-01-07-wall-street-rally-stalls-as-trump-posts-drag-homebuilders-oil-falls-on-venezuela
 publish_date: '2026-01-07'
 lede: Wall Street's four-day winning streak ended Wednesday as the S&P 500 slipped from its latest record, with homebuilder and real-estate stocks leading declines after President Donald Trump posted social media comments targeting institutional home buyers, while crude oil prices fell after Trump announced a Venezuelan oil supply deal.
 nut_graf: The session illustrated how directly Trump's public statements can redirect capital across sectors — driving homebuilder losses, pulling crude prices lower, and leaving bond traders to weigh a batch of economic data that offered the Federal Reserve its most encouraging inflation signal in months.
@@ -21,33 +20,36 @@ primary_themes:
 - housing policy
 - Federal Reserve
 topic_tags:
-  - "economy, business and finance"
-  - "energy and resource"
+- economy, business and finance
+- market and exchange
+- government policy
+- energy and resource
+- construction and property
 storyline_nexus:
-  - venezuela-crisis
+- us-economic-volatility
 geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.85
 - value: accountability_of_power
-  intensity: 0.55
-framework_version: 1.1.0
-generation_timestamp: '2026-01-07T00:00:00Z'
+  intensity: 0.6
+- value: informed_citizenship
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:00:13Z'
 source_cluster_id: cluster_ap_2026-01-06_stocks-markets-trump-venezuela-rates-5b6
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 17
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 7
-    reported: 0
     contested: 0
+    appears: 0
     confirmed: 10
+    reported: 0
+    attributed: 7
+    alleged: 0
   corroboration:
     primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
@@ -63,63 +65,28 @@ sources:
   highest_reliability_tier: 1
   has_originating: true
   has_primary_document: false
-figures:
-- source: fred
-  series_id: NASDAQCOM
-  transformation: raw
-  as_of: '2026-01-07'
-  caption: The Nasdaq Composite closed at 23,584.27 on Jan. 7, 2026 — a gain of 37.10 points as technology stocks outperformed a broader market that ended its four-session winning streak.
-- source: fred
-  series_id: T10Y2Y
-  transformation: raw
-  as_of: '2026-01-07'
-  caption: The 10-year minus 2-year Treasury yield spread stood at 0.68 percentage points on Jan. 7, remaining in positive territory — a signal that has historically accompanied economic expansion rather than recession.
 figures_aggregate:
-  count: 2
-  series_ids:
-  - NASDAQCOM
-  - T10Y2Y
-  sources:
-  - fred
+  count: 0
+  series_ids: []
+  sources: []
 image:
   url: /articles/2026-01-07-wall-street-rally-stalls-as-trump-posts-drag-homebuilders-oil-falls-on-venezuela.png
   alt: 'Illustration accompanying article: Wall Street rally stalls as Trump posts drag homebuilders; oil falls on'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-07-mexico-emerges-as-cuba-s-key-fuel-supplier-as-venezuela-oil-lifeline-collapses
-  relation: related
-  strength: 0.7614
-  confidence: medium
-- slug: 2026-01-06-s-p-500-hits-record-on-third-trading-day-as-big-tech-leads-broad-gains
-  relation: related
-  strength: 0.7665
-  confidence: medium
-- slug: 2026-01-05-cuba-confronts-energy-crisis-as-u-s-capture-of-maduro-severs-oil-lifeline
-  relation: related
-  strength: 0.7699
-  confidence: medium
-- slug: 2026-01-04-venezuela-oil-revival-faces-decade-long-timeline-and-100-billion-investment-hurd
-  relation: related
-  strength: 0.7759
-  confidence: medium
-- slug: 2026-01-04-rubio-tamps-down-nation-building-fears-as-trump-insists-us-in-charge-in-venezuel
-  relation: related
-  strength: 0.7347
-  confidence: medium
-- slug: 2026-01-04-us-economy-grew-in-2025-but-hiring-lagged-as-tariffs-and-ai-curbed-job-gains
-  relation: related
-  strength: 0.7319
-  confidence: medium
-- slug: 2026-01-04-caracas-falls-quiet-as-venezuelans-wait-to-see-what-comes-next-after-us-seizes-m
-  relation: related
-  strength: 0.7303
-  confidence: medium
-- slug: 2026-01-04-venezuela-intervention-tests-trump-s-america-first-pledge-as-gop-shows-unease
-  relation: related
-  strength: 0.7104
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Wall Street’s strong start to the year slows
+- NEW YORK (AP) — Wall Street’s strong start to the year slowed on Wednesday.
+- Warner Bros. Discovery rose 0.4%, while Paramount Skydance fell 1% and Netflix added 0.1%.
+- All told, the S&P 500 fell 23.89 points to 6,920.93. The Dow Jones Industrial Average dropped 466.00 to 48,996.08, and the Nasdaq composite rose 37.10 to 23,584.27.
+- AP business correspondent Seth Sutel reports a market rally skidded to a stop.
+- Not only that, the report from the Institute for Supply Management also said that a measure of inflation eased to its lowest level since March.
 
 The session illustrated how directly Trump's public statements can redirect capital across sectors — driving homebuilder losses, pulling crude prices lower, and leaving bond traders to weigh a batch of economic data that offered the Federal Reserve its most encouraging inflation signal in months.
 
@@ -165,156 +132,190 @@ Stock indexes fell 0.7% in London, 0.9% in Hong Kong, and 1.1% in Tokyo. Seoul g
 
 ## Atomic claims
 
-### c_001 — confirmed, single source
-**Subject entities:** S&P 500
-**Predicate:** declined
-**Object:** 6920.93 (index_level)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** S&P 500
+- **Predicate:** declined
+- **Object:** 6920.93 (index_level)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > The S&P 500 fell 23.89 points to 6,920.93 on Wednesday, Jan. 7, 2026, its first loss in four days.
 
-### c_002 — confirmed, single source
-**Subject entities:** Dow Jones Industrial Average
-**Predicate:** declined
-**Object:** 48996.08 (index_level)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Dow Jones Industrial Average
+- **Predicate:** declined
+- **Object:** 48996.08 (index_level)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > The Dow Jones Industrial Average dropped 466 points to 48,996.08, retreating from a record set the prior session.
 
-### c_003 — confirmed, single source
-**Subject entities:** Nasdaq Composite
-**Predicate:** rose
-**Object:** 23584.27 (index_level)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Nasdaq Composite
+- **Predicate:** rose
+- **Object:** 23584.27 (index_level)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > The Nasdaq composite rose 37.10 to 23,584.27.
 
-### c_004 — attributed, single source
-**Subject entities:** Donald Trump
-**Predicate:** posted
-**Object:** proposed restriction on institutional home buying (policy_statement)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** posted
+- **Object:** proposed restriction on institutional home buying (policy_statement)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Trump posted on social media suggesting measures to prevent large institutional investors from buying single-family homes, with the stated aim of improving housing affordability.
 
-### c_005 — confirmed, single source
-**Subject entities:** D.R. Horton; PulteGroup
-**Predicate:** declined
-**Object:** 3.6% and 3.2% respectively (percentage_change)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** D.R. Horton; PulteGroup
+- **Predicate:** declined
+- **Object:** 3.6% and 3.2% respectively (percentage_change)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > D.R. Horton fell 3.6% and PulteGroup fell 3.2% following Trump's social media post.
 
-### c_006 — confirmed, single source
-**Subject entities:** Blackstone
-**Predicate:** declined
-**Object:** 5.6% (intraday low more than 9%) (percentage_change)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Blackstone
+- **Predicate:** declined
+- **Object:** 5.6% (intraday low more than 9%) (percentage_change)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Blackstone briefly fell more than 9% before paring its loss to 5.6%.
 
-### c_007 — attributed, single source
-**Subject entities:** Donald Trump; Venezuela
-**Predicate:** stated
-**Object:** 30-50 million barrels of Venezuelan oil for U.S. (supply_commitment)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Venezuela
+- **Predicate:** stated
+- **Object:** 30-50 million barrels of Venezuelan oil for U.S. (supply_commitment)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Trump said Venezuela would provide 30 million to 50 million barrels of oil to the United States.
 
-### c_008 — confirmed, single source
-**Subject entities:** WTI crude oil
-**Predicate:** declined
-**Object:** 55.99 (price_per_barrel_usd)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** WTI crude oil
+- **Predicate:** declined
+- **Object:** 55.99 (price_per_barrel_usd)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > U.S. benchmark crude dropped 2% to $55.99 per barrel.
 
-### c_009 — confirmed, single source
-**Subject entities:** Brent crude
-**Predicate:** declined
-**Object:** 59.96 (price_per_barrel_usd)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Brent crude
+- **Predicate:** declined
+- **Object:** 59.96 (price_per_barrel_usd)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Brent crude fell 1.2% to $59.96 per barrel.
 
-### c_010 — attributed, single source
-**Subject entities:** Institute for Supply Management
-**Predicate:** reported
-**Object:** services growth above forecast; inflation gauge lowest since March (survey_result)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Institute for Supply Management
+- **Predicate:** reported
+- **Object:** services growth above forecast; inflation gauge lowest since March (survey_result)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > The ISM services-sector report showed growth accelerated more than economists expected last month, and an ISM inflation gauge eased to its lowest level since March.
 
-### c_011 — confirmed, single source
-**Subject entities:** 10-year Treasury
-**Predicate:** declined
-**Object:** 4.14% (yield)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_011
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** 10-year Treasury
+- **Predicate:** declined
+- **Object:** 4.14% (yield)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > The 10-year Treasury yield fell to 4.14% from 4.18% late Tuesday.
 
-### c_012 — confirmed, single source
-**Subject entities:** 2-year Treasury
-**Predicate:** held
-**Object:** 3.47% (yield)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_012
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** 2-year Treasury
+- **Predicate:** held
+- **Object:** 3.47% (yield)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > The 2-year Treasury yield held at 3.47%.
 
-### c_013 — attributed, single source
-**Subject entities:** Federal Reserve; CME Group
-**Predicate:** implied_probability
-**Object:** less than 12% (rate_cut_probability)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Federal Reserve; CME Group
+- **Predicate:** implied_probability
+- **Object:** less than 12% (rate_cut_probability)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Traders priced in less than a 12% chance of a Fed rate cut at its next meeting, down slightly from the prior day, according to CME Group data.
 
-### c_014 — attributed, single source
-**Subject entities:** U.S. labor market
-**Predicate:** reported
-**Object:** declining openings; net +41,000 private payrolls (labor_data)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. labor market
+- **Predicate:** reported
+- **Object:** declining openings; net +41,000 private payrolls (labor_data)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > One jobs report showed employers cut back on advertised openings; a second indicated private-sector employers added a net 41,000 jobs last month.
 
-### c_015 — attributed, single source
-**Subject entities:** Warner Bros. Discovery; Paramount Skydance; Netflix
-**Predicate:** rejected
-**Object:** Paramount buyout bid (corporate_action)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Warner Bros. Discovery; Paramount Skydance; Netflix
+- **Predicate:** rejected
+- **Object:** Paramount buyout bid (corporate_action)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Warner Bros. Discovery again rejected a buyout bid from Paramount and directed shareholders to favor a Netflix offer.
 
-### c_016 — confirmed, single source
-**Subject entities:** Warner Bros. Discovery; Paramount Skydance; Netflix
-**Predicate:** moved
-**Object:** +0.4%, -1.0%, +0.1% (percentage_change)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_016
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Warner Bros. Discovery; Paramount Skydance; Netflix
+- **Predicate:** moved
+- **Object:** +0.4%, -1.0%, +0.1% (percentage_change)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Warner Bros. Discovery rose 0.4%, Paramount Skydance fell 1%, and Netflix added 0.1%.
 
-### c_017 — attributed, single source
-**Subject entities:** crude oil; Venezuela
-**Predicate:** declined
-**Object:** 2021-era levels (price_context)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_017
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** crude oil; Venezuela
+- **Predicate:** declined
+- **Object:** 2021-era levels (price_context)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Oil prices had already fallen back to 2021 levels before Trump's Venezuela action, reflecting expectations of plentiful global supplies.
 
@@ -323,10 +324,5 @@ Stock indexes fell 0.7% in London, 0.9% in Hong Kong, and 1.1% in Tokyo. Seoul g
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Stan Choe
 **Publication date:** 2026-01-07
-**Access date:** 2026-01-07
 **Title:** Wall Street's strong start to the year slows
 **URL:** https://apnews.com/article/stocks-markets-trump-venezuela-rates-5b6274e10230325ebd9f5ecd224b002a
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

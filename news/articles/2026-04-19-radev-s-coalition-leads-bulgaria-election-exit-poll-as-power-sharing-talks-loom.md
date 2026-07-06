@@ -122,8 +122,6 @@ His relatively vague campaign platform has left him open to cooperation with alm
 
 Bulgaria joined the eurozone on January 1, shortly after entering the border-free Schengen travel area. Official results are expected Monday.
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from public sources listed under sources. Specification: /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
 ### c_001 — reported, single source
@@ -314,7 +312,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-05-17
 **Title:** Radev's Progressive Bulgaria surges to a big lead in parliamentary vote, poll shows
 **URL:** https://apnews.com/article/bulgaria-election-radev-borissov-corruption-3e20cf8eef356337f724fd967efb72cf
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -19,44 +19,43 @@ primary_themes:
 - legislative debate
 - public health
 topic_tags:
-  - government
-  - health
-  - politics
-  - "public health"
-storyline_nexus: []
-geographic_location: Indiana, United States
+- public health
+- government policy
+- health
+- disease and condition
+storyline_nexus:
+- abortion-rights-battles
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
   intensity: 0.9
-- value: truthfulness
-  intensity: 0.85
 - value: accountability_of_power
-  intensity: 0.8
+  intensity: 0.6
 - value: informed_citizenship
-  intensity: 0.85
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:20:53Z'
 source_cluster_id: cluster_ap_2026-01-24_indiana-addiction-and-treatment-medical-
 gdelt_event_ids: []
-consensus_floor_version: MSI Treatise v1.0
-publication_mindspec_version: MSI Editorial Router v1.0
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 15
   hedges:
-    appears: 0
     alleged: 0
-    attributed: 6
     reported: 9
-    contested: 0
+    appears: 0
+    attributed: 6
     confirmed: 0
+    contested: 0
   corroboration:
-    primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
-    primary_document: 0
-    single_source: 15
     two_independent: 0
+    primary_document: 0
+    primary_plus_secondary: 0
+    single_source: 15
 sources:
   count: 1
   outlets:
@@ -70,17 +69,16 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-05-17-carfentanil-100-times-stronger-than-fentanyl-surges-across-u-s
-  relation: related
-  strength: 0.7732
-  confidence: medium
-- slug: 2026-01-09-indianapolis-nonprofit-uses-anonymous-texts-to-warn-drug-users-of-supply-disrupt
-  relation: related
-  strength: 0.8147
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- Indiana's syringe exchange programs face closure in July 2026 unless state lawmakers pass legislation to extend them, a decision point in a broader debate over harm reduction during the opioid crisis.
+- The programs have become a flashpoint between Republicans and Democrats in the legislature, with data showing significant public health benefits—hepatitis C infections fell 60 percent in Marion County after five years of operations—but facing opposition from some GOP lawmakers and the state's prosecutors association.
+- More than 47,000 doses of naloxone, a life-saving medication that reverses opioid overdoses, were distributed between 2024 and 2025. Program participants reported using the medication to reverse about 1,700 overdoses..
 
 Indiana's syringe exchange programs face closure in July 2026 unless state lawmakers pass legislation to extend them, a decision point in a broader debate over harm reduction during the opioid crisis. The programs, operating in six counties, would shut down automatically if Senate Bill 91 fails to pass. The legislation, filed by Sen. Michael Crider, a Republican from Greenfield, would extend the exchanges for another decade.
 
@@ -132,150 +130,175 @@ SB 91 passed out of committee but faces an uncertain path in the full Senate. Wi
 
 ## Atomic claims
 
-### c_001 — reported, single source
-**Subject entities:** Indiana syringe exchange programs
-**Predicate:** face_shutdown
-**Object:** July 2026 (temporal_deadline)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Indiana syringe exchange programs
+- **Predicate:** face_shutdown
+- **Object:** July 2026 (temporal_deadline)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > Indiana syringe exchange programs operating in six counties face mandatory shutdown in July 2026.
 
-### c_002 — attributed, single source
-**Subject entities:** Senate Bill 91; Michael Crider
-**Predicate:** would_extend
-**Object:** ten years (duration)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Senate Bill 91; Michael Crider
+- **Predicate:** would_extend
+- **Object:** ten years (duration)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > Senate Bill 91, filed by Sen. Michael Crider, would extend syringe exchange programs for ten years.
 
-### c_003 — attributed, single source
-**Subject entities:** Morgan Bryant; Damien Center
-**Predicate:** attended_program
-**Object:** syringe exchange (program_type)
-**Temporal:** 2023
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Morgan Bryant; Damien Center
+- **Predicate:** attended_program
+- **Object:** syringe exchange (program_type)
+- **Temporal:** 2023
+- **Sources:** src_001
 
 > Morgan Bryant attended a syringe exchange program at the Damien Center in 2023 while using meth and heroin.
 
-### c_004 — reported, single source
-**Subject entities:** Morgan Bryant
-**Predicate:** is_sober
-**Object:** nearly two years (duration)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Morgan Bryant
+- **Predicate:** is_sober
+- **Object:** nearly two years (duration)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > Morgan Bryant is now nearly two years sober.
 
-### c_005 — reported, single source
-**Subject entities:** Marion County; hepatitis C cases
-**Predicate:** declined
-**Object:** 60 percent (percentage_change)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Marion County; hepatitis C cases
+- **Predicate:** declined
+- **Object:** 60 percent (percentage_change)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > Hepatitis C cases in Marion County fell approximately 60 percent after five years of syringe exchange program operations.
 
-### c_006 — reported, single source
-**Subject entities:** syringe exchange programs; naloxone
-**Predicate:** distributed
-**Object:** 47,000 doses (quantity)
-**Temporal:** 2024-2025
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** syringe exchange programs; naloxone
+- **Predicate:** distributed
+- **Object:** 47,000 doses (quantity)
+- **Temporal:** 2024-2025
+- **Sources:** src_001
 
 > More than 47,000 doses of naloxone were distributed by syringe exchange programs between 2024 and 2025.
 
-### c_007 — reported, single source
-**Subject entities:** program participants; naloxone
-**Predicate:** reversed_overdoses
-**Object:** 1,700 overdoses (count)
-**Temporal:** 2024-2025
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** program participants; naloxone
+- **Predicate:** reversed_overdoses
+- **Object:** 1,700 overdoses (count)
+- **Temporal:** 2024-2025
+- **Sources:** src_001
 
 > Program participants reported using naloxone to reverse approximately 1,700 overdoses.
 
-### c_008 — reported, single source
-**Subject entities:** Trump administration
-**Predicate:** restricted_funding
-**Object:** harm reduction programs (program_category)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Trump administration
+- **Predicate:** restricted_funding
+- **Object:** harm reduction programs (program_category)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > The Trump administration restricted federal funding for harm reduction programs in a 2025 executive order.
 
-### c_009 — attributed, single source
-**Subject entities:** Michael Crider
-**Predicate:** stated
-**Object:** addiction is a health problem (policy_position)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Michael Crider
+- **Predicate:** stated
+- **Object:** addiction is a health problem (policy_position)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > Sen. Michael Crider said addiction should be treated as a health problem, not a moral failure.
 
-### c_010 — reported, single source
-**Subject entities:** Indiana Prosecuting Attorneys Council
-**Predicate:** opposes
-**Object:** extending syringe exchange programs (policy_position)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Indiana Prosecuting Attorneys Council
+- **Predicate:** opposes
+- **Object:** extending syringe exchange programs (policy_position)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > The Indiana Prosecuting Attorneys Council opposes extending syringe exchange programs.
 
-### c_011 — attributed, single source
-**Subject entities:** Chris Daniels; Indiana Prosecuting Attorneys Council
-**Predicate:** claimed
-**Object:** proliferation of needles (allegation)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Chris Daniels; Indiana Prosecuting Attorneys Council
+- **Predicate:** claimed
+- **Object:** proliferation of needles (allegation)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > Chris Daniels of the Indiana Prosecuting Attorneys Council claimed syringe exchanges cause a 'proliferation of needles' but could not provide data when pressed by lawmakers.
 
-### c_012 — reported, single source
-**Subject entities:** La Keisha Jackson; Senate Bill 91
-**Predicate:** co_authored
-**Object:** Senate Bill 91 (legislation)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** La Keisha Jackson; Senate Bill 91
+- **Predicate:** co_authored
+- **Object:** Senate Bill 91 (legislation)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > Sen. La Keisha Jackson, a Democrat, is a co-author of Senate Bill 91.
 
-### c_013 — attributed, single source
-**Subject entities:** La Keisha Jackson
-**Predicate:** stated
-**Object:** exchanges effective for recovery (policy_position)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** La Keisha Jackson
+- **Predicate:** stated
+- **Object:** exchanges effective for recovery (policy_position)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > Sen. Jackson said syringe exchanges are effective at reducing injections and assisting people in recovery.
 
-### c_014 — reported, single source
-**Subject entities:** Aaron Freeman
-**Predicate:** proposed_amendment
-**Object:** ID and residency requirements (amendment)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_014
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Aaron Freeman
+- **Predicate:** proposed_amendment
+- **Object:** ID and residency requirements (amendment)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > Sen. Aaron Freeman proposed an amendment requiring program participants to provide identification and proof of residency.
 
-### c_015 — attributed, single source
-**Subject entities:** Michael Crider; Aaron Freeman
-**Predicate:** opposes
-**Object:** residency requirement amendment (legislative_position)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Michael Crider; Aaron Freeman
+- **Predicate:** opposes
+- **Object:** residency requirement amendment (legislative_position)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > Sen. Crider opposes Freeman's amendment, saying it would hurt the bill and limit access for people seeking help regardless of residence.
 
 ## Sources
 
 ### src_001 — Associated Press, wire, Tier 1, originating
-**Author:** Mary Claire Molloy
+**Author:** Mary Claire Molloy / Mirror Indy
 **Publication date:** 2026-01-23
-**Access date:** 2026-01-23
-**Title:** Indiana's needle exchange programs are on the chopping block
+**Title:** Indiana’s needle exchange programs are on the chopping block
 **URL:** https://apnews.com/article/indiana-addiction-and-treatment-medical-devices-morgan-bryant-medication-b9eff85b8dd2c7543335e5d6247ebe15
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

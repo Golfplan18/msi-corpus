@@ -120,9 +120,6 @@ Fostis Siadimas, one of the volunteer performers, is working his second Olympic 
 
 "The last few moments before entering the stadium, it's an experience, one of the best of my life, ever," Siadimas said.
 
----
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under sources. Specification: /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
 ### c_001 — confirmed, single source
@@ -241,7 +238,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-01-24
 **Title:** Volunteers prepare for Milan Cortina Winter Olympics at San Siro stadium
 **URL:** https://apnews.com/article/milan-cortina-opening-ceremony-rehearsals-olympics-1acc32327bc435e01c5b6f178db3f260
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

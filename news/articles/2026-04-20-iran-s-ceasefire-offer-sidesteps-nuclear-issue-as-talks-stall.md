@@ -24,43 +24,40 @@ primary_themes:
 - economic_impact
 - military_deployments
 topic_tags:
-  - "armed conflict"
-  - "conflict, war and peace"
-  - "international relations"
-  - politics
+- armed conflict
+- conflict, war and peace
+- international relations
+- peace process
+- energy and resource
 storyline_nexus:
-  - iran-war
-geographic_location: Iran, United States, Middle East, Russia
+- the-iran-war
+geographic_location: United States
 floor_values_engaged:
-- value: truthfulness
-  intensity: 0.95
 - value: informed_citizenship
   intensity: 0.9
-- value: accountability_of_power
-  intensity: 0.8
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T08:45:00Z'
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T01:06:51Z'
 source_cluster_id: cluster_ap_2026-04-21_iran-us-israel-war-what-to-know-beb5625f
 gdelt_event_ids: []
-consensus_floor_version: '1.0'
-publication_mindspec_version: '1.0'
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 12
   hedges:
     appears: 0
-    alleged: 0
     attributed: 3
-    reported: 5
+    alleged: 0
     contested: 0
+    reported: 5
     confirmed: 4
   corroboration:
     primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 0
     single_source: 12
     two_independent: 0
+    one_originating_plus_primary_document: 0
+    primary_document: 0
 sources:
   count: 1
   outlets:
@@ -74,41 +71,14 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-04-15-pakistan-army-chief-meets-iran-fm-in-bid-to-restart-us-iran-talks-before-ceasefi
-  relation: related
-  strength: 0.8721
-  confidence: medium
-- slug: 2026-04-18-iran-announces-hormuz-reopening-as-blockade-standoff-continues
-  relation: related
-  strength: 0.8499
-  confidence: medium
-- slug: 2026-04-16-israel-lebanon-10-day-ceasefire-takes-effect-as-diplomats-push-to-extend-iran-tr
-  relation: related
-  strength: 0.8545
-  confidence: medium
-- slug: 2026-04-15-bessent-warns-of-secondary-iran-sanctions-as-ceasefire-deadline-nears
-  relation: related
-  strength: 0.8505
-  confidence: medium
-- slug: 2026-04-18-iran-war-energy-crisis-accelerates-nuclear-power-plans-in-asia-and-africa
-  relation: related
-  strength: 0.8093
-  confidence: medium
-- slug: 2026-04-16-europe-faces-six-week-jet-fuel-supply-cliff-as-iran-war-chokes-hormuz
-  relation: related
-  strength: 0.7992
-  confidence: medium
-- slug: 2026-04-16-house-rejects-iran-war-powers-resolution-213-214-as-60-day-deadline-nears
-  relation: related
-  strength: 0.7836
-  confidence: medium
-- slug: 2026-04-17-strait-of-hormuz-reopens-oil-prices-fall-10-but-gasoline-relief-will-take-months
-  relation: related
-  strength: 0.7766
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- Iran proposed a deal that would reopen the Strait of Hormuz in exchange for the United States lifting its blockade and agreeing to
 
 Diplomatic efforts to end the Iran war stalled again over the weekend as both sides refused to budge on their demands, deepening a standoff that has sent oil prices soaring and strangled Iran's economy.
 
@@ -148,111 +118,135 @@ On the diplomatic front, Iranian Foreign Minister Abbas Araghchi met with Russia
 
 ## Atomic claims
 
-### c_001 — reported, single source
-**Subject entities:** Iran; United States
-**Predicate:** stalled_negotiations
-**Object:** ceasefire negotiations (diplomatic_event)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Iran; United States
+- **Predicate:** stalled_negotiations
+- **Object:** ceasefire negotiations (diplomatic_event)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Diplomatic efforts to end the Iran war stalled over the weekend as both sides dug in on their demands.
 
-### c_002 — reported, single source
-**Subject entities:** Iran
-**Predicate:** stated_condition
-**Object:** reopen Strait of Hormuz contingent on blockade lifting and war end (policy_condition)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Iran
+- **Predicate:** stated_condition
+- **Object:** reopen Strait of Hormuz contingent on blockade lifting and war end (policy_condition)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Iran said it will not reopen the Strait of Hormuz unless the United States lifts its blockade and ends the war.
 
-### c_003 — attributed, single source
-**Subject entities:** Iran
-**Predicate:** proposed
-**Object:** ceasefire excluding nuclear program negotiations (policy_proposal)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Iran
+- **Predicate:** proposed
+- **Object:** ceasefire excluding nuclear program negotiations (policy_proposal)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Iran's latest proposal would put off negotiations on its nuclear program to a future date.
 
-### c_004 — attributed, single source
-**Subject entities:** Donald Trump; Iran
-**Predicate:** demands
-**Object:** comprehensive deal including nuclear, missiles, and proxy support (diplomatic_demand)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Iran
+- **Predicate:** demands
+- **Object:** comprehensive deal including nuclear, missiles, and proxy support (diplomatic_demand)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > President Trump wants a broader deal addressing Iran's nuclear program, missile program, and support for regional proxies.
 
-### c_005 — attributed, single source
-**Subject entities:** Marco Rubio; Iran
-**Predicate:** stated
-**Object:** any agreement must prevent Iran from pursuing nuclear weapons (speech_act)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Marco Rubio; Iran
+- **Predicate:** stated
+- **Object:** any agreement must prevent Iran from pursuing nuclear weapons (speech_act)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > "We have to ensure that any deal that is made, any agreement that is made, is one that definitively prevents them from sprinting towards a nuclear weapon at any point," U.S. Secretary of State Marco Rubio said.
 
-### c_006 — confirmed, single source
-**Subject entities:** ceasefire; Donald Trump
-**Predicate:** extended
-**Object:** indefinite extension from April 8 start date (temporal_action)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** ceasefire; Donald Trump
+- **Predicate:** extended
+- **Object:** indefinite extension from April 8 start date (temporal_action)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > The current ceasefire began April 8 and has been extended indefinitely by Trump.
 
-### c_007 — confirmed, single source
-**Subject entities:** Strait of Hormuz
-**Predicate:** carries
-**Object:** 20% of globally traded oil and natural gas (volume_metric)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Strait of Hormuz
+- **Predicate:** carries
+- **Object:** 20% of globally traded oil and natural gas (volume_metric)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > About 20% of all traded oil and natural gas passes through the Strait of Hormuz.
 
-### c_008 — reported, single source
-**Subject entities:** Pakistan
-**Predicate:** signaled
-**Object:** removal of negotiation infrastructure indicates low near-term prospects (diplomatic_signal)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Pakistan
+- **Predicate:** signaled
+- **Object:** removal of negotiation infrastructure indicates low near-term prospects (diplomatic_signal)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Pakistan took down checkpoints and security in place for negotiations, signaling there is no immediate hope of talks resuming.
 
-### c_009 — confirmed, single source
-**Subject entities:** USS Abraham Lincoln; USS Gerald R. Ford; USS George H. W. Bush
-**Predicate:** positioned
-**Object:** 3 carrier groups deployed to Middle East (military_deployment)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** USS Abraham Lincoln; USS Gerald R. Ford; USS George H. W. Bush
+- **Predicate:** positioned
+- **Object:** 3 carrier groups deployed to Middle East (military_deployment)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > The U.S. Navy has three aircraft carrier groups in the region as of Monday—the USS Abraham Lincoln, the USS Gerald R. Ford, and the USS George H.W. Bush.
 
-### c_010 — confirmed, single source
-**Subject entities:** carrier_groups
-**Predicate:** comprise
-**Object:** 15,000 personnel, 200+ aircraft, additional ships (force_composition)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** carrier_groups
+- **Predicate:** comprise
+- **Object:** 15,000 personnel, 200+ aircraft, additional ships (force_composition)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Those carriers include some 15,000 sailors and Marines, as well as over 200 aircraft and additional ships.
 
-### c_011 — reported, single source
-**Subject entities:** Abbas Araghchi; Vladimir Putin
-**Predicate:** met
-**Object:** diplomatic meeting (diplomatic_event)
-**Temporal:** 2026-04-21
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Abbas Araghchi; Vladimir Putin
+- **Predicate:** met
+- **Object:** diplomatic meeting (diplomatic_event)
+- **Temporal:** 2026-04-21
+- **Sources:** src_001
 
 > Iranian Foreign Minister Abbas Araghchi met with Russian President Vladimir Putin on Monday.
 
-### c_012 — reported, single source
-**Subject entities:** Iran; enriched uranium
-**Predicate:** retains
-**Object:** all enriched uranium stockpile, possibly at bombed sites (asset_status)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Iran; enriched uranium
+- **Predicate:** retains
+- **Object:** all enriched uranium stockpile, possibly at bombed sites (asset_status)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > All of Iran's highly enriched uranium remains in the country, likely entombed at enrichment sites bombed by the U.S. during a 12-day war last June.
 
@@ -261,10 +255,5 @@ On the diplomatic front, Iranian Foreign Minister Abbas Araghchi met with Russia
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Jon Gambrell
 **Publication date:** 2026-04-20
-**Access date:** 2026-04-20
 **Title:** What to know as ceasefire negotiations in the Iran war remain in flux
 **URL:** https://apnews.com/article/iran-us-israel-war-what-to-know-beb5625f8537ceaf22c061cf073210aa
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

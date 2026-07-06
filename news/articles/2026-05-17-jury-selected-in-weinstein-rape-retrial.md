@@ -15,7 +15,8 @@ topic_tags:
   - trial
   - "crime, law and justice"
   - "human migration"
-storyline_nexus: []
+storyline_nexus:
+- harvey-weinstein-retrial
 geographic_location: New York, New York, USA
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -80,97 +81,115 @@ His initial 2020 New York conviction on the same rape charge was overturned, for
 
 Weinstein has been behind bars for six years. He denies all allegations and has appealed his various convictions. The Oscar-winning former movie producer has spent much of the past decade fighting sexual assault cases in New York and California.
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Harvey Weinstein; jury
-**Predicate:** jury_selected
-**Object:** 7 men, 5 women (jury_composition)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Harvey Weinstein; jury
+- **Predicate:** jury_selected
+- **Object:** 7 men, 5 women (jury_composition)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > Jury selection concluded with seven men and five women selected for Weinstein's rape retrial.
 
-### c_002 — alleged, primary document
-**Subject entities:** Harvey Weinstein
-**Predicate:** charged_with_rape
-**Object:** rape, Manhattan hotel, 2013 (criminal_charge)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_002
+- **Hedge:** alleged
+- **Corroboration:** primary_document
+- **Subject entities:** Harvey Weinstein
+- **Predicate:** charged_with_rape
+- **Object:** rape, Manhattan hotel, 2013 (criminal_charge)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > The trial involves an allegation that Weinstein raped a woman at a Manhattan hotel in 2013.
 
-### c_003 — confirmed, primary document
-**Subject entities:** Harvey Weinstein
-**Predicate:** entered_plea
-**Object:** not guilty (plea)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Harvey Weinstein
+- **Predicate:** entered_plea
+- **Object:** not guilty (plea)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > Weinstein pleaded not guilty.
 
-### c_004 — reported, single source
-**Subject entities:** Weinstein retrial
-**Predicate:** estimated_duration
-**Object:** up to 4 weeks (duration)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Weinstein retrial
+- **Predicate:** estimated_duration
+- **Object:** up to 4 weeks (duration)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > The trial is expected to take up to four weeks.
 
-### c_005 — confirmed, single source
-**Subject entities:** Harvey Weinstein
-**Predicate:** age
-**Object:** 73 (age)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Harvey Weinstein
+- **Predicate:** age
+- **Object:** 73 (age)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > Weinstein is 73 years old.
 
-### c_006 — confirmed, single source
-**Subject entities:** Harvey Weinstein
-**Predicate:** conviction_status
-**Object:** 2020 conviction overturned (legal_status)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Harvey Weinstein
+- **Predicate:** conviction_status
+- **Object:** 2020 conviction overturned (legal_status)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > Weinstein's initial 2020 New York conviction was overturned.
 
-### c_007 — confirmed, single source
-**Subject entities:** Weinstein retrial
-**Predicate:** jury_deadlocked
-**Object:** deadlocked on rape charge (jury_outcome)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Weinstein retrial
+- **Predicate:** jury_deadlocked
+- **Object:** deadlocked on rape charge (jury_outcome)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > Last year's retrial resulted in jurors deadlocking on the rape charge.
 
-### c_008 — confirmed, single source
-**Subject entities:** Weinstein retrial; two women
-**Predicate:** reached_mixed_verdict
-**Object:** mixed verdicts on sexual assault charges (verdict)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Weinstein retrial; two women
+- **Predicate:** reached_mixed_verdict
+- **Object:** mixed verdicts on sexual assault charges (verdict)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > The last retrial produced mixed verdicts on sexual assault charges involving two other women.
 
-### c_009 — confirmed, single source
-**Subject entities:** Harvey Weinstein
-**Predicate:** incarceration_duration
-**Object:** 6 years (duration)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Harvey Weinstein
+- **Predicate:** incarceration_duration
+- **Object:** 6 years (duration)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > Weinstein has been behind bars for six years.
 
-### c_010 — attributed, single source
-**Subject entities:** Harvey Weinstein
-**Predicate:** denies_allegations
-**Object:** all allegations (defendant_position)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Harvey Weinstein
+- **Predicate:** denies_allegations
+- **Object:** all allegations (defendant_position)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > Weinstein denies all allegations.
 
@@ -181,7 +200,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-05-17
 **Title:** Harvey Weinstein's rape retrial is set to open Tuesday
 **URL:** https://apnews.com/article/harvey-weinstein-rape-retrial-72d8b9d01c4159fa6ae6d9fb865a4fa2
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

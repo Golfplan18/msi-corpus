@@ -19,40 +19,41 @@ primary_themes:
 - OECD
 - US trade and fiscal policy
 topic_tags:
-  - politics
-  - government
-  - "international relations"
-  - "economy, business and finance"
-storyline_nexus: []
-geographic_location: Washington, D.C. / International
+- tax
+- international relations
+- economy, business and finance
+- government policy
+storyline_nexus:
+- trump-tariff-wars
+geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.8
+  intensity: 0.9
 - value: equality_fairness
   intensity: 0.6
-framework_version: 1.1.0
-generation_timestamp: '2026-01-05T00:00:00Z'
+- value: informed_citizenship
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-22T23:58:38Z'
 source_cluster_id: cluster_ap_2026-01-06_tax-europe-oecd-91627ddcf78c145dab977525
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 12
   hedges:
-    appears: 0
-    alleged: 0
     attributed: 7
-    reported: 0
-    contested: 0
     confirmed: 5
+    appears: 0
+    reported: 0
+    alleged: 0
+    contested: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 4
+    one_originating_plus_primary_document: 0
+    primary_plus_secondary: 0
     single_source: 8
     two_independent: 0
 sources:
@@ -75,6 +76,15 @@ image:
 cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- The amended pact represents a significant rollback of the 2021 OECD agreement championed by former Treasury Secretary Janet Yellen, which sought to halt the decades-long race to the bottom in corporate taxation by stopping multinationals from booking profits in places like Bermuda and the Cayman Islands where they do little or no actual business.
+- The Organization for Economic Cooperation and Development announced Monday that nearly 150 countries have agreed to a revised global minimum corporate tax framework that exempts large U.S.-based multinationals from the 15% floor, closing out negotiations shaped by the Trump administration's demands and drawing sharply divergent reactions from treasury officials and tax watchdogs.
+- OECD Secretary-General Mathias Cormann said in a statement that the agreement is a "landmark decision in international tax co-operation" and "enhances tax certainty, reduces complexity, and protects tax bases."
+- The amended pact represents a significant rollback of the landmark 2021 OECD agreement championed by former Treasury Secretary Janet Yellen, which sought to halt the decades-long race to the bottom in corporate taxation by stopping multinationals from booking profits in places like Bermuda and the Cayman Islands where they do little or no actual business.
 
 The amended pact represents a significant rollback of the 2021 OECD agreement championed by former Treasury Secretary Janet Yellen, which sought to halt the decades-long race to the bottom in corporate taxation by stopping multinationals from booking profits in places like Bermuda and the Cayman Islands where they do little or no actual business.
 
@@ -102,111 +112,135 @@ Yellen, who drove the original 2021 agreement and made the corporate minimum tax
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** OECD; 150 countries
-**Predicate:** agreed_on
-**Object:** global minimum corporate tax plan (policy)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** OECD; 150 countries
+- **Predicate:** agreed_on
+- **Object:** global minimum corporate tax plan (policy)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > The OECD announced Monday that nearly 150 countries have agreed on a plan to stop large global companies from shifting profits to low-tax countries.
 
-### c_002 — attributed, single source
-**Subject entities:** US multinationals; OECD
-**Predicate:** excludes
-**Object:** 15% global minimum tax (policy)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** US multinationals; OECD
+- **Predicate:** excludes
+- **Object:** 15% global minimum tax (policy)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > The amended version excludes large U.S.-based multinational corporations from the 15% global minimum tax.
 
-### c_003 — attributed, single source
-**Subject entities:** Trump administration; G7
-**Predicate:** negotiated
-**Object:** US multinational exemption (policy)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Trump administration; G7
+- **Predicate:** negotiated
+- **Object:** US multinational exemption (policy)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > The exemption resulted from negotiations between President Donald Trump's administration and other members of the Group of Seven wealthy nations.
 
-### c_004 — confirmed, primary document
-**Subject entities:** Mathias Cormann; OECD
-**Predicate:** stated
-**Object:** landmark decision characterization (statement)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Mathias Cormann; OECD
+- **Predicate:** stated
+- **Object:** landmark decision characterization (statement)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > OECD Secretary-General Mathias Cormann said in a statement that the agreement is a 'landmark decision in international tax co-operation' that 'enhances tax certainty, reduces complexity, and protects tax bases.'
 
-### c_005 — confirmed, primary document
-**Subject entities:** Scott Bessent
-**Predicate:** stated
-**Object:** sovereignty victory characterization (statement)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Scott Bessent
+- **Predicate:** stated
+- **Object:** sovereignty victory characterization (statement)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > Treasury Secretary Scott Bessent called the agreement 'a historic victory in preserving U.S. sovereignty and protecting American workers and businesses from extraterritorial overreach.'
 
-### c_006 — confirmed, single source
-**Subject entities:** OECD; 2021 agreement
-**Predicate:** established
-**Object:** 15% global minimum corporate tax (policy)
-**Temporal:** 2021-01-01
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** OECD; 2021 agreement
+- **Predicate:** established
+- **Object:** 15% global minimum corporate tax (policy)
+- **Temporal:** 2021-01-01
+- **Sources:** src_001
 
 > The original 2021 OECD deal set a 15% global minimum corporate tax rate and was initially crafted to stop multinationals including Apple and Nike from using legal maneuvers to shift earnings to low- or no-tax havens.
 
-### c_007 — attributed, single source
-**Subject entities:** Janet Yellen
-**Predicate:** drove
-**Object:** 2021 OECD global tax deal (policy)
-**Temporal:** 2021-01-01
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Janet Yellen
+- **Predicate:** drove
+- **Object:** 2021 OECD global tax deal (policy)
+- **Temporal:** 2021-01-01
+- **Sources:** src_001
 
 > Former Treasury Secretary Janet Yellen was a key driver of the 2021 OECD global tax deal and made the corporate minimum tax one of her top priorities.
 
-### c_008 — attributed, single source
-**Subject entities:** Congressional Republicans
-**Predicate:** claimed
-**Object:** US competitiveness harm from original deal (statement)
-**Temporal:** 2021-01-01
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Congressional Republicans
+- **Predicate:** claimed
+- **Object:** US competitiveness harm from original deal (statement)
+- **Temporal:** 2021-01-01
+- **Sources:** src_001
 
 > Congressional Republicans said the original 2021 deal would make the U.S. less competitive in a global economy.
 
-### c_009 — attributed, single source
-**Subject entities:** Trump administration; Congressional Republicans
-**Predicate:** renegotiated
-**Object:** OECD tax deal (policy)
-**Temporal:** 2025-06-01
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Trump administration; Congressional Republicans
+- **Predicate:** renegotiated
+- **Object:** OECD tax deal (policy)
+- **Temporal:** 2025-06-01
+- **Sources:** src_001
 
 > The Trump administration renegotiated the deal in June after congressional Republicans rolled back a so-called revenge tax provision from Trump's big tax and spending bill.
 
-### c_010 — attributed, single source
-**Subject entities:** Trump administration; revenge tax provision
-**Predicate:** described
-**Object:** revenge tax mechanism (policy)
-**Temporal:** 2025-06-01
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Trump administration; revenge tax provision
+- **Predicate:** described
+- **Object:** revenge tax mechanism (policy)
+- **Temporal:** 2025-06-01
+- **Sources:** src_001
 
 > The rolled-back provision would have allowed the federal government to impose taxes on companies with foreign owners and on investors from countries judged as charging unfair foreign taxes on U.S. companies.
 
-### c_011 — confirmed, primary document
-**Subject entities:** Zorka Milin; FACT Coalition
-**Predicate:** stated
-**Object:** criticism of amended OECD deal (statement)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_011
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Zorka Milin; FACT Coalition
+- **Predicate:** stated
+- **Object:** criticism of amended OECD deal (statement)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > Zorka Milin, policy director at the FACT Coalition, said: 'This deal risks nearly a decade of global progress on corporate taxation only to allow the largest, most profitable American companies to keep parking profits in tax havens.'
 
-### c_012 — confirmed, primary document
-**Subject entities:** Mike Crapo; Jason Smith
-**Predicate:** stated
-**Object:** praise for amended OECD deal (statement)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_012
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Mike Crapo; Jason Smith
+- **Predicate:** stated
+- **Object:** praise for amended OECD deal (statement)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > Senate Finance Committee Chair Mike Crapo (R-Idaho) and House Ways and Means Committee Chair Jason Smith (R-Mo.) said in a joint statement the deal marks 'another significant milestone in putting America First and unwinding the Biden Administration's unilateral global tax surrender.'
 
@@ -215,10 +249,5 @@ Yellen, who drove the original 2021 agreement and made the corporate minimum tax
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Fatima Hussein
 **Publication date:** 2026-01-05
-**Access date:** 2026-01-05
 **Title:** US-based multinational companies exempt from global tax deal
 **URL:** https://apnews.com/article/tax-europe-oecd-91627ddcf78c145dab9775252aa08c85
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

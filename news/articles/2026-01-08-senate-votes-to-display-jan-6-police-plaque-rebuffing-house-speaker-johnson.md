@@ -1,6 +1,5 @@
 ---
 headline: Senate votes to display Jan. 6 police plaque, rebuffing House Speaker Johnson
-slug: 2026-01-08-senate-votes-to-display-jan-6-police-plaque-rebuffing-johnson
 publish_date: '2026-01-08'
 lede: 'The Senate voted Thursday without objection to display a plaque honoring police officers who defended the U.S. Capitol during the Jan. 6, 2021 attack, acting during the fifth-anniversary week of the siege and amid a White House campaign to reshape the historical record of that day.
 
@@ -22,45 +21,43 @@ primary_themes:
 - institutional memory
 - historical narrative
 topic_tags:
-  - "artificial intelligence"
-  - "crime, law and justice"
-  - election
-  - government
-  - "government policy"
-  - "law enforcement"
+- government
+- law enforcement
+- civil unrest
+- political process
 storyline_nexus:
-  - immigration-enforcement
-geographic_location: Washington, D.C.
+- trump-judicial-challenges
+geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.85
+- value: human_life_and_dignity
+  intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.8
+  intensity: 0.6
 - value: truthfulness
-  intensity: 0.75
-framework_version: 1.1.0
-generation_timestamp: '2026-05-16T19:48:59Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-22T23:56:43Z'
 source_cluster_id: cluster_ap_2026-01-07_jan-6-plaque-capitol-riot-house-senate-t
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 13
   hedges:
-    appears: 0
-    alleged: 0
     attributed: 10
-    reported: 1
-    contested: 0
+    appears: 0
     confirmed: 2
+    alleged: 0
+    contested: 0
+    reported: 1
   corroboration:
+    two_independent: 0
+    primary_document: 0
     primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
-    primary_document: 0
     single_source: 13
-    two_independent: 0
 sources:
   count: 1
   outlets:
@@ -78,21 +75,16 @@ image:
   url: /articles/2026-01-08-senate-votes-to-display-jan-6-police-plaque-rebuffing-house-speaker-johnson.png
   alt: 'Illustration accompanying article: Senate votes to display Jan. 6 police plaque, rebuffing House Speaker Johnson'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-05-congress-mandated-jan-6-police-plaque-sits-unhung-as-fifth-anniversary-passes
-  relation: continues
-  strength: 0.9023
-  confidence: high
-- slug: 2026-01-06-five-years-after-jan-6-parties-hold-rival-memorials-as-official-plaque-stays-unh
-  relation: continues
-  strength: 0.8563
-  confidence: high
-- slug: 2026-01-04-capitol-officers-say-jan-6-struggles-persist-five-years-on-deepened-by-trump-par
-  relation: related
-  strength: 0.7658
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- The Senate voted Thursday without objection to display a plaque honoring police officers who defended the U.
+- The Senate resolution directs the Architect of the Capitol to prominently display the plaque in a publicly accessible location in the Senate wing until it can be moved to its intended permanent site at the West front of the building — a placement that would require agreement from the House, whose speaker has said the plaque as constructed does not comply with the law.
+- The Senate resolution directs the Architect of the Capitol to prominently display the plaque in a publicly accessible location in the Senate wing until it can be moved to its intended permanent site at the West front of the building — a placement that would require agreement from the House, whose speaker has said the plaque as constructed does not comply with the law..
 
 The Senate resolution directs the Architect of the Capitol to prominently display the plaque in a publicly accessible location in the Senate wing until it can be moved to its intended permanent site at the West front of the building — a placement that would require agreement from the House, whose speaker has said the plaque as constructed does not comply with the law.
 
@@ -130,120 +122,146 @@ Capitol Police officers filed a lawsuit seeking to compel the plaque's installat
 
 ## Atomic claims
 
-### c_001 — confirmed, single source
-**Subject entities:** Q_USsenate
-**Predicate:** voted_to_display
-**Object:** Jan. 6 police memorial plaque (legislative_action)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Q_USsenate
+- **Predicate:** voted_to_display
+- **Object:** Jan. 6 police memorial plaque (legislative_action)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > The Senate voted without objection on Thursday, January 8, 2026, to display a plaque honoring police who defended the Capitol during the Jan. 6, 2021 attack.
 
-### c_002 — attributed, single source
-**Subject entities:** Q_ThomTillis; Q_JeffMerkley; Q_AlexPadilla
-**Predicate:** led_bipartisan_effort
-**Object:** Jan. 6 police memorial plaque installation (legislative_action)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Q_ThomTillis; Q_JeffMerkley; Q_AlexPadilla
+- **Predicate:** led_bipartisan_effort
+- **Object:** Jan. 6 police memorial plaque installation (legislative_action)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > Republican Sen. Thom Tillis of North Carolina led the effort, partnering with Democratic Sen. Jeff Merkley of Oregon and Democratic Sen. Alex Padilla of California.
 
-### c_003 — attributed, single source
-**Subject entities:** Q_USCongress
-**Predicate:** mandated_with_missed_deadline
-**Object:** Jan. 6 police memorial plaque (legislative_mandate)
-**Temporal:** 2023
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Q_USCongress
+- **Predicate:** mandated_with_missed_deadline
+- **Object:** Jan. 6 police memorial plaque (legislative_mandate)
+- **Temporal:** 2023
+- **Sources:** src_001
 
 > The plaque was approved by Congress more than three years before January 2026 and was required by law to be installed in 2023.
 
-### c_004 — attributed, single source
-**Subject entities:** Q_MikeJohnson
-**Predicate:** said
-**Object:** plaque does not comply with law (public_statement)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Q_MikeJohnson
+- **Predicate:** said
+- **Object:** plaque does not comply with law (public_statement)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > House Speaker Mike Johnson said the plaque, as constructed, does not comply with the law.
 
-### c_005 — attributed, single source
-**Subject entities:** Q_USCapitol
-**Predicate:** intended_placement
-**Object:** West front of the Capitol (location)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Q_USCapitol
+- **Predicate:** intended_placement
+- **Object:** West front of the Capitol (location)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > The plaque was intended by law to be placed at the West front of the Capitol, where some of the fiercest fighting took place on Jan. 6.
 
-### c_006 — confirmed, single source
-**Subject entities:** Q_USsenate; Q_ArchitectOfCapitol
-**Predicate:** directed_display
-**Object:** Senate wing of the Capitol (location)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Q_USsenate; Q_ArchitectOfCapitol
+- **Predicate:** directed_display
+- **Object:** Senate wing of the Capitol (location)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > The Senate resolution directs the Architect of the Capitol to prominently display the plaque in a publicly accessible location in the Senate wing until it can be placed in its permanent location.
 
-### c_007 — attributed, single source
-**Subject entities:** Q_USHouseOfRepresentatives; Q_USsenate
-**Predicate:** requires_agreement
-**Object:** permanent placement at West front (procedural_requirement)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Q_USHouseOfRepresentatives; Q_USsenate
+- **Predicate:** requires_agreement
+- **Object:** permanent placement at West front (procedural_requirement)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > Displaying the plaque in its permanent intended location requires agreement with the House.
 
-### c_008 — attributed, single source
-**Subject entities:** Q_USCapitolPolice; Q_USDepartmentOfJustice
-**Predicate:** filed_lawsuit_and_sought_dismissal
-**Object:** Jan. 6 police memorial plaque display (legal_action)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Q_USCapitolPolice; Q_USDepartmentOfJustice
+- **Predicate:** filed_lawsuit_and_sought_dismissal
+- **Object:** Jan. 6 police memorial plaque display (legal_action)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > Capitol Police officers filed a lawsuit to compel the plaque's installation as required by law; Trump's Justice Department is seeking to dismiss the lawsuit.
 
-### c_009 — attributed, single source
-**Subject entities:** Q_DonaldTrump; Q_WhiteHouse
-**Predicate:** released_report
-**Object:** report shifting blame for Jan. 6 riot (government_document)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Q_DonaldTrump; Q_WhiteHouse
+- **Predicate:** released_report
+- **Object:** report shifting blame for Jan. 6 riot (government_document)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > The Trump White House produced a report shifting blame for the Jan. 6, 2021 riot onto Democrats, Biden's 2020 election victory, and the police response.
 
-### c_010 — attributed, single source
-**Subject entities:** Q_DonaldTrump
-**Predicate:** said
-**Object:** intended peaceful march only (public_statement)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Q_DonaldTrump
+- **Predicate:** said
+- **Object:** intended peaceful march only (public_statement)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > Trump said during a speech this week that he had only intended for his supporters to march peacefully to the Capitol.
 
-### c_011 — attributed, single source
-**Subject entities:** Q_ThomTillis
-**Predicate:** described_technical_problem
-**Object:** plaque lists agencies not individual officers (legislative_detail)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Q_ThomTillis
+- **Predicate:** described_technical_problem
+- **Object:** plaque lists agencies not individual officers (legislative_detail)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > The plaque lists law enforcement agencies that responded to assist the Capitol Police rather than naming individual officers, which Tillis described as a 'technical implementation problem.'
 
-### c_012 — reported, single source
-**Subject entities:** Q_ThomTillis
-**Predicate:** announced_digital_component
-**Object:** website listing all officer names (planned_action)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Q_ThomTillis
+- **Predicate:** announced_digital_component
+- **Object:** website listing all officer names (planned_action)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > A digital component, presumably a website, will list all officer names; the number of officers who responded runs into the thousands.
 
-### c_013 — attributed, single source
-**Subject entities:** Q_MikeJohnson
-**Predicate:** led_objection_efforts
-**Object:** 2020 election result objections (historical_action)
-**Temporal:** 2021-01-06
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Q_MikeJohnson
+- **Predicate:** led_objection_efforts
+- **Object:** 2020 election result objections (historical_action)
+- **Temporal:** 2021-01-06
+- **Sources:** src_001
 
 > Mike Johnson, before becoming House speaker, led efforts to object to the 2020 election results.
 
@@ -252,10 +270,5 @@ Capitol Police officers filed a lawsuit seeking to compel the plaque's installat
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Lisa Mascaro
 **Publication date:** 2026-01-08
-**Access date:** 2026-01-08
 **Title:** Missing Jan. 6 plaque will now be displayed at the Capitol
 **URL:** https://apnews.com/article/jan-6-plaque-capitol-riot-house-senate-trump-edf51275515a7371149f2079f83834a4
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

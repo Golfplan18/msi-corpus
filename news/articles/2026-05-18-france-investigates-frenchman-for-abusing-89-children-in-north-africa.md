@@ -17,7 +17,8 @@ topic_tags:
   - "crime, law and justice"
   - crime
   - "law enforcement"
-storyline_nexus: []
+storyline_nexus:
+- epstein-investigation-fallout
 geographic_location: Morocco, Algeria, France
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -132,8 +133,6 @@ Another former student, Lahlou Aliouate, similarly described a dedicated educato
 
 The case has renewed attention on child exploitation in Morocco and Algeria, where child-protection advocates say abuse persists but remains severely underreported due to shame, fear, and limited resources for investigation.
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
 ### c_001 — attributed, single source
@@ -234,7 +233,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-05-18
 **Title:** Un querido maestro en Marruecos desenmascarado: investigan a un francés por abusos a 89 niños
 **URL:** https://apnews.com/article/marruecos-francia-argelia-profesor-abusos-leveugle-0f3250fccfe6cc99cfa92f8e74b941dc
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

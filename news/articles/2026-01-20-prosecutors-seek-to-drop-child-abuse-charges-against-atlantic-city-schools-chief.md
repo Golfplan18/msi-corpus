@@ -15,44 +15,40 @@ primary_themes:
 - local_government
 - education
 topic_tags:
-  - education
-  - "education policy"
-  - government
-  - politics
-  - society
-  - welfare
-storyline_nexus: []
-geographic_location: Atlantic City, New Jersey
+- crime
+- prosecution
+- school
+storyline_nexus:
+- lgbtq-rights-restrictions
+geographic_location: United States
 floor_values_engaged:
-- value: accountability_of_power
-  intensity: 0.8
 - value: human_life_and_dignity
-  intensity: 0.7
+  intensity: 0.9
 - value: informed_citizenship
   intensity: 0.6
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:00:43Z'
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:45:26Z'
 source_cluster_id: cluster_ap_2026-01-21_atlantic-city-mayor-child-abuse-680b248b
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 12
   hedges:
     appears: 0
-    alleged: 0
-    attributed: 6
     reported: 0
+    attributed: 6
+    alleged: 0
     contested: 0
     confirmed: 6
   corroboration:
-    primary_plus_secondary: 0
+    two_independent: 0
     one_originating_plus_primary_document: 0
+    primary_plus_secondary: 0
     primary_document: 0
     single_source: 12
-    two_independent: 0
 sources:
   count: 1
   outlets:
@@ -69,6 +65,9 @@ figures_aggregate:
 cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
 
 The move would effectively end all criminal proceedings arising from allegations by the couple's daughter that she was physically abused, and would also result in the dismissal of charges against Atlantic City High School Principal Constance Days-Chapman, who had been accused of failing to report the teenager's abuse claims to state child welfare authorities.
 
@@ -96,111 +95,135 @@ Small was reelected to a four-year term in the Democratic stronghold just weeks 
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** La'Quetta Small; Atlantic County Prosecutor's Office
-**Predicate:** dropping_charges
-**Object:** child abuse trial against La'Quetta Small (legal_proceeding)
-**Temporal:** 2026-01-17
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** La'Quetta Small; Atlantic County Prosecutor's Office
+- **Predicate:** dropping_charges
+- **Object:** child abuse trial against La'Quetta Small (legal_proceeding)
+- **Temporal:** 2026-01-17
+- **Sources:** src_001
 
 > Atlantic County prosecutors announced Friday they will not proceed with a child abuse trial against La'Quetta Small, superintendent of Atlantic City schools.
 
-### c_002 — attributed, single source
-**Subject entities:** unnamed daughter
-**Predicate:** requested_dismissal
-**Object:** remaining prosecutions (victim_request)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** unnamed daughter
+- **Predicate:** requested_dismissal
+- **Object:** remaining prosecutions (victim_request)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > The couple's daughter, who turned 18 earlier in January 2026, determined she no longer wanted the prosecution to proceed.
 
-### c_003 — confirmed, single source
-**Subject entities:** William Reynolds
-**Predicate:** announced
-**Object:** dismissal of charges (prosecutorial_decision)
-**Temporal:** 2026-01-17
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** William Reynolds
+- **Predicate:** announced
+- **Object:** dismissal of charges (prosecutorial_decision)
+- **Temporal:** 2026-01-17
+- **Sources:** src_001
 
 > Atlantic County Prosecutor William Reynolds announced the decision late Friday.
 
-### c_004 — attributed, single source
-**Subject entities:** Constance Days-Chapman; Atlantic County Prosecutor's Office
-**Predicate:** dropping_charges
-**Object:** failure to report abuse to child welfare authorities (criminal_charge)
-**Temporal:** 2026-01-17
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Constance Days-Chapman; Atlantic County Prosecutor's Office
+- **Predicate:** dropping_charges
+- **Object:** failure to report abuse to child welfare authorities (criminal_charge)
+- **Temporal:** 2026-01-17
+- **Sources:** src_001
 
 > Prosecutors moved to drop charges against Atlantic City High School Principal Constance Days-Chapman, who had been charged with failing to report the teen's abuse claim to state child welfare officials.
 
-### c_005 — confirmed, single source
-**Subject entities:** La'Quetta Small
-**Predicate:** was_scheduled_for_trial
-**Object:** endangering welfare of child, simple assault (criminal_charges)
-**Temporal:** 2026-04
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** La'Quetta Small
+- **Predicate:** was_scheduled_for_trial
+- **Object:** endangering welfare of child, simple assault (criminal_charges)
+- **Temporal:** 2026-04
+- **Sources:** src_001
 
 > La'Quetta Small, 49, had been scheduled to stand trial in April on charges of endangering the welfare of a child and simple assault.
 
-### c_006 — confirmed, single source
-**Subject entities:** La'Quetta Small; Constance Days-Chapman
-**Predicate:** pleaded_not_guilty
-**Object:** all charges (legal_plea)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** La'Quetta Small; Constance Days-Chapman
+- **Predicate:** pleaded_not_guilty
+- **Object:** all charges (legal_plea)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Both La'Quetta Small and Constance Days-Chapman had pleaded not guilty.
 
-### c_007 — attributed, single source
-**Subject entities:** Michael Schreiber
-**Predicate:** said
-**Object:** pleased; matter should have been handled by counselors or in family court (defense_statement)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Michael Schreiber
+- **Predicate:** said
+- **Object:** pleased; matter should have been handled by counselors or in family court (defense_statement)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > Attorney Michael Schreiber said he was pleased with the prosecutors' decision and that the matter should have been handled by counselors or in family court.
 
-### c_008 — confirmed, single source
-**Subject entities:** Marty Small Sr.
-**Predicate:** acquitted_of
-**Object:** aggravated assault, endangering welfare of child, terroristic threats, witness tampering (criminal_charges)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Marty Small Sr.
+- **Predicate:** acquitted_of
+- **Object:** aggravated assault, endangering welfare of child, terroristic threats, witness tampering (criminal_charges)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > Mayor Marty Small Sr., 51, was acquitted by a jury of aggravated assault, endangering the welfare of a child, making terroristic threats, and witness tampering.
 
-### c_009 — attributed, single source
-**Subject entities:** Marty Small Sr.
-**Predicate:** alleged_to_have_asked_daughter_to_recant
-**Object:** recantation of abuse claims to law enforcement (alleged_conduct)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Marty Small Sr.
+- **Predicate:** alleged_to_have_asked_daughter_to_recant
+- **Object:** recantation of abuse claims to law enforcement (alleged_conduct)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Prosecutors had alleged that Mayor Small asked his daughter to recant claims she made to law enforcement that he had abused her.
 
-### c_010 — attributed, single source
-**Subject entities:** Marty Small Sr.
-**Predicate:** denied
-**Object:** harming his child (denial)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Marty Small Sr.
+- **Predicate:** denied
+- **Object:** harming his child (denial)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > Small denied ever harming his child during his testimony.
 
-### c_011 — confirmed, single source
-**Subject entities:** Marty Small Sr.
-**Predicate:** reelected
-**Object:** four-year mayoral term, 24-percentage-point margin (election_result)
-**Temporal:** 2025-11
-**Source IDs:** src_001
+### c_011
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Marty Small Sr.
+- **Predicate:** reelected
+- **Object:** four-year mayoral term, 24-percentage-point margin (election_result)
+- **Temporal:** 2025-11
+- **Sources:** src_001
 
 > Small was reelected to a four-year term in the Democratic stronghold just weeks before his trial began, winning by a 24-percentage-point margin over his Republican challenger.
 
-### c_012 — confirmed, single source
-**Subject entities:** Atlantic County Prosecutor's Office
-**Predicate:** filed_dismissal_request
-**Object:** dismissal pending court ruling (legal_filing)
-**Temporal:** 2026-01-17
-**Source IDs:** src_001
+### c_012
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Atlantic County Prosecutor's Office
+- **Predicate:** filed_dismissal_request
+- **Object:** dismissal pending court ruling (legal_filing)
+- **Temporal:** 2026-01-17
+- **Sources:** src_001
 
 > Prosecutors filed the dismissal request with a state judge Friday, but it was not immediately clear when a ruling would be issued.
 
@@ -208,10 +231,5 @@ Small was reelected to a four-year term in the Democratic stronghold just weeks 
 
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Publication date:** 2026-01-20
-**Access date:** 2026-01-20
 **Title:** Prosecutors seek to drop child abuse charges against Atlantic City's schools chief
 **URL:** https://apnews.com/article/atlantic-city-mayor-child-abuse-680b248b169c1f462c360d632af74a1e
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

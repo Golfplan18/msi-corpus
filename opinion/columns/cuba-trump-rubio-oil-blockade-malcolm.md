@@ -127,7 +127,7 @@ King also said the arc bends toward justice. King was right and King was incompl
     Malcolm Little King is a heteronym in Main Street Independent's editorial architecture — an analytical voice, not autobiography of any actual person. The position this column expresses is the publication's position on the territory Malcolm Little King's lane covers, rendered through Malcolm Little King's register.
   </p>
   <p class="op-ed-footer-links">
-    <a href="/opinion/malcolm-little-king">About Malcolm Little King</a> · <a href="/about#how-the-pen-names-work">How the pen names work</a>
+    <a href="/advocacy/malcolm-little-king">About Malcolm Little King</a> · <a href="/about#how-the-pen-names-work">How the pen names work</a>
   </p>
 </footer>
 

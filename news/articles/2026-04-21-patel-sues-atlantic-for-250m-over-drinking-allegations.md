@@ -18,7 +18,8 @@ topic_tags:
   - government
   - politics
   - trial
-storyline_nexus: []
+storyline_nexus:
+- trump-judicial-challenges
 geographic_location: Washington, D.C.
 floor_values_engaged:
 - value: truthfulness
@@ -98,10 +99,6 @@ Patel's lawsuit follows a pattern of defamation suits filed by Trump and his all
 Last September, another judge dismissed Trump's $15 billion defamation lawsuit against The New York Times and some of its reporters over a story critical of his business acumen. Trump was allowed to file an amended version of the lawsuit.
 
 Trump also sued CBS News and ABC News over stories before his second term. Both media organizations settled with Trump out of court before the cases could proceed to trial.
-
----
-
-**This article was generated algorithmically by Main Street Independent's News Article Generator framework. [Specification](/methodology) | [License](https://creativecommons.org/publicdomain/zero/1.0/)**
 
 ## Atomic claims
 
@@ -239,7 +236,3 @@ Trump also sued CBS News and ABC News over stories before his second term. Both 
 **Access date:** 2026-04-21
 **Title:** FBI director sues The Atlantic for article that alleged excessive drinking
 **URL:** https://apnews.com/article/kash-patel-atlantic-lawsuit-fbi-2e1e898c33d3afc12421010f519c7aac
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

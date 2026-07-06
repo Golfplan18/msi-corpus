@@ -20,7 +20,7 @@ topic_tags:
   - "science and technology"
   - "artificial intelligence"
 storyline_nexus:
-  - russia-ukraine-war
+- ukraine-war-peace-negotiations
 geographic_location: Central Europe
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -106,8 +106,6 @@ Fico asserted that Slovakia's intelligence services confirm the Druzhba pipeline
 Ukraine has faced rolling blackouts throughout Russia's invasion as Moscow systematically destroys power generation and transmission infrastructure. The country has shifted away from Russian energy sources as part of its wartime effort but continues to rely on electricity imports from neighboring countries, including Slovakia and Hungary.
 
 The confrontation underscores tensions within the European Union over support for Ukraine and the continued leverage Russia maintains over Central European nations through energy supply lines, even as the fighting continues into its fourth year.
-
-AI Disclosure: This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under sources. Specification: /methodology. Human review: not_triggered.
 
 ## Atomic claims
 
@@ -244,7 +242,3 @@ AI Disclosure: This article was generated algorithmically by Main Street Indepen
 **Access date:** 2026-05-18
 **Title:** Slovakia stops supply of emergency electricity to Ukraine in a dispute over oil delivery
 **URL:** https://apnews.com/article/slovakia-ukraine-oil-emergency-power-supplies-c0a88f606ed2ecf6df4641e3ed1b1105
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

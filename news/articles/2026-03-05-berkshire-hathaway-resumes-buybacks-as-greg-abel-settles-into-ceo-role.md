@@ -232,7 +232,3 @@ Berkshire owns dozens of companies across insurance, transportation, energy, and
 **Access date:** 2026-05-17
 **Title:** Berkshire Hathaway buying back shares as Greg Abel takes the helm
 **URL:** https://apnews.com/article/berkshire-hathaway-greg-abel-warren-buffett-buybacks-95449a799aa935bdf224e67b51bc0685
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

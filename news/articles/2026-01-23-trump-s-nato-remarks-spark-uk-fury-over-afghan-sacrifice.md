@@ -22,7 +22,8 @@ topic_tags:
   - "conflict, war and peace"
   - "international relations"
   - politics
-storyline_nexus: []
+storyline_nexus:
+- trump-foreign-policy-reshaping
 geographic_location: International (United Kingdom, Denmark, Switzerland, Afghanistan)
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -118,8 +119,6 @@ Anger over Trump's comments was further fueled by his own military history. Trum
 Stephen Stewart, author of "The Accidental Soldier," an account of his time embedded with British troops in Afghanistan, said: "It's hugely ironic that someone who allegedly dodged the draft for the Vietnam War should make such a disgraceful statement."
 
 Dernie, whose son endured horrific injuries in Afghanistan, called on the British government to respond firmly: "Call him out. Make a stand for those who fought for this country and for our flag, because it's just beyond belief."
-
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
 
 ## Atomic claims
 
@@ -347,7 +346,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-01-23
 **Title:** Trump downplaying NATO's Afghanistan involvement causes distress in UK
 **URL:** https://apnews.com/article/trump-nato-uk-afghanistan-denmark-greenland-f5975e87928696edf41085821f7d0b01
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

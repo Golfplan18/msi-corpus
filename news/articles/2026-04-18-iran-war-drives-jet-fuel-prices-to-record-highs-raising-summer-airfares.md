@@ -19,41 +19,40 @@ primary_themes:
 - Iran war
 - consumer strategy
 topic_tags:
-  - "conflict, war and peace"
-  - "economy, business and finance"
-  - "science and technology"
-storyline_nexus: []
-geographic_location: Global (North America, Europe, Asia)
+- armed conflict
+- energy and resource
+- transport
+- travel
+- economy, business and finance
+storyline_nexus:
+- the-iran-war
+geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship
-  intensity: 0.9
-- value: truthfulness
-  intensity: 0.9
-- value: accountability_of_power
-  intensity: 0.7
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T01:05:43Z'
 source_cluster_id: cluster_ap_2026-04-20_summer-travel-flights-prices-war-fuel-d8
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 12
   hedges:
+    confirmed: 0
+    attributed: 11
+    contested: 0
+    reported: 1
     appears: 0
     alleged: 0
-    attributed: 11
-    reported: 1
-    contested: 0
-    confirmed: 0
   corroboration:
+    two_independent: 0
     primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
-    primary_document: 0
     single_source: 12
-    two_independent: 0
+    primary_document: 0
 sources:
   count: 1
   outlets:
@@ -71,33 +70,12 @@ image:
   url: /articles/2026-04-18-iran-war-drives-jet-fuel-prices-to-record-highs-raising-summer-airfares.png
   alt: 'Illustration accompanying article: Iran war drives jet fuel prices to record highs, raising summer airfares'
   source: ai_generated
-cross_article_links:
-- slug: 2026-04-17-air-canada-suspends-jfk-flights-for-summer-as-iran-war-doubles-jet-fuel-price
-  relation: related
-  strength: 0.9047
-  confidence: medium
-- slug: 2026-04-16-europe-faces-six-week-jet-fuel-supply-cliff-as-iran-war-chokes-hormuz
-  relation: related
-  strength: 0.895
-  confidence: medium
-- slug: 2026-04-16-iea-chief-warns-europe-has-roughly-six-weeks-of-jet-fuel-as-hormuz-stays-shut
-  relation: related
-  strength: 0.8499
-  confidence: medium
-- slug: 2026-04-17-strait-of-hormuz-reopens-oil-prices-fall-10-but-gasoline-relief-will-take-months
-  relation: related
-  strength: 0.7903
-  confidence: medium
-- slug: 2026-04-17-oil-falls-9-and-stocks-hit-record-as-iran-reopens-strait-of-hormuz
-  relation: related
-  strength: 0.7432
-  confidence: medium
-- slug: 2026-03-10-state-department-taps-40m-emergency-fund-for-iran-war-evacuation-flights
-  relation: related
-  strength: 0.7621
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
 
 As the U.S. and Israel's war with Iran squeezes global oil supplies, travelers planning summer vacations face escalating costs: jet fuel prices have soared from roughly $99 a barrel in late February to as high as $209 in early April, forcing airlines to raise fares and add fuel surcharges. The International Energy Agency warned that European countries could run low on jet fuel within weeks, prompting carriers including Air Canada, United, Delta, and Air France-KLM to reduce routes and raise ticket prices.
 
@@ -145,115 +123,137 @@ Travel credit cards offer another option. Sign-up bonuses are often large enough
 
 Until global oil supplies stabilize and airlines regain pricing confidence, the current environment will favor those who act strategically and early. The closer to summer travel season, the fewer bargains remain.
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** jet fuel market; global crude oil
-**Predicate:** price_surge
-**Object:** $99 to $209 per barrel (price_range)
-**Temporal:** 2026-02-28 to 2026-04-01
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** jet fuel market; global crude oil
+- **Predicate:** price_surge
+- **Object:** $99 to $209 per barrel (price_range)
+- **Temporal:** 2026-02-28 to 2026-04-01
+- **Sources:** src_001
 
 > Jet fuel prices increased from approximately $99 per barrel at the end of February to as high as $209 per barrel in early April.
 
-### c_002 — reported, single source
-**Subject entities:** Iran war; global oil markets
-**Predicate:** restrict
-**Object:** reduced oil supply (economic_consequence)
-**Temporal:** 2026-04-18
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Iran war; global oil markets
+- **Predicate:** restrict
+- **Object:** reduced oil supply (economic_consequence)
+- **Temporal:** 2026-04-18
+- **Sources:** src_001
 
 > The Iran war has restricted global oil supplies, contributing to fuel price increases.
 
-### c_003 — attributed, single source
-**Subject entities:** International Energy Agency; Europe
-**Predicate:** warned
-**Object:** potential jet fuel shortage within weeks (supply_warning)
-**Temporal:** 2026-04-18
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** International Energy Agency; Europe
+- **Predicate:** warned
+- **Object:** potential jet fuel shortage within weeks (supply_warning)
+- **Temporal:** 2026-04-18
+- **Sources:** src_001
 
 > The International Energy Agency warned that European countries could run low on jet fuel within weeks.
 
-### c_004 — attributed, single source
-**Subject entities:** Air Canada; JFK Airport
-**Predicate:** suspend_service
-**Object:** service suspension June 1 through October 25, 2026 (operational_decision)
-**Temporal:** 2026-04-18
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Air Canada; JFK Airport
+- **Predicate:** suspend_service
+- **Object:** service suspension June 1 through October 25, 2026 (operational_decision)
+- **Temporal:** 2026-04-18
+- **Sources:** src_001
 
 > Air Canada announced plans to suspend service to New York's John F. Kennedy International Airport from June 1 until October 25 to lower fuel costs.
 
-### c_005 — attributed, single source
-**Subject entities:** United; Delta; Air France-KLM; SAS; Philippine Airlines; Cathay Pacific
-**Predicate:** reduce_routes_and_raise_prices
-**Object:** route reductions and price increases (industry_response)
-**Temporal:** 2026-04-18
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** United; Delta; Air France-KLM; SAS; Philippine Airlines; Cathay Pacific
+- **Predicate:** reduce_routes_and_raise_prices
+- **Object:** route reductions and price increases (industry_response)
+- **Temporal:** 2026-04-18
+- **Sources:** src_001
 
 > Airlines including United, Delta, Air France-KLM, SAS, Philippine Airlines, and Cathay Pacific have reduced routes or increased ticket prices in response to elevated fuel costs.
 
-### c_006 — attributed, single source
-**Subject entities:** Shye Gilad; Georgetown University
-**Predicate:** said
-**Object:** airlines will keep prices elevated until supply stabilizes (expert_assessment)
-**Temporal:** 2026-04-18
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Shye Gilad; Georgetown University
+- **Predicate:** said
+- **Object:** airlines will keep prices elevated until supply stabilizes (expert_assessment)
+- **Temporal:** 2026-04-18
+- **Sources:** src_001
 
 > Shye Gilad, a former airline captain teaching at Georgetown University's business school, said airlines are likely to remain conservative with pricing until fuel supplies stabilize.
 
-### c_007 — attributed, single source
-**Subject entities:** Henry Harteveldt; Atmosphere Research Group
-**Predicate:** advised
-**Object:** book promptly but avoid Basic Economy fares (consumer_advice)
-**Temporal:** 2026-04-18
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Henry Harteveldt; Atmosphere Research Group
+- **Predicate:** advised
+- **Object:** book promptly but avoid Basic Economy fares (consumer_advice)
+- **Temporal:** 2026-04-18
+- **Sources:** src_001
 
 > Henry Harteveldt, president of Atmosphere Research Group, advised consumers to book flights promptly with acceptable prices and schedules but to avoid nonrefundable Basic Economy fares.
 
-### c_008 — attributed, single source
-**Subject entities:** North American airlines
-**Predicate:** policy
-**Object:** no refunds/credits for Basic Economy beyond 24 hours (airline_policy)
-**Temporal:** 2026-04-18
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** North American airlines
+- **Predicate:** policy
+- **Object:** no refunds/credits for Basic Economy beyond 24 hours (airline_policy)
+- **Temporal:** 2026-04-18
+- **Sources:** src_001
 
 > Most North American airlines do not issue refunds or travel credits for Basic Economy ticket cancellations beyond 24 hours of purchase.
 
-### c_009 — attributed, single source
-**Subject entities:** airline booking patterns
-**Predicate:** price_pattern
-**Object:** intl 2-5 months, domestic 3-6 weeks in advance (booking_guidance)
-**Temporal:** 2026-04-18
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** airline booking patterns
+- **Predicate:** price_pattern
+- **Object:** intl 2-5 months, domestic 3-6 weeks in advance (booking_guidance)
+- **Temporal:** 2026-04-18
+- **Sources:** src_001
 
 > International flights are typically cheapest when booked two to five months in advance; domestic flights are typically cheapest three to six weeks in advance.
 
-### c_010 — attributed, single source
-**Subject entities:** Delta; American; United; Southwest; JetBlue
-**Predicate:** introduce_baggage_fees
-**Object:** higher checked baggage fees (fee_structure)
-**Temporal:** 2026-04-18
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Delta; American; United; Southwest; JetBlue
+- **Predicate:** introduce_baggage_fees
+- **Object:** higher checked baggage fees (fee_structure)
+- **Temporal:** 2026-04-18
+- **Sources:** src_001
 
 > Delta, American, United, Southwest, and JetBlue have recently introduced or increased checked baggage fees.
 
-### c_011 — attributed, single source
-**Subject entities:** Adam Morvitz; points.me
-**Predicate:** said
-**Object:** points requirements lag behind fare increases (market_observation)
-**Temporal:** 2026-04-18
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Adam Morvitz; points.me
+- **Predicate:** said
+- **Object:** points requirements lag behind fare increases (market_observation)
+- **Temporal:** 2026-04-18
+- **Sources:** src_001
 
 > Adam Morvitz, CEO of points.me, said the number of airline loyalty points required for many flights has not increased at the same pace as fares.
 
-### c_012 — attributed, single source
-**Subject entities:** travel credit cards
-**Predicate:** offer
-**Object:** flight-covering sign-up bonuses (financial_product)
-**Temporal:** 2026-04-18
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** travel credit cards
+- **Predicate:** offer
+- **Object:** flight-covering sign-up bonuses (financial_product)
+- **Temporal:** 2026-04-18
+- **Sources:** src_001
 
 > Travel credit card sign-up bonuses can be large enough to cover an entire flight after meeting minimum spending requirements.
 
@@ -262,10 +262,5 @@ This article was generated algorithmically by Main Street Independent's News Art
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Rio Yamat
 **Publication date:** 2026-04-18
-**Access date:** 2026-05-17
-**Title:** Advice for travelers as the Iran war drives up flight costs
+**Title:** Advice for travelers as the Iran war drives up fllight costs
 **URL:** https://apnews.com/article/summer-travel-flights-prices-war-fuel-d88cd606531d816cbc4d7e1f6c16dc81
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

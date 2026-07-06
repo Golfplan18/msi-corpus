@@ -21,7 +21,7 @@ topic_tags:
   - government
   - politics
 storyline_nexus:
-  - ai-regulation
+- uk-labour-party-crisis
 geographic_location: United Kingdom
 floor_values_engaged:
 - value: accountability_of_power
@@ -234,7 +234,3 @@ Days before Mandelson's arrest, Andrew Mountbatten-Windsor — formerly known as
 **Access date:** 2026-05-17
 **Title:** Starmer faces calls to resign after its revealed Mandelson failed vetting for US post
 **URL:** https://apnews.com/article/uk-starmer-mandelson-ambassador-vetting-21f1f9290b2116d93a85d92546e1340f
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

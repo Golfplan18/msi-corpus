@@ -23,44 +23,44 @@ primary_themes:
 - public_health
 - underage_use_concerns
 topic_tags:
-  - "armed conflict"
-  - "artificial intelligence"
-  - "conflict, war and peace"
-  - "disease and condition"
-  - economy
-  - "economy, business and finance"
-storyline_nexus: []
+- government policy
+- health
+- public health
+- medical research
+- scientific research
+storyline_nexus:
+- trump-health-policy-rfk
 geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.85
-- value: truthfulness
-  intensity: 0.8
+- value: human_life_and_dignity
+  intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.75
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+  intensity: 0.6
+- value: truthfulness
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:50:03Z'
 source_cluster_id: cluster_ap_2026-01-21_zyn-fda-nicotine-pouches-tobacco-smoking
 gdelt_event_ids: []
-consensus_floor_version: 1.0.0
-publication_mindspec_version: 1.0.0
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 22
   hedges:
-    appears: 0
     alleged: 0
     attributed: 8
+    confirmed: 1
     reported: 13
     contested: 0
-    confirmed: 1
+    appears: 0
   corroboration:
+    two_independent: 0
     primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
-    primary_document: 0
     single_source: 22
-    two_independent: 0
+    primary_document: 0
 sources:
   count: 1
   outlets:
@@ -74,13 +74,19 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-12-fda-approves-at-home-std-tests-and-new-gonorrhea-drugs-as-infection-rates-fall
-  relation: related
-  strength: 0.7049
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- FDA considers whether Zyn can be marketed as safer than cigarettes
+- FDA held a public meeting Thursday to consider Philip Morris International's request to approve marketing claims for Zyn nicotine pouches.
+- Government documents suggest FDA regulators are leaning toward approving Philip Morris's request.
+- Zyn contains nicotine powder and comes in 10 flavors including mint, coffee and citrus.
+- Nicotine pouches have been a rare source of growth in the tobacco industry.
 
 The Food and Drug Administration is moving toward approving Philip Morris International's request to market Zyn nicotine pouches as a less-harmful alternative to cigarettes, according to government documents reviewed at a public FDA meeting Thursday.
 
@@ -142,201 +148,245 @@ The FDA will weigh those competing considerations as it decides whether to allow
 
 ## Atomic claims
 
-### c_001 — reported, single source
-**Subject entities:** FDA
-**Predicate:** held meeting to consider
-**Object:** marketing approval request for Zyn (regulatory_process)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** FDA
+- **Predicate:** held meeting to consider
+- **Object:** marketing approval request for Zyn (regulatory_process)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > FDA held a public meeting Thursday to consider Philip Morris International's request to approve marketing claims for Zyn nicotine pouches.
 
-### c_002 — reported, single source
-**Subject entities:** FDA
-**Predicate:** leaning toward approving
-**Object:** Philip Morris marketing request (regulatory_stance)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** FDA
+- **Predicate:** leaning toward approving
+- **Object:** Philip Morris marketing request (regulatory_stance)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Government documents suggest FDA regulators are leaning toward approving Philip Morris's request.
 
-### c_003 — confirmed, single source
-**Subject entities:** Zyn
-**Predicate:** contains
-**Object:** nicotine powder in 10 flavors (product_composition)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Zyn
+- **Predicate:** contains
+- **Object:** nicotine powder in 10 flavors (product_composition)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Zyn contains nicotine powder and comes in 10 flavors including mint, coffee and citrus.
 
-### c_004 — reported, single source
-**Subject entities:** nicotine pouches; tobacco industry
-**Predicate:** are growth source
-**Object:** rare source of growth (industry_trend)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** nicotine pouches; tobacco industry
+- **Predicate:** are growth source
+- **Object:** rare source of growth (industry_trend)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Nicotine pouches have been a rare source of growth in the tobacco industry.
 
-### c_005 — attributed, single source
-**Subject entities:** Zyn
-**Predicate:** generated sales and holds market share
-**Object:** $3.24 billion in sales; more than two-thirds market share (financial_and_market_metric)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Zyn
+- **Predicate:** generated sales and holds market share
+- **Object:** $3.24 billion in sales; more than two-thirds market share (financial_and_market_metric)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Zyn generated more than $3.24 billion in sales last year and holds more than two-thirds of the nicotine pouch market.
 
-### c_006 — reported, single source
-**Subject entities:** FDA; Zyn
-**Predicate:** authorized
-**Object:** Zyn to remain on market (regulatory_decision)
-**Temporal:** 2025-01
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** FDA; Zyn
+- **Predicate:** authorized
+- **Object:** Zyn to remain on market (regulatory_decision)
+- **Temporal:** 2025-01
+- **Sources:** src_001
 
 > The FDA authorized Zyn to remain on the market last January after years of federal review.
 
-### c_007 — reported, single source
-**Subject entities:** Zyn
-**Predicate:** was first to win
-**Object:** FDA authorization for nicotine pouches (regulatory_milestone)
-**Temporal:** 2025-01
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Zyn
+- **Predicate:** was first to win
+- **Object:** FDA authorization for nicotine pouches (regulatory_milestone)
+- **Temporal:** 2025-01
+- **Sources:** src_001
 
 > Zyn was the first nicotine pouch to win FDA authorization.
 
-### c_008 — attributed, single source
-**Subject entities:** Philip Morris; Zyn
-**Predicate:** seeks to claim
-**Object:** reduces risk of mouth cancer, heart disease, lung cancer, stroke (health_claim)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Philip Morris; Zyn
+- **Predicate:** seeks to claim
+- **Object:** reduces risk of mouth cancer, heart disease, lung cancer, stroke (health_claim)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Philip Morris wants to claim that Zyn reduces the risk of mouth cancer, heart disease, lung cancer and stroke.
 
-### c_009 — attributed, single source
-**Subject entities:** FDA scientists
-**Predicate:** said evidence supports
-**Object:** Zyn reduces risk of smoking-related illnesses (scientific_assessment)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** FDA scientists
+- **Predicate:** said evidence supports
+- **Object:** Zyn reduces risk of smoking-related illnesses (scientific_assessment)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > FDA scientists said the totality of the evidence supports the statement that Zyn reduces the risk of various smoking-related illnesses.
 
-### c_010 — attributed, single source
-**Subject entities:** Cristine Delnevo
-**Predicate:** stated absence of
-**Object:** data on whether claims accelerate switching from cigarettes (research_gap)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Cristine Delnevo
+- **Predicate:** stated absence of
+- **Object:** data on whether claims accelerate switching from cigarettes (research_gap)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Expert panel member Cristine Delnevo stated there is no data showing whether marketing claims would accelerate smoker switching to Zyn.
 
-### c_011 — reported, single source
-**Subject entities:** Philip Morris
-**Predicate:** did not conduct
-**Object:** long-term studies of Zyn users and switching behavior (research_gap)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Philip Morris
+- **Predicate:** did not conduct
+- **Object:** long-term studies of Zyn users and switching behavior (research_gap)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Philip Morris did not conduct long-term studies of Zyn users or whether messages about lower risks led smokers to switch.
 
-### c_012 — reported, single source
-**Subject entities:** Zynfluencers; social media
-**Predicate:** racked up
-**Object:** tens of millions of views (social_media_metric)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Zynfluencers; social media
+- **Predicate:** racked up
+- **Object:** tens of millions of views (social_media_metric)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Videos from young people using Zyn, called 'Zynfluencers,' have racked up tens of millions of views on social media in recent years.
 
-### c_013 — attributed, single source
-**Subject entities:** Andrew Tardiff; Zyn
-**Predicate:** has features appealing to youth
-**Object:** flavors, easy to conceal, discrete use (product_features)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Andrew Tardiff; Zyn
+- **Predicate:** has features appealing to youth
+- **Object:** flavors, easy to conceal, discrete use (product_features)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Andrew Tardiff of the Campaign for Tobacco-Free Kids noted that Zyn has features that enhance its appeal to young people, including flavors, concealability and discrete use.
 
-### c_014 — attributed, single source
-**Subject entities:** high school students
-**Predicate:** use nicotine pouches
-**Object:** 2.4% (prevalence_rate)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** high school students
+- **Predicate:** use nicotine pouches
+- **Object:** 2.4% (prevalence_rate)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > According to 2024 federal survey data, teenage use of nicotine pouches is 2.4 percent of high school students.
 
-### c_015 — reported, single source
-**Subject entities:** U.S. adults
-**Predicate:** use nicotine pouches
-**Object:** less than 1% (prevalence_rate)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_015
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** U.S. adults
+- **Predicate:** use nicotine pouches
+- **Object:** less than 1% (prevalence_rate)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Less than 1 percent of U.S. adults use nicotine pouches.
 
-### c_016 — reported, single source
-**Subject entities:** Philip Morris; snus
-**Predicate:** sells
-**Object:** snus in Scandinavia (product_distribution)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_016
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Philip Morris; snus
+- **Predicate:** sells
+- **Object:** snus in Scandinavia (product_distribution)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Philip Morris sells snus, a type of oral tobacco pouch, in Sweden and other Scandinavian countries.
 
-### c_017 — attributed, single source
-**Subject entities:** snus users; smokers
-**Predicate:** show lower rates
-**Object:** lung cancer, mouth cancer, related diseases (health_outcome)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_017
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** snus users; smokers
+- **Predicate:** show lower rates
+- **Object:** lung cancer, mouth cancer, related diseases (health_outcome)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Studies in Scandinavian countries have consistently shown lower rates of lung cancer, mouth cancer and related diseases among snus users compared with smokers.
 
-### c_018 — reported, single source
-**Subject entities:** FDA; snus
-**Predicate:** approved
-**Object:** reduced-risk claim (regulatory_decision)
-**Temporal:** 2019
-**Source IDs:** src_001
+### c_018
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** FDA; snus
+- **Predicate:** approved
+- **Object:** reduced-risk claim (regulatory_decision)
+- **Temporal:** 2019
+- **Sources:** src_001
 
 > The FDA approved a reduced-risk claim for snus in 2019.
 
-### c_019 — reported, single source
-**Subject entities:** snus; U.S. smokers
-**Predicate:** achieved little uptake despite
-**Object:** FDA reduced-risk approval (market_adoption)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_019
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** snus; U.S. smokers
+- **Predicate:** achieved little uptake despite
+- **Object:** FDA reduced-risk approval (market_adoption)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > There has been little uptake of snus products by U.S. smokers despite the FDA's 2019 reduced-risk approval.
 
-### c_020 — attributed, single source
-**Subject entities:** Philip Morris executives
-**Predicate:** said marketing language could increase
-**Object:** switching to Zyn over time (industry_perspective)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_020
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Philip Morris executives
+- **Predicate:** said marketing language could increase
+- **Object:** switching to Zyn over time (industry_perspective)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Philip Morris executives said the language for marketing claims could have an impact over time in increasing switching to Zyn.
 
-### c_021 — reported, single source
-**Subject entities:** FDA
-**Predicate:** has no announced deadline
-**Object:** for Zyn marketing approval decision (regulatory_timeline)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_021
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** FDA
+- **Predicate:** has no announced deadline
+- **Object:** for Zyn marketing approval decision (regulatory_timeline)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > The FDA has no announced deadline for making a final decision on Zyn's marketing claims.
 
-### c_022 — reported, single source
-**Subject entities:** FDA
-**Predicate:** not bound to follow
-**Object:** expert panel guidance (regulatory_discretion)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_022
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** FDA
+- **Predicate:** not bound to follow
+- **Object:** expert panel guidance (regulatory_discretion)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > The FDA is not bound to follow the expert panel's guidance on the Zyn marketing request.
 
@@ -345,10 +395,5 @@ The FDA will weigh those competing considerations as it decides whether to allow
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Matthew Perrone
 **Publication date:** 2026-01-22
-**Access date:** 2026-01-22
 **Title:** FDA considers whether Zyn can be marketed as safer than cigarettes
 **URL:** https://apnews.com/article/zyn-fda-nicotine-pouches-tobacco-smoking-cancer-d2bb42e4aa70b09c90d969845327bce9
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

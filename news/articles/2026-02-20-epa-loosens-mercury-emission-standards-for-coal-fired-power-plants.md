@@ -13,44 +13,42 @@ primary_themes:
 - public health
 - EPA deregulation
 topic_tags:
-  - environment
-  - health
-  - "public health"
+- government policy
+- environment
+- pollution
+- energy and resource
+- government
 storyline_nexus:
-  - us-administration-2026
+- trump-climate-energy-rollbacks
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
-  intensity: 0.95
-- value: truthfulness
   intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.85
-- value: informed_citizenship
-  intensity: 0.8
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T01:02:12Z'
 source_cluster_id: cluster_ap_2026-02-21_trump-coal-zeldin-mercury-epa-emissions-
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 11
   hedges:
-    appears: 0
+    confirmed: 4
     alleged: 0
     attributed: 6
+    appears: 0
     reported: 1
     contested: 0
-    confirmed: 4
   corroboration:
-    primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
+    primary_plus_secondary: 0
     primary_document: 8
-    single_source: 3
     two_independent: 0
+    single_source: 3
 sources:
   count: 1
   outlets:
@@ -64,41 +62,19 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-04-15-epa-proposes-reclassifying-plastic-pyrolysis-potentially-gutting-air-pollution-c
-  relation: related
-  strength: 0.804
-  confidence: medium
-- slug: 2026-01-13-epa-drops-health-benefit-calculations-from-air-pollution-rules-under-trump
-  relation: related
-  strength: 0.8105
-  confidence: medium
-- slug: 2025-12-30-trump-s-epa-cuts-pollution-rules-and-staff-in-fossil-fuel-pivot
-  relation: related
-  strength: 0.8513
-  confidence: medium
-- slug: 2025-12-30-zeldin-s-epa-cuts-enforcement-and-staff-as-fossil-fuel-friendly-pivot-takes-hold
-  relation: related
-  strength: 0.8335
-  confidence: medium
-- slug: 2026-01-07-trump-white-house-rescinds-nepa-regulations-to-speed-energy-project-approvals
-  relation: related
-  strength: 0.7688
-  confidence: medium
-- slug: 2026-01-08-trump-pulls-u-s-from-un-climate-framework-experts-warn-of-global-damage
-  relation: related
-  strength: 0.7578
-  confidence: medium
-- slug: 2026-01-13-epa-proposes-limits-on-state-clean-water-act-authority-for-pipelines-and-data-ce
-  relation: related
-  strength: 0.7164
-  confidence: medium
-- slug: 2026-01-09-gm-records-6-billion-in-charges-as-ev-tax-credits-expire-and-emissions-rules-eas
-  relation: related
-  strength: 0.731
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- The Environmental Protection Agency on Friday weakened limits on mercury and other toxic emissions from coal-fired power plants, continuing the Trump administration's effort to reduce environmental pr…
+- "For too long, the entire coal supply chain has been the target of bad and onerous environmental regulations," said Michelle Bloodworth, CEO of America's Power, a coal industry group.
+- The mercury standards reversal fits within the Trump administration's larger effort to roll back environmental regulations. The administration has extended deadlines for dozens of coal-fired power pla…
+- Zeldin said the actions marked "the death of the 'green new scam,'" signaling the administration's pivot away from the climate focus of the Biden years. Recently, President Donald Trump hosted a group…
+- Environmental advocates view the mercury standards shift differently. Gina McCarthy, the former EPA head, said: "By weakening pollution limits and monitoring for brain-damaging mercury and other pollu…
 
 The Environmental Protection Agency on Friday weakened limits on mercury and other toxic emissions from coal-fired power plants, continuing the Trump administration's effort to reduce environmental protections on fossil fuels. The agency announced the move at the Mill Creek Generating Station, a coal plant along the Ohio River in Louisville, Kentucky, saying it would save the industry hundreds of millions of dollars.
 
@@ -128,102 +104,124 @@ Environmental advocates view the mercury standards shift differently. Gina McCar
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Environmental Protection Agency
-**Predicate:** weakened_regulatory_limits
-**Object:** mercury and other toxic emissions (regulatory_domain)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Environmental Protection Agency
+- **Predicate:** weakened_regulatory_limits
+- **Object:** mercury and other toxic emissions (regulatory_domain)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > The Environmental Protection Agency on Friday weakened limits on mercury and other toxic emissions from coal-fired power plants.
 
-### c_002 — confirmed, primary document
-**Subject entities:** Environmental Protection Agency; Mill Creek Generating Station
-**Predicate:** announced_at_location
-**Object:** Mill Creek Generating Station, Louisville, Kentucky (geographic_location)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Environmental Protection Agency; Mill Creek Generating Station
+- **Predicate:** announced_at_location
+- **Object:** Mill Creek Generating Station, Louisville, Kentucky (geographic_location)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > The EPA announced the action at the Mill Creek Generating Station in Louisville, Kentucky.
 
-### c_003 — reported, single source
-**Subject entities:** Environmental Protection Agency
-**Predicate:** estimated_cost_savings
-**Object:** hundreds of millions of dollars (financial_estimate)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Environmental Protection Agency
+- **Predicate:** estimated_cost_savings
+- **Object:** hundreds of millions of dollars (financial_estimate)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > The EPA said the change should save hundreds of millions of dollars.
 
-### c_004 — confirmed, primary document
-**Subject entities:** Environmental Protection Agency
-**Predicate:** reverted_to_standards
-**Object:** 2012 Mercury and Air Toxics Standards (regulatory_standard)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Environmental Protection Agency
+- **Predicate:** reverted_to_standards
+- **Object:** 2012 Mercury and Air Toxics Standards (regulatory_standard)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > The EPA reverted coal-fired power plants to standards originally established in 2012.
 
-### c_005 — attributed, single source
-**Subject entities:** 2012 Mercury and Air Toxics Standards
-**Predicate:** achieved_emissions_reduction
-**Object:** nearly 90% (percentage)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** 2012 Mercury and Air Toxics Standards
+- **Predicate:** achieved_emissions_reduction
+- **Object:** nearly 90% (percentage)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > The 2012 standards have reduced mercury emissions by nearly 90 percent.
 
-### c_006 — attributed, single source
-**Subject entities:** mercury exposure
-**Predicate:** causes_health_harm
-**Object:** brain damage in children; heart disease in adults (health_outcome)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** mercury exposure
+- **Predicate:** causes_health_harm
+- **Object:** brain damage in children; heart disease in adults (health_outcome)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > Mercury exposure harms brain development in young children and contributes to heart disease in adults.
 
-### c_007 — confirmed, primary document
-**Subject entities:** coal-fired power plants
-**Predicate:** is_largest_source
-**Object:** mercury pollutants (pollutant_type)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** coal-fired power plants
+- **Predicate:** is_largest_source
+- **Object:** mercury pollutants (pollutant_type)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > Coal-fired power plants are the largest single human source of mercury pollutants.
 
-### c_008 — attributed, primary document
-**Subject entities:** David Fotouhi
-**Predicate:** characterized_policy
-**Object:** reverting to original MATS standards corrects prior administration errors (speech_act)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** David Fotouhi
+- **Predicate:** characterized_policy
+- **Object:** reverting to original MATS standards corrects prior administration errors (speech_act)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > EPA Deputy Administrator David Fotouhi said EPA's actions will 'right the wrongs of the last administration's rule' and return the industry to original MATS standards.
 
-### c_009 — attributed, primary document
-**Subject entities:** Michelle Bloodworth; America's Power
-**Predicate:** argued
-**Object:** tighter emission standards increase coal plant operating costs prohibitively (speech_act)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Michelle Bloodworth; America's Power
+- **Predicate:** argued
+- **Object:** tighter emission standards increase coal plant operating costs prohibitively (speech_act)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > Michelle Bloodworth, CEO of America's Power, said stricter emission standards made operating coal plants too expensive.
 
-### c_010 — attributed, primary document
-**Subject entities:** Lee Zeldin
-**Predicate:** announced
-**Object:** major deregulatory action (speech_act)
-**Temporal:** 2026-03
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Lee Zeldin
+- **Predicate:** announced
+- **Object:** major deregulatory action (speech_act)
+- **Temporal:** 2026-03
+- **Sources:** src_001
 
 > EPA Administrator Lee Zeldin announced in March the 'biggest deregulatory action in U.S. history.'
 
-### c_011 — attributed, primary document
-**Subject entities:** Gina McCarthy
-**Predicate:** criticized
-**Object:** weakening mercury pollution limits harms public health (speech_act)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Gina McCarthy
+- **Predicate:** criticized
+- **Object:** weakening mercury pollution limits harms public health (speech_act)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > Gina McCarthy, former EPA administrator under President Barack Obama, said weakening pollution limits for mercury is harming American public health.
 
@@ -232,10 +230,5 @@ Environmental advocates view the mercury standards shift differently. Gina McCar
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Michael Phillis
 **Publication date:** 2026-02-20
-**Access date:** 2026-02-20
 **Title:** Trump administration relaxes limits on pollutants that coal plants may emit
 **URL:** https://apnews.com/article/trump-coal-zeldin-mercury-epa-emissions-b770d6efd05f19ed24b179511c726196
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

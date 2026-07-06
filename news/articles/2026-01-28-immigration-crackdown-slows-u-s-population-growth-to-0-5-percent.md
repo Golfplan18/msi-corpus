@@ -19,8 +19,7 @@ topic_tags:
   - "human interest"
   - "human migration"
 storyline_nexus:
-  - immigration-enforcement
-  - us-administration-2026
+- us-immigration-enforcement
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship
@@ -129,196 +128,236 @@ The population-estimate work proceeded despite significant staffing challenges a
 
 **License:** This article is released under [CC0](https://creativecommons.org/publicdomain/zero/1.0/) — a public-domain dedication. You are free to use, modify, and distribute this work without restriction.
 
-**AI Disclosure:** This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** United States population
-**Predicate:** reached
-**Object:** 342 million (population_count)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** United States population
+- **Predicate:** reached
+- **Object:** 342 million (population_count)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > The U.S. population reached 342 million people in 2025.
 
-### c_002 — confirmed, primary document
-**Subject entities:** United States
-**Predicate:** had_growth_rate
-**Object:** 0.5 percent in 2025 vs 1 percent in 2024 (growth_rate)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** United States
+- **Predicate:** had_growth_rate
+- **Object:** 0.5 percent in 2025 vs 1 percent in 2024 (growth_rate)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > The U.S. population growth rate was 0.5 percent in 2025, a sharp drop from 2024's almost 1 percent.
 
-### c_003 — confirmed, primary document
-**Subject entities:** Immigration to United States
-**Predicate:** increased_by
-**Object:** 1.3 million in 2025 vs 2.8 million in 2024 (immigration_count)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Immigration to United States
+- **Predicate:** increased_by
+- **Object:** 1.3 million in 2025 vs 2.8 million in 2024 (immigration_count)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Immigration increased by 1.3 million people in 2025, compared with 2.8 million in 2024.
 
-### c_004 — attributed, single source
-**Subject entities:** Donald Trump immigration crackdown
-**Predicate:** contributed_to
-**Object:** drop in growth rate (causal_claim)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump immigration crackdown
+- **Predicate:** contributed_to
+- **Object:** drop in growth rate (causal_claim)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > President Trump's immigration crackdown contributed to the drop in the nation's growth rate.
 
-### c_005 — confirmed, primary document
-**Subject entities:** California
-**Predicate:** had_population_loss
-**Object:** 9,500 (population_change)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** California
+- **Predicate:** had_population_loss
+- **Object:** 9,500 (population_change)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > California had a net population loss of 9,500 people in 2025.
 
-### c_006 — confirmed, primary document
-**Subject entities:** California immigration
-**Predicate:** dropped
-**Object:** 361,000 to 109,000 (immigration_count)
-**Temporal:** 2024-2025
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** California immigration
+- **Predicate:** dropped
+- **Object:** 361,000 to 109,000 (immigration_count)
+- **Temporal:** 2024-2025
+- **Sources:** src_001
 
 > The number of net immigrants who moved to California dropped from 361,000 people in 2024 to 109,000 in 2025.
 
-### c_007 — confirmed, primary document
-**Subject entities:** Florida
-**Predicate:** had_domestic_migrants
-**Object:** 22,000 in 2025 vs 64,000 in 2024 (migration_count)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Florida
+- **Predicate:** had_domestic_migrants
+- **Object:** 22,000 in 2025 vs 64,000 in 2024 (migration_count)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Florida had only 22,000 domestic migrants in 2025, compared with 64,000 people in 2024.
 
-### c_008 — confirmed, primary document
-**Subject entities:** Florida immigration
-**Predicate:** dropped
-**Object:** 411,000 to 178,000 (immigration_count)
-**Temporal:** 2024-2025
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Florida immigration
+- **Predicate:** dropped
+- **Object:** 411,000 to 178,000 (immigration_count)
+- **Temporal:** 2024-2025
+- **Sources:** src_001
 
 > Florida's net number of immigrants dropped from more than 411,000 people to 178,000 people.
 
-### c_009 — confirmed, primary document
-**Subject entities:** New York
-**Predicate:** added_population
-**Object:** 1,008 people; immigration dropped from 207,000 to 95,600 (population_change)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** New York
+- **Predicate:** added_population
+- **Object:** 1,008 people; immigration dropped from 207,000 to 95,600 (population_change)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > New York added only 1,008 people in 2025, mostly because the state's net migration from immigrants dropped from 207,000 people to 95,600 people.
 
-### c_010 — confirmed, primary document
-**Subject entities:** South Carolina; Idaho; North Carolina
-**Predicate:** had_highest_growth_rates
-**Object:** 1.3 to 1.5 percent (growth_rate)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** South Carolina; Idaho; North Carolina
+- **Predicate:** had_highest_growth_rates
+- **Object:** 1.3 to 1.5 percent (growth_rate)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > South Carolina, Idaho, and North Carolina had the highest year-over-year growth rates, ranging from 1.3 percent to 1.5 percent.
 
-### c_011 — confirmed, primary document
-**Subject entities:** United States South region
-**Predicate:** added_population
-**Object:** 1.1 million in 2025 vs 1.7 million in 2024 (population_change)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_011
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** United States South region
+- **Predicate:** added_population
+- **Object:** 1.1 million in 2025 vs 1.7 million in 2024 (population_change)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > The South region added 1.1 million people in 2025, down from 1.7 million in 2024.
 
-### c_012 — confirmed, primary document
-**Subject entities:** United States natural increase
-**Predicate:** exceeded
-**Object:** 519,000 (population_count)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_012
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** United States natural increase
+- **Predicate:** exceeded
+- **Object:** 519,000 (population_count)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Births outnumbered deaths last year by 519,000 people.
 
-### c_013 — confirmed, primary document
-**Subject entities:** Census Bureau population estimates
-**Predicate:** covers
-**Object:** July 2024 to July 2025 (time_period)
-**Temporal:** 2024-2025
-**Source IDs:** src_001
+### c_013
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Census Bureau population estimates
+- **Predicate:** covers
+- **Object:** July 2024 to July 2025 (time_period)
+- **Temporal:** 2024-2025
+- **Sources:** src_001
 
 > The population estimates cover the period from July 2024 to July 2025.
 
-### c_014 — reported, single source
-**Subject entities:** Census Bureau
-**Predicate:** projects
-**Object:** 321,000 annual immigrants by mid-2026 (projection)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_014
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Census Bureau
+- **Predicate:** projects
+- **Object:** 321,000 annual immigrants by mid-2026 (projection)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > According to Census Bureau projections, if trends continue, the annual gain from immigrants by mid-2026 will drop to only 321,000 people.
 
-### c_015 — attributed, single source
-**Subject entities:** William Frey
-**Predicate:** said
-**Object:** many states will show smaller growth (speech_act)
-**Temporal:** 2026-01-28
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** William Frey
+- **Predicate:** said
+- **Object:** many states will show smaller growth (speech_act)
+- **Temporal:** 2026-01-28
+- **Sources:** src_001
 
 > William Frey, a Brookings demographer, said many states will show even smaller growth when population estimates are released next year.
 
-### c_016 — confirmed, single source
-**Subject entities:** U.S. Census Bureau
-**Predicate:** lost
-**Object:** 15 percent of workforce (workforce_reduction)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_016
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Census Bureau
+- **Predicate:** lost
+- **Object:** 15 percent of workforce (workforce_reduction)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > The Census Bureau lost about 15 percent of its workforce in 2025 through buyouts and layoffs.
 
-### c_017 — attributed, single source
-**Subject entities:** Immigration enforcement; Los Angeles; Portland, Oregon
-**Predicate:** reflects
-**Object:** enforcement surges (enforcement_action)
-**Temporal:** 2024-2025
-**Source IDs:** src_001
+### c_017
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Immigration enforcement; Los Angeles; Portland, Oregon
+- **Predicate:** reflects
+- **Object:** enforcement surges (enforcement_action)
+- **Temporal:** 2024-2025
+- **Sources:** src_001
 
 > The data reflects enforcement surges in Los Angeles and Portland, Oregon.
 
-### c_018 — reported, single source
-**Subject entities:** Immigration enforcement; Chicago; New Orleans; Memphis; Minneapolis
-**Predicate:** began
-**Object:** larger crackdowns (enforcement_action)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_018
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Immigration enforcement; Chicago; New Orleans; Memphis; Minneapolis
+- **Predicate:** began
+- **Object:** larger crackdowns (enforcement_action)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Larger crackdowns began in Chicago, New Orleans, Memphis, and Minneapolis after mid-2025.
 
-### c_019 — reported, single source
-**Subject entities:** Trump administration; Erika McEntarfer; Bureau of Labor Statistics
-**Predicate:** fired
-**Object:** Erika McEntarfer (personnel_action)
-**Temporal:** 2025-2026
-**Source IDs:** src_001
+### c_019
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Trump administration; Erika McEntarfer; Bureau of Labor Statistics
+- **Predicate:** fired
+- **Object:** Erika McEntarfer (personnel_action)
+- **Temporal:** 2025-2026
+- **Sources:** src_001
 
 > The Trump administration fired Erika McEntarfer, the commissioner of the Bureau of Labor Statistics.
 
-### c_020 — reported, single source
-**Subject entities:** Federal statistical agencies; Trump administration
-**Predicate:** had_concerns_raised
-**Object:** political pressure concerns (concern)
-**Temporal:** 2025-2026
-**Source IDs:** src_001
+### c_020
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Federal statistical agencies; Trump administration
+- **Predicate:** had_concerns_raised
+- **Object:** political pressure concerns (concern)
+- **Temporal:** 2025-2026
+- **Sources:** src_001
 
 > Concerns about political pressure on federal statistical agencies were raised by the Trump administration's firing of Erika McEntarfer.
 
-### c_021 — attributed, single source
-**Subject entities:** William Frey; Census Bureau
-**Predicate:** said
-**Object:** Census Bureau staff doing work without interference (speech_act)
-**Temporal:** 2026-01-28
-**Source IDs:** src_001
+### c_021
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** William Frey; Census Bureau
+- **Predicate:** said
+- **Object:** Census Bureau staff doing work without interference (speech_act)
+- **Temporal:** 2026-01-28
+- **Sources:** src_001
 
 > William Frey said Census Bureau staff appeared to be doing their work as usual without interference.
 
@@ -330,7 +369,3 @@ The population-estimate work proceeded despite significant staffing challenges a
 **Access date:** 2026-01-28
 **Title:** Trump immigration crackdown leads to drop in US population growth rate
 **URL:** https://apnews.com/article/census-bureau-immigration-trump-us-population-7130f180e3d8c03185932e3e6f9974e8
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

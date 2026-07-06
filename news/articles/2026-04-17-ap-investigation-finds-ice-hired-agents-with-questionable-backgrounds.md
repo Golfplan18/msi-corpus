@@ -1,5 +1,5 @@
 ---
-headline: AP investigation finds ICE hired agents with questionable backgrounds
+headline: 'ICE hired agents with questionable backgrounds'
 publish_date: '2026-04-17'
 lede: An Associated Press investigation has found that U.S. Immigration and Customs Enforcement hired thousands of new officers and special agents with questionable qualifications during an unprecedented hiring spree to carry out President Donald Trump's mass deportation campaign. The agency, which received a $75 billion congressional windfall, prioritized rapid recruitment over verification, resulting in the hiring of applicants with histories of financial distress, failed police academies, and prior misconduct allegations.
 nut_graf: The rapid vetting process has raised concerns about liability and capacity for abuse within the agency, which has faced multiple allegations of excessive force since the hiring campaign began.
@@ -25,7 +25,7 @@ topic_tags:
   - "economy, business and finance"
   - "human interest"
 storyline_nexus:
-  - immigration-enforcement
+- us-immigration-enforcement
 geographic_location: United States (Minnesota, Georgia, Kansas, Colorado, Virginia)
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -158,10 +158,6 @@ Former ICE academy instructor Ryan Schwank testified in February that agency lea
 Marshall Jones, an expert on police recruiting at Florida Institute of Technology, said it is hard to get a full picture of ICE's new employee pool without more data. But he said ICE has likely hired some "less than ideal candidates" who meet minimum requirements but would be passed over in a normal hiring cycle.
 
 "If you're hiring hundreds or thousands of people, even with the best of background processes, there are going to be outliers," Jones said. "The question is, are these normal outliers from human beings doing things, or is there a systemic challenge in properly vetting folks if there are issues?"
-
----
-
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. The framework specification is published in Appendix F of the Main Street Independent Editorial Treatise. Human review was not triggered by the framework's quality-control system.
 
 This article is released under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) — a public-domain dedication. You are free to use, modify, and republish it without restriction.
 
@@ -364,7 +360,3 @@ This article is released under [CC0 1.0 Universal](https://creativecommons.org/p
 **Access date:** 2026-05-17
 **Title:** ICE went on a hiring spree. Sterling credentials not required
 **URL:** https://apnews.com/article/ice-background-checks-vetting-immigration-8ae6b7b850f7c0265b3cb8b5060ef8fd
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

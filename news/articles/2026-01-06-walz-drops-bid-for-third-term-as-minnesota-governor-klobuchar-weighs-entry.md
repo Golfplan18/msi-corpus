@@ -20,7 +20,7 @@ topic_tags:
   - politics
   - society
 storyline_nexus:
-  - immigration-enforcement
+- 2026-midterm-elections
 geographic_location: St. Paul, Minnesota, United States
 floor_values_engaged:
 - value: informed_citizenship
@@ -117,102 +117,124 @@ More recently, Walz said he had been frustrated in efforts to pass new gun contr
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Tim Walz
-**Predicate:** withdrew_from
-**Object:** 2026 Minnesota governor's race (political_race)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Tim Walz
+- **Predicate:** withdrew_from
+- **Object:** 2026 Minnesota governor's race (political_race)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > Minnesota Gov. Tim Walz announced he will not seek a third term as governor.
 
-### c_002 — confirmed, primary document
-**Subject entities:** Tim Walz
-**Predicate:** announced_at
-**Object:** Minnesota state capitol, St. Paul (location)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Tim Walz
+- **Predicate:** announced_at
+- **Object:** Minnesota state capitol, St. Paul (location)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > Walz announced his decision at the state capitol less than four months after launching his reelection campaign.
 
-### c_003 — reported, single source
-**Subject entities:** Amy Klobuchar
-**Predicate:** considering_entry_into
-**Object:** 2026 Minnesota governor's race (political_race)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Amy Klobuchar
+- **Predicate:** considering_entry_into
+- **Object:** 2026 Minnesota governor's race (political_race)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > Democratic Sen. Amy Klobuchar is considering entering the Minnesota governor's race but has not made a final decision, according to a person close to her.
 
-### c_004 — attributed, single source
-**Subject entities:** Donald Trump; Tim Walz
-**Predicate:** posted_unsubstantiated_accusation
-**Object:** social media post claiming Walz stole taxpayer funds (public_statement)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Tim Walz
+- **Predicate:** posted_unsubstantiated_accusation
+- **Object:** social media post claiming Walz stole taxpayer funds (public_statement)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > Trump wrote on social media that Walz was not running 'because he was caught, REDHANDED' with 'stealing Tens of Billions of Taxpayer Dollars,' an accusation that lacked evidence despite acknowledged fraud problems in Minnesota's child care programs.
 
-### c_005 — confirmed, single source
-**Subject entities:** Nick Shirley
-**Predicate:** produced
-**Object:** viral video alleging day care fraud (media_artifact)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Nick Shirley
+- **Predicate:** produced
+- **Object:** viral video alleging day care fraud (media_artifact)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > Nick Shirley, a right-wing influencer, made a viral video claiming rampant fraud at day care centers operated by Somali residents in Minneapolis.
 
-### c_006 — reported, single source
-**Subject entities:** Donald Trump; Nick Shirley
-**Predicate:** cited_as_basis_for
-**Object:** federal funding cutoff (government_action)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Nick Shirley
+- **Predicate:** cited_as_basis_for
+- **Object:** federal funding cutoff (government_action)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > The Trump administration cited Shirley's video in its decision to cut off certain federal funding streams to Minnesota.
 
-### c_007 — confirmed, single source
-**Subject entities:** Nick Shirley
-**Predicate:** posted
-**Object:** I ENDED TIM WALZ (social_media_post)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Nick Shirley
+- **Predicate:** posted
+- **Object:** I ENDED TIM WALZ (social_media_post)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > Nick Shirley posted 'I ENDED TIM WALZ' on social media after Walz's announcement.
 
-### c_008 — confirmed, single source
-**Subject entities:** Mike Lindell; Lisa Demuth; Scott Jensen; Kristin Robbins; Chris Madel; Kendall Qualls
-**Predicate:** running_for
-**Object:** Minnesota governor (political_office)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Mike Lindell; Lisa Demuth; Scott Jensen; Kristin Robbins; Chris Madel; Kendall Qualls
+- **Predicate:** running_for
+- **Object:** Minnesota governor (political_office)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > Republicans running for Minnesota governor include MyPillow founder Mike Lindell, Minnesota House Speaker Lisa Demuth, former state Sen. Scott Jensen, state Rep. Kristin Robbins, attorney Chris Madel, and former executive Kendall Qualls.
 
-### c_009 — attributed, single source
-**Subject entities:** Democratic Party
-**Predicate:** holds
-**Object:** 24 of 50 governor seats (electoral_statistic)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Democratic Party
+- **Predicate:** holds
+- **Object:** 24 of 50 governor seats (electoral_statistic)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > Democrats hold 24 of 50 governor's seats nationwide, with 36 seats on the ballot in 2026.
 
-### c_010 — confirmed, single source
-**Subject entities:** Annunciation School
-**Predicate:** mass_shooting_killed
-**Object:** two children dead, dozens injured (casualty_count)
-**Temporal:** 2025-08
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Annunciation School
+- **Predicate:** mass_shooting_killed
+- **Object:** two children dead, dozens injured (casualty_count)
+- **Temporal:** 2025-08
+- **Sources:** src_001
 
 > A mass shooting at Annunciation School in Minneapolis in August left two children dead and injured dozens.
 
-### c_011 — confirmed, single source
-**Subject entities:** Tim Walz
-**Predicate:** enacted
-**Object:** liberal legislative agenda (legislation)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_011
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Tim Walz
+- **Predicate:** enacted
+- **Object:** liberal legislative agenda (legislation)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > In his second term, Walz's administration enacted legislation eliminating most state abortion restrictions, protecting gender-affirming care for transgender youth, legalizing recreational marijuana, providing free school meals for all students, and establishing a paid family and medical leave program.
 
@@ -224,7 +246,3 @@ More recently, Walz said he had been frustrated in efforts to pass new gun contr
 **Access date:** 2026-01-06
 **Title:** Tim Walz drops bid for third term as Minnesota governor
 **URL:** https://apnews.com/article/tim-walz-minnesota-governor-not-running-fb037492e59e1e376f3be0559c235aec
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

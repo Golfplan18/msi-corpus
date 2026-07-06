@@ -19,47 +19,41 @@ primary_themes:
 - fireworks regulation
 - legislation
 topic_tags:
-  - "crime, law and justice"
-  - "disaster, accident and emergency incident"
-  - fire
-  - "law enforcement"
-  - politics
-  - trial
+- crime
+- law enforcement
+- prosecution
+- government policy
 storyline_nexus:
-  - immigration-enforcement
-geographic_location: Honolulu, Hawaii, United States
+- us-immigration-enforcement
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
-  intensity: 0.95
-- value: truthfulness
-  intensity: 0.8
+  intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.75
-- value: informed_citizenship
-  intensity: 0.65
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+  intensity: 0.9
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:23:26Z'
 source_cluster_id: cluster_ap_2026-01-27_honolulu-general-news-2df74a039d8d49feba
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 13
   hedges:
-    appears: 0
-    alleged: 0
     attributed: 2
     reported: 5
-    contested: 0
     confirmed: 6
+    appears: 0
+    alleged: 0
+    contested: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 2
-    single_source: 11
     two_independent: 0
+    primary_plus_secondary: 0
+    primary_document: 2
+    one_originating_plus_primary_document: 0
+    single_source: 11
 sources:
   count: 1
   outlets:
@@ -76,6 +70,13 @@ figures_aggregate:
 cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- Honolulu issued 47 citations for fireworks violations in the second half of 2025, double the number issued in either of the previous two years, as newly enacted laws gave law enforcement expanded tools to crack down on illegal fireworks.
+- The enforcement wave follows a deadly New Year's Eve 2023 explosion that killed six people and injured 24, an incident that spurred lawmakers to overhaul enforcement mechanisms that had historically resulted in dismissals or dropped prosecutions in 94% of cases.
+- "While the department has made good progress on stemming the flow of illegal imports to the island, there needs to be more focus on the consumer side, including issuing more citations in the coming year," Mike Lambert, director of the Department of Law Enforcement, said last week..
 
 Honolulu issued 47 citations for fireworks violations in the second half of 2025, double the number issued in either of the previous two years, as newly enacted laws gave law enforcement expanded tools to crack down on illegal fireworks.
 
@@ -123,132 +124,153 @@ The reduction in harm was the clearest indicator that the combination of increas
 
 ## Atomic claims
 
-### c_001 — confirmed, single source
-**Subject entities:** Honolulu Police Department
-**Predicate:** issued
-**Object:** 47 citations (law_enforcement_action)
-**Temporal:** 2025-07-04 to 2026-01-01
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Honolulu Police Department
+- **Predicate:** issued
+- **Object:** 47 citations (law_enforcement_action)
+- **Temporal:** 2025-07-04 to 2026-01-01
+- **Sources:** src_001
 
 > Honolulu issued 47 fireworks citations between July 4, 2025 and January 1, 2026.
 
-### c_002 — reported, single source
-**Subject entities:** Honolulu Police Department
-**Predicate:** represents_increase
-**Object:** double previous years (statistical_comparison)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Honolulu Police Department
+- **Predicate:** represents_increase
+- **Object:** double previous years (statistical_comparison)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > The 47 citations represent double the number issued in either of the previous two years.
 
-### c_003 — confirmed, single source
-**Subject entities:** Honolulu Police Department
-**Predicate:** issued
-**Object:** 29 citations (law_enforcement_action)
-**Temporal:** 2025-12-31
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Honolulu Police Department
+- **Predicate:** issued
+- **Object:** 29 citations (law_enforcement_action)
+- **Temporal:** 2025-12-31
+- **Sources:** src_001
 
 > Twenty-nine of the 47 citations were issued on New Year's Eve 2025.
 
-### c_004 — confirmed, single source
-**Subject entities:** Hawaii legislature; Gov. Josh Green
-**Predicate:** enacted
-**Object:** Acts 243 and 244 (legislation)
-**Temporal:** 2025-06
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Hawaii legislature; Gov. Josh Green
+- **Predicate:** enacted
+- **Object:** Acts 243 and 244 (legislation)
+- **Temporal:** 2025-06
+- **Sources:** src_001
 
 > Laws took effect in June 2025 providing streamlined civil fines and drone surveillance authority.
 
-### c_005 — confirmed, primary document
-**Subject entities:** Hawaii state prosecutors
-**Predicate:** prevailed
-**Object:** 12 successful prosecutions (legal_outcome)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Hawaii state prosecutors
+- **Predicate:** prevailed
+- **Object:** 12 successful prosecutions (legal_outcome)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > As of January 21, 2026, the state had prevailed in 12 fireworks prosecutions out of 47 citations issued.
 
-### c_006 — confirmed, primary document
-**Subject entities:** Oʻahu courts
-**Predicate:** recorded
-**Object:** case status breakdown (legal_outcome)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Oʻahu courts
+- **Predicate:** recorded
+- **Object:** case status breakdown (legal_outcome)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > Eight cases remained active, eight were dismissed, one was dropped, and one was pending as of January 21.
 
-### c_007 — reported, single source
-**Subject entities:** Honolulu residents
-**Predicate:** transported
-**Object:** 6 serious injuries vs 91 previous year (public_health_metric)
-**Temporal:** 2025-12-31
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Honolulu residents
+- **Predicate:** transported
+- **Object:** 6 serious injuries vs 91 previous year (public_health_metric)
+- **Temporal:** 2025-12-31
+- **Sources:** src_001
 
 > Six people were transported to Honolulu hospitals with serious fireworks injuries on New Year's Eve 2025-26, compared to 91 the previous year.
 
-### c_008 — confirmed, single source
-**Subject entities:** Honolulu
-**Predicate:** recorded
-**Object:** zero deaths in 2025-26 (public_health_metric)
-**Temporal:** 2025-12-31
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Honolulu
+- **Predicate:** recorded
+- **Object:** zero deaths in 2025-26 (public_health_metric)
+- **Temporal:** 2025-12-31
+- **Sources:** src_001
 
 > There were no reported deaths from fireworks on New Year's Eve 2025-26, compared to six deaths from the 2023 explosion.
 
-### c_009 — attributed, single source
-**Subject entities:** Mike Lambert
-**Predicate:** said
-**Object:** need more consumer-side enforcement (speech_act)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Mike Lambert
+- **Predicate:** said
+- **Object:** need more consumer-side enforcement (speech_act)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > Mike Lambert, director of the Hawaii Department of Law Enforcement, said the department needs more focus on the consumer side of fireworks violations.
 
-### c_010 — attributed, single source
-**Subject entities:** Brian Lynch
-**Predicate:** said
-**Object:** drones less effective than expected (speech_act)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Brian Lynch
+- **Predicate:** said
+- **Object:** drones less effective than expected (speech_act)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > Brian Lynch, assistant chief of the Honolulu Police Department's Regional Patrol Bureau, said drones proved less helpful than hoped on New Year's Eve.
 
-### c_011 — reported, single source
-**Subject entities:** Hawaii Department of Law Enforcement
-**Predicate:** seized
-**Object:** approximately 80 tons (law_enforcement_action)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Hawaii Department of Law Enforcement
+- **Predicate:** seized
+- **Object:** approximately 80 tons (law_enforcement_action)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > The state Department of Law Enforcement seized approximately 80 tons of illegally shipped fireworks throughout 2025.
 
-### c_012 — reported, single source
-**Subject entities:** Oʻahu courts
-**Predicate:** recorded
-**Object:** 94% dismissal rate (legal_outcome)
-**Temporal:** 2018-2022
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Oʻahu courts
+- **Predicate:** recorded
+- **Object:** 94% dismissal rate (legal_outcome)
+- **Temporal:** 2018-2022
+- **Sources:** src_001
 
 > A Civil Beat investigation found that 94% of all fireworks citations issued on Oʻahu between 2018 and 2022 ended in dismissal or dropped prosecution.
 
-### c_013 — reported, single source
-**Subject entities:** Hawaii Department of Law Enforcement
-**Predicate:** arrested
-**Object:** 5 felony arrests (law_enforcement_action)
-**Temporal:** 2025-12-31
-**Source IDs:** src_001
+### c_013
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Hawaii Department of Law Enforcement
+- **Predicate:** arrested
+- **Object:** 5 felony arrests (law_enforcement_action)
+- **Temporal:** 2025-12-31
+- **Sources:** src_001
 
 > Five felony arrests were made on New Year's Eve by the state Department of Law Enforcement.
 
 ## Sources
 
 ### src_001 — Associated Press, wire, Tier 1, originating
-**Author:** Matthew Leonard
+**Author:** Matthew Leonard / Honolulu Civil Beat
 **Publication date:** 2026-01-26
-**Access date:** 2026-01-26
 **Title:** Honolulu Fireworks Citations Offer Glimpse Into Use Of New Laws
 **URL:** https://apnews.com/article/honolulu-general-news-2df74a039d8d49febacc04d5a32881ae
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

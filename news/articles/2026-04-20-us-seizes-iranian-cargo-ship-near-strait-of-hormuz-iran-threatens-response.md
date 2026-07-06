@@ -26,15 +26,15 @@ primary_themes:
 - international relations
 - naval blockade
 topic_tags:
-  - "conflict, war and peace"
-  - "disaster, accident and emergency incident"
-  - fire
-  - "international relations"
-  - "peace process"
-  - politics
+- conflict, war and peace
+- disaster, accident and emergency incident
+- fire
+- international relations
+- peace process
+- politics
 storyline_nexus:
-  - iran-war
-geographic_location: International (Strait of Hormuz, Iran, Gulf of Oman, Pakistan, Middle East)
+- the-iran-war
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
   intensity: 0.85
@@ -81,10 +81,6 @@ figures_aggregate:
   series_ids: []
   sources: []
 cross_article_links:
-- slug: 2026-04-18-iran-announces-hormuz-reopening-as-blockade-standoff-continues
-  relation: related
-  strength: 0.8678
-  confidence: medium
 - slug: 2026-04-15-us-navy-blockade-on-iran-halts-sea-trade-tehran-warns-of-wider-gulf-closure
   relation: related
   strength: 0.8767
@@ -92,10 +88,6 @@ cross_article_links:
 - slug: 2026-04-16-us-military-expands-iran-blockade-worldwide-targeting-ships-carrying-oil-metals-
   relation: related
   strength: 0.8648
-  confidence: medium
-- slug: 2026-05-17-france-britain-to-lead-multinational-hormuz-security-mission
-  relation: related
-  strength: 0.8007
   confidence: medium
 - slug: 2026-04-15-bessent-warns-of-secondary-iran-sanctions-as-ceasefire-deadline-nears
   relation: related
@@ -156,219 +148,267 @@ The conflict, initiated by the United States and Israel on February 28 during ta
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** US Navy; Iranian cargo ship Touska; Strait of Hormuz
-**Predicate:** seized
-**Object:** Iranian-flagged cargo ship Touska (vessel)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** US Navy; Iranian cargo ship Touska; Strait of Hormuz
+- **Predicate:** seized
+- **Object:** Iranian-flagged cargo ship Touska (vessel)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > The United States Navy attacked and seized an Iranian-flagged cargo ship named Touska near the Strait of Hormuz on Sunday.
 
-### c_002 — attributed, single source
-**Subject entities:** Iranian cargo ship; U.S. naval blockade
-**Predicate:** attempting_to_breach
-**Object:** U.S. naval blockade (policy_action)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Iranian cargo ship; U.S. naval blockade
+- **Predicate:** attempting_to_breach
+- **Object:** U.S. naval blockade (policy_action)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > The ship was attempting to breach the U.S. naval blockade of Iranian ports.
 
-### c_003 — attributed, primary document
-**Subject entities:** U.S. guided-missile destroyer; Iranian ship
-**Predicate:** issued_warnings
-**Object:** repeated warnings over six-hour period (formal_warning)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. guided-missile destroyer; Iranian ship
+- **Predicate:** issued_warnings
+- **Object:** repeated warnings over six-hour period (formal_warning)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > A U.S. guided-missile destroyer issued repeated warnings over a six-hour period before the ship was seized.
 
-### c_004 — attributed, single source
-**Subject entities:** Donald Trump; U.S. Navy; U.S. Marines
-**Predicate:** reported
-**Object:** Navy disabled engine room; Marines in custody of vessel (military_action_description)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; U.S. Navy; U.S. Marines
+- **Predicate:** reported
+- **Object:** Navy disabled engine room; Marines in custody of vessel (military_action_description)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Trump said the Navy 'brought them to a standstill by putting a hole in the engine room' and that U.S. Marines had custody of the vessel.
 
-### c_005 — attributed, single source
-**Subject entities:** Iran's Joint Military Command
-**Predicate:** characterized
-**Object:** boarding as piracy and ceasefire violation (formal_accusation)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Iran's Joint Military Command
+- **Predicate:** characterized
+- **Object:** boarding as piracy and ceasefire violation (formal_accusation)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Iran's Joint Military Command characterized the boarding as piracy and a violation of the ceasefire.
 
-### c_006 — attributed, single source
-**Subject entities:** U.S. military; Iranian ports
-**Predicate:** first_intercept
-**Object:** first naval seizure since blockade began (event_marker)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. military; Iranian ports
+- **Predicate:** first_intercept
+- **Object:** first naval seizure since blockade began (event_marker)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > This was the first naval seizure of this type since the U.S. blockade of Iranian ports began last week.
 
-### c_007 — confirmed, primary document
-**Subject entities:** Israel; Hezbollah; Lebanon
-**Predicate:** ceasefire_timeline
-**Object:** 10-day ceasefire expires 2026-04-23 (diplomatic_agreement)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Israel; Hezbollah; Lebanon
+- **Predicate:** ceasefire_timeline
+- **Object:** 10-day ceasefire expires 2026-04-23 (diplomatic_agreement)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > The ceasefire between Israel and the Lebanese group Hezbollah took effect Friday and is set to expire Wednesday.
 
-### c_008 — attributed, single source
-**Subject entities:** JD Vance; Steve Witkoff; Jared Kushner; Pakistan
-**Predicate:** to_lead_delegation
-**Object:** U.S. delegation to Pakistan talks on 2026-04-21 (diplomatic_action)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** JD Vance; Steve Witkoff; Jared Kushner; Pakistan
+- **Predicate:** to_lead_delegation
+- **Object:** U.S. delegation to Pakistan talks on 2026-04-21 (diplomatic_action)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Vice President JD Vance, along with envoys Steve Witkoff and Jared Kushner, are scheduled to lead the U.S. delegation to Pakistan talks on Monday.
 
-### c_009 — attributed, single source
-**Subject entities:** Masoud Pezeshkian; Shehbaz Sharif
-**Predicate:** accused
-**Object:** U.S. of intimidation and unreasonable behavior (diplomatic_statement)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Masoud Pezeshkian; Shehbaz Sharif
+- **Predicate:** accused
+- **Object:** U.S. of intimidation and unreasonable behavior (diplomatic_statement)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Iran's President Masoud Pezeshkian told Pakistani Prime Minister Shehbaz Sharif that U.S. actions show intimidation and unreasonable behavior.
 
-### c_010 — attributed, single source
-**Subject entities:** Masoud Pezeshkian
-**Predicate:** warned
-**Object:** U.S. may repeat previous pattern and betray diplomacy (diplomatic_warning)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Masoud Pezeshkian
+- **Predicate:** warned
+- **Object:** U.S. may repeat previous pattern and betray diplomacy (diplomatic_warning)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Pezeshkian warned that American actions have raised suspicions about whether the U.S. will abandon diplomacy, as it did in two previous negotiating attempts.
 
-### c_011 — attributed, single source
-**Subject entities:** Abbas Araghchi; Ishaq Dar
-**Predicate:** told
-**Object:** U.S. actions signal bad intentions and lack of seriousness (diplomatic_statement)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Abbas Araghchi; Ishaq Dar
+- **Predicate:** told
+- **Object:** U.S. actions signal bad intentions and lack of seriousness (diplomatic_statement)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Iranian Foreign Minister Abbas Araghchi told his Pakistani counterpart Ishaq Dar that recent U.S. actions signal 'bad intentions and a lack of seriousness in diplomacy.'
 
-### c_012 — reported, single source
-**Subject entities:** Iranian state media
-**Predicate:** reported
-**Object:** talks in Pakistan may not proceed (diplomatic_signal)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Iranian state media
+- **Predicate:** reported
+- **Object:** talks in Pakistan may not proceed (diplomatic_signal)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Iranian state media reported, citing unidentified sources, that the planned talks in Pakistan may not proceed.
 
-### c_013 — reported, single source
-**Subject entities:** Pakistan; Islamabad
-**Predicate:** reinforcing_security
-**Object:** security reinforcement in Islamabad (security_measure)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_013
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Pakistan; Islamabad
+- **Predicate:** reinforcing_security
+- **Object:** security reinforcement in Islamabad (security_measure)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Pakistan began reinforcing security in the capital, Islamabad, ahead of the talks.
 
-### c_014 — attributed, single source
-**Subject entities:** U.S. delegation; negotiators
-**Predicate:** preparations_ongoing
-**Object:** advance teams in place, preparations finalizing (diplomatic_status)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. delegation; negotiators
+- **Predicate:** preparations_ongoing
+- **Object:** advance teams in place, preparations finalizing (diplomatic_status)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > A regional official said that U.S. advance teams were already in place and that mediators were finalizing preparations.
 
-### c_015 — attributed, single source
-**Subject entities:** Donald Trump; Iran
-**Predicate:** threatened
-**Object:** destruction of Iranian power plants and bridges (threat)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Iran
+- **Predicate:** threatened
+- **Object:** destruction of Iranian power plants and bridges (threat)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Trump threatened that 'if Iran does not accept the deal, the United States will destroy every power plant and every bridge in Iran.'
 
-### c_016 — attributed, single source
-**Subject entities:** Mohammed Bagher Qalibaf
-**Predicate:** declared
-**Object:** no retreat in field of diplomacy (diplomatic_statement)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_016
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Mohammed Bagher Qalibaf
+- **Predicate:** declared
+- **Object:** no retreat in field of diplomacy (diplomatic_statement)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Iran's main negotiator, Parliament Speaker Mohammed Bagher Qalibaf, declared in state television that 'there will be no retreat in the field of diplomacy.'
 
-### c_017 — attributed, single source
-**Subject entities:** Mohammed Bagher Qalibaf
-**Predicate:** acknowledged
-**Object:** wide gaps on nuclear program, regional allies, and strait control (diplomatic_assessment)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_017
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Mohammed Bagher Qalibaf
+- **Predicate:** acknowledged
+- **Object:** wide gaps on nuclear program, regional allies, and strait control (diplomatic_assessment)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Qalibaf acknowledged that gaps between the U.S. and Iran remain wide on issues including Iran's nuclear enrichment program, its regional allies, and control of the Strait of Hormuz.
 
-### c_018 — attributed, single source
-**Subject entities:** Iran; Strait of Hormuz
-**Predicate:** maintaining_control
-**Object:** Iran-designated routes, fee payments, transit certificates until war ends (policy_statement)
-**Temporal:** 2026-04-19
-**Source IDs:** src_001
+### c_018
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Iran; Strait of Hormuz
+- **Predicate:** maintaining_control
+- **Object:** Iran-designated routes, fee payments, transit certificates until war ends (policy_statement)
+- **Temporal:** 2026-04-19
+- **Sources:** src_001
 
 > Iran informed the U.S. that it would maintain control of the Strait of Hormuz until the war ends completely, implementing Iran-designated routes, fee payments, and transit certificates.
 
-### c_019 — attributed, single source
-**Subject entities:** Mohammad Reza Aref
-**Predicate:** stated
-**Object:** strait security is not free; choice between free market or costs (policy_statement)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_019
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Mohammad Reza Aref
+- **Predicate:** stated
+- **Object:** strait security is not free; choice between free market or costs (policy_statement)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Iran's First Vice President Mohammad Reza Aref stated that strait security is not free and that the choice is between a free oil market for all or significant costs for all.
 
-### c_020 — attributed, two independent
-**Subject entities:** Strait of Hormuz
-**Predicate:** carries
-**Object:** 20% of global oil trade plus fertilizer, gas, humanitarian aid (statistic)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_020
+- **Hedge:** attributed
+- **Corroboration:** two_independent
+- **Subject entities:** Strait of Hormuz
+- **Predicate:** carries
+- **Object:** 20% of global oil trade plus fertilizer, gas, humanitarian aid (statistic)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Approximately 20% of global oil trade passes through the Strait of Hormuz, along with critical supplies of fertilizer, natural gas, and humanitarian aid.
 
-### c_021 — reported, single source
-**Subject entities:** Iran; commercial ships
-**Predicate:** fired_on
-**Object:** ships attempting to transit strait (military_action)
-**Temporal:** 2026-04-19
-**Source IDs:** src_001
+### c_021
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Iran; commercial ships
+- **Predicate:** fired_on
+- **Object:** ships attempting to transit strait (military_action)
+- **Temporal:** 2026-04-19
+- **Sources:** src_001
 
 > Iran fired on ships attempting to transit the strait on Saturday.
 
-### c_022 — confirmed, primary document
-**Subject entities:** United States; Israel; Iran
-**Predicate:** initiated_war
-**Object:** war began 2026-02-28 (event_start_date)
-**Temporal:** 2026-02-28
-**Source IDs:** src_001
+### c_022
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** United States; Israel; Iran
+- **Predicate:** initiated_war
+- **Object:** war began 2026-02-28 (event_start_date)
+- **Temporal:** 2026-02-28
+- **Sources:** src_001
 
 > The war began on February 28 after the U.S. and Israel initiated military action during talks about Iran's nuclear program.
 
-### c_023 — reported, single source
-**Subject entities:** Iran; Lebanon; Israel; Gulf Arab states
-**Predicate:** death_toll
-**Object:** 3000+ Iran, 2290+ Lebanon, 23 Israel, 12+ Gulf Arab states (casualty_count)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_023
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Iran; Lebanon; Israel; Gulf Arab states
+- **Predicate:** death_toll
+- **Object:** 3000+ Iran, 2290+ Lebanon, 23 Israel, 12+ Gulf Arab states (casualty_count)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > The war has killed at least 3,000 people in Iran, more than 2,290 in Lebanon, 23 in Israel, and more than a dozen in Gulf Arab states.
 
-### c_024 — reported, single source
-**Subject entities:** Israel; United States
-**Predicate:** military_casualties
-**Object:** 15 Israeli soldiers in Lebanon, 13 U.S. military personnel in region (casualty_count)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_024
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Israel; United States
+- **Predicate:** military_casualties
+- **Object:** 15 Israeli soldiers in Lebanon, 13 U.S. military personnel in region (casualty_count)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Fifteen Israeli soldiers in Lebanon and 13 U.S. military personnel across the region have died.
 
@@ -380,7 +420,3 @@ The conflict, initiated by the United States and Israel on February 28 during ta
 **Access date:** 2026-04-20
 **Title:** EEUU incauta buque con bandera iraní cerca de estrecho de Ormuz; Teherán promete respuesta rápida
 **URL:** https://apnews.com/article/iran-eeuu-ormuz-bloqueo-guerra-israel-libano-33cf829f49f735af8c513680df6cda25
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

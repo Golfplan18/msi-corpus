@@ -218,7 +218,3 @@ Stephanie Graham, a jiujitsu instructor, acknowledged the limits of training whi
 **Access date:** 2026-03-07
 **Title:** South African women take up guns and martial arts for protection
 **URL:** https://apnews.com/article/south-africa-women-self-defense-guns-gender-c9cf88c04bcd59f83eee495170c7cf98
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

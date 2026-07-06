@@ -21,40 +21,41 @@ primary_themes:
 - anti-apartheid
 - international solidarity
 topic_tags:
-  - "arts, culture, entertainment and media"
-  - "music"
-storyline_nexus: []
-geographic_location: Chicago, Illinois
+- civil rights
+- family
+- people
+- non-governmental organisation
+storyline_nexus:
+- us-immigration-enforcement
+geographic_location: United States
 floor_values_engaged:
+- value: equality_fairness
+  intensity: 0.9
 - value: human_life_and_dignity
   intensity: 0.9
-- value: informed_citizenship
-  intensity: 0.7
-- value: accountability_of_power
-  intensity: 0.4
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:44:16Z'
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:28:49Z'
 source_cluster_id: cluster_ap_2026-03-06_jackson-private-memorial-rainbow-push-ch
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 13
   hedges:
+    confirmed: 3
+    contested: 0
+    reported: 4
+    attributed: 6
     appears: 0
     alleged: 0
-    attributed: 6
-    reported: 4
-    contested: 0
-    confirmed: 3
   corroboration:
     primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 0
     single_source: 13
     two_independent: 0
+    primary_document: 0
+    one_originating_plus_primary_document: 0
 sources:
   count: 1
   outlets:
@@ -71,6 +72,15 @@ figures_aggregate:
 cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- CHICAGO — The family and closest allies of the late Rev.
+- Speakers throughout the service called on mourners to continue Jackson's advocacy for economic justice and universal human rights, directing that message explicitly at the next generation of American political leaders and pledging to deepen the civil rights organization's work as federal immigration enforcement expands.
+- "It is appropriate that we respect this season of grief," said Yusef Jackson, one of Jackson's sons and president of the Rainbow PUSH Coalition.
+- South African President Cyril Ramaphosa and Democratic Republic of the Congo President Felix Tshisekedi were among the dignitaries who spoke Saturday, reflecting the reach of Jackson's decades of activism beyond U.S.
 
 CHICAGO — The family and closest allies of the late Rev. Jesse Jackson Sr. gathered Saturday at the Rainbow PUSH Coalition's South Side headquarters for an intimate final memorial, the capstone to a week of public and private services for the civil rights leader. A few hundred attendees — most of them family members, longtime allies and confidants — heard eulogies from Jackson's children, civil rights leaders and the presidents of two African nations who traveled to Chicago to pay their respects.
 
@@ -124,120 +134,146 @@ Earlier in the week, services planned for Washington, D.C., were postponed after
 
 ## Atomic claims
 
-### c_001 — confirmed, single source
-**Subject entities:** Jesse Jackson Sr.; Rainbow PUSH Coalition
-**Predicate:** held_memorial_service
-**Object:** private memorial at PUSH headquarters (event)
-**Temporal:** 2026-03-07
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Jesse Jackson Sr.; Rainbow PUSH Coalition
+- **Predicate:** held_memorial_service
+- **Object:** private memorial at PUSH headquarters (event)
+- **Temporal:** 2026-03-07
+- **Sources:** src_001
 
 > The family and friends of the late Rev. Jesse Jackson Sr. held a private memorial service on Saturday at the Rainbow PUSH Coalition's headquarters on the South Side of Chicago.
 
-### c_002 — reported, single source
-**Subject entities:** Jesse Jackson Sr. memorial service
-**Predicate:** attended_by
-**Object:** few hundred attendees (attendance_count)
-**Temporal:** 2026-03-07
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Jesse Jackson Sr. memorial service
+- **Predicate:** attended_by
+- **Object:** few hundred attendees (attendance_count)
+- **Temporal:** 2026-03-07
+- **Sources:** src_001
 
 > The final memorial service included a few hundred attendees, most of whom were family members, allies and confidants.
 
-### c_003 — attributed, single source
-**Subject entities:** Yusef Jackson; Rainbow PUSH Coalition
-**Predicate:** said
-**Object:** honor Jackson by continuing his work (statement)
-**Temporal:** 2026-03-07
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Yusef Jackson; Rainbow PUSH Coalition
+- **Predicate:** said
+- **Object:** honor Jackson by continuing his work (statement)
+- **Temporal:** 2026-03-07
+- **Sources:** src_001
 
 > Yusef Jackson, one of Jackson's sons and president of the Rainbow PUSH Coalition, said it is appropriate to honor Jackson by stepping up and continuing his work.
 
-### c_004 — attributed, single source
-**Subject entities:** Cyril Ramaphosa; Jesse Jackson Sr.
-**Predicate:** attended_and_said
-**Object:** US dignity struggle inseparable from anti-apartheid fight (statement)
-**Temporal:** 2026-03-07
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Cyril Ramaphosa; Jesse Jackson Sr.
+- **Predicate:** attended_and_said
+- **Object:** US dignity struggle inseparable from anti-apartheid fight (statement)
+- **Temporal:** 2026-03-07
+- **Sources:** src_001
 
 > South African President Cyril Ramaphosa attended the service and said Jackson told the world that the struggle for dignity in the United States was inseparable from the fight against apartheid and injustice in South Africa.
 
-### c_005 — attributed, single source
-**Subject entities:** Felix Tshisekedi; Jesse Jackson Sr.
-**Predicate:** said
-**Object:** world lost a pastor, champion, mender of bridges (statement)
-**Temporal:** 2026-03-07
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Felix Tshisekedi; Jesse Jackson Sr.
+- **Predicate:** said
+- **Object:** world lost a pastor, champion, mender of bridges (statement)
+- **Temporal:** 2026-03-07
+- **Sources:** src_001
 
 > DRC President Felix Tshisekedi said at the service that the world has lost a pastor, a champion, a mender of bridges, and that Africa has lost a faithful, loving son.
 
-### c_006 — attributed, single source
-**Subject entities:** Marc Morial; National Urban League
-**Predicate:** said
-**Object:** 2028 presidential aspirants should study rainbow coalition concept (statement)
-**Temporal:** 2026-03-07
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Marc Morial; National Urban League
+- **Predicate:** said
+- **Object:** 2028 presidential aspirants should study rainbow coalition concept (statement)
+- **Temporal:** 2026-03-07
+- **Sources:** src_001
 
 > Marc Morial, president of the National Urban League, said that anyone who would like to be president of the United States in 2028 should study Jackson's concept of the rainbow coalition.
 
-### c_007 — attributed, single source
-**Subject entities:** Ashley Jackson; Jesse Jackson Sr.
-**Predicate:** said
-**Object:** Jackson's theology rooted in inherent human worth (statement)
-**Temporal:** 2026-03-07
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ashley Jackson; Jesse Jackson Sr.
+- **Predicate:** said
+- **Object:** Jackson's theology rooted in inherent human worth (statement)
+- **Temporal:** 2026-03-07
+- **Sources:** src_001
 
 > Ashley Jackson, the late reverend's youngest daughter, said her father's theology was rooted in the belief that every human being carries inherent worth.
 
-### c_008 — confirmed, single source
-**Subject entities:** Stevie Wonder; Chris Tucker; Opal Staples; Terisa Griffin; Kim Burrell
-**Predicate:** performed_at
-**Object:** Jackson memorial service (event)
-**Temporal:** 2026-03-07
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Stevie Wonder; Chris Tucker; Opal Staples; Terisa Griffin; Kim Burrell
+- **Predicate:** performed_at
+- **Object:** Jackson memorial service (event)
+- **Temporal:** 2026-03-07
+- **Sources:** src_001
 
 > The service included musical performances by Stevie Wonder, Opal Staples, Terisa Griffin and Kim Burrell, and a stand-up comedy set by Chris Tucker.
 
-### c_009 — reported, single source
-**Subject entities:** Rainbow PUSH Coalition
-**Predicate:** admitted_public
-**Object:** members of public allowed inside private service (action)
-**Temporal:** 2026-03-07
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Rainbow PUSH Coalition
+- **Predicate:** admitted_public
+- **Object:** members of public allowed inside private service (action)
+- **Temporal:** 2026-03-07
+- **Sources:** src_001
 
 > Some members of the public who gathered outside the PUSH headquarters were allowed to enter the private service.
 
-### c_010 — reported, single source
-**Subject entities:** Jackson family
-**Predicate:** expected_to_travel
-**Object:** Selma, Alabama for Bloody Sunday commemoration (planned_event)
-**Temporal:** 2026-03-08
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Jackson family
+- **Predicate:** expected_to_travel
+- **Object:** Selma, Alabama for Bloody Sunday commemoration (planned_event)
+- **Temporal:** 2026-03-08
+- **Sources:** src_001
 
 > Members of the Jackson family and Jackson's mentees are expected to travel to Selma, Alabama, on Sunday to commemorate the 1965 Bloody Sunday protest marches on the Edmund Pettus Bridge.
 
-### c_011 — confirmed, single source
-**Subject entities:** Jesse Jackson Sr.; U.S. Capitol; House Republican leadership
-**Predicate:** denied
-**Object:** request to lie in honor at US Capitol (decision)
-**Temporal:** 2026-03-07
-**Source IDs:** src_001
+### c_011
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Jesse Jackson Sr.; U.S. Capitol; House Republican leadership
+- **Predicate:** denied
+- **Object:** request to lie in honor at US Capitol (decision)
+- **Temporal:** 2026-03-07
+- **Sources:** src_001
 
 > Services honoring Jackson in Washington, D.C., were postponed after House Republican leadership denied a request for Jackson to lie in honor at the U.S. Capitol, citing the precedent that only former presidents and senior generals regularly receive the privilege.
 
-### c_012 — attributed, single source
-**Subject entities:** Jesse Jackson Jr.; Jesse Jackson Sr.
-**Predicate:** said
-**Object:** father's advocacy demanded consistent prophetic voice (statement)
-**Temporal:** 2026-03-07
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jesse Jackson Jr.; Jesse Jackson Sr.
+- **Predicate:** said
+- **Object:** father's advocacy demanded consistent prophetic voice (statement)
+- **Temporal:** 2026-03-07
+- **Sources:** src_001
 
 > Jesse Jackson Jr., the late reverend's eldest son and a former congressman, said his father maintained an intense relationship with the political order because his message demanded a consistent, prophetic voice.
 
-### c_013 — reported, single source
-**Subject entities:** Rainbow PUSH Coalition
-**Predicate:** deepened_partnerships
-**Object:** Minnesota activists (relationship)
-**Temporal:** 2026-03-07
-**Source IDs:** src_001
+### c_013
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Rainbow PUSH Coalition
+- **Predicate:** deepened_partnerships
+- **Object:** Minnesota activists (relationship)
+- **Temporal:** 2026-03-07
+- **Sources:** src_001
 
 > The Rainbow PUSH Coalition recently deepened partnerships with activists in Minnesota, which saw mass protests after the Trump administration launched what Yusef Jackson described as the largest ever Homeland Security operation in the state.
 
@@ -246,10 +282,5 @@ Earlier in the week, services planned for Washington, D.C., were postponed after
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Matt Brown
 **Publication date:** 2026-03-07
-**Access date:** 2026-05-17
 **Title:** An intimate, final memorial for Rev. Jesse Jackson fills civil rights leader's Chicago headquarters
 **URL:** https://apnews.com/article/jackson-private-memorial-rainbow-push-chicago-73d5672e29f56cd15160e1d8514dab4d
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

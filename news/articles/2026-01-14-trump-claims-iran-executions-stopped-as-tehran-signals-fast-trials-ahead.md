@@ -18,8 +18,8 @@ topic_tags:
   - politics
   - government
 storyline_nexus:
-  - iran-war
-geographic_location: Washington, D.C. / Tehran, Iran
+- the-iran-war
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
   intensity: 0.95
@@ -131,120 +131,146 @@ Trump said he had consulted with his national security team on Tuesday about nex
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Donald Trump
-**Predicate:** said
-**Object:** Iran had stopped execution plans (assertion)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** said
+- **Object:** Iran had stopped execution plans (assertion)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Trump said he had been told on good authority that Iran had stopped plans to execute detained protesters.
 
-### c_002 — attributed, single source
-**Subject entities:** Donald Trump
-**Predicate:** said
-**Object:** verbatim_quote (quotation)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** said
+- **Object:** verbatim_quote (quotation)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Trump said: 'We've been told that the killing in Iran is stopping -- it's stopped -- it's stopping. And there's no plan for executions, or an execution, or executions -- so I've been told that on good authority.'
 
-### c_003 — attributed, single source
-**Subject entities:** Donald Trump
-**Predicate:** described
-**Object:** vague_source_description (attribution_gap)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** described
+- **Object:** vague_source_description (attribution_gap)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Trump described his sources only as 'very important sources on the other side' without further specification.
 
-### c_004 — attributed, single source
-**Subject entities:** Donald Trump
-**Predicate:** said
-**Object:** I hope it's true. Who knows? (quotation)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** said
+- **Object:** I hope it's true. Who knows? (quotation)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Trump said 'I hope it's true. Who knows?' regarding whether execution plans had stopped, and said he would find out later.
 
-### c_005 — attributed, single source
-**Subject entities:** Donald Trump
-**Predicate:** said
-**Object:** verbatim_quote_on_action (quotation)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** said
+- **Object:** verbatim_quote_on_action (quotation)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > When asked whether his statement meant he was not planning to take action against Iran, Trump said: 'We're going to watch it and see what the process is. But we were given a very good statement by people that are aware of what's going on.'
 
-### c_006 — attributed, single source
-**Subject entities:** Gholamhossein Mohseni-Ejei
-**Predicate:** said
-**Object:** rapid trials and executions of 18,000+ detainees (statement)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Gholamhossein Mohseni-Ejei
+- **Predicate:** said
+- **Object:** rapid trials and executions of 18,000+ detainees (statement)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Iran's judiciary chief Gholamhossein Mohseni-Ejei said the government must act quickly to punish more than 18,000 detained people through rapid trials and executions.
 
-### c_007 — attributed, single source
-**Subject entities:** Gholamhossein Mohseni-Ejei
-**Predicate:** said
-**Object:** verbatim_quote_on_speed_of_punishment (quotation)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Gholamhossein Mohseni-Ejei
+- **Predicate:** said
+- **Object:** verbatim_quote_on_speed_of_punishment (quotation)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Mohseni-Ejei said: 'If we want to do a job, we should do it now. If we want to do something, we have to do it quickly. If it becomes late, two months, three months later, it doesn't have the same effect. If we want to do something, we have to do that fast.'
 
-### c_008 — alleged, single source
-**Subject entities:** Mohammad Pakpour
-**Predicate:** claimed
-**Object:** U.S. and Israel instigated protests (contested_assertion)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_008
+- **Hedge:** alleged
+- **Corroboration:** single_source
+- **Subject entities:** Mohammad Pakpour
+- **Predicate:** claimed
+- **Object:** U.S. and Israel instigated protests (contested_assertion)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Mohammad Pakpour, commander of Iran's paramilitary Revolutionary Guard, claimed without providing evidence that the U.S. and Israel instigated the protests.
 
-### c_009 — attributed, single source
-**Subject entities:** Iran
-**Predicate:** warned
-**Object:** decisive_response_threat (statement)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Iran
+- **Predicate:** warned
+- **Object:** decisive_response_threat (statement)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Iran warned of a 'decisive response' if the U.S. or Israel intervene in the domestic unrest.
 
-### c_010 — reported, single source
-**Subject entities:** U.S. military base, Qatar
-**Predicate:** advised_evacuation
-**Object:** partial_evacuation_advisory (event)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** U.S. military base, Qatar
+- **Predicate:** advised_evacuation
+- **Object:** partial_evacuation_advisory (event)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Some personnel at a key U.S. military base in Qatar were advised to evacuate by Wednesday evening following Trump's escalated warnings.
 
-### c_011 — attributed, single source
-**Subject entities:** JD Vance; Marco Rubio
-**Predicate:** began_meeting
-**Object:** options ranging from diplomacy to military strikes (event)
-**Temporal:** 2026-01-10
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** JD Vance; Marco Rubio
+- **Predicate:** began_meeting
+- **Object:** options ranging from diplomacy to military strikes (event)
+- **Temporal:** 2026-01-10
+- **Sources:** src_001
 
 > Vice President JD Vance, Secretary of State Marco Rubio, and key White House National Security Council officials began meeting the prior Friday to develop options for Trump ranging from a diplomatic approach to military strikes.
 
-### c_012 — reported, single source
-**Subject entities:** Iranian security forces
-**Predicate:** killed
-**Object:** at least 2,586 people (casualty_count)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Iranian security forces
+- **Predicate:** killed
+- **Object:** at least 2,586 people (casualty_count)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > The crackdown on demonstrations has killed at least 2,586 people, according to the U.S.-based Human Rights Activists News Agency.
 
-### c_013 — attributed, single source
-**Subject entities:** Donald Trump
-**Predicate:** said
-**Object:** If they do such a thing, we will take very strong action (quotation)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** said
+- **Object:** If they do such a thing, we will take very strong action (quotation)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > In a CBS interview aired Tuesday, Trump said: 'If they do such a thing, we will take very strong action.'
 
@@ -256,7 +282,3 @@ Trump said he had consulted with his national security team on Tuesday about nex
 **Access date:** 2026-01-14
 **Title:** Trump claims killing of Iran protesters 'has stopped'
 **URL:** https://apnews.com/article/trump-iran-protesters-executions-195edfa07111be782db71af07b538fdc
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

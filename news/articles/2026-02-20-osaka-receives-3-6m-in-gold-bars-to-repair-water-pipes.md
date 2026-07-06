@@ -119,8 +119,6 @@ Urban development in Osaka started earlier than in many other Japanese cities, c
 
 Most of Japan's main public infrastructure was built during the rapid economic growth that followed World War II. As that aging infrastructure reaches the end of its designed lifespan, Japanese cities have faced mounting renewal challenges and costs across water systems, sewers, roads, and bridges.
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
 ### c_001 — reported, primary document
@@ -238,7 +236,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-05-18
 **Title:** Osaka city receives $3.6M worth of gold bars to fix water pipes
 **URL:** https://apnews.com/article/japan-osaka-gold-donation-water-pipes-2f2e68017b7b041858c2de46a67be7ab
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

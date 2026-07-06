@@ -12,44 +12,41 @@ primary_themes:
 - public funding
 - cost of living
 topic_tags:
-  - "conflict, war and peace"
-  - "economy, business and finance"
-  - government
-  - "government policy"
-  - "peace process"
-  - politics
-storyline_nexus: []
-geographic_location: San Diego, California
+- government policy
+- economy
+- crime
+- arts, culture, entertainment and media
+storyline_nexus:
+- housing-affordability-crisis
+geographic_location: United States
 floor_values_engaged:
-- value: human_life_and_dignity
-  intensity: 0.6
-- value: informed_citizenship
-  intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.8
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+  intensity: 0.9
+- value: informed_citizenship
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:50:39Z'
 source_cluster_id: cluster_ap_2026-01-24_san-diego-donald-trump-donald-trump-es-t
 gdelt_event_ids: []
-consensus_floor_version: 1.0.0
-publication_mindspec_version: 1.0.0
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 15
   hedges:
-    appears: 0
     alleged: 0
-    attributed: 1
-    reported: 13
     contested: 0
+    appears: 0
+    reported: 13
     confirmed: 1
+    attributed: 1
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 0
     single_source: 15
     two_independent: 0
+    primary_plus_secondary: 0
+    one_originating_plus_primary_document: 0
 sources:
   count: 1
   outlets:
@@ -63,21 +60,12 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-04-17-n-j-transit-charges-world-cup-fans-150-for-12-90-train-ride-to-stadium
-  relation: related
-  strength: 0.7048
-  confidence: medium
-- slug: 2026-01-13-arizona-state-museum-charts-three-building-path-as-regents-stall-50m-repair-requ
-  relation: related
-  strength: 0.7125
-  confidence: medium
-- slug: 2026-01-08-michigan-ev-registration-fees-jump-to-nation-s-highest-under-road-funding-deal
-  relation: related
-  strength: 0.6659
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
 
 San Diego imposed its first-ever parking fees at Balboa Park this month to secure dedicated funding for the century-old cultural site and help close a city budget gap, but the policy prompted immediate backlash that has already reshaped how residents and tourists engage with the park. Museum visitation dropped 20 percent in the opening days, vandals defaced parking meters, and two city council members who voted for the program now call for suspending the fees.
 
@@ -133,154 +121,177 @@ The city has offered annual passes at $150 for residents and $300 for nonresiden
 
 Peter Comiskey, executive director of the Balboa Park Cultural Partnership, urged immediate revision. "That downward spiral could quickly become a death spiral, all over a few dollars in parking revenue," Comiskey said.
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
-### c_001 — reported, single source
-**Subject entities:** San Diego; Balboa Park
-**Predicate:** implemented_policy
-**Object:** parking fees (policy_implementation)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** San Diego; Balboa Park
+- **Predicate:** implemented_policy
+- **Object:** parking fees (policy_implementation)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > San Diego imposed first-ever parking fees at Balboa Park in January 2026.
 
-### c_002 — reported, single source
-**Subject entities:** Balboa Park museums
-**Predicate:** experienced_decline
-**Object:** 20 percent drop (quantified_metric)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Balboa Park museums
+- **Predicate:** experienced_decline
+- **Object:** 20 percent drop (quantified_metric)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > Museum visitation at Balboa Park dropped 20 percent immediately after fee implementation.
 
-### c_003 — reported, single source
-**Subject entities:** Balboa Park parking
-**Predicate:** costs
-**Object:** $2.50 per hour, $5-16 per day (pricing_structure)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Balboa Park parking
+- **Predicate:** costs
+- **Object:** $2.50 per hour, $5-16 per day (pricing_structure)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > Parking rates at Balboa Park are $2.50 per hour with day rates ranging from $5 to $16.
 
-### c_004 — reported, single source
-**Subject entities:** San Diego
-**Predicate:** estimated_revenue
-**Object:** $2.9 million versus $15 million original projection (financial_estimate)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** San Diego
+- **Predicate:** estimated_revenue
+- **Object:** $2.9 million versus $15 million original projection (financial_estimate)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > San Diego now estimates $2.9 million in parking revenue for the current fiscal year, down from an original projection of $15 million.
 
-### c_005 — reported, single source
-**Subject entities:** Balboa Park parking meters
-**Predicate:** damaged
-**Object:** foam sealant sprayed into card and coin slots, causing $400 per station repair cost (vandalism_incident)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Balboa Park parking meters
+- **Predicate:** damaged
+- **Object:** foam sealant sprayed into card and coin slots, causing $400 per station repair cost (vandalism_incident)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > Vandals defaced at least 10 parking pay stations by spraying foam sealant into card and coin slots.
 
-### c_006 — attributed, single source
-**Subject entities:** Todd Gloria
-**Predicate:** stated_rationale
-**Object:** parking fees provide stable revenue and address budget gap (policy_justification)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Todd Gloria
+- **Predicate:** stated_rationale
+- **Object:** parking fees provide stable revenue and address budget gap (policy_justification)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > Mayor Todd Gloria said the parking fees would provide stable revenue for the park and help close a city budget gap.
 
-### c_007 — reported, single source
-**Subject entities:** parking kiosks
-**Predicate:** malfunctioned
-**Object:** rejected credit cards, confusing instructions, page bounces (technical_failure)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** parking kiosks
+- **Predicate:** malfunctioned
+- **Object:** rejected credit cards, confusing instructions, page bounces (technical_failure)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > Parking kiosks experienced technical glitches including rejected credit cards and confusing instructions during the rollout.
 
-### c_008 — reported, single source
-**Subject entities:** San Diego City Council members
-**Predicate:** reversed_support
-**Object:** calling for suspension of resident parking fees (policy_position_change)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** San Diego City Council members
+- **Predicate:** reversed_support
+- **Object:** calling for suspension of resident parking fees (policy_position_change)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > Two city council members who voted for the parking program now call for suspending resident parking fees.
 
-### c_009 — reported, single source
-**Subject entities:** Stephen Whitburn
-**Predicate:** opposed_policy
-**Object:** parking fee program at Balboa Park (voting_record)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Stephen Whitburn
+- **Predicate:** opposed_policy
+- **Object:** parking fee program at Balboa Park (voting_record)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > Councilmember Stephen Whitburn, whose district includes Balboa Park, voted against the parking fee program and is now redoubling his opposition.
 
-### c_010 — reported, single source
-**Subject entities:** Free Tuesday program
-**Predicate:** experienced_decline
-**Object:** 25 percent decline (quantified_metric)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Free Tuesday program
+- **Predicate:** experienced_decline
+- **Object:** 25 percent decline (quantified_metric)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > Free Tuesday museum attendance dropped 25 percent in January 2026 compared to January 2025.
 
-### c_011 — reported, single source
-**Subject entities:** San Francisco; Golden Gate Park
-**Predicate:** implemented_policy
-**Object:** parking fees at Golden Gate Park (policy_implementation)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** San Francisco; Golden Gate Park
+- **Predicate:** implemented_policy
+- **Object:** parking fees at Golden Gate Park (policy_implementation)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > San Francisco's Board of Supervisors voted to impose parking fees at Golden Gate Park last summer to raise revenue for its Recreation and Parks Department.
 
-### c_012 — reported, single source
-**Subject entities:** Trump administration; national parks
-**Predicate:** changed_admission_policy
-**Object:** eliminated MLK Jr. Day and Juneteenth free admission, added Trump's birthday (policy_change)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Trump administration; national parks
+- **Predicate:** changed_admission_policy
+- **Object:** eliminated MLK Jr. Day and Juneteenth free admission, added Trump's birthday (policy_change)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > The Trump administration eliminated free admission to national parks on Martin Luther King Jr. Day and Juneteenth and added President Donald Trump's birthday to its calendar of fee-free days.
 
-### c_013 — confirmed, single source
-**Subject entities:** Balboa Park
-**Predicate:** contains
-**Object:** 1,400 acres, 17 museums, San Diego Zoo (facility_description)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_013
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Balboa Park
+- **Predicate:** contains
+- **Object:** 1,400 acres, 17 museums, San Diego Zoo (facility_description)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > Balboa Park comprises 1,400 acres and hosts 17 art, science, and history museums plus the San Diego Zoo.
 
-### c_014 — reported, single source
-**Subject entities:** San Diego City Council
-**Predicate:** modified_proposal
-**Object:** revised fee structure and timeline downward (policy_modification)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_014
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** San Diego City Council
+- **Predicate:** modified_proposal
+- **Object:** revised fee structure and timeline downward (policy_modification)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > The city council revised the original parking fee proposal downward in both fee structure and timeline.
 
-### c_015 — reported, single source
-**Subject entities:** San Diego
-**Predicate:** costs_exceed
-**Object:** $4.40 per gallon, 20 cents above CA average (price_data)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_015
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** San Diego
+- **Predicate:** costs_exceed
+- **Object:** $4.40 per gallon, 20 cents above CA average (price_data)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > San Diego gas prices as of Thursday averaged $4.40 per gallon, about 20 cents higher than the California average.
 
 ## Sources
 
 ### src_001 — Associated Press, wire, Tier 1, originating
-**Author:** Deborah Brennan
+**Author:** Deborah Brennan / Calmatters
 **Publication date:** 2026-01-23
-**Access date:** 2026-01-23
-**Title:** 'People are really mad': First-ever parking fees at San Diego's Balboa Park draw anger
+**Title:** ‘People are really mad’: First-ever parking fees at San Diego’s Balboa Park draw anger
 **URL:** https://apnews.com/article/san-diego-donald-trump-donald-trump-es-todd-gloria-general-news-17ded4803874c36a324551980e278496
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -17,43 +17,43 @@ primary_themes:
 - federal environmental decision
 - wildlife management
 topic_tags:
-  - "artificial intelligence"
-  - conservation
-  - economy
-  - "economy, business and finance"
-  - environment
-  - government
-storyline_nexus: []
-geographic_location: Phillips County, Montana, United States
+- agriculture
+- conservation
+- environment
+- government policy
+- natural resources
+storyline_nexus:
+- trump-climate-energy-rollbacks
+geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
-  intensity: 0.85
+  intensity: 0.6
 - value: truthfulness
-  intensity: 0.75
-- value: informed_citizenship
-  intensity: 0.8
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18'
+  intensity: 0.3
+- value: equality_fairness
+  intensity: 0.3
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:23:24Z'
 source_cluster_id: cluster_ap_2026-01-21_greg-gianforte-montana-animals-bureau-of
 gdelt_event_ids: []
-consensus_floor_version: '2.0'
-publication_mindspec_version: 1.2.5
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 12
   hedges:
     appears: 0
-    alleged: 0
-    attributed: 4
-    reported: 6
-    contested: 0
     confirmed: 2
+    attributed: 4
+    contested: 0
+    alleged: 0
+    reported: 6
   corroboration:
-    primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
     primary_document: 4
     single_source: 8
+    primary_plus_secondary: 0
     two_independent: 0
 sources:
   count: 1
@@ -68,17 +68,16 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-04-18-arctic-refuge-lease-sale-set-for-june-despite-indigenous-opposition
-  relation: related
-  strength: 0.7195
-  confidence: medium
-- slug: 2026-04-16-senate-passes-resolution-to-lift-mining-ban-near-boundary-waters
-  relation: related
-  strength: 0.6963
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- The U.S. Department of the Interior revoked grazing permits that American Prairie, a conservation nonprofit, had been using to sustain a herd of approximately 900 bison on federal public lands in P...
+- The move reflects the Trump administration's direction to reconsider environmental decisions made under the Biden administration. Interior Secretar...
+- The Montana Stockgrowers Association praised the Interior Department's decision. "MSGA is thrilled to see this decision by the BLM to restore grazi...
 
 The U.S. Department of the Interior revoked grazing permits that American Prairie, a conservation nonprofit, had been using to sustain a herd of approximately 900 bison on federal public lands in Phillips County, Montana, the agency announced Friday. The decision concludes a 3.5-year dispute between the nonprofit and Montana's livestock industry, backed by Gov. Greg Gianforte and state officials, over whether bison qualify as production animals under federal law.
 
@@ -108,115 +107,137 @@ The nonprofit has faced opposition from Montana's livestock industry and politic
 
 American Prairie indicated it may pursue legal action against the Interior Department's decision. The nonprofit said it is "reviewing the decision and determining its course of action" in response to the BLM's move.
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** U.S. Department of the Interior; American Prairie; Phillips County
-**Predicate:** revoked
-**Object:** grazing permits for bison (government_action)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Department of the Interior; American Prairie; Phillips County
+- **Predicate:** revoked
+- **Object:** grazing permits for bison (government_action)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > The U.S. Department of the Interior revoked grazing permits that American Prairie had been using to sustain bison on federal public lands in Phillips County, Montana.
 
-### c_002 — reported, single source
-**Subject entities:** American Prairie
-**Predicate:** maintains
-**Object:** 900 bison (livestock_count)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** American Prairie
+- **Predicate:** maintains
+- **Object:** 900 bison (livestock_count)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > American Prairie maintains a herd of approximately 900 bison.
 
-### c_003 — attributed, single source
-**Subject entities:** Lesley Robinson; Montana Stockgrowers Association
-**Predicate:** said
-**Object:** decision is win for ranchers (statement)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Lesley Robinson; Montana Stockgrowers Association
+- **Predicate:** said
+- **Object:** decision is win for ranchers (statement)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > Montana Stockgrowers Association President Lesley Robinson said the decision is an incredible win for public lands grazers and ranching families.
 
-### c_004 — attributed, single source
-**Subject entities:** Ali Fox; American Prairie
-**Predicate:** said
-**Object:** decision lacks new impacts or information (statement)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ali Fox; American Prairie
+- **Predicate:** said
+- **Object:** decision lacks new impacts or information (statement)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > American Prairie CEO Ali Fox said the decision is not grounded in new impacts or new information.
 
-### c_005 — reported, single source
-**Subject entities:** Doug Burgum; Bureau of Land Management
-**Predicate:** directed
-**Object:** reconsideration of 2022 grazing authorization (administrative_action)
-**Temporal:** December 2025
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Doug Burgum; Bureau of Land Management
+- **Predicate:** directed
+- **Object:** reconsideration of 2022 grazing authorization (administrative_action)
+- **Temporal:** December 2025
+- **Sources:** src_001
 
 > Interior Secretary Doug Burgum directed the BLM in December to reconsider the bison grazing authorization approved by the Biden administration in 2022.
 
-### c_006 — reported, primary document
-**Subject entities:** Taylor Grazing Act
-**Predicate:** requires
-**Object:** production-oriented domestic animals only (statutory_requirement)
-**Temporal:** 1934
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Taylor Grazing Act
+- **Predicate:** requires
+- **Object:** production-oriented domestic animals only (statutory_requirement)
+- **Temporal:** 1934
+- **Sources:** src_001
 
 > The 1934 Taylor Grazing Act requires grazing on federal lands to be limited to domestic animals used for production-oriented purposes.
 
-### c_007 — attributed, primary document
-**Subject entities:** Sonya Germann; Bureau of Land Management
-**Predicate:** wrote
-**Object:** bison not managed for production (statement)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Sonya Germann; Bureau of Land Management
+- **Predicate:** wrote
+- **Object:** bison not managed for production (statement)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > BLM State Director Sonya Germann wrote in her decision letter that American Prairie's bison are not managed for production-oriented purposes.
 
-### c_008 — confirmed, primary document
-**Subject entities:** Bureau of Land Management
-**Predicate:** noted
-**Object:** bison grazing permitted in five states (regulatory_statement)
-**Temporal:** 2022
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Bureau of Land Management
+- **Predicate:** noted
+- **Object:** bison grazing permitted in five states (regulatory_statement)
+- **Temporal:** 2022
+- **Sources:** src_001
 
 > The 2022 BLM record of decision noted that bison grazing is permitted on federal leases the agency administers in Colorado, New Mexico, North Dakota, South Dakota, and Wyoming.
 
-### c_009 — reported, single source
-**Subject entities:** American Prairie
-**Predicate:** aims_to_connect
-**Object:** 3.2 million acres (acreage)
-**Temporal:** ongoing
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** American Prairie
+- **Predicate:** aims_to_connect
+- **Object:** 3.2 million acres (acreage)
+- **Temporal:** ongoing
+- **Sources:** src_001
 
 > American Prairie aims to connect 3.2 million acres to support a healthy prairie ecosystem.
 
-### c_010 — reported, single source
-**Subject entities:** American Prairie
-**Predicate:** controls
-**Object:** over 500,000 acres (acreage)
-**Temporal:** late 2024
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** American Prairie
+- **Predicate:** controls
+- **Object:** over 500,000 acres (acreage)
+- **Temporal:** late 2024
+- **Sources:** src_001
 
 > By late 2024, American Prairie had control of more than half a million acres through private landholdings and federal grazing leases.
 
-### c_011 — attributed, single source
-**Subject entities:** Austin Knudsen
-**Predicate:** said
-**Object:** decision protects livestock industry (statement)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Austin Knudsen
+- **Predicate:** said
+- **Object:** decision protects livestock industry (statement)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > Montana Attorney General Austin Knudsen said canceling the permit will protect the livestock industry and ranching communities from elitists trying to push them out.
 
-### c_012 — reported, single source
-**Subject entities:** American Prairie
-**Predicate:** stated
-**Object:** reviewing decision and determining next steps (statement)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** American Prairie
+- **Predicate:** stated
+- **Object:** reviewing decision and determining next steps (statement)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > American Prairie said it is reviewing the decision and determining its course of action.
 
@@ -225,10 +246,5 @@ This article was generated algorithmically by Main Street Independent's News Art
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Amanda Eggert / Montana Free Press
 **Publication date:** 2026-01-20
-**Access date:** 2026-01-20
 **Title:** Bureau of Land Management revokes American Prairie bison leases
 **URL:** https://apnews.com/article/greg-gianforte-montana-animals-bureau-of-land-management-u-s-department-of-the-interior-4655a5792233adeb011b336c46f522ad
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

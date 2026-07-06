@@ -20,7 +20,8 @@ primary_themes:
 topic_tags:
   - "arts, culture, entertainment and media"
   - music
-storyline_nexus: []
+storyline_nexus:
+- trump-climate-energy-rollbacks
 geographic_location: Franklin, North Carolina, United States
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -107,103 +108,127 @@ The mound will remain publicly accessible after the transfer is complete. The tr
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Franklin city council; Eastern Band of Cherokee Indians; Noquisiyi Mound
-**Predicate:** voted_to_return
-**Object:** unanimous vote (legislative_action)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Franklin city council; Eastern Band of Cherokee Indians; Noquisiyi Mound
+- **Predicate:** voted_to_return
+- **Object:** unanimous vote (legislative_action)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > The city council of Franklin, North Carolina, voted unanimously on January 6, 2026, to return the Noquisiyi Mound to the Eastern Band of Cherokee Indians.
 
-### c_002 — attributed, single source
-**Subject entities:** Noquisiyi Mound; Elaine Eisenbraun
-**Predicate:** is_classified_as
-**Object:** largest unexcavated mound in the Southeast (classification)
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Noquisiyi Mound; Elaine Eisenbraun
+- **Predicate:** is_classified_as
+- **Object:** largest unexcavated mound in the Southeast (classification)
+- **Sources:** src_001
 
 > Noquisiyi Mound is the largest unexcavated mound in the Southeast, according to Elaine Eisenbraun, executive director of the Noquisiyi Initiative.
 
-### c_003 — confirmed, single source
-**Subject entities:** Noquisiyi Mound
-**Predicate:** was_part_of
-**Object:** Cherokee mother town (historical_site)
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Noquisiyi Mound
+- **Predicate:** was_part_of
+- **Object:** Cherokee mother town (historical_site)
+- **Sources:** src_001
 
 > Noquisiyi Mound was part of a Cherokee mother town hundreds of years before the founding of the United States.
 
-### c_004 — attributed, single source
-**Subject entities:** Noquisiyi Mound
-**Predicate:** owned_by
-**Object:** private owners or town of Franklin (ownership)
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Noquisiyi Mound
+- **Predicate:** owned_by
+- **Object:** private owners or town of Franklin (ownership)
+- **Sources:** src_001
 
 > The mound has been in private or town ownership for approximately 200 years.
 
-### c_005 — attributed, single source
-**Subject entities:** Franklin; Noquisiyi Mound
-**Predicate:** purchased
-**Object:** from private owner (transaction)
-**Temporal:** 1940s
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Franklin; Noquisiyi Mound
+- **Predicate:** purchased
+- **Object:** from private owner (transaction)
+- **Temporal:** 1940s
+- **Sources:** src_001
 
 > In the 1940s, the town of Franklin raised money to purchase the Noquisiyi Mound from a private owner.
 
-### c_006 — attributed, single source
-**Subject entities:** Eastern Band of Cherokee Indians; Franklin; Noquisiyi Mound
-**Predicate:** initiated_transfer_talks
-**Object:** following herbicide incident (event)
-**Temporal:** 2012
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Eastern Band of Cherokee Indians; Franklin; Noquisiyi Mound
+- **Predicate:** initiated_transfer_talks
+- **Object:** following herbicide incident (event)
+- **Temporal:** 2012
+- **Sources:** src_001
 
 > The Eastern Band of Cherokee Indians began conversations with Franklin about transferring ownership in 2012, after a town employee sprayed herbicide on the mound, killing all the grass.
 
-### c_007 — confirmed, single source
-**Subject entities:** Franklin; Eastern Band of Cherokee Indians; Noquisiyi Initiative
-**Predicate:** created
-**Object:** nonprofit to oversee site (organization)
-**Temporal:** 2019
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Franklin; Eastern Band of Cherokee Indians; Noquisiyi Initiative
+- **Predicate:** created
+- **Object:** nonprofit to oversee site (organization)
+- **Temporal:** 2019
+- **Sources:** src_001
 
 > In 2019, Franklin and the Eastern Band of Cherokee Indians created the Noquisiyi Initiative, a nonprofit to oversee the site.
 
-### c_008 — attributed, single source
-**Subject entities:** Eastern Band of Cherokee Indians tribal council; Noquisiyi Mound
-**Predicate:** must_approve
-**Object:** title transfer (legal_process)
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Eastern Band of Cherokee Indians tribal council; Noquisiyi Mound
+- **Predicate:** must_approve
+- **Object:** title transfer (legal_process)
+- **Sources:** src_001
 
 > The next step is for the tribal council to agree to take control, which will initiate the legal process of transferring the title.
 
-### c_009 — attributed, single source
-**Subject entities:** Noquisiyi Mound
-**Predicate:** is
-**Object:** religious site; name means star place (cultural_significance)
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Noquisiyi Mound
+- **Predicate:** is
+- **Object:** religious site; name means star place (cultural_significance)
+- **Sources:** src_001
 
 > Noquisiyi translates to 'star place' and is an important religious site that has provided protection to generations of Cherokee people.
 
-### c_010 — attributed, single source
-**Subject entities:** Noquisiyi Mound; Eastern Band of Cherokee Indians
-**Predicate:** plans
-**Object:** public access and interpretive center (future_plan)
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Noquisiyi Mound; Eastern Band of Cherokee Indians
+- **Predicate:** plans
+- **Object:** public access and interpretive center (future_plan)
+- **Sources:** src_001
 
 > The mound will remain publicly accessible, and the tribe plans to open an interpretive center in a building it owns next to the site.
 
-### c_011 — attributed, single source
-**Subject entities:** Eastern Band of Cherokee Indians; Cowee Mound; Qualla Boundary
-**Predicate:** owns_and_is_establishing
-**Object:** Cowee Mound and cultural corridor (property_and_initiative)
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Eastern Band of Cherokee Indians; Cowee Mound; Qualla Boundary
+- **Predicate:** owns_and_is_establishing
+- **Object:** Cowee Mound and cultural corridor (property_and_initiative)
+- **Sources:** src_001
 
 > The Eastern Band of Cherokee Indians owns the Cowee Mound a few miles away and is establishing a cultural corridor from Georgia to the Qualla Boundary.
 
-### c_012 — attributed, single source
-**Subject entities:** Jordan Oocumma; Noquisiyi Mound
-**Predicate:** is
-**Object:** first enrolled tribal caretaker since forced removal (historical_fact)
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jordan Oocumma; Noquisiyi Mound
+- **Predicate:** is
+- **Object:** first enrolled tribal caretaker since forced removal (historical_fact)
+- **Sources:** src_001
 
 > Jordan Oocumma is the first enrolled member of the tribe to caretake the mound since the forced removal.
 
@@ -215,7 +240,3 @@ The mound will remain publicly accessible after the transfer is complete. The tr
 **Access date:** 2026-01-07
 **Title:** North Carolina town returns important cultural site to the Eastern Band of Cherokee Indians
 **URL:** https://apnews.com/article/noquisiyi-mound-eastern-band-of-cherokee-indians-61193017a9aaf281b3646c0cf3594407
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -18,7 +18,8 @@ primary_themes:
 topic_tags:
   - "disaster, accident and emergency incident"
   - "transportation accident and incident"
-storyline_nexus: []
+storyline_nexus:
+- extreme-weather-disasters
 geographic_location: Bangor, Maine
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -111,115 +112,137 @@ John Cox, CEO of Safety Operating Systems, said investigators would consider all
 
 The crash affected operations at Bangor International Airport, with dozens of scheduled flights impacted while the airport was closed for investigation and recovery.
 
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. The framework specification is available at the publication's methodology page. No human review was triggered during production. This work is released under CC0 / public domain.*
-
 ## Atomic claims
 
-### c_001 — confirmed, single source
-**Subject entities:** Bombardier Challenger 600; Bangor International Airport; Maine
-**Predicate:** crashed_during_takeoff
-**Object:** six fatalities (outcome)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Bombardier Challenger 600; Bangor International Airport; Maine
+- **Predicate:** crashed_during_takeoff
+- **Object:** six fatalities (outcome)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > A Bombardier Challenger 600 business jet crashed during takeoff at Bangor International Airport in Maine on January 27, 2026 around 7:45 p.m., killing all six people aboard.
 
-### c_002 — attributed, single source
-**Subject entities:** Bombardier Challenger 600
-**Predicate:** traveling_between
-**Object:** Houston to Paris with refueling stop in Bangor (route)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Bombardier Challenger 600
+- **Predicate:** traveling_between
+- **Object:** Houston to Paris with refueling stop in Bangor (route)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > The aircraft was en route from Houston to Paris and had stopped at Bangor to refuel.
 
-### c_003 — attributed, single source
-**Subject entities:** Shawna Collins; Lakewood Church; Arnold and Itkin Trial Lawyers
-**Predicate:** was_victim_of
-**Object:** Maine plane crash (incident)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Shawna Collins; Lakewood Church; Arnold and Itkin Trial Lawyers
+- **Predicate:** was_victim_of
+- **Object:** Maine plane crash (incident)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Shawna Collins, 53, an event planner employed by Lakewood Church in Houston and associated with Arnold and Itkin Trial Lawyers, was among the victims.
 
-### c_004 — attributed, single source
-**Subject entities:** Jacob Hosmer; Arnold and Itkin Trial Lawyers
-**Predicate:** was_victim_of
-**Object:** Maine plane crash (incident)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jacob Hosmer; Arnold and Itkin Trial Lawyers
+- **Predicate:** was_victim_of
+- **Object:** Maine plane crash (incident)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Jacob Hosmer, 47, a pilot who had worked for Arnold and Itkin Trial Lawyers for seven months as a team captain, was among the victims.
 
-### c_005 — attributed, single source
-**Subject entities:** Lakewood Church; Shawna Collins
-**Predicate:** confirmed_death_and_eulogized
-**Object:** recognition of Collins' positive impact (statement)
-**Temporal:** 2026-01-28
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Lakewood Church; Shawna Collins
+- **Predicate:** confirmed_death_and_eulogized
+- **Object:** recognition of Collins' positive impact (statement)
+- **Temporal:** 2026-01-28
+- **Sources:** src_001
 
 > Lakewood Church confirmed Collins as one of those killed and called her a light that brightened the church's days.
 
-### c_006 — attributed, single source
-**Subject entities:** Shawna Collins
-**Predicate:** had_family_and_was_planning
-**Object:** daughter's wedding (personal_milestone)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Shawna Collins
+- **Predicate:** had_family_and_was_planning
+- **Object:** daughter's wedding (personal_milestone)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Collins was married with children and grandchildren and was helping plan her daughter's wedding scheduled for that year.
 
-### c_007 — attributed, single source
-**Subject entities:** Bombardier Challenger 600; other aircraft
-**Predicate:** underwent_standard_procedures_while_others_succeeded
-**Object:** standard de-icing completed without mechanical issue apparent (preparation_status)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Bombardier Challenger 600; other aircraft
+- **Predicate:** underwent_standard_procedures_while_others_succeeded
+- **Object:** standard de-icing completed without mechanical issue apparent (preparation_status)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > The aircraft went through standard de-icing procedures before takeoff and other jets took off safely from the same airport around the same time.
 
-### c_008 — attributed, single source
-**Subject entities:** Bangor Maine; winter storm
-**Predicate:** experienced_conditions
-**Object:** near-zero temperatures, light snow accumulation, moderate visibility (weather_conditions)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Bangor Maine; winter storm
+- **Predicate:** experienced_conditions
+- **Object:** near-zero temperatures, light snow accumulation, moderate visibility (weather_conditions)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Snow from a massive winter storm was falling in the region with near-zero temperatures, though visibility and snow accumulation were relatively light at the time of takeoff.
 
-### c_009 — reported, single source
-**Subject entities:** Bombardier Challenger 600
-**Predicate:** cause_status
-**Object:** unknown at time of initial investigation (investigation_status)
-**Temporal:** 2026-01-28
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Bombardier Challenger 600
+- **Predicate:** cause_status
+- **Object:** unknown at time of initial investigation (investigation_status)
+- **Temporal:** 2026-01-28
+- **Sources:** src_001
 
 > The cause of the crash remains unknown as of the National Transportation Safety Board's initial investigation.
 
-### c_010 — attributed, single source
-**Subject entities:** aviation safety experts; NTSB; ice accumulation
-**Predicate:** predicted_investigative_focus
-**Object:** wing contamination from ice buildup as likely initial investigation focus (investigation_prediction)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** aviation safety experts; NTSB; ice accumulation
+- **Predicate:** predicted_investigative_focus
+- **Object:** wing contamination from ice buildup as likely initial investigation focus (investigation_prediction)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Aviation safety experts said ice accumulation on the aircraft's wings is likely to be an initial focus of the National Transportation Safety Board investigation.
 
-### c_011 — attributed, single source
-**Subject entities:** Bombardier Challenger 600 model
-**Predicate:** has_historical_incidents
-**Object:** crashes in Birmingham England and Montrose Colorado involving ice wing contamination (historical_safety_record)
-**Temporal:** before 2006
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Bombardier Challenger 600 model
+- **Predicate:** has_historical_incidents
+- **Object:** crashes in Birmingham England and Montrose Colorado involving ice wing contamination (historical_safety_record)
+- **Temporal:** before 2006
+- **Sources:** src_001
 
 > The Bombardier Challenger 600 model experienced crashes in Birmingham, England and Montrose, Colorado more than 20 years ago in incidents involving wing contamination from ice.
 
-### c_012 — attributed, single source
-**Subject entities:** John Cox; Safety Operating Systems
-**Predicate:** stated
-**Object:** Nothing is off the table in crash investigation (speech_act)
-**Temporal:** 2026-01-28
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** John Cox; Safety Operating Systems
+- **Predicate:** stated
+- **Object:** Nothing is off the table in crash investigation (speech_act)
+- **Temporal:** 2026-01-28
+- **Sources:** src_001
 
 > John Cox, CEO of Safety Operating Systems, stated that the investigation would consider all possible factors in the crash.
 
@@ -231,7 +254,3 @@ The crash affected operations at Bangor International Airport, with dozens of sc
 **Access date:** 2026-05-18
 **Title:** Victims in Maine plane crash that killed 6 include event planner, pilot
 **URL:** https://apnews.com/article/maine-plane-crash-snow-b06020c2bcfecaf8c7ba8dac6ee67cc6
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

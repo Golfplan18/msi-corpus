@@ -35,7 +35,7 @@ topic_tags:
   - "international trade"
   - "science and technology"
 storyline_nexus:
-  - davos-2026
+- trump-foreign-policy-reshaping
 geographic_location: International (Davos, Switzerland; Ukraine, Greenland, Denmark, Europe)
 floor_values_engaged:
 - value: accountability_of_power
@@ -155,8 +155,6 @@ Former Democratic Congresswoman Jane Harman observed that the forum reflected "t
 ## Optimism on Display
 
 The broader tone among technology and business executives at Davos was notably optimistic, aligned with the forum's stated mission to improve the world and promote dialogue. BlackRock Chairman and CEO Larry Fink captured the mood in closing remarks: "I want to end this forum with the quote that Elon Musk said in closing yesterday's session — that it's better to be an optimist and wrong than be a pessimist who's right."
-
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification available at /methodology. Human review: not_triggered.
 
 ## Atomic claims
 
@@ -303,7 +301,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-05-17
 **Title:** Trump steals the show in Davos with a mixed bag of rhetoric and results at elite gathering
 **URL:** https://apnews.com/article/wef-davos-trump-ukraine-carney-musk-9f9a80ba7b80139f6bcfdf7b2a620c1a
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

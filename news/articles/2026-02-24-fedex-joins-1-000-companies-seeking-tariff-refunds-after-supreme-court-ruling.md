@@ -24,9 +24,7 @@ topic_tags:
   - "economy, business and finance"
   - "international trade"
 storyline_nexus:
-  - us-administration-2026
-  - trump-tariff-policy
-  - us-china-relations
+- trump-tariff-wars
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship
@@ -112,8 +110,6 @@ The National Retail Federation responded to the ruling by urging the lower court
 Despite the Supreme Court setback, Trump has signaled his intent to reimpose tariffs through alternative legal channels. Section 122 of the Trade Act of 1974 permits the president to impose tariffs of up to 15% for up to 150 days without additional Congressional approval. Any extension beyond 150 days would require legislative authorization unlikely to materialize ahead of the November 2026 midterm elections.
 
 The immediate question is whether the government will voluntarily establish a streamlined refund process or whether the Court of International Trade will be forced to adjudicate thousands of individual claims over years of litigation.
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework. Specification and methodology: /methodology.*
 
 ## Atomic claims
 
@@ -224,7 +220,3 @@ The immediate question is whether the government will voluntarily establish a st
 **Access date:** 2026-02-24
 **Title:** More companies seek refunds from US after Trump tariffs ruled illegal
 **URL:** https://apnews.com/article/fedex-tariff-trump-supreme-court-costco-9c9cf3062b780dd8ce9f23f5c30891a0
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

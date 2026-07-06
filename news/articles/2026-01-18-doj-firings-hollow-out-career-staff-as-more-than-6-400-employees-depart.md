@@ -24,7 +24,8 @@ topic_tags:
   - "conflict, war and peace"
   - "crime, law and justice"
   - terrorism
-storyline_nexus: []
+storyline_nexus:
+- trump-judicial-challenges
 geographic_location: Washington, D.C., United States
 floor_values_engaged:
 - value: accountability_of_power
@@ -157,66 +158,80 @@ Ben'Ary's farewell note closed with an appeal to those who remained: "Follow the
 
 ## Atomic claims
 
-### c_001 — reported, single source
-**Subject entities:** U.S. Department of Justice
-**Predicate:** lost_employees
-**Object:** 6,400+ (count)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Department of Justice
+- **Predicate:** lost_employees
+- **Object:** 6,400+ (count)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > More than 6,400 employees are estimated to have left the Justice Department, which had roughly 108,000 employees at the end of 2025.
 
-### c_002 — reported, single source
-**Subject entities:** U.S. Department of Justice; Justice Connection
-**Predicate:** fired_employees
-**Object:** 230+ (count)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Department of Justice; Justice Connection
+- **Predicate:** fired_employees
+- **Object:** 230+ (count)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Justice Connection, a network of department alumni, estimates that more than 230 lawyers, agents and other employees were fired, apparently because of their work on cases they were assigned, past criticism of Trump, or seemingly no reason.
 
-### c_003 — attributed, single source
-**Subject entities:** U.S. Department of Justice
-**Predicate:** hired_employees
-**Object:** 3,400+ (count)
-**Temporal:** 2025-2026
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Department of Justice
+- **Predicate:** hired_employees
+- **Object:** 3,400+ (count)
+- **Temporal:** 2025-2026
+- **Sources:** src_001
 
 > The Justice Department says it has hired more than 3,400 career attorneys since Trump took office.
 
-### c_004 — reported, single source
-**Subject entities:** Michael Ben'Ary; Julie Kelly; James Comey
-**Predicate:** fired
-**Object:** termination (employment_action)
-**Temporal:** 2025-10-01
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Michael Ben'Ary; Julie Kelly; James Comey
+- **Predicate:** fired
+- **Object:** termination (employment_action)
+- **Temporal:** 2025-10-01
+- **Sources:** src_001
 
 > Michael Ben'Ary was fired on Oct. 1 after a social media post by right-wing commentator Julie Kelly suggested he was part of the internal resistance to prosecuting former FBI Director James Comey, even though Ben'Ary was never involved in the Comey case.
 
-### c_005 — attributed, single source
-**Subject entities:** Peter Keisler
-**Predicate:** stated
-**Object:** unprecedented in scale, scope, and motivation (characterization)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Peter Keisler
+- **Predicate:** stated
+- **Object:** unprecedented in scale, scope, and motivation (characterization)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > Peter Keisler, a senior official in the George W. Bush Justice Department, said the firings were completely unprecedented in both scale, scope and underlying motivation.
 
-### c_006 — reported, single source
-**Subject entities:** Lindsey Halligan; James Comey; Letitia James
-**Predicate:** appointed_then_cases_dismissed
-**Object:** appointment unlawful; prosecutions dismissed (judicial_outcome)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Lindsey Halligan; James Comey; Letitia James
+- **Predicate:** appointed_then_cases_dismissed
+- **Object:** appointment unlawful; prosecutions dismissed (judicial_outcome)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Lindsey Halligan, a White House aide with no experience as a federal prosecutor, was installed as U.S. attorney for the Eastern District of Virginia; one judge later identified grave missteps in how she presented the Comey case to a grand jury, and another dismissed both prosecutions, calling Halligan's appointment unlawful.
 
-### c_007 — reported, single source
-**Subject entities:** U.S. Department of Justice Civil Rights Division
-**Predicate:** signed_protest_letter
-**Object:** 200+ (count)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Department of Justice Civil Rights Division
+- **Predicate:** signed_protest_letter
+- **Object:** 200+ (count)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > The Civil Rights Division open letter of protest was signed by more than 200 employees who left in 2025.
 
@@ -228,7 +243,3 @@ Ben'Ary's farewell note closed with an appeal to those who remained: "Follow the
 **Access date:** 2026-01-18
 **Title:** Firings at Justice Department create fear among career lawyers
 **URL:** https://apnews.com/article/justice-department-bondi-trump-firings-prosecutors-b4134e5db9d9ff7963fc8c4bf7a0a166
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

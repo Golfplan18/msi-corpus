@@ -22,46 +22,42 @@ primary_themes:
 - emergency powers
 - international commerce
 topic_tags:
-  - "crime, law and justice"
-  - government
-  - "government policy"
-  - "law enforcement"
-  - "political dissent"
-  - trial
+- judiciary
+- international trade
+- government policy
+- tax
 storyline_nexus:
-  - us-administration-2026
-  - trump-tariff-policy
-  - us-china-relations
+- trump-tariff-wars
 geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.95
-- value: truthfulness
-  intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.85
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+  intensity: 0.9
+- value: truthfulness
+  intensity: 0.6
+- value: informed_citizenship
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:35:22Z'
 source_cluster_id: cluster_ap_2026-02-21_trump-ieepa-tariffs-supreme-court-124876
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 15
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 4
     reported: 10
     contested: 0
+    attributed: 4
+    appears: 0
     confirmed: 1
+    alleged: 0
   corroboration:
     primary_plus_secondary: 0
-    one_originating_plus_primary_document: 15
     primary_document: 0
     single_source: 0
+    one_originating_plus_primary_document: 15
     two_independent: 0
 sources:
   count: 1
@@ -76,29 +72,16 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-04-19-carney-says-canada-must-reduce-u-s-economic-ties-over-trump-tariffs
-  relation: related
-  strength: 0.8212
-  confidence: medium
-- slug: 2026-04-19-refund-system-opens-for-tariffs-trump-imposed-without-authority
-  relation: continues
-  strength: 0.8194
-  confidence: high
-- slug: 2026-01-13-trump-s-iran-tariffs-threaten-us-china-trade-truce-could-raise-american-prices
-  relation: related
-  strength: 0.8405
-  confidence: medium
-- slug: 2026-01-13-trump-visits-dearborn-ford-plant-defends-tariffs-as-voters-worry-about-rising-pr
-  relation: related
-  strength: 0.7742
-  confidence: medium
-- slug: 2026-01-12-carney-visits-beijing-to-rebuild-ties-and-reduce-canada-s-dependence-on-us-trade
-  relation: related
-  strength: 0.7382
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- The Supreme Court struck down President Trump's most sweeping tariffs on Friday, ruling 6-3 that he overstepped his authority when using an emergency powers law to justify new taxes on goods from n...
+- The decision dismantles tariffs Trump imposed under the 1977 International Emergency Economic Powers Act, or IEEPA, a law that authorizes the presi...
+- Many sector-specific levies remain in place, and Trump has already signaled he will pursue other import taxes, including a planned 10% global tariff.
 
 The Supreme Court struck down President Trump's most sweeping tariffs on Friday, ruling 6-3 that he overstepped his authority when using an emergency powers law to justify new taxes on goods from nearly every country in the world.
 
@@ -134,142 +117,170 @@ Following Friday's decision, Trump said he would sign an executive order to enac
 
 Trump indicated he would continue pursuing sectoral levies to reshape U.S. trade relationships, leaving him with a narrower but still significant array of tariff tools despite the Supreme Court's rebuke.
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
-### c_001 — confirmed, one originating plus primary document
-**Subject entities:** U.S. Supreme Court; President Donald Trump
-**Predicate:** ruled_overstepped_authority
-**Object:** IEEPA tariff authority (legal_ruling)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** one_originating_plus_primary_document
+- **Subject entities:** U.S. Supreme Court; President Donald Trump
+- **Predicate:** ruled_overstepped_authority
+- **Object:** IEEPA tariff authority (legal_ruling)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > The Supreme Court ruled 6-3 that Trump overstepped his authority in using IEEPA to impose tariffs.
 
-### c_002 — reported, one originating plus primary document
-**Subject entities:** International Emergency Economic Powers Act
-**Predicate:** authorizes
-**Object:** presidential authority to regulate commerce following emergency declaration (statute_provision)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** one_originating_plus_primary_document
+- **Subject entities:** International Emergency Economic Powers Act
+- **Predicate:** authorizes
+- **Object:** presidential authority to regulate commerce following emergency declaration (statute_provision)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > IEEPA authorizes the president to broadly regulate commerce after declaring a national emergency.
 
-### c_003 — attributed, one originating plus primary document
-**Subject entities:** President Donald Trump; IEEPA
-**Predicate:** was_first_to_use
-**Object:** IEEPA for tariff implementation (historical_claim)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** one_originating_plus_primary_document
+- **Subject entities:** President Donald Trump; IEEPA
+- **Predicate:** was_first_to_use
+- **Object:** IEEPA for tariff implementation (historical_claim)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > Trump was the first president to use IEEPA to implement tariffs.
 
-### c_004 — reported, one originating plus primary document
-**Subject entities:** President Donald Trump
-**Predicate:** imposed_tariffs
-**Object:** reciprocal tariffs up to 50%; baseline 10% (tariff_rate)
-**Temporal:** 2026-04-02
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** one_originating_plus_primary_document
+- **Subject entities:** President Donald Trump
+- **Predicate:** imposed_tariffs
+- **Object:** reciprocal tariffs up to 50%; baseline 10% (tariff_rate)
+- **Temporal:** 2026-04-02
+- **Sources:** src_001
 
 > On April 2, Trump imposed reciprocal tariffs of up to 50% on goods from dozens of countries and a baseline 10% tariff on nearly everyone else.
 
-### c_005 — attributed, one originating plus primary document
-**Subject entities:** President Donald Trump
-**Predicate:** justified_by
-**Object:** trade deficit justification (stated_rationale)
-**Temporal:** 2026-04-02
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** one_originating_plus_primary_document
+- **Subject entities:** President Donald Trump
+- **Predicate:** justified_by
+- **Object:** trade deficit justification (stated_rationale)
+- **Temporal:** 2026-04-02
+- **Sources:** src_001
 
 > Trump justified the Liberation Day tariffs by citing the gap between U.S. exports and imports.
 
-### c_006 — reported, one originating plus primary document
-**Subject entities:** Canada; Mexico
-**Predicate:** faced_trafficking_tariffs
-**Object:** Canada 35%; Mexico 25% (tariff_rate)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** one_originating_plus_primary_document
+- **Subject entities:** Canada; Mexico
+- **Predicate:** faced_trafficking_tariffs
+- **Object:** Canada 35%; Mexico 25% (tariff_rate)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > Trafficking tariffs on Canadian and Mexican imports were 35% and 25% respectively ahead of Friday's decision.
 
-### c_007 — reported, one originating plus primary document
-**Subject entities:** China
-**Predicate:** faced_tariff
-**Object:** 10% (down from 20%) (tariff_rate)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** one_originating_plus_primary_document
+- **Subject entities:** China
+- **Predicate:** faced_tariff
+- **Object:** 10% (down from 20%) (tariff_rate)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > China faced a 10% fentanyl-related tariff, down from 20% imposed earlier.
 
-### c_008 — reported, one originating plus primary document
-**Subject entities:** President Donald Trump; Brazil; Jair Bolsonaro
-**Predicate:** imposed_tariffs
-**Object:** Brazil tariffs tied to Bolsonaro prosecution (tariff_justification)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** one_originating_plus_primary_document
+- **Subject entities:** President Donald Trump; Brazil; Jair Bolsonaro
+- **Predicate:** imposed_tariffs
+- **Object:** Brazil tariffs tied to Bolsonaro prosecution (tariff_justification)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > Trump used IEEPA to impose additional tariffs on Brazil, citing the country's policies and prosecution of former President Jair Bolsonaro.
 
-### c_009 — reported, one originating plus primary document
-**Subject entities:** Brazil
-**Predicate:** faced_tariff
-**Object:** 50% total (40% added to 10% baseline) (tariff_rate)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** one_originating_plus_primary_document
+- **Subject entities:** Brazil
+- **Predicate:** faced_tariff
+- **Object:** 50% total (40% added to 10% baseline) (tariff_rate)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > Brazil tariffs added 40% to the baseline, bringing total levies to 50% on many products.
 
-### c_010 — reported, one originating plus primary document
-**Subject entities:** India
-**Predicate:** faced_tariff
-**Object:** 50% total (25% plus 25%) (tariff_rate)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** one_originating_plus_primary_document
+- **Subject entities:** India
+- **Predicate:** faced_tariff
+- **Object:** 50% total (25% plus 25%) (tariff_rate)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > India faced a 25% Liberation Day tariff plus an additional 25% for its purchases of Russian oil, totaling 50%.
 
-### c_011 — reported, one originating plus primary document
-**Subject entities:** United States; India; Narendra Modi
-**Predicate:** reached_trade_agreement
-**Object:** Modi commitment to stop Russian oil purchases (trade_agreement)
-**Temporal:** 2026-02
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** one_originating_plus_primary_document
+- **Subject entities:** United States; India; Narendra Modi
+- **Predicate:** reached_trade_agreement
+- **Object:** Modi commitment to stop Russian oil purchases (trade_agreement)
+- **Temporal:** 2026-02
+- **Sources:** src_001
 
 > The U.S. and India reached a trade framework deal where Prime Minister Modi agreed to stop buying Russian oil.
 
-### c_012 — attributed, one originating plus primary document
-**Subject entities:** President Donald Trump; India
-**Predicate:** said_planned
-**Object:** 18% tariff rate (tariff_rate)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** one_originating_plus_primary_document
+- **Subject entities:** President Donald Trump; India
+- **Predicate:** said_planned
+- **Object:** 18% tariff rate (tariff_rate)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > Trump said he planned to lower U.S. tariffs on India to 18% under the trade framework.
 
-### c_013 — reported, one originating plus primary document
-**Subject entities:** President Donald Trump
-**Predicate:** used_section_232
-**Object:** steel, aluminum, cars, copper, lumber tariffs (trade_authority)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_013
+- **Hedge:** reported
+- **Corroboration:** one_originating_plus_primary_document
+- **Subject entities:** President Donald Trump
+- **Predicate:** used_section_232
+- **Object:** steel, aluminum, cars, copper, lumber tariffs (trade_authority)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > Trump has used Section 232 of the 1962 Trade Expansion Act to impose tariffs on steel, aluminum, cars, copper and lumber.
 
-### c_014 — attributed, one originating plus primary document
-**Subject entities:** President Donald Trump
-**Predicate:** said_would_enact
-**Object:** 10% global tariff (announced_policy)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** one_originating_plus_primary_document
+- **Subject entities:** President Donald Trump
+- **Predicate:** said_would_enact
+- **Object:** 10% global tariff (announced_policy)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > Following Friday's ruling, Trump said he would sign an executive order to enact a 10% global tariff using Section 122.
 
-### c_015 — reported, one originating plus primary document
-**Subject entities:** Section 122 tariffs
-**Predicate:** would_be_limited
-**Object:** 150 days unless extended legislatively (temporal_limitation)
-**Temporal:** 2026-02-20
-**Source IDs:** src_001
+### c_015
+- **Hedge:** reported
+- **Corroboration:** one_originating_plus_primary_document
+- **Subject entities:** Section 122 tariffs
+- **Predicate:** would_be_limited
+- **Object:** 150 days unless extended legislatively (temporal_limitation)
+- **Temporal:** 2026-02-20
+- **Sources:** src_001
 
 > Section 122 tariffs would be limited to 150 days unless extended legislatively.
 
@@ -278,10 +289,5 @@ This article was generated algorithmically by Main Street Independent's News Art
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Wyatte Grantham-Philips
 **Publication date:** 2026-02-20
-**Access date:** 2026-02-20
 **Title:** Which Trump tariffs the Supreme Court struck down, explained
 **URL:** https://apnews.com/article/trump-ieepa-tariffs-supreme-court-12487645072a1e1a387db60081509f3c
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

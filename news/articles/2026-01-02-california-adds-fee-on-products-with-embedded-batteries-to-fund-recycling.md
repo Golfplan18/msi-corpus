@@ -1,6 +1,5 @@
 ---
 headline: California adds fee on products with embedded batteries to fund recycling
-slug: 2026-01-02-california-expands-e-waste-fee-to-embedded-batteries
 publish_date: '2026-01-02'
 lede: 'Starting this year, Californians will pay a 1.5 percent surcharge — capped at $15 — every time they buy a product with a non-removable battery, from power tools and gaming consoles to singing greeting cards. The fee, which took effect January 1, expands the state''s electronic-waste recycling program to cover the lithium-ion batteries now embedded in thousands of everyday consumer products.
 
@@ -21,43 +20,42 @@ primary_themes:
 - consumer fees
 - environmental policy
 topic_tags:
-  - "competition discipline"
-  - "disaster, accident and emergency incident"
-  - environment
-  - fire
-  - sport
-storyline_nexus: []
-geographic_location: California, United States
+- consumer goods
+- environment
+- sustainability
+- government policy
+- tax
+storyline_nexus:
+- los-angeles-wildfire-recovery
+geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.8
 - value: human_life_and_dignity
-  intensity: 0.6
-- value: accountability_of_power
-  intensity: 0.4
-framework_version: 1.1.0
-generation_timestamp: '2026-01-02T00:00:00Z'
+  intensity: 0.9
+- value: informed_citizenship
+  intensity: 0.9
+framework_version: 1.3.0
+generation_timestamp: '2026-05-22T23:56:01Z'
 source_cluster_id: cluster_ap_2026-01-01_fires-recycling-california-general-news-
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 13
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 7
-    reported: 2
     contested: 0
+    attributed: 7
+    appears: 0
+    reported: 2
+    alleged: 0
     confirmed: 4
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 6
-    single_source: 7
+    one_originating_plus_primary_document: 0
+    primary_plus_secondary: 0
     two_independent: 0
+    single_source: 7
 sources:
   count: 1
   outlets:
@@ -79,11 +77,13 @@ cross_article_links: []
 draft: false
 ---
 
-Starting this year, Californians will pay a 1.5 percent surcharge — capped at $15 — every time they buy a product with a non-removable battery, from power tools and gaming consoles to singing greeting cards. The fee, which took effect January 1, expands the state's electronic-waste recycling program to cover the lithium-ion batteries now embedded in thousands of everyday consumer products.
+## Summary
 
-The California Department of Resources Recycling and Recovery estimates about 7,300 tons of batteries reach landfills illegally or by accident each year.
+**Subtype:** fact
 
-The fee marks the most significant expansion of California's e-waste program since the state began charging consumers to recycle computer monitors and televisions in 2003, and it arrives as lithium-ion batteries have become a documented fire hazard at recycling facilities, aboard aircraft, and in residential buildings across the state.
+- The change stems from Senate Bill 1215, authored by former state Sen.
+- The law — Senate Bill 1215, authored by former state Sen.
+- Doug Kobold, executive director of the California Product Stewardship Council, which also co-sponsored the legislation, said the fee was a matter of shifting costs to the point of purchase rather than passing them to communities after the fact.
 
 ## How the fee works
 
@@ -129,132 +129,153 @@ Meg Slattery, a scientist for Earthjustice, said the question of what happens to
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** California
-**Predicate:** enacted_fee
-**Object:** 1.5% surcharge, cap $15 (consumer_fee)
-**Temporal:** 2026-01-01
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** California
+- **Predicate:** enacted_fee
+- **Object:** 1.5% surcharge, cap $15 (consumer_fee)
+- **Temporal:** 2026-01-01
+- **Sources:** src_001
 
 > A 1.5 percent surcharge capped at $15 on products with non-removable batteries took effect in California on January 1, 2026.
 
-### c_002 — confirmed, primary document
-**Subject entities:** Josh Newman; Gavin Newsom
-**Predicate:** authored_and_signed
-**Object:** SB 1215 (legislation)
-**Temporal:** 2022
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Josh Newman; Gavin Newsom
+- **Predicate:** authored_and_signed
+- **Object:** SB 1215 (legislation)
+- **Temporal:** 2022
+- **Sources:** src_001
 
 > Senate Bill 1215, authored by former state Sen. Josh Newman, was signed into law in 2022 by Gov. Gavin Newsom.
 
-### c_003 — confirmed, primary document
-**Subject entities:** California
-**Predicate:** applies_to
-**Object:** all embedded-battery products (product_category)
-**Temporal:** 2026-01-01
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** California
+- **Predicate:** applies_to
+- **Object:** all embedded-battery products (product_category)
+- **Temporal:** 2026-01-01
+- **Sources:** src_001
 
 > The fee applies to products with embedded batteries whether rechargeable or not.
 
-### c_004 — attributed, primary document
-**Subject entities:** California Department of Resources Recycling and Recovery
-**Predicate:** estimates
-**Object:** 7,300 tons (waste_volume)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** California Department of Resources Recycling and Recovery
+- **Predicate:** estimates
+- **Object:** 7,300 tons (waste_volume)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > California's Department of Resources Recycling and Recovery estimates about 7,300 tons of batteries reach landfills illegally or by accident annually.
 
-### c_005 — attributed, single source
-**Subject entities:** California
-**Predicate:** introduced
-**Object:** e-waste fee program (policy)
-**Temporal:** 2003
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** California
+- **Predicate:** introduced
+- **Object:** e-waste fee program (policy)
+- **Temporal:** 2003
+- **Sources:** src_001
 
 > California pioneered electronic-waste fees with computer monitors and televisions in 2003.
 
-### c_006 — attributed, single source
-**Subject entities:** Shoreway Environmental Center; San Carlos
-**Predicate:** caused_damage
-**Object:** $8.5 million (damage)
-**Temporal:** 2016
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Shoreway Environmental Center; San Carlos
+- **Predicate:** caused_damage
+- **Object:** $8.5 million (damage)
+- **Temporal:** 2016
+- **Sources:** src_001
 
 > A 2016 lithium-ion battery fire at the Shoreway Environmental Center in San Carlos caused a four-month plant shutdown and $8.5 million in damage.
 
-### c_007 — attributed, single source
-**Subject entities:** RethinkWaste
-**Predicate:** premium_increased
-**Object:** $180,000 to $3.2 million (insurance_cost)
-**Temporal:** 2016
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** RethinkWaste
+- **Predicate:** premium_increased
+- **Object:** $180,000 to $3.2 million (insurance_cost)
+- **Temporal:** 2016
+- **Sources:** src_001
 
 > After the 2016 fire, RethinkWaste's annual insurance premium rose from $180,000 to $3.2 million, a cost ultimately borne by ratepayers.
 
-### c_008 — attributed, primary document
-**Subject entities:** Federal Aviation Administration
-**Predicate:** records
-**Object:** nearly two per week (fire_frequency)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Federal Aviation Administration
+- **Predicate:** records
+- **Object:** nearly two per week (fire_frequency)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > The Federal Aviation Administration records nearly two battery fires on U.S. flights every week.
 
-### c_009 — attributed, single source
-**Subject entities:** California Department of Toxic Substances Control
-**Predicate:** exempted
-**Object:** single-use plastic vapes (product_category)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** California Department of Toxic Substances Control
+- **Predicate:** exempted
+- **Object:** single-use plastic vapes (product_category)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Single-use plastic vapes are exempt from the new law because the Department of Toxic Substances Control raised concerns about recycling systems handling nicotine.
 
-### c_010 — attributed, single source
-**Subject entities:** Californians Against Waste
-**Predicate:** described_as
-**Object:** fastest-growing source of lithium-ion battery waste (characterization)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Californians Against Waste
+- **Predicate:** described_as
+- **Object:** fastest-growing source of lithium-ion battery waste (characterization)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Single-use plastic vapes are the fastest-growing source of lithium-ion battery waste, according to advocates.
 
-### c_011 — reported, single source
-**Subject entities:** Moss Landing
-**Predicate:** fire_and_evacuation
-**Object:** 1,000+ evacuated (emergency_response)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Moss Landing
+- **Predicate:** fire_and_evacuation
+- **Object:** 1,000+ evacuated (emergency_response)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > A fire burned at a battery storage site in Moss Landing for two days, requiring more than 1,000 people to be evacuated.
 
-### c_012 — confirmed, primary document
-**Subject entities:** Gavin Newsom; California Air Resources Board; California Department of Forestry and Fire Protection
-**Predicate:** established
-**Object:** state battery storage safety collaborative (policy)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_012
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Gavin Newsom; California Air Resources Board; California Department of Forestry and Fire Protection
+- **Predicate:** established
+- **Object:** state battery storage safety collaborative (policy)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > In 2024, Gov. Newsom established a collaborative of state agencies including the California Air Resources Board and CalFire to examine battery storage safety.
 
-### c_013 — reported, single source
-**Subject entities:** CalFire
-**Predicate:** regulations_take_effect
-**Object:** battery storage regulations (regulation)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_013
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** CalFire
+- **Predicate:** regulations_take_effect
+- **Object:** battery storage regulations (regulation)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > New CalFire regulations for battery storage systems are set to take effect in 2026.
 
 ## Sources
 
 ### src_001 — Associated Press, wire, Tier 1, originating
-**Author:** Alejandra Reyes-Velarde / Calmatters
+**Author:** Alejandra Reyes-velarde / Calmatters
 **Publication date:** 2026-01-02
-**Access date:** 2026-01-02
 **Title:** New California fee seeks to increase collection, recycling of lithium batteries
 **URL:** https://apnews.com/article/fires-recycling-california-general-news-84912beb23e4232ad2f3037648be0d65
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -1,6 +1,5 @@
 ---
 headline: Four astronauts depart ISS early in NASA's first medical evacuation
-slug: 2026-01-14-nasa-first-medical-evacuation-iss-crew-departs-spacex
 publish_date: '2026-01-14'
 lede: Four astronauts departed the International Space Station aboard a SpaceX capsule on Wednesday in NASA's first medical evacuation in 65 years of human spaceflight, after an unidentified crew member developed a health problem requiring ground-based diagnosis. The returning crew — American astronauts Zena Cardman and Mike Fincke, Japan's Kimiya Yui, and Russia's Oleg Platonov — aimed for a Thursday morning splashdown in the Pacific Ocean near San Diego. NASA officials declined to identify the affected astronaut or disclose the nature of the health concern, citing medical privacy.
 nut_graf: The departure cuts the crew's mission short by more than a month and marks the first time NASA has evacuated a crew member from the station in the program's history, despite computer modeling that predicted such an event roughly every three years.
@@ -19,41 +18,42 @@ primary_themes:
 - NASA human spaceflight
 - International Space Station
 topic_tags:
-  - health
-  - "international relations"
-  - politics
-  - "science and technology"
-  - "space programme"
-storyline_nexus: []
-geographic_location: International Space Station / Pacific Ocean near San Diego, California
+- space programme
+- health
+- accident and emergency incident
+- science and technology
+- disaster, accident and emergency incident
+storyline_nexus:
+- nasa-artemis-moon-mission
+geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.8
 - value: human_life_and_dignity
+  intensity: 0.9
+- value: informed_citizenship
   intensity: 0.6
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T06:58:33Z'
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:00:54Z'
 source_cluster_id: cluster_ap_2026-01-13_nasa-astronauts-space-crew-spacex-medica
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 11
   hedges:
+    confirmed: 4
+    reported: 3
+    contested: 0
     appears: 0
     alleged: 0
     attributed: 4
-    reported: 3
-    contested: 0
-    confirmed: 4
   corroboration:
     primary_plus_secondary: 1
-    one_originating_plus_primary_document: 0
     primary_document: 0
-    single_source: 10
     two_independent: 0
+    single_source: 10
+    one_originating_plus_primary_document: 0
 sources:
   count: 1
   outlets:
@@ -71,17 +71,18 @@ image:
   url: /articles/2026-01-14-four-astronauts-depart-iss-early-in-nasa-s-first-medical-evacuation.png
   alt: 'Illustration accompanying article: Four astronauts depart ISS early in NASA''s first medical evacuation'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-08-nasa-ends-iss-mission-early-for-crew-member-s-medical-issue-in-first-space-stati
-  relation: continues
-  strength: 0.9227
-  confidence: high
-- slug: 2026-01-08-nasa-cuts-space-station-mission-short-in-first-ever-medical-evacuation
-  relation: continues
-  strength: 0.9028
-  confidence: high
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Four astronauts departed the International Space Station aboard a SpaceX capsule on Wednesday in NASA's first medical evacuation in 65 years of human spaceflight, after an unidentified crew member developed a health problem requiring ground-based diagnosis.
+- The returning crew — American astronauts Zena Cardman and Mike Fincke, Japan's Kimiya Yui, and Russia's Oleg Platonov — aimed for a Thursday morning splashdown in the Pacific Ocean near San Diego.
+- NASA officials declined to identify the affected astronaut or disclose the nature of the health concern, citing medical privacy.
+- The departure cuts the crew's mission short by more than a month and marks the first time NASA has evacuated a crew member from the station in the program's history, despite computer modeling that predicted such an event roughly every three years.
 
 Four astronauts departed the International Space Station aboard a SpaceX capsule on Wednesday in NASA's first medical evacuation in 65 years of human spaceflight, after an unidentified crew member developed a health problem requiring ground-based diagnosis. The returning crew — American astronauts Zena Cardman and Mike Fincke, Japan's Kimiya Yui, and Russia's Oleg Platonov — aimed for a Thursday morning splashdown in the Pacific Ocean near San Diego. NASA officials declined to identify the affected astronaut or disclose the nature of the health concern, citing medical privacy.
 
@@ -131,102 +132,124 @@ Before departure, Yui wrote on the social platform X: "I want to burn it firmly 
 
 ## Atomic claims
 
-### c_001 — confirmed, primary plus secondary
-**Subject entities:** Zena Cardman; Mike Fincke; Kimiya Yui; Oleg Platonov; NASA; International Space Station
-**Predicate:** departed_early_medical_evacuation
-**Object:** NASA first medical evacuation (event)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** Zena Cardman; Mike Fincke; Kimiya Yui; Oleg Platonov; NASA; International Space Station
+- **Predicate:** departed_early_medical_evacuation
+- **Object:** NASA first medical evacuation (event)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Four astronauts — Zena Cardman, Mike Fincke, Kimiya Yui, and Oleg Platonov — departed the International Space Station on Wednesday, January 14, 2026, in NASA's first medical evacuation.
 
-### c_002 — reported, single source
-**Subject entities:** unnamed crew member
-**Predicate:** developed_undisclosed_medical_condition
-**Object:** undisclosed health concern (medical_event)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** unnamed crew member
+- **Predicate:** developed_undisclosed_medical_condition
+- **Object:** undisclosed health concern (medical_event)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > One of the four crew members developed a health problem that officials declined to identify, citing medical privacy.
 
-### c_003 — attributed, single source
-**Subject entities:** SpaceX capsule; Pacific Ocean; San Diego
-**Predicate:** targeted_splashdown
-**Object:** Pacific Ocean near San Diego (location)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** SpaceX capsule; Pacific Ocean; San Diego
+- **Predicate:** targeted_splashdown
+- **Object:** Pacific Ocean near San Diego (location)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > The crew aimed for a Thursday morning splashdown in the Pacific Ocean near San Diego, less than 11 hours after undocking.
 
-### c_004 — confirmed, single source
-**Subject entities:** ISS crew mission
-**Predicate:** mission_cut_short
-**Object:** over one month (duration)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** ISS crew mission
+- **Predicate:** mission_cut_short
+- **Object:** over one month (duration)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > The mission launched in August and was scheduled to continue until late February; the early departure shortened it by more than one month.
 
-### c_005 — attributed, single source
-**Subject entities:** NASA
-**Predicate:** first_medical_evacuation_in_history
-**Object:** 65 years (duration)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** NASA
+- **Predicate:** first_medical_evacuation_in_history
+- **Object:** 65 years (duration)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > NASA had not conducted a medical evacuation in its 65 years of human spaceflight, despite computer modeling predicting one roughly every three years.
 
-### c_006 — confirmed, single source
-**Subject entities:** Jared Isaacman; NASA
-**Predicate:** announced_evacuation_decision
-**Object:** early return announcement (decision)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Jared Isaacman; NASA
+- **Predicate:** announced_evacuation_decision
+- **Object:** early return announcement (decision)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Jared Isaacman, who became NASA administrator in December, announced the early return decision the previous week and said the crew member was stable.
 
-### c_007 — attributed, single source
-**Subject entities:** NASA officials
-**Predicate:** assessed_risk_comparison
-**Object:** risk assessment favoring early return (official_statement)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** NASA officials
+- **Predicate:** assessed_risk_comparison
+- **Object:** risk assessment favoring early return (official_statement)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > NASA officials said it was riskier to leave the astronaut in space without proper medical attention for another month than to temporarily reduce the station crew by more than half.
 
-### c_008 — reported, single source
-**Subject entities:** Vladimir Vasyutin; Salyut 7
-**Predicate:** returned_early_for_medical_reasons
-**Object:** 1985 Salyut 7 early return (historical_event)
-**Temporal:** 1985
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Vladimir Vasyutin; Salyut 7
+- **Predicate:** returned_early_for_medical_reasons
+- **Object:** 1985 Salyut 7 early return (historical_event)
+- **Temporal:** 1985
+- **Sources:** src_001
 
 > Soviet cosmonaut Vladimir Vasyutin returned early from the Salyut 7 space station in 1985 due to a serious infection or related illness.
 
-### c_009 — confirmed, single source
-**Subject entities:** ISS; remaining crew
-**Predicate:** remained_on_station
-**Object:** 3 crew members (count)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** ISS; remaining crew
+- **Predicate:** remained_on_station
+- **Object:** 3 crew members (count)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > One American astronaut and two Russian cosmonauts remained aboard the ISS, approximately one and a half months into an eight-month mission.
 
-### c_010 — reported, single source
-**Subject entities:** NASA; SpaceX
-**Predicate:** advancing_replacement_crew_launch
-**Object:** mid-February (approximate_date)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** NASA; SpaceX
+- **Predicate:** advancing_replacement_crew_launch
+- **Object:** mid-February (approximate_date)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > NASA and SpaceX were working to advance the launch of a fresh four-person crew from Florida, currently targeted for mid-February.
 
-### c_011 — attributed, single source
-**Subject entities:** NASA
-**Predicate:** suspended_spacewalk_capability
-**Object:** all spacewalks suspended pending crew replacement (operational_constraint)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** NASA
+- **Predicate:** suspended_spacewalk_capability
+- **Object:** all spacewalks suspended pending crew replacement (operational_constraint)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Until a replacement crew arrives, NASA said it would have to stand down from routine and emergency spacewalks.
 
@@ -235,10 +258,5 @@ Before departure, Yui wrote on the social platform X: "I want to burn it firmly 
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Marcia Dunn
 **Publication date:** 2026-01-14
-**Access date:** 2026-01-14
 **Title:** Astronauts leave space station in NASA's first medical evacuation
 **URL:** https://apnews.com/article/nasa-astronauts-space-crew-spacex-medical-california-13d6c5246a1afec200a811e6cfc049bf
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

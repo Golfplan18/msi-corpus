@@ -26,7 +26,7 @@ topic_tags:
   - "economy, business and finance"
   - "international trade"
 storyline_nexus:
-  - us-china-relations
+- pakistan-afghanistan-violence
 geographic_location: Pakistan-Afghanistan border region
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -279,7 +279,3 @@ Multiple Muslim nations have since sought to restart diplomacy. On Wednesday, Tu
 **Access date:** 2026-03-06
 **Title:** Pakistan and Afghanistan press their claims in relentless border clashes
 **URL:** https://apnews.com/article/pakistan-afghanistan-border-fighting-c4aa84f196db202fc124578a039ae3c4
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

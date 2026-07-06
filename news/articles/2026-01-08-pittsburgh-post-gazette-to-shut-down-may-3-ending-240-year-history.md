@@ -21,7 +21,8 @@ topic_tags:
   - health
   - labour
   - "labour dispute"
-storyline_nexus: []
+storyline_nexus:
+- trump-judicial-challenges
 geographic_location: Pittsburgh, Pennsylvania
 floor_values_engaged:
 - value: informed_citizenship
@@ -104,138 +105,168 @@ The Post-Gazette traces its roots to 1786, when the Pittsburgh Gazette began as 
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Block Communications Inc.; Pittsburgh Post-Gazette
-**Predicate:** announced_closure
-**Object:** May 3 (date)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Block Communications Inc.; Pittsburgh Post-Gazette
+- **Predicate:** announced_closure
+- **Object:** May 3 (date)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Block Communications Inc. will cease publication of the Pittsburgh Post-Gazette on May 3.
 
-### c_002 — attributed, single source
-**Subject entities:** Pittsburgh Post-Gazette
-**Predicate:** has_circulation
-**Object:** 83000 (number)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Pittsburgh Post-Gazette
+- **Predicate:** has_circulation
+- **Object:** 83000 (number)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > The Pittsburgh Post-Gazette reported average paid circulation of 83,000 on its website.
 
-### c_003 — attributed, single source
-**Subject entities:** Pittsburgh Post-Gazette
-**Predicate:** publication_schedule
-**Object:** Thursdays and Sundays (schedule)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Pittsburgh Post-Gazette
+- **Predicate:** publication_schedule
+- **Object:** Thursdays and Sundays (schedule)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > The Pittsburgh Post-Gazette is printed on Thursdays and Sundays.
 
-### c_004 — attributed, single source
-**Subject entities:** Block Communications Inc.
-**Predicate:** reported_financial_losses
-**Object:** hundreds of millions over two decades (financial)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Block Communications Inc.
+- **Predicate:** reported_financial_losses
+- **Object:** hundreds of millions over two decades (financial)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Block Communications said it has lost hundreds of millions of dollars operating the Post-Gazette over two decades.
 
-### c_005 — confirmed, single source
-**Subject entities:** Supreme Court of the United States; PG Publishing Co. Inc.; National Labor Relations Board
-**Predicate:** declined_appeal
-**Object:** emergency appeal to halt NLRB order (legal_action)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Supreme Court of the United States; PG Publishing Co. Inc.; National Labor Relations Board
+- **Predicate:** declined_appeal
+- **Object:** emergency appeal to halt NLRB order (legal_action)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > The U.S. Supreme Court declined PG Publishing Co. Inc.'s emergency appeal to halt an NLRB order on January 7, 2026.
 
-### c_006 — confirmed, single source
-**Subject entities:** National Labor Relations Board; PG Publishing Co. Inc.
-**Predicate:** ordered_compliance
-**Object:** health care coverage policies in expired union contract (legal_order)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** National Labor Relations Board; PG Publishing Co. Inc.
+- **Predicate:** ordered_compliance
+- **Object:** health care coverage policies in expired union contract (legal_order)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > The NLRB order forced PG Publishing Co. Inc. to abide by health care coverage policies in an expired union contract.
 
-### c_007 — attributed, single source
-**Subject entities:** Pittsburgh Post-Gazette; Newspaper Guild of Pittsburgh
-**Predicate:** declared_impasse_and_imposed_terms
-**Object:** bargaining impasse declaration (labor_action)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Pittsburgh Post-Gazette; Newspaper Guild of Pittsburgh
+- **Predicate:** declared_impasse_and_imposed_terms
+- **Object:** bargaining impasse declaration (labor_action)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > More than five years ago, the Post-Gazette declared it had reached a bargaining impasse with the Newspaper Guild of Pittsburgh and unilaterally imposed terms and conditions of employment.
 
-### c_008 — confirmed, single source
-**Subject entities:** Pittsburgh Post-Gazette; National Labor Relations Board
-**Predicate:** found_to_have_bargained_in_bad_faith
-**Object:** NLRB bad faith bargaining determination (legal_finding)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Pittsburgh Post-Gazette; National Labor Relations Board
+- **Predicate:** found_to_have_bargained_in_bad_faith
+- **Object:** NLRB bad faith bargaining determination (legal_finding)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > The paper was found to have bargained in bad faith by making offers not intended to help reach a deal and by declaring an impasse prematurely.
 
-### c_009 — attributed, single source
-**Subject entities:** Newspaper Guild of Pittsburgh; Pittsburgh Post-Gazette
-**Predicate:** returned_to_work
-**Object:** November 2025 (date)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Newspaper Guild of Pittsburgh; Pittsburgh Post-Gazette
+- **Predicate:** returned_to_work
+- **Object:** November 2025 (date)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > A couple dozen union members returned to work at the Post-Gazette in November after a three-year strike.
 
-### c_010 — attributed, single source
-**Subject entities:** Andrew Goldstein; Newspaper Guild of Pittsburgh
-**Predicate:** said
-**Object:** verbatim quotation (quotation)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Andrew Goldstein; Newspaper Guild of Pittsburgh
+- **Predicate:** said
+- **Object:** verbatim quotation (quotation)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Andrew Goldstein, president of the Newspaper Guild of Pittsburgh, said: 'Instead of simply following the law, the owners chose to punish local journalists and the city of Pittsburgh.'
 
-### c_011 — reported, single source
-**Subject entities:** Newspaper Guild of Pittsburgh; Pittsburgh Post-Gazette
-**Predicate:** notified_via
-**Object:** Zoom video; company officials did not speak live (communication_method)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Newspaper Guild of Pittsburgh; Pittsburgh Post-Gazette
+- **Predicate:** notified_via
+- **Object:** Zoom video; company officials did not speak live (communication_method)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > The union said employees were notified in a video on Zoom in which company officials did not speak live.
 
-### c_012 — attributed, single source
-**Subject entities:** Block Communications Inc.
-**Predicate:** said
-**Object:** verbatim quotation (quotation)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Block Communications Inc.
+- **Predicate:** said
+- **Object:** verbatim quotation (quotation)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > The Block family said in a statement it was 'proud of the service the Post-Gazette has provided to Pittsburgh for nearly a century.'
 
-### c_013 — attributed, single source
-**Subject entities:** Pittsburgh Post-Gazette
-**Predicate:** founded
-**Object:** 1786 (date)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Pittsburgh Post-Gazette
+- **Predicate:** founded
+- **Object:** 1786 (date)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > The Post-Gazette traces its roots to 1786, when the Pittsburgh Gazette began as a four-page weekly.
 
-### c_014 — attributed, single source
-**Subject entities:** Paul Block; Pittsburgh Post-Gazette
-**Predicate:** acquired_and_renamed
-**Object:** 1927 (date)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Paul Block; Pittsburgh Post-Gazette
+- **Predicate:** acquired_and_renamed
+- **Object:** 1927 (date)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Paul Block obtained the paper in 1927 and named it the Post-Gazette.
 
-### c_015 — attributed, single source
-**Subject entities:** Pittsburgh Post-Gazette
-**Predicate:** historical_role
-**Object:** abolition advocacy (historical_fact)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Pittsburgh Post-Gazette
+- **Predicate:** historical_role
+- **Object:** abolition advocacy (historical_fact)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > The Pittsburgh Gazette became a leading advocate for the abolition of slavery in the 19th century.
 
@@ -246,7 +277,3 @@ The Post-Gazette traces its roots to 1786, when the Pittsburgh Gazette began as 
 **Access date:** 2026-01-08
 **Title:** Pittsburgh Post-Gazette closure announcement follows years of labor disputes
 **URL:** https://apnews.com/article/pittsburgh-post-gazette-newspaper-closing-bc4180d7eda5f9ccf3edc176cb0fe01a
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

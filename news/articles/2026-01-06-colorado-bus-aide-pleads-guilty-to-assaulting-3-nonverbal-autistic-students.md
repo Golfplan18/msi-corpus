@@ -19,7 +19,8 @@ topic_tags:
   - "crime, law and justice"
   - education
   - school
-storyline_nexus: []
+storyline_nexus:
+- lgbtq-rights-restrictions
 geographic_location: suburban Denver, Colorado
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -92,75 +93,91 @@ Jessica and Devon Vestal said in a statement released by the law firm Rathod Moh
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Kiarra Jones
-**Predicate:** pleaded_guilty
-**Object:** assault of three nonverbal autistic students (criminal_plea)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Kiarra Jones
+- **Predicate:** pleaded_guilty
+- **Object:** assault of three nonverbal autistic students (criminal_plea)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > Kiarra Jones, 30, a former school bus aide, pleaded guilty on January 5, 2026 to assaulting three nonverbal students with autism.
 
-### c_002 — confirmed, primary document
-**Subject entities:** Kiarra Jones
-**Predicate:** entered_plea
-**Object:** 12 charges (charge_count)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Kiarra Jones
+- **Predicate:** entered_plea
+- **Object:** 12 charges (charge_count)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > Jones entered guilty pleas to 12 charges under a plea agreement as she was about to go on trial.
 
-### c_003 — confirmed, primary document
-**Subject entities:** Kiarra Jones
-**Predicate:** pleaded_guilty_to_charges
-**Object:** 10 felony counts third-degree assault, 2 misdemeanor counts child abuse (charge_breakdown)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Kiarra Jones
+- **Predicate:** pleaded_guilty_to_charges
+- **Object:** 10 felony counts third-degree assault, 2 misdemeanor counts child abuse (charge_breakdown)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > Jones pleaded guilty to 10 felony counts of third-degree assault of an at-risk child and two misdemeanor counts of child abuse.
 
-### c_004 — attributed, single source
-**Subject entities:** Kiarra Jones
-**Predicate:** faces_sentence
-**Object:** up to 15 years in prison (sentencing_exposure)
-**Temporal:** 2026-03-18
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Kiarra Jones
+- **Predicate:** faces_sentence
+- **Object:** up to 15 years in prison (sentencing_exposure)
+- **Temporal:** 2026-03-18
+- **Sources:** src_001
 
 > Jones faces up to 15 years in prison for the felony counts, with sentencing set for March 18.
 
-### c_005 — attributed, single source
-**Subject entities:** Jessica Vestal
-**Predicate:** requested_surveillance_review
-**Object:** bus surveillance video reviewed in 2024 (discovery_event)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jessica Vestal
+- **Predicate:** requested_surveillance_review
+- **Object:** bus surveillance video reviewed in 2024 (discovery_event)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > The abuse was revealed in 2024 by bus surveillance video after Jessica Vestal asked school officials to review the footage to explain injuries her son had suffered.
 
-### c_006 — attributed, single source
-**Subject entities:** Jessica Vestal
-**Predicate:** suffered_injuries
-**Object:** bruises all over his body and a black eye (injury_description)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jessica Vestal
+- **Predicate:** suffered_injuries
+- **Object:** bruises all over his body and a black eye (injury_description)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > Vestal's son, then 10, suffered bruises all over his body and a black eye.
 
-### c_007 — attributed, single source
-**Subject entities:** Jessica Vestal; Devon Vestal
-**Predicate:** stated_emotional_impact
-**Object:** haunted by whether son understands why it happened (family_statement)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jessica Vestal; Devon Vestal
+- **Predicate:** stated_emotional_impact
+- **Object:** haunted by whether son understands why it happened (family_statement)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > Jessica and Devon Vestal said they are haunted by whether their son understands why the abuse happened.
 
-### c_008 — attributed, single source
-**Subject entities:** Rathod Mohamedbhai
-**Predicate:** represents
-**Object:** three affected families (legal_representation)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Rathod Mohamedbhai
+- **Predicate:** represents
+- **Object:** three affected families (legal_representation)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > The Vestals' statement was released by the law firm Rathod Mohamedbhai, which represents them and the two other families.
 
@@ -172,7 +189,3 @@ Jessica and Devon Vestal said in a statement released by the law firm Rathod Moh
 **Access date:** 2026-01-06
 **Title:** Ex school bus aide pleads guilty to assaulting autistic students
 **URL:** https://apnews.com/article/autistic-student-abuse-bus-colorado-66ce631e55e1c676adff13883279eed2
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

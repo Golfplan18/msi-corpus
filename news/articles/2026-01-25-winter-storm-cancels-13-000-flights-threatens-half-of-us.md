@@ -14,14 +14,12 @@ primary_themes:
 - transportation disruption
 - emergency response
 topic_tags:
-  - "weather warning"
-  - "disaster, accident and emergency incident"
-  - "human interest"
-  - "human migration"
+- weather warning
+- disaster, accident and emergency incident
+- human interest
+- human migration
 storyline_nexus:
-  - immigration-enforcement
-  - us-administration-2026
-  - winter-storm-2026
+- extreme-weather-disasters
 geographic_location: 'United States (multi-region: South, Midwest, Northeast)'
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -65,22 +63,6 @@ figures_aggregate:
   series_ids: []
   sources: []
 cross_article_links:
-- slug: 2026-01-07-winter-storm-strands-more-than-1-000-at-amsterdam-s-schiphol-grounds-800-flights
-  relation: related
-  strength: 0.8811
-  confidence: medium
-- slug: 2026-01-11-severe-cold-strands-thousands-of-tourists-at-kittil-airport-as-europe-deep-freez
-  relation: related
-  strength: 0.8588
-  confidence: medium
-- slug: 2026-01-06-snow-and-ice-kill-at-least-6-across-europe-grounding-600-schiphol-flights
-  relation: related
-  strength: 0.8812
-  confidence: medium
-- slug: 2026-01-13-freezing-rain-halts-flights-at-vienna-budapest-prague-and-bratislava-airports
-  relation: related
-  strength: 0.8296
-  confidence: medium
 - slug: 2026-01-07-ice-and-snow-close-schools-across-new-england-as-more-storms-approach
   relation: related
   strength: 0.8478
@@ -132,99 +114,117 @@ Mardi Gras parades in Louisiana were canceled or rescheduled due to the storm. D
 
 The storm was expected to move into the Northeast after clearing the South, with snow forecast to exceed one foot in some areas. New York City Mayor Zohran Mamdani urged New Yorkers to remain indoors: "Please, if you can avoid it, do not drive, do not travel, do not do anything that can potentially place you or your loved ones in danger. Instead, I urge every New Yorker who can to put a warm sweater on, turn on the TV, watch 'Mission Impossible' for the 10th time, above all to stay inside."
 
-**AI Disclosure:** This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Framework specification: /methodology. No human review was triggered for this article.
-
 **License:** This article is released under Creative Commons CC0 (public domain dedication).
 
 ## Atomic claims
 
-### c_001 — reported, single source
-**Subject entities:** flights across U.S.
-**Predicate:** canceled
-**Object:** 13,000+ (quantity)
-**Temporal:** 2026-01-24/2026-01-25
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** flights across U.S.
+- **Predicate:** canceled
+- **Object:** 13,000+ (quantity)
+- **Temporal:** 2026-01-24/2026-01-25
+- **Sources:** src_001
 
 > More than 13,000 flights were canceled across the U.S. on Saturday and Sunday due to the winter storm.
 
-### c_002 — attributed, single source
-**Subject entities:** winter storm; 180 million people
-**Predicate:** threatened
-**Object:** 180 million people across multi-state region (population_impact)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** winter storm; 180 million people
+- **Predicate:** threatened
+- **Object:** 180 million people across multi-state region (population_impact)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > A winter storm threatened nearly 180 million people — more than half the U.S. population — across a path stretching from the southern Rocky Mountains to New England.
 
-### c_003 — reported, single source
-**Subject entities:** Louisiana; Texas
-**Predicate:** experienced
-**Object:** 140,000 outages total; 58,000+ Louisiana; 50,000+ Texas (outage_count)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Louisiana; Texas
+- **Predicate:** experienced
+- **Object:** 140,000 outages total; 58,000+ Louisiana; 50,000+ Texas (outage_count)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > About 140,000 power outages were reported in the path of the winter storm Saturday, including more than 58,000 in Louisiana and about 50,000 in Texas.
 
-### c_004 — attributed, single source
-**Subject entities:** Sunday flight cancellations
-**Predicate:** were_record
-**Object:** largest daily total since COVID-19 pandemic (record_statistic)
-**Temporal:** 2026-01-25
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Sunday flight cancellations
+- **Predicate:** were_record
+- **Object:** largest daily total since COVID-19 pandemic (record_statistic)
+- **Temporal:** 2026-01-25
+- **Sources:** src_001
 
 > Sunday's flight cancellations were the most on any single day since the coronavirus pandemic, according to aviation analytics firm Cirium.
 
-### c_005 — reported, single source
-**Subject entities:** Shelby County, Texas
-**Predicate:** experienced
-**Object:** approximately 5,300 customers without power (impact)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Shelby County, Texas
+- **Predicate:** experienced
+- **Object:** approximately 5,300 customers without power (impact)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > In Shelby County, Texas, ice weighed down pine trees and caused branches to snap, downing power lines; about a third of the county's 16,000 electric customers lost power Saturday.
 
-### c_006 — reported, single source
-**Subject entities:** Midwest
-**Predicate:** experienced
-**Object:** -40 F wind chill (temperature)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Midwest
+- **Predicate:** experienced
+- **Object:** -40 F wind chill (temperature)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > The Midwest saw wind chills as low as minus 40 degrees Fahrenheit, meaning frostbite could set in within 10 minutes.
 
-### c_007 — reported, single source
-**Subject entities:** Rhinelander, Wisconsin
-**Predicate:** recorded
-**Object:** -36 F (temperature)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Rhinelander, Wisconsin
+- **Predicate:** recorded
+- **Object:** -36 F (temperature)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > Rhinelander, Wisconsin, recorded minus 36 degrees Fahrenheit on Saturday morning, the coldest reading there in almost 30 years.
 
-### c_008 — reported, single source
-**Subject entities:** President Donald Trump
-**Predicate:** approved
-**Object:** emergency declarations for 12+ states (governmental_action)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** President Donald Trump
+- **Predicate:** approved
+- **Object:** emergency declarations for 12+ states (governmental_action)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > President Donald Trump approved emergency declarations for at least a dozen states by Saturday.
 
-### c_009 — reported, single source
-**Subject entities:** Governor Brian Kemp; Georgia
-**Predicate:** deployed
-**Object:** 120 National Guard members (governmental_action)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Governor Brian Kemp; Georgia
+- **Predicate:** deployed
+- **Object:** 120 National Guard members (governmental_action)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > Georgia Governor Brian Kemp deployed 120 National Guard members to northeast Georgia to strengthen the response in the hardest-hit areas.
 
-### c_010 — reported, single source
-**Subject entities:** Mardi Gras; Louisiana
-**Predicate:** canceled_or_rescheduled
-**Object:** parade events (event_cancellation)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Mardi Gras; Louisiana
+- **Predicate:** canceled_or_rescheduled
+- **Object:** parade events (event_cancellation)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > Mardi Gras parades in Louisiana were canceled or rescheduled due to the winter storm.
 
@@ -236,7 +236,3 @@ The storm was expected to move into the Northeast after clearing the South, with
 **Access date:** 2026-01-25
 **Title:** Thousands of flights canceled as major winter storm hits US
 **URL:** https://apnews.com/article/storm-texas-oklahoma-ice-snow-a94c9d155615333a50e174a4d7d54fc1
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

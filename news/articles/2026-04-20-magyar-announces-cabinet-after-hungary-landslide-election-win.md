@@ -95,8 +95,6 @@ The transition will proceed rapidly. The new parliament's inaugural session is s
 
 Magyar has pledged to restore democratic institutions and the rule of law that he says deteriorated during Orbán's tenure, and to pursue accountability for those he describes as having overseen and benefited from widespread official corruption. The two-thirds majority gives Magyar the constitutional authority to amend Hungary's legal framework without opposition support, removing one of the primary obstacles to the institutional changes he has promised.
 
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under sources. [Read our methodology.](/methodology) Human review: not triggered.*
-
 *This work is dedicated to the public domain under [Creative Commons Zero (CC0)](https://creativecommons.org/publicdomain/zero/1.0/).*
 
 ## Atomic claims
@@ -217,7 +215,3 @@ Magyar has pledged to restore democratic institutions and the rule of law that h
 **Access date:** 2026-05-17
 **Title:** Hungary's Magyar announces ministers after landslide election win
 **URL:** https://apnews.com/article/hungary-magyar-cabinet-tisza-orban-kapitany-2be6015ab5363a0e36ca264fccd0985b
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

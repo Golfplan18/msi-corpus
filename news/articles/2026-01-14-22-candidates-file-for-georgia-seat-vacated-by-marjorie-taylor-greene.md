@@ -13,36 +13,36 @@ primary_themes:
 - special election
 - 2026 midterms
 topic_tags:
-  - election
-  - politics
-storyline_nexus: []
-geographic_location: Georgia's 14th Congressional District, United States
+- election
+- politics
+- government
+storyline_nexus:
+- 2026-midterm-elections
+geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship
-  intensity: 0.85
-- value: accountability_of_power
-  intensity: 0.5
-framework_version: 1.1.0
-generation_timestamp: '2026-01-14T00:00:00Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:48:16Z'
 source_cluster_id: cluster_ap_2026-01-13_marjorie-taylor-greene-georgia-house-ele
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 10
   hedges:
-    appears: 0
-    alleged: 0
     attributed: 2
-    reported: 0
-    contested: 0
+    alleged: 0
     confirmed: 8
+    appears: 0
+    contested: 0
+    reported: 0
   corroboration:
     primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 8
+    one_originating_plus_primary_document: 0
     single_source: 2
     two_independent: 0
 sources:
@@ -62,13 +62,19 @@ image:
   url: /articles/2026-01-14-22-candidates-file-for-georgia-seat-vacated-by-marjorie-taylor-greene.png
   alt: 'Illustration accompanying article: 22 candidates file for Georgia seat vacated by Marjorie Taylor Greene'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-06-georgia-sets-march-10-special-election-for-greene-s-former-seat
-  relation: continues
-  strength: 0.8972
-  confidence: high
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Twenty-two candidates — including a former district attorney, a state senator and a trash-hauling entrepreneur — filed to contest Georgia's 14th Congressional District seat after Marjorie Taylor Green…
+- ATLANTA — Twenty-two candidates filed to contest Georgia's 14th Congressional District seat after Marjorie Taylor Greene resigned from Congress earlier this month, with qualifying closing Wednesday. T…
+- The 14th District stretches from Atlanta's northwest suburbs through all or part of 10 counties to the Tennessee state line. The Cook Political Report rates it the most Republican-leaning district in …
+- Clay Fuller of Trenton, who served as district attorney in four counties along the Tennessee state line until he filed to run, is among the leading Republicans in the race, the AP reported. Fuller fin…
+- State Sen. Colton Moore of Trenton, an auctioneer who cultivated a right-wing following by allying himself with the Freedom Caucus as a legislator, is also running, the AP reported.
 
 Twenty-two candidates — including a former district attorney, a state senator and a trash-hauling entrepreneur — filed to contest Georgia's 14th Congressional District seat after Marjorie Taylor Greene resigned from Congress earlier this month. Qualifying closed Wednesday, drawing 17 Republicans, three Democrats, a Libertarian and an independent. The field will appear on a single all-party ballot on March 10, according to the Associated Press.
 
@@ -108,83 +114,103 @@ Democrats and Republicans who advance could then face May 19 party primaries, po
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Predicate:** filed_to_run
-**Object:** 22 (candidate_count)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Predicate:** filed_to_run
+- **Object:** 22 (candidate_count)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Twenty-two candidates filed to contest Georgia's 14th Congressional District seat.
 
-### c_002 — confirmed, primary document
-**Predicate:** filed_by_party
-**Object:** 17R-3D-1L-1I (candidate_breakdown)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Predicate:** filed_by_party
+- **Object:** 17R-3D-1L-1I (candidate_breakdown)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Seventeen Republicans, three Democrats, one Libertarian and one independent filed for the seat.
 
-### c_003 — confirmed, primary document
-**Predicate:** election_scheduled
-**Object:** March 10 first round, April 7 runoff (election_dates)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Predicate:** election_scheduled
+- **Object:** March 10 first round, April 7 runoff (election_dates)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Candidates will run on a single all-party ballot on March 10; if no one wins a majority, the top two finishers will go to a runoff on April 7.
 
-### c_004 — confirmed, primary document
-**Predicate:** resigned
-**Object:** resigned from Congress (action)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Predicate:** resigned
+- **Object:** resigned from Congress (action)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Marjorie Taylor Greene resigned from Congress earlier in January 2026.
 
-### c_005 — attributed, single source
-**Predicate:** rated_most_republican_leaning
-**Object:** most Republican-leaning in Georgia (rating)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Predicate:** rated_most_republican_leaning
+- **Object:** most Republican-leaning in Georgia (rating)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > The Cook Political Report rates the 14th District the most Republican-leaning district in Georgia.
 
-### c_006 — confirmed, primary document
-**Predicate:** was_district_attorney
-**Object:** four counties along the Tennessee state line (role)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Predicate:** was_district_attorney
+- **Object:** four counties along the Tennessee state line (role)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Clay Fuller of Trenton served as district attorney in four counties along the Tennessee state line until he filed to run.
 
-### c_007 — confirmed, primary document
-**Predicate:** is_state_senator
-**Object:** state senator, auctioneer, Freedom Caucus ally (description)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Predicate:** is_state_senator
+- **Object:** state senator, auctioneer, Freedom Caucus ally (description)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Colton Moore of Trenton is a state senator and auctioneer who allied with the Freedom Caucus as a legislator.
 
-### c_008 — attributed, single source
-**Predicate:** raised_funds
-**Object:** almost $1.3 million (fundraising)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Predicate:** raised_funds
+- **Object:** almost $1.3 million (fundraising)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Shawn Harris is a retired Army general and Cedartown farmer who was the 2024 Democratic nominee against Greene and raised nearly $1.3 million from May through September of last year.
 
-### c_009 — confirmed, primary document
-**Predicate:** required_to_resign
-**Object:** Georgia law requirement (legal_requirement)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Predicate:** required_to_resign
+- **Object:** Georgia law requirement (legal_requirement)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Fuller, Lama and Moore were required under Georgia law to resign their seats before running for another office.
 
-### c_010 — confirmed, primary document
-**Predicate:** qualifying_timeline
-**Object:** first week of March (date)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Predicate:** qualifying_timeline
+- **Object:** first week of March (date)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Qualifying for party primaries for the regular November election opens in the first week of March, meaning most special-election candidates are likely to file for primaries before knowing their special-election outcome.
 
@@ -193,10 +219,5 @@ Democrats and Republicans who advance could then face May 19 party primaries, po
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Jeff Amy
 **Publication date:** 2026-01-14
-**Access date:** 2026-01-14
 **Title:** Georgia election launches with 22 candidates for Marjorie Taylor Greene's seat
 **URL:** https://apnews.com/article/marjorie-taylor-greene-georgia-house-election-14th-30b92a6b8ef20417a33fc36eb91be5ae
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

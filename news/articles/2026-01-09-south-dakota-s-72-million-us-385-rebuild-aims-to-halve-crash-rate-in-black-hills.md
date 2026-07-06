@@ -1,6 +1,5 @@
 ---
 headline: South Dakota's $72 million US 385 rebuild aims to halve crash rate in Black Hills
-slug: 2026-01-09-south-dakota-72-million-us-385-rebuild-aims-to-halve-crash-rate-in-black-hills
 publish_date: '2026-01-09'
 lede: South Dakota's Department of Transportation is midway through a $72 million project to rebuild and widen 15 miles of U.S. 385 through the central Black Hills, where the crash rate runs more than double the state average, according to DOT data. The project, which began in 2024 and is scheduled for full completion in 2027, aims to cut that crash rate by 50 percent by eliminating tight curves, expanding sight lines and widening road shoulders from as little as 2 feet to as much as 8 feet.
 nut_graf: U.S. 385 is the only major north-south highway through the central Black Hills and a critical artery for a regional tourism industry that generated nearly $2 billion in revenue for South Dakota in 2024; the highway also serves as the primary route for hundreds of thousands of Sturgis Motorcycle Rally attendees each August.
@@ -18,44 +17,46 @@ primary_themes:
 - transportation
 - tourism
 - South Dakota
-topic_tags: []
+topic_tags:
+- transport
+- construction and property
+- government policy
+- accident and emergency incident
 storyline_nexus:
-  - us-administration-2026
-  - ai-regulation
-  - us-china-relations
-geographic_location: Black Hills, South Dakota, United States
+- extreme-weather-disasters
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
-  intensity: 0.72
+  intensity: 0.9
 - value: informed_citizenship
   intensity: 0.6
-framework_version: 1.1.0
-generation_timestamp: '2026-01-09T12:00:00Z'
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:05:39Z'
 source_cluster_id: cluster_ap_2026-01-08_general-news-kristen-kilcoin-south-dakot
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 14
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 10
-    reported: 0
     contested: 0
     confirmed: 4
+    attributed: 10
+    alleged: 0
+    appears: 0
+    reported: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 14
+    one_originating_plus_primary_document: 0
+    primary_plus_secondary: 0
     single_source: 0
     two_independent: 0
 sources:
   count: 1
   outlets:
-  - Associated Press / South Dakota News Watch
+  - Associated Press
   outlet_classes:
   - wire
   highest_reliability_tier: 1
@@ -69,21 +70,16 @@ image:
   url: /articles/2026-01-09-south-dakota-s-72-million-us-385-rebuild-aims-to-halve-crash-rate-in-black-hills.png
   alt: 'Illustration accompanying article: South Dakota''s $72 million US 385 rebuild aims to halve crash rate in Black'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-06-gordie-howe-bridge-nears-opening-as-detroit-s-first-walkable-link-to-canada-in-d
-  relation: related
-  strength: 0.7135
-  confidence: medium
-- slug: 2026-01-08-michigan-ev-registration-fees-jump-to-nation-s-highest-under-road-funding-deal
-  relation: related
-  strength: 0.6869
-  confidence: medium
-- slug: 2026-01-05-faa-picks-rtx-and-indra-to-replace-612-outdated-radar-systems-by-summer-2028
-  relation: related
-  strength: 0.6819
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- South Dakota's Department of Transportation is midway through a $72 million project to rebuild and widen 15 miles of U.S. 385 through the central Black Hills, where the crash rate runs more than do...
+- U.S. 385 is the only major north-south highway through the central Black Hills and a critical artery for a regional tourism industry that generated...
+- In the five-year period from 2018 to 2022, DOT data show 187 crashes on the 15-mile segment under construction, resulting in four fatalities and 57...
 
 South Dakota's Department of Transportation is midway through a $72 million project to rebuild and widen 15 miles of U.S. 385 through the central Black Hills, where the crash rate runs more than double the state average, according to DOT data. The project, which began in 2024 and is scheduled for full completion in 2027, aims to cut the corridor's crash rate by 50 percent by eliminating tight curves, expanding sight lines and widening road shoulders.
 
@@ -135,145 +131,166 @@ The bulk of road construction is expected to be complete in 2026, with only fina
 
 *This story was originally reported by South Dakota News Watch and distributed through a partnership with The Associated Press.*
 
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed in the sources block. [Specification: /methodology](/methodology). Human review: not triggered. License: [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*
-
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** South Dakota Department of Transportation; U.S. 385
-**Predicate:** rebuilding
-**Object:** 15-mile stretch, $72 million (infrastructure_project)
-**Temporal:** 2024/2027
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** South Dakota Department of Transportation; U.S. 385
+- **Predicate:** rebuilding
+- **Object:** 15-mile stretch, $72 million (infrastructure_project)
+- **Temporal:** 2024/2027
+- **Sources:** src_001
 
 > The South Dakota DOT is rebuilding and widening a 15-mile stretch of U.S. 385 in the central Black Hills at a total project cost of $72 million.
 
-### c_002 — attributed, primary document
-**Subject entities:** U.S. 385
-**Predicate:** has_crash_rate
-**Object:** more than double state average (statistic)
-**Temporal:** 2018-2022
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. 385
+- **Predicate:** has_crash_rate
+- **Object:** more than double state average (statistic)
+- **Temporal:** 2018-2022
+- **Sources:** src_001
 
 > The overall crash rate on the stretch of U.S. 385 being rebuilt is more than double the state average, according to DOT data.
 
-### c_003 — attributed, primary document
-**Subject entities:** U.S. 385
-**Predicate:** recorded_crashes
-**Object:** 187 crashes, 4 fatalities, 57 injuries (safety_statistics)
-**Temporal:** 2018-2022
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. 385
+- **Predicate:** recorded_crashes
+- **Object:** 187 crashes, 4 fatalities, 57 injuries (safety_statistics)
+- **Temporal:** 2018-2022
+- **Sources:** src_001
 
 > In the five-year period from 2018 to 2022, 187 crashes were reported on the segment, with four fatalities and 57 injuries.
 
-### c_004 — attributed, primary document
-**Subject entities:** U.S. 385
-**Predicate:** crash_cause_pattern
-**Object:** one-third run-off, most fatalities run-off (safety_pattern)
-**Temporal:** 2018-2022
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. 385
+- **Predicate:** crash_cause_pattern
+- **Object:** one-third run-off, most fatalities run-off (safety_pattern)
+- **Temporal:** 2018-2022
+- **Sources:** src_001
 
 > A third of the crashes and most of the deaths occurred when motorists left the roadway.
 
-### c_005 — attributed, primary document
-**Subject entities:** South Dakota Department of Transportation
-**Predicate:** set_goal
-**Object:** 50 percent crash rate reduction (project_goal)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** South Dakota Department of Transportation
+- **Predicate:** set_goal
+- **Object:** 50 percent crash rate reduction (project_goal)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > The DOT's goal is to cut the crash rate on the segment by 50 percent.
 
-### c_006 — confirmed, primary document
-**Subject entities:** Oftedal Construction; Miles City, Montana
-**Predicate:** is_contractor
-**Object:** U.S. 385 rebuild (contract)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Oftedal Construction; Miles City, Montana
+- **Predicate:** is_contractor
+- **Object:** U.S. 385 rebuild (contract)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > Construction is being performed by Oftedal Construction of Miles City, Montana.
 
-### c_007 — attributed, primary document
-**Subject entities:** Tim Wicks; South Dakota Department of Transportation
-**Predicate:** stated_project_status
-**Object:** on schedule, on budget, no major delays or injuries (project_status)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Tim Wicks; South Dakota Department of Transportation
+- **Predicate:** stated_project_status
+- **Object:** on schedule, on budget, no major delays or injuries (project_status)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > DOT engineer Tim Wicks said the project is on schedule and on budget as of January 2026, with no major delays or worker injuries reported.
 
-### c_008 — confirmed, primary document
-**Subject entities:** U.S. 385; Pactola Reservoir; Rapid City
-**Predicate:** road_closure
-**Object:** 40-mile detour through Rapid City (traffic_impact)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. 385; Pactola Reservoir; Rapid City
+- **Predicate:** road_closure
+- **Object:** 40-mile detour through Rapid City (traffic_impact)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > A full road closure south of Pactola Reservoir is currently in effect, requiring a 40-mile detour through Rapid City.
 
-### c_009 — attributed, primary document
-**Subject entities:** South Dakota Department of Transportation; U.S. 385; Sturgis Motorcycle Rally
-**Predicate:** milestone_goal
-**Object:** fully open for Sturgis Rally, 55 mph, smooth surface (project_milestone)
-**Temporal:** 2026-08
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** South Dakota Department of Transportation; U.S. 385; Sturgis Motorcycle Rally
+- **Predicate:** milestone_goal
+- **Object:** fully open for Sturgis Rally, 55 mph, smooth surface (project_milestone)
+- **Temporal:** 2026-08
+- **Sources:** src_001
 
 > The DOT's goal for 2026 is to have U.S. 385 fully open to traffic during the Sturgis Motorcycle Rally in early August, with smooth road surfaces and a 55 mph speed limit.
 
-### c_010 — attributed, primary document
-**Subject entities:** South Dakota
-**Predicate:** tourism_revenue
-**Object:** nearly $2 billion (economic_statistic)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** South Dakota
+- **Predicate:** tourism_revenue
+- **Object:** nearly $2 billion (economic_statistic)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > The regional tourism industry brought nearly $2 billion in revenue to South Dakota in 2024.
 
-### c_011 — attributed, primary document
-**Subject entities:** Kristen Kilcoin; Three Forks Campground; Hill City
-**Predicate:** stated_business_impact
-**Object:** tourists deterred by unpredictable closures and delays (business_impact)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Kristen Kilcoin; Three Forks Campground; Hill City
+- **Predicate:** stated_business_impact
+- **Object:** tourists deterred by unpredictable closures and delays (business_impact)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > Kristen Kilcoin, owner of Three Forks Campground at the US 385 and US 16 intersection south of Hill City, said some tourists were afraid to use the road due to unpredictable closures and pilot-car delays.
 
-### c_012 — attributed, primary document
-**Subject entities:** Kristen Kilcoin; Three Forks Campground
-**Predicate:** stated_economic_benefit
-**Object:** construction workers provide off-season revenue boost (economic_benefit)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Kristen Kilcoin; Three Forks Campground
+- **Predicate:** stated_economic_benefit
+- **Object:** construction workers provide off-season revenue boost (economic_benefit)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > Kilcoin said her campground is hosting U.S. 385 construction workers, providing a significant off-season revenue boost.
 
-### c_013 — confirmed, primary document
-**Subject entities:** U.S. 385; Sheridan Lake
-**Predicate:** geographic_extent
-**Object:** Sheridan Lake south to Pennington-Lawrence county line north (geographic)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_013
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. 385; Sheridan Lake
+- **Predicate:** geographic_extent
+- **Object:** Sheridan Lake south to Pennington-Lawrence county line north (geographic)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > The construction route runs from Sheridan Lake on the south to the Pennington-Lawrence county line on the north.
 
-### c_014 — attributed, primary document
-**Subject entities:** South Dakota Department of Transportation; U.S. 385
-**Predicate:** completion_timeline
-**Object:** construction complete 2026, final surfacing 2027 (project_timeline)
-**Temporal:** 2026/2027
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** South Dakota Department of Transportation; U.S. 385
+- **Predicate:** completion_timeline
+- **Object:** construction complete 2026, final surfacing 2027 (project_timeline)
+- **Temporal:** 2026/2027
+- **Sources:** src_001
 
 > The bulk of road construction and rebuilding is expected to be complete in 2026, with only final road surfacing continuing into 2027.
 
 ## Sources
 
-### src_001 — Associated Press / South Dakota News Watch, wire, Tier 1, originating
+### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Bart Pfankuch / South Dakota News Watch
 **Publication date:** 2026-01-09
-**Access date:** 2026-01-09
 **Title:** Moving mountains: Blasting and clawing toward a safer US 385 in South Dakota's central Black Hills
 **URL:** https://apnews.com/article/general-news-kristen-kilcoin-south-dakota-a183e45c38df0c99bf3f456182bfab2d
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

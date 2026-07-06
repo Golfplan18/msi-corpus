@@ -24,7 +24,8 @@ topic_tags:
   - government
   - health
   - politics
-storyline_nexus: []
+storyline_nexus:
+- trump-health-policy-rfk
 geographic_location: Washington, D.C. / Atlanta, Georgia
 floor_values_engaged:
 - value: informed_citizenship
@@ -315,7 +316,3 @@ The CDC nomination comes as scrutiny of the Health and Human Services Department
 **Access date:** 2026-04-17
 **Title:** Trump nominates Erica Schwartz to serve as CDC director
 **URL:** https://apnews.com/article/trump-cdc-director-schwartz-a6a4de89a7059e2cea8e8a8dafe87d34
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

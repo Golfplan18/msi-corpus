@@ -1,6 +1,5 @@
 ---
 headline: Sen. Kelly sues Pentagon over censure for video urging troops to resist unlawful orders
-slug: 2026-01-12-sen-kelly-sues-pentagon-over-censure-for-illegal-orders-video
 publish_date: '2026-01-12'
 lede: 'Democratic Sen. Mark Kelly of Arizona sued the Pentagon on Monday, seeking to block a censure issued by Defense Secretary Pete Hegseth and halt proceedings that could strip the retired Navy captain of his military rank and cut his retirement pay. Kelly, a former U.S. Navy pilot, filed the lawsuit in U.S. District Court in Washington, D.C., arguing that the Jan. 5 censure violated his First Amendment rights by punishing him for participating in a video that called on troops to refuse unlawful orders from the Trump administration.
 
@@ -18,45 +17,42 @@ primary_themes:
 - congressional oversight
 - executive power
 topic_tags:
-  - "crime, law and justice"
-  - "judiciary"
-  - "politics"
-  - "government policy"
+- civil rights
+- fundamental rights
+- government
+- law
+- political dissent
 storyline_nexus:
-  - ces-2026
-  - us-administration-2026
-  - trump-tariff-policy
-geographic_location: Washington, D.C.
+- trump-judicial-challenges
+geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
   intensity: 0.9
 - value: informed_citizenship
-  intensity: 0.85
-- value: truthfulness
-  intensity: 0.65
-framework_version: 1.1.0
-generation_timestamp: '2026-05-16T00:00:00Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:11:31Z'
 source_cluster_id: cluster_ap_2026-01-11_pentagon-kelly-hegseth-illegal-orders-la
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 18
   hedges:
     appears: 0
-    alleged: 0
     attributed: 6
-    reported: 1
-    contested: 0
+    alleged: 0
     confirmed: 11
+    contested: 0
+    reported: 1
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 5
     single_source: 13
+    primary_document: 5
+    primary_plus_secondary: 0
     two_independent: 0
+    one_originating_plus_primary_document: 0
 sources:
   count: 1
   outlets:
@@ -74,13 +70,16 @@ image:
   url: /articles/2026-01-12-sen-kelly-sues-pentagon-over-censure-for-video-urging-troops-to-resist-unlawful-.png
   alt: 'Illustration accompanying article: Sen. Kelly sues Pentagon over censure for video urging troops to resist unlawful orders'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-05-hegseth-censures-sen-kelly-over-video-urging-troops-to-resist-unlawful-orders
-  relation: continues
-  strength: 0.9243
-  confidence: high
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- Kelly asked the court to declare the censure, any rank-reduction proceedings, and all related punishments "unlawful and unconstitutional." U.S. District Judge Leon, nominated by Republican Presiden...
+- Kelly asked the court to declare the censure, any rank-reduction proceedings, and all related punishments "unlawful and unconstitutional." U.S. Distri
+- Kelly asked the court to declare the censure, any rank-reduction proceedings, and all related punishments "unlawful and unconstitutional." U.S. Distri
 
 Democratic Sen. Mark Kelly of Arizona sued the Pentagon on Monday, seeking to block a censure issued by Defense Secretary Pete Hegseth and halt proceedings that could strip the retired Navy captain of his military rank and cut his retirement pay. Kelly, a former U.S. Navy pilot, filed the lawsuit in U.S. District Court in Washington, D.C., arguing that the Jan. 5 censure violated his First Amendment rights by punishing him for participating in a video that called on troops to refuse unlawful orders from the Trump administration.
 
@@ -116,165 +115,201 @@ Trump had accused the six lawmakers of sedition "punishable by DEATH" in a socia
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Mark Kelly; Pentagon
-**Predicate:** filed_lawsuit_against
-**Object:** Pentagon (defendant)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Mark Kelly; Pentagon
+- **Predicate:** filed_lawsuit_against
+- **Object:** Pentagon (defendant)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Sen. Mark Kelly sued the Pentagon on Monday, Jan. 12, 2026.
 
-### c_002 — confirmed, primary document
-**Subject entities:** Mark Kelly
-**Predicate:** filed_in
-**Object:** U.S. District Court, Washington D.C. (court)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Mark Kelly
+- **Predicate:** filed_in
+- **Object:** U.S. District Court, Washington D.C. (court)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Kelly filed the lawsuit in U.S. District Court in Washington, D.C.
 
-### c_003 — confirmed, primary document
-**Subject entities:** Pete Hegseth; Mark Kelly
-**Predicate:** censured
-**Object:** formal censure letter (administrative_action)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Pete Hegseth; Mark Kelly
+- **Predicate:** censured
+- **Object:** formal censure letter (administrative_action)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > Defense Secretary Pete Hegseth issued a censure of Kelly on Jan. 5, 2026.
 
-### c_004 — attributed, single source
-**Subject entities:** Pete Hegseth
-**Predicate:** stated
-**Object:** necessary process step toward rank reduction and retirement pay proceedings (statement)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Pete Hegseth
+- **Predicate:** stated
+- **Object:** necessary process step toward rank reduction and retirement pay proceedings (statement)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Hegseth described the censure as 'a necessary process step' toward proceedings that could result in reducing Kelly's retired rank of captain and cutting his retirement pay.
 
-### c_005 — confirmed, single source
-**Subject entities:** Mark Kelly
-**Predicate:** is
-**Object:** former U.S. Navy pilot and U.S. Senator for Arizona (identity)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Mark Kelly
+- **Predicate:** is
+- **Object:** former U.S. Navy pilot and U.S. Senator for Arizona (identity)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Kelly is a former U.S. Navy pilot who represents Arizona in the Senate.
 
-### c_006 — confirmed, primary document
-**Subject entities:** Mark Kelly
-**Predicate:** requested
-**Object:** censure, rank proceedings, and punishments declared unlawful and unconstitutional (legal_relief)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Mark Kelly
+- **Predicate:** requested
+- **Object:** censure, rank proceedings, and punishments declared unlawful and unconstitutional (legal_relief)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Kelly's lawsuit asked the federal court to rule that the censure letter, rank proceedings, and any other punishments are 'unlawful and unconstitutional.'
 
-### c_007 — confirmed, single source
-**Subject entities:** Judge Leon; Mark Kelly
-**Predicate:** scheduled_hearing
-**Object:** hearing on temporary restraining order (court_proceeding)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Judge Leon; Mark Kelly
+- **Predicate:** scheduled_hearing
+- **Object:** hearing on temporary restraining order (court_proceeding)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > U.S. District Judge Leon, nominated by President George W. Bush, scheduled a hearing on Kelly's request for a temporary restraining order for Thursday in Washington.
 
-### c_008 — confirmed, single source
-**Subject entities:** Elissa Slotkin
-**Predicate:** posted
-**Object:** video urging troops to refuse unlawful orders (social_media_post)
-**Temporal:** 2025-11
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Elissa Slotkin
+- **Predicate:** posted
+- **Object:** video urging troops to refuse unlawful orders (social_media_post)
+- **Temporal:** 2025-11
+- **Sources:** src_001
 
 > The video was first posted on a social media account belonging to Sen. Elissa Slotkin.
 
-### c_009 — confirmed, single source
-**Subject entities:** Mark Kelly
-**Predicate:** participated_in
-**Object:** video calling on troops to uphold Constitution and refuse unlawful military directives (video)
-**Temporal:** 2025-11
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Mark Kelly
+- **Predicate:** participated_in
+- **Object:** video calling on troops to uphold Constitution and refuse unlawful military directives (video)
+- **Temporal:** 2025-11
+- **Sources:** src_001
 
 > Kelly participated in a November video in which six Democratic lawmakers who are veterans or former intelligence officials called on troops to uphold the Constitution and decline to follow military directives if they were unlawful.
 
-### c_010 — confirmed, single source
-**Subject entities:** Jason Crow; Chris Deluzio; Maggie Goodlander; Chrissy Houlahan
-**Predicate:** appeared_in
-**Object:** video urging troops to uphold Constitution and refuse unlawful orders (video)
-**Temporal:** 2025-11
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Jason Crow; Chris Deluzio; Maggie Goodlander; Chrissy Houlahan
+- **Predicate:** appeared_in
+- **Object:** video urging troops to uphold Constitution and refuse unlawful orders (video)
+- **Temporal:** 2025-11
+- **Sources:** src_001
 
 > Reps. Jason Crow, Chris Deluzio, Maggie Goodlander, and Chrissy Houlahan also appeared in the video.
 
-### c_011 — attributed, single source
-**Subject entities:** Donald Trump
-**Predicate:** accused
-**Object:** sedition punishable by DEATH (accusation)
-**Temporal:** 2025-11
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** accused
+- **Object:** sedition punishable by DEATH (accusation)
+- **Temporal:** 2025-11
+- **Sources:** src_001
 
 > Trump accused the lawmakers of sedition 'punishable by DEATH' in a social media post.
 
-### c_012 — confirmed, single source
-**Subject entities:** Pentagon; Mark Kelly
-**Predicate:** opened_investigation
-**Object:** investigation under federal law permitting recall of retired service members to active duty (investigation)
-**Temporal:** 2025-11
-**Source IDs:** src_001
+### c_012
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Pentagon; Mark Kelly
+- **Predicate:** opened_investigation
+- **Object:** investigation under federal law permitting recall of retired service members to active duty (investigation)
+- **Temporal:** 2025-11
+- **Sources:** src_001
 
 > The Pentagon opened an investigation of Kelly in late November, citing a federal law that allows retired service members to be recalled to active duty for possible court-martial.
 
-### c_013 — attributed, single source
-**Subject entities:** Pete Hegseth; Mark Kelly
-**Predicate:** stated
-**Object:** Kelly is only lawmaker under investigation due to formal military retirement and Pentagon jurisdiction (statement)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Pete Hegseth; Mark Kelly
+- **Predicate:** stated
+- **Object:** Kelly is only lawmaker under investigation due to formal military retirement and Pentagon jurisdiction (statement)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Hegseth said Kelly was the only lawmaker facing investigation because he is the only one who formally retired from the military and remains under the Pentagon's jurisdiction.
 
-### c_014 — confirmed, primary document
-**Subject entities:** Pete Hegseth; Defense Department; John Phelan; Navy
-**Predicate:** named_as_defendants
-**Object:** Kelly v. Hegseth et al. (lawsuit)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_014
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Pete Hegseth; Defense Department; John Phelan; Navy
+- **Predicate:** named_as_defendants
+- **Object:** Kelly v. Hegseth et al. (lawsuit)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Named defendants in the lawsuit include Hegseth, the Defense Department, Navy Secretary John Phelan, and the Navy.
 
-### c_015 — attributed, single source
-**Subject entities:** Pentagon
-**Predicate:** stated
-**Object:** aware of lawsuit; no comment on ongoing litigation (statement)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Pentagon
+- **Predicate:** stated
+- **Object:** aware of lawsuit; no comment on ongoing litigation (statement)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > The Pentagon said it was aware of the lawsuit but does not comment on ongoing litigation.
 
-### c_016 — reported, single source
-**Subject entities:** Pentagon
-**Predicate:** conducted_attacks
-**Object:** at least 115 (casualty_count)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_016
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Pentagon
+- **Predicate:** conducted_attacks
+- **Object:** at least 115 (casualty_count)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Pentagon attacks on suspected drug-smuggling boats in waters near Venezuela have killed at least 115 people.
 
-### c_017 — attributed, single source
-**Subject entities:** Mark Kelly
-**Predicate:** stated
-**Object:** standing up for rights of Americans who fought to defend our freedoms (statement)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_017
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Mark Kelly
+- **Predicate:** stated
+- **Object:** standing up for rights of Americans who fought to defend our freedoms (statement)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Kelly said he is 'standing up for the rights of the very Americans who fought to defend our freedoms.'
 
-### c_018 — attributed, single source
-**Subject entities:** Mark Kelly; Pete Hegseth
-**Predicate:** accused
-**Object:** suppressing dissent by threatening veterans with loss of rank and pay (accusation)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_018
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Mark Kelly; Pete Hegseth
+- **Predicate:** accused
+- **Object:** suppressing dissent by threatening veterans with loss of rank and pay (accusation)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Kelly accused Hegseth of trying to suppress dissent by threatening military veterans with loss of rank and pay.
 
@@ -283,10 +318,5 @@ Trump had accused the six lawmakers of sedition "punishable by DEATH" in a socia
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Michael Kunzelman
 **Publication date:** 2026-01-12
-**Access date:** 2026-01-12
 **Title:** Democratic Sen. Kelly sues the Pentagon
 **URL:** https://apnews.com/article/pentagon-kelly-hegseth-illegal-orders-lawsuit-9c6fe0ed8241f93211a0638a27bfe7d8
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -235,7 +235,3 @@ Umm al-Khair's plight was documented in the 2024 Oscar-winning film "No Other La
 **Access date:** 2026-05-17
 **Title:** Palestinians say Israel is using the Iran war to tighten its grip on the occupied West Bank
 **URL:** https://apnews.com/article/israel-palestinians-settlers-iran-war-1b781197257b532536edb8049d898b33
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

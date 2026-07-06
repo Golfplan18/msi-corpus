@@ -19,8 +19,7 @@ topic_tags:
   - politics
   - "government policy"
 storyline_nexus:
-  - us-administration-2026
-  - immigration-enforcement
+- us-immigration-enforcement
 geographic_location: Chicago, Illinois, United States
 floor_values_engaged:
 - value: informed_citizenship
@@ -123,97 +122,115 @@ The voting followed a familiar process. Submissions are made to the Chicago Shov
 
 The Associated Press sent requests for comment to ICE and its parent agency, the Department of Homeland Security, but received no response at the time of publication.
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** 'Abolish ICE'; Chicago snowplow-naming contest
-**Predicate:** won
-**Object:** snowplow-naming contest (civic_competition)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** 'Abolish ICE'; Chicago snowplow-naming contest
+- **Predicate:** won
+- **Object:** snowplow-naming contest (civic_competition)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > 'Abolish ICE' received the most votes in Chicago's 2026 snowplow-naming contest.
 
-### c_002 — reported, single source
-**Subject entities:** Operation Midway Blitz; U.S. Immigration and Customs Enforcement
-**Predicate:** resulted_in
-**Object:** 4,000+ arrests (enforcement_action)
-**Temporal:** 2025-09 start date
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Operation Midway Blitz; U.S. Immigration and Customs Enforcement
+- **Predicate:** resulted_in
+- **Object:** 4,000+ arrests (enforcement_action)
+- **Temporal:** 2025-09 start date
+- **Sources:** src_001
 
 > Operation Midway Blitz, Trump's immigration enforcement campaign, resulted in over 4,000 arrests starting in September 2025.
 
-### c_003 — reported, single source
-**Subject entities:** Operation Midway Blitz
-**Predicate:** involved
-**Object:** fatal shooting (incident)
-**Temporal:** 2025-09 to 2026-02
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Operation Midway Blitz
+- **Predicate:** involved
+- **Object:** fatal shooting (incident)
+- **Temporal:** 2025-09 to 2026-02
+- **Sources:** src_001
 
 > A fatal shooting occurred during Operation Midway Blitz immigration enforcement actions.
 
-### c_004 — confirmed, primary document
-**Subject entities:** Chicago voters; 2026 snowplow-naming contest
-**Predicate:** cast
-**Object:** 39,000 votes (voting_total)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Chicago voters; 2026 snowplow-naming contest
+- **Predicate:** cast
+- **Object:** 39,000 votes (voting_total)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > Chicago voters cast 39,000 votes in the 2026 snowplow-naming contest.
 
-### c_005 — confirmed, primary document
-**Subject entities:** 2026 snowplow-naming contest
-**Predicate:** received
-**Object:** 13,300 submissions (contest_participation)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** 2026 snowplow-naming contest
+- **Predicate:** received
+- **Object:** 13,300 submissions (contest_participation)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > The contest received 13,300 plow-name submissions.
 
-### c_006 — confirmed, primary document
-**Subject entities:** 2026 snowplow-naming contest
-**Predicate:** included_winning_names
-**Object:** Stephen Coldbert, Pope Frio XIV, Blizzard of Oz, Svencoolie, Caleb Chilliams (contest_entries)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** 2026 snowplow-naming contest
+- **Predicate:** included_winning_names
+- **Object:** Stephen Coldbert, Pope Frio XIV, Blizzard of Oz, Svencoolie, Caleb Chilliams (contest_entries)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > Other winning snowplow names included 'Stephen Coldbert,' 'Pope Frio XIV,' 'Blizzard of Oz,' 'Svencoolie,' and 'Caleb Chilliams.'
 
-### c_007 — attributed, primary document
-**Subject entities:** Brandon Johnson
-**Predicate:** said
-**Object:** unmatched creativity, sense of humor, and civic pride (speech_act)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Brandon Johnson
+- **Predicate:** said
+- **Object:** unmatched creativity, sense of humor, and civic pride (speech_act)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > Mayor Brandon Johnson said voters demonstrated 'unmatched creativity, sense of humor, and civic pride.'
 
-### c_008 — confirmed, primary document
-**Subject entities:** Chicago Department of Streets and Sanitation
-**Predicate:** maintains
-**Object:** 300 trucks clearing 9,400 miles (infrastructure_asset)
-**Temporal:** 2026-02-24
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Chicago Department of Streets and Sanitation
+- **Predicate:** maintains
+- **Object:** 300 trucks clearing 9,400 miles (infrastructure_asset)
+- **Temporal:** 2026-02-24
+- **Sources:** src_001
 
 > Chicago's Department of Streets and Sanitation maintains 300 trucks to clear 9,400 miles of streets.
 
-### c_009 — confirmed, primary document
-**Subject entities:** Chicago snowplow-naming contest
-**Predicate:** is_edition
-**Object:** fourth year (annual_iteration)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Chicago snowplow-naming contest
+- **Predicate:** is_edition
+- **Object:** fourth year (annual_iteration)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > The snowplow-naming contest is in its fourth year.
 
-### c_010 — attributed, primary document
-**Subject entities:** Chicago city spokesperson
-**Predicate:** said
-**Object:** 'runaway winner,' people 'have no issue with the name' (speech_act)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Chicago city spokesperson
+- **Predicate:** said
+- **Object:** 'runaway winner,' people 'have no issue with the name' (speech_act)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > A city spokesperson said 'Abolish ICE' was a 'runaway winner' and that 'the people of Chicago clearly have no issue with the name.'
 
@@ -225,7 +242,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-02-24
 **Title:** 'Abolish ICE' wins Chicago's snowplow-naming contest
 **URL:** https://apnews.com/article/abolish-ice-chicago-snowplows-name-contest-829790b38ca68b1c521b351095491562
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

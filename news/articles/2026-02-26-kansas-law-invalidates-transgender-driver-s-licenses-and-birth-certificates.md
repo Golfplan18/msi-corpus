@@ -18,7 +18,8 @@ primary_themes:
 topic_tags:
   - government
   - politics
-storyline_nexus: []
+storyline_nexus:
+- lgbtq-rights-restrictions
 geographic_location: Kansas, United States
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -125,160 +126,192 @@ A lawsuit led to state court decisions that last year permitted driver's license
 
 Legislators in at least seven other states are considering bills to prevent transgender people from changing one or both government documents, according to bill-tracking software. But none of those proposed measures would reverse changes already made, according to the analysis.
 
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the Associated Press wire source listed above. Framework specification: /methodology. Human review: not triggered. Released under CC0 — public domain.*
-
 ## Atomic claims
 
-### c_001 — reported, primary document
-**Subject entities:** Kansas legislature; Transgender residents
-**Predicate:** invalidate
-**Object:** ~1,700 driver's licenses (government_documents)
-**Temporal:** 2026-02-26
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Kansas legislature; Transgender residents
+- **Predicate:** invalidate
+- **Object:** ~1,700 driver's licenses (government_documents)
+- **Temporal:** 2026-02-26
+- **Sources:** src_001
 
 > A new law will invalidate approximately 1,700 driver's licenses held by transgender residents in Kansas.
 
-### c_002 — reported, primary document
-**Subject entities:** Kansas legislature; Transgender residents
-**Predicate:** invalidate
-**Object:** ~1,800 birth certificates (government_documents)
-**Temporal:** 2026-02-26
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Kansas legislature; Transgender residents
+- **Predicate:** invalidate
+- **Object:** ~1,800 birth certificates (government_documents)
+- **Temporal:** 2026-02-26
+- **Sources:** src_001
 
 > The law will invalidate approximately 1,800 birth certificates for transgender residents.
 
-### c_003 — confirmed, primary document
-**Subject entities:** Kansas law
-**Predicate:** takes_effect
-**Object:** 2026-02-26 (date)
-**Temporal:** 2026-02-26
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Kansas law
+- **Predicate:** takes_effect
+- **Object:** 2026-02-26 (date)
+- **Temporal:** 2026-02-26
+- **Sources:** src_001
 
 > The law takes effect Thursday, February 26, 2026.
 
-### c_004 — confirmed, primary document
-**Subject entities:** Kansas law
-**Predicate:** prohibit_invalidate
-**Object:** Listing gender identity other than assigned at birth (policy_restriction)
-**Temporal:** 2026-02-26
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Kansas law
+- **Predicate:** prohibit_invalidate
+- **Object:** Listing gender identity other than assigned at birth (policy_restriction)
+- **Temporal:** 2026-02-26
+- **Sources:** src_001
 
 > The law prohibits documents from listing any sex other than the one assigned at birth and invalidates documents that reflect a conflicting gender identity.
 
-### c_005 — attributed, primary document
-**Subject entities:** Kansas
-**Predicate:** first_state_to_reverse
-**Object:** Previously-approved gender identity changes (government_policy)
-**Temporal:** 2026-02-26
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Kansas
+- **Predicate:** first_state_to_reverse
+- **Object:** Previously-approved gender identity changes (government_policy)
+- **Temporal:** 2026-02-26
+- **Sources:** src_001
 
 > Kansas is the first state to require reversing changes previously made for transgender residents' gender identity in government documents.
 
-### c_006 — confirmed, primary document
-**Subject entities:** Laura Kelly; Kansas Legislature
-**Predicate:** veto_override
-**Object:** Veto of transgender identity law (legislative_action)
-**Temporal:** 2026-02-22
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Laura Kelly; Kansas Legislature
+- **Predicate:** veto_override
+- **Object:** Veto of transgender identity law (legislative_action)
+- **Temporal:** 2026-02-22
+- **Sources:** src_001
 
 > Governor Laura Kelly, a Democrat, vetoed the measure, but the Legislature's Republican supermajorities overrode the veto.
 
-### c_007 — attributed, single source
-**Subject entities:** Florida; Tennessee; Texas
-**Predicate:** prohibit
-**Object:** Gender identity on driver's licenses (government_policy)
-**Temporal:** 2026-02-22
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Florida; Tennessee; Texas
+- **Predicate:** prohibit
+- **Object:** Gender identity on driver's licenses (government_policy)
+- **Temporal:** 2026-02-22
+- **Sources:** src_001
 
 > Florida, Tennessee and Texas do not allow driver's licenses to reflect a transgender person's gender identity.
 
-### c_008 — attributed, single source
-**Subject entities:** Eight U.S. states
-**Predicate:** bar
-**Object:** Birth certificate sex marker changes (government_policy)
-**Temporal:** 2026-02-22
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Eight U.S. states
+- **Predicate:** bar
+- **Object:** Birth certificate sex marker changes (government_policy)
+- **Temporal:** 2026-02-22
+- **Sources:** src_001
 
 > At least eight states besides Kansas have policies barring transgender residents from changing their birth certificates.
 
-### c_009 — reported, single source
-**Subject entities:** Transgender people
-**Predicate:** report_harms
-**Object:** Harassment, violence, intrusive questions (documented_harms)
-**Temporal:** 2026-02-22
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Transgender people
+- **Predicate:** report_harms
+- **Object:** Harassment, violence, intrusive questions (documented_harms)
+- **Temporal:** 2026-02-22
+- **Sources:** src_001
 
 > Transgender people have said that carrying IDs that misgender them opens them to intrusive questions, harassment and even violence when they show it to police, merchants, and others.
 
-### c_010 — attributed, single source
-**Subject entities:** Kansas Republicans
-**Predicate:** enact_definition
-**Object:** Legal definition of sex by biological reproductive system at birth (legislation)
-**Temporal:** 2023-01-01
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Kansas Republicans
+- **Predicate:** enact_definition
+- **Object:** Legal definition of sex by biological reproductive system at birth (legislation)
+- **Temporal:** 2023-01-01
+- **Sources:** src_001
 
 > In 2023, Kansas Republicans halted changes in birth certificates and driver's licenses by enacting a measure legally defining male and female by a person's biological reproductive system at birth.
 
-### c_011 — reported, single source
-**Subject entities:** Kansas state courts
-**Predicate:** permit
-**Object:** Resumption of driver's license gender marker changes (court_ruling)
-**Temporal:** 2025-01-01
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Kansas state courts
+- **Predicate:** permit
+- **Object:** Resumption of driver's license gender marker changes (court_ruling)
+- **Temporal:** 2025-01-01
+- **Sources:** src_001
 
 > A lawsuit led to state court decisions last year that permitted driver's license changes to resume.
 
-### c_012 — reported, single source
-**Subject entities:** Seven state legislatures
-**Predicate:** considering
-**Object:** Bills restricting document changes (legislative_activity)
-**Temporal:** 2026-02-22
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Seven state legislatures
+- **Predicate:** considering
+- **Object:** Bills restricting document changes (legislative_activity)
+- **Temporal:** 2026-02-22
+- **Sources:** src_001
 
 > Legislators in at least seven other states are considering bills to prevent transgender people from changing one or both government documents.
 
-### c_013 — confirmed, single source
-**Subject entities:** Kansas Legislature
-**Predicate:** allocate_cost
-**Object:** $26 per standard driver's license (financial_burden)
-**Temporal:** 2026-02-26
-**Source IDs:** src_001
+### c_013
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Kansas Legislature
+- **Predicate:** allocate_cost
+- **Object:** $26 per standard driver's license (financial_burden)
+- **Temporal:** 2026-02-26
+- **Sources:** src_001
 
 > The Legislature has not earmarked funds to cover the cost of new identification documents, so each person will pay $26 for a standard license.
 
-### c_014 — attributed, primary document
-**Subject entities:** Abi Boatman; Kansas Republicans
-**Predicate:** said
-**Object:** Vanguard of culture war, race to the bottom (attributed_statement)
-**Temporal:** 2026-02-22
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Abi Boatman; Kansas Republicans
+- **Predicate:** said
+- **Object:** Vanguard of culture war, race to the bottom (attributed_statement)
+- **Temporal:** 2026-02-22
+- **Sources:** src_001
 
 > Democratic state Rep. Abi Boatman said the law tells her that Kansas Republicans are interested in being on the vanguard of the culture war and in a race to the bottom.
 
-### c_015 — attributed, primary document
-**Subject entities:** Chase Blasi
-**Predicate:** said
-**Object:** Two sexes as basic biology (attributed_statement)
-**Temporal:** 2026-02-22
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Chase Blasi
+- **Predicate:** said
+- **Object:** Two sexes as basic biology (attributed_statement)
+- **Temporal:** 2026-02-22
+- **Sources:** src_001
 
 > Kansas Senate Majority Leader Chase Blasi said that when he goes home, people believe there are just two sexes, male and female, which he described as basic biology.
 
-### c_016 — attributed, single source
-**Subject entities:** Kansas state government
-**Predicate:** ban_bar
-**Object:** Gender-affirming care; transgender athletes in female sports (state_policy)
-**Temporal:** 2026-02-22
-**Source IDs:** src_001
+### c_016
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Kansas state government
+- **Predicate:** ban_bar
+- **Object:** Gender-affirming care; transgender athletes in female sports (state_policy)
+- **Temporal:** 2026-02-22
+- **Sources:** src_001
 
 > Kansas bans gender-affirming care for minors and bars transgender women and girls from female sports teams, kindergarten through college.
 
-### c_017 — attributed, single source
-**Subject entities:** Kansas state government; Transgender people
-**Predicate:** restrict_access
-**Object:** Single-sex facilities access (state_policy)
-**Temporal:** 2026-02-22
-**Source IDs:** src_001
+### c_017
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Kansas state government; Transgender people
+- **Predicate:** restrict_access
+- **Object:** Single-sex facilities access (state_policy)
+- **Temporal:** 2026-02-22
+- **Sources:** src_001
 
 > Transgender people cannot use public restrooms, locker rooms or other single-sex facilities associated with their gender identities in Kansas.
 
@@ -290,7 +323,3 @@ Legislators in at least seven other states are considering bills to prevent tran
 **Access date:** 2026-02-22
 **Title:** New law puts Kansas at vanguard of denying trans identities on IDs
 **URL:** https://apnews.com/article/transgender-rights-drivers-licenses-birth-certificates-bathrooms-3048b856b81d24553efd9da4aaa94bc7
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -18,44 +18,42 @@ primary_themes:
 - Antarctic warming
 - phenological mismatch
 topic_tags:
-  - "climate change"
-  - "conflict, war and peace"
-  - conservation
-  - environment
-  - government
-  - "international relations"
-storyline_nexus: []
-geographic_location: Antarctic
+- climate change
+- environment
+- conservation
+- natural science
+- scientific research
+storyline_nexus:
+- extreme-weather-disasters
+geographic_location: United States
 floor_values_engaged:
-- value: human_life_and_dignity
-  intensity: 0.65
 - value: truthfulness
-  intensity: 0.95
+  intensity: 0.9
 - value: informed_citizenship
-  intensity: 0.7
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T04:27:12Z'
 source_cluster_id: cluster_ap_2026-01-21_penguin-climate-antarctica-breeding-earl
 gdelt_event_ids: []
-consensus_floor_version: '1.0'
-publication_mindspec_version: '1.0'
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 17
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 5
     reported: 12
-    contested: 0
     confirmed: 0
+    attributed: 5
+    contested: 0
+    alleged: 0
+    appears: 0
   corroboration:
-    primary_plus_secondary: 0
+    single_source: 17
     one_originating_plus_primary_document: 0
     primary_document: 0
-    single_source: 17
     two_independent: 0
+    primary_plus_secondary: 0
 sources:
   count: 1
   outlets:
@@ -73,21 +71,15 @@ image:
   url: /articles/2026-01-20-antarctic-penguins-breeding-earlier-as-climate-warms-threatening-extinction.png
   alt: 'Illustration accompanying article: Antarctic penguins breeding earlier as climate warms, threatening extinction'
   source: ai_generated
-cross_article_links:
-- slug: 2026-04-17-wildfire-burning-season-extends-36-in-north-america-due-to-climate-change
-  relation: related
-  strength: 0.6812
-  confidence: medium
-- slug: 2026-01-05-north-atlantic-right-whales-record-15-calves-this-winter-but-extinction-threat-p
-  relation: related
-  strength: 0.7753
-  confidence: medium
-- slug: 2025-12-29-2025-ranks-among-the-three-hottest-years-on-record-researchers-say
-  relation: related
-  strength: 0.7329
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- Warming Antarctic is shifting penguin breeding and stressing two species
+- Associated Press reports on developing situation.
 
 Three Antarctic penguin species are breeding about two weeks earlier than they did a decade ago, driven by rapid warming in one of the world's fastest-heating regions, researchers reported this week. For two of the species — the chinstrap and Adelie penguins — the timing shift threatens their survival as rising temperatures disrupt the food supply their chicks depend on.
 
@@ -121,160 +113,192 @@ Researchers used a network of 77 remote-control cameras deployed across dozens o
 
 Michelle LaRue, a professor of Antarctic marine science at the University of Canterbury in New Zealand who was not part of the study, said the findings warrant close monitoring. "This shift in breeding timing is an interesting signal of change and now it's important to continue observing these penguin populations to see if these changes have negative impacts on their populations," she said.
 
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework. [Read the methodology.](/methodology) The source material, editorial standards, and AI framework specification are public artifacts released under CC0.*
-
 ## Atomic claims
 
-### c_001 — reported, single source
-**Subject entities:** Adelie penguin; chinstrap penguin; gentoo penguin
-**Predicate:** breeding_timing_shift
-**Object:** ~2 weeks earlier (temporal_shift)
-**Temporal:** 2011-2021
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Adelie penguin; chinstrap penguin; gentoo penguin
+- **Predicate:** breeding_timing_shift
+- **Object:** ~2 weeks earlier (temporal_shift)
+- **Temporal:** 2011-2021
+- **Sources:** src_001
 
 > Three Antarctic penguin species are breeding approximately two weeks earlier than in the previous decade.
 
-### c_002 — reported, single source
-**Subject entities:** Antarctic breeding grounds
-**Predicate:** temperature_increase
-**Object:** 5.4°F (3°C) (temperature_change)
-**Temporal:** 2012-2022
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Antarctic breeding grounds
+- **Predicate:** temperature_increase
+- **Object:** 5.4°F (3°C) (temperature_change)
+- **Temporal:** 2012-2022
+- **Sources:** src_001
 
 > Antarctic breeding ground temperatures rose 5.4 degrees Fahrenheit (3 degrees Celsius) from 2012 to 2022.
 
-### c_003 — attributed, single source
-**Subject entities:** penguin species
-**Predicate:** fastest_documented_life_cycle_shift
-**Object:** fastest among vertebrates (biological_record)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** penguin species
+- **Predicate:** fastest_documented_life_cycle_shift
+- **Object:** fastest among vertebrates (biological_record)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > The shift in penguin breeding timing is the fastest change in life-cycle timing for any vertebrate species ever documented.
 
-### c_004 — attributed, single source
-**Subject entities:** great tit; penguin species
-**Predicate:** breeding_timing_shift_duration_comparison
-**Object:** 75 years vs 10 years (temporal_comparison)
-**Temporal:** historical
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** great tit; penguin species
+- **Predicate:** breeding_timing_shift_duration_comparison
+- **Object:** 75 years vs 10 years (temporal_comparison)
+- **Temporal:** historical
+- **Sources:** src_001
 
 > A similar two-week breeding timing shift in great tits took 75 years, compared to 10 years for the Antarctic penguin species.
 
-### c_005 — reported, single source
-**Subject entities:** Adelie penguin; chinstrap penguin
-**Predicate:** diet_specialization
-**Object:** mainly krill (diet)
-**Temporal:** ongoing
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Adelie penguin; chinstrap penguin
+- **Predicate:** diet_specialization
+- **Object:** mainly krill (diet)
+- **Temporal:** ongoing
+- **Sources:** src_001
 
 > Adelie and chinstrap penguins are specialists that eat mainly krill.
 
-### c_006 — reported, single source
-**Subject entities:** gentoo penguin
-**Predicate:** diet_diversity
-**Object:** more varied diet (diet_type)
-**Temporal:** ongoing
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** gentoo penguin
+- **Predicate:** diet_diversity
+- **Object:** more varied diet (diet_type)
+- **Temporal:** ongoing
+- **Sources:** src_001
 
 > Gentoo penguins have a more varied diet than Adelies and chinstraps.
 
-### c_007 — reported, single source
-**Subject entities:** Adelie penguin; chinstrap penguin; gentoo penguin
-**Predicate:** historical_breeding_timing_separation
-**Object:** temporal separation, no overlap (behavioral_pattern)
-**Temporal:** historical
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Adelie penguin; chinstrap penguin; gentoo penguin
+- **Predicate:** historical_breeding_timing_separation
+- **Object:** temporal separation, no overlap (behavioral_pattern)
+- **Temporal:** historical
+- **Sources:** src_001
 
 > Adelie, chinstrap, and gentoo penguins previously bred at different times, avoiding competition for food and nesting sites.
 
-### c_008 — reported, single source
-**Subject entities:** gentoo penguin; Adelie penguin; chinstrap penguin
-**Predicate:** differential_breeding_shift
-**Object:** gentoo breeding shift faster, creating temporal overlap (behavioral_shift)
-**Temporal:** 2011-2021
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** gentoo penguin; Adelie penguin; chinstrap penguin
+- **Predicate:** differential_breeding_shift
+- **Object:** gentoo breeding shift faster, creating temporal overlap (behavioral_shift)
+- **Temporal:** 2011-2021
+- **Sources:** src_001
 
 > Gentoo penguin breeding has shifted earlier faster than Adelie and chinstrap breeding, creating overlap in breeding times.
 
-### c_009 — reported, single source
-**Subject entities:** gentoo penguin
-**Predicate:** competitive_aggressiveness
-**Object:** greater aggressiveness in food acquisition and nesting (behavioral_trait)
-**Temporal:** ongoing
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** gentoo penguin
+- **Predicate:** competitive_aggressiveness
+- **Object:** greater aggressiveness in food acquisition and nesting (behavioral_trait)
+- **Temporal:** ongoing
+- **Sources:** src_001
 
 > Gentoo penguins are more aggressive than Adelies and chinstraps in finding food and establishing nesting areas.
 
-### c_010 — attributed, single source
-**Subject entities:** Adelie penguin nest; gentoo penguin nest
-**Predicate:** nest_displacement
-**Object:** Adelie nests replaced by gentoo nests (ecological_shift)
-**Temporal:** recent
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Adelie penguin nest; gentoo penguin nest
+- **Predicate:** nest_displacement
+- **Object:** Adelie nests replaced by gentoo nests (ecological_shift)
+- **Temporal:** recent
+- **Sources:** src_001
 
 > In Antarctic penguin colonies, Adelie nests have been replaced by gentoo nests in recent years.
 
-### c_011 — attributed, single source
-**Subject entities:** chinstrap penguin
-**Predicate:** population_decline_extinction_risk
-**Object:** extinction possible before 2100 (extinction_risk_assessment)
-**Temporal:** now / 2100 projection
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** chinstrap penguin
+- **Predicate:** population_decline_extinction_risk
+- **Object:** extinction possible before 2100 (extinction_risk_assessment)
+- **Temporal:** now / 2100 projection
+- **Sources:** src_001
 
 > Chinstrap penguin populations are declining globally; models show they might face extinction before the end of the century.
 
-### c_012 — attributed, single source
-**Subject entities:** Adelie penguin; Antarctic Peninsula
-**Predicate:** population_decline_regional_extinction_risk
-**Object:** extinction likely in Antarctic Peninsula by 2100 (regional_extinction_risk)
-**Temporal:** now / 2100 projection
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Adelie penguin; Antarctic Peninsula
+- **Predicate:** population_decline_regional_extinction_risk
+- **Object:** extinction likely in Antarctic Peninsula by 2100 (regional_extinction_risk)
+- **Temporal:** now / 2100 projection
+- **Sources:** src_001
 
 > Adelie penguins are doing poorly in the Antarctic Peninsula; extinction is likely there before the end of the century.
 
-### c_013 — reported, single source
-**Subject entities:** Antarctic warming; phytoplankton
-**Predicate:** climate_ecosystem_cascade
-**Object:** earlier bloom accelerates food chain timing (ecological_mechanism)
-**Temporal:** seasonal
-**Source IDs:** src_001
+### c_013
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Antarctic warming; phytoplankton
+- **Predicate:** climate_ecosystem_cascade
+- **Object:** earlier bloom accelerates food chain timing (ecological_mechanism)
+- **Temporal:** seasonal
+- **Sources:** src_001
 
 > Earlier warming in western Antarctica triggers earlier phytoplankton blooms, accelerating the food chain.
 
-### c_014 — reported, single source
-**Subject entities:** commercial fishing; penguin food supply
-**Predicate:** fishing_timing_shift_impact
-**Object:** earlier fishing reduces penguin food availability (human_activity_impact)
-**Temporal:** ongoing
-**Source IDs:** src_001
+### c_014
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** commercial fishing; penguin food supply
+- **Predicate:** fishing_timing_shift_impact
+- **Object:** earlier fishing reduces penguin food availability (human_activity_impact)
+- **Temporal:** ongoing
+- **Sources:** src_001
 
 > Commercial fishing has shifted earlier in response to ecosystem changes, further reducing the food supply available to penguins.
 
-### c_015 — reported, single source
-**Subject entities:** Oxford researchers; remote camera network
-**Predicate:** research_methodology
-**Object:** 77 cameras, multiple colonies, 10-year period (study_design)
-**Temporal:** 2011-2021
-**Source IDs:** src_001
+### c_015
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Oxford researchers; remote camera network
+- **Predicate:** research_methodology
+- **Object:** 77 cameras, multiple colonies, 10-year period (study_design)
+- **Temporal:** 2011-2021
+- **Sources:** src_001
 
 > Researchers used 77 remote-control cameras deployed across dozens of penguin colonies from 2011 to 2021 to track breeding timing changes.
 
-### c_016 — reported, single source
-**Subject entities:** Penguin Watch project; public citizens
-**Predicate:** citizen_science_contribution
-**Object:** 9+ million images annotated (data_contribution_volume)
-**Temporal:** 2011-2021
-**Source IDs:** src_001
+### c_016
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Penguin Watch project; public citizens
+- **Predicate:** citizen_science_contribution
+- **Object:** 9+ million images annotated (data_contribution_volume)
+- **Temporal:** 2011-2021
+- **Sources:** src_001
 
 > Over 9 million images from the Penguin Watch citizen science project were annotated by the public.
 
-### c_017 — reported, single source
-**Subject entities:** Journal of Animal Ecology
-**Predicate:** study_publication
-**Object:** peer-reviewed publication in Journal of Animal Ecology (publication_record)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_017
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Journal of Animal Ecology
+- **Predicate:** study_publication
+- **Object:** peer-reviewed publication in Journal of Animal Ecology (publication_record)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > The penguin breeding study was published in the Journal of Animal Ecology on January 20, 2026.
 
@@ -283,10 +307,5 @@ Michelle LaRue, a professor of Antarctic marine science at the University of Can
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Seth Borenstein
 **Publication date:** 2026-01-20
-**Access date:** 2026-05-18
 **Title:** Warming Antarctic is shifting penguin breeding and stressing two species
 **URL:** https://apnews.com/article/penguin-climate-antarctica-breeding-early-problem-2e97598207700506b3266c73934d0368
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

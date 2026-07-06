@@ -17,8 +17,7 @@ topic_tags:
   - "economy, business and finance"
   - "international trade"
 storyline_nexus:
-  - immigration-enforcement
-  - us-china-relations
+- epstein-investigation-fallout
 geographic_location: United Kingdom
 floor_values_engaged:
 - value: accountability_of_power
@@ -216,7 +215,3 @@ The arrest and ongoing investigation will test whether the British monarchy can 
 **Access date:** 2026-05-17
 **Title:** A look at some of the scandals that shook Britain's monarchy
 **URL:** https://apnews.com/article/britain-royals-andrew-scandals-b43e0213bebc460001d0a1a0ff84eab3
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

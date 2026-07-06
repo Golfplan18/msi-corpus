@@ -14,37 +14,44 @@ primary_themes:
 - railroad_industry
 - merger_impact
 topic_tags:
-  - "economy, business and finance"
-storyline_nexus: []
+- economy, business and finance
+- transport
+- employment
+- labour market
+- market and exchange
+storyline_nexus:
+- us-economic-volatility
 geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.8
+- value: human_life_and_dignity
+  intensity: 0.3
+- value: truthfulness
+  intensity: 0.3
 - value: accountability_of_power
-  intensity: 0.5
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+  intensity: 0.3
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:20:57Z'
 source_cluster_id: cluster_ap_2026-01-23_earnings-csx-railroad-fourth-quarter-pro
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 13
   hedges:
-    appears: 1
-    alleged: 0
-    attributed: 2
-    reported: 10
     contested: 0
     confirmed: 0
+    reported: 10
+    attributed: 2
+    appears: 1
+    alleged: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 0
     single_source: 13
+    primary_document: 0
+    one_originating_plus_primary_document: 0
     two_independent: 0
+    primary_plus_secondary: 0
 sources:
   count: 1
   outlets:
@@ -58,13 +65,18 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-12-allegiant-air-to-acquire-sun-country-airlines-in-1-5-billion-leisure-travel-merg
-  relation: related
-  strength: 0.7139
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- CSX's fourth-quarter profit fell 2% to $720 million as weak shipping demand and severance costs from recent layoffs pressured results, the Jacksonville-based railroad said Thursday.
+- CSX's cautious outlook reflects pressure from a possible reshaping of the railroad industry.
+- CSX railroad profit fell 2% in the fourth quarter as shipping demand remained weak and severance costs from recent layoffs weighed on results.
+- "This has been a challenging year for CSX and for our industry overall, with subdued demand and limited growth opportunities," CEO Steve Angel said.
 
 CSX's fourth-quarter profit fell 2% to $720 million as weak shipping demand and severance costs from recent layoffs pressured results, the Jacksonville-based railroad said Thursday. The carrier earned 39 cents per share, up from 38 cents the year before, though results faced about $50 million in one-time costs tied to CEO Steve Angel's workforce reductions last fall.
 
@@ -98,120 +110,146 @@ The tunnel work allows CSX to begin hauling metal shipping containers stacked tw
 
 ## Atomic claims
 
-### c_001 — reported, single source
-**Subject entities:** CSX
-**Predicate:** reported_earnings
-**Object:** $720 million (currency)
-**Temporal:** 2025-Q4
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** CSX
+- **Predicate:** reported_earnings
+- **Object:** $720 million (currency)
+- **Temporal:** 2025-Q4
+- **Sources:** src_001
 
 > CSX's fourth-quarter profit fell 2% to $720 million.
 
-### c_002 — reported, single source
-**Subject entities:** CSX
-**Predicate:** reported_earnings_per_share
-**Object:** 39 cents vs 38 cents (financial_metric)
-**Temporal:** 2025-Q4
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** CSX
+- **Predicate:** reported_earnings_per_share
+- **Object:** 39 cents vs 38 cents (financial_metric)
+- **Temporal:** 2025-Q4
+- **Sources:** src_001
 
 > CSX earned 39 cents per share, up from 38 cents per share a year earlier.
 
-### c_003 — attributed, single source
-**Subject entities:** CSX; Steve Angel
-**Predicate:** incurred_severance_costs
-**Object:** $50 million (currency)
-**Temporal:** 2025-Q4
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** CSX; Steve Angel
+- **Predicate:** incurred_severance_costs
+- **Object:** $50 million (currency)
+- **Temporal:** 2025-Q4
+- **Sources:** src_001
 
 > Results were weighed down by about $50 million in one-time severance costs from CEO layoffs.
 
-### c_004 — reported, single source
-**Subject entities:** CSX
-**Predicate:** reported_revenue
-**Object:** $3.51 billion (currency)
-**Temporal:** 2025-Q4
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** CSX
+- **Predicate:** reported_revenue
+- **Object:** $3.51 billion (currency)
+- **Temporal:** 2025-Q4
+- **Sources:** src_001
 
 > CSX revenue slipped 1% to $3.51 billion in the quarter.
 
-### c_005 — attributed, single source
-**Subject entities:** Steve Angel; CSX
-**Predicate:** characterized_market_conditions
-**Object:** subdued demand and limited growth opportunities (market_assessment)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Steve Angel; CSX
+- **Predicate:** characterized_market_conditions
+- **Object:** subdued demand and limited growth opportunities (market_assessment)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > CEO Steve Angel cited subdued demand and limited growth opportunities as challenges.
 
-### c_006 — appears, single source
-**Subject entities:** Union Pacific; Norfolk Southern
-**Predicate:** would_control_if_approved
-**Object:** nearly 50% of all freight (market_share)
-**Temporal:** future_conditional
-**Source IDs:** src_001
+### c_006
+- **Hedge:** appears
+- **Corroboration:** single_source
+- **Subject entities:** Union Pacific; Norfolk Southern
+- **Predicate:** would_control_if_approved
+- **Object:** nearly 50% of all freight (market_share)
+- **Temporal:** future_conditional
+- **Sources:** src_001
 
 > The proposed Union Pacific–Norfolk Southern merger could control nearly half of all freight.
 
-### c_007 — reported, single source
-**Subject entities:** CSX
-**Predicate:** provided_guidance
-**Object:** low single-digit revenue growth (forecast)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** CSX
+- **Predicate:** provided_guidance
+- **Object:** low single-digit revenue growth (forecast)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > CSX expects revenue growth in the low single digits in 2026.
 
-### c_008 — reported, single source
-**Subject entities:** CSX
-**Predicate:** withdrew_guidance
-**Object:** 2027 targets (corporate_guidance)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** CSX
+- **Predicate:** withdrew_guidance
+- **Object:** 2027 targets (corporate_guidance)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > CSX withdrew previously issued targets for 2027.
 
-### c_009 — reported, single source
-**Subject entities:** CSX
-**Predicate:** completed_infrastructure_projects
-**Object:** Baltimore tunnel renovation, Hurricane Helene repairs (construction_project)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** CSX
+- **Predicate:** completed_infrastructure_projects
+- **Object:** Baltimore tunnel renovation, Hurricane Helene repairs (construction_project)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > CSX completed a major tunnel renovation in Baltimore and repairs from Hurricane Helene.
 
-### c_010 — reported, single source
-**Subject entities:** CSX
-**Predicate:** reported_operational_metrics
-**Object:** 19.6 mph average speed, 87% on-time delivery (operational_performance)
-**Temporal:** 2025-Q4
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** CSX
+- **Predicate:** reported_operational_metrics
+- **Object:** 19.6 mph average speed, 87% on-time delivery (operational_performance)
+- **Temporal:** 2025-Q4
+- **Sources:** src_001
 
 > CSX raised its trains' average speed to 19.6 mph in the fourth quarter while delivering 87% of shipments on time.
 
-### c_011 — reported, single source
-**Subject entities:** CSX
-**Predicate:** announced_service_expansion
-**Object:** double-stacked container service (service_offering)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** CSX
+- **Predicate:** announced_service_expansion
+- **Object:** double-stacked container service (service_offering)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > CSX plans to begin hauling metal shipping containers stacked two high across its network in 2026.
 
-### c_012 — reported, single source
-**Subject entities:** Norfolk Southern
-**Predicate:** announced_service_expansion
-**Object:** double-stacked container service in the east (service_offering)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Norfolk Southern
+- **Predicate:** announced_service_expansion
+- **Object:** double-stacked container service in the east (service_offering)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > Norfolk Southern announced a similar double-stacked service in the east earlier in the week.
 
-### c_013 — reported, single source
-**Subject entities:** CSX
-**Predicate:** provided_guidance
-**Object:** modest economic growth (economic_forecast)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_013
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** CSX
+- **Predicate:** provided_guidance
+- **Object:** modest economic growth (economic_forecast)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > CSX expects modest economic growth in 2026.
 
@@ -220,10 +258,5 @@ The tunnel work allows CSX to begin hauling metal shipping containers stacked tw
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Josh Funk
 **Publication date:** 2026-01-22
-**Access date:** 2026-01-22
 **Title:** CSX railroad profit slips 2% on weak demand
 **URL:** https://apnews.com/article/earnings-csx-railroad-fourth-quarter-profit-93e319c9bd52568256233fc7fa014842
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

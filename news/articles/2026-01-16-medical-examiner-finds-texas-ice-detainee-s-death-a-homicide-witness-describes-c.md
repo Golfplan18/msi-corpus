@@ -25,47 +25,43 @@ primary_themes:
 - government accountability
 - detention conditions
 topic_tags:
-  - crime
-  - "crime, law and justice"
-  - "government policy"
-  - "human migration"
-  - "international relations"
-  - "law enforcement"
+- crime
+- law enforcement
+- human migration
+- civil rights
 storyline_nexus:
-  - immigration-enforcement
-geographic_location: El Paso, Texas
+- us-immigration-enforcement
+geographic_location: United States
 floor_values_engaged:
-- value: human_life_and_dignity
-  intensity: 0.95
 - value: accountability_of_power
   intensity: 0.9
+- value: human_life_and_dignity
+  intensity: 0.9
 - value: truthfulness
-  intensity: 0.85
-- value: informed_citizenship
-  intensity: 0.8
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:01:09Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:16:34Z'
 source_cluster_id: cluster_ap_2026-01-16_ice-immigration-detention-death-texas-2b
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 11
   hedges:
-    appears: 0
     alleged: 0
-    attributed: 8
     reported: 1
     contested: 0
     confirmed: 2
+    attributed: 8
+    appears: 0
   corroboration:
+    single_source: 8
     primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
-    primary_document: 3
-    single_source: 8
     two_independent: 0
+    primary_document: 3
 sources:
   count: 1
   outlets:
@@ -79,41 +75,20 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-13-federal-agents-deploy-tear-gas-in-minneapolis-as-five-prosecutors-resign-over-re
-  relation: related
-  strength: 0.78
-  confidence: medium
-- slug: 2026-01-07-minneapolis-ice-shooting-is-at-least-the-fifth-death-in-us-immigration-crackdown
-  relation: related
-  strength: 0.8183
-  confidence: medium
-- slug: 2026-01-14-minneapolis-sees-second-federal-shooting-as-courts-governor-push-back-on-immigra
-  relation: related
-  strength: 0.7724
-  confidence: medium
-- slug: 2026-01-11-federal-agents-ram-minneapolis-door-pepper-spray-protesters-in-immigration-sweep
-  relation: related
-  strength: 0.7819
-  confidence: medium
-- slug: 2026-01-09-federal-authorities-bar-minnesota-from-ice-shooting-probe-claim-no-state-jurisdi
-  relation: related
-  strength: 0.7911
-  confidence: medium
-- slug: 2026-01-08-protests-erupt-in-minneapolis-as-officials-dispute-jurisdiction-in-fatal-ice-sho
-  relation: related
-  strength: 0.7934
-  confidence: medium
-- slug: 2026-01-09-ice-agents-shoot-two-outside-portland-hospital-oregon-ag-vows-probe
-  relation: related
-  strength: 0.7723
-  confidence: medium
-- slug: 2026-01-12-minnesota-twin-cities-sue-trump-administration-over-fatal-ice-shooting
-  relation: related
-  strength: 0.7524
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- ICE says Cuban immigrant died while attempting suicide. A witness says guards pinned and choked him
+- ICE says Cuban immigrant died while attempting suicide. A witness says guards pinned and choked him
+- The federal government has provided a differing account surrounding the Jan. 3 death of Geraldo Lunas Campos, saying the detainee was attempting suicide and staff tried to save him.
+- In response to questions from the AP, the Department of Homeland Security, which includes ICE, on Thursday amended its account of Lunas Campos’ death, saying he tried to kill himself.
+- Contact AP’s global investigative team at [email protected]. For secure and confidential communications, use the free Signal app +1 (202) 281-8604.
+- ICE said he was picked up in July as part of a planned immigration enforcement operation due to criminal convictions that made him eligible for removal.
 
 A Cuban immigrant died Jan. 3 at a Texas immigration detention facility on a U.S. Army base, and the El Paso County Medical Examiner's Office has told his family that a preliminary autopsy classified his death as a homicide resulting from asphyxia from chest and neck compression, according to a recording of that call reviewed by the Associated Press. The federal government provided a differing account, saying Geraldo Lunas Campos, 55, had been attempting suicide and that staff tried to save him.
 
@@ -181,102 +156,124 @@ The circumstances described by the witness echo a pattern documented in a 2024 A
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Geraldo Lunas Campos
-**Predicate:** died_at
-**Object:** Camp Montana East, Fort Bliss, El Paso, Texas (location)
-**Temporal:** 2026-01-03
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Geraldo Lunas Campos
+- **Predicate:** died_at
+- **Object:** Camp Montana East, Fort Bliss, El Paso, Texas (location)
+- **Temporal:** 2026-01-03
+- **Sources:** src_001
 
 > Geraldo Lunas Campos, a 55-year-old Cuban immigrant, died on Jan. 3, 2026, at Camp Montana East, an immigration detention facility on the grounds of Fort Bliss in El Paso, Texas.
 
-### c_002 — attributed, primary document
-**Subject entities:** El Paso County Medical Examiner's Office; Geraldo Lunas Campos
-**Predicate:** ruled_death_homicide
-**Object:** asphyxia from chest and neck compression (cause_of_death)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** El Paso County Medical Examiner's Office; Geraldo Lunas Campos
+- **Predicate:** ruled_death_homicide
+- **Object:** asphyxia from chest and neck compression (cause_of_death)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > The El Paso County Medical Examiner's Office told Lunas Campos' family that a preliminary autopsy classified his death as a homicide resulting from asphyxia from chest and neck compression, according to a recording of the call reviewed by the AP.
 
-### c_003 — attributed, single source
-**Subject entities:** U.S. Immigration and Customs Enforcement; Geraldo Lunas Campos
-**Predicate:** issued_public_account
-**Object:** suicide attempt with lifesaving staff response; no altercation mentioned (official_account)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Immigration and Customs Enforcement; Geraldo Lunas Campos
+- **Predicate:** issued_public_account
+- **Object:** suicide attempt with lifesaving staff response; no altercation mentioned (official_account)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > ICE's Jan. 9 public notification said Lunas Campos became disruptive while waiting in line for medication, was taken to a segregation block, was observed in distress, and that medical staff initiated lifesaving measures before paramedics arrived and pronounced him dead. The notification made no mention of an altercation with guards.
 
-### c_004 — attributed, single source
-**Subject entities:** Tricia McLaughlin; Department of Homeland Security
-**Predicate:** stated
-**Object:** Campos violently resisted and attempted suicide during struggle (official_statement)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Tricia McLaughlin; Department of Homeland Security
+- **Predicate:** stated
+- **Object:** Campos violently resisted and attempted suicide during struggle (official_statement)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > DHS spokesperson Tricia McLaughlin said: 'Campos violently resisted the security staff and continued to attempt to take his life. During the ensuing struggle, Campos stopped breathing and lost consciousness.'
 
-### c_005 — attributed, single source
-**Subject entities:** Santos Jesús Flores; Geraldo Lunas Campos
-**Predicate:** witnessed_restraint
-**Object:** handcuffed, tackled, arm around neck by five or more guards (witness_account)
-**Temporal:** 2026-01-03
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Santos Jesús Flores; Geraldo Lunas Campos
+- **Predicate:** witnessed_restraint
+- **Object:** handcuffed, tackled, arm around neck by five or more guards (witness_account)
+- **Temporal:** 2026-01-03
+- **Sources:** src_001
 
 > Witness Santos Jesús Flores, 47, an El Salvadoran detainee, said he saw through his cell window that Lunas Campos was already handcuffed when at least five guards pinned him to the floor and at least one placed an arm around his neck.
 
-### c_006 — attributed, single source
-**Subject entities:** Santos Jesús Flores; Geraldo Lunas Campos
-**Predicate:** reported_final_moments
-**Object:** said 'I can't breathe'; stopped moving within five minutes; not yet interviewed by investigators (witness_account)
-**Temporal:** 2026-01-03
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Santos Jesús Flores; Geraldo Lunas Campos
+- **Predicate:** reported_final_moments
+- **Object:** said 'I can't breathe'; stopped moving within five minutes; not yet interviewed by investigators (witness_account)
+- **Temporal:** 2026-01-03
+- **Sources:** src_001
 
 > Flores said the last thing Lunas Campos said was that he could not breathe, and that within about five minutes he was no longer moving; Flores said investigators had not interviewed him.
 
-### c_007 — reported, single source
-**Subject entities:** Camp Montana East; Acquisition Logistics LLC
-**Predicate:** operated_by
-**Object:** inexperienced private contractor with no prior corrections experience (facility_description)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Camp Montana East; Acquisition Logistics LLC
+- **Predicate:** operated_by
+- **Object:** inexperienced private contractor with no prior corrections experience (facility_description)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > Camp Montana East is a $1.2 billion tent facility hastily constructed in the desert on the grounds of Fort Bliss, built and operated by Acquisition Logistics LLC, a private contractor headquartered in a single-family home in Richmond, Virginia, with no prior experience running a corrections facility.
 
-### c_008 — attributed, single source
-**Subject entities:** Victor Weedn
-**Predicate:** assessed_homicide_ruling
-**Object:** ruling shows guards caused death; not necessarily intentional; passes 'but for' test (expert_opinion)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Victor Weedn
+- **Predicate:** assessed_homicide_ruling
+- **Object:** ruling shows guards caused death; not necessarily intentional; passes 'but for' test (expert_opinion)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > Dr. Victor Weedn, a forensic pathologist who has studied prone-restraint deaths, said the preliminary homicide ruling indicates guards' actions caused Lunas Campos' death but does not mean they intended to kill, and that the ruling probably satisfies the 'but for' causation test.
 
-### c_009 — attributed, single source
-**Subject entities:** Geraldo Lunas Campos
-**Predicate:** immigration_and_residence_history
-**Object:** legally admitted 1996; Rochester, NY resident 20+ years; arrested July 2025 (biographical_fact)
-**Temporal:** 1996-2025
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Geraldo Lunas Campos
+- **Predicate:** immigration_and_residence_history
+- **Object:** legally admitted 1996; Rochester, NY resident 20+ years; arrested July 2025 (biographical_fact)
+- **Temporal:** 1996-2025
+- **Sources:** src_001
 
 > Lunas Campos was legally admitted to the United States in 1996 as part of a wave of Cuban immigrants seeking to reach Florida by boat, lived in Rochester, New York for more than two decades, and was arrested by ICE in July during a planned enforcement operation.
 
-### c_010 — confirmed, primary document
-**Subject entities:** Geraldo Lunas Campos
-**Predicate:** criminal_convictions
-**Object:** 2003 felony sexual contact conviction; 2009 drug conviction (criminal_record)
-**Temporal:** 2003-2017
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Geraldo Lunas Campos
+- **Predicate:** criminal_convictions
+- **Object:** 2003 felony sexual contact conviction; 2009 drug conviction (criminal_record)
+- **Temporal:** 2003-2017
+- **Sources:** src_001
 
 > New York court records show Lunas Campos was convicted in 2003 of sexual contact with an individual under 11 and sentenced to one year in jail, and convicted in 2009 of attempting to sell a controlled substance and sentenced to five years in prison, completing that sentence in January 2017.
 
-### c_011 — attributed, single source
-**Subject entities:** Jeanette Pagan-Lopez; U.S. Immigration and Customs Enforcement
-**Predicate:** reported_body_repatriation_condition
-**Object:** ICE offered free return via cremation only; family declined (family_account)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jeanette Pagan-Lopez; U.S. Immigration and Customs Enforcement
+- **Predicate:** reported_body_repatriation_condition
+- **Object:** ICE offered free return via cremation only; family declined (family_account)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > Jeanette Pagan-Lopez, the mother of Lunas Campos' two youngest children, said ICE told her it would return his body to Rochester free of charge only if she consented to cremation; she declined and is seeking funds from family and friends to cover shipping and funeral costs.
 
@@ -285,10 +282,5 @@ The circumstances described by the witness echo a pattern documented in a 2024 A
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Michael Biesecker
 **Publication date:** 2026-01-16
-**Access date:** 2026-01-16
 **Title:** Witness says ICE detainee died after guards at Texas detention facility choked him
 **URL:** https://apnews.com/article/ice-immigration-detention-death-texas-2bfb614b2b222803d309f338357d04eb
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

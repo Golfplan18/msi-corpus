@@ -20,41 +20,39 @@ primary_themes:
 - water_supply
 - wildfire
 topic_tags:
-  - "climate change"
-  - "disaster, accident and emergency incident"
-  - environment
-  - fire
-  - weather
+- natural disaster
+- climate change
+- agriculture
+- fire
+- weather
 storyline_nexus:
-  - wildfire-season-2026
+- extreme-weather-disasters
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
-  intensity: 0.8
-- value: truthfulness
-  intensity: 0.95
+  intensity: 0.9
 - value: informed_citizenship
-  intensity: 0.85
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T04:29:32Z'
 source_cluster_id: cluster_ap_2026-04-20_drought-us-food-prices-wildfire-water-su
 gdelt_event_ids: []
-consensus_floor_version: 1.0
-publication_mindspec_version: 1.0
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 22
   hedges:
-    appears: 0
     alleged: 0
-    attributed: 9
-    reported: 9
     contested: 0
+    appears: 0
+    reported: 9
     confirmed: 4
+    attributed: 9
   corroboration:
-    primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
+    primary_plus_secondary: 0
     primary_document: 9
     single_source: 0
     two_independent: 13
@@ -71,17 +69,18 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-04-15-unusual-april-heat-wave-threatens-records-from-georgia-to-new-york
-  relation: related
-  strength: 0.8105
-  confidence: medium
-- slug: 2026-04-17-wildfire-burning-season-extends-36-in-north-america-due-to-climate-change
-  relation: related
-  strength: 0.7897
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Unknown
+- Key details from news report
+- Additional context from source
+- Impact or implications
 
 More than 61% of the lower 48 United States is experiencing moderate to exceptional drought, including 97% of the Southeast and two-thirds of the West, according to the U.S. Drought Monitor. This represents the highest levels of drought for this time of year since the monitor began recording data in 2000. Meteorologists said the severe spring conditions raise concerns about an intensified wildfire season, western water shortages, and rising food prices.
 
@@ -115,201 +114,245 @@ Yet Jacobs offered essential context about the larger trajectory. "All weather i
 
 ## Atomic claims
 
-### c_001 — reported, primary document
-**Subject entities:** United States; U.S. Drought Monitor
-**Predicate:** is_experiencing
-**Object:** moderate to exceptional drought (condition)
-**Temporal:** 2026-04-18
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** United States; U.S. Drought Monitor
+- **Predicate:** is_experiencing
+- **Object:** moderate to exceptional drought (condition)
+- **Temporal:** 2026-04-18
+- **Sources:** src_001
 
 > More than 61% of the lower 48 United States is experiencing moderate to exceptional drought.
 
-### c_002 — reported, primary document
-**Subject entities:** Southeast United States
-**Predicate:** is_experiencing
-**Object:** drought (condition)
-**Temporal:** 2026-04-18
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Southeast United States
+- **Predicate:** is_experiencing
+- **Object:** drought (condition)
+- **Temporal:** 2026-04-18
+- **Sources:** src_001
 
 > 97% of the Southeast is experiencing drought.
 
-### c_003 — reported, primary document
-**Subject entities:** Western United States
-**Predicate:** is_experiencing
-**Object:** drought (condition)
-**Temporal:** 2026-04-18
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Western United States
+- **Predicate:** is_experiencing
+- **Object:** drought (condition)
+- **Temporal:** 2026-04-18
+- **Sources:** src_001
 
 > Two-thirds of the West is experiencing drought.
 
-### c_004 — confirmed, primary document
-**Subject entities:** U.S. Drought Monitor; drought conditions
-**Predicate:** are_highest_on_record
-**Object:** since 2000 (temporal_scope)
-**Temporal:** 2026-04-18
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Drought Monitor; drought conditions
+- **Predicate:** are_highest_on_record
+- **Object:** since 2000 (temporal_scope)
+- **Temporal:** 2026-04-18
+- **Sources:** src_001
 
 > These are the highest drought levels for this time of year since the U.S. Drought Monitor began in 2000.
 
-### c_005 — confirmed, primary document
-**Subject entities:** Palmer Drought Severity Index; March 2026
-**Predicate:** reached_record
-**Object:** highest March level since 1895 (temporal_record)
-**Temporal:** 2026-04-18
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Palmer Drought Severity Index; March 2026
+- **Predicate:** reached_record
+- **Object:** highest March level since 1895 (temporal_record)
+- **Temporal:** 2026-04-18
+- **Sources:** src_001
 
 > The Palmer Drought Severity Index hit its highest level for March since records started in 1895.
 
-### c_006 — confirmed, primary document
-**Subject entities:** March 2026; drought record
-**Predicate:** ranks_as
-**Object:** third-driest month on record (historical_ranking)
-**Temporal:** 2026-04-18
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** March 2026; drought record
+- **Predicate:** ranks_as
+- **Object:** third-driest month on record (historical_ranking)
+- **Temporal:** 2026-04-18
+- **Sources:** src_001
 
 > March 2026 was the third-driest month recorded regardless of time of year.
 
-### c_007 — confirmed, primary document
-**Subject entities:** March 2026; Dust Bowl period
-**Predicate:** trails
-**Object:** July and August 1934 (historical_comparison)
-**Temporal:** 2026-04-18
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** March 2026; Dust Bowl period
+- **Predicate:** trails
+- **Object:** July and August 1934 (historical_comparison)
+- **Temporal:** 2026-04-18
+- **Sources:** src_001
 
 > March 2026 trailed only the Dust Bowl months of July and August 1934 in dryness.
 
-### c_008 — reported, two independent
-**Subject entities:** Western United States; snow levels
-**Predicate:** experiencing_low_levels_due_to
-**Object:** record heat (cause)
-**Temporal:** 2026-04-18
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** two_independent
+- **Subject entities:** Western United States; snow levels
+- **Predicate:** experiencing_low_levels_due_to
+- **Object:** record heat (cause)
+- **Temporal:** 2026-04-18
+- **Sources:** src_001
 
 > The West has had exceptionally low snow levels in the first few months of the year because of record heat.
 
-### c_009 — attributed, two independent
-**Subject entities:** Southern United States; jet stream
-**Predicate:** caused_by
-**Object:** jet stream positioning (meteorological_cause)
-**Temporal:** 2026-04-18
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** two_independent
+- **Subject entities:** Southern United States; jet stream
+- **Predicate:** caused_by
+- **Object:** jet stream positioning (meteorological_cause)
+- **Temporal:** 2026-04-18
+- **Sources:** src_001
 
 > A separate drought in the South is connected to the jet stream keeping storms further north.
 
-### c_010 — reported, primary document
-**Subject entities:** eastern Texas; drought
-**Predicate:** requires_precipitation
-**Object:** 19 inches in one month (precipitation_quantity)
-**Temporal:** 2026-04-18
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** eastern Texas; drought
+- **Predicate:** requires_precipitation
+- **Object:** 19 inches in one month (precipitation_quantity)
+- **Temporal:** 2026-04-18
+- **Sources:** src_001
 
 > It would take 19 inches of rain in one month to break the drought in eastern Texas.
 
-### c_011 — reported, primary document
-**Subject entities:** Southeast United States; drought
-**Predicate:** requires_precipitation
-**Object:** more than 12 inches (precipitation_quantity)
-**Temporal:** 2026-04-18
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Southeast United States; drought
+- **Predicate:** requires_precipitation
+- **Object:** more than 12 inches (precipitation_quantity)
+- **Temporal:** 2026-04-18
+- **Sources:** src_001
 
 > It would take more than a foot of rain to solve the water deficit for most of the Southeast.
 
-### c_012 — attributed, two independent
-**Subject entities:** Western United States; vapor pressure deficit
-**Predicate:** exceeds_normal
-**Object:** 77% above normal (percentage_deviation)
-**Temporal:** 2026-04-18
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** two_independent
+- **Subject entities:** Western United States; vapor pressure deficit
+- **Predicate:** exceeds_normal
+- **Object:** 77% above normal (percentage_deviation)
+- **Temporal:** 2026-04-18
+- **Sources:** src_001
 
 > Vapor pressure deficit is 77% above normal in the West.
 
-### c_013 — attributed, two independent
-**Subject entities:** Western United States; vapor pressure deficit
-**Predicate:** exceeds_record
-**Object:** 25% higher than previous Jan-Mar record (percentage_deviation)
-**Temporal:** 2026-04-18
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** two_independent
+- **Subject entities:** Western United States; vapor pressure deficit
+- **Predicate:** exceeds_record
+- **Object:** 25% higher than previous Jan-Mar record (percentage_deviation)
+- **Temporal:** 2026-04-18
+- **Sources:** src_001
 
 > Vapor pressure deficit is more than 25% higher than the previous record for January-March in the West.
 
-### c_014 — attributed, two independent
-**Subject entities:** wildfire; heat; drought
-**Predicate:** responds_to
-**Object:** exponentially (relationship)
-**Temporal:** 2026-04-18
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** two_independent
+- **Subject entities:** wildfire; heat; drought
+- **Predicate:** responds_to
+- **Object:** exponentially (relationship)
+- **Temporal:** 2026-04-18
+- **Sources:** src_001
 
 > Fire responds to heat and drought in an exponential manner.
 
-### c_015 — reported, two independent
-**Subject entities:** drought; seasonal_pattern
-**Predicate:** peaks_in
-**Object:** summer (season)
-**Temporal:** 2026-04-18
-**Source IDs:** src_001
+### c_015
+- **Hedge:** reported
+- **Corroboration:** two_independent
+- **Subject entities:** drought; seasonal_pattern
+- **Predicate:** peaks_in
+- **Object:** summer (season)
+- **Temporal:** 2026-04-18
+- **Sources:** src_001
 
 > Drought typically peaks in summer, not spring.
 
-### c_016 — attributed, two independent
-**Subject entities:** Arizona; cacti
-**Predicate:** blooming_early
-**Object:** months ahead of normal schedule (phenological_shift)
-**Temporal:** 2026-04-18
-**Source IDs:** src_001
+### c_016
+- **Hedge:** attributed
+- **Corroboration:** two_independent
+- **Subject entities:** Arizona; cacti
+- **Predicate:** blooming_early
+- **Object:** months ahead of normal schedule (phenological_shift)
+- **Temporal:** 2026-04-18
+- **Sources:** src_001
 
 > Cacti in Arizona are blooming months early.
 
-### c_017 — attributed, two independent
-**Subject entities:** Colorado River communities
-**Predicate:** lack_agreement_on
-**Object:** drought management path forward (policy_status)
-**Temporal:** 2026-04-18
-**Source IDs:** src_001
+### c_017
+- **Hedge:** attributed
+- **Corroboration:** two_independent
+- **Subject entities:** Colorado River communities
+- **Predicate:** lack_agreement_on
+- **Object:** drought management path forward (policy_status)
+- **Temporal:** 2026-04-18
+- **Sources:** src_001
 
 > Colorado River-dependent communities do not have a negotiated path forward for managing drought conditions.
 
-### c_018 — reported, two independent
-**Subject entities:** El Niño; global weather
-**Predicate:** is_predicted
-**Object:** strong El Niño (weather_forecast)
-**Temporal:** 2026-04-18
-**Source IDs:** src_001
+### c_018
+- **Hedge:** reported
+- **Corroboration:** two_independent
+- **Subject entities:** El Niño; global weather
+- **Predicate:** is_predicted
+- **Object:** strong El Niño (weather_forecast)
+- **Temporal:** 2026-04-18
+- **Sources:** src_001
 
 > A strong natural El Niño weather oscillation is predicted.
 
-### c_019 — reported, two independent
-**Subject entities:** El Niño; global agriculture
-**Predicate:** reduces
-**Object:** crop yields in India and elsewhere (agricultural_impact)
-**Temporal:** 2026-04-18
-**Source IDs:** src_001
+### c_019
+- **Hedge:** reported
+- **Corroboration:** two_independent
+- **Subject entities:** El Niño; global agriculture
+- **Predicate:** reduces
+- **Object:** crop yields in India and elsewhere (agricultural_impact)
+- **Temporal:** 2026-04-18
+- **Sources:** src_001
 
 > El Niño often reduces crop yields in places across the globe, such as India.
 
-### c_020 — attributed, two independent
-**Subject entities:** drought; climate change
-**Predicate:** driven_by
-**Object:** natural variability and human-caused climate change (causal_factors)
-**Temporal:** 2026-04-18
-**Source IDs:** src_001
+### c_020
+- **Hedge:** attributed
+- **Corroboration:** two_independent
+- **Subject entities:** drought; climate change
+- **Predicate:** driven_by
+- **Object:** natural variability and human-caused climate change (causal_factors)
+- **Temporal:** 2026-04-18
+- **Sources:** src_001
 
 > The drought and hotter weather are driven by both natural variability and human-caused climate change.
 
-### c_021 — attributed, two independent
-**Subject entities:** randomness; climate change
-**Predicate:** contributes_more_than
-**Object:** human-caused climate change (comparative_causation)
-**Temporal:** 2026-04-18
-**Source IDs:** src_001
+### c_021
+- **Hedge:** attributed
+- **Corroboration:** two_independent
+- **Subject entities:** randomness; climate change
+- **Predicate:** contributes_more_than
+- **Object:** human-caused climate change (comparative_causation)
+- **Temporal:** 2026-04-18
+- **Sources:** src_001
 
 > Randomness is a slightly bigger factor than human-caused climate change in this event.
 
-### c_022 — attributed, two independent
-**Subject entities:** weather; climate change
-**Predicate:** affected_by
-**Object:** climate change (causal_relationship)
-**Temporal:** 2026-04-18
-**Source IDs:** src_001
+### c_022
+- **Hedge:** attributed
+- **Corroboration:** two_independent
+- **Subject entities:** weather; climate change
+- **Predicate:** affected_by
+- **Object:** climate change (causal_relationship)
+- **Temporal:** 2026-04-18
+- **Sources:** src_001
 
 > All weather is now affected by climate change.
 
@@ -318,10 +361,5 @@ Yet Jacobs offered essential context about the larger trajectory. "All weather i
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Seth Borenstein
 **Publication date:** 2026-04-18
-**Access date:** 2026-05-17
 **Title:** Record drought hits US, which is bad for food prices, fires and water
 **URL:** https://apnews.com/article/drought-us-food-prices-wildfire-water-supply-3625f832e5122c988904fc66d39906f7
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

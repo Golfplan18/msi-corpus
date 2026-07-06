@@ -23,48 +23,41 @@ primary_themes:
 - economic inequality
 - worker adaptation
 topic_tags:
-  - "artificial intelligence"
-  - "economy, business and finance"
-  - employment
-  - labour
-  - "market and exchange"
-  - "science and technology"
-storyline_nexus: []
+- artificial intelligence
+- employment
+- computing and information technology
+- labour market
+storyline_nexus:
+- ai-industry-regulation
 geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.9
-- value: truthfulness
-  intensity: 0.95
 - value: equality_fairness
-  intensity: 0.8
-- value: human_life_and_dignity
-  intensity: 0.75
-- value: accountability_of_power
   intensity: 0.6
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+- value: informed_citizenship
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:51:50Z'
 source_cluster_id: cluster_ap_2026-01-26_ai-workplace-gemini-chatgpt-poll-4934bc6
 gdelt_event_ids: []
-consensus_floor_version: '1.0'
-publication_mindspec_version: '1.0'
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 16
   hedges:
-    appears: 0
     alleged: 0
-    attributed: 6
+    appears: 0
     reported: 1
     contested: 0
     confirmed: 9
+    attributed: 6
   corroboration:
+    two_independent: 0
+    single_source: 0
     primary_plus_secondary: 6
     one_originating_plus_primary_document: 0
     primary_document: 10
-    single_source: 0
-    two_independent: 0
 sources:
   count: 1
   outlets:
@@ -85,6 +78,9 @@ image:
 cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
 
 American workers adopted artificial intelligence into their jobs at a rapid pace over the past few years, according to a Gallup Workforce survey of more than 22,000 U.S. workers conducted in late October and early November 2025. Twelve percent of employed adults said they use AI daily on the job, while roughly one-quarter reported using it at least a few times a week, and nearly half said they use it at least occasionally.
 
@@ -132,153 +128,181 @@ Rev. Michael Bingham, pastor of Faith Community Methodist Church in Jacksonville
 
 *The Gallup Workforce survey queried a random sample of adults age 18 and older who work full time and part time for organizations in the United States. The most recent survey of 22,368 employed U.S. adults was conducted October 30–November 13, 2025. The margin of sampling error for all respondents is plus or minus 1 percentage point.*
 
----
-
-This article was generated algorithmically by Main Street Independent's News Article Generator framework. Read the [full methodology](/methodology). Licensed under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
-
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** American workers; Gallup Organization
-**Predicate:** use_AI_daily
-**Object:** 12% (percentage)
-**Temporal:** 2025-10-30T00:00:00Z/2025-11-13T23:59:59Z
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** American workers; Gallup Organization
+- **Predicate:** use_AI_daily
+- **Object:** 12% (percentage)
+- **Temporal:** 2025-10-30T00:00:00Z/2025-11-13T23:59:59Z
+- **Sources:** src_001
 
 > Twelve percent of employed adults use AI daily on the job, according to a Gallup Workforce survey conducted October 30–November 13, 2025, of 22,368 U.S. workers.
 
-### c_002 — confirmed, primary document
-**Subject entities:** American workers
-**Predicate:** use_AI_frequently
-**Object:** 25% (percentage)
-**Temporal:** 2025-10-30T00:00:00Z/2025-11-13T23:59:59Z
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** American workers
+- **Predicate:** use_AI_frequently
+- **Object:** 25% (percentage)
+- **Temporal:** 2025-10-30T00:00:00Z/2025-11-13T23:59:59Z
+- **Sources:** src_001
 
 > Roughly one-quarter of workers use AI at least a few times a week.
 
-### c_003 — confirmed, primary document
-**Subject entities:** American workers
-**Predicate:** use_AI_occasionally
-**Object:** 50% (percentage)
-**Temporal:** 2025-10-30T00:00:00Z/2025-11-13T23:59:59Z
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** American workers
+- **Predicate:** use_AI_occasionally
+- **Object:** 50% (percentage)
+- **Temporal:** 2025-10-30T00:00:00Z/2025-11-13T23:59:59Z
+- **Sources:** src_001
 
 > Nearly half of workers use AI at least a few times a year.
 
-### c_004 — confirmed, primary document
-**Subject entities:** American workers
-**Predicate:** baseline_change
-**Object:** 21% in 2023, 50% in 2025 (percentage_comparison)
-**Temporal:** 2023/2025
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** American workers
+- **Predicate:** baseline_change
+- **Object:** 21% in 2023, 50% in 2025 (percentage_comparison)
+- **Temporal:** 2023/2025
+- **Sources:** src_001
 
 > In 2023, 21% of workers reported using AI at least occasionally, compared to nearly 50% in 2025.
 
-### c_005 — confirmed, primary document
-**Subject entities:** technology sector workers
-**Predicate:** use_AI_frequently_and_daily
-**Object:** 60% frequently, 30% daily (percentage)
-**Temporal:** 2025-10-30T00:00:00Z/2025-11-13T23:59:59Z
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** technology sector workers
+- **Predicate:** use_AI_frequently_and_daily
+- **Object:** 60% frequently, 30% daily (percentage)
+- **Temporal:** 2025-10-30T00:00:00Z/2025-11-13T23:59:59Z
+- **Sources:** src_001
 
 > About 60% of technology workers use AI frequently, and about 30% do so daily.
 
-### c_006 — confirmed, primary document
-**Subject entities:** professional services workers; college workers; university workers; K-12 educators
-**Predicate:** use_AI_occasionally
-**Object:** majorities use AI at least a few times a year (survey_finding)
-**Temporal:** 2025-10-30T00:00:00Z/2025-11-13T23:59:59Z
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** professional services workers; college workers; university workers; K-12 educators
+- **Predicate:** use_AI_occasionally
+- **Object:** majorities use AI at least a few times a year (survey_finding)
+- **Temporal:** 2025-10-30T00:00:00Z/2025-11-13T23:59:59Z
+- **Sources:** src_001
 
 > Majorities of workers in professional services, colleges and universities, and K-12 education report using AI at least a few times a year.
 
-### c_007 — confirmed, primary document
-**Subject entities:** AI users at work
-**Predicate:** rely_on_chatbots
-**Object:** 60% (percentage)
-**Temporal:** 2024-2025
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** AI users at work
+- **Predicate:** rely_on_chatbots
+- **Object:** 60% (percentage)
+- **Temporal:** 2024-2025
+- **Sources:** src_001
 
 > About 60% of AI users at work rely on chatbots or virtual assistants when they use AI tools.
 
-### c_008 — confirmed, primary document
-**Subject entities:** AI users at work
-**Predicate:** use_AI_for_synthesis_ideation_learning
-**Object:** 40% (percentage)
-**Temporal:** 2024-2025
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** AI users at work
+- **Predicate:** use_AI_for_synthesis_ideation_learning
+- **Object:** 40% (percentage)
+- **Temporal:** 2024-2025
+- **Sources:** src_001
 
 > About 40% of AI users at work use AI to consolidate information, generate ideas, or learn new things.
 
-### c_009 — attributed, primary plus secondary
-**Subject entities:** U.S. workers; Sam Manning; Centre for the Governance of AI
-**Predicate:** vulnerable_to_AI_disruption
-**Object:** 6.1 million workers (count)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** U.S. workers; Sam Manning; Centre for the Governance of AI
+- **Predicate:** vulnerable_to_AI_disruption
+- **Object:** 6.1 million workers (count)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > About 6.1 million U.S. workers are both heavily exposed to AI and less equipped to adapt, according to research by Sam Manning at the Centre for the Governance of AI.
 
-### c_010 — attributed, primary plus secondary
-**Subject entities:** vulnerable workers
-**Predicate:** demographic_profile
-**Object:** 86% women, concentrated in administrative/clerical work, older, in smaller cities (demographic_distribution)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** vulnerable workers
+- **Predicate:** demographic_profile
+- **Object:** 86% women, concentrated in administrative/clerical work, older, in smaller cities (demographic_distribution)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Vulnerable workers are concentrated in administrative and clerical work, are approximately 86% women, and are older and concentrated in smaller cities with fewer job alternatives.
 
-### c_011 — reported, primary document
-**Subject entities:** service sector workers
-**Predicate:** lower_AI_adoption
-**Object:** lower adoption in retail, healthcare, manufacturing (sector_comparison)
-**Temporal:** 2025-10-30T00:00:00Z/2025-11-13T23:59:59Z
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** service sector workers
+- **Predicate:** lower_AI_adoption
+- **Object:** lower adoption in retail, healthcare, manufacturing (sector_comparison)
+- **Temporal:** 2025-10-30T00:00:00Z/2025-11-13T23:59:59Z
+- **Sources:** src_001
 
 > AI use is less common in service-based sectors such as retail, healthcare, and manufacturing.
 
-### c_012 — confirmed, primary document
-**Subject entities:** American workers
-**Predicate:** job_displacement_concern
-**Object:** 50% say 'not at all likely' in 2025, down from 60% in 2023 (percentage_comparison)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_012
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** American workers
+- **Predicate:** job_displacement_concern
+- **Object:** 50% say 'not at all likely' in 2025, down from 60% in 2023 (percentage_comparison)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Half of employees said it was 'not at all likely' that new technology, automation, robots or AI would eliminate their job within five years, down from about 60% in 2023, according to a 2025 Gallup Workforce survey.
 
-### c_013 — attributed, primary plus secondary
-**Subject entities:** Andrea Tanzi; Bank of America
-**Predicate:** uses_AI_daily
-**Object:** uses AI to synthesize documents and data; uses Erica chatbot for admin (work_activity)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** Andrea Tanzi; Bank of America
+- **Predicate:** uses_AI_daily
+- **Object:** uses AI to synthesize documents and data; uses Erica chatbot for admin (work_activity)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Andrea Tanzi, a 28-year-old investment banker at Bank of America in New York, said he uses AI tools daily to synthesize documents and data sets and relies on the bank's internal AI chatbot, Erica, for administrative tasks.
 
-### c_014 — attributed, primary plus secondary
-**Subject entities:** Joyce Hatzidakis
-**Predicate:** uses_AI_for_parent_communication
-**Object:** uses AI chatbots (ChatGPT, Gemini) to draft parent communications (work_activity)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** Joyce Hatzidakis
+- **Predicate:** uses_AI_for_parent_communication
+- **Object:** uses AI chatbots (ChatGPT, Gemini) to draft parent communications (work_activity)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Joyce Hatzidakis, a 60-year-old high school art teacher in Riverside, California, said she uses AI chatbots to help draft communications with parents, initially with ChatGPT and later with Google's Gemini.
 
-### c_015 — attributed, primary plus secondary
-**Subject entities:** Gene Walinski; Home Depot
-**Predicate:** uses_AI_hourly
-**Object:** uses personal AI assistant hourly to answer customer questions (work_activity)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** Gene Walinski; Home Depot
+- **Predicate:** uses_AI_hourly
+- **Object:** uses personal AI assistant hourly to answer customer questions (work_activity)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Gene Walinski, a 70-year-old Home Depot associate in New Smyrna Beach, Florida, uses an AI assistant on his personal phone roughly every hour during his shift to answer customer questions about supplies.
 
-### c_016 — attributed, primary plus secondary
-**Subject entities:** Rev. Michael Bingham
-**Predicate:** refuses_AI_for_ministry
-**Object:** refuses to use AI for sermon writing; values human pastoral presence (personal_position)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_016
+- **Hedge:** attributed
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** Rev. Michael Bingham
+- **Predicate:** refuses_AI_for_ministry
+- **Object:** refuses to use AI for sermon writing; values human pastoral presence (personal_position)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Rev. Michael Bingham, pastor of Faith Community Methodist Church in Jacksonville, Florida, said he would not ask AI to help write his sermons and values human presence in pastoral care.
 
@@ -287,10 +311,5 @@ This article was generated algorithmically by Main Street Independent's News Art
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Matt O'Brien
 **Publication date:** 2026-01-25
-**Access date:** 2026-05-18
 **Title:** AI use at work has increased, Gallup poll finds
 **URL:** https://apnews.com/article/ai-workplace-gemini-chatgpt-poll-4934bc61d039508db32bc49f85d63d99
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

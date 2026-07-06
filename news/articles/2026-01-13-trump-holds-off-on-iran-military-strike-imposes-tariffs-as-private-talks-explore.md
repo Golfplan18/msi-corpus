@@ -20,11 +20,10 @@ primary_themes:
 - tariffs as foreign policy instrument
 - Iran diplomacy
 topic_tags:
-  - "armed conflict"
-  - "conflict, war and peace"
+- armed conflict
+- conflict, war and peace
 storyline_nexus:
-  - iran-war
-  - trump-tariff-policy
+- the-iran-war
 geographic_location: Washington, D.C.; Tehran, Iran
 floor_values_engaged:
 - value: informed_citizenship
@@ -90,18 +89,6 @@ cross_article_links:
   relation: related
   strength: 0.8387
   confidence: medium
-- slug: 2026-01-11-israel-monitors-iranian-protests-as-analysts-see-little-appetite-for-new-war
-  relation: related
-  strength: 0.8385
-  confidence: medium
-- slug: 2026-01-02-trump-and-iran-officials-trade-threats-as-protests-enter-sixth-day
-  relation: related
-  strength: 0.8245
-  confidence: medium
-- slug: 2026-01-02-trump-and-iran-trade-threats-as-rial-protests-enter-sixth-day-killing-at-least-7
-  relation: related
-  strength: 0.8176
-  confidence: medium
 - slug: 2026-01-12-iran-protest-death-toll-reaches-646-as-trump-imposes-tariffs-signals-openness-to
   relation: related
   strength: 0.8161
@@ -109,10 +96,6 @@ cross_article_links:
 - slug: 2026-01-12-iran-protest-death-toll-reaches-646-as-trump-orders-tariffs-cites-diplomacy
   relation: related
   strength: 0.8113
-  confidence: medium
-- slug: 2026-01-12-iran-s-leadership-weakened-by-war-faces-broad-protests-as-crackdown-kills-hundre
-  relation: related
-  strength: 0.811
   confidence: medium
 - slug: 2026-01-04-trump-renews-greenland-push-warns-cuba-and-colombia-after-venezuela-operation
   relation: related
@@ -126,10 +109,6 @@ cross_article_links:
   relation: related
   strength: 0.7985
   confidence: medium
-- slug: 2026-01-13-uganda-deploys-troops-cuts-mobile-internet-ahead-of-thursday-presidential-vote
-  relation: related
-  strength: 0.7984
-  confidence: medium
 - slug: 2026-01-10-iran-protest-death-toll-reaches-116-as-attorney-general-warns-of-death-penalty
   relation: related
   strength: 0.7973
@@ -137,14 +116,6 @@ cross_article_links:
 - slug: 2026-01-08-iran-cuts-internet-and-phones-as-exiled-prince-s-call-draws-mass-protests
   relation: related
   strength: 0.7927
-  confidence: medium
-- slug: 2026-01-06-israel-strikes-lebanon-sites-ahead-of-key-hezbollah-disarmament-meeting
-  relation: related
-  strength: 0.796
-  confidence: medium
-- slug: 2026-01-06-white-house-says-u-s-military-always-an-option-in-greenland-as-europe-pushes-bac
-  relation: related
-  strength: 0.7878
   confidence: medium
 - slug: 2026-01-10-us-and-jordan-strike-is-targets-across-syria-in-palmyra-ambush-retaliation
   relation: related
@@ -197,111 +168,135 @@ Trump is managing several simultaneous foreign policy challenges alongside the I
 
 ## Atomic claims
 
-### c_001 — confirmed, single source
-**Subject entities:** Donald Trump
-**Predicate:** announced
-**Object:** 25% tariffs on countries doing business with Iran (policy_action)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** announced
+- **Object:** 25% tariffs on countries doing business with Iran (policy_action)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Trump announced 25% tariffs on countries doing business with Iran, effective immediately.
 
-### c_002 — reported, single source
-**Subject entities:** Iran government
-**Predicate:** crackdown_resulted_in
-**Object:** more than 600 dead, thousands arrested (casualty_count)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Iran government
+- **Predicate:** crackdown_resulted_in
+- **Object:** more than 600 dead, thousands arrested (casualty_count)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Iran's crackdown on protests left more than 600 dead and thousands arrested.
 
-### c_003 — attributed, single source
-**Subject entities:** Karoline Leavitt
-**Predicate:** said
-**Object:** private messages differ from public statements (official_statement)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Karoline Leavitt
+- **Predicate:** said
+- **Object:** private messages differ from public statements (official_statement)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > White House press secretary Karoline Leavitt said private messages from Iranian officials differ from their public statements.
 
-### c_004 — attributed, single source
-**Subject entities:** Donald Trump
-**Predicate:** said
-**Object:** meeting being set up; may have to act before meeting (presidential_statement)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** said
+- **Object:** meeting being set up; may have to act before meeting (presidential_statement)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Trump told reporters Sunday evening that a meeting with Iranian officials is being set up but warned action may be required before it occurs.
 
-### c_005 — reported, single source
-**Subject entities:** JD Vance; Marco Rubio
-**Predicate:** meeting_convened
-**Object:** suite of options from diplomacy to military strikes (policy_deliberation)
-**Temporal:** 2026-01-09
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** JD Vance; Marco Rubio
+- **Predicate:** meeting_convened
+- **Object:** suite of options from diplomacy to military strikes (policy_deliberation)
+- **Temporal:** 2026-01-09
+- **Sources:** src_001
 
 > Vice President JD Vance, Secretary of State Marco Rubio, and National Security Council officials began meeting Friday to develop a suite of options to present to Trump.
 
-### c_006 — attributed, single source
-**Subject entities:** Steve Witkoff; Karoline Leavitt
-**Predicate:** confirmed
-**Object:** Witkoff to engage Tehran (diplomatic_role)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Steve Witkoff; Karoline Leavitt
+- **Predicate:** confirmed
+- **Object:** Witkoff to engage Tehran (diplomatic_role)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Leavitt confirmed that special envoy Steve Witkoff will be a key player engaging Tehran.
 
-### c_007 — attributed, single source
-**Subject entities:** Vali Nasr
-**Predicate:** said
-**Object:** leaderless protests difficult to sustain; internet blackout compounds coordination problems (expert_assessment)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Vali Nasr
+- **Predicate:** said
+- **Object:** leaderless protests difficult to sustain; internet blackout compounds coordination problems (expert_assessment)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Vali Nasr, professor at Johns Hopkins University, said the protests are leaderless and organization-less and that such protests are very difficult to sustain.
 
-### c_008 — attributed, single source
-**Subject entities:** Lindsey Graham
-**Predicate:** said
-**Object:** decisive action to protect protesters required (political_statement)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Lindsey Graham
+- **Predicate:** said
+- **Object:** decisive action to protect protesters required (political_statement)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Sen. Lindsey Graham said the moment offers Trump the chance to show he is serious about enforcing red lines and called for decisive action to protect protesters.
 
-### c_009 — attributed, single source
-**Subject entities:** Iran government
-**Predicate:** warned
-**Object:** US military and Israel as legitimate targets if force used (threat)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Iran government
+- **Predicate:** warned
+- **Object:** US military and Israel as legitimate targets if force used (threat)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Iran's parliamentary speaker warned that the U.S. military and Israel would be legitimate targets if Washington uses force to protect demonstrators.
 
-### c_010 — reported, single source
-**Subject entities:** Iran protests; Ali Khamenei
-**Predicate:** originated_from_and_expanded
-**Object:** currency collapse; broader test of Khamenei rule (protest_context)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Iran protests; Ali Khamenei
+- **Predicate:** originated_from_and_expanded
+- **Object:** currency collapse; broader test of Khamenei rule (protest_context)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > The demonstrations were spurred by the collapse of Iran's currency and have grown into a broader challenge to supreme leader Ayatollah Ali Khamenei's rule.
 
-### c_011 — attributed, single source
-**Subject entities:** Behnam Ben Taleblu
-**Predicate:** said
-**Object:** diminishing value in statements without follow-through (expert_assessment)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Behnam Ben Taleblu
+- **Predicate:** said
+- **Object:** diminishing value in statements without follow-through (expert_assessment)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Behnam Ben Taleblu of the Foundation for Defense of Democracies said there is a fast-diminishing value to official statements promising to hold the regime accountable while staying on the sidelines.
 
-### c_012 — attributed, single source
-**Subject entities:** Newt Gingrich
-**Predicate:** said
-**Object:** goal should be to destroy Iranian dictatorship (political_statement)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Newt Gingrich
+- **Predicate:** said
+- **Object:** goal should be to destroy Iranian dictatorship (political_statement)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Former House Speaker Newt Gingrich said the goal of every Western leader should be to destroy the Iranian dictatorship at this moment of its vulnerability.
 
@@ -313,7 +308,3 @@ Trump is managing several simultaneous foreign policy challenges alongside the I
 **Access date:** 2026-01-13
 **Title:** Why Trump is holding off on military action against Iran
 **URL:** https://apnews.com/article/trump-iran-protests-military-tariffs-28972b6ac7f67b5f28a7a3089ea2cf23
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

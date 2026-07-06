@@ -16,7 +16,8 @@ topic_tags:
   - "arts, culture, entertainment and media"
   - "mass media"
   - publishing
-storyline_nexus: []
+storyline_nexus:
+- 2026-midterm-elections
 geographic_location: Detroit, Michigan; United States
 floor_values_engaged:
 - value: informed_citizenship
@@ -101,84 +102,102 @@ This article is released under the Creative Commons CC0 1.0 Universal Public Dom
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** USA Today Co.; Detroit Free Press; Detroit News
-**Predicate:** announced plan to acquire
-**Object:** The Detroit News (newspaper)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** USA Today Co.; Detroit Free Press; Detroit News
+- **Predicate:** announced plan to acquire
+- **Object:** The Detroit News (newspaper)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > USA Today Co., owner of the Detroit Free Press, announced on January 26, 2026, that it plans to acquire The Detroit News.
 
-### c_002 — reported, single source
-**Subject entities:** Detroit Free Press; Detroit News
-**Predicate:** will continue to publish
-**Object:** separately (operating_arrangement)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Detroit Free Press; Detroit News
+- **Predicate:** will continue to publish
+- **Object:** separately (operating_arrangement)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > Both newspapers will continue to publish separately under USA Today Co. ownership.
 
-### c_003 — reported, single source
-**Subject entities:** USA Today Co.; Detroit News
-**Predicate:** expected to close
-**Object:** end of January 2026 (temporal_event)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** USA Today Co.; Detroit News
+- **Predicate:** expected to close
+- **Object:** end of January 2026 (temporal_event)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > The acquisition is expected to close by the end of January 2026.
 
-### c_004 — reported, single source
-**Subject entities:** USA Today Co.; Apollo Global Management
-**Predicate:** funding
-**Object:** cash and financing (financial_mechanism)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** USA Today Co.; Apollo Global Management
+- **Predicate:** funding
+- **Object:** cash and financing (financial_mechanism)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > The sale is being funded through cash and financing from Apollo Global Management.
 
-### c_005 — confirmed, single source
-**Subject entities:** Detroit News; Detroit Free Press
-**Predicate:** ended agreement
-**Object:** joint operating agreement (business_arrangement)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Detroit News; Detroit Free Press
+- **Predicate:** ended agreement
+- **Object:** joint operating agreement (business_arrangement)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > The Detroit News and Detroit Free Press ended their joint operating agreement in December 2025 after 36 years.
 
-### c_006 — confirmed, single source
-**Subject entities:** Detroit News; Detroit Free Press; Newspaper Preservation Act
-**Predicate:** established
-**Object:** 1989 (year)
-**Temporal:** 1989
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Detroit News; Detroit Free Press; Newspaper Preservation Act
+- **Predicate:** established
+- **Object:** 1989 (year)
+- **Temporal:** 1989
+- **Sources:** src_001
 
 > The joint operating agreement between the papers was established in 1989 under the Newspaper Preservation Act of 1970.
 
-### c_007 — confirmed, single source
-**Subject entities:** Detroit News
-**Predicate:** won
-**Object:** three Pulitzer Prizes (award)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Detroit News
+- **Predicate:** won
+- **Object:** three Pulitzer Prizes (award)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > The Detroit News has won three Pulitzer Prizes.
 
-### c_008 — confirmed, single source
-**Subject entities:** Detroit Free Press
-**Predicate:** won
-**Object:** ten Pulitzer Prizes (award)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Detroit Free Press
+- **Predicate:** won
+- **Object:** ten Pulitzer Prizes (award)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > The Detroit Free Press has won ten Pulitzer Prizes.
 
-### c_009 — attributed, single source
-**Subject entities:** Guy Gilmore; MediaNews Group; Detroit News; Detroit Free Press
-**Predicate:** stated mutual desire
-**Object:** ensure publications serve Detroit area (statement)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Guy Gilmore; MediaNews Group; Detroit News; Detroit Free Press
+- **Predicate:** stated mutual desire
+- **Object:** ensure publications serve Detroit area (statement)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > Guy Gilmore, chief operating officer of MediaNews Group, said both companies have a mutual desire to ensure these publications and their distinct journalism continue to serve the greater Detroit area.
 
@@ -190,7 +209,3 @@ This article is released under the Creative Commons CC0 1.0 Universal Public Dom
 **Access date:** 2026-01-26
 **Title:** USA Today Co., formerly Gannett, says it intends to purchase the The Detroit News
 **URL:** https://apnews.com/article/usa-today-says-it-will-purchase-detroit-news-7c9b092d5b1e092f7593d3fe8187da7e
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

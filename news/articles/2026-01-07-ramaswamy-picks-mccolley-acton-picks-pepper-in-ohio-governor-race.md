@@ -1,6 +1,5 @@
 ---
 headline: Ramaswamy picks McColley, Acton picks Pepper in Ohio governor race
-slug: 2026-01-07-ohio-governor-race-ramaswamy-acton-pick-running-mates
 publish_date: '2026-01-07'
 lede: Republican entrepreneur Vivek Ramaswamy selected Ohio Senate President Rob McColley as his running mate Wednesday, while Democratic former state health director Amy Acton chose former state party chair David Pepper, as both tickets in Ohio's open governor's race filled the experience gap that had defined them. The announcements came on the same day, with Ramaswamy staging an introduction event in Cleveland and Acton and Pepper making their first joint public appearance at an affordability roundtable in Columbus. Republican Gov. Mike DeWine cannot seek reelection because of term limits.
 nut_graf: The picks give both tickets their first candidates with backgrounds in elective office. Ramaswamy, a billionaire biotech executive, and Acton, a physician and former nonprofit executive, had each built campaigns around their outsider credentials; their running-mate choices reflect a shared calculation that governing experience will matter to Ohio voters in the 2026 contest.
@@ -15,38 +14,41 @@ primary_themes:
 - Ohio Governor Race
 - Running Mate Selections
 topic_tags:
-  - election
-  - politics
-storyline_nexus: []
-geographic_location: Ohio, United States
+- election
+- government
+- political process
+- politics
+storyline_nexus:
+- 2026-midterm-elections
+geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship
   intensity: 0.9
 - value: accountability_of_power
   intensity: 0.6
-framework_version: 1.1.0
-generation_timestamp: '2026-05-16T18:08:22Z'
+framework_version: 1.3.0
+generation_timestamp: '2026-05-22T23:56:30Z'
 source_cluster_id: cluster_ap_2026-01-06_election-2026-ohio-governor-acton-runnin
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 14
   hedges:
-    appears: 0
-    alleged: 0
     attributed: 9
     reported: 0
-    contested: 0
+    appears: 0
+    alleged: 0
     confirmed: 5
+    contested: 0
   corroboration:
     primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
     primary_document: 2
-    single_source: 12
     two_independent: 0
+    single_source: 12
 sources:
   count: 1
   outlets:
@@ -67,6 +69,15 @@ image:
 cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Summary point 1.
+- Summary point 2.
+- Summary point 3.
+- Summary point 4.
 
 Republican entrepreneur Vivek Ramaswamy selected Ohio Senate President Rob McColley as his running mate Wednesday, while Democratic former state health director Amy Acton chose former state party chair David Pepper, as both tickets in Ohio's open governor's race filled the experience gap that had defined them. The announcements came on the same day, with Ramaswamy staging an introduction event in Cleveland and Acton and Pepper making their first joint public appearance at an affordability roundtable in Columbus. Republican Gov. Mike DeWine cannot seek reelection because of term limits.
 
@@ -100,129 +111,157 @@ Ohio's governor's race is among the more closely watched state contests of the 2
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Vivek Ramaswamy; Rob McColley
-**Predicate:** selected_as_running_mate
-**Object:** Rob McColley (person)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Vivek Ramaswamy; Rob McColley
+- **Predicate:** selected_as_running_mate
+- **Object:** Rob McColley (person)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Vivek Ramaswamy selected Ohio Senate President Rob McColley as his running mate.
 
-### c_002 — confirmed, primary document
-**Subject entities:** Amy Acton; David Pepper
-**Predicate:** selected_as_running_mate
-**Object:** David Pepper (person)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Amy Acton; David Pepper
+- **Predicate:** selected_as_running_mate
+- **Object:** David Pepper (person)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Amy Acton chose former state Democratic Chair David Pepper as her running mate.
 
-### c_003 — attributed, single source
-**Subject entities:** Vivek Ramaswamy
-**Predicate:** described_as
-**Object:** billionaire biotech executive from Cincinnati (description)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Vivek Ramaswamy
+- **Predicate:** described_as
+- **Object:** billionaire biotech executive from Cincinnati (description)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Ramaswamy is a billionaire biotech executive from Cincinnati.
 
-### c_004 — confirmed, single source
-**Subject entities:** Rob McColley
-**Predicate:** elected_and_appointed
-**Object:** Ohio House 2014, Ohio Senate December 2017 (electoral_history)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Rob McColley
+- **Predicate:** elected_and_appointed
+- **Object:** Ohio House 2014, Ohio Senate December 2017 (electoral_history)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > McColley, 41, of northwest Ohio, was first elected to the Ohio House in 2014 before being appointed to the Senate to fill a vacancy in December 2017.
 
-### c_005 — confirmed, single source
-**Subject entities:** Amy Acton; Mike DeWine
-**Predicate:** served_as
-**Object:** state health director (role)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Amy Acton; Mike DeWine
+- **Predicate:** served_as
+- **Object:** state health director (role)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Acton is a physician and former nonprofit executive who served as DeWine's state health director.
 
-### c_006 — attributed, single source
-**Subject entities:** David Pepper
-**Predicate:** served_as
-**Object:** Cincinnati City Council and Hamilton County Commission (roles)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** David Pepper
+- **Predicate:** served_as
+- **Object:** Cincinnati City Council and Hamilton County Commission (roles)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Pepper previously served as a Cincinnati City Council member and Hamilton County Commission member.
 
-### c_007 — confirmed, single source
-**Subject entities:** Mike DeWine
-**Predicate:** term_limited
-**Object:** ineligible for reelection (legal_status)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Mike DeWine
+- **Predicate:** term_limited
+- **Object:** ineligible for reelection (legal_status)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Republican Gov. Mike DeWine cannot seek reelection because of term limits.
 
-### c_008 — attributed, single source
-**Subject entities:** Vivek Ramaswamy
-**Predicate:** said
-**Object:** quotation (direct_quote)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Vivek Ramaswamy
+- **Predicate:** said
+- **Object:** quotation (direct_quote)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Ramaswamy said of McColley: 'I'm an entrepreneur, not a politician. He has experience that I don't.'
 
-### c_009 — attributed, single source
-**Subject entities:** Amy Acton
-**Predicate:** said
-**Object:** quotation (direct_quote)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Amy Acton
+- **Predicate:** said
+- **Object:** quotation (direct_quote)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Acton said: 'I've been going everywhere and listening deeply for almost two years now, and people are longing for public servants again who solve the problems of our everyday life.'
 
-### c_010 — attributed, single source
-**Subject entities:** Jai Chabria; David Pepper
-**Predicate:** said
-**Object:** criticism of Pepper (campaign_statement)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jai Chabria; David Pepper
+- **Predicate:** said
+- **Object:** criticism of Pepper (campaign_statement)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Ramaswamy chief strategist Jai Chabria called Pepper 'a nepo baby' and cited Pepper's unsuccessful bids for mayor of Cincinnati, Ohio auditor of state, and Ohio attorney general.
 
-### c_011 — attributed, single source
-**Subject entities:** Kevin Holst; Rob McColley
-**Predicate:** said
-**Object:** criticism of McColley (campaign_statement)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Kevin Holst; Rob McColley
+- **Predicate:** said
+- **Object:** criticism of McColley (campaign_statement)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > The Democratic Lieutenant Governors Association executive director Kevin Holst said McColley supported bills banning most abortions in Ohio and creating hurdles for solar and wind projects.
 
-### c_012 — attributed, single source
-**Subject entities:** Amy Acton; David Pepper
-**Predicate:** said
-**Object:** quotation (direct_quote)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Amy Acton; David Pepper
+- **Predicate:** said
+- **Object:** quotation (direct_quote)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Acton said Pepper 'has faced just about every problem a governor faces' through his city and county roles.
 
-### c_013 — attributed, single source
-**Subject entities:** Jai Chabria; David Pepper
-**Predicate:** said
-**Object:** 38 percent in attorney general race (electoral_result)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jai Chabria; David Pepper
+- **Predicate:** said
+- **Object:** 38 percent in attorney general race (electoral_result)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Chabria said Ohio voters had rejected Pepper for political office, including for mayor of Cincinnati, Ohio auditor of state, and Ohio attorney general, where Pepper received 38 percent of the vote.
 
-### c_014 — attributed, single source
-**Subject entities:** David Pepper
-**Predicate:** credited_with
-**Object:** foreclosure prevention, drug discount, EITC initiative (policy_record)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** David Pepper
+- **Predicate:** credited_with
+- **Object:** foreclosure prevention, drug discount, EITC initiative (policy_record)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Pepper's campaign record includes spearheading a foreclosure prevention program, a prescription drug discount program, and an earned income tax credit initiative.
 
@@ -231,10 +270,5 @@ Ohio's governor's race is among the more closely watched state contests of the 2
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Julie Carr Smyth
 **Publication date:** 2026-01-07
-**Access date:** 2026-05-16
 **Title:** In Ohio governor race, Vivek Ramaswamy and Amy Acton pick running mates
 **URL:** https://apnews.com/article/election-2026-ohio-governor-acton-running-mate-51e12df37b43b58d9c389cec7a4ef208
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

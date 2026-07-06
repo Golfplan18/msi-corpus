@@ -1,6 +1,5 @@
 ---
 headline: US allies join foes in UN rebuke of Venezuela military operation
-slug: 2026-01-05-us-allies-join-foes-in-un-rebuke-of-venezuela-military-operation
 publish_date: '2026-01-05'
 lede: The United Nations Security Council convened an emergency session Monday as countries ranging from traditional U.S. allies to long-standing rivals condemned the Jan. 3 American military operation that captured Venezuelan leader Nicolás Maduro and transported him to New York to face federal narco-terrorism charges. Maduro declared his innocence during his first appearance in a Manhattan federal courthouse the same day.
 nut_graf: The breadth of international opposition — spanning NATO partners in Europe to adversaries China and Russia — laid bare the diplomatic costs of an action the Trump administration defended as a justified law enforcement measure against what it characterized as a narco-terrorist.
@@ -21,43 +20,40 @@ primary_themes:
 - UN Security Council
 - narco-terrorism
 topic_tags:
-  - "conflict, war and peace"
-  - "international relations"
-  - politics
-  - terrorism
+- armed conflict
+- international military intervention
+- international relations
+- crime
+- law enforcement
 storyline_nexus:
-  - venezuela-crisis
-geographic_location: United Nations, New York
+- venezuela-political-military-crisis
+geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
   intensity: 0.9
-- value: informed_citizenship
-  intensity: 0.85
-- value: human_life_and_dignity
-  intensity: 0.7
-framework_version: 1.1.0
-generation_timestamp: '2026-05-16T18:10:38Z'
+framework_version: 1.3.0
+generation_timestamp: '2026-05-22T23:59:06Z'
 source_cluster_id: cluster_ap_2026-01-06_venezuela-united-nations-maduro-trump-wa
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 15
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 11
-    reported: 1
-    contested: 0
     confirmed: 3
+    reported: 1
+    alleged: 0
+    contested: 0
+    appears: 0
+    attributed: 11
   corroboration:
     primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
-    primary_document: 14
-    single_source: 0
     two_independent: 1
+    single_source: 0
+    primary_document: 14
 sources:
   count: 1
   outlets:
@@ -75,41 +71,15 @@ image:
   url: /articles/2026-01-05-us-allies-join-foes-in-un-rebuke-of-venezuela-military-operation.png
   alt: 'Illustration accompanying article: US allies join foes in UN rebuke of Venezuela military operation'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-06-maduro-arraignment-renews-fears-over-eroding-international-legal-order
-  relation: related
-  strength: 0.8823
-  confidence: medium
-- slug: 2026-01-06-maduro-capture-rattles-global-legal-order-as-nations-condemn-us-action
-  relation: related
-  strength: 0.8705
-  confidence: medium
-- slug: 2026-01-07-maduro-s-capture-gives-russia-a-strategic-setback-and-a-diplomatic-opening
-  relation: related
-  strength: 0.8284
-  confidence: medium
-- slug: 2026-01-03-us-seizure-of-maduro-sparks-legal-debate-as-trump-claims-control-of-venezuela
-  relation: related
-  strength: 0.827
-  confidence: medium
-- slug: 2026-01-04-trump-renews-greenland-push-warns-cuba-and-colombia-after-venezuela-operation
-  relation: related
-  strength: 0.8176
-  confidence: medium
-- slug: 2026-01-04-trump-invokes-monroe-doctrine-in-maduro-arrest-proclaims-trump-corollary
-  relation: related
-  strength: 0.8082
-  confidence: medium
-- slug: 2026-01-03-venezuela-in-limbo-after-maduro-capture-as-trump-endorses-deputy-snubs-oppositio
-  relation: related
-  strength: 0.8098
-  confidence: medium
-- slug: 2026-01-05-maduro-pleads-not-guilty-to-federal-narcotics-charges-in-manhattan-court
-  relation: related
-  strength: 0.7958
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Article processed for summary.
 
 The United Nations Security Council convened an emergency session Monday as countries ranging from traditional U.S. allies to long-standing rivals condemned the Jan. 3 American military operation that captured Venezuelan leader Nicolás Maduro and transported him to New York to face federal narco-terrorism charges. Maduro declared his innocence during his first appearance in a Manhattan federal courthouse the same day.
 
@@ -161,138 +131,168 @@ President Donald Trump has asserted that the United States would run Venezuela a
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** UN Security Council
-**Predicate:** convened_emergency_session
-**Object:** U.S. Venezuela military operation (event)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** UN Security Council
+- **Predicate:** convened_emergency_session
+- **Object:** U.S. Venezuela military operation (event)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > The UN Security Council held an emergency session Monday to discuss the U.S. military operation that captured Nicolás Maduro.
 
-### c_002 — confirmed, primary document
-**Subject entities:** UN Security Council member states
-**Predicate:** voiced_opposition
-**Object:** U.S. Venezuela operation (action)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** UN Security Council member states
+- **Predicate:** voiced_opposition
+- **Object:** U.S. Venezuela operation (action)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > Both U.S. allies and adversaries voiced opposition to the U.S. Venezuela operation at the Security Council meeting.
 
-### c_003 — attributed, primary document
-**Subject entities:** Christina Markus Lassen
-**Predicate:** stated
-**Object:** inviolability of borders (assertion)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Christina Markus Lassen
+- **Predicate:** stated
+- **Object:** inviolability of borders (assertion)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > Danish UN Ambassador Christina Markus Lassen said 'The inviolability of borders is not up for negotiation.'
 
-### c_004 — attributed, primary document
-**Subject entities:** Jay Dharmadhikari
-**Predicate:** stated
-**Object:** operation violates international law principles (assertion)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Jay Dharmadhikari
+- **Predicate:** stated
+- **Object:** operation violates international law principles (assertion)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > French Deputy UN Ambassador Jay Dharmadhikari said the military operation 'runs counter to the principle of peace dispute resolution and runs counter to the principle of non-use of force.'
 
-### c_005 — attributed, primary document
-**Subject entities:** Mike Waltz
-**Predicate:** defended
-**Object:** U.S. Venezuela operation (action)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Mike Waltz
+- **Predicate:** defended
+- **Object:** U.S. Venezuela operation (action)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > U.S. envoy Mike Waltz, Trump's former national security adviser, defended the operation as a 'surgical law enforcement operation.'
 
-### c_006 — attributed, primary document
-**Subject entities:** Antonio Guterres
-**Predicate:** stated
-**Object:** international law concerns over Jan. 3 operation (assertion)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Antonio Guterres
+- **Predicate:** stated
+- **Object:** international law concerns over Jan. 3 operation (assertion)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > UN Secretary-General Antonio Guterres said he is 'deeply concerned that rules of international law have not been respected with regard to the 3 January military action.'
 
-### c_007 — attributed, primary document
-**Subject entities:** Samuel Moncada
-**Predicate:** urged
-**Object:** release of Maduro (demand)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Samuel Moncada
+- **Predicate:** urged
+- **Object:** release of Maduro (demand)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > Venezuelan Ambassador Samuel Moncada urged the Security Council to demand that Washington release Maduro and his wife.
 
-### c_008 — attributed, primary document
-**Subject entities:** Leonor Zalabata
-**Predicate:** stated
-**Object:** U.S. raid compared to historical interference (assertion)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Leonor Zalabata
+- **Predicate:** stated
+- **Object:** U.S. raid compared to historical interference (assertion)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > Colombian Ambassador Leonor Zalabata described the raid as reminiscent of 'the worst interference in our area in the past.'
 
-### c_009 — attributed, primary document
-**Subject entities:** Vassily Nebenzia
-**Predicate:** stated
-**Object:** rejection of U.S. unilateral action (demand)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Vassily Nebenzia
+- **Predicate:** stated
+- **Object:** rejection of U.S. unilateral action (demand)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > Russian Ambassador Vassily Nebenzia called for the UN to reject what he characterized as an 'era of lawlessness.'
 
-### c_010 — confirmed, primary document
-**Subject entities:** United States; Nicolás Maduro
-**Predicate:** seized_and_transported
-**Object:** Maduro and wife to U.S. warship (action)
-**Temporal:** 2026-01-03
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** United States; Nicolás Maduro
+- **Predicate:** seized_and_transported
+- **Object:** Maduro and wife to U.S. warship (action)
+- **Temporal:** 2026-01-03
+- **Sources:** src_001
 
 > The U.S. seized Maduro and his wife early Saturday from their home on a Venezuelan military base and put them aboard a U.S. warship.
 
-### c_011 — attributed, primary document
-**Subject entities:** Nicolás Maduro
-**Predicate:** declared
-**Object:** innocence (assertion)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Nicolás Maduro
+- **Predicate:** declared
+- **Object:** innocence (assertion)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > Maduro declared his innocence during his first appearance in a Manhattan courthouse Monday.
 
-### c_012 — attributed, primary document
-**Subject entities:** Donald Trump
-**Predicate:** stated
-**Object:** U.S. control of Venezuela and oil reserves (assertion)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Donald Trump
+- **Predicate:** stated
+- **Object:** U.S. control of Venezuela and oil reserves (assertion)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > Trump has insisted the U.S. would run Venezuela at least temporarily and tap its oil reserves to sell to other nations.
 
-### c_013 — attributed, primary document
-**Subject entities:** Marco Rubio
-**Predicate:** stated
-**Object:** oil quarantine as leverage on Venezuela (policy)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Marco Rubio
+- **Predicate:** stated
+- **Object:** oil quarantine as leverage on Venezuela (policy)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > Secretary of State Marco Rubio said the U.S. would enforce an oil quarantine on sanctioned tankers to press policy changes in Venezuela.
 
-### c_014 — attributed, primary document
-**Subject entities:** Jay Dharmadhikari
-**Predicate:** stated
-**Object:** P5 violations erode international order (assertion)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Jay Dharmadhikari
+- **Predicate:** stated
+- **Object:** P5 violations erode international order (assertion)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > France's UN envoy said violations of international law by P5 members erode 'the very foundation of the international order.'
 
-### c_015 — reported, two independent
-**Subject entities:** Nicolás Maduro
-**Predicate:** reelection_disputed
-**Object:** 2024 Venezuelan presidential election (event)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_015
+- **Hedge:** reported
+- **Corroboration:** two_independent
+- **Subject entities:** Nicolás Maduro
+- **Predicate:** reelection_disputed
+- **Object:** 2024 Venezuelan presidential election (event)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > Maduro's 2024 reelection was widely disputed.
 
@@ -301,10 +301,5 @@ President Donald Trump has asserted that the United States would run Venezuela a
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Farnoush Amiri
 **Publication date:** 2026-01-05
-**Access date:** 2026-01-05
 **Title:** America's allies and foes use UN meeting to critique capture of Maduro
 **URL:** https://apnews.com/article/venezuela-united-nations-maduro-trump-waltz-1433e10bbb800fb41b21a70c7501ad88
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

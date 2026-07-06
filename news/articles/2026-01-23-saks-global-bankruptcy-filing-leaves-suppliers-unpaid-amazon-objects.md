@@ -21,7 +21,8 @@ primary_themes:
 topic_tags:
   - banking
   - "economy, business and finance"
-storyline_nexus: []
+storyline_nexus:
+- us-economic-volatility
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
@@ -106,120 +107,146 @@ Saks announced in November that it would close nine Saks Off 5th locations, brin
 
 ## Atomic claims
 
-### c_001 — reported, primary document
-**Subject entities:** Saks Global
-**Predicate:** filed_bankruptcy
-**Object:** bankruptcy protection (legal_filing)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Saks Global
+- **Predicate:** filed_bankruptcy
+- **Object:** bankruptcy protection (legal_filing)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Saks Global, the operator of Saks Fifth Avenue, Bergdorf Goodman and Neiman Marcus, filed for bankruptcy protection.
 
-### c_002 — attributed, single source
-**Subject entities:** Saks Global; Neiman Marcus
-**Predicate:** acquired
-**Object:** $2.65 billion (monetary_amount)
-**Temporal:** 2025-01-22
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Saks Global; Neiman Marcus
+- **Predicate:** acquired
+- **Object:** $2.65 billion (monetary_amount)
+- **Temporal:** 2025-01-22
+- **Sources:** src_001
 
 > Saks Global acquired Neiman Marcus for $2.65 billion roughly a year before filing for bankruptcy.
 
-### c_003 — attributed, single source
-**Subject entities:** supplier brands
-**Predicate:** owed_money
-**Object:** $600,000 to $10 million per supplier (monetary_amount)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** supplier brands
+- **Predicate:** owed_money
+- **Object:** $600,000 to $10 million per supplier (monetary_amount)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Suppliers are owed between $600,000 and $10 million each by Saks, according to lawyers representing brands.
 
-### c_004 — attributed, single source
-**Subject entities:** some supplier brands
-**Predicate:** depended_on
-**Object:** 40-50% of business (business_concentration)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** some supplier brands
+- **Predicate:** depended_on
+- **Object:** 40-50% of business (business_concentration)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > For some suppliers, Saks accounted for 40 to 50 percent of their total business.
 
-### c_005 — attributed, single source
-**Subject entities:** Saks Global
-**Predicate:** secured_financing
-**Object:** $1.75 billion (monetary_amount)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Saks Global
+- **Predicate:** secured_financing
+- **Object:** $1.75 billion (monetary_amount)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Saks Global secured approximately $1.75 billion to finance operations and compensate vendors.
 
-### c_006 — attributed, single source
-**Subject entities:** luxury brands
-**Predicate:** stopped_shipping
-**Object:** goods (business_action)
-**Temporal:** before 2026-01-22
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** luxury brands
+- **Predicate:** stopped_shipping
+- **Object:** goods (business_action)
+- **Temporal:** before 2026-01-22
+- **Sources:** src_001
 
 > Many brands stopped shipping goods weeks before the bankruptcy filing became public.
 
-### c_007 — attributed, single source
-**Subject entities:** Saks Fifth Avenue Manhattan
-**Predicate:** had_merchandise_gaps
-**Object:** sparse handbags and shoes (visual_observation)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Saks Fifth Avenue Manhattan
+- **Predicate:** had_merchandise_gaps
+- **Object:** sparse handbags and shoes (visual_observation)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > A visit to Saks Fifth Avenue's flagship store in Manhattan revealed noticeable merchandise gaps, including handbags and shoes spread thinly along shelves.
 
-### c_008 — attributed, single source
-**Subject entities:** Joseph Sarachek
-**Predicate:** represents
-**Object:** 30 brands (client_set)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Joseph Sarachek
+- **Predicate:** represents
+- **Object:** 30 brands (client_set)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Joseph Sarachek, a lawyer, represents roughly 30 brands owed money by Saks.
 
-### c_009 — attributed, single source
-**Subject entities:** Amazon; Saks Global
-**Predicate:** invested
-**Object:** $475 million (monetary_amount)
-**Temporal:** 2024-12
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Amazon; Saks Global
+- **Predicate:** invested
+- **Object:** $475 million (monetary_amount)
+- **Temporal:** 2024-12
+- **Sources:** src_001
 
 > Amazon invested $475 million as part of Saks' purchase of Neiman Marcus in December 2024.
 
-### c_010 — attributed, primary document
-**Subject entities:** Amazon
-**Predicate:** characterized_investment
-**Object:** presumptively worthless (legal_characterization)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Amazon
+- **Predicate:** characterized_investment
+- **Object:** presumptively worthless (legal_characterization)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Amazon called its equity investment in Saks 'presumptively worthless' in a court filing.
 
-### c_011 — reported, single source
-**Subject entities:** Saks
-**Predicate:** announced_closures
-**Object:** 9 Saks Off 5th locations (store_closures)
-**Temporal:** 2025-11
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Saks
+- **Predicate:** announced_closures
+- **Object:** 9 Saks Off 5th locations (store_closures)
+- **Temporal:** 2025-11
+- **Sources:** src_001
 
 > Saks announced in November that it would close nine Saks Off 5th stores starting in January.
 
-### c_012 — reported, single source
-**Subject entities:** Saks Global
-**Predicate:** operates
-**Object:** 33 Saks + 36 Neiman Marcus + 2 Bergdorf Goodman stores (store_count)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Saks Global
+- **Predicate:** operates
+- **Object:** 33 Saks + 36 Neiman Marcus + 2 Bergdorf Goodman stores (store_count)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Saks operates 33 Saks stores, 36 Neiman Marcus locations, and 2 Bergdorf Goodman stores.
 
-### c_013 — reported, single source
-**Subject entities:** Saks Fifth Avenue; Neiman Marcus; Saks Off 5th
-**Predicate:** offering_discounts
-**Object:** 70%-85% off select items (pricing_action)
-**Temporal:** 2026-01-22
-**Source IDs:** src_001
+### c_013
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Saks Fifth Avenue; Neiman Marcus; Saks Off 5th
+- **Predicate:** offering_discounts
+- **Object:** 70%-85% off select items (pricing_action)
+- **Temporal:** 2026-01-22
+- **Sources:** src_001
 
 > Shoppers are seeing discounts of up to 70 percent at Saks Fifth Avenue, up to 75 percent at Neiman Marcus, and up to 85 percent at Saks Off 5th.
 
@@ -231,7 +258,3 @@ Saks announced in November that it would close nine Saks Off 5th locations, brin
 **Access date:** 2026-01-23
 **Title:** Saks Global's bankruptcy filing leaves suppliers unpaid, Amazon furious
 **URL:** https://apnews.com/article/saks-neiman-marcus-bankruptcy-suppliers-7db914b38a80284f803067be78df5404
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

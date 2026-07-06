@@ -101,8 +101,6 @@ The government's pressure on the opposition extended beyond the election and cam
 
 Museveni has dominated Uganda's politics for decades, credited by his supporters with bringing relative peace and stability that makes Uganda home to hundreds of thousands of people fleeing violence in the region. But he has offered no retirement timeline, and no rivals exist in the upper ranks of his National Resistance Movement party.
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
 ### c_001 — attributed, single source
@@ -221,7 +219,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-05-18
 **Title:** Attorney fears for safety of Ugandan opposition figure Bobi Wine
 **URL:** https://apnews.com/article/uganda-opposition-bobi-wine-0756ac1b8ad88073dee86ecc05fdb091
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

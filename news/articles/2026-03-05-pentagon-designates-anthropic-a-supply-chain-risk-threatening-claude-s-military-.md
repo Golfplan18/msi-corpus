@@ -16,43 +16,41 @@ primary_themes:
 - national security
 - executive power
 topic_tags:
-  - "armed conflict"
-  - "artificial intelligence"
-  - "conflict, war and peace"
-  - "science and technology"
-  - "technology and engineering"
-storyline_nexus: []
+- artificial intelligence
+- armed conflict
+- conflict, war and peace
+- government policy
+storyline_nexus:
+- ai-industry-regulation
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
-  intensity: 0.92
-- value: informed_citizenship
-  intensity: 0.85
+  intensity: 0.9
 - value: human_life_and_dignity
-  intensity: 0.65
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:46:00Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:30:47Z'
 source_cluster_id: cluster_ap_2026-03-05_pentagon-ai-anthropic-claude-dario-amode
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 15
   hedges:
-    appears: 0
     alleged: 0
     attributed: 10
-    reported: 4
-    contested: 0
     confirmed: 1
+    appears: 0
+    contested: 0
+    reported: 4
   corroboration:
-    primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
-    primary_document: 1
     single_source: 14
     two_independent: 0
+    primary_document: 1
+    primary_plus_secondary: 0
 sources:
   count: 1
   outlets:
@@ -70,17 +68,16 @@ image:
   url: /articles/2026-03-05-pentagon-designates-anthropic-a-supply-chain-risk-threatening-claude-s-military-.png
   alt: 'Illustration accompanying article: Pentagon designates Anthropic a supply chain risk, threatening Claude''s military use'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-12-sen-kelly-sues-pentagon-over-censure-for-video-urging-troops-to-resist-unlawful-
-  relation: related
-  strength: 0.7436
-  confidence: medium
-- slug: 2026-01-05-hegseth-censures-sen-kelly-over-video-urging-troops-to-resist-unlawful-orders
-  relation: related
-  strength: 0.7443
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- The Pentagon on Thursday officially designated AI company Anthropic and its Claude chatbot as a supply chain risk, effective immediately — a move that could force defense contractors to cut ties with one of the country's fastest-growing AI companies and sets up an unprecedented legal clash between a U.
+- The designation invokes legal authority federal law has defined as reserved for foreign adversaries suspected of sabotage or espionage, and drew immediate criticism from former national security officials, lawmakers, and policy experts who said the Trump administration had repurposed the tool to punish a domestic company for declining to strip safeguards against mass domestic surveillance and fully autonomous weapons.
+- The designation invokes legal authority federal law has defined as reserved for foreign adversaries suspected of sabotage or espionage, and drew immediate criticism from former national security officials, lawmakers, and policy experts who said the Trump administration had repurposed the tool to punish a domestic company for declining to strip safeguards against mass domestic surveillance and fully autonomous weapons..
 
 The designation invokes legal authority federal law has defined as reserved for foreign adversaries suspected of sabotage or espionage, and drew immediate criticism from former national security officials, lawmakers, and policy experts who said the Trump administration had repurposed the tool to punish a domestic company for declining to strip safeguards against mass domestic surveillance and fully autonomous weapons.
 
@@ -132,138 +129,168 @@ Amodei said Thursday that he wanted to "directly apologize" for an internal note
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** U.S. Department of Defense; Anthropic PBC
-**Predicate:** designated_supply_chain_risk
-**Object:** supply chain risk (regulatory_designation)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Department of Defense; Anthropic PBC
+- **Predicate:** designated_supply_chain_risk
+- **Object:** supply chain risk (regulatory_designation)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > The Pentagon officially informed Anthropic leadership that the company and its products are deemed a supply chain risk, effective immediately.
 
-### c_002 — attributed, single source
-**Subject entities:** Dario Amodei; Anthropic PBC
-**Predicate:** stated
-**Object:** will challenge designation in court (legal_response)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Dario Amodei; Anthropic PBC
+- **Predicate:** stated
+- **Object:** will challenge designation in court (legal_response)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > Amodei said the company does not believe the action is legally sound and sees no choice but to challenge it in court.
 
-### c_003 — reported, single source
-**Subject entities:** Donald Trump; Pete Hegseth; Dario Amodei
-**Predicate:** announced_threatened_punishments
-**Object:** threatened punishments over Claude surveillance and weapons concerns (policy_action)
-**Temporal:** 2026-02-27
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Pete Hegseth; Dario Amodei
+- **Predicate:** announced_threatened_punishments
+- **Object:** threatened punishments over Claude surveillance and weapons concerns (policy_action)
+- **Temporal:** 2026-02-27
+- **Sources:** src_001
 
 > Trump and Defense Secretary Pete Hegseth announced threatened punishments last Friday, on the eve of the Iran war, after Amodei refused to back down over concerns that Claude could be used for mass surveillance of Americans or autonomous weapons.
 
-### c_004 — reported, single source
-**Subject entities:** Donald Trump
-**Predicate:** directed
-**Object:** six-month phase-out of Claude (executive_directive)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** directed
+- **Object:** six-month phase-out of Claude (executive_directive)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > Trump directed the military to phase out Claude within six months.
 
-### c_005 — attributed, single source
-**Subject entities:** Dario Amodei; Anthropic PBC
-**Predicate:** stated
-**Object:** restrictions address high-level usage, not operational decision-making (clarification_statement)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Dario Amodei; Anthropic PBC
+- **Predicate:** stated
+- **Object:** restrictions address high-level usage, not operational decision-making (clarification_statement)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > Amodei said the narrow exceptions Anthropic sought to limit surveillance and autonomous weapons relate to high-level usage areas, and not operational decision-making.
 
-### c_006 — attributed, single source
-**Subject entities:** Dario Amodei; Anthropic PBC; U.S. Department of Defense
-**Predicate:** stated
-**Object:** designation applies only to direct military contract use (scope_clarification)
-**Temporal:** 2026-03-04
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Dario Amodei; Anthropic PBC; U.S. Department of Defense
+- **Predicate:** stated
+- **Object:** designation applies only to direct military contract use (scope_clarification)
+- **Temporal:** 2026-03-04
+- **Sources:** src_001
 
 > Amodei said a notification Anthropic received from the Pentagon on Wednesday shows the designation only applies to Claude's use by customers as a direct part of their military contracts.
 
-### c_007 — attributed, single source
-**Subject entities:** Lockheed Martin Corp.
-**Predicate:** stated
-**Object:** will comply and seek other LLM providers; minimal impact expected (corporate_statement)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Lockheed Martin Corp.
+- **Predicate:** stated
+- **Object:** will comply and seek other LLM providers; minimal impact expected (corporate_statement)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > Lockheed Martin said it will follow the President's and the Department of War's direction and look to other providers of large language models, and expects minimal impacts as it is not dependent on any single LLM vendor.
 
-### c_008 — attributed, single source
-**Subject entities:** Microsoft Corp.
-**Predicate:** stated
-**Object:** can continue non-defense work with Anthropic (corporate_statement)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Microsoft Corp.
+- **Predicate:** stated
+- **Object:** can continue non-defense work with Anthropic (corporate_statement)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > Microsoft said its lawyers studied the rule and the company can continue to work with Anthropic on non-defense related projects.
 
-### c_009 — attributed, single source
-**Subject entities:** Kirsten Gillibrand
-**Predicate:** stated
-**Object:** dangerous misuse; reckless; gift to adversaries (legislative_response)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Kirsten Gillibrand
+- **Predicate:** stated
+- **Object:** dangerous misuse; reckless; gift to adversaries (legislative_response)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > Sen. Kirsten Gillibrand, a New York Democrat and member of the Senate Armed Services and Senate Intelligence Committees, called the designation a dangerous misuse of a tool meant to address adversary-controlled technology and reckless action that is shortsighted, self-destructive, and a gift to adversaries.
 
-### c_010 — attributed, single source
-**Subject entities:** Michael Hayden
-**Predicate:** stated_in_letter
-**Object:** profound departure from intended purpose; dangerous precedent (open_letter)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Michael Hayden
+- **Predicate:** stated_in_letter
+- **Object:** profound departure from intended purpose; dangerous precedent (open_letter)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > Former defense and national security officials including former CIA director Michael Hayden and retired Air Force, Army, and Navy leaders sent a letter to lawmakers calling the designation a profound departure from its intended purpose that sets a dangerous precedent.
 
-### c_011 — attributed, single source
-**Subject entities:** Neil Chilson
-**Predicate:** stated
-**Object:** massive overreach harmful to AI sector and military procurement (expert_assessment)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Neil Chilson
+- **Predicate:** stated
+- **Object:** massive overreach harmful to AI sector and military procurement (expert_assessment)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > Neil Chilson, a Republican former FTC chief technologist who now leads AI policy at the Abundance Institute, said the decision looks like massive overreach that would hurt both the U.S. AI sector and the military's ability to acquire the best technology for warfighters.
 
-### c_012 — reported, single source
-**Subject entities:** Anthropic PBC
-**Predicate:** reported_growth
-**Object:** top AI app in 20+ countries; over one million daily signups (market_metric)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Anthropic PBC
+- **Predicate:** reported_growth
+- **Object:** top AI app in 20+ countries; over one million daily signups (market_metric)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > Anthropic said more than a million people signed up for Claude each day during the week of the dispute, making it the top AI app in more than 20 countries in Apple's App Store, surpassing ChatGPT and Google's Gemini.
 
-### c_013 — reported, single source
-**Subject entities:** OpenAI Inc
-**Predicate:** announced
-**Object:** deal to replace Anthropic in classified military environments (business_deal)
-**Temporal:** 2026-02-27
-**Source IDs:** src_001
+### c_013
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** OpenAI Inc
+- **Predicate:** announced
+- **Object:** deal to replace Anthropic in classified military environments (business_deal)
+- **Temporal:** 2026-02-27
+- **Sources:** src_001
 
 > Hours after the Pentagon announced initial punishments against Anthropic last Friday, OpenAI announced a deal to effectively replace Anthropic with ChatGPT in classified military environments.
 
-### c_014 — attributed, single source
-**Subject entities:** Sam Altman; OpenAI Inc
-**Predicate:** stated
-**Object:** deal appeared opportunistic and sloppy (self-criticism)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Sam Altman; OpenAI Inc
+- **Predicate:** stated
+- **Object:** deal appeared opportunistic and sloppy (self-criticism)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > OpenAI CEO Sam Altman said he shouldn't have rushed a deal that looked opportunistic and sloppy.
 
-### c_015 — attributed, single source
-**Subject entities:** Dario Amodei
-**Predicate:** stated
-**Object:** apology for internal note attacking OpenAI; note referenced dictator-like praise (public_apology)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Dario Amodei
+- **Predicate:** stated
+- **Object:** apology for internal note attacking OpenAI; note referenced dictator-like praise (public_apology)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > Amodei said he wanted to directly apologize for an internal note he sent to Anthropic staff that attacked OpenAI's behavior and suggested Anthropic was being punished for not giving dictator-like praise to Trump.
 
@@ -272,10 +299,5 @@ Amodei said Thursday that he wanted to "directly apologize" for an internal note
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Matt O'Brien
 **Publication date:** 2026-03-05
-**Access date:** 2026-05-17
 **Title:** Pentagon informs Anthropic that it has been designated a supply chain risk
 **URL:** https://apnews.com/article/pentagon-ai-anthropic-claude-dario-amodei-openai-d4608c7dd139245ac8ad94d5427c505a
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

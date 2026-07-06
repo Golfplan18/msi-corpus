@@ -24,8 +24,7 @@ topic_tags:
   - "conflict, war and peace"
   - "armed conflict"
 storyline_nexus:
-  - gaza-conflict
-  - immigration-enforcement
+- pakistan-afghanistan-violence
 geographic_location: Pakistan-Afghanistan border region, Nangarhar, Paktika provinces
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -117,8 +116,6 @@ Pakistan has repeatedly urged Afghanistan's Taliban rulers to prevent militant g
 The truce between Pakistan and Afghanistan came after deadly border clashes in October that killed dozens of soldiers, civilians, and suspected militants. Several rounds of talks in Istanbul in November failed to produce a formal agreement, and relations have remained strained.
 
 Abdullah Khan, a security analyst in Islamabad, said the recent strikes indicate that mediation efforts by Qatar, Turkey, and Saudi Arabia have failed. "These strikes are likely to further escalate the situation," he said.
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Human review was not triggered. Our methodology is published at /methodology.*
 
 *This work is released under [CC0](https://creativecommons.org/publicdomain/zero/1.0/) — a public domain dedication. The framework, its specification, and all supporting materials are open for adoption, adaptation, and forking by other publications.*
 
@@ -366,7 +363,3 @@ Abdullah Khan, a security analyst in Islamabad, said the recent strikes indicate
 **Access date:** 2026-05-18
 **Title:** Pakistan launches border strikes in Afghanistan, claiming it killed 70 militants
 **URL:** https://apnews.com/article/pakistan-afghanistan-militants-strikes-border-b849ad97b462de8067d1b7f20ffd9f9e
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

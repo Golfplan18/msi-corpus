@@ -105,8 +105,6 @@ Yet Linnan warned against treating the garment purely as a commodity. The weavin
 
 The "Fugu Day" declaration is part of a larger strategy. Ghana's Tourism Authority is orchestrating a broader "Wear Ghana" campaign to promote local fashion and heritage, according to Kofi Atta Kakra Kusi with the authority. The initiative includes upcoming trade exhibitions intended to showcase Ghana's textile and weaving traditions to both domestic and international audiences.
 
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from Associated Press reporting. Framework specification: /methodology. Human review: not_triggered. This work is released under Creative Commons CC0—a public domain dedication.*
-
 ## Atomic claims
 
 ### c_001 — reported, single source
@@ -225,7 +223,3 @@ The "Fugu Day" declaration is part of a larger strategy. Ghana's Tourism Authori
 **Access date:** 2026-02-23
 **Title:** Ghana uses 'Fugu Day' celebrations to boost pride in its cultural outfit
 **URL:** https://apnews.com/article/ghana-fugu-outfit-accra-fashion-d43a89c9831f0a9b2a9630659c99e46a
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

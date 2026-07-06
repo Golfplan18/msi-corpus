@@ -17,24 +17,25 @@ primary_themes:
 - congressional speech and debate clause
 - retirement grade determination
 topic_tags:
-  - government
-  - politics
-  - "science and technology"
-storyline_nexus: []
-geographic_location: Washington, D.C.
+- government
+- politics
+- law
+- political dissent
+- fundamental rights
+storyline_nexus:
+- trump-judicial-challenges
+geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
   intensity: 0.9
 - value: informed_citizenship
-  intensity: 0.85
-- value: truthfulness
-  intensity: 0.65
-framework_version: 1.1.0
-generation_timestamp: '2026-05-16T18:08:46Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-22T23:53:27Z'
 source_cluster_id: cluster_ap_2026-01-06_hegseth-kelly-illegal-orders-censure-eaf
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
@@ -42,15 +43,15 @@ claims:
   hedges:
     appears: 0
     alleged: 0
-    attributed: 9
-    reported: 0
-    contested: 0
     confirmed: 3
+    reported: 0
+    attributed: 9
+    contested: 0
   corroboration:
-    primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
-    primary_document: 0
     single_source: 12
+    primary_document: 0
+    primary_plus_secondary: 0
     two_independent: 0
 sources:
   count: 1
@@ -72,6 +73,12 @@ image:
 cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- Defense Secretary Pete Hegseth announced Monday that he censured Democratic Sen.
+- Hegseth previously said Kelly was the only one of the six lawmakers under investigation because he is the only one who formally retired from the military and remains under the Pentagon's jurisdiction.
 
 Defense Secretary Pete Hegseth announced Monday that he censured Democratic Sen. Mark Kelly of Arizona, initiating proceedings that could result in a demotion from Kelly's retired rank of Navy captain and a reduction in his retirement pay.
 
@@ -117,111 +124,135 @@ Kelly said last month that the investigation was intended to discourage dissent.
 
 ## Atomic claims
 
-### c_001 — confirmed, single source
-**Subject entities:** Pete Hegseth; Mark Kelly
-**Predicate:** issued_censure
-**Object:** formal censure letter (administrative_action)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Pete Hegseth; Mark Kelly
+- **Predicate:** issued_censure
+- **Object:** formal censure letter (administrative_action)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > Defense Secretary Pete Hegseth announced on January 5, 2026 that he censured Democratic Sen. Mark Kelly of Arizona.
 
-### c_002 — attributed, single source
-**Subject entities:** Pete Hegseth
-**Predicate:** characterized_censure_as
-**Object:** necessary process step toward demotion and pay reduction (official_statement)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Pete Hegseth
+- **Predicate:** characterized_censure_as
+- **Object:** necessary process step toward demotion and pay reduction (official_statement)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > Hegseth described the censure as 'a necessary process step' to proceedings that could result in a demotion from Kelly's retired rank of captain and a reduction in retirement pay.
 
-### c_003 — confirmed, single source
-**Subject entities:** Mark Kelly; Elissa Slotkin; Jason Crow; Chris Deluzio; Maggie Goodlander; Chrissy Houlahan
-**Predicate:** participated_in_video
-**Object:** video urging troops to defy illegal orders (public_statement)
-**Temporal:** 2025-11
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Mark Kelly; Elissa Slotkin; Jason Crow; Chris Deluzio; Maggie Goodlander; Chrissy Houlahan
+- **Predicate:** participated_in_video
+- **Object:** video urging troops to defy illegal orders (public_statement)
+- **Temporal:** 2025-11
+- **Sources:** src_001
 
 > Kelly participated in a November 2025 video with five other Democratic lawmakers calling on troops to uphold the Constitution and defy 'illegal orders.'
 
-### c_004 — attributed, single source
-**Subject entities:** Donald Trump
-**Predicate:** accused_of_sedition
-**Object:** punishable by DEATH (public_statement)
-**Temporal:** 2025-11
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** accused_of_sedition
+- **Object:** punishable by DEATH (public_statement)
+- **Temporal:** 2025-11
+- **Sources:** src_001
 
 > President Donald Trump accused the six lawmakers of sedition 'punishable by DEATH' in a social media post days after the video appeared.
 
-### c_005 — confirmed, single source
-**Subject entities:** U.S. Department of Defense; Mark Kelly
-**Predicate:** announced_investigation
-**Object:** retirement grade determination investigation (administrative_action)
-**Temporal:** 2025-11
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Department of Defense; Mark Kelly
+- **Predicate:** announced_investigation
+- **Object:** retirement grade determination investigation (administrative_action)
+- **Temporal:** 2025-11
+- **Sources:** src_001
 
 > The Pentagon announced an investigation of Kelly in late November 2025, citing a federal law that allows retired service members to be recalled to active duty for possible court-martial.
 
-### c_006 — attributed, single source
-**Subject entities:** Pete Hegseth; Mark Kelly
-**Predicate:** charged_with_UCMJ_violations
-**Object:** conduct unbecoming an officer; violating good order and discipline (legal_charge)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Pete Hegseth; Mark Kelly
+- **Predicate:** charged_with_UCMJ_violations
+- **Object:** conduct unbecoming an officer; violating good order and discipline (legal_charge)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > Hegseth charged that Kelly's remarks violated UCMJ provisions against conduct unbecoming an officer and violating good order and discipline.
 
-### c_007 — attributed, single source
-**Subject entities:** Pete Hegseth; Mark Kelly
-**Predicate:** justified_sole_investigation
-**Object:** formal military retirement under Pentagon jurisdiction (official_rationale)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Pete Hegseth; Mark Kelly
+- **Predicate:** justified_sole_investigation
+- **Object:** formal military retirement under Pentagon jurisdiction (official_rationale)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > Hegseth was the only one of the six lawmakers under investigation because he is the only one who formally retired from the military and remains under Pentagon jurisdiction.
 
-### c_008 — attributed, single source
-**Subject entities:** Mark Kelly; Pete Hegseth
-**Predicate:** faces_response_deadline
-**Object:** 30 days to respond; 45-day decision window (procedural_timeline)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Mark Kelly; Pete Hegseth
+- **Predicate:** faces_response_deadline
+- **Object:** 30 days to respond; 45-day decision window (procedural_timeline)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > Kelly has 30 days to submit a response; a decision will be made within 45 days, according to Hegseth.
 
-### c_009 — attributed, single source
-**Subject entities:** Todd Huntley; Mark Kelly
-**Predicate:** assessed_constitutional_questions
-**Object:** novel legal situation; speech or debate clause applicability (expert_assessment)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Todd Huntley; Mark Kelly
+- **Predicate:** assessed_constitutional_questions
+- **Object:** novel legal situation; speech or debate clause applicability (expert_assessment)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > Todd Huntley, a retired Navy captain and judge advocate general, described the situation as 'novel' and said it raises questions about whether the speech or debate clause protects Kelly.
 
-### c_010 — attributed, single source
-**Subject entities:** Colby Vokey; Mark Kelly
-**Predicate:** asserted_constitutional_protection
-**Object:** speech and debate clause bars punishment for official statements (legal_argument)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Colby Vokey; Mark Kelly
+- **Predicate:** asserted_constitutional_protection
+- **Object:** speech and debate clause bars punishment for official statements (legal_argument)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > Colby Vokey, a civilian military lawyer and former military prosecutor, said Kelly cannot be punished for statements consistent with his office, citing the speech and debate clause.
 
-### c_011 — attributed, single source
-**Subject entities:** Todd Huntley
-**Predicate:** questioned_precedent_applicability
-**Object:** retirement grade determinations based on active duty conduct only (legal_analysis)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Todd Huntley
+- **Predicate:** questioned_precedent_applicability
+- **Object:** retirement grade determinations based on active duty conduct only (legal_analysis)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > Huntley said retirement grade determinations have, as far as he knows, always been based on conduct during active duty service, and questioned whether post-retirement conduct would qualify.
 
-### c_012 — attributed, single source
-**Subject entities:** Colby Vokey
-**Predicate:** assessed_legal_options
-**Object:** good cause questionable; federal court recommended (legal_recommendation)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Colby Vokey
+- **Predicate:** assessed_legal_options
+- **Object:** good cause questionable; federal court recommended (legal_recommendation)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > Vokey expressed skepticism about what good cause exists for a retirement grade reduction and said federal court would likely be the more effective course of action for Kelly.
 
@@ -230,10 +261,5 @@ Kelly said last month that the investigation was intended to discourage dissent.
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Konstantin Toropin
 **Publication date:** 2026-01-05
-**Access date:** 2026-01-05
 **Title:** Hegseth censures Kelly after senator urged troops to defy illegal orders
 **URL:** https://apnews.com/article/hegseth-kelly-illegal-orders-censure-eaf323b868c118ef490dff7dc667c561
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

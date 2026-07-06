@@ -18,44 +18,43 @@ primary_themes:
 - Battleground States
 - Election Integrity
 topic_tags:
-  - "crime, law and justice"
-  - election
-  - government
-  - "government policy"
-  - judiciary
-  - politics
-storyline_nexus: []
-geographic_location: Maricopa County, Arizona, United States
+- election
+- judiciary
+- government
+- law
+storyline_nexus:
+- 2026-midterm-elections
+geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
-  intensity: 0.95
-- value: informed_citizenship
-  intensity: 0.85
+  intensity: 0.9
 - value: truthfulness
-  intensity: 0.75
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T15:42:00Z'
+  intensity: 0.6
+- value: informed_citizenship
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:44:02Z'
 source_cluster_id: cluster_ap_2026-04-18_arizona-maricopa-county-recorder-lawsuit
 gdelt_event_ids: []
-consensus_floor_version: 1.0.0
-publication_mindspec_version: 1.0.0
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 11
   hedges:
     appears: 0
-    alleged: 0
-    attributed: 4
     reported: 0
     contested: 0
+    alleged: 0
     confirmed: 7
+    attributed: 4
   corroboration:
+    two_independent: 0
+    single_source: 0
     primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
     primary_document: 11
-    single_source: 0
-    two_independent: 0
 sources:
   count: 1
   outlets:
@@ -72,6 +71,13 @@ figures_aggregate:
 cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- The decision carries significance for Arizona's 2026 midterms. Maricopa County, which includes Phoenix, has been a flashpoint for election disputes since President Donald Trump lost Arizona to Demo...
+- A judge in Arizona's most populous county on Friday sided with the county's elected recorder in a lawsuit that will reshape authority over election...
+- Maricopa County Superior Court Judge Scott Blaney ruled that the county board of supervisors had acted unlawfully when it claimed control over func...
 
 The decision carries significance for Arizona's 2026 midterms. Maricopa County, which includes Phoenix, has been a flashpoint for election disputes since President Donald Trump lost Arizona to Democrat Joe Biden in 2020, triggering waves of baseless fraud claims that led to threats of violence against elections officials.
 
@@ -117,102 +123,124 @@ The ruling restores to Heap the authority and resources he had sought after taki
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Scott Blaney; Justin Heap; Maricopa County Board of Supervisors
-**Predicate:** ruled_in_favor
-**Object:** Recorder retains authority over ballot drop boxes and early voting site selection (court_ruling)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Scott Blaney; Justin Heap; Maricopa County Board of Supervisors
+- **Predicate:** ruled_in_favor
+- **Object:** Recorder retains authority over ballot drop boxes and early voting site selection (court_ruling)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > Maricopa County Superior Court Judge Scott Blaney ruled Friday that Recorder Justin Heap will regain control of election administration duties the county board of supervisors had claimed.
 
-### c_002 — attributed, primary document
-**Subject entities:** Justin Heap; Maricopa County Board of Supervisors
-**Predicate:** sued
-**Object:** Alleged unlawful seizure of election administration functions (legal_action)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Justin Heap; Maricopa County Board of Supervisors
+- **Predicate:** sued
+- **Object:** Alleged unlawful seizure of election administration functions (legal_action)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Heap sued the board last summer alleging it had illegally taken control of certain aspects of election administration.
 
-### c_003 — confirmed, primary document
-**Subject entities:** Maricopa County Board of Supervisors; Justin Heap; Stephen Richer
-**Predicate:** transferred
-**Object:** Funding, IT staff, ballot drop box and early voting site authority (administrative_transfer)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Maricopa County Board of Supervisors; Justin Heap; Stephen Richer
+- **Predicate:** transferred
+- **Object:** Funding, IT staff, ballot drop box and early voting site authority (administrative_transfer)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > The board transferred funding, IT staff, ballot drop box management, and early voting site decisions away from the Recorder's office through an agreement negotiated with Heap's predecessor, Stephen Richer.
 
-### c_004 — confirmed, primary document
-**Subject entities:** Scott Blaney; Maricopa County Board of Supervisors
-**Predicate:** ruled_unlawful
-**Object:** Board exceeded statutory authority and seized recorder resources (court_finding)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Scott Blaney; Maricopa County Board of Supervisors
+- **Predicate:** ruled_unlawful
+- **Object:** Board exceeded statutory authority and seized recorder resources (court_finding)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > Judge Scott Blaney ruled the board acted unlawfully and exceeded its statutory authority by seizing the Recorder's personnel, systems and equipment and refusing to return them.
 
-### c_005 — confirmed, primary document
-**Subject entities:** Scott Blaney; Justin Heap; Maricopa County Board of Supervisors
-**Predicate:** assigned_responsibilities
-**Object:** Recorder oversees early voting; board handles Election Day operations (court_directive)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Scott Blaney; Justin Heap; Maricopa County Board of Supervisors
+- **Predicate:** assigned_responsibilities
+- **Object:** Recorder oversees early voting; board handles Election Day operations (court_directive)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > Judge Blaney ruled the Recorder's office is responsible for overseeing in-person early voting, while the board is responsible for selecting Election Day voting locations, supplying polling locations, and hiring poll workers.
 
-### c_006 — attributed, primary document
-**Subject entities:** Kate Brophy McGee; Maricopa County Board of Supervisors
-**Predicate:** said
-**Object:** Board will consider appeal and explore options (statement)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Kate Brophy McGee; Maricopa County Board of Supervisors
+- **Predicate:** said
+- **Object:** Board will consider appeal and explore options (statement)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > Board Chairwoman Kate Brophy McGee said the board will consider an appeal and disagreed with portions of the ruling.
 
-### c_007 — attributed, primary document
-**Subject entities:** Justin Heap
-**Predicate:** said
-**Object:** Clear and decisive victory for rule of law (statement)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Justin Heap
+- **Predicate:** said
+- **Object:** Clear and decisive victory for rule of law (statement)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > Heap called the ruling a clear and decisive victory for the rule of law and for the voters of Maricopa County.
 
-### c_008 — confirmed, primary document
-**Subject entities:** Justin Heap; Stephen Richer
-**Predicate:** defeated
-**Object:** Won 2024 GOP primary and general election for Recorder (election_result)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Justin Heap; Stephen Richer
+- **Predicate:** defeated
+- **Object:** Won 2024 GOP primary and general election for Recorder (election_result)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > Heap is a former Republican state lawmaker who was elected in 2024 after defeating Stephen Richer in the GOP primary.
 
-### c_009 — confirmed, primary document
-**Subject entities:** Stephen Richer; Maricopa County elections office
-**Predicate:** received_threats
-**Object:** Threats of violence from election conspiracy claims (consequence)
-**Temporal:** 2020-2026
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Stephen Richer; Maricopa County elections office
+- **Predicate:** received_threats
+- **Object:** Threats of violence from election conspiracy claims (consequence)
+- **Temporal:** 2020-2026
+- **Sources:** src_001
 
 > False claims of fraud since the 2020 presidential election led to threats of violence against Richer and others in the Maricopa County elections office.
 
-### c_010 — attributed, primary document
-**Subject entities:** Stephen Richer; Justin Heap
-**Predicate:** said
-**Object:** Heap catered to distrust and allied with those creating it (statement)
-**Temporal:** 2026-04
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Stephen Richer; Justin Heap
+- **Predicate:** said
+- **Object:** Heap catered to distrust and allied with those creating it (statement)
+- **Temporal:** 2026-04
+- **Sources:** src_001
 
 > Stephen Richer said Heap catered to distrust and vitriol directed toward the office and allied with people who were very much in the eye of the storm in terms of creating it.
 
-### c_011 — confirmed, primary document
-**Subject entities:** Justin Heap; America First Legal; Stephen Miller
-**Predicate:** backed_by
-**Object:** America First Legal support; founded by White House deputy chief of staff (legal_backing)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_011
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Justin Heap; America First Legal; Stephen Miller
+- **Predicate:** backed_by
+- **Object:** America First Legal support; founded by White House deputy chief of staff (legal_backing)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > Heap filed his lawsuit with the backing of America First Legal, a conservative public interest group founded by Stephen Miller, now a deputy chief of staff in the White House.
 
@@ -221,10 +249,5 @@ The ruling restores to Heap the authority and resources he had sought after taki
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Josh Kelety
 **Publication date:** 2026-04-17
-**Access date:** 2026-04-17
 **Title:** Judge sides with Arizona election official in legal fight over voting operations
 **URL:** https://apnews.com/article/arizona-maricopa-county-recorder-lawsuit-elections-887c01d8c5b723b8a76cc274f4796975
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

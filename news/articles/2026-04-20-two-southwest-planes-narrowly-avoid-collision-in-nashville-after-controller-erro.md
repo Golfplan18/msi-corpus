@@ -12,42 +12,38 @@ primary_themes:
 - near-miss incident
 - air traffic control
 topic_tags:
-  - "crime, law and justice"
-  - "disaster, accident and emergency incident"
-  - "transportation accident and incident"
-storyline_nexus: []
-geographic_location: Nashville, Tennessee, United States
+- accident and emergency incident
+- transportation accident and incident
+storyline_nexus:
+- extreme-weather-disasters
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
   intensity: 0.9
-- value: truthfulness
-  intensity: 0.8
 - value: accountability_of_power
-  intensity: 0.75
-- value: informed_citizenship
-  intensity: 0.8
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T00:00:00Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:46:43Z'
 source_cluster_id: cluster_ap_2026-04-21_nashville-southwest-faa-near-miss-plane-
 gdelt_event_ids: []
-consensus_floor_version: 1.0.0
-publication_mindspec_version: 1.0.0
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 8
   hedges:
+    contested: 0
     appears: 1
     alleged: 0
-    attributed: 2
     reported: 3
-    contested: 0
+    attributed: 2
     confirmed: 2
   corroboration:
+    single_source: 6
+    primary_document: 1
     primary_plus_secondary: 1
     one_originating_plus_primary_document: 0
-    primary_document: 1
-    single_source: 6
     two_independent: 0
 sources:
   count: 1
@@ -62,29 +58,16 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-04-17-small-aircraft-forces-ups-cargo-plane-to-abort-landing-in-louisville
-  relation: related
-  strength: 0.8819
-  confidence: medium
-- slug: 2026-04-17-pilot-reported-high-frequency-vibrations-before-kauai-helicopter-crash-killed-3
-  relation: related
-  strength: 0.8137
-  confidence: medium
-- slug: 2026-01-05-greece-rules-out-cyberattack-in-radio-failure-that-shut-airspace-grounded-120-fl
-  relation: related
-  strength: 0.8163
-  confidence: medium
-- slug: 2026-01-04-pilot-killed-as-small-plane-crashes-catches-fire-at-provincetown-airport
-  relation: related
-  strength: 0.7959
-  confidence: medium
-- slug: 2026-01-03-4-killed-as-helicopter-strikes-slackline-crashes-into-arizona-canyon
-  relation: related
-  strength: 0.7719
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- Two Southwest Airlines planes nearly collided over Nashville on Saturday after an air traffic controller directed one pilot to turn directly into the path of a departing aircraft. Both flight crews...
+- The incident highlights ongoing aviation safety concerns, coming months after an American Airlines jet collided with an Army Black Hawk helicopter ...
+- The incident unfolded around 5:30 p.m. when the pilot of one Southwest flight aborted landing at Nashville International Airport due to gusty winds...
 
 Two Southwest Airlines planes nearly collided over Nashville on Saturday after an air traffic controller directed one pilot to turn directly into the path of a departing aircraft. Both flight crews received alerts from their collision avoidance systems and took evasive action — one climbing while the other descended — to prevent impact, according to air traffic control audio and a Federal Aviation Administration statement.
 
@@ -122,75 +105,91 @@ Most documented near-miss incidents and collisions involve small aircraft that l
 
 ## Atomic claims
 
-### c_001 — reported, single source
-**Subject entities:** Southwest Airlines; Nashville International Airport
-**Predicate:** narrowly_avoided_collision
-**Object:** midair collision averted (aviation_incident)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Southwest Airlines; Nashville International Airport
+- **Predicate:** narrowly_avoided_collision
+- **Object:** midair collision averted (aviation_incident)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Two Southwest Airlines planes nearly collided over Nashville on Saturday, April 19, 2026.
 
-### c_002 — attributed, single source
-**Subject entities:** air traffic controller; Southwest Airlines
-**Predicate:** directed_into_path
-**Object:** vector into conflicting flight path (air_traffic_control_instruction)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** air traffic controller; Southwest Airlines
+- **Predicate:** directed_into_path
+- **Object:** vector into conflicting flight path (air_traffic_control_instruction)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > An air traffic controller directed one Southwest pilot to turn into the path of the other plane.
 
-### c_003 — confirmed, primary document
-**Subject entities:** Southwest Airlines pilots; collision avoidance systems
-**Predicate:** received_alerts_took_evasive_action
-**Object:** altitude maneuvers to increase separation (safety_response)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Southwest Airlines pilots; collision avoidance systems
+- **Predicate:** received_alerts_took_evasive_action
+- **Object:** altitude maneuvers to increase separation (safety_response)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Both aircraft received collision avoidance system (TCAS) alerts and crews responded with evasive maneuvers.
 
-### c_004 — appears, single source
-**Subject entities:** Southwest Airlines planes
-**Predicate:** minimum_separation
-**Object:** 500 feet (distance)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_004
+- **Hedge:** appears
+- **Corroboration:** single_source
+- **Subject entities:** Southwest Airlines planes
+- **Predicate:** minimum_separation
+- **Object:** 500 feet (distance)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > The two aircraft appear to have come as close as approximately 500 feet apart.
 
-### c_005 — reported, single source
-**Subject entities:** Southwest Airlines pilots; Nashville International Airport
-**Predicate:** aborted_landing_converged_paths
-**Object:** go-around initiated, conflicting vectors issued (flight_sequence)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Southwest Airlines pilots; Nashville International Airport
+- **Predicate:** aborted_landing_converged_paths
+- **Object:** go-around initiated, conflicting vectors issued (flight_sequence)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > The incident occurred around 5:30 p.m. on Saturday, with flight paths converging after one pilot aborted landing.
 
-### c_006 — attributed, single source
-**Subject entities:** weather conditions; Nashville International Airport
-**Predicate:** caused_go_around
-**Object:** windborne instability (weather_phenomenon)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** weather conditions; Nashville International Airport
+- **Predicate:** caused_go_around
+- **Object:** windborne instability (weather_phenomenon)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > Gusty winds at Nashville International Airport prompted the initial go-around.
 
-### c_007 — reported, single source
-**Subject entities:** air traffic controller; Southwest Airlines pilot
-**Predicate:** failed_to_adjust_altitude_restriction
-**Object:** altitude clearance issued after aircraft already above level (control_error)
-**Temporal:** 2026-04-20
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** air traffic controller; Southwest Airlines pilot
+- **Predicate:** failed_to_adjust_altitude_restriction
+- **Object:** altitude clearance issued after aircraft already above level (control_error)
+- **Temporal:** 2026-04-20
+- **Sources:** src_001
 
 > The controller initially did not appropriately adjust altitude restrictions after the go-around, with the departing aircraft already above the directed 2,000-foot ceiling when the correction was issued.
 
-### c_008 — confirmed, primary plus secondary
-**Subject entities:** American Airlines; U.S. Army; Washington D.C.
-**Predicate:** collided_killing
-**Object:** 67 dead (fatality_count)
-**Temporal:** 2025-01-29
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** American Airlines; U.S. Army; Washington D.C.
+- **Predicate:** collided_killing
+- **Object:** 67 dead (fatality_count)
+- **Temporal:** 2025-01-29
+- **Sources:** src_001
 
 > An American Airlines jet collided with an Army Black Hawk helicopter near Washington, D.C. on January 29, 2025, killing all 67 people aboard both aircraft.
 
@@ -199,10 +198,5 @@ Most documented near-miss incidents and collisions involve small aircraft that l
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Josh Funk
 **Publication date:** 2026-04-20
-**Access date:** 2026-04-20
 **Title:** Southwest Airlines planes take evasive action to avoid collision in Nashville
 **URL:** https://apnews.com/article/nashville-southwest-faa-near-miss-plane-airline-c7f5867b1a745d0427bf7e6c0c18261c
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

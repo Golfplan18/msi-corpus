@@ -19,40 +19,42 @@ primary_themes:
 - environmental accountability
 - corporate accountability
 topic_tags:
-  - "disaster, accident and emergency incident"
-  - "economy, business and finance"
-storyline_nexus: []
-geographic_location: Gulf of Mexico, Louisiana coast
+- disaster, accident and emergency incident
+- environment
+- energy and resource
+- government policy
+- pollution
+storyline_nexus:
+- trump-climate-energy-rollbacks
+geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
-  intensity: 0.85
-- value: informed_citizenship
-  intensity: 0.75
+  intensity: 0.9
 - value: human_life_and_dignity
-  intensity: 0.55
-framework_version: 1.1.0
-generation_timestamp: '2026-05-16T18:08:43Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-22T23:55:08Z'
 source_cluster_id: cluster_ap_2026-01-06_gulf-oil-spill-pipeline-record-fine-99f9
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 13
   hedges:
-    appears: 0
     alleged: 0
+    appears: 0
     attributed: 9
     reported: 0
-    contested: 0
     confirmed: 4
+    contested: 0
   corroboration:
-    primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
-    primary_document: 4
-    single_source: 9
+    primary_plus_secondary: 0
     two_independent: 0
+    single_source: 9
+    primary_document: 4
 sources:
   count: 1
   outlets:
@@ -70,17 +72,16 @@ image:
   url: /articles/2026-01-05-pipeline-safety-agency-issues-record-9-6m-fine-for-2023-gulf-oil-spill.png
   alt: 'Illustration accompanying article: Pipeline safety agency issues record $9.6M fine for 2023 Gulf oil spill'
   source: ai_generated
-cross_article_links:
-- slug: 2025-12-30-zeldin-s-epa-cuts-enforcement-and-staff-as-fossil-fuel-friendly-pivot-takes-hold
-  relation: related
-  strength: 0.6969
-  confidence: medium
-- slug: 2025-12-30-trump-s-epa-cuts-pollution-rules-and-staff-in-fossil-fuel-pivot
-  relation: related
-  strength: 0.6746
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- Federal pipeline safety regulators on Monday issued a record $9.
+- The fine is the largest PHMSA has ever assessed, but safety advocates say it may not be large enough to change behavior: at less than 3 percent of Third Coast''s estimated annual earnings, the penalty falls below the threshold where noncompliance becomes more costly than compliance.
+- The Pipeline and Hazardous Materials Safety Administration said Third Coast's violations were systemic — including inadequate emergency procedures, insufficient risk assessments, and improper maintenance of the 18-inch Main Pass Oil Gathering pipeline — contributing to a leak that operators allowed to continue for nearly 13 hours before shutting down the line..
 
 Federal pipeline safety regulators on Monday issued a record $9.6 million fine against Third Coast Midstream, the Houston-based company whose 2023 pipeline failure spilled 1.1 million gallons of oil into the Gulf of Mexico off Louisiana's coast.
 
@@ -120,120 +121,146 @@ The 1.1 million gallons spilled in 2023 was far smaller than the 2010 BP disaste
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Third Coast Midstream; PHMSA
-**Predicate:** fined
-**Object:** $9.6 million (regulatory_penalty)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Third Coast Midstream; PHMSA
+- **Predicate:** fined
+- **Object:** $9.6 million (regulatory_penalty)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > PHMSA assessed a $9.6 million fine against Third Coast Midstream on January 5, 2026.
 
-### c_002 — attributed, single source
-**Subject entities:** PHMSA
-**Predicate:** record_fine
-**Object:** $9.6 million (regulatory_penalty)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** PHMSA
+- **Predicate:** record_fine
+- **Object:** $9.6 million (regulatory_penalty)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > The $9.6 million fine is the largest PHMSA has ever assessed.
 
-### c_003 — confirmed, primary document
-**Subject entities:** Third Coast Midstream; Gulf of Mexico
-**Predicate:** leaked
-**Object:** 1.1 million gallons (volume)
-**Temporal:** 2023
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Third Coast Midstream; Gulf of Mexico
+- **Predicate:** leaked
+- **Object:** 1.1 million gallons (volume)
+- **Temporal:** 2023
+- **Sources:** src_001
 
 > Third Coast Midstream's pipeline leaked 1.1 million gallons of oil into the Gulf of Mexico in 2023.
 
-### c_004 — attributed, single source
-**Subject entities:** PHMSA
-**Predicate:** annual_fines_total
-**Object:** $8-10 million (dollar_range)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** PHMSA
+- **Predicate:** annual_fines_total
+- **Object:** $8-10 million (dollar_range)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > PHMSA normally assesses $8 million to $10 million in total fines across all cases each year.
 
-### c_005 — attributed, single source
-**Subject entities:** Third Coast Midstream
-**Predicate:** operates
-**Object:** ~1,900 miles of pipelines (infrastructure)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Third Coast Midstream
+- **Predicate:** operates
+- **Object:** ~1,900 miles of pipelines (infrastructure)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > Third Coast Midstream has a stake in approximately 1,900 miles of pipelines.
 
-### c_006 — attributed, single source
-**Subject entities:** Third Coast Midstream
-**Predicate:** secured_loan
-**Object:** nearly $1 billion (financial)
-**Temporal:** 2025-09
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Third Coast Midstream
+- **Predicate:** secured_loan
+- **Object:** nearly $1 billion (financial)
+- **Temporal:** 2025-09
+- **Sources:** src_001
 
 > Third Coast Midstream secured a nearly $1 billion loan in September 2025.
 
-### c_007 — attributed, single source
-**Subject entities:** Bill Caram; Pipeline Safety Trust; Third Coast Midstream
-**Predicate:** stated
-**Object:** less than 3% of annual earnings (financial_ratio)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Bill Caram; Pipeline Safety Trust; Third Coast Midstream
+- **Predicate:** stated
+- **Object:** less than 3% of annual earnings (financial_ratio)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > Bill Caram, Pipeline Safety Trust executive director, said the fine represents less than 3 percent of Third Coast Midstream's estimated annual earnings.
 
-### c_008 — confirmed, primary document
-**Subject entities:** NTSB; Third Coast Midstream
-**Predicate:** failed_to_shutdown
-**Object:** nearly 13 hours (duration)
-**Temporal:** 2023
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** NTSB; Third Coast Midstream
+- **Predicate:** failed_to_shutdown
+- **Object:** nearly 13 hours (duration)
+- **Temporal:** 2023
+- **Sources:** src_001
 
 > The NTSB found that operators failed to shut down the pipeline for nearly 13 hours after gauges first showed a problem.
 
-### c_009 — confirmed, primary document
-**Subject entities:** NTSB; Third Coast Midstream
-**Predicate:** caused_by
-**Object:** underwater landslides from hurricane activity (cause)
-**Temporal:** 2023
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** NTSB; Third Coast Midstream
+- **Predicate:** caused_by
+- **Object:** underwater landslides from hurricane activity (cause)
+- **Temporal:** 2023
+- **Sources:** src_001
 
 > The NTSB said the spill resulted from underwater landslides caused by hurricane hazards that Third Coast failed to address.
 
-### c_010 — attributed, single source
-**Subject entities:** PHMSA; Third Coast Midstream
-**Predicate:** alleged_failure
-**Object:** integrity analyses (regulatory_requirement)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** PHMSA; Third Coast Midstream
+- **Predicate:** alleged_failure
+- **Object:** integrity analyses (regulatory_requirement)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > PHMSA said Third Coast failed to perform new integrity analyses following changes in circumstances that identified new and elevated risk factors.
 
-### c_011 — attributed, single source
-**Subject entities:** Bill Caram; Third Coast Midstream
-**Predicate:** characterized
-**Object:** company-wide systemic failure (assessment)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Bill Caram; Third Coast Midstream
+- **Predicate:** characterized
+- **Object:** company-wide systemic failure (assessment)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > Bill Caram described the spill as resulting from a company-wide systemic failure indicating Third Coast's fundamental inability to implement pipeline safety regulations.
 
-### c_012 — attributed, single source
-**Subject entities:** Third Coast Midstream
-**Predicate:** disputed
-**Object:** fine allegations (regulatory_action)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Third Coast Midstream
+- **Predicate:** disputed
+- **Object:** fine allegations (regulatory_action)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > A Third Coast spokesperson said the company was surprised by aspects of the fine and believes some allegations are inaccurate and exceed established precedent.
 
-### c_013 — attributed, single source
-**Subject entities:** BP; Gulf of Mexico
-**Predicate:** released
-**Object:** 134 million gallons (volume)
-**Temporal:** 2010
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** BP; Gulf of Mexico
+- **Predicate:** released
+- **Object:** 134 million gallons (volume)
+- **Temporal:** 2010
+- **Sources:** src_001
 
 > The 2010 BP disaster released 134 million gallons of oil into the Gulf of Mexico following an oil rig explosion.
 
@@ -242,10 +269,5 @@ The 1.1 million gallons spilled in 2023 was far smaller than the 2010 BP disaste
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Josh Funk
 **Publication date:** 2026-01-05
-**Access date:** 2026-01-05
 **Title:** Pipeline safety regulators issue record fine for Gulf oil spill
 **URL:** https://apnews.com/article/gulf-oil-spill-pipeline-record-fine-99f9da1b10d8ff59f935f9989b55e5a2
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

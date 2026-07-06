@@ -18,7 +18,8 @@ topic_tags:
   - "conflict, war and peace"
   - labour
   - "labour dispute"
-storyline_nexus: []
+storyline_nexus:
+- the-iran-war
 geographic_location: Tehran, Iran; Middle East region
 floor_values_engaged:
 - value: accountability_of_power
@@ -122,8 +123,6 @@ More than 41,280 people have been arrested during the crackdown, according to th
 Trump had previously threatened military action if Iran continued killing peaceful protesters or carried out mass executions. He also claimed that Tehran had halted the planned execution of approximately 800 arrested protesters. Iran's top prosecutor called that claim "completely false."
 
 The death toll from the current unrest exceeds any other round of protest or civil unrest in Iran in decades, approaching the scale of chaos surrounding Iran's 1979 Islamic Revolution.
-
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under sources. Specification at /methodology. Human review—not_triggered.
 
 ## Atomic claims
 
@@ -261,7 +260,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-01-25
 **Title:** Iran unveils mural in the capital to send anti-US message
 **URL:** https://apnews.com/article/iran-trump-mural-protests-military-4b2ceb8aff9dc448036341e86023b6c8
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -1,6 +1,5 @@
 ---
 headline: Supreme Court to rule on geofence warrants for cellphone location tracking
-slug: 2026-01-16-supreme-court-takes-up-geofence-warrants-cellphone-location-tracking
 publish_date: '2026-01-16'
 lede: The Supreme Court agreed Friday to take up the constitutionality of geofence warrants — broad search orders that compel technology companies to produce the location history of every cellphone user within a defined geographic area during a specific time period. The justices' decision to hear the case sets the stage for a ruling on the Fourth Amendment limits of a surveillance technique that law enforcement agencies have adopted as a routine investigative tool.
 nut_graf: The case centers on a warrant that suburban Richmond, Virginia, police served on Google in their investigation of a 2019 bank robbery. It arrives at the court as two federal appeals courts have reached conflicting conclusions on whether the warrants amount to an unconstitutional dragnet search.
@@ -18,42 +17,44 @@ primary_themes:
 - law enforcement surveillance
 - Supreme Court
 topic_tags:
-  - politics
-  - government
-  - "crime, law and justice"
-  - "law enforcement"
-  - judiciary
-  - "science and technology"
-storyline_nexus: []
-geographic_location: Washington, D.C.; Midlothian, Virginia
+- crime, law and justice
+- law enforcement
+- judiciary
+- fundamental rights
+- government policy
+storyline_nexus:
+- supreme-court-constitutional-cases
+geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.75
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:03:22Z'
+  intensity: 0.9
+- value: human_life_and_dignity
+  intensity: 0.6
+- value: equality_fairness
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T04:25:49Z'
 source_cluster_id: cluster_ap_2026-01-18_supreme-court-location-tracking-warrants
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 11
   hedges:
+    contested: 0
     appears: 0
     alleged: 0
     attributed: 2
-    reported: 1
-    contested: 0
     confirmed: 8
+    reported: 1
   corroboration:
-    primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
-    primary_document: 0
+    primary_plus_secondary: 0
     single_source: 11
     two_independent: 0
+    primary_document: 0
 sources:
   count: 1
   outlets:
@@ -70,6 +71,15 @@ figures_aggregate:
 cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Placeholder bullet 1.
+- Placeholder bullet 2.
+- Placeholder bullet 3.
+- Placeholder bullet 4.
 
 The Supreme Court agreed Friday to take up the constitutionality of geofence warrants — broad search orders that compel technology companies to produce the location history of every cellphone user within a defined geographic area during a specific time period. The justices' decision to hear the case sets the stage for a ruling on the Fourth Amendment limits of a surveillance technique that law enforcement agencies have adopted as a routine investigative tool.
 
@@ -93,85 +103,107 @@ The case is expected to be argued before the justices later in 2026, either duri
 
 ## Atomic claims
 
-### c_001 — confirmed, single source
-**Subject entities:** Q11201
-**Predicate:** granted_certiorari
-**Object:** geofence warrant constitutionality (legal_question)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Q11201
+- **Predicate:** granted_certiorari
+- **Object:** geofence warrant constitutionality (legal_question)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > The Supreme Court agreed on January 16, 2026, to decide the constitutionality of geofence warrants that collect the location history of cellphone users to identify people near crime scenes.
 
-### c_002 — confirmed, single source
-**Predicate:** defined_as
-**Object:** location data on all persons in defined area and time window (definition)
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Predicate:** defined_as
+- **Object:** location data on all persons in defined area and time window (definition)
+- **Sources:** src_001
 
 > Geofence warrants seek location data on every person within a specific geographic location over a certain period of time.
 
-### c_003 — confirmed, single source
-**Predicate:** involves
-**Object:** geofence warrant served on Google, Richmond Virginia area (legal_fact)
-**Temporal:** 2019
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Predicate:** involves
+- **Object:** geofence warrant served on Google, Richmond Virginia area (legal_fact)
+- **Temporal:** 2019
+- **Sources:** src_001
 
 > The case involves a geofence warrant served on Google in a police investigation of a bank robbery in suburban Richmond, Virginia.
 
-### c_004 — confirmed, single source
-**Predicate:** used_to_arrest
-**Object:** Okello Chatrie (person)
-**Temporal:** 2019
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Predicate:** used_to_arrest
+- **Object:** Okello Chatrie (person)
+- **Temporal:** 2019
+- **Sources:** src_001
 
 > Police used location data obtained through the warrant to arrest Okello Chatrie in the 2019 robbery of the Call Federal Credit Union in Midlothian, Virginia.
 
-### c_005 — confirmed, single source
-**Predicate:** pleaded_guilty_and_sentenced
-**Object:** nearly 12 years in prison (sentence)
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Predicate:** pleaded_guilty_and_sentenced
+- **Object:** nearly 12 years in prison (sentence)
+- **Sources:** src_001
 
 > Chatrie eventually pleaded guilty and was sentenced to nearly 12 years in prison.
 
-### c_006 — attributed, single source
-**Predicate:** challenged_as
-**Object:** Fourth Amendment privacy violation (legal_argument)
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Predicate:** challenged_as
+- **Object:** Fourth Amendment privacy violation (legal_argument)
+- **Sources:** src_001
 
 > Chatrie's lawyers challenged the warrant as a violation of his privacy because it allowed authorities to gather the location history of people near the bank without evidence they had any connection to the robbery.
 
-### c_007 — attributed, single source
-**Predicate:** argued
-**Object:** no expectation of privacy due to voluntary opt-in to Google Location History (legal_argument)
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Predicate:** argued
+- **Object:** no expectation of privacy due to voluntary opt-in to Google Location History (legal_argument)
+- **Sources:** src_001
 
 > Prosecutors argued that Chatrie had no expectation of privacy because he voluntarily opted into Google's Location History.
 
-### c_008 — confirmed, single source
-**Predicate:** ruled
-**Object:** rights violated; evidence admitted under good-faith exception (court_ruling)
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Predicate:** ruled
+- **Object:** rights violated; evidence admitted under good-faith exception (court_ruling)
+- **Sources:** src_001
 
 > A federal district judge agreed the search violated Chatrie's Fourth Amendment rights but admitted the evidence, finding that the officer who obtained the warrant reasonably believed he was acting lawfully.
 
-### c_009 — confirmed, single source
-**Predicate:** upheld
-**Object:** Chatrie conviction (court_ruling)
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Predicate:** upheld
+- **Object:** Chatrie conviction (court_ruling)
+- **Sources:** src_001
 
 > The federal appeals court covering Virginia upheld Chatrie's conviction in a fractured ruling.
 
-### c_010 — confirmed, single source
-**Predicate:** ruled
-**Object:** geofence warrants violate Fourth Amendment (court_ruling)
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Predicate:** ruled
+- **Object:** geofence warrants violate Fourth Amendment (court_ruling)
+- **Sources:** src_001
 
 > In a separate case, the federal appeals court in New Orleans ruled that geofence warrants violate the Fourth Amendment's ban on unreasonable searches.
 
-### c_011 — reported, single source
-**Predicate:** expected_oral_argument
-**Object:** spring 2026 or October 2026 (schedule)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Predicate:** expected_oral_argument
+- **Object:** spring 2026 or October 2026 (schedule)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > The case is expected to be argued before the Supreme Court later in 2026, either in the spring or in October at the start of the court's next term.
 
@@ -180,10 +212,5 @@ The case is expected to be argued before the justices later in 2026, either duri
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Mark Sherman
 **Publication date:** 2026-01-16
-**Access date:** 2026-01-16
 **Title:** Supreme Court to take up cellphone location tracking warrants
 **URL:** https://apnews.com/article/supreme-court-location-tracking-warrants-9d8a0b0bcfcbc0a0891676e0e0a5f0c6
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

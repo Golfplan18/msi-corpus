@@ -22,43 +22,48 @@ primary_themes:
 - poverty and family separation
 - CPS workforce staffing
 - out-of-state residential placements
-topic_tags: []
-storyline_nexus: []
-geographic_location: Charleston, West Virginia
+topic_tags:
+- welfare
+- government policy
+- family
+- social condition
+storyline_nexus:
+- aca-medicaid-healthcare-crisis
+geographic_location: United States
 floor_values_engaged:
-- value: human_life_and_dignity
-  intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.7
+  intensity: 0.9
+- value: equality_fairness
+  intensity: 0.6
 - value: informed_citizenship
-  intensity: 0.7
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:00:00Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:18:45Z'
 source_cluster_id: cluster_ap_2026-01-17_general-news-charleston-foster-care-chil
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 11
   hedges:
-    appears: 0
     alleged: 0
     attributed: 7
     reported: 4
+    appears: 0
     contested: 0
     confirmed: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 0
-    single_source: 11
     two_independent: 0
+    one_originating_plus_primary_document: 0
+    primary_plus_secondary: 0
+    single_source: 11
 sources:
   count: 1
   outlets:
-  - Associated Press / Mountain State Spotlight
+  - Associated Press
   outlet_classes:
   - wire
   highest_reliability_tier: 1
@@ -68,13 +73,20 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-08-georgia-foster-care-agency-faces-85m-deficit-while-state-holds-14b-surplus
-  relation: related
-  strength: 0.7898
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Republican lawmakers’ plans for foster care don’t address the roots of the problem with the system
+- Republican lawmakers came to Charleston this week ready to kick off the legislative session with 16 bills they said could help fix the state’s troubled foster care system.
+- Mountain State Spotlight asked five child welfare researchers to review their bills.
+- “I think these are somewhat incremental,” said Bethany R. Lee, professor of children’s services at the University of Maryland’s School of Social Work and one of the researchers.
+- We also found that the state sent back millions of federal dollars that could have been used to help older kids with things like tuition and rent assistance as they transitioned to adulthood.
+- But child welfare policy should also include building up strong safety nets, said Lee, who is also director of PhD and postdoctoral programs at the University of Maryland’s School of Social Work.
 
 West Virginia Republican lawmakers opened the legislative session in Charleston this week with 16 bills aimed at fixing the state's troubled foster care system. Five child welfare researchers who reviewed the proposals said the package fails to address the roots of the crisis, will not prevent children from being removed from their families, and is unlikely to produce meaningful staffing improvements.
 
@@ -136,118 +148,133 @@ A prior Mountain State Spotlight investigation found that overburdened caseworke
 
 *Reporting by Erin Beck, Mountain State Spotlight, distributed through a partnership with The Associated Press.*
 
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Human review: not triggered. [CC0 — No rights reserved.](https://creativecommons.org/publicdomain/zero/1.0/)*
-
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** West Virginia Republican lawmakers
-**Predicate:** introduced
-**Object:** 16 foster care bills (legislative_action)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** West Virginia Republican lawmakers
+- **Predicate:** introduced
+- **Object:** 16 foster care bills (legislative_action)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > Republican lawmakers came to Charleston with 16 bills they said could help fix the state's troubled foster care system.
 
-### c_002 — attributed, single source
-**Subject entities:** child welfare researchers
-**Predicate:** assessed
-**Object:** bills insufficient on root causes (expert_assessment)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** child welfare researchers
+- **Predicate:** assessed
+- **Object:** bills insufficient on root causes (expert_assessment)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > Five child welfare researchers said the bills don't address the roots of the crisis and won't prevent children from being removed from their families or meaningfully address staffing shortages.
 
-### c_003 — reported, single source
-**Subject entities:** West Virginia Republican lawmakers
-**Predicate:** omitted
-**Object:** additional CPS worker hiring (policy_omission)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** West Virginia Republican lawmakers
+- **Predicate:** omitted
+- **Object:** additional CPS worker hiring (policy_omission)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > Lawmakers did not include hiring more CPS workers in any of their proposals.
 
-### c_004 — reported, single source
-**Subject entities:** West Virginia CPS workers
-**Predicate:** carry
-**Object:** 30–50 cases per worker (caseload_figure)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** West Virginia CPS workers
+- **Predicate:** carry
+- **Object:** 30–50 cases per worker (caseload_figure)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > Many CPS workers in West Virginia said their average caseload was in the 30s; some reported having as many as 50 cases at a time.
 
-### c_005 — attributed, single source
-**Subject entities:** Child Welfare League of America
-**Predicate:** recommends
-**Object:** maximum 15 children per caseworker (policy_standard)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Child Welfare League of America
+- **Predicate:** recommends
+- **Object:** maximum 15 children per caseworker (policy_standard)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > The Child Welfare League of America argues for measuring cases by child and not exceeding 15 children per caseworker.
 
-### c_006 — attributed, single source
-**Subject entities:** West Virginia foster care system; Adam Burkhammer
-**Predicate:** ended_in_reunification
-**Object:** 50 percent of cases in 2024 (statistic)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** West Virginia foster care system; Adam Burkhammer
+- **Predicate:** ended_in_reunification
+- **Object:** 50 percent of cases in 2024 (statistic)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > In 2024, half of foster care cases in West Virginia ended in reunification, according to Del. Adam Burkhammer.
 
-### c_007 — reported, single source
-**Subject entities:** West Virginia
-**Predicate:** returned
-**Object:** millions in federal transition-age youth funds (funding_action)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** West Virginia
+- **Predicate:** returned
+- **Object:** millions in federal transition-age youth funds (funding_action)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > West Virginia returned millions in federal dollars that could have been used to help older youth with tuition and rent assistance as they transitioned to adulthood.
 
-### c_008 — attributed, single source
-**Subject entities:** West Virginia; Cindy Largent-Hill
-**Predicate:** lacks
-**Object:** in-state psychiatric residential care capacity (resource_gap)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** West Virginia; Cindy Largent-Hill
+- **Predicate:** lacks
+- **Object:** in-state psychiatric residential care capacity (resource_gap)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > West Virginia has only a few beds for children who need short-term, high-level psychiatric treatment and no long-term in-state residential care beds.
 
-### c_009 — reported, single source
-**Subject entities:** West Virginia legislature
-**Predicate:** proposed
-**Object:** in-state residential care fund (legislative_proposal)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** West Virginia legislature
+- **Predicate:** proposed
+- **Object:** in-state residential care fund (legislative_proposal)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > One bill establishes a fund, contingent on appropriations, for in-state residential care to bring children home from out-of-state institutions.
 
-### c_010 — attributed, single source
-**Subject entities:** Patrick Morrisey
-**Predicate:** supports
-**Object:** in-state residential care fund (political_position)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Patrick Morrisey
+- **Predicate:** supports
+- **Object:** in-state residential care fund (political_position)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > Gov. Patrick Morrisey has championed the proposal to establish a fund for in-state residential care.
 
-### c_011 — attributed, single source
-**Subject entities:** Kelley Fong
-**Predicate:** asserts
-**Object:** poverty misperceived as neglect drives removals (expert_finding)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Kelley Fong
+- **Predicate:** asserts
+- **Object:** poverty misperceived as neglect drives removals (expert_finding)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > Families in poverty are more likely to have their children removed, as poverty is often misperceived as neglect.
 
 ## Sources
 
-### src_001 — Associated Press / Mountain State Spotlight, wire, Tier 1, originating
-**Author:** Erin Beck
+### src_001 — Associated Press, wire, Tier 1, originating
+**Author:** Erin Beck / Mountain State Spotlight
 **Publication date:** 2026-01-16
-**Access date:** 2026-05-17
-**Title:** Republican lawmakers' plans for foster care don't address the roots of the problem with the system
+**Title:** Republican lawmakers’ plans for foster care don’t address the roots of the problem with the system
 **URL:** https://apnews.com/article/general-news-charleston-foster-care-children-0e46339490d0f1269e6903c2227bfea4
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

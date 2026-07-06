@@ -26,8 +26,7 @@ topic_tags:
   - labour
   - "labour dispute"
   - politics
-storyline_nexus:
-  - trump-greenland-acquisition
+storyline_nexus: []
 geographic_location: International
 floor_values_engaged:
 - value: informed_citizenship
@@ -226,7 +225,3 @@ These negotiations accelerated as President Donald Trump began his second term, 
 **Access date:** 2026-05-18
 **Title:** EU Commission indicates it's ready to implement Mercosur trade deal despite parliament vote to delay
 **URL:** https://apnews.com/article/mercosur-trade-eu-ratification-b0f83cf6610d171de2aa4fabb5c10865
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

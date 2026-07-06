@@ -18,46 +18,41 @@ primary_themes:
 - court_oversight
 - diplomatic_relations
 topic_tags:
-  - "human interest"
-  - "human migration"
-  - "international relations"
-  - politics
+- crime
+- law enforcement
+- government
+- human migration
 storyline_nexus:
-  - immigration-enforcement
-  - us-administration-2026
-geographic_location: Minneapolis, Minnesota, United States
+- us-immigration-enforcement
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
-  intensity: 0.95
-- value: truthfulness
-  intensity: 0.85
+  intensity: 0.9
 - value: accountability_of_power
   intensity: 0.9
-- value: informed_citizenship
-  intensity: 0.8
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T12:00:00Z'
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:33:32Z'
 source_cluster_id: cluster_ap_2026-01-28_immigration-enforcement-minnesota-ice-b0
 gdelt_event_ids: []
-consensus_floor_version: 1.0
-publication_mindspec_version: 1.0
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 17
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 8
-    reported: 6
     contested: 0
+    attributed: 8
+    alleged: 0
     confirmed: 3
+    reported: 6
+    appears: 0
   corroboration:
-    primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
+    primary_plus_secondary: 0
     primary_document: 14
-    single_source: 3
     two_independent: 0
+    single_source: 3
 sources:
   count: 1
   outlets:
@@ -75,41 +70,16 @@ image:
   url: /articles/2026-01-27-two-federal-officers-fire-shots-killing-minneapolis-nurse.png
   alt: 'Illustration accompanying article: Two federal officers fire shots, killing Minneapolis nurse'
   source: ai_generated
-cross_article_links:
-- slug: 2026-04-16-minnesota-probes-federal-officers-over-two-killings-wounding-and-highway-assault
-  relation: related
-  strength: 0.8891
-  confidence: medium
-- slug: 2026-04-16-minnesota-charges-ice-agent-with-felony-assault-for-pointing-gun-at-highway-driv
-  relation: related
-  strength: 0.8411
-  confidence: medium
-- slug: 2026-04-21-judge-orders-man-shot-by-ice-in-california-to-remain-in-custody
-  relation: related
-  strength: 0.8379
-  confidence: medium
-- slug: 2026-01-14-minneapolis-sees-second-federal-shooting-as-courts-governor-push-back-on-immigra
-  relation: related
-  strength: 0.8997
-  confidence: medium
-- slug: 2026-01-08-protests-erupt-in-minneapolis-as-officials-dispute-jurisdiction-in-fatal-ice-sho
-  relation: related
-  strength: 0.9001
-  confidence: medium
-- slug: 2026-01-12-minnesota-twin-cities-sue-trump-administration-over-fatal-ice-shooting
-  relation: related
-  strength: 0.8733
-  confidence: medium
-- slug: 2026-01-09-ice-agents-shoot-two-outside-portland-hospital-oregon-ag-vows-probe
-  relation: related
-  strength: 0.8852
-  confidence: medium
-- slug: 2026-01-11-federal-agents-ram-minneapolis-door-pepper-spray-protesters-in-immigration-sweep
-  relation: related
-  strength: 0.8717
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- Two federal officers fired shots during an encounter with Alex Pretti, an intensive care nurse, over the weekend in Minneapolis, a Customs and Border Protection official told Congress this week. Pr...
+- The encounter has triggered federal court interventions halting deportations, ordered the acting ICE director to appear in court, and prompted ques...
+- During the encounter, a Border Patrol agent yelled "He's got a gun!" multiple times, according to the official notification to Congress. Officers t...
 
 Two federal officers fired shots during an encounter with Alex Pretti, an intensive care nurse, over the weekend in Minneapolis, a Customs and Border Protection official told Congress this week. Pretti died in the encounter. The disclosure came amid scrutiny of federal immigration enforcement in Minnesota, where this is the second fatal shooting by immigration law enforcement this month. Separately, Ecuador filed a diplomatic protest after federal immigration agents attempted to enter the country's consulate in Minneapolis without authorization.
 
@@ -151,155 +121,189 @@ Federal immigration authorities released an Ecuadorian man whose detention had t
 
 ## Atomic claims
 
-### c_001 — attributed, primary document
-**Subject entities:** Alex Pretti; Federal officers
-**Predicate:** fired_shots
-**Object:** shots (projectiles)
-**Temporal:** 2026-01-25
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Alex Pretti; Federal officers
+- **Predicate:** fired_shots
+- **Object:** shots (projectiles)
+- **Temporal:** 2026-01-25
+- **Sources:** src_001
 
 > Two federal officers fired shots during an encounter with Alex Pretti in Minneapolis over the weekend
 
-### c_002 — confirmed, primary document
-**Subject entities:** Alex Pretti
-**Predicate:** died
-**Object:** death (outcome)
-**Temporal:** 2026-01-25
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Alex Pretti
+- **Predicate:** died
+- **Object:** death (outcome)
+- **Temporal:** 2026-01-25
+- **Sources:** src_001
 
 > Alex Pretti died in the encounter
 
-### c_003 — attributed, primary document
-**Subject entities:** Border Patrol agent
-**Predicate:** yelled
-**Object:** He's got a gun! (utterance)
-**Temporal:** 2026-01-25
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Border Patrol agent
+- **Predicate:** yelled
+- **Object:** He's got a gun! (utterance)
+- **Temporal:** 2026-01-25
+- **Sources:** src_001
 
 > During the encounter, a Border Patrol agent yelled 'He's got a gun!' multiple times
 
-### c_004 — attributed, primary document
-**Subject entities:** Officers; Alex Pretti
-**Predicate:** attempted_custody_and_resisted
-**Object:** struggle (physical_encounter)
-**Temporal:** 2026-01-25
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Officers; Alex Pretti
+- **Predicate:** attempted_custody_and_resisted
+- **Object:** struggle (physical_encounter)
+- **Temporal:** 2026-01-25
+- **Sources:** src_001
 
 > Officers tried to take Pretti into custody and he resisted, leading to a struggle
 
-### c_005 — attributed, primary document
-**Subject entities:** Border Patrol officer; CBP officer
-**Predicate:** fired
-**Object:** Glock pistols (weapons)
-**Temporal:** 2026-01-25
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Border Patrol officer; CBP officer
+- **Predicate:** fired
+- **Object:** Glock pistols (weapons)
+- **Temporal:** 2026-01-25
+- **Sources:** src_001
 
 > A Border Patrol officer and a CBP officer each fired Glock pistols
 
-### c_006 — reported, single source
-**Subject entities:** Immigration law enforcement
-**Predicate:** conducted_fatal_shootings
-**Object:** 2 (count)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Immigration law enforcement
+- **Predicate:** conducted_fatal_shootings
+- **Object:** 2 (count)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > This is the second fatal shooting this month by immigration law enforcement
 
-### c_007 — attributed, primary document
-**Subject entities:** CBP Office of Professional Responsibility
-**Predicate:** analyzed
-**Object:** body-worn camera footage (evidence)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** CBP Office of Professional Responsibility
+- **Predicate:** analyzed
+- **Object:** body-worn camera footage (evidence)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > CBP's Office of Professional Responsibility analyzed the incident based on body-worn camera footage
 
-### c_008 — attributed, primary document
-**Subject entities:** Donald Trump
-**Predicate:** stated
-**Object:** de-escalate a little bit (intention)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Donald Trump
+- **Predicate:** stated
+- **Object:** de-escalate a little bit (intention)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Trump said the administration intends to 'de-escalate a little bit' in Minnesota
 
-### c_009 — reported, primary document
-**Subject entities:** Donald Trump; Tom Homan
-**Predicate:** assigned
-**Object:** Minnesota immigration enforcement (assignment)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Donald Trump; Tom Homan
+- **Predicate:** assigned
+- **Object:** Minnesota immigration enforcement (assignment)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > Trump sent border czar Tom Homan to take charge of immigration enforcement in Minnesota
 
-### c_010 — attributed, primary document
-**Subject entities:** Stephen Miller; Alex Pretti
-**Predicate:** characterized_as
-**Object:** assassin (characterization)
-**Temporal:** 2026-01-25
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Stephen Miller; Alex Pretti
+- **Predicate:** characterized_as
+- **Object:** assassin (characterization)
+- **Temporal:** 2026-01-25
+- **Sources:** src_001
 
 > Stephen Miller initially called Pretti 'an assassin'
 
-### c_011 — reported, single source
-**Subject entities:** Stephen Miller; CBP officers
-**Predicate:** suggested_protocol_violation
-**Object:** may not have been following protocol (suggestion)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Stephen Miller; CBP officers
+- **Predicate:** suggested_protocol_violation
+- **Object:** may not have been following protocol (suggestion)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Stephen Miller later issued a statement suggesting CBP officers 'may not have been following' protocol
 
-### c_012 — attributed, primary document
-**Subject entities:** Ecuador; Federal immigration agents
-**Predicate:** filed_protest
-**Object:** diplomatic protest (official_action)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Ecuador; Federal immigration agents
+- **Predicate:** filed_protest
+- **Object:** diplomatic protest (official_action)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Ecuador filed a diplomatic protest after federal immigration agents attempted to enter the country's consulate without permission
 
-### c_013 — confirmed, primary document
-**Subject entities:** Patrick J. Schiltz; Todd Lyons
-**Predicate:** ordered_appearance
-**Object:** in courtroom Friday (legal_order)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_013
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Patrick J. Schiltz; Todd Lyons
+- **Predicate:** ordered_appearance
+- **Object:** in courtroom Friday (legal_order)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Chief Judge Patrick J. Schiltz ordered Todd Lyons, the acting ICE director, to appear in his courtroom Friday
 
-### c_014 — confirmed, primary document
-**Subject entities:** Fred Biery
-**Predicate:** issued_halt_order
-**Object:** removal halt (legal_order)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_014
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Fred Biery
+- **Predicate:** issued_halt_order
+- **Object:** removal halt (legal_order)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > Judge Fred Biery issued a temporary order halting the removal of a 5-year-old Ecuadorian boy and his father detained in Minnesota
 
-### c_015 — reported, primary document
-**Subject entities:** Federal immigration authorities
-**Predicate:** released
-**Object:** release from detention (administrative_action)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_015
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Federal immigration authorities
+- **Predicate:** released
+- **Object:** release from detention (administrative_action)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Federal immigration authorities released an Ecuadorian man whose detention had triggered the chief federal judge's order
 
-### c_016 — reported, primary document
-**Subject entities:** Tim Walz; Jacob Frey; Tom Homan
-**Predicate:** met_with
-**Object:** discussion meeting (event)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_016
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Tim Walz; Jacob Frey; Tom Homan
+- **Predicate:** met_with
+- **Object:** discussion meeting (event)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Governor Tim Walz, Mayor Jacob Frey, and the Minneapolis police chief met with Homan on Tuesday
 
-### c_017 — reported, single source
-**Subject entities:** International law
-**Predicate:** prohibits
-**Object:** unauthorized consulate entry (legal_principle)
-**Source IDs:** src_001
+### c_017
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** International law
+- **Predicate:** prohibits
+- **Object:** unauthorized consulate entry (legal_principle)
+- **Sources:** src_001
 
 > International law generally prohibits law enforcement from entering foreign consulates without permission
 
@@ -308,10 +312,5 @@ Federal immigration authorities released an Ecuadorian man whose detention had t
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Seung Min Kim
 **Publication date:** 2026-01-27
-**Access date:** 2026-01-27
 **Title:** 2 federal officers fired shots in encounter that killed Alex Pretti, DHS tells Congress
 **URL:** https://apnews.com/article/immigration-enforcement-minnesota-ice-b0cec9d1c5bae4b62469011775082300
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

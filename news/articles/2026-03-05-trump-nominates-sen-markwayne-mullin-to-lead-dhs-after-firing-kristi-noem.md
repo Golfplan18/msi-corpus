@@ -16,38 +16,41 @@ primary_themes:
 - homeland security
 - Senate personnel
 topic_tags:
-  - society
+- government
+- politics
+- human migration
+- law enforcement
 storyline_nexus:
-  - us-administration-2026
+- 2026-midterm-elections
 geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.75
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:44:29Z'
+  intensity: 0.9
+- value: human_life_and_dignity
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T01:05:31Z'
 source_cluster_id: cluster_ap_2026-03-06_mullin-homeland-security-trump-noem-immi
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 12
   hedges:
-    appears: 0
-    alleged: 0
     attributed: 12
+    alleged: 0
+    confirmed: 0
     reported: 0
     contested: 0
-    confirmed: 0
+    appears: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 1
-    single_source: 11
+    one_originating_plus_primary_document: 0
     two_independent: 0
+    primary_plus_secondary: 0
+    single_source: 11
 sources:
   count: 1
   outlets:
@@ -61,13 +64,19 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-14-minneapolis-sees-second-federal-shooting-as-courts-governor-push-back-on-immigra
-  relation: related
-  strength: 0.7447
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Mullin, 48 — a citizen of the Cherokee Nation, a former mixed-martial arts fighter, and one of Trump's most aggressive Senate defenders — would take command of the agency overseeing immigration enforc…
+- President Donald Trump fired Homeland Security Secretary Kristi Noem on Thursday and announced plans to nominate Sen. Markwayne Mullin, Republican of Oklahoma, as her replacement, Trump said March 5, …
+- "No matter if you support me, you don't support me, I'm going to be laser-focused on getting that done," Mullin said.
+- Mullin — a citizen of the Cherokee Nation, a former mixed-martial arts fighter and collegiate wrestler, and one of Trump's most aggressive Senate defenders — would take command of the agency overseein…
+- A citizen of the Cherokee Nation, Mullin was running a plumbing company in Oklahoma — known by the brand "The Red Rooter" — when he first ran for the U.S. House in 2012, presenting himself as a politi…
 
 Mullin, 48 — a citizen of the Cherokee Nation, a former mixed-martial arts fighter, and one of Trump's most aggressive Senate defenders — would take command of the agency overseeing immigration enforcement. His selection comes as members of federally recognized tribes have reported being detained by Immigration and Customs Enforcement officers, a pattern Mullin has said he would address.
 
@@ -113,110 +122,134 @@ He has also faced scrutiny over federal pandemic assistance. U.S. Treasury Depar
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Donald Trump; Kristi Noem
-**Predicate:** fired
-**Object:** Homeland Security Secretary (cabinet_position)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Kristi Noem
+- **Predicate:** fired
+- **Object:** Homeland Security Secretary (cabinet_position)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > Trump fired Homeland Security Secretary Kristi Noem on March 5, 2026.
 
-### c_002 — attributed, single source
-**Subject entities:** Donald Trump; Markwayne Mullin
-**Predicate:** plans_to_nominate
-**Object:** Homeland Security Secretary (cabinet_position)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Markwayne Mullin
+- **Predicate:** plans_to_nominate
+- **Object:** Homeland Security Secretary (cabinet_position)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > Trump plans to nominate Sen. Markwayne Mullin of Oklahoma as Homeland Security Secretary.
 
-### c_003 — attributed, single source
-**Subject entities:** Donald Trump
-**Predicate:** posted
-**Object:** Markwayne will make a spectacular Secretary of Homeland Security (quotation)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** posted
+- **Object:** Markwayne will make a spectacular Secretary of Homeland Security (quotation)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > Trump posted on Truth Social that "Markwayne will make a spectacular Secretary of Homeland Security."
 
-### c_004 — attributed, single source
-**Subject entities:** Markwayne Mullin
-**Predicate:** said
-**Object:** focused on protecting the homeland (quotation)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Markwayne Mullin
+- **Predicate:** said
+- **Object:** focused on protecting the homeland (quotation)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > Mullin told reporters at the Capitol that he would get DHS "focused on protecting the homeland."
 
-### c_005 — attributed, single source
-**Subject entities:** Markwayne Mullin
-**Predicate:** is
-**Object:** 48, Cherokee Nation citizen, former MMA fighter and collegiate wrestler (biographical)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Markwayne Mullin
+- **Predicate:** is
+- **Object:** 48, Cherokee Nation citizen, former MMA fighter and collegiate wrestler (biographical)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > Mullin is 48 years old, a citizen of the Cherokee Nation, and a former mixed-martial arts fighter and collegiate wrestler.
 
-### c_006 — attributed, single source
-**Subject entities:** Markwayne Mullin
-**Predicate:** elected
-**Object:** U.S. House, Oklahoma 2nd District (electoral_outcome)
-**Temporal:** 2012
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Markwayne Mullin
+- **Predicate:** elected
+- **Object:** U.S. House, Oklahoma 2nd District (electoral_outcome)
+- **Temporal:** 2012
+- **Sources:** src_001
 
 > Mullin was first elected to the U.S. House in 2012 representing Oklahoma's 2nd District.
 
-### c_007 — attributed, single source
-**Subject entities:** Markwayne Mullin
-**Predicate:** won
-**Object:** Oklahoma U.S. Senate seat (electoral_outcome)
-**Temporal:** 2022
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Markwayne Mullin
+- **Predicate:** won
+- **Object:** Oklahoma U.S. Senate seat (electoral_outcome)
+- **Temporal:** 2022
+- **Sources:** src_001
 
 > Mullin won Oklahoma's vacant U.S. Senate seat in 2022 after emerging from a crowded Republican primary.
 
-### c_008 — attributed, primary document
-**Subject entities:** Markwayne Mullin
-**Predicate:** received
-**Object:** between $800,000 and $1.9 million from PPP (financial)
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Markwayne Mullin
+- **Predicate:** received
+- **Object:** between $800,000 and $1.9 million from PPP (financial)
+- **Sources:** src_001
 
 > U.S. Treasury Department data showed four businesses owned by Mullin received a total of between $800,000 and $1.9 million from the Paycheck Protection Program.
 
-### c_009 — attributed, single source
-**Subject entities:** Markwayne Mullin; Sean O'Brien
-**Predicate:** confronted
-**Object:** stand your butt up (quotation)
-**Temporal:** 2023
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Markwayne Mullin; Sean O'Brien
+- **Predicate:** confronted
+- **Object:** stand your butt up (quotation)
+- **Temporal:** 2023
+- **Sources:** src_001
 
 > During a 2023 Senate hearing, Mullin told Teamsters President Sean O'Brien to "stand your butt up" and appeared to take off his ring.
 
-### c_010 — attributed, single source
-**Subject entities:** Chuck Hoskin Jr.; Markwayne Mullin
-**Predicate:** praised
-**Object:** Mullin nomination to DHS (statement)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Chuck Hoskin Jr.; Markwayne Mullin
+- **Predicate:** praised
+- **Object:** Mullin nomination to DHS (statement)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > Cherokee Nation Principal Chief Chuck Hoskin Jr. praised the Mullin nomination on March 5, 2026.
 
-### c_011 — attributed, single source
-**Subject entities:** Markwayne Mullin
-**Predicate:** attempted_entry
-**Object:** Afghanistan during 2021 U.S. withdrawal (event)
-**Temporal:** 2021
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Markwayne Mullin
+- **Predicate:** attempted_entry
+- **Object:** Afghanistan during 2021 U.S. withdrawal (event)
+- **Temporal:** 2021
+- **Sources:** src_001
 
 > Mullin attempted to enter Afghanistan from multiple locations during the 2021 U.S. withdrawal and was denied entry; he said he was trying to help an American family flee.
 
-### c_012 — attributed, single source
-**Subject entities:** Markwayne Mullin; Al Green; Barack Obama; Michelle Obama
-**Predicate:** took_swipe_at
-**Object:** sign reading 'Black people aren't apes' (physical_action)
-**Temporal:** 2026-02
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Markwayne Mullin; Al Green; Barack Obama; Michelle Obama
+- **Predicate:** took_swipe_at
+- **Object:** sign reading 'Black people aren't apes' (physical_action)
+- **Temporal:** 2026-02
+- **Sources:** src_001
 
 > At the State of the Union in February 2026, Mullin took a swipe at a sign held by Rep. Al Green that read "Black people aren't apes," a reference to a video the president had posted depicting former President Barack Obama and former First Lady Michelle Obama as primates.
 
@@ -225,10 +258,5 @@ He has also faced scrutiny over federal pandemic assistance. U.S. Treasury Depar
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Sean Murphy
 **Publication date:** 2026-03-05
-**Access date:** 2026-03-05
 **Title:** Trump taps Oklahoma Sen. Markwayne Mullin for DHS after Noem ouster
 **URL:** https://apnews.com/article/mullin-homeland-security-trump-noem-immigration-oklahoma-d9ef7772d98ccc85e769861cd88136c1
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -18,45 +18,44 @@ primary_themes:
 - economic conditions
 - international relations
 topic_tags:
-  - "armed conflict"
-  - "artificial intelligence"
-  - "conflict, war and peace"
-  - "crime, law and justice"
-  - election
-  - government
+- election
+- economy
+- politics
+- government
+- conflict, war and peace
 storyline_nexus:
-  - davos-2026
+- trump-greenland-ambitions
 geographic_location: United States
 floor_values_engaged:
 - value: truthfulness
-  intensity: 0.95
-- value: informed_citizenship
   intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.75
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+  intensity: 0.6
+- value: informed_citizenship
+  intensity: 0.9
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:01:07Z'
 source_cluster_id: cluster_ap_2026-01-21_fact-check-trump-rigged-election-eight-w
 gdelt_event_ids: []
-consensus_floor_version: '1.0'
-publication_mindspec_version: '1.0'
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 15
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 7
     reported: 4
+    attributed: 7
     contested: 0
     confirmed: 4
+    appears: 0
+    alleged: 0
   corroboration:
     primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
-    primary_document: 4
-    single_source: 11
     two_independent: 0
+    single_source: 11
+    primary_document: 4
 sources:
   count: 1
   outlets:
@@ -70,33 +69,18 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-13-experts-rebuff-trump-s-false-claims-about-russian-and-chinese-forces-near-greenl
-  relation: related
-  strength: 0.7598
-  confidence: medium
-- slug: 2026-04-17-rfk-jr-claims-u-s-leads-on-measles-ap-fact-check-finds-otherwise
-  relation: related
-  strength: 0.7091
-  confidence: medium
-- slug: 2026-01-13-trump-visits-dearborn-ford-plant-defends-tariffs-as-voters-worry-about-rising-pr
-  relation: related
-  strength: 0.7253
-  confidence: medium
-- slug: 2026-01-09-gop-fractures-emerge-in-midterm-year-s-first-week-over-venezuela-greenland-healt
-  relation: related
-  strength: 0.7002
-  confidence: medium
-- slug: 2026-01-03-trump-makes-false-claims-about-drug-boats-and-dc-crime-at-venezuela-raid-briefin
-  relation: related
-  strength: 0.7291
-  confidence: medium
-- slug: 2026-01-06-trump-s-venezuela-claims-raise-questions-about-planning-former-diplomats-say
-  relation: related
-  strength: 0.7061
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- President Donald Trump repeated false and misleading claims about the 2020 election, the U.S.
+- Trump claimed the 2020 election was rigged, said he settled eight wars, and overstated economic improvements during an appearance Tuesday at the White House and Wednesday in Davos, Switzerland.
+- The false claims span basic factual questions about election results, economic performance, and diplomatic achievements—matters central to informed evaluation of a presidency's accomplishments and to public understanding of its actual record.
+- How stupid were we to do that?" according to the AP fact check.
 
 President Donald Trump repeated false and misleading claims about the 2020 election, the U.S. economy, and international conflicts while marking his first year back in office, according to an Associated Press fact check published January 20. Trump claimed the 2020 election was rigged, said he settled eight wars, and overstated economic improvements during an appearance Tuesday at the White House and Wednesday in Davos, Switzerland.
 
@@ -152,144 +136,170 @@ Trump continues to repeat his false claim about the 2020 election. On January 20
 
 Biden's Electoral College victory was nearly the same margin as Trump's 2016 victory over Clinton. Biden prevailed in key states including Pennsylvania, Michigan, Wisconsin, Arizona, and Georgia. Trump's allegations of massive voting fraud have been refuted by judges, state election officials, and the Homeland Security Department. In 2020, then-Attorney General William Barr, a Trump appointee, told the AP that no proof of widespread voter fraud had been uncovered. "To date, we have not seen fraud on a scale that could have affected a different outcome in the election," Barr said at the time.
 
----
-
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from public sources. Read the framework specification at /methodology. This article received no human editorial review.
-
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Donald Trump; 2020 United States presidential election
-**Predicate:** claimed_rigged
-**Object:** 2020 election was rigged and stolen (allegation)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; 2020 United States presidential election
+- **Predicate:** claimed_rigged
+- **Object:** 2020 election was rigged and stolen (allegation)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > Trump claimed on January 20 that the 2020 election was rigged and stolen.
 
-### c_002 — confirmed, primary document
-**Subject entities:** 2020 United States presidential election; Joe Biden; Donald Trump
-**Predicate:** biden_won_decisively
-**Object:** 306 electoral votes to 232; 7+ million more popular votes (election_result)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** 2020 United States presidential election; Joe Biden; Donald Trump
+- **Predicate:** biden_won_decisively
+- **Object:** 306 electoral votes to 232; 7+ million more popular votes (election_result)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > The 2020 presidential election was not stolen. Joe Biden won the Electoral College 306 to 232 and received more than 7 million more popular votes than Trump.
 
-### c_003 — attributed, single source
-**Subject entities:** Donald Trump; Greenland; Denmark; United States
-**Predicate:** claimed_gave_away
-**Object:** US gave Greenland to Denmark after WWII (allegation)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Greenland; Denmark; United States
+- **Predicate:** claimed_gave_away
+- **Object:** US gave Greenland to Denmark after WWII (allegation)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > Trump claimed that after World War II the United States gave Greenland back to Denmark.
 
-### c_004 — confirmed, primary document
-**Subject entities:** Greenland; Denmark; United States
-**Predicate:** denmark_retained_sovereignty
-**Object:** Greenland was Danish colony since 1814; US recognized Danish sovereignty in 1916 (sovereignty_fact)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Greenland; Denmark; United States
+- **Predicate:** denmark_retained_sovereignty
+- **Object:** Greenland was Danish colony since 1814; US recognized Danish sovereignty in 1916 (sovereignty_fact)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > Greenland never belonged to the United States. Denmark formally made Greenland a colony in 1814, and the U.S. recognized Denmark's sovereignty over the island in 1916 through a bilateral agreement.
 
-### c_005 — attributed, single source
-**Subject entities:** Donald Trump; United States economy
-**Predicate:** claimed_booming
-**Object:** economy booming with exploding growth and surging productivity (assertion)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; United States economy
+- **Predicate:** claimed_booming
+- **Object:** economy booming with exploding growth and surging productivity (assertion)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > Trump claimed that the U.S. economy is booming with growth exploding, productivity surging, and investment soaring.
 
-### c_006 — reported, single source
-**Subject entities:** United States economy
-**Predicate:** growing_mixed_indicators
-**Object:** solid growth but slowed hiring, 2.7% inflation, slower real income growth (economic_conditions)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** United States economy
+- **Predicate:** growing_mixed_indicators
+- **Object:** solid growth but slowed hiring, 2.7% inflation, slower real income growth (economic_conditions)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > One year into Trump's second term, hiring has slowed, inflation remained elevated at 2.7 percent as of December, and incomes adjusted for inflation are growing more slowly than in 2023 and 2024.
 
-### c_007 — attributed, single source
-**Subject entities:** Donald Trump
-**Predicate:** claimed_settled_eight_wars
-**Object:** settled eight conflicts across multiple regions (diplomatic_claim)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** claimed_settled_eight_wars
+- **Object:** settled eight conflicts across multiple regions (diplomatic_claim)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > Trump claimed to have settled eight wars, including conflicts between Israel and Hamas, Israel and Iran, Egypt and Ethiopia, India and Pakistan, Serbia and Kosovo, Rwanda and Congo, Armenia and Azerbaijan, and Cambodia and Thailand.
 
-### c_008 — reported, single source
-**Subject entities:** Donald Trump; international conflicts
-**Predicate:** war_claims_exaggerated
-**Object:** war settlement claims are exaggerated with fighting ongoing in multiple claimed settlements (analysis)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; international conflicts
+- **Predicate:** war_claims_exaggerated
+- **Object:** war settlement claims are exaggerated with fighting ongoing in multiple claimed settlements (analysis)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > Trump's claim of settling eight wars is highly exaggerated. Fighting continues in Gaza, the Israel-Iran conflict is a temporary respite from an ongoing cold war, fresh fighting broke out recently between Cambodia and Thailand and between Congolese forces and Rwanda-backed rebels, and his roles in other conflicts are either incomplete or disputed.
 
-### c_009 — attributed, single source
-**Subject entities:** Donald Trump; NATO
-**Predicate:** claimed_one_way_street
-**Object:** NATO is one-way street providing nothing in return (assertion)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; NATO
+- **Predicate:** claimed_one_way_street
+- **Object:** NATO is one-way street providing nothing in return (assertion)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > Trump claimed that NATO members spent trillions and got nothing in return, describing U.S. participation as a one-way street.
 
-### c_010 — confirmed, primary document
-**Subject entities:** NATO; North Atlantic Treaty; Afghanistan; Iraq; Denmark
-**Predicate:** provided_military_support
-**Object:** NATO members deployed forces to US operations; Article 5 invoked for 9/11 (military_support)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** NATO; North Atlantic Treaty; Afghanistan; Iraq; Denmark
+- **Predicate:** provided_military_support
+- **Object:** NATO members deployed forces to US operations; Article 5 invoked for 9/11 (military_support)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > NATO invoked Article 5 of the North Atlantic Treaty, which commits member nations to mutual defense, only once—in response to the September 11, 2001 attacks on the United States. NATO members deployed military forces to U.S.-led operations in Afghanistan and Iraq, with Denmark suffering 44 soldiers killed in Afghanistan and 8 more in Iraq.
 
-### c_011 — attributed, single source
-**Subject entities:** Donald Trump; wind energy
-**Predicate:** claimed_windmills_losers
-**Object:** more windmills cause countries to lose money and perform worse (assertion)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; wind energy
+- **Predicate:** claimed_windmills_losers
+- **Object:** more windmills cause countries to lose money and perform worse (assertion)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > Trump claimed that countries with more wind turbines lose money and perform worse economically.
 
-### c_012 — reported, single source
-**Subject entities:** wind energy; electricity generation
-**Predicate:** cost_competitive_with_fossil
-**Object:** onshore wind $30/MWh; offshore 40% cheaper than gas (economic_data)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** wind energy; electricity generation
+- **Predicate:** cost_competitive_with_fossil
+- **Object:** onshore wind $30/MWh; offshore 40% cheaper than gas (economic_data)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > Onshore wind is among the cheapest sources of electricity generation, with new wind farms producing power at around $30 per megawatt hour, compared to $65 for natural gas and over $80 for advanced nuclear. The U.K. procured 8.4 gigawatts of offshore wind in January 2026, making offshore wind 40 percent cheaper to build and operate than new gas plants.
 
-### c_013 — reported, single source
-**Subject entities:** coal; electricity; United States
-**Predicate:** still_emits_pollutants
-**Object:** coal cleaner than historical but still causes acid rain, smog, respiratory harm; 15% of US electricity (environmental_fact)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_013
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** coal; electricity; United States
+- **Predicate:** still_emits_pollutants
+- **Object:** coal cleaner than historical but still causes acid rain, smog, respiratory harm; 15% of US electricity (environmental_fact)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > While coal production is cleaner than it was historically, burning coal still emits sulfur dioxide and nitrogen oxides that contribute to acid rain, smog, and respiratory illnesses. Coal now accounts for about 15 percent of U.S. electricity production.
 
-### c_014 — attributed, single source
-**Subject entities:** Donald Trump; 2024 United States presidential election
-**Predicate:** claimed_landslide
-**Object:** won in landslide, won all swing states, won popular vote (election_claim)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; 2024 United States presidential election
+- **Predicate:** claimed_landslide
+- **Object:** won in landslide, won all swing states, won popular vote (election_claim)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > Trump claimed that he won the 2024 election in a landslide, winning all seven swing states and the popular vote.
 
-### c_015 — confirmed, primary document
-**Subject entities:** 2024 United States presidential election; Donald Trump; Kamala Harris
-**Predicate:** trump_won_narrower_popular_vote
-**Object:** 312-226 electoral; 2.3M vote popular vote margin (election_result)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_015
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** 2024 United States presidential election; Donald Trump; Kamala Harris
+- **Predicate:** trump_won_narrower_popular_vote
+- **Object:** 312-226 electoral; 2.3M vote popular vote margin (election_result)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > In the 2024 election, Trump won the Electoral College 312 to 226, including all seven swing states, but won the popular vote by only 2,284,967 votes, a narrower margin than his 2016 victory over Hillary Clinton.
 
@@ -298,10 +308,5 @@ This article was generated algorithmically by Main Street Independent's News Art
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Melissa Goldin
 **Publication date:** 2026-01-20
-**Access date:** 2026-05-18
 **Title:** Trump highlights familiar false claims as he reviews 2025
 **URL:** https://apnews.com/article/fact-check-trump-rigged-election-eight-wars-inflation-220f515728383d5205c3748259b2cc0f
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

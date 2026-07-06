@@ -1,6 +1,5 @@
 ---
 headline: DOJ says shooter who killed Brown students, MIT professor planned attack for years
-slug: 2026-01-06-doj-brown-university-mit-shooter-planned-attack-for-years
 publish_date: '2026-01-06'
 lede: The U.S. Department of Justice said Tuesday that Claudio Neves Valente, the gunman who killed two Brown University students and an MIT professor in December, had been planning the attacks for years and left behind videos in which he confessed to the killings but provided no motive.
 nut_graf: The recordings, recovered by the FBI from a New Hampshire storage facility where Neves Valente was found dead Dec. 18, show a man who said he had nothing to apologize for — and who explicitly refuted baseless claims spread online that he had spoken Arabic during the Brown attack.
@@ -19,41 +18,41 @@ primary_themes:
 - federal investigation
 - misinformation
 topic_tags:
-  - "crime, law and justice"
-  - education
+- crime, law and justice
+- law enforcement
+- prosecution
+- higher education
 storyline_nexus:
-  - immigration-enforcement
-geographic_location: Providence, Rhode Island; Cambridge, Massachusetts; Brookline, Massachusetts
+- us-immigration-enforcement
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
-  intensity: 0.95
+  intensity: 0.9
 - value: truthfulness
-  intensity: 0.8
-- value: informed_citizenship
-  intensity: 0.75
-framework_version: 1.1.0
-generation_timestamp: '2026-05-16T18:07:36Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-22T23:57:50Z'
 source_cluster_id: cluster_ap_2026-01-06_brown-university-mit-shooter-planning-ki
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 12
   hedges:
-    appears: 0
     alleged: 0
     attributed: 4
-    reported: 0
-    contested: 0
     confirmed: 8
+    contested: 0
+    reported: 0
+    appears: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 12
     single_source: 0
     two_independent: 0
+    primary_plus_secondary: 0
+    one_originating_plus_primary_document: 0
 sources:
   count: 1
   outlets:
@@ -74,6 +73,13 @@ image:
 cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- The recordings, recovered by the FBI from a New Hampshire storage facility where Neves Valente was found dead Dec.
+- Neves Valente, a former Brown University graduate student and Portuguese national, fatally shot sophomore Ella Cook, 19, and freshman MukhammadAziz Umurzokov, 18, and wounded nine others in an engineering building on Dec.
 
 The U.S. Department of Justice said Tuesday that Claudio Neves Valente, the gunman who killed two Brown University students and an MIT professor in December, had been planning the attacks for years and left behind videos in which he confessed to the killings but provided no motive.
 
@@ -119,111 +125,135 @@ Brown University said in a statement Tuesday that "the gravity of this tragedy c
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** U.S. Department of Justice; Claudio Neves Valente
-**Predicate:** released_information_identifying
-**Object:** Claudio Neves Valente as shooter (identification)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Department of Justice; Claudio Neves Valente
+- **Predicate:** released_information_identifying
+- **Object:** Claudio Neves Valente as shooter (identification)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > The U.S. Department of Justice released information Tuesday about Claudio Neves Valente, identifying him as the shooter who killed two Brown University students and an MIT professor.
 
-### c_002 — attributed, primary document
-**Subject entities:** Claudio Neves Valente
-**Predicate:** admitted_planned_attack
-**Object:** at least six semesters (duration)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Claudio Neves Valente
+- **Predicate:** admitted_planned_attack
+- **Object:** at least six semesters (duration)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > In videos recovered by the FBI, Neves Valente admitted in Portuguese that he had been working out details of the attack for at least six semesters.
 
-### c_003 — confirmed, primary document
-**Subject entities:** Claudio Neves Valente; Ella Cook; MukhammadAziz Umurzokov
-**Predicate:** killed_and_wounded
-**Object:** 2 killed, 9 wounded at Brown (casualty_count)
-**Temporal:** 2025-12-13
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Claudio Neves Valente; Ella Cook; MukhammadAziz Umurzokov
+- **Predicate:** killed_and_wounded
+- **Object:** 2 killed, 9 wounded at Brown (casualty_count)
+- **Temporal:** 2025-12-13
+- **Sources:** src_001
 
 > Neves Valente killed Brown University sophomore Ella Cook, 19, and freshman MukhammadAziz Umurzokov, 18, and wounded nine others in an engineering building on Dec. 13.
 
-### c_004 — attributed, primary document
-**Subject entities:** Claudio Neves Valente; Nuno F.G. Loureiro
-**Predicate:** fatally_shot
-**Object:** Brookline home (location)
-**Temporal:** 2025-12-15
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Claudio Neves Valente; Nuno F.G. Loureiro
+- **Predicate:** fatally_shot
+- **Object:** Brookline home (location)
+- **Temporal:** 2025-12-15
+- **Sources:** src_001
 
 > Two days after the Brown attack, Neves Valente fatally shot MIT professor Nuno F.G. Loureiro in Loureiro's home in the Boston suburb of Brookline.
 
-### c_005 — confirmed, primary document
-**Subject entities:** Claudio Neves Valente
-**Predicate:** found_dead
-**Object:** New Hampshire storage facility (location)
-**Temporal:** 2025-12-18
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Claudio Neves Valente
+- **Predicate:** found_dead
+- **Object:** New Hampshire storage facility (location)
+- **Temporal:** 2025-12-18
+- **Sources:** src_001
 
 > Neves Valente was found dead in a New Hampshire storage facility on Dec. 18.
 
-### c_006 — confirmed, primary document
-**Subject entities:** Claudio Neves Valente
-**Predicate:** gave_no_motive
-**Object:** no stated motive (absence)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Claudio Neves Valente
+- **Predicate:** gave_no_motive
+- **Object:** no stated motive (absence)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > Neves Valente gave no motive for targeting Brown University or Professor Loureiro in his recorded videos.
 
-### c_007 — confirmed, primary document
-**Subject entities:** Laura Loomer
-**Predicate:** spread_false_claims
-**Object:** shooter spoke Arabic (misinformation)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Laura Loomer
+- **Predicate:** spread_false_claims
+- **Object:** shooter spoke Arabic (misinformation)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > Conservative influencer Laura Loomer spread baseless claims after the attack that the Brown shooter spoke Arabic, saying something like 'Allahu akbar' upon entering the auditorium.
 
-### c_008 — attributed, primary document
-**Subject entities:** Claudio Neves Valente
-**Predicate:** denied_arabic_statement
-**Object:** did not speak Arabic, no political statement intended (denial)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Claudio Neves Valente
+- **Predicate:** denied_arabic_statement
+- **Object:** did not speak Arabic, no political statement intended (denial)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > In the videos, Neves Valente said he did not speak a word of Arabic and did not intend to make any kind of statement.
 
-### c_009 — confirmed, primary document
-**Subject entities:** Claudio Neves Valente; Nuno F.G. Loureiro
-**Predicate:** attended_same_program
-**Object:** Instituto Superior Técnico, 1995–2000 (institution_and_period)
-**Temporal:** 1995
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Claudio Neves Valente; Nuno F.G. Loureiro
+- **Predicate:** attended_same_program
+- **Object:** Instituto Superior Técnico, 1995–2000 (institution_and_period)
+- **Temporal:** 1995
+- **Sources:** src_001
 
 > Neves Valente and Loureiro attended the same academic program at Instituto Superior Técnico in Portugal between 1995 and 2000.
 
-### c_010 — confirmed, primary document
-**Subject entities:** Claudio Neves Valente; Instituto Superior Técnico
-**Predicate:** dismissed_from_position
-**Object:** February 2000 (date)
-**Temporal:** 2000-02
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Claudio Neves Valente; Instituto Superior Técnico
+- **Predicate:** dismissed_from_position
+- **Object:** February 2000 (date)
+- **Temporal:** 2000-02
+- **Sources:** src_001
 
 > In 2000, Neves Valente was dismissed from a position at Instituto Superior Técnico, according to an archived termination notice from the school's then-president.
 
-### c_011 — confirmed, primary document
-**Subject entities:** Claudio Neves Valente; Brown University
-**Predicate:** studied_at_and_obtained_residence
-**Object:** Brown graduate physics program; legal permanent residence Sept. 2017 (background)
-**Temporal:** 2001
-**Source IDs:** src_001
+### c_011
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Claudio Neves Valente; Brown University
+- **Predicate:** studied_at_and_obtained_residence
+- **Object:** Brown graduate physics program; legal permanent residence Sept. 2017 (background)
+- **Temporal:** 2001
+- **Sources:** src_001
 
 > Neves Valente first arrived in the United States around 25 years ago to study physics at Brown's graduate program, leaving in spring 2001; he obtained U.S. legal permanent residence in September 2017.
 
-### c_012 — attributed, primary document
-**Subject entities:** Claudio Neves Valente
-**Predicate:** identified_by_witness
-**Object:** rental gray Nissan identified via Reddit post to FBI (investigative_development)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Claudio Neves Valente
+- **Predicate:** identified_by_witness
+- **Object:** rental gray Nissan identified via Reddit post to FBI (investigative_development)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > A witness at Brown who had multiple encounters with Neves Valente before the attack recognized him from police images and contacted the FBI, identifying a possible rental gray Nissan — the first time investigators connected a vehicle to the shooter.
 
@@ -232,10 +262,5 @@ Brown University said in a statement Tuesday that "the gravity of this tragedy c
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Leah Willingham
 **Publication date:** 2026-01-06
-**Access date:** 2026-01-06
 **Title:** DOJ says shooter who killed Brown students, MIT professor planned attack for years
 **URL:** https://apnews.com/article/brown-university-mit-shooter-planning-killing-months-c5daf1283b181a1ef383fb099e0e719f
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

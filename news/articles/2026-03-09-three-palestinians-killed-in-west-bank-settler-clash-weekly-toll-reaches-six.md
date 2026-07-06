@@ -24,7 +24,7 @@ topic_tags:
   - "disaster, accident and emergency incident"
   - "economy, business and finance"
 storyline_nexus:
-  - gaza-conflict
+- gaza-israel-war
 geographic_location: Khirbet Abu Falah, West Bank
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -217,7 +217,3 @@ Doctors and emergency workers said the movement restrictions hamper their abilit
 **Access date:** 2026-03-09
 **Title:** 3 Palestinians killed in West Bank clash with Israeli settlers
 **URL:** https://apnews.com/article/israel-palestinians-west-bank-settlers-violence-900ad24fd46e0ca5ae0de07c0328c960
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -342,7 +342,3 @@ Museveni, 81, will now serve a seventh term. His supporters credit him for the r
 **Access date:** 2026-01-25
 **Title:** Wife of Uganda's opposition leader recounts harrowing attack
 **URL:** https://apnews.com/article/uganda-opposition-bobi-wine-wife-19ee8a1bce8d0f14e9d337eba561c286
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

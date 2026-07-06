@@ -1,6 +1,5 @@
 ---
 headline: 'Poll: About half of AAPI adults name inflation top priority as government confidence drops'
-slug: 2026-01-22-aapi-adults-name-inflation-top-government-priority-as-government-confidence-drops
 publish_date: '2026-01-22'
 lede: About half of Asian American, Native Hawaiian and Pacific Islander adults said they want the government to prioritize the high cost of living and inflation — a share roughly 15 percentage points higher than for U.S. adults overall — according to a poll released Thursday by AAPI Data and the Associated Press-NORC Center for Public Affairs Research. The survey of 1,029 AAPI adults, conducted in early December, also found that cost anxiety within this community has grown since the previous year.
 nut_graf: The findings underscore how tariff pressures, high rents in the gateway cities where AAPI populations are concentrated, and rising health care costs combine to squeeze a community that national surveys often miss — and that has grown markedly less confident in the government's ability to respond than it was just after the 2024 election.
@@ -18,43 +17,41 @@ primary_themes:
 - public opinion polling
 - Asian Americans and Pacific Islanders
 topic_tags:
-  - "arts, culture, entertainment and media"
-  - "economy, business and finance"
-  - health
-  - macroeconomics
-  - "mass media"
-  - sport
-storyline_nexus: []
+- economy
+- government
+- macroeconomics
+- demographics
+- social condition
+storyline_nexus:
+- us-economic-volatility
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship
-  intensity: 0.85
-- value: human_life_and_dignity
+  intensity: 0.9
+- value: equality_fairness
   intensity: 0.6
-- value: accountability_of_power
-  intensity: 0.4
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:00:33Z'
+framework_version: 1.3.0
+generation_timestamp: '2026-05-22T23:59:54Z'
 source_cluster_id: cluster_ap_2026-01-21_aapi-asian-american-government-prioritie
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 11
   hedges:
-    appears: 0
     alleged: 0
     attributed: 2
-    reported: 8
-    contested: 0
     confirmed: 1
+    reported: 8
+    appears: 0
+    contested: 0
   corroboration:
-    primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
-    primary_document: 9
+    primary_plus_secondary: 0
     single_source: 2
+    primary_document: 9
     two_independent: 0
 sources:
   count: 1
@@ -69,41 +66,18 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-08-medical-bills-top-crowdfunding-causes-as-poll-finds-americans-skeptical-of-fees-
-  relation: related
-  strength: 0.7182
-  confidence: medium
-- slug: 2026-01-13-aca-enrollment-falls-by-800-000-as-enhanced-subsidies-expire
-  relation: related
-  strength: 0.6819
-  confidence: medium
-- slug: 2026-01-12-wall-street-closes-at-records-as-doj-subpoena-of-fed-stirs-inflation-fears
-  relation: related
-  strength: 0.6855
-  confidence: medium
-- slug: 2025-12-30-fed-december-rate-cut-a-close-call-as-officials-split-on-inflation-versus-jobs
-  relation: related
-  strength: 0.7425
-  confidence: medium
-- slug: 2026-01-08-connecticut-weighs-enrollment-extension-as-aca-subsidy-lapse-spikes-premiums
-  relation: related
-  strength: 0.6949
-  confidence: medium
-- slug: 2026-01-05-west-virginia-electricity-rates-rose-34-in-five-years-pushing-residents-to-despe
-  relation: related
-  strength: 0.7025
-  confidence: medium
-- slug: 2026-01-07-trump-calls-for-ban-on-large-investors-buying-homes-citing-affordability-concern
-  relation: related
-  strength: 0.6804
-  confidence: medium
-- slug: 2025-12-30-fed-minutes-reveal-close-december-rate-call-as-committee-splits-on-inflation-vs-
-  relation: related
-  strength: 0.7183
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- The findings underscore how tariff pressures, high rents in the gateway cities where AAPI populations are concentrated, and rising health care costs combine to squeeze a community that national surveys often miss — and that has grown markedly less confident in the government's ability to respond than it was just after the 2024 election.
+- WASHINGTON — About half of Asian American, Native Hawaiian and Pacific Islander adults said they want the government to prioritize the high cost of living and inflation — a rate substantially higher than for the U.S.
+- By comparison, a separate December AP-NORC poll found that about one-third of U.S.
+- The AAPI community's elevated concern has also grown over the past year: about 4 in 10 AAPI adults held that view in the prior year's survey.
 
 The findings underscore how tariff pressures, high rents in the gateway cities where AAPI populations are concentrated, and rising health care costs combine to squeeze a community that national surveys often miss — and that has grown markedly less confident in the government's ability to respond than it was just after the 2024 election.
 
@@ -153,102 +127,124 @@ The AAPI Data/AP-NORC poll is part of an ongoing project examining the views of 
 
 ## Atomic claims
 
-### c_001 — reported, primary document
-**Subject entities:** AAPI adults
-**Predicate:** name_as_top_government_priority
-**Object:** high cost of living and inflation (policy_priority)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** AAPI adults
+- **Predicate:** name_as_top_government_priority
+- **Object:** high cost of living and inflation (policy_priority)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > About half of AAPI adults said they wanted the government to prioritize addressing the high cost of living and inflation.
 
-### c_002 — attributed, primary document
-**Subject entities:** U.S. adults
-**Predicate:** rate_as_most_pressing_problems
-**Object:** inflation and financial worries (policy_concern)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. adults
+- **Predicate:** rate_as_most_pressing_problems
+- **Object:** inflation and financial worries (policy_concern)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > About one-third of U.S. adults overall rated inflation and financial worries as the most pressing problems, according to a separate December AP-NORC poll.
 
-### c_003 — reported, single source
-**Subject entities:** AAPI adults
-**Predicate:** increased_concern_year_over_year
-**Object:** cost of living as government priority (trend)
-**Temporal:** 2024/2025
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** AAPI adults
+- **Predicate:** increased_concern_year_over_year
+- **Object:** cost of living as government priority (trend)
+- **Temporal:** 2024/2025
+- **Sources:** src_001
 
 > Concern about costs rose among AAPI adults since the prior year, when about 4 in 10 said they wanted the government to focus on this issue.
 
-### c_004 — reported, primary document
-**Subject entities:** AAPI adults
-**Predicate:** exceed_national_average_concern_about
-**Object:** inflation and costs, across party lines (cross_partisan_finding)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** AAPI adults
+- **Predicate:** exceed_national_average_concern_about
+- **Object:** inflation and costs, across party lines (cross_partisan_finding)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > AAPI Democrats, Independents and Republicans were each at least slightly more likely than those party groups nationally to name inflation and costs as a priority.
 
-### c_005 — reported, primary document
-**Subject entities:** AAPI adults
-**Predicate:** name_as_priority
-**Object:** housing costs and unemployment (policy_priority)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** AAPI adults
+- **Predicate:** name_as_priority
+- **Object:** housing costs and unemployment (policy_priority)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > About 2 in 10 AAPI adults mentioned housing costs or jobs and unemployment as priorities for the government, generally in line with Americans overall.
 
-### c_006 — reported, primary document
-**Subject entities:** AAPI adults
-**Predicate:** prioritize_government_action_on
-**Object:** health care (policy_priority)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** AAPI adults
+- **Predicate:** prioritize_government_action_on
+- **Object:** health care (policy_priority)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > About 44% of AAPI adults want the government to prioritize health care in the coming year.
 
-### c_007 — reported, primary document
-**Subject entities:** AAPI adults
-**Predicate:** express_high_concern_about
-**Object:** rising health care costs in 2026 (economic_anxiety)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** AAPI adults
+- **Predicate:** express_high_concern_about
+- **Object:** rising health care costs in 2026 (economic_anxiety)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > About 6 in 10 AAPI adults are extremely or very concerned about their health care costs increasing in 2026.
 
-### c_008 — reported, primary document
-**Subject entities:** AAPI adults
-**Predicate:** express_low_confidence_in
-**Object:** government ability to make progress on key issues (institutional_trust)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** AAPI adults
+- **Predicate:** express_low_confidence_in
+- **Object:** government ability to make progress on key issues (institutional_trust)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > About 7 in 10 AAPI adults say they are not at all or slightly confident the government will make progress on key issues, up from 60% at the end of 2024.
 
-### c_009 — attributed, single source
-**Subject entities:** Karthick Ramakrishnan; AAPI Data
-**Predicate:** described_consumer_behavior
-**Object:** stockpiling at ethnic grocery stores ahead of tariffs (behavioral_response)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Karthick Ramakrishnan; AAPI Data
+- **Predicate:** described_consumer_behavior
+- **Object:** stockpiling at ethnic grocery stores ahead of tariffs (behavioral_response)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > Karthick Ramakrishnan, AAPI Data executive director and researcher at UC Berkeley, said some AAPI shoppers were stockpiling at ethnic grocery stores ahead of tariffs last year.
 
-### c_010 — confirmed, primary document
-**Subject entities:** AAPI Data; AP-NORC Center for Public Affairs Research
-**Predicate:** conducted_survey
-**Object:** 1,029 AAPI adults; margin ±4.7 percentage points (poll_methodology)
-**Temporal:** 2025-12-02/2025-12-08
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** AAPI Data; AP-NORC Center for Public Affairs Research
+- **Predicate:** conducted_survey
+- **Object:** 1,029 AAPI adults; margin ±4.7 percentage points (poll_methodology)
+- **Temporal:** 2025-12-02/2025-12-08
+- **Sources:** src_001
 
 > The poll of 1,029 AAPI adults was conducted Dec. 2-8, 2025, using NORC's Amplify AAPI Panel, with a margin of sampling error of plus or minus 4.7 percentage points.
 
-### c_011 — reported, primary document
-**Subject entities:** Black adults; Hispanic adults; AAPI adults
-**Predicate:** more_likely_than_white_adults_to_name
-**Object:** unemployment, jobs, and housing costs as priorities (comparative_finding)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Black adults; Hispanic adults; AAPI adults
+- **Predicate:** more_likely_than_white_adults_to_name
+- **Object:** unemployment, jobs, and housing costs as priorities (comparative_finding)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > Black, Hispanic and AAPI adults were more likely than white adults to name unemployment, jobs and housing costs as government priorities.
 
@@ -257,10 +253,5 @@ The AAPI Data/AP-NORC poll is part of an ongoing project examining the views of 
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Terry Tang
 **Publication date:** 2026-01-22
-**Access date:** 2026-01-22
 **Title:** AAPI adults especially worried about costs: new survey
 **URL:** https://apnews.com/article/aapi-asian-american-government-priorities-inflation-poll-38cb5590190dcc726ba6655be6f55aed
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

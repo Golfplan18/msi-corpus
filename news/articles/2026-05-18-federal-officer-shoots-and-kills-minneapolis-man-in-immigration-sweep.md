@@ -19,7 +19,8 @@ topic_tags:
   - "law enforcement"
   - politics
   - "government policy"
-storyline_nexus: []
+storyline_nexus:
+- us-immigration-enforcement
 geographic_location: Minneapolis, Minnesota, United States
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -144,115 +145,137 @@ President Trump weighed in on social media, saying Pretti had shown up to "imped
 
 Senate Democratic Leader Chuck Schumer said Democrats would not vote for a spending package that includes funding for the Department of Homeland Security, increasing the possibility of a government shutdown on January 30 when federal funding runs out.
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** federal immigration officer; Alex Pretti
-**Predicate:** shot_and_killed
-**Object:** fatal shooting during immigration enforcement (event)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** federal immigration officer; Alex Pretti
+- **Predicate:** shot_and_killed
+- **Object:** fatal shooting during immigration enforcement (event)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > A federal immigration officer shot and killed Alex Pretti, a 37-year-old intensive care unit nurse, during an enforcement operation Saturday, January 24, in Minneapolis.
 
-### c_002 — attributed, single source
-**Subject entities:** Alex Pretti; Donald Trump
-**Predicate:** protested
-**Object:** immigration crackdown (policy_position)
-**Temporal:** prior to 2026-01-24
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Alex Pretti; Donald Trump
+- **Predicate:** protested
+- **Object:** immigration crackdown (policy_position)
+- **Temporal:** prior to 2026-01-24
+- **Sources:** src_001
 
 > Pretti had protested President Donald Trump's immigration crackdown in Minneapolis.
 
-### c_003 — attributed, single source
-**Subject entities:** federal officers; DHS; man with handgun
-**Predicate:** fired_defensive_shots
-**Object:** defensive gunfire in response to armed approach and violent resistance (official_statement)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** federal officers; DHS; man with handgun
+- **Predicate:** fired_defensive_shots
+- **Object:** defensive gunfire in response to armed approach and violent resistance (official_statement)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > Department of Homeland Security officials said federal officers fired defensive shots after a man with a handgun approached them and violently resisted when officers tried to disarm him.
 
-### c_004 — appears, single source
-**Subject entities:** Alex Pretti; bystanders
-**Predicate:** appeared_in_video
-**Object:** phone in hand; no visible weapon (video_evidence)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_004
+- **Hedge:** appears
+- **Corroboration:** single_source
+- **Subject entities:** Alex Pretti; bystanders
+- **Predicate:** appeared_in_video
+- **Object:** phone in hand; no visible weapon (video_evidence)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > Bystander videos showed Pretti holding a phone in his hand, with no visible weapon appearing in any of the videos.
 
-### c_005 — attributed, single source
-**Subject entities:** Brian O'Hara; Alex Pretti
-**Predicate:** stated_permit_status
-**Object:** lawful gun owner with permit to carry (legal_status)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Brian O'Hara; Alex Pretti
+- **Predicate:** stated_permit_status
+- **Object:** lawful gun owner with permit to carry (legal_status)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > Minneapolis Police Chief Brian O'Hara said Pretti was a lawful gun owner with a permit to carry.
 
-### c_006 — attributed, single source
-**Subject entities:** federal officer; Renee Good; Minneapolis
-**Predicate:** prior_fatal_shooting
-**Object:** fatal shooting on January 7 approximately one mile away (geographic_and_temporal_context)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** federal officer; Renee Good; Minneapolis
+- **Predicate:** prior_fatal_shooting
+- **Object:** fatal shooting on January 7 approximately one mile away (geographic_and_temporal_context)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > The shooting occurred just over a mile from where an Immigration and Customs Enforcement officer shot and killed 37-year-old Renee Good on January 7.
 
-### c_007 — attributed, single source
-**Subject entities:** Minnesota National Guard; Tim Walz; local police
-**Predicate:** deployed
-**Object:** assistance to local police at two locations (military_deployment)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Minnesota National Guard; Tim Walz; local police
+- **Predicate:** deployed
+- **Object:** assistance to local police at two locations (military_deployment)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > The Minnesota National Guard was assisting local police at the direction of Governor Tim Walz and was sent to both the shooting site and a federal building.
 
-### c_008 — attributed, single source
-**Subject entities:** Donald Trump; Alex Pretti
-**Predicate:** commented_on_social_media
-**Object:** assertion that Pretti came to impede law enforcement; question about armament (public_statement)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Alex Pretti
+- **Predicate:** commented_on_social_media
+- **Object:** assertion that Pretti came to impede law enforcement; question about armament (public_statement)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > President Donald Trump said on social media that Pretti had shown up to impede a law enforcement operation and questioned why he was armed.
 
-### c_009 — attributed, single source
-**Subject entities:** Donald Trump; Tim Walz; Minneapolis mayor
-**Predicate:** accused
-**Object:** inciting insurrection through rhetoric (political_accusation)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Tim Walz; Minneapolis mayor
+- **Predicate:** accused
+- **Object:** inciting insurrection through rhetoric (political_accusation)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > Trump said Democratic Governor Tim Walz and the Minneapolis mayor were inciting insurrection with their rhetoric.
 
-### c_010 — reported, single source
-**Subject entities:** Alex Pretti; Pretti family; federal officers
-**Predicate:** contested_shooting_account
-**Object:** unarmed with phone in hand, hands raised, protecting another person, being pepper sprayed (family_statement)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Alex Pretti; Pretti family; federal officers
+- **Predicate:** contested_shooting_account
+- **Object:** unarmed with phone in hand, hands raised, protecting another person, being pepper sprayed (family_statement)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > Pretti's family released a statement saying Alex was not holding a gun when attacked by federal officers, had his phone in his right hand and his empty left hand raised above his head while trying to protect a woman, and was being pepper sprayed.
 
-### c_011 — attributed, single source
-**Subject entities:** federal officers; Minnesota Bureau of Criminal Apprehension
-**Predicate:** blocked_access
-**Object:** prevented state investigators from accessing shooting scene despite valid warrant (jurisdiction_dispute)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** federal officers; Minnesota Bureau of Criminal Apprehension
+- **Predicate:** blocked_access
+- **Object:** prevented state investigators from accessing shooting scene despite valid warrant (jurisdiction_dispute)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > Federal officers blocked the Minnesota Bureau of Criminal Apprehension from accessing the shooting scene even after the agency obtained a signed judicial warrant.
 
-### c_012 — attributed, single source
-**Subject entities:** Chuck Schumer; Senate Democrats; DHS
-**Predicate:** threatened_legislative_action
-**Object:** withhold votes on spending package including DHS funding (legislative_position)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Chuck Schumer; Senate Democrats; DHS
+- **Predicate:** threatened_legislative_action
+- **Object:** withhold votes on spending package including DHS funding (legislative_position)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > Senate Democratic Leader Chuck Schumer said Democrats would not vote for a spending package that includes funding for the Department of Homeland Security, increasing the possibility of a government shutdown on January 30.
 
@@ -264,7 +287,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-05-17
 **Title:** Man shot and killed in Minneapolis immigration crackdown, National Guard mobilized
 **URL:** https://apnews.com/article/immigration-enforcement-minnesota-4d1499fc5962ab880f3816259e04bdbf
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

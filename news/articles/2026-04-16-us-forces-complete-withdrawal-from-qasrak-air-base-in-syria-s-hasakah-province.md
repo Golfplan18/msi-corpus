@@ -18,43 +18,40 @@ primary_themes:
 - Islamic State
 - Kurdish-led forces
 topic_tags:
-  - "artificial intelligence"
-  - "conflict, war and peace"
-  - government
-  - "international relations"
-  - "science and technology"
-  - terrorism
+- armed conflict
+- conflict, war and peace
+- international military intervention
+- international relations
+- government
 storyline_nexus:
-  - ai-regulation
-geographic_location: Hasakah province, Syria
+- syria-post-conflict-integration
+geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship
-  intensity: 0.85
-- value: accountability_of_power
-  intensity: 0.6
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T08:24:01Z'
+  intensity: 0.9
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:32:59Z'
 source_cluster_id: cluster_ap_2026-04-17_syria-us-troops-qasrak-withdrawal-e6985a
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 10
   hedges:
     appears: 0
-    alleged: 0
     attributed: 2
-    reported: 5
-    contested: 0
     confirmed: 3
+    alleged: 0
+    contested: 0
+    reported: 5
   corroboration:
-    primary_plus_secondary: 1
+    single_source: 6
     one_originating_plus_primary_document: 0
     primary_document: 2
-    single_source: 6
     two_independent: 1
+    primary_plus_secondary: 1
 sources:
   count: 1
   outlets:
@@ -71,6 +68,13 @@ figures_aggregate:
 cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- The Qasrak handover marks the completion of the U.S.
+- Syria's foreign ministry said the withdrawal validated its efforts to reunify the country.
 
 QASRAK AIR BASE, Syria — U.S. forces completed their withdrawal from Qasrak air base Thursday when a final convoy of soldiers and equipment departed the site in Syria's Hasakah province, officials for both sides confirmed. The Syrian army has now taken full control of most military sites in the country where the U.S. military was once deployed.
 
@@ -96,93 +100,113 @@ The main mission of U.S. troops in Syria has been to prevent a resurgence of IS.
 
 ## Atomic claims
 
-### c_001 — confirmed, primary plus secondary
-**Subject entities:** US military; Qasrak air base
-**Predicate:** completed_withdrawal_from
-**Object:** Qasrak air base (location)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** US military; Qasrak air base
+- **Predicate:** completed_withdrawal_from
+- **Object:** Qasrak air base (location)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > U.S. forces completed their withdrawal from Qasrak air base on Thursday, April 16, 2026.
 
-### c_002 — confirmed, primary document
-**Subject entities:** Qasrak air base
-**Predicate:** located_in
-**Object:** Hasakah province, Syria (location)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Qasrak air base
+- **Predicate:** located_in
+- **Object:** Hasakah province, Syria (location)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > Qasrak air base is located in Syria's Hasakah province.
 
-### c_003 — reported, single source
-**Subject entities:** Syrian army
-**Predicate:** assumed_control_of
-**Object:** most former U.S. military sites in Syria (geographic_set)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Syrian army
+- **Predicate:** assumed_control_of
+- **Object:** most former U.S. military sites in Syria (geographic_set)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > The Syrian army has taken full control of most military sites in Syria where the U.S. military was once deployed.
 
-### c_004 — attributed, single source
-**Subject entities:** Tim Hawkins; US Central Command
-**Predicate:** stated
-**Object:** all major bases turned over; deliberate and conditions-based transition (statement)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Tim Hawkins; US Central Command
+- **Predicate:** stated
+- **Object:** all major bases turned over; deliberate and conditions-based transition (statement)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > Capt. Tim Hawkins, U.S. Central Command chief spokesperson, said U.S. forces have completed turning over all major bases in Syria as part of a deliberate and conditions-based transition.
 
-### c_005 — attributed, primary document
-**Subject entities:** Syria foreign ministry; Syrian Democratic Forces
-**Predicate:** attributed_to
-**Object:** Damascus-SDF deal and IS counterterrorism progress (causal_claim)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Syria foreign ministry; Syrian Democratic Forces
+- **Predicate:** attributed_to
+- **Object:** Damascus-SDF deal and IS counterterrorism progress (causal_claim)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > Syria's foreign ministry said the withdrawal resulted from successful implementation of a deal between Syria's central government and the Kurdish-led Syrian Democratic Forces, and from progress against Islamic State remnants.
 
-### c_006 — reported, single source
-**Subject entities:** US military; Qasrak air base
-**Predicate:** began_withdrawal
-**Object:** late February 2026 (temporal)
-**Temporal:** 2026-02-01
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** US military; Qasrak air base
+- **Predicate:** began_withdrawal
+- **Object:** late February 2026 (temporal)
+- **Temporal:** 2026-02-01
+- **Sources:** src_001
 
 > U.S. forces began withdrawing from Qasrak in late February 2026.
 
-### c_007 — reported, single source
-**Subject entities:** US military; al-Tanf base
-**Predicate:** departed
-**Object:** al-Tanf base, eastern Syria (location)
-**Temporal:** 2026-02-01
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** US military; al-Tanf base
+- **Predicate:** departed
+- **Object:** al-Tanf base, eastern Syria (location)
+- **Temporal:** 2026-02-01
+- **Sources:** src_001
 
 > Earlier in February 2026, U.S. Central Command and Syria's defense ministry announced that U.S. troops had left the al-Tanf base in eastern Syria near the border with Jordan.
 
-### c_008 — reported, single source
-**Subject entities:** US military; Islamic State group
-**Predicate:** transferred
-**Object:** approximately 5,700 IS detainees from Syria to Iraq (transfer)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** US military; Islamic State group
+- **Predicate:** transferred
+- **Object:** approximately 5,700 IS detainees from Syria to Iraq (transfer)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > The U.S. military transferred approximately 5,700 accused Islamic State militants from detention centers in northeast Syria to prisons in Iraq before the withdrawal.
 
-### c_009 — confirmed, two independent
-**Subject entities:** Islamic State group
-**Predicate:** lost_territorial_control
-**Object:** last Syrian territory (territorial_status)
-**Temporal:** 2019-01-01
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** two_independent
+- **Subject entities:** Islamic State group
+- **Predicate:** lost_territorial_control
+- **Object:** last Syrian territory (territorial_status)
+- **Temporal:** 2019-01-01
+- **Sources:** src_001
 
 > The Islamic State group lost control of the last territory it held in Syria in 2019.
 
-### c_010 — reported, single source
-**Subject entities:** Islamic State group
-**Predicate:** conducts
-**Object:** periodic attacks via sleeper cells in Syria, Iraq, and abroad (activity)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Islamic State group
+- **Predicate:** conducts
+- **Object:** periodic attacks via sleeper cells in Syria, Iraq, and abroad (activity)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > Islamic State sleeper cells have continued to stage periodic attacks in Syria, Iraq, and abroad since 2019.
 
@@ -191,10 +215,5 @@ The main mission of U.S. troops in Syria has been to prevent a resurgence of IS.
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Ghaith Alsayed
 **Publication date:** 2026-04-16
-**Access date:** 2026-05-17
 **Title:** US forces complete withdrawal from Syrian air base
 **URL:** https://apnews.com/article/syria-us-troops-qasrak-withdrawal-e6985ad6a517ddbfefc64ccb6a9e57ef
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

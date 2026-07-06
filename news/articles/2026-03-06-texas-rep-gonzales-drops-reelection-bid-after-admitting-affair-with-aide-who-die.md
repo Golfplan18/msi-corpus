@@ -19,7 +19,7 @@ topic_tags:
   - "election"
   - "politics"
 storyline_nexus:
-  - 2026-midterms
+- congressional-ethics-misconduct
 geographic_location: Washington, D.C. / Texas
 floor_values_engaged:
 - value: accountability_of_power
@@ -122,109 +122,133 @@ Before the affair became public, Gonzales had said he would not resign and told 
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Tony Gonzales
-**Predicate:** announced_withdrawal_from_reelection
-**Object:** not seeking reelection (political_decision)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Tony Gonzales
+- **Predicate:** announced_withdrawal_from_reelection
+- **Object:** not seeking reelection (political_decision)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > Rep. Tony Gonzales announced late Thursday he would not seek reelection.
 
-### c_002 — attributed, single source
-**Subject entities:** Tony Gonzales; Regina Ann Santos-Aviles
-**Predicate:** admitted_affair
-**Object:** former congressional aide (person)
-**Temporal:** 2026-03-04
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Tony Gonzales; Regina Ann Santos-Aviles
+- **Predicate:** admitted_affair
+- **Object:** former congressional aide (person)
+- **Temporal:** 2026-03-04
+- **Sources:** src_001
 
 > Gonzales admitted an extramarital affair with a former congressional aide, Regina Ann Santos-Aviles.
 
-### c_003 — confirmed, primary document
-**Subject entities:** Regina Ann Santos-Aviles
-**Predicate:** died_by_suicide
-**Object:** Uvalde, Texas, September 2025 (event)
-**Temporal:** 2025-09
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Regina Ann Santos-Aviles
+- **Predicate:** died_by_suicide
+- **Object:** Uvalde, Texas, September 2025 (event)
+- **Temporal:** 2025-09
+- **Sources:** src_001
 
 > Santos-Aviles, 35, died in September 2025 in Uvalde, Texas; the Bexar County Medical Examiner's Office ruled her death a suicide.
 
-### c_004 — confirmed, primary document
-**Subject entities:** Mike Johnson; Steve Scalise; Tom Emmer; Lisa McClain
-**Predicate:** called_on_withdrawal
-**Object:** Gonzales withdrawal from reelection (demand)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Mike Johnson; Steve Scalise; Tom Emmer; Lisa McClain
+- **Predicate:** called_on_withdrawal
+- **Object:** Gonzales withdrawal from reelection (demand)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > House Speaker Mike Johnson, Majority Leader Steve Scalise, Whip Tom Emmer, and GOP Conference Chairwoman Lisa McClain called on Gonzales to withdraw from his reelection race.
 
-### c_005 — attributed, single source
-**Subject entities:** Mike Johnson; Steve Scalise; Tom Emmer; Lisa McClain
-**Predicate:** declined_to_call_for_resignation
-**Object:** House majority considerations (political_context)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Mike Johnson; Steve Scalise; Tom Emmer; Lisa McClain
+- **Predicate:** declined_to_call_for_resignation
+- **Object:** House majority considerations (political_context)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > GOP leaders did not call for Gonzales to resign from office, as they sought to maintain their slim House majority.
 
-### c_006 — confirmed, single source
-**Subject entities:** House Ethics Committee; Tony Gonzales
-**Predicate:** opened_investigation
-**Object:** Gonzales conduct (investigation)
-**Temporal:** 2026-03
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** House Ethics Committee; Tony Gonzales
+- **Predicate:** opened_investigation
+- **Object:** Gonzales conduct (investigation)
+- **Temporal:** 2026-03
+- **Sources:** src_001
 
 > The House Ethics Committee opened an investigation into Gonzales's conduct.
 
-### c_007 — confirmed, single source
-**Subject entities:** Anna Paulina Luna; Tony Gonzales
-**Predicate:** introduced_resolutions
-**Object:** removal from committees and censure (legislative_action)
-**Temporal:** 2026-03
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Anna Paulina Luna; Tony Gonzales
+- **Predicate:** introduced_resolutions
+- **Object:** removal from committees and censure (legislative_action)
+- **Temporal:** 2026-03
+- **Sources:** src_001
 
 > Rep. Anna Paulina Luna introduced two resolutions: one to remove Gonzales from his House Appropriations and Homeland Security committee assignments, and one to censure him.
 
-### c_008 — attributed, single source
-**Subject entities:** Hakeem Jeffries; Tony Gonzales
-**Predicate:** stated_support_for_expulsion
-**Object:** expulsion from House (political_position)
-**Temporal:** 2026-03-05
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Hakeem Jeffries; Tony Gonzales
+- **Predicate:** stated_support_for_expulsion
+- **Object:** expulsion from House (political_position)
+- **Temporal:** 2026-03-05
+- **Sources:** src_001
 
 > House Democratic Leader Hakeem Jeffries said he would support expelling Gonzales from the House, a step requiring a two-thirds vote.
 
-### c_009 — confirmed, single source
-**Subject entities:** Tony Gonzales; Brandon Herrera
-**Predicate:** forced_into_runoff
-**Object:** May primary runoff (electoral_event)
-**Temporal:** 2026-03
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Tony Gonzales; Brandon Herrera
+- **Predicate:** forced_into_runoff
+- **Object:** May primary runoff (electoral_event)
+- **Temporal:** 2026-03
+- **Sources:** src_001
 
 > Gonzales had been forced into a May runoff against Brandon Herrera, a gun manufacturer and YouTube gun-rights influencer who narrowly lost to Gonzales in the 2024 primary.
 
-### c_010 — attributed, single source
-**Subject entities:** Tony Gonzales; Regina Ann Santos-Aviles
-**Predicate:** stated_last_contact
-**Object:** June 2024 (date)
-**Temporal:** 2026-03-04
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Tony Gonzales; Regina Ann Santos-Aviles
+- **Predicate:** stated_last_contact
+- **Object:** June 2024 (date)
+- **Temporal:** 2026-03-04
+- **Sources:** src_001
 
 > Gonzales said he had not spoken to Santos-Aviles since June 2024.
 
-### c_011 — confirmed, primary document
-**Subject entities:** United States House of Representatives
-**Predicate:** prohibits
-**Object:** sexual relationships with supervised employees (rule)
-**Source IDs:** src_001
+### c_011
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** United States House of Representatives
+- **Predicate:** prohibits
+- **Object:** sexual relationships with supervised employees (rule)
+- **Sources:** src_001
 
 > Under House ethics rules, lawmakers may not engage in a sexual relationship with any employee of the House under their supervision.
 
-### c_012 — confirmed, single source
-**Subject entities:** Tony Gonzales
-**Predicate:** background
-**Object:** third term congressman, 20-year Navy veteran, father of six (biographical)
-**Source IDs:** src_001
+### c_012
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Tony Gonzales
+- **Predicate:** background
+- **Object:** third term congressman, 20-year Navy veteran, father of six (biographical)
+- **Sources:** src_001
 
 > Gonzales, now in his third term, served 20 years in the Navy and is a father of six.
 
@@ -236,7 +260,3 @@ Before the affair became public, Gonzales had said he would not resign and told 
 **Access date:** 2026-03-06
 **Title:** Texas Rep. Tony Gonzales ends reelection bid over scandal
 **URL:** https://apnews.com/article/house-gonzales-affair-reelection-ethics-aide-leadership-5379bb257c2a3d041cb8dbb8ead307a6
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

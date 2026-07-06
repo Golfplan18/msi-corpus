@@ -15,43 +15,40 @@ primary_themes:
 - labor market weakness
 - corporate cost-cutting
 topic_tags:
-  - "artificial intelligence"
-  - "economy, business and finance"
-  - employment
-  - health
-  - labour
-  - "science and technology"
+- employment
+- economy
+- artificial intelligence
+- computing and information technology
+- labour market
 storyline_nexus:
-  - immigration-enforcement
+- us-economic-volatility
 geographic_location: United States
 floor_values_engaged:
-- value: human_life_and_dignity
-  intensity: 0.8
 - value: informed_citizenship
-  intensity: 0.7
+  intensity: 0.6
 - value: accountability_of_power
   intensity: 0.6
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:56:14Z'
 source_cluster_id: cluster_ap_2026-01-29_amazon-layoffs-job-cuts-tech-74387fae231
 gdelt_event_ids: []
-consensus_floor_version: '1.0'
-publication_mindspec_version: '1.0'
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 17
   hedges:
     appears: 0
-    alleged: 0
+    contested: 0
     attributed: 2
     reported: 15
-    contested: 0
+    alleged: 0
     confirmed: 0
   corroboration:
     primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 0
+    one_originating_plus_primary_document: 0
     single_source: 17
     two_independent: 0
 sources:
@@ -67,41 +64,19 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-04-16-meta-ends-kenya-contract-leaving-1-108-sama-workers-facing-layoffs
-  relation: related
-  strength: 0.7916
-  confidence: medium
-- slug: 2026-01-14-niosh-workers-reinstated-after-mass-layoffs-gutted-federal-workplace-safety-agen
-  relation: related
-  strength: 0.7747
-  confidence: medium
-- slug: 2026-01-09-u-s-adds-50-000-jobs-in-december-2025-posts-weakest-hiring-since-pandemic
-  relation: related
-  strength: 0.7702
-  confidence: medium
-- slug: 2026-01-08-weekly-jobless-claims-rise-to-208-000-as-labor-market-momentum-slows
-  relation: related
-  strength: 0.7707
-  confidence: medium
-- slug: 2026-01-07-job-openings-near-5-year-low-in-november-as-low-hire-low-fire-market-persists
-  relation: related
-  strength: 0.7518
-  confidence: medium
-- slug: 2026-01-14-samhsa-reverses-2-billion-in-mental-health-grants-after-abrupt-cuts-triggered-la
-  relation: related
-  strength: 0.6988
-  confidence: medium
-- slug: 2026-01-11-nearly-15-000-nyc-nurses-set-to-strike-monday-over-staffing-and-ai-rules
-  relation: related
-  strength: 0.7037
-  confidence: medium
-- slug: 2026-01-04-us-economy-grew-in-2025-but-hiring-lagged-as-tariffs-and-ai-curbed-job-gains
-  relation: related
-  strength: 0.7353
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Amazon cuts another 16,000 jobs
+- Amazon is cutting 16,000 corporate jobs.
+- This is Amazon's second round of mass layoffs in three months.
+- Amazon cut 14,000 workers in October 2025.
+- Beth Galetti said the company has been 'reducing layers, increasing ownership, and removing bureaucracy.'
 
 Amazon is cutting 16,000 corporate jobs in the second round of mass layoffs in three months, the company announced Wednesday. The cuts represent Amazon's biggest layoff since 2023, when it cut 27,000 workers. CEO Andy Jassy is pushing to reduce organizational layers and use artificial intelligence to replace some workers. U.S.-based employees have 90 days to find new positions internally or will receive severance pay, outplacement services and health insurance benefits.
 
@@ -135,156 +110,190 @@ Amazon shares fell $2.47, or a little more than 1%, in late afternoon trading We
 
 ## Atomic claims
 
-### c_001 — reported, single source
-**Subject entities:** Amazon
-**Predicate:** cutting
-**Object:** 16,000 (count)
-**Temporal:** 2026-01-28
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Amazon
+- **Predicate:** cutting
+- **Object:** 16,000 (count)
+- **Temporal:** 2026-01-28
+- **Sources:** src_001
 
 > Amazon is cutting 16,000 corporate jobs.
 
-### c_002 — reported, single source
-**Subject entities:** Amazon
-**Predicate:** conducting
-**Object:** second round in three months (event_sequence)
-**Temporal:** 2026-01-28
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Amazon
+- **Predicate:** conducting
+- **Object:** second round in three months (event_sequence)
+- **Temporal:** 2026-01-28
+- **Sources:** src_001
 
 > This is Amazon's second round of mass layoffs in three months.
 
-### c_003 — reported, single source
-**Subject entities:** Amazon
-**Predicate:** cut
-**Object:** 14,000 (count)
-**Temporal:** 2025-10
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Amazon
+- **Predicate:** cut
+- **Object:** 14,000 (count)
+- **Temporal:** 2025-10
+- **Sources:** src_001
 
 > Amazon cut 14,000 workers in October 2025.
 
-### c_004 — attributed, single source
-**Subject entities:** Beth Galetti; Amazon
-**Predicate:** said
-**Object:** reducing layers, increasing ownership, removing bureaucracy (statement)
-**Temporal:** 2026-01-28
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Beth Galetti; Amazon
+- **Predicate:** said
+- **Object:** reducing layers, increasing ownership, removing bureaucracy (statement)
+- **Temporal:** 2026-01-28
+- **Sources:** src_001
 
 > Beth Galetti said the company has been 'reducing layers, increasing ownership, and removing bureaucracy.'
 
-### c_005 — reported, single source
-**Subject entities:** Amazon; Amazon employees
-**Predicate:** offering
-**Object:** 90-day transition or severance (benefit)
-**Temporal:** 2026-01-28
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Amazon; Amazon employees
+- **Predicate:** offering
+- **Object:** 90-day transition or severance (benefit)
+- **Temporal:** 2026-01-28
+- **Sources:** src_001
 
 > U.S.-based Amazon staff have 90 days to find new roles internally or receive severance.
 
-### c_006 — attributed, single source
-**Subject entities:** Andy Jassy; Amazon
-**Predicate:** anticipated
-**Object:** AI-driven workforce reduction (prediction)
-**Temporal:** 2025-06
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Andy Jassy; Amazon
+- **Predicate:** anticipated
+- **Object:** AI-driven workforce reduction (prediction)
+- **Temporal:** 2025-06
+- **Sources:** src_001
 
 > Andy Jassy said in June that he anticipated generative AI would reduce Amazon's corporate workforce.
 
-### c_007 — reported, single source
-**Subject entities:** Amazon
-**Predicate:** largest_since
-**Object:** 27,000 in 2023 (historical_comparison)
-**Temporal:** 2026-01-28
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Amazon
+- **Predicate:** largest_since
+- **Object:** 27,000 in 2023 (historical_comparison)
+- **Temporal:** 2026-01-28
+- **Sources:** src_001
 
 > Amazon's largest layoff since 2023, when it cut 27,000 workers.
 
-### c_008 — reported, single source
-**Subject entities:** Amazon
-**Predicate:** earned_profit
-**Object:** $21 billion (financial)
-**Temporal:** 2026-Q4
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Amazon
+- **Predicate:** earned_profit
+- **Object:** $21 billion (financial)
+- **Temporal:** 2026-Q4
+- **Sources:** src_001
 
 > Amazon's profit jumped nearly 40% to about $21 billion in most recent quarter.
 
-### c_009 — reported, single source
-**Subject entities:** Amazon
-**Predicate:** generated_revenue
-**Object:** >$180 billion (financial)
-**Temporal:** 2026-Q4
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Amazon
+- **Predicate:** generated_revenue
+- **Object:** >$180 billion (financial)
+- **Temporal:** 2026-Q4
+- **Sources:** src_001
 
 > Amazon's revenue soared to more than $180 billion.
 
-### c_010 — reported, single source
-**Subject entities:** computer jobs; engineering jobs
-**Predicate:** susceptible_to
-**Object:** AI transformation (economic_impact)
-**Temporal:** 2026-01-28
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** computer jobs; engineering jobs
+- **Predicate:** susceptible_to
+- **Object:** AI transformation (economic_impact)
+- **Temporal:** 2026-01-28
+- **Sources:** src_001
 
 > Higher-paying jobs in computer work and engineering are among the most susceptible to transformation by generative AI.
 
-### c_011 — reported, single source
-**Subject entities:** tech workers; Brookings Institution
-**Predicate:** better_equipped
-**Object:** education and skills for adaptation (economic_capacity)
-**Temporal:** 2026-01-28
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** tech workers; Brookings Institution
+- **Predicate:** better_equipped
+- **Object:** education and skills for adaptation (economic_capacity)
+- **Temporal:** 2026-01-28
+- **Sources:** src_001
 
 > Brookings Institution research shows tech workers are more likely to have education, skills, and savings to adapt to AI.
 
-### c_012 — reported, single source
-**Subject entities:** U.S. workers
-**Predicate:** exposed_but_unequipped
-**Object:** millions (population_scale)
-**Temporal:** 2026-01-28
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** U.S. workers
+- **Predicate:** exposed_but_unequipped
+- **Object:** millions (population_scale)
+- **Temporal:** 2026-01-28
+- **Sources:** src_001
 
 > Millions of U.S. workers are heavily exposed to AI and less equipped to adapt.
 
-### c_013 — reported, single source
-**Subject entities:** admin/clerical workers
-**Predicate:** demographic
-**Object:** 86% women (percentage)
-**Temporal:** 2026-01-28
-**Source IDs:** src_001
+### c_013
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** admin/clerical workers
+- **Predicate:** demographic
+- **Object:** 86% women (percentage)
+- **Temporal:** 2026-01-28
+- **Sources:** src_001
 
 > About 86% of workers in administrative and clerical roles heavily exposed to AI are women.
 
-### c_014 — reported, single source
-**Subject entities:** United States
-**Predicate:** added_jobs
-**Object:** 50,000 (count)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_014
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** United States
+- **Predicate:** added_jobs
+- **Object:** 50,000 (count)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > The country added 50,000 jobs in December 2025.
 
-### c_015 — reported, single source
-**Subject entities:** UPS
-**Predicate:** plan_to_cut
-**Object:** 30,000 (count)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_015
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** UPS
+- **Predicate:** plan_to_cut
+- **Object:** 30,000 (count)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > UPS plans to cut up to 30,000 operational jobs through attrition and buyouts in 2026.
 
-### c_016 — reported, single source
-**Subject entities:** Pinterest
-**Predicate:** plan_to_layoff
-**Object:** <15% (percentage)
-**Temporal:** 2026-01-28
-**Source IDs:** src_001
+### c_016
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Pinterest
+- **Predicate:** plan_to_layoff
+- **Object:** <15% (percentage)
+- **Temporal:** 2026-01-28
+- **Sources:** src_001
 
 > Pinterest plans to lay off under 15% of its workforce.
 
-### c_017 — reported, single source
-**Subject entities:** Amazon
-**Predicate:** stock_declined
-**Object:** $2.47 (1.2%) (financial)
-**Temporal:** 2026-01-28
-**Source IDs:** src_001
+### c_017
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Amazon
+- **Predicate:** stock_declined
+- **Object:** $2.47 (1.2%) (financial)
+- **Temporal:** 2026-01-28
+- **Sources:** src_001
 
 > Amazon shares fell $2.47, or a little more than 1%, Wednesday.
 
@@ -293,10 +302,5 @@ Amazon shares fell $2.47, or a little more than 1%, in late afternoon trading We
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Kelvin Chan
 **Publication date:** 2026-01-28
-**Access date:** 2026-01-28
 **Title:** Amazon cuts another 16,000 jobs
 **URL:** https://apnews.com/article/amazon-layoffs-job-cuts-tech-74387fae2313ff7b0b1e638c00863443
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

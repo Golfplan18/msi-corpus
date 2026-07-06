@@ -1,6 +1,5 @@
 ---
 headline: Venezuelan diaspora cautious after Maduro's capture as calls to return go unheeded
-slug: 2026-01-11-venezuelan-diaspora-cautious-after-maduro-capture-as-calls-to-return-go-unheeded
 publish_date: '2026-01-11'
 lede: 'LIMA, Peru — Officials from Washington to Lima urged millions of Venezuelan migrants this week to return home following the ouster of former President Nicolás Maduro, but the diaspora — numbering nearly 7 million across Latin America, according to United Nations-coordinated tracking data — showed little appetite for leaving the lives they have built abroad.
 
@@ -21,47 +20,42 @@ primary_themes:
 - post-Maduro Venezuela
 - diaspora
 topic_tags:
-  - "conflict, war and peace"
-  - "government policy"
-  - "human migration"
-  - "international relations"
-  - "political dissent"
-  - "science and technology"
+- human migration
+- political dissent
+- government
+- social condition
+- society
 storyline_nexus:
-  - trump-tariff-policy
-  - venezuela-crisis
-  - us-china-relations
-geographic_location: Latin America
+- venezuela-political-military-crisis
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
   intensity: 0.9
-- value: informed_citizenship
-  intensity: 0.8
 - value: accountability_of_power
-  intensity: 0.55
-framework_version: 1.1.0
-generation_timestamp: '2026-01-11T00:00:00Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:09:25Z'
 source_cluster_id: cluster_ap_2026-01-10_venezuela-migrants-trump-maduro-chile-me
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 13
   hedges:
-    appears: 0
-    alleged: 0
     attributed: 9
-    reported: 4
     contested: 0
+    appears: 0
+    reported: 4
     confirmed: 0
+    alleged: 0
   corroboration:
-    primary_plus_secondary: 0
+    two_independent: 0
+    single_source: 13
     one_originating_plus_primary_document: 0
     primary_document: 0
-    single_source: 13
-    two_independent: 0
+    primary_plus_secondary: 0
 sources:
   count: 1
   outlets:
@@ -79,37 +73,16 @@ image:
   url: /articles/2026-01-11-venezuelan-diaspora-cautious-after-maduro-s-capture-as-calls-to-return-go-unheed.png
   alt: 'Illustration accompanying article: Venezuelan diaspora cautious after Maduro''s capture as calls to return go unheeded'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-07-us-faith-leaders-tend-to-venezuelan-diaspora-roiled-by-maduro-s-capture
-  relation: related
-  strength: 0.8651
-  confidence: medium
-- slug: 2026-01-07-venezuela-s-opposition-sidelined-as-maduro-s-party-holds-power-after-u-s-seizure
-  relation: related
-  strength: 0.7271
-  confidence: medium
-- slug: 2026-01-05-maduro-s-u-s-capture-divides-latin-america-as-trump-allies-celebrate-and-left-wa
-  relation: related
-  strength: 0.7296
-  confidence: medium
-- slug: 2026-01-04-caracas-falls-quiet-as-venezuelans-wait-to-see-what-comes-next-after-us-seizes-m
-  relation: related
-  strength: 0.735
-  confidence: medium
-- slug: 2026-01-03-venezuela-in-limbo-after-maduro-capture-as-trump-endorses-deputy-snubs-oppositio
-  relation: related
-  strength: 0.7231
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
 
-LIMA, Peru — Officials from Washington to Lima urged millions of Venezuelan migrants this week to return home following the ouster of former President Nicolás Maduro, but the diaspora — numbering nearly 7 million across Latin America, according to R4V, a United Nations-coordinated network tracking the displacement — showed little appetite for leaving the lives they have built abroad.
+## Summary
 
-Venezuela's economy remains in ruins, and with the exception of Maduro and his wife, the government that presided over mass displacement continues to govern. For most Venezuelans interviewed across the region, political upheaval alone has not cleared a path home.
+**Subtype:** fact
 
-"You've got to keep an eye on it, know what's going on, but not lose hope," said Yanelis Torres, a 22-year-old graphic designer in Lima, who spent the days after Maduro's capture filling orders for T-shirts featuring his image overlaid with phrases like "Game Over." She has lived in Peru for four years. "I have a lot of things here," she said.
-
-The diaspora's reluctance sets up a consequential test for Latin American host countries, several of which are shifting rightward politically and signaling tougher immigration enforcement — leaving millions of Venezuelans in precarious legal limbo at a moment when conditions at home fall far short of what most would consider safe for return.
+- Millions of Venezuelans scattered across Latin America cautiously watch what comes next
+- Millions of Venezuelans scattered across Latin America cautiously watch what comes next
 
 ## The scale of displacement
 
@@ -163,120 +136,146 @@ Back in Lima, Torres, the graphic designer, said she was measuring her expectati
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Venezuelan diaspora; Latin America
-**Predicate:** number_of
-**Object:** nearly 7 million (count)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Venezuelan diaspora; Latin America
+- **Predicate:** number_of
+- **Object:** nearly 7 million (count)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > There are nearly 7 million Venezuelan migrants and refugees in Latin America, according to R4V, a network tracking the diaspora coordinated by UNHCR and IOM.
 
-### c_002 — attributed, single source
-**Subject entities:** Colombia; Venezuelan migrants
-**Predicate:** hosts
-**Object:** 2.8 million (count)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Colombia; Venezuelan migrants
+- **Predicate:** hosts
+- **Object:** 2.8 million (count)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > Colombia hosts 2.8 million Venezuelan migrants, the largest concentration in Latin America.
 
-### c_003 — attributed, single source
-**Subject entities:** Peru; Venezuelan migrants
-**Predicate:** hosts
-**Object:** 1.5 million (count)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Peru; Venezuelan migrants
+- **Predicate:** hosts
+- **Object:** 1.5 million (count)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > Peru hosts 1.5 million Venezuelan migrants.
 
-### c_004 — attributed, single source
-**Subject entities:** United States; Venezuelan migrants
-**Predicate:** hosts
-**Object:** approximately 1 million (count)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** United States; Venezuelan migrants
+- **Predicate:** hosts
+- **Object:** approximately 1 million (count)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > An estimated 1 million Venezuelans are in the United States, according to R4V data.
 
-### c_005 — reported, single source
-**Subject entities:** Venezuela
-**Predicate:** poverty_rate
-**Object:** 8 in 10 (proportion)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Venezuela
+- **Predicate:** poverty_rate
+- **Object:** 8 in 10 (proportion)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > An estimated 8 in 10 people in Venezuela live in poverty.
 
-### c_006 — attributed, single source
-**Subject entities:** Donald Trump; Delcy Rodríguez
-**Predicate:** stated
-**Object:** cooperation with Rodríguez rather than opposition (policy_statement)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Delcy Rodríguez
+- **Predicate:** stated
+- **Object:** cooperation with Rodríguez rather than opposition (policy_statement)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > U.S. President Donald Trump said he would work with Maduro's vice president Delcy Rodríguez, now serving as interim president, rather than with the Venezuelan opposition.
 
-### c_007 — attributed, single source
-**Subject entities:** José Antonio Kast; Chile
-**Predicate:** stated
-**Object:** 63-day departure deadline for undocumented immigrants (policy_statement)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** José Antonio Kast; Chile
+- **Predicate:** stated
+- **Object:** 63-day departure deadline for undocumented immigrants (policy_statement)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > Chile's President-elect José Antonio Kast told undocumented migrants that they have 63 days to leave Chile.
 
-### c_008 — reported, single source
-**Subject entities:** José Antonio Kast; José Jerí
-**Predicate:** met_discussed
-**Object:** humanitarian corridor proposal (policy_proposal)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** José Antonio Kast; José Jerí
+- **Predicate:** met_discussed
+- **Object:** humanitarian corridor proposal (policy_proposal)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > Kast met with Peru's interim President José Jerí to discuss a humanitarian corridor through Chile, Peru and Ecuador to facilitate Venezuelan returns.
 
-### c_009 — attributed, single source
-**Subject entities:** Maureen Meyer; WOLA
-**Predicate:** stated
-**Object:** conditions insufficient for safe return (expert_assessment)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Maureen Meyer; WOLA
+- **Predicate:** stated
+- **Object:** conditions insufficient for safe return (expert_assessment)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > Maureen Meyer, vice president for programs at WOLA, said conditions in Venezuela are not yet such that displaced Venezuelans would feel comfortable returning.
 
-### c_010 — attributed, single source
-**Subject entities:** Yohanisleska de Nazareth Márquez
-**Predicate:** deported
-**Object:** deported to Mexico Jan. 1 (event)
-**Temporal:** 2026-01-01
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Yohanisleska de Nazareth Márquez
+- **Predicate:** deported
+- **Object:** deported to Mexico Jan. 1 (event)
+- **Temporal:** 2026-01-01
+- **Sources:** src_001
 
 > Yohanisleska de Nazareth Márquez, a 22-year-old Venezuelan, was deported by U.S. immigration agents from Pennsylvania to Mexico on January 1 with her 3-year-old son.
 
-### c_011 — reported, single source
-**Subject entities:** José Antonio Kast; Chile
-**Predicate:** campaigned_on
-**Object:** mass deportation of undocumented immigrants (policy_platform)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** José Antonio Kast; Chile
+- **Predicate:** campaigned_on
+- **Object:** mass deportation of undocumented immigrants (policy_platform)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > Kast, who will take office in March, made deporting hundreds of thousands of undocumented immigrants central to his campaign.
 
-### c_012 — attributed, single source
-**Subject entities:** Maureen Meyer; Venezuelan migrants
-**Predicate:** warned
-**Object:** increased organized-crime vulnerability for deportees (risk_assessment)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Maureen Meyer; Venezuelan migrants
+- **Predicate:** warned
+- **Object:** increased organized-crime vulnerability for deportees (risk_assessment)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > Meyer said Venezuelans forced to leave host countries would face heightened vulnerability to organized crime groups now that migrant-smuggling northward has declined.
 
-### c_013 — reported, single source
-**Subject entities:** Venezuela; Venezuelan government
-**Predicate:** status
-**Object:** government remains in place except for Maduro and wife (political_status)
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_013
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Venezuela; Venezuelan government
+- **Predicate:** status
+- **Object:** government remains in place except for Maduro and wife (political_status)
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > With the exception of Maduro and his wife, the Venezuelan government remains in place.
 
@@ -285,10 +284,5 @@ Back in Lima, Torres, the graphic designer, said she was measuring her expectati
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Franklin Briceño
 **Publication date:** 2026-01-11
-**Access date:** 2026-01-11
 **Title:** Venezuelans across Latin America watch what comes next
 **URL:** https://apnews.com/article/venezuela-migrants-trump-maduro-chile-mexico-colombia-a13345cf133c783b523a30fcc4e174b5
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

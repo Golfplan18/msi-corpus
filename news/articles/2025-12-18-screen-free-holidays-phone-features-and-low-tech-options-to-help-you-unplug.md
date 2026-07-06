@@ -17,37 +17,39 @@ primary_themes:
 - smartphone habits
 - mental health
 topic_tags:
-  - health
-storyline_nexus: []
+- lifestyle and leisure
+- computing and information technology
+- mental health
+- human interest
+storyline_nexus:
+- ai-industry-regulation
 geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.6
 - value: human_life_and_dignity
-  intensity: 0.4
-framework_version: 1.1.0
-generation_timestamp: '2026-05-16T00:00:00Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-22T23:57:08Z'
 source_cluster_id: cluster_ap_2026-01-03_smartphone-unplugging-technology-christm
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 11
   hedges:
-    appears: 0
-    alleged: 0
     attributed: 9
+    confirmed: 0
     reported: 2
     contested: 0
-    confirmed: 0
+    alleged: 0
+    appears: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 0
-    single_source: 11
     two_independent: 0
+    one_originating_plus_primary_document: 0
+    single_source: 11
+    primary_document: 0
+    primary_plus_secondary: 0
 sources:
   count: 1
   outlets:
@@ -69,13 +71,14 @@ cross_article_links: []
 draft: false
 ---
 
-Smartphone users looking to step away from their screens over the Christmas holiday season have several options available — from built-in phone settings and outdoor activities to physical device lockboxes — according to a technology guide published Dec. 18 by the Associated Press. The tips, compiled by AP technology reporter Kelvin Chan, cover both existing smartphone features and behavioral strategies backed by research on screen time and mental health.
+## Summary
+**Subtype:** fact
 
-Time spent looking at phones during holiday gatherings has prompted a small market of apps and devices designed to interrupt the habit. Chan's guide draws on tools already built into most smartphones alongside third-party products, ranging from a free outdoor-activity app to $30 physical lockboxes and stripped-down "brick" phones.
-
-Most smartphones already carry tools designed to reduce their own pull on users' attention — a fact that sits at the center of a guide published Thursday by the Associated Press on stepping away from devices over the Christmas holiday season.
-
-AP technology reporter Kelvin Chan outlined a range of options, from phone settings and app-blocking software to physical lockboxes and stripped-down handsets, in a piece aimed at users looking to spend less time on screens during family gatherings.
+- - ## Summary
+- Subtype: fact
+- - Article describes significant development with named actors and concrete outcomes.
+- Smartphone users looking to s...
+- Both iPhones and Android devices include a Focus mode that can silence notifications and block specific apps on demand, Chan reported. Related scre...
 
 ## What's already on your phone
 
@@ -107,99 +110,121 @@ For a more lasting change, Chan suggested considering a feature phone — someti
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** iPhone; Android
-**Predicate:** includes
-**Object:** Focus mode (feature)
-**Temporal:** 2025-12-18
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** iPhone; Android
+- **Predicate:** includes
+- **Object:** Focus mode (feature)
+- **Temporal:** 2025-12-18
+- **Sources:** src_001
 
 > Both iPhones and Android devices include a Focus mode that silences notifications and can block specific apps or mute interruptions during set activities.
 
-### c_002 — attributed, single source
-**Subject entities:** Android; iOS
-**Predicate:** includes
-**Object:** screen-time controls (feature)
-**Temporal:** 2025-12-18
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Android; iOS
+- **Predicate:** includes
+- **Object:** screen-time controls (feature)
+- **Temporal:** 2025-12-18
+- **Sources:** src_001
 
 > Android and iOS include screen-time controls that allow users to cap daily usage of individual apps.
 
-### c_003 — reported, single source
-**Subject entities:** smartphone
-**Predicate:** reduces appeal via
-**Object:** grayscale display (technique)
-**Temporal:** 2025-12-18
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** smartphone
+- **Predicate:** reduces appeal via
+- **Object:** grayscale display (technique)
+- **Temporal:** 2025-12-18
+- **Sources:** src_001
 
 > Switching a smartphone display to grayscale can make the screen less visually appealing, reducing the pull to check it.
 
-### c_004 — attributed, single source
-**Predicate:** benefits
-**Object:** mental health and physical well-being (outcome)
-**Temporal:** 2025-12-18
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Predicate:** benefits
+- **Object:** mental health and physical well-being (outcome)
+- **Temporal:** 2025-12-18
+- **Sources:** src_001
 
 > Time spent outdoors, away from screens, can benefit mental health and physical well-being, according to the AP guide.
 
-### c_005 — attributed, single source
-**Subject entities:** Touch Grass
-**Predicate:** requires
-**Object:** outdoor photo of user touching grass/snow/sand (condition)
-**Temporal:** 2025-12-18
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Touch Grass
+- **Predicate:** requires
+- **Object:** outdoor photo of user touching grass/snow/sand (condition)
+- **Temporal:** 2025-12-18
+- **Sources:** src_001
 
 > An app called Touch Grass blocks selected applications until the user goes outside and photographs themselves touching grass, snow, or sand.
 
-### c_006 — attributed, single source
-**Subject entities:** Touch Grass
-**Predicate:** costs
-**Object:** $6/month or $50/year for subscription; free tier blocks 2 apps (price)
-**Temporal:** 2025-12-18
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Touch Grass
+- **Predicate:** costs
+- **Object:** $6/month or $50/year for subscription; free tier blocks 2 apps (price)
+- **Temporal:** 2025-12-18
+- **Sources:** src_001
 
 > Touch Grass's free tier allows users to block two apps; a subscription costs $6 a month or $50 annually.
 
-### c_007 — attributed, single source
-**Subject entities:** Touch Grass
-**Predicate:** available on
-**Object:** iPhone only; copycat versions on iOS and Android untested (platform)
-**Temporal:** 2025-12-18
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Touch Grass
+- **Predicate:** available on
+- **Object:** iPhone only; copycat versions on iOS and Android untested (platform)
+- **Temporal:** 2025-12-18
+- **Sources:** src_001
 
 > As of the article's publication date, Touch Grass was available only for iPhones, though copycat versions existed for both iOS and Android.
 
-### c_008 — reported, single source
-**Predicate:** benefits
-**Object:** learning and retention via handwriting (outcome)
-**Temporal:** 2025-12-18
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Predicate:** benefits
+- **Object:** learning and retention via handwriting (outcome)
+- **Temporal:** 2025-12-18
+- **Sources:** src_001
 
 > Research suggests handwriting carries neurological and cognitive benefits, and taking notes by hand is a more effective learning and retention method for students than typing.
 
-### c_009 — attributed, single source
-**Predicate:** locks device for
-**Object:** up to 30 days; cost approximately $30 (product)
-**Temporal:** 2025-12-18
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Predicate:** locks device for
+- **Object:** up to 30 days; cost approximately $30 (product)
+- **Temporal:** 2025-12-18
+- **Sources:** src_001
 
 > Time-lock containers can physically hold smartphones out of reach for periods ranging from minutes to 30 days; one battery-powered model cost about $30.
 
-### c_010 — attributed, single source
-**Subject entities:** Nokia
-**Predicate:** offers
-**Object:** feature phones with numeric keypads and no touch screen (product)
-**Temporal:** 2025-12-18
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Nokia
+- **Predicate:** offers
+- **Object:** feature phones with numeric keypads and no touch screen (product)
+- **Temporal:** 2025-12-18
+- **Sources:** src_001
 
 > Feature phones from Nokia offer numeric keypads, no touch screen, and classic games such as Snake, and can make voice calls and send text messages.
 
-### c_011 — attributed, single source
-**Subject entities:** Light; Punkt; Balance
-**Predicate:** produces
-**Object:** digital minimalist phones (product)
-**Temporal:** 2025-12-18
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Light; Punkt; Balance
+- **Predicate:** produces
+- **Object:** digital minimalist phones (product)
+- **Temporal:** 2025-12-18
+- **Sources:** src_001
 
 > Companies including Light, Punkt, and Balance produce digital minimalist phones with modern designs but stripped-down functionality.
 
@@ -208,10 +233,5 @@ For a more lasting change, Chan suggested considering a feature phone — someti
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Kelvin Chan
 **Publication date:** 2025-12-18
-**Access date:** 2025-12-18
 **Title:** One Tech Tip: Unplugging from digital devices at holiday gatherings
 **URL:** https://apnews.com/article/smartphone-unplugging-technology-christmas-offline-bbda298c8094561d8de4ea326cbedb4b
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

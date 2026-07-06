@@ -18,41 +18,41 @@ primary_themes:
 - climate adaptation
 - home improvement
 topic_tags:
-  - "climate change"
-  - education
-  - environment
-  - "higher education"
-  - weather
-storyline_nexus: []
+- energy and resource
+- environment
+- sustainability
+- lifestyle
+storyline_nexus:
+- housing-affordability-crisis
 geographic_location: United States
 floor_values_engaged:
+- value: truthfulness
+  intensity: 0.6
 - value: informed_citizenship
-  intensity: 0.7
-- value: human_life_and_dignity
-  intensity: 0.3
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:43:30Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:40:54Z'
 source_cluster_id: cluster_ap_2026-03-09_air-conditioning-energy-hot-weather-clim
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 11
   hedges:
-    appears: 0
-    alleged: 0
     attributed: 11
-    reported: 0
-    contested: 0
+    alleged: 0
     confirmed: 0
+    contested: 0
+    reported: 0
+    appears: 0
   corroboration:
     primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 1
-    single_source: 10
     two_independent: 0
+    one_originating_plus_primary_document: 0
+    single_source: 10
+    primary_document: 1
 sources:
   count: 1
   outlets:
@@ -70,17 +70,17 @@ image:
   url: /articles/2025-08-26-raise-your-thermostat-when-you-leave-rather-than-shutting-off-the-ac-experts-say.png
   alt: 'Illustration accompanying article: Raise your thermostat when you leave rather than shutting off the AC, experts'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-05-west-virginia-electricity-rates-rose-34-in-five-years-pushing-residents-to-despe
-  relation: related
-  strength: 0.685
-  confidence: medium
-- slug: 2026-01-11-severe-cold-strands-thousands-of-tourists-at-kittil-airport-as-europe-deep-freez
-  relation: related
-  strength: 0.6579
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- Setting a home thermostat a few degrees higher while away — rather than shutting the air conditioner off entirely or leaving it running at the usual temperature — is the best balance of energy savi...
+- Air conditioning in U.S. residential and commercial buildings accounts for 4 to 7 percent of the nation's total energy consumption, according to a ...
+- Three engineering and urban planning experts told the Associated Press that setting a home thermostat a few degrees higher while away — rather than...
+- The U.S. Department of Energy states that adjusting a thermostat by 7 to 10 degrees Fahrenheit (4 to 6 degrees Celsius) for eight hours a day can s...
 
 Setting a home thermostat a few degrees higher while away — rather than shutting the air conditioner off entirely or leaving it running at the usual temperature — is the best balance of energy savings, comfort, and humidity control for most U.S. households, three experts told the Associated Press. The recommendation applies broadly but varies by climate, building type, and the length of absence.
 
@@ -122,102 +122,124 @@ Henze pointed to what he called "time-honored strategies" such as opening window
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Elizabeth Hewitt; Patrick Phelan; Gregor Henze
-**Predicate:** agreed
-**Object:** raise thermostat when away (recommendation)
-**Temporal:** 2025-08-26
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Elizabeth Hewitt; Patrick Phelan; Gregor Henze
+- **Predicate:** agreed
+- **Object:** raise thermostat when away (recommendation)
+- **Temporal:** 2025-08-26
+- **Sources:** src_001
 
 > Three experts agreed that setting the thermostat a few degrees higher when away is generally the best way to balance energy efficiency against comfort and humidity.
 
-### c_002 — attributed, primary document
-**Subject entities:** U.S. Department of Energy
-**Predicate:** states
-**Object:** up to 10% annual savings (statistic)
-**Temporal:** 2025-08-26
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Department of Energy
+- **Predicate:** states
+- **Object:** up to 10% annual savings (statistic)
+- **Temporal:** 2025-08-26
+- **Sources:** src_001
 
 > The U.S. Department of Energy states that adjusting a thermostat 7 to 10 degrees Fahrenheit for eight hours a day can save up to 10 percent a year on heating and cooling.
 
-### c_003 — attributed, single source
-**Subject entities:** Patrick Phelan
-**Predicate:** said
-**Object:** 3% savings per 1°F (statistic)
-**Temporal:** 2025-08-26
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Patrick Phelan
+- **Predicate:** said
+- **Object:** 3% savings per 1°F (statistic)
+- **Temporal:** 2025-08-26
+- **Sources:** src_001
 
 > Each 1-degree Fahrenheit increase in thermostat setting yields about 3 percent savings in cooling costs, said Patrick Phelan.
 
-### c_004 — attributed, single source
-**Subject entities:** Elizabeth Hewitt
-**Predicate:** said
-**Object:** no gain for short trips (finding)
-**Temporal:** 2025-08-26
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Elizabeth Hewitt
+- **Predicate:** said
+- **Object:** no gain for short trips (finding)
+- **Temporal:** 2025-08-26
+- **Sources:** src_001
 
 > Turning off AC for a 15-minute trip yields no energy gain, according to Elizabeth Hewitt.
 
-### c_005 — attributed, single source
-**Subject entities:** Elizabeth Hewitt
-**Predicate:** said
-**Object:** savings for 8-hour absence (finding)
-**Temporal:** 2025-08-26
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Elizabeth Hewitt
+- **Predicate:** said
+- **Object:** savings for 8-hour absence (finding)
+- **Temporal:** 2025-08-26
+- **Sources:** src_001
 
 > Turning AC off for an eight-hour workday will almost always save more energy and money, according to Hewitt.
 
-### c_006 — attributed, single source
-**Subject entities:** Elizabeth Hewitt
-**Predicate:** said
-**Object:** mold risk in humid climates (risk)
-**Temporal:** 2025-08-26
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Elizabeth Hewitt
+- **Predicate:** said
+- **Object:** mold risk in humid climates (risk)
+- **Temporal:** 2025-08-26
+- **Sources:** src_001
 
 > In humid climates, turning AC off for long periods can increase mold risk because AC systems help control indoor moisture levels.
 
-### c_007 — attributed, single source
-**Subject entities:** Patrick Phelan
-**Predicate:** said
-**Object:** 15-30 min warm-up; wear from cycling (finding)
-**Temporal:** 2025-08-26
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Patrick Phelan
+- **Predicate:** said
+- **Object:** 15-30 min warm-up; wear from cycling (finding)
+- **Temporal:** 2025-08-26
+- **Sources:** src_001
 
 > AC systems can take 15 to 30 minutes after being turned on to reach peak efficiency, and repeated on-off cycling can cause wear leading to more frequent repairs, according to Phelan.
 
-### c_008 — attributed, single source
-**Subject entities:** Patrick Phelan
-**Predicate:** co_authored
-**Object:** 4-7% of U.S. total energy (statistic)
-**Temporal:** 2025-08-26
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Patrick Phelan
+- **Predicate:** co_authored
+- **Object:** 4-7% of U.S. total energy (statistic)
+- **Temporal:** 2025-08-26
+- **Sources:** src_001
 
 > Air conditioning for residential and commercial buildings in the U.S. consumes about 4 to 7 percent of the nation's total energy, per a study Phelan co-authored.
 
-### c_009 — attributed, single source
-**Subject entities:** Patrick Phelan
-**Predicate:** said
-**Object:** ~10% savings with smart thermostat (statistic)
-**Temporal:** 2025-08-26
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Patrick Phelan
+- **Predicate:** said
+- **Object:** ~10% savings with smart thermostat (statistic)
+- **Temporal:** 2025-08-26
+- **Sources:** src_001
 
 > Switching from a manual thermostat to a smart thermostat can save about 10 percent on energy costs, according to Phelan.
 
-### c_010 — attributed, single source
-**Subject entities:** Gregor Henze
-**Predicate:** said
-**Object:** heavy materials retain cool air longer (finding)
-**Temporal:** 2025-08-26
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Gregor Henze
+- **Predicate:** said
+- **Object:** heavy materials retain cool air longer (finding)
+- **Temporal:** 2025-08-26
+- **Sources:** src_001
 
 > Homes built with heavy materials such as concrete or brick hold cool air longer than older, draftier houses, according to Henze.
 
-### c_011 — attributed, single source
-**Subject entities:** Elizabeth Hewitt
-**Predicate:** said
-**Object:** blinds reduce indoor temp by several degrees (finding)
-**Temporal:** 2025-08-26
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Elizabeth Hewitt
+- **Predicate:** said
+- **Object:** blinds reduce indoor temp by several degrees (finding)
+- **Temporal:** 2025-08-26
+- **Sources:** src_001
 
 > Closing blinds can reduce indoor temperature by several degrees, according to Hewitt.
 
@@ -226,10 +248,5 @@ Henze pointed to what he called "time-honored strategies" such as opening window
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Kiki Sideris
 **Publication date:** 2025-08-26
-**Access date:** 2025-08-26
 **Title:** Experts say air conditioning strategy can save money when it's hot out
 **URL:** https://apnews.com/article/air-conditioning-energy-hot-weather-climate-a13140a58cce61806e086db9e68ef084
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

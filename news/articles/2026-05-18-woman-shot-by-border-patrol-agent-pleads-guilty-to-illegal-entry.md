@@ -21,7 +21,7 @@ topic_tags:
   - prosecution
   - trial
 storyline_nexus:
-  - immigration-enforcement
+- us-immigration-enforcement
 geographic_location: Portland, Oregon
 floor_values_engaged:
 - value: accountability_of_power
@@ -124,126 +124,150 @@ Zambrano-Contreras was previously arrested for prostitution, Day said, and Nino-
 
 The Portland shooting followed a fatal federal shooting in Minneapolis the previous day, where a Border Patrol agent shot and killed a driver during an immigration enforcement operation. Both incidents occurred during a period of heightened federal immigration enforcement operations.
 
-This article was generated algorithmically from the Associated Press wire story by Main Street Independent's News Article Generator framework. The framework specification and editorial methodology are published at /methodology. No human review was triggered for this article.
-
 This work is released under CC0 — a public-domain dedication. You are free to use, modify, and share it for any purpose.
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Yorlenys Zambrano-Contreras
-**Predicate:** pleaded_guilty
-**Object:** illegal entry (criminal_charge)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Yorlenys Zambrano-Contreras
+- **Predicate:** pleaded_guilty
+- **Object:** illegal entry (criminal_charge)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > Yorlenys Zambrano-Contreras pleaded guilty to illegally entering the United States.
 
-### c_002 — confirmed, primary document
-**Subject entities:** Yorlenys Zambrano-Contreras
-**Predicate:** sentenced
-**Object:** one year probation, no incarceration (sentence)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Yorlenys Zambrano-Contreras
+- **Predicate:** sentenced
+- **Object:** one year probation, no incarceration (sentence)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > Zambrano-Contreras was sentenced to one year of probation with no prison time.
 
-### c_003 — confirmed, primary document
-**Subject entities:** Yorlenys Zambrano-Contreras; Luis Nino-Moncada
-**Predicate:** shooting_incident
-**Object:** gunfire wound to truck occupants (violent_incident)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Yorlenys Zambrano-Contreras; Luis Nino-Moncada
+- **Predicate:** shooting_incident
+- **Object:** gunfire wound to truck occupants (violent_incident)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > A shooting incident occurred in a medical complex parking lot in Portland on January 8, 2026.
 
-### c_004 — attributed, primary document
-**Subject entities:** Luis Nino-Moncada; Border Patrol agent
-**Predicate:** agent_gunfire_justification
-**Object:** vehicle ramming and self-defense (incident_narrative)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Luis Nino-Moncada; Border Patrol agent
+- **Predicate:** agent_gunfire_justification
+- **Object:** vehicle ramming and self-defense (incident_narrative)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > According to court filings, a Border Patrol agent fired after Nino-Moncada repeatedly reversed the truck into a Border Patrol rental car and struck the agent.
 
-### c_005 — attributed, primary document
-**Subject entities:** FBI
-**Predicate:** absence_of_video_evidence
-**Object:** no surveillance or video evidence located (investigation_finding)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** FBI
+- **Predicate:** absence_of_video_evidence
+- **Object:** no surveillance or video evidence located (investigation_finding)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > The FBI said in a court filing that it had found no surveillance or other video of the shooting.
 
-### c_006 — confirmed, primary document
-**Subject entities:** Luis Nino-Moncada
-**Predicate:** indicted
-**Object:** aggravated assault on federal employee; property damage (criminal_charges)
-**Temporal:** 2026-01-08
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Luis Nino-Moncada
+- **Predicate:** indicted
+- **Object:** aggravated assault on federal employee; property damage (criminal_charges)
+- **Temporal:** 2026-01-08
+- **Sources:** src_001
 
 > Luis Nino-Moncada was indicted on charges of aggravated assault on a federal employee and damaging federal property.
 
-### c_007 — confirmed, primary document
-**Subject entities:** Luis Nino-Moncada
-**Predicate:** plea_and_trial_status
-**Object:** not guilty plea; in custody; trial March 2026 (legal_status)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Luis Nino-Moncada
+- **Predicate:** plea_and_trial_status
+- **Object:** not guilty plea; in custody; trial March 2026 (legal_status)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > Nino-Moncada pleaded not guilty and remains in custody with a jury trial scheduled for March 2026.
 
-### c_008 — attributed, primary document
-**Subject entities:** Yorlenys Zambrano-Contreras; Luis Nino-Moncada
-**Predicate:** illegal_entry
-**Object:** unauthorized entry into US (immigration_violation)
-**Temporal:** 2023 and 2022
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Yorlenys Zambrano-Contreras; Luis Nino-Moncada
+- **Predicate:** illegal_entry
+- **Object:** unauthorized entry into US (immigration_violation)
+- **Temporal:** 2023 and 2022
+- **Sources:** src_001
 
 > The Department of Homeland Security said both Zambrano-Contreras and Nino-Moncada entered the United States illegally in 2023 and 2022 respectively.
 
-### c_009 — attributed, single source
-**Subject entities:** Yorlenys Zambrano-Contreras; Luis Nino-Moncada
-**Predicate:** gang_affiliation
-**Object:** Tren de Aragua (criminal_organization)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Yorlenys Zambrano-Contreras; Luis Nino-Moncada
+- **Predicate:** gang_affiliation
+- **Object:** Tren de Aragua (criminal_organization)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > The Department of Homeland Security said both were affiliated with the Venezuelan gang Tren de Aragua.
 
-### c_010 — attributed, primary document
-**Subject entities:** Bob Day
-**Predicate:** confirmed_gang_nexus
-**Object:** nexus to gang (official_confirmation)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Bob Day
+- **Predicate:** confirmed_gang_nexus
+- **Object:** nexus to gang (official_confirmation)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > Portland Police Chief Bob Day confirmed the pair had a nexus to the gang.
 
-### c_011 — attributed, primary document
-**Subject entities:** Yorlenys Zambrano-Contreras; Luis Nino-Moncada
-**Predicate:** investigation_contact_status
-**Object:** police contact; not suspects (investigation_status)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Yorlenys Zambrano-Contreras; Luis Nino-Moncada
+- **Predicate:** investigation_contact_status
+- **Object:** police contact; not suspects (investigation_status)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > The pair came to police attention during an investigation of a July shooting believed to have been carried out by gang members, but neither was identified as a suspect.
 
-### c_012 — attributed, primary document
-**Subject entities:** Yorlenys Zambrano-Contreras
-**Predicate:** prior_arrest
-**Object:** prostitution arrest (criminal_history)
-**Temporal:** before 2026-01-23
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Yorlenys Zambrano-Contreras
+- **Predicate:** prior_arrest
+- **Object:** prostitution arrest (criminal_history)
+- **Temporal:** before 2026-01-23
+- **Sources:** src_001
 
 > Zambrano-Contreras was previously arrested for prostitution.
 
-### c_013 — confirmed, primary document
-**Subject entities:** Stacie Beckerman; Yorlenys Zambrano-Contreras
-**Predicate:** judicial_order
-**Object:** location restriction on prostitution areas (court_order)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_013
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Stacie Beckerman; Yorlenys Zambrano-Contreras
+- **Predicate:** judicial_order
+- **Object:** location restriction on prostitution areas (court_order)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > U.S. Magistrate Judge Stacie Beckerman ordered Zambrano-Contreras not to be in areas where prostitution is occurring.
 
@@ -254,7 +278,3 @@ This work is released under CC0 — a public-domain dedication. You are free to 
 **Access date:** 2026-05-18
 **Title:** Woman shot by Border Patrol agent in Oregon pleads guilty to illegal entry
 **URL:** https://apnews.com/article/portland-oregon-immigration-shooting-border-patrol-6a8361005d473e4ed2a799fe4017cb7e
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

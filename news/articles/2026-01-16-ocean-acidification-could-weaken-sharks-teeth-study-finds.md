@@ -1,6 +1,5 @@
 ---
 headline: Ocean acidification could weaken sharks' teeth, study finds
-slug: 2026-01-16-ocean-acidification-could-weaken-sharks-teeth-study-finds
 publish_date: '2026-01-16'
 lede: German scientists who exposed blacktip reef shark teeth to increasingly acidic water found the teeth developed cracks, holes, root corrosion and structural degradation — raising the possibility that ocean acidification driven by fossil fuel emissions could weaken sharks' grip on their position at the top of the marine food chain. The researchers collected more than 600 discarded teeth from aquarium-held sharks and tested them against both today's ocean acidity and the acidity projected for 2300. Their findings were published in the journal Frontiers in Marine Science.
 nut_graf: The study adds ocean acidification to a list of mounting pressures on sharks — more than a third of whose species are already considered threatened with extinction — though outside scientists noted that overfishing remains the more immediate danger and that sharks' evolutionary resilience may provide some buffer.
@@ -22,38 +21,42 @@ primary_themes:
 - shark conservation
 - biodiversity
 topic_tags:
-  - environment
-  - "climate change"
-storyline_nexus: []
-geographic_location: Pacific and Indian Oceans / global
+- climate change
+- environment
+- conservation
+- natural science
+- scientific research
+storyline_nexus:
+- extreme-weather-disasters
+geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship
-  intensity: 0.8
-- value: human_life_and_dignity
-  intensity: 0.5
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:03:02Z'
+  intensity: 0.9
+- value: truthfulness
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:15:46Z'
 source_cluster_id: cluster_ap_2026-01-18_sharks-teeth-ocean-acidification-climate
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 14
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 8
-    reported: 1
     contested: 0
+    reported: 1
+    alleged: 0
+    appears: 0
     confirmed: 5
+    attributed: 8
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 0
-    single_source: 14
     two_independent: 0
+    one_originating_plus_primary_document: 0
+    single_source: 14
+    primary_document: 0
+    primary_plus_secondary: 0
 sources:
   count: 1
   outlets:
@@ -67,33 +70,16 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-05-north-atlantic-right-whales-record-15-calves-this-winter-but-extinction-threat-p
-  relation: related
-  strength: 0.7297
-  confidence: medium
-- slug: 2025-12-29-2025-ranks-among-the-three-hottest-years-on-record-researchers-say
-  relation: related
-  strength: 0.7
-  confidence: medium
-- slug: 2026-01-08-trump-pulls-u-s-from-un-climate-framework-experts-warn-of-global-damage
-  relation: related
-  strength: 0.641
-  confidence: medium
-- slug: 2025-12-30-zeldin-s-epa-cuts-enforcement-and-staff-as-fossil-fuel-friendly-pivot-takes-hold
-  relation: related
-  strength: 0.662
-  confidence: medium
-- slug: 2026-01-03-kenya-mourns-craig-one-of-africa-s-last-super-tusker-elephants-dead-at-54
-  relation: related
-  strength: 0.6352
-  confidence: medium
-- slug: 2025-12-30-trump-s-epa-cuts-pollution-rules-and-staff-in-fossil-fuel-pivot
-  relation: related
-  strength: 0.6451
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- German scientists who exposed blacktip reef shark teeth to increasingly acidic water found the teeth developed cracks, holes, root corrosion and structural degradation — raising the possibility that ocean acidification driven by fossil fuel emissions could weaken sharks' grip on their position at the top of the marine food chain.
+- The study adds ocean acidification to a list of mounting pressures on sharks — more than a third of whose species are already considered threatened with extinction — though outside scientists noted that overfishing remains the more immediate danger and that sharks' evolutionary resilience may provide some buffer.
+- German scientists who exposed blacktip reef shark teeth to increasingly acidic water found the teeth developed cracks, holes, root corrosion and structural degradation — raising the possibility that ocean acidification driven by fossil fuel emissions could weaken sharks' grip on their position at the top of the marine food chain. The researchers collected more than 600 discarded teeth from aquarium-held sharks and tested them against both today's ocean acidity and the acidity projected for 2300. Their findings were published in the journal Frontiers in Marine Science..
 
 German scientists who exposed blacktip reef shark teeth to increasingly acidic water found the teeth developed cracks, holes, root corrosion and structural degradation — raising the possibility that ocean acidification driven by fossil fuel emissions could weaken sharks' grip on their position at the top of the marine food chain. The researchers collected more than 600 discarded teeth from aquarium-held sharks and tested them against both today's ocean acidity and the acidity projected for 2300. Their findings were published in the journal Frontiers in Marine Science.
 
@@ -127,129 +113,157 @@ Baum said the acidification threat cannot be dismissed. Some shark species could
 
 ## Atomic claims
 
-### c_001 — confirmed, single source
-**Subject entities:** Heinrich Heine University Düsseldorf; Frontiers in Marine Science
-**Predicate:** published_study_in
-**Object:** effects of ocean acidification on shark teeth (research_publication)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Heinrich Heine University Düsseldorf; Frontiers in Marine Science
+- **Predicate:** published_study_in
+- **Object:** effects of ocean acidification on shark teeth (research_publication)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > German scientists at Heinrich Heine University Düsseldorf published a study on the effects of ocean acidification on sharks' teeth in the journal Frontiers in Marine Science.
 
-### c_002 — confirmed, single source
-**Subject entities:** Maximilian Baum; Heinrich Heine University Düsseldorf
-**Predicate:** is_lead_author_at
-**Object:** marine biologist (role)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Maximilian Baum; Heinrich Heine University Düsseldorf
+- **Predicate:** is_lead_author_at
+- **Object:** marine biologist (role)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > The study's lead author is Maximilian Baum, a marine biologist at Heinrich Heine University Düsseldorf.
 
-### c_003 — confirmed, single source
-**Subject entities:** blacktip reef sharks
-**Predicate:** collected_from
-**Object:** 600+ discarded teeth (sample_count)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** blacktip reef sharks
+- **Predicate:** collected_from
+- **Object:** 600+ discarded teeth (sample_count)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > The researchers collected more than 600 discarded teeth from blacktip reef sharks held at an aquarium.
 
-### c_004 — confirmed, single source
-**Subject entities:** shark teeth; ocean acidification
-**Predicate:** caused_damage_including
-**Object:** cracks, holes, root corrosion, structural degradation (physical_damage)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** shark teeth; ocean acidification
+- **Predicate:** caused_damage_including
+- **Object:** cracks, holes, root corrosion, structural degradation (physical_damage)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > Teeth exposed to water with the projected acidity of 2300 showed cracks, holes, root corrosion and structural degradation.
 
-### c_005 — reported, single source
-**Subject entities:** ocean; ocean acidification
-**Predicate:** projected_to_become
-**Object:** almost 10 times more acidic by 2300 (projection)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** ocean; ocean acidification
+- **Predicate:** projected_to_become
+- **Object:** almost 10 times more acidic by 2300 (projection)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > The ocean is expected to become almost 10 times more acidic than it currently is by the year 2300, according to the German scientists.
 
-### c_006 — attributed, single source
-**Subject entities:** scientists; fossil fuels; ocean acidification
-**Predicate:** linked_to
-**Object:** burning of coal, oil and gas (causal_attribution)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** scientists; fossil fuels; ocean acidification
+- **Predicate:** linked_to
+- **Object:** burning of coal, oil and gas (causal_attribution)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > Scientists have linked human activities including the burning of coal, oil and gas to ocean acidification.
 
-### c_007 — attributed, single source
-**Subject entities:** NOAA; ocean acidification
-**Predicate:** defined_as
-**Object:** oceans absorbing more CO2 from air (definition)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** NOAA; ocean acidification
+- **Predicate:** defined_as
+- **Object:** oceans absorbing more CO2 from air (definition)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > Acidification occurs when oceans absorb more carbon dioxide from the air, according to the National Oceanic and Atmospheric Administration.
 
-### c_008 — attributed, single source
-**Subject entities:** Nick Whitney; Anderson Cabot Center for Ocean Life; New England Aquarium
-**Predicate:** assessed_research_as
-**Object:** sound (expert_assessment)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Nick Whitney; Anderson Cabot Center for Ocean Life; New England Aquarium
+- **Predicate:** assessed_research_as
+- **Object:** sound (expert_assessment)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > Nick Whitney, senior scientist at the Anderson Cabot Center for Ocean Life at the New England Aquarium, said the scientists' work on shark teeth was sound.
 
-### c_009 — attributed, single source
-**Subject entities:** Nick Whitney; shark teeth
-**Predicate:** shielded_from_by
-**Object:** ocean chemistry changes, temporarily, by mouth tissue (mitigating_factor)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Nick Whitney; shark teeth
+- **Predicate:** shielded_from_by
+- **Object:** ocean chemistry changes, temporarily, by mouth tissue (mitigating_factor)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > Because shark teeth develop inside mouth tissue, they will be shielded from changes in ocean chemistry for a time, according to Whitney.
 
-### c_010 — attributed, single source
-**Subject entities:** sharks; Nick Whitney
-**Predicate:** survived_and_adapted_for
-**Object:** 400 million years (evolutionary_history)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** sharks; Nick Whitney
+- **Predicate:** survived_and_adapted_for
+- **Object:** 400 million years (evolutionary_history)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > Sharks have been around for 400 million years and have evolved and adapted to all kinds of changing conditions, according to Whitney.
 
-### c_011 — attributed, single source
-**Subject entities:** Gavin Naylor; Florida Program for Shark Research; Florida Museum of Natural History
-**Predicate:** identified_as_primary_threat
-**Object:** overfishing (threat_ranking)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Gavin Naylor; Florida Program for Shark Research; Florida Museum of Natural History
+- **Predicate:** identified_as_primary_threat
+- **Object:** overfishing (threat_ranking)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > Overfishing remains the biggest threat to sharks, according to Gavin Naylor, director of the Florida Program for Shark Research at the Florida Museum of Natural History.
 
-### c_012 — attributed, single source
-**Subject entities:** sharks; IUCN
-**Predicate:** threatened_with_extinction
-**Object:** more than a third of species (conservation_status)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** sharks; IUCN
+- **Predicate:** threatened_with_extinction
+- **Object:** more than a third of species (conservation_status)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > More than a third of shark species are currently threatened with extinction according to the International Union for Conservation of Nature.
 
-### c_013 — attributed, single source
-**Subject entities:** NOAA; shellfish; ocean acidification
-**Predicate:** harms_shell_formation_of
-**Object:** oysters and clams (ecological_impact)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** NOAA; shellfish; ocean acidification
+- **Predicate:** harms_shell_formation_of
+- **Object:** oysters and clams (ecological_impact)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > Ocean acidification is expected to be especially harmful to shellfish such as oysters and clams because it will make it more difficult for them to build shells, according to NOAA.
 
-### c_014 — confirmed, single source
-**Subject entities:** blacktip reef sharks
-**Predicate:** inhabits_and_grows_to
-**Object:** Pacific and Indian oceans; 5.5 feet / 1.7 meters (species_description)
-**Temporal:** 2026-01-16
-**Source IDs:** src_001
+### c_014
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** blacktip reef sharks
+- **Predicate:** inhabits_and_grows_to
+- **Object:** Pacific and Indian oceans; 5.5 feet / 1.7 meters (species_description)
+- **Temporal:** 2026-01-16
+- **Sources:** src_001
 
 > Blacktip reef sharks live in the Pacific and Indian oceans and typically grow to about 5.5 feet (1.7 meters) long.
 
@@ -258,10 +272,5 @@ Baum said the acidification threat cannot be dismissed. Some shark species could
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Patrick Whittle
 **Publication date:** 2026-01-16
-**Access date:** 2026-01-16
 **Title:** Ocean changes could weaken sharks' teeth, knocking them down food chain
 **URL:** https://apnews.com/article/sharks-teeth-ocean-acidification-climate-change-115584134515f403a8a4b4efab912ad6
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -25,8 +25,7 @@ topic_tags:
   - politics
   - sport
 storyline_nexus:
-  - gaza-conflict
-  - ai-regulation
+- gaza-israel-war
 geographic_location: Tunis, Tunisia
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -252,7 +251,3 @@ Prior to Friday's detentions, the Tunisian branch of the flotilla's steering com
 **Access date:** 2026-03-07
 **Title:** Tunisian authorities detain activists preparing new Gaza aid flotilla
 **URL:** https://apnews.com/article/gaza-flotilla-sumud-activists-detained-tunisia-ea32ef32c8d3b0d364ef81c3e41d041d
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

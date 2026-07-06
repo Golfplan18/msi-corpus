@@ -1,5 +1,5 @@
 ---
-headline: 'AP: Bangladeshi workers lured to Russia, forced into Ukraine war'
+headline: 'Bangladeshi workers lured to Russia, forced into Ukraine war'
 publish_date: '2026-01-27'
 lede: An Associated Press investigation found that Bangladeshi migrant workers were lured to Russia with false promises of civilian jobs — as janitors, cleaners, and chefs — only to be coerced into military service and sent to fight on the front lines of the Ukraine war. Three workers who escaped told AP they were presented with Russian military contracts upon arrival in Moscow, sent to army camps for weapons training, and threatened with violence, imprisonment, and death when they resisted. Documents including travel papers, military contracts, medical reports, and photographs corroborated the accounts.
 nut_graf: 'The deception reveals a new dimension of the Ukraine conflict: the recruitment of foreign migrant workers as forced combatants. Bangladesh police identified a trafficking ring involving Bangladeshi intermediaries with Russian government connections, and investigators estimate that about 40 Bangladeshis may have died in the war, while at least 10 remain missing.'
@@ -30,8 +30,7 @@ topic_tags:
   - labour
   - "conflict, war and peace"
 storyline_nexus:
-  - immigration-enforcement
-  - russia-ukraine-war
+- ukraine-war-peace-negotiations
 geographic_location: Bangladesh, Russia, Ukraine
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -165,8 +164,6 @@ In Lakshmipur and other Bangladeshi districts, overseas work is essential. Nearl
 This economic desperation made workers vulnerable. Families in Lakshmipur now hold documents—visas, military contracts, army dog tags—sent by missing loved ones, hoping these papers might one day unlock their return.
 
 None of the families have received any money their men earned during military service. Rahman emphasized what the families now want most: "I don't want money or anything else. I just want my children's father back."
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the Associated Press report by Samya Kullab. More information about the framework and the values guiding this publication is available at /methodology. This article has not undergone human review.*
 
 *This work is released under the Creative Commons CC0 license — a public domain dedication.*
 
@@ -405,7 +402,3 @@ None of the families have received any money their men earned during military se
 **Access date:** 2026-01-27
 **Title:** Bangladeshi workers were tricked into fighting in Ukraine war
 **URL:** https://apnews.com/article/russia-ukraine-war-bangladesh-migrant-workers-d7df6a8b2ff60b46ce8e3fa3aafaf60e
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

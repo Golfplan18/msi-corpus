@@ -19,41 +19,40 @@ primary_themes:
 - rural-policy
 - government-accountability
 topic_tags:
-  - "arts, culture, entertainment and media"
-  - "conflict, war and peace"
-  - "mass media"
-  - "science and technology"
-storyline_nexus: []
-geographic_location: Connecticut, United States
+- agriculture
+- tax
+- government policy
+- economy
+storyline_nexus:
+- housing-affordability-crisis
+geographic_location: United States
 floor_values_engaged:
+- value: human_life_and_dignity
+  intensity: 0.6
 - value: accountability_of_power
-  intensity: 0.8
-- value: informed_citizenship
-  intensity: 0.7
-- value: equality_fairness
-  intensity: 0.75
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T15:30:00Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:48:35Z'
 source_cluster_id: cluster_ap_2026-01-22_agriculture-ned-lamont-connecticut-gener
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 16
   hedges:
-    appears: 0
     alleged: 0
+    contested: 0
+    appears: 0
     attributed: 8
     reported: 8
-    contested: 0
     confirmed: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 0
     single_source: 16
+    primary_plus_secondary: 0
+    one_originating_plus_primary_document: 0
     two_independent: 0
 sources:
   count: 1
@@ -68,21 +67,12 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-11-kenya-widows-fight-to-keep-land-as-siaya-county-passes-protective-legislation
-  relation: related
-  strength: 0.7493
-  confidence: medium
-- slug: 2026-01-11-settler-harassment-drives-26-bedouin-families-from-west-bank-village-more-leavin
-  relation: related
-  strength: 0.7244
-  confidence: medium
-- slug: 2026-01-07-trump-calls-for-ban-on-large-investors-buying-homes-citing-affordability-concern
-  relation: related
-  strength: 0.7187
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
 
 Connecticut Gov. Ned Lamont ordered a halt to new farm land valuations on Monday, citing an "unforeseen lack of data" that had undermined the state's effort to update property assessments. The decision came after weeks of intense pressure from farmers who warned that the reassessments would sharply increase taxes and potentially force families to sell their land.
 
@@ -138,159 +128,186 @@ Harding suggested that any future process should rely more heavily on input from
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Ned Lamont; Connecticut
-**Predicate:** ordered_halt_to
-**Object:** farm land valuations (policy_action)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ned Lamont; Connecticut
+- **Predicate:** ordered_halt_to
+- **Object:** farm land valuations (policy_action)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > Governor Ned Lamont ordered a halt to new farm land valuations on Monday.
 
-### c_002 — attributed, single source
-**Subject entities:** Ned Lamont
-**Predicate:** cited
-**Object:** unforeseen lack of data (reason)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ned Lamont
+- **Predicate:** cited
+- **Object:** unforeseen lack of data (reason)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > Lamont cited an 'unforeseen lack of data' as the reason for canceling the assessments.
 
-### c_003 — reported, single source
-**Subject entities:** Connecticut farmland valuations
-**Predicate:** would_have_doubled
-**Object:** taxable value (property_value)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Connecticut farmland valuations
+- **Predicate:** would_have_doubled
+- **Object:** taxable value (property_value)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > The new valuations would have caused the taxable value of farmland to double in some cases.
 
-### c_004 — reported, single source
-**Subject entities:** University of Connecticut survey
-**Predicate:** had_low_response
-**Object:** 42 responses from 1,000+ postcards (survey_metric)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** University of Connecticut survey
+- **Predicate:** had_low_response
+- **Object:** 42 responses from 1,000+ postcards (survey_metric)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > The University of Connecticut survey was plagued by low response rates, with postcards yielding only 42 responses out of more than 1,000 sent.
 
-### c_005 — reported, single source
-**Subject entities:** Tillable A farmland; Connecticut
-**Predicate:** increased
-**Object:** $1,880 to $3,250 per acre (72% increase) (valuation_change)
-**Temporal:** 2025-10
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Tillable A farmland; Connecticut
+- **Predicate:** increased
+- **Object:** $1,880 to $3,250 per acre (72% increase) (valuation_change)
+- **Temporal:** 2025-10
+- **Sources:** src_001
 
 > The taxable value of Tillable A farmland increased from $1,880 to $3,250 per acre, an increase of 72 percent.
 
-### c_006 — attributed, single source
-**Subject entities:** Kim Grijalva
-**Predicate:** reported
-**Object:** pasture value quadrupled (personal_impact)
-**Temporal:** 2025-10
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Kim Grijalva
+- **Predicate:** reported
+- **Object:** pasture value quadrupled (personal_impact)
+- **Temporal:** 2025-10
+- **Sources:** src_001
 
 > Kim Grijalva operates a 100-acre cattle farm in North Stonington and said the value of pastures for her herd had grown four-fold under the state's initial assessments.
 
-### c_007 — reported, single source
-**Subject entities:** Kim Grijalva
-**Predicate:** revalued
-**Object:** $40 to $970 per acre for rocky/creek land (valuation_change)
-**Temporal:** 2025-10
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Kim Grijalva
+- **Predicate:** revalued
+- **Object:** $40 to $970 per acre for rocky/creek land (valuation_change)
+- **Temporal:** 2025-10
+- **Sources:** src_001
 
 > Rocky outcroppings and creek land on Grijalva's farm were revalued from $40 per acre to $970 per acre.
 
-### c_008 — reported, single source
-**Subject entities:** petition
-**Predicate:** gathered
-**Object:** 20,000+ signatures (petition_metric)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** petition
+- **Predicate:** gathered
+- **Object:** 20,000+ signatures (petition_metric)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > An online petition calling on the state to stop the new assessments had gathered more than 20,000 signatures as of Monday.
 
-### c_009 — attributed, single source
-**Subject entities:** Paul Larson
-**Predicate:** said
-**Object:** huge step forward; short-term solution (assessment)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Paul Larson
+- **Predicate:** said
+- **Object:** huge step forward; short-term solution (assessment)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > Paul Larson, president of the Connecticut Farm Bureau, said the halt was 'a huge step forward,' though he cautioned it is only a short-term solution.
 
-### c_010 — attributed, single source
-**Subject entities:** Stephen Harding
-**Predicate:** said
-**Object:** governor recognized election-year political costs (political_analysis)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Stephen Harding
+- **Predicate:** said
+- **Object:** governor recognized election-year political costs (political_analysis)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > Senate Minority Leader Stephen Harding said the governor realized in an election year he could not proceed with the new assessments.
 
-### c_011 — reported, single source
-**Subject entities:** Connecticut working group
-**Predicate:** convened
-**Object:** assess and reform process (policy_action)
-**Temporal:** 2026-01-20
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Connecticut working group
+- **Predicate:** convened
+- **Object:** assess and reform process (policy_action)
+- **Temporal:** 2026-01-20
+- **Sources:** src_001
 
 > A working group of farmers, municipal leaders, assessors, and state officials was convened to propose reforms to the state's farmland assessment process.
 
-### c_012 — reported, single source
-**Subject entities:** Connecticut working group
-**Predicate:** expected_to_take
-**Object:** up to two years (timeframe)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Connecticut working group
+- **Predicate:** expected_to_take
+- **Object:** up to two years (timeframe)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > The working group is expected to take up to two years to develop recommendations for improving the assessment process.
 
-### c_013 — attributed, single source
-**Subject entities:** Shannon Chatfield
-**Predicate:** said
-**Object:** not contacted by survey (complaint)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Shannon Chatfield
+- **Predicate:** said
+- **Object:** not contacted by survey (complaint)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Shannon Chatfield, who owns the Stead Farm in Barkhamsted, said she was not reached by the University of Connecticut survey.
 
-### c_014 — attributed, single source
-**Subject entities:** Kim Grijalva; Connecticut Department of Agriculture
-**Predicate:** eroded_trust
-**Object:** farmer trust in department (institutional_relationship)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Kim Grijalva; Connecticut Department of Agriculture
+- **Predicate:** eroded_trust
+- **Object:** farmer trust in department (institutional_relationship)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > Grijalva said the controversy had shaken trust among farmers in the Department of Agriculture.
 
-### c_015 — attributed, single source
-**Subject entities:** Bryan Hurlburt
-**Predicate:** acknowledged
-**Object:** survey flaws (admission)
-**Temporal:** 2026-01-21
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Bryan Hurlburt
+- **Predicate:** acknowledged
+- **Object:** survey flaws (admission)
+- **Temporal:** 2026-01-21
+- **Sources:** src_001
 
 > Agriculture Commissioner Bryan Hurlburt acknowledged flaws in the University of Connecticut survey.
 
-### c_016 — reported, single source
-**Subject entities:** Connecticut Public Act 490
-**Predicate:** designed_to
-**Object:** preserve farmland via agricultural-use taxation (legislative_purpose)
-**Temporal:** 1980s-present
-**Source IDs:** src_001
+### c_016
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Connecticut Public Act 490
+- **Predicate:** designed_to
+- **Object:** preserve farmland via agricultural-use taxation (legislative_purpose)
+- **Temporal:** 1980s-present
+- **Sources:** src_001
 
 > Public Act 490 was designed to preserve farmland by taxing the value of land under its agricultural use rather than its fair market value for development.
 
 ## Sources
 
 ### src_001 — Associated Press, wire, Tier 1, originating
-**Author:** John Moritz
+**Author:** John Moritz / The Connecticut Mirror
 **Publication date:** 2026-01-21
-**Access date:** 2026-05-18
 **Title:** Gov. Lamont relents to pressure from CT farmers to stave off tax hike
 **URL:** https://apnews.com/article/agriculture-ned-lamont-connecticut-general-news-5bf96e0ba12218b71e8a09573f6e5c79
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

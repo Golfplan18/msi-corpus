@@ -22,9 +22,7 @@ topic_tags:
   - "economy, business and finance"
   - "human migration"
   - "conflict, war and peace"
-storyline_nexus:
-  - gaza-conflict
-  - immigration-enforcement
+storyline_nexus: []
 geographic_location: West Bank, Ramallah, Jerusalem, Rome
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -212,7 +210,3 @@ Some 500,000 Israelis have settled in the West Bank since Israel captured the te
 **Access date:** 2026-05-18
 **Title:** Israeli diplomat pledges probe of Italian officers held at gunpoint in West Bank
 **URL:** https://apnews.com/article/israel-italy-west-bank-e0a471f064201e7854fd1ac1e8431ad3
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

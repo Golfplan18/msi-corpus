@@ -16,12 +16,13 @@ primary_themes:
 - diplomatic_friction
 - arctic_geopolitics
 topic_tags:
-  - politics
-  - "international relations"
-  - government
-  - health
-  - "public health"
-storyline_nexus: []
+- politics
+- international relations
+- government
+- health
+- public health
+storyline_nexus:
+- trump-greenland-ambitions
 geographic_location: Greenland, Denmark, United States
 floor_values_engaged:
 - value: accountability_of_power
@@ -69,18 +70,6 @@ cross_article_links:
   relation: continues
   strength: 0.7791
   confidence: high
-- slug: 2026-01-06-white-house-says-u-s-military-always-an-option-in-greenland-as-europe-pushes-bac
-  relation: continues
-  strength: 0.7553
-  confidence: high
-- slug: 2026-01-13-denmark-and-greenland-leaders-united-against-trump-s-takeover-bid
-  relation: continues
-  strength: 0.7415
-  confidence: high
-- slug: 2026-01-07-rubio-to-meet-danish-officials-on-greenland-as-european-allies-push-back
-  relation: continues
-  strength: 0.7375
-  confidence: high
 - slug: 2026-01-13-experts-rebuff-trump-s-false-claims-about-russian-and-chinese-forces-near-greenl
   relation: continues
   strength: 0.7269
@@ -88,10 +77,6 @@ cross_article_links:
 - slug: 2026-01-08-denmark-greenland-envoys-meet-white-house-amid-trump-s-greenland-acquisition-pus
   relation: continues
   strength: 0.7225
-  confidence: high
-- slug: 2026-01-09-meloni-rules-out-u-s-military-action-on-greenland-urges-stronger-nato-role-in-ar
-  relation: continues
-  strength: 0.7185
   confidence: high
 draft: false
 ---
@@ -132,83 +117,95 @@ The hospital-ship proposal was the latest point of friction in an ongoing discus
 
 The United States and Denmark, NATO allies since the alliance's founding, have maintained traditionally solid bilateral relations since World War II. In recent months, those ties have been strained as Trump intensified rhetoric about a possible U.S. acquisition of the island. Greenland and Denmark, which maintains sovereignty over the territory, have repeatedly ruled out any change in status.
 
----
-
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: https://mainstreetindependent.org/methodology. Human review: not_triggered.
-
 **License:** CC0 Public Domain — https://creativecommons.org/publicdomain/zero/1.0/
 
 ## Atomic claims
 
-### c_001 — reported, single source
-**Subject entities:** Q11268
-**Predicate:** announced_deployment
-**Object:** hospital ship deployment to Greenland (policy_proposal)
-**Temporal:** 2026-02-22
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Q11268
+- **Predicate:** announced_deployment
+- **Object:** hospital ship deployment to Greenland (policy_proposal)
+- **Temporal:** 2026-02-22
+- **Sources:** src_001
 
 > President Donald Trump announced via Truth Social that he would deploy a hospital ship to Greenland, saying many people there are sick and not receiving care.
 
-### c_002 — attributed, single source
-**Subject entities:** Q27170
-**Predicate:** rejected_offer
-**Object:** hospital ship offer (policy_proposal)
-**Temporal:** 2026-02-22
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Q27170
+- **Predicate:** rejected_offer
+- **Object:** hospital ship offer (policy_proposal)
+- **Temporal:** 2026-02-22
+- **Sources:** src_001
 
 > Jens-Frederik Nielsen, Greenland's prime minister, rejected the offer, saying it was not necessary.
 
-### c_003 — attributed, single source
-**Subject entities:** Greenland
-**Predicate:** stated_healthcare_policy
-**Object:** free public healthcare system (healthcare_policy)
-**Temporal:** 2026-02-22
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Greenland
+- **Predicate:** stated_healthcare_policy
+- **Object:** free public healthcare system (healthcare_policy)
+- **Temporal:** 2026-02-22
+- **Sources:** src_001
 
 > Nielsen said Greenland has a public healthcare system where treatment is free for citizens, which is a deliberate choice and fundamental to society.
 
-### c_004 — reported, single source
-**Subject entities:** USNS Mercy; USNS Comfort
-**Predicate:** located_at
-**Object:** Mobile, Alabama (location)
-**Temporal:** 2026-02-22
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** USNS Mercy; USNS Comfort
+- **Predicate:** located_at
+- **Object:** Mobile, Alabama (location)
+- **Temporal:** 2026-02-22
+- **Sources:** src_001
 
 > The U.S. Navy hospital ships USNS Mercy and USNS Comfort are docked in a shipyard in Mobile, Alabama.
 
-### c_005 — reported, single source
-**Subject entities:** Denmark; United States
-**Predicate:** evacuated_crew_member
-**Object:** submarine crew member medical evacuation (military_operation)
-**Temporal:** 2026-02-22
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Denmark; United States
+- **Predicate:** evacuated_crew_member
+- **Object:** submarine crew member medical evacuation (military_operation)
+- **Temporal:** 2026-02-22
+- **Sources:** src_001
 
 > Danish military evacuated a U.S. submarine crew member off Greenland's coast on Saturday for urgent medical treatment.
 
-### c_006 — attributed, single source
-**Subject entities:** Troels Lund Poulsen
-**Predicate:** stated_lack_of_notification
-**Object:** absence of advance diplomatic notification (diplomatic_statement)
-**Temporal:** 2026-02-22
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Troels Lund Poulsen
+- **Predicate:** stated_lack_of_notification
+- **Object:** absence of advance diplomatic notification (diplomatic_statement)
+- **Temporal:** 2026-02-22
+- **Sources:** src_001
 
 > Danish Defense Minister Troels Lund Poulsen said authorities were not informed that a U.S. hospital ship was being sent.
 
-### c_007 — reported, single source
-**Subject entities:** Q11268; Greenland
-**Predicate:** made_acquisition_comments
-**Object:** repeated interest in territorial acquisition (political_statement)
-**Temporal:** recent_months
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Q11268; Greenland
+- **Predicate:** made_acquisition_comments
+- **Object:** repeated interest in territorial acquisition (political_statement)
+- **Temporal:** recent_months
+- **Sources:** src_001
 
 > Trump has repeatedly commented in recent months about a possible U.S. acquisition of Greenland.
 
-### c_008 — reported, single source
-**Subject entities:** United States; Q35
-**Predicate:** relations_strained
-**Object:** strained NATO alliance relations (international_relations)
-**Temporal:** recent_months
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** United States; Q35
+- **Predicate:** relations_strained
+- **Object:** strained NATO alliance relations (international_relations)
+- **Temporal:** recent_months
+- **Sources:** src_001
 
 > U.S.-Denmark bilateral relations have been strained in recent months due to tensions over Greenland.
 
@@ -220,7 +217,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-05-18
 **Title:** Gracias, pero no gracias: el plan de Trump de un barco hospital para Groenlandia provoca rechazo
 **URL:** https://apnews.com/article/dinamarca-groenlandia-evacuacion-barco-trump-eeuu-feb0878678a2b32411ec8772a911283f
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

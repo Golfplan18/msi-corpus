@@ -223,7 +223,3 @@ The decision underscores Peru's political volatility. Congress elected Balcázar
 **Access date:** 2026-05-17
 **Title:** Peru's interim president leaves $3.5 billion fighter jet purchase to his successor
 **URL:** https://apnews.com/article/peru-fighter-jets-purchase-balcazar-presidential-election-6fa5fcfbaea1e53283cd87ab21a8000a
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

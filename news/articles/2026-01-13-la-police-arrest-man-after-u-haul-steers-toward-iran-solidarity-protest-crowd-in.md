@@ -21,9 +21,7 @@ topic_tags:
   - "conflict, war and peace"
   - "crime, law and justice"
   - "law enforcement"
-storyline_nexus:
-  - iran-war
-  - immigration-enforcement
+storyline_nexus: []
 geographic_location: Los Angeles, California, United States
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -220,7 +218,3 @@ Crown Prince Reza Pahlavi, the son of the late shah who lives in exile in the Un
 **Access date:** 2026-01-13
 **Title:** Man arrested after U-Haul truck drives toward Iran protest crowd in Los Angeles
 **URL:** https://apnews.com/article/iran-protest-los-angeles-uhaul-westwood
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -89,7 +89,7 @@ The search box on the device in the reader's hand was filled in at the factory, 
 
 *Stewart Letterkenski is a heteronym in Main Street Independent's editorial architecture — an analytical voice, not autobiography of any actual person. The position this column expresses is the publication's position on the territory Stewart Letterkenski's lane covers, rendered through Stewart Letterkenski's register.*
 
-*[About Stewart Letterkenski](/opinion/stewart-letterkenski) · [How the pen names work](/about#how-the-pen-names-work)*
+*[About Stewart Letterkenski](/advocacy/stewart-letterkenski) · [How the pen names work](/about#how-the-pen-names-work)*
 
 ## Atomic claims
 

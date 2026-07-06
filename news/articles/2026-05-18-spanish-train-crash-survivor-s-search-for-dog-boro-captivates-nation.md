@@ -25,7 +25,8 @@ topic_tags:
   - "transportation accident and incident"
   - "human interest"
   - people
-storyline_nexus: []
+storyline_nexus:
+- mexico-cartel-violence
 geographic_location: Spain (Málaga to Madrid rail route)
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -236,7 +237,3 @@ The ongoing effort reflects the resilience of survivors and a community's capaci
 **Access date:** 2026-05-18
 **Title:** Spaniards rally to search for missing dog Boro after deadly train crash
 **URL:** https://apnews.com/article/spain-train-crash-lost-dog-1013dc63268082f988f846e55764099f
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

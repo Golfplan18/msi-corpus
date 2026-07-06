@@ -15,44 +15,67 @@ primary_themes:
 - food regulation
 - Make America Healthy Again
 topic_tags:
-  - health
-storyline_nexus: []
+- health
+- government policy
+- public health
+- lifestyle
+storyline_nexus:
+- trump-health-policy-rfk
 geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.9
-- value: accountability_of_power
-  intensity: 0.7
 - value: human_life_and_dignity
+  intensity: 0.9
+- value: informed_citizenship
   intensity: 0.6
-framework_version: 1.1.0
-generation_timestamp: '2026-05-16T18:08:11Z'
+framework_version: 1.3.0
+generation_timestamp: '2026-05-22T23:56:47Z'
 source_cluster_id: cluster_ap_2026-01-06_dietary-guidelines-health-agriculture-fe
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 13
   hedges:
     appears: 0
-    alleged: 0
-    attributed: 2
-    reported: 3
-    contested: 0
     confirmed: 8
+    contested: 0
+    attributed: 2
+    alleged: 0
+    reported: 3
   corroboration:
-    primary_plus_secondary: 0
+    two_independent: 0
+    single_source: 5
     one_originating_plus_primary_document: 0
     primary_document: 8
-    single_source: 5
-    two_independent: 0
+    primary_plus_secondary: 0
 sources:
-  count: 1
+  count: 21
   outlets:
+  - 11alive.com
+  - 12news.com
+  - 12newsnow.com
+  - 13abc.com
+  - 13newsnow.com
+  - 13wmaz.com
+  - 2news.com
+  - 4029tv.com
+  - 5newsonline.com
+  - 9news.com
   - Associated Press
+  - abc10.com
+  - abc12.com
+  - adn.com
+  - applevalleynewsnow.com
+  - azfamily.com
+  - baltimoresun.com
+  - bangordailynews.com
+  - boston.com
+  - bostonherald.com
+  - butlereagle.com
   outlet_classes:
+  - national_daily
   - wire
   highest_reliability_tier: 1
   has_originating: true
@@ -69,13 +92,11 @@ cross_article_links: []
 draft: false
 ---
 
-The guidelines — required by law to be updated every five years — will shape federal nutrition programs including the National School Lunch Program, which feeds nearly 30 million children on a typical school day. The new 10-page document largely rejected advice from a Biden-era scientific advisory panel, replacing it with guidance from a new group of experts, five of whom reported financial ties to the beef, pork, dairy, infant formula, or supplement industries.
+## Summary
 
-The Trump administration released updated federal dietary guidelines Wednesday, urging Americans to eat more whole foods and protein, sharply limit added sugars and highly processed foods, and reduce alcohol consumption. Health Secretary Robert F. Kennedy Jr. and Agriculture Secretary Brooke Rollins issued the 2025-2030 U.S. Dietary Guidelines for Americans at a White House briefing, drawing mixed reactions from nutrition and medical experts.
+**Subtype:** fact
 
-"My message is clear: Eat real food," Kennedy said.
-
-The 10-page document — compared to a 164-page edition issued in 2020 — emphasizes fresh vegetables, whole grains and dairy products. Officials released a new graphic depicting an inverted version of the long-abandoned food pyramid, with protein, dairy, healthy fats and fruits and vegetables at the top and whole grains at the bottom. The guidelines come as Kennedy has stressed overhauling the U.S. food supply as part of his Make America Healthy Again agenda.
+- Article processed for summary.
 
 ## What changes
 
@@ -115,120 +136,146 @@ The guidelines will have their most direct impact on the National School Lunch P
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Trump administration
-**Predicate:** released
-**Object:** 2025-2030 U.S. Dietary Guidelines for Americans (policy_document)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Trump administration
+- **Predicate:** released
+- **Object:** 2025-2030 U.S. Dietary Guidelines for Americans (policy_document)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > The Trump administration released the 2025-2030 U.S. Dietary Guidelines for Americans on January 7, 2026.
 
-### c_002 — confirmed, primary document
-**Subject entities:** Robert F. Kennedy Jr.; Brooke Rollins
-**Predicate:** issued
-**Object:** 2025-2030 U.S. Dietary Guidelines (policy_document)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Robert F. Kennedy Jr.; Brooke Rollins
+- **Predicate:** issued
+- **Object:** 2025-2030 U.S. Dietary Guidelines (policy_document)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Health Secretary Robert F. Kennedy Jr. and Agriculture Secretary Brooke Rollins issued the guidelines.
 
-### c_003 — confirmed, primary document
-**Subject entities:** 2025-2030 U.S. Dietary Guidelines
-**Predicate:** recommends
-**Object:** whole foods, protein; fewer processed foods, less added sugar (dietary_recommendation)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** 2025-2030 U.S. Dietary Guidelines
+- **Predicate:** recommends
+- **Object:** whole foods, protein; fewer processed foods, less added sugar (dietary_recommendation)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > The guidelines recommend Americans eat more whole foods and protein and fewer highly processed foods and less added sugar.
 
-### c_004 — confirmed, primary document
-**Subject entities:** 2025-2030 U.S. Dietary Guidelines
-**Predicate:** recommends
-**Object:** 1.2-1.6 g protein per kg body weight (dietary_recommendation)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** 2025-2030 U.S. Dietary Guidelines
+- **Predicate:** recommends
+- **Object:** 1.2-1.6 g protein per kg body weight (dietary_recommendation)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > The guidelines recommend protein consumption of 1.2 to 1.6 grams per kilogram of body weight, up from the previous recommendation of 0.8 grams per kilogram.
 
-### c_005 — confirmed, primary document
-**Subject entities:** 2025-2030 U.S. Dietary Guidelines
-**Predicate:** advises
-**Object:** no added sugars; max 10g per meal (dietary_recommendation)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** 2025-2030 U.S. Dietary Guidelines
+- **Predicate:** advises
+- **Object:** no added sugars; max 10g per meal (dietary_recommendation)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > The guidelines advise that no amount of added sugars is considered part of a healthy diet and that no single meal should contain more than 10 grams of added sugars.
 
-### c_006 — attributed, single source
-**Subject entities:** U.S. Centers for Disease Control and Prevention
-**Predicate:** reports
-**Object:** 17 teaspoons added sugar per day average consumption (statistic)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Centers for Disease Control and Prevention
+- **Predicate:** reports
+- **Object:** 17 teaspoons added sugar per day average consumption (statistic)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Most Americans consume about 17 teaspoons of added sugars per day, according to the U.S. Centers for Disease Control and Prevention.
 
-### c_007 — confirmed, primary document
-**Subject entities:** 2025-2030 U.S. Dietary Guidelines
-**Predicate:** modifies
-**Object:** alcohol consumption recommendations (dietary_recommendation)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** 2025-2030 U.S. Dietary Guidelines
+- **Predicate:** modifies
+- **Object:** alcohol consumption recommendations (dietary_recommendation)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > The guidelines replace previous specific alcohol drink limits with advice to 'consume less alcohol for better health.'
 
-### c_008 — confirmed, primary document
-**Subject entities:** 2025-2030 U.S. Dietary Guidelines
-**Predicate:** maintains
-**Object:** 10% daily calories saturated fat ceiling (dietary_recommendation)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** 2025-2030 U.S. Dietary Guidelines
+- **Predicate:** maintains
+- **Object:** 10% daily calories saturated fat ceiling (dietary_recommendation)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > The guidelines maintain the limit on saturated fat consumption at no more than 10% of daily calories.
 
-### c_009 — confirmed, primary document
-**Subject entities:** 2025-2030 U.S. Dietary Guidelines
-**Predicate:** contains
-**Object:** 10 pages (document_attribute)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** 2025-2030 U.S. Dietary Guidelines
+- **Predicate:** contains
+- **Object:** 10 pages (document_attribute)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > The new document is 10 pages, compared to the 164-page document issued in 2020.
 
-### c_010 — attributed, single source
-**Subject entities:** National School Lunch Program
-**Predicate:** feeds
-**Object:** nearly 30 million U.S. children per school day (program_metric)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** National School Lunch Program
+- **Predicate:** feeds
+- **Object:** nearly 30 million U.S. children per school day (program_metric)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > The National School Lunch Program is required to follow the dietary guidelines and feeds nearly 30 million children on a typical school day.
 
-### c_011 — reported, single source
-**Subject entities:** dietary guidelines scientific review panel
-**Predicate:** reported_financial_ties
-**Object:** 5 of 10 experts had industry financial ties (conflict_of_interest)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** dietary guidelines scientific review panel
+- **Predicate:** reported_financial_ties
+- **Object:** 5 of 10 experts had industry financial ties (conflict_of_interest)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Of the 10 experts who led the new scientific review, five reported financial ties to beef, pork or dairy industries or to makers of infant formula or supplements.
 
-### c_012 — reported, single source
-**Subject entities:** dietary guidelines scientific review panel
-**Predicate:** rejected
-**Object:** more than half of previous panel recommendations (policy_decision)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** dietary guidelines scientific review panel
+- **Predicate:** rejected
+- **Object:** more than half of previous panel recommendations (policy_decision)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > The new scientific review group rejected more than half the recommendations of the previous Biden-era advisory panel.
 
-### c_013 — reported, single source
-**Subject entities:** ultraprocessed foods
-**Predicate:** linked_to
-**Object:** diabetes, obesity, and other chronic diseases (health_finding)
-**Temporal:** 2026-01-07
-**Source IDs:** src_001
+### c_013
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** ultraprocessed foods
+- **Predicate:** linked_to
+- **Object:** diabetes, obesity, and other chronic diseases (health_finding)
+- **Temporal:** 2026-01-07
+- **Sources:** src_001
 
 > Ultraprocessed foods make up more than half the calories in the U.S. diet and have been linked to chronic diseases such as diabetes and obesity.
 
@@ -237,10 +284,85 @@ The guidelines will have their most direct impact on the National School Lunch P
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** JoNel Aleccia
 **Publication date:** 2026-01-07
-**Access date:** 2026-01-07
 **Title:** New dietary guidelines urge Americans to avoid processed foods
 **URL:** https://apnews.com/article/dietary-guidelines-health-agriculture-federal-nutrition-2d8fa56be3c5900fc45116af7c69d786
 
----
+### src_002 — 11alive.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-07
+**URL:** https://www.11alive.com/article/news/nation-world/new-dietary-guidelines-avoid-processed-foods-sugar/507-a44d23fd-0adb-4665-bc1a-13d83dbfcc7e
 
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*
+### src_003 — 12news.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-07
+**URL:** https://www.12news.com/article/news/nation-world/new-dietary-guidelines-avoid-processed-foods-sugar/507-a44d23fd-0adb-4665-bc1a-13d83dbfcc7e
+
+### src_004 — 12newsnow.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-07
+**URL:** https://www.12newsnow.com/article/news/nation-world/new-dietary-guidelines-avoid-processed-foods-sugar/507-a44d23fd-0adb-4665-bc1a-13d83dbfcc7e
+
+### src_005 — 13abc.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-07
+**URL:** https://www.13abc.com/2026/01/07/new-dietary-guidelines-urge-americans-avoid-processed-foods-added-sugar/
+
+### src_006 — 13newsnow.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-07
+**URL:** https://www.13newsnow.com/article/news/nation-world/new-dietary-guidelines-avoid-processed-foods-sugar/507-a44d23fd-0adb-4665-bc1a-13d83dbfcc7e
+
+### src_007 — 13wmaz.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-07
+**URL:** https://www.13wmaz.com/article/news/nation-world/new-dietary-guidelines-avoid-processed-foods-sugar/507-a44d23fd-0adb-4665-bc1a-13d83dbfcc7e
+
+### src_008 — 2news.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-07
+**URL:** https://www.2news.com/features/health_watch/new-dietary-guidelines-urge-americans-to-avoid-processed-foods-and-added-sugar/article_28b20bed-f881-42f4-a95e-85b02f585438.html
+
+### src_009 — 4029tv.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-07
+**URL:** https://www.4029tv.com/article/dietary-guidelines-2025-whole-foods-protein/69936358
+
+### src_010 — 5newsonline.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-07
+**URL:** https://www.5newsonline.com/article/news/nation-world/new-dietary-guidelines-avoid-processed-foods-sugar/507-a44d23fd-0adb-4665-bc1a-13d83dbfcc7e
+
+### src_011 — 9news.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-07
+**URL:** https://www.9news.com/article/news/nation-world/new-dietary-guidelines-avoid-processed-foods-sugar/507-a44d23fd-0adb-4665-bc1a-13d83dbfcc7e
+
+### src_012 — abc10.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-07
+**URL:** https://www.abc10.com/article/news/nation-world/new-dietary-guidelines-avoid-processed-foods-sugar/507-a44d23fd-0adb-4665-bc1a-13d83dbfcc7e
+
+### src_013 — abc12.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-07
+**URL:** https://www.abc12.com/news/health/new-guidelines-urge-americans-to-avoid-processed-foods-and-added-sugar/article_851c50dc-1da9-5648-b3ca-9d0152e182bb.html
+
+### src_014 — adn.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-07
+**URL:** https://www.adn.com/nation-world/2026/01/07/new-federal-dietary-guidelines-urge-americans-to-avoid-processed-foods-and-added-sugar/
+
+### src_015 — applevalleynewsnow.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-07
+**URL:** https://www.applevalleynewsnow.com/news/new-dietary-guidelines-urge-americans-to-avoid-processed-foods-and-added-sugar/article_839f6bd2-d0b5-5632-aee0-a3d95bc53ae3.html
+
+### src_016 — azfamily.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-07
+**URL:** https://www.azfamily.com/2026/01/07/new-dietary-guidelines-urge-americans-avoid-processed-foods-added-sugar/
+
+### src_017 — baltimoresun.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-07
+**URL:** https://www.baltimoresun.com/2026/01/07/dietary-guidelines/
+
+### src_018 — bangordailynews.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-07
+**URL:** https://www.bangordailynews.com/2026/01/07/nation/new-dietary-guidelines-urge-americans-to-avoid-processed-foods-and-added-sugar/
+
+### src_019 — boston.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-07
+**URL:** https://www.boston.com/news/health/2026/01/07/rfk-jr-rolls-out-new-dietary-guidelines-urging-americans-to-avoid-processed-foods-added-sugar/
+
+### src_020 — bostonherald.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-07
+**URL:** https://www.bostonherald.com/2026/01/07/dietary-guidelines/
+
+### src_021 — butlereagle.com, national_daily, Tier 4, originating
+**Publication date:** 2026-01-08
+**URL:** https://www.butlereagle.com/20260107/new-dietary-guidelines-urge-americans-to-avoid-processed-foods-and-added-sugar/

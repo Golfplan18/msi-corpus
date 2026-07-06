@@ -25,8 +25,7 @@ topic_tags:
   - "labour dispute"
   - sport
 storyline_nexus:
-  - immigration-enforcement
-  - ai-regulation
+- us-immigration-enforcement
 geographic_location: New York, United States
 floor_values_engaged:
 - value: accountability_of_power
@@ -123,147 +122,179 @@ Vallelong declined to say how much money was raised for the legal defense fund. 
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** New York Islanders; Erik Duran
-**Predicate:** solicited_donations_for
-**Object:** jumbotron promotion at home game (event)
-**Temporal:** 2026-04-14
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** New York Islanders; Erik Duran
+- **Predicate:** solicited_donations_for
+- **Object:** jumbotron promotion at home game (event)
+- **Temporal:** 2026-04-14
+- **Sources:** src_001
 
 > The New York Islanders displayed a jumbotron promotion during a home game against the Carolina Hurricanes soliciting fan donations for former NYPD Sgt. Erik Duran.
 
-### c_002 — confirmed, primary document
-**Subject entities:** Erik Duran
-**Predicate:** sentenced_to
-**Object:** three to nine years in prison for manslaughter (criminal_sentence)
-**Temporal:** 2026-04
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Erik Duran
+- **Predicate:** sentenced_to
+- **Object:** three to nine years in prison for manslaughter (criminal_sentence)
+- **Temporal:** 2026-04
+- **Sources:** src_001
 
 > Erik Duran was a former NYPD sergeant sentenced to three to nine years in prison for manslaughter.
 
-### c_003 — confirmed, primary document
-**Subject entities:** Erik Duran; Eric Duprey
-**Predicate:** threw_cooler_at
-**Object:** Duprey fleeing on motorized scooter (action)
-**Temporal:** 2023
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Erik Duran; Eric Duprey
+- **Predicate:** threw_cooler_at
+- **Object:** Duprey fleeing on motorized scooter (action)
+- **Temporal:** 2023
+- **Sources:** src_001
 
 > Duran threw a bystander's cooler of ice and drinks at Eric Duprey as Duprey attempted to flee on a motorized scooter during a 2023 Bronx narcotics operation.
 
-### c_004 — confirmed, primary document
-**Subject entities:** Eric Duprey
-**Predicate:** died_from
-**Object:** crash into tree caused by cooler impact (death)
-**Temporal:** 2023
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Eric Duprey
+- **Predicate:** died_from
+- **Object:** crash into tree caused by cooler impact (death)
+- **Temporal:** 2023
+- **Sources:** src_001
 
 > The impact of the cooler caused Duprey to crash into a tree; he died almost instantly.
 
-### c_005 — confirmed, single source
-**Subject entities:** Eric Duprey
-**Predicate:** age_at_death
-**Object:** 30 (age)
-**Temporal:** 2023
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Eric Duprey
+- **Predicate:** age_at_death
+- **Object:** 30 (age)
+- **Temporal:** 2023
+- **Sources:** src_001
 
 > Eric Duprey was 30 years old at the time of his death.
 
-### c_006 — attributed, single source
-**Subject entities:** Sergeants Benevolent Association
-**Predicate:** organized
-**Object:** jumbotron fundraiser (event)
-**Temporal:** 2026-04-14
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Sergeants Benevolent Association
+- **Predicate:** organized
+- **Object:** jumbotron fundraiser (event)
+- **Temporal:** 2026-04-14
+- **Sources:** src_001
 
 > The Sergeants Benevolent Association organized the jumbotron fundraiser.
 
-### c_007 — attributed, primary document
-**Subject entities:** New York Islanders
-**Predicate:** raffle_revenue
-**Object:** $44,890 (dollar_amount)
-**Temporal:** 2026-04-14
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** New York Islanders
+- **Predicate:** raffle_revenue
+- **Object:** $44,890 (dollar_amount)
+- **Temporal:** 2026-04-14
+- **Sources:** src_001
 
 > The 50/50 raffle took in $44,890, according to the Islanders' website.
 
-### c_008 — attributed, single source
-**Subject entities:** Vincent Vallelong
-**Predicate:** said
-**Object:** fundraiser originated via New York Post contact (statement)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Vincent Vallelong
+- **Predicate:** said
+- **Object:** fundraiser originated via New York Post contact (statement)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > SBA President Vincent Vallelong said the fundraiser came together after someone at The New York Post told him the Islanders 'wanted to do something' for Duran.
 
-### c_009 — confirmed, primary document
-**Subject entities:** Jon Ledecky; Vincent Vallelong; Pat Judge
-**Predicate:** photographed_together
-**Object:** Islanders arena on Long Island (location)
-**Temporal:** 2026-04-14
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Jon Ledecky; Vincent Vallelong; Pat Judge
+- **Predicate:** photographed_together
+- **Object:** Islanders arena on Long Island (location)
+- **Temporal:** 2026-04-14
+- **Sources:** src_001
 
 > Photographs published by The New York Post show Islanders co-owner Jon Ledecky posing with Vallelong and New York Post executive Pat Judge inside the team's arena.
 
-### c_010 — attributed, single source
-**Subject entities:** Jon Roberts; New York Islanders
-**Predicate:** stated
-**Object:** family condemnation of fundraiser (statement)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jon Roberts; New York Islanders
+- **Predicate:** stated
+- **Object:** family condemnation of fundraiser (statement)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Duprey family attorney Jon Roberts said the family was 'deeply troubled by the decision of the New York Islanders to align themselves, even symbolically, with efforts that appear to support Sgt. Duran's legal defense.'
 
-### c_011 — attributed, single source
-**Subject entities:** Jon Roberts
-**Predicate:** stated
-**Object:** statement on harm of promotion to legal process and grieving family (statement)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jon Roberts
+- **Predicate:** stated
+- **Object:** statement on harm of promotion to legal process and grieving family (statement)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Roberts' statement said the promotion 'sends a message — intended or not — that risks undermining public confidence in a fair legal process and deepens the pain of a family still grieving.'
 
-### c_012 — reported, single source
-**Subject entities:** Erik Duran
-**Predicate:** historical_significance
-**Object:** first NYPD prison sentence for on-duty death in at least two decades (historical_context)
-**Temporal:** 2026-02
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Erik Duran
+- **Predicate:** historical_significance
+- **Object:** first NYPD prison sentence for on-duty death in at least two decades (historical_context)
+- **Temporal:** 2026-02
+- **Sources:** src_001
 
 > Duran's conviction in February is described as the first time in at least two decades that an NYPD officer will serve prison time for an on-duty death.
 
-### c_013 — attributed, single source
-**Subject entities:** Erik Duran
-**Predicate:** plans_to_appeal
-**Object:** appeal of manslaughter sentence (legal_action)
-**Temporal:** 2026-04
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Erik Duran
+- **Predicate:** plans_to_appeal
+- **Object:** appeal of manslaughter sentence (legal_action)
+- **Temporal:** 2026-04
+- **Sources:** src_001
 
 > Duran's attorney has said he will appeal the sentence.
 
-### c_014 — reported, single source
-**Subject entities:** Erik Duran
-**Predicate:** conviction_prompted
-**Object:** protests by police officers and supporters (reaction)
-**Temporal:** 2026-02
-**Source IDs:** src_001
+### c_014
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Erik Duran
+- **Predicate:** conviction_prompted
+- **Object:** protests by police officers and supporters (reaction)
+- **Temporal:** 2026-02
+- **Sources:** src_001
 
 > Duran's conviction drew protests from police officers and supporters, who argued it would discourage officers from doing their jobs and hurt public safety.
 
-### c_015 — attributed, single source
-**Subject entities:** Vincent Vallelong
-**Predicate:** said
-**Object:** crowd applauded during promotion (statement)
-**Temporal:** 2026-04-14
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Vincent Vallelong
+- **Predicate:** said
+- **Object:** crowd applauded during promotion (statement)
+- **Temporal:** 2026-04-14
+- **Sources:** src_001
 
 > Vallelong said 'the arena blew up into applause' when Duran's photograph appeared on the video screen.
 
-### c_016 — confirmed, single source
-**Subject entities:** New York Islanders; NHL
-**Predicate:** declined_comment
-**Object:** no response (non-response)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_016
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** New York Islanders; NHL
+- **Predicate:** declined_comment
+- **Object:** no response (non-response)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > A spokesperson for the Islanders declined to comment; the NHL did not immediately respond to a request for comment.
 
@@ -275,7 +306,3 @@ Vallelong declined to say how much money was raised for the legal defense fund. 
 **Access date:** 2026-05-17
 **Title:** Islanders solicit funds for ex-NYPD officer convicted in death
 **URL:** https://apnews.com/article/new-york-islanders-cooler-throwing-nypd-969f09a49df89cb7388308f606ca2fe5
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -12,40 +12,41 @@ primary_themes:
 - automotive safety
 - consumer protection
 topic_tags:
-  - "arts, culture, entertainment and media"
-  - "mass media"
-storyline_nexus: []
+- consumer goods
+- manufacturing and engineering
+- technology and engineering
+- transport
+storyline_nexus:
+- extreme-weather-disasters
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
   intensity: 0.9
-- value: accountability_of_power
-  intensity: 0.8
 - value: informed_citizenship
-  intensity: 0.7
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:52:51Z'
 source_cluster_id: cluster_ap_2026-01-26_toyota-tundra-vehicle-screen-recall-f208
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 5
   hedges:
-    appears: 0
     alleged: 0
-    attributed: 0
     reported: 5
+    appears: 0
     contested: 0
+    attributed: 0
     confirmed: 0
   corroboration:
+    single_source: 5
+    two_independent: 0
     primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
     primary_document: 0
-    single_source: 5
-    two_independent: 0
 sources:
   count: 1
   outlets:
@@ -59,13 +60,12 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-04-17-ford-recalls-1-4-million-f-150-trucks-over-gearshift-defect
-  relation: related
-  strength: 0.8793
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
 
 The screen malfunction creates a significant driving hazard by disabling the backup camera feed—a critical safety feature—when drivers attempt to reverse, Toyota said.
 
@@ -91,48 +91,58 @@ Owners who have concerns about their vehicles' safety can contact Toyota custome
 
 ## Atomic claims
 
-### c_001 — reported, single source
-**Subject entities:** Toyota Motor Corp.
-**Predicate:** recalled
-**Object:** 162,000 pickup trucks (recall_scope)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Toyota Motor Corp.
+- **Predicate:** recalled
+- **Object:** 162,000 pickup trucks (recall_scope)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > Toyota recalled approximately 162,000 pickup trucks in the United States.
 
-### c_002 — reported, single source
-**Subject entities:** Toyota Motor Corp.; Tundra
-**Predicate:** affects
-**Object:** model year 2024-2025 Tundra and Tundra Hybrid (vehicle_model)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Toyota Motor Corp.; Tundra
+- **Predicate:** affects
+- **Object:** model year 2024-2025 Tundra and Tundra Hybrid (vehicle_model)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > The recall affects 2024-2025 model year Tundra and Tundra Hybrid trucks.
 
-### c_003 — reported, single source
-**Subject entities:** Tundra multimedia display
-**Predicate:** malfunction_manifests_as
-**Object:** stuck on camera view or complete darkness (malfunction_description)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Tundra multimedia display
+- **Predicate:** malfunction_manifests_as
+- **Object:** stuck on camera view or complete darkness (malfunction_description)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > The multimedia displays may become stuck on a camera view or go completely dark under certain circumstances.
 
-### c_004 — reported, single source
-**Subject entities:** Tundra multimedia display; drivers
-**Predicate:** prevents_visibility
-**Object:** backup camera feed during reverse operation (safety_consequence)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Tundra multimedia display; drivers
+- **Predicate:** prevents_visibility
+- **Object:** backup camera feed during reverse operation (safety_consequence)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > The malfunction prevents drivers from seeing their backup camera feed when reversing.
 
-### c_005 — reported, single source
-**Subject entities:** Tundra multimedia display malfunction
-**Predicate:** violates
-**Object:** federal safety standards (regulation_violation)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Tundra multimedia display malfunction
+- **Predicate:** violates
+- **Object:** federal safety standards (regulation_violation)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > The malfunction potentially violates federal safety standards.
 
@@ -140,10 +150,5 @@ Owners who have concerns about their vehicles' safety can contact Toyota custome
 
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Publication date:** 2026-01-24
-**Access date:** 2026-01-24
 **Title:** Toyota recalls 162,000 Tundra trucks over faulty screens
 **URL:** https://apnews.com/article/toyota-tundra-vehicle-screen-recall-f2087b07a48bad251a2e7c7da00563d4
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

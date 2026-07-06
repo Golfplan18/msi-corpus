@@ -19,47 +19,41 @@ primary_themes:
 - government refunds
 - economic policy
 topic_tags:
-  - politics
-  - government
-  - "crime, law and justice"
-  - judiciary
-  - "disaster, accident and emergency incident"
+- international trade
+- judiciary
+- tax
+- government
 storyline_nexus:
-  - immigration-enforcement
-  - us-administration-2026
-  - trump-tariff-policy
-  - us-china-relations
+- trump-tariff-wars
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
-  intensity: 0.85
-- value: truthfulness
   intensity: 0.9
 - value: informed_citizenship
-  intensity: 0.8
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:59:55Z'
 source_cluster_id: cluster_ap_2026-02-23_trump-tariff-refunds-supreme-court-b7e9f
 gdelt_event_ids: []
-consensus_floor_version: '1.0'
-publication_mindspec_version: '1.0'
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 16
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 11
     reported: 0
     contested: 0
+    attributed: 11
+    appears: 0
     confirmed: 5
+    alleged: 0
   corroboration:
+    single_source: 11
     primary_plus_secondary: 0
+    two_independent: 0
     one_originating_plus_primary_document: 0
     primary_document: 5
-    single_source: 11
-    two_independent: 0
 sources:
   count: 1
   outlets:
@@ -73,25 +67,19 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-04-19-refund-system-opens-for-tariffs-trump-imposed-without-authority
-  relation: continues
-  strength: 0.8939
-  confidence: high
-- slug: 2026-04-19-carney-says-canada-must-reduce-u-s-economic-ties-over-trump-tariffs
-  relation: related
-  strength: 0.7545
-  confidence: medium
-- slug: 2026-01-13-trump-s-iran-tariffs-threaten-us-china-trade-truce-could-raise-american-prices
-  relation: related
-  strength: 0.7781
-  confidence: medium
-- slug: 2026-01-13-trump-visits-dearborn-ford-plant-defends-tariffs-as-voters-worry-about-rising-pr
-  relation: related
-  strength: 0.7382
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- The Supreme Court struck down Trump's tariffs. Now comes the hard work of issuing refunds
+- The Supreme Court struck down Trump's tariffs in a 6-3 decision on February 21, 2026.
+- The Court ruled that Trump's use of the International Emergency Economic Powers Act of 1977 (IEEPA) did not authorize the tariffs.
+- The U.S. Customs agency has collected $133 billion in IEEPA tariffs as of mid-December.
+- Justice Amy Coney Barrett, appointed by Trump, joined the majority in striking down the tariffs.
 
 The refund process will likely prove lengthy and contentious. Trade lawyers estimate refunds could take 12 to 18 months to distribute, though the government could complicate the process. Companies are already lining up with lawsuits, state officials are demanding reimbursement, and the Court's own dissenters warned that years of litigation could follow.
 
@@ -147,153 +135,181 @@ Most countries still face significant U.S. tariffs on specific sectors. Trump ha
 
 The government has little precedent for managing refunds of this scale. In the 1990s, courts struck down a harbor maintenance fee on exports and established a refund system for affected companies. But nothing approaching the current situation—tens of billions of dollars and thousands of claimants.
 
----
-
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification available at /methodology. This work is released under the Creative Commons CC0 public-domain dedication.
-
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Supreme Court of the United States; Donald Trump
-**Predicate:** struck down
-**Object:** Trump's emergency tariffs (court_decision)
-**Temporal:** 2026-02-21
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Supreme Court of the United States; Donald Trump
+- **Predicate:** struck down
+- **Object:** Trump's emergency tariffs (court_decision)
+- **Temporal:** 2026-02-21
+- **Sources:** src_001
 
 > The Supreme Court struck down Trump's tariffs in a 6-3 decision on February 21, 2026.
 
-### c_002 — confirmed, primary document
-**Subject entities:** Supreme Court of the United States; IEEPA
-**Predicate:** ruled
-**Object:** IEEPA does not authorize tariffs (legal_ruling)
-**Temporal:** 2026-02-21
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Supreme Court of the United States; IEEPA
+- **Predicate:** ruled
+- **Object:** IEEPA does not authorize tariffs (legal_ruling)
+- **Temporal:** 2026-02-21
+- **Sources:** src_001
 
 > The Court ruled that Trump's use of the International Emergency Economic Powers Act of 1977 (IEEPA) did not authorize the tariffs.
 
-### c_003 — attributed, single source
-**Subject entities:** U.S. Customs and Border Protection
-**Predicate:** collected
-**Object:** $133 billion (monetary_amount)
-**Temporal:** 2025-12-15
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Customs and Border Protection
+- **Predicate:** collected
+- **Object:** $133 billion (monetary_amount)
+- **Temporal:** 2025-12-15
+- **Sources:** src_001
 
 > The U.S. Customs agency has collected $133 billion in IEEPA tariffs as of mid-December.
 
-### c_004 — confirmed, primary document
-**Subject entities:** Amy Coney Barrett; Supreme Court of the United States
-**Predicate:** joined majority
-**Object:** striking down tariffs (judicial_action)
-**Temporal:** 2026-02-21
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Amy Coney Barrett; Supreme Court of the United States
+- **Predicate:** joined majority
+- **Object:** striking down tariffs (judicial_action)
+- **Temporal:** 2026-02-21
+- **Sources:** src_001
 
 > Justice Amy Coney Barrett, appointed by Trump, joined the majority in striking down the tariffs.
 
-### c_005 — confirmed, primary document
-**Subject entities:** Supreme Court of the United States; Congress
-**Predicate:** ruled
-**Object:** import tax authority belongs to Congress (constitutional_principle)
-**Temporal:** 2026-02-21
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Supreme Court of the United States; Congress
+- **Predicate:** ruled
+- **Object:** import tax authority belongs to Congress (constitutional_principle)
+- **Temporal:** 2026-02-21
+- **Sources:** src_001
 
 > The power to tax imports belongs to Congress, not the president, according to the Court's ruling.
 
-### c_006 — attributed, single source
-**Subject entities:** Joyce Adetutu
-**Predicate:** said
-**Object:** the refund process will be bumpy (prediction)
-**Temporal:** 2026-02-21
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Joyce Adetutu
+- **Predicate:** said
+- **Object:** the refund process will be bumpy (prediction)
+- **Temporal:** 2026-02-21
+- **Sources:** src_001
 
 > Trade lawyer Joyce Adetutu said the refund process would be 'a bumpy ride for awhile.'
 
-### c_007 — attributed, single source
-**Subject entities:** Costco; Revlon; Bumble Bee Foods
-**Predicate:** filed lawsuits
-**Object:** seeking tariff refunds (legal_action)
-**Temporal:** 2026-02-21
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Costco; Revlon; Bumble Bee Foods
+- **Predicate:** filed lawsuits
+- **Object:** seeking tariff refunds (legal_action)
+- **Temporal:** 2026-02-21
+- **Sources:** src_001
 
 > Companies including Costco, Revlon, and Bumble Bee Foods filed lawsuits seeking refunds before the Supreme Court ruled.
 
-### c_008 — attributed, single source
-**Subject entities:** J.B. Pritzker; Illinois
-**Predicate:** demanding refund
-**Object:** $8.7 billion (monetary_claim)
-**Temporal:** 2026-02-21
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** J.B. Pritzker; Illinois
+- **Predicate:** demanding refund
+- **Object:** $8.7 billion (monetary_claim)
+- **Temporal:** 2026-02-21
+- **Sources:** src_001
 
 > Governor J.B. Pritzker of Illinois is demanding a refund, claiming the tariffs cost each Illinois household $1,700, totaling $8.7 billion.
 
-### c_009 — attributed, single source
-**Subject entities:** Zach Conine; Nevada
-**Predicate:** submitted payment request
-**Object:** $2.1 billion (monetary_claim)
-**Temporal:** 2026-02-21
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Zach Conine; Nevada
+- **Predicate:** submitted payment request
+- **Object:** $2.1 billion (monetary_claim)
+- **Temporal:** 2026-02-21
+- **Sources:** src_001
 
 > Nevada Treasurer Zach Conine submitted a payment request for $2.1 billion to recoup tariff costs.
 
-### c_010 — attributed, single source
-**Subject entities:** TD Securities
-**Predicate:** estimates
-**Object:** 12 to 18 months (time_estimate)
-**Temporal:** 2026-02-21
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** TD Securities
+- **Predicate:** estimates
+- **Object:** 12 to 18 months (time_estimate)
+- **Temporal:** 2026-02-21
+- **Sources:** src_001
 
 > TD Securities estimates that tariff refunds could take 12 to 18 months to distribute.
 
-### c_011 — attributed, single source
-**Subject entities:** Alexis Early
-**Predicate:** said
-**Object:** consumers unlikely to get direct refunds (prediction)
-**Temporal:** 2026-02-21
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Alexis Early
+- **Predicate:** said
+- **Object:** consumers unlikely to get direct refunds (prediction)
+- **Temporal:** 2026-02-21
+- **Sources:** src_001
 
 > Trade lawyer Alexis Early said consumers are unlikely to be compensated for higher prices they paid when companies passed along tariff costs.
 
-### c_012 — confirmed, primary document
-**Subject entities:** Brett Kavanaugh; Supreme Court of the United States
-**Predicate:** dissented
-**Object:** tariff decision (judicial_action)
-**Temporal:** 2026-02-21
-**Source IDs:** src_001
+### c_012
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Brett Kavanaugh; Supreme Court of the United States
+- **Predicate:** dissented
+- **Object:** tariff decision (judicial_action)
+- **Temporal:** 2026-02-21
+- **Sources:** src_001
 
 > Justice Brett Kavanaugh dissented from the majority opinion.
 
-### c_013 — attributed, single source
-**Subject entities:** Brett Kavanaugh
-**Predicate:** criticized
-**Object:** failure to address refund mechanism (judicial_statement)
-**Temporal:** 2026-02-21
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Brett Kavanaugh
+- **Predicate:** criticized
+- **Object:** failure to address refund mechanism (judicial_statement)
+- **Temporal:** 2026-02-21
+- **Sources:** src_001
 
 > Kavanaugh criticized the majority for not addressing how the government would return the collected billions.
 
-### c_014 — attributed, single source
-**Subject entities:** Brett Kavanaugh
-**Predicate:** warned
-**Object:** refund process will be a mess (prediction)
-**Temporal:** 2026-02-21
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Brett Kavanaugh
+- **Predicate:** warned
+- **Object:** refund process will be a mess (prediction)
+- **Temporal:** 2026-02-21
+- **Sources:** src_001
 
 > Kavanaugh warned that the refund process is likely to be a 'mess.'
 
-### c_015 — attributed, single source
-**Subject entities:** Donald Trump
-**Predicate:** said
-**Object:** litigation will continue for years (prediction)
-**Temporal:** 2026-02-21
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** said
+- **Object:** litigation will continue for years (prediction)
+- **Temporal:** 2026-02-21
+- **Sources:** src_001
 
 > President Trump said the case would end up in court for 'the next five years.'
 
-### c_016 — attributed, single source
-**Subject entities:** Donald Trump
-**Predicate:** said
-**Object:** expressed shame at justices (statement)
-**Temporal:** 2026-02-21
-**Source IDs:** src_001
+### c_016
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** said
+- **Object:** expressed shame at justices (statement)
+- **Temporal:** 2026-02-21
+- **Sources:** src_001
 
 > Trump said he was 'absolutely ashamed' of some justices who ruled against his tariffs.
 
@@ -302,10 +318,5 @@ This article was generated algorithmically by Main Street Independent's News Art
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Paul Wiseman
 **Publication date:** 2026-02-21
-**Access date:** 2026-02-21
 **Title:** The Supreme Court struck down Trump's tariffs. Now comes the hard work of issuing refunds
 **URL:** https://apnews.com/article/trump-tariff-refunds-supreme-court-b7e9fe351468a1f31974fb27a4e4d44a
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

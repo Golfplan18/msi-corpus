@@ -20,49 +20,45 @@ primary_themes:
 - fisheries management
 - climate change impacts
 topic_tags:
-  - agriculture
-  - "artificial intelligence"
-  - "climate change"
-  - "crime, law and justice"
-  - "economy, business and finance"
-  - environment
+- environment
+- conservation
+- agriculture
+- natural resources
 storyline_nexus:
-  - ai-regulation
-geographic_location: Hawaiʻi, United States
+- extreme-weather-disasters
+geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship
-  intensity: 0.65
-- value: human_life_and_dignity
-  intensity: 0.4
-- value: accountability_of_power
-  intensity: 0.2
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:43:39Z'
+  intensity: 0.9
+- value: truthfulness
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:34:29Z'
 source_cluster_id: cluster_ap_2026-03-09_animals-sharks-hunting-and-fishing-gener
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 16
   hedges:
-    appears: 1
-    alleged: 0
+    confirmed: 0
     attributed: 13
     reported: 2
+    alleged: 0
     contested: 0
-    confirmed: 0
+    appears: 1
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 0
-    single_source: 16
     two_independent: 0
+    single_source: 16
+    primary_plus_secondary: 0
+    primary_document: 0
+    one_originating_plus_primary_document: 0
 sources:
   count: 1
   outlets:
-  - Associated Press / Honolulu Civil Beat
+  - Associated Press
   outlet_classes:
   - wire
   highest_reliability_tier: 1
@@ -75,6 +71,13 @@ figures_aggregate:
 cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- Sharks are intercepting catch directly off hooks at the highest rates recorded in roughly 20 years of state data collection in Hawaiʻi, with depredation incidents now occurring on at least one in four licensed fishing trips in Hawaiian waters, an aquatic biologist with the state said.
+- Researchers at the University of Hawaiʻi Mānoa and commercial repellent developers are testing countermeasures — with mixed results so far — while the Western Pacific Regional Fishery Management Council plans further review of the problem at meetings later this month.
+- Sharks are intercepting catch directly off hooks at the highest rates recorded in roughly 20 years of state data collection in Hawaiʻi, with depredation incidents now occurring on at least one in four licensed fishing trips in Hawaiian waters, an aquatic biologist with the state said. The surge has pushed many small-boat fishers who pursue prized bottomfish such as ehu, onaga and opakapaka to the edge of abandoning their livelihoods, according to a fishing industry advocate..
 
 Sharks are intercepting catch directly off hooks at the highest rates recorded in roughly 20 years of state data collection in Hawaiʻi, with depredation incidents now occurring on at least one in four licensed fishing trips in Hawaiian waters, an aquatic biologist with the state said. The surge has pushed many small-boat fishers who pursue prized bottomfish such as ehu, onaga and opakapaka to the edge of abandoning their livelihoods, according to a fishing industry advocate.
 
@@ -130,159 +133,186 @@ Fitchett said the council plans to release a more detailed report on the situati
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** sharks; Hawaiian waters
-**Predicate:** depredation_rate
-**Object:** at least 1 in 4 licensed fishing trips (rate)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** sharks; Hawaiian waters
+- **Predicate:** depredation_rate
+- **Object:** at least 1 in 4 licensed fishing trips (rate)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > Sharks now bite off catch in at least one in four licensed fishing trips out on Hawaiian waters.
 
-### c_002 — attributed, single source
-**Subject entities:** shark depredation; Hawaiʻi; Bryan Ishida
-**Predicate:** at_record_level
-**Object:** highest on record in ~20 years (qualitative_assessment)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** shark depredation; Hawaiʻi; Bryan Ishida
+- **Predicate:** at_record_level
+- **Object:** highest on record in ~20 years (qualitative_assessment)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > Shark depredation rates are currently at their highest on record in the roughly 20 years the state has been collecting that data, according to aquatic biologist Bryan Ishida.
 
-### c_003 — attributed, single source
-**Subject entities:** Phil Fernandez; Hawaiʻi Fishermen's Alliance for Conservation and Tradition
-**Predicate:** financial_harm
-**Object:** fish markets won't buy bitten fish (economic_impact)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Phil Fernandez; Hawaiʻi Fishermen's Alliance for Conservation and Tradition
+- **Predicate:** financial_harm
+- **Object:** fish markets won't buy bitten fish (economic_impact)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > Phil Fernandez said small-boat fishers are losing money because fish markets will not buy fish that have a bite on them.
 
-### c_004 — reported, single source
-**Subject entities:** Hawaiʻi small-boat fishers
-**Predicate:** trade_abandonment_risk
-**Object:** verge of giving up the trade (economic_impact)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Hawaiʻi small-boat fishers
+- **Predicate:** trade_abandonment_risk
+- **Object:** verge of giving up the trade (economic_impact)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > Many bottomfishers, trollers and others who rely on catch for their livelihood are on the verge of giving up the trade, according to Fernandez.
 
-### c_005 — attributed, single source
-**Subject entities:** Phil Fernandez
-**Predicate:** historical_account
-**Object:** depredation not an issue in late 1980s; emerged in past 20 years (timeline)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Phil Fernandez
+- **Predicate:** historical_account
+- **Object:** depredation not an issue in late 1980s; emerged in past 20 years (timeline)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > Fernandez has been troll-fishing off the Kona Coast since the late 1980s and said shark depredation was not an issue when he started fishing there.
 
-### c_006 — appears, single source
-**Subject entities:** shark depredation; climate change
-**Predicate:** possible_cause
-**Object:** warming waters shifting prey fish distribution (hypothesis)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_006
+- **Hedge:** appears
+- **Corroboration:** single_source
+- **Subject entities:** shark depredation; climate change
+- **Predicate:** possible_cause
+- **Object:** warming waters shifting prey fish distribution (hypothesis)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > It is not clear what is causing the uptick in shark depredation; some suspect it is related to warming waters due to climate change driving prey fish to different areas.
 
-### c_007 — reported, single source
-**Subject entities:** Penguin Banks; Molokaʻi
-**Predicate:** behavioral_adaptation
-**Object:** constant movement to avoid sharks (fisher_behavior)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Penguin Banks; Molokaʻi
+- **Predicate:** behavioral_adaptation
+- **Object:** constant movement to avoid sharks (fisher_behavior)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > Boats working the Penguin Banks fishing grounds off Molokaʻi now constantly move around to avoid sharks spotted nearby.
 
-### c_008 — attributed, single source
-**Subject entities:** electromagnetic repellents; Kona Coast
-**Predicate:** test_result
-**Object:** not practical; hooks tangle (trial_outcome)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** electromagnetic repellents; Kona Coast
+- **Predicate:** test_result
+- **Object:** not practical; hooks tangle (trial_outcome)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > Electromagnetic repellent devices tested off the Kona Coast are not practical because hooks become tangled around them, according to Fernandez.
 
-### c_009 — attributed, single source
-**Subject entities:** Eric Stroud; SharkDefense; electric-charge repellents
-**Predicate:** cost
-**Object:** $150 to $300 per device (price_range)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Eric Stroud; SharkDefense; electric-charge repellents
+- **Predicate:** cost
+- **Object:** $150 to $300 per device (price_range)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > Electric-charge repellent devices cost between $150 and $300 apiece, according to Eric Stroud of SharkDefense.
 
-### c_010 — attributed, single source
-**Subject entities:** SharkDefense; chemical repellent
-**Predicate:** cost
-**Object:** $1 per hook (price)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** SharkDefense; chemical repellent
+- **Predicate:** cost
+- **Object:** $1 per hook (price)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > SharkDefense chemical repellent derived from decaying sharks costs approximately $1 per hook, according to Stroud.
 
-### c_011 — attributed, single source
-**Subject entities:** Hawaiʻi
-**Predicate:** prohibition
-**Object:** shark fishing prohibited (legal_status)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Hawaiʻi
+- **Predicate:** prohibition
+- **Object:** shark fishing prohibited (legal_status)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > All shark fishing is prohibited in Hawaiʻi.
 
-### c_012 — attributed, single source
-**Subject entities:** Hawaiʻi Institute of Marine Biology; University of Hawaiʻi Mānoa
-**Predicate:** training_program
-**Object:** forensic DNA kits to identify responsible shark species (research_activity)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Hawaiʻi Institute of Marine Biology; University of Hawaiʻi Mānoa
+- **Predicate:** training_program
+- **Object:** forensic DNA kits to identify responsible shark species (research_activity)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > University of Hawaiʻi Mānoa's Hawaiʻi Institute of Marine Biology is training local fishers to use forensic DNA kits on torn and bitten fish to trace which shark species took their catch.
 
-### c_013 — attributed, single source
-**Subject entities:** Carl Meyer; Hawaiʻi Institute of Marine Biology
-**Predicate:** research_effort_description
-**Object:** first comprehensive effort to understand and mitigate shark depredation (research_claim)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Carl Meyer; Hawaiʻi Institute of Marine Biology
+- **Predicate:** research_effort_description
+- **Object:** first comprehensive effort to understand and mitigate shark depredation (research_claim)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > Carl Meyer said the institute is building the first truly comprehensive effort to understand and mitigate shark depredation in Hawaiian fisheries.
 
-### c_014 — attributed, single source
-**Subject entities:** Western Pacific Regional Fishery Management Council
-**Predicate:** institutional_action
-**Object:** February workshop; SSC report March 17 (regulatory_process)
-**Temporal:** 2026-02-01
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Western Pacific Regional Fishery Management Council
+- **Predicate:** institutional_action
+- **Object:** February workshop; SSC report March 17 (regulatory_process)
+- **Temporal:** 2026-02-01
+- **Sources:** src_001
 
 > The Western Pacific Regional Fishery Management Council held a follow-up workshop in February on shark depredation and plans to report findings at its Scientific and Statistical Committee meeting March 17.
 
-### c_015 — attributed, single source
-**Subject entities:** Western Pacific Regional Fishery Management Council; Ala Moana Hotel
-**Predicate:** meeting_scheduled
-**Object:** March 24-26, Ala Moana Hotel (event)
-**Temporal:** 2026-03-24
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Western Pacific Regional Fishery Management Council; Ala Moana Hotel
+- **Predicate:** meeting_scheduled
+- **Object:** March 24-26, Ala Moana Hotel (event)
+- **Temporal:** 2026-03-24
+- **Sources:** src_001
 
 > Wespac's quarterly meeting is scheduled for March 24-26 at the Ala Moana Hotel in Honolulu.
 
-### c_016 — attributed, single source
-**Subject entities:** Mark Fitchett; Hawaiʻi small-boat fishers
-**Predicate:** range_of_fisher_views
-**Object:** divided views on shark protections vs ecosystem health (community_perspective)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_016
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Mark Fitchett; Hawaiʻi small-boat fishers
+- **Predicate:** range_of_fisher_views
+- **Object:** divided views on shark protections vs ecosystem health (community_perspective)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > Mark Fitchett said many fishers believe sharks benefit from too many environmental protections, while others see the changes as the cost of a relatively healthy ecosystem.
 
 ## Sources
 
-### src_001 — Associated Press / Honolulu Civil Beat, wire, Tier 1, originating
-**Author:** Marcel Honoré
+### src_001 — Associated Press, wire, Tier 1, originating
+**Author:** Marcel Honoré / Honolulu Civil Beat
 **Publication date:** 2026-03-10
-**Access date:** 2026-03-10
-**Title:** Stop! Thief! Sharks Are Taking A Larger Bite Of Hawaiʻi Fishermen's Catch
+**Title:** Stop! Thief! Sharks Are Taking A Larger Bite Of Hawaiʻi Fishermen’s Catch
 **URL:** https://apnews.com/article/animals-sharks-hunting-and-fishing-general-news-38ce10bea1d782ba0d4f0d85bd19f3fd
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

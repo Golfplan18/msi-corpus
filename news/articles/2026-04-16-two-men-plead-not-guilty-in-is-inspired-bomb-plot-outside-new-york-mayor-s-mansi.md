@@ -22,7 +22,8 @@ topic_tags:
   - "law enforcement"
   - "political dissent"
   - trial
-storyline_nexus: []
+storyline_nexus:
+- gaza-israel-war
 geographic_location: New York City, New York, United States
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -101,93 +102,113 @@ Balat's attorney declined to comment after the hearing. Attorneys for Kayumi did
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Emir Balat; Ibrahim Kayumi
-**Predicate:** pleaded_not_guilty
-**Object:** federal terrorism charges (legal_plea)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Emir Balat; Ibrahim Kayumi
+- **Predicate:** pleaded_not_guilty
+- **Object:** federal terrorism charges (legal_plea)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Emir Balat, 18, and Ibrahim Kayumi, 19, pleaded not guilty on April 15, 2026, to federal terrorism charges in Manhattan.
 
-### c_002 — attributed, primary document
-**Subject entities:** Emir Balat; Ibrahim Kayumi
-**Predicate:** charged_with
-**Object:** material support to FTO; WMD use (criminal_charges)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Emir Balat; Ibrahim Kayumi
+- **Predicate:** charged_with
+- **Object:** material support to FTO; WMD use (criminal_charges)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Balat and Kayumi face charges of attempting to provide material support to a foreign terrorist organization and using a weapon of mass destruction.
 
-### c_003 — attributed, primary document
-**Subject entities:** Emir Balat; Ibrahim Kayumi; Gracie Mansion
-**Predicate:** allegedly_traveled_to_attack
-**Object:** anti-Islam protest at Gracie Mansion (alleged_act)
-**Temporal:** 2026-03-07
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Emir Balat; Ibrahim Kayumi; Gracie Mansion
+- **Predicate:** allegedly_traveled_to_attack
+- **Object:** anti-Islam protest at Gracie Mansion (alleged_act)
+- **Temporal:** 2026-03-07
+- **Sources:** src_001
 
 > Prosecutors allege Balat and Kayumi drove from Pennsylvania to Manhattan on March 7 to attack an anti-Islam protest at Gracie Mansion.
 
-### c_004 — attributed, single source
-**Subject entities:** Jake Lang; Zohran Mamdani; Gracie Mansion
-**Predicate:** hosted_protest
-**Object:** anti-Islam demonstration (event)
-**Temporal:** 2026-03-07
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jake Lang; Zohran Mamdani; Gracie Mansion
+- **Predicate:** hosted_protest
+- **Object:** anti-Islam demonstration (event)
+- **Temporal:** 2026-03-07
+- **Sources:** src_001
 
 > The March 7 protest at Gracie Mansion was hosted by Jake Lang, a far-right activist and critic of Mayor Zohran Mamdani.
 
-### c_005 — attributed, single source
-**Subject entities:** Zohran Mamdani
-**Predicate:** is_first_Muslim_NYC_mayor
-**Object:** first Muslim NYC mayor (biographical_fact)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Zohran Mamdani
+- **Predicate:** is_first_Muslim_NYC_mayor
+- **Object:** first Muslim NYC mayor (biographical_fact)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Zohran Mamdani is the first Muslim to hold the office of New York City mayor.
 
-### c_006 — attributed, primary document
-**Subject entities:** Emir Balat; Ibrahim Kayumi
-**Predicate:** allegedly_threw_devices
-**Object:** two TATP devices with shrapnel (alleged_act)
-**Temporal:** 2026-03-07
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Emir Balat; Ibrahim Kayumi
+- **Predicate:** allegedly_threw_devices
+- **Object:** two TATP devices with shrapnel (alleged_act)
+- **Temporal:** 2026-03-07
+- **Sources:** src_001
 
 > Prosecutors say Balat and Kayumi threw two jar-sized devices containing the explosive TATP and shrapnel; both failed to detonate.
 
-### c_007 — attributed, primary document
-**Subject entities:** Emir Balat; Ibrahim Kayumi; Zohran Mamdani
-**Predicate:** outcome
-**Object:** no injuries; both detained; mayor absent (outcome)
-**Temporal:** 2026-03-07
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Emir Balat; Ibrahim Kayumi; Zohran Mamdani
+- **Predicate:** outcome
+- **Object:** no injuries; both detained; mayor absent (outcome)
+- **Temporal:** 2026-03-07
+- **Sources:** src_001
 
 > No one was injured in the incident and the pair were quickly detained; the mayor and his wife were not at the residence at the time.
 
-### c_008 — attributed, primary document
-**Subject entities:** Emir Balat; Ibrahim Kayumi; Islamic State group
-**Predicate:** self-reported_inspiration
-**Object:** Islamic State group (alleged_motivation)
-**Temporal:** 2026-03-07
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Emir Balat; Ibrahim Kayumi; Islamic State group
+- **Predicate:** self-reported_inspiration
+- **Object:** Islamic State group (alleged_motivation)
+- **Temporal:** 2026-03-07
+- **Sources:** src_001
 
 > Balat and Kayumi told police they were inspired by the Islamic State group, according to a federal complaint.
 
-### c_009 — attributed, primary document
-**Subject entities:** Emir Balat; Ibrahim Kayumi
-**Predicate:** recorded_planning
-**Object:** kill up to 60 people; start terror (alleged_statement)
-**Temporal:** 2026-03-07
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Emir Balat; Ibrahim Kayumi
+- **Predicate:** recorded_planning
+- **Object:** kill up to 60 people; start terror (alleged_statement)
+- **Temporal:** 2026-03-07
+- **Sources:** src_001
 
 > A vehicle dashcam recording captured the two describing a plan to kill as many as 60 people to 'start terror,' according to prosecutors.
 
-### c_010 — confirmed, single source
-**Subject entities:** Emir Balat; Ibrahim Kayumi
-**Predicate:** next_court_date
-**Object:** 2026-06-16 (scheduled_date)
-**Temporal:** 2026-06-16
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Emir Balat; Ibrahim Kayumi
+- **Predicate:** next_court_date
+- **Object:** 2026-06-16 (scheduled_date)
+- **Temporal:** 2026-06-16
+- **Sources:** src_001
 
 > The next court date for Balat and Kayumi is June 16.
 
@@ -198,7 +219,3 @@ Balat's attorney declined to comment after the hearing. Attorneys for Kayumi did
 **Access date:** 2026-05-17
 **Title:** Men charged with bringing bombs to anti-Muslim New York protest plead not guilty
 **URL:** https://apnews.com/article/new-york-mayor-mansion-islamic-state-bomb-186c4b08feb906c56898c96081752dc8
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -23,8 +23,7 @@ topic_tags:
   - "armed conflict"
   - "conflict, war and peace"
 storyline_nexus:
-  - iran-war
-  - russia-ukraine-war
+- the-iran-war
 geographic_location: Middle East; Ukraine; United States
 floor_values_engaged:
 - value: informed_citizenship
@@ -290,7 +289,3 @@ Michael Robbins, president and CEO of AUVSI, a drone industry group, said lesson
 **Access date:** 2026-03-06
 **Title:** US to send anti-drone system to the Mideast, officials say
 **URL:** https://apnews.com/article/iran-drones-ukraine-russia-war-merops-75295389d8464a61d2383fb0221f4ba1
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

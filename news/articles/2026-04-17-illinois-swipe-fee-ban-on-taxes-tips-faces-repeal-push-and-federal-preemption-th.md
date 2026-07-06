@@ -28,7 +28,8 @@ topic_tags:
   - "crime, law and justice"
   - "economy, business and finance"
   - judiciary
-storyline_nexus: []
+storyline_nexus:
+- snap-safety-net-cuts
 geographic_location: Illinois, United States
 floor_values_engaged:
 - value: informed_citizenship
@@ -127,156 +128,190 @@ Karr said the industry's warnings amounted to a pressure campaign, not a genuine
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Illinois Interchange Fee Prohibition Act
-**Predicate:** scheduled_to_take_effect
-**Object:** 2026-07-01 (date)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Illinois Interchange Fee Prohibition Act
+- **Predicate:** scheduled_to_take_effect
+- **Object:** 2026-07-01 (date)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > Illinois's Interchange Fee Prohibition Act is scheduled to take effect July 1, 2026.
 
-### c_002 — confirmed, primary document
-**Subject entities:** Illinois Interchange Fee Prohibition Act
-**Predicate:** prohibits
-**Object:** interchange fees on tax and tip portions (legal_provision)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Illinois Interchange Fee Prohibition Act
+- **Predicate:** prohibits
+- **Object:** interchange fees on tax and tip portions (legal_provision)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > The law prohibits financial institutions from charging interchange fees on the tax and tip portions of consumer bills and from making up the fees elsewhere.
 
-### c_003 — confirmed, single source
-**Subject entities:** Electronic Payments Coalition
-**Predicate:** is_running
-**Object:** seven-figure ad campaign for repeal (advocacy_action)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Electronic Payments Coalition
+- **Predicate:** is_running
+- **Object:** seven-figure ad campaign for repeal (advocacy_action)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > The Electronic Payments Coalition is running a seven-figure advertising campaign urging repeal of the law.
 
-### c_004 — attributed, single source
-**Subject entities:** Rob Karr; Illinois Retail Merchants Association
-**Predicate:** said
-**Object:** complete fabrication (attributed_statement)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Rob Karr; Illinois Retail Merchants Association
+- **Predicate:** said
+- **Object:** complete fabrication (attributed_statement)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > Illinois Retail Merchants Association president Rob Karr called the financial industry's compliance-difficulty claims a 'complete fabrication.'
 
-### c_005 — confirmed, primary document
-**Subject entities:** Virginia Kendall
-**Predicate:** ruled
-**Object:** Illinois can regulate interchange fees (court_ruling)
-**Temporal:** 2026-02
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Virginia Kendall
+- **Predicate:** ruled
+- **Object:** Illinois can regulate interchange fees (court_ruling)
+- **Temporal:** 2026-02
+- **Sources:** src_001
 
 > U.S. District Judge Virginia Kendall determined in February 2026 that Illinois is within its rights to regulate interchange fees.
 
-### c_006 — attributed, single source
-**Subject entities:** Seventh Circuit Court of Appeals
-**Predicate:** scheduled_oral_arguments
-**Object:** 2026-05-13 (date)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Seventh Circuit Court of Appeals
+- **Predicate:** scheduled_oral_arguments
+- **Object:** 2026-05-13 (date)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > Oral arguments at the Seventh Circuit Court of Appeals were scheduled for May 13, 2026.
 
-### c_007 — appears, single source
-**Subject entities:** Office of the Comptroller of the Currency
-**Predicate:** appeared_poised_to_issue
-**Object:** preemption order (regulatory_action)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_007
+- **Hedge:** appears
+- **Corroboration:** single_source
+- **Subject entities:** Office of the Comptroller of the Currency
+- **Predicate:** appeared_poised_to_issue
+- **Object:** preemption order (regulatory_action)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > The federal Office of the Comptroller of the Currency appeared poised to issue an order preempting Illinois's law as of late April 16, 2026, though the order had not been published.
 
-### c_008 — confirmed, single source
-**Subject entities:** Margaret Croke
-**Predicate:** sponsoring
-**Object:** full repeal bill (legislation)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Margaret Croke
+- **Predicate:** sponsoring
+- **Object:** full repeal bill (legislation)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > State Rep. Margaret Croke, D-Chicago, is sponsoring a bill to fully repeal the Interchange Fee Prohibition Act.
 
-### c_009 — attributed, single source
-**Subject entities:** Margaret Croke
-**Predicate:** said
-**Object:** not planning to move repeal bill; delay more likely (attributed_statement)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Margaret Croke
+- **Predicate:** said
+- **Object:** not planning to move repeal bill; delay more likely (attributed_statement)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > As of the week before April 16, Croke said she was not planning to move the repeal bill and considered a further delay in implementation more likely than repeal.
 
-### c_010 — reported, single source
-**Subject entities:** Illinois Interchange Fee Prohibition Act
-**Predicate:** would_reduce
-**Object:** approximately 10 percent of interchange revenue (financial_impact)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Illinois Interchange Fee Prohibition Act
+- **Predicate:** would_reduce
+- **Object:** approximately 10 percent of interchange revenue (financial_impact)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > The tax-and-tip prohibition would reduce interchange fee revenue for banks and credit unions by approximately 10 percent.
 
-### c_011 — attributed, single source
-**Subject entities:** Rob Karr; Illinois Retail Merchants Association
-**Predicate:** estimated
-**Object:** north of $200 million for retailers (financial_estimate)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Rob Karr; Illinois Retail Merchants Association
+- **Predicate:** estimated
+- **Object:** north of $200 million for retailers (financial_estimate)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > IRMA president Rob Karr estimated the prohibition would bring 'north of $200 million' for retailers.
 
-### c_012 — attributed, single source
-**Subject entities:** Electronic Payments Coalition
-**Predicate:** estimated
-**Object:** $118 million, 40% to top 40 retailers (financial_estimate)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Electronic Payments Coalition
+- **Predicate:** estimated
+- **Object:** $118 million, 40% to top 40 retailers (financial_estimate)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > An Electronic Payments Coalition study estimated $118 million in retailer savings, with about 40 percent going to the 40 largest retailers.
 
-### c_013 — attributed, single source
-**Subject entities:** Ben Jackson; Illinois Bankers Association
-**Predicate:** said
-**Object:** about 30 states considering similar legislation (attributed_statement)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ben Jackson; Illinois Bankers Association
+- **Predicate:** said
+- **Object:** about 30 states considering similar legislation (attributed_statement)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > About 30 states are considering legislation similar to Illinois's interchange fee prohibition, according to Ben Jackson of the Illinois Bankers Association.
 
-### c_014 — confirmed, single source
-**Subject entities:** Illinois Interchange Fee Prohibition Act; J.B. Pritzker
-**Predicate:** enacted_as_part_of
-**Object:** May 2024 state budget (legislative_context)
-**Temporal:** 2024-05
-**Source IDs:** src_001
+### c_014
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Illinois Interchange Fee Prohibition Act; J.B. Pritzker
+- **Predicate:** enacted_as_part_of
+- **Object:** May 2024 state budget (legislative_context)
+- **Temporal:** 2024-05
+- **Sources:** src_001
 
 > The Interchange Fee Prohibition Act was tucked into the May 2024 state budget alongside a $1,000 monthly cap on the retailer's exemption.
 
-### c_015 — confirmed, primary document
-**Subject entities:** Illinois Interchange Fee Prohibition Act
-**Predicate:** provides_for
-**Object:** $1,000 civil penalty per transaction after 30-day noncompliance (legal_provision)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_015
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Illinois Interchange Fee Prohibition Act
+- **Predicate:** provides_for
+- **Object:** $1,000 civil penalty per transaction after 30-day noncompliance (legal_provision)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > The law allows retailers to petition for reimbursement of fees charged on tax and tips within 180 days; financial institutions that fail to comply within 30 days face civil penalties of $1,000 per transaction.
 
-### c_016 — reported, single source
-**Subject entities:** Visa; Mastercard
-**Predicate:** set
-**Object:** interchange fees of approximately 1-2% of transaction cost (financial_mechanism)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_016
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Visa; Mastercard
+- **Predicate:** set
+- **Object:** interchange fees of approximately 1-2% of transaction cost (financial_mechanism)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > Interchange fees are typically around 1% to 2% of the transaction cost and are set by Visa and Mastercard.
 
-### c_017 — confirmed, primary document
-**Subject entities:** Virginia Kendall
-**Predicate:** wrote
-**Object:** onus of compliance is on financial institutions (court_opinion)
-**Temporal:** 2026-02
-**Source IDs:** src_001
+### c_017
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Virginia Kendall
+- **Predicate:** wrote
+- **Object:** onus of compliance is on financial institutions (court_opinion)
+- **Temporal:** 2026-02
+- **Sources:** src_001
 
 > Judge Kendall wrote that the Interchange Fee Provision is 'indisputably disruptive' but that financial institutions and card networks 'understand the onus of IFPA compliance is on them.'
 
@@ -288,7 +323,3 @@ Karr said the industry's warnings amounted to a pressure campaign, not a genuine
 **Access date:** 2026-04-17
 **Title:** 'Credit card chaos'? Financial institutions bet big on repeal of first-of-its-kind Illinois law
 **URL:** https://apnews.com/article/credit-card-law-illinois-swipe-fees-repeal-effort-b1de876ba4dc1d4e5b839bf786a768a2
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

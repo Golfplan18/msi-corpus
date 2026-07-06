@@ -23,44 +23,41 @@ primary_themes:
 - interest rates
 - inflation
 topic_tags:
-  - "politics"
-  - "government"
-  - "crime, law and justice"
-  - "prosecution"
+- government policy
+- monetary policy
+- economy
+- law
+- politics
 storyline_nexus:
-  - us-administration-2026
-  - trump-tariff-policy
-  - monetary-policy-2026
-geographic_location: Washington, D.C., United States
+- trump-vs-federal-reserve
+geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
   intensity: 0.9
 - value: informed_citizenship
-  intensity: 0.85
-- value: truthfulness
   intensity: 0.6
-framework_version: 1.1.0
-generation_timestamp: '2026-01-12T00:00:00Z'
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:07:31Z'
 source_cluster_id: cluster_ap_2026-01-12_eeuu-reserva-federal-independencia-trump
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 16
   hedges:
-    appears: 0
     alleged: 0
-    attributed: 4
     reported: 7
-    contested: 0
     confirmed: 5
+    contested: 0
+    appears: 0
+    attributed: 4
   corroboration:
-    primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
-    primary_document: 0
+    primary_plus_secondary: 0
     single_source: 16
+    primary_document: 0
     two_independent: 0
 sources:
   count: 1
@@ -82,6 +79,15 @@ image:
 cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Powell, in a departure from his previous responses to Trump administration pressure, called the criminal charge threat mere "pretexts" to undermine the Fed''s independence on rate policy.' nut_graf: The confrontation has renewed scrutiny of why central bank independence matters to financial markets and the broader economy, and what federal law actually allows a president to do to influence Fed policy.
+- The Trump administration's Justice Department threatened Federal Reserve Chair Jerome Powell with criminal indictment over testimony he gave about the central bank's headquarters renovation, escalating a months-long campaign to exert greater control over the institution and its interest-rate decisions, the Associated Press reported.
+- Powell, in a departure from his previous responses to Trump administration pressure, called the criminal charge threat mere "pretexts" to undermine the Fed's independence on rate policy.
+- The confrontation has renewed scrutiny of why central bank independence matters to financial markets and the broader economy, and what federal law actually allows a president to do to influence Fed policy.
 
 The Trump administration's Justice Department threatened Federal Reserve Chair Jerome Powell with criminal indictment over testimony he gave about the central bank's headquarters renovation, escalating a months-long campaign to exert greater control over the institution and its interest-rate decisions, the Associated Press reported.
 
@@ -127,147 +133,179 @@ Congress defines the Fed's objectives through legislation. In 1977, it gave the 
 
 ## Atomic claims
 
-### c_001 — reported, single source
-**Subject entities:** U.S. Department of Justice; Jerome Powell
-**Predicate:** threatened_with_indictment
-**Object:** criminal indictment over building renovation testimony (legal_threat)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Department of Justice; Jerome Powell
+- **Predicate:** threatened_with_indictment
+- **Object:** criminal indictment over building renovation testimony (legal_threat)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > The Justice Department threatened Federal Reserve Chair Jerome Powell with criminal indictment over testimony he gave about the Fed's $2.5 billion headquarters renovation.
 
-### c_002 — attributed, single source
-**Subject entities:** Jerome Powell
-**Predicate:** characterized_threat
-**Object:** pretexts (attributed_characterization)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jerome Powell
+- **Predicate:** characterized_threat
+- **Object:** pretexts (attributed_characterization)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Powell described the criminal charge threat as 'pretexts' to undermine the Fed's independence on interest-rate policy.
 
-### c_003 — attributed, single source
-**Subject entities:** Thom Tillis
-**Predicate:** stated
-**Object:** administration pushing to end Fed independence (political_statement)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Thom Tillis
+- **Predicate:** stated
+- **Object:** administration pushing to end Fed independence (political_statement)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Senator Thom Tillis said there should be no doubt that advisers inside the Trump administration are actively pushing to end the independence of the Federal Reserve.
 
-### c_004 — reported, single source
-**Subject entities:** U.S. financial markets
-**Predicate:** declined
-**Object:** stocks fell, bond yields rose, dollar fell (market_movement)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** U.S. financial markets
+- **Predicate:** declined
+- **Object:** stocks fell, bond yields rose, dollar fell (market_movement)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > All major U.S. markets fell when trading opened Monday, bond yields rose, and the value of the dollar fell.
 
-### c_005 — attributed, single source
-**Subject entities:** Federal Reserve
-**Predicate:** rate_level
-**Object:** 3.6% (interest_rate)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Federal Reserve
+- **Predicate:** rate_level
+- **Object:** 3.6% (interest_rate)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > The Fed's short-term rate stands at 3.6%, its lowest level in nearly three years.
 
-### c_006 — reported, single source
-**Subject entities:** Donald Trump; Lisa Cook; Bill Pulte
-**Predicate:** seeking_removal
-**Object:** unproven mortgage fraud accusations (political_action)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Lisa Cook; Bill Pulte
+- **Predicate:** seeking_removal
+- **Object:** unproven mortgage fraud accusations (political_action)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Trump is seeking to remove Governor Lisa Cook over unproven accusations of mortgage fraud made by Bill Pulte, a Trump designee to the Federal Housing Administration.
 
-### c_007 — confirmed, single source
-**Subject entities:** Lisa Cook
-**Predicate:** term_ends
-**Object:** 2038 (date)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Lisa Cook
+- **Predicate:** term_ends
+- **Object:** 2038 (date)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Cook's term on the Fed board runs until 2038.
 
-### c_008 — attributed, single source
-**Subject entities:** Paul Volcker; Federal Reserve
-**Predicate:** raised_rate
-**Object:** nearly 20% (interest_rate)
-**Temporal:** 1979-1982
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Paul Volcker; Federal Reserve
+- **Predicate:** raised_rate
+- **Object:** nearly 20% (interest_rate)
+- **Temporal:** 1979-1982
+- **Sources:** src_001
 
 > Paul Volcker raised the Fed's short-term rate to nearly 20%, triggering a severe recession and unemployment of nearly 11%.
 
-### c_009 — reported, single source
-**Subject entities:** Federal Reserve; Paul Volcker
-**Predicate:** inflation_reduced
-**Object:** low single digits (inflation_level)
-**Temporal:** mid-1980s
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Federal Reserve; Paul Volcker
+- **Predicate:** inflation_reduced
+- **Object:** low single digits (inflation_level)
+- **Temporal:** mid-1980s
+- **Sources:** src_001
 
 > By the mid-1980s, inflation had returned to low single digits following Volcker's rate increases.
 
-### c_010 — reported, single source
-**Subject entities:** Recep Tayyip Erdogan; Turkey
-**Predicate:** suppressed_rates
-**Object:** inflation hit 85%; rates rose to 50% after independence restored (economic_outcome)
-**Temporal:** 2020-2023
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Recep Tayyip Erdogan; Turkey
+- **Predicate:** suppressed_rates
+- **Object:** inflation hit 85%; rates rose to 50% after independence restored (economic_outcome)
+- **Temporal:** 2020-2023
+- **Sources:** src_001
 
 > Turkish President Erdogan forced the central bank to hold rates low while inflation soared to 85%; after he allowed greater independence in 2023, short-term rates climbed to 50%.
 
-### c_011 — reported, single source
-**Subject entities:** U.S. Supreme Court
-**Predicate:** suggested_legal_standard
-**Object:** cannot fire solely for policy disagreement; cause required (legal_guidance)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Supreme Court
+- **Predicate:** suggested_legal_standard
+- **Object:** cannot fire solely for policy disagreement; cause required (legal_guidance)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > The Supreme Court suggested last year that a president cannot fire the Fed chair solely for policy disagreement, but could remove him for cause.
 
-### c_012 — confirmed, single source
-**Subject entities:** Jerome Powell
-**Predicate:** term_expires
-**Object:** May 2026 (date)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_012
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Jerome Powell
+- **Predicate:** term_expires
+- **Object:** May 2026 (date)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Powell's term as Fed chair expires in May.
 
-### c_013 — confirmed, single source
-**Subject entities:** Federal Open Market Committee
-**Predicate:** committee_structure
-**Object:** 12 voting members (institutional_fact)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_013
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Federal Open Market Committee
+- **Predicate:** committee_structure
+- **Object:** 12 voting members (institutional_fact)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Twelve members of the Fed's rate-setting committee hold a vote on whether to raise or lower interest rates.
 
-### c_014 — confirmed, single source
-**Subject entities:** U.S. Congress; Federal Reserve
-**Predicate:** established_mandate
-**Object:** dual mandate: stable prices and maximum employment (legislative_fact)
-**Temporal:** 1977
-**Source IDs:** src_001
+### c_014
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Congress; Federal Reserve
+- **Predicate:** established_mandate
+- **Object:** dual mandate: stable prices and maximum employment (legislative_fact)
+- **Temporal:** 1977
+- **Sources:** src_001
 
 > Congress gave the Fed a dual mandate to maintain stable prices and pursue maximum employment in 1977; the Fed defines stable prices as 2% inflation.
 
-### c_015 — confirmed, single source
-**Subject entities:** Joe Biden; Federal Reserve Board
-**Predicate:** appointed
-**Object:** Powell, Cook, Jefferson, Barr (appointments)
-**Temporal:** 2021-2024
-**Source IDs:** src_001
+### c_015
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Joe Biden; Federal Reserve Board
+- **Predicate:** appointed
+- **Object:** Powell, Cook, Jefferson, Barr (appointments)
+- **Temporal:** 2021-2024
+- **Sources:** src_001
 
 > Biden appointed four of the seven current Fed board members: Powell, Cook, Philip Jefferson, and Michael Barr.
 
-### c_016 — reported, single source
-**Subject entities:** Adriana Kugler; Stephen Miran; Donald Trump
-**Predicate:** resigned_and_replaced
-**Object:** Kugler resigned August 2025; Miran nominated pending Senate confirmation (personnel_change)
-**Temporal:** 2025-08
-**Source IDs:** src_001
+### c_016
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Adriana Kugler; Stephen Miran; Donald Trump
+- **Predicate:** resigned_and_replaced
+- **Object:** Kugler resigned August 2025; Miran nominated pending Senate confirmation (personnel_change)
+- **Temporal:** 2025-08
+- **Sources:** src_001
 
 > Governor Adriana Kugler resigned unexpectedly in August, roughly five months before her term ended; Trump has nominated Stephen Miran as a potential replacement.
 
@@ -276,10 +314,5 @@ Congress defines the Fed's objectives through legislation. In 1977, it gave the 
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Christopher Rugaber
 **Publication date:** 2026-01-12
-**Access date:** 2026-01-12
-**Title:** Why the Federal Reserve has historically been independent from the White House
+**Title:** Por qué la Reserva Federal ha sido históricamente independiente de la Casa Blanca
 **URL:** https://apnews.com/article/eeuu-reserva-federal-independencia-trump-powell-e1a47f7d33d4c84cdf87b7b66309d8fe
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -13,37 +13,42 @@ primary_themes:
 - urban wildlife
 - public safety
 - animal capture
-topic_tags: []
-storyline_nexus: []
-geographic_location: San Francisco, California, USA
+topic_tags:
+- human interest
+- environment
+- communities
+- law enforcement
+storyline_nexus:
+- extreme-weather-disasters
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
-  intensity: 0.8
-- value: informed_citizenship
-  intensity: 0.7
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+  intensity: 0.9
+- value: truthfulness
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T01:00:43Z'
 source_cluster_id: cluster_ap_2026-01-28_mountain-lion-san-francisco-09c9186a4d27
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 9
   hedges:
+    attributed: 5
     appears: 0
     alleged: 0
-    attributed: 5
     reported: 4
-    contested: 0
     confirmed: 0
+    contested: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 0
-    single_source: 9
     two_independent: 0
+    primary_document: 0
+    one_originating_plus_primary_document: 0
+    primary_plus_secondary: 0
+    single_source: 9
 sources:
   count: 1
   outlets:
@@ -57,13 +62,15 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-05-wildlife-officials-end-colorado-mountain-lion-search-after-hiker-killed-on-new-y
-  relation: related
-  strength: 0.8396
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- - value: human_life_and_dignity
 
 A 77-pound mountain lion that wandered into San Francisco's affluent Pacific Heights neighborhood was captured Tuesday, ending a daylong search that began when the animal was first spotted Monday morning. Officials tranquilized the male cougar in a garden between two apartment buildings and safely transported it for examination and testing before eventual release to the wild.
 
@@ -89,88 +96,104 @@ A similar incident occurred in 2020 when a young mountain lion was spotted sleep
 
 Large cities occasionally support mountain lion populations. Los Angeles, one of the world's few megacities with over 10 million residents, hosts a thriving population of mountain lions that breed, hunt, and maintain territory within its urban boundaries, according to wildlife experts. Residents and wildlife experts say the animals have adapted to city living while maintaining their natural behaviors and territorial ranges.
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the Associated Press source listed under `sources`. Specification: https://mainstreetindependent.org/methodology. Human review: not_triggered.
-
 ## Atomic claims
 
-### c_001 — reported, single source
-**Subject entities:** mountain lion; Pacific Heights
-**Predicate:** sighted_in
-**Object:** San Francisco neighborhood (location)
-**Temporal:** 2026-01-26
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** mountain lion; Pacific Heights
+- **Predicate:** sighted_in
+- **Object:** San Francisco neighborhood (location)
+- **Temporal:** 2026-01-26
+- **Sources:** src_001
 
 > A 77-pound male mountain lion was sighted in San Francisco's Pacific Heights neighborhood.
 
-### c_002 — attributed, single source
-**Subject entities:** Roxanne Blank; mountain lion
-**Predicate:** encountered
-**Object:** 3 a.m. outside apartment (encounter)
-**Temporal:** 2026-01-26T03:00:00
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Roxanne Blank; mountain lion
+- **Predicate:** encountered
+- **Object:** 3 a.m. outside apartment (encounter)
+- **Temporal:** 2026-01-26T03:00:00
+- **Sources:** src_001
 
 > Roxanne Blank encountered the mountain lion around 3 a.m. Monday outside her apartment.
 
-### c_003 — attributed, single source
-**Subject entities:** mountain lion
-**Predicate:** captured
-**Object:** garden between apartment buildings (location)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** mountain lion
+- **Predicate:** captured
+- **Object:** garden between apartment buildings (location)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > The mountain lion was captured Tuesday hiding in a garden between two apartment buildings.
 
-### c_004 — attributed, single source
-**Subject entities:** mountain lion
-**Predicate:** tranquilized
-**Object:** three times (action)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** mountain lion
+- **Predicate:** tranquilized
+- **Object:** three times (action)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > The animal was tranquilized three times by authorities.
 
-### c_005 — attributed, single source
-**Subject entities:** mountain lion
-**Predicate:** identified_as
-**Object:** 2-year-old male cougar (classification)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** mountain lion
+- **Predicate:** identified_as
+- **Object:** 2-year-old male cougar (classification)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > The captured animal is a 2-year-old male cougar.
 
-### c_006 — attributed, single source
-**Subject entities:** mountain lion; Saratoga
-**Predicate:** previously_spotted
-**Object:** Saratoga, 50 miles south (location)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** mountain lion; Saratoga
+- **Predicate:** previously_spotted
+- **Object:** Saratoga, 50 miles south (location)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > The animal was previously tagged and last spotted in Saratoga, approximately 50 miles south of San Francisco.
 
-### c_007 — reported, single source
-**Subject entities:** San Francisco Zoo; mountain lion
-**Predicate:** examined_and_will_release
-**Object:** after health testing (action_plan)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** San Francisco Zoo; mountain lion
+- **Predicate:** examined_and_will_release
+- **Object:** after health testing (action_plan)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Veterinarians from the San Francisco Zoo examined the animal and will release it to the wild after testing.
 
-### c_008 — reported, single source
-**Subject entities:** mountain lion sightings; San Francisco
-**Predicate:** are_rare_in
-**Object:** San Francisco (location)
-**Temporal:** 2026-01-27
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** mountain lion sightings; San Francisco
+- **Predicate:** are_rare_in
+- **Object:** San Francisco (location)
+- **Temporal:** 2026-01-27
+- **Sources:** src_001
 
 > Mountain lion sightings are rare in San Francisco.
 
-### c_009 — reported, single source
-**Subject entities:** mountain lion
-**Predicate:** spotted_and_released
-**Object:** 2020 incident in downtown (historical_event)
-**Temporal:** 2020
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** mountain lion
+- **Predicate:** spotted_and_released
+- **Object:** 2020 incident in downtown (historical_event)
+- **Temporal:** 2020
+- **Sources:** src_001
 
 > A young mountain lion was spotted sleeping in a planter box in downtown San Francisco in 2020 and was later safely captured and released.
 
@@ -179,10 +202,5 @@ This article was generated algorithmically by Main Street Independent's News Art
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Olga R. Rodriguez
 **Publication date:** 2026-01-27
-**Access date:** 2026-01-27
 **Title:** Mountain lion roams San Francisco streets before being captured
 **URL:** https://apnews.com/article/mountain-lion-san-francisco-09c9186a4d27563d77def0c5da33ba69
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -15,7 +15,8 @@ primary_themes:
 topic_tags:
   - "politics"
   - "government"
-storyline_nexus: []
+storyline_nexus:
+- epstein-investigation-fallout
 geographic_location: Tokyo, Japan
 floor_values_engaged:
 - value: accountability_of_power
@@ -66,7 +67,7 @@ The call puts a Commonwealth head of government on record demanding a formal suc
 
 Canadian Prime Minister Mark Carney called Friday for Andrew Mountbatten-Windsor to be removed from the British royal line of succession, saying the former prince's conduct was "deplorable" and that removing him from the succession order was a matter of principle — not merely precedent.
 
-Carney, speaking to reporters in Tokyo, said the actions that led to Mountbatten-Windsor losing his royal titles "necessitate" his exclusion from the line of succession as well. "Even though he is well down" the line, Carney said, "the point of principle stands."
+Carney, speaking to reporters in Tokyo, said the actions that led to Mountbatten-Windsor losing his royal titles "necessitate" his exclusion from the line of succession as well. Carney said that even though Mountbatten-Windsor is well down the line, "the point of principle stands."
 
 Mountbatten-Windsor — King Charles III's younger brother, formerly known as Prince Andrew — was stripped of his royal status in October over his close associations with the late Jeffrey Epstein, a convicted sex offender. Despite losing his title, Mountbatten-Windsor remains eighth in line to become monarch.
 
@@ -189,7 +190,3 @@ Canada is a member of the Commonwealth of former British colonies, and King Char
 **Access date:** 2026-05-17
 **Title:** Canadian prime minister urges Mountbatten-Windsor's removal from line of succession
 **URL:** https://apnews.com/article/canada-carney-andrew-succession-a7dc4996e0c091e956bcf0daf39c56ad
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

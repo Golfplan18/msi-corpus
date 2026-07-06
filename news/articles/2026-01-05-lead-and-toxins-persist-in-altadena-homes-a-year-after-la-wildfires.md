@@ -1,6 +1,5 @@
 ---
 headline: Lead and toxins persist in Altadena homes a year after LA wildfires
-slug: 2026-01-05-lead-toxins-linger-altadena-homes-la-wildfire-survivors
 publish_date: '2026-01-05'
 lede: 'A year after the most destructive wildfires in Los Angeles area history scorched Altadena and Pacific Palisades, homeowners whose structures survived are confronting a continuing health crisis: lead, asbestos and other toxic compounds left behind by smoke and ash. Despite professional cleanings, six out of 10 smoke-damaged homes in the Eaton Fire area still show dangerous contamination levels, according to a November report by the volunteer group Eaton Fire Residents United. Many residents say their insurance companies are refusing to cover adequate testing and remediation, leaving families living in homes they fear may be harming them.'
 nut_graf: The fires that killed at least 31 people and destroyed nearly 17,000 structures on January 7, 2025, created a second wave of harm for survivors still inside contaminated homes — a hazard that public health experts say is understudied and that standard insurance policies often fail to address.
@@ -21,43 +20,43 @@ primary_themes:
 - public health
 - disaster recovery
 topic_tags:
-  - "disaster, accident and emergency incident"
-  - fire
-  - health
-  - lifestyle
-  - "lifestyle and leisure"
-storyline_nexus: []
-geographic_location: Altadena, California
+- fire
+- pollution
+- public health
+- disaster
+storyline_nexus:
+- los-angeles-wildfire-recovery
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
   intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.75
+  intensity: 0.6
 - value: informed_citizenship
-  intensity: 0.8
-framework_version: 1.1.0
-generation_timestamp: '2026-05-16T18:07:37Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-22T23:59:59Z'
 source_cluster_id: cluster_ap_2026-01-06_california-altadena-fire-lead-asbestos-h
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 15
   hedges:
     appears: 0
-    alleged: 0
-    attributed: 13
-    reported: 1
-    contested: 0
     confirmed: 1
+    reported: 1
+    alleged: 0
+    contested: 0
+    attributed: 13
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 0
     single_source: 15
+    primary_plus_secondary: 0
     two_independent: 0
+    one_originating_plus_primary_document: 0
 sources:
   count: 1
   outlets:
@@ -75,13 +74,16 @@ image:
   url: /articles/2026-01-05-lead-and-toxins-persist-in-altadena-homes-a-year-after-la-wildfires.png
   alt: 'Illustration accompanying article: Lead and toxins persist in Altadena homes a year after LA wildfires'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-04-altadena-nurse-plants-sunflowers-on-fire-razed-lot-rebuilds-home-a-year-after-ea
-  relation: related
-  strength: 0.781
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- A year after the most destructive wildfires in Los Angeles area history scorched Altadena and Pacific Palisades, homeowners whose structures survived are confronting a continuing health crisis: lea...
+- The fires that killed at least 31 people and destroyed nearly 17,000 structures on January 7, 2025, created a second wave of harm for survivors sti...
+- The Eaton Fire Residents United report, released in November, drew on self-submitted data from 50 homeowners who had cleaned their homes, with 78% ...
 
 A year after the most destructive wildfires in Los Angeles area history scorched Altadena and Pacific Palisades, homeowners whose structures survived are confronting a continuing health crisis: lead, asbestos and other toxic compounds left behind by smoke and ash. Despite professional cleanings, six out of 10 smoke-damaged homes in the Eaton Fire area still show dangerous contamination levels, according to a November report by the volunteer group Eaton Fire Residents United. Many residents say their insurance companies are refusing to cover adequate testing and remediation, leaving families living in homes they fear may be harming them.
 
@@ -143,138 +145,168 @@ Nina Malone said she is considering therapy to cope with her anxiety. She contin
 
 ## Atomic claims
 
-### c_001 — confirmed, single source
-**Subject entities:** Los Angeles area wildfires
-**Predicate:** ignited_on
-**Object:** 2025-01-07 (date)
-**Temporal:** 2025-01-07
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Los Angeles area wildfires
+- **Predicate:** ignited_on
+- **Object:** 2025-01-07 (date)
+- **Temporal:** 2025-01-07
+- **Sources:** src_001
 
 > Two wind-whipped blazes ignited in the Los Angeles area on January 7, 2025.
 
-### c_002 — attributed, single source
-**Subject entities:** Los Angeles area wildfires
-**Predicate:** killed
-**Object:** at least 31 (death_count)
-**Temporal:** 2025-01-07
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Los Angeles area wildfires
+- **Predicate:** killed
+- **Object:** at least 31 (death_count)
+- **Temporal:** 2025-01-07
+- **Sources:** src_001
 
 > The fires killed at least 31 people.
 
-### c_003 — attributed, single source
-**Subject entities:** Los Angeles area wildfires
-**Predicate:** destroyed
-**Object:** nearly 17,000 structures (count)
-**Temporal:** 2025-01-07
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Los Angeles area wildfires
+- **Predicate:** destroyed
+- **Object:** nearly 17,000 structures (count)
+- **Temporal:** 2025-01-07
+- **Sources:** src_001
 
 > The fires destroyed nearly 17,000 structures, including homes, schools, businesses and places of worship.
 
-### c_004 — attributed, single source
-**Subject entities:** Eaton Fire Residents United
-**Predicate:** reported_contamination
-**Object:** 6 out of 10 homes (proportion)
-**Temporal:** 2025-11
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Eaton Fire Residents United
+- **Predicate:** reported_contamination
+- **Object:** 6 out of 10 homes (proportion)
+- **Temporal:** 2025-11
+- **Sources:** src_001
 
 > A November report by Eaton Fire Residents United, based on self-submitted data from 50 homeowners, found that six out of 10 smoke-damaged homes still have dangerous levels of asbestos, lead or both.
 
-### c_005 — attributed, single source
-**Subject entities:** Eaton Fire Residents United; Altadena homes
-**Predicate:** exceed_EPA_lead_standard
-**Object:** 63% (percentage)
-**Temporal:** 2025-11
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Eaton Fire Residents United; Altadena homes
+- **Predicate:** exceed_EPA_lead_standard
+- **Object:** 63% (percentage)
+- **Temporal:** 2025-11
+- **Sources:** src_001
 
 > Of the 50 homes in the Eaton Fire Residents United survey, 63% had lead levels above the EPA standard.
 
-### c_006 — attributed, single source
-**Subject entities:** Altadena homes
-**Predicate:** exceed_EPA_lead_standard_by
-**Object:** almost 60 times (ratio)
-**Temporal:** 2025-11
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Altadena homes
+- **Predicate:** exceed_EPA_lead_standard_by
+- **Object:** almost 60 times (ratio)
+- **Temporal:** 2025-11
+- **Sources:** src_001
 
 > Average lead levels in those homes were almost 60 times higher than the EPA standard.
 
-### c_007 — attributed, single source
-**Subject entities:** University of Southern California; Eaton Fire area
-**Predicate:** reported_pre_1979_construction
-**Object:** more than 70% (proportion)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** University of Southern California; Eaton Fire area
+- **Predicate:** reported_pre_1979_construction
+- **Object:** more than 70% (proportion)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > The University of Southern California reported that more than 70% of homes within the Eaton Fire area were built before 1979, when lead paint was common.
 
-### c_008 — attributed, single source
-**Subject entities:** Nina Malone; Billy Malone
-**Predicate:** forced_to_return_home
-**Object:** August 2025 (date)
-**Temporal:** 2025-08
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Nina Malone; Billy Malone
+- **Predicate:** forced_to_return_home
+- **Object:** August 2025 (date)
+- **Temporal:** 2025-08
+- **Sources:** src_001
 
 > Nina and Billy Malone were forced to move back into their Altadena home of 20 years in August after their insurance cut off rental assistance, even though the home still had harmful lead levels after professional cleaning.
 
-### c_009 — attributed, single source
-**Subject entities:** Nina Malone; Billy Malone
-**Predicate:** reported_health_symptoms
-**Object:** sore throat, headaches, wheezing, congestion (health_symptoms)
-**Temporal:** 2025-08
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Nina Malone; Billy Malone
+- **Predicate:** reported_health_symptoms
+- **Object:** sore throat, headaches, wheezing, congestion (health_symptoms)
+- **Temporal:** 2025-08
+- **Sources:** src_001
 
 > Since moving back, Nina Malone wakes up almost daily with a sore throat and headaches, and Billy Malone had to get an inhaler for worsening wheezing and congestion.
 
-### c_010 — attributed, single source
-**Subject entities:** Zoe Gonzalez Izquierdo
-**Predicate:** denied_adequate_insurance_coverage
-**Object:** lead and toxic compounds (contamination)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Zoe Gonzalez Izquierdo
+- **Predicate:** denied_adequate_insurance_coverage
+- **Object:** lead and toxic compounds (contamination)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Zoe Gonzalez Izquierdo said she cannot get her insurance company to pay for adequate cleanup of her family's Altadena home, which tested positive for dangerous levels of lead and other toxic compounds; she has children ages 2 and 4.
 
-### c_011 — attributed, single source
-**Subject entities:** Lisa Patel; Medical Society Consortium on Climate and Health
-**Predicate:** stated_health_risk
-**Object:** no safe level of asbestos; lead especially harmful to children and pregnant individuals (expert_statement)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Lisa Patel; Medical Society Consortium on Climate and Health
+- **Predicate:** stated_health_risk
+- **Object:** no safe level of asbestos; lead especially harmful to children and pregnant individuals (expert_statement)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > Dr. Lisa Patel, a pediatrician and executive director of the Medical Society Consortium on Climate and Health, said it is particularly important for pregnant individuals and young children to eliminate exposure to lead and asbestos, noting there is no safe level of asbestos exposure.
 
-### c_012 — attributed, single source
-**Subject entities:** Julie Lawson
-**Predicate:** paid_out_of_pocket_for_testing
-**Object:** $7,000 (dollar_amount)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Julie Lawson
+- **Predicate:** paid_out_of_pocket_for_testing
+- **Object:** $7,000 (dollar_amount)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Julie Lawson paid about $7,000 out of pocket to test the soil of her Altadena home, even though insurance had agreed to pay to replace the grass in her front yard.
 
-### c_013 — attributed, single source
-**Subject entities:** Annie Barbour; United Policyholders
-**Predicate:** described_mental_health_toll
-**Object:** own special kind of hell (quotation)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Annie Barbour; United Policyholders
+- **Predicate:** described_mental_health_toll
+- **Object:** own special kind of hell (quotation)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > Annie Barbour of the nonprofit United Policyholders, herself a survivor of the 2017 Tubbs Fire, said residents whose homes survived are in 'their own special kind of hell.'
 
-### c_014 — attributed, single source
-**Subject entities:** Nina Malone; Billy Malone
-**Predicate:** considering_out_of_pocket_retesting
-**Object:** $10,000 (dollar_amount)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Nina Malone; Billy Malone
+- **Predicate:** considering_out_of_pocket_retesting
+- **Object:** $10,000 (dollar_amount)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > The Malones are considering paying $10,000 out of pocket to retest their home; their insurance company told them it would only pay to clean up federally regulated toxins like lead and asbestos.
 
-### c_015 — reported, single source
-**Subject entities:** volatile organic compounds
-**Predicate:** lingered_in_homes
-**Object:** cancer-linked VOCs (finding)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_015
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** volatile organic compounds
+- **Predicate:** lingered_in_homes
+- **Object:** cancer-linked VOCs (finding)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > A recent study found that volatile organic compounds from smoke, some known to cause cancer, lingered inside homes even after fires were extinguished.
 
@@ -283,10 +315,5 @@ Nina Malone said she is considering therapy to cope with her anxiety. She contin
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Dorany Pineda
 **Publication date:** 2026-01-05
-**Access date:** 2026-01-05
 **Title:** Lead and other toxins still linger in homes after LA wildfires
 **URL:** https://apnews.com/article/california-altadena-fire-lead-asbestos-home-insurance-58574f14d63d7f81372198b3af526937
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

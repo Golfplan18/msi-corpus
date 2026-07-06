@@ -20,39 +20,42 @@ primary_themes:
 - regime change
 - US military intervention
 topic_tags:
-  - "armed conflict"
-  - "conflict, war and peace"
+- government
+- international relations
+- conflict, war and peace
+- politics
+- international military intervention
 storyline_nexus:
-  - venezuela-crisis
-geographic_location: Venezuela / Washington, D.C.
+- venezuela-political-military-crisis
+geographic_location: United States
 floor_values_engaged:
+- value: truthfulness
+  intensity: 0.9
 - value: accountability_of_power
   intensity: 0.9
-- value: informed_citizenship
-  intensity: 0.85
-framework_version: 1.1.0
-generation_timestamp: '2026-05-16T18:10:11Z'
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:02:04Z'
 source_cluster_id: cluster_ap_2026-01-06_trump-rubio-venezuela-maduro-35b067e7443
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 12
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 9
-    reported: 3
-    contested: 0
     confirmed: 0
+    reported: 3
+    alleged: 0
+    contested: 0
+    attributed: 9
+    appears: 0
   corroboration:
-    primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
-    primary_document: 0
     single_source: 12
     two_independent: 0
+    primary_document: 0
+    primary_plus_secondary: 0
 sources:
   count: 1
   outlets:
@@ -70,41 +73,20 @@ image:
   url: /articles/2026-01-06-trump-s-venezuela-claims-raise-questions-about-planning-former-diplomats-say.png
   alt: 'Illustration accompanying article: Trump''s Venezuela claims raise questions about planning, former diplomats'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-04-rubio-tamps-down-nation-building-fears-as-trump-insists-us-in-charge-in-venezuel
-  relation: continues
-  strength: 0.8114
-  confidence: high
-- slug: 2026-01-06-polls-show-americans-split-on-venezuela-operation-wary-of-deeper-u-s-role
-  relation: related
-  strength: 0.7708
-  confidence: medium
-- slug: 2026-01-03-us-seizure-of-maduro-sparks-legal-debate-as-trump-claims-control-of-venezuela
-  relation: related
-  strength: 0.7903
-  confidence: medium
-- slug: 2026-01-04-trump-invokes-monroe-doctrine-in-maduro-arrest-proclaims-trump-corollary
-  relation: related
-  strength: 0.776
-  confidence: medium
-- slug: 2026-01-03-trump-vows-to-run-venezuela-after-u-s-military-operation-ousts-maduro
-  relation: continues
-  strength: 0.7816
-  confidence: high
-- slug: 2026-01-03-venezuela-in-limbo-after-maduro-capture-as-trump-endorses-deputy-snubs-oppositio
-  relation: related
-  strength: 0.7796
-  confidence: medium
-- slug: 2026-01-04-venezuela-intervention-tests-trump-s-america-first-pledge-as-gop-shows-unease
-  relation: related
-  strength: 0.7609
-  confidence: medium
-- slug: 2026-01-04-caracas-falls-quiet-as-venezuelans-wait-to-see-what-comes-next-after-us-seizes-m
-  relation: related
-  strength: 0.7594
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Trump’s vague claims of the US running Venezuela raise questions about planning for what comes next
+- Trump’s vague claims of the US running Venezuela raise questions about planning for what comes next
+- Rubio said the U.S. would rely on existing sanctions on Venezuela’s oil sector and criminal gangs to wield leverage with Maduro’s successors.
+- The discrepancy between what Trump and Rubio have said publicly has not sat well with some former diplomats.
+- Supporters of the operation, meanwhile, believe there is little confusion over the U.S. goal.
+- Goldberg does not see Rubio becoming “the superintendent of schools” but “effectively, the U.S. will be calling the shots.”
 
 President Donald Trump has made broad but vague assertions that the United States will "run" Venezuela following the ouster of Nicolás Maduro, while providing almost no details about how that governance would work, raising concerns among former diplomats and some lawmakers about the administration's level of planning.
 
@@ -156,111 +138,135 @@ Trump is also preparing to chair an as-yet unformed Board of Peace to govern pos
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Donald Trump; United States; Venezuela
-**Predicate:** asserted_without_detail
-**Object:** US will run Venezuela (public_statement)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; United States; Venezuela
+- **Predicate:** asserted_without_detail
+- **Object:** US will run Venezuela (public_statement)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > Trump has asserted that the United States will 'run' Venezuela following the ouster of Nicolás Maduro but has offered almost no details about how it will do so.
 
-### c_002 — reported, single source
-**Subject entities:** United States
-**Predicate:** lacks_preparation
-**Object:** military occupation or interim civilian governing authority (policy_state)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** United States
+- **Predicate:** lacks_preparation
+- **Object:** military occupation or interim civilian governing authority (policy_state)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > Current U.S. officials, speaking on condition of anonymity, said they were not aware of any preparations for a military occupation or interim civilian governing authority in Venezuela.
 
-### c_003 — attributed, single source
-**Subject entities:** Dan Fried
-**Predicate:** stated
-**Object:** we have no idea whatsoever as to what's next (quotation)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Dan Fried
+- **Predicate:** stated
+- **Object:** we have no idea whatsoever as to what's next (quotation)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > Dan Fried, a retired career diplomat and former assistant secretary of state who served under both Democratic and Republican administrations, said 'we have no idea whatsoever as to what's next' regarding U.S. plans for Venezuela.
 
-### c_004 — attributed, single source
-**Subject entities:** Dan Fried; Donald Trump; Marco Rubio
-**Predicate:** stated
-**Object:** internal disagreement about how to proceed (quotation)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Dan Fried; Donald Trump; Marco Rubio
+- **Predicate:** stated
+- **Object:** internal disagreement about how to proceed (quotation)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > Fried said discrepancies between Trump's and Rubio's public statements suggested 'disagreement about how to proceed' even within the small group who knew of the raid.
 
-### c_005 — attributed, single source
-**Subject entities:** Marco Rubio; United States; Venezuela
-**Predicate:** stated
-**Object:** US will rely on existing sanctions for leverage (policy_statement)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Marco Rubio; United States; Venezuela
+- **Predicate:** stated
+- **Object:** US will rely on existing sanctions for leverage (policy_statement)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > Rubio said the U.S. would rely on existing sanctions on Venezuela's oil sector and criminal gangs to wield leverage with Maduro's successors.
 
-### c_006 — attributed, single source
-**Subject entities:** Rich Goldberg; United States; Venezuela
-**Predicate:** stated
-**Object:** effectively, the U.S. will be calling the shots (quotation)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Rich Goldberg; United States; Venezuela
+- **Predicate:** stated
+- **Object:** effectively, the U.S. will be calling the shots (quotation)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > Rich Goldberg, a senior adviser to the Foundation for Defense of Democracies and former White House official, said 'effectively, the U.S. will be calling the shots' in Venezuela.
 
-### c_007 — attributed, single source
-**Subject entities:** Donald Trump; Maria Corina Machado
-**Predicate:** stated
-**Object:** Machado lacks sufficient support and respect (public_statement)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Maria Corina Machado
+- **Predicate:** stated
+- **Object:** Machado lacks sufficient support and respect (public_statement)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > Trump said María Corina Machado 'doesn't have the support within or the respect within the country' to be a credible leader.
 
-### c_008 — reported, single source
-**Subject entities:** Maria Corina Machado; Nicolas Maduro; Venezuela
-**Predicate:** contested_election_result
-**Object:** Machado party won 2024 elections; Maduro refused to accept (electoral_dispute)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Maria Corina Machado; Nicolas Maduro; Venezuela
+- **Predicate:** contested_election_result
+- **Object:** Machado party won 2024 elections; Maduro refused to accept (electoral_dispute)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > Machado's party is widely believed to have won Venezuela's 2024 elections, results that Maduro refused to accept.
 
-### c_009 — attributed, single source
-**Subject entities:** Donald Trump; Delcy Rodríguez
-**Predicate:** suggested
-**Object:** Rodríguez may remain in power with US cooperation (policy_preference)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Delcy Rodríguez
+- **Predicate:** suggested
+- **Object:** Rodríguez may remain in power with US cooperation (policy_preference)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > Trump suggested he would be comfortable with Maduro's No. 2, Delcy Rodríguez, remaining in power as long as she cooperates with the United States.
 
-### c_010 — attributed, single source
-**Subject entities:** Thomas Massie; Venezuela
-**Predicate:** posted_on_social_media
-**Object:** operation is about oil and regime change, not drugs (social_media_statement)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Thomas Massie; Venezuela
+- **Predicate:** posted_on_social_media
+- **Object:** operation is about oil and regime change, not drugs (social_media_statement)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > Rep. Thomas Massie of Kentucky posted on X that the Venezuela operation is 'not about drugs; it's about OIL and REGIME CHANGE' and is 'not what we voted for.'
 
-### c_011 — attributed, single source
-**Subject entities:** Rand Paul; Venezuela
-**Predicate:** wrote_on_social_media
-**Object:** costs and outcome of regime change remain uncertain (social_media_statement)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Rand Paul; Venezuela
+- **Predicate:** wrote_on_social_media
+- **Object:** costs and outcome of regime change remain uncertain (social_media_statement)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > Sen. Rand Paul wrote that 'time will tell if regime change in Venezuela is successful without significant monetary or human cost,' comparing the risks to Afghanistan, Iraq, and Vietnam.
 
-### c_012 — reported, single source
-**Subject entities:** Donald Trump; Gaza
-**Predicate:** preparing
-**Object:** Board of Peace to govern postwar Gaza (policy_plan)
-**Temporal:** 2026-01-06
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Gaza
+- **Predicate:** preparing
+- **Object:** Board of Peace to govern postwar Gaza (policy_plan)
+- **Temporal:** 2026-01-06
+- **Sources:** src_001
 
 > Trump is preparing to chair an as-yet unformed Board of Peace to govern postwar Gaza.
 
@@ -269,10 +275,5 @@ Trump is also preparing to chair an as-yet unformed Board of Peace to govern pos
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Matthew Lee
 **Publication date:** 2026-01-06
-**Access date:** 2026-01-06
 **Title:** Trump's vague claims about Venezuela raise questions about the level of planning
 **URL:** https://apnews.com/article/trump-rubio-venezuela-maduro-35b067e744397dee11f8805a146b9b6d
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

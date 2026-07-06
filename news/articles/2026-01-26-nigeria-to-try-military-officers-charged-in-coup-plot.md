@@ -17,8 +17,7 @@ primary_themes:
 topic_tags:
   - "armed conflict"
   - "conflict, war and peace"
-storyline_nexus:
-  - immigration-enforcement
+storyline_nexus: []
 geographic_location: Nigeria, West Africa
 floor_values_engaged:
 - value: accountability_of_power
@@ -88,8 +87,6 @@ West Africa has experienced a surge in military coups and attempted coups in rec
 ## A Nation's History of Military Rule
 
 Nigeria itself has a long history of military rule. The country experienced multiple coups between 1966 and 1993 before returning to civilian democracy. The new coup allegations come as Nigeria faces worsening hardship due in part to the government's austerity measures.
-
-_This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered._
 
 ## Atomic claims
 
@@ -173,7 +170,3 @@ _This article was generated algorithmically by Main Street Independent's News Ar
 **Access date:** 2026-05-18
 **Title:** Several Nigerian military officers will be tried on accusations they plotted a coup
 **URL:** https://apnews.com/article/nigeria-coup-westafrica-military-e4a67707f03ff8059d77ddb1f369632a
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

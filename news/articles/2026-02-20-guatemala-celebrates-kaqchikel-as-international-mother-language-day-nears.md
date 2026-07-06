@@ -96,8 +96,6 @@ According to the Academy of Mayan Languages, a 2018 census found that a little m
 
 Cristina Puerta, chief of UNESCO Publications, said the organization chose to promote the book because "it conveys the simple yet powerful idea that language is the very essence of what defines us as human beings." She said the project aims to raise awareness among younger generations of Mayan language speakers about "the linguistic richness they inherit and the need to mobilize others to preserve it."
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
 ### c_001 — reported, single source
@@ -180,7 +178,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-05-18
 **Title:** Guatemalan school promotes Indigenous language preservation for International Mother Language Day
 **URL:** https://apnews.com/article/guatemala-unesco-mayan-language-indigenous-653ac5e28f53668b4ae6810146da0210
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

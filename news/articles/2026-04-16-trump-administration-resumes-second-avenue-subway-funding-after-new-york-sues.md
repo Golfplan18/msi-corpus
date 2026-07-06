@@ -15,42 +15,42 @@ primary_themes:
 - federal_state_conflict
 - infrastructure
 topic_tags:
-  - "armed conflict"
-  - "artificial intelligence"
-  - "conflict, war and peace"
-  - "crime, law and justice"
-  - government
-  - "government policy"
-storyline_nexus: []
-geographic_location: New York City, New York, United States
+- transport
+- government policy
+- construction and property
+- economy
+- judiciary
+storyline_nexus:
+- trump-judicial-challenges
+geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.8
 - value: accountability_of_power
-  intensity: 0.7
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T08:23:44Z'
+  intensity: 0.9
+- value: equality_fairness
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T01:10:10Z'
 source_cluster_id: cluster_ap_2026-04-17_nyc-subway-funding-restores-trump-dei-d7
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 14
   hedges:
+    confirmed: 3
     appears: 0
     alleged: 0
-    attributed: 10
     reported: 1
     contested: 0
-    confirmed: 3
+    attributed: 10
   corroboration:
-    primary_plus_secondary: 0
+    two_independent: 0
     one_originating_plus_primary_document: 0
+    primary_plus_secondary: 0
     primary_document: 5
     single_source: 9
-    two_independent: 0
 sources:
   count: 1
   outlets:
@@ -67,6 +67,14 @@ figures_aggregate:
 cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- - U.S. Department of Transportation
+- - Metropolitan Transportation Authority
+- - federal_transportation_funding
 
 The restoration resolves one of several funding disputes the Trump administration has pursued against New York and New Jersey transportation projects, though courts have also blocked the administration in related cases involving a Hudson River rail tunnel and the city's congestion pricing program.
 
@@ -88,129 +96,157 @@ The administration had also sought to cancel New York's congestion pricing progr
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** U.S. Department of Transportation; Second Avenue subway
-**Predicate:** completed_review_filed_in_court
-**Object:** federal court filing (legal_filing)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Department of Transportation; Second Avenue subway
+- **Predicate:** completed_review_filed_in_court
+- **Object:** federal court filing (legal_filing)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > The U.S. Department of Transportation filed in federal court Thursday that it completed its review of the Second Avenue subway line project.
 
-### c_002 — attributed, primary document
-**Subject entities:** U.S. Department of Transportation
-**Predicate:** will_resume_reimbursement
-**Object:** construction cost reimbursements (funding)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Department of Transportation
+- **Predicate:** will_resume_reimbursement
+- **Object:** construction cost reimbursements (funding)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > The U.S. Department of Transportation will begin reimbursing state transit officials again for Second Avenue subway construction costs.
 
-### c_003 — attributed, single source
-**Subject entities:** Second Avenue subway
-**Predicate:** projected_cost
-**Object:** $7.7 billion total; approximately $3.4 billion federal share (dollar_amount)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Second Avenue subway
+- **Predicate:** projected_cost
+- **Object:** $7.7 billion total; approximately $3.4 billion federal share (dollar_amount)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > The Second Avenue subway project is supposed to cost $7.7 billion, with the federal government covering around $3.4 billion.
 
-### c_004 — attributed, single source
-**Subject entities:** U.S. Department of Transportation; Second Avenue subway
-**Predicate:** withheld_funds
-**Object:** 60000000 (dollar_amount)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Department of Transportation; Second Avenue subway
+- **Predicate:** withheld_funds
+- **Object:** 60000000 (dollar_amount)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > The U.S. Department of Transportation had withheld roughly $60 million from the Second Avenue subway project during its review.
 
-### c_005 — attributed, single source
-**Subject entities:** Janno Lieber; Metropolitan Transportation Authority
-**Predicate:** said
-**Object:** long-awaited transit justice (quotation)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Janno Lieber; Metropolitan Transportation Authority
+- **Predicate:** said
+- **Object:** long-awaited transit justice (quotation)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > MTA CEO Janno Lieber said the funding reversal means 'long-awaited transit justice' for neighborhoods in upper Manhattan.
 
-### c_006 — attributed, single source
-**Subject entities:** Janno Lieber
-**Predicate:** said
-**Object:** It shouldn't have taken seven months and a lawsuit to get here (quotation)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Janno Lieber
+- **Predicate:** said
+- **Object:** It shouldn't have taken seven months and a lawsuit to get here (quotation)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > Lieber said: 'It shouldn't have taken seven months and a lawsuit to get here.'
 
-### c_007 — attributed, primary document
-**Subject entities:** U.S. Department of Transportation
-**Predicate:** stated
-**Object:** hard-earned dollars will not fund unconstitutional DEI initiatives (quotation)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Department of Transportation
+- **Predicate:** stated
+- **Object:** hard-earned dollars will not fund unconstitutional DEI initiatives (quotation)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > The Transportation Department said the agreement ensures taxpayers' hard-earned dollars will not fund unconstitutional DEI initiatives.
 
-### c_008 — attributed, primary document
-**Subject entities:** U.S. Department of Transportation
-**Predicate:** stated
-**Object:** This has always been about securing the best deal for the American taxpayer and ensuring their dollars are spent efficiently and fairly (quotation)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Department of Transportation
+- **Predicate:** stated
+- **Object:** This has always been about securing the best deal for the American taxpayer and ensuring their dollars are spent efficiently and fairly (quotation)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > The Transportation Department said: 'This has always been about securing the best deal for the American taxpayer and ensuring their dollars are spent efficiently and fairly.'
 
-### c_009 — attributed, single source
-**Subject entities:** Janno Lieber
-**Predicate:** said
-**Object:** unnecessary waste of the public's time and money (quotation)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Janno Lieber
+- **Predicate:** said
+- **Object:** unnecessary waste of the public's time and money (quotation)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > Lieber called the dispute 'an unnecessary waste of the public's time and money,' saying the MTA was already complying with the administration's new rules on minority and women-owned businesses.
 
-### c_010 — attributed, single source
-**Subject entities:** Janno Lieber; Metropolitan Transportation Authority
-**Predicate:** said
-**Object:** they sent us a letter saying we didn't make the standards of the new rules before they even issued the new rules (quotation)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Janno Lieber; Metropolitan Transportation Authority
+- **Predicate:** said
+- **Object:** they sent us a letter saying we didn't make the standards of the new rules before they even issued the new rules (quotation)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > Lieber said the agency sent a letter saying the MTA did not meet the standards of the new rules before those rules were even issued.
 
-### c_011 — attributed, single source
-**Subject entities:** Janno Lieber
-**Predicate:** said
-**Object:** It was just a bunch of gamesmanship (quotation)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Janno Lieber
+- **Predicate:** said
+- **Object:** It was just a bunch of gamesmanship (quotation)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > Lieber said of the dispute: 'It was just a bunch of gamesmanship.'
 
-### c_012 — reported, single source
-**Subject entities:** Trump administration; Hudson River tunnel
-**Predicate:** halted_funding
-**Object:** billions of dollars (dollar_amount)
-**Temporal:** 2025-10
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Trump administration; Hudson River tunnel
+- **Predicate:** halted_funding
+- **Object:** billions of dollars (dollar_amount)
+- **Temporal:** 2025-10
+- **Sources:** src_001
 
 > In October, the Trump administration halted billions of dollars in funding for a new rail tunnel planned under the Hudson River between New York and New Jersey.
 
-### c_013 — confirmed, primary document
-**Subject entities:** federal judge; Hudson River tunnel
-**Predicate:** ordered_resume_payments
-**Object:** Hudson River tunnel project payments (legal_order)
-**Temporal:** 2026-02
-**Source IDs:** src_001
+### c_013
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** federal judge; Hudson River tunnel
+- **Predicate:** ordered_resume_payments
+- **Object:** Hudson River tunnel project payments (legal_order)
+- **Temporal:** 2026-02
+- **Sources:** src_001
 
 > A federal judge in February ordered federal officials to resume payments for the Hudson River tunnel project.
 
-### c_014 — confirmed, single source
-**Subject entities:** federal judge; U.S. Department of Transportation; New York congestion pricing
-**Predicate:** ruled
-**Object:** lacked authority to rescind congestion fee approval (legal_ruling)
-**Temporal:** 2026-03
-**Source IDs:** src_001
+### c_014
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** federal judge; U.S. Department of Transportation; New York congestion pricing
+- **Predicate:** ruled
+- **Object:** lacked authority to rescind congestion fee approval (legal_ruling)
+- **Temporal:** 2026-03
+- **Sources:** src_001
 
 > A federal judge ruled last month that the Transportation Department lacked the authority to unilaterally rescind approval of New York's $9 congestion pricing fee on drivers entering lower Manhattan.
 
@@ -219,10 +255,5 @@ The administration had also sought to cancel New York's congestion pricing progr
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Philip Marcelo
 **Publication date:** 2026-04-16
-**Access date:** 2026-05-17
 **Title:** Trump administration resumes funding for Manhattan subway project
 **URL:** https://apnews.com/article/nyc-subway-funding-restores-trump-dei-d78bbf3ea0199da1793d4de2be3268cb
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -19,7 +19,8 @@ topic_tags:
   - "crime, law and justice"
   - "human interest"
   - "law enforcement"
-storyline_nexus: []
+storyline_nexus:
+- pakistan-afghanistan-violence
 geographic_location: Dera Ismail Khan, Khyber Pakhtunkhwa, Pakistan
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -83,10 +84,6 @@ No group immediately claimed responsibility for the attack. Authorities suspect 
 ## Emboldened Since 2021
 
 The TTP has been emboldened since the Afghan Taliban returned to power in neighboring Afghanistan in 2021. Many TTP leaders and fighters have found sanctuaries in Afghanistan since the Taliban takeover.
-
----
-
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. Read our methodology at /methodology.
 
 ## Atomic claims
 
@@ -214,7 +211,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-01-24
 **Title:** Suicide bomber kills 7 people at a wedding in Pakistan
 **URL:** https://apnews.com/article/pakistan-suicide-bombing-wedding-ceremony-northwest-4962ee33d1db9c08368c2a386356a579
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

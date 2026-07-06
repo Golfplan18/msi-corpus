@@ -15,29 +15,27 @@ primary_themes:
 - accomplice liability
 - criminal justice
 topic_tags:
-  - politics
-  - government
-  - "crime, law and justice"
-  - crime
-  - "conflict, war and peace"
-  - "disaster, accident and emergency incident"
-storyline_nexus: []
-geographic_location: Talladega, Alabama, United States
+- crime, law and justice
+- government
+- judiciary
+- prosecution
+- trial
+storyline_nexus:
+- supreme-court-constitutional-cases
+geographic_location: United States
 floor_values_engaged:
-- value: accountability_of_power
-  intensity: 0.7
 - value: human_life_and_dignity
   intensity: 0.9
 - value: equality_fairness
-  intensity: 0.85
-- value: informed_citizenship
+  intensity: 0.9
+- value: accountability_of_power
   intensity: 0.6
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:43:34Z'
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T01:04:12Z'
 source_cluster_id: cluster_ap_2026-03-09_alabama-execution-clemency-charles-sonny
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
@@ -45,16 +43,16 @@ claims:
   hedges:
     appears: 0
     alleged: 0
-    attributed: 10
     reported: 0
     contested: 0
+    attributed: 10
     confirmed: 5
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
     primary_document: 1
-    single_source: 14
+    one_originating_plus_primary_document: 0
+    primary_plus_secondary: 0
     two_independent: 0
+    single_source: 14
 sources:
   count: 1
   outlets:
@@ -68,13 +66,19 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-05-judge-spares-tennessee-lawmaker-prison-after-trump-pardoned-co-conspirators
-  relation: related
-  strength: 0.786
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- What to know about the clemency of Alabama's Charles 'Sonny' Burton
+- Alabama Gov. Kay Ivey commuted Charles "Sonny" Burton's death sentence to life in prison without the possibility of parole.
+- Burton, 75, was scheduled to be executed on Thursday.
+- Burton was convicted of capital murder for the Aug. 16, 1991, shooting death of Doug Battle during a robbery at an AutoZone in Talladega.
+- Doug Battle was a 34-year-old Army veteran and father of four.
 
 Ivey said she could not in good conscience execute Burton when the man who pulled the trigger had already received a lesser punishment and died in prison. The decision drew immediate condemnation from Alabama's attorney general and praise from a federal pardon official, reflecting a broader national debate over accomplice liability and sentencing equity in capital cases.
 
@@ -130,136 +134,166 @@ Burton will spend the rest of his life in prison. He has no possibility of parol
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Kay Ivey; Charles Burton
-**Predicate:** commuted_sentence
-**Object:** life without parole (sentence)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Kay Ivey; Charles Burton
+- **Predicate:** commuted_sentence
+- **Object:** life without parole (sentence)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > Alabama Gov. Kay Ivey commuted Charles "Sonny" Burton's death sentence to life in prison without the possibility of parole.
 
-### c_002 — confirmed, single source
-**Subject entities:** Charles Burton
-**Predicate:** scheduled_execution
-**Object:** Thursday (date_reference)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Charles Burton
+- **Predicate:** scheduled_execution
+- **Object:** Thursday (date_reference)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > Burton, 75, was scheduled to be executed on Thursday.
 
-### c_003 — confirmed, single source
-**Subject entities:** Charles Burton; Doug Battle
-**Predicate:** convicted_of
-**Object:** capital murder (conviction)
-**Temporal:** 1991-08-16
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Charles Burton; Doug Battle
+- **Predicate:** convicted_of
+- **Object:** capital murder (conviction)
+- **Temporal:** 1991-08-16
+- **Sources:** src_001
 
 > Burton was convicted of capital murder for the Aug. 16, 1991, shooting death of Doug Battle during a robbery at an AutoZone in Talladega.
 
-### c_004 — attributed, single source
-**Subject entities:** Doug Battle
-**Predicate:** identity_descriptor
-**Object:** 34-year-old Army veteran and father of four (person_description)
-**Temporal:** 1991-08-16
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Doug Battle
+- **Predicate:** identity_descriptor
+- **Object:** 34-year-old Army veteran and father of four (person_description)
+- **Temporal:** 1991-08-16
+- **Sources:** src_001
 
 > Doug Battle was a 34-year-old Army veteran and father of four.
 
-### c_005 — attributed, single source
-**Subject entities:** Derrick DeBruce; Doug Battle; Charles Burton
-**Predicate:** shot
-**Object:** Doug Battle (person)
-**Temporal:** 1991-08-16
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Derrick DeBruce; Doug Battle; Charles Burton
+- **Predicate:** shot
+- **Object:** Doug Battle (person)
+- **Temporal:** 1991-08-16
+- **Sources:** src_001
 
 > Derrick DeBruce shot Battle after Burton had already left the store, according to testimony.
 
-### c_006 — confirmed, single source
-**Subject entities:** Derrick DeBruce
-**Predicate:** sentence_overturned
-**Object:** life imprisonment (sentence)
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Derrick DeBruce
+- **Predicate:** sentence_overturned
+- **Object:** life imprisonment (sentence)
+- **Sources:** src_001
 
 > DeBruce's death sentence was overturned on appeal after a court found he had ineffective counsel; he was resentenced to life and later died in prison.
 
-### c_007 — attributed, single source
-**Subject entities:** Kay Ivey
-**Predicate:** stated
-**Object:** cannot proceed in good conscience (quotation)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Kay Ivey
+- **Predicate:** stated
+- **Object:** cannot proceed in good conscience (quotation)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > Ivey said she "cannot proceed in good conscience with the execution of Mr. Burton" when the triggerman had his sentence reduced to life imprisonment.
 
-### c_008 — attributed, single source
-**Subject entities:** Kay Ivey
-**Predicate:** granted_clemency_count
-**Object:** second time (count)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Kay Ivey
+- **Predicate:** granted_clemency_count
+- **Object:** second time (count)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > The clemency decision is only the second time Ivey has granted clemency to a death row inmate; she has presided over 25 executions.
 
-### c_009 — attributed, single source
-**Subject entities:** Steve Marshall
-**Predicate:** said
-**Object:** deeply disappointed (quotation)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Steve Marshall
+- **Predicate:** said
+- **Object:** deeply disappointed (quotation)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > Alabama Attorney General Steve Marshall said he was "deeply disappointed" and believed Burton's execution should have gone forward.
 
-### c_010 — attributed, single source
-**Subject entities:** Steve Marshall
-**Predicate:** said
-**Object:** accomplice liability statement (quotation)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Steve Marshall
+- **Predicate:** said
+- **Object:** accomplice liability statement (quotation)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > Marshall said "longstanding Alabama law recognizes accomplice liability, as has every judge that has touched this case over three decades."
 
-### c_011 — attributed, single source
-**Subject entities:** Alice Marie Johnson; Donald Trump; Kay Ivey
-**Predicate:** praised
-**Object:** clemency decision (action)
-**Temporal:** 2026-03-10
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Alice Marie Johnson; Donald Trump; Kay Ivey
+- **Predicate:** praised
+- **Object:** clemency decision (action)
+- **Temporal:** 2026-03-10
+- **Sources:** src_001
 
 > Alice Marie Johnson, whom President Donald Trump appointed as his "pardon czar," praised Ivey's decision on social media.
 
-### c_012 — attributed, single source
-**Subject entities:** Kevin Stitt; Tremane Wood
-**Predicate:** commuted_sentence
-**Object:** life imprisonment (sentence)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Kevin Stitt; Tremane Wood
+- **Predicate:** commuted_sentence
+- **Object:** life imprisonment (sentence)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Oklahoma Gov. Kevin Stitt last year commuted the sentence of Tremane Wood to life, matching the sentence of Wood's brother who confessed to the murder.
 
-### c_013 — attributed, single source
-**Subject entities:** LaJuan McCants; Charles Burton; Derrick DeBruce
-**Predicate:** testified
-**Object:** Burton had left before shooting (testimony)
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** LaJuan McCants; Charles Burton; Derrick DeBruce
+- **Predicate:** testified
+- **Object:** Burton had left before shooting (testimony)
+- **Sources:** src_001
 
 > LaJuan McCants, who was 16 at the time, testified that Burton and others had left the store before DeBruce shot Battle in the back.
 
-### c_014 — attributed, single source
-**Subject entities:** Charles Burton
-**Predicate:** stated
-**Object:** would take care of trouble (testimony)
-**Temporal:** 1991-08-16
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Charles Burton
+- **Predicate:** stated
+- **Object:** would take care of trouble (testimony)
+- **Temporal:** 1991-08-16
+- **Sources:** src_001
 
 > Before the robbery, Burton said that if anyone caused trouble in the store he would "take care of it," according to testimony.
 
-### c_015 — confirmed, single source
-**Subject entities:** Charles Burton
-**Predicate:** imprisoned
-**Object:** Alabama death row since 1992 (imprisonment)
-**Temporal:** 1992
-**Source IDs:** src_001
+### c_015
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Charles Burton
+- **Predicate:** imprisoned
+- **Object:** Alabama death row since 1992 (imprisonment)
+- **Temporal:** 1992
+- **Sources:** src_001
 
 > Burton has been held on Alabama's death row since 1992.
 
@@ -268,10 +302,5 @@ Burton will spend the rest of his life in prison. He has no possibility of parol
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Kim Chandler
 **Publication date:** 2026-03-10
-**Access date:** 2026-05-17
 **Title:** What to know about the clemency of Alabama's Charles 'Sonny' Burton
 **URL:** https://apnews.com/article/alabama-execution-clemency-charles-sonny-burton-285356c14597cbed073d5ff7c6c87464
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

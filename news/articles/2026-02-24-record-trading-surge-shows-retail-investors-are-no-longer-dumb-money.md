@@ -21,7 +21,7 @@ topic_tags:
   - "market and exchange"
   - "economy, business and finance"
 storyline_nexus:
-  - us-china-relations
+- us-economic-volatility
 floor_values_engaged:
 - value: truthfulness
   intensity: 0.95
@@ -113,111 +113,135 @@ The approach had his active trading account up 20% through the first 11 months o
 
 ## Atomic claims
 
-### c_001 — reported, single source
-**Subject entities:** retail investors
-**Predicate:** accounted_for
-**Object:** $5.4 trillion (monetary_volume)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** retail investors
+- **Predicate:** accounted_for
+- **Object:** $5.4 trillion (monetary_volume)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Individual investors accounted for $5.4 trillion in stock trading in 2025.
 
-### c_002 — reported, single source
-**Subject entities:** retail investors
-**Predicate:** increased
-**Object:** 47% (percentage_change)
-**Temporal:** 2024-2025
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** retail investors
+- **Predicate:** increased
+- **Object:** 47% (percentage_change)
+- **Temporal:** 2024-2025
+- **Sources:** src_001
 
 > Retail investor trading volume increased 47% from 2024 to 2025.
 
-### c_003 — reported, single source
-**Subject entities:** retail investors
-**Predicate:** highest_since
-**Object:** since 2014 (temporal_comparison)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** retail investors
+- **Predicate:** highest_since
+- **Object:** since 2014 (temporal_comparison)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > The 2025 trading volume represents the highest retail investor activity since at least 2014.
 
-### c_004 — attributed, single source
-**Subject entities:** Joe Mazzola
-**Predicate:** said
-**Object:** retail investors no longer dumb money (statement)
-**Temporal:** 2025-11
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Joe Mazzola
+- **Predicate:** said
+- **Object:** retail investors no longer dumb money (statement)
+- **Temporal:** 2025-11
+- **Sources:** src_001
 
 > Joe Mazzola said retail investors are no longer 'dumb money.'
 
-### c_005 — reported, single source
-**Subject entities:** retail investors; Trump
-**Predicate:** purchased
-**Object:** >$5 billion (monetary_volume)
-**Temporal:** 2025-04
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** retail investors; Trump
+- **Predicate:** purchased
+- **Object:** >$5 billion (monetary_volume)
+- **Temporal:** 2025-04
+- **Sources:** src_001
 
 > Individual investors bought more than $5 billion in stocks over two days in April 2025 following Trump's tariff announcement.
 
-### c_006 — reported, single source
-**Subject entities:** retail investors
-**Predicate:** reached_all_time_high
-**Object:** all-time high (superlative)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** retail investors
+- **Predicate:** reached_all_time_high
+- **Object:** all-time high (superlative)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Retail investor trading activity reached an all-time high on a rolling monthly basis in January 2026.
 
-### c_007 — reported, single source
-**Subject entities:** retail investors
-**Predicate:** traded
-**Object:** $650 billion (monetary_volume)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** retail investors
+- **Predicate:** traded
+- **Object:** $650 billion (monetary_volume)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Options trading accounted for about $650 billion of retail investor trading in 2025.
 
-### c_008 — attributed, single source
-**Subject entities:** Frank Sabia
-**Predicate:** started_trading
-**Object:** stocks, crypto, options (investment_activity)
-**Temporal:** 2018
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Frank Sabia
+- **Predicate:** started_trading
+- **Object:** stocks, crypto, options (investment_activity)
+- **Temporal:** 2018
+- **Sources:** src_001
 
 > Frank Sabia, a high school registrar, started trading stocks, cryptocurrencies, and options in 2018.
 
-### c_009 — attributed, single source
-**Subject entities:** Noah Goodwin
-**Predicate:** traded
-**Object:** +$200 first trade, -$600-800 July (trading_results)
-**Temporal:** 2025-01, 2025-07
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Noah Goodwin
+- **Predicate:** traded
+- **Object:** +$200 first trade, -$600-800 July (trading_results)
+- **Temporal:** 2025-01, 2025-07
+- **Sources:** src_001
 
 > Noah Goodwin, a high school junior, made $200 profit on his first Nvidia options trade on January 20, 2025, then lost $600 to $800 in July 2025.
 
-### c_010 — attributed, single source
-**Subject entities:** Steve Sosnick; retail investors
-**Predicate:** cautioned
-**Object:** mechanical trading without risk consideration (warning)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Steve Sosnick; retail investors
+- **Predicate:** cautioned
+- **Object:** mechanical trading without risk consideration (warning)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > Steve Sosnick cautioned that repeated success with buying market dips has become mechanical for many retail investors, without full consideration of risks.
 
-### c_011 — reported, single source
-**Subject entities:** Microsoft; Netflix; Tesla; retail investors
-**Predicate:** most_popular_buys
-**Object:** Microsoft, Netflix, Tesla (company_list)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Microsoft; Netflix; Tesla; retail investors
+- **Predicate:** most_popular_buys
+- **Object:** Microsoft, Netflix, Tesla (company_list)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Microsoft, Netflix, and Tesla were among the most popular stock purchases by Charles Schwab's retail investor clients in January 2026.
 
-### c_012 — reported, single source
-**Subject entities:** retail investors; silver
-**Predicate:** drove_to_record
-**Object:** record amounts and prices (market_activity)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** retail investors; silver
+- **Predicate:** drove_to_record
+- **Object:** record amounts and prices (market_activity)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Retail investors drove silver ETF purchases to a record amount in January 2026, sending silver prices to record highs.
 
@@ -229,7 +253,3 @@ The approach had his active trading account up 20% through the first 11 months o
 **Access date:** 2026-02-24
 **Title:** Retail investors are no longer considered 'dumb money' in the stock market
 **URL:** https://apnews.com/article/retail-investors-stocks-crypto-options-risk-6e5a383001aea67a180fa07896022e93
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

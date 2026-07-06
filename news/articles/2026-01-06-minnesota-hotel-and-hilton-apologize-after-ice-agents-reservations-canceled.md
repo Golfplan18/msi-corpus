@@ -14,12 +14,12 @@ primary_themes:
 - hotel franchise policy
 - federal law enforcement
 topic_tags:
-  - "crime, law and justice"
-  - "human interest"
-  - "human migration"
-  - "law enforcement"
+- crime, law and justice
+- human interest
+- human migration
+- law enforcement
 storyline_nexus:
-  - immigration-enforcement
+- us-immigration-enforcement
 geographic_location: Lakeville, Minnesota
 floor_values_engaged:
 - value: informed_citizenship
@@ -71,10 +71,6 @@ cross_article_links:
   relation: related
   strength: 0.7503
   confidence: medium
-- slug: 2025-12-31-california-delays-17-000-cdl-revocations-to-march-federal-funds-at-risk
-  relation: related
-  strength: 0.7452
-  confidence: medium
 draft: false
 ---
 
@@ -96,93 +92,113 @@ Hampton Inn is a brand within the Hilton portfolio.
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Hampton Inn Lakeville
-**Predicate:** canceled_reservations_of
-**Object:** federal immigration agents (persons)
-**Temporal:** 2026-01-02
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Hampton Inn Lakeville
+- **Predicate:** canceled_reservations_of
+- **Object:** federal immigration agents (persons)
+- **Temporal:** 2026-01-02
+- **Sources:** src_001
 
 > The Hampton Inn Lakeville property, approximately 20 miles south of Minneapolis, canceled reservations for federal immigration agents.
 
-### c_002 — confirmed, primary document
-**Subject entities:** Department of Homeland Security; Hilton
-**Predicate:** posted_screenshots_of
-**Object:** cancellation message from Hilton email address (document)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Department of Homeland Security; Hilton
+- **Predicate:** posted_screenshots_of
+- **Object:** cancellation message from Hilton email address (document)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > DHS posted screenshots on social media of a message sent from a Hilton email address stating that immigration agents would not be allowed to stay at the hotel and that their reservation was canceled.
 
-### c_003 — attributed, single source
-**Subject entities:** Department of Homeland Security; Hilton Hotels
-**Predicate:** accused_of
-**Object:** maliciously canceling reservations (accusation)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Department of Homeland Security; Hilton Hotels
+- **Predicate:** accused_of
+- **Object:** maliciously canceling reservations (accusation)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > DHS accused Hilton Hotels of maliciously canceling officers' reservations when they attempted to book rooms using official government email addresses and government rates.
 
-### c_004 — attributed, single source
-**Subject entities:** Department of Homeland Security; Hilton
-**Predicate:** characterized_as
-**Object:** coordinated effort to refuse service (characterization)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Department of Homeland Security; Hilton
+- **Predicate:** characterized_as
+- **Object:** coordinated effort to refuse service (characterization)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > DHS characterized the refusal as a coordinated effort by the global Hilton hotel chain to refuse service to its employees.
 
-### c_005 — attributed, single source
-**Subject entities:** Department of Homeland Security; Hilton Hotels
-**Predicate:** accused_of
-**Object:** deliberately undermining and impeding immigration law enforcement (accusation)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Department of Homeland Security; Hilton Hotels
+- **Predicate:** accused_of
+- **Object:** deliberately undermining and impeding immigration law enforcement (accusation)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > DHS accused Hilton Hotels of deliberately undermining and impeding law enforcement from enforcing immigration laws.
 
-### c_006 — attributed, single source
-**Subject entities:** Hilton; Hampton Inn Lakeville
-**Predicate:** stated
-**Object:** property independently operated; actions not in keeping with policies (statement)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Hilton; Hampton Inn Lakeville
+- **Predicate:** stated
+- **Object:** property independently operated; actions not in keeping with policies (statement)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > Hilton said the Hampton Inn Lakeville property is independently operated and that the hotel apologized for actions not in keeping with its policies.
 
-### c_007 — confirmed, single source
-**Subject entities:** Hampton Inn
-**Predicate:** owned_and_operated_by
-**Object:** franchisees (majority) (ownership_structure)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Hampton Inn
+- **Predicate:** owned_and_operated_by
+- **Object:** franchisees (majority) (ownership_structure)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > The majority of Hampton Inns are owned and operated by franchisees.
 
-### c_008 — confirmed, single source
-**Subject entities:** Everpeak Hospitality; Hampton Inn Lakeville
-**Predicate:** operates
-**Object:** Hampton Inn Lakeville (business_relationship)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Everpeak Hospitality; Hampton Inn Lakeville
+- **Predicate:** operates
+- **Object:** Hampton Inn Lakeville (business_relationship)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > Everpeak Hospitality is the operator of the Hampton Inn Lakeville property.
 
-### c_009 — attributed, single source
-**Subject entities:** Everpeak Hospitality
-**Predicate:** stated
-**Object:** cancellation inconsistent with policy; no discrimination against individuals or agencies (statement)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Everpeak Hospitality
+- **Predicate:** stated
+- **Object:** cancellation inconsistent with policy; no discrimination against individuals or agencies (statement)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > Everpeak Hospitality said the cancellation was inconsistent with its policy of being a welcoming place for all and that it does not discriminate against any individuals or agencies.
 
-### c_010 — attributed, single source
-**Subject entities:** Everpeak Hospitality
-**Predicate:** stated
-**Object:** contacting impacted guests to ensure accommodation (statement)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Everpeak Hospitality
+- **Predicate:** stated
+- **Object:** contacting impacted guests to ensure accommodation (statement)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > Everpeak Hospitality said it was in touch with impacted guests to ensure they are accommodated.
 
@@ -194,7 +210,3 @@ Hampton Inn is a brand within the Hilton portfolio.
 **Access date:** 2026-01-06
 **Title:** Hilton apologizes after Minnesota hotel refuses federal agents
 **URL:** https://apnews.com/article/ice-immigration-hotel-hilton-minneapolis-minnesota-371da5e888d59c2bf66f53635aaa2acc
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -100,8 +100,6 @@ In September, French naval units boarded another oil tanker off the French Atlan
 
 Russian President Vladimir Putin responded to the September interception by denouncing it as an act of piracy, signaling Moscow's opposition to the enforcement actions against its sanctions-evasion network.
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
 ### c_001 — confirmed, primary document
@@ -192,7 +190,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-01-25
 **Title:** Captain of oil tanker in custody after French navy interception
 **URL:** https://apnews.com/article/france-russia-tanker-seized-shadow-fleet-grinch-a2ef56fea4ada6f0335d7124ab56c3db
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

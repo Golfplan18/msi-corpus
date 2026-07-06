@@ -16,44 +16,44 @@ primary_themes:
 - American Sign Language
 - nonprofit funding
 topic_tags:
-  - crime
-  - "crime, law and justice"
-  - "law enforcement"
-  - "monetary policy"
-  - "science and technology"
-  - "space programme"
-storyline_nexus: []
-geographic_location: Portland, Oregon
+- non-governmental organisation
+- communities
+- employment
+- people
+- discrimination
+storyline_nexus:
+- ai-industry-regulation
+geographic_location: United States
 floor_values_engaged:
+- value: equality_fairness
+  intensity: 0.9
 - value: human_life_and_dignity
-  intensity: 0.75
-- value: informed_citizenship
-  intensity: 0.5
+  intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.35
-framework_version: 1.1.0
-generation_timestamp: '2026-05-16T18:08:07Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:00:10Z'
 source_cluster_id: cluster_ap_2026-01-06_deaf-sign-language-cafe-asl-ab71931b9329
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 10
   hedges:
-    appears: 0
     alleged: 0
-    attributed: 10
+    appears: 0
     reported: 0
-    contested: 0
+    attributed: 10
     confirmed: 0
+    contested: 0
   corroboration:
+    two_independent: 0
     primary_plus_secondary: 0
+    single_source: 10
     one_originating_plus_primary_document: 0
     primary_document: 0
-    single_source: 10
-    two_independent: 0
 sources:
   count: 1
   outlets:
@@ -71,17 +71,17 @@ image:
   url: /articles/2026-01-05-portland-asl-cafe-draws-deaf-community-nationwide-as-expansion-funding-stalls.png
   alt: 'Illustration accompanying article: Portland ASL cafe draws Deaf community nationwide as expansion funding stalls'
   source: ai_generated
-cross_article_links:
-- slug: 2025-12-30-faith-leaders-supporting-immigrants-brace-for-harder-year-under-trump-policies
-  relation: related
-  strength: 0.6776
-  confidence: medium
-- slug: 2025-12-30-faith-leaders-brace-for-harder-year-amid-trump-immigration-crackdown
-  relation: related
-  strength: 0.647
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- A Portland, Oregon cafe where American Sign Language is the primary language of business has drawn workers and patrons from across the country, The Oregonian/OregonLive reported. Woodstock Cafe, ow...
+- The cafe illustrates both the barriers deaf and hard of hearing workers face in the broader labor market and the role community nonprofits play in ...
+- PORTLAND, Ore. — A Portland cafe where American Sign Language is the primary language of business has drawn workers from across the country by offe...
+- Woodstock Cafe, owned by CymaSpace — a nonprofit focused on making art accessible to the Deaf community — takes orders in ASL. Customers who do not...
 
 A Portland, Oregon cafe where American Sign Language is the primary language of business has drawn workers and patrons from across the country, The Oregonian/OregonLive reported. Woodstock Cafe, owned by the nonprofit CymaSpace, takes orders in ASL and offers non-signing customers a microphone that transcribes their words onto a screen. Plans to expand the site into a Deaf Equity Center stalled after much of the federal funding was cut following the change of presidential administration, according to one of the cafe's founders.
 
@@ -115,93 +115,113 @@ CymaSpace had planned to acquire adjacent vacant buildings and develop a Deaf Eq
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** Woodstock Cafe; Portland, Oregon
-**Predicate:** uses_as_primary_language
-**Object:** American Sign Language (language)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Woodstock Cafe; Portland, Oregon
+- **Predicate:** uses_as_primary_language
+- **Object:** American Sign Language (language)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > Woodstock Cafe in Portland, Oregon uses American Sign Language as its primary language.
 
-### c_002 — attributed, single source
-**Subject entities:** Woodstock Cafe
-**Predicate:** offers_accommodation
-**Object:** microphone transcription to screen (accessibility_feature)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Woodstock Cafe
+- **Predicate:** offers_accommodation
+- **Object:** microphone transcription to screen (accessibility_feature)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > Non-ASL speakers at Woodstock Cafe can use a microphone that transcribes their order onto a screen.
 
-### c_003 — attributed, single source
-**Subject entities:** Woodstock Cafe; CymaSpace
-**Predicate:** owned_by
-**Object:** CymaSpace nonprofit (organization)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Woodstock Cafe; CymaSpace
+- **Predicate:** owned_by
+- **Object:** CymaSpace nonprofit (organization)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > Woodstock Cafe is owned by CymaSpace, a nonprofit that makes art accessible to the Deaf community.
 
-### c_004 — attributed, single source
-**Subject entities:** Andre Gray; Woodstock Cafe
-**Predicate:** stated
-**Object:** deaf and hard-of-hearing workers relocate nationally due to limited employment options (claim)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Andre Gray; Woodstock Cafe
+- **Predicate:** stated
+- **Object:** deaf and hard-of-hearing workers relocate nationally due to limited employment options (claim)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > People have moved from across the country to work at Woodstock Cafe because it can be hard for people who are deaf or hard of hearing to find jobs, according to Andre Gray, who helped open the cafe.
 
-### c_005 — attributed, single source
-**Subject entities:** Woodstock Cafe
-**Predicate:** hosts
-**Object:** weekly ASL meetups, game nights, Sign Squad Tuesdays (events)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Woodstock Cafe
+- **Predicate:** hosts
+- **Object:** weekly ASL meetups, game nights, Sign Squad Tuesdays (events)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > The cafe hosts weekly ASL meetups and game nights; Sign Squad on Tuesdays is a popular event.
 
-### c_006 — attributed, single source
-**Subject entities:** Zach Salisbury
-**Predicate:** born_with
-**Object:** rare genetic disorder causing gradual hearing and sight loss (medical_condition)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Zach Salisbury
+- **Predicate:** born_with
+- **Object:** rare genetic disorder causing gradual hearing and sight loss (medical_condition)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > Zach Salisbury was born with a rare genetic disorder that causes gradual loss of hearing and sight and uses a cochlear implant.
 
-### c_007 — attributed, single source
-**Subject entities:** Amy Wachspress
-**Predicate:** began_learning
-**Object:** sign language, nine years prior (activity)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Amy Wachspress
+- **Predicate:** began_learning
+- **Object:** sign language, nine years prior (activity)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > Amy Wachspress started learning sign language nine years ago as she lost her hearing and classifies herself as hard of hearing, primarily reading lips to communicate.
 
-### c_008 — attributed, single source
-**Subject entities:** CymaSpace
-**Predicate:** planned_to_acquire
-**Object:** adjacent vacant buildings for Deaf Equity Center (plan)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** CymaSpace
+- **Predicate:** planned_to_acquire
+- **Object:** adjacent vacant buildings for Deaf Equity Center (plan)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > CymaSpace had plans to acquire adjacent vacant buildings for a Deaf Equity Center.
 
-### c_009 — attributed, single source
-**Subject entities:** CymaSpace; Deaf Equity Center
-**Predicate:** funding_reduced
-**Object:** following change of presidential administration (causal_context)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** CymaSpace; Deaf Equity Center
+- **Predicate:** funding_reduced
+- **Object:** following change of presidential administration (causal_context)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > Much of the funding for the Deaf Equity Center was cut following the change of presidential administration, according to Andre Gray.
 
-### c_010 — attributed, single source
-**Subject entities:** CymaSpace
-**Predicate:** plans_to_seek
-**Object:** private organization funding and crowdsourcing campaign (plan)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** CymaSpace
+- **Predicate:** plans_to_seek
+- **Object:** private organization funding and crowdsourcing campaign (plan)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > CymaSpace hopes to find funding from private organizations and a future crowdsourcing campaign.
 
@@ -209,10 +229,5 @@ CymaSpace had planned to acquire adjacent vacant buildings and develop a Deaf Eq
 
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Publication date:** 2026-01-05
-**Access date:** 2026-05-16
 **Title:** ASL is the main language at a cafe in Oregon
 **URL:** https://apnews.com/article/deaf-sign-language-cafe-asl-ab71931b9329abc5b1c82fa53bdfd6df
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

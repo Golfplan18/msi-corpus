@@ -1,6 +1,5 @@
 ---
 headline: Machado gives Trump her Nobel Peace Prize medal at White House meeting
-slug: 2026-01-15-machado-gives-trump-her-nobel-peace-prize-medal-at-white-house-meeting
 publish_date: '2026-01-15'
 lede: Venezuelan opposition leader María Corina Machado gave President Donald Trump her Nobel Peace Prize medal at the White House on Thursday, describing the gesture as recognition of his "unique commitment" to Venezuelan freedom — even as the White House said the meeting had not changed Trump's assessment of her political viability. The two-and-a-half-hour meeting produced no public commitment from Trump on a timeline for elections in Venezuela, where interim President Delcy Rodríguez continues to govern with U.S. cooperation.
 nut_graf: The symbolically charged exchange underscored the gap between Machado's standing as the face of Venezuelan democratic resistance — her party is widely regarded as the rightful winner of the country's disputed 2024 election — and her limited leverage with an administration that has signaled openness to working with Rodríguez, a holdover from the Maduro government.
@@ -17,43 +16,43 @@ primary_themes:
 - Nobel Peace Prize
 - democratic opposition
 topic_tags:
-  - achievement
-  - "conflict, war and peace"
-  - "human interest"
-  - "political dissent"
-  - "political process"
-  - "science and technology"
-storyline_nexus: []
-geographic_location: Washington, D.C.; Caracas, Venezuela
+- politics
+- election
+- international relations
+- conflict, war and peace
+- peace process
+storyline_nexus:
+- venezuela-political-military-crisis
+geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
+- value: truthfulness
   intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.8
-- value: human_life_and_dignity
+  intensity: 0.9
+- value: informed_citizenship
   intensity: 0.6
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:01:26Z'
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:15:10Z'
 source_cluster_id: cluster_ap_2026-01-17_trump-machado-venezuela-65188578fb835da2
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 20
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 9
-    reported: 8
-    contested: 0
     confirmed: 3
+    alleged: 0
+    reported: 8
+    attributed: 9
+    contested: 0
+    appears: 0
   corroboration:
-    primary_plus_secondary: 1
     one_originating_plus_primary_document: 0
-    primary_document: 2
     single_source: 17
+    primary_plus_secondary: 1
+    primary_document: 2
     two_independent: 0
 sources:
   count: 1
@@ -68,41 +67,16 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-10-nobel-institute-rules-out-transfer-of-machado-s-peace-prize-to-trump
-  relation: continues
-  strength: 0.8333
-  confidence: high
-- slug: 2026-01-07-venezuela-s-opposition-sidelined-as-maduro-s-party-holds-power-after-u-s-seizure
-  relation: related
-  strength: 0.7769
-  confidence: medium
-- slug: 2026-01-06-delcy-rodr-guez-takes-power-as-venezuela-s-interim-president-after-maduro-s-capt
-  relation: continues
-  strength: 0.7608
-  confidence: high
-- slug: 2026-01-03-venezuela-in-limbo-after-maduro-capture-as-trump-endorses-deputy-snubs-oppositio
-  relation: continues
-  strength: 0.7782
-  confidence: high
-- slug: 2026-01-07-venezuela-s-new-interim-president-once-gambled-on-trump-with-a-500-000-donation
-  relation: related
-  strength: 0.7538
-  confidence: medium
-- slug: 2026-01-09-venezuela-frees-opposition-leaders-foreign-nationals-after-maduro-s-capture
-  relation: related
-  strength: 0.7335
-  confidence: medium
-- slug: 2026-01-06-venezuela-swears-in-rodr-guez-as-interim-president-projects-independence-after-u
-  relation: continues
-  strength: 0.7519
-  confidence: high
-- slug: 2026-01-07-petro-offers-trump-olive-branch-after-days-of-sharp-confrontation-over-venezuela
-  relation: related
-  strength: 0.7438
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- Venezuelan opposition leader María Corina Machado gave President Donald Trump her Nobel Peace Prize medal at the White House on Thursday, describing the gesture as recognition of his "unique commitment" to Venezuelan freedom — even as the White House said the meeting had not changed Trump's assessment of her political viability.
+- The symbolically charged exchange underscored the gap between Machado's standing as the face of Venezuelan democratic resistance — her party is widely regarded as the rightful winner of the country's disputed 2024 election — and her limited leverage with an administration that has signaled openness to working with Rodríguez, a holdover from the Maduro government.
+- WASHINGTON — Venezuelan opposition leader María Corina Machado gave President Donald Trump her Nobel Peace Prize medal at the White House on Thursday, describing the gesture as recognition of his "unique commitment" to Venezuelan freedom — even as the White House said the meeting had not changed Trump's assessment of her political viability. The two-and-a-half-hour meeting produced no public commitment from Trump on a timeline for elections in Venezuela, where interim President Delcy Rodríguez continues to govern with U.S. cooperation..
 
 WASHINGTON — Venezuelan opposition leader María Corina Machado gave President Donald Trump her Nobel Peace Prize medal at the White House on Thursday, describing the gesture as recognition of his "unique commitment" to Venezuelan freedom — even as the White House said the meeting had not changed Trump's assessment of her political viability. The two-and-a-half-hour meeting produced no public commitment from Trump on a timeline for elections in Venezuela, where interim President Delcy Rodríguez continues to govern with U.S. cooperation.
 
@@ -118,7 +92,7 @@ After the meeting, Machado greeted dozens of cheering supporters gathered near t
 
 ## No commitment on elections
 
-The meeting produced no public commitment on a timeline for elections in Venezuela. White House press secretary Karoline Leavitt described Machado as "a remarkable and brave voice" but said the meeting had not changed Trump's view of her — calling his position "a realistic assessment." Leavitt said Trump backed new elections "when the time is right" without specifying when.
+The meeting produced no public commitment on a timeline for elections in Venezuela. White House press secretary Karoline Leavitt described Machado as a notable and brave voice but said the meeting had not changed Trump's view of her — calling his position "a realistic assessment." Leavitt said Trump backed new elections "when the time is right" without specifying when.
 
 Leavitt added that the White House had sought from the meeting "a frank and positive conversation about what is happening in Venezuela" and did not suggest that Machado's perspective had altered administration policy.
 
@@ -146,183 +120,223 @@ A year later she drew further government anger by traveling to Washington to mee
 
 ## Atomic claims
 
-### c_001 — confirmed, primary plus secondary
-**Subject entities:** María Corina Machado; Donald Trump
-**Predicate:** gave_medal_to
-**Object:** Nobel Peace Prize medal (physical_object)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** María Corina Machado; Donald Trump
+- **Predicate:** gave_medal_to
+- **Object:** Nobel Peace Prize medal (physical_object)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > María Corina Machado gave President Donald Trump her Nobel Peace Prize medal at the White House on January 15, 2026.
 
-### c_002 — attributed, single source
-**Subject entities:** María Corina Machado
-**Predicate:** stated_rationale
-**Object:** recognition of Trump's unique commitment to freedom (attributed_statement)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** María Corina Machado
+- **Predicate:** stated_rationale
+- **Object:** recognition of Trump's unique commitment to freedom (attributed_statement)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Machado described the gesture as recognition of Trump's unique commitment to Venezuelan freedom.
 
-### c_003 — reported, single source
-**Subject entities:** Nobel Institute
-**Predicate:** ruled
-**Object:** prize cannot be transferred to Trump (institutional_ruling)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Nobel Institute
+- **Predicate:** ruled
+- **Object:** prize cannot be transferred to Trump (institutional_ruling)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > The Nobel Institute had previously ruled that Machado could not give her prize to Trump.
 
-### c_004 — confirmed, primary document
-**Subject entities:** Donald Trump
-**Predicate:** confirmed_via_social_media
-**Object:** Machado left Nobel medal with Trump (social_media_post)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Donald Trump
+- **Predicate:** confirmed_via_social_media
+- **Object:** Machado left Nobel medal with Trump (social_media_post)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Trump confirmed on social media that Machado had left the medal with him, describing her as a wonderful woman who has been through so much.
 
-### c_005 — confirmed, primary document
-**Subject entities:** White House; María Corina Machado; Donald Trump
-**Predicate:** published_photo
-**Object:** Oval Office photo with framed medal (official_document)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_005
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** White House; María Corina Machado; Donald Trump
+- **Predicate:** published_photo
+- **Object:** Oval Office photo with framed medal (official_document)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > The White House published a photo of Machado with Trump in the Oval Office while he held the medal in a large framed display.
 
-### c_006 — attributed, single source
-**Subject entities:** Karoline Leavitt
-**Predicate:** stated
-**Object:** meeting does not change Trump's assessment of Machado (press_briefing_statement)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Karoline Leavitt
+- **Predicate:** stated
+- **Object:** meeting does not change Trump's assessment of Machado (press_briefing_statement)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > White House press secretary Karoline Leavitt said the meeting did not mean Trump's opinion of Machado had changed, calling it a realistic assessment.
 
-### c_007 — attributed, single source
-**Subject entities:** Karoline Leavitt; Donald Trump
-**Predicate:** stated
-**Object:** elections when time is right, no timeline given (press_briefing_statement)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Karoline Leavitt; Donald Trump
+- **Predicate:** stated
+- **Object:** elections when time is right, no timeline given (press_briefing_statement)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Leavitt said Trump supported new elections in Venezuela when the time is right, without specifying a timeline.
 
-### c_008 — reported, single source
-**Subject entities:** María Corina Machado
-**Predicate:** spent_time_at
-**Object:** two and a half hours (duration)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** María Corina Machado
+- **Predicate:** spent_time_at
+- **Object:** two and a half hours (duration)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Machado spent approximately two and a half hours at the White House.
 
-### c_009 — attributed, single source
-**Subject entities:** Chris Murphy; María Corina Machado
-**Predicate:** reported_statement_from
-**Object:** warning about lack of progress toward elections (attributed_quote)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Chris Murphy; María Corina Machado
+- **Predicate:** reported_statement_from
+- **Object:** warning about lack of progress toward elections (attributed_quote)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Sen. Chris Murphy said Machado told senators that if there is no real progress toward a power transition or elections in the coming months, we should all be worried.
 
-### c_010 — attributed, single source
-**Subject entities:** Chris Murphy
-**Predicate:** stated
-**Object:** no commitment obtained on elections (attributed_statement)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Chris Murphy
+- **Predicate:** stated
+- **Object:** no commitment obtained on elections (attributed_statement)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Murphy said Machado received no commitment from the White House on elections.
 
-### c_011 — attributed, single source
-**Subject entities:** Chris Murphy; María Corina Machado; Delcy Rodríguez
-**Predicate:** reported_statement_from
-**Object:** Rodríguez characterized as worse than Maduro (attributed_quote)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Chris Murphy; María Corina Machado; Delcy Rodríguez
+- **Predicate:** reported_statement_from
+- **Object:** Rodríguez characterized as worse than Maduro (attributed_quote)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Murphy said Machado reminded senators that Delcy Rodríguez is, in many respects, worse than Maduro.
 
-### c_012 — attributed, single source
-**Subject entities:** Bernie Moreno; María Corina Machado
-**Predicate:** stated
-**Object:** Trump's action most significant in Latin America (attributed_quote)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Bernie Moreno; María Corina Machado
+- **Predicate:** stated
+- **Object:** Trump's action most significant in Latin America (attributed_quote)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Sen. Bernie Moreno said Machado delivered a strong and clear message that what Trump did was the most important and significant event in Latin America and that removing Maduro was absolutely essential.
 
-### c_013 — reported, single source
-**Subject entities:** Delcy Rodríguez
-**Predicate:** governs_and_cooperates
-**Object:** Venezuela government operations (political_status)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_013
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Delcy Rodríguez
+- **Predicate:** governs_and_cooperates
+- **Object:** Venezuela government operations (political_status)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Interim President Delcy Rodríguez remains in charge of Venezuela's daily government operations and has been cooperating fully with the Trump administration.
 
-### c_014 — reported, single source
-**Subject entities:** Delcy Rodríguez
-**Predicate:** delivered_address
-**Object:** state-of-the-nation address calling for diplomacy and oil investment (government_action)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_014
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Delcy Rodríguez
+- **Predicate:** delivered_address
+- **Object:** state-of-the-nation address calling for diplomacy and oil investment (government_action)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Rodríguez delivered her first state-of-the-nation address on Thursday, calling for renewed diplomatic ties and greater foreign investment in Venezuela's oil industry.
 
-### c_015 — attributed, single source
-**Subject entities:** Donald Trump; María Corina Machado
-**Predicate:** previously_stated
-**Object:** Machado lacks support to lead Venezuela (prior_statement)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; María Corina Machado
+- **Predicate:** previously_stated
+- **Object:** Machado lacks support to lead Venezuela (prior_statement)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Trump had previously said that leading Venezuela would be very difficult for Machado because she does not have the support or respect within the country.
 
-### c_016 — reported, single source
-**Subject entities:** Vente Venezuela; Nicolás Maduro
-**Predicate:** won_disputed_election
-**Object:** Venezuela 2024 election (election_result)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_016
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Vente Venezuela; Nicolás Maduro
+- **Predicate:** won_disputed_election
+- **Object:** Venezuela 2024 election (election_result)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Machado's party, Vente Venezuela, is widely regarded as the winner of Venezuela's 2024 election, a result Maduro rejected despite widespread credible evidence to the contrary.
 
-### c_017 — reported, single source
-**Subject entities:** United States; Venezuela
-**Predicate:** seized_tanker
-**Object:** sanctioned oil tanker (enforcement_action)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_017
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** United States; Venezuela
+- **Predicate:** seized_tanker
+- **Object:** sanctioned oil tanker (enforcement_action)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > U.S. forces seized another sanctioned oil tanker linked to Venezuela in the Caribbean on Thursday.
 
-### c_018 — reported, single source
-**Subject entities:** Venezuela; United States
-**Predicate:** released_prisoners
-**Object:** five Americans among released prisoners (government_action)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_018
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Venezuela; United States
+- **Predicate:** released_prisoners
+- **Object:** five Americans among released prisoners (government_action)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Five Americans were among prisoners released by Venezuela's interim government during the week of January 15, 2026.
 
-### c_019 — attributed, single source
-**Subject entities:** Donald Trump; Delcy Rodríguez
-**Predicate:** stated
-**Object:** great conversation with Rodríguez (attributed_statement)
-**Temporal:** 2026-01-14
-**Source IDs:** src_001
+### c_019
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Delcy Rodríguez
+- **Predicate:** stated
+- **Object:** great conversation with Rodríguez (attributed_statement)
+- **Temporal:** 2026-01-14
+- **Sources:** src_001
 
 > Trump said Wednesday he had a great conversation with Rodríguez, the first since Maduro was captured.
 
-### c_020 — reported, single source
-**Subject entities:** María Corina Machado
-**Predicate:** was_in_hiding
-**Object:** 11 months in hiding in Venezuela (biographical_fact)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_020
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** María Corina Machado
+- **Predicate:** was_in_hiding
+- **Object:** 11 months in hiding in Venezuela (biographical_fact)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > Machado had not been seen in public from before the Oslo ceremony until Thursday's White House visit, having spent 11 months in hiding in Venezuela.
 
@@ -331,10 +345,5 @@ A year later she drew further government anger by traveling to Washington to mee
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Will Weissert
 **Publication date:** 2026-01-15
-**Access date:** 2026-01-15
 **Title:** Opositora venezolana María Corina Machado le da la medalla de su Nobel a Trump durante su reunión
 **URL:** https://apnews.com/article/trump-machado-venezuela-65188578fb835da295a0bbeb773b6436
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

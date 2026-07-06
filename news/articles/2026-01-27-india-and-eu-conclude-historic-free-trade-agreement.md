@@ -20,10 +20,7 @@ topic_tags:
   - "international trade"
   - labour
   - "labour dispute"
-storyline_nexus:
-  - us-administration-2026
-  - trump-tariff-policy
-  - us-china-relations
+storyline_nexus: []
 geographic_location: International
 floor_values_engaged:
 - value: truthfulness
@@ -394,7 +391,3 @@ Trade analyst Ajay Srivastava said the accord is about "creating a stable commer
 **Access date:** 2026-05-17
 **Title:** India and the European Union reach a free trade agreement
 **URL:** https://apnews.com/article/india-eu-modi-trade-wine-auto-74b8744b2ef562d2e820b238e6ce8d38
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

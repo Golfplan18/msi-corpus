@@ -19,39 +19,41 @@ primary_themes:
 - Utility Coordination
 - Climate and Resilience
 topic_tags:
-  - weather
+- weather
+- natural disaster
+- disaster
+- energy and resource
+- weather warning
 storyline_nexus:
-  - us-winter-storm-january-2026
-geographic_location: Eastern United States, particularly Southern region
+- extreme-weather-disasters
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
-  intensity: 0.95
-- value: informed_citizenship
-  intensity: 0.85
-- value: accountability_of_power
-  intensity: 0.8
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18'
+  intensity: 0.9
+- value: equality_fairness
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:30:26Z'
 source_cluster_id: cluster_ap_2026-01-24_winter-storm-power-outages-0fe4d9defd16e
 gdelt_event_ids: []
-consensus_floor_version: v1.0
-publication_mindspec_version: v1.0
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 18
   hedges:
+    contested: 0
+    reported: 14
     appears: 0
+    confirmed: 0
     alleged: 0
     attributed: 4
-    reported: 14
-    contested: 0
-    confirmed: 0
   corroboration:
-    primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
     primary_document: 0
     single_source: 18
+    primary_plus_secondary: 0
     two_independent: 0
 sources:
   count: 1
@@ -66,21 +68,16 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-07-ice-and-snow-close-schools-across-new-england-as-more-storms-approach
-  relation: related
-  strength: 0.8188
-  confidence: medium
-- slug: 2025-12-29-power-outages-can-turn-dangerous-fast-experts-detail-how-to-prepare
-  relation: related
-  strength: 0.8264
-  confidence: medium
-- slug: 2025-12-29-experts-lay-out-safety-steps-for-surviving-a-power-outage
-  relation: related
-  strength: 0.8191
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- An approaching ice storm threatens to cut power to millions of people across the eastern two-thirds of the United States this weekend. In the South, where a majority of homes are heated by electric...
+- Electricity heats the majority of homes in Alabama, Arkansas, Georgia, Kentucky, Louisiana, Mississippi, North Carolina, South Carolina, Tennessee,...
+- The approaching storm underscores ongoing vulnerabilities in the U.S. power system and exposes disparities in how outages affect communities. Previ...
 
 An approaching ice storm threatens to cut power to millions of people across the eastern two-thirds of the United States this weekend. In the South, where a majority of homes are heated by electricity, losing power means losing heat — a danger that utility officials say ice storms pose more severely than hurricanes.
 
@@ -136,165 +133,201 @@ The approaching storm will test whether that preparedness holds.
 
 ## Atomic claims
 
-### c_001 — reported, single source
-**Subject entities:** ice storm
-**Predicate:** approaching
-**Object:** eastern two-thirds of U.S. (geographic_region)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** ice storm
+- **Predicate:** approaching
+- **Object:** eastern two-thirds of U.S. (geographic_region)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > An ice storm is approaching the eastern two-thirds of the United States this weekend.
 
-### c_002 — reported, single source
-**Subject entities:** homes in Southern U.S.
-**Predicate:** heated_by
-**Object:** electricity (heating_source)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** homes in Southern U.S.
+- **Predicate:** heated_by
+- **Object:** electricity (heating_source)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > A majority of homes in Alabama, Arkansas, Georgia, Kentucky, Louisiana, Mississippi, North Carolina, South Carolina, Tennessee, Texas, and Virginia are heated by electricity.
 
-### c_003 — attributed, single source
-**Subject entities:** Keith Avery
-**Predicate:** stated_assessment
-**Object:** ice storms worse than hurricanes (assessment)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Keith Avery
+- **Predicate:** stated_assessment
+- **Object:** ice storms worse than hurricanes (assessment)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > Keith Avery, CEO of Newberry Electric Cooperative in South Carolina, said ice storms are worse than hurricanes.
 
-### c_004 — reported, single source
-**Subject entities:** Newberry Electric Cooperative; Hurricane Helene
-**Predicate:** lost_power
-**Object:** nearly all customers (proportion)
-**Temporal:** 2024
-**Source IDs:** src_001
+### c_004
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Newberry Electric Cooperative; Hurricane Helene
+- **Predicate:** lost_power
+- **Object:** nearly all customers (proportion)
+- **Temporal:** 2024
+- **Sources:** src_001
 
 > Nearly all customers of Newberry Electric Cooperative lost power when Hurricane Helene struck South Carolina in 2024.
 
-### c_005 — reported, single source
-**Subject entities:** trees; power lines
-**Predicate:** continue_falling
-**Object:** days after storm passes (timeframe)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** trees; power lines
+- **Predicate:** continue_falling
+- **Object:** days after storm passes (timeframe)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > Ice-coated trees and power lines can continue falling days after a storm passes.
 
-### c_006 — reported, single source
-**Subject entities:** Winter Storm Uri
-**Predicate:** crippled
-**Object:** five days (duration)
-**Temporal:** 2021
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Winter Storm Uri
+- **Predicate:** crippled
+- **Object:** five days (duration)
+- **Temporal:** 2021
+- **Sources:** src_001
 
 > Winter Storm Uri in 2021 crippled Texas's power grid for five days.
 
-### c_007 — reported, single source
-**Subject entities:** Winter Storm Uri
-**Predicate:** caused_deaths
-**Object:** 246 (death_count)
-**Temporal:** 2021
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Winter Storm Uri
+- **Predicate:** caused_deaths
+- **Object:** 246 (death_count)
+- **Temporal:** 2021
+- **Sources:** src_001
 
 > Winter Storm Uri led to 246 storm-related deaths according to the Texas Department of Health Services.
 
-### c_008 — attributed, single source
-**Subject entities:** Georg Rute
-**Predicate:** attributed_damage
-**Object:** poorly weatherized power infrastructure (causal_analysis)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Georg Rute
+- **Predicate:** attributed_damage
+- **Object:** poorly weatherized power infrastructure (causal_analysis)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > Georg Rute, CEO of Gridraven, said Winter Storm Uri's damage stemmed largely from poorly weatherized power plants and natural gas systems, not downed power lines.
 
-### c_009 — reported, single source
-**Subject entities:** transmission lines
-**Predicate:** can_trip
-**Object:** extreme cold conditions (condition)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** transmission lines
+- **Predicate:** can_trip
+- **Object:** extreme cold conditions (condition)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > Transmission lines can trip during extreme cold.
 
-### c_010 — attributed, single source
-**Subject entities:** Greg Abbott
-**Predicate:** stated_readiness
-**Object:** ERCOT grid prepared for storm (statement)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Greg Abbott
+- **Predicate:** stated_readiness
+- **Object:** ERCOT grid prepared for storm (statement)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > Governor Greg Abbott said the ERCOT grid is prepared to handle the approaching winter storm.
 
-### c_011 — reported, single source
-**Subject entities:** Duke Energy
-**Predicate:** serves
-**Object:** 4.6 million (customer_count)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Duke Energy
+- **Predicate:** serves
+- **Object:** 4.6 million (customer_count)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > Duke Energy serves more than 4.6 million customers in North and South Carolina.
 
-### c_012 — reported, single source
-**Subject entities:** Duke Energy
-**Predicate:** positioned
-**Object:** 18,000 workers (workforce)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Duke Energy
+- **Predicate:** positioned
+- **Object:** 18,000 workers (workforce)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > Duke Energy has positioned more than 18,000 workers to respond to outages.
 
-### c_013 — reported, single source
-**Subject entities:** Hispanic communities
-**Predicate:** experienced_disparate_outages
-**Object:** higher frequency of outages (inequitable_impact)
-**Temporal:** 2021
-**Source IDs:** src_001
+### c_013
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Hispanic communities
+- **Predicate:** experienced_disparate_outages
+- **Object:** higher frequency of outages (inequitable_impact)
+- **Temporal:** 2021
+- **Sources:** src_001
 
 > Winter Storm Uri exposed disparities in outage impact, with residents in predominantly Hispanic areas experiencing more outages.
 
-### c_014 — reported, single source
-**Subject entities:** Black communities
-**Predicate:** experienced_longer_outages
-**Object:** outages lasting one day or longer (inequitable_impact)
-**Temporal:** 2021
-**Source IDs:** src_001
+### c_014
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Black communities
+- **Predicate:** experienced_longer_outages
+- **Object:** outages lasting one day or longer (inequitable_impact)
+- **Temporal:** 2021
+- **Sources:** src_001
 
 > Black residents affected by Winter Storm Uri were more likely to face outages lasting a day or more.
 
-### c_015 — attributed, single source
-**Subject entities:** Jennifer Laird
-**Predicate:** stated_observation
-**Object:** outages reveal hidden dependencies (observation)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jennifer Laird
+- **Predicate:** stated_observation
+- **Object:** outages reveal hidden dependencies (observation)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > Jennifer Laird, a sociology professor at CUNY's Lehman College, said outages expose vulnerabilities people don't anticipate.
 
-### c_016 — reported, single source
-**Subject entities:** U.S. households
-**Predicate:** behind_on_bills
-**Object:** 1 in 6 households (proportion)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_016
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** U.S. households
+- **Predicate:** behind_on_bills
+- **Object:** 1 in 6 households (proportion)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > About 1 in 6 U.S. households are already behind on energy bills.
 
-### c_017 — reported, single source
-**Subject entities:** Tennessee Valley Authority
-**Predicate:** serves
-**Object:** 10 million (population_served)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_017
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Tennessee Valley Authority
+- **Predicate:** serves
+- **Object:** 10 million (population_served)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > The Tennessee Valley Authority serves more than 10 million people across seven states.
 
-### c_018 — reported, single source
-**Subject entities:** Tennessee Valley Authority
-**Predicate:** invested
-**Object:** hundreds of millions (investment_amount)
-**Temporal:** 2026-01-23
-**Source IDs:** src_001
+### c_018
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Tennessee Valley Authority
+- **Predicate:** invested
+- **Object:** hundreds of millions (investment_amount)
+- **Temporal:** 2026-01-23
+- **Sources:** src_001
 
 > TVA has invested hundreds of millions of dollars in weatherization since a 2022 winter storm.
 
@@ -303,10 +336,5 @@ The approaching storm will test whether that preparedness holds.
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** R.J. Rico
 **Publication date:** 2026-01-23
-**Access date:** 2026-01-23
 **Title:** Winter storm threatens millions with power outages and no heat
 **URL:** https://apnews.com/article/winter-storm-power-outages-0fe4d9defd16e2beeebd42692f8c12c9
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

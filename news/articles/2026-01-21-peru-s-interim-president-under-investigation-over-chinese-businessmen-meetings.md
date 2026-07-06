@@ -275,7 +275,3 @@ Jerí assumed power in October after Congress ousted President Dina Boluarte in 
 **Access date:** 2026-01-21
 **Title:** Peru's interim President Jerí faces calls for removal over unregistered meetings with businessmen
 **URL:** https://apnews.com/article/peru-president-jeri-investigation-chinese-businessmen-8c4e1967b6d5364bfb21b68661649a2a
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -22,42 +22,42 @@ primary_themes:
 - Iran war
 - Gaza conflict
 topic_tags:
-  - "conflict, war and peace"
-  - politics
-  - "government policy"
-  - "international relations"
-storyline_nexus: []
-geographic_location: Washington, D.C.
+- armed conflict
+- conflict, war and peace
+- international relations
+- government
+- politics
+storyline_nexus:
+- gaza-israel-war
+geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.8
+  intensity: 0.9
 - value: human_life_and_dignity
-  intensity: 0.75
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T08:13:31Z'
+  intensity: 0.9
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:31:24Z'
 source_cluster_id: cluster_ap_2026-04-16_israel-congress-arms-sales-sanders-iran-
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 12
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 6
     reported: 0
-    contested: 0
+    appears: 0
     confirmed: 6
+    attributed: 6
+    contested: 0
+    alleged: 0
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 2
     single_source: 10
+    primary_document: 2
+    one_originating_plus_primary_document: 0
     two_independent: 0
+    primary_plus_secondary: 0
 sources:
   count: 1
   outlets:
@@ -71,13 +71,18 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-06-israel-strikes-lebanon-sites-ahead-of-key-hezbollah-disarmament-meeting
-  relation: related
-  strength: 0.7439
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- The votes failed 40-59 and 36-63, with all Republicans opposed.
+- The results signal deepening Democratic discontent with Prime Minister Benjamin Netanyahu and a sharpening generational and activist divide within the party over U.S.
+- WASHINGTON — The Senate on Wednesday voted to reject two resolutions by Vermont independent Sen.
+- The two resolutions, which would have halted U.S.
 
 The results signal deepening Democratic discontent with Prime Minister Benjamin Netanyahu and a sharpening generational and activist divide within the party over U.S. policy toward Israel.
 
@@ -121,111 +126,135 @@ Senate Foreign Relations Committee Chairman Jim Risch, R-Idaho, said the resolut
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** U.S. Senate; Israel
-**Predicate:** rejected_resolution
-**Object:** 40-59 (vote_tally)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Senate; Israel
+- **Predicate:** rejected_resolution
+- **Object:** 40-59 (vote_tally)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > The Senate voted 40-59 to reject a resolution to block U.S. sales of bulldozers to Israel.
 
-### c_002 — confirmed, primary document
-**Subject entities:** U.S. Senate; Israel
-**Predicate:** rejected_resolution
-**Object:** 36-63 (vote_tally)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Senate; Israel
+- **Predicate:** rejected_resolution
+- **Object:** 36-63 (vote_tally)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > The Senate voted 36-63 to reject a second resolution to block U.S. sales of bombs to Israel.
 
-### c_003 — attributed, single source
-**Subject entities:** U.S. Republican Party
-**Predicate:** voted_against
-**Object:** both resolutions (legislative_vote)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Republican Party
+- **Predicate:** voted_against
+- **Object:** both resolutions (legislative_vote)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > All Republicans voted against both resolutions.
 
-### c_004 — attributed, single source
-**Subject entities:** U.S. Democratic Party; Bernie Sanders
-**Predicate:** voted_in_favor
-**Object:** more than three dozen (vote_count)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Democratic Party; Bernie Sanders
+- **Predicate:** voted_in_favor
+- **Object:** more than three dozen (vote_count)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > More than three dozen Democrats voted with Sanders in support of his effort to block arms sales to Israel.
 
-### c_005 — attributed, single source
-**Subject entities:** U.S. Democratic Party; Bernie Sanders
-**Predicate:** increased_support
-**Object:** more than doubled (trend)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Democratic Party; Bernie Sanders
+- **Predicate:** increased_support
+- **Object:** more than doubled (trend)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > The number of Democrats voting with Sanders on Israel arms-sale resolutions has more than doubled in less than two years.
 
-### c_006 — attributed, single source
-**Subject entities:** Bernie Sanders
-**Predicate:** forced_prior_votes
-**Object:** 2024 and 2025 (prior_actions)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Bernie Sanders
+- **Predicate:** forced_prior_votes
+- **Object:** 2024 and 2025 (prior_actions)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > Sanders forced similar votes on blocking arms sales to Israel in 2024 and 2025, which were also rejected.
 
-### c_007 — confirmed, single source
-**Subject entities:** Mark Kelly
-**Predicate:** voted_in_favor
-**Object:** both resolutions (legislative_vote)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Mark Kelly
+- **Predicate:** voted_in_favor
+- **Object:** both resolutions (legislative_vote)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > Arizona Sen. Mark Kelly voted for both resolutions after opposing some of Sanders' previous efforts.
 
-### c_008 — confirmed, single source
-**Subject entities:** Charles Schumer; Kirsten Gillibrand
-**Predicate:** voted_against
-**Object:** both resolutions (legislative_vote)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Charles Schumer; Kirsten Gillibrand
+- **Predicate:** voted_against
+- **Object:** both resolutions (legislative_vote)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > Senate Minority Leader Chuck Schumer and Sen. Kirsten Gillibrand voted against the resolutions.
 
-### c_009 — attributed, single source
-**Subject entities:** Jewish Voice for Peace; Charles Schumer; Kirsten Gillibrand
-**Predicate:** arrested_at_protest
-**Object:** nearly 100 (arrest_count)
-**Temporal:** 2026-04-13
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jewish Voice for Peace; Charles Schumer; Kirsten Gillibrand
+- **Predicate:** arrested_at_protest
+- **Object:** nearly 100 (arrest_count)
+- **Temporal:** 2026-04-13
+- **Sources:** src_001
 
 > Nearly 100 protesters were arrested Monday during a demonstration led by Jewish Voice for Peace at the offices of Schumer and Gillibrand.
 
-### c_010 — confirmed, single source
-**Subject entities:** U.S. Senate
-**Predicate:** rejected_resolution
-**Object:** 47-52 (vote_tally)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Senate
+- **Predicate:** rejected_resolution
+- **Object:** 47-52 (vote_tally)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > The Senate voted 47-52 to reject a resolution to end U.S. military involvement in Iran, with Democrats supporting the measure.
 
-### c_011 — confirmed, single source
-**Subject entities:** Chris Coons
-**Predicate:** split_vote
-**Object:** Iran yes; Israel resolutions no (legislative_votes)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_011
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Chris Coons
+- **Predicate:** split_vote
+- **Object:** Iran yes; Israel resolutions no (legislative_votes)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > Sen. Chris Coons voted for the Iran resolution but against the Israel arms-sale resolutions.
 
-### c_012 — attributed, single source
-**Subject entities:** Jim Risch
-**Predicate:** stated_opposition
-**Object:** resolutions could embolden Iran (statement)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jim Risch
+- **Predicate:** stated_opposition
+- **Object:** resolutions could embolden Iran (statement)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > Senate Foreign Relations Committee Chairman Jim Risch said the resolutions could embolden Iran and send the message that the U.S. is prepared to leave Israel vulnerable.
 
@@ -234,10 +263,5 @@ Senate Foreign Relations Committee Chairman Jim Risch, R-Idaho, said the resolut
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Mary Clare Jalonick
 **Publication date:** 2026-04-16
-**Access date:** 2026-05-17
 **Title:** Senate rejects effort to halt arms sales to Israel
 **URL:** https://apnews.com/article/israel-congress-arms-sales-sanders-iran-gaza-cdfd0512f05a71cc6cbc3382044a8a9b
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

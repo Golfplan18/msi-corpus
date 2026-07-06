@@ -101,10 +101,6 @@ Later, as thousands of volunteers danced to form the numbers "26," Gargiulo knel
 
 Asked about the pace of his life at 89, he did not hesitate. "My pace, my tempo, has slowed down a bit," he said. "But my heartbeat is still the same."
 
----
-
-This article was generated algorithmically by Main Street Independent's News Article Generator framework. [Specification and methods.](/methodology) This work is released under the Creative Commons CC0 Public Domain Dedication.
-
 ## Atomic claims
 
 ### c_001 — attributed, single source
@@ -214,7 +210,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-05-18
 **Title:** This 89-year-old 'King of the Volunteers' starred in the Olympics closing ceremony
 **URL:** https://apnews.com/article/milan-cortina-olympics-oldest-volunteer-c7546e1c7025c1461017cca3052d9f4d
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

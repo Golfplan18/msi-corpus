@@ -249,7 +249,3 @@ The community's current refectory is tucked deep inside the convent — a modest
 **Access date:** 2026-05-17
 **Title:** Meet the friars who live beside Leonardo da Vinci's 'Last Supper'
 **URL:** https://apnews.com/article/milan-santa-maria-delle-grazie-friars-ac0d1b7ebfea085e6b7b4bb3a94f51c8
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

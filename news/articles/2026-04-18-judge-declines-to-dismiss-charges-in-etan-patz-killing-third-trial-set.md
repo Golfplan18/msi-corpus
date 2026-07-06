@@ -15,7 +15,8 @@ primary_themes:
 - appellate review
 topic_tags:
   - "crime, law and justice"
-storyline_nexus: []
+storyline_nexus:
+- trump-judicial-challenges
 geographic_location: New York
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -116,187 +117,225 @@ Etan's disappearance on what would have been a routine first unaccompanied journ
 
 For nearly half a century, the case has endured through changing investigative techniques, shifting legal standards, and competing theories about what can be known from a confession given 33 years after the crime alleged to have occurred.
 
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under `sources`. Specification: /methodology. Human review: not_triggered.
-
 ## Atomic claims
 
-### c_001 — attributed, primary document
-**Subject entities:** Michele Rodney; Pedro Hernandez; Etan Patz
-**Predicate:** declined_to_dismiss
-**Object:** murder charges (legal_action)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Michele Rodney; Pedro Hernandez; Etan Patz
+- **Predicate:** declined_to_dismiss
+- **Object:** murder charges (legal_action)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > Judge Michele Rodney declined Friday to dismiss murder charges against Pedro Hernandez in the 1979 disappearance of 6-year-old Etan Patz.
 
-### c_002 — attributed, primary document
-**Subject entities:** Etan Patz; Pedro Hernandez
-**Predicate:** enables
-**Object:** third trial (legal_proceeding)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Etan Patz; Pedro Hernandez
+- **Predicate:** enables
+- **Object:** third trial (legal_proceeding)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > The decision clears the path for a third trial in the Etan Patz case.
 
-### c_003 — attributed, primary document
-**Subject entities:** Pedro Hernandez
-**Predicate:** arrested_and_detained
-**Object:** 2012 (date)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Pedro Hernandez
+- **Predicate:** arrested_and_detained
+- **Object:** 2012 (date)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > Pedro Hernandez is 65 years old and has been in custody since his 2012 arrest.
 
-### c_004 — attributed, primary document
-**Subject entities:** Pedro Hernandez
-**Predicate:** scheduled_for_court
-**Object:** June 2026 (temporal)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Pedro Hernandez
+- **Predicate:** scheduled_for_court
+- **Object:** June 2026 (temporal)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > Hernandez is scheduled to return to court in June for a status update.
 
-### c_005 — attributed, primary document
-**Subject entities:** Pedro Hernandez
-**Predicate:** trial_date_status
-**Object:** not set (legal_status)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Pedro Hernandez
+- **Predicate:** trial_date_status
+- **Object:** not set (legal_status)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > No trial date has been set.
 
-### c_006 — confirmed, primary plus secondary
-**Subject entities:** Etan Patz
-**Predicate:** disappeared
-**Object:** May 25, 1979 (date_and_event)
-**Temporal:** 1979-05-25
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** Etan Patz
+- **Predicate:** disappeared
+- **Object:** May 25, 1979 (date_and_event)
+- **Temporal:** 1979-05-25
+- **Sources:** src_001
 
 > Etan Patz vanished on a two-block walk to his school bus stop on the first day his mother let him go unaccompanied.
 
-### c_007 — confirmed, primary plus secondary
-**Subject entities:** Etan Patz
-**Predicate:** pictured_on_milk_cartons
-**Object:** milk cartons (cultural_artifact)
-**Temporal:** 1980s
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** Etan Patz
+- **Predicate:** pictured_on_milk_cartons
+- **Object:** milk cartons (cultural_artifact)
+- **Temporal:** 1980s
+- **Sources:** src_001
 
 > Etan Patz was among the first missing children pictured on milk cartons.
 
-### c_008 — confirmed, primary plus secondary
-**Subject entities:** National Missing Children's Day
-**Predicate:** commemorates_date
-**Object:** May 25 (date)
-**Temporal:** post-1979
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** primary_plus_secondary
+- **Subject entities:** National Missing Children's Day
+- **Predicate:** commemorates_date
+- **Object:** May 25 (date)
+- **Temporal:** post-1979
+- **Sources:** src_001
 
 > May 25 became National Missing Children's Day.
 
-### c_009 — attributed, primary document
-**Subject entities:** Pedro Hernandez; Etan Patz
-**Predicate:** worked_near
-**Object:** corner store clerk (occupation)
-**Temporal:** 1979
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Pedro Hernandez; Etan Patz
+- **Predicate:** worked_near
+- **Object:** corner store clerk (occupation)
+- **Temporal:** 1979
+- **Sources:** src_001
 
 > Hernandez was a 19-year-old corner store clerk in Etan's neighborhood when Etan disappeared.
 
-### c_010 — attributed, primary document
-**Subject entities:** Pedro Hernandez
-**Predicate:** became_suspect
-**Object:** 2012 (date)
-**Temporal:** 2012
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Pedro Hernandez
+- **Predicate:** became_suspect
+- **Object:** 2012 (date)
+- **Temporal:** 2012
+- **Sources:** src_001
 
 > Hernandez did not become a suspect until 2012, when investigators received a tip that he had told various people he had killed a child in New York.
 
-### c_011 — reported, single source
-**Subject entities:** Pedro Hernandez; Etan Patz
-**Predicate:** confessed_to_police
-**Object:** strangulation in shop basement (alleged_crime)
-**Temporal:** 2012
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Pedro Hernandez; Etan Patz
+- **Predicate:** confessed_to_police
+- **Object:** strangulation in shop basement (alleged_crime)
+- **Temporal:** 2012
+- **Sources:** src_001
 
 > After hours of questioning and before being informed of his right to remain silent, Hernandez told police he had strangled Etan in the shop basement after enticing him with the offer of a soda.
 
-### c_012 — attributed, single source
-**Subject entities:** Pedro Hernandez
-**Predicate:** made_statement
-**Object:** Something just took over me (quotation)
-**Temporal:** 2012
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Pedro Hernandez
+- **Predicate:** made_statement
+- **Object:** Something just took over me (quotation)
+- **Temporal:** 2012
+- **Sources:** src_001
 
 > Hernandez later was read his rights and recapped his statement on video, telling authorities: "Something just took over me."
 
-### c_013 — attributed, single source
-**Subject entities:** Pedro Hernandez
-**Predicate:** disputed_confessions
-**Object:** confessions were false imaginings (legal_argument)
-**Temporal:** 2012-present
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Pedro Hernandez
+- **Predicate:** disputed_confessions
+- **Object:** confessions were false imaginings (legal_argument)
+- **Temporal:** 2012-present
+- **Sources:** src_001
 
 > Defense lawyers said all of Hernandez's admissions amounted to the imaginings of a mentally ill and intellectually limited man, haunted and confused by the highly publicized Etan Patz tragedy.
 
-### c_014 — attributed, primary document
-**Subject entities:** Pedro Hernandez
-**Predicate:** trial_outcome
-**Object:** hung jury (trial_result)
-**Temporal:** 2015
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Pedro Hernandez
+- **Predicate:** trial_outcome
+- **Object:** hung jury (trial_result)
+- **Temporal:** 2015
+- **Sources:** src_001
 
 > Hernandez's 2015 trial ended in a jury deadlock.
 
-### c_015 — attributed, primary document
-**Subject entities:** Pedro Hernandez
-**Predicate:** convicted
-**Object:** 2017 (year)
-**Temporal:** 2017
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Pedro Hernandez
+- **Predicate:** convicted
+- **Object:** 2017 (year)
+- **Temporal:** 2017
+- **Sources:** src_001
 
 > A 2017 retrial yielded a conviction.
 
-### c_016 — attributed, primary document
-**Subject entities:** Pedro Hernandez
-**Predicate:** conviction_overturned
-**Object:** conviction reversed (legal_decision)
-**Temporal:** post-2017
-**Source IDs:** src_001
+### c_016
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Pedro Hernandez
+- **Predicate:** conviction_overturned
+- **Object:** conviction reversed (legal_decision)
+- **Temporal:** post-2017
+- **Sources:** src_001
 
 > A federal appeals court overturned Hernandez's conviction.
 
-### c_017 — attributed, primary document
-**Subject entities:** Pedro Hernandez; federal appeals court
-**Predicate:** identified_trial_error
-**Object:** mishandled jury question about confession validity (judicial_error)
-**Temporal:** post-2017
-**Source IDs:** src_001
+### c_017
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Pedro Hernandez; federal appeals court
+- **Predicate:** identified_trial_error
+- **Object:** mishandled jury question about confession validity (judicial_error)
+- **Temporal:** post-2017
+- **Sources:** src_001
 
 > The federal appeals court said the 2017 trial judge mishandled a jury question about determining the validity of Hernandez's confessions.
 
-### c_018 — attributed, primary document
-**Subject entities:** Manhattan district attorney
-**Predicate:** committed_to_retry
-**Object:** retrial of Pedro Hernandez (legal_action)
-**Temporal:** post-2017
-**Source IDs:** src_001
+### c_018
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Manhattan district attorney
+- **Predicate:** committed_to_retry
+- **Object:** retrial of Pedro Hernandez (legal_action)
+- **Temporal:** post-2017
+- **Sources:** src_001
 
 > The Manhattan district attorney's office pledged to retry the case.
 
-### c_019 — attributed, primary document
-**Subject entities:** Manhattan district attorney; U.S. Supreme Court
-**Predicate:** petitioned_to_restore
-**Object:** 2017 conviction of Pedro Hernandez (legal_petition)
-**Temporal:** post-2017
-**Source IDs:** src_001
+### c_019
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Manhattan district attorney; U.S. Supreme Court
+- **Predicate:** petitioned_to_restore
+- **Object:** 2017 conviction of Pedro Hernandez (legal_petition)
+- **Temporal:** post-2017
+- **Sources:** src_001
 
 > The Manhattan district attorney's office asked the U.S. Supreme Court to restore Hernandez's conviction.
 
-### c_020 — reported, primary document
-**Subject entities:** U.S. Supreme Court
-**Predicate:** discretionary_jurisdiction
-**Object:** may or may not hear case (legal_status)
-**Temporal:** 2026-04-17
-**Source IDs:** src_001
+### c_020
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Supreme Court
+- **Predicate:** discretionary_jurisdiction
+- **Object:** may or may not hear case (legal_status)
+- **Temporal:** 2026-04-17
+- **Sources:** src_001
 
 > The U.S. Supreme Court is not obliged to hear the case and has not yet said whether it will.
 
@@ -308,7 +347,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-04-17
 **Title:** Murder case in the 1979 disappearance of Etan Patz heads for 3rd trial
 **URL:** https://apnews.com/article/etan-patz-missing-boy-case-hernandez-retrial-296c7cc9169106de2b23b983e3f5c22e
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

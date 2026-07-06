@@ -18,8 +18,7 @@ topic_tags:
   - "crime, law and justice"
   - "arts, culture, entertainment and media"
   - "social media"
-storyline_nexus:
-  - venezuela-crisis
+storyline_nexus: []
 geographic_location: Brooklyn, New York
 floor_values_engaged:
 - value: informed_citizenship
@@ -249,7 +248,3 @@ MDC Brooklyn has housed a number of high-profile defendants over the years. R. K
 **Access date:** 2026-01-07
 **Title:** Tekashi 6ix9ine joins notorious NYC lockup with Venezuela's president
 **URL:** https://apnews.com/article/tekashi-6ix9ine-maduro-mangione-brooklyn-jail-c95e6894f5d7159d5054d12f2912a226
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

@@ -17,30 +17,26 @@ primary_themes:
 - human rights
 - international military tension
 topic_tags:
-  - "civil unrest"
-  - "conflict, war and peace"
-  - crime
-  - "crime, law and justice"
-  - government
-  - "government policy"
+- civil unrest
+- political dissent
+- armed conflict
+- international military intervention
 storyline_nexus:
-  - iran-war
-geographic_location: Iran
+- the-iran-war
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
-  intensity: 0.95
-- value: truthfulness
   intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.85
-- value: informed_citizenship
-  intensity: 0.8
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+  intensity: 0.9
+- value: truthfulness
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:30:10Z'
 source_cluster_id: cluster_ap_2026-01-24_iran-protests-nationwide-scale-us-trump-
 gdelt_event_ids: []
-consensus_floor_version: 3.0.0
-publication_mindspec_version: 2.1.0
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
@@ -48,16 +44,16 @@ claims:
   hedges:
     appears: 1
     alleged: 0
-    attributed: 5
     reported: 5
-    contested: 0
+    attributed: 5
     confirmed: 2
+    contested: 0
   corroboration:
-    primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
-    primary_document: 0
-    single_source: 13
     two_independent: 0
+    single_source: 13
+    primary_plus_secondary: 0
+    primary_document: 0
 sources:
   count: 1
   outlets:
@@ -75,41 +71,16 @@ image:
   url: /articles/2026-01-24-iran-s-bloodiest-crackdown-since-1979-comes-into-focus-amid-shutdown.png
   alt: 'Illustration accompanying article: Iran''s bloodiest crackdown since 1979 comes into focus amid shutdown'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-09-iran-protests-continue-as-khamenei-signals-crackdown-at-least-65-killed
-  relation: continues
-  strength: 0.8971
-  confidence: high
-- slug: 2026-01-12-iran-s-leadership-weakened-by-war-faces-broad-protests-as-crackdown-kills-hundre
-  relation: continues
-  strength: 0.8636
-  confidence: high
-- slug: 2026-01-13-iran-protest-death-toll-reaches-2-571-as-iranians-make-first-calls-in-days
-  relation: continues
-  strength: 0.8542
-  confidence: high
-- slug: 2026-01-08-iran-cuts-internet-and-phones-as-exiled-prince-s-call-draws-mass-protests
-  relation: continues
-  strength: 0.8799
-  confidence: high
-- slug: 2026-01-13-trump-tells-iranian-protesters-help-is-on-its-way-as-u-s-weighs-options
-  relation: continues
-  strength: 0.848
-  confidence: high
-- slug: 2026-01-12-iran-protest-death-toll-reaches-646-as-trump-imposes-tariffs-signals-openness-to
-  relation: continues
-  strength: 0.8534
-  confidence: high
-- slug: 2026-01-10-iran-severs-internet-amid-economic-protests-starlink-faces-government-jamming
-  relation: continues
-  strength: 0.8607
-  confidence: high
-- slug: 2026-01-11-iran-protest-death-toll-reaches-544-as-trump-says-tehran-is-seeking-talks
-  relation: continues
-  strength: 0.8517
-  confidence: high
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- Iran's authorities have killed thousands of demonstrators in what activists describe as the bloodiest crackdown on dissent since the country's 1979 Islamic Revolution, according to the Associated P...
+- The crackdown represents Iran's most violent response to domestic unrest in decades and raises the risk of direct U.S. military intervention, as Pr...
+- Cities and towns across Iran reek of smoke as fire-damaged mosques and government offices line streets. Banks have been torched, their automated te...
 
 Iran's authorities have killed thousands of demonstrators in what activists describe as the bloodiest crackdown on dissent since the country's 1979 Islamic Revolution, according to the Associated Press. The violence, which has damaged at least $125 million in property and cut the country off from the internet, comes as the United States prepares military options in response. Hundreds of cities across Iran have been affected by the month-long wave of protests, which began in late December as demonstrations over the collapse of Iran's currency spiraled into broader calls for change.
 
@@ -173,120 +144,146 @@ Elaheh Mohammadi, a journalist at the pro-reform newspaper Ham Mihan in Tehran, 
 
 ## Atomic claims
 
-### c_001 — reported, single source
-**Subject entities:** Iran authorities
-**Predicate:** engaged_crackdown
-**Object:** bloodiest crackdown since 1979 (assessment)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Iran authorities
+- **Predicate:** engaged_crackdown
+- **Object:** bloodiest crackdown since 1979 (assessment)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > The crackdown on demonstrators is the bloodiest on dissent since Iran's 1979 Islamic Revolution.
 
-### c_002 — reported, single source
-**Subject entities:** Iran government; property
-**Predicate:** estimated_damage
-**Object:** $125 million minimum (monetary_value)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Iran government; property
+- **Predicate:** estimated_damage
+- **Object:** $125 million minimum (monetary_value)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > Property damage from the crackdown is estimated at least $125 million across over 20 cities.
 
-### c_003 — reported, single source
-**Subject entities:** activists
-**Predicate:** reporting_death_toll
-**Object:** death toll increasing (trend)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** activists
+- **Predicate:** reporting_death_toll
+- **Object:** death toll increasing (trend)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > The number of dead demonstrators reported by activists continues to increase.
 
-### c_004 — attributed, single source
-**Subject entities:** Iran government
-**Predicate:** announced_death_toll
-**Object:** 3,117 total deaths (casualty_count)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Iran government
+- **Predicate:** announced_death_toll
+- **Object:** 3,117 total deaths (casualty_count)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > Iran's government stated 3,117 people were killed, including 2,427 civilians and security forces, with another 690 identified as terrorists.
 
-### c_005 — attributed, single source
-**Subject entities:** Human Rights Activists News Agency
-**Predicate:** reported_death_toll
-**Object:** 5,137 deaths (casualty_count)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Human Rights Activists News Agency
+- **Predicate:** reported_death_toll
+- **Object:** 5,137 deaths (casualty_count)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > The U.S.-based Human Rights Activists News Agency reported 5,137 deaths based on activists verifying fatalities.
 
-### c_006 — confirmed, single source
-**Subject entities:** demonstrators; Tehran Grand Bazaar; Iranian rial
-**Predicate:** initiated_protest
-**Object:** December 28 protest start, currency collapse trigger (event)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** demonstrators; Tehran Grand Bazaar; Iranian rial
+- **Predicate:** initiated_protest
+- **Object:** December 28 protest start, currency collapse trigger (event)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > Demonstrations began December 28 at Tehran's Grand Bazaar over collapse of Iran's rial currency.
 
-### c_007 — attributed, single source
-**Subject entities:** Reza Pahlavi; demonstrators
-**Predicate:** initiated_escalation
-**Object:** January 8 escalation via exiled prince's call (event)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Reza Pahlavi; demonstrators
+- **Predicate:** initiated_escalation
+- **Object:** January 8 escalation via exiled prince's call (event)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > Tensions escalated on January 8 with demonstrations called for by Iran's exiled crown prince Reza Pahlavi.
 
-### c_008 — attributed, single source
-**Subject entities:** Ali Akbar Pourjamshidian
-**Predicate:** reported_geographic_scope
-**Object:** more than 400 cities (geographic_extent)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ali Akbar Pourjamshidian
+- **Predicate:** reported_geographic_scope
+- **Object:** more than 400 cities (geographic_extent)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > Deputy Interior Minister Ali Akbar Pourjamshidian stated more than 400 cities were involved in demonstrations.
 
-### c_009 — attributed, single source
-**Subject entities:** Amnesty International; Iran authorities
-**Predicate:** accused_unlawful_force
-**Object:** unlawful shooting of peaceful protesters (accusation)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Amnesty International; Iran authorities
+- **Predicate:** accused_unlawful_force
+- **Object:** unlawful shooting of peaceful protesters (accusation)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > Amnesty International stated the vast majority of protesters were peaceful and authorities opened fire unlawfully.
 
-### c_010 — reported, single source
-**Subject entities:** Iran security forces
-**Predicate:** deployed_birdshot
-**Object:** birdshot causing eye wounds (weapon_use_consequence)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Iran security forces
+- **Predicate:** deployed_birdshot
+- **Object:** birdshot causing eye wounds (weapon_use_consequence)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > Security forces fired birdshot into crowds, causing blinding eye wounds to dozens.
 
-### c_011 — appears, single source
-**Subject entities:** United States military; Donald Trump
-**Predicate:** positioning_for_potential_action
-**Object:** military approach to Mideast (military_positioning)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_011
+- **Hedge:** appears
+- **Corroboration:** single_source
+- **Subject entities:** United States military; Donald Trump
+- **Predicate:** positioning_for_potential_action
+- **Object:** military approach to Mideast (military_positioning)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > An American aircraft carrier and warships are approaching the Middle East, possibly allowing Trump to launch another attack on Iran.
 
-### c_012 — reported, single source
-**Subject entities:** property
-**Predicate:** documented_damage
-**Object:** 750 banks, 414 buildings, 600 ATMs, hundreds of vehicles (damage_inventory)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** property
+- **Predicate:** documented_damage
+- **Object:** 750 banks, 414 buildings, 600 ATMs, hundreds of vehicles (damage_inventory)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > Property damage included 750 banks, 414 government buildings, 600 ATMs, and hundreds of vehicles.
 
-### c_013 — confirmed, single source
-**Subject entities:** Iranian tradition
-**Predicate:** holds_memorial_services
-**Object:** 40-day memorial tradition, Feb 17 renewal risk (cultural_practice)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_013
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Iranian tradition
+- **Predicate:** holds_memorial_services
+- **Object:** 40-day memorial tradition, Feb 17 renewal risk (cultural_practice)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > Iranians traditionally hold memorial services for the dead 40 days after death, creating risk of renewed demonstrations around February 17.
 
@@ -295,10 +292,5 @@ Elaheh Mohammadi, a journalist at the pro-reform newspaper Ham Mihan in Tehran, 
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Jon Gambrell
 **Publication date:** 2026-01-24
-**Access date:** 2026-01-24
 **Title:** Scale of Iran protests and crackdown come into focus
 **URL:** https://apnews.com/article/iran-protests-nationwide-scale-us-trump-0eecd9962240600150530261dfab03f2
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

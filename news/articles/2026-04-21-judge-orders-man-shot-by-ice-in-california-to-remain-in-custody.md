@@ -21,7 +21,8 @@ topic_tags:
   - "law enforcement"
   - "lifestyle and leisure"
   - travel
-storyline_nexus: []
+storyline_nexus:
+- us-immigration-enforcement
 geographic_location: Patterson, California, United States
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -126,120 +127,146 @@ Mendoza's next court appearance is scheduled for early May.
 
 ## Atomic claims
 
-### c_001 — attributed, primary document
-**Subject entities:** Carlos Ivan Mendoza Hernandez; California court
-**Predicate:** ordered_custody_retention
-**Object:** remain in custody pending trial (legal_decision)
-**Temporal:** 2026-04-21
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Carlos Ivan Mendoza Hernandez; California court
+- **Predicate:** ordered_custody_retention
+- **Object:** remain in custody pending trial (legal_decision)
+- **Temporal:** 2026-04-21
+- **Sources:** src_001
 
 > A California judge on Monday ordered Carlos Ivan Mendoza Hernandez to remain in custody over concerns he is a flight risk.
 
-### c_002 — confirmed, primary document
-**Subject entities:** Carlos Ivan Mendoza Hernandez; U.S. Immigration and Customs Enforcement
-**Predicate:** shot_during_arrest
-**Object:** multiple gunshot wounds (injury)
-**Temporal:** 2026-04-07
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Carlos Ivan Mendoza Hernandez; U.S. Immigration and Customs Enforcement
+- **Predicate:** shot_during_arrest
+- **Object:** multiple gunshot wounds (injury)
+- **Temporal:** 2026-04-07
+- **Sources:** src_001
 
 > Mendoza was shot multiple times on April 7 during an ICE enforcement stop in Patterson, California, approximately 75 miles southeast of San Francisco.
 
-### c_003 — attributed, primary document
-**Subject entities:** Carlos Ivan Mendoza Hernandez
-**Predicate:** charged_with_assault
-**Object:** federal assault charge (criminal_charge)
-**Temporal:** 2026-04-07
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Carlos Ivan Mendoza Hernandez
+- **Predicate:** charged_with_assault
+- **Object:** federal assault charge (criminal_charge)
+- **Temporal:** 2026-04-07
+- **Sources:** src_001
 
 > Mendoza is charged with assaulting a federal officer during the April 7 incident.
 
-### c_004 — alleged, single source
-**Subject entities:** Carlos Ivan Mendoza Hernandez; ICE agent
-**Predicate:** struck_with_vehicle_and_reversed
-**Object:** motor vehicle contact with officer and law enforcement vehicle (alleged_action)
-**Temporal:** 2026-04-07
-**Source IDs:** src_001
+### c_004
+- **Hedge:** alleged
+- **Corroboration:** single_source
+- **Subject entities:** Carlos Ivan Mendoza Hernandez; ICE agent
+- **Predicate:** struck_with_vehicle_and_reversed
+- **Object:** motor vehicle contact with officer and law enforcement vehicle (alleged_action)
+- **Temporal:** 2026-04-07
+- **Sources:** src_001
 
 > Mendoza allegedly struck an ICE agent with his car before reversing the vehicle into a law enforcement vehicle.
 
-### c_005 — attributed, primary document
-**Subject entities:** Carlos Ivan Mendoza Hernandez
-**Predicate:** holds_citizenship
-**Object:** El Salvador and Mexico (citizenship_status)
-**Temporal:** 2026-04-21
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Carlos Ivan Mendoza Hernandez
+- **Predicate:** holds_citizenship
+- **Object:** El Salvador and Mexico (citizenship_status)
+- **Temporal:** 2026-04-21
+- **Sources:** src_001
 
 > Mendoza holds dual citizenship from El Salvador and Mexico.
 
-### c_006 — attributed, single source
-**Subject entities:** Carlos Ivan Mendoza Hernandez; Patrick Kolasinski
-**Predicate:** panicked_attempted_flight
-**Object:** panic response without intent to harm (motive_claim)
-**Temporal:** 2026-04-21
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Carlos Ivan Mendoza Hernandez; Patrick Kolasinski
+- **Predicate:** panicked_attempted_flight
+- **Object:** panic response without intent to harm (motive_claim)
+- **Temporal:** 2026-04-21
+- **Sources:** src_001
 
 > Patrick Kolasinski, one of Mendoza's lawyers, said his client panicked and attempted to flee when ICE agents blocked his car, and did not intend to strike anyone.
 
-### c_007 — attributed, single source
-**Subject entities:** Patrick Kolasinski; Carlos Ivan Mendoza Hernandez
-**Predicate:** disputed_gang_affiliation
-**Object:** denial of gang membership and wanted status (dispute)
-**Temporal:** 2026-04-21
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Patrick Kolasinski; Carlos Ivan Mendoza Hernandez
+- **Predicate:** disputed_gang_affiliation
+- **Object:** denial of gang membership and wanted status (dispute)
+- **Temporal:** 2026-04-21
+- **Sources:** src_001
 
 > Kolasinski disputed claims by officials that Mendoza was a suspected gang member wanted in El Salvador for questioning in connection with a murder case.
 
-### c_008 — confirmed, primary document
-**Subject entities:** Carlos Ivan Mendoza Hernandez
-**Predicate:** acquitted_of_murder
-**Object:** murder acquittal in Salvadoran court (court_decision)
-**Temporal:** 2026-04-21
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Carlos Ivan Mendoza Hernandez
+- **Predicate:** acquitted_of_murder
+- **Object:** murder acquittal in Salvadoran court (court_decision)
+- **Temporal:** 2026-04-21
+- **Sources:** src_001
 
 > Salvadoran court documents show Mendoza was acquitted of murder in El Salvador.
 
-### c_009 — attributed, single source
-**Subject entities:** Carlos Ivan Mendoza Hernandez
-**Predicate:** denied_gang_membership
-**Object:** denial of gang affiliation (statement)
-**Temporal:** 2026-04-21
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Carlos Ivan Mendoza Hernandez
+- **Predicate:** denied_gang_membership
+- **Object:** denial of gang affiliation (statement)
+- **Temporal:** 2026-04-21
+- **Sources:** src_001
 
 > Mendoza has denied ever being in a gang, according to his lawyer.
 
-### c_010 — attributed, single source
-**Subject entities:** Department of Homeland Security; ICE; Carlos Ivan Mendoza Hernandez
-**Predicate:** fired_defensive_shots
-**Object:** gunfire in defensive response to vehicle threat (official_statement)
-**Temporal:** 2026-04-07
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Department of Homeland Security; ICE; Carlos Ivan Mendoza Hernandez
+- **Predicate:** fired_defensive_shots
+- **Object:** gunfire in defensive response to vehicle threat (official_statement)
+- **Temporal:** 2026-04-07
+- **Sources:** src_001
 
 > The Department of Homeland Security said ICE officers fired defensive shots after Mendoza attempted to drive into them.
 
-### c_011 — confirmed, primary document
-**Subject entities:** Carlos Ivan Mendoza Hernandez
-**Predicate:** underwent_surgeries
-**Object:** multiple surgical procedures for gunshot wounds (medical_treatment)
-**Temporal:** 2026-04-21
-**Source IDs:** src_001
+### c_011
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Carlos Ivan Mendoza Hernandez
+- **Predicate:** underwent_surgeries
+- **Object:** multiple surgical procedures for gunshot wounds (medical_treatment)
+- **Temporal:** 2026-04-21
+- **Sources:** src_001
 
 > Mendoza has undergone multiple surgeries to treat his gunshot wounds.
 
-### c_012 — reported, primary document
-**Subject entities:** Trump administration; ICE
-**Predicate:** conducted_enforcement_with_shootings
-**Object:** series of shootings during enforcement operations (documented_pattern)
-**Temporal:** 2026-04-21
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Trump administration; ICE
+- **Predicate:** conducted_enforcement_with_shootings
+- **Object:** series of shootings during enforcement operations (documented_pattern)
+- **Temporal:** 2026-04-21
+- **Sources:** src_001
 
 > The shooting is among a series that have occurred during the Trump administration's aggressive push to detain and deport immigrants living in the country illegally.
 
-### c_013 — reported, primary document
-**Subject entities:** federal officials; ICE
-**Predicate:** faced_scrutiny_on_circumstances
-**Object:** documented discrepancies between video evidence and official accounts (documentary_discrepancy)
-**Temporal:** 2026-04-21
-**Source IDs:** src_001
+### c_013
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** federal officials; ICE
+- **Predicate:** faced_scrutiny_on_circumstances
+- **Object:** documented discrepancies between video evidence and official accounts (documentary_discrepancy)
+- **Temporal:** 2026-04-21
+- **Sources:** src_001
 
 > Questions have been raised about the circumstances of some ICE shootings, with video evidence in certain cases contradicting officials' initial accounts.
 
@@ -250,7 +277,3 @@ Mendoza's next court appearance is scheduled for early May.
 **Access date:** 2026-04-20
 **Title:** Man shot by ICE in California to remain in custody over concerns he's a flight risk
 **URL:** https://apnews.com/article/california-ice-shooting-24683b4287d451c970aef986774a67e6
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

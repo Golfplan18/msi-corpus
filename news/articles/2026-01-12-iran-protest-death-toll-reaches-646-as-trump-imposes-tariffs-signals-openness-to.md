@@ -18,45 +18,43 @@ primary_themes:
 - tariffs
 - political unrest
 topic_tags:
-  - "crime, law and justice"
-  - "economy, business and finance"
-  - "international trade"
-  - politics
+- civil unrest
+- international relations
+- international trade
+- conflict, war and peace
 storyline_nexus:
-  - trump-tariff-policy
-  - iran-war
-  - ai-regulation
-geographic_location: Iran; Washington, D.C.
+- iran-nuclear-negotiations
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
   intensity: 0.9
+- value: truthfulness
+  intensity: 0.6
 - value: accountability_of_power
-  intensity: 0.85
-- value: informed_citizenship
-  intensity: 0.9
-framework_version: 1.1.0
-generation_timestamp: '2026-01-12T12:00:00Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T04:28:00Z'
 source_cluster_id: cluster_ap_2026-01-11_iran-protestas-trump-muertos-0b2391a9f66
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 15
   hedges:
     appears: 0
+    confirmed: 1
     alleged: 0
+    contested: 0
     attributed: 6
     reported: 8
-    contested: 0
-    confirmed: 1
   corroboration:
-    primary_plus_secondary: 0
-    one_originating_plus_primary_document: 0
-    primary_document: 0
-    single_source: 15
     two_independent: 0
+    primary_plus_secondary: 0
+    single_source: 15
+    primary_document: 0
+    one_originating_plus_primary_document: 0
 sources:
   count: 1
   outlets:
@@ -74,41 +72,16 @@ image:
   url: /articles/2026-01-12-iran-protest-death-toll-reaches-646-as-trump-imposes-tariffs-signals-openness-to.png
   alt: 'Illustration accompanying article: Iran protest death toll reaches 646 as Trump imposes tariffs, signals openness'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-07-iran-security-forces-fire-tear-gas-at-grand-bazaar-as-protest-death-toll-reaches
-  relation: continues
-  strength: 0.8427
-  confidence: high
-- slug: 2026-01-02-trump-and-iran-trade-threats-as-rial-protests-enter-sixth-day-killing-at-least-7
-  relation: continues
-  strength: 0.8729
-  confidence: high
-- slug: 2026-01-02-trump-and-iran-officials-trade-threats-as-protests-enter-sixth-day
-  relation: continues
-  strength: 0.8583
-  confidence: high
-- slug: 2026-01-08-iran-cuts-internet-and-phones-as-exiled-prince-s-call-draws-mass-protests
-  relation: continues
-  strength: 0.8163
-  confidence: high
-- slug: 2026-01-03-khamenei-says-rioters-must-be-put-in-their-place-as-iran-protest-deaths-reach-15
-  relation: continues
-  strength: 0.8401
-  confidence: high
-- slug: 2026-01-04-iran-protests-reach-all-31-provinces-as-rial-collapse-deepens-internet-cut
-  relation: continues
-  strength: 0.8333
-  confidence: high
-- slug: 2026-01-07-iran-army-chief-threatens-preemptive-attack-as-protests-enter-11th-day
-  relation: continues
-  strength: 0.7863
-  confidence: high
-- slug: 2026-01-01-at-least-7-killed-as-iran-protests-over-economy-spread-to-rural-provinces
-  relation: continues
-  strength: 0.8106
-  confidence: high
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- Trump dice que Irán quiere negociar mientras los muertos en las protestas suben al menos a 646
+- Lead entity: Jon Gambrell
+- Key figures: World news
 
 At least 646 people have been killed since protests erupted in Iran on Dec. 28, according to a U.S.-based human rights monitoring group, as President Donald Trump on Monday announced 25 percent tariffs on countries that do business with Tehran and said the Islamic Republic wants to negotiate. The announcements came after Oman's foreign minister traveled to Iran over the weekend in a visit that activated a channel Muscat has long used as an intermediary between Washington and Tehran, though Tehran did not issue a public statement in response to Trump's comments.
 
@@ -156,127 +129,157 @@ With internet and telephone service cut across much of Iran, assessing the scale
 
 ## Atomic claims
 
-### c_001 — reported, single source
-**Subject entities:** Iran
-**Predicate:** death_toll
-**Object:** 646
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Iran
+- **Predicate:** death_toll
+- **Object:** 646
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > At least 646 people have been killed since protests began in Iran on Dec. 28, per HRANA.
 
-### c_002 — attributed, single source
-**Subject entities:** Iran; Human Rights Activists News Agency
-**Predicate:** death_toll_breakdown
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Iran; Human Rights Activists News Agency
+- **Predicate:** death_toll_breakdown
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Of the 646 reported dead, 512 were protesters and 134 were security forces, per HRANA.
 
-### c_003 — reported, single source
-**Subject entities:** Iran; Human Rights Activists News Agency
-**Predicate:** detention_count
-**Object:** 10700
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Iran; Human Rights Activists News Agency
+- **Predicate:** detention_count
+- **Object:** 10700
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > More than 10,700 people have been detained during two weeks of protests, per HRANA.
 
-### c_004 — confirmed, single source
-**Subject entities:** Donald Trump; United States
-**Predicate:** announced_tariffs
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_004
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; United States
+- **Predicate:** announced_tariffs
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Trump announced 25 percent tariffs on countries doing business with Iran, effective immediately.
 
-### c_005 — attributed, single source
-**Subject entities:** Donald Trump
-**Predicate:** stated
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** stated
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Trump said Iran wants to negotiate with Washington.
 
-### c_006 — reported, single source
-**Subject entities:** Oman
-**Predicate:** visited
-**Object:** Iran
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Oman
+- **Predicate:** visited
+- **Object:** Iran
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > Oman's foreign minister traveled to Iran over the weekend.
 
-### c_007 — attributed, single source
-**Subject entities:** Abbas Araghchi; Iran
-**Predicate:** stated
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Abbas Araghchi; Iran
+- **Predicate:** stated
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Iranian FM Abbas Araghchi told diplomats the situation is under total control, blaming Israel and the US for the violence without offering evidence.
 
-### c_008 — attributed, single source
-**Subject entities:** Abbas Araghchi
-**Predicate:** stated
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Abbas Araghchi
+- **Predicate:** stated
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Araghchi said Iran is open to diplomacy.
 
-### c_009 — attributed, single source
-**Subject entities:** Esmail Baghaei; Iran
-**Predicate:** stated
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Esmail Baghaei; Iran
+- **Predicate:** stated
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Foreign Ministry spokesman Esmail Baghaei said a US-Iran channel remains open but talks must be based on mutual interests and concerns, not unilateral imposition.
 
-### c_010 — attributed, single source
-**Subject entities:** Karoline Leavitt; United States
-**Predicate:** stated
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Karoline Leavitt; United States
+- **Predicate:** stated
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > White House press secretary Karoline Leavitt said Iran's public rhetoric diverges from private messages the administration has received from Tehran.
 
-### c_011 — reported, single source
-**Subject entities:** Donald Trump; United States
-**Predicate:** weighing_options
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; United States
+- **Predicate:** weighing_options
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Trump's national security team has weighed options including cyberattacks and direct strikes by the US or Israel, per two anonymous people familiar with White House discussions.
 
-### c_012 — reported, single source
-**Subject entities:** Iran
-**Predicate:** warned
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Iran
+- **Predicate:** warned
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Iran's attorney general warned that protesters would be considered enemies of God, a charge carrying the death penalty.
 
-### c_013 — reported, single source
-**Subject entities:** Iran
-**Predicate:** threatened
-**Temporal:** 2026-01-11
-**Source IDs:** src_001
+### c_013
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Iran
+- **Predicate:** threatened
+- **Temporal:** 2026-01-11
+- **Sources:** src_001
 
 > Iran's parliament speaker warned US forces and Israel would be legitimate targets if Washington used force to protect protesters.
 
-### c_014 — reported, single source
-**Subject entities:** Iran; Iranian rial
-**Predicate:** protest_origin
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_014
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Iran; Iranian rial
+- **Predicate:** protest_origin
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Protests began Dec. 28 over the collapse of the Iranian rial, which trades at more than 1.4 million rials per US dollar.
 
-### c_015 — reported, single source
-**Subject entities:** Brazil; China; Turkey; UAE; Russia; Iran
-**Predicate:** trade_relationship
-**Object:** economic_relationship_with_Iran
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_015
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Brazil; China; Turkey; UAE; Russia; Iran
+- **Predicate:** trade_relationship
+- **Object:** economic_relationship_with_Iran
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Brazil, China, Turkey, the UAE and Russia are among the economies that do business with Tehran.
 
@@ -285,10 +288,5 @@ With internet and telephone service cut across much of Iran, assessing the scale
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Jon Gambrell
 **Publication date:** 2026-01-12
-**Access date:** 2026-01-12
-**Title:** Trump says Iran wants to negotiate as protest death toll climbs to at least 646
+**Title:** Trump dice que Irán quiere negociar mientras los muertos en las protestas suben al menos a 646
 **URL:** https://apnews.com/article/iran-protestas-trump-muertos-0b2391a9f66729f52c6152965d04515c
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

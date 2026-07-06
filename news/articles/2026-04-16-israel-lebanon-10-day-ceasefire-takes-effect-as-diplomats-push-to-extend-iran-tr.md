@@ -26,45 +26,43 @@ primary_themes:
 - Pakistan mediation
 - Hezbollah
 topic_tags:
-  - "armed conflict"
-  - "artificial intelligence"
-  - "arts, culture, entertainment and media"
-  - "conflict, war and peace"
-  - "disaster, accident and emergency incident"
-  - fire
+- armed conflict
+- conflict, war and peace
+- peace process
+- international relations
 storyline_nexus:
-  - iran-war
-geographic_location: Beirut, Lebanon; Washington, D.C.; Islamabad, Pakistan
+- israel-hezbollah-lebanon-war
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
   intensity: 0.9
-- value: informed_citizenship
-  intensity: 0.9
 - value: accountability_of_power
-  intensity: 0.7
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T08:24:06Z'
+  intensity: 0.6
+- value: informed_citizenship
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:33:26Z'
 source_cluster_id: cluster_ap_2026-04-17_us-iran-war-lebanon-israel-talks-pakista
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 13
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 8
     reported: 3
     contested: 0
+    appears: 0
+    alleged: 0
     confirmed: 2
+    attributed: 8
   corroboration:
-    primary_plus_secondary: 0
+    two_independent: 0
     one_originating_plus_primary_document: 0
     primary_document: 0
     single_source: 13
-    two_independent: 0
+    primary_plus_secondary: 0
 sources:
   count: 1
   outlets:
@@ -81,6 +79,15 @@ figures_aggregate:
 cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Barrages of celebratory gunshots rang out across Beirut just after midnight as residents marked the start of the truce.
+- A 10-day ceasefire between Israel and Lebanon went into effect Friday, pausing fighting between Israeli forces and the Iranian-backed Hezbollah militant group as diplomats pushed to extend a broader truce between the United States, Iran and Israel before it expires next week.
+- Barrages of celebratory gunshots rang out across Beirut just after midnight as residents marked the start of the truce.
+- The Lebanon truce marks the first direct diplomatic contact between Israel and Lebanon in decades, but its durability — and that of the wider Iran war ceasefire, which has paused nearly seven weeks of fighting that has killed more than 5,100 people — depends on whether Pakistan-led mediation can bridge three sticking points: Iran's nuclear program, the Strait of Hormuz and war damages compensation.
 
 A 10-day ceasefire between Israel and Lebanon went into effect Friday, pausing fighting between Israeli forces and the Iranian-backed Hezbollah militant group as diplomats pushed to extend a broader truce between the United States, Iran and Israel before it expires next week.
 
@@ -138,120 +145,146 @@ Mediators are pushing for a compromise on three main sticking points: Iran's nuc
 
 ## Atomic claims
 
-### c_001 — confirmed, single source
-**Subject entities:** Israel; Lebanon
-**Predicate:** ceasefire_entered_into_force
-**Object:** 10-day ceasefire (agreement)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Israel; Lebanon
+- **Predicate:** ceasefire_entered_into_force
+- **Object:** 10-day ceasefire (agreement)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > A 10-day ceasefire between Israel and Lebanon went into effect on Friday, April 16, 2026.
 
-### c_002 — attributed, single source
-**Subject entities:** Israel; Hezbollah; Lebanon
-**Predicate:** not_party_to_agreement
-**Object:** Hezbollah excluded from agreement (fact)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Israel; Hezbollah; Lebanon
+- **Predicate:** not_party_to_agreement
+- **Object:** Hezbollah excluded from agreement (fact)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > Israel has been fighting Hezbollah militants inside Lebanon, not Lebanon itself; Hezbollah was not formally part of the ceasefire agreement.
 
-### c_003 — attributed, single source
-**Subject entities:** Benjamin Netanyahu; Israel
-**Predicate:** declared_no_withdrawal
-**Object:** 10km security zone (military_position)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Benjamin Netanyahu; Israel
+- **Predicate:** declared_no_withdrawal
+- **Object:** 10km security zone (military_position)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > Netanyahu said Israeli troops would not withdraw and would maintain a security zone extending 10 kilometers into Lebanon.
 
-### c_004 — attributed, single source
-**Subject entities:** Hezbollah
-**Predicate:** declared_right_to_resist
-**Object:** resistance to Israeli occupation (position)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Hezbollah
+- **Predicate:** declared_right_to_resist
+- **Object:** resistance to Israeli occupation (position)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > Hezbollah said Israel's continued military presence grants Lebanon the right to resist, a stance that could complicate the truce.
 
-### c_005 — reported, single source
-**Subject entities:** Israel; Khiam; Dibbine
-**Predicate:** shelling_continued_after_ceasefire
-**Object:** 30 minutes post-ceasefire (event)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Israel; Khiam; Dibbine
+- **Predicate:** shelling_continued_after_ceasefire
+- **Object:** 30 minutes post-ceasefire (event)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > Lebanon's state-run National News Agency reported Israeli shelling continued in Khiam and Dibbine approximately 30 minutes after the truce took effect.
 
-### c_006 — confirmed, single source
-**Subject entities:** Asim Munir; Mohammad Bagher Qalibaf; Pakistan; Iran
-**Predicate:** met
-**Object:** diplomatic meeting Thursday (event)
-**Temporal:** 2026-04-15
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Asim Munir; Mohammad Bagher Qalibaf; Pakistan; Iran
+- **Predicate:** met
+- **Object:** diplomatic meeting Thursday (event)
+- **Temporal:** 2026-04-15
+- **Sources:** src_001
 
 > Pakistan's army chief Gen. Asim Munir met Thursday with Iranian Parliament Speaker Mohammad Bagher Qalibaf, described as Iran's chief negotiator.
 
-### c_007 — reported, single source
-**Subject entities:** United States; Iran
-**Predicate:** in_principle_agreement_to_extend
-**Object:** ceasefire extension (agreement)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** United States; Iran
+- **Predicate:** in_principle_agreement_to_extend
+- **Object:** ceasefire extension (agreement)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > Regional officials told AP on condition of anonymity that the United States and Iran had an in-principle agreement to extend the ceasefire.
 
-### c_008 — attributed, single source
-**Subject entities:** Iran; Lebanon; Israel; Gulf Arab states; United States
-**Predicate:** war_deaths
-**Object:** at least 5,136+ deaths (casualty_count)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Iran; Lebanon; Israel; Gulf Arab states; United States
+- **Predicate:** war_deaths
+- **Object:** at least 5,136+ deaths (casualty_count)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > The war has killed at least 3,000 people in Iran, more than 2,100 in Lebanon, 23 in Israel, more than a dozen in Gulf Arab states, and 13 U.S. service members.
 
-### c_009 — reported, single source
-**Subject entities:** Iran; United States; mediators
-**Predicate:** negotiating_sticking_points
-**Object:** nuclear program, Hormuz, war damages (negotiation_items)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Iran; United States; mediators
+- **Predicate:** negotiating_sticking_points
+- **Object:** nuclear program, Hormuz, war damages (negotiation_items)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > Mediators are pushing for compromise on three sticking points: Iran's nuclear program, the Strait of Hormuz and compensation for wartime damages.
 
-### c_010 — attributed, single source
-**Subject entities:** Iran; Strait of Hormuz
-**Predicate:** curtailed_maritime_traffic
-**Object:** fifth of global oil transit disrupted (economic_impact)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Iran; Strait of Hormuz
+- **Predicate:** curtailed_maritime_traffic
+- **Object:** fifth of global oil transit disrupted (economic_impact)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > The Strait of Hormuz carried a fifth of global oil in peacetime; Iran has curtailed maritime traffic through it since the war began.
 
-### c_011 — attributed, single source
-**Subject entities:** Donald Trump; Israel; Lebanon
-**Predicate:** invited_to_white_house
-**Object:** first meaningful talks since 1983 (diplomatic_invitation)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Israel; Lebanon
+- **Predicate:** invited_to_white_house
+- **Object:** first meaningful talks since 1983 (diplomatic_invitation)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > Trump invited the leaders of Israel and Lebanon to the White House for what he described as the first meaningful talks between the countries since 1983.
 
-### c_012 — attributed, single source
-**Subject entities:** Ali Abdollahi; Iran
-**Predicate:** threatened_trade_halt
-**Object:** halt regional trade if blockade continues (threat)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ali Abdollahi; Iran
+- **Predicate:** threatened_trade_halt
+- **Object:** halt regional trade if blockade continues (threat)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > Iran's joint military command chief Ali Abdollahi threatened to halt regional trade if the United States does not lift its naval blockade.
 
-### c_013 — attributed, single source
-**Subject entities:** Mojtaba Khamenei; Iran
-**Predicate:** opposes_ceasefire_extension
-**Object:** military adviser opposes extension (position)
-**Temporal:** 2026-04-16
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Mojtaba Khamenei; Iran
+- **Predicate:** opposes_ceasefire_extension
+- **Object:** military adviser opposes extension (position)
+- **Temporal:** 2026-04-16
+- **Sources:** src_001
 
 > A newly appointed military adviser to Iranian Supreme Leader Mojtaba Khamenei said he does not support extending the ceasefire.
 
@@ -260,10 +293,5 @@ Mediators are pushing for a compromise on three main sticking points: Iran's nuc
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Kareem Chehayeb
 **Publication date:** 2026-04-16
-**Access date:** 2026-05-17
 **Title:** A 10-day ceasefire agreed on by Israel and Lebanon has gone into effect
 **URL:** https://apnews.com/article/us-iran-war-lebanon-israel-talks-pakistan-hormuz-16-april-2026-297a8d2bb94add26e503a4ef3a5d1151
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

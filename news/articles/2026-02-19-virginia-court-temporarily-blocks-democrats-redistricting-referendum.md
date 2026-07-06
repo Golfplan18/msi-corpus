@@ -18,39 +18,38 @@ primary_themes:
 - elections
 - judicial review
 topic_tags:
-  - election
-  - politics
+- election
+- judiciary
+- law
+- government
+- political process
 storyline_nexus:
-  - us-administration-2026
-geographic_location: Virginia, USA
+- redistricting-voting-rights
+geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.85
 - value: accountability_of_power
-  intensity: 0.75
-- value: truthfulness
-  intensity: 0.7
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+  intensity: 0.6
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:54:23Z'
 source_cluster_id: cluster_ap_2026-02-21_virginia-redistricting-democrats-map-ref
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 15
   hedges:
-    appears: 0
     alleged: 0
-    attributed: 3
-    reported: 11
     contested: 0
+    reported: 11
     confirmed: 1
+    attributed: 3
+    appears: 0
   corroboration:
+    primary_document: 2
     primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
-    primary_document: 2
     single_source: 13
     two_independent: 0
 sources:
@@ -66,25 +65,10 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-04-18-trump-backs-primary-challengers-to-indiana-senators-who-rejected-redistricting
-  relation: related
-  strength: 0.7837
-  confidence: medium
-- slug: 2026-01-12-trump-s-redistricting-push-reaches-a-crossroads-as-new-legislative-sessions-begi
-  relation: related
-  strength: 0.8306
-  confidence: medium
-- slug: 2026-01-07-trump-redistricting-push-spreads-to-one-third-of-states-giving-gop-a-three-seat-
-  relation: related
-  strength: 0.8125
-  confidence: medium
-- slug: 2026-01-07-desantis-calls-april-special-session-to-redraw-florida-s-congressional-districts
-  relation: related
-  strength: 0.809
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
 
 A Virginia court on Thursday issued a temporary restraining order blocking Democrats' planned April voter referendum to redraw the state's congressional maps, effectively halting a Democratic effort to gain four U.S. House seats in the national mid-decade redistricting battle. Tazewell Circuit Court Judge Jack Hurley Jr. granted the order at the request of the Republican National Committee, the National Republican Congressional Committee, and Republican U.S. Representatives Ben Cline and Morgan Griffith, who argued the referendum's timing and phrasing violate state law. Virginia's Democratic Attorney General Jay Jones vowed to appeal.
 
@@ -114,138 +98,168 @@ Before Thursday's restraining order, Democrats had been optimistic about their p
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Tazewell Circuit Court; Democratic Party
-**Predicate:** issued restraining order blocking
-**Object:** redistricting referendum (court order)
-**Temporal:** 2026-02-19
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Tazewell Circuit Court; Democratic Party
+- **Predicate:** issued restraining order blocking
+- **Object:** redistricting referendum (court order)
+- **Temporal:** 2026-02-19
+- **Sources:** src_001
 
 > A Virginia court issued a temporary restraining order on Thursday blocking Democrats' planned April voter referendum to redraw the state's congressional maps.
 
-### c_002 — reported, single source
-**Subject entities:** Democratic Party; Virginia redistricting referendum
-**Predicate:** intended to gain
-**Object:** four U.S. House seats (electoral gain)
-**Temporal:** 2026-02-19
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Democratic Party; Virginia redistricting referendum
+- **Predicate:** intended to gain
+- **Object:** four U.S. House seats (electoral gain)
+- **Temporal:** 2026-02-19
+- **Sources:** src_001
 
 > The referendum was intended to give Democrats four additional U.S. House seats.
 
-### c_003 — reported, primary document
-**Subject entities:** Jack Hurley Jr.; Republican National Committee; National Republican Congressional Committee; Ben Cline; Morgan Griffith
-**Predicate:** granted restraining order at request of
-**Object:** Republican organizations and officials (court action)
-**Temporal:** 2026-02-19
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Jack Hurley Jr.; Republican National Committee; National Republican Congressional Committee; Ben Cline; Morgan Griffith
+- **Predicate:** granted restraining order at request of
+- **Object:** Republican organizations and officials (court action)
+- **Temporal:** 2026-02-19
+- **Sources:** src_001
 
 > Judge Jack Hurley Jr. granted the restraining order at the request of the Republican National Committee, the National Republican Congressional Committee, and Republican U.S. Representatives Ben Cline and Morgan Griffith.
 
-### c_004 — attributed, single source
-**Subject entities:** Republican National Committee; National Republican Congressional Committee
-**Predicate:** argued
-**Object:** referendum timing and phrasing illegal (legal argument)
-**Temporal:** 2026-02-19
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Republican National Committee; National Republican Congressional Committee
+- **Predicate:** argued
+- **Object:** referendum timing and phrasing illegal (legal argument)
+- **Temporal:** 2026-02-19
+- **Sources:** src_001
 
 > The plaintiffs argued that the ballot referendum's timing and phrasing are illegal.
 
-### c_005 — attributed, single source
-**Subject entities:** Jay Jones
-**Predicate:** vowed to appeal
-**Object:** court ruling blocking referendum (legal action)
-**Temporal:** 2026-02-19
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jay Jones
+- **Predicate:** vowed to appeal
+- **Object:** court ruling blocking referendum (legal action)
+- **Temporal:** 2026-02-19
+- **Sources:** src_001
 
 > Virginia's Democratic Attorney General Jay Jones vowed to appeal the ruling.
 
-### c_006 — reported, single source
-**Subject entities:** restraining order; early voting schedule
-**Predicate:** in effect until; scheduled to start
-**Object:** March 18, 2026; March 6, 2026 (temporal constraint)
-**Temporal:** 2026-02-19
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** restraining order; early voting schedule
+- **Predicate:** in effect until; scheduled to start
+- **Object:** March 18, 2026; March 6, 2026 (temporal constraint)
+- **Temporal:** 2026-02-19
+- **Sources:** src_001
 
 > The restraining order is in effect until March 18, and early voting is slated to start March 6.
 
-### c_007 — reported, single source
-**Subject entities:** Jack Hurley Jr.; Democratic Party
-**Predicate:** ruled against
-**Object:** Democratic redistricting constitutional amendment (legal ruling)
-**Temporal:** 2026-01-15 / 2026-02-19
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Jack Hurley Jr.; Democratic Party
+- **Predicate:** ruled against
+- **Object:** Democratic redistricting constitutional amendment (legal ruling)
+- **Temporal:** 2026-01-15 / 2026-02-19
+- **Sources:** src_001
 
 > This is the second time Tazewell Circuit Court Judge Jack Hurley Jr. has ruled against Democrats' redistricting agenda; in January, he ruled that a resolution for a constitutional amendment was illegally passed.
 
-### c_008 — reported, single source
-**Subject entities:** Virginia Supreme Court
-**Predicate:** said would allow referendum to proceed
-**Object:** referendum proceeding pending appeal review (court decision)
-**Temporal:** 2026-02-19
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Virginia Supreme Court
+- **Predicate:** said would allow referendum to proceed
+- **Object:** referendum proceeding pending appeal review (court decision)
+- **Temporal:** 2026-02-19
+- **Sources:** src_001
 
 > The Virginia Supreme Court said in its earlier ruling that it would allow the referendum to proceed while it reviews the appeal.
 
-### c_009 — reported, single source
-**Subject entities:** Donald Trump; Republican Party
-**Predicate:** launched mid-decade redistricting battle
-**Object:** national redistricting effort (political action)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Republican Party
+- **Predicate:** launched mid-decade redistricting battle
+- **Object:** national redistricting effort (political action)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > President Donald Trump launched an unusual mid-decade redistricting battle last year by pushing Republican officials in Texas to redraw districts.
 
-### c_010 — reported, single source
-**Subject entities:** Republican Party
-**Predicate:** believe they can win
-**Object:** nine more House seats in four states (electoral projection)
-**Temporal:** 2026-02-19
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Republican Party
+- **Predicate:** believe they can win
+- **Object:** nine more House seats in four states (electoral projection)
+- **Temporal:** 2026-02-19
+- **Sources:** src_001
 
 > Republicans believe they can win nine more House seats in Texas, Missouri, North Carolina, and Ohio.
 
-### c_011 — reported, single source
-**Subject entities:** Democratic Party
-**Predicate:** think they can win; hope to make up
-**Object:** six additional seats plus remaining margin (electoral projection)
-**Temporal:** 2026-02-19
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Democratic Party
+- **Predicate:** think they can win; hope to make up
+- **Object:** six additional seats plus remaining margin (electoral projection)
+- **Temporal:** 2026-02-19
+- **Sources:** src_001
 
 > Democrats think they can win six more seats in California and Utah, and hope to make up the remaining margin in Virginia.
 
-### c_012 — reported, single source
-**Subject entities:** Virginia legislature; Democratic Party
-**Predicate:** passed legislation limiting court venue
-**Object:** venue restriction to Richmond Circuit Court (legislation)
-**Temporal:** 2026-02-19
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Virginia legislature; Democratic Party
+- **Predicate:** passed legislation limiting court venue
+- **Object:** venue restriction to Richmond Circuit Court (legislation)
+- **Temporal:** 2026-02-19
+- **Sources:** src_001
 
 > Democratic lawmakers passed legislation limiting which court venues can hear cases related to constitutional amendments, restricting such cases to the Circuit Court of the City of Richmond.
 
-### c_013 — reported, single source
-**Subject entities:** Abigail Spanberger
-**Predicate:** signed law; set referendum date
-**Object:** April 21, 2026 (executive action)
-**Temporal:** 2026-02-19
-**Source IDs:** src_001
+### c_013
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Abigail Spanberger
+- **Predicate:** signed law; set referendum date
+- **Object:** April 21, 2026 (executive action)
+- **Temporal:** 2026-02-19
+- **Sources:** src_001
 
 > Virginia Democratic Governor Abigail Spanberger signed the venue-restriction bill into law and set the redistricting referendum date for April 21.
 
-### c_014 — reported, single source
-**Subject entities:** Republican National Committee; National Republican Congressional Committee; Jack Hurley Jr.
-**Predicate:** argued and judge agreed
-**Object:** Tazewell is correct venue (legal ruling)
-**Temporal:** 2026-02-19
-**Source IDs:** src_001
+### c_014
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Republican National Committee; National Republican Congressional Committee; Jack Hurley Jr.
+- **Predicate:** argued and judge agreed
+- **Object:** Tazewell is correct venue (legal ruling)
+- **Temporal:** 2026-02-19
+- **Sources:** src_001
 
 > Republicans have argued that Tazewell is still the correct venue despite the new law, and Judge Hurley agreed.
 
-### c_015 — attributed, single source
-**Subject entities:** Don Scott
-**Predicate:** said would be confident order overturned
-**Object:** Supreme Court clear matter goes to voters (statement)
-**Temporal:** 2026-02-19
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Don Scott
+- **Predicate:** said would be confident order overturned
+- **Object:** Supreme Court clear matter goes to voters (statement)
+- **Temporal:** 2026-02-19
+- **Sources:** src_001
 
 > House Speaker Don Scott said he was confident the latest court order would be overturned, and that the Virginia Supreme Court had already made clear the matter will go to voters.
 
@@ -254,10 +268,5 @@ Before Thursday's restraining order, Democrats had been optimistic about their p
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Olivia Diaz
 **Publication date:** 2026-02-19
-**Access date:** 2026-02-19
 **Title:** Virginia judge temporarily halts Democrats' redistricting referendum bid
 **URL:** https://apnews.com/article/virginia-redistricting-democrats-map-referendum-d4ece389549224ff188a86b9e3bad201
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

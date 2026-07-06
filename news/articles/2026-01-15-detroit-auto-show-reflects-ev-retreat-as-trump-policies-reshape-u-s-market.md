@@ -18,37 +18,41 @@ primary_themes:
 - U.S.-China competition
 - climate
 topic_tags:
-  - "economy, business and finance"
-  - environment
-storyline_nexus: []
-geographic_location: Detroit, Michigan
+- manufacturing and engineering
+- government policy
+- economy
+- international trade
+- energy and resource
+storyline_nexus:
+- trump-climate-energy-rollbacks
+geographic_location: United States
 floor_values_engaged:
-- value: informed_citizenship
-  intensity: 0.85
 - value: accountability_of_power
-  intensity: 0.65
-framework_version: 1.1.0
-generation_timestamp: '2026-05-17T07:00:47Z'
+  intensity: 0.6
+- value: informed_citizenship
+  intensity: 0.9
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T04:25:38Z'
 source_cluster_id: cluster_ap_2026-01-16_detroit-auto-show-electric-vehicles-evs-
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 12
   hedges:
     appears: 0
-    alleged: 0
     attributed: 4
-    reported: 2
-    contested: 0
     confirmed: 6
+    contested: 0
+    reported: 2
+    alleged: 0
   corroboration:
     primary_plus_secondary: 0
+    single_source: 11
     one_originating_plus_primary_document: 0
     primary_document: 1
-    single_source: 11
     two_independent: 0
 sources:
   count: 1
@@ -63,37 +67,18 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-13-detroit-auto-show-opens-with-hands-on-demos-as-splashy-debuts-fade
-  relation: related
-  strength: 0.7925
-  confidence: medium
-- slug: 2026-01-09-michauto-report-warns-michigan-auto-industry-faces-critical-inflection-point
-  relation: related
-  strength: 0.8091
-  confidence: medium
-- slug: 2026-01-09-gm-records-6-billion-in-charges-as-ev-tax-credits-expire-and-emissions-rules-eas
-  relation: related
-  strength: 0.7761
-  confidence: medium
-- slug: 2026-01-13-trump-visits-dearborn-ford-plant-defends-tariffs-as-voters-worry-about-rising-pr
-  relation: related
-  strength: 0.7284
-  confidence: medium
-- slug: 2026-01-08-michigan-ev-registration-fees-jump-to-nation-s-highest-under-road-funding-deal
-  relation: related
-  strength: 0.7231
-  confidence: medium
-- slug: 2025-12-30-trump-s-epa-cuts-pollution-rules-and-staff-in-fossil-fuel-pivot
-  relation: related
-  strength: 0.7525
-  confidence: medium
-- slug: 2025-12-30-zeldin-s-epa-cuts-enforcement-and-staff-as-fossil-fuel-friendly-pivot-takes-hold
-  relation: related
-  strength: 0.7443
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- Placeholder bullet 1.
+- Placeholder bullet 2.
+- Placeholder bullet 3.
+- Placeholder bullet 4.
 
 Industry analysts and state officials say the divergence puts U.S. automakers at risk of ceding long-term ground to China, which most in the industry regard as the dominant force in what they describe as the sector's future direction.
 
@@ -139,111 +124,135 @@ Pete Buttigieg, who served as transportation secretary under former President Jo
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** Detroit Auto Show
-**Predicate:** changed_ev_track_policy
-**Object:** track open to hybrids and gas vehicles (policy_change)
-**Temporal:** 2026-01-15
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Detroit Auto Show
+- **Predicate:** changed_ev_track_policy
+- **Object:** track open to hybrids and gas vehicles (policy_change)
+- **Temporal:** 2026-01-15
+- **Sources:** src_001
 
 > The indoor EV-exclusive track at the North American International Auto Show is no longer reserved for electric vehicles and now admits hybrids and gas-powered vehicles.
 
-### c_002 — attributed, single source
-**Subject entities:** United States; electric vehicles
-**Predicate:** sales_growth
-**Object:** 1% (growth_rate)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** United States; electric vehicles
+- **Predicate:** sales_growth
+- **Object:** 1% (growth_rate)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > U.S. sales of electrified vehicles, including plug-in hybrids, grew 1 percent in 2025, according to Benchmark Mineral Intelligence.
 
-### c_003 — attributed, single source
-**Subject entities:** United States; electric vehicles
-**Predicate:** market_share
-**Object:** just under 8%, 1.23 million units (market_share)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** United States; electric vehicles
+- **Predicate:** market_share
+- **Object:** just under 8%, 1.23 million units (market_share)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > U.S. pure-EV market share was just under 8 percent in 2025, with 1.23 million EVs sold — a slight decline from 2024.
 
-### c_004 — attributed, single source
-**Subject entities:** China
-**Predicate:** ev_sales_growth
-**Object:** 17% (growth_rate)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** China
+- **Predicate:** ev_sales_growth
+- **Object:** 17% (growth_rate)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > China saw 17 percent growth in plug-in hybrid and electric vehicles in 2025, per Benchmark Mineral Intelligence.
 
-### c_005 — attributed, single source
-**Subject entities:** Europe
-**Predicate:** ev_sales_growth
-**Object:** 33% (growth_rate)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Europe
+- **Predicate:** ev_sales_growth
+- **Object:** 33% (growth_rate)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Europe saw a 33 percent increase in plug-in hybrid and electric vehicles in 2025, per Benchmark Mineral Intelligence.
 
-### c_006 — confirmed, single source
-**Subject entities:** Donald Trump
-**Predicate:** revoked_ev_target
-**Object:** 50% EV sales target (policy)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** revoked_ev_target
+- **Object:** 50% EV sales target (policy)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Trump revoked a Biden-era target for half of new vehicle sales in the U.S. to be electric.
 
-### c_007 — reported, single source
-**Subject entities:** Donald Trump; EV charging infrastructure
-**Predicate:** blocked_funding
-**Object:** highway EV charging funds (policy)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; EV charging infrastructure
+- **Predicate:** blocked_funding
+- **Object:** highway EV charging funds (policy)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > The Trump administration tried to block money obligated to EV charging across the nation's highways.
 
-### c_008 — confirmed, single source
-**Subject entities:** U.S. Congress; Donald Trump
-**Predicate:** cut_tax_incentives
-**Object:** $7,500 EV tax credit (policy)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Congress; Donald Trump
+- **Predicate:** cut_tax_incentives
+- **Object:** $7,500 EV tax credit (policy)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Under Trump, Congress cut EV tax incentives that had saved buyers up to $7,500 on a purchase.
 
-### c_009 — confirmed, single source
-**Subject entities:** Donald Trump; fuel economy standards
-**Predicate:** weakened_and_eliminated_penalties
-**Object:** fuel economy penalty elimination (policy)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; fuel economy standards
+- **Predicate:** weakened_and_eliminated_penalties
+- **Object:** fuel economy penalty elimination (policy)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > The Trump administration weakened fuel economy standards and eliminated penalties for automakers that do not meet them.
 
-### c_010 — confirmed, single source
-**Subject entities:** Ford Motor Co.; F-150 Lightning
-**Predicate:** announced_charges_ended_production
-**Object:** $19.5 billion (financial_charge)
-**Temporal:** 2025-12
-**Source IDs:** src_001
+### c_010
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Ford Motor Co.; F-150 Lightning
+- **Predicate:** announced_charges_ended_production
+- **Object:** $19.5 billion (financial_charge)
+- **Temporal:** 2025-12
+- **Sources:** src_001
 
 > Ford Motor Co. announced $19.5 billion in charges from electrification efforts and ended production of the all-electric F-150 Lightning.
 
-### c_011 — confirmed, single source
-**Subject entities:** General Motors Co.
-**Predicate:** announced_charges_rolled_back_commitments
-**Object:** $6 billion (financial_charge)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_011
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** General Motors Co.
+- **Predicate:** announced_charges_rolled_back_commitments
+- **Object:** $6 billion (financial_charge)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > General Motors announced $6 billion in EV-related charges and rolled back some of its EV commitments.
 
-### c_012 — reported, single source
-**Subject entities:** Tesla, Inc.
-**Predicate:** had_difficult_year
-**Object:** difficult 2025 (financial_performance)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Tesla, Inc.
+- **Predicate:** had_difficult_year
+- **Object:** difficult 2025 (financial_performance)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Tesla had a difficult 2025.
 
@@ -252,10 +261,5 @@ Pete Buttigieg, who served as transportation secretary under former President Jo
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Alexa St. John
 **Publication date:** 2026-01-15
-**Access date:** 2026-01-15
 **Title:** EVs were briefly the leading edge at Detroit auto show. Not anymore
 **URL:** https://apnews.com/article/detroit-auto-show-electric-vehicles-evs-trump-7dda882748aea036821009340e6dbaa8
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

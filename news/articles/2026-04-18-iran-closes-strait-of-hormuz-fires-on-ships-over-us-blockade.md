@@ -24,7 +24,7 @@ topic_tags:
   - "international relations"
   - politics
 storyline_nexus:
-  - iran-war
+- the-iran-war
 geographic_location: Middle East; Strait of Hormuz; Iran; Lebanon
 floor_values_engaged:
 - value: accountability_of_power
@@ -358,7 +358,3 @@ The war that began with US and Israeli strikes on February 28 has killed at leas
 **Access date:** 2026-05-17
 **Title:** Irán cierra completamente el estrecho de Ormuz y dispara contra barcos por bloqueo de EEUU
 **URL:** https://apnews.com/article/eeuu-iran-guerra-israel-ormuz-libano-5c7947250635a891f2963e3a31da35dc
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

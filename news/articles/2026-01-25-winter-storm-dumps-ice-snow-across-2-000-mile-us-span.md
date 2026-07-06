@@ -17,42 +17,44 @@ primary_themes:
 - power outages
 - travel disruption
 topic_tags:
-  - "weather warning"
-  - "disaster, accident and emergency incident"
-  - "human interest"
-  - "human migration"
+- weather
+- weather warning
+- weather forecast
+- disaster
+- natural disaster
 storyline_nexus:
-  - immigration-enforcement
-  - winter-storm-2026
-geographic_location: United States (multi-state, 2,000-mile span)
+- extreme-weather-disasters
+geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
-  intensity: 0.95
+  intensity: 0.9
 - value: informed_citizenship
-  intensity: 0.85
-framework_version: 1.1.0
-generation_timestamp: '2026-05-18T00:00:00Z'
+  intensity: 0.6
+- value: truthfulness
+  intensity: 0.3
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:22:59Z'
 source_cluster_id: cluster_ap_2026-01-26_winter-storm-snow-ice-power-outages-7ea1
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 14
   hedges:
-    appears: 0
     alleged: 0
     attributed: 9
-    reported: 5
     contested: 0
+    appears: 0
     confirmed: 0
+    reported: 5
   corroboration:
-    primary_plus_secondary: 0
     one_originating_plus_primary_document: 0
-    primary_document: 0
-    single_source: 14
     two_independent: 0
+    primary_plus_secondary: 0
+    single_source: 14
+    primary_document: 0
 sources:
   count: 1
   outlets:
@@ -66,33 +68,18 @@ figures_aggregate:
   count: 0
   series_ids: []
   sources: []
-cross_article_links:
-- slug: 2026-01-07-ice-and-snow-close-schools-across-new-england-as-more-storms-approach
-  relation: related
-  strength: 0.8646
-  confidence: medium
-- slug: 2026-01-06-snow-and-ice-kill-at-least-6-across-europe-grounding-600-schiphol-flights
-  relation: related
-  strength: 0.8639
-  confidence: medium
-- slug: 2026-01-07-winter-storm-strands-more-than-1-000-at-amsterdam-s-schiphol-grounds-800-flights
-  relation: related
-  strength: 0.8509
-  confidence: medium
-- slug: 2026-01-11-severe-cold-strands-thousands-of-tourists-at-kittil-airport-as-europe-deep-freez
-  relation: related
-  strength: 0.8224
-  confidence: medium
-- slug: 2026-01-13-freezing-rain-halts-flights-at-vienna-budapest-prague-and-bratislava-airports
-  relation: related
-  strength: 0.8027
-  confidence: medium
-- slug: 2026-01-13-winter-storms-kill-5-in-gaza-as-shelter-shortfall-persists-under-ceasefire
-  relation: related
-  strength: 0.7893
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+
+**Subtype:** fact
+
+- A massive winter storm dumped sleet, freezing rain and snow across much of the U.S.
+- The danger will persist for days as bitter cold behind the system prevents snow and ice from melting quickly, threatening to extend power outages and travel disruptions well into the coming week.
+- The meteorological system was "unique in the sense that it is so widespread," said Allison Santorelli, a meteorologist with the National Weather Service.
+- The National Weather Service warned of "catastrophic ice accumulation" from the Lower Mississippi Valley to the Mid-Atlantic and Southeast.
 
 A massive winter storm dumped sleet, freezing rain and snow across much of the U.S. on January 25, leaving hundreds of thousands without power and halting air and road traffic. The storm affected areas from New Mexico and Texas to New England—a 2,000-mile stretch—making it unprecedented in geographic scope. About 213 million people were under winter weather warnings as of Sunday morning, the National Weather Service said.
 
@@ -130,135 +117,159 @@ The extreme cold will prevent quick recovery. "Behind the storm it's just going 
 
 In Georgia, the Cherokee County Sheriff's office indicated severe conditions by noting that the Waffle House restaurant chain—which operates under a commitment to stay open during disasters—had closed locations. "You know it's bad when Waffle House is closed!!!" the office posted on Facebook.
 
----
-
-**License:** This article is dedicated to the public domain under the Creative Commons CC0 License (https://creativecommons.org/publicdomain/zero/1.0/). AI Disclosure: This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. Framework specification: /methodology.
-
 ## Atomic claims
 
-### c_001 — reported, single source
-**Subject entities:** winter storm; United States
-**Predicate:** dumped precipitation
-**Object:** sleet, freezing rain, snow (precipitation event)
-**Temporal:** 2026-01-25
-**Source IDs:** src_001
+### c_001
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** winter storm; United States
+- **Predicate:** dumped precipitation
+- **Object:** sleet, freezing rain, snow (precipitation event)
+- **Temporal:** 2026-01-25
+- **Sources:** src_001
 
 > A massive winter storm dumped sleet, freezing rain and snow across much of the U.S. on January 25.
 
-### c_002 — reported, single source
-**Subject entities:** homes and businesses; Southeast
-**Predicate:** lost power
-**Object:** hundreds of thousands (count)
-**Temporal:** 2026-01-25
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** homes and businesses; Southeast
+- **Predicate:** lost power
+- **Object:** hundreds of thousands (count)
+- **Temporal:** 2026-01-25
+- **Sources:** src_001
 
 > Hundreds of thousands of homes and businesses in the Southeast were left without electricity.
 
-### c_003 — attributed, single source
-**Subject entities:** U.S. population
-**Predicate:** under winter weather warning
-**Object:** 213 million (count)
-**Temporal:** 2026-01-25
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. population
+- **Predicate:** under winter weather warning
+- **Object:** 213 million (count)
+- **Temporal:** 2026-01-25
+- **Sources:** src_001
 
 > About 213 million people were under winter weather warnings as of Sunday morning.
 
-### c_004 — attributed, single source
-**Subject entities:** winter storm
-**Predicate:** affected geographic span
-**Object:** 2,000-mile stretch from New Mexico to New England (geographic extent)
-**Temporal:** 2026-01-25
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** winter storm
+- **Predicate:** affected geographic span
+- **Object:** 2,000-mile stretch from New Mexico to New England (geographic extent)
+- **Temporal:** 2026-01-25
+- **Sources:** src_001
 
 > The storm affected a 2,000-mile stretch from New Mexico and Texas to New England.
 
-### c_005 — reported, single source
-**Subject entities:** President Trump; U.S. states
-**Predicate:** approved emergency declarations
-**Object:** at least a dozen states (count)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** President Trump; U.S. states
+- **Predicate:** approved emergency declarations
+- **Object:** at least a dozen states (count)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > President Donald Trump approved emergency declarations for at least a dozen states by Saturday.
 
-### c_006 — reported, single source
-**Subject entities:** heavy snow; Ohio Valley to Northeast
-**Predicate:** snowfall depth and extent
-**Object:** over 1 foot in 1,300-mile swath (precipitation measurement and geographic extent)
-**Temporal:** 2026-01-25
-**Source IDs:** src_001
+### c_006
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** heavy snow; Ohio Valley to Northeast
+- **Predicate:** snowfall depth and extent
+- **Object:** over 1 foot in 1,300-mile swath (precipitation measurement and geographic extent)
+- **Temporal:** 2026-01-25
+- **Sources:** src_001
 
 > Heavy snow fell from the Ohio Valley to the Northeast, with over a foot accumulating in a 1,300-mile swath from Arkansas to New England.
 
-### c_007 — attributed, single source
-**Subject entities:** ice accumulation; Lower Mississippi Valley to Southeast
-**Predicate:** forecast severe ice accumulation
-**Object:** catastrophic level (forecast severity)
-**Temporal:** 2026-01-25
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** ice accumulation; Lower Mississippi Valley to Southeast
+- **Predicate:** forecast severe ice accumulation
+- **Object:** catastrophic level (forecast severity)
+- **Temporal:** 2026-01-25
+- **Sources:** src_001
 
 > The National Weather Service warned of catastrophic ice accumulation from the Lower Mississippi Valley to the Mid-Atlantic and Southeast.
 
-### c_008 — attributed, single source
-**Subject entities:** Watertown, New York
-**Predicate:** recorded temperature
-**Object:** -34°F (-37°C) (temperature reading)
-**Temporal:** 2026-01-25
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Watertown, New York
+- **Predicate:** recorded temperature
+- **Object:** -34°F (-37°C) (temperature reading)
+- **Temporal:** 2026-01-25
+- **Sources:** src_001
 
 > In Watertown, New York, temperatures reached minus 34 degrees Fahrenheit (minus 37 degrees Celsius).
 
-### c_009 — attributed, single source
-**Subject entities:** Copenhagen, New York
-**Predicate:** recorded temperature
-**Object:** -49°F (-45°C) (temperature reading)
-**Temporal:** 2026-01-25
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Copenhagen, New York
+- **Predicate:** recorded temperature
+- **Object:** -49°F (-45°C) (temperature reading)
+- **Temporal:** 2026-01-25
+- **Sources:** src_001
 
 > In Copenhagen, New York, temperatures reached minus 49 degrees Fahrenheit (minus 45 degrees Celsius).
 
-### c_010 — attributed, single source
-**Subject entities:** deceased persons; New York City
-**Predicate:** found deceased outdoors
-**Object:** at least 5 (count)
-**Temporal:** 2026-01-24
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** deceased persons; New York City
+- **Predicate:** found deceased outdoors
+- **Object:** at least 5 (count)
+- **Temporal:** 2026-01-24
+- **Sources:** src_001
 
 > At least five people who died were found outside in New York City as temperatures plunged.
 
-### c_011 — attributed, single source
-**Subject entities:** deceased persons; Caddo Parish, Louisiana
-**Predicate:** died of hypothermia
-**Object:** 2 (count)
-**Temporal:** 2026-01-25
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** deceased persons; Caddo Parish, Louisiana
+- **Predicate:** died of hypothermia
+- **Object:** 2 (count)
+- **Temporal:** 2026-01-25
+- **Sources:** src_001
 
 > Two men died of hypothermia related to the storm in Caddo Parish, Louisiana.
 
-### c_012 — reported, single source
-**Subject entities:** flights; air travel
-**Predicate:** canceled and delayed
-**Object:** 12,000 canceled, ~20,000 delayed (count)
-**Temporal:** 2026-01-25
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** flights; air travel
+- **Predicate:** canceled and delayed
+- **Object:** 12,000 canceled, ~20,000 delayed (count)
+- **Temporal:** 2026-01-25
+- **Sources:** src_001
 
 > Some 12,000 flights were canceled on January 25 and nearly 20,000 were delayed.
 
-### c_013 — attributed, single source
-**Subject entities:** Mississippi ice storm
-**Predicate:** is worst since
-**Object:** 1994 (year)
-**Temporal:** 2026-01-25
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Mississippi ice storm
+- **Predicate:** is worst since
+- **Object:** 1994 (year)
+- **Temporal:** 2026-01-25
+- **Sources:** src_001
 
 > This storm is Mississippi's worst ice storm since 1994.
 
-### c_014 — attributed, single source
-**Subject entities:** Mississippi state response
-**Predicate:** deployed de-icing materials
-**Object:** 200,000 gallons ice-melt plus salt and sand (resource amount)
-**Temporal:** 2026-01-25
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Mississippi state response
+- **Predicate:** deployed de-icing materials
+- **Object:** 200,000 gallons ice-melt plus salt and sand (resource amount)
+- **Temporal:** 2026-01-25
+- **Sources:** src_001
 
 > Mississippi deployed 200,000 gallons of ice-melting chemicals, plus salt and sand on roads.
 
@@ -267,10 +278,5 @@ In Georgia, the Cherokee County Sheriff's office indicated severe conditions by 
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Kate Brumback
 **Publication date:** 2026-01-25
-**Access date:** 2026-01-25
 **Title:** Massive winter storm causes power outages across the South, snow in Northeast
 **URL:** https://apnews.com/article/winter-storm-snow-ice-power-outages-7ea143995026e68db42ed1b4aec396cb
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

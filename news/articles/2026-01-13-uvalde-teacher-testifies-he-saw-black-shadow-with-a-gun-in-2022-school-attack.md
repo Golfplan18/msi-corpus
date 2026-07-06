@@ -26,7 +26,8 @@ topic_tags:
   - music
   - school
   - trial
-storyline_nexus: []
+storyline_nexus:
+- uvalde-accountability
 geographic_location: Corpus Christi and Uvalde, Texas, United States
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -147,156 +148,190 @@ The case is considered a rare instance of a law enforcement officer facing crimi
 
 ## Atomic claims
 
-### c_001 — confirmed, single source
-**Subject entities:** Arnulfo Reyes; Adrian Gonzales
-**Predicate:** testified_in_trial
-**Object:** trial of Adrian Gonzales (legal_proceeding)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Arnulfo Reyes; Adrian Gonzales
+- **Predicate:** testified_in_trial
+- **Object:** trial of Adrian Gonzales (legal_proceeding)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Arnulfo Reyes testified Monday in the trial of Adrian Gonzales in Corpus Christi, Texas.
 
-### c_002 — attributed, single source
-**Subject entities:** Arnulfo Reyes
-**Predicate:** testified
-**Object:** saw black shadow with gun at door (witness_account)
-**Temporal:** 2022-05-24
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Arnulfo Reyes
+- **Predicate:** testified
+- **Object:** saw black shadow with gun at door (witness_account)
+- **Temporal:** 2022-05-24
+- **Sources:** src_001
 
 > Reyes testified he saw a 'black shadow' with a gun enter his classroom doorway.
 
-### c_003 — confirmed, single source
-**Subject entities:** Arnulfo Reyes
-**Predicate:** was_shot
-**Object:** arm and back (injuries)
-**Temporal:** 2022-05-24
-**Source IDs:** src_001
+### c_003
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Arnulfo Reyes
+- **Predicate:** was_shot
+- **Object:** arm and back (injuries)
+- **Temporal:** 2022-05-24
+- **Sources:** src_001
 
 > Reyes was shot in the arm and back during the attack.
 
-### c_004 — attributed, single source
-**Subject entities:** Salvador Ramos; Arnulfo Reyes
-**Predicate:** shot
-**Object:** Reyes then classroom children (sequence_of_attack)
-**Temporal:** 2022-05-24
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Salvador Ramos; Arnulfo Reyes
+- **Predicate:** shot
+- **Object:** Reyes then classroom children (sequence_of_attack)
+- **Temporal:** 2022-05-24
+- **Sources:** src_001
 
 > Ramos shot Reyes in the arm, and after Reyes fell, Ramos shot the children in the classroom.
 
-### c_005 — attributed, single source
-**Subject entities:** Salvador Ramos; Arnulfo Reyes
-**Predicate:** taunted
-**Object:** Reyes feigning death (witness_account)
-**Temporal:** 2022-05-24
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Salvador Ramos; Arnulfo Reyes
+- **Predicate:** taunted
+- **Object:** Reyes feigning death (witness_account)
+- **Temporal:** 2022-05-24
+- **Sources:** src_001
 
 > Ramos taunted Reyes while Reyes tried to pretend he was dead.
 
-### c_006 — attributed, single source
-**Subject entities:** Arnulfo Reyes
-**Predicate:** testified_heard
-**Object:** student calling to officer before gunfire resumed (witness_account)
-**Temporal:** 2022-05-24
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Arnulfo Reyes
+- **Predicate:** testified_heard
+- **Object:** student calling to officer before gunfire resumed (witness_account)
+- **Temporal:** 2022-05-24
+- **Sources:** src_001
 
 > Reyes said he heard a student in the adjoining classroom say 'Officer, we're in here' before more shooting followed.
 
-### c_007 — confirmed, single source
-**Subject entities:** Room 111; Robb Elementary School
-**Predicate:** no_child_survivors
-**Object:** all children in Room 111 killed (casualties)
-**Temporal:** 2022-05-24
-**Source IDs:** src_001
+### c_007
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Room 111; Robb Elementary School
+- **Predicate:** no_child_survivors
+- **Object:** all children in Room 111 killed (casualties)
+- **Temporal:** 2022-05-24
+- **Sources:** src_001
 
 > None of the children in Reyes' classroom, Room 111, survived the attack.
 
-### c_008 — confirmed, single source
-**Subject entities:** Salvador Ramos; Robb Elementary School
-**Predicate:** killed
-**Object:** 19 students and two teachers (death_toll)
-**Temporal:** 2022-05-24
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Salvador Ramos; Robb Elementary School
+- **Predicate:** killed
+- **Object:** 19 students and two teachers (death_toll)
+- **Temporal:** 2022-05-24
+- **Sources:** src_001
 
 > The gunman killed 19 students and two teachers at Robb Elementary School.
 
-### c_009 — confirmed, single source
-**Subject entities:** Adrian Gonzales
-**Predicate:** pleaded_not_guilty
-**Object:** 29 counts child abandonment or endangerment (legal_plea)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_009
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Adrian Gonzales
+- **Predicate:** pleaded_not_guilty
+- **Object:** 29 counts child abandonment or endangerment (legal_plea)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Gonzales has pleaded not guilty to 29 counts of child abandonment or endangerment.
 
-### c_010 — alleged, single source
-**Subject entities:** Adrian Gonzales
-**Predicate:** alleged_failure_to_act
-**Object:** did not engage or distract gunman outside school (legal_allegation)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_010
+- **Hedge:** alleged
+- **Corroboration:** single_source
+- **Subject entities:** Adrian Gonzales
+- **Predicate:** alleged_failure_to_act
+- **Object:** did not engage or distract gunman outside school (legal_allegation)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Prosecutors allege Gonzales abandoned his active-shooter training and did not try to engage or distract the gunman while the gunman was still outside the school.
 
-### c_011 — alleged, single source
-**Subject entities:** Adrian Gonzales
-**Predicate:** alleged_second_failure
-**Object:** retreated with officers under gunfire (legal_allegation)
-**Temporal:** 2022-05-24
-**Source IDs:** src_001
+### c_011
+- **Hedge:** alleged
+- **Corroboration:** single_source
+- **Subject entities:** Adrian Gonzales
+- **Predicate:** alleged_second_failure
+- **Object:** retreated with officers under gunfire (legal_allegation)
+- **Temporal:** 2022-05-24
+- **Sources:** src_001
 
 > Prosecutors allege Gonzales failed again when a group of officers entered the school but retreated after coming under heavy gunfire.
 
-### c_012 — attributed, single source
-**Subject entities:** Adrian Gonzales
-**Predicate:** arrived_at_scene
-**Object:** among first of 370-plus officers (law_enforcement_response)
-**Temporal:** 2022-05-24
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Adrian Gonzales
+- **Predicate:** arrived_at_scene
+- **Object:** among first of 370-plus officers (law_enforcement_response)
+- **Temporal:** 2022-05-24
+- **Sources:** src_001
 
 > Gonzales was among the first of more than 370 federal, state and local officers to arrive at Robb Elementary.
 
-### c_013 — confirmed, single source
-**Subject entities:** tactical team
-**Predicate:** entered_and_killed_gunman
-**Object:** more than one hour after attack began (timeline)
-**Temporal:** 2022-05-24
-**Source IDs:** src_001
+### c_013
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** tactical team
+- **Predicate:** entered_and_killed_gunman
+- **Object:** more than one hour after attack began (timeline)
+- **Temporal:** 2022-05-24
+- **Sources:** src_001
 
 > It took more than an hour for a tactical team to enter the classroom and kill the gunman.
 
-### c_014 — attributed, single source
-**Subject entities:** defense attorneys
-**Predicate:** noted_at_trial
-**Object:** doors unlocked contrary to school policy (defense_argument)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_014
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** defense attorneys
+- **Predicate:** noted_at_trial
+- **Object:** doors unlocked contrary to school policy (defense_argument)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Defense attorneys noted that the doors to the outside of the school and to Reyes' classroom were unlocked in violation of school policy.
 
-### c_015 — attributed, single source
-**Subject entities:** Arnulfo Reyes
-**Predicate:** testified_believed
-**Object:** classroom door was locked (witness_account)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Arnulfo Reyes
+- **Predicate:** testified_believed
+- **Object:** classroom door was locked (witness_account)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Reyes said he had believed his classroom door was locked.
 
-### c_016 — confirmed, single source
-**Subject entities:** court; Salvador Ramos
-**Predicate:** viewed_surveillance_video
-**Object:** footage of gunman entering school (court_exhibit)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_016
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** court; Salvador Ramos
+- **Predicate:** viewed_surveillance_video
+- **Object:** footage of gunman entering school (court_exhibit)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > The court watched surveillance video of Ramos entering the school and beginning to shoot; the judge warned the footage would be graphic.
 
-### c_017 — confirmed, single source
-**Subject entities:** Pete Arredondo
-**Predicate:** faces_charges
-**Object:** trial date not set (legal_status)
-**Temporal:** 2026-01-13
-**Source IDs:** src_001
+### c_017
+- **Hedge:** confirmed
+- **Corroboration:** single_source
+- **Subject entities:** Pete Arredondo
+- **Predicate:** faces_charges
+- **Object:** trial date not set (legal_status)
+- **Temporal:** 2026-01-13
+- **Sources:** src_001
 
 > Former Uvalde schools Police Chief Pete Arredondo also faces charges in connection with the attack; his trial has not yet been scheduled.
 
@@ -308,7 +343,3 @@ The case is considered a rare instance of a law enforcement officer facing crimi
 **Access date:** 2026-01-13
 **Title:** Uvalde school shooting survivor testifies in trial of officer
 **URL:** https://apnews.com/article/uvalde-texas-robb-shooting-bed6decf1bbbdd97f6f6994879e30d96
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

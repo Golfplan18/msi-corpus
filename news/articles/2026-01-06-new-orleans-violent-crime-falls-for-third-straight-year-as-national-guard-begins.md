@@ -20,7 +20,8 @@ topic_tags:
   - "conflict, war and peace"
   - "crime, law and justice"
   - "law enforcement"
-storyline_nexus: []
+storyline_nexus:
+- us-immigration-enforcement
 geographic_location: New Orleans, Louisiana, United States
 floor_values_engaged:
 - value: informed_citizenship
@@ -111,120 +112,146 @@ Crime analysts said the decline in New Orleans reflects a broader national patte
 
 ## Atomic claims
 
-### c_001 — confirmed, primary document
-**Subject entities:** New Orleans
-**Predicate:** declined
-**Object:** third consecutive year (trend)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_001
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** New Orleans
+- **Predicate:** declined
+- **Object:** third consecutive year (trend)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > Violent crime in New Orleans declined for a third consecutive year in 2025.
 
-### c_002 — confirmed, primary document
-**Subject entities:** National Guard; Donald Trump
-**Predicate:** deployed
-**Object:** 350 members (count)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_002
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** National Guard; Donald Trump
+- **Predicate:** deployed
+- **Object:** 350 members (count)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > 350 National Guard members arrived in New Orleans on President Trump's orders.
 
-### c_003 — attributed, primary document
-**Subject entities:** New Orleans
-**Predicate:** recorded
-**Object:** 121 (count)
-**Temporal:** 2025
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** New Orleans
+- **Predicate:** recorded
+- **Object:** 121 (count)
+- **Temporal:** 2025
+- **Sources:** src_001
 
 > New Orleans recorded 121 murders in 2025, including 14 people killed in a vehicle-ramming attack on New Year's Day 2025.
 
-### c_004 — attributed, primary document
-**Subject entities:** New Orleans
-**Predicate:** recorded
-**Object:** 266 (count)
-**Temporal:** 2022
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** New Orleans
+- **Predicate:** recorded
+- **Object:** 266 (count)
+- **Temporal:** 2022
+- **Sources:** src_001
 
 > New Orleans recorded 266 murders in 2022, when it was considered the country's per-capita murder capital.
 
-### c_005 — attributed, primary document
-**Subject entities:** Anne Kirkpatrick
-**Predicate:** said
-**Object:** supported troops as deterrent (statement)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_005
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Anne Kirkpatrick
+- **Predicate:** said
+- **Object:** supported troops as deterrent (statement)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > Police Chief Anne Kirkpatrick said she supported the troops' presence as a deterrent.
 
-### c_006 — attributed, primary document
-**Subject entities:** Donald Trump
-**Predicate:** said
-**Object:** We have crime down to almost nothing already (quote)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Donald Trump
+- **Predicate:** said
+- **Object:** We have crime down to almost nothing already (quote)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Trump said at a Saturday news conference that crime in New Orleans was 'down to almost nothing already.'
 
-### c_007 — attributed, primary document
-**Subject entities:** Jeff Landry
-**Predicate:** said
-**Object:** elevated violent crime rates (quote)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Jeff Landry
+- **Predicate:** said
+- **Object:** elevated violent crime rates (quote)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Louisiana Gov. Jeff Landry cited 'elevated violent crime rates' in requesting the National Guard deployment.
 
-### c_008 — confirmed, primary document
-**Subject entities:** National Guard
-**Predicate:** confined_to
-**Object:** French Quarter (location)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_008
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** National Guard
+- **Predicate:** confined_to
+- **Object:** French Quarter (location)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > Guard troops have been confined to the historic French Quarter.
 
-### c_009 — attributed, primary document
-**Subject entities:** New Orleans Police Department
-**Predicate:** has
-**Object:** 910 (count)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** New Orleans Police Department
+- **Predicate:** has
+- **Object:** 910 (count)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > The New Orleans Police Department has 910 members.
 
-### c_010 — attributed, primary document
-**Subject entities:** Helena Moreno
-**Predicate:** changed_position
-**Object:** welcomed federal support (statement)
-**Temporal:** 2026-01
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Helena Moreno
+- **Predicate:** changed_position
+- **Object:** welcomed federal support (statement)
+- **Temporal:** 2026-01
+- **Sources:** src_001
 
 > Mayor-elect Helena Moreno initially opposed the National Guard deployment but has since welcomed federal support for the city's safety during Mardi Gras.
 
-### c_011 — attributed, primary document
-**Subject entities:** Jeff Asher
-**Predicate:** said
-**Object:** dramatic drop in overall crime pretty much everywhere across the country (quote)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Jeff Asher
+- **Predicate:** said
+- **Object:** dramatic drop in overall crime pretty much everywhere across the country (quote)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > Jeff Asher, former CIA crime analyst and co-founder of AH Datalytics, said there is a dramatic drop in overall crime across the country.
 
-### c_012 — confirmed, primary document
-**Subject entities:** Donald Trump
-**Predicate:** launched
-**Object:** National Guard missions in Washington and Memphis, Tennessee (action)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_012
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Donald Trump
+- **Predicate:** launched
+- **Object:** National Guard missions in Washington and Memphis, Tennessee (action)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Trump also launched National Guard missions in Washington and Memphis, Tennessee.
 
-### c_013 — attributed, primary document
-**Subject entities:** New Orleans Police Department
-**Predicate:** defines
-**Object:** criminal homicides including suspected homicides under investigation (definition)
-**Temporal:** 2026-01-05
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** New Orleans Police Department
+- **Predicate:** defines
+- **Object:** criminal homicides including suspected homicides under investigation (definition)
+- **Temporal:** 2026-01-05
+- **Sources:** src_001
 
 > The NOPD defines murders as criminal homicides, including suspected homicides under investigation not yet adjudicated; the count excludes suspected suicides, accidental deaths, and justifiable homicides.
 
@@ -236,7 +263,3 @@ Crime analysts said the decline in New Orleans reflects a broader national patte
 **Access date:** 2026-01-06
 **Title:** Violent crime in New Orleans declines for third year as National Guard patrols
 **URL:** https://apnews.com/article/new-orleans-national-guard-crime-0d143f473d2e78e3ad74d0286e33cc0b
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

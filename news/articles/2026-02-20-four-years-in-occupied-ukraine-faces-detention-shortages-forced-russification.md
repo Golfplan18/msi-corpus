@@ -25,8 +25,7 @@ topic_tags:
   - economy
   - "economy, business and finance"
 storyline_nexus:
-  - immigration-enforcement
-  - russia-ukraine-war
+- ukraine-war-peace-negotiations
 geographic_location: Ukraine (Donetsk, Luhansk, Kherson, Zaporizhzhia, and other occupied regions)
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -144,10 +143,6 @@ President Vladimir Putin, in marking the third anniversary of Russia's incorpora
 Putin said he has launched a "large-scale socioeconomic development program" for the regions. The pledge has not yet translated into the return of basic services to many communities.
 
 Inna Vnukova, having built a new life in Estonia with her family over four years, expressed the sentiment shared by many who fled: "We've been dreaming of returning for four years, but we increasingly wonder — what will we see there?"
-
----
-
-This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed under sources. Specification: /methodology. Human review: not_triggered.
 
 ## Atomic claims
 
@@ -330,7 +325,3 @@ This article was generated algorithmically by Main Street Independent's News Art
 **Access date:** 2026-02-20
 **Title:** Residents who escaped describe the fear of living in Russian-occupied Ukraine
 **URL:** https://apnews.com/article/russia-war-ukraine-occupation-putin-cf2ca7071c54da307650c3b9e2fa8f07
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

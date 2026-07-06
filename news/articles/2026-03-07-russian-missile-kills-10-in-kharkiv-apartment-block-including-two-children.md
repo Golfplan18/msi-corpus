@@ -19,7 +19,8 @@ topic_tags:
   - "conflict, war and peace"
   - "crime"
   - "crime, law and justice"
-storyline_nexus: []
+storyline_nexus:
+- ukraine-war-peace-negotiations
 geographic_location: Kharkiv, Ukraine
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -250,7 +251,3 @@ The war in the Middle East has drawn international attention away from Europe's 
 **Access date:** 2026-05-17
 **Title:** Russian missile hits residential building in Kharkiv, killing 10
 **URL:** https://apnews.com/article/russia-ukraine-war-kharkiv-f555c370a7439a41393e74a6e603db43
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

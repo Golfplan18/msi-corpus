@@ -22,45 +22,42 @@ primary_themes:
 - checks and balances
 - executive power
 topic_tags:
-  - "politics"
-  - "government"
-  - "crime, law and justice"
-  - "prosecution"
+- government
+- politics
+- monetary policy
+- crime, law and justice
+- prosecution
 storyline_nexus:
-  - us-administration-2026
-  - trump-tariff-policy
-  - us-china-relations
-geographic_location: Washington, D.C.
+- trump-vs-federal-reserve
+geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
   intensity: 0.9
-- value: informed_citizenship
-  intensity: 0.75
-- value: truthfulness
+- value: equality_fairness
   intensity: 0.6
-framework_version: 1.1.0
-generation_timestamp: '2026-01-12T00:00:00Z'
+framework_version: 1.3.0
+generation_timestamp: '2026-05-23T00:05:29Z'
 source_cluster_id: cluster_ap_2026-01-11_trump-powell-retribution-cases-d23648817
 gdelt_event_ids: []
-consensus_floor_version: current
-publication_mindspec_version: current
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 claims:
   count: 15
   hedges:
-    appears: 0
-    alleged: 0
-    attributed: 13
-    reported: 2
-    contested: 0
     confirmed: 0
+    reported: 2
+    alleged: 0
+    contested: 0
+    appears: 0
+    attributed: 13
   corroboration:
-    primary_plus_secondary: 0
+    single_source: 15
     one_originating_plus_primary_document: 0
     primary_document: 0
-    single_source: 15
     two_independent: 0
+    primary_plus_secondary: 0
 sources:
   count: 1
   outlets:
@@ -78,17 +75,16 @@ image:
   url: /articles/2026-01-12-trump-administration-targets-political-opponents-powell-and-fed-the-latest.png
   alt: 'Illustration accompanying article: Trump administration targets political opponents; Powell and Fed the latest'
   source: ai_generated
-cross_article_links:
-- slug: 2026-01-08-colorado-ag-accuses-trump-of-revenge-campaign-over-refusal-to-free-convicted-cle
-  relation: related
-  strength: 0.8142
-  confidence: medium
-- slug: 2026-01-08-judge-disqualifies-federal-prosecutor-in-letitia-james-investigation
-  relation: related
-  strength: 0.7847
-  confidence: medium
+cross_article_links: []
 draft: false
 ---
+
+## Summary
+**Subtype:** fact
+
+- The Justice Department has subpoenaed the Federal Reserve and threatened criminal indictments of Chair Jerome Powell after his Senate Banking Committee testimony defending the central bank's independence, Powell said Sunday in a video statement.
+- The subpoena marks a significant escalation in Trump's conflict with the central bank and extends a documented pattern of Justice Department actions against officials who have opposed or declined to accommodate the president — a pattern White House chief of staff Susie Wiles acknowledged when asked.
+- The Justice Department has subpoenaed the Federal Reserve and threatened criminal indictments of Chair Jerome Powell after his Senate Banking Committee testimony defending the central bank's independence, Powell said Sunday in a video statement. Powell, whom President Donald Trump appointed as Fed chair in 2017, called the action a "pretext" to weaken the Fed's historic independence to set monetary policy without presidential influence. Trump told NBC News over the weekend that he knew nothing about the inquiry..
 
 The subpoena marks a significant escalation in Trump's conflict with the central bank and extends a documented pattern of Justice Department actions against officials who have opposed or declined to accommodate the president — a pattern White House chief of staff Susie Wiles acknowledged when asked.
 
@@ -136,138 +132,168 @@ In November, federal authorities began examining the roles of Pulte and Ed Marti
 
 ## Atomic claims
 
-### c_001 — attributed, single source
-**Subject entities:** U.S. Department of Justice; Federal Reserve; Jerome Powell
-**Predicate:** subpoenaed
-**Object:** Federal Reserve / Powell indictment threats (legal_action)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Department of Justice; Federal Reserve; Jerome Powell
+- **Predicate:** subpoenaed
+- **Object:** Federal Reserve / Powell indictment threats (legal_action)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > The Justice Department subpoenaed the Federal Reserve and threatened criminal indictments of Chair Jerome Powell.
 
-### c_002 — attributed, single source
-**Subject entities:** Jerome Powell
-**Predicate:** characterized
-**Object:** pretext to weaken Fed independence (characterization)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_002
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jerome Powell
+- **Predicate:** characterized
+- **Object:** pretext to weaken Fed independence (characterization)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Powell called the Justice Department action a 'pretext' to weaken the Fed's historic independence to set monetary policy.
 
-### c_003 — attributed, single source
-**Subject entities:** Donald Trump
-**Predicate:** stated
-**Object:** no knowledge of Fed inquiry (denial)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_003
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** stated
+- **Object:** no knowledge of Fed inquiry (denial)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > Trump told NBC News he knew nothing about the Justice Department inquiry into the Federal Reserve.
 
-### c_004 — attributed, single source
-**Subject entities:** Susie Wiles
-**Predicate:** stated
-**Object:** acknowledged retributive element (acknowledgment)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Susie Wiles
+- **Predicate:** stated
+- **Object:** acknowledged retributive element (acknowledgment)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > White House chief of staff Susie Wiles told Vanity Fair 'There may be an element of that from time to time' when asked about Trump's retributive approach.
 
-### c_005 — reported, single source
-**Subject entities:** Donald Trump; Lisa Cook; Bill Pulte
-**Predicate:** sought_removal
-**Object:** first presidential removal attempt of Fed governor in 112 years (historical_precedent)
-**Temporal:** 2025-09-01
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Lisa Cook; Bill Pulte
+- **Predicate:** sought_removal
+- **Object:** first presidential removal attempt of Fed governor in 112 years (historical_precedent)
+- **Temporal:** 2025-09-01
+- **Sources:** src_001
 
 > Trump sought to fire Fed Governor Lisa Cook over mortgage fraud allegations pushed by FHFA Director Bill Pulte — the first time in 112 years a president had sought to remove a Fed governor.
 
-### c_006 — attributed, single source
-**Subject entities:** Lisa Cook; Supreme Court of the United States
-**Predicate:** ruled
-**Object:** Cook may remain on board pending litigation (court_ruling)
-**Temporal:** 2025-12-01
-**Source IDs:** src_001
+### c_006
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Lisa Cook; Supreme Court of the United States
+- **Predicate:** ruled
+- **Object:** Cook may remain on board pending litigation (court_ruling)
+- **Temporal:** 2025-12-01
+- **Sources:** src_001
 
 > The Supreme Court ruled last fall that Lisa Cook could remain on the Federal Reserve board while her lawsuit against removal advances.
 
-### c_007 — attributed, single source
-**Subject entities:** James Comey; Lindsey Halligan
-**Predicate:** dismissed
-**Object:** illegal appointment of prosecutor (court_ruling)
-**Temporal:** 2025-11-01
-**Source IDs:** src_001
+### c_007
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** James Comey; Lindsey Halligan
+- **Predicate:** dismissed
+- **Object:** illegal appointment of prosecutor (court_ruling)
+- **Temporal:** 2025-11-01
+- **Sources:** src_001
 
 > A federal judge in Virginia dismissed the Comey indictment in November 2025, finding that prosecutor Lindsey Halligan was illegally appointed by the Justice Department.
 
-### c_008 — attributed, single source
-**Subject entities:** Letitia James; Lindsey Halligan
-**Predicate:** dismissed
-**Object:** indictment dismissed, illegally appointed prosecutor (court_ruling)
-**Temporal:** 2025-11-01
-**Source IDs:** src_001
+### c_008
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Letitia James; Lindsey Halligan
+- **Predicate:** dismissed
+- **Object:** indictment dismissed, illegally appointed prosecutor (court_ruling)
+- **Temporal:** 2025-11-01
+- **Sources:** src_001
 
 > New York Attorney General Letitia James was indicted on federal mortgage fraud charges; the case was dismissed on the same grounds as Comey's — illegally appointed prosecutor.
 
-### c_009 — attributed, single source
-**Subject entities:** Letitia James
-**Predicate:** declined
-**Object:** no indictment issued (legal_outcome)
-**Temporal:** 2025-12-01
-**Source IDs:** src_001
+### c_009
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Letitia James
+- **Predicate:** declined
+- **Object:** no indictment issued (legal_outcome)
+- **Temporal:** 2025-12-01
+- **Sources:** src_001
 
 > Grand juries twice declined in December 2025 to issue new indictments against Letitia James after hearing evidence from federal prosecutors.
 
-### c_010 — attributed, single source
-**Subject entities:** Letitia James; John Sarcone
-**Predicate:** disqualified
-**Object:** unlawful acting U.S. attorney (court_ruling)
-**Temporal:** 2026-01-12
-**Source IDs:** src_001
+### c_010
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Letitia James; John Sarcone
+- **Predicate:** disqualified
+- **Object:** unlawful acting U.S. attorney (court_ruling)
+- **Temporal:** 2026-01-12
+- **Sources:** src_001
 
 > A federal judge in New York disqualified prosecutor John Sarcone from overseeing investigations into James, finding he was not lawfully serving as acting U.S. attorney in the Northern District of New York.
 
-### c_011 — attributed, single source
-**Subject entities:** John Brennan
-**Predicate:** targeted
-**Object:** Florida grand jury, 2016 Russian interference assessment (investigation)
-**Temporal:** 2025-12-01
-**Source IDs:** src_001
+### c_011
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** John Brennan
+- **Predicate:** targeted
+- **Object:** Florida grand jury, 2016 Russian interference assessment (investigation)
+- **Temporal:** 2025-12-01
+- **Sources:** src_001
 
 > Lawyers for former CIA Director John Brennan said last month he is a target of a Florida grand jury investigation related to the 2016 Russian electoral interference assessment.
 
-### c_012 — attributed, single source
-**Subject entities:** Jack Smith; Office of Special Counsel
-**Predicate:** investigating
-**Object:** alleged political activity through Trump inquiries (investigation)
-**Temporal:** 2025-08-01
-**Source IDs:** src_001
+### c_012
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jack Smith; Office of Special Counsel
+- **Predicate:** investigating
+- **Object:** alleged political activity through Trump inquiries (investigation)
+- **Temporal:** 2025-08-01
+- **Sources:** src_001
 
 > The Office of Special Counsel confirmed in August 2025 it was investigating Jack Smith on allegations he engaged in political activity through his Trump inquiries.
 
-### c_013 — attributed, single source
-**Subject entities:** Jack Smith
-**Predicate:** testified
-**Object:** proof beyond reasonable doubt of criminal conspiracy (congressional_testimony)
-**Temporal:** 2025-12-01
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Jack Smith
+- **Predicate:** testified
+- **Object:** proof beyond reasonable doubt of criminal conspiracy (congressional_testimony)
+- **Temporal:** 2025-12-01
+- **Sources:** src_001
 
 > In December 2025 congressional testimony, Smith said his team 'developed proof beyond a reasonable doubt' that Trump criminally conspired to overturn his 2020 election defeat.
 
-### c_014 — reported, single source
-**Subject entities:** Adam Schiff
-**Predicate:** under_investigation
-**Object:** personal finances and mortgages (investigation)
-**Temporal:** 2025-12-01
-**Source IDs:** src_001
+### c_014
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Adam Schiff
+- **Predicate:** under_investigation
+- **Object:** personal finances and mortgages (investigation)
+- **Temporal:** 2025-12-01
+- **Sources:** src_001
 
 > California Sen. Adam Schiff's personal finances and mortgages are under federal scrutiny, investigated by Maryland prosecutors as of late 2025.
 
-### c_015 — attributed, single source
-**Subject entities:** Ed Martin; Bill Pulte
-**Predicate:** under_inquiry
-**Object:** roles in mortgage fraud prosecutions (investigation)
-**Temporal:** 2025-11-01
-**Source IDs:** src_001
+### c_015
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Ed Martin; Bill Pulte
+- **Predicate:** under_inquiry
+- **Object:** roles in mortgage fraud prosecutions (investigation)
+- **Temporal:** 2025-11-01
+- **Sources:** src_001
 
 > Federal authorities began inquiring in November 2025 about the roles of Ed Martin and Bill Pulte in multiple high-profile mortgage fraud cases pursued by the Trump administration.
 
@@ -276,10 +302,5 @@ In November, federal authorities began examining the roles of Pulte and Ed Marti
 ### src_001 — Associated Press, wire, Tier 1, originating
 **Author:** Bill Barrow
 **Publication date:** 2026-01-12
-**Access date:** 2026-01-12
 **Title:** Trump goes after people who oppose him. Powell is the latest
 **URL:** https://apnews.com/article/trump-powell-retribution-cases-d23648817184953bc73cf84cc5a8853c
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*

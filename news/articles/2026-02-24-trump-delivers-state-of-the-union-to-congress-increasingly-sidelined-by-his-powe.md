@@ -15,14 +15,14 @@ primary_themes:
 - Constitutional governance
 - Separation of powers
 topic_tags:
-  - "armed conflict"
-  - "conflict, war and peace"
-  - government
-  - "government policy"
-  - labour
-  - politics
+- armed conflict
+- conflict, war and peace
+- government
+- government policy
+- labour
+- politics
 storyline_nexus:
-  - us-administration-2026
+- trump-foreign-policy-reshaping
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
@@ -84,10 +84,6 @@ cross_article_links:
   relation: related
   strength: 0.7606
   confidence: medium
-- slug: 2026-01-06-venezuela-swears-in-rodr-guez-as-interim-president-projects-independence-after-u
-  relation: related
-  strength: 0.7727
-  confidence: medium
 - slug: 2026-01-07-venezuela-s-opposition-sidelined-as-maduro-s-party-holds-power-after-u-s-seizure
   relation: related
   strength: 0.7692
@@ -131,7 +127,7 @@ By one estimate cited by Max Stier, chief executive of the Partnership for Publi
 
 There have been exceptions. Representatives Thomas Massie, a Kentucky Republican, and Ro Khanna, a California Democrat, forced the release of Jeffrey Epstein files over objections from House leadership and the Trump administration. The House voted to block tariffs on Canada. The Senate advanced a war-powers resolution on Venezuela, though it backed away after Trump objected.
 
-"Most of those exercises of Congressional power have been largely symbolic," the Associated Press noted, "because Congress would not have the numbers to overcome any expected Trump veto."
+The Associated Press noted that such exercises of Congressional power have been mostly symbolic votes, because Congress would not have the numbers to overcome any expected Trump veto.
 
 ## Constitutional Checks Under Strain
 
@@ -149,165 +145,201 @@ Democratic leaders plan to either boycott Tuesday's address or sit in silence. V
 
 ## Atomic claims
 
-### c_001 — attributed, primary document
-**Subject entities:** Donald Trump; U.S. Congress
-**Predicate:** will_deliver
-**Object:** 2026 State of the Union address (scheduled_event)
-**Temporal:** 2026-02-24
-**Source IDs:** src_001
+### c_001
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Donald Trump; U.S. Congress
+- **Predicate:** will_deliver
+- **Object:** 2026 State of the Union address (scheduled_event)
+- **Temporal:** 2026-02-24
+- **Sources:** src_001
 
 > President Donald Trump will deliver the 2026 State of the Union address to Congress on Tuesday.
 
-### c_002 — reported, single source
-**Subject entities:** Donald Trump; United States
-**Predicate:** has_upended
-**Object:** domestic and foreign policy priorities (policy_domain)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_002
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; United States
+- **Predicate:** has_upended
+- **Object:** domestic and foreign policy priorities (policy_domain)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > Trump's agenda in his second year has transformed the nation, upending priorities at home and shattering alliances abroad.
 
-### c_003 — reported, single source
-**Subject entities:** U.S. Congress; Donald Trump
-**Predicate:** has_been_sidelined_by
-**Object:** executive power accumulation (governance_state)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_003
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** U.S. Congress; Donald Trump
+- **Predicate:** has_been_sidelined_by
+- **Object:** executive power accumulation (governance_state)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > Congress has essentially become sidelined by Trump's expansive reach of executive power.
 
-### c_004 — attributed, primary document
-**Subject entities:** Donald Trump; Republican Party; U.S. Congress
-**Predicate:** enacted
-**Object:** tax cut bill with cuts to Medicaid, SNAP, and $170B to DHS (legislation)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_004
+- **Hedge:** attributed
+- **Corroboration:** primary_document
+- **Subject entities:** Donald Trump; Republican Party; U.S. Congress
+- **Predicate:** enacted
+- **Object:** tax cut bill with cuts to Medicaid, SNAP, and $170B to DHS (legislation)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Trump's signature legislative accomplishment is a Republican tax bill that cuts Medicaid and SNAP food aid and allocates over $170 billion to Homeland Security for immigration deportations.
 
-### c_005 — reported, single source
-**Subject entities:** Donald Trump
-**Predicate:** issued
-**Object:** hundreds of executive actions (policy_action)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_005
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump
+- **Predicate:** issued
+- **Object:** hundreds of executive actions (policy_action)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Trump has issued hundreds of executive actions, many of which are being challenged in court.
 
-### c_006 — confirmed, primary document
-**Subject entities:** Neil Gorsuch; U.S. Supreme Court
-**Predicate:** wrote
-**Object:** warning about accretion of executive power (judicial_statement)
-**Temporal:** 2026-02-21
-**Source IDs:** src_001
+### c_006
+- **Hedge:** confirmed
+- **Corroboration:** primary_document
+- **Subject entities:** Neil Gorsuch; U.S. Supreme Court
+- **Predicate:** wrote
+- **Object:** warning about accretion of executive power (judicial_statement)
+- **Temporal:** 2026-02-21
+- **Sources:** src_001
 
 > Supreme Court Justice Neil Gorsuch wrote that without court intervention on major questions, the system of separated powers and checks-and-balances threatens to give way to continual and permanent accretion of power in the hands of one man.
 
-### c_007 — reported, single source
-**Subject entities:** Donald Trump; U.S. federal government; Venezuela
-**Predicate:** has_pursued
-**Object:** multiple executive actions on workforce, vaccines, Venezuela (administrative_action)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_007
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; U.S. federal government; Venezuela
+- **Predicate:** has_pursued
+- **Object:** multiple executive actions on workforce, vaccines, Venezuela (administrative_action)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Trump's administration has slashed the federal workforce, upended the childhood vaccine schedule, and pursued military action in Venezuela, capturing that country's president.
 
-### c_008 — reported, single source
-**Subject entities:** Donald Trump; Kennedy Center
-**Predicate:** renamed
-**Object:** John F. Kennedy Center (historic_institution)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_008
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; Kennedy Center
+- **Predicate:** renamed
+- **Object:** John F. Kennedy Center (historic_institution)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Trump's administration renamed the John F. Kennedy Center for the Performing Arts by imposing his name on the historic building.
 
-### c_009 — reported, single source
-**Subject entities:** Donald Trump; U.S. Homeland Security
-**Predicate:** has_detained
-**Object:** undocumented immigrants in warehouse facilities (detention_action)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_009
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; U.S. Homeland Security
+- **Predicate:** has_detained
+- **Object:** undocumented immigrants in warehouse facilities (detention_action)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Trump's administration has detained undocumented people in warehouses for deportations.
 
-### c_010 — reported, primary document
-**Subject entities:** U.S. House of Representatives; Donald Trump
-**Predicate:** voted_to_block
-**Object:** tariffs on Canada (trade_policy)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_010
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. House of Representatives; Donald Trump
+- **Predicate:** voted_to_block
+- **Object:** tariffs on Canada (trade_policy)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > The House voted to block Trump's tariffs on Canada.
 
-### c_011 — reported, primary document
-**Subject entities:** U.S. Senate; Donald Trump
-**Predicate:** advanced_then_backed_off
-**Object:** war powers resolution on Venezuela (legislation)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_011
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Senate; Donald Trump
+- **Predicate:** advanced_then_backed_off
+- **Object:** war powers resolution on Venezuela (legislation)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > The Senate advanced a war powers resolution to prevent military action in Venezuela without congressional approval, but backed off after Trump intervened.
 
-### c_012 — reported, primary document
-**Subject entities:** Donald Trump; U.S. Congress
-**Predicate:** pardoned
-**Object:** 1,500 January 6 Capitol attack participants (executive_pardon)
-**Temporal:** 2025-01
-**Source IDs:** src_001
+### c_012
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** Donald Trump; U.S. Congress
+- **Predicate:** pardoned
+- **Object:** 1,500 January 6 Capitol attack participants (executive_pardon)
+- **Temporal:** 2025-01
+- **Sources:** src_001
 
 > Trump issued a Day One pardon for approximately 1,500 people charged in the January 6, 2021 Capitol attack.
 
-### c_013 — attributed, single source
-**Subject entities:** Republican Party; U.S. Congress
-**Predicate:** signaled_approval_by_forming
-**Object:** DOGE caucus supporting federal workforce reductions (congressional_action)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_013
+- **Hedge:** attributed
+- **Corroboration:** single_source
+- **Subject entities:** Republican Party; U.S. Congress
+- **Predicate:** signaled_approval_by_forming
+- **Object:** DOGE caucus supporting federal workforce reductions (congressional_action)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Republicans in Congress signaled approval of Trump's Department of Government Efficiency mass firing of federal workers by forming a DOGE caucus on Capitol Hill.
 
-### c_014 — reported, single source
-**Subject entities:** U.S. federal government
-**Predicate:** restructured
-**Object:** federal workforce reductions and DHS hiring (employment_action)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_014
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** U.S. federal government
+- **Predicate:** restructured
+- **Object:** federal workforce reductions and DHS hiring (employment_action)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > Some 300,000 federal employees have been fired or moved from their positions, while approximately 100,000 new hires or rehires have gone largely to Homeland Security.
 
-### c_015 — reported, single source
-**Subject entities:** Courts; Donald Trump; Democracy Forward
-**Predicate:** filed_against
-**Object:** 150+ legal challenges to Trump administration actions (litigation)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_015
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Courts; Donald Trump; Democracy Forward
+- **Predicate:** filed_against
+- **Object:** 150+ legal challenges to Trump administration actions (litigation)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > More than 150 cases have been filed against the Trump administration in federal courts, part of the largest legal effort against an executive branch in U.S. history.
 
-### c_016 — reported, primary document
-**Subject entities:** U.S. House of Representatives
-**Predicate:** passed
-**Object:** SAVE America Act with voter ID and citizenship requirements (legislation)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_016
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. House of Representatives
+- **Predicate:** passed
+- **Object:** SAVE America Act with voter ID and citizenship requirements (legislation)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > The House has passed the SAVE America Act, which would require birth certificates or passports to register to vote in federal elections and a photo ID at the polls.
 
-### c_017 — reported, primary document
-**Subject entities:** U.S. Senate
-**Predicate:** lacks_votes
-**Object:** sufficient votes to overcome Democratic filibuster (procedural_constraint)
-**Temporal:** 2026
-**Source IDs:** src_001
+### c_017
+- **Hedge:** reported
+- **Corroboration:** primary_document
+- **Subject entities:** U.S. Senate
+- **Predicate:** lacks_votes
+- **Object:** sufficient votes to overcome Democratic filibuster (procedural_constraint)
+- **Temporal:** 2026
+- **Sources:** src_001
 
 > The Senate has the votes to pass the SAVE America Act but lacks the 60 votes necessary to overcome an expected Democratic filibuster.
 
-### c_018 — reported, single source
-**Subject entities:** Donald Trump; U.S. Congress
-**Predicate:** vowed
-**Object:** executive actions on voting if Congress fails to act (stated_intention)
-**Temporal:** 2026-02-23
-**Source IDs:** src_001
+### c_018
+- **Hedge:** reported
+- **Corroboration:** single_source
+- **Subject entities:** Donald Trump; U.S. Congress
+- **Predicate:** vowed
+- **Object:** executive actions on voting if Congress fails to act (stated_intention)
+- **Temporal:** 2026-02-23
+- **Sources:** src_001
 
 > Trump has vowed to pursue executive actions if Congress fails to approve voting legislation.
 
@@ -319,7 +351,3 @@ Democratic leaders plan to either boycott Tuesday's address or sit in silence. V
 **Access date:** 2026-02-23
 **Title:** Trump State of the Union will be delivered to a changed nation
 **URL:** https://apnews.com/article/trump-state-of-union-speech-congress-a7231bdbb23532bc949b7f2344f60947
-
----
-
-*This article was generated algorithmically by Main Street Independent's News Article Generator framework from the public sources listed above. [Methodology](/methodology). Published under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*
