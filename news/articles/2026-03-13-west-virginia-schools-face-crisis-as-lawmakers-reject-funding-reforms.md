@@ -137,6 +137,8 @@ related_stories:
   publish_date: '2026-01-07'
   relation: related
   strength: 0.8197
+analyses:
+- '2026-03-13-west-virginia-legislature-funds-private-vouchers-as-public-districts-approach-in'
 ---
 HANCOCK COUNTY, W.Va. — Fifty-seven days into the 60-day legislative session, West Virginia public schools are nearing financial collapse with no relief from lawmakers. Seven county school systems have been taken over by the state Department of Education, and more districts warn of payroll risks, while education funding remains flat at $2.01 billion.
 
@@ -354,3 +356,8 @@ Senate Education Chair Amy
 **Access date:** 2026-03-12
 **Title:** As public schools face financial crisis, lawmakers offer no help for students in poverty
 **URL:** https://apnews.com/article/education-funding-west-virginia-schools-poverty-general-news-2f10289f9465c142c84c37da97a9c93d
+
+---
+
+<!-- analysis-link:2026-03-13-west-virginia-legislature-funds-private-vouchers-as-public-districts-approach-in -->
+**Going deeper:** [Read MSI's analysis of West Virginia public school funding insolvency →](/analyses/2026-03-13-west-virginia-legislature-funds-private-vouchers-as-public-districts-approach-in)

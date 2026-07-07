@@ -14,7 +14,8 @@ gdelt_event_ids: []
 consensus_floor_version: current
 publication_mindspec_version: thomas-reynolds-2026-06
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -31,7 +32,28 @@ figures_aggregate:
   sources: []
 cross_article_links: []
 draft: false
+image:
+  url: /cartoons/the-roberts-court-sold-the-midterms-to-the-donor-class.png
+  alt: 'Editorial cartoon by Hector Rentier: The Roberts Court Sold the Midterms to
+    the Donor Class'
+  caption: The First Amendment is the brief. The Court is the donor class's lawyer.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-07-06T06:49:35-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: A single-panel wood engraving in the Nast tradition, aspect ratio 1:1.
+    A Chief Justice in black robes sits centered at a wooden bench, face fully rendered
+    and individuated—the expression is one of ser
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-07-06-hector-paired-with-2026-07-06-thomas-the-roberts-court-sold-the-midterms-to-the-donor-class
 ---
+
+![Editorial cartoon by Hector Rentier: The Roberts Court Sold the Midterms to the Donor Class](/cartoons/the-roberts-court-sold-the-midterms-to-the-donor-class.png)
+*The First Amendment is the brief. The Court is the donor class's lawyer.*
 
 The Roberts Court just gave the donor class the November midterms. Six justices called it the First Amendment.
 

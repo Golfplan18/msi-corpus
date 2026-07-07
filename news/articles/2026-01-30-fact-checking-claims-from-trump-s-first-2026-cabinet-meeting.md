@@ -76,6 +76,8 @@ image:
   ai_model: openrouter:openai/gpt-5.4-image-2
   ai_prompt: hand-drawn, ink on cream paper, transparent background, linework dominant, no solid fill, varied pen technique, single accent stroke in sepia | scene-based composition, multiple figures, atmosphere ov
 related_stories: []
+analyses:
+- '2026-01-30-associated-press-review-documents-january-2026-cabinet-claims-diverging-from-pub'
 ---
 
 President Donald Trump held his first Cabinet meeting of 2026 on Thursday, a session that the administration presented as a summary of progress across the economy, housing, energy, health initiatives and drug prices. But in an AP Fact Check, the Associated Press reviewed multiple claims made by Trump and other officials and found several to be off the mark or inconsistent with public data and documented actions.
@@ -532,3 +534,8 @@ The AP also challenged Trump’s claim about coal language, saying he said peopl
 **Access date:** 2026-01-30
 **Title:** False and misleading claims from Trump's Cabinet meeting
 **URL:** https://apnews.com/article/fact-check-trump-cabinet-economy-housing-energy-health-california-f4b4fb985300724a7e717863626e5506
+
+---
+
+<!-- analysis-link:2026-01-30-associated-press-review-documents-january-2026-cabinet-claims-diverging-from-pub -->
+**Going deeper:** [Read MSI's analysis of Cabinet meeting fact-check analysis →](/analyses/2026-01-30-associated-press-review-documents-january-2026-cabinet-claims-diverging-from-pub)

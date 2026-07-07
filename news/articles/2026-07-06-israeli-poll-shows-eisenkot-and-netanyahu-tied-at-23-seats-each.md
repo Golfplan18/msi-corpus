@@ -166,6 +166,8 @@ image:
   disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
   ai_model: "openrouter:openai/gpt-5.4-image-2"
   ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+analyses:
+- '2026-07-06-polling-parity-shifts-israeli-electoral-contest-from-vote-share-to-coalition-ari'
 ---
 ## Israeli Poll Shows Eisenkot and Netanyahu Tied at 23 Seats Each
 
@@ -210,3 +212,8 @@ Despite the challenges, Netanyahu is an experienced campaigner with a history of
 **Publication date:** 2026-07-06
 **Title:** Former General Emerges as Netanyahu’s Chief Rival in Israeli Elections
 **URL:** https://www.wsj.com/world/middle-east/former-general-emerges-as-netanyahus-chief-rival-in-israeli-elections-224b2601
+
+---
+
+<!-- analysis-link:2026-07-06-polling-parity-shifts-israeli-electoral-contest-from-vote-share-to-coalition-ari -->
+**Going deeper:** [Read MSI's analysis of the Israeli coalition arithmetic contest →](/analyses/2026-07-06-polling-parity-shifts-israeli-electoral-contest-from-vote-share-to-coalition-ari)

@@ -81,6 +81,8 @@ related_stories:
   publish_date: '2026-01-01'
   relation: related
   strength: 0.7466
+analyses:
+- '2026-03-13-federal-government-challenges-california-vehicle-emission-waiver-authority'
 ---
 The Trump administration filed a federal lawsuit on March 12 against California’s vehicle‑emission program, claiming the state lacks authority to enforce even its less stringent standards. The action targets rules the California Air Resources Board says will remain in effect despite the litigation, re‑igniting a years‑long showdown over who can set emissions limits for automobiles.
 
@@ -208,3 +210,8 @@ California’s waiver authority—granted under the Clean Air Act to adopt stric
 **Access date:** 2026-05-21
 **Title:** Trump administration sues California over vehicle-emission rules
 **URL:** https://apnews.com/article/california-trump-administration-emission-vehicles-electric-cars-1e174fede381afb9c76b867cc92d86c6
+
+---
+
+<!-- analysis-link:2026-03-13-federal-government-challenges-california-vehicle-emission-waiver-authority -->
+**Going deeper:** [Read MSI's analysis of California vehicle emission litigation →](/analyses/2026-03-13-federal-government-challenges-california-vehicle-emission-waiver-authority)

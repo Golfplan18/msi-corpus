@@ -109,6 +109,8 @@ related_stories:
   publish_date: '2026-06-01'
   relation: related
   strength: 0.6571
+analyses:
+- '2026-07-05-sk-hynix-and-samsung-navigating-asymmetric-trade-exposure-across-dual-jurisdicti'
 ---
 ## SK Hynix to begin U.S. stock trading as chipmakers weigh competing investment demands
 
@@ -150,3 +152,8 @@ For Samsung and SK Hynix, the challenge is how to satisfy U.S. expectations for 
 **Publication date:** 2026-07-05
 **Title:** South Korea chipmakers weigh U.S. pressure, home plans
 **URL:** https://www.upi.com/Top_News/World-News/2026/07/05/samsung-sk-hynix-us-investment-pressure/6881783302585/
+
+---
+
+<!-- analysis-link:2026-07-05-sk-hynix-and-samsung-navigating-asymmetric-trade-exposure-across-dual-jurisdicti -->
+**Going deeper:** [Read MSI's analysis of dual-jurisdiction semiconductor investment strategies →](/analyses/2026-07-05-sk-hynix-and-samsung-navigating-asymmetric-trade-exposure-across-dual-jurisdicti)

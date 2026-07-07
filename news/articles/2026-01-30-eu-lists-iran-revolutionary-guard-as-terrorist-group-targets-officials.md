@@ -132,6 +132,8 @@ related_stories:
   publish_date: '2026-01-12'
   relation: related
   strength: 0.8236
+analyses:
+- '2026-01-30-eu-designates-revolutionary-guard-as-terrorist-organization-amid-escalating-regi'
 ---
 ## Summary
 
@@ -162,3 +164,8 @@ The developments in Brussels also unfolded amid warnings and security concerns i
 Iranian officials also faced broader diplomatic and military pressures tied to the unrest. The Associated Press reported that the U.S. has moved the USS Abraham Lincoln and several guided-missile destroyers into the Middle East, while it remained unclear whether President Donald Trump would decide to use force in response to the killings of demonstrators. Iran, meanwhile, issued a warning to ships at sea Thursday that it planned the drill with live firing that could disrupt traffic through a waterway through which, the report said, 20% of the world’s oil passes.
 
 As the international response grows, Iranian officials and international monitors continue to disagree on the death toll from the protests. The Associated Press said the U.S.-based Human Rights Activists News Agency reported that at least 6,479 people have been killed in recent weeks, including at least 6,092 protesters, with additional counts for government-affiliated forces, children, and civilians not demonstrating. The report said Iran’s government put the death toll at 3,117 as of Jan. 21 and labeled the difference “terrorists,” while the Associated Press said it could not independently assess the agency’s total.
+
+---
+
+<!-- analysis-link:2026-01-30-eu-designates-revolutionary-guard-as-terrorist-organization-amid-escalating-regi -->
+**Going deeper:** [Read MSI's analysis of EU revolutionary guard terrorist designation →](/analyses/2026-01-30-eu-designates-revolutionary-guard-as-terrorist-organization-amid-escalating-regi)

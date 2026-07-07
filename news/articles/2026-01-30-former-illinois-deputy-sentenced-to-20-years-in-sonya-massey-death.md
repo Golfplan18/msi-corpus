@@ -134,6 +134,8 @@ related_stories:
   publish_date: '2026-05-15'
   relation: related
   strength: 0.8328
+analyses:
+- '2026-01-30-illinois-court-sentences-former-deputy-to-maximum-term-for-fatal-shooting-of-son'
 ---
 ## Summary
 
@@ -167,3 +169,8 @@ AP also reported that the case contributed to a change in Illinois law requiring
 With credit for nearly 19 months already spent behind bars and additional time shaved off for good behavior, Grayson could be released in just under 8 1/2 years, AP reported. AP said the AP story was updated to correct the spelling of Judge Ryan Cadagin.
 
 ---
+
+---
+
+<!-- analysis-link:2026-01-30-illinois-court-sentences-former-deputy-to-maximum-term-for-fatal-shooting-of-son -->
+**Going deeper:** [Read MSI's analysis of the Massey case institutional feedback structure →](/analyses/2026-01-30-illinois-court-sentences-former-deputy-to-maximum-term-for-fatal-shooting-of-son)

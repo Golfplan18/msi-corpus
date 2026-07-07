@@ -1,7 +1,9 @@
 ---
-headline: The Journal Laundered the Originalist Fictions That Nearly Dismantled Birthright Citizenship
+headline: The Journal Laundered the Originalist Fictions That Nearly Dismantled Birthright
+  Citizenship
 publish_date: '2026-07-06'
-lede: The Journal is laundering the originalist fictions four Justices nearly used to dismantle birthright citizenship.
+lede: The Journal is laundering the originalist fictions four Justices nearly used
+  to dismantle birthright citizenship.
 pen_name: thomas-reynolds
 primary_entities: []
 primary_themes: []
@@ -14,7 +16,8 @@ gdelt_event_ids: []
 consensus_floor_version: current
 publication_mindspec_version: thomas-reynolds-2026-06
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -31,7 +34,28 @@ figures_aggregate:
   sources: []
 cross_article_links: []
 draft: false
+image:
+  url: /cartoons/the-journal-laundered-the-originalist-fictions-that-nearly.png
+  alt: 'Editorial cartoon by Hector Rentier: The Journal Laundered the Originalist
+    Fictions That Nearly Dismantled Birthright…'
+  caption: They folded three fictions into one respectable volume.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-07-05T22:13:01-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5-image
+  ai_prompt: 'Single central allegorical scene, 1:1, heavy cross-hatch wood-engraving.
+    Center frame: a composed, immaculate editorial-board figure in fine professional
+    dress sits at a polished mahogany desk; the WS'
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-07-06-hector-paired-with-2026-07-06-thomas-the-journal-laundered-the-originalist-fictions-that-nearly-dismantled-bi
 ---
+
+![Editorial cartoon by Hector Rentier: The Journal Laundered the Originalist Fictions That Nearly Dismantled Birthright…](/cartoons/the-journal-laundered-the-originalist-fictions-that-nearly.png)
+*They folded three fictions into one respectable volume.*
 
 The Journal is laundering the originalist fictions four Justices nearly used to dismantle birthright citizenship. The Roberts Court on Tuesday, in a 6-3 judgment, struck down President Trump's executive order ending birthright citizenship for the children of undocumented and temporary immigrants. The majority read the 14th Amendment's Citizenship Clause the way its text and 128 years of precedent require: it covers "all persons born in the United States, and subject to the jurisdiction thereof," with the narrow common-law exception of children of foreign diplomats with immunity. The Wall Street Journal's editorial board, watching this play out, called the ruling a Trump loss and a sign the Court is "not a lockstep MAGA majority." The Board is mistaking institutional damage-control for ideological independence. Justices Thomas, Gorsuch, Alito, and Kavanaugh tried to dismantle the constitutional guarantee. They failed because they could not agree on which fiction to use.
 
