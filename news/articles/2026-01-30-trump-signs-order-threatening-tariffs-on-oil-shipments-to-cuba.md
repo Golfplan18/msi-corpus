@@ -113,6 +113,8 @@ related_stories:
   publish_date: '2026-02-13'
   relation: related
   strength: 0.8429
+analyses:
+- '2026-01-30-trump-imposing-tariff-threat-on-nations-supplying-oil-to-cuba'
 ---
 ## Summary
 
@@ -147,3 +149,8 @@ Sheinbaum told reporters that Mexico’s foreign affairs secretary discussed wit
 On the island, Cuba has also faced its own uncertain conditions and public messaging about whether the situation is a direct threat. The AP reported that some drivers sat in long lines for gasoline this week, uncertain about what might come next, and that a commentator on Cuban state television, Jorge Legañoa, said Cuba was “not a threat” and instead characterized Cuba’s approach as focused on fighting gangs and preventing drug trafficking.
 
 Cuban Deputy Minister of Foreign Affairs Carlos F. de Cossio, writing on the social media platform X, said the United States was tightening its Cuban blockade after “the failure of decades of relentless economic warfare” and attempting to “force sovereign states to join the embargo.” He added, “Under threat of tariff coercion, they must decide whether to forgo their right to export their own fuel to Cuba,” as the executive order’s reach remained unclear.
+
+---
+
+<!-- analysis-link:2026-01-30-trump-imposing-tariff-threat-on-nations-supplying-oil-to-cuba -->
+**Going deeper:** [Read MSI's analysis of tariffs on Cuban oil suppliers →](/analyses/2026-01-30-trump-imposing-tariff-threat-on-nations-supplying-oil-to-cuba)

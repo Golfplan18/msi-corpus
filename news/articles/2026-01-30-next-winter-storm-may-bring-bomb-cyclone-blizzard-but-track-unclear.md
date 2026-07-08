@@ -113,6 +113,8 @@ related_stories:
   publish_date: '2026-01-27'
   relation: related
   strength: 0.8249
+analyses:
+- '2026-01-30-forecasters-evaluate-storm-track-for-potential-east-coast-bomb-cyclone'
 ---
 ## Summary
 
@@ -147,3 +149,8 @@ Meteorologists said Florida’s outlook is cold enough to raise concern for agri
 For now, forecasters said the key variable is the storm’s trajectory—from a track that could bring major coastal snowfall to one that stays offshore with less impact to the inland Northeast. “East Coast snowstorms don’t happen too often, but ‘when it happens, it happens in bunches,’” said former National Weather Service director Louis Uccellini, who has written meteorology textbooks on winter storms.
 
 ---
+
+---
+
+<!-- analysis-link:2026-01-30-forecasters-evaluate-storm-track-for-potential-east-coast-bomb-cyclone -->
+**Going deeper:** [Read MSI's analysis of East Coast bomb cyclone forecast uncertainty →](/analyses/2026-01-30-forecasters-evaluate-storm-track-for-potential-east-coast-bomb-cyclone)

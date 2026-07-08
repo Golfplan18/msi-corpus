@@ -106,6 +106,8 @@ related_stories:
   publish_date: '2026-01-29'
   relation: related
   strength: 0.8811
+analyses:
+- '2026-01-30-extending-homeland-security-funding-to-avert-immediate-government-shutdown'
 ---
 ## Summary
 
@@ -144,3 +146,8 @@ While the Senate worked to advance the deal, the House faced additional uncertai
 House Republicans have said they do not want changes to the bill the House passed last week. A letter to Trump dated Tuesday, cited in the report, said members of the conservative House Freedom Caucus wrote that they stood with the Republican president and ICE and that the package “will not come back through the House without funding for the Department of Homeland Security.”
 
 **FRED figures referenced:** none.
+
+---
+
+<!-- analysis-link:2026-01-30-extending-homeland-security-funding-to-avert-immediate-government-shutdown -->
+**Going deeper:** [Read MSI's analysis of the homeland security funding standoff →](/analyses/2026-01-30-extending-homeland-security-funding-to-avert-immediate-government-shutdown)

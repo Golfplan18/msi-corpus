@@ -85,6 +85,8 @@ image:
   ai_model: openrouter:openai/gpt-5.4-image-2
   ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
 related_stories: []
+analyses:
+- '2026-07-07-annual-barge-contracts-lock-rural-alaska-towns-into-nine-dollar-fuel-amid-iran-c'
 ---
 
 ## Alaska remote towns pay $9 gas after Iran war locks in barge prices
@@ -123,3 +125,8 @@ The high fuel costs are reshaping Alaska’s Senate race. Incumbent Republican S
 **Publication date:** 2026-07-07
 **Title:** The Iran War Has Oil-Rich Alaska Freaked Out About $9 Gas
 **URL:** https://www.wsj.com/business/energy-oil/alaska-gas-prices-iran-war-afbdaed8
+
+---
+
+<!-- analysis-link:2026-07-07-annual-barge-contracts-lock-rural-alaska-towns-into-nine-dollar-fuel-amid-iran-c -->
+**Going deeper:** [Read MSI's analysis of rural Alaska fuel price shocks →](/analyses/2026-07-07-annual-barge-contracts-lock-rural-alaska-towns-into-nine-dollar-fuel-amid-iran-c)

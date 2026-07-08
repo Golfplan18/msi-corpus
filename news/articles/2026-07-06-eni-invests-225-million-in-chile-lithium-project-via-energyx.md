@@ -21,7 +21,8 @@ topic_tags:
 - natural resources
 - international trade
 - science and technology
-storyline_nexus: []
+storyline_nexus:
+- us-china-competition
 geographic_location: United States
 floor_values_engaged:
 - value: truthfulness
@@ -62,6 +63,8 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories: []
+analyses:
+- '2026-07-06-eni-acquires-quarter-stake-in-energyx-chile-lithium-project-for-battery-supply'
 ---
 
 ## Eni invests $225 million in Chile lithium project via EnergyX
@@ -114,3 +117,8 @@ EnergyX also has projects in development in the Smackover Formation, a brine-fil
 **Publication date:** 2026-07-06
 **Title:** Italy’s Eni Invests $225 Million in U.S. Startup EnergyX’s Chile Lithium Project
 **URL:** https://www.wsj.com/business/energy-oil/italys-eni-invests-225-million-in-u-s-startup-energyxs-chile-lithium-project-5626a7ed
+
+---
+
+<!-- analysis-link:2026-07-06-eni-acquires-quarter-stake-in-energyx-chile-lithium-project-for-battery-supply -->
+**Going deeper:** [Read MSI's analysis of Eni's EnergyX Chile lithium investment →](/analyses/2026-07-06-eni-acquires-quarter-stake-in-energyx-chile-lithium-project-for-battery-supply)

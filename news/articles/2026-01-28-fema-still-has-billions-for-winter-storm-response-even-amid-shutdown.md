@@ -103,6 +103,8 @@ related_stories:
   publish_date: '2026-02-05'
   relation: related
   strength: 0.8052
+analyses:
+- '2026-01-28-legislative-impasse-exposing-fema-deployment-bottlenecks-amid-winter-storm'
 ---
 ## Summary
 
@@ -136,3 +138,8 @@ The spending bill before the Senate would provide more funding for FEMA and its 
 Coen said the greater impacts to FEMA, in his view, were not driven mainly by the potential shutdown but by the administration’s policies. “The administration has been dismantling FEMA over the last year,” he said. “Using the agency as a justification for congressional action is laughable.” The report also said Trump officials have floated phasing out FEMA in the past and often urged states to take on more responsibility for disasters, while the December release of a long-awaited report from Trump’s FEMA Review Council was canceled and not rescheduled.
 
 The report said the proposed spending bill includes language aimed at limiting some actions by FEMA during the negotiation period. It described provisions that would rein in FEMA’s ability to pause grants and trainings and would require the agency to publicly report the status of its reimbursements to states for declared disasters. Labowitz, an author of the Disaster Dollar Database that tracks federal disaster spending, said some of the administration’s policies contributed to why FEMA did not run out of money last year, pointing to delays in major disaster approvals and reimbursements. “All last year they were slow walking spending in the DRF,” Labowitz said.
+
+---
+
+<!-- analysis-link:2026-01-28-legislative-impasse-exposing-fema-deployment-bottlenecks-amid-winter-storm -->
+**Going deeper:** [Read MSI's analysis of FEMA disaster funding deployment constraints →](/analyses/2026-01-28-legislative-impasse-exposing-fema-deployment-bottlenecks-amid-winter-storm)

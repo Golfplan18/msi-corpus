@@ -67,6 +67,8 @@ figures_aggregate:
 cross_article_links: []
 draft: false
 related_stories: []
+analyses:
+- '2026-01-30-structural-transport-dynamics-sustain-elevated-road-fatality-rates-across-africa'
 ---
 
 JOHANNESBURG — A deadly car crash in Nigeria involving former heavyweight boxing champion Anthony Joshua and two minibus accidents in South Africa days apart killed at least 25 people, renewing attention on Africa’s road-safety situation and the high number of fatalities tied to crashes on the continent.
@@ -305,3 +307,8 @@ Even with that decrease, the AP reported that for the period Dec. 1, 2025, to Ja
 **Access date:** 2026-05-22
 **Title:** What to know about Africa's poor road safety record after high-profile and deadly crashes
 **URL:** https://apnews.com/article/africa-road-safety-cars-crashes-d4e243d9807bbb60f9804d575094310e
+
+---
+
+<!-- analysis-link:2026-01-30-structural-transport-dynamics-sustain-elevated-road-fatality-rates-across-africa -->
+**Going deeper:** [Read MSI's analysis of african road safety structural dynamics →](/analyses/2026-01-30-structural-transport-dynamics-sustain-elevated-road-fatality-rates-across-africa)

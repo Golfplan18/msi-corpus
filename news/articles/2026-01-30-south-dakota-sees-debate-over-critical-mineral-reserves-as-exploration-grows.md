@@ -199,6 +199,8 @@ related_stories:
   publish_date: '2026-02-03'
   relation: related
   strength: 0.7796
+analyses:
+- '2026-01-30-south-dakota-critical-mineral-exploration-intersecting-with-hydrological-and-reg'
 ---
 ## Summary
 
@@ -231,3 +233,8 @@ The potential impacts on water are central to the objections described in the re
 The report also points to interest and investment in rare-earth extraction beyond South Dakota, describing a project in eastern Wyoming as an example of the scale of activity companies may bring if deposits prove valuable. With funding from the U.S. Department of Energy, the state of Wyoming and private investors, Rare Element Resources invested $170 million into a project aimed at extracting and separating rare earth minerals from rocks found just west of the South Dakota border. The report says the company has spent $100 million and is seeking final federal permitting to mine rocks from the Bear Lodge region in northeast Wyoming, and that it built a $70 million demonstration plant in Upton, Wyoming.
 
 In remarks included in the report, Rare Element Resources director of business development Paul Bonifas said, “It’s no secret that China controls roughly 90% of rare earth processing, separation and production,” and he framed domestication of rare earth supply as a national-security imperative. The report further says Bonifas described the company’s market value in January 2026 as nearly $440 million, as evidence that rare-earth and critical-mineral mining can attract investment when projects reach commercially viable stages.
+
+---
+
+<!-- analysis-link:2026-01-30-south-dakota-critical-mineral-exploration-intersecting-with-hydrological-and-reg -->
+**Going deeper:** [Read MSI's analysis of South Dakota critical mineral constraints →](/analyses/2026-01-30-south-dakota-critical-mineral-exploration-intersecting-with-hydrological-and-reg)

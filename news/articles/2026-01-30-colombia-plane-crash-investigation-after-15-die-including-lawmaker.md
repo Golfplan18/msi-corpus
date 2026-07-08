@@ -166,6 +166,8 @@ related_stories:
   publish_date: '2026-03-01'
   relation: related
   strength: 0.8421
+analyses:
+- '2026-01-30-colombian-aviation-authority-investigates-catatumbo-region-plane-crash'
 ---
 ## Summary
 
@@ -195,3 +197,8 @@ AP reported that Quintero was a lawyer by profession and had been elected in 202
 Also traveling on the flight were people from Quintero’s team and associated humanitarian work, including Natalia Acosta, Carlos Salcedo, María Alejandra Avendaño of the Norwegian Refugee Council, and Karen Liliana Perales of World Vision. Doctors Without Borders said in a statement Thursday that it offered its deepest condolences to members of humanitarian and social organizations who dedicated their work to serving communities.
 
 Authorities did not provide a final cause for the crash. Instead, they pointed to ongoing investigation by the Civil Aeronautics Authority and left open whether factors such as weather, communications or other external circumstances contributed to the outcome.
+
+---
+
+<!-- analysis-link:2026-01-30-colombian-aviation-authority-investigates-catatumbo-region-plane-crash -->
+**Going deeper:** [Read MSI's analysis of the Catatumbo region plane crash →](/analyses/2026-01-30-colombian-aviation-authority-investigates-catatumbo-region-plane-crash)

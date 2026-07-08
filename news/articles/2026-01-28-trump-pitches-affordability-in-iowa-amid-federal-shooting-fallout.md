@@ -81,6 +81,8 @@ image:
   disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
   ai_model: "openrouter:openai/gpt-5.4-image-2"
   ai_prompt: hand-drawn, ink on cream paper, transparent background, linework dominant, no solid fill, varied pen technique, single accent stroke in sepia | scene-based composition, multiple figures, atmosphere ov
+analyses:
+- '2026-01-28-messaging-divergence-generates-electoral-friction-for-iowa-republicans'
 ---
 
 ## Trump's Affordability Message
@@ -412,3 +414,8 @@ Trump has made affordability-focused campaign stops in Michigan, Pennsylvania, a
 **Access date:** 2026-05-21
 **Title:** Trump visits Iowa in effort to focus on affordability
 **URL:** https://apnews.com/article/donald-trump-iowa-affordability-e6dc4aee8ede8e8e906f81f35a10a25b
+
+---
+
+<!-- analysis-link:2026-01-28-messaging-divergence-generates-electoral-friction-for-iowa-republicans -->
+**Going deeper:** [Read MSI's analysis of Trump Iowa messaging divergence →](/analyses/2026-01-28-messaging-divergence-generates-electoral-friction-for-iowa-republicans)

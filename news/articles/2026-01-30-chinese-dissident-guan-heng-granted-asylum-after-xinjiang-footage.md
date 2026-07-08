@@ -132,6 +132,8 @@ related_stories:
   publish_date: '2026-04-08'
   relation: related
   strength: 0.8397
+analyses:
+- '2026-01-30-u-s-court-grants-asylum-to-chinese-national-over-xinjiang-footage-retaliation-fe'
 ---
 ## Summary
 
@@ -163,3 +165,8 @@ Guan’s attorney, Chen Chuangchuang, argued in his closing statement that the c
 Guan was not immediately released after the decision because a lawyer for the Department of Homeland Security said the department reserves the right to appeal. The government has 30 days to file an appeal, and Ouslander urged DHS to make its decision soon.  
 
 The outcome stands out because successful asylum rulings have become rarer under the Trump administration’s return to office. The asylum approval rate dropped to 10% in 2025, down from 28% between 2010 and 2024, according to federal data compiled by Mobile Pathways, a California-based nonprofit that helps immigrants navigate the U.S. legal system.
+
+---
+
+<!-- analysis-link:2026-01-30-u-s-court-grants-asylum-to-chinese-national-over-xinjiang-footage-retaliation-fe -->
+**Going deeper:** [Read MSI's analysis of the Guan Heng asylum ruling →](/analyses/2026-01-30-u-s-court-grants-asylum-to-chinese-national-over-xinjiang-footage-retaliation-fe)

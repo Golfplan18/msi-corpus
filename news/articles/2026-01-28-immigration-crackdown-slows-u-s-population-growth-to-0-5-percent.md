@@ -90,6 +90,8 @@ cross_article_links:
   strength: 0.7579
   confidence: medium
 draft: false
+analyses:
+- '2026-01-28-u-s-census-bureau-estimates-linking-immigration-enforcement-to-sharply-reduced-p'
 ---
 
 President Donald Trump's immigration crackdown contributed to a sharp drop in the U.S. population growth rate, with the nation reaching 342 million people and growing at just 0.5 percent in 2025, according to estimates released Tuesday by the U.S. Census Bureau. Immigration increased by 1.3 million people in 2025, down from 2.8 million the year prior, marking a striking reversal from 2024's nearly 1 percent growth rate—the highest in two decades.
@@ -369,3 +371,8 @@ The population-estimate work proceeded despite significant staffing challenges a
 **Access date:** 2026-01-28
 **Title:** Trump immigration crackdown leads to drop in US population growth rate
 **URL:** https://apnews.com/article/census-bureau-immigration-trump-us-population-7130f180e3d8c03185932e3e6f9974e8
+
+---
+
+<!-- analysis-link:2026-01-28-u-s-census-bureau-estimates-linking-immigration-enforcement-to-sharply-reduced-p -->
+**Going deeper:** [Read MSI's analysis of U.S. demographic growth rate decline →](/analyses/2026-01-28-u-s-census-bureau-estimates-linking-immigration-enforcement-to-sharply-reduced-p)

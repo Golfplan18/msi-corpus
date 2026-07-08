@@ -75,6 +75,8 @@ image:
   disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
   ai_model: "openrouter:openai/gpt-5.4-image-2"
   ai_prompt: hand-drawn, ink on cream paper, transparent background, linework dominant, no solid fill, varied pen technique, single accent stroke in sepia | scene-based composition, multiple figures, atmosphere ov
+analyses:
+- '2026-01-28-afrofashion-association-sustains-diversity-initiatives-through-targeted-institut'
 ---
 
 ## Afrofashion Association's Decade of Work
@@ -280,3 +282,8 @@ Ngonmo, who also mentors fashion students and travels regularly to Africa to wor
 **Access date:** 2026-05-21
 **Title:** Afrofashion Association pushes for more inclusion in Italian fashion and society
 **URL:** https://apnews.com/article/diversity-inclusion-milan-fashion-08900d319dabb1ea85e84b9294c6292a
+
+---
+
+<!-- analysis-link:2026-01-28-afrofashion-association-sustains-diversity-initiatives-through-targeted-institut -->
+**Going deeper:** [Read MSI's analysis of Italian fashion diversity initiative contraction →](/analyses/2026-01-28-afrofashion-association-sustains-diversity-initiatives-through-targeted-institut)

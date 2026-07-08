@@ -186,6 +186,8 @@ related_stories:
   publish_date: '2026-01-26'
   relation: related
   strength: 0.8883
+analyses:
+- '2026-01-30-federal-judge-halts-texas-attorney-general-petition-to-dissolve-voting-rights-no'
 ---
 ## Summary
 
@@ -222,3 +224,8 @@ The federal judge’s ruling arrives as Texas continues to pursue related questi
 Voters in Texas recently also approved a constitutional amendment adding language that a person who is not a U.S. citizen cannot vote in Texas, according to the AP report. The AP said noncitizen voting was already illegal before the update.
 
 Meanwhile, Paxton has continued to frame Jolt as a threat to election integrity. The attorney general said when he filed the state quo warranto suit in Tarrant County that Jolt was a “radical, partisan operation” that had “knowingly attempt[ed] to corrupt our voter rolls” and “weaken the voice of lawful Texas voters,” adding that he would ensure “they face the full force of the law.”
+
+---
+
+<!-- analysis-link:2026-01-30-federal-judge-halts-texas-attorney-general-petition-to-dissolve-voting-rights-no -->
+**Going deeper:** [Read MSI's analysis of Texas voter registration enforcement dispute →](/analyses/2026-01-30-federal-judge-halts-texas-attorney-general-petition-to-dissolve-voting-rights-no)

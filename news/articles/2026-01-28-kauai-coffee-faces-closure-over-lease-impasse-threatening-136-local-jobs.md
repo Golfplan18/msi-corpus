@@ -100,6 +100,8 @@ cross_article_links:
   strength: 0.6767
   confidence: medium
 draft: false
+analyses:
+- '2026-01-28-kauai-coffee-succession-stalled-by-undisclosed-lease-terms-amid-landowner-transi'
 ---
 
 Kauai Coffee Company, the largest coffee grower in the United States, says it will cease operations and lay off nearly all its 136 employees by the end of March unless its land lease with property owner Brue Baukol Capital Partners is renewed. The company's lease is set to expire at the end of March after nearly two years of stalled negotiations, leaving the fate of an operation that has been a community fixture for decades uncertain. The Colorado-based investment firm that owns the land says it remains committed to keeping the company's workers employed and the land in agricultural use.
@@ -392,3 +394,8 @@ The next month will determine whether the company's employees, some of whom have
 **Access date:** 2026-01-28
 **Title:** Kauai Coffee Company faces uncertain future as land lease nears expiration
 **URL:** https://apnews.com/article/mel-rapozo-agriculture-general-news-e2efbb9de6d3ac5062091100db6c0f9c
+
+---
+
+<!-- analysis-link:2026-01-28-kauai-coffee-succession-stalled-by-undisclosed-lease-terms-amid-landowner-transi -->
+**Going deeper:** [Read MSI's analysis of Kauai Coffee lease impasse →](/analyses/2026-01-28-kauai-coffee-succession-stalled-by-undisclosed-lease-terms-amid-landowner-transi)

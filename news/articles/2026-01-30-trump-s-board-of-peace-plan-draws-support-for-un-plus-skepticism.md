@@ -123,6 +123,8 @@ related_stories:
   publish_date: '2026-01-21'
   relation: continues
   strength: 0.8546
+analyses:
+- '2026-01-30-charter-structure-divides-international-response-to-board-of-peace'
 ---
 ## Summary
 
@@ -170,3 +172,8 @@ The same AP story included an internal correction to clarify that the United Kin
 **Access date:** 2026-05-24
 **Title:** Trump's Board of Peace plan stirs support for the United Nations
 **URL:** https://apnews.com/article/board-peace-trump-un-security-council-china-df62e5087f3e8097f856c637a75cbc51
+
+---
+
+<!-- analysis-link:2026-01-30-charter-structure-divides-international-response-to-board-of-peace -->
+**Going deeper:** [Read MSI's analysis of Board of Peace diplomatic reception →](/analyses/2026-01-30-charter-structure-divides-international-response-to-board-of-peace)

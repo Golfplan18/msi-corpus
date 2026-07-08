@@ -143,6 +143,8 @@ related_stories:
   publish_date: '2026-01-25'
   relation: related
   strength: 0.8672
+analyses:
+- '2026-01-30-newly-released-videos-complicating-narratives-surrounding-alex-pretti-shooting'
 ---
 ## Summary
 
@@ -176,3 +178,8 @@ In the News Movement video described by AP, Pretti is shown wearing glasses and 
 According to AP, both videos show the rear door of the SUV swinging open as an immigration officer wearing a gas mask and helmet steps out and walks toward Pretti. AP said the officer grabbed Pretti’s shirt at the chest, pulled him back toward the vehicle as Pretti’s arms flailed, and then forced him down onto his knees, with other masked officers surrounding them while officers tried to subdue Pretti.
 
 After Pretti stumbles away, Shapiro told AP he walked over and hugged Pretti, asking if he was OK. The AP report said Pretti affirmed that he was and then turned to others involved in the melee, asking, “Are we all OK? Are we all safe?”
+
+---
+
+<!-- analysis-link:2026-01-30-newly-released-videos-complicating-narratives-surrounding-alex-pretti-shooting -->
+**Going deeper:** [Read MSI's analysis of Alex Pretti video evidentiary gaps →](/analyses/2026-01-30-newly-released-videos-complicating-narratives-surrounding-alex-pretti-shooting)
