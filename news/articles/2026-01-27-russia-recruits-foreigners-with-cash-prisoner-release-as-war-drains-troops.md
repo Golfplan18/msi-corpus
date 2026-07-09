@@ -78,6 +78,8 @@ image:
   source: ai_generated
 cross_article_links: []
 draft: false
+analyses:
+- '2026-01-27-kremlin-escalates-financial-and-foreign-recruitment-to-offset-wartime-attrition'
 ---
 
 Russia is turning to unprecedented recruitment methods to fill its depleted ranks in Ukraine, offering substantial cash bonuses, prisoner releases, and accelerated paths to citizenship. As the war enters its fourth year, the Kremlin has drawn fighters from South Asia, Africa, the Middle East, and elsewhere to avoid the political cost of a nationwide draft.
@@ -297,3 +299,8 @@ An independent accounting carried out by Mediazona, an independent Russian news 
 **Access date:** 2026-01-27
 **Title:** Russia offers incentives for fighting in Ukraine, but some recruits complain of coercion
 **URL:** https://apnews.com/article/russia-ukraine-war-recruits-foreigners-78285219e6e10be694e8e1e007c5b6e4
+
+---
+
+<!-- analysis-link:2026-01-27-kremlin-escalates-financial-and-foreign-recruitment-to-offset-wartime-attrition -->
+**Going deeper:** [Read MSI's analysis of Russian foreign military recruitment strategy →](/analyses/2026-01-27-kremlin-escalates-financial-and-foreign-recruitment-to-offset-wartime-attrition)

@@ -108,6 +108,8 @@ cross_article_links:
   strength: 0.8234
   confidence: medium
 draft: false
+analyses:
+- '2026-01-27-administration-installs-border-czar-to-direct-minnesota-immigration-surge'
 ---
 
 Border Patrol commander Gregory Bovino is expected to leave Minneapolis on Tuesday, according to a person familiar with the matter, following the fatal shooting of an ICU nurse by federal immigration officers. The departure marks a significant shift in the Trump administration's immigration enforcement operation in Minnesota, which has drawn legal challenges and intense criticism from local officials and civil rights advocates. President Trump said he was placing border czar Tom Homan in charge of the operation, with Homan reporting directly to the White House.
@@ -312,3 +314,8 @@ The federal government's attorneys argued the temporary restraining order should
 **Access date:** 2026-05-18
 **Title:** Bovino to leave Minneapolis as Trump reshuffles immigration crackdown leadership
 **URL:** https://apnews.com/article/shooting-minneapolis-protests-ice-immigration-lawsuit-5bd12d70d3c76bfe5eacd802ce7480a7
+
+---
+
+<!-- analysis-link:2026-01-27-administration-installs-border-czar-to-direct-minnesota-immigration-surge -->
+**Going deeper:** [Read MSI's analysis of Minnesota immigration enforcement leadership transition →](/analyses/2026-01-27-administration-installs-border-czar-to-direct-minnesota-immigration-surge)

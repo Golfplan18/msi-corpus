@@ -39,9 +39,10 @@ license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - United Press International
+  - Associated Press
   outlet_classes:
   - wire
   highest_reliability_tier: 2

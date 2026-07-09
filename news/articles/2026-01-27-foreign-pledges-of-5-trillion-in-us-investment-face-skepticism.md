@@ -71,6 +71,8 @@ figures_aggregate:
   sources: []
 cross_article_links: []
 draft: false
+analyses:
+- '2026-01-27-peterson-institute-researchers-question-realization-of-trillion-dollar-foreign-p'
 ---
 
 ## Summary
@@ -321,3 +323,8 @@ In their report, the Peterson researchers worry about how the investment decisio
 **Publication date:** 2026-01-27
 **Title:** Trump's trillion-dollar investment promises face skepticism
 **URL:** https://apnews.com/article/trump-economy-investment-foreign-2f7dc458d48f044c31fbc9128e867206
+
+---
+
+<!-- analysis-link:2026-01-27-peterson-institute-researchers-question-realization-of-trillion-dollar-foreign-p -->
+**Going deeper:** [Read MSI's analysis of foreign investment pledge realization →](/analyses/2026-01-27-peterson-institute-researchers-question-realization-of-trillion-dollar-foreign-p)

@@ -63,6 +63,8 @@ figures_aggregate:
 cross_article_links: []
 draft: false
 related_stories: []
+analyses:
+- '2026-01-28-shifting-early-childhood-coordination-from-state-infrastructure-to-localized-pri'
 ---
 
 Great Start Collaboratives across Michigan are facing closures or reduced services after the state budget did not include previously allocated money for the collaboratives and for book distribution efforts, according to reporting.
@@ -477,3 +479,8 @@ MiLEAP referenced other budget items including $638.2 million for the state’s 
 **Access date:** 2026-05-22
 **Title:** “‘Blindsided’ by budget cut, Michigan early childhood programs fight to survive”
 **URL:** https://apnews.com/article/gretchen-whitmer-tim-kelly-michigan-government-budgets-education-funding-c1ff089fe901b85c5bb6cabd08005afb
+
+---
+
+<!-- analysis-link:2026-01-28-shifting-early-childhood-coordination-from-state-infrastructure-to-localized-pri -->
+**Going deeper:** [Read MSI's analysis of Michigan early childhood funding reallocation →](/analyses/2026-01-28-shifting-early-childhood-coordination-from-state-infrastructure-to-localized-pri)

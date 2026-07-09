@@ -72,6 +72,8 @@ figures_aggregate:
   sources: []
 cross_article_links: []
 draft: false
+analyses:
+- '2026-01-27-unverified-housing-status-exposes-gaps-in-new-york-city-extreme-cold-discharge-p'
 ---
 
 ## Summary
@@ -304,3 +306,8 @@ On average, about 15 people die from cold in New York City each year. This storm
 **Publication date:** 2026-01-27
 **Title:** Ten die in New York City's frigid cold
 **URL:** https://apnews.com/article/nyc-snow-deaths-zohran-mamdani-fe635c15f4236453b45fe21e7381923a
+
+---
+
+<!-- analysis-link:2026-01-27-unverified-housing-status-exposes-gaps-in-new-york-city-extreme-cold-discharge-p -->
+**Going deeper:** [Read MSI's analysis of New York City cold-weather discharge protocols →](/analyses/2026-01-27-unverified-housing-status-exposes-gaps-in-new-york-city-extreme-cold-discharge-p)

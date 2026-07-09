@@ -68,6 +68,8 @@ image:
   source: ai_generated
 cross_article_links: []
 draft: false
+analyses:
+- '2026-01-27-ntsb-attributes-preventable-washington-midair-collision-to-systemic-faa-routing-'
 ---
 
 ## Summary
@@ -284,3 +286,8 @@ Despite several high-profile crashes and near-misses in the months since the col
 **Publication date:** 2026-01-27
 **Title:** NTSB recommends actions at hearing on deadly midair collision near Washington, DC
 **URL:** https://apnews.com/article/dc-plane-crash-army-helicopter-ntsb-cause-c2ebc159a163068b782dd4824097b00b
+
+---
+
+<!-- analysis-link:2026-01-27-ntsb-attributes-preventable-washington-midair-collision-to-systemic-faa-routing- -->
+**Going deeper:** [Read MSI's analysis of the Washington midair collision's systemic causes →](/analyses/2026-01-27-ntsb-attributes-preventable-washington-midair-collision-to-systemic-faa-routing-)

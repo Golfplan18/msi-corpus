@@ -73,6 +73,8 @@ figures_aggregate:
   sources: []
 cross_article_links: []
 draft: false
+analyses:
+- '2026-01-27-warming-winters-erode-climatic-dependency-underwriting-maine-forest-pest-control'
 ---
 
 Maine's forests face a mounting threat from six invasive pests and diseases that are expanding despite recent control successes, state forestry officials warned at the Maine Agricultural Trades Show on January 14.
@@ -459,3 +461,8 @@ The six pests represent a compounding challenge for Maine's forests. While some 
 **Access date:** 2026-05-21
 **Title:** The outlook for 6 forest pests and diseases in Maine
 **URL:** https://apnews.com/article/insects-maine-forest-pests-forests-botany-97ea6837229c2a817f165f247383fcac
+
+---
+
+<!-- analysis-link:2026-01-27-warming-winters-erode-climatic-dependency-underwriting-maine-forest-pest-control -->
+**Going deeper:** [Read MSI's analysis of Maine forest pest climate vulnerabilities →](/analyses/2026-01-27-warming-winters-erode-climatic-dependency-underwriting-maine-forest-pest-control)

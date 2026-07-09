@@ -64,6 +64,8 @@ figures_aggregate:
   sources: []
 cross_article_links: []
 draft: false
+analyses:
+- '2026-01-27-helena-police-department-suspends-drug-task-force-membership-over-border-patrol-'
 ---
 
 The Helena Police Department has withdrawn from a regional drug task force after the agency decided to collaborate with U.S. Border Patrol agents. Police Chief Brett Petty announced the temporary exit from the Missouri River Drug Task Force during a city commissioners meeting Wednesday, citing concerns that the partnership could shift the department's focus from drug enforcement to immigration enforcement.
@@ -252,3 +254,8 @@ Not all local law enforcement moved in the same direction. The East Helena City 
 **Access date:** 2026-05-21
 **Title:** Police department in Montana's capital city exits drug task force over border patrol involvement
 **URL:** https://apnews.com/article/helena-brett-petty-helena-pd-border-security-drug-crimes-2e76244464a8d924dfe7cb4825cefc9d
+
+---
+
+<!-- analysis-link:2026-01-27-helena-police-department-suspends-drug-task-force-membership-over-border-patrol- -->
+**Going deeper:** [Read MSI's analysis of Helena drug task force withdrawal →](/analyses/2026-01-27-helena-police-department-suspends-drug-task-force-membership-over-border-patrol-)

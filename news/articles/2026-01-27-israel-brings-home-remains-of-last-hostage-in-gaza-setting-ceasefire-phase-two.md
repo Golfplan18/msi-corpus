@@ -79,6 +79,8 @@ image:
   disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
   ai_model: "openrouter:openai/gpt-5.4-image-2"
   ai_prompt: hand-drawn, ink on cream paper, transparent background, linework dominant, no solid fill, varied pen technique, single accent stroke in sepia | scene-based composition, multiple figures, atmosphere ov
+analyses:
+- '2026-01-27-netanyahu-defines-gaza-phase-two-around-disarmament-following-final-hostage-reco'
 ---
 
 Israel brought home the remains of the last hostage in Gaza on Monday, closing a key element of the Gaza ceasefire with Hamas and setting the stage for a more difficult second phase of negotiations. The Associated Press reported that the remains of police officer Ran Gvili were recovered in northern Gaza and brought to Israel after Hamas said it had met the terms of the first phase, which included the return of remaining hostages, living or dead.
@@ -379,3 +381,8 @@ Separately, the AP reported that the Foreign Press Association asked Israel’s 
 **Access date:** 2026-05-22
 **Title:** Israel recovers remains of last hostage in Gaza
 **URL:** https://apnews.com/article/israel-gaza-hamas-rafah-26-1-2026-c0b373a26ef7f4524b9b2bdad766cfda
+
+---
+
+<!-- analysis-link:2026-01-27-netanyahu-defines-gaza-phase-two-around-disarmament-following-final-hostage-reco -->
+**Going deeper:** [Read MSI's analysis of Gaza ceasefire phase transition framing →](/analyses/2026-01-27-netanyahu-defines-gaza-phase-two-around-disarmament-following-final-hostage-reco)

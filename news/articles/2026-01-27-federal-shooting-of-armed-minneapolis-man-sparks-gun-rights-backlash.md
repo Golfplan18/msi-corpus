@@ -68,6 +68,8 @@ figures_aggregate:
   sources: []
 cross_article_links: []
 draft: false
+analyses:
+- '2026-01-27-gun-rights-coalition-challenges-administration-rhetoric-following-fatal-shooting'
 ---
 
 ## Summary
@@ -364,3 +366,8 @@ William Sack, legal director of the Second Amendment Foundation, said he was sur
 **Publication date:** 2026-01-27
 **Title:** EEUU: Partidarios del derecho a portar armas objetan retórica del gobierno sobre Pretti
 **URL:** https://apnews.com/article/eeuu-derecho-de-portar-armas-ice-minnesota-ice-redadas-trump-eeb5fbc88d143819102129969d5eb4ab
+
+---
+
+<!-- analysis-link:2026-01-27-gun-rights-coalition-challenges-administration-rhetoric-following-fatal-shooting -->
+**Going deeper:** [Read MSI's analysis of Minneapolis federal shooting gun rights backlash →](/analyses/2026-01-27-gun-rights-coalition-challenges-administration-rhetoric-following-fatal-shooting)

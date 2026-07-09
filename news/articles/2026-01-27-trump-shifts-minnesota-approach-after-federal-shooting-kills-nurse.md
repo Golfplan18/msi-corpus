@@ -77,6 +77,8 @@ image:
   source: ai_generated
 cross_article_links: []
 draft: false
+analyses:
+- '2026-01-27-white-house-reverses-maximalist-immigration-enforcement-posture-in-minnesota-aft'
 ---
 
 ## Summary
@@ -465,3 +467,8 @@ Minneapolis Mayor Jacob Frey confirmed Monday that some federal agents would be 
 **Publication date:** 2026-01-27
 **Title:** How Trump changed tack in Minnesota after Pretti's death
 **URL:** https://apnews.com/article/trump-pretti-minnesota-immigration-enforcement-eb9e63a625b624d2ba4ed467cb0f956c
+
+---
+
+<!-- analysis-link:2026-01-27-white-house-reverses-maximalist-immigration-enforcement-posture-in-minnesota-aft -->
+**Going deeper:** [Read MSI's analysis of the Minnesota immigration enforcement reversal →](/analyses/2026-01-27-white-house-reverses-maximalist-immigration-enforcement-posture-in-minnesota-aft)
