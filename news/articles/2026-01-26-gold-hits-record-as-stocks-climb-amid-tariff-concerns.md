@@ -82,6 +82,8 @@ image:
   source: ai_generated
 cross_article_links: []
 draft: false
+analyses:
+- '2026-01-26-u-s-equities-and-gold-advance-as-investors-hedge-converging-policy-and-monetary-'
 ---
 
 ## Summary
@@ -459,3 +461,8 @@ Indexes abroad were mixed with more pronounced moves in Asia. Japan's Nikkei 225
 **Publication date:** 2026-01-26
 **Title:** US stocks rise as gold hits another record and the dollar's value sinks
 **URL:** https://apnews.com/article/stock-markets-trump-gold-tariffs-cfcf7fb103655bb78ead3f0078ac457f
+
+---
+
+<!-- analysis-link:2026-01-26-u-s-equities-and-gold-advance-as-investors-hedge-converging-policy-and-monetary- -->
+**Going deeper:** [Read MSI's analysis of cross-asset market hedging →](/analyses/2026-01-26-u-s-equities-and-gold-advance-as-investors-hedge-converging-policy-and-monetary-)

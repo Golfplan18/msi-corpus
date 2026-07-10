@@ -68,6 +68,8 @@ figures_aggregate:
   sources: []
 cross_article_links: []
 draft: false
+analyses:
+- '2026-01-27-probabilistic-models-forecast-eastern-winter-storm-mortality-trajectories'
 ---
 
 ## Summary
@@ -297,3 +299,8 @@ In North Carolina, Wake County's largest public school system closed schools aga
 **Publication date:** 2026-01-27
 **Title:** Winter storm deaths rise and power outages drag on
 **URL:** https://apnews.com/article/frigid-temperatures-arctic-air-us-south-tennessee-9d4beb4d548e29d5ce737fd001d67a64
+
+---
+
+<!-- analysis-link:2026-01-27-probabilistic-models-forecast-eastern-winter-storm-mortality-trajectories -->
+**Going deeper:** [Read MSI's analysis of eastern winter storm mortality forecasts →](/analyses/2026-01-27-probabilistic-models-forecast-eastern-winter-storm-mortality-trajectories)

@@ -108,6 +108,8 @@ cross_article_links:
   strength: 0.7993
   confidence: medium
 draft: false
+analyses:
+- '2026-01-26-family-and-federal-accounts-diverge-on-minneapolis-nurse-shooting'
 ---
 
 Alex Pretti, an intensive care nurse at the Minneapolis VA Medical Center, was shot and killed by Border Patrol officers on Saturday in a confrontation the Trump administration characterized as a "domestic terrorist" attack. His family and colleagues disputed that account, describing the 37-year-old as a compassionate caregiver whose only documented offense was protesting the administration's immigration crackdown.
@@ -383,3 +385,8 @@ The incident marks the second fatal shooting of a Minneapolis resident by federa
 **Access date:** 2026-01-26
 **Title:** Minneapolis mourns nurse Alex Pretti killed by a Border Patrol agent
 **URL:** https://apnews.com/article/shooting-minneapolis-protests-ice-immigration-41437baa4b349279cf8abfaf1076162c
+
+---
+
+<!-- analysis-link:2026-01-26-family-and-federal-accounts-diverge-on-minneapolis-nurse-shooting -->
+**Going deeper:** [Read MSI's analysis of the Minneapolis Border Patrol shooting →](/analyses/2026-01-26-family-and-federal-accounts-diverge-on-minneapolis-nurse-shooting)

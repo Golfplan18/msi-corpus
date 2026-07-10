@@ -70,6 +70,8 @@ figures_aggregate:
 cross_article_links: []
 draft: false
 related_stories: []
+analyses:
+- '2026-01-26-israeli-military-searches-gaza-for-final-hostage-to-enable-rafah-crossing-reopen'
 ---
 
 Israel said it has begun a “large-scale operation” to locate its last remaining hostage in Gaza, Ran Gvili, as Washington and other mediators pressed Israel and Hamas to move into the next stage of their ceasefire. The statement came as Israel’s Cabinet met to discuss whether to open the Rafah border crossing with Egypt, and a day after top U.S. envoys met Prime Minister Benjamin Netanyahu about next steps.
@@ -365,3 +367,8 @@ UNRWA’s mandate is to provide aid and services to some 2.5 million Palestinian
 **Publication date:** 2026-01-25
 **Access date:** 2026-05-22
 **URL:** https://apnews.com/article/gaza-israel-hamas-palestinians-hostage-gvili-d57a28eb5371785588d4b955f9dd2a46
+
+---
+
+<!-- analysis-link:2026-01-26-israeli-military-searches-gaza-for-final-hostage-to-enable-rafah-crossing-reopen -->
+**Going deeper:** [Read MSI's analysis of Gaza hostage recovery and ceasefire sequencing →](/analyses/2026-01-26-israeli-military-searches-gaza-for-final-hostage-to-enable-rafah-crossing-reopen)

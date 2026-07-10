@@ -68,6 +68,8 @@ figures_aggregate:
 cross_article_links: []
 draft: false
 related_stories: []
+analyses:
+- '2026-01-27-salamanca-soccer-field-attack-exposes-competing-cartel-violence-theories'
 ---
 
 Beer cans, candles and blood-stained clothing littered a soccer field in central Mexico on Monday, a day after gunmen killed at least 11 people and injured 12 others during a gathering after an amateur match, the Associated Press reported.
@@ -305,3 +307,8 @@ Security analyst David Saucedo, who was based in Guanajuato for many years, sugg
 **Access date:** 2026-05-22
 **Title:** Mexico investigates attack on soccer field that killed at least 11
 **URL:** https://apnews.com/article/mexico-cartel-salamanca-guanajuato-sheinbaum-violence-3811864805e417a741d43d696e9a83a1
+
+---
+
+<!-- analysis-link:2026-01-27-salamanca-soccer-field-attack-exposes-competing-cartel-violence-theories -->
+**Going deeper:** [Read MSI's analysis of the Salamanca soccer field attack →](/analyses/2026-01-27-salamanca-soccer-field-attack-exposes-competing-cartel-violence-theories)

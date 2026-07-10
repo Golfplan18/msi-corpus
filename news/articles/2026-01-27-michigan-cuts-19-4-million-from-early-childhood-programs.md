@@ -67,6 +67,8 @@ figures_aggregate:
   sources: []
 cross_article_links: []
 draft: false
+analyses:
+- '2026-01-27-michigan-legislature-eliminates-great-start-funding-and-decouples-early-childhoo'
 ---
 
 ## Summary
@@ -344,3 +346,8 @@ Senator Darrin Camilleri, D-Brownstown Township, said the state's commitment to 
 **Publication date:** 2026-01-27
 **Title:** ‘Blindsided’ by budget cut, Michigan early childhood programs fight to survive
 **URL:** https://apnews.com/article/gretchen-whitmer-tim-kelly-michigan-government-budgets-education-funding-c1ff089fe901b85c5bb6cabd08005afb
+
+---
+
+<!-- analysis-link:2026-01-27-michigan-legislature-eliminates-great-start-funding-and-decouples-early-childhoo -->
+**Going deeper:** [Read MSI's analysis of Great Start Collaborative funding elimination →](/analyses/2026-01-27-michigan-legislature-eliminates-great-start-funding-and-decouples-early-childhoo)

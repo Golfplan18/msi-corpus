@@ -32,39 +32,7 @@ topic_tags:
 - government policy
 - economy, business and finance
 storyline_nexus:
-- U
-- S
-- '-'
-- I
-- r
-- a
-- n
-- ' '
-- n
-- e
-- g
-- o
-- t
-- i
-- a
-- t
-- i
-- o
-- n
-- s
-- ' '
-- a
-- n
-- d
-- ' '
-- c
-- o
-- n
-- f
-- l
-- i
-- c
-- t
+- iran-nuclear-negotiations
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

@@ -19,30 +19,7 @@ topic_tags:
 - economy
 - politics
 storyline_nexus:
-- i
-- r
-- a
-- n
-- '-'
-- w
-- a
-- r
-- '-'
-- e
-- c
-- o
-- n
-- o
-- m
-- i
-- c
-- '-'
-- i
-- m
-- p
-- a
-- c
-- t
+- the-iran-war
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

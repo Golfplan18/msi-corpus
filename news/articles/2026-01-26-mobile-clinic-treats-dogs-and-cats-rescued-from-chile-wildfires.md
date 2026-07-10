@@ -71,6 +71,8 @@ figures_aggregate:
 cross_article_links: []
 draft: false
 related_stories: []
+analyses:
+- '2026-01-26-mobile-veterinary-van-treats-chilean-wildfire-animals-under-binding-clinical-tim'
 ---
 
 ## A mobile clinic made from a van
@@ -310,3 +312,8 @@ She also recalled that people died, families died, neighbors died, and that many
 **Publication date:** 2026-01-21
 **Access date:** 2026-05-22
 **URL:** https://apnews.com/article/chile-wildfires-pets-rescue-first-aid-2f6a8e031c5e4102407621b864ebe6b3
+
+---
+
+<!-- analysis-link:2026-01-26-mobile-veterinary-van-treats-chilean-wildfire-animals-under-binding-clinical-tim -->
+**Going deeper:** [Read MSI's analysis of Chile wildfire mobile pet clinic response →](/analyses/2026-01-26-mobile-veterinary-van-treats-chilean-wildfire-animals-under-binding-clinical-tim)

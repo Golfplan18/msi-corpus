@@ -14,7 +14,8 @@ gdelt_event_ids: []
 consensus_floor_version: current
 publication_mindspec_version: thomas-reynolds-2026-06
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -31,7 +32,27 @@ figures_aggregate:
   sources: []
 cross_article_links: []
 draft: false
+image:
+  url: /cartoons/the-court-rigged-the-midterms.png
+  alt: 'Editorial cartoon by Hector Rentier: The Court Rigged the Midterms'
+  caption: The First Amendment was the ribbon. The war chest was the policy.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-07-09T04:23:10-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: Single central figure, 1:1, heavy cross-hatch in the Nast-Daumier tradition.
+    A Supreme Court justice in immaculate black robes sits at the bench, pen poised
+    mid-stroke over an opinion being written. T
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-07-09-hector-paired-with-2026-07-09-thomas-the-court-rigged-the-midterms
 ---
+
+![Editorial cartoon by Hector Rentier: The Court Rigged the Midterms](/cartoons/the-court-rigged-the-midterms.png)
+*The First Amendment was the ribbon. The war chest was the policy.*
 
 The Supreme Court has rigged the November elections for the Republican Party. The six-justice majority that decided *National Senatorial Campaign Committee v. Federal Election Commission* knows it. Justice Neil Gorsuch spelled out the mechanism in his concurrence: businesses donate to curry favor with regulators who can make or break them — an FCC investigation, an FTC rule, an OSHA adjudication, an SEC prosecution — and the First Amendment question is whether to restrict speech or to restrict the regulatory state. Read that sentence again. It is the argument of a Court that has decided the answer is to restrict nothing, to let the money move.
 

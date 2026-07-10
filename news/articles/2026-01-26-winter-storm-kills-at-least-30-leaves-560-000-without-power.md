@@ -74,6 +74,8 @@ figures_aggregate:
   sources: []
 cross_article_links: []
 draft: false
+analyses:
+- '2026-01-26-winter-storm-exposes-southern-grid-vulnerability-through-cascading-infrastructur'
 ---
 
 ## Summary
@@ -410,3 +412,8 @@ The National Weather Service forecast the entire Lower 48 states to experience t
 **Publication date:** 2026-01-26
 **Title:** US braces for freezing cold as winter storm leaves power outages and at least 30 dead
 **URL:** https://apnews.com/article/winter-weather-storm-snow-ice-cbdc1977b810322baf976c91b622516b
+
+---
+
+<!-- analysis-link:2026-01-26-winter-storm-exposes-southern-grid-vulnerability-through-cascading-infrastructur -->
+**Going deeper:** [Read MSI's analysis of winter storm infrastructure vulnerability →](/analyses/2026-01-26-winter-storm-exposes-southern-grid-vulnerability-through-cascading-infrastructur)

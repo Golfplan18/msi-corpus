@@ -66,6 +66,8 @@ figures_aggregate:
 cross_article_links: []
 draft: false
 related_stories: []
+analyses:
+- '2026-01-26-democrats-escalating-minneapolis-pressure-through-funding-blocks-and-impeachment'
 ---
 
 Democratic Sen. Jacky Rosen has called for the impeachment of Homeland Security Secretary Kristi Noem, saying he believes she attempted to “mislead the American public” about the fatal shooting of a 37-year-old protester in Minneapolis.
@@ -446,3 +448,8 @@ New York Rep. Laura Gillen, a Democrat, said Sunday there must be accountability
 **Publication date:** 2026-01-25
 **Access date:** 2026-05-22
 **URL:** https://apnews.com/article/hooting-minneapolis-protests-ice-immigration-6eab65fcf808227bc02c19acfb94cae3
+
+---
+
+<!-- analysis-link:2026-01-26-democrats-escalating-minneapolis-pressure-through-funding-blocks-and-impeachment -->
+**Going deeper:** [Read MSI's analysis of Democratic impeachment and funding leverage →](/analyses/2026-01-26-democrats-escalating-minneapolis-pressure-through-funding-blocks-and-impeachment)

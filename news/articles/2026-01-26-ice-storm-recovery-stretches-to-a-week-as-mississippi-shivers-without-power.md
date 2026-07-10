@@ -65,6 +65,8 @@ figures_aggregate:
   sources: []
 cross_article_links: []
 draft: false
+analyses:
+- '2026-01-26-parallel-infrastructure-restoration-governs-mississippi-ice-storm-recovery'
 ---
 
 ## Summary
@@ -235,3 +237,8 @@ The ice storm represents one of the worst in the state in more than 30 years, le
 **Publication date:** 2026-01-26
 **Title:** Winter storm leaves Mississippi in the dark
 **URL:** https://apnews.com/article/mississippi-ice-storm-ole-miss-oxford-93d11fe7cc0875bdf4e8b08a47dcfb16
+
+---
+
+<!-- analysis-link:2026-01-26-parallel-infrastructure-restoration-governs-mississippi-ice-storm-recovery -->
+**Going deeper:** [Read MSI's analysis of mississippi ice storm infrastructure recovery →](/analyses/2026-01-26-parallel-infrastructure-restoration-governs-mississippi-ice-storm-recovery)

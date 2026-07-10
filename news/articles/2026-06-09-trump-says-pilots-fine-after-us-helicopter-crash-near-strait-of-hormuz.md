@@ -25,14 +25,7 @@ topic_tags:
 - peace process
 - government
 storyline_nexus:
-- i
-- r
-- a
-- n
-- '-'
-- w
-- a
-- r
+- the-iran-war
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

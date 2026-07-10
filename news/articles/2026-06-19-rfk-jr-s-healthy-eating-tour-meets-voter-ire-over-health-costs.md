@@ -15,43 +15,7 @@ topic_tags:
 - health
 - politics
 storyline_nexus:
-- u
-- s
-- '-'
-- h
-- e
-- a
-- l
-- t
-- h
-- '-'
-- p
-- o
-- l
-- i
-- c
-- y
-- '-'
-- t
-- r
-- u
-- m
-- p
-- '-'
-- a
-- d
-- m
-- i
-- n
-- i
-- s
-- t
-- r
-- a
-- t
-- i
-- o
-- n
+- trump-health-policy-rfk
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

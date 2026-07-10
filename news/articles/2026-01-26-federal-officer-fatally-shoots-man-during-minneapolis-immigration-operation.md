@@ -74,6 +74,8 @@ image:
   disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
   ai_model: "openrouter:openai/gpt-5.4-image-2"
   ai_prompt: hand-drawn, ink on cream paper, transparent background, linework dominant, no solid fill, varied pen technique, single accent stroke in sepia | scene-based composition, multiple figures, atmosphere ov
+analyses:
+- '2026-01-26-state-investigators-contest-federal-scene-control-following-fatal-minneapolis-im'
 ---
 
 Federal immigration officers shot and killed a man in Minneapolis on Saturday, setting off protests in frigid temperatures and prompting the Minnesota National Guard to be activated to assist local police, the Associated Press reported.
@@ -410,3 +412,8 @@ The AP also reported a correction: the age of the man who was shot was corrected
 **Publication date:** 2026-01-24
 **Access date:** 2026-05-22
 **URL:** https://apnews.com/article/immigration-enforcement-minnesota-4d1499fc5962ab880f3816259e04bdbf
+
+---
+
+<!-- analysis-link:2026-01-26-state-investigators-contest-federal-scene-control-following-fatal-minneapolis-im -->
+**Going deeper:** [Read MSI's analysis of the fatal Minneapolis immigration shooting →](/analyses/2026-01-26-state-investigators-contest-federal-scene-control-following-fatal-minneapolis-im)

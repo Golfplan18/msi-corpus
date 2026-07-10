@@ -79,6 +79,8 @@ cross_article_links:
   strength: 0.7522
   confidence: medium
 draft: false
+analyses:
+- '2026-01-26-european-far-right-leaders-fracture-transatlantic-alliance-over-greenland-sovere'
 ---
 
 Europe's far-right parties have unexpectedly distanced themselves from President Trump over his plans to take control of Greenland, fracturing an alliance that appeared unshakeable less than a year ago. The rift demonstrates that shared nationalism and anti-establishment ideology may not be enough to overcome concerns about national sovereignty and foreign intervention.
@@ -260,3 +262,8 @@ But uncertainty remains about the durability of the alliance. "If Trump continue
 **Access date:** 2026-01-26
 **Title:** Trump's Greenland ambitions strain MAGA ties with Europe's far-right
 **URL:** https://apnews.com/article/trump-greenland-europe-far-right-maga-c6b44e151d81e990129c2d58ab0ee192
+
+---
+
+<!-- analysis-link:2026-01-26-european-far-right-leaders-fracture-transatlantic-alliance-over-greenland-sovere -->
+**Going deeper:** [Read MSI's analysis of the transatlantic far-right fracture →](/analyses/2026-01-26-european-far-right-leaders-fracture-transatlantic-alliance-over-greenland-sovere)

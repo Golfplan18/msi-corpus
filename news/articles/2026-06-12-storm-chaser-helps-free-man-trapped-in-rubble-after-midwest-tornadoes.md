@@ -18,13 +18,7 @@ topic_tags:
 - weather
 - natural disaster
 storyline_nexus:
-- w
-- e
-- a
-- t
-- h
-- e
-- r
+- extreme-weather-disasters
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

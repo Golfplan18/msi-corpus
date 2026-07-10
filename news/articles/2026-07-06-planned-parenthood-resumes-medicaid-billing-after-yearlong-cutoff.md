@@ -21,7 +21,7 @@ topic_tags:
 - health
 - politics
 storyline_nexus:
-- abortion-policy
+- abortion-rights-battles
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

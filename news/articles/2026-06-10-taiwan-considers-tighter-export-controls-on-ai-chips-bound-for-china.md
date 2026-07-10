@@ -27,27 +27,7 @@ topic_tags:
 - international trade
 - government policy
 storyline_nexus:
-- t
-- e
-- c
-- h
-- n
-- o
-- l
-- o
-- g
-- y
-- '-'
-- r
-- e
-- g
-- u
-- l
-- a
-- t
-- o
-- r
-- y
+- us-china-competition
 geographic_location: United States
 floor_values_engaged: []
 framework_version: 1.3.0

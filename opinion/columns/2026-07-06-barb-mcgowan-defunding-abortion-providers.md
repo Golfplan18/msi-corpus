@@ -16,21 +16,7 @@ topic_tags:
 - health
 - politics
 storyline_nexus:
-- a
-- b
-- o
-- r
-- t
-- i
-- o
-- n
-- '-'
-- p
-- o
-- l
-- i
-- c
-- y
+- abortion-rights-battles
 floor_values_engaged:
 - value: human_life_and_dignity
   intensity: 0.9

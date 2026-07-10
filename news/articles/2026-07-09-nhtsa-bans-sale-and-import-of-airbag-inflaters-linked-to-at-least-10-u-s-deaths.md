@@ -56,6 +56,8 @@ figures_aggregate:
 cross_article_links: []
 draft: false
 related_stories: []
+analyses:
+- '2026-07-09-nhtsa-bans-sale-of-counterfeit-dtn-inflaters-linked-to-ten-fatalities-across-unt'
 ---
 
 ## NHTSA bans sale and import of airbag inflaters linked to at least 10 U.S. deaths
@@ -104,3 +106,8 @@ The agency’s investigators have been forced to trace the parts through a compl
 **Publication date:** 2026-07-09
 **Title:** Counterfeit Air-Bag Parts Are Killing U.S. Drivers—and the Government Can’t Stop It
 **URL:** https://www.wsj.com/business/autos/counterfeit-air-bag-parts-deaths-regulators-6eddfdd4
+
+---
+
+<!-- analysis-link:2026-07-09-nhtsa-bans-sale-of-counterfeit-dtn-inflaters-linked-to-ten-fatalities-across-unt -->
+**Going deeper:** [Read MSI's analysis of NHTSA's counterfeit airbag inflater ban →](/analyses/2026-07-09-nhtsa-bans-sale-of-counterfeit-dtn-inflaters-linked-to-ten-fatalities-across-unt)

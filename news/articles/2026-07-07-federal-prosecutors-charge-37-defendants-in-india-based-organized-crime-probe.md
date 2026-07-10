@@ -34,7 +34,8 @@ topic_tags:
 - prosecution
 - terrorism
 - international relations
-storyline_nexus: []
+storyline_nexus:
+- mexico-cartel-violence
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -54,11 +55,13 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - BBC News
+  - The Wall Street Journal
   outlet_classes:
   - public_broadcaster
+  - national_daily
   highest_reliability_tier: 1
   has_originating: true
   has_primary_document: false

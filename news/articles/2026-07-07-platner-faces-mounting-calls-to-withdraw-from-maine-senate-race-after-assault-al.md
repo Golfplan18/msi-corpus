@@ -32,28 +32,7 @@ topic_tags:
 - crime
 - crime, law and justice
 storyline_nexus:
-- m
-- a
-- i
-- n
-- e
-- '-'
-- s
-- e
-- n
-- a
-- t
-- e
-- '-'
-- r
-- a
-- c
-- e
-- '-'
-- '2'
-- '0'
-- '2'
-- '6'
+- congressional-ethics-misconduct
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

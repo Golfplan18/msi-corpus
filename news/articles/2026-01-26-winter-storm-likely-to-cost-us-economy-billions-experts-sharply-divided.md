@@ -69,6 +69,8 @@ figures_aggregate:
   sources: []
 cross_article_links: []
 draft: false
+analyses:
+- '2026-01-26-divergent-accounting-frames-dividing-experts-over-winter-storm-costs'
 ---
 
 ## Summary
@@ -343,3 +345,8 @@ Whether costs are calculated narrowly or broadly, one fact stands: they are addi
 **Publication date:** 2026-01-26
 **Title:** Winter storm likely cost the US economy billions of dollars
 **URL:** https://apnews.com/article/winter-storm-snow-ice-damage-costs-climate-billions-b7f1812797d72215f7a37dc36d47de9e
+
+---
+
+<!-- analysis-link:2026-01-26-divergent-accounting-frames-dividing-experts-over-winter-storm-costs -->
+**Going deeper:** [Read MSI's analysis of winter storm economic cost accounting →](/analyses/2026-01-26-divergent-accounting-frames-dividing-experts-over-winter-storm-costs)

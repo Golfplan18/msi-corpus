@@ -21,30 +21,7 @@ primary_themes:
 topic_tags:
 - politics
 storyline_nexus:
-- '2'
-- '0'
-- '2'
-- '6'
-- ' '
-- U
-- S
-- ' '
-- S
-- e
-- n
-- a
-- t
-- e
-- ' '
-- e
-- l
-- e
-- c
-- t
-- i
-- o
-- n
-- s
+- congressional-ethics-misconduct
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

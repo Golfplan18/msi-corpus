@@ -21,35 +21,7 @@ primary_themes:
 topic_tags:
 - crime
 storyline_nexus:
-- t
-- r
-- u
-- m
-- p
-- '-'
-- i
-- m
-- m
-- i
-- g
-- r
-- a
-- t
-- i
-- o
-- n
-- '-'
-- e
-- n
-- f
-- o
-- r
-- c
-- e
-- m
-- e
-- n
-- t
+- us-immigration-enforcement
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
