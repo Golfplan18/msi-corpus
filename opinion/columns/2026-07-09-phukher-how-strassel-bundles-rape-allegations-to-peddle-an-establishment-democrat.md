@@ -1,7 +1,8 @@
 ---
 headline: How Strassel Bundles Rape Allegations to Peddle an 'Establishment' Democrat
 publish_date: '2026-07-09'
-lede: Strassel bundled a sexual-assault allegation with cable-show mockery to elevate a corporate Democrat.
+lede: Strassel bundled a sexual-assault allegation with cable-show mockery to elevate
+  a corporate Democrat.
 pen_name: phukher-tarlson
 primary_entities: []
 primary_themes: []
@@ -14,7 +15,8 @@ gdelt_event_ids: []
 consensus_floor_version: current
 publication_mindspec_version: phukher-tarlson-2026-05
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -31,7 +33,28 @@ figures_aggregate:
   sources: []
 cross_article_links: []
 draft: false
+image:
+  url: /cartoons/how-strassel-bundles-rape-allegations-to-peddle-an.png
+  alt: 'Editorial cartoon by Hector Rentier: How Strassel Bundles Rape Allegations
+    to Peddle an ''Establishment'' Democrat'
+  caption: She bundled an assault with the sneer to install the donor's pick.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-07-10T17:01:26-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5-image
+  ai_prompt: 'Single-panel editorial cartoon in heavy cross-hatch wood-engraving,
+    1:1 aspect. Center frame: a composed woman in a tailored editorial blouse sits
+    at a tidy editorial desk, hands folding a stack of pa'
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-07-09-hector-paired-with-2026-07-09-phukher-how-strassel-bundles-rape-allegations-to-peddle-an-establishment-democr
 ---
+
+![Editorial cartoon by Hector Rentier: How Strassel Bundles Rape Allegations to Peddle an 'Establishment' Democrat](/cartoons/how-strassel-bundles-rape-allegations-to-peddle-an.png)
+*She bundled an assault with the sneer to install the donor's pick.*
 
 Strassel bundled a sexual-assault allegation with cable-show mockery to elevate a corporate Democrat. The July 9, 2026 column in the *Wall Street Journal*, "Maine May Get Another Platner," uses the Maine Democratic Senate primary to argue that the party's "establishment" should have stopped a popular progressive from winning the nomination. The eye that names the bundling is the eye that built versions of it at the Journal between 1999 and 2007. The operator's-eye-view confession-of-method is the operator's authority. This column walks through the artifact section by section, naming the techniques as the operators built them.
 

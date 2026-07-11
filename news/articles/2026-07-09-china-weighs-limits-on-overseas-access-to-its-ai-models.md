@@ -113,6 +113,8 @@ image:
   disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
   ai_model: "openrouter:openai/gpt-5.4-image-2"
   ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+analyses:
+- '2026-07-09-chinese-regulators-consider-restricting-foreign-access-to-domestic-artificial-in'
 ---
 ## China weighs limits on overseas access to its AI models
 
@@ -149,3 +151,8 @@ The discussions are still in the early stages, the people familiar said. Reuters
 **Publication date:** 2026-07-09
 **Title:** China Weighs Limits on the AI Models American Companies Love
 **URL:** https://www.wsj.com/tech/ai/china-weighs-limits-on-the-ai-models-american-companies-love-c3ad8f2b
+
+---
+
+<!-- analysis-link:2026-07-09-chinese-regulators-consider-restricting-foreign-access-to-domestic-artificial-in -->
+**Going deeper:** [Read MSI's analysis of China's artificial intelligence access restrictions →](/analyses/2026-07-09-chinese-regulators-consider-restricting-foreign-access-to-domestic-artificial-in)

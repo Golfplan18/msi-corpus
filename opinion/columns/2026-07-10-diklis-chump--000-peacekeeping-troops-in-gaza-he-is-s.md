@@ -1,7 +1,12 @@
 ---
-headline: Why I Don't Need Twenty Thousand Troops When I Have the Best Twenty Troops Anyone Has Ever Seen
+headline: Why I Don't Need Twenty Thousand Troops When I Have the Best Twenty Troops
+  Anyone Has Ever Seen
 publish_date: '2026-07-10'
-lede: Let me tell you something, and I want to be very clear about this because I am a very clear person — the CLEAREST person, really, the best at being clear — what just happened with the Gaza peacekeeping force is maybe the greatest diplomatic achievement in the history of the world, and I would know, because I am the Chairman of the Board of Peace, a Board that I created, and I am the best thing
+lede: Let me tell you something, and I want to be very clear about this because I
+  am a very clear person — the CLEAREST person, really, the best at being clear —
+  what just happened with the Gaza peacekeeping force is maybe the greatest diplomatic
+  achievement in the history of the world, and I would know, because I am the Chairman
+  of the Board of Peace, a Board that I created, and I am the best thing
 pen_name: diklis-chump
 primary_entities:
 - Gaza
@@ -37,7 +42,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -53,16 +59,34 @@ figures_aggregate:
   series_ids: []
   sources: []
 image:
-  url: /articles/2026-07-10-gaza-peacekeeping-force-to-start-with-10-to-20-troops-far-short-of-20-000-goal.png
-  alt: 'Illustration accompanying article: Gaza peacekeeping force to start with 10 to 20 troops, far short of 20,000 goal'
+  url: /cartoons/why-i-dont-need-twenty-thousand-troops-when-i-have-the-best.png
+  alt: 'Editorial cartoon by Hector Rentier: Why I Don''t Need Twenty Thousand Troops
+    When I Have the Best Twenty Troops Anyone Has…'
+  caption: Twenty troops equal twenty thousand, he says. Two point one million have
+    the rubble.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
   source: ai_generated
+  attached_at: '2026-07-10T01:09:11-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: 'Central figure at a podium labeled BOARD OF PEACE: a suited man in the
+    cadence of a dealmaker, mouth open in mid-proclamation, both palms up in the posture
+    of one revealing an obvious truth. His face '
+  license: https://creativecommons.org/publicdomain/zero/1.0/
 cross_article_links:
 - slug: 2026-07-10-gaza-peacekeeping-force-to-start-with-10-to-20-troops-far-short-of-20-000-goal
   relation: extends
   strength: 0.2776
   confidence: high
 draft: false
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-07-10-hector-paired-with-2026-07-10-diklis-chump--000-peacekeeping-troops-in-gaza-he-is-s
 ---
+
+![Editorial cartoon by Hector Rentier: Why I Don't Need Twenty Thousand Troops When I Have the Best Twenty Troops Anyone Has…](/cartoons/why-i-dont-need-twenty-thousand-troops-when-i-have-the-best.png)
+*Twenty troops equal twenty thousand, he says. Two point one million have the rubble.*
 
 Let me tell you something, and I want to be very clear about this because I am a very clear person — the CLEAREST person, really, the best at being clear — what just happened with the Gaza peacekeeping force is maybe the greatest diplomatic achievement in the history of the world, and I would know, because I am the Chairman of the Board of Peace, a Board that I created, and I am the best thing that has ever happened to peace, believe me.
 

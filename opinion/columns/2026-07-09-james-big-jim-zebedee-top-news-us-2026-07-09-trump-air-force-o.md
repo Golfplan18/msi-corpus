@@ -35,7 +35,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 2
@@ -58,7 +59,27 @@ cross_article_links:
   strength: 0.6362
   confidence: high
 draft: false
+image:
+  url: /cartoons/flying-the-gift-crying-kill-list.png
+  alt: 'Editorial cartoon by Hector Rentier: Flying the Gift, Crying Kill List'
+  caption: He invoked the kill list. He flew the gift anyway.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-07-10T05:08:10-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: Single central allegorical figure, 1:1 aspect ratio. President Trump
+    stands composed at center on a tarmac, full-length, his body angled slightly toward
+    the viewer with one hand extended in a calm, ma
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-07-09-hector-paired-with-2026-07-09-james-big-jim-zebedee-top-news-us-2026-07-09-trump-air-force-o
 ---
+
+![Editorial cartoon by Hector Rentier: Flying the Gift, Crying Kill List](/cartoons/flying-the-gift-crying-kill-list.png)
+*He invoked the kill list. He flew the gift anyway.*
 
 He told us he was number one on the kill list. He told reporters on the ground in Ankara. He told the cameras. Then he flew the gift aircraft anyway.
 

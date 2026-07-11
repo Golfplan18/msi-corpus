@@ -30,7 +30,8 @@ topic_tags:
 - international military intervention
 - peace process
 - post-war reconstruction
-storyline_nexus: []
+storyline_nexus:
+- gaza-israel-war
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -179,6 +180,8 @@ related_stories:
   publish_date: '2026-03-28'
   relation: related
   strength: 0.6769
+analyses:
+- '2026-07-10-staging-initial-gaza-peacekeeping-troops-at-border-amid-regional-instability-and'
 ---
 ## Gaza peacekeeping force to start with 10 to 20 troops, far short of 20,000 goal
 
@@ -210,3 +213,8 @@ Reconstruction has not yet begun, and billions of dollars pledged for the effort
 **Publication date:** 2026-07-10
 **Title:** Trump Wanted 20,000 Peacekeeping Troops in Gaza. He Is Starting With 10 to 20.
 **URL:** https://www.wsj.com/world/middle-east/trump-wanted-20-000-peacekeeping-troops-in-gaza-he-is-starting-with-10-to-20-cf0ab958
+
+---
+
+<!-- analysis-link:2026-07-10-staging-initial-gaza-peacekeeping-troops-at-border-amid-regional-instability-and -->
+**Going deeper:** [Read MSI's analysis of Gaza stabilization force deployment constraints →](/analyses/2026-07-10-staging-initial-gaza-peacekeeping-troops-at-border-amid-regional-instability-and)

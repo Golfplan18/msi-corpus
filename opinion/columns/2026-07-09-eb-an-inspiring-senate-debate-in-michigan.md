@@ -1,7 +1,8 @@
 ---
 headline: An Inspiring Senate Debate in Michigan
 publish_date: '2026-07-09'
-lede: The next big effort by the populist movement to redeem the Democratic Party is Michigan's Senate primary on Aug.
+lede: The next big effort by the populist movement to redeem the Democratic Party
+  is Michigan's Senate primary on Aug.
 pen_name: editorial-board
 primary_entities: []
 primary_themes: []
@@ -14,7 +15,8 @@ gdelt_event_ids: []
 consensus_floor_version: current
 publication_mindspec_version: editorial-board-2026-05
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -31,7 +33,27 @@ figures_aggregate:
   sources: []
 cross_article_links: []
 draft: false
+image:
+  url: /cartoons/an-inspiring-senate-debate-in-michigan.png
+  alt: 'Editorial cartoon by Hector Rentier: An Inspiring Senate Debate in Michigan'
+  caption: He offered a ribbon called 'fair share.' The machine kept running.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-07-10T20:01:18-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: 'Single-panel, 1:1 aspect ratio, heavy cross-hatch wood-engraving style.
+    Center frame: An archetypal rentier/donor figure (unnamed, representing the ''donor-class
+    grip'' and ''monopolies'' targeted in the '
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-07-09-hector-paired-with-2026-07-09-eb-an-inspiring-senate-debate-in-michigan
 ---
+
+![Editorial cartoon by Hector Rentier: An Inspiring Senate Debate in Michigan](/cartoons/an-inspiring-senate-debate-in-michigan.png)
+*He offered a ribbon called 'fair share.' The machine kept running.*
 
 The next big effort by the populist movement to redeem the Democratic Party is Michigan's Senate primary on Aug. 4, and this week's debate between the two contenders illustrates the stakes. Abdul El-Sayed told viewers that he wants to abolish ICE, tax billionaire wealth at a fair rate ("let's say an 8% tax"), freeze seniors' property taxes, and offer universal childcare, plus government healthcare "without a deductible, a premium or a copay."
 

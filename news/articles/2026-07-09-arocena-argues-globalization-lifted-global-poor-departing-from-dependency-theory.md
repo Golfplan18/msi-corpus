@@ -69,6 +69,8 @@ figures_aggregate:
 cross_article_links: []
 draft: false
 related_stories: []
+analyses:
+- '2026-07-09-arocena-argues-latin-american-dependency-frameworks-fail-to-capture-multipolar-c'
 ---
 ## Arocena argues globalization lifted global poor, departing from dependency theory
 
@@ -105,3 +107,8 @@ Arocena is a Uruguayan writer and researcher on ideological influences in the We
 **Publication date:** 2026-07-09
 **Title:** Latin America needs a new vocabulary for an age of geopolitics
 **URL:** https://www.upi.com/Voices/2026/07/09/latam-perspectives-Latrin-America-new-vocabulary-geopolitics/6941783620730/
+
+---
+
+<!-- analysis-link:2026-07-09-arocena-argues-latin-american-dependency-frameworks-fail-to-capture-multipolar-c -->
+**Going deeper:** [Read MSI's analysis of Latin American geopolitical vocabulary lag →](/analyses/2026-07-09-arocena-argues-latin-american-dependency-frameworks-fail-to-capture-multipolar-c)

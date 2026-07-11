@@ -1,7 +1,10 @@
 ---
-headline: Donald Trump Empties the Election Commission to Clear the Board for the Midterms
+headline: Donald Trump Empties the Election Commission to Clear the Board for the
+  Midterms
 publish_date: '2026-07-09'
-lede: Donald Trump emptied the bipartisan Election Assistance Commission months before the midterm elections to clear the board for unchecked executive control of the ballot machinery.
+lede: Donald Trump emptied the bipartisan Election Assistance Commission months before
+  the midterm elections to clear the board for unchecked executive control of the
+  ballot machinery.
 pen_name: malcolm-little-king
 primary_entities:
 - Donald Trump
@@ -42,7 +45,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -58,16 +62,33 @@ figures_aggregate:
   series_ids: []
   sources: []
 image:
-  url: /articles/2026-07-09-trump-removes-remaining-election-assistance-commission-commissioners.png
-  alt: 'Illustration accompanying article: Trump removes remaining Election Assistance Commission commissioners'
+  url: /cartoons/donald-trump-empties-the-election-commission-to-clear-the.png
+  alt: 'Editorial cartoon by Hector Rentier: Donald Trump Empties the Election Commission
+    to Clear the Board for the Midterms'
+  caption: He fired the referees and called it management.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
   source: ai_generated
+  attached_at: '2026-07-10T04:55:57-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: 'Single panel, 1:1, Register 4 ''Sanctified Appetite'' keystone composition
+    in heavy Nast cross-hatch. Central figure: Donald Trump, fully individuated, face
+    fully rendered with a calm, sincere, serene e'
+  license: https://creativecommons.org/publicdomain/zero/1.0/
 cross_article_links:
 - slug: 2026-07-09-trump-removes-remaining-election-assistance-commission-commissioners
   relation: extends
   strength: 0.2292
   confidence: high
 draft: false
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-07-09-hector-paired-with-2026-07-09-malcolm-little-king-nx-s1-5887690-trump-election-assistance-commission
 ---
+
+![Editorial cartoon by Hector Rentier: Donald Trump Empties the Election Commission to Clear the Board for the Midterms](/cartoons/donald-trump-empties-the-election-commission-to-clear-the.png)
+*He fired the referees and called it management.*
 
 Donald Trump emptied the bipartisan Election Assistance Commission months before the midterm elections to clear the board for unchecked executive control of the ballot machinery. The two Democratic commissioners, Thomas Hicks and Benjamin Hovland, learned their jobs were gone the way most federal employees learn anything in this administration: by email, with Votebeat reporting the dismissal hours later. Both had been confirmed unanimously by the Senate. Christy McCormick, the Republican, had already resigned. The agency created by the Help America Vote Act in 2002 to certify voting systems and guide state and local election administration now has zero commissioners. The White House did not bother to hide the mechanism. A statement from the president's office declared that he "reserves the right to remove individuals that may not be totally aligned with the important task of securing America's elections," citing the Supreme Court's recent *Slaughter* decision — the very ruling that [cemented the executive's power to hollow out independent agencies](/articles/2026-06-29-supreme-court-gives-trump-power-to-fire-agency-leaders/) just weeks ago.
 
