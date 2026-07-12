@@ -70,6 +70,8 @@ figures_aggregate:
 cross_article_links: []
 draft: false
 related_stories: []
+analyses:
+- '2026-01-24-indiana-lawmakers-weigh-extending-syringe-exchange-programs-amid-competing-polic'
 ---
 
 Indiana lawmakers are weighing whether to extend legalized syringe exchange programs that operate in six counties, programs that could otherwise shut down in July 2026. Supporters of the effort say the sites reduce infections and help people access treatment, while opponents argue the exchanges undermine efforts to get users into care.
@@ -550,3 +552,8 @@ The report said the exchanges’ continuation depends on whether Indiana lawmake
 **Access date:** 2026-05-22
 **Title:** Indiana’s needle exchange programs are on the chopping block
 **URL:** https://apnews.com/article/indiana-addiction-and-treatment-medical-devices-morgan-bryant-medication-b9eff85b8dd2c7543335e5d6247ebe15
+
+---
+
+<!-- analysis-link:2026-01-24-indiana-lawmakers-weigh-extending-syringe-exchange-programs-amid-competing-polic -->
+**Going deeper:** [Read MSI's analysis of Indiana syringe exchange legislation →](/analyses/2026-01-24-indiana-lawmakers-weigh-extending-syringe-exchange-programs-amid-competing-polic)

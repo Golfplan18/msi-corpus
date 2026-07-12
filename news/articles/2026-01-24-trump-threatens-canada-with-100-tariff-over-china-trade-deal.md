@@ -71,6 +71,8 @@ image:
   source: ai_generated
 cross_article_links: []
 draft: false
+analyses:
+- '2026-01-24-trump-threatens-canadian-goods-with-total-tariff-over-china-transit'
 ---
 
 ## Summary
@@ -409,3 +411,8 @@ Creative Commons CC0 — This article, the framework specification, and all Main
 **Publication date:** 2026-01-24
 **Title:** Trump threatens Canada with a 100% tariff over its new China trade deal
 **URL:** https://apnews.com/article/trump-canada-carney-china-tariffs-5079e910df071b45d2b16949efb8f11a
+
+---
+
+<!-- analysis-link:2026-01-24-trump-threatens-canadian-goods-with-total-tariff-over-china-transit -->
+**Going deeper:** [Read MSI's analysis of US-Canada tariff dispute and geopolitical alignment →](/analyses/2026-01-24-trump-threatens-canadian-goods-with-total-tariff-over-china-transit)

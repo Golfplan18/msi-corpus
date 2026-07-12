@@ -74,6 +74,8 @@ image:
   disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
   ai_model: "openrouter:openai/gpt-5.4-image-2"
   ai_prompt: hand-drawn, ink on cream paper, transparent background, linework dominant, no solid fill, varied pen technique, single accent stroke in sepia | scene-based composition, multiple figures, atmosphere ov
+analyses:
+- '2026-01-24-haitian-transitional-council-ousts-prime-minister-ahead-of-scheduled-dissolution'
 ---
 
 Leblanc did not provide detailed reasoning for the council's reversal, saying only that the body had decided to "find the way to fully restore security and stability and enter a cycle of development, correct the mistakes of the past and look ahead."
@@ -281,3 +283,8 @@ The council was initially created as an interim measure to guide the country tow
 **Access date:** 2026-01-23
 **Title:** Haiti's transitional council votes to oust Prime Minister Alix Didier Fils-Aimé
 **URL:** https://apnews.com/article/haiti-transitional-council-ousts-prime-minister-filsaime-5ed3d85bdf798b13171ce894ebeca66a
+
+---
+
+<!-- analysis-link:2026-01-24-haitian-transitional-council-ousts-prime-minister-ahead-of-scheduled-dissolution -->
+**Going deeper:** [Read MSI's analysis of Haiti transitional council prime ministerial dismissal →](/analyses/2026-01-24-haitian-transitional-council-ousts-prime-minister-ahead-of-scheduled-dissolution)

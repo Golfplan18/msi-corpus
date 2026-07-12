@@ -40,7 +40,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -61,7 +62,28 @@ cross_article_links:
   strength: 0.3019
   confidence: high
 draft: false
+image:
+  url: /cartoons/alberta-separatists-sell-rural-rage-to-the-oil.png
+  alt: 'Editorial cartoon by Hector Rentier: Alberta Separatists Sell Rural Rage to
+    the Oil Multinationals'
+  caption: The pipeline was already approved. The fight was for the credit.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-07-10T23:06:48-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: A 1:1 single-panel scene in heavy Nast cross-hatch. A long conference
+    table dominates the composition. At the head of the table, a calm, fully individuated
+    corporate executive in fine dress sits seren
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-07-11-hector-paired-with-2026-07-11-mark-paulson-news-articles-c3eykgln5eeo
 ---
+
+![Editorial cartoon by Hector Rentier: Alberta Separatists Sell Rural Rage to the Oil Multinationals](/cartoons/alberta-separatists-sell-rural-rage-to-the-oil.png)
+*The pipeline was already approved. The fight was for the credit.*
 
 Alberta separatists are selling out rural Alberta to defend the oil multinationals.
 

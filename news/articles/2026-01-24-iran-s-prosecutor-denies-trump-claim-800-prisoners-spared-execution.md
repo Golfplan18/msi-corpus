@@ -69,6 +69,8 @@ figures_aggregate:
 cross_article_links: []
 draft: false
 related_stories: []
+analyses:
+- '2026-01-24-iranian-prosecutor-rejects-u-s-claim-that-eight-hundred-detained-protesters-esca'
 ---
 
 Iran’s top prosecutor on Friday rejected U.S. President Donald Trump’s repeated claim that Iran halted executions of 800 detained protesters, saying the allegation was “completely false.”
@@ -424,3 +426,8 @@ Trump told reporters aboard Air Force One on Thursday that the ships were being 
 **Access date:** 2026-05-22
 **Title:** Iranian prosecutor denies Trump claim 800 prisoners spared execution
 **URL:** https://apnews.com/article/iran-protests-crackdown-death-toll-acb1968a973f19be217ea28b4a7adb0b
+
+---
+
+<!-- analysis-link:2026-01-24-iranian-prosecutor-rejects-u-s-claim-that-eight-hundred-detained-protesters-esca -->
+**Going deeper:** [Read MSI's analysis of the disputed execution reprieve claims →](/analyses/2026-01-24-iranian-prosecutor-rejects-u-s-claim-that-eight-hundred-detained-protesters-esca)

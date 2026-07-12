@@ -2,8 +2,16 @@
 headline: New York Times countersues EEOC, citing retaliation for coverage
 secondary_headline: Times says EEOC lawsuit followed critical article on agency
 publish_date: '2026-07-11'
-lede: The New York Times countersued the Equal Employment Opportunity Commission on Friday, accusing the agency of unconstitutionally retaliating against the newspaper for its coverage of the Trump administration by filing a discrimination lawsuit in May. The Times alleged in a Manhattan federal court filing that the EEOC used its authority in bad faith because of the administration's disdain for the Times' reporting.
-nut_graf: The Times alleged in its countersuit that the EEOC's May lawsuit violated the First and Fifth Amendments, arguing the agency retaliated against the newspaper for its journalism rather than acting on legitimate enforcement grounds. The case is pending in Manhattan federal court.
+lede: The New York Times countersued the Equal Employment Opportunity Commission on
+  Friday, accusing the agency of unconstitutionally retaliating against the newspaper
+  for its coverage of the Trump administration by filing a discrimination lawsuit
+  in May. The Times alleged in a Manhattan federal court filing that the EEOC used
+  its authority in bad faith because of the administration's disdain for the Times'
+  reporting.
+nut_graf: The Times alleged in its countersuit that the EEOC's May lawsuit violated
+  the First and Fifth Amendments, arguing the agency retaliated against the newspaper
+  for its journalism rather than acting on legitimate enforcement grounds. The case
+  is pending in Manhattan federal court.
 primary_entities:
 - New York Times
 - Equal Employment Opportunity Commission
@@ -36,7 +44,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -118,104 +127,38 @@ related_stories:
   headline: New York Times countersues EEOC, alleging retaliation for coverage
   publish_date: '2026-07-11'
   relation: related
-  strength: 0.9653
-- slug: 2026-07-09-news-organizations-ask-court-to-sanction-openai-for-withholding-evidence
-  headline: News organizations ask court to sanction OpenAI for withholding evidence
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.6081
-- slug: 2026-07-06-federal-lawsuit-challenges-hsi-warning-notice-sent-to-new-york-man-over-january-
-  headline: Federal lawsuit challenges HSI warning notice sent to New York man over January email to ICE official
-  publish_date: '2026-07-06'
-  relation: related
-  strength: 0.5966
+  strength: 0.965
 - slug: 2026-05-06-eeoc-sues-new-york-times-over-alleged-promotion-bias
   headline: EEOC sues New York Times over alleged promotion bias
   publish_date: '2026-05-06'
   relation: related
-  strength: 0.8328
-- slug: 2026-06-01-eeoc-proposes-ending-workforce-demographic-tracking-and-rescinding-affirmative-a
-  headline: EEOC proposes ending workforce demographic tracking and rescinding affirmative action guidelines
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.6445
+  strength: 0.8338
 - slug: 2026-05-19-new-york-times-sues-pentagon-a-second-time-over-journalist-escort-rule
   headline: New York Times sues Pentagon a second time over journalist escort rule
   publish_date: '2026-05-19'
   relation: related
-  strength: 0.6714
+  strength: 0.6741
 - slug: 2026-05-18-new-york-times-sues-pentagon-again-over-journalist-escort-policy
   headline: New York Times sues Pentagon again over journalist escort policy
   publish_date: '2026-05-18'
   relation: related
-  strength: 0.6693
-- slug: 2026-05-20-eeoc-weighs-ending-eeo-1-demographic-data-collection-used-to-spot-bias
-  headline: EEOC weighs ending EEO-1 demographic data collection used to spot bias
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.6464
-- slug: 2026-05-19-new-york-times-sues-pentagon-again-over-escort-rule-for-journalists
-  headline: New York Times sues Pentagon again over escort rule for journalists
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6444
+  strength: 0.6716
 - slug: 2026-02-20-eeoc-sues-coca-cola-bottler-over-excluding-men-from-women-s-forum
   headline: EEOC sues Coca-Cola bottler over excluding men from women’s forum
   publish_date: '2026-02-20'
   relation: related
-  strength: 0.6773
+  strength: 0.6783
 - slug: 2026-02-19-eeoc-sues-coca-cola-bottler-alleging-men-barred-from-women-s-forum
   headline: EEOC sues Coca-Cola bottler, alleging men barred from women’s forum
   publish_date: '2026-02-19'
   relation: related
-  strength: 0.6732
+  strength: 0.6744
 - slug: 2026-02-06-nike-faces-eeoc-probe-over-alleged-dei-related-bias-against-white-workers
   headline: Nike faces EEOC probe over alleged “DEI-related” bias against white workers
   publish_date: '2026-02-06'
   relation: related
-  strength: 0.678
-- slug: 2026-03-31-new-york-times-says-pentagon-flouted-judge-s-order-on-reporter-access
-  headline: New York Times says Pentagon flouted judge’s order on reporter access
-  publish_date: '2026-03-31'
-  relation: related
-  strength: 0.6181
-- slug: 2026-04-10-judge-says-pentagon-violated-order-restoring-reporters-access
-  headline: Judge says Pentagon violated order restoring reporters’ access
-  publish_date: '2026-04-10'
-  relation: related
-  strength: 0.6008
-- slug: 2026-04-01-judge-orders-penn-to-provide-records-in-eeoc-antisemitism-probe
-  headline: Judge orders Penn to provide records in EEOC antisemitism probe
-  publish_date: '2026-04-01'
-  relation: related
-  strength: 0.6089
-- slug: 2026-03-14-newsguard-sues-ftc-over-investigation-into-news-rating-service
-  headline: NewsGuard sues FTC over investigation into news rating service
-  publish_date: '2026-03-14'
-  relation: related
-  strength: 0.6261
-- slug: 2026-02-28-eeoc-rejects-transgender-army-worker-s-bid-to-use-women-s-bathroom
-  headline: EEOC rejects transgender Army worker’s bid to use women’s bathroom
-  publish_date: '2026-02-28'
-  relation: related
-  strength: 0.6259
-- slug: 2026-03-21-judge-blocks-pentagon-policy-limiting-reporters-access-to-news-briefings
-  headline: Judge blocks Pentagon policy limiting reporters’ access to news briefings
-  publish_date: '2026-03-21'
-  relation: related
-  strength: 0.6039
-- slug: 2026-01-22-workplace-rights-agency-scraps-anti-harassment-guidance-citing-trump-s-orders
-  headline: Workplace rights agency scraps anti-harassment guidance, citing Trump's orders
-  publish_date: '2026-01-22'
-  relation: related
-  strength: 0.6403
-- slug: 2026-03-13-17-state-attorneys-general-sue-trump-administration-over-race-data-rule
-  headline: 17 state attorneys general sue Trump administration over race data rule
-  publish_date: '2026-03-13'
-  relation: related
-  strength: 0.6064
+  strength: 0.6786
 ---
-
 ## New York Times countersues EEOC, citing retaliation for coverage
 
 **Subtype:** fact

@@ -115,6 +115,8 @@ related_stories:
   publish_date: '2026-06-09'
   relation: related
   strength: 0.7379
+analyses:
+- '2026-07-10-traders-price-contained-hostilities-as-airline-fuel-costs-compress-margins'
 ---
 ## Oil, steady on U.S.-Iran talks, up 0.1% at $72.12
 
@@ -147,3 +149,8 @@ In early Asian trade, oil fell on expectations that U.S.-Iran tensions may be co
 **Publication date:** 2026-07-10
 **Title:** Energy & Utilities Roundup: Market Talk
 **URL:** https://www.wsj.com/business/energy-utilities-roundup-market-talk-a5207043
+
+---
+
+<!-- analysis-link:2026-07-10-traders-price-contained-hostilities-as-airline-fuel-costs-compress-margins -->
+**Going deeper:** [Read MSI's analysis of energy price containment and margin transmission →](/analyses/2026-07-10-traders-price-contained-hostilities-as-airline-fuel-costs-compress-margins)

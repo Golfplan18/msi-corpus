@@ -65,6 +65,8 @@ figures_aggregate:
   sources: []
 cross_article_links: []
 draft: false
+analyses:
+- '2026-01-24-trump-administration-shifts-defense-strategy-toward-allied-burden-sharing-and-in'
 ---
 
 ## Summary
@@ -223,3 +225,8 @@ This represents a departure from the post-Cold War consensus that American globa
 **Publication date:** 2026-01-24
 **Title:** How the old and new US defense strategies differ on traditional priorities
 **URL:** https://apnews.com/article/national-defense-strategies-2022-2026-eeac59bd5748de279c20b6050b02d28a
+
+---
+
+<!-- analysis-link:2026-01-24-trump-administration-shifts-defense-strategy-toward-allied-burden-sharing-and-in -->
+**Going deeper:** [Read MSI's analysis of the 2026 National Defense Strategy →](/analyses/2026-01-24-trump-administration-shifts-defense-strategy-toward-allied-burden-sharing-and-in)

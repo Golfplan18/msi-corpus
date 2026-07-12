@@ -14,7 +14,8 @@ gdelt_event_ids: []
 consensus_floor_version: current
 publication_mindspec_version: thomas-reynolds-2026-06
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -31,7 +32,28 @@ figures_aggregate:
   sources: []
 cross_article_links: []
 draft: false
+image:
+  url: /cartoons/the-roberts-court-bolted-the-courthouse-shut-on-falun-gong.png
+  alt: 'Editorial cartoon by Hector Rentier: The Roberts Court Bolted the Courthouse
+    Shut on Falun Gong to Shield Cisco'
+  caption: Restraint, applied to the wrong plaintiffs.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-07-11T08:32:47-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: A grand federal courthouse in heavy Nast wood-engraving cross-hatch occupies
+    the full single-panel 1:1 canvas. Classical pediment and columns frame two entrance
+    doors at center. A banner scroll across
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-07-10-hector-paired-with-2026-07-10-thomas-the-roberts-court-bolted-the-courthouse-shut-on-falun-gong-to-shield-cis
 ---
+
+![Editorial cartoon by Hector Rentier: The Roberts Court Bolted the Courthouse Shut on Falun Gong to Shield Cisco](/cartoons/the-roberts-court-bolted-the-courthouse-shut-on-falun-gong.png)
+*Restraint, applied to the wrong plaintiffs.*
 
 The Supreme Court shut Falun Gong torture victims out of federal court. It did so to protect Cisco from accountability for helping China surveil them.
 

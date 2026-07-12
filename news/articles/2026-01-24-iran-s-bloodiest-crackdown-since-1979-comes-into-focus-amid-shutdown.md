@@ -73,6 +73,8 @@ image:
   source: ai_generated
 cross_article_links: []
 draft: false
+analyses:
+- '2026-01-24-iranian-authorities-deploy-maximum-lethal-force-to-suppress-protests-as-temporal'
 ---
 
 ## Summary
@@ -294,3 +296,8 @@ Elaheh Mohammadi, a journalist at the pro-reform newspaper Ham Mihan in Tehran, 
 **Publication date:** 2026-01-24
 **Title:** Scale of Iran protests and crackdown come into focus
 **URL:** https://apnews.com/article/iran-protests-nationwide-scale-us-trump-0eecd9962240600150530261dfab03f2
+
+---
+
+<!-- analysis-link:2026-01-24-iranian-authorities-deploy-maximum-lethal-force-to-suppress-protests-as-temporal -->
+**Going deeper:** [Read MSI's analysis of Iran protest suppression and structural fragility →](/analyses/2026-01-24-iranian-authorities-deploy-maximum-lethal-force-to-suppress-protests-as-temporal)

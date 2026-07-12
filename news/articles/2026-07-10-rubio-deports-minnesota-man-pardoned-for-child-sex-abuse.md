@@ -120,6 +120,15 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories: []
+image:
+  url: /articles/2026-07-10-rubio-deports-minnesota-man-pardoned-for-child-sex-abuse.png
+  alt: "Illustration accompanying article: Rubio deports Minnesota man pardoned for child sex abuse"
+  credit: Main Street Independent (algorithmic)
+  source: ai_generated
+  license: "https://creativecommons.org/publicdomain/zero/1.0/"
+  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  ai_model: "openrouter:openai/gpt-5.4-image-2"
+  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
 ---
 ## Rubio deports Minnesota man pardoned for child sex abuse
 

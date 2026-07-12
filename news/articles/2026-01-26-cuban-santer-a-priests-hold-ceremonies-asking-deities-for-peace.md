@@ -69,6 +69,8 @@ figures_aggregate:
   sources: []
 cross_article_links: []
 draft: false
+analyses:
+- '2026-01-26-santer-a-priests-conduct-peace-ceremonies-amid-escalating-united-states-geopolit'
 ---
 
 ## Summary
@@ -273,3 +275,8 @@ The ceremonies reflected the deep syncretism of Santería itself—a faith born 
 **Publication date:** 2026-01-26
 **Title:** Cuba's Santeros offer gifts and pray for peace as tensions rise with US
 **URL:** https://apnews.com/article/cuba-santeria-peace-deities-us-venezuela-0919aedc8a60943708057ad3ce4d3970
+
+---
+
+<!-- analysis-link:2026-01-26-santer-a-priests-conduct-peace-ceremonies-amid-escalating-united-states-geopolit -->
+**Going deeper:** [Read MSI's analysis of Cuban Santería peace ceremonies →](/analyses/2026-01-26-santer-a-priests-conduct-peace-ceremonies-amid-escalating-united-states-geopolit)

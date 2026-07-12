@@ -69,6 +69,8 @@ figures_aggregate:
   sources: []
 cross_article_links: []
 draft: false
+analyses:
+- '2026-01-24-federal-removal-of-988-lgbtq-option-shifts-crisis-calls-to-texas-counselors'
 ---
 
 ## The removal
@@ -243,3 +245,8 @@ The idea of a state telecommunications fee was quickly rejected at the Capitol, 
 **Access date:** 2026-05-21
 **Title:** Removal of LGBTQ+ option from 988 hotline is straining overburdened Texas crisis centers
 **URL:** https://apnews.com/article/donald-trump-donald-trump-es-lgbtq-julia-hewitt-texas-5fbabd97233003bf2d1afff69bbf44ce
+
+---
+
+<!-- analysis-link:2026-01-24-federal-removal-of-988-lgbtq-option-shifts-crisis-calls-to-texas-counselors -->
+**Going deeper:** [Read MSI's analysis of 988 hotline LGBTQ service removal →](/analyses/2026-01-24-federal-removal-of-988-lgbtq-option-shifts-crisis-calls-to-texas-counselors)

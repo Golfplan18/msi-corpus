@@ -1,7 +1,8 @@
 ---
 headline: Trump Calls Opponents Communists To Hide Corporate Welfare And Foreign Wars
 publish_date: '2026-07-10'
-lede: The president walked off the NATO stage in Ankara and told the press that communism is forming in America.
+lede: The president walked off the NATO stage in Ankara and told the press that communism
+  is forming in America.
 pen_name: james-big-jim-zebedee
 primary_entities:
 - Donald Trump
@@ -35,7 +36,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -56,7 +58,28 @@ cross_article_links:
   strength: 0.1846
   confidence: high
 draft: false
+image:
+  url: /cartoons/trump-calls-opponents-communists-to-hide-corporate-welfare.png
+  alt: 'Editorial cartoon by Hector Rentier: Trump Calls Opponents Communists To Hide
+    Corporate Welfare And Foreign Wars'
+  caption: He called them communists. The steel and the war were his.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-07-11T00:47:49-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: 'Single-panel 1:1 composition, heavy Nast cross-hatch. Center: a fully
+    individuated, recognizable Trump at a presidential press podium, three-quarter
+    view, face fully rendered and legible, showing the '
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-07-10-hector-paired-with-2026-07-10-james-big-jim-zebedee-nx-s1-5876512-trump-communist-messaging-economy-de
 ---
+
+![Editorial cartoon by Hector Rentier: Trump Calls Opponents Communists To Hide Corporate Welfare And Foreign Wars](/cartoons/trump-calls-opponents-communists-to-hide-corporate-welfare.png)
+*He called them communists. The steel and the war were his.*
 
 The president walked off the NATO stage in Ankara and told the press that communism is forming in America. He said he would be the greatest communist in history, right up there with Lenin. That is the third major iteration of the same line in three weeks. The religion-themed version came first at the Faith & Freedom Coalition. Then the Mount Rushmore speech cast the communist menace as the enemy of July 4th. Now the global summit stage. When the message is landing, you don't keep saying it louder. You say it once, you let it do its work, and you move on. When the message isn't landing, you repeat it because you have nothing else. The repetition is the tell that the substitution has stopped substituting.
 

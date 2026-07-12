@@ -92,6 +92,8 @@ related_stories:
   publish_date: '2026-05-05'
   relation: related
   strength: 0.7291
+analyses:
+- '2026-07-11-indigenous-legal-challenges-and-spatial-campaigning-reshape-alberta-separatist-r'
 ---
 ## Alberta independence referendum battle takes shape at Calgary Stampede
 
@@ -160,3 +162,8 @@ For Lukaszuk, "loss is not an option. We will do everything we possibly can to w
 **Publication date:** 2026-07-11
 **Title:** At Canada's biggest rodeo, the starting gun is fired in the fight over Alberta separation
 **URL:** https://www.bbc.co.uk/news/articles/c3eykgln5eeo
+
+---
+
+<!-- analysis-link:2026-07-11-indigenous-legal-challenges-and-spatial-campaigning-reshape-alberta-separatist-r -->
+**Going deeper:** [Read MSI's analysis of the Alberta separatist referendum campaign →](/analyses/2026-07-11-indigenous-legal-challenges-and-spatial-campaigning-reshape-alberta-separatist-r)

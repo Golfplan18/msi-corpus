@@ -74,6 +74,8 @@ figures_aggregate:
 cross_article_links: []
 draft: false
 related_stories: []
+analyses:
+- '2026-01-24-carney-trump-exchange-ties-board-of-peace-withdrawal-to-usmca-review-leverage'
 ---
 
 Canadian Prime Minister Mark Carney on Thursday responded to U.S. President Donald Trump’s Davos remarks that “Canada lives because of the United States,” saying Canada “thrives because we are Canadian.”
@@ -462,3 +464,8 @@ Newsom said Carney came back from China with a deal to introduce low-cost, high-
 **Access date:** 2026-05-22
 **Title:** Canadian Prime Minister Mark Carney responds to Trump's Davos speech
 **URL:** https://apnews.com/article/carney-canada-davos-trump-eee151f749f35c8b30a9ff4a9525d0be
+
+---
+
+<!-- analysis-link:2026-01-24-carney-trump-exchange-ties-board-of-peace-withdrawal-to-usmca-review-leverage -->
+**Going deeper:** [Read MSI's analysis of the Carney-Trump Board of Peace dispute →](/analyses/2026-01-24-carney-trump-exchange-ties-board-of-peace-withdrawal-to-usmca-review-leverage)
