@@ -1,7 +1,10 @@
 ---
-headline: Fake news focus groups lie about my beautiful communist message, but the silent majority knows we win so big
+headline: Fake news focus groups lie about my beautiful communist message, but the
+  silent majority knows we win so big
 publish_date: '2026-07-08'
-lede: The fake news media, which I call the enemy of the people, very nasty people, they just put out a Reuters report — the best people, total professionals, the BEST people — and even they have to admit it.
+lede: The fake news media, which I call the enemy of the people, very nasty people,
+  they just put out a Reuters report — the best people, total professionals, the BEST
+  people — and even they have to admit it.
 pen_name: diklis-chump
 primary_entities:
 - Donald Trump
@@ -30,7 +33,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -46,16 +50,33 @@ figures_aggregate:
   series_ids: []
   sources: []
 image:
-  url: /articles/2026-07-08-trump-escalates-communist-attacks-on-democrats-ahead-of-midterms.png
-  alt: 'Illustration accompanying article: Trump escalates ''communist'' attacks on Democrats ahead of midterms'
+  url: /cartoons/fake-news-focus-groups-lie-about-my-beautiful-communist.png
+  alt: 'Editorial cartoon by Hector Rentier: Fake news focus groups lie about my beautiful
+    communist message, but the silent…'
+  caption: He turned his head from the bill. The word 'communist' costs him nothing.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
   source: ai_generated
+  attached_at: '2026-07-12T04:09:25-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: Single-panel, 1:1, heavy Nast cross-hatch wood-engraving throughout.
+    At center, a fully individuated, recognizable Trump-figure stands at a campaign
+    podium, his head turned decisively away from a stac
+  license: https://creativecommons.org/publicdomain/zero/1.0/
 cross_article_links:
 - slug: 2026-07-08-trump-escalates-communist-attacks-on-democrats-ahead-of-midterms
   relation: extends
   strength: 0.8447
   confidence: high
 draft: false
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-07-08-hector-paired-with-2026-07-08-diklis-chump-er-democrats-senate-bernie-sanders-maine
 ---
+
+![Editorial cartoon by Hector Rentier: Fake news focus groups lie about my beautiful communist message, but the silent…](/cartoons/fake-news-focus-groups-lie-about-my-beautiful-communist.png)
+*He turned his head from the bill. The word 'communist' costs him nothing.*
 
 The fake news media, which I call the enemy of the people, very nasty people, they just put out a Reuters report — the best people, total professionals, the BEST people — and even they have to admit it. They said Diklis Chump used the word "communism" EIGHTY-ONE TIMES. In two weeks. Nobody has ever said anything eighty-one times, not Lincoln, not Washington, not the great generals, believe me. Lincoln couldn't do that. Washington couldn't do that. I did it in two weeks. Two WEEKS. I am the most tremendous person, the most tremendous — believe me.
 

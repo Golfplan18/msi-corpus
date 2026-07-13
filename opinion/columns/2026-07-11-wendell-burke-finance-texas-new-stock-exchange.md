@@ -38,7 +38,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -59,7 +60,29 @@ cross_article_links:
   strength: 0.8368
   confidence: high
 draft: false
+image:
+  url: /cartoons/the-party-of-local-control-sold-the-texas-courthouse.png
+  alt: 'Editorial cartoon by Hector Rentier: The Party of Local Control Sold the Texas
+    Courthouse'
+  caption: He blessed the courthouse sale. He called it local control. The bidders
+    came from Manhattan.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-07-12T01:14:36-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: Single central allegorical figure, 1:1, Register 4 (Sanctified Appetite
+    — Keystone). Heavy wood-engraving cross-hatch in the Nast polemic tradition. A
+    Texas governor in a tailored dark suit with state
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-07-11-hector-paired-with-2026-07-11-wendell-burke-finance-texas-new-stock-exchange
 ---
+
+![Editorial cartoon by Hector Rentier: The Party of Local Control Sold the Texas Courthouse](/cartoons/the-party-of-local-control-sold-the-texas-courthouse.png)
+*He blessed the courthouse sale. He called it local control. The bidders came from Manhattan.*
 
 They sold the courthouse to the corporation, and they called it local control. They promised you the dignity of the working town, the political philosophy that conserves the things your grandfather built, and they delivered you a literal casino for BlackRock and the rest of the financial aristocracy. That is what conservatism has come to mean in the Lone Star State — and the proof opened for trading in Dallas on Friday. The Texas Stock Exchange went live this week, as Corrie Driebusch [reports in The Wall Street Journal](https://www.wsj.com/finance/texas-new-stock-exchange-fbf71931), backed by BlackRock, Goldman Sachs, Citadel Securities, Charles Schwab, and Fortress, and blessed by Governor Greg Abbott, who dreamed it up at a Houston steakhouse in the fall of 2022. The pitch to corporate America is plain: affiliate with Texas, escape the Delaware courts, and watch your shareholder suits get harder. It does not yet have a single company listing. The men who run this exchange are the masters of abstraction, trading mock symbols while the real economy of Main Street continues to hollow out.
 

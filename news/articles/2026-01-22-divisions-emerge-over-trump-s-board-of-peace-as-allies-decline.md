@@ -192,6 +192,8 @@ related_stories:
   publish_date: '2026-01-20'
   relation: continues
   strength: 0.8326
+analyses:
+- '2026-01-22-european-governments-decline-trump-board-of-peace-amid-united-nations-mandate-fr'
 ---
 ## Summary
 
@@ -220,3 +222,8 @@ The AP report noted that Netanyahu’s agreement could put him in conflict with 
 
 ___
 Magdy reported from Cairo. Associated Press writers Matthew Lee and Michelle L. Price in Washington, Josh Boak in Davos, Switzerland, Jovana Gec in Ljubljana, Slovenia, and Catherine Gaschka in Paris contributed to this report.
+
+---
+
+<!-- analysis-link:2026-01-22-european-governments-decline-trump-board-of-peace-amid-united-nations-mandate-fr -->
+**Going deeper:** [Read MSI's analysis of the Board of Peace launch →](/analyses/2026-01-22-european-governments-decline-trump-board-of-peace-amid-united-nations-mandate-fr)

@@ -68,6 +68,8 @@ figures_aggregate:
   sources: []
 cross_article_links: []
 draft: false
+analyses:
+- '2026-01-23-health-care-fraud-targeting-native-americans-exploiting-federal-verification-gap'
 ---
 
 ## Summary
@@ -333,3 +335,8 @@ Some insurance companies may respond by limiting coverage for out-of-state servi
 **Publication date:** 2026-01-23
 **Title:** At least 80 Native Americans in Montana victimized in health care scheme
 **URL:** https://apnews.com/article/james-brown-personal-insurance-montana-health-care-industry-government-programs-0280c7d08f9c374f0f83a8faf5ed46c0
+
+---
+
+<!-- analysis-link:2026-01-23-health-care-fraud-targeting-native-americans-exploiting-federal-verification-gap -->
+**Going deeper:** [Read MSI's analysis of health care fraud targeting Native Americans →](/analyses/2026-01-23-health-care-fraud-targeting-native-americans-exploiting-federal-verification-gap)

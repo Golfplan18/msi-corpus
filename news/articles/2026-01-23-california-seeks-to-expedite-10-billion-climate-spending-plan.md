@@ -65,6 +65,8 @@ figures_aggregate:
   sources: []
 cross_article_links: []
 draft: false
+analyses:
+- '2026-01-23-california-legislation-targets-administrative-delays-to-accelerate-voter-approve'
 ---
 
 ## Summary
@@ -361,3 +363,8 @@ As many as nine projects could receive expedited funding for the Tijuana River, 
 **Publication date:** 2026-01-23
 **Title:** How California lawmakers are trying to speed up spending on voter-approved climate projects
 **URL:** https://apnews.com/article/california-santa-rosa-santa-barbara-general-news-78e28a9050c1725b32fff0a9e9a63a18
+
+---
+
+<!-- analysis-link:2026-01-23-california-legislation-targets-administrative-delays-to-accelerate-voter-approve -->
+**Going deeper:** [Read MSI's analysis of California climate bond acceleration legislation →](/analyses/2026-01-23-california-legislation-targets-administrative-delays-to-accelerate-voter-approve)

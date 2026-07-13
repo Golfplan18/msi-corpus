@@ -70,6 +70,8 @@ image:
   source: ai_generated
 cross_article_links: []
 draft: false
+analyses:
+- '2026-01-23-winter-storm-system-threatens-half-the-continental-united-states-with-ice-and-ex'
 ---
 
 ## Summary
@@ -294,3 +296,8 @@ In Detroit, a man who had been sleeping in his car sought shelter when he saw th
 **Publication date:** 2026-01-23
 **Title:** Snow, ice, cold threaten over half of US in massive winter storm
 **URL:** https://apnews.com/article/winter-storm-snow-ice-texas-oklahoma-e970ee13ffaaf870f51dfa1540607604
+
+---
+
+<!-- analysis-link:2026-01-23-winter-storm-system-threatens-half-the-continental-united-states-with-ice-and-ex -->
+**Going deeper:** [Read MSI's analysis of winter storm infrastructure and response cascades →](/analyses/2026-01-23-winter-storm-system-threatens-half-the-continental-united-states-with-ice-and-ex)

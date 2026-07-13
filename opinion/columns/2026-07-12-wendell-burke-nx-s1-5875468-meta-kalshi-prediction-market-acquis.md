@@ -35,7 +35,28 @@ generation_timestamp: '2026-07-01T08:54:50Z'
 source_cluster_id: cluster_npr_2026-06-30_nx-s1-5875468-meta-kalshi-prediction-market-acquis
 related:
 - slug: 2026-06-30-zuckerberg-meets-with-kalshi-ceo-about-acquisition-sources-say
+image:
+  url: /cartoons/the-casino-in-the-pocket-is-the-final-enclosure.png
+  alt: 'Editorial cartoon by Hector Rentier: The Casino in the Pocket Is the Final
+    Enclosure'
+  caption: The wisdom of the crowd. The crowd had one throat.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-07-12T00:36:55-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: A 1:1 single panel in heavy cross-hatch wood-engraving in the tradition
+    of Nast and Daumier. At center, a fully individuated, recognizably human Mark
+    Zuckerberg kneels in apparent prayer at an altar s
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-07-12-hector-paired-with-2026-07-12-wendell-burke-nx-s1-5875468-meta-kalshi-prediction-market-acquis
 ---
+
+![Editorial cartoon by Hector Rentier: The Casino in the Pocket Is the Final Enclosure](/cartoons/the-casino-in-the-pocket-is-the-final-enclosure.png)
+*The wisdom of the crowd. The crowd had one throat.*
 
 They tried to buy the casino outright; when that failed, they decided to build a fake-money one in your child's pocket and call it a civic exercise. The reporting on Mark Zuckerberg's failed bid to acquire Kalshi, the leading prediction-market firm, before his [pivot to a Meta AI-powered app called Arena](/articles/2026-06-24-meta-plans-ai-powered-prediction-market-app-internal-documents-show/), reveals the logical endpoint of an economy that has run out of tangible things to strip-mine and has moved on to extracting the civic life of the citizen. The talks, according to [Bobby Allyn at NPR](https://www.npr.org/2026/06/30/nx-s1-5875468/meta-kalshi-prediction-market-acquisition-talks), collapsed last year for reasons still in dispute — some say Tarek Mansour, Kalshi's co-founder, would not move; others say Meta flinched at the legal and ethical mess. Whatever the cause, the instinct is the same. The Federal Trade Commission alleged in court last year that Meta runs a "buy or bury" strategy: acquire the rival, or clone it until it dies. The Threads partnership struck in March, embedding Kalshi odds directly into the social network, was the foothold. The Arena app is the enclosure — three billion users, a market cap north of a trillion dollars, a record of failing at the metaverse, failing at crypto, failing at every shiny object they clutch, and now they want your perception of reality as the last available yield.
 

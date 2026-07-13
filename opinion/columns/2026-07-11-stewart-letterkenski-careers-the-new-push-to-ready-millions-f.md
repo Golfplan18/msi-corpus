@@ -1,7 +1,8 @@
 ---
-headline: "The companies that will fire you are designing your retraining"
+headline: The companies that will fire you are designing your retraining
 publish_date: '2026-07-11'
-lede: "Amazon and Microsoft are designing the safety net for the workers their AI will fire."
+lede: Amazon and Microsoft are designing the safety net for the workers their AI will
+  fire.
 pen_name: stewart-letterkenski
 primary_entities: []
 primary_themes: []
@@ -12,7 +13,28 @@ framework_version: 1.1.0
 generation_timestamp: '2026-06-27T21:32:20Z'
 source_cluster_id: cluster_wsj_2026-06-25_careers-the-new-push-to-ready-millions-f
 related: []
+image:
+  url: /cartoons/the-companies-that-will-fire-you-are-designing-your.png
+  alt: 'Editorial cartoon by Hector Rentier: The companies that will fire you are
+    designing your retraining'
+  caption: They wrote the layoff memo. They wrote the retraining program.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-07-11T21:49:40-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5-image
+  ai_prompt: 'Grouped allegorical scene, 1:1, heavy cross-hatch wood-engraving. Center
+    frame: a composed, fully-individuated business figure in dark suit stands at a
+    podium labeled WORKING LAB, cutting a wide cerem'
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-07-11-hector-paired-with-2026-07-11-stewart-letterkenski-careers-the-new-push-to-ready-millions-f
 ---
+
+![Editorial cartoon by Hector Rentier: The companies that will fire you are designing your retraining](/cartoons/the-companies-that-will-fire-you-are-designing-your.png)
+*They wrote the layoff memo. They wrote the retraining program.*
 
 Amazon and Microsoft are designing the safety net for the workers their AI will fire.
 

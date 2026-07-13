@@ -92,6 +92,8 @@ related_stories:
   publish_date: '2026-05-12'
   relation: continues
   strength: 0.8085
+analyses:
+- '2026-01-22-white-house-describes-gaza-board-as-global-mediator-prompting-security-council-s'
 ---
 ## Trump’s plan to create a ‘Board of Peace’ prompts renewed U.N. debate
 
@@ -474,3 +476,8 @@ Separately, the AP reported that U.N. Secretary-General António Guterres, asked
 **Access date:** 2026-05-22
 **Title:** Trump's Board of Peace poses latest US challenge to the UN
 **URL:** https://apnews.com/article/board-of-peace-trump-united-nations-security-council-59678c95239b416164d291715f40ac8e
+
+---
+
+<!-- analysis-link:2026-01-22-white-house-describes-gaza-board-as-global-mediator-prompting-security-council-s -->
+**Going deeper:** [Read MSI's analysis of Board of Peace mandate dispute →](/analyses/2026-01-22-white-house-describes-gaza-board-as-global-mediator-prompting-security-council-s)

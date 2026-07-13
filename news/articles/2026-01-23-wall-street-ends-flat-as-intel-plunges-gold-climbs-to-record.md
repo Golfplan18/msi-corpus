@@ -78,6 +78,8 @@ image:
   source: ai_generated
 cross_article_links: []
 draft: false
+analyses:
+- '2026-01-23-intel-guidance-shortfall-weighs-on-equities-as-gold-records-signal-underlying-ma'
 ---
 
 ## Summary
@@ -500,3 +502,8 @@ Global markets have calmed after a quick surge in long-term government bond yiel
 **Publication date:** 2026-01-23
 **Title:** Wall Street drifts as Intel tumbles and gold's price rises to another record
 **URL:** https://apnews.com/article/stocks-markets-japan-trump-6e894c8ecd7de9e05ad245beed41bd3e
+
+---
+
+<!-- analysis-link:2026-01-23-intel-guidance-shortfall-weighs-on-equities-as-gold-records-signal-underlying-ma -->
+**Going deeper:** [Read MSI's analysis of equity fragility and tariff frame dynamics →](/analyses/2026-01-23-intel-guidance-shortfall-weighs-on-equities-as-gold-records-signal-underlying-ma)

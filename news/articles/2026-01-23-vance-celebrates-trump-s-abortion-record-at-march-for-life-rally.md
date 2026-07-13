@@ -92,6 +92,8 @@ cross_article_links:
   strength: 0.7396
   confidence: medium
 draft: false
+analyses:
+- '2026-01-23-2026-march-for-life-coordinated-frame-broadening-linking-abortion-demographics-a'
 ---
 
 Vice President JD Vance spoke Friday at the annual March for Life rally in Washington, urging anti-abortion activists to "take heart" in the Trump administration's efforts to restrict abortion access. Vance detailed the administration's expansion of restrictions on U.S. foreign aid to abortion-supporting groups and praised the 2022 Supreme Court decision that overturned Roe v. Wade, calling it "the most important Supreme Court decision of my lifetime."
@@ -228,3 +230,8 @@ The Mexico City policy has a three-decade history. First established by Presiden
 **Access date:** 2026-05-18
 **Title:** Vance lauds Trump's record against abortion at March for Life
 **URL:** https://apnews.com/article/march-for-life-vance-abortion-beb7c04a39a54861836f64ae3ba90b56
+
+---
+
+<!-- analysis-link:2026-01-23-2026-march-for-life-coordinated-frame-broadening-linking-abortion-demographics-a -->
+**Going deeper:** [Read MSI's analysis of frame-audit | Mexico City policy expansion | post-Dobbs coalition →](/analyses/2026-01-23-2026-march-for-life-coordinated-frame-broadening-linking-abortion-demographics-a)

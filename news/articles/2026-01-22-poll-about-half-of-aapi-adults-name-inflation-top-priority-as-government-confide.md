@@ -68,6 +68,8 @@ figures_aggregate:
   sources: []
 cross_article_links: []
 draft: false
+analyses:
+- '2026-01-22-asian-american-adults-prioritize-inflation-above-national-average-as-government-'
 ---
 
 ## Summary
@@ -255,3 +257,8 @@ The AAPI Data/AP-NORC poll is part of an ongoing project examining the views of 
 **Publication date:** 2026-01-22
 **Title:** AAPI adults especially worried about costs: new survey
 **URL:** https://apnews.com/article/aapi-asian-american-government-priorities-inflation-poll-38cb5590190dcc726ba6655be6f55aed
+
+---
+
+<!-- analysis-link:2026-01-22-asian-american-adults-prioritize-inflation-above-national-average-as-government- -->
+**Going deeper:** [Read MSI's analysis of aapi inflation priority divergence →](/analyses/2026-01-22-asian-american-adults-prioritize-inflation-above-national-average-as-government-)

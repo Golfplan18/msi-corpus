@@ -1,7 +1,9 @@
 ---
-headline: I Played 4D Chess on the Flight Home — the DECOY, the SWITCH, the BRAND NEW Jet, the TROOPS, TREMENDOUS
+headline: I Played 4D Chess on the Flight Home — the DECOY, the SWITCH, the BRAND
+  NEW Jet, the TROOPS, TREMENDOUS
 publish_date: '2026-07-09'
-lede: The Fake News is having a total meltdown because I played 4D Chess on the flight back from Turkey, which was a tremendous success, by the way.
+lede: The Fake News is having a total meltdown because I played 4D Chess on the flight
+  back from Turkey, which was a tremendous success, by the way.
 pen_name: diklis-chump
 primary_entities:
 - Donald Trump
@@ -35,7 +37,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 2
@@ -58,7 +61,28 @@ cross_article_links:
   strength: 0.2776
   confidence: high
 draft: false
+image:
+  url: /cartoons/i-played-4d-chess-on-the-flight-home-the-decoy-the-switch.png
+  alt: 'Editorial cartoon by Hector Rentier: I Played 4D Chess on the Flight Home
+    — the DECOY, the SWITCH, the BRAND NEW Jet, the…'
+  caption: He made the gift holy. The giver never asked him to.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-07-12T02:07:19-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: Single central allegorical figure, 1:1 aspect ratio, heavy cross-hatch
+    in the Nast tradition. The figure — fully individuated, recognizable human, face
+    fully rendered and legible, expression serene an
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-07-09-hector-paired-with-2026-07-09-diklis-chump-top-news-us-2026-07-09-trump-air-force-o
 ---
+
+![Editorial cartoon by Hector Rentier: I Played 4D Chess on the Flight Home — the DECOY, the SWITCH, the BRAND NEW Jet, the…](/cartoons/i-played-4d-chess-on-the-flight-home-the-decoy-the-switch.png)
+*He made the gift holy. The giver never asked him to.*
 
 The Fake News is having a total meltdown because I played 4D Chess on the flight back from Turkey, which was a tremendous success, by the way. I just had the best time at the NATO summit, [enforcing the spending pledges](/articles/2026-07-06-trump-heads-to-ankara-summit-to-enforce-nato-spending-pledges/) like nobody has ever seen, getting billions and billions of dollars from countries that were ripping us off for decades. But the Democrats and the weak RINOs are crying because I took the older Boeing to Britain, and then switched to the BRAND NEW, MAGNIFICENT jet the Qataris gave us. They say it's a security risk. SCARED! I'm not scared! I switched to the older plane first because it was a DECOY! Beautiful 4D Chess. The Iranians said "Oh, he's taking the old plane," and then BAM, I switched to the new jet at Mildenhall. They walked right into the trap. I always said I was going to do the switch, I told the Generals on Tuesday, I said "we're doing the switch, it's going to be perfect," and look, it was perfect.
 

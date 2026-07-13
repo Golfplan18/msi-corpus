@@ -74,6 +74,8 @@ image:
   source: ai_generated
 cross_article_links: []
 draft: false
+analyses:
+- '2026-01-22-european-allies-construct-independent-institutional-frameworks-amid-transatlanti'
 ---
 
 
@@ -344,3 +346,8 @@ Democrats urged stronger responses. Rep. Gregory Meeks, the top Democrat on the 
 **Publication date:** 2026-01-22
 **Title:** Trump's European threats leave America with uncertain standing in the world
 **URL:** https://apnews.com/article/trump-nato-europe-greenland-denmark-627268004024f111097d7e1c5c2da357
+
+---
+
+<!-- analysis-link:2026-01-22-european-allies-construct-independent-institutional-frameworks-amid-transatlanti -->
+**Going deeper:** [Read MSI's analysis of european institutional diversification strategies →](/analyses/2026-01-22-european-allies-construct-independent-institutional-frameworks-amid-transatlanti)

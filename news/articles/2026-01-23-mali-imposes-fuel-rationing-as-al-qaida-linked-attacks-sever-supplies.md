@@ -74,6 +74,8 @@ figures_aggregate:
   sources: []
 cross_article_links: []
 draft: false
+analyses:
+- '2026-01-23-mali-institutes-fuel-rationing-to-manage-militant-disruption-of-supply-convoys'
 ---
 
 Mali's government announced fuel rationing Thursday to manage shortages caused by al-Qaeda-linked militants attacking fuel convoys in border regions. The landlocked West African country said cars would be limited to refueling every 72 hours and motorcycles every 48 hours, part of an effort to ensure equitable distribution as supply routes have deteriorated.
@@ -220,3 +222,8 @@ The government did not specify when rationing would begin, though officials sugg
 **Access date:** 2026-01-24
 **Title:** Mali introduces fuel rationing as al-Qaida-linked attacks cause shortages
 **URL:** https://apnews.com/article/mali-alqaida-attacks-fuel-crisis-58de63f87003e03a577fbdcefbe2f64b
+
+---
+
+<!-- analysis-link:2026-01-23-mali-institutes-fuel-rationing-to-manage-militant-disruption-of-supply-convoys -->
+**Going deeper:** [Read MSI's analysis of Mali fuel rationing and militant interdiction →](/analyses/2026-01-23-mali-institutes-fuel-rationing-to-manage-militant-disruption-of-supply-convoys)

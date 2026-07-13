@@ -66,6 +66,8 @@ figures_aggregate:
   sources: []
 cross_article_links: []
 draft: false
+analyses:
+- '2026-01-23-california-contests-federal-authority-over-coastal-pipeline-restart'
 ---
 
 ## Summary
@@ -327,3 +329,8 @@ Santa Barbara County has reinforced its commitment to phasing out fossil fuel ex
 **Publication date:** 2026-01-23
 **Title:** California takes Trump administration to court over plans to restart oil pipelines
 **URL:** https://apnews.com/article/california-oil-pipelines-coast-sable-trump-lawsuit-cbf79cac5dcdd7d2a720281246e52b09
+
+---
+
+<!-- analysis-link:2026-01-23-california-contests-federal-authority-over-coastal-pipeline-restart -->
+**Going deeper:** [Read MSI's analysis of coastal pipeline jurisdiction dispute →](/analyses/2026-01-23-california-contests-federal-authority-over-coastal-pipeline-restart)

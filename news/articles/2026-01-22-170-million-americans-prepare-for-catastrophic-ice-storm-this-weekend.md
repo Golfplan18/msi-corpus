@@ -69,6 +69,8 @@ figures_aggregate:
   sources: []
 cross_article_links: []
 draft: false
+analyses:
+- '2026-01-22-winter-storm-reporting-obscures-marked-heterogeneity-in-municipal-response-capac'
 ---
 
 ## Summary
@@ -361,3 +363,8 @@ The region braced for what forecasters described as a potentially significant wi
 **Publication date:** 2026-01-22
 **Title:** Numbers show preparations for potentially catastrophic ice storm
 **URL:** https://apnews.com/article/winter-weather-snow-ice-weekend-storm-e82e152fea39809180714137d7aa56a4
+
+---
+
+<!-- analysis-link:2026-01-22-winter-storm-reporting-obscures-marked-heterogeneity-in-municipal-response-capac -->
+**Going deeper:** [Read MSI's analysis of winter storm response capacity disparities →](/analyses/2026-01-22-winter-storm-reporting-obscures-marked-heterogeneity-in-municipal-response-capac)

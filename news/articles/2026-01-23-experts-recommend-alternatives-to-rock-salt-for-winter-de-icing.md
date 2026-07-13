@@ -67,6 +67,8 @@ image:
   source: ai_generated
 cross_article_links: []
 draft: false
+analyses:
+- '2026-01-23-de-icing-product-alternatives-trade-environmental-harm-for-cost-and-temperature-'
 ---
 
 
@@ -292,3 +294,8 @@ David Orr, director of the Local Roads Program at Cornell, emphasized that perfe
 **Publication date:** 2026-01-23
 **Title:** Rock salt alternatives that are safer for your pets and yard
 **URL:** https://apnews.com/article/rock-salt-alternatives-safe-deicer-weather-climate-33700d5759e6eada8eb041f6318cc061
+
+---
+
+<!-- analysis-link:2026-01-23-de-icing-product-alternatives-trade-environmental-harm-for-cost-and-temperature- -->
+**Going deeper:** [Read MSI's analysis of winter de-icing chemical alternatives →](/analyses/2026-01-23-de-icing-product-alternatives-trade-environmental-harm-for-cost-and-temperature-)

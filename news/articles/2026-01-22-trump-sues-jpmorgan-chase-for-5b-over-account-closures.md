@@ -69,6 +69,8 @@ image:
   source: ai_generated
 cross_article_links: []
 draft: false
+analyses:
+- '2026-01-22-trump-litigation-challenges-bank-risk-management-frameworks'
 ---
 
 ## Summary
@@ -254,3 +256,8 @@ Trump threatened to sue JPMorgan last week amid heightened tensions between the 
 **Publication date:** 2026-01-22
 **Title:** Trump sues JPMorgan for $5B, says the bank closed his accounts for political reasons after Jan. 6
 **URL:** https://apnews.com/article/trump-jpmorgan-debanking-jamie-dimon-a976813384a942e5152f17659fdebd16
+
+---
+
+<!-- analysis-link:2026-01-22-trump-litigation-challenges-bank-risk-management-frameworks -->
+**Going deeper:** [Read MSI's analysis of bank account closure frameworks →](/analyses/2026-01-22-trump-litigation-challenges-bank-risk-management-frameworks)

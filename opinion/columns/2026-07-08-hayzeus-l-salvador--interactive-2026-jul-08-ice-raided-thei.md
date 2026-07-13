@@ -26,7 +26,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -47,7 +48,28 @@ cross_article_links:
   strength: 0.2885
   confidence: high
 draft: false
+image:
+  url: /cartoons/ice-tore-the-families-apart-the-damage-is-just-beginning.png
+  alt: 'Editorial cartoon by Hector Rentier: ICE Tore the Families Apart. The Damage
+    Is Just Beginning.'
+  caption: He stamped the form. He never looked up the name.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-07-12T06:41:54-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: 'Single central figure: a fully individuated, composed immigration-enforcement
+    functionary seated at a government-issue desk in heavy Nast cross-hatch. Middle-aged,
+    clean-shaven, regulation tie, glasse'
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-07-08-hector-paired-with-2026-07-08-hayzeus-l-salvador--interactive-2026-jul-08-ice-raided-thei
 ---
+
+![Editorial cartoon by Hector Rentier: ICE Tore the Families Apart. The Damage Is Just Beginning.](/cartoons/ice-tore-the-families-apart-the-damage-is-just-beginning.png)
+*He stamped the form. He never looked up the name.*
 
 Donald Trump Is Using ICE Raids to Tear Parents From Their Children.
 

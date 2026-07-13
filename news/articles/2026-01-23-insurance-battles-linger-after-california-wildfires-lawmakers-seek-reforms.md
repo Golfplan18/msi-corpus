@@ -123,6 +123,8 @@ related_stories:
   publish_date: '2026-01-07'
   relation: related
   strength: 0.7356
+analyses:
+- '2026-01-23-california-lawmakers-propose-wildfire-insurance-reforms-targeting-documented-cla'
 ---
 California lawmakers are proposing a package of consumer-protection and insurer-timing rules for wildfire claims after survivors described problems ranging from delayed communication to payouts that fall short of rebuilding costs.
 
@@ -467,3 +469,8 @@ Calderon is also trying again to regulate how insurers use drone images through 
 **Publication date:** 2026-01-22
 **Access date:** 2026-01-22
 **URL:** https://apnews.com/article/california-financial-services-ben-allen-legislation-fires-4efe941ca2d808189d41df61c4624af6
+
+---
+
+<!-- analysis-link:2026-01-23-california-lawmakers-propose-wildfire-insurance-reforms-targeting-documented-cla -->
+**Going deeper:** [Read MSI's analysis of California wildfire insurance legislation →](/analyses/2026-01-23-california-lawmakers-propose-wildfire-insurance-reforms-targeting-documented-cla)

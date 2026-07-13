@@ -32,7 +32,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -53,7 +54,28 @@ cross_article_links:
   strength: 0.9037
   confidence: high
 draft: false
+image:
+  url: /cartoons/trump-is-bankrupting-the-working-class-voters-who-elected.png
+  alt: 'Editorial cartoon by Hector Rentier: Trump Is Bankrupting the Working-Class
+    Voters Who Elected Him'
+  caption: Sold a shield. The invoice was the policy.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-07-12T04:03:36-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: 'Single-panel, 1:1 aspect ratio, heavy cross-hatch wood-engraving in
+    the Nast-Daumier tradition. Central figure: a composed administration actor at
+    a podium (podium-microphone prop, nameplate reads PRE'
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-07-08-hector-paired-with-2026-07-08-ashley-wagner-business-2026-jul-08-trump-maga-faithful
 ---
+
+![Editorial cartoon by Hector Rentier: Trump Is Bankrupting the Working-Class Voters Who Elected Him](/cartoons/trump-is-bankrupting-the-working-class-voters-who-elected.png)
+*Sold a shield. The invoice was the policy.*
 
 Donald Trump is bankrupting the working-class voters who delivered him the presidency. The latest Harris poll for the Guardian, taken inside the Maga coalition itself, catches the math in the act of catching up with the rhetoric: 56% of respondents in the president's political base are already missing debt payments or staring down the barrel of doing so. The same share are missing or about to miss a housing payment. Fifty-eight percent are struggling with utilities. Fifty-seven percent with healthcare. Sixty-one percent with groceries. Sixty-three percent with gas. These are not abstract distress numbers. They are the second-half-of-the-month math at the kitchen tables of the voters who turned out in 2024 expecting the cost of living to break in their direction.
 

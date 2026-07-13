@@ -61,6 +61,8 @@ figures_aggregate:
 cross_article_links: []
 draft: false
 related_stories: []
+analyses:
+- '2026-01-23-csx-narrowing-financial-targets-and-pursuing-operational-improvements-amid-regul'
 ---
 
 CSX Corp. reported its fourth-quarter profit slipped 2% as weak shipping demand and one-time severance costs weighed on results, the company said.
@@ -398,3 +400,8 @@ The tunnel work is also expected to support additional service changes this year
 **Publication date:** 2026-01-22
 **Access date:** 2026-01-23
 **URL:** https://apnews.com/article/earnings-csx-railroad-fourth-quarter-profit-93e319c9bd52568256233fc7fa014842
+
+---
+
+<!-- analysis-link:2026-01-23-csx-narrowing-financial-targets-and-pursuing-operational-improvements-amid-regul -->
+**Going deeper:** [Read MSI's analysis of CSX operational pivot and regulatory uncertainty →](/analyses/2026-01-23-csx-narrowing-financial-targets-and-pursuing-operational-improvements-amid-regul)

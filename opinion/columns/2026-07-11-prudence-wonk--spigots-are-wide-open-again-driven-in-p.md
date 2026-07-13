@@ -1,7 +1,10 @@
 ---
-headline: 'Looting the Treasury for an Undeclared War'
+headline: Looting the Treasury for an Undeclared War
 publish_date: '2026-07-11'
-lede: 'The political establishment attributes the federal deficit trajectory to inexorable crises. Earthquakes happen, financial collapses occur, wars break out, and Washington inevitably responds. This framing reduces the record-shattering $1.9 trillion annual deficit projected for 2026 to a meteorological event.'
+lede: The political establishment attributes the federal deficit trajectory to inexorable
+  crises. Earthquakes happen, financial collapses occur, wars break out, and Washington
+  inevitably responds. This framing reduces the record-shattering $1.9 trillion annual
+  deficit projected for 2026 to a meteorological event.
 pen_name: prudence-wonk
 primary_entities: []
 primary_themes: []
@@ -15,7 +18,28 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 related: []
+image:
+  url: /cartoons/looting-the-treasury-for-an-undeclared-war.png
+  alt: 'Editorial cartoon by Hector Rentier: Looting the Treasury for an Undeclared
+    War'
+  caption: An act of nature, with line items.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-07-12T00:49:48-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: A composed establishment figure stands at a podium styled as a television
+    weather-forecast set, the right hand resting on a large placard labeled '$1.9T
+    DEFICIT — INEVITABLE / STRUCTURAL / ACT OF NATU
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-07-11-hector-paired-with-2026-07-11-prudence-wonk--spigots-are-wide-open-again-driven-in-p
 ---
+
+![Editorial cartoon by Hector Rentier: Looting the Treasury for an Undeclared War](/cartoons/looting-the-treasury-for-an-undeclared-war.png)
+*An act of nature, with line items.*
 
 ## The Illusion of Inevitable Deficits
 
