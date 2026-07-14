@@ -1,7 +1,8 @@
 ---
 headline: 'Twenty Troops and Phantom Billions: The Slow Death of Gaza'
 publish_date: '2026-07-12'
-lede: Donald Trump's Board of Peace promised twenty thousand peacekeepers for Gaza and delivered twenty.
+lede: Donald Trump's Board of Peace promised twenty thousand peacekeepers for Gaza
+  and delivered twenty.
 pen_name: hayzeus-l-salvador
 primary_entities: []
 primary_themes: []
@@ -15,7 +16,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -31,16 +33,33 @@ figures_aggregate:
   series_ids: []
   sources: []
 image:
-  url: /articles/2026-07-10-gaza-peacekeeping-force-to-start-with-10-to-20-troops-far-short-of-20-000-goal.png
-  alt: 'Illustration accompanying article: Gaza peacekeeping force to start with 10 to 20 troops, far short of 20,000 goal'
+  url: /cartoons/twenty-troops-and-phantom-billions-the-slow-death-of-gaza.png
+  alt: 'Editorial cartoon by Hector Rentier: Twenty Troops and Phantom Billions: The
+    Slow Death of Gaza'
+  caption: He cut the ribbon. The other side of it was twenty.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
   source: ai_generated
+  attached_at: '2026-07-13T15:02:18-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: Single central allegorical figure, 1:1, heavy cross-hatch wood-engraving
+    in the Nast-Daumier tradition. Donald Trump, fully individuated and recognizable,
+    face fully rendered and calm, stands composed
+  license: https://creativecommons.org/publicdomain/zero/1.0/
 cross_article_links:
 - slug: 2026-07-10-gaza-peacekeeping-force-to-start-with-10-to-20-troops-far-short-of-20-000-goal
   relation: extends
   strength: 0.1943
   confidence: high
 draft: false
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-07-12-hector-paired-with-2026-07-12-hayzeus-l-salvador--000-peacekeeping-troops-in-gaza-he-is-s
 ---
+
+![Editorial cartoon by Hector Rentier: Twenty Troops and Phantom Billions: The Slow Death of Gaza](/cartoons/twenty-troops-and-phantom-billions-the-slow-death-of-gaza.png)
+*He cut the ribbon. The other side of it was twenty.*
 
 Donald Trump's Board of Peace promised twenty thousand peacekeepers for Gaza and delivered twenty. That is the arithmetic of a peace plan that was supposed to protect 2.1 million people from dying in the rubble of a war the same administration authorized. Four countries — Albania, Kazakhstan, Kosovo, Morocco — are on course to sign formal commitments for a stabilization force that exists mostly in press releases. Indonesia, which had made a potential commitment of thousands of troops for this very deployment, paused its commitment after four of its peacekeepers were killed in the regional wars in Iran and Lebanon. The billions of dollars pledged for reconstruction have not materialized. Hamas refuses to disarm. Israel continues to carry out strikes, killing more than a thousand people since the ceasefire. Reconstruction has not begun. A peace plan that arrives as twenty soldiers is not a peace plan. It is a photograph. It is a press release held up while the people the press release was supposed to protect continue to die.
 

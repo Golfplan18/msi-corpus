@@ -15,7 +15,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -31,16 +32,33 @@ figures_aggregate:
   series_ids: []
   sources: []
 image:
-  url: /articles/2026-07-09-lawmakers-push-hhs-to-monitor-assisted-suicide-in-hospices.png
-  alt: 'Illustration accompanying article: Lawmakers push HHS to monitor assisted suicide in hospices'
+  url: /cartoons/the-insurance-company-denies-the-home-nurse-and-approves.png
+  alt: 'Editorial cartoon by Hector Rentier: The Insurance Company Denies The Home
+    Nurse And Approves The Lethal Pill'
+  caption: Home nurse denied. Secobarbital approved. The cheaper price won.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
   source: ai_generated
+  attached_at: '2026-07-13T08:37:24-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: Single central allegorical figure, 1:1 aspect, heavy cross-hatch wood-engraving.
+    A composed health insurance chief medical officer sits at a wide mahogany desk
+    in a well-appointed office — suit, white
+  license: https://creativecommons.org/publicdomain/zero/1.0/
 cross_article_links:
 - slug: 2026-07-09-lawmakers-push-hhs-to-monitor-assisted-suicide-in-hospices
   relation: extends
   strength: 0.7991
   confidence: high
 draft: false
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-07-12-hector-paired-with-2026-07-12-mary-magdalena-us-news-2026-jul-09-medically-assisted-s
 ---
+
+![Editorial cartoon by Hector Rentier: The Insurance Company Denies The Home Nurse And Approves The Lethal Pill](/cartoons/the-insurance-company-denies-the-home-nurse-and-approves.png)
+*Home nurse denied. Secobarbital approved. The cheaper price won.*
 
 The health insurance industry denies life care and offers the lethal pill. The insurance company denied the home nurse. The insurance company denied the physical therapy. The insurance company approved the secobarbital. James, you call this a crisis of consent. I call it a business model.
 
