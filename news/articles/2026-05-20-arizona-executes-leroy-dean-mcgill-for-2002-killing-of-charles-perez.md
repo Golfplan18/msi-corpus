@@ -6,8 +6,8 @@ lede: Arizona executed Leroy Dean McGill by lethal injection Wednesday morning f
   setting on fire inside a north Phoenix apartment. McGill, 63, was pronounced dead
   at 10:26 a.m. at the Arizona State Prison Complex in Florence. The execution was
   the first of three scheduled this week across the United States.
-nut_graf: The execution — Arizona&#39;s first lethal injection of 2026 — proceeded
-  without apparent difficulty, a departure from the state&#39;s recent history of
+nut_graf: The execution — Arizona's first lethal injection of 2026 — proceeded
+  without apparent difficulty, a departure from the state's recent history of
   struggles inserting intravenous lines during the procedure.
 primary_entities:
 - Leroy Dean McGill
