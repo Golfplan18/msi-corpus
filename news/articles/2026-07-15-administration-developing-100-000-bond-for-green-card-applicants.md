@@ -124,6 +124,8 @@ related_stories:
   publish_date: '2026-05-22'
   relation: related
   strength: 0.7338
+analyses:
+- '2026-07-15-pay-to-play-the-100-000-green-card-bond-and-the-architecture-of-exclusion'
 ---
 **Subtype:** fact
 
@@ -173,3 +175,8 @@ The State Department has described the program as an early success, saying rough
 **Publication date:** 2026-07-15
 **Title:** U.S. Weighs Bond of $100,000 for Some Green-Card Applicants Abroad
 **URL:** https://www.wsj.com/politics/policy/u-s-weighs-bond-of-100-000-for-some-green-card-applicants-abroad-a9cd68c8
+
+---
+
+<!-- analysis-link:2026-07-15-pay-to-play-the-100-000-green-card-bond-and-the-architecture-of-exclusion -->
+**Going deeper:** [Read MSI's analysis of Analysis: The bond converts immigration screening from a behavioral assessment into a liquidity test, with the burden falling on citizen sponsors and the design structurally insulated from any single reversal. →](/analyses/2026-07-15-pay-to-play-the-100-000-green-card-bond-and-the-architecture-of-exclusion)

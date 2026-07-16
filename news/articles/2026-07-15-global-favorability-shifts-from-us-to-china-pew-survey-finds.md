@@ -167,6 +167,8 @@ related_stories:
   publish_date: '2026-01-16'
   relation: related
   strength: 0.6565
+analyses:
+- '2026-07-15-us-favorability-collapses-among-allies-as-china-gains-ground-pew-survey-finds'
 ---
 ## Global favorability shifts from US to China, Pew survey finds
 
@@ -212,3 +214,8 @@ Silver said views of Beijing and Washington had been similar at some points in t
 **Publication date:** 2026-07-15
 **Title:** China and Xi favored over US and Trump in many nations: Survey
 **URL:** https://www.npr.org/2026/07/15/g-s1-133827/china-and-xi-favored-over-us-and-trump-in-many-nations-survey
+
+---
+
+<!-- analysis-link:2026-07-15-us-favorability-collapses-among-allies-as-china-gains-ground-pew-survey-finds -->
+**Going deeper:** [Read MSI's analysis of the global favorability shift from US to China →](/analyses/2026-07-15-us-favorability-collapses-among-allies-as-china-gains-ground-pew-survey-finds)

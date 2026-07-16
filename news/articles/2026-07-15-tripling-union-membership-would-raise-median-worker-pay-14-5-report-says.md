@@ -140,6 +140,8 @@ related_stories:
   publish_date: '2026-05-27'
   relation: related
   strength: 0.6621
+analyses:
+- '2026-07-15-behind-the-1-2tn-union-wage-projection-a-self-reinforcing-cycle-bars-the-path'
 ---
 **Subtype:** fact
 
@@ -178,3 +180,8 @@ Beyond wages, the report cites benefits to personal health and wellbeing. States
 **Publication date:** 2026-07-15
 **Title:** Tripling US union membership would shift $1.2tn to workers annually – report
 **URL:** https://www.theguardian.com/us-news/2026/jul/15/union-membership-rates
+
+---
+
+<!-- analysis-link:2026-07-15-behind-the-1-2tn-union-wage-projection-a-self-reinforcing-cycle-bars-the-path -->
+**Going deeper:** [Read MSI's analysis of the political economy of union density →](/analyses/2026-07-15-behind-the-1-2tn-union-wage-projection-a-self-reinforcing-cycle-bars-the-path)
