@@ -224,6 +224,8 @@ related_stories:
   publish_date: '2026-04-14'
   relation: related
   strength: 0.7962
+analyses:
+- '2026-07-15-competing-time-pressures-shape-endurance-calculus-in-strait-of-hormuz'
 ---
 
 ## US and Iran face dueling time pressures as Hormuz conflict resumes
@@ -280,3 +282,8 @@ With U.S. elections looming, Iran still has to worry that Trump might escalate a
 **Publication date:** 2026-07-15
 **Title:** The U.S. and Iran Reckon With Shrinking Options to End the War
 **URL:** https://www.wsj.com/world/middle-east/iran-us-war-goals-af5d4131
+
+---
+
+<!-- analysis-link:2026-07-15-competing-time-pressures-shape-endurance-calculus-in-strait-of-hormuz -->
+**Going deeper:** [Read MSI's analysis of US-Iran Hormuz conflict endurance calculus →](/analyses/2026-07-15-competing-time-pressures-shape-endurance-calculus-in-strait-of-hormuz)

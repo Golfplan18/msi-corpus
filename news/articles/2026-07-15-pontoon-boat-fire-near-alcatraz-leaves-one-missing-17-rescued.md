@@ -84,7 +84,7 @@ cross_article_links:
   relation: related
   strength: 0.593
   confidence: medium
-draft: false
+draft: true
 related_stories: []
 ---
 ## Pontoon boat fire near Alcatraz leaves one missing, 17 rescued

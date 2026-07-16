@@ -62,6 +62,8 @@ figures_aggregate:
 cross_article_links: []
 draft: false
 related_stories: []
+analyses:
+- '2026-07-15-avenal-recall-defiance-exposes-gap-in-california-municipal-enforcement'
 ---
 ## Four Avenal council members refuse to leave after recall election
 
@@ -101,3 +103,8 @@ Kings County officials, who support the recall results, said they do not know of
 **Publication date:** 2026-07-15
 **Title:** This California Town Voted Its Council Out of Office. They’re Refusing to Leave.
 **URL:** https://www.wsj.com/us-news/this-california-town-voted-its-council-out-of-office-theyre-refusing-to-leave-4a9bb2f9
+
+---
+
+<!-- analysis-link:2026-07-15-avenal-recall-defiance-exposes-gap-in-california-municipal-enforcement -->
+**Going deeper:** [Read MSI's analysis of the Avenal recall standoff →](/analyses/2026-07-15-avenal-recall-defiance-exposes-gap-in-california-municipal-enforcement)
