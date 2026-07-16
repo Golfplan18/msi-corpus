@@ -1,9 +1,14 @@
 ---
-headline: Venezuelan detainee dies in ICE custody during Georgia transfer, 22nd death this year
+headline: Venezuelan detainee dies in ICE custody during Georgia transfer, 22nd death
+  this year
 secondary_headline: Family says medication was denied before death
 publish_date: '2026-07-15'
-lede: Jesús Manuel Arenas-Silva, a 45-year-old Venezuelan man, died Monday while being transferred between Immigration and Customs Enforcement detention facilities in Georgia, marking the 22nd death in ICE custody this year, the agency said.
-nut_graf: The death extends an increasing number of fatalities in federal immigration detention during the second Trump administration, as the Department of Homeland Security faces renewed scrutiny over conditions in its facilities.
+lede: Jesús Manuel Arenas-Silva, a 45-year-old Venezuelan man, died Monday while being
+  transferred between Immigration and Customs Enforcement detention facilities in
+  Georgia, marking the 22nd death in ICE custody this year, the agency said.
+nut_graf: The death extends an increasing number of fatalities in federal immigration
+  detention during the second Trump administration, as the Department of Homeland
+  Security faces renewed scrutiny over conditions in its facilities.
 primary_entities:
 - Jesús Manuel Arenas-Silva
 - ICE
@@ -40,7 +45,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -67,100 +73,40 @@ related_stories:
   headline: Arenas-Silva dies during transfer between Georgia detention facilities
   publish_date: '2026-07-15'
   relation: related
-  strength: 0.9085
+  strength: 0.9083
 - slug: 2026-07-15-mexico-requests-us-criminal-investigations-after-17-mexican-immigrants-die-in-ic
-  headline: Mexico requests US criminal investigations after 17 Mexican immigrants die in ICE custody
+  headline: Mexico requests US criminal investigations after 17 Mexican immigrants
+    die in ICE custody
   publish_date: '2026-07-15'
   relation: related
-  strength: 0.6613
+  strength: 0.6611
 - slug: 2026-07-10-ice-agents-who-killed-houston-man-were-seeking-other-people-dhs-says
   headline: ICE agents who killed Houston man were seeking other people, DHS says
   publish_date: '2026-07-10'
   relation: related
-  strength: 0.6668
+  strength: 0.6669
 - slug: 2026-06-26-un-demands-independent-investigations-into-deaths-in-us-immigration-custody
   headline: UN demands independent investigations into deaths in US immigration custody
   publish_date: '2026-06-26'
   relation: related
-  strength: 0.6631
+  strength: 0.6632
 - slug: 2026-06-08-second-detainee-dies-at-louisiana-ice-facility-amid-reports-of-unsanitary-condit
-  headline: Second detainee dies at Louisiana ICE facility amid reports of unsanitary conditions
+  headline: Second detainee dies at Louisiana ICE facility amid reports of unsanitary
+    conditions
   publish_date: '2026-06-08'
   relation: related
-  strength: 0.7055
-- slug: 2026-06-05-acting-ice-director-orders-agency-to-stop-reporting-deaths-of-recently-released-
-  headline: Acting ICE director orders agency to stop reporting deaths of recently released detainees
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.6464
+  strength: 0.7063
 - slug: 2026-05-27-ice-detainees-dying-by-suicide-at-an-alarming-rate-ap-investigation-finds
   headline: ICE detainees dying by suicide at an alarming rate, AP investigation finds
   publish_date: '2026-05-27'
   relation: related
-  strength: 0.6589
-- slug: 2026-05-26-ap-investigation-finds-spike-in-ice-detainee-suicides-since-jan-2025
-  headline: Spike in ICE detainee suicides since Jan. 2025
-  publish_date: '2026-05-26'
-  relation: related
-  strength: 0.6414
-- slug: 2026-05-19-autopsy-confirms-arizona-ice-detainee-s-death-linked-to-dental-problems
-  headline: Autopsy confirms Arizona ICE detainee's death linked to dental problems
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6453
+  strength: 0.659
 - slug: 2026-03-20-mexican-teen-dies-in-ice-custody-at-florida-county-jail
   headline: Mexican teen dies in ICE custody at Florida county jail
   publish_date: '2026-03-20'
   relation: related
-  strength: 0.7069
-- slug: 2026-04-21-judge-orders-man-shot-by-ice-in-california-to-remain-in-custody
-  headline: Judge orders man shot by ICE in California to remain in custody
-  publish_date: '2026-04-21'
-  relation: related
-  strength: 0.6484
-- slug: 2026-04-14-man-shot-by-ice-in-california-arrested-by-fbi-attorney-says
-  headline: Man shot by ICE in California arrested by FBI, attorney says
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.6582
-- slug: 2026-03-05-haitian-man-dies-in-ice-custody-in-arizona-after-untreated-toothache
-  headline: Haitian man dies in ICE custody in Arizona after untreated toothache
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.6895
-- slug: 2026-01-22-autopsy-rules-immigrant-s-death-in-ice-custody-a-homicide
-  headline: Autopsy rules immigrant's death in ICE custody a homicide
-  publish_date: '2026-01-22'
-  relation: related
-  strength: 0.7101
-- slug: 2026-03-04-haitian-man-dies-in-ice-custody-in-arizona-after-untreated-toothache
-  headline: Haitian man dies in ICE custody in Arizona after untreated toothache
-  publish_date: '2026-03-04'
-  relation: related
-  strength: 0.6765
-- slug: 2026-01-19-immigrant-dies-at-el-paso-tent-complex-prior-detainee-death-ruled-likely-homicid
-  headline: Immigrant dies at El Paso tent complex; prior detainee death ruled likely homicide
-  publish_date: '2026-01-19'
-  relation: related
-  strength: 0.6973
-- slug: 2026-01-16-cuban-immigrant-dies-in-texas-ice-detention-medical-examiner-rules-homicide
-  headline: Cuban immigrant dies in Texas ICE detention; medical examiner rules homicide
-  publish_date: '2026-01-16'
-  relation: related
-  strength: 0.698
-- slug: 2026-01-23-medical-examiner-rules-texas-ice-detainee-death-a-homicide
-  headline: Medical examiner rules Texas ICE detainee death a homicide
-  publish_date: '2026-01-23'
-  relation: related
-  strength: 0.6929
-- slug: 2026-01-16-medical-examiner-finds-texas-ice-detainee-s-death-a-homicide-witness-describes-c
-  headline: Medical examiner finds Texas ICE detainee's death a homicide; witness describes chokehold
-  publish_date: '2026-01-16'
-  relation: related
-  strength: 0.6949
+  strength: 0.7072
 ---
-
-
 **Subtype:** fact
 
 - Jesús Manuel Arenas-Silva, a 45-year-old Venezuelan man, died Monday while being transferred between ICE detention facilities in Georgia, the agency said.

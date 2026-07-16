@@ -1,9 +1,18 @@
 ---
-headline: Former Fed adviser receives 38-month prison sentence for false statements about China contacts
+headline: Former Fed adviser receives 38-month prison sentence for false statements
+  about China contacts
 secondary_headline: Jury acquits Rogers of economic espionage conspiracy
 publish_date: '2026-07-15'
-lede: A former senior adviser to the Federal Reserve Board of Governors was sentenced Wednesday to 38 months in prison for lying to the central bank's internal watchdog about sharing restricted information with contacts in China. U.S. District Judge Dabney Friedrich described a "pattern of sharing" sensitive information, while a jury previously acquitted John Rogers of the more serious charge of conspiracy to commit economic espionage.
-nut_graf: The case highlighted federal concerns about the Fed as a target for foreign intelligence services, with prosecutors arguing Rogers's actions amounted to a breach of trust while defense attorneys said he was a scholar who had been deceived by individuals he believed were academics.
+lede: A former senior adviser to the Federal Reserve Board of Governors was sentenced
+  Wednesday to 38 months in prison for lying to the central bank's internal watchdog
+  about sharing restricted information with contacts in China. U.S. District Judge
+  Dabney Friedrich described a "pattern of sharing" sensitive information, while a
+  jury previously acquitted John Rogers of the more serious charge of conspiracy to
+  commit economic espionage.
+nut_graf: The case highlighted federal concerns about the Fed as a target for foreign
+  intelligence services, with prosecutors arguing Rogers's actions amounted to a breach
+  of trust while defense attorneys said he was a scholar who had been deceived by
+  individuals he believed were academics.
 primary_entities:
 - John Rogers
 - Federal Reserve
@@ -39,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -137,108 +147,13 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-07-14-china-charges-u-s-seismologist-with-espionage-after-secret-detention
-  headline: China Charges U.S. Seismologist With Espionage After Secret Detention
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6168
-- slug: 2026-07-09-ex-epoch-times-cfo-pleads-guilty-to-money-laundering-conspiracy
-  headline: Ex-Epoch Times CFO pleads guilty to money laundering conspiracy
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.6083
-- slug: 2026-06-29-judge-orders-guo-wengui-to-forfeit-889-million-sentences-him-to-30-years
-  headline: Judge orders Guo Wengui to forfeit $889 million, sentences him to 30 years
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.6346
-- slug: 2026-06-26-bolton-expected-to-plead-guilty-to-retaining-classified-information-pay-2-25m-fi
-  headline: Bolton expected to plead guilty to retaining classified information, pay $2.25M fine
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6118
-- slug: 2026-06-16-cia-official-allegedly-created-fake-spy-program-to-steal-40-million-in-gold
-  headline: CIA official allegedly created fake spy program to steal $40 million in gold
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.5918
-- slug: 2026-06-12-federal-judge-apologizes-to-former-clerk-after-discipline-for-sex-in-chambers
-  headline: Federal judge apologizes to former clerk after discipline for sex in chambers
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.5934
-- slug: 2026-06-07-ex-cia-official-created-fake-spy-program-to-steal-millions-in-gold-bars-official
-  headline: Ex-CIA official created fake spy program to steal millions in gold bars, officials say
-  publish_date: '2026-06-07'
-  relation: related
-  strength: 0.5894
-- slug: 2026-06-04-us-journalist-pleads-guilty-to-acting-as-illegal-agent-for-china
-  headline: US journalist pleads guilty to acting as illegal agent for China
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.5873
-- slug: 2026-06-04-john-bolton-to-plead-guilty-to-retaining-classified-documents-pay-over-2m-fine
-  headline: John Bolton to plead guilty to retaining classified documents, pay over $2M fine
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.5826
-- slug: 2026-06-01-powell-warns-political-interference-could-permanently-destroy-trust-in-the-fed
-  headline: Powell warns political interference could permanently destroy trust in the Fed
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.5839
-- slug: 2026-05-14-jury-convicts-man-of-running-secret-chinese-police-outpost-in-new-york-city
-  headline: Jury convicts man of running secret Chinese police outpost in New York City
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6057
-- slug: 2026-05-14-man-accused-of-running-chinese-spy-outpost-in-new-york-convicted
-  headline: Man accused of running Chinese spy outpost in New York convicted
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.5918
-- slug: 2026-05-05-beijing-hunts-exiled-official-overseas-using-u-s-surveillance-tech-ap-finds
-  headline: Beijing hunts exiled official overseas using U.S. surveillance tech, AP finds
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.6015
-- slug: 2026-05-08-uk-border-official-ex-hong-kong-officer-convicted-of-spying-for-china
-  headline: UK border official, ex-Hong Kong officer convicted of spying for China
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.583
-- slug: 2026-05-02-ex-miami-congressman-convicted-in-secret-venezuela-foreign-lobbying-case
-  headline: Ex-Miami congressman convicted in secret Venezuela foreign lobbying case
-  publish_date: '2026-05-02'
-  relation: related
-  strength: 0.5842
 - slug: 2026-01-13-ex-navy-sailor-sentenced-to-16-years-for-selling-ship-secrets-to-chinese-intelli
-  headline: Ex-Navy sailor sentenced to 16 years for selling ship secrets to Chinese intelligence
+  headline: Ex-Navy sailor sentenced to 16 years for selling ship secrets to Chinese
+    intelligence
   publish_date: '2026-01-13'
   relation: related
-  strength: 0.6648
-- slug: 2026-04-14-judge-orders-home-detention-for-courtney-williams-in-classified-leak-case
-  headline: Judge orders home detention for Courtney Williams in classified leak case
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.5827
-- slug: 2026-02-07-hong-kong-ex-media-tycoon-jimmy-lai-sentenced-to-20-years-under-security-law
-  headline: Hong Kong ex-media tycoon Jimmy Lai sentenced to 20 years under security law
-  publish_date: '2026-02-07'
-  relation: related
-  strength: 0.6189
-- slug: 2026-02-11-california-man-sentenced-to-4-years-for-acting-as-chinese-agent
-  headline: California man sentenced to 4 years for acting as Chinese agent
-  publish_date: '2026-02-11'
-  relation: related
-  strength: 0.6094
-- slug: 2026-02-10-hong-kong-ex-media-boss-jimmy-lai-sentenced-prompting-press-freedom-grief
-  headline: Hong Kong ex-media boss Jimmy Lai sentenced, prompting press-freedom grief
-  publish_date: '2026-02-10'
-  relation: related
-  strength: 0.6093
+  strength: 0.6646
 ---
-
 **Subtype:** fact
 
 - John Rogers, a former senior adviser in the Federal Reserve's division of international finance, was sentenced to 38 months in prison on July 15 for making a false statement to the central bank's internal watchdog.

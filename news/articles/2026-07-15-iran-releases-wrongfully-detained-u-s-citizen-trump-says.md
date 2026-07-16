@@ -2,8 +2,15 @@
 headline: Iran releases wrongfully detained U.S. citizen, Trump says
 secondary_headline: Freed U.S. citizen identified as Dena Karari
 publish_date: '2026-07-15'
-lede: President Donald Trump said Wednesday that Iran has freed a U.S. citizen who was wrongfully detained in the country since December 2024, calling the release a "gesture of goodwill." The woman, later identified as Dena Karari, a U.S.-Iranian citizen and founder of a children's nonprofit, was safely outside Iran and in good condition, Trump said.
-nut_graf: The release came amid heightened military tensions between Washington and Tehran, with U.S. forces striking Iranian targets for a fifth consecutive day and Iran hitting U.S. military positions in Jordan, Bahrain, and Kuwait earlier this week.
+lede: President Donald Trump said Wednesday that Iran has freed a U.S. citizen who
+  was wrongfully detained in the country since December 2024, calling the release
+  a "gesture of goodwill." The woman, later identified as Dena Karari, a U.S.-Iranian
+  citizen and founder of a children's nonprofit, was safely outside Iran and in good
+  condition, Trump said.
+nut_graf: The release came amid heightened military tensions between Washington and
+  Tehran, with U.S. forces striking Iranian targets for a fifth consecutive day and
+  Iran hitting U.S. military positions in Jordan, Bahrain, and Kuwait earlier this
+  week.
 primary_entities:
 - Iran
 - United States
@@ -35,7 +42,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -113,21 +121,17 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-07-16-trump-announces-release-of-american-citizen-from-iran-calls-it-gesture-of-goodwi
+  headline: Trump announces release of American citizen from Iran, calls it 'gesture
+    of Goodwill'
+  publish_date: '2026-07-16'
+  relation: related
+  strength: 0.9146
 - slug: 2026-06-18-guardian-columnist-iran-ceasefire-deal-a-victory-for-tehran
   headline: 'Guardian columnist: Iran ceasefire deal a victory for Tehran'
   publish_date: '2026-06-18'
   relation: related
   strength: 0.6585
-- slug: 2026-06-14-trump-announces-initial-iran-deal-iran-confirms-agreement
-  headline: Trump announces initial Iran deal, Iran confirms agreement
-  publish_date: '2026-06-14'
-  relation: related
-  strength: 0.6436
-- slug: 2026-06-11-trump-says-us-and-iran-will-sign-a-peace-deal
-  headline: Trump says US and Iran will sign a peace deal
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.6428
 - slug: 2026-05-03-trump-reviewing-new-iranian-proposal-to-end-war-skeptical-it-will-work
   headline: Trump reviewing new Iranian proposal to end war, skeptical it will work
   publish_date: '2026-05-03'
@@ -153,69 +157,13 @@ related_stories:
   publish_date: '2026-04-06'
   relation: related
   strength: 0.6539
-- slug: 2026-04-06-trump-s-go-it-alone-certainty-confronts-wartime-uncertainty-and-limits
-  headline: Trump’s go-it-alone certainty confronts wartime uncertainty and limits
-  publish_date: '2026-04-06'
-  relation: related
-  strength: 0.6422
 - slug: 2026-01-16-trump-thanks-iran-for-halting-planned-mass-executions-as-protest-toll-hits-2-797
-  headline: Trump thanks Iran for halting planned mass executions as protest toll hits 2,797
+  headline: Trump thanks Iran for halting planned mass executions as protest toll
+    hits 2,797
   publish_date: '2026-01-16'
   relation: related
   strength: 0.6925
-- slug: 2026-02-23-woman-adopted-by-u-s-war-veteran-faces-deportation-to-iran
-  headline: Woman adopted by U.S. war veteran faces deportation to Iran
-  publish_date: '2026-02-23'
-  relation: related
-  strength: 0.6698
-- slug: 2026-01-13-trump-tells-iranian-protesters-help-is-on-its-way-as-u-s-weighs-options
-  headline: Trump tells Iranian protesters 'help is on its way' as U.S. weighs options
-  publish_date: '2026-01-13'
-  relation: related
-  strength: 0.6862
-- slug: 2026-01-14-trump-claims-iran-protest-killings-stopped-as-tehran-signals-mass-executions-ahe
-  headline: Trump claims Iran protest killings 'stopped' as Tehran signals mass executions ahead
-  publish_date: '2026-01-14'
-  relation: related
-  strength: 0.6857
-- slug: 2026-03-07-six-americans-held-in-iran-face-danger-as-war-escalates-families-say
-  headline: Six Americans held in Iran face danger as war escalates, families say
-  publish_date: '2026-03-07'
-  relation: related
-  strength: 0.6567
-- slug: 2026-03-05-trump-administration-offers-shifting-rationales-for-iran-strikes-as-war-expands
-  headline: Trump administration offers shifting rationales for Iran strikes as war expands
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.6522
-- slug: 2026-03-01-trump-says-u-s-has-begun-major-combat-operations-in-iran
-  headline: Trump says U.S. has begun “major combat operations” in Iran
-  publish_date: '2026-03-01'
-  relation: related
-  strength: 0.6515
-- slug: 2026-02-13-iran-wide-ranging-arrests-roil-families-after-crushed-anti-theocracy-protests
-  headline: Iran wide-ranging arrests roil families after crushed anti-theocracy protests
-  publish_date: '2026-02-13'
-  relation: related
-  strength: 0.6611
-- slug: 2026-02-28-trump-not-happy-with-iran-nuclear-talks-says-negotiators-get-more-time
-  headline: Trump not happy with Iran nuclear talks, says negotiators get more time
-  publish_date: '2026-02-28'
-  relation: related
-  strength: 0.6419
-- slug: 2026-03-02-trump-takes-u-s-into-war-with-iran-despite-america-first-pledges
-  headline: Trump takes U.S. into war with Iran despite America First pledges
-  publish_date: '2026-03-02'
-  relation: related
-  strength: 0.6393
-- slug: 2026-02-20-trump-warns-of-possible-iran-strikes-as-nuclear-talks-progress
-  headline: Trump warns of possible Iran strikes as nuclear talks progress
-  publish_date: '2026-02-20'
-  relation: related
-  strength: 0.6424
 ---
-
-
 **Subtype:** fact
 
 - President Donald Trump said Iran released a U.S. citizen wrongfully detained since December 2024 as a "gesture of goodwill."

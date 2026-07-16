@@ -2,8 +2,16 @@
 headline: Tripling union membership would raise median worker pay 14.5%, report says
 secondary_headline: Public approval of unions remains above 68% despite low membership
 publish_date: '2026-07-15'
-lede: Tripling union membership in the United States would deliver a 14.5% raise to the median worker and shift $1.2tn annually to workers, according to a report released Wednesday by the Economic Policy Institute. The report projects that restoring union density to 30% would reverse one-third of the rise in income inequality since 1979.
-nut_graf: The findings arrive as union membership has fallen to 10% of the workforce, down from more than 30% in the 1950s, yet public support for unions remains high, with more than 68% of Americans viewing unions favorably in 2025. The report highlights a disconnect between worker demand for representation and the legal and corporate obstacles to organizing, as more than 50 million workers said they would join a union if they could.
+lede: Tripling union membership in the United States would deliver a 14.5% raise to
+  the median worker and shift $1.2tn annually to workers, according to a report released
+  Wednesday by the Economic Policy Institute. The report projects that restoring union
+  density to 30% would reverse one-third of the rise in income inequality since 1979.
+nut_graf: The findings arrive as union membership has fallen to 10% of the workforce,
+  down from more than 30% in the 1950s, yet public support for unions remains high,
+  with more than 68% of Americans viewing unions favorably in 2025. The report highlights
+  a disconnect between worker demand for representation and the legal and corporate
+  obstacles to organizing, as more than 50 million workers said they would join a
+  union if they could.
 primary_entities:
 - Economic Policy Institute
 - Robert Reich
@@ -37,7 +45,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -116,107 +125,22 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-07-13-u-s-labor-force-faces-historic-contraction-as-demographic-pressure-raises-the-st
-  headline: U.S. labor force faces historic contraction as demographic pressure raises the stakes for AI adoption
+  headline: U.S. labor force faces historic contraction as demographic pressure raises
+    the stakes for AI adoption
   publish_date: '2026-07-13'
   relation: related
   strength: 0.6724
-- slug: 2026-07-03-u-s-unemployment-holds-at-4-2-in-june-quits-and-wage-growth-signal-cooling
-  headline: U.S. unemployment holds at 4.2% in June; quits and wage growth signal cooling
-  publish_date: '2026-07-03T00:00:00Z'
-  relation: related
-  strength: 0.62
-- slug: 2026-06-26-billionaire-wealth-surges-31-8-as-us-workers-struggle-to-keep-pace
-  headline: Billionaire wealth surges 31.8% as US workers struggle to keep pace
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6484
-- slug: 2026-06-30-bea-reports-0-3-may-rise-in-real-disposable-personal-income
-  headline: BEA reports 0.3% May rise in real disposable personal income
-  publish_date: '2026-06-30T00:00:00Z'
-  relation: related
-  strength: 0.6075
-- slug: 2026-06-27-states-expand-retirement-savings-programs-as-half-of-private-sector-workers-lack
-  headline: States expand retirement-savings programs as half of private-sector workers lack workplace plans
-  publish_date: '2026-06-27'
-  relation: related
-  strength: 0.6058
-- slug: 2026-06-23-ranks-of-the-ultrawealthy-jumped-14-4-in-2025-on-ai-trade-report-says
-  headline: Ranks of the ultrawealthy jumped 14.4% in 2025 on AI trade, report says
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.6035
-- slug: 2026-06-19-economic-anxiety-spreads-to-wealthiest-americans-poll-finds
-  headline: Economic Anxiety Spreads to Wealthiest Americans, Poll Finds
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.6223
-- slug: 2026-06-24-record-profits-terrible-service-leave-us-consumers-with-few-options
-  headline: Record profits, terrible service leave US consumers with few options
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.598
-- slug: 2026-06-21-musk-s-trillionaire-status-highlights-us-inequality-s-persistence-analyst-says
-  headline: Musk's trillionaire status highlights US inequality's persistence, analyst says
-  publish_date: '2026-06-21'
-  relation: related
-  strength: 0.6003
 - slug: 2026-06-04-economists-offer-competing-visions-to-reduce-u-s-income-inequality
   headline: Economists offer competing visions to reduce U.S. income inequality
   publish_date: '2026-06-04'
   relation: related
   strength: 0.6574
-- slug: 2026-06-10-economists-mostly-agree-ai-will-boost-productivity-split-on-job-impact
-  headline: Economists mostly agree AI will boost productivity, split on job impact
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.6313
-- slug: 2026-06-14-us-economy-resilient-through-trade-turmoil-and-energy-shocks-economists-say
-  headline: US economy resilient through trade turmoil and energy shocks, economists say
-  publish_date: '2026-06-14'
-  relation: related
-  strength: 0.6004
 - slug: 2026-05-27-median-ceo-pay-hits-17-7-million-200-times-the-typical-worker-s-wage
   headline: Median CEO pay hits $17.7 million, 200 times the typical worker's wage
   publish_date: '2026-05-27'
   relation: related
-  strength: 0.6636
-- slug: 2026-06-13-experts-warn-ai-could-double-gdp-growth-while-fueling-underemployment-and-unrest
-  headline: Experts warn AI could double GDP growth while fueling underemployment and unrest
-  publish_date: '2026-06-13'
-  relation: related
-  strength: 0.6002
-- slug: 2026-06-05-u-s-adds-172-000-jobs-in-may-broader-underemployment-holds-at-8-2
-  headline: U.S. adds 172,000 jobs in May; broader underemployment holds at 8.2%
-  publish_date: '2026-06-05T00:00:00Z'
-  relation: related
-  strength: 0.6178
-- slug: 2026-06-01-ny-fed-researchers-link-remote-work-expansion-to-rising-youth-unemployment
-  headline: NY Fed researchers link remote work expansion to rising youth unemployment
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.6031
-- slug: 2026-05-03-building-trades-unions-join-forces-with-tech-giants-in-ai-data-center-push
-  headline: Building trades unions join forces with tech giants in AI data center push
-  publish_date: '2026-05-03'
-  relation: related
-  strength: 0.6123
-- slug: 2026-04-04-surprise-jobs-rebound-lifts-us-employment-unemployment-dips-to-4-3
-  headline: Surprise jobs rebound lifts US employment; unemployment dips to 4.3%
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.63
-- slug: 2026-03-27-equal-pay-day-highlights-gap-between-men-and-women-s-pay-equity-views
-  headline: Equal Pay Day highlights gap between men and women’s pay equity views
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.621
-- slug: 2026-03-27-jobless-claims-tick-up-to-210-000-as-employers-keep-hiring-low
-  headline: Jobless claims tick up to 210,000 as employers keep hiring low
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.5983
+  strength: 0.6621
 ---
-
 **Subtype:** fact
 
 - The Economic Policy Institute report projects that tripling union density to 30% would increase the median worker's pay by 14.5%, or $7,700 annually.

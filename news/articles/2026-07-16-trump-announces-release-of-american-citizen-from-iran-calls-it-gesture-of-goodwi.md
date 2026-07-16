@@ -1,9 +1,16 @@
 ---
-headline: Trump announces release of American citizen from Iran, calls it 'gesture of Goodwill'
-secondary_headline: Lawyer confirms Dena Karari safe, credits Trump's 'relentless efforts'
+headline: Trump announces release of American citizen from Iran, calls it 'gesture
+  of Goodwill'
+secondary_headline: Lawyer confirms Dena Karari safe, credits Trump's 'relentless
+  efforts'
 publish_date: '2026-07-16'
-lede: President Donald Trump said Wednesday that Iran has released Dena Karari, a dual US-Iranian citizen who had been detained since December 2024. Trump announced the release on social media, calling it a 'gesture of Goodwill' by Iran and saying Karari was "now safely outside of Iran, and in good condition."
-nut_graf: The release of Karari, who was banned from leaving Iran after visiting family in 2024 and later charged with espionage after the US joined Israel in bombing Iran in 2025, came as the United States launched fresh strikes on Iran.
+lede: President Donald Trump said Wednesday that Iran has released Dena Karari, a
+  dual US-Iranian citizen who had been detained since December 2024. Trump announced
+  the release on social media, calling it a 'gesture of Goodwill' by Iran and saying
+  Karari was "now safely outside of Iran, and in good condition."
+nut_graf: The release of Karari, who was banned from leaving Iran after visiting family
+  in 2024 and later charged with espionage after the US joined Israel in bombing Iran
+  in 2025, came as the United States launched fresh strikes on Iran.
 primary_entities:
 - Dena Karari
 - Donald Trump
@@ -38,12 +45,14 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - The Guardian
+  - The Wall Street Journal
   outlet_classes:
   - national_daily
   highest_reliability_tier: 2
@@ -116,26 +125,16 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-07-08-trump-opens-45-day-clock-on-removing-syria-from-terrorism-list
-  headline: Trump opens 45-day clock on removing Syria from terrorism list
-  publish_date: '2026-07-08'
+- slug: 2026-07-15-iran-releases-wrongfully-detained-u-s-citizen-trump-says
+  headline: Iran releases wrongfully detained U.S. citizen, Trump says
+  publish_date: '2026-07-15'
   relation: related
-  strength: 0.6284
+  strength: 0.9146
 - slug: 2026-06-18-guardian-columnist-iran-ceasefire-deal-a-victory-for-tehran
   headline: 'Guardian columnist: Iran ceasefire deal a victory for Tehran'
   publish_date: '2026-06-18'
   relation: related
   strength: 0.6596
-- slug: 2026-06-14-trump-announces-initial-iran-deal-iran-confirms-agreement
-  headline: Trump announces initial Iran deal, Iran confirms agreement
-  publish_date: '2026-06-14'
-  relation: related
-  strength: 0.6228
-- slug: 2026-06-11-trump-says-us-and-iran-will-sign-a-peace-deal
-  headline: Trump says US and Iran will sign a peace deal
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.635
 - slug: 2026-05-03-trump-reviewing-new-iranian-proposal-to-end-war-skeptical-it-will-work
   headline: Trump reviewing new Iranian proposal to end war, skeptical it will work
   publish_date: '2026-05-03'
@@ -146,46 +145,12 @@ related_stories:
   publish_date: '2026-04-04'
   relation: related
   strength: 0.6766
-- slug: 2026-05-02-trump-rejects-iran-s-latest-proposal-still-not-satisfied-to-end-war
-  headline: Trump rejects Iran’s latest proposal, still not satisfied to end war
-  publish_date: '2026-05-02'
-  relation: related
-  strength: 0.6267
-- slug: 2026-04-06-rubio-revokes-green-cards-and-visas-tied-to-iran-government-ice-arrests
-  headline: Rubio revokes green cards and visas tied to Iran government, ICE arrests
-  publish_date: '2026-04-06'
-  relation: related
-  strength: 0.6476
-- slug: 2026-04-08-us-and-iran-agree-to-a-two-week-ceasefire-as-trump-steps-back-on-threats
-  headline: US and Iran agree to a two-week ceasefire as Trump steps back on threats
-  publish_date: '2026-04-08'
-  relation: related
-  strength: 0.6258
-- slug: 2026-04-05-rubio-revokes-soleimani-relatives-u-s-green-cards-and-visas
-  headline: Rubio revokes Soleimani relatives’ U.S. green cards and visas
-  publish_date: '2026-04-05'
-  relation: related
-  strength: 0.6289
-- slug: 2026-04-08-trump-delays-iran-deadline-suspends-threats-before-8-p-m-et
-  headline: Trump delays Iran deadline, suspends threats before 8 p.m. ET
-  publish_date: '2026-04-08'
-  relation: related
-  strength: 0.6237
-- slug: 2026-03-18-last-immigrant-detained-in-trump-campus-crackdown-is-freed-on-bond
-  headline: Last immigrant detained in Trump campus crackdown is freed on bond
-  publish_date: '2026-03-18'
-  relation: related
-  strength: 0.6462
 - slug: 2026-01-16-trump-thanks-iran-for-halting-planned-mass-executions-as-protest-toll-hits-2-797
-  headline: Trump thanks Iran for halting planned mass executions as protest toll hits 2,797
+  headline: Trump thanks Iran for halting planned mass executions as protest toll
+    hits 2,797
   publish_date: '2026-01-16'
   relation: related
   strength: 0.6789
-- slug: 2026-03-15-palestinian-protester-leqaa-kordia-released-from-u-s-immigration-detention
-  headline: Palestinian protester Leqaa Kordia released from U.S. immigration detention
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.6424
 - slug: 2026-01-14-trump-claims-iran-executions-stopped-as-tehran-signals-fast-trials-ahead
   headline: Trump claims Iran executions 'stopped' as Tehran signals fast trials ahead
   publish_date: '2026-01-14'
@@ -196,38 +161,26 @@ related_stories:
   publish_date: '2026-01-13'
   relation: related
   strength: 0.6757
-- slug: 2026-03-07-six-americans-held-in-iran-face-danger-as-war-escalates-families-say
-  headline: Six Americans held in Iran face danger as war escalates, families say
-  publish_date: '2026-03-07'
-  relation: related
-  strength: 0.6299
 - slug: 2026-01-14-trump-claims-iran-protest-killings-stopped-as-tehran-signals-mass-executions-ahe
-  headline: Trump claims Iran protest killings 'stopped' as Tehran signals mass executions ahead
+  headline: Trump claims Iran protest killings 'stopped' as Tehran signals mass executions
+    ahead
   publish_date: '2026-01-14'
   relation: related
   strength: 0.6559
-- slug: 2026-02-23-woman-adopted-by-u-s-war-veteran-faces-deportation-to-iran
-  headline: Woman adopted by U.S. war veteran faces deportation to Iran
-  publish_date: '2026-02-23'
-  relation: related
-  strength: 0.6348
-- slug: 2026-01-13-trump-holds-off-on-iran-military-strike-imposes-tariffs-as-private-talks-explore
-  headline: Trump holds off on Iran military strike, imposes tariffs as private talks explored
-  publish_date: '2026-01-13'
-  relation: related
-  strength: 0.6472
 image:
   url: /articles/2026-07-16-trump-announces-release-of-american-citizen-from-iran-calls-it-gesture-of-goodwi.png
-  alt: "Illustration accompanying article: Trump announces release of American citizen from Iran, calls it 'gesture of Goodwill'"
+  alt: 'Illustration accompanying article: Trump announces release of American citizen
+    from Iran, calls it ''gesture of Goodwill'''
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:openai/gpt-5.4-image-2"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
-
 **Subtype:** fact
 
 - President Donald Trump said Iran has released Dena Karari, a dual US-Iranian citizen detained since December 2024, calling the move a "gesture of Goodwill" by Tehran.
