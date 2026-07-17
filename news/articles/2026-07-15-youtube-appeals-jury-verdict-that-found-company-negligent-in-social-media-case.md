@@ -1,9 +1,18 @@
 ---
-headline: YouTube appeals jury verdict that found company negligent in social media case
-secondary_headline: Jury assigned negligence to Google-owned YouTube and Meta in case brought by a 20-year-old plaintiff
+headline: YouTube appeals jury verdict that found company negligent in social media
+  case
+secondary_headline: Jury assigned negligence to Google-owned YouTube and Meta in case
+  brought by a 20-year-old plaintiff
 publish_date: '2026-07-15'
-lede: YouTube filed a notice of appeal Monday in Los Angeles County Superior Court, challenging a March jury verdict that found the company negligent in a case brought by a 20-year-old woman who said she became addicted to social media as a child. The appeal comes less than a week after Meta, the other defendant in the case, filed its own challenge to the same verdict.
-nut_graf: The case, the first of its kind to reach a jury, is expected to influence thousands of similar lawsuits accusing social media companies of causing harm to minors. Both companies are now pursuing appeals after the trial judge denied their motions for a new trial in early June.
+lede: YouTube filed a notice of appeal Monday in Los Angeles County Superior Court,
+  challenging a March jury verdict that found the company negligent in a case brought
+  by a 20-year-old woman who said she became addicted to social media as a child.
+  The appeal comes less than a week after Meta, the other defendant in the case, filed
+  its own challenge to the same verdict.
+nut_graf: The case, the first of its kind to reach a jury, is expected to influence
+  thousands of similar lawsuits accusing social media companies of causing harm to
+  minors. Both companies are now pursuing appeals after the trial judge denied their
+  motions for a new trial in early June.
 primary_entities:
 - YouTube
 - Meta
@@ -40,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -122,32 +132,34 @@ related_stories:
   headline: Meta appeals verdict that found platforms harmed young user
   publish_date: '2026-07-10'
   relation: related
-  strength: 0.8816
+  strength: 0.8825
 - slug: 2026-06-23-youtube-settles-social-media-addiction-lawsuit-brought-by-florida-teen
   headline: YouTube settles social media addiction lawsuit brought by Florida teen
   publish_date: '2026-06-23'
   relation: related
-  strength: 0.7937
+  strength: 0.7968
 - slug: 2026-06-11-key-social-media-lawsuits-could-reshape-platform-operations-as-trials-approach
-  headline: Key social media lawsuits could reshape platform operations as trials approach
+  headline: Key social media lawsuits could reshape platform operations as trials
+    approach
   publish_date: '2026-06-11'
   relation: related
-  strength: 0.739
+  strength: 0.7448
 - slug: 2026-03-27-jury-finds-instagram-and-youtube-liable-in-landmark-social-media-addiction-trial
-  headline: Jury finds Instagram and YouTube liable in landmark social media addiction trial
+  headline: Jury finds Instagram and YouTube liable in landmark social media addiction
+    trial
   publish_date: '2026-03-27'
   relation: related
-  strength: 0.8237
+  strength: 0.8246
 - slug: 2026-03-27-verdicts-against-meta-and-youtube-raise-questions-about-child-safety-online
   headline: Verdicts against Meta and YouTube raise questions about child safety online
   publish_date: '2026-03-27'
   relation: related
-  strength: 0.8229
+  strength: 0.8235
 - slug: 2026-05-16-senate-calls-tech-ceos-to-testify-on-social-media-risks-to-children
   headline: Senate calls tech CEOs to testify on social media risks to children
   publish_date: '2026-05-16'
   relation: related
-  strength: 0.6938
+  strength: 0.6995
 - slug: 2026-03-13-closing-arguments-begin-in-landmark-social-media-trial-set-in-los-angeles
   headline: Closing arguments begin in landmark social media trial set in Los Angeles
   publish_date: '2026-03-13'
@@ -157,70 +169,8 @@ related_stories:
   headline: Trial could change Meta apps and algorithms as New Mexico seeks safeguards
   publish_date: '2026-05-03'
   relation: related
-  strength: 0.6926
-- slug: 2026-03-27-jury-finds-meta-and-youtube-liable-in-landmark-child-safety-cases
-  headline: Jury finds Meta and YouTube liable in landmark child-safety cases
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.748
-- slug: 2026-03-24-new-mexico-jury-finds-meta-knowingly-harmed-children-to-face-may-phase
-  headline: New Mexico jury finds Meta knowingly harmed children, to face May phase
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.7425
-- slug: 2026-03-24-social-media-firms-await-more-legal-decisions-as-meta-faces-penalties
-  headline: Social media firms await more legal decisions as Meta faces penalties
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.7425
-- slug: 2026-05-02-meta-says-it-could-shut-down-social-media-platforms-in-new-mexico
-  headline: Meta says it could shut down social media platforms in New Mexico
-  publish_date: '2026-05-02'
-  relation: related
-  strength: 0.6813
-- slug: 2026-03-25-social-media-firms-await-more-legal-decisions-after-new-mexico-meta-verdict
-  headline: Social media firms await more legal decisions after New Mexico Meta verdict
-  publish_date: '2026-03-25'
-  relation: related
-  strength: 0.7361
-- slug: 2026-03-27-jury-finds-meta-and-youtube-liable-pediatricians-urge-parent-talk-first
-  headline: Jury finds Meta and YouTube liable; pediatricians urge parent “talk first”
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.7317
-- slug: 2026-03-26-social-media-firms-await-more-legal-decisions-after-meta-child-safety-verdict
-  headline: Social media firms await more legal decisions after Meta child-safety verdict
-  publish_date: '2026-03-26'
-  relation: related
-  strength: 0.7326
-- slug: 2026-03-26-colorado-mother-celebrates-juries-verdicts-against-meta-and-youtube
-  headline: Colorado mother celebrates juries’ verdicts against Meta and YouTube
-  publish_date: '2026-03-26'
-  relation: related
-  strength: 0.7121
-- slug: 2026-03-25-new-mexico-jury-finds-meta-liable-for-harming-children-s-mental-health
-  headline: New Mexico jury finds Meta liable for harming children’s mental health
-  publish_date: '2026-03-25'
-  relation: related
-  strength: 0.7032
-- slug: 2026-01-30-social-media-giants-face-landmark-youth-addiction-trial-after-tiktok-settles
-  headline: Social media giants face landmark youth addiction trial after TikTok settles
-  publish_date: '2026-01-30'
-  relation: related
-  strength: 0.7419
-- slug: 2026-03-27-parents-seek-changes-after-juries-find-meta-failed-to-protect-users
-  headline: Parents seek changes after juries find Meta failed to protect users
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.6962
-- slug: 2026-02-11-landmark-social-media-addiction-trial-begins-in-los-angeles
-  headline: Landmark social media addiction trial begins in Los Angeles
-  publish_date: '2026-02-11'
-  relation: related
-  strength: 0.7306
+  strength: 0.6934
 ---
-
-
 **Subtype:** fact
 
 - YouTube filed a notice of appeal Monday in Los Angeles County Superior Court, challenging a March jury verdict that assigned negligence to the company in a case brought by a 20-year-old plaintiff.

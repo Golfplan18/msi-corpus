@@ -1,9 +1,17 @@
 ---
-headline: AI chatbots more likely to refuse criticism of restrictive governments, study finds
-secondary_headline: Meta Oversight Board report flags global speech risks from model training data
+headline: AI chatbots more likely to refuse criticism of restrictive governments,
+  study finds
+secondary_headline: Meta Oversight Board report flags global speech risks from model
+  training data
 publish_date: '2026-07-16'
-lede: Major AI systems, including U.S.-built chatbots, are more likely to refuse to criticize restrictive leaders or governments than democratic ones, according to a Meta Oversight Board study released Thursday, raising concerns that the technology could spread government influence over online speech worldwide.
-nut_graf: 'The findings from the quasi-independent body point to a structural risk in how large language models absorb training data from the web: state-controlled media ecosystems can leave detectable traces in model behavior, potentially extending government censorship beyond national borders.'
+lede: Major AI systems, including U.S.-built chatbots, are more likely to refuse to
+  criticize restrictive leaders or governments than democratic ones, according to
+  a Meta Oversight Board study released Thursday, raising concerns that the technology
+  could spread government influence over online speech worldwide.
+nut_graf: 'The findings from the quasi-independent body point to a structural risk
+  in how large language models absorb training data from the web: state-controlled
+  media ecosystems can leave detectable traces in model behavior, potentially extending
+  government censorship beyond national borders.'
 primary_entities:
 - Meta Oversight Board
 - Anthropic
@@ -35,7 +43,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -117,104 +126,46 @@ related_stories:
   headline: Anthropic and OpenAI navigate divergent federal challenges near IPOs
   publish_date: '2026-07-08'
   relation: related
-  strength: 0.6762
+  strength: 0.6757
 - slug: 2026-07-09-china-weighs-limits-on-overseas-access-to-its-ai-models
   headline: China weighs limits on overseas access to its AI models
   publish_date: '2026-07-09'
   relation: related
-  strength: 0.6666
-- slug: 2026-07-09-openai-releases-chatgpt-5-6-after-white-house-cybersecurity-delay
-  headline: OpenAI releases ChatGPT 5.6 after White House cybersecurity delay
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.6477
+  strength: 0.6662
 - slug: 2026-06-27-psychiatrists-pinpoint-three-ai-chatbot-behaviors-linked-to-delusions
   headline: Psychiatrists pinpoint three AI chatbot behaviors linked to delusions
   publish_date: '2026-06-27'
   relation: related
-  strength: 0.7033
+  strength: 0.7035
 - slug: 2026-06-19-over-reliance-on-chatbots-can-diminish-critical-thinking-skills-mit-study-finds
-  headline: Over-reliance on chatbots can diminish critical-thinking skills, MIT study finds
+  headline: Over-reliance on chatbots can diminish critical-thinking skills, MIT study
+    finds
   publish_date: '2026-06-19'
   relation: related
-  strength: 0.7346
+  strength: 0.7347
 - slug: 2026-06-24-ai-entrepreneurs-pivot-from-chatbots-to-building-physical-ai-systems
   headline: AI entrepreneurs pivot from chatbots to building 'physical AI' systems
   publish_date: '2026-06-24'
   relation: related
-  strength: 0.6573
+  strength: 0.6574
 - slug: 2026-06-24-anthropic-s-mythos-ai-finds-vulnerabilities-in-classified-u-s-systems-during-tes
-  headline: Anthropic’s Mythos AI finds vulnerabilities in classified U.S. systems during test
+  headline: Anthropic’s Mythos AI finds vulnerabilities in classified U.S. systems
+    during test
   publish_date: '2026-06-24'
   relation: related
-  strength: 0.6509
+  strength: 0.6507
 - slug: 2026-06-17-as-white-house-restricts-anthropic-ai-researcher-warns-of-chernobyl-scale-risk
-  headline: As White House restricts Anthropic AI, researcher warns of 'Chernobyl-scale' risk
+  headline: As White House restricts Anthropic AI, researcher warns of 'Chernobyl-scale'
+    risk
   publish_date: '2026-06-17'
   relation: related
-  strength: 0.6704
+  strength: 0.6697
 - slug: 2026-06-15-cybersecurity-experts-urge-white-house-to-reverse-anthropic-ai-restrictions
   headline: Cybersecurity experts urge White House to reverse Anthropic AI restrictions
   publish_date: '2026-06-15'
   relation: related
-  strength: 0.6637
-- slug: 2026-06-05-anthropic-urges-industry-coordination-to-pause-advanced-ai-development
-  headline: Anthropic urges industry coordination to pause advanced AI development
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.6927
-- slug: 2026-05-23-trump-postpones-ai-executive-order-days-after-concerns-over-cybersecurity-and-sp
-  headline: Trump postpones AI executive order days after concerns over cybersecurity and speed
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6556
-- slug: 2026-05-10-google-disrupts-ai-driven-cyberattack-exploiting-unknown-software-vulnerability
-  headline: Google disrupts AI-driven cyberattack exploiting unknown software vulnerability
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6614
-- slug: 2026-05-08-tech-companies-increasingly-seek-faith-leaders-guidance-on-ai-ethics
-  headline: Tech companies increasingly seek faith leaders' guidance on AI ethics
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.6528
-- slug: 2026-04-01-new-study-finds-ai-chatbots-give-bad-advice-by-flattering-users
-  headline: New study finds AI chatbots give bad advice by flattering users
-  publish_date: '2026-04-01'
-  relation: related
-  strength: 0.7144
-- slug: 2026-03-27-study-in-science-finds-chatbots-flatter-users-and-push-harmful-advice
-  headline: Study in Science finds chatbots flatter users—and push harmful advice
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.7121
-- slug: 2026-04-17-lawmakers-air-ai-angst-and-safety-fears-at-house-roundtable
-  headline: Lawmakers air AI ‘angst’ and safety fears at House roundtable
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.6512
-- slug: 2026-04-16-lawmakers-raise-ai-safety-fears-at-house-oversight-subcommittee-roundtable
-  headline: Lawmakers raise AI safety fears at House Oversight subcommittee roundtable
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.6484
-- slug: 2026-03-04-anthropic-s-pentagon-standoff-boosts-reputation-but-raises-ai-war-readiness-ques
-  headline: Anthropic’s Pentagon standoff boosts reputation but raises AI-war readiness questions
-  publish_date: '2026-03-04'
-  relation: related
-  strength: 0.6863
-- slug: 2026-03-27-federal-judge-blocks-pentagon-from-labeling-anthropic-a-supply-chain-risk
-  headline: Federal judge blocks Pentagon from labeling Anthropic a supply-chain risk
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.6497
-- slug: 2026-02-26-hegseth-pressures-anthropic-to-expand-military-access-to-ai-tech
-  headline: Hegseth pressures Anthropic to expand military access to AI tech
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.6734
+  strength: 0.6635
 ---
-
 ## Meta Oversight Board report flags global speech risks from model training data
 
 **Subtype:** fact

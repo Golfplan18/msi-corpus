@@ -1,9 +1,13 @@
 ---
-headline: US stocks rise as June inflation slows to 3.5%, easing pressure for rate hikes
+headline: US stocks rise as June inflation slows to 3.5%, easing pressure for rate
+  hikes
 secondary_headline: Nasdaq composite climbs 0.9% to 26,107.01 as bond yields fall
 publish_date: '2026-07-14'
-lede: U.S. stocks rose Tuesday after a government report showed consumer price inflation slowed more than economists expected in June, easing pressure on the Federal Reserve to raise interest rates even as oil prices continued to climb on U.S.-Iran war worries.
-nut_graf: The pullback in inflation and falling bond yields reduced traders' expectations for a near-term rate increase, spurring buying across equities.
+lede: U.S. stocks rose Tuesday after a government report showed consumer price inflation
+  slowed more than economists expected in June, easing pressure on the Federal Reserve
+  to raise interest rates even as oil prices continued to climb on U.S.-Iran war worries.
+nut_graf: The pullback in inflation and falling bond yields reduced traders' expectations
+  for a near-term rate increase, spurring buying across equities.
 primary_entities:
 - S&P 500
 - Dow Jones Industrial Average
@@ -40,7 +44,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -74,7 +79,8 @@ related_stories:
   relation: related
   strength: 0.7837
 - slug: 2026-05-21-wall-street-rises-for-eighth-straight-week-as-consumer-sentiment-hits-record-low
-  headline: Wall Street rises for eighth straight week as consumer sentiment hits record low
+  headline: Wall Street rises for eighth straight week as consumer sentiment hits
+    record low
   publish_date: '2026-05-21'
   relation: related
   strength: 0.7756
@@ -89,86 +95,30 @@ related_stories:
   relation: related
   strength: 0.7587
 - slug: 2026-05-21-us-stocks-close-eighth-straight-winning-week-as-oil-eases-and-consumer-mood-sour
-  headline: US stocks close eighth straight winning week as oil eases and consumer mood sours
+  headline: US stocks close eighth straight winning week as oil eases and consumer
+    mood sours
   publish_date: '2026-05-21'
   relation: related
   strength: 0.7575
-- slug: 2026-05-22-oil-eases-and-yields-fall-helping-us-stocks-erase-early-losses
-  headline: Oil eases and yields fall, helping US stocks erase early losses
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.7496
 - slug: 2026-05-19-us-stocks-recover-as-bond-pressure-eases-and-oil-prices-fall
   headline: US stocks recover as bond pressure eases and oil prices fall
   publish_date: '2026-05-19'
   relation: related
   strength: 0.7577
-- slug: 2026-05-20-us-stocks-rebound-as-yields-ease-and-oil-prices-pull-back
-  headline: US stocks rebound as yields ease and oil prices pull back
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.7524
-- slug: 2026-04-09-u-s-stocks-rise-as-oil-trims-gains-on-ceasefire-hopes-with-iran
-  headline: U.S. stocks rise as oil trims gains on ceasefire hopes with Iran
-  publish_date: '2026-04-09'
-  relation: related
-  strength: 0.8019
-- slug: 2026-04-08-us-stocks-rise-as-oil-trims-gains-on-ceasefire-hopes-with-iran
-  headline: US stocks rise as oil trims gains on ceasefire hopes with Iran
-  publish_date: '2026-04-08'
-  relation: related
-  strength: 0.7997
-- slug: 2026-04-15-wall-street-climbs-near-record-as-oil-eases-on-renewed-u-s--iran-talks
-  headline: Wall Street climbs near record as oil eases on renewed U.S.-Iran talks
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.7864
-- slug: 2026-04-10-us-stocks-rise-as-oil-trims-gains-on-hopes-for-us-iran-ceasefire
-  headline: US stocks rise as oil trims gains on hopes for US-Iran ceasefire
-  publish_date: '2026-04-10'
-  relation: related
-  strength: 0.7803
-- slug: 2026-04-14-wall-street-rallies-as-oil-prices-ease-on-u-s--iran-talk-hopes
-  headline: Wall Street Rallies as Oil Prices Ease on U.S.-Iran Talk Hopes
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.7706
-- slug: 2026-04-23-wall-street-sets-records-as-iran-war-cools-inflation-fears-and-boosts-profits
-  headline: Wall Street sets records as Iran war cools inflation fears and boosts profits
-  publish_date: '2026-04-23'
-  relation: related
-  strength: 0.7517
-- slug: 2026-04-13-wall-street-rallies-toward-record-as-oil-eases-on-renewed-iran-talks-hopes
-  headline: Wall Street rallies toward record as oil eases on renewed Iran talks hopes
-  publish_date: '2026-04-13'
-  relation: related
-  strength: 0.7637
-- slug: 2026-03-25-stocks-climb-and-oil-eases-as-markets-react-to-iran-war-uncertainty
-  headline: Stocks climb and oil eases as markets react to Iran-war uncertainty
-  publish_date: '2026-03-25'
-  relation: related
-  strength: 0.7836
-- slug: 2026-03-24-stocks-rise-and-oil-eases-as-wall-street-swings-on-iran-war-uncertainty
-  headline: Stocks rise and oil eases as Wall Street swings on Iran war uncertainty
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.7824
-- slug: 2026-04-01-dow-surges-1-125-points-as-market-prices-hopes-for-iran-war-end
-  headline: Dow surges 1,125 points as market prices hopes for Iran war end
-  publish_date: '2026-04-01'
-  relation: related
-  strength: 0.7703
 image:
   url: /articles/2026-07-14-us-stocks-rise-as-june-inflation-slows-to-3-5-easing-pressure-for-rate-hikes.png
-  alt: "Illustration accompanying article: US stocks rise as June inflation slows to 3.5%, easing pressure for rate hikes"
+  alt: 'Illustration accompanying article: US stocks rise as June inflation slows
+    to 3.5%, easing pressure for rate hikes'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:openai/gpt-5.4-image-2"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 **Subtype:** fact
 
 - The U.S. consumer price index rose 3.5% in June from a year earlier, down from 4.2% in May, according to the government report.

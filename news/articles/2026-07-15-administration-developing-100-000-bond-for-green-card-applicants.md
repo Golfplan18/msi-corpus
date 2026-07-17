@@ -126,6 +126,7 @@ related_stories:
   strength: 0.7338
 analyses:
 - '2026-07-15-pay-to-play-the-100-000-green-card-bond-and-the-architecture-of-exclusion'
+- '2026-07-15-100-000-green-card-bond-proposal-shifts-immigration-screening-from-behavior-to-l'
 ---
 **Subtype:** fact
 
@@ -180,3 +181,8 @@ The State Department has described the program as an early success, saying rough
 
 <!-- analysis-link:2026-07-15-pay-to-play-the-100-000-green-card-bond-and-the-architecture-of-exclusion -->
 **Going deeper:** [Read MSI's analysis of Analysis: The bond converts immigration screening from a behavioral assessment into a liquidity test, with the burden falling on citizen sponsors and the design structurally insulated from any single reversal. →](/analyses/2026-07-15-pay-to-play-the-100-000-green-card-bond-and-the-architecture-of-exclusion)
+
+---
+
+<!-- analysis-link:2026-07-15-100-000-green-card-bond-proposal-shifts-immigration-screening-from-behavior-to-l -->
+**Going deeper:** [Read MSI's analysis of Immigration — executive action — financial barriers →](/analyses/2026-07-15-100-000-green-card-bond-proposal-shifts-immigration-screening-from-behavior-to-l)

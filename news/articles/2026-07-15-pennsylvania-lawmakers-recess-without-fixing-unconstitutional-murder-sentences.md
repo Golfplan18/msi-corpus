@@ -1,9 +1,15 @@
 ---
 headline: Pennsylvania lawmakers recess without fixing unconstitutional murder sentences
-secondary_headline: Roughly 1,000 inmates remain in limbo as Supreme Court’s July 24 deadline nears
+secondary_headline: Roughly 1,000 inmates remain in limbo as Supreme Court’s July
+  24 deadline nears
 publish_date: '2026-07-15'
-lede: Pennsylvania lawmakers went on summer recess Sunday without enacting legislation that would replace the state’s unconstitutional mandatory life sentences for second-degree murder, leaving the fate of roughly 1,000 inmates uncertain and making it nearly certain the state will miss a July 24 deadline set by the Pennsylvania Supreme Court.
-nut_graf: The inaction prolongs an unconstitutional sentencing regime that the state’s highest court ruled is unnecessarily cruel, and leaves the Legislature racing against a deadline that now appears unreachable.
+lede: Pennsylvania lawmakers went on summer recess Sunday without enacting legislation
+  that would replace the state’s unconstitutional mandatory life sentences for second-degree
+  murder, leaving the fate of roughly 1,000 inmates uncertain and making it nearly
+  certain the state will miss a July 24 deadline set by the Pennsylvania Supreme Court.
+nut_graf: The inaction prolongs an unconstitutional sentencing regime that the state’s
+  highest court ruled is unnecessarily cruel, and leaves the Legislature racing against
+  a deadline that now appears unreachable.
 primary_entities:
 - Pennsylvania
 - Pennsylvania Supreme Court
@@ -33,7 +39,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -131,108 +138,13 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-07-13-florida-to-execute-elderly-inmates-in-july-as-death-row-ages
-  headline: Florida to execute elderly inmates in July as death row ages
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.5659
-- slug: 2026-06-23-supreme-court-ruling-could-return-man-freed-through-compassionate-release-to-pri
-  headline: Supreme Court ruling could return man freed through compassionate release to prison
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.5913
-- slug: 2026-06-16-ohio-gov-dewine-calls-on-state-legislature-to-abolish-death-penalty
-  headline: Ohio Gov. DeWine calls on state legislature to abolish death penalty
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.6035
-- slug: 2026-06-11-appeals-court-blocks-alabama-nitrogen-hypoxia-execution-state-may-use-other-meth
-  headline: Appeals court blocks Alabama nitrogen hypoxia execution; state may use other methods
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.5928
 - slug: 2026-03-27-pennsylvania-high-court-requires-individualized-sentencing-for-second-degree-mur
-  headline: Pennsylvania high court requires individualized sentencing for second-degree murder
+  headline: Pennsylvania high court requires individualized sentencing for second-degree
+    murder
   publish_date: '2026-03-27'
   relation: related
   strength: 0.7401
-- slug: 2026-05-20-tennessee-death-row-inmate-s-lawyers-fear-expired-lethal-injection-drugs-ahead-o
-  headline: Tennessee death row inmate’s lawyers fear expired lethal injection drugs ahead of execution
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.6046
-- slug: 2026-05-22-tennessee-inmate-s-lawyers-fear-expired-lethal-injection-drugs-ahead-of-executio
-  headline: Tennessee inmate’s lawyers fear expired lethal injection drugs ahead of execution
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.5856
-- slug: 2026-05-22-tennessee-halts-execution-after-failed-iv-insertion-reprieve-granted
-  headline: Tennessee Halts Execution After Failed IV Insertion; Reprieve Granted
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.5736
-- slug: 2026-05-20-tennessee-inmate-lawyers-fear-expired-lethal-injection-drugs-ahead-of-execution
-  headline: Tennessee inmate lawyers fear expired lethal injection drugs ahead of execution
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.5763
-- slug: 2026-05-21-supreme-court-dismisses-alabama-bid-to-execute-inmate-with-intellectual-disabili
-  headline: Supreme Court dismisses Alabama bid to execute inmate with intellectual disability
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.5681
-- slug: 2026-05-20-gop-rift-over-trump-1-8b-settlement-fund-delays-immigration-bill
-  headline: GOP rift over Trump $1.8B settlement fund delays immigration bill
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.563
-- slug: 2026-05-20-tennessee-halts-execution-of-tony-carruthers-after-failing-to-find-vein-for-iv-l
-  headline: Tennessee halts execution of Tony Carruthers after failing to find vein for IV line
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.5611
-- slug: 2026-05-13-maine-s-ranked-choice-voting-remains-in-constitutional-limbo-with-no-clear-path-
-  headline: Maine's ranked-choice voting remains in constitutional limbo, with no clear path forward
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.5708
-- slug: 2026-04-23-california-lawmakers-seek-to-raise-elderly-parole-age-for-sex-offenders
-  headline: California lawmakers seek to raise elderly parole age for sex offenders
-  publish_date: '2026-04-23'
-  relation: related
-  strength: 0.5732
-- slug: 2026-04-22-california-lawmakers-rush-to-change-elderly-parole-rules-for-sex-offenders
-  headline: California lawmakers rush to change elderly parole rules for sex offenders
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.5678
-- slug: 2026-04-15-illinois-lawmakers-refuse-to-accept-corrections-audit-findings-demand-agency-ret
-  headline: Illinois lawmakers refuse to accept corrections audit findings, demand agency return
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.5625
-- slug: 2026-03-02-alabama-death-row-inmate-michael-sockwell-to-get-new-trial-after-scotus
-  headline: Alabama death row inmate Michael Sockwell to get new trial after SCOTUS
-  publish_date: '2026-03-02'
-  relation: related
-  strength: 0.5917
-- slug: 2026-02-06-alabama-moves-to-allow-death-penalty-for-child-rape-convictions
-  headline: Alabama moves to allow death penalty for child rape convictions
-  publish_date: '2026-02-06'
-  relation: related
-  strength: 0.6051
-- slug: 2026-03-20-texas-jails-miss-release-deadlines-leaving-inmates-held-past-sentences
-  headline: Texas jails miss release deadlines, leaving inmates held past sentences
-  publish_date: '2026-03-20'
-  relation: related
-  strength: 0.5715
-- slug: 2026-03-10-alabama-governor-commutes-death-sentence-of-man-who-didn-t-fire-fatal-shot
-  headline: Alabama governor commutes death sentence of man who didn't fire fatal shot
-  publish_date: '2026-03-10'
-  relation: related
-  strength: 0.5738
 ---
-
 **Subtype:** fact
 
 - Pennsylvania lawmakers recessed Sunday without passing legislation to fix the state’s unconstitutional sentencing scheme for second-degree murder.

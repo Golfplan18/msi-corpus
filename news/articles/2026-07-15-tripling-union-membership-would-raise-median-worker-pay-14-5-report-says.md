@@ -142,6 +142,7 @@ related_stories:
   strength: 0.6621
 analyses:
 - '2026-07-15-behind-the-1-2tn-union-wage-projection-a-self-reinforcing-cycle-bars-the-path'
+- '2026-07-15-the-1-2-trillion-union-wage-projection-is-a-hostage-of-its-own-assumptions'
 ---
 **Subtype:** fact
 
@@ -185,3 +186,8 @@ Beyond wages, the report cites benefits to personal health and wellbeing. States
 
 <!-- analysis-link:2026-07-15-behind-the-1-2tn-union-wage-projection-a-self-reinforcing-cycle-bars-the-path -->
 **Going deeper:** [Read MSI's analysis of the political economy of union density →](/analyses/2026-07-15-behind-the-1-2tn-union-wage-projection-a-self-reinforcing-cycle-bars-the-path)
+
+---
+
+<!-- analysis-link:2026-07-15-the-1-2-trillion-union-wage-projection-is-a-hostage-of-its-own-assumptions -->
+**Going deeper:** [Read MSI's analysis of The Economic Policy Institute report projects that tripling union density to 30% would raise median pay by 14.5% and shift $1.2tn to workers annually. But the report's own data shows that the political conditions required to reach 30% density are prevented by the low density the projection assumes will be reversed. The probability-weighted outcome is roughly one-third of the headline figure — making the $1.2tn a measure of lost potential, not attainable gain. →](/analyses/2026-07-15-the-1-2-trillion-union-wage-projection-is-a-hostage-of-its-own-assumptions)

@@ -2,8 +2,14 @@
 headline: KOSPI drops 6.4% after BOK rate hike, U.S.-Iran strikes
 secondary_headline: Seoul market reverses Wednesday's 6.24% surge on profit-taking
 publish_date: '2026-07-16'
-lede: Seoul's benchmark KOSPI index fell 6.37% on Thursday, closing at 6,820.60, amid profit-taking, U.S. strikes on Iran, and a Bank of Korea rate hike. The Korea Exchange activated a sell-side sidecar for 20 minutes after the index dropped more than 5% in early trading. The decline followed a 6.24% surge the previous session, as softer-than-expected U.S. inflation data had eased concerns about Federal Reserve rate hikes.
-nut_graf: Thursday's decline came as the Bank of Korea raised its benchmark rate for the first time in 3½ years, the U.S. launched fresh strikes on Iran, and investors took profits after technology stocks surged the prior session.
+lede: Seoul's benchmark KOSPI index fell 6.37% on Thursday, closing at 6,820.60, amid
+  profit-taking, U.S. strikes on Iran, and a Bank of Korea rate hike. The Korea Exchange
+  activated a sell-side sidecar for 20 minutes after the index dropped more than 5%
+  in early trading. The decline followed a 6.24% surge the previous session, as softer-than-expected
+  U.S. inflation data had eased concerns about Federal Reserve rate hikes.
+nut_graf: Thursday's decline came as the Bank of Korea raised its benchmark rate for
+  the first time in 3½ years, the U.S. launched fresh strikes on Iran, and investors
+  took profits after technology stocks surged the prior session.
 primary_entities:
 - South Korea
 - KOSPI
@@ -41,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,105 +150,44 @@ related_stories:
   headline: KOSPI slides 6.4% into bear market as AI chip selloff spreads
   publish_date: '2026-07-16'
   relation: related
-  strength: 0.7982
+  strength: 0.7992
 - slug: 2026-07-13-kospi-falls-8-95-on-tech-losses-as-u-s-and-iran-exchange-strikes-over-strait-of-
-  headline: KOSPI falls 8.95% on tech losses as U.S. and Iran exchange strikes over Strait of Hormuz
+  headline: KOSPI falls 8.95% on tech losses as U.S. and Iran exchange strikes over
+    Strait of Hormuz
   publish_date: '2026-07-13'
   relation: related
-  strength: 0.8184
+  strength: 0.8189
 - slug: 2026-07-07-kospi-falls-nearly-5-on-tech-weakness-after-samsung-earnings-beat
   headline: KOSPI falls nearly 5% on tech weakness after Samsung earnings beat
   publish_date: '2026-07-07'
   relation: related
-  strength: 0.828
+  strength: 0.8272
 - slug: 2026-07-10-third-trading-curb-this-week-halts-kospi-on-chip-rally
   headline: Third trading curb this week halts KOSPI on chip rally
   publish_date: '2026-07-10'
   relation: related
-  strength: 0.7843
+  strength: 0.7842
 - slug: 2026-07-16-bank-of-korea-raises-key-rate-to-2-75-first-hike-in-three-years
   headline: Bank of Korea raises key rate to 2.75%, first hike in three years
   publish_date: '2026-07-16'
   relation: related
-  strength: 0.7111
+  strength: 0.7107
 - slug: 2026-07-02-kospi-falls-7-89-as-ai-capacity-concerns-hit-chip-stocks
   headline: KOSPI falls 7.89% as AI capacity concerns hit chip stocks
   publish_date: '2026-07-02'
   relation: related
-  strength: 0.7942
+  strength: 0.7941
 - slug: 2026-06-23-kospi-crashes-10-as-tech-selloff-hits-south-korea
   headline: KOSPI crashes 10% as tech selloff hits South Korea
   publish_date: '2026-06-23'
   relation: related
-  strength: 0.8045
+  strength: 0.8048
 - slug: 2026-06-30-kospi-adds-0-97-on-tech-gains-as-us-iran-qatar-talks-loom
   headline: KOSPI adds 0.97% on tech gains as US-Iran Qatar talks loom
   publish_date: '2026-06-30'
   relation: related
-  strength: 0.7636
-- slug: 2026-07-13-wall-street-drops-as-chip-stocks-slide-4-8-oil-hits-83-on-iran-blockade
-  headline: Wall Street drops as chip stocks slide 4.8%, oil hits $83 on Iran blockade
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.6659
-- slug: 2026-06-18-seoul-s-kospi-tops-9-000-for-first-time-on-chip-rally-iran-war-hopes
-  headline: Seoul's KOSPI tops 9,000 for first time on chip rally, Iran war hopes
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.7936
-- slug: 2026-06-22-seoul-shares-close-at-fresh-peak-above-9-100-on-chip-gains-iran-talks
-  headline: Seoul shares close at fresh peak above 9,100 on chip gains, Iran talks
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.7712
-- slug: 2026-06-25-kospi-surges-over-5-reclaims-9-000-intraday-on-micron-earnings
-  headline: KOSPI surges over 5%, reclaims 9,000 intraday on Micron earnings
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.7502
-- slug: 2026-06-08-south-korean-stocks-crash-8-on-ai-profit-fears-fed-rate-concerns
-  headline: South Korean stocks crash 8% on AI profit fears, Fed rate concerns
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.8091
-- slug: 2026-06-12-seoul-stocks-spike-over-4-on-hopes-for-end-to-us-iran-war
-  headline: Seoul stocks spike over 4% on hopes for end to US-Iran war
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.787
-- slug: 2026-06-29-chipmakers-samsung-and-sk-hynix-lead-kospi-s-125-first-half-rally
-  headline: Chipmakers Samsung and SK Hynix lead Kospi's 125% first-half rally
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.7026
-- slug: 2026-06-09-seoul-shares-jump-over-8-on-ai-rebound-iran-israel-ceasefire
-  headline: Seoul shares jump over 8% on AI rebound, Iran-Israel ceasefire
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.7919
-- slug: 2026-07-08-dow-drops-500-points-as-trump-declares-iran-ceasefire-over
-  headline: Dow drops 500 points as Trump declares Iran ceasefire over
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.6419
-- slug: 2026-06-15-seoul-stocks-close-above-8-500-on-us-iran-peace-deal
-  headline: Seoul stocks close above 8,500 on US-Iran peace deal
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.7485
-- slug: 2026-06-08-asian-stocks-tumble-oil-jumps-as-middle-east-conflict-reignites
-  headline: Asian stocks tumble, oil jumps as Middle East conflict reignites
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.7692
-- slug: 2026-06-07-south-korean-won-slides-to-17-year-low-as-foreign-selling-accelerates
-  headline: South Korean won slides to 17-year low as foreign selling accelerates
-  publish_date: '2026-06-07'
-  relation: related
-  strength: 0.6693
+  strength: 0.763
 ---
-
-
 **Subtype:** fact
 
 - KOSPI fell 6.37% on Thursday, closing at 6,820.60, down 463.81 points from the previous session.

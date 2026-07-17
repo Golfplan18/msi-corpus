@@ -2,8 +2,13 @@
 headline: Sharpton, Martin Luther King III announce Aug. 28 March on Washington
 secondary_headline: Defend the Vote march set for 63rd anniversary of MLK's 1963 march
 publish_date: '2026-07-14'
-lede: The Rev. Al Sharpton's National Action Network and the family of the Rev. Martin Luther King Jr. announced plans Tuesday for a march on Washington on Aug. 28, marking the 63rd anniversary of the 1963 March on Washington, to rally for democracy and voting rights.
-nut_graf: '"Defending the vote means defending the foundation of our democracy," King III said in a statement. "Sixty-three years after my father stood at the Lincoln Memorial, we are called to march again, not only in remembrance, but in action."'
+lede: The Rev. Al Sharpton's National Action Network and the family of the Rev. Martin
+  Luther King Jr. announced plans Tuesday for a march on Washington on Aug. 28, marking
+  the 63rd anniversary of the 1963 March on Washington, to rally for democracy and
+  voting rights.
+nut_graf: '"Defending the vote means defending the foundation of our democracy," King
+  III said in a statement. "Sixty-three years after my father stood at the Lincoln
+  Memorial, we are called to march again, not only in remembrance, but in action."'
 primary_entities:
 - Al Sharpton
 - Martin Luther King III
@@ -44,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -79,103 +85,7 @@ related_stories:
   publish_date: '2026-07-15'
   relation: related
   strength: 0.8594
-- slug: 2026-07-04-patriot-front-marches-through-washington-dc-on-july-4
-  headline: Patriot Front marches through Washington DC on July 4
-  publish_date: '2026-07-04'
-  relation: related
-  strength: 0.6301
-- slug: 2026-06-28-trump-banners-fly-over-washington-as-america-marks-250th
-  headline: Trump banners fly over Washington as America marks 250th
-  publish_date: '2026-06-28'
-  relation: related
-  strength: 0.6019
-- slug: 2026-06-23-al-sharpton-opens-newly-renovated-harlem-headquarters-for-national-action-networ
-  headline: Al Sharpton opens newly renovated Harlem headquarters for National Action Network
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.5972
-- slug: 2026-06-15-trump-to-hold-rally-during-july-fourth-celebration-on-national-mall
-  headline: Trump to hold rally during July Fourth celebration on National Mall
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.6331
-- slug: 2026-06-14-historian-says-trump-is-desecrating-the-lincoln-memorial-with-ufc-event
-  headline: Historian says Trump is desecrating the Lincoln Memorial with UFC event
-  publish_date: '2026-06-14'
-  relation: related
-  strength: 0.6229
-- slug: 2026-05-16-civil-rights-leaders-plan-alabama-rally-to-defend-black-voting-power
-  headline: Civil rights leaders plan Alabama rally to defend Black voting power
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6079
-- slug: 2026-05-17-thousands-gather-on-national-mall-for-america-themed-prayer-rally
-  headline: Thousands gather on National Mall for America-themed prayer rally
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.5972
-- slug: 2026-05-17-thousands-rally-in-montgomery-to-defend-black-voting-power-after-scotus
-  headline: Thousands rally in Montgomery to defend Black voting power after SCOTUS
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.5915
-- slug: 2026-05-15-trump-administration-to-join-rededicate-250-prayer-event-on-national-mall
-  headline: Trump administration to join “Rededicate 250” prayer event on National Mall
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.5958
-- slug: 2026-05-17-thousands-rally-in-montgomery-against-voting-rights-rollbacks-calling-supreme-co
-  headline: Thousands rally in Montgomery against voting rights rollbacks, calling Supreme Court ruling a 'moral disgrace'
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.5893
-- slug: 2026-04-09-democrats-at-al-sharpton-conference-warn-of-trump-voting-rights-threat
-  headline: Democrats at Al Sharpton conference warn of Trump voting-rights threat
-  publish_date: '2026-04-09'
-  relation: related
-  strength: 0.6364
-- slug: 2026-04-30-king-charles-iii-tells-congress-uk-us-ties-are-interlinked-in-speech
-  headline: King Charles III tells Congress UK-US ties are ‘interlinked’ in speech
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.5908
-- slug: 2026-04-29-king-charles-meets-trump-and-urges-u-s-leaders-to-stay-engaged-globally
-  headline: King Charles meets Trump and urges U.S. leaders to stay engaged globally
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.5907
-- slug: 2026-04-02-king-charles-iii-to-deliver-address-to-u-s-congress-in-late-april
-  headline: King Charles III to deliver address to U.S. Congress in late April
-  publish_date: '2026-04-02'
-  relation: related
-  strength: 0.6221
-- slug: 2026-04-08-democrats-court-black-activists-at-al-sharpton-event-warn-of-2026-vote-crackdown
-  headline: Democrats court Black activists at Al Sharpton event, warn of 2026 vote crackdown
-  publish_date: '2026-04-08'
-  relation: related
-  strength: 0.6115
-- slug: 2026-04-20-eight-months-in-washington-s-national-guard-deployment-shows-no-end-in-sight
-  headline: Eight months in, Washington's National Guard deployment shows no end in sight
-  publish_date: '2026-04-20'
-  relation: related
-  strength: 0.5913
-- slug: 2026-01-19-communities-mark-mlk-day-at-40-years-as-trump-policies-renew-civil-rights-debate
-  headline: Communities mark MLK Day at 40 years as Trump policies renew civil rights debate
-  publish_date: '2026-01-19'
-  relation: related
-  strength: 0.6452
-- slug: 2026-02-28-civil-rights-marker-unveiled-at-historic-durkeeville-church-in-jacksonville
-  headline: Civil rights marker unveiled at historic Durkeeville church in Jacksonville
-  publish_date: '2026-02-28'
-  relation: related
-  strength: 0.619
-- slug: 2026-03-08-thousands-mark-bloody-sunday-s-61st-anniversary-as-voting-rights-act-faces-supre
-  headline: Thousands mark Bloody Sunday's 61st anniversary as Voting Rights Act faces Supreme Court test
-  publish_date: '2026-03-08'
-  relation: related
-  strength: 0.6072
 ---
-
 **Subtype:** fact
 
 - The Rev. Al Sharpton's National Action Network and Martin Luther King III announced a March on Washington for Aug. 28 to defend voting rights on the 63rd anniversary of the 1963 March on Washington.

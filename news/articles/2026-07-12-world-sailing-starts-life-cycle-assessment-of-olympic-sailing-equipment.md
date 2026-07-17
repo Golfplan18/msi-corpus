@@ -1,8 +1,16 @@
 ---
 headline: World Sailing starts life-cycle assessment of Olympic sailing equipment
 publish_date: '2026-07-12'
-lede: World Sailing, the global governing body for the sport, has launched a life-cycle assessment of Olympic-class sailing equipment to gauge the environmental toll from manufacturing through disposal. The first-of-its-kind study is intended to provide the evidence the organization needs to make smarter choices about equipment for future Olympic Games, according to Alexandra Rickham, the group's sustainability director.
-nut_graf: The project systematically measures the environmental footprint of Olympic sailing gear across its full life cycle — from production to disposal — for the first time, highlighting a contrast between the sport's wind-powered image and the industrial impact of its equipment.
+lede: World Sailing, the global governing body for the sport, has launched a life-cycle
+  assessment of Olympic-class sailing equipment to gauge the environmental toll from
+  manufacturing through disposal. The first-of-its-kind study is intended to provide
+  the evidence the organization needs to make smarter choices about equipment for
+  future Olympic Games, according to Alexandra Rickham, the group's sustainability
+  director.
+nut_graf: The project systematically measures the environmental footprint of Olympic
+  sailing gear across its full life cycle — from production to disposal — for the
+  first time, highlighting a contrast between the sport's wind-powered image and the
+  industrial impact of its equipment.
 primary_entities:
 - World Sailing
 - Alexandra Rickham
@@ -32,7 +40,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -109,109 +118,8 @@ cross_article_links:
   relation: related
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-07-14-navy-seeks-south-korean-shipbuilders-for-destroyers-support-vessels
-  headline: Navy seeks South Korean shipbuilders for destroyers, support vessels
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.5754
-- slug: 2026-06-25-u-s-plastic-exports-to-china-top-23-billion-fueling-global-pollution-concerns
-  headline: U.S. plastic exports to China top $23 billion, fueling global pollution concerns
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.5832
-- slug: 2026-06-15-forward-facing-sonar-divides-anglers-over-high-tech-fishing
-  headline: Forward-facing sonar divides anglers over high-tech fishing
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.6179
-- slug: 2026-06-17-ocean-marine-heatwaves-more-than-triple-since-early-1990s-report-finds
-  headline: Ocean marine heatwaves more than triple since early 1990s, report finds
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.576
-- slug: 2026-06-17-15-countries-adopt-mombasa-declaration-to-combat-illegal-fishing
-  headline: 15 countries adopt Mombasa Declaration to combat illegal fishing
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.5674
-- slug: 2026-06-08-gray-whales-shift-into-san-francisco-bay-new-detection-system-warns-ships
-  headline: Gray whales shift into San Francisco Bay; new detection system warns ships
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.5747
-- slug: 2026-06-02-trump-administration-plans-to-dismantle-368-million-ocean-monitoring-network
-  headline: Trump administration plans to dismantle $368 million ocean monitoring network
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.5795
-- slug: 2026-05-21-ai-whale-detection-network-goes-live-in-san-francisco-bay-to-prevent-strikes
-  headline: AI whale-detection network goes live in San Francisco Bay to prevent strikes
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.5845
-- slug: 2026-05-23-california-launches-ai-whale-spotting-to-reduce-ship-strikes-amid-heat-wave
-  headline: California launches AI whale spotting to reduce ship strikes amid heat wave
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.5759
-- slug: 2026-05-22-california-turns-to-ai-to-reduce-whale-ship-collisions-as-deaths-rise
-  headline: California turns to AI to reduce whale-ship collisions as deaths rise
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.5681
-- slug: 2026-05-19-san-francisco-launches-ai-whale-detection-to-prevent-ship-strikes
-  headline: San Francisco launches AI whale detection to prevent ship strikes
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.5716
-- slug: 2026-05-16-warming-reduces-oxygen-in-rivers-worldwide-study-warns
-  headline: Warming reduces oxygen in rivers worldwide, study warns
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.5791
-- slug: 2026-04-28-eu-sustainability-rules-push-ferragamo-to-map-leather-origins
-  headline: EU sustainability rules push Ferragamo to map leather origins
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.5902
-- slug: 2026-04-24-sweden-s-secondhand-clothing-swaps-aim-to-cut-environmental-waste
-  headline: Sweden’s secondhand clothing swaps aim to cut environmental waste
-  publish_date: '2026-04-24'
-  relation: related
-  strength: 0.5963
-- slug: 2026-05-02-maritime-nations-keep-working-on-global-carbon-fee-for-shipping
-  headline: Maritime nations keep working on global carbon fee for shipping
-  publish_date: '2026-05-02'
-  relation: related
-  strength: 0.5719
-- slug: 2026-02-19-olympics-organizers-aimed-for-impact-with-clean-electricity-at-milan-cortina-gam
-  headline: Olympics organizers aimed for impact with clean electricity at Milan Cortina Games
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.6287
-- slug: 2026-02-20-olympics-organizers-aimed-for-impact-with-clean-electricity-at-milan-cortina
-  headline: Olympics organizers aimed for impact with clean electricity at Milan Cortina
-  publish_date: '2026-02-20'
-  relation: related
-  strength: 0.6267
-- slug: 2026-04-02-desalination-offers-freshwater-as-droughts-intensify-and-water-demand-rises
-  headline: Desalination offers freshwater as droughts intensify and water demand rises
-  publish_date: '2026-04-02'
-  relation: related
-  strength: 0.5804
-- slug: 2026-04-03-chinese-company-uses-ai-machine-to-sort-clothes-for-recycling
-  headline: Chinese company uses AI machine to sort clothes for recycling
-  publish_date: '2026-04-03'
-  relation: related
-  strength: 0.572
-- slug: 2026-02-16-us-ocean-agency-plans-changes-to-right-whale-ship-speed-rule
-  headline: US ocean agency plans changes to right whale ship speed rule
-  publish_date: '2026-02-16'
-  relation: related
-  strength: 0.5904
+related_stories: []
 ---
-
 ## Sailing is seen as a clean sport, but Olympic equipment carries environmental impact, World Sailing director says
 
 **Subtype:** fact

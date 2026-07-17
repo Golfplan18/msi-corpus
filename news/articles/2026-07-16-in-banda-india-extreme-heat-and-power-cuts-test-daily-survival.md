@@ -2,7 +2,10 @@
 headline: In Banda, India, extreme heat and power cuts test daily survival
 secondary_headline: 119 died in 2023 heat wave in vulnerable Uttar Pradesh
 publish_date: '2026-07-16'
-lede: BANDA, India — In this northern Indian town that has recorded some of the country's highest temperatures, residents face heat at all hours and frequent power cuts that leave homes without fans. Global warming is making heat waves more frequent and intense across India, according to the Associated Press.
+lede: BANDA, India — In this northern Indian town that has recorded some of the country's
+  highest temperatures, residents face heat at all hours and frequent power cuts that
+  leave homes without fans. Global warming is making heat waves more frequent and
+  intense across India, according to the Associated Press.
 primary_entities:
 - Banda
 - India
@@ -36,7 +39,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -119,36 +123,11 @@ related_stories:
   publish_date: '2026-07-14'
   relation: related
   strength: 0.6782
-- slug: 2026-07-14-heat-dome-pushes-90-plus-overnight-temperature-records
-  headline: Heat dome pushes 90-plus overnight temperature records
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.641
-- slug: 2026-07-10-large-heat-dome-brings-dangerous-temperatures-to-most-of-lower-48
-  headline: Large heat dome brings dangerous temperatures to most of Lower 48
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.6494
-- slug: 2026-07-11-heat-dome-to-bring-dangerous-temperatures-to-two-thirds-of-us-forecasters-warn
-  headline: Heat dome to bring dangerous temperatures to two-thirds of US, forecasters warn
-  publish_date: '2026-07-11'
-  relation: related
-  strength: 0.6376
 - slug: 2026-06-30-heat-wave-intensifies-across-us-120-million-under-extreme-heat-warnings
   headline: Heat wave intensifies across US, 120 million under extreme heat warnings
   publish_date: '2026-06-30'
   relation: related
   strength: 0.6616
-- slug: 2026-07-08-heat-dome-pushes-specialty-farmers-to-adapt-harvests-protect-crops
-  headline: Heat dome pushes specialty farmers to adapt harvests, protect crops
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.6115
-- slug: 2026-07-05-heatwave-kills-at-least-25-across-eastern-united-states
-  headline: Heatwave kills at least 25 across eastern United States
-  publish_date: '2026-07-05'
-  relation: related
-  strength: 0.628
 - slug: 2026-06-25-extreme-heat-endangers-indian-textile-workers-in-surat
   headline: Extreme heat endangers Indian textile workers in Surat
   publish_date: '2026-06-25'
@@ -159,63 +138,7 @@ related_stories:
   publish_date: '2026-06-18'
   relation: related
   strength: 0.6808
-- slug: 2026-07-02-triple-digit-heat-amplifies-data-center-power-strain-grid-risks
-  headline: Triple-digit heat amplifies data center power strain, grid risks
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.6003
-- slug: 2026-07-02-extreme-heat-warnings-cover-midwest-eastern-u-s-as-holiday-weekend-begins
-  headline: Extreme heat warnings cover Midwest, Eastern U.S. as holiday weekend begins
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.5963
-- slug: 2026-06-22-heat-stress-days-surge-globally-study-finds
-  headline: Heat stress days surge globally, study finds
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.644
-- slug: 2026-06-30-health-experts-share-tips-for-staying-safe-in-dangerous-heat
-  headline: Health experts share tips for staying safe in dangerous heat
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.6009
-- slug: 2026-07-02-european-heat-waves-and-floods-cost-43-billion-last-year-study-finds
-  headline: European heat waves and floods cost $43 billion last year, study finds
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.5862
-- slug: 2026-06-26-study-finds-europe-heat-wave-impossible-without-climate-change
-  headline: Study finds Europe heat wave impossible without climate change
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.59
-- slug: 2026-06-13-how-excessive-heat-kills-and-tips-to-stay-safe
-  headline: How excessive heat kills and tips to stay safe
-  publish_date: '2026-06-13'
-  relation: related
-  strength: 0.5971
-- slug: 2026-05-20-eastern-u-s-bakes-in-early-season-heat-after-record-highs
-  headline: Eastern U.S. bakes in early-season heat after record highs
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.631
-- slug: 2026-05-21-eastern-u-s-swelters-again-as-record-heat-prompts-school-changes
-  headline: Eastern U.S. swelters again as record heat prompts school changes
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6193
-- slug: 2026-04-15-unusual-april-heat-wave-threatens-records-from-georgia-to-new-york
-  headline: Unusual April heat wave threatens records from Georgia to New York
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.6179
-- slug: 2026-03-21-scientists-say-southwest-march-heat-shows-climate-change-s-extremes
-  headline: Scientists say Southwest March heat shows climate change’s extremes
-  publish_date: '2026-03-21'
-  relation: related
-  strength: 0.6242
 ---
-
 ## 119 died in 2023 heat wave in vulnerable Uttar Pradesh
 
 **Subtype:** fact

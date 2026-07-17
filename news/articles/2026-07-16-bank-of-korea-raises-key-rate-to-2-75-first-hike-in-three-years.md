@@ -2,8 +2,14 @@
 headline: Bank of Korea raises key rate to 2.75%, first hike in three years
 secondary_headline: Chip-driven growth allows rate hike after three-year pause
 publish_date: '2026-07-16'
-lede: South Korea's central bank raised its benchmark interest rate Thursday for the first time in more than three years, tightening monetary policy to combat inflation fueled by the Middle East conflict and to slow the growth of household debt.
-nut_graf: The Bank of Korea's quarter-percentage-point increase to 2.75% ends a streak of steady or looser policy that prioritized support for the trade-dependent economy through geopolitical turmoil and U.S. tariff hikes. Policymakers now see room to raise borrowing costs as robust semiconductor exports, driven by the global AI boom, lift growth and allow the government to raise its 2026 outlook to 3%.
+lede: South Korea's central bank raised its benchmark interest rate Thursday for the
+  first time in more than three years, tightening monetary policy to combat inflation
+  fueled by the Middle East conflict and to slow the growth of household debt.
+nut_graf: The Bank of Korea's quarter-percentage-point increase to 2.75% ends a streak
+  of steady or looser policy that prioritized support for the trade-dependent economy
+  through geopolitical turmoil and U.S. tariff hikes. Policymakers now see room to
+  raise borrowing costs as robust semiconductor exports, driven by the global AI boom,
+  lift growth and allow the government to raise its 2026 outlook to 3%.
 primary_entities:
 - Bank of Korea
 - South Korea
@@ -32,7 +38,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -110,6 +117,11 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-07-16-kospi-drops-6-4-after-bok-rate-hike-u-s--iran-strikes
+  headline: KOSPI drops 6.4% after BOK rate hike, U.S.-Iran strikes
+  publish_date: '2026-07-16'
+  relation: related
+  strength: 0.7118
 - slug: 2026-07-10-third-trading-curb-this-week-halts-kospi-on-chip-rally
   headline: Third trading curb this week halts KOSPI on chip rally
   publish_date: '2026-07-10'
@@ -145,74 +157,7 @@ related_stories:
   publish_date: '2026-06-22'
   relation: related
   strength: 0.6568
-- slug: 2026-06-22-seoul-shares-close-at-fresh-peak-above-9-100-on-chip-gains-iran-talks
-  headline: Seoul shares close at fresh peak above 9,100 on chip gains, Iran talks
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.6558
-- slug: 2026-06-15-bank-of-england-expected-to-hold-key-rate-at-3-75-as-u-k-economy-weakens
-  headline: Bank of England expected to hold key rate at 3.75% as U.K. economy weakens
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.6814
-- slug: 2026-06-18-bank-of-england-leaves-rates-unchanged-signals-caution-on-hormuz-opening
-  headline: Bank of England Leaves Rates Unchanged, Signals Caution on Hormuz Opening
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.6557
-- slug: 2026-06-15-seoul-stocks-close-above-8-500-on-us-iran-peace-deal
-  headline: Seoul stocks close above 8,500 on US-Iran peace deal
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.6652
-- slug: 2026-06-12-seoul-stocks-spike-over-4-on-hopes-for-end-to-us-iran-war
-  headline: Seoul stocks spike over 4% on hopes for end to US-Iran war
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.6775
-- slug: 2026-06-07-south-korean-won-slides-to-17-year-low-as-foreign-selling-accelerates
-  headline: South Korean won slides to 17-year low as foreign selling accelerates
-  publish_date: '2026-06-07'
-  relation: related
-  strength: 0.6936
-- slug: 2026-06-01-south-korea-s-may-exports-surge-53-2-to-record-highs-on-ai-chip-demand
-  headline: South Korea's May exports surge 53.2% to record highs on AI chip demand
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.7103
-- slug: 2026-06-08-north-korea-s-economy-grows-at-fastest-rate-in-eight-years-as-arms-sales-fuel-bo
-  headline: North Korea's economy grows at fastest rate in eight years as arms sales fuel boom
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.6831
-- slug: 2026-06-09-seoul-shares-jump-over-8-on-ai-rebound-iran-israel-ceasefire
-  headline: Seoul shares jump over 8% on AI rebound, Iran-Israel ceasefire
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.6738
-- slug: 2026-06-10-us-inflation-surges-to-4-2-in-may-a-three-year-high
-  headline: US inflation surges to 4.2% in May, a three-year high
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.6592
-- slug: 2026-04-22-uk-inflation-hits-3-3-in-march-as-pump-prices-surge-after-iran-war
-  headline: UK inflation hits 3.3% in March as pump prices surge after Iran war
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.6795
-- slug: 2026-04-29-bank-of-england-other-central-banks-pause-rates-as-iran-war-reshapes-outlook
-  headline: Bank of England, other central banks pause rates as Iran war reshapes outlook
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.658
-- slug: 2026-04-28-japan-s-central-bank-keeps-its-key-rate-at-0-75-amid-iran-war-risks
-  headline: Japan’s central bank keeps its key rate at 0.75% amid Iran-war risks
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.6577
 ---
-
-
 **Subtype:** fact
 
 - The Bank of Korea raised its benchmark policy rate by a quarter percentage point to 2.75% on July 16, the first increase since January 2023.

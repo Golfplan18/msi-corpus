@@ -52,11 +52,13 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - The Wall Street Journal
+  - United Press International
   outlet_classes:
   - national_daily
+  - wire
   highest_reliability_tier: 1
   has_originating: true
   has_primary_document: false
@@ -153,6 +155,8 @@ related_stories:
   publish_date: '2026-01-13'
   relation: related
   strength: 0.6646
+analyses:
+- '2026-07-15-the-accidental-investigation-that-exposed-the-fed-s-security-blind-spot'
 ---
 **Subtype:** fact
 
@@ -196,3 +200,8 @@ A search of his Fed-issued phone, personal iPad and email account revealed nude 
 **Publication date:** 2026-07-15
 **Title:** Former Fed Adviser Gets 38 Months in Prison for Lying to Internal Watchdog
 **URL:** https://www.wsj.com/world/china/former-fed-adviser-gets-38-months-in-prison-for-lying-to-internal-watchdog-74fa5f14
+
+---
+
+<!-- analysis-link:2026-07-15-the-accidental-investigation-that-exposed-the-fed-s-security-blind-spot -->
+**Going deeper:** [Read MSI's analysis of The structural conditions that enabled the Rogers case (interpersonal cultivation, personal-email exfiltration, absence of system-enforced controls) are not unique, and a security architecture that detected nothing for seven years without an exogenous trigger is not a security architecture at all. The Fed’s dormant oversight stakeholders now face a choice about whether the threat model will be recalibrated before another self-reported crisis surfaces what the system was never looking for. If they treat this as a one-off case about a single vulnerable individual, they will have learned nothing from the one event that could teach them. →](/analyses/2026-07-15-the-accidental-investigation-that-exposed-the-fed-s-security-blind-spot)

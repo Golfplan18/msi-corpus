@@ -184,6 +184,8 @@ related_stories:
   publish_date: '2026-04-03'
   relation: related
   strength: 0.6724
+analyses:
+- '2026-07-15-pentagon-testosterone-screening-serves-political-and-commercial-interests'
 ---
 **Subtype:** fact
 
@@ -225,3 +227,8 @@ According to research published in the journal Social Science and Medicine, youn
 **Publication date:** 2026-07-15
 **Title:** Pentagon to Screen for Low Testosterone in Soldiers
 **URL:** https://www.wsj.com/politics/national-security/us-military-testosterone-deficiency-screening-hegseth-7e64721e
+
+---
+
+<!-- analysis-link:2026-07-15-pentagon-testosterone-screening-serves-political-and-commercial-interests -->
+**Going deeper:** [Read MSI's analysis of Analysis of Pentagon's mandatory testosterone screening policy for service members 30 and older →](/analyses/2026-07-15-pentagon-testosterone-screening-serves-political-and-commercial-interests)

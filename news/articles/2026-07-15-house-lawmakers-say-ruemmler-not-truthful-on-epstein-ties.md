@@ -2,7 +2,10 @@
 headline: House lawmakers say Ruemmler not truthful on Epstein ties
 secondary_headline: Ruemmler told panel she witnessed no criminal activity
 publish_date: '2026-07-15'
-lede: Lawmakers on Wednesday said Kathryn Ruemmler, the former top lawyer at Goldman Sachs and White House counsel to President Barack Obama, was not being truthful about her relationship with Jeffrey Epstein during six hours of testimony before the House Oversight Committee.
+lede: Lawmakers on Wednesday said Kathryn Ruemmler, the former top lawyer at Goldman
+  Sachs and White House counsel to President Barack Obama, was not being truthful
+  about her relationship with Jeffrey Epstein during six hours of testimony before
+  the House Oversight Committee.
 primary_entities:
 - Kathryn Ruemmler
 - Robert Garcia
@@ -31,7 +34,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -130,7 +134,8 @@ related_stories:
   relation: related
   strength: 0.6552
 - slug: 2026-06-01-congressional-inquiry-yields-no-criminal-referrals-a-year-after-epstein-hearings
-  headline: Congressional inquiry yields no criminal referrals a year after Epstein hearings began
+  headline: Congressional inquiry yields no criminal referrals a year after Epstein
+    hearings began
   publish_date: '2026-06-01'
   relation: related
   strength: 0.651
@@ -149,68 +154,7 @@ related_stories:
   publish_date: '2026-05-07'
   relation: related
   strength: 0.6799
-- slug: 2026-05-14-lutnick-backs-away-from-epstein-blackmail-claim-in-house-interview
-  headline: Lutnick backs away from Epstein “blackmail” claim in House interview
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6529
-- slug: 2026-05-14-commerce-secretary-lutnick-says-epstein-blackmail-claim-was-speculation
-  headline: Commerce Secretary Lutnick says Epstein ‘blackmail’ claim was speculation
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6526
-- slug: 2026-05-06-commerce-secretary-lutnick-testifies-to-house-committee-on-epstein-ties
-  headline: Commerce Secretary Lutnick testifies to House committee on Epstein ties
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.6558
-- slug: 2026-05-05-lutnick-tells-house-panel-he-did-nothing-wrong-in-epstein-ties
-  headline: Lutnick tells House panel he did nothing wrong in Epstein ties
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.6476
-- slug: 2026-04-10-melania-trump-denies-epstein-ties-calls-for-survivor-centered-hearing
-  headline: Melania Trump denies Epstein ties, calls for survivor-centered hearing
-  publish_date: '2026-04-10'
-  relation: related
-  strength: 0.6721
-- slug: 2026-03-20-epstein-ex-attorney-says-he-had-no-knowledge-of-abuse-in-house-testimony
-  headline: Epstein ex-attorney says he had no knowledge of abuse in House testimony
-  publish_date: '2026-03-20'
-  relation: related
-  strength: 0.695
-- slug: 2026-02-27-hillary-clinton-testifies-in-house-probe-of-jeffrey-epstein-ties
-  headline: Hillary Clinton testifies in House probe of Jeffrey Epstein ties
-  publish_date: '2026-02-27'
-  relation: related
-  strength: 0.7006
-- slug: 2026-03-12-lawmakers-depose-epstein-accountant-on-wealth-business-ties
-  headline: Lawmakers depose Epstein accountant on wealth, business ties
-  publish_date: '2026-03-12'
-  relation: related
-  strength: 0.6845
-- slug: 2026-02-28-bill-clinton-tells-lawmakers-he-did-nothing-wrong-in-epstein-ties
-  headline: Bill Clinton tells lawmakers he “did nothing wrong” in Epstein ties
-  publish_date: '2026-02-28'
-  relation: related
-  strength: 0.6746
-- slug: 2026-02-10-ghislaine-maxwell-invokes-fifth-amendment-in-house-deposition
-  headline: Ghislaine Maxwell invokes Fifth Amendment in House deposition
-  publish_date: '2026-02-10'
-  relation: related
-  strength: 0.6757
-- slug: 2026-02-19-les-wexner-tells-congress-he-was-duped-by-jeffrey-epstein
-  headline: Les Wexner tells Congress he was “duped” by Jeffrey Epstein
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.6701
-- slug: 2026-02-14-key-democrat-accuses-justice-department-of-spying-on-epstein-file-oversight
-  headline: Key Democrat accuses Justice Department of spying on Epstein-file oversight
-  publish_date: '2026-02-14'
-  relation: related
-  strength: 0.6539
 ---
-
 **Subtype:** fact
 
 - Rep. Robert Garcia, D-Calif., said Kathryn Ruemmler was not truthful during six hours of testimony before the House Oversight Committee about her ties to Jeffrey Epstein.

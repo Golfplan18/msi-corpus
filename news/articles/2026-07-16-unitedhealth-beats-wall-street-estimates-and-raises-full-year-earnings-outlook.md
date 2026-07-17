@@ -2,8 +2,15 @@
 headline: UnitedHealth beats Wall Street estimates and raises full-year earnings outlook
 secondary_headline: Medical-loss ratio tops projections as costs tighten
 publish_date: '2026-07-16'
-lede: UnitedHealth Group reported second-quarter results well above Wall Street expectations and substantially raised its earnings projection for the year, the company said. CEO Stephen Hemsley returned to the top job a little more than a year ago, promising major changes after a financial meltdown.
-nut_graf: The results mark continued progress in Hemsley's turnaround effort, which included replacing much of the company's top management, paring its Optum physician footprint and shrinking enrollment in key Medicare plans. The raised guidance signals that cost-management and plan-design changes are producing durable results, bolstering confidence in the healthcare giant's financial recovery.
+lede: UnitedHealth Group reported second-quarter results well above Wall Street expectations
+  and substantially raised its earnings projection for the year, the company said.
+  CEO Stephen Hemsley returned to the top job a little more than a year ago, promising
+  major changes after a financial meltdown.
+nut_graf: The results mark continued progress in Hemsley's turnaround effort, which
+  included replacing much of the company's top management, paring its Optum physician
+  footprint and shrinking enrollment in key Medicare plans. The raised guidance signals
+  that cost-management and plan-design changes are producing durable results, bolstering
+  confidence in the healthcare giant's financial recovery.
 primary_entities:
 - UnitedHealth Group
 - Stephen Hemsley
@@ -36,7 +43,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -138,105 +146,13 @@ related_stories:
   headline: Elevance Health raises 2026 earnings outlook after Q2 sales beat estimates
   publish_date: '2026-07-15'
   relation: related
-  strength: 0.7341
-- slug: 2026-07-16-tsmc-posts-fifth-straight-record-profit-on-surging-ai-demand
-  headline: TSMC posts fifth straight record profit on surging AI demand
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.608
-- slug: 2026-07-08-health-care-roundup-resmed-sale-vertex-deal-lilly-forecast
-  headline: 'Health care roundup: ResMed sale, Vertex deal, Lilly forecast'
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.6314
-- slug: 2026-06-30-s-p-500-net-profit-margin-hits-record-14-8-in-first-quarter
-  headline: S&P 500 net profit margin hits record 14.8% in first quarter
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.6354
-- slug: 2026-06-30-mixed-analyst-notes-flag-labor-consumer-risks-while-roche-neuren-prospects-brigh
-  headline: Mixed analyst notes flag labor, consumer risks while Roche, Neuren prospects brighten
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.6202
-- slug: 2026-06-26-evonik-raises-2026-guidance-on-higher-prices-cost-reductions
-  headline: Evonik raises 2026 guidance on higher prices, cost reductions
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6034
+  strength: 0.7342
 - slug: 2026-06-03-medtronic-fiscal-q4-profit-rises-to-1-24-billion-sales-beat-estimates
   headline: Medtronic fiscal Q4 profit rises to $1.24 billion, sales beat estimates
   publish_date: '2026-06-03'
   relation: related
-  strength: 0.6487
-- slug: 2026-06-01-hpe-pulls-forward-long-term-targets-by-two-years-on-surging-ai-compute-demand
-  headline: HPE pulls forward long-term targets by two years on surging AI compute demand
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.6199
-- slug: 2026-06-01-jetblue-raises-second-quarter-revenue-outlook-on-strong-travel-demand
-  headline: JetBlue raises second-quarter revenue outlook on strong travel demand
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.5975
-- slug: 2026-05-20-target-sales-rise-5-6-under-new-ceo-as-outlook-stays-cautious
-  headline: Target sales rise 5.6% under new CEO as outlook stays cautious
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.6218
-- slug: 2026-04-30-amazon-reports-higher-first-quarter-profits-as-aws-growth-accelerates
-  headline: Amazon reports higher first-quarter profits as AWS growth accelerates
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.6275
-- slug: 2026-04-30-meta-beats-revenue-expectations-raises-2026-capital-spending-forecast
-  headline: Meta beats revenue expectations, raises 2026 capital spending forecast
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.6148
-- slug: 2026-05-05-disney-profits-jump-as-streaming-and-u-s-parks-offset-weaker-overseas-travel
-  headline: Disney profits jump as streaming and U.S. parks offset weaker overseas travel
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.6016
-- slug: 2026-05-06-disney-results-beat-forecasts-as-streaming-and-u-s-parks-offset-weaker-tourism
-  headline: Disney results beat forecasts as streaming and U.S. parks offset weaker tourism
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.5973
-- slug: 2026-04-28-astrazeneca-reports-first-quarter-profit-beats-analyst-estimates
-  headline: AstraZeneca reports first-quarter profit, beats analyst estimates
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.6044
-- slug: 2026-04-30-alphabet-first-quarter-profit-jumps-as-google-s-ai-bets-pay-off
-  headline: Alphabet first-quarter profit jumps as Google’s AI bets pay off
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.5943
-- slug: 2026-04-29-starbucks-raises-forecast-after-first-quarter-same-store-sales-beat-expectations
-  headline: Starbucks raises forecast after first-quarter same-store sales beat expectations
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.5963
-- slug: 2026-01-29-microsoft-beats-wall-street-expectations-with-81-3b-revenue
-  headline: Microsoft beats Wall Street expectations with $81.3B revenue
-  publish_date: '2026-01-29'
-  relation: related
-  strength: 0.6218
-- slug: 2026-02-25-u-s-stocks-rebound-after-ai-deal-optimism-offsets-earlier-selloff
-  headline: U.S. stocks rebound after AI deal optimism offsets earlier selloff
-  publish_date: '2026-02-25'
-  relation: related
-  strength: 0.6058
-- slug: 2026-01-27-s-p-500-edges-to-record-as-earnings-disappoint-and-dollar-weakens
-  headline: S&P 500 edges to record as earnings disappoint and dollar weakens
-  publish_date: '2026-01-27'
-  relation: related
-  strength: 0.6203
+  strength: 0.6512
 ---
-
-
 **Subtype:** fact
 
 - UnitedHealth reported second-quarter adjusted earnings of $6.38 per share, beating the FactSet consensus of $4.91 per share.

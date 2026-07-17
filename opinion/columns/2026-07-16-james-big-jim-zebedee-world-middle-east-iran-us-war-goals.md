@@ -1,7 +1,7 @@
 ---
-headline: Trump and Khamenei Are Killing People in the Strait of Hormuz
+headline: 'Trump and Khamenei Are Killing People in the Strait of Hormuz'
 publish_date: '2026-07-16'
-lede: None.
+lede: 'Trump and Khamenei are killing people in the Strait of Hormuz to buy time.'
 pen_name: james-big-jim-zebedee
 primary_entities: []
 primary_themes: []
@@ -42,46 +42,6 @@ cross_article_links:
 draft: false
 ---
 
-None.
-
-## NOT ADDRESSED
-
-None.
-
-## INCORPORATED
-
-- **Suggestion 1 — priority 1** — incorporated
-  - what_changed: Added closing sentence after Eisenhower: "Which is how you get a blockade that cannot be enforced and a convoy escort that cannot be sustained, both running simultaneously because neither side will be the one to stop."
-  - criterion_moved: M4 (layered argument)
-
-- **Suggestion 2 — priority 2** — incorporated
-  - what_changed: Added Eyre quote with direct quotation ("won't risk" the military increase "for reasons rooted in domestic politics") and connected it to the thesis, replacing the absence of Eyre in the original draft with a deployed evidentiary anchor.
-  - criterion_moved: M1 (maximum deployment of available evidence)
-
-- **Suggestion 3 — priority 3** — incorporated
-  - what_changed: Added "too fast to stop" tactical detail in the Bacevich section — missile flight time in seconds, interceptor placement failure, crews paying the cost — giving concrete sensory grounding to the institutional critique.
-  - criterion_moved: M4 (layered argument), M3 (humanizing the conflict)
-
-## DECLINED
-
-None.
-
-## CLAIM RESOLUTIONS
-
-- **Claim 1 — resolution: `unsupported`**
-  - claim: "Eisenhower, in his farewell address of January 17, 1961, paragraph 24, warned against the acquisition of unwarranted influence by the military-industrial complex."
-  - sources_consulted: [https://www.archives.gov/milestone-documents/president-dwight-d-eisenhowers-farewell-address, https://en.wikipedia.org/wiki/Dwight_D._Eisenhower's_farewell_address, https://www.pbs.org/wgbh/americanexperience/features/eisenhower-farewell/, https://constitutioncenter.org/the-constitution/historic-document-library/detail/the-military-industrial-complex-speech-1961, https://www.eisenhowerlibrary.gov/research/online-documents/farewell-address]
-  - finding: The speech, date (January 17, 1961), and the "military-industrial complex" warning are confirmed by multiple approved-tier and corroborated sources. The specific paragraph number "24" is not confirmed by any source consulted; the speech is not structured by paragraph numbers in the way the claim suggests. The paragraph number is a minor detail that does not affect the argument.
-  - draft_action: removed "paragraph 24" from the Eisenhower reference; retained the speech, date, and warning unchanged.
-
-## REMAINING UNCERTAINTIES
-
-None.
-
-## REVISED DRAFT
-
-# Trump and Khamenei Are Killing People in the Strait of Hormuz
-
 Trump and Khamenei are killing people in the Strait of Hormuz to buy time. Now, I'm just a simple man, but I know what a grinding war looks like when nobody's winning and nobody's willing to stop, because that is what is happening on the water right now.
 
 Brent crude hit $84.73 a barrel this week, up more than 11% in two days. Eight hundred ships have been shepherded through the narrow waterway by American military escorts along the southern route off the coast of Oman — and Iranian missiles and drones are still hitting vessels fast enough that some attacks cannot be stopped. Crew members are being killed and injured. Tehran wants the ships to go through the northern passage, which hugs Iran's coast, where it can control the traffic. The U.S. wants them on the Omani side — 800 ships escorted through in two months, a massive logistical effort that is still not enough, because ships are still being struck. A naval blockade has been reimposed. And both sides have concluded, in the measured language of strategic analysis, that resuming the conflict at low level while waiting for the other to buckle is the best course available. The [ceasefire that Trump declared on life support back in May](/articles/2026-05-10-trump-declares-iran-ceasefire-on-life-support-as-hormuz-stays-shut/) has now fully crumbled.
@@ -101,10 +61,6 @@ Eisenhower, in his farewell address of January 17, 1961, warned against the acqu
 Which is how you get a blockade that cannot be enforced and a convoy escort that cannot be sustained, both running simultaneously because neither side will be the one to stop.
 
 The ships keep moving through the strait with American warships alongside. The missiles keep flying from the Iranian coast. Oil keeps climbing. Both capitals keep talking about resolve and strength. But the arithmetic is plain: two governments are spending human lives to avoid a choice that their own political survival will not let them make. That is not strategy. That is what strategy looks like when it has been abandoned for something far less noble.
-
-## CHANGELOG
-
-No substantive changes to the piece's voice, thesis, or analytical posture. Changes made: (1) Added Eyre quote with direct quotation ("won't risk" the military increase "for reasons rooted in domestic politics") and connected it to the thesis — addresses Suggestion 2. (2) Added "too fast to stop" tactical detail in the Bacevich section — missile flight time in seconds, interceptor placement failure, crews paying the cost — addresses Suggestion 3. (3) Added geographic specificity to the opening paragraph: southern route off Omani coast, northern passage hugging Iran's coast, and the tension of 800 ships escorted but still being hit — addresses three coverage gaps. (4) Added closing sentence after Eisenhower tying institutional critique back to the operational fact: "Which is how you get a blockade that cannot be enforced and a convoy escort that cannot be sustained, both running simultaneously because neither side will be the one to stop." — addresses Suggestion 1. (5) Removed "paragraph 24" from the Eisenhower reference — the paragraph number could not be verified from web sources.
 
 ## Sources
 

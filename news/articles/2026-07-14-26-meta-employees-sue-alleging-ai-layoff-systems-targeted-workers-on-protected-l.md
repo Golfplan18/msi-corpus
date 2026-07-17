@@ -1,9 +1,15 @@
 ---
-headline: 26 Meta employees sue, alleging AI layoff systems targeted workers on protected leave
+headline: 26 Meta employees sue, alleging AI layoff systems targeted workers on protected
+  leave
 secondary_headline: Workers remain employed, but separations set to begin July 22
 publish_date: '2026-07-14'
-lede: A group of 26 Meta employees filed a lawsuit late Monday in federal court in Oakland, California, alleging that the company used artificial intelligence systems to select people for layoffs in a way that disproportionately targeted those on medical, parental, or family leave.
-nut_graf: The lawsuit alleges that Meta's automated layoff selection tools did not account for workers' time on protected leave, causing the company's systems to disproportionately select them for layoffs.
+lede: A group of 26 Meta employees filed a lawsuit late Monday in federal court in
+  Oakland, California, alleging that the company used artificial intelligence systems
+  to select people for layoffs in a way that disproportionately targeted those on
+  medical, parental, or family leave.
+nut_graf: The lawsuit alleges that Meta's automated layoff selection tools did not
+  account for workers' time on protected leave, causing the company's systems to disproportionately
+  select them for layoffs.
 primary_entities:
 - Meta
 - Oakland federal court
@@ -32,7 +38,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 2
@@ -62,105 +69,43 @@ related_stories:
   headline: Ex-Facebook policy executive sues Meta over arbitration gag order
   publish_date: '2026-06-25'
   relation: related
-  strength: 0.6594
-- slug: 2026-06-08-meta-launches-workforce-academy-to-train-data-center-construction-workers
-  headline: Meta launches workforce academy to train data center construction workers
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.6468
+  strength: 0.6606
 - slug: 2026-05-15-streamline-operations-how-ai-is-fueling-tech-world-layoffs
   headline: 'Streamline operations: How AI is fueling tech world layoffs'
   publish_date: '2026-05-15'
   relation: related
-  strength: 0.6979
+  strength: 0.6981
 - slug: 2026-05-15-companies-from-cisco-to-meta-cite-ai-as-layoffs-mount
   headline: Companies from Cisco to Meta cite AI as layoffs mount
   publish_date: '2026-05-15'
   relation: related
-  strength: 0.6928
+  strength: 0.6929
 - slug: 2026-04-25-meta-cuts-8-000-jobs-as-ai-spending-surges-and-efficiency-drive-accelerates
   headline: Meta cuts 8,000 jobs as AI spending surges and efficiency drive accelerates
   publish_date: '2026-04-25'
   relation: related
-  strength: 0.7331
-- slug: 2026-05-20-openai-avoids-costly-loss-as-jury-sides-with-company-in-elon-musk-trial
-  headline: OpenAI avoids costly loss as jury sides with company in Elon Musk trial
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.6346
+  strength: 0.7302
 - slug: 2026-05-04-trial-could-change-meta-apps-and-algorithms-as-new-mexico-seeks-safeguards
   headline: Trial could change Meta apps and algorithms as New Mexico seeks safeguards
   publish_date: '2026-05-04'
   relation: related
-  strength: 0.668
-- slug: 2026-05-10-google-settles-lawsuit-over-alleged-racial-disparities-in-hiring-pay-and-promoti
-  headline: Google settles lawsuit over alleged racial disparities in hiring, pay and promotions
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.639
+  strength: 0.6688
 - slug: 2026-04-30-meta-beats-revenue-expectations-raises-2026-capital-spending-forecast
   headline: Meta beats revenue expectations, raises 2026 capital spending forecast
   publish_date: '2026-04-30'
   relation: related
-  strength: 0.6546
+  strength: 0.6528
 - slug: 2026-04-13-more-u-s-workers-try-ai-at-work-but-job-loss-fears-and-ethics-linger
   headline: More U.S. workers try AI at work, but job-loss fears and ethics linger
   publish_date: '2026-04-13'
   relation: related
-  strength: 0.6667
+  strength: 0.6679
 - slug: 2026-03-19-kaiser-mental-health-workers-strike-in-california-over-ai-concerns
   headline: Kaiser mental health workers strike in California over AI concerns
   publish_date: '2026-03-19'
   relation: related
-  strength: 0.6853
-- slug: 2026-04-12-how-ai-is-reshaping-american-workplaces-new-gallup-poll
-  headline: 'How AI is reshaping American workplaces: new Gallup poll'
-  publish_date: '2026-04-12'
-  relation: related
-  strength: 0.6499
-- slug: 2026-03-15-some-companies-tie-ai-to-layoffs-but-reality-is-more-complicated
-  headline: Some companies tie AI to layoffs, but reality is more complicated
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.6796
-- slug: 2026-04-15-state-court-hears-massachusetts-lawsuit-against-meta-over-addictive-apps-for-kid
-  headline: State court hears Massachusetts lawsuit against Meta over addictive apps for kids
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.6369
-- slug: 2026-03-25-new-mexico-jury-finds-meta-liable-for-harming-children-s-mental-health
-  headline: New Mexico jury finds Meta liable for harming children’s mental health
-  publish_date: '2026-03-25'
-  relation: related
-  strength: 0.6581
-- slug: 2026-03-24-new-mexico-jury-finds-meta-knowingly-harmed-children-to-face-may-phase
-  headline: New Mexico jury finds Meta knowingly harmed children, to face May phase
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.6591
-- slug: 2026-03-13-microsoft-asks-court-to-block-trump-pentagon-ban-on-anthropic-ai
-  headline: Microsoft asks court to block Trump Pentagon ban on Anthropic AI
-  publish_date: '2026-03-13'
-  relation: related
-  strength: 0.6693
-- slug: 2026-03-24-social-media-firms-await-more-legal-decisions-as-meta-faces-penalties
-  headline: Social media firms await more legal decisions as Meta faces penalties
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.6491
-- slug: 2026-03-25-social-media-firms-await-more-legal-decisions-after-new-mexico-meta-verdict
-  headline: Social media firms await more legal decisions after New Mexico Meta verdict
-  publish_date: '2026-03-25'
-  relation: related
-  strength: 0.639
-- slug: 2026-03-26-social-media-firms-await-more-legal-decisions-after-meta-child-safety-verdict
-  headline: Social media firms await more legal decisions after Meta child-safety verdict
-  publish_date: '2026-03-26'
-  relation: related
-  strength: 0.6375
+  strength: 0.6864
 ---
-
-
 **Subtype:** fact
 
 - A group of 26 Meta employees has sued the company in federal court, alleging that AI-driven layoff selection disproportionately targeted workers on protected medical, parental, or family leave.

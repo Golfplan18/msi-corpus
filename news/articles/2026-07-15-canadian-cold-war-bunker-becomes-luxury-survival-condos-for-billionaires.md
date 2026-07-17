@@ -1,9 +1,17 @@
 ---
 headline: Canadian Cold War bunker becomes luxury survival condos for billionaires
-secondary_headline: Eleven of the crisis-proof units are already sold, with purchase and rental costs kept secret
+secondary_headline: Eleven of the crisis-proof units are already sold, with purchase
+  and rental costs kept secret
 publish_date: '2026-07-15'
-lede: A 64,000-square-foot Cold War-era nuclear bunker in rural Nova Scotia is being converted into crisis-proof luxury condominiums for wealthy clients, with 11 of the 50 units already sold. Canadian crypto entrepreneur Jonathan Baha'i purchased the site — commonly called The Diefenbunker — in 2013 for C$31,300 and is now turning it into a secure retreat offering gourmet dining, biometric access, and a spa.
-nut_graf: The project, managed by Baha'i's Fallout Complex Inc, reflects a broader surge in demand for high-end survival shelters. The U.S. disaster prepping industry is now worth at least $500 million, according to some projections, and millions of Americans are preparing for catastrophe.
+lede: A 64,000-square-foot Cold War-era nuclear bunker in rural Nova Scotia is being
+  converted into crisis-proof luxury condominiums for wealthy clients, with 11 of
+  the 50 units already sold. Canadian crypto entrepreneur Jonathan Baha'i purchased
+  the site — commonly called The Diefenbunker — in 2013 for C$31,300 and is now turning
+  it into a secure retreat offering gourmet dining, biometric access, and a spa.
+nut_graf: The project, managed by Baha'i's Fallout Complex Inc, reflects a broader
+  surge in demand for high-end survival shelters. The U.S. disaster prepping industry
+  is now worth at least $500 million, according to some projections, and millions
+  of Americans are preparing for catastrophe.
 primary_entities:
 - Debert, Nova Scotia
 - Jonathan Baha'i
@@ -34,7 +42,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -131,119 +140,21 @@ cross_article_links:
   strength: 0.5383
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-07-15-u-s-warehouse-construction-rebounds-as-developers-restart-projects
-  headline: U.S. warehouse construction rebounds as developers restart projects
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.5525
-- slug: 2026-07-13-aging-infrastructure-and-repeated-draws-cut-strategic-petroleum-reserve-pumping-
-  headline: Aging infrastructure and repeated draws cut Strategic Petroleum Reserve pumping capacity, GAO finds
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.5551
-- slug: 2026-07-06-canada-to-buy-12-submarines-in-largest-military-procurement-ever
-  headline: Canada to buy 12 submarines in largest military procurement ever
-  publish_date: '2026-07-06'
-  relation: related
-  strength: 0.5794
-- slug: 2026-07-08-downing-street-unveils-37bn-nato-missile-programme-at-ankara-summit
-  headline: Downing Street unveils £37bn NATO missile programme at Ankara summit
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.5596
-- slug: 2026-07-05-canada-nears-decision-on-submarine-contract-between-hanwha-and-tkms
-  headline: Canada nears decision on submarine contract between Hanwha and TKMS
-  publish_date: '2026-07-05'
-  relation: related
-  strength: 0.5547
-- slug: 2026-07-02-record-58-5-gw-of-new-power-added-but-grid-faces-five-alarm-fire
-  headline: Record 58.5 GW of new power added, but grid faces 'five-alarm fire'
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.5497
-- slug: 2026-07-03-carney-smith-back-new-pacific-crude-pipeline-with-carbon-capture-requirement
-  headline: Carney, Smith back new Pacific crude pipeline with carbon-capture requirement
-  publish_date: '2026-07-03'
-  relation: related
-  strength: 0.543
-- slug: 2026-06-26-canada-launches-crowd-funded-restoration-of-crumbling-24-sussex-drive
-  headline: Canada launches crowd-funded restoration of crumbling 24 Sussex Drive
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.5692
-- slug: 2026-06-26-iran-strikes-inflicted-400m-damage-on-u-s-navy-base-in-bahrain
-  headline: Iran strikes inflicted $400M damage on U.S. Navy base in Bahrain
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.5466
-- slug: 2026-06-27-canada-slips-into-technical-recession-as-carney-urges-patience
-  headline: Canada slips into technical recession as Carney urges patience
-  publish_date: '2026-06-27'
-  relation: related
-  strength: 0.5407
-- slug: 2026-06-23-construction-begins-on-chicago-quantum-computing-park-at-former-steel-mill
-  headline: Construction begins on Chicago quantum computing park at former steel mill
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.5482
-- slug: 2026-06-03-california-wildfire-survivors-create-bunkers-underground-homes-and-goat-herds
-  headline: California wildfire survivors create bunkers, underground homes and goat herds
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.6298
-- slug: 2026-06-21-baiju-bhatt-left-robinhood-a-billionaire-his-next-bet-space-solar-data-centers
-  headline: 'Baiju Bhatt left Robinhood a billionaire. His next bet: space solar data centers'
-  publish_date: '2026-06-21'
-  relation: related
-  strength: 0.5469
-- slug: 2026-06-09-nuclear-power-sees-revival-as-ai-demand-public-support-rise
-  headline: Nuclear power sees revival as AI demand, public support rise
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.5421
-- slug: 2026-05-31-plymouth-expects-defense-investment-to-create-25-000-new-jobs
-  headline: Plymouth expects defense investment to create 25,000 new jobs
-  publish_date: '2026-05-31'
-  relation: related
-  strength: 0.5731
-- slug: 2026-06-04-canada-unveils-2bn-national-ai-strategy-targets-sovereignty-and-literacy
-  headline: Canada unveils $2bn national AI strategy, targets sovereignty and literacy
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.5454
-- slug: 2026-05-25-crack-found-on-damaged-southern-california-chemical-tank-as-evacuation-continues
-  headline: Crack found on damaged Southern California chemical tank as evacuation continues
-  publish_date: '2026-05-25'
-  relation: related
-  strength: 0.5424
-- slug: 2026-04-30-canada-selected-as-headquarters-for-nato-linked-defense-bank
-  headline: Canada selected as headquarters for NATO-linked Defense Bank
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.5717
-- slug: 2026-04-21-test-fires-help-scientists-protect-homes-from-climate-change-fueled-wildfires
-  headline: Test fires help scientists protect homes from climate-change fueled wildfires
-  publish_date: '2026-04-21'
-  relation: related
-  strength: 0.5518
-- slug: 2026-04-26-ukrainians-fear-chernobyl-safety-after-russia-attack-damages-nsc
-  headline: Ukrainians fear Chernobyl safety after Russia attack damages NSC
-  publish_date: '2026-04-26'
-  relation: related
-  strength: 0.5412
+related_stories: []
 image:
   url: /articles/2026-07-15-canadian-cold-war-bunker-becomes-luxury-survival-condos-for-billionaires.png
-  alt: "Illustration accompanying article: Canadian Cold War bunker becomes luxury survival condos for billionaires"
+  alt: 'Illustration accompanying article: Canadian Cold War bunker becomes luxury
+    survival condos for billionaires'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:openai/gpt-5.4-image-2"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
-
 **Subtype:** fact
 
 - Canadian crypto entrepreneur Jonathan Baha'i is converting a 64,000-square-foot Cold War nuclear bunker in Debert, Nova Scotia, into 50 crisis-proof luxury condominiums.

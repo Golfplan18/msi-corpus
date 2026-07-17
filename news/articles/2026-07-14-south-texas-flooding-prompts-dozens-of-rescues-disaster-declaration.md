@@ -1,9 +1,14 @@
 ---
 headline: South Texas flooding prompts dozens of rescues, disaster declaration
-secondary_headline: National Weather Service warns of dangerous flash flooding threat through Thursday
+secondary_headline: National Weather Service warns of dangerous flash flooding threat
+  through Thursday
 publish_date: '2026-07-14'
-lede: Heavy downpours in South Texas washed out highways and stranded motorists Tuesday as storms dumped up to a foot of rain, prompting dozens of high-water rescues and a disaster declaration from Gov. Greg Abbott for dozens of counties.
-nut_graf: The National Weather Service warned that storms overnight could bring more than a foot of additional rain into Wednesday, with the flash flood threat continuing through Thursday.
+lede: Heavy downpours in South Texas washed out highways and stranded motorists Tuesday
+  as storms dumped up to a foot of rain, prompting dozens of high-water rescues and
+  a disaster declaration from Gov. Greg Abbott for dozens of counties.
+nut_graf: The National Weather Service warned that storms overnight could bring more
+  than a foot of additional rain into Wednesday, with the flash flood threat continuing
+  through Thursday.
 primary_entities:
 - South Texas
 - Uvalde
@@ -35,14 +40,17 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
+  - The Guardian
   outlet_classes:
   - wire
+  - national_daily
   highest_reliability_tier: 1
   has_originating: true
   has_primary_document: false
@@ -138,8 +146,14 @@ related_stories:
   publish_date: '2026-07-15'
   relation: related
   strength: 0.9027
+- slug: 2026-07-16-texas-flooding-cuts-off-uvalde-as-deadly-flood-wave-threatens
+  headline: Texas flooding cuts off Uvalde as deadly flood wave threatens
+  publish_date: '2026-07-16'
+  relation: related
+  strength: 0.7333
 - slug: 2026-07-10-missouri-declares-state-of-emergency-as-flash-floods-hit-central-southern-areas
-  headline: Missouri declares state of emergency as flash floods hit central, southern areas
+  headline: Missouri declares state of emergency as flash floods hit central, southern
+    areas
   publish_date: '2026-07-10'
   relation: related
   strength: 0.6958
@@ -163,79 +177,12 @@ related_stories:
   publish_date: '2026-06-29'
   relation: related
   strength: 0.6689
-- slug: 2026-06-29-tennessee-mother-39-dies-in-culvert-after-rescuing-son-from-flood-waters
-  headline: Tennessee mother, 39, dies in culvert after rescuing son from flood waters
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.6424
-- slug: 2026-06-15-king-tides-kill-two-along-california-coast-advisories-issued
-  headline: King tides kill two along California coast, advisories issued
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.6304
-- slug: 2026-05-13-south-africa-declares-national-disaster-after-deadly-floods-kill-10-damage-thous
-  headline: South Africa declares national disaster after deadly floods kill 10, damage thousands of homes
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6384
-- slug: 2026-05-13-south-africa-declares-national-disaster-as-deadly-floods-hit-six-provinces
-  headline: South Africa declares national disaster as deadly floods hit six provinces
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6345
-- slug: 2026-05-14-torrential-rains-flood-northern-turkey-sweeping-away-cars-and-hospitalizing-12
-  headline: Torrential rains flood northern Turkey, sweeping away cars and hospitalizing 12
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6187
 - slug: 2026-04-28-tornadoes-hail-and-flooding-threaten-parts-of-the-midwest
   headline: Tornadoes, hail and flooding threaten parts of the Midwest
   publish_date: '2026-04-28'
   relation: related
   strength: 0.6508
-- slug: 2026-04-27-tornadoes-hit-runaway-bay-and-springtown-texas-killing-at-least-2
-  headline: Tornadoes hit Runaway Bay and Springtown, Texas, killing at least 2
-  publish_date: '2026-04-27'
-  relation: related
-  strength: 0.638
-- slug: 2026-04-15-midwest-storms-flood-wisconsin-streets-damage-ann-arbor-ice-arenas
-  headline: Midwest storms flood Wisconsin streets, damage Ann Arbor ice arenas
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.6541
-- slug: 2026-04-28-storms-flatten-buildings-and-damage-homes-in-texas-city-of-mineral-wells
-  headline: Storms flatten buildings and damage homes in Texas city of Mineral Wells
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.6293
-- slug: 2026-04-15-severe-storms-threaten-plains-and-midwest-again
-  headline: Severe storms threaten Plains and Midwest again
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.6349
-- slug: 2026-03-25-hawaii-digs-out-after-kona-low-downpour-causes-flash-flooding
-  headline: Hawaii digs out after Kona low downpour causes flash flooding
-  publish_date: '2026-03-25'
-  relation: related
-  strength: 0.624
-- slug: 2025-12-29-southern-california-braces-for-more-rain-flooding-and-mudslides
-  headline: Southern California braces for more rain, flooding and mudslides
-  publish_date: '2025-12-29'
-  relation: related
-  strength: 0.6688
-- slug: 2026-02-17-california-braces-as-winter-storm-brings-high-winds-heavy-rain-and-snow
-  headline: California braces as winter storm brings high winds, heavy rain and snow
-  publish_date: '2026-02-17'
-  relation: related
-  strength: 0.6455
-- slug: 2026-03-05-storm-outbreak-threatens-heartland-with-tornadoes-6-million-at-highest-risk
-  headline: Storm outbreak threatens heartland with tornadoes; 6 million at highest risk
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.6234
 ---
-
-
 **Subtype:** fact
 
 - Heavy downpours dumped up to a foot of rain across rural parts of South Texas on Tuesday, prompting dozens of high-water rescues and a disaster declaration from Gov. Greg Abbott for dozens of counties.

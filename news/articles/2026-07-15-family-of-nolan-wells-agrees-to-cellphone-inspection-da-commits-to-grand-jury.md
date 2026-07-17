@@ -1,9 +1,18 @@
 ---
-headline: Family of Nolan Wells agrees to cellphone inspection; DA commits to grand jury
-secondary_headline: Attorneys for the family had alleged messages were erased from the phone before its return
+headline: Family of Nolan Wells agrees to cellphone inspection; DA commits to grand
+  jury
+secondary_headline: Attorneys for the family had alleged messages were erased from
+  the phone before its return
 publish_date: '2026-07-15'
-lede: Attorneys for the family of Nolan Wells, a Black teenager who went missing during a July Fourth boat trip off the Mississippi coast, said Wednesday they will work with the local district attorney's office to inspect his cellphone as the investigation into his death continues. District Attorney Angel Myers McIlrath also committed to presenting the investigation to a grand jury once it is completed, according to family attorney Ben Crump.
-nut_graf: The agreement and the commitment to a grand jury come as the family has raised concerns about the handling of the investigation, including allegations that messages were deleted from Wells's phone.
+lede: Attorneys for the family of Nolan Wells, a Black teenager who went missing during
+  a July Fourth boat trip off the Mississippi coast, said Wednesday they will work
+  with the local district attorney's office to inspect his cellphone as the investigation
+  into his death continues. District Attorney Angel Myers McIlrath also committed
+  to presenting the investigation to a grand jury once it is completed, according
+  to family attorney Ben Crump.
+nut_graf: The agreement and the commitment to a grand jury come as the family has
+  raised concerns about the handling of the investigation, including allegations that
+  messages were deleted from Wells's phone.
 primary_entities:
 - Nolan Wells
 - Ben Crump
@@ -37,7 +46,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,103 +150,12 @@ related_stories:
   publish_date: '2026-07-11'
   relation: related
   strength: 0.8415
-- slug: 2026-07-13-family-demands-answers-after-memphis-task-force-agent-kills-man-in-crisis
-  headline: Family demands answers after Memphis task force agent kills man in crisis
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.5725
 - slug: 2026-05-07-tennessee-rep-ogles-will-get-phone-back-from-justice-department
   headline: Tennessee Rep. Ogles will get phone back from Justice Department
   publish_date: '2026-05-07'
   relation: related
   strength: 0.6532
-- slug: 2026-06-01-doj-asks-judge-in-atlanta-to-recuse-herself-from-georgia-election-records-case
-  headline: DOJ asks judge in Atlanta to recuse herself from Georgia election records case
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.5679
-- slug: 2026-05-06-justice-department-agrees-to-return-rep-andy-ogles-phone
-  headline: Justice Department agrees to return Rep. Andy Ogles’ phone
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.6204
-- slug: 2026-05-10-man-accused-in-correspondents-dinner-attack-pleads-not-guilty
-  headline: Man accused in correspondents’ dinner attack pleads not guilty
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.5767
-- slug: 2026-05-06-search-warrant-served-at-home-tied-to-paul-flores-in-kristin-smart-case
-  headline: Search warrant served at home tied to Paul Flores in Kristin Smart case
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.5826
-- slug: 2026-05-07-search-warrant-executed-at-mother-s-home-in-arroyo-grande-in-ongoing-kristin-sma
-  headline: Search warrant executed at mother’s home in Arroyo Grande in ongoing Kristin Smart case
-  publish_date: '2026-05-07'
-  relation: related
-  strength: 0.5693
-- slug: 2026-04-16-suspect-pleads-guilty-to-robbery-in-case-of-missing-navajo-grandmother-ella-mae-
-  headline: Suspect pleads guilty to robbery in case of missing Navajo grandmother Ella Mae Begay
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.5698
-- slug: 2026-04-11-woman-vanished-in-bahamas-after-sailing-videos-husband-questioned-coast-guard-pr
-  headline: Woman vanished in Bahamas after sailing videos; husband questioned, Coast Guard probes
-  publish_date: '2026-04-11'
-  relation: related
-  strength: 0.5755
-- slug: 2026-04-02-quadruple-amputee-cornhole-player-held-after-killing-lawyer-cites-self-defense
-  headline: Quadruple amputee cornhole player held after killing; lawyer cites self-defense
-  publish_date: '2026-04-02'
-  relation: related
-  strength: 0.5828
-- slug: 2026-03-26-quadruple-amputee-cornhole-player-to-face-maryland-murder-case-after-waiver
-  headline: Quadruple amputee cornhole player to face Maryland murder case after waiver
-  publish_date: '2026-03-26'
-  relation: related
-  strength: 0.5905
-- slug: 2026-04-08-texas-investigating-complaints-against-camp-mystic-as-it-seeks-reopen
-  headline: Texas investigating complaints against Camp Mystic as it seeks reopen
-  publish_date: '2026-04-08'
-  relation: related
-  strength: 0.5697
-- slug: 2026-03-21-prosecutors-seek-to-dismiss-charges-against-two-louisville-officers
-  headline: Prosecutors seek to dismiss charges against two Louisville officers
-  publish_date: '2026-03-21'
-  relation: related
-  strength: 0.5783
-- slug: 2026-03-26-rex-heuermann-expected-to-plead-guilty-in-gilgo-beach-case
-  headline: Rex Heuermann expected to plead guilty in Gilgo Beach case
-  publish_date: '2026-03-26'
-  relation: related
-  strength: 0.5693
-- slug: 2026-02-08-sheriff-frustrated-no-video-captured-during-nancy-guthrie-disappearance
-  headline: Sheriff frustrated no video captured during Nancy Guthrie disappearance
-  publish_date: '2026-02-08'
-  relation: related
-  strength: 0.5978
-- slug: 2026-02-05-savannah-guthrie-s-brother-records-new-message-for-kidnapper
-  headline: Savannah Guthrie’s brother records new message for kidnapper
-  publish_date: '2026-02-05'
-  relation: related
-  strength: 0.5861
-- slug: 2026-02-17-search-for-nancy-guthrie-shines-a-light-on-families-still-waiting
-  headline: Search for Nancy Guthrie shines a light on families still waiting
-  publish_date: '2026-02-17'
-  relation: related
-  strength: 0.5752
-- slug: 2026-02-11-mother-seeks-accountability-for-u-s-airman-roger-fortson-shot-by-fla-deputy
-  headline: Mother seeks accountability for U.S. Airman Roger Fortson shot by Fla. deputy
-  publish_date: '2026-02-11'
-  relation: related
-  strength: 0.5751
-- slug: 2026-02-05-savannah-guthrie-posts-message-seeking-proof-her-mom-is-alive
-  headline: Savannah Guthrie posts message seeking proof her mom is alive
-  publish_date: '2026-02-05'
-  relation: related
-  strength: 0.5764
 ---
-
 **Subtype:** fact
 
 - The family of Nolan Wells, a Black teenager who went missing during a July Fourth boat trip off the Mississippi coast, has agreed to work with the district attorney's office to inspect his cellphone.

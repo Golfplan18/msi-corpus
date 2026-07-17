@@ -1,9 +1,19 @@
 ---
 headline: Half of ICE field offices still lack body cameras after recent fatal shootings
-secondary_headline: Sen. Collins calls for mandate as independent video contradicts DHS accounts
+secondary_headline: Sen. Collins calls for mandate as independent video contradicts
+  DHS accounts
 publish_date: '2026-07-16'
-lede: The Department of Homeland Security has not fully deployed body cameras to immigration agents nearly six months after pledging to do so in January following fatal shootings in Minneapolis, leaving officers involved in recent deadly encounters without recordings. The agency said in a statement that half of its field offices currently have body cameras, with the other half expected to receive them within 60 days.
-nut_graf: None of the federal officers involved in the recent killings of two immigrant fathers — Lorenzo Salgado Araujo in Texas and Joan Durán Guerrero in Maine — were wearing body cameras, the agency said. DHS accused Salgado Araujo of weaponizing his car and trying to run over an agent, and described Durán Guerrero as a public safety threat while attempting to flee. Home and business surveillance footage and witness accounts have begun to raise questions about the official narrative.
+lede: The Department of Homeland Security has not fully deployed body cameras to immigration
+  agents nearly six months after pledging to do so in January following fatal shootings
+  in Minneapolis, leaving officers involved in recent deadly encounters without recordings.
+  The agency said in a statement that half of its field offices currently have body
+  cameras, with the other half expected to receive them within 60 days.
+nut_graf: None of the federal officers involved in the recent killings of two immigrant
+  fathers — Lorenzo Salgado Araujo in Texas and Joan Durán Guerrero in Maine — were
+  wearing body cameras, the agency said. DHS accused Salgado Araujo of weaponizing
+  his car and trying to run over an agent, and described Durán Guerrero as a public
+  safety threat while attempting to flee. Home and business surveillance footage and
+  witness accounts have begun to raise questions about the official narrative.
 primary_entities:
 - DHS
 - ICE
@@ -39,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -121,104 +132,47 @@ related_stories:
   headline: 'Garcia: ICE acting director promised body cameras after Houston shooting'
   publish_date: '2026-07-14'
   relation: related
-  strength: 0.7953
+  strength: 0.7971
 - slug: 2026-07-10-ice-agents-who-killed-houston-man-were-seeking-other-people-dhs-says
   headline: ICE agents who killed Houston man were seeking other people, DHS says
   publish_date: '2026-07-10'
   relation: related
-  strength: 0.7428
+  strength: 0.7427
 - slug: 2026-07-14-ice-halts-traffic-stops-after-two-fatal-shootings-in-less-than-a-week
   headline: ICE halts traffic stops after two fatal shootings in less than a week
   publish_date: '2026-07-14'
   relation: related
-  strength: 0.7084
+  strength: 0.7088
 - slug: 2026-07-13-biddeford-death-during-ice-operation-draws-fbi-investigation
   headline: Biddeford death during ICE operation draws FBI investigation
   publish_date: '2026-07-13'
   relation: related
-  strength: 0.7041
+  strength: 0.7048
 - slug: 2026-07-08-ice-officer-fatally-shoots-mexican-immigrant-in-houston-dhs-says
   headline: ICE officer fatally shoots Mexican immigrant in Houston, DHS says
   publish_date: '2026-07-08'
   relation: related
-  strength: 0.7077
+  strength: 0.7058
 - slug: 2026-05-19-minnesota-charges-ice-agent-in-jan-14-shooting-of-venezuelan-man
   headline: Minnesota charges ICE agent in Jan. 14 shooting of Venezuelan man
   publish_date: '2026-05-19'
   relation: related
-  strength: 0.6959
+  strength: 0.6962
 - slug: 2026-05-19-ice-officer-charged-in-shooting-of-venezuelan-man-during-minnesota-immigration-c
-  headline: ICE officer charged in shooting of Venezuelan man during Minnesota immigration crackdown
+  headline: ICE officer charged in shooting of Venezuelan man during Minnesota immigration
+    crackdown
   publish_date: '2026-05-19'
   relation: related
-  strength: 0.6911
-- slug: 2026-04-21-judge-orders-man-shot-by-ice-in-california-to-remain-in-custody
-  headline: Judge orders man shot by ICE in California to remain in custody
-  publish_date: '2026-04-21'
-  relation: related
-  strength: 0.6902
+  strength: 0.6913
 - slug: 2026-04-09-attorney-disputes-claims-against-man-shot-by-ice-in-central-california
   headline: Attorney disputes claims against man shot by ICE in central California
   publish_date: '2026-04-09'
   relation: related
-  strength: 0.702
-- slug: 2026-04-14-man-shot-by-ice-in-california-arrested-by-fbi-attorney-says
-  headline: Man shot by ICE in California arrested by FBI, attorney says
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.6919
-- slug: 2026-04-08-immigration-officers-say-they-shot-suspected-gang-member-in-california
-  headline: Immigration officers say they shot suspected gang member in California
-  publish_date: '2026-04-08'
-  relation: related
-  strength: 0.6943
-- slug: 2026-02-05-democrats-threaten-to-block-dhs-funding-unless-ice-changes
-  headline: Democrats threaten to block DHS funding unless ICE changes
-  publish_date: '2026-02-05'
-  relation: related
-  strength: 0.7304
-- slug: 2026-02-11-ice-acting-chief-todd-lyons-questioned-in-congress-on-immigration-policies
-  headline: ICE acting chief Todd Lyons questioned in Congress on immigration policies
-  publish_date: '2026-02-11'
-  relation: related
-  strength: 0.7262
-- slug: 2026-02-10-congress-seeks-dhs-funding-deal-as-democrats-press-ice-reform-demands
-  headline: Congress seeks DHS funding deal as Democrats press ICE reform demands
-  publish_date: '2026-02-10'
-  relation: related
-  strength: 0.7133
-- slug: 2026-01-27-six-people-killed-during-us-immigration-enforcement-operations
-  headline: Six people killed during US immigration enforcement operations
-  publish_date: '2026-01-27'
-  relation: related
-  strength: 0.717
-- slug: 2026-03-07-videos-challenge-dhs-account-of-fatal-shooting-of-us-citizen-by-immigration-agen
-  headline: Videos challenge DHS account of fatal shooting of US citizen by immigration agent in Texas
-  publish_date: '2026-03-07'
-  relation: related
-  strength: 0.6921
-- slug: 2026-02-16-no-clear-path-to-ending-partial-shutdown-as-dhs-oversight-talks-stall
-  headline: No clear path to ending partial shutdown as DHS oversight talks stall
-  publish_date: '2026-02-16'
-  relation: related
-  strength: 0.699
-- slug: 2026-02-05-noem-says-immigration-officers-in-minneapolis-will-wear-body-cameras
-  headline: Noem says immigration officers in Minneapolis will wear body cameras
-  publish_date: '2026-02-05'
-  relation: related
-  strength: 0.7047
-- slug: 2026-01-15-ice-agents-crowd-control-tactics-in-minneapolis-raise-training-safety-concerns
-  headline: ICE agents' crowd-control tactics in Minneapolis raise training, safety concerns
-  publish_date: '2026-01-15'
-  relation: related
-  strength: 0.7129
-- slug: 2026-02-13-homeland-security-shutdown-seems-certain-as-dhs-funding-talks-stall
-  headline: Homeland Security shutdown seems certain as DHS funding talks stall
-  publish_date: '2026-02-13'
-  relation: related
-  strength: 0.6964
+  strength: 0.6997
+analyses:
+- 2026-07-16-ice-body-camera-deployment-gap-mandate-absence-activation-loopholes-and-a-credib
+- '2026-07-16-six-months-after-pledge-half-of-ice-field-offices-still-lack-body-cameras-and-no'
 ---
-
 **Subtype:** fact
 
 - The Department of Homeland Security has not fully deployed body cameras to immigration agents nearly six months after pledging to do so in January following fatal shootings in Minneapolis.
@@ -256,3 +210,13 @@ Independent video footage has repeatedly contradicted DHS's accounts of recent d
 **Publication date:** 2026-07-16
 **Title:** DHS pledged body cams for all immigration agents. Months later, that hasn't happened
 **URL:** https://www.npr.org/2026/07/16/nx-s1-5894825/body-cams-ice-shootings
+
+---
+
+<!-- analysis-link:2026-07-16-ice-body-camera-deployment-gap-mandate-absence-activation-loopholes-and-a-credib -->
+**Going deeper:** [Read MSI's analysis of ICE body-camera deployment failure →](/analyses/2026-07-16-ice-body-camera-deployment-gap-mandate-absence-activation-loopholes-and-a-credib)
+
+---
+
+<!-- analysis-link:2026-07-16-six-months-after-pledge-half-of-ice-field-offices-still-lack-body-cameras-and-no -->
+**Going deeper:** [Read MSI's analysis of ICE body-camera deployment failure →](/analyses/2026-07-16-six-months-after-pledge-half-of-ice-field-offices-still-lack-body-cameras-and-no)

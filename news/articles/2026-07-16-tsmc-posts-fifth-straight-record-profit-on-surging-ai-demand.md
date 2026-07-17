@@ -2,8 +2,14 @@
 headline: TSMC posts fifth straight record profit on surging AI demand
 secondary_headline: Gross margin hits 67.7% as utilization rates drive efficiency
 publish_date: '2026-07-16'
-lede: Taiwan Semiconductor Manufacturing Co. reported its fifth consecutive quarter of record earnings Thursday, with net profit surging 77% from a year earlier to NT$706.56 billion (US$21.98 billion), far exceeding analyst expectations as global demand for artificial-intelligence infrastructure continues to fuel orders for advanced chips.
-nut_graf: The results, which beat the FactSet consensus estimate of NT$624.00 billion, reinforce the thesis that corporate spending on AI hardware remains robust and may help ease mounting concerns about whether the industry is overinvesting in capacity.
+lede: Taiwan Semiconductor Manufacturing Co. reported its fifth consecutive quarter
+  of record earnings Thursday, with net profit surging 77% from a year earlier to
+  NT$706.56 billion (US$21.98 billion), far exceeding analyst expectations as global
+  demand for artificial-intelligence infrastructure continues to fuel orders for advanced
+  chips.
+nut_graf: The results, which beat the FactSet consensus estimate of NT$624.00 billion,
+  reinforce the thesis that corporate spending on AI hardware remains robust and may
+  help ease mounting concerns about whether the industry is overinvesting in capacity.
 primary_entities:
 - TSMC
 - Taiwan Semiconductor Manufacturing Co.
@@ -43,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 2
@@ -127,105 +134,41 @@ related_stories:
   headline: S&P 500 net profit margin hits record 14.8% in first quarter
   publish_date: '2026-06-30'
   relation: related
-  strength: 0.6725
-- slug: 2026-07-07-big-tech-ai-capex-set-to-hit-168-billion-in-q2-as-meta-weighs-renting-out-spare-
-  headline: Big Tech AI capex set to hit $168 billion in Q2 as Meta weighs renting out spare capacity
-  publish_date: '2026-07-07'
-  relation: related
-  strength: 0.6261
+  strength: 0.6731
 - slug: 2026-06-23-morningstar-flags-tsmc-advantest-sas-as-undervalued-in-chip-stock-market-roundup
-  headline: Morningstar flags TSMC, Advantest, SAS as undervalued in chip stock market roundup
+  headline: Morningstar flags TSMC, Advantest, SAS as undervalued in chip stock market
+    roundup
   publish_date: '2026-06-23'
   relation: related
-  strength: 0.6763
+  strength: 0.6756
 - slug: 2026-06-24-micron-s-blockbuster-earnings-quiet-ai-doubters-shares-soar-14
   headline: Micron's blockbuster earnings quiet AI doubters; shares soar 14%
   publish_date: '2026-06-24'
   relation: related
-  strength: 0.6689
+  strength: 0.6688
 - slug: 2026-06-11-tech-market-roundup-oracle-ai-push-tsmc-leadership-crypto-slump-super-micro-dilu
-  headline: 'Tech Market Roundup: Oracle AI Push, TSMC Leadership, Crypto Slump, Super Micro Dilution'
+  headline: 'Tech Market Roundup: Oracle AI Push, TSMC Leadership, Crypto Slump, Super
+    Micro Dilution'
   publish_date: '2026-06-11'
   relation: related
-  strength: 0.7087
-- slug: 2026-06-25-kospi-surges-over-5-reclaims-9-000-intraday-on-micron-earnings
-  headline: KOSPI surges over 5%, reclaims 9,000 intraday on Micron earnings
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.6295
-- slug: 2026-06-08-european-chip-stocks-mixed-after-ai-selloff-orange-defends-sfr-deal
-  headline: European chip stocks mixed after AI selloff; Orange defends SFR deal
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.6307
-- slug: 2026-06-02-ai-memory-chip-supply-crunch-deepens-easyjet-jumps-on-takeover-speculation-bitco
-  headline: AI memory chip supply crunch deepens; easyJet jumps on takeover speculation; bitcoin falls
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.6414
-- slug: 2026-06-01-chip-stocks-power-s-p-500-through-historic-two-month-rally
-  headline: Chip stocks power S&P 500 through historic two-month rally
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.6424
-- slug: 2026-06-02-stmicroelectronics-shares-rally-8-after-raising-data-center-revenue-target
-  headline: STMicroelectronics shares rally 8% after raising data-center revenue target
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.6333
-- slug: 2026-06-01-south-korea-s-may-exports-surge-53-2-to-record-highs-on-ai-chip-demand
-  headline: South Korea's May exports surge 53.2% to record highs on AI chip demand
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.636
-- slug: 2026-06-02-s-p-500-notches-ninth-straight-gain-longest-streak-in-a-year
-  headline: S&P 500 notches ninth straight gain, longest streak in a year
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.6229
-- slug: 2026-05-22-nvidia-s-q1-results-beat-wall-street-on-surging-ai-chip-demand
-  headline: Nvidia’s Q1 results beat Wall Street on surging AI chip demand
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6266
-- slug: 2026-05-21-nvidia-q1-beats-wall-street-forecasts-as-ai-chip-demand-stays-strong
-  headline: Nvidia Q1 beats Wall Street forecasts as AI chip demand stays strong
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6276
-- slug: 2026-05-15-cisco-boosts-wall-street-records-s-p-hits-another-high-dow-reclaims-50-000
-  headline: Cisco boosts Wall Street records; S&P hits another high, Dow reclaims 50,000
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6318
-- slug: 2026-05-14-tech-stocks-push-wall-street-to-records-while-inflation-data-weighs-on-broader-m
-  headline: Tech stocks push Wall Street to records while inflation data weighs on broader market
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6282
-- slug: 2026-05-14-alibaba-says-ai-and-cloud-revenue-jumped-38-as-profit-fell-sharply
-  headline: Alibaba says AI and cloud revenue jumped 38% as profit fell sharply
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6249
-- slug: 2026-05-12-softbank-annual-profit-leaps-to-32-billion-on-ai-investment-gains
-  headline: SoftBank annual profit leaps to $32 billion on AI investment gains
-  publish_date: '2026-05-12'
-  relation: related
-  strength: 0.6286
+  strength: 0.7097
 - slug: 2026-02-12-the-ai-boom-lifts-taiwan-s-chip-economy-but-raises-bubble-and-china-risks
   headline: The AI boom lifts Taiwan’s chip economy, but raises bubble and China risks
   publish_date: '2026-02-12'
   relation: related
-  strength: 0.7198
+  strength: 0.7192
 - slug: 2026-01-29-taiwan-economy-grew-8-6-in-2025-fastest-pace-in-15-years
   headline: Taiwan economy grew 8.6% in 2025, fastest pace in 15 years
   publish_date: '2026-01-29'
   relation: related
   strength: 0.711
+- slug: 2026-02-11-ai-boom-lifts-taiwan-chip-economy-but-investors-worry-about-bubble-and-risk
+  headline: AI boom lifts Taiwan chip economy, but investors worry about bubble and
+    risk
+  publish_date: '2026-02-11'
+  relation: related
+  strength: 0.6972
 ---
-
-
 **Subtype:** fact
 
 - TSMC's second-quarter net profit rose 77% year-over-year to NT$706.56 billion (US$21.98 billion), surpassing the FactSet consensus estimate of NT$624.00 billion.

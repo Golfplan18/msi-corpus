@@ -1,9 +1,16 @@
 ---
-headline: Pat Oliphant, cartoonist who ridiculed presidents for five decades, dies at 90
+headline: Pat Oliphant, cartoonist who ridiculed presidents for five decades, dies
+  at 90
 secondary_headline: Son confirms age-related death at Santa Fe home
 publish_date: '2026-07-14'
-lede: Pat Oliphant, whose blunt political cartoons ridiculed presidents from Lyndon B. Johnson to Donald Trump over five decades, died Monday at his home in Santa Fe, New Mexico. He was 90. His son, Grant Oliphant, confirmed the death and said it was from age-related issues.
-nut_graf: Oliphant was widely considered the most syndicated editorial cartoonist in the United States, with his work appearing in more than 500 publications during the 1980s. His caricatures of political figures made him an enduring figure in American commentary.
+lede: Pat Oliphant, whose blunt political cartoons ridiculed presidents from Lyndon
+  B. Johnson to Donald Trump over five decades, died Monday at his home in Santa Fe,
+  New Mexico. He was 90. His son, Grant Oliphant, confirmed the death and said it
+  was from age-related issues.
+nut_graf: Oliphant was widely considered the most syndicated editorial cartoonist
+  in the United States, with his work appearing in more than 500 publications during
+  the 1980s. His caricatures of political figures made him an enduring figure in American
+  commentary.
 primary_entities:
 - Pat Oliphant
 - Grant Oliphant
@@ -39,7 +46,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -60,110 +68,8 @@ cross_article_links:
   strength: 0.5094
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-07-11-martha-lillard-who-used-iron-lung-for-73-years-after-polio-dies-at-78
-  headline: Martha Lillard, who used iron lung for 73 years after polio, dies at 78
-  publish_date: '2026-07-11'
-  relation: related
-  strength: 0.5158
-- slug: 2026-07-09-charlie-kirk-s-online-legacy-overtaken-by-ironic-memes-and-mockery
-  headline: Charlie Kirk's online legacy overtaken by ironic memes and mockery
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.5285
-- slug: 2026-06-13-elephant-urinates-on-texas-gop-convention-floor-prompts-criticism
-  headline: Elephant urinates on Texas GOP convention floor, prompts criticism
-  publish_date: '2026-06-13'
-  relation: related
-  strength: 0.5585
-- slug: 2026-06-22-alan-greenspan-former-fed-chair-who-shaped-modern-economy-dies-at-100
-  headline: Alan Greenspan, former Fed chair who shaped modern economy, dies at 100
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.5135
-- slug: 2026-06-13-trump-turns-80-as-white-house-projects-vigor-questions-over-health-persist
-  headline: Trump turns 80 as White House projects vigor, questions over health persist
-  publish_date: '2026-06-13'
-  relation: related
-  strength: 0.5511
-- slug: 2026-06-14-80th-birthday-draws-praise-and-criticism-for-president-trump
-  headline: 80th birthday draws praise and criticism for President Trump
-  publish_date: '2026-06-14'
-  relation: related
-  strength: 0.5282
-- slug: 2026-06-13-as-trump-turns-80-share-of-older-americans-still-working-has-quadrupled-since-19
-  headline: As Trump turns 80, share of older Americans still working has quadrupled since 1980s
-  publish_date: '2026-06-13'
-  relation: related
-  strength: 0.5066
-- slug: 2026-06-12-trump-insults-toward-female-journalists-draw-new-calls-for-press-to-push-back
-  headline: Trump insults toward female journalists draw new calls for press to push back
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.5086
-- slug: 2026-06-10-backlash-grows-in-japan-over-trump-s-use-of-anime-characters
-  headline: Backlash grows in Japan over Trump's use of anime characters
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.509
-- slug: 2026-05-26-clarence-b-jones-speechwriter-and-attorney-for-mlk-dies-at-95
-  headline: Clarence B. Jones, speechwriter and attorney for MLK, dies at 95
-  publish_date: '2026-05-26'
-  relation: related
-  strength: 0.5283
-- slug: 2026-05-13-usps-unveils-special-bald-eagle-stamps-for-america-s-250th-birthday
-  headline: USPS unveils special bald eagle stamps for America’s 250th birthday
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.5305
-- slug: 2026-05-14-usps-unveils-special-bald-eagle-stamps-for-america-s-250th-birthday
-  headline: USPS unveils special bald eagle stamps for America’s 250th birthday
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.5236
-- slug: 2026-05-08-cnn-founder-ted-turner-dies-at-87
-  headline: CNN founder Ted Turner dies at 87
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.5164
-- slug: 2026-04-26-trump-to-attend-white-house-correspondents-dinner-after-decades-of-roasts
-  headline: Trump to attend White House correspondents’ dinner after decades of roasts
-  publish_date: '2026-04-26'
-  relation: related
-  strength: 0.5394
-- slug: 2026-04-11-longtime-ap-reporter-and-editor-bill-mann-dies-at-83
-  headline: Longtime AP reporter and editor Bill Mann dies at 83
-  publish_date: '2026-04-11'
-  relation: related
-  strength: 0.5354
-- slug: 2026-03-10-alexander-butterfield-nixon-aide-who-disclosed-watergate-tapes-dies-at-99
-  headline: Alexander Butterfield, Nixon aide who disclosed Watergate tapes, dies at 99
-  publish_date: '2026-03-10'
-  relation: related
-  strength: 0.5307
-- slug: 2026-01-07-michael-reagan-eldest-son-of-president-ronald-reagan-dies-at-80
-  headline: Michael Reagan, eldest son of President Ronald Reagan, dies at 80
-  publish_date: '2026-01-07'
-  relation: related
-  strength: 0.5524
-- slug: 2026-01-09-trump-says-lapel-pin-is-happy-trump-after-asking-do-you-know-what-that-is
-  headline: Trump says lapel pin is “Happy Trump,” after asking “Do you know what that is”
-  publish_date: '2026-01-09'
-  relation: related
-  strength: 0.5457
-- slug: 2026-02-08-trump-deletes-racist-post-depicting-obamas-as-primates-after-backlash
-  headline: Trump deletes racist post depicting Obamas as primates after backlash
-  publish_date: '2026-02-08'
-  relation: related
-  strength: 0.5229
-- slug: 2026-02-08-trump-faces-rare-gop-blowback-over-post-depicting-obamas-as-primates
-  headline: Trump faces rare GOP blowback over post depicting Obamas as primates
-  publish_date: '2026-02-08'
-  relation: related
-  strength: 0.5183
+related_stories: []
 ---
-
-
 **Subtype:** fact
 
 - Pat Oliphant, a cartoonist whose blunt work ridiculed powerful figures across five decades, died July 13, 2026, at his home in Santa Fe, New Mexico, at age 90.

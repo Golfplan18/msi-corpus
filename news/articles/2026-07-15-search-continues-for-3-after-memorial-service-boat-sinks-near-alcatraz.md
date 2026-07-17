@@ -2,8 +2,13 @@
 headline: Search continues for 3 after memorial service boat sinks near Alcatraz
 secondary_headline: Rescue vessels comb bay for missing after Volare capsizes
 publish_date: '2026-07-15'
-lede: Rescuers were still searching Wednesday for three people missing after a boat carrying a memorial service group capsized and sank Tuesday afternoon in San Francisco Bay near Alcatraz Island, authorities said. One person died and 16 others were rescued from the cold, swift-moving waters.
-nut_graf: The accident turned what was planned as a remembrance into a search-and-rescue operation that continued into Wednesday. San Francisco Fire Chief Dean Crispen provided new details about the vessel and the circumstances of the sinking.
+lede: Rescuers were still searching Wednesday for three people missing after a boat
+  carrying a memorial service group capsized and sank Tuesday afternoon in San Francisco
+  Bay near Alcatraz Island, authorities said. One person died and 16 others were rescued
+  from the cold, swift-moving waters.
+nut_graf: The accident turned what was planned as a remembrance into a search-and-rescue
+  operation that continued into Wednesday. San Francisco Fire Chief Dean Crispen provided
+  new details about the vessel and the circumstances of the sinking.
 primary_entities:
 - San Francisco Bay
 - Alcatraz Island
@@ -33,7 +38,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -72,7 +78,8 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-07-14-pontoon-boat-carrying-memorial-service-group-sinks-near-alcatraz-1-dead-3-missin
-  headline: Pontoon boat carrying memorial service group sinks near Alcatraz; 1 dead, 3 missing
+  headline: Pontoon boat carrying memorial service group sinks near Alcatraz; 1 dead,
+    3 missing
   publish_date: '2026-07-14'
   relation: related
   strength: 0.8749
@@ -81,99 +88,7 @@ related_stories:
   publish_date: '2026-07-15'
   relation: related
   strength: 0.7533
-- slug: 2026-07-07-preliminary-cause-of-death-consistent-with-drowning-police-say-for-three-girls-f
-  headline: Preliminary cause of death consistent with drowning, police say, for three girls found in sunken Wisconsin boat
-  publish_date: '2026-07-07'
-  relation: related
-  strength: 0.6242
-- slug: 2026-07-04-storm-sinks-geneva-lake-boat-three-children-die
-  headline: Storm sinks Geneva Lake boat; three children die
-  publish_date: '2026-07-04'
-  relation: related
-  strength: 0.6069
-- slug: 2026-06-22-tesla-crashes-into-texas-home-connecticut-pool-in-separate-incidents
-  headline: Tesla crashes into Texas home, Connecticut pool in separate incidents
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.5863
-- slug: 2026-06-19-us-military-kills-3-in-pacific-boat-strike-campaign-death-toll-reaches-211
-  headline: US military kills 3 in Pacific boat strike, campaign death toll reaches 211
-  publish_date: '2026-06-19'
-  relation: related
-  strength: 0.5795
-- slug: 2026-06-08-gray-whales-shift-into-san-francisco-bay-new-detection-system-warns-ships
-  headline: Gray whales shift into San Francisco Bay; new detection system warns ships
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.5835
-- slug: 2026-05-20-california-turns-to-ai-to-reduce-whale-ship-collisions-amid-deaths-spike
-  headline: California turns to AI to reduce whale-ship collisions amid deaths spike
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.5909
-- slug: 2026-05-11-malaysia-searches-for-14-missing-indonesians-after-migrant-boat-sinks
-  headline: Malaysia searches for 14 missing Indonesians after migrant boat sinks
-  publish_date: '2026-05-11'
-  relation: related
-  strength: 0.6103
-- slug: 2026-05-11-malaysia-searches-for-14-missing-after-migrant-boat-sinks-off-pangkor
-  headline: Malaysia searches for 14 missing after migrant boat sinks off Pangkor
-  publish_date: '2026-05-11'
-  relation: related
-  strength: 0.5996
-- slug: 2026-05-10-11-taken-to-hospitals-after-boat-explosion-near-miami
-  headline: 11 taken to hospitals after boat explosion near Miami
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.5924
-- slug: 2026-05-10-11-injured-after-charter-boat-explosion-in-biscayne-bay-near-miami
-  headline: 11 injured after charter boat explosion in Biscayne Bay near Miami
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.5897
-- slug: 2026-05-14-rescuers-recount-effort-to-retrieve-11-survivors-from-life-raft-off-florida
-  headline: Rescuers recount effort to retrieve 11 survivors from life raft off Florida
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.5769
-- slug: 2026-04-28-search-suspended-for-crew-of-mariana-cargo-ship-overturned-in-typhoon
-  headline: Search suspended for crew of Mariana cargo ship overturned in typhoon
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.5921
-- slug: 2026-03-06-fishing-vessel-yankee-rose-sinks-off-cape-cod-killing-two
-  headline: Fishing vessel Yankee Rose sinks off Cape Cod, killing two
-  publish_date: '2026-03-06'
-  relation: related
-  strength: 0.637
-- slug: 2026-04-17-pilot-reported-high-frequency-vibrations-before-kauai-helicopter-crash-killed-3
-  headline: Pilot reported high-frequency vibrations before Kauai helicopter crash killed 3
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.5797
-- slug: 2026-03-05-fishing-vessel-capsizes-off-cape-cod-one-crew-member-rescued-one-missing
-  headline: Fishing vessel capsizes off Cape Cod; one crew member rescued, one missing
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.6287
-- slug: 2026-02-13-surfers-rescue-six-after-small-motor-boat-capsizes-off-santa-cruz-coast
-  headline: Surfers rescue six after small motor boat capsizes off Santa Cruz coast
-  publish_date: '2026-02-13'
-  relation: related
-  strength: 0.6359
-- slug: 2026-02-19-authorities-deploy-tech-to-locate-wreck-of-fishing-boat-near-gloucester
-  headline: Authorities deploy tech to locate wreck of fishing boat near Gloucester
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.6269
-- slug: 2026-03-19-coast-guard-investigating-after-2-die-aboard-barge-in-alaska
-  headline: Coast Guard investigating after 2 die aboard barge in Alaska
-  publish_date: '2026-03-19'
-  relation: related
-  strength: 0.602
 ---
-
-
 **Subtype:** fact
 
 - Rescuers are still searching for three people missing after a boat sank Tuesday during a memorial service near Alcatraz Island in San Francisco Bay, authorities said Wednesday.

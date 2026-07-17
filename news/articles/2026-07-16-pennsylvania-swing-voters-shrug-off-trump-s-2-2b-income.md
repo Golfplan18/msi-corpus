@@ -2,8 +2,15 @@
 headline: Pennsylvania swing voters shrug off Trump's $2.2B income
 secondary_headline: Focus groups reveal mixed views about political corruption
 publish_date: '2026-07-16'
-lede: President Donald Trump's financial disclosure showing his family businesses reported $2.2 billion in revenue last year — driven largely by cryptocurrency earnings — drew mixed reactions from Pennsylvania swing voters in two online focus groups observed by NPR on Tuesday, with half of participants expressing concern and the other half dismissing the income as standard political behavior.
-nut_graf: The divided response illustrates a deepening skepticism among voters that could complicate Democratic efforts to make Trump's wealth a central midterm campaign issue, as focus group participants characterized corruption as a systemic problem affecting all politicians rather than a unique failing of the president.
+lede: President Donald Trump's financial disclosure showing his family businesses
+  reported $2.2 billion in revenue last year — driven largely by cryptocurrency earnings
+  — drew mixed reactions from Pennsylvania swing voters in two online focus groups
+  observed by NPR on Tuesday, with half of participants expressing concern and the
+  other half dismissing the income as standard political behavior.
+nut_graf: The divided response illustrates a deepening skepticism among voters that
+  could complicate Democratic efforts to make Trump's wealth a central midterm campaign
+  issue, as focus group participants characterized corruption as a systemic problem
+  affecting all politicians rather than a unique failing of the president.
 primary_entities:
 - Ashley Lopez
 - Rich Thau
@@ -38,7 +45,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -123,104 +131,46 @@ related_stories:
   headline: Democrats seize on Trump's $2.2B income as campaign issue
   publish_date: '2026-07-04'
   relation: related
-  strength: 0.7969
+  strength: 0.798
 - slug: 2026-07-15-trump-s-second-term-fundraising-network-tops-500-million
   headline: Trump's second-term fundraising network tops $500 million
   publish_date: '2026-07-15'
   relation: related
-  strength: 0.7241
+  strength: 0.7272
 - slug: 2026-07-01-trump-earned-over-1-billion-from-crypto-ventures-in-2025-filing-shows
   headline: Trump earned over $1 billion from crypto ventures in 2025, filing shows
   publish_date: '2026-07-01'
   relation: related
-  strength: 0.7233
+  strength: 0.7246
 - slug: 2026-06-30-trump-made-over-1-billion-from-crypto-ventures-in-2025-filing-shows
   headline: Trump made over $1 billion from crypto ventures in 2025, filing shows
   publish_date: '2026-06-30'
   relation: related
-  strength: 0.7085
-- slug: 2026-07-11-trump-accounts-launch-with-1-000-for-newborns-as-experts-question-reach
-  headline: Trump Accounts launch with $1,000 for newborns as experts question reach
-  publish_date: '2026-07-11'
-  relation: related
-  strength: 0.6346
+  strength: 0.7104
 - slug: 2026-07-03-legal-experts-predict-heavy-scrutiny-of-trump-if-democrats-win-house
   headline: Legal experts predict heavy scrutiny of Trump if Democrats win House
   publish_date: '2026-07-03'
   relation: related
-  strength: 0.681
-- slug: 2026-06-22-trump-s-white-blue-collar-support-erodes-guardian-analysis-finds
-  headline: Trump's white, blue-collar support erodes, Guardian analysis finds
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.6335
-- slug: 2026-06-04-k-shaped-inequality-widens-as-wealthy-gain-working-americans-feel-inflation-sque
-  headline: K-shaped" inequality widens as wealthy gain, working Americans feel inflation squeeze
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.6348
+  strength: 0.6836
 - slug: 2026-05-20-trump-discloses-thousands-of-stock-trades-including-nvidia-and-apple
   headline: Trump discloses thousands of stock trades, including Nvidia and Apple
   publish_date: '2026-05-20'
   relation: related
-  strength: 0.6813
-- slug: 2026-06-02-democrats-push-back-on-trump-rule-allowing-crypto-in-401-k-plans
-  headline: Democrats push back on Trump rule allowing crypto in 401(k) plans
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.6368
+  strength: 0.6837
 - slug: 2026-05-19-trump-discloses-thousands-of-stock-trades-tied-to-policy-ethics-filing-shows
-  headline: Trump discloses thousands of stock trades tied to policy, ethics filing shows
+  headline: Trump discloses thousands of stock trades tied to policy, ethics filing
+    shows
   publish_date: '2026-05-19'
   relation: related
-  strength: 0.6683
+  strength: 0.6704
 - slug: 2026-05-21-trump-discloses-thousands-of-stock-trades-tied-to-policy-and-defense
   headline: Trump discloses thousands of stock trades tied to policy and defense
   publish_date: '2026-05-21'
   relation: related
-  strength: 0.6621
-- slug: 2026-05-17-trump-seeks-90-day-pause-on-10b-irs-lawsuit-over-tax-leak
-  headline: Trump seeks 90-day pause on $10B IRS lawsuit over tax leak
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6634
-- slug: 2026-05-21-trump-veers-off-economy-message-during-new-york-visit-for-rep-mike-lawler
-  headline: Trump veers off economy message during New York visit for Rep. Mike Lawler
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.647
-- slug: 2026-02-13-trump-s-fundraising-war-chest-could-reshape-the-2026-midterms
-  headline: Trump’s fundraising war chest could reshape the 2026 midterms
-  publish_date: '2026-02-13'
-  relation: related
-  strength: 0.73
-- slug: 2026-04-14-trump-family-business-deals-raise-fresh-conflict-of-interest-questions
-  headline: Trump family business deals raise fresh conflict-of-interest questions
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.6623
-- slug: 2026-04-24-ap-norc-poll-shows-trump-losing-approval-among-hispanics-young-adults
-  headline: AP-NORC poll shows Trump losing approval among Hispanics, young adults
-  publish_date: '2026-04-24'
-  relation: related
-  strength: 0.6442
-- slug: 2026-04-17-trump-touts-400m-ballroom-plan-amid-criticism-he-s-out-of-touch
-  headline: Trump touts $400M ballroom plan amid criticism he's out of touch
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.6445
-- slug: 2026-04-22-trump-s-economy-approval-slips-in-ap-norc-poll-as-iran-war-prices-rise
-  headline: Trump’s economy approval slips in AP-NORC poll as Iran-war prices rise
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.6358
-- slug: 2026-01-15-ap-norc-trump-approval-holds-at-4-in-10-one-year-into-second-term
-  headline: 'AP-NORC: Trump approval holds at 4 in 10 one year into second term'
-  publish_date: '2026-01-15'
-  relation: related
-  strength: 0.6733
+  strength: 0.664
+analyses:
+- '2026-07-16-the-2-2-billion-shrug-is-a-rental-pennsylvania-swing-voters-tolerance-of-trump-s'
 ---
-
 **Subtype:** fact
 
 - President Donald Trump's family businesses reported $2.2 billion in revenue last year, largely from cryptocurrency, according to his recent financial disclosures.
@@ -253,3 +203,8 @@ The mixed reaction suggests that Democratic efforts to make Trump's wealth a cam
 **Publication date:** 2026-07-16
 **Title:** Trump earned billions last year. Some Pennsylvania swing voters say they don't care
 **URL:** https://www.npr.org/2026/07/16/nx-s1-5893599/pennsylvania-focus-groups-trump-corruption
+
+---
+
+<!-- analysis-link:2026-07-16-the-2-2-billion-shrug-is-a-rental-pennsylvania-swing-voters-tolerance-of-trump-s -->
+**Going deeper:** [Read MSI's analysis of An integrated analysis of NPR's focus-group report on Pennsylvania swing voters' reactions to Trump's $2.2 billion income disclosure — finding that the dismissive half's tolerance rests on a fragile legality threshold, that the cryptocurrency source of the revenue is the most structurally significant and most underreported feature, and that Democratic campaign strategy faces headwinds rooted in voter psychology rather than factual dispute. →](/analyses/2026-07-16-the-2-2-billion-shrug-is-a-rental-pennsylvania-swing-voters-tolerance-of-trump-s)

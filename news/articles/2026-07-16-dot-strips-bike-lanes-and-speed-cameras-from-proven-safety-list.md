@@ -2,8 +2,12 @@
 headline: DOT strips bike lanes and speed cameras from proven safety list
 secondary_headline: FHWA removes five safety strategies without public announcement
 publish_date: '2026-07-16'
-lede: The Federal Highway Administration has quietly removed bike lanes, speed cameras, and three other measures from its list of "Proven Safety Countermeasures," an action that critics say undermines strategies shown to reduce crashes and save lives.
-nut_graf: The removal, which was not publicly announced, narrows a list that had been recently expanded to 28 evidence-backed items and had influenced state and local investment in traffic safety projects as U.S. roadway deaths remain elevated.
+lede: The Federal Highway Administration has quietly removed bike lanes, speed cameras,
+  and three other measures from its list of "Proven Safety Countermeasures," an action
+  that critics say undermines strategies shown to reduce crashes and save lives.
+nut_graf: The removal, which was not publicly announced, narrows a list that had been
+  recently expanded to 28 evidence-backed items and had influenced state and local
+  investment in traffic safety projects as U.S. roadway deaths remain elevated.
 primary_entities:
 - Federal Highway Administration
 - Department of Transportation
@@ -37,7 +41,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -114,109 +119,11 @@ cross_article_links:
   relation: related
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-07-15-doe-deletes-over-1-600-energy-saving-webpages-as-heatwave-grips-us
-  headline: DOE deletes over 1,600 energy-saving webpages as heatwave grips US
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.5869
-- slug: 2026-06-04-honolulu-s-biki-bike-share-fleet-shrinks-by-60-amid-vandalism
-  headline: Honolulu's Biki bike-share fleet shrinks by 60% amid vandalism
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.5854
-- slug: 2026-05-21-rfk-jr-fires-leaders-of-task-force-setting-preventive-care-guidelines
-  headline: RFK Jr. fires leaders of task force setting preventive care guidelines
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6048
-- slug: 2026-05-23-rfk-jr-fires-leaders-of-panel-that-sets-insurance-preventive-care-rules
-  headline: RFK Jr. fires leaders of panel that sets insurance preventive-care rules
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.5989
-- slug: 2026-05-22-rfk-jr-fires-leaders-of-task-force-that-sets-screening-coverage-rules
-  headline: RFK Jr. fires leaders of task force that sets screening coverage rules
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6006
-- slug: 2026-05-20-rfk-jr-fires-leaders-of-panel-that-sets-preventive-health-screening-rules
-  headline: RFK Jr. fires leaders of panel that sets preventive health-screening rules
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.5855
-- slug: 2026-04-24-honolulu-s-speed-camera-rollout-tickets-few-drivers-as-courts-adapt
-  headline: Honolulu’s speed-camera rollout tickets few drivers as courts adapt
-  publish_date: '2026-04-24'
-  relation: related
-  strength: 0.6363
-- slug: 2026-04-16-new-york-to-lose-73-5m-in-federal-funds-over-unrevoked-immigrant-cdls
-  headline: New York to lose $73.5M in federal funds over unrevoked immigrant CDLs
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.6081
-- slug: 2026-04-15-fda-to-weigh-easing-limits-on-unproven-peptides-favored-by-rfk-jr
-  headline: FDA to weigh easing limits on unproven peptides favored by RFK Jr.
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.5969
-- slug: 2026-03-05-hawai-i-school-panic-button-program-stalls-as-contractor-faces-federal-bribery-p
-  headline: Hawaiʻi school panic button program stalls as contractor faces federal bribery probe
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.6046
-- slug: 2026-02-12-trump-administration-congress-move-to-delay-us-ev-charging-build-out
-  headline: Trump administration, Congress move to delay US EV charging build-out
-  publish_date: '2026-02-12'
-  relation: related
-  strength: 0.6166
-- slug: 2026-03-19-faa-to-use-radar-for-helicopter-plane-separation-at-busiest-airports
-  headline: FAA to use radar for helicopter-plane separation at busiest airports
-  publish_date: '2026-03-19'
-  relation: related
-  strength: 0.5854
-- slug: 2026-01-20-hawaii-deploys-deputies-for-statewide-traffic-enforcement
-  headline: Hawaii deploys deputies for statewide traffic enforcement
-  publish_date: '2026-01-20'
-  relation: related
-  strength: 0.6206
-- slug: 2026-03-12-san-jose-tightens-rules-on-license-plate-readers-amid-privacy-lawsuit
-  headline: San Jose tightens rules on license plate readers amid privacy lawsuit
-  publish_date: '2026-03-12'
-  relation: related
-  strength: 0.588
-- slug: 2026-02-19-transportation-department-orders-closure-of-over-550-cdl-driving-schools
-  headline: Transportation Department orders closure of over 550 CDL driving schools
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.5981
-- slug: 2026-03-04-judge-blocks-trump-administration-s-bid-to-halt-manhattan-congestion-toll
-  headline: Judge blocks Trump administration’s bid to halt Manhattan congestion toll
-  publish_date: '2026-03-04'
-  relation: related
-  strength: 0.5878
-- slug: 2026-02-13-federal-law-on-impairment-detection-devices-in-new-cars-faces-delays
-  headline: Federal law on impairment-detection devices in new cars faces delays
-  publish_date: '2026-02-13'
-  relation: related
-  strength: 0.5977
-- slug: 2026-02-23-education-department-transfers-grant-programs-to-hhs-and-state
-  headline: Education Department transfers grant programs to HHS and State
-  publish_date: '2026-02-23'
-  relation: related
-  strength: 0.5916
-- slug: 2026-02-16-rfk-jr-pledged-transparency-but-some-federal-health-data-still-missing
-  headline: RFK Jr. pledged transparency, but some federal health data still missing
-  publish_date: '2026-02-16'
-  relation: related
-  strength: 0.5959
-- slug: 2026-01-08-trump-epa-rolls-back-grant-and-environmental-justice-support-for-water-systems
-  headline: Trump EPA rolls back grant and environmental justice support for water systems
-  publish_date: '2026-01-08'
-  relation: related
-  strength: 0.6085
+related_stories: []
+analyses:
+- 2026-07-16-the-silent-list-how-the-fhwa-deleted-proven-safety-tools-without-a-word-and-why
+- '2026-07-16-the-fhwa-s-silent-gutting-of-proven-safety-how-a-political-directive-overrode-re'
 ---
-
 ## FHWA removes five safety strategies without public announcement
 
 **Subtype:** fact
@@ -247,3 +154,13 @@ More than 36,000 people were killed on U.S. roads last year, though the number h
 **Publication date:** 2026-07-16
 **Title:** Bike lanes and speed cameras disappear from the DOT's list of proven safety measures
 **URL:** https://www.npr.org/2026/07/16/nx-s1-5893672/dot-bike-lanes-speed-cameras-safety-measures
+
+---
+
+<!-- analysis-link:2026-07-16-the-silent-list-how-the-fhwa-deleted-proven-safety-tools-without-a-word-and-why -->
+**Going deeper:** [Read MSI's analysis of Will the administration publish the evidence review that led to the removals, or will it continue to justify the change solely on policy grounds — and what does that procedural choice signal about the expected durability of the policy? →](/analyses/2026-07-16-the-silent-list-how-the-fhwa-deleted-proven-safety-tools-without-a-word-and-why)
+
+---
+
+<!-- analysis-link:2026-07-16-the-fhwa-s-silent-gutting-of-proven-safety-how-a-political-directive-overrode-re -->
+**Going deeper:** [Read MSI's analysis of Federal highway safety governance; political override of evidence-based policy; FHWA Proven Safety Countermeasures list removal; stakeholder dynamics; systems-dynamics analysis →](/analyses/2026-07-16-the-fhwa-s-silent-gutting-of-proven-safety-how-a-political-directive-overrode-re)

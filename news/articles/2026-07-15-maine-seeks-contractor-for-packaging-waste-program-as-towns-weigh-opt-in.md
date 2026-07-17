@@ -1,9 +1,15 @@
 ---
 headline: Maine seeks contractor for packaging waste program as towns weigh opt-in
-secondary_headline: Program behind schedule, reimbursement delayed until at least late 2027
+secondary_headline: Program behind schedule, reimbursement delayed until at least
+  late 2027
 publish_date: '2026-07-15'
-lede: The Maine Department of Environmental Protection is seeking a contractor to operate a program that aims to cut down on packaging waste, but the program's success depends on voluntary municipal participation that some town leaders say may be too cumbersome.
-nut_graf: The program, approved in 2021, shifts the cost of recycling packaging from local taxpayers to the companies that produce it, according to the Department of Environmental Protection.
+lede: The Maine Department of Environmental Protection is seeking a contractor to
+  operate a program that aims to cut down on packaging waste, but the program's success
+  depends on voluntary municipal participation that some town leaders say may be too
+  cumbersome.
+nut_graf: The program, approved in 2021, shifts the cost of recycling packaging from
+  local taxpayers to the companies that produce it, according to the Department of
+  Environmental Protection.
 primary_entities:
 - Maine
 - Maine Department of Environmental Protection
@@ -30,7 +36,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -108,109 +115,23 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-07-13-colorado-law-makes-automakers-pay-for-ev-battery-recycling
-  headline: Colorado law makes automakers pay for EV battery recycling
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.5985
 - slug: 2026-06-23-17-states-and-trade-group-sue-california-over-plastic-packaging-law
   headline: 17 states and trade group sue California over plastic packaging law
   publish_date: '2026-06-23'
   relation: related
   strength: 0.6573
-- slug: 2026-06-12-maine-begins-ranked-choice-ballot-counting-for-governor-house-primaries
-  headline: Maine begins ranked-choice ballot counting for governor, House primaries
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.6102
 - slug: 2026-05-14-california-plastic-recycling-rules-spark-court-threats-and-industry-pushback
   headline: California plastic recycling rules spark court threats and industry pushback
   publish_date: '2026-05-14'
   relation: related
   strength: 0.6731
 - slug: 2026-05-14-california-sets-2032-deadline-for-recyclable-plastic-packaging-drawing-lawsuits-
-  headline: California sets 2032 deadline for recyclable plastic packaging, drawing lawsuits from both sides
+  headline: California sets 2032 deadline for recyclable plastic packaging, drawing
+    lawsuits from both sides
   publish_date: '2026-05-14'
   relation: related
   strength: 0.6683
-- slug: 2026-06-01-uk-waste-companies-propose-5-vape-deposit-to-curb-bin-fires-a-year-after-disposa
-  headline: UK waste companies propose £5 vape deposit to curb bin fires a year after disposal ban
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.595
-- slug: 2026-05-23-program-gives-maine-fish-fillets-to-schools-and-food-banks
-  headline: Program gives Maine fish fillets to schools and food banks
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6162
-- slug: 2026-05-21-maine-beach-towns-brace-for-fewer-canadian-bookings-as-fuel-costs-rise
-  headline: Maine beach towns brace for fewer Canadian bookings as fuel costs rise
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.5911
-- slug: 2026-05-13-maine-ranked-choice-voting-remains-stuck-in-hybrid-limbo-for-nov-elections
-  headline: Maine ranked-choice voting remains stuck in hybrid limbo for Nov elections
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6078
-- slug: 2026-05-15-trump-epa-proposes-rolling-back-limits-on-toxic-coal-wastewater
-  headline: Trump EPA proposes rolling back limits on toxic coal wastewater
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.595
-- slug: 2026-04-24-maine-signs-zoning-bill-clarifying-affordable-housing-rules-and-deadlines
-  headline: Maine signs zoning bill clarifying affordable-housing rules and deadlines
-  publish_date: '2026-04-24'
-  relation: related
-  strength: 0.5975
-- slug: 2026-03-18-maine-lawmakers-consider-fund-to-turn-closed-schools-into-housing
-  headline: Maine lawmakers consider fund to turn closed schools into housing
-  publish_date: '2026-03-18'
-  relation: related
-  strength: 0.643
-- slug: 2026-04-17-wyoming-communities-ask-for-time-as-federal-nuclear-push-meets-waste-storage-deb
-  headline: Wyoming communities ask for time as federal nuclear push meets waste storage debate
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.6027
-- slug: 2026-04-15-epa-proposes-reclassifying-plastic-pyrolysis-potentially-gutting-air-pollution-c
-  headline: EPA proposes reclassifying plastic pyrolysis, potentially gutting air pollution controls
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.6039
-- slug: 2026-04-03-epa-proposes-listing-microplastics-pharmaceuticals-as-drinking-water-contaminant
-  headline: EPA proposes listing microplastics, pharmaceuticals as drinking-water contaminants
-  publish_date: '2026-04-03'
-  relation: related
-  strength: 0.6013
-- slug: 2026-03-05-maine-lobster-catch-declines-again-for-fourth-straight-year
-  headline: Maine lobster catch declines again for fourth straight year
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.629
-- slug: 2026-03-13-minnesota-lawmakers-hear-water-system-funding-needs-as-bonding-bill-debate-grows
-  headline: Minnesota lawmakers hear water system funding needs as bonding bill debate grows
-  publish_date: '2026-03-13'
-  relation: related
-  strength: 0.6094
-- slug: 2026-03-15-states-weigh-in-on-cash-purchases-without-pennies
-  headline: States weigh in on cash purchases without pennies
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.6035
-- slug: 2026-02-26-refill-stores-and-other-options-aim-to-cut-packaging-waste
-  headline: Refill stores and other options aim to cut packaging waste
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.6093
-- slug: 2026-02-23-maine-policymakers-address-electricity-crisis-as-winter-cold-drives-costs-soarin
-  headline: Maine policymakers address electricity crisis as winter cold drives costs soaring
-  publish_date: '2026-02-23'
-  relation: related
-  strength: 0.6009
 ---
-
-
 **Subtype:** fact
 
 - The Maine Department of Environmental Protection issued a request for proposals on June 15 to seek a contractor to operate the packaging waste program for 10 years, with bids due Aug. 3.

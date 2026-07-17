@@ -1,9 +1,16 @@
 ---
-headline: Most Jewish adults say neither party supports their community, AP-NORC poll finds
+headline: Most Jewish adults say neither party supports their community, AP-NORC poll
+  finds
 secondary_headline: 63% say antisemitism is a serious problem in the U.S.
 publish_date: '2026-07-09'
-lede: A new poll from The Associated Press-NORC Center for Public Affairs Research finds that most Jewish adults in the United States do not feel well represented by political leaders at a time when a majority view prejudice against Jewish people as a serious problem in the country.
-nut_graf: The findings, released July 9, capture a sense of political alienation among Jewish Americans nearly three years after the Oct. 7, 2023, Hamas attack triggered the war in Gaza. Most Jewish adults said they do not feel well represented by political leaders, including President Trump and either major party.
+lede: A new poll from The Associated Press-NORC Center for Public Affairs Research
+  finds that most Jewish adults in the United States do not feel well represented
+  by political leaders at a time when a majority view prejudice against Jewish people
+  as a serious problem in the country.
+nut_graf: The findings, released July 9, capture a sense of political alienation among
+  Jewish Americans nearly three years after the Oct. 7, 2023, Hamas attack triggered
+  the war in Gaza. Most Jewish adults said they do not feel well represented by political
+  leaders, including President Trump and either major party.
 primary_entities:
 - United States
 - Democratic Party
@@ -37,7 +44,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -116,7 +124,8 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-07-13-younger-jewish-adults-prioritize-holidays-over-israel-support-ap-norc-poll-finds
-  headline: Younger Jewish adults prioritize holidays over Israel support, AP-NORC poll finds
+  headline: Younger Jewish adults prioritize holidays over Israel support, AP-NORC
+    poll finds
   publish_date: '2026-07-13'
   relation: related
   strength: 0.7928
@@ -136,7 +145,8 @@ related_stories:
   relation: related
   strength: 0.6776
 - slug: 2026-06-15-half-of-aapi-adults-report-upheaval-from-trump-immigration-policies-poll-finds
-  headline: Half of AAPI adults report upheaval from Trump immigration policies, poll finds
+  headline: Half of AAPI adults report upheaval from Trump immigration policies, poll
+    finds
   publish_date: '2026-06-15'
   relation: related
   strength: 0.6603
@@ -151,72 +161,12 @@ related_stories:
   relation: related
   strength: 0.7076
 - slug: 2026-05-06-ap-norc-poll-finds-many-americans-changed-routines-as-trump-ramps-immigration-en
-  headline: AP-NORC poll finds many Americans changed routines as Trump ramps immigration enforcement
+  headline: AP-NORC poll finds many Americans changed routines as Trump ramps immigration
+    enforcement
   publish_date: '2026-05-06'
   relation: related
   strength: 0.7013
-- slug: 2026-05-07-many-americans-say-trump-s-immigration-crackdown-makes-u-s-unwelcoming-poll
-  headline: 'Many Americans say Trump’s immigration crackdown makes U.S. unwelcoming: poll'
-  publish_date: '2026-05-07'
-  relation: related
-  strength: 0.6964
-- slug: 2026-05-20-more-republicans-approve-of-trump-on-immigration-than-the-economy-poll-finds
-  headline: More Republicans approve of Trump on immigration than the economy, poll finds
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.6598
-- slug: 2026-04-24-ap-norc-poll-shows-trump-losing-approval-among-hispanics-young-adults
-  headline: AP-NORC poll shows Trump losing approval among Hispanics, young adults
-  publish_date: '2026-04-24'
-  relation: related
-  strength: 0.683
-- slug: 2026-04-15-dearborn-s-arab-americans-find-middle-east-peace-further-away-under-trump
-  headline: Dearborn's Arab Americans find Middle East peace further away under Trump
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.6807
-- slug: 2026-02-28-american-sympathy-shifts-toward-palestinians-and-away-from-israelis-gallup-poll
-  headline: 'American sympathy shifts toward Palestinians and away from Israelis: Gallup poll'
-  publish_date: '2026-02-28'
-  relation: related
-  strength: 0.73
-- slug: 2026-02-19-many-democrats-still-down-on-their-own-party-ap-norc-poll-finds
-  headline: Many Democrats still down on their own party, AP-NORC poll finds
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.714
-- slug: 2026-03-25-poll-most-americans-say-us-action-in-iran-has-gone-too-far
-  headline: 'Poll: Most Americans Say US Action in Iran Has Gone Too Far'
-  publish_date: '2026-03-25'
-  relation: related
-  strength: 0.6756
-- slug: 2026-03-26-poll-finds-most-americans-think-us-military-action-against-iran-has-gone-too-far
-  headline: Poll finds most Americans think US military action against Iran has gone too far
-  publish_date: '2026-03-26'
-  relation: related
-  strength: 0.6733
-- slug: 2026-03-20-us-jews-weigh-threats-and-internal-rifts-over-israel-s-gaza-war
-  headline: US Jews weigh threats and internal rifts over Israel’s Gaza war
-  publish_date: '2026-03-20'
-  relation: related
-  strength: 0.6759
-- slug: 2026-02-27-poll-finds-americans-fear-iran-s-nuclear-threat-but-doubt-trump-s-war-judgment
-  headline: Poll finds Americans fear Iran’s nuclear threat but doubt Trump’s war judgment
-  publish_date: '2026-02-27'
-  relation: related
-  strength: 0.6907
-- slug: 2026-02-23-josh-shapiro-says-antisemitism-is-a-very-real-problem-in-both-parties
-  headline: Josh Shapiro says antisemitism is “a very real problem” in both parties
-  publish_date: '2026-02-23'
-  relation: related
-  strength: 0.6842
-- slug: 2026-02-13-ap-norc-poll-finds-independents-increasingly-disapprove-of-trump-immigration-tac
-  headline: AP-NORC poll finds independents increasingly disapprove of Trump immigration tactics
-  publish_date: '2026-02-13'
-  relation: related
-  strength: 0.6642
 ---
-
 **Subtype:** fact
 
 - The AP-NORC poll found that most Jewish adults do not feel well represented by political leaders, with few believing President Donald Trump or either major party is doing a good job supporting the Jewish community.

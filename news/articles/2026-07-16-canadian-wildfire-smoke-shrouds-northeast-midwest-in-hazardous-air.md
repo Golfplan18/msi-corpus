@@ -2,8 +2,13 @@
 headline: Canadian wildfire smoke shrouds Northeast, Midwest in hazardous air
 secondary_headline: More than 100 uncontrolled blazes in Canada drive plume south
 publish_date: '2026-07-16'
-lede: A thick plume of smoke from Canadian wildfires blanketed large portions of the Northeast and Midwest on Wednesday, degrading air quality and prompting health alerts across multiple states.
-nut_graf: The smoke, carried south by prevailing winds from more than 100 uncontrolled wildfires burning across Canada, has created unhealthy air conditions for millions of Americans in the Great Lakes and Northeast, with the weekend outlook remaining uncertain.
+lede: A thick plume of smoke from Canadian wildfires blanketed large portions of the
+  Northeast and Midwest on Wednesday, degrading air quality and prompting health alerts
+  across multiple states.
+nut_graf: The smoke, carried south by prevailing winds from more than 100 uncontrolled
+  wildfires burning across Canada, has created unhealthy air conditions for millions
+  of Americans in the Great Lakes and Northeast, with the weekend outlook remaining
+  uncertain.
 primary_entities:
 - Canada
 - United States
@@ -33,16 +38,21 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 2
+  count: 5
   outlets:
   - The Wall Street Journal
   - BBC News
+  - The Guardian
+  - Associated Press
+  - United Press International
   outlet_classes:
   - national_daily
   - public_broadcaster
+  - wire
   highest_reliability_tier: 1
   has_originating: true
   has_primary_document: false
@@ -114,117 +124,62 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-07-16-canadian-wildfire-smoke-shrouds-northeast-midwest-in-hazardous-air.png
-  alt: 'Illustration accompanying article: Canadian wildfire smoke shrouds Northeast, Midwest in hazardous air'
+  alt: 'Illustration accompanying article: Canadian wildfire smoke shrouds Northeast,
+    Midwest in hazardous air'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:openai/gpt-5.4-image-2
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
+- slug: 2026-07-15-canadian-wildfire-smoke-blankets-midwest-northeast
+  headline: Canadian wildfire smoke blankets Midwest, Northeast
+  publish_date: '2026-07-15'
+  relation: related
+  strength: 0.8789
 - slug: 2026-07-14-new-heatwave-spreads-extreme-temperatures-across-us-and-canada
   headline: New heatwave spreads extreme temperatures across US and Canada
   publish_date: '2026-07-14'
   relation: related
-  strength: 0.7305
+  strength: 0.7311
 - slug: 2026-07-15-wildfire-surrounds-freight-train-in-ontario-crew-reported-encased-in-flames
-  headline: Wildfire surrounds freight train in Ontario, crew reported 'encased' in flames
+  headline: Wildfire surrounds freight train in Ontario, crew reported 'encased' in
+    flames
   publish_date: '2026-07-15'
   relation: related
-  strength: 0.7056
+  strength: 0.7066
 - slug: 2026-07-11-heat-dome-to-bring-dangerous-temperatures-to-two-thirds-of-us-forecasters-warn
-  headline: Heat dome to bring dangerous temperatures to two-thirds of US, forecasters warn
+  headline: Heat dome to bring dangerous temperatures to two-thirds of US, forecasters
+    warn
   publish_date: '2026-07-11'
   relation: related
-  strength: 0.667
+  strength: 0.6673
 - slug: 2026-07-10-large-heat-dome-brings-dangerous-temperatures-to-most-of-lower-48
   headline: Large heat dome brings dangerous temperatures to most of Lower 48
   publish_date: '2026-07-10'
   relation: related
-  strength: 0.6596
+  strength: 0.66
 - slug: 2026-06-30-heat-wave-intensifies-across-us-120-million-under-extreme-heat-warnings
   headline: Heat wave intensifies across US, 120 million under extreme heat warnings
   publish_date: '2026-06-30'
   relation: related
-  strength: 0.6684
-- slug: 2026-07-02-extreme-heat-warnings-cover-midwest-eastern-u-s-as-holiday-weekend-begins
-  headline: Extreme heat warnings cover Midwest, Eastern U.S. as holiday weekend begins
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.6402
+  strength: 0.6689
 - slug: 2026-06-26-nws-issues-first-particularly-dangerous-situation-red-flag-warning-for-utah
-  headline: NWS issues first 'Particularly Dangerous Situation' red flag warning for Utah
+  headline: NWS issues first 'Particularly Dangerous Situation' red flag warning for
+    Utah
   publish_date: '2026-06-26'
   relation: related
-  strength: 0.6521
+  strength: 0.6513
 - slug: 2026-06-04-wildfire-smoke-reverses-us-ozone-progress-study-finds
   headline: Wildfire smoke reverses US ozone progress, study finds
   publish_date: '2026-06-04'
   relation: related
-  strength: 0.6802
-- slug: 2026-04-15-michigan-to-issue-air-quality-alerts-at-unhealthy-for-sensitive-groups-level
-  headline: Michigan to issue air quality alerts at “unhealthy for sensitive groups” level
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.714
-- slug: 2026-04-15-severe-storms-threaten-plains-and-midwest-again
-  headline: Severe storms threaten Plains and Midwest again
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.6741
-- slug: 2026-04-17-wildfire-burning-season-extends-36-in-north-america-due-to-climate-change
-  headline: Wildfire burning season extends 36% in North America due to climate change
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.6582
-- slug: 2026-03-14-powerful-storm-chain-brings-blizzard-conditions-to-upper-midwest
-  headline: Powerful storm chain brings blizzard conditions to Upper Midwest
-  publish_date: '2026-03-14'
-  relation: related
-  strength: 0.6801
-- slug: 2026-03-15-storms-blizzards-and-triple-digit-heat-put-over-half-the-u-s-at-risk
-  headline: Storms, blizzards and triple-digit heat put over half the U.S. at risk
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.679
-- slug: 2025-12-29-snow-and-strong-winds-hit-great-lakes-and-northeast-after-midwest-bomb-cyclone
-  headline: Snow and strong winds hit Great Lakes and Northeast after Midwest bomb cyclone
-  publish_date: '2025-12-29'
-  relation: related
-  strength: 0.6991
-- slug: 2025-12-30-snow-and-strong-winds-hit-great-lakes-and-northeast-as-arctic-blast-follows-bomb
-  headline: Snow and strong winds hit Great Lakes and Northeast as Arctic blast follows bomb cyclone
-  publish_date: '2025-12-30'
-  relation: related
-  strength: 0.6941
-- slug: 2026-02-05-new-study-links-wildfire-smoke-pollution-to-about-24-100-u-s-deaths-a-year
-  headline: New study links wildfire smoke pollution to about 24,100 U.S. deaths a year
-  publish_date: '2026-02-05'
-  relation: related
-  strength: 0.6791
-- slug: 2025-12-30-bomb-cyclone-brings-blizzards-to-the-midwest-before-turning-east
-  headline: Bomb cyclone brings blizzards to the Midwest before turning east
-  publish_date: '2025-12-30'
-  relation: related
-  strength: 0.6769
-- slug: 2025-12-29-blizzards-ice-and-storms-expected-to-intensify-across-u-s
-  headline: Blizzards, ice and storms expected to intensify across U.S.
-  publish_date: '2025-12-29'
-  relation: related
-  strength: 0.6749
-- slug: 2025-12-29-bomb-cyclone-unleashes-blizzards-extreme-cold-and-power-outages-across-the-midwe
-  headline: Bomb cyclone unleashes blizzards, extreme cold and power outages across the Midwest
-  publish_date: '2025-12-29'
-  relation: related
-  strength: 0.6649
-- slug: 2026-02-22-blizzard-warnings-cascade-across-east-coast-as-winter-storm-bears-down
-  headline: Blizzard warnings cascade across East Coast as winter storm bears down
-  publish_date: '2026-02-22'
-  relation: related
-  strength: 0.6415
+  strength: 0.68
 ---
-
-
 **Subtype:** fact
 
 - Thick smoke from more than 100 uncontrolled wildfires burning across Canada has swept into the United States, blanketing the Northeast and Midwest and degrading air quality for millions.

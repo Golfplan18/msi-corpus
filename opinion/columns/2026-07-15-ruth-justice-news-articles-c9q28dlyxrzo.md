@@ -1,7 +1,10 @@
 ---
 headline: Another One, Right on Time
 publish_date: '2026-07-15'
-lede: The current United States commerce secretary had a business relationship with a financier who died awaiting federal sex-trafficking charges — a relationship he told Congress did not exist, until a whistleblower who crawled through 3.5 million pages by searching for initials rather than names proved it did.
+lede: The current United States commerce secretary had a business relationship with
+  a financier who died awaiting federal sex-trafficking charges — a relationship he
+  told Congress did not exist, until a whistleblower who crawled through 3.5 million
+  pages by searching for initials rather than names proved it did.
 pen_name: ruth-justice
 primary_entities: []
 primary_themes: []
@@ -15,7 +18,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 0
@@ -33,7 +37,27 @@ cross_article_links:
   strength: 0.2826
   confidence: high
 draft: false
+image:
+  url: /cartoons/another-one-right-on-time.png
+  alt: 'Editorial cartoon by Hector Rentier: Another One, Right on Time'
+  caption: The evidence sat on his desk. He wrote the insult instead.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-07-16T05:13:10-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: Single central figure, 1:1, heavy cross-hatch wood-engraving. A man in
+    an immaculate dark suit with an American flag lapel pin sits at a heavy executive
+    desk — the Commerce Secretary, fully individuat
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-07-15-hector-paired-with-2026-07-15-ruth-justice-news-articles-c9q28dlyxrzo
 ---
+
+![Editorial cartoon by Hector Rentier: Another One, Right on Time](/cartoons/another-one-right-on-time.png)
+*The evidence sat on his desk. He wrote the insult instead.*
 
 The current United States commerce secretary had a business relationship with a financier who died awaiting federal sex-trafficking charges — a relationship he told Congress did not exist, until a whistleblower who crawled through 3.5 million pages by searching for initials rather than names proved it did. Nobody has charged anyone with anything.
 

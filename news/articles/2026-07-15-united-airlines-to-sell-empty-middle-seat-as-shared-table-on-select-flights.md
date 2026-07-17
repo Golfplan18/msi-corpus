@@ -2,8 +2,15 @@
 headline: United Airlines to sell empty middle seat as shared table on select flights
 secondary_headline: Carrier joins European airlines in offering empty-seat option
 publish_date: '2026-07-15'
-lede: United Airlines said Tuesday it will introduce a new Economy Plus seating option on its Airbus A321XLR aircraft that eliminates the middle seat and replaces the space with a shared table between the aisle and window passengers. The Chicago-based carrier plans to disclose pricing and begin sales later this year, positioning the offering as the first of its kind from a U.S. airline.
-nut_graf: The announcement extends a broader push by major U.S. carriers to court passengers willing to pay more for comfort, adding another tier to an increasingly segmented flying experience. United framed the move as part of a fleet-wide investment in customer choice.
+lede: United Airlines said Tuesday it will introduce a new Economy Plus seating option
+  on its Airbus A321XLR aircraft that eliminates the middle seat and replaces the
+  space with a shared table between the aisle and window passengers. The Chicago-based
+  carrier plans to disclose pricing and begin sales later this year, positioning the
+  offering as the first of its kind from a U.S. airline.
+nut_graf: The announcement extends a broader push by major U.S. carriers to court
+  passengers willing to pay more for comfort, adding another tier to an increasingly
+  segmented flying experience. United framed the move as part of a fleet-wide investment
+  in customer choice.
 primary_entities:
 - United Airlines
 - Airbus A321XLR
@@ -31,7 +38,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -113,105 +121,35 @@ related_stories:
   headline: Largest U.S. airlines court premium passengers as economy gap widens
   publish_date: '2026-07-07'
   relation: related
-  strength: 0.7207
+  strength: 0.722
 - slug: 2026-07-07-judge-allows-contract-claims-in-united-airlines-windowless-seat-lawsuit-to-proce
-  headline: Judge allows contract claims in United Airlines windowless-seat lawsuit to proceed
+  headline: Judge allows contract claims in United Airlines windowless-seat lawsuit
+    to proceed
   publish_date: '2026-07-07'
   relation: related
-  strength: 0.7033
-- slug: 2026-07-09-sfo-plans-private-luxury-terminal-for-premium-passengers
-  headline: SFO plans private luxury terminal for premium passengers
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.5841
-- slug: 2026-06-20-trump-unveils-new-qatari-gifted-air-force-one-at-joint-base-andrews
-  headline: Trump unveils new Qatari-gifted Air Force One at Joint Base Andrews
-  publish_date: '2026-06-20'
-  relation: related
-  strength: 0.5842
+  strength: 0.7031
 - slug: 2026-05-14-united-flight-attendants-ratify-5-year-contract-with-boarding-pay-retro-pay
-  headline: United flight attendants ratify 5-year contract with boarding pay, retro pay
+  headline: United flight attendants ratify 5-year contract with boarding pay, retro
+    pay
   publish_date: '2026-05-14'
   relation: related
-  strength: 0.6992
+  strength: 0.6982
 - slug: 2026-05-14-united-flight-attendants-ratify-contract-with-31-pay-hike-boarding-pay
   headline: United flight attendants ratify contract with 31% pay hike, boarding pay
   publish_date: '2026-05-14'
   relation: related
-  strength: 0.6883
-- slug: 2026-06-04-american-airlines-suspends-some-summer-routes-as-jet-fuel-costs-climb
-  headline: American Airlines suspends some summer routes as jet fuel costs climb
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.591
+  strength: 0.6881
 - slug: 2026-04-04-united-raises-bag-fees-and-rolls-out-tiered-premium-fares
   headline: United raises bag fees and rolls out tiered premium fares
   publish_date: '2026-04-04'
   relation: related
-  strength: 0.7119
-- slug: 2026-05-23-rising-fuel-prices-could-shrink-the-value-of-airline-rewards-this-summer
-  headline: Rising fuel prices could shrink the value of airline rewards this summer
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6107
-- slug: 2026-05-22-what-rising-fuel-prices-mean-for-airline-miles-and-travel-rewards-this-summer
-  headline: What rising fuel prices mean for airline miles and travel rewards this summer
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.5848
-- slug: 2026-04-28-uber-expands-to-hotel-bookings-via-expedia-adds-uber-one-discounts
-  headline: Uber expands to hotel bookings via Expedia, adds Uber One discounts
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.6372
-- slug: 2026-05-17-spirit-airlines-shutdown-and-rising-fuel-costs-squeeze-summer-travel-budgets
-  headline: Spirit Airlines shutdown and rising fuel costs squeeze summer travel budgets
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.5803
-- slug: 2026-04-28-united-ceo-scott-kirby-confirms-he-approached-american-about-merger
-  headline: United CEO Scott Kirby confirms he approached American about merger
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.6237
-- slug: 2026-05-03-what-to-do-after-spirit-airlines-cancels-flights-and-shuts-down
-  headline: What to do after Spirit Airlines cancels flights and shuts down
-  publish_date: '2026-05-03'
-  relation: related
-  strength: 0.5989
-- slug: 2026-04-10-travelers-face-higher-costs-as-jet-fuel-volatility-squeezes-airlines
-  headline: Travelers face higher costs as jet fuel volatility squeezes airlines
-  publish_date: '2026-04-10'
-  relation: related
-  strength: 0.6284
+  strength: 0.7116
 - slug: 2026-01-26-southwest-airlines-ends-open-seating-after-50-years
   headline: Southwest Airlines ends open seating after 50 years
   publish_date: '2026-01-26'
   relation: related
-  strength: 0.6888
-- slug: 2026-04-18-iran-war-drives-jet-fuel-prices-to-record-highs-raising-summer-airfares
-  headline: Iran war drives jet fuel prices to record highs, raising summer airfares
-  publish_date: '2026-04-18'
-  relation: related
-  strength: 0.5854
-- slug: 2026-04-25-flight-canceled-amid-jet-fuel-shock-what-travelers-should-know
-  headline: Flight canceled amid jet fuel shock? What travelers should know
-  publish_date: '2026-04-25'
-  relation: related
-  strength: 0.57
-- slug: 2026-04-08-delta-raises-checked-baggage-fees-as-iran-war-drives-up-jet-fuel-prices
-  headline: Delta raises checked baggage fees as Iran war drives up jet fuel prices
-  publish_date: '2026-04-08'
-  relation: related
-  strength: 0.5962
-- slug: 2026-04-09-southwest-raises-checked-bag-fees-10-after-ending-bags-fly-free-perk
-  headline: Southwest raises checked bag fees $10, after ending “bags fly free” perk
-  publish_date: '2026-04-09'
-  relation: related
-  strength: 0.5698
+  strength: 0.6893
 ---
-
-
 **Subtype:** fact
 
 - United Airlines plans to roll out Economy Plus rows with no middle seat and a shared table on its new Airbus A321XLR aircraft.

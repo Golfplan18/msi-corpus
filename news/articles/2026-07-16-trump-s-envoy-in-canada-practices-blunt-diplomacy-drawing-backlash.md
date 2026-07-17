@@ -2,8 +2,16 @@
 headline: Trump's envoy in Canada practices blunt diplomacy, drawing backlash
 secondary_headline: More than 27,000 sign petition calling for Hoekstra's removal
 publish_date: '2026-07-16'
-lede: U.S. Ambassador to Canada Pete Hoekstra has drawn widespread criticism in Canada for his outspoken and blunt rhetoric, including inviting a leader of the 2022 "Freedom Convoy" protests to the July Fourth party at the ambassador's residence. More than 27,000 people have signed a citizen's e-petition in Parliament calling for a review of Hoekstra's conduct.
-nut_graf: The former Republican congressman from Michigan has become a household name in Canada by embracing President Donald Trump's confrontational tone, pushing the traditionally cordial post of U.S. ambassador to Canada into uncharted diplomatic territory at a time when Trump's tariffs and 51st-state threats have already strained the bilateral relationship to its breaking point.
+lede: U.S. Ambassador to Canada Pete Hoekstra has drawn widespread criticism in Canada
+  for his outspoken and blunt rhetoric, including inviting a leader of the 2022 "Freedom
+  Convoy" protests to the July Fourth party at the ambassador's residence. More than
+  27,000 people have signed a citizen's e-petition in Parliament calling for a review
+  of Hoekstra's conduct.
+nut_graf: The former Republican congressman from Michigan has become a household name
+  in Canada by embracing President Donald Trump's confrontational tone, pushing the
+  traditionally cordial post of U.S. ambassador to Canada into uncharted diplomatic
+  territory at a time when Trump's tariffs and 51st-state threats have already strained
+  the bilateral relationship to its breaking point.
 primary_entities:
 - Pete Hoekstra
 - Canada
@@ -35,7 +43,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -112,110 +121,8 @@ cross_article_links:
   relation: related
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-07-11-alberta-independence-referendum-battle-takes-shape-at-calgary-stampede
-  headline: Alberta independence referendum battle takes shape at Calgary Stampede
-  publish_date: '2026-07-11'
-  relation: related
-  strength: 0.5973
-- slug: 2026-07-08-state-officials-push-back-after-doj-threatens-prosecution-over-noncitizen-voting
-  headline: State officials push back after DOJ threatens prosecution over noncitizen voting
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.5544
-- slug: 2026-06-30-relative-says-jane-doe-4-fears-retaliation-as-epstein-files-dispute-continues
-  headline: Relative says Jane Doe 4 fears retaliation as Epstein files dispute continues
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.563
-- slug: 2026-06-26-alarm-grows-over-extreme-sentences-in-texas-ice-protest-case
-  headline: Alarm grows over extreme sentences in Texas ICE protest case
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.5754
-- slug: 2026-06-21-memphis-observers-track-trump-anti-crime-taskforce-allege-intimidation
-  headline: Memphis observers track Trump anti-crime taskforce, allege intimidation
-  publish_date: '2026-06-21'
-  relation: related
-  strength: 0.5517
-- slug: 2026-06-09-u-s-trade-official-says-canada-tariffs-blocking-progress-on-usmca-talks
-  headline: U.S. trade official says Canada tariffs blocking progress on USMCA talks
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.5842
-- slug: 2026-06-02-white-house-correspondents-dinner-rescheduled-for-july-24-after-april-shooting
-  headline: White House correspondents’ dinner rescheduled for July 24 after April shooting
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.5526
-- slug: 2026-04-28-king-charles-iii-arrives-in-us-for-4-day-state-visit-amid-trump-rift
-  headline: King Charles III arrives in US for 4-day state visit amid Trump rift
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.5692
-- slug: 2026-04-24-trump-plans-appearance-at-white-house-correspondents-dinner
-  headline: Trump plans appearance at White House correspondents' dinner
-  publish_date: '2026-04-24'
-  relation: related
-  strength: 0.5756
-- slug: 2026-02-27-canada-s-carney-visits-india-to-restore-ties-diversify-trade-from-u-s
-  headline: Canada's Carney visits India to restore ties, diversify trade from U.S.
-  publish_date: '2026-02-27'
-  relation: related
-  strength: 0.5653
-- slug: 2026-02-28-us-cardinals-and-pope-s-ambassador-decry-mass-deportations-urge-reconciling
-  headline: US cardinals and pope’s ambassador decry mass deportations, urge reconciling
-  publish_date: '2026-02-28'
-  relation: related
-  strength: 0.5613
-- slug: 2026-06-09-white-house-lawn-gets-4-500-seat-ufc-octagon-for-trump-s-80th-july-4-event
-  headline: ''
-  publish_date: ''
-  relation: related
-  strength: 0.5895
-- slug: 2026-02-10-judges-say-trump-immigration-cases-are-overwhelming-federal-courts
-  headline: Judges say Trump immigration cases are overwhelming federal courts
-  publish_date: '2026-02-10'
-  relation: related
-  strength: 0.5522
-- slug: 2026-01-30-growing-cultural-revolt-emerges-against-trump-s-immigration-crackdown
-  headline: Growing cultural revolt emerges against Trump’s immigration crackdown
-  publish_date: '2026-01-30'
-  relation: related
-  strength: 0.5569
-- slug: 2026-02-11-white-house-says-trump-can-amend-permit-for-gordie-howe-bridge
-  headline: White House says Trump can amend permit for Gordie Howe bridge
-  publish_date: '2026-02-11'
-  relation: related
-  strength: 0.5508
-- slug: 2026-02-05-local-leaders-describe-hostile-relationship-with-trump-s-washington
-  headline: Local leaders describe hostile relationship with Trump’s Washington
-  publish_date: '2026-02-05'
-  relation: related
-  strength: 0.5525
-- slug: 2026-01-23-petro-trump-to-meet-feb-3-after-months-of-tensions
-  headline: Petro, Trump to meet Feb. 3 after months of tensions
-  publish_date: '2026-01-23'
-  relation: related
-  strength: 0.5557
-- slug: 2026-01-29-trump-signals-easing-immigration-tensions-but-enforcement-continues-in-minneapol
-  headline: Trump signals easing immigration tensions, but enforcement continues in Minneapolis
-  publish_date: '2026-01-29'
-  relation: related
-  strength: 0.5523
-- slug: 2026-01-22-vance-blames-local-officials-for-minneapolis-immigration-unrest
-  headline: Vance blames local officials for Minneapolis immigration unrest
-  publish_date: '2026-01-22'
-  relation: related
-  strength: 0.5535
-- slug: 2026-01-16-doj-investigates-walz-and-frey-over-statements-on-minnesota-immigration-enforcem
-  headline: DOJ investigates Walz and Frey over statements on Minnesota immigration enforcement
-  publish_date: '2026-01-16'
-  relation: related
-  strength: 0.5546
+related_stories: []
 ---
-
-
 ## More than 27,000 sign petition calling for Hoekstra's removal
 
 **Subtype:** fact

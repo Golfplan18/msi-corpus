@@ -2,8 +2,13 @@
 headline: UK Economy Rebounds 0.1% in May on Services Strength
 secondary_headline: BOE Governor Cites 16 Years of Weak UK Growth
 publish_date: '2026-07-16'
-lede: The U.K. economy grew 0.1% in May, rebounding from a 0.1% decline in April, as strong retail sales in the services sector offset weakness in industrial production and construction, the Office for National Statistics said Thursday.
-nut_graf: The slight expansion masks deepening headwinds from renewed U.S.-Iran hostilities that have pushed oil prices higher and prompted investors to anticipate an interest-rate increase from the Bank of England rather than the cut they expected before the conflict began.
+lede: The U.K. economy grew 0.1% in May, rebounding from a 0.1% decline in April,
+  as strong retail sales in the services sector offset weakness in industrial production
+  and construction, the Office for National Statistics said Thursday.
+nut_graf: The slight expansion masks deepening headwinds from renewed U.S.-Iran hostilities
+  that have pushed oil prices higher and prompted investors to anticipate an interest-rate
+  increase from the Bank of England rather than the cut they expected before the conflict
+  began.
 primary_entities:
 - Office for National Statistics
 - Bank of England
@@ -43,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 2
@@ -124,108 +130,50 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-07-15-eurozone-industrial-production-fell-0-2-in-may-snapping-three-month-streak
-  headline: Eurozone industrial production fell 0.2% in May, snapping three-month streak
+  headline: Eurozone industrial production fell 0.2% in May, snapping three-month
+    streak
   publish_date: '2026-07-15'
   relation: related
-  strength: 0.6772
-- slug: 2026-07-08-imf-cuts-global-growth-forecast-to-3-as-iran-war-lifts-energy-costs
-  headline: IMF cuts global growth forecast to 3% as Iran war lifts energy costs
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.652
+  strength: 0.6762
 - slug: 2026-06-17-uk-inflation-holds-steady-at-2-8-in-may-below-forecasts
   headline: UK Inflation Holds Steady at 2.8% in May, Below Forecasts
   publish_date: '2026-06-17'
   relation: related
-  strength: 0.75
+  strength: 0.7494
 - slug: 2026-06-25-uk-auto-manufacturing-rose-2-7-in-may-on-us-trade-deal
   headline: UK Auto Manufacturing Rose 2.7% in May on US Trade Deal
   publish_date: '2026-06-25'
   relation: related
-  strength: 0.704
+  strength: 0.7033
 - slug: 2026-06-25-final-q1-gdp-revised-up-to-2-1-as-consumer-spending-cools
   headline: Final Q1 GDP revised up to 2.1% as consumer spending cools
   publish_date: '2026-06-25'
   relation: related
-  strength: 0.6953
+  strength: 0.6949
 - slug: 2026-06-15-eurozone-industrial-output-edges-up-0-1-in-april-as-iran-war-disrupts-supply-cha
-  headline: Eurozone industrial output edges up 0.1% in April as Iran war disrupts supply chains
+  headline: Eurozone industrial output edges up 0.1% in April as Iran war disrupts
+    supply chains
   publish_date: '2026-06-15'
   relation: related
-  strength: 0.7287
+  strength: 0.7281
 - slug: 2026-06-18-bank-of-england-leaves-rates-unchanged-signals-caution-on-hormuz-opening
   headline: Bank of England Leaves Rates Unchanged, Signals Caution on Hormuz Opening
   publish_date: '2026-06-18'
   relation: related
-  strength: 0.7116
+  strength: 0.7113
 - slug: 2026-06-17-uk-inflation-holds-at-2-8-in-may-defying-forecast-rise-to-3
   headline: UK inflation holds at 2.8% in May, defying forecast rise to 3%
   publish_date: '2026-06-17'
   relation: related
-  strength: 0.7118
+  strength: 0.7111
 - slug: 2026-06-15-bank-of-england-expected-to-hold-key-rate-at-3-75-as-u-k-economy-weakens
   headline: Bank of England expected to hold key rate at 3.75% as U.K. economy weakens
   publish_date: '2026-06-15'
   relation: related
-  strength: 0.7138
-- slug: 2026-06-21-economists-warn-iran-conflict-casts-long-shadow-despite-trump-deal
-  headline: Economists warn Iran conflict casts long shadow despite Trump deal
-  publish_date: '2026-06-21'
-  relation: related
-  strength: 0.6639
-- slug: 2026-06-14-us-economy-resilient-through-trade-turmoil-and-energy-shocks-economists-say
-  headline: US economy resilient through trade turmoil and energy shocks, economists say
-  publish_date: '2026-06-14'
-  relation: related
-  strength: 0.6695
-- slug: 2026-06-16-goldman-sachs-cuts-oil-price-forecasts-on-faster-gulf-recovery
-  headline: Goldman Sachs Cuts Oil Price Forecasts on Faster Gulf Recovery
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.6524
-- slug: 2026-06-01-uk-pump-prices-climb-as-strait-of-hormuz-closure-pushes-crude-past-120
-  headline: UK pump prices climb as Strait of Hormuz closure pushes crude past $120
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.6772
-- slug: 2026-06-04-eurozone-retail-sales-fell-0-4-in-april-as-iran-war-energy-costs-bite
-  headline: Eurozone retail sales fell 0.4% in April as Iran war energy costs bite
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.6532
-- slug: 2026-05-15-april-retail-sales-slow-to-0-5-as-gas-prices-from-iran-war-squeeze-budgets
-  headline: April retail sales slow to 0.5% as gas prices from Iran war squeeze budgets
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.7025
-- slug: 2026-05-15-shoppers-cut-back-in-april-as-iran-war-gas-prices-squeeze-budgets
-  headline: Shoppers cut back in April as Iran-war gas prices squeeze budgets
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6802
-- slug: 2026-04-30-bank-of-england-keeps-rates-on-hold-as-iran-war-scrambles-projections
-  headline: Bank of England keeps rates on hold as Iran war scrambles projections
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.7092
-- slug: 2026-05-01-u-s-economy-grew-2-in-q1-after-shutdown-iran-war-adds-uncertainty
-  headline: U.S. economy grew 2% in Q1 after shutdown; Iran war adds uncertainty
-  publish_date: '2026-05-01'
-  relation: related
-  strength: 0.7069
-- slug: 2026-05-18-japan-economy-grows-at-2-1-annual-pace-helped-by-consumer-spending
-  headline: Japan economy grows at 2.1% annual pace, helped by consumer spending
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.6609
-- slug: 2026-04-29-bank-of-england-other-central-banks-pause-rates-as-iran-war-reshapes-outlook
-  headline: Bank of England, other central banks pause rates as Iran war reshapes outlook
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.7044
+  strength: 0.7132
+analyses:
+- '2026-07-16-uk-s-services-only-rebound-masks-16-year-stagnation-as-energy-shock-tightens-pol'
 ---
-
-
 **Subtype:** fact
 
 - UK GDP grew 0.1% in May, rebounding from a 0.1% contraction in April, the Office for National Statistics said.
@@ -266,3 +214,8 @@ The Organisation for Economic Co-operation and Development, in a report Wednesda
 **Publication date:** 2026-07-16
 **Title:** UK economy returns to growth in May
 **URL:** https://www.bbc.co.uk/news/articles/c8xnllq944go
+
+---
+
+<!-- analysis-link:2026-07-16-uk-s-services-only-rebound-masks-16-year-stagnation-as-energy-shock-tightens-pol -->
+**Going deeper:** [Read MSI's analysis of UK growth, Bank of England, Iran conflict, Andy Burnham, OECD →](/analyses/2026-07-16-uk-s-services-only-rebound-masks-16-year-stagnation-as-energy-shock-tightens-pol)

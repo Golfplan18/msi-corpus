@@ -1,9 +1,13 @@
 ---
 headline: Maricopa County officials agree on election oversight, ending legal battle
-secondary_headline: 'Board chair Kate Brophy McGee: settlement ends ''drama'' and gets county out of the courtroom'
+secondary_headline: 'Board chair Kate Brophy McGee: settlement ends ''drama'' and
+  gets county out of the courtroom'
 publish_date: '2026-07-16'
-lede: Maricopa County officials have settled a yearlong legal fight over who controls the mechanics of voting, with the board of supervisors approving a mediated agreement Tuesday that ends a lawsuit filed by the county's elected recorder.
-nut_graf: The resolution brings to a close a prolonged dispute over election administration in Arizona's most populous county.
+lede: Maricopa County officials have settled a yearlong legal fight over who controls
+  the mechanics of voting, with the board of supervisors approving a mediated agreement
+  Tuesday that ends a lawsuit filed by the county's elected recorder.
+nut_graf: The resolution brings to a close a prolonged dispute over election administration
+  in Arizona's most populous county.
 primary_entities:
 - Maricopa County
 - Justin Heap
@@ -35,7 +39,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -118,11 +123,6 @@ related_stories:
   publish_date: '2026-07-05'
   relation: related
   strength: 0.7916
-- slug: 2026-07-01-supreme-court-to-weigh-gop-bid-to-shrink-voter-roll-purge-ban
-  headline: Supreme Court to weigh GOP bid to shrink voter roll purge ban
-  publish_date: '2026-07-01'
-  relation: related
-  strength: 0.5773
 - slug: 2026-04-17-arizona-judge-backs-recorder-s-authority-over-county-elections
   headline: Arizona judge backs recorder's authority over county elections
   publish_date: '2026-04-17'
@@ -133,88 +133,7 @@ related_stories:
   publish_date: '2026-04-18'
   relation: related
   strength: 0.796
-- slug: 2026-06-29-arizona-proof-of-citizenship-voting-law-heads-to-supreme-court
-  headline: Arizona proof-of-citizenship voting law heads to Supreme Court
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.5677
-- slug: 2026-06-22-georgia-lawmakers-battle-over-hand-count-mandate-in-special-session
-  headline: Georgia lawmakers battle over hand-count mandate in special session
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.5568
-- slug: 2026-06-10-shasta-county-measure-b-advances-threatening-california-s-vote-by-mail-system
-  headline: Shasta County Measure B advances, threatening California's vote-by-mail system
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.5811
-- slug: 2026-06-14-georgia-lawmakers-seek-fix-for-banned-vote-counting-method-in-special-session
-  headline: Georgia lawmakers seek fix for banned vote-counting method in special session
-  publish_date: '2026-06-14'
-  relation: related
-  strength: 0.5559
-- slug: 2026-05-22-trump-s-latino-vote-gains-face-test-as-ice-raids-and-costs-bite
-  headline: Trump’s Latino vote gains face test as ICE raids and costs bite
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.5709
-- slug: 2026-05-21-montana-land-board-overhauls-land-swap-process-after-yearslong-dispute
-  headline: Montana Land Board overhauls land-swap process after yearslong dispute
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.562
-- slug: 2026-05-22-judges-in-maine-and-wisconsin-reject-doj-efforts-to-obtain-voter-rolls
-  headline: Judges in Maine and Wisconsin reject DOJ efforts to obtain voter rolls
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.556
-- slug: 2026-05-18-supreme-court-sends-native-american-voting-rights-case-back-for-review
-  headline: Supreme Court sends Native American voting-rights case back for review
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.5583
-- slug: 2026-05-14-hill-county-texas-pauses-new-data-centers-in-rural-unincorporated-areas-for-a-ye
-  headline: Hill County Texas pauses new data centers in rural unincorporated areas for a year
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.5672
-- slug: 2026-05-13-maine-s-ranked-choice-voting-remains-in-constitutional-limbo-with-no-clear-path-
-  headline: Maine's ranked-choice voting remains in constitutional limbo, with no clear path forward
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.5563
-- slug: 2026-04-29-doj-lawsuit-seeking-arizona-voter-information-is-dismissed
-  headline: DOJ lawsuit seeking Arizona voter information is dismissed
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.5735
-- slug: 2026-04-29-pennsylvania-high-court-rules-cast-vote-records-are-public-records
-  headline: Pennsylvania high court rules cast vote records are public records
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.5676
-- slug: 2026-03-10-fbi-obtains-arizona-2020-election-records-after-senate-president-hands-over
-  headline: FBI obtains Arizona 2020 election records after Senate president hands over
-  publish_date: '2026-03-10'
-  relation: related
-  strength: 0.6171
-- slug: 2026-04-09-california-supreme-court-halts-sheriff-s-election-fraud-probe-and-ballot-review
-  headline: California Supreme Court halts sheriff’s election fraud probe and ballot review
-  publish_date: '2026-04-09'
-  relation: related
-  strength: 0.5764
-- slug: 2026-04-22-alaska-groups-sue-over-sharing-full-voter-list-with-doj
-  headline: Alaska groups sue over sharing full voter list with DOJ
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.5559
-- slug: 2026-04-04-georgia-lawmakers-end-session-without-voting-machine-plan-for-2026
-  headline: Georgia lawmakers end session without voting-machine plan for 2026
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.5809
 ---
-
 **Subtype:** fact
 
 - Maricopa County officials reached a settlement this week to jointly oversee the vote, ending a yearlong legal battle between Recorder Justin Heap and the county board of supervisors.

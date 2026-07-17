@@ -2,8 +2,14 @@
 headline: Meta appeals verdict that found platforms harmed young user
 secondary_headline: Trial judge upheld verdict in June
 publish_date: '2026-07-10'
-lede: Meta, the parent company of Instagram and Facebook, filed a notice of appeal Tuesday in Los Angeles County Superior Court, challenging a jury's March verdict that found the company designed its platforms to addict young users without concern for their well-being. The appeal opens what can be a lengthy process.
-nut_graf: The March verdict was one of the first jury findings against social media companies over child-safety claims and is expected to influence thousands of similar lawsuits pending across the country. Meta has said teen mental health is "profoundly complex and cannot be linked to a single app."
+lede: Meta, the parent company of Instagram and Facebook, filed a notice of appeal
+  Tuesday in Los Angeles County Superior Court, challenging a jury's March verdict
+  that found the company designed its platforms to addict young users without concern
+  for their well-being. The appeal opens what can be a lengthy process.
+nut_graf: The March verdict was one of the first jury findings against social media
+  companies over child-safety claims and is expected to influence thousands of similar
+  lawsuits pending across the country. Meta has said teen mental health is "profoundly
+  complex and cannot be linked to a single app."
 primary_entities:
 - Meta Platforms, Inc.
 - Instagram
@@ -37,7 +43,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -131,108 +138,50 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-07-15-youtube-appeals-jury-verdict-that-found-company-negligent-in-social-media-case
+  headline: YouTube appeals jury verdict that found company negligent in social media
+    case
+  publish_date: '2026-07-15'
+  relation: related
+  strength: 0.8897
 - slug: 2026-06-23-youtube-settles-social-media-addiction-lawsuit-brought-by-florida-teen
   headline: YouTube settles social media addiction lawsuit brought by Florida teen
   publish_date: '2026-06-23'
   relation: related
-  strength: 0.7736
+  strength: 0.7745
 - slug: 2026-06-11-key-social-media-lawsuits-could-reshape-platform-operations-as-trials-approach
-  headline: Key social media lawsuits could reshape platform operations as trials approach
+  headline: Key social media lawsuits could reshape platform operations as trials
+    approach
   publish_date: '2026-06-11'
   relation: related
-  strength: 0.768
+  strength: 0.7701
 - slug: 2026-03-27-verdicts-against-meta-and-youtube-raise-questions-about-child-safety-online
   headline: Verdicts against Meta and YouTube raise questions about child safety online
   publish_date: '2026-03-27'
   relation: related
-  strength: 0.8619
+  strength: 0.8626
 - slug: 2026-03-27-jury-finds-instagram-and-youtube-liable-in-landmark-social-media-addiction-trial
-  headline: Jury finds Instagram and YouTube liable in landmark social media addiction trial
+  headline: Jury finds Instagram and YouTube liable in landmark social media addiction
+    trial
   publish_date: '2026-03-27'
   relation: related
-  strength: 0.861
+  strength: 0.8615
 - slug: 2026-05-04-trial-could-change-meta-apps-and-algorithms-as-new-mexico-seeks-safeguards
   headline: Trial could change Meta apps and algorithms as New Mexico seeks safeguards
   publish_date: '2026-05-04'
   relation: related
-  strength: 0.7855
+  strength: 0.7862
 - slug: 2026-05-03-trial-could-change-meta-apps-and-algorithms-as-new-mexico-seeks-safeguards
   headline: Trial could change Meta apps and algorithms as New Mexico seeks safeguards
   publish_date: '2026-05-03'
   relation: related
-  strength: 0.7706
+  strength: 0.7714
 - slug: 2026-05-02-meta-says-it-could-shut-down-social-media-platforms-in-new-mexico
   headline: Meta says it could shut down social media platforms in New Mexico
   publish_date: '2026-05-02'
   relation: related
-  strength: 0.7718
-- slug: 2026-03-26-social-media-firms-await-more-legal-decisions-after-meta-child-safety-verdict
-  headline: Social media firms await more legal decisions after Meta child-safety verdict
-  publish_date: '2026-03-26'
-  relation: related
-  strength: 0.8287
-- slug: 2026-03-25-social-media-firms-await-more-legal-decisions-after-new-mexico-meta-verdict
-  headline: Social media firms await more legal decisions after New Mexico Meta verdict
-  publish_date: '2026-03-25'
-  relation: related
-  strength: 0.8224
-- slug: 2026-03-24-social-media-firms-await-more-legal-decisions-as-meta-faces-penalties
-  headline: Social media firms await more legal decisions as Meta faces penalties
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.8235
-- slug: 2026-03-27-jury-finds-meta-and-youtube-liable-in-landmark-child-safety-cases
-  headline: Jury finds Meta and YouTube liable in landmark child-safety cases
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.8182
-- slug: 2026-03-24-new-mexico-jury-finds-meta-knowingly-harmed-children-to-face-may-phase
-  headline: New Mexico jury finds Meta knowingly harmed children, to face May phase
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.8167
-- slug: 2026-04-15-state-court-hears-massachusetts-lawsuit-against-meta-over-addictive-apps-for-kid
-  headline: State court hears Massachusetts lawsuit against Meta over addictive apps for kids
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.7764
-- slug: 2026-03-25-new-mexico-jury-finds-meta-liable-for-harming-children-s-mental-health
-  headline: New Mexico jury finds Meta liable for harming children’s mental health
-  publish_date: '2026-03-25'
-  relation: related
-  strength: 0.8045
-- slug: 2026-03-27-parents-seek-changes-after-juries-find-meta-failed-to-protect-users
-  headline: Parents seek changes after juries find Meta failed to protect users
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.7768
-- slug: 2026-03-27-jury-finds-meta-and-youtube-liable-pediatricians-urge-parent-talk-first
-  headline: Jury finds Meta and YouTube liable; pediatricians urge parent “talk first”
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.7756
-- slug: 2026-03-26-colorado-mother-celebrates-juries-verdicts-against-meta-and-youtube
-  headline: Colorado mother celebrates juries’ verdicts against Meta and YouTube
-  publish_date: '2026-03-26'
-  relation: related
-  strength: 0.7721
-- slug: 2026-03-13-closing-arguments-begin-in-landmark-social-media-trial-set-in-los-angeles
-  headline: Closing arguments begin in landmark social media trial set in Los Angeles
-  publish_date: '2026-03-13'
-  relation: related
-  strength: 0.7864
-- slug: 2026-03-21-jurors-in-new-mexico-weigh-meta-s-role-in-child-harms-from-social-media
-  headline: Jurors in New Mexico weigh Meta’s role in child harms from social media
-  publish_date: '2026-03-21'
-  relation: related
-  strength: 0.7538
-- slug: 2026-02-20-trials-test-whether-social-media-companies-deliberately-harmed-children
-  headline: Trials test whether social media companies deliberately harmed children
-  publish_date: '2026-02-20'
-  relation: related
-  strength: 0.7779
+  strength: 0.7708
 ---
-
 **Subtype:** fact
 
 - Meta filed a notice of appeal Tuesday in Los Angeles County Superior Court, challenging the March jury verdict that found negligence in platform design harmed a young user.

@@ -1,9 +1,18 @@
 ---
-headline: Securing Strait of Hormuz would require thousands of U.S. troops, experts say
+headline: Securing Strait of Hormuz would require thousands of U.S. troops, experts
+  say
 secondary_headline: Iran's attacks leave nearly dozen seafarers dead, Pentagon says
 publish_date: '2026-07-16'
-lede: The U.S. military has launched heavy airstrikes against Iranian coastal sites this week but has failed to secure the Strait of Hormuz, according to analysts and former military officials who said reopening the waterway would likely require a risky naval escort mission or a large ground operation in southern Iran. Traffic through the strait has dropped sharply as Iran has declared the waterway closed and stepped up attacks on commercial ships.
-nut_graf: The impasse over the Strait of Hormuz, a vital chokepoint for global oil shipments, has persisted for months despite repeated U.S. strikes, diplomatic efforts and a fragile ceasefire. Analysts say the U.S. faces a difficult choice between escalating ground operations or accepting limited control of the waterway.
+lede: The U.S. military has launched heavy airstrikes against Iranian coastal sites
+  this week but has failed to secure the Strait of Hormuz, according to analysts and
+  former military officials who said reopening the waterway would likely require a
+  risky naval escort mission or a large ground operation in southern Iran. Traffic
+  through the strait has dropped sharply as Iran has declared the waterway closed
+  and stepped up attacks on commercial ships.
+nut_graf: The impasse over the Strait of Hormuz, a vital chokepoint for global oil
+  shipments, has persisted for months despite repeated U.S. strikes, diplomatic efforts
+  and a fragile ceasefire. Analysts say the U.S. faces a difficult choice between
+  escalating ground operations or accepting limited control of the waterway.
 primary_entities:
 - Strait of Hormuz
 - Iran
@@ -40,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,117 +149,61 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-07-16-securing-strait-of-hormuz-would-require-thousands-of-u-s-troops-experts-say.png
-  alt: 'Illustration accompanying article: Securing Strait of Hormuz would require thousands of U.S. troops, experts say'
+  alt: 'Illustration accompanying article: Securing Strait of Hormuz would require
+    thousands of U.S. troops, experts say'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:openai/gpt-5.4-image-2
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories:
 - slug: 2026-07-12-us-launches-new-strikes-on-iran-after-irgc-attacks-ship-in-strait-of-hormuz
   headline: US launches new strikes on Iran after IRGC attacks ship in Strait of Hormuz
   publish_date: '2026-07-12'
   relation: related
-  strength: 0.8516
+  strength: 0.8507
 - slug: 2026-07-14-us-launches-third-night-of-strikes-on-iran-as-fighting-intensifies-in-strait-of-
-  headline: US launches third night of strikes on Iran as fighting intensifies in Strait of Hormuz
+  headline: US launches third night of strikes on Iran as fighting intensifies in
+    Strait of Hormuz
   publish_date: '2026-07-14'
   relation: related
-  strength: 0.8255
+  strength: 0.8244
 - slug: 2026-07-08-us-strikes-iranian-military-sites-after-tanker-attacks-in-strait-of-hormuz
   headline: US strikes Iranian military sites after tanker attacks in Strait of Hormuz
   publish_date: '2026-07-08'
   relation: related
-  strength: 0.824
+  strength: 0.8227
 - slug: 2026-06-28-us-launches-new-strikes-on-iran-after-tanker-attacked-in-strait-of-hormuz
   headline: US launches new strikes on Iran after tanker attacked in Strait of Hormuz
   publish_date: '2026-06-28'
   relation: related
-  strength: 0.8107
+  strength: 0.8084
 - slug: article
   headline: Iranian drones attack Bahrain, tanker hit in Strait of Hormuz
   publish_date: '2026-06-27'
   relation: related
-  strength: 0.811
+  strength: 0.8106
 - slug: 2026-06-27-iranian-drones-attack-bahrain-tanker-hit-in-strait-of-hormuz
   headline: Iranian drones attack Bahrain, tanker hit in Strait of Hormuz
   publish_date: '2026-06-27'
   relation: related
-  strength: 0.811
+  strength: 0.8106
 - slug: 2026-06-20-iran-says-it-closed-strait-of-hormuz-over-israel-lebanon-strikes
   headline: Iran says it closed Strait of Hormuz over Israel Lebanon strikes
   publish_date: '2026-06-20'
   relation: related
-  strength: 0.8046
+  strength: 0.8043
 - slug: 2026-05-09-u-s-forces-disable-two-iranian-tankers-as-strait-of-hormuz-ceasefire-frays
-  headline: U.S. forces disable two Iranian tankers as Strait of Hormuz ceasefire frays
+  headline: U.S. forces disable two Iranian tankers as Strait of Hormuz ceasefire
+    frays
   publish_date: '2026-05-09'
   relation: related
-  strength: 0.8622
-- slug: 2026-05-27-us-sanctions-target-iranian-agency-as-strikes-follow-drone-attacks-in-strait-of-
-  headline: US sanctions target Iranian agency as strikes follow drone attacks in Strait of Hormuz
-  publish_date: '2026-05-27'
-  relation: related
-  strength: 0.8105
-- slug: 2026-05-09-new-attacks-in-strait-of-hormuz-challenge-iran-ceasefire
-  headline: New attacks in Strait of Hormuz challenge Iran ceasefire
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.8544
-- slug: 2026-05-05-us-reopens-hormuz-lane-as-uae-says-iran-attacks-it-citing-ceasefire-test
-  headline: US reopens Hormuz lane as UAE says Iran attacks it, citing ceasefire test
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.8555
-- slug: 2026-05-08-iran-s-grip-on-strait-of-hormuz-jolts-economy-raises-fuel-and-food-risk
-  headline: Iran’s grip on Strait of Hormuz jolts economy, raises fuel and food risk
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.8424
-- slug: 2026-05-05-us-project-freedom-to-open-strait-of-hormuz-roils-iran-ceasefire
-  headline: US “Project Freedom” to open Strait of Hormuz roils Iran ceasefire
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.8381
-- slug: 2026-04-20-us-seizes-iranian-cargo-ship-near-strait-of-hormuz-iran-threatens-response
-  headline: US seizes Iranian cargo ship near Strait of Hormuz; Iran threatens response
-  publish_date: '2026-04-20'
-  relation: related
-  strength: 0.8428
-- slug: 2026-05-10-iran-warns-us-against-tanker-strikes-threatens-base-assault-as-fragile-ceasefire
-  headline: Iran warns US against tanker strikes, threatens base assault as fragile ceasefire holds
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.801
-- slug: 2026-05-08-shippers-whipsawed-by-changing-stances-as-vessels-remain-stuck-in-hormuz
-  headline: Shippers whipsawed by changing stances as vessels remain stuck in Hormuz
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.8004
-- slug: 2026-04-20-iran-s-revolutionary-guard-closes-strait-of-hormuz-fires-on-ships-after-blockade
-  headline: Iran’s Revolutionary Guard closes Strait of Hormuz; fires on ships after blockade
-  publish_date: '2026-04-20'
-  relation: related
-  strength: 0.8223
-- slug: 2026-04-14-us-plans-blockade-of-iranian-ports-experts-weigh-legality-and-oil-shock
-  headline: US plans blockade of Iranian ports; experts weigh legality and oil shock
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.8289
-- slug: 2026-04-26-analysis-iran-war-echoes-u-s-tanker-war-experience-in-hormuz
-  headline: 'Analysis: Iran war echoes U.S. “Tanker War” experience in Hormuz'
-  publish_date: '2026-04-26'
-  relation: related
-  strength: 0.8073
-- slug: 2026-04-15-us-navy-blockade-on-iran-halts-sea-trade-tehran-warns-of-wider-gulf-closure
-  headline: US Navy blockade on Iran halts sea trade; Tehran warns of wider Gulf closure
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.8249
+  strength: 0.861
 ---
-
-
 **Subtype:** fact
 
 - The U.S. military has not achieved control of the Strait of Hormuz despite airstrikes, according to analysts and former officials.

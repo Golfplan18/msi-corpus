@@ -2,8 +2,16 @@
 headline: Astronomers spot faintest planet ever directly imaged from Earth
 secondary_headline: Webb telescope confirms dim world after two observations
 publish_date: '2026-07-15'
-lede: Astronomers have detected the faintest planet ever directly imaged from Earth — a cold gas giant orbiting the young star Beta Pictoris after more than a decade of searching — two independent research teams reported Wednesday. The discovery was made days apart in late 2025 by a Scottish and German-led team using the European Southern Observatory's Very Large Telescope in Chile and a separate California-led team using NASA's Webb Space Telescope.
-nut_graf: The planet's extreme faintness, overshadowed by its parent star and two brighter companion worlds, makes it the dimmest exoplanet captured directly from ground- or space-based observatories. Both teams published their findings in the Astrophysical Journal Letters.
+lede: Astronomers have detected the faintest planet ever directly imaged from Earth
+  — a cold gas giant orbiting the young star Beta Pictoris after more than a decade
+  of searching — two independent research teams reported Wednesday. The discovery
+  was made days apart in late 2025 by a Scottish and German-led team using the European
+  Southern Observatory's Very Large Telescope in Chile and a separate California-led
+  team using NASA's Webb Space Telescope.
+nut_graf: The planet's extreme faintness, overshadowed by its parent star and two
+  brighter companion worlds, makes it the dimmest exoplanet captured directly from
+  ground- or space-based observatories. Both teams published their findings in the
+  Astrophysical Journal Letters.
 primary_entities:
 - Beta Pictoris
 - Very Large Telescope
@@ -38,7 +46,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -131,119 +140,21 @@ cross_article_links:
   strength: 0.5031
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-07-08-royal-canadian-geographical-society-releases-first-images-of-quest-wreck
-  headline: Royal Canadian Geographical Society releases first images of Quest wreck
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.5442
-- slug: 2026-07-02-expedition-to-survey-shackleton-scott-shipwrecks-launches
-  headline: Expedition to survey Shackleton, Scott shipwrecks launches
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.549
-- slug: 2026-07-08-new-horizons-probe-wakes-after-record-hibernation-beyond-pluto
-  headline: New Horizons probe wakes after record hibernation beyond Pluto
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.5077
-- slug: 2026-05-05-astronomers-detect-an-atmosphere-around-a-mini-pluto
-  headline: Astronomers detect an atmosphere around a mini Pluto
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.6262
-- slug: 2026-06-10-china-s-juno-detector-publishes-first-major-neutrino-findings
-  headline: China's JUNO detector publishes first major neutrino findings
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.5133
-- slug: 2026-05-10-webb-telescope-captures-brilliant-heart-of-spiral-galaxy-45-million-light-years-
-  headline: Webb telescope captures brilliant heart of spiral galaxy 45 million light-years away
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6093
-- slug: 2026-06-08-gray-whales-shift-into-san-francisco-bay-new-detection-system-warns-ships
-  headline: Gray whales shift into San Francisco Bay; new detection system warns ships
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.5118
-- slug: 2026-05-10-nasa-s-webb-telescope-captures-messier-77-s-active-nucleus-in-infrared
-  headline: NASA’s Webb telescope captures Messier 77’s active nucleus in infrared
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.5887
-- slug: 2026-05-05-astr-nomos-reportan-atm-sfera-en-un-mini-mundo-helado-m-s-all-de-plut-n
-  headline: Astrónomos reportan atmósfera en un mini mundo helado más allá de Plutón
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.585
-- slug: 2026-05-20-neptune-s-moon-nereid-may-be-an-original-companion-webb-finds
-  headline: Neptune’s moon Nereid may be an original companion, Webb finds
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.5379
-- slug: 2026-05-15-nasa-psyche-spacecraft-slingshots-past-mars-en-route-to-rare-metal-asteroid
-  headline: NASA Psyche spacecraft slingshots past Mars en route to rare metal asteroid
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.5416
-- slug: 2026-05-22-webb-telescope-study-suggests-neptune-moon-nereid-survived-triton-crash
-  headline: Webb telescope study suggests Neptune moon Nereid survived Triton crash
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.5208
-- slug: 2026-05-21-webb-study-suggests-neptune-moon-nereid-survived-the-triton-collision
-  headline: Webb study suggests Neptune moon Nereid survived the Triton collision
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.5078
-- slug: 2026-05-17-scientists-measure-black-hole-jet-power-speed-for-first-time
-  headline: Scientists measure black hole jet power, speed for first time
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.5117
-- slug: 2026-04-28-atacama-desert-skies-in-chile-face-light-pollution-pressure
-  headline: Atacama desert skies in Chile face light-pollution pressure
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.5472
-- slug: 2026-04-25-updated-chile-telescope-image-shows-sombrero-galaxy-in-greater-detail
-  headline: Updated Chile telescope image shows Sombrero Galaxy in greater detail
-  publish_date: '2026-04-25'
-  relation: related
-  strength: 0.5525
-- slug: 2026-04-24-comet-3i-atlas-likely-came-from-cold-isolated-milky-way-region
-  headline: Comet 3I/Atlas likely came from cold, isolated Milky Way region
-  publish_date: '2026-04-24'
-  relation: related
-  strength: 0.5535
-- slug: 2026-01-26-james-webb-telescope-maps-dark-matter-with-unprecedented-detail
-  headline: James Webb telescope maps dark matter with unprecedented detail
-  publish_date: '2026-01-26'
-  relation: related
-  strength: 0.6234
-- slug: 2026-02-26-telescope-in-chile-captures-milky-way-heart-in-new-image
-  headline: Telescope in Chile captures Milky Way heart in new image
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.5926
-- slug: 2026-02-23-six-planets-to-parade-across-night-sky-at-month-s-end
-  headline: Six planets to parade across night sky at month's end
-  publish_date: '2026-02-23'
-  relation: related
-  strength: 0.5908
+related_stories: []
 image:
   url: /articles/2026-07-15-astronomers-spot-faintest-planet-ever-directly-imaged-from-earth.png
-  alt: "Illustration accompanying article: Astronomers spot faintest planet ever directly imaged from Earth"
+  alt: 'Illustration accompanying article: Astronomers spot faintest planet ever directly
+    imaged from Earth'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:openai/gpt-5.4-image-2"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
-
 **Subtype:** fact
 
 - A Scottish and German-led team detected a faint cold gas giant orbiting Beta Pictoris using the European Southern Observatory's Very Large Telescope in Chile, then confirmed its orbit from archival data spanning 11 years.

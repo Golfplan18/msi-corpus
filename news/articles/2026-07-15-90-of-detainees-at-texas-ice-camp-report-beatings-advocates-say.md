@@ -2,8 +2,16 @@
 headline: 90% of detainees at Texas ICE camp report beatings, advocates say
 secondary_headline: Human Rights Watch and ACLU call for shutdown of Camp East Montana
 publish_date: '2026-07-15'
-lede: A new report from Human Rights Watch and the American Civil Liberties Union says that 90% of detainees interviewed at Camp East Montana, the largest ICE detention facility in Texas, reported being beaten by guards or witnessing others being beaten. The 84-page report, released Wednesday, also documents detainees being denied medical care, held in filthy conditions, fed inedible food, and prevented from contacting lawyers or family.
-nut_graf: The report adds to a growing body of documented abuses at the 5,000-bed facility on the grounds of Fort Bliss in El Paso, which has been the subject of federal inspections, a GAO watchdog report, and multiple prior investigations since it opened in August 2025.
+lede: A new report from Human Rights Watch and the American Civil Liberties Union
+  says that 90% of detainees interviewed at Camp East Montana, the largest ICE detention
+  facility in Texas, reported being beaten by guards or witnessing others being beaten.
+  The 84-page report, released Wednesday, also documents detainees being denied medical
+  care, held in filthy conditions, fed inedible food, and prevented from contacting
+  lawyers or family.
+nut_graf: The report adds to a growing body of documented abuses at the 5,000-bed
+  facility on the grounds of Fort Bliss in El Paso, which has been the subject of
+  federal inspections, a GAO watchdog report, and multiple prior investigations since
+  it opened in August 2025.
 primary_entities:
 - Camp East Montana
 - El Paso
@@ -36,7 +44,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -135,7 +144,8 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-06-10-watchdog-report-finds-ice-wasted-millions-endangered-detainees-at-texas-facility
-  headline: Watchdog report finds ICE wasted millions, endangered detainees at Texas facility
+  headline: Watchdog report finds ICE wasted millions, endangered detainees at Texas
+    facility
   publish_date: '2026-06-10'
   relation: related
   strength: 0.8037
@@ -144,13 +154,9 @@ related_stories:
   publish_date: '2026-06-26'
   relation: related
   strength: 0.6569
-- slug: 2026-06-12-nearly-40-women-join-hunger-strike-at-new-jersey-ice-detention-facility
-  headline: Nearly 40 women join hunger strike at New Jersey ICE detention facility
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.6497
 - slug: 2026-06-06-families-describe-distress-over-inhumane-conditions-at-new-jersey-ice-jail
-  headline: Families describe distress over 'inhumane' conditions at New Jersey ICE jail
+  headline: Families describe distress over 'inhumane' conditions at New Jersey ICE
+    jail
   publish_date: '2026-06-06'
   relation: related
   strength: 0.6645
@@ -165,7 +171,8 @@ related_stories:
   relation: related
   strength: 0.6546
 - slug: 2026-03-05-911-calls-and-interviews-raise-concerns-about-ice-camp-conditions-in-el-paso
-  headline: 911 calls and interviews raise concerns about ICE camp conditions in El Paso
+  headline: 911 calls and interviews raise concerns about ICE camp conditions in El
+    Paso
   publish_date: '2026-03-05'
   relation: related
   strength: 0.7897
@@ -179,63 +186,7 @@ related_stories:
   publish_date: '2026-03-14'
   relation: related
   strength: 0.7525
-- slug: 2026-03-06-911-calls-document-deaths-and-neglect-at-ice-s-largest-detention-camp
-  headline: 911 calls document deaths and neglect at ICE's largest detention camp
-  publish_date: '2026-03-06'
-  relation: related
-  strength: 0.7489
-- slug: 2026-04-14-osha-cites-3-companies-after-death-of-worker-building-ice-camp
-  headline: OSHA cites 3 companies after death of worker building ICE camp
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.6799
-- slug: 2026-03-04-texas-detention-camp-camp-east-montana-closes-to-visitors-amid-measles-outbreak
-  headline: Texas detention camp Camp East Montana closes to visitors amid measles outbreak
-  publish_date: '2026-03-04'
-  relation: related
-  strength: 0.717
-- slug: 2026-01-16-cuban-immigrant-dies-in-texas-ice-detention-medical-examiner-rules-homicide
-  headline: Cuban immigrant dies in Texas ICE detention; medical examiner rules homicide
-  publish_date: '2026-01-16'
-  relation: related
-  strength: 0.7213
-- slug: 2026-04-15-guards-accused-of-beating-detainees-at-florida-s-alligator-alcatraz
-  headline: Guards accused of beating detainees at Florida's 'Alligator Alcatraz'
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.648
-- slug: 2026-03-01-trump-administration-holds-children-in-immigration-detention-for-months
-  headline: Trump administration holds children in immigration detention for months
-  publish_date: '2026-03-01'
-  relation: related
-  strength: 0.6742
-- slug: 2026-02-10-prolonged-ice-detention-rises-in-trump-s-second-term-advocates-say
-  headline: Prolonged ICE detention rises in Trump’s second term, advocates say
-  publish_date: '2026-02-10'
-  relation: related
-  strength: 0.682
-- slug: 2026-01-16-medical-examiner-finds-texas-ice-detainee-s-death-a-homicide-witness-describes-c
-  headline: Medical examiner finds Texas ICE detainee's death a homicide; witness describes chokehold
-  publish_date: '2026-01-16'
-  relation: related
-  strength: 0.689
-- slug: 2026-03-14-federal-order-seeks-major-capacity-increase-at-proposed-arizona-ice-center
-  headline: Federal order seeks major capacity increase at proposed Arizona ICE center
-  publish_date: '2026-03-14'
-  relation: related
-  strength: 0.6481
-- slug: 2026-01-22-autopsy-rules-immigrant-s-death-in-ice-custody-a-homicide
-  headline: Autopsy rules immigrant's death in ICE custody a homicide
-  publish_date: '2026-01-22'
-  relation: related
-  strength: 0.6778
-- slug: 2026-01-23-medical-examiner-rules-texas-ice-detainee-death-a-homicide
-  headline: Medical examiner rules Texas ICE detainee death a homicide
-  publish_date: '2026-01-23'
-  relation: related
-  strength: 0.6726
 ---
-
 **Subtype:** fact
 
 - A joint report by Human Rights Watch and the ACLU found that 90% of 71 detainees interviewed at Camp East Montana in El Paso said they were beaten by guards or witnessed others being beaten.

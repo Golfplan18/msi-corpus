@@ -1,9 +1,17 @@
 ---
 headline: Warsh does not confirm Trump communication in Senate testimony
-secondary_headline: Fed chair downplays cooling inflation data, cites task forces as key to policy
+secondary_headline: Fed chair downplays cooling inflation data, cites task forces
+  as key to policy
 publish_date: '2026-07-15'
-lede: Federal Reserve Chair Kevin Warsh declined to say whether he has communicated with President Donald Trump since taking office, as he faced a second day of Senate testimony Wednesday on inflation, the impact of AI infrastructure spending, and the Fed's policy independence.
-nut_graf: Warsh's testimony before the Senate Banking Committee came as inflation data showed signs of cooling, with wholesale price growth slowing in June and consumer prices falling month-over-month for the first time in six years. He avoided providing specifics on the Fed's policy path, saying he would rely on five newly created task forces to study the economy's evolution.
+lede: Federal Reserve Chair Kevin Warsh declined to say whether he has communicated
+  with President Donald Trump since taking office, as he faced a second day of Senate
+  testimony Wednesday on inflation, the impact of AI infrastructure spending, and
+  the Fed's policy independence.
+nut_graf: Warsh's testimony before the Senate Banking Committee came as inflation
+  data showed signs of cooling, with wholesale price growth slowing in June and consumer
+  prices falling month-over-month for the first time in six years. He avoided providing
+  specifics on the Fed's policy path, saying he would rely on five newly created task
+  forces to study the economy's evolution.
 primary_entities:
 - Kevin Warsh
 - Donald Trump
@@ -37,7 +45,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,109 +153,51 @@ related_stories:
   headline: Warsh names task force leaders to review Fed operations
   publish_date: '2026-07-09'
   relation: related
-  strength: 0.7407
+  strength: 0.7419
 - slug: 2026-06-17-warsh-leads-first-fed-meeting-as-inflation-holds-above-target
   headline: Warsh leads first Fed meeting as inflation holds above target
   publish_date: '2026-06-17'
   relation: related
-  strength: 0.7804
+  strength: 0.7793
 - slug: 2026-06-17-warsh-avoids-forward-guidance-as-fed-officials-signal-possible-rate-hike
   headline: Warsh avoids forward guidance as Fed officials signal possible rate hike
   publish_date: '2026-06-17'
   relation: related
-  strength: 0.7462
+  strength: 0.7453
 - slug: 2026-05-23-trump-swears-in-kevin-warsh-as-fed-chair-at-white-house-ceremony
   headline: Trump swears in Kevin Warsh as Fed chair at White House ceremony
   publish_date: '2026-05-23'
   relation: related
-  strength: 0.8152
+  strength: 0.8161
 - slug: 2026-05-22-warsh-sworn-in-as-fed-chair-in-white-house-ceremony-trump-vows-independence
   headline: Warsh sworn in as Fed chair in White House ceremony, Trump vows independence
   publish_date: '2026-05-22'
   relation: related
-  strength: 0.8071
+  strength: 0.8077
 - slug: 2026-05-14-senate-confirms-kevin-warsh-as-federal-reserve-chair-replacing-powell
   headline: Senate Confirms Kevin Warsh as Federal Reserve Chair, Replacing Powell
   publish_date: '2026-05-14'
   relation: related
-  strength: 0.8057
+  strength: 0.805
 - slug: 2026-05-14-senate-confirms-kevin-warsh-to-lead-federal-reserve-replacing-powell
   headline: Senate Confirms Kevin Warsh to Lead Federal Reserve, Replacing Powell
   publish_date: '2026-05-14'
   relation: related
-  strength: 0.7975
-- slug: 2026-05-14-senate-confirms-kevin-warsh-as-federal-reserve-chairman
-  headline: Senate confirms Kevin Warsh as Federal Reserve chairman
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.7969
-- slug: 2026-05-14-senate-confirms-kevin-warsh-as-next-fed-chair-after-probe-clears
-  headline: Senate confirms Kevin Warsh as next Fed chair after probe clears
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.7852
-- slug: 2026-05-21-trump-swears-in-kevin-warsh-as-fed-chair-in-white-house-ceremony-calls-for-econo
-  headline: Trump swears in Kevin Warsh as Fed chair in White House ceremony, calls for economic stimulus
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.7639
-- slug: 2026-04-22-trump-s-fed-nominee-kevin-warsh-vows-to-curb-inflation-despite-rate-cut-push
-  headline: Trump’s Fed nominee Kevin Warsh vows to curb inflation despite rate-cut push
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.8078
-- slug: 2026-04-26-warsh-edges-closer-to-becoming-fed-chair-but-rate-cut-may-still-wait
-  headline: Warsh edges closer to becoming Fed chair but rate cut may still wait
-  publish_date: '2026-04-26'
-  relation: related
-  strength: 0.7918
-- slug: 2026-05-02-trump-pick-kevin-warsh-faces-a-fed-reshaped-by-powell-s-stay
-  headline: Trump pick Kevin Warsh faces a Fed reshaped by Powell’s stay
-  publish_date: '2026-05-02'
-  relation: related
-  strength: 0.7522
-- slug: 2026-04-30-senate-banking-advances-kevin-warsh-to-lead-fed-on-13-11-party-line-vote
-  headline: Senate Banking advances Kevin Warsh to lead Fed, on 13-11 party-line vote
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.7528
-- slug: 2026-04-16-sen-warren-demands-fuller-warsh-disclosure-ahead-of-fed-chair-hearing
-  headline: Sen. Warren demands fuller Warsh disclosure ahead of Fed chair hearing
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.759
-- slug: 2026-04-29-fed-transition-powell-signals-next-steps-as-warsh-confirmation-looms
-  headline: 'Fed transition: Powell signals next steps as Warsh confirmation looms'
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.7319
-- slug: 2026-01-29-trump-nominates-kevin-warsh-to-chair-the-federal-reserve-to-replace-powell
-  headline: Trump nominates Kevin Warsh to chair the Federal Reserve, to replace Powell
-  publish_date: '2026-01-29'
-  relation: related
-  strength: 0.7869
-- slug: 2026-03-02-trump-s-fed-pick-kevin-warsh-and-ai-optimism-clash-with-economists-doubts
-  headline: Trump’s Fed pick Kevin Warsh and AI optimism clash with economists’ doubts
-  publish_date: '2026-03-02'
-  relation: related
-  strength: 0.7636
-- slug: 2026-02-01-trump-nominates-kevin-warsh-to-chair-the-federal-reserve-replacing-powell
-  headline: Trump nominates Kevin Warsh to chair the Federal Reserve, replacing Powell
-  publish_date: '2026-02-01'
-  relation: related
-  strength: 0.7797
+  strength: 0.7968
 image:
   url: /articles/2026-07-15-warsh-does-not-confirm-trump-communication-in-senate-testimony.png
-  alt: "Illustration accompanying article: Warsh does not confirm Trump communication in Senate testimony"
+  alt: 'Illustration accompanying article: Warsh does not confirm Trump communication
+    in Senate testimony'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:openai/gpt-5.4-image-2"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
-
 ## Fed chair downplays cooling inflation data, cites task forces as key to policy
 
 WASHINGTON — Federal Reserve Chair Kevin Warsh told senators Wednesday that he would not disclose whether he has spoken with President Donald Trump since his appointment, as he navigated questions about inflation, AI infrastructure spending, and the central bank's independence during his second day of congressional testimony.
