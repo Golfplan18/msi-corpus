@@ -141,6 +141,8 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories: []
+analyses:
+- '2026-07-16-remains-identified-after-44-years-confirm-who-the-victim-was-but-where-she-was-b'
 ---
 ## Remains of LA millionaire missing since 1981 identified after 45 years
 
@@ -173,3 +175,8 @@ Gaston, whose husband and son died in the 1950s, had amassed her fortune indepen
 **Publication date:** 2026-07-16
 **Title:** Remains of LA millionaire missing since 1981 identified after more than 40 years
 **URL:** https://www.theguardian.com/us-news/2026/jul/16/la-millionaire-remains-identified
+
+---
+
+<!-- analysis-link:2026-07-16-remains-identified-after-44-years-confirm-who-the-victim-was-but-where-she-was-b -->
+**Going deeper:** [Read MSI's analysis of Gaston remains identification and its contradictions →](/analyses/2026-07-16-remains-identified-after-44-years-confirm-who-the-victim-was-but-where-she-was-b)

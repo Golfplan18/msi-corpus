@@ -132,6 +132,8 @@ related_stories:
   publish_date: '2026-04-30'
   relation: related
   strength: 0.6654
+analyses:
+- '2026-07-16-how-a-downgraded-surveillance-system-turned-a-foodborne-outbreak-into-a-preventa'
 ---
 ## More than 3,000 public health workers have left the agency
 
@@ -170,3 +172,8 @@ Shpiner, who began practicing intensive care medicine in Los Angeles in 1981 dur
 **Publication date:** 2026-07-16
 **Title:** Cyclospora is easy for doctors to miss. The US made it even harder to spot | Robert B Shpiner
 **URL:** https://www.theguardian.com/commentisfree/2026/jul/16/diarrhea-outbreak-cyclospora-parasite-cdc
+
+---
+
+<!-- analysis-link:2026-07-16-how-a-downgraded-surveillance-system-turned-a-foodborne-outbreak-into-a-preventa -->
+**Going deeper:** [Read MSI's analysis of Timing failure at the intersection of procedural downgrade, workforce attrition, and pathogen biology — and the two structural absences that made it possible. →](/analyses/2026-07-16-how-a-downgraded-surveillance-system-turned-a-foodborne-outbreak-into-a-preventa)

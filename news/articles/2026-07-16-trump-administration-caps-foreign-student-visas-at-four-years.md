@@ -38,11 +38,13 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 3
+  count: 5
   outlets:
   - The Wall Street Journal
   - Associated Press
   - BBC News
+  - The Guardian
+  - United Press International
   outlet_classes:
   - national_daily
   - wire
@@ -188,6 +190,8 @@ image:
   disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
   ai_model: "openrouter:openai/gpt-5.4-image-2"
   ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+analyses:
+- '2026-07-16-four-year-visa-cap-creates-structural-fragility-in-u-s-doctoral-pipeline-and-the'
 ---
 ## Trump administration caps foreign student visas at four years
 
@@ -223,3 +227,8 @@ The rule also extends to foreign journalists entering the U.S. on I visas. Most 
 **Publication date:** 2026-07-16
 **Title:** Trump Administration Plans to Limit Length of Student Visas
 **URL:** https://www.wsj.com/politics/policy/trump-administration-plans-to-limit-length-of-student-visas-00a4f528
+
+---
+
+<!-- analysis-link:2026-07-16-four-year-visa-cap-creates-structural-fragility-in-u-s-doctoral-pipeline-and-the -->
+**Going deeper:** [Read MSI's analysis of The 90-day cap on Chinese media I-visas: a press-freedom restriction embedded in a student visa rule, inviting reciprocal retaliation that risks reducing American reporting capacity from China. →](/analyses/2026-07-16-four-year-visa-cap-creates-structural-fragility-in-u-s-doctoral-pipeline-and-the)

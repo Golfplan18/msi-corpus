@@ -15,7 +15,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 0
@@ -28,9 +29,20 @@ figures_aggregate:
   series_ids: []
   sources: []
 image:
-  url: /articles/2026-07-13-lindsey-graham-dealmaking-senator-from-south-carolina-dies-at-71.png
-  alt: 'Illustration accompanying article: Lindsey Graham, dealmaking senator from South Carolina, dies at 71'
+  url: /cartoons/lindsey-graham-funded-the-deportation-machine.png
+  alt: 'Editorial cartoon by Hector Rentier: Lindsey Graham Funded the Deportation
+    Machine'
+  caption: The gift was the machine. The machine was the bill.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
   source: ai_generated
+  attached_at: '2026-07-17T07:22:57-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: Single central figure, 1:1 aspect ratio. Heavy cross-hatch wood-engraving
+    rendering in the Nast polemic tradition. At center, a fully individuated Lindsey
+    Graham in a dark senator's suit stands with a
+  license: https://creativecommons.org/publicdomain/zero/1.0/
 cross_article_links:
 - slug: 2026-07-13-lindsey-graham-dealmaking-senator-from-south-carolina-dies-at-71
   relation: extends
@@ -38,7 +50,13 @@ cross_article_links:
   confidence: high
 draft: false
 backlog_release: true
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-07-16-hector-paired-with-2026-07-16-hayzeus-l-salvador-us-news-2026-jul-13-lindsey-graham-dealm
 ---
+
+![Editorial cartoon by Hector Rentier: Lindsey Graham Funded the Deportation Machine](/cartoons/lindsey-graham-funded-the-deportation-machine.png)
+*The gift was the machine. The machine was the bill.*
 
 Lindsey Graham funded the deportation machine, and he knew what it was doing.
 

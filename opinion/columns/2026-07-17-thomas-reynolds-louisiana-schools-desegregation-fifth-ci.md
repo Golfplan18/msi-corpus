@@ -1,7 +1,9 @@
 ---
-headline: The Fifth Circuit Is Abandoning Louisiana's Black Children to Segregated Schools
+headline: The Fifth Circuit Is Abandoning Louisiana's Black Children to Segregated
+  Schools
 publish_date: '2026-07-17'
-lede: The Fifth Circuit is abandoning the Black children of Concordia Parish to the schools segregation built.
+lede: The Fifth Circuit is abandoning the Black children of Concordia Parish to the
+  schools segregation built.
 pen_name: thomas-reynolds
 primary_entities: []
 primary_themes: []
@@ -15,7 +17,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 0
@@ -34,7 +37,28 @@ cross_article_links:
   confidence: high
 draft: false
 backlog_release: true
+image:
+  url: /cartoons/the-fifth-circuit-is-abandoning-louisianas-black-children.png
+  alt: 'Editorial cartoon by Hector Rentier: The Fifth Circuit Is Abandoning Louisiana''s
+    Black Children to Segregated Schools'
+  caption: He declared the vestiges gone. The vestiges did not comply.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-07-17T22:31:58-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: Single central panel, 1:1 format, heavy wood-engraving cross-hatch throughout
+    in the Nast/Daumier/Herblock tradition, pure black masses balanced against carved
+    whites. A robed judge — the Fifth Circui
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-07-17-hector-paired-with-2026-07-17-thomas-reynolds-louisiana-schools-desegregation-fifth-ci
 ---
+
+![Editorial cartoon by Hector Rentier: The Fifth Circuit Is Abandoning Louisiana's Black Children to Segregated Schools](/cartoons/the-fifth-circuit-is-abandoning-louisianas-black-children.png)
+*He declared the vestiges gone. The vestiges did not comply.*
 
 The Fifth Circuit is abandoning the Black children of Concordia Parish to the schools segregation built.
 

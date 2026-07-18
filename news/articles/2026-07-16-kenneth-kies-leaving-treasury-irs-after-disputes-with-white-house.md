@@ -148,6 +148,8 @@ image:
   disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
   ai_model: "openrouter:openai/gpt-5.4-image-2"
   ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+analyses:
+- '2026-07-16-the-unenforceable-shield-kenneth-kies-section-7217-and-the-structural-erosion-of'
 ---
 ## Kenneth Kies leaving Treasury, IRS after disputes with White House
 
@@ -187,3 +189,8 @@ Kies declined to comment, the Journal reported.
 **Publication date:** 2026-07-16
 **Title:** Top Treasury Tax Official Ousted After Clashes With White House Over IRS Audits
 **URL:** https://www.wsj.com/politics/policy/top-treasury-tax-official-ousted-after-clashes-with-white-house-over-irs-audits-60d5b1df
+
+---
+
+<!-- analysis-link:2026-07-16-the-unenforceable-shield-kenneth-kies-section-7217-and-the-structural-erosion-of -->
+**Going deeper:** [Read MSI's analysis of A multi-dimensional analysis of IRS enforcement independence under the Trump administration, integrating legal, institutional, and strategic-game perspectives. →](/analyses/2026-07-16-the-unenforceable-shield-kenneth-kies-section-7217-and-the-structural-erosion-of)

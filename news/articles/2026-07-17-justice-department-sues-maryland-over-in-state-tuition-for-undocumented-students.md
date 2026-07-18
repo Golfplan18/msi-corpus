@@ -174,6 +174,8 @@ image:
   disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
   ai_model: "openrouter:openai/gpt-5.4-image-2"
   ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+analyses:
+- '2026-07-17-the-maryland-dream-act-lawsuit-a-paradigm-conflict-the-statute-cannot-resolve'
 ---
 ## Justice Department sues Maryland over in-state tuition for undocumented students
 
@@ -210,3 +212,8 @@ The Trump administration has now challenged such laws in 13 states. In addition 
 **Publication date:** 2026-07-17
 **Title:** DOJ sues Maryland over allegedly discriminatory Dream Act
 **URL:** https://www.upi.com/Top_News/US/2026/07/17/latam-us-DOJ-Maryland-Dream-Act/6251784271096/
+
+---
+
+<!-- analysis-link:2026-07-17-the-maryland-dream-act-lawsuit-a-paradigm-conflict-the-statute-cannot-resolve -->
+**Going deeper:** [Read MSI's analysis of DOJ v. Maryland: In-State Tuition for Undocumented Students →](/analyses/2026-07-17-the-maryland-dream-act-lawsuit-a-paradigm-conflict-the-statute-cannot-resolve)

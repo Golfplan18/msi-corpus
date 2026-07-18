@@ -15,7 +15,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 0
@@ -33,7 +34,27 @@ cross_article_links:
   strength: 0.7849
   confidence: high
 draft: false
+image:
+  url: /cartoons/donald-you-called-the-homicide-false.png
+  alt: 'Editorial cartoon by Hector Rentier: Donald, You Called the Homicide False'
+  caption: He signed the contract. He called the body false.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-07-17T07:46:39-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: Grouped allegorical scene, 1:1. A figure in a dark suit stands at a small
+    podium bearing a placard reading 'DETENTION STANDARD,' positioned in the right
+    third of the frame. His head is turned decisive
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-07-16-hector-paired-with-2026-07-16-mary-magdalena-ice-camp-detention-trump-homeland-securi
 ---
+
+![Editorial cartoon by Hector Rentier: Donald, You Called the Homicide False](/cartoons/donald-you-called-the-homicide-false.png)
+*He signed the contract. He called the body false.*
 
 The man was fifty-five years old. He was Cuban. He was handcuffed when they held him down. He stopped breathing on the floor of the tent camp in the desert, and the local medical examiner ruled the death a homicide. Then the evidence in the case went missing. The federal report used that word: *missing*. Destroyed.
 

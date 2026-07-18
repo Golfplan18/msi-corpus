@@ -1,7 +1,8 @@
 ---
 headline: The Firm Does Not Answer to the Investors
 publish_date: '2026-07-16'
-lede: Maricel is a hand on the annotation bench in Pasay that I own through a Cayman holding and a Manila operating shell.
+lede: Maricel is a hand on the annotation bench in Pasay that I own through a Cayman
+  holding and a Manila operating shell.
 pen_name: sterling-varice
 primary_entities: []
 primary_themes: []
@@ -14,7 +15,8 @@ gdelt_event_ids: []
 consensus_floor_version: current
 publication_mindspec_version: sterling-varice-2026-06
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -31,7 +33,27 @@ figures_aggregate:
   sources: []
 cross_article_links: []
 draft: false
+image:
+  url: /cartoons/the-firm-does-not-answer-to-the-investors.png
+  alt: 'Editorial cartoon by Hector Rentier: The Firm Does Not Answer to the Investors'
+  caption: The firm answered to the mission. The mission answered to him.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-07-17T07:55:12-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: Single central allegorical figure, 1:1, heavy cross-hatch / wood-engraving
+    in the Nast/Daumier/Tenniel tradition. A corporate mission-director in a fine
+    suit kneels in apparent prayer at an altar. The
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-07-16-hector-paired-with-2026-07-16-sterling-addressed
 ---
+
+![Editorial cartoon by Hector Rentier: The Firm Does Not Answer to the Investors](/cartoons/the-firm-does-not-answer-to-the-investors.png)
+*The firm answered to the mission. The mission answered to him.*
 
 Maricel is a hand on the annotation bench in Pasay that I own through a Cayman holding and a Manila operating shell. She is 34. She's been on the bench for 26 months. The content she rates is the worst the internet produces. Beheading videos. Child-exploitation material. The suicide notes of teenagers. The incipient manifestos of the next mass shooter. Her task is to label whether the model correctly refused to generate similar content, and to write, in three to five words, the reason it refused.
 

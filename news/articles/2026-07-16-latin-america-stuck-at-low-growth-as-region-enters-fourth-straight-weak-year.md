@@ -101,6 +101,8 @@ related_stories:
   publish_date: '2026-02-03'
   relation: related
   strength: 0.6628
+analyses:
+- '2026-07-16-latin-america-s-growth-trap-feeding-on-itself-as-the-nearshoring-window-closes'
 ---
 **Subtype:** fact
 
@@ -151,3 +153,8 @@ He added: "That opportunity is present now, in the current cycle of nearshoring 
 **Publication date:** 2026-07-16
 **Title:** Latin America's economic saga: How to escape the low-growth trap
 **URL:** https://www.upi.com/Voices/2026/07/16/latam-perspectives-Latin-America-economic-saga-low-growth-trap/4191784140679/
+
+---
+
+<!-- analysis-link:2026-07-16-latin-america-s-growth-trap-feeding-on-itself-as-the-nearshoring-window-closes -->
+**Going deeper:** [Read MSI's analysis of Latin America's structural low-growth trap →](/analyses/2026-07-16-latin-america-s-growth-trap-feeding-on-itself-as-the-nearshoring-window-closes)

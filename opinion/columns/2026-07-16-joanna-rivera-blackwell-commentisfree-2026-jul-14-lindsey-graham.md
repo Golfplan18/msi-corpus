@@ -1,7 +1,9 @@
 ---
 headline: Lindsey Graham Blessed Every Bomb His Party Dropped
 publish_date: '2026-07-16'
-lede: '"Blessed are the peacemakers, for they will be called children of God." That is Jesus, speaking on a hillside in Galilee, in the Sermon on the Mount — the most famous passage of peacemaking in the entire Bible.'
+lede: '"Blessed are the peacemakers, for they will be called children of God." That
+  is Jesus, speaking on a hillside in Galilee, in the Sermon on the Mount — the most
+  famous passage of peacemaking in the entire Bible.'
 pen_name: joanna-rivera-blackwell
 primary_entities: []
 primary_themes: []
@@ -15,7 +17,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -37,7 +40,28 @@ cross_article_links:
   confidence: high
 draft: false
 backlog_release: true
+image:
+  url: /cartoons/lindsey-graham-blessed-every-bomb-his-party-dropped.png
+  alt: 'Editorial cartoon by Hector Rentier: Lindsey Graham Blessed Every Bomb His
+    Party Dropped'
+  caption: The peacemaking was private. The killing was patriotic.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-07-17T06:50:32-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: 'Single central allegorical figure, 1:1. A fully rendered, recognizable
+    Lindsey Graham kneels in apparent devotion before an altar draped with a military
+    appropriations bill — the bill labeled DEFENSE '
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-07-16-hector-paired-with-2026-07-16-joanna-rivera-blackwell-commentisfree-2026-jul-14-lindsey-graham
 ---
+
+![Editorial cartoon by Hector Rentier: Lindsey Graham Blessed Every Bomb His Party Dropped](/cartoons/lindsey-graham-blessed-every-bomb-his-party-dropped.png)
+*The peacemaking was private. The killing was patriotic.*
 
 "Blessed are the peacemakers, for they will be called children of God." That is Jesus, speaking on a hillside in Galilee, in the Sermon on the Mount — the most famous passage of peacemaking in the entire Bible. Lindsey Graham grew up in the Southern Baptist tradition where that verse sits in every pew Bible. He spent the rest of his political life making sure it never once applied to a vote he cast.
 

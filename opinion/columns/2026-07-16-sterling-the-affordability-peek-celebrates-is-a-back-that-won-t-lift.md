@@ -1,7 +1,8 @@
 ---
 headline: The Affordability Peek Celebrates Is a Back That Won't Lift
 publish_date: '2026-07-16'
-lede: Troy is a body on the loading dock of the distribution center I own through a shell near the Mississippi Delta.
+lede: Troy is a body on the loading dock of the distribution center I own through
+  a shell near the Mississippi Delta.
 pen_name: sterling-varice
 primary_entities: []
 primary_themes: []
@@ -14,7 +15,8 @@ gdelt_event_ids: []
 consensus_floor_version: current
 publication_mindspec_version: sterling-varice-2026-06
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -30,7 +32,28 @@ figures_aggregate:
   sources: []
 cross_article_links: []
 draft: false
+image:
+  url: /cartoons/the-affordability-peek-celebrates-is-a-back-that-wont-lift.png
+  alt: 'Editorial cartoon by Hector Rentier: The Affordability Peek Celebrates Is
+    a Back That Won''t Lift'
+  caption: The shoes are affordable because his back is not on the ledger.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-07-17T08:04:51-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: Grouped allegorical scene, 1:1, heavy cross-hatch wood-engraving in the
+    tradition of Nast, Daumier, Tenniel, Herblock, Oliphant. A composed, fully individuated
+    female figure (the archetype of a Fox Ne
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-07-16-hector-paired-with-2026-07-16-sterling-the-affordability-peek-celebrates-is-a-back-that-won-t-lift
 ---
+
+![Editorial cartoon by Hector Rentier: The Affordability Peek Celebrates Is a Back That Won't Lift](/cartoons/the-affordability-peek-celebrates-is-a-back-that-wont-lift.png)
+*The shoes are affordable because his back is not on the ledger.*
 
 Troy is a body on the loading dock of the distribution center I own through a shell near the Mississippi Delta. He lifts 40-pound boxes onto trucks for 10 hours a shift, and he does it without a back brace because I decided the brace was a cost I could cut. The boxes are the shoes you ordered online. The shoes are affordable because Troy's back is not on the ledger. Liz Peek [writes in *Fox News* this week](https://www.foxnews.com/opinion/liz-peek-democrats-affordability-scam-collapses-states-they-run) that Democrat-run states are unaffordable and Republican-run states are the affordable ones. The CNBC report she cites ranks 9 of the 10 most expensive states under Democratic governors. She's correct about the correlation. She's correct about the policies. She's wrong about what the affordability buys. It buys Troy's back, and I keep the margin. God bless the margin.
 

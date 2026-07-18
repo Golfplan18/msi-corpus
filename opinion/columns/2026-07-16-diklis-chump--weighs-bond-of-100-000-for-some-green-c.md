@@ -1,7 +1,10 @@
 ---
-headline: I'm Actually the Most Pro-Immigration President in History — That's Why They Owe Us a Hundred Thousand Dollars
+headline: I'm Actually the Most Pro-Immigration President in History — That's Why
+  They Owe Us a Hundred Thousand Dollars
 publish_date: '2026-07-16'
-lede: The biggest, most BEAUTIFUL immigration deal, and the Fake News — very dishonest, the most dishonest people, worse than the politicians, and that is saying something, believe me — won't tell you about it.
+lede: The biggest, most BEAUTIFUL immigration deal, and the Fake News — very dishonest,
+  the most dishonest people, worse than the politicians, and that is saying something,
+  believe me — won't tell you about it.
 pen_name: diklis-chump
 primary_entities: []
 primary_themes: []
@@ -15,7 +18,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -36,7 +40,28 @@ cross_article_links:
   strength: 0.3276
   confidence: high
 draft: false
+image:
+  url: /cartoons/us-weighs-bond-of-100000-for-some-green-card-applicants.png
+  alt: 'Editorial cartoon by Hector Rentier: U.S. Weighs Bond of $100,000 for Some
+    Green-Card Applicants Abroad'
+  caption: The gate was pro-family. The lock cost a hundred thousand.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-07-17T07:16:39-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: Register 2 — The Gift of Hardship, adapted. Single-panel, 1:1 aspect
+    ratio. Heavy cross-hatch wood-engraving rendering throughout. At stage-left, a
+    composed benefactor archetype in a fine dark suit an
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-07-16-hector-paired-with-2026-07-16-diklis-chump--weighs-bond-of-100-000-for-some-green-c
 ---
+
+![Editorial cartoon by Hector Rentier: U.S. Weighs Bond of $100,000 for Some Green-Card Applicants Abroad](/cartoons/us-weighs-bond-of-100000-for-some-green-card-applicants.png)
+*The gate was pro-family. The lock cost a hundred thousand.*
 
 The biggest, most BEAUTIFUL immigration deal, and the Fake News — very dishonest, the most dishonest people, worse than the politicians, and that is saying something, believe me — won't tell you about it. Won't. Tell. You. Because I just solved immigration. SOLVED it. And you know how Diklis Chump, very few people could have done this, maybe nobody, you know how he solved what nobody else could solve? A hundred thousand dollars. Cash. Up front. You want to come to the Greatest Country in the World, the Country that I rebuilt, the Country that was a DISASTER before I got here and now it's the strongest, most powerful, most beautiful Country in the history of the world, maybe — you want to come here, be with your family, your wife, your mother, your children — beautiful, very pro-family, I'm the MOST pro-family president there has ever been, and that includes Lincoln, who was also very pro-family, people don't know that — you put down a hundred thousand dollars. That's it. That's the whole deal.
 

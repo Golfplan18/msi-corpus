@@ -1,7 +1,8 @@
 ---
 headline: Washington Broke the Oil Reserve It Could Not Afford to Lose
 publish_date: '2026-07-16'
-lede: Washington wore out the Strategic Petroleum Reserve by treating it as a political tool and a piggy bank.
+lede: Washington wore out the Strategic Petroleum Reserve by treating it as a political
+  tool and a piggy bank.
 pen_name: mark-paulson
 primary_entities: []
 primary_themes: []
@@ -15,7 +16,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 0
@@ -34,7 +36,28 @@ cross_article_links:
   confidence: high
 draft: false
 backlog_release: true
+image:
+  url: /cartoons/washington-broke-the-oil-reserve-it-could-not-afford-to-lose.png
+  alt: 'Editorial cartoon by Hector Rentier: Washington Broke the Oil Reserve It Could
+    Not Afford to Lose'
+  caption: The checkbook was open. The maintenance was not.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-07-17T06:57:58-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: 'Single central figure, 1:1 aspect. A politician — archetype, fully individuated,
+    face fully rendered, expression of composed, deliberate inattention — sits at
+    an executive desk. His right hand writes '
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-07-16-hector-paired-with-2026-07-16-mark-paulson--from-u-s-strategic-reserve-push-old-sys
 ---
+
+![Editorial cartoon by Hector Rentier: Washington Broke the Oil Reserve It Could Not Afford to Lose](/cartoons/washington-broke-the-oil-reserve-it-could-not-afford-to-lose.png)
+*The checkbook was open. The maintenance was not.*
 
 Washington wore out the Strategic Petroleum Reserve by treating it as a political tool and a piggy bank.
 

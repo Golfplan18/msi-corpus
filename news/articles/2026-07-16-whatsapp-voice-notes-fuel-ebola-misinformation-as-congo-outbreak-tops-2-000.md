@@ -139,6 +139,8 @@ related_stories:
   publish_date: '2026-06-01'
   relation: related
   strength: 0.6927
+analyses:
+- '2026-07-16-the-voice-note-that-beats-the-hazmat-suit'
 ---
 ## WhatsApp voice notes fuel Ebola misinformation as Congo outbreak tops 2,000
 
@@ -182,3 +184,8 @@ In the rebel-held areas of North and South Kivu provinces and neighboring Uganda
 **Publication date:** 2026-07-16
 **Title:** In Congo, Ebola Responders Fear WhatsApp Voice Notes Are Spreading Fake News
 **URL:** https://www.wsj.com/world/africa/in-congo-ebola-responders-fear-whatsapp-voice-notes-are-spreading-fake-news-69654313
+
+---
+
+<!-- analysis-link:2026-07-16-the-voice-note-that-beats-the-hazmat-suit -->
+**Going deeper:** [Read MSI's analysis of Information warfare in epidemic response — the structural conditions that make voice-note misinformation functional in eastern Congo's Ebola outbreak →](/analyses/2026-07-16-the-voice-note-that-beats-the-hazmat-suit)

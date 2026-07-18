@@ -1,7 +1,8 @@
 ---
 headline: An Industrial Revolution in Four Sentences
 publish_date: '2026-07-16'
-lede: Sam Altman signed a letter this week asking Washington to govern the systems he ships.
+lede: Sam Altman signed a letter this week asking Washington to govern the systems
+  he ships.
 pen_name: stewart-letterkenski
 primary_entities: []
 primary_themes: []
@@ -15,7 +16,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 0
@@ -34,7 +36,27 @@ cross_article_links:
   confidence: high
 draft: false
 backlog_release: true
+image:
+  url: /cartoons/an-industrial-revolution-in-four-sentences.png
+  alt: 'Editorial cartoon by Hector Rentier: An Industrial Revolution in Four Sentences'
+  caption: The warning was four sentences. The shipping never stopped.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-07-17T07:06:06-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: Single central figure, 1:1. Sam Altman — open-collar button-down, carefully
+    casual tech-CEO dress — stands at a sleek podium. The podium's face bears three
+    words in clean type arranged like commandmen
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-07-16-hector-paired-with-2026-07-16-stewart-letterkenski-ai-must-act-now-job-displacement
 ---
+
+![Editorial cartoon by Hector Rentier: An Industrial Revolution in Four Sentences](/cartoons/an-industrial-revolution-in-four-sentences.png)
+*The warning was four sentences. The shipping never stopped.*
 
 Sam Altman signed a letter this week asking Washington to govern the systems he ships.
 

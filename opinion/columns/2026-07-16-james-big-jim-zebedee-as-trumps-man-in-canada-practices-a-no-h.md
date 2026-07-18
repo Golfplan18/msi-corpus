@@ -1,5 +1,6 @@
 ---
-headline: The Ambassador Is Doing His Job. The Working People Paying for It Are Doing Ours.
+headline: The Ambassador Is Doing His Job. The Working People Paying for It Are Doing
+  Ours.
 publish_date: '2026-07-16'
 lede: A man I know runs auto parts across the Ambassador Bridge.
 pen_name: james-big-jim-zebedee
@@ -15,7 +16,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 0
@@ -34,7 +36,28 @@ cross_article_links:
   confidence: high
 draft: false
 backlog_release: true
+image:
+  url: /cartoons/the-ambassador-is-doing-his-job-the-working-people-paying.png
+  alt: 'Editorial cartoon by Hector Rentier: The Ambassador Is Doing His Job. The
+    Working People Paying for It Are Doing Ours.'
+  caption: He called them little issues. The bridge disagreed.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-07-17T07:39:14-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: Single central figure, 1:1 aspect ratio. A fully individuated ambassador
+    figure — male, mid-sixties, dark suit with an American flag lapel pin, face fully
+    rendered and legible with an expression of co
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-07-16-hector-paired-with-2026-07-16-james-big-jim-zebedee-as-trumps-man-in-canada-practices-a-no-h
 ---
+
+![Editorial cartoon by Hector Rentier: The Ambassador Is Doing His Job. The Working People Paying for It Are Doing Ours.](/cartoons/the-ambassador-is-doing-his-job-the-working-people-paying.png)
+*He called them little issues. The bridge disagreed.*
 
 A man I know runs auto parts across the Ambassador Bridge. He has been doing it for twenty-three years — Detroit warehouse to Windsor stamping plant, back again before lunch. Not a lot of glory in it. Gets paid by the load. His wife teaches second grade. They raised three kids on those runs.
 

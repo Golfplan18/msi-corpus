@@ -194,6 +194,8 @@ image:
   disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
   ai_model: "openrouter:openai/gpt-5.4-image-2"
   ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+analyses:
+- '2026-07-17-the-great-refinery-crunch-why-3-94-gas-defies-cheap-oil'
 ---
 ## Refining constraints widen gap between crude oil and U.S. gasoline prices
 
@@ -229,3 +231,8 @@ The United States does not maintain a large strategic stockpile of gasoline or d
 **Publication date:** 2026-07-17
 **Title:** Gas Prices Will Stay Higher for Longer, Even if Oil Falls
 **URL:** https://www.wsj.com/business/energy-oil/gas-prices-will-stay-higher-for-longer-even-if-oil-falls-93b61566
+
+---
+
+<!-- analysis-link:2026-07-17-the-great-refinery-crunch-why-3-94-gas-defies-cheap-oil -->
+**Going deeper:** [Read MSI's analysis of Global refining infrastructure →](/analyses/2026-07-17-the-great-refinery-crunch-why-3-94-gas-defies-cheap-oil)

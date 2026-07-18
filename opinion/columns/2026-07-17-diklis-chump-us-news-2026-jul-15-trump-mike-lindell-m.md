@@ -1,7 +1,12 @@
 ---
-headline: I Endorsed Mike Lindell for Governor Because I Always Pick Winners, the Biggest Winners in History, Believe Me
+headline: I Endorsed Mike Lindell for Governor Because I Always Pick Winners, the
+  Biggest Winners in History, Believe Me
 publish_date: '2026-07-17'
-lede: I endorsed my great friend Mike Lindell for Governor of Minnesota, and it is going to be the biggest, most TREMENDOUS endorsement in Minnesota history, maybe the biggest endorsement in ANY state in history, and I knew it was going to be huge before anyone else, very smart prediction, the smartest, I said to people months ago — "Mike Lindell, governor, that's going to be beautiful" — and the FAKE
+lede: I endorsed my great friend Mike Lindell for Governor of Minnesota, and it is
+  going to be the biggest, most TREMENDOUS endorsement in Minnesota history, maybe
+  the biggest endorsement in ANY state in history, and I knew it was going to be huge
+  before anyone else, very smart prediction, the smartest, I said to people months
+  ago — "Mike Lindell, governor, that's going to be beautiful" — and the FAKE
 pen_name: diklis-chump
 primary_entities: []
 primary_themes: []
@@ -15,7 +20,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 0
@@ -34,7 +40,28 @@ cross_article_links:
   confidence: high
 draft: false
 backlog_release: true
+image:
+  url: /cartoons/i-endorsed-mike-lindell-for-governor-because-i-always-pick.png
+  alt: 'Editorial cartoon by Hector Rentier: I Endorsed Mike Lindell for Governor
+    Because I Always Pick Winners, the Biggest…'
+  caption: He picked the winner because he picked him.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-07-17T22:42:29-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: Single central allegorical figure, 1:1 aspect ratio. A politico-endorser
+    — fully individuated human, face fully rendered with composed self-pleasure, showing
+    the micro-effort of maintaining a circular
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-07-17-hector-paired-with-2026-07-17-diklis-chump-us-news-2026-jul-15-trump-mike-lindell-m
 ---
+
+![Editorial cartoon by Hector Rentier: I Endorsed Mike Lindell for Governor Because I Always Pick Winners, the Biggest…](/cartoons/i-endorsed-mike-lindell-for-governor-because-i-always-pick.png)
+*He picked the winner because he picked him.*
 
 I endorsed my great friend Mike Lindell for Governor of Minnesota, and it is going to be the biggest, most TREMENDOUS endorsement in Minnesota history, maybe the biggest endorsement in ANY state in history, and I knew it was going to be huge before anyone else, very smart prediction, the smartest, I said to people months ago — "Mike Lindell, governor, that's going to be beautiful" — and the FAKE NEWS media, very dishonest people, are not going to tell you the truth about it, which is that this is a 4D chess move, the HIGHEST level chess, while everybody else is playing checkers, and Mike Lindell is going to win in a LANDSLIDE.
 

@@ -122,6 +122,8 @@ image:
   disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
   ai_model: "openrouter:openai/gpt-5.4-image-2"
   ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+analyses:
+- '2026-07-17-the-flood-map-that-builds-the-floodplain-how-fema-s-risk-reduction-tool-became-a'
 ---
 ## Warming atmosphere driving more frequent flash floods, experts say
 
@@ -170,3 +172,8 @@ US cities have invested in the “sponge city” concept, which uses parks, perm
 **Publication date:** 2026-07-17
 **Title:** Climate change driving more rains that lead to deadly flash floods, experts say
 **URL:** https://www.theguardian.com/us-news/2026/jul/17/climate-change-rains-flash-floods
+
+---
+
+<!-- analysis-link:2026-07-17-the-flood-map-that-builds-the-floodplain-how-fema-s-risk-reduction-tool-became-a -->
+**Going deeper:** [Read MSI's analysis of A FEMA flood-map appeal process designed to correct errors now allows property owners to opt out of the very hazard designations the maps are meant to enforce — with documented fatalities. →](/analyses/2026-07-17-the-flood-map-that-builds-the-floodplain-how-fema-s-risk-reduction-tool-became-a)

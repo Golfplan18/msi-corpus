@@ -187,6 +187,8 @@ image:
   ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
+analyses:
+- '2026-07-16-the-president-s-house-panels-were-replaced-overnight-read-what-the-new-text-actu'
 ---
 ## Critics call new panels a 'first step to fascism'
 
@@ -224,3 +226,8 @@ The Interior Department spokesperson said that through Trump's policies, "we hav
 **Publication date:** 2026-07-16
 **Title:** ‘A first step to fascism’: critics denounce Trump administration replacing slavery exhibit at George Washington’s ​home
 **URL:** https://www.theguardian.com/us-news/2026/jul/16/critics-denounce-trump-administration-replacing-slavery-exhibit-george-washington-home
+
+---
+
+<!-- analysis-link:2026-07-16-the-president-s-house-panels-were-replaced-overnight-read-what-the-new-text-actu -->
+**Going deeper:** [Read MSI's analysis of The Department of the Interior says the new panels acknowledge slavery's evils — but the text they installed centers the slaveholder's discomfort and narrates the enslaved people's condition as a story of relative autonomy, and no federal statute or regulation protects interpretive exhibit content from unilateral executive alteration. →](/analyses/2026-07-16-the-president-s-house-panels-were-replaced-overnight-read-what-the-new-text-actu)

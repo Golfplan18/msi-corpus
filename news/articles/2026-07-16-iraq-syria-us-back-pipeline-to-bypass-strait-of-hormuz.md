@@ -56,11 +56,13 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - The Wall Street Journal
+  - Associated Press
   outlet_classes:
   - national_daily
+  - wire
   highest_reliability_tier: 1
   has_originating: true
   has_primary_document: false
@@ -192,6 +194,8 @@ related_stories:
   publish_date: '2026-06-17'
   relation: related
   strength: 0.7217
+analyses:
+- '2026-07-16-iraq-oil-bypass-plan-reveals-gap-between-deal-narrative-and-pipeline-reality'
 ---
 ## Iraq, Syria, US back pipeline to bypass Strait of Hormuz
 
@@ -229,3 +233,8 @@ The Chevron executive said the company has been in talks with the Iraqi governme
 **Publication date:** 2026-07-16
 **Title:** Chevron Will Explore Creating Strait of Hormuz Alternative for Iraqi Oil
 **URL:** https://www.wsj.com/world/middle-east/chevron-will-explore-creating-strait-of-hormuz-alternative-for-iraqi-oil-36308abf
+
+---
+
+<!-- analysis-link:2026-07-16-iraq-oil-bypass-plan-reveals-gap-between-deal-narrative-and-pipeline-reality -->
+**Going deeper:** [Read MSI's analysis of Structural analysis of the Chevron-Iraq pipeline deal and the political dimensions the summit-driven coverage leaves unexamined. →](/analyses/2026-07-16-iraq-oil-bypass-plan-reveals-gap-between-deal-narrative-and-pipeline-reality)
