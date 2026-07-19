@@ -186,6 +186,8 @@ image:
   disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
   ai_model: "openrouter:openai/gpt-5-image"
   ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+analyses:
+- '2026-07-18-the-time-bomb-that-paid-its-architect-1-2-billion'
 ---
 ## Trump's crypto ventures net $1.2 billion as economists warn of financial instability
 
@@ -220,3 +222,8 @@ The Guardian's Eduardo Porter, who wrote the report, noted that the federal gove
 **Publication date:** 2026-07-18
 **Title:** Trump has normalized crypto. Is it the path to the next financial collapse? | Eduardo Porter
 **URL:** https://www.theguardian.com/business/2026/jul/18/trump-crypto-us-economy
+
+---
+
+<!-- analysis-link:2026-07-18-the-time-bomb-that-paid-its-architect-1-2-billion -->
+**Going deeper:** [Read MSI's analysis of The difference this time is that the actor with the most power to prevent the crisis has the strongest financial incentive to let it build. →](/analyses/2026-07-18-the-time-bomb-that-paid-its-architect-1-2-billion)

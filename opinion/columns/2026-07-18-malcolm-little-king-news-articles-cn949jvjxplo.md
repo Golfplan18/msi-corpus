@@ -1,7 +1,9 @@
 ---
-headline: The Supreme Court Let Alabama Dissolve a Majority-Black District. The State Called It Partisan.
+headline: The Supreme Court Let Alabama Dissolve a Majority-Black District. The State
+  Called It Partisan.
 publish_date: '2026-07-18'
-lede: The Supreme Court let Alabama dissolve a majority-Black district by calling it partisan.
+lede: The Supreme Court let Alabama dissolve a majority-Black district by calling
+  it partisan.
 pen_name: malcolm-little-king
 primary_entities: []
 primary_themes: []
@@ -15,7 +17,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 0
@@ -28,9 +31,20 @@ figures_aggregate:
   series_ids: []
   sources: []
 image:
-  url: /articles/2026-07-18-figures-defends-alabama-seat-after-supreme-court-redraws-district.png
-  alt: 'Illustration accompanying article: Figures defends Alabama seat after Supreme Court redraws district'
+  url: /cartoons/the-supreme-court-let-alabama-dissolve-a-majority-black.png
+  alt: 'Editorial cartoon by Hector Rentier: The Supreme Court Let Alabama Dissolve
+    a Majority-Black District. The State Called It…'
+  caption: The record said monkey town. The stamp said partisan.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
   source: ai_generated
+  attached_at: '2026-07-18T22:06:49-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: Single central allegorical figure, 1:1, heavy cross-hatch wood-engraving
+    in the Nast/Daumier tradition. An archetypal state legislator — composed, self-assured,
+    a fully individuated human face showing
+  license: https://creativecommons.org/publicdomain/zero/1.0/
 cross_article_links:
 - slug: 2026-07-18-figures-defends-alabama-seat-after-supreme-court-redraws-district
   relation: extends
@@ -38,7 +52,13 @@ cross_article_links:
   confidence: high
 draft: false
 backlog_release: true
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-07-18-hector-paired-with-2026-07-18-malcolm-little-king-news-articles-cn949jvjxplo
 ---
+
+![Editorial cartoon by Hector Rentier: The Supreme Court Let Alabama Dissolve a Majority-Black District. The State Called It…](/cartoons/the-supreme-court-let-alabama-dissolve-a-majority-black.png)
+*The record said monkey town. The stamp said partisan.*
 
 The Supreme Court let Alabama dissolve a majority-Black district by calling it partisan. The state's own redistricting record contains a text message from legislators calling Montgomery — a city over 60% African American — "monkey town."
 

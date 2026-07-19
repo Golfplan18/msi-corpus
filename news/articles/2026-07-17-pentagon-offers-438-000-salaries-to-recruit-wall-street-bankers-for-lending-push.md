@@ -129,6 +129,8 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories: []
+analyses:
+- '2026-07-17-pentagon-offers-438-000-salaries-to-recruit-wall-street-bankers-for-lending-push'
 ---
 ## Pentagon offers $438,000 salaries to recruit Wall Street bankers for lending push
 
@@ -174,3 +176,8 @@ The Pentagon faces so many requests for funding that it must often triage its ac
 **Publication date:** 2026-07-17
 **Title:** Pentagon Dangles $400,000 Salaries to Recruit Wall Street Bankers
 **URL:** https://www.wsj.com/politics/national-security/pentagon-dangles-400-000-salaries-to-recruit-wall-street-bankers-944435dc
+
+---
+
+<!-- analysis-link:2026-07-17-pentagon-offers-438-000-salaries-to-recruit-wall-street-bankers-for-lending-push -->
+**Going deeper:** [Read MSI's analysis of the Pentagon's $200 billion lending program →](/analyses/2026-07-17-pentagon-offers-438-000-salaries-to-recruit-wall-street-bankers-for-lending-push)

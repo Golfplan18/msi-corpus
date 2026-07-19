@@ -202,6 +202,8 @@ image:
   disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
   ai_model: "openrouter:openai/gpt-5.4-image-2"
   ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+analyses:
+- '2026-07-18-the-government-lets-its-insiders-bet-and-calls-it-an-enforcement-gap'
 ---
 ## White House probe finds it can't track staff bets on prediction markets
 
@@ -244,3 +246,8 @@ Political betting on Polymarket doubled to just over $4 billion during the first
 **Publication date:** 2026-07-18
 **Title:** The New Washington Temptation: Inside Information and a Prediction Market Account
 **URL:** https://www.wsj.com/politics/policy/dc-government-prediction-market-betting-8134c3fc
+
+---
+
+<!-- analysis-link:2026-07-18-the-government-lets-its-insiders-bet-and-calls-it-an-enforcement-gap -->
+**Going deeper:** [Read MSI's analysis of prediction-market insider trading →](/analyses/2026-07-18-the-government-lets-its-insiders-bet-and-calls-it-an-enforcement-gap)

@@ -145,6 +145,8 @@ related_stories:
   publish_date: '2026-01-29'
   relation: related
   strength: 0.7139
+analyses:
+- '2026-07-18-a-1-65-million-a-day-occupation-washington-cannot-end'
 ---
 ## National Guard presence in D.C. extends through 2029 as residents protest
 
@@ -187,3 +189,8 @@ Back in Northeast Washington, the nightly banging of pots and pans continues nex
 **Publication date:** 2026-07-18
 **Title:** A year into a national guard deployment, DC residents say they live in ‘a city under siege’
 **URL:** https://www.theguardian.com/us-news/2026/jul/18/washington-dc-national-guard-deployment
+
+---
+
+<!-- analysis-link:2026-07-18-a-1-65-million-a-day-occupation-washington-cannot-end -->
+**Going deeper:** [Read MSI's analysis of D.C. National Guard deployment →](/analyses/2026-07-18-a-1-65-million-a-day-occupation-washington-cannot-end)

@@ -124,6 +124,8 @@ related_stories:
   publish_date: '2026-01-29'
   relation: related
   strength: 0.6508
+analyses:
+- '2026-07-16-trump-sells-millisecond-access-to-his-own-policy-announcements-and-the-market-ha'
 ---
 ## Trump Media announces paid data feed giving traders access to president's Truth Social posts
 
@@ -163,3 +165,8 @@ The Journal reported that the new feed is the latest example of the first family
 **Publication date:** 2026-07-16
 **Title:** Trump Media to Sell Faster Access to President’s Social Posts
 **URL:** https://www.wsj.com/tech/trump-media-to-sell-faster-access-to-presidents-social-posts-7a7054e8
+
+---
+
+<!-- analysis-link:2026-07-16-trump-sells-millisecond-access-to-his-own-policy-announcements-and-the-market-ha -->
+**Going deeper:** [Read MSI's analysis of The Truth API is a small product with outsized structural significance. The unanswered questions that determine its trajectory — subscriber counts, regulatory signals, investor behavior — are publicly observable and carry the next news cycle. →](/analyses/2026-07-16-trump-sells-millisecond-access-to-his-own-policy-announcements-and-the-market-ha)
