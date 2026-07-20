@@ -96,6 +96,8 @@ related_stories:
   publish_date: '2026-07-08'
   relation: related
   strength: 0.7323
+analyses:
+- '2026-07-19-costco-s-9-auto-401-k-made-millionaires-of-thousands-of-front-line-workers-the-o'
 ---
 ## Costco auto-contributes 9% for long-term workers as employer 401(k) benefits vary widely
 
@@ -143,3 +145,8 @@ Employers in specialized fields who want to stay competitive with rivals often c
 **Publication date:** 2026-07-19
 **Title:** Inside America’s Most Generous 401(k) Plans
 **URL:** https://www.wsj.com/personal-finance/retirement/i401k-plans-retirement-employers-60b1dd1a
+
+---
+
+<!-- analysis-link:2026-07-19-costco-s-9-auto-401-k-made-millionaires-of-thousands-of-front-line-workers-the-o -->
+**Going deeper:** [Read MSI's analysis of The two-track retirement system: sector margins and voluntary sponsorship produce a bimodal distribution that media millionaire stories obscure. →](/analyses/2026-07-19-costco-s-9-auto-401-k-made-millionaires-of-thousands-of-front-line-workers-the-o)

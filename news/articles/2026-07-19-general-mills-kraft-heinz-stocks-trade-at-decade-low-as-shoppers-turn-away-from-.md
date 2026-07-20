@@ -159,6 +159,8 @@ related_stories:
   publish_date: '2026-03-14'
   relation: related
   strength: 0.6722
+analyses:
+- '2026-07-19-the-branded-middle-is-being-dismantled-why-general-mills-kraft-heinz-and-conagra'
 ---
 ## General Mills, Kraft Heinz stocks trade at decade-low as shoppers turn away from legacy brands
 
@@ -206,3 +208,8 @@ The sector faces a "long road back to the American shopper," the Journal conclud
 **Publication date:** 2026-07-19
 **Title:** Big Food Is Running Out of Moves With Shoppers and Investors
 **URL:** https://www.wsj.com/business/retail/big-food-is-running-out-of-moves-with-shoppers-and-investors-5f4567e9
+
+---
+
+<!-- analysis-link:2026-07-19-the-branded-middle-is-being-dismantled-why-general-mills-kraft-heinz-and-conagra -->
+**Going deeper:** [Read MSI's analysis of The decline of General Mills, Kraft Heinz, Conagra, and Campbell's is not a consumer-choice story or a cyclical downturn that better marketing can reverse. It is a structural redistribution of value that leaves the branded middle squeezed from both ends, with no available exit within the current business model. Over the past decade the four companies have shed 50% to 70% of their market value while the S&P 500 tripled, and the forces driving that loss — retailer leverage from private-label alternatives, GLP-1-driven demand destruction for ultraprocessed staples, a K-shaped consumer economy splitting the customer base away from center-store brands, and a demographic tailwind that has now reversed — are self-reinforcing and have no plausible reversal mechanism. The Wall Street Journal's reporting documents the symptoms accurately; the analysis that follows shows why the industry's own tools cannot stop the bleeding and what the actual paths forward look like. →](/analyses/2026-07-19-the-branded-middle-is-being-dismantled-why-general-mills-kraft-heinz-and-conagra)
