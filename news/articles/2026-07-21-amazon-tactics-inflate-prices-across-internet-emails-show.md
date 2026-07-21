@@ -93,6 +93,8 @@ related_stories:
   publish_date: '2026-06-03'
   relation: related
   strength: 0.6586
+analyses:
+- '2026-07-21-amazon-s-two-front-pricing-machine-how-supplier-coercion-and-algorithmic-price-f'
 ---
 ## Amazon tactics inflate prices across internet, emails show
 
@@ -131,3 +133,8 @@ The company has said in legal pleadings that the incidents cited in the Californ
 **Publication date:** 2026-07-21
 **Title:** ‘We were at their mercy’: inside the Amazon tactics that hiked prices across the internet
 **URL:** https://www.theguardian.com/us-news/ng-interactive/2026/jul/21/amazon-tactics-prices
+
+---
+
+<!-- analysis-link:2026-07-21-amazon-s-two-front-pricing-machine-how-supplier-coercion-and-algorithmic-price-f -->
+**Going deeper:** [Read MSI's analysis of Competition law, platform antitrust, algorithmic price coordination, supplier coercion, federal and state enforcement strategies →](/analyses/2026-07-21-amazon-s-two-front-pricing-machine-how-supplier-coercion-and-algorithmic-price-f)
