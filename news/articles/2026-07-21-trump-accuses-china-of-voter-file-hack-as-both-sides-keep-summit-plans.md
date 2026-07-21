@@ -173,6 +173,8 @@ related_stories:
   publish_date: '2026-05-13'
   relation: related
   strength: 0.7247
+analyses:
+- '2026-07-21-don-t-buy-the-noise-china-s-weak-economy-is-binding-trump-s-hands'
 ---
 ## Trump accuses China of voter file hack as both sides keep summit plans
 
@@ -217,3 +219,8 @@ Beijing's public pushback against Trump's speech was sharp, but Trump did not at
 **Publication date:** 2026-07-21
 **Title:** Washington and Beijing Are Sparring—and Still Making Plans
 **URL:** https://www.wsj.com/world/china/washington-and-beijing-are-sparringand-still-making-plans-cb296a17
+
+---
+
+<!-- analysis-link:2026-07-21-don-t-buy-the-noise-china-s-weak-economy-is-binding-trump-s-hands -->
+**Going deeper:** [Read MSI's analysis of US-China parallel diplomatic tracks →](/analyses/2026-07-21-don-t-buy-the-noise-china-s-weak-economy-is-binding-trump-s-hands)
