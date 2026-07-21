@@ -116,6 +116,8 @@ related_stories:
   publish_date: '2026-04-06'
   relation: related
   strength: 0.689
+analyses:
+- '2026-07-21-doj-says-uc-san-diego-med-school-used-race-in-admissions-but-the-evidence-is-les'
 ---
 ## DOJ says UC San Diego medical school illegally used race in admissions
 
@@ -150,3 +152,8 @@ President Donald Trump signed an executive order on Jan. 21, 2025, directing the
 **Publication date:** 2026-07-21
 **Title:** DOJ: UC San Diego Med's admissions favor Black, Hispanic applicants
 **URL:** https://www.upi.com/Top_News/US/2026/07/21/UC-San-Diego-admissions-Justice-Department/4101784617312/
+
+---
+
+<!-- analysis-link:2026-07-21-doj-says-uc-san-diego-med-school-used-race-in-admissions-but-the-evidence-is-les -->
+**Going deeper:** [Read MSI's analysis of The central question the wire report leaves unexamined: whether the hardship-essay mechanism the DOJ calls a "racial proxy" was adopted *because of* its racial effect (intentional discrimination) or was a legitimate hardship-assessment tool that produced disparate outcomes as a statistical artefact — a distinction that determines whether the case is a straightforward violation or a contested legal theory the Supreme Court has not yet addressed. →](/analyses/2026-07-21-doj-says-uc-san-diego-med-school-used-race-in-admissions-but-the-evidence-is-les)

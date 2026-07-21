@@ -180,6 +180,8 @@ related_stories:
   publish_date: '2026-05-20'
   relation: related
   strength: 0.6705
+analyses:
+- '2026-07-21-arizona-primary-story-narrows-republican-contests-to-election-stance-test'
 ---
 ## Arizona primaries set stage for toss-up House races and governor contest
 
@@ -213,3 +215,8 @@ Arizona's secretary of state race also highlights deep divisions over election l
 **Publication date:** 2026-07-21
 **Title:** Arizona primaries set the stage for contested fall races in a swing state
 **URL:** https://www.npr.org/2026/07/21/nx-s1-5901065/midterms-primaries-arizona-elections
+
+---
+
+<!-- analysis-link:2026-07-21-arizona-primary-story-narrows-republican-contests-to-election-stance-test -->
+**Going deeper:** [Read MSI's analysis of Media framing of the 2026 Arizona primaries →](/analyses/2026-07-21-arizona-primary-story-narrows-republican-contests-to-election-stance-test)
