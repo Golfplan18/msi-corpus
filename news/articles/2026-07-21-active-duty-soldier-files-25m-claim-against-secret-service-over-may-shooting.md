@@ -2,8 +2,12 @@
 headline: Active-duty soldier files $25M claim against Secret Service over May shooting
 secondary_headline: Stray bullet required removal of part of soldier's digestive system
 publish_date: '2026-07-21'
-lede: An active-duty soldier who was struck by a stray bullet during a shooting outside the White House in May filed notice Tuesday of a $25 million lawsuit against the Secret Service, alleging the agency failed to protect bystanders.
-nut_graf: The lawsuit, filed under the Federal Tort Claims Act, marks a direct legal challenge to the Secret Service's conduct during the May 23 shooting, which left the soldier with life-threatening injuries that required emergency surgery.
+lede: An active-duty soldier who was struck by a stray bullet during a shooting outside
+  the White House in May filed notice Tuesday of a $25 million lawsuit against the
+  Secret Service, alleging the agency failed to protect bystanders.
+nut_graf: The lawsuit, filed under the Federal Tort Claims Act, marks a direct legal
+  challenge to the Secret Service's conduct during the May 23 shooting, which left
+  the soldier with life-threatening injuries that required emergency surgery.
 primary_entities:
 - Benjamin Del Real Jr.
 - U.S. Secret Service
@@ -31,7 +35,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -128,109 +133,8 @@ cross_article_links:
   strength: 0.6357
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-06-02-injured-trump-supporters-sue-us-government-over-butler-rally-security-failures
-  headline: Injured Trump supporters sue US government over Butler rally security failures
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.6697
-- slug: 2026-05-23-secret-service-fatally-shoots-suspect-outside-white-house-checkpoint-bystander-h
-  headline: Secret Service fatally shoots suspect outside White House checkpoint; bystander hit
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6878
-- slug: 2026-05-24-secret-service-kills-gunman-outside-white-house-checkpoint-bystander-wounded
-  headline: Secret Service kills gunman outside White House checkpoint; bystander wounded
-  publish_date: '2026-05-24'
-  relation: related
-  strength: 0.6722
-- slug: 2026-05-23-suspect-dead-after-opening-fire-near-white-house-checkpoint-secret-service-says
-  headline: Suspect dead after opening fire near White House checkpoint, Secret Service says
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6632
-- slug: 2026-05-25-suspect-dead-after-opening-fire-near-white-house-checkpoint-secret-service-says
-  headline: Suspect dead after opening fire near White House checkpoint, Secret Service says
-  publish_date: '2026-05-25'
-  relation: related
-  strength: 0.6572
-- slug: 2026-05-25-bystander-in-serious-condition-after-shooting-outside-white-house
-  headline: Bystander in serious condition after shooting outside White House
-  publish_date: '2026-05-25'
-  relation: related
-  strength: 0.6557
-- slug: 2026-05-24-bystander-in-serious-condition-after-secret-service-kills-gunman-near-white-hous
-  headline: Bystander in serious condition after Secret Service kills gunman near White House checkpoint
-  publish_date: '2026-05-24'
-  relation: related
-  strength: 0.6568
-- slug: 2026-05-23-man-fatally-shot-by-secret-service-after-opening-fire-near-white-house
-  headline: Man fatally shot by Secret Service after opening fire near White House
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6516
-- slug: 2026-05-05-secret-service-gunman-fires-at-officers-near-washington-monument-shots-exchanged
-  headline: 'Secret Service: Gunman fires at officers near Washington Monument; shots exchanged'
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.6333
-- slug: 2026-05-06-suspect-in-trump-correspondents-dinner-attack-indicted-on-new-assault-charge
-  headline: Suspect in Trump correspondents’ dinner attack indicted on new assault charge
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.6287
-- slug: 2026-05-10-man-accused-in-correspondents-dinner-attack-pleads-not-guilty
-  headline: Man accused in correspondents’ dinner attack pleads not guilty
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6154
-- slug: 2026-05-04-pirro-says-buckshot-from-charged-man-hit-secret-service-agent
-  headline: Pirro says buckshot from charged man hit Secret Service agent
-  publish_date: '2026-05-04'
-  relation: related
-  strength: 0.6107
-- slug: 2026-04-28-gunman-interrupts-trump-white-house-correspondents-dinner-ap-reports
-  headline: Gunman interrupts Trump White House Correspondents’ dinner, AP reports
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.617
-- slug: 2026-05-09-cole-tomas-allen-seeks-recusal-of-doj-officials-in-dinner-attack-case
-  headline: Cole Tomas Allen seeks recusal of DOJ officials in dinner attack case
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.5902
-- slug: 2026-05-10-allen-pleads-not-guilty-in-correspondents-dinner-attack-seeks-recusal-of-two-sen
-  headline: Allen pleads not guilty in correspondents’ dinner attack, seeks recusal of two senior prosecutors
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.582
-- slug: 2026-05-07-man-charged-in-dc-shooting-said-f-k-the-white-house-authorities-say
-  headline: Man charged in DC shooting said “F—k the White House,” authorities say
-  publish_date: '2026-05-07'
-  relation: related
-  strength: 0.5881
-- slug: 2026-05-01-prosecutors-release-video-of-man-storming-correspondents-dinner
-  headline: Prosecutors release video of man storming correspondents’ dinner
-  publish_date: '2026-05-01'
-  relation: related
-  strength: 0.5994
-- slug: 2026-04-29-justice-department-asks-court-to-dismiss-white-house-ballroom-lawsuit
-  headline: Justice Department asks court to dismiss White House ballroom lawsuit
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.5956
-- slug: 2026-04-26-trump-unharmed-after-shots-during-white-house-correspondents-dinner
-  headline: Trump unharmed after shots during White House correspondents’ dinner
-  publish_date: '2026-04-26'
-  relation: related
-  strength: 0.5996
-- slug: 2026-04-29-man-charged-with-attempted-assassination-of-trump-after-dinner-attack
-  headline: Man charged with attempted assassination of Trump after dinner attack
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.5922
+related_stories: []
 ---
-
 ## Active-duty soldier files $25M claim against Secret Service over May shooting
 
 **Subtype:** fact
