@@ -18,6 +18,9 @@ generation_timestamp: '2026-07-21T20:17:11Z'
 license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_generated: true
 draft: false
+storyline_nexus:
+- us-economic-volatility
+
 ---
 
 ## Summary
