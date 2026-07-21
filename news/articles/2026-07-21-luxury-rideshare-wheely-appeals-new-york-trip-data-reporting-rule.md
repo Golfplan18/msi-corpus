@@ -95,6 +95,8 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories: []
+analyses:
+- '2026-07-21-a-movement-registry-disguised-as-a-safety-rule-the-wheely-case-tests-whether-new'
 ---
 ## Luxury rideshare Wheely appeals New York trip data reporting rule
 
@@ -128,3 +130,8 @@ Wheely also points to a precedent showing the risks of data collection: more tha
 **Publication date:** 2026-07-21
 **Title:** A Luxury Taxi Company Wants to Stop New York From Tracking its Wealthy Riders
 **URL:** https://www.wsj.com/business/a-luxury-taxi-company-wants-to-stop-new-york-from-tracking-its-wealthy-riders-2186d9f7
+
+---
+
+<!-- analysis-link:2026-07-21-a-movement-registry-disguised-as-a-safety-rule-the-wheely-case-tests-whether-new -->
+**Going deeper:** [Read MSI's analysis of Appellate arguments in Wheely USA v. NYC TLC, likely fall 2026, Second Circuit →](/analyses/2026-07-21-a-movement-registry-disguised-as-a-safety-rule-the-wheely-case-tests-whether-new)
