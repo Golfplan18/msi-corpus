@@ -177,6 +177,8 @@ related_stories:
   publish_date: '2026-05-26'
   relation: related
   strength: 0.6926
+analyses:
+- '2026-07-21-the-quiet-escalation-how-a-tactical-shift-delivered-record-ice-arrests-and-made'
 ---
 ## ICE arrested 43,138 in June, highest monthly total since Trump took office
 
@@ -215,3 +217,8 @@ The data matches what immigration advocates and attorneys said they have been se
 **Publication date:** 2026-07-21
 **Title:** US immigration agents arrested a record number of people in June, data shows
 **URL:** https://www.theguardian.com/us-news/2026/jul/21/immigration-agents-arrest-june-data
+
+---
+
+<!-- analysis-link:2026-07-21-the-quiet-escalation-how-a-tactical-shift-delivered-record-ice-arrests-and-made -->
+**Going deeper:** [Read MSI's analysis of A record 43,138 arrests in a single month — the highest since President Trump took office — should have been big news on its own. The mechanism that produced it raises equally large questions about democratic accountability. →](/analyses/2026-07-21-the-quiet-escalation-how-a-tactical-shift-delivered-record-ice-arrests-and-made)
