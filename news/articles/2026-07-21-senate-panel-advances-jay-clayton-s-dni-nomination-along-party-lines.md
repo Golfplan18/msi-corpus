@@ -2,8 +2,18 @@
 headline: Senate panel advances Jay Clayton's DNI nomination along party lines
 secondary_headline: Democrats unified against former SEC chair after election questions
 publish_date: '2026-07-21'
-lede: The Senate Intelligence Committee on Tuesday voted 9-8 along party lines to advance the nomination of Jay Clayton, President Donald Trump's pick to lead the nation's intelligence agencies, setting up a floor vote that could come as early as next week. The party-line outcome followed a contentious confirmation hearing last week in which Clayton repeatedly declined to say that former President Joe Biden won the 2020 election.
-nut_graf: The vote clears the way for a Senate floor vote on Clayton, a former Securities and Exchange Commission chairman and current U.S. attorney for the Southern District of New York, to become director of national intelligence. His nomination stalled in mid-June after Trump halted the confirmation hearing, leaving acting Director Bill Pulte, who has no known intelligence experience, in charge of the nation's 18 spy agencies.
+lede: The Senate Intelligence Committee on Tuesday voted 9-8 along party lines to
+  advance the nomination of Jay Clayton, President Donald Trump's pick to lead the
+  nation's intelligence agencies, setting up a floor vote that could come as early
+  as next week. The party-line outcome followed a contentious confirmation hearing
+  last week in which Clayton repeatedly declined to say that former President Joe
+  Biden won the 2020 election.
+nut_graf: The vote clears the way for a Senate floor vote on Clayton, a former Securities
+  and Exchange Commission chairman and current U.S. attorney for the Southern District
+  of New York, to become director of national intelligence. His nomination stalled
+  in mid-June after Trump halted the confirmation hearing, leaving acting Director
+  Bill Pulte, who has no known intelligence experience, in charge of the nation's
+  18 spy agencies.
 primary_entities:
 - Jay Clayton
 - Donald Trump
@@ -39,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -73,107 +84,57 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-07-15-trump-dni-nominee-clayton-tells-senate-biden-was-certified-avoids-saying-he-won
-  headline: Trump DNI nominee Clayton tells Senate Biden was certified, avoids saying he won
+  headline: Trump DNI nominee Clayton tells Senate Biden was certified, avoids saying
+    he won
   publish_date: '2026-07-15'
   relation: related
-  strength: 0.8825
+  strength: 0.8827
 - slug: 2026-07-10-jay-clayton-s-dni-confirmation-hearing-rescheduled-for-july-15
   headline: Jay Clayton's DNI confirmation hearing rescheduled for July 15
   publish_date: '2026-07-10'
   relation: related
-  strength: 0.8554
+  strength: 0.8555
 - slug: 2026-06-17-trump-halts-confirmation-hearing-for-intel-pick-jay-clayton
   headline: Trump halts confirmation hearing for intel pick Jay Clayton
   publish_date: '2026-06-17'
   relation: related
-  strength: 0.8202
+  strength: 0.8204
 - slug: 2026-06-21-jay-clayton-s-intelligence-nomination-held-up-in-trump-congress-standoff
   headline: Jay Clayton's intelligence nomination held up in Trump-Congress standoff
   publish_date: '2026-06-21'
   relation: related
-  strength: 0.7981
+  strength: 0.7985
 - slug: 2026-06-19-pulte-takes-helm-as-acting-intelligence-chief-after-washington-standoff
   headline: Pulte takes helm as acting intelligence chief after Washington standoff
   publish_date: '2026-06-19'
   relation: related
-  strength: 0.8047
+  strength: 0.8049
 - slug: 2026-06-11-trump-nominates-jay-clayton-as-top-us-intelligence-official-after-pulte-pushback
-  headline: Trump nominates Jay Clayton as top US intelligence official after Pulte pushback
+  headline: Trump nominates Jay Clayton as top US intelligence official after Pulte
+    pushback
   publish_date: '2026-06-11'
   relation: related
-  strength: 0.8291
+  strength: 0.8288
 - slug: 2026-06-18-trump-cancels-intel-pick-hearing-touts-iran-deal-at-g-7
   headline: Trump cancels intel pick hearing, touts Iran deal at G-7
   publish_date: '2026-06-18'
   relation: related
-  strength: 0.7124
+  strength: 0.7131
 - slug: 2026-06-08-bipartisan-opposition-derails-fisa-surveillance-renewal-ahead-of-deadline
   headline: Bipartisan opposition derails FISA surveillance renewal ahead of deadline
   publish_date: '2026-06-08'
   relation: related
-  strength: 0.7438
-- slug: 2026-06-23-acting-dni-chief-pulte-fires-dozens-of-intelligence-staff-in-latest-shakeup
-  headline: Acting DNI chief Pulte fires dozens of intelligence staff in latest shakeup
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.6782
-- slug: 2026-06-10-trump-to-install-bill-pulte-as-acting-intelligence-chief-sparking-backlash
-  headline: Trump to Install Bill Pulte as Acting Intelligence Chief, Sparking Backlash
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.7267
-- slug: 2026-06-03-trump-s-loyalist-intelligence-pick-threatens-fisa-surveillance-renewal
-  headline: Trump's loyalist intelligence pick threatens FISA surveillance renewal
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.7485
-- slug: 2026-06-05-trump-calls-on-acting-intelligence-chief-pulte-to-fire-workers-shrink-agency
-  headline: Trump calls on acting intelligence chief Pulte to fire workers, shrink agency
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.7151
-- slug: 2026-06-11-house-fails-to-pass-fisa-extension-as-democrats-revolt-over-pulte
-  headline: House fails to pass FISA extension as Democrats revolt over Pulte
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.6874
-- slug: 2026-06-18-trump-frustration-grows-as-senate-gop-leader-thune-keeps-saying-no
-  headline: Trump frustration grows as Senate GOP leader Thune keeps saying no
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.6581
-- slug: 2026-06-10-trump-calls-for-short-term-fisa-extension-amid-pulte-controversy
-  headline: Trump calls for short-term FISA extension amid Pulte controversy
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.6761
-- slug: 2026-06-13-senate-democrats-let-surveillance-law-lapse-in-hardball-strategy-against-trump
-  headline: Senate Democrats let surveillance law lapse in hardball strategy against Trump
-  publish_date: '2026-06-13'
-  relation: related
-  strength: 0.6648
-- slug: 2026-06-12-fisa-section-702-expires-after-congress-fails-to-pass-renewal
-  headline: FISA Section 702 expires after Congress fails to pass renewal
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.6475
-- slug: 2026-04-17-congress-extends-surveillance-powers-to-april-30-after-house-chaos
-  headline: Congress extends surveillance powers to April 30 after House chaos
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.6798
-- slug: 2026-04-30-house-approves-bill-to-extend-fisa-surveillance-program-for-three-years
-  headline: House approves bill to extend FISA surveillance program for three years
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.6343
-- slug: 2026-04-15-trump-urges-congress-to-extend-section-702-foreign-surveillance-as-votes-stall
-  headline: Trump urges Congress to extend Section 702 foreign surveillance as votes stall
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.6554
+  strength: 0.7442
+image:
+  url: /articles/2026-07-21-senate-panel-advances-jay-clayton-s-dni-nomination-along-party-lines.png
+  alt: "Illustration accompanying article: Senate panel advances Jay Clayton's DNI nomination along party lines"
+  credit: Main Street Independent (algorithmic)
+  source: ai_generated
+  license: "https://creativecommons.org/publicdomain/zero/1.0/"
+  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  ai_model: "openrouter:openai/gpt-5.4-image-2"
+  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
 ---
-
 ## Senate panel advances Jay Clayton's DNI nomination along party lines
 
 **Subtype:** fact
