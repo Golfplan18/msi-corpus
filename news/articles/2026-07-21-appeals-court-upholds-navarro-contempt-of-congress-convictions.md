@@ -71,6 +71,15 @@ related_stories:
   publish_date: '2026-04-12'
   relation: related
   strength: 0.6523
+image:
+  url: /articles/2026-07-21-appeals-court-upholds-navarro-contempt-of-congress-convictions.png
+  alt: "Illustration accompanying article: Appeals court upholds Navarro contempt of Congress convictions"
+  credit: Main Street Independent (algorithmic)
+  source: ai_generated
+  license: "https://creativecommons.org/publicdomain/zero/1.0/"
+  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  ai_model: "openrouter:openai/gpt-5.4-image-2"
+  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
 ---
 ## Appeals court upholds Navarro contempt of Congress convictions
 
