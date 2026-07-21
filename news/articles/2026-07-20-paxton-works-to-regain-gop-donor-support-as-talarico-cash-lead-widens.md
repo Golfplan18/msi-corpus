@@ -100,6 +100,8 @@ related_stories:
   publish_date: '2026-05-25'
   relation: related
   strength: 0.735
+analyses:
+- '2026-07-20-paxton-s-donor-crisis-is-structural-not-perceptual-and-no-short-term-fix-reaches'
 ---
 ## Paxton works to regain GOP donor support as Talarico cash lead widens
 
@@ -150,3 +152,8 @@ One Texas businessman who has donated nearly $1.5 million to Republican candidat
 **Publication date:** 2026-07-20
 **Title:** Ken Paxton Scrambles to Win Back the GOP’s Big-Dollar Donors
 **URL:** https://www.wsj.com/politics/policy/ken-paxton-scrambles-to-win-back-the-gops-big-dollar-donors-29689c87
+
+---
+
+<!-- analysis-link:2026-07-20-paxton-s-donor-crisis-is-structural-not-perceptual-and-no-short-term-fix-reaches -->
+**Going deeper:** [Read MSI's analysis of The litigation-funding conflict as a self-reinforcing cycle →](/analyses/2026-07-20-paxton-s-donor-crisis-is-structural-not-perceptual-and-no-short-term-fix-reaches)

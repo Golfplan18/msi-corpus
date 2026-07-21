@@ -155,6 +155,8 @@ image:
   ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
+analyses:
+- '2026-07-20-democratic-party-structure-lets-leaders-retain-israel-stance-voters-rejected'
 ---
 ## Solomon urges Democrats to reject leaders' Israel stance
 
@@ -193,3 +195,8 @@ On the 2028 presidential primary, Solomon argued that the shifting political lan
 **Publication date:** 2026-07-20
 **Title:** House Democrats are finally shifting on Israel. Party leaders must listen | Norman Solomon
 **URL:** https://www.theguardian.com/commentisfree/2026/jul/20/house-democrats-israel-hakeem-jeffries-schumer
+
+---
+
+<!-- analysis-link:2026-07-20-democratic-party-structure-lets-leaders-retain-israel-stance-voters-rejected -->
+**Going deeper:** [Read MSI's analysis of party structure on Israel policy →](/analyses/2026-07-20-democratic-party-structure-lets-leaders-retain-israel-stance-voters-rejected)

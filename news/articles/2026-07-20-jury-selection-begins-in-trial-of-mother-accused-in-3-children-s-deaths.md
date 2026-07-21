@@ -30,7 +30,8 @@ topic_tags:
 - mental health
 - disease and condition
 - trial
-storyline_nexus: []
+storyline_nexus:
+- abortion-rights-battles
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -50,9 +51,10 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - Associated Press
+  - United Press International
   outlet_classes:
   - wire
   highest_reliability_tier: 1
