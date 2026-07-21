@@ -115,6 +115,8 @@ related_stories:
   publish_date: '2026-05-14'
   relation: related
   strength: 0.671
+analyses:
+- '2026-07-21-a-pizza-shop-four-deaths-and-the-failure-of-a-boycott-what-the-memphis-standoff'
 ---
 ## Memphis pizza shop owner refuses Guard service, business surges
 
@@ -156,3 +158,8 @@ Tamboli said he has faced review bombing on Google and threats of violence again
 **Publication date:** 2026-07-21
 **Title:** ‘Buy-cott’ boosts Memphis pizza shop after owner refuses to serve national guard
 **URL:** https://www.theguardian.com/us-news/2026/jul/21/trumps-memphis-taskforce-sparks-backlash
+
+---
+
+<!-- analysis-link:2026-07-21-a-pizza-shop-four-deaths-and-the-failure-of-a-boycott-what-the-memphis-standoff -->
+**Going deeper:** [Read MSI's analysis of The third-side mode output was withheld as BROKEN by independent final review and is not available for integration. This analysis is built from the strategic-interaction and worldview-cartography outputs only. →](/analyses/2026-07-21-a-pizza-shop-four-deaths-and-the-failure-of-a-boycott-what-the-memphis-standoff)
