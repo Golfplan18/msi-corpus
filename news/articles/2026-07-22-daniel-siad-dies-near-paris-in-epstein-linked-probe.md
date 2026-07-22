@@ -1,9 +1,17 @@
 ---
 headline: Daniel Siad Dies Near Paris in Epstein-Linked Probe
-secondary_headline: Autopsy ordered as French investigation into alleged trafficking continues
+secondary_headline: Autopsy ordered as French investigation into alleged trafficking
+  continues
 publish_date: '2026-07-22'
-lede: Daniel Siad, a 69-year-old French model scout whose name appeared in more than 1,000 documents in the Justice Department's Jeffrey Epstein files, was found dead at his home near Paris on Monday evening, French officials said. An investigation into the cause of death has been opened and an autopsy is to be carried out.
-nut_graf: Siad was under investigation by French prosecutors specializing in human trafficking on accusations that he helped Epstein recruit women for abuse. His death removes a central figure from the expanding French probe into Epstein's network, which has already prompted a separate tax investigation that led to the resignation of former culture minister Jack Lang.
+lede: Daniel Siad, a 69-year-old French model scout whose name appeared in more than
+  1,000 documents in the Justice Department's Jeffrey Epstein files, was found dead
+  at his home near Paris on Monday evening, French officials said. An investigation
+  into the cause of death has been opened and an autopsy is to be carried out.
+nut_graf: Siad was under investigation by French prosecutors specializing in human
+  trafficking on accusations that he helped Epstein recruit women for abuse. His death
+  removes a central figure from the expanding French probe into Epstein's network,
+  which has already prompted a separate tax investigation that led to the resignation
+  of former culture minister Jack Lang.
 primary_entities:
 - Daniel Siad
 - Jeffrey Epstein
@@ -32,12 +40,14 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 1
+  count: 2
   outlets:
   - The Guardian
+  - The Wall Street Journal
   outlet_classes:
   - national_daily
   highest_reliability_tier: 2
@@ -74,108 +84,12 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-07-13-senator-warren-presses-jpmorgan-chief-dimon-on-epstein-ties
-  headline: Senator Warren presses JPMorgan chief Dimon on Epstein ties
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.5747
-- slug: 2026-06-30-relative-says-jane-doe-4-fears-retaliation-as-epstein-files-dispute-continues
-  headline: Relative says Jane Doe 4 fears retaliation as Epstein files dispute continues
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.6158
-- slug: 2026-06-24-wa-police-to-review-response-to-virginia-giuffre-domestic-violence-dispute
-  headline: WA police to review response to Virginia Giuffre domestic violence dispute
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.5772
-- slug: 2026-06-11-democrats-call-on-vance-to-testify-over-epstein-files-handling
-  headline: Democrats call on Vance to testify over Epstein files handling
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.5933
-- slug: 2026-06-16-jpmorgan-google-among-companies-told-to-preserve-epstein-records-in-new-mexico-p
-  headline: JPMorgan, Google Among Companies Told to Preserve Epstein Records in New Mexico Probe
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.5744
-- slug: 2026-06-10-house-panel-to-seek-testimony-from-alan-dershowitz-on-epstein
-  headline: House panel to seek testimony from Alan Dershowitz on Epstein
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.5735
-- slug: 2026-06-04-bondi-testifies-todd-blanche-led-epstein-files-release-won-t-discuss-trump
-  headline: Bondi testifies Todd Blanche led Epstein files release, won't discuss Trump
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.5723
 - slug: 2026-02-19-paris-prosecutors-open-epstein-related-probes-into-sex-abuse-finances
   headline: Paris prosecutors open Epstein-related probes into sex abuse, finances
   publish_date: '2026-02-19'
   relation: related
   strength: 0.6824
-- slug: 2026-05-07-timeline-traces-epstein-probe-and-fight-over-doj-files
-  headline: Timeline traces Epstein probe and fight over DOJ files
-  publish_date: '2026-05-07'
-  relation: related
-  strength: 0.5934
-- slug: 2026-02-07-french-cultural-official-jack-lang-resigns-over-epstein-linked-tax-investigation
-  headline: French cultural official Jack Lang resigns over Epstein-linked tax investigation
-  publish_date: '2026-02-07'
-  relation: related
-  strength: 0.6488
-- slug: 2026-02-10-fbi-records-say-it-found-scant-evidence-of-epstein-trafficking-ring
-  headline: FBI records say it found scant evidence of Epstein trafficking ring
-  publish_date: '2026-02-10'
-  relation: related
-  strength: 0.6233
-- slug: 2026-02-02-tech-titans-u-s-officials-and-royalty-appear-in-epstein-files
-  headline: Tech titans, U.S. officials and royalty appear in Epstein files
-  publish_date: '2026-02-02'
-  relation: related
-  strength: 0.6211
-- slug: 2026-04-04-judge-approves-72-5-million-fund-for-women-abused-by-jeffrey-epstein
-  headline: Judge approves $72.5 million fund for women abused by Jeffrey Epstein
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.5765
-- slug: 2026-02-07-fbi-investigation-of-jeffrey-epstein-found-scant-evidence-of-a-trafficking-ring
-  headline: FBI investigation of Jeffrey Epstein found scant evidence of a trafficking ring
-  publish_date: '2026-02-07'
-  relation: related
-  strength: 0.6118
-- slug: 2026-02-03-doj-takes-down-epstein-files-after-redaction-failures-may-expose-victims
-  headline: DOJ takes down Epstein files after redaction failures may expose victims
-  publish_date: '2026-02-03'
-  relation: related
-  strength: 0.6101
-- slug: 2026-02-02-doj-official-plays-down-chance-for-charges-from-epstein-files-release
-  headline: DOJ official plays down chance for charges from Epstein files release
-  publish_date: '2026-02-02'
-  relation: related
-  strength: 0.6038
-- slug: 2026-02-03-poland-s-tusk-announces-probe-of-epstein-files-for-possible-polish-victims
-  headline: Poland’s Tusk announces probe of Epstein files for possible Polish victims
-  publish_date: '2026-02-03'
-  relation: related
-  strength: 0.595
-- slug: 2026-03-05-house-committee-votes-to-subpoena-pam-bondi-over-epstein-files
-  headline: House committee votes to subpoena Pam Bondi over Epstein files
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.5765
-- slug: 2026-02-14-israel-s-barak-regrets-knowing-epstein-as-documents-show-long-ties
-  headline: Israel’s Barak regrets knowing Epstein as documents show long ties
-  publish_date: '2026-02-14'
-  relation: related
-  strength: 0.5877
-- slug: 2026-02-02-latest-epstein-files-spur-slovak-resignation-spur-prince-andrew-calls
-  headline: Latest Epstein files spur Slovak resignation, spur Prince Andrew calls
-  publish_date: '2026-02-02'
-  relation: related
-  strength: 0.589
 ---
-
 ## Daniel Siad Dies Near Paris in Epstein-Linked Probe
 
 **Subtype:** fact

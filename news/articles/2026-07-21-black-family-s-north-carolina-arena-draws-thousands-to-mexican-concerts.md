@@ -65,6 +65,8 @@ figures_aggregate:
 cross_article_links: []
 draft: false
 related_stories: []
+analyses:
+- '2026-07-21-three-forces-squeeze-gooch-arena-ice-arrests-visa-cancellations-and-wendell-fall'
 ---
 ## Black family's North Carolina arena draws thousands to Mexican concerts
 
@@ -101,3 +103,8 @@ About Donal, Ponce said: "He might be African American, but I think everybody th
 **Publication date:** 2026-07-21
 **Title:** Black lands, Mexican bands: how a southern rural family built a Latino cultural hub
 **URL:** https://www.theguardian.com/us-news/2026/jul/21/north-carolina-mexican-music-latino-culture
+
+---
+
+<!-- analysis-link:2026-07-21-three-forces-squeeze-gooch-arena-ice-arrests-visa-cancellations-and-wendell-fall -->
+**Going deeper:** [Read MSI's analysis of the squeeze on a Black-owned Latino cultural hub →](/analyses/2026-07-21-three-forces-squeeze-gooch-arena-ice-arrests-visa-cancellations-and-wendell-fall)
