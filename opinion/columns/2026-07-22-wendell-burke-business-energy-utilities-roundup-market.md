@@ -1,0 +1,75 @@
+---
+headline: The Party That Conserved Nothing Is Now Pouring Money Into a Steam Turbine
+publish_date: '2026-07-22'
+lede: The wind unit at GE Vernova is down forty percent this year.
+pen_name: wendell-burke
+primary_entities: []
+primary_themes: []
+topic_tags: []
+storyline_nexus: []
+floor_values_engaged: []
+framework_version: 1.1.0
+generation_timestamp: '2026-07-22T10:50:17-07:00'
+source_cluster_id: cluster_wsj_2026-07-22_business-energy-utilities-roundup-market
+gdelt_event_ids: []
+consensus_floor_version: v0.3.0
+publication_mindspec_version: v0.3.0
+license: https://creativecommons.org/publicdomain/zero/1.0/
+ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_generated: true
+sources:
+  count: 0
+  outlets: []
+  outlet_classes: []
+  has_originating: false
+  has_primary_document: false
+figures_aggregate:
+  count: 0
+  series_ids: []
+  sources: []
+cross_article_links:
+- slug: 2026-07-22-ge-vernova-lifts-free-cash-flow-outlook-as-oil-rises-on-iran-strikes
+  relation: extends
+  strength: 0.6089
+  confidence: high
+draft: false
+backlog_release: true
+---
+
+The wind unit at GE Vernova is down forty percent this year. Orders in the onshore U.S. business have gone soft, the company says, because Section 232 tariffs and the permitting backlog have made wind development uneconomic. The gas business, meanwhile, has been booking slot reservations for 116 gigawatts of new turbines, on track for 125 by the end of the year, and the company raised its full-year free cash flow outlook by nearly $5 billion — from a range of $6.5 to $7.5 billion to $11.5 to $12.5 billion — according to the [WSJ Market Talk desk's Tuesday roundup](/articles/2026-07-22-ge-vernova-lifts-free-cash-flow-outlook-as-oil-rises-on-iran-strikes/) of the earnings call. The stock sold off anyway. Siemens Energy, the German rival, fell nine percent on the read-across before paring losses. There is a grief in that divergence, and I want to name it carefully.
+
+I want to grant the steelman first, because the case for what is happening is not contemptible. America is facing the first sustained increase in electricity demand in two decades. Data centers for artificial intelligence, the reshoring of manufacturing, electrification of vehicles and heating — the load is real, and someone has to meet it. The grid is old. Transmission permitting takes a decade. Nuclear is slow and capital-intensive and politically difficult in many states. The people who run our investor-owned utilities are not making it up when they say they need dispatchable capacity that can be sited and fueled in the near term, and gas is what they can build. Reliability is not a slogan; it is the difference between a hospital that functions in February and one that does not. A serious person who runs a system planner's desk has to admit that the gas build, however much one wishes it were otherwise, is doing real work in a country that has not figured out how to permit anything else at speed.
+
+I am not in a position to call those men fools. Several of them I have known, in their way, for most of my working life.
+
+And here is the grief.
+
+The same administration that has spent months insulating itself against the consequences of a tariff war and a shooting war it is fighting in the same region it depends on for oil is presiding over an electricity policy in which the only thing that can be built at speed is the thing the state has chosen to clear a path for, and the only thing that cannot be built is the thing the state has chosen to tax and stall. The wind unit did not go soft because the wind stopped blowing. It went soft because the permits dried up and the tariffs landed. The gas business did not book 116 gigawatts of slot reservations because American conservatism discovered the merits of combustion. It booked them because the federal government, by deliberate policy, made gas the path of least resistance. When you fight a tariff war and a shooting war at the same time and the only energy sector that can get a permit in a year is the one that burns what you are fighting to protect, you have made a choice. The market reads the choice. The market will always read the choice.
+
+This is what hurts. The movement that once called itself the party of conservation — that talked, in a register I took seriously when I was young, about stewardship of creation, about husbanding the land, about the inheritance we hold in trust for the unborn — has produced an electricity system in which the only thing that can be built quickly is a turbine, the only way to profit from it is to book slots against a future demand signal that may or may not hold, and the only thing that gets punished is the technology that actually does what conservation used to mean. The free-cash-flow guidance goes up five billion dollars in a single quarter, the wind developers rot on a permitting docket, and the men who call themselves conservatives tell you this is realism. It is not realism. It is the absence of a moral vocabulary for energy. It is the politics of a movement that forgot what it was conserving.
+
+The conservative case against the wind slowdown, taken seriously, is that the wind developers themselves made promises they could not keep — that costs came in high, that interconnection queues were already long, that reliability questions around intermittency are not fantasies. Some of that is fair. I am willing to stipulate that the wind buildout of the last twenty years carried its own dose of the financialized rentier mentality: subsidy harvesting, tax-credit optimization, projects booked for the credit rather than the electrons. I have watched enough of the agricultural economy to know how a subsidy regime turns every operator into a creature of the program. None of this is a reason to make wind unbuildable. It is a reason to make wind buildable on terms that a community can absorb and trust, which is not the same problem and not the same policy answer.
+
+What I cannot stomach is the posture. The posture is: we have inherited a country that needs electrons, the hard electrons are the ones we know how to build, anyone who objects is a dreamer, and the profits along the way are what they are. That posture is older than I am, and it has a name. Belloc gave it a name a hundred and fourteen years ago. *The Servile State* is the condition in which the propertyless majority trades liberty for guaranteed subsistence under a coalition of concentrated capital and the state. Belloc was a Catholic and a distributist, and he wrote in defense of a wide distribution of productive property against the joint encroachments of what Chesterton called Hudge and Gudge — the state and the trust. He did not write against the market. He wrote against the arrangement in which the market and the state become one another's underwriters, and the small proprietor, the family enterprise, the co-op, the town, are left to make do on whatever terms the arrangement leaves them.
+
+I have been on the other side of that desk. I traded agricultural futures for a living in Chicago. I will not pretend I was anything other than part of the machine, briefly, in my early years. But I will tell you what I learned about the rentier mind in the time I was there, because it is the same mind I am watching in the GE Vernova earnings call. The rentier mind does not think in terms of the institution it has bought. It thinks in terms of the fee stream it can extract before the reckoning. When every able-bodied supplier doubles capacity on the same demand signal, the signal is temporary and the capacity is permanent, and the people who put the capacity in place will be fine, because they will have taken their fee off the top before the glut arrives. JPMorgan's analysts, in the same Market Talk roundup, say that demand still outstrips supply through 2028 and that the capacity expansion has already raised concerns about oversupply. They call the read-across to Siemens Energy "unwarranted." I am not a JPMorgan analyst, and I do not have a chart in front of me, but I know the kind of chart they are looking at. The read-across was entirely warranted. The market was right to sell, and the market was reading the same thing I was reading: a class that has taken the scarcity it created and is pricing the proceeds of that scarcity into a balance sheet that will be somebody else's problem in three years.
+
+I am not in the business of prophecies. I have already lost most of this fight. I will tell you what I have left.
+
+The counter-model is not a theory. The counter-model is a wire that runs past my house and into every farm and small town and seasonal cabin in this county. Adams-Columbia Electric Cooperative is a member-owned distribution cooperative headquartered in Friendship, Wisconsin, the town where I live and where I run the farm supply co-op down the road. It was built the way most of the rural electric co-ops in this country were built: in the 1930s, after the for-profit utilities had decided that the densities here were not worth their capital, the farmers and small-towners organized, secured a long-term low-interest loan through the Rural Electrification Administration, and strung the wire themselves. Capper-Volstead is the older law that made it legal; the REA is the New Deal program that made it affordable. Adams-Columbia now serves roughly 45,000 member-owners across twelve central Wisconsin counties. Its board is elected by the members from the membership. It does not have shareholders to answer to, and it does not have a free-cash-flow target to hit in the third quarter. When it builds, it builds because a member needs service, or because a feeder is at capacity, or because a substation has reached the end of its useful life. When it borrows, it borrows at co-op rates and on terms the members can see, and the members are the ones who pay the loan back on their bills over the decades. The rates are set by the board in a public meeting, in a building members can drive to. I have been in that building. I have read the budget. I have sat through the rate cases. The cooperative is not a slogan.
+
+Last year Adams-Columbia commissioned a new substation in the Town of Rome, where the lake subdivisions have been pulling more load every year, and worked with a developer in Adams to put a community solar array on a reclaimed parcel near the old rail corridor. The community solar array will produce a few megawatts. The substation will not win any awards. Neither project will make a financial analyst's notes. Together they will keep the lights on for a few thousand families whose names the analysts will never learn. That is what an electricity system looks like when it answers to the people it serves.
+
+That is the theological point, and I want to make it cleanly. Catholic social teaching, in the encyclicals I was raised on and have come back to in the years I have been back in this county, treats the ownership of productive property as a serious matter, not because property is sacred in itself but because the wide distribution of property is the architecture of a society in which human beings can know one another, account to one another, and act in common. *Rerum Novarum* and *Quadragesimo Anno* — Leo XIII in 1891 and Pius XI in 1931 — both defended private property and both bound it to the common good. The earth was given for all, the popes said. Private ownership is licit and orderly, but it is a stewardship, and the use of the things we own remains common in necessity. Subsidiarity, named in *Quadragesimo Anno*, is the principle that decisions belong at the lowest competent level: the household, the parish, the co-op, the town, the trade; the higher bodies take up only what the lower cannot. The cooperative is not a left-coded policy preference. It is the institutional form that subsidiarity takes when it is built out of wire and wood and a board elected by the members. The men who wrote the encyclicals would have recognized it immediately, because it is older than they are. Rochdale was 1844. Raiffeisen was the 1850s. The rural electric co-ops are the American chapter of the same story, written by farmers who had been told by the market that they were not worth serving and who proceeded to serve themselves.
+
+The point I am trying to make is not a small one. The point is that the electricity system this country actually needs, and the system the conservative tradition, properly read, has always pointed toward, is a system in which the people who use the power own the wires and the substations and the generation. Not because ownership is magical, and not because the cooperative form is morally purer than the corporate form, but because the people who use the power have a better answer than the financial analyst to the question of what the system is for. The financial analyst's answer is the free-cash-flow number for the quarter. The member's answer is: will the lights stay on in February, and will my neighbor's bill be one he can pay, and will the next substation get built before this one fails. Those are different questions. They are not worse questions. They are the questions a country gets when it takes seriously the proposition that the goods of creation are held in common trust, and that the stewardship of them is a vocation, not a balance-sheet line.
+
+I do not expect the men in the towers to read this. I do not expect GE Vernova's chief executive to take a call from a co-op manager in central Wisconsin. I have been on the desk. I know how little those men think about the men in the field. What I have is the argument, and the wire, and the people on the other end of the wire, and the slow conviction — earned over a working lifetime, not assumed in a column — that the small and distributed form is the form that lasts when the large form cracks.
+
+The wind will still be blowing in twenty years. The gas turbine will still be running, and its operator will still be booking the next slot. The party that conserved nothing will still be in office, or out of office, and the grid will still be in someone else's hands. The thing I want to say, before I stop writing, is that there is another institution in the country, and it answers to a different master, and it is not going anywhere. I have seen the budget. I have met the lineworkers. I have watched them come out at three in the morning in a February ice storm. They are not the men of the slot reservation. They are the men of the parish, which is the older word for the same thing. Leave the town its life. That is all I have ever asked.
+
+---
+
+*Wendell Burke is a heteronym in Main Street Independent's editorial architecture — an analytical voice, not autobiography of any actual person. The position this column expresses is the publication's position on the territory Wendell Burke's lane covers, rendered through Wendell Burke's register.*
+
+*[About Wendell Burke](/advocacy/wendell-burke) · [How the pen names work](/about#how-the-pen-names-work)*
