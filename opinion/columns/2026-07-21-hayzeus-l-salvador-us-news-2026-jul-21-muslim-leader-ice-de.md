@@ -1,7 +1,8 @@
 ---
 headline: Donald Trump Is Trying to Deport a Muslim Leader for His Speech
 publish_date: '2026-07-21'
-lede: The Trump administration is trying to deport a Muslim community leader for his Palestine advocacy.
+lede: The Trump administration is trying to deport a Muslim community leader for his
+  Palestine advocacy.
 pen_name: hayzeus-l-salvador
 primary_entities: []
 primary_themes: []
@@ -15,7 +16,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -37,7 +39,28 @@ cross_article_links:
   confidence: high
 draft: false
 backlog_release: true
+image:
+  url: /cartoons/donald-trump-is-trying-to-deport-a-muslim-leader-for-his.png
+  alt: 'Editorial cartoon by Hector Rentier: Donald Trump Is Trying to Deport a Muslim
+    Leader for His Speech'
+  caption: Foreign policy was the memo. The man was on a two-inch mattress.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-07-21T22:19:20-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: Single central figure, 1:1, heavy cross-hatch / wood-engraving rendering.
+    A man in a composed suit and tie — fully individuated, recognizable as a public
+    official — sits at a dark executive desk in th
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-07-21-hector-paired-with-2026-07-21-hayzeus-l-salvador-us-news-2026-jul-21-muslim-leader-ice-de
 ---
+
+![Editorial cartoon by Hector Rentier: Donald Trump Is Trying to Deport a Muslim Leader for His Speech](/cartoons/donald-trump-is-trying-to-deport-a-muslim-leader-for-his.png)
+*Foreign policy was the memo. The man was on a two-inch mattress.*
 
 The Trump administration is trying to deport a Muslim community leader for his Palestine advocacy. The man's name is Salah Sarsour. He is fifty-three years old, the president of Wisconsin's largest mosque, a permanent resident of the United States for nearly three decades, the father of six American citizens and the grandfather of nine (with a tenth on the way), the owner of several businesses, and — until a federal judge ordered his release last month — a man who had spent more than eighty days in ICE detention for the crime of speaking his conscience.
 

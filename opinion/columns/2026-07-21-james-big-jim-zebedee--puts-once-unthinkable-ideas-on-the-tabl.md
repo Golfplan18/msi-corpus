@@ -1,7 +1,8 @@
 ---
 headline: Washington Is Sending Lebanese Soldiers to Fight Their Own Neighbors
 publish_date: '2026-07-21'
-lede: Washington is sending Lebanese soldiers to fight their own neighbors and calling it disarmament.
+lede: Washington is sending Lebanese soldiers to fight their own neighbors and calling
+  it disarmament.
 pen_name: james-big-jim-zebedee
 primary_entities: []
 primary_themes: []
@@ -15,7 +16,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 0
@@ -34,7 +36,28 @@ cross_article_links:
   confidence: high
 draft: false
 backlog_release: true
+image:
+  url: /cartoons/washington-is-sending-lebanese-soldiers-to-fight-their-own.png
+  alt: 'Editorial cartoon by Hector Rentier: Washington Is Sending Lebanese Soldiers
+    to Fight Their Own Neighbors'
+  caption: He read the engagement plan. He left the casualties face-down.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-07-21T22:25:41-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: Single-panel, 1:1, heavy Nast cross-hatch. A composed Washington official
+    in an immaculate dark suit sits at a wide mahogany desk occupying the left two-thirds
+    of the panel. His face is fully rendered
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-07-21-hector-paired-with-2026-07-21-james-big-jim-zebedee--puts-once-unthinkable-ideas-on-the-tabl
 ---
+
+![Editorial cartoon by Hector Rentier: Washington Is Sending Lebanese Soldiers to Fight Their Own Neighbors](/cartoons/washington-is-sending-lebanese-soldiers-to-fight-their-own.png)
+*He read the engagement plan. He left the casualties face-down.*
 
 Washington is sending Lebanese soldiers to fight their own neighbors and calling it disarmament.
 
