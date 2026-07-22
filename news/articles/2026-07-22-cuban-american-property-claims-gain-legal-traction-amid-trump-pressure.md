@@ -151,6 +151,8 @@ related_stories:
   publish_date: '2026-06-12'
   relation: related
   strength: 0.6579
+analyses:
+- '2026-07-22-fragile-equilibrium-behind-helms-burton-claims'
 ---
 ## Cuban-American property claims gain legal traction amid Trump pressure
 
@@ -214,3 +216,8 @@ Faced with such roadblocks, some of the Cuban diaspora have given up on the idea
 **Publication date:** 2026-07-22
 **Title:** Cuban-Americans Who Lost Property in 1959 Revolution Seek Compensation
 **URL:** https://www.wsj.com/world/americas/florida-cubans-homes-real-estate-7b297e29
+
+---
+
+<!-- analysis-link:2026-07-22-fragile-equilibrium-behind-helms-burton-claims -->
+**Going deeper:** [Read MSI's analysis of Helms-Burton property claims litigation →](/analyses/2026-07-22-fragile-equilibrium-behind-helms-burton-claims)
