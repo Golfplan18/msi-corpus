@@ -143,6 +143,15 @@ related_stories:
   publish_date: '2026-06-11'
   relation: related
   strength: 0.7266
+image:
+  url: /articles/2026-07-22-iran-missile-strike-on-jordan-base-kills-three-us-service-members.png
+  alt: "Illustration accompanying article: Iran missile strike on Jordan base kills three US service members"
+  credit: Main Street Independent (algorithmic)
+  source: ai_generated
+  license: "https://creativecommons.org/publicdomain/zero/1.0/"
+  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  ai_model: "openrouter:openai/gpt-5-image"
+  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
 ---
 ## Iran missile strike on Jordan base kills three US service members
 
