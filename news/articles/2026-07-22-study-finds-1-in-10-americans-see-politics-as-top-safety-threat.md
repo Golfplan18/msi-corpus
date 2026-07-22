@@ -178,6 +178,8 @@ related_stories:
   publish_date: '2026-05-10'
   relation: related
   strength: 0.6612
+analyses:
+- '2026-07-22-one-in-ten-americans-now-says-politics-is-their-greatest-personal-safety-threat'
 ---
 ## Study finds 1 in 10 Americans see politics as top safety threat
 
@@ -209,3 +211,8 @@ The World Risk Poll results align with a broader pattern of disaffection capture
 **Publication date:** 2026-07-22
 **Title:** Americans far more likely to view politics as greatest threat to safety, study finds
 **URL:** https://www.theguardian.com/us-news/2026/jul/22/americans-politics-threat-survey
+
+---
+
+<!-- analysis-link:2026-07-22-one-in-ten-americans-now-says-politics-is-their-greatest-personal-safety-threat -->
+**Going deeper:** [Read MSI's analysis of Gallup/Lloyd's Register Foundation World Risk Poll analysis: U.S. uniquely ranks politics above health as top safety risk, driven by decade of violence and institutional alienation, with no self-correcting mechanism. →](/analyses/2026-07-22-one-in-ten-americans-now-says-politics-is-their-greatest-personal-safety-threat)
