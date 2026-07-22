@@ -89,6 +89,8 @@ related_stories:
   publish_date: '2026-02-19'
   relation: related
   strength: 0.6824
+analyses:
+- '2026-07-22-the-system-had-a-decade-to-interview-daniel-siad-it-did-not'
 ---
 ## Daniel Siad Dies Near Paris in Epstein-Linked Probe
 
@@ -139,3 +141,8 @@ The Justice Department files suggest the FBI was tipped off about Siad's work fo
 **Publication date:** 2026-07-22
 **Title:** Model scout for Jeffrey Epstein found dead at his home near Paris
 **URL:** https://www.theguardian.com/us-news/2026/jul/22/daniel-siad-model-scout-jeffrey-epstein-found-dead-home-paris
+
+---
+
+<!-- analysis-link:2026-07-22-the-system-had-a-decade-to-interview-daniel-siad-it-did-not -->
+**Going deeper:** [Read MSI's analysis of institutional delay and the loss of the Epstein network's last living witness →](/analyses/2026-07-22-the-system-had-a-decade-to-interview-daniel-siad-it-did-not)
