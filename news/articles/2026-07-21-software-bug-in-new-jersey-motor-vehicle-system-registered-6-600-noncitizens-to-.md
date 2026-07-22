@@ -176,6 +176,8 @@ related_stories:
   publish_date: '2026-05-17'
   relation: related
   strength: 0.6727
+analyses:
+- '2026-07-21-new-jersey-got-the-facts-right-both-sides-of-the-argument-are-butchering-them'
 ---
 ## Software bug in New Jersey motor vehicle system registered 6,600 noncitizens to vote
 
@@ -221,3 +223,8 @@ The error in New Jersey came during a period in which Democrat Kamala Harris def
 **Publication date:** 2026-07-21
 **Title:** New Jersey Removes 6,600 Noncitizens From Voter Rolls After Software Error
 **URL:** https://www.wsj.com/politics/policy/new-jersey-removes-6-600-noncitizens-from-voter-rolls-after-software-error-9acc2492
+
+---
+
+<!-- analysis-link:2026-07-21-new-jersey-got-the-facts-right-both-sides-of-the-argument-are-butchering-them -->
+**Going deeper:** [Read MSI's analysis of The 6,600 people whose names were removed from the rolls told the state they were not citizens. The state registered them anyway. Now they are being used as a number in a debate they have no voice in — and no one is asking what the error meant for them. →](/analyses/2026-07-21-new-jersey-got-the-facts-right-both-sides-of-the-argument-are-butchering-them)
