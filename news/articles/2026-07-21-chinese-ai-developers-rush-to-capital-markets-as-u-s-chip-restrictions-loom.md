@@ -191,6 +191,8 @@ related_stories:
   publish_date: '2026-06-29'
   relation: related
   strength: 0.6711
+analyses:
+- '2026-07-21-china-s-ai-ipo-pipeline-is-a-bet-on-a-loophole'
 ---
 ## Chinese AI developers rush to capital markets as U.S. chip restrictions loom
 
@@ -236,3 +238,8 @@ Long Yili, a shop owner in southwest China, won a lottery last week to buy 500 s
 **Publication date:** 2026-07-21
 **Title:** China AI Companies Rush to Raise Funds and Close Gap With U.S.
 **URL:** https://www.wsj.com/world/china/china-ai-companies-rush-to-raise-funds-and-close-gap-with-u-s-55b9e2fd
+
+---
+
+<!-- analysis-link:2026-07-21-china-s-ai-ipo-pipeline-is-a-bet-on-a-loophole -->
+**Going deeper:** [Read MSI's analysis of Chinese AI capital markets and offshore chip access →](/analyses/2026-07-21-china-s-ai-ipo-pipeline-is-a-bet-on-a-loophole)
