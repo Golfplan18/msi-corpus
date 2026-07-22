@@ -190,6 +190,8 @@ related_stories:
   publish_date: '2026-05-25'
   relation: related
   strength: 0.7317
+analyses:
+- '2026-07-21-the-pause-that-everyone-needs-and-why-each-side-needs-it-for-different-reasons'
 ---
 ## Israel stays out of renewed US bombing campaign in Iran
 
@@ -243,3 +245,8 @@ Arab Gulf states are weighing whether Iran's persistent attacks and control over
 **Publication date:** 2026-07-21
 **Title:** Why Israel Is Sitting Out the Latest U.S. Bombing Campaign in Iran
 **URL:** https://www.wsj.com/world/middle-east/why-israel-is-sitting-out-the-latest-u-s-bombing-campaign-in-iran-55713b77
+
+---
+
+<!-- analysis-link:2026-07-21-the-pause-that-everyone-needs-and-why-each-side-needs-it-for-different-reasons -->
+**Going deeper:** [Read MSI's analysis of The consensus keeping Israel out of the renewed U.S. campaign against Iran is real, consequential, and built on something closer to a convergent coincidence of incompatible goals than a shared strategy. Beneath the surface agreement, the United States and Israel are optimizing in differently structured games on the same battlefield — a positive-sum containment game for Washington, a zero-sum regime-change game for Jerusalem. The current equilibrium holds because every party finds it temporarily useful, but the divergence buried inside the consensus means the arrangement carries its own expiration date, triggered by the first sign that economic pressure alone won't deliver. →](/analyses/2026-07-21-the-pause-that-everyone-needs-and-why-each-side-needs-it-for-different-reasons)
