@@ -174,6 +174,8 @@ related_stories:
   publish_date: '2026-03-25'
   relation: related
   strength: 0.6652
+analyses:
+- '2026-07-22-openai-s-750-billion-bet-is-financed-by-georgia-ratepayers-who-never-agreed-to-i'
 ---
 ## OpenAI raises cloud spending target to $750 billion by 2030
 
@@ -210,3 +212,8 @@ After Altman's earlier proclamation that OpenAI planned to spend $1.4 trillion o
 **Publication date:** 2026-07-22
 **Title:** OpenAI’s Planned Cloud Spending Hits $750 Billion as Computing Efforts Ramp Up
 **URL:** https://www.wsj.com/tech/openais-planned-cloud-spending-hits-750-billion-as-computing-efforts-ramp-up-6ac3f58a
+
+---
+
+<!-- analysis-link:2026-07-22-openai-s-750-billion-bet-is-financed-by-georgia-ratepayers-who-never-agreed-to-i -->
+**Going deeper:** [Read MSI's analysis of The risk-transfer architecture in OpenAI’s Georgia Power deal — ratepayer-subsidised infrastructure that leaves captive consumers holding stranded-generation exposure while corporate decision-makers walk away clean. →](/analyses/2026-07-22-openai-s-750-billion-bet-is-financed-by-georgia-ratepayers-who-never-agreed-to-i)
