@@ -19,7 +19,8 @@ primary_themes:
 - cellphone video evidence
 topic_tags:
 - crime
-storyline_nexus: []
+storyline_nexus:
+- us-immigration-enforcement
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

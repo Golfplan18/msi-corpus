@@ -25,7 +25,8 @@ primary_themes:
 topic_tags:
 - civil rights
 - health treatment and procedure
-storyline_nexus: []
+storyline_nexus:
+- lgbtq-rights-restrictions
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness
