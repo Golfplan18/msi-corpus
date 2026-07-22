@@ -2,8 +2,15 @@
 headline: Proposal for larger private docks in Georgia marsh sparks debate
 secondary_headline: Sea Island couple says over-700-foot docks obstruct marsh view
 publish_date: '2026-07-22'
-lede: A proposal to allow larger private boat docks in Georgia's public saltmarshes has sparked debate over balancing private access with preserving the coastal habitat, the Associated Press reported. Sea Island residents Margaret and William Sovey say six dock walkways, each exceeding 700 feet, now obstruct their view of Village Creek, with Margaret describing the sight as raising her blood pressure each morning.
-nut_graf: The dispute highlights a growing tension along Georgia's coast between waterfront property owners seeking to expand docks and conservation advocates seeking to protect the unspoiled saltmarsh ecosystem, a debate that the Soveys' experience has come to symbolize.
+lede: A proposal to allow larger private boat docks in Georgia's public saltmarshes
+  has sparked debate over balancing private access with preserving the coastal habitat,
+  the Associated Press reported. Sea Island residents Margaret and William Sovey say
+  six dock walkways, each exceeding 700 feet, now obstruct their view of Village Creek,
+  with Margaret describing the sight as raising her blood pressure each morning.
+nut_graf: The dispute highlights a growing tension along Georgia's coast between waterfront
+  property owners seeking to expand docks and conservation advocates seeking to protect
+  the unspoiled saltmarsh ecosystem, a debate that the Soveys' experience has come
+  to symbolize.
 primary_entities:
 - Georgia
 - Sea Island
@@ -37,7 +44,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -134,109 +142,8 @@ cross_article_links:
   strength: 0.5372
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-07-22-lake-powell-s-low-water-leaves-boat-ramps-dry-visitor-says
-  headline: Lake Powell's low water leaves boat ramps dry, visitor says
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.5679
-- slug: 2026-07-05-residents-push-back-against-luxury-development-in-montana-s-flathead-county
-  headline: Residents push back against luxury development in Montana's Flathead County
-  publish_date: '2026-07-05'
-  relation: related
-  strength: 0.6044
-- slug: 2026-06-14-georgia-residents-push-for-referendum-to-block-rural-datacenter
-  headline: Georgia residents push for referendum to block rural datacenter
-  publish_date: '2026-06-14'
-  relation: related
-  strength: 0.5964
-- slug: 2026-06-09-wisconsin-dog-walker-appeals-trespass-fine-challenging-lake-michigan-beach-acces
-  headline: Wisconsin dog walker appeals trespass fine, challenging Lake Michigan beach access
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.605
-- slug: 2026-06-15-forward-facing-sonar-divides-anglers-over-high-tech-fishing
-  headline: Forward-facing sonar divides anglers over high-tech fishing
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.5581
-- slug: 2026-06-01-social-circle-sues-to-halt-ice-megacenter-plan-amid-infrastructure-fears
-  headline: Social Circle sues to halt ICE megacenter plan amid infrastructure fears
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.5747
-- slug: 2026-06-04-iowa-water-pollution-threatens-health-and-summer-recreation
-  headline: Iowa water pollution threatens health and summer recreation
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.5569
-- slug: 2026-05-09-five-years-after-hurricane-ida-barataria-preserve-begins-repairs
-  headline: Five years after Hurricane Ida, Barataria Preserve begins repairs
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.5633
-- slug: 2026-05-08-investigation-finds-georgia-knew-carpet-mill-chemicals-were-polluting-water
-  headline: Investigation finds Georgia knew carpet mill chemicals were polluting water
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.5614
-- slug: 2026-04-26-boston-area-groups-urge-end-to-sewage-discharges-in-waterways
-  headline: Boston-area groups urge end to sewage discharges in waterways
-  publish_date: '2026-04-26'
-  relation: related
-  strength: 0.58
-- slug: 2026-05-09-barataria-preserve-damaged-by-hurricane-ida-repairs-begin-after-5-years
-  headline: Barataria Preserve damaged by Hurricane Ida; repairs begin after 5 years
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.555
-- slug: 2026-04-29-montana-considers-ban-on-boat-fishing-in-east-gallatin-river
-  headline: Montana considers ban on boat fishing in East Gallatin river
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.5719
-- slug: 2026-03-31-neglected-north-shore-waterways-worsened-hawaii-floods-residents-say
-  headline: Neglected North Shore waterways worsened Hawaii floods, residents say
-  publish_date: '2026-03-31'
-  relation: related
-  strength: 0.5867
-- slug: 2026-04-04-sand-mined-from-cranberry-bogs-fuels-massachusetts-beach-projects-residents-say
-  headline: Sand mined from cranberry bogs fuels Massachusetts beach projects, residents say
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.5642
-- slug: 2026-03-19-florida-activists-press-to-reunite-rivers-after-abandoned-canal-plan
-  headline: Florida activists press to reunite rivers after abandoned canal plan
-  publish_date: '2026-03-19'
-  relation: related
-  strength: 0.5746
-- slug: 2026-04-04-outrage-over-ai-data-centers-could-aid-georgia-democrats-in-2026
-  headline: Outrage over AI data centers could aid Georgia Democrats in 2026
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.5543
-- slug: 2026-03-24-consumers-seeks-to-delay-flood-control-upgrades-as-it-pursues-dam-sales
-  headline: Consumers seeks to delay flood control upgrades as it pursues dam sales
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.5651
-- slug: 2026-03-25-consumers-energy-asks-ferc-to-delay-hardy-dam-spillway-work-amid-sale
-  headline: Consumers Energy asks FERC to delay Hardy Dam spillway work amid sale
-  publish_date: '2026-03-25'
-  relation: related
-  strength: 0.5585
-- slug: 2026-02-25-workers-at-mystic-seaport-clear-snow-from-historic-charles-w-morgan-ship
-  headline: Workers at Mystic Seaport clear snow from historic Charles W. Morgan ship
-  publish_date: '2026-02-25'
-  relation: related
-  strength: 0.5696
-- slug: 2026-03-10-scrap-metal-barge-fire-burns-on-delaware-bay-no-injuries-reported
-  headline: Scrap metal barge fire burns on Delaware Bay; no injuries reported
-  publish_date: '2026-03-10'
-  relation: related
-  strength: 0.5563
+related_stories: []
 ---
-
 ## Proposal for larger private docks in Georgia marsh sparks debate
 
 **Subtype:** fact

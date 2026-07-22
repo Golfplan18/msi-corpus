@@ -2,8 +2,13 @@
 headline: Tesla R&D spending jumps 49%, driving profit below analyst forecasts
 secondary_headline: Revenue climbs 26% to $28.24 billion, beating Wall Street estimates
 publish_date: '2026-07-22'
-lede: Tesla reported Wednesday that its second-quarter net income slipped as a 49% surge in research and development spending cut into gains from sharply higher vehicle sales. The Austin, Texas-based company posted profit of $1.11 billion, or 32 cents per share, down from $1.17 billion, or 33 cents per share, a year earlier.
-nut_graf: Revenue rose 26% to $28.24 billion, exceeding analyst forecasts, but adjusted earnings of 33 cents per share fell well short of the 53 cents per share Wall Street expected, sending shares lower in after-hours trading.
+lede: Tesla reported Wednesday that its second-quarter net income slipped as a 49%
+  surge in research and development spending cut into gains from sharply higher vehicle
+  sales. The Austin, Texas-based company posted profit of $1.11 billion, or 32 cents
+  per share, down from $1.17 billion, or 33 cents per share, a year earlier.
+nut_graf: Revenue rose 26% to $28.24 billion, exceeding analyst forecasts, but adjusted
+  earnings of 33 cents per share fell well short of the 53 cents per share Wall Street
+  expected, sending shares lower in after-hours trading.
 primary_entities:
 - Tesla
 - Elon Musk
@@ -34,7 +39,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -112,96 +118,26 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-07-22-alphabet-reports-112-11-billion-q2-profit-revenue-tops-forecasts
+  headline: Alphabet reports $112.11 billion Q2 profit; revenue tops forecasts
+  publish_date: '2026-07-22'
+  relation: related
+  strength: 0.6667
 - slug: 2026-07-16-netflix-profit-rises-9-in-q2-but-shares-fall-on-weaker-forecast
   headline: Netflix profit rises 9% in Q2 but shares fall on weaker forecast
   publish_date: '2026-07-16'
   relation: related
   strength: 0.6991
-- slug: 2026-07-21-gm-raises-2026-outlook-for-second-time-on-strong-truck-and-suv-demand
-  headline: GM raises 2026 outlook for second time on strong truck and SUV demand
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6437
-- slug: 2026-07-22-nasdaq-slips-as-oil-yields-climb-ahead-of-tesla-alphabet-earnings
-  headline: Nasdaq slips as oil, yields climb ahead of Tesla, Alphabet earnings
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.6227
-- slug: 2026-07-21-halliburton-beats-revenue-estimates-profit-rises-13
-  headline: Halliburton beats revenue estimates, profit rises 13%
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6165
-- slug: 2026-07-16-tsmc-posts-fifth-straight-record-profit-on-surging-ai-demand
-  headline: TSMC posts fifth straight record profit on surging AI demand
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.6304
-- slug: 2026-07-13-oxford-nanopore-shares-slide-11-after-revenue-below-management-expectations
-  headline: Oxford Nanopore shares slide 11% after revenue below management expectations
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.6183
-- slug: 2026-06-23-tech-shares-tumble-as-ai-rally-doubts-grip-wall-street
-  headline: Tech shares tumble as AI rally doubts grip Wall Street
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.6179
-- slug: 2026-06-17-carmax-profit-falls-despite-higher-sales-results-beat-analyst-forecasts
-  headline: CarMax Profit Falls Despite Higher Sales; Results Beat Analyst Forecasts
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.6361
-- slug: 2026-06-02-shake-shack-cuts-q2-guidance-shares-fall-9-amid-uncertainty-and-competition
-  headline: Shake Shack cuts Q2 guidance, shares fall 9% amid uncertainty and competition
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.6209
 - slug: 2026-01-30-tesla-profit-falls-to-lowest-since-pandemic-eyes-robotaxis-and-optimus
   headline: Tesla profit falls to lowest since pandemic; eyes robotaxis and Optimus
   publish_date: '2026-01-30'
   relation: related
   strength: 0.7648
-- slug: 2026-05-22-spacex-reveals-plans-for-biggest-ever-public-stock-sale-by-musk
-  headline: SpaceX reveals plans for biggest-ever public stock sale by Musk
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6253
-- slug: 2026-05-20-spacex-plans-massive-public-share-sale-with-elon-musk-at-center
-  headline: SpaceX plans massive public share sale, with Elon Musk at center
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.629
-- slug: 2026-05-22-nvidia-s-q1-results-beat-wall-street-on-surging-ai-chip-demand
-  headline: Nvidia’s Q1 results beat Wall Street on surging AI chip demand
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6225
-- slug: 2026-05-21-spacex-reveals-plans-for-what-could-be-the-biggest-ever-public-stock-sale
-  headline: SpaceX reveals plans for what could be the biggest-ever public stock sale
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6177
-- slug: 2026-05-21-nvidia-q1-beats-wall-street-forecasts-as-ai-chip-demand-stays-strong
-  headline: Nvidia Q1 beats Wall Street forecasts as AI chip demand stays strong
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6169
 - slug: 2026-01-03-tesla-loses-top-ev-crown-to-byd-as-musk-tax-break-changes-weigh
   headline: Tesla loses top EV crown to BYD as Musk, tax break changes weigh
   publish_date: '2026-01-03'
   relation: related
   strength: 0.7389
-- slug: 2026-05-14-alibaba-ai-cloud-revenue-climbs-38-but-heavy-investment-drags-profit-to-loss
-  headline: Alibaba AI, cloud revenue climbs 38%, but heavy investment drags profit to loss
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6153
-- slug: 2026-04-28-astrazeneca-reports-first-quarter-profit-beats-analyst-estimates
-  headline: AstraZeneca reports first-quarter profit, beats analyst estimates
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.6271
 - slug: 2026-01-04-tesla-loses-ev-crown-to-china-s-byd-as-sales-drop-continues-into-2025
   headline: Tesla loses EV crown to China’s BYD as sales drop continues into 2025
   publish_date: '2026-01-04'
@@ -212,8 +148,12 @@ related_stories:
   publish_date: '2026-01-01'
   relation: related
   strength: 0.6857
+- slug: 2026-01-16-tesla-gets-five-week-extension-in-federal-full-self-driving-investigation
+  headline: Tesla gets five-week extension in federal full self-driving investigation
+  publish_date: '2026-01-16'
+  relation: related
+  strength: 0.669
 ---
-
 ## Tesla R&D spending jumps 49%, driving profit below analyst forecasts
 
 **Subtype:** fact
