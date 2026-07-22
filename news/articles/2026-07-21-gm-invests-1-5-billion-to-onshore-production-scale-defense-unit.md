@@ -204,6 +204,8 @@ image:
   disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
   ai_model: "openrouter:openai/gpt-5.4-image-2"
   ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+analyses:
+- '2026-07-21-gm-is-pulling-production-home-as-container-shipping-bets-on-a-trade-route-that-i'
 ---
 ## GM invests $1.5 billion to onshore production, scale defense unit
 
@@ -251,3 +253,8 @@ Finally, Morgan Stanley analysts said Qantas Airways’ embarkation on nonstop u
 **Publication date:** 2026-07-21
 **Title:** Auto & Transport Roundup: Market Talk
 **URL:** https://www.wsj.com/business/auto-transport-roundup-market-talk-5ce816fb
+
+---
+
+<!-- analysis-link:2026-07-21-gm-is-pulling-production-home-as-container-shipping-bets-on-a-trade-route-that-i -->
+**Going deeper:** [Read MSI's analysis of GM's onshoring and transport-sector oversupply tension →](/analyses/2026-07-21-gm-is-pulling-production-home-as-container-shipping-bets-on-a-trade-route-that-i)
