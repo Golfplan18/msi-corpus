@@ -1,9 +1,14 @@
 ---
 headline: Lee Jae Myung begins 11-day trip to US, South America
-secondary_headline: AI summit, critical minerals talks on South Korean president's agenda
+secondary_headline: AI summit, critical minerals talks on South Korean president's
+  agenda
 publish_date: '2026-07-22'
-lede: South Korean President Lee Jae Myung will depart Friday on an 11-day trip to the United States and three South American countries, with stops in San Francisco, Brazil, Chile, Argentina and Germany, the presidential office said Wednesday.
-nut_graf: The trip is expected to expand trade and investment between South Korea and the three South American countries while advancing Seoul's diplomatic reach in the region, National Security Adviser Wi Sung-lac said.
+lede: South Korean President Lee Jae Myung will depart Friday on an 11-day trip to
+  the United States and three South American countries, with stops in San Francisco,
+  Brazil, Chile, Argentina and Germany, the presidential office said Wednesday.
+nut_graf: The trip is expected to expand trade and investment between South Korea
+  and the three South American countries while advancing Seoul's diplomatic reach
+  in the region, National Security Adviser Wi Sung-lac said.
 primary_entities:
 - Lee Jae Myung
 - Wi Sung-lac
@@ -42,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -120,108 +126,29 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-07-20-south-korea-us-japan-top-diplomats-to-meet-in-manila-this-week
-  headline: South Korea, US, Japan top diplomats to meet in Manila this week
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.6332
-- slug: 2026-07-07-us-south-korea-japan-top-diplomats-to-meet-in-ankara-for-trilateral-talks
-  headline: US, South Korea, Japan top diplomats to meet in Ankara for trilateral talks
-  publish_date: '2026-07-07'
-  relation: related
-  strength: 0.5963
-- slug: 2026-06-29-south-korea-s-lee-proposes-korean-in-q-tel-raising-surveillance-concerns
-  headline: South Korea's Lee proposes Korean In-Q-Tel, raising surveillance concerns
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.5916
-- slug: 2026-06-18-trump-pledges-role-in-advancing-korean-peninsula-peace
-  headline: Trump pledges role in advancing Korean Peninsula peace
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.6172
 - slug: 2026-06-05-xi-jinping-to-visit-north-korea-next-week-in-first-trip-since-2019
   headline: Xi Jinping to visit North Korea next week in first trip since 2019
   publish_date: '2026-06-05'
   relation: related
-  strength: 0.6626
-- slug: 2026-06-08-xi-arrives-in-pyongyang-for-summit-with-kim-as-both-leaders-seek-to-strengthen-a
-  headline: Xi arrives in Pyongyang for summit with Kim as both leaders seek to strengthen alliance
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.6257
+  strength: 0.6628
 - slug: 2026-05-31-south-korea-s-lee-marks-first-year-in-office-with-approval-above-60
   headline: South Korea's Lee marks first year in office with approval above 60%
   publish_date: '2026-05-31'
   relation: related
-  strength: 0.6495
-- slug: 2026-06-13-us-japan-south-korea-hold-trilateral-talks-on-north-korea
-  headline: US, Japan, South Korea hold trilateral talks on North Korea
-  publish_date: '2026-06-13'
-  relation: related
-  strength: 0.6017
-- slug: 2026-06-09-south-korea-us-align-on-nuclear-powered-submarine-plan
-  headline: South Korea, US align on nuclear-powered submarine plan
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.5902
-- slug: 2026-06-04-nvidia-ceo-jensen-huang-to-visit-south-korea-for-ai-robotics-talks
-  headline: Nvidia CEO Jensen Huang to visit South Korea for AI, robotics talks
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.5926
+  strength: 0.65
 - slug: 2026-04-20-modi-and-south-korea-s-lee-pledge-to-nearly-double-bilateral-trade-by-2030
-  headline: Modi and South Korea’s Lee pledge to nearly double bilateral trade by 2030
+  headline: Modi and South Korea’s Lee pledge to nearly double bilateral trade by
+    2030
   publish_date: '2026-04-20'
   relation: related
-  strength: 0.6888
-- slug: 2026-06-02-us-south-korea-open-inaugural-security-talks-on-nuclear-submarines
-  headline: US, South Korea open inaugural security talks on nuclear submarines
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.5829
+  strength: 0.688
 - slug: 2026-04-19-modi-and-south-korea-s-lee-pledge-to-nearly-double-india-south-korea-trade-by-20
-  headline: Modi and South Korea’s Lee pledge to nearly double India-South Korea trade by 2030
+  headline: Modi and South Korea’s Lee pledge to nearly double India-South Korea trade
+    by 2030
   publish_date: '2026-04-19'
   relation: related
-  strength: 0.6757
-- slug: 2026-05-13-trump-and-xi-seek-to-stabilize-trade-ties-at-beijing-summit
-  headline: Trump and Xi seek to stabilize trade ties at Beijing summit
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6033
-- slug: 2026-05-13-trump-aims-to-stabilize-trade-in-beijing-summit-with-xi
-  headline: Trump aims to stabilize trade in Beijing summit with Xi
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.5902
-- slug: 2026-05-09-trump-heads-to-beijing-for-state-visit-as-iran-war-trade-tensions-loom
-  headline: Trump heads to Beijing for state visit as Iran war, trade tensions loom
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.5841
-- slug: 2026-04-04-macron-and-south-korea-s-lee-agree-plan-to-reopen-strait-of-hormuz
-  headline: Macron and South Korea’s Lee agree plan to reopen Strait of Hormuz
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.6114
-- slug: 2026-02-19-argentina-s-milei-heads-to-u-s-amid-trump-pushback-on-china-trade
-  headline: Argentina’s Milei heads to U.S. amid Trump pushback on China trade
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.6346
-- slug: 2026-03-13-us-treasury-chief-to-meet-china-s-vice-premier-in-paris-ahead-of-trump-xi
-  headline: US Treasury chief to meet China’s vice premier in Paris ahead of Trump-Xi
-  publish_date: '2026-03-13'
-  relation: related
-  strength: 0.6009
-- slug: 2026-03-10-kim-yo-jong-warns-us-south-korea-drills-could-bring-terrible-consequences
-  headline: Kim Yo Jong warns US-South Korea drills could bring “terrible consequences”
-  publish_date: '2026-03-10'
-  relation: related
-  strength: 0.6003
+  strength: 0.6746
 ---
-
 ## Lee Jae Myung begins 11-day trip to US, South America
 
 **Subtype:** fact

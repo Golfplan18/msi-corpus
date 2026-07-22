@@ -118,6 +118,8 @@ image:
   disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
   ai_model: "openrouter:openai/gpt-5.4-image-2"
   ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+analyses:
+- '2026-07-22-the-uk-s-june-inflation-figure-is-a-mirage-built-on-a-ceasefire-that-already-fai'
 ---
 ## UK inflation falls to 2.6% in June, lowest since March 2025
 
@@ -155,3 +157,8 @@ The slowdown in U.K. inflation mirrored a broader trend across developed economi
 **Publication date:** 2026-07-22
 **Title:** U.K. Inflation Falls to 15-Month Low
 **URL:** https://www.wsj.com/world/uk/u-k-inflation-falls-to-15-month-low-f4c30cec
+
+---
+
+<!-- analysis-link:2026-07-22-the-uk-s-june-inflation-figure-is-a-mirage-built-on-a-ceasefire-that-already-fai -->
+**Going deeper:** [Read MSI's analysis of UK's 2.6% June inflation figure →](/analyses/2026-07-22-the-uk-s-june-inflation-figure-is-a-mirage-built-on-a-ceasefire-that-already-fai)

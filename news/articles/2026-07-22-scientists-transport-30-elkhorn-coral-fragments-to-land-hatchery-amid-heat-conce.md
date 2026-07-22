@@ -1,9 +1,15 @@
 ---
-headline: Scientists transport 30 elkhorn coral fragments to land hatchery amid heat concerns
-secondary_headline: Elkhorn coral functionally extinct from Broward to Keys after 2023-2024 heat waves
+headline: Scientists transport 30 elkhorn coral fragments to land hatchery amid heat
+  concerns
+secondary_headline: Elkhorn coral functionally extinct from Broward to Keys after
+  2023-2024 heat waves
 publish_date: '2026-07-22'
-lede: Scientists transported 30 pieces of elkhorn coral from nurseries off the Florida coast to a land-based hatchery on Wednesday, fearing that warming waters could trigger a mass bleaching event this summer, according to a University of Miami marine biologist.
-nut_graf: The move came as elkhorn coral populations remain devastated by heat waves in 2023 and 2024 that left the species functionally extinct from Broward County to the Florida Keys, said Diego Lirman, associate professor of marine biology.
+lede: Scientists transported 30 pieces of elkhorn coral from nurseries off the Florida
+  coast to a land-based hatchery on Wednesday, fearing that warming waters could trigger
+  a mass bleaching event this summer, according to a University of Miami marine biologist.
+nut_graf: The move came as elkhorn coral populations remain devastated by heat waves
+  in 2023 and 2024 that left the species functionally extinct from Broward County
+  to the Florida Keys, said Diego Lirman, associate professor of marine biology.
 primary_entities:
 - Florida
 - Diego Lirman
@@ -32,7 +38,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -129,109 +136,8 @@ cross_article_links:
   strength: 0.591
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-07-01-scientists-fear-el-ni-o-will-worsen-california-seabird-die-off
-  headline: Scientists fear El Niño will worsen California seabird die-off
-  publish_date: '2026-07-01'
-  relation: related
-  strength: 0.6416
-- slug: 2026-07-09-legionnaires-outbreak-sickens-28-on-manhattan-s-upper-east-side
-  headline: Legionnaires' outbreak sickens 28 on Manhattan's Upper East Side
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.5648
-- slug: 2026-06-20-shark-encounters-rise-along-east-coast-as-populations-rebound
-  headline: Shark encounters rise along East Coast as populations rebound
-  publish_date: '2026-06-20'
-  relation: related
-  strength: 0.6423
-- slug: 2026-06-17-ocean-marine-heatwaves-more-than-triple-since-early-1990s-report-finds
-  headline: Ocean marine heatwaves more than triple since early 1990s, report finds
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.5747
-- slug: 2026-06-08-gray-whales-shift-into-san-francisco-bay-new-detection-system-warns-ships
-  headline: Gray whales shift into San Francisco Bay; new detection system warns ships
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.6016
-- slug: 2026-05-23-chemical-tank-heat-scare-prompts-evacuations-for-40-000-in-parts-of-orange-count
-  headline: Chemical tank heat scare prompts evacuations for 40,000 in parts of Orange County
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.5919
-- slug: 2026-05-25-officials-lift-evacuation-orders-for-some-residents-near-damaged-chemical-tank-i
-  headline: Officials lift evacuation orders for some residents near damaged chemical tank in Garden Grove
-  publish_date: '2026-05-25'
-  relation: related
-  strength: 0.5742
-- slug: 2026-05-23-evacuations-near-overheated-chemical-tank-extend-into-holiday-weekend
-  headline: Evacuations near overheated chemical tank extend into holiday weekend
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.5769
-- slug: 2026-05-22-40-000-under-evacuation-orders-after-chemical-tank-leak-in-garden-grove
-  headline: 40,000 under evacuation orders after chemical tank leak in Garden Grove
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.5787
-- slug: 2026-04-14-scientist-use-dna-in-efforts-to-help-species-adapt-to-climate-change
-  headline: Scientist use DNA in efforts to help species adapt to climate change
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.6469
-- slug: 2026-05-23-40-000-ordered-to-evacuate-in-southern-california-after-chemical-leak
-  headline: 40,000 ordered to evacuate in Southern California after chemical leak
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.5715
-- slug: 2026-05-23-california-launches-ai-whale-spotting-to-reduce-ship-strikes-amid-heat-wave
-  headline: California launches AI whale spotting to reduce ship strikes amid heat wave
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.5657
-- slug: 2026-05-22-california-turns-to-ai-to-reduce-whale-ship-collisions-as-deaths-rise
-  headline: California turns to AI to reduce whale-ship collisions as deaths rise
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.5672
-- slug: 2026-05-08-climate-change-threatens-tens-of-thousands-of-plant-species-studies-warn
-  headline: Climate change threatens tens of thousands of plant species, studies warn
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.5835
-- slug: 2026-05-14-elk-refuge-cwd-discovery-prompts-calls-to-reduce-jackson-herd
-  headline: Elk Refuge CWD discovery prompts calls to reduce Jackson herd
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.5668
-- slug: 2026-04-29-how-to-prevent-sunscreen-chemicals-from-hurting-coral-reefs
-  headline: How to prevent sunscreen chemicals from hurting coral reefs
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.5902
-- slug: 2026-04-29-two-colored-lobster-from-cape-cod-captivates-new-englanders
-  headline: Two-colored lobster from Cape Cod captivates New Englanders
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.5672
-- slug: 2026-04-27-disease-and-cold-killed-nearly-30-sloths-at-a-florida-import-warehouse
-  headline: Disease and cold killed nearly 30 sloths at a Florida import warehouse
-  publish_date: '2026-04-27'
-  relation: related
-  strength: 0.5703
-- slug: 2026-04-14-ocean-heat-waves-supercharge-hurricanes-study-finds
-  headline: Ocean heat waves “supercharge” hurricanes, study finds
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.5858
-- slug: 2026-01-16-ocean-acidification-could-weaken-sharks-teeth-study-finds
-  headline: Ocean acidification could weaken sharks' teeth, study finds
-  publish_date: '2026-01-16'
-  relation: related
-  strength: 0.6108
+related_stories: []
 ---
-
 ## Scientists transport 30 elkhorn coral fragments to land hatchery amid heat concerns
 
 **Subtype:** fact

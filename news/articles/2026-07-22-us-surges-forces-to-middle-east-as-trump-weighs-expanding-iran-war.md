@@ -2,8 +2,16 @@
 headline: US surges forces to Middle East as Trump weighs expanding Iran war
 secondary_headline: Pentagon preps for major combat despite war cost surpassing $37B
 publish_date: '2026-07-22'
-lede: The United States is surging special-operations forces, jet fighters and medical personnel to the Middle East to give President Donald Trump more military options as he considers expanding the conflict against Iran, according to people familiar with the matter. The buildup comes after three U.S. soldiers were killed in an Iranian attack in Jordan over the weekend and as the war's cost has surpassed $37 billion.
-nut_graf: The deployment of additional forces, including more than 150 medics sent to a German hospital that treats combat-injured troops, signals preparations for a potential expansion of operations in the fifth month of a conflict that has killed 18 American servicemembers and drawn bipartisan concern in Congress about the administration's endgame.
+lede: The United States is surging special-operations forces, jet fighters and medical
+  personnel to the Middle East to give President Donald Trump more military options
+  as he considers expanding the conflict against Iran, according to people familiar
+  with the matter. The buildup comes after three U.S. soldiers were killed in an Iranian
+  attack in Jordan over the weekend and as the war's cost has surpassed $37 billion.
+nut_graf: The deployment of additional forces, including more than 150 medics sent
+  to a German hospital that treats combat-injured troops, signals preparations for
+  a potential expansion of operations in the fifth month of a conflict that has killed
+  18 American servicemembers and drawn bipartisan concern in Congress about the administration's
+  endgame.
 primary_entities:
 - Donald Trump
 - Iran
@@ -36,7 +44,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -134,6 +143,12 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-07-22-pentagon-sends-additional-forces-and-medics-to-middle-east-amid-iran-war-deliber
+  headline: Pentagon sends additional forces and medics to Middle East amid Iran war
+    deliberations
+  publish_date: '2026-07-22'
+  relation: related
+  strength: 0.8859
 - slug: 2026-07-22-us-iran-war-cost-reaches-37-5-billion-as-conflict-enters-fifth-month
   headline: US-Iran war cost reaches $37.5 billion as conflict enters fifth month
   publish_date: '2026-07-22'
@@ -143,99 +158,44 @@ related_stories:
   headline: Democrats press Trump to end Iran war after three U.S. troops killed
   publish_date: '2026-07-21'
   relation: related
-  strength: 0.7409
+  strength: 0.7411
 - slug: 2026-07-21-hegseth-faces-senate-over-95b-iran-war-budget-as-u-s-death-toll-hits-17
-  headline: Hegseth faces Senate over $95B Iran war budget as U.S. death toll hits 17
+  headline: Hegseth faces Senate over $95B Iran war budget as U.S. death toll hits
+    17
   publish_date: '2026-07-21'
   relation: related
-  strength: 0.721
+  strength: 0.7206
 - slug: 2026-06-30-trump-weighs-all-out-iran-war-options-opts-to-stick-with-talks
   headline: Trump weighs all-out Iran war options, opts to stick with talks
   publish_date: '2026-06-30'
   relation: related
-  strength: 0.7246
+  strength: 0.725
 - slug: 2026-04-01-more-u-s-troops-head-to-the-middle-east-as-trump-seeks-iran-talks
   headline: More U.S. troops head to the Middle East as Trump seeks Iran talks
   publish_date: '2026-04-01'
   relation: related
-  strength: 0.7954
+  strength: 0.7948
 - slug: 2026-03-24-us-prepares-to-send-at-least-1-000-82nd-airborne-troops-to-middle-east
   headline: US prepares to send at least 1,000 82nd Airborne troops to Middle East
   publish_date: '2026-03-24'
   relation: related
-  strength: 0.7907
+  strength: 0.7905
 - slug: 2026-01-23-pentagon-builds-largest-middle-east-force-in-decades-as-trump-threatens-iran
-  headline: Pentagon builds largest Middle East force in decades as Trump threatens Iran
+  headline: Pentagon builds largest Middle East force in decades as Trump threatens
+    Iran
   publish_date: '2026-01-23'
   relation: related
-  strength: 0.8184
-- slug: 2026-02-27-us-military-assembles-biggest-middle-east-force-in-decades-experts-warn
-  headline: US military assembles biggest Middle East force in decades, experts warn
-  publish_date: '2026-02-27'
-  relation: related
-  strength: 0.7931
-- slug: 2026-03-21-trump-hints-at-wind-down-as-us-sends-more-marines-to-middle-east
-  headline: Trump hints at wind-down as US sends more Marines to Middle East
-  publish_date: '2026-03-21'
-  relation: related
-  strength: 0.7728
-- slug: 2026-03-25-us-prepares-to-deploy-at-least-1-000-82nd-airborne-troops-to-mideast
-  headline: US prepares to deploy at least 1,000 82nd Airborne troops to Mideast
-  publish_date: '2026-03-25'
-  relation: related
-  strength: 0.7662
-- slug: 2026-02-25-u-s-builds-largest-middle-east-force-in-decades-as-trump-warns-iran
-  headline: U.S. builds largest Middle East force in decades as Trump warns Iran
-  publish_date: '2026-02-25'
-  relation: related
-  strength: 0.7806
-- slug: 2026-03-22-trump-issues-mixed-messages-on-iran-war-and-oil-sanctions
-  headline: Trump issues mixed messages on Iran war and oil sanctions
-  publish_date: '2026-03-22'
-  relation: related
-  strength: 0.7518
-- slug: 2026-02-26-trump-warns-of-possible-iran-action-as-pentagon-builds-middle-east-force
-  headline: Trump warns of possible Iran action as Pentagon builds Middle East force
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.7703
-- slug: 2026-02-24-us-military-buildup-shadows-iran-s-last-chance-nuclear-talks
-  headline: US military buildup shadows Iran's last-chance nuclear talks
-  publish_date: '2026-02-24'
-  relation: related
-  strength: 0.7637
-- slug: 2026-04-04-midterm-elections-loom-as-gop-grapples-with-trump-s-wartime-presidency
-  headline: Midterm elections loom as GOP grapples with Trump's wartime presidency
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.7194
-- slug: 2026-03-02-trump-takes-u-s-into-war-with-iran-despite-america-first-pledges
-  headline: Trump takes U.S. into war with Iran despite America First pledges
-  publish_date: '2026-03-02'
-  relation: related
-  strength: 0.7465
-- slug: 2026-03-29-us-says-over-300-service-members-wounded-in-iran-war-after-saudi-base-strike
-  headline: US says over 300 service members wounded in Iran war after Saudi base strike
-  publish_date: '2026-03-29'
-  relation: related
-  strength: 0.7225
-- slug: 2026-03-20-pentagon-seeks-200b-in-extra-funds-for-iran-war-as-congress-weighs
-  headline: Pentagon seeks $200B in extra funds for Iran war as Congress weighs
-  publish_date: '2026-03-20'
-  relation: related
-  strength: 0.7214
-- slug: 2026-03-05-iran-spreads-missile-and-drone-fire-across-gulf-to-pressure-u-s-into-diplomatic-
-  headline: Iran spreads missile and drone fire across Gulf to pressure U.S. into diplomatic off-ramp
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.7301
-- slug: 2026-03-01-what-to-know-about-the-latest-us-israeli-attacks-on-iran
-  headline: What to know about the latest US-Israeli attacks on Iran
-  publish_date: '2026-03-01'
-  relation: related
-  strength: 0.7324
+  strength: 0.8182
+image:
+  url: /articles/2026-07-22-us-surges-forces-to-middle-east-as-trump-weighs-expanding-iran-war.png
+  alt: "Illustration accompanying article: US surges forces to Middle East as Trump weighs expanding Iran war"
+  credit: Main Street Independent (algorithmic)
+  source: ai_generated
+  license: "https://creativecommons.org/publicdomain/zero/1.0/"
+  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  ai_model: "openrouter:openai/gpt-5.4-image-2"
+  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
 ---
-
 ## US surges forces to Middle East as Trump weighs expanding Iran war
 
 **Subtype:** fact

@@ -1,9 +1,18 @@
 ---
-headline: UCLA study finds ICE raids caused immediate economic shock for LA Latino businesses
-secondary_headline: 95% of Latino entrepreneurs still report financial stress a year after LA raids
+headline: UCLA study finds ICE raids caused immediate economic shock for LA Latino
+  businesses
+secondary_headline: 95% of Latino entrepreneurs still report financial stress a year
+  after LA raids
 publish_date: '2026-07-22'
-lede: Latino-owned businesses in Los Angeles County suffered an 'immediate economic shock' from the June 2025 surge in federal immigration raids that persisted a year later, according to a study released Wednesday by UCLA’s Latino Policy and Politics Institute and the nonprofit Inclusive Action for the City.
-nut_graf: 'The report, titled ''The Cost of Fear: the Impacts of Immigration Enforcement on Small Businesses and Latino Entrepreneurs in LA County,'' relied on focus groups, entrepreneur surveys, and foot-traffic data to estimate the economic damage across nine commercial corridors. Researchers found that the raids created a ''chilling effect'' that drove customers away from Latino and immigrant-serving business districts.'
+lede: Latino-owned businesses in Los Angeles County suffered an 'immediate economic
+  shock' from the June 2025 surge in federal immigration raids that persisted a year
+  later, according to a study released Wednesday by UCLA’s Latino Policy and Politics
+  Institute and the nonprofit Inclusive Action for the City.
+nut_graf: 'The report, titled ''The Cost of Fear: the Impacts of Immigration Enforcement
+  on Small Businesses and Latino Entrepreneurs in LA County,'' relied on focus groups,
+  entrepreneur surveys, and foot-traffic data to estimate the economic damage across
+  nine commercial corridors. Researchers found that the raids created a ''chilling
+  effect'' that drove customers away from Latino and immigrant-serving business districts.'
 primary_entities:
 - Los Angeles
 - UCLA Latino Policy and Politics Institute
@@ -36,7 +45,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -114,68 +124,14 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-07-06-santa-monica-declares-fiscal-distress-amid-230m-in-settlements-falling-tourism
-  headline: Santa Monica declares fiscal distress amid $230M in settlements, falling tourism
-  publish_date: '2026-07-06'
-  relation: related
-  strength: 0.6263
 - slug: 2026-06-14-one-year-after-la-ice-raids-a-city-carries-scars-and-reaches-for-resilience
   headline: One year after LA ICE raids, a city carries scars and reaches for resilience
   publish_date: '2026-06-14'
   relation: related
-  strength: 0.7084
-- slug: 2026-06-20-93-of-ice-street-arrests-in-ny-nj-targeted-latinos-investigation-finds
-  headline: 93% of ICE street arrests in NY-NJ targeted Latinos, investigation finds
-  publish_date: '2026-06-20'
-  relation: related
-  strength: 0.6501
-- slug: 2026-06-24-record-profits-terrible-service-leave-us-consumers-with-few-options
-  headline: Record profits, terrible service leave US consumers with few options
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.6189
-- slug: 2026-06-26-retailers-rush-holiday-imports-early-to-avoid-looming-costs
-  headline: Retailers rush holiday imports early to avoid looming costs
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6051
-- slug: 2026-06-24-us-investment-in-latin-america-fell-11-in-2025-eclac-says
-  headline: US investment in Latin America fell 11% in 2025, ECLAC says
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.6045
-- slug: 2026-06-04-consumer-rage-rises-as-americans-face-corporate-frustrations-survey-finds
-  headline: Consumer rage rises as Americans face corporate frustrations, survey finds
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.6467
-- slug: 2026-05-26-ap-investigation-finds-spike-in-ice-detainee-suicides-since-jan-2025
-  headline: Spike in ICE detainee suicides since Jan. 2025
-  publish_date: '2026-05-26'
-  relation: related
-  strength: 0.6251
-- slug: 2026-05-22-trump-s-latino-vote-gains-face-test-as-ice-raids-and-costs-bite
-  headline: Trump’s Latino vote gains face test as ICE raids and costs bite
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6312
-- slug: 2026-05-21-trump-s-2024-latino-gains-face-midterm-test-as-ice-raids-and-costs-strain-househ
-  headline: Trump's 2024 Latino gains face midterm test as ICE raids and costs strain households
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6091
-- slug: 2026-05-10-tucson-advocates-map-ice-enforcement-activity-as-arrests-surge
-  headline: Tucson advocates map ICE enforcement activity as arrests surge
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6058
-- slug: 2026-04-30-how-tariffs-and-war-are-hurting-california-small-businesses
-  headline: How tariffs and war are hurting California small businesses
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.607
+  strength: 0.7079
 - slug: 2026-01-26-businesses-face-immigration-enforcement-pressure-while-becoming-enforcement-targ
-  headline: Businesses face immigration enforcement pressure while becoming enforcement targets
+  headline: Businesses face immigration enforcement pressure while becoming enforcement
+    targets
   publish_date: '2026-01-26'
   relation: related
   strength: 0.6767
@@ -184,38 +140,7 @@ related_stories:
   publish_date: '2026-01-22'
   relation: related
   strength: 0.6697
-- slug: 2026-04-16-ap-investigation-highlights-issues-in-backgrounds-of-some-new-ice-hires
-  headline: Issues in backgrounds of some new ICE hires
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.5993
-- slug: 2026-03-07-minneapolis-businesses-still-reeling-from-immigration-surge-as-noem-s-firing-bri
-  headline: Minneapolis businesses still reeling from immigration surge as Noem's firing brings little relief
-  publish_date: '2026-03-07'
-  relation: related
-  strength: 0.636
-- slug: 2026-01-18-ice-enforcement-empties-minneapolis-somali-businesses-as-fear-spreads
-  headline: ICE enforcement empties Minneapolis Somali businesses as fear spreads
-  publish_date: '2026-01-18'
-  relation: related
-  strength: 0.6254
-- slug: 2026-02-10-ap-review-finds-misconduct-charges-against-ice-employees-and-contractors
-  headline: Misconduct charges against ICE employees and contractors
-  publish_date: '2026-02-10'
-  relation: related
-  strength: 0.6103
-- slug: 2026-01-20-minnesota-doctors-describe-healthcare-chaos-in-trump-crackdown
-  headline: Minnesota doctors describe healthcare chaos in Trump crackdown
-  publish_date: '2026-01-20'
-  relation: related
-  strength: 0.6175
-- slug: 2026-01-07-uc-grad-workers-seek-750-000-legal-fund-for-international-employees-amid-visa-un
-  headline: UC grad workers seek $750,000 legal fund for international employees amid visa uncertainty
-  publish_date: '2026-01-07'
-  relation: related
-  strength: 0.6198
 ---
-
 ## UCLA study finds ICE raids caused immediate economic shock for LA Latino businesses
 
 **Subtype:** fact
