@@ -2,8 +2,15 @@
 headline: R. James Woolsey, CIA director under Clinton, dies at 84
 secondary_headline: Woolsey fought budget cuts and the Aldrich Ames spy case
 publish_date: '2026-07-22'
-lede: R. James Woolsey Jr., who led the Central Intelligence Agency during the first two years of the Clinton administration, a period marked by congressional budget cuts to the intelligence community and the arrest of senior CIA officer Aldrich Ames for selling secrets to Moscow, died Tuesday at his home in Washington, D.C. He was 84.
-nut_graf: Woolsey's tenure as CIA director, from 1993 to 1995, was defined by the agency's struggle to adapt after the Cold War, the internal turmoil of the Ames espionage case, and his limited relationship with the White House. He told the Washington Post he could recall only two face-to-face meetings with President Bill Clinton.
+lede: R. James Woolsey Jr., who led the Central Intelligence Agency during the first
+  two years of the Clinton administration, a period marked by congressional budget
+  cuts to the intelligence community and the arrest of senior CIA officer Aldrich
+  Ames for selling secrets to Moscow, died Tuesday at his home in Washington, D.C.
+  He was 84.
+nut_graf: Woolsey's tenure as CIA director, from 1993 to 1995, was defined by the
+  agency's struggle to adapt after the Cold War, the internal turmoil of the Ames
+  espionage case, and his limited relationship with the White House. He told the Washington
+  Post he could recall only two face-to-face meetings with President Bill Clinton.
 primary_entities:
 - R. James Woolsey
 - Central Intelligence Agency
@@ -36,7 +43,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -86,108 +94,13 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-07-15-former-fed-adviser-receives-38-month-prison-sentence-for-false-statements-about-
-  headline: Former Fed adviser receives 38-month prison sentence for false statements about China contacts
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.5644
-- slug: 2026-07-13-lindsey-graham-dealmaking-senator-from-south-carolina-dies-at-71
-  headline: Lindsey Graham, dealmaking senator from South Carolina, dies at 71
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.5667
-- slug: 2026-07-14-conspiracy-theories-flourish-after-graham-s-death-and-mcconnell-s-absence
-  headline: Conspiracy theories flourish after Graham’s death and McConnell’s absence
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.543
-- slug: 2026-07-12-senator-lindsey-graham-dies-after-sudden-illness-at-71
-  headline: Senator Lindsey Graham dies after sudden illness at 71
-  publish_date: '2026-07-12'
-  relation: related
-  strength: 0.5432
-- slug: 2026-07-02-clive-davis-alan-greenspan-among-influential-figures-who-died-in-june-2026
-  headline: Clive Davis, Alan Greenspan among influential figures who died in June 2026
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.552
-- slug: 2026-06-30-wsj-china-correspondent-traces-her-journey-from-beijing-to-expulsion
-  headline: WSJ China correspondent traces her journey from Beijing to expulsion
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.5572
-- slug: 2026-06-24-cuba-s-ominous-and-feared-spy-chief-ramiro-vald-s-dies-at-94
-  headline: Cuba's 'ominous and feared' spy chief Ramiro Valdés dies at 94
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.558
-- slug: 2026-06-04-fox-kennedy-says-she-quit-white-house-over-cia-spending-oversight
-  headline: Fox Kennedy says she quit White House over CIA spending oversight
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.6252
-- slug: 2026-06-16-cia-official-allegedly-created-fake-spy-program-to-steal-40-million-in-gold
-  headline: CIA official allegedly created fake spy program to steal $40 million in gold
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.5614
-- slug: 2026-06-04-ex-cia-official-arrested-with-over-300-gold-bars-budget-official-quits-over-spen
-  headline: Ex-CIA official arrested with over 300 gold bars; budget official quits over spending oversight
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.5969
-- slug: 2026-06-03-former-mi6-chief-sir-alex-younger-dies-at-62
-  headline: Former MI6 chief Sir Alex Younger dies at 62
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.5984
 - slug: 2026-01-07-aldrich-ames-cia-officer-who-sold-secrets-to-soviet-union-dies-in-prison-at-84
-  headline: Aldrich Ames, CIA officer who sold secrets to Soviet Union, dies in prison at 84
+  headline: Aldrich Ames, CIA officer who sold secrets to Soviet Union, dies in prison
+    at 84
   publish_date: '2026-01-07'
   relation: related
-  strength: 0.7165
-- slug: 2026-05-26-clarence-b-jones-speechwriter-and-attorney-for-mlk-dies-at-95
-  headline: Clarence B. Jones, speechwriter and attorney for MLK, dies at 95
-  publish_date: '2026-05-26'
-  relation: related
-  strength: 0.5593
-- slug: 2026-05-05-beijing-hunts-exiled-official-overseas-using-u-s-surveillance-tech-ap-finds
-  headline: Beijing hunts exiled official overseas using U.S. surveillance tech, AP finds
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.54
-- slug: 2026-03-22-ex-fbi-chief-robert-mueller-who-probed-russia-trump-campaign-ties-dies
-  headline: Ex-FBI chief Robert Mueller, who probed Russia-Trump campaign ties, dies
-  publish_date: '2026-03-22'
-  relation: related
-  strength: 0.5968
-- slug: 2026-04-27-how-security-has-changed-at-washington-hilton-since-reagan-s-shooting
-  headline: How security has changed at Washington Hilton since Reagan's shooting
-  publish_date: '2026-04-27'
-  relation: related
-  strength: 0.5452
-- slug: 2026-04-17-ice-acting-director-todd-lyons-to-resign-at-end-of-may
-  headline: ICE acting director Todd Lyons to resign at end of May
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.549
-- slug: 2026-03-10-alexander-butterfield-nixon-aide-who-disclosed-watergate-tapes-dies-at-99
-  headline: Alexander Butterfield, Nixon aide who disclosed Watergate tapes, dies at 99
-  publish_date: '2026-03-10'
-  relation: related
-  strength: 0.5576
-- slug: 2026-02-05-cia-shutters-world-factbook-reference-tool-after-more-than-60-years
-  headline: CIA shutters World Factbook reference tool after more than 60 years
-  publish_date: '2026-02-05'
-  relation: related
-  strength: 0.5627
-- slug: 2026-03-01-muere-el-l-der-supremo-de-ir-n-al-jamenei-tras-ataque-de-eeuu-e-israel
-  headline: Muere el líder supremo de Irán, Alí Jamenei, tras ataque de EEUU e Israel
-  publish_date: '2026-03-01'
-  relation: related
-  strength: 0.5491
+  strength: 0.7154
 ---
-
 ## R. James Woolsey, CIA director under Clinton, dies at 84
 
 **Subtype:** fact

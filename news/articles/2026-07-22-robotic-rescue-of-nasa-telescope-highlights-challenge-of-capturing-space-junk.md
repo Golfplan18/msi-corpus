@@ -1,9 +1,19 @@
 ---
-headline: Robotic rescue of NASA telescope highlights challenge of capturing space junk
-secondary_headline: Growing debris population drives push for satellites built for service
+headline: Robotic rescue of NASA telescope highlights challenge of capturing space
+  junk
+secondary_headline: Growing debris population drives push for satellites built for
+  service
 publish_date: '2026-07-22'
-lede: A commercial robotic spacecraft launched July 3 on an emergency mission to rescue NASA's aging Neil Gehrels Swift Observatory, which has been slowly falling toward Earth. The mission, led by Katalyst Space Technologies' spacecraft LINK, aims to grasp the unprepared telescope and lift it to a safer orbit — a task that illustrates the technical challenge of capturing objects never designed to be caught.
-nut_graf: The mission comes as the European Space Agency estimates more than 1.2 million pieces of satellite and spacecraft debris larger than half an inch are in orbit. With launch costs falling and satellite constellations growing, the ability to capture and move defunct spacecraft is increasingly critical to preventing collisions that could generate more debris.
+lede: A commercial robotic spacecraft launched July 3 on an emergency mission to rescue
+  NASA's aging Neil Gehrels Swift Observatory, which has been slowly falling toward
+  Earth. The mission, led by Katalyst Space Technologies' spacecraft LINK, aims to
+  grasp the unprepared telescope and lift it to a safer orbit — a task that illustrates
+  the technical challenge of capturing objects never designed to be caught.
+nut_graf: The mission comes as the European Space Agency estimates more than 1.2 million
+  pieces of satellite and spacecraft debris larger than half an inch are in orbit.
+  With launch costs falling and satellite constellations growing, the ability to capture
+  and move defunct spacecraft is increasingly critical to preventing collisions that
+  could generate more debris.
 primary_entities:
 - Katalyst Space Technologies
 - NASA
@@ -36,7 +46,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -66,104 +77,8 @@ related_stories:
   headline: SpaceX launches Northrop robotic mission to repair aging satellites
   publish_date: '2026-07-21'
   relation: related
-  strength: 0.7143
-- slug: 2026-07-16-spacex-is-set-to-launch-13th-starship-test-flight-with-starlink-satellites
-  headline: SpaceX is set to launch 13th Starship test flight with Starlink satellites
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.6042
-- slug: 2026-07-02-expedition-to-survey-shackleton-scott-shipwrecks-launches
-  headline: Expedition to survey Shackleton, Scott shipwrecks launches
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.5915
-- slug: 2026-06-09-nasa-names-artemis-iii-crew-for-orbital-test-after-moon-landing-delay
-  headline: NASA names Artemis III crew for orbital test after moon landing delay
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.5992
-- slug: 2026-05-22-spacex-launches-biggest-starship-yet-on-a-test-flight
-  headline: SpaceX launches biggest Starship yet on a test flight
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6185
-- slug: 2026-05-23-spacex-launches-biggest-upgraded-starship-on-test-flight-to-moon-plans
-  headline: SpaceX launches biggest, upgraded Starship on test flight to moon plans
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6045
-- slug: 2026-05-17-artemis-ii-astronauts-give-high-marks-to-moonship-heat-shield
-  headline: Artemis II astronauts give high marks to moonship heat shield
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.5889
-- slug: 2026-04-10-artemis-ii-astronauts-prepare-to-return-to-earth
-  headline: Artemis II astronauts prepare to return to Earth
-  publish_date: '2026-04-10'
-  relation: related
-  strength: 0.6047
-- slug: 2026-04-02-artemis-ii-despega-hacia-la-luna-con-cuatro-astronautas-en-misi-n-de-10-d-as
-  headline: Artemis II despega hacia la Luna con cuatro astronautas en misión de 10 días
-  publish_date: '2026-04-02'
-  relation: related
-  strength: 0.6019
-- slug: 2026-04-13-artemis-ii-s-lunar-comeback-points-to-artemis-iii-and-a-new-crew-race
-  headline: Artemis II’s lunar comeback points to Artemis III and a new crew race
-  publish_date: '2026-04-13'
-  relation: related
-  strength: 0.5863
-- slug: 2026-04-06-artemis-ii-toilet-malfunctions-again-as-crew-heads-for-lunar-fly-around
-  headline: Artemis II toilet malfunctions again as crew heads for lunar fly-around
-  publish_date: '2026-04-06'
-  relation: related
-  strength: 0.5915
-- slug: 2026-03-22-new-photos-released-of-neil-armstrong-after-gemini-8-emergency
-  headline: New photos released of Neil Armstrong after Gemini 8 emergency
-  publish_date: '2026-03-22'
-  relation: related
-  strength: 0.6047
-- slug: 2026-03-21-nasa-hauls-repaired-artemis-moon-rocket-back-toward-launch-pad-in-april
-  headline: NASA hauls repaired Artemis moon rocket back toward launch pad in April
-  publish_date: '2026-03-21'
-  relation: related
-  strength: 0.6047
-- slug: 2026-02-22-artemis-ii-rocket-returns-to-hangar-for-repairs-pushing-moon-mission-to-april
-  headline: Artemis II rocket returns to hangar for repairs, pushing moon mission to April
-  publish_date: '2026-02-22'
-  relation: related
-  strength: 0.6215
-- slug: 2026-04-01-nasa-starts-countdown-for-artemis-ii-moon-mission-with-4-astronauts
-  headline: NASA starts countdown for Artemis II moon mission with 4 astronauts
-  publish_date: '2026-04-01'
-  relation: related
-  strength: 0.587
-- slug: 2026-01-21-astronauts-credit-ultrasound-as-critical-in-space-station-medical-crisis
-  headline: Astronauts credit ultrasound as critical in space station medical crisis
-  publish_date: '2026-01-21'
-  relation: related
-  strength: 0.632
-- slug: 2026-01-22-seismic-networks-help-track-falling-space-debris
-  headline: Seismic networks help track falling space debris
-  publish_date: '2026-01-22'
-  relation: related
-  strength: 0.6316
-- slug: 2026-03-15-nasa-clears-artemis-moon-rocket-for-april-launch-with-four-astronauts
-  headline: NASA clears Artemis moon rocket for April launch with four astronauts
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.5947
-- slug: 2026-02-25-nasa-rolls-artemis-ii-moon-rocket-back-for-more-repairs-targeting-april
-  headline: NASA rolls Artemis II moon rocket back for more repairs, targeting April
-  publish_date: '2026-02-25'
-  relation: related
-  strength: 0.6056
-- slug: 2026-02-16-nasa-spacex-launch-crew-12-replacements-after-first-medical-evacuation
-  headline: NASA, SpaceX launch Crew-12 replacements after first medical evacuation
-  publish_date: '2026-02-16'
-  relation: related
-  strength: 0.6057
+  strength: 0.7141
 ---
-
 ## Robotic rescue of NASA telescope highlights challenge of capturing space junk
 
 **Subtype:** fact
