@@ -22,7 +22,8 @@ primary_themes:
 - Prosecution
 topic_tags:
 - politics
-storyline_nexus: []
+storyline_nexus:
+- trump-judicial-challenges
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
