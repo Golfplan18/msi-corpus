@@ -84,6 +84,8 @@ related_stories:
   publish_date: '2026-05-02'
   relation: related
   strength: 0.6713
+analyses:
+- '2026-07-21-healthy-diet-cost-up-25-the-real-story-is-structural-vulnerability-not-just-pric'
 ---
 ## UN report finds healthy diet cost up 25% since 2021
 
@@ -124,3 +126,8 @@ The U.N. cautioned that the decline in the proportion of people unable to afford
 **Publication date:** 2026-07-21
 **Title:** U.N. report charts rising cost of a healthy diet for billions of poor
 **URL:** https://www.upi.com/Top_News/World-News/2026/07/21/Switzerland-UN-report-healthy-diet-cost-hike/4471784630485/
+
+---
+
+<!-- analysis-link:2026-07-21-healthy-diet-cost-up-25-the-real-story-is-structural-vulnerability-not-just-pric -->
+**Going deeper:** [Read MSI's analysis of A logistics and aid architecture crisis disguised as a food price story →](/analyses/2026-07-21-healthy-diet-cost-up-25-the-real-story-is-structural-vulnerability-not-just-pric)
