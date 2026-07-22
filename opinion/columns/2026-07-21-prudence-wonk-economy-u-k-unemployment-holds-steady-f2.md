@@ -1,7 +1,8 @@
 ---
 headline: The Bank of England Does Not Need a War to Do Its Job
 publish_date: '2026-07-21'
-lede: The Bank of England has an alibi for inaction — two of them, actually — and it is using both.
+lede: The Bank of England has an alibi for inaction — two of them, actually — and
+  it is using both.
 pen_name: prudence-wonk
 primary_entities: []
 primary_themes: []
@@ -15,7 +16,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 0
@@ -28,9 +30,20 @@ figures_aggregate:
   series_ids: []
   sources: []
 image:
-  url: /articles/2026-07-21-uk-unemployment-holds-at-4-9-as-wage-growth-steadies.png
-  alt: 'Illustration accompanying article: UK unemployment holds at 4.9% as wage growth steadies'
+  url: /cartoons/the-bank-of-england-does-not-need-a-war-to-do-its-job.png
+  alt: 'Editorial cartoon by Hector Rentier: The Bank of England Does Not Need a War
+    to Do Its Job'
+  caption: The alibis were ready before the data was.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
   source: ai_generated
+  attached_at: '2026-07-21T22:12:14-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: 'Grouped allegorical scene, 1:1, heavy cross-hatch wood-engraving in
+    the Nast/Daumier/Tenniel/Herblock tradition. Central figure: Andrew Bailey, Governor
+    of the Bank of England — a round-faced, gray-ha'
+  license: https://creativecommons.org/publicdomain/zero/1.0/
 cross_article_links:
 - slug: 2026-07-21-uk-unemployment-holds-at-4-9-as-wage-growth-steadies
   relation: extends
@@ -38,7 +51,13 @@ cross_article_links:
   confidence: high
 draft: false
 backlog_release: true
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-07-21-hector-paired-with-2026-07-21-prudence-wonk-economy-u-k-unemployment-holds-steady-f2
 ---
+
+![Editorial cartoon by Hector Rentier: The Bank of England Does Not Need a War to Do Its Job](/cartoons/the-bank-of-england-does-not-need-a-war-to-do-its-job.png)
+*The alibis were ready before the data was.*
 
 The Bank of England has an alibi for inaction — two of them, actually — and it is using both.
 

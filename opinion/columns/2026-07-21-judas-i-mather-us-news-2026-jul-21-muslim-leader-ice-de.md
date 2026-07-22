@@ -1,7 +1,8 @@
 ---
 headline: The Guest Whose Welcome Was Withdrawn
 publish_date: '2026-07-21'
-lede: The sovereign has the authority to determine who remains within its borders and on what terms.
+lede: The sovereign has the authority to determine who remains within its borders
+  and on what terms.
 pen_name: judas-i-mather
 primary_entities:
 - Salah Sarsour
@@ -38,7 +39,8 @@ gdelt_event_ids: []
 consensus_floor_version: current
 publication_mindspec_version: judas-i-mather-2026-07
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -59,7 +61,28 @@ cross_article_links:
   strength: 0.4385
   confidence: high
 draft: false
+image:
+  url: /cartoons/the-guest-whose-welcome-was-withdrawn.png
+  alt: 'Editorial cartoon by Hector Rentier: The Guest Whose Welcome Was Withdrawn'
+  caption: He wrote the order in Scripture's hand. The man in the cell never got his
+    lancet.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-07-21T22:06:10-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: Single central figure, 1:1 aspect, heavy cross-hatch wood engraving in
+    the Nast polemic tradition. A sovereign authority — an unnamed archetype in priestly
+    or judicial vestments — stands at a raised p
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-07-21-hector-paired-with-2026-07-21-judas-i-mather-us-news-2026-jul-21-muslim-leader-ice-de
 ---
+
+![Editorial cartoon by Hector Rentier: The Guest Whose Welcome Was Withdrawn](/cartoons/the-guest-whose-welcome-was-withdrawn.png)
+*He wrote the order in Scripture's hand. The man in the cell never got his lancet.*
 
 The sovereign has the authority to determine who remains within its borders and on what terms. This authority is not a secondary question of administrative convenience; it is the primary attribute of nationhood recognized by the law of nations since before the republic was founded. *Chae Chan Ping v. United States* (1889) declared that the power to exclude or expel aliens is "an incident of sovereignty belonging to the government of the United States, as a part of those sovereign powers delegated by the Constitution." The Trump administration's exercise of that authority against Salah Sarsour rests on a reasonable determination by the Secretary of State that Sarsour's activities undermine United States foreign policy — specifically, the policy of combating antisemitism and supporting Israel's security. The Secretary signed a memorandum to that effect. The Immigration and Nationality Act vests the Secretary with the discretion to make such determinations. The courts may review whether the statutory standard was met, but they may not substitute their judgment for the Secretary's on a matter touching the nation's foreign relations.
 
