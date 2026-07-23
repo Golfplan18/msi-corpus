@@ -382,6 +382,7 @@
 {"entity": "U.S. Air Force", "article_count": 2, "first_seen": "2026-07-01", "last_seen": "2026-07-01", "articles": ["2026-07-01-hector-paired-with-2026-07-01-james-big-jim-zebedee-us-news-air-force-one-qatari-maiden-flig", "2026-07-01-james-big-jim-zebedee-us-news-air-force-one-qatari-maiden-flig"]}
 {"entity": "U.S. Department of Commerce", "article_count": 2, "first_seen": "2026-06-29", "last_seen": "2026-06-29", "articles": ["2026-06-29-hector-paired-with-2026-06-29-mark-paulson-us-news-2026-jun-29-california-trump-adm", "2026-06-29-mark-paulson-us-news-2026-jun-29-california-trump-adm"]}
 {"entity": "U.S. Department of Health and Human Services", "article_count": 2, "first_seen": "2026-07-11", "last_seen": "2026-07-12", "articles": ["2026-07-11-joanna-rivera-blackwell-us-news-2026-jun-30-trump-religious-free", "2026-07-12-joanna-rivera-blackwell-us-news-2026-jun-30-trump-religious-free"]}
+{"entity": "U.S. Department of Labor", "article_count": 2, "first_seen": "2026-07-16", "last_seen": "2026-07-23", "articles": ["2026-07-16-barb-mcgowan-unemployment-benefits-jobless-claims-lay", "2026-07-23-barb-mcgowan-unemployment-benefits-jobless-claims-lay"]}
 {"entity": "U.S. District Court for the Southern District of New York", "article_count": 2, "first_seen": "2026-06-29", "last_seen": "2026-06-29", "articles": ["2026-06-29-hector-paired-with-2026-06-29-ruth-justice-engui-china-critic-and-tycoon-sentenced-", "2026-06-29-ruth-justice-engui-china-critic-and-tycoon-sentenced-"]}
 {"entity": "U.S. Food and Drug Administration", "article_count": 2, "first_seen": "2026-07-08", "last_seen": "2026-07-08", "articles": ["2026-07-08-barb-mcgowan-od-and-drug-administration-rejects-petit", "2026-07-08-house-cartoon-the-slogan-was-healthy-the-shelf-said-forever"]}
 {"entity": "U.S. House of Representatives", "article_count": 2, "first_seen": "2026-07-05", "last_seen": "2026-07-05", "articles": ["2026-07-05-house-cartoon-two-windows-one-act", "2026-07-05-stewart-letterkenski-us-news-2026-jul-05-ratepayer-protection"]}
@@ -628,6 +629,7 @@
 {"entity": "FDA", "article_count": 1, "first_seen": "2026-07-23", "last_seen": "2026-07-23", "articles": ["2026-07-23-house-cartoon-the-seller-got-the-floor"]}
 {"entity": "FDNY", "article_count": 1, "first_seen": "2026-07-07", "last_seen": "2026-07-07", "articles": ["2026-07-07-barb-mcgowan-top-news-us-2026-07-07-nyc-building-coll"]}
 {"entity": "FEC", "article_count": 1, "first_seen": "2026-06-30", "last_seen": "2026-06-30", "articles": ["2026-06-30-thomas-reynolds-nx-s1-5827039-supreme-court-campaign-finance"]}
+{"entity": "FactSet", "article_count": 1, "first_seen": "2026-07-23", "last_seen": "2026-07-23", "articles": ["2026-07-23-barb-mcgowan-unemployment-benefits-jobless-claims-lay"]}
 {"entity": "Fairplay", "article_count": 1, "first_seen": "2026-07-10", "last_seen": "2026-07-10", "articles": ["2026-07-10-barb-mcgowan-nx-s1-5878405-fcc-erate-schools-internet-discount"]}
 {"entity": "Federal Bureau of Investigation", "article_count": 1, "first_seen": "2026-07-17", "last_seen": "2026-07-17", "articles": ["2026-07-17-house-cartoon-declassified-and-empty"]}
 {"entity": "Federal Communications Commission", "article_count": 1, "first_seen": "2026-07-10", "last_seen": "2026-07-10", "articles": ["2026-07-10-barb-mcgowan-nx-s1-5878405-fcc-erate-schools-internet-discount"]}
@@ -1079,7 +1081,6 @@
 {"entity": "Tuskegee", "article_count": 1, "first_seen": "2026-07-18", "last_seen": "2026-07-18", "articles": ["2026-07-18-house-cartoon-race-neutral-scissors"]}
 {"entity": "U.S. Commission of Fine Arts", "article_count": 1, "first_seen": "2026-07-10", "last_seen": "2026-07-10", "articles": ["2026-07-10-house-cartoon-rules-for-thee-towers-for-us"]}
 {"entity": "U.S. Department of Energy", "article_count": 1, "first_seen": "2026-07-15", "last_seen": "2026-07-15", "articles": ["2026-07-15-house-cartoon-the-freedom-to-pay-more"]}
-{"entity": "U.S. Department of Labor", "article_count": 1, "first_seen": "2026-07-16", "last_seen": "2026-07-16", "articles": ["2026-07-16-barb-mcgowan-unemployment-benefits-jobless-claims-lay"]}
 {"entity": "U.S. Marshals Service", "article_count": 1, "first_seen": "2026-07-19", "last_seen": "2026-07-19", "articles": ["2026-07-19-house-cartoon-the-podium-called-the-victims-filth"]}
 {"entity": "U.S. cities", "article_count": 1, "first_seen": "2026-06-26", "last_seen": "2026-06-26", "articles": ["2026-06-26-mark-paulson-tech-ai-how-cities-can-adapt-to-warmer-c"]}
 {"entity": "U.S. housing market", "article_count": 1, "first_seen": "2026-05-22", "last_seen": "2026-05-22", "articles": ["2026-05-22-eb-a-housing-bill-that-would-save-housing"]}
