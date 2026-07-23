@@ -172,6 +172,15 @@ related_stories:
   publish_date: '2026-06-30'
   relation: related
   strength: 0.6663
+image:
+  url: /articles/2026-07-23-bipartisan-bill-would-give-dhs-power-to-shut-down-dangerous-ai-models.png
+  alt: "Illustration accompanying article: Bipartisan bill would give DHS power to shut down dangerous AI models"
+  credit: Main Street Independent (algorithmic)
+  source: ai_generated
+  license: "https://creativecommons.org/publicdomain/zero/1.0/"
+  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  ai_model: "openrouter:openai/gpt-5.4-image-2"
+  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
 ---
 ## Bipartisan bill would give DHS power to shut down dangerous AI models
 
