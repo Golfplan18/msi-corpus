@@ -2,8 +2,17 @@
 headline: California bill proposes study of grizzly bear reintroduction
 secondary_headline: Grizzlies vanished from the state by the 1920s
 publish_date: '2026-07-23'
-lede: A coalition of Native American tribes and environmental groups is pushing California lawmakers to study whether grizzly bears can be returned to the state after an absence of roughly a century, setting up a debate over whether the state that features the animal on its flag can safely accommodate a large predator in a landscape reshaped by population growth and development. A bill introduced in the state Senate would direct the California Department of Fish and Wildlife to produce a study evaluating the feasibility and advisability of reintroduction.
-nut_graf: The proposal revives a question that has lingered since the last California grizzly was killed in the 1920s — whether the state that put the bear on its flag can coexist with the real animal a century later, after its human population has multiplied and the landscape has been fundamentally transformed.
+lede: A coalition of Native American tribes and environmental groups is pushing California
+  lawmakers to study whether grizzly bears can be returned to the state after an absence
+  of roughly a century, setting up a debate over whether the state that features the
+  animal on its flag can safely accommodate a large predator in a landscape reshaped
+  by population growth and development. A bill introduced in the state Senate would
+  direct the California Department of Fish and Wildlife to produce a study evaluating
+  the feasibility and advisability of reintroduction.
+nut_graf: The proposal revives a question that has lingered since the last California
+  grizzly was killed in the 1920s — whether the state that put the bear on its flag
+  can coexist with the real animal a century later, after its human population has
+  multiplied and the landscape has been fundamentally transformed.
 primary_entities:
 - California
 - California Department of Fish and Wildlife
@@ -28,7 +37,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -126,108 +136,12 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-06-23-florida-flamingo-campaign-to-unseat-mockingbird-passes-house-dies-in-senate-comm
-  headline: Florida flamingo campaign to unseat mockingbird passes House, dies in Senate committee
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.6093
-- slug: 2026-06-15-trump-rescinds-nixon-era-limits-on-off-road-vehicles-on-public-lands
-  headline: Trump rescinds Nixon-era limits on off-road vehicles on public lands
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.5911
-- slug: 2026-06-08-gray-whales-shift-into-san-francisco-bay-new-detection-system-warns-ships
-  headline: Gray whales shift into San Francisco Bay; new detection system warns ships
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.6018
-- slug: 2026-06-05-trump-administration-moves-to-rescind-roadless-rule-protecting-58-million-acres-
-  headline: Trump administration moves to rescind Roadless Rule protecting 58 million acres of national forests
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.5895
-- slug: 2026-05-27-cool-water-releases-from-glen-canyon-dam-protect-fish-but-cut-hydropower
-  headline: Cool-water releases from Glen Canyon Dam protect fish but cut hydropower
-  publish_date: '2026-05-27'
-  relation: related
-  strength: 0.6115
-- slug: 2026-05-26-cool-water-plan-for-grand-canyon-fish-weighs-ecological-gains-vs-lost-power
-  headline: Cool water plan for Grand Canyon fish weighs ecological gains vs lost power
-  publish_date: '2026-05-26'
-  relation: related
-  strength: 0.6066
-- slug: 2026-05-07-judge-oks-alaska-wildlife-agents-killing-bears-from-helicopters-to-protect-carib
-  headline: Judge OKs Alaska wildlife agents killing bears from helicopters to protect caribou
-  publish_date: '2026-05-07'
-  relation: related
-  strength: 0.6456
-- slug: 2026-05-06-alaska-judge-allows-wildlife-agents-to-kill-bears-by-helicopter-to-save-caribou
-  headline: Alaska judge allows wildlife agents to kill bears by helicopter to save caribou
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.6433
-- slug: 2026-05-21-study-finds-wildlife-coexistence-on-busy-jackson-hole-trails
-  headline: Study finds wildlife coexistence on busy Jackson Hole trails
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.5937
 - slug: 2026-02-14-california-mountain-lions-become-threatened-in-key-regions
   headline: California mountain lions become “threatened” in key regions
   publish_date: '2026-02-14'
   relation: related
   strength: 0.6848
-- slug: 2026-04-11-michigan-to-consider-one-buck-rule-limiting-hunters-to-one-antlered-deer
-  headline: Michigan to consider “one buck rule” limiting hunters to one antlered deer
-  publish_date: '2026-04-11'
-  relation: related
-  strength: 0.5927
-- slug: 2026-04-08-endangered-chinook-restoration-faces-halt-as-state-funding-ends
-  headline: Endangered Chinook restoration faces halt as state funding ends
-  publish_date: '2026-04-08'
-  relation: related
-  strength: 0.5962
-- slug: 2026-01-14-california-halts-search-for-last-two-wolves-in-pack-that-killed-92-cattle
-  headline: California halts search for last two wolves in pack that killed 92 cattle
-  publish_date: '2026-01-14'
-  relation: related
-  strength: 0.6431
-- slug: 2026-03-24-backyard-care-is-key-for-vermonters-coexisting-with-black-bears
-  headline: Backyard care is key for Vermonters coexisting with black bears
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.5914
-- slug: 2026-02-28-u-s-forest-service-proposes-long-term-logging-in-michigan
-  headline: U.S. Forest Service proposes long-term logging in Michigan
-  publish_date: '2026-02-28'
-  relation: related
-  strength: 0.6077
-- slug: 2026-03-15-louisiana-alligator-farms-mix-capitalism-and-conservation
-  headline: Louisiana alligator farms mix capitalism and conservation
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.5951
-- slug: 2026-02-26-federal-protections-end-for-lesser-prairie-chicken-after-court-ruling
-  headline: Federal protections end for lesser prairie chicken after court ruling
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.6
-- slug: 2026-03-10-green-bay-s-whitefish-refuge-anchors-great-lakes-fishery-as-stocks-show-strain
-  headline: Green Bay's whitefish refuge anchors Great Lakes fishery as stocks show strain
-  publish_date: '2026-03-10'
-  relation: related
-  strength: 0.5892
-- slug: 2026-02-25-federal-protections-end-for-lesser-prairie-chicken-after-court-ruling
-  headline: Federal protections end for lesser prairie chicken after court ruling
-  publish_date: '2026-02-25'
-  relation: related
-  strength: 0.59
-- slug: 2026-01-18-elephant-seals-return-to-a-o-nuevo-for-winter-breeding-season-drawing-crowds
-  headline: Elephant seals return to Año Nuevo for winter breeding season, drawing crowds
-  publish_date: '2026-01-18'
-  relation: related
-  strength: 0.6055
 ---
-
 ## California bill proposes study of grizzly bear reintroduction
 
 **Subtype:** fact

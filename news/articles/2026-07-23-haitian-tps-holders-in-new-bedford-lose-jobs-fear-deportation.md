@@ -2,8 +2,14 @@
 headline: Haitian TPS holders in New Bedford lose jobs, fear deportation
 secondary_headline: Pastor reports ICE vehicles outside church after Sunday service
 publish_date: '2026-07-23'
-lede: Pastor Lander Saintelus said nearly all 100 members of his New Bedford congregation lost their jobs after the Department of Homeland Security announced the termination of Temporary Protected Status for Haitians more than a year ago, with some members now too afraid to leave their homes.
-nut_graf: The account from Bright Morning Star International Ministries illustrates how the end of TPS has reshaped daily life for a community that had lived and worked in the United States for decades, even before the Supreme Court upheld the administration's authority to terminate the program.
+lede: Pastor Lander Saintelus said nearly all 100 members of his New Bedford congregation
+  lost their jobs after the Department of Homeland Security announced the termination
+  of Temporary Protected Status for Haitians more than a year ago, with some members
+  now too afraid to leave their homes.
+nut_graf: The account from Bright Morning Star International Ministries illustrates
+  how the end of TPS has reshaped daily life for a community that had lived and worked
+  in the United States for decades, even before the Supreme Court upheld the administration's
+  authority to terminate the program.
 primary_entities:
 - Lander Saintelus
 - New Bedford
@@ -34,7 +40,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -116,104 +123,44 @@ related_stories:
   headline: Appeals court temporarily blocks end of Haitian TPS
   publish_date: '2026-07-23'
   relation: related
-  strength: 0.6738
+  strength: 0.6696
 - slug: 2026-07-07-supreme-court-tps-ruling-puts-1-3-million-immigrants-at-risk-of-deportation
   headline: Supreme Court TPS ruling puts 1.3 million immigrants at risk of deportation
   publish_date: '2026-07-07'
   relation: related
-  strength: 0.7445
+  strength: 0.7418
 - slug: 2026-07-10-supreme-court-rules-trump-may-end-tps-for-haitians-syrians-affecting-1-3-million
-  headline: Supreme Court rules Trump may end TPS for Haitians, Syrians, affecting 1.3 million
+  headline: Supreme Court rules Trump may end TPS for Haitians, Syrians, affecting
+    1.3 million
   publish_date: '2026-07-10'
   relation: related
-  strength: 0.7253
+  strength: 0.7225
 - slug: 2026-07-09-supreme-court-ruling-on-tps-could-deepen-caregiver-shortage
   headline: Supreme Court ruling on TPS could deepen caregiver shortage
   publish_date: '2026-07-09'
   relation: related
-  strength: 0.7136
+  strength: 0.7121
 - slug: 2026-07-02-haitian-tps-deportations-threaten-u-s-healthcare-workforce-experts-say
   headline: Haitian TPS deportations threaten U.S. healthcare workforce, experts say
   publish_date: '2026-07-02'
   relation: related
-  strength: 0.7323
-- slug: 2026-06-29-supreme-court-rules-6-3-to-allow-end-of-tps-for-haitian-and-syrian-immigrants
-  headline: Supreme Court rules 6-3 to allow end of TPS for Haitian and Syrian immigrants
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.7258
+  strength: 0.7306
 - slug: 2026-07-02-supreme-court-tps-ruling-will-strain-us-healthcare-staffing-experts-say
   headline: Supreme Court TPS ruling will strain US healthcare staffing, experts say
   publish_date: '2026-07-02'
   relation: related
-  strength: 0.7108
+  strength: 0.7091
+- slug: 2026-06-29-supreme-court-rules-6-3-to-allow-end-of-tps-for-haitian-and-syrian-immigrants
+  headline: Supreme Court rules 6-3 to allow end of TPS for Haitian and Syrian immigrants
+  publish_date: '2026-06-29'
+  relation: related
+  strength: 0.7228
 - slug: 2026-07-05-gim-nez-urges-trump-administration-to-keep-tps-for-haitians
   headline: Giménez urges Trump administration to keep TPS for Haitians
   publish_date: '2026-07-05'
   relation: related
-  strength: 0.69
-- slug: 2026-06-26-supreme-court-ruling-leaves-haitian-tps-holders-fearing-deportation
-  headline: Supreme Court ruling leaves Haitian TPS holders fearing deportation
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.7249
-- slug: 2026-07-01-trump-administration-discusses-data-driven-deportations-after-court-wins
-  headline: Trump administration discusses data-driven deportations after court wins
-  publish_date: '2026-07-01'
-  relation: related
-  strength: 0.6982
-- slug: 2026-06-28-mullin-tells-tps-holders-to-seek-permanent-status-or-accept-return-ticket
-  headline: Mullin tells TPS holders to seek permanent status or accept return ticket
-  publish_date: '2026-06-28'
-  relation: related
-  strength: 0.6894
-- slug: 2026-06-25-supreme-court-allows-trump-to-end-tps-protections-for-haitians-syrians
-  headline: Supreme Court allows Trump to end TPS protections for Haitians, Syrians
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.7027
-- slug: 2026-06-23-tps-revocations-leave-hospitals-short-of-nursing-assistants-employers-say
-  headline: TPS revocations leave hospitals short of nursing assistants, employers say
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.6946
-- slug: 2026-06-16-haitian-immigrants-ask-supreme-court-to-dismiss-tps-case-citing-new-dhs-evidence
-  headline: Haitian immigrants ask Supreme Court to dismiss TPS case citing new DHS evidence
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.7083
-- slug: 2026-04-28-salvadorans-watch-as-supreme-court-weighs-temporary-protected-status
-  headline: Salvadorans watch as Supreme Court weighs Temporary Protected Status
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.7414
-- slug: 2026-04-30-supreme-court-weighs-trump-bid-to-end-protections-for-haitian-syrian-tps
-  headline: Supreme Court weighs Trump bid to end protections for Haitian, Syrian TPS
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.7159
-- slug: 2026-04-16-house-passes-bill-to-extend-haiti-immigrants-temporary-protected-status
-  headline: House passes bill to extend Haiti immigrants’ temporary protected status
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.6917
-- slug: 2026-04-15-house-votes-to-extend-haiti-tps-protections-in-rebuke-to-trump-plan
-  headline: House votes to extend Haiti TPS protections, in rebuke to Trump plan
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.68
-- slug: 2026-03-07-appeals-court-blocks-trump-bid-to-end-tps-for-350-000-haitians
-  headline: Appeals court blocks Trump bid to end TPS for 350,000 Haitians
-  publish_date: '2026-03-07'
-  relation: related
-  strength: 0.7085
-- slug: 2026-02-03-federal-judge-blocks-trump-plan-to-end-protections-for-haitians
-  headline: Federal judge blocks Trump plan to end protections for Haitians
-  publish_date: '2026-02-03'
-  relation: related
-  strength: 0.7247
+  strength: 0.688
 ---
-
 ## Haitian TPS holders in New Bedford lose jobs, fear deportation
 
 **Subtype:** fact

@@ -158,6 +158,8 @@ image:
   disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
   ai_model: "openrouter:openai/gpt-5.4-image-2"
   ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+analyses:
+- '2026-07-23-the-khanna-industrial-bank-a-tariff-backed-hub-whose-vulnerability-is-also-its-l'
 ---
 ## Khanna proposes manufacturing bank financed by China tariffs
 
@@ -194,3 +196,8 @@ The proposal arrives as manufacturing employment in the U.S. has declined by 75,
 **Publication date:** 2026-07-23
 **Title:** Democratic lawmakers propose bank funded by China tariffs to boost US manufacturing
 **URL:** https://www.theguardian.com/us-news/2026/jul/23/democrats-ro-khanna-bank-proposal
+
+---
+
+<!-- analysis-link:2026-07-23-the-khanna-industrial-bank-a-tariff-backed-hub-whose-vulnerability-is-also-its-l -->
+**Going deeper:** [Read MSI's analysis of Scrutinize the tariff-feedback-loop coupling strength: whether the $100M congressional-approval threshold creates enough political traceability to lock legislators into tariff continuation, or whether the mechanism is too attenuated — particularly before the bank exists — to meaningfully constrain trade-policy decisions. →](/analyses/2026-07-23-the-khanna-industrial-bank-a-tariff-backed-hub-whose-vulnerability-is-also-its-l)

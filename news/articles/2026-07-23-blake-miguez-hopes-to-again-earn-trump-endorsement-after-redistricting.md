@@ -2,8 +2,16 @@
 headline: Blake Miguez hopes to again earn Trump endorsement after redistricting
 secondary_headline: Miguez weighs which district to run in after map redrawn
 publish_date: '2026-07-23'
-lede: Louisiana state senator Blake Miguez, who secured President Donald Trump's endorsement for a U.S. House seat before the state's congressional map was redrawn, said Wednesday he hopes to again earn the president's backing as he considers which district to run in. Miguez also faces a 2007 rape accusation, which he denies, that was reported to police but never resulted in charges.
-nut_graf: The uncertainty over Miguez's candidacy reflects the political fallout from the Supreme Court's Callais v Louisiana decision, which prompted Louisiana to swiftly redraw its House districts, and the March 2026 disclosure of a decade-old police report that reportedly raised concerns within the White House about whether Miguez was fully vetted or forthcoming about his past.
+lede: Louisiana state senator Blake Miguez, who secured President Donald Trump's endorsement
+  for a U.S. House seat before the state's congressional map was redrawn, said Wednesday
+  he hopes to again earn the president's backing as he considers which district to
+  run in. Miguez also faces a 2007 rape accusation, which he denies, that was reported
+  to police but never resulted in charges.
+nut_graf: The uncertainty over Miguez's candidacy reflects the political fallout from
+  the Supreme Court's Callais v Louisiana decision, which prompted Louisiana to swiftly
+  redraw its House districts, and the March 2026 disclosure of a decade-old police
+  report that reportedly raised concerns within the White House about whether Miguez
+  was fully vetted or forthcoming about his past.
 primary_entities:
 - Blake Miguez
 - Donald Trump
@@ -33,7 +41,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -67,104 +76,47 @@ related_stories:
   headline: Cleo Fields won't seek reelection after Louisiana redraws his district
   publish_date: '2026-07-22'
   relation: related
-  strength: 0.6533
+  strength: 0.6529
 - slug: 2026-07-11-supreme-court-reinstatement-of-alabama-map-eliminates-second-democratic-district
-  headline: Supreme Court reinstatement of Alabama map eliminates second Democratic district
+  headline: Supreme Court reinstatement of Alabama map eliminates second Democratic
+    district
   publish_date: '2026-07-11'
   relation: related
-  strength: 0.6621
+  strength: 0.6626
 - slug: 2026-06-12-southern-activists-mobilize-after-supreme-court-weakens-voting-rights-act
-  headline: Southern activists mobilize after Supreme Court weakens Voting Rights Act
+  headline: Southern activists mobilize after Supreme Court weakens Voting Rights
+    Act
   publish_date: '2026-06-12'
   relation: related
-  strength: 0.6532
+  strength: 0.6529
 - slug: 2026-05-30-louisiana-enacts-new-congressional-map-cutting-majority-black-district
   headline: Louisiana enacts new congressional map cutting majority-Black district
   publish_date: '2026-05-30'
   relation: related
   strength: 0.6905
 - slug: 2026-05-28-louisiana-house-advances-gop-redistricting-plan-following-supreme-court-ruling
-  headline: Louisiana House advances GOP redistricting plan following Supreme Court ruling
+  headline: Louisiana House advances GOP redistricting plan following Supreme Court
+    ruling
   publish_date: '2026-05-28'
   relation: related
-  strength: 0.6908
+  strength: 0.6913
 - slug: 2026-05-23-southern-republicans-press-redistricting-ahead-of-midterm-elections
   headline: Southern Republicans press redistricting ahead of midterm elections
   publish_date: '2026-05-23'
   relation: related
-  strength: 0.6718
+  strength: 0.6727
 - slug: 2026-05-26-republican-redistricting-reshapes-congressional-maps-affecting-millions-of-voter
-  headline: Republican redistricting reshapes congressional maps, affecting millions of voters
+  headline: Republican redistricting reshapes congressional maps, affecting millions
+    of voters
   publish_date: '2026-05-26'
   relation: related
-  strength: 0.6599
+  strength: 0.6602
 - slug: 2026-05-15-louisiana-senate-approves-new-house-map-eliminating-majority-black-district
   headline: Louisiana Senate approves new House map eliminating majority-Black district
   publish_date: '2026-05-15'
   relation: related
-  strength: 0.6707
-- slug: 2026-05-22-southern-republicans-accelerate-redistricting-ahead-of-2026-midterms
-  headline: Southern Republicans accelerate redistricting ahead of 2026 midterms
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6517
-- slug: 2026-05-13-trump-s-redistricting-push-hits-roadblocks-in-s-c-succeeds-in-missouri
-  headline: Trump’s redistricting push hits roadblocks in S.C., succeeds in Missouri
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6725
-- slug: 2026-05-14-louisiana-advances-new-u-s-house-districts-as-georgia-joins-2028-plan
-  headline: Louisiana advances new U.S. House districts as Georgia joins 2028 plan
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6647
-- slug: 2026-05-14-louisiana-advances-plan-to-cut-black-district-as-georgia-starts-2028-effort
-  headline: Louisiana advances plan to cut Black district as Georgia starts 2028 effort
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6633
-- slug: 2026-05-13-redistricting-push-meets-mixed-results-south-carolina-defies-trump-missouri-upho
-  headline: 'Redistricting push meets mixed results: South Carolina defies Trump, Missouri upholds map'
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6644
-- slug: 2026-05-17-thousands-rally-in-montgomery-to-defend-black-voting-power-after-scotus
-  headline: Thousands rally in Montgomery to defend Black voting power after SCOTUS
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6541
-- slug: 2026-05-05-southern-state-republicans-consider-new-house-districts-after-voting-rights-act-
-  headline: Southern state Republicans consider new House districts after Voting Rights Act ruling
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.6777
-- slug: 2026-05-05-states-redraw-u-s-house-districts-mid-decade-as-gop-seeks-seat-gains
-  headline: States redraw U.S. House districts mid-decade as GOP seeks seat gains
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.6753
-- slug: 2026-05-15-louisiana-senators-pass-new-u-s-house-map-after-supreme-court-ruling
-  headline: Louisiana senators pass new U.S. House map after Supreme Court ruling
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6537
-- slug: 2026-05-10-gop-redistricting-confuses-voters-and-burdens-election-officials
-  headline: GOP redistricting confuses voters and burdens election officials
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6517
-- slug: 2026-05-02-supreme-court-ruling-stokes-redistricting-battle-in-several-states
-  headline: Supreme Court ruling stokes redistricting battle in several states
-  publish_date: '2026-05-02'
-  relation: related
-  strength: 0.6604
-- slug: 2026-04-30-supreme-court-weakens-voting-rights-act-section-2-in-louisiana-case
-  headline: Supreme Court weakens Voting Rights Act Section 2 in Louisiana case
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.6626
+  strength: 0.6709
 ---
-
 ## Blake Miguez hopes to again earn Trump endorsement after redistricting
 
 **Subtype:** fact

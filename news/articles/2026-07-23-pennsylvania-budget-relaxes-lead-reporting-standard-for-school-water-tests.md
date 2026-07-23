@@ -2,8 +2,12 @@
 headline: Pennsylvania budget relaxes lead-reporting standard for school water tests
 secondary_headline: No state mandate requires Pennsylvania schools to test for lead
 publish_date: '2026-07-23'
-lede: Pennsylvania lawmakers quietly inserted language into the state budget during final negotiations that relaxes rules for publicly reporting lead test results on school drinking water, raising the reporting threshold from any detectable lead to levels above five parts per billion.
-nut_graf: The change means fewer lead-test results will be made public through the state's reporting system.
+lede: Pennsylvania lawmakers quietly inserted language into the state budget during
+  final negotiations that relaxes rules for publicly reporting lead test results on
+  school drinking water, raising the reporting threshold from any detectable lead
+  to levels above five parts per billion.
+nut_graf: The change means fewer lead-test results will be made public through the
+  state's reporting system.
 primary_entities:
 - Pennsylvania
 - school drinking water
@@ -33,7 +37,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -71,76 +76,6 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-07-20-epa-scraps-proposed-pfas-limits-on-sewage-sludge-used-as-farm-fertilizer
-  headline: EPA scraps proposed PFAS limits on sewage sludge used as farm fertilizer
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.6056
-- slug: 2026-07-20-parents-push-state-lawmakers-to-restore-recess-as-school-playtime-shrinks
-  headline: Parents push state lawmakers to restore recess as school playtime shrinks
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.5939
-- slug: 2026-06-26-25-metro-detroit-communities-exceeded-michigan-s-lead-action-level-for-drinking-
-  headline: 25 Metro Detroit communities exceeded Michigan's lead action level for drinking water
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6104
-- slug: 2026-06-21-pennsylvania-school-board-vote-ignites-parent-revolt-over-classroom-laptops
-  headline: Pennsylvania school board vote ignites parent revolt over classroom laptops
-  publish_date: '2026-06-21'
-  relation: related
-  strength: 0.6163
-- slug: 2026-05-22-pa-can-move-ahead-with-broadband-expansion-after-wage-dispute-reversal
-  headline: Pa. can move ahead with broadband expansion after wage-dispute reversal
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6163
-- slug: 2026-05-21-montana-land-board-adopts-new-land-swap-criteria-after-limited-public-notice
-  headline: Montana Land Board adopts new land-swap criteria after limited public notice
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6124
-- slug: 2026-05-21-pa-can-move-ahead-with-700m-broadband-expansion-after-wage-dispute
-  headline: Pa. can move ahead with $700M broadband expansion after wage dispute
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6042
-- slug: 2026-05-08-epa-to-propose-rolling-back-some-biden-era-pfas-limits-in-drinking-water
-  headline: EPA to propose rolling back some Biden-era PFAS limits in drinking water
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.6197
-- slug: 2026-05-22-montana-land-board-approves-changes-to-land-swap-evaluation-process
-  headline: Montana Land Board Approves Changes to Land-Swap Evaluation Process
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.5875
-- slug: 2026-05-15-pennsylvania-district-rejects-parent-push-to-let-students-opt-out-of-classroom-l
-  headline: Pennsylvania district rejects parent push to let students opt out of classroom laptops
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6038
-- slug: 2026-05-14-u-s-students-in-reading-recession-as-test-scores-slide-but-phonics-reforms-offer
-  headline: U.S. students in 'reading recession' as test scores slide, but phonics reforms offer hope
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.5998
-- slug: 2026-05-15-trump-epa-proposes-rolling-back-limits-on-toxic-coal-wastewater
-  headline: Trump EPA proposes rolling back limits on toxic coal wastewater
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.5955
-- slug: 2026-04-30-epa-and-conservation-groups-challenge-wyoming-s-impaired-water-sample-limits
-  headline: EPA and conservation groups challenge Wyoming’s “impaired” water sample limits
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.6178
-- slug: 2026-04-28-epa-administrator-faces-sharp-questions-over-proposed-budget-cuts
-  headline: EPA administrator faces sharp questions over proposed budget cuts
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.5923
 - slug: 2026-02-20-trump-backs-10-year-deadline-to-replace-lead-pipes
   headline: Trump backs 10-year deadline to replace lead pipes
   publish_date: '2026-02-20'
@@ -151,28 +86,7 @@ related_stories:
   publish_date: '2026-01-05'
   relation: related
   strength: 0.6654
-- slug: 2026-02-20-lead-detected-in-7-of-10-new-orleans-homes-replacement-delayed-until-2027
-  headline: Lead detected in 7 of 10 New Orleans homes; replacement delayed until 2027
-  publish_date: '2026-02-20'
-  relation: related
-  strength: 0.6342
-- slug: 2026-04-02-pennsylvania-begins-indigent-defense-upgrades-with-new-funding-standards
-  headline: Pennsylvania begins indigent defense upgrades with new funding, standards
-  publish_date: '2026-04-02'
-  relation: related
-  strength: 0.5905
-- slug: 2026-03-15-how-to-decide-whether-you-need-a-water-filter
-  headline: How to decide whether you need a water filter
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.5935
-- slug: 2026-01-13-epa-proposes-limits-on-state-clean-water-act-authority-for-pipelines-and-data-ce
-  headline: EPA proposes limits on state Clean Water Act authority for pipelines and data centers
-  publish_date: '2026-01-13'
-  relation: related
-  strength: 0.6241
 ---
-
 ## Pennsylvania budget relaxes lead-reporting standard for school water tests
 
 **Subtype:** fact
