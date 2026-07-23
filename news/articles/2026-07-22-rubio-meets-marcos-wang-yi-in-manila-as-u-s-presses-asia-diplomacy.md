@@ -182,6 +182,8 @@ related_stories:
   publish_date: '2026-05-23'
   relation: related
   strength: 0.6931
+analyses:
+- '2026-07-22-inside-rubio-s-manila-visit-one-diplomatic-day-two-irreconcilable-china-policies'
 ---
 ## Rubio meets Marcos, Wang Yi in Manila as U.S. presses Asia diplomacy
 
@@ -216,3 +218,8 @@ Rubio’s visit to Manila is part of a broader push through Asia this year as th
 **Publication date:** 2026-07-22
 **Title:** Rubio meets with Philippines president, discusses South China Sea
 **URL:** https://www.upi.com/Top_News/US/2026/07/22/rubio-meets-Marcos-Manila/8191784759348/
+
+---
+
+<!-- analysis-link:2026-07-22-inside-rubio-s-manila-visit-one-diplomatic-day-two-irreconcilable-china-policies -->
+**Going deeper:** [Read MSI's analysis of The administration’s “dual-track” approach to Beijing is not a calibrated strategy—it is two strategies housed in the same diplomatic moment, each capable of undermining the other. →](/analyses/2026-07-22-inside-rubio-s-manila-visit-one-diplomatic-day-two-irreconcilable-china-policies)
