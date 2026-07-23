@@ -111,6 +111,8 @@ related_stories:
   publish_date: '2026-07-07'
   relation: related
   strength: 0.7365
+analyses:
+- '2026-07-22-two-chains-one-outcome-enforcement-design-and-legal-insulation-that-produce-leth'
 ---
 ## Mother seeks accountability 16 months after ICE agent killed her son in Texas
 
@@ -152,3 +154,8 @@ Reyes said she had hoped deadly encounters would decrease after Markwayne Mullin
 **Publication date:** 2026-07-22
 **Title:** Her son was killed by ICE at a traffic stop. She says she's still waiting for justice
 **URL:** https://www.npr.org/2026/07/22/nx-s1-5900933/ruben-ray-martinez-ice-shooting-texas-maine
+
+---
+
+<!-- analysis-link:2026-07-22-two-chains-one-outcome-enforcement-design-and-legal-insulation-that-produce-leth -->
+**Going deeper:** [Read MSI's analysis of The systematic failure of oversight mechanisms — from 11-month disclosure delays and withheld evidence to a presidential countermand of a safety pause — and the community-level role gaps that leave families of those killed by enforcement officers without institutional support →](/analyses/2026-07-22-two-chains-one-outcome-enforcement-design-and-legal-insulation-that-produce-leth)
