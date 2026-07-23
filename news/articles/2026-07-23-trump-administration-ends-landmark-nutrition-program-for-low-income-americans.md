@@ -107,6 +107,15 @@ related_stories:
   publish_date: '2026-01-14'
   relation: related
   strength: 0.6546
+image:
+  url: /articles/2026-07-23-trump-administration-ends-landmark-nutrition-program-for-low-income-americans.png
+  alt: "Illustration accompanying article: Trump administration ends landmark nutrition program for low-income Americans"
+  credit: Main Street Independent (algorithmic)
+  source: ai_generated
+  license: "https://creativecommons.org/publicdomain/zero/1.0/"
+  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  ai_model: "openrouter:openai/gpt-5.4-image-2"
+  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
 ---
 ## Trump administration ends landmark nutrition program for low-income Americans
 
