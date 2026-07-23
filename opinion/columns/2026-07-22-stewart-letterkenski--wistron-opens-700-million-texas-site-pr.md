@@ -1,7 +1,8 @@
 ---
 headline: Nvidia's Texas Plant Is a Taxpayer-Subsidized Chokepoint
 publish_date: '2026-07-22'
-lede: The new Fort Worth factory is not diversifying supply chains—it is locking down a monopoly for a single company on American soil.
+lede: The new Fort Worth factory is not diversifying supply chains—it is locking down
+  a monopoly for a single company on American soil.
 pen_name: stewart-letterkenski
 primary_entities: []
 primary_themes: []
@@ -15,7 +16,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 0
@@ -34,7 +36,28 @@ cross_article_links:
   confidence: high
 draft: false
 backlog_release: true
+image:
+  url: /cartoons/nvidias-texas-plant-is-a-taxpayer-subsidized-chokepoint.png
+  alt: 'Editorial cartoon by Hector Rentier: Nvidia''s Texas Plant Is a Taxpayer-Subsidized
+    Chokepoint'
+  caption: He called it national infrastructure. It served one customer.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-07-22T22:14:39-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: Grouped allegorical scene, 1:1. Central figure — Jensen Huang, fully
+    individuated likeness, kneeling in serene devotional posture before an altar that
+    is a semiconductor assembly conveyor belt. The co
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-07-22-hector-paired-with-2026-07-22-stewart-letterkenski--wistron-opens-700-million-texas-site-pr
 ---
+
+![Editorial cartoon by Hector Rentier: Nvidia's Texas Plant Is a Taxpayer-Subsidized Chokepoint](/cartoons/nvidias-texas-plant-is-a-taxpayer-subsidized-chokepoint.png)
+*He called it national infrastructure. It served one customer.*
 
 The new Fort Worth factory is not diversifying supply chains—it is locking down a monopoly for a single company on American soil.
 
