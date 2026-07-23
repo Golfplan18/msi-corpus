@@ -16,7 +16,8 @@ topic_tags:
 - education
 - environment
 - health
-storyline_nexus: []
+storyline_nexus:
+- lgbtq-rights-restrictions
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship
