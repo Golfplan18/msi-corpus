@@ -150,6 +150,8 @@ related_stories:
   publish_date: '2026-02-26'
   relation: related
   strength: 0.702
+analyses:
+- '2026-07-22-legal-aid-cuts-structure-a-deportation-pipeline-a-single-funding-decision-disman'
 ---
 ## Trump administration cuts legal aid funding for 20,000 migrant children
 
@@ -192,3 +194,8 @@ Kids in Need of Defense, a major legal provider founded by actor Angelina Jolie 
 **Publication date:** 2026-07-22
 **Title:** Thousands of immigrant children risk losing lawyers after Trump aid cuts
 **URL:** https://www.theguardian.com/us-news/2026/jul/22/immigrant-children-trump-cuts
+
+---
+
+<!-- analysis-link:2026-07-22-legal-aid-cuts-structure-a-deportation-pipeline-a-single-funding-decision-disman -->
+**Going deeper:** [Read MSI's analysis of The archetype of the "hub-and-spoke with backward data flow" — the administration's defunding mechanism is a structural signature that collapses the defense infrastructure and feeds the enforcement apparatus in one integrated action. →](/analyses/2026-07-22-legal-aid-cuts-structure-a-deportation-pipeline-a-single-funding-decision-disman)
