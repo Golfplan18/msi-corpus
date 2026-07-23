@@ -102,6 +102,8 @@ related_stories:
   publish_date: '2026-05-14'
   relation: related
   strength: 0.667
+analyses:
+- '2026-07-22-ai-hardware-demand-cannibalizes-mainframe-budgets-in-ibm-s-structural-revenue-sh'
 ---
 ## IBM trims revenue forecast as customers divert budgets to AI hardware
 
@@ -139,3 +141,8 @@ The episode has put Krishna's leadership under scrutiny and made IBM, which empl
 **Publication date:** 2026-07-22
 **Title:** IBM Lowers Its Growth Outlook as Sales of Data Center Mainframes Sink 42%
 **URL:** https://www.wsj.com/business/earnings/ibm-q2-earnings-report-2026-stock-ded1f568
+
+---
+
+<!-- analysis-link:2026-07-22-ai-hardware-demand-cannibalizes-mainframe-budgets-in-ibm-s-structural-revenue-sh -->
+**Going deeper:** [Read MSI's analysis of IBM's revenue forecast cut and mainframe decline →](/analyses/2026-07-22-ai-hardware-demand-cannibalizes-mainframe-budgets-in-ibm-s-structural-revenue-sh)
