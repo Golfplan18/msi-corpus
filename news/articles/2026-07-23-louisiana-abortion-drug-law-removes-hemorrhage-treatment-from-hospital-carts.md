@@ -1,9 +1,16 @@
 ---
 headline: Louisiana abortion-drug law removes hemorrhage treatment from hospital carts
-secondary_headline: Misoprostol, used in postpartum care and medication abortion, now locked in secure rooms
+secondary_headline: Misoprostol, used in postpartum care and medication abortion,
+  now locked in secure rooms
 publish_date: '2026-07-23'
-lede: A 2024 Louisiana law that reclassified the drug misoprostol as a controlled substance has forced hospitals to remove it from emergency hemorrhage carts, delaying access to a medication doctors describe as the go-to treatment for life-threatening postpartum bleeding, according to a report by the Associated Press.
-nut_graf: The reclassification stems from misoprostol's role as the second pill in a two-drug regimen used for medication abortion, and has created a logistical barrier to rapid treatment for hemorrhages, one of the most common pregnancy complications in the state, raising risks for pregnant patients.
+lede: A 2024 Louisiana law that reclassified the drug misoprostol as a controlled
+  substance has forced hospitals to remove it from emergency hemorrhage carts, delaying
+  access to a medication doctors describe as the go-to treatment for life-threatening
+  postpartum bleeding, according to a report by the Associated Press.
+nut_graf: The reclassification stems from misoprostol's role as the second pill in
+  a two-drug regimen used for medication abortion, and has created a logistical barrier
+  to rapid treatment for hemorrhages, one of the most common pregnancy complications
+  in the state, raising risks for pregnant patients.
 primary_entities:
 - Louisiana
 - Nicole Freehill
@@ -31,7 +38,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -59,21 +67,11 @@ related_stories:
   publish_date: '2026-06-22'
   relation: related
   strength: 0.6716
-- slug: 2026-06-25-four-years-after-dobbs-u-s-abortion-numbers-rise-as-telehealth-reshapes-access
-  headline: Four years after Dobbs, U.S. abortion numbers rise as telehealth reshapes access
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.6412
 - slug: 2026-05-15-supreme-court-order-leaves-access-to-abortion-pill-unchanged
   headline: Supreme Court order leaves access to abortion pill unchanged
   publish_date: '2026-05-15'
   relation: related
   strength: 0.7123
-- slug: 2026-06-05-fda-launches-mifepristone-safety-study-paving-way-for-potential-restrictions
-  headline: FDA launches mifepristone safety study, paving way for potential restrictions
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.639
 - slug: 2026-05-05-supreme-court-restores-telehealth-access-to-abortion-pill-mifepristone
   headline: Supreme Court restores telehealth access to abortion pill mifepristone
   publish_date: '2026-05-05'
@@ -85,7 +83,8 @@ related_stories:
   relation: related
   strength: 0.6757
 - slug: 2026-05-15-supreme-court-preserves-access-to-abortion-pill-mifepristone-as-lawsuit-continue
-  headline: Supreme Court preserves access to abortion pill mifepristone as lawsuit continues
+  headline: Supreme Court preserves access to abortion pill mifepristone as lawsuit
+    continues
   publish_date: '2026-05-15'
   relation: related
   strength: 0.6889
@@ -99,58 +98,7 @@ related_stories:
   publish_date: '2026-05-15'
   relation: related
   strength: 0.6563
-- slug: 2026-05-10-supreme-court-extends-access-to-abortion-pill-mifepristone-until-thursday
-  headline: Supreme Court extends access to abortion pill mifepristone until Thursday
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6616
-- slug: 2026-05-03-supreme-court-asked-to-restore-mail-access-to-abortion-pill-mifepristone
-  headline: Supreme Court asked to restore mail access to abortion pill mifepristone
-  publish_date: '2026-05-03'
-  relation: related
-  strength: 0.6729
-- slug: 2026-05-15-conservative-states-push-to-ban-abortion-pills-as-telehealth-use-rises
-  headline: Conservative states push to ban abortion pills as telehealth use rises
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6387
-- slug: 2026-05-15-abortion-pill-rulings-elevate-reproductive-rights-as-a-midterm-issue
-  headline: Abortion pill rulings elevate reproductive rights as a midterm issue
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6369
-- slug: 2026-05-02-fda-nominee-marty-makary-faces-questions-on-abortion-pill-safety
-  headline: FDA nominee Marty Makary faces questions on abortion pill safety
-  publish_date: '2026-05-02'
-  relation: related
-  strength: 0.6493
-- slug: 2026-05-15-conservative-states-focus-on-banning-abortion-pills-and-restricting-access-via-p
-  headline: Conservative states focus on banning abortion pills and restricting access via providers
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6228
-- slug: 2026-04-09-fight-over-pills-pits-abortion-opponents-against-trump-administration
-  headline: Fight over pills pits abortion opponents against Trump administration
-  publish_date: '2026-04-09'
-  relation: related
-  strength: 0.6818
-- slug: 2026-04-08-judge-refuses-to-block-sending-abortion-pills-by-mail
-  headline: Judge refuses to block sending abortion pills by mail
-  publish_date: '2026-04-08'
-  relation: related
-  strength: 0.678
-- slug: 2026-05-02-court-blocks-mailing-prescriptions-of-abortion-pill-mifepristone
-  headline: Court blocks mailing prescriptions of abortion pill mifepristone
-  publish_date: '2026-05-02'
-  relation: related
-  strength: 0.6258
-- slug: 2026-01-13-louisiana-seeks-extradition-of-california-doctor-over-mailed-abortion-pills
-  headline: Louisiana seeks extradition of California doctor over mailed abortion pills
-  publish_date: '2026-01-13'
-  relation: related
-  strength: 0.6966
 ---
-
 ## Louisiana abortion-drug law removes hemorrhage treatment from hospital carts
 
 **Subtype:** fact

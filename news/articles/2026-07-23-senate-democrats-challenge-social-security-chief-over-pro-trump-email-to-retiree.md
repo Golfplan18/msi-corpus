@@ -1,9 +1,16 @@
 ---
-headline: Senate Democrats challenge Social Security chief over pro-Trump email to retirees
-secondary_headline: Email to 35 million seniors claimed Trump tax law delivered $7,500 average relief
+headline: Senate Democrats challenge Social Security chief over pro-Trump email to
+  retirees
+secondary_headline: Email to 35 million seniors claimed Trump tax law delivered $7,500
+  average relief
 publish_date: '2026-07-23'
-lede: Senate Democrats on Monday challenged the Social Security commissioner over an unsolicited mass email to benefit recipients that they say contained multiple misleading claims about the benefits of President Donald Trump's tax and spending law.
-nut_graf: The dispute injects the future of Social Security, which provides financial support to more than 70 million Americans, into the intensifying battle for control of Congress in November's midterm elections.
+lede: Senate Democrats on Monday challenged the Social Security commissioner over
+  an unsolicited mass email to benefit recipients that they say contained multiple
+  misleading claims about the benefits of President Donald Trump's tax and spending
+  law.
+nut_graf: The dispute injects the future of Social Security, which provides financial
+  support to more than 70 million Americans, into the intensifying battle for control
+  of Congress in November's midterm elections.
 primary_entities:
 - Frank Bisignano
 - Ron Wyden
@@ -42,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -120,108 +128,49 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-07-14-bipartisan-bill-aims-to-shore-up-social-security
-  headline: Bipartisan bill aims to shore up Social Security
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6469
 - slug: 2026-07-04-democrats-seize-on-trump-s-2-2b-income-as-campaign-issue
   headline: Democrats seize on Trump's $2.2B income as campaign issue
   publish_date: '2026-07-04'
   relation: related
-  strength: 0.6794
-- slug: 2026-07-08-trump-escalates-communist-attacks-on-democrats-ahead-of-midterms
-  headline: Trump escalates 'communist' attacks on Democrats ahead of midterms
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.6371
+  strength: 0.6807
 - slug: 2026-06-18-trump-frustration-grows-as-senate-gop-leader-thune-keeps-saying-no
   headline: Trump frustration grows as Senate GOP leader Thune keeps saying no
   publish_date: '2026-06-18'
   relation: related
-  strength: 0.6594
+  strength: 0.6626
 - slug: 2026-06-17-social-security-trust-fund-depletion-looms-as-payroll-taxes-fall-short
   headline: Social Security trust fund depletion looms as payroll taxes fall short
   publish_date: '2026-06-17'
   relation: related
-  strength: 0.6526
+  strength: 0.6542
 - slug: 2026-06-17-trump-warns-states-to-tighten-unemployment-fraud-controls-or-lose-funds
   headline: Trump warns states to tighten unemployment fraud controls or lose funds
   publish_date: '2026-06-17'
   relation: related
-  strength: 0.6477
-- slug: 2026-06-16-trump-administration-uses-doj-fbi-executive-order-to-tighten-voting-rules
-  headline: Trump administration uses DOJ, FBI, executive order to tighten voting rules
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.6262
-- slug: 2026-06-09-social-security-retirement-fund-projected-to-run-short-by-late-2032-trustees-rep
-  headline: Social Security retirement fund projected to run short by late 2032, trustees report
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.6468
+  strength: 0.651
 - slug: 2026-06-02-democrats-push-back-on-trump-rule-allowing-crypto-in-401-k-plans
   headline: Democrats push back on Trump rule allowing crypto in 401(k) plans
   publish_date: '2026-06-02'
   relation: related
-  strength: 0.6692
-- slug: 2026-06-04-trump-alleges-without-evidence-democrats-are-cheating-in-california-primaries
-  headline: Trump alleges without evidence Democrats are 'cheating' in California primaries
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.6274
-- slug: 2026-05-23-republicans-defy-trump-on-proposed-1-776b-jan-6-compensation-fund
-  headline: Republicans defy Trump on proposed $1.776B Jan. 6 compensation fund
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6271
+  strength: 0.6695
 - slug: 2026-04-15-53-million-filers-claimed-trump-tax-breaks-average-refund-rose-11-treasury-says
-  headline: 53 million filers claimed Trump tax breaks; average refund rose 11%, Treasury says
+  headline: 53 million filers claimed Trump tax breaks; average refund rose 11%, Treasury
+    says
   publish_date: '2026-04-15'
   relation: related
-  strength: 0.6583
+  strength: 0.6586
 - slug: 2026-03-18-child-care-costs-set-to-feature-in-midterm-election-ads
   headline: Child care costs set to feature in midterm election ads
   publish_date: '2026-03-18'
   relation: related
-  strength: 0.6687
-- slug: 2026-04-15-democrats-seek-to-overturn-trump-rules-for-public-service-loan-forgiveness
-  headline: Democrats seek to overturn Trump rules for Public Service Loan Forgiveness
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.6312
+  strength: 0.6705
 - slug: 2026-01-08-five-democratic-states-sue-trump-administration-over-frozen-safety-net-funds
-  headline: Five Democratic states sue Trump administration over frozen safety-net funds
+  headline: Five Democratic states sue Trump administration over frozen safety-net
+    funds
   publish_date: '2026-01-08'
   relation: related
-  strength: 0.6907
-- slug: 2026-03-12-ssa-watchdog-investigates-whistleblower-complaint-about-restricted-data-misuse
-  headline: SSA watchdog investigates whistleblower complaint about restricted data misuse
-  publish_date: '2026-03-12'
-  relation: related
-  strength: 0.6516
-- slug: 2026-03-04-irs-chief-declines-to-answer-questions-on-unlawful-taxpayer-data-disclosures-to-
-  headline: IRS chief declines to answer questions on unlawful taxpayer data disclosures to ICE
-  publish_date: '2026-03-04'
-  relation: related
-  strength: 0.6489
-- slug: 2026-02-25-senate-democrats-unveil-bill-to-require-refunds-of-trump-tariff-revenue
-  headline: Senate Democrats unveil bill to require refunds of Trump tariff revenue
-  publish_date: '2026-02-25'
-  relation: related
-  strength: 0.6497
-- slug: 2026-03-24-democrats-pitch-simpler-tax-cuts-as-voters-press-for-affordability
-  headline: Democrats pitch simpler tax cuts as voters press for affordability
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.626
-- slug: 2026-02-08-health-costs-top-democrats-midterm-message-as-aca-subsidies-expire
-  headline: Health costs top Democrats’ midterm message as ACA subsidies expire
-  publish_date: '2026-02-08'
-  relation: related
-  strength: 0.6461
+  strength: 0.6927
 ---
-
 ## Senate Democrats challenge Social Security chief over pro-Trump email to retirees
 
 **Subtype:** fact

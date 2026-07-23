@@ -1,9 +1,17 @@
 ---
 headline: Senate health committee delays vote on CDC nominee Erica Schwartz
-secondary_headline: Cassidy cites a family emergency for postponing the vote to next week
+secondary_headline: Cassidy cites a family emergency for postponing the vote to next
+  week
 publish_date: '2026-07-23'
-lede: The Senate Health, Education, Labor and Pensions Committee postponed a planned vote Thursday on whether to advance Dr. Erica Schwartz's nomination to lead the Centers for Disease Control and Prevention. Committee Chair Bill Cassidy said a family emergency reduced the number of Republican members needed to be present for the vote.
-nut_graf: The delay pushes the decision on Schwartz's nomination to next week. The vote was expected to be close following a confirmation hearing this month in which senators pressed Schwartz on how she would handle political pressure from Health Secretary Robert F. Kennedy Jr.
+lede: The Senate Health, Education, Labor and Pensions Committee postponed a planned
+  vote Thursday on whether to advance Dr. Erica Schwartz's nomination to lead the
+  Centers for Disease Control and Prevention. Committee Chair Bill Cassidy said a
+  family emergency reduced the number of Republican members needed to be present for
+  the vote.
+nut_graf: The delay pushes the decision on Schwartz's nomination to next week. The
+  vote was expected to be close following a confirmation hearing this month in which
+  senators pressed Schwartz on how she would handle political pressure from Health
+  Secretary Robert F. Kennedy Jr.
 primary_entities:
 - Erica Schwartz
 - Bill Cassidy
@@ -32,7 +40,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -95,112 +104,25 @@ related_stories:
   publish_date: '2026-07-15'
   relation: related
   strength: 0.7773
-- slug: 2026-07-21-senate-panel-advances-jay-clayton-s-dni-nomination-along-party-lines
-  headline: Senate panel advances Jay Clayton's DNI nomination along party lines
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6125
-- slug: 2026-07-14-rfk-jr-panel-restructuring-stalls-update-on-youth-tobacco-cessation
-  headline: RFK Jr. panel restructuring stalls update on youth tobacco cessation
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.645
-- slug: 2026-07-11-mcconnell-absent-for-nearly-a-month-as-senate-returns-monday
-  headline: McConnell absent for nearly a month as Senate returns Monday
-  publish_date: '2026-07-11'
-  relation: related
-  strength: 0.6123
-- slug: 2026-07-02-federal-civil-rights-data-for-schools-6-months-overdue
-  headline: Federal civil rights data for schools 6 months overdue
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.6039
-- slug: 2026-06-02-doctors-mount-midterm-challenge-to-trump-health-policies
-  headline: Doctors mount midterm challenge to Trump health policies
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.6128
-- slug: 2026-05-23-rfk-jr-fires-leaders-of-panel-that-sets-insurance-preventive-care-rules
-  headline: RFK Jr. fires leaders of panel that sets insurance preventive-care rules
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6173
-- slug: 2026-05-20-rfk-jr-fires-leaders-of-panel-that-sets-preventive-health-screening-rules
-  headline: RFK Jr. fires leaders of panel that sets preventive health-screening rules
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.6234
-- slug: 2026-05-14-makary-s-fda-resignation-widens-leadership-gap-at-hhs
-  headline: Makary’s FDA resignation widens leadership gap at HHS
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6153
-- slug: 2026-05-14-fda-commissioner-makary-resigns-widening-leadership-void-across-nation-s-health-
-  headline: FDA Commissioner Makary resigns, widening leadership void across nation's health agencies
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6056
-- slug: 2026-04-23-cassidy-weighs-rfk-jr-vaccine-rollback-amid-louisiana-reelection-fight
-  headline: Cassidy weighs RFK Jr. vaccine rollback amid Louisiana reelection fight
-  publish_date: '2026-04-23'
-  relation: related
-  strength: 0.6302
 - slug: 2026-03-25-casey-means-surgeon-general-nomination-stalled-as-senators-question-her
   headline: Casey Means’ surgeon general nomination stalled as senators question her
   publish_date: '2026-03-25'
   relation: related
   strength: 0.6653
-- slug: 2026-04-26-connecticut-senate-passes-lamont-vaccine-recommendations-bill-hb-5044
-  headline: Connecticut Senate passes Lamont vaccine recommendations bill HB 5044
-  publish_date: '2026-04-26'
-  relation: related
-  strength: 0.6228
-- slug: 2026-04-21-as-rfk-jr-faced-the-senate-bill-cassidy-balanced-politics-and-science
-  headline: As RFK Jr. faced the Senate, Bill Cassidy balanced politics and science
-  publish_date: '2026-04-21'
-  relation: related
-  strength: 0.6292
-- slug: 2026-04-22-as-rfk-jr-faced-the-senate-sen-cassidy-weighed-vaccines-and-politics
-  headline: As RFK Jr. faced the Senate, Sen. Cassidy weighed vaccines and politics
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.6259
-- slug: 2026-03-26-casey-means-surgeon-general-nomination-stalled-as-senators-question-her
-  headline: Casey Means’ surgeon general nomination stalled as senators question her
-  publish_date: '2026-03-26'
-  relation: related
-  strength: 0.6473
-- slug: 2026-04-17-kennedy-clashes-with-democrats-over-vaccines-and-race-at-house-hearing
-  headline: Kennedy clashes with Democrats over vaccines and race at House hearing
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.6013
-- slug: 2026-04-11-white-house-updates-vaccine-panel-rules-to-reflect-kennedy-skepticism
-  headline: White House updates vaccine panel rules to reflect Kennedy skepticism
-  publish_date: '2026-04-11'
-  relation: related
-  strength: 0.6067
-- slug: 2026-02-19-nih-chief-bhattacharya-to-temporarily-run-cdc-while-trump-seeks-a-director
-  headline: NIH chief Bhattacharya to temporarily run CDC while Trump seeks a director
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.6426
-- slug: 2026-03-15-judge-blocks-us-changes-to-vaccine-recommendations-for-children
-  headline: Judge blocks US changes to vaccine recommendations for children
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.6246
 image:
   url: /articles/2026-07-23-senate-health-committee-delays-vote-on-cdc-nominee-erica-schwartz.png
-  alt: "Illustration accompanying article: Senate health committee delays vote on CDC nominee Erica Schwartz"
+  alt: 'Illustration accompanying article: Senate health committee delays vote on
+    CDC nominee Erica Schwartz'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:openai/gpt-5.4-image-2"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Senate health committee delays vote on CDC nominee Erica Schwartz
 
 **Subtype:** fact

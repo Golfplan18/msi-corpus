@@ -2,8 +2,15 @@
 headline: Trump Ally Loomer Meets Zelenskyy After Recanting Ukraine Criticism
 secondary_headline: Loomer had previously called Ukraine a 'country full of Nazi apologists.'
 publish_date: '2026-07-23'
-lede: Laura Loomer, an ally of President Donald Trump, met with Ukrainian President Volodymyr Zelenskyy in Kyiv on Thursday, the Associated Press reported, after a reversal in her position on the war that could have political reverberations in Washington.
-nut_graf: 'Loomer, whom the AP described as having a reputation for incendiary social media comments, had spent years minimizing Russia''s invasion and amplifying narratives the AP characterized as Russian propaganda to her nearly 2 million followers on X. After experiencing an air raid in Ukraine, she wrote on the platform: "I often said I don''t care. Looking back, that wasn''t very nice of me to say."'
+lede: Laura Loomer, an ally of President Donald Trump, met with Ukrainian President
+  Volodymyr Zelenskyy in Kyiv on Thursday, the Associated Press reported, after a
+  reversal in her position on the war that could have political reverberations in
+  Washington.
+nut_graf: 'Loomer, whom the AP described as having a reputation for incendiary social
+  media comments, had spent years minimizing Russia''s invasion and amplifying narratives
+  the AP characterized as Russian propaganda to her nearly 2 million followers on
+  X. After experiencing an air raid in Ukraine, she wrote on the platform: "I often
+  said I don''t care. Looking back, that wasn''t very nice of me to say."'
 primary_entities:
 - Laura Loomer
 - Volodymyr Zelenskyy
@@ -35,7 +42,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -82,11 +90,6 @@ related_stories:
   publish_date: '2026-07-12'
   relation: related
   strength: 0.6607
-- slug: 2026-07-08-trump-says-he-may-let-ukraine-produce-patriot-interceptors
-  headline: Trump says he may let Ukraine produce Patriot interceptors
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.6367
 - slug: 2026-06-09-zelenskyy-says-he-told-trump-that-putin-is-playing-games-with-washington
   headline: Zelenskyy says he told Trump that Putin is 'playing games' with Washington
   publish_date: '2026-06-09'
@@ -97,13 +100,9 @@ related_stories:
   publish_date: '2026-06-05'
   relation: related
   strength: 0.6641
-- slug: 2026-06-14-trump-tells-putin-he-is-prepared-to-help-end-ukraine-war-adviser-says
-  headline: Trump tells Putin he is prepared to help end Ukraine war, adviser says
-  publish_date: '2026-06-14'
-  relation: related
-  strength: 0.632
 - slug: 2026-05-11-ukraine-anti-graft-agencies-name-ex-zelenskyy-chief-of-staff-suspect-in-10-5m-la
-  headline: Ukraine anti-graft agencies name ex-Zelenskyy chief of staff suspect in $10.5M laundering probe
+  headline: Ukraine anti-graft agencies name ex-Zelenskyy chief of staff suspect in
+    $10.5M laundering probe
   publish_date: '2026-05-11'
   relation: related
   strength: 0.6535
@@ -112,21 +111,6 @@ related_stories:
   publish_date: '2026-05-09'
   relation: related
   strength: 0.6548
-- slug: 2026-05-11-ukraine-names-zelenskyy-ex-chief-of-staff-yermak-suspect-in-graft-probe
-  headline: Ukraine names Zelenskyy ex-chief of staff Yermak suspect in graft probe
-  publish_date: '2026-05-11'
-  relation: related
-  strength: 0.641
-- slug: 2026-05-09-russia-and-ukraine-accuse-each-other-of-violating-us-brokered-truce
-  headline: Russia and Ukraine accuse each other of violating US-brokered truce
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.6405
-- slug: 2026-05-10-trump-says-russia-and-ukraine-agree-to-three-day-ceasefire-prisoner-exchange
-  headline: Trump says Russia and Ukraine agree to three-day ceasefire, prisoner exchange
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6283
 - slug: 2026-04-02-zelenskyy-heads-into-us-envoy-talks-as-russia-claims-full-control-of-luhansk
   headline: Zelenskyy heads into US envoy talks as Russia claims full control of Luhansk
   publish_date: '2026-04-02'
@@ -142,52 +126,20 @@ related_stories:
   publish_date: '2026-02-25'
   relation: related
   strength: 0.6912
-- slug: 2026-03-29-zelenskyy-visits-uae-and-qatar-to-seek-drone-defense-ties
-  headline: Zelenskyy visits UAE and Qatar to seek drone defense ties
-  publish_date: '2026-03-29'
-  relation: related
-  strength: 0.6603
-- slug: 2026-02-26-zelenskyy-says-ukraine-will-meet-trump-envoys-in-geneva-next-week
-  headline: Zelenskyy says Ukraine will meet Trump envoys in Geneva next week
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.6789
-- slug: 2026-03-18-zelenskyy-tells-uk-lawmakers-russia-and-iran-are-brothers-in-weapons
-  headline: Zelenskyy tells UK lawmakers Russia and Iran are “brothers in weapons”
-  publish_date: '2026-03-18'
-  relation: related
-  strength: 0.6638
-- slug: 2026-04-12-zelenskyy-says-ukraine-shot-down-iranian-shahed-drones-in-middle-east
-  headline: Zelenskyy says Ukraine shot down Iranian Shahed drones in Middle East
-  publish_date: '2026-04-12'
-  relation: related
-  strength: 0.6343
-- slug: 2026-04-11-zelenskyy-says-ukraine-shot-down-shahed-drones-abroad-seeks-wider-air-defense-ti
-  headline: Zelenskyy says Ukraine shot down Shahed drones abroad, seeks wider air defense ties
-  publish_date: '2026-04-11'
-  relation: related
-  strength: 0.6289
-- slug: 2026-02-19-ukraine-ex-army-chief-zaluzhnyi-tells-ap-of-rift-with-zelenskyy
-  headline: Ukraine ex-army chief Zaluzhnyi tells AP of rift with Zelenskyy
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.6635
-- slug: 2025-12-29-trump-hosts-zelenskyy-at-florida-resort-says-peace-talks-near-agreement
-  headline: Trump hosts Zelenskyy at Florida resort, says peace talks near agreement
-  publish_date: '2025-12-29'
-  relation: related
-  strength: 0.6816
 image:
   url: /articles/2026-07-23-trump-ally-loomer-meets-zelenskyy-after-recanting-ukraine-criticism.png
-  alt: "Illustration accompanying article: Trump Ally Loomer Meets Zelenskyy After Recanting Ukraine Criticism"
+  alt: 'Illustration accompanying article: Trump Ally Loomer Meets Zelenskyy After
+    Recanting Ukraine Criticism'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:openai/gpt-5.4-image-2"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Trump Ally Loomer Meets Zelenskyy After Recanting Ukraine Criticism
 
 **Subtype:** fact
