@@ -18,7 +18,8 @@ topic_tags:
 - conflict, war and peace
 - political process
 - international relations
-storyline_nexus: []
+storyline_nexus:
+- ukraine-war-peace-negotiations
 geographic_location: International
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -176,6 +177,15 @@ related_stories:
   publish_date: '2025-12-29'
   relation: related
   strength: 0.6816
+image:
+  url: /articles/2026-07-23-trump-ally-loomer-meets-zelenskyy-after-recanting-ukraine-criticism.png
+  alt: "Illustration accompanying article: Trump Ally Loomer Meets Zelenskyy After Recanting Ukraine Criticism"
+  credit: Main Street Independent (algorithmic)
+  source: ai_generated
+  license: "https://creativecommons.org/publicdomain/zero/1.0/"
+  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  ai_model: "openrouter:openai/gpt-5.4-image-2"
+  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
 ---
 
 ## Trump Ally Loomer Meets Zelenskyy After Recanting Ukraine Criticism

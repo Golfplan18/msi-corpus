@@ -14,7 +14,8 @@ primary_themes:
 topic_tags:
 - health treatment and procedure
 - civil rights
-storyline_nexus: []
+storyline_nexus:
+- abortion-rights-battles
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
