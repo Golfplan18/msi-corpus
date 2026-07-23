@@ -29,7 +29,8 @@ topic_tags:
 - environment
 - political process
 - political dissent
-storyline_nexus: []
+storyline_nexus:
+- trump-climate-energy-rollbacks
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness
