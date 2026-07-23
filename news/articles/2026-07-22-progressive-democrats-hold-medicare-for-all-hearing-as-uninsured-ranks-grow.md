@@ -185,6 +185,8 @@ related_stories:
   publish_date: '2026-01-15'
   relation: related
   strength: 0.6695
+analyses:
+- '2026-07-22-the-gap-between-evidence-and-law-why-medicare-for-all-commands-majority-support'
 ---
 ## Progressive Democrats hold Medicare for All hearing as uninsured ranks grow
 
@@ -229,3 +231,8 @@ Separately, Sen. Andy Kim introduced legislation on Tuesday that would enroll al
 **Publication date:** 2026-07-22
 **Title:** ‘Our system is in dire straits’: progressive Democrats hold Medicare for All hearing
 **URL:** https://www.theguardian.com/us-news/2026/jul/22/healthcare-medicare-progressive-democrats
+
+---
+
+<!-- analysis-link:2026-07-22-the-gap-between-evidence-and-law-why-medicare-for-all-commands-majority-support -->
+**Going deeper:** [Read MSI's analysis of The piece is a diagnostic explanation of Medicare for All's legislative persistence despite evidentiary and majority support. The hearing serves as substrate for tracing institutional, structural, and procedural forces — four categories (Policy, Procedure, Politics, Pressure) organize the diagnosis, with two competing causal framings preserved as an unresolved analytical tension. The forward-looking scenario dimension is absent; the scenario-planning module's deliverable was withheld as broken. The structural bookends that frame the analysis — stalemate persistence vs. filibuster reform — are drawn from the remaining evidence rather than from a functioning scenario module. The stakeholder map's central finding is structural asymmetry: the parties with the most material interest in the outcome are the least organized, while the parties with the most to lose from passage were not at the hearing, and their absence is the most consequential feature of the map. →](/analyses/2026-07-22-the-gap-between-evidence-and-law-why-medicare-for-all-commands-majority-support)
