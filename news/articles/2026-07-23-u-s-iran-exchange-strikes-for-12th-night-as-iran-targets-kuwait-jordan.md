@@ -107,6 +107,8 @@ related_stories:
   publish_date: '2026-07-12'
   relation: related
   strength: 0.7861
+analyses:
+- '2026-07-23-the-conflict-has-already-outrun-the-frame-whose-territory-whose-costs-who-s-miss'
 ---
 ## U.S., Iran exchange strikes for 12th night as Iran targets Kuwait, Jordan
 
@@ -142,3 +144,8 @@ The latest exchanges of fire came hours after President Trump attended the arriv
 **Publication date:** 2026-07-23
 **Title:** American, Iranian forces trade attacks for a 12th straight night
 **URL:** https://www.upi.com/Top_News/World-News/2026/07/23/Iran-continue-exchanging-strikes/2111784794751/
+
+---
+
+<!-- analysis-link:2026-07-23-the-conflict-has-already-outrun-the-frame-whose-territory-whose-costs-who-s-miss -->
+**Going deeper:** [Read MSI's analysis of Stakeholder mapping reveals the burden on third countries, commercial shipping, and silent host states that the bilateral coverage omits →](/analyses/2026-07-23-the-conflict-has-already-outrun-the-frame-whose-territory-whose-costs-who-s-miss)
