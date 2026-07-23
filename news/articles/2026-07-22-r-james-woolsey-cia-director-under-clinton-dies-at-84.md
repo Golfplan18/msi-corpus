@@ -103,6 +103,8 @@ related_stories:
   publish_date: '2026-01-07'
   relation: related
   strength: 0.7154
+analyses:
+- '2026-07-22-the-three-crises-that-defined-r-james-woolsey-s-cia-tenure-and-the-institutional'
 ---
 ## R. James Woolsey, CIA director under Clinton, dies at 84
 
@@ -156,3 +158,8 @@ In his oral history, Woolsey offered this advice to presidents choosing CIA dire
 **Publication date:** 2026-07-22
 **Title:** R. James Woolsey, Embattled CIA Director in Clinton Administration, Dies at 84
 **URL:** https://www.wsj.com/politics/national-security/r-james-woolsey-cia-director-dies-at-84-08b4333c
+
+---
+
+<!-- analysis-link:2026-07-22-the-three-crises-that-defined-r-james-woolsey-s-cia-tenure-and-the-institutional -->
+**Going deeper:** [Read MSI's analysis of Intelligence community oversight culture →](/analyses/2026-07-22-the-three-crises-that-defined-r-james-woolsey-s-cia-tenure-and-the-institutional)
