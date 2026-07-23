@@ -1,7 +1,10 @@
 ---
 headline: The Reboot the Boys Are Selling Is a Pair of Hands I Already Own
 publish_date: '2026-07-22'
-lede: Paul Schecklman and Paul Wassgren wrote in *National Review* this week that Wisconsin — and every state like it — must "reboot" its policy environment to win the next century, trimming tax codes and torching regulations to lure the industries that will build the future.
+lede: Paul Schecklman and Paul Wassgren wrote in *National Review* this week that
+  Wisconsin — and every state like it — must "reboot" its policy environment to win
+  the next century, trimming tax codes and torching regulations to lure the industries
+  that will build the future.
 pen_name: sterling-varice
 primary_entities: []
 primary_themes: []
@@ -14,7 +17,8 @@ gdelt_event_ids: []
 consensus_floor_version: current
 publication_mindspec_version: sterling-varice-2026-06
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -30,7 +34,28 @@ figures_aggregate:
   sources: []
 cross_article_links: []
 draft: false
+image:
+  url: /cartoons/the-reboot-the-boys-are-selling-is-a-pair-of-hands-i.png
+  alt: 'Editorial cartoon by Hector Rentier: The Reboot the Boys Are Selling Is a
+    Pair of Hands I Already Own'
+  caption: He priced the replacement at zero and called it a prayer.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-07-22T22:39:57-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: Single central figure, 1:1, heavy cross-hatch wood-engraving in the Nast
+    tradition. A well-dressed corporate figure — the rentier archetype, fully individuated
+    with a calm, ordinary, recognizable huma
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-07-22-hector-paired-with-2026-07-22-sterling-the-reboot-the-boys-are-selling-is-a-pair-of-hands-i-already-own
 ---
+
+![Editorial cartoon by Hector Rentier: The Reboot the Boys Are Selling Is a Pair of Hands I Already Own](/cartoons/the-reboot-the-boys-are-selling-is-a-pair-of-hands-i.png)
+*He priced the replacement at zero and called it a prayer.*
 
 Paul Schecklman and Paul Wassgren wrote in *National Review* this week that Wisconsin — and every state like it — must "reboot" its policy environment to win the next century, trimming tax codes and torching regulations to lure the industries that will build the future. They argue the demographic clock is a competitive threat, that a shrinking pool of bodies demands a state that costs less to operate in. I agree with every word. They have correctly identified the supply-demand imbalance. They lack the courage to name the party it benefits. It benefits me.
 

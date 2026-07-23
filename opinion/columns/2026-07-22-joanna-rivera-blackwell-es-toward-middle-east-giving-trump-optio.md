@@ -1,7 +1,11 @@
 ---
 headline: A $73 Billion Bet on the Same Strategy That Hasn't Worked
 publish_date: '2026-07-22'
-lede: The United States is surging forces, medics, and weapons toward the Middle East to give President Trump more options in the war with Iran — a war that has already cost $37 billion, killed eighteen American servicemembers, and, five months in, achieved no measurable progress toward the strategic objective its architects keep naming but never define in measurable terms.
+lede: The United States is surging forces, medics, and weapons toward the Middle East
+  to give President Trump more options in the war with Iran — a war that has already
+  cost $37 billion, killed eighteen American servicemembers, and, five months in,
+  achieved no measurable progress toward the strategic objective its architects keep
+  naming but never define in measurable terms.
 pen_name: joanna-rivera-blackwell
 primary_entities: []
 primary_themes: []
@@ -15,7 +19,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 0
@@ -28,9 +33,20 @@ figures_aggregate:
   series_ids: []
   sources: []
 image:
-  url: /articles/2026-07-22-us-surges-forces-to-middle-east-as-trump-weighs-expanding-iran-war.png
-  alt: 'Illustration accompanying article: US surges forces to Middle East as Trump weighs expanding Iran war'
+  url: /cartoons/a-73-billion-bet-on-the-same-strategy-that-hasnt-worked.png
+  alt: 'Editorial cartoon by Hector Rentier: A $73 Billion Bet on the Same Strategy
+    That Hasn''t Worked'
+  caption: He called it a surge. The temple was the budget.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
   source: ai_generated
+  attached_at: '2026-07-22T22:26:13-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: Single central allegorical figure, 1:1 (altarpiece-like format). A senior
+    official in a suit kneels in apparent prayer at an altar made of a defense-contract
+    ledger or budget framework document labele
+  license: https://creativecommons.org/publicdomain/zero/1.0/
 cross_article_links:
 - slug: 2026-07-22-us-surges-forces-to-middle-east-as-trump-weighs-expanding-iran-war
   relation: extends
@@ -38,7 +54,13 @@ cross_article_links:
   confidence: high
 draft: false
 backlog_release: true
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-07-22-hector-paired-with-2026-07-22-joanna-rivera-blackwell-es-toward-middle-east-giving-trump-optio
 ---
+
+![Editorial cartoon by Hector Rentier: A $73 Billion Bet on the Same Strategy That Hasn't Worked](/cartoons/a-73-billion-bet-on-the-same-strategy-that-hasnt-worked.png)
+*He called it a surge. The temple was the budget.*
 
 The United States is surging forces, medics, and weapons toward the Middle East to give President Trump more options in the war with Iran — a war that has already cost $37 billion, killed eighteen American servicemembers, and, five months in, achieved no measurable progress toward the strategic objective its architects keep naming but never define in measurable terms.
 
