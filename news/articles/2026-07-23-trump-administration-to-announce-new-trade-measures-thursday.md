@@ -1,7 +1,9 @@
 ---
 headline: Trump administration to announce new trade measures Thursday
 publish_date: '2026-07-23'
-lede: The White House said Wednesday it will unveil the latest stage of the administration’s trade policy on Thursday, amid reports that President Donald Trump is preparing a fresh wave of sweeping tariffs.
+lede: The White House said Wednesday it will unveil the latest stage of the administration’s
+  trade policy on Thursday, amid reports that President Donald Trump is preparing
+  a fresh wave of sweeping tariffs.
 primary_entities:
 - Donald Trump
 primary_themes:
@@ -26,7 +28,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -65,16 +68,6 @@ related_stories:
   publish_date: '2026-07-14'
   relation: related
   strength: 0.6525
-- slug: 2026-06-26-trump-threatens-100-tariff-on-european-nations-over-digital-services-tax
-  headline: Trump threatens 100% tariff on European nations over digital services tax
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6418
-- slug: 2026-06-14-for-us-small-businesses-trump-s-tariffs-become-a-non-issue-consultant-says
-  headline: For US small businesses, Trump's tariffs become a non-issue, consultant says
-  publish_date: '2026-06-14'
-  relation: related
-  strength: 0.6468
 - slug: 2026-06-03-us-imposes-10-12-5-tariffs-on-60-nations-over-forced-labor-concerns
   headline: US imposes 10-12.5% tariffs on 60 nations over forced labor concerns
   publish_date: '2026-06-03'
@@ -90,77 +83,30 @@ related_stories:
   publish_date: '2026-05-08'
   relation: related
   strength: 0.6608
-- slug: 2026-05-13-trump-aims-to-stabilize-trade-in-beijing-summit-with-xi
-  headline: Trump aims to stabilize trade in Beijing summit with Xi
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6499
 - slug: 2026-04-29-trump-seeks-new-import-taxes-after-supreme-court-tariff-rejection
   headline: Trump seeks new import taxes after Supreme Court tariff rejection
   publish_date: '2026-04-29'
   relation: related
   strength: 0.6712
-- slug: 2026-05-06-trump-to-host-lula-for-talks-on-economy-and-security-white-house-official-says
-  headline: Trump to host Lula for talks on economy and security, White House official says
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.6497
 - slug: 2026-04-03-trump-signs-100-tariff-order-targeting-some-patented-drugs
   headline: Trump signs 100% tariff order targeting some patented drugs
   publish_date: '2026-04-03'
   relation: related
   strength: 0.6849
-- slug: 2026-02-21-trump-raises-tariffs-to-15-despite-supreme-court-ruling
-  headline: Trump raises tariffs to 15% despite Supreme Court ruling
-  publish_date: '2026-02-21'
-  relation: related
-  strength: 0.71
-- slug: 2026-03-15-trump-seeks-to-close-1-6-trillion-revenue-gap-with-new-tariffs
-  headline: Trump seeks to close $1.6 trillion revenue gap with new tariffs
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.6865
-- slug: 2026-03-13-trump-administration-kicks-off-new-tariff-strategy-for-foreign-manufacturing
-  headline: Trump administration kicks off new tariff strategy for foreign manufacturing
-  publish_date: '2026-03-13'
-  relation: related
-  strength: 0.6854
-- slug: 2026-02-23-supreme-court-strikes-down-trump-tariffs-trump-plans-15-replacement
-  headline: Supreme Court strikes down Trump tariffs; Trump plans 15% replacement
-  publish_date: '2026-02-23'
-  relation: related
-  strength: 0.6839
-- slug: 2026-02-22-supreme-court-ruling-reshapes-us-china-trade-talks-ahead-of-trump-xi-summit
-  headline: Supreme Court ruling reshapes US-China trade talks ahead of Trump-Xi summit
-  publish_date: '2026-02-22'
-  relation: related
-  strength: 0.6626
-- slug: 2026-02-24-supreme-court-tariff-ruling-leaves-trump-trade-policy-uncertain
-  headline: Supreme Court tariff ruling leaves Trump trade policy uncertain
-  publish_date: '2026-02-24'
-  relation: related
-  strength: 0.6568
-- slug: 2026-02-20-trump-eyes-alternative-tariff-authorities-after-supreme-court-rejection
-  headline: Trump eyes alternative tariff authorities after Supreme Court rejection
-  publish_date: '2026-02-20'
-  relation: related
-  strength: 0.6581
-- slug: 2026-02-20-trump-plans-alternative-tariffs-after-supreme-court-ruling
-  headline: Trump plans alternative tariffs after Supreme Court ruling
-  publish_date: '2026-02-20'
-  relation: related
-  strength: 0.6567
 image:
   url: /articles/2026-07-23-trump-administration-to-announce-new-trade-measures-thursday.png
-  alt: "Illustration accompanying article: Trump administration to announce new trade measures Thursday"
+  alt: 'Illustration accompanying article: Trump administration to announce new trade
+    measures Thursday'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:openai/gpt-5.4-image-2"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Trump administration to announce new trade measures Thursday
 
 **Subtype:** fact

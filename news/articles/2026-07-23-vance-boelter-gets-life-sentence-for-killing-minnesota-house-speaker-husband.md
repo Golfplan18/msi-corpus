@@ -1,9 +1,17 @@
 ---
 headline: Vance Boelter gets life sentence for killing Minnesota House speaker, husband
-secondary_headline: Survivors describe lasting trauma; family anger at plea deal that avoided death penalty
+secondary_headline: Survivors describe lasting trauma; family anger at plea deal that
+  avoided death penalty
 publish_date: '2026-07-23'
-lede: Vance Boelter was sentenced Thursday to two consecutive life terms plus 40 years in federal prison for the murders of former Minnesota House Speaker Melissa Hortman and her husband Mark, and the shootings of state Sen. John Hoffman and his wife Yvette, closing the federal case more than a year after the politically motivated attacks.
-nut_graf: Boelter pleaded guilty in June to six counts to avoid the death penalty, accepting what both sides described as the maximum sentence short of execution. The sentencing hearing featured emotional victim impact statements from the Hoffmans and anger from the Hortman family that Boelter will not face execution.
+lede: Vance Boelter was sentenced Thursday to two consecutive life terms plus 40 years
+  in federal prison for the murders of former Minnesota House Speaker Melissa Hortman
+  and her husband Mark, and the shootings of state Sen. John Hoffman and his wife
+  Yvette, closing the federal case more than a year after the politically motivated
+  attacks.
+nut_graf: Boelter pleaded guilty in June to six counts to avoid the death penalty,
+  accepting what both sides described as the maximum sentence short of execution.
+  The sentencing hearing featured emotional victim impact statements from the Hoffmans
+  and anger from the Hortman family that Boelter will not face execution.
 primary_entities:
 - Vance Boelter
 - Melissa Hortman
@@ -40,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -77,7 +86,7 @@ related_stories:
   headline: Vance Boelter faces sentencing for killing Minnesota House speaker, husband
   publish_date: '2026-07-23'
   relation: related
-  strength: 0.9324
+  strength: 0.9326
 - slug: 2026-06-11-man-pleads-guilty-to-assassinating-minnesota-house-speaker-husband
   headline: Man pleads guilty to assassinating Minnesota House speaker, husband
   publish_date: '2026-06-11'
@@ -87,94 +96,13 @@ related_stories:
   headline: Vance Boelter to plead guilty in murders of Minnesota lawmaker and husband
   publish_date: '2026-06-11'
   relation: related
-  strength: 0.8331
-- slug: 2026-07-20-judge-to-rule-on-pamela-smart-s-petition-for-new-trial
-  headline: Judge to rule on Pamela Smart’s petition for new trial
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.5747
+  strength: 0.8324
 - slug: 2026-04-24-political-violence-prompts-security-upgrades-for-lawmakers
   headline: Political violence prompts security upgrades for lawmakers
   publish_date: '2026-04-24'
   relation: related
-  strength: 0.6657
-- slug: 2026-06-05-virginia-man-sentenced-to-life-for-double-murder-in-au-pair-plot
-  headline: Virginia man sentenced to life for double murder in au pair plot
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.5665
-- slug: 2026-05-18-michigan-man-wrongly-convicted-in-1990-hunters-deaths-settles-for-5-25m
-  headline: Michigan man wrongly convicted in 1990 hunters’ deaths settles for $5.25M
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.5594
-- slug: 2026-05-08-man-sentenced-to-life-in-prison-for-firebombing-colorado-demonstration
-  headline: Man sentenced to life in prison for firebombing Colorado demonstration
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.5668
-- slug: 2026-05-10-four-men-convicted-in-u-s-trial-over-2021-assassination-of-haitian-president-jov
-  headline: Four men convicted in U.S. trial over 2021 assassination of Haitian President Jovenel Moïse
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.5577
-- slug: 2026-03-12-widow-of-haiti-s-former-president-testifies-at-miami-conspiracy-trial
-  headline: Widow of Haiti’s former president testifies at Miami conspiracy trial
-  publish_date: '2026-03-12'
-  relation: related
-  strength: 0.6038
-- slug: 2026-04-20-florida-executes-chadwick-scott-willacy-for-neighbor-s-1990-murder
-  headline: Florida executes Chadwick Scott Willacy for neighbor’s 1990 murder
-  publish_date: '2026-04-20'
-  relation: related
-  strength: 0.5574
-- slug: 2026-01-06-pamela-smart-files-habeas-petition-over-husband-s-1990-murder-conviction
-  headline: Pamela Smart files habeas petition over husband's 1990 murder conviction
-  publish_date: '2026-01-06'
-  relation: related
-  strength: 0.6145
-- slug: 2026-03-09-former-missouri-house-speaker-gets-21-month-sentence-for-covid-relief-fraud
-  headline: Former Missouri House speaker gets 21-month sentence for COVID relief fraud
-  publish_date: '2026-03-09'
-  relation: related
-  strength: 0.578
-- slug: 2026-03-27-pennsylvania-high-court-requires-individualized-sentencing-for-second-degree-mur
-  headline: Pennsylvania high court requires individualized sentencing for second-degree murder
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.5573
-- slug: 2026-02-20-wisconsin-assembly-speaker-robin-vos-announces-retirement-at-end-of-year
-  headline: Wisconsin Assembly Speaker Robin Vos announces retirement at end of year
-  publish_date: '2026-02-20'
-  relation: related
-  strength: 0.5734
-- slug: 2026-03-10-alabama-governor-commutes-death-sentence-of-man-who-didn-t-fire-fatal-shot
-  headline: Alabama governor commutes death sentence of man who didn't fire fatal shot
-  publish_date: '2026-03-10'
-  relation: related
-  strength: 0.5617
-- slug: 2026-03-05-trump-pardoned-jan-6-rioter-andrew-johnson-gets-life-sentence
-  headline: Trump pardoned Jan. 6 rioter Andrew Johnson gets life sentence
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.5638
-- slug: 2026-03-10-missouri-man-gets-two-year-prison-term-after-chiefs-rally-shooting
-  headline: Missouri man gets two-year prison term after Chiefs rally shooting
-  publish_date: '2026-03-10'
-  relation: related
-  strength: 0.558
-- slug: 2026-02-28-wisconsin-man-sentenced-to-16-years-for-forged-threats-against-trump
-  headline: Wisconsin man sentenced to 16½ years for forged threats against Trump
-  publish_date: '2026-02-28'
-  relation: related
-  strength: 0.5597
-- slug: 2026-01-22-missouri-house-reprimands-lawmaker-for-sexually-vulgar-text-to-colleague
-  headline: Missouri House reprimands lawmaker for sexually vulgar text to colleague
-  publish_date: '2026-01-22'
-  relation: related
-  strength: 0.5696
+  strength: 0.6679
 ---
-
 ## Vance Boelter gets life sentence for killing Minnesota House speaker, husband
 
 **Subtype:** fact
