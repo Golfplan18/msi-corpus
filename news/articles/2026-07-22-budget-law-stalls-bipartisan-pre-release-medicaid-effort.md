@@ -197,6 +197,8 @@ related_stories:
   publish_date: '2026-03-02'
   relation: related
   strength: 0.6717
+analyses:
+- '2026-07-22-how-the-one-big-beautiful-bill-is-quietly-killing-a-bipartisan-win-on-prisoner-h'
 ---
 ## Budget law stalls bipartisan pre-release Medicaid effort
 
@@ -240,3 +242,8 @@ After each release, jailers gave him a phone number to call to enroll in Medicai
 **Publication date:** 2026-07-22
 **Title:** States want to bring Medicaid behind bars. Federal changes make that harder
 **URL:** https://www.npr.org/2026/07/22/nx-s1-5896456/medicaid-cuts-incarceration-states-obbba
+
+---
+
+<!-- analysis-link:2026-07-22-how-the-one-big-beautiful-bill-is-quietly-killing-a-bipartisan-win-on-prisoner-h -->
+**Going deeper:** [Read MSI's analysis of A federal budget law's competing mandates are starving a pre-release Medicaid enrollment program that had shown clear evidence of reducing recidivism and saving lives. →](/analyses/2026-07-22-how-the-one-big-beautiful-bill-is-quietly-killing-a-bipartisan-win-on-prisoner-h)
