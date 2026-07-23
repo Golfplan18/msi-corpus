@@ -37,7 +37,8 @@ topic_tags:
 - economy
 - government policy
 - law enforcement
-storyline_nexus: []
+storyline_nexus:
+- ai-industry-regulation
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
