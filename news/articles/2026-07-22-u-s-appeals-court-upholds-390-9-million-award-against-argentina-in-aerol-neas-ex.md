@@ -156,6 +156,8 @@ image:
   disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
   ai_model: "openrouter:openai/gpt-5.4-image-2"
   ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+analyses:
+- '2026-07-22-argentina-s-390-9-million-expropriation-bill-comes-due'
 ---
 ## U.S. appeals court upholds $390.9 million award against Argentina in Aerolíneas expropriation case
 
@@ -191,3 +193,8 @@ The ruling comes as the government of President Javier Milei pursues a strategy 
 **Publication date:** 2026-07-22
 **Title:** U.S. court orders Argentina to pay $390.9M in Aerolíneas appropriation
 **URL:** https://www.upi.com/Top_News/World-News/2026/07/22/latam-argentina-Aerolneas-Argentinas-court-ruling/1071784730256/
+
+---
+
+<!-- analysis-link:2026-07-22-argentina-s-390-9-million-expropriation-bill-comes-due -->
+**Going deeper:** [Read MSI's analysis of Aerolíneas enforcement exposure →](/analyses/2026-07-22-argentina-s-390-9-million-expropriation-bill-comes-due)
