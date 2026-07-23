@@ -87,6 +87,8 @@ related_stories:
   publish_date: '2026-05-31'
   relation: related
   strength: 0.6991
+analyses:
+- '2026-07-22-seoul-mayor-oh-se-hoon-s-conviction-exposes-the-three-hop-financial-relay-that-c'
 ---
 ## Seoul mayor fined $6,600 for illegal polls, faces removal
 
@@ -133,3 +135,8 @@ MSI previously reported that prosecutors had sought an 18-month prison sentence 
 **Publication date:** 2026-07-22
 **Title:** Seoul mayor fined $6,600 in poll-payment case
 **URL:** https://www.upi.com/Top_News/World-News/2026/07/22/oh-se-hoon-fined-10-million-won/2671784755148/
+
+---
+
+<!-- analysis-link:2026-07-22-seoul-mayor-oh-se-hoon-s-conviction-exposes-the-three-hop-financial-relay-that-c -->
+**Going deeper:** [Read MSI's analysis of Oh Se-hoon, Political Funds Act, Myung Tae-kyun, campaign finance intermediary, Supreme Court ruling, Seoul mayoral by‑election →](/analyses/2026-07-22-seoul-mayor-oh-se-hoon-s-conviction-exposes-the-three-hop-financial-relay-that-c)
