@@ -186,6 +186,8 @@ related_stories:
   publish_date: '2026-01-03'
   relation: related
   strength: 0.6544
+analyses:
+- '2026-07-22-one-million-apartments-four-incompatible-definitions-of-fairness-the-paradigm-co'
 ---
 ## Five landlords challenge NYC rent freeze in state court
 
@@ -224,3 +226,8 @@ Arpit Gupta, the sole board member who voted against the freeze, had called for 
 **Publication date:** 2026-07-22
 **Title:** NYC Landlords Sue City Over Mamdani-Backed Rent Freeze
 **URL:** https://www.wsj.com/real-estate/new-york-city-rent-freeze-lawsuit-landlords-5467b881
+
+---
+
+<!-- analysis-link:2026-07-22-one-million-apartments-four-incompatible-definitions-of-fairness-the-paradigm-co -->
+**Going deeper:** [Read MSI's analysis of This piece was produced by integrating three analytical modes — a red-team assessment of the source architecture, a strategic-interaction game-theory model, and a worldview-cartography mapping of the competing paradigms — into a single narrative under news-floor discipline. The tail-edit topic is: the frameworks of success criteria. →](/analyses/2026-07-22-one-million-apartments-four-incompatible-definitions-of-fairness-the-paradigm-co)
