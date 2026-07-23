@@ -195,6 +195,8 @@ image:
   disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
   ai_model: "openrouter:openai/gpt-5.4-image-2"
   ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+analyses:
+- '2026-07-22-the-37-billion-trap-a-fragile-funding-mandate-iran-s-ceasefire-weapons-blitz-and'
 ---
 ## US surges forces to Middle East as Trump weighs expanding Iran war
 
@@ -248,3 +250,8 @@ Iran, which the Journal reported spent a tenuous ceasefire reconstituting weapon
 **Publication date:** 2026-07-22
 **Title:** U.S. Surges Forces Toward Middle East, Giving Trump Options to Expand Iran War
 **URL:** https://www.wsj.com/world/middle-east/u-s-surges-forces-toward-middle-east-giving-trump-options-to-expand-iran-war-e5d627b1
+
+---
+
+<!-- analysis-link:2026-07-22-the-37-billion-trap-a-fragile-funding-mandate-iran-s-ceasefire-weapons-blitz-and -->
+**Going deeper:** [Read MSI's analysis of The White House is racing toward the brink, but the structure of the game itself — where each Iranian counterattack deepens the fiscal hole that narrows the political path to resolution — makes escalation the only way to avoid losing a vote on Capitol Hill. →](/analyses/2026-07-22-the-37-billion-trap-a-fragile-funding-mandate-iran-s-ceasefire-weapons-blitz-and)
