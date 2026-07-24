@@ -29,7 +29,8 @@ topic_tags:
 - international relations
 - politics
 - government
-storyline_nexus: []
+storyline_nexus:
+- israel-hezbollah-lebanon-war
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
