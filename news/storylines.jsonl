@@ -75,6 +75,7 @@
 {"slug": "us-china-relations", "article_count": 3, "first_seen": "2026-07-14", "last_seen": "2026-07-21", "articles": ["2026-07-14-china-charges-u-s-seismologist-with-espionage-after-secret-detention", "2026-07-15-global-favorability-shifts-from-us-to-china-pew-survey-finds", "2026-07-21-trump-accuses-china-of-voter-file-hack-as-both-sides-keep-summit-plans"]}
 {"slug": "2026 midterm elections", "article_count": 2, "first_seen": "2026-07-20", "last_seen": "2026-07-23", "articles": ["2026-07-20-fontes-says-trump-election-claims-are-top-concern-for-arizona-voting", "2026-07-23-shah-wins-arizona-democratic-primary-rejects-party-backed-rival"]}
 {"slug": "US-Iran conflict", "article_count": 2, "first_seen": "2026-07-09", "last_seen": "2026-07-22", "articles": ["2026-07-09-u-s-airstrikes-kill-14-in-iran-over-two-days-health-ministry-reports", "2026-07-22-trump-on-truth-social-threatens-iranian-bridges-and-power-plants-over-hormuz-att"]}
+{"slug": "ai-infrastructure", "article_count": 2, "first_seen": "2026-07-22", "last_seen": "2026-07-24", "articles": ["2026-07-22-wistron-opens-700-million-texas-factory-to-produce-nvidia-ai-superchips", "2026-07-24-ai-data-center-demand-drives-u-s-power-plant-costs-up-10"]}
 {"slug": "apple-supply-chain", "article_count": 2, "first_seen": "2026-07-08", "last_seen": "2026-07-12", "articles": ["2026-07-08-apple-commits-30-billion-to-broadcom-for-u-s-radio-chip-production", "2026-07-12-analysts-expect-200-iphone-18-pro-price-hike-this-fall"]}
 {"slug": "aviation", "article_count": 2, "first_seen": "2026-07-13", "last_seen": "2026-07-14", "articles": ["2026-07-13-pilot-airlifted-after-small-helicopter-crash-near-larkspur", "2026-07-14-sully-sullenberger-announces-early-stage-alzheimer-s-diagnosis"]}
 {"slug": "aviation-safety", "article_count": 2, "first_seen": "2026-07-16", "last_seen": "2026-07-21", "articles": ["2026-07-16-navy-blue-angels-jet-flies-low-over-pensacola-beach-prompting-safety-review", "2026-07-21-wreckage-of-pan-am-plane-found-74-years-after-crash-that-spurred-safety-briefing"]}
@@ -178,6 +179,7 @@
 {"slug": "academic-freedom", "article_count": 1, "first_seen": "2026-07-21", "last_seen": "2026-07-21", "articles": ["2026-07-21-faculty-groups-sue-texas-tech-over-directives-restricting-race-gender-instructio"]}
 {"slug": "affordability", "article_count": 1, "first_seen": "2026-07-20", "last_seen": "2026-07-20", "articles": ["2026-07-20-minnesota-math-teacher-jake-johnson-runs-for-congress-on-affordability"]}
 {"slug": "africa-energy-access", "article_count": 1, "first_seen": "2026-07-09", "last_seen": "2026-07-09", "articles": ["2026-07-09-african-countries-secure-900-million-in-new-clean-cooking-commitments"]}
+{"slug": "africa-industrialization", "article_count": 1, "first_seen": "2026-07-24", "last_seen": "2026-07-24", "articles": ["2026-07-24-afdb-approves-110m-loan-for-africa-s-first-ev-battery-gigafactory-in-morocco"]}
 {"slug": "aging-america", "article_count": 1, "first_seen": "2026-07-19", "last_seen": "2026-07-19", "articles": ["2026-07-19-minnesota-law-allows-nursing-home-happy-hours-without-liquor-license"]}
 {"slug": "ai-backlash", "article_count": 1, "first_seen": "2026-07-21", "last_seen": "2026-07-21", "articles": ["2026-07-21-data-center-bans-strikes-and-lawsuits-signal-ai-backlash-s-new-phase"]}
 {"slug": "ai-capital-race", "article_count": 1, "first_seen": "2026-07-15", "last_seen": "2026-07-15", "articles": ["2026-07-15-deepseek-prepares-for-shanghai-ipo-as-soon-as-q2-2027"]}
@@ -191,7 +193,6 @@
 {"slug": "ai-governance", "article_count": 1, "first_seen": "2026-07-16", "last_seen": "2026-07-16", "articles": ["2026-07-16-ai-chatbots-more-likely-to-refuse-criticism-of-restrictive-governments-study-fin"]}
 {"slug": "ai-impact", "article_count": 1, "first_seen": "2026-07-24", "last_seen": "2026-07-24", "articles": ["2026-07-24-schneier-proposes-work-vs-gym-test-for-ai-use-decisions"]}
 {"slug": "ai-industry", "article_count": 1, "first_seen": "2026-07-11", "last_seen": "2026-07-11", "articles": ["2026-07-11-palantir-ceo-karp-channels-enterprise-anger-at-ai-lab-business-model"]}
-{"slug": "ai-infrastructure", "article_count": 1, "first_seen": "2026-07-22", "last_seen": "2026-07-22", "articles": ["2026-07-22-wistron-opens-700-million-texas-factory-to-produce-nvidia-ai-superchips"]}
 {"slug": "ai-market-consolidation", "article_count": 1, "first_seen": "2026-07-23", "last_seen": "2026-07-23", "articles": ["2026-07-23-stripe-in-talks-to-buy-ai-marketplace-openrouter-for-about-10b"]}
 {"slug": "ai-power-demand", "article_count": 1, "first_seen": "2026-07-10", "last_seen": "2026-07-10", "articles": ["2026-07-10-qcells-wins-epc-contract-for-massive-arizona-solar-storage-complex"]}
 {"slug": "ai-security", "article_count": 1, "first_seen": "2026-07-21", "last_seen": "2026-07-21", "articles": ["2026-07-21-openai-says-its-ai-models-hacked-hugging-face-on-their-own"]}
@@ -333,6 +334,7 @@
 {"slug": "elections", "article_count": 1, "first_seen": "2026-07-21", "last_seen": "2026-07-21", "articles": ["2026-07-21-trump-to-rally-in-michigan-as-early-voting-begins-in-primary"]}
 {"slug": "elections-voting-democracy", "article_count": 1, "first_seen": "2026-07-17", "last_seen": "2026-07-17", "articles": ["2026-07-17-trump-uses-prime-time-speech-to-allege-election-system-compromised"]}
 {"slug": "electric-vehicle-industry-turmoil", "article_count": 1, "first_seen": "2026-07-14", "last_seen": "2026-07-14", "articles": ["2026-07-14-lucid-hires-turnaround-firm-alixpartners-denies-bankruptcy-reports"]}
+{"slug": "electric-vehicle-supply-chain", "article_count": 1, "first_seen": "2026-07-24", "last_seen": "2026-07-24", "articles": ["2026-07-24-afdb-approves-110m-loan-for-africa-s-first-ev-battery-gigafactory-in-morocco"]}
 {"slug": "elon-musk-legal", "article_count": 1, "first_seen": "2026-07-09", "last_seen": "2026-07-09", "articles": ["2026-07-09-judge-approves-musk-s-1-5m-sec-settlement-with-significant-misgivings"]}
 {"slug": "enbridge-line-5", "article_count": 1, "first_seen": "2026-07-16", "last_seen": "2026-07-16", "articles": ["2026-07-16-michigan-regulators-issue-key-permits-for-enbridge-line-5-tunnel-project"]}
 {"slug": "energy", "article_count": 1, "first_seen": "2026-07-16", "last_seen": "2026-07-16", "articles": ["2026-07-16-iraq-syria-us-back-pipeline-to-bypass-strait-of-hormuz"]}
@@ -392,6 +394,7 @@
 {"slug": "google-ai-search-and-publishers", "article_count": 1, "first_seen": "2026-07-22", "last_seen": "2026-07-22", "articles": ["2026-07-22-publishers-consider-blocking-google-as-ai-search-erodes-traffic"]}
 {"slug": "government-intelligence", "article_count": 1, "first_seen": "2026-07-22", "last_seen": "2026-07-22", "articles": ["2026-07-22-r-james-woolsey-cia-director-under-clinton-dies-at-84"]}
 {"slug": "government-shutdown", "article_count": 1, "first_seen": "2026-07-21", "last_seen": "2026-07-21", "articles": ["2026-07-21-house-republicans-set-tuesday-vote-on-stopgap-funding-through-dec-4"]}
+{"slug": "grid-buildout", "article_count": 1, "first_seen": "2026-07-24", "last_seen": "2026-07-24", "articles": ["2026-07-24-ai-data-center-demand-drives-u-s-power-plant-costs-up-10"]}
 {"slug": "guaranteed-income", "article_count": 1, "first_seen": "2026-07-10", "last_seen": "2026-07-10", "articles": ["2026-07-10-magnolia-mother-s-trust-selects-ninth-cohort-of-black-mothers-in-jackson"]}
 {"slug": "gulf-energy-crisis", "article_count": 1, "first_seen": "2026-07-10", "last_seen": "2026-07-10", "articles": ["2026-07-10-oil-heads-for-weekly-gain-as-u-s--iran-strikes-keep-strait-of-hormuz-quiet"]}
 {"slug": "gun-rights", "article_count": 1, "first_seen": "2026-07-17", "last_seen": "2026-07-17", "articles": ["2026-07-17-3rd-circuit-voids-new-jersey-s-assault-weapons-ban"]}
@@ -472,6 +475,7 @@
 {"slug": "markets-and-economy", "article_count": 1, "first_seen": "2026-07-08", "last_seen": "2026-07-08", "articles": ["2026-07-08-global-m-a-volume-tops-3-trillion-in-record-breaking-first-half-on-ai-megadeals"]}
 {"slug": "markets-and-trade", "article_count": 1, "first_seen": "2026-07-13", "last_seen": "2026-07-13", "articles": ["2026-07-13-oxford-nanopore-shares-slide-11-after-revenue-below-management-expectations"]}
 {"slug": "mass-shootings", "article_count": 1, "first_seen": "2026-07-19", "last_seen": "2026-07-19", "articles": ["2026-07-19-19-injured-in-two-overnight-shootings-in-tucson-and-minneapolis"]}
+{"slug": "measles-resurgence", "article_count": 1, "first_seen": "2026-07-24", "last_seen": "2026-07-24", "articles": ["2026-07-24-us-measles-tally-passes-2025-record-with-months-still-to-go"]}
 {"slug": "media-ownership", "article_count": 1, "first_seen": "2026-07-06", "last_seen": "2026-07-06", "articles": ["2026-07-06-comcast-s-sky-agrees-1-6bn-deal-to-buy-itv-s-free-to-air-channels-and-itvx"]}
 {"slug": "memphis-safe-task-force", "article_count": 1, "first_seen": "2026-07-08", "last_seen": "2026-07-08", "articles": ["2026-07-08-federal-agents-kill-fourth-person-in-memphis-anticrime-taskforce-operation"]}
 {"slug": "memphis-task-force", "article_count": 1, "first_seen": "2026-07-21", "last_seen": "2026-07-21", "articles": ["2026-07-21-memphis-pizza-shop-owner-refuses-guard-service-business-surges"]}

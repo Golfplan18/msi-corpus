@@ -114,6 +114,8 @@ related_stories:
   publish_date: '2026-04-29'
   relation: related
   strength: 0.6532
+analyses:
+- '2026-07-23-ai-power-stocks-are-not-in-a-correction-they-are-in-a-structural-trap-with-room'
 ---
 ## AI power stocks decline as investors grow wary of future demand
 
@@ -154,3 +156,8 @@ GE Vernova, which makes gas turbines, this week reported an 88% increase in orde
 **Publication date:** 2026-07-23
 **Title:** Investors Are Getting Pickier With Their AI Power Plays
 **URL:** https://www.wsj.com/business/energy-oil/investors-are-getting-pickier-with-their-ai-power-plays-ec172ef6
+
+---
+
+<!-- analysis-link:2026-07-23-ai-power-stocks-are-not-in-a-correction-they-are-in-a-structural-trap-with-room -->
+**Going deeper:** [Read MSI's analysis of The repricing of AI electricity-supply stocks is a structural shift driven by two independent clocks — a narrowing financial discount horizon and a physical construction ceiling that operates on its own schedule — and that shift still has room to run for the companies most exposed to distant revenue timelines. →](/analyses/2026-07-23-ai-power-stocks-are-not-in-a-correction-they-are-in-a-structural-trap-with-room)
