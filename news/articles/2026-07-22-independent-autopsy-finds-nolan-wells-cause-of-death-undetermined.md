@@ -92,6 +92,8 @@ related_stories:
   publish_date: '2026-07-15'
   relation: related
   strength: 0.7691
+analyses:
+- '2026-07-22-how-a-forensic-deadlock-laid-bare-the-gaps-in-mississippi-s-death-investigation'
 ---
 ## Independent autopsy finds Nolan Wells' cause of death undetermined
 
@@ -133,3 +135,8 @@ Wells was laid to rest in Ocean Springs, Mississippi, his hometown, on Monday. D
 **Publication date:** 2026-07-22
 **Title:** Nolan Wells’ autopsy inconclusive as family presses for answers in teen’s death
 **URL:** https://www.theguardian.com/us-news/2026/jul/22/nolan-wells-autopsy-results
+
+---
+
+<!-- analysis-link:2026-07-22-how-a-forensic-deadlock-laid-bare-the-gaps-in-mississippi-s-death-investigation -->
+**Going deeper:** [Read MSI's analysis of This piece examines the systemic procedural breakdowns — delayed autopsy access, missing evidentiary documentation, premature public declarations, and the absence of compulsory witness canvassing — that have prevented a determination in the Nolan Wells case. It does not speculate on cause of death but maps the investigative structure that produced the impasse. →](/analyses/2026-07-22-how-a-forensic-deadlock-laid-bare-the-gaps-in-mississippi-s-death-investigation)
