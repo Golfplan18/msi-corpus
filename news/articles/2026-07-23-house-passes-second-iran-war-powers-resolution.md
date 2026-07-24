@@ -198,6 +198,8 @@ image:
   disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
   ai_model: "openrouter:openai/gpt-5.4-image-2"
   ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+analyses:
+- '2026-07-23-congress-keeps-voting-to-end-a-war-the-executive-branch-keeps-funding-and-the-sy'
 ---
 ## House passes second Iran war powers resolution
 
@@ -240,3 +242,8 @@ Continued American airstrikes are occurring as diplomatic efforts show little pu
 **Publication date:** 2026-07-23
 **Title:** House again passes resolution seeking to halt military action in Iran
 **URL:** https://apnews.com/article/iran-congress-war-powers-resolution-vote-0ba2387a476fe08de0bfd6281adb9639
+
+---
+
+<!-- analysis-link:2026-07-23-congress-keeps-voting-to-end-a-war-the-executive-branch-keeps-funding-and-the-sy -->
+**Going deeper:** [Read MSI's analysis of Institutional deadlock and the unenforceable war powers resolution →](/analyses/2026-07-23-congress-keeps-voting-to-end-a-war-the-executive-branch-keeps-funding-and-the-sy)
