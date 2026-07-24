@@ -148,6 +148,8 @@ related_stories:
   publish_date: '2026-04-19'
   relation: related
   strength: 0.6746
+analyses:
+- '2026-07-22-lee-jae-myung-s-11-day-tour-supply-chain-geopolitics-in-disguise'
 ---
 ## Lee Jae Myung begins 11-day trip to US, South America
 
@@ -188,3 +190,8 @@ Lee will wrap up his trip in Frankfurt, Germany, where he will hold a meeting wi
 **Publication date:** 2026-07-22
 **Title:** South Korean president to visit U.S., South America
 **URL:** https://www.upi.com/Top_News/World-News/2026/07/22/lee-jae-myung-11-day-trip-us-south-american-countries/6691784755385/
+
+---
+
+<!-- analysis-link:2026-07-22-lee-jae-myung-s-11-day-tour-supply-chain-geopolitics-in-disguise -->
+**Going deeper:** [Read MSI's analysis of Critical-mineral diplomacy and supply-chain diversification →](/analyses/2026-07-22-lee-jae-myung-s-11-day-tour-supply-chain-geopolitics-in-disguise)
