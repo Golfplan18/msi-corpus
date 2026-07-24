@@ -68,6 +68,8 @@ figures_aggregate:
 cross_article_links: []
 draft: false
 related_stories: []
+analyses:
+- '2026-07-24-west-virginia-s-ascend-wv-retains-96-of-participants-the-real-mechanism-isn-t-th'
 ---
 ## West Virginia's Ascend WV retains 96% of remote work participants
 
@@ -105,3 +107,8 @@ Evan Starr, a professor at the University of Maryland, told NPR that the cash in
 **Publication date:** 2026-07-24
 **Title:** West Virginia paid digital nomads to move there during COVID. Many are staying
 **URL:** https://www.npr.org/2026/07/24/nx-s1-5869402/remote-work-west-virginia-cash-incentive
+
+---
+
+<!-- analysis-link:2026-07-24-west-virginia-s-ascend-wv-retains-96-of-participants-the-real-mechanism-isn-t-th -->
+**Going deeper:** [Read MSI's analysis of Whether the program's three spin-off cohorts (graduates, teachers, veterans) will match the 96% retention figure, given different outside-option distributions and the absence of public exit-survey data on why the 4% left. →](/analyses/2026-07-24-west-virginia-s-ascend-wv-retains-96-of-participants-the-real-mechanism-isn-t-th)
