@@ -20,7 +20,8 @@ topic_tags:
 - education
 - employment
 - government policy
-storyline_nexus: []
+storyline_nexus:
+- aca-medicaid-healthcare-crisis
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness
