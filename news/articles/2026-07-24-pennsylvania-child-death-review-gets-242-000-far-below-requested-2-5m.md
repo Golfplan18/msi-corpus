@@ -24,7 +24,8 @@ topic_tags:
 - crime, law and justice
 - social condition
 - health
-storyline_nexus: []
+storyline_nexus:
+- aca-medicaid-healthcare-crisis
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness

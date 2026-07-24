@@ -26,7 +26,8 @@ topic_tags:
 - armed conflict
 - energy and resource
 - international relations
-storyline_nexus: []
+storyline_nexus:
+- the-iran-war
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
