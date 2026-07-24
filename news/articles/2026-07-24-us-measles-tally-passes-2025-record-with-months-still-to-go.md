@@ -160,6 +160,15 @@ related_stories:
   publish_date: '2026-01-16'
   relation: related
   strength: 0.7286
+image:
+  url: /articles/2026-07-24-us-measles-tally-passes-2025-record-with-months-still-to-go.png
+  alt: "Illustration accompanying article: US measles tally passes 2025 record with months still to go"
+  credit: Main Street Independent (algorithmic)
+  source: ai_generated
+  license: "https://creativecommons.org/publicdomain/zero/1.0/"
+  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  ai_model: "openrouter:openai/gpt-5.4-image-2"
+  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
 ---
 ## US measles tally passes 2025 record with months still to go
 

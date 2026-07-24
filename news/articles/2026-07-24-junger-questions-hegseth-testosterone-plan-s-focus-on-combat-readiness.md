@@ -24,7 +24,8 @@ topic_tags:
 - conflict, war and peace
 - health treatment and procedure
 - mental health
-storyline_nexus: []
+storyline_nexus:
+- trump-health-policy-rfk
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
