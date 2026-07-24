@@ -182,6 +182,8 @@ image:
   disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
   ai_model: "openrouter:openai/gpt-5.4-image-2"
   ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+analyses:
+- '2026-07-23-the-subpoena-signal-why-the-trump-administration-s-move-against-the-new-york-tim'
 ---
 ## New York Times argues subpoenas are retaliation for reporting
 
@@ -219,3 +221,8 @@ The hearing before Judge Subramanian in Manhattan federal court is the latest ch
 **Publication date:** 2026-07-23
 **Title:** 'New York Times' alleges White House abuses legal system to intimidate reporters
 **URL:** https://www.npr.org/2026/07/23/nx-s1-5903854/trump-new-air-force-one-nyt-subpoenas
+
+---
+
+<!-- analysis-link:2026-07-23-the-subpoena-signal-why-the-trump-administration-s-move-against-the-new-york-tim -->
+**Going deeper:** [Read MSI's analysis of The structural topology of the conflict means no single judicial ruling, including Judge Subramanian’s decision on the motion to quash, can resolve the broader confrontation, and the game-theoretic logic suggests the administration’s deviation from standard investigative procedures has already revealed its type, making a coordinated press response the most likely equilibrium. →](/analyses/2026-07-23-the-subpoena-signal-why-the-trump-administration-s-move-against-the-new-york-tim)
