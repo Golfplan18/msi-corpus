@@ -181,6 +181,8 @@ image:
   disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
   ai_model: "openrouter:openai/gpt-5.4-image-2"
   ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+analyses:
+- '2026-07-23-jordan-s-smith-referral-rests-on-a-legal-theory-his-own-letter-undercuts'
 ---
 ## Jordan refers Smith to DOJ over alleged false congressional testimony
 
@@ -223,3 +225,8 @@ In October, Jordan demanded that Smith testify about his criminal probes followi
 **Publication date:** 2026-07-23
 **Title:** Rep. Jim Jordan refers former special council Jack Smith to DOJ
 **URL:** https://www.upi.com/Top_News/US/2026/07/23/Jim-Jordan-refers-Jack-Smith-DOJ/7831784792025/
+
+---
+
+<!-- analysis-link:2026-07-23-jordan-s-smith-referral-rests-on-a-legal-theory-his-own-letter-undercuts -->
+**Going deeper:** [Read MSI's analysis of The procedural gap at the center of the referral — and the political calculation that will decide its fate →](/analyses/2026-07-23-jordan-s-smith-referral-rests-on-a-legal-theory-his-own-letter-undercuts)
