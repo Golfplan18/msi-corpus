@@ -2,8 +2,13 @@
 headline: Sons of Houston man killed by ICE testify at congressional hearing
 secondary_headline: Father had lived in U.S. for 35 years, ran homebuilding business
 publish_date: '2026-07-24'
-lede: The two sons of Lorenzo Salgado Araujo testified Friday before the Congressional Hispanic Caucus in Houston, describing the horror and confusion of learning their father had been killed by Immigration and Customs Enforcement officers and calling for a transparent investigation into his death.
-nut_graf: The hearing, held with Democratic members of Congress, came more than two weeks after the July 7 shooting, as the family presses for clarity about the circumstances of Salgado Araujo's death.
+lede: The two sons of Lorenzo Salgado Araujo testified Friday before the Congressional
+  Hispanic Caucus in Houston, describing the horror and confusion of learning their
+  father had been killed by Immigration and Customs Enforcement officers and calling
+  for a transparent investigation into his death.
+nut_graf: The hearing, held with Democratic members of Congress, came more than two
+  weeks after the July 7 shooting, as the family presses for clarity about the circumstances
+  of Salgado Araujo's death.
 primary_entities:
 - Lorenzo Salgado Araujo
 - Ronaldo Salgado
@@ -37,7 +42,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -136,7 +142,8 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-07-18-u-s-attorney-says-ice-agents-were-seeking-other-men-in-fatal-houston-shooting
-  headline: U.S. attorney says ICE agents were seeking other men in fatal Houston shooting
+  headline: U.S. attorney says ICE agents were seeking other men in fatal Houston
+    shooting
   publish_date: '2026-07-18'
   relation: related
   strength: 0.8412
@@ -161,12 +168,14 @@ related_stories:
   relation: related
   strength: 0.7728
 - slug: 2026-07-22-mother-seeks-accountability-16-months-after-ice-agent-killed-her-son-in-texas
-  headline: Mother seeks accountability 16 months after ICE agent killed her son in Texas
+  headline: Mother seeks accountability 16 months after ICE agent killed her son in
+    Texas
   publish_date: '2026-07-22'
   relation: related
   strength: 0.7103
 - slug: 2026-07-15-mexico-requests-us-criminal-investigations-after-17-mexican-immigrants-die-in-ic
-  headline: Mexico requests US criminal investigations after 17 Mexican immigrants die in ICE custody
+  headline: Mexico requests US criminal investigations after 17 Mexican immigrants
+    die in ICE custody
   publish_date: '2026-07-15'
   relation: related
   strength: 0.7361
@@ -175,68 +184,7 @@ related_stories:
   publish_date: '2026-07-07'
   relation: related
   strength: 0.7805
-- slug: 2026-07-19-guardian-columnist-calls-for-ice-prosecutions-after-fatal-shootings
-  headline: Guardian columnist calls for ICE prosecutions after fatal shootings
-  publish_date: '2026-07-19'
-  relation: related
-  strength: 0.6785
-- slug: 2026-07-08-ice-officer-fatally-shoots-mexican-immigrant-in-houston-dhs-says
-  headline: ICE officer fatally shoots Mexican immigrant in Houston, DHS says
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.7416
-- slug: 2026-07-13-biddeford-death-during-ice-operation-draws-fbi-investigation
-  headline: Biddeford death during ICE operation draws FBI investigation
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.7039
-- slug: 2026-07-16-half-of-ice-field-offices-still-lack-body-cameras-after-recent-fatal-shootings
-  headline: Half of ICE field offices still lack body cameras after recent fatal shootings
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.6429
-- slug: 2026-07-15-venezuelan-detainee-dies-in-ice-custody-during-georgia-transfer-22nd-death-this-
-  headline: Venezuelan detainee dies in ICE custody during Georgia transfer, 22nd death this year
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.6432
-- slug: 2026-07-15-arenas-silva-dies-during-transfer-between-georgia-detention-facilities
-  headline: Arenas-Silva dies during transfer between Georgia detention facilities
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.6344
-- slug: 2026-05-05-man-shot-by-ice-in-california-pleads-not-guilty-to-federal-charges
-  headline: Man shot by ICE in California pleads not guilty to federal charges
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.6667
-- slug: 2026-04-21-judge-orders-man-shot-by-ice-in-california-to-remain-in-custody
-  headline: Judge orders man shot by ICE in California to remain in custody
-  publish_date: '2026-04-21'
-  relation: related
-  strength: 0.6676
-- slug: 2026-04-14-man-shot-by-ice-in-california-arrested-by-fbi-attorney-says
-  headline: Man shot by ICE in California arrested by FBI, attorney says
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.667
-- slug: 2026-04-10-california-man-shot-by-ice-agents-denies-gang-ties
-  headline: California man shot by ICE agents denies gang ties
-  publish_date: '2026-04-10'
-  relation: related
-  strength: 0.6486
-- slug: 2026-04-08-immigration-officers-say-they-shot-suspected-gang-member-in-california
-  headline: Immigration officers say they shot suspected gang member in California
-  publish_date: '2026-04-08'
-  relation: related
-  strength: 0.6342
-- slug: 2026-03-27-video-shows-minnesota-dad-and-boy-were-moved-to-ice-detention-by-delta
-  headline: Video shows Minnesota dad and boy were moved to ICE detention by Delta
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.6392
 ---
-
 ## Sons of Houston man killed by ICE testify at congressional hearing
 
 **Subtype:** fact
