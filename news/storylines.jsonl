@@ -104,6 +104,7 @@
 {"slug": "redistricting-2026", "article_count": 2, "first_seen": "2026-07-11", "last_seen": "2026-07-23", "articles": ["2026-07-11-supreme-court-reinstatement-of-alabama-map-eliminates-second-democratic-district", "2026-07-23-republican-led-states-redraw-majority-black-congressional-districts-across-the-s"]}
 {"slug": "semiconductor-supply-chain", "article_count": 2, "first_seen": "2026-07-11", "last_seen": "2026-07-16", "articles": ["2026-07-11-trump-administration-takes-10-stake-in-intel-apple-nvidia-sign-deals", "2026-07-16-tsmc-posts-fifth-straight-record-profit-on-surging-ai-demand"]}
 {"slug": "strait-of-hormuz", "article_count": 2, "first_seen": "2026-07-14", "last_seen": "2026-07-20", "articles": ["2026-07-14-us-launches-third-night-of-strikes-on-iran-as-fighting-intensifies-in-strait-of-", "2026-07-20-us-strikes-iran-for-9th-consecutive-night-as-hormuz-conflict-continues"]}
+{"slug": "texas-politics", "article_count": 2, "first_seen": "2026-07-10", "last_seen": "2026-07-24", "articles": ["2026-07-10-texas-democrat-says-110m-starlink-grants-look-like-corruption", "2026-07-24-texas-appeals-court-overturns-order-closing-midwife-clinics"]}
 {"slug": "trade", "article_count": 2, "first_seen": "2026-07-10", "last_seen": "2026-07-23", "articles": ["2026-07-10-china-invokes-foreign-trade-law-to-halt-helium-exports", "2026-07-23-trump-administration-imposes-10-to-12-5-forced-labor-tariffs-on-countries"]}
 {"slug": "trump-accounts", "article_count": 2, "first_seen": "2026-07-11", "last_seen": "2026-07-22", "articles": ["2026-07-11-trump-accounts-launch-with-1-000-for-newborns-as-experts-question-reach", "2026-07-22-some-parents-still-waiting-as-trump-touts-baby-investment-accounts"]}
 {"slug": "trump-legal", "article_count": 2, "first_seen": "2026-07-14", "last_seen": "2026-07-21", "articles": ["2026-07-14-court-releases-5-6m-to-e-jean-carroll-after-trump-39-s-appeals-fail", "2026-07-21-judge-orders-trump-to-release-financial-records-in-bbc-defamation-case"]}
@@ -176,6 +177,7 @@
 {"slug": "War in Iran", "article_count": 1, "first_seen": "2026-07-22", "last_seen": "2026-07-22", "articles": ["2026-07-22-japan-exports-rise-19-in-june-as-imports-gain-25"]}
 {"slug": "Weather", "article_count": 1, "first_seen": "2026-07-21", "last_seen": "2026-07-21", "articles": ["2026-07-21-tropical-storm-bertha-threatens-gulf-coast-with-heavy-rain-storm-surge"]}
 {"slug": "Yen weakness", "article_count": 1, "first_seen": "2026-07-22", "last_seen": "2026-07-22", "articles": ["2026-07-22-japan-exports-rise-19-in-june-as-imports-gain-25"]}
+{"slug": "abortion-policy", "article_count": 1, "first_seen": "2026-07-24", "last_seen": "2026-07-24", "articles": ["2026-07-24-texas-appeals-court-overturns-order-closing-midwife-clinics"]}
 {"slug": "academic-freedom", "article_count": 1, "first_seen": "2026-07-21", "last_seen": "2026-07-21", "articles": ["2026-07-21-faculty-groups-sue-texas-tech-over-directives-restricting-race-gender-instructio"]}
 {"slug": "affordability", "article_count": 1, "first_seen": "2026-07-20", "last_seen": "2026-07-20", "articles": ["2026-07-20-minnesota-math-teacher-jake-johnson-runs-for-congress-on-affordability"]}
 {"slug": "africa-energy-access", "article_count": 1, "first_seen": "2026-07-09", "last_seen": "2026-07-09", "articles": ["2026-07-09-african-countries-secure-900-million-in-new-clean-cooking-commitments"]}
@@ -531,6 +533,7 @@
 {"slug": "peru-mining-regulation", "article_count": 1, "first_seen": "2026-07-23", "last_seen": "2026-07-23", "articles": ["2026-07-23-andean-court-admits-unprecedented-case-against-peru-over-illegal-mining"]}
 {"slug": "peru-political-crisis", "article_count": 1, "first_seen": "2026-07-10", "last_seen": "2026-07-10", "articles": ["2026-07-10-un-panel-finds-castillo-detention-arbitrary-calls-for-release"]}
 {"slug": "pfas-regulation", "article_count": 1, "first_seen": "2026-07-20", "last_seen": "2026-07-20", "articles": ["2026-07-20-epa-scraps-proposed-pfas-limits-on-sewage-sludge-used-as-farm-fertilizer"]}
+{"slug": "pharmaceutical-industry", "article_count": 1, "first_seen": "2026-07-24", "last_seen": "2026-07-24", "articles": ["2026-07-24-regeneron-bets-on-science-over-acquisitions-as-flagship-drugs-face-pressure"]}
 {"slug": "philadelphia-microbursts", "article_count": 1, "first_seen": "2026-07-12", "last_seen": "2026-07-12", "articles": ["2026-07-12-philadelphia-cleans-up-after-microbursts-damage-buildings-and-streets"]}
 {"slug": "philippines-political-accountability", "article_count": 1, "first_seen": "2026-07-06", "last_seen": "2026-07-06", "articles": ["2026-07-06-philippine-senate-opens-impeachment-trial-of-vice-president-sara-duterte"]}
 {"slug": "physician-assisted-dying", "article_count": 1, "first_seen": "2026-07-09", "last_seen": "2026-07-09", "articles": ["2026-07-09-lawmakers-push-hhs-to-monitor-assisted-suicide-in-hospices"]}
@@ -623,7 +626,6 @@
 {"slug": "technology-ai", "article_count": 1, "first_seen": "2026-07-12", "last_seen": "2026-07-12", "articles": ["2026-07-12-ai-shows-promise-in-drug-labs-commercial-payoff-years-away"]}
 {"slug": "temporary-protected-status", "article_count": 1, "first_seen": "2026-07-23", "last_seen": "2026-07-23", "articles": ["2026-07-23-haitian-tps-holders-in-new-bedford-lose-jobs-fear-deportation"]}
 {"slug": "texas-business-expansion", "article_count": 1, "first_seen": "2026-07-11", "last_seen": "2026-07-11", "articles": ["2026-07-11-texas-stock-exchange-begins-trading-as-state-challenges-nyse-nasdaq-duopoly"]}
-{"slug": "texas-politics", "article_count": 1, "first_seen": "2026-07-10", "last_seen": "2026-07-10", "articles": ["2026-07-10-texas-democrat-says-110m-starlink-grants-look-like-corruption"]}
 {"slug": "threats-against-trump", "article_count": 1, "first_seen": "2026-07-16", "last_seen": "2026-07-16", "articles": ["2026-07-16-former-marine-charged-with-threatening-to-kill-trump"]}
 {"slug": "todd-blanche-confirmation", "article_count": 1, "first_seen": "2026-07-14", "last_seen": "2026-07-14", "articles": ["2026-07-14-blanche-confirmation-hearings-open-as-senators-weigh-conflicts"]}
 {"slug": "trade-and-tariffs", "article_count": 1, "first_seen": "2026-07-12", "last_seen": "2026-07-12", "articles": ["2026-07-12-monopoly-maker-s-bid-to-build-in-us-shows-limits-of-reshoring"]}
@@ -694,6 +696,7 @@
 {"slug": "us-economy", "article_count": 1, "first_seen": "2026-07-11", "last_seen": "2026-07-11", "articles": ["2026-07-11-usda-funding-cuts-hit-iowa-small-farmers-growers-say"]}
 {"slug": "us-europe-troop-posture", "article_count": 1, "first_seen": "2026-07-06", "last_seen": "2026-07-06", "articles": ["2026-07-06-us-to-resume-troop-rotation-in-poland-defense-minister-says"]}
 {"slug": "us-foreign-policy", "article_count": 1, "first_seen": "2026-07-20", "last_seen": "2026-07-20", "articles": ["2026-07-20-trump-says-netanyahu-will-not-be-arrested-rebuffing-mamdani"]}
+{"slug": "us-healthcare", "article_count": 1, "first_seen": "2026-07-24", "last_seen": "2026-07-24", "articles": ["2026-07-24-regeneron-bets-on-science-over-acquisitions-as-flagship-drugs-face-pressure"]}
 {"slug": "us-icc", "article_count": 1, "first_seen": "2026-07-15", "last_seen": "2026-07-15", "articles": ["2026-07-15-house-resolution-counters-trump-administration-pledge-to-dismantle-icc"]}
 {"slug": "us-immigration", "article_count": 1, "first_seen": "2026-07-22", "last_seen": "2026-07-22", "articles": ["2026-07-22-ucla-study-finds-ice-raids-caused-immediate-economic-shock-for-la-latino-busines"]}
 {"slug": "us-immigration-policy", "article_count": 1, "first_seen": "2026-07-07", "last_seen": "2026-07-07", "articles": ["2026-07-07-lawsuit-says-u-s-gives-iran-immigration-files-of-iranian-asylum-seekers"]}
