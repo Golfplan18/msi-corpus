@@ -146,6 +146,8 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories: []
+analyses:
+- '2026-07-24-extinction-by-waiver-how-a-single-statute-lets-construction-destroy-the-only-wil'
 ---
 ## Researchers warn Trump border wall plans threaten rare desert oasis and species
 
@@ -187,3 +189,8 @@ A CBP spokesperson, John Mennell, said in a statement that the agency was “wor
 **Publication date:** 2026-07-24
 **Title:** ‘Total chaos’: the biological wonderland threatened by Trump’s border wall
 **URL:** https://www.theguardian.com/us-news/2026/jul/24/arizona-border-wall-endangered-species
+
+---
+
+<!-- analysis-link:2026-07-24-extinction-by-waiver-how-a-single-statute-lets-construction-destroy-the-only-wil -->
+**Going deeper:** [Read MSI's analysis of Can a statutory waiver survive a legal challenge grounded in irreversible species loss? →](/analyses/2026-07-24-extinction-by-waiver-how-a-single-statute-lets-construction-destroy-the-only-wil)

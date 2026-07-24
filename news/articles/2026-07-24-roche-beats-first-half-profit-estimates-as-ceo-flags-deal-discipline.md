@@ -153,6 +153,8 @@ related_stories:
   publish_date: '2026-06-30'
   relation: related
   strength: 0.6567
+analyses:
+- '2026-07-24-pharma-growth-has-migrated-from-the-lab-to-the-ledger'
 ---
 ## Roche beats first-half profit estimates as CEO flags deal discipline
 
@@ -181,3 +183,8 @@ UBS maintained its buy rating on CSL with a target price of 158.00 Australian do
 **Publication date:** 2026-07-24
 **Title:** Health Care Roundup: Market Talk
 **URL:** https://www.wsj.com/business/health-care-roundup-market-talk-0e6b8fba
+
+---
+
+<!-- analysis-link:2026-07-24-pharma-growth-has-migrated-from-the-lab-to-the-ledger -->
+**Going deeper:** [Read MSI's analysis of The discipline narrative and the held contradiction on Vabysmo →](/analyses/2026-07-24-pharma-growth-has-migrated-from-the-lab-to-the-ledger)
