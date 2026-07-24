@@ -1,7 +1,10 @@
 ---
 headline: The FBI Came to the Reporters' Homes on a Friday Night
 publish_date: '2026-07-23'
-lede: FBI agents arrived at the homes of *New York Times* reporters on a Friday evening — July 10, two days after the paper published a story about security concerns with the president's new Air Force One — and handed them subpoenas compelling testimony before a grand jury.
+lede: FBI agents arrived at the homes of *New York Times* reporters on a Friday evening
+  — July 10, two days after the paper published a story about security concerns with
+  the president's new Air Force One — and handed them subpoenas compelling testimony
+  before a grand jury.
 pen_name: ruth-justice
 primary_entities: []
 primary_themes: []
@@ -15,7 +18,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 0
@@ -28,9 +32,20 @@ figures_aggregate:
   series_ids: []
   sources: []
 image:
-  url: /articles/2026-07-23-new-york-times-argues-subpoenas-are-retaliation-for-reporting.png
-  alt: 'Illustration accompanying article: New York Times argues subpoenas are retaliation for reporting'
+  url: /cartoons/the-fbi-came-to-the-reporters-homes-on-a-friday-night.png
+  alt: 'Editorial cartoon by Hector Rentier: The FBI Came to the Reporters'' Homes
+    on a Friday Night'
+  caption: The story was right. So they sent the state.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
   source: ai_generated
+  attached_at: '2026-07-23T22:13:40-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: 'Single panel, 1:1, described to be rendered in heavy Nast cross-hatch
+    wood-engraving. Primary figure: an FBI agent, middle-aged, in a dark suit with
+    a coiled earpiece, seen from a slight rear-left thr'
+  license: https://creativecommons.org/publicdomain/zero/1.0/
 cross_article_links:
 - slug: 2026-07-23-new-york-times-argues-subpoenas-are-retaliation-for-reporting
   relation: extends
@@ -38,7 +53,13 @@ cross_article_links:
   confidence: high
 draft: false
 backlog_release: true
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-07-23-hector-paired-with-2026-07-23-ruth-justice-nx-s1-5903854-trump-new-air-force-one-nyt-subpoena
 ---
+
+![Editorial cartoon by Hector Rentier: The FBI Came to the Reporters' Homes on a Friday Night](/cartoons/the-fbi-came-to-the-reporters-homes-on-a-friday-night.png)
+*The story was right. So they sent the state.*
 
 FBI agents arrived at the homes of *New York Times* reporters on a Friday evening — July 10, two days after the paper published a story about security concerns with the president's new Air Force One — and handed them subpoenas compelling testimony before a grand jury. The Constitution has a specific name for using the machinery of law enforcement to punish reporting the president dislikes: it is called intimidation, and the agents at the door were its messengers. They had done something the Justice Department's own guidelines say to do last, not first: they went around the newspaper's lawyers, to the reporters themselves, at their front doors, at night. The FBI also sought the phone records of five reporters, two reporters' spouses, and one reporter's mother — without initially telling the newspaper, making it impossible for anyone to seek a judge's intervention.
 

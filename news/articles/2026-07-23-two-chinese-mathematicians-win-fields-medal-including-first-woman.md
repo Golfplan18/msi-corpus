@@ -131,6 +131,8 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories: []
+analyses:
+- '2026-07-23-two-fields-medals-document-a-talent-pipeline-china-funds-but-the-west-retains'
 ---
 ## Two Chinese mathematicians win Fields Medal, including first woman
 
@@ -178,3 +180,8 @@ Yau Shing-Tung was the first ethnic Chinese mathematician to win the Fields Meda
 **Publication date:** 2026-07-23
 **Title:** In a first, Chinese woman wins the prestigious Fields Medal
 **URL:** https://www.npr.org/2026/07/23/g-s1-135032/in-a-first-chinese-woman-wins-the-prestigious-fields-medal
+
+---
+
+<!-- analysis-link:2026-07-23-two-fields-medals-document-a-talent-pipeline-china-funds-but-the-west-retains -->
+**Going deeper:** [Read MSI's analysis of China's 2026 Fields Medal wins as structural indictment of talent retention →](/analyses/2026-07-23-two-fields-medals-document-a-talent-pipeline-china-funds-but-the-west-retains)

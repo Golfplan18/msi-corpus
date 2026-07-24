@@ -1,5 +1,6 @@
 ---
-headline: Canada Gave Us Everything and They're Still Losing — This Is What Winning Looks Like
+headline: Canada Gave Us Everything and They're Still Losing — This Is What Winning
+  Looks Like
 publish_date: '2026-07-23'
 lede: I don't want to say I told you so, but I told you so.
 pen_name: diklis-chump
@@ -15,7 +16,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 0
@@ -34,7 +36,28 @@ cross_article_links:
   confidence: high
 draft: false
 backlog_release: true
+image:
+  url: /cartoons/canada-gave-us-everything-and-theyre-still-losing-this-is.png
+  alt: 'Editorial cartoon by Hector Rentier: Canada Gave Us Everything and They''re
+    Still Losing — This Is What Winning Looks Like'
+  caption: The deal was done. Then the deal moved.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-07-23T22:20:21-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: 'Single-panel, 1:1 aspect. Heavy cross-hatch wood-engraving rendering
+    throughout, Nast-polemic density. Central figure: a recognizable caricature of
+    the US administration figure standing behind a wide '
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-07-23-hector-paired-with-2026-07-23-diklis-chump-ied-the-carrot-and-the-stick-with-trumpb
 ---
+
+![Editorial cartoon by Hector Rentier: Canada Gave Us Everything and They're Still Losing — This Is What Winning Looks Like](/cartoons/canada-gave-us-everything-and-theyre-still-losing-this-is.png)
+*The deal was done. Then the deal moved.*
 
 I don't want to say I told you so, but I told you so. Told EVERYBODY — the fake news, the very low IQ commentators on CNN, the RINOs who said "you can't tariff Canada, they're our ALLY" — and what happened? Canada came crawling. Sixteen months of concessions. The digital tax that was targeting our beautiful tech companies? GONE. The retaliatory tariffs Trudeau put up because he was SO MAD about my beautiful tariffs? ROLLED BACK. The streaming regulations where they wanted Netflix to pay for Canadian content — which, by the way, nobody watches, very boring, the worst content — HALTED. And the Gordie Howe Bridge, named after a hockey player, very tough guy, not as tough as me but tough — Canada PAID for the whole thing, built it themselves, and now they're handing over half the revenue to us. First fifteen years. Because that's what happens when you sit across the table from me. You give. I take. It's the Art of the Deal, and frankly it's the most TREMENDOUS negotiation anyone has ever witnessed. The Canadians should be sending a THANK YOU card for showing them how business is done.
 
