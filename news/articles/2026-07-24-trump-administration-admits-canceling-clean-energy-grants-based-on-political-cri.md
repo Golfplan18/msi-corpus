@@ -1,9 +1,18 @@
 ---
-headline: Trump administration admits canceling clean energy grants based on political criteria
-secondary_headline: Energy Department says court filing was 'misrepresentation' of grant decisions
+headline: Trump administration admits canceling clean energy grants based on political
+  criteria
+secondary_headline: Energy Department says court filing was 'misrepresentation' of
+  grant decisions
 publish_date: '2026-07-24'
-lede: The Trump administration acknowledged in court documents filed last week that it canceled more than $7.5 billion in federal clean energy grants "based solely" on whether states voted for Donald Trump in the 2024 election, according to a lawsuit brought by University of California researchers.
-nut_graf: The admission, first reported by the New York Times, represents the most explicit acknowledgment to date that the October 2024 cancellations targeted projects exclusively in states that voted for Kamala Harris. The Energy Department later disputed the filing's characterization but did not provide an alternative explanation for the targeting pattern.
+lede: The Trump administration acknowledged in court documents filed last week that
+  it canceled more than $7.5 billion in federal clean energy grants "based solely"
+  on whether states voted for Donald Trump in the 2024 election, according to a lawsuit
+  brought by University of California researchers.
+nut_graf: The admission, first reported by the New York Times, represents the most
+  explicit acknowledgment to date that the October 2024 cancellations targeted projects
+  exclusively in states that voted for Kamala Harris. The Energy Department later
+  disputed the filing's characterization but did not provide an alternative explanation
+  for the targeting pattern.
 primary_entities:
 - Donald Trump
 - Kamala Harris
@@ -20,7 +29,8 @@ primary_themes:
 topic_tags:
 - politics
 - government
-storyline_nexus: []
+storyline_nexus:
+- trump-climate-energy-rollbacks
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
@@ -36,7 +46,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -76,113 +87,61 @@ related_stories:
   headline: Agencies admit keyword screening terminated $2B in UC grants
   publish_date: '2026-07-21'
   relation: related
-  strength: 0.7282
+  strength: 0.7276
 - slug: 2026-07-10-trump-administration-pays-2-7bn-to-cancel-offshore-wind-leases-spends-1-1bn-on-c
-  headline: Trump administration pays $2.7bn to cancel offshore wind leases, spends $1.1bn on coal
+  headline: Trump administration pays $2.7bn to cancel offshore wind leases, spends
+    $1.1bn on coal
   publish_date: '2026-07-10'
   relation: related
-  strength: 0.7412
+  strength: 0.74
 - slug: 2026-06-23-california-sues-trump-administration-over-cancellation-of-offshore-wind-lease
-  headline: California sues Trump administration over cancellation of offshore wind lease
+  headline: California sues Trump administration over cancellation of offshore wind
+    lease
   publish_date: '2026-06-23'
   relation: related
-  strength: 0.6659
+  strength: 0.6652
 - slug: 2026-06-12-trump-targets-forest-fire-research-as-west-braces-for-wildfire-season
   headline: Trump targets forest fire research as West braces for wildfire season
   publish_date: '2026-06-12'
   relation: related
-  strength: 0.6652
+  strength: 0.6648
 - slug: 2026-01-12-judge-rules-trump-illegally-canceled-7-6-billion-in-clean-energy-grants-to-democ
-  headline: Judge rules Trump illegally canceled $7.6 billion in clean energy grants to Democratic states
+  headline: Judge rules Trump illegally canceled $7.6 billion in clean energy grants
+    to Democratic states
   publish_date: '2026-01-12'
   relation: related
-  strength: 0.8489
+  strength: 0.8488
 - slug: 2026-06-04-trump-invokes-defense-production-act-to-direct-700m-to-coal-fired-power-plants
-  headline: Trump Invokes Defense Production Act to Direct $700M to Coal-Fired Power Plants
+  headline: Trump Invokes Defense Production Act to Direct $700M to Coal-Fired Power
+    Plants
   publish_date: '2026-06-04'
   relation: related
-  strength: 0.6717
+  strength: 0.6703
 - slug: 2026-06-04-blue-states-weaken-climate-rules-as-red-states-lead-renewable-energy-growth
   headline: Blue states weaken climate rules as red states lead renewable energy growth
   publish_date: '2026-06-04'
   relation: related
-  strength: 0.6662
+  strength: 0.6655
 - slug: 2025-12-29-doe-watchdog-to-audit-trump-clean-energy-grant-cancellations-tied-to-blue-states
-  headline: DOE watchdog to audit Trump clean energy grant cancellations tied to “Blue States”
+  headline: DOE watchdog to audit Trump clean energy grant cancellations tied to “Blue
+    States”
   publish_date: '2025-12-29'
   relation: related
-  strength: 0.7965
-- slug: 2026-05-05-california-investigates-trump-administration-deal-to-end-offshore-wind-project
-  headline: California investigates Trump administration deal to end offshore wind project
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.6875
-- slug: 2026-04-30-trump-pays-offshore-wind-operators-to-walk-away-democrats-call-it-a-scam
-  headline: Trump pays offshore wind operators to walk away; Democrats call it a scam
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.6643
-- slug: 2026-04-29-trump-administration-pays-bluepoint-and-golden-state-to-exit-offshore-wind
-  headline: Trump administration pays Bluepoint and Golden State to exit offshore wind
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.666
-- slug: 2026-04-26-trump-s-rejection-of-wind-projects-scrambles-gop-politics-before-midterms
-  headline: Trump’s rejection of wind projects scrambles GOP politics before midterms
-  publish_date: '2026-04-26'
-  relation: related
-  strength: 0.6671
-- slug: 2026-04-17-trump-administration-halts-federal-renewable-energy-aid-for-farmers
-  headline: Trump administration halts federal renewable energy aid for farmers
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.6775
-- slug: 2026-02-26-appeals-court-grills-epa-nonprofits-over-fate-of-trump-green-bank-contracts
-  headline: Appeals court grills EPA, nonprofits over fate of Trump “green bank” contracts
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.7194
-- slug: 2026-03-24-trump-administration-pays-totalenergies-to-exit-offshore-wind-boosting-lng
-  headline: Trump administration pays TotalEnergies to exit offshore wind, boosting LNG
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.6936
-- slug: 2025-12-29-michigan-faces-540-million-in-canceled-climate-grants-as-ev-plans-unwind
-  headline: Michigan faces $540 million in canceled climate grants as EV plans unwind
-  publish_date: '2025-12-29'
-  relation: related
-  strength: 0.7223
-- slug: 2026-03-25-trump-administration-pays-totalenergies-to-exit-u-s-offshore-wind-leases
-  headline: Trump administration pays TotalEnergies to exit U.S. offshore wind leases
-  publish_date: '2026-03-25'
-  relation: related
-  strength: 0.6784
-- slug: 2026-01-07-trump-white-house-rescinds-nepa-regulations-to-speed-energy-project-approvals
-  headline: Trump White House rescinds NEPA regulations to speed energy project approvals
-  publish_date: '2026-01-07'
-  relation: related
-  strength: 0.7164
-- slug: 2025-12-30-michigan-loses-540-million-in-climate-grants-amid-ev-pullback
-  headline: Michigan loses $540 million in climate grants amid EV pullback
-  publish_date: '2025-12-30'
-  relation: related
-  strength: 0.7169
-- slug: 2026-02-11-trump-administration-plans-to-hold-back-1-5b-grants-from-4-democratic-states
-  headline: Trump administration plans to hold back $1.5B+ grants from 4 Democratic states
-  publish_date: '2026-02-11'
-  relation: related
-  strength: 0.7007
+  strength: 0.796
 image:
   url: /articles/2026-07-24-trump-administration-admits-canceling-clean-energy-grants-based-on-political-cri.png
-  alt: "Illustration accompanying article: Trump administration admits canceling clean energy grants based on political criteria"
+  alt: 'Illustration accompanying article: Trump administration admits canceling clean
+    energy grants based on political criteria'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:openai/gpt-5.4-image-2"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 The Trump administration acknowledged in court documents filed last week that it canceled more than $7.5 billion in federal clean energy grants to states "based solely" on whether they backed Donald Trump in the 2024 election, according to a lawsuit brought by a group of University of California researchers.
 
 The admission, first reported by the New York Times, came in a filing from the Justice Department representing the Department of Energy. Government lawyers wrote that the department "accepts that neither the inclusion of the ARCHES grant nor any other grants in the October notice tranche was based on any programmatic, statutory, cost-reduction or performance-based factor." The filing continued: "The Department of Energy accepts that the inclusion of grants in the October notice tranche was based solely on the political identity of the grant recipient's state, ie, whether the recipient's location and/or place of performance was in a Blue State or a non-Blue State."

@@ -1,9 +1,19 @@
 ---
 headline: USDA to lift more than yearlong ban on Mexican cattle imports in 30 days
-secondary_headline: Reopening aims to ease record beef prices as U.S. herd remains near historic lows
+secondary_headline: Reopening aims to ease record beef prices as U.S. herd remains
+  near historic lows
 publish_date: '2026-07-24'
-lede: The U.S. Agriculture Department plans to lift its more than yearlong ban on Mexican cattle imports, resuming trade at a port of entry in Douglas, Arizona, in 30 days. The move, announced Thursday, aims to ease record-high beef prices caused by a domestic cattle shortage that has been exacerbated by the closure, which was imposed to stop the spread of the New World screwworm.
-nut_graf: The decision to reopen the border is contentious, with U.S. ranchers divided over whether the parasite threat has been sufficiently contained. Meat-industry officials and Agriculture Secretary Brooke Rollins said the resumption is safe and necessary to relieve financial pressure on cattle producers and bring down retail beef prices that have reached roughly $7 a pound for ground beef and more than $14 a pound for sirloin steaks.
+lede: The U.S. Agriculture Department plans to lift its more than yearlong ban on
+  Mexican cattle imports, resuming trade at a port of entry in Douglas, Arizona, in
+  30 days. The move, announced Thursday, aims to ease record-high beef prices caused
+  by a domestic cattle shortage that has been exacerbated by the closure, which was
+  imposed to stop the spread of the New World screwworm.
+nut_graf: The decision to reopen the border is contentious, with U.S. ranchers divided
+  over whether the parasite threat has been sufficiently contained. Meat-industry
+  officials and Agriculture Secretary Brooke Rollins said the resumption is safe and
+  necessary to relieve financial pressure on cattle producers and bring down retail
+  beef prices that have reached roughly $7 a pound for ground beef and more than $14
+  a pound for sirloin steaks.
 primary_entities:
 - U.S. Department of Agriculture
 - Brooke Rollins
@@ -38,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -137,107 +148,50 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-07-12-illegal-cattle-trafficking-drives-screwworm-s-rapid-northward-spread-experts-war
-  headline: Illegal cattle trafficking drives screwworm's rapid northward spread, experts warn
+  headline: Illegal cattle trafficking drives screwworm's rapid northward spread,
+    experts warn
   publish_date: '2026-07-12'
   relation: related
-  strength: 0.7009
+  strength: 0.7012
 - slug: 2026-07-13-mexico-says-u-s-to-restore-sugar-access-as-usda-projects-512-jump
   headline: Mexico says U.S. to restore sugar access as USDA projects 512% jump
   publish_date: '2026-07-13'
   relation: related
-  strength: 0.6798
+  strength: 0.6802
 - slug: 2026-06-12-texas-ranchers-fight-return-of-long-eradicated-cattle-killing-parasite
   headline: Texas Ranchers Fight Return of Long-Eradicated Cattle-Killing Parasite
   publish_date: '2026-06-12'
   relation: related
-  strength: 0.7519
+  strength: 0.7521
 - slug: 2026-06-04-new-world-screwworm-detected-in-texas-calf-first-us-livestock-case-since-1966
-  headline: New World screwworm detected in Texas calf, first US livestock case since 1966
+  headline: New World screwworm detected in Texas calf, first US livestock case since
+    1966
   publish_date: '2026-06-04'
   relation: related
-  strength: 0.7729
+  strength: 0.7737
 - slug: 2026-06-24-farm-workers-face-elevated-risk-as-screwworm-spreads-in-us-south-west
   headline: Farm workers face elevated risk as screwworm spreads in US south-west
   publish_date: '2026-06-24'
   relation: related
-  strength: 0.6976
-- slug: 2026-07-10-beef-prices-push-texas-taco-costs-higher-as-drought-and-screwworm-strain-supply
-  headline: Beef prices push Texas taco costs higher as drought and screwworm strain supply
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.6131
-- slug: 2026-07-10-texas-taco-staples-become-pricier-as-beef-supply-shrinks
-  headline: Texas taco staples become pricier as beef supply shrinks
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.6113
+  strength: 0.6978
 - slug: 2026-06-30-argentine-beef-shipments-to-us-more-than-quadruple-in-may-after-quota-expansion
-  headline: Argentine beef shipments to US more than quadruple in May after quota expansion
+  headline: Argentine beef shipments to US more than quadruple in May after quota
+    expansion
   publish_date: '2026-06-30'
   relation: related
-  strength: 0.6586
-- slug: 2026-06-30-usda-plans-500-million-in-payments-to-smaller-meatpackers
-  headline: USDA plans $500 million in payments to smaller meatpackers
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.6427
+  strength: 0.6587
 - slug: 2026-06-08-usda-confirms-two-more-screwworm-cases-in-texas-food-supply-safe
   headline: USDA confirms two more screwworm cases in Texas; food supply safe
   publish_date: '2026-06-08'
   relation: related
-  strength: 0.7296
+  strength: 0.7302
 - slug: 2026-06-15-new-world-screwworm-returns-to-us-12-cases-detected-in-texas-and-new-mexico
-  headline: New World screwworm returns to US, 12 cases detected in Texas and New Mexico
+  headline: New World screwworm returns to US, 12 cases detected in Texas and New
+    Mexico
   publish_date: '2026-06-15'
   relation: related
-  strength: 0.704
-- slug: 2026-05-17-china-to-boost-trade-for-us-agricultural-products-including-beef-and-poultry
-  headline: China to boost trade for US agricultural products including beef and poultry
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6734
-- slug: 2026-04-16-smallest-us-cattle-herd-in-75-years-keeps-beef-prices-near-record
-  headline: Smallest US cattle herd in 75 years keeps beef prices near record
-  publish_date: '2026-04-16'
-  relation: related
   strength: 0.7044
-- slug: 2026-02-11-us-opens-texas-facility-to-disperse-sterile-screwworm-flies
-  headline: US opens Texas facility to disperse sterile screwworm flies
-  publish_date: '2026-02-11'
-  relation: related
-  strength: 0.7518
-- slug: 2026-05-09-trump-administration-settles-meatpacking-antitrust-case-to-lower-grocery-prices
-  headline: Trump administration settles meatpacking antitrust case to lower grocery prices
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.6521
-- slug: 2026-05-09-trump-administration-settles-meatpacking-antitrust-case
-  headline: Trump administration settles meatpacking antitrust case
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.6356
-- slug: 2026-04-06-workers-to-return-after-jbs-usa-and-union-resume-talks-in-colorado
-  headline: Workers to return after JBS USA and union resume talks in Colorado
-  publish_date: '2026-04-06'
-  relation: related
-  strength: 0.6712
-- slug: 2026-04-05-workers-at-colorado-meatpacking-plant-to-return-after-jbs-resumes-talks
-  headline: Workers at Colorado meatpacking plant to return after JBS resumes talks
-  publish_date: '2026-04-05'
-  relation: related
-  strength: 0.6585
-- slug: 2026-04-04-swift-beef-strike-in-greeley-ends-as-jbs-resumes-negotiations
-  headline: Swift Beef strike in Greeley ends as JBS resumes negotiations
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.645
-- slug: 2026-04-07-colorado-meatpacking-plant-strike-ends-as-jbs-usa-resumes-talks
-  headline: Colorado Meatpacking Plant Strike Ends as JBS USA Resumes Talks
-  publish_date: '2026-04-07'
-  relation: related
-  strength: 0.6337
 ---
-
 ## USDA to lift more than yearlong ban on Mexican cattle imports in 30 days
 
 **Subtype:** fact

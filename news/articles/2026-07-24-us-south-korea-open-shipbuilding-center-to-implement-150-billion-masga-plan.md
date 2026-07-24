@@ -1,9 +1,18 @@
 ---
-headline: US, South Korea open shipbuilding center to implement $150 billion MASGA plan
+headline: US, South Korea open shipbuilding center to implement $150 billion MASGA
+  plan
 secondary_headline: 15 agreements signed as initiative moves to project development
 publish_date: '2026-07-24'
-lede: The United States and South Korea on Thursday opened a shipbuilding cooperation center in Washington that will serve as the operational hub for Seoul's planned $150 billion investment in the U.S. shipbuilding sector, moving the Make American Shipbuilding Great Again initiative from government declarations toward commercial projects.
-nut_graf: The Korea-U.S. Shipbuilding Partnership Center is the first operational center under the Make American Shipbuilding Great Again initiative, designed to coordinate the planned $150 billion investment in the U.S. shipbuilding sector. The center's success will depend on generating ship orders, maintenance contracts and actual investments, industry officials said.
+lede: The United States and South Korea on Thursday opened a shipbuilding cooperation
+  center in Washington that will serve as the operational hub for Seoul's planned
+  $150 billion investment in the U.S. shipbuilding sector, moving the Make American
+  Shipbuilding Great Again initiative from government declarations toward commercial
+  projects.
+nut_graf: The Korea-U.S. Shipbuilding Partnership Center is the first operational
+  center under the Make American Shipbuilding Great Again initiative, designed to
+  coordinate the planned $150 billion investment in the U.S. shipbuilding sector.
+  The center's success will depend on generating ship orders, maintenance contracts
+  and actual investments, industry officials said.
 primary_entities:
 - United States
 - South Korea
@@ -27,7 +36,8 @@ topic_tags:
 - economy, business and finance
 - technology and engineering
 - transport
-storyline_nexus: []
+storyline_nexus:
+- us-china-competition
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
@@ -41,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,104 +154,43 @@ related_stories:
   headline: South Korea launches $150 billion US shipbuilding investment framework
   publish_date: '2026-06-25'
   relation: related
-  strength: 0.8577
+  strength: 0.8585
 - slug: 2026-07-14-navy-seeks-south-korean-shipbuilders-for-destroyers-support-vessels
   headline: Navy seeks South Korean shipbuilders for destroyers, support vessels
   publish_date: '2026-07-14'
   relation: related
-  strength: 0.7092
-- slug: 2026-07-23-port-of-long-beach-signs-agreement-to-explore-on-site-nuclear-power
-  headline: Port of Long Beach signs agreement to explore on-site nuclear power
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.6335
-- slug: 2026-07-17-lawmaker-proposes-building-80-of-navy-vessels-in-south-korea
-  headline: Lawmaker proposes building 80% of Navy vessels in South Korea
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.6454
+  strength: 0.7081
 - slug: 2026-07-10-us-does-not-rule-out-korean-built-warships-seoul-says
   headline: US does not rule out Korean-built warships, Seoul says
   publish_date: '2026-07-10'
   relation: related
-  strength: 0.6611
-- slug: 2026-07-15-us-south-korea-launch-largest-ever-joint-logistics-exercise
-  headline: US, South Korea launch largest-ever joint logistics exercise
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.6185
+  strength: 0.6592
 - slug: 2026-07-02-house-senate-defense-bills-diverge-on-south-korean-shipbuilding-role
   headline: House, Senate defense bills diverge on South Korean shipbuilding role
   publish_date: '2026-07-02'
   relation: related
-  strength: 0.6853
-- slug: 2026-07-10-micron-s-250-billion-plan-sets-stage-for-korean-chip-production-calls
-  headline: Micron's $250 billion plan sets stage for Korean chip production calls
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.6207
-- slug: 2026-07-01-south-korea-expands-usfk-veterans-job-platform-to-29-companies
-  headline: South Korea expands USFK veterans job platform to 29 companies
-  publish_date: '2026-07-01'
-  relation: related
-  strength: 0.6535
+  strength: 0.685
 - slug: 2026-06-22-senate-defense-bill-could-open-navy-shipbuilding-to-south-korean-yards
   headline: Senate defense bill could open Navy shipbuilding to South Korean yards
   publish_date: '2026-06-22'
   relation: related
-  strength: 0.694
+  strength: 0.6942
+- slug: 2026-07-01-south-korea-expands-usfk-veterans-job-platform-to-29-companies
+  headline: South Korea expands USFK veterans job platform to 29 companies
+  publish_date: '2026-07-01'
+  relation: related
+  strength: 0.6531
 - slug: 2026-06-29-south-korea-announces-518-billion-semiconductor-cluster-in-southwest
   headline: South Korea announces $518 billion semiconductor cluster in southwest
   publish_date: '2026-06-29'
   relation: related
   strength: 0.659
-- slug: 2026-07-05-sk-hynix-to-begin-u-s-stock-trading-as-chipmakers-weigh-competing-investment-dem
-  headline: SK Hynix to begin U.S. stock trading as chipmakers weigh competing investment demands
-  publish_date: '2026-07-05'
-  relation: related
-  strength: 0.6265
-- slug: 2026-07-02-south-korean-analyst-choe-hyon-destroyer-could-pressure-allied-naval-movement
-  headline: 'South Korean analyst: Choe Hyon destroyer could pressure allied naval movement'
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.6068
-- slug: 2026-06-28-additional-navy-requests-extend-usns-amelia-earhart-work-at-hj-shipbuilding
-  headline: Additional Navy requests extend USNS Amelia Earhart work at HJ Shipbuilding
-  publish_date: '2026-06-28'
-  relation: related
-  strength: 0.6046
-- slug: 2026-06-26-south-korea-aims-to-build-korean-palantir-with-6-5b-tech-fund
-  headline: South Korea aims to build 'Korean Palantir' with $6.5B tech fund
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6054
 - slug: 2026-06-09-south-korea-us-align-on-nuclear-powered-submarine-plan
   headline: South Korea, US align on nuclear-powered submarine plan
   publish_date: '2026-06-09'
   relation: related
-  strength: 0.6653
-- slug: 2026-06-23-ls-electric-ties-utah-growth-to-korean-war-veterans-ai-data-center-boom
-  headline: LS Electric ties Utah growth to Korean War veterans, AI data center boom
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.5917
-- slug: 2026-06-14-south-korea-s-hyosung-to-produce-circuit-breakers-in-pennsylvania-via-quanta-joi
-  headline: South Korea's Hyosung to produce circuit breakers in Pennsylvania via Quanta joint venture
-  publish_date: '2026-06-14'
-  relation: related
-  strength: 0.6187
-- slug: 2026-06-02-us-south-korea-open-inaugural-security-talks-on-nuclear-submarines
-  headline: US, South Korea open inaugural security talks on nuclear submarines
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.6354
-- slug: 2026-06-09-sk-chairman-calls-for-south-korea-japan-economic-community
-  headline: SK chairman calls for South Korea-Japan economic community
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.5932
+  strength: 0.6636
 ---
-
 ## US, South Korea open shipbuilding center to implement $150 billion MASGA plan
 
 **Subtype:** fact
