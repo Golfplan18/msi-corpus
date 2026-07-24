@@ -168,6 +168,8 @@ image:
   disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
   ai_model: "openrouter:openai/gpt-5.4-image-2"
   ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+analyses:
+- '2026-07-22-trump-s-war-is-destroying-the-gop-and-he-doesn-t-care'
 ---
 ## Trump says Iran war's political cost 'won't have any impact on me'
 
@@ -205,3 +207,8 @@ Trump is in his second term and ineligible to run for reelection. According to T
 **Publication date:** 2026-07-22
 **Title:** Trump’s war on Iran is unpopular and expensive. He’s perfectly OK with that
 **URL:** https://www.theguardian.com/us-news/2026/jul/22/trump-iran-war-unpopular-expensive
+
+---
+
+<!-- analysis-link:2026-07-22-trump-s-war-is-destroying-the-gop-and-he-doesn-t-care -->
+**Going deeper:** [Read MSI's analysis of Trump's structural insulation from electoral consequences means the political cost of the Iran war falls entirely on the Republican Party's midterm candidates. →](/analyses/2026-07-22-trump-s-war-is-destroying-the-gop-and-he-doesn-t-care)

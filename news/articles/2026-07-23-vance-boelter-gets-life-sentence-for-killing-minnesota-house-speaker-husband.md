@@ -105,6 +105,8 @@ related_stories:
   publish_date: '2026-04-24'
   relation: related
   strength: 0.6679
+analyses:
+- '2026-07-23-legal-closure-without-resolution-the-structural-legacy-of-the-boelter-attack'
 ---
 ## Vance Boelter gets life sentence for killing Minnesota House speaker, husband
 
@@ -152,3 +154,8 @@ The sentencing brings to a close the federal case against Boelter.
 **Publication date:** 2026-07-23
 **Title:** Minnesota man sentenced to life for killing Democratic lawmaker Melissa Hortman
 **URL:** https://www.theguardian.com/us-news/2026/jul/23/melissa-hortman-killing-life-sentence-vance-boelter
+
+---
+
+<!-- analysis-link:2026-07-23-legal-closure-without-resolution-the-structural-legacy-of-the-boelter-attack -->
+**Going deeper:** [Read MSI's analysis of Analysis draws on the relationship mapping of the case, emphasizing the structural connections between the June 14, 2025 attack, the federal plea and sentencing, and the victims’ ongoing trauma. →](/analyses/2026-07-23-legal-closure-without-resolution-the-structural-legacy-of-the-boelter-attack)
