@@ -23,7 +23,8 @@ topic_tags:
 - political process
 - civil rights
 - government policy
-storyline_nexus: []
+storyline_nexus:
+- supreme-court-constitutional-cases
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

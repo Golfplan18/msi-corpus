@@ -140,6 +140,15 @@ related_stories:
   publish_date: '2026-05-11'
   relation: related
   strength: 0.6819
+image:
+  url: /articles/2026-07-24-ukraine-s-national-guard-pivots-attack-unit-to-hunting-russian-drones.png
+  alt: "Illustration accompanying article: Ukraine's National Guard pivots attack unit to hunting Russian drones"
+  credit: Main Street Independent (algorithmic)
+  source: ai_generated
+  license: "https://creativecommons.org/publicdomain/zero/1.0/"
+  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  ai_model: "openrouter:openai/gpt-5.4-image-2"
+  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
 ---
 ## Ukraine's National Guard pivots attack unit to hunting Russian drones
 

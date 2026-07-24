@@ -25,7 +25,8 @@ topic_tags:
 - health treatment and procedure
 - public health
 - disease and condition
-storyline_nexus: []
+storyline_nexus:
+- trump-health-policy-rfk
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
