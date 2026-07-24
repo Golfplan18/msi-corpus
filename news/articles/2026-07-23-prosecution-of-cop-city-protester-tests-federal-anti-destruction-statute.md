@@ -145,6 +145,8 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories: []
+analyses:
+- '2026-07-23-privacy-operating-system-tests-depression-era-destruction-statute'
 ---
 ## Prosecution of Cop City protester tests federal anti-destruction statute
 
@@ -189,3 +191,8 @@ A judge's ruling on the defense motion will take at least until the end of Octob
 **Publication date:** 2026-07-23
 **Title:** US government targets Cop City protester over phone operating system
 **URL:** https://www.theguardian.com/us-news/2026/jul/23/cop-city-protester-phone
+
+---
+
+<!-- analysis-link:2026-07-23-privacy-operating-system-tests-depression-era-destruction-statute -->
+**Going deeper:** [Read MSI's analysis of Sam Tunick's GrapheneOS prosecution →](/analyses/2026-07-23-privacy-operating-system-tests-depression-era-destruction-statute)

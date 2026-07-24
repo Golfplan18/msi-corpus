@@ -171,6 +171,8 @@ image:
   disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
   ai_model: "openrouter:openai/gpt-5.4-image-2"
   ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+analyses:
+- '2026-07-23-kavanaugh-s-separate-opinions-supply-trump-with-legal-workarounds-and-the-patter'
 ---
 ## Kavanaugh opinions provide Trump legal roadmaps on tariffs, immigration
 
@@ -213,3 +215,8 @@ Legal scholars and commentators have described Kavanaugh's approach as offering 
 **Publication date:** 2026-07-23
 **Title:** Brett Kavanaugh has become Trump’s chief enabler on the supreme court | Sidney Blumenthal
 **URL:** https://www.theguardian.com/commentisfree/2026/jul/23/brett-kavanaugh-trump-supreme-court
+
+---
+
+<!-- analysis-link:2026-07-23-kavanaugh-s-separate-opinions-supply-trump-with-legal-workarounds-and-the-patter -->
+**Going deeper:** [Read MSI's analysis of Analysis of the advisory pattern across Justice Brett Kavanaugh's three separate opinions this term and the documented consequences of the administration's rapid adoption of the legal pathways he identified. →](/analyses/2026-07-23-kavanaugh-s-separate-opinions-supply-trump-with-legal-workarounds-and-the-patter)
