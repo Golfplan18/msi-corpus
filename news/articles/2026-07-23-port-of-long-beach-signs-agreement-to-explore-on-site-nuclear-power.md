@@ -146,6 +146,8 @@ image:
   disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
   ai_model: "openrouter:openai/gpt-5.4-image-2"
   ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+analyses:
+- '2026-07-23-the-port-of-long-beach-s-nuclear-gambit-four-futures-for-maritime-power'
 ---
 ## Port of Long Beach signs agreement to explore on-site nuclear power
 
@@ -186,3 +188,8 @@ The shipping industry expects the first such vessels to hit the water in about 1
 **Publication date:** 2026-07-23
 **Title:** One of the Busiest Shipping Ports Wants to Go Nuclear
 **URL:** https://www.wsj.com/business/logistics/one-of-the-busiest-shipping-ports-wants-to-go-nuclear-c03f03d2
+
+---
+
+<!-- analysis-link:2026-07-23-the-port-of-long-beach-s-nuclear-gambit-four-futures-for-maritime-power -->
+**Going deeper:** [Read MSI's analysis of The regulatory vacuum that defines the project's trajectory — no standards exist for port-side SMRs, and the Coast Guard, NRC, California PUC, and IMO have not yet produced them — means the MOU's fate depends less on technology than on institutional coordination among parties that have not yet begun to coordinate. The absent stakeholders (NRC, state regulators, insurers, labour) hold binding authority the MOU cannot reach, and their eventual entry into the process will determine whether the Long Beach experiment becomes a template or a cautionary tale. →](/analyses/2026-07-23-the-port-of-long-beach-s-nuclear-gambit-four-futures-for-maritime-power)
