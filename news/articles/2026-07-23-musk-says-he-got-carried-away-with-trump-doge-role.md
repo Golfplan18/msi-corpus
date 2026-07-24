@@ -171,6 +171,8 @@ related_stories:
   publish_date: '2026-02-05'
   relation: related
   strength: 0.6508
+analyses:
+- '2026-07-23-musk-s-carried-away-admission-a-structural-failure-dressed-as-personal-regret'
 ---
 ## Musk says he 'got carried away' with Trump, DOGE role
 
@@ -210,3 +212,8 @@ The interview also covered Musk's ambitions in space. He said in 2024 that human
 **Publication date:** 2026-07-23
 **Title:** ‘I got carried away’: Elon Musk expresses regret about Doge and wading into Trump’s orbit
 **URL:** https://www.theguardian.com/technology/2026/jul/23/elon-musk-regret-trump-doge-ai
+
+---
+
+<!-- analysis-link:2026-07-23-musk-s-carried-away-admission-a-structural-failure-dressed-as-personal-regret -->
+**Going deeper:** [Read MSI's analysis of The interview’s function is to displace accountability from institutional outcomes to individual psychology — a move that leaves the policy consequences of DOGE untouched regardless of whether Musk’s regret is sincere. →](/analyses/2026-07-23-musk-s-carried-away-admission-a-structural-failure-dressed-as-personal-regret)
