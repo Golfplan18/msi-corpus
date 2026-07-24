@@ -140,6 +140,8 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories: []
+analyses:
+- '2026-07-23-a-small-asthma-study-finds-gas-to-electric-stove-swaps-cut-er-visits-70-but-the'
 ---
 ## Gas stove replacement cuts asthma ER visits 70% in study
 
@@ -178,3 +180,8 @@ Switching stoves is not a cure for asthma and may not help everyone, Sehgal said
 **Publication date:** 2026-07-23
 **Title:** Replacing gas stoves with electric stoves greatly reduces asthma symptoms
 **URL:** https://www.upi.com/Voices/2026/07/23/replacing-gas-stoves-electric-reduces-asthma-symptoms/1521784814748/
+
+---
+
+<!-- analysis-link:2026-07-23-a-small-asthma-study-finds-gas-to-electric-stove-swaps-cut-er-visits-70-but-the -->
+**Going deeper:** [Read MSI's analysis of gas stove replacement asthma study gaps →](/analyses/2026-07-23-a-small-asthma-study-finds-gas-to-electric-stove-swaps-cut-er-visits-70-but-the)
