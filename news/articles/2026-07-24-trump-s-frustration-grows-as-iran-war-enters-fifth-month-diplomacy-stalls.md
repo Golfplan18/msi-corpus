@@ -164,6 +164,15 @@ related_stories:
   publish_date: '2026-05-24'
   relation: related
   strength: 0.7865
+image:
+  url: /articles/2026-07-24-trump-s-frustration-grows-as-iran-war-enters-fifth-month-diplomacy-stalls.png
+  alt: "Illustration accompanying article: Trump's frustration grows as Iran war enters fifth month, diplomacy stalls"
+  credit: Main Street Independent (algorithmic)
+  source: ai_generated
+  license: "https://creativecommons.org/publicdomain/zero/1.0/"
+  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  ai_model: "openrouter:openai/gpt-5.4-image-2"
+  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
 ---
 ## Trump's frustration grows as Iran war enters fifth month, diplomacy stalls
 
