@@ -117,6 +117,8 @@ related_stories:
   publish_date: '2026-01-26'
   relation: related
   strength: 0.6536
+analyses:
+- '2026-07-24-treasury-s-own-data-undercut-the-south-korea-monitoring-story-and-expose-a-frame'
 ---
 ## Treasury puts South Korea on currency list fourth straight time
 
@@ -163,3 +165,8 @@ Placement on the monitoring list does not mean the United States has designated 
 **Publication date:** 2026-07-24
 **Title:** U.S. keeps South Korea on currency monitoring list
 **URL:** https://www.upi.com/Top_News/World-News/2026/07/24/united-states-keeps-skorea-currency-monitoring-list/2071784929999/
+
+---
+
+<!-- analysis-link:2026-07-24-treasury-s-own-data-undercut-the-south-korea-monitoring-story-and-expose-a-frame -->
+**Going deeper:** [Read MSI's analysis of The wire coverage framed a fourth consecutive listing as a country failing to correct. The numbers inside the report show a country caught in a statutory corridor where its legitimate policy tools prolong the scrutiny they are designed to resolve. →](/analyses/2026-07-24-treasury-s-own-data-undercut-the-south-korea-monitoring-story-and-expose-a-frame)

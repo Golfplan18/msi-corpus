@@ -191,6 +191,8 @@ related_stories:
   publish_date: '2026-06-15'
   relation: related
   strength: 0.7044
+analyses:
+- '2026-07-24-usda-s-30-day-mexican-cattle-reopening-a-timeline-built-on-unproven-safeguards-a'
 ---
 ## USDA to lift more than yearlong ban on Mexican cattle imports in 30 days
 
@@ -227,3 +229,8 @@ The Trump administration has taken other steps to address beef prices. The Justi
 **Publication date:** 2026-07-24
 **Title:** U.S. to Resume Cattle Imports From Mexico After Screwworm Ban
 **URL:** https://www.wsj.com/politics/policy/mexico-cattle-import-screwworm-7579dc50
+
+---
+
+<!-- analysis-link:2026-07-24-usda-s-30-day-mexican-cattle-reopening-a-timeline-built-on-unproven-safeguards-a -->
+**Going deeper:** [Read MSI's analysis of Biosecurity vs. Price Relief: The 30-Day Window for Mexican Cattle Imports →](/analyses/2026-07-24-usda-s-30-day-mexican-cattle-reopening-a-timeline-built-on-unproven-safeguards-a)
