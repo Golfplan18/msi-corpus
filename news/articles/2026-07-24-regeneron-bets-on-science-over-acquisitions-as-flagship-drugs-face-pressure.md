@@ -129,6 +129,8 @@ related_stories:
   publish_date: '2026-04-24'
   relation: related
   strength: 0.6553
+analyses:
+- '2026-07-24-regeneron-s-pipeline-bet-confronts-a-shrinking-window-and-an-opaque-risk-profile'
 ---
 ## Regeneron bets on science over acquisitions as flagship drugs face pressure
 
@@ -190,3 +192,8 @@ Yancopoulos is also using Regeneron's in-house genetic discoveries to tackle obe
 **Publication date:** 2026-07-24
 **Title:** The Scientist With 1,000 Patents Fueling a Drug Powerhouse
 **URL:** https://www.wsj.com/health/pharma/regeneron-george-yancopoulos-drug-discovery-17fea3fa
+
+---
+
+<!-- analysis-link:2026-07-24-regeneron-s-pipeline-bet-confronts-a-shrinking-window-and-an-opaque-risk-profile -->
+**Going deeper:** [Read MSI's analysis of Regeneron's internal-science strategy →](/analyses/2026-07-24-regeneron-s-pipeline-bet-confronts-a-shrinking-window-and-an-opaque-risk-profile)

@@ -174,6 +174,8 @@ related_stories:
   publish_date: '2026-06-01'
   relation: related
   strength: 0.6894
+analyses:
+- '2026-07-23-same-mideast-conflict-lifts-palm-oil-pressures-gold-and-leaves-three-analyst-cal'
 ---
 ## Palm oil rises, gold steady as oil surges on Mideast conflict
 
@@ -203,3 +205,8 @@ Macquarie said Westgold Resources could positively surprise with its final divid
 **Publication date:** 2026-07-23
 **Title:** Basic Materials Roundup: Market Talk
 **URL:** https://www.wsj.com/business/basic-materials-roundup-market-talk-ef5272e6
+
+---
+
+<!-- analysis-link:2026-07-23-same-mideast-conflict-lifts-palm-oil-pressures-gold-and-leaves-three-analyst-cal -->
+**Going deeper:** [Read MSI's analysis of how one conflict splits commodity paths and exposes assumption-dependent forecasts →](/analyses/2026-07-23-same-mideast-conflict-lifts-palm-oil-pressures-gold-and-leaves-three-analyst-cal)

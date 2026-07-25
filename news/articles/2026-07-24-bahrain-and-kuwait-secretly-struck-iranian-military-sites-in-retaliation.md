@@ -167,6 +167,8 @@ related_stories:
   publish_date: '2026-06-26'
   relation: related
   strength: 0.7262
+analyses:
+- '2026-07-24-the-fragile-coalition-why-bahrain-and-kuwait-s-secret-strikes-on-iran-expose-dep'
 ---
 ## Bahrain and Kuwait Secretly Struck Iranian Military Sites in Retaliation
 
@@ -213,3 +215,8 @@ Countries like Oman and Qatar have long triangulated between Iran and the West a
 **Publication date:** 2026-07-24
 **Title:** Bahrain, Kuwait Warplanes Struck Iran in Rare Gulf Retaliation
 **URL:** https://www.wsj.com/world/middle-east/iran-gulf-states-bahrain-kuwait-strikes-009637db
+
+---
+
+<!-- analysis-link:2026-07-24-the-fragile-coalition-why-bahrain-and-kuwait-s-secret-strikes-on-iran-expose-dep -->
+**Going deeper:** [Read MSI's analysis of Tacit truce brokered through Oman or Qatar, with US backing as a guarantor →](/analyses/2026-07-24-the-fragile-coalition-why-bahrain-and-kuwait-s-secret-strikes-on-iran-expose-dep)
