@@ -149,6 +149,8 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories: []
+analyses:
+- '2026-07-24-how-a-casino-won-every-approval-and-still-lost-the-neighborhood'
 ---
 ## Queens residents fight $8B casino project near Flushing Chinatown
 
@@ -201,3 +203,8 @@ Xiang, an employee of a Flushing bakery who moved to Queens from China seven yea
 **Publication date:** 2026-07-24
 **Title:** New York Chinatown fears impact of $8bn casino development, calling it ‘predatory project’
 **URL:** https://www.theguardian.com/us-news/2026/jul/24/new-yorks-chinatown-casino-fears
+
+---
+
+<!-- analysis-link:2026-07-24-how-a-casino-won-every-approval-and-still-lost-the-neighborhood -->
+**Going deeper:** [Read MSI's analysis of The architecture designed to certify the Metropolitan Park development measured a narrower set of outcomes than any of the frameworks residents brought to the fight. →](/analyses/2026-07-24-how-a-casino-won-every-approval-and-still-lost-the-neighborhood)
