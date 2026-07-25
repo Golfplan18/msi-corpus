@@ -204,6 +204,8 @@ image:
   disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
   ai_model: "openrouter:openai/gpt-5.4-image-2"
   ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+analyses:
+- '2026-07-23-the-trump-saudi-nuclear-deal-and-the-structure-of-its-coverage-four-incompatible'
 ---
 ## Trump signs Saudi nuclear deal without Israel normalization demand
 
@@ -246,3 +248,8 @@ Saudi Arabia will likely take a decade or longer to build and open new nuclear p
 **Publication date:** 2026-07-23
 **Title:** Trump's nuclear deal with Saudis jettisons longstanding US demands
 **URL:** https://www.bbc.co.uk/news/articles/cz05lx0xpero
+
+---
+
+<!-- analysis-link:2026-07-23-the-trump-saudi-nuclear-deal-and-the-structure-of-its-coverage-four-incompatible -->
+**Going deeper:** [Read MSI's analysis of The enrichment ceiling, IAEA Additional Protocol status, and specific buyback provisions of the Saudi nuclear agreement remain unspecified in the BBC report. →](/analyses/2026-07-23-the-trump-saudi-nuclear-deal-and-the-structure-of-its-coverage-four-incompatible)

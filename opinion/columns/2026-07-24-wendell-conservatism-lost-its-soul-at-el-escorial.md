@@ -1,7 +1,9 @@
 ---
 headline: Conservatism Lost Its Soul at El Escorial
 publish_date: '2026-07-24'
-lede: The conservative movement that once existed to limit the state has spent sixty-five years learning to love the very thing it swore to resist — and the education began with a pilgrimage to a dead king's tomb.
+lede: The conservative movement that once existed to limit the state has spent sixty-five
+  years learning to love the very thing it swore to resist — and the education began
+  with a pilgrimage to a dead king's tomb.
 pen_name: wendell-burke
 primary_entities: []
 primary_themes: []
@@ -14,7 +16,8 @@ gdelt_event_ids: []
 consensus_floor_version: current
 publication_mindspec_version: wendell-burke-2026-06
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -31,7 +34,27 @@ figures_aggregate:
   sources: []
 cross_article_links: []
 draft: false
+image:
+  url: /cartoons/conservatism-lost-its-soul-at-el-escorial.png
+  alt: 'Editorial cartoon by Hector Rentier: Conservatism Lost Its Soul at El Escorial'
+  caption: He went looking for God and came back wanting the state.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-07-24T22:07:23-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: Single central figure, 1:1. A man in a dark conservative suit kneels
+    before a hybrid altar that merges a church altar with a government podium — a
+    wooden cross is mounted on the front face of a podium
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-07-24-hector-paired-with-2026-07-24-wendell-conservatism-lost-its-soul-at-el-escorial
 ---
+
+![Editorial cartoon by Hector Rentier: Conservatism Lost Its Soul at El Escorial](/cartoons/conservatism-lost-its-soul-at-el-escorial.png)
+*He went looking for God and came back wanting the state.*
 
 The conservative movement that once existed to limit the state has spent sixty-five years learning to love the very thing it swore to resist — and the education began with a pilgrimage to a dead king's tomb. In Daniel J. Flynn's [Walking in Brent Bozell's Footsteps in El Escorial](https://www.nationalreview.com/2026/07/walking-in-brent-bozells-footsteps-in-el-escorial/), he traces how National Review senior editor Brent Bozell Jr. — Barry Goldwater's ghostwriter, the man who put the case for freedom and limited government into the most consequential conservative book of its era — traveled to Francisco Franco's Spain in 1961, stood inside Philip II's Royal Monastery of San Lorenzo de El Escorial, and came back a different man. Flynn tells the story honestly, as history. He does not quite say what the history means.
 

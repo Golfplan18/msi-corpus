@@ -123,6 +123,8 @@ related_stories:
   publish_date: '2026-03-15'
   relation: related
   strength: 0.676
+analyses:
+- '2026-07-24-the-fed-s-check-processing-exit-and-trump-s-federal-check-halt-converging-on-the'
 ---
 ## Federal Reserve weighs exiting check processing as Trump halts federal checks
 
@@ -157,3 +159,8 @@ Jay L. Zagorsky, an associate professor at Boston University, wrote in The Conve
 **Publication date:** 2026-07-24
 **Title:** Should paper checks be abolished like the penny?
 **URL:** https://www.upi.com/Voices/2026/07/24/should-paper-checks-be-abolished-like-the-penny/4471784902927/
+
+---
+
+<!-- analysis-link:2026-07-24-the-fed-s-check-processing-exit-and-trump-s-federal-check-halt-converging-on-the -->
+**Going deeper:** [Read MSI's analysis of Washington’s two-track assault on the paper check →](/analyses/2026-07-24-the-fed-s-check-processing-exit-and-trump-s-federal-check-halt-converging-on-the)
