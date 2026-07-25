@@ -129,6 +129,8 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories: []
+analyses:
+- '2026-07-25-three-competing-frames-collide-over-a-classroom-robot'
 ---
 ## Teachers union demands pause on humanoid robot in New York high school
 
@@ -168,3 +170,8 @@ The Salamanca City Central School District and Superintendent Mark Beehler did n
 **Publication date:** 2026-07-25
 **Title:** ‘Really inappropriate’: teachers decry plan for humanoid robot in New York high school
 **URL:** https://www.theguardian.com/us-news/2026/jul/25/new-york-humanoid-robot-teachers-school
+
+---
+
+<!-- analysis-link:2026-07-25-three-competing-frames-collide-over-a-classroom-robot -->
+**Going deeper:** [Read MSI's analysis of the Salamanca school-robot dispute →](/analyses/2026-07-25-three-competing-frames-collide-over-a-classroom-robot)
