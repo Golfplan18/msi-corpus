@@ -161,6 +161,8 @@ related_stories:
   publish_date: '2026-03-21'
   relation: related
   strength: 0.6567
+analyses:
+- '2026-07-24-dot-eliminates-title-vi-disparate-impact-rule-ending-enforcement-tool-that-block'
 ---
 ## Transportation Department eliminates civil rights rule on unintentional discrimination
 
@@ -199,3 +201,8 @@ As federal civil rights protections recede, the authors called on states and loc
 **Publication date:** 2026-07-24
 **Title:** Public transit is a lifeline for countless Americans. Trump is derailing our protections | Lateefah Simon and Guillermo Mayer
 **URL:** https://www.theguardian.com/commentisfree/2026/jul/24/public-transit-is-a-lifeline-for-countless-americans-trump-is-derailing-our-protections
+
+---
+
+<!-- analysis-link:2026-07-24-dot-eliminates-title-vi-disparate-impact-rule-ending-enforcement-tool-that-block -->
+**Going deeper:** [Read MSI's analysis of Will the geographic gap — states without civil-rights frameworks losing the federal backstop entirely — produce a measurable disparity in transit equity outcomes, or will the absence of the enforcement tool remain invisible without a concrete case comparable to the 2009 BART extension? →](/analyses/2026-07-24-dot-eliminates-title-vi-disparate-impact-rule-ending-enforcement-tool-that-block)
