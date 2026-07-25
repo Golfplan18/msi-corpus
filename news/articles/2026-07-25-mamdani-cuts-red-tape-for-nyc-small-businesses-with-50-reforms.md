@@ -167,6 +167,8 @@ related_stories:
   publish_date: '2025-12-29'
   relation: related
   strength: 0.6765
+analyses:
+- '2026-07-25-mamdani-s-50-reform-small-business-package-draws-three-incompatible-endorsements'
 ---
 ## Mamdani cuts red tape for NYC small businesses with 50 reforms
 
@@ -207,3 +209,8 @@ Kelly, a longtime supporter of former Mayor Eric Adams, said she now backs Mamda
 **Publication date:** 2026-07-25
 **Title:** ‘I’m over the moon’: New York’s small business owners rejoice as Mamdani cuts red tape
 **URL:** https://www.theguardian.com/us-news/2026/jul/25/zohran-mamdani-small-business-policies
+
+---
+
+<!-- analysis-link:2026-07-25-mamdani-s-50-reform-small-business-package-draws-three-incompatible-endorsements -->
+**Going deeper:** [Read MSI's analysis of Implementation gap — best-case outcomes if the caseworker expansion delivers; worst-case if the arithmetic doesn't pencil out →](/analyses/2026-07-25-mamdani-s-50-reform-small-business-package-draws-three-incompatible-endorsements)
