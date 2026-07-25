@@ -90,6 +90,8 @@ related_stories:
   publish_date: '2026-07-22'
   relation: related
   strength: 0.6547
+analyses:
+- '2026-07-25-procedural-failures-and-uk-policy-foreclosed-justice-in-the-lucy-harrison-case'
 ---
 ## Mother urges UK to press Texas on daughter's shooting death
 
@@ -139,3 +141,8 @@ Hall said the family did not receive "adequate support" and called on the govern
 **Publication date:** 2026-07-25
 **Title:** ‘Nobody was there for us’: mother urges Andy Burnham to reopen case of daughter killed in Texas
 **URL:** https://www.theguardian.com/us-news/2026/jul/25/mother-urges-andy-burnham-reopen-case-daughter-lucy-harrison-killed-texas
+
+---
+
+<!-- analysis-link:2026-07-25-procedural-failures-and-uk-policy-foreclosed-justice-in-the-lucy-harrison-case -->
+**Going deeper:** [Read MSI's analysis of Lucy Harrison case →](/analyses/2026-07-25-procedural-failures-and-uk-policy-foreclosed-justice-in-the-lucy-harrison-case)
