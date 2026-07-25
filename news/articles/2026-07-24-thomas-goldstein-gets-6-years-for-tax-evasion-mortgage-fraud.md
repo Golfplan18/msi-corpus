@@ -92,6 +92,8 @@ image:
   disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
   ai_model: "openrouter:openai/gpt-5.4-image-2"
   ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+analyses:
+- '2026-07-24-goldstein-s-six-years-is-a-prosecution-win-the-defense-s-addiction-play-is-what'
 ---
 ## Thomas Goldstein gets 6 years for tax evasion, mortgage fraud
 
@@ -131,3 +133,8 @@ While prosecutors alleged Goldstein raked in roughly $50 million in poker winnin
 **Publication date:** 2026-07-24
 **Title:** Former Star Supreme Court Lawyer Gets Six-Year Sentence in Tax Case
 **URL:** https://www.wsj.com/us-news/law/former-star-supreme-court-lawyer-gets-six-year-sentence-in-tax-case-6bbd7c07
+
+---
+
+<!-- analysis-link:2026-07-24-goldstein-s-six-years-is-a-prosecution-win-the-defense-s-addiction-play-is-what -->
+**Going deeper:** [Read MSI's analysis of The Goldstein addiction narrative and the bar-discipline reckoning it just created →](/analyses/2026-07-24-goldstein-s-six-years-is-a-prosecution-win-the-defense-s-addiction-play-is-what)

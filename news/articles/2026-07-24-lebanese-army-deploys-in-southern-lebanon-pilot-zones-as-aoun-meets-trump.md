@@ -176,6 +176,8 @@ image:
   disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
   ai_model: "openrouter:openai/gpt-5.4-image-2"
   ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+analyses:
+- '2026-07-24-a-sovereignty-trap-in-three-acts-lebanon-s-deployment-buys-time-but-cannot-recon'
 ---
 ## Lebanese Army deploys in southern Lebanon pilot zones as Aoun meets Trump
 
@@ -224,3 +226,8 @@ Al-Hashem said that Aoun met with Trump while Israeli Prime Minister Benjamin Ne
 **Publication date:** 2026-07-24
 **Title:** Analysis: Lebanon walks diplomatic tightrope in bid to end Israel war
 **URL:** https://www.upi.com/Top_News/World-News/2026/07/24/lebanon-israel-attempt-to-end-war/9261784921285/
+
+---
+
+<!-- analysis-link:2026-07-24-a-sovereignty-trap-in-three-acts-lebanon-s-deployment-buys-time-but-cannot-recon -->
+**Going deeper:** [Read MSI's analysis of The June 26 framework asks Lebanon's state institutions to deliver what no diplomatic agreement can — a definition of sovereignty that satisfies actors whose core commitments treat sovereignty as mutually exclusive concepts. →](/analyses/2026-07-24-a-sovereignty-trap-in-three-acts-lebanon-s-deployment-buys-time-but-cannot-recon)
