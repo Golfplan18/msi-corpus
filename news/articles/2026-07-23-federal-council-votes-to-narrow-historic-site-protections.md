@@ -84,6 +84,8 @@ related_stories:
   publish_date: '2026-01-13'
   relation: related
   strength: 0.6573
+analyses:
+- '2026-07-23-federal-historic-preservation-council-votes-on-rule-change-that-would-gut-public'
 ---
 ## Federal council votes to narrow historic site protections
 
@@ -129,3 +131,8 @@ Werkheiser called the vote a "foregone conclusion" given the council's compositi
 **Publication date:** 2026-07-23
 **Title:** Trump allies are poised to weaken protections for historic sites — not just in D.C.
 **URL:** https://www.npr.org/2026/07/23/nx-s1-5904435/section-106-review-trump-historic-preservation-council
+
+---
+
+<!-- analysis-link:2026-07-23-federal-historic-preservation-council-votes-on-rule-change-that-would-gut-public -->
+**Going deeper:** [Read MSI's analysis of  →](/analyses/2026-07-23-federal-historic-preservation-council-votes-on-rule-change-that-would-gut-public)
