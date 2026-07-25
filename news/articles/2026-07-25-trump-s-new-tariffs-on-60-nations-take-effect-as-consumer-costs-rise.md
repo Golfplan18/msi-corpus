@@ -158,6 +158,15 @@ related_stories:
   publish_date: '2026-05-08'
   relation: related
   strength: 0.707
+image:
+  url: /articles/2026-07-25-trump-s-new-tariffs-on-60-nations-take-effect-as-consumer-costs-rise.png
+  alt: "Illustration accompanying article: Trump's new tariffs on 60 nations take effect as consumer costs rise"
+  credit: Main Street Independent (algorithmic)
+  source: ai_generated
+  license: "https://creativecommons.org/publicdomain/zero/1.0/"
+  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  ai_model: "openrouter:openai/gpt-5.4-image-2"
+  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
 ---
 ## Trump's new tariffs on 60 nations take effect as consumer costs rise
 

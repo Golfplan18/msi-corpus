@@ -190,6 +190,8 @@ related_stories:
   publish_date: '2026-06-09'
   relation: related
   strength: 0.6636
+analyses:
+- '2026-07-24-kuspc-launch-reveals-an-asymmetric-partnership-south-korean-expertise-embedded-i'
 ---
 ## US, South Korea open shipbuilding center to implement $150 billion MASGA plan
 
@@ -234,3 +236,8 @@ The pace of shipyard investment will depend on how the $150 billion financing pa
 **Publication date:** 2026-07-24
 **Title:** South Korea, U.S. open shipbuilding center in Washington
 **URL:** https://www.upi.com/Top_News/World-News/2026/07/24/masga-investment-plan/8231784928357/
+
+---
+
+<!-- analysis-link:2026-07-24-kuspc-launch-reveals-an-asymmetric-partnership-south-korean-expertise-embedded-i -->
+**Going deeper:** [Read MSI's analysis of The analysis does not require a Tail Edit. The headline accurately summarizes the central argument presented in the analysis body—that the KUSPC framework creates asymmetric switching costs through workforce dependency loops, a defense-technology carve-out, and the embedding of Korean supply chains—and the body substantiates each of these claims. No corrective is needed. →](/analyses/2026-07-24-kuspc-launch-reveals-an-asymmetric-partnership-south-korean-expertise-embedded-i)
