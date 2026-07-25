@@ -179,6 +179,8 @@ image:
   disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
   ai_model: "openrouter:openai/gpt-5.4-image-2"
   ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+analyses:
+- '2026-07-24-the-sequence-is-the-story-how-the-order-of-us-trade-talks-locked-britain-into-hi'
 ---
 ## UK exporters face higher US tariffs than EU rivals after trade deal
 
@@ -217,3 +219,8 @@ Trump is expected to announce more tariffs under Section 301 of the 1974 Trade A
 **Publication date:** 2026-07-24
 **Title:** Trump’s latest tariffs put UK at disadvantage to EU, say experts
 **URL:** https://www.theguardian.com/business/2026/jul/24/trump-tariffs-uk-disadvantage-eu-turnberry-competition
+
+---
+
+<!-- analysis-link:2026-07-24-the-sequence-is-the-story-how-the-order-of-us-trade-talks-locked-britain-into-hi -->
+**Going deeper:** [Read MSI's analysis of Sequential US trade negotiations produced a structural tariff gap against UK exporters on uncovered sectors; the government's "no negative change" framing is technically accurate but competitively irrelevant for clothing, chemicals, and other non-carve-out goods; pending Section 301 pharmaceutical escalation could invert the entire picture overnight. →](/analyses/2026-07-24-the-sequence-is-the-story-how-the-order-of-us-trade-talks-locked-britain-into-hi)
