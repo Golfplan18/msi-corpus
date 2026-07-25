@@ -200,6 +200,8 @@ related_stories:
   publish_date: '2026-06-08'
   relation: related
   strength: 0.758
+analyses:
+- '2026-07-23-100-oil-one-hidden-winner-why-saudi-arabia-benefits-from-the-attack-on-its-own-e'
 ---
 ## Brent crude tops $100 a barrel as Red Sea attacks threaten Saudi export route
 
@@ -231,3 +233,8 @@ Oil prices had fallen back to levels last seen before the US and Israel began mi
 **Publication date:** 2026-07-23
 **Title:** Oil prices hit $100 for the first time since May
 **URL:** https://www.bbc.co.uk/news/articles/cx2djnzrqk2o
+
+---
+
+<!-- analysis-link:2026-07-23-100-oil-one-hidden-winner-why-saudi-arabia-benefits-from-the-attack-on-its-own-e -->
+**Going deeper:** [Read MSI's analysis of The story of $100 oil is being told as a story of disruption by non-state actors and Iranian intransigence, met by steady central bank resolve. The omitted piece is whether Western military strategy and a diplomatic posture that produced no deal set the conditions for the Houthi attack to matter as much as it did — and whether Saudi Arabia, whose bypass route is under fire, is the conflict's most consequential financial beneficiary. An editorial examining the connection between US-Iran escalatory dynamics and the fiscal breathing room $100 oil gives Riyadh would connect dots the market coverage leaves dangling. →](/analyses/2026-07-23-100-oil-one-hidden-winner-why-saudi-arabia-benefits-from-the-attack-on-its-own-e)
