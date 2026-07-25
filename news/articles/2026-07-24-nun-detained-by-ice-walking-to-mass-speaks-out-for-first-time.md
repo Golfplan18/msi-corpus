@@ -157,6 +157,8 @@ related_stories:
   publish_date: '2026-03-07'
   relation: related
   strength: 0.6771
+analyses:
+- '2026-07-24-a-structural-gap-between-judicial-protection-and-enforcement-action-in-the-u-s-i'
 ---
 ## Nun detained by ICE walking to Mass speaks out for first time
 
@@ -195,3 +197,8 @@ The Department of Homeland Security and ICE did not respond to requests for comm
 **Publication date:** 2026-07-24
 **Title:** Texas nun detained by ICE speaks out for first time: ‘It was very heartbreaking for me’
 **URL:** https://www.theguardian.com/us-news/2026/jul/24/texas-nun-detained-ice-speaks-out
+
+---
+
+<!-- analysis-link:2026-07-24-a-structural-gap-between-judicial-protection-and-enforcement-action-in-the-u-s-i -->
+**Going deeper:** [Read MSI's analysis of Structural analysis of Sister Leticia Ugboaja’s detention and release reveals a bypass of judicial protection by third‑country removal route, and a release mechanism that relied on social media and political intervention rather than legal safeguards. →](/analyses/2026-07-24-a-structural-gap-between-judicial-protection-and-enforcement-action-in-the-u-s-i)
