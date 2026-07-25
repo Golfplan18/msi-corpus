@@ -1,7 +1,8 @@
 ---
 headline: The Spectrum Bid Buys a Body at 200 Feet
 publish_date: '2026-07-24'
-lede: Randy is a body on the tower crews of the wireless-infrastructure firm I own through two shells outside Amarillo.
+lede: Randy is a body on the tower crews of the wireless-infrastructure firm I own
+  through two shells outside Amarillo.
 pen_name: sterling-varice
 primary_entities: []
 primary_themes: []
@@ -14,7 +15,8 @@ gdelt_event_ids: []
 consensus_floor_version: current
 publication_mindspec_version: sterling-varice-2026-06
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -30,7 +32,27 @@ figures_aggregate:
   sources: []
 cross_article_links: []
 draft: false
+image:
+  url: /cartoons/the-spectrum-bid-buys-a-body-at-200-feet.png
+  alt: 'Editorial cartoon by Hector Rentier: The Spectrum Bid Buys a Body at 200 Feet'
+  caption: The auction cleared. The harness did not.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-07-24T22:34:20-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: Single panel, 1:1 aspect ratio, heavy cross-hatched wood-engraving. The
+    scene is a banquet table built on the legs of two blackened steel-lattice cell-phone
+    towers, cross-hatched masses of black again
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-07-24-hector-paired-with-2026-07-24-sterling-the-spectrum-bid-buys-a-body-at-200-feet
 ---
+
+![Editorial cartoon by Hector Rentier: The Spectrum Bid Buys a Body at 200 Feet](/cartoons/the-spectrum-bid-buys-a-body-at-200-feet.png)
+*The auction cleared. The harness did not.*
 
 Randy is a body on the tower crews of the wireless-infrastructure firm I own through two shells outside Amarillo. He climbs 200 feet in a full-body harness I bought in October of 2023 and have not inspected since the month I bought it. The harness costs $285. The carrier wrote inspection and replacement schedules into the subcontract. I do not comply with either. Across the 62 climbers I run on the Texas and Oklahoma routes, roughly half the harnesses reach their scheduled replacement in any given year — staggered purchase dates. I skip every one. The annual saving is $8,835. Randy's hands are still steady and the harness is 32 months old and the stitching has not failed. God has not chosen this Tuesday to test it, and God, on the question of nylon fatigue, has my confidence. The bars on your phone right now came up a tower somebody climbed. Randy climbed it. I kept the $285 and the $8,835 and the autumn inspection, and I am going to keep them again in October.
 

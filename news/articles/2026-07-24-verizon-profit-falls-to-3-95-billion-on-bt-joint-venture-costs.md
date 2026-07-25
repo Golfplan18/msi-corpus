@@ -139,6 +139,8 @@ related_stories:
   publish_date: '2026-01-14'
   relation: related
   strength: 0.6543
+analyses:
+- '2026-07-24-verizon-s-q2-2026-the-three-loop-tightrope-between-cost-cuts-subscriber-growth-a'
 ---
 ## Verizon profit falls to $3.95 billion on BT joint venture costs
 
@@ -176,3 +178,8 @@ For the full year, Verizon raised its adjusted earnings-per-share outlook to a r
 **Publication date:** 2026-07-24
 **Title:** Verizon Seeks Opportunities From AI Boom as Turnaround Continues
 **URL:** https://www.wsj.com/business/earnings/verizon-revenue-ticks-down-profit-falls-on-joint-venture-costs-01726dbf
+
+---
+
+<!-- analysis-link:2026-07-24-verizon-s-q2-2026-the-three-loop-tightrope-between-cost-cuts-subscriber-growth-a -->
+**Going deeper:** [Read MSI's analysis of Verizon's strategic pivot — domestic retrenchment, asset monetization, and the structural tension between three non-overlapping operating loops →](/analyses/2026-07-24-verizon-s-q2-2026-the-three-loop-tightrope-between-cost-cuts-subscriber-growth-a)

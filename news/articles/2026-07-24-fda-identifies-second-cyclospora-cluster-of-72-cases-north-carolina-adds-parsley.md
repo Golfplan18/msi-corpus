@@ -160,6 +160,8 @@ related_stories:
   publish_date: '2026-07-23'
   relation: related
   strength: 0.7196
+analyses:
+- '2026-07-24-when-the-regulator-and-the-regulated-speak-in-code-how-a-delayed-rule-a-missing'
 ---
 ## FDA identifies second cyclospora cluster of 72 cases; North Carolina adds parsley and cilantro to investigation
 
@@ -212,3 +214,8 @@ Emily Hilliard, a spokesperson for the Department of Health and Human Services, 
 **Publication date:** 2026-07-24
 **Title:** Confusing product recall adds to US cyclospora outbreak uncertainty
 **URL:** https://www.theguardian.com/us-news/2026/jul/24/cyclospora-parasite-outbreak-product-recall
+
+---
+
+<!-- analysis-link:2026-07-24-when-the-regulator-and-the-regulated-speak-in-code-how-a-delayed-rule-a-missing -->
+**Going deeper:** [Read MSI's analysis of The information-vacuum feedback loop between the FDA and Taylor Farms, and the regulatory infrastructure gap that enabled it →](/analyses/2026-07-24-when-the-regulator-and-the-regulated-speak-in-code-how-a-delayed-rule-a-missing)

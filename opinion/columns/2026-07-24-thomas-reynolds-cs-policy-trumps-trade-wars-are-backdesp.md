@@ -15,7 +15,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 0
@@ -28,9 +29,20 @@ figures_aggregate:
   series_ids: []
   sources: []
 image:
-  url: /articles/2026-07-24-trump-invokes-1930-tariff-law-to-escalate-trade-war.png
-  alt: 'Illustration accompanying article: Trump invokes 1930 tariff law to escalate trade war'
+  url: /cartoons/trump-turned-anti-discrimination-law-into-a-weapon-against.png
+  alt: 'Editorial cartoon by Hector Rentier: Trump Turned Anti-Discrimination Law
+    Into a Weapon Against Canada'
+  caption: The statute said anti-discrimination. The tariff said otherwise.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
   source: ai_generated
+  attached_at: '2026-07-24T22:27:42-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: Single central allegorical figure, 1:1, rendered in heavy cross-hatch
+    / wood-engraving in the Nast tradition. A composed, fully individuated figure
+    — the president as public figure — stands at a podiu
+  license: https://creativecommons.org/publicdomain/zero/1.0/
 cross_article_links:
 - slug: 2026-07-24-trump-invokes-1930-tariff-law-to-escalate-trade-war
   relation: extends
@@ -38,7 +50,13 @@ cross_article_links:
   confidence: high
 draft: false
 backlog_release: true
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-07-24-hector-paired-with-2026-07-24-thomas-reynolds-cs-policy-trumps-trade-wars-are-backdesp
 ---
+
+![Editorial cartoon by Hector Rentier: Trump Turned Anti-Discrimination Law Into a Weapon Against Canada](/cartoons/trump-turned-anti-discrimination-law-into-a-weapon-against.png)
+*The statute said anti-discrimination. The tariff said otherwise.*
 
 Trump is perverting Section 338 to discriminate against Canada.
 

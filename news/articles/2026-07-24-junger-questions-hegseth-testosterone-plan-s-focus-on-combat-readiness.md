@@ -76,6 +76,8 @@ related_stories:
   publish_date: '2026-07-22'
   relation: related
   strength: 0.6558
+analyses:
+- '2026-07-24-the-pentagon-s-testosterone-plan-targets-readiness-it-misses-who-actually-determ'
 ---
 ## Junger questions Hegseth testosterone plan's focus on combat readiness
 
@@ -112,3 +114,8 @@ The testosterone screening initiative is part of Hegseth's broader push to resha
 **Publication date:** 2026-07-24
 **Title:** There’s More to Peak Military Performance Than Testosterone. I’ve Seen It.
 **URL:** https://www.wsj.com/politics/national-security/military-performance-testosterone-hegseth-2955f713
+
+---
+
+<!-- analysis-link:2026-07-24-the-pentagon-s-testosterone-plan-targets-readiness-it-misses-who-actually-determ -->
+**Going deeper:** [Read MSI's analysis of The gap between "warfighter" rhetoric and the population a screening program actually serves. →](/analyses/2026-07-24-the-pentagon-s-testosterone-plan-targets-readiness-it-misses-who-actually-determ)

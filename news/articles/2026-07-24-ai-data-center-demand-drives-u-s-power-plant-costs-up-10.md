@@ -162,6 +162,8 @@ related_stories:
   publish_date: '2026-07-13'
   relation: related
   strength: 0.6644
+analyses:
+- '2026-07-24-ai-data-center-demand-is-driving-a-1-4-trillion-grid-build-out-and-blending-the'
 ---
 ## AI data center demand drives U.S. power plant costs up 10%
 
@@ -207,3 +209,8 @@ The White House has persuaded tech companies and a group of electric utilities t
 **Publication date:** 2026-07-24
 **Title:** America’s Demand for Power Is Soaring—and So Are the Costs of Building Out the Grid
 **URL:** https://www.wsj.com/business/energy-oil/americas-demand-for-power-is-soaringand-so-are-the-costs-of-building-out-the-grid-f57b5adb
+
+---
+
+<!-- analysis-link:2026-07-24-ai-data-center-demand-is-driving-a-1-4-trillion-grid-build-out-and-blending-the -->
+**Going deeper:** [Read MSI's analysis of U.S. electricity grid: cost allocation for AI data centers →](/analyses/2026-07-24-ai-data-center-demand-is-driving-a-1-4-trillion-grid-build-out-and-blending-the)
