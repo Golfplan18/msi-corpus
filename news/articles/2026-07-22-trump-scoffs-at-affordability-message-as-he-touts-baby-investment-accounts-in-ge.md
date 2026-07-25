@@ -189,6 +189,8 @@ related_stories:
   publish_date: '2026-05-22'
   relation: related
   strength: 0.6866
+analyses:
+- '2026-07-22-baby-investment-accounts-enter-the-war-economy-gas-prices-already-define'
 ---
 ## Trump scoffs at 'affordability' message as he touts baby investment accounts in Georgia
 
@@ -228,3 +230,8 @@ The family of 1st Lt. Tyler James Feehan, 25, of Ewa Beach, Hawaii, accompanied 
 **Publication date:** 2026-07-22
 **Title:** Trump scoffs at ‘affordability’ as he touts economic policies at Georgia rally
 **URL:** https://www.theguardian.com/us-news/2026/jul/22/trump-affordability-georgia-rally
+
+---
+
+<!-- analysis-link:2026-07-22-baby-investment-accounts-enter-the-war-economy-gas-prices-already-define -->
+**Going deeper:** [Read MSI's analysis of the war economy gas prices already define →](/analyses/2026-07-22-baby-investment-accounts-enter-the-war-economy-gas-prices-already-define)
