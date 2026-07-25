@@ -149,6 +149,8 @@ related_stories:
   publish_date: '2026-04-09'
   relation: related
   strength: 0.7604
+analyses:
+- '2026-07-23-satellite-imagery-shows-iran-rebuilding-faster-than-u-s-israeli-strikes-can-stop'
 ---
 ## Satellite imagery shows Iran rebuilding sites damaged in U.S.-Israeli strikes
 
@@ -200,3 +202,8 @@ Israeli intelligence services believe Iran may have transferred thousands of cen
 **Publication date:** 2026-07-23
 **Title:** Satellite Images Show Iran Is Rebuilding. Fast.
 **URL:** https://www.wsj.com/world/middle-east/satellite-images-show-iran-is-rebuilding-fast-199978f7
+
+---
+
+<!-- analysis-link:2026-07-23-satellite-imagery-shows-iran-rebuilding-faster-than-u-s-israeli-strikes-can-stop -->
+**Going deeper:** [Read MSI's analysis of Iran's reconstruction capability →](/analyses/2026-07-23-satellite-imagery-shows-iran-rebuilding-faster-than-u-s-israeli-strikes-can-stop)
