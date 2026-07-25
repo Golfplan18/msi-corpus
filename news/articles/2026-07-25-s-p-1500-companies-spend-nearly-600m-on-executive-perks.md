@@ -102,6 +102,8 @@ related_stories:
   publish_date: '2026-05-27'
   relation: related
   strength: 0.6867
+analyses:
+- '2026-07-25-s-p-1500-companies-spend-nearly-600-million-on-executive-perks-and-a-security-ju'
 ---
 ## S&P 1500 companies spend nearly $600M on executive perks
 
@@ -163,3 +165,8 @@ The Journal said it gave all companies mentioned in the article the opportunity 
 **Publication date:** 2026-07-25
 **Title:** See the $600 Million World of Executive Perks
 **URL:** https://www.wsj.com/business/see-the-600-million-world-of-executive-perks-e8759807
+
+---
+
+<!-- analysis-link:2026-07-25-s-p-1500-companies-spend-nearly-600-million-on-executive-perks-and-a-security-ju -->
+**Going deeper:** [Read MSI's analysis of Executives and Boards; Compensation Governance →](/analyses/2026-07-25-s-p-1500-companies-spend-nearly-600-million-on-executive-perks-and-a-security-ju)

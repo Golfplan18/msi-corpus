@@ -177,6 +177,8 @@ image:
   disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
   ai_model: "openrouter:openai/gpt-5.4-image-2"
   ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+analyses:
+- '2026-07-25-why-iran-s-kheibar-shekan-is-becoming-the-hardest-missile-to-stop-in-the-middle'
 ---
 ## Iran's Kheibar Shekan missile becoming more difficult to intercept, U.S. officials say
 
@@ -227,3 +229,8 @@ The missile is named after the Battle of Khaybar, the 628 campaign in which the 
 **Publication date:** 2026-07-25
 **Title:** Cheap, Accurate and Lethal: Iran’s Best Missile Is Getting More Dangerous
 **URL:** https://www.wsj.com/world/middle-east/iran-kheibar-shekan-missile-5776a6e4
+
+---
+
+<!-- analysis-link:2026-07-25-why-iran-s-kheibar-shekan-is-becoming-the-hardest-missile-to-stop-in-the-middle -->
+**Going deeper:** [Read MSI's analysis of  →](/analyses/2026-07-25-why-iran-s-kheibar-shekan-is-becoming-the-hardest-missile-to-stop-in-the-middle)

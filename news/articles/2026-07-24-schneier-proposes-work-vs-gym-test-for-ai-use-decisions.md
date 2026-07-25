@@ -149,6 +149,8 @@ related_stories:
   publish_date: '2026-03-27'
   relation: related
   strength: 0.6518
+analyses:
+- '2026-07-24-schneier-s-work-gym-boundary-is-structurally-overridden'
 ---
 ## Schneier proposes 'work vs gym' test for AI use decisions
 
@@ -183,3 +185,8 @@ Schneier urged readers to deliberately wall off "cognitive gym tasks" from AI, j
 **Publication date:** 2026-07-24
 **Title:** Should you use AI for a task? Here’s a simple way to decide | Bruce Schneier
 **URL:** https://www.theguardian.com/commentisfree/2026/jul/24/should-you-use-ai
+
+---
+
+<!-- analysis-link:2026-07-24-schneier-s-work-gym-boundary-is-structurally-overridden -->
+**Going deeper:** [Read MSI's analysis of Schneier's work-gym framework →](/analyses/2026-07-24-schneier-s-work-gym-boundary-is-structurally-overridden)

@@ -162,6 +162,15 @@ related_stories:
   publish_date: '2026-05-19'
   relation: related
   strength: 0.759
+image:
+  url: /articles/2026-07-25-trump-says-u-s-is-locked-and-loaded-as-iran-talks-continue.png
+  alt: "Illustration accompanying article: Trump says U.S. is 'locked and loaded' as Iran talks continue"
+  credit: Main Street Independent (algorithmic)
+  source: ai_generated
+  license: "https://creativecommons.org/publicdomain/zero/1.0/"
+  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  ai_model: "openrouter:openai/gpt-5.4-image-2"
+  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
 ---
 ## Trump says U.S. is 'locked and loaded' as Iran talks continue
 
