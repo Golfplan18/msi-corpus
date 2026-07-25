@@ -183,6 +183,8 @@ related_stories:
   publish_date: '2026-07-18'
   relation: related
   strength: 0.7165
+analyses:
+- '2026-07-24-fda-s-false-positive-retraction-drives-consumer-panic-in-41-state-cyclospora-out'
 ---
 ## Cyclospora outbreak reaches 4,173 confirmed cases across 41 states
 
@@ -227,3 +229,8 @@ Michelle Palmiter said she is still eating fruits and vegetables, but only ones 
 **Publication date:** 2026-07-24
 **Title:** Using a bathroom 20 times a day - life in the middle of US cyclospora outbreak
 **URL:** https://www.bbc.co.uk/news/articles/c8dn92m0mqjo
+
+---
+
+<!-- analysis-link:2026-07-24-fda-s-false-positive-retraction-drives-consumer-panic-in-41-state-cyclospora-out -->
+**Going deeper:** [Read MSI's analysis of Cyclospora outbreak institutional response →](/analyses/2026-07-24-fda-s-false-positive-retraction-drives-consumer-panic-in-41-state-cyclospora-out)
