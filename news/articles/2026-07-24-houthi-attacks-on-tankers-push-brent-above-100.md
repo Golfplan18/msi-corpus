@@ -129,6 +129,8 @@ related_stories:
   publish_date: '2026-06-09'
   relation: related
   strength: 0.8201
+analyses:
+- '2026-07-24-brent-above-100-is-the-market-pricing-a-crisis-nobody-is-trying-to-stop'
 ---
 ## Houthi attacks on tankers push Brent above $100
 
@@ -165,3 +167,8 @@ Euroz Hartleys said it expects Beach Energy to pay dividends of A$0.04 per share
 **Publication date:** 2026-07-24
 **Title:** Energy & Utilities Roundup: Market Talk
 **URL:** https://www.wsj.com/business/energy-utilities-roundup-market-talk-11df10d5
+
+---
+
+<!-- analysis-link:2026-07-24-brent-above-100-is-the-market-pricing-a-crisis-nobody-is-trying-to-stop -->
+**Going deeper:** [Read MSI's analysis of Houthi oil crisis: empty third-side, cheap-talk deterrence, finite buffer →](/analyses/2026-07-24-brent-above-100-is-the-market-pricing-a-crisis-nobody-is-trying-to-stop)
