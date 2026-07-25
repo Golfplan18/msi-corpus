@@ -174,6 +174,8 @@ image:
   disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
   ai_model: "openrouter:openai/gpt-5.4-image-2"
   ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+analyses:
+- '2026-07-24-the-white-house-correspondents-dinner-resumes-with-trump-after-april-attack'
 ---
 ## White House correspondents’ dinner resumes with Trump after April attack
 
@@ -215,3 +217,8 @@ Friday’s event was billed as a celebration of journalism and the First Amendme
 **Publication date:** 2026-07-24
 **Title:** Trump, White House Press Gather for Smaller, High-Security Gala
 **URL:** https://www.wsj.com/us-news/white-house-press-gathers-for-do-over-with-trump-at-smaller-high-security-gala-cf371875
+
+---
+
+<!-- analysis-link:2026-07-24-the-white-house-correspondents-dinner-resumes-with-trump-after-april-attack -->
+**Going deeper:** [Read MSI's analysis of Press-administration power dynamics; WHCA institutional autonomy; security failure as executive leverage; structural contradictions of the rescheduled dinner; absent attendees as suppressed political signal →](/analyses/2026-07-24-the-white-house-correspondents-dinner-resumes-with-trump-after-april-attack)
