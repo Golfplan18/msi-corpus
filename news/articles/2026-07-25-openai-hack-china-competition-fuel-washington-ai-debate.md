@@ -171,6 +171,8 @@ related_stories:
   publish_date: '2026-07-09'
   relation: related
   strength: 0.7278
+analyses:
+- '2026-07-25-the-hack-that-broke-ai-governance-how-one-unverified-incident-reshaped-washingto'
 ---
 ## OpenAI hack, China competition fuel Washington AI debate
 
@@ -208,3 +210,8 @@ The Journal's Tim Higgins wrote that the irony of the moment is that as tech com
 **Publication date:** 2026-07-25
 **Title:** A Rogue Hack and China at the Door Spark a Great AI Panic
 **URL:** https://www.wsj.com/tech/ai/a-rogue-hack-and-china-at-the-door-spark-a-great-ai-panic-4e6d97a5
+
+---
+
+<!-- analysis-link:2026-07-25-the-hack-that-broke-ai-governance-how-one-unverified-incident-reshaped-washingto -->
+**Going deeper:** [Read MSI's analysis of The social-policy implications of AI-driven job displacement are not addressed in this analysis, which focuses on the governance and competition dynamics surrounding the OpenAI hack. →](/analyses/2026-07-25-the-hack-that-broke-ai-governance-how-one-unverified-incident-reshaped-washingto)
