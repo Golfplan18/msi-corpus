@@ -190,6 +190,8 @@ related_stories:
   publish_date: '2026-04-10'
   relation: related
   strength: 0.7395
+analyses:
+- '2026-07-26-the-unresolved-collision-how-wisconsin-s-warning-exposed-the-unstable-foundation'
 ---
 ## Wisconsin warns election bets could cost voters their ballot
 
@@ -231,3 +233,8 @@ Despite its warning, the Wisconsin Elections Commission noted in its statement t
 **Publication date:** 2026-07-26
 **Title:** Wisconsin’s Warning on Election Bets Intensifies Fight With Prediction Markets
 **URL:** https://www.wsj.com/finance/regulation/wisconsins-warning-on-election-bets-intensifies-fight-with-prediction-markets-b0923735
+
+---
+
+<!-- analysis-link:2026-07-26-the-unresolved-collision-how-wisconsin-s-warning-exposed-the-unstable-foundation -->
+**Going deeper:** [Read MSI's analysis of Analysis of the Wall Street Journal's reporting on the Wisconsin Elections Commission's warning finds the article accurately captures the surface conflict but systematically buries a recent federal ruling against prediction platforms, overstates an unenforceable voter disenfranchisement threat, and presents industry marketing claims as established consensus — while the deeper story is a paradigmatic clash over whether an election is a civic selection, a forecasting problem, or a regulated event, a question the 2026 midterms will be the first to test. →](/analyses/2026-07-26-the-unresolved-collision-how-wisconsin-s-warning-exposed-the-unstable-foundation)
