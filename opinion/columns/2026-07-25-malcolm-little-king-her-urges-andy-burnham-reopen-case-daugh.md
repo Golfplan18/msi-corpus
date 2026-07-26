@@ -15,7 +15,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 0
@@ -34,7 +35,27 @@ cross_article_links:
   confidence: high
 draft: false
 backlog_release: true
+image:
+  url: /cartoons/the-gun-could-not-fire-itself.png
+  alt: 'Editorial cartoon by Hector Rentier: The Gun Could Not Fire Itself'
+  caption: The gun could not fire itself. The architecture could.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-07-25T22:17:34-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: Single central allegorical scene, 1:1. A massive stone building fills
+    the frame — dense cross-hatched walls, imposing classical columns, the word TEXAS
+    carved deep into the facade lintel. The building
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-07-25-hector-paired-with-2026-07-25-malcolm-little-king-her-urges-andy-burnham-reopen-case-daugh
 ---
+
+![Editorial cartoon by Hector Rentier: The Gun Could Not Fire Itself](/cartoons/the-gun-could-not-fire-itself.png)
+*The gun could not fire itself. The architecture could.*
 
 **A Glock 9mm cannot fire unless the trigger is pulled. A Texas Ranger told the man who held it. He said, "OK." The investigation protected him. The legal architecture protected the conditions that killed her.**
 
