@@ -31,8 +31,7 @@ topic_tags:
 - weather
 - disaster
 - environment
-storyline_nexus:
-- extreme-weather
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

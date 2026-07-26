@@ -34,8 +34,7 @@ topic_tags:
 - political process
 - political dissent
 - government
-storyline_nexus:
-- nicaragua
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

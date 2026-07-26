@@ -28,8 +28,7 @@ topic_tags:
 - government policy
 - conflict, war and peace
 storyline_nexus:
-- US-NATO relations
-- Trump foreign policy
+- trump-foreign-policy-reshaping
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

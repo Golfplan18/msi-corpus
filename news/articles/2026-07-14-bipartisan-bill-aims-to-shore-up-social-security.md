@@ -27,8 +27,7 @@ topic_tags:
 - government policy
 - labour
 - wage and pension
-storyline_nexus:
-- social-security-funding
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness

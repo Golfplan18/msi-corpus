@@ -25,8 +25,7 @@ topic_tags:
 - government policy
 - international relations
 - peace process
-storyline_nexus:
-- us-saudi-nuclear-cooperation
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

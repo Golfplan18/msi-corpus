@@ -24,8 +24,7 @@ primary_themes:
 - justice system
 topic_tags:
 - crime
-storyline_nexus:
-- crime
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

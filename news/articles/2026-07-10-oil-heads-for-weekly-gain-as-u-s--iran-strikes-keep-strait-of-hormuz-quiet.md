@@ -30,7 +30,7 @@ topic_tags:
 - international relations
 - economy, business and finance
 storyline_nexus:
-- gulf-energy-crisis
+- the-iran-war
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

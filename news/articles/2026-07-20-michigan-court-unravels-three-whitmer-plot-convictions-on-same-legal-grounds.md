@@ -26,8 +26,7 @@ primary_themes:
 topic_tags:
 - crime
 - terrorism
-storyline_nexus:
-- justice-accountability
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

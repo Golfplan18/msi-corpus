@@ -21,8 +21,7 @@ primary_themes:
 topic_tags:
 - society
 - economy
-storyline_nexus:
-- guaranteed-income
+storyline_nexus: []
 floor_values_engaged:
 - value: equality_fairness
   intensity: 0.9

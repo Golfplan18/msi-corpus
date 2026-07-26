@@ -24,9 +24,7 @@ topic_tags:
 - religious institution
 - people
 - communities
-storyline_nexus:
-- equality-and-fairness
-- human_life_and_dignity
+storyline_nexus: []
 geographic_location: International
 floor_values_engaged:
 - value: equality_fairness

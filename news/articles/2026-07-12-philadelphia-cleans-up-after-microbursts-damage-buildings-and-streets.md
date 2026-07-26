@@ -26,8 +26,7 @@ topic_tags:
 - natural disaster
 - disaster, accident and emergency incident
 - weather warning
-storyline_nexus:
-- philadelphia-microbursts
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: truthfulness

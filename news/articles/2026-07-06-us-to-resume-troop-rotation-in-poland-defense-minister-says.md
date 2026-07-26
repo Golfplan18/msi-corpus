@@ -30,7 +30,7 @@ topic_tags:
 - conflict, war and peace
 - government policy
 storyline_nexus:
-- us-europe-troop-posture
+- trump-foreign-policy-reshaping
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

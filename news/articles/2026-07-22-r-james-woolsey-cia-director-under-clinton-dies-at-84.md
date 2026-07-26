@@ -26,8 +26,7 @@ topic_tags:
 - terrorism
 - conflict, war and peace
 - health
-storyline_nexus:
-- government-intelligence
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

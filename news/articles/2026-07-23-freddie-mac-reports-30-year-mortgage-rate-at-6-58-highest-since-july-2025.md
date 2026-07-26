@@ -17,8 +17,7 @@ primary_themes:
 - household budgets
 topic_tags:
 - economy
-storyline_nexus:
-- housing-and-mortgage-rates
+storyline_nexus: []
 geographic_location: International
 floor_values_engaged:
 - value: equality_fairness

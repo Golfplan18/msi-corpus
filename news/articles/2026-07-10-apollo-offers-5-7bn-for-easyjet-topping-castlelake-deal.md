@@ -24,8 +24,7 @@ topic_tags:
 - financial and business service
 - market and exchange
 - transport
-storyline_nexus:
-- main-street-independent
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship

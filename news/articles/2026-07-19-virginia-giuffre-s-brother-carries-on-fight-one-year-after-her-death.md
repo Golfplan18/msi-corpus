@@ -30,8 +30,7 @@ primary_themes:
 - government transparency
 topic_tags:
 - crime
-storyline_nexus:
-- epstein-scandal
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

@@ -27,9 +27,7 @@ topic_tags:
 - civil rights
 - law
 - government policy
-storyline_nexus:
-- voting-rights
-- wisconsin
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship

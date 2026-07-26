@@ -19,8 +19,7 @@ primary_themes:
 - rural infrastructure
 topic_tags:
 - politics
-storyline_nexus:
-- voting-rights
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness

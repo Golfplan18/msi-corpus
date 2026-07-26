@@ -24,9 +24,7 @@ topic_tags:
 - wage and pension
 - government policy
 - politics
-storyline_nexus:
-- tax-and-fiscal-policy
-- retirement-security
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

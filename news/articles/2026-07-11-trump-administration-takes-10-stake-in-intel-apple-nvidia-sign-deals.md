@@ -34,10 +34,7 @@ topic_tags:
 - computing and information technology
 - government policy
 - manufacturing and engineering
-storyline_nexus:
-- industrial-policy
-- semiconductor-supply-chain
-- trump-economy
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

@@ -27,10 +27,7 @@ topic_tags:
 - election
 - political process
 - social condition
-storyline_nexus:
-- ice-enforcement
-- data-center-backlash
-- voting-rights
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

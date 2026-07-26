@@ -23,9 +23,7 @@ topic_tags:
 - government
 - government policy
 - economy
-storyline_nexus:
-- special-relationship
-- presidential-legacy
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

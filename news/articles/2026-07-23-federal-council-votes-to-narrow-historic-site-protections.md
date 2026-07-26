@@ -31,8 +31,7 @@ primary_themes:
 - public participation
 topic_tags:
 - environment
-storyline_nexus:
-- historic-preservation-trump
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

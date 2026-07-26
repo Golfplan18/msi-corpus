@@ -27,8 +27,7 @@ primary_themes:
 - counter-narcotics operations
 topic_tags:
 - terrorism
-storyline_nexus:
-- U.S.-Mexico cartel designation campaign
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

@@ -23,8 +23,7 @@ primary_themes:
 topic_tags:
 - armed conflict
 - peace process
-storyline_nexus:
-- israel-lebanon-ceasefire
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

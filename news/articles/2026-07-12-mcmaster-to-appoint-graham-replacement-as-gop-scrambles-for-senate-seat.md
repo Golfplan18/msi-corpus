@@ -31,9 +31,7 @@ topic_tags:
 - election
 - political process
 storyline_nexus:
-- succession
-- power
-- 2026-midterms
+- 2026-midterm-elections
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

@@ -34,9 +34,7 @@ topic_tags:
 - conflict, war and peace
 - international relations
 - economy, business and finance
-storyline_nexus:
-- middle-east-geopolitics
-- energy
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

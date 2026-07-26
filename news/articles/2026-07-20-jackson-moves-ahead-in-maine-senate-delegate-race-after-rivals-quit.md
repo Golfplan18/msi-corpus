@@ -26,8 +26,7 @@ topic_tags:
 - election
 - politics
 - government policy
-storyline_nexus:
-- maine-senate-race-2026
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness

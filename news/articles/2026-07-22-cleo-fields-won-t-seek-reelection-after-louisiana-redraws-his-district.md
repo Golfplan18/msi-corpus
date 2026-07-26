@@ -19,9 +19,7 @@ topic_tags:
 - election
 - politics
 - civil rights
-storyline_nexus:
-- redistricting
-- voting-rights
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness

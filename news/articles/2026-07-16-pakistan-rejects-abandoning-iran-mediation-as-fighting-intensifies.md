@@ -25,8 +25,7 @@ topic_tags:
 - international relations
 - government
 - conflict, war and peace
-storyline_nexus:
-- main-street-independent
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

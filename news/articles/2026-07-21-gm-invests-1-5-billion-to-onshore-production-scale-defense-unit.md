@@ -34,8 +34,7 @@ primary_themes:
 - auto manufacturing
 topic_tags:
 - transport
-storyline_nexus:
-- auto-and-transport-sector
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

@@ -19,8 +19,7 @@ primary_themes:
 topic_tags:
 - economy
 - politics
-storyline_nexus:
-- us-industrial-policy
+storyline_nexus: []
 floor_values_engaged:
 - value: equality_fairness
   intensity: 0.9

@@ -31,8 +31,7 @@ topic_tags:
 - economy, business and finance
 - computing and information technology
 - construction and property
-storyline_nexus:
-- main-street-independent
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

@@ -31,8 +31,7 @@ topic_tags:
 - government
 - law enforcement
 - business information
-storyline_nexus:
-- main-street-independent
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

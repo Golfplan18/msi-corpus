@@ -23,9 +23,7 @@ topic_tags:
 - government
 - politics
 - election
-storyline_nexus:
-- congressional-budget
-- government-shutdown
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

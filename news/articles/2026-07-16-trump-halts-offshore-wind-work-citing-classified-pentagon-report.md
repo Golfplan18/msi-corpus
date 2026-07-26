@@ -23,8 +23,7 @@ topic_tags:
 - energy and resource
 - politics
 - climate change
-storyline_nexus:
-- u-s-energy-policy
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: truthfulness

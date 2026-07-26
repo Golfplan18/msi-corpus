@@ -27,7 +27,7 @@ topic_tags:
 - science and technology
 - economy, business and finance
 storyline_nexus:
-- openai-gpt-5-6-release-and-regulation
+- ai-industry-regulation
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

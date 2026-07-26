@@ -28,8 +28,7 @@ topic_tags:
 - international military intervention
 - political process
 - peace process
-storyline_nexus:
-- north-korea-russia-ties
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

@@ -26,10 +26,7 @@ primary_themes:
 - midterm elections
 topic_tags:
 - politics
-storyline_nexus:
-- Arizona election administration
-- Trump election claims
-- 2026 midterm elections
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: truthfulness

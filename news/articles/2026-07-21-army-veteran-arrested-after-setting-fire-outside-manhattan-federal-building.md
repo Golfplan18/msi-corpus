@@ -27,8 +27,7 @@ topic_tags:
 - crime
 - terrorism
 - law enforcement
-storyline_nexus:
-- Anti-ICE violence
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

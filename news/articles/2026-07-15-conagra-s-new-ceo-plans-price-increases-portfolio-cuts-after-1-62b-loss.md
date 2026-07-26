@@ -27,9 +27,7 @@ topic_tags:
 - consumer goods
 - competition discipline
 - industrial accident and incident
-storyline_nexus:
-- consumer-economy
-- corporate-accountability
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

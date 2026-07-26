@@ -22,8 +22,7 @@ primary_themes:
 - class action lawsuits
 topic_tags:
 - artificial intelligence
-storyline_nexus:
-- ai-copyright
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness

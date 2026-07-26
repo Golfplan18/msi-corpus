@@ -18,8 +18,7 @@ topic_tags:
 - political process
 - judiciary
 - government
-storyline_nexus:
-- south-africa-political-crisis
+storyline_nexus: []
 floor_values_engaged: []
 framework_version: 1.3.0
 generation_timestamp: '2026-05-29T18:06:13Z'

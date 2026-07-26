@@ -25,7 +25,7 @@ primary_themes:
 topic_tags:
 - politics
 storyline_nexus:
-- russia-ukraine
+- ukraine-war-peace-negotiations
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

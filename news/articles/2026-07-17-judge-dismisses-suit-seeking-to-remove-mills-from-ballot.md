@@ -26,8 +26,7 @@ topic_tags:
 - law
 - judiciary
 - political process
-storyline_nexus:
-- election-law
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

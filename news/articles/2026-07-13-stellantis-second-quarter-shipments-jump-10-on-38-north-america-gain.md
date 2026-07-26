@@ -27,8 +27,7 @@ topic_tags:
 - manufacturing and engineering
 - transport
 - international trade
-storyline_nexus:
-- automotive industry
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: truthfulness

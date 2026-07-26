@@ -30,8 +30,7 @@ primary_themes:
 - indigenous-sacred-sites
 topic_tags:
 - environment
-storyline_nexus:
-- border-wall
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness

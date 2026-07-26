@@ -24,8 +24,7 @@ primary_themes:
 - Semiconductor industry
 - Middle East conflict
 topic_tags: []
-storyline_nexus:
-- main-street-independent
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged: []
 framework_version: 1.4.1

@@ -19,8 +19,7 @@ primary_themes:
 topic_tags:
 - environment
 - health
-storyline_nexus:
-- pfas-regulation
+storyline_nexus: []
 floor_values_engaged:
 - value: human_life_and_dignity
   intensity: 0.9

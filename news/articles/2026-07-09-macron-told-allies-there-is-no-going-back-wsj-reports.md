@@ -34,8 +34,7 @@ primary_themes:
 - tariffs
 topic_tags:
 - international relations
-storyline_nexus:
-- europe-us-rupture
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

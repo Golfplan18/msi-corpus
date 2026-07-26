@@ -25,10 +25,7 @@ primary_themes:
 - education policy
 topic_tags:
 - education
-storyline_nexus:
-- book-bans
-- education-policy
-- first-amendment
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

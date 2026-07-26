@@ -24,9 +24,7 @@ topic_tags:
 - government policy
 - international military intervention
 - peace process
-storyline_nexus:
-- iran-war
-- middle-east-conflict
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

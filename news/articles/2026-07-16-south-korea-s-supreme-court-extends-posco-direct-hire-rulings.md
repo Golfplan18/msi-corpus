@@ -27,9 +27,7 @@ topic_tags:
 - employment
 - economy, business and finance
 - labour dispute
-storyline_nexus:
-- south-korea-labor-rights
-- judicial-accountability
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness

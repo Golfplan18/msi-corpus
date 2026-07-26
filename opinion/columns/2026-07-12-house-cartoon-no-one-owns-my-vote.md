@@ -30,9 +30,7 @@ primary_themes:
 - Israel-Palestine conflict
 topic_tags:
 - politics
-storyline_nexus:
-- middle-east-conflict
-- us-domestic-politics
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

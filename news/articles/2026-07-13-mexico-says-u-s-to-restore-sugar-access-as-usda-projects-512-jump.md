@@ -27,8 +27,7 @@ primary_themes:
 topic_tags:
 - agriculture
 - international trade
-storyline_nexus:
-- us-mexico-trade
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: truthfulness

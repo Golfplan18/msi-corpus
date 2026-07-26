@@ -24,8 +24,7 @@ primary_themes:
 - social media activism
 topic_tags:
 - crime, law and justice
-storyline_nexus:
-- racial justice
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

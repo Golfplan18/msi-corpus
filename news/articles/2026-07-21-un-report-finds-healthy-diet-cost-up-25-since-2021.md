@@ -30,9 +30,7 @@ topic_tags:
 - politics
 - society
 - environment
-storyline_nexus:
-- food-price-spiral
-- strait-of-hormuz-disruption
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

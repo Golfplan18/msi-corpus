@@ -27,8 +27,7 @@ primary_themes:
 - inflation
 topic_tags:
 - economy
-storyline_nexus:
-- iran-war-economic-impact
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness

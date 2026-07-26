@@ -27,9 +27,7 @@ primary_themes:
 - biotech competition
 topic_tags:
 - biotechnology
-storyline_nexus:
-- us-healthcare
-- pharmaceutical-industry
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

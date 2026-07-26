@@ -28,10 +28,7 @@ topic_tags:
 - business information
 - labour
 - government policy
-storyline_nexus:
-- nyc-mayor-mamdani
-- small-business
-- regulation
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness

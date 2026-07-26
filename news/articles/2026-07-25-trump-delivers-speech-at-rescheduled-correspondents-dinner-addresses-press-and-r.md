@@ -25,8 +25,7 @@ primary_themes:
 - media relations
 topic_tags:
 - politics
-storyline_nexus:
-- white-house-correspondents-dinner
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
@@ -46,11 +45,12 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 3
+  count: 4
   outlets:
   - The Wall Street Journal
   - NPR
   - BBC News
+  - The Guardian
   outlet_classes:
   - national_daily
   - public_broadcaster

@@ -28,8 +28,7 @@ topic_tags:
 - biotechnology
 - market and exchange
 - international trade
-storyline_nexus:
-- markets-and-trade
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: truthfulness

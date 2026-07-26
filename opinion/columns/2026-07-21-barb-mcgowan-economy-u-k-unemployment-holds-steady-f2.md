@@ -23,8 +23,7 @@ topic_tags:
 - wage and pension
 - economy
 - macroeconomics
-storyline_nexus:
-- uk-economy
+storyline_nexus: []
 floor_values_engaged:
 - value: equality_fairness
   intensity: 0.9

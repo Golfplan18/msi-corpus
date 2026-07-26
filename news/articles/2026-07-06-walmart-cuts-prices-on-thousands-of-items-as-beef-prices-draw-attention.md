@@ -27,9 +27,7 @@ topic_tags:
 - economy
 - macroeconomics
 - government policy
-storyline_nexus:
-- inflation-and-prices
-- food-and-agriculture
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

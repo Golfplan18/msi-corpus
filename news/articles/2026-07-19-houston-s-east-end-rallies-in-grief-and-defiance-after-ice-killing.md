@@ -27,9 +27,7 @@ primary_themes:
 - gentrification
 topic_tags:
 - labour
-storyline_nexus:
-- immigration
-- justice-and-accountability
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged: []
 framework_version: 1.4.1

@@ -22,8 +22,7 @@ topic_tags:
 - economy, business and finance
 - energy and resource
 - international relations
-storyline_nexus:
-- iran-oil-markets
+storyline_nexus: []
 geographic_location: International
 floor_values_engaged:
 - value: accountability_of_power

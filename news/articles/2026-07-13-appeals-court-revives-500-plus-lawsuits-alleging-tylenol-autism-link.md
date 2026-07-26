@@ -35,8 +35,7 @@ topic_tags:
 - health
 - disease and condition
 - trial
-storyline_nexus:
-- Tylenol-autism litigation
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: truthfulness

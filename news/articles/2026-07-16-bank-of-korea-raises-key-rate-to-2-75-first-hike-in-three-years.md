@@ -21,8 +21,7 @@ primary_themes:
 - Central banking
 topic_tags:
 - economy
-storyline_nexus:
-- south-korea-economy
+storyline_nexus: []
 geographic_location: International
 floor_values_engaged:
 - value: equality_fairness

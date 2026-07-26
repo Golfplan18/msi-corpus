@@ -29,9 +29,7 @@ topic_tags:
 - economy
 - government policy
 - employment
-storyline_nexus:
-- uk-industrial-strategy
-- global-steel-trade
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

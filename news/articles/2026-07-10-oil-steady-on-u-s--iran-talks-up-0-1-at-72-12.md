@@ -27,8 +27,7 @@ topic_tags:
 - market and exchange
 - armed conflict
 - international relations
-storyline_nexus:
-- u.s.-iran-conflict-oil-markets
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: truthfulness

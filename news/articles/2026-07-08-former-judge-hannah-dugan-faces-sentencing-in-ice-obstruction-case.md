@@ -22,8 +22,7 @@ topic_tags:
 - crime, law and justice
 - law enforcement
 - prosecution
-storyline_nexus:
-- immigration-enforcement
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

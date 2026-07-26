@@ -26,8 +26,7 @@ topic_tags:
 - mass media
 - government
 - government policy
-storyline_nexus:
-- zohran-mamdani-mayoral-administration
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

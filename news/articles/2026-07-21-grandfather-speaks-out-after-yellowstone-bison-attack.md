@@ -21,8 +21,7 @@ primary_themes:
 topic_tags:
 - disaster
 - public health
-storyline_nexus:
-- wildlife
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

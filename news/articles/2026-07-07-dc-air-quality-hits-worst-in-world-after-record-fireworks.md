@@ -26,10 +26,7 @@ topic_tags:
 - environment
 - health
 - politics
-storyline_nexus:
-- washington-dc
-- environment
-- government-accountability
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

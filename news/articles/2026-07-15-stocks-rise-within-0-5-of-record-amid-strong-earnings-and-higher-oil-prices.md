@@ -24,10 +24,7 @@ topic_tags:
 - economy
 - business information
 - economy, business and finance
-storyline_nexus:
-- corporate-earnings
-- equity-markets
-- energy-prices
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: truthfulness

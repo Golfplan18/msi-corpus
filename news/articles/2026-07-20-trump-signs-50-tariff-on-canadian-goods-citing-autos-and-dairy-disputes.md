@@ -21,8 +21,7 @@ primary_themes:
 - US-Canada relations
 topic_tags:
 - international trade
-storyline_nexus:
-- trump-trade-policy
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

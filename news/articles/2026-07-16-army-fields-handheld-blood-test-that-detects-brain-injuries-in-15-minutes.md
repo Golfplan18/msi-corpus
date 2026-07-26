@@ -29,8 +29,7 @@ topic_tags:
 - biotechnology
 - health
 - public health
-storyline_nexus:
-- military-medicine
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

@@ -32,10 +32,7 @@ topic_tags:
 - business information
 - economy, business and finance
 - technology and engineering
-storyline_nexus:
-- markets
-- technology
-- corporate-news
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: truthfulness

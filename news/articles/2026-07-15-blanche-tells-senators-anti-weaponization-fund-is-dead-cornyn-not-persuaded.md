@@ -32,8 +32,7 @@ topic_tags:
 - government policy
 - tax
 - political process
-storyline_nexus:
-- justice-department
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

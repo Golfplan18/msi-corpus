@@ -23,8 +23,7 @@ primary_themes:
 - deportation
 topic_tags:
 - law enforcement
-storyline_nexus:
-- msi-immigration-enforcement
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

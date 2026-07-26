@@ -25,8 +25,7 @@ topic_tags:
 - economy, business and finance
 - manufacturing and engineering
 - transport
-storyline_nexus:
-- electric-vehicle-industry-turmoil
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: truthfulness

@@ -24,9 +24,7 @@ topic_tags:
 - transportation accident and incident
 - technology and engineering
 - travel
-storyline_nexus:
-- main-street-independent
-- ora
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness

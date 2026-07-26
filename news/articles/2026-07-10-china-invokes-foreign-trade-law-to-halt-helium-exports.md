@@ -24,7 +24,7 @@ topic_tags:
 - manufacturing and engineering
 - government policy
 storyline_nexus:
-- trade
+- us-china-competition
 geographic_location: International
 floor_values_engaged:
 - value: truthfulness

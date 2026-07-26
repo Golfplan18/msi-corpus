@@ -28,10 +28,7 @@ topic_tags:
 - international military intervention
 - peace process
 - government policy
-storyline_nexus:
-- Korea-Japan-Security
-- NATO-Indo-Pacific
-- Russia-Ukraine war
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

@@ -28,9 +28,7 @@ topic_tags:
 - artificial intelligence
 - macroeconomics
 - business information
-storyline_nexus:
-- main-street-independent
-- markets-and-economy
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: truthfulness

@@ -23,10 +23,7 @@ topic_tags:
 - business information
 - market and exchange
 - transport
-storyline_nexus:
-- corporate-earnings
-- automotive-industry
-- consumer-spending
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

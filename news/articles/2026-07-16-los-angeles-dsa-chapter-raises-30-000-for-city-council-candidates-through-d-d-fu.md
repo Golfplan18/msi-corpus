@@ -20,8 +20,7 @@ primary_themes:
 - tabletop-gaming-communities
 topic_tags:
 - politics
-storyline_nexus:
-- tabletop-gaming-activism
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship

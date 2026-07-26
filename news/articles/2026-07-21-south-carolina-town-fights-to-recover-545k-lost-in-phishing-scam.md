@@ -30,8 +30,7 @@ topic_tags:
 - corruption
 - business information
 - economy, business and finance
-storyline_nexus:
-- cybercrime
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

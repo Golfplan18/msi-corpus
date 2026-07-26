@@ -22,9 +22,7 @@ topic_tags:
 - belief systems
 - social media
 - technology and engineering
-storyline_nexus:
-- digital-culture
-- religion
+storyline_nexus: []
 geographic_location: International
 floor_values_engaged:
 - value: equality_fairness

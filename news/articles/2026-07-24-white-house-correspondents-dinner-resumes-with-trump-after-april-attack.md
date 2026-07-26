@@ -26,8 +26,7 @@ topic_tags:
 - government policy
 - crime, law and justice
 - disaster
-storyline_nexus:
-- white-house-correspondents-dinner-attack
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

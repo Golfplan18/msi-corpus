@@ -26,9 +26,7 @@ topic_tags:
 - international military intervention
 - international relations
 - peace process
-storyline_nexus:
-- Iran war
-- Trump foreign policy
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

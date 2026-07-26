@@ -23,8 +23,7 @@ topic_tags:
 - crime
 - non-governmental organisation
 - judiciary
-storyline_nexus:
-- msi-splc-fraud-prosecution
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

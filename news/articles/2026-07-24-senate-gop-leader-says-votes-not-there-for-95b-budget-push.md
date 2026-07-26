@@ -27,8 +27,7 @@ topic_tags:
 - politics
 - government
 - election
-storyline_nexus:
-- Trump legislative agenda
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

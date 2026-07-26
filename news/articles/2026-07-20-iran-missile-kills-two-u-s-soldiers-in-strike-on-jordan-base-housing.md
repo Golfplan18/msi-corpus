@@ -19,8 +19,7 @@ primary_themes:
 - force protection
 topic_tags:
 - international relations
-storyline_nexus:
-- u.s.-iran-war
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

@@ -26,8 +26,7 @@ topic_tags:
 - energy and resource
 - international relations
 - economy
-storyline_nexus:
-- ukraine-war
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: truthfulness

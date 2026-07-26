@@ -24,8 +24,7 @@ primary_themes:
 - geopolitical competition
 topic_tags:
 - politics
-storyline_nexus:
-- U.S. diplomatic reopenings
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

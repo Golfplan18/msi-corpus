@@ -26,8 +26,7 @@ primary_themes:
 - Political rhetoric
 topic_tags:
 - international relations
-storyline_nexus:
-- us-canada-relations
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

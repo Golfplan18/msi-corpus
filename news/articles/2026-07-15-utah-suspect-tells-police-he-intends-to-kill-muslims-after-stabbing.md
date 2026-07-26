@@ -25,8 +25,7 @@ primary_themes:
 topic_tags:
 - crime
 - religion
-storyline_nexus:
-- anti-Muslim hate crimes
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

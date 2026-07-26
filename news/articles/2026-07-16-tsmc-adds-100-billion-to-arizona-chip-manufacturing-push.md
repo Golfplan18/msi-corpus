@@ -21,8 +21,7 @@ topic_tags:
 - science and technology
 - manufacturing and engineering
 - business information
-storyline_nexus:
-- tech investment
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

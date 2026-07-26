@@ -29,8 +29,7 @@ topic_tags:
 - politics
 - scientific research
 - international relations
-storyline_nexus:
-- science-funding-ecosystem
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

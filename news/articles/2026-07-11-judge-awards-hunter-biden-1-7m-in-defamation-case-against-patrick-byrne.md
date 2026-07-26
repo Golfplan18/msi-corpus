@@ -20,8 +20,7 @@ primary_themes:
 - truthfulness
 topic_tags:
 - judiciary
-storyline_nexus:
-- main-street-independent
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: truthfulness

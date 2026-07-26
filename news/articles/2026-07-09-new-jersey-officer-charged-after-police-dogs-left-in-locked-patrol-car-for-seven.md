@@ -17,9 +17,7 @@ primary_entities:
 primary_themes: []
 topic_tags:
 - law enforcement
-storyline_nexus:
-- animal-cruelty-incidents
-- law-enforcement-accountability
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

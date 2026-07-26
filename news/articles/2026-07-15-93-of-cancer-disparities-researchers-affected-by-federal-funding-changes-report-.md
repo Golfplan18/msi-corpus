@@ -29,8 +29,7 @@ primary_themes:
 - DEI policy
 topic_tags:
 - health
-storyline_nexus:
-- trump-administration-science-policy
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness

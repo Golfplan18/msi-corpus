@@ -20,9 +20,7 @@ primary_themes:
 - climate
 topic_tags:
 - environment
-storyline_nexus:
-- transportation
-- energy-economics
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

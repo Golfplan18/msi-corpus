@@ -32,8 +32,7 @@ primary_themes:
 - national security
 topic_tags:
 - terrorism
-storyline_nexus:
-- white-house-ufc-attack-plot
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

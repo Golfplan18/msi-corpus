@@ -28,9 +28,7 @@ topic_tags:
 - economy, business and finance
 - international relations
 - international trade
-storyline_nexus:
-- us-iran-conflict
-- iran-oil
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness

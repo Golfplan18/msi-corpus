@@ -22,8 +22,7 @@ primary_themes:
 - protest
 topic_tags:
 - civil rights
-storyline_nexus:
-- voting-rights
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness

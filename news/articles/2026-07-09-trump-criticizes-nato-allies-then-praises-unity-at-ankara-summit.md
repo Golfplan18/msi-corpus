@@ -26,7 +26,7 @@ topic_tags:
 - government policy
 - conflict, war and peace
 storyline_nexus:
-- nato-summit-2026
+- trump-foreign-policy-reshaping
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

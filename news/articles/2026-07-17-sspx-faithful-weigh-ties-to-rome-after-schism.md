@@ -22,9 +22,7 @@ primary_themes:
 - traditionalist-catholicism
 topic_tags:
 - religion
-storyline_nexus:
-- sspx-schism
-- pope-leo-xiv-pontificate
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

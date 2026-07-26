@@ -18,8 +18,7 @@ primary_themes:
 - polio history
 topic_tags:
 - health
-storyline_nexus:
-- public-health-history
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

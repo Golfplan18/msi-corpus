@@ -27,8 +27,7 @@ topic_tags:
 - transportation accident and incident
 - crime, law and justice
 - environment
-storyline_nexus:
-- main-street-independent
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

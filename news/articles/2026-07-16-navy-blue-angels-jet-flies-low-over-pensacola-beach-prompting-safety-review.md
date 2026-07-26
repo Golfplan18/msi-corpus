@@ -18,8 +18,7 @@ primary_themes:
 topic_tags:
 - sport event
 - transportation accident and incident
-storyline_nexus:
-- aviation-safety
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

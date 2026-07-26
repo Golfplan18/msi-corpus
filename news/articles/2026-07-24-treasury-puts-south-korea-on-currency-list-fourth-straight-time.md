@@ -30,8 +30,7 @@ primary_themes:
 - trade policy
 topic_tags:
 - monetary policy
-storyline_nexus:
-- south-korea-won-currency-crisis
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

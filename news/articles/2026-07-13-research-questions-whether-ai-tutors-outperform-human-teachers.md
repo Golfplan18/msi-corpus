@@ -38,8 +38,7 @@ primary_themes:
 - personalized learning
 topic_tags:
 - education
-storyline_nexus:
-- AI in education
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: truthfulness

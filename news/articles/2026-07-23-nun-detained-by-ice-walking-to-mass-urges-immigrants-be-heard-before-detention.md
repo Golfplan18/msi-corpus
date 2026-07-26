@@ -22,8 +22,7 @@ primary_themes:
 - Due process
 topic_tags:
 - religion
-storyline_nexus:
-- faith-immigration
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness

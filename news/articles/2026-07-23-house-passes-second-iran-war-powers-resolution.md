@@ -29,9 +29,7 @@ primary_themes:
 - Energy markets
 topic_tags:
 - international relations
-storyline_nexus:
-- congress-iran-war-powers
-- iran-conflict-2026
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

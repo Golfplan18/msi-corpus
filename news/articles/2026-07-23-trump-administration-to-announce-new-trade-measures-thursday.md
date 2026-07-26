@@ -13,8 +13,7 @@ topic_tags:
 - economy, business and finance
 - international trade
 - government policy
-storyline_nexus:
-- US trade policy
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

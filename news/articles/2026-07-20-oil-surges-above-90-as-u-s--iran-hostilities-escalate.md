@@ -29,9 +29,7 @@ topic_tags:
 - energy and resource
 - conflict, war and peace
 - government policy
-storyline_nexus:
-- us-iran-conflict
-- oil-prices
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

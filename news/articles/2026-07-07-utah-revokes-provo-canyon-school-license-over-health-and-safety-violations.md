@@ -18,8 +18,7 @@ topic_tags:
 - crime, law and justice
 - health
 - government policy
-storyline_nexus:
-- social-protection
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

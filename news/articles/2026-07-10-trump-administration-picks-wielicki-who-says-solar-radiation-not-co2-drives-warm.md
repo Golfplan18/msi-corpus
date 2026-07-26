@@ -19,8 +19,7 @@ primary_themes:
 - science-policy
 topic_tags:
 - politics
-storyline_nexus:
-- trump-climate-policy
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: truthfulness

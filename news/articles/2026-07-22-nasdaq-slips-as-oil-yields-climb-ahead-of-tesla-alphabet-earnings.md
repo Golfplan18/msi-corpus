@@ -31,8 +31,7 @@ topic_tags:
 - energy and resource
 - monetary policy
 - financial and business service
-storyline_nexus:
-- markets
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: truthfulness

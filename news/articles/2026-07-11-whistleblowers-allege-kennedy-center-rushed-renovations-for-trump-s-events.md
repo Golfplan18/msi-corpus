@@ -26,8 +26,7 @@ primary_themes:
 - Arts and Culture
 topic_tags:
 - government
-storyline_nexus:
-- kennedy-center-takeover
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

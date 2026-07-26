@@ -20,8 +20,7 @@ primary_themes:
 - oil prices
 topic_tags:
 - economy
-storyline_nexus:
-- oil-market
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: truthfulness

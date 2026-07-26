@@ -30,8 +30,7 @@ topic_tags:
 - environment
 - energy and resource
 - natural resources
-storyline_nexus:
-- enbridge-line-5
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

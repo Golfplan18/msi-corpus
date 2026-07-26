@@ -30,8 +30,7 @@ topic_tags:
 - social media
 - energy and resource
 - corruption
-storyline_nexus:
-- trump-business-empire
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

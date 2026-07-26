@@ -23,8 +23,7 @@ topic_tags:
 - tax
 - labour market
 - public health
-storyline_nexus:
-- uk-government
+storyline_nexus: []
 geographic_location: International
 floor_values_engaged:
 - value: accountability_of_power

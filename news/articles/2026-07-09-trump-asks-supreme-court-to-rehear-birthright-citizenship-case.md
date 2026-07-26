@@ -28,9 +28,7 @@ topic_tags:
 - government policy
 - politics
 - law
-storyline_nexus:
-- birthright-citizenship
-- immigration-policy
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

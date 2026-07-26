@@ -21,8 +21,7 @@ primary_themes:
 - state government
 topic_tags:
 - environment
-storyline_nexus:
-- data-center-water-regulation
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness

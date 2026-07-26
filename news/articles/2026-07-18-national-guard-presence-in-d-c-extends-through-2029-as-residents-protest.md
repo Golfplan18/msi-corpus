@@ -32,8 +32,7 @@ topic_tags:
 - law enforcement
 - political dissent
 - politics
-storyline_nexus:
-- national-guard-deployments
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

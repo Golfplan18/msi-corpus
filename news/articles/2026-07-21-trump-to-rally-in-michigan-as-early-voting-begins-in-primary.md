@@ -24,9 +24,7 @@ topic_tags:
 - politics
 - government policy
 - political process
-storyline_nexus:
-- elections
-- midterms-2026
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship

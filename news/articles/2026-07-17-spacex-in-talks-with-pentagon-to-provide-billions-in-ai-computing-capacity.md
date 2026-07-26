@@ -24,8 +24,7 @@ primary_themes:
 - data centers
 topic_tags:
 - artificial intelligence
-storyline_nexus:
-- spacex-pentagon-ai-compute-deal
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

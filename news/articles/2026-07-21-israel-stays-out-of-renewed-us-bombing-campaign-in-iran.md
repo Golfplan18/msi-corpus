@@ -31,10 +31,7 @@ primary_themes:
 - energy infrastructure
 topic_tags:
 - international relations
-storyline_nexus:
-- us-iran-war
-- israel-iran-conflict
-- middle-east-conflict
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

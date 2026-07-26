@@ -20,8 +20,7 @@ primary_themes:
 - Homicide investigation
 topic_tags:
 - crime
-storyline_nexus:
-- charlie-kirk-assassination-case
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: truthfulness

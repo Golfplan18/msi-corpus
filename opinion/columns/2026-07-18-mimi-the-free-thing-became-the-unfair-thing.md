@@ -29,9 +29,7 @@ topic_tags:
 - corruption
 - banking
 - consumer goods
-storyline_nexus:
-- trump-tariffs
-- brazil-pix
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

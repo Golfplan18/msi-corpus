@@ -30,9 +30,7 @@ topic_tags:
 - economy
 - business information
 - transport
-storyline_nexus:
-- energy-markets
-- shale-boom-infrastructure
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

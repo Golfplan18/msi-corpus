@@ -24,8 +24,7 @@ primary_themes:
 - congressional oversight
 topic_tags:
 - law enforcement
-storyline_nexus:
-- ice-accountability
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

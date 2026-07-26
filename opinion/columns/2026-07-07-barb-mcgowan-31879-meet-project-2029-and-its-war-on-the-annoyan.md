@@ -21,8 +21,7 @@ topic_tags:
 - politics
 - economy, business and finance
 - consumer goods
-storyline_nexus:
-- economic-policy
+storyline_nexus: []
 floor_values_engaged:
 - value: accountability_of_power
   intensity: 0.9

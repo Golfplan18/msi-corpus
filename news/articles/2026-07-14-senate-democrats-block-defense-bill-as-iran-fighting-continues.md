@@ -29,8 +29,7 @@ topic_tags:
 - conflict, war and peace
 - political process
 - government policy
-storyline_nexus:
-- iran-war
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness

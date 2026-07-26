@@ -23,8 +23,7 @@ primary_themes:
 - Public health funding
 topic_tags:
 - health
-storyline_nexus:
-- global-health-aid-cuts
+storyline_nexus: []
 geographic_location: International
 floor_values_engaged:
 - value: human_life_and_dignity

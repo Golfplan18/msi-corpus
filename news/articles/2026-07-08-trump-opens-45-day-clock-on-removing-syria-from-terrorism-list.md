@@ -25,8 +25,7 @@ topic_tags:
 - government policy
 - politics
 - conflict, war and peace
-storyline_nexus:
-- main-street-independent
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship

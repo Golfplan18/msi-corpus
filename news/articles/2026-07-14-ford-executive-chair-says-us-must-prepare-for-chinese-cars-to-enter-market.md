@@ -35,8 +35,7 @@ topic_tags:
 - international trade
 - manufacturing and engineering
 - transport
-storyline_nexus:
-- us-china-trade
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

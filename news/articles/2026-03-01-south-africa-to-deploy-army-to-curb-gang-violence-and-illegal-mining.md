@@ -29,8 +29,7 @@ topic_tags:
 - law enforcement
 - crime
 - government policy
-storyline_nexus:
-- south-africa-political-crisis
+storyline_nexus: []
 geographic_location: South Africa
 floor_values_engaged:
 - value: human_life_and_dignity

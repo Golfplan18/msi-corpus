@@ -20,9 +20,7 @@ primary_themes:
 - species decline
 topic_tags:
 - environment
-storyline_nexus:
-- climate-change
-- ocean-health
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

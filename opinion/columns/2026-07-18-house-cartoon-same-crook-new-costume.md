@@ -29,8 +29,7 @@ primary_themes:
 topic_tags:
 - social media
 - politics
-storyline_nexus:
-- nixon-rehabilitation
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

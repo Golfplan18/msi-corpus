@@ -15,8 +15,7 @@ primary_themes:
 - Pacific weather
 topic_tags:
 - weather
-storyline_nexus:
-- weather
+storyline_nexus: []
 geographic_location: International
 floor_values_engaged:
 - value: truthfulness

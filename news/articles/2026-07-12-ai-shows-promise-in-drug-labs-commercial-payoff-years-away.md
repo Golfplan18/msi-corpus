@@ -30,9 +30,7 @@ topic_tags:
 - biotechnology
 - medical research
 - economy, business and finance
-storyline_nexus:
-- technology-ai
-- health-pharma
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

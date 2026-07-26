@@ -31,8 +31,7 @@ topic_tags:
 - international trade
 - international relations
 - consumer goods
-storyline_nexus:
-- shein-ipo
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

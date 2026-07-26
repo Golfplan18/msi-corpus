@@ -25,9 +25,7 @@ topic_tags:
 - crime, law and justice
 - pollution
 - conservation
-storyline_nexus:
-- amazon-environmental-crime
-- peru-mining-regulation
+storyline_nexus: []
 geographic_location: International
 floor_values_engaged:
 - value: equality_fairness

@@ -34,8 +34,7 @@ primary_themes:
 - Geopolitics
 topic_tags:
 - artificial intelligence
-storyline_nexus:
-- ai-governance
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

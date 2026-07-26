@@ -31,10 +31,7 @@ topic_tags:
 - human migration
 - international relations
 - law enforcement
-storyline_nexus:
-- immigration-enforcement
-- campus-protest-activism
-- federal-judiciary
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

@@ -47,7 +47,7 @@ topic_tags:
 - government policy
 - international trade
 storyline_nexus:
-- transatlantic-alliance-crack
+- trump-foreign-policy-reshaping
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

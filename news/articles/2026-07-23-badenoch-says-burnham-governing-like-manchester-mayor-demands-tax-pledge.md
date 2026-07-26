@@ -25,10 +25,7 @@ primary_themes:
 topic_tags:
 - government
 - politics
-storyline_nexus:
-- uk-politics
-- burnham-premiership
-- cost-of-living-crisis
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

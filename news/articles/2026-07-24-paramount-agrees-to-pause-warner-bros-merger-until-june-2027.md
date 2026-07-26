@@ -25,8 +25,7 @@ topic_tags:
 - business information
 - mass media
 - tv and radio
-storyline_nexus:
-- paramount-warner-merger
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: truthfulness

@@ -28,8 +28,7 @@ topic_tags:
 - achievement
 - science and technology
 - international relations
-storyline_nexus:
-- main-street-independent
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship

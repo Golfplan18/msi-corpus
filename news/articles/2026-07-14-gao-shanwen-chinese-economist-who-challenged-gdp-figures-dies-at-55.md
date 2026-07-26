@@ -26,9 +26,7 @@ primary_themes:
 - economic freedom
 topic_tags:
 - politics
-storyline_nexus:
-- main-street-independent
-- china-dissent
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: truthfulness

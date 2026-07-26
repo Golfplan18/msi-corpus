@@ -22,8 +22,7 @@ topic_tags:
 - natural resources
 - energy and resource
 - banking
-storyline_nexus:
-- commodities
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

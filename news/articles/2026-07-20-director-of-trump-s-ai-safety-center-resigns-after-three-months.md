@@ -24,8 +24,7 @@ primary_themes:
 - technology policy
 topic_tags:
 - artificial intelligence
-storyline_nexus:
-- AI regulation and safety under Trump administration
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

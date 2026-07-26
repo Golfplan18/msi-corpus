@@ -34,10 +34,7 @@ topic_tags:
 - international relations
 - government policy
 - politics
-storyline_nexus:
-- trump-second-term
-- us-iran-war
-- us-saudi-relations
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

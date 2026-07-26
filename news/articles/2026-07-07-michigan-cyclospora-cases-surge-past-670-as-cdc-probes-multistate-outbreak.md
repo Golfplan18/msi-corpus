@@ -25,8 +25,7 @@ primary_themes:
 topic_tags:
 - health
 - public health
-storyline_nexus:
-- infectious-disease-outbreaks
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship

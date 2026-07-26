@@ -28,8 +28,7 @@ topic_tags:
 - transportation accident and incident
 - energy and resource
 - environment
-storyline_nexus:
-- retail/consumer-goods
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness

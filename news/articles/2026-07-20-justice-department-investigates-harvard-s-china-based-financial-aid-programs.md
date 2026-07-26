@@ -23,9 +23,7 @@ primary_themes:
 topic_tags:
 - education
 - discrimination
-storyline_nexus:
-- main-street-independent
-- ora
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness

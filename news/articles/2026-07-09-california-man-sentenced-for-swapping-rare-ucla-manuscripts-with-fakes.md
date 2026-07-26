@@ -16,8 +16,7 @@ primary_themes:
 topic_tags:
 - crime
 - higher education
-storyline_nexus:
-- crime-and-justice
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

@@ -29,8 +29,7 @@ topic_tags:
 - terrorism
 - international relations
 - international military intervention
-storyline_nexus:
-- us-iran-conflict
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

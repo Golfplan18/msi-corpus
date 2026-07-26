@@ -21,8 +21,7 @@ topic_tags:
 - economy, business and finance
 - conflict, war and peace
 - macroeconomics
-storyline_nexus:
-- us-iran-strait-of-hormuz
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness

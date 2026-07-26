@@ -22,8 +22,7 @@ topic_tags:
 - conflict, war and peace
 - economy, business and finance
 - environment
-storyline_nexus:
-- housing
+storyline_nexus: []
 geographic_location: International
 floor_values_engaged:
 - value: equality_fairness

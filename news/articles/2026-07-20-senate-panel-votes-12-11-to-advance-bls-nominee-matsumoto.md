@@ -29,9 +29,7 @@ primary_themes:
 topic_tags:
 - government
 - politics
-storyline_nexus:
-- bls-credibility
-- trump-administration-oversight
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

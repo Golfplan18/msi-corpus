@@ -27,8 +27,7 @@ topic_tags:
 - international military intervention
 - government policy
 - political process
-storyline_nexus:
-- uk-defence-spending-political-turmoil
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

@@ -32,8 +32,7 @@ topic_tags:
 - political dissent
 - terrorism
 - religious institution
-storyline_nexus:
-- immigration-detention-activists
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

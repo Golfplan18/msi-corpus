@@ -19,8 +19,7 @@ primary_themes:
 topic_tags:
 - international relations
 - religion
-storyline_nexus:
-- china-detainees
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

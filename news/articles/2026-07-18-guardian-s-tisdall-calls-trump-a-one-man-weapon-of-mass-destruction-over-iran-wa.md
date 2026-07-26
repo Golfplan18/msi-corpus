@@ -28,8 +28,7 @@ topic_tags:
 - international relations
 - government policy
 - political process
-storyline_nexus:
-- us-iran-conflict-2026
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

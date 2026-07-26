@@ -20,8 +20,7 @@ primary_themes:
 - arts activism
 topic_tags:
 - politics
-storyline_nexus:
-- cuba-relations
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness

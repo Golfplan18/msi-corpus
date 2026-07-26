@@ -21,10 +21,7 @@ topic_tags:
 - international relations
 - international military intervention
 - transport
-storyline_nexus:
-- middle-east-conflict
-- maritime-security
-- us-alliance-relations
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

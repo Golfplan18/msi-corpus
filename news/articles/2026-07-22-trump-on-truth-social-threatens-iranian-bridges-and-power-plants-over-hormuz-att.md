@@ -29,8 +29,7 @@ topic_tags:
 - conflict, war and peace
 - politics
 - terrorism
-storyline_nexus:
-- US-Iran conflict
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: truthfulness

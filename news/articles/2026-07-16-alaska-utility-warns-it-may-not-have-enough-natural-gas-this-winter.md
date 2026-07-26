@@ -28,8 +28,7 @@ topic_tags:
 - environment
 - natural resources
 - weather warning
-storyline_nexus:
-- alaska-energy
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

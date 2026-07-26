@@ -23,8 +23,7 @@ topic_tags:
 - law enforcement
 - government
 - crime
-storyline_nexus:
-- ICE accountability and use-of-force scrutiny
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

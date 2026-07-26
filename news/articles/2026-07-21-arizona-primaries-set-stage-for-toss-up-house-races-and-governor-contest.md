@@ -43,8 +43,7 @@ topic_tags:
 - politics
 - government
 - political process
-storyline_nexus:
-- Arizona elections 2026
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

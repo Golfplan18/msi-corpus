@@ -28,9 +28,7 @@ topic_tags:
 - manufacturing and engineering
 - transport
 - environment
-storyline_nexus:
-- chinese-auto-expansion-europe
-- ford-geely-jv-spain
+storyline_nexus: []
 geographic_location: International
 floor_values_engaged:
 - value: equality_fairness

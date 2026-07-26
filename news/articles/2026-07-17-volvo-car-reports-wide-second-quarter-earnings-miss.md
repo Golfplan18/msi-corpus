@@ -28,8 +28,7 @@ topic_tags:
 - economy, business and finance
 - consumer goods
 - transport
-storyline_nexus:
-- analyst-market-talk-roundups
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: truthfulness

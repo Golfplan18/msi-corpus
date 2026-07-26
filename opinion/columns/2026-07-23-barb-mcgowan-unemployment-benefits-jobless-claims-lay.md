@@ -15,8 +15,7 @@ primary_themes:
 - Macroeconomic indicators
 topic_tags:
 - employment
-storyline_nexus:
-- us-labor-market
+storyline_nexus: []
 floor_values_engaged:
 - value: truthfulness
   intensity: 0.9

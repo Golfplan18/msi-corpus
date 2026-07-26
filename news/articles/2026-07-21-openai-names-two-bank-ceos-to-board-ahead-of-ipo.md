@@ -30,8 +30,7 @@ primary_themes:
 - board appointments
 topic_tags:
 - artificial intelligence
-storyline_nexus:
-- openai-ipo
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

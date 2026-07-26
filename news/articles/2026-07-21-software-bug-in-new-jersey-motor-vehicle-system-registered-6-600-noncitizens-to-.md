@@ -28,9 +28,7 @@ primary_themes:
 topic_tags:
 - politics
 - government
-storyline_nexus:
-- voter-roll-integrity
-- federal-election-administration
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

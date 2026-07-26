@@ -28,7 +28,7 @@ topic_tags:
 - political process
 - government policy
 storyline_nexus:
-- democratic-factional-warfare
+- 2026-midterm-elections
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

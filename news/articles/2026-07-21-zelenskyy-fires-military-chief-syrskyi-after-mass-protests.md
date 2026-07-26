@@ -21,8 +21,7 @@ primary_themes:
 - war in Ukraine
 topic_tags:
 - politics
-storyline_nexus:
-- ukraine-war-leadership
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

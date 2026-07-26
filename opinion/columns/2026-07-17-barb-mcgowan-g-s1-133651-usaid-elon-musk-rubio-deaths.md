@@ -26,8 +26,7 @@ primary_themes:
 topic_tags:
 - politics
 - health
-storyline_nexus:
-- main-street-independent
+storyline_nexus: []
 floor_values_engaged:
 - value: human_life_and_dignity
   intensity: 0.9

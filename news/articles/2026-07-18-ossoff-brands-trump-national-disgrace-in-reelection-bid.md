@@ -27,8 +27,7 @@ topic_tags:
 - political process
 - political dissent
 - politics
-storyline_nexus:
-- 2026-midterms
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

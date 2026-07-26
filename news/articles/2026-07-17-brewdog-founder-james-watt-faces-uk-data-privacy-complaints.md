@@ -29,8 +29,7 @@ primary_themes:
 - Shareholder rights
 topic_tags:
 - business information
-storyline_nexus:
-- corporate-accountability
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

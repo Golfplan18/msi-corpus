@@ -28,8 +28,7 @@ topic_tags:
 - religious institution
 - people
 - society
-storyline_nexus:
-- Religious practice and devotion
+storyline_nexus: []
 geographic_location: International
 floor_values_engaged:
 - value: equality_fairness

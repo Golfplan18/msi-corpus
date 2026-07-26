@@ -20,8 +20,7 @@ primary_themes:
 - mail ballot rejections
 topic_tags:
 - politics
-storyline_nexus:
-- california-elections
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness

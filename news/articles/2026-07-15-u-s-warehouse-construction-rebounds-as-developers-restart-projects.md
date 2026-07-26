@@ -24,9 +24,7 @@ primary_themes:
 - logistics
 topic_tags:
 - economy
-storyline_nexus:
-- logistics-and-supply-chain
-- construction-and-real-estate
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: truthfulness

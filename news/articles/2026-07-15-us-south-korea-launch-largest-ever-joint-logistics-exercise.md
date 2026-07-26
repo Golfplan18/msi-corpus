@@ -21,8 +21,7 @@ topic_tags:
 - international military intervention
 - war crime
 - transportation accident and incident
-storyline_nexus:
-- Korean Peninsula security
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

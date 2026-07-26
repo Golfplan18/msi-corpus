@@ -23,8 +23,7 @@ topic_tags:
 - law enforcement
 - judiciary
 - human interest
-storyline_nexus:
-- florida-executions-2026
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: truthfulness

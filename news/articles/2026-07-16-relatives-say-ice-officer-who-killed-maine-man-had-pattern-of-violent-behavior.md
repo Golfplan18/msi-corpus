@@ -26,8 +26,7 @@ primary_themes:
 - government hiring practices
 topic_tags:
 - law enforcement
-storyline_nexus:
-- ice-enforcement-deaths
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

@@ -18,8 +18,7 @@ primary_themes:
 - Political ideology
 topic_tags:
 - politics
-storyline_nexus:
-- birthright-citizenship
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

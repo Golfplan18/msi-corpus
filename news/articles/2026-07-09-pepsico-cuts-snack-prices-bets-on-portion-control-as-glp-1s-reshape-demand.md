@@ -24,8 +24,7 @@ topic_tags:
 - economy, business and finance
 - health
 - economy
-storyline_nexus:
-- consumer-economy
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness

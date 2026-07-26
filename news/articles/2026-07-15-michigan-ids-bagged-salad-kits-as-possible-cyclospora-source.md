@@ -25,9 +25,7 @@ topic_tags:
 - epidemic and pandemic
 - health
 - health treatment and procedure
-storyline_nexus:
-- main-street-independent
-- ora
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: truthfulness

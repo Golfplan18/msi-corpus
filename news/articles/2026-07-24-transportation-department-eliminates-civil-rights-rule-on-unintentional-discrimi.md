@@ -33,10 +33,7 @@ primary_themes:
 topic_tags:
 - civil rights
 - discrimination
-storyline_nexus:
-- civil-rights-rollback
-- transportation-equity
-- trump-administration-regulatory-changes
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness

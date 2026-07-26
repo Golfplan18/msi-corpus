@@ -23,8 +23,7 @@ primary_themes:
 - national security
 topic_tags:
 - artificial intelligence
-storyline_nexus:
-- ai-security
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

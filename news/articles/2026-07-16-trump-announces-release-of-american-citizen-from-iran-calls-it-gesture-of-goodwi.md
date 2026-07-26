@@ -27,9 +27,7 @@ topic_tags:
 - fundamental rights
 - human interest
 - political process
-storyline_nexus:
-- main-street-independent
-- us-iran-relations
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

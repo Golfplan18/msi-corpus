@@ -22,8 +22,7 @@ primary_themes:
 - International trade
 topic_tags:
 - artificial intelligence
-storyline_nexus:
-- main-street-independent
+storyline_nexus: []
 geographic_location: International
 floor_values_engaged:
 - value: informed_citizenship

@@ -24,8 +24,7 @@ topic_tags:
 - public health
 - consumer goods
 - government policy
-storyline_nexus:
-- product-recalls
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

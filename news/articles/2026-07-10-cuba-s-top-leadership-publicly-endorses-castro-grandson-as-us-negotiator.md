@@ -27,7 +27,7 @@ primary_themes:
 topic_tags:
 - international relations
 storyline_nexus:
-- cuba-diplomacy-2026
+- us-cuba-relations-escalation
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

@@ -18,8 +18,7 @@ primary_themes:
 - informed_citizenship
 topic_tags:
 - crime
-storyline_nexus:
-- public-official-charges
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

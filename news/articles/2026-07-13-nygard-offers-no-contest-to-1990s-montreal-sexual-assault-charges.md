@@ -23,8 +23,7 @@ primary_themes:
 - criminal justice proceedings
 topic_tags:
 - crime
-storyline_nexus:
-- accountability-of-power
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

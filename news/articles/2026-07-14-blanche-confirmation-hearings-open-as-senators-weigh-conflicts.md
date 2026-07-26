@@ -25,8 +25,7 @@ topic_tags:
 - judiciary
 - government
 - law enforcement
-storyline_nexus:
-- todd-blanche-confirmation
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

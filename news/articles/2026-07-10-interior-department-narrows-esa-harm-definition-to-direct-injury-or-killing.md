@@ -22,7 +22,7 @@ primary_themes:
 topic_tags:
 - environment
 storyline_nexus:
-- trump-administration-environmental-regulations
+- trump-climate-energy-rollbacks
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

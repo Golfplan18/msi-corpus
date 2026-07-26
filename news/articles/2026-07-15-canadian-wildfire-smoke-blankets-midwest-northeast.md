@@ -22,8 +22,7 @@ primary_themes:
 - public health
 topic_tags:
 - public health
-storyline_nexus:
-- canada-wildfire-smoke-us-midwest-northeast-2026
+storyline_nexus: []
 geographic_location: International
 floor_values_engaged:
 - value: human_life_and_dignity

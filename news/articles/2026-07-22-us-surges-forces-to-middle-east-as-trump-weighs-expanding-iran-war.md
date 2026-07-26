@@ -26,9 +26,7 @@ primary_themes:
 - Congressional oversight
 topic_tags:
 - politics
-storyline_nexus:
-- main-street-independent
-- ora
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

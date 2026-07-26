@@ -19,9 +19,7 @@ primary_themes:
 - corporate partnerships
 topic_tags:
 - artificial intelligence
-storyline_nexus:
-- main-street-independent
-- openai-legal
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

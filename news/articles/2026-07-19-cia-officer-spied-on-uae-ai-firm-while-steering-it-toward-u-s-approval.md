@@ -30,9 +30,7 @@ topic_tags:
 - government policy
 - international relations
 - technology and engineering
-storyline_nexus:
-- AI chip race
-- U.S.-UAE relations
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

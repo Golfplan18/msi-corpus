@@ -28,8 +28,7 @@ topic_tags:
 - political process
 - human migration
 - civil rights
-storyline_nexus:
-- TPS-Legal-Challenges
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

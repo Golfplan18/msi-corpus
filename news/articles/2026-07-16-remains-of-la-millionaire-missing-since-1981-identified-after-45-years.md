@@ -25,8 +25,7 @@ primary_themes:
 - murder convictions
 topic_tags:
 - crime
-storyline_nexus:
-- cold-case-resolutions
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness

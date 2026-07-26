@@ -26,8 +26,7 @@ topic_tags:
 - manufacturing and engineering
 - transportation accident and incident
 - labour dispute
-storyline_nexus:
-- Boeing
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

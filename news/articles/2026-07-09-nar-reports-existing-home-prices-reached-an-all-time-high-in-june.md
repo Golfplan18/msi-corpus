@@ -19,8 +19,7 @@ primary_themes:
 - existing home sales
 topic_tags:
 - economy
-storyline_nexus:
-- housing-market-slowdown
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: truthfulness

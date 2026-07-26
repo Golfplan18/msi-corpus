@@ -15,8 +15,7 @@ primary_themes:
 - Transparency
 topic_tags:
 - education
-storyline_nexus:
-- california-college-military-weapons
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

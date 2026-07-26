@@ -28,8 +28,7 @@ primary_themes:
 topic_tags:
 - economy
 - government
-storyline_nexus:
-- trump-tariffs
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness

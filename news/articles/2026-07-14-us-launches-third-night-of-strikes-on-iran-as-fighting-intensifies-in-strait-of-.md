@@ -32,9 +32,7 @@ topic_tags:
 - government policy
 - international military intervention
 - terrorism
-storyline_nexus:
-- us-iran-conflict
-- strait-of-hormuz
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

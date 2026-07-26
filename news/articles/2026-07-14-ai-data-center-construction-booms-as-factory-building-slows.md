@@ -29,9 +29,7 @@ primary_themes:
 topic_tags:
 - artificial intelligence
 - economy
-storyline_nexus:
-- ai-infrastructure-boom
-- us-manufacturing-onshoring
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness

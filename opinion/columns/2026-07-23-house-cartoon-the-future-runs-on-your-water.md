@@ -25,8 +25,7 @@ topic_tags:
 - environment
 - politics
 - government policy
-storyline_nexus:
-- data-center-backlash
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship

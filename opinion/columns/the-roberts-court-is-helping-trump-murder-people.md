@@ -34,8 +34,7 @@ topic_tags:
   - crime
   - judiciary
   - "conflict, war and peace"
-storyline_nexus:
-  - immigration-enforcement
+storyline_nexus: []
 geographic_location: United States / El Salvador (CECOT)
 floor_values_engaged:
 - value: truthfulness

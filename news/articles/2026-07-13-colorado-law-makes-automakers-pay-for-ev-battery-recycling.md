@@ -34,8 +34,7 @@ topic_tags:
 - government policy
 - manufacturing and engineering
 - sustainability
-storyline_nexus:
-- ev-battery-recycling
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

@@ -26,8 +26,7 @@ topic_tags:
 - trial
 - crime, law and justice
 - politics
-storyline_nexus:
-- carroll-trump-legal
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

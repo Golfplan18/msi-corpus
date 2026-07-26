@@ -34,8 +34,7 @@ topic_tags:
 - economy, business and finance
 - technology and engineering
 - artificial intelligence
-storyline_nexus:
-- pentagon-reform
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

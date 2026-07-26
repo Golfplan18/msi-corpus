@@ -30,8 +30,7 @@ topic_tags:
 - election
 - civil rights
 - political process
-storyline_nexus:
-- election-integrity
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: truthfulness

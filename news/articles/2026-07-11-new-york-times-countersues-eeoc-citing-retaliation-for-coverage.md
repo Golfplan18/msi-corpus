@@ -28,7 +28,7 @@ topic_tags:
 - employment
 - discrimination
 storyline_nexus:
-- main-street-independent
+- trump-judicial-challenges
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

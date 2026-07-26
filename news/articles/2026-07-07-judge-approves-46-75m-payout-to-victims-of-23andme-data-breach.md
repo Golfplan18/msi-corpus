@@ -21,8 +21,7 @@ topic_tags:
 - crime
 - crime, law and justice
 - computing and information technology
-storyline_nexus:
-- data-privacy
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

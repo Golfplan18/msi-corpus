@@ -29,8 +29,7 @@ primary_themes:
 topic_tags:
 - welfare
 - health
-storyline_nexus:
-- food-assistance-cuts
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness

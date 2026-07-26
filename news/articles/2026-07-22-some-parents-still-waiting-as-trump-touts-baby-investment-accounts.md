@@ -30,8 +30,7 @@ topic_tags:
 - family
 - tax
 - financial and business service
-storyline_nexus:
-- trump-accounts
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness

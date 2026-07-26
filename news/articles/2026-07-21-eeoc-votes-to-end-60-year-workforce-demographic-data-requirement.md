@@ -23,8 +23,7 @@ topic_tags:
 - discrimination
 - law enforcement
 - government policy
-storyline_nexus:
-- Trump Administration Civil Rights Policy
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness

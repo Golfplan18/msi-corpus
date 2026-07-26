@@ -15,8 +15,7 @@ primary_themes:
 topic_tags:
 - weather
 - disaster
-storyline_nexus:
-- main-street-independent
+storyline_nexus: []
 geographic_location: International
 floor_values_engaged:
 - value: human_life_and_dignity

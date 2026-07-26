@@ -32,8 +32,7 @@ topic_tags:
 - peace process
 - energy and resource
 - macroeconomics
-storyline_nexus:
-- uk-inflation-2026
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness

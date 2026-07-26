@@ -28,9 +28,7 @@ topic_tags:
 - labour dispute
 - law
 - civil rights
-storyline_nexus:
-- main-street-independent
-- housing
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

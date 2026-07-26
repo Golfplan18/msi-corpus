@@ -24,9 +24,7 @@ topic_tags:
 - conflict, war and peace
 - human interest
 - people
-storyline_nexus:
-- historical-identification
-- american-revolution
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

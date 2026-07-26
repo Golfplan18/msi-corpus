@@ -27,8 +27,7 @@ primary_themes:
 - industrial policy
 topic_tags:
 - artificial intelligence
-storyline_nexus:
-- ai-infrastructure
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship

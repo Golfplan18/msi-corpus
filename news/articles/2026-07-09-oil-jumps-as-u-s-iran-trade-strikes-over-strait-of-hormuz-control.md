@@ -25,7 +25,7 @@ topic_tags:
 - energy and resource
 - international trade
 storyline_nexus:
-- us-iran-tensions
+- the-iran-war
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

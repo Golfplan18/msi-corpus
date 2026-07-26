@@ -20,8 +20,7 @@ primary_themes:
 - legal action
 topic_tags:
 - health
-storyline_nexus:
-- general-news
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

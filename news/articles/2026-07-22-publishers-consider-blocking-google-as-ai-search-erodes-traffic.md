@@ -36,9 +36,7 @@ topic_tags:
 - economy, business and finance
 - computing and information technology
 - mass media
-storyline_nexus:
-- main-street-independent
-- google-ai-search-and-publishers
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship

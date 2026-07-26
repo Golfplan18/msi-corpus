@@ -22,7 +22,7 @@ topic_tags:
 - climate change
 - public health
 storyline_nexus:
-- extreme-weather
+- extreme-weather-disasters
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

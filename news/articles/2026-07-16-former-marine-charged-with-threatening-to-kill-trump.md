@@ -21,8 +21,7 @@ topic_tags:
 - terrorism
 - law enforcement
 - political process
-storyline_nexus:
-- threats-against-trump
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

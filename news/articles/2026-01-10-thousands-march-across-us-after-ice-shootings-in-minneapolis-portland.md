@@ -22,8 +22,7 @@ topic_tags:
 - law enforcement
 - government policy
 storyline_nexus:
-- trump-tariff-policy
-- winter-storm-2026
+- us-immigration-enforcement
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

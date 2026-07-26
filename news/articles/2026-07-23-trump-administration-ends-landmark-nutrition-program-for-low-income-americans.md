@@ -27,8 +27,7 @@ topic_tags:
 - health
 - agriculture
 - public health
-storyline_nexus:
-- snap-ed-elimination
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness

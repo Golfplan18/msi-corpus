@@ -21,8 +21,7 @@ primary_themes:
 - Victim's rights
 topic_tags:
 - crime
-storyline_nexus:
-- charlie-kirk-killing
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

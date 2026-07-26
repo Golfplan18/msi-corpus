@@ -29,9 +29,7 @@ primary_themes:
 topic_tags:
 - politics
 - books
-storyline_nexus:
-- trump-second-term
-- regime-change-book
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

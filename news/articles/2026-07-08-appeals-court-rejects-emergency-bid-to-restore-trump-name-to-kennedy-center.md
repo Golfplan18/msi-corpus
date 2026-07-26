@@ -27,7 +27,7 @@ topic_tags:
 - politics
 - law
 storyline_nexus:
-- kennedy-center-legal-fight
+- trump-judicial-challenges
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

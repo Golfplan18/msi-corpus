@@ -18,8 +18,7 @@ topic_tags:
 - public health
 - disease and condition
 - consumer goods
-storyline_nexus:
-- public-health
+storyline_nexus: []
 floor_values_engaged:
 - value: human_life_and_dignity
   intensity: 0.9

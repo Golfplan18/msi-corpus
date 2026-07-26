@@ -29,8 +29,7 @@ topic_tags:
 - energy and resource
 - international military intervention
 - conflict, war and peace
-storyline_nexus:
-- us-iran-war
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

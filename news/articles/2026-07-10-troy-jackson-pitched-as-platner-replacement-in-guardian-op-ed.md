@@ -28,9 +28,7 @@ topic_tags:
 - labour
 - political dissent
 - communities
-storyline_nexus:
-- 2026 US Senate elections
-- Maine Senate race
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

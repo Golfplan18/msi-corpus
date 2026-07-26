@@ -16,8 +16,7 @@ topic_tags:
 - government
 - government policy
 - politics
-storyline_nexus:
-- election-integrity
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

@@ -29,8 +29,7 @@ topic_tags:
 - international military intervention
 - international relations
 - technology and engineering
-storyline_nexus:
-- us-iran-conflict
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship

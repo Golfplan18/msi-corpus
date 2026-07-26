@@ -29,9 +29,7 @@ primary_themes:
 - Television trials
 topic_tags:
 - crime, law and justice
-storyline_nexus:
-- Pamela Smart murder case
-- Criminal appeals
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

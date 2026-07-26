@@ -28,9 +28,7 @@ topic_tags:
 - science and technology
 - natural science
 - space programme
-storyline_nexus:
-- main-street-independent
-- space-exploration
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

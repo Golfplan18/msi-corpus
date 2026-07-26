@@ -24,8 +24,7 @@ topic_tags:
 - transportation accident and incident
 - disaster, accident and emergency incident
 - transport
-storyline_nexus:
-- transportation-crash
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

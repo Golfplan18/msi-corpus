@@ -22,8 +22,7 @@ primary_themes:
 topic_tags:
 - conflict, war and peace
 - government policy
-storyline_nexus:
-- Military and Defense
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness

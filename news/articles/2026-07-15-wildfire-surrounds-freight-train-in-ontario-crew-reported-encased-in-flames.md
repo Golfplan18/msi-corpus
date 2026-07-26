@@ -26,8 +26,7 @@ primary_themes:
 topic_tags:
 - environment
 - disaster
-storyline_nexus:
-- wildfire-crisis-2026
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

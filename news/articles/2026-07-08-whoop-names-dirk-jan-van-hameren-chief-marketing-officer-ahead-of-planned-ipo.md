@@ -30,9 +30,7 @@ topic_tags:
 - consumer goods
 - sport
 - technology and engineering
-storyline_nexus:
-- main-street-independent
-- ora
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship

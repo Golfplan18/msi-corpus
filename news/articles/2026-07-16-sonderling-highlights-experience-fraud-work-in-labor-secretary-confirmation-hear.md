@@ -34,9 +34,7 @@ primary_themes:
 - Education Department closure
 topic_tags:
 - politics
-storyline_nexus:
-- labor-policy
-- trump-administration
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness

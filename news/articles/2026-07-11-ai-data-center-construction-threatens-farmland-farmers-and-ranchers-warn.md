@@ -24,8 +24,7 @@ primary_themes:
 - rural economy
 topic_tags:
 - agriculture
-storyline_nexus:
-- AI Infrastructure
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

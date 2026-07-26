@@ -21,7 +21,7 @@ primary_themes:
 topic_tags:
 - judiciary
 storyline_nexus:
-- fulton-county-2020-election-probe
+- trump-judicial-challenges
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

@@ -37,8 +37,7 @@ primary_themes:
 topic_tags:
 - education
 - discrimination
-storyline_nexus:
-- justice-department-medical-school-investigations
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness

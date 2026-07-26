@@ -22,8 +22,7 @@ topic_tags:
 - election
 - politics
 - government
-storyline_nexus:
-- south-africa-political-crisis
+storyline_nexus: []
 geographic_location: International
 floor_values_engaged:
 - value: truthfulness

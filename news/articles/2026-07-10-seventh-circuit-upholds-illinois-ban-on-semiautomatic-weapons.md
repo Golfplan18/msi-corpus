@@ -22,8 +22,7 @@ topic_tags:
 - civil rights
 - government policy
 - crime, law and justice
-storyline_nexus:
-- gun-rights-and-regulation
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

@@ -29,9 +29,7 @@ topic_tags:
 - transport
 - international relations
 - government policy
-storyline_nexus:
-- qatar-air-force-one
-- trump-foreign-policy
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

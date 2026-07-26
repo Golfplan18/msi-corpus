@@ -22,8 +22,7 @@ primary_themes:
 - Education policy
 topic_tags:
 - education
-storyline_nexus:
-- student-loans
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

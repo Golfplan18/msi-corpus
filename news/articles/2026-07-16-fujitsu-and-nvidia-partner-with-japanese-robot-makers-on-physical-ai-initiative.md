@@ -29,10 +29,7 @@ topic_tags:
 - manufacturing and engineering
 - robotics
 - science and technology
-storyline_nexus:
-- Nvidia
-- industrial robotics
-- Japan automation
+storyline_nexus: []
 geographic_location: International
 floor_values_engaged:
 - value: human_life_and_dignity

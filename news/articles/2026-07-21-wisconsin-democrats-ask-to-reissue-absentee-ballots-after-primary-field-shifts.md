@@ -25,8 +25,7 @@ primary_themes:
 - ballot spoiling
 topic_tags:
 - election
-storyline_nexus:
-- wisconsin-2026-elections
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness

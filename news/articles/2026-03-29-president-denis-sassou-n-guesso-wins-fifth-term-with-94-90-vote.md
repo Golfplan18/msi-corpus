@@ -23,8 +23,7 @@ primary_themes:
 topic_tags:
 - election
 - political process
-storyline_nexus:
-- south-africa-political-crisis
+storyline_nexus: []
 geographic_location: International
 floor_values_engaged:
 - value: truthfulness

@@ -24,10 +24,7 @@ topic_tags:
 - economy, business and finance
 - energy and resource
 - manufacturing and engineering
-storyline_nexus:
-- Japan trade deficit
-- Yen weakness
-- War in Iran
+storyline_nexus: []
 geographic_location: International
 floor_values_engaged:
 - value: equality_fairness

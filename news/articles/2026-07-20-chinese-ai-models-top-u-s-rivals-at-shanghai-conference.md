@@ -27,8 +27,7 @@ primary_themes:
 topic_tags:
 - artificial intelligence
 - robotics
-storyline_nexus:
-- us-china-tech-competition
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness

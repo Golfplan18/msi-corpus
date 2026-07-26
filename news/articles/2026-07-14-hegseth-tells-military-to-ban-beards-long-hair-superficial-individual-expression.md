@@ -24,8 +24,7 @@ topic_tags:
 - discrimination
 - government policy
 - human interest
-storyline_nexus:
-- main-street-independent
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness

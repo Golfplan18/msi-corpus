@@ -36,8 +36,7 @@ topic_tags:
 - economy
 - energy and resource
 - environment
-storyline_nexus:
-- main-street-independent
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness

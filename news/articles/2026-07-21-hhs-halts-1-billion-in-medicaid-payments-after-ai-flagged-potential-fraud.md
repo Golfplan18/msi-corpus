@@ -24,8 +24,7 @@ topic_tags:
 - government
 - economy, business and finance
 - law enforcement
-storyline_nexus:
-- Medicaid funding freezes
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

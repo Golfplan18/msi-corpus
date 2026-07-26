@@ -17,8 +17,7 @@ primary_themes:
 topic_tags:
 - crime
 - crime, law and justice
-storyline_nexus:
-- public-safety
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

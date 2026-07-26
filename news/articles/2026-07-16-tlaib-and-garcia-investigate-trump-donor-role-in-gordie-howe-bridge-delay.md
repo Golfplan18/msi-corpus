@@ -25,8 +25,7 @@ primary_themes:
 - 2026 midterm elections
 topic_tags:
 - politics
-storyline_nexus:
-- gordie-howe-bridge
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

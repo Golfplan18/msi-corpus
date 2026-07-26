@@ -24,8 +24,7 @@ topic_tags:
 - science and technology
 - human interest
 storyline_nexus:
-- artemis-program
-- space-exploration
+- nasa-artemis-moon-mission
 geographic_location: International
 floor_values_engaged:
 - value: informed_citizenship

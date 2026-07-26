@@ -23,8 +23,7 @@ topic_tags:
 - economy, business and finance
 - monetary policy
 - banking
-storyline_nexus:
-- russia-economy
+storyline_nexus: []
 geographic_location: International
 floor_values_engaged:
 - value: human_life_and_dignity

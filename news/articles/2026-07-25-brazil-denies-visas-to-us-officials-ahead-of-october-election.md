@@ -33,8 +33,7 @@ topic_tags:
 - government policy
 - international relations
 - corruption
-storyline_nexus:
-- us-brazil-relations
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

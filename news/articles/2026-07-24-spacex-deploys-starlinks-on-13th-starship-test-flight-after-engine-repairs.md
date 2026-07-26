@@ -24,8 +24,7 @@ primary_themes:
 topic_tags:
 - space programme
 - technology and engineering
-storyline_nexus:
-- spacex-starship-testing
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship

@@ -23,8 +23,7 @@ topic_tags:
 - government policy
 - international military intervention
 - politics
-storyline_nexus:
-- main-street-independent
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness

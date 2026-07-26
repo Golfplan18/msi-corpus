@@ -26,8 +26,7 @@ topic_tags:
 - political process
 - labour dispute
 - law
-storyline_nexus:
-- local-government-standoffs
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

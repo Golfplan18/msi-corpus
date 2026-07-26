@@ -29,8 +29,7 @@ topic_tags:
 - armed conflict
 - politics
 - conflict, war and peace
-storyline_nexus:
-- main-street-independent
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

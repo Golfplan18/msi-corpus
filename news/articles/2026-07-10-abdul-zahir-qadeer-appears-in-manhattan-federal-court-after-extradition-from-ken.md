@@ -30,8 +30,7 @@ topic_tags:
 - law enforcement
 - trial
 - international law
-storyline_nexus:
-- international-criminal-extradition
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

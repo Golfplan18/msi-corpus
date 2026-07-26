@@ -25,8 +25,7 @@ primary_themes:
 - power dynamics
 topic_tags:
 - politics
-storyline_nexus:
-- philippines-political-accountability
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

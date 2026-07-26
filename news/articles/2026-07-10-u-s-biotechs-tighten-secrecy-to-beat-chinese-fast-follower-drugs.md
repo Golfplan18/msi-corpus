@@ -29,7 +29,7 @@ primary_themes:
 topic_tags:
 - biotechnology
 storyline_nexus:
-- us-china-tech-rivalry
+- us-china-competition
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship

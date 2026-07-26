@@ -34,9 +34,7 @@ topic_tags:
 - religion
 - conflict, war and peace
 - disaster, accident and emergency incident
-storyline_nexus:
-- executive-power-and-history
-- slavery-and-memory
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

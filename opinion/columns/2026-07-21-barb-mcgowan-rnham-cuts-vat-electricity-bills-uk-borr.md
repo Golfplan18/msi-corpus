@@ -18,9 +18,7 @@ topic_tags:
 - economy, business and finance
 - energy and resource
 - welfare
-storyline_nexus:
-- uk-politics
-- uk-economy
+storyline_nexus: []
 floor_values_engaged:
 - value: equality_fairness
   intensity: 0.9

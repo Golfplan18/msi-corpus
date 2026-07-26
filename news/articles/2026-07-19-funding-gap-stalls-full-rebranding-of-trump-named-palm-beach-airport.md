@@ -33,8 +33,7 @@ topic_tags:
 - law enforcement
 - labour dispute
 - disaster
-storyline_nexus:
-- trump-branding
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

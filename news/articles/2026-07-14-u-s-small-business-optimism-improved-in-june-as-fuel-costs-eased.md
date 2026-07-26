@@ -17,8 +17,7 @@ primary_themes:
 - fuel costs
 topic_tags:
 - economy
-storyline_nexus:
-- small-business-confidence
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: truthfulness

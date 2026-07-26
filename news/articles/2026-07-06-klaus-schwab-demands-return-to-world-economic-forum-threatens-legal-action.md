@@ -25,9 +25,7 @@ topic_tags:
 - law
 - economy, business and finance
 - crime, law and justice
-storyline_nexus:
-- business-and-economy
-- global-governance
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

@@ -26,8 +26,7 @@ primary_themes:
 - government data sharing
 topic_tags:
 - civil rights
-storyline_nexus:
-- us-immigration-policy
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

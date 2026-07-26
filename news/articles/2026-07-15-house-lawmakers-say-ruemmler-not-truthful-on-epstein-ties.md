@@ -19,8 +19,7 @@ primary_themes:
 - legal-ethics
 topic_tags:
 - politics
-storyline_nexus:
-- epstein-investigation
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: truthfulness

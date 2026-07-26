@@ -31,8 +31,7 @@ topic_tags:
 - conflict, war and peace
 - politics
 storyline_nexus:
-- us-south-korea-japan-trilateral-cooperation
-- nato-asia-partnership
+- north-korea-nuclear-program
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship

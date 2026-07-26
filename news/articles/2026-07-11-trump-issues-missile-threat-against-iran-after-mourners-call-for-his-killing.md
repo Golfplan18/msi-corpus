@@ -28,8 +28,7 @@ primary_themes:
 - Middle East conflict
 topic_tags:
 - international relations
-storyline_nexus:
-- main-street-independent
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

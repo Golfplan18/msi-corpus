@@ -29,8 +29,7 @@ topic_tags:
 - medical research
 - health treatment and procedure
 - energy and resource
-storyline_nexus:
-- research-funding-overhaul
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

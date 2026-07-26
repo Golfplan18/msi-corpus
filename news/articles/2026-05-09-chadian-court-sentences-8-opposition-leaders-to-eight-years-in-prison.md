@@ -27,8 +27,7 @@ topic_tags:
 - trial
 - judiciary
 - political dissent
-storyline_nexus:
-- south-africa-political-crisis
+storyline_nexus: []
 geographic_location: N’Djamena, Chad
 floor_values_engaged:
 - value: truthfulness

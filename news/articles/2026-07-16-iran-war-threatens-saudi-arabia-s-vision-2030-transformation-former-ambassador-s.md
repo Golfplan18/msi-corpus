@@ -32,9 +32,7 @@ primary_themes:
 - renewable energy investment
 topic_tags:
 - economy
-storyline_nexus:
-- iran-war
-- middle-east
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

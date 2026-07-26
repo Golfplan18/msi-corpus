@@ -24,8 +24,7 @@ topic_tags:
 - energy and resource
 - economy
 - government policy
-storyline_nexus:
-- global-oil-market
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness

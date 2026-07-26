@@ -25,9 +25,7 @@ topic_tags:
 - consumer goods
 - arts and entertainment
 - business information
-storyline_nexus:
-- main-street-independent
-- ora
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship

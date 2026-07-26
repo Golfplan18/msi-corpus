@@ -28,8 +28,7 @@ primary_themes:
 - supply chains
 topic_tags:
 - economy
-storyline_nexus:
-- eurozone-economy
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: truthfulness

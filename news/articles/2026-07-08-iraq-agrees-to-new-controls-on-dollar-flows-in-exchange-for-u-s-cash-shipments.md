@@ -26,9 +26,7 @@ primary_themes:
 - Iran conflict
 topic_tags:
 - international relations
-storyline_nexus:
-- us-iran-relations
-- iraq-political-economy
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

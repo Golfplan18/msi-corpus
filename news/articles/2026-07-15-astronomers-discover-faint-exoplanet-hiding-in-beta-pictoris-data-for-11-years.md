@@ -22,8 +22,7 @@ primary_themes:
 topic_tags:
 - science and technology
 - natural science
-storyline_nexus:
-- exoplanet-exploration
+storyline_nexus: []
 geographic_location: International
 floor_values_engaged:
 - value: truthfulness

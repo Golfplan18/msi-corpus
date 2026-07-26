@@ -28,7 +28,7 @@ topic_tags:
 - international relations
 - international military intervention
 storyline_nexus:
-- US-Iran conflict
+- the-iran-war
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

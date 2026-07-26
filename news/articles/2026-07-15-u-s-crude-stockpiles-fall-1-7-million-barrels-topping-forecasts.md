@@ -21,8 +21,7 @@ primary_themes:
 - economic indicators
 topic_tags:
 - economy
-storyline_nexus:
-- crude-oil-inventories
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: truthfulness

@@ -27,9 +27,7 @@ topic_tags:
 - armed conflict
 - conflict, war and peace
 - international military intervention
-storyline_nexus:
-- us-iran-conflict
-- strait-of-hormuz
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: truthfulness

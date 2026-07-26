@@ -25,9 +25,7 @@ topic_tags:
 - election
 - political process
 - government
-storyline_nexus:
-- main-street-independent
-- senate-politics
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship

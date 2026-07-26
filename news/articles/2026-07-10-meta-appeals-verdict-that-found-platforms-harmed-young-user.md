@@ -26,8 +26,7 @@ primary_themes:
 - Section 230
 topic_tags:
 - social media
-storyline_nexus:
-- legal
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

@@ -32,9 +32,7 @@ topic_tags:
 - construction and property
 - economy
 - post-war reconstruction
-storyline_nexus:
-- main-street-independent
-- ora
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

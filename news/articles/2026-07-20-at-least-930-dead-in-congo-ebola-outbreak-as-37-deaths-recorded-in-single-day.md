@@ -25,10 +25,7 @@ primary_themes:
 - humanitarian crisis
 topic_tags:
 - public health
-storyline_nexus:
-- public-health-emergencies
-- ebola-outbreak
-- sub-saharan-africa
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

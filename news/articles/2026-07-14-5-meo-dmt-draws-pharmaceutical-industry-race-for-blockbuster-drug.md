@@ -25,8 +25,7 @@ topic_tags:
 - health treatment and procedure
 - mental health
 - science and technology
-storyline_nexus:
-- psychedelic-medicine
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

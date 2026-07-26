@@ -31,8 +31,7 @@ topic_tags:
 - government policy
 - civil rights
 - political dissent
-storyline_nexus:
-- canada-political-identity
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

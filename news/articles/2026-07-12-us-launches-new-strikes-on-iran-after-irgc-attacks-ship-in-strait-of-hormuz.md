@@ -34,8 +34,7 @@ topic_tags:
 - conflict, war and peace
 - international military intervention
 - international relations
-storyline_nexus:
-- iran-strait-of-hormuz
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

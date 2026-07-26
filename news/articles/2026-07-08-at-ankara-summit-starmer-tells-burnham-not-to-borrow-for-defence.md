@@ -26,10 +26,7 @@ topic_tags:
 - government policy
 - politics
 - economy
-storyline_nexus:
-- uk-us-relations
-- nato
-- starmer-trump-transition
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: truthfulness

@@ -24,8 +24,7 @@ primary_themes:
 topic_tags:
 - society
 - economy
-storyline_nexus:
-- guaranteed-income
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness

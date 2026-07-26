@@ -24,7 +24,7 @@ primary_themes:
 topic_tags:
 - artificial intelligence
 storyline_nexus:
-- us-ai-strategy
+- ai-industry-regulation
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

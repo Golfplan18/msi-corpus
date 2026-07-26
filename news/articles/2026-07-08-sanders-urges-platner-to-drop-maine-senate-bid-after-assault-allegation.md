@@ -23,8 +23,7 @@ topic_tags:
 - politics
 - crime
 - political dissent
-storyline_nexus:
-- democratic-party-fractures
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

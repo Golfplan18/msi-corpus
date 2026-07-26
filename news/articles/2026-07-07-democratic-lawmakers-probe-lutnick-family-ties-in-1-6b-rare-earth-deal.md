@@ -30,8 +30,7 @@ topic_tags:
 - government policy
 - economy, business and finance
 - government
-storyline_nexus:
-- main-street-independent
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

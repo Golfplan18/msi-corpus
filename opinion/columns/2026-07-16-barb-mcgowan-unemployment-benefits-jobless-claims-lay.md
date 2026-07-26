@@ -13,8 +13,7 @@ primary_themes:
 - Layoffs
 topic_tags:
 - unemployment
-storyline_nexus:
-- main-street-independent
+storyline_nexus: []
 floor_values_engaged:
 - value: truthfulness
   intensity: 0.9

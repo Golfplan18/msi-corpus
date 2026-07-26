@@ -31,8 +31,7 @@ topic_tags:
 - law
 - politics
 - civil rights
-storyline_nexus:
-- new-york-city-regulations
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

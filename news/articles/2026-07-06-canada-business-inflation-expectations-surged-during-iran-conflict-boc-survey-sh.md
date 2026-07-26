@@ -25,8 +25,7 @@ topic_tags:
 - armed conflict
 - energy and resource
 - business information
-storyline_nexus:
-- canada-inflation
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: truthfulness

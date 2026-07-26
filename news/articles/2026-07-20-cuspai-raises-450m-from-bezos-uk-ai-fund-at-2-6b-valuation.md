@@ -33,8 +33,7 @@ topic_tags:
 - science and technology
 - manufacturing and engineering
 - business information
-storyline_nexus:
-- global-ai-investment
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: truthfulness

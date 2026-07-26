@@ -31,8 +31,7 @@ primary_themes:
 topic_tags:
 - energy and resource
 - conflict, war and peace
-storyline_nexus:
-- energy-markets-roundup
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: truthfulness

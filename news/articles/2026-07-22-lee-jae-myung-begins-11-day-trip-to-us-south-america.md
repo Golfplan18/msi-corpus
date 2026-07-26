@@ -30,8 +30,7 @@ primary_themes:
 - technology-and-innovation
 topic_tags:
 - artificial intelligence
-storyline_nexus:
-- south-korea-diplomacy
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship

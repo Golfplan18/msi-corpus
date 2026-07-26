@@ -21,8 +21,7 @@ topic_tags:
 - monetary policy
 - conflict, war and peace
 - energy and resource
-storyline_nexus:
-- ecb-iran-war
+storyline_nexus: []
 geographic_location: International
 floor_values_engaged:
 - value: accountability_of_power

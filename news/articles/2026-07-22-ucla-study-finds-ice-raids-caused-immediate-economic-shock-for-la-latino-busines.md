@@ -28,8 +28,7 @@ topic_tags:
 - civil rights
 - discrimination
 - health
-storyline_nexus:
-- us-immigration
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness

@@ -25,9 +25,7 @@ topic_tags:
 - civil rights
 - education
 - discrimination
-storyline_nexus:
-- education-policy
-- civil-rights
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness

@@ -35,8 +35,7 @@ topic_tags:
 - discrimination
 - election
 - politics
-storyline_nexus:
-- redistricting-2026
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness

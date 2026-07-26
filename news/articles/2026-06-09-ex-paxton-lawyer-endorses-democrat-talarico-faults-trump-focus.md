@@ -25,7 +25,7 @@ topic_tags:
 - corruption
 - trial
 storyline_nexus:
-- 2026-midterm-elections
+- texas-senate-race
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

@@ -20,8 +20,7 @@ topic_tags:
 - medical research
 - lifestyle
 - scientific research
-storyline_nexus:
-- diet-nutrition-science
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: truthfulness

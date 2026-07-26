@@ -22,8 +22,7 @@ topic_tags:
 - health treatment and procedure
 - public health
 - welfare
-storyline_nexus:
-- corporate-earnings
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: truthfulness

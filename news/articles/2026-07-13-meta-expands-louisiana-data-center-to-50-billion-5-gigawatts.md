@@ -23,8 +23,7 @@ primary_themes:
 - private credit
 topic_tags:
 - economy
-storyline_nexus:
-- ai-infrastructure-boom
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: truthfulness

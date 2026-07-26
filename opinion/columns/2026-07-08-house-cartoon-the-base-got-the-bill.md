@@ -18,8 +18,7 @@ primary_themes:
 topic_tags:
 - economy
 - politics
-storyline_nexus:
-- economy
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

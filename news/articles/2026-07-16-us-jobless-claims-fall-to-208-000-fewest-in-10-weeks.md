@@ -19,8 +19,7 @@ primary_themes:
 - Layoffs
 topic_tags:
 - unemployment
-storyline_nexus:
-- main-street-independent
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: truthfulness

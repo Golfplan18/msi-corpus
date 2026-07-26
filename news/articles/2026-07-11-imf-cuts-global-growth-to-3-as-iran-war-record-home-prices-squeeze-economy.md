@@ -19,8 +19,7 @@ primary_themes:
 - energy costs
 topic_tags:
 - economy
-storyline_nexus:
-- iran-war-economy
+storyline_nexus: []
 geographic_location: International
 floor_values_engaged:
 - value: informed_citizenship

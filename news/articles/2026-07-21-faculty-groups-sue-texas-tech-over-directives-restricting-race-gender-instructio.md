@@ -30,8 +30,7 @@ topic_tags:
 - education
 - law
 - politics
-storyline_nexus:
-- academic-freedom
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness

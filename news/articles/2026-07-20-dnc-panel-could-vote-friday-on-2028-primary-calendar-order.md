@@ -27,8 +27,7 @@ topic_tags:
 - election
 - government policy
 - political process
-storyline_nexus:
-- 2028-presidential-election
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness

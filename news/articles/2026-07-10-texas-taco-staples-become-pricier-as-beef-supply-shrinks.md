@@ -18,9 +18,7 @@ primary_themes:
 - agriculture
 topic_tags:
 - economy
-storyline_nexus:
-- beef-prices
-- food-inflation
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: truthfulness

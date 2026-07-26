@@ -21,9 +21,7 @@ primary_themes:
 - midterm elections
 topic_tags:
 - terrorism
-storyline_nexus:
-- main-street-independent
-- ora
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

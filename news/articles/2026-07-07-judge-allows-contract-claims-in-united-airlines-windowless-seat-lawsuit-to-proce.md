@@ -24,9 +24,7 @@ primary_themes:
 - class action litigation
 topic_tags:
 - law
-storyline_nexus:
-- airline-policy
-- consumer-rights
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

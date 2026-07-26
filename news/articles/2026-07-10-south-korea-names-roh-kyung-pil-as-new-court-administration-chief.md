@@ -24,8 +24,7 @@ primary_themes:
 - South Korea politics
 topic_tags:
 - judiciary
-storyline_nexus:
-- south-korea-politics
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

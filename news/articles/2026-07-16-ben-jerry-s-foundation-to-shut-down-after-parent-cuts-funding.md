@@ -25,8 +25,7 @@ topic_tags:
 - civil rights
 - labour relations
 - government policy
-storyline_nexus:
-- ben-and-jerrys
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness

@@ -23,8 +23,7 @@ primary_themes:
 topic_tags:
 - politics
 - election
-storyline_nexus:
-- aipac-influence
+storyline_nexus: []
 geographic_location: International
 floor_values_engaged:
 - value: accountability_of_power

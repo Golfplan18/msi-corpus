@@ -25,7 +25,7 @@ topic_tags:
 - politics
 - political process
 storyline_nexus:
-- 2026-midterm-elections
+- texas-senate-race
 floor_values_engaged: []
 framework_version: 1.3.0
 generation_timestamp: '2026-05-30T08:18:21Z'

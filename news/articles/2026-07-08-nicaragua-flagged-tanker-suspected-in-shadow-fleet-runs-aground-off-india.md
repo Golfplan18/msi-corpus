@@ -28,8 +28,7 @@ topic_tags:
 - international relations
 - transport
 - weather
-storyline_nexus:
-- international-sanctions-and-shadow-fleet
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

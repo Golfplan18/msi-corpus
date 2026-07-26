@@ -31,9 +31,7 @@ topic_tags:
 - politics
 - government policy
 - election
-storyline_nexus:
-- midterm-elections-2026
-- social-security-debate
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

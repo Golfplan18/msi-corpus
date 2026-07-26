@@ -27,8 +27,7 @@ primary_themes:
 - political instability
 topic_tags:
 - international law
-storyline_nexus:
-- peru-political-crisis
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

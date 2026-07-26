@@ -36,10 +36,7 @@ topic_tags:
 - transport
 - market and exchange
 - financial and business service
-storyline_nexus:
-- auto-and-transport-roundup
-- castlelake-easyjet
-- airline-industry
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

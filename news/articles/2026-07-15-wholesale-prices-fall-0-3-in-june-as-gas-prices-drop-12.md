@@ -21,8 +21,7 @@ topic_tags:
 - economy, business and finance
 - business information
 - macroeconomics
-storyline_nexus:
-- inflation
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

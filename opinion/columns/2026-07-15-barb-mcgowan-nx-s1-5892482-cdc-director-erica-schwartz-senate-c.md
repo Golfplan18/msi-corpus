@@ -29,9 +29,7 @@ topic_tags:
 - government policy
 - political process
 - epidemic and pandemic
-storyline_nexus:
-- cdc-leadership
-- trump-health-administration
+storyline_nexus: []
 floor_values_engaged:
 - value: accountability_of_power
   intensity: 0.9

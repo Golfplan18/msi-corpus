@@ -21,9 +21,7 @@ primary_themes:
 - Overbidding
 topic_tags:
 - artificial intelligence
-storyline_nexus:
-- housing
-- ai-economy
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness

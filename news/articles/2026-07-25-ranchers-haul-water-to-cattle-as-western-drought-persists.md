@@ -28,8 +28,7 @@ topic_tags:
 - agriculture
 - environment
 - weather
-storyline_nexus:
-- western-drought
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

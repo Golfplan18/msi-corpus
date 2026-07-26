@@ -21,8 +21,7 @@ topic_tags:
 - technology and engineering
 - economy, business and finance
 - computing and information technology
-storyline_nexus:
-- data-center-infrastructure
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship

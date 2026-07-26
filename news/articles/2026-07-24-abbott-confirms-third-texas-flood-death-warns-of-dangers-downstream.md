@@ -23,8 +23,7 @@ primary_themes:
 topic_tags:
 - disaster
 - weather
-storyline_nexus:
-- texas-floods-2026
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

@@ -21,8 +21,7 @@ primary_themes:
 topic_tags:
 - judiciary
 - politics
-storyline_nexus:
-- supreme-court-executive-power
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

@@ -17,8 +17,7 @@ primary_themes:
 - MLK Assassination
 topic_tags:
 - civil rights
-storyline_nexus:
-- notable-deaths-2026
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

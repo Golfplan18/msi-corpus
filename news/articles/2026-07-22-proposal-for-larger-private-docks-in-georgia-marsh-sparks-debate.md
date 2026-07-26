@@ -27,8 +27,7 @@ topic_tags:
 - transportation accident and incident
 - sustainability
 - public health
-storyline_nexus:
-- coastal-zone-conflicts
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness

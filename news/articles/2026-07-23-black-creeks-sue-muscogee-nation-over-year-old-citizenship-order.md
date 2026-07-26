@@ -25,8 +25,7 @@ primary_themes:
 - legal disputes
 topic_tags:
 - civil rights
-storyline_nexus:
-- tribal-citizenship
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness

@@ -17,8 +17,7 @@ primary_themes:
 - government data transparency
 topic_tags:
 - law enforcement
-storyline_nexus:
-- immigration-enforcement
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

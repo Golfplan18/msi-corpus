@@ -26,8 +26,7 @@ primary_themes:
 topic_tags:
 - law
 - politics
-storyline_nexus:
-- carroll-defamation-cases
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

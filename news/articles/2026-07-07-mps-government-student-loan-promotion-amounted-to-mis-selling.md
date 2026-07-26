@@ -24,8 +24,7 @@ topic_tags:
 - higher education
 - government policy
 - economy, business and finance
-storyline_nexus:
-- english-student-loan-crisis
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

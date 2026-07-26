@@ -28,8 +28,7 @@ topic_tags:
 - economy, business and finance
 - energy and resource
 - business information
-storyline_nexus:
-- energy-markets
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

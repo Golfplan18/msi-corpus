@@ -27,9 +27,7 @@ topic_tags:
 - election
 - political process
 - international relations
-storyline_nexus:
-- rhetoric
-- midterms
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship

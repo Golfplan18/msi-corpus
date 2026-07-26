@@ -22,8 +22,7 @@ primary_themes:
 topic_tags:
 - crime
 - music
-storyline_nexus:
-- high-profile-criminal-trials
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

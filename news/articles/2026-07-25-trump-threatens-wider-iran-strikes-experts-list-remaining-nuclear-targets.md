@@ -31,9 +31,7 @@ primary_themes:
 - mid-east security
 topic_tags:
 - international relations
-storyline_nexus:
-- us-iran-conflict
-- nuclear-proliferation
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

@@ -34,8 +34,7 @@ topic_tags:
 - government policy
 - economy
 - conflict, war and peace
-storyline_nexus:
-- energy-security
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

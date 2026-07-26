@@ -24,8 +24,7 @@ topic_tags:
 - disease and condition
 - politics
 - government
-storyline_nexus:
-- congress
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

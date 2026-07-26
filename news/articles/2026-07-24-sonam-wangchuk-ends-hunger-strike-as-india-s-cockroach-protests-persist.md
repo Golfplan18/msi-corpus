@@ -23,8 +23,7 @@ primary_themes:
 - youth activism
 topic_tags:
 - education
-storyline_nexus:
-- india-protest-movement
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

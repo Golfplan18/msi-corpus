@@ -27,10 +27,7 @@ topic_tags:
 - computing and information technology
 - economy, business and finance
 - international trade
-storyline_nexus:
-- apple-supply-chain
-- us-chip-manufacturing
-- 5g
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship

@@ -24,8 +24,7 @@ primary_themes:
 - wildlife conservation
 topic_tags:
 - environment
-storyline_nexus:
-- trump-environmental-deregulation
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness

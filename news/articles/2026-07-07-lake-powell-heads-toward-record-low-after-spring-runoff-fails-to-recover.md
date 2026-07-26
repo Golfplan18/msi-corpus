@@ -25,8 +25,7 @@ primary_themes:
 - interstate water negotiations
 topic_tags:
 - environment
-storyline_nexus:
-- colorado-river-crisis
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

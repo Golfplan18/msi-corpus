@@ -30,7 +30,7 @@ topic_tags:
 - weather
 - public health
 storyline_nexus:
-- climate-and-environment
+- extreme-weather-disasters
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

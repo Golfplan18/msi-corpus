@@ -23,8 +23,7 @@ topic_tags:
 - artificial intelligence
 - economy, business and finance
 - computing and information technology
-storyline_nexus:
-- ai-capital-race
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness

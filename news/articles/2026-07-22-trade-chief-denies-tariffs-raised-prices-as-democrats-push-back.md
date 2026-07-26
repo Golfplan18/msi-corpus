@@ -22,8 +22,7 @@ primary_themes:
 - trade policy
 topic_tags:
 - economy
-storyline_nexus:
-- trump-tariffs
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

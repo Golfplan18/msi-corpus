@@ -23,7 +23,7 @@ topic_tags:
 - artificial intelligence
 - international law
 storyline_nexus:
-- AI and warfare
+- ai-industry-regulation
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

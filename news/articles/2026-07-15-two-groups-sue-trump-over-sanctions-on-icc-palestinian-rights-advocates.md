@@ -26,8 +26,7 @@ topic_tags:
 - war crime
 - international law
 - political process
-storyline_nexus:
-- sanctions-executive-power
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

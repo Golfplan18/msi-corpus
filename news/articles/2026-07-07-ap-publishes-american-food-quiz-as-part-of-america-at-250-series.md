@@ -14,8 +14,7 @@ topic_tags:
 - mass media
 - publishing
 - lifestyle and leisure
-storyline_nexus:
-- america250
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship

@@ -35,8 +35,7 @@ topic_tags:
 - people
 - government policy
 - election
-storyline_nexus:
-- us-congress
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship

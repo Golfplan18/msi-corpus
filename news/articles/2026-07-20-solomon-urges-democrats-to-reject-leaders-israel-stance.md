@@ -26,8 +26,7 @@ topic_tags:
 - political process
 - political dissent
 - international relations
-storyline_nexus:
-- democratic-israel-divide
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness

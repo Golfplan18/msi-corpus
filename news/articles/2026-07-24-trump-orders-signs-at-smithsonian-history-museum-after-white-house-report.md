@@ -21,8 +21,7 @@ primary_themes:
 - disputes over historical narrative
 topic_tags:
 - politics
-storyline_nexus:
-- trump-administration-smithsonian-pressure
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: truthfulness

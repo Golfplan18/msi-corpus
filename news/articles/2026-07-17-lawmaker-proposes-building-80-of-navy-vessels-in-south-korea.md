@@ -29,8 +29,7 @@ primary_themes:
 - Shipyard capacity
 topic_tags:
 - economy
-storyline_nexus:
-- south-korea-us-alliance
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

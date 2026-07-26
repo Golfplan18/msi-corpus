@@ -28,8 +28,7 @@ topic_tags:
 - international trade
 - international relations
 - government policy
-storyline_nexus:
-- main-street-independent
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

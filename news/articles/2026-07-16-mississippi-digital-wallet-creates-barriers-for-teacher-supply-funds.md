@@ -25,8 +25,7 @@ topic_tags:
 - education
 - education policy
 - school
-storyline_nexus:
-- mississippi-education-funding
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

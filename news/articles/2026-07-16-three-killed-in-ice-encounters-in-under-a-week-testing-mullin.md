@@ -28,9 +28,7 @@ topic_tags:
 - government policy
 - law enforcement
 - civil unrest
-storyline_nexus:
-- immigration-enforcement
-- dhs-leadership
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

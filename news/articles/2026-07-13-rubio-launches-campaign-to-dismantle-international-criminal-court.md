@@ -27,8 +27,7 @@ topic_tags:
 - government policy
 - judiciary
 - politics
-storyline_nexus:
-- u.s.-icc-relations
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

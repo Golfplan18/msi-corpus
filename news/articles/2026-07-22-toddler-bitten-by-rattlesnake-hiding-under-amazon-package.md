@@ -23,8 +23,7 @@ topic_tags:
 - health treatment and procedure
 - crime
 - environment
-storyline_nexus:
-- wildlife-encounters
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

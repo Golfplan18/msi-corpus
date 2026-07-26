@@ -23,9 +23,7 @@ primary_themes:
 topic_tags:
 - health
 - lifestyle
-storyline_nexus:
-- cyclospora-outbreak
-- consumer-behavior-during-outbreak
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

@@ -15,8 +15,7 @@ primary_themes:
 - Republican primary
 topic_tags:
 - election
-storyline_nexus:
-- main-street-independent
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

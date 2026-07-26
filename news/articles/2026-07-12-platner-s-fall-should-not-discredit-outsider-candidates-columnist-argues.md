@@ -28,8 +28,7 @@ topic_tags:
 - political process
 - labour
 - government policy
-storyline_nexus:
-- maine-senate-2026
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness

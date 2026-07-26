@@ -16,8 +16,7 @@ primary_themes:
 topic_tags:
 - health
 - politics
-storyline_nexus:
-- federal-health-policy
+storyline_nexus: []
 floor_values_engaged:
 - value: informed_citizenship
   intensity: 0.9

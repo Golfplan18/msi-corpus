@@ -27,9 +27,7 @@ topic_tags:
 - market and exchange
 - political process
 - social media
-storyline_nexus:
-- Trump-conflicts-of-interest
-- Truth-Social-business
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship

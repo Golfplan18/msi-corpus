@@ -30,8 +30,7 @@ primary_themes:
 - legal-accountability
 topic_tags:
 - environment
-storyline_nexus:
-- climate-accountability
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

@@ -26,8 +26,7 @@ topic_tags:
 - health
 - government
 - public health
-storyline_nexus:
-- rfk-jr-public-health-agenda
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

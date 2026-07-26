@@ -22,8 +22,7 @@ topic_tags:
 - health
 - public health
 - weather
-storyline_nexus:
-- extreme-weather
+storyline_nexus: []
 geographic_location: International
 floor_values_engaged:
 - value: human_life_and_dignity

@@ -26,8 +26,7 @@ topic_tags:
 - artificial intelligence
 - energy and resource
 - international relations
-storyline_nexus:
-- markets
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: truthfulness

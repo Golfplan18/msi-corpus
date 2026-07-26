@@ -25,8 +25,7 @@ primary_themes:
 - corporate climate goals
 topic_tags:
 - environment
-storyline_nexus:
-- ai-environmental-impact
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

@@ -25,8 +25,7 @@ primary_themes:
 - federal investigation
 topic_tags:
 - corruption
-storyline_nexus:
-- accountability-of-power
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

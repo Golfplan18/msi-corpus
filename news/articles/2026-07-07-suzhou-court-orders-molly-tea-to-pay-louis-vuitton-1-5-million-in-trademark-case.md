@@ -19,9 +19,7 @@ topic_tags:
 - international trade
 - consumer goods
 - international law
-storyline_nexus:
-- global-intellectual-property
-- china-business-relations
+storyline_nexus: []
 geographic_location: International
 floor_values_engaged:
 - value: equality_fairness

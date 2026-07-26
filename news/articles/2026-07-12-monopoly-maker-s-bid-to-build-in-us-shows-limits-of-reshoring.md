@@ -32,8 +32,7 @@ topic_tags:
 - international trade
 - economy, business and finance
 - consumer goods
-storyline_nexus:
-- trade-and-tariffs
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

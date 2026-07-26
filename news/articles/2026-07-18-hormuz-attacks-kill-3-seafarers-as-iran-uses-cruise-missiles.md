@@ -29,8 +29,7 @@ topic_tags:
 - transportation accident and incident
 - health treatment and procedure
 - human interest
-storyline_nexus:
-- us-iran-war
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

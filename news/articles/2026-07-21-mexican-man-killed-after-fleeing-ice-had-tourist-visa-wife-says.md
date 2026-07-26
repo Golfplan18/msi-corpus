@@ -28,8 +28,7 @@ primary_themes:
 - federal law enforcement
 topic_tags:
 - law enforcement
-storyline_nexus:
-- US-immigration-enforcement-crackdown
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

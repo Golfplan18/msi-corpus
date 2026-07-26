@@ -20,8 +20,7 @@ topic_tags:
 - government policy
 - political process
 - wage and pension
-storyline_nexus:
-- south-africa-political-crisis
+storyline_nexus: []
 geographic_location: Sri Lanka
 floor_values_engaged: []
 framework_version: 1.3.0

@@ -33,8 +33,7 @@ topic_tags:
 - international trade
 - conflict, war and peace
 - economy
-storyline_nexus:
-- latin-america-geopolitics
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: truthfulness

@@ -27,9 +27,7 @@ primary_themes:
 topic_tags:
 - tax
 - government
-storyline_nexus:
-- main-street-independent
-- chile-economy
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness

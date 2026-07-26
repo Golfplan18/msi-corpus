@@ -27,9 +27,7 @@ topic_tags:
 - manufacturing and engineering
 - environment
 - sustainability
-storyline_nexus:
-- africa-industrialization
-- electric-vehicle-supply-chain
+storyline_nexus: []
 geographic_location: International
 floor_values_engaged:
 - value: informed_citizenship

@@ -21,9 +21,7 @@ primary_themes:
 - Technology sector
 topic_tags:
 - artificial intelligence
-storyline_nexus:
-- main-street-independent
-- ora
+storyline_nexus: []
 geographic_location: International
 floor_values_engaged:
 - value: truthfulness

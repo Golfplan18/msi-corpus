@@ -35,8 +35,7 @@ primary_themes:
 - political pressure
 topic_tags:
 - international trade
-storyline_nexus:
-- gordie-howe-bridge
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

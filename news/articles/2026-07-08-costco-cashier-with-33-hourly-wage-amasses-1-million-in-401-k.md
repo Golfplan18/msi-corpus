@@ -20,9 +20,7 @@ topic_tags:
 - human interest
 - labour
 - economy, business and finance
-storyline_nexus:
-- retail-labor
-- compensation-and-benefits
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness

@@ -22,8 +22,7 @@ primary_themes:
 topic_tags:
 - agriculture
 - environment
-storyline_nexus:
-- domestic-extreme-weather
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship

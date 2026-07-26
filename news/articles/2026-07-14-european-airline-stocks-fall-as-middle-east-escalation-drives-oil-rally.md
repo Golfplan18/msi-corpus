@@ -24,8 +24,7 @@ topic_tags:
 - transport
 - energy and resource
 - economy, business and finance
-storyline_nexus:
-- transport
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship

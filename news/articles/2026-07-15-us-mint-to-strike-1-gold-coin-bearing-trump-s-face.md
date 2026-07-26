@@ -26,8 +26,7 @@ topic_tags:
 - economy, business and finance
 - arts and entertainment
 - government policy
-storyline_nexus:
-- trump-brand-expansion
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

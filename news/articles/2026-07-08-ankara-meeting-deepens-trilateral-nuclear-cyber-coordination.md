@@ -31,8 +31,7 @@ primary_themes:
 topic_tags:
 - international relations
 storyline_nexus:
-- trilateral diplomacy
-- korean peninsula denuclearization
+- north-korea-nuclear-program
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

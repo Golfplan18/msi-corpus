@@ -23,9 +23,7 @@ primary_themes:
 - Utility regulation
 topic_tags:
 - economy
-storyline_nexus:
-- grid-buildout
-- ai-infrastructure
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship

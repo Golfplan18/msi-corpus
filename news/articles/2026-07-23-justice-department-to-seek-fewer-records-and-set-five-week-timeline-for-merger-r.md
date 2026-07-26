@@ -22,8 +22,7 @@ primary_themes:
 topic_tags:
 - competition discipline
 - economy, business and finance
-storyline_nexus:
-- doj-antitrust-direction
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

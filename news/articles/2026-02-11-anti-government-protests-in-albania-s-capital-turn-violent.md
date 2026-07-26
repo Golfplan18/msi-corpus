@@ -22,8 +22,7 @@ topic_tags:
 - civil unrest
 - political dissent
 - politics
-storyline_nexus:
-- south-africa-political-crisis
+storyline_nexus: []
 geographic_location: Tirana, Albania
 floor_values_engaged:
 - value: human_life_and_dignity

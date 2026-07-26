@@ -27,8 +27,7 @@ topic_tags:
 - fire
 - disaster
 - crime, law and justice
-storyline_nexus:
-- mass-casualty-events
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

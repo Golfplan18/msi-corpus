@@ -31,8 +31,7 @@ topic_tags:
 - politics
 - law
 - government
-storyline_nexus:
-- south-korea-judicial-independence
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

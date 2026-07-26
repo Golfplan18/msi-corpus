@@ -33,9 +33,7 @@ topic_tags:
 - energy and resource
 - government
 - government policy
-storyline_nexus:
-- main-street-independent
-- cuba-energy-crisis
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

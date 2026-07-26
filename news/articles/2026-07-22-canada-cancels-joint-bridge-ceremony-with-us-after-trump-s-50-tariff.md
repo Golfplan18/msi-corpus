@@ -27,8 +27,7 @@ topic_tags:
 - economy
 - government policy
 - transport
-storyline_nexus:
-- canada-us-trade-war
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

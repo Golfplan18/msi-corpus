@@ -31,8 +31,7 @@ topic_tags:
 - mass media
 - arts and entertainment
 - government policy
-storyline_nexus:
-- paramount-warner-merger
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

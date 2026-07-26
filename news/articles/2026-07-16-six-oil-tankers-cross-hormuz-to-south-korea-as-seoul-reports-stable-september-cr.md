@@ -27,8 +27,7 @@ topic_tags:
 - international relations
 - economy, business and finance
 - transport
-storyline_nexus:
-- us-iran-war
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness

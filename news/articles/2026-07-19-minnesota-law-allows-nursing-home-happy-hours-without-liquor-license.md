@@ -29,9 +29,7 @@ topic_tags:
 - social condition
 - government policy
 - lifestyle and leisure
-storyline_nexus:
-- aging-america
-- main-street-independent
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness

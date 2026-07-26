@@ -37,8 +37,7 @@ topic_tags:
 - health
 - lifestyle and leisure
 - demographics
-storyline_nexus:
-- american-consumer-strain
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship

@@ -45,8 +45,7 @@ topic_tags:
 - political process
 - corruption
 - law enforcement
-storyline_nexus:
-- elections-voting-democracy
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

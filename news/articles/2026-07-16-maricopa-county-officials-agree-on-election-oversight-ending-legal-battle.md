@@ -24,8 +24,7 @@ topic_tags:
 - law enforcement
 - civil rights
 - politics
-storyline_nexus:
-- maricopa-county-election-dispute
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness

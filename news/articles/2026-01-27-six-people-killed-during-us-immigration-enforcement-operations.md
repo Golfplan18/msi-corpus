@@ -25,8 +25,7 @@ topic_tags:
   - "human migration"
   - politics
 storyline_nexus:
-  - immigration-enforcement
-  - us-administration-2026
+- us-immigration-enforcement
 geographic_location: 'United States: Minneapolis MN, Chicago IL, Camarillo CA, Norfolk VA'
 floor_values_engaged:
 - value: human_life_and_dignity

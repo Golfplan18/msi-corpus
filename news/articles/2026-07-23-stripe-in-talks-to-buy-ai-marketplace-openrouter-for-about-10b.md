@@ -23,8 +23,7 @@ primary_themes:
 - startup valuations
 topic_tags:
 - artificial intelligence
-storyline_nexus:
-- ai-market-consolidation
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

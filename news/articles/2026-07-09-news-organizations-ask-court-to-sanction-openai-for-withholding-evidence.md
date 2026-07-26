@@ -26,8 +26,7 @@ topic_tags:
 - trial
 - mass media
 - publishing
-storyline_nexus:
-- openai-copyright-litigation
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: truthfulness

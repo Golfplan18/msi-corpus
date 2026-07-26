@@ -25,8 +25,7 @@ topic_tags:
 - prosecution
 - government policy
 - political process
-storyline_nexus:
-- trump-justice-department
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

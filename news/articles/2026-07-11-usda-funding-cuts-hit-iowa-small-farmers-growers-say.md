@@ -31,9 +31,7 @@ topic_tags:
 - economy
 - government
 - discrimination
-storyline_nexus:
-- us-economy
-- 2026-midterms
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

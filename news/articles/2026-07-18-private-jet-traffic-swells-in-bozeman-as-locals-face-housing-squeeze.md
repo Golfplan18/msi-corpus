@@ -30,9 +30,7 @@ topic_tags:
 - economy
 - politics
 - society
-storyline_nexus:
-- housing
-- migration
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness

@@ -24,8 +24,7 @@ primary_themes:
 - Catholic Church
 topic_tags:
 - international relations
-storyline_nexus:
-- U.S.-Cuba diplomatic relations
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

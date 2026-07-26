@@ -26,8 +26,7 @@ topic_tags:
 - science and technology
 - natural resources
 - sustainability
-storyline_nexus:
-- space-exploration
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

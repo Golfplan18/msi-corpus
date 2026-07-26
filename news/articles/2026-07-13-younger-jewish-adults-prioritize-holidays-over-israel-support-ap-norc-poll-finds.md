@@ -23,8 +23,7 @@ primary_themes:
 - Public opinion polling
 topic_tags:
 - religion
-storyline_nexus:
-- american-jewish-identity-israel
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship

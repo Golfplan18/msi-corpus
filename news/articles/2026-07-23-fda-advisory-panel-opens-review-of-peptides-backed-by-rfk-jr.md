@@ -27,8 +27,7 @@ topic_tags:
 - medical research
 - public health
 - science and technology
-storyline_nexus:
-- peptide-regulation
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

@@ -29,8 +29,7 @@ topic_tags:
 - macroeconomics
 - manufacturing and engineering
 - economy
-storyline_nexus:
-- iran-conflict-economic-impact
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

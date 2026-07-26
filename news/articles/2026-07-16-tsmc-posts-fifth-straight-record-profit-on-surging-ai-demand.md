@@ -31,9 +31,7 @@ topic_tags:
 - business information
 - economy, business and finance
 - technology and engineering
-storyline_nexus:
-- artificial-intelligence
-- semiconductor-supply-chain
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

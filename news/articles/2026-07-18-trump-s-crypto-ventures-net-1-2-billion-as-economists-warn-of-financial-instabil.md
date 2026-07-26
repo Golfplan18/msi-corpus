@@ -38,10 +38,7 @@ topic_tags:
 - financial and business service
 - law enforcement
 - economy
-storyline_nexus:
-- trump-finances
-- crypto-regulation
-- financial-stability
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

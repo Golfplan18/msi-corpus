@@ -26,8 +26,7 @@ topic_tags:
 - politics
 - international military intervention
 - disaster, accident and emergency incident
-storyline_nexus:
-- National Guard deployment
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness

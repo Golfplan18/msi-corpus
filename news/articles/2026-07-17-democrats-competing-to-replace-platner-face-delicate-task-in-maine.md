@@ -23,8 +23,7 @@ topic_tags:
 - politics
 - government policy
 - political process
-storyline_nexus:
-- main-street-independent
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship

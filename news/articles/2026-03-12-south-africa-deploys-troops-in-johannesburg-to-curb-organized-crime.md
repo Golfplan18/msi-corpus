@@ -28,8 +28,7 @@ topic_tags:
 - armed conflict
 - law enforcement
 - government policy
-storyline_nexus:
-- south-africa-political-crisis
+storyline_nexus: []
 floor_values_engaged: []
 framework_version: 1.3.0
 generation_timestamp: '2026-05-24T10:42:18Z'

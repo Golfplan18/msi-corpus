@@ -25,8 +25,7 @@ primary_themes:
 - law enforcement
 topic_tags:
 - environment
-storyline_nexus:
-- amazon-rainforest
+storyline_nexus: []
 geographic_location: International
 floor_values_engaged:
 - value: equality_fairness

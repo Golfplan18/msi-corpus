@@ -31,8 +31,7 @@ topic_tags:
 - wage and pension
 - economy
 - macroeconomics
-storyline_nexus:
-- uk-economy
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness

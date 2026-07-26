@@ -28,11 +28,7 @@ primary_themes:
 topic_tags:
 - public health
 - government
-storyline_nexus:
-- cyclospora outbreak
-- FDA recalls
-- HHS oversight
-- federal health agency cuts
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

@@ -24,9 +24,7 @@ topic_tags:
 - conservation
 - crime
 - conflict, war and peace
-storyline_nexus:
-- amazon-safety
-- indigenous-rights
+storyline_nexus: []
 geographic_location: International
 floor_values_engaged:
 - value: human_life_and_dignity

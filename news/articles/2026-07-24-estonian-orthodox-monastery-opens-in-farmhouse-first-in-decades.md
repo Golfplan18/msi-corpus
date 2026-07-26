@@ -22,8 +22,7 @@ primary_themes:
 topic_tags:
 - religion
 - religious institution
-storyline_nexus:
-- global-religious-landscape
+storyline_nexus: []
 geographic_location: International
 floor_values_engaged:
 - value: equality_fairness

@@ -22,8 +22,7 @@ primary_themes:
 - integrity
 topic_tags:
 - politics
-storyline_nexus:
-- trump-administration-nominations
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: truthfulness

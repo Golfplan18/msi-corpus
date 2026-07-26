@@ -23,8 +23,7 @@ primary_themes:
 - security
 topic_tags:
 - international relations
-storyline_nexus:
-- us-south-korea-alliance
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness

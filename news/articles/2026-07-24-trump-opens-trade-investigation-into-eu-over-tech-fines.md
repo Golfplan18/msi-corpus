@@ -27,8 +27,7 @@ topic_tags:
 - government policy
 - economy
 - business information
-storyline_nexus:
-- us-eu-trade-relations
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

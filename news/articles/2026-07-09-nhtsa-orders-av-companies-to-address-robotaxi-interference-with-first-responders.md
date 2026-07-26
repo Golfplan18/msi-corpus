@@ -29,8 +29,7 @@ topic_tags:
 - government policy
 - science and technology
 - transportation accident and incident
-storyline_nexus:
-- transportation-and-infrastructure
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

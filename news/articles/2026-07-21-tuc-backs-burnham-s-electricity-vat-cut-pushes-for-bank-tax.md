@@ -23,9 +23,7 @@ topic_tags:
 - economy, business and finance
 - energy and resource
 - welfare
-storyline_nexus:
-- uk-politics
-- uk-economy
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness

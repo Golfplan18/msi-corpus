@@ -14,8 +14,7 @@ primary_themes:
 - energy sector
 topic_tags:
 - energy and resource
-storyline_nexus:
-- corporate-earnings-q2-2026
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

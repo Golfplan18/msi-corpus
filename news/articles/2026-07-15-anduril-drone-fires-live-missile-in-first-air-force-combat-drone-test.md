@@ -27,8 +27,7 @@ topic_tags:
 - technology and engineering
 - robotics
 - science and technology
-storyline_nexus:
-- military-aviation
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

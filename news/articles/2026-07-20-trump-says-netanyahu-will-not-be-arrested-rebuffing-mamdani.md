@@ -23,9 +23,7 @@ primary_themes:
 topic_tags:
 - politics
 - international relations
-storyline_nexus:
-- us-foreign-policy
-- us-israel-relations
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

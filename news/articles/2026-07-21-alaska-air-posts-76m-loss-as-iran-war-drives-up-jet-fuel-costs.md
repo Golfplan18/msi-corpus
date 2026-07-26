@@ -22,8 +22,7 @@ topic_tags:
 - economy, business and finance
 - transport
 - conflict, war and peace
-storyline_nexus:
-- iran-war-economic-impact
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: truthfulness

@@ -27,8 +27,7 @@ topic_tags:
 - law
 - government
 - politics
-storyline_nexus:
-- immigration-enforcement
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness

@@ -31,8 +31,7 @@ topic_tags:
 - law enforcement
 - crime
 - government
-storyline_nexus:
-- south-africa-political-crisis
+storyline_nexus: []
 geographic_location: International
 floor_values_engaged:
 - value: accountability_of_power

@@ -27,8 +27,7 @@ topic_tags:
 - discrimination
 - law
 - judiciary
-storyline_nexus:
-- muscogee-nation-freedmen-citizenship
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness

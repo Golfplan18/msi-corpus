@@ -26,9 +26,7 @@ topic_tags:
 - economy
 - macroeconomics
 - banking
-storyline_nexus:
-- main-street-independent
-- federal-reserve
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

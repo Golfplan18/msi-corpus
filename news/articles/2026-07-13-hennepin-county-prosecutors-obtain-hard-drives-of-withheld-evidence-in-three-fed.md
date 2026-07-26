@@ -23,8 +23,7 @@ primary_themes:
 - informed_citizenship
 topic_tags:
 - law enforcement
-storyline_nexus:
-- Minnesota-ICE-shootings-2026
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

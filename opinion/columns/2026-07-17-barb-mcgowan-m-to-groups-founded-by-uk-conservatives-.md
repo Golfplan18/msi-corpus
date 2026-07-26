@@ -20,8 +20,7 @@ primary_themes:
 topic_tags:
 - government
 - politics
-storyline_nexus:
-- trump-administration
+storyline_nexus: []
 floor_values_engaged:
 - value: accountability_of_power
   intensity: 0.9

@@ -18,8 +18,7 @@ primary_themes:
 - gun violence
 topic_tags:
 - law enforcement
-storyline_nexus:
-- secret-service-incidents
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

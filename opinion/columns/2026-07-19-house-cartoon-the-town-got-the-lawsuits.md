@@ -23,8 +23,7 @@ primary_themes:
 topic_tags:
 - politics
 - environment
-storyline_nexus:
-- main-street-independent
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

@@ -24,9 +24,7 @@ topic_tags:
 - discrimination
 - crime, law and justice
 - civil rights
-storyline_nexus:
-- antisemitism
-- platform-accountability
+storyline_nexus: []
 geographic_location: International
 floor_values_engaged:
 - value: accountability_of_power

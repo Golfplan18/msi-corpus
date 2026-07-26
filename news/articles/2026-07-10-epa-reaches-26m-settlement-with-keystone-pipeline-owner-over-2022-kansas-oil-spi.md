@@ -25,8 +25,7 @@ primary_themes:
 - pipeline safety
 topic_tags:
 - environment
-storyline_nexus:
-- pipeline-infrastructure
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

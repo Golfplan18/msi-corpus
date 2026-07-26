@@ -28,8 +28,7 @@ primary_themes:
 - artificial-intelligence
 topic_tags:
 - politics
-storyline_nexus:
-- fed-warsh
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: truthfulness

@@ -26,8 +26,7 @@ topic_tags:
 - international trade
 - labour market
 - tax
-storyline_nexus:
-- us-trade-policy
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness

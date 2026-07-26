@@ -28,8 +28,7 @@ topic_tags:
 - election
 - politics
 storyline_nexus:
-- midterm-elections-2026
-- democratic-party-fracture
+- 2026-midterm-elections
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

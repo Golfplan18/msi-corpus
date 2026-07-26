@@ -24,7 +24,7 @@ topic_tags:
 - politics
 - election
 storyline_nexus:
-- 2026-midterm-elections
+- texas-senate-race
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship

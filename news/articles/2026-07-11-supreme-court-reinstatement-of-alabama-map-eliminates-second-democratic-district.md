@@ -32,8 +32,7 @@ topic_tags:
 - discrimination
 - political process
 storyline_nexus:
-- voting-rights
-- redistricting-2026
+- redistricting-voting-rights
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness

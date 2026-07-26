@@ -23,8 +23,7 @@ topic_tags:
 - politics
 - election
 - government
-storyline_nexus:
-- Michigan Senate race 2026
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness

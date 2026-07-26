@@ -24,8 +24,7 @@ primary_themes:
 topic_tags:
 - health
 - politics
-storyline_nexus:
-- healthcare-workforce
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness

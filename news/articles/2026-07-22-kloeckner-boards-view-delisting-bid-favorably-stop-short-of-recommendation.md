@@ -21,8 +21,7 @@ topic_tags:
 - economy, business and finance
 - manufacturing and engineering
 - financial and business service
-storyline_nexus:
-- corporate-governance
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

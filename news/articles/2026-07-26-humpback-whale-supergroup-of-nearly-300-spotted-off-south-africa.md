@@ -25,8 +25,7 @@ topic_tags:
 - conservation
 - environment
 - health
-storyline_nexus:
-- main-street-independent
+storyline_nexus: []
 geographic_location: International
 floor_values_engaged:
 - value: informed_citizenship

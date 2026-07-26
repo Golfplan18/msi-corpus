@@ -26,8 +26,7 @@ topic_tags:
 - civil rights
 - law enforcement
 - religion
-storyline_nexus:
-- immigration-policy
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

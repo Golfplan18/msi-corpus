@@ -19,8 +19,7 @@ primary_themes:
 - Credit card industry
 topic_tags:
 - banking
-storyline_nexus:
-- credit-card-earnings
+storyline_nexus: []
 geographic_location: International
 floor_values_engaged:
 - value: human_life_and_dignity

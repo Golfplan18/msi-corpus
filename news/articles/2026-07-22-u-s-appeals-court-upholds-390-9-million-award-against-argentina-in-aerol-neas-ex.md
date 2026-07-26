@@ -31,8 +31,7 @@ primary_themes:
 - privatization
 topic_tags:
 - international law
-storyline_nexus:
-- argentina-sovereign-debt
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

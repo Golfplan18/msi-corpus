@@ -21,8 +21,7 @@ primary_themes:
 - violence-and-extremism
 topic_tags:
 - crime
-storyline_nexus:
-- charlie-kirk-killing-case
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

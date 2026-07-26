@@ -35,9 +35,7 @@ primary_themes:
 - executive power
 topic_tags:
 - higher education
-storyline_nexus:
-- democracy-and-institutions
-- higher-education-under-trump
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

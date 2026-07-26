@@ -19,8 +19,7 @@ primary_themes:
 topic_tags:
 - economy
 - business information
-storyline_nexus:
-- corporate-earnings
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

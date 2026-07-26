@@ -22,8 +22,7 @@ topic_tags:
 - terrorism
 - international military intervention
 - international relations
-storyline_nexus:
-- us-iran-war
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

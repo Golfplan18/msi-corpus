@@ -23,8 +23,7 @@ primary_themes:
 - communism versus capitalism
 topic_tags:
 - books
-storyline_nexus:
-- china-culture-society
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

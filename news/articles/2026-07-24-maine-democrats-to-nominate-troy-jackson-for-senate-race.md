@@ -19,9 +19,7 @@ primary_themes:
 topic_tags:
 - government policy
 - politics
-storyline_nexus:
-- main-street-independent
-- maine-senate-2026
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

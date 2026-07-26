@@ -19,8 +19,7 @@ primary_themes:
 - gun-regulation
 topic_tags:
 - judiciary
-storyline_nexus:
-- gun-rights
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness

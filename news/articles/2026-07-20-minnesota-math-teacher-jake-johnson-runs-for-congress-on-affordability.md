@@ -26,9 +26,7 @@ primary_themes:
 - healthcare cuts
 topic_tags:
 - agriculture
-storyline_nexus:
-- midterm-elections-2026
-- affordability
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness

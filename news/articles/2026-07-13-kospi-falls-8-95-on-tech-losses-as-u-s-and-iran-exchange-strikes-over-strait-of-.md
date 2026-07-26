@@ -28,8 +28,7 @@ topic_tags:
 - armed conflict
 - international relations
 - macroeconomics
-storyline_nexus:
-- south-korea-stock-market-volatility
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: truthfulness

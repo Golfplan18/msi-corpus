@@ -15,8 +15,7 @@ primary_themes:
 - Teacher training
 topic_tags:
 - education
-storyline_nexus:
-- education-policy
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship

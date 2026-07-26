@@ -22,8 +22,7 @@ topic_tags:
 - crime, law and justice
 - government policy
 - politics
-storyline_nexus:
-- epstein-files
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

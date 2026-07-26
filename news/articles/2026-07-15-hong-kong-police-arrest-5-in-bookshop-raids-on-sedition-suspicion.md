@@ -24,8 +24,7 @@ topic_tags:
 - crime, law and justice
 - law enforcement
 - government
-storyline_nexus:
-- hong-kong-security-crackdown
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

@@ -24,8 +24,7 @@ primary_themes:
 - Nuclear Non-Proliferation
 topic_tags:
 - international relations
-storyline_nexus:
-- us-japan-south-korea-trilateral-coordination
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

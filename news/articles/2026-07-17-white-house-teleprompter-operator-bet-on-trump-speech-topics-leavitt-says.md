@@ -29,8 +29,7 @@ primary_themes:
 - Ethics in government
 topic_tags:
 - government
-storyline_nexus:
-- trump-administration
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

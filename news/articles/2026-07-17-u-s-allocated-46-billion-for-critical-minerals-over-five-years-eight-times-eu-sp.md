@@ -27,8 +27,7 @@ topic_tags:
 - economy, business and finance
 - international trade
 - energy and resource
-storyline_nexus:
-- critical-minerals-race
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness

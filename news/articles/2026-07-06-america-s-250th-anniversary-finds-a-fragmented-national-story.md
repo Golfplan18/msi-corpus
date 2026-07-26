@@ -22,8 +22,7 @@ topic_tags:
 - values
 - society
 - political process
-storyline_nexus:
-- national-identity-and-democracy
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship

@@ -17,9 +17,7 @@ topic_tags:
 - economy, business and finance
 - macroeconomics
 - conflict, war and peace
-storyline_nexus:
-- main-street-independent
-- grocery-prices
+storyline_nexus: []
 floor_values_engaged:
 - value: informed_citizenship
   intensity: 0.9

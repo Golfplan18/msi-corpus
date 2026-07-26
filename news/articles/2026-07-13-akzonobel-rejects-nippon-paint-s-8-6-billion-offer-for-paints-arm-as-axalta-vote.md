@@ -26,8 +26,7 @@ topic_tags:
 - market and exchange
 - international trade
 - manufacturing and engineering
-storyline_nexus:
-- business-deals
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

@@ -17,8 +17,7 @@ primary_themes:
 - financial services
 topic_tags:
 - economy
-storyline_nexus:
-- wall-street-earnings
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

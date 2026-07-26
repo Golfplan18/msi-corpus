@@ -33,8 +33,7 @@ primary_themes:
 - regulatory enforcement
 topic_tags:
 - politics
-storyline_nexus:
-- prediction-markets-insider-trading
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

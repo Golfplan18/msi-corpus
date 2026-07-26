@@ -25,8 +25,7 @@ topic_tags:
 - human migration
 - law enforcement
 - politics
-storyline_nexus:
-- ice-immigration-houston
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

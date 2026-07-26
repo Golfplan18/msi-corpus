@@ -20,8 +20,7 @@ topic_tags:
 - economy, business and finance
 - energy and resource
 - government
-storyline_nexus:
-- iran-us-war
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

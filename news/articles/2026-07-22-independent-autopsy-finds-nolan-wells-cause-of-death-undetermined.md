@@ -24,8 +24,7 @@ topic_tags:
 - crime
 - crime, law and justice
 - disaster, accident and emergency incident
-storyline_nexus:
-- nolan-wells
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

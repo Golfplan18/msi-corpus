@@ -22,8 +22,7 @@ primary_themes:
 - Russia-Ukraine war
 topic_tags:
 - armed conflict
-storyline_nexus:
-- Ukraine
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

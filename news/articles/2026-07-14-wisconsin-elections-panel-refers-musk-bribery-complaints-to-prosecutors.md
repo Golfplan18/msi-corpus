@@ -23,8 +23,7 @@ primary_themes:
 - accountability_of_power
 topic_tags:
 - election
-storyline_nexus:
-- musk-legal-troubles
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

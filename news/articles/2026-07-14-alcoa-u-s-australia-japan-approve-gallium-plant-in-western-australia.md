@@ -27,8 +27,7 @@ topic_tags:
 - environment
 - science and technology
 - manufacturing and engineering
-storyline_nexus:
-- critical-minerals-supply-chain
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship

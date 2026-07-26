@@ -19,9 +19,7 @@ topic_tags:
 - education
 - civil rights
 - discrimination
-storyline_nexus:
-- Trump administration education policy
-- Civil rights enforcement rollback
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness

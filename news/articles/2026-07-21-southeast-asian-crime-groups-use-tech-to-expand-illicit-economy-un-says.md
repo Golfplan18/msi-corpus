@@ -19,8 +19,7 @@ primary_themes:
 - illicit economy
 topic_tags:
 - crime
-storyline_nexus:
-- main-street-independent
+storyline_nexus: []
 geographic_location: International
 floor_values_engaged:
 - value: equality_fairness

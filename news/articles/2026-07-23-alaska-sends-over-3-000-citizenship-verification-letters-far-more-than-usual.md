@@ -21,9 +21,7 @@ topic_tags:
 - election
 - government policy
 - civil rights
-storyline_nexus:
-- voting-rights-2026
-- election-administration
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness

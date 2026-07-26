@@ -30,8 +30,7 @@ topic_tags:
 - political dissent
 - civil rights
 - discrimination
-storyline_nexus:
-- main-street-independent
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power

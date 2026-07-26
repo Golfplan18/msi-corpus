@@ -35,8 +35,7 @@ primary_themes:
 - technology competition
 topic_tags:
 - international relations
-storyline_nexus:
-- us-china-relations
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: truthfulness

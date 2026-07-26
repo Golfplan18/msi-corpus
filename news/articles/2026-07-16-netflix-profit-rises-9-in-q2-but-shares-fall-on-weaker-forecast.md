@@ -23,8 +23,7 @@ topic_tags:
 - arts and entertainment
 - mass media
 - financial and business service
-storyline_nexus:
-- corporate earnings
+storyline_nexus: []
 geographic_location: International
 floor_values_engaged:
 - value: truthfulness

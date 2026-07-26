@@ -19,8 +19,7 @@ topic_tags:
 - crime, law and justice
 - sport event
 - transportation accident and incident
-storyline_nexus:
-- main-street-independent
+storyline_nexus: []
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship
