@@ -202,6 +202,8 @@ image:
   disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
   ai_model: "openrouter:openai/gpt-5.4-image-2"
   ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+analyses:
+- '2026-07-26-maritime-challenges-spread-beyond-strait-of-hormuz-to-key-global-waterways'
 ---
 ## Maritime challenges spread beyond Strait of Hormuz to key global waterways
 
@@ -234,3 +236,8 @@ The column warned that the cumulative effect is a breakdown in "the fundamental 
 **Publication date:** 2026-07-26
 **Title:** From the strait of Hormuz to the North Sea, a global maritime war rages around us – and more than the price of oil is at stake | Simon Tisdall
 **URL:** https://www.theguardian.com/commentisfree/2026/jul/26/strait-of-hormuz-north-sea-global-maritime-war-oil-price
+
+---
+
+<!-- analysis-link:2026-07-26-maritime-challenges-spread-beyond-strait-of-hormuz-to-key-global-waterways -->
+**Going deeper:** [Read MSI's analysis of Erosion of freedom-of-navigation norms →](/analyses/2026-07-26-maritime-challenges-spread-beyond-strait-of-hormuz-to-key-global-waterways)
