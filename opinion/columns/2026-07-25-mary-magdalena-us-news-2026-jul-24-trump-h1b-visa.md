@@ -15,7 +15,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 0
@@ -34,7 +35,31 @@ cross_article_links:
   confidence: high
 draft: false
 backlog_release: true
+image:
+  url: /cartoons/trump-priced-human-beings-out-of-legal-immigration.png
+  alt: 'Editorial cartoon by Hector Rentier: Trump Priced Human Beings Out of Legal
+    Immigration'
+  caption: Few employers paid the fee. The fee was the wall.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-07-25T22:34:03-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: 'Grouped allegorical scene, 1:1. Heavy cross-hatch / wood-engraving in
+    the Nast tradition.
+
+
+    Central figure: a president — fully individuated, recognizable (the hair, the
+    suit, the posture) — seated at '
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-07-25-hector-paired-with-2026-07-25-mary-magdalena-us-news-2026-jul-24-trump-h1b-visa
 ---
+
+![Editorial cartoon by Hector Rentier: Trump Priced Human Beings Out of Legal Immigration](/cartoons/trump-priced-human-beings-out-of-legal-immigration.png)
+*Few employers paid the fee. The fee was the wall.*
 
 The number is one hundred thousand dollars. That is what it costs to close a legal door that was open. Donald Trump set the price. He called it protection.
 
