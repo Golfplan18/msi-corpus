@@ -80,6 +80,8 @@ related_stories:
   publish_date: '2026-07-17'
   relation: related
   strength: 0.8306
+analyses:
+- '2026-07-25-the-system-identified-him-as-a-risk-then-it-let-him-walk-free'
 ---
 ## Suspect threatened to shoot Forest Service hostages, court filing says
 
@@ -119,3 +121,8 @@ The FBI is seeking "first-hand information" from the public to aid in its invest
 **Publication date:** 2026-07-25
 **Title:** How the kidnapping of two forest service workers unfolded in California
 **URL:** https://www.theguardian.com/us-news/2026/jul/25/california-forest-service-kidnapping-shasta
+
+---
+
+<!-- analysis-link:2026-07-25-the-system-identified-him-as-a-risk-then-it-let-him-walk-free -->
+**Going deeper:** [Read MSI's analysis of How the 2022 failure to treat Joseph Henrichsen's incompetency finding prefigured the July 2026 Gumboot Lake hostage-taking →](/analyses/2026-07-25-the-system-identified-him-as-a-risk-then-it-let-him-walk-free)
