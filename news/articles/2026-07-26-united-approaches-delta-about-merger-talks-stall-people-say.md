@@ -152,6 +152,8 @@ related_stories:
   publish_date: '2026-03-18'
   relation: related
   strength: 0.6685
+analyses:
+- '2026-07-26-scott-kirby-s-m-a-campaign-why-two-top-tier-airline-mergers-failed-and-what-woul'
 ---
 ## United approaches Delta about merger, talks stall, people say
 
@@ -187,3 +189,8 @@ High fuel prices, which are currently straining the industry, have historically 
 **Publication date:** 2026-07-26
 **Title:** United Approached Delta Last Year About Merging Airlines
 **URL:** https://www.wsj.com/business/airlines/united-approached-delta-last-year-about-merging-airlines-af83fc64
+
+---
+
+<!-- analysis-link:2026-07-26-scott-kirby-s-m-a-campaign-why-two-top-tier-airline-mergers-failed-and-what-woul -->
+**Going deeper:** [Read MSI's analysis of High fuel prices as the structural threshold for industry consolidation →](/analyses/2026-07-26-scott-kirby-s-m-a-campaign-why-two-top-tier-airline-mergers-failed-and-what-woul)
