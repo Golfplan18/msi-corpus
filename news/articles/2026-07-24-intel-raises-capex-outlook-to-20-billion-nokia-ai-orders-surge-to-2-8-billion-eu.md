@@ -192,6 +192,8 @@ related_stories:
   publish_date: '2026-06-18'
   relation: related
   strength: 0.6737
+analyses:
+- '2026-07-24-the-ai-infrastructure-boom-prices-identical-scaling-pressures-across-three-diffe'
 ---
 ## Intel raises capex outlook to $20 billion; Nokia AI orders surge to 2.8 billion euros
 
@@ -240,3 +242,8 @@ Chinese social-media company Newborn Town could face short-term headwinds, Citi 
 **Publication date:** 2026-07-24
 **Title:** Tech, Media & Telecom Roundup: Market Talk
 **URL:** https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-82413d91
+
+---
+
+<!-- analysis-link:2026-07-24-the-ai-infrastructure-boom-prices-identical-scaling-pressures-across-three-diffe -->
+**Going deeper:** [Read MSI's analysis of AI capex cycle and market pricing asymmetries →](/analyses/2026-07-24-the-ai-infrastructure-boom-prices-identical-scaling-pressures-across-three-diffe)

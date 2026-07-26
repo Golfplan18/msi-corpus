@@ -106,6 +106,8 @@ related_stories:
   publish_date: '2026-01-27'
   relation: related
   strength: 0.6922
+analyses:
+- '2026-07-25-the-60-minutes-editorial-breakdown-was-structural-not-personal'
 ---
 ## Cecilia Vega says CBS News pressured her to inject political bias
 
@@ -146,3 +148,8 @@ MSI previously reported that CBS fired veteran correspondent Scott Pelley in Jun
 **Publication date:** 2026-07-25
 **Title:** Cecilia Vega of 60 Minutes says she felt pressure from CBS to add ‘political bias’
 **URL:** https://www.theguardian.com/us-news/2026/jul/25/cecilia-vega-60-minutes-cbs-political-bias
+
+---
+
+<!-- analysis-link:2026-07-25-the-60-minutes-editorial-breakdown-was-structural-not-personal -->
+**Going deeper:** [Read MSI's analysis of editorial governance at 60 Minutes →](/analyses/2026-07-25-the-60-minutes-editorial-breakdown-was-structural-not-personal)
