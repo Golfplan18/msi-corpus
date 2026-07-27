@@ -1,7 +1,8 @@
 ---
 headline: I Filed 8,400 Claims Against Your Insurer
 publish_date: '2026-07-26'
-lede: Colleen reads nervous systems from a couch in Bridgeport — 29, bare feet, laptop open, four operating rooms feeding signals through a monitoring rig I rent her.
+lede: Colleen reads nervous systems from a couch in Bridgeport — 29, bare feet, laptop
+  open, four operating rooms feeding signals through a monitoring rig I rent her.
 pen_name: sterling-varice
 primary_entities: []
 primary_themes: []
@@ -14,7 +15,8 @@ gdelt_event_ids: []
 consensus_floor_version: current
 publication_mindspec_version: sterling-varice-2026-06
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -30,7 +32,27 @@ figures_aggregate:
   sources: []
 cross_article_links: []
 draft: false
+image:
+  url: /cartoons/i-filed-8400-claims-against-your-insurer.png
+  alt: 'Editorial cartoon by Hector Rentier: I Filed 8,400 Claims Against Your Insurer'
+  caption: She earns in a year what one case earns.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-07-26T22:24:08-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: 'Single panel, 1:1, heavy cross-hatch wood-engraving in the Nast/Daumier
+    tradition. Upper center: a composed, well-dressed figure — the extractor archetype,
+    fully individuated, face serene and self-ple'
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-07-26-hector-paired-with-2026-07-26-sterling-i-filed-8-400-claims-against-your-insurer
 ---
+
+![Editorial cartoon by Hector Rentier: I Filed 8,400 Claims Against Your Insurer](/cartoons/i-filed-8400-claims-against-your-insurer.png)
+*She earns in a year what one case earns.*
 
 Colleen reads nervous systems from a couch in Bridgeport — 29, bare feet, laptop open, four operating rooms feeding signals through a monitoring rig I rent her. I pay her $16.80 an hour. I don't buy her the noise-isolating headset. A proper pair runs $340. I ran the requisition in October and left it in the draft folder. I bill $42,000 a case for what she reads. You paid the last claim. You didn't know it. You paid it through your premium, through the renewal your HR department sent in January with the phrase "market adjustment" set in the same font they use for the dental schedule. The market is me.
 
