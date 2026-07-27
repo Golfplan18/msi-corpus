@@ -177,6 +177,8 @@ related_stories:
   publish_date: '2026-06-04'
   relation: related
   strength: 0.6974
+analyses:
+- '2026-07-27-blanche-confirmation-closes-window-for-epstein-network-charges'
 ---
 ## Epstein survivors urge senators to oppose Blanche's attorney general confirmation
 
@@ -217,3 +219,8 @@ Neither Tillis nor Cornyn responded to requests for comment, the Guardian report
 **Publication date:** 2026-07-27
 **Title:** Blanche-led DoJ likely to derail Epstein survivors’ pursuit of justice, experts say
 **URL:** https://www.theguardian.com/us-news/2026/jul/27/epstein-survivors-todd-blanche-justice
+
+---
+
+<!-- analysis-link:2026-07-27-blanche-confirmation-closes-window-for-epstein-network-charges -->
+**Going deeper:** [Read MSI's analysis of Three structural mechanisms — DOJ subordination to the executive, a prosecutorial model that self-limits after securing cooperators, and an acting-AG institutional design that bypasses Senate confirmation — converge to make new criminal charges against anyone beyond Epstein and Maxwell unlikely, even as more than 1,000 victims remain without justice. →](/analyses/2026-07-27-blanche-confirmation-closes-window-for-epstein-network-charges)
