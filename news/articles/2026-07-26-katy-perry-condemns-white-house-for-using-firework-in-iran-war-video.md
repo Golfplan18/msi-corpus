@@ -156,6 +156,8 @@ image:
   disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
   ai_model: "openrouter:openai/gpt-5.4-image-2"
   ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+analyses:
+- '2026-07-26-the-white-house-is-stealing-pop-music-as-propaganda-and-getting-away-with-it'
 ---
 ## Katy Perry condemns White House for using 'Firework' in Iran war video
 
@@ -192,3 +194,8 @@ Rep. Thomas Massie, a Kentucky Republican, wrote on X that the Pentagon was "pre
 **Publication date:** 2026-07-26
 **Title:** Katy Perry ‘deeply appalled’ over White House using her song in Iran war video
 **URL:** https://www.theguardian.com/us-news/2026/jul/26/katy-perry-firework-song-iran-war-video
+
+---
+
+<!-- analysis-link:2026-07-26-the-white-house-is-stealing-pop-music-as-propaganda-and-getting-away-with-it -->
+**Going deeper:** [Read MSI's analysis of Katy Perry is the seventh major artist to condemn the Trump administration for using her song without permission in a government social media video, but the music dispute is the visible symptom of a deeper institutional failure that spans copyright law, the War Powers Resolution, and the integrity of military casualty data — and nothing will change without enforcement action that has not come. →](/analyses/2026-07-26-the-white-house-is-stealing-pop-music-as-propaganda-and-getting-away-with-it)
