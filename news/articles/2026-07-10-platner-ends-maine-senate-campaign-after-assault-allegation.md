@@ -25,7 +25,8 @@ topic_tags:
 - crime
 - politics
 - political dissent
-storyline_nexus: []
+storyline_nexus:
+- kamala-harris-endorsement-shifts-maine-senate-race-dynamics
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -194,6 +195,7 @@ related_stories:
   relation: related
   strength: 0.7955
 ---
+
 ## Platner ends Maine Senate campaign after assault allegation
 
 **Subtype:** fact

@@ -19,7 +19,8 @@ primary_themes:
 topic_tags:
 - government policy
 - politics
-storyline_nexus: []
+storyline_nexus:
+- kamala-harris-endorsement-shifts-maine-senate-race-dynamics
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
@@ -182,6 +183,7 @@ related_stories:
   relation: related
   strength: 0.7012
 ---
+
 ## Maine Democrats to nominate Troy Jackson for Senate race
 
 **Subtype:** fact
