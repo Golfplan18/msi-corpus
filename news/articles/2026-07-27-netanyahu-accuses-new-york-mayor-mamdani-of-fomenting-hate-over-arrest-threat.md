@@ -175,6 +175,8 @@ related_stories:
   publish_date: '2026-06-02'
   relation: related
   strength: 0.6843
+analyses:
+- '2026-07-27-the-warrant-that-won-t-be-enforced-netanyahu-mamdani-and-the-paradigm-war-over-w'
 ---
 ## Netanyahu accuses New York Mayor Mamdani of 'fomenting hate' over arrest threat
 
@@ -208,3 +210,8 @@ Netanyahu is scheduled to fly to the United States on Monday and will meet with 
 **Publication date:** 2026-07-27
 **Title:** Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat
 **URL:** https://www.bbc.co.uk/news/articles/c5yegvd9ddeo
+
+---
+
+<!-- analysis-link:2026-07-27-the-warrant-that-won-t-be-enforced-netanyahu-mamdani-and-the-paradigm-war-over-w -->
+**Going deeper:** [Read MSI's analysis of Mamdani's admission that the city lacked enforcement authority did not end the dispute because the dispute was never really about municipal enforcement authority. The question that survives — and, crucially, that the UN General Assembly session this autumn will force into the open — is whether the warrant's political force survives its legal non-enforcement. →](/analyses/2026-07-27-the-warrant-that-won-t-be-enforced-netanyahu-mamdani-and-the-paradigm-war-over-w)
