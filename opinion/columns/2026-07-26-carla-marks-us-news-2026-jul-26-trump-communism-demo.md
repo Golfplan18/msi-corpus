@@ -1,7 +1,8 @@
 ---
 headline: The 'Communist' Label Was Never About Communism
 publish_date: '2026-07-26'
-lede: The word "communist" has done more to block working Americans from demanding things they've already paid for than any policy failure in modern history.
+lede: The word "communist" has done more to block working Americans from demanding
+  things they've already paid for than any policy failure in modern history.
 pen_name: carla-marks
 primary_entities: []
 primary_themes: []
@@ -15,7 +16,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 0
@@ -34,7 +36,28 @@ cross_article_links:
   confidence: high
 draft: false
 backlog_release: true
+image:
+  url: /cartoons/the-communist-label-was-never-about-communism.png
+  alt: 'Editorial cartoon by Hector Rentier: The ''Communist'' Label Was Never About
+    Communism'
+  caption: He called it communist. You already had it.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-07-26T22:09:06-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: 'Single central figure (a man in a suit at a podium) in moral-disgust
+    Register 3 (The Turned Head), 1:1 aspect ratio. The figure stands at a podium
+    labeled by prop: a large COMMUNIST MENACE stamp or ba'
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-07-26-hector-paired-with-2026-07-26-carla-marks-us-news-2026-jul-26-trump-communism-demo
 ---
+
+![Editorial cartoon by Hector Rentier: The 'Communist' Label Was Never About Communism](/cartoons/the-communist-label-was-never-about-communism.png)
+*He called it communist. You already had it.*
 
 The word "communist" has done more to block working Americans from demanding things they've already paid for than any policy failure in modern history. [A Guardian report this week](https://www.theguardian.com/us-news/2026/jul/26/trump-communism-democrats-red-scare) documents how the president has made the communist menace a centerpiece of his rhetoric — from [a Mount Rushmore address on the eve of the country's 250th birthday](/articles/2026-07-04-trump-mount-rushmore-speech-calls-communist-menace-enemy-of-july-4th/) to a new 100-page State Department report titled *Cuba: the Capital of 21st Century Communism* — and how recent primary wins by democratic-socialist candidates have given the charge fresh surface to stick to. The article is careful to note what's real: some DSA members unapologetically call themselves Marxist-Leninists, and the organization has changed since Michael Harrington founded it. What matters more than any of that is what happens to the policy conversation once the label lands.
 

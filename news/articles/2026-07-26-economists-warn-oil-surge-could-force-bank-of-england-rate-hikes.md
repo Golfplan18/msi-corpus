@@ -188,6 +188,8 @@ related_stories:
   publish_date: '2026-06-18'
   relation: related
   strength: 0.8174
+analyses:
+- '2026-07-26-bank-of-england-remit-gap-fuels-procyclical-tightening-in-oil-shock'
 ---
 ## Economists warn oil surge could force Bank of England rate hikes
 
@@ -227,3 +229,8 @@ The European Central Bank is under similar pressure. Markets anticipate a rate h
 **Publication date:** 2026-07-26
 **Title:** Rising oil prices could force up UK interest rates, say economists
 **URL:** https://www.theguardian.com/business/2026/jul/27/rising-oil-prices-could-force-up-uk-interest-rates-say-economists
+
+---
+
+<!-- analysis-link:2026-07-26-bank-of-england-remit-gap-fuels-procyclical-tightening-in-oil-shock -->
+**Going deeper:** [Read MSI's analysis of BOE remit gap and oil-shock tightening bias →](/analyses/2026-07-26-bank-of-england-remit-gap-fuels-procyclical-tightening-in-oil-shock)

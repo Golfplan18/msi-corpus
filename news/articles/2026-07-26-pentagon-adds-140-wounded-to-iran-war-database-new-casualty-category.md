@@ -177,6 +177,8 @@ image:
   disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
   ai_model: "openrouter:openai/gpt-5.4-image-2"
   ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+analyses:
+- '2026-07-26-pentagon-s-new-casualty-category-resets-war-powers-clock-critics-call-it-an-absu'
 ---
 ## Pentagon adds 140 wounded to Iran war database, new casualty category
 
@@ -213,3 +215,8 @@ The database update adds the latest chapter in a pattern of accounting changes t
 **Publication date:** 2026-07-26
 **Title:** Pentagon reports more than 600 Iran war casualties in quiet database update
 **URL:** https://www.theguardian.com/us-news/2026/jul/26/pentagon-iran-war-troop-deaths-casualty-report
+
+---
+
+<!-- analysis-link:2026-07-26-pentagon-s-new-casualty-category-resets-war-powers-clock-critics-call-it-an-absu -->
+**Going deeper:** [Read MSI's analysis of The database as constitutional battlefield: why the same 18 deaths and 624 wounded support two opposite legal conclusions →](/analyses/2026-07-26-pentagon-s-new-casualty-category-resets-war-powers-clock-critics-call-it-an-absu)
