@@ -171,6 +171,8 @@ related_stories:
   publish_date: '2026-05-16'
   relation: related
   strength: 0.7363
+analyses:
+- '2026-07-27-ukraine-s-caspian-strikes-open-a-new-front-in-the-russia-iran-war-and-a-new-stra'
 ---
 ## Ukrainian drones strike Iranian military supply line to Russia in Caspian Sea
 
@@ -205,3 +207,8 @@ Iran has promised a response but did not specify what form it would take. Securi
 **Publication date:** 2026-07-27
 **Title:** Two Wars Converge in the Caspian Sea as Ukraine Hits Iranian Supply Line to Russia
 **URL:** https://www.wsj.com/world/two-wars-converge-in-the-caspian-sea-as-ukraine-hits-iranian-supply-line-to-russia-e036fb27
+
+---
+
+<!-- analysis-link:2026-07-27-ukraine-s-caspian-strikes-open-a-new-front-in-the-russia-iran-war-and-a-new-stra -->
+**Going deeper:** [Read MSI's analysis of Ukrainian drone strikes on Iranian supply vessels in the Caspian Sea create a multi-front crisis and a complex strategic landscape connecting the Russia-Ukraine war with the U.S.-Iran conflict. →](/analyses/2026-07-27-ukraine-s-caspian-strikes-open-a-new-front-in-the-russia-iran-war-and-a-new-stra)
