@@ -173,6 +173,8 @@ related_stories:
   publish_date: '2026-05-05'
   relation: related
   strength: 0.7289
+analyses:
+- '2026-07-27-the-system-that-held-francisco-longoria-how-a-stop-with-no-legal-basis-became-th'
 ---
 ## Family sues federal government after ICE agents shot at truck, driver held three months in detention
 
@@ -225,3 +227,8 @@ Longoria, who is still facing removal proceedings from the U.S., wears an ankle 
 **Publication date:** 2026-07-27
 **Title:** He was shot at by ICE, then wrongfully accused. His nightmare had only just begun
 **URL:** https://www.theguardian.com/us-news/2026/jul/27/ice-california-shooting-lawsuit
+
+---
+
+<!-- analysis-link:2026-07-27-the-system-that-held-francisco-longoria-how-a-stop-with-no-legal-basis-became-th -->
+**Going deeper:** [Read MSI's analysis of No statutory mechanism forces ICE to reassess detention when the criminal charge from the same incident is dismissed — the 75-day gap is the system's default output, not an anomaly. →](/analyses/2026-07-27-the-system-that-held-francisco-longoria-how-a-stop-with-no-legal-basis-became-th)
