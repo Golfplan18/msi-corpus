@@ -22,7 +22,8 @@ primary_themes:
 topic_tags:
 - crime
 - music
-storyline_nexus: []
+storyline_nexus:
+- celeste-rivas-hernandez-murder-preliminary-hearing
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -120,6 +121,7 @@ cross_article_links:
 draft: false
 related_stories: []
 ---
+
 ## D4vd faces preliminary hearing in killing of 14-year-old girl
 
 **Subtype:** fact

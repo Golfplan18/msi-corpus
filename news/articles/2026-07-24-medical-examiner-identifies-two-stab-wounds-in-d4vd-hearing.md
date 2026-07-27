@@ -22,7 +22,8 @@ primary_themes:
 topic_tags:
 - crime
 - law
-storyline_nexus: []
+storyline_nexus:
+- celeste-rivas-hernandez-murder-preliminary-hearing
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -69,6 +70,7 @@ related_stories:
   relation: related
   strength: 0.8721
 ---
+
 ## Medical examiner identifies two stab wounds in D4vd hearing
 
 **Subtype:** fact

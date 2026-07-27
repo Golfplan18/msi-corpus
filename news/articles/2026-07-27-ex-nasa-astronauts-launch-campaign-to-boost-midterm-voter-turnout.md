@@ -154,6 +154,8 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories: []
+analyses:
+- '2026-07-27-astronauts-for-america-sells-a-constitution-in-crisis-message-under-a-nonpartisa'
 ---
 ## Ex-NASA Astronauts Launch Campaign to Boost Midterm Voter Turnout
 
@@ -202,3 +204,8 @@ The group intends to "grade" midterm congressional candidates on their commitmen
 **Publication date:** 2026-07-27
 **Title:** ‘Our country is the mission’: more than 100 ex-Nasa astronauts launch new voting campaign
 **URL:** https://www.theguardian.com/science/2026/jul/27/nasa-astronauts-for-america-voting-campaign
+
+---
+
+<!-- analysis-link:2026-07-27-astronauts-for-america-sells-a-constitution-in-crisis-message-under-a-nonpartisa -->
+**Going deeper:** [Read MSI's analysis of The Vote for Freedom campaign’s cachet depends on borrowed NASA operational trust, but its one-sided quoted record and looming candidate-grading plan make the nonpartisan label a liability the 60‑campus tour will surface — and may break. →](/analyses/2026-07-27-astronauts-for-america-sells-a-constitution-in-crisis-message-under-a-nonpartisa)
