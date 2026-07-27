@@ -206,6 +206,8 @@ image:
   disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
   ai_model: "openrouter:openai/gpt-5.4-image-2"
   ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+analyses:
+- '2026-07-27-the-tariff-regime-that-cannot-hold-together-a-96-year-old-statute-a-gutted-enfor'
 ---
 ## Trump imposes 50% tariff on Canada, new tariffs on 80 nations
 
@@ -239,3 +241,8 @@ The U.S. has lost 75,000 factory jobs since Trump returned to office, according 
 **Publication date:** 2026-07-27
 **Title:** Tariffs are Trump’s favorite plaything – and his justifications are absurd | Steven Greenhouse
 **URL:** https://www.theguardian.com/commentisfree/2026/jul/27/tariffs-are-trumps-favorite-plaything-and-his-justifications-are-absurd
+
+---
+
+<!-- analysis-link:2026-07-27-the-tariff-regime-that-cannot-hold-together-a-96-year-old-statute-a-gutted-enfor -->
+**Going deeper:** [Read MSI's analysis of The enforcement contradiction — the $500 million in Labor Department cuts that directly undercut the forced-labor rationale for the 80-nation tariffs — is the piece that unravels the entire structure. Without it, the regime would be merely aggressive trade policy. With it, the regime is a policy whose stated purpose and actual effect point in opposite directions. →](/analyses/2026-07-27-the-tariff-regime-that-cannot-hold-together-a-96-year-old-statute-a-gutted-enfor)
