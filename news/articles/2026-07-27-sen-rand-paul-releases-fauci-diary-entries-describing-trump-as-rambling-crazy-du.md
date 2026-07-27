@@ -132,6 +132,8 @@ related_stories:
   publish_date: '2026-06-23'
   relation: related
   strength: 0.7134
+analyses:
+- '2026-07-27-fauci-diary-released-by-paul-before-hearing-a-curated-document-dump'
 ---
 ## Sen. Rand Paul releases Fauci diary entries describing Trump as 'rambling,' 'crazy' during pandemic
 
@@ -173,3 +175,8 @@ The right-wing press coverage of the diary entries has focused on Fauci's person
 **Publication date:** 2026-07-27
 **Title:** Fauci expressed disillusionment with ‘rambling, crazy’ Trump in journal
 **URL:** https://www.theguardian.com/us-news/2026/jul/27/anthony-fauci-trump-covid-journal
+
+---
+
+<!-- analysis-link:2026-07-27-fauci-diary-released-by-paul-before-hearing-a-curated-document-dump -->
+**Going deeper:** [Read MSI's analysis of Political curation in source disclosure — The Guardian's treatment of a strategic pre-hearing document release →](/analyses/2026-07-27-fauci-diary-released-by-paul-before-hearing-a-curated-document-dump)
