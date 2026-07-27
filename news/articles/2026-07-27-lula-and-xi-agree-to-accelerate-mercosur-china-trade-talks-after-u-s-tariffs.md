@@ -197,6 +197,8 @@ image:
   disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
   ai_model: "openrouter:openai/gpt-5.4-image-2"
   ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+analyses:
+- '2026-07-27-tariffs-fire-a-shot-brazil-pivots-but-the-realignment-is-only-as-strong-as-the-n'
 ---
 ## Lula and Xi agree to accelerate Mercosur-China trade talks after U.S. tariffs
 
@@ -237,3 +239,8 @@ Lula also emphasized the need to advance negotiations on a trade agreement betwe
 **Publication date:** 2026-07-27
 **Title:** Brazil, China strengthen trade ties amid U.S. tariffs
 **URL:** https://www.upi.com/Top_News/World-News/2026/07/27/latam-brazil-china-trades-discussions/4581785169223/
+
+---
+
+<!-- analysis-link:2026-07-27-tariffs-fire-a-shot-brazil-pivots-but-the-realignment-is-only-as-strong-as-the-n -->
+**Going deeper:** [Read MSI's analysis of the tariff-driven strategic realignment between Brazil, China, and the United States →](/analyses/2026-07-27-tariffs-fire-a-shot-brazil-pivots-but-the-realignment-is-only-as-strong-as-the-n)
