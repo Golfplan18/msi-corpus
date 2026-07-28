@@ -189,6 +189,8 @@ related_stories:
   publish_date: '2026-05-22'
   relation: related
   strength: 0.6929
+analyses:
+- '2026-07-27-dnc-chair-ken-martin-s-crisis-is-a-governance-failure-the-party-s-information-ar'
 ---
 ## DNC chair Ken Martin faces scrutiny over finances and internal criticism
 
@@ -225,3 +227,8 @@ However, at a campaign event in Pennsylvania on Sunday, House Minority Leader Ha
 **Publication date:** 2026-07-27
 **Title:** DNC chair faces growing scrutiny amid financial pressure and internal turmoil
 **URL:** https://www.theguardian.com/us-news/2026/jul/27/dnc-chair-ken-martin-scrutiny
+
+---
+
+<!-- analysis-link:2026-07-27-dnc-chair-ken-martin-s-crisis-is-a-governance-failure-the-party-s-information-ar -->
+**Going deeper:** [Read MSI's analysis of Democratic National Committee governance crisis →](/analyses/2026-07-27-dnc-chair-ken-martin-s-crisis-is-a-governance-failure-the-party-s-information-ar)
