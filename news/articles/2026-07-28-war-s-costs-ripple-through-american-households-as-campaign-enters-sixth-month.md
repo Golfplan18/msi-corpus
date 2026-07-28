@@ -202,6 +202,8 @@ image:
   disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
   ai_model: "openrouter:openai/gpt-5.4-image-2"
   ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+analyses:
+- '2026-07-28-the-fifth-month-what-us-voters-say-about-a-war-that-costs-the-powerless-most-and'
 ---
 ## War's costs ripple through American households as campaign enters sixth month
 
@@ -250,3 +252,8 @@ Whether a ceasefire holds, and whether Tehran and Washington sit down for more t
 **Publication date:** 2026-07-28
 **Title:** Americans feel pinch of continued Iran war: ‘It’s screwed everything up’
 **URL:** https://www.theguardian.com/us-news/2026/jul/28/us-iran-war-cost-of-living
+
+---
+
+<!-- analysis-link:2026-07-28-the-fifth-month-what-us-voters-say-about-a-war-that-costs-the-powerless-most-and -->
+**Going deeper:** [Read MSI's analysis of Public opinion on the US-Israel military campaign against Iran at the five-month mark, as captured by voter interviews in three states →](/analyses/2026-07-28-the-fifth-month-what-us-voters-say-about-a-war-that-costs-the-powerless-most-and)
