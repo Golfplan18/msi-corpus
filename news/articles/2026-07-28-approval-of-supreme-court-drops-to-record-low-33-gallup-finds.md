@@ -184,6 +184,15 @@ related_stories:
   publish_date: '2026-05-10'
   relation: related
   strength: 0.6656
+image:
+  url: /articles/2026-07-28-approval-of-supreme-court-drops-to-record-low-33-gallup-finds.png
+  alt: "Illustration accompanying article: Approval of Supreme Court drops to record low 33%, Gallup finds"
+  credit: Main Street Independent (algorithmic)
+  source: ai_generated
+  license: "https://creativecommons.org/publicdomain/zero/1.0/"
+  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  ai_model: "openrouter:openai/gpt-5.4-image-2"
+  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
 ---
 ## Approval of Supreme Court drops to record low 33%, Gallup finds
 
