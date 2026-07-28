@@ -30,6 +30,7 @@ topic_tags:
 - international military intervention
 storyline_nexus:
 - the-iran-war
+- kkr-blackstone-kuwait-oil-lease
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -162,16 +163,21 @@ related_stories:
   strength: 0.8002
 image:
   url: /articles/2026-07-18-u-s-iran-escalate-strikes-in-gulf-as-israel-bombs-lebanon.png
-  alt: "Illustration accompanying article: U.S., Iran escalate strikes in Gulf as Israel bombs Lebanon"
+  alt: 'Illustration accompanying article: U.S., Iran escalate strikes in Gulf as
+    Israel bombs Lebanon'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:openai/gpt-5.4-image-2"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 analyses:
-- '2026-07-18-the-feedback-loop-that-has-no-brake-how-the-u-s-iran-escalation-in-the-gulf-is-s'
+- 2026-07-18-the-feedback-loop-that-has-no-brake-how-the-u-s-iran-escalation-in-the-gulf-is-s
 ---
+
 ## U.S., Iran escalate strikes in Gulf as Israel bombs Lebanon
 
 **Subtype:** fact

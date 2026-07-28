@@ -165,6 +165,8 @@ related_stories:
   publish_date: '2026-07-24'
   relation: related
   strength: 0.8316
+analyses:
+- '2026-07-27-the-law-was-not-built-for-a-child-both-families-knew-was-in-danger'
 ---
 ## Prosecutors detail slain girl's final texts in D4vd hearing
 
@@ -209,3 +211,8 @@ MSI previously reported that the medical examiner identified two stab wounds on 
 **Publication date:** 2026-07-27
 **Title:** Court told of slain girl’s final texts as she approached singer D4vd’s home
 **URL:** https://www.theguardian.com/us-news/2026/jul/27/celeste-rivas-hernandez-d4vd-court
+
+---
+
+<!-- analysis-link:2026-07-27-the-law-was-not-built-for-a-child-both-families-knew-was-in-danger -->
+**Going deeper:** [Read MSI's analysis of The Tesla spent five months in a tow yard before the body was found. If the defense can show unaccounted third-party access during that period, the strongest physical evidence could be excluded on chain-of-custody grounds — a wild-card collapse orthogonal to both the legal and cultural axes. →](/analyses/2026-07-27-the-law-was-not-built-for-a-child-both-families-knew-was-in-danger)

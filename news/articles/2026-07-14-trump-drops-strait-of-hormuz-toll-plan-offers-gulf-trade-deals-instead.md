@@ -33,6 +33,7 @@ topic_tags:
 - transport
 storyline_nexus:
 - the-iran-war
+- kkr-blackstone-kuwait-oil-lease
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
@@ -193,6 +194,7 @@ related_stories:
   relation: related
   strength: 0.7732
 ---
+
 ## Trump drops Strait of Hormuz toll plan, offers Gulf trade deals instead
 
 **Subtype:** fact
