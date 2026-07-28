@@ -163,6 +163,8 @@ image:
   disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
   ai_model: "openrouter:openai/gpt-5.4-image-2"
   ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+analyses:
+- '2026-07-28-the-blindspot-of-the-blaze-who-pays-for-europe-s-infernos-when-the-cameras-leave'
 ---
 ## Macron warns France faces worst wildfire crisis since World War II
 
@@ -201,3 +203,8 @@ Spanish Prime Minister Pedro Sánchez said the exceptional scale of the fires is
 **Publication date:** 2026-07-28
 **Title:** With wildfires raging in France and Spain, fire crews race against next heat wave
 **URL:** https://www.npr.org/2026/07/28/g-s1-135828/europe-wildfires
+
+---
+
+<!-- analysis-link:2026-07-28-the-blindspot-of-the-blaze-who-pays-for-europe-s-infernos-when-the-cameras-leave -->
+**Going deeper:** [Read MSI's analysis of the invisible stakeholders of Europe's 2026 wildfire crisis →](/analyses/2026-07-28-the-blindspot-of-the-blaze-who-pays-for-europe-s-infernos-when-the-cameras-leave)
