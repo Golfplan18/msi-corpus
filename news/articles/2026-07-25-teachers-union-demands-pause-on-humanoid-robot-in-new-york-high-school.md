@@ -39,6 +39,7 @@ topic_tags:
 - robotics
 storyline_nexus:
 - ai-industry-regulation
+- new-york-humanoid-robot-deployment-pause
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness
@@ -130,8 +131,9 @@ cross_article_links:
 draft: false
 related_stories: []
 analyses:
-- '2026-07-25-three-competing-frames-collide-over-a-classroom-robot'
+- 2026-07-25-three-competing-frames-collide-over-a-classroom-robot
 ---
+
 ## Teachers union demands pause on humanoid robot in New York high school
 
 **Subtype:** fact

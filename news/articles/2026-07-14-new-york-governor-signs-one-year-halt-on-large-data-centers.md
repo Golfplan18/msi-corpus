@@ -27,7 +27,8 @@ topic_tags:
 - economy, business and finance
 - politics
 - government
-storyline_nexus: []
+storyline_nexus:
+- new-york-humanoid-robot-deployment-pause
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -147,6 +148,7 @@ related_stories:
   relation: related
   strength: 0.7365
 ---
+
 ## New York governor signs one-year halt on large data centers
 
 **Subtype:** fact
