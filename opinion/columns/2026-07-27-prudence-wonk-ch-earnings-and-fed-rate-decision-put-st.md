@@ -1,7 +1,8 @@
 ---
 headline: OpenAI's $500 Billion Bet Is Underwritten by Four Other Parties
 publish_date: '2026-07-27'
-lede: OpenAI is leasing a $500 billion data center from parties who do not share its upside.
+lede: OpenAI is leasing a $500 billion data center from parties who do not share its
+  upside.
 pen_name: prudence-wonk
 primary_entities: []
 primary_themes: []
@@ -15,7 +16,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 0
@@ -34,7 +36,28 @@ cross_article_links:
   confidence: high
 draft: false
 backlog_release: true
+image:
+  url: /cartoons/openais-500-billion-bet-is-underwritten-by-four-other.png
+  alt: 'Editorial cartoon by Hector Rentier: OpenAI''s $500 Billion Bet Is Underwritten
+    by Four Other Parties'
+  caption: One eats. Four carry the table.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-07-27T22:43:25-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: Single allegorical scene, 1:1, heavy cross-hatch wood-engraving in the
+    Nast/Daumier tradition. A long banquet table dominates the frame. At the head
+    of the table, a composed figure in fine dress — a f
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-07-27-hector-paired-with-2026-07-27-prudence-wonk-ch-earnings-and-fed-rate-decision-put-st
 ---
+
+![Editorial cartoon by Hector Rentier: OpenAI's $500 Billion Bet Is Underwritten by Four Other Parties](/cartoons/openais-500-billion-bet-is-underwritten-by-four-other.png)
+*One eats. Four carry the table.*
 
 OpenAI is leasing a $500 billion data center from parties who do not share its upside.
 

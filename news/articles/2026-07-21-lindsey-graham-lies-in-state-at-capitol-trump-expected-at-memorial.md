@@ -26,6 +26,7 @@ topic_tags:
 - people
 storyline_nexus:
 - democratic-party-realignment
+- netanyahu-zelenskyy-meet-trump-graham-funeral
 geographic_location: United States
 floor_values_engaged:
 - value: equality_fairness
@@ -166,6 +167,7 @@ related_stories:
   relation: related
   strength: 0.6691
 ---
+
 ## Lindsey Graham lies in state at Capitol, Trump expected at memorial
 
 **Subtype:** fact

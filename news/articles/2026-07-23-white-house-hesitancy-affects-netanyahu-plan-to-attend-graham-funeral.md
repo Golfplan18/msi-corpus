@@ -28,6 +28,7 @@ topic_tags:
 - peace process
 storyline_nexus:
 - trump-foreign-policy-reshaping
+- netanyahu-zelenskyy-meet-trump-graham-funeral
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
@@ -106,6 +107,7 @@ related_stories:
   relation: related
   strength: 0.6614
 ---
+
 ## White House hesitancy affects Netanyahu plan to attend Graham funeral
 
 **Subtype:** fact

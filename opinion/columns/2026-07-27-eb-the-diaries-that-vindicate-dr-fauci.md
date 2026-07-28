@@ -1,7 +1,8 @@
 ---
 headline: The Diaries That Vindicate Dr. Fauci
 publish_date: '2026-07-27'
-lede: Anthony Fauci made himself the public face of pandemic response in 2020, and now we have a glimpse of what was going on behind his eyes.
+lede: Anthony Fauci made himself the public face of pandemic response in 2020, and
+  now we have a glimpse of what was going on behind his eyes.
 pen_name: editorial-board
 primary_entities: []
 primary_themes: []
@@ -14,7 +15,8 @@ gdelt_event_ids: []
 consensus_floor_version: current
 publication_mindspec_version: editorial-board-2026-05
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -31,7 +33,27 @@ figures_aggregate:
   sources: []
 cross_article_links: []
 draft: false
+image:
+  url: /cartoons/the-diaries-that-vindicate-dr-fauci.png
+  alt: 'Editorial cartoon by Hector Rentier: The Diaries That Vindicate Dr. Fauci'
+  caption: He had the diary in his hand. He went looking for the weapon.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-07-27T22:31:19-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: 'A 1:1 single panel in heavy Nast cross-hatch. Central figure: a fully
+    individuated Republican senator (Rand Paul, mid-60s, light hair, glasses, dark
+    suit, American flag lapel pin) seated at a Senate d'
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-07-27-hector-paired-with-2026-07-27-eb-the-diaries-that-vindicate-dr-fauci
 ---
+
+![Editorial cartoon by Hector Rentier: The Diaries That Vindicate Dr. Fauci](/cartoons/the-diaries-that-vindicate-dr-fauci.png)
+*He had the diary in his hand. He went looking for the weapon.*
 
 Anthony Fauci made himself the public face of pandemic response in 2020, and now we have a glimpse of what was going on behind his eyes. Newly released diaries paint a portrait of a dedicated public servant under impossible pressure, in contrast to the caricature of a tyrant his political enemies cultivated in public.
 

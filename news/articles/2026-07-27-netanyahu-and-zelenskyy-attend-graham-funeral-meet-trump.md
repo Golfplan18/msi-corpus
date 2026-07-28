@@ -11,7 +11,8 @@ topic_tags:
 - politics
 - international relations
 - government policy
-storyline_nexus: []
+storyline_nexus:
+- netanyahu-zelenskyy-meet-trump-graham-funeral
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -77,6 +78,7 @@ related_stories:
   relation: related
   strength: 0.6678
 ---
+
 ## Netanyahu and Zelenskyy attend Graham funeral, meet Trump
 **Subtype:** fact
 - Israeli Prime Minister Benjamin Netanyahu and Ukrainian President Volodymyr Zelenskyy are attending the funeral of former US Senator Lindsey Graham in Washington.

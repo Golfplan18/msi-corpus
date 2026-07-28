@@ -14,7 +14,8 @@ gdelt_event_ids: []
 consensus_floor_version: current
 publication_mindspec_version: sterling-varice-2026-06
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -30,7 +31,28 @@ figures_aggregate:
   sources: []
 cross_article_links: []
 draft: false
+image:
+  url: /cartoons/your-checking-account-is-a-margin-i-built-pipes-for.png
+  alt: 'Editorial cartoon by Hector Rentier: Your Checking Account Is a Margin I Built
+    Pipes For'
+  caption: The word "your" did what the disclosure would have undone.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-07-27T22:50:41-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: Single allegorical scene, 1:1, heavy cross-hatch wood-engraving in the
+    Nast-Daumier tradition. A composed, fully individuated man in a business suit
+    sits at the head of a long banquet table, fork pois
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-07-27-hector-paired-with-2026-07-27-sterling-your-checking-account-is-a-margin-i-built-pipes-for
 ---
+
+![Editorial cartoon by Hector Rentier: Your Checking Account Is a Margin I Built Pipes For](/cartoons/your-checking-account-is-a-margin-i-built-pipes-for.png)
+*The word "your" did what the disclosure would have undone.*
 
 $0.12 a pull. The fintech pays it. I charge it. The pipe — servers, authentication, compute, the lights on Maren's floor in Omaha — costs $0.004 to run. Maren is a fixed-wage body on my exception queue, night shift, $13.70 an hour, boots she bought herself, clearing records the automation couldn't parse. She accounts for $0.002 of that cost. You don't get a cut. God keep the pipes.
 

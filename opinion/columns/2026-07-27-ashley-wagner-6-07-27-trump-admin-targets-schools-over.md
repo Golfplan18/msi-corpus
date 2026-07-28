@@ -15,7 +15,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 0
@@ -28,9 +29,20 @@ figures_aggregate:
   series_ids: []
   sources: []
 image:
-  url: /articles/2026-07-27-u-s-education-and-justice-departments-enforce-against-school-districts-for-gende.png
-  alt: 'Illustration accompanying article: U.S. Education and Justice departments enforce against school districts for gender…'
+  url: /cartoons/mcmahon-is-betraying-trans-kids-with-their-own-privacy-law.png
+  alt: 'Editorial cartoon by Hector Rentier: McMahon Is Betraying Trans Kids With
+    Their Own Privacy Law'
+  caption: The privacy law was the weapon. The funding was the hostage.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
   source: ai_generated
+  attached_at: '2026-07-27T22:13:45-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: 'Single panel, 1:1, heavy cross-hatch wood-engraving in the Nast tradition.
+    Central figure: Linda McMahon, fully individuated — white-blond hair, glasses,
+    navy blazer — standing at a lectern in compose'
+  license: https://creativecommons.org/publicdomain/zero/1.0/
 cross_article_links:
 - slug: 2026-07-27-u-s-education-and-justice-departments-enforce-against-school-districts-for-gende
   relation: extends
@@ -38,7 +50,13 @@ cross_article_links:
   confidence: high
 draft: false
 backlog_release: true
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-07-27-hector-paired-with-2026-07-27-ashley-wagner-6-07-27-trump-admin-targets-schools-over
 ---
+
+![Editorial cartoon by Hector Rentier: McMahon Is Betraying Trans Kids With Their Own Privacy Law](/cartoons/mcmahon-is-betraying-trans-kids-with-their-own-privacy-law.png)
+*The privacy law was the weapon. The funding was the hostage.*
 
 Linda McMahon is turning children's privacy law into a weapon against children. Her Department of Education opened judicial proceedings Monday against Anne Arundel County schools in Maryland and gave Ann Arbor schools in Michigan until August 10 to explain why enforcement should not move forward — both for policies that let school personnel keep a student's gender identity private from their parents. The Federal Educational Rights and Privacy Act was written in 1974 to keep student records out of the hands of strangers. McMahon is reading it as a mandate to force principals to out kids to their families, and threatening to cut the federal funding those kids' schools depend on if the principals refuse.
 

@@ -15,7 +15,8 @@ gdelt_event_ids: []
 consensus_floor_version: current
 publication_mindspec_version: judas-i-mather-2026-07
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 0
@@ -28,9 +29,19 @@ figures_aggregate:
   series_ids: []
   sources: []
 image:
-  url: /articles/2026-07-27-memphis-anti-crime-task-force-leads-to-surge-in-immigration-arrests.png
-  alt: 'Illustration accompanying article: Memphis anti-crime task force leads to surge in immigration arrests'
+  url: /cartoons/the-sorting-the-traffic-stop-discloses.png
+  alt: 'Editorial cartoon by Hector Rentier: The Sorting the Traffic Stop Discloses'
+  caption: The stop disclosed her standing. The prayer disclosed his.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
   source: ai_generated
+  attached_at: '2026-07-27T22:35:48-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5-image
+  ai_prompt: 'A banner across the top of the panel reads: ''The authority is from
+    God and from the Founders, and the two have never been distinguished.'' Below,
+    in heavy cross-hatch wood-engraving, a senior governmen'
+  license: https://creativecommons.org/publicdomain/zero/1.0/
 cross_article_links:
 - slug: 2026-07-27-memphis-anti-crime-task-force-leads-to-surge-in-immigration-arrests
   relation: extends
@@ -38,7 +49,13 @@ cross_article_links:
   confidence: high
 draft: false
 backlog_release: true
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-07-27-hector-paired-with-2026-07-27-judas-i-mather-nx-s1-5896284-national-guard-memphis-immigration-t
 ---
+
+![Editorial cartoon by Hector Rentier: The Sorting the Traffic Stop Discloses](/cartoons/the-sorting-the-traffic-stop-discloses.png)
+*The stop disclosed her standing. The prayer disclosed his.*
 
 The sovereign's authority over the alien within the territory is plenary. The Constitution vests Congress with the power to establish "an uniform Rule of Naturalization," and Congress has exercised that power through the Immigration and Nationality Act, which authorizes the Executive to determine who may remain and to remove those who do not qualify. The alien present without lawful status is, by the statute's plain language, a person whose continued presence violates sovereign law. The plenary-power doctrine, sustained by a century of Supreme Court jurisprudence from *Chae Chan Ping* through *Fiallo v. Bell*, confirms that the political branches' judgment in this field is subject to virtually no judicial second-guessing. When the Executive establishes a task force to enforce that judgment, the authority is not merely lawful; it is constitutionally insulated from the objections the ACLU might raise.
 
