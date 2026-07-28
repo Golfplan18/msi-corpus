@@ -149,6 +149,8 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories: []
+analyses:
+- '2026-07-27-the-nano-creator-marketing-bet-depends-on-three-parties-who-aren-t-yet-in-the-ro'
 ---
 ## Target, Little Spoon pay creators with 500 followers for posts
 
@@ -184,3 +186,8 @@ The proliferation of brand advocacy programs represents another development for 
 **Publication date:** 2026-07-27
 **Title:** The Latest Darlings of Social-Media Marketing? Regular People With 500 Followers
 **URL:** https://www.wsj.com/cmo-today/the-latest-darlings-of-social-media-marketing-regular-people-with-500-followers-62170067
+
+---
+
+<!-- analysis-link:2026-07-27-the-nano-creator-marketing-bet-depends-on-three-parties-who-aren-t-yet-in-the-ro -->
+**Going deeper:** [Read MSI's analysis of The missing piece in every brand’s nano-creator playbook: how to spot the moment when the enabling silence breaks. →](/analyses/2026-07-27-the-nano-creator-marketing-bet-depends-on-three-parties-who-aren-t-yet-in-the-ro)

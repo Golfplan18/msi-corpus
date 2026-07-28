@@ -201,6 +201,8 @@ image:
   disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
   ai_model: "openrouter:openai/gpt-5.4-image-2"
   ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+analyses:
+- '2026-07-27-ai-and-tariffs-redraw-south-korea-s-trade-map-memory-flows-through-taiwan-as-chi'
 ---
 ## AI demand, trade barriers shift South Korea's chip and auto exports
 
@@ -235,3 +237,8 @@ Domestic semiconductor production rose from 74 trillion won in 2014 to 210.8 tri
 **Publication date:** 2026-07-27
 **Title:** AI demand, U.S. tariffs reshape South Korean manufacturing
 **URL:** https://www.upi.com/Top_News/World-News/2026/07/27/semiconductors-taiwan-artificial-intelligence/1761785195622/
+
+---
+
+<!-- analysis-link:2026-07-27-ai-and-tariffs-redraw-south-korea-s-trade-map-memory-flows-through-taiwan-as-chi -->
+**Going deeper:** [Read MSI's analysis of South Korea’s dual trade reconfiguration - semiconductor and auto →](/analyses/2026-07-27-ai-and-tariffs-redraw-south-korea-s-trade-map-memory-flows-through-taiwan-as-chi)
