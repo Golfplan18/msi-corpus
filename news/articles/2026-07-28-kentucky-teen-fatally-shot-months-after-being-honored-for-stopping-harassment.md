@@ -146,6 +146,8 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories: []
+analyses:
+- '2026-07-28-honored-in-april-killed-in-july-the-institutional-vacuum-that-cost-da-jon-hayes'
 ---
 ## Kentucky teen fatally shot months after being honored for stopping harassment
 
@@ -182,3 +184,8 @@ Since 2020, firearms have been the leading cause of death for children and adole
 **Publication date:** 2026-07-28
 **Title:** Kentucky teen lauded for defending girl from sexual harassment fatally shot
 **URL:** https://www.theguardian.com/us-news/2026/jul/28/kentucky-teen-defended-girl-shot
+
+---
+
+<!-- analysis-link:2026-07-28-honored-in-april-killed-in-july-the-institutional-vacuum-that-cost-da-jon-hayes -->
+**Going deeper:** [Read MSI's analysis of <p>Two months after being publicly celebrated by the Louisville city council and the governor of Kentucky for his courage, a fifteen-year-old boy was shot dead in the same neighborhood where he intervened to protect a child. The distance between the ceremony and the killing is the story.</p> →](/analyses/2026-07-28-honored-in-april-killed-in-july-the-institutional-vacuum-that-cost-da-jon-hayes)
