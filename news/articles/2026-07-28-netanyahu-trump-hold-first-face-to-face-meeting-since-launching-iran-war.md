@@ -200,6 +200,8 @@ image:
   disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
   ai_model: "openrouter:openai/gpt-5.4-image-2"
   ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+analyses:
+- '2026-07-28-netanyahu-and-iran-file-converge-at-white-house-with-trump-holding-the-lead'
 ---
 ## Netanyahu, Trump hold first face-to-face meeting since launching Iran war
 
@@ -243,3 +245,8 @@ Israeli commentators have publicly noted the strains. Amit Segal, a political an
 **Publication date:** 2026-07-28
 **Title:** Netanyahu to meet Trump in a first encounter since the Iran war began
 **URL:** https://www.npr.org/2026/07/28/g-s1-135833/trump-netanyahu-iran-war
+
+---
+
+<!-- analysis-link:2026-07-28-netanyahu-and-iran-file-converge-at-white-house-with-trump-holding-the-lead -->
+**Going deeper:** [Read MSI's analysis of Each of these pressures sharpens the same core question: who decides when the war ends, and on what terms? →](/analyses/2026-07-28-netanyahu-and-iran-file-converge-at-white-house-with-trump-holding-the-lead)

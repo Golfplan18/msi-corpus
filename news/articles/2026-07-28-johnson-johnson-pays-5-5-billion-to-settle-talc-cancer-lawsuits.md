@@ -149,6 +149,8 @@ image:
   disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
   ai_model: "openrouter:openai/gpt-5.4-image-2"
   ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+analyses:
+- '2026-07-28-j-j-s-5-5-billion-talc-settlement-carries-five-structural-faults-that-could-unra'
 ---
 ## Johnson & Johnson pays $5.5 billion to settle talc cancer lawsuits
 
@@ -189,3 +191,8 @@ Johnson & Johnson has been facing talc-related lawsuits since at least the late 
 **Publication date:** 2026-07-28
 **Title:** Johnson & Johnson reaches proposed $5.5B talcum powder settlement
 **URL:** https://www.upi.com/Top_News/US/2026/07/28/JohnsonJohnson-talcum-lawsuit-agreement/3971785216235/
+
+---
+
+<!-- analysis-link:2026-07-28-j-j-s-5-5-billion-talc-settlement-carries-five-structural-faults-that-could-unra -->
+**Going deeper:** [Read MSI's analysis of The analysis below integrates the structural vulnerabilities identified in a red-team assessment of the published reporting and a four-scenario matrix projecting how the settlement’s open-claim design interacts with claimant coordination and the legal environment over 2026–2036. →](/analyses/2026-07-28-j-j-s-5-5-billion-talc-settlement-carries-five-structural-faults-that-could-unra)
