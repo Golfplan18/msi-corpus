@@ -186,6 +186,15 @@ related_stories:
   publish_date: '2026-04-28'
   relation: related
   strength: 0.7423
+image:
+  url: /articles/2026-07-28-big-oil-expected-to-earn-31-billion-in-q2-as-iran-war-boosts-crude-prices.png
+  alt: "Illustration accompanying article: Big Oil Expected to Earn $31 Billion in Q2 as Iran War Boosts Crude Prices"
+  credit: Main Street Independent (algorithmic)
+  source: ai_generated
+  license: "https://creativecommons.org/publicdomain/zero/1.0/"
+  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  ai_model: "openrouter:openai/gpt-5.4-image-2"
+  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
 ---
 ## Big Oil Expected to Earn $31 Billion in Q2 as Iran War Boosts Crude Prices
 
