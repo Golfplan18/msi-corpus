@@ -153,6 +153,8 @@ image:
   disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
   ai_model: "openrouter:openai/gpt-5.4-image-2"
   ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+analyses:
+- '2026-07-27-the-petition-bryan-kohberger-filed-looks-nothing-like-the-case-he-d-need-to-win'
 ---
 ## Kohberger claims innocence, moves to withdraw guilty plea in Idaho killings
 
@@ -196,3 +198,8 @@ One of the survivors of the attack described witnessing a shadowy figure clad in
 **Publication date:** 2026-07-27
 **Title:** Kohberger seeks to withdraw guilty plea, face trial for Idaho student murders
 **URL:** https://www.upi.com/Top_News/US/2026/07/27/bryan-kohberger-withdraw-guilty-plea-university-idaho-killings/6781785181995/
+
+---
+
+<!-- analysis-link:2026-07-27-the-petition-bryan-kohberger-filed-looks-nothing-like-the-case-he-d-need-to-win -->
+**Going deeper:** [Read MSI's analysis of The reporting presents a black-box petition and lets victims' families perform the legal analysis — leaving the reader with an assignment of responsibility that feels natural but was engineered. →](/analyses/2026-07-27-the-petition-bryan-kohberger-filed-looks-nothing-like-the-case-he-d-need-to-win)
