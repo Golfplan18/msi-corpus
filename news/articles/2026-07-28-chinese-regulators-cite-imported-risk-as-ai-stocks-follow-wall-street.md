@@ -182,6 +182,8 @@ related_stories:
   publish_date: '2026-07-09'
   relation: related
   strength: 0.687
+analyses:
+- '2026-07-28-when-china-s-ai-independence-story-hit-the-market'
 ---
 ## Chinese regulators cite imported risk as AI stocks follow Wall Street
 
@@ -219,3 +221,8 @@ The irony, the Journal reported, is that Beijing's technological-independence pu
 **Publication date:** 2026-07-28
 **Title:** China Wants AI Independence. Its Market Says Otherwise.
 **URL:** https://www.wsj.com/world/china/china-wants-ai-independence-its-market-says-otherwise-0339aa8a
+
+---
+
+<!-- analysis-link:2026-07-28-when-china-s-ai-independence-story-hit-the-market -->
+**Going deeper:** [Read MSI's analysis of China's AI independence story vs. market reality →](/analyses/2026-07-28-when-china-s-ai-independence-story-hit-the-market)
