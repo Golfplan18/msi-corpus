@@ -190,6 +190,8 @@ related_stories:
   publish_date: '2026-05-08'
   relation: related
   strength: 0.7263
+analyses:
+- '2026-07-28-china-s-dual-channel-oil-supply-survives-a-two-front-blockade-and-the-u-s-squeez'
 ---
 ## China keeps Mideast oil flowing despite Houthi attacks, U.S. blockade
 
@@ -231,3 +233,8 @@ Beijing said it was "deeply concerned" about vessels and crews stranded in the s
 **Publication date:** 2026-07-28
 **Title:** One Megabuyer—China—Finds a Way to Get Mideast Oil
 **URL:** https://www.wsj.com/world/china/china-iran-us-war-6b523a89
+
+---
+
+<!-- analysis-link:2026-07-28-china-s-dual-channel-oil-supply-survives-a-two-front-blockade-and-the-u-s-squeez -->
+**Going deeper:** [Read MSI's analysis of How Houthi safe‑passage privileges and a Malaysian transshipment zone let China bypass two simultaneous chokepoint disruptions, why the blockade backfired by compressing China’s import portfolio around Iranian crude, and the structural equilibrium that keeps the system stable. →](/analyses/2026-07-28-china-s-dual-channel-oil-supply-survives-a-two-front-blockade-and-the-u-s-squeez)
