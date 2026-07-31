@@ -23,7 +23,8 @@ primary_themes:
 - mayoral authority
 topic_tags:
 - politics
-storyline_nexus: []
+storyline_nexus:
+- hamas-funding-case
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
@@ -138,14 +139,19 @@ related_stories:
   strength: 0.6828
 image:
   url: /articles/2026-07-18-mandani-reviews-options-to-arrest-netanyahu-during-un-visit.png
-  alt: "Illustration accompanying article: Mandani reviews options to arrest Netanyahu during UN visit"
+  alt: 'Illustration accompanying article: Mandani reviews options to arrest Netanyahu
+    during UN visit'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:openai/gpt-5.4-image-2"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
+
 ## Mandani reviews options to arrest Netanyahu during UN visit
 
 **Subtype:** fact

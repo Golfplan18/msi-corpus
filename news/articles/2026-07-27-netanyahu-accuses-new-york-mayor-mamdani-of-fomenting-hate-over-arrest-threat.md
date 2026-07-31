@@ -35,7 +35,8 @@ topic_tags:
 - international law
 - armed conflict
 - government
-storyline_nexus: []
+storyline_nexus:
+- hamas-funding-case
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -176,8 +177,9 @@ related_stories:
   relation: related
   strength: 0.6843
 analyses:
-- '2026-07-27-the-warrant-that-won-t-be-enforced-netanyahu-mamdani-and-the-paradigm-war-over-w'
+- 2026-07-27-the-warrant-that-won-t-be-enforced-netanyahu-mamdani-and-the-paradigm-war-over-w
 ---
+
 ## Netanyahu accuses New York Mayor Mamdani of 'fomenting hate' over arrest threat
 
 **Subtype:** fact

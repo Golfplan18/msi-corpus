@@ -26,7 +26,8 @@ topic_tags:
 - political process
 - political dissent
 - international relations
-storyline_nexus: []
+storyline_nexus:
+- hamas-funding-case
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -187,6 +188,7 @@ related_stories:
   relation: related
   strength: 0.6507
 ---
+
 ## Netanyahu says Mamdani is 'fomenting hate' over arrest call
 
 **Subtype:** fact
