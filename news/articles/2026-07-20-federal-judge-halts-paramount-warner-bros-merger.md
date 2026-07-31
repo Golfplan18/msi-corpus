@@ -23,6 +23,7 @@ topic_tags:
 - law
 storyline_nexus:
 - trump-judicial-challenges
+- paramount-warner-bros-merger-blocked-by-california-antitrust-suit
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
@@ -186,14 +187,19 @@ related_stories:
   strength: 0.7377
 image:
   url: /articles/2026-07-20-federal-judge-halts-paramount-warner-bros-merger.png
-  alt: "Illustration accompanying article: Federal judge halts Paramount-Warner Bros. merger"
+  alt: 'Illustration accompanying article: Federal judge halts Paramount-Warner Bros.
+    merger'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:openai/gpt-5.4-image-2"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
+
 ## Federal judge halts Paramount-Warner Bros. merger
 
 **Subtype:** fact

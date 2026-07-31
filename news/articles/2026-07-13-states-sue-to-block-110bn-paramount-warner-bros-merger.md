@@ -31,7 +31,8 @@ topic_tags:
 - mass media
 - arts and entertainment
 - government policy
-storyline_nexus: []
+storyline_nexus:
+- paramount-warner-bros-merger-blocked-by-california-antitrust-suit
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
@@ -174,6 +175,7 @@ related_stories:
   relation: related
   strength: 0.7332
 ---
+
 ## States sue to block $110bn Paramount-Warner Bros merger
 
 **Subtype:** fact

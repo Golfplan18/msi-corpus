@@ -30,7 +30,8 @@ topic_tags:
 - disaster
 - human interest
 - law enforcement
-storyline_nexus: []
+storyline_nexus:
+- seattle-police-chief-resignation-after-food-festival-shooting
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -156,6 +157,7 @@ related_stories:
   relation: related
   strength: 0.8203
 ---
+
 ## Seattle mourns three killed at food festival shooting
 
 **Subtype:** fact

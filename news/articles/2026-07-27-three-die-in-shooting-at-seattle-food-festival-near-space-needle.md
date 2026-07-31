@@ -32,7 +32,8 @@ topic_tags:
 - crime
 - crime, law and justice
 - mass media
-storyline_nexus: []
+storyline_nexus:
+- seattle-police-chief-resignation-after-food-festival-shooting
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -134,14 +135,19 @@ draft: false
 related_stories: []
 image:
   url: /articles/2026-07-27-three-die-in-shooting-at-seattle-food-festival-near-space-needle.png
-  alt: "Illustration accompanying article: Three die in shooting at Seattle food festival near Space Needle"
+  alt: 'Illustration accompanying article: Three die in shooting at Seattle food festival
+    near Space Needle'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:openai/gpt-5.4-image-2"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
+
 ## Three die in shooting at Seattle food festival near Space Needle
 
 **Subtype:** fact
