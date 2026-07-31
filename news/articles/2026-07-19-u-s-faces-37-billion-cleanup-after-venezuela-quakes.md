@@ -32,7 +32,8 @@ topic_tags:
 - construction and property
 - economy
 - post-war reconstruction
-storyline_nexus: []
+storyline_nexus:
+- venezuela-earthquake-recovery-faces-growing-environmental-risks
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -171,8 +172,9 @@ related_stories:
   relation: related
   strength: 0.7598
 analyses:
-- '2026-07-19-venezuela-s-quakes-expose-the-oil-trap-that-built-and-broke-its-housing'
+- 2026-07-19-venezuela-s-quakes-expose-the-oil-trap-that-built-and-broke-its-housing
 ---
+
 ## U.S. faces $37 billion cleanup after Venezuela quakes
 
 **Subtype:** fact

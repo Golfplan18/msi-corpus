@@ -34,7 +34,8 @@ topic_tags:
 - health
 - public health
 - international relations
-storyline_nexus: []
+storyline_nexus:
+- venezuela-earthquake-recovery-faces-growing-environmental-risks
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -111,6 +112,7 @@ related_stories:
   relation: related
   strength: 0.7262
 ---
+
 ## Foreign doctors fill healthcare gap in quake-ravaged Venezuela
 
 **Subtype:** fact
