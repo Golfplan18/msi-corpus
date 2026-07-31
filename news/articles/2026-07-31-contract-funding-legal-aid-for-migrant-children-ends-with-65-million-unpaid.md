@@ -36,7 +36,7 @@ license: https://creativecommons.org/publicdomain/zero/1.0/
 ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 0
+  count: 1
   outlets: []
   outlet_classes: []
   has_originating: false
