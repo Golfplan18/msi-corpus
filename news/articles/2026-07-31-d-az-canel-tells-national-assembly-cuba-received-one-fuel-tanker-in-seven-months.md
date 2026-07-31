@@ -1,9 +1,15 @@
 ---
-headline: Díaz-Canel tells National Assembly Cuba received one fuel tanker in seven months
+headline: Díaz-Canel tells National Assembly Cuba received one fuel tanker in seven
+  months
 secondary_headline: President announces 176 economic reforms as socialist overhaul
 publish_date: '2026-07-31'
-lede: Cuban President Miguel Díaz-Canel on Thursday told the closing session of the National Assembly that U.S. sanctions, which he described as an "energy blockade," have restricted the island to receiving one fuel tanker in the past seven months. He announced 176 economic and social transformation measures, 120 ready for implementation.
-nut_graf: The address wove together his criticism of U.S. policy and a domestic overhaul intended to preserve the socialist system. Díaz-Canel and Foreign Minister Bruno Rodríguez both accused Washington of economic coercion and collective punishment.
+lede: Cuban President Miguel Díaz-Canel on Thursday told the closing session of the
+  National Assembly that U.S. sanctions, which he described as an "energy blockade,"
+  have restricted the island to receiving one fuel tanker in the past seven months.
+  He announced 176 economic and social transformation measures, 120 ready for implementation.
+nut_graf: The address wove together his criticism of U.S. policy and a domestic overhaul
+  intended to preserve the socialist system. Díaz-Canel and Foreign Minister Bruno
+  Rodríguez both accused Washington of economic coercion and collective punishment.
 primary_entities:
 - Miguel Díaz-Canel
 - Bruno Rodríguez
@@ -43,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -142,107 +149,50 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-07-27-d-az-canel-compares-u-s-sanctions-to-nazi-practices-in-anniversary-speech
-  headline: Díaz-Canel compares U.S. sanctions to "Nazi practices" in anniversary speech
+  headline: Díaz-Canel compares U.S. sanctions to "Nazi practices" in anniversary
+    speech
   publish_date: '2026-07-27'
   relation: related
-  strength: 0.7603
+  strength: 0.76
 - slug: 2026-07-18-cuba-s-grid-fails-again-as-us-blockade-deepens-energy-crisis
   headline: Cuba's grid fails again as US blockade deepens energy crisis
   publish_date: '2026-07-18'
   relation: related
-  strength: 0.7223
+  strength: 0.7225
 - slug: 2026-06-19-cuba-s-parliament-approves-sweeping-economic-reforms-amid-crisis
   headline: Cuba's parliament approves sweeping economic reforms amid crisis
   publish_date: '2026-06-19'
   relation: related
-  strength: 0.7741
+  strength: 0.7751
 - slug: 2026-06-12-cuba-unveils-economic-reforms-hours-after-us-freezes-state-oil-company-assets
-  headline: Cuba unveils economic reforms hours after US freezes state oil company assets
+  headline: Cuba unveils economic reforms hours after US freezes state oil company
+    assets
   publish_date: '2026-06-12'
   relation: related
-  strength: 0.7928
+  strength: 0.7933
 - slug: 2026-06-04-u-s-sanctions-cuban-president-miguel-d-az-canel-military-castro-kin
   headline: U.S. sanctions Cuban President Miguel Díaz-Canel, military, Castro kin
   publish_date: '2026-06-04'
   relation: related
-  strength: 0.7811
+  strength: 0.7804
 - slug: 2026-03-04-d-az-canel-urges-cuba-to-overhaul-economic-and-business-model-amid-fuel-pinch
-  headline: Díaz-Canel urges Cuba to overhaul economic and business model amid fuel pinch
+  headline: Díaz-Canel urges Cuba to overhaul economic and business model amid fuel
+    pinch
   publish_date: '2026-03-04'
   relation: related
-  strength: 0.8117
+  strength: 0.8124
 - slug: 2026-04-16-d-az-canel-says-cuba-will-fight-if-attacked-as-trump-signals-post-iran-focus-on-
-  headline: Díaz-Canel says Cuba will fight if attacked as Trump signals post-Iran focus on island
+  headline: Díaz-Canel says Cuba will fight if attacked as Trump signals post-Iran
+    focus on island
   publish_date: '2026-04-16'
   relation: related
-  strength: 0.7679
+  strength: 0.7683
 - slug: 2026-04-13-cuba-s-d-az-canel-says-cubans-would-defend-themselves-against-any-us-attack
   headline: Cuba’s Díaz-Canel says Cubans would defend themselves against any US attack
   publish_date: '2026-04-13'
   relation: related
   strength: 0.7673
-- slug: 2026-05-15-cuba-s-power-grid-fails-plunging-eastern-provinces-into-blackout
-  headline: Cuba’s power grid fails, plunging eastern provinces into blackout
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.7176
-- slug: 2026-03-27-cuba-s-d-az-canel-says-ra-l-castro-is-in-early-stage-u-s-talks
-  headline: Cuba’s Díaz-Canel says Raúl Castro is in early-stage U.S. talks
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.7741
-- slug: 2026-04-10-cuba-s-d-az-canel-tells-nbc-news-he-will-not-step-down
-  headline: Cuba’s Díaz-Canel tells NBC News he will not step down
-  publish_date: '2026-04-10'
-  relation: related
-  strength: 0.7366
-- slug: 2026-03-19-cuba-s-d-az-canel-slams-trump-imminent-action-threat-amid-crisis
-  headline: Cuba’s Díaz-Canel slams Trump “imminent action” threat amid crisis
-  publish_date: '2026-03-19'
-  relation: related
-  strength: 0.7523
-- slug: 2026-02-05-us-announces-6-million-more-in-aid-to-cuba-as-d-az-canel-cites-an-energy-blockad
-  headline: US announces $6 million more in aid to Cuba as Díaz-Canel cites an “energy blockade”
-  publish_date: '2026-02-05'
-  relation: related
-  strength: 0.7725
-- slug: 2026-02-08-cubans-face-deeper-energy-crisis-after-us-moves-to-block-oil-supply
-  headline: Cubans face deeper energy crisis after US moves to block oil supply
-  publish_date: '2026-02-08'
-  relation: related
-  strength: 0.7678
-- slug: 2026-01-12-cuba-s-d-az-canel-denies-us-talks-after-trump-issues-deal-or-else-threat
-  headline: Cuba's Díaz-Canel denies US talks after Trump issues deal-or-else threat
-  publish_date: '2026-01-12'
-  relation: related
-  strength: 0.7752
-- slug: 2026-04-07-2-us-lawmakers-visiting-cuba-denounce-energy-blockade-as-economic-bombing
-  headline: 2 US lawmakers visiting Cuba denounce energy blockade as “economic bombing”
-  publish_date: '2026-04-07'
-  relation: related
-  strength: 0.7246
-- slug: 2026-02-13-mexican-navy-ships-bring-humanitarian-aid-to-cuba-as-u-s-blockade-deepens
-  headline: Mexican Navy ships bring humanitarian aid to Cuba as U.S. blockade deepens
-  publish_date: '2026-02-13'
-  relation: related
-  strength: 0.7491
-- slug: 2026-04-09-white-house-clarifies-cuba-comment-after-d-az-canel-rejects-any-u-s-aggression
-  headline: White House clarifies Cuba comment after Díaz-Canel rejects any U.S. aggression
-  publish_date: '2026-04-09'
-  relation: related
-  strength: 0.709
-- slug: 2026-03-18-cuba-blackout-deepens-crisis-as-trump-rubio-urge-political-change
-  headline: Cuba blackout deepens crisis as Trump, Rubio urge political change
-  publish_date: '2026-03-18'
-  relation: related
-  strength: 0.7278
-- slug: 2026-04-03-russia-says-it-will-send-second-tanker-to-aid-energy-starved-cuba
-  headline: Russia says it will send second tanker to aid energy-starved Cuba
-  publish_date: '2026-04-03'
-  relation: related
-  strength: 0.7125
 ---
-
 ## Díaz-Canel tells National Assembly Cuba received one fuel tanker in seven months
 
 **Subtype:** fact

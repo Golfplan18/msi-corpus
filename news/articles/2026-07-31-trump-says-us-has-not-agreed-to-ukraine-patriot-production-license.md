@@ -2,8 +2,14 @@
 headline: Trump says US has not agreed to Ukraine Patriot production license
 secondary_headline: Gaza cease-fire sequencing remains unresolved, Trump says
 publish_date: '2026-07-31'
-lede: President Donald Trump told reporters Friday that the United States has not agreed to let Ukraine manufacture Patriot air defense interceptors, departing from a suggestion he made earlier this month at a NATO summit. Speaking during a cabinet meeting at Camp David, Trump said transferring the underlying technology was “a hard thing to give away.”
-nut_graf: The statement adds uncertainty to Ukraine’s air defense prospects amid a global shortage of Patriot interceptors that has been compounded by heavy use in the U.S. confrontation with Iran.
+lede: President Donald Trump told reporters Friday that the United States has not
+  agreed to let Ukraine manufacture Patriot air defense interceptors, departing from
+  a suggestion he made earlier this month at a NATO summit. Speaking during a cabinet
+  meeting at Camp David, Trump said transferring the underlying technology was “a
+  hard thing to give away.”
+nut_graf: The statement adds uncertainty to Ukraine’s air defense prospects amid a
+  global shortage of Patriot interceptors that has been compounded by heavy use in
+  the U.S. confrontation with Iran.
 primary_entities:
 - Donald Trump
 - Ukraine
@@ -44,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -148,25 +155,27 @@ related_stories:
   relation: related
   strength: 0.8269
 - slug: 2026-07-15-trump-addresses-army-war-college-summit-cites-10-billion-in-defense-pledges
-  headline: Trump addresses Army War College summit, cites $10 billion in defense pledges
+  headline: Trump addresses Army War College summit, cites $10 billion in defense
+    pledges
   publish_date: '2026-07-15'
   relation: related
-  strength: 0.6698
+  strength: 0.6695
 - slug: 2026-07-07-trump-proposes-f-35-sale-to-turkey-despite-legal-barrier
   headline: Trump proposes F-35 sale to Turkey despite legal barrier
   publish_date: '2026-07-07'
   relation: related
-  strength: 0.6879
+  strength: 0.6877
 - slug: 2026-07-06-russian-ballistic-missiles-kill-at-least-13-in-kyiv-patriot-interceptors-in-shor
-  headline: Russian ballistic missiles kill at least 13 in Kyiv; Patriot interceptors in short supply
+  headline: Russian ballistic missiles kill at least 13 in Kyiv; Patriot interceptors
+    in short supply
   publish_date: '2026-07-06'
   relation: related
-  strength: 0.6815
+  strength: 0.6818
 - slug: 2026-06-14-trump-tells-putin-he-is-prepared-to-help-end-ukraine-war-adviser-says
   headline: Trump tells Putin he is prepared to help end Ukraine war, adviser says
   publish_date: '2026-06-14'
   relation: related
-  strength: 0.6648
+  strength: 0.6645
 - slug: 2026-06-09-patriot-missile-production-triples-but-won-t-hit-target-until-2030
   headline: Patriot missile production triples but won't hit target until 2030
   publish_date: '2026-06-09'
@@ -181,78 +190,21 @@ related_stories:
   headline: Trump says he hasn’t decided on Taiwan arms after Xi objections
   publish_date: '2026-05-15'
   relation: related
-  strength: 0.6886
-- slug: 2026-05-16-trump-calls-taiwan-a-negotiating-chip-spurring-taiwan-and-china-anxieties
-  headline: Trump calls Taiwan a “negotiating chip,” spurring Taiwan and China anxieties
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6824
-- slug: 2026-05-16-trump-says-he-will-decide-on-taiwan-arms-package-after-xi-concerns
-  headline: Trump says he will decide on Taiwan arms package after Xi concerns
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6748
-- slug: 2026-05-21-trump-says-he-ll-send-5-000-more-troops-to-poland-stirring-confusion
-  headline: Trump says he'll send 5,000 more troops to Poland, stirring confusion
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6538
-- slug: 2026-05-10-trump-and-xi-summit-puts-taiwan-at-center-amid-arms-and-chips-debate
-  headline: Trump and Xi summit puts Taiwan at center amid arms and chips debate
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.651
-- slug: 2026-05-09-moscow-and-kyiv-accuse-each-other-of-violating-us-brokered-truce
-  headline: Moscow and Kyiv accuse each other of violating US-brokered truce
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.6507
-- slug: 2026-04-11-zelenskyy-says-ukraine-shot-down-shahed-drones-abroad-seeks-wider-air-defense-ti
-  headline: Zelenskyy says Ukraine shot down Shahed drones abroad, seeks wider air defense ties
-  publish_date: '2026-04-11'
-  relation: related
-  strength: 0.6693
-- slug: 2026-03-13-zelenskyy-says-ukraine-awaits-white-house-sign-off-on-drone-production-deal
-  headline: Zelenskyy says Ukraine awaits White House sign-off on drone production deal
-  publish_date: '2026-03-13'
-  relation: related
-  strength: 0.6949
-- slug: 2026-03-07-us-weapons-stockpiles-under-strain-as-iran-war-enters-second-week-democrats-warn
-  headline: US weapons stockpiles under strain as Iran war enters second week, Democrats warn
-  publish_date: '2026-03-07'
-  relation: related
-  strength: 0.6942
-- slug: 2026-03-14-zelenskyy-ready-for-peace-talks-but-says-us-and-russia-must-act
-  headline: Zelenskyy ready for peace talks but says US and Russia must act
-  publish_date: '2026-03-14'
-  relation: related
-  strength: 0.6815
-- slug: 2026-03-29-rubio-denies-us-pressed-ukraine-to-cede-donbas-for-security-guarantees
-  headline: Rubio denies US pressed Ukraine to cede Donbas for security guarantees
-  publish_date: '2026-03-29'
-  relation: related
-  strength: 0.6616
-- slug: 2026-01-30-trump-says-putin-agreed-to-pause-strikes-on-kyiv-for-one-week
-  headline: Trump says Putin agreed to pause strikes on Kyiv for one week
-  publish_date: '2026-01-30'
-  relation: related
-  strength: 0.6921
-- slug: 2026-03-27-iran-war-deflects-attention-as-emboldened-russia-begins-spring-offensive
-  headline: Iran war deflects attention as emboldened Russia begins spring offensive
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.6513
+  strength: 0.6884
 image:
   url: /articles/2026-07-31-trump-says-us-has-not-agreed-to-ukraine-patriot-production-license.png
-  alt: "Illustration accompanying article: Trump says US has not agreed to Ukraine Patriot production license"
+  alt: 'Illustration accompanying article: Trump says US has not agreed to Ukraine
+    Patriot production license'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:openai/gpt-5.4-image-2"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Trump says US has not agreed to Ukraine Patriot production license
 
 **Subtype:** fact

@@ -2,8 +2,15 @@
 headline: Analysts flag Magna margin gains, Ferrari beat; caution on Renault results
 secondary_headline: Oil on track for roughly 20% monthly gain as crude eases
 publish_date: '2026-07-31'
-lede: TD Cowen analyst Brian Morrison said Magna International's adjusted EBIT margin expanded year-over-year despite lower global light vehicle production, while Deutsche Bank analyst Nicolai Kempf said Ferrari beat second-quarter earnings expectations by 5%. Berenberg analysts said Renault's first-half results should be "viewed with caution" due to what they called "lower-quality items" supporting the earnings and free cash flow beat.
-nut_graf: The analyst reports come as global light vehicle production declined year-over-year and competition from Chinese manufacturers rises in European markets, according to the analysts cited in the reports.
+lede: TD Cowen analyst Brian Morrison said Magna International's adjusted EBIT margin
+  expanded year-over-year despite lower global light vehicle production, while Deutsche
+  Bank analyst Nicolai Kempf said Ferrari beat second-quarter earnings expectations
+  by 5%. Berenberg analysts said Renault's first-half results should be "viewed with
+  caution" due to what they called "lower-quality items" supporting the earnings and
+  free cash flow beat.
+nut_graf: The analyst reports come as global light vehicle production declined year-over-year
+  and competition from Chinese manufacturers rises in European markets, according
+  to the analysts cited in the reports.
 primary_entities:
 - Magna International
 - Ferrari
@@ -42,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,104 +152,43 @@ related_stories:
   headline: GM raises 2026 outlook for second time on strong truck and SUV demand
   publish_date: '2026-07-21'
   relation: related
-  strength: 0.681
+  strength: 0.6811
 - slug: 2026-07-17-volvo-car-reports-wide-second-quarter-earnings-miss
   headline: Volvo Car reports wide second-quarter earnings miss
   publish_date: '2026-07-17'
   relation: related
-  strength: 0.6859
+  strength: 0.6865
 - slug: 2026-07-22-ge-vernova-lifts-free-cash-flow-outlook-as-oil-rises-on-iran-strikes
   headline: GE Vernova Lifts Free Cash Flow Outlook as Oil Rises on Iran Strikes
   publish_date: '2026-07-22'
   relation: related
-  strength: 0.6536
-- slug: 2026-07-22-philip-morris-revenue-rises-10-on-smoke-free-international-growth
-  headline: Philip Morris revenue rises 10% on smoke-free, international growth
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.6371
-- slug: 2026-07-15-analysts-upgrade-thai-oil-flag-bp-and-iberdrola-gains-eu-solar-sets-record
-  headline: Analysts upgrade Thai Oil, flag BP and Iberdrola gains; EU solar sets record
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.6443
-- slug: 2026-07-16-tsmc-posts-fifth-straight-record-profit-on-surging-ai-demand
-  headline: TSMC posts fifth straight record profit on surging AI demand
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.6339
-- slug: 2026-07-14-european-airline-stocks-fall-as-middle-east-escalation-drives-oil-rally
-  headline: European airline stocks fall as Middle East escalation drives oil rally
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6445
+  strength: 0.6534
 - slug: 2026-06-30-maersk-shares-gain-on-conflict-driven-rates-mercedes-ferrari-upgraded
   headline: Maersk shares gain on conflict-driven rates; Mercedes, Ferrari upgraded
   publish_date: '2026-06-30'
   relation: related
-  strength: 0.6923
-- slug: 2026-07-10-analysts-flag-weak-demand-shifting-spending-across-auto-and-transport-sectors
-  headline: Analysts flag weak demand, shifting spending across auto and transport sectors
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.635
-- slug: 2026-07-07-easyjet-board-backs-castlelake-s-6-90-share-takeover-bid
-  headline: easyJet board backs Castlelake's £6.90/share takeover bid
-  publish_date: '2026-07-07'
-  relation: related
-  strength: 0.6279
-- slug: 2026-07-02-auto-loans-stretch-to-record-lengths-metals-fall-on-hormuz-reopening
-  headline: Auto loans stretch to record lengths; metals fall on Hormuz reopening
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.6331
-- slug: 2026-06-30-s-p-500-net-profit-margin-hits-record-14-8-in-first-quarter
-  headline: S&P 500 net profit margin hits record 14.8% in first quarter
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.6413
+  strength: 0.6926
 - slug: 2026-06-17-european-auto-shares-fall-after-bmw-slashes-guidance
   headline: European Auto Shares Fall After BMW Slashes Guidance
   publish_date: '2026-06-17'
   relation: related
-  strength: 0.6783
-- slug: 2026-06-26-evonik-raises-2026-guidance-on-higher-prices-cost-reductions
-  headline: Evonik raises 2026 guidance on higher prices, cost reductions
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6296
+  strength: 0.6778
 - slug: 2026-06-09-porsche-lufthansa-uber-nvidia-analysts-assess-auto-and-transport-sector
   headline: 'Porsche, Lufthansa, Uber-Nvidia: Analysts Assess Auto and Transport Sector'
   publish_date: '2026-06-09'
   relation: related
-  strength: 0.6755
-- slug: 2026-06-22-analysts-see-gains-for-edp-omv-macquarie-upgrades-karoon
-  headline: Analysts See Gains for EDP, OMV; Macquarie Upgrades Karoon
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.6309
+  strength: 0.6756
 - slug: 2026-06-04-ferrari-luce-ev-gets-poor-dealer-reception-nio-growth-outlook-intact
   headline: Ferrari Luce EV gets poor dealer reception; NIO growth outlook intact
   publish_date: '2026-06-04'
   relation: related
-  strength: 0.6804
+  strength: 0.6796
 - slug: 2026-06-03-stellantis-targets-2028-profit-rebound-as-analysts-see-skepticism
   headline: Stellantis targets 2028 profit rebound as analysts see skepticism
   publish_date: '2026-06-03'
   relation: related
-  strength: 0.6752
-- slug: 2026-06-17-oil-below-80-stock-futures-rise-ahead-of-warsh-s-first-fed-meeting
-  headline: Oil Below $80, Stock Futures Rise Ahead of Warsh’s First Fed Meeting
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.6315
-- slug: 2026-06-10-castlelake-s-easyjet-interest-gains-analyst-backing-li-auto-faces-margin-warning
-  headline: Castlelake's EasyJet Interest Gains Analyst Backing; Li Auto Faces Margin Warning
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.6418
+  strength: 0.6751
 ---
-
 ## Analysts flag Magna margin gains, Ferrari beat; caution on Renault results
 
 **Subtype:** fact

@@ -1,9 +1,15 @@
 ---
 headline: Wisconsin judge rules absentee voters cannot replace returned primary ballots
-secondary_headline: Rodriguez, Hughes remain on Democratic ballot after exiting governor's race
+secondary_headline: Rodriguez, Hughes remain on Democratic ballot after exiting governor's
+  race
 publish_date: '2026-07-29'
-lede: A Wisconsin judge ruled Wednesday that voters who have already returned absentee ballots for the state's primary election are not allowed to void those ballots and request new ones, according to the Associated Press, leaving in place over 117,000 returned ballots.
-nut_graf: The ruling means voters cannot void their ballots, addressing a Democratic lawsuit filed after candidate withdrawals left voters with unchangeable selections on the gubernatorial primary ballot.
+lede: A Wisconsin judge ruled Wednesday that voters who have already returned absentee
+  ballots for the state's primary election are not allowed to void those ballots and
+  request new ones, according to the Associated Press, leaving in place over 117,000
+  returned ballots.
+nut_graf: The ruling means voters cannot void their ballots, addressing a Democratic
+  lawsuit filed after candidate withdrawals left voters with unchangeable selections
+  on the gubernatorial primary ballot.
 primary_entities:
 - Wisconsin
 - Sara Rodriguez
@@ -36,7 +42,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -135,20 +142,17 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-07-21-wisconsin-democrats-ask-to-reissue-absentee-ballots-after-primary-field-shifts
-  headline: Wisconsin Democrats ask to reissue absentee ballots after primary field shifts
+  headline: Wisconsin Democrats ask to reissue absentee ballots after primary field
+    shifts
   publish_date: '2026-07-21'
   relation: related
   strength: 0.8374
 - slug: 2026-07-24-wisconsin-lawsuit-seeks-to-allow-late-absentee-voters-to-cast-provisional-ballot
-  headline: Wisconsin lawsuit seeks to allow late absentee voters to cast provisional ballots
+  headline: Wisconsin lawsuit seeks to allow late absentee voters to cast provisional
+    ballots
   publish_date: '2026-07-24'
   relation: related
   strength: 0.7025
-- slug: 2026-07-30-hong-leads-wisconsin-primary-poll-as-barnes-withdraws
-  headline: Hong leads Wisconsin primary poll as Barnes withdraws
-  publish_date: '2026-07-30'
-  relation: related
-  strength: 0.6236
 - slug: 2026-07-17-rodriguez-drops-out-of-wisconsin-governor-s-race
   headline: Rodriguez drops out of Wisconsin governor's race
   publish_date: '2026-07-17'
@@ -164,87 +168,26 @@ related_stories:
   publish_date: '2026-07-07'
   relation: related
   strength: 0.6508
-- slug: 2026-05-23-judges-in-maine-and-wisconsin-reject-doj-efforts-to-obtain-voter-rolls
-  headline: Judges in Maine and Wisconsin reject DOJ efforts to obtain voter rolls
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6366
-- slug: 2026-05-21-judges-in-maine-and-wisconsin-reject-doj-efforts-to-obtain-voter-rolls
-  headline: Judges in Maine and Wisconsin reject DOJ efforts to obtain voter rolls
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6177
-- slug: 2026-05-21-judges-reject-doj-push-for-detailed-voter-rolls-in-maine-wisconsin
-  headline: Judges reject DOJ push for detailed voter rolls in Maine, Wisconsin
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6014
-- slug: 2026-05-22-judges-in-maine-and-wisconsin-reject-doj-efforts-to-obtain-voter-rolls
-  headline: Judges in Maine and Wisconsin reject DOJ efforts to obtain voter rolls
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.5938
-- slug: 2026-05-13-west-virginia-primary-tests-new-photo-id-requirement-at-polls
-  headline: West Virginia primary tests new photo ID requirement at polls
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6059
 - slug: 2026-04-06-wisconsin-spring-election-pits-supreme-court-contenders-and-waukesha-mayor-race
-  headline: Wisconsin spring election pits Supreme Court contenders and Waukesha mayor race
+  headline: Wisconsin spring election pits Supreme Court contenders and Waukesha mayor
+    race
   publish_date: '2026-04-06'
   relation: related
   strength: 0.6581
-- slug: 2026-05-16-texas-high-court-rejects-effort-to-oust-democrats-over-redistricting-walkout
-  headline: Texas high court rejects effort to oust Democrats over redistricting walkout
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.5941
-- slug: 2026-05-07-justice-dept-can-keep-seized-fulton-county-2020-ballots-judge-rules
-  headline: Justice Dept. can keep seized Fulton County 2020 ballots, judge rules
-  publish_date: '2026-05-07'
-  relation: related
-  strength: 0.6076
-- slug: 2026-05-06-wyoming-gop-candidates-split-on-party-plan-to-defy-state-law-on-endorsements
-  headline: Wyoming GOP candidates split on party plan to defy state law on endorsements
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.6021
-- slug: 2026-05-06-justice-department-can-keep-seized-fulton-county-2020-ballots-judge-rules
-  headline: Justice Department can keep seized Fulton County 2020 ballots, judge rules
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.6018
-- slug: 2026-04-07-what-to-expect-in-wisconsin-s-spring-election-for-supreme-court-waukesha-mayor
-  headline: What to expect in Wisconsin’s spring election for Supreme Court, Waukesha mayor
-  publish_date: '2026-04-07'
-  relation: related
-  strength: 0.634
-- slug: 2026-04-05-wisconsin-voters-weigh-supreme-court-seat-and-waukesha-mayor-s-race
-  headline: Wisconsin voters weigh Supreme Court seat and Waukesha mayor’s race
-  publish_date: '2026-04-05'
-  relation: related
-  strength: 0.6354
-- slug: 2026-04-01-wisconsin-panel-dismisses-democratic-bid-to-redraw-congressional-map
-  headline: Wisconsin panel dismisses Democratic bid to redraw congressional map
-  publish_date: '2026-04-01'
-  relation: related
-  strength: 0.6239
-- slug: 2026-03-04-voters-turned-away-in-dallas-and-williamson-after-texas-gop-primary-change
-  headline: Voters turned away in Dallas and Williamson after Texas GOP primary change
-  publish_date: '2026-03-04'
-  relation: related
-  strength: 0.6316
 image:
   url: /articles/2026-07-29-wisconsin-judge-rules-absentee-voters-cannot-replace-returned-primary-ballots.png
-  alt: "Illustration accompanying article: Wisconsin judge rules absentee voters cannot replace returned primary ballots"
+  alt: 'Illustration accompanying article: Wisconsin judge rules absentee voters cannot
+    replace returned primary ballots'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:openai/gpt-5.4-image-2"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Wisconsin judge rules absentee voters cannot replace returned primary ballots
 
 **Subtype:** fact
