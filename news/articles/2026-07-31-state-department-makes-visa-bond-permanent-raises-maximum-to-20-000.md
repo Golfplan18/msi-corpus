@@ -1,9 +1,14 @@
 ---
 headline: State Department makes visa bond permanent, raises maximum to $20,000
-secondary_headline: Citizens from 50 mainly African countries affected; lower bond tier removed
+secondary_headline: Citizens from 50 mainly African countries affected; lower bond
+  tier removed
 publish_date: '2026-07-31'
-lede: The U.S. State Department is making permanent a pilot program that requires visitors from 50 countries, mainly in Africa, to post bonds when applying for U.S. visas, and is raising the maximum bond to $20,000, according to a draft Federal Register notice published Friday.
-nut_graf: The bond requirement, now permanent, sets a maximum bond of $20,000 and a minimum of $10,000 for travelers from these countries.
+lede: The U.S. State Department is making permanent a pilot program that requires
+  visitors from 50 countries, mainly in Africa, to post bonds when applying for U.S.
+  visas, and is raising the maximum bond to $20,000, according to a draft Federal
+  Register notice published Friday.
+nut_graf: The bond requirement, now permanent, sets a maximum bond of $20,000 and
+  a minimum of $10,000 for travelers from these countries.
 primary_entities:
 - U.S. State Department
 primary_themes:
@@ -38,7 +43,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -121,33 +127,20 @@ related_stories:
   publish_date: '2026-07-15'
   relation: related
   strength: 0.7491
-- slug: 2026-07-24-appeals-court-denies-trump-administration-s-100-000-h-1b-visa-fee-bid
-  headline: Appeals court denies Trump administration's $100,000 H-1B visa fee bid
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.5893
-- slug: 2026-07-16-trump-administration-caps-foreign-student-visas-at-four-years
-  headline: Trump administration caps foreign student visas at four years
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.6191
-- slug: 2026-07-14-us-bars-americans-in-congo-from-direct-travel-home-amid-ebola-spread
-  headline: US bars Americans in Congo from direct travel home amid Ebola spread
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.5887
 - slug: 2026-03-19-u-s-adds-12-countries-to-visa-bond-list-with-bonds-up-to-15-000
   headline: U.S. adds 12 countries to visa bond list, with bonds up to $15,000
   publish_date: '2026-03-19'
   relation: related
   strength: 0.82
 - slug: 2026-05-14-trump-administration-suspends-visa-bonds-for-world-cup-ticket-holders-from-five-
-  headline: Trump administration suspends visa bonds for World Cup ticket holders from five African nations
+  headline: Trump administration suspends visa bonds for World Cup ticket holders
+    from five African nations
   publish_date: '2026-05-14'
   relation: related
   strength: 0.7352
 - slug: 2026-01-07-trump-administration-expands-visa-bond-list-to-38-countries-mostly-in-africa
-  headline: Trump administration expands visa bond list to 38 countries, mostly in Africa
+  headline: Trump administration expands visa bond list to 38 countries, mostly in
+    Africa
   publish_date: '2026-01-07'
   relation: related
   strength: 0.8283
@@ -162,7 +155,8 @@ related_stories:
   relation: related
   strength: 0.7103
 - slug: 2026-01-06-state-dept-adds-7-nations-to-visa-bond-list-11-of-13-targeted-countries-are-in-a
-  headline: State Dept. adds 7 nations to visa bond list; 11 of 13 targeted countries are in Africa
+  headline: State Dept. adds 7 nations to visa bond list; 11 of 13 targeted countries
+    are in Africa
   publish_date: '2026-01-06'
   relation: related
   strength: 0.8091
@@ -171,53 +165,7 @@ related_stories:
   publish_date: '2026-01-05'
   relation: related
   strength: 0.8081
-- slug: 2026-05-08-us-to-start-revoking-passports-for-parents-who-owe-child-support
-  headline: US to start revoking passports for parents who owe child support
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.6871
-- slug: 2026-05-22-trump-administration-mandates-green-card-applicants-leave-u-s-to-apply-abroad
-  headline: Trump administration mandates green card applicants leave U.S. to apply abroad
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6158
-- slug: 2026-05-22-trump-administration-requires-green-card-applicants-to-apply-from-abroad
-  headline: Trump administration requires green card applicants to apply from abroad
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6132
-- slug: 2026-05-23-trump-administration-to-require-many-green-card-applicants-to-apply-abroad
-  headline: Trump administration to require many green-card applicants to apply abroad
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6082
-- slug: 2026-05-23-trump-s-green-card-change-would-send-some-applicants-abroad-to-apply
-  headline: Trump’s green-card change would send some applicants abroad to apply
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6063
-- slug: 2026-05-27-uscis-requires-green-card-applicants-to-leave-u-s-apply-abroad
-  headline: USCIS requires green card applicants to leave U.S., apply abroad
-  publish_date: '2026-05-27'
-  relation: related
-  strength: 0.5947
-- slug: 2026-05-27-trump-administration-revamps-green-card-process-demanding-overseas-applications
-  headline: Trump administration revamps green‑card process, demanding overseas applications
-  publish_date: '2026-05-27'
-  relation: related
-  strength: 0.5919
-- slug: 2026-05-26-trump-raises-us-refugee-cap-for-white-south-africans-only
-  headline: Trump raises US refugee cap for white South Africans only
-  publish_date: '2026-05-26'
-  relation: related
-  strength: 0.5933
-- slug: 2026-01-14-state-dept-suspends-immigrant-visa-processing-from-75-countries-over-public-char
-  headline: State Dept. suspends immigrant visa processing from 75 countries over public charge concerns
-  publish_date: '2026-01-14'
-  relation: related
-  strength: 0.6871
 ---
-
 ## State Department makes visa bond permanent, raises maximum to $20,000
 
 **Subtype:** fact

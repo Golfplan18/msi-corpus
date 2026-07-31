@@ -2,8 +2,15 @@
 headline: Venezuela earthquake rubble raises risk of secondary health crisis
 secondary_headline: Over 5,000 dead, $19.6 billion in damage from June 24 quakes
 publish_date: '2026-07-29'
-lede: More than a month after twin earthquakes struck Venezuela's northern coast, residents of La Guaira face growing environmental hazards from accumulated rubble, decomposing remains, and contaminated water, public health and environmental experts told the Associated Press. The experts warned that the coming weeks are critical to preventing secondary health crises in a region where the health system was already weakened by economic crisis.
-nut_graf: The secondary environmental threats compound an already dire humanitarian situation in a country whose public-health system had been weakened by years of economic crisis before the disaster struck.
+lede: More than a month after twin earthquakes struck Venezuela's northern coast,
+  residents of La Guaira face growing environmental hazards from accumulated rubble,
+  decomposing remains, and contaminated water, public health and environmental experts
+  told the Associated Press. The experts warned that the coming weeks are critical
+  to preventing secondary health crises in a region where the health system was already
+  weakened by economic crisis.
+nut_graf: The secondary environmental threats compound an already dire humanitarian
+  situation in a country whose public-health system had been weakened by years of
+  economic crisis before the disaster struck.
 primary_entities:
 - Venezuela
 - La Guaira
@@ -45,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,7 +157,8 @@ related_stories:
   relation: related
   strength: 0.7684
 - slug: 2026-07-08-venezuela-earthquake-survivors-confront-healthcare-crisis-after-3-535-deaths
-  headline: Venezuela earthquake survivors confront healthcare crisis after 3,535 deaths
+  headline: Venezuela earthquake survivors confront healthcare crisis after 3,535
+    deaths
   publish_date: '2026-07-08'
   relation: related
   strength: 0.8066
@@ -157,103 +166,48 @@ related_stories:
   headline: Foreign doctors fill healthcare gap in quake-ravaged Venezuela
   publish_date: '2026-07-11'
   relation: related
-  strength: 0.7539
+  strength: 0.7536
 - slug: 2026-06-30-nasa-estimates-58-870-buildings-damaged-in-venezuela-quakes
   headline: NASA estimates 58,870 buildings damaged in Venezuela quakes
   publish_date: '2026-06-30'
   relation: related
-  strength: 0.7535
+  strength: 0.7529
 - slug: 2026-06-24-two-major-quakes-hit-near-caracas-collapse-buildings-usgs-warns-of-high-casualti
-  headline: Two major quakes hit near Caracas, collapse buildings; USGS warns of high casualties
+  headline: Two major quakes hit near Caracas, collapse buildings; USGS warns of high
+    casualties
   publish_date: '2026-06-24'
   relation: related
-  strength: 0.7573
+  strength: 0.7571
 - slug: 2026-06-25-powerful-earthquakes-strike-venezuela-cause-building-collapses-in-caracas
   headline: Powerful earthquakes strike Venezuela, cause building collapses in Caracas
   publish_date: '2026-06-25'
   relation: related
-  strength: 0.7349
+  strength: 0.735
 - slug: 2026-07-09-us-rescue-team-says-venezuelan-bureaucracy-delayed-quake-response-by-five-days
-  headline: US rescue team says Venezuelan bureaucracy delayed quake response by five days
+  headline: US rescue team says Venezuelan bureaucracy delayed quake response by five
+    days
   publish_date: '2026-07-09'
   relation: related
   strength: 0.6603
-- slug: 2026-07-02-families-of-us-deportees-to-venezuela-search-for-missing-after-quakes
-  headline: Families of US deportees to Venezuela search for missing after quakes
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.6917
 - slug: 2026-06-30-u-s-quake-aid-hits-300m-as-venezuelans-jeer-government-death-toll-1-719
   headline: U.S. quake aid hits $300M as Venezuelans jeer government, death toll 1,719
   publish_date: '2026-06-30'
   relation: related
-  strength: 0.7005
-- slug: 2026-06-25-venezuela-earthquakes-kill-at-least-164-injure-nearly-1-000
-  headline: Venezuela earthquakes kill at least 164, injure nearly 1,000
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.7199
-- slug: 2026-06-26-venezuela-quake-death-toll-rises-to-235-as-rescue-teams-arrive
-  headline: Venezuela quake death toll rises to 235 as rescue teams arrive
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.7102
-- slug: 2026-06-29-deportees-held-at-venezuela-hotel-when-quakes-struck-survivors-say
-  headline: Deportees held at Venezuela hotel when quakes struck, survivors say
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.6949
-- slug: 2026-06-28-u-s-deploys-rescue-teams-and-150-million-to-venezuela-after-quakes-kill-920
-  headline: U.S. deploys rescue teams and $150 million to Venezuela after quakes kill 920
-  publish_date: '2026-06-28'
-  relation: related
-  strength: 0.6805
-- slug: 2026-06-26-5-8-magnitude-quake-rattles-dominican-republic-as-strong-temblors-rock-nicaragua
-  headline: 5.8-magnitude quake rattles Dominican Republic as strong temblors rock Nicaragua
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6792
-- slug: 2026-06-26-venezuelan-diaspora-in-doral-rallies-to-send-aid-after-earthquakes
-  headline: Venezuelan diaspora in Doral rallies to send aid after earthquakes
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6646
-- slug: 2026-06-09-6-1-magnitude-earthquake-off-cuba-shakes-florida-mexico
-  headline: 6.1-magnitude earthquake off Cuba shakes Florida, Mexico
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.6138
-- slug: 2026-05-16-mexico-s-invisible-displacement-crisis-as-cartel-violence-displaces-families
-  headline: Mexico’s invisible displacement crisis as cartel violence displaces families
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6237
-- slug: 2026-05-16-cartel-drone-attacks-displace-hundreds-of-indigenous-residents-in-guerrero
-  headline: Cartel drone attacks displace hundreds of Indigenous residents in Guerrero
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6093
-- slug: 2026-05-09-venezuela-warns-of-environmental-impact-from-alleged-trinidad-oil-spill
-  headline: Venezuela warns of environmental impact from alleged Trinidad oil spill
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.613
-- slug: 2026-05-13-colombia-conflict-worsens-for-civilians-in-2025-red-cross-says
-  headline: Colombia conflict worsens for civilians in 2025, Red Cross says
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.5989
+  strength: 0.7009
 image:
   url: /articles/2026-07-29-venezuela-earthquake-rubble-raises-risk-of-secondary-health-crisis.png
-  alt: "Illustration accompanying article: Venezuela earthquake rubble raises risk of secondary health crisis"
+  alt: 'Illustration accompanying article: Venezuela earthquake rubble raises risk
+    of secondary health crisis'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:openai/gpt-5.4-image-2"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Venezuela earthquake rubble raises risk of secondary health crisis
 
 **Subtype:** fact

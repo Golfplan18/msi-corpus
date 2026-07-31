@@ -1,9 +1,16 @@
 ---
-headline: NYC homeowners say pied-à-terre tax rollout incorrectly targets primary residences
-secondary_headline: 17,000 property owners received notices, but exemption applications prove difficult for some
+headline: NYC homeowners say pied-à-terre tax rollout incorrectly targets primary
+  residences
+secondary_headline: 17,000 property owners received notices, but exemption applications
+  prove difficult for some
 publish_date: '2026-07-31'
-lede: New York City’s rollout of a new pied-à-terre tax has drawn backlash from residents who say their primary homes were incorrectly targeted. The city sent notices to 17,000 property owners, and the tax is meant to target second homes valued at $5 million or more.
-nut_graf: The messy implementation raises questions about the city’s capacity to administer a major new tax fairly and competently, as homeowners describe a process that has been confusing and, in some cases, inaccessible.
+lede: New York City’s rollout of a new pied-à-terre tax has drawn backlash from residents
+  who say their primary homes were incorrectly targeted. The city sent notices to
+  17,000 property owners, and the tax is meant to target second homes valued at $5
+  million or more.
+nut_graf: The messy implementation raises questions about the city’s capacity to administer
+  a major new tax fairly and competently, as homeowners describe a process that has
+  been confusing and, in some cases, inaccessible.
 primary_entities:
 - New York City
 - Brooklyn
@@ -43,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -141,117 +149,30 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-07-27-nyc-halts-second-office-to-apartment-conversion-this-month-over-cracked-beams
-  headline: NYC halts second office-to-apartment conversion this month over cracked beams
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.5806
-- slug: 2026-07-22-five-landlords-challenge-nyc-rent-freeze-in-state-court
-  headline: Five landlords challenge NYC rent freeze in state court
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.5831
-- slug: 2026-07-16-pennsylvania-swing-voters-shrug-off-trump-s-2-2b-income
-  headline: Pennsylvania swing voters shrug off Trump's $2.2B income
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.5807
-- slug: 2026-07-10-new-york-city-bans-deceptive-subscription-traps-under-click-to-cancel-rule
-  headline: New York City bans deceptive subscription traps under click-to-cancel rule
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.5887
 - slug: 2026-05-08-new-york-expected-to-impose-pied---terre-tax-but-no-rich-income-hike
   headline: New York expected to impose pied-à-terre tax but no rich income hike
   publish_date: '2026-05-08'
   relation: related
-  strength: 0.7668
-- slug: 2026-06-25-us-renters-push-for-federal-action-on-apartment-junk-fees
-  headline: US renters push for federal action on apartment 'junk fees'
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.5887
-- slug: 2026-06-18-new-york-leaders-question-8b-penn-station-plan-as-trump-s-role-draws-scrutiny
-  headline: New York leaders question $8B Penn Station plan as Trump's role draws scrutiny
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.5994
-- slug: 2026-06-06-new-york-city-struggles-to-curb-dog-waste-as-complaints-rise
-  headline: New York City struggles to curb dog waste as complaints rise
-  publish_date: '2026-06-06'
-  relation: related
-  strength: 0.6104
+  strength: 0.7663
 - slug: 2026-04-15-hochul-proposes-pied---terre-tax-on-nyc-second-homes-over-5-million
   headline: Hochul proposes pied-à-terre tax on NYC second homes over $5 million
   publish_date: '2026-04-15'
   relation: related
-  strength: 0.6949
-- slug: 2026-06-02-florida-voters-to-decide-on-property-tax-overhaul-that-could-cut-homeowner-bills
-  headline: Florida voters to decide on property-tax overhaul that could cut homeowner bills by thousands
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.5803
-- slug: 2026-05-21-trump-veers-off-economy-message-during-new-york-visit-for-rep-mike-lawler
-  headline: Trump veers off economy message during New York visit for Rep. Mike Lawler
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.5996
-- slug: 2026-05-23-trump-veered-off-topic-in-new-york-while-promoting-salt-tax-cuts
-  headline: Trump veered off-topic in New York while promoting SALT tax cuts
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.5838
-- slug: 2026-04-16-trump-administration-resumes-second-avenue-subway-funding-after-new-york-sues
-  headline: Trump administration resumes Second Avenue subway funding after New York sues
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.6068
-- slug: 2026-04-16-new-york-to-lose-73-5m-in-federal-funds-over-unrevoked-immigrant-cdls
-  headline: New York to lose $73.5M in federal funds over unrevoked immigrant CDLs
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.6018
-- slug: 2026-04-15-53-million-filers-claimed-trump-tax-breaks-average-refund-rose-11-treasury-says
-  headline: 53 million filers claimed Trump tax breaks; average refund rose 11%, Treasury says
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.5928
-- slug: 2026-04-01-nevada-housing-bill-money-starts-flowing-to-middle-income-homebuyers
-  headline: Nevada housing bill money starts flowing to middle-income homebuyers
-  publish_date: '2026-04-01'
-  relation: related
-  strength: 0.6
-- slug: 2026-04-04-nyc-mayor-zohran-mamdani-hears-bronx-rental-rip-off-complaints
-  headline: NYC Mayor Zohran Mamdani hears Bronx “rental rip-off” complaints
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.594
-- slug: 2026-04-02-maine-lawmakers-weigh-how-to-use-growing-home-sale-tax-for-housing
-  headline: Maine lawmakers weigh how to use growing home-sale tax for housing
-  publish_date: '2026-04-02'
-  relation: related
-  strength: 0.5949
-- slug: 2026-03-18-mta-sues-trump-administration-over-withheld-second-avenue-subway-funds
-  headline: MTA sues Trump administration over withheld Second Avenue subway funds
-  publish_date: '2026-03-18'
-  relation: related
-  strength: 0.595
-- slug: 2026-03-12-blue-states-consider-tax-on-millionaires-to-help-fund-vital-services
-  headline: Blue states consider tax on millionaires to help fund vital services
-  publish_date: '2026-03-12'
-  relation: related
-  strength: 0.5983
+  strength: 0.6947
 image:
   url: /articles/2026-07-31-nyc-homeowners-say-pied---terre-tax-rollout-incorrectly-targets-primary-residenc.png
-  alt: "Illustration accompanying article: NYC homeowners say pied-à-terre tax rollout incorrectly targets primary residences"
+  alt: 'Illustration accompanying article: NYC homeowners say pied-à-terre tax rollout
+    incorrectly targets primary residences'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:openai/gpt-5.4-image-2"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## NYC homeowners say pied-à-terre tax rollout incorrectly targets primary residences
 
 **Subtype:** fact

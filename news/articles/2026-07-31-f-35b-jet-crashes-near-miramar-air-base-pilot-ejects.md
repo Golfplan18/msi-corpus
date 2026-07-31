@@ -2,8 +2,12 @@
 headline: F-35B jet crashes near Miramar Air Base, pilot ejects
 secondary_headline: Pilot ejected, recovered, transported to medical facility
 publish_date: '2026-07-31'
-lede: A U.S. Marine Corps F-35B jet crashed Friday afternoon near Miramar Air Base in San Diego, the Marines said. The pilot ejected and was taken to a medical facility, according to a statement from the service.
-nut_graf: The Marines classified the incident as a "Class A mishap," the most severe accident category used when the damage totals more than $2 million, a military aircraft is destroyed, or a service member dies.
+lede: A U.S. Marine Corps F-35B jet crashed Friday afternoon near Miramar Air Base
+  in San Diego, the Marines said. The pilot ejected and was taken to a medical facility,
+  according to a statement from the service.
+nut_graf: The Marines classified the incident as a "Class A mishap," the most severe
+  accident category used when the damage totals more than $2 million, a military aircraft
+  is destroyed, or a service member dies.
 primary_entities:
 - U.S. Marine Corps
 - Miramar Air Base
@@ -36,7 +40,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -134,117 +139,35 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-07-24-seaplane-crashes-near-washington-island-all-11-rescued
-  headline: Seaplane crashes near Washington island, all 11 rescued
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.6151
-- slug: 2026-07-16-navy-blue-angels-jet-flies-low-over-pensacola-beach-prompting-safety-review
-  headline: Navy Blue Angels jet flies low over Pensacola Beach, prompting safety review
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.6241
-- slug: 2026-07-21-wreckage-of-pan-am-plane-found-74-years-after-crash-that-spurred-safety-briefing
-  headline: Wreckage of Pan Am plane found 74 years after crash that spurred safety briefings
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.5884
 - slug: 2026-06-15-b-52-bomber-crashes-shortly-after-takeoff-at-california-air-base
   headline: B-52 bomber crashes shortly after takeoff at California air base
   publish_date: '2026-06-15'
   relation: related
   strength: 0.6771
-- slug: 2026-06-17-us-air-force-names-eight-killed-in-b-52-crash-at-edwards-base
-  headline: US Air Force names eight killed in B-52 crash at Edwards base
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.6184
 - slug: 2026-05-13-u-s-air-force-training-jet-crash-in-alabama-both-pilots-eject-safely
   headline: U.S. Air Force training jet crash in Alabama; both pilots eject safely
   publish_date: '2026-05-13'
   relation: related
   strength: 0.6791
-- slug: 2026-05-19-two-navy-jets-collide-at-idaho-air-show-all-four-crew-members-eject-safely
-  headline: Two Navy jets collide at Idaho air show; all four crew members eject safely
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6419
 - slug: 2026-05-13-air-force-t-38-talon-crashes-in-west-alabama-both-pilots-eject-safely
   headline: Air Force T-38 Talon crashes in west Alabama; both pilots eject safely
   publish_date: '2026-05-13'
   relation: related
   strength: 0.6513
-- slug: 2026-05-13-small-plane-crashes-off-florida-coast-bahamas-officials-say-all-10-were-rescued
-  headline: Small plane crashes off Florida coast; Bahamas officials say all 10 were rescued
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6411
-- slug: 2026-05-13-10-rescued-after-small-plane-crashes-in-bahamian-waters-off-florida
-  headline: 10 rescued after small plane crashes in Bahamian waters off Florida
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6314
-- slug: 2026-05-19-2-navy-jets-collide-at-idaho-air-show-all-four-crew-eject-safely
-  headline: 2 Navy jets collide at Idaho air show; all four crew eject safely
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6172
-- slug: 2026-05-14-11-survivors-of-plane-ditching-off-florida-rescued-after-five-hours-on-life-raft
-  headline: 11 survivors of plane ditching off Florida rescued after five hours on life raft
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6129
-- slug: 2026-05-18-navy-jets-collide-midair-during-idaho-air-show-crews-ejected-safely
-  headline: Navy jets collide midair during Idaho air show; crews ejected safely
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.6046
-- slug: 2026-05-17-small-plane-crashes-in-los-angeles-lot-pilot-in-critical-condition
-  headline: Small plane crashes in Los Angeles lot, pilot in critical condition
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6065
-- slug: 2026-05-17-4-crew-members-eject-safely-after-2-navy-jets-collide-at-idaho-air-show
-  headline: 4 crew members eject safely after 2 Navy jets collide at Idaho air show
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6028
-- slug: 2026-05-17-two-navy-jets-collide-during-idaho-air-show-all-four-crew-members-eject-safely
-  headline: Two Navy jets collide during Idaho air show; all four crew members eject safely
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6017
-- slug: 2026-05-14-rescuers-recount-effort-to-retrieve-11-survivors-from-life-raft-off-florida
-  headline: Rescuers recount effort to retrieve 11 survivors from life raft off Florida
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6068
-- slug: 2026-04-09-faa-investigates-frontier-close-call-at-lax-after-brakes-to-avoid-collision
-  headline: FAA investigates Frontier close call at LAX after brakes to avoid collision
-  publish_date: '2026-04-09'
-  relation: related
-  strength: 0.5904
-- slug: 2026-03-24-jet-collides-with-fire-truck-at-laguardia-killing-air-canada-crew
-  headline: Jet collides with fire truck at LaGuardia, killing Air Canada crew
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.5974
-- slug: 2026-03-28-united-airlines-flight-narrowly-avoids-military-helicopter-near-california-airpo
-  headline: United Airlines flight narrowly avoids military helicopter near California airport
-  publish_date: '2026-03-28'
-  relation: related
-  strength: 0.5907
 image:
   url: /articles/2026-07-31-f-35b-jet-crashes-near-miramar-air-base-pilot-ejects.png
-  alt: "Illustration accompanying article: F-35B jet crashes near Miramar Air Base, pilot ejects"
+  alt: 'Illustration accompanying article: F-35B jet crashes near Miramar Air Base,
+    pilot ejects'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:openai/gpt-5.4-image-2"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## F-35B jet crashes near Miramar Air Base, pilot ejects
 
 **Subtype:** fact

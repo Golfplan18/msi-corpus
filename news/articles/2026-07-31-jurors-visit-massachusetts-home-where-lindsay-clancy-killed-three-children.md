@@ -2,8 +2,13 @@
 headline: Jurors visit Massachusetts home where Lindsay Clancy killed three children
 secondary_headline: Defendant did not attend site visit; lawyers cite postpartum psychosis
 publish_date: '2026-07-31'
-lede: Jurors in the murder trial of Lindsay Clancy walked through the Duxbury, Massachusetts, home where she killed her three children in January 2023, a rare site view Friday that provided firsthand exposure to the scene of the killings.
-nut_graf: The visit is one of the few times a jury is allowed to directly view a crime scene, giving the six-person panel a spatial understanding that testimony and photographs cannot fully convey as they weigh Clancy’s defense that she was in the grip of postpartum psychosis.
+lede: Jurors in the murder trial of Lindsay Clancy walked through the Duxbury, Massachusetts,
+  home where she killed her three children in January 2023, a rare site view Friday
+  that provided firsthand exposure to the scene of the killings.
+nut_graf: The visit is one of the few times a jury is allowed to directly view a crime
+  scene, giving the six-person panel a spatial understanding that testimony and photographs
+  cannot fully convey as they weigh Clancy’s defense that she was in the grip of postpartum
+  psychosis.
 primary_entities:
 - Lindsay Clancy
 - Duxbury
@@ -36,7 +41,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -135,7 +141,8 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-07-30-police-describe-discovering-three-dead-children-in-duxbury-home-as-trial-hears-9
-  headline: Police describe discovering three dead children in Duxbury home as trial hears 911 call
+  headline: Police describe discovering three dead children in Duxbury home as trial
+    hears 911 call
   publish_date: '2026-07-30'
   relation: related
   strength: 0.8007
@@ -154,97 +161,20 @@ related_stories:
   publish_date: '2026-07-20'
   relation: related
   strength: 0.7688
-- slug: 2026-07-25-mother-urges-uk-to-press-texas-on-daughter-s-shooting-death
-  headline: Mother urges UK to press Texas on daughter's shooting death
-  publish_date: '2026-07-25'
-  relation: related
-  strength: 0.582
-- slug: 2026-07-20-525-000-foreclosure-buyer-finds-3-skeletal-remains-inside-connecticut-home
-  headline: $525,000 foreclosure buyer finds 3 skeletal remains inside Connecticut home
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.5917
-- slug: 2026-07-18-more-than-a-thousand-rally-for-justin-pearson-after-four-memphis-task-force-shoo
-  headline: More than a thousand rally for Justin Pearson after four Memphis task force shootings
-  publish_date: '2026-07-18'
-  relation: related
-  strength: 0.579
-- slug: 2026-07-10-dna-evidence-roommate-testimony-presented-in-charlie-kirk-preliminary-hearing
-  headline: DNA evidence, roommate testimony presented in Charlie Kirk preliminary hearing
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.5899
-- slug: 2026-06-29-judge-sets-april-2027-retrial-date-for-alex-murdaugh
-  headline: Judge sets April 2027 retrial date for Alex Murdaugh
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.6024
-- slug: 2026-06-29-mississippi-manhunt-underway-after-three-killed-including-2-year-old
-  headline: Mississippi manhunt underway after three killed, including 2-year-old
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.5824
-- slug: 2026-04-26-wellesley-woman-accused-of-killing-two-children-amid-custody-dispute
-  headline: Wellesley woman accused of killing two children amid custody dispute
-  publish_date: '2026-04-26'
-  relation: related
-  strength: 0.6441
-- slug: 2026-05-07-jury-begins-deliberating-in-murder-retrial-of-ohio-deputy-who-killed-goodson
-  headline: Jury begins deliberating in murder retrial of Ohio deputy who killed Goodson
-  publish_date: '2026-05-07'
-  relation: related
-  strength: 0.5878
-- slug: 2026-04-27-wellesley-mom-accused-of-killing-two-children-amid-custody-dispute
-  headline: Wellesley Mom Accused of Killing Two Children Amid Custody Dispute
-  publish_date: '2026-04-27'
-  relation: related
-  strength: 0.5889
-- slug: 2026-04-19-father-kills-8-children-in-shreveport-mass-shooting-deadliest-in-two-years
-  headline: Father kills 8 children in Shreveport mass shooting, deadliest in two years
-  publish_date: '2026-04-19'
-  relation: related
-  strength: 0.5931
-- slug: 2026-04-19-explosion-and-fire-kill-mom-and-6-children-at-pennsylvania-home
-  headline: Explosion and fire kill mom and 6 children at Pennsylvania home
-  publish_date: '2026-04-19'
-  relation: related
-  strength: 0.588
-- slug: 2026-04-22-murder-retrial-begins-in-ohio-for-ex-deputy-jason-meade-in-casey-goodson-jr-kill
-  headline: Murder retrial begins in Ohio for ex-deputy Jason Meade in Casey Goodson Jr. killing
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.5832
-- slug: 2026-02-10-murdaugh-appeal-continues-as-lawyers-cite-unfair-trial-issues
-  headline: Murdaugh appeal continues as lawyers cite unfair trial issues
-  publish_date: '2026-02-10'
-  relation: related
-  strength: 0.6184
-- slug: 2026-04-01-supreme-court-probes-whether-mississippi-court-mishandled-jury-bias-claim
-  headline: Supreme Court probes whether Mississippi court mishandled jury bias claim
-  publish_date: '2026-04-01'
-  relation: related
-  strength: 0.5854
-- slug: 2026-02-11-alex-murdaugh-seeks-reversal-as-south-carolina-supreme-court-hears-appeal
-  headline: Alex Murdaugh seeks reversal as South Carolina Supreme Court hears appeal
-  publish_date: '2026-02-11'
-  relation: related
-  strength: 0.5996
-- slug: 2026-03-02-jury-to-deliberate-father-s-fate-in-georgia-school-shooting-case
-  headline: Jury to deliberate father’s fate in Georgia school shooting case
-  publish_date: '2026-03-02'
-  relation: related
-  strength: 0.5857
 image:
   url: /articles/2026-07-31-jurors-visit-massachusetts-home-where-lindsay-clancy-killed-three-children.png
-  alt: "Illustration accompanying article: Jurors visit Massachusetts home where Lindsay Clancy killed three children"
+  alt: 'Illustration accompanying article: Jurors visit Massachusetts home where Lindsay
+    Clancy killed three children'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:openai/gpt-5.4-image-2"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Jurors visit Massachusetts home where Lindsay Clancy killed three children
 
 **Subtype:** fact

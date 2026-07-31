@@ -2,8 +2,13 @@
 headline: Televised Camp David Cabinet session offers Trump midterm platform
 secondary_headline: Trump cites Spain migrant surge as election warning
 publish_date: '2026-07-31'
-lede: President Donald Trump convened his Cabinet at the Camp David presidential retreat in Maryland on Friday in what the White House described as the first televised Cabinet meeting at the site. Trump opened by noting the rarity of the setting, then discussed the economy, the border and Iran before turning to a migrant surge in Spain, which he framed as a warning for U.S. voters ahead of the midterm elections.
-nut_graf: The meeting gave Trump a platform to discuss domestic policy and international developments while making an election-year argument for keeping Republicans in power.
+lede: President Donald Trump convened his Cabinet at the Camp David presidential retreat
+  in Maryland on Friday in what the White House described as the first televised Cabinet
+  meeting at the site. Trump opened by noting the rarity of the setting, then discussed
+  the economy, the border and Iran before turning to a migrant surge in Spain, which
+  he framed as a warning for U.S. voters ahead of the midterm elections.
+nut_graf: The meeting gave Trump a platform to discuss domestic policy and international
+  developments while making an election-year argument for keeping Republicans in power.
 primary_entities:
 - Donald Trump
 - Camp David
@@ -33,7 +38,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -131,56 +137,16 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-07-25-trump-delivers-speech-at-rescheduled-correspondents-dinner-addresses-press-and-r
-  headline: Trump delivers speech at rescheduled correspondents’ dinner, addresses press and rivals
-  publish_date: '2026-07-25'
-  relation: related
-  strength: 0.6413
-- slug: 2026-07-16-trump-addresses-elections-in-primetime-thursday-speech
-  headline: Trump addresses elections in primetime Thursday speech
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.6469
-- slug: 2026-07-08-trump-escalates-communist-attacks-on-democrats-ahead-of-midterms
-  headline: Trump escalates 'communist' attacks on Democrats ahead of midterms
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.6381
 - slug: 2026-06-27-trump-tests-red-scare-message-ahead-of-midterms-at-religious-conference
   headline: Trump tests ‘red scare’ message ahead of midterms at religious conference
   publish_date: '2026-06-27'
   relation: related
   strength: 0.6525
-- slug: 2026-06-26-trump-paints-democrats-as-godless-communists-in-midterm-preview
-  headline: Trump paints Democrats as 'godless communists' in midterm preview
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6367
-- slug: 2026-06-23-trump-tours-mack-trucks-plant-holds-campaign-style-rally-in-pennsylvania
-  headline: Trump tours Mack Trucks plant, holds campaign-style rally in Pennsylvania
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.6429
-- slug: 2026-06-08-trump-denies-he-ever-pledged-no-new-wars-contradicting-years-of-statements
-  headline: Trump denies he ever pledged no new wars, contradicting years of statements
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.6448
-- slug: 2026-06-07-trump-denies-iran-war-broke-no-new-wars-campaign-pledge
-  headline: Trump denies Iran war broke 'no new wars' campaign pledge
-  publish_date: '2026-06-07'
-  relation: related
-  strength: 0.6373
 - slug: 2026-04-26-trump-calls-for-unity-after-third-attempt-but-will-the-tone-last
   headline: Trump calls for unity after third attempt. But will the tone last?
   publish_date: '2026-04-26'
   relation: related
   strength: 0.655
-- slug: 2026-04-27-trump-calls-for-unity-after-hotel-breach-but-will-he-keep-the-tone
-  headline: Trump calls for unity after hotel breach. But will he keep the tone?
-  publish_date: '2026-04-27'
-  relation: related
-  strength: 0.6476
 - slug: 2026-02-26-trump-starts-midterm-message-push-after-state-of-the-union-trip-to-texas
   headline: Trump starts midterm message push after State of the Union trip to Texas
   publish_date: '2026-02-26'
@@ -201,16 +167,6 @@ related_stories:
   publish_date: '2026-03-26'
   relation: related
   strength: 0.6563
-- slug: 2026-04-06-trump-s-go-it-alone-certainty-confronts-wartime-uncertainty-and-limits
-  headline: Trump’s go-it-alone certainty confronts wartime uncertainty and limits
-  publish_date: '2026-04-06'
-  relation: related
-  strength: 0.6375
-- slug: 2026-03-25-trump-promises-bigger-gop-majorities-as-warning-signs-flash-for-party
-  headline: Trump promises bigger GOP majorities as warning signs flash for party
-  publish_date: '2026-03-25'
-  relation: related
-  strength: 0.647
 - slug: 2026-02-25-trump-makes-the-case-for-his-foreign-policy-at-state-of-the-union
   headline: Trump makes the case for his foreign policy at State of the Union
   publish_date: '2026-02-25'
@@ -221,27 +177,20 @@ related_stories:
   publish_date: '2026-01-30'
   relation: related
   strength: 0.6675
-- slug: 2026-02-26-trump-s-state-of-the-union-takeaways-economy-pitch-patriotism-and-rival-attacks
-  headline: 'Trump’s State of the Union takeaways: economy pitch, patriotism, and rival attacks'
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.6538
-- slug: 2026-02-23-what-to-watch-for-in-trump-s-state-of-the-union-address-as-midterms-loom
-  headline: What to watch for in Trump’s State of the Union address as midterms loom
-  publish_date: '2026-02-23'
-  relation: related
-  strength: 0.6553
 image:
   url: /articles/2026-07-31-televised-camp-david-cabinet-session-offers-trump-midterm-platform.png
-  alt: "Illustration accompanying article: Televised Camp David Cabinet session offers Trump midterm platform"
+  alt: 'Illustration accompanying article: Televised Camp David Cabinet session offers
+    Trump midterm platform'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:openai/gpt-5.4-image-2"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Televised Camp David Cabinet session offers Trump midterm platform
 
 **Subtype:** fact

@@ -2,8 +2,15 @@
 headline: Trump rallies in Michigan as tariffs become key issue for midterms
 secondary_headline: Tariffs cost Michigan businesses billions as inflation persists
 publish_date: '2026-07-30'
-lede: President Donald Trump flew to a General Motors plant in Milford, Michigan, on July 30 to tout his tariff policies, declaring that "it's amazing what tariffs will do for General Motors" and that "Michigan is thriving." Economic data and business costs offer a mixed picture ahead of the state's midterm elections, the Associated Press reported.
-nut_graf: Tariffs have cost businesses in Michigan and across the country billions of dollars while contributing to persistent inflation, according to the Associated Press. Consumer confidence remains low, and Trump's approval ratings have been hurt by rising prices, including higher gasoline costs linked to the war in Iran.
+lede: President Donald Trump flew to a General Motors plant in Milford, Michigan,
+  on July 30 to tout his tariff policies, declaring that "it's amazing what tariffs
+  will do for General Motors" and that "Michigan is thriving." Economic data and business
+  costs offer a mixed picture ahead of the state's midterm elections, the Associated
+  Press reported.
+nut_graf: Tariffs have cost businesses in Michigan and across the country billions
+  of dollars while contributing to persistent inflation, according to the Associated
+  Press. Consumer confidence remains low, and Trump's approval ratings have been hurt
+  by rising prices, including higher gasoline costs linked to the war in Iran.
 primary_entities:
 - Donald Trump
 - General Motors
@@ -40,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -56,7 +64,9 @@ figures:
   series_id: MICH
   transformation: raw
   as_of: 2026-07-30
-  caption: The University of Michigan's median one-year inflation expectations stood at 4.6% in July 2026, reflecting persistent household inflation concerns as tariffs and gasoline prices rose.
+  caption: The University of Michigan's median one-year inflation expectations stood
+    at 4.6% in July 2026, reflecting persistent household inflation concerns as tariffs
+    and gasoline prices rose.
 figures_aggregate:
   count: 1
   series_ids:
@@ -132,7 +142,8 @@ related_stories:
   relation: related
   strength: 0.738
 - slug: 2026-07-22-trump-scoffs-at-affordability-message-as-he-touts-baby-investment-accounts-in-ge
-  headline: Trump scoffs at 'affordability' message as he touts baby investment accounts in Georgia
+  headline: Trump scoffs at 'affordability' message as he touts baby investment accounts
+    in Georgia
   publish_date: '2026-07-22'
   relation: related
   strength: 0.696
@@ -142,12 +153,14 @@ related_stories:
   relation: related
   strength: 0.7619
 - slug: 2026-05-16-trump-returns-from-chinese-state-visit-to-face-inflation-and-affordability-press
-  headline: Trump returns from Chinese state visit to face inflation and affordability pressure
+  headline: Trump returns from Chinese state visit to face inflation and affordability
+    pressure
   publish_date: '2026-05-16'
   relation: related
   strength: 0.7374
 - slug: 2026-01-13-trump-visits-dearborn-ford-plant-defends-tariffs-as-voters-worry-about-rising-pr
-  headline: Trump visits Dearborn Ford plant, defends tariffs as voters worry about rising prices
+  headline: Trump visits Dearborn Ford plant, defends tariffs as voters worry about
+    rising prices
   publish_date: '2026-01-13'
   relation: related
   strength: 0.839
@@ -166,77 +179,20 @@ related_stories:
   publish_date: '2026-04-16'
   relation: related
   strength: 0.7439
-- slug: 2026-05-08-republicans-worry-michigan-takeover-hopes-are-slipping-amid-iran-gas
-  headline: Republicans worry Michigan takeover hopes are slipping amid Iran, gas
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.7105
-- slug: 2026-04-15-trump-bets-tax-cuts-for-tips-on-message-help-in-las-vegas-midterms
-  headline: Trump bets tax cuts for tips on message help in Las Vegas midterms
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.7321
-- slug: 2026-01-15-whitmer-warns-trump-s-tariffs-aid-china-as-auto-industry-faces-job-losses
-  headline: Whitmer warns Trump's tariffs aid China, as auto industry faces job losses
-  publish_date: '2026-01-15'
-  relation: related
-  strength: 0.748
-- slug: 2026-04-03-fact-check-trump-mischaracterizes-economy-and-iran-in-prime-time-address
-  headline: 'Fact check: Trump mischaracterizes economy and Iran in prime-time address'
-  publish_date: '2026-04-03'
-  relation: related
-  strength: 0.6942
-- slug: 2026-03-09-trump-s-roaring-economy-hits-rough-start-with-jobs-gas-markets
-  headline: Trump’s ‘roaring’ economy hits rough start with jobs, gas, markets
-  publish_date: '2026-03-09'
-  relation: related
-  strength: 0.7105
-- slug: 2026-02-20-trump-visits-georgia-as-republicans-seek-midterm-boost-amid-election-claims
-  headline: Trump visits Georgia as Republicans seek midterm boost amid election claims
-  publish_date: '2026-02-20'
-  relation: related
-  strength: 0.7174
-- slug: 2026-02-26-trump-sells-booming-economy-in-state-of-the-union-as-polls-stay-gloomy
-  headline: Trump sells booming economy in State of the Union as polls stay gloomy
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.7135
-- slug: 2026-03-26-trump-vows-bigger-gop-majorities-for-november-amid-warning-signs
-  headline: Trump vows bigger GOP majorities for November amid warning signs
-  publish_date: '2026-03-26'
-  relation: related
-  strength: 0.6934
-- slug: 2026-01-27-trump-campaigns-on-affordability-in-iowa-ahead-of-midterms
-  headline: Trump campaigns on affordability in Iowa ahead of midterms
-  publish_date: '2026-01-27'
-  relation: related
-  strength: 0.7216
-- slug: 2026-02-26-trump-s-state-of-the-union-takeaways-economy-pitch-patriotism-and-rival-attacks
-  headline: 'Trump’s State of the Union takeaways: economy pitch, patriotism, and rival attacks'
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.7074
-- slug: 2026-02-05-trump-credits-tariffs-for-growth-fact-check-finds-mixed-results-and-inflation
-  headline: Trump credits tariffs for growth. Fact-check finds mixed results and inflation
-  publish_date: '2026-02-05'
-  relation: related
-  strength: 0.7147
-- slug: 2026-03-12-trump-slams-fellow-republican-massie-during-kentucky-rally
-  headline: Trump slams fellow Republican Massie during Kentucky rally
-  publish_date: '2026-03-12'
-  relation: related
-  strength: 0.6917
 image:
   url: /articles/2026-07-30-trump-rallies-in-michigan-as-tariffs-become-key-issue-for-midterms.png
-  alt: "Illustration accompanying article: Trump rallies in Michigan as tariffs become key issue for midterms"
+  alt: 'Illustration accompanying article: Trump rallies in Michigan as tariffs become
+    key issue for midterms'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:openai/gpt-5.4-image-2"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Trump rallies in Michigan as tariffs become key issue for midterms
 
 **Subtype:** fact

@@ -1,9 +1,18 @@
 ---
 headline: Postal Service emerges as pivotal player in midterm election
-secondary_headline: Kansas and Michigan election officials urge voters to drop off ballots in person
+secondary_headline: Kansas and Michigan election officials urge voters to drop off
+  ballots in person
 publish_date: '2026-07-29'
-lede: With about six weeks until the first midterm ballots are mailed, the U.S. Postal Service has become a central player in an election season that will determine control of Congress. Democratic officials have raised concerns over the past week about how quickly the agency will process ballots after tens of thousands of ballots in California and hundreds in Wisconsin arrived too late to be counted in earlier elections this year.
-nut_graf: The Postal Service's role in the 2026 election is taking on heightened importance as a change to how the agency processes mail has drawn criticism that it is failing to deliver ballots on time, and President Donald Trump is seeking greater control over mail balloting through an executive order.
+lede: With about six weeks until the first midterm ballots are mailed, the U.S. Postal
+  Service has become a central player in an election season that will determine control
+  of Congress. Democratic officials have raised concerns over the past week about
+  how quickly the agency will process ballots after tens of thousands of ballots in
+  California and hundreds in Wisconsin arrived too late to be counted in earlier elections
+  this year.
+nut_graf: The Postal Service's role in the 2026 election is taking on heightened importance
+  as a change to how the agency processes mail has drawn criticism that it is failing
+  to deliver ballots on time, and President Donald Trump is seeking greater control
+  over mail balloting through an executive order.
 primary_entities:
 - United States Postal Service
 - Donald Trump
@@ -40,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,7 +149,8 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-07-24-wisconsin-lawsuit-seeks-to-allow-late-absentee-voters-to-cast-provisional-ballot
-  headline: Wisconsin lawsuit seeks to allow late absentee voters to cast provisional ballots
+  headline: Wisconsin lawsuit seeks to allow late absentee voters to cast provisional
+    ballots
   publish_date: '2026-07-24'
   relation: related
   strength: 0.7475
@@ -149,7 +160,8 @@ related_stories:
   relation: related
   strength: 0.7109
 - slug: 2026-06-25-usps-to-refuse-delivery-of-mail-ballots-in-states-that-withhold-voter-rolls
-  headline: USPS to refuse delivery of mail ballots in states that withhold voter rolls
+  headline: USPS to refuse delivery of mail ballots in states that withhold voter
+    rolls
   publish_date: '2026-06-25'
   relation: related
   strength: 0.7115
@@ -164,7 +176,8 @@ related_stories:
   relation: related
   strength: 0.6929
 - slug: 2026-06-16-trump-administration-uses-doj-fbi-executive-order-to-tighten-voting-rules
-  headline: Trump administration uses DOJ, FBI, executive order to tighten voting rules
+  headline: Trump administration uses DOJ, FBI, executive order to tighten voting
+    rules
   publish_date: '2026-06-16'
   relation: related
   strength: 0.6986
@@ -178,68 +191,7 @@ related_stories:
   publish_date: '2026-03-24'
   relation: related
   strength: 0.7503
-- slug: 2026-03-24-supreme-court-mail-ballot-case-could-force-states-to-redo-election-plans
-  headline: Supreme Court mail ballot case could force states to redo election plans
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.7491
-- slug: 2026-04-14-postal-workers-union-to-promote-mail-voting-in-national-tv-ads
-  headline: Postal workers union to promote mail voting in national TV ads
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.7264
-- slug: 2026-05-15-attorneys-argue-trump-election-order-exceeds-presidential-authority-in-federal-c
-  headline: Attorneys argue Trump election order exceeds presidential authority in federal court
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6767
-- slug: 2026-03-21-supreme-court-weighs-whether-to-allow-grace-periods-for-mail-ballots
-  headline: Supreme Court weighs whether to allow grace periods for mail ballots
-  publish_date: '2026-03-21'
-  relation: related
-  strength: 0.7504
-- slug: 2026-03-25-supreme-court-mail-ballot-case-puts-states-on-edge-for-november-voting
-  headline: Supreme Court mail-ballot case puts states on edge for November voting
-  publish_date: '2026-03-25'
-  relation: related
-  strength: 0.7434
-- slug: 2026-05-08-people-could-soon-ship-handguns-through-u-s-postal-service
-  headline: People could soon ship handguns through U.S. postal service
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.6729
-- slug: 2026-01-16-senators-warn-usps-postmark-changes-could-disenfranchise-mail-ballot-voters
-  headline: Senators warn USPS postmark changes could disenfranchise mail-ballot voters
-  publish_date: '2026-01-16'
-  relation: related
-  strength: 0.7417
-- slug: 2026-04-01-democrats-sue-to-block-trump-executive-order-restricting-mail-ballots
-  headline: Democrats sue to block Trump executive order restricting mail ballots
-  publish_date: '2026-04-01'
-  relation: related
-  strength: 0.6775
-- slug: 2025-12-29-democrats-warn-trump-could-interfere-in-2026-midterm-elections
-  headline: Democrats warn Trump could interfere in 2026 midterm elections
-  publish_date: '2025-12-29'
-  relation: related
-  strength: 0.7165
-- slug: 2026-04-02-democrats-sue-to-block-trump-executive-order-restricting-mail-ballots
-  headline: Democrats sue to block Trump executive order restricting mail ballots
-  publish_date: '2026-04-02'
-  relation: related
-  strength: 0.6671
-- slug: 2026-04-01-trump-signs-order-creating-national-voter-list-restricting-mail-ballots
-  headline: Trump signs order creating national voter list, restricting mail ballots
-  publish_date: '2026-04-01'
-  relation: related
-  strength: 0.6674
-- slug: 2026-03-23-mail-ballot-case-before-supreme-court-could-upend-voting-in-alaska
-  headline: Mail ballot case before Supreme Court could upend voting in Alaska
-  publish_date: '2026-03-23'
-  relation: related
-  strength: 0.669
 ---
-
 ## Postal Service emerges as pivotal player in midterm election
 
 **Subtype:** fact

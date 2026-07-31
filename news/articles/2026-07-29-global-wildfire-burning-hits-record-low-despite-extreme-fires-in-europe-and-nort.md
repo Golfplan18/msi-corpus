@@ -1,9 +1,15 @@
 ---
-headline: Global wildfire burning hits record low despite extreme fires in Europe and North America
-secondary_headline: Africa and Asia control more fire, pushing global burning to record lows
+headline: Global wildfire burning hits record low despite extreme fires in Europe
+  and North America
+secondary_headline: Africa and Asia control more fire, pushing global burning to record
+  lows
 publish_date: '2026-07-29'
-lede: Wildfires in Europe and North America are growing more extreme this summer, even as global wildfire statistics have fallen to record lows largely because Africa and Asia are controlling fire more, according to scientists and national wildfire agencies.
-nut_graf: Experts say these seemingly opposite trends are happening at the same time because of what humanity is doing to the planet.
+lede: Wildfires in Europe and North America are growing more extreme this summer,
+  even as global wildfire statistics have fallen to record lows largely because Africa
+  and Asia are controlling fire more, according to scientists and national wildfire
+  agencies.
+nut_graf: Experts say these seemingly opposite trends are happening at the same time
+  because of what humanity is doing to the planet.
 primary_entities:
 - Spain
 - Europe
@@ -41,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,113 +150,56 @@ related_stories:
   headline: Macron warns France faces worst wildfire crisis since World War II
   publish_date: '2026-07-28'
   relation: related
-  strength: 0.7058
+  strength: 0.7056
 - slug: 2026-07-31-record-early-el-ni-o-intensifies-as-un-warns-of-worsening-weather-extremes
   headline: Record-early El Niño intensifies as UN warns of worsening weather extremes
   publish_date: '2026-07-31'
   relation: related
-  strength: 0.6738
-- slug: 2026-07-27-first-pyrocumulonimbus-in-france-as-europe-wildfire-crisis-worsens
-  headline: First pyrocumulonimbus in France as Europe wildfire crisis worsens
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.6376
+  strength: 0.6728
 - slug: 2026-07-17-canada-battles-nearly-900-wildfires-as-trump-threatens-tariffs-over-smoke
   headline: Canada battles nearly 900 wildfires as Trump threatens tariffs over smoke
   publish_date: '2026-07-17'
   relation: related
-  strength: 0.6855
+  strength: 0.6863
 - slug: 2026-07-17-europe-heat-wave-linked-to-well-over-10-000-excess-deaths
   headline: Europe heat wave linked to well over 10,000 excess deaths
   publish_date: '2026-07-17'
   relation: related
-  strength: 0.6601
+  strength: 0.6605
 - slug: 2026-07-14-new-heatwave-spreads-extreme-temperatures-across-us-and-canada
   headline: New heatwave spreads extreme temperatures across US and Canada
   publish_date: '2026-07-14'
   relation: related
-  strength: 0.6748
-- slug: 2026-07-17-wildfire-smoke-affects-nearly-every-human-body-system-studies-find
-  headline: Wildfire smoke affects nearly every human body system, studies find
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.6419
-- slug: 2026-07-09-el-ni-o-odds-rise-to-81-for-historic-strength-event
-  headline: El Niño odds rise to 81% for historic-strength event
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.6413
+  strength: 0.6751
 - slug: 2026-06-29-who-says-europe-heatwave-linked-to-over-1-300-excess-deaths
   headline: WHO says Europe heatwave linked to over 1,300 excess deaths
   publish_date: '2026-06-29'
   relation: related
-  strength: 0.6731
+  strength: 0.6733
 - slug: 2026-07-02-european-heat-waves-and-floods-cost-43-billion-last-year-study-finds
   headline: European heat waves and floods cost $43 billion last year, study finds
   publish_date: '2026-07-02'
   relation: related
-  strength: 0.6512
+  strength: 0.6515
 - slug: 2026-06-26-study-finds-europe-heat-wave-impossible-without-climate-change
   headline: Study finds Europe heat wave impossible without climate change
   publish_date: '2026-06-26'
   relation: related
-  strength: 0.6568
-- slug: 2026-06-18-heat-waves-drive-42-of-western-us-wildfire-burn-area-study-finds
-  headline: Heat waves drive 42% of Western US wildfire burn area, study finds
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.685
-- slug: 2026-06-04-wildfire-smoke-reverses-us-ozone-progress-study-finds
-  headline: Wildfire smoke reverses US ozone progress, study finds
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.6643
-- slug: 2026-04-17-wildfire-burning-season-extends-36-in-north-america-due-to-climate-change
-  headline: Wildfire burning season extends 36% in North America due to climate change
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.7451
-- slug: 2026-05-19-scientists-revise-global-warming-projections-say-worst-and-best-cases-no-longer-
-  headline: Scientists revise global warming projections, say worst and best cases no longer plausible
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6523
-- slug: 2026-02-19-days-of-fire-prone-weather-nearly-triple-globally-as-climate-warms
-  headline: Days of fire-prone weather nearly triple globally as climate warms
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.7298
-- slug: 2026-04-25-wildfires-aren-t-just-out-west-climate-change-brings-blazes-east
-  headline: Wildfires aren’t just out West. Climate change brings blazes East
-  publish_date: '2026-04-25'
-  relation: related
-  strength: 0.6679
-- slug: 2026-02-10-climate-change-makes-extreme-wildfire-conditions-in-chile-and-argentina-up-to-3x
-  headline: Climate change makes extreme wildfire conditions in Chile and Argentina up to 3x more likely
-  publish_date: '2026-02-10'
-  relation: related
-  strength: 0.7292
-- slug: 2026-02-11-global-warming-fuels-deadly-wildfires-in-chile-and-argentina-s-patagonia
-  headline: Global warming fuels deadly wildfires in Chile and Argentina’s Patagonia
-  publish_date: '2026-02-11'
-  relation: related
-  strength: 0.7106
-- slug: 2026-04-18-record-drought-spans-61-of-us-threatening-food-and-wildfire-season
-  headline: Record drought spans 61% of US, threatening food and wildfire season
-  publish_date: '2026-04-18'
-  relation: related
-  strength: 0.6456
+  strength: 0.6567
 image:
   url: /articles/2026-07-29-global-wildfire-burning-hits-record-low-despite-extreme-fires-in-europe-and-nort.png
-  alt: "Illustration accompanying article: Global wildfire burning hits record low despite extreme fires in Europe and North America"
+  alt: 'Illustration accompanying article: Global wildfire burning hits record low
+    despite extreme fires in Europe and North America'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:openai/gpt-5.4-image-2"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Global wildfire burning hits record low despite extreme fires in Europe and North America
 
 **Subtype:** fact

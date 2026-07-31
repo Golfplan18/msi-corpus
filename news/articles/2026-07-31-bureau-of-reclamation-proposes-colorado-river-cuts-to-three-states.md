@@ -1,9 +1,18 @@
 ---
 headline: Bureau of Reclamation proposes Colorado River cuts to three states
-secondary_headline: Interior Department's 10-year plan spares Upper Basin states for now
+secondary_headline: Interior Department's 10-year plan spares Upper Basin states for
+  now
 publish_date: '2026-07-31'
-lede: The US Bureau of Reclamation on Friday released a plan proposing cuts of up to 3 million acre-feet annually in Colorado River water deliveries to California, Arizona and Nevada, according to a Department of the Interior press release. The reductions, which would apply "subject to hydrology," represent up to 40% of those states' combined allocation and enough water to serve more than 25 million people a year.
-nut_graf: The proposal is the federal government's response to a years-long impasse among the seven Colorado River basin states over how to allocate water reductions as the river's supply has declined. The current governing framework for the river is set to expire soon.
+lede: The US Bureau of Reclamation on Friday released a plan proposing cuts of up
+  to 3 million acre-feet annually in Colorado River water deliveries to California,
+  Arizona and Nevada, according to a Department of the Interior press release. The
+  reductions, which would apply "subject to hydrology," represent up to 40% of those
+  states' combined allocation and enough water to serve more than 25 million people
+  a year.
+nut_graf: The proposal is the federal government's response to a years-long impasse
+  among the seven Colorado River basin states over how to allocate water reductions
+  as the river's supply has declined. The current governing framework for the river
+  is set to expire soon.
 primary_entities:
 - Colorado River
 - Bureau of Reclamation
@@ -41,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,34 +153,22 @@ related_stories:
   headline: Lake Powell heads toward record low after spring runoff fails to recover
   publish_date: '2026-07-07'
   relation: related
-  strength: 0.6922
+  strength: 0.6912
 - slug: 2026-05-10-arizona-california-and-nevada-pledge-deep-water-cuts-to-save-colorado-river-rese
-  headline: Arizona, California and Nevada pledge deep water cuts to save Colorado River reservoirs
+  headline: Arizona, California and Nevada pledge deep water cuts to save Colorado
+    River reservoirs
   publish_date: '2026-05-10'
   relation: related
-  strength: 0.8642
-- slug: 2026-07-22-lake-powell-s-low-water-leaves-boat-ramps-dry-visitor-says
-  headline: Lake Powell's low water leaves boat ramps dry, visitor says
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.5999
-- slug: 2026-07-13-last-wild-colorado-river-tributary-faces-dam-debate-as-basin-dries
-  headline: Last wild Colorado River tributary faces dam debate as basin dries
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.6467
+  strength: 0.8641
 - slug: 2026-05-10-california-nevada-and-arizona-agree-on-colorado-river-cutbacks-through-2028
-  headline: California, Nevada and Arizona agree on Colorado River cutbacks through 2028
+  headline: California, Nevada and Arizona agree on Colorado River cutbacks through
+    2028
   publish_date: '2026-05-10'
   relation: related
-  strength: 0.8336
-- slug: 2026-07-13-yampa-river-flows-drop-by-quarter-as-colorado-basin-talks-stall
-  headline: Yampa River flows drop by quarter as Colorado basin talks stall
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.6245
+  strength: 0.8331
 - slug: 2026-05-26-cool-water-plan-for-grand-canyon-fish-weighs-ecological-gains-vs-lost-power
-  headline: Cool water plan for Grand Canyon fish weighs ecological gains vs lost power
+  headline: Cool water plan for Grand Canyon fish weighs ecological gains vs lost
+    power
   publish_date: '2026-05-26'
   relation: related
   strength: 0.75
@@ -178,69 +176,23 @@ related_stories:
   headline: Cool-water releases from Glen Canyon Dam protect fish but cut hydropower
   publish_date: '2026-05-27'
   relation: related
-  strength: 0.7261
+  strength: 0.726
 - slug: 2026-04-23-colorado-river-managers-plan-extra-releases-to-keep-lake-powell-hydropower
   headline: Colorado River managers plan extra releases to keep Lake Powell hydropower
   publish_date: '2026-04-23'
   relation: related
-  strength: 0.7711
+  strength: 0.7705
 - slug: 2026-04-22-colorado-river-releases-aim-to-keep-lake-powell-generating-electricity
   headline: Colorado River releases aim to keep Lake Powell generating electricity
   publish_date: '2026-04-22'
   relation: related
-  strength: 0.7444
+  strength: 0.7437
 - slug: 2026-02-16-colorado-river-talks-stall-as-arizona-california-nevada-press-us-west
   headline: Colorado River talks stall as Arizona, California, Nevada press US West
   publish_date: '2026-02-16'
   relation: related
-  strength: 0.7816
-- slug: 2026-04-02-record-low-colorado-snow-worries-cities-ranchers-and-water-talks-in-us-west
-  headline: Record-low Colorado snow worries cities, ranchers and water talks in US West
-  publish_date: '2026-04-02'
-  relation: related
-  strength: 0.6835
-- slug: 2026-05-15-trump-epa-proposes-rolling-back-limits-on-toxic-coal-wastewater
-  headline: Trump EPA proposes rolling back limits on toxic coal wastewater
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6137
-- slug: 2026-05-09-five-years-after-hurricane-ida-barataria-preserve-begins-repairs
-  headline: Five years after Hurricane Ida, Barataria Preserve begins repairs
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.6072
-- slug: 2026-05-08-epa-to-propose-rolling-back-some-biden-era-pfas-limits-in-drinking-water
-  headline: EPA to propose rolling back some Biden-era PFAS limits in drinking water
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.607
-- slug: 2026-04-30-epa-and-conservation-groups-challenge-wyoming-s-impaired-water-sample-limits
-  headline: EPA and conservation groups challenge Wyoming’s “impaired” water sample limits
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.6089
-- slug: 2026-01-13-epa-proposes-limits-on-state-clean-water-act-authority-for-pipelines-and-data-ce
-  headline: EPA proposes limits on state Clean Water Act authority for pipelines and data centers
-  publish_date: '2026-01-13'
-  relation: related
-  strength: 0.6387
-- slug: 2026-03-15-potomac-river-sewage-spill-after-january-pipe-collapse-raises-worries-past-dc
-  headline: Potomac River sewage spill after January pipe collapse raises worries past DC
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.6058
-- slug: 2026-03-15-east-texas-rancher-donates-water-rights-to-help-protect-caddo-lake
-  headline: East Texas rancher donates water rights to help protect Caddo Lake
-  publish_date: '2026-03-15'
-  relation: related
-  strength: 0.6044
-- slug: 2026-01-15-nevada-snowpack-hits-40-year-low-as-warm-winter-deepens-western-water-stress
-  headline: Nevada snowpack hits 40-year low as warm winter deepens Western water stress
-  publish_date: '2026-01-15'
-  relation: related
-  strength: 0.6176
+  strength: 0.7825
 ---
-
 ## Bureau of Reclamation proposes Colorado River cuts to three states
 
 **Subtype:** fact

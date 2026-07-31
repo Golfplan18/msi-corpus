@@ -1,9 +1,16 @@
 ---
 headline: Amazon surge lifts S&P 500 as Apple drop and oil concerns weigh
-secondary_headline: Amazon profit more than triples; analysts see AI investments paying off
+secondary_headline: Amazon profit more than triples; analysts see AI investments paying
+  off
 publish_date: '2026-07-31'
-lede: The U.S. stock market swung between gains and losses on Friday as a surge in Amazon.com shares offset a decline in Apple and the impact of rising oil prices on inflation. The S&P 500 index rose 0.6% in mid-afternoon trading, the Dow Jones Industrial Average climbed 0.5%, and the Nasdaq composite gained 0.8%.
-nut_graf: The mixed trading reflects strong corporate earnings from Amazon, with analysts noting that the company's artificial intelligence investments are beginning to pay off, though persistent inflation concerns driven partly by higher energy costs and a drop in Apple shares kept gains in check.
+lede: The U.S. stock market swung between gains and losses on Friday as a surge in
+  Amazon.com shares offset a decline in Apple and the impact of rising oil prices
+  on inflation. The S&P 500 index rose 0.6% in mid-afternoon trading, the Dow Jones
+  Industrial Average climbed 0.5%, and the Nasdaq composite gained 0.8%.
+nut_graf: The mixed trading reflects strong corporate earnings from Amazon, with analysts
+  noting that the company's artificial intelligence investments are beginning to pay
+  off, though persistent inflation concerns driven partly by higher energy costs and
+  a drop in Apple shares kept gains in check.
 primary_entities:
 - Amazon
 - Apple
@@ -46,7 +53,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,6 +152,11 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-07-30-microsoft-surges-15-5-on-ai-profit-signal-lifting-wall-street
+  headline: Microsoft surges 15.5% on AI profit signal, lifting Wall Street
+  publish_date: '2026-07-30'
+  relation: related
+  strength: 0.7739
 - slug: 2026-07-22-asian-shares-rise-after-ai-stocks-lead-wall-street-higher
   headline: Asian shares rise after AI stocks lead Wall Street higher
   publish_date: '2026-07-22'
@@ -160,12 +173,14 @@ related_stories:
   relation: related
   strength: 0.7774
 - slug: 2026-05-15-cisco-boosts-wall-street-records-s-p-hits-another-high-dow-reclaims-50-000
-  headline: Cisco boosts Wall Street records; S&P hits another high, Dow reclaims 50,000
+  headline: Cisco boosts Wall Street records; S&P hits another high, Dow reclaims
+    50,000
   publish_date: '2026-05-15'
   relation: related
   strength: 0.7647
 - slug: 2026-05-14-tech-stocks-push-wall-street-to-records-while-inflation-data-weighs-on-broader-m
-  headline: Tech stocks push Wall Street to records while inflation data weighs on broader market
+  headline: Tech stocks push Wall Street to records while inflation data weighs on
+    broader market
   publish_date: '2026-05-14'
   relation: related
   strength: 0.7649
@@ -179,82 +194,20 @@ related_stories:
   publish_date: '2026-05-20'
   relation: related
   strength: 0.7399
-- slug: 2026-05-13-wall-street-s-record-run-halts-as-ai-chip-stocks-slide-and-oil-rises
-  headline: Wall Street’s record run halts as AI chip stocks slide and oil rises
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.7443
-- slug: 2026-04-29-sinking-ai-stocks-and-rising-oil-prices-weigh-on-wall-street
-  headline: Sinking AI stocks and rising oil prices weigh on Wall Street
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.7458
-- slug: 2026-04-28-u-s-stocks-inch-to-more-records-as-oil-rises-before-major-earnings-week
-  headline: U.S. stocks inch to more records as oil rises before major earnings week
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.74
-- slug: 2026-04-25-intel-s-results-lift-wall-street-to-more-records-as-oil-stays-volatile
-  headline: Intel’s results lift Wall Street to more records as oil stays volatile
-  publish_date: '2026-04-25'
-  relation: related
-  strength: 0.7417
-- slug: 2026-02-18-us-stocks-edge-higher-after-swinging-through-worries-about-ai-and-the-economy
-  headline: US stocks edge higher after swinging through worries about AI and the economy
-  publish_date: '2026-02-18'
-  relation: related
-  strength: 0.794
-- slug: 2026-04-14-wall-street-rallies-as-oil-prices-ease-on-u-s--iran-talk-hopes
-  headline: Wall Street Rallies as Oil Prices Ease on U.S.-Iran Talk Hopes
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.7402
-- slug: 2026-02-08-u-s-stocks-surge-dow-tops-50-000-as-bitcoin-stabilizes
-  headline: U.S. stocks surge, Dow tops 50,000 as bitcoin stabilizes
-  publish_date: '2026-02-08'
-  relation: related
-  strength: 0.7849
-- slug: 2026-02-25-u-s-stocks-rebound-after-ai-deal-optimism-offsets-earlier-selloff
-  headline: U.S. stocks rebound after AI deal optimism offsets earlier selloff
-  publish_date: '2026-02-25'
-  relation: related
-  strength: 0.7749
-- slug: 2026-02-26-tech-stocks-lift-wall-street-nvidia-shares-rise-ahead-of-results
-  headline: Tech stocks lift Wall Street; Nvidia shares rise ahead of results
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.7599
-- slug: 2026-02-28-u-s-stocks-fall-as-ai-worries-higher-inflation-and-iran-tensions-hit
-  headline: U.S. stocks fall as AI worries, higher inflation and Iran tensions hit
-  publish_date: '2026-02-28'
-  relation: related
-  strength: 0.754
-- slug: 2026-01-06-s-p-500-hits-record-on-third-trading-day-as-big-tech-leads-broad-gains
-  headline: S&P 500 hits record on third trading day as Big Tech leads broad gains
-  publish_date: '2026-01-06'
-  relation: related
-  strength: 0.7661
-- slug: 2026-02-20-us-stocks-slip-as-ai-worries-and-iran-tension-lift-oil-prices
-  headline: US stocks slip as AI worries and Iran tension lift oil prices
-  publish_date: '2026-02-20'
-  relation: related
-  strength: 0.7471
-- slug: 2026-02-13-us-stocks-drop-sharply-as-investors-price-ai-winners-and-losers
-  headline: US stocks drop sharply as investors price AI winners and losers
-  publish_date: '2026-02-13'
-  relation: related
-  strength: 0.746
 image:
   url: /articles/2026-07-31-amazon-surge-lifts-s-p-500-as-apple-drop-and-oil-concerns-weigh.png
-  alt: "Illustration accompanying article: Amazon surge lifts S&P 500 as Apple drop and oil concerns weigh"
+  alt: 'Illustration accompanying article: Amazon surge lifts S&P 500 as Apple drop
+    and oil concerns weigh'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:openai/gpt-5.4-image-2"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Amazon surge lifts S&P 500 as Apple drop and oil concerns weigh
 
 **Subtype:** fact

@@ -2,8 +2,14 @@
 headline: Trump administration proposes English requirement for Mexican train crews
 secondary_headline: Unions back rule tightening crew certification standards
 publish_date: '2026-07-31'
-lede: The Trump administration on Friday proposed a rule requiring Mexican train crews hauling freight across the U.S. border to demonstrate English proficiency, citing safety concerns and the need to protect American jobs. The proposed rule would also strengthen standards for certifying that train crews can operate safely.
-nut_graf: The rule would directly affect Union Pacific and CPKC, the two railroads that use Mexican crews to cross freight into the United States. The proposal addresses findings from December inspections that revealed crews often had difficulty understanding English.
+lede: The Trump administration on Friday proposed a rule requiring Mexican train crews
+  hauling freight across the U.S. border to demonstrate English proficiency, citing
+  safety concerns and the need to protect American jobs. The proposed rule would also
+  strengthen standards for certifying that train crews can operate safely.
+nut_graf: The rule would directly affect Union Pacific and CPKC, the two railroads
+  that use Mexican crews to cross freight into the United States. The proposal addresses
+  findings from December inspections that revealed crews often had difficulty understanding
+  English.
 primary_entities:
 - Trump administration
 - Federal Railroad Administration
@@ -39,7 +45,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -138,107 +145,17 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-07-24-trump-administration-promotes-veteran-cdl-pathways-to-offset-immigrant-driver-lo
-  headline: Trump administration promotes veteran CDL pathways to offset immigrant driver losses
+  headline: Trump administration promotes veteran CDL pathways to offset immigrant
+    driver losses
   publish_date: '2026-07-24'
   relation: related
   strength: 0.6596
-- slug: 2026-07-16-trump-administration-caps-foreign-student-visas-at-four-years
-  headline: Trump administration caps foreign student visas at four years
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.5937
-- slug: 2026-07-09-epa-proposes-scaling-back-heavy-duty-truck-emissions-rules
-  headline: EPA proposes scaling back heavy-duty truck emissions rules
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.6207
-- slug: 2026-07-02-trump-administration-builds-30-foot-smart-wall-along-u-s--mexico-border
-  headline: Trump administration builds 30-foot smart wall along U.S.-Mexico border
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.6109
-- slug: 2026-06-12-treasury-tells-banks-to-flag-customers-without-legal-status
-  headline: Treasury tells banks to flag customers without legal status
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.5971
-- slug: 2026-06-10-cftc-to-propose-new-rules-for-prediction-markets-allow-most-sports-bets
-  headline: CFTC to propose new rules for prediction markets, allow most sports bets
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.6003
-- slug: 2026-06-05-treasury-asks-banks-casinos-to-flag-illegal-immigrant-labor-schemes
-  headline: Treasury asks banks, casinos to flag illegal immigrant labor schemes
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.6062
-- slug: 2026-05-26-trump-administration-proposes-ndas-for-current-and-future-federal-employees
-  headline: Trump administration proposes NDAs for current and future federal employees
-  publish_date: '2026-05-26'
-  relation: related
-  strength: 0.6129
-- slug: 2026-05-22-trump-administration-requires-green-card-applicants-to-apply-from-abroad
-  headline: Trump administration requires green card applicants to apply from abroad
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6143
-- slug: 2026-05-21-trump-order-pushes-banks-to-check-customers-citizenship-status
-  headline: Trump order pushes banks to check customers' citizenship status
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6045
-- slug: 2026-05-10-6-found-dead-in-shipping-container-at-union-pacific-rail-yard-in-texas
-  headline: 6 found dead in shipping container at Union Pacific rail yard in Texas
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6158
-- slug: 2026-05-19-trump-order-pushes-banks-to-check-customers-citizenship-status
-  headline: Trump order pushes banks to check customers' citizenship status
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.5932
 - slug: 2026-02-21-us-commercial-driver-s-license-tests-must-be-taken-in-english
   headline: US commercial driver’s license tests must be taken in English
   publish_date: '2026-02-21'
   relation: related
   strength: 0.6804
-- slug: 2026-05-10-six-found-dead-in-shipping-container-at-texas-rail-yard-heat-stroke-suspected
-  headline: Six found dead in shipping container at Texas rail yard; heat stroke suspected
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.5962
-- slug: 2026-04-22-sheinbaum-demands-explanations-after-us-embassy-officials-die-in-chihuahua
-  headline: Sheinbaum demands explanations after US Embassy officials die in Chihuahua
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.6096
-- slug: 2026-04-29-trump-seeks-new-import-taxes-after-supreme-court-tariff-rejection
-  headline: Trump seeks new import taxes after Supreme Court tariff rejection
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.5968
-- slug: 2026-04-27-latest-u-s-strike-on-suspected-drug-boat-kills-3-in-eastern-pacific
-  headline: Latest U.S. strike on suspected drug boat kills 3 in eastern Pacific
-  publish_date: '2026-04-27'
-  relation: related
-  strength: 0.5976
-- slug: 2026-03-22-trump-says-ice-will-work-airport-security-unless-democrats-fund-dhs
-  headline: Trump says ICE will work airport security unless Democrats fund DHS
-  publish_date: '2026-03-22'
-  relation: related
-  strength: 0.6207
-- slug: 2026-03-25-texas-commission-adopts-rule-requiring-proof-of-legal-immigration-status-for-lic
-  headline: Texas commission adopts rule requiring proof of legal immigration status for licenses
-  publish_date: '2026-03-25'
-  relation: related
-  strength: 0.6133
-- slug: 2026-03-23-trump-threatens-ice-role-at-airports-starting-monday-amid-dhs-funding-fight
-  headline: Trump threatens ICE role at airports starting Monday amid DHS funding fight
-  publish_date: '2026-03-23'
-  relation: related
-  strength: 0.6109
 ---
-
 ## Trump administration proposes English requirement for Mexican train crews
 
 **Subtype:** fact

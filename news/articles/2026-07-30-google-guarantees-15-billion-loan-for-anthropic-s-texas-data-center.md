@@ -1,9 +1,16 @@
 ---
 headline: Google guarantees $15 billion loan for Anthropic's Texas data center
-secondary_headline: Nexus Data Centers to build 1.6-gigawatt campus with on-site power plant
+secondary_headline: Nexus Data Centers to build 1.6-gigawatt campus with on-site power
+  plant
 publish_date: '2026-07-30'
-lede: Google has provided financial guarantees to secure $15 billion in debt financing for an Anthropic data center campus in Hubbard, Texas, according to people familiar with the matter. A consortium of banks led by Morgan Stanley is in advanced talks to lend the amount to Nexus Data Centers, with Google backstopping lease and power obligations.
-nut_graf: The deal involves investment-grade technology firms financing infrastructure for a younger AI developer. In exchange for its support, Google is expected to receive a roughly 20% equity stake in the data-center and power project.
+lede: Google has provided financial guarantees to secure $15 billion in debt financing
+  for an Anthropic data center campus in Hubbard, Texas, according to people familiar
+  with the matter. A consortium of banks led by Morgan Stanley is in advanced talks
+  to lend the amount to Nexus Data Centers, with Google backstopping lease and power
+  obligations.
+nut_graf: The deal involves investment-grade technology firms financing infrastructure
+  for a younger AI developer. In exchange for its support, Google is expected to receive
+  a roughly 20% equity stake in the data-center and power project.
 primary_entities:
 - Google
 - Anthropic
@@ -45,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,108 +151,23 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-07-20-blackrock-markets-12-billion-debt-for-meta-s-el-paso-data-center
-  headline: BlackRock markets $12 billion debt for Meta's El Paso data center
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.6279
-- slug: 2026-07-17-spacex-in-talks-with-pentagon-to-provide-billions-in-ai-computing-capacity
-  headline: SpaceX in talks with Pentagon to provide billions in AI computing capacity
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.6218
-- slug: 2026-07-07-nscale-lands-900-million-revolving-facility-to-expand-ai-data-centers-in-three-r
-  headline: Nscale lands $900 million revolving facility to expand AI data centers in three regions
-  publish_date: '2026-07-07'
-  relation: related
-  strength: 0.636
-- slug: 2026-07-10-qcells-wins-epc-contract-for-massive-arizona-solar-storage-complex
-  headline: Qcells wins EPC contract for massive Arizona solar-storage complex
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.5954
-- slug: 2026-07-07-big-tech-ai-capex-set-to-hit-168-billion-in-q2-as-meta-weighs-renting-out-spare-
-  headline: Big Tech AI capex set to hit $168 billion in Q2 as Meta weighs renting out spare capacity
-  publish_date: '2026-07-07'
-  relation: related
-  strength: 0.6099
-- slug: 2026-06-30-lutnick-announces-deal-to-restore-anthropic-s-fable-5-access
-  headline: Lutnick announces deal to restore Anthropic's Fable 5 access
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.6227
-- slug: 2026-06-24-amazon-and-google-lead-ai-power-race-but-strategies-diverge
-  headline: Amazon and Google Lead AI Power Race, but Strategies Diverge
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.6281
-- slug: 2026-06-28-chinese-ai-matches-anthropic-in-cybersecurity-narrowing-u-s-lead
-  headline: Chinese AI matches Anthropic in cybersecurity, narrowing U.S. lead
-  publish_date: '2026-06-28'
-  relation: related
-  strength: 0.5943
 - slug: 2026-06-09-wall-street-funnels-record-capital-to-ai-build-out-across-equity-and-debt-market
-  headline: Wall Street funnels record capital to AI build-out across equity and debt markets
+  headline: Wall Street funnels record capital to AI build-out across equity and debt
+    markets
   publish_date: '2026-06-09'
   relation: related
-  strength: 0.6532
+  strength: 0.653
 - slug: 2026-06-01-alphabet-plans-80-billion-equity-raise-to-fund-ai-infrastructure-expansion
   headline: Alphabet plans $80 billion equity raise to fund AI infrastructure expansion
   publish_date: '2026-06-01'
   relation: related
-  strength: 0.6575
-- slug: 2026-06-11-anthropic-launches-150m-claude-corps-to-embed-ai-fellows-at-nonprofits
-  headline: Anthropic launches $150M Claude Corps to embed AI fellows at nonprofits
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.6135
-- slug: 2026-06-14-tech-ipos-set-to-deliver-billions-in-charitable-giving-experts-say
-  headline: Tech IPOs Set to Deliver Billions in Charitable Giving, Experts Say
-  publish_date: '2026-06-14'
-  relation: related
-  strength: 0.6014
-- slug: 2026-06-01-anthropic-files-for-ipo-as-ai-memory-crunch-extends-to-2028-in-tech-roundups
-  headline: Anthropic files for IPO as AI memory crunch extends to 2028 in tech roundups
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.6202
+  strength: 0.6566
 - slug: 2026-04-21-anthropic-commits-100-billion-to-amazon-cloud-platform-over-decade
   headline: Anthropic commits $100 billion to Amazon cloud platform over decade
   publish_date: '2026-04-21'
   relation: related
-  strength: 0.6783
-- slug: 2026-05-29-anthropic-vaults-to-965b-valuation-on-65b-funding-as-claude-demand-surges
-  headline: Anthropic vaults to $965B valuation on $65B funding as Claude demand surges
-  publish_date: '2026-05-29'
-  relation: related
-  strength: 0.5937
-- slug: 2026-05-10-google-disrupts-ai-driven-cyberattack-exploiting-unknown-software-vulnerability
-  headline: Google disrupts AI-driven cyberattack exploiting unknown software vulnerability
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6158
-- slug: 2026-05-19-google-i-o-2026-ai-assistant-gemini-spark-leads-new-agentic-tools
-  headline: 'Google I/O 2026: AI assistant Gemini Spark leads new agentic tools'
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.5938
-- slug: 2026-05-10-google-says-it-disrupted-an-ai-driven-effort-to-exploit-a-software-bug
-  headline: Google says it disrupted an AI-driven effort to exploit a software bug
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6096
-- slug: 2026-05-02-pentagon-signs-deals-with-7-firms-to-bring-ai-into-classified-networks
-  headline: Pentagon signs deals with 7 firms to bring AI into classified networks
-  publish_date: '2026-05-02'
-  relation: related
-  strength: 0.61
-- slug: 2026-02-13-anthropic-hits-a-380b-valuation-as-it-heightens-rivalry-with-openai
-  headline: Anthropic hits a $380B valuation as it heightens rivalry with OpenAI
-  publish_date: '2026-02-13'
-  relation: related
-  strength: 0.6364
+  strength: 0.6782
 ---
-
 ## Google guarantees $15 billion loan for Anthropic's Texas data center
 
 **Subtype:** fact

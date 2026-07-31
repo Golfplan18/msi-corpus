@@ -2,8 +2,12 @@
 headline: xAI sues Minnesota over state ban on AI nudification technology
 secondary_headline: Suit argues Minnesota law extends beyond nonconsensual deepfakes
 publish_date: '2026-07-29'
-lede: Elon Musk's company xAI filed a lawsuit Monday in federal court challenging Minnesota's law that bans AI-powered nudification technology on websites and apps, arguing the statute goes beyond preventing nonconsensual deepfakes and restricts protected speech.
-nut_graf: The case potentially provides a test for how far states can go in constitutionally regulating the use of artificial intelligence.
+lede: Elon Musk's company xAI filed a lawsuit Monday in federal court challenging
+  Minnesota's law that bans AI-powered nudification technology on websites and apps,
+  arguing the statute goes beyond preventing nonconsensual deepfakes and restricts
+  protected speech.
+nut_graf: The case potentially provides a test for how far states can go in constitutionally
+  regulating the use of artificial intelligence.
 primary_entities:
 - Elon Musk
 - xAI
@@ -40,7 +44,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -139,7 +144,8 @@ related_stories:
   relation: related
   strength: 0.6912
 - slug: 2026-06-17-doj-seeks-to-quash-environmental-lawsuit-against-musk-s-xai-citing-national-secu
-  headline: DOJ seeks to quash environmental lawsuit against Musk's xAI, citing national security
+  headline: DOJ seeks to quash environmental lawsuit against Musk's xAI, citing national
+    security
   publish_date: '2026-06-17'
   relation: related
   strength: 0.6673
@@ -158,68 +164,7 @@ related_stories:
   publish_date: '2026-05-21'
   relation: related
   strength: 0.6672
-- slug: 2026-05-18-neither-openai-or-musk-emerge-unscathed-in-landmark-trial
-  headline: Neither OpenAI or Musk emerge unscathed in landmark trial
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.6715
-- slug: 2026-05-21-two-men-charged-with-ai-deepfake-porn-under-new-take-it-down-law
-  headline: Two men charged with AI deepfake porn under new ‘Take It Down’ law
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6647
-- slug: 2026-05-19-jury-sides-with-openai-in-musk-trial-neither-side-unscathed
-  headline: Jury sides with OpenAI in Musk trial; neither side unscathed
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6684
-- slug: 2026-05-22-trump-signs-take-it-down-act-aimed-at-deepfake-and-revenge-porn-abuse
-  headline: Trump signs Take It Down Act aimed at deepfake and revenge porn abuse
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6578
-- slug: 2026-05-23-two-men-charged-with-creating-ai-porn-of-female-celebrities-under-new-law
-  headline: Two men charged with creating AI porn of female celebrities under new law
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6525
-- slug: 2026-05-08-french-prosecutors-seek-charges-against-elon-musk-and-x-over-child-abuse-images
-  headline: French prosecutors seek charges against Elon Musk and X over child abuse images
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.6706
-- slug: 2026-05-15-closing-arguments-set-in-musk-and-openai-trial-over-nonprofit-break
-  headline: Closing arguments set in Musk and OpenAI trial over nonprofit break
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6496
-- slug: 2026-01-16-ashley-st-clair-sues-xai-over-grok-deepfakes-company-countersues-in-texas-court
-  headline: Ashley St. Clair sues xAI over Grok deepfakes; company countersues in Texas court
-  publish_date: '2026-01-16'
-  relation: related
-  strength: 0.752
-- slug: 2026-04-28-musk-and-altman-go-to-trial-over-openai-s-nonprofit-origins
-  headline: Musk and Altman go to trial over OpenAI’s nonprofit origins
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.6623
-- slug: 2026-05-04-trial-could-change-meta-apps-and-algorithms-as-new-mexico-seeks-safeguards
-  headline: Trial could change Meta apps and algorithms as New Mexico seeks safeguards
-  publish_date: '2026-05-04'
-  relation: related
-  strength: 0.6512
-- slug: 2026-05-01-elon-musk-spars-with-openai-attorney-in-trial-over-nonprofit-origins
-  headline: Elon Musk spars with OpenAI attorney in trial over nonprofit origins
-  publish_date: '2026-05-01'
-  relation: related
-  strength: 0.6555
-- slug: 2026-04-29-elon-musk-testifies-as-trial-against-openai-ceo-sam-altman-begins
-  headline: Elon Musk testifies as trial against OpenAI CEO Sam Altman begins
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.657
 ---
-
 ## xAI sues Minnesota over state ban on AI nudification technology
 
 **Subtype:** fact

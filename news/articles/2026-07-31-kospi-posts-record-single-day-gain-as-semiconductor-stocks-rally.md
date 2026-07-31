@@ -1,9 +1,18 @@
 ---
 headline: KOSPI posts record single-day gain as semiconductor stocks rally
-secondary_headline: Microsoft quarterly results beat forecasts, easing AI spending fear
+secondary_headline: Microsoft quarterly results beat forecasts, easing AI spending
+  fear
 publish_date: '2026-07-31'
-lede: The Korea Composite Stock Price Index (KOSPI) surged 1,001.89 points, or 17.91 percent, to close at 6,595.45 on Friday, its largest single-day gain on record. The rally reversed three straight sessions of steep declines that had erased more than 17 percent of market value, driven by semiconductor stocks after Microsoft reported quarterly earnings that beat analyst forecasts late Thursday.
-nut_graf: The KOSPI's record single-day gain came after a week in which anxiety over the profitability of heavy artificial intelligence infrastructure spending had pushed South Korean tech shares lower. Friday's buying, led by foreign and institutional investors, followed Microsoft's better-than-expected earnings report, which beat analyst forecasts for sales and cloud-computing growth.
+lede: The Korea Composite Stock Price Index (KOSPI) surged 1,001.89 points, or 17.91
+  percent, to close at 6,595.45 on Friday, its largest single-day gain on record.
+  The rally reversed three straight sessions of steep declines that had erased more
+  than 17 percent of market value, driven by semiconductor stocks after Microsoft
+  reported quarterly earnings that beat analyst forecasts late Thursday.
+nut_graf: The KOSPI's record single-day gain came after a week in which anxiety over
+  the profitability of heavy artificial intelligence infrastructure spending had pushed
+  South Korean tech shares lower. Friday's buying, led by foreign and institutional
+  investors, followed Microsoft's better-than-expected earnings report, which beat
+  analyst forecasts for sales and cloud-computing growth.
 primary_entities:
 - KOSPI
 - Samsung Electronics
@@ -45,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -143,108 +153,47 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-07-30-microsoft-surges-15-5-on-ai-profit-signal-lifting-wall-street
+  headline: Microsoft surges 15.5% on AI profit signal, lifting Wall Street
+  publish_date: '2026-07-30'
+  relation: related
+  strength: 0.7274
 - slug: 2026-07-28-south-korea-s-kospi-plunges-10-5-on-ai-chip-stock-selloff
   headline: South Korea's Kospi plunges 10.5% on AI chip stock selloff
   publish_date: '2026-07-28'
   relation: related
-  strength: 0.715
+  strength: 0.7152
 - slug: 2026-07-10-third-trading-curb-this-week-halts-kospi-on-chip-rally
   headline: Third trading curb this week halts KOSPI on chip rally
   publish_date: '2026-07-10'
   relation: related
-  strength: 0.7965
+  strength: 0.7968
 - slug: 2026-06-30-kospi-adds-0-97-on-tech-gains-as-us-iran-qatar-talks-loom
   headline: KOSPI adds 0.97% on tech gains as US-Iran Qatar talks loom
   publish_date: '2026-06-30'
   relation: related
-  strength: 0.8134
+  strength: 0.8131
 - slug: 2026-06-25-kospi-surges-over-5-reclaims-9-000-intraday-on-micron-earnings
   headline: KOSPI surges over 5%, reclaims 9,000 intraday on Micron earnings
   publish_date: '2026-06-25'
   relation: related
-  strength: 0.8293
+  strength: 0.8292
 - slug: 2026-07-22-asian-shares-rise-after-ai-stocks-lead-wall-street-higher
   headline: Asian shares rise after AI stocks lead Wall Street higher
   publish_date: '2026-07-22'
   relation: related
-  strength: 0.6916
+  strength: 0.6921
 - slug: 2026-07-20-south-korea-s-kospi-drops-nearly-5-as-ai-selloff-oil-surge-continue
   headline: South Korea's Kospi drops nearly 5% as AI selloff, oil surge continue
   publish_date: '2026-07-20'
   relation: related
-  strength: 0.6996
+  strength: 0.7002
 - slug: 2026-07-16-kospi-drops-6-4-after-bok-rate-hike-u-s--iran-strikes
   headline: KOSPI drops 6.4% after BOK rate hike, U.S.-Iran strikes
   publish_date: '2026-07-16'
   relation: related
-  strength: 0.7124
-- slug: 2026-07-16-kospi-slides-6-4-into-bear-market-as-ai-chip-selloff-spreads
-  headline: KOSPI slides 6.4% into bear market as AI chip selloff spreads
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.7117
-- slug: 2026-07-13-kospi-falls-8-95-on-tech-losses-as-u-s-and-iran-exchange-strikes-over-strait-of-
-  headline: KOSPI falls 8.95% on tech losses as U.S. and Iran exchange strikes over Strait of Hormuz
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.7137
-- slug: 2026-06-29-chipmakers-samsung-and-sk-hynix-lead-kospi-s-125-first-half-rally
-  headline: Chipmakers Samsung and SK Hynix lead Kospi's 125% first-half rally
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.7783
-- slug: 2026-07-07-kospi-falls-nearly-5-on-tech-weakness-after-samsung-earnings-beat
-  headline: KOSPI falls nearly 5% on tech weakness after Samsung earnings beat
-  publish_date: '2026-07-07'
-  relation: related
-  strength: 0.735
-- slug: 2026-06-22-seoul-shares-close-at-fresh-peak-above-9-100-on-chip-gains-iran-talks
-  headline: Seoul shares close at fresh peak above 9,100 on chip gains, Iran talks
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.7862
-- slug: 2026-06-09-seoul-shares-jump-over-8-on-ai-rebound-iran-israel-ceasefire
-  headline: Seoul shares jump over 8% on AI rebound, Iran-Israel ceasefire
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.8243
-- slug: 2026-06-18-seoul-s-kospi-tops-9-000-for-first-time-on-chip-rally-iran-war-hopes
-  headline: Seoul's KOSPI tops 9,000 for first time on chip rally, Iran war hopes
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.7938
-- slug: 2026-07-02-kospi-falls-7-89-as-ai-capacity-concerns-hit-chip-stocks
-  headline: KOSPI falls 7.89% as AI capacity concerns hit chip stocks
-  publish_date: '2026-07-02'
-  relation: related
-  strength: 0.7318
-- slug: 2026-06-23-kospi-crashes-10-as-tech-selloff-hits-south-korea
-  headline: KOSPI crashes 10% as tech selloff hits South Korea
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.7418
-- slug: 2026-06-12-seoul-stocks-spike-over-4-on-hopes-for-end-to-us-iran-war
-  headline: Seoul stocks spike over 4% on hopes for end to US-Iran war
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.7632
-- slug: 2026-06-08-south-korean-stocks-crash-8-on-ai-profit-fears-fed-rate-concerns
-  headline: South Korean stocks crash 8% on AI profit fears, Fed rate concerns
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.7603
-- slug: 2026-06-15-seoul-stocks-close-above-8-500-on-us-iran-peace-deal
-  headline: Seoul stocks close above 8,500 on US-Iran peace deal
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.7253
-- slug: 2026-06-08-asian-stocks-tumble-oil-jumps-as-middle-east-conflict-reignites
-  headline: Asian stocks tumble, oil jumps as Middle East conflict reignites
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.6634
+  strength: 0.7126
 ---
-
 ## KOSPI posts record single-day gain as semiconductor stocks rally
 
 **Subtype:** fact

@@ -1,9 +1,14 @@
 ---
 headline: West Virginia flood kills 2 as prevention plans remain largely unfulfilled
-secondary_headline: Flood resilience office funded after 2016 but more study needed, advocate says
+secondary_headline: Flood resilience office funded after 2016 but more study needed,
+  advocate says
 publish_date: '2026-07-29'
-lede: At least two people died and dozens of homes were damaged when major flooding struck north central West Virginia, with Lewis and Upshur counties bearing the brunt of the storm.
-nut_graf: The flood revived questions about the state's preparedness after a deadly 2016 disaster prompted officials to create a dedicated prevention office that advocates say has seen limited follow-through.
+lede: At least two people died and dozens of homes were damaged when major flooding
+  struck north central West Virginia, with Lewis and Upshur counties bearing the brunt
+  of the storm.
+nut_graf: The flood revived questions about the state's preparedness after a deadly
+  2016 disaster prompted officials to create a dedicated prevention office that advocates
+  say has seen limited follow-through.
 primary_entities:
 - West Virginia
 - Lewis County
@@ -41,7 +46,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -144,112 +150,20 @@ related_stories:
   publish_date: '2026-07-22'
   relation: related
   strength: 0.6958
-- slug: 2026-07-24-abbott-confirms-third-texas-flood-death-warns-of-dangers-downstream
-  headline: Abbott confirms third Texas flood death, warns of dangers downstream
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.6175
-- slug: 2026-07-18-texas-flood-warnings-improve-as-2-die-hundreds-rescued
-  headline: Texas flood warnings improve as 2 die, hundreds rescued
-  publish_date: '2026-07-18'
-  relation: related
-  strength: 0.6393
-- slug: 2026-07-22-presidio-argues-border-wall-could-flood-town-in-lawsuit
-  headline: Presidio argues border wall could flood town in lawsuit
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.6049
-- slug: 2026-07-17-warming-atmosphere-driving-more-frequent-flash-floods-experts-say
-  headline: Warming atmosphere driving more frequent flash floods, experts say
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.6248
-- slug: 2026-07-15-heavy-rains-drench-south-texas-flood-rescues-top-two-dozen
-  headline: Heavy rains drench South Texas, flood rescues top two dozen
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.6008
-- slug: 2026-07-14-south-texas-flooding-prompts-dozens-of-rescues-disaster-declaration
-  headline: South Texas flooding prompts dozens of rescues, disaster declaration
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.5986
-- slug: 2026-07-10-missouri-declares-state-of-emergency-as-flash-floods-hit-central-southern-areas
-  headline: Missouri declares state of emergency as flash floods hit central, southern areas
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.6181
-- slug: 2026-07-12-helicopters-airlift-200-campers-as-missouri-flood-kills-1
-  headline: Helicopters airlift 200 campers as Missouri flood kills 1
-  publish_date: '2026-07-12'
-  relation: related
-  strength: 0.6
-- slug: 2026-06-29-flash-flooding-kills-at-least-4-in-kentucky-prompting-60-water-rescues
-  headline: Flash flooding kills at least 4 in Kentucky, prompting 60 water rescues
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.6375
-- slug: 2026-06-27-four-dead-in-kentucky-flash-flooding-state-of-emergency-declared
-  headline: Four dead in Kentucky flash flooding, state of emergency declared
-  publish_date: '2026-06-27'
-  relation: related
-  strength: 0.6213
-- slug: 2026-06-22-tornado-kills-2-in-southern-illinois-destroys-multiple-homes
-  headline: Tornado kills 2 in southern Illinois, destroys multiple homes
-  publish_date: '2026-06-22'
-  relation: related
-  strength: 0.5945
-- slug: 2026-05-27-west-coast-chemical-emergencies-raise-questions-on-regulating-safety
-  headline: West Coast chemical emergencies raise questions on regulating safety
-  publish_date: '2026-05-27'
-  relation: related
-  strength: 0.5973
-- slug: 2026-04-22-chemical-leak-at-west-virginia-silver-recovery-plant-kills-2-sends-30-to-hospita
-  headline: Chemical leak at West Virginia silver recovery plant kills 2, sends 30 to hospitals
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.6168
-- slug: 2026-04-27-tornadoes-hit-runaway-bay-and-springtown-texas-killing-at-least-2
-  headline: Tornadoes hit Runaway Bay and Springtown, Texas, killing at least 2
-  publish_date: '2026-04-27'
-  relation: related
-  strength: 0.6051
-- slug: 2026-03-31-about-100-superfund-sites-are-vulnerable-to-flooding-storms-wildfires
-  headline: About 100 Superfund sites are vulnerable to flooding, storms, wildfires
-  publish_date: '2026-03-31'
-  relation: related
-  strength: 0.6288
-- slug: 2026-04-23-chemical-leak-at-wv-silver-recovery-plant-kills-2-sends-about-30-to-hospitals
-  headline: Chemical leak at WV silver recovery plant kills 2, sends about 30 to hospitals
-  publish_date: '2026-04-23'
-  relation: related
-  strength: 0.6014
-- slug: 2026-04-20-deadly-domestic-violence-cases-stir-calls-for-more-care-resources
-  headline: Deadly domestic violence cases stir calls for more care resources
-  publish_date: '2026-04-20'
-  relation: related
-  strength: 0.6003
-- slug: 2026-04-15-camp-mystic-official-says-flood-deaths-not-reported-to-state-agency
-  headline: Camp Mystic official says flood deaths not reported to state agency
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.5957
-- slug: 2026-04-15-12-killed-in-northwestern-haiti-as-heavy-rains-flood-homes
-  headline: 12 killed in northwestern Haiti as heavy rains flood homes
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.5931
 image:
   url: /articles/2026-07-29-west-virginia-flood-kills-2-as-prevention-plans-remain-largely-unfulfilled.png
-  alt: "Illustration accompanying article: West Virginia flood kills 2 as prevention plans remain largely unfulfilled"
+  alt: 'Illustration accompanying article: West Virginia flood kills 2 as prevention
+    plans remain largely unfulfilled'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:openai/gpt-5.4-image-2"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## West Virginia flood kills 2 as prevention plans remain largely unfulfilled
 
 **Subtype:** fact

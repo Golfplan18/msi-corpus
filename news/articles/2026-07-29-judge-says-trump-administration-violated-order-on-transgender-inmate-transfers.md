@@ -1,8 +1,15 @@
 ---
 headline: Judge says Trump administration violated order on transgender inmate transfers
 publish_date: '2026-07-29'
-lede: A federal judge in Washington, D.C., told Justice Department attorneys Wednesday that the Trump administration appears to have violated a court order by transferring several incarcerated transgender women to a segregated prison unit, stripping them of privileges they had in women's facilities.
-nut_graf: U.S. District Judge Royce Lamberth, who issued a preliminary injunction last month blocking the administration from segregating transgender inmates, expressed concern during a hearing that the government had moved women into a separate unit and cut off privileges in defiance of his order. The judge did not immediately rule on the inmates' request to be returned to general population.
+lede: A federal judge in Washington, D.C., told Justice Department attorneys Wednesday
+  that the Trump administration appears to have violated a court order by transferring
+  several incarcerated transgender women to a segregated prison unit, stripping them
+  of privileges they had in women's facilities.
+nut_graf: U.S. District Judge Royce Lamberth, who issued a preliminary injunction
+  last month blocking the administration from segregating transgender inmates, expressed
+  concern during a hearing that the government had moved women into a separate unit
+  and cut off privileges in defiance of his order. The judge did not immediately rule
+  on the inmates' request to be returned to general population.
 primary_entities:
 - Royce C. Lamberth
 - Donald Trump
@@ -40,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -138,26 +146,12 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-07-22-federal-judge-orders-pentagon-to-compare-testosterone-policies-for-trans-and-cis
-  headline: Federal judge orders Pentagon to compare testosterone policies for trans and cisgender troops
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.6471
 - slug: 2026-06-24-judge-blocks-subpoena-for-medical-records-of-transgender-youth-in-new-york
-  headline: Judge blocks subpoena for medical records of transgender youth in New York
+  headline: Judge blocks subpoena for medical records of transgender youth in New
+    York
   publish_date: '2026-06-24'
   relation: related
   strength: 0.6742
-- slug: 2026-06-29-education-department-shifts-programs-to-other-agencies-via-interagency-agreement
-  headline: Education Department shifts programs to other agencies via interagency agreements
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.6436
-- slug: 2026-06-26-trump-administration-asks-supreme-court-to-back-no-bond-detention-policy
-  headline: Trump administration asks Supreme Court to back no-bond detention policy
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6487
 - slug: 2026-06-02-federal-appeals-court-blocks-trump-from-expelling-transgender-troops
   headline: Federal appeals court blocks Trump from expelling transgender troops
   publish_date: '2026-06-02'
@@ -178,16 +172,6 @@ related_stories:
   publish_date: '2026-05-15'
   relation: related
   strength: 0.6608
-- slug: 2026-05-13-federal-prosecutors-seek-nyu-hospital-info-on-gender-affirming-care-for-trans-ki
-  headline: Federal prosecutors seek NYU hospital info on gender-affirming care for trans kids
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6483
-- slug: 2026-05-15-federal-judge-blocks-doj-subpoenas-for-rhode-island-transgender-youth-records
-  headline: Federal judge blocks DOJ subpoenas for Rhode Island transgender youth records
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.64
 - slug: 2026-05-03-ap-finds-pattern-of-trump-administration-noncompliance-with-lower-court-orders
   headline: Pattern of Trump administration noncompliance with lower court orders
   publish_date: '2026-05-03'
@@ -203,43 +187,7 @@ related_stories:
   publish_date: '2026-03-27'
   relation: related
   strength: 0.6969
-- slug: 2026-02-12-judge-blocks-trump-plan-to-move-commuted-death-row-inmates-to-adx-florence
-  headline: Judge blocks Trump plan to move commuted death-row inmates to ADX Florence
-  publish_date: '2026-02-12'
-  relation: related
-  strength: 0.6982
-- slug: 2026-03-21-judge-rules-u-s-overreached-with-transgender-health-care-declaration
-  headline: Judge rules U.S. overreached with transgender health care declaration
-  publish_date: '2026-03-21'
-  relation: related
-  strength: 0.6651
-- slug: 2026-02-19-federal-judge-slams-trump-administration-immigration-crackdown-in-ruling
-  headline: Federal judge slams Trump administration immigration crackdown in ruling
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.6835
-- slug: 2026-02-20-federal-judge-slams-trump-immigration-crackdown-in-scathing-ruling
-  headline: Federal judge slams Trump immigration crackdown in scathing ruling
-  publish_date: '2026-02-20'
-  relation: related
-  strength: 0.6804
-- slug: 2026-04-04-federal-judge-says-border-patrol-california-sweeps-violated-court-order
-  headline: Federal judge says Border Patrol California sweeps violated court order
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.639
-- slug: 2026-02-10-judges-say-trump-immigration-cases-are-overwhelming-federal-courts
-  headline: Judges say Trump immigration cases are overwhelming federal courts
-  publish_date: '2026-02-10'
-  relation: related
-  strength: 0.6591
-- slug: 2026-02-13-judge-orders-trump-to-let-some-venezuelans-return-from-el-salvador-prison
-  headline: Judge orders Trump to let some Venezuelans return from El Salvador prison
-  publish_date: '2026-02-13'
-  relation: related
-  strength: 0.6574
 ---
-
 ## Judge says Trump administration violated order on transgender inmate transfers
 
 **Subtype:** fact

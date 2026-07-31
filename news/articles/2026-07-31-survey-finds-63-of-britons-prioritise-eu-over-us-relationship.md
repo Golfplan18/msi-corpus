@@ -2,8 +2,13 @@
 headline: Survey finds 63% of Britons prioritise EU over US relationship
 secondary_headline: European defence spending shifts away from US weapons
 publish_date: '2026-07-31'
-lede: A European Council on Foreign Relations survey found that 63% of Britons would prioritise the relationship with the EU over the US, according to a Guardian column by Jonathan Freedland that argues new Prime Minister Andy Burnham should pivot UK foreign policy toward Europe.
-nut_graf: The June survey arrives as Burnham begins his premiership with strong early approval ratings and as European allies accelerate joint defence integration that could reshape the UK's security posture.
+lede: A European Council on Foreign Relations survey found that 63% of Britons would
+  prioritise the relationship with the EU over the US, according to a Guardian column
+  by Jonathan Freedland that argues new Prime Minister Andy Burnham should pivot UK
+  foreign policy toward Europe.
+nut_graf: The June survey arrives as Burnham begins his premiership with strong early
+  approval ratings and as European allies accelerate joint defence integration that
+  could reshape the UK's security posture.
 primary_entities:
 - Andy Burnham
 - Donald Trump
@@ -42,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -150,98 +156,17 @@ related_stories:
   publish_date: '2026-07-12'
   relation: related
   strength: 0.7043
-- slug: 2026-07-24-uk-faces-higher-effective-us-tariffs-than-eu-rivals-after-trade-deal
-  headline: UK faces higher effective US tariffs than EU rivals after trade deal
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.6323
-- slug: 2026-07-22-study-finds-1-in-10-americans-see-politics-as-top-safety-threat
-  headline: Study finds 1 in 10 Americans see politics as top safety threat
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.6182
-- slug: 2026-07-19-china-now-favored-over-us-in-global-opinion-pew-survey-shows
-  headline: China now favored over US in global opinion, Pew survey shows
-  publish_date: '2026-07-19'
-  relation: related
-  strength: 0.6358
-- slug: 2026-07-22-uk-inflation-falls-to-2-6-in-june-lowest-since-march-2025
-  headline: UK inflation falls to 2.6% in June, lowest since March 2025
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.6165
-- slug: 2026-07-19-andy-burnham-succeeds-keir-starmer-as-uk-prime-minister
-  headline: Andy Burnham succeeds Keir Starmer as UK prime minister
-  publish_date: '2026-07-19'
-  relation: related
-  strength: 0.6229
-- slug: 2026-07-15-global-favorability-shifts-from-us-to-china-pew-survey-finds
-  headline: Global favorability shifts from US to China, Pew survey finds
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.6276
 - slug: 2026-06-30-guardian-editorial-argues-uk-defence-plan-deepens-us-reliance
   headline: Guardian editorial argues UK defence plan deepens US reliance
   publish_date: '2026-06-30'
   relation: related
-  strength: 0.6795
-- slug: 2026-07-08-at-ankara-summit-starmer-tells-burnham-not-to-borrow-for-defence
-  headline: At Ankara summit, Starmer tells Burnham not to borrow for defence
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.6337
+  strength: 0.6787
 - slug: 2026-06-10-only-1-in-10-europeans-see-us-as-an-ally-survey-finds
   headline: Only 1 in 10 Europeans see US as an ally, survey finds
   publish_date: '2026-06-10'
   relation: related
-  strength: 0.7389
-- slug: 2026-07-06-european-leaders-held-emergency-talks-on-breaking-with-america
-  headline: European leaders held emergency talks on breaking with America
-  publish_date: '2026-07-06'
-  relation: related
-  strength: 0.6276
-- slug: 2026-07-01-uk-s-burnham-government-faces-4-7bn-gap-in-starmer-s-defence-plan
-  headline: UK's Burnham government faces £4.7bn gap in Starmer's defence plan
-  publish_date: '2026-07-01'
-  relation: related
-  strength: 0.6442
-- slug: 2026-06-25-trump-calls-uk-pm-frontrunner-burnham-extremely-liberal-mayor-of-a-town
-  headline: Trump calls UK PM frontrunner Burnham 'extremely liberal', 'mayor of a town'
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.6242
-- slug: 2026-06-18-hegseth-announces-review-of-u-s-forces-in-europe-threatens-nato-cuts
-  headline: Hegseth announces review of U.S. forces in Europe, threatens NATO cuts
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.6185
-- slug: 2026-06-12-uk-defence-spending-row-deepens-as-two-ministers-quit
-  headline: UK defence spending row deepens as two ministers quit
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.6216
-- slug: 2026-05-23-as-america-hits-250-many-brits-say-one-man-defines-it-trump
-  headline: 'As America hits 250, many Brits say one man defines it: Trump'
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6386
-- slug: 2026-05-21-as-america-hits-250-many-brits-say-one-man-defines-it-trump
-  headline: 'As America hits 250, many Brits say one man defines it: Trump'
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6197
-- slug: 2026-05-22-as-america-turns-250-many-brits-say-trump-defines-the-u-s
-  headline: As America turns 250, many Brits say Trump defines the U.S.
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6154
-- slug: 2026-05-05-what-to-know-about-us-military-presence-in-europe-as-trump-seeks-drawdown
-  headline: What to know about US military presence in Europe as Trump seeks drawdown
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.6205
+  strength: 0.7386
 ---
-
 ## Survey finds 63% of Britons prioritise EU over US relationship
 **Subtype:** fact
 

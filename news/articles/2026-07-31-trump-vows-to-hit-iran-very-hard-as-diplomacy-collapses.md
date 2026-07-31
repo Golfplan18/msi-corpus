@@ -1,9 +1,17 @@
 ---
 headline: Trump vows to hit Iran 'very hard' as diplomacy collapses
-secondary_headline: Military advisers warn of dwindling munitions in proposed two-week campaign
+secondary_headline: Military advisers warn of dwindling munitions in proposed two-week
+  campaign
 publish_date: '2026-07-31'
-lede: President Trump said Friday he plans to resume heavy military strikes against Iran, vowing to hit the country "very hard" and predicting the regime would eventually "peter out," marking a sharp reversal from his insistence earlier this week that "very friendly negotiations" were under way.
-nut_graf: Trump's comments, delivered during a televised cabinet meeting at Camp David, come after a brief ceasefire collapsed when Iran launched a surprise attack on U.S. forces in Jordan. The U.S. retaliated with strikes on Wednesday, and Trump now appears to have abandoned his recent diplomatic posture in favor of an intensified military campaign.
+lede: President Trump said Friday he plans to resume heavy military strikes against
+  Iran, vowing to hit the country "very hard" and predicting the regime would eventually
+  "peter out," marking a sharp reversal from his insistence earlier this week that
+  "very friendly negotiations" were under way.
+nut_graf: Trump's comments, delivered during a televised cabinet meeting at Camp David,
+  come after a brief ceasefire collapsed when Iran launched a surprise attack on U.S.
+  forces in Jordan. The U.S. retaliated with strikes on Wednesday, and Trump now appears
+  to have abandoned his recent diplomatic posture in favor of an intensified military
+  campaign.
 primary_entities:
 - Donald Trump
 - Iran
@@ -47,7 +55,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -149,104 +158,44 @@ related_stories:
   headline: U.S. launches heavy strikes on Iran after missile attack on Jordan base
   publish_date: '2026-07-30'
   relation: related
-  strength: 0.7602
+  strength: 0.76
 - slug: 2026-07-25-trump-says-u-s-is-locked-and-loaded-as-iran-talks-continue
   headline: Trump says U.S. is 'locked and loaded' as Iran talks continue
   publish_date: '2026-07-25'
   relation: related
-  strength: 0.7795
+  strength: 0.7793
 - slug: 2026-07-27-trump-says-iran-requested-pause-in-u-s-airstrikes
   headline: Trump says Iran requested pause in U.S. airstrikes
   publish_date: '2026-07-27'
   relation: related
-  strength: 0.7508
+  strength: 0.751
 - slug: 2026-07-24-trump-s-frustration-grows-as-iran-war-enters-fifth-month-diplomacy-stalls
   headline: Trump's frustration grows as Iran war enters fifth month, diplomacy stalls
   publish_date: '2026-07-24'
   relation: related
-  strength: 0.77
+  strength: 0.7696
 - slug: 2026-07-24-u-s-strikes-iran-for-two-weeks-mobilizes-forces-for-larger-operation
   headline: U.S. strikes Iran for two weeks, mobilizes forces for larger operation
   publish_date: '2026-07-24'
   relation: related
-  strength: 0.7644
+  strength: 0.7647
 - slug: 2026-07-16-trump-notification-starts-60-day-window-for-iran-military-action
   headline: Trump notification starts 60-day window for Iran military action
   publish_date: '2026-07-16'
   relation: related
-  strength: 0.743
+  strength: 0.7433
 - slug: 2026-06-30-trump-weighs-all-out-iran-war-options-opts-to-stick-with-talks
   headline: Trump weighs all-out Iran war options, opts to stick with talks
   publish_date: '2026-06-30'
   relation: related
-  strength: 0.7775
+  strength: 0.7774
 - slug: 2026-06-22-trump-threatens-to-restart-attacks-on-iran-as-vance-hails-progress-in-talks
-  headline: Trump threatens to restart attacks on Iran as Vance hails progress in talks
+  headline: Trump threatens to restart attacks on Iran as Vance hails progress in
+    talks
   publish_date: '2026-06-22'
   relation: related
-  strength: 0.774
-- slug: 2026-06-10-trump-threatens-iran-claims-deal-close-as-war-hits-stalemate
-  headline: Trump threatens Iran, claims deal close as war hits stalemate
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.7981
-- slug: 2026-06-11-trump-threatens-to-seize-iran-s-oil-hub-as-us-strikes-escalate
-  headline: Trump threatens to seize Iran’s oil hub as US strikes escalate
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.7661
-- slug: 2026-06-04-trump-says-he-won-t-resume-all-out-iran-war-unless-us-troops-killed
-  headline: Trump says he won't resume all-out Iran war unless US troops killed
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.776
-- slug: 2026-05-25-u-s-military-strikes-iran-as-trump-says-negotiations-advance-toward-deal
-  headline: U.S. military strikes Iran as Trump says negotiations advance toward deal
-  publish_date: '2026-05-25'
-  relation: related
-  strength: 0.7598
-- slug: 2026-05-26-us-conducts-new-defensive-strikes-on-iran-as-trump-says-deal-near
-  headline: US conducts new defensive strikes on Iran as Trump says deal near
-  publish_date: '2026-05-26'
-  relation: related
-  strength: 0.7427
-- slug: 2026-05-19-trump-halts-planned-iran-strikes-as-gulf-allies-urge-negotiations
-  headline: Trump halts planned Iran strikes as Gulf allies urge negotiations
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.758
-- slug: 2026-05-19-trump-s-pressure-campaign-isn-t-moving-iran-as-talks-stay-stalled
-  headline: Trump’s pressure campaign isn’t moving Iran as talks stay stalled
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.7463
-- slug: 2026-04-02-trump-says-u-s-forces-will-finish-the-job-in-iran-soon
-  headline: Trump says U.S. forces will “finish the job” in Iran soon
-  publish_date: '2026-04-02'
-  relation: related
-  strength: 0.7711
-- slug: 2026-03-22-trump-issues-mixed-messages-on-iran-war-and-oil-sanctions
-  headline: Trump issues mixed messages on Iran war and oil sanctions
-  publish_date: '2026-03-22'
-  relation: related
-  strength: 0.7536
-- slug: 2026-02-20-trump-warns-of-possible-iran-strikes-as-nuclear-talks-progress
-  headline: Trump warns of possible Iran strikes as nuclear talks progress
-  publish_date: '2026-02-20'
-  relation: related
-  strength: 0.7722
-- slug: 2026-03-24-trump-says-u-s-and-iran-are-in-talks-iran-denies-white-house-talks
-  headline: Trump says U.S. and Iran are in talks; Iran denies White House talks
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.746
-- slug: 2026-03-01-trump-says-u-s-has-begun-major-combat-operations-in-iran
-  headline: Trump says U.S. has begun “major combat operations” in Iran
-  publish_date: '2026-03-01'
-  relation: related
-  strength: 0.759
+  strength: 0.7741
 ---
-
 ## Trump vows to hit Iran 'very hard' as diplomacy collapses
 
 **Subtype:** fact

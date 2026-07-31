@@ -1,9 +1,17 @@
 ---
-headline: Brazil Supreme Court authorizes probe into Lula's son over medical marijuana lobbying
+headline: Brazil Supreme Court authorizes probe into Lula's son over medical marijuana
+  lobbying
 secondary_headline: President says son will get no special treatment
 publish_date: '2026-07-31'
-lede: Brazil's Supreme Court authorized a federal police investigation into Fábio Luís Lula da Silva, the son of President Luiz Inácio Lula da Silva, over allegations he sought to influence Health Ministry decisions involving the commercialization of medical marijuana, Justice André Mendonça ruled Friday. The investigation was opened at the request of the Federal Police.
-nut_graf: The probe adds a politically sensitive element to Brazil's intensifying presidential campaign ahead of October elections, in which Lula is seeking another term. President Lula has publicly stated that his son will receive no special treatment if the allegations are substantiated.
+lede: Brazil's Supreme Court authorized a federal police investigation into Fábio
+  Luís Lula da Silva, the son of President Luiz Inácio Lula da Silva, over allegations
+  he sought to influence Health Ministry decisions involving the commercialization
+  of medical marijuana, Justice André Mendonça ruled Friday. The investigation was
+  opened at the request of the Federal Police.
+nut_graf: The probe adds a politically sensitive element to Brazil's intensifying
+  presidential campaign ahead of October elections, in which Lula is seeking another
+  term. President Lula has publicly stated that his son will receive no special treatment
+  if the allegations are substantiated.
 primary_entities:
 - Fábio Luís Lula da Silva
 - Luiz Inácio Lula da Silva
@@ -41,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -119,104 +128,18 @@ related_stories:
   headline: Lula says Brazil blocked US officials' visas to prevent 'election meddling'
   publish_date: '2026-07-30'
   relation: related
-  strength: 0.6569
-- slug: 2026-07-27-brazil-recalls-ambassador-to-argentina-after-milei-endorses-fl-vio-bolsonaro-in-
-  headline: Brazil recalls ambassador to Argentina after Milei endorses Flávio Bolsonaro in São Paulo
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.637
-- slug: 2026-07-25-brazil-denies-visas-to-us-officials-ahead-of-october-election
-  headline: Brazil denies visas to US officials ahead of October election
-  publish_date: '2026-07-25'
-  relation: related
-  strength: 0.6206
-- slug: 2026-07-27-lula-and-xi-agree-to-accelerate-mercosur-china-trade-talks-after-u-s-tariffs
-  headline: Lula and Xi agree to accelerate Mercosur-China trade talks after U.S. tariffs
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.5841
-- slug: 2026-07-23-lula-rejects-u-s-tariff-claims-unveils-3-65-billion-credit-package
-  headline: Lula rejects U.S. tariff claims, unveils $3.65 billion credit package
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.5867
-- slug: 2026-06-17-brazil-court-convicts-eduardo-bolsonaro-of-coercion-sentences-him-to-4-years
-  headline: Brazil court convicts Eduardo Bolsonaro of coercion, sentences him to 4 years
-  publish_date: '2026-06-17'
-  relation: related
-  strength: 0.6405
+  strength: 0.6568
 - slug: 2026-06-03-lula-accuses-bolsonaro-sons-of-treason-over-u-s-tariff-threat
   headline: Lula accuses Bolsonaro sons of treason over U.S. tariff threat
   publish_date: '2026-06-03'
   relation: related
-  strength: 0.6671
-- slug: 2026-05-14-brazil-s-fl-vio-bolsonaro-denies-wrongdoing-in-12-million-film-request
-  headline: Brazil’s Flávio Bolsonaro denies wrongdoing in $12 million film request
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6376
-- slug: 2026-05-13-brazil-s-lula-launches-2-billion-anti-organized-crime-program-ahead-of-elections
-  headline: Brazil's Lula launches $2 billion anti-organized crime program ahead of elections
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6238
-- slug: 2026-05-06-trump-to-host-lula-for-talks-on-economy-and-security-white-house-official-says
-  headline: Trump to host Lula for talks on economy and security, White House official says
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.6285
+  strength: 0.6674
 - slug: 2026-04-09-brazil-s-lula-backs-ban-on-online-betting-platforms
   headline: Brazil’s Lula backs ban on online betting platforms
   publish_date: '2026-04-09'
   relation: related
-  strength: 0.6511
-- slug: 2026-04-30-brazil-s-senate-rejects-lula-s-supreme-court-nominee-jorge-messias
-  headline: Brazil’s Senate rejects Lula’s Supreme Court nominee Jorge Messias
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.6185
-- slug: 2026-05-13-brazil-government-launches-2-billion-anti-organized-crime-program-ahead-of-elect
-  headline: Brazil government launches $2 billion anti-organized crime program ahead of elections
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.5938
-- slug: 2026-05-01-brazil-lawmakers-override-veto-to-reduce-bolsonaro-s-27-year-prison-term
-  headline: Brazil lawmakers override veto to reduce Bolsonaro’s 27-year prison term
-  publish_date: '2026-05-01'
-  relation: related
-  strength: 0.6129
-- slug: 2026-05-14-fl-vio-bolsonaro-asked-jailed-banker-for-12-million-to-finance-father-s-biopic-v
-  headline: Flávio Bolsonaro asked jailed banker for $12 million to finance father’s biopic, voice messages show
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.587
-- slug: 2026-04-29-sheinbaum-says-mexico-will-investigate-u-s-indictments-over-sinaloa-ties
-  headline: Sheinbaum says Mexico will investigate U.S. indictments over Sinaloa ties
-  publish_date: '2026-04-29'
-  relation: related
-  strength: 0.5868
-- slug: 2026-03-14-brazil-revokes-us-diplomat-darren-beattie-s-visa-after-prison-visit-bid
-  headline: Brazil revokes US diplomat Darren Beattie’s visa after prison visit bid
-  publish_date: '2026-03-14'
-  relation: related
-  strength: 0.6163
-- slug: 2026-03-02-bolsonaro-supporters-rally-in-brazil-as-election-fight-turns-to-fl-vio
-  headline: Bolsonaro supporters rally in Brazil as election fight turns to Flávio
-  publish_date: '2026-03-02'
-  relation: related
-  strength: 0.6212
-- slug: 2026-02-15-lula-celebrated-at-rio-carnival-parade-as-critics-seek-legal-action
-  headline: Lula celebrated at Rio Carnival parade as critics seek legal action
-  publish_date: '2026-02-15'
-  relation: related
-  strength: 0.6138
-- slug: 2026-04-02-trial-reveals-secret-venezuela-lobbying-tied-to-trump-associates
-  headline: Trial reveals secret Venezuela lobbying tied to Trump associates
-  publish_date: '2026-04-02'
-  relation: related
-  strength: 0.5816
+  strength: 0.6507
 ---
-
 ## Brazil Supreme Court authorizes probe into Lula's son over medical marijuana lobbying
 
 **Subtype:** fact

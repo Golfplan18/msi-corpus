@@ -2,8 +2,14 @@
 headline: Microsoft surges 15.5% on AI profit signal, lifting Wall Street
 secondary_headline: Bond market shows persistent inflation worries despite rally
 publish_date: '2026-07-30'
-lede: U.S. stocks surged Thursday as Microsoft posted its best single-day gain in nearly 18 years after reporting stronger-than-expected quarterly profits tied to growth in its artificial-intelligence business, the Associated Press reported. The S&P 500 rose 1.7%, the Dow Jones Industrial Average added 613 points, and the Nasdaq composite rallied 2.8%.
-nut_graf: The rally signaled that Microsoft's heavy spending on AI is translating into earnings, but the bond market continued to reflect concern that inflation could remain elevated for years.
+lede: U.S. stocks surged Thursday as Microsoft posted its best single-day gain in
+  nearly 18 years after reporting stronger-than-expected quarterly profits tied to
+  growth in its artificial-intelligence business, the Associated Press reported. The
+  S&P 500 rose 1.7%, the Dow Jones Industrial Average added 613 points, and the Nasdaq
+  composite rallied 2.8%.
+nut_graf: The rally signaled that Microsoft's heavy spending on AI is translating
+  into earnings, but the bond market continued to reflect concern that inflation could
+  remain elevated for years.
 primary_entities:
 - Microsoft Corp.
 - S&P 500
@@ -38,7 +44,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -54,7 +61,8 @@ figures:
   series_id: NASDAQCOM
   transformation: raw
   as_of: 2026-07-30
-  caption: The tech-heavy Nasdaq Composite Index closed at 25,122.18 on Thursday, rallying 2.8% as AI enthusiasm lifted major U.S. equities.
+  caption: The tech-heavy Nasdaq Composite Index closed at 25,122.18 on Thursday,
+    rallying 2.8% as AI enthusiasm lifted major U.S. equities.
 figures_aggregate:
   count: 1
   series_ids:
@@ -164,11 +172,6 @@ related_stories:
   publish_date: '2026-06-02'
   relation: related
   strength: 0.73
-- slug: 2026-06-08-chip-stocks-lead-wall-street-rebound-after-friday-s-selloff
-  headline: Chip Stocks Lead Wall Street Rebound After Friday's Selloff
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.7051
 - slug: 2026-05-14-tech-rally-lifts-wall-street-to-records-as-oil-inflation-pressure
   headline: Tech rally lifts Wall Street to records as oil, inflation pressure
   publish_date: '2026-05-14'
@@ -180,81 +183,31 @@ related_stories:
   relation: related
   strength: 0.7073
 - slug: 2026-05-26-another-surge-for-micron-wall-street-s-latest-1-trillion-company-sends-us-stocks
-  headline: Another surge for Micron, Wall Street's latest $1 trillion company, sends US stocks to records
+  headline: Another surge for Micron, Wall Street's latest $1 trillion company, sends
+    US stocks to records
   publish_date: '2026-05-26'
   relation: related
   strength: 0.7169
 - slug: 2026-05-14-tech-stocks-push-wall-street-to-records-while-inflation-data-weighs-on-broader-m
-  headline: Tech stocks push Wall Street to records while inflation data weighs on broader market
+  headline: Tech stocks push Wall Street to records while inflation data weighs on
+    broader market
   publish_date: '2026-05-14'
   relation: related
   strength: 0.7357
-- slug: 2026-05-15-cisco-boosts-wall-street-records-s-p-hits-another-high-dow-reclaims-50-000
-  headline: Cisco boosts Wall Street records; S&P hits another high, Dow reclaims 50,000
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.7236
-- slug: 2026-05-15-dow-back-above-50-000-for-first-time-since-iran-war-as-ai-boom-fuels-records
-  headline: Dow back above 50,000 for first time since Iran war as AI boom fuels records
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.7104
-- slug: 2026-02-25-u-s-stocks-rebound-after-ai-deal-optimism-offsets-earlier-selloff
-  headline: U.S. stocks rebound after AI deal optimism offsets earlier selloff
-  publish_date: '2026-02-25'
-  relation: related
-  strength: 0.7869
-- slug: 2026-02-18-us-stocks-edge-higher-after-swinging-through-worries-about-ai-and-the-economy
-  headline: US stocks edge higher after swinging through worries about AI and the economy
-  publish_date: '2026-02-18'
-  relation: related
-  strength: 0.7654
-- slug: 2026-04-25-intel-s-results-lift-wall-street-to-more-records-as-oil-stays-volatile
-  headline: Intel’s results lift Wall Street to more records as oil stays volatile
-  publish_date: '2026-04-25'
-  relation: related
-  strength: 0.706
-- slug: 2026-04-01-dow-surges-1-125-points-as-market-prices-hopes-for-iran-war-end
-  headline: Dow surges 1,125 points as market prices hopes for Iran war end
-  publish_date: '2026-04-01'
-  relation: related
-  strength: 0.7166
-- slug: 2026-02-08-u-s-stocks-surge-dow-tops-50-000-as-bitcoin-stabilizes
-  headline: U.S. stocks surge, Dow tops 50,000 as bitcoin stabilizes
-  publish_date: '2026-02-08'
-  relation: related
-  strength: 0.7487
-- slug: 2026-02-26-tech-stocks-lift-wall-street-nvidia-shares-rise-ahead-of-results
-  headline: Tech stocks lift Wall Street; Nvidia shares rise ahead of results
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.7357
-- slug: 2026-02-19-nvidia-boosts-stocks-as-meta-deal-lifts-s-p-500-and-nasdaq
-  headline: Nvidia boosts stocks as Meta deal lifts S&P 500 and Nasdaq
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.738
-- slug: 2026-01-30-wall-street-closes-near-where-it-began-after-microsoft-gold-swings
-  headline: Wall Street closes near where it began after Microsoft, gold swings
-  publish_date: '2026-01-30'
-  relation: related
-  strength: 0.7444
-- slug: 2026-01-29-microsoft-beats-wall-street-expectations-with-81-3b-revenue
-  headline: Microsoft beats Wall Street expectations with $81.3B revenue
-  publish_date: '2026-01-29'
-  relation: related
-  strength: 0.7427
 image:
   url: /articles/2026-07-30-microsoft-surges-15-5-on-ai-profit-signal-lifting-wall-street.png
-  alt: "Illustration accompanying article: Microsoft surges 15.5% on AI profit signal, lifting Wall Street"
+  alt: 'Illustration accompanying article: Microsoft surges 15.5% on AI profit signal,
+    lifting Wall Street'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:openai/gpt-5.4-image-2"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Microsoft surges 15.5% on AI profit signal, lifting Wall Street
 
 **Subtype:** fact

@@ -1,9 +1,15 @@
 ---
 headline: Barnes exits Wisconsin governor primary; Hong leads in poll
-secondary_headline: Marquette survey showed Hong ahead; Journal Sentinel reported party reviewed allegations
+secondary_headline: Marquette survey showed Hong ahead; Journal Sentinel reported
+  party reviewed allegations
 publish_date: '2026-07-30'
-lede: Mandela Barnes ended his campaign for the Democratic nomination for Wisconsin governor on July 30, a day after a Marquette Law School poll showed him trailing Francesca Hong and the same day the Milwaukee Journal Sentinel reported it had asked Barnes about misconduct allegations that had been reviewed by the state party.
-nut_graf: Barnes' withdrawal, less than two weeks before the Aug. 11 primary, leaves Hong as the leading candidate and follows a Marquette Law School poll that showed Hong ahead with about a third of primary voters undecided.
+lede: Mandela Barnes ended his campaign for the Democratic nomination for Wisconsin
+  governor on July 30, a day after a Marquette Law School poll showed him trailing
+  Francesca Hong and the same day the Milwaukee Journal Sentinel reported it had asked
+  Barnes about misconduct allegations that had been reviewed by the state party.
+nut_graf: Barnes' withdrawal, less than two weeks before the Aug. 11 primary, leaves
+  Hong as the leading candidate and follows a Marquette Law School poll that showed
+  Hong ahead with about a third of primary voters undecided.
 primary_entities:
 - Mandela Barnes
 - Francesca Hong
@@ -42,7 +48,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -81,93 +88,7 @@ related_stories:
   publish_date: '2026-07-17'
   relation: related
   strength: 0.6859
-- slug: 2026-07-21-wisconsin-democrats-ask-to-reissue-absentee-ballots-after-primary-field-shifts
-  headline: Wisconsin Democrats ask to reissue absentee ballots after primary field shifts
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6401
-- slug: 2026-07-14-wisconsin-elections-panel-refers-musk-bribery-complaints-to-prosecutors
-  headline: Wisconsin elections panel refers Musk bribery complaints to prosecutors
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.5974
-- slug: 2026-07-05-mcmorrow-suspends-michigan-senate-bid-narrowing-primary-field
-  headline: McMorrow suspends Michigan Senate bid, narrowing primary field
-  publish_date: '2026-07-05'
-  relation: related
-  strength: 0.6004
-- slug: 2026-06-06-democrats-divided-on-strategy-as-primaries-test-fractured-party
-  headline: Democrats divided on strategy as primaries test fractured party
-  publish_date: '2026-06-06'
-  relation: related
-  strength: 0.596
-- slug: 2026-05-02-restless-democratic-voters-challenge-party-establishment-in-maine
-  headline: Restless Democratic voters challenge party establishment in Maine
-  publish_date: '2026-05-02'
-  relation: related
-  strength: 0.5985
-- slug: 2026-04-13-swalwell-suspends-california-governor-campaign-after-sexual-assault-claims
-  headline: Swalwell suspends California governor campaign after sexual assault claims
-  publish_date: '2026-04-13'
-  relation: related
-  strength: 0.6137
-- slug: 2026-04-05-wisconsin-voters-weigh-supreme-court-seat-and-waukesha-mayor-s-race
-  headline: Wisconsin voters weigh Supreme Court seat and Waukesha mayor’s race
-  publish_date: '2026-04-05'
-  relation: related
-  strength: 0.622
-- slug: 2026-04-07-what-to-expect-in-wisconsin-s-spring-election-for-supreme-court-waukesha-mayor
-  headline: What to expect in Wisconsin’s spring election for Supreme Court, Waukesha mayor
-  publish_date: '2026-04-07'
-  relation: related
-  strength: 0.6155
-- slug: 2026-04-15-swalwell-exits-congress-and-california-governor-race-amid-misconduct-allegations
-  headline: Swalwell exits Congress and California governor race amid misconduct allegations
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.604
-- slug: 2026-04-06-wisconsin-spring-election-pits-supreme-court-contenders-and-waukesha-mayor-race
-  headline: Wisconsin spring election pits Supreme Court contenders and Waukesha mayor race
-  publish_date: '2026-04-06'
-  relation: related
-  strength: 0.6134
-- slug: 2026-04-11-swalwell-denies-sexual-assault-allegations-as-allies-pull-support
-  headline: Swalwell denies sexual assault allegations as allies pull support
-  publish_date: '2026-04-11'
-  relation: related
-  strength: 0.6045
-- slug: 2026-04-12-swalwell-s-california-governor-bid-loses-key-democratic-endorsements-over-assaul
-  headline: Swalwell’s California governor bid loses key Democratic endorsements over assault claims
-  publish_date: '2026-04-12'
-  relation: related
-  strength: 0.5948
-- slug: 2026-04-01-wisconsin-panel-dismisses-democratic-bid-to-redraw-congressional-map
-  headline: Wisconsin panel dismisses Democratic bid to redraw congressional map
-  publish_date: '2026-04-01'
-  relation: related
-  strength: 0.6036
-- slug: 2026-01-27-trump-endorses-rep-tom-tiffany-in-wisconsin-governor-race-rival-quits
-  headline: Trump endorses Rep. Tom Tiffany in Wisconsin governor race, rival quits
-  publish_date: '2026-01-27'
-  relation: related
-  strength: 0.6216
-- slug: 2026-01-15-wisconsin-democrats-pursue-statehouse-trifecta-for-first-time-in-16-years
-  headline: Wisconsin Democrats pursue statehouse trifecta for first time in 16 years
-  publish_date: '2026-01-15'
-  relation: related
-  strength: 0.6194
-- slug: 2026-01-06-walz-drops-bid-for-third-term-as-minnesota-governor-klobuchar-weighs-entry
-  headline: Walz drops bid for third term as Minnesota governor; Klobuchar weighs entry
-  publish_date: '2026-01-06'
-  relation: related
-  strength: 0.6208
-- slug: 2026-02-19-wisconsin-assembly-speaker-robin-vos-announces-retirement-at-year-s-end
-  headline: Wisconsin Assembly Speaker Robin Vos announces retirement at year’s end
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.6054
 ---
-
 ## Barnes exits Wisconsin governor primary; Hong leads in poll
 
 **Subtype:** fact

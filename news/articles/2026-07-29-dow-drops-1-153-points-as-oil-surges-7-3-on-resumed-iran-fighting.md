@@ -2,8 +2,12 @@
 headline: Dow drops 1,153 points as oil surges 7.3% on resumed Iran fighting
 secondary_headline: Tech selloff pushes Nasdaq 9.8% below its record set last month
 publish_date: '2026-07-29'
-lede: The Dow Jones Industrial Average dropped 1,153 points on Wednesday as technology and artificial intelligence stocks dragged Wall Street lower, while crude oil prices surged on renewed fighting in the Iran war.
-nut_graf: The decline in stocks and the surge in oil prices reflected worries about the global flow of oil and uncertainty about what the Federal Reserve will do to get high inflation under control.
+lede: The Dow Jones Industrial Average dropped 1,153 points on Wednesday as technology
+  and artificial intelligence stocks dragged Wall Street lower, while crude oil prices
+  surged on renewed fighting in the Iran war.
+nut_graf: The decline in stocks and the surge in oil prices reflected worries about
+  the global flow of oil and uncertainty about what the Federal Reserve will do to
+  get high inflation under control.
 primary_entities:
 - Dow Jones Industrial Average
 - S&P 500
@@ -42,7 +46,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -163,77 +168,20 @@ related_stories:
   publish_date: '2026-05-05'
   relation: related
   strength: 0.7657
-- slug: 2026-03-05-oil-spike-drives-wall-street-lower-as-iran-war-stokes-global-economic-fears
-  headline: Oil spike drives Wall Street lower as Iran war stokes global economic fears
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.8222
-- slug: 2026-03-29-wall-street-ends-5th-straight-losing-week-worsens-after-iran-war-update
-  headline: Wall Street ends 5th straight losing week, worsens after Iran war update
-  publish_date: '2026-03-29'
-  relation: related
-  strength: 0.8009
-- slug: 2026-03-04-dow-pares-early-losses-as-oil-climbs-on-widening-iran-war-worries
-  headline: Dow pares early losses as oil climbs on widening Iran war worries
-  publish_date: '2026-03-04'
-  relation: related
-  strength: 0.8183
-- slug: 2026-03-27-wall-street-drops-as-nasdaq-sinks-oil-rises-on-iran-war-uncertainty
-  headline: Wall Street drops as Nasdaq sinks; oil rises on Iran war uncertainty
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.797
-- slug: 2026-04-01-dow-surges-1-125-points-as-market-prices-hopes-for-iran-war-end
-  headline: Dow surges 1,125 points as market prices hopes for Iran war end
-  publish_date: '2026-04-01'
-  relation: related
-  strength: 0.7915
-- slug: 2026-02-28-u-s-stocks-fall-as-ai-worries-higher-inflation-and-iran-tensions-hit
-  headline: U.S. stocks fall as AI worries, higher inflation and Iran tensions hit
-  publish_date: '2026-02-28'
-  relation: related
-  strength: 0.8106
-- slug: 2026-03-31-us-stocks-swing-as-oil-climbs-on-uncertainty-over-when-iran-war-ends
-  headline: US stocks swing as oil climbs on uncertainty over when Iran war ends
-  publish_date: '2026-03-31'
-  relation: related
-  strength: 0.7865
-- slug: 2026-04-09-oil-plunges-below-95-as-dow-surges-1-300-in-rally-after-iran-ceasefire
-  headline: Oil plunges below $95 as Dow surges 1,300 in rally after Iran ceasefire
-  publish_date: '2026-04-09'
-  relation: related
-  strength: 0.7655
-- slug: 2026-02-19-us-stocks-slip-as-ai-fears-weigh-oil-rises-on-us-iran-conflict-worries
-  headline: US stocks slip as AI fears weigh, oil rises on US-Iran conflict worries
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.7949
-- slug: 2026-03-13-oil-jumps-to-100-per-barrel-and-stocks-sink-worldwide-on-iran-war
-  headline: Oil jumps to $100 per barrel and stocks sink worldwide on Iran war
-  publish_date: '2026-03-13'
-  relation: related
-  strength: 0.7763
-- slug: 2026-03-26-stocks-rise-oil-prices-ease-amid-iran-war-pause-hopes
-  headline: Stocks Rise, Oil Prices Ease Amid Iran War Pause Hopes
-  publish_date: '2026-03-26'
-  relation: related
-  strength: 0.7626
-- slug: 2026-03-21-high-oil-prices-drag-stocks-as-fed-rate-cut-hopes-collapse
-  headline: High oil prices drag stocks as Fed rate-cut hopes collapse
-  publish_date: '2026-03-21'
-  relation: related
-  strength: 0.7642
 image:
   url: /articles/2026-07-29-dow-drops-1-153-points-as-oil-surges-7-3-on-resumed-iran-fighting.png
-  alt: "Illustration accompanying article: Dow drops 1,153 points as oil surges 7.3% on resumed Iran fighting"
+  alt: 'Illustration accompanying article: Dow drops 1,153 points as oil surges 7.3%
+    on resumed Iran fighting'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:openai/gpt-5.4-image-2"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Dow drops 1,153 points as oil surges 7.3% on resumed Iran fighting
 
 **Subtype:** fact
