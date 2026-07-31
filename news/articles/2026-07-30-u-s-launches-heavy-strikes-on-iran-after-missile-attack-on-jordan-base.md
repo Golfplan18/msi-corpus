@@ -1,9 +1,13 @@
 ---
 headline: U.S. launches heavy strikes on Iran after missile attack on Jordan base
-secondary_headline: Iranian state media says strikes killed three, including child, on Qeshm island
+secondary_headline: Iranian state media says strikes killed three, including child,
+  on Qeshm island
 publish_date: '2026-07-30'
-lede: U.S. forces launched a heavy wave of strikes targeting dozens of Islamic Revolutionary Guard Corps sites inside Iran late Wednesday in retaliation for Iran’s attempted ballistic missile attack on American forces in Jordan, the U.S. military said.
-nut_graf: The exchange escalates a five-month conflict that has drawn in several Middle Eastern countries, after a brief ceasefire and diplomatic talks collapsed.
+lede: U.S. forces launched a heavy wave of strikes targeting dozens of Islamic Revolutionary
+  Guard Corps sites inside Iran late Wednesday in retaliation for Iran’s attempted
+  ballistic missile attack on American forces in Jordan, the U.S. military said.
+nut_graf: The exchange escalates a five-month conflict that has drawn in several Middle
+  Eastern countries, after a brief ceasefire and diplomatic talks collapsed.
 primary_entities:
 - United States
 - Iran
@@ -21,7 +25,8 @@ topic_tags:
 - conflict, war and peace
 - international military intervention
 - terrorism
-storyline_nexus: []
+storyline_nexus:
+- us-resumes-heavy-airstrikes-on-iran
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -42,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 2
@@ -163,7 +169,8 @@ related_stories:
   relation: related
   strength: 0.8091
 - slug: 2026-07-14-us-launches-third-night-of-strikes-on-iran-as-fighting-intensifies-in-strait-of-
-  headline: US launches third night of strikes on Iran as fighting intensifies in Strait of Hormuz
+  headline: US launches third night of strikes on Iran as fighting intensifies in
+    Strait of Hormuz
   publish_date: '2026-07-14'
   relation: related
   strength: 0.8248
@@ -208,7 +215,8 @@ related_stories:
   relation: related
   strength: 0.8018
 - slug: 2026-06-06-u-s-military-shoots-down-iranian-drones-missiles-strikes-gulf-radar-sites
-  headline: U.S. military shoots down Iranian drones, missiles; strikes Gulf radar sites
+  headline: U.S. military shoots down Iranian drones, missiles; strikes Gulf radar
+    sites
   publish_date: '2026-06-06'
   relation: related
   strength: 0.8253
@@ -228,7 +236,8 @@ related_stories:
   relation: related
   strength: 0.8019
 - slug: 2026-06-01-u-s-strikes-iranian-air-defenses-drone-sites-after-strait-of-hormuz-skirmish
-  headline: U.S. strikes Iranian air defenses, drone sites after Strait of Hormuz skirmish
+  headline: U.S. strikes Iranian air defenses, drone sites after Strait of Hormuz
+    skirmish
   publish_date: '2026-06-01'
   relation: related
   strength: 0.8003

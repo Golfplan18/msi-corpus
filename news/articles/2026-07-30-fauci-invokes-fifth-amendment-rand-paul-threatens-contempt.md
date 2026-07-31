@@ -1,9 +1,16 @@
 ---
 headline: Fauci invokes Fifth Amendment, Rand Paul threatens contempt
-secondary_headline: Contempt path faces one-vote margin, 60-vote threshold, and presidential pardon
+secondary_headline: Contempt path faces one-vote margin, 60-vote threshold, and presidential
+  pardon
 publish_date: '2026-07-30'
-lede: Dr. Anthony Fauci invoked his Fifth Amendment right against self-incrimination and declined to answer questions during a Senate committee hearing on Wednesday, prompting Sen. Rand Paul, R-Ky., to threaten contempt-of-Congress proceedings. The hearing, led by Paul, investigated Fauci's handling of the COVID-19 pandemic.
-nut_graf: The hearing revisits questions about COVID-19's origins that Paul has raised for years and leaves open whether the pre-emptive pardon, the committee's narrow majority, and the Senate's procedural thresholds will allow a contempt resolution to advance.
+lede: Dr. Anthony Fauci invoked his Fifth Amendment right against self-incrimination
+  and declined to answer questions during a Senate committee hearing on Wednesday,
+  prompting Sen. Rand Paul, R-Ky., to threaten contempt-of-Congress proceedings. The
+  hearing, led by Paul, investigated Fauci's handling of the COVID-19 pandemic.
+nut_graf: The hearing revisits questions about COVID-19's origins that Paul has raised
+  for years and leaves open whether the pre-emptive pardon, the committee's narrow
+  majority, and the Senate's procedural thresholds will allow a contempt resolution
+  to advance.
 primary_entities:
 - Anthony Fauci
 - Rand Paul
@@ -39,7 +46,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 2
@@ -70,108 +78,39 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-07-29-fauci-invokes-fifth-amendment-more-than-100-times-at-covid-19-hearing
+  headline: Fauci invokes Fifth Amendment more than 100 times at COVID-19 hearing
+  publish_date: '2026-07-29'
+  relation: related
+  strength: 0.9103
 - slug: 2026-07-27-sen-rand-paul-releases-fauci-diary-entries-describing-trump-as-rambling-crazy-du
-  headline: Sen. Rand Paul releases Fauci diary entries describing Trump as 'rambling,' 'crazy' during pandemic
+  headline: Sen. Rand Paul releases Fauci diary entries describing Trump as 'rambling,'
+    'crazy' during pandemic
   publish_date: '2026-07-27'
   relation: related
-  strength: 0.7563
+  strength: 0.7566
 - slug: 2026-07-28-scientists-call-for-end-to-alleged-targeting-of-researchers-by-trump-administrat
   headline: Scientists call for end to alleged targeting of researchers by Trump administration
   publish_date: '2026-07-28'
   relation: related
-  strength: 0.7475
+  strength: 0.7487
 - slug: 2026-07-29-scientists-reaffirm-animal-origin-of-covid-19-as-senate-hearing-rekindles-lab-le
-  headline: Scientists reaffirm animal origin of COVID-19 as Senate hearing rekindles lab-leak debate
+  headline: Scientists reaffirm animal origin of COVID-19 as Senate hearing rekindles
+    lab-leak debate
   publish_date: '2026-07-29'
   relation: related
-  strength: 0.687
+  strength: 0.6867
 - slug: 2026-06-23-rand-paul-subpoenas-anthony-fauci-for-covid-19-testimony
   headline: Rand Paul subpoenas Anthony Fauci for COVID-19 testimony
   publish_date: '2026-06-23'
   relation: related
-  strength: 0.8034
-- slug: 2026-07-21-appeals-court-upholds-navarro-contempt-of-congress-convictions
-  headline: Appeals court upholds Navarro contempt of Congress convictions
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6201
-- slug: 2026-07-14-blanche-confirmation-hearings-open-as-senators-weigh-conflicts
-  headline: Blanche confirmation hearings open as senators weigh conflicts
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6275
-- slug: 2026-06-11-democrats-call-on-vance-to-testify-over-epstein-files-handling
-  headline: Democrats call on Vance to testify over Epstein files handling
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.6113
-- slug: 2026-06-08-bipartisan-opposition-derails-fisa-surveillance-renewal-ahead-of-deadline
-  headline: Bipartisan opposition derails FISA surveillance renewal ahead of deadline
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.6078
-- slug: 2026-05-29-bondi-refuses-to-answer-questions-on-trump-s-epstein-files-role-in-closed-door-h
-  headline: Bondi refuses to answer questions on Trump's Epstein files role in closed-door House interview
-  publish_date: '2026-05-29'
-  relation: related
-  strength: 0.6149
+  strength: 0.8036
 - slug: 2026-04-29-former-fauci-adviser-indicted-for-allegedly-concealing-covid-19-records
   headline: Former Fauci adviser indicted for allegedly concealing COVID-19 records
   publish_date: '2026-04-29'
   relation: related
-  strength: 0.6711
-- slug: 2026-04-22-democrat-sheila-cherfilus-mccormick-resigns-before-house-ethics-hearing
-  headline: Democrat Sheila Cherfilus-McCormick resigns before House ethics hearing
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.6154
-- slug: 2026-04-22-as-rfk-jr-faced-the-senate-sen-cassidy-weighed-vaccines-and-politics
-  headline: As RFK Jr. faced the Senate, Sen. Cassidy weighed vaccines and politics
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.6131
-- slug: 2026-04-21-as-rfk-jr-faced-the-senate-bill-cassidy-balanced-politics-and-science
-  headline: As RFK Jr. faced the Senate, Bill Cassidy balanced politics and science
-  publish_date: '2026-04-21'
-  relation: related
-  strength: 0.6129
-- slug: 2026-03-27-ethics-panel-weighs-allegations-against-florida-congresswoman-cherfilus-mccormic
-  headline: Ethics panel weighs allegations against Florida congresswoman Cherfilus-McCormick
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.6385
-- slug: 2026-04-07-supreme-court-order-could-lead-to-dismissal-of-bannon-contempt-conviction
-  headline: Supreme Court order could lead to dismissal of Bannon contempt conviction
-  publish_date: '2026-04-07'
-  relation: related
-  strength: 0.6189
-- slug: 2026-03-28-ethics-panel-finds-rep-cherfilus-mccormick-committed-25-violations
-  headline: Ethics panel finds Rep. Cherfilus-McCormick committed 25 violations
-  publish_date: '2026-03-28'
-  relation: related
-  strength: 0.6218
-- slug: 2026-03-18-pam-bondi-subpoenaed-by-congress-over-epstein-files
-  headline: Pam Bondi subpoenaed by Congress over Epstein files
-  publish_date: '2026-03-18'
-  relation: related
-  strength: 0.6182
-- slug: 2026-01-21-house-committee-advances-contempt-charges-against-clintons
-  headline: House committee advances contempt charges against Clintons
-  publish_date: '2026-01-21'
-  relation: related
-  strength: 0.6288
-- slug: 2026-02-12-bondi-clashes-with-house-judiciary-as-epstein-files-fight-spills-over
-  headline: Bondi clashes with House Judiciary as Epstein files fight spills over
-  publish_date: '2026-02-12'
-  relation: related
-  strength: 0.617
-- slug: 2026-01-13-clintons-refuse-house-epstein-subpoena-as-contempt-proceedings-loom
-  headline: Clintons refuse House Epstein subpoena as contempt proceedings loom
-  publish_date: '2026-01-13'
-  relation: related
-  strength: 0.6269
+  strength: 0.6728
 ---
-
 ## Fauci invokes Fifth Amendment, Rand Paul threatens contempt
 
 **Subtype:** fact

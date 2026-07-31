@@ -2,8 +2,14 @@
 headline: US economy slows to 1.5% annual growth in second quarter
 secondary_headline: Eurozone outpaces US with 1.8% annualized expansion
 publish_date: '2026-07-30'
-lede: The U.S. economy grew at an annual rate of 1.5% in the second quarter, a slowdown from the first quarter that fell short of economist expectations, as lower government spending, investment and exports offset a rebound in consumer spending, the Commerce Department reported Thursday.
-nut_graf: The deceleration from 2.1% growth in the first quarter comes as the US navigates the financial impact of the ongoing war with Iran and elevated trade tariffs, even as American households continued to spend at a pace that surprised analysts, according to official figures and economists.
+lede: The U.S. economy grew at an annual rate of 1.5% in the second quarter, a slowdown
+  from the first quarter that fell short of economist expectations, as lower government
+  spending, investment and exports offset a rebound in consumer spending, the Commerce
+  Department reported Thursday.
+nut_graf: The deceleration from 2.1% growth in the first quarter comes as the US navigates
+  the financial impact of the ongoing war with Iran and elevated trade tariffs, even
+  as American households continued to spend at a pace that surprised analysts, according
+  to official figures and economists.
 primary_entities:
 - United States
 - Federal Reserve
@@ -41,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 4
@@ -148,12 +155,12 @@ related_stories:
   headline: China's Q2 growth cools to 4.3%, missing forecasts
   publish_date: '2026-07-15'
   relation: related
-  strength: 0.727
+  strength: 0.7268
 - slug: 2026-06-25-final-q1-gdp-revised-up-to-2-1-as-consumer-spending-cools
   headline: Final Q1 GDP revised up to 2.1% as consumer spending cools
   publish_date: '2026-06-25'
   relation: related
-  strength: 0.8165
+  strength: 0.8168
 - slug: 2026-07-16-june-retail-sales-rise-0-2-after-revised-may-gain-of-1
   headline: June retail sales rise 0.2% after revised May gain of 1%
   publish_date: '2026-07-16'
@@ -163,89 +170,29 @@ related_stories:
   headline: IMF cuts global growth to 3% as Iran war, record home prices squeeze economy
   publish_date: '2026-07-11'
   relation: related
-  strength: 0.6937
+  strength: 0.6942
 - slug: 2026-06-25-fed-s-preferred-inflation-gauge-rises-to-three-year-high-in-may
   headline: Fed's preferred inflation gauge rises to three-year high in May
   publish_date: '2026-06-25'
   relation: related
-  strength: 0.7169
+  strength: 0.717
 - slug: 2026-06-14-us-economy-resilient-through-trade-turmoil-and-energy-shocks-economists-say
-  headline: US economy resilient through trade turmoil and energy shocks, economists say
+  headline: US economy resilient through trade turmoil and energy shocks, economists
+    say
   publish_date: '2026-06-14'
   relation: related
-  strength: 0.7248
+  strength: 0.7252
 - slug: 2026-05-01-u-s-economy-grew-2-in-q1-after-shutdown-iran-war-adds-uncertainty
   headline: U.S. economy grew 2% in Q1 after shutdown; Iran war adds uncertainty
   publish_date: '2026-05-01'
   relation: related
-  strength: 0.8207
+  strength: 0.821
 - slug: 2026-06-17-us-retail-sales-rose-0-9-in-may-beating-expectations
   headline: US retail sales rose 0.9% in May, beating expectations
   publish_date: '2026-06-17'
   relation: related
-  strength: 0.7038
-- slug: 2026-06-10-us-inflation-surges-to-4-2-in-may-a-three-year-high
-  headline: US inflation surges to 4.2% in May, a three-year high
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.6914
-- slug: 2026-05-28-key-inflation-gauge-accelerates-to-3-8-in-april-highest-in-three-years
-  headline: Key inflation gauge accelerates to 3.8% in April, highest in three years
-  publish_date: '2026-05-28'
-  relation: related
-  strength: 0.6983
-- slug: 2026-05-18-japan-economy-grows-at-2-1-annual-pace-helped-by-consumer-spending
-  headline: Japan economy grows at 2.1% annual pace, helped by consumer spending
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.7171
-- slug: 2026-05-18-japan-s-economy-grows-at-2-1-annual-pace-in-first-quarter
-  headline: Japan's economy grows at 2.1% annual pace in first quarter
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.7114
-- slug: 2026-02-20-fourth-quarter-gdp-growth-slows-to-1-4-as-shutdown-drags-economy
-  headline: Fourth-quarter GDP growth slows to 1.4% as shutdown drags economy
-  publish_date: '2026-02-20'
-  relation: related
-  strength: 0.7862
-- slug: 2026-05-15-april-retail-sales-slow-to-0-5-as-gas-prices-from-iran-war-squeeze-budgets
-  headline: April retail sales slow to 0.5% as gas prices from Iran war squeeze budgets
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6871
-- slug: 2026-05-16-u-s-inflation-hits-3-8-as-iran-war-drives-gas-prices-and-retail-sales-slow
-  headline: U.S. inflation hits 3.8% as Iran war drives gas prices and retail sales slow
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.684
-- slug: 2026-03-14-u-s-economy-stumbled-into-2025-s-end-as-iran-war-lifted-energy-costs
-  headline: U.S. economy stumbled into 2025’s end as Iran war lifted energy costs
-  publish_date: '2026-03-14'
-  relation: related
-  strength: 0.7632
-- slug: 2026-01-22-u-s-economy-grows-4-4-in-third-quarter-fastest-pace-in-two-years
-  headline: U.S. economy grows 4.4% in third quarter, fastest pace in two years
-  publish_date: '2026-01-22'
-  relation: related
-  strength: 0.7717
-- slug: 2026-05-01-tax-refunds-and-ai-boom-offset-some-u-s-pain-from-iran-war-high-gas-prices
-  headline: Tax refunds and AI boom offset some U.S. pain from Iran war, high gas prices
-  publish_date: '2026-05-01'
-  relation: related
-  strength: 0.6859
-- slug: 2026-01-04-us-economy-grew-in-2025-but-hiring-lagged-as-tariffs-and-ai-curbed-job-gains
-  headline: US economy grew in 2025 but hiring lagged as tariffs and AI curbed job gains
-  publish_date: '2026-01-04'
-  relation: related
-  strength: 0.7502
-- slug: 2026-03-06-january-retail-sales-fall-0-2-as-consumers-pull-back-amid-tariff-uncertainty
-  headline: January retail sales fall 0.2% as consumers pull back amid tariff uncertainty
-  publish_date: '2026-03-06'
-  relation: related
-  strength: 0.7141
+  strength: 0.7039
 ---
-
 ## US economy slows to 1.5% annual growth in second quarter
 
 **Subtype:** fact

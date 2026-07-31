@@ -31,7 +31,8 @@ topic_tags:
 - peace process
 - international relations
 - international military intervention
-storyline_nexus: []
+storyline_nexus:
+- us-resumes-heavy-airstrikes-on-iran
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -192,6 +193,7 @@ related_stories:
   relation: related
   strength: 0.8265
 ---
+
 ## Trump says Iran requested pause in U.S. airstrikes
 
 **Subtype:** fact

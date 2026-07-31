@@ -1,9 +1,18 @@
 ---
 headline: Cameron Parish LNG boom transforms hurricane-ravaged Louisiana community
-secondary_headline: Analysts say Europe's US LNG reliance drives up household energy costs
+secondary_headline: Analysts say Europe's US LNG reliance drives up household energy
+  costs
 publish_date: '2026-07-30'
-lede: Cameron Parish, Louisiana, which lost more than 90% of its homes when Hurricane Rita struck in 2005, has become one of the world's most significant liquefied natural gas export hubs, with three operational terminals and a fourth under construction. The transformation has generated billions in projected tax revenue and reshaped the economy of the roughly 4,700-person parish.
-nut_graf: The boom in Cameron Parish reflects a broader shift in global energy flows. Europe's urgent need to replace Russian natural gas, compounded by disrupted supplies from Qatar amid the Iran conflict, has made the US the dominant supplier to the continent — a dependency that analysts say has contributed to higher household energy costs across the European Union.
+lede: Cameron Parish, Louisiana, which lost more than 90% of its homes when Hurricane
+  Rita struck in 2005, has become one of the world's most significant liquefied natural
+  gas export hubs, with three operational terminals and a fourth under construction.
+  The transformation has generated billions in projected tax revenue and reshaped
+  the economy of the roughly 4,700-person parish.
+nut_graf: The boom in Cameron Parish reflects a broader shift in global energy flows.
+  Europe's urgent need to replace Russian natural gas, compounded by disrupted supplies
+  from Qatar amid the Iran conflict, has made the US the dominant supplier to the
+  continent — a dependency that analysts say has contributed to higher household energy
+  costs across the European Union.
 primary_entities:
 - Cameron Parish
 - Louisiana
@@ -40,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -137,118 +147,21 @@ cross_article_links:
   strength: 0.5789
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-07-28-western-powers-launch-at-least-24-projects-to-reshore-explosives-production
-  headline: Western powers launch at least 24 projects to reshore explosives production
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.6032
-- slug: 2026-07-21-permian-basin-gas-prices-turn-positive-after-new-pipelines-open
-  headline: Permian Basin gas prices turn positive after new pipelines open
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6002
-- slug: 2026-07-17-u-s-allocated-46-billion-for-critical-minerals-over-five-years-eight-times-eu-sp
-  headline: U.S. allocated $46 billion for critical minerals over five years, eight times EU spending, think tank finds
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.6029
-- slug: 2026-07-17-warming-atmosphere-driving-more-frequent-flash-floods-experts-say
-  headline: Warming atmosphere driving more frequent flash floods, experts say
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.595
-- slug: 2026-07-12-us-carbon-sequestration-boom-sparks-backlash-in-small-towns
-  headline: US carbon sequestration boom sparks backlash in small towns
-  publish_date: '2026-07-12'
-  relation: related
-  strength: 0.5962
-- slug: 2026-07-09-u-s-oil-stockpiles-stay-near-operational-limits-as-trump-ends-iran-ceasefire
-  headline: U.S. oil stockpiles stay near operational limits as Trump ends Iran ceasefire
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.6019
-- slug: 2026-06-21-strait-of-hormuz-crisis-spotlights-fragile-global-trade-chokepoints
-  headline: Strait of Hormuz Crisis Spotlights Fragile Global Trade Chokepoints
-  publish_date: '2026-06-21'
-  relation: related
-  strength: 0.5968
-- slug: 2026-06-16-u-s-companies-stop-waiting-for-supply-chains-to-return-to-normal
-  headline: U.S. Companies Stop Waiting for Supply Chains to Return to Normal
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.6117
-- slug: 2026-06-15-oil-executives-warn-of-severe-supply-crunch-as-u-s-depletes-reserve
-  headline: Oil executives warn of severe supply crunch as U.S. depletes reserve
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.5973
-- slug: 2026-06-04-blue-states-weaken-climate-rules-as-red-states-lead-renewable-energy-growth
-  headline: Blue states weaken climate rules as red states lead renewable energy growth
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.6004
-- slug: 2026-05-12-iran-war-fuel-shocks-drive-rooftop-solar-surge-across-energy-hungry-asia
-  headline: Iran war fuel shocks drive rooftop solar surge across energy-hungry Asia
-  publish_date: '2026-05-12'
-  relation: related
-  strength: 0.6058
-- slug: 2026-05-15-trump-halts-u-s-offshore-wind-expansion-as-global-industry-adds-record-capacity
-  headline: Trump halts U.S. offshore wind expansion as global industry adds record capacity
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.5927
-- slug: 2026-05-12-iran-war-drives-solar-sales-in-energy-hungry-asia
-  headline: Iran war drives solar sales in energy-hungry Asia
-  publish_date: '2026-05-12'
-  relation: related
-  strength: 0.5931
-- slug: 2026-04-17-supreme-court-sends-louisiana-environmental-lawsuit-to-federal-court
-  headline: Supreme Court sends Louisiana environmental lawsuit to federal court
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.6229
-- slug: 2026-03-21-iran-war-energy-crisis-is-a-renewable-energy-wake-up-call
-  headline: Iran war energy crisis is a renewable energy wake-up call
-  publish_date: '2026-03-21'
-  relation: related
-  strength: 0.6452
-- slug: 2026-04-14-china-gains-from-iran-war-as-global-energy-interest-turns-away-from-fossil-fuels
-  headline: China gains from Iran war as global energy interest turns away from fossil fuels
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.615
-- slug: 2026-03-31-global-economic-optimism-dims-as-iran-war-drags-on-and-spreads-costs
-  headline: Global economic optimism dims as Iran war drags on and spreads costs
-  publish_date: '2026-03-31'
-  relation: related
-  strength: 0.6237
-- slug: 2026-04-13-1970s-lessons-leave-global-economies-less-exposed-to-oil-shocks
-  headline: 1970s lessons leave global economies less exposed to oil shocks
-  publish_date: '2026-04-13'
-  relation: related
-  strength: 0.6064
-- slug: 2026-03-22-why-the-iran-war-matters-for-the-world-s-helium-supply
-  headline: Why the Iran war matters for the world’s helium supply
-  publish_date: '2026-03-22'
-  relation: related
-  strength: 0.6249
-- slug: 2026-03-24-asia-turns-to-coal-as-iran-war-squeezes-global-lng-supplies
-  headline: Asia turns to coal as Iran war squeezes global LNG supplies
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.6043
+related_stories: []
 image:
   url: /articles/2026-07-30-cameron-parish-lng-boom-transforms-hurricane-ravaged-louisiana-community.png
-  alt: "Illustration accompanying article: Cameron Parish LNG boom transforms hurricane-ravaged Louisiana community"
+  alt: 'Illustration accompanying article: Cameron Parish LNG boom transforms hurricane-ravaged
+    Louisiana community'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:openai/gpt-5.4-image-2"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Cameron Parish LNG boom transforms hurricane-ravaged Louisiana community
 
 **Subtype:** fact
