@@ -29,6 +29,7 @@ topic_tags:
 - government policy
 storyline_nexus:
 - 2026-midterm-elections
+- el-sayed-endorses-ocasio-cortez-in-michigan-senate-primary
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
@@ -180,8 +181,9 @@ related_stories:
   relation: related
   strength: 0.7998
 analyses:
-- '2026-07-12-campaign-spending-asymmetries-and-grassroots-mobilization-reshape-michigan-senat'
+- 2026-07-12-campaign-spending-asymmetries-and-grassroots-mobilization-reshape-michigan-senat
 ---
+
 ## El-Sayed and Stevens compete in Michigan Democratic Senate primary
 
 **Subtype:** fact

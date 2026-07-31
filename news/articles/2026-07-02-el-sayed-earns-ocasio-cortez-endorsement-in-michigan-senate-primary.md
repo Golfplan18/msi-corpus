@@ -31,6 +31,7 @@ topic_tags:
 - government
 storyline_nexus:
 - 2026-midterm-elections
+- el-sayed-endorses-ocasio-cortez-in-michigan-senate-primary
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship
@@ -184,6 +185,7 @@ related_stories:
   relation: related
   strength: 0.6929
 ---
+
 ## El-Sayed earns Ocasio-Cortez endorsement in Michigan Senate primary
 
 **Subtype:** fact
