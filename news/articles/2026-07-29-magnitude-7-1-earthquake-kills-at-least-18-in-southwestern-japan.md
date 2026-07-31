@@ -149,6 +149,15 @@ related_stories:
   publish_date: '2026-04-22'
   relation: related
   strength: 0.6936
+image:
+  url: /articles/2026-07-29-magnitude-7-1-earthquake-kills-at-least-18-in-southwestern-japan.png
+  alt: "Illustration accompanying article: Magnitude 7.1 earthquake kills at least 18 in southwestern Japan"
+  credit: Main Street Independent (algorithmic)
+  source: ai_generated
+  license: "https://creativecommons.org/publicdomain/zero/1.0/"
+  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  ai_model: "openrouter:openai/gpt-5.4-image-2"
+  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
 ---
 ## Magnitude 7.1 earthquake kills at least 18 in southwestern Japan
 
