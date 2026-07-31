@@ -236,6 +236,15 @@ related_stories:
   publish_date: '2026-01-15'
   relation: related
   strength: 0.5857
+image:
+  url: /articles/2026-07-31-rep-miller-s-ex-wife-files-restraining-order-alleging-he-grabbed-her-attorney.png
+  alt: "Illustration accompanying article: Rep. Miller's ex-wife files restraining order alleging he grabbed her attorney"
+  credit: Main Street Independent (algorithmic)
+  source: ai_generated
+  license: "https://creativecommons.org/publicdomain/zero/1.0/"
+  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  ai_model: "openrouter:openai/gpt-5.4-image-2"
+  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
 ---
 
 ## Rep. Miller's ex-wife files restraining order alleging he grabbed her attorney
