@@ -48,6 +48,7 @@ topic_tags:
 - international trade
 storyline_nexus:
 - trump-foreign-policy-reshaping
+- global-favorability-shift
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
@@ -133,6 +134,7 @@ related_stories:
   relation: related
   strength: 0.6914
 ---
+
 ## Carney built allied network to reduce dependence on US
 
 **Subtype:** fact

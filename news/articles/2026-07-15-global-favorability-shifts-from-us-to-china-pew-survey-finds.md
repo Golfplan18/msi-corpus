@@ -31,7 +31,8 @@ primary_themes:
 - great power rivalry
 topic_tags:
 - international relations
-storyline_nexus: []
+storyline_nexus:
+- global-favorability-shift
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
@@ -167,8 +168,9 @@ related_stories:
   relation: related
   strength: 0.6565
 analyses:
-- '2026-07-15-us-favorability-collapses-among-allies-as-china-gains-ground-pew-survey-finds'
+- 2026-07-15-us-favorability-collapses-among-allies-as-china-gains-ground-pew-survey-finds
 ---
+
 ## Global favorability shifts from US to China, Pew survey finds
 
 **Subtype:** fact
