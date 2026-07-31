@@ -2,8 +2,12 @@
 headline: Half of Massachusetts nursing homes are understaffed
 secondary_headline: Patient waited 2½ hours for pain medication after crash
 publish_date: '2026-07-30'
-lede: Half of Massachusetts nursing homes are understaffed, the Associated Press reported. Lynette Couture, 55, waited more than two hours for pain medication at Plymouth Harborside Healthcare last fall, an experience she documented in a journal and described as excruciating.
-nut_graf: Couture’s account offers a window into the conditions that the AP’s reporting links to chronic understaffing across the state’s long-term care facilities.
+lede: Half of Massachusetts nursing homes are understaffed, the Associated Press reported.
+  Lynette Couture, 55, waited more than two hours for pain medication at Plymouth
+  Harborside Healthcare last fall, an experience she documented in a journal and described
+  as excruciating.
+nut_graf: Couture’s account offers a window into the conditions that the AP’s reporting
+  links to chronic understaffing across the state’s long-term care facilities.
 primary_entities:
 - Lynette Couture
 - Massachusetts
@@ -31,7 +35,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -128,109 +133,8 @@ cross_article_links:
   strength: 0.5477
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-07-21-massachusetts-senate-advances-bill-to-ease-primary-care-doctor-shortage
-  headline: Massachusetts Senate advances bill to ease primary care doctor shortage
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.6354
-- slug: 2026-06-01-uk-care-workers-say-mileage-payments-fail-to-cover-soaring-fuel-costs
-  headline: UK care workers say mileage payments fail to cover soaring fuel costs
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.5869
-- slug: 2026-05-21-nurse-radonda-vaught-convicted-in-2022-medication-death-now-speaks-on-safety
-  headline: Nurse RaDonda Vaught, convicted in 2022 medication death, now speaks on safety
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.591
-- slug: 2026-04-11-trump-administration-resets-review-clock-delaying-minnesota-nursing-home-wage-fl
-  headline: Trump administration resets review clock, delaying Minnesota nursing-home wage floor
-  publish_date: '2026-04-11'
-  relation: related
-  strength: 0.6155
-- slug: 2026-04-30-atlanta-jail-neglect-claim-leads-to-amputations-lawyers-say
-  headline: Atlanta jail neglect claim leads to amputations, lawyers say
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.5845
-- slug: 2026-04-17-ohio-nursing-homes-send-patients-to-homeless-shelters-federal-review-finds
-  headline: Ohio nursing homes send patients to homeless shelters, federal review finds
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.5954
-- slug: 2026-04-14-ohio-nursing-homes-send-patients-to-homeless-shelters-federal-inspectors-say
-  headline: Ohio nursing homes send patients to homeless shelters, federal inspectors say
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.5958
-- slug: 2026-03-27-why-some-families-deliberately-spend-down-income-for-medicaid-nursing-care
-  headline: Why some families deliberately spend down income for Medicaid nursing care
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.6092
-- slug: 2026-04-13-ohio-nursing-homes-transfer-patients-to-homeless-shelters-federal-finds
-  headline: Ohio nursing homes transfer patients to homeless shelters, federal finds
-  publish_date: '2026-04-13'
-  relation: related
-  strength: 0.5907
-- slug: 2026-02-11-what-to-look-for-when-choosing-nursing-home-or-assisted-living-care
-  headline: What to look for when choosing nursing home or assisted living care
-  publish_date: '2026-02-11'
-  relation: related
-  strength: 0.6356
-- slug: 2026-01-05-michigan-nursing-homes-log-nearly-6-000-abuse-and-neglect-cases-as-reform-stalls
-  headline: Michigan nursing homes log nearly 6,000 abuse and neglect cases as reform stalls
-  publish_date: '2026-01-05'
-  relation: related
-  strength: 0.636
-- slug: 2025-12-31-vermont-provides-millions-for-nursing-home-bailouts-as-beds-shrink
-  headline: Vermont provides millions for nursing home bailouts as beds shrink
-  publish_date: '2025-12-31'
-  relation: related
-  strength: 0.6318
-- slug: 2026-03-05-911-calls-and-interviews-raise-concerns-about-ice-camp-conditions-in-el-paso
-  headline: 911 calls and interviews raise concerns about ICE camp conditions in El Paso
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.5937
-- slug: 2026-01-12-massachusetts-enacts-assisted-living-safety-reforms-after-fire-killed-10
-  headline: Massachusetts enacts assisted living safety reforms after fire killed 10
-  publish_date: '2026-01-12'
-  relation: related
-  strength: 0.6105
-- slug: 2026-01-15-nyc-nurses-resume-contract-talks-on-fourth-day-of-strike
-  headline: NYC nurses resume contract talks on fourth day of strike
-  publish_date: '2026-01-15'
-  relation: related
-  strength: 0.6041
-- slug: 2026-01-28-gas-smell-reported-hours-before-deadly-nursing-home-explosion
-  headline: Gas smell reported hours before deadly nursing home explosion
-  publish_date: '2026-01-28'
-  relation: related
-  strength: 0.5987
-- slug: 2026-02-19-paid-leave-for-caregivers-gains-momentum-as-us-population-ages
-  headline: Paid leave for caregivers gains momentum as US population ages
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.5889
-- slug: 2026-01-26-emergency-birth-exposes-maine-s-rural-maternity-care-crisis
-  headline: Emergency birth exposes Maine's rural maternity care crisis
-  publish_date: '2026-01-26'
-  relation: related
-  strength: 0.5963
-- slug: 2026-01-27-31-000-kaiser-permanente-workers-strike-for-better-wages-and-staffing
-  headline: 31,000 Kaiser Permanente workers strike for better wages and staffing
-  publish_date: '2026-01-27'
-  relation: related
-  strength: 0.5938
-- slug: 2026-01-20-sanders-mamdani-rally-striking-nyc-nurses-on-day-9
-  headline: Sanders, Mamdani rally striking NYC nurses on day 9
-  publish_date: '2026-01-20'
-  relation: related
-  strength: 0.5958
+related_stories: []
 ---
-
 ## Half of Massachusetts nursing homes are understaffed
 
 **Subtype:** fact

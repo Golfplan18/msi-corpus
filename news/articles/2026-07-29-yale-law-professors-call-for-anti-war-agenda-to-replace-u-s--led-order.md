@@ -2,8 +2,12 @@
 headline: Yale law professors call for anti-war agenda to replace U.S.-led order
 secondary_headline: Four-point proposal urges limits on self-defense and proxy wars
 publish_date: '2026-07-29'
-lede: Two Yale law professors published an op-ed in The Guardian on Wednesday arguing that the U.S.-led world order is in decline and proposing a four-point anti-war agenda built on mutual restraint among great powers in a multipolar world.
-nut_graf: The op-ed by Aslı Bâli and Samuel Moyn enters a debate over the future of international order as surveys show global favorability shifting away from the United States and allied nations seeking alternatives to American leadership.
+lede: Two Yale law professors published an op-ed in The Guardian on Wednesday arguing
+  that the U.S.-led world order is in decline and proposing a four-point anti-war
+  agenda built on mutual restraint among great powers in a multipolar world.
+nut_graf: The op-ed by Aslı Bâli and Samuel Moyn enters a debate over the future of
+  international order as surveys show global favorability shifting away from the United
+  States and allied nations seeking alternatives to American leadership.
 primary_entities:
 - Aslı Bâli
 - Samuel Moyn
@@ -34,7 +38,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 0
@@ -108,109 +113,8 @@ cross_article_links:
   relation: related
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-07-16-princeton-scholar-says-internal-governance-not-just-government-threatens-democra
-  headline: Princeton scholar says internal governance, not just government, threatens democracy
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.6381
-- slug: 2026-07-19-china-now-favored-over-us-in-global-opinion-pew-survey-shows
-  headline: China now favored over US in global opinion, Pew survey shows
-  publish_date: '2026-07-19'
-  relation: related
-  strength: 0.6013
-- slug: 2026-07-10-yale-weighs-second-settlement-offer-as-faculty-alumni-press-leadership-to-resist
-  headline: Yale weighs second settlement offer as faculty, alumni press leadership to resist
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.6025
-- slug: 2026-07-09-arocena-argues-globalization-lifted-global-poor-departing-from-dependency-theory
-  headline: Arocena argues globalization lifted global poor, departing from dependency theory
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.5917
-- slug: 2026-07-07-nato-allies-race-to-replace-withdrawn-u-s-military-capabilities
-  headline: NATO allies race to replace withdrawn U.S. military capabilities
-  publish_date: '2026-07-07'
-  relation: related
-  strength: 0.5764
-- slug: 2026-06-20-even-in-an-age-of-global-rupture-military-superpowers-face-limits-analyst-says
-  headline: Even in an age of global rupture, military superpowers face limits, analyst says
-  publish_date: '2026-06-20'
-  relation: related
-  strength: 0.636
-- slug: 2026-06-24-china-s-coast-guard-asserts-authority-over-foreign-ships-near-taiwan-drawing-u-s
-  headline: China's coast guard asserts authority over foreign ships near Taiwan, drawing U.S. rebuke
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.5815
-- slug: 2026-06-10-great-powers-confront-limits-as-modern-warfare-levels-the-battlefield
-  headline: Great powers confront limits as modern warfare levels the battlefield
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.5948
-- slug: 2026-06-01-trump-demands-arab-states-join-abraham-accords-as-part-of-iran-deal
-  headline: Trump demands Arab states join Abraham Accords as part of Iran deal
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.5753
-- slug: 2026-05-23-un-general-assembly-backs-advisory-opinion-on-climate-duties-after-us-opposition
-  headline: UN General Assembly backs advisory opinion on climate duties after US opposition
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.582
-- slug: 2026-05-18-pentagon-releases-defense-strategy-emphasizing-western-hemisphere-over-china
-  headline: Pentagon releases defense strategy emphasizing Western Hemisphere over China
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.58
-- slug: 2026-05-20-scientists-narrow-climate-warming-futures-but-say-1-5-c-is-slipping
-  headline: Scientists narrow climate warming futures, but say 1.5°C is slipping
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.573
-- slug: 2026-04-18-progressive-leaders-rally-in-barcelona-to-defend-rules-based-world-order
-  headline: Progressive leaders rally in Barcelona to defend rules-based world order
-  publish_date: '2026-04-18'
-  relation: related
-  strength: 0.5874
-- slug: 2026-04-15-jackson-calls-supreme-court-emergency-orders-scratch-paper-musings-in-yale-speec
-  headline: Jackson calls Supreme Court emergency orders 'scratch-paper musings' in Yale speech
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.584
-- slug: 2026-01-23-trump-ties-foreign-policy-to-personal-whim-as-alarmed-allies-organize
-  headline: Trump ties foreign policy to personal whim as alarmed allies organize
-  publish_date: '2026-01-23'
-  relation: related
-  strength: 0.6258
-- slug: 2026-03-02-world-leaders-urge-peace-as-iran-us-and-israel-trade-strikes
-  headline: World leaders urge peace as Iran, US and Israel trade strikes
-  publish_date: '2026-03-02'
-  relation: related
-  strength: 0.5951
-- slug: 2026-03-08-china-calls-2026-a-landmark-year-for-us-ties-ahead-of-expected-trump-xi-summit
-  headline: China calls 2026 a 'landmark year' for US ties ahead of expected Trump-Xi summit
-  publish_date: '2026-03-08'
-  relation: related
-  strength: 0.577
-- slug: 2026-01-30-trump-s-board-of-peace-plan-draws-support-for-un-plus-skepticism
-  headline: Trump’s Board of Peace plan draws support for UN, plus skepticism
-  publish_date: '2026-01-30'
-  relation: related
-  strength: 0.5936
-- slug: 2026-01-20-trump-s-greenland-threats-jeopardize-gaza-peace-board
-  headline: Trump's Greenland threats jeopardize Gaza peace board
-  publish_date: '2026-01-20'
-  relation: related
-  strength: 0.5937
-- slug: 2026-01-22-trump-s-greenland-demands-prompt-european-allies-to-seek-independent-strategies
-  headline: Trump's Greenland demands prompt European allies to seek independent strategies
-  publish_date: '2026-01-22'
-  relation: related
-  strength: 0.584
+related_stories: []
 ---
-
 ## Yale law professors call for anti-war agenda to replace U.S.-led order
 
 **Subtype:** fact

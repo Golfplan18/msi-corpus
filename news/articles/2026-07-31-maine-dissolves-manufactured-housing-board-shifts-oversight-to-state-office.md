@@ -1,9 +1,18 @@
 ---
 headline: Maine dissolves manufactured housing board, shifts oversight to state office
-secondary_headline: Residents hopeful new structure will better enforce park standards; industry warns of lost expertise
+secondary_headline: Residents hopeful new structure will better enforce park standards;
+  industry warns of lost expertise
 publish_date: '2026-07-31'
-lede: Maine dissolved its nearly 50-year-old Manufactured Housing Board on July 29 and shifted its four-person staff and oversight duties to the Maine Office of Community Affairs, restructuring how the state regulates the manufactured housing industry. The move comes as out-of-state investors have been buying up mobile home parks and follows a report that found weaknesses in the state’s ability to handle resident complaints, according to the Associated Press.
-nut_graf: The change is designed to create a more efficient system for addressing issues in manufactured housing communities, which are seen as one of the last affordable housing options in the state, though some in the industry worry that eliminating the board will remove specialized knowledge from the regulatory process.
+lede: Maine dissolved its nearly 50-year-old Manufactured Housing Board on July 29
+  and shifted its four-person staff and oversight duties to the Maine Office of Community
+  Affairs, restructuring how the state regulates the manufactured housing industry.
+  The move comes as out-of-state investors have been buying up mobile home parks and
+  follows a report that found weaknesses in the state’s ability to handle resident
+  complaints, according to the Associated Press.
+nut_graf: The change is designed to create a more efficient system for addressing
+  issues in manufactured housing communities, which are seen as one of the last affordable
+  housing options in the state, though some in the industry worry that eliminating
+  the board will remove specialized knowledge from the regulatory process.
 primary_entities:
 - Maine
 - Maine Manufactured Housing Board
@@ -49,7 +58,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -151,104 +161,23 @@ related_stories:
   headline: Maine seeks contractor for packaging waste program as towns weigh opt-in
   publish_date: '2026-07-15'
   relation: related
-  strength: 0.663
-- slug: 2026-06-24-massachusetts-supreme-court-strikes-down-rent-control-ballot-measure
-  headline: Massachusetts Supreme Court Strikes Down Rent-Control Ballot Measure
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.5997
-- slug: 2026-06-12-maine-begins-ranked-choice-ballot-counting-for-governor-house-primaries
-  headline: Maine begins ranked-choice ballot counting for governor, House primaries
-  publish_date: '2026-06-12'
-  relation: related
-  strength: 0.6347
-- slug: 2026-06-09-wyoming-s-data-center-boom-fuels-backlash-over-man-camp-housing-for-5-600-worker
-  headline: Wyoming’s data-center boom fuels backlash over ‘man camp’ housing for 5,600 workers
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.612
-- slug: 2026-05-13-maine-ranked-choice-voting-remains-stuck-in-hybrid-limbo-for-nov-elections
-  headline: Maine ranked-choice voting remains stuck in hybrid limbo for Nov elections
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6393
-- slug: 2026-05-21-montana-land-board-adopts-new-land-swap-criteria-after-limited-public-notice
-  headline: Montana Land Board adopts new land-swap criteria after limited public notice
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6222
+  strength: 0.6636
 - slug: 2026-04-24-maine-signs-zoning-bill-clarifying-affordable-housing-rules-and-deadlines
   headline: Maine signs zoning bill clarifying affordable-housing rules and deadlines
   publish_date: '2026-04-24'
   relation: related
-  strength: 0.6668
-- slug: 2026-05-21-montana-land-board-overhauls-land-swap-process-after-yearslong-dispute
-  headline: Montana Land Board overhauls land-swap process after yearslong dispute
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6087
+  strength: 0.6648
 - slug: 2026-03-18-maine-lawmakers-consider-fund-to-turn-closed-schools-into-housing
   headline: Maine lawmakers consider fund to turn closed schools into housing
   publish_date: '2026-03-18'
   relation: related
   strength: 0.6932
-- slug: 2026-05-13-maine-s-ranked-choice-voting-remains-in-constitutional-limbo-with-no-clear-path-
-  headline: Maine's ranked-choice voting remains in constitutional limbo, with no clear path forward
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6122
-- slug: 2026-04-15-maine-legislature-approves-nation-s-first-statewide-data-center-moratorium-bill
-  headline: Maine legislature approves nation's first statewide data center moratorium bill
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.6441
 - slug: 2026-04-02-maine-lawmakers-weigh-how-to-use-growing-home-sale-tax-for-housing
   headline: Maine lawmakers weigh how to use growing home-sale tax for housing
   publish_date: '2026-04-02'
   relation: related
-  strength: 0.6529
-- slug: 2026-04-08-arizona-lawmakers-consider-bills-to-curb-mobile-home-utility-markups
-  headline: Arizona lawmakers consider bills to curb mobile-home utility markups
-  publish_date: '2026-04-08'
-  relation: related
-  strength: 0.6454
-- slug: 2026-03-28-made-in-america-law-is-causing-problems-for-affordable-housing-developers
-  headline: Made in America law is causing problems for affordable housing developers
-  publish_date: '2026-03-28'
-  relation: related
-  strength: 0.6348
-- slug: 2026-04-15-maryland-democrats-drop-mid-decade-congressional-map-push-backed-by-wes-moore
-  headline: Maryland Democrats drop mid-decade congressional map push backed by Wes Moore
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.6008
-- slug: 2026-04-11-us-communities-push-back-on-plans-to-convert-warehouses-into-detention-centers
-  headline: US communities push back on plans to convert warehouses into detention centers
-  publish_date: '2026-04-11'
-  relation: related
-  strength: 0.6007
-- slug: 2026-03-10-california-has-40-000-affordable-units-ready-but-funding-delays-remain
-  headline: California has 40,000 affordable units ready, but funding delays remain
-  publish_date: '2026-03-10'
-  relation: related
-  strength: 0.6098
-- slug: 2026-01-12-massachusetts-enacts-assisted-living-safety-reforms-after-fire-killed-10
-  headline: Massachusetts enacts assisted living safety reforms after fire killed 10
-  publish_date: '2026-01-12'
-  relation: related
-  strength: 0.6315
-- slug: 2026-03-05-maine-lobster-catch-declines-again-for-fourth-straight-year
-  headline: Maine lobster catch declines again for fourth straight year
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.6103
-- slug: 2026-03-13-senate-passes-bipartisan-housing-bill-to-improve-access-and-affordability
-  headline: Senate passes bipartisan housing bill to improve access and affordability
-  publish_date: '2026-03-13'
-  relation: related
-  strength: 0.6006
+  strength: 0.6528
 ---
-
 ## Maine dissolves manufactured housing board, shifts oversight to state office
 
 **Subtype:** fact

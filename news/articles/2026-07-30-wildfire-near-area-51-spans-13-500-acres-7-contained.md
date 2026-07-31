@@ -2,8 +2,13 @@
 headline: Wildfire near Area 51 spans 13,500 acres, 7% contained
 secondary_headline: Rough terrain, high temperatures and dry winds fuel fire's growth
 publish_date: '2026-07-30'
-lede: A wildfire burning near the highly classified Area 51 facility in Nevada has consumed more than 13,500 acres and is 7% contained after nearly a week, the Bureau of Land Management said. The Quail Springs Fire, sparked by lightning, is spreading across the restricted Nevada Test and Training Range.
-nut_graf: The Quail Springs Fire illustrates the difficult firefighting conditions in the western United States, where more than a million acres have burned in Oregon and Canada still has hundreds of active fires.
+lede: A wildfire burning near the highly classified Area 51 facility in Nevada has
+  consumed more than 13,500 acres and is 7% contained after nearly a week, the Bureau
+  of Land Management said. The Quail Springs Fire, sparked by lightning, is spreading
+  across the restricted Nevada Test and Training Range.
+nut_graf: The Quail Springs Fire illustrates the difficult firefighting conditions
+  in the western United States, where more than a million acres have burned in Oregon
+  and Canada still has hundreds of active fires.
 primary_entities:
 - Area 51
 - Bureau of Land Management
@@ -31,7 +36,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 0
@@ -126,108 +132,17 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-07-27-oregon-wildfires-burn-over-1-million-acres-thousands-under-evacuation-orders
-  headline: Oregon wildfires burn over 1 million acres, thousands under evacuation orders
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.5974
 - slug: 2026-07-17-canada-battles-nearly-900-wildfires-as-trump-threatens-tariffs-over-smoke
   headline: Canada battles nearly 900 wildfires as Trump threatens tariffs over smoke
   publish_date: '2026-07-17'
   relation: related
   strength: 0.6529
-- slug: 2026-07-16-canadian-wildfire-smoke-shrouds-northeast-midwest-in-hazardous-air
-  headline: Canadian wildfire smoke shrouds Northeast, Midwest in hazardous air
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.6238
-- slug: 2026-07-15-canadian-wildfire-smoke-blankets-midwest-northeast
-  headline: Canadian wildfire smoke blankets Midwest, Northeast
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.6243
-- slug: 2026-07-15-wildfire-surrounds-freight-train-in-ontario-crew-reported-encased-in-flames
-  headline: Wildfire surrounds freight train in Ontario, crew reported 'encased' in flames
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.6153
-- slug: 2026-07-11-brush-fire-northeast-of-los-angeles-grows-to-2-700-acres-prompts-evacuations
-  headline: Brush fire northeast of Los Angeles grows to 2,700 acres, prompts evacuations
-  publish_date: '2026-07-11'
-  relation: related
-  strength: 0.6215
-- slug: 2026-06-28-three-wildland-firefighters-die-in-colorado-utah-border-blazes
-  headline: Three wildland firefighters die in Colorado-Utah border blazes
-  publish_date: '2026-06-28'
-  relation: related
-  strength: 0.6197
-- slug: 2026-06-30-drought-heat-raise-july-4-wildfire-risk-from-fireworks-researcher-warns
-  headline: Drought, heat raise July 4 wildfire risk from fireworks, researcher warns
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.5987
-- slug: 2026-06-26-nws-issues-first-particularly-dangerous-situation-red-flag-warning-for-utah
-  headline: NWS issues first 'Particularly Dangerous Situation' red flag warning for Utah
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6121
-- slug: 2026-06-21-utah-wildfire-forces-evacuation-of-eureka-as-extreme-heat-grips-us-west
-  headline: Utah wildfire forces evacuation of Eureka as extreme heat grips US West
-  publish_date: '2026-06-21'
-  relation: related
-  strength: 0.6135
-- slug: 2026-06-18-heat-waves-drive-42-of-western-us-wildfire-burn-area-study-finds
-  headline: Heat waves drive 42% of Western US wildfire burn area, study finds
-  publish_date: '2026-06-18'
-  relation: related
-  strength: 0.6167
-- slug: 2026-05-10-rescue-workers-battle-south-florida-wildfires-that-spread-in-everglades
-  headline: Rescue workers battle South Florida wildfires that spread in Everglades
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6405
-- slug: 2026-05-10-south-florida-wildfires-burn-5-900-acres-as-crews-work-to-contain-everglades-bla
-  headline: South Florida wildfires burn 5,900 acres as crews work to contain Everglades blazes
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.6392
-- slug: 2026-05-18-new-mexico-wildfire-sparked-by-medical-plane-crash-spurs-evacuations
-  headline: New Mexico wildfire sparked by medical plane crash spurs evacuations
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.6131
-- slug: 2026-05-19-sandy-fire-evacuation-orders-top-17-000-as-fire-spreads-in-simi-valley
-  headline: Sandy Fire evacuation orders top 17,000 as fire spreads in Simi Valley
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6039
-- slug: 2026-05-19-new-mexico-wildfire-grows-after-fatal-medical-plane-crash-near-ruidoso
-  headline: New Mexico wildfire grows after fatal medical plane crash near Ruidoso
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6035
-- slug: 2026-04-17-wildfire-burning-season-extends-36-in-north-america-due-to-climate-change
-  headline: Wildfire burning season extends 36% in North America due to climate change
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.6389
 - slug: 2026-03-19-nebraska-wildfires-burn-into-day-7-as-winds-ease-but-danger-persists
   headline: Nebraska wildfires burn into day 7 as winds ease but danger persists
   publish_date: '2026-03-19'
   relation: related
   strength: 0.6649
-- slug: 2026-04-04-southern-california-wildfire-prompts-evacuation-orders
-  headline: Southern California wildfire prompts evacuation orders
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.6393
-- slug: 2026-04-21-test-fires-help-scientists-protect-homes-from-climate-change-fueled-wildfires
-  headline: Test fires help scientists protect homes from climate-change fueled wildfires
-  publish_date: '2026-04-21'
-  relation: related
-  strength: 0.6116
 ---
-
 ## Wildfire near Area 51 spans 13,500 acres, 7% contained
 
 **Subtype:** fact

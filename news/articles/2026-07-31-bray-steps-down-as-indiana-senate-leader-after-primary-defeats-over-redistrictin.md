@@ -2,8 +2,11 @@
 headline: Bray steps down as Indiana Senate leader after primary defeats over redistricting
 secondary_headline: Bray voted against Trump's redistricting plan in December
 publish_date: '2026-07-31'
-lede: Indiana Senate President Pro Tem Rodric Bray announced Friday he will step down as Republican leader, a decision that follows the primary defeats of six GOP incumbents who opposed President Donald Trump's congressional redistricting push.
-nut_graf: Bray, who has led the Indiana Senate since 2018, will remain in the chamber through 2028 but will no longer serve as its top Republican.
+lede: Indiana Senate President Pro Tem Rodric Bray announced Friday he will step down
+  as Republican leader, a decision that follows the primary defeats of six GOP incumbents
+  who opposed President Donald Trump's congressional redistricting push.
+nut_graf: Bray, who has led the Indiana Senate since 2018, will remain in the chamber
+  through 2028 but will no longer serve as its top Republican.
 primary_entities:
 - Donald Trump
 - Rodric Bray
@@ -37,7 +40,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -135,117 +139,26 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-07-22-cleo-fields-won-t-seek-reelection-after-louisiana-redraws-his-district
-  headline: Cleo Fields won't seek reelection after Louisiana redraws his district
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.5708
-- slug: 2026-07-20-jackson-moves-ahead-in-maine-senate-delegate-race-after-rivals-quit
-  headline: Jackson moves ahead in Maine Senate delegate race after rivals quit
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.5741
 - slug: 2026-05-06-trump-backed-candidates-win-majority-of-gop-primary-races-for-indiana-senate
-  headline: Trump-backed candidates win majority of GOP primary races for Indiana Senate
+  headline: Trump-backed candidates win majority of GOP primary races for Indiana
+    Senate
   publish_date: '2026-05-06'
   relation: related
   strength: 0.6511
-- slug: 2026-05-08-indiana-primary-shows-how-trump-can-punish-republicans-who-defy-him
-  headline: Indiana primary shows how Trump can punish Republicans who defy him
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.6424
-- slug: 2026-05-26-south-carolina-senate-rejects-trump-s-push-for-new-congressional-maps
-  headline: South Carolina Senate rejects Trump's push for new congressional maps
-  publish_date: '2026-05-26'
-  relation: related
-  strength: 0.6038
-- slug: 2026-05-03-what-to-expect-in-indiana-s-state-primaries-as-trump-targets-gop-senators
-  headline: What to expect in Indiana’s state primaries as Trump targets GOP senators
-  publish_date: '2026-05-03'
-  relation: related
-  strength: 0.6397
-- slug: 2026-05-30-louisiana-enacts-new-congressional-map-cutting-majority-black-district
-  headline: Louisiana enacts new congressional map cutting majority-Black district
-  publish_date: '2026-05-30'
-  relation: related
-  strength: 0.5751
-- slug: 2026-05-28-louisiana-house-advances-gop-redistricting-plan-following-supreme-court-ruling
-  headline: Louisiana House advances GOP redistricting plan following Supreme Court ruling
-  publish_date: '2026-05-28'
-  relation: related
-  strength: 0.579
-- slug: 2026-05-19-south-carolina-house-approves-gop-leaning-congressional-map-senate-next
-  headline: South Carolina House approves GOP-leaning congressional map, Senate next
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.5907
-- slug: 2026-05-06-trump-backed-wins-in-indiana-but-democrats-gain-momentum-in-ohio-and-michigan
-  headline: Trump-backed wins in Indiana, but Democrats gain momentum in Ohio and Michigan
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.6083
-- slug: 2026-05-22-southern-republicans-accelerate-redistricting-ahead-of-2026-midterms
-  headline: Southern Republicans accelerate redistricting ahead of 2026 midterms
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.5723
-- slug: 2026-04-18-trump-backs-primary-challengers-to-indiana-senators-who-rejected-redistricting
-  headline: Trump backs primary challengers to Indiana senators who rejected redistricting
-  publish_date: '2026-04-18'
-  relation: related
-  strength: 0.6273
-- slug: 2026-05-15-louisiana-senate-approves-new-house-map-eliminating-majority-black-district
-  headline: Louisiana Senate approves new House map eliminating majority-Black district
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.5802
-- slug: 2026-05-19-south-carolina-house-passes-new-congressional-map-bill-heads-to-senate
-  headline: South Carolina House passes new congressional map, bill heads to Senate
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.5716
-- slug: 2026-05-17-trump-retribution-ends-cassidy-s-senate-career-five-years-after-impeachment-vote
-  headline: Trump retribution ends Cassidy's Senate career five years after impeachment vote
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.5738
-- slug: 2026-05-04-indiana-voters-head-to-polls-tuesday-for-state-primaries-and-u-s-house-races
-  headline: Indiana voters head to polls Tuesday for state primaries and U.S. House races
-  publish_date: '2026-05-04'
-  relation: related
-  strength: 0.5967
-- slug: 2026-05-18-alabama-to-hold-primaries-in-three-districts-as-redistricting-delays-four-others
-  headline: Alabama to hold primaries in three districts as redistricting delays four others
-  publish_date: '2026-05-18'
-  relation: related
-  strength: 0.5701
-- slug: 2026-05-10-after-supreme-court-ruling-gop-led-states-rush-to-redraw-congressional-maps
-  headline: After Supreme Court ruling, GOP-led states rush to redraw congressional maps
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.5818
-- slug: 2026-05-08-southern-republicans-press-ahead-with-election-year-redistricting
-  headline: Southern Republicans press ahead with election-year redistricting
-  publish_date: '2026-05-08'
-  relation: related
-  strength: 0.5746
-- slug: 2026-05-02-louisiana-suspends-congressional-primaries-after-supreme-court-voting-rights-rul
-  headline: Louisiana suspends congressional primaries after Supreme Court Voting Rights ruling
-  publish_date: '2026-05-02'
-  relation: related
-  strength: 0.5722
 image:
   url: /articles/2026-07-31-bray-steps-down-as-indiana-senate-leader-after-primary-defeats-over-redistrictin.png
-  alt: "Illustration accompanying article: Bray steps down as Indiana Senate leader after primary defeats over redistricting"
+  alt: 'Illustration accompanying article: Bray steps down as Indiana Senate leader
+    after primary defeats over redistricting'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:openai/gpt-5.4-image-2"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Bray steps down as Indiana Senate leader after primary defeats over redistricting
 
 **Subtype:** fact  

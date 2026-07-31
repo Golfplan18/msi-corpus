@@ -1,9 +1,19 @@
 ---
 headline: Hong leads Wisconsin primary poll as Barnes withdraws
-secondary_headline: State party's 2025 probe of anonymous claims found no actionable evidence
+secondary_headline: State party's 2025 probe of anonymous claims found no actionable
+  evidence
 publish_date: '2026-07-30'
-lede: Former Wisconsin Lt. Gov. Mandela Barnes ended his campaign for the Democratic gubernatorial nomination on Thursday, less than two weeks before the Aug. 11 primary, announcing in a video posted to social media that he no longer saw a viable path to the nomination. A Marquette Law School poll showed Francesca Hong leading with 38 percent support among primary voters, compared with 16 percent for Barnes.
-nut_graf: Barnes is the third Democrat to leave the race, after Lt. Gov. Sara Rodriguez withdrew amid a campaign finance scandal and former state economic development director Missy Hughes ended her campaign. Milwaukee County Executive David Crowley, who holds Gov. Tony Evers's endorsement, and Hong now lead the field heading into the Aug. 11 vote. Wisconsin, a perennial presidential battleground, has been at the center of national disputes over election administration since the 2020 election.
+lede: Former Wisconsin Lt. Gov. Mandela Barnes ended his campaign for the Democratic
+  gubernatorial nomination on Thursday, less than two weeks before the Aug. 11 primary,
+  announcing in a video posted to social media that he no longer saw a viable path
+  to the nomination. A Marquette Law School poll showed Francesca Hong leading with
+  38 percent support among primary voters, compared with 16 percent for Barnes.
+nut_graf: Barnes is the third Democrat to leave the race, after Lt. Gov. Sara Rodriguez
+  withdrew amid a campaign finance scandal and former state economic development director
+  Missy Hughes ended her campaign. Milwaukee County Executive David Crowley, who holds
+  Gov. Tony Evers's endorsement, and Hong now lead the field heading into the Aug.
+  11 vote. Wisconsin, a perennial presidential battleground, has been at the center
+  of national disputes over election administration since the 2020 election.
 primary_entities:
 - Mandela Barnes
 - Francesca Hong
@@ -36,7 +46,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 4
@@ -136,108 +147,33 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-07-30-barnes-exits-wisconsin-governor-primary-hong-leads-in-poll
+  headline: Barnes exits Wisconsin governor primary; Hong leads in poll
+  publish_date: '2026-07-30'
+  relation: related
+  strength: 0.9164
 - slug: 2026-07-18-evers-endorses-crowley-in-wisconsin-democratic-primary
   headline: Evers endorses Crowley in Wisconsin Democratic primary
   publish_date: '2026-07-18'
   relation: related
-  strength: 0.749
+  strength: 0.7484
 - slug: 2026-07-17-rodriguez-drops-out-of-wisconsin-governor-s-race
   headline: Rodriguez drops out of Wisconsin governor's race
   publish_date: '2026-07-17'
   relation: related
   strength: 0.7405
 - slug: 2026-07-21-wisconsin-democrats-ask-to-reissue-absentee-ballots-after-primary-field-shifts
-  headline: Wisconsin Democrats ask to reissue absentee ballots after primary field shifts
+  headline: Wisconsin Democrats ask to reissue absentee ballots after primary field
+    shifts
   publish_date: '2026-07-21'
   relation: related
-  strength: 0.6703
-- slug: 2026-07-12-el-sayed-and-stevens-compete-in-michigan-democratic-senate-primary
-  headline: El-Sayed and Stevens compete in Michigan Democratic Senate primary
-  publish_date: '2026-07-12'
-  relation: related
-  strength: 0.6172
-- slug: 2026-07-09-cheyenne-hunt-surfaced-allegations-that-felled-democrats-platner-swalwell
-  headline: Cheyenne Hunt surfaced allegations that felled Democrats Platner, Swalwell
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.6115
-- slug: 2026-07-05-mcmorrow-suspends-michigan-senate-bid-narrowing-primary-field
-  headline: McMorrow suspends Michigan Senate bid, narrowing primary field
-  publish_date: '2026-07-05'
-  relation: related
-  strength: 0.6158
-- slug: 2026-06-06-democrats-divided-on-strategy-as-primaries-test-fractured-party
-  headline: Democrats divided on strategy as primaries test fractured party
-  publish_date: '2026-06-06'
-  relation: related
-  strength: 0.6107
-- slug: 2026-06-01-democrat-rob-sand-eyes-iowa-governor-s-race-as-party-targets-midterm-gains
-  headline: Democrat Rob Sand eyes Iowa governor’s race as party targets midterm gains
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.6163
-- slug: 2026-04-13-swalwell-suspends-california-governor-campaign-after-sexual-assault-claims
-  headline: Swalwell suspends California governor campaign after sexual assault claims
-  publish_date: '2026-04-13'
-  relation: related
-  strength: 0.6497
-- slug: 2026-04-11-swalwell-denies-sexual-assault-allegations-as-allies-pull-support
-  headline: Swalwell denies sexual assault allegations as allies pull support
-  publish_date: '2026-04-11'
-  relation: related
-  strength: 0.6443
-- slug: 2026-04-12-swalwell-s-california-governor-bid-loses-key-democratic-endorsements-over-assaul
-  headline: Swalwell’s California governor bid loses key Democratic endorsements over assault claims
-  publish_date: '2026-04-12'
-  relation: related
-  strength: 0.6382
-- slug: 2026-04-15-swalwell-exits-congress-and-california-governor-race-amid-misconduct-allegations
-  headline: Swalwell exits Congress and California governor race amid misconduct allegations
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.6256
-- slug: 2026-04-05-wisconsin-voters-weigh-supreme-court-seat-and-waukesha-mayor-s-race
-  headline: Wisconsin voters weigh Supreme Court seat and Waukesha mayor’s race
-  publish_date: '2026-04-05'
-  relation: related
-  strength: 0.6322
-- slug: 2026-04-07-what-to-expect-in-wisconsin-s-spring-election-for-supreme-court-waukesha-mayor
-  headline: What to expect in Wisconsin’s spring election for Supreme Court, Waukesha mayor
-  publish_date: '2026-04-07'
-  relation: related
-  strength: 0.6291
-- slug: 2026-04-06-wisconsin-spring-election-pits-supreme-court-contenders-and-waukesha-mayor-race
-  headline: Wisconsin spring election pits Supreme Court contenders and Waukesha mayor race
-  publish_date: '2026-04-06'
-  relation: related
-  strength: 0.6271
-- slug: 2026-04-14-swalwell-exit-leaves-california-governor-s-race-in-disarray
-  headline: Swalwell exit leaves California governor’s race in disarray
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.6069
+  strength: 0.6694
 - slug: 2026-01-15-wisconsin-democrats-pursue-statehouse-trifecta-for-first-time-in-16-years
   headline: Wisconsin Democrats pursue statehouse trifecta for first time in 16 years
   publish_date: '2026-01-15'
   relation: related
-  strength: 0.6535
-- slug: 2026-03-19-bondi-keeps-interim-u-s-attorney-brad-schimel-in-wisconsin-under-new-title
-  headline: Bondi keeps interim U.S. attorney Brad Schimel in Wisconsin under new title
-  publish_date: '2026-03-19'
-  relation: related
-  strength: 0.618
-- slug: 2026-01-27-trump-endorses-rep-tom-tiffany-in-wisconsin-governor-race-rival-quits
-  headline: Trump endorses Rep. Tom Tiffany in Wisconsin governor race, rival quits
-  publish_date: '2026-01-27'
-  relation: related
-  strength: 0.6425
-- slug: 2026-01-06-walz-drops-bid-for-third-term-as-minnesota-governor-klobuchar-weighs-entry
-  headline: Walz drops bid for third term as Minnesota governor; Klobuchar weighs entry
-  publish_date: '2026-01-06'
-  relation: related
-  strength: 0.6476
+  strength: 0.6531
 ---
-
 ## Hong leads Wisconsin primary poll as Barnes withdraws
 
 **Subtype:** fact

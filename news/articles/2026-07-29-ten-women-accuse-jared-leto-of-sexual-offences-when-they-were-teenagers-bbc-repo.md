@@ -1,9 +1,19 @@
 ---
-headline: Ten women accuse Jared Leto of sexual offences when they were teenagers, BBC reports
+headline: Ten women accuse Jared Leto of sexual offences when they were teenagers,
+  BBC reports
 secondary_headline: BBC corroborated allegations with NDA, photos, and witness testimony
 publish_date: '2026-07-29'
-lede: Ten women have told the BBC they experienced sexual misconduct by actor and musician Jared Leto when they were teenagers, including four who allege criminal sexual offences, according to a BBC documentary published Wednesday. The BBC corroborated several accounts with friends, family, and documentary evidence, including a non-disclosure agreement sent to one woman.
-nut_graf: 'The investigation, drawn from a BBC documentary titled Jared Leto: Hollywood’s Dark Secret, marks the first time nine of the ten women interviewed have shared their accounts publicly. The BBC reviewed pictures, messages, and a non-disclosure agreement that corroborated several allegations, and spoke to friends and family members who were told about the encounters at the time. The women describe meeting Leto at concerts, hotels, and through modeling agencies.'
+lede: Ten women have told the BBC they experienced sexual misconduct by actor and
+  musician Jared Leto when they were teenagers, including four who allege criminal
+  sexual offences, according to a BBC documentary published Wednesday. The BBC corroborated
+  several accounts with friends, family, and documentary evidence, including a non-disclosure
+  agreement sent to one woman.
+nut_graf: 'The investigation, drawn from a BBC documentary titled Jared Leto: Hollywood’s
+  Dark Secret, marks the first time nine of the ten women interviewed have shared
+  their accounts publicly. The BBC reviewed pictures, messages, and a non-disclosure
+  agreement that corroborated several allegations, and spoke to friends and family
+  members who were told about the encounters at the time. The women describe meeting
+  Leto at concerts, hotels, and through modeling agencies.'
 primary_entities:
 - Jared Leto
 - BBC
@@ -25,7 +35,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 0
@@ -57,109 +68,8 @@ cross_article_links:
   relation: related
   confidence: medium
 draft: false
-related_stories:
-- slug: 2026-07-28-education-department-probes-denver-washington-school-districts
-  headline: Education Department probes Denver, Washington school districts
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.5569
-- slug: 2026-07-19-uk-prosecutors-file-new-sex-offence-charges-against-tate-brothers
-  headline: UK prosecutors file new sex offence charges against Tate brothers
-  publish_date: '2026-07-19'
-  relation: related
-  strength: 0.5838
-- slug: 2026-07-21-external-review-documents-30-gates-foundation-meetings-with-epstein
-  headline: External review documents 30 Gates Foundation meetings with Epstein
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.5513
-- slug: 2026-07-15-former-cargo-ship-captain-pleads-guilty-to-raping-merchant-marine-cadet
-  headline: Former cargo ship captain pleads guilty to raping Merchant Marine cadet
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.5506
-- slug: 2026-06-26-leon-black-to-testify-friday-before-house-panel-investigating-epstein-ties
-  headline: Leon Black to testify Friday before House panel investigating Epstein ties
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.5672
-- slug: 2026-06-01-bill-gates-acknowledges-epstein-meetings-misses-microsoft-summit-after-doj-files
-  headline: Bill Gates acknowledges Epstein meetings, misses Microsoft summit after DOJ files
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.5623
-- slug: 2026-06-03-epstein-survivors-say-uk-government-ignored-their-pleas
-  headline: Epstein survivors say UK government ignored their pleas
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.5494
-- slug: 2026-03-27-jury-finds-meta-and-youtube-liable-in-landmark-child-safety-cases
-  headline: Jury finds Meta and YouTube liable in landmark child-safety cases
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.5518
-- slug: 2026-03-20-joseph-duggar-charged-in-florida-with-lewd-acts-involving-child
-  headline: Joseph Duggar charged in Florida with lewd acts involving child
-  publish_date: '2026-03-20'
-  relation: related
-  strength: 0.5549
-- slug: 2026-02-14-israel-s-barak-regrets-knowing-epstein-as-documents-show-long-ties
-  headline: Israel’s Barak regrets knowing Epstein as documents show long ties
-  publish_date: '2026-02-14'
-  relation: related
-  strength: 0.5735
-- slug: 2026-02-03-doj-takes-down-epstein-files-after-redaction-failures-may-expose-victims
-  headline: DOJ takes down Epstein files after redaction failures may expose victims
-  publish_date: '2026-02-03'
-  relation: related
-  strength: 0.5779
-- slug: 2026-03-05-doj-releases-previously-withheld-epstein-files-with-uncorroborated-trump-accusat
-  headline: DOJ releases previously withheld Epstein files with uncorroborated Trump accusation
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.5612
-- slug: 2026-02-20-trials-test-whether-social-media-companies-deliberately-harmed-children
-  headline: Trials test whether social media companies deliberately harmed children
-  publish_date: '2026-02-20'
-  relation: related
-  strength: 0.5633
-- slug: 2026-02-26-justice-department-to-review-whether-epstein-files-were-mistakenly-withheld
-  headline: Justice Department to review whether Epstein files were mistakenly withheld
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.5583
-- slug: 2026-02-04-uk-police-open-criminal-investigation-into-peter-mandelson-over-epstein-leaks
-  headline: UK police open criminal investigation into Peter Mandelson over Epstein leaks
-  publish_date: '2026-02-04'
-  relation: related
-  strength: 0.567
-- slug: 2026-03-04-alexander-brothers-sex-trafficking-trial-nears-end-as-prosecutors-rest-case
-  headline: Alexander brothers’ sex trafficking trial nears end as prosecutors rest case
-  publish_date: '2026-03-04'
-  relation: related
-  strength: 0.5532
-- slug: 2026-02-07-fbi-investigation-of-jeffrey-epstein-found-scant-evidence-of-a-trafficking-ring
-  headline: FBI investigation of Jeffrey Epstein found scant evidence of a trafficking ring
-  publish_date: '2026-02-07'
-  relation: related
-  strength: 0.5639
-- slug: 2026-01-26-sex-trafficking-trial-of-2-real-estate-agents-and-their-brother-underway
-  headline: Sex trafficking trial of 2 real estate agents and their brother underway
-  publish_date: '2026-01-26'
-  relation: related
-  strength: 0.5667
-- slug: 2026-02-04-deal-reached-to-protect-identities-of-epstein-victims-in-document-release
-  headline: Deal reached to protect identities of Epstein victims in document release
-  publish_date: '2026-02-04'
-  relation: related
-  strength: 0.5611
-- slug: 2026-02-10-fbi-records-say-it-found-scant-evidence-of-epstein-trafficking-ring
-  headline: FBI records say it found scant evidence of Epstein trafficking ring
-  publish_date: '2026-02-10'
-  relation: related
-  strength: 0.5566
+related_stories: []
 ---
-
 ## Ten women accuse Jared Leto of sexual offences when they were teenagers, BBC reports
 
 **Subtype:** fact

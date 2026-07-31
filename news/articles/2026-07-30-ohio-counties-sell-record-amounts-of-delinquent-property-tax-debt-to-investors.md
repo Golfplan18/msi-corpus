@@ -2,8 +2,13 @@
 headline: Ohio counties sell record amounts of delinquent property tax debt to investors
 secondary_headline: Liens carry up to 18% interest
 publish_date: '2026-07-30'
-lede: Several of Ohio's largest counties sold record amounts of delinquent property tax debt to investors in 2025 and 2026, with Cuyahoga County's $18 million June sale setting a new high for the county, according to data reported by the Associated Press and Signal Ohio.
-nut_graf: The purchases give investors the right to collect on the liens plus up to 18% interest from property owners who fell behind on taxes, as the practice has expanded since Ohio legalized it in 1998.
+lede: Several of Ohio's largest counties sold record amounts of delinquent property
+  tax debt to investors in 2025 and 2026, with Cuyahoga County's $18 million June
+  sale setting a new high for the county, according to data reported by the Associated
+  Press and Signal Ohio.
+nut_graf: The purchases give investors the right to collect on the liens plus up to
+  18% interest from property owners who fell behind on taxes, as the practice has
+  expanded since Ohio legalized it in 1998.
 primary_entities:
 - Ohio
 - Cuyahoga County
@@ -42,7 +47,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -140,23 +146,9 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-07-30-renter-owner-wealth-gap-at-highest-level-since-1989-analysis-finds
-  headline: Renter-owner wealth gap at highest level since 1989, analysis finds
-  publish_date: '2026-07-30'
-  relation: related
-  strength: 0.5383
-- slug: 2026-07-20-blm-schedules-lease-sale-for-fracking-in-ohio-s-wayne-national-forest
-  headline: BLM schedules lease sale for fracking in Ohio's Wayne National Forest
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.5805
-- slug: 2026-07-08-florida-cities-freeze-hiring-plan-cuts-ahead-of-property-tax-vote
-  headline: Florida cities freeze hiring, plan cuts ahead of property-tax vote
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.5384
 - slug: 2026-05-15-ohio-supreme-court-to-hear-case-on-whether-counties-can-keep-home-equity-beyond-
-  headline: Ohio Supreme Court to hear case on whether counties can keep home equity beyond tax debt
+  headline: Ohio Supreme Court to hear case on whether counties can keep home equity
+    beyond tax debt
   publish_date: '2026-05-15'
   relation: related
   strength: 0.7026
@@ -165,83 +157,7 @@ related_stories:
   publish_date: '2026-05-15'
   relation: related
   strength: 0.6791
-- slug: 2026-05-21-ohio-data-center-sales-tax-exemption-cost-1-6-billion-in-2025
-  headline: Ohio data center sales-tax exemption cost $1.6 billion in 2025
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.6264
-- slug: 2026-05-22-ohio-data-center-sales-tax-break-cost-1-4-billion-more-than-expected
-  headline: Ohio data center sales-tax break cost $1.4 billion more than expected
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.6128
-- slug: 2026-05-28-ohio-suspends-data-center-tax-break-as-ai-boom-strains-state-budgets
-  headline: Ohio suspends data center tax break as AI boom strains state budgets
-  publish_date: '2026-05-28'
-  relation: related
-  strength: 0.5775
-- slug: 2026-05-21-ohio-data-center-tax-break-cost-1-6-billion-in-2025-dwarfing-forecasts
-  headline: Ohio data center tax break cost $1.6 billion in 2025, dwarfing forecasts
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.5564
-- slug: 2026-06-01-miami-dade-taxpayers-may-foot-400m-bill-for-fisher-island-fuel-depot
-  headline: Miami-Dade taxpayers may foot $400M bill for Fisher Island fuel depot
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.5283
-- slug: 2026-05-07-orleans-parish-school-board-settles-2019-lawsuit-over-city-tax-fee-skimming
-  headline: Orleans Parish School Board settles 2019 lawsuit over city tax-fee skimming
-  publish_date: '2026-05-07'
-  relation: related
-  strength: 0.5353
-- slug: 2026-05-06-orleans-parish-school-board-votes-to-settle-2019-lawsuit-with-city
-  headline: Orleans Parish School Board votes to settle 2019 lawsuit with city
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.5359
-- slug: 2026-04-02-maine-lawmakers-weigh-how-to-use-growing-home-sale-tax-for-housing
-  headline: Maine lawmakers weigh how to use growing home-sale tax for housing
-  publish_date: '2026-04-02'
-  relation: related
-  strength: 0.5686
-- slug: 2026-05-01-ohio-county-referendum-tests-power-of-local-bans-on-solar
-  headline: Ohio county referendum tests power of local bans on solar
-  publish_date: '2026-05-01'
-  relation: related
-  strength: 0.5254
-- slug: 2026-04-24-bill-would-require-california-dmv-to-notify-owners-of-surplus-auction-funds
-  headline: Bill would require California DMV to notify owners of surplus auction funds
-  publish_date: '2026-04-24'
-  relation: related
-  strength: 0.5317
-- slug: 2026-04-15-53-million-filers-claimed-trump-tax-breaks-average-refund-rose-11-treasury-says
-  headline: 53 million filers claimed Trump tax breaks; average refund rose 11%, Treasury says
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.5396
-- slug: 2026-02-04-oceanfront-lahaina-property-owners-may-get-buyouts-under-revised-plan
-  headline: Oceanfront Lahaina property owners may get buyouts under revised plan
-  publish_date: '2026-02-04'
-  relation: related
-  strength: 0.5499
-- slug: 2026-01-12-arizona-firm-s-detroit-buying-spree-leaves-historic-neighborhood-in-ruins
-  headline: Arizona firm's Detroit buying spree leaves historic neighborhood in ruins
-  publish_date: '2026-01-12'
-  relation: related
-  strength: 0.5533
-- slug: 2026-01-19-ohio-imax-documentary-charts-state-s-comeback-from-burning-river-to-top-ranked-p
-  headline: Ohio IMAX documentary charts state's comeback from burning river to top-ranked parks
-  publish_date: '2026-01-19'
-  relation: related
-  strength: 0.5384
-- slug: 2026-01-08-hawaii-county-homeless-population-grows-despite-33-million-investment
-  headline: Hawaii County homeless population grows despite $33 million investment
-  publish_date: '2026-01-08'
-  relation: related
-  strength: 0.5394
 ---
-
 ## Ohio counties sell record amounts of delinquent property tax debt to investors
 
 **Subtype:** fact

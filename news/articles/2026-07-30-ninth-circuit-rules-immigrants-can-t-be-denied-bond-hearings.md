@@ -2,8 +2,11 @@
 headline: Ninth Circuit rules immigrants can’t be denied bond hearings
 secondary_headline: Federal appeals court says immigrants can't be denied bond hearings
 publish_date: '2026-07-30'
-lede: A federal appeals court has ruled that the Trump administration cannot deny immigrants detained inside the United States a chance for release on bond.
-nut_graf: The 2-1 decision by the San Francisco-based 9th U.S. Circuit Court of Appeals deepened a split between federal appeals courts over the administration's mandatory detention policy.
+lede: A federal appeals court has ruled that the Trump administration cannot deny
+  immigrants detained inside the United States a chance for release on bond.
+nut_graf: The 2-1 decision by the San Francisco-based 9th U.S. Circuit Court of Appeals
+  deepened a split between federal appeals courts over the administration's mandatory
+  detention policy.
 primary_entities:
 - Donald Trump
 - United States government
@@ -40,7 +43,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -106,81 +110,25 @@ related_stories:
   relation: related
   strength: 0.6862
 - slug: 2026-02-08-fifth-circuit-backs-trump-administration-on-immigrant-detention-without-bond
-  headline: Fifth Circuit backs Trump administration on immigrant detention without bond
+  headline: Fifth Circuit backs Trump administration on immigrant detention without
+    bond
   publish_date: '2026-02-08'
   relation: related
   strength: 0.8628
-- slug: 2026-05-25-no-bond-immigration-policy-took-root-in-tacoma-years-before-trump-adopted-it
-  headline: No-bond immigration policy took root in Tacoma years before Trump adopted it
-  publish_date: '2026-05-25'
-  relation: related
-  strength: 0.7406
-- slug: 2026-05-26-no-bond-immigrant-policy-echoed-in-tacoma-before-nationwide-rollout
-  headline: No-bond immigrant policy echoed in Tacoma before nationwide rollout
-  publish_date: '2026-05-26'
-  relation: related
-  strength: 0.7346
-- slug: 2026-03-27-appeals-court-sides-with-trump-administration-on-detaining-immigrants-without-bo
-  headline: Appeals court sides with Trump administration on detaining immigrants without bond
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.8061
-- slug: 2026-06-05-federal-judge-cancels-trump-immigration-policies-orders-restart
-  headline: Federal judge cancels Trump immigration policies, orders restart
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.6627
-- slug: 2026-05-26-supreme-court-sides-with-trump-in-immigration-judges-speech-case
-  headline: Supreme Court sides with Trump in immigration judges' speech case
-  publish_date: '2026-05-26'
-  relation: related
-  strength: 0.6873
-- slug: 2026-02-19-federal-judge-slams-trump-administration-immigration-crackdown-in-ruling
-  headline: Federal judge slams Trump administration immigration crackdown in ruling
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.7803
-- slug: 2026-05-19-man-arrested-day-after-judge-bans-ice-arrests-at-nyc-immigration-courts
-  headline: Man arrested day after judge bans ICE arrests at NYC immigration courts
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6633
-- slug: 2026-05-19-judge-bars-most-ice-arrests-at-nyc-immigration-courts-man-detained
-  headline: Judge bars most ICE arrests at NYC immigration courts; man detained
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6622
-- slug: 2026-02-20-federal-judge-slams-trump-immigration-crackdown-in-scathing-ruling
-  headline: Federal judge slams Trump immigration crackdown in scathing ruling
-  publish_date: '2026-02-20'
-  relation: related
-  strength: 0.7603
-- slug: 2026-04-04-nevada-judge-blocks-ice-from-detaining-nearly-all-deportation-cases
-  headline: Nevada judge blocks ICE from detaining nearly all deportation cases
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.7254
-- slug: 2026-04-26-appeals-court-blocks-trump-s-asylum-suspension-at-u-s-border
-  headline: Appeals court blocks Trump’s asylum suspension at U.S. border
-  publish_date: '2026-04-26'
-  relation: related
-  strength: 0.673
-- slug: 2026-02-10-judges-say-trump-immigration-cases-are-overwhelming-federal-courts
-  headline: Judges say Trump immigration cases are overwhelming federal courts
-  publish_date: '2026-02-10'
-  relation: related
-  strength: 0.7148
 image:
   url: /articles/2026-07-30-ninth-circuit-rules-immigrants-can-t-be-denied-bond-hearings.png
-  alt: "Illustration accompanying article: Ninth Circuit rules immigrants can’t be denied bond hearings"
+  alt: 'Illustration accompanying article: Ninth Circuit rules immigrants can’t be
+    denied bond hearings'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:openai/gpt-5.4-image-2"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Ninth Circuit rules immigrants can’t be denied bond hearings
 
 **Subtype:** fact

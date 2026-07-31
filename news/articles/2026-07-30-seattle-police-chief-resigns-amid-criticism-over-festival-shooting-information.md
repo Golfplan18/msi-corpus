@@ -2,7 +2,11 @@
 headline: Seattle police chief resigns amid criticism over festival shooting information
 secondary_headline: Mayor appoints Deputy Chief Andre Sayles as interim chief
 publish_date: '2026-07-30'
-lede: Seattle Police Chief Shon Barnes resigned Thursday amid criticism that the city was slow to release key information about a fatal shootout at a food festival last weekend. Mayor Katie Wilson announced the resignation and appointed Deputy Chief Andre Sayles, a law enforcement veteran with more than two decades of experience, as interim chief.
+lede: Seattle Police Chief Shon Barnes resigned Thursday amid criticism that the city
+  was slow to release key information about a fatal shootout at a food festival last
+  weekend. Mayor Katie Wilson announced the resignation and appointed Deputy Chief
+  Andre Sayles, a law enforcement veteran with more than two decades of experience,
+  as interim chief.
 primary_entities:
 - Shon Barnes
 - Katie Wilson
@@ -45,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -153,98 +158,7 @@ related_stories:
   publish_date: '2026-07-27'
   relation: related
   strength: 0.6863
-- slug: 2026-07-28-seattle-mourns-three-killed-at-food-festival-shooting
-  headline: Seattle mourns three killed at food festival shooting
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.6419
-- slug: 2026-07-28-teen-arrested-in-festival-shooting-had-ghost-gun-from-defunct-manufacturer-polic
-  headline: Teen arrested in festival shooting had ghost gun from defunct manufacturer, police say
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.5895
-- slug: 2026-07-25-madison-police-shooting-disrupts-summertime-events
-  headline: Madison police shooting disrupts summertime events
-  publish_date: '2026-07-25'
-  relation: related
-  strength: 0.5733
-- slug: 2026-06-07-pelley-says-weiss-wanted-60-minutes-to-echo-trump-s-account-of-shooting
-  headline: Pelley says Weiss wanted 60 Minutes to echo Trump's account of shooting
-  publish_date: '2026-06-07'
-  relation: related
-  strength: 0.5819
-- slug: 2026-06-10-california-law-shifted-police-shooting-probes-to-state-attorney-general
-  headline: California law shifted police shooting probes to state attorney general
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.5709
-- slug: 2026-05-27-minneapolis-police-chief-brian-o-hara-resigns-after-interfering-with-investigati
-  headline: Minneapolis Police Chief Brian O’Hara Resigns After Interfering with Investigation
-  publish_date: '2026-05-27'
-  relation: related
-  strength: 0.6032
-- slug: 2026-05-27-minneapolis-police-chief-brian-o-hara-resigns-after-probe-interference
-  headline: Minneapolis Police Chief Brian O'Hara resigns after probe interference
-  publish_date: '2026-05-27'
-  relation: related
-  strength: 0.602
-- slug: 2026-05-28-minneapolis-police-chief-brian-o-hara-resigns-after-investigation-finds-interfer
-  headline: Minneapolis Police Chief Brian O’Hara Resigns After Investigation Finds Interference
-  publish_date: '2026-05-28'
-  relation: related
-  strength: 0.5987
-- slug: 2026-05-15-border-patrol-chief-michael-banks-resigns-latest-dhs-leadership-change-as-immigr
-  headline: Border Patrol chief Michael Banks resigns; latest DHS leadership change as immigration enforcement shifts
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6092
-- slug: 2026-05-29-la-mayor-karen-bass-touts-record-in-reelection-bid-after-wildfires-homelessness-
-  headline: LA Mayor Karen Bass touts record in reelection bid after wildfires, homelessness peril
-  publish_date: '2026-05-29'
-  relation: related
-  strength: 0.5731
-- slug: 2026-05-15-border-patrol-chief-michael-banks-resigns-after-dhs-leadership-change
-  headline: Border Patrol chief Michael Banks resigns after DHS leadership change
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.5964
-- slug: 2026-05-17-4-injured-after-random-weekend-shootings-in-austin-teens-in-custody-mayor-says
-  headline: 4 injured after random weekend shootings in Austin; teens in custody, mayor says
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.5914
-- slug: 2026-05-17-austin-shooting-spree-injures-4-teens-arrested
-  headline: Austin shooting spree injures 4; teens arrested
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.5759
-- slug: 2026-05-17-3-arrested-in-series-of-random-weekend-shootings-in-austin-texas
-  headline: 3 arrested in series of random weekend shootings in Austin, Texas
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.5745
-- slug: 2026-05-06-dc-police-put-13-officers-on-administrative-leave-in-crime-data-probe
-  headline: DC police put 13 officers on administrative leave in crime data probe
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.5891
-- slug: 2026-04-07-video-shows-minneapolis-chase-ending-in-shooting-and-suspension-of-officers
-  headline: Video shows Minneapolis chase ending in shooting and suspension of officers
-  publish_date: '2026-04-07'
-  relation: related
-  strength: 0.5834
-- slug: 2026-02-11-seattle-reaches-29-million-settlement-with-family-of-jaahnavi-kandula
-  headline: Seattle reaches $29 million settlement with family of Jaahnavi Kandula
-  publish_date: '2026-02-11'
-  relation: related
-  strength: 0.5928
-- slug: 2026-02-12-seattle-reaches-29m-settlement-in-death-of-grad-student-jaahnavi-kandula
-  headline: Seattle reaches $29M settlement in death of grad student Jaahnavi Kandula
-  publish_date: '2026-02-12'
-  relation: related
-  strength: 0.5923
 ---
-
 ## Seattle police chief resigns amid criticism over festival shooting information
 
 **Subtype:** fact

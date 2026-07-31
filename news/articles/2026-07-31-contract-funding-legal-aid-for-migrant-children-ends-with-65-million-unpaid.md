@@ -1,9 +1,18 @@
 ---
 headline: Contract funding legal aid for migrant children ends with $65 million unpaid
-secondary_headline: Prosecutors say fast-track deportations risk endangering trafficking victims
+secondary_headline: Prosecutors say fast-track deportations risk endangering trafficking
+  victims
 publish_date: '2026-07-31'
-lede: A federal contract that funds legal services for tens of thousands of unaccompanied immigrant minors expires Friday, with the U.S. government owing roughly $65 million to the contractor, according to the contractor and a group of current and former prosecutors. The contractor, Acacia Center for Justice, said the Trump administration stopped paying the contract in December and does not appear to have plans to replace it.
-nut_graf: The contract's expiration threatens to strip legal protections from children who may be trafficking victims or witnesses to crimes, prosecutors said. The standoff has already caused legal aid organizations to lay off lawyers, and one major subcontractor has withdrawn from the program after accumulating $20 million in unpaid fees.
+lede: A federal contract that funds legal services for tens of thousands of unaccompanied
+  immigrant minors expires Friday, with the U.S. government owing roughly $65 million
+  to the contractor, according to the contractor and a group of current and former
+  prosecutors. The contractor, Acacia Center for Justice, said the Trump administration
+  stopped paying the contract in December and does not appear to have plans to replace
+  it.
+nut_graf: The contract's expiration threatens to strip legal protections from children
+  who may be trafficking victims or witnesses to crimes, prosecutors said. The standoff
+  has already caused legal aid organizations to lay off lawyers, and one major subcontractor
+  has withdrawn from the program after accumulating $20 million in unpaid fees.
 primary_entities:
 - Acacia Center for Justice
 - Trump administration
@@ -33,7 +42,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -128,104 +138,46 @@ related_stories:
   headline: Trump administration cuts legal aid funding for 20,000 migrant children
   publish_date: '2026-07-22'
   relation: related
-  strength: 0.8447
+  strength: 0.8458
 - slug: 2026-06-13-trump-signs-70b-immigration-enforcement-bill-into-law
   headline: Trump signs $70B immigration enforcement bill into law
   publish_date: '2026-06-13'
   relation: related
-  strength: 0.6978
+  strength: 0.6986
 - slug: 2026-06-15-daca-renewal-delays-push-dreamers-out-of-jobs-advocates-say
   headline: DACA renewal delays push Dreamers out of jobs, advocates say
   publish_date: '2026-06-15'
   relation: related
-  strength: 0.6827
+  strength: 0.6837
 - slug: 2026-06-12-legal-aid-groups-say-ice-hhs-agents-tried-to-enter-offices-serving-migrant-child
-  headline: Legal aid groups say ICE, HHS agents tried to enter offices serving migrant children
+  headline: Legal aid groups say ICE, HHS agents tried to enter offices serving migrant
+    children
   publish_date: '2026-06-12'
   relation: related
-  strength: 0.6673
-- slug: 2026-04-16-new-york-to-lose-73-5m-in-federal-funds-over-unrevoked-immigrant-cdls
-  headline: New York to lose $73.5M in federal funds over unrevoked immigrant CDLs
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.6647
+  strength: 0.669
 - slug: 2026-04-06-toddler-allegedly-abused-while-in-federal-immigration-custody-family-says
-  headline: Toddler allegedly abused while in federal immigration custody, family says
+  headline: Toddler allegedly abused while in federal immigration custody, family
+    says
   publish_date: '2026-04-06'
   relation: related
-  strength: 0.6656
+  strength: 0.667
 - slug: 2026-04-05-lawsuit-says-3-year-old-faced-alleged-sexual-abuse-while-held-by-orr
   headline: Lawsuit says 3-year-old faced alleged sexual abuse while held by ORR
   publish_date: '2026-04-05'
   relation: related
-  strength: 0.6664
+  strength: 0.6675
 - slug: 2026-02-26-trump-asks-supreme-court-to-allow-ending-syria-tps-legal-protections
   headline: Trump asks Supreme Court to allow ending Syria TPS legal protections
   publish_date: '2026-02-26'
   relation: related
-  strength: 0.6876
-- slug: 2026-02-23-california-allocates-35-million-to-aid-immigrants-amid-trump-deportations
-  headline: California allocates $35 million to aid immigrants amid Trump deportations
-  publish_date: '2026-02-23'
-  relation: related
-  strength: 0.683
+  strength: 0.691
 - slug: 2026-01-22-judge-orders-trump-administration-to-keep-child-care-subsidies-flowing-in-5-stat
-  headline: Judge orders Trump administration to keep child-care subsidies flowing in 5 states
+  headline: Judge orders Trump administration to keep child-care subsidies flowing
+    in 5 states
   publish_date: '2026-01-22'
   relation: related
-  strength: 0.6952
-- slug: 2026-01-10-judge-halts-trump-child-care-and-social-service-funding-freeze-for-5-states
-  headline: Judge halts Trump child-care and social-service funding freeze for 5 states
-  publish_date: '2026-01-10'
-  relation: related
-  strength: 0.6929
-- slug: 2026-02-25-attorneys-seek-to-halt-cbp-policy-pressuring-unaccompanied-children-to-self-depo
-  headline: Attorneys seek to halt CBP policy pressuring unaccompanied children to self-deport
-  publish_date: '2026-02-25'
-  relation: related
-  strength: 0.6747
-- slug: 2026-02-07-trump-administration-can-t-withhold-social-service-funds-from-5-states
-  headline: Trump administration can’t withhold social service funds from 5 states
-  publish_date: '2026-02-07'
-  relation: related
-  strength: 0.6817
-- slug: 2026-02-16-homeland-security-funding-lapse-begins-amid-ice-and-tsa-dispute
-  headline: Homeland Security funding lapse begins amid ICE and TSA dispute
-  publish_date: '2026-02-16'
-  relation: related
-  strength: 0.6756
-- slug: 2026-01-07-trump-child-care-funding-freeze-rattles-providers-and-families-in-five-states
-  headline: Trump child care funding freeze rattles providers and families in five states
-  publish_date: '2026-01-07'
-  relation: related
-  strength: 0.6885
-- slug: 2026-01-06-trump-administration-withholds-safety-net-funds-from-five-states-over-fraud-clai
-  headline: Trump administration withholds safety net funds from five states over fraud claims
-  publish_date: '2026-01-06'
-  relation: related
-  strength: 0.6863
-- slug: 2026-01-13-trump-threatens-to-halt-federal-payments-to-sanctuary-cities-and-their-states
-  headline: Trump threatens to halt federal payments to sanctuary cities and their states
-  publish_date: '2026-01-13'
-  relation: related
-  strength: 0.6834
-- slug: 2026-01-11-trump-admin-freezes-child-care-and-other-social-service-funds-in-5-states
-  headline: Trump admin freezes child care and other social-service funds in 5 states
-  publish_date: '2026-01-11'
-  relation: related
-  strength: 0.681
-- slug: 2026-01-10-judge-to-temporarily-block-trump-plan-to-end-family-reunification-parole
-  headline: Judge to temporarily block Trump plan to end Family Reunification Parole
-  publish_date: '2026-01-10'
-  relation: related
-  strength: 0.6789
-- slug: 2026-01-11-judge-to-temporarily-block-trump-administration-from-ending-family-reunification
-  headline: Judge to temporarily block Trump administration from ending Family Reunification Parole
-  publish_date: '2026-01-11'
-  relation: related
-  strength: 0.6757
+  strength: 0.6963
 ---
-
 ## Contract funding legal aid for migrant children ends with $65 million unpaid
 
 **Subtype:** fact

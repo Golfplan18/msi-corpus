@@ -1,9 +1,16 @@
 ---
-headline: Newsom raises concerns over California antitrust suit blocking Paramount-Warner deal
-secondary_headline: Governor tells people close to suit blocking deal would hurt state employment
+headline: Newsom raises concerns over California antitrust suit blocking Paramount-Warner
+  deal
+secondary_headline: Governor tells people close to suit blocking deal would hurt state
+  employment
 publish_date: '2026-07-31'
-lede: California Governor Gavin Newsom has expressed concerns to people close to the state's antitrust lawsuit seeking to block Paramount's acquisition of Warner Bros. Discovery, saying the action would harm employment in Hollywood if successful.
-nut_graf: The governor's stance puts him at odds with California Attorney General Rob Bonta, who leads the 12-state coalition that filed the suit earlier this month, and signals a fracture between the state's top elected officials over a deal that would reshape the entertainment industry.
+lede: California Governor Gavin Newsom has expressed concerns to people close to the
+  state's antitrust lawsuit seeking to block Paramount's acquisition of Warner Bros.
+  Discovery, saying the action would harm employment in Hollywood if successful.
+nut_graf: The governor's stance puts him at odds with California Attorney General
+  Rob Bonta, who leads the 12-state coalition that filed the suit earlier this month,
+  and signals a fracture between the state's top elected officials over a deal that
+  would reshape the entertainment industry.
 primary_entities:
 - Gavin Newsom
 - Rob Bonta
@@ -49,7 +56,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -131,104 +139,43 @@ related_stories:
   headline: Paramount agrees to pause Warner Bros. merger until June 2027
   publish_date: '2026-07-24'
   relation: related
-  strength: 0.7981
+  strength: 0.7967
 - slug: 2026-07-13-states-sue-to-block-110bn-paramount-warner-bros-merger
   headline: States sue to block $110bn Paramount-Warner Bros merger
   publish_date: '2026-07-13'
   relation: related
-  strength: 0.801
+  strength: 0.7991
 - slug: 2026-07-20-federal-judge-halts-paramount-warner-bros-merger
   headline: Federal judge halts Paramount-Warner Bros. merger
   publish_date: '2026-07-20'
   relation: related
-  strength: 0.7598
+  strength: 0.7587
 - slug: 2026-07-22-eu-approves-paramount-s-81b-warner-bros-takeover-with-conditions
   headline: EU approves Paramount’s $81B Warner Bros. takeover with conditions
   publish_date: '2026-07-22'
   relation: related
-  strength: 0.6783
+  strength: 0.678
 - slug: 2026-06-05-states-prepare-antitrust-lawsuit-to-block-111b-paramount-warner-merger
   headline: States prepare antitrust lawsuit to block $111B Paramount-Warner merger
   publish_date: '2026-06-05'
   relation: related
-  strength: 0.8237
+  strength: 0.8214
 - slug: 2026-06-15-doj-cleared-paramount-s-warner-bid-over-staff-antitrust-concerns
   headline: DOJ cleared Paramount's Warner bid over staff antitrust concerns
   publish_date: '2026-06-15'
   relation: related
-  strength: 0.7766
+  strength: 0.7742
 - slug: 2026-06-12-justice-department-oks-paramount-s-81b-purchase-of-warner-bros
   headline: Justice Department OKs Paramount's $81B purchase of Warner Bros.
   publish_date: '2026-06-12'
   relation: related
-  strength: 0.7702
+  strength: 0.769
 - slug: 2026-06-25-warren-warns-trump-era-merger-frenzy-could-be-reversed-by-future-administration
   headline: Warren warns Trump-era merger frenzy could be reversed by future administration
   publish_date: '2026-06-25'
   relation: related
-  strength: 0.6885
-- slug: 2026-04-24-warner-bros-shareholders-approve-paramount-s-81-billion-takeover
-  headline: Warner Bros shareholders approve Paramount’s $81 billion takeover
-  publish_date: '2026-04-24'
-  relation: related
-  strength: 0.76
-- slug: 2026-06-16-paramount-skydance-rejects-ad-criticizing-its-owners-and-warner-bros-merger
-  headline: Paramount Skydance rejects ad criticizing its owners and Warner Bros. merger
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.6368
-- slug: 2026-02-28-paramount-wins-heated-fight-for-warner-but-regulators-could-still-kill-the-deal
-  headline: Paramount wins heated fight for Warner but regulators could still kill the deal
-  publish_date: '2026-02-28'
-  relation: related
-  strength: 0.7792
-- slug: 2026-04-23-hbo-max-and-paramount-on-1-platform-what-a-warner-paramount-deal-could-mean
-  headline: 'HBO Max and Paramount+ on 1 platform: What a Warner-Paramount deal could mean'
-  publish_date: '2026-04-23'
-  relation: related
-  strength: 0.6925
-- slug: 2026-02-26-paramount-raises-warner-offer-to-31-upping-fee-and-pushing-bid
-  headline: Paramount raises Warner offer to $31, upping fee and pushing bid
-  publish_date: '2026-02-26'
-  relation: related
-  strength: 0.7379
-- slug: 2026-04-22-hbo-max-and-paramount-to-merge-under-paramount-if-warner-deal-clears
-  headline: HBO Max and Paramount+ to merge under Paramount if Warner deal clears
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.6855
-- slug: 2026-02-28-netflix-walks-away-from-warner-bros-discovery-bid-clearing-path-for-paramount
-  headline: Netflix walks away from Warner Bros. Discovery bid, clearing path for Paramount
-  publish_date: '2026-02-28'
-  relation: related
-  strength: 0.7306
-- slug: 2026-05-15-newsom-s-final-350b-california-budget-avoids-deficit-adds-software-tax
-  headline: Newsom's Final $350B California Budget Avoids Deficit, Adds Software Tax
-  publish_date: '2026-05-15'
-  relation: related
-  strength: 0.6423
-- slug: 2026-01-07-warner-bros-discovery-rejects-paramount-bid-again-backs-netflix-deal
-  headline: Warner Bros. Discovery rejects Paramount bid again, backs Netflix deal
-  publish_date: '2026-01-07'
-  relation: related
-  strength: 0.7352
-- slug: 2026-02-18-warner-bros-to-reopen-takeover-talks-with-paramount-after-netflix-waiver
-  headline: Warner Bros to reopen takeover talks with Paramount after Netflix waiver
-  publish_date: '2026-02-18'
-  relation: related
-  strength: 0.72
-- slug: 2026-01-22-paramount-extends-hostile-77-9b-offer-for-warner-bros-discovery
-  headline: Paramount extends hostile $77.9B offer for Warner Bros. Discovery
-  publish_date: '2026-01-22'
-  relation: related
-  strength: 0.7111
-- slug: 2026-04-09-jeff-shell-exits-paramount-amid-lawsuit-board-cites-no-securities-rule-breach
-  headline: Jeff Shell exits Paramount amid lawsuit; board cites no securities-rule breach
-  publish_date: '2026-04-09'
-  relation: related
-  strength: 0.6549
+  strength: 0.6859
 ---
-
 ## Newsom raises concerns over California antitrust suit blocking Paramount-Warner deal
 
 **Subtype:** fact

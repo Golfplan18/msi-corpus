@@ -1,9 +1,19 @@
 ---
-headline: Warren, Ryan press Pentagon for answers on delayed care of troops wounded in Kuwait strike
-secondary_headline: Four war deaths removed from Iran casualty count, reclassified under new 'Overseas Operations' category
+headline: Warren, Ryan press Pentagon for answers on delayed care of troops wounded
+  in Kuwait strike
+secondary_headline: Four war deaths removed from Iran casualty count, reclassified
+  under new 'Overseas Operations' category
 publish_date: '2026-07-30'
-lede: Sen. Elizabeth Warren and Rep. Pat Ryan led a group of Democratic lawmakers in sending a letter Wednesday to Defense Secretary Pete Hegseth demanding answers about the medical care provided to U.S. troops wounded in a March 1 drone strike in Kuwait, The Guardian reported. The letter, first reported by the Washington Post, poses 23 questions and cites accounts that wounded soldiers went nine days without adequate hospital care after the attack.
-nut_graf: The letter is the latest in a series of congressional demands for transparency from the Pentagon over the conduct of the Iran war, following reports of delayed treatment for wounded troops, disputed casualty figures, and questions about the independence of internal military investigations.
+lede: Sen. Elizabeth Warren and Rep. Pat Ryan led a group of Democratic lawmakers
+  in sending a letter Wednesday to Defense Secretary Pete Hegseth demanding answers
+  about the medical care provided to U.S. troops wounded in a March 1 drone strike
+  in Kuwait, The Guardian reported. The letter, first reported by the Washington Post,
+  poses 23 questions and cites accounts that wounded soldiers went nine days without
+  adequate hospital care after the attack.
+nut_graf: The letter is the latest in a series of congressional demands for transparency
+  from the Pentagon over the conduct of the Iran war, following reports of delayed
+  treatment for wounded troops, disputed casualty figures, and questions about the
+  independence of internal military investigations.
 primary_entities:
 - Elizabeth Warren
 - Pat Ryan
@@ -33,7 +43,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 0
@@ -132,7 +143,7 @@ related_stories:
   headline: Pentagon adds 140 wounded to Iran war database, new casualty category
   publish_date: '2026-07-26'
   relation: related
-  strength: 0.7099
+  strength: 0.7091
 - slug: 2026-07-30-u-s-launches-heavy-strikes-on-iran-after-missile-attack-on-jordan-base
   headline: U.S. launches heavy strikes on Iran after missile attack on Jordan base
   publish_date: '2026-07-30'
@@ -142,94 +153,34 @@ related_stories:
   headline: Pentagon removes four Iran war deaths from casualty list
   publish_date: '2026-07-24'
   relation: related
-  strength: 0.6838
+  strength: 0.6839
 - slug: 2026-07-23-u-s-iran-exchange-strikes-for-12th-night-as-iran-targets-kuwait-jordan
   headline: U.S., Iran exchange strikes for 12th night as Iran targets Kuwait, Jordan
   publish_date: '2026-07-23'
   relation: related
-  strength: 0.6839
+  strength: 0.6836
 - slug: 2026-07-21-hegseth-faces-senate-over-95b-iran-war-budget-as-u-s-death-toll-hits-17
-  headline: Hegseth faces Senate over $95B Iran war budget as U.S. death toll hits 17
+  headline: Hegseth faces Senate over $95B Iran war budget as U.S. death toll hits
+    17
   publish_date: '2026-07-21'
   relation: related
-  strength: 0.6807
+  strength: 0.6803
 - slug: 2026-07-21-democrats-press-trump-to-end-iran-war-after-three-u-s-troops-killed
   headline: Democrats press Trump to end Iran war after three U.S. troops killed
   publish_date: '2026-07-21'
   relation: related
-  strength: 0.6776
+  strength: 0.6777
 - slug: 2026-07-18-iran-attack-in-jordan-kills-two-u-s-service-members
   headline: Iran attack in Jordan kills two U.S. service members
   publish_date: '2026-07-18'
   relation: related
-  strength: 0.6755
+  strength: 0.6761
 - slug: 2026-06-10-pentagon-held-far-fewer-briefings-during-iran-war-review-finds
   headline: Pentagon held far fewer briefings during Iran war, review finds
   publish_date: '2026-06-10'
   relation: related
-  strength: 0.6773
-- slug: 2026-06-01-u-s-strikes-iranian-air-defenses-drone-sites-after-strait-of-hormuz-skirmish
-  headline: U.S. strikes Iranian air defenses, drone sites after Strait of Hormuz skirmish
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.6638
-- slug: 2026-05-01-hegseth-clashes-with-democrats-over-iran-war-costs-and-civilian-deaths
-  headline: Hegseth clashes with Democrats over Iran war costs and civilian deaths
-  publish_date: '2026-05-01'
-  relation: related
-  strength: 0.6879
-- slug: 2026-03-04-iranian-drone-kills-6-us-soldiers-at-hub-inside-kuwait-civilian-port
-  headline: Iranian drone kills 6 US soldiers at hub inside Kuwait civilian port
-  publish_date: '2026-03-04'
-  relation: related
-  strength: 0.7102
-- slug: 2026-03-05-gulf-nations-complain-u-s-lacked-notice-before-iran-drone-strikes
-  headline: Gulf nations complain U.S. lacked notice before Iran drone strikes
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.6987
-- slug: 2026-03-05-pentagon-identifies-two-more-u-s-soldiers-killed-in-kuwait-drone-strike
-  headline: Pentagon identifies two more U.S. soldiers killed in Kuwait drone strike
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.6983
-- slug: 2026-03-02-hegseth-says-iran-conflict-not-endless-warns-more-u-s-casualties
-  headline: Hegseth says Iran conflict “not endless,” warns more U.S. casualties
-  publish_date: '2026-03-02'
-  relation: related
-  strength: 0.6968
-- slug: 2026-03-05-hegseth-u-s-can-t-stop-every-iranian-air-attack-in-new-war-update
-  headline: 'Hegseth: U.S. can’t stop every Iranian air attack in new war update'
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.686
-- slug: 2026-03-05-senate-republicans-vote-down-iran-war-powers-halt-in-first-congress-vote
-  headline: Senate Republicans vote down Iran war powers halt in first Congress vote
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.6833
-- slug: 2026-03-04-families-mourn-us-soldiers-killed-in-iran-war-after-kuwait-drone-strike
-  headline: Families mourn US soldiers killed in Iran war after Kuwait drone strike
-  publish_date: '2026-03-04'
-  relation: related
-  strength: 0.6832
-- slug: 2026-03-29-iranian-attack-on-saudi-base-wounds-at-least-10-u-s-troops
-  headline: Iranian attack on Saudi base wounds at least 10 U.S. troops
-  publish_date: '2026-03-29'
-  relation: related
-  strength: 0.6631
-- slug: 2026-03-04-broadening-iran-war-disrupts-flights-shipping-and-strikes-across-mideast
-  headline: Broadening Iran war disrupts flights, shipping and strikes across Mideast
-  publish_date: '2026-03-04'
-  relation: related
-  strength: 0.6818
-- slug: 2026-03-04-explosions-rock-tehran-as-us-israel-war-enters-5th-day
-  headline: Explosions rock Tehran as US, Israel war enters 5th day
-  publish_date: '2026-03-04'
-  relation: related
-  strength: 0.677
+  strength: 0.6763
 ---
-
 ## Warren, Ryan press Pentagon for answers on delayed care of troops wounded in Kuwait strike
 
 - Sen. Elizabeth Warren and Rep. Pat Ryan sent a 23-question letter to Defense Secretary Pete Hegseth demanding answers about the delayed medical care for U.S. troops wounded in a March 1 drone strike in Kuwait.

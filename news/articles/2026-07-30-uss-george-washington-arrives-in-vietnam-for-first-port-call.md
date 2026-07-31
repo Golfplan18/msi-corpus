@@ -1,9 +1,19 @@
 ---
 headline: USS George Washington arrives in Vietnam for first port call
-secondary_headline: Vietnam's no-alliance defense policy governs diplomacy with multiple major powers
+secondary_headline: Vietnam's no-alliance defense policy governs diplomacy with multiple
+  major powers
 publish_date: '2026-07-30'
-lede: The nuclear-powered aircraft carrier USS George Washington arrived Thursday in Da Nang, Vietnam, opening a five-day port call that is its first visit to a Vietnamese port and the fourth by a U.S. aircraft carrier since the two countries normalized diplomatic relations in 1995. The arrival came one day after a Russian Pacific Fleet group completed a four-day visit to Cam Ranh International Port.
-nut_graf: The visit underscores Vietnam's effort to maintain defense relations with multiple major powers — including the United States, Russia and China — without entering a formal military alliance, a posture formalized in the country's 2019 defense white paper. It also signals continued U.S.-Vietnam engagement even as the U.S. Navy has concentrated some of its carrier forces in the Middle East during the conflict with Iran.
+lede: The nuclear-powered aircraft carrier USS George Washington arrived Thursday
+  in Da Nang, Vietnam, opening a five-day port call that is its first visit to a Vietnamese
+  port and the fourth by a U.S. aircraft carrier since the two countries normalized
+  diplomatic relations in 1995. The arrival came one day after a Russian Pacific Fleet
+  group completed a four-day visit to Cam Ranh International Port.
+nut_graf: The visit underscores Vietnam's effort to maintain defense relations with
+  multiple major powers — including the United States, Russia and China — without
+  entering a formal military alliance, a posture formalized in the country's 2019
+  defense white paper. It also signals continued U.S.-Vietnam engagement even as the
+  U.S. Navy has concentrated some of its carrier forces in the Middle East during
+  the conflict with Iran.
 primary_entities:
 - USS George Washington
 - Da Nang
@@ -35,7 +45,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 0
@@ -130,108 +141,25 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-07-13-us-deploys-sea-drones-in-combat-strikes-on-iran-for-first-time
-  headline: US deploys sea drones in combat strikes on Iran for first time
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.6024
-- slug: 2026-06-24-china-s-coast-guard-asserts-authority-over-foreign-ships-near-taiwan-drawing-u-s
-  headline: China's coast guard asserts authority over foreign ships near Taiwan, drawing U.S. rebuke
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.6347
-- slug: 2026-06-20-china-s-navy-maintains-near-constant-ring-of-warships-around-taiwan
-  headline: China's navy maintains near-constant ring of warships around Taiwan
-  publish_date: '2026-06-20'
-  relation: related
-  strength: 0.6045
-- slug: 2026-06-05-xi-jinping-to-visit-north-korea-next-week-in-first-trip-since-2019
-  headline: Xi Jinping to visit North Korea next week in first trip since 2019
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.6183
-- slug: 2026-06-01-taiwan-opposition-leader-begins-u-s-tour-carrying-beijing-s-preferred-message
-  headline: Taiwan opposition leader begins U.S. tour carrying Beijing's preferred message
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.6284
-- slug: 2026-06-08-xi-arrives-in-pyongyang-for-summit-with-kim-as-both-leaders-seek-to-strengthen-a
-  headline: Xi arrives in Pyongyang for summit with Kim as both leaders seek to strengthen alliance
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.6043
 - slug: 2026-05-16-world-s-biggest-aircraft-carrier-uss-ford-returns-to-virginia-after-11-month-dep
-  headline: World's biggest aircraft carrier USS Ford returns to Virginia after 11-month deployment
+  headline: World's biggest aircraft carrier USS Ford returns to Virginia after 11-month
+    deployment
   publish_date: '2026-05-16'
   relation: related
-  strength: 0.6583
-- slug: 2026-05-16-uss-gerald-r-ford-returns-home-after-longest-carrier-deployment-since-vietnam
-  headline: USS Gerald R. Ford returns home after longest carrier deployment since Vietnam
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6391
-- slug: 2026-05-14-trump-arrives-in-beijing-for-talks-with-xi-on-iran-trade-and-taiwan-arms-sales
-  headline: Trump arrives in Beijing for talks with Xi on Iran, trade, and Taiwan arms sales
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6411
-- slug: 2026-05-23-uss-gerald-r-ford-returns-to-norfolk-after-nearly-a-year-at-sea
-  headline: USS Gerald R. Ford returns to Norfolk after nearly a year at sea
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6208
-- slug: 2026-05-14-trump-arrives-in-beijing-for-high-stakes-talks-with-xi-on-iran-trade-taiwan
-  headline: Trump arrives in Beijing for high-stakes talks with Xi on Iran, trade, Taiwan
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6396
-- slug: 2026-05-14-trump-arrives-in-beijing-for-talks-with-xi-on-iran-trade-taiwan
-  headline: Trump arrives in Beijing for talks with Xi on Iran, trade, Taiwan
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6307
-- slug: 2026-04-30-ford-carrier-set-to-end-record-long-deployment-after-iran-war-missions
-  headline: Ford carrier set to end record-long deployment after Iran war missions
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.6451
+  strength: 0.6586
 - slug: 2026-04-16-us-aircraft-carrier-uss-gerald-r-ford-breaks-post-vietnam-deployment-record
-  headline: US aircraft carrier USS Gerald R. Ford breaks post-Vietnam deployment record
+  headline: US aircraft carrier USS Gerald R. Ford breaks post-Vietnam deployment
+    record
   publish_date: '2026-04-16'
   relation: related
-  strength: 0.6575
-- slug: 2026-05-14-trump-llega-a-beijing-para-conversaciones-con-xi-sobre-ir-n-comercio-y-taiw-n
-  headline: Trump llega a Beijing para conversaciones con Xi sobre Irán, comercio y Taiwán
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6078
-- slug: 2026-05-16-trump-s-china-trip-highlights-taiwan-focus-talk-of-strategic-stability
-  headline: Trump’s China trip highlights Taiwan focus, talk of “strategic stability”
-  publish_date: '2026-05-16'
-  relation: related
-  strength: 0.6014
+  strength: 0.6584
 - slug: 2026-01-24-uss-cincinnati-visits-cambodia-s-china-upgraded-naval-base-amid-warming-us-ties
-  headline: USS Cincinnati visits Cambodia's China-upgraded naval base amid warming US ties
+  headline: USS Cincinnati visits Cambodia's China-upgraded naval base amid warming
+    US ties
   publish_date: '2026-01-24'
   relation: related
-  strength: 0.6939
-- slug: 2026-04-01-more-u-s-troops-head-to-the-middle-east-as-trump-seeks-iran-talks
-  headline: More U.S. troops head to the Middle East as Trump seeks Iran talks
-  publish_date: '2026-04-01'
-  relation: related
-  strength: 0.6316
-- slug: 2026-04-16-us-military-expands-iran-blockade-worldwide-targeting-ships-carrying-oil-metals-
-  headline: US military expands Iran blockade worldwide, targeting ships carrying oil, metals, arms
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.6053
-- slug: 2026-03-04-american-airlines-cleared-to-resume-venezuela-flights-first-u-s-carrier-since-20
-  headline: American Airlines cleared to resume Venezuela flights, first U.S. carrier since 2019
-  publish_date: '2026-03-04'
-  relation: related
-  strength: 0.6365
+  strength: 0.6951
 ---
-
 ## USS George Washington arrives in Vietnam for first port call
 
 **Subtype:** fact

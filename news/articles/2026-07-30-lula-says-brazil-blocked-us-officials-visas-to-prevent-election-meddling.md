@@ -1,9 +1,15 @@
 ---
 headline: Lula says Brazil blocked US officials' visas to prevent 'election meddling'
-secondary_headline: State Department calls election meddling allegation a 'baseless lie'
+secondary_headline: State Department calls election meddling allegation a 'baseless
+  lie'
 publish_date: '2026-07-30'
-lede: Brazilian President Luiz Inácio Lula da Silva said Wednesday that his government denied visas to two U.S. State Department officials, accusing them of planning to interfere in the country's October presidential election. The State Department has called the allegation a "baseless lie."
-nut_graf: The visa denial deepens a diplomatic rift between Brasília and Washington ahead of an election that pits Lula against Flávio Bolsonaro, whose father, former President Jair Bolsonaro, is serving a 27-year prison sentence for plotting a coup.
+lede: Brazilian President Luiz Inácio Lula da Silva said Wednesday that his government
+  denied visas to two U.S. State Department officials, accusing them of planning to
+  interfere in the country's October presidential election. The State Department has
+  called the allegation a "baseless lie."
+nut_graf: The visa denial deepens a diplomatic rift between Brasília and Washington
+  ahead of an election that pits Lula against Flávio Bolsonaro, whose father, former
+  President Jair Bolsonaro, is serving a 27-year prison sentence for plotting a coup.
 primary_entities:
 - Luiz Inácio Lula da Silva
 - Brazil
@@ -36,7 +42,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 0
@@ -135,104 +142,47 @@ related_stories:
   headline: Brazil denies visas to US officials ahead of October election
   publish_date: '2026-07-25'
   relation: related
-  strength: 0.858
+  strength: 0.8582
 - slug: 2026-07-27-brazil-recalls-ambassador-to-argentina-after-milei-endorses-fl-vio-bolsonaro-in-
-  headline: Brazil recalls ambassador to Argentina after Milei endorses Flávio Bolsonaro in São Paulo
+  headline: Brazil recalls ambassador to Argentina after Milei endorses Flávio Bolsonaro
+    in São Paulo
   publish_date: '2026-07-27'
   relation: related
-  strength: 0.7703
+  strength: 0.7705
+- slug: 2026-07-31-brazil-supreme-court-authorizes-probe-into-lula-s-son-over-medical-marijuana-lob
+  headline: Brazil Supreme Court authorizes probe into Lula's son over medical marijuana
+    lobbying
+  publish_date: '2026-07-31'
+  relation: related
+  strength: 0.6702
 - slug: 2026-07-23-lula-rejects-u-s-tariff-claims-unveils-3-65-billion-credit-package
   headline: Lula rejects U.S. tariff claims, unveils $3.65 billion credit package
   publish_date: '2026-07-23'
   relation: related
-  strength: 0.6571
-- slug: 2026-07-27-lula-and-xi-agree-to-accelerate-mercosur-china-trade-talks-after-u-s-tariffs
-  headline: Lula and Xi agree to accelerate Mercosur-China trade talks after U.S. tariffs
-  publish_date: '2026-07-27'
-  relation: related
-  strength: 0.6271
-- slug: 2026-07-18-u-s-imposes-25-tariff-on-brazilian-goods-citing-pix-payment-system
-  headline: U.S. imposes 25% tariff on Brazilian goods, citing PIX payment system
-  publish_date: '2026-07-18'
-  relation: related
-  strength: 0.5955
+  strength: 0.658
 - slug: 2026-06-17-brazil-court-convicts-eduardo-bolsonaro-of-coercion-sentences-him-to-4-years
-  headline: Brazil court convicts Eduardo Bolsonaro of coercion, sentences him to 4 years
+  headline: Brazil court convicts Eduardo Bolsonaro of coercion, sentences him to
+    4 years
   publish_date: '2026-06-17'
   relation: related
-  strength: 0.6751
+  strength: 0.6754
 - slug: 2026-06-03-lula-accuses-bolsonaro-sons-of-treason-over-u-s-tariff-threat
   headline: Lula accuses Bolsonaro sons of treason over U.S. tariff threat
   publish_date: '2026-06-03'
   relation: related
-  strength: 0.717
+  strength: 0.7181
 - slug: 2026-03-14-brazil-revokes-us-diplomat-darren-beattie-s-visa-after-prison-visit-bid
   headline: Brazil revokes US diplomat Darren Beattie’s visa after prison visit bid
   publish_date: '2026-03-14'
   relation: related
-  strength: 0.7301
+  strength: 0.7299
 - slug: 2026-05-13-brazil-government-launches-2-billion-anti-organized-crime-program-ahead-of-elect
-  headline: Brazil government launches $2 billion anti-organized crime program ahead of elections
+  headline: Brazil government launches $2 billion anti-organized crime program ahead
+    of elections
   publish_date: '2026-05-13'
   relation: related
-  strength: 0.653
-- slug: 2026-05-14-brazil-s-fl-vio-bolsonaro-denies-wrongdoing-in-12-million-film-request
-  headline: Brazil’s Flávio Bolsonaro denies wrongdoing in $12 million film request
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6459
-- slug: 2026-05-13-brazil-s-lula-launches-2-billion-anti-organized-crime-program-ahead-of-elections
-  headline: Brazil's Lula launches $2 billion anti-organized crime program ahead of elections
-  publish_date: '2026-05-13'
-  relation: related
-  strength: 0.6459
-- slug: 2026-05-01-brazil-lawmakers-override-veto-to-reduce-bolsonaro-s-27-year-prison-term
-  headline: Brazil lawmakers override veto to reduce Bolsonaro’s 27-year prison term
-  publish_date: '2026-05-01'
-  relation: related
-  strength: 0.6627
-- slug: 2026-05-06-trump-to-host-lula-for-talks-on-economy-and-security-white-house-official-says
-  headline: Trump to host Lula for talks on economy and security, White House official says
-  publish_date: '2026-05-06'
-  relation: related
-  strength: 0.6543
-- slug: 2026-04-09-brazil-s-lula-backs-ban-on-online-betting-platforms
-  headline: Brazil’s Lula backs ban on online betting platforms
-  publish_date: '2026-04-09'
-  relation: related
-  strength: 0.668
-- slug: 2026-04-30-brazil-s-senate-rejects-lula-s-supreme-court-nominee-jorge-messias
-  headline: Brazil’s Senate rejects Lula’s Supreme Court nominee Jorge Messias
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.6361
-- slug: 2026-05-14-fl-vio-bolsonaro-asked-jailed-banker-for-12-million-to-finance-father-s-biopic-v
-  headline: Flávio Bolsonaro asked jailed banker for $12 million to finance father’s biopic, voice messages show
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.6085
-- slug: 2026-03-02-bolsonaro-supporters-rally-in-brazil-as-election-fight-turns-to-fl-vio
-  headline: Bolsonaro supporters rally in Brazil as election fight turns to Flávio
-  publish_date: '2026-03-02'
-  relation: related
-  strength: 0.6914
-- slug: 2026-05-05-us-revokes-visas-for-la-naci-n-executives-sparks-costa-rica-press-fears
-  headline: US revokes visas for La Nación executives, sparks Costa Rica press fears
-  publish_date: '2026-05-05'
-  relation: related
-  strength: 0.6038
-- slug: 2026-02-15-lula-celebrated-at-rio-carnival-parade-as-critics-seek-legal-action
-  headline: Lula celebrated at Rio Carnival parade as critics seek legal action
-  publish_date: '2026-02-15'
-  relation: related
-  strength: 0.6469
-- slug: 2026-04-14-brazil-ex-intelligence-chief-alexandre-ramagem-arrested-by-ice-senator-says
-  headline: Brazil ex-intelligence chief Alexandre Ramagem arrested by ICE, senator says
-  publish_date: '2026-04-14'
-  relation: related
-  strength: 0.5962
+  strength: 0.6537
 ---
-
 ## Lula says Brazil blocked US officials' visas to prevent 'election meddling'
 
 **Subtype:** fact

@@ -1,9 +1,18 @@
 ---
-headline: Trump says he may temporarily withdraw Blanche nomination over Senate GOP standoff
-secondary_headline: Republican senators seek written limits on tax settlement before advancing pick
+headline: Trump says he may temporarily withdraw Blanche nomination over Senate GOP
+  standoff
+secondary_headline: Republican senators seek written limits on tax settlement before
+  advancing pick
 publish_date: '2026-07-30'
-lede: President Donald Trump said Thursday he is willing to temporarily withdraw acting Attorney General Todd Blanche's nomination for the permanent post, after two Republican senators withheld their support and forced the Senate Judiciary Committee to postpone a confirmation vote over demands for written guarantees limiting a settlement that granted the president and his family broad tax audit immunity.
-nut_graf: The impasse over the IRS settlement — which created a $1.8 billion fund that could compensate people claiming they were targets of political weaponization — stalled Blanche's path to a permanent role leading the Justice Department and underscored the leverage held by departing GOP senators who have clashed with Trump.
+lede: President Donald Trump said Thursday he is willing to temporarily withdraw acting
+  Attorney General Todd Blanche's nomination for the permanent post, after two Republican
+  senators withheld their support and forced the Senate Judiciary Committee to postpone
+  a confirmation vote over demands for written guarantees limiting a settlement that
+  granted the president and his family broad tax audit immunity.
+nut_graf: The impasse over the IRS settlement — which created a $1.8 billion fund
+  that could compensate people claiming they were targets of political weaponization
+  — stalled Blanche's path to a permanent role leading the Justice Department and
+  underscored the leverage held by departing GOP senators who have clashed with Trump.
 primary_entities:
 - Todd Blanche
 - Donald Trump
@@ -35,7 +44,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 0
@@ -134,104 +144,45 @@ related_stories:
   headline: Blanche tells senators anti-weaponization fund is dead; Cornyn not persuaded
   publish_date: '2026-07-15'
   relation: related
-  strength: 0.7918
+  strength: 0.7932
 - slug: 2026-07-14-blanche-confirmation-hearings-open-as-senators-weigh-conflicts
   headline: Blanche confirmation hearings open as senators weigh conflicts
   publish_date: '2026-07-14'
   relation: related
-  strength: 0.7715
+  strength: 0.7735
 - slug: 2026-07-16-tillis-says-blanche-must-meet-epstein-accusers-to-earn-committee-vote
   headline: Tillis says Blanche must meet Epstein accusers to earn committee vote
   publish_date: '2026-07-16'
   relation: related
-  strength: 0.7221
+  strength: 0.7249
 - slug: 2026-06-16-senate-sets-july-hearings-for-ag-nominee-blanche-as-gop-holdouts-seek-assurances
-  headline: Senate sets July hearings for AG nominee Blanche as GOP holdouts seek assurances
+  headline: Senate sets July hearings for AG nominee Blanche as GOP holdouts seek
+    assurances
   publish_date: '2026-06-16'
   relation: related
-  strength: 0.835
+  strength: 0.8357
 - slug: 2026-06-04-trump-to-nominate-acting-attorney-general-todd-blanche-for-permanent-role
   headline: Trump to Nominate Acting Attorney General Todd Blanche for Permanent Role
   publish_date: '2026-06-04'
   relation: related
-  strength: 0.8371
+  strength: 0.8374
 - slug: 2026-07-07-over-1-200-former-doj-employees-urge-senate-to-reject-blanche
   headline: Over 1,200 former DOJ employees urge Senate to reject Blanche
   publish_date: '2026-07-07'
   relation: related
-  strength: 0.7019
+  strength: 0.7035
 - slug: 2026-06-08-trump-nominates-ex-lawyer-todd-blanche-as-permanent-attorney-general
   headline: Trump nominates ex-lawyer Todd Blanche as permanent attorney general
   publish_date: '2026-06-08'
   relation: related
-  strength: 0.8068
+  strength: 0.8072
 - slug: 2026-06-10-doj-abandons-1-8b-fund-for-trump-allies-president-s-irs-audit-immunity-remains
-  headline: DOJ abandons $1.8B fund for Trump allies; president's IRS audit immunity remains
+  headline: DOJ abandons $1.8B fund for Trump allies; president's IRS audit immunity
+    remains
   publish_date: '2026-06-10'
   relation: related
-  strength: 0.7468
-- slug: 2026-06-03-trump-says-blanche-will-become-permanent-attorney-general
-  headline: Trump says Blanche will become permanent attorney general
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.7483
-- slug: 2026-05-21-blanche-at-center-of-republican-firestorm-over-1-8b-fund
-  headline: Blanche at center of Republican firestorm over $1.8B fund
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.7782
-- slug: 2026-05-22-blanche-at-center-of-republican-firestorm-over-1-8b-fund
-  headline: Blanche at center of Republican firestorm over $1.8B fund
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.7656
-- slug: 2026-05-23-blanche-at-center-of-republican-firestorm-over-1-8b-justice-fund
-  headline: Blanche at center of Republican firestorm over $1.8B Justice fund
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.7616
-- slug: 2026-06-05-senate-republicans-keep-trump-1-8bn-ally-payout-fund-alive
-  headline: Senate Republicans keep Trump $1.8bn ally payout fund alive
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.7118
-- slug: 2026-05-22-gop-rift-over-trump-1-8b-settlement-fund-delays-immigration-bill
-  headline: GOP rift over Trump $1.8B settlement fund delays immigration bill
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.7389
-- slug: 2026-05-21-gop-rift-over-trump-1-8b-settlement-fund-delays-immigration-bill
-  headline: GOP rift over Trump $1.8B settlement fund delays immigration bill
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.7396
-- slug: 2026-05-22-republicans-break-with-trump-as-senate-delays-major-budget-vote
-  headline: Republicans break with Trump as Senate delays major budget vote
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.7373
-- slug: 2026-05-20-gop-rift-over-trump-s-1-8b-settlement-fund-delays-immigration-enforcement-bill
-  headline: GOP rift over Trump's $1.8B settlement fund delays immigration enforcement bill
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.741
-- slug: 2026-05-23-republicans-defy-trump-on-proposed-1-776b-jan-6-compensation-fund
-  headline: Republicans defy Trump on proposed $1.776B Jan. 6 compensation fund
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.7146
-- slug: 2026-05-20-gop-rift-over-trump-1-8b-settlement-fund-delays-immigration-bill
-  headline: GOP rift over Trump $1.8B settlement fund delays immigration bill
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.7157
-- slug: 2026-05-20-doj-creates-nearly-1-8-billion-fund-to-compensate-trump-allies
-  headline: DOJ creates nearly $1.8 billion fund to compensate Trump allies
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.7094
+  strength: 0.7457
 ---
-
 ## Republican senators seek written limits on tax settlement before advancing pick
 
 **Subtype:** fact

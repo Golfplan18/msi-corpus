@@ -2,8 +2,15 @@
 headline: Seattle names Sayles interim police chief days after festival shooting
 secondary_headline: Police took nearly five hours to provide detailed public information
 publish_date: '2026-07-30'
-lede: Mayor Katie Wilson announced Thursday that Seattle Police Chief Shon Barnes has resigned, days after a shooting at the Bite of Seattle food festival left three people dead and four wounded, including a two-year-old boy. Wilson named Deputy Chief Andre Sayles, a law enforcement veteran with more than two decades of experience, as interim chief.
-nut_graf: The resignation came after city officials faced criticism over slow and confusing public communication following the Sunday shooting, including a nearly five-hour gap before police provided detailed information and a statement from the mayor that two people were in custody that she later retracted.
+lede: Mayor Katie Wilson announced Thursday that Seattle Police Chief Shon Barnes
+  has resigned, days after a shooting at the Bite of Seattle food festival left three
+  people dead and four wounded, including a two-year-old boy. Wilson named Deputy
+  Chief Andre Sayles, a law enforcement veteran with more than two decades of experience,
+  as interim chief.
+nut_graf: The resignation came after city officials faced criticism over slow and
+  confusing public communication following the Sunday shooting, including a nearly
+  five-hour gap before police provided detailed information and a statement from the
+  mayor that two people were in custody that she later retracted.
 primary_entities:
 - Seattle
 - Shon Barnes
@@ -30,7 +37,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: CC0
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 0
@@ -125,108 +133,22 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
+- slug: 2026-07-30-seattle-police-chief-resigns-amid-criticism-over-festival-shooting-information
+  headline: Seattle police chief resigns amid criticism over festival shooting information
+  publish_date: '2026-07-30'
+  relation: related
+  strength: 0.9165
 - slug: 2026-07-27-three-die-in-shooting-at-seattle-food-festival-near-space-needle
   headline: Three die in shooting at Seattle food festival near Space Needle
   publish_date: '2026-07-27'
   relation: related
-  strength: 0.7758
+  strength: 0.776
 - slug: 2026-07-28-seattle-mourns-three-killed-at-food-festival-shooting
   headline: Seattle mourns three killed at food festival shooting
   publish_date: '2026-07-28'
   relation: related
-  strength: 0.7211
-- slug: 2026-07-25-madison-police-shooting-disrupts-summertime-events
-  headline: Madison police shooting disrupts summertime events
-  publish_date: '2026-07-25'
-  relation: related
-  strength: 0.5992
-- slug: 2026-07-22-mother-seeks-accountability-16-months-after-ice-agent-killed-her-son-in-texas
-  headline: Mother seeks accountability 16 months after ICE agent killed her son in Texas
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.599
-- slug: 2026-06-23-two-killed-child-injured-in-shooting-at-chico-library
-  headline: Two killed, child injured in shooting at Chico library
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.615
-- slug: 2026-05-17-4-injured-after-random-weekend-shootings-in-austin-teens-in-custody-mayor-says
-  headline: 4 injured after random weekend shootings in Austin; teens in custody, mayor says
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.633
-- slug: 2026-05-17-austin-shooting-spree-injures-4-teens-arrested
-  headline: Austin shooting spree injures 4; teens arrested
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.6233
-- slug: 2026-05-19-three-young-people-arrested-in-series-of-random-weekend-austin-shootings
-  headline: Three young people arrested in series of random weekend Austin shootings
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.6147
-- slug: 2026-05-23-secret-service-fatally-shoots-suspect-outside-white-house-checkpoint-bystander-h
-  headline: Secret Service fatally shoots suspect outside White House checkpoint; bystander hit
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6016
-- slug: 2026-05-17-3-arrested-in-series-of-random-weekend-shootings-in-austin-texas
-  headline: 3 arrested in series of random weekend shootings in Austin, Texas
-  publish_date: '2026-05-17'
-  relation: related
-  strength: 0.613
-- slug: 2026-04-24-1-dead-5-wounded-in-shooting-at-mall-of-louisiana-in-baton-rouge
-  headline: 1 dead, 5 wounded in shooting at Mall of Louisiana in Baton Rouge
-  publish_date: '2026-04-24'
-  relation: related
-  strength: 0.6176
-- slug: 2026-04-20-father-fatally-shoots-8-children-in-shreveport-deadliest-in-2-years
-  headline: Father fatally shoots 8 children in Shreveport, deadliest in 2 years
-  publish_date: '2026-04-20'
-  relation: related
-  strength: 0.612
-- slug: 2026-04-19-shooting-near-university-of-iowa-wounds-five-people
-  headline: Shooting near University of Iowa wounds five people
-  publish_date: '2026-04-19'
-  relation: related
-  strength: 0.601
-- slug: 2026-04-15-atlanta-area-attacks-leave-2-dead-dhs-worker-among-victims-suspect-charged
-  headline: Atlanta-area attacks leave 2 dead, DHS worker among victims; suspect charged
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.6056
-- slug: 2026-04-13-police-say-1-dead-6-hurt-in-shooting-at-chick-fil-a-in-union-new-jersey
-  headline: Police say 1 dead, 6 hurt in shooting at Chick-fil-A in Union, New Jersey
-  publish_date: '2026-04-13'
-  relation: related
-  strength: 0.6036
-- slug: 2026-03-02-austin-bar-shooting-kills-3-wounds-more-than-a-dozen-fbi-probes-motive
-  headline: Austin bar shooting kills 3, wounds more than a dozen; FBI probes motive
-  publish_date: '2026-03-02'
-  relation: related
-  strength: 0.6362
-- slug: 2026-04-07-video-shows-minneapolis-chase-ending-in-shooting-and-suspension-of-officers
-  headline: Video shows Minneapolis chase ending in shooting and suspension of officers
-  publish_date: '2026-04-07'
-  relation: related
-  strength: 0.6007
-- slug: 2026-03-02-federal-authorities-join-police-search-for-suspect-in-cincinnati-nightclub-shoot
-  headline: Federal authorities join police search for suspect in Cincinnati nightclub shooting
-  publish_date: '2026-03-02'
-  relation: related
-  strength: 0.6182
-- slug: 2026-02-11-seattle-reaches-29-million-settlement-with-family-of-jaahnavi-kandula
-  headline: Seattle reaches $29 million settlement with family of Jaahnavi Kandula
-  publish_date: '2026-02-11'
-  relation: related
-  strength: 0.6158
-- slug: 2026-03-05-fbi-probes-austin-bar-shooting-as-terrorism-3-dead-19-hit-outside-sixth-street-v
-  headline: FBI probes Austin bar shooting as terrorism; 3 dead, 19 hit outside Sixth Street venue
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.6025
+  strength: 0.7216
 ---
-
 ## Seattle names Sayles interim police chief days after festival shooting
 
 **Subtype:** fact

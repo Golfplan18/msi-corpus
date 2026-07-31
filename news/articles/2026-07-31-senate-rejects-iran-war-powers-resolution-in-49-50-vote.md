@@ -1,9 +1,13 @@
 ---
 headline: Senate rejects Iran war powers resolution in 49-50 vote
-secondary_headline: Collins, Murkowski, and Paul side with Democrats; Fetterman votes with GOP
+secondary_headline: Collins, Murkowski, and Paul side with Democrats; Fetterman votes
+  with GOP
 publish_date: '2026-07-31'
-lede: The Senate on Thursday defeated a war powers resolution that would have directed President Donald Trump to end U.S. military operations against Iran, as the measure fell short 49-50.
-nut_graf: The vote was the latest congressional attempt to reassert legislative authority over the use of military force against Iran, according to The Guardian.
+lede: The Senate on Thursday defeated a war powers resolution that would have directed
+  President Donald Trump to end U.S. military operations against Iran, as the measure
+  fell short 49-50.
+nut_graf: The vote was the latest congressional attempt to reassert legislative authority
+  over the use of military force against Iran, according to The Guardian.
 primary_entities:
 - Senate
 - John Fetterman
@@ -35,7 +39,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 0
@@ -71,7 +76,8 @@ related_stories:
   relation: related
   strength: 0.8079
 - slug: 2026-06-23-senate-votes-to-curb-trump-s-iran-war-powers-as-four-republicans-break-ranks
-  headline: Senate votes to curb Trump's Iran war powers as four Republicans break ranks
+  headline: Senate votes to curb Trump's Iran war powers as four Republicans break
+    ranks
   publish_date: '2026-06-23'
   relation: related
   strength: 0.8064
@@ -90,68 +96,7 @@ related_stories:
   publish_date: '2026-06-04'
   relation: related
   strength: 0.7588
-- slug: 2026-06-08-republicans-defect-from-trump-as-house-passes-iran-war-powers-resolution
-  headline: Republicans defect from Trump as House passes Iran war powers resolution
-  publish_date: '2026-06-08'
-  relation: related
-  strength: 0.7293
-- slug: 2026-05-14-republican-resistance-to-iran-war-grows-as-murkowski-flips-in-senate
-  headline: Republican resistance to Iran war grows as Murkowski flips in Senate
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.767
-- slug: 2026-05-21-house-gop-calls-off-vote-on-iran-war-resolution-as-support-slips
-  headline: House GOP calls off vote on Iran war resolution as support slips
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.7497
-- slug: 2026-05-19-senate-advances-bill-aimed-at-ending-iran-war-as-gop-cassidy-flips
-  headline: Senate advances bill aimed at ending Iran war as GOP Cassidy flips
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.7527
-- slug: 2026-05-21-senate-advances-bill-aimed-at-ending-iran-war-as-cassidy-flips
-  headline: Senate advances bill aimed at ending Iran war as Cassidy flips
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.7394
-- slug: 2026-05-22-house-republicans-delay-iran-war-powers-vote-as-gop-struggles-to-find-support
-  headline: House Republicans delay Iran war powers vote as GOP struggles to find support
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.7367
-- slug: 2026-05-21-house-gop-cancels-iran-war-powers-vote-delays-action-into-june
-  headline: House GOP cancels Iran war powers vote, delays action into June
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.7376
-- slug: 2026-05-19-senate-advances-bill-to-end-iran-war-as-gop-s-cassidy-flips
-  headline: Senate advances bill to end Iran war as GOP's Cassidy flips
-  publish_date: '2026-05-19'
-  relation: related
-  strength: 0.7416
-- slug: 2026-05-14-republican-resistance-to-iran-war-grows-as-murkowski-flips
-  headline: Republican resistance to Iran war grows as Murkowski flips
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.7469
-- slug: 2026-05-20-senate-advances-bill-to-end-iran-war-as-cassidy-flips-to-support
-  headline: Senate advances bill to end Iran war as Cassidy flips to support
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.7328
-- slug: 2026-04-15-senate-rejects-iran-war-halt-for-fourth-time-as-gop-eyes-60-day-deadline
-  headline: Senate rejects Iran war halt for fourth time as GOP eyes 60-day deadline
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.7836
-- slug: 2026-03-05-senate-republicans-vote-down-iran-war-powers-halt-in-first-congress-vote
-  headline: Senate Republicans vote down Iran war powers halt in first Congress vote
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.8124
 ---
-
 ## Senate rejects Iran war powers resolution in 49-50 vote
 
 **Subtype:** fact

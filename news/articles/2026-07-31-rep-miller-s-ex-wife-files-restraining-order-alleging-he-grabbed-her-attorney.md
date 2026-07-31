@@ -2,8 +2,13 @@
 headline: Rep. Miller's ex-wife files restraining order alleging he grabbed her attorney
 secondary_headline: Multiple women have accused congressman of domestic violence
 publish_date: '2026-07-31'
-lede: Emily Moreno, the ex-wife of Rep. Max Miller, R-Ohio, filed a new restraining order Thursday alleging the congressman physically grabbed her attorney during a court hearing and threatened him, adding to a string of domestic violence accusations that Miller has denied.
-nut_graf: The filing escalates a contentious legal battle between the congressman and his former wife that has played out alongside his re-election campaign in northeastern Ohio.
+lede: Emily Moreno, the ex-wife of Rep. Max Miller, R-Ohio, filed a new restraining
+  order Thursday alleging the congressman physically grabbed her attorney during a
+  court hearing and threatened him, adding to a string of domestic violence accusations
+  that Miller has denied.
+nut_graf: The filing escalates a contentious legal battle between the congressman
+  and his former wife that has played out alongside his re-election campaign in northeastern
+  Ohio.
 primary_entities:
 - Max Miller
 - Emily Moreno
@@ -38,7 +43,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -137,7 +143,8 @@ cross_article_links:
 draft: false
 related_stories:
 - slug: 2026-05-15-ohio-rep-max-miller-sues-ex-wife-emily-moreno-for-defamation-over-abuse-claims
-  headline: Ohio Rep. Max Miller sues ex-wife Emily Moreno for defamation over abuse claims
+  headline: Ohio Rep. Max Miller sues ex-wife Emily Moreno for defamation over abuse
+    claims
   publish_date: '2026-05-15'
   relation: related
   strength: 0.8428
@@ -145,108 +152,21 @@ related_stories:
   headline: Max Miller sues ex-wife for defamation as Ohio divorce feud escalates
   publish_date: '2026-05-15'
   relation: related
-  strength: 0.8328
-- slug: 2026-07-07-platner-faces-mounting-calls-to-withdraw-from-maine-senate-race-after-assault-al
-  headline: Platner faces mounting calls to withdraw from Maine Senate race after assault allegation
-  publish_date: '2026-07-07'
-  relation: related
-  strength: 0.6282
-- slug: 2026-07-09-platner-suspends-maine-senate-campaign-after-assault-allegation
-  headline: Platner suspends Maine Senate campaign after assault allegation
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.6023
-- slug: 2026-07-06-maine-senate-nominee-platner-denies-2021-sexual-assault-allegation-from-former-p
-  headline: Maine Senate nominee Platner denies 2021 sexual assault allegation from former partner
-  publish_date: '2026-07-06'
-  relation: related
-  strength: 0.6011
-- slug: 2026-07-10-platner-ends-maine-senate-campaign-after-assault-allegation
-  headline: Platner ends Maine Senate campaign after assault allegation
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.5797
-- slug: 2026-06-10-maine-women-torn-between-collins-and-platner-in-senate-race
-  headline: Maine Women Torn Between Collins and Platner in Senate Race
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.5975
-- slug: 2026-06-06-maine-senate-candidate-graham-platner-faces-scrutiny-over-past-texts-abuse-accus
-  headline: Maine Senate candidate Graham Platner faces scrutiny over past texts, abuse accusation
-  publish_date: '2026-06-06'
-  relation: related
-  strength: 0.5997
-- slug: 2026-06-07-platner-fields-voter-questions-at-portland-town-hall-ahead-of-maine-primary
-  headline: Platner fields voter questions at Portland town hall ahead of Maine primary
-  publish_date: '2026-06-07'
-  relation: related
-  strength: 0.5891
-- slug: 2026-06-01-wife-of-maine-senate-hopeful-calls-text-message-reports-shameful
-  headline: Wife of Maine Senate hopeful calls text message reports 'shameful'
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.5913
-- slug: 2026-04-30-minnesota-family-indicted-after-clash-with-turning-point-usa-journalist
-  headline: Minnesota family indicted after clash with Turning Point USA journalist
-  publish_date: '2026-04-30'
-  relation: related
-  strength: 0.5773
-- slug: 2026-04-22-murder-retrial-begins-in-ohio-for-ex-deputy-jason-meade-in-casey-goodson-jr-kill
-  headline: Murder retrial begins in Ohio for ex-deputy Jason Meade in Casey Goodson Jr. killing
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.5799
-- slug: 2026-03-18-democratic-u-s-senate-race-heats-up-as-mills-targets-platner-s-posts
-  headline: Democratic U.S. Senate race heats up as Mills targets Platner’s posts
-  publish_date: '2026-03-18'
-  relation: related
-  strength: 0.6046
-- slug: 2026-03-20-mullin-s-son-s-injury-story-shapes-trump-bond-as-dhs-pick-readies-cabinet
-  headline: Mullin’s son’s injury story shapes Trump bond as DHS pick readies Cabinet
-  publish_date: '2026-03-20'
-  relation: related
-  strength: 0.5953
-- slug: 2026-04-04-former-death-row-inmate-asks-utah-judge-to-dismiss-case-for-retrial
-  headline: Former death row inmate asks Utah judge to dismiss case for retrial
-  publish_date: '2026-04-04'
-  relation: related
-  strength: 0.5755
-- slug: 2026-03-05-anti-war-protester-arrested-at-senate-hearing-after-scuffle-injures-three-capito
-  headline: Anti-war protester arrested at Senate hearing after scuffle injures three Capitol Police
-  publish_date: '2026-03-05'
-  relation: related
-  strength: 0.5755
-- slug: 2026-02-10-ghislaine-maxwell-invokes-fifth-amendment-in-house-deposition
-  headline: Ghislaine Maxwell invokes Fifth Amendment in House deposition
-  publish_date: '2026-02-10'
-  relation: related
-  strength: 0.587
-- slug: 2026-01-22-prosecutors-allege-gang-members-tried-to-kill-indiana-judge
-  headline: Prosecutors allege gang members tried to kill Indiana judge
-  publish_date: '2026-01-22'
-  relation: related
-  strength: 0.5929
-- slug: 2026-02-17-paxton-steps-up-campaign-against-cornyn-in-texas-senate-primary
-  headline: Paxton steps up campaign against Cornyn in Texas Senate primary
-  publish_date: '2026-02-17'
-  relation: related
-  strength: 0.5763
-- slug: 2026-01-15-ice-deputy-director-sheahan-resigns-to-challenge-kaptur-in-ohio-s-9th
-  headline: ICE deputy director Sheahan resigns to challenge Kaptur in Ohio's 9th
-  publish_date: '2026-01-15'
-  relation: related
-  strength: 0.5857
+  strength: 0.8329
 image:
   url: /articles/2026-07-31-rep-miller-s-ex-wife-files-restraining-order-alleging-he-grabbed-her-attorney.png
-  alt: "Illustration accompanying article: Rep. Miller's ex-wife files restraining order alleging he grabbed her attorney"
+  alt: 'Illustration accompanying article: Rep. Miller''s ex-wife files restraining
+    order alleging he grabbed her attorney'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:openai/gpt-5.4-image-2"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
-
 ## Rep. Miller's ex-wife files restraining order alleging he grabbed her attorney
 
 **Subtype:** fact

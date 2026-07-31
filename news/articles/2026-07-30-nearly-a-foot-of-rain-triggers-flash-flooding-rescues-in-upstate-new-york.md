@@ -2,8 +2,13 @@
 headline: Nearly a foot of rain triggers flash flooding, rescues in upstate New York
 secondary_headline: 84 flash flood reports across eastern US between Tuesday and Wednesday
 publish_date: '2026-07-30'
-lede: Nearly a foot of rain fell in parts of upstate New York during a 48-hour period ending Thursday, triggering flash flooding that destroyed a centuries-old grist mill and prompting first responders to rescue people from flooded homes and vehicles, authorities said. No deaths or injuries were reported.
-nut_graf: The flooding was part of a broader severe weather event that generated 84 flash flood reports across the eastern US between Tuesday and Wednesday, according to CBS News, the BBC's US partner.
+lede: Nearly a foot of rain fell in parts of upstate New York during a 48-hour period
+  ending Thursday, triggering flash flooding that destroyed a centuries-old grist
+  mill and prompting first responders to rescue people from flooded homes and vehicles,
+  authorities said. No deaths or injuries were reported.
+nut_graf: The flooding was part of a broader severe weather event that generated 84
+  flash flood reports across the eastern US between Tuesday and Wednesday, according
+  to CBS News, the BBC's US partner.
 primary_entities:
 - Albany
 - Columbia County
@@ -38,7 +43,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 0
@@ -133,108 +139,12 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-07-22-west-virginia-floods-prompt-state-of-emergency-national-guard-deployment
-  headline: West Virginia floods prompt state of emergency, National Guard deployment
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.6418
-- slug: 2026-07-14-south-texas-flooding-prompts-dozens-of-rescues-disaster-declaration
-  headline: South Texas flooding prompts dozens of rescues, disaster declaration
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6385
-- slug: 2026-07-18-texas-flood-warnings-improve-as-2-die-hundreds-rescued
-  headline: Texas flood warnings improve as 2 die, hundreds rescued
-  publish_date: '2026-07-18'
-  relation: related
-  strength: 0.6095
-- slug: 2026-07-15-heavy-rains-drench-south-texas-flood-rescues-top-two-dozen
-  headline: Heavy rains drench South Texas, flood rescues top two dozen
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.6188
-- slug: 2026-07-17-rescuer-airlifts-girl-from-flooded-texas-home-bodycam-video-shows
-  headline: Rescuer airlifts girl from flooded Texas home, bodycam video shows
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.6026
-- slug: 2026-07-12-helicopters-airlift-200-campers-as-missouri-flood-kills-1
-  headline: Helicopters airlift 200 campers as Missouri flood kills 1
-  publish_date: '2026-07-12'
-  relation: related
-  strength: 0.6063
-- slug: 2026-07-10-missouri-declares-state-of-emergency-as-flash-floods-hit-central-southern-areas
-  headline: Missouri declares state of emergency as flash floods hit central, southern areas
-  publish_date: '2026-07-10'
-  relation: related
-  strength: 0.6163
 - slug: 2026-06-29-flash-flooding-kills-at-least-4-in-kentucky-prompting-60-water-rescues
   headline: Flash flooding kills at least 4 in Kentucky, prompting 60 water rescues
   publish_date: '2026-06-29'
   relation: related
   strength: 0.6652
-- slug: 2026-07-12-philadelphia-cleans-up-after-microbursts-damage-buildings-and-streets
-  headline: Philadelphia cleans up after microbursts damage buildings and streets
-  publish_date: '2026-07-12'
-  relation: related
-  strength: 0.5881
-- slug: 2026-07-06-new-jersey-store-roof-collapses-as-floodwaters-break-heat-wave
-  headline: New Jersey store roof collapses as floodwaters break heat wave
-  publish_date: '2026-07-06'
-  relation: related
-  strength: 0.6136
-- slug: 2026-07-11-helicopters-rescue-200-from-missouri-summer-camp-as-floods-sweep-southeast
-  headline: Helicopters rescue 200 from Missouri summer camp as floods sweep southeast
-  publish_date: '2026-07-11'
-  relation: related
-  strength: 0.5827
-- slug: 2026-06-27-four-dead-in-kentucky-flash-flooding-state-of-emergency-declared
-  headline: Four dead in Kentucky flash flooding, state of emergency declared
-  publish_date: '2026-06-27'
-  relation: related
-  strength: 0.6368
-- slug: 2026-06-29-tennessee-mother-39-dies-in-culvert-after-rescuing-son-from-flood-waters
-  headline: Tennessee mother, 39, dies in culvert after rescuing son from flood waters
-  publish_date: '2026-06-29'
-  relation: related
-  strength: 0.59
-- slug: 2026-06-01-firefighters-rescue-baby-deer-trapped-in-beacon-n-y-storm-drain
-  headline: Firefighters rescue baby deer trapped in Beacon, N.Y., storm drain
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.6036
-- slug: 2026-06-02-nypd-investigates-groups-emerging-from-manholes-across-brooklyn-and-queens
-  headline: NYPD investigates groups emerging from manholes across Brooklyn and Queens
-  publish_date: '2026-06-02'
-  relation: related
-  strength: 0.5885
-- slug: 2026-05-14-torrential-rains-flood-northern-turkey-sweeping-away-cars-and-hospitalizing-12
-  headline: Torrential rains flood northern Turkey, sweeping away cars and hospitalizing 12
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.5849
-- slug: 2026-05-04-death-toll-in-kenya-reaches-18-over-a-week-as-heavy-rains-flood-areas
-  headline: Death toll in Kenya reaches 18 over a week as heavy rains flood areas
-  publish_date: '2026-05-04'
-  relation: related
-  strength: 0.5841
-- slug: 2026-04-28-tornadoes-hail-and-flooding-threaten-parts-of-the-midwest
-  headline: Tornadoes, hail and flooding threaten parts of the Midwest
-  publish_date: '2026-04-28'
-  relation: related
-  strength: 0.5852
-- slug: 2026-04-15-midwest-storms-flood-wisconsin-streets-damage-ann-arbor-ice-arenas
-  headline: Midwest storms flood Wisconsin streets, damage Ann Arbor ice arenas
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.5864
-- slug: 2026-03-24-hawaii-digging-out-after-surprise-downpour-floods-parts-of-honolulu
-  headline: Hawaii digging out after surprise downpour floods parts of Honolulu
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.5908
 ---
-
 ## Nearly a foot of rain triggers flash flooding, rescues in upstate New York
 
 **Subtype:** fact

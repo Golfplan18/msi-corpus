@@ -1,9 +1,15 @@
 ---
-headline: Four families sue Meta, TikTok, Snapchat and YouTube over teens' suicide deaths
-secondary_headline: Delaware suit alleges 'years of escalating harms' from platform use
+headline: Four families sue Meta, TikTok, Snapchat and YouTube over teens' suicide
+  deaths
+secondary_headline: Delaware suit alleges 'years of escalating harms' from platform
+  use
 publish_date: '2026-07-31'
-lede: The families of four teenagers who died by suicide are suing social media companies Meta, TikTok, Snapchat and YouTube, according to a lawsuit filed Thursday in the Superior Court of Delaware.
-nut_graf: The suit alleges that years of escalating harms from platform use contributed to the deaths, and it adds to a growing wave of litigation arguing that social media services are addictive and dangerous for young users.
+lede: The families of four teenagers who died by suicide are suing social media companies
+  Meta, TikTok, Snapchat and YouTube, according to a lawsuit filed Thursday in the
+  Superior Court of Delaware.
+nut_graf: The suit alleges that years of escalating harms from platform use contributed
+  to the deaths, and it adds to a growing wave of litigation arguing that social media
+  services are addictive and dangerous for young users.
 primary_entities:
 - Meta
 - TikTok
@@ -43,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -157,7 +164,8 @@ related_stories:
   relation: related
   strength: 0.7349
 - slug: 2026-07-15-youtube-appeals-jury-verdict-that-found-company-negligent-in-social-media-case
-  headline: YouTube appeals jury verdict that found company negligent in social media case
+  headline: YouTube appeals jury verdict that found company negligent in social media
+    case
   publish_date: '2026-07-15'
   relation: related
   strength: 0.7047
@@ -167,15 +175,11 @@ related_stories:
   relation: related
   strength: 0.7548
 - slug: 2026-06-11-key-social-media-lawsuits-could-reshape-platform-operations-as-trials-approach
-  headline: Key social media lawsuits could reshape platform operations as trials approach
+  headline: Key social media lawsuits could reshape platform operations as trials
+    approach
   publish_date: '2026-06-11'
   relation: related
   strength: 0.7798
-- slug: 2026-06-15-florida-sues-tiktok-over-state-child-social-media-access-law
-  headline: Florida sues TikTok over state child social media access law
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.6951
 - slug: 2026-05-16-senate-calls-tech-ceos-to-testify-on-social-media-risks-to-children
   headline: Senate calls tech CEOs to testify on social media risks to children
   publish_date: '2026-05-16'
@@ -186,63 +190,7 @@ related_stories:
   publish_date: '2026-05-16'
   relation: related
   strength: 0.7031
-- slug: 2026-05-02-meta-says-it-could-shut-down-social-media-platforms-in-new-mexico
-  headline: Meta says it could shut down social media platforms in New Mexico
-  publish_date: '2026-05-02'
-  relation: related
-  strength: 0.7092
-- slug: 2026-03-27-verdicts-against-meta-and-youtube-raise-questions-about-child-safety-online
-  headline: Verdicts against Meta and YouTube raise questions about child safety online
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.7307
-- slug: 2026-03-25-social-media-firms-await-more-legal-decisions-after-new-mexico-meta-verdict
-  headline: Social media firms await more legal decisions after New Mexico Meta verdict
-  publish_date: '2026-03-25'
-  relation: related
-  strength: 0.7291
-- slug: 2026-03-24-social-media-firms-await-more-legal-decisions-as-meta-faces-penalties
-  headline: Social media firms await more legal decisions as Meta faces penalties
-  publish_date: '2026-03-24'
-  relation: related
-  strength: 0.7256
-- slug: 2026-03-27-jury-finds-instagram-and-youtube-liable-in-landmark-social-media-addiction-trial
-  headline: Jury finds Instagram and YouTube liable in landmark social media addiction trial
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.7226
-- slug: 2026-03-27-colorado-mother-celebrates-meta-youtube-verdicts-over-harms-to-children
-  headline: Colorado mother celebrates Meta, YouTube verdicts over harms to children
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.7177
-- slug: 2026-03-26-social-media-firms-await-more-legal-decisions-after-meta-child-safety-verdict
-  headline: Social media firms await more legal decisions after Meta child-safety verdict
-  publish_date: '2026-03-26'
-  relation: related
-  strength: 0.7141
-- slug: 2026-03-26-colorado-mother-celebrates-juries-verdicts-against-meta-and-youtube
-  headline: Colorado mother celebrates juries’ verdicts against Meta and YouTube
-  publish_date: '2026-03-26'
-  relation: related
-  strength: 0.7141
-- slug: 2026-01-30-social-media-giants-face-landmark-youth-addiction-trial-after-tiktok-settles
-  headline: Social media giants face landmark youth addiction trial after TikTok settles
-  publish_date: '2026-01-30'
-  relation: related
-  strength: 0.7445
-- slug: 2026-02-20-trials-test-whether-social-media-companies-deliberately-harmed-children
-  headline: Trials test whether social media companies deliberately harmed children
-  publish_date: '2026-02-20'
-  relation: related
-  strength: 0.7335
-- slug: 2026-03-27-jury-finds-meta-and-youtube-liable-in-landmark-child-safety-cases
-  headline: Jury finds Meta and YouTube liable in landmark child-safety cases
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.7075
 ---
-
 ## Four families sue Meta, TikTok, Snapchat and YouTube over teens' suicide deaths
 
 **Subtype:** fact

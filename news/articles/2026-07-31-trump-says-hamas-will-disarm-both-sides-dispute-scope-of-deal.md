@@ -1,9 +1,16 @@
 ---
 headline: Trump says Hamas will disarm; both sides dispute scope of deal
-secondary_headline: Gaza stabilization force and new police force remain far from operational
+secondary_headline: Gaza stabilization force and new police force remain far from
+  operational
 publish_date: '2026-07-31'
-lede: President Donald Trump announced Thursday that a deal has been reached for Hamas to disarm and for Israel to withdraw its forces from Gaza, but both sides immediately disputed the terms and scope of the agreement, raising questions about whether the plan can be implemented as described.
-nut_graf: The announcement comes nine months after a U.S.-brokered ceasefire paused the conflict and as negotiations over the deal's second phase had largely deadlocked. The competing claims from Israel and Hamas over sequencing and the scope of disarmament echo the core impasse that has stalled progress since the ceasefire was signed.
+lede: President Donald Trump announced Thursday that a deal has been reached for Hamas
+  to disarm and for Israel to withdraw its forces from Gaza, but both sides immediately
+  disputed the terms and scope of the agreement, raising questions about whether the
+  plan can be implemented as described.
+nut_graf: The announcement comes nine months after a U.S.-brokered ceasefire paused
+  the conflict and as negotiations over the deal's second phase had largely deadlocked.
+  The competing claims from Israel and Hamas over sequencing and the scope of disarmament
+  echo the core impasse that has stalled progress since the ceasefire was signed.
 primary_entities:
 - Donald Trump
 - Hamas
@@ -44,7 +51,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 2
@@ -148,12 +156,13 @@ related_stories:
   headline: Trump says Hamas commits to disarmament under Gaza framework
   publish_date: '2026-07-30'
   relation: related
-  strength: 0.8834
+  strength: 0.8852
 - slug: 2026-07-28-netanyahu-trump-hold-first-face-to-face-meeting-since-launching-iran-war
-  headline: Netanyahu, Trump hold first face-to-face meeting since launching Iran war
+  headline: Netanyahu, Trump hold first face-to-face meeting since launching Iran
+    war
   publish_date: '2026-07-28'
   relation: related
-  strength: 0.6886
+  strength: 0.69
 - slug: 2026-07-24-lebanese-army-deploys-in-southern-lebanon-pilot-zones-as-aoun-meets-trump
   headline: Lebanese Army deploys in southern Lebanon pilot zones as Aoun meets Trump
   publish_date: '2026-07-24'
@@ -163,89 +172,29 @@ related_stories:
   headline: US puts Lebanese army, Syria at center of Hezbollah disarmament push
   publish_date: '2026-07-21'
   relation: related
-  strength: 0.6846
+  strength: 0.6838
 - slug: 2026-06-08-trump-netanyahu-rift-tests-fragile-middle-east-ceasefire
   headline: Trump-Netanyahu rift tests fragile Middle East ceasefire
   publish_date: '2026-06-08'
   relation: related
-  strength: 0.6859
+  strength: 0.6863
 - slug: 2026-06-04-israel-and-lebanon-agree-to-renew-ceasefire-as-trump-seeks-to-overcome-iran-deal
-  headline: Israel and Lebanon agree to renew ceasefire as Trump seeks to overcome Iran deal barriers
+  headline: Israel and Lebanon agree to renew ceasefire as Trump seeks to overcome
+    Iran deal barriers
   publish_date: '2026-06-04'
   relation: related
-  strength: 0.6938
+  strength: 0.6946
 - slug: 2026-05-12-board-of-peace-envoy-mladenov-says-gaza-ceasefire-hinges-on-hamas-disarmament
   headline: Board of Peace envoy Mladenov says Gaza ceasefire hinges on Hamas disarmament
   publish_date: '2026-05-12'
   relation: related
-  strength: 0.7218
+  strength: 0.7206
 - slug: 2026-03-28-hamas-weighs-disarmament-plan-as-key-to-gaza-reconstruction
   headline: Hamas weighs disarmament plan as key to Gaza reconstruction
   publish_date: '2026-03-28'
   relation: related
-  strength: 0.7781
-- slug: 2026-02-20-trump-s-board-of-peace-pledges-7b-for-gaza-troops-for-stabilization-force
-  headline: Trump’s Board of Peace pledges $7B for Gaza, troops for stabilization force
-  publish_date: '2026-02-20'
-  relation: related
-  strength: 0.7755
-- slug: 2026-04-08-us-and-iran-agree-to-a-two-week-ceasefire-as-trump-steps-back-on-threats
-  headline: US and Iran agree to a two-week ceasefire as Trump steps back on threats
-  publish_date: '2026-04-08'
-  relation: related
-  strength: 0.7403
-- slug: 2026-04-26-trump-reaches-shaky-ceasefires-in-iran-lebanon-and-gaza-but-key-issues-remain
-  headline: Trump reaches shaky ceasefires in Iran, Lebanon and Gaza, but key issues remain
-  publish_date: '2026-04-26'
-  relation: related
-  strength: 0.7148
-- slug: 2026-04-08-trump-ordena-desescalada-eeuu-e-ir-n-acuerdan-tregua-de-dos-semanas
-  headline: 'Trump ordena desescalada: EEUU e Irán acuerdan tregua de dos semanas'
-  publish_date: '2026-04-08'
-  relation: related
-  strength: 0.7209
-- slug: 2026-02-19-trump-s-board-of-peace-pledges-7b-for-gaza-and-troop-commitments
-  headline: Trump’s Board of Peace pledges $7B for Gaza and troop commitments
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.7408
-- slug: 2026-02-19-trump-s-board-of-peace-holds-first-meeting-pledges-aid-for-gaza
-  headline: Trump’s Board of Peace holds first meeting, pledges aid for Gaza
-  publish_date: '2026-02-19'
-  relation: related
-  strength: 0.7392
-- slug: 2026-04-11-gaza-ceasefire-reaches-6-months-amid-iran-war-tensions
-  headline: Gaza ceasefire reaches 6 months amid Iran war tensions
-  publish_date: '2026-04-11'
-  relation: related
-  strength: 0.7002
-- slug: 2025-12-31-trump-warns-iran-of-further-strikes-if-it-restarts-nuclear-program
-  headline: Trump warns Iran of further strikes if it restarts nuclear program
-  publish_date: '2025-12-31'
-  relation: related
-  strength: 0.7533
-- slug: 2026-04-24-trump-says-israel-and-lebanon-agree-to-extend-israel-hezbollah-ceasefire-3-weeks
-  headline: Trump says Israel and Lebanon agree to extend Israel-Hezbollah ceasefire 3 weeks
-  publish_date: '2026-04-24'
-  relation: related
-  strength: 0.6801
-- slug: 2026-04-20-trump-offers-mixed-messages-about-us-war-against-iran
-  headline: Trump offers mixed messages about US war against Iran
-  publish_date: '2026-04-20'
-  relation: related
-  strength: 0.6812
-- slug: 2026-04-09-trump-agrees-to-14-day-iran-ceasefire-after-deadline-on-strait-of-hormuz
-  headline: Trump agrees to 14-day Iran ceasefire after deadline on Strait of Hormuz
-  publish_date: '2026-04-09'
-  relation: related
-  strength: 0.6899
-- slug: 2026-04-16-israel-lebanon-10-day-ceasefire-takes-effect-as-diplomats-push-to-extend-iran-tr
-  headline: Israel-Lebanon 10-day ceasefire takes effect as diplomats push to extend Iran truce
-  publish_date: '2026-04-16'
-  relation: related
-  strength: 0.675
+  strength: 0.777
 ---
-
 ## Trump says Hamas will disarm; both sides dispute scope of deal
 
 **Subtype:** fact

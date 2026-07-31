@@ -2,8 +2,17 @@
 headline: Oil rises as OPEC+ prepares to unwind cuts, Iran tensions persist
 secondary_headline: Analysts raise Ampol target, see Tenaga renewable growth
 publish_date: '2026-07-31'
-lede: Oil futures rose Friday and were on track for monthly gains, with OPEC+ expected to agree to a 188,000 barrel-a-day output increase at its Sunday meeting, as the collapse of the U.S.-Iran Memorandum of Understanding and resumed Iranian attacks on shipping in the Strait of Hormuz tightened supply. West Texas Intermediate crude gained 2.2% to $85.42 a barrel, and September Brent rose 1.5% to $90.36 ahead of its expiry.
-nut_graf: The combination of Middle East conflict and the unwinding of voluntary OPEC+ cuts has created a market where actual crude supply falls short of demand, analysts said, with physical barrels diverging from quota allocations. The OPEC+ decision, while appearing large on paper, is more a signal of manageable market conditions than a flood of new supply, according to market participants.
+lede: Oil futures rose Friday and were on track for monthly gains, with OPEC+ expected
+  to agree to a 188,000 barrel-a-day output increase at its Sunday meeting, as the
+  collapse of the U.S.-Iran Memorandum of Understanding and resumed Iranian attacks
+  on shipping in the Strait of Hormuz tightened supply. West Texas Intermediate crude
+  gained 2.2% to $85.42 a barrel, and September Brent rose 1.5% to $90.36 ahead of
+  its expiry.
+nut_graf: The combination of Middle East conflict and the unwinding of voluntary OPEC+
+  cuts has created a market where actual crude supply falls short of demand, analysts
+  said, with physical barrels diverging from quota allocations. The OPEC+ decision,
+  while appearing large on paper, is more a signal of manageable market conditions
+  than a flood of new supply, according to market participants.
 primary_entities:
 - OPEC+
 - Strait of Hormuz
@@ -43,7 +52,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,32 +155,33 @@ related_stories:
   headline: Oil heads for weekly gain as U.S.-Iran strikes keep Strait of Hormuz quiet
   publish_date: '2026-07-10'
   relation: related
-  strength: 0.8153
+  strength: 0.8149
 - slug: 2026-07-13-oil-prices-surge-9-6-after-trump-reimposes-hormuz-blockade
   headline: Oil prices surge 9.6% after Trump reimposes Hormuz blockade
   publish_date: '2026-07-13'
   relation: related
-  strength: 0.7808
+  strength: 0.7802
 - slug: 2026-06-29-oil-rebounds-as-u-s--iran-talks-resume-after-weekend-strikes
   headline: Oil rebounds as U.S.-Iran talks resume after weekend strikes
   publish_date: '2026-06-29'
   relation: related
-  strength: 0.8308
+  strength: 0.8304
 - slug: 2026-07-08-oil-prices-jump-as-u-s-iran-exchange-airstrikes-threaten-strait-of-hormuz
-  headline: Oil prices jump as U.S., Iran exchange airstrikes, threaten Strait of Hormuz
+  headline: Oil prices jump as U.S., Iran exchange airstrikes, threaten Strait of
+    Hormuz
   publish_date: '2026-07-08'
   relation: related
-  strength: 0.7784
+  strength: 0.7783
 - slug: 2026-06-23-oil-prices-rise-amid-mixed-signals-from-u-s--iran-peace-talks
   headline: Oil Prices Rise Amid Mixed Signals From U.S.-Iran Peace Talks
   publish_date: '2026-06-23'
   relation: related
-  strength: 0.7813
+  strength: 0.7808
 - slug: 2026-06-03-oil-rises-as-u-s--iran-talks-stall-analysts-warn-of-summer-supply-crunch
   headline: Oil rises as U.S.-Iran talks stall, analysts warn of summer supply crunch
   publish_date: '2026-06-03'
   relation: related
-  strength: 0.8439
+  strength: 0.8438
 - slug: 2026-06-11-oil-prices-rise-as-u-s-launches-new-strikes-on-iran-near-strait-of-hormuz
   headline: Oil Prices Rise as U.S. Launches New Strikes on Iran Near Strait of Hormuz
   publish_date: '2026-06-11'
@@ -180,69 +191,8 @@ related_stories:
   headline: Oil rises as Iran, Israel trade strikes; Strait of Hormuz remains closed
   publish_date: '2026-06-09'
   relation: related
-  strength: 0.8073
-- slug: 2026-06-11-oil-prices-rise-as-trump-pledges-more-iran-strikes-energy-roundup-shows
-  headline: Oil Prices Rise as Trump Pledges More Iran Strikes, Energy Roundup Shows
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.7971
-- slug: 2026-06-07-opec-boosts-output-for-fourth-month-as-hormuz-closure-blocks-shipments
-  headline: OPEC boosts output for fourth month as Hormuz closure blocks shipments
-  publish_date: '2026-06-07'
-  relation: related
-  strength: 0.8043
-- slug: 2026-06-01-oil-rises-over-3-on-fresh-u-s--iran-strikes-deal-uncertainty
-  headline: Oil rises over 3% on fresh U.S.-Iran strikes, deal uncertainty
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.8201
-- slug: 2026-06-16-oil-falls-strait-of-hormuz-reopening-eyed-as-u-s--iran-deal-nears
-  headline: Oil Falls, Strait of Hormuz Reopening Eyed as U.S.-Iran Deal Nears
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.7723
-- slug: 2026-06-01-oil-rises-as-strait-of-hormuz-deal-remains-elusive-after-seven-weeks
-  headline: Oil rises as Strait of Hormuz deal remains elusive after seven weeks
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.8096
-- slug: 2026-06-15-oil-executives-warn-of-severe-supply-crunch-as-u-s-depletes-reserve
-  headline: Oil executives warn of severe supply crunch as U.S. depletes reserve
-  publish_date: '2026-06-15'
-  relation: related
-  strength: 0.7653
-- slug: 2026-06-04-oil-falls-on-israel-lebanon-ceasefire-but-analysts-warn-of-lasting-strait-of-hor
-  headline: Oil prices fall 3% on Israel-Lebanon ceasefire, Hezbollah not part of deal
-  publish_date: '2026-06-04'
-  relation: related
-  strength: 0.7748
-- slug: 2026-06-05-oil-falls-2-7-as-iran-talks-fuel-optimism-supply-cliff-looms
-  headline: Oil falls 2.7% as Iran talks fuel optimism; supply cliff looms
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.7679
-- slug: 2026-06-03-oil-rises-asian-stocks-mostly-gain-on-us-iran-tensions-ai-rally
-  headline: Oil rises, Asian stocks mostly gain on US-Iran tensions, AI rally
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.7728
-- slug: 2026-06-01-stock-futures-rise-as-oil-jumps-on-renewed-u-s--iran-strikes
-  headline: Stock futures rise as oil jumps on renewed U.S.-Iran strikes
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.7651
-- slug: 2026-05-04-opec-agrees-modest-june-oil-output-rise-as-iran-keeps-hormuz-chokepoint
-  headline: OPEC+ agrees modest June oil output rise as Iran keeps Hormuz chokepoint
-  publish_date: '2026-05-04'
-  relation: related
-  strength: 0.7766
-- slug: 2026-04-20-oil-rises-5-on-iran-tensions-as-wall-street-stocks-slip
-  headline: Oil rises 5% on Iran tensions as Wall Street stocks slip
-  publish_date: '2026-04-20'
-  relation: related
-  strength: 0.7872
+  strength: 0.8066
 ---
-
 ## Oil rises as OPEC+ prepares to unwind cuts, Iran tensions persist
 
 **Subtype:** fact

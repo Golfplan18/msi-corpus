@@ -152,107 +152,44 @@ related_stories:
   headline: U.S., Iran exchange strikes for 12th night as Iran targets Kuwait, Jordan
   publish_date: '2026-07-23'
   relation: related
-  strength: 0.8222
+  strength: 0.8221
+- slug: 2026-07-31-trump-vows-to-hit-iran-very-hard-as-diplomacy-collapses
+  headline: Trump vows to hit Iran 'very hard' as diplomacy collapses
+  publish_date: '2026-07-31'
+  relation: related
+  strength: 0.7748
 - slug: 2026-07-22-iran-missile-strike-on-jordan-base-kills-three-us-service-members
   headline: Iran missile strike on Jordan base kills three US service members
   publish_date: '2026-07-22'
   relation: related
-  strength: 0.8059
+  strength: 0.8053
 - slug: 2026-07-24-u-s-strikes-iran-for-two-weeks-mobilizes-forces-for-larger-operation
   headline: U.S. strikes Iran for two weeks, mobilizes forces for larger operation
   publish_date: '2026-07-24'
   relation: related
-  strength: 0.7882
+  strength: 0.7872
 - slug: 2026-07-18-u-s-iran-escalate-strikes-in-gulf-as-israel-bombs-lebanon
   headline: U.S., Iran escalate strikes in Gulf as Israel bombs Lebanon
   publish_date: '2026-07-18'
   relation: related
-  strength: 0.8091
+  strength: 0.8082
 - slug: 2026-07-14-us-launches-third-night-of-strikes-on-iran-as-fighting-intensifies-in-strait-of-
   headline: US launches third night of strikes on Iran as fighting intensifies in
     Strait of Hormuz
   publish_date: '2026-07-14'
   relation: related
-  strength: 0.8248
-- slug: 2026-07-20-us-strikes-iran-for-9th-consecutive-night-as-hormuz-conflict-continues
-  headline: US strikes Iran for 9th consecutive night as Hormuz conflict continues
-  publish_date: '2026-07-20'
-  relation: related
-  strength: 0.7892
+  strength: 0.8238
 - slug: 2026-07-18-iran-attack-in-jordan-kills-two-u-s-service-members
   headline: Iran attack in Jordan kills two U.S. service members
   publish_date: '2026-07-18'
   relation: related
-  strength: 0.7996
-- slug: 2026-07-20-iran-missile-kills-two-u-s-soldiers-in-strike-on-jordan-base-housing
-  headline: Iran missile kills two U.S. soldiers in strike on Jordan base housing
+  strength: 0.8002
+- slug: 2026-07-20-us-strikes-iran-for-9th-consecutive-night-as-hormuz-conflict-continues
+  headline: US strikes Iran for 9th consecutive night as Hormuz conflict continues
   publish_date: '2026-07-20'
   relation: related
-  strength: 0.7802
-- slug: 2026-07-08-us-strikes-iranian-military-sites-after-tanker-attacks-in-strait-of-hormuz
-  headline: US strikes Iranian military sites after tanker attacks in Strait of Hormuz
-  publish_date: '2026-07-08'
-  relation: related
-  strength: 0.8179
-- slug: 2026-07-12-us-launches-new-strikes-on-iran-after-irgc-attacks-ship-in-strait-of-hormuz
-  headline: US launches new strikes on Iran after IRGC attacks ship in Strait of Hormuz
-  publish_date: '2026-07-12'
-  relation: related
-  strength: 0.7933
-- slug: 2026-07-09-u-s-airstrikes-kill-14-in-iran-over-two-days-health-ministry-reports
-  headline: U.S. airstrikes kill 14 in Iran over two days, Health Ministry reports
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.7913
-- slug: 2026-06-28-iran-s-revolutionary-guard-strikes-bahrain-kuwait-as-u-s-hits-10-targets
-  headline: Iran's Revolutionary Guard strikes Bahrain, Kuwait as U.S. hits 10 targets
-  publish_date: '2026-06-28'
-  relation: related
-  strength: 0.8306
-- slug: 2026-06-28-us-launches-new-strikes-on-iran-after-tanker-attacked-in-strait-of-hormuz
-  headline: US launches new strikes on Iran after tanker attacked in Strait of Hormuz
-  publish_date: '2026-06-28'
-  relation: related
-  strength: 0.8018
-- slug: 2026-06-06-u-s-military-shoots-down-iranian-drones-missiles-strikes-gulf-radar-sites
-  headline: U.S. military shoots down Iranian drones, missiles; strikes Gulf radar
-    sites
-  publish_date: '2026-06-06'
-  relation: related
-  strength: 0.8253
-- slug: 2026-06-11-u-s-iran-trade-attacks-for-second-day-as-conflict-widens-to-gulf-neighbors
-  headline: U.S., Iran trade attacks for second day as conflict widens to Gulf neighbors
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.8056
-- slug: 2026-06-06-us-iran-exchange-strikes-in-gulf-as-fragile-ceasefire-frays
-  headline: US, Iran exchange strikes in Gulf as fragile ceasefire frays
-  publish_date: '2026-06-06'
-  relation: related
-  strength: 0.8151
-- slug: 2026-06-10-u-s-iran-exchange-strikes-after-helicopter-downed-near-strait-of-hormuz
-  headline: U.S., Iran exchange strikes after helicopter downed near Strait of Hormuz
-  publish_date: '2026-06-10'
-  relation: related
-  strength: 0.8019
-- slug: 2026-06-01-u-s-strikes-iranian-air-defenses-drone-sites-after-strait-of-hormuz-skirmish
-  headline: U.S. strikes Iranian air defenses, drone sites after Strait of Hormuz
-    skirmish
-  publish_date: '2026-06-01'
-  relation: related
-  strength: 0.8003
-- slug: 2026-06-07-iran-fires-waves-of-missiles-at-israel-after-israeli-airstrike-on-beirut
-  headline: Iran fires waves of missiles at Israel after Israeli airstrike on Beirut
-  publish_date: '2026-06-07'
-  relation: related
-  strength: 0.7719
-- slug: 2026-06-03-us-iran-trade-heavy-fire-in-persian-gulf-testing-fragile-ceasefire
-  headline: US, Iran Trade Heavy Fire in Persian Gulf, Testing Fragile Ceasefire
-  publish_date: '2026-06-03'
-  relation: related
-  strength: 0.7721
+  strength: 0.7877
 ---
-
 ## U.S. launches heavy strikes on Iran after missile attack on Jordan base
 
 **Subtype:** fact

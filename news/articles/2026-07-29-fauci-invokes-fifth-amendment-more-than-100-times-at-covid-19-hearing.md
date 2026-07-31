@@ -1,9 +1,16 @@
 ---
 headline: Fauci invokes Fifth Amendment more than 100 times at COVID-19 hearing
-secondary_headline: Florida attorney general announces investigation into Fauci after hearing
+secondary_headline: Florida attorney general announces investigation into Fauci after
+  hearing
 publish_date: '2026-07-29'
-lede: Dr. Anthony Fauci, the former top U.S. health official who led the nation's COVID-19 response, invoked his Fifth Amendment right against self-incrimination more than 100 times during a Senate Homeland Security Committee hearing on July 29, declining to answer Republican lawmakers' questions about his pandemic-era decisions.
-nut_graf: The hearing, convened under subpoena by committee Chairman Sen. Rand Paul, marked the latest step in a yearslong dispute over the origins of COVID-19 and the government's response, and left unresolved whether a preemptive pardon issued by former President Joe Biden shields Fauci from potential perjury charges.
+lede: Dr. Anthony Fauci, the former top U.S. health official who led the nation's
+  COVID-19 response, invoked his Fifth Amendment right against self-incrimination
+  more than 100 times during a Senate Homeland Security Committee hearing on July
+  29, declining to answer Republican lawmakers' questions about his pandemic-era decisions.
+nut_graf: The hearing, convened under subpoena by committee Chairman Sen. Rand Paul,
+  marked the latest step in a yearslong dispute over the origins of COVID-19 and the
+  government's response, and left unresolved whether a preemptive pardon issued by
+  former President Joe Biden shields Fauci from potential perjury charges.
 primary_entities:
 - Anthony Fauci
 - Rand Paul
@@ -32,7 +39,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 0
@@ -63,104 +71,35 @@ related_stories:
   headline: Fauci invokes Fifth Amendment, Rand Paul threatens contempt
   publish_date: '2026-07-30'
   relation: related
-  strength: 0.9054
+  strength: 0.9059
 - slug: 2026-07-28-scientists-call-for-end-to-alleged-targeting-of-researchers-by-trump-administrat
   headline: Scientists call for end to alleged targeting of researchers by Trump administration
   publish_date: '2026-07-28'
   relation: related
-  strength: 0.7634
+  strength: 0.7631
 - slug: 2026-07-27-sen-rand-paul-releases-fauci-diary-entries-describing-trump-as-rambling-crazy-du
-  headline: Sen. Rand Paul releases Fauci diary entries describing Trump as 'rambling,' 'crazy' during pandemic
+  headline: Sen. Rand Paul releases Fauci diary entries describing Trump as 'rambling,'
+    'crazy' during pandemic
   publish_date: '2026-07-27'
   relation: related
-  strength: 0.7554
+  strength: 0.7551
 - slug: 2026-07-29-scientists-reaffirm-animal-origin-of-covid-19-as-senate-hearing-rekindles-lab-le
-  headline: Scientists reaffirm animal origin of COVID-19 as Senate hearing rekindles lab-leak debate
+  headline: Scientists reaffirm animal origin of COVID-19 as Senate hearing rekindles
+    lab-leak debate
   publish_date: '2026-07-29'
   relation: related
-  strength: 0.6714
+  strength: 0.6715
 - slug: 2026-06-23-rand-paul-subpoenas-anthony-fauci-for-covid-19-testimony
   headline: Rand Paul subpoenas Anthony Fauci for COVID-19 testimony
   publish_date: '2026-06-23'
   relation: related
-  strength: 0.8064
-- slug: 2026-07-14-blanche-confirmation-hearings-open-as-senators-weigh-conflicts
-  headline: Blanche confirmation hearings open as senators weigh conflicts
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6073
-- slug: 2026-06-11-democrats-call-on-vance-to-testify-over-epstein-files-handling
-  headline: Democrats call on Vance to testify over Epstein files handling
-  publish_date: '2026-06-11'
-  relation: related
-  strength: 0.6083
-- slug: 2026-05-29-bondi-refuses-to-answer-questions-on-trump-s-epstein-files-role-in-closed-door-h
-  headline: Bondi refuses to answer questions on Trump's Epstein files role in closed-door House interview
-  publish_date: '2026-05-29'
-  relation: related
-  strength: 0.6402
-- slug: 2026-05-29-bondi-refuses-to-answer-questions-on-trump-s-role-in-epstein-files-release
-  headline: Bondi refuses to answer questions on Trump's role in Epstein files release
-  publish_date: '2026-05-29'
-  relation: related
-  strength: 0.6103
+  strength: 0.8069
 - slug: 2026-04-29-former-fauci-adviser-indicted-for-allegedly-concealing-covid-19-records
   headline: Former Fauci adviser indicted for allegedly concealing COVID-19 records
   publish_date: '2026-04-29'
   relation: related
-  strength: 0.6687
-- slug: 2026-04-21-as-rfk-jr-faced-the-senate-bill-cassidy-balanced-politics-and-science
-  headline: As RFK Jr. faced the Senate, Bill Cassidy balanced politics and science
-  publish_date: '2026-04-21'
-  relation: related
-  strength: 0.6274
-- slug: 2026-04-17-kennedy-clashes-with-democrats-over-vaccines-and-race-at-house-hearing
-  headline: Kennedy clashes with Democrats over vaccines and race at House hearing
-  publish_date: '2026-04-17'
-  relation: related
-  strength: 0.6314
-- slug: 2026-04-22-as-rfk-jr-faced-the-senate-sen-cassidy-weighed-vaccines-and-politics
-  headline: As RFK Jr. faced the Senate, Sen. Cassidy weighed vaccines and politics
-  publish_date: '2026-04-22'
-  relation: related
-  strength: 0.6232
-- slug: 2026-04-09-bondi-will-not-testify-at-house-deposition-in-epstein-files-probe
-  headline: Bondi will not testify at House deposition in Epstein files probe
-  publish_date: '2026-04-09'
-  relation: related
-  strength: 0.6109
-- slug: 2026-03-27-ethics-panel-weighs-allegations-against-florida-congresswoman-cherfilus-mccormic
-  headline: Ethics panel weighs allegations against Florida congresswoman Cherfilus-McCormick
-  publish_date: '2026-03-27'
-  relation: related
-  strength: 0.611
-- slug: 2026-02-12-bondi-clashes-with-house-judiciary-as-epstein-files-fight-spills-over
-  headline: Bondi clashes with House Judiciary as Epstein files fight spills over
-  publish_date: '2026-02-12'
-  relation: related
-  strength: 0.6222
-- slug: 2026-01-15-house-gop-s-new-jan-6-committee-holds-first-hearing-amid-clashes-over-attack-his
-  headline: House GOP's new Jan. 6 committee holds first hearing amid clashes over attack history
-  publish_date: '2026-01-15'
-  relation: related
-  strength: 0.6266
-- slug: 2026-02-14-paxton-backs-ivermectin-doctor-in-texas-medical-board-fight
-  headline: Paxton backs ivermectin doctor in Texas Medical Board fight
-  publish_date: '2026-02-14'
-  relation: related
-  strength: 0.6074
-- slug: 2026-02-13-judge-blocks-pentagon-from-punishing-sen-mark-kelly-for-resisting-unlawful-order
-  headline: Judge blocks Pentagon from punishing Sen. Mark Kelly for resisting unlawful orders video
-  publish_date: '2026-02-13'
-  relation: related
-  strength: 0.6069
-- slug: 2026-02-10-ghislaine-maxwell-invokes-fifth-amendment-in-house-deposition
-  headline: Ghislaine Maxwell invokes Fifth Amendment in House deposition
-  publish_date: '2026-02-10'
-  relation: related
-  strength: 0.607
+  strength: 0.669
 ---
-
 ## Fauci invokes Fifth Amendment more than 100 times at COVID-19 hearing
 
 **Subtype:** fact

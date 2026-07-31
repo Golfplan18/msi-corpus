@@ -1,9 +1,16 @@
 ---
 headline: Cyclospora parasite reproduces in human intestines, causing weeks-long illness
-secondary_headline: Single-cell organism's complex biology makes infection difficult to eliminate
+secondary_headline: Single-cell organism's complex biology makes infection difficult
+  to eliminate
 publish_date: '2026-07-30'
-lede: The Cyclospora parasite reproduces inside the human intestines, making infections difficult to overcome and symptoms that can persist for weeks or months, NPR's Pien Huang reported July 30. The single-cell organism's biology allows it to multiply in the digestive tract, contributing to its resilience.
-nut_graf: The parasite's complex biology — beginning as a single cell, entering the digestive tract, and reproducing in the intestines — is what makes Cyclospora infections hard to overcome, producing gastrointestinal symptoms that can stretch for weeks or months.
+lede: The Cyclospora parasite reproduces inside the human intestines, making infections
+  difficult to overcome and symptoms that can persist for weeks or months, NPR's Pien
+  Huang reported July 30. The single-cell organism's biology allows it to multiply
+  in the digestive tract, contributing to its resilience.
+nut_graf: The parasite's complex biology — beginning as a single cell, entering the
+  digestive tract, and reproducing in the intestines — is what makes Cyclospora infections
+  hard to overcome, producing gastrointestinal symptoms that can stretch for weeks
+  or months.
 primary_entities:
 - Cyclospora
 - Pien Huang
@@ -26,7 +33,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 0
@@ -117,36 +125,16 @@ cross_article_links:
   confidence: medium
 draft: false
 related_stories:
-- slug: 2026-07-25-a-cyclosporiasis-caution-from-a-salad-convert
-  headline: A cyclosporiasis caution from a salad convert
-  publish_date: '2026-07-25'
-  relation: related
-  strength: 0.6446
 - slug: 2026-07-20-cdc-says-nearly-7-000-may-have-cyclospora-parasite-infection
   headline: CDC says nearly 7,000 may have Cyclospora parasite infection
   publish_date: '2026-07-20'
   relation: related
   strength: 0.6622
-- slug: 2026-07-28-cyclosporiasis-case-count-may-exceed-11-000-cdc-tracking-shows
-  headline: Cyclosporiasis case count may exceed 11,000, CDC tracking shows
-  publish_date: '2026-07-28'
-  relation: related
-  strength: 0.6018
-- slug: 2026-07-24-cyclospora-outbreak-reaches-4-173-confirmed-cases-across-41-states
-  headline: Cyclospora outbreak reaches 4,173 confirmed cases across 41 states
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.6135
 - slug: 2026-07-10-health-officials-offer-cyclospora-prevention-tips-as-outbreak-grows
   headline: Health officials offer Cyclospora prevention tips as outbreak grows
   publish_date: '2026-07-10'
   relation: related
   strength: 0.6854
-- slug: 2026-07-24-fda-identifies-second-cyclospora-cluster-of-72-cases-north-carolina-adds-parsley
-  headline: FDA identifies second cyclospora cluster of 72 cases; North Carolina adds parsley and cilantro to investigation
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.5753
 - slug: 2026-07-03-cdc-probes-cyclospora-outbreak-with-over-400-cases-across-18-states
   headline: CDC probes Cyclospora outbreak with over 400 cases across 18 states
   publish_date: '2026-07-03'
@@ -157,68 +145,7 @@ related_stories:
   publish_date: '2026-07-07'
   relation: related
   strength: 0.6561
-- slug: 2026-07-13-cyclospora-outbreak-surpasses-2-800-cases-across-31-states
-  headline: Cyclospora outbreak surpasses 2,800 cases across 31 states
-  publish_date: '2026-07-13'
-  relation: related
-  strength: 0.6198
-- slug: 2026-07-16-cdc-downgrades-cyclospora-surveillance-as-case-counts-surge-past-1-600
-  headline: CDC downgrades cyclospora surveillance as case counts surge past 1,600
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.5995
-- slug: 2026-07-19-fda-identifies-taylor-farms-lettuce-as-cyclospora-outbreak-source
-  headline: FDA identifies Taylor Farms lettuce as Cyclospora outbreak source
-  publish_date: '2026-07-19'
-  relation: related
-  strength: 0.5792
-- slug: 2026-07-21-health-secretary-declares-cyclosporiasis-outbreak-under-control-as-fda-maintains
-  headline: Health secretary declares cyclosporiasis outbreak under control as FDA maintains lettuce recall
-  publish_date: '2026-07-21'
-  relation: related
-  strength: 0.5608
-- slug: 2026-07-23-taco-bell-rushes-to-contain-cyclospora-after-july-14-alert
-  headline: Taco Bell rushes to contain Cyclospora after July 14 alert
-  publish_date: '2026-07-23'
-  relation: related
-  strength: 0.5341
-- slug: 2026-07-22-cdc-reports-more-than-4-100-cyclosporiasis-cases-in-41-states
-  headline: CDC reports more than 4,100 cyclosporiasis cases in 41 states
-  publish_date: '2026-07-22'
-  relation: related
-  strength: 0.5379
-- slug: 2026-07-09-taco-bell-pulls-fresh-ingredients-as-cyclospora-outbreak-spreads
-  headline: Taco Bell pulls fresh ingredients as Cyclospora outbreak spreads
-  publish_date: '2026-07-09'
-  relation: related
-  strength: 0.6108
-- slug: 2026-07-15-michigan-ids-bagged-salad-kits-as-possible-cyclospora-source
-  headline: Michigan IDs bagged salad kits as possible Cyclospora source
-  publish_date: '2026-07-15'
-  relation: related
-  strength: 0.5633
-- slug: 2026-07-16-taylor-farms-lettuce-supplied-to-taco-bell-linked-to-cyclospora-outbreak
-  headline: Taylor Farms lettuce supplied to Taco Bell linked to Cyclospora outbreak
-  publish_date: '2026-07-16'
-  relation: related
-  strength: 0.5539
-- slug: 2026-07-18-taylor-farms-recalls-shredded-iceberg-lettuce-in-27-states
-  headline: Taylor Farms recalls shredded iceberg lettuce in 27 states
-  publish_date: '2026-07-18'
-  relation: related
-  strength: 0.5217
-- slug: 2026-07-17-fda-traces-cyclospora-outbreak-to-single-mexican-farm-taylor-fresh-foods-pulls-a
-  headline: FDA traces Cyclospora outbreak to single Mexican farm; Taylor Fresh Foods pulls all central-Mexico iceberg lettuce
-  publish_date: '2026-07-17'
-  relation: related
-  strength: 0.5217
-- slug: 2026-06-24-farm-workers-face-elevated-risk-as-screwworm-spreads-in-us-south-west
-  headline: Farm workers face elevated risk as screwworm spreads in US south-west
-  publish_date: '2026-06-24'
-  relation: related
-  strength: 0.5254
 ---
-
 ## Cyclospora parasite reproduces in human intestines, causing weeks-long illness
 
 **Subtype:** fact

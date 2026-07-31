@@ -1,9 +1,16 @@
 ---
 headline: Record-early El Niño intensifies as UN warns of worsening weather extremes
-secondary_headline: Pacific measurement zone sets warmth record for 15th consecutive week
+secondary_headline: Pacific measurement zone sets warmth record for 15th consecutive
+  week
 publish_date: '2026-07-31'
-lede: A strengthening El Niño has broken records for intensity at its early stages, United Nations officials warned Friday, saying the weather phenomenon will likely spark more extreme weather worldwide as it grows over the coming months. The World Meteorological Organization cautioned the event will likely trigger extreme heat, drought and rainfall well into next year.
-nut_graf: The warning matters because El Niño has not yet peaked and is expected to last through spring 2027, meaning its effects will compound with climate change-driven warming to produce prolonged periods of dangerous weather across much of the globe.
+lede: A strengthening El Niño has broken records for intensity at its early stages,
+  United Nations officials warned Friday, saying the weather phenomenon will likely
+  spark more extreme weather worldwide as it grows over the coming months. The World
+  Meteorological Organization cautioned the event will likely trigger extreme heat,
+  drought and rainfall well into next year.
+nut_graf: The warning matters because El Niño has not yet peaked and is expected to
+  last through spring 2027, meaning its effects will compound with climate change-driven
+  warming to produce prolonged periods of dangerous weather across much of the globe.
 primary_entities:
 - Antonio Guterres
 - United Nations
@@ -42,7 +49,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -155,6 +163,12 @@ related_stories:
   publish_date: '2026-07-09'
   relation: related
   strength: 0.8341
+- slug: 2026-07-29-global-wildfire-burning-hits-record-low-despite-extreme-fires-in-europe-and-nort
+  headline: Global wildfire burning hits record low despite extreme fires in Europe
+    and North America
+  publish_date: '2026-07-29'
+  relation: related
+  strength: 0.6702
 - slug: 2026-06-11-el-ni-o-forms-in-pacific-forecast-to-reach-historic-strength
   headline: El Niño forms in Pacific, forecast to reach historic strength
   publish_date: '2026-06-11'
@@ -175,73 +189,7 @@ related_stories:
   publish_date: '2026-07-01'
   relation: related
   strength: 0.7305
-- slug: 2026-07-14-heat-dome-pushes-90-plus-overnight-temperature-records
-  headline: Heat dome pushes 90-plus overnight temperature records
-  publish_date: '2026-07-14'
-  relation: related
-  strength: 0.6613
-- slug: 2026-05-10-forecasters-warn-strong-el-ni-o-may-bring-record-heat-and-extreme-weather-in-202
-  headline: Forecasters Warn Strong El Niño May Bring Record Heat and Extreme Weather in 2026
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.8705
-- slug: 2026-05-10-forecasters-warn-strong-el-ni-o-could-bring-heat-drought-and-heavier-rain
-  headline: Forecasters warn strong El Niño could bring heat, drought and heavier rain
-  publish_date: '2026-05-10'
-  relation: related
-  strength: 0.8669
-- slug: 2026-06-09-professor-outlines-10-ways-super-el-ni-o-could-hit-global-economy-food-supply
-  headline: Professor outlines 10 ways 'super' El Niño could hit global economy, food supply
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.7694
-- slug: 2026-06-23-former-noaa-official-warns-trump-administration-jeopardized-el-ni-o-forecasting
-  headline: Former NOAA official warns Trump administration jeopardized El Niño forecasting
-  publish_date: '2026-06-23'
-  relation: related
-  strength: 0.7111
-- slug: 2026-06-30-heat-wave-intensifies-across-us-120-million-under-extreme-heat-warnings
-  headline: Heat wave intensifies across US, 120 million under extreme heat warnings
-  publish_date: '2026-06-30'
-  relation: related
-  strength: 0.6654
-- slug: 2026-05-27-un-75-chance-global-warming-breaches-1-5-c-in-next-five-years
-  headline: 'UN: 75% chance global warming breaches 1.5°C in next five years'
-  publish_date: '2026-05-27'
-  relation: related
-  strength: 0.7084
-- slug: 2026-05-22-el-ni-o-may-curb-atlantic-hurricanes-noaa-still-warns-of-damaging-storms
-  headline: El Niño may curb Atlantic hurricanes, NOAA still warns of damaging storms
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.7134
-- slug: 2026-04-09-march-smashes-u-s-heat-records-as-forecasters-warn-of-strong-el-ni-o
-  headline: March smashes U.S. heat records as forecasters warn of strong El Niño
-  publish_date: '2026-04-09'
-  relation: related
-  strength: 0.7774
-- slug: 2026-05-21-el-ni-o-dampens-atlantic-hurricane-risk-but-increases-it-in-pacific
-  headline: El Niño dampens Atlantic hurricane risk, but increases it in Pacific
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.7075
-- slug: 2026-05-23-el-nino-dampens-atlantic-hurricane-risk-but-raises-pacific-storm-threat
-  headline: El Nino dampens Atlantic hurricane risk, but raises Pacific storm threat
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.6784
-- slug: 2026-02-21-scientists-change-el-ni-o-label-to-keep-up-with-warming-waters
-  headline: Scientists change El Niño label to keep up with warming waters
-  publish_date: '2026-02-21'
-  relation: related
-  strength: 0.7623
-- slug: 2026-01-14-climate-change-blamed-for-earth-s-near-record-hot-year-in-2025
-  headline: Climate change blamed for Earth’s near-record hot year in 2025
-  publish_date: '2026-01-14'
-  relation: related
-  strength: 0.7516
 ---
-
 ## Record-early El Niño intensifies as UN warns of worsening weather extremes
 
 **Subtype:** fact

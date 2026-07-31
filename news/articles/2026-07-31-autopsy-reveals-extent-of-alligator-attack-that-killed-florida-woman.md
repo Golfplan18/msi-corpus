@@ -2,8 +2,16 @@
 headline: Autopsy reveals extent of alligator attack that killed Florida woman
 secondary_headline: Attack caused near-complete amputation of both arms, report shows
 publish_date: '2026-07-31'
-lede: Newly released autopsy results confirm that Brittany Clark, 31, sustained near-complete traumatic amputations of both arms during a rare alligator attack in Florida's Little Big Econ State Forest on June 28, leading to her death. The 11-page report, published Thursday, documented the extent of the injuries from the mauling in the Econlockhatchee River.
-nut_graf: The autopsy provides new detail on one of the rare fatal alligator attacks in Florida, where the Florida Fish and Wildlife Conservation Commission has documented an average of about eight unprovoked bites annually and only 26 fatalities from such attacks since 1948. The report confirmed that Clark died from multiple blunt force injuries and that her death was accidental.
+lede: Newly released autopsy results confirm that Brittany Clark, 31, sustained near-complete
+  traumatic amputations of both arms during a rare alligator attack in Florida's Little
+  Big Econ State Forest on June 28, leading to her death. The 11-page report, published
+  Thursday, documented the extent of the injuries from the mauling in the Econlockhatchee
+  River.
+nut_graf: The autopsy provides new detail on one of the rare fatal alligator attacks
+  in Florida, where the Florida Fish and Wildlife Conservation Commission has documented
+  an average of about eight unprovoked bites annually and only 26 fatalities from
+  such attacks since 1948. The report confirmed that Clark died from multiple blunt
+  force injuries and that her death was accidental.
 primary_entities:
 - Brittany Clark
 - Chance Allison
@@ -42,7 +50,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -145,103 +154,7 @@ related_stories:
   publish_date: '2026-06-29'
   relation: related
   strength: 0.8267
-- slug: 2026-07-24-alcohol-withdrawal-caused-big-sur-hiker-s-death-coroner-rules
-  headline: Alcohol withdrawal caused Big Sur hiker's death, coroner rules
-  publish_date: '2026-07-24'
-  relation: related
-  strength: 0.5701
-- slug: 2026-06-26-environmental-groups-demand-investigation-into-alligator-alcatraz-everglades-dam
-  headline: Environmental groups demand investigation into Alligator Alcatraz Everglades damage
-  publish_date: '2026-06-26'
-  relation: related
-  strength: 0.6234
-- slug: 2026-06-25-desantis-confirms-alligator-alcatraz-closure-boasts-of-deporting-21-000
-  headline: DeSantis confirms 'Alligator Alcatraz' closure, boasts of deporting 21,000
-  publish_date: '2026-06-25'
-  relation: related
-  strength: 0.5872
-- slug: 2026-06-09-alligator-attacks-man-fleeing-police-in-louisiana-swamp
-  headline: Alligator attacks man fleeing police in Louisiana swamp
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.6088
-- slug: 2026-06-16-all-detainees-moved-from-florida-s-alligator-alcatraz-facility-ice-says
-  headline: All detainees moved from Florida's 'Alligator Alcatraz' facility, ICE says
-  publish_date: '2026-06-16'
-  relation: related
-  strength: 0.5737
-- slug: 2026-06-09-hiker-recounts-grizzly-bear-attack-at-glacier-national-park
-  headline: Hiker recounts grizzly bear attack at Glacier National Park
-  publish_date: '2026-06-09'
-  relation: related
-  strength: 0.5835
-- slug: 2026-06-05-alligator-alcatraz-detainees-say-guards-withhold-food-water-for-signing-document
-  headline: Alligator Alcatraz detainees say guards withhold food, water for signing documents
-  publish_date: '2026-06-05'
-  relation: related
-  strength: 0.5678
-- slug: 2026-05-23-florida-executes-richard-knight-for-2002-killing-of-woman-and-her-child
-  headline: Florida executes Richard Knight for 2002 killing of woman and her child
-  publish_date: '2026-05-23'
-  relation: related
-  strength: 0.5889
-- slug: 2026-05-22-florida-biologist-brittney-brown-reaches-485-000-settlement-over-kirk-post
-  headline: Florida biologist Brittney Brown reaches $485,000 settlement over Kirk post
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.5762
-- slug: 2026-05-22-florida-executes-richard-knight-for-2002-killing-of-woman-and-child
-  headline: Florida executes Richard Knight for 2002 killing of woman and child
-  publish_date: '2026-05-22'
-  relation: related
-  strength: 0.5718
-- slug: 2026-05-20-florida-executes-richard-knight-for-2002-killing-of-woman-and-her-4-year-old-dau
-  headline: Florida executes Richard Knight for 2002 killing of woman and her 4-year-old daughter
-  publish_date: '2026-05-20'
-  relation: related
-  strength: 0.5725
-- slug: 2026-05-21-florida-executes-richard-knight-for-2002-killings-of-woman-and-child
-  headline: Florida executes Richard Knight for 2002 killings of woman and child
-  publish_date: '2026-05-21'
-  relation: related
-  strength: 0.5686
-- slug: 2026-05-09-bear-attack-kills-hiker-at-glacier-national-park-first-such-fatality-since-1998
-  headline: Bear attack kills hiker at Glacier National Park; first such fatality since 1998
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.5839
-- slug: 2026-05-14-florida-signals-closure-of-everglades-detention-center-as-lawsuit-returns-to-jud
-  headline: Florida signals closure of Everglades detention center as lawsuit returns to judge who blocked it
-  publish_date: '2026-05-14'
-  relation: related
-  strength: 0.5675
-- slug: 2026-05-09-bear-attack-kills-hiker-found-in-glacier-national-park-nps-says
-  headline: Bear attack kills hiker found in Glacier National Park, NPS says
-  publish_date: '2026-05-09'
-  relation: related
-  strength: 0.5753
-- slug: 2026-04-15-guards-accused-of-beating-detainees-at-florida-s-alligator-alcatraz
-  headline: Guards accused of beating detainees at Florida's 'Alligator Alcatraz'
-  publish_date: '2026-04-15'
-  relation: related
-  strength: 0.5721
-- slug: 2026-01-05-wildlife-officials-end-colorado-mountain-lion-search-after-hiker-killed-on-new-y
-  headline: Wildlife officials end Colorado mountain lion search after hiker killed on New Year's Day
-  publish_date: '2026-01-05'
-  relation: related
-  strength: 0.5987
-- slug: 2026-03-16-florida-executed-michael-lee-king-after-2008-denise-amber-lee-killing
-  headline: Florida executed Michael Lee King after 2008 Denise Amber Lee killing
-  publish_date: '2026-03-16'
-  relation: related
-  strength: 0.5683
-- slug: 2026-01-16-bigg-s-killer-whales-breach-and-tail-slap-off-seattle-s-alki-beach-drawing-dozen
-  headline: Bigg's killer whales breach and tail-slap off Seattle's Alki Beach, drawing dozens to shore
-  publish_date: '2026-01-16'
-  relation: related
-  strength: 0.5942
 ---
-
 ## Autopsy reveals extent of alligator attack that killed Florida woman
 
 **Subtype:** fact
