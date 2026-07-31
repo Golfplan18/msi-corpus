@@ -28,6 +28,7 @@ topic_tags:
 - health
 storyline_nexus:
 - extreme-weather-disasters
+- northeast-us-flash-floods-week
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -118,14 +119,19 @@ related_stories:
   strength: 0.668
 image:
   url: /articles/2026-07-22-west-virginia-floods-prompt-state-of-emergency-national-guard-deployment.png
-  alt: "Illustration accompanying article: West Virginia floods prompt state of emergency, National Guard deployment"
+  alt: 'Illustration accompanying article: West Virginia floods prompt state of emergency,
+    National Guard deployment'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:openai/gpt-5.4-image-2"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
+
 ## West Virginia floods prompt state of emergency, National Guard deployment
 
 **Subtype:** fact

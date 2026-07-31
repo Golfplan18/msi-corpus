@@ -22,6 +22,7 @@ topic_tags:
 - weather
 storyline_nexus:
 - extreme-weather-disasters
+- northeast-us-flash-floods-week
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -191,6 +192,7 @@ related_stories:
   relation: related
   strength: 0.6716
 ---
+
 ## Missouri declares state of emergency as flash floods hit central, southern areas
 
 **Subtype:** fact

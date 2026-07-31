@@ -2,7 +2,10 @@
 headline: New Jersey store roof collapses as floodwaters break heat wave
 secondary_headline: Mayor warns New Yorkers to leave basements amid floodwaters
 publish_date: '2026-07-06'
-lede: Rounds of storms brought flooding rain to parts of New York City, Philadelphia and New Jersey on Monday, breaking a heat wave that had gripped the region. New York City Mayor Zohran Mamdani warned residents of basement apartments to leave immediately if they saw water rising in their homes.
+lede: Rounds of storms brought flooding rain to parts of New York City, Philadelphia
+  and New Jersey on Monday, breaking a heat wave that had gripped the region. New
+  York City Mayor Zohran Mamdani warned residents of basement apartments to leave
+  immediately if they saw water rising in their homes.
 primary_entities:
 - New Jersey
 - New York City
@@ -21,6 +24,7 @@ topic_tags:
 - weather
 storyline_nexus:
 - extreme-weather-disasters
+- northeast-us-flash-floods-week
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -34,7 +38,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -65,13 +70,17 @@ cross_article_links:
 draft: false
 image:
   url: /articles/2026-07-06-new-jersey-store-roof-collapses-as-floodwaters-break-heat-wave.png
-  alt: 'Illustration accompanying article: New Jersey store roof collapses as floodwaters break heat wave'
+  alt: 'Illustration accompanying article: New Jersey store roof collapses as floodwaters
+    break heat wave'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
   license: https://creativecommons.org/publicdomain/zero/1.0/
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
   ai_model: openrouter:openai/gpt-5.4-image-2
-  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 related_stories: []
 ---
 

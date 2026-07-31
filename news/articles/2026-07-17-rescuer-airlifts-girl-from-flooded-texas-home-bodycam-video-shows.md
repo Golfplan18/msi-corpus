@@ -15,7 +15,8 @@ primary_themes:
 - extreme weather
 topic_tags:
 - weather
-storyline_nexus: []
+storyline_nexus:
+- northeast-us-flash-floods-week
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -72,14 +73,19 @@ related_stories:
   strength: 0.6766
 image:
   url: /articles/2026-07-17-rescuer-airlifts-girl-from-flooded-texas-home-bodycam-video-shows.png
-  alt: "Illustration accompanying article: Rescuer airlifts girl from flooded Texas home, bodycam video shows"
+  alt: 'Illustration accompanying article: Rescuer airlifts girl from flooded Texas
+    home, bodycam video shows'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:openai/gpt-5.4-image-2"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 ---
+
 ## Rescuer airlifts girl from flooded Texas home, bodycam video shows
 
 **Subtype:** fact
