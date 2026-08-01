@@ -29,7 +29,8 @@ primary_themes:
 - Disaster response
 topic_tags:
 - disaster
-storyline_nexus: []
+storyline_nexus:
+- wildfires-in-spain-and-france-force-evacuation-of-300-000
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -156,16 +157,21 @@ related_stories:
   strength: 0.7472
 image:
   url: /articles/2026-07-28-macron-warns-france-faces-worst-wildfire-crisis-since-world-war-ii.png
-  alt: "Illustration accompanying article: Macron warns France faces worst wildfire crisis since World War II"
+  alt: 'Illustration accompanying article: Macron warns France faces worst wildfire
+    crisis since World War II'
   credit: Main Street Independent (algorithmic)
   source: ai_generated
-  license: "https://creativecommons.org/publicdomain/zero/1.0/"
-  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
-  ai_model: "openrouter:openai/gpt-5.4-image-2"
-  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+  disclosure: AI-generated image. Prompt summary and model identifier available in
+    metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: hand-drawn, black ink linework, solid white background, fully opaque,
+    linework dominant, varied pen technique | square 1:1 composition, full-bleed square
+    frame that fills the entire canvas edge to edg
 analyses:
-- '2026-07-28-the-blindspot-of-the-blaze-who-pays-for-europe-s-infernos-when-the-cameras-leave'
+- 2026-07-28-the-blindspot-of-the-blaze-who-pays-for-europe-s-infernos-when-the-cameras-leave
 ---
+
 ## Macron warns France faces worst wildfire crisis since World War II
 
 **Subtype:** fact

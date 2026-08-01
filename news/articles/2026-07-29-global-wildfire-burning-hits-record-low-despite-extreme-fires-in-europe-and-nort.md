@@ -26,7 +26,8 @@ primary_themes:
 topic_tags:
 - disaster
 - natural disaster
-storyline_nexus: []
+storyline_nexus:
+- wildfires-in-spain-and-france-force-evacuation-of-300-000
 storyline_continuity:
   decision: none
   selected_prior_ids: []
@@ -200,6 +201,7 @@ image:
     linework dominant, varied pen technique | square 1:1 composition, full-bleed square
     frame that fills the entire canvas edge to edg
 ---
+
 ## Global wildfire burning hits record low despite extreme fires in Europe and North America
 
 **Subtype:** fact

@@ -152,6 +152,15 @@ related_stories:
   publish_date: '2026-02-18'
   relation: related
   strength: 0.6535
+image:
+  url: /articles/2026-07-31-japan-launches-national-intelligence-bureau-to-coordinate-security-analysis.png
+  alt: "Illustration accompanying article: Japan launches National Intelligence Bureau to coordinate security analysis"
+  credit: Main Street Independent (algorithmic)
+  source: ai_generated
+  license: "https://creativecommons.org/publicdomain/zero/1.0/"
+  disclosure: AI-generated image. Prompt summary and model identifier available in metadata.
+  ai_model: "openrouter:openai/gpt-5.4-image-2"
+  ai_prompt: "hand-drawn, black ink linework, solid white background, fully opaque, linework dominant, varied pen technique | square 1:1 composition, full-bleed square frame that fills the entire canvas edge to edg"
 ---
 ## Japan launches National Intelligence Bureau to coordinate security analysis
 
