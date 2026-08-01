@@ -1,7 +1,8 @@
 ---
 headline: The $490 Billion Was Built at $0.004 a Label
 publish_date: '2026-07-31'
-lede: Nia is a tagger on the annotation bench of the AI data-services facility I own through a holding company registered in a county adjacent to Birmingham, Alabama.
+lede: Nia is a tagger on the annotation bench of the AI data-services facility I own
+  through a holding company registered in a county adjacent to Birmingham, Alabama.
 pen_name: sterling-varice
 primary_entities: []
 primary_themes: []
@@ -14,7 +15,8 @@ gdelt_event_ids: []
 consensus_floor_version: current
 publication_mindspec_version: sterling-varice-2026-06
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -30,7 +32,28 @@ figures_aggregate:
   sources: []
 cross_article_links: []
 draft: false
+image:
+  url: /cartoons/the-490-billion-was-built-at-0004-a-label.png
+  alt: 'Editorial cartoon by Hector Rentier: The $490 Billion Was Built at $0.004
+    a Label'
+  caption: He read every report on the fund. He filed the per-label rate face-down.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-07-31T23:15:43-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: 'Grouped allegorical scene, 1:1 aspect ratio. Central figure: a senator-type
+    in a dark suit seated at a heavy wooden desk reviewing a single large document
+    labeled ''AMERICAN AI SOVEREIGN WEALTH FUND — '
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-07-31-hector-paired-with-2026-07-31-sterling-the-490-billion-was-built-at-0-004-a-label
 ---
+
+![Editorial cartoon by Hector Rentier: The $490 Billion Was Built at $0.004 a Label](/cartoons/the-490-billion-was-built-at-0004-a-label.png)
+*He read every report on the fund. He filed the per-label rate face-down.*
 
 Nia is a tagger on the annotation bench of the AI data-services facility I own through a holding company registered in a county adjacent to Birmingham, Alabama. She is 26. She labeled the data the model consumed. The company built on that data is valued at $490 billion. She earns $13.80 an hour. The United States Senate's answer to the inequality between the eight AI oligarchs who hold $2.9 trillion and the bottom 59% of households is a $1,000 annual dividend.
 
