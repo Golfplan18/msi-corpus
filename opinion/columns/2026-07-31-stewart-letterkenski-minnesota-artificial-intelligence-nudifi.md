@@ -1,7 +1,9 @@
 ---
 headline: Elon Musk Sues to Keep Making Naked Pictures of People Who Didn't Ask
 publish_date: '2026-07-31'
-lede: It is true that xAI has a point, in the narrow sense in which lawyers usually do, when it argues that Minnesota's new statute banning AI nudification technology sweeps more broadly than the legislature meant.
+lede: It is true that xAI has a point, in the narrow sense in which lawyers usually
+  do, when it argues that Minnesota's new statute banning AI nudification technology
+  sweeps more broadly than the legislature meant.
 pen_name: stewart-letterkenski
 primary_entities: []
 primary_themes: []
@@ -15,7 +17,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -37,7 +40,28 @@ cross_article_links:
   confidence: high
 draft: false
 backlog_release: true
+image:
+  url: /cartoons/elon-musk-sues-to-keep-making-naked-pictures-of-people-who.png
+  alt: 'Editorial cartoon by Hector Rentier: Elon Musk Sues to Keep Making Naked Pictures
+    of People Who Didn''t Ask'
+  caption: The capability could simply be turned off.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-07-31T22:53:48-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5-image
+  ai_prompt: Single-panel wood-engraving, heavy cross-hatch, 1:1 format. In the primary
+    frame, a well-dressed corporate lawyer stands at an ornate podium labeled FIRST
+    AMENDMENT, one hand pressed flat on a large s
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-07-31-hector-paired-with-2026-07-31-stewart-letterkenski-minnesota-artificial-intelligence-nudifi
 ---
+
+![Editorial cartoon by Hector Rentier: Elon Musk Sues to Keep Making Naked Pictures of People Who Didn't Ask](/cartoons/elon-musk-sues-to-keep-making-naked-pictures-of-people-who.png)
+*The capability could simply be turned off.*
 
 It is true that xAI has a point, in the narrow sense in which lawyers usually do, when it argues that Minnesota's new statute banning AI nudification technology sweeps more broadly than the legislature meant. The law was signed in May, takes effect Saturday, carries a $500,000 penalty per violation, and is the first state measure of its kind. On its face it does sweep in more than the nonconsensual intimate imagery it names. xAI's 38-page complaint, filed Monday in federal court in Minnesota, says the law "extends far beyond that goal" and bans constitutionally protected images and video. The company has carefully stipulated that it does not contest banning AI-generated nude images of real people without their consent. The legal posture of a company that has read the briefs on cases like this from the other side of the docket.
 
