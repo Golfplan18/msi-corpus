@@ -33,6 +33,7 @@ topic_tags:
 - health
 storyline_nexus:
 - mold-disease-after-flooding
+- cyclospora-outbreak-investigation-in-washtenaw-county
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity

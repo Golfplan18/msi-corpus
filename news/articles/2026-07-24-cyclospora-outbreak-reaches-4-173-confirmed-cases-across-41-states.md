@@ -26,7 +26,8 @@ primary_themes:
 topic_tags:
 - health
 - public health
-storyline_nexus: []
+storyline_nexus:
+- cyclospora-outbreak-investigation-in-washtenaw-county
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -183,8 +184,9 @@ related_stories:
   relation: related
   strength: 0.7165
 analyses:
-- '2026-07-24-fda-s-false-positive-retraction-drives-consumer-panic-in-41-state-cyclospora-out'
+- 2026-07-24-fda-s-false-positive-retraction-drives-consumer-panic-in-41-state-cyclospora-out
 ---
+
 ## Cyclospora outbreak reaches 4,173 confirmed cases across 41 states
 
 **Subtype:** fact

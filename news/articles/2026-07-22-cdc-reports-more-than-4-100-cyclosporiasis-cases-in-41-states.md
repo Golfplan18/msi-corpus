@@ -26,7 +26,8 @@ topic_tags:
 - disease and condition
 - epidemic and pandemic
 - consumer goods
-storyline_nexus: []
+storyline_nexus:
+- cyclospora-outbreak-investigation-in-washtenaw-county
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -186,6 +187,7 @@ related_stories:
   relation: related
   strength: 0.7281
 ---
+
 ## CDC reports more than 4,100 cyclosporiasis cases in 41 states
 
 **Subtype:** fact
