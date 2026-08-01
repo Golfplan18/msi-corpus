@@ -1,7 +1,8 @@
 ---
 headline: The Conviction Machine Works. The Cartel War Does Not.
 publish_date: '2026-07-31'
-lede: The United States is winning every cartel conviction and losing every cartel war.
+lede: The United States is winning every cartel conviction and losing every cartel
+  war.
 pen_name: thomas-reynolds
 primary_entities:
 - Antonio Oseguera Cervantes
@@ -33,7 +34,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -54,7 +56,28 @@ cross_article_links:
   strength: 0.1846
   confidence: high
 draft: false
+image:
+  url: /cartoons/the-conviction-machine-works-the-cartel-war-does-not.png
+  alt: 'Editorial cartoon by Hector Rentier: The Conviction Machine Works. The Cartel
+    War Does Not.'
+  caption: The machine was built to process defendants, not to solve a crisis.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
+  source: ai_generated
+  attached_at: '2026-07-31T23:06:12-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: '1:1, heavy cross-hatch wood-engraving. Central subject: a cartoonish
+    mechanical stamping press labeled ''CONVICTION MACHINE'' dominates the center
+    of the frame. The machine has a funnel hopper at top in'
+  license: https://creativecommons.org/publicdomain/zero/1.0/
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-07-31-hector-paired-with-2026-07-31-thomas-reynolds-cjng-el-mencho-mexican-cartel
 ---
+
+![Editorial cartoon by Hector Rentier: The Conviction Machine Works. The Cartel War Does Not.](/cartoons/the-conviction-machine-works-the-cartel-war-does-not.png)
+*The machine was built to process defendants, not to solve a crisis.*
 
 The United States is winning every cartel conviction and losing every cartel war.
 

@@ -1,7 +1,10 @@
 ---
-headline: I Always Said Rodric Bray Was Weak and Disloyal, and Now the Whole World Is Finally Seeing It
+headline: I Always Said Rodric Bray Was Weak and Disloyal, and Now the Whole World
+  Is Finally Seeing It
 publish_date: '2026-07-31'
-lede: I just had a TREMENDOUS victory in Indiana, just like I said we would when [Diklis Chump-backed candidates won the majority of GOP primary races](/articles/2026-05-06-trump-backed-candidates-win-majority-of-gop-primary-races-for-indiana-senate/) back in May.
+lede: I just had a TREMENDOUS victory in Indiana, just like I said we would when [Diklis
+  Chump-backed candidates won the majority of GOP primary races](/articles/2026-05-06-trump-backed-candidates-win-majority-of-gop-primary-races-for-indiana-senate/)
+  back in May.
 pen_name: diklis-chump
 primary_entities:
 - Donald Trump
@@ -30,7 +33,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -46,16 +50,33 @@ figures_aggregate:
   series_ids: []
   sources: []
 image:
-  url: /articles/2026-07-31-bray-steps-down-as-indiana-senate-leader-after-primary-defeats-over-redistrictin.png
-  alt: 'Illustration accompanying article: Bray steps down as Indiana Senate leader after primary defeats over redistricting'
+  url: /cartoons/bray-steps-down-as-indiana-senate-leader-after-primary.png
+  alt: 'Editorial cartoon by Hector Rentier: Bray steps down as Indiana Senate leader
+    after primary defeats over redistricting'
+  caption: Six went down. One man wanted the chairs.
+  credit: Hector Rentier (Main Street Independent, algorithmic)
   source: ai_generated
+  attached_at: '2026-07-31T22:59:37-07:00'
+  disclosure: AI-generated illustration. Prompt summary and model identifier available
+    in metadata.
+  ai_model: openrouter:openai/gpt-5.4-image-2
+  ai_prompt: Single panel, 1:1. Deep interior scene of a long conference table in
+    the Indiana Senate chamber. At the head of the table, a fully individuated Donald
+    Trump sits in a large, ornate chair, face fully r
+  license: https://creativecommons.org/publicdomain/zero/1.0/
 cross_article_links:
 - slug: 2026-07-31-bray-steps-down-as-indiana-senate-leader-after-primary-defeats-over-redistrictin
   relation: extends
   strength: 0.2276
   confidence: high
 draft: false
+paired_cartoon:
+  pen_name: hector-rentier
+  slug: 2026-07-31-hector-paired-with-2026-07-31-diklis-chump-indiana-trump-rodric-bray
 ---
+
+![Editorial cartoon by Hector Rentier: Bray steps down as Indiana Senate leader after primary defeats over redistricting](/cartoons/bray-steps-down-as-indiana-senate-leader-after-primary.png)
+*Six went down. One man wanted the chairs.*
 
 I just had a TREMENDOUS victory in Indiana, just like I said we would when [Diklis Chump-backed candidates won the majority of GOP primary races](/articles/2026-05-06-trump-backed-candidates-win-majority-of-gop-primary-races-for-indiana-senate/) back in May. Very few people could have done it, believe me. Rodric Bray, very weak, very disloyal, who has been the Senate leader since 2018, he just stepped down. He had no choice! Six great Republican incumbents lost their primaries because they didn't support the Redistricting Plan. The Fake News Media won't tell you this, but I had NOTHING to do with it, nothing, even though the [Indiana primary showed exactly how I punish Republicans who defy me](/articles/2026-05-08-indiana-primary-shows-how-trump-can-punish-republicans-who-defy-him/). I didn't even call the voters. Never met most of them. They lost because they were LOW IQ, very low IQ, and I had NOTHING to do with their primary defeats, never even spoke to them, but the new guys who won came to me with tears in their eyes, big tough men, generals of the Indiana Senate, saying Sir, Sir. They thought they could cross me. Nobody crosses me! I made them all — governors, senators, every one of them — I made them, and the minute I needed them, poof, gone. The ingratitude. The horrible ingratitude. But I'm cleaning them out. Beautiful.
 
