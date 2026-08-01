@@ -31,7 +31,8 @@ primary_themes:
 - federal funding
 topic_tags:
 - health
-storyline_nexus: []
+storyline_nexus:
+- mold-disease-after-flooding
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -132,8 +133,9 @@ related_stories:
   relation: related
   strength: 0.6654
 analyses:
-- '2026-07-16-how-a-downgraded-surveillance-system-turned-a-foodborne-outbreak-into-a-preventa'
+- 2026-07-16-how-a-downgraded-surveillance-system-turned-a-foodborne-outbreak-into-a-preventa
 ---
+
 ## More than 3,000 public health workers have left the agency
 
 **Subtype:** fact

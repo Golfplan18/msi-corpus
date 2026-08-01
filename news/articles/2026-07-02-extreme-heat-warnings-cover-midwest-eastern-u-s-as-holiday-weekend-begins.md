@@ -2,8 +2,15 @@
 headline: Extreme heat warnings cover Midwest, Eastern U.S. as holiday weekend begins
 secondary_headline: Heatstroke can trigger organ failure, heart attack, doctors warn
 publish_date: '2026-07-02'
-lede: Large swaths of the Midwest and the Eastern U.S. are under extreme heat warnings or heat advisories as the July Fourth holiday weekend begins, according to the National Weather Service. Hundreds of people die of heat-related illness in the U.S. each year, and heatstroke can lead to multiple organ failure, kidney failure, or heart attack.
-nut_graf: The warnings come as the July Fourth holiday weekend approaches. Health officials and physicians are urging the public to take precautions, noting that heat risk depends on humidity, individual health conditions, and medications — not just the temperature reading on a thermometer.
+lede: Large swaths of the Midwest and the Eastern U.S. are under extreme heat warnings
+  or heat advisories as the July Fourth holiday weekend begins, according to the National
+  Weather Service. Hundreds of people die of heat-related illness in the U.S. each
+  year, and heatstroke can lead to multiple organ failure, kidney failure, or heart
+  attack.
+nut_graf: The warnings come as the July Fourth holiday weekend approaches. Health
+  officials and physicians are urging the public to take precautions, noting that
+  heat risk depends on humidity, individual health conditions, and medications — not
+  just the temperature reading on a thermometer.
 primary_entities:
 - National Weather Service
 - Duke University Heat Policy Innovation Hub
@@ -31,6 +38,7 @@ topic_tags:
 - mental health
 storyline_nexus:
 - extreme-weather-disasters
+- mold-disease-after-flooding
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -46,7 +54,8 @@ gdelt_event_ids: []
 consensus_floor_version: v0.3.0
 publication_mindspec_version: v0.3.0
 license: https://creativecommons.org/publicdomain/zero/1.0/
-ai_disclosure: This article was generated algorithmically by Main Street Independent from the public sources listed in its Sources section.
+ai_disclosure: This article was generated algorithmically by Main Street Independent
+  from the public sources listed in its Sources section.
 ai_generated: true
 sources:
   count: 1
@@ -65,7 +74,7 @@ cross_article_links: []
 draft: false
 related_stories: []
 analyses:
-- '2026-07-02-aggregate-heat-warnings-masking-individual-risk-across-medication-and-access-var'
+- 2026-07-02-aggregate-heat-warnings-masking-individual-risk-across-medication-and-access-var
 ---
 
 ## Key points
