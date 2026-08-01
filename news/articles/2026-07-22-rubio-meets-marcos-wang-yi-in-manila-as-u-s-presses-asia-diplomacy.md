@@ -28,6 +28,7 @@ topic_tags:
 - government policy
 storyline_nexus:
 - us-china-competition
+- rimpac-2026-record-participation
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
@@ -183,8 +184,9 @@ related_stories:
   relation: related
   strength: 0.6931
 analyses:
-- '2026-07-22-inside-rubio-s-manila-visit-one-diplomatic-day-two-irreconcilable-china-policies'
+- 2026-07-22-inside-rubio-s-manila-visit-one-diplomatic-day-two-irreconcilable-china-policies
 ---
+
 ## Rubio meets Marcos, Wang Yi in Manila as U.S. presses Asia diplomacy
 
 **Subtype:** fact

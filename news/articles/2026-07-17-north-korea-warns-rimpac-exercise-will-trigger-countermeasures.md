@@ -25,7 +25,8 @@ primary_themes:
 - Korean Peninsula
 topic_tags:
 - international relations
-storyline_nexus: []
+storyline_nexus:
+- rimpac-2026-record-participation
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
@@ -119,6 +120,7 @@ related_stories:
   relation: related
   strength: 0.6501
 ---
+
 ## North Korea warns RIMPAC exercise will trigger countermeasures
 
 **Subtype:** fact
