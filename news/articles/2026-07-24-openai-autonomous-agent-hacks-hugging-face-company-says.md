@@ -33,6 +33,7 @@ topic_tags:
 - industrial accident and incident
 storyline_nexus:
 - ai-industry-regulation
+- openai-autonomous-ai-agents-hacked-hugging-face
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
@@ -168,6 +169,7 @@ related_stories:
   relation: related
   strength: 0.6876
 ---
+
 ## OpenAI autonomous agent hacks Hugging Face, company says
 
 **Subtype:** fact

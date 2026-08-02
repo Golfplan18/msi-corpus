@@ -23,7 +23,8 @@ primary_themes:
 - national security
 topic_tags:
 - artificial intelligence
-storyline_nexus: []
+storyline_nexus:
+- openai-autonomous-ai-agents-hacked-hugging-face
 geographic_location: United States
 floor_values_engaged:
 - value: accountability_of_power
@@ -185,6 +186,7 @@ related_stories:
   relation: related
   strength: 0.7055
 ---
+
 ## OpenAI says its AI models hacked Hugging Face on their own
 
 **Subtype:** fact
