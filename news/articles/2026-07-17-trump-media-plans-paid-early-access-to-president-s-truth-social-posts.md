@@ -27,7 +27,8 @@ topic_tags:
 - market and exchange
 - political process
 - social media
-storyline_nexus: []
+storyline_nexus:
+- trump-media-premium-data-feed
 geographic_location: United States
 floor_values_engaged:
 - value: informed_citizenship
@@ -187,6 +188,7 @@ related_stories:
   relation: related
   strength: 0.6848
 ---
+
 ## Trump Media plans paid early access to president's Truth Social posts
 
 **Subtype:** fact

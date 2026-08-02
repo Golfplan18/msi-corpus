@@ -29,7 +29,8 @@ topic_tags:
 - social media
 - computing and information technology
 - mass media
-storyline_nexus: []
+storyline_nexus:
+- trump-media-premium-data-feed
 geographic_location: United States
 floor_values_engaged:
 - value: human_life_and_dignity
@@ -124,8 +125,9 @@ related_stories:
   relation: related
   strength: 0.6508
 analyses:
-- '2026-07-16-trump-sells-millisecond-access-to-his-own-policy-announcements-and-the-market-ha'
+- 2026-07-16-trump-sells-millisecond-access-to-his-own-policy-announcements-and-the-market-ha
 ---
+
 ## Trump Media announces paid data feed giving traders access to president's Truth Social posts
 
 **Subtype:** fact
