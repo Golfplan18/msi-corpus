@@ -47,12 +47,14 @@ ai_disclosure: This article was generated algorithmically by Main Street Indepen
   from the public sources listed in its Sources section.
 ai_generated: true
 sources:
-  count: 2
+  count: 3
   outlets:
   - United Press International
   - Associated Press
+  - The Wall Street Journal
   outlet_classes:
   - wire
+  - national_daily
   highest_reliability_tier: 2
   has_originating: true
   has_primary_document: false
